@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Penedo, Caio Luccas
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,843 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,865 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 12 | [CRYPTO](https://open.spotify.com/track/4t6kVkBInnt9eBoyqnlNVg) | [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [CRYPTO](https://open.spotify.com/album/0G8Ax5Pm1vC8Qb2lNznHQc) | 2:25 |
 | 13 | [Desde Menozin](https://open.spotify.com/track/1WDMnIsGgtvUEjG53VFLOG) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L) | [Desde Menozin](https://open.spotify.com/album/6OOAejoSc1Dw6iLeEiwyc6) | 3:23 |
 | 14 | [Grave](https://open.spotify.com/track/1H0Wot0dupT6fKhWKRCXqJ) | [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An) | [Grave](https://open.spotify.com/album/7rfEf0bN3tlTUCtfzPph5k) | 2:23 |
-| 15 | [Detectou](https://open.spotify.com/track/6AWiKOTGiyJmpNgHXlNLwX) | [PrimeiraMente](https://open.spotify.com/artist/3ljiSwQJmAVQVOXirjA2RT), [Raillow](https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN), [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [Lucas Gali](https://open.spotify.com/artist/3K0d3wFUuuzWb3o6tEqRlm) | [Detectou](https://open.spotify.com/album/7LO0ggSquI2Ljg1UhwxQRf) | 4:34 |
+| 15 | [Detectou](https://open.spotify.com/track/6AWiKOTGiyJmpNgHXlNLwX) | [PrimeiraMente](https://open.spotify.com/artist/3ljiSwQJmAVQVOXirjA2RT), [Raillow](https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN), [Lucas Gali](https://open.spotify.com/artist/3K0d3wFUuuzWb3o6tEqRlm), [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU) | [Detectou](https://open.spotify.com/album/7LO0ggSquI2Ljg1UhwxQRf) | 4:34 |
 | 16 | [Mente do crime](https://open.spotify.com/track/07ZajNZ1AaD1qvOeHI1Vgu) | [Rausch](https://open.spotify.com/artist/5WV5P4B72pZn3DgYzV9Z9J), [Sheik S](https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b) | [Mente do crime](https://open.spotify.com/album/0FsTIzaOAMVbsVhnmk6TUy) | 3:04 |
 | 17 | [Pod](https://open.spotify.com/track/4hHXcfk6Lo8lK2EgkIcnjJ) | [prodbyxbs](https://open.spotify.com/artist/4DkfuOqvrE32WpHLO4OVjF), [lilbice](https://open.spotify.com/artist/1CNOHpUFm5RYlSUbs17KFX), [JotaPills](https://open.spotify.com/artist/5EFuxQqgLKrSBURDlTsC91) | [Pod](https://open.spotify.com/album/6Z9tiN4OAhuSoYQsmMZoci) | 2:37 |
 | 18 | [Pacaembu/Morumbi](https://open.spotify.com/track/5iwa7EHIgI7aTAP4d9OoDo) | [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR) | [Pacaembu/Morumbi](https://open.spotify.com/album/1uPnTDxz7v5h35St3G4Ihc) | 2:13 |

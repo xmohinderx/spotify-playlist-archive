@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: 42 Dugg & EST Gee
 
-166 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/41V1Pq5RMClkd6MJCSDWfC)
+167 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/41V1Pq5RMClkd6MJCSDWfC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Six Flags](https://open.spotify.com/track/36FDMTfRqSROsSC6pOTqGw) | [Comethazine](https://open.spotify.com/artist/1iJdyDcY98X3GMnUesl7tf) | [Six Flags](https://open.spotify.com/album/6cxmOfnEOFk5v8nWLlazPk) | 2:03 | 2021-10-22 | 2022-02-12 |
 | [Sleazy Flow](https://open.spotify.com/track/16KXRgVBoNeumVdBrWOFYf) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Sleazy Flow](https://open.spotify.com/album/4uvp5CsSTU6AMkvpFe0FyP) | 1:52 | 2022-03-18 |  |
 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 | 2022-03-18 | 2022-04-02 |
+| [SOON \(feat\. Arabian\)](https://open.spotify.com/track/312YwRTzTE526nmuCaONji) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Arabian](https://open.spotify.com/artist/3CVIomosotXKy9Zrc7S6YB) | [SOON \(feat\. Arabian\)](https://open.spotify.com/album/3k4S1TseIIgV3X1KE3GeDw) | 2:39 | 2022-05-20 |  |
 | [Southside](https://open.spotify.com/track/4BUMcEpRWknEDimircdT7G) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50) | [Southside](https://open.spotify.com/album/47q4TmKYULr0NfKmb1tdYD) | 3:00 | 2022-04-29 |  |
 | [Spinback](https://open.spotify.com/track/6bsRaxW3vYniwPytZQXZB6) | [Comethazine](https://open.spotify.com/artist/1iJdyDcY98X3GMnUesl7tf) | [Spinback](https://open.spotify.com/album/3243pS7WwSxBLMmsTBY9LI) | 1:45 | 2021-09-17 | 2022-03-05 |
 | [Start Up Again \(with Moneybagg Yo\)](https://open.spotify.com/track/4O3bINhkGghgoKsOCr2HNz) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 1:48 | 2021-12-03 | 2022-05-14 |

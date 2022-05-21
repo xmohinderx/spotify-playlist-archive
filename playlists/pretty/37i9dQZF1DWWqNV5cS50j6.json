@@ -1,13 +1,29 @@
 {
   "description": "Not not not pop. Cover: Johan Lenox",
-  "num_followers": 642075,
+  "num_followers": 642234,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjg3OTczNCwwMDAwMzQ0NTAwMDAwMTgwZDc0ZjM1M2QwMDAwMDE4MGI4YjM1YjMw",
+  "snapshot_id": "MTY1MzA4NDg1MiwwMDAwMzQ0NzAwMDAwMTgwZTM4OTEyMzMwMDAwMDE4MGI4YjM1YjMw",
   "tracks": [
+    {
+      "added_at": "2022-05-20 15:53:20",
+      "album": {
+        "name": "Me and Your Boyfriend",
+        "url": "https://open.spotify.com/album/44HO5dHZ7GYmxDm7oMHHGu"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "duration_ms": 126142,
+      "name": "Me and Your Boyfriend",
+      "url": "https://open.spotify.com/track/2jjYn9ffMQme3IOHBn1FTV"
+    },
     {
       "added_at": "2022-05-18 13:04:31",
       "album": {
@@ -25,36 +41,20 @@
       "url": "https://open.spotify.com/track/08U90Je8ANncSpd6ptxNFt"
     },
     {
-      "added_at": "2022-05-13 04:17:00",
+      "added_at": "2022-05-20 22:14:12",
       "album": {
-        "name": "WDYWTBWYGU",
-        "url": "https://open.spotify.com/album/6sd1FmCTSPabYh4aHRICTu"
+        "name": "things with wings",
+        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
       },
       "artists": [
         {
-          "name": "Johan Lenox",
-          "url": "https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj"
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
         }
       ],
-      "duration_ms": 191047,
-      "name": "Hitting Different",
-      "url": "https://open.spotify.com/track/56Q2pmSdy0jCJKEW6a5DsV"
-    },
-    {
-      "added_at": "2022-05-18 13:15:34",
-      "album": {
-        "name": "Maybe Not",
-        "url": "https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25"
-      },
-      "artists": [
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 170060,
-      "name": "Maybe Not",
-      "url": "https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD"
+      "duration_ms": 123697,
+      "name": "broke my car radio",
+      "url": "https://open.spotify.com/track/1bfeENogqEumwYjvzTC6Bj"
     },
     {
       "added_at": "2022-05-09 22:47:10",
@@ -73,20 +73,36 @@
       "url": "https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d"
     },
     {
-      "added_at": "2022-05-09 22:47:10",
+      "added_at": "2022-05-18 13:15:34",
       "album": {
-        "name": "Death n' Taxes",
-        "url": "https://open.spotify.com/album/5hjj4vU1h3ItQCUMZdkEzE"
+        "name": "Maybe Not",
+        "url": "https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25"
       },
       "artists": [
         {
-          "name": "Tanna Leone",
-          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
         }
       ],
-      "duration_ms": 151676,
-      "name": "Death n' Taxes",
-      "url": "https://open.spotify.com/track/1g7IP3DUgprNzIljpsdAun"
+      "duration_ms": 170060,
+      "name": "Maybe Not",
+      "url": "https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD"
+    },
+    {
+      "added_at": "2022-05-20 15:53:20",
+      "album": {
+        "name": "MISSION",
+        "url": "https://open.spotify.com/album/1sKhHs0L5QeoNscgcyjvWk"
+      },
+      "artists": [
+        {
+          "name": "James Mantis",
+          "url": "https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r"
+        }
+      ],
+      "duration_ms": 163946,
+      "name": "MISSION",
+      "url": "https://open.spotify.com/track/60kcAoD8YhSI3h33EzHbIG"
     },
     {
       "added_at": "2022-05-11 16:00:50",
@@ -111,6 +127,22 @@
     {
       "added_at": "2022-05-13 04:17:00",
       "album": {
+        "name": "WDYWTBWYGU",
+        "url": "https://open.spotify.com/album/6sd1FmCTSPabYh4aHRICTu"
+      },
+      "artists": [
+        {
+          "name": "Johan Lenox",
+          "url": "https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj"
+        }
+      ],
+      "duration_ms": 191047,
+      "name": "Hitting Different",
+      "url": "https://open.spotify.com/track/56Q2pmSdy0jCJKEW6a5DsV"
+    },
+    {
+      "added_at": "2022-05-13 04:17:00",
+      "album": {
         "name": "Hotline",
         "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
       },
@@ -123,6 +155,22 @@
       "duration_ms": 148194,
       "name": "Hotline",
       "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
+    },
+    {
+      "added_at": "2022-05-20 15:53:20",
+      "album": {
+        "name": "hit it light it twist it",
+        "url": "https://open.spotify.com/album/26wYoLV3Yvt0yzOeTRKvKI"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 114947,
+      "name": "hit it light it twist it",
+      "url": "https://open.spotify.com/track/4MYkI9KHjQmWN0SmSbO1QG"
     },
     {
       "added_at": "2022-05-18 01:27:00",
@@ -173,22 +221,6 @@
       "url": "https://open.spotify.com/track/4JGv7vVgZvj5eTh4lecMBS"
     },
     {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "Eye Tell (!)",
-        "url": "https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by"
-      },
-      "artists": [
-        {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
-        }
-      ],
-      "duration_ms": 130692,
-      "name": "Eye Tell (!)",
-      "url": "https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz"
-    },
-    {
       "added_at": "2022-05-13 04:17:00",
       "album": {
         "name": "PAIN MUSEUM",
@@ -237,6 +269,22 @@
       "url": "https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM"
     },
     {
+      "added_at": "2022-05-09 22:47:10",
+      "album": {
+        "name": "Death n' Taxes",
+        "url": "https://open.spotify.com/album/5hjj4vU1h3ItQCUMZdkEzE"
+      },
+      "artists": [
+        {
+          "name": "Tanna Leone",
+          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
+        }
+      ],
+      "duration_ms": 151676,
+      "name": "Death n' Taxes",
+      "url": "https://open.spotify.com/track/1g7IP3DUgprNzIljpsdAun"
+    },
+    {
       "added_at": "2022-05-11 16:00:50",
       "album": {
         "name": "GOOFY!",
@@ -251,6 +299,22 @@
       "duration_ms": 149250,
       "name": "GOOFY!",
       "url": "https://open.spotify.com/track/2ddmgkH269Ur0rIN8oqctt"
+    },
+    {
+      "added_at": "2022-05-20 15:53:20",
+      "album": {
+        "name": "Purple Hair Dye",
+        "url": "https://open.spotify.com/album/4GwkJMH44ihxqYQAYvrzyX"
+      },
+      "artists": [
+        {
+          "name": "Blue Franklin",
+          "url": "https://open.spotify.com/artist/59zAX5OO0Cnyvk5PaMDyir"
+        }
+      ],
+      "duration_ms": 152803,
+      "name": "Purple Hair Dye",
+      "url": "https://open.spotify.com/track/63zZajPo4ziWBwQ4utUZpW"
     },
     {
       "added_at": "2022-05-13 04:38:05",
@@ -331,6 +395,22 @@
       "duration_ms": 160165,
       "name": "Traveling Alone",
       "url": "https://open.spotify.com/track/00c6I4e1BL1vqbD97KIh50"
+    },
+    {
+      "added_at": "2022-05-20 15:53:20",
+      "album": {
+        "name": "black tie party",
+        "url": "https://open.spotify.com/album/1VS04mtTEjUoVhaWfyzmzH"
+      },
+      "artists": [
+        {
+          "name": "Maasho",
+          "url": "https://open.spotify.com/artist/1JREmglx633MGQB73njWtE"
+        }
+      ],
+      "duration_ms": 186723,
+      "name": "black tie party",
+      "url": "https://open.spotify.com/track/2CV7Q6adzzgj3jEpy4kF3Q"
     },
     {
       "added_at": "2022-05-09 22:47:10",

@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,408 songs - 3 day 10 hr 8 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,409 songs - 3 day 10 hr 11 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -984,6 +984,7 @@
 | [Quick Stop By](https://open.spotify.com/track/0slDru5T8bQJpAioZGBB8n) | [Boy Willows](https://open.spotify.com/artist/41JVKMtlK9ecoACJu1xWca) | [Quick Stop By](https://open.spotify.com/album/2CtI5l8yC8x1aQ9SxBYnaP) | 3:15 | 2022-01-15 | 2022-01-31 |
 | [Quicksand](https://open.spotify.com/track/7hSOiPkJNpQt1iGXs54FBQ) | [Elephant Castle](https://open.spotify.com/artist/1B2xz3ZP0Vuezwk4gGhbkD) | [Quicksand](https://open.spotify.com/album/0eGLLiTjp3IPecAJxZs5RB) | 4:21 | 2022-01-07 | 2022-02-18 |
 | [Radical Girl](https://open.spotify.com/track/10zQKFGyVysrwTZDJVocb9) | [Droo's Peace Crush](https://open.spotify.com/artist/3QPEx65Ji9k03ZCwPbmYED) | ['79 Playlist](https://open.spotify.com/album/03MvJvmxaiESXRyq5TG1oz) | 3:40 | 2021-07-23 | 2021-08-08 |
+| [Radical Honesty](https://open.spotify.com/track/7FOlVsCAMN9NCLsr8R47zt) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Radical Honesty](https://open.spotify.com/album/0VJefXJCh5YfSftEGPq9F0) | 3:18 | 2022-05-20 |  |
 | [Radioman](https://open.spotify.com/track/3iD1Nc2UnAoXwjqp8cyNi9) | [Jacob manuel](https://open.spotify.com/artist/1z1oTg1m6mIcznwTJAa5RW) | [Radioman](https://open.spotify.com/album/6b15SB5MPHA8NNaWL318T8) | 2:56 | 2022-03-18 | 2022-04-05 |
 | [Rain](https://open.spotify.com/track/3T7Bx1R4vzbOafgxQukup6) | [Cocomofo](https://open.spotify.com/artist/03Era84Mwxyq2lrmuyHE2M) | [Rain](https://open.spotify.com/album/52rGC0EJ7xIsnlqjmA04x3) | 4:28 | 2021-05-08 | 2021-05-23 |
 | [Rain & Thunder](https://open.spotify.com/track/4KaTdga7RsgS2FDVFkYFEC) | [Soft Palms](https://open.spotify.com/artist/4PmRvPxX5xKA5zg4gmh4wR) | [Soft Palms](https://open.spotify.com/album/7dAYQ97pIZxJaXTBtQ1fRg) | 4:22 | 2021-12-24 | 2022-01-09 |

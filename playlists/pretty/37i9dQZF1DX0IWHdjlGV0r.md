@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Certi amori bruciano più di altri\. Cover: Marracash
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,528 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,600 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 30 | [La tua canzone](https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:12 |
 | 31 | [Ferma A Guardare](https://open.spotify.com/track/1zVUP6UPrzxZEYLXOl1AV1) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/2hHDTcf1MzvkDdFm0CEujn) | 3:13 |
 | 32 | [Apnea](https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Io In Terra](https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc) | 3:31 |
-| 33 | [Silenzio](https://open.spotify.com/track/5Eay94uxOnd2XrnybXoDfm) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 2:57 |
+| 33 | [Silenzio](https://open.spotify.com/track/5Eay94uxOnd2XrnybXoDfm) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 2:57 |
 | 34 | [Soli \(Assieme\)](https://open.spotify.com/track/2opjdnFzcgsp5wt8IYj8oN) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Mercurio](https://open.spotify.com/album/3pXSt0UQJINOx5GP6NORLj) | 3:25 |
 | 35 | [Bella](https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo](https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp) | 3:26 |
 | 36 | [Cenere](https://open.spotify.com/track/45xyKCey4BM3fMeFEsF1Hp) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Cenere](https://open.spotify.com/album/1lrhX79POrz4wSmgD4aeGg) | 2:50 |

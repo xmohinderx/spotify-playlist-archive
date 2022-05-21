@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Madeline Edwards
 
-71 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
+73 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Guilty](https://open.spotify.com/track/1WKRU8ovR8lbHD5gIj8h2P) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/50ahLeRHDEANoAMhDnaNCz) | 3:02 | 2021-12-03 |  |
 | [High Horse \(feat\. BRELAND and Blanco Brown\)](https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [High Horse](https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK) | 2:32 | 2021-12-03 |  |
 | [Home To Me](https://open.spotify.com/track/7y32pxojOyp2FEFEOCKbtF) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Home To Me](https://open.spotify.com/album/4QY2mg5YCs0t1RzhXNLcLj) | 3:39 | 2021-12-03 |  |
+| [Hotel Room](https://open.spotify.com/track/1owUVU4Hg4Qqb6sn6wnVid) | [Tony Evans Jr.](https://open.spotify.com/artist/3PvNwJTtWwtnkwW01JkNeE) | [Hotel Room](https://open.spotify.com/album/2SoyvUgq6doxWrBW45q1E8) | 2:31 | 2022-05-20 |  |
 | [I Like You Better](https://open.spotify.com/track/6O2U3KEpMJusHQ6m3IR2vg) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [I Like You Better](https://open.spotify.com/album/79MV4Y5B13sz8nlhEJh4bG) | 2:51 | 2022-04-01 |  |
 | [Just Say I Love You](https://open.spotify.com/track/4iVi2YeSzYut5CgMu9WBu3) | [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [Just Say I Love You](https://open.spotify.com/album/2HCLaqqb00O9PPNy4aYXx3) | 4:00 | 2021-12-03 |  |
 | [Just the Way](https://open.spotify.com/track/5PAvFGse5jjDH9ke8Mae7D) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Just the Way](https://open.spotify.com/album/3BwXeSOrCEZNWEPqxxh7yE) | 3:13 | 2021-12-03 |  |
@@ -59,6 +60,7 @@
 | [Small Town](https://open.spotify.com/track/2AQNauizjgSmFeUIdtlNqS) | [Warrick McZeke](https://open.spotify.com/artist/49r2zkItXkIJc5tDfnVCIi) | [Small Town](https://open.spotify.com/album/7ESdUin17RB1cW22mGntRb) | 3:42 | 2021-12-03 |  |
 | [Sober & Skinny](https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sober & Skinny](https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0) | 3:18 | 2021-12-03 |  |
 | [Somebody](https://open.spotify.com/track/6DrAI5Q4X00IBQIOE2jLOK) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 2:53 | 2022-02-04 |  |
+| [Somebody's Gotta Do It](https://open.spotify.com/track/4NocrufS4EcSjccPQYJIDD) | [Tony Evans Jr.](https://open.spotify.com/artist/3PvNwJTtWwtnkwW01JkNeE) | [Somebody's Gotta Do It](https://open.spotify.com/album/6sKyDqddZhAQKYrZonPCQX) | 3:16 | 2022-05-20 |  |
 | [Song of the Summer](https://open.spotify.com/track/54RQicVADP64aUiorGLj2K) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo), [Una Healy](https://open.spotify.com/artist/0yPAOmYRSrkuKnp70eLKLx) | [Song of the Summer](https://open.spotify.com/album/1ta49NPJlUEf6ZdvY2YKDy) | 3:07 | 2021-12-03 |  |
 | [Southern Curls](https://open.spotify.com/track/2PXlqCswcJk7DHm605QFoP) | [Julie Williams](https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9) | [Southern Curls](https://open.spotify.com/album/0xea2CsAsnZK4JljMCXcJ5) | 4:38 | 2021-12-03 |  |
 | [Standards](https://open.spotify.com/track/1XQcnIA8QsYmNuNVUzWVMQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [The Best Thing](https://open.spotify.com/album/7Gw93eT5wLVQfpRVizuNka) | 2:54 | 2021-12-03 |  |

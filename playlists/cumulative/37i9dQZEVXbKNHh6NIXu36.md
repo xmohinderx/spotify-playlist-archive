@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-835 songs - 1 day 18 hr 42 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
+836 songs - 1 day 18 hr 44 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Behute](https://open.spotify.com/track/7l4SCt0ebVQnbQNEXyH7F7) | [Senidah](https://open.spotify.com/artist/1C5jQlkf0TrFu6rmHZp2X5) | [Behute](https://open.spotify.com/album/26AiaZEoKcmfADRHBpclRn) | 3:40 | 2022-02-01 | 2022-03-06 |
 | [Belgisches Viertel](https://open.spotify.com/track/1h3d2lvISrSIV6fS89U51S) | [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb) | [Belgisches Viertel](https://open.spotify.com/album/6giaXxm0g5927v4ESbtzCt) | 1:44 | 2021-09-01 | 2022-04-03 |
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-08-31 | 2021-09-03 |
+| [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-05-20 |  |
 | [BENIM HAYALLER](https://open.spotify.com/track/6UhWOBZVHsuZHKJpQJYeWW) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [AQUA](https://open.spotify.com/album/5F98AKKJf6xc9cpVQhyU8G) | 3:02 | 2021-07-04 | 2021-07-05 |
 | [Benzin](https://open.spotify.com/track/42SabPHEnzrzT5abFrp3ad) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Zukunft](https://open.spotify.com/album/47brL4n2IhoAlMIkwE4yHT) | 2:51 | 2021-07-30 | 2021-07-31 |
 | [Benzin](https://open.spotify.com/track/7aeNNhFoheKQOSEeQEbDrI) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 2:51 | 2021-07-18 | 2021-07-30 |
@@ -667,7 +668,7 @@
 | [Scusa](https://open.spotify.com/track/6n4CUJdkTLQHDvqd4i79r7) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 2:39 | 2021-07-18 | 2021-07-25 |
 | [Sehnsucht](https://open.spotify.com/track/1W1N3usYjgI3XGQA0iX9Vq) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Sehnsucht](https://open.spotify.com/album/4xTyBut8EFwy8FGzKD9NY6) | 2:32 | 2022-03-05 |  |
 | [Shawty](https://open.spotify.com/track/3quQYEq6YMZmSmHpc2UKkc) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt), [Kianush](https://open.spotify.com/artist/0t9IVyFGzH79wIFfhEXddQ), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Shawty](https://open.spotify.com/album/0DPCR4i84ks81cy29Bf8Od) | 2:51 | 2021-06-13 | 2021-07-01 |
-| [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-05 |  |
+| [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-05 | 2022-05-21 |
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2021-10-31 |  |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-09-12 | 2021-09-17 |
 | [Shivers](https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/531c37GGv5IvddCvBv3sWT) | 3:27 | 2021-09-17 | 2021-10-31 |

@@ -410,6 +410,24 @@
     },
     {
       "album": {
+        "name": "Brown Eyed Son",
+        "url": "https://open.spotify.com/album/62EZbw2VPVeL13WMTRBllf"
+      },
+      "artists": [
+        {
+          "name": "Sator",
+          "url": "https://open.spotify.com/artist/4NPIUulkJi56Hj95u671sM"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130546,
+      "name": "Brown Eyed Son",
+      "url": "https://open.spotify.com/track/0qENavjo41kOKOnuSy9laJ"
+    },
+    {
+      "album": {
         "name": "Call Off The Dogs (feat. Myles Kennedy and The Conspirators)",
         "url": "https://open.spotify.com/album/0Vsst77tIiNqNmCUvizQDG"
       },
@@ -522,6 +540,28 @@
     },
     {
       "album": {
+        "name": "Classless Act (feat. Vince Neil of M\u00f6tley Cr\u00fce)",
+        "url": "https://open.spotify.com/album/2TGWTcdEm3PydLgMmxBawv"
+      },
+      "artists": [
+        {
+          "name": "Classless Act",
+          "url": "https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1"
+        },
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194654,
+      "name": "Classless Act (feat. Vince Neil of Motley Crue)",
+      "url": "https://open.spotify.com/track/05liOVVybQw3UyyrEOAcSw"
+    },
+    {
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5PRkdn0Ae1vUmjp0OoTfkO"
       },
@@ -537,7 +577,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 236558,
       "name": "Cold",
       "url": "https://open.spotify.com/track/64GtWmpFNjnUgsYn28ieRL"
@@ -1105,6 +1145,24 @@
       "duration_ms": 185250,
       "name": "Fire In The Sky",
       "url": "https://open.spotify.com/track/2Py0ZGVNZB6SjI19iqaItY"
+    },
+    {
+      "album": {
+        "name": "Fire It Up",
+        "url": "https://open.spotify.com/album/5BDAPbqXoXGOy8lwur9SxF"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199532,
+      "name": "Fire It Up",
+      "url": "https://open.spotify.com/track/2NtTPFydPxZnZ3p6wlkYdq"
     },
     {
       "album": {
@@ -2450,6 +2508,24 @@
     },
     {
       "album": {
+        "name": "Sail On",
+        "url": "https://open.spotify.com/album/1Gwl7LBODkfUIa2o1W2raJ"
+      },
+      "artists": [
+        {
+          "name": "John Norum",
+          "url": "https://open.spotify.com/artist/6bLPZMOlLH9wiaQ0kO5nZh"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223893,
+      "name": "Sail On",
+      "url": "https://open.spotify.com/track/53k2Iwe5XyYA2W0GhTy8OS"
+    },
+    {
+      "album": {
         "name": "Save Me from Myself",
         "url": "https://open.spotify.com/album/6pDwGlXF2GPESFDaeeA7Iu"
       },
@@ -2479,7 +2555,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 330717,
       "name": "Seventh Sun",
       "url": "https://open.spotify.com/track/7jgCtSWhv7Y2glV9I8sCUy"
@@ -2767,7 +2843,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 254879,
       "name": "Take What You Want",
       "url": "https://open.spotify.com/track/4OYMEAquAbr1EWDtp5kx1x"
@@ -2882,6 +2958,24 @@
     },
     {
       "album": {
+        "name": "The Language Of My Heart (France Bonus Track)",
+        "url": "https://open.spotify.com/album/0Kmho2vdfbGmfJyyUesNoW"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233884,
+      "name": "The Language Of My Heart",
+      "url": "https://open.spotify.com/track/4anwYZI6i9l5xi8caRrbo3"
+    },
+    {
+      "album": {
         "name": "The Liars Club",
         "url": "https://open.spotify.com/album/6wHX6aYsulKyZ4sj7gQ9se"
       },
@@ -2893,7 +2987,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 228834,
       "name": "The Liars Club",
       "url": "https://open.spotify.com/track/3cgasmbjpM2TMfsH0plAwt"
@@ -3103,7 +3197,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 187286,
       "name": "Time To Bleed",
       "url": "https://open.spotify.com/track/0EXE1d4K7zfGJG7GER8xT0"

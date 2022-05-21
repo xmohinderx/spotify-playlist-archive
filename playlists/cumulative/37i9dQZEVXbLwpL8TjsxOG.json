@@ -2665,7 +2665,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 195950,
       "name": "N95",
       "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
@@ -4055,7 +4055,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 195424,
       "name": "\u4e00\u4eba\u4e4b\u5883 in C major",
       "url": "https://open.spotify.com/track/32QnXosZq7A11knnBAEqk7"
@@ -4535,7 +4535,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 209000,
       "name": "\u521d\u6200",
       "url": "https://open.spotify.com/track/5XihvL3MlNcj6yPwAKsgFw"
@@ -5625,6 +5625,24 @@
       "duration_ms": 235797,
       "name": "\u6a39",
       "url": "https://open.spotify.com/track/2QYGFCVQTALeyYGNvKHn9T"
+    },
+    {
+      "album": {
+        "name": "Urban Emotions",
+        "url": "https://open.spotify.com/album/3fem0d1l01dbTq5goqW7QJ"
+      },
+      "artists": [
+        {
+          "name": "Hins Cheung",
+          "url": "https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249986,
+      "name": "\u6afb\u82b1\u6a39\u4e0b",
+      "url": "https://open.spotify.com/track/2FgDWCqMCIAATvqr9ozeYm"
     },
     {
       "album": {

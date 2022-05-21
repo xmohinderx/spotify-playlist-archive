@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/0aq677QTRSYPj3sbsDGjKv"
+      },
+      "artists": [
+        {
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229733,
+      "name": "112",
+      "url": "https://open.spotify.com/track/6Ef5D1XQrboIMC4UY9jptf"
+    },
+    {
+      "album": {
         "name": "666 - World Divided",
         "url": "https://open.spotify.com/album/0hCa6eoUtwiit26t5dNpeY"
       },
@@ -185,7 +203,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 292146,
       "name": "As We Breach",
       "url": "https://open.spotify.com/track/5yttcK85rYSClFzPC9v1N7"
@@ -221,7 +239,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 341804,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/1VJDR7IYmHkHpgiw6txEFI"
@@ -365,7 +383,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 316930,
       "name": "Bloody Rain",
       "url": "https://open.spotify.com/track/6tSDBDxtrQR4dEWWG5aymJ"
@@ -509,7 +527,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 266920,
       "name": "Burn the Sky",
       "url": "https://open.spotify.com/track/0JMc364YMZ68bMn1OoBm3D"
@@ -693,7 +711,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 291960,
       "name": "Cult",
       "url": "https://open.spotify.com/track/7jkdjLkhSQRcVA3lsnTClQ"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 274816,
       "name": "Curtain Fire",
       "url": "https://open.spotify.com/track/0bNcU1wxJsgSUnMbmLkzkE"
@@ -795,7 +813,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 156702,
       "name": "Dear Diary",
       "url": "https://open.spotify.com/track/21zfxfNLaNqQuGX0MSwvh7"
@@ -921,7 +939,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 249159,
       "name": "Diabolical",
       "url": "https://open.spotify.com/track/5Ec52T5PSqN26Qa8KBKeCF"
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 365706,
       "name": "Ethereal Nightmare",
       "url": "https://open.spotify.com/track/6uPmOrub79aq604KUvk8uQ"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 115083,
       "name": "Extinction",
       "url": "https://open.spotify.com/track/239D9QunfPbo8mSeU9Jod6"
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 235066,
       "name": "First World Solutions",
       "url": "https://open.spotify.com/track/2BKaYacYK33sCj0wQmelzs"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 160730,
       "name": "Florida Man",
       "url": "https://open.spotify.com/track/2W8Equ4ngAucJi9ngHdaox"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 171706,
       "name": "God Slave the Queen",
       "url": "https://open.spotify.com/track/2pRbyaGoIfh3n5ZLzu3rLv"
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 151080,
       "name": "Grave Dive",
       "url": "https://open.spotify.com/track/4DCtTtWYJLP3UD2s9Km0Ee"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 307653,
       "name": "Hallowed Sound",
       "url": "https://open.spotify.com/track/7dPrKElrSU7SYxVlhx5rfg"
@@ -1561,6 +1579,24 @@
       "duration_ms": 276992,
       "name": "Hemorrhage",
       "url": "https://open.spotify.com/track/5FWq7WddPwwLSwj7laiBoD"
+    },
+    {
+      "album": {
+        "name": "High Speed Steel",
+        "url": "https://open.spotify.com/album/3IBzEW9Cdtbn7Yc1o4Jv7W"
+      },
+      "artists": [
+        {
+          "name": "Municipal Waste",
+          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151973,
+      "name": "High Speed Steel",
+      "url": "https://open.spotify.com/track/7hEgckrxQxTNJ0WMjkfyhH"
     },
     {
       "album": {
@@ -1683,7 +1719,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 339253,
       "name": "Indoctrinate",
       "url": "https://open.spotify.com/track/0YG3IZcxzcr2ore9vV6zey"
@@ -1701,7 +1737,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 190773,
       "name": "Indoctrination",
       "url": "https://open.spotify.com/track/5rJglpSmC76KMRYiFZUKwo"
@@ -1719,7 +1755,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 297360,
       "name": "Inexorable Darkness",
       "url": "https://open.spotify.com/track/5rWhMFUhgeGFgiLLu4vZAv"
@@ -1899,7 +1935,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 192266,
       "name": "Legion Of The Damned",
       "url": "https://open.spotify.com/track/3p0f0yvFB5ETwtLcSDlwTS"
@@ -1917,7 +1953,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 310181,
       "name": "Let the World Burn",
       "url": "https://open.spotify.com/track/2C2Hi5imLSNAk9wI5itFHx"
@@ -2061,7 +2097,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 197933,
       "name": "Malicious Souls",
       "url": "https://open.spotify.com/track/5mipERxPGdO9j46zfghXB4"
@@ -2079,7 +2115,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 351575,
       "name": "Mania",
       "url": "https://open.spotify.com/track/1Hi1WFQ9Ro26gi1H5yT9Ci"
@@ -2173,7 +2209,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 254143,
       "name": "New World Beyond",
       "url": "https://open.spotify.com/track/1gjzvbjjMactmbWxuLxS84"
@@ -2209,7 +2245,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 261709,
       "name": "Nightmare Logic",
       "url": "https://open.spotify.com/track/127fndSSTEZrx2TV8cd3jM"
@@ -2299,7 +2335,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 223588,
       "name": "Outsider God Creation (O.G.C)",
       "url": "https://open.spotify.com/track/2DyYVbTGmphEo0xeqN6xkT"
@@ -2587,7 +2623,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 197274,
       "name": "Reckoning Force",
       "url": "https://open.spotify.com/track/3VHqYO3jX9QoTFHUzSi2op"
@@ -2605,7 +2641,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 205541,
       "name": "Recycled Hate",
       "url": "https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k"
@@ -2783,7 +2819,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 233650,
       "name": "Sacrilegious Pain",
       "url": "https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM"
@@ -2855,7 +2891,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 278286,
       "name": "Sheer Khan",
       "url": "https://open.spotify.com/track/7qlkGiHmqF9VyFiIKlJVRt"
@@ -2873,7 +2909,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 241824,
       "name": "Shoot for the Sun",
       "url": "https://open.spotify.com/track/03gS9ZSLBYSsMS9Z9b1uU4"
@@ -2909,7 +2945,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 359653,
       "name": "Silenced By Death",
       "url": "https://open.spotify.com/track/445W7aeIFfMsAVOxi9dvXS"
@@ -2999,7 +3035,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 246226,
       "name": "Sodom & Gomorrah",
       "url": "https://open.spotify.com/track/3uPYITcnVb9RZ7d8aKMV3r"
@@ -3053,7 +3089,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 177206,
       "name": "Space Seed",
       "url": "https://open.spotify.com/track/04Db6DnoyLOzHg2hXMRQsm"
@@ -3107,7 +3143,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 337823,
       "name": "Strike Back",
       "url": "https://open.spotify.com/track/0cXs8TirSU9BYB2ng46IyU"
@@ -3341,7 +3377,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 191973,
       "name": "The Descending",
       "url": "https://open.spotify.com/track/72keEkoiv1LfF83ZImJd4g"
@@ -3431,7 +3467,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 195466,
       "name": "The Last Rager",
       "url": "https://open.spotify.com/track/4AuccIeDavrN0fxI2VoduG"
@@ -3543,7 +3579,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 209386,
       "name": "The Pit And The Poser",
       "url": "https://open.spotify.com/track/0D0CzaIKTnrWGEAM8e8hEO"
@@ -3615,7 +3651,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 166857,
       "name": "This Is Resurrection Fest",
       "url": "https://open.spotify.com/track/5xIBAXso8hub7aaNPTZ6Nz"
@@ -3633,7 +3669,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 314786,
       "name": "Thrash Is Back",
       "url": "https://open.spotify.com/track/0mTHshGGNTGxUiyohrdj2Z"
@@ -3741,7 +3777,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 243915,
       "name": "Trapped in Chaos",
       "url": "https://open.spotify.com/track/294RpKWjeQbzjzUZssLoXR"
@@ -3795,7 +3831,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 231467,
       "name": "Vanguardian",
       "url": "https://open.spotify.com/track/79E5z2MEFopfp422zFzgcg"
@@ -3993,7 +4029,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 233907,
       "name": "You Weep",
       "url": "https://open.spotify.com/track/6XAlh4yszn9bSt9icRA7o5"

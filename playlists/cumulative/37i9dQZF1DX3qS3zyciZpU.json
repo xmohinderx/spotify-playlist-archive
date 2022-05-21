@@ -1472,6 +1472,24 @@
     },
     {
       "album": {
+        "name": "Steady Heart",
+        "url": "https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213207,
+      "name": "Steady Heart",
+      "url": "https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T"
+    },
+    {
+      "album": {
         "name": "Steady Heart (Wedding Version)",
         "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
       },

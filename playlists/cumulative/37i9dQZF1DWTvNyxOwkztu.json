@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 146309,
       "name": "Africa to the World",
       "url": "https://open.spotify.com/track/2SVPNYPAozCGQP4C7uhTqq"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 187245,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/3kAlWNK9bo5pEMwKvpgzNE"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 154561,
       "name": "Before",
       "url": "https://open.spotify.com/track/4jnryVYgyBPM6yxZQLFzJT"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 127500,
       "name": "Blue Room",
       "url": "https://open.spotify.com/track/7pVWQOxI0kKpe4Lo7AJ7qZ"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 298680,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/5O1L8o8fmUdVaf88z5dfWB"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 157846,
       "name": "Dire, Dire Docks",
       "url": "https://open.spotify.com/track/6RNny5ViT14jcQsgh8Eb6J"
@@ -784,6 +784,24 @@
     },
     {
       "album": {
+        "name": "Don't Tell Me I Can't Have It",
+        "url": "https://open.spotify.com/album/4YyslwvTvE2qpL1zXdNrUx"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Maria",
+          "url": "https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187772,
+      "name": "Don't Tell Me I Can't Have It",
+      "url": "https://open.spotify.com/track/7DdrHlmyfDmAibdAbEdYIu"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Worry",
         "url": "https://open.spotify.com/album/2UZuAyYd1pTF1puvlQ2W4c"
       },
@@ -795,7 +813,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 276961,
       "name": "Don\u2019t Worry",
       "url": "https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ"
@@ -1001,7 +1019,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 437188,
       "name": "Forrest Glade",
       "url": "https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 205423,
       "name": "Fugue State",
       "url": "https://open.spotify.com/track/19YsbHChoiVouSEJHuWFxm"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 182267,
       "name": "Gekk\u014d",
       "url": "https://open.spotify.com/track/3BWac5S9EAZiKZD68Spkkc"
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 240624,
       "name": "Kalmar - Lassjo's Dive",
       "url": "https://open.spotify.com/track/7sjPnJvroufu2baQuwoZ7Z"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 254705,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/6jt9ksqmpgggBsIj5pVZNd"
@@ -1565,7 +1583,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 115188,
       "name": "Looking for You",
       "url": "https://open.spotify.com/track/4Hh6lJfX2pOVPqdfJ8GmZv"
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 243692,
       "name": "Malin's Song",
       "url": "https://open.spotify.com/track/69FgBAyTOSwswhqea2C6Er"
@@ -1843,7 +1861,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 203752,
       "name": "Must Have Forgotten",
       "url": "https://open.spotify.com/track/5D7P5pFRBubnuKzAQkBz6c"
@@ -1915,7 +1933,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 132857,
       "name": "NiteGlow",
       "url": "https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ"
@@ -1951,7 +1969,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 179478,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR"
@@ -2117,7 +2135,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 335335,
       "name": "Push",
       "url": "https://open.spotify.com/track/1i5lXpzjo8qBAVRvEoBl7Z"
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 213600,
       "name": "Remember",
       "url": "https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH"
@@ -2431,7 +2449,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 427005,
       "name": "Season",
       "url": "https://open.spotify.com/track/6plrjFbPuHZIUXZdh1bavs"
@@ -2449,7 +2467,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 193577,
       "name": "Seeds",
       "url": "https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws"
@@ -2539,7 +2557,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 232241,
       "name": "Solar Sun",
       "url": "https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf"
@@ -2575,7 +2593,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 154419,
       "name": "Standing with You",
       "url": "https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE"
@@ -2737,7 +2755,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 160166,
       "name": "Sunny Cruisin",
       "url": "https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo"
@@ -2831,7 +2849,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 296585,
       "name": "Svanur (feat. R\u00f6kkurr\u00f3)",
       "url": "https://open.spotify.com/track/2rnONdiE5CpLdmtNspVnTx"
@@ -2849,7 +2867,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 127096,
       "name": "Swim",
       "url": "https://open.spotify.com/track/7qHfaAlihkWeA4Xu60v3Pi"
@@ -2957,7 +2975,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 165500,
       "name": "There For You",
       "url": "https://open.spotify.com/track/2m8dDOhC8fIaCFQ53c1l5z"

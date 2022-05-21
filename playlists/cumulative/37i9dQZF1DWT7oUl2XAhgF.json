@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 248777,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/18vFLgoBcvIXsJP7pTX93e"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 232472,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/1GjayjS8KEuljD5GhTuDDq"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 266350,
       "name": "Get Back To The Land",
       "url": "https://open.spotify.com/track/0bOzDaUYbUVWMLtl8DNt8L"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 187319,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/6hF1GWwmTAT0vKYuErguVj"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 311597,
       "name": "How Do We Heal",
       "url": "https://open.spotify.com/track/2EP80jwbqkWrLPLw9VMdgU"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 276600,
       "name": "Is It Any Wonder?",
       "url": "https://open.spotify.com/track/5dnvWWkwwFJoDDc0QoSbvf"
@@ -808,6 +808,28 @@
     },
     {
       "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/1vr964CwAICSadDDA9EuaJ"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256188,
+      "name": "Less Is More",
+      "url": "https://open.spotify.com/track/15E1HxTq8M05lJeFACHw7m"
+    },
+    {
+      "album": {
         "name": "Little Birdie",
         "url": "https://open.spotify.com/album/3lFtl9ngeK56wTq6IikwC7"
       },
@@ -837,7 +859,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 159120,
       "name": "Little by Little",
       "url": "https://open.spotify.com/track/2b5RJXQYweJKXgcfQaokKX"
@@ -1329,7 +1351,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 242640,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/6wq0YV1Mv8ybQi8FyZcHN7"
@@ -1365,7 +1387,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 205008,
       "name": "Sunny And Warm",
       "url": "https://open.spotify.com/track/12I7wlvWuPvMXHJxwfA68l"
@@ -1383,7 +1405,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 174520,
       "name": "Sure Don't Miss You",
       "url": "https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT"
@@ -1463,7 +1485,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 180413,
       "name": "The Stranger",
       "url": "https://open.spotify.com/track/0vo6nKF32kZeazSurxo99E"
@@ -1583,7 +1605,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 290626,
       "name": "Warpaint",
       "url": "https://open.spotify.com/track/3sqb5hfu5gIdrd2U70FT3L"
@@ -1623,6 +1645,24 @@
       "duration_ms": 205053,
       "name": "When You Lose Someone",
       "url": "https://open.spotify.com/track/4K8Oan6E1K7eaxjaXXSZLX"
+    },
+    {
+      "album": {
+        "name": "Who Knew",
+        "url": "https://open.spotify.com/album/7IaACPFHMwbiF97M8ddEuo"
+      },
+      "artists": [
+        {
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "Who Knew",
+      "url": "https://open.spotify.com/track/14EgYFMymzOMlE5bXghY7p"
     },
     {
       "album": {

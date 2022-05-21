@@ -71,7 +71,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 132024,
       "name": "212 Vip",
       "url": "https://open.spotify.com/track/5jRaYDCcftXSc4a0eXJaz6"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 121288,
       "name": "Aquela",
       "url": "https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 225334,
       "name": "Bloco de 100",
       "url": "https://open.spotify.com/track/02PfxLNAiAoWOLMR49wAk8"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 188035,
       "name": "Bvlgari",
       "url": "https://open.spotify.com/track/1qIQO5BW2AyVVkTCzBwcUu"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 223200,
       "name": "C Walk 2",
       "url": "https://open.spotify.com/track/0CeaAvEotqd1vxT25x2oQ2"
@@ -872,6 +872,32 @@
     },
     {
       "album": {
+        "name": "Camisa Floral",
+        "url": "https://open.spotify.com/album/0pVLLvqFORgONmlq24kL0L"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Yokame",
+          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195863,
+      "name": "Camisa Floral",
+      "url": "https://open.spotify.com/track/2CWRNCMO3ZJSwW3Y9B7ZQ4"
+    },
+    {
+      "album": {
         "name": "Campo Minado",
         "url": "https://open.spotify.com/album/0EHROhQnwUidzc2Gjjmdpo"
       },
@@ -917,7 +943,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 136405,
       "name": "Caramellow",
       "url": "https://open.spotify.com/track/5YX8U6JIPNUQ70evFZciTw"
@@ -947,7 +973,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 224262,
       "name": "Ca\u00e7ando Tesouro",
       "url": "https://open.spotify.com/track/4RC7vpeUYzx6kChixUpTNs"
@@ -973,7 +999,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 180000,
       "name": "Cheat Code",
       "url": "https://open.spotify.com/track/2Db7e4OXyzQFjMC34RdCOj"
@@ -999,7 +1025,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 186674,
       "name": "Chefin",
       "url": "https://open.spotify.com/track/30g0zKIzhdwdJBSgiBA9gg"
@@ -1119,7 +1145,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 118400,
       "name": "Colapso",
       "url": "https://open.spotify.com/track/3ozcOAOg14Fk20hDaPuWFA"
@@ -1257,7 +1283,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 127826,
       "name": "De Hist\u00f3ria em Hist\u00f3ria",
       "url": "https://open.spotify.com/track/08Bi0KpTp0sBu0Oj2CQcSW"
@@ -1405,13 +1431,13 @@
       },
       "artists": [
         {
-          "name": "Thiago",
+          "name": "Thiago Kelbert",
           "url": "https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM"
         }
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Disfarce",
       "url": "https://open.spotify.com/track/0trI4oy0dayuYLeZioJHQg"
@@ -1467,7 +1493,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 192537,
       "name": "Di\u00f1ero",
       "url": "https://open.spotify.com/track/5qEEAaLmldzSSFQjj6eJb3"
@@ -1609,7 +1635,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 170847,
       "name": "Egoista",
       "url": "https://open.spotify.com/track/5bIHPD77Tke3czSaUmlJEt"
@@ -1705,7 +1731,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 191230,
       "name": "Eterna",
       "url": "https://open.spotify.com/track/3GeHTyErJmG2QUnhQYzRRa"
@@ -1801,7 +1827,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 221538,
       "name": "Eurotrip 2 (Tudo ou Nada)",
       "url": "https://open.spotify.com/track/6q6OWMyNjdjwi6FMMKHFFM"
@@ -1831,6 +1857,32 @@
       "duration_ms": 222168,
       "name": "Fake Homies",
       "url": "https://open.spotify.com/track/5fZbQUlx2V0h7ZONRSfGkJ"
+    },
+    {
+      "album": {
+        "name": "Fam\u00edlia",
+        "url": "https://open.spotify.com/album/7sTnsGZDCNlymD3oBG81Yd"
+      },
+      "artists": [
+        {
+          "name": "Leozin",
+          "url": "https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V"
+        },
+        {
+          "name": "JayKay",
+          "url": "https://open.spotify.com/artist/3CiVS3YZu53BCL5pbjRQjn"
+        },
+        {
+          "name": "Tut",
+          "url": "https://open.spotify.com/artist/3UQKFDP9RiMUnzLsVqniL8"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Fam\u00edlia",
+      "url": "https://open.spotify.com/track/5evfbjwgtk8X5rS1GOXIQD"
     },
     {
       "album": {
@@ -2089,7 +2141,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 180983,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/4aXXkXLNpFODfR2QDz7FvG"
@@ -2245,7 +2297,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 195303,
       "name": "Gatinha",
       "url": "https://open.spotify.com/track/3fFP5qW0JBpqcSJ14XFNKU"
@@ -2293,7 +2345,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 147130,
       "name": "Gigante",
       "url": "https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO"
@@ -2381,7 +2433,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 96624,
       "name": "Hylander",
       "url": "https://open.spotify.com/track/3sOcmmmWB7dqyziUVLXpTi"
@@ -2407,7 +2459,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 168820,
       "name": "Hype",
       "url": "https://open.spotify.com/track/7gdOLRjA7RnEZwG51lYMJi"
@@ -2491,7 +2543,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 187251,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/25moVuYCNUAyZt0fkhjPwn"
@@ -2931,7 +2983,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 173076,
       "name": "Magia Preta",
       "url": "https://open.spotify.com/track/4doXTozijOz9ZnZIL6skvW"
@@ -3019,7 +3071,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 119369,
       "name": "Mamichula",
       "url": "https://open.spotify.com/track/6mhhtxjPQqUOIHRLZ5QasM"
@@ -3041,7 +3093,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 189565,
       "name": "Mandel\u00e3o",
       "url": "https://open.spotify.com/track/2MXhH3LCIxife3lj34GZGc"
@@ -3277,7 +3329,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 170181,
       "name": "Meu Corre",
       "url": "https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW"
@@ -3317,7 +3369,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 186256,
       "name": "Moda 2",
       "url": "https://open.spotify.com/track/0m3RtoEWN04sgYhnC6FPxK"
@@ -3531,7 +3583,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 212581,
       "name": "Oclin e Evoque",
       "url": "https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X"
@@ -3715,7 +3767,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 269508,
       "name": "Online",
       "url": "https://open.spotify.com/track/590gaVFwtXwZoxzqFulv83"
@@ -4049,7 +4101,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 170947,
       "name": "Por um Fio",
       "url": "https://open.spotify.com/track/6MhYAjfJ4bduciT0RSu0U7"
@@ -4155,7 +4207,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 155355,
       "name": "Preto de Gueto",
       "url": "https://open.spotify.com/track/3tQNUzUTGK0i8IBFQZ30Nv"
@@ -4243,7 +4295,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 124182,
       "name": "Proibid\u00e3o 2020",
       "url": "https://open.spotify.com/track/2ZtiM7j3k5jrCXNtiwUSi4"
@@ -4403,7 +4455,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 139014,
       "name": "Rambo",
       "url": "https://open.spotify.com/track/6JkK0IESabjjofDS2Lot4O"
@@ -4817,7 +4869,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 230839,
       "name": "Su\u00edte 14 (feat. Djonga)",
       "url": "https://open.spotify.com/track/5O9OiOrppADIS6N7Zs2al0"
@@ -5035,7 +5087,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 201951,
       "name": "Tralha Rico",
       "url": "https://open.spotify.com/track/7ulrRl0TdGP2FMHRqGebpC"
@@ -5053,7 +5105,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 151429,
       "name": "Tropa Da Fendi",
       "url": "https://open.spotify.com/track/6qbv4ZF2PcU4chi2M9PO7a"
@@ -5153,7 +5205,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 215210,
       "name": "Vidro",
       "url": "https://open.spotify.com/track/1MyyQmj8C453iHoQhdNNt8"
@@ -5175,7 +5227,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 161632,
       "name": "Vim da Favela",
       "url": "https://open.spotify.com/track/4ExOjb7vLGBIKXURlZEJnD"
@@ -5197,7 +5249,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 191376,
       "name": "V\u00edrgula",
       "url": "https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq"
@@ -5301,7 +5353,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 171789,
       "name": "Xeque-Mate (feat. Paiva Prod)",
       "url": "https://open.spotify.com/track/2Se6ItuMZiqQ2jZkwXzOO6"

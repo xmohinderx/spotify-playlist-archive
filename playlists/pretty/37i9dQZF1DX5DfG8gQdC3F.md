@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,939 likes - 102 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,128 likes - 102 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 58 | [Stay the Night](https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Stay the Night](https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ) | 2:51 |
 | 59 | [Trying](https://open.spotify.com/track/1IzL8MEvnz9EhQG6A2C7cx) | [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx) | [Trying](https://open.spotify.com/album/34IVUESsQtYcATnwSIQ5A6) | 2:36 |
 | 60 | [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 |
-| 61 | [Letter from Miami](https://open.spotify.com/track/18YeiBqeyJnFVCYFK4303J) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY) | [Letter from Miami](https://open.spotify.com/album/4JFr8zQThD8tjFDO1aFem9) | 2:36 |
+| 61 | [LETTER FROM MIAMI](https://open.spotify.com/track/18YeiBqeyJnFVCYFK4303J) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY) | [LETTER FROM MIAMI](https://open.spotify.com/album/4JFr8zQThD8tjFDO1aFem9) | 2:36 |
 | 62 | [High Priestess](https://open.spotify.com/track/5SiznYWcgL8nfDNwoDdJa8) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [High Priestess](https://open.spotify.com/album/0HzNnOls6EoSgMtbzLIGB8) | 3:13 |
 | 63 | [GYAL TIME AGAIN \- Radio Edit](https://open.spotify.com/track/7mst3i1t1O7HT08ch5v47B) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [GYAL TIME AGAIN \(Radio Edit\)](https://open.spotify.com/album/4DJyaGSeKLH2OlTpGMVMo7) | 3:02 |
 | 64 | [Too Precious](https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Too Precious](https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk) | 2:49 |

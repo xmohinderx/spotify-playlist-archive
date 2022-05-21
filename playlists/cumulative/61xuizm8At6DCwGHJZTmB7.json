@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "A Thousand Hallelujahs",
+        "url": "https://open.spotify.com/album/6cd1y3444OW0PCDI7CkQmS"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Music",
+          "url": "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "A Thousand Hallelujahs",
+      "url": "https://open.spotify.com/track/51s1AhJAFMc8Yb3FitJc4r"
+    },
+    {
+      "album": {
         "name": "A Thousand Hallelujahs (Live)",
         "url": "https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV"
       },
@@ -139,6 +157,24 @@
       "duration_ms": 308451,
       "name": "All That Remains",
       "url": "https://open.spotify.com/track/4qMalQqJpfFQOd9aEYYAea"
+    },
+    {
+      "album": {
+        "name": "I've Got Good News (Live)",
+        "url": "https://open.spotify.com/album/3gK8jirdtfOYhoakLeESWd"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354040,
+      "name": "Alpha Omega - Live",
+      "url": "https://open.spotify.com/track/0f8tSFxXxTtDead0x8Lhhr"
     },
     {
       "album": {
@@ -283,7 +319,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 559708,
       "name": "Because Of Christ - Live",
       "url": "https://open.spotify.com/track/7r7cqJyvYepirmrIWZESjz"
@@ -2132,6 +2168,28 @@
     },
     {
       "album": {
+        "name": "Rise And Shine (Live)",
+        "url": "https://open.spotify.com/album/2TsFi72UiFcwYAWuDx88Jb"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561041,
+      "name": "Rise And Shine - Live",
+      "url": "https://open.spotify.com/track/1hUPaZqEBm2w5G64GLtHSH"
+    },
+    {
+      "album": {
         "name": "Run To The Father",
         "url": "https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv"
       },
@@ -2977,7 +3035,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 404554,
       "name": "Wouldn't It Be Like You - Live At TRIBL Night",
       "url": "https://open.spotify.com/track/7c16GOtg7mY3WAhKpALIu0"

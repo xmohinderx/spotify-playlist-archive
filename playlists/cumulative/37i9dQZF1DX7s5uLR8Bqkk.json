@@ -77,7 +77,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
@@ -211,6 +211,24 @@
       "duration_ms": 203885,
       "name": "Bella vita - Dj Antoine Vs Mad Mark 2K13 Radio Edit",
       "url": "https://open.spotify.com/track/0XieHS5kOPnu9EvJgw1soV"
+    },
+    {
+      "album": {
+        "name": "The Marshall Mathers LP2 (Deluxe)",
+        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238746,
+      "name": "Berzerk",
+      "url": "https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ"
     },
     {
       "album": {
@@ -659,7 +677,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 230266,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS"
@@ -895,7 +913,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 199266,
       "name": "It's a Beautiful Day",
       "url": "https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv"

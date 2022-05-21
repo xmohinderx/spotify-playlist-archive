@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: Action Bronson
 
-193 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/3oxhssgEhBCb78sRSB2lyV)
+194 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/3oxhssgEhBCb78sRSB2lyV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Head High](https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Head High](https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD) | 3:00 | 2022-03-04 |  |
 | [Heaven's Sky \(feat\. Rae Khalil\)](https://open.spotify.com/track/55RLuYa5urfohvcAc0jtsb) | [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Heaven's Sky \(feat\. Rae Khalil\)](https://open.spotify.com/album/6kMSbbsawyKtJ0K7qX2Idj) | 3:49 | 2022-03-11 |  |
 | [Helen Keller](https://open.spotify.com/track/7zMZ8fVbbKq1OmBtyhTwpG) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG), [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [711 \(Deluxe\)](https://open.spotify.com/album/6tyvppttUmpraPeiCj99F4) | 2:41 | 2021-08-13 |  |
+| [Him \(feat\. Dom Kennedy\)](https://open.spotify.com/track/4Kar4KNY0ov2vXdNzgl1LJ) | [Jayson Cash](https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Him \(feat\. Dom Kennedy\)](https://open.spotify.com/album/0UwgiL1GXSJKtdlmpcw8Gj) | 2:15 | 2022-05-21 |  |
 | [Homesick](https://open.spotify.com/track/4pUSuVCxVBKVAsoSzWlXJz) | [Domani](https://open.spotify.com/artist/0uFa64czAQ5cVJa3V0PfRq) | [Homesick](https://open.spotify.com/album/5bUOKdt10hWhvpki3st8xG) | 3:08 | 2021-10-07\* | 2021-10-30 |
 | [I Can't Lose](https://open.spotify.com/track/0DwMf9EDIXnFRTcZrePq6x) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Future Proof EP](https://open.spotify.com/album/6vvh0vpFCxoGp6gx9vWwGF) | 3:17 | 2021-05-21 | 2022-01-15 |
 | [I Deserve \(w/ NOS.\)](https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [NOS.](https://open.spotify.com/artist/7iRauMPdOJBF3RiDHKrXTB) | [I Deserve \(w/ NOS.\)](https://open.spotify.com/album/1jCHZ0ggPkFnm5b1r5ZY8V) | 2:42 | 2021-11-12 |  |

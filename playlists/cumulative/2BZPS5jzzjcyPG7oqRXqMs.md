@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-115 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+117 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All I Ever Need](https://open.spotify.com/track/7sQ3XZD56ACwxkPstd0Mbg) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [All I Ever Need](https://open.spotify.com/album/05QEZYQlfpjn0Y8dXnImv5) | 4:15 | 2022-02-17 |  |
 | [All I See](https://open.spotify.com/track/1OIhubEHsc9JJskFkqa1h3) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 2:58 | 2022-02-17 |  |
 | [ALL THINGS](https://open.spotify.com/track/63mcCKVqiSKY16HS1IpC7Y) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace: The Album](https://open.spotify.com/album/46V8rvf1x9N0Cca4LD3Y8s) | 3:06 | 2022-02-17 |  |
+| [Alpha Omega \- Live](https://open.spotify.com/track/0f8tSFxXxTtDead0x8Lhhr) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [I've Got Good News \(Live\)](https://open.spotify.com/album/3gK8jirdtfOYhoakLeESWd) | 5:54 | 2022-05-20 |  |
 | [Always](https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP) | 4:07 | 2022-03-30 |  |
 | [As For Me](https://open.spotify.com/track/5mMVPP6zg6YSUtZUEfYwW6) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [As For Me](https://open.spotify.com/album/6T2J8HV6B1apeN6dpMtJBL) | 3:42 | 2022-02-18 |  |
 | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk) | 3:25 | 2022-02-17 |  |
@@ -88,6 +89,7 @@
 | [On Repeat](https://open.spotify.com/track/5Bi3QUmWibSNUnvAAQ1OmK) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [On Repeat](https://open.spotify.com/album/2unrWe1Pnq59gnq35fhYfC) | 4:31 | 2022-02-17 |  |
 | [Overcomer \- Julie and Ruslan Remix](https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Julie Lov](https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR) | [Overcomer: The Remixes](https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc) | 3:16 | 2022-04-29 |  |
 | [Phenomena \(DA DA\) \- Live](https://open.spotify.com/track/5OEmp9rJJkHBBR1LTK3gix) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Phenomena \(DA DA\) \[Live\]](https://open.spotify.com/album/6aKTFjYsuCibBJFyW7q1RN) | 2:42 | 2022-02-17 |  |
+| [Plans](https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Plans](https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f) | 3:42 | 2022-05-20 |  |
 | [Promised Land](https://open.spotify.com/track/2VXNUklng1AswoKNgjiKJy) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Promised Land](https://open.spotify.com/album/1oSlXZXXKv4yHkaLDvgFij) | 3:29 | 2022-02-17 |  |
 | [Promised Land \(Collab New\) \(with Sheryl Crow\)](https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Promised Land](https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z) | 3:34 | 2022-02-17 |  |
 | [Rise](https://open.spotify.com/track/4zwNcBy4PfmeE1x6AMi4gF) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Rise](https://open.spotify.com/album/4KQQU41Z2YuBvDqZZJ8NHr) | 2:56 | 2022-02-17 |  |

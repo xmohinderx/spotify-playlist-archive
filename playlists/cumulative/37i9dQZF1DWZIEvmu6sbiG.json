@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 353320,
       "name": "Always",
       "url": "https://open.spotify.com/track/0kish3Tobj6Wq0we74343q"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 249760,
       "name": "America",
       "url": "https://open.spotify.com/track/6bS7DqTuzrpkluB7boWmw2"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 233919,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/2Pwm2YtneLSWi7vyUpT5fs"
@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+    },
+    {
+      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
@@ -365,7 +383,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 207506,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
@@ -499,7 +517,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 153391,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1eFMYrgKhHYycOKRaNfOfJ"
@@ -611,7 +629,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 209413,
       "name": "Don't Stop Me Now - Remastered 2011",
       "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
@@ -683,7 +701,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Ironic - 2015 Remaster",
       "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
@@ -1083,7 +1101,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 224493,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
@@ -1141,7 +1159,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 208680,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 191026,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/4fXGWiVhlOLdhwRDP6pIFG"
@@ -1375,7 +1393,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 266187,
       "name": "Lost on You",
       "url": "https://open.spotify.com/track/5QIzah26n6vMdj9t0l23m4"
@@ -1429,7 +1447,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 213266,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
@@ -1447,7 +1465,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 272946,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
@@ -1465,7 +1483,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 219920,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1zusIxNqJu8i4g6P6hJ2Qa"
@@ -1501,7 +1519,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 272293,
       "name": "Mr. Jones",
       "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 268746,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/6ZLGthToczpvnL5Eoy6yrY"
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
@@ -2085,7 +2103,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 202133,
       "name": "Sweet About Me",
       "url": "https://open.spotify.com/track/5wznxkB792LjSRdbZ1J1zo"
@@ -2193,7 +2211,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 267066,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/5q965S5loVSO7PcGkPRGUx"
@@ -2215,7 +2233,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 236520,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/2aSFLiDPreOVP6KHiWk4lF"
@@ -2381,7 +2399,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 200173,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/269OfNY9Je1QWaDnu31KKp"
@@ -2399,7 +2417,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 312360,
       "name": "Wind Of Change",
       "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
@@ -2435,7 +2453,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 258906,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/3UNAMgNHKl0fWzbZaU0fDM"

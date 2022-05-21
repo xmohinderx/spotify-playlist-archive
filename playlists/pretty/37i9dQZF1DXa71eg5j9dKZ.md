@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: KH
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,924 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,009 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 3 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 |
 | 4 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 |
 | 5 | [Fiorucci Made Me Hardcore](https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Fiorucci Made Me Hardcore](https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep) | 3:51 |
-| 6 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 |
-| 7 | [Baby, We're Ascending \- Edit](https://open.spotify.com/track/1L6Jpr2nBdKkgs8CQWheNT) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/3AvlpYPO9aRazYSvQh3mvz) | 4:12 |
-| 8 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 |
-| 9 | [Mash up the Dance](https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv) | 3:09 |
+| 6 | [Mash up the Dance](https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv) | 3:09 |
+| 7 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 |
+| 8 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 |
+| 9 | [Baby, We're Ascending \- Edit](https://open.spotify.com/track/1L6Jpr2nBdKkgs8CQWheNT) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/3AvlpYPO9aRazYSvQh3mvz) | 4:12 |
 | 10 | [Understand \(Feat\. Brendan Yates\)](https://open.spotify.com/track/5jhRsVcC3BSMy29hwvMLLr) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Understand](https://open.spotify.com/album/25K6HjnAYFyBig7OntQbqS) | 3:43 |
 | 11 | [Give it to Me](https://open.spotify.com/track/6H2pxSiSTzSheYZydk7VZw) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [Big Saldo's Chunker 002](https://open.spotify.com/album/6RquqCIzJ6Ay9A4HzoHRMX) | 7:09 |
 | 12 | [Pods](https://open.spotify.com/track/6lHH2Pf5R8IBuQtew5hWz8) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Pods](https://open.spotify.com/album/2yxxciiP7cj7fcuSx6WTwa) | 4:02 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 32 | [Avalanche](https://open.spotify.com/track/2ZqYiWW6yqG1vjjOyR6LE6) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Avalanche](https://open.spotify.com/album/1XAmPzzpxTCnowBOyiNf5X) | 5:24 |
 | 33 | [My Love is True](https://open.spotify.com/track/6b6QfZ7xsZ6sYc6OpoHfTo) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z), [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [My Love is True](https://open.spotify.com/album/4CmrtDXXIGt1q2B91lLyx0) | 3:28 |
 | 34 | [Skin](https://open.spotify.com/track/0WMC46vApbaQRiE6fkFSJf) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Laudic](https://open.spotify.com/artist/3Y9YbP5cfE73GZQBsPvds9) | [Skin](https://open.spotify.com/album/78veW1SzwerrmJWas6Ca35) | 5:13 |
-| 35 | [Admit It \(u don't want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [India Jordan](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(u don't want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 |
+| 35 | [Admit It \(u don't want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(u don't want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 |
 | 36 | [Piano Skank](https://open.spotify.com/track/79XMhe7Y6KfuECqu1sEqKN) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW) | [Piano Skank](https://open.spotify.com/album/5WnCqwiHCV0DxkgZkAsEUh) | 4:37 |
 | 37 | [Run It](https://open.spotify.com/track/45yGi113kuhszqn4LkFKSq) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Run It](https://open.spotify.com/album/1LfKxpxGeKdxgIYHe9oA0C) | 4:57 |
 | 38 | [3210 \- Ross from Friends Remix](https://open.spotify.com/track/1PfbIpFjsS1BayUoqB3X7O) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [3210 \(Ross from Friends Remix\)](https://open.spotify.com/album/4julBAGYv4WmRXwhjJ2LPD) | 5:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Acid in My Blood](https://open.spotify.com/track/3b3TFgnFPhUSk8lvHdO6lX) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Acid / Ganzfeld 12”](https://open.spotify.com/album/2VdaeUUwHR6azUFE4MMb6S) | 4:28 |
 | 100 | [She Gives U](https://open.spotify.com/track/4O0ZhoIxA7xovHZ9RSbI9E) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [She Gives U](https://open.spotify.com/album/0QYsPD9bqPwoIvQ5KdpFRf) | 5:31 |
 
-Snapshot ID: `MTY1MzAwMjM3NiwwMDAwMDFjZTAwMDAwMTgwZGU5ZTk0NWMwMDAwMDE4MGRlOWMwMjM1`
+Snapshot ID: `MTY1MzA1NzQ3OSwwMDAwMDFjZjAwMDAwMTgwZTFlNzYxZDgwMDAwMDE4MGRlOWMwMjM1`

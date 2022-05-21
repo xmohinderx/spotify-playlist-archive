@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-762 songs - 1 day 17 hr 8 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+763 songs - 1 day 17 hr 11 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Happy End \(feat\. Suikon Blaz AD\)](https://open.spotify.com/track/6xwhUh69b89aLTeYR2HH8r) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Suikon Blaz AD](https://open.spotify.com/artist/7kFoHyLeI8IWSoKZ8uIeY1) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:12 | 2022-02-05 | 2022-02-14 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2021-12-25 | 2021-12-27 |
 | [Harlem](https://open.spotify.com/track/6abmx3y1l6I0yFMvvQiHAI) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Aquanaute](https://open.spotify.com/album/5xFIrXrCK3AVjotjoRGe1h) | 3:03 | 2022-01-27 | 2022-01-29 |
-| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-09-10 |  |
+| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-09-10 | 2022-05-21 |
 | [Heaven and Hell](https://open.spotify.com/track/2ZUJsR8HEktit58X6FuPQM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:25 | 2021-09-01 | 2021-09-02 |
 | [HELP !!!](https://open.spotify.com/track/1jZOcCrw6nyHnNcqYKrr6C) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 1:59 | 2021-07-18 | 2021-07-20 |
 | [Here We Go… Again \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-08 | 2022-01-10 |
@@ -660,6 +660,7 @@
 | [STUNTMEN \(feat\. Alpha Wann & Wit.\)](https://open.spotify.com/track/1YEs58i4G68twRzYaFEu7T) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti), [Wit.](https://open.spotify.com/artist/4ME56PlDfT9QKf6sGcRgPm) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 3:24 | 2021-07-18 | 2021-07-25 |
 | [Suavemente](https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Suavemente](https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA) | 2:39 | 2022-02-26 |  |
 | [Suis\-moi \(feat\. Ninho\)](https://open.spotify.com/track/2JFBYWxcJlt1PubMJYVjc0) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:55 | 2022-01-29 | 2022-03-06 |
+| [Superstar](https://open.spotify.com/track/6kFKyM6lv22Q3KJaIopkIe) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Superstar](https://open.spotify.com/album/5QJwCA7duna6Wh4Y8cFWaO) | 3:54 | 2022-05-20 |  |
 | [Sur le banc](https://open.spotify.com/track/0YLuv7i1ZU2zBXv22T8Vh0) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:45 | 2022-01-29 | 2022-01-31 |
 | [Sur un nouvel album](https://open.spotify.com/track/7gaXVyPaSqUwIcLPTrnHLm) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:44 | 2022-02-05 | 2022-02-14 |
 | [T'avais raison](https://open.spotify.com/track/1162aS7ZgDr6zmiw0Z6ma6) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 2:41 | 2021-09-19 | 2021-09-20 |

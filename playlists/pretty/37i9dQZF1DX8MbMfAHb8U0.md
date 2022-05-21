@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,256 likes - 98 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,509 likes - 98 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 449306,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/4DNmFW3PK5jbgW6n02bVQF"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 327306,
       "name": "Compulsion",
       "url": "https://open.spotify.com/track/5ZkLm20XMu4r1KCYaCgx61"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 256533,
       "name": "Dancing Barefoot",
       "url": "https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 334066,
       "name": "Disappointed",
       "url": "https://open.spotify.com/track/2PSXD9A74a6eLlrcbR32NM"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 251600,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/7lVbgM5cMH8zxDRBpJQNjq"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 408173,
       "name": "How Soon Is Now? - 2011 Remaster",
       "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 219933,
       "name": "I Ran (So Far Away)",
       "url": "https://open.spotify.com/track/173PnvZh4grHTf31DPXDbJ"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 240760,
       "name": "I'll Stand by You",
       "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
@@ -895,6 +895,24 @@
       "duration_ms": 308133,
       "name": "I've Been In Love Before",
       "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
+    },
+    {
+      "album": {
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176600,
+      "name": "In God's Country - Remastered 2007",
+      "url": "https://open.spotify.com/track/7GJg0Pvbb4nqWTwGmkXF1S"
     },
     {
       "album": {
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 265466,
       "name": "Love Like Blood",
       "url": "https://open.spotify.com/track/1zkQJfNo2KpqqCKOOvWPF4"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 193400,
       "name": "Luka",
       "url": "https://open.spotify.com/track/6wXy0MosS6KGV8yowVradf"
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 274626,
       "name": "Repetition",
       "url": "https://open.spotify.com/track/2Dq6BAHRXcoTxg9azES5xW"
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 257826,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/6amZm52SfS7d6oCEu9NDMl"
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 217453,
       "name": "Souvenir - Remastered 2003",
       "url": "https://open.spotify.com/track/6ovrxrZnAvJRbUJ5Sscoqk"
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 163053,
       "name": "This Charming Man - Single Version; 2008 Remaster",
       "url": "https://open.spotify.com/track/1oDpnYvcjkgxNc9ytYmxQJ"
@@ -2007,7 +2025,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 277706,
       "name": "When Your Heart Is Weak",
       "url": "https://open.spotify.com/track/3OiMyoS1QCu8ozdDEj1WWD"

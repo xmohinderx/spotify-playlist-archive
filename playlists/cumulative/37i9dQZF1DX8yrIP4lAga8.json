@@ -169,7 +169,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 180924,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/21s4cGnVJbFukABXZTVlia"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 194761,
       "name": "Believer",
       "url": "https://open.spotify.com/track/1Ckah0ICBG4AoAY0x6LbSF"
@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Blurred",
+        "url": "https://open.spotify.com/album/4KIwRSyLUBRHj5tm7zLGRp"
+      },
+      "artists": [
+        {
+          "name": "Pianoman",
+          "url": "https://open.spotify.com/artist/7wmFgMKmwKthThqPpc9oGV"
+        }
+      ],
+      "date_added": "2021-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236360,
+      "name": "Blurred - Pianoman Original Edit",
+      "url": "https://open.spotify.com/track/4WoDfZATxrG9KEhuNctzAG"
+    },
+    {
+      "album": {
         "name": "Both Of Us",
         "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
       },
@@ -293,7 +311,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 353568,
       "name": "Both Of Us",
       "url": "https://open.spotify.com/track/7q584VOAZLMPaIQ9pedKFl"
@@ -315,7 +333,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 185806,
       "name": "Bring Me Back",
       "url": "https://open.spotify.com/track/4fzxNsK0wKUkLr6V0uYoEq"
@@ -575,7 +593,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 146190,
       "name": "Don't Go - Gerd Janson Re-Work - Shorter Edit",
       "url": "https://open.spotify.com/track/6DUWBZ6K8A0pmn0h719BI3"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 230163,
       "name": "Feel My Needs - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/3RiRFyvasDtAv8n0AQUKFG"
@@ -729,7 +747,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 212877,
       "name": "Float",
       "url": "https://open.spotify.com/track/1LKo1pAertanzWdCwjykFB"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 184767,
       "name": "Hello Sunday",
       "url": "https://open.spotify.com/track/2rLO0WXRwcxJJRYLHzRJpz"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 217046,
       "name": "I Feel It - Paul Woolford Remix",
       "url": "https://open.spotify.com/track/5rXnLer20fKRTYOOF092Gb"
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 212933,
       "name": "I Know That You Miss Me",
       "url": "https://open.spotify.com/track/1rnBEPxUFdGW1QoSB39kiu"
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 180480,
       "name": "If You Wanna",
       "url": "https://open.spotify.com/track/5NMpjgdyG48RGtkjj8QENH"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 169458,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/15Vlfa18uD2w98YG5zX7Pb"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 211452,
       "name": "Looking for Me",
       "url": "https://open.spotify.com/track/17bGtGqqaXOgVnhnfx5NlE"
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 157741,
       "name": "Love Me - Ferdinand Weber Remix",
       "url": "https://open.spotify.com/track/56BIg69lYCmTfZeBEnZoc3"
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 197419,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/2MeuHyZvctH7HuZJmpvuSu"
@@ -1623,6 +1641,28 @@
       "duration_ms": 201290,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/3EAwcVzkJyIp481tAtYeR0"
+    },
+    {
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/7KrVkLXp05Tn5MoZYVEhop"
+      },
+      "artists": [
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196109,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/3YXIVMQLRRq2K7kxC7UYx6"
     },
     {
       "album": {
@@ -1791,7 +1831,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 190110,
       "name": "Off My Mind",
       "url": "https://open.spotify.com/track/3IzYy3AdSWMX4uojNyS596"
@@ -1813,7 +1853,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 143242,
       "name": "On Top Of Mine (feat. Kelli-Leigh)",
       "url": "https://open.spotify.com/track/4YwOxXdhqzvgglya1LBExq"
@@ -1967,7 +2007,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 168292,
       "name": "Rhythm Of The Night (feat. Lauren L'aimant)",
       "url": "https://open.spotify.com/track/2ueblaOZyxEOH4N0s30zDB"
@@ -2081,7 +2121,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 203145,
       "name": "Shout It Back",
       "url": "https://open.spotify.com/track/7hm7VeisaprvXd1OEdmCPu"
@@ -2099,7 +2139,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 219715,
       "name": "Simple Hit",
       "url": "https://open.spotify.com/track/0C3QADQBYFjcSeU8bY7Oex"
@@ -2121,7 +2161,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 183095,
       "name": "Sing Your Praises - Shermanology Remix",
       "url": "https://open.spotify.com/track/6JyKEYpkTA1kfgfQC6XU9O"
@@ -2157,7 +2197,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 205161,
       "name": "Smile",
       "url": "https://open.spotify.com/track/7AV1g7h1KJlAvi8JoXBQ0p"
@@ -2387,7 +2427,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 134442,
       "name": "That Feeling (feat. Hayley May)",
       "url": "https://open.spotify.com/track/7clsGP3ea7rhBaEK9ga898"
@@ -2435,7 +2475,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 221705,
       "name": "The Power - Leftwing : Kody Remix",
       "url": "https://open.spotify.com/track/1CmKNKnbsvStGoo0rkW0cz"
@@ -2567,7 +2607,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 146569,
       "name": "Wanna Show You",
       "url": "https://open.spotify.com/track/31Lors0F9PKAW3t61X5Dio"
@@ -2585,7 +2625,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 159408,
       "name": "Was a Time",
       "url": "https://open.spotify.com/track/4L3oBxjWLPgQkf2FXIWgx8"
@@ -2655,7 +2695,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 276785,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/0znWLtFPl7v8okFL3nbiBo"
@@ -2703,7 +2743,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 206280,
       "name": "Will We Talk? - MK Remix",
       "url": "https://open.spotify.com/track/65GPm8Zn3n78BCqitmbNL9"
@@ -2721,7 +2761,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 136451,
       "name": "Won't Give Up",
       "url": "https://open.spotify.com/track/3G0vs3WVwcd46XuyQpVbBs"
@@ -2823,7 +2863,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 179266,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/374iP6eVAWCCCH2mvZT2A9"

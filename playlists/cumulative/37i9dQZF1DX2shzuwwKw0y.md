@@ -4,7 +4,7 @@
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Junior H en portada.
 
-102 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/7MKeGtBxLUek4q2wQW5uWo)
+103 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/7MKeGtBxLUek4q2wQW5uWo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 | 2022-02-21 |  |
 | [El Flaquito](https://open.spotify.com/track/5NmlPbM72H4Q1yKwKzIdHY) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [¿Será Prudente?](https://open.spotify.com/album/1j6Hr9ZFTNbAOj953dqmfb) | 2:36 | 2022-02-21 |  |
 | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI) | 3:33 | 2022-02-21 |  |
+| [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 | 2022-05-20 |  |
 | [El Karma](https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:15 | 2022-02-21 |  |
 | [El Paciente](https://open.spotify.com/track/2omJSQbSy5nFNVj1qAQ64M) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Paciente](https://open.spotify.com/album/09uWytPkBJfcBDkv0KY5Hl) | 3:31 | 2022-02-21 |  |
 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 | 2022-02-21 |  |

@@ -2,7 +2,7 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Let's turn ON the movement! Watch TOMORROW X TOGETHER play the balance game if you're on mobile! Cover: LE SSERAFIM
+> Let's turn ON the movement! Watch TOMORROW X TOGETHER play the balance game if you're on mobile!
 
 126 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
 

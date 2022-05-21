@@ -4,7 +4,7 @@
 
 > A little bit of pop and a little bit of rap\. Cover: anees
 
-263 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+264 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All The Money](https://open.spotify.com/track/32Q27dmjQvctlYpLKPC8XS) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [All The Money](https://open.spotify.com/album/53Fx7rTO9Q1247lBUT3sMa) | 2:47 | 2022-01-28 | 2022-02-19 |
 | [Already Best Friends \(feat\. Chris Brown\)](https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 3:17 | 2022-04-11 |  |
 | [Always Be There](https://open.spotify.com/track/4LoKQ3eOcdLPX7agIxvkwj) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV), [CASO](https://open.spotify.com/artist/0yeVflnnTfACkYWpG2JVDi) | [Always Be There](https://open.spotify.com/album/2I4TjYRCahlkPxY5xG0svc) | 2:51 | 2021-11-16 | 2022-02-26 |
+| [Around You](https://open.spotify.com/track/3LWhbpStRiRnTM3FrdmqOB) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Around You](https://open.spotify.com/album/4xiADjut6p4Q6JaoZZ01tp) | 3:02 | 2022-05-20 |  |
 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 | 2022-04-06 |  |
 | [Back Then](https://open.spotify.com/track/6G0211y476pxdQXHbdFeVV) | [LAYNE](https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69) | [Back Then](https://open.spotify.com/album/5UFqhj2GruuvXFF8PKr8u4) | 2:22 | 2022-03-25 |  |
 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 | 2021-11-16 |  |
@@ -55,7 +56,7 @@
 | [Cocoa Butter Kisses](https://open.spotify.com/track/0aMHIW1lqrulVCx0LLlr6a) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Acid Rap](https://open.spotify.com/album/2VBcztE58pBKjIDS5oEgFh) | 5:07 | 2022-04-04 | 2022-05-20 |
 | [Colorado Boulder](https://open.spotify.com/track/415cidxCKnjZg9l7dAnVJp) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA), [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Colorado Boulder](https://open.spotify.com/album/5hF6qsppuOKFRmgeCKwj2T) | 2:43 | 2022-02-25 | 2022-05-07 |
 | [Coming Off \(w/ Brevin Kim\)](https://open.spotify.com/track/5VVwf9cFRB54BwuRTTUzk5) | [Phazzze](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [Coming Off \(w/ Brevin Kim\)](https://open.spotify.com/album/2nS3UeRJjodBMCufr2u3DX) | 2:09 | 2022-03-11 |  |
-| [commas](https://open.spotify.com/track/3CV5fTPdh7g5XOwjeXGmDJ) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [commas](https://open.spotify.com/album/3lxNorNFjdQYyr31bFHIT7) | 2:20 | 2022-03-11 |  |
+| [commas](https://open.spotify.com/track/3CV5fTPdh7g5XOwjeXGmDJ) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [commas](https://open.spotify.com/album/3lxNorNFjdQYyr31bFHIT7) | 2:20 | 2022-03-11 | 2022-05-21 |
 | [Company](https://open.spotify.com/track/5x5xVKKT0jltPqjtWfmJTn) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [BIGBABYGUCCI](https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs) | [Company](https://open.spotify.com/album/1t0NQ9kXjNVFmWRwV1iDcg) | 2:35 | 2022-04-15 |  |
 | [Confident](https://open.spotify.com/track/5Isz0twJeFdduOQEFQLezv) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Journals](https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml) | 4:08 | 2022-04-04 |  |
 | [Cool Kids](https://open.spotify.com/track/4PLuCa10ULsd3t9bGV7MH5) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Cool Kids](https://open.spotify.com/album/5L0YcnTzbGjQQ0AKX7GjtG) | 2:12 | 2021-11-16 | 2022-02-26 |

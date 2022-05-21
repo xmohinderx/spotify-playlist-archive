@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Vismay Patel
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,289 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,340 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lage Nahi Man](https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Lage Nahi Man](https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR) | 3:11 |
 | 2 | [Khoya](https://open.spotify.com/track/042J1bbhYbWcal95ZPOuJe) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM) | [Khoya](https://open.spotify.com/album/2D8X4Z53wmX6LNs0SpBFV1) | 2:58 |
-| 3 | [Woh Raat](https://open.spotify.com/track/7GfUW14lAQO18Iazx8VpwL) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Woh Raat](https://open.spotify.com/album/2ygBY9nuMmrGqfZ1vi8OJ6) | 3:11 |
-| 4 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
-| 5 | [Yaadein](https://open.spotify.com/track/559lQBU46ePjxVXS9cNsmW) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Yaadein](https://open.spotify.com/album/2G5NDAUQru6BAMBN8s1eGG) | 4:41 |
-| 6 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 |
+| 3 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 |
+| 4 | [Woh Raat](https://open.spotify.com/track/7GfUW14lAQO18Iazx8VpwL) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Woh Raat](https://open.spotify.com/album/2ygBY9nuMmrGqfZ1vi8OJ6) | 3:11 |
+| 5 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
+| 6 | [Yaadein](https://open.spotify.com/track/559lQBU46ePjxVXS9cNsmW) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Yaadein](https://open.spotify.com/album/2G5NDAUQru6BAMBN8s1eGG) | 4:41 |
 | 7 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 |
 | 8 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 |
 | 9 | [Kahaani](https://open.spotify.com/track/0lbe1bIqb5rR1czdQP6fTK) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Kahaani](https://open.spotify.com/album/1MnbaNHLBduuqDZwU0uWTU) | 3:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Kaisi Ho ?](https://open.spotify.com/track/2Bk6sJI1RkMrAQyUCtr1qx) | [Amartya Bobo Rahut](https://open.spotify.com/artist/4dTwJ84ivqIRkRI5qKB9vB) | [Kaisi Ho ?](https://open.spotify.com/album/2g3kns9XJzDoeZAPIw6a1k) | 2:52 |
 | 75 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 |
 
-Snapshot ID: `MTY1MzAyNTkwOSwwMDAwMDAwMDk5ZTc1YjNkMTRmMDZhYmRmNDFlODliNmNlZmQ5NjIw`
+Snapshot ID: `MTY1MzA5NDUxMiwwMDAwMDAwMDk1ODA1YjExMzgwMGYxMzA3OTYyOWI4ZDNiYjE4YjI3`

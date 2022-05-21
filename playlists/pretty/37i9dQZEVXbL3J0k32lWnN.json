@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 181348,
+  "num_followers": 181380,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA2MjgwMTY0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA2MzY0NjQ3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "Mucki Bar",
         "url": "https://open.spotify.com/album/3pYdHv18QdrVPTldybOpSk"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/31dynF6Vm6s6cLsHEBL8kp"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "hjem fra fabrikken",
         "url": "https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/5Mx9Hf6G4nZoTp5Ll9AH73"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "STOR MAND",
         "url": "https://open.spotify.com/album/0ZjlCteIeQUApCh9TqoRPA"
@@ -61,23 +61,7 @@
       "url": "https://open.spotify.com/track/56Ua2ypj5HWnotoIF3lEHc"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
-      "album": {
-        "name": "Danser",
-        "url": "https://open.spotify.com/album/5aIMBNbI3Qyno8HCRWP6iv"
-      },
-      "artists": [
-        {
-          "name": "GMG",
-          "url": "https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7"
-        }
-      ],
-      "duration_ms": 159186,
-      "name": "Danser",
-      "url": "https://open.spotify.com/track/5uPv6fOsHPC8ZqxRKElxMP"
-    },
-    {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "N\u00e5r M\u00e6nd Gr\u00e6der",
         "url": "https://open.spotify.com/album/5Hk2j3xL9WIU3oE7TWoBsv"
@@ -93,23 +77,7 @@
       "url": "https://open.spotify.com/track/1bIxLnZasVLJbol55wDU5r"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
-      "album": {
-        "name": "DR\u00d8M MIG V\u00c6K",
-        "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
-      },
-      "artists": [
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "DR\u00d8M MIG V\u00c6K",
-      "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
-    },
-    {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
@@ -125,7 +93,39 @@
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
+      "album": {
+        "name": "Danser",
+        "url": "https://open.spotify.com/album/5aIMBNbI3Qyno8HCRWP6iv"
+      },
+      "artists": [
+        {
+          "name": "GMG",
+          "url": "https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7"
+        }
+      ],
+      "duration_ms": 159186,
+      "name": "Danser",
+      "url": "https://open.spotify.com/track/5uPv6fOsHPC8ZqxRKElxMP"
+    },
+    {
+      "added_at": "2022-05-20 12:24:07",
+      "album": {
+        "name": "DR\u00d8M MIG V\u00c6K",
+        "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 163533,
+      "name": "DR\u00d8M MIG V\u00c6K",
+      "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
+    },
+    {
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "L\u00e5gsus For Evigt",
         "url": "https://open.spotify.com/album/5BsIA40eamUa23jQyAp3d1"
@@ -149,23 +149,7 @@
       "url": "https://open.spotify.com/track/1lARru9E0ESa5lZchy1Rvm"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
-      "album": {
-        "name": "BLUE LAGOON",
-        "url": "https://open.spotify.com/album/75hmQdBclHOXLdb7G7uFob"
-      },
-      "artists": [
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        }
-      ],
-      "duration_ms": 145089,
-      "name": "BLUE LAGOON",
-      "url": "https://open.spotify.com/track/0QPbPIyuUB4Jdm0vjCIVJV"
-    },
-    {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -181,23 +165,23 @@
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+        "name": "BLUE LAGOON",
+        "url": "https://open.spotify.com/album/75hmQdBclHOXLdb7G7uFob"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
         }
       ],
-      "duration_ms": 195950,
-      "name": "N95",
-      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
+      "duration_ms": 145089,
+      "name": "BLUE LAGOON",
+      "url": "https://open.spotify.com/track/0QPbPIyuUB4Jdm0vjCIVJV"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "Infinity Action",
         "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
@@ -213,7 +197,23 @@
       "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
+    },
+    {
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "DRIPPY",
         "url": "https://open.spotify.com/album/4gya2SSwGp1nydI7O2yqvD"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/15UqDIySHN7BlafyZzzD4s"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/6e7KGsngU13kguy5hTvSxe"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
@@ -297,7 +297,95 @@
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
+      "album": {
+        "name": "Cooped Up",
+        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 185857,
+      "name": "Cooped Up (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
+    },
+    {
+      "added_at": "2022-05-20 12:24:07",
+      "album": {
+        "name": "Held & Lykke Med At Komme Hjem",
+        "url": "https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "duration_ms": 157102,
+      "name": "Er Her (Artigeardit, KESI)",
+      "url": "https://open.spotify.com/track/6BxGGPBdNexcy53euZsrga"
+    },
+    {
+      "added_at": "2022-05-20 12:24:07",
+      "album": {
+        "name": "f\u00f8ler mig selv 100",
+        "url": "https://open.spotify.com/album/14mdiNcBOtukgLcOgNMdzF"
+      },
+      "artists": [
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 207288,
+      "name": "f\u00f8ler mig selv 100",
+      "url": "https://open.spotify.com/track/7iuM7vnvSjX9qqcuFtij1T"
+    },
+    {
+      "added_at": "2022-05-20 12:24:07",
+      "album": {
+        "name": "Like It",
+        "url": "https://open.spotify.com/album/4HBzg9wOXmO2mNS7qNWf7v"
+      },
+      "artists": [
+        {
+          "name": "Lasse Skriver",
+          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
+        }
+      ],
+      "duration_ms": 165330,
+      "name": "Like It",
+      "url": "https://open.spotify.com/track/5cKKhLrACXi9bVMxrMki75"
+    },
+    {
+      "added_at": "2022-05-20 12:24:07",
+      "album": {
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "Half A Man",
+      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
+    },
+    {
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
@@ -321,95 +409,7 @@
       "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
-      "album": {
-        "name": "Cooped Up",
-        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 185857,
-      "name": "Cooped Up (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
-    },
-    {
-      "added_at": "2022-05-19 12:56:04",
-      "album": {
-        "name": "f\u00f8ler mig selv 100",
-        "url": "https://open.spotify.com/album/14mdiNcBOtukgLcOgNMdzF"
-      },
-      "artists": [
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 207288,
-      "name": "f\u00f8ler mig selv 100",
-      "url": "https://open.spotify.com/track/7iuM7vnvSjX9qqcuFtij1T"
-    },
-    {
-      "added_at": "2022-05-19 12:56:04",
-      "album": {
-        "name": "Like It",
-        "url": "https://open.spotify.com/album/4HBzg9wOXmO2mNS7qNWf7v"
-      },
-      "artists": [
-        {
-          "name": "Lasse Skriver",
-          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
-        }
-      ],
-      "duration_ms": 165330,
-      "name": "Like It",
-      "url": "https://open.spotify.com/track/5cKKhLrACXi9bVMxrMki75"
-    },
-    {
-      "added_at": "2022-05-19 12:56:04",
-      "album": {
-        "name": "Held & Lykke Med At Komme Hjem",
-        "url": "https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        },
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        }
-      ],
-      "duration_ms": 157102,
-      "name": "Er Her (Artigeardit, KESI)",
-      "url": "https://open.spotify.com/track/6BxGGPBdNexcy53euZsrga"
-    },
-    {
-      "added_at": "2022-05-19 12:56:04",
-      "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Half A Man",
-      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
-    },
-    {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "Hurtless",
         "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
@@ -425,7 +425,23 @@
       "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
+      "album": {
+        "name": "K\u00e6rlighed I Luften",
+        "url": "https://open.spotify.com/album/74O34YsHxesDMmiPUgtYDR"
+      },
+      "artists": [
+        {
+          "name": "Jimilian",
+          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
+        }
+      ],
+      "duration_ms": 183278,
+      "name": "K\u00e6rlighed I Luften",
+      "url": "https://open.spotify.com/track/2xtNOow6ra2MYH35t3zbJf"
+    },
+    {
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
@@ -461,23 +477,7 @@
       "url": "https://open.spotify.com/track/3a6GwXyS27Phmpr9XMv1h7"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
-      "album": {
-        "name": "K\u00e6rlighed I Luften",
-        "url": "https://open.spotify.com/album/74O34YsHxesDMmiPUgtYDR"
-      },
-      "artists": [
-        {
-          "name": "Jimilian",
-          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
-        }
-      ],
-      "duration_ms": 183278,
-      "name": "K\u00e6rlighed I Luften",
-      "url": "https://open.spotify.com/track/2xtNOow6ra2MYH35t3zbJf"
-    },
-    {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "Mere End Musik",
         "url": "https://open.spotify.com/album/1nwiXLlvr8dLlh5XVOrwD9"
@@ -505,27 +505,7 @@
       "url": "https://open.spotify.com/track/2GajeoOS17ifAmYX8xxPZw"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
-      "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
-    },
-    {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "From Paris to Berlin (feat. Branco & Jimilian)",
         "url": "https://open.spotify.com/album/76sA4WxmGHNNLUjQX2pbIQ"
@@ -549,43 +529,27 @@
       "url": "https://open.spotify.com/track/6bldUK7gjgeHbpxxoXd1xv"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+        "name": "F*CK LOVE 3: OVER YOU",
+        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         },
         {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 222497,
-      "name": "Father Time (feat. Sampha)",
-      "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
-      "album": {
-        "name": "HYGGE MYGGE",
-        "url": "https://open.spotify.com/album/4rKa3KaGe8wg90d9Vpni7i"
-      },
-      "artists": [
-        {
-          "name": "RH",
-          "url": "https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ"
-        }
-      ],
-      "duration_ms": 134722,
-      "name": "HYGGE MYGGE",
-      "url": "https://open.spotify.com/track/11AZDeHTCik5zXmZAFzDST"
-    },
-    {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "Hensigt",
         "url": "https://open.spotify.com/album/0sBhlKHwZwJ1X7kcCP8Pqv"
@@ -601,39 +565,7 @@
       "url": "https://open.spotify.com/track/4b5qKstcv1JIha4xuq89iD"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-05-19 12:56:04",
-      "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 135053,
-      "name": "Dua Lipa",
-      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
-    },
-    {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -649,7 +581,39 @@
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
+      "album": {
+        "name": "HYGGE MYGGE",
+        "url": "https://open.spotify.com/album/4rKa3KaGe8wg90d9Vpni7i"
+      },
+      "artists": [
+        {
+          "name": "RH",
+          "url": "https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ"
+        }
+      ],
+      "duration_ms": 134722,
+      "name": "HYGGE MYGGE",
+      "url": "https://open.spotify.com/track/11AZDeHTCik5zXmZAFzDST"
+    },
+    {
+      "added_at": "2022-05-20 12:24:07",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "Har Det Fucking Godt",
         "url": "https://open.spotify.com/album/2BmK8RyqMfaQiz0gRPfNAr"
@@ -665,7 +629,23 @@
       "url": "https://open.spotify.com/track/3NxlOtyM9V95ZhqRZGZdw7"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 135053,
+      "name": "Dua Lipa",
+      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+    },
+    {
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
@@ -689,7 +669,7 @@
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "CSKI VOL. 2",
         "url": "https://open.spotify.com/album/0ssgEUHadlWTWQIGXuWZ5j"
@@ -713,7 +693,7 @@
       "url": "https://open.spotify.com/track/6Zw7r9dPtbX0D1CcIS8caf"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "BO4L",
         "url": "https://open.spotify.com/album/3JE1v19SrHzxmZAbf8iHkZ"
@@ -733,7 +713,7 @@
       "url": "https://open.spotify.com/track/0qA2qykpcGdVl3tiiYum4g"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
@@ -742,46 +722,18 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Rich Spirit",
-      "url": "https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke"
-    },
-    {
-      "added_at": "2022-05-19 12:56:04",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
-      },
-      "artists": [
+        },
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 255377,
-      "name": "United In Grief",
-      "url": "https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx"
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
-      "album": {
-        "name": "hjem fra fabrikken",
-        "url": "https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd"
-      },
-      "artists": [
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 198606,
-      "name": "i morgen er der ogs\u00e5 en dag",
-      "url": "https://open.spotify.com/track/1zTLgT9jFwTuwrFFcOqXNw"
-    },
-    {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "Thousand Miles",
         "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
@@ -797,7 +749,7 @@
       "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -813,7 +765,39 @@
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
+      "album": {
+        "name": "hjem fra fabrikken",
+        "url": "https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd"
+      },
+      "artists": [
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 198606,
+      "name": "i morgen er der ogs\u00e5 en dag",
+      "url": "https://open.spotify.com/track/1zTLgT9jFwTuwrFFcOqXNw"
+    },
+    {
+      "added_at": "2022-05-20 12:24:07",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke"
+    },
+    {
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "When You're Gone",
         "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
@@ -829,7 +813,23 @@
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 255377,
+      "name": "United In Grief",
+      "url": "https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx"
+    },
+    {
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -849,23 +849,23 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+        "name": "go",
+        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 283642,
-      "name": "Count Me Out",
-      "url": "https://open.spotify.com/track/7pj6P5WnxkZsw3XRc8eMe1"
+      "duration_ms": 215000,
+      "name": "go",
+      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
@@ -889,20 +889,20 @@
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
-      "added_at": "2022-05-19 12:56:04",
+      "added_at": "2022-05-20 12:24:07",
       "album": {
-        "name": "go",
-        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
+        "name": "K O L O",
+        "url": "https://open.spotify.com/album/0NZqyszNT65qzP0Qac24DU"
       },
       "artists": [
         {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
         }
       ],
-      "duration_ms": 215000,
-      "name": "go",
-      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
+      "duration_ms": 174586,
+      "name": "K O L O",
+      "url": "https://open.spotify.com/track/4DVOsxcYoOPd0Su0lzULed"
     }
   ],
   "unique_name": "Top 50 - Denmark",

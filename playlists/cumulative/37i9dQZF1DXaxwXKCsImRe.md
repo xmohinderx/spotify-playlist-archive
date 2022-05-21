@@ -4,7 +4,7 @@
 
 > Exciting artists on the RADAR from the Benelux and beyond\. Cover: Tabitha
 
-62 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/5PI9N3InPPtYz6UBLMEA8w)
+64 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/5PI9N3InPPtYz6UBLMEA8w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Blu Celeste](https://open.spotify.com/track/0BeXxjO6mgLDzg4xA6UheO) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 3:26 | 2021-12-10 |  |
 | [Body And Mind](https://open.spotify.com/track/3IRooi7Z3RsocwcQblHza8) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:06 | 2021-12-10 |  |
 | [Boss \(io & te\)](https://open.spotify.com/track/5lXDYzI9tKb6Vx6Wg1yq4a) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Boss \(io & te\)](https://open.spotify.com/album/6dQS4H6TAnoFx45RGVrGVy) | 3:01 | 2021-12-10 |  |
+| [chameleons](https://open.spotify.com/track/344QBfyJrOAKfDgZ8JkRvs) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [chameleons](https://open.spotify.com/album/0qVtwRqe3IYlKAVKf9TO6T) | 2:45 | 2022-05-20 |  |
 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 | 2021-12-10 |  |
 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 | 2021-12-10 |  |
 | [Daiquiri](https://open.spotify.com/track/41fg4zU6tNKqs46Z59Fihs) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Daiquiri](https://open.spotify.com/album/0NxNkoYvI2RWfssxRxtLKg) | 3:38 | 2021-12-10 |  |
@@ -68,6 +69,7 @@
 | [Who’s Gonna Be The GOAT?](https://open.spotify.com/track/43lovrb0yCRgUzM3CA2KNz) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [\(yellow\)](https://open.spotify.com/album/4OwS1arhD7iCSSDRjF28tu) | 2:44 | 2022-02-10 |  |
 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 | 2021-12-10 |  |
 | [You Were in My Dream Last Night](https://open.spotify.com/track/5XdUEaXDQRaSkMT9y2FNvU) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [You Were in My Dream Last Night](https://open.spotify.com/album/0r9Qxn2RLpE6naOr0GXcJq) | 4:01 | 2021-12-10 |  |
+| [Yuh \(Symphony In D Minor\)](https://open.spotify.com/track/3lUzn12RioxpKrRhsdUZwt) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 2](https://open.spotify.com/album/5CEj9bjGd1fAp2DRUcljmm) | 2:56 | 2022-05-20 |  |
 | [Zo Zijn](https://open.spotify.com/track/1q30hUyUUZyjytlKTJz4cI) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Zo Zijn](https://open.spotify.com/album/2AaXaMEDHo0ZJbvsoTmynp) | 3:12 | 2022-02-14 |  |
 | [Zonder Gezicht](https://open.spotify.com/track/0KAqcZyd6eiKjyneZRmePT) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Uitzinnig](https://open.spotify.com/album/1uAimajt3zW6EGLIE83jnc) | 2:44 | 2022-03-17 |  |
 

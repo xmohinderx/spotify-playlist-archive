@@ -8987,8 +8987,8 @@
       },
       "artists": [
         {
-          "name": "Chris Cerrone",
-          "url": "https://open.spotify.com/artist/0PbxWS5CB4sOVgbQyAK143"
+          "name": "Christopher Cerrone",
+          "url": "https://open.spotify.com/artist/65KzV13nlyMF2b288BK5qp"
         },
         {
           "name": "Johannes Moser",
@@ -23352,6 +23352,32 @@
     },
     {
       "album": {
+        "name": "Shostakovich: Symphony No. 10, Op. 93",
+        "url": "https://open.spotify.com/album/3vuMWqEESG5Tq0KCu12DHo"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Orchestre National Du Capitole De Toulouse",
+          "url": "https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa"
+        },
+        {
+          "name": "Tugan Sokhiev",
+          "url": "https://open.spotify.com/artist/3enXY52UlrP6E6DbqE1jVN"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 821160,
+      "name": "Shostakovich: Symphony No. 10 in E Minor, Op. 93: IV. Andante - Allegro",
+      "url": "https://open.spotify.com/track/6twsr25BTgoedmKbNMlBk1"
+    },
+    {
+      "album": {
         "name": "Weill: Symphony No. 2 - Shostakovich: Symphony No. 5",
         "url": "https://open.spotify.com/album/7kHiW8KJPuLVu7h1A6EqdT"
       },
@@ -27933,6 +27959,32 @@
       "duration_ms": 283813,
       "name": "Tango pour Claude",
       "url": "https://open.spotify.com/track/0frtg6YyZrNsmnx59EUybL"
+    },
+    {
+      "album": {
+        "name": "Tanguy: In a Dream",
+        "url": "https://open.spotify.com/album/2J4zE4ICRXeJBPvFmcES7y"
+      },
+      "artists": [
+        {
+          "name": "\u00c9ric Tanguy",
+          "url": "https://open.spotify.com/artist/5pKyFU3k7PoBq9qoC3bXj0"
+        },
+        {
+          "name": "Alexandra Conunova",
+          "url": "https://open.spotify.com/artist/7eUGEp3W5x3FefeLTNNIPA"
+        },
+        {
+          "name": "Suzana Bartal",
+          "url": "https://open.spotify.com/artist/1lQY7LJyVxG04Ee04i5TSz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518266,
+      "name": "Tanguy: In a Dream, pour violon et piano",
+      "url": "https://open.spotify.com/track/4qusKqfQ7o5E0EsK6ZIuHC"
     },
     {
       "album": {

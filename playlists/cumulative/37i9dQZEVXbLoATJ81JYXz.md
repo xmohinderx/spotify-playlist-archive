@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-808 songs - 1 day 18 hr 57 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+809 songs - 1 day 18 hr 58 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 | 2021-06-27 | 2021-06-28 |
 | [Dark Side](https://open.spotify.com/track/6A8B1kJ9ZNHbl2uFPN6Wtm) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Lzb7EjZXgtelxgBsZUhMS) | 2:57 | 2021-05-25 | 2021-06-04 |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
-| [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-05-16 |  |
+| [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-05-16 | 2022-05-21 |
 | [Decembernatt \(Halleluja\)](https://open.spotify.com/track/3b6mt8vlFS89uRx7kgKhkb) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [Jag kommer hem igen till jul](https://open.spotify.com/album/7CKtVeB9uIO6clD9N7qCLl) | 6:06 | 2021-11-30 | 2021-12-27 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-26 | 2021-06-06 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-17 | 2021-04-18 |
@@ -642,6 +642,7 @@
 | [SloMo \- Eurovision's Dancebreak Edit](https://open.spotify.com/track/00rUx6vPpy0XbJer8BcoRn) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo \(Eurovision's Dancebreak Edit\)](https://open.spotify.com/album/3nrVP8ljurMTI2cEv6ItJA) | 3:00 | 2022-05-17 | 2022-05-19 |
 | [Small World](https://open.spotify.com/track/6vKxmzfZEpdHbCpMRqkslH) | [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy) | [PRICELESS](https://open.spotify.com/album/6PxUXGR120hMiXAozmB29G) | 2:38 | 2021-03-27\* | 2021-03-29 |
 | [Smile](https://open.spotify.com/track/3OUlwrGsM6xGuA66YVpeGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Smile](https://open.spotify.com/album/24quzyKLUAsPgZXsZXQdky) | 3:12 | 2021-05-23 | 2021-08-31 |
+| [Smutsig \(Intro\)](https://open.spotify.com/track/66YubpJVP1wiFEUl6chov7) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Smutsig \(Intro\)](https://open.spotify.com/album/577TxC58X6VxiX6aHmtd1U) | 1:44 | 2022-05-20 |  |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-05-16 | 2022-05-18 |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-13 | 2021-12-29 |
 | [Snälla bli min \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/1ZJdjsCEdolnRN83W9dWiX) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Snälla bli min \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/4lb6TvMkq5XG77Vdydcy4a) | 2:38 | 2021-05-16 | 2021-07-25 |

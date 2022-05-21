@@ -4,7 +4,7 @@
 
 > A soft musical backdrop for your studies.
 
-516 songs - 22 hr 20 min - [published](https://open.spotify.com/playlist/4z9zMoxN01IrpIcoI15ekY)
+522 songs - 22 hr 36 min - [published](https://open.spotify.com/playlist/4z9zMoxN01IrpIcoI15ekY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Recurring Theme](https://open.spotify.com/track/51K71t2Sk90AVbjVsBcorb) | [Cyril Mathews](https://open.spotify.com/artist/4PNqVcgrU4LxwS3GwrC4ax) | [A Recurring Theme](https://open.spotify.com/album/50lTjBe11glVo3YvOemGsH) | 2:40 | 2021-12-07 |  |
 | [A Smile](https://open.spotify.com/track/6GuSaslGEKLW4vaJ1VINEH) | [Myles Mackay](https://open.spotify.com/artist/3eQGI9kcs53CVhYJMzOZJE) | [A Smile](https://open.spotify.com/album/3x5FNp8Kfk5bPuFotBdL5b) | 2:13 | 2021-12-07 | 2022-05-06 |
 | [A Song for Clara](https://open.spotify.com/track/3QyXiYnPcszAptSYP2ZICS) | [Shoshana Michel](https://open.spotify.com/artist/65YH4PPgJlL7o1gqVGncZ1) | [A Song for Clara](https://open.spotify.com/album/4NJ9DFtxsmOCQgdJKWDa71) | 2:50 | 2022-04-08 |  |
+| [A Step Too Far](https://open.spotify.com/track/3y8fPWZI9Ds74cPq0GfhgT) | [Martin Bloch](https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z) | [A Step Too Far](https://open.spotify.com/album/1UN5FNrHGel88bBsWwrOxB) | 2:17 | 2022-05-20 |  |
 | [A Tough Hand](https://open.spotify.com/track/4UYSLzyr0ONAmb9MapOruJ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [A Tough Hand](https://open.spotify.com/album/24rSOZgo1sJvLCmoRXelVe) | 2:27 | 2021-12-07 |  |
 | [A Winged Time](https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Out Of The Blue](https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc) | 2:00 | 2021-12-07 |  |
 | [Abbellimenti](https://open.spotify.com/track/6CJRpyYTWrVqVGFbu9rc8r) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Abbellimenti](https://open.spotify.com/album/3vzFG9NkHWpizfwNBIqMx8) | 2:32 | 2021-12-07 |  |
@@ -176,9 +177,11 @@
 | [Hands and Feet](https://open.spotify.com/track/3SwnQKMO2D0jOUKxaqIHLw) | [Samuel Félix](https://open.spotify.com/artist/4QCrQhj1liuos6rjK3hUBr) | [Hands and Feet](https://open.spotify.com/album/3VLtmQVO6V5bkx17xTKkvO) | 1:54 | 2022-03-16 |  |
 | [Hansa](https://open.spotify.com/track/71WIo1goJLTt41X5CuxxOd) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Hansa](https://open.spotify.com/album/1jyTlVuLLPVtmCYGXfBsj7) | 2:43 | 2021-12-07 |  |
 | [Hard to say goodbye](https://open.spotify.com/track/0ZU1CweQ9ineKlc9fOrakS) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Hard to say goodbye](https://open.spotify.com/album/75pHmigwsMSjUX1etl9gHh) | 2:14 | 2022-04-20 |  |
+| [Haymarket](https://open.spotify.com/track/2o2I7unuwwVPjhB3ivHrTi) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Roots](https://open.spotify.com/album/5pJdfWzU0VX6DcnTGgxduG) | 2:36 | 2022-05-20 |  |
 | [Haze](https://open.spotify.com/track/0eKrfTBCTXCvKMvwffIiFP) | [Benito Hidaka](https://open.spotify.com/artist/4UyhrqbotqTVu12QkpsQWg) | [Haze](https://open.spotify.com/album/3TmuG0POkrpP8Ulcu3n977) | 2:33 | 2021-12-07 |  |
 | [Heart of the River of the Sun](https://open.spotify.com/track/2YIC6Cp33wgMVEYruivCuH) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Heart of the River of the Sun](https://open.spotify.com/album/1wrDM0xtWqoTWtJ1mYuDny) | 2:31 | 2021-12-07 |  |
 | [Heartfelt](https://open.spotify.com/track/7hoho5MSIQZfluHupiNuq1) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Heartfelt](https://open.spotify.com/album/4n944iZef2VPY0Ahfnc8J9) | 2:16 | 2021-12-07 |  |
+| [hearts and clover](https://open.spotify.com/track/3fBzuGNrnXZc5yT4kB39Sq) | [Holly Jones](https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC) | [hearts and clover](https://open.spotify.com/album/2fO5w0DgMkBnRTiFlXr7ZS) | 2:48 | 2022-05-20 |  |
 | [Helgoland](https://open.spotify.com/track/3CHSUEhxoy2s7NKVhH89wu) | [Filip Klein](https://open.spotify.com/artist/5TEPJRzplaEk3hEaFSM11w) | [Helgoland](https://open.spotify.com/album/7kdR3MtQBnZNb6ECrR1i6g) | 2:26 | 2021-12-07 |  |
 | [Hidcote Garden](https://open.spotify.com/track/0thmCXqsXhImtEUtGwy14R) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Moments](https://open.spotify.com/album/2fYza5rMfZ9tAG7NOcfNJq) | 2:42 | 2021-12-07 |  |
 | [Hilma](https://open.spotify.com/track/7vcKDlb5hV7vWJUhIVcX5W) | [Dirk van Arnhem](https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM) | [Hilma](https://open.spotify.com/album/1ZfQb0993HOLiF53xHOURB) | 2:38 | 2021-12-07 |  |
@@ -375,6 +378,7 @@
 | [s'effondrer](https://open.spotify.com/track/3e8h3zJiIpod0eksz4QXZ4) | [Liliane Lucy](https://open.spotify.com/artist/1ICOz8tPrLAs5l5hYq12om) | [s'effondrer](https://open.spotify.com/album/5Rvot5vaWn3LqtT2eHyfPY) | 3:03 | 2021-12-07 |  |
 | [Salon musique](https://open.spotify.com/track/1UpWPe0O0aNGWmouew7puk) | [Maxence Cyrin](https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS) | [Melancholy Island \- Salon musique](https://open.spotify.com/album/5SnkIhfrSNMz9GSjs7xoGq) | 2:00 | 2022-02-01 |  |
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2022-01-17 |  |
+| [Santos \- Lisbon](https://open.spotify.com/track/0G8O0bm8jxkIoz3WPzTElm) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Santos \- Lisbon](https://open.spotify.com/album/3mG8uvXqD0UMJz5wxeLX9P) | 2:41 | 2022-05-20 |  |
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2021-12-07 |  |
 | [Saugerties](https://open.spotify.com/track/03enULNAQA0xa2rEJESrPf) | [Leroy Rossetti](https://open.spotify.com/artist/2Mg0NVHUCDibNRrdZmlagN) | [Saugerties](https://open.spotify.com/album/6PgqV1jHVZyboBAzgGaSoM) | 2:02 | 2021-12-07 |  |
 | [Saving Daylight \(Revisited\)](https://open.spotify.com/track/0A3qYD4HtfUkL4mMytek2m) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Saving Daylight \(Revisited\)](https://open.spotify.com/album/6iPFhGhZDGywqm8J8jqiXr) | 2:58 | 2021-12-07 |  |
@@ -461,6 +465,7 @@
 | [Tree Whisper](https://open.spotify.com/track/5a8V9tjazhBAIbUiFqpu8N) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [Tree Whisper](https://open.spotify.com/album/6md3ncmAS84fTV1931NnTz) | 3:25 | 2021-12-07 |  |
 | [Trei](https://open.spotify.com/track/5bHQg9Zu5BjBcwwtKWL8JK) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Trei](https://open.spotify.com/album/4lm7RojcsLs6xVCVmKuH5k) | 2:31 | 2021-12-07 |  |
 | [Tristesse](https://open.spotify.com/track/4OfvGX9v55SOo2HvLcaqJF) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Bodi's Modus](https://open.spotify.com/album/2WbdFjoGJQPUuVW5yLzWjx) | 3:12 | 2021-12-07 |  |
+| [true love](https://open.spotify.com/track/2miVNPUhCCc5VFAOQkqWay) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [true love](https://open.spotify.com/album/4rCi6bXfa3WWXtDKSLA1Oq) | 3:16 | 2022-05-20 |  |
 | [Turn](https://open.spotify.com/track/26UD6EFThaMnBcmHxb8MOG) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Turn](https://open.spotify.com/album/5dzEdj4p2MdqoojNvOFEUS) | 2:59 | 2022-02-14 |  |
 | [Tuscan Nights](https://open.spotify.com/track/6fFGV4AKC65SksEn9eJy6R) | [Mads Alter](https://open.spotify.com/artist/5EkUhnSLb0Wt2DklMJbIuf) | [Tuscan Nights](https://open.spotify.com/album/0NM3BPkYwqktJ5Lk8VCLMe) | 3:02 | 2022-03-30 |  |
 | [Twin Fifteens](https://open.spotify.com/track/0KLG1xUVWBQHX6JVPW7IoA) | [Maren Andrews](https://open.spotify.com/artist/6H0jAP8RgKHaD3Bm0JfyTQ) | [Shadow Swing](https://open.spotify.com/album/6Ajh4HlbjFL9t1xpQZ8B5K) | 2:47 | 2021-12-07 | 2022-05-06 |
@@ -511,6 +516,7 @@
 | [Without A Care](https://open.spotify.com/track/0KDSZ4vJdSoZDDqPxbFEuh) | [Martin Fox](https://open.spotify.com/artist/6V7ZjMzGpdbdYCux5JdAyL) | [Without A Care](https://open.spotify.com/album/0ZGt6oyCLeO0sD3fR1ysKD) | 2:44 | 2021-12-07 |  |
 | [World Of Water](https://open.spotify.com/track/2mbXxQ59CEZxtopCgdKAP3) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [World Of Water](https://open.spotify.com/album/6blYSgMd4ER4YMPblBER6a) | 2:06 | 2021-12-07 |  |
 | [Yekaterinburg](https://open.spotify.com/track/5NjQakjUez8p0AVLo06jhr) | [Hoverchild](https://open.spotify.com/artist/4fCWcDzEkEqgDNUq1OiOwc) | [Yekaterinburg](https://open.spotify.com/album/5n5u8rBXPw4ZyNi3G5nVyf) | 2:46 | 2021-12-07 | 2022-03-02 |
+| [Yellow Man](https://open.spotify.com/track/49m1O8EMWPKhqw8lIvmU81) | [Ramin Kuliev](https://open.spotify.com/artist/31YH5gJZ2AxYRBhQRIUzaT) | [Yellow Man](https://open.spotify.com/album/6w2UFWXpoVwjLby9A3y3yT) | 3:06 | 2022-05-20 |  |
 | [Yellow Reflection](https://open.spotify.com/track/2dVytC369RLembx9DjdMYP) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [Yellow Reflection](https://open.spotify.com/album/4XKDSzmkcXmeztDgM9zxL7) | 2:05 | 2021-12-07 |  |
 | [Yesterday's Waltz](https://open.spotify.com/track/0iJhqtZ9CkBb1bdw2BKQ0Q) | [Francesco Berta](https://open.spotify.com/artist/1eUWwGtcTxRqDznmUGmQqZ) | [Yesterday's Waltz](https://open.spotify.com/album/3fiQkkJkBzgWWUGJDuJxw0) | 3:01 | 2021-12-07 |  |
 | [Yesterdays Answer](https://open.spotify.com/track/4RcazdOk2fclED0uZ1S2K9) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Yesterdays Answer](https://open.spotify.com/album/7FSU0f8jsIuxR2RzK1XndN) | 2:39 | 2021-12-07 |  |

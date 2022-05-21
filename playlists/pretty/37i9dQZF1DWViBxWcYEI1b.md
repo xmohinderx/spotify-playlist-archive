@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Forest Blakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,493 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,568 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 11 | [Brighter Days](https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days / Tin Roof](https://open.spotify.com/album/5yuElBwZWNM9LfC3X8CbdX) | 3:28 |
 | 12 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 |
 | 13 | [Dancing Without Music](https://open.spotify.com/track/35JqhVvhuyBoPLLUY8Klqd) | [BRDGS](https://open.spotify.com/artist/3yHcgChNW7jVTvgBfgrTeT) | [Ie+](https://open.spotify.com/album/0Q0dRDcgxKmNqtwdva153b) | 4:08 |
-| 14 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Emotionally Unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 |
+| 14 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 |
 | 15 | [911](https://open.spotify.com/track/2JdhkE7xcEhfk7B646bdG8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [911](https://open.spotify.com/album/0GxclqIrIal5mWf9vrxnv4) | 2:46 |
 | 16 | [Confessions](https://open.spotify.com/track/1vW6daDWuHrfyNw5K5t5EJ) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [Confessions](https://open.spotify.com/album/2DSSvfhn5JzCZuGh873uoA) | 2:59 |
 | 17 | [Dream Girl Evil](https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:47 |

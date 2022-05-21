@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 231040,
       "name": "2nite",
       "url": "https://open.spotify.com/track/43NBwip0w9tLrkqDErD4jy"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 199408,
       "name": "Changing Lanes",
       "url": "https://open.spotify.com/track/75aqwHrxFwyhBDEKkLSq3S"
@@ -1335,6 +1335,28 @@
       "duration_ms": 242481,
       "name": "I Like You",
       "url": "https://open.spotify.com/track/2Tjx2DINx4qil9xunhu5cO"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/4XSKCBsJw2D2fd3v6Agoc8"
+      },
+      "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
+        {
+          "name": "Romain Collin",
+          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255448,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0F5TXI0TbKGRyAI5D0RYJF"
     },
     {
       "album": {
@@ -2199,7 +2221,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 243170,
       "name": "Not for Me",
       "url": "https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB"

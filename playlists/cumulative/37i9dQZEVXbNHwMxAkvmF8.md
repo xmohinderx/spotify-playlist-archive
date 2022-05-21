@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-418 songs - 22 hr 24 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
+419 songs - 22 hr 26 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-05 |  |
 | [Add Nekem](https://open.spotify.com/track/4Y4C89YbMhZqpOfu4wcmOp) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Rossz Ember](https://open.spotify.com/album/0Hvlnpy8DMbkC0gPkkmJsh) | 2:52 | 2022-03-01 | 2022-03-03 |
 | [Adieu](https://open.spotify.com/track/2BUX7RHIJfxfK6LxfZBHtU) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Adieu](https://open.spotify.com/album/7LOO7LJKYJ2TD1nJyx1WZp) | 3:39 | 2022-05-06 | 2022-05-15 |
+| [Aha\-Aha](https://open.spotify.com/track/2YmkWevzHTiEyvgjdTKB3r) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [Aha\-Aha](https://open.spotify.com/album/70x4V15158Bk5OE6iTtS6U) | 2:12 | 2022-05-20 |  |
 | [aight](https://open.spotify.com/track/6aBPkT8tZnZZ6ILg67OuAh) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [aight](https://open.spotify.com/album/1C7pFblVVUtJ3fXFrpmscx) | 2:06 | 2021-04-18 | 2021-07-01 |
 | [aight](https://open.spotify.com/track/37kI8bPlN5iN37kSFTyKCY) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [camouflage](https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa) | 2:07 | 2021-07-01 | 2021-11-10 |
 | [Ajándék](https://open.spotify.com/track/0a0zPUrwviAua4IhhaYUsP) | [Bereczki Zoltán](https://open.spotify.com/artist/2KjgTkzmS3SEzxiMsNpZiU), [Dóra Szinetár](https://open.spotify.com/artist/1eKpiP1plO0BqtwPCzzv0E) | [Duett Karácsony](https://open.spotify.com/album/6gwEBQlpdksPo5q8JzCnJg) | 4:28 | 2021-12-24 | 2021-12-27 |
@@ -52,7 +53,7 @@
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-03-15 |  |
 | [Bongo Cha Cha Cha](https://open.spotify.com/track/7J4zszAZxAyowZp7gNUIUI) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Bongo Cha Cha Cha](https://open.spotify.com/album/0goSLvh4vqvDLQHmee3Bk1) | 1:53 | 2021-08-09 | 2021-09-21 |
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-10-05 | 2021-10-17 |
-| [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-12 |  |
+| [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-12 | 2022-05-21 |
 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 | 2021-03-27\* | 2021-07-31 |
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2021-05-24 | 2021-06-03 |
 | [Budapesti Lányok](https://open.spotify.com/track/1OIR4l4aQZnZolLRvHifpN) | [AKC Misi](https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv), [AKC Kretta](https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz) | [Holdvilág Club Hotel & Casino](https://open.spotify.com/album/2jCvGyvuawW2wxDgfiDJUS) | 2:31 | 2022-04-23 | 2022-04-25 |

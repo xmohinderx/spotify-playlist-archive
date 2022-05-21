@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 
 > Open your mind to these classics from the golden era of New Age music\. Vangelis on cover, may he rest in peace.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,109 likes - 58 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,352 likes - 58 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

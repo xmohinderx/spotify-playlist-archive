@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-110 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/2tqwvqLztEVOvwl4EXM922)
+111 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/2tqwvqLztEVOvwl4EXM922)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Shoes to Fill](https://open.spotify.com/track/4DeC7THq7hJw5TV8dQjSCk) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Finally](https://open.spotify.com/album/0HeTHWLmcrCShhRz79CKUe) | 3:05 | 2021-09-17 |  |
 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 | 2021-09-17 |  |
 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 | 2021-09-17 |  |
+| [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 | 2022-05-20 |  |
 | [Steady Heart \- Wedding Version](https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart \(Wedding Version\)](https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp) | 3:30 | 2022-02-18 |  |
 | [Stealing Cinderella](https://open.spotify.com/track/6aOdhGqD0xuFM0OauOedNl) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Starting Now](https://open.spotify.com/album/3WyCVkjnQvHnS29LogStFV) | 4:02 | 2021-09-17 |  |
 | [Take My Name](https://open.spotify.com/track/50fXFVykkwS6Om9eqjTK44) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Songs from 'For You'](https://open.spotify.com/album/01z0MEI8EPxiAl1GvgRovl) | 2:37 | 2021-11-05 |  |

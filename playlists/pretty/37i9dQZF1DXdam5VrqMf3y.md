@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: jxdn
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,077 likes - 71 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,024 likes - 71 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 70 | [Oh My Christmas Tree \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/60SifRrS0a3jOQITjpstp8) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Spotify Singles \- Christmas](https://open.spotify.com/album/5en558OdtGQER6bVirXNnM) | 4:04 |
 | 71 | [Baby It's Cold Outside \- Spotify Singles \- Christmas, Recorded at Metropolis Studios, London](https://open.spotify.com/track/2jB9jrpggKxSvymiWXM2pz) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [B.B\. Bones](https://open.spotify.com/artist/61QhyKKCq2VbbWRgFLlD6B) | [Baby It's Cold Outside \- Spotify Singles \- Christmas, Recorded at Metropolis Studios, London](https://open.spotify.com/album/05mmfK3BaBsbXRUmds8FYU) | 2:43 |
 
-Snapshot ID: `MTY1MzAyNjc1MywwMDAwMDAwMGYxMDE0MjVhYzU4MzhiNGY3MjJjYTg3MTg5ODVmMmFi`
+Snapshot ID: `MTY1MzA5NTUwNywwMDAwMDAwMGYxMDE0MjVhYzU4MzhiNGY3MjJjYTg3MTg5ODVmMmFi`

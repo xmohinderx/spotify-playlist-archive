@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128377,
+  "num_followers": 128373,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQxNSw1ZTA0MTA1MWE5NThhZWQyNjViNjFkODRlNjY3NDlmOWMzNmNkMmE0",
+  "snapshot_id": "MzQxOSxlYTVkZjhmMmYxNTI0NzljYjBhMDhhNWQyYmM1MjUzODJkNmFiNDFk",
   "tracks": [
+    {
+      "added_at": "2022-05-20 16:38:13",
+      "album": {
+        "name": "back2u",
+        "url": "https://open.spotify.com/album/5DnveAme2jwC8QO0NDqtug"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "duration_ms": 174310,
+      "name": "back2u",
+      "url": "https://open.spotify.com/track/1lLOFlb0pokpPxstN2v7P8"
+    },
+    {
+      "added_at": "2022-05-20 16:37:44",
+      "album": {
+        "name": "Sparkles",
+        "url": "https://open.spotify.com/album/2ghE7Le8NAqLntY7oVq1so"
+      },
+      "artists": [
+        {
+          "name": "Terry Da Libra",
+          "url": "https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Sparkles",
+      "url": "https://open.spotify.com/track/7jfKrTeq6JMzWd7hwvwCY9"
+    },
     {
       "added_at": "2022-05-19 16:16:48",
       "album": {
@@ -1051,38 +1083,6 @@
       "duration_ms": 228000,
       "name": "This Is The Life We Dreamed Of",
       "url": "https://open.spotify.com/track/3pUcJ0iqUjdBp5Tecep22N"
-    },
-    {
-      "added_at": "2022-03-10 17:14:50",
-      "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 148297,
-      "name": "CRY",
-      "url": "https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu"
-    },
-    {
-      "added_at": "2022-03-09 17:22:18",
-      "album": {
-        "name": "do it",
-        "url": "https://open.spotify.com/album/7IRCq5EPsHeuG3kSIu67X9"
-      },
-      "artists": [
-        {
-          "name": "Enjac",
-          "url": "https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "do it",
-      "url": "https://open.spotify.com/track/3CQBzi1hvykznrFbZOGqnO"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

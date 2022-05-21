@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z?si=jItz2h\-iSlemR\-OsB9l9\_Q" > Chris Brown </a>, <a href="https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=JC7f3NJITKOPcB7In\_xIWg" > Lojay </a> and  <a href="https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ?si=ZjvApdSBSkCgtGv\_yt4YiA" > Sarz </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,572 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,608 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp?si=4jQ2e8muSy-1lcntVwVGSA\">Kid Fonque</a>",
-  "num_followers": 49660,
+  "num_followers": 49683,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjk5NzU0MCwwMDAwMDM0MDAwMDAwMTgwZGU1NGNhNTEwMDAwMDE4MDk2MDczMzQw",
+  "snapshot_id": "MTY1MzAzOTQ0MywwMDAwMDM0MTAwMDAwMTgwZTBkNDJlNjUwMDAwMDE4MDk2MDczMzQw",
   "tracks": [
     {
       "added_at": "2022-03-31 21:59:00",
@@ -1509,26 +1509,6 @@
       "url": "https://open.spotify.com/track/3nt93Flj7FBSaEKJWbWJ18"
     },
     {
-      "added_at": "2022-05-05 21:59:00",
-      "album": {
-        "name": "Ikigai (Radio Edit)",
-        "url": "https://open.spotify.com/album/1Tg917lfjEH1VE9Id0RAGt"
-      },
-      "artists": [
-        {
-          "name": "A\u00fcra",
-          "url": "https://open.spotify.com/artist/5muEGUq4zkPhuAmHdjLiwZ"
-        },
-        {
-          "name": "Sediis",
-          "url": "https://open.spotify.com/artist/19t8pcz4HC33dy1MbAkZc9"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Ikigai - Radio Edit",
-      "url": "https://open.spotify.com/track/3QIGv8VZqZ18JbtihrmaDI"
-    },
-    {
       "added_at": "2022-05-12 21:59:00",
       "album": {
         "name": "I Told You Not To Go",
@@ -1547,6 +1527,30 @@
       "duration_ms": 244420,
       "name": "I Told You Not To Go",
       "url": "https://open.spotify.com/track/6N3bqyU6KO3hqykGqJxUnf"
+    },
+    {
+      "added_at": "2022-05-20 09:37:23",
+      "album": {
+        "name": "I Love It (Chris Sen Remixes)",
+        "url": "https://open.spotify.com/album/4SMc7nQXD1FHPZ9HkS3x9v"
+      },
+      "artists": [
+        {
+          "name": "MAEZTRO",
+          "url": "https://open.spotify.com/artist/4SXPlxI5H5fY9JaVAjFqc1"
+        },
+        {
+          "name": "Caroline Grace",
+          "url": "https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM"
+        },
+        {
+          "name": "Chris Sen",
+          "url": "https://open.spotify.com/artist/4sPYZ7NtC0pva3cK6lvOMy"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "I Love It - Chris Sen Club Edit",
+      "url": "https://open.spotify.com/track/3tpvOczq7ynQelHTnXpuIs"
     },
     {
       "added_at": "2021-11-25 21:59:00",

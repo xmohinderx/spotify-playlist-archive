@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Sael, Dylan Fuentes",
+  "description": "Fresh Latin pop on the rise. Cover: Juliana",
   "name": "Latin Pop Rising",
   "published_playlist_ids": [
     "7Ccvzuluaa4ypGALpBeYBn"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 198433,
       "name": "10 L\u00e1grimas",
       "url": "https://open.spotify.com/track/1Q4kIUJC6FMudx4jHoqMvi"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 203786,
       "name": "20 Minutos",
       "url": "https://open.spotify.com/track/64tJTziuLk4Q3NJKT4j0xK"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 171179,
       "name": "Antes de Ti",
       "url": "https://open.spotify.com/track/6wTtoD7TPVQ7QvibaTGGTA"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 183547,
       "name": "ARRANCARMELO",
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 172384,
       "name": "Braille",
       "url": "https://open.spotify.com/track/1BnyQf6WeVs32MZF5ah9u0"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 155400,
       "name": "Energia",
       "url": "https://open.spotify.com/track/3oot6YbOkial5BIJAvEra8"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 183980,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/7BW5CXmE4DF91TmMbK4LXg"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 197706,
       "name": "Guay",
       "url": "https://open.spotify.com/track/3voNGqzixtoyzTBQd3tKXl"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 197272,
       "name": "Himalaya",
       "url": "https://open.spotify.com/track/74KFolNpy0UwidpiCu8oT4"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 158261,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/0IexmD3A6JSdhVTFGbu1NZ"
@@ -1126,6 +1126,32 @@
     },
     {
       "album": {
+        "name": "Moka",
+        "url": "https://open.spotify.com/album/1ePn83tNOKrljAeDRekgTE"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Nath",
+          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
+        },
+        {
+          "name": "La Gabi",
+          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187702,
+      "name": "Moka",
+      "url": "https://open.spotify.com/track/0YWNYdhTHfWkXw4fiWRbJH"
+    },
+    {
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/4XgcQp5grjwlXpcUrhMw5P"
       },
@@ -1155,7 +1181,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 155843,
       "name": "Moschino",
       "url": "https://open.spotify.com/track/2TOXwgZo66czJlgbY8cnAG"
@@ -1597,7 +1623,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 193800,
       "name": "Refugio",
       "url": "https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA"
@@ -1677,7 +1703,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 192672,
       "name": "Se Acab\u00f3",
       "url": "https://open.spotify.com/track/4NzHAfuFyQ0DrHKQMP0kgl"
@@ -1717,7 +1743,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 156477,
       "name": "Sensualidad",
       "url": "https://open.spotify.com/track/69AsrqBlInVuFIpSnxmnn4"
@@ -1739,7 +1765,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 183997,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY"
@@ -1920,6 +1946,24 @@
     },
     {
       "album": {
+        "name": "DOS DOS DOS",
+        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190580,
+      "name": "Toda la Vida",
+      "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
+    },
+    {
+      "album": {
         "name": "TODO HA CAMBIAO'",
         "url": "https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy"
       },
@@ -1935,7 +1979,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 229369,
       "name": "TODO HA CAMBIAO'",
       "url": "https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR"
@@ -2051,7 +2095,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 171113,
       "name": "TuTuRu",
       "url": "https://open.spotify.com/track/1EogpG7fkDaEPRxSdAfyWe"

@@ -1,12 +1,12 @@
 {
   "description": "RADAR pick Zach Bryan tops our list of artists to watch right now. ",
-  "num_followers": 346797,
+  "num_followers": 346785,
   "original_name": "RADAR US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAyNjExMSwwMDAwMDAwMDUxMWIwMTY1NDQwNmJiMWE1MTI4ZmYwOWZhYzRhNDRm",
+  "snapshot_id": "MTY1MzA5NDc3MywwMDAwMDAwMDdhZWFlM2Y2N2VlNGJiMWM5YWQ4ODI3ZGIyYTJmY2Qw",
   "tracks": [
     {
       "added_at": "2022-05-17 12:17:19",
@@ -23,6 +23,22 @@
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "added_at": "2022-05-20 09:00:00",
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "duration_ms": 183424,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc"
     },
     {
       "added_at": "2022-05-17 12:17:19",
@@ -87,6 +103,22 @@
       "duration_ms": 198625,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
+    },
+    {
+      "added_at": "2022-05-20 09:00:00",
+      "album": {
+        "name": "BILLIE EILISH.",
+        "url": "https://open.spotify.com/album/33ISZtPbyr5sga8Ua1ri7M"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 99282,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/5xSBtosiVoy96vv4rcngLX"
     },
     {
       "added_at": "2022-05-17 12:17:19",

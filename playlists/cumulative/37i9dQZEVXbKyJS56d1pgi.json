@@ -386,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Acorda, Pedrinho",
+        "url": "https://open.spotify.com/album/7i67Zql4x6mQ3tdgl12ZZj"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173085,
+      "name": "ACORDA PEDRINHO",
+      "url": "https://open.spotify.com/track/6hFwju6M40CKovKBPu5IpY"
+    },
+    {
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 204281,
       "name": "Borboletas",
       "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
@@ -2346,6 +2364,32 @@
     },
     {
       "album": {
+        "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
+        "url": "https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv"
+      },
+      "artists": [
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
+      "url": "https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -2419,7 +2463,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 222497,
       "name": "Father Time (feat. Sampha)",
       "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
@@ -8845,7 +8889,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 255377,
       "name": "United In Grief",
       "url": "https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx"
@@ -9065,7 +9109,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 154973,
       "name": "Vontade De Morder",
       "url": "https://open.spotify.com/track/4lsDFVKOVwPeAVw1hPOn7G"

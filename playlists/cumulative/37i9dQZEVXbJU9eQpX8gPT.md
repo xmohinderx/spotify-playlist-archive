@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-648 songs - 1 day 11 hr 46 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+650 songs - 1 day 11 hr 53 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,7 +504,8 @@
 | [Retour](https://open.spotify.com/track/51CCEYAhZ4ZAiQm72DEBAt) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 3:38 | 2021-06-23 | 2021-06-27 |
 | [Rich \- Interlude](https://open.spotify.com/track/2Az5ykbQiZtFWtACCMvWlP) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 1:43 | 2022-05-14 | 2022-05-16 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-17 |
-| [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 | 2022-03-31 |  |
+| [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 | 2022-03-31 | 2022-05-21 |
+| [RIP, Love](https://open.spotify.com/track/4pDenOoD01LCPgkzJgu437) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [CITIZENS](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) | 2:53 | 2022-05-20 |  |
 | [Routini \(feat\. Lferda\)](https://open.spotify.com/track/3CFv7rsTbKuJ2j3pDbebYe) | [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Jenna](https://open.spotify.com/album/6LG7p8zCkqWALWyhpTvCMw) | 2:54 | 2021-07-18 | 2021-07-21 |
 | [RS3](https://open.spotify.com/track/2fe4vq7z5vXpZoFBPtlDaU) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [RS3](https://open.spotify.com/album/2OsLIuY9JqqkpI0f9KTflW) | 3:52 | 2021-09-27 | 2022-05-05 |
 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 | 2021-04-16 | 2021-05-05 |
@@ -581,6 +582,7 @@
 | [Tikitaka](https://open.spotify.com/track/6GRwvxuFVdpbngDYcqprZs) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:38 | 2021-10-03 | 2021-10-31 |
 | [Time To Move](https://open.spotify.com/track/3FInU5pybNWxW1JECVoaBW) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Carmen](https://open.spotify.com/artist/6YeSd89uAp6HfQaZH2rhKZ) | [Time To Move](https://open.spotify.com/album/1lHpEkSLPxogNXrr2XXTAp) | 2:55 | 2022-04-01 | 2022-04-04 |
 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2022-04-17 |  |
+| [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-05-20 |  |
 | [Torres](https://open.spotify.com/track/5nRm47HYBMSt85ZvyA7D6Y) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 3:27 | 2021-06-24 | 2021-06-26 |
 | [Traitement](https://open.spotify.com/track/1AEEWYcJzrTHksdQmixnHL) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 3:00 | 2021-09-15 | 2021-09-20 |
 | [Trap Roumi V2](https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Trap Roumi V2](https://open.spotify.com/album/0ULtzgEHEWKn2HBqivfRly) | 3:25 | 2021-04-21 | 2022-05-06 |
@@ -595,7 +597,7 @@
 | [TTT](https://open.spotify.com/track/5MJeXPp7TRk6FV8eLNofrA) | [Coyote Jo Bastard](https://open.spotify.com/artist/3nDLTOGw0WwwddP3tq5561), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [TTT](https://open.spotify.com/album/3r0oic7aHB18g1SifqxbaJ) | 3:02 | 2022-04-09 | 2022-04-29 |
 | [UGH!](https://open.spotify.com/track/2QZe2H1f03t5PJWEMg2Mbe) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:45 | 2022-02-25 | 2022-02-27 |
 | [UN RÊVE ÉTRANGE](https://open.spotify.com/track/0L1JUpc6bjrBvK9pqMTGcb) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 1:56 | 2021-07-18 | 2021-07-19 |
-| [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 |  |
+| [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-21 |
 | [Uno](https://open.spotify.com/track/5uGCH8QGnH3n2i7KD7ROPb) | [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Ether](https://open.spotify.com/album/0CXnqKIYcABtBBortguwXI) | 2:24 | 2021-03-29 | 2021-04-02 |
 | [Unstoppable](https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:37 | 2022-05-13 |  |
 | [Utopia](https://open.spotify.com/track/5ewTd1u8Z7jzF0bMJ5rd9O) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 2:53 | 2021-04-18 | 2021-04-19 |

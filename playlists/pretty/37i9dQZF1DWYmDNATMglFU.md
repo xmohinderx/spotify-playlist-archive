@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > \\m/ ft\. waterparks
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,821 likes - 69 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,833 likes - 69 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

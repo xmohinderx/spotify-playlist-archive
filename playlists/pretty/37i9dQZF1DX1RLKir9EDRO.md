@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Beliz Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,426 likes - 91 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,423 likes - 91 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,45 @@
 {
-  "description": "Join <a href=\"https://open.spotify.com/show/6ohzfnHlDGhODyfgpegfmB?si=deeaa9df2d834a9d\">Lorem Life Live</a> w/ guest BEABADOOBEE this Weds @ 5pm EST. Cover: aldn",
-  "num_followers": 917665,
+  "description": "thanks to the music. featuring spill tab, ericdoa, harry styles obv, and more... ",
+  "num_followers": 917634,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjkwMDE4NywwMDAwMDM3ZjAwMDAwMTgwZDg4NzRmMjIwMDAwMDE4MGJhOTA2NjBm",
+  "snapshot_id": "MTY1MzA3Nzc0OSwwMDAwMDM4MjAwMDAwMTgwZTMxY2FlMTkwMDAwMDE4MGUyMjkyMzZj",
   "tracks": [
+    {
+      "added_at": "2022-05-20 19:00:41",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "added_at": "2022-05-20 15:58:41",
+      "album": {
+        "name": "things with wings",
+        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 155648,
+      "name": "phases",
+      "url": "https://open.spotify.com/track/6fLz5VyoHNK3rAfpphQm0P"
+    },
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
@@ -25,6 +57,54 @@
       "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
     },
     {
+      "added_at": "2022-05-20 15:58:41",
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 148173,
+      "name": "Splinter",
+      "url": "https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ"
+    },
+    {
+      "added_at": "2022-05-20 15:58:41",
+      "album": {
+        "name": "Better Off Without",
+        "url": "https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 178860,
+      "name": "Better Off Without",
+      "url": "https://open.spotify.com/track/4gxt8XsAnuWAgRR3bCjoVi"
+    },
+    {
+      "added_at": "2022-05-20 15:58:41",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 202183,
+      "name": "Little Freak",
+      "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
+    },
+    {
       "added_at": "2022-05-17 23:56:28",
       "album": {
         "name": "Preacher\u2019s Daughter",
@@ -39,6 +119,38 @@
       "duration_ms": 344344,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/1xiL7VZGTXUcJRmHqlIY5a"
+    },
+    {
+      "added_at": "2022-05-20 20:15:49",
+      "album": {
+        "name": "No Angel",
+        "url": "https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4"
+      },
+      "artists": [
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
+    },
+    {
+      "added_at": "2022-05-20 15:58:41",
+      "album": {
+        "name": "jelly filled coffin",
+        "url": "https://open.spotify.com/album/7hAkHtaLHG76EBiacrlw0D"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "jelly filled coffin",
+      "url": "https://open.spotify.com/track/3TUGY659W6pCMtELPq1NIX"
     },
     {
       "added_at": "2022-05-12 23:43:11",
@@ -77,24 +189,20 @@
       "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
     },
     {
-      "added_at": "2022-05-11 15:31:31",
+      "added_at": "2022-05-20 15:58:41",
       "album": {
-        "name": "good grief",
-        "url": "https://open.spotify.com/album/5WcXLH8cIFdKcYOU6eIZBj"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        },
-        {
-          "name": "Verzache",
-          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 151111,
-      "name": "bargaining (with Verzache)",
-      "url": "https://open.spotify.com/track/092IjcsjJDIQHzR6Lp17Ga"
+      "duration_ms": 164533,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
     },
     {
       "added_at": "2022-04-21 04:00:00",
@@ -111,6 +219,22 @@
       "duration_ms": 258418,
       "name": "American Teenager",
       "url": "https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH"
+    },
+    {
+      "added_at": "2022-05-20 15:58:41",
+      "album": {
+        "name": "Plz Don't Tell Your Friends I Cried",
+        "url": "https://open.spotify.com/album/1kEpsnhR04wug2Gb2oPGev"
+      },
+      "artists": [
+        {
+          "name": "Luke Wild",
+          "url": "https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8"
+        }
+      ],
+      "duration_ms": 138523,
+      "name": "Plz Don't Tell Your Friends I Cried",
+      "url": "https://open.spotify.com/track/2eQ7HfClAQvcbwCQvS9RbJ"
     },
     {
       "added_at": "2022-05-18 18:56:27",
@@ -131,6 +255,38 @@
       "duration_ms": 224587,
       "name": "Boys In Movies",
       "url": "https://open.spotify.com/track/2RheUO3luHPRjFWOLbrzVt"
+    },
+    {
+      "added_at": "2022-05-20 15:58:41",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 204967,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J"
+    },
+    {
+      "added_at": "2022-05-13 00:07:58",
+      "album": {
+        "name": "Oh Love",
+        "url": "https://open.spotify.com/album/3LnydTYoQ2XGDZCCC6cOcn"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 164666,
+      "name": "Oh Love",
+      "url": "https://open.spotify.com/track/28Obqqr7EtnSNul1TJiQcX"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -165,20 +321,56 @@
       "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
     },
     {
-      "added_at": "2022-05-13 00:07:58",
+      "added_at": "2022-05-11 15:31:31",
       "album": {
-        "name": "Oh Love",
-        "url": "https://open.spotify.com/album/3LnydTYoQ2XGDZCCC6cOcn"
+        "name": "good grief",
+        "url": "https://open.spotify.com/album/5WcXLH8cIFdKcYOU6eIZBj"
       },
       "artists": [
         {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        },
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
         }
       ],
-      "duration_ms": 164666,
-      "name": "Oh Love",
-      "url": "https://open.spotify.com/track/28Obqqr7EtnSNul1TJiQcX"
+      "duration_ms": 151111,
+      "name": "bargaining (with Verzache)",
+      "url": "https://open.spotify.com/track/092IjcsjJDIQHzR6Lp17Ga"
+    },
+    {
+      "added_at": "2022-05-20 15:58:41",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 218577,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
+    },
+    {
+      "added_at": "2022-05-20 15:58:41",
+      "album": {
+        "name": "sometimes",
+        "url": "https://open.spotify.com/album/5TGVnDO9D5D4OnAykbymj8"
+      },
+      "artists": [
+        {
+          "name": "Ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 126810,
+      "name": "remnants",
+      "url": "https://open.spotify.com/track/1yIMBMFSVy637rAHGf0tM7"
     },
     {
       "added_at": "2022-05-12 23:43:11",
@@ -195,6 +387,22 @@
       "duration_ms": 113369,
       "name": "Raindrops Keep Fallin' On My Head",
       "url": "https://open.spotify.com/track/4gcEr9c5CeAoxsxVGiYJen"
+    },
+    {
+      "added_at": "2022-05-20 15:58:41",
+      "album": {
+        "name": "unoriginal",
+        "url": "https://open.spotify.com/album/3ZImuYbhtnBbR1HUKnAG5P"
+      },
+      "artists": [
+        {
+          "name": "splendi",
+          "url": "https://open.spotify.com/artist/0FRZAnnUgEu4GXtHYysFw3"
+        }
+      ],
+      "duration_ms": 203540,
+      "name": "unoriginal",
+      "url": "https://open.spotify.com/track/3XDU9wngxRWmiCbBuHviPA"
     },
     {
       "added_at": "2022-05-12 18:53:12",
@@ -293,22 +501,6 @@
       "url": "https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "My Kink is Karma",
-        "url": "https://open.spotify.com/album/5OFe55bZoyOd4slcigx91N"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 222578,
-      "name": "My Kink is Karma",
-      "url": "https://open.spotify.com/track/5nutMjOPSSB9I9CUGOg8lm"
-    },
-    {
       "added_at": "2022-05-11 15:31:31",
       "album": {
         "name": "Tragic Kingdom",
@@ -323,6 +515,22 @@
       "duration_ms": 209200,
       "name": "Just A Girl",
       "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "My Kink is Karma",
+        "url": "https://open.spotify.com/album/5OFe55bZoyOd4slcigx91N"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 222578,
+      "name": "My Kink is Karma",
+      "url": "https://open.spotify.com/track/5nutMjOPSSB9I9CUGOg8lm"
     },
     {
       "added_at": "2022-04-15 13:01:15",
@@ -375,22 +583,6 @@
       "duration_ms": 159104,
       "name": "Adieu",
       "url": "https://open.spotify.com/track/0KesTnAAzyzFj3jNaZ9X6l"
-    },
-    {
-      "added_at": "2022-05-13 00:07:58",
-      "album": {
-        "name": "You Forgot It In People",
-        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
-      },
-      "artists": [
-        {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
-        }
-      ],
-      "duration_ms": 275693,
-      "name": "Anthems For A Seventeen Year-Old Girl",
-      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
     },
     {
       "added_at": "2022-05-11 15:31:31",
@@ -547,6 +739,22 @@
       "duration_ms": 160017,
       "name": "vampire",
       "url": "https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7"
+    },
+    {
+      "added_at": "2022-05-13 00:07:58",
+      "album": {
+        "name": "You Forgot It In People",
+        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "duration_ms": 275693,
+      "name": "Anthems For A Seventeen Year-Old Girl",
+      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -839,38 +1047,6 @@
       "duration_ms": 252760,
       "name": "That's Where I Am",
       "url": "https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ"
-    },
-    {
-      "added_at": "2022-04-27 12:49:06",
-      "album": {
-        "name": "Gonna Bleach My Eyebrows",
-        "url": "https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        }
-      ],
-      "duration_ms": 134556,
-      "name": "Gonna Bleach My Eyebrows",
-      "url": "https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "coyote (2015-2021)",
-        "url": "https://open.spotify.com/album/5QMTqu4M6I7aiF22lTRKAk"
-      },
-      "artists": [
-        {
-          "name": "Teen Suicide",
-          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
-        }
-      ],
-      "duration_ms": 378953,
-      "name": "coyote (2015-2021)",
-      "url": "https://open.spotify.com/track/6D0qeYwdqBBb2x6t2aondQ"
     },
     {
       "added_at": "2022-04-20 04:00:00",
@@ -1169,22 +1345,6 @@
       "url": "https://open.spotify.com/track/2vAFFYY2Iwhry8o8ZQgW5D"
     },
     {
-      "added_at": "2022-04-08 13:43:08",
-      "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Sexy Villain",
-      "url": "https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J"
-    },
-    {
       "added_at": "2022-04-15 13:01:15",
       "album": {
         "name": "Ivory",
@@ -1459,22 +1619,6 @@
     {
       "added_at": "2021-12-01 14:26:10",
       "album": {
-        "name": "Sunny Boy",
-        "url": "https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv"
-      },
-      "artists": [
-        {
-          "name": "Ritt Momney",
-          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
-        }
-      ],
-      "duration_ms": 190030,
-      "name": "HEADSTART",
-      "url": "https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
         "name": "soap water",
         "url": "https://open.spotify.com/album/0bI3nqxr56BoHJLZ3Li906"
       },
@@ -1585,22 +1729,6 @@
       "url": "https://open.spotify.com/track/78LMazmfqncADjyJVae8dN"
     },
     {
-      "added_at": "2022-03-17 22:41:08",
-      "album": {
-        "name": "commuter",
-        "url": "https://open.spotify.com/album/0iwdCtxUcIRuQp3KZRyuuk"
-      },
-      "artists": [
-        {
-          "name": "Luke Royalty",
-          "url": "https://open.spotify.com/artist/0weBcU4Pkl2GPAWHraOEaR"
-        }
-      ],
-      "duration_ms": 188707,
-      "name": "commuter",
-      "url": "https://open.spotify.com/track/0GXBr7RQEfCsDwva2LS1zl"
-    },
-    {
       "added_at": "2022-01-27 16:06:19",
       "album": {
         "name": "I Love This Song",
@@ -1697,22 +1825,6 @@
       "url": "https://open.spotify.com/track/0tQkQQ94DEbpj7cded0KtA"
     },
     {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Flor Amarelo (Para Voc\u00ea)",
-        "url": "https://open.spotify.com/album/4T6O67PiUSYMRHDPsFvUHX"
-      },
-      "artists": [
-        {
-          "name": "Goofy Geese",
-          "url": "https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl"
-        }
-      ],
-      "duration_ms": 171612,
-      "name": "Flor Amarelo (Para Voc\u00ea)",
-      "url": "https://open.spotify.com/track/4TfoDylS5Is5i67nAI0oeK"
-    },
-    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "Little Lies",
@@ -1783,22 +1895,6 @@
       "duration_ms": 183000,
       "name": "KEEP IT UP",
       "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
-    },
-    {
-      "added_at": "2022-01-18 16:29:58",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
     },
     {
       "added_at": "2021-12-01 14:26:10",

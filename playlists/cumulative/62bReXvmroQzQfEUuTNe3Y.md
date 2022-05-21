@@ -4,7 +4,7 @@
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-281 songs - 16 hr 14 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+283 songs - 16 hr 19 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Benediction \- GRADES Remix](https://open.spotify.com/track/77uknqvkG2K7oYaBQt3u0h) | [Hot Natured](https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3), [GRADES](https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY) | [Benediction EP](https://open.spotify.com/album/3HQuC0C4XeBSI88LUbc4Jx) | 6:40 | 2020-09-13\* | 2021-03-06 |
 | [Billie \(Loving Arms\)](https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Billie \(Loving Arms\)](https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1) | 3:37 | 2021-09-25 | 2021-10-02 |
 | [Bird Song](https://open.spotify.com/track/51Wao8QZ4Fv4zamKbRnKQd) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Old Friend](https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj) | 3:16 | 2020-09-13\* | 2021-03-06 |
+| [Black Light](https://open.spotify.com/track/6XsjMGPp015u8Ykod0KMUj) | [SJAY Music](https://open.spotify.com/artist/3EwtOLCqfnvcF2CY9b64gN), [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Black Light](https://open.spotify.com/album/6RL4nOMfiTDBjhzRnpiMas) | 2:55 | 2022-05-20 |  |
 | [Bliss](https://open.spotify.com/track/0fc0Asyn18uW8soZ3bhFS7) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Bliss](https://open.spotify.com/album/72vTCgZbrVnszdSeWQ6ajA) | 2:59 | 2020-12-18 | 2021-03-06 |
 | [Body 2 Body \- 6am Remix](https://open.spotify.com/track/0TdPfmZ2ZJGwNXXembBO0T) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Body 2 Body \(Remixes\)](https://open.spotify.com/album/6aQ0edKuYRIOHUjfvwFkCt) | 3:59 | 2020-09-13\* |  |
 | [Breath By Breath](https://open.spotify.com/track/4HSEJ8rmp21rUtqE9CNxFh) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Clara Sofie](https://open.spotify.com/artist/1adncZQpQ0JKUUCTJyPho4) | [Breath By Breath](https://open.spotify.com/album/7MN6dH9Z4vipp4K8wQ6N1T) | 2:40 | 2020-09-13\* | 2021-06-12 |
@@ -245,6 +246,7 @@
 | [Thinking About It \- Fabich & Ferdinand Weber Remix](https://open.spotify.com/track/48Mq6BXKxoRdXg7apQgV08) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [Fabich & Ferdinand Weber](https://open.spotify.com/artist/6V8CJkPwmJLpOH4ABCDccb) | [Thinking About It \(Remixes\)](https://open.spotify.com/album/5lmJ50AWRpSWy3BUSbC2R4) | 4:40 | 2020-09-13\* | 2021-03-06 |
 | [Thinking About You \(with Winona Oak\)](https://open.spotify.com/track/1ooi97uomLH2fqrxFkcpoF) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Thinking About You \(with Winona Oak\)](https://open.spotify.com/album/6jhD5u6S8AYgO7eQu2GhQj) | 2:37 | 2020-09-13\* | 2021-08-28 |
 | [Those Days](https://open.spotify.com/track/2CylUcZGI81nhek3kJQkJ3) | [KAASI](https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6) | [Tramuntana](https://open.spotify.com/album/3NeynrdysMtEJoSn0ESyYE) | 5:20 | 2021-10-02 | 2021-11-11 |
+| [Through the Fire](https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Through the Fire](https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB) | 2:29 | 2022-05-20 |  |
 | [Tigers & Celines](https://open.spotify.com/track/2UTROxDu41AUDa9gNo94l8) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Tigers & Celines](https://open.spotify.com/album/2HPCiMEPzuqMQeyTvcjLoy) | 2:28 | 2022-01-07 | 2022-01-22 |
 | [To Love \(feat\. Shannon Saunders\)](https://open.spotify.com/track/6JjvOQ9fzmltytSQS14PHg) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Shannon Saunders](https://open.spotify.com/artist/0R99HoFbo8665kwfOtbvxb) | [Frequently Flying](https://open.spotify.com/album/0w90jfJxN51UAThoxMOnVw) | 4:19 | 2020-09-13\* | 2021-05-25 |
 | [Torn](https://open.spotify.com/track/78LzgdgeE4gJyk5pIrs1v0) | [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Torn](https://open.spotify.com/album/3iw3n5O3FPuX0sXheeOINN) | 3:27 | 2020-09-13\* | 2021-03-06 |

@@ -592,6 +592,24 @@
     },
     {
       "album": {
+        "name": "A Heartless Portrait (The Orph\u00e9an Testament)",
+        "url": "https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2"
+      },
+      "artists": [
+        {
+          "name": "Evergrey",
+          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263853,
+      "name": "Call out the Dark",
+      "url": "https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei"
+    },
+    {
+      "album": {
         "name": "Chain of the Golden Horn",
         "url": "https://open.spotify.com/album/7vGhZpOO230V2JKMNYcWXj"
       },
@@ -1975,7 +1993,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 274093,
       "name": "How Many Tears to Nurture a Rose?",
       "url": "https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b"
@@ -3789,7 +3807,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 285586,
       "name": "Save Us",
       "url": "https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8"
@@ -4631,6 +4649,28 @@
       "duration_ms": 251000,
       "name": "The Unkillable Soldier",
       "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"
+    },
+    {
+      "album": {
+        "name": "The Wicked Rule The Night",
+        "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
+      },
+      "artists": [
+        {
+          "name": "Avantasia",
+          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+        },
+        {
+          "name": "Ralf Scheepers",
+          "url": "https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264946,
+      "name": "The Wicked Rule The Night",
+      "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
     },
     {
       "album": {

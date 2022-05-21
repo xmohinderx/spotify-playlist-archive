@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: RELDEN, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,329 likes - 89 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,349 likes - 89 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

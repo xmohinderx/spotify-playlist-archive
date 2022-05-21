@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 🩹 \(in cover, doxx\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,502 likes - 72 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,512 likes - 72 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

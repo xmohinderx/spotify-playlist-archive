@@ -283,7 +283,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 430693,
       "name": "Changes",
       "url": "https://open.spotify.com/track/6B0aELa2yqLyeu2ULt8bEq"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 296020,
       "name": "For EH",
       "url": "https://open.spotify.com/track/2FbnvVjodpaYP9L8CKMgOw"
@@ -691,6 +691,28 @@
       "duration_ms": 328542,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/1ho1wV4HROG8ZzJwLrMe3E"
+    },
+    {
+      "album": {
+        "name": "Know What I Mean? [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377546,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/6UVl12QoQEOGjJCocfBJyn"
     },
     {
       "album": {
@@ -858,6 +880,24 @@
     },
     {
       "album": {
+        "name": "I'm Just a Lucky So and So",
+        "url": "https://open.spotify.com/album/5LRk8BHsoLV8d93r7Dd8Ch"
+      },
+      "artists": [
+        {
+          "name": "Houston Person",
+          "url": "https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347946,
+      "name": "I Guess I'll Hang My Tears out to Dry",
+      "url": "https://open.spotify.com/track/6N2Pv1JuSH3G825FvsjR3B"
+    },
+    {
+      "album": {
         "name": "Porgy & Bess",
         "url": "https://open.spotify.com/album/4BuinnHGlzLgX3t21dVquR"
       },
@@ -949,7 +989,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 650133,
       "name": "I Want To Talk About You",
       "url": "https://open.spotify.com/track/0OeuAmskVe6Te9J7KkLsBs"
@@ -2251,7 +2291,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 187813,
       "name": "Trav'lin Light",
       "url": "https://open.spotify.com/track/4Djv64pynMBVRER1eWxxCH"

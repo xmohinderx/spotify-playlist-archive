@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-367 songs - 22 hr 15 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
+368 songs - 22 hr 19 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 | 2021-12-26 | 2021-12-27 |
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2021-10-17 | 2021-12-05 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-17 |
-| [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-14 |  |
+| [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-14 | 2022-05-21 |
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-11 | 2021-07-18 |
 | [Never\-never Land](https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Never\-never Land](https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4) | 3:32 | 2022-03-20 |  |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-05-20 | 2021-06-20 |
@@ -222,7 +222,7 @@
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2021-06-27 | 2021-07-17 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-23 |
 | [もう少しだけ](https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [もう少しだけ](https://open.spotify.com/album/32fJ6KxH53e7buqrMsNH5I) | 3:40 | 2021-05-12 | 2021-05-20 |
-| [一人之境 in C major](https://open.spotify.com/track/32QnXosZq7A11knnBAEqk7) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MAJOR IN MINOR](https://open.spotify.com/album/43QviVcqV7nKDFn00PiXiZ) | 3:15 | 2021-03-27\* | 2022-05-20 |
+| [一人之境 in C major](https://open.spotify.com/track/32QnXosZq7A11knnBAEqk7) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MAJOR IN MINOR](https://open.spotify.com/album/43QviVcqV7nKDFn00PiXiZ) | 3:15 | 2021-03-27\* |  |
 | [一表人才](https://open.spotify.com/track/6zeblz6qaURo2JphS7XeFz) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [一表人才](https://open.spotify.com/album/0D0U5JDeFboAiXAZJ0FMUs) | 4:19 | 2021-11-20 |  |
 | [三個字](https://open.spotify.com/track/524AUGUhR1F8SRiumM4T5e) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D) | [三個字](https://open.spotify.com/album/4caS8RrS6eIRCPi5JTsFQG) | 3:46 | 2021-11-10 | 2022-02-16 |
 | [下一位前度](https://open.spotify.com/track/0Q3jOuEpx8Esi2qZMQSghl) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [下一位前度](https://open.spotify.com/album/59YA2cgcSxJ8ndjcWfNbYr) | 4:35 | 2021-03-27\* | 2021-11-12 |
@@ -248,7 +248,7 @@
 | [再次puppy love](https://open.spotify.com/track/0PS2hRWTqrTnZIZDvpurgt) | [193](https://open.spotify.com/artist/4lYAh2AEuTUZsFPmuS2luG) | [再次puppy love](https://open.spotify.com/album/4qzah4FEUbHIQ4jyU4KxiT) | 3:27 | 2022-01-16 | 2022-02-16 |
 | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/track/7eZJLfMQ5mDtejHitRkzRf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/album/5f1R2DOR0cLJlUmpO1gtjC) | 4:44 | 2021-08-28 | 2021-12-18 |
 | [初戀](https://open.spotify.com/track/1gGgVV7kyte91NOurgCbPo) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [初戀](https://open.spotify.com/album/3osmGX8eBAPlyeyQsYWUag) | 3:29 | 2022-05-15 | 2022-05-20 |
-| [初戀](https://open.spotify.com/track/5XihvL3MlNcj6yPwAKsgFw) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [MIKE \(Deluxe Version\)](https://open.spotify.com/album/0bEkpw5Jt53O0uBEYQX2Co) | 3:29 | 2022-05-19 |  |
+| [初戀](https://open.spotify.com/track/5XihvL3MlNcj6yPwAKsgFw) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [MIKE \(Deluxe Version\)](https://open.spotify.com/album/0bEkpw5Jt53O0uBEYQX2Co) | 3:29 | 2022-05-19 | 2022-05-21 |
 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 | 2021-03-27\* | 2021-09-19 |
 | [勁浪漫 超溫馨](https://open.spotify.com/track/78TbTvePaJ6FFdwSMSXARy) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [勁浪漫 超溫馨](https://open.spotify.com/album/17rzHi2IJyAQS0X8MnetY2) | 3:19 | 2021-11-28 |  |
 | [勿念](https://open.spotify.com/track/7jo1ash37IUB5NyviV7ajO) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [勿念](https://open.spotify.com/album/09P4na1xZen1gwM63oVMGH) | 3:26 | 2021-10-16 | 2022-03-11 |
@@ -308,6 +308,7 @@
 | [東京人壽](https://open.spotify.com/track/1qc9E4zCJ5utXDQVIAZlkm) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [東京人壽](https://open.spotify.com/album/0w2tKyjNG1x1wgYyAnlTbG) | 4:17 | 2021-03-27\* | 2021-05-13 |
 | [某種老朋友](https://open.spotify.com/track/4c9hHw1PUYXHfKFASXo8H0) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [某種老朋友](https://open.spotify.com/album/4F9PntJ91ej5Uxyo1wgMii) | 4:30 | 2022-02-17 |  |
 | [樹](https://open.spotify.com/track/2QYGFCVQTALeyYGNvKHn9T) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹](https://open.spotify.com/album/4RcQZBChNpUMXKcJmF5ErJ) | 3:55 | 2021-12-18 | 2021-12-19 |
+| [櫻花樹下](https://open.spotify.com/track/2FgDWCqMCIAATvqr9ozeYm) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [Urban Emotions](https://open.spotify.com/album/3fem0d1l01dbTq5goqW7QJ) | 4:09 | 2022-05-20 |  |
 | [正式開始](https://open.spotify.com/track/1jVw3apCOogFU1mOquNIhC) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [正式開始](https://open.spotify.com/album/40i8Il5hBAX9OlqcZvQ2t0) | 3:28 | 2021-03-27\* | 2021-09-24 |
 | [每次你走的時分](https://open.spotify.com/track/5re2sW79DkSu7tyBjxCqUS) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [每次你走的時分](https://open.spotify.com/album/5t0kPdHWUbtFPugupIGZrO) | 2:59 | 2021-08-26 | 2021-09-01 |
 | [每次你走的時分](https://open.spotify.com/track/6i8z0tElGO6Ye3Bk7nW496) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 3:03 | 2021-09-01 | 2021-09-02 |

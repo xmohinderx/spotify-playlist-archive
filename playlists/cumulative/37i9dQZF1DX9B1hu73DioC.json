@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 128530,
       "name": "3:45/buslane",
       "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 165000,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/3AdiSOZxa72xdHN6sGvYeu"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 213453,
       "name": "Better When We're Close",
       "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 233417,
       "name": "Blue Sea, Red Sea",
       "url": "https://open.spotify.com/track/1TNIPwsB6knLXdlfjjnPTX"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 141932,
       "name": "Build Me a Way - Single Version",
       "url": "https://open.spotify.com/track/123UKU5C3VGi3vrJTwtjQ1"
@@ -2139,7 +2139,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 147653,
       "name": "DARLING",
       "url": "https://open.spotify.com/track/63WglSNzQJ4pzS6OYEsj6B"
@@ -2985,7 +2985,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 206333,
       "name": "From the Back of a Cab - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/6OrLovzoCKCwsiGYydDpKt"
@@ -3065,7 +3065,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 201960,
       "name": "Get Closer",
       "url": "https://open.spotify.com/track/4roBcHq6JZq6FBfbf0k6uF"
@@ -3083,7 +3083,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 222936,
       "name": "Get High",
       "url": "https://open.spotify.com/track/1lfKSD8h3GeCx1VGJ2IyZM"
@@ -3191,7 +3191,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 211304,
       "name": "girl in new york",
       "url": "https://open.spotify.com/track/6APTEV2EIRpBEvuTrS5XTv"
@@ -3245,7 +3245,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 223966,
       "name": "Go Around",
       "url": "https://open.spotify.com/track/4XW24tqU4OG940MdepSQHB"
@@ -4053,7 +4053,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 281306,
       "name": "In The Flowers",
       "url": "https://open.spotify.com/track/3MYwtTSyvNuHDc1VwUIubg"
@@ -4425,7 +4425,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 218293,
       "name": "Kyoto (The Mar\u00edas Remix)",
       "url": "https://open.spotify.com/track/4N4y5krXgvSSGBktqHCdpx"
@@ -4461,7 +4461,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 189382,
       "name": "Laurelhurst",
       "url": "https://open.spotify.com/track/16gvCSeJMZRtdt89BIqiNg"
@@ -4884,6 +4884,24 @@
     },
     {
       "album": {
+        "name": "Maybe Not",
+        "url": "https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170060,
+      "name": "Maybe Not",
+      "url": "https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD"
+    },
+    {
+      "album": {
         "name": "Good At Falling",
         "url": "https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ"
       },
@@ -4895,7 +4913,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 218935,
       "name": "Maybe You're the Reason",
       "url": "https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o"
@@ -5249,7 +5267,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 200133,
       "name": "Neo Surf",
       "url": "https://open.spotify.com/track/6XmT8fIEfcS3ZSVEz00U7m"
@@ -5725,7 +5743,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 289826,
       "name": "Only You Know",
       "url": "https://open.spotify.com/track/1pCHi3zHca7jgR27Sfu7L8"
@@ -6143,7 +6161,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 232053,
       "name": "Red Room",
       "url": "https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J"
@@ -6241,7 +6259,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 252987,
       "name": "Roddy",
       "url": "https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH"
@@ -6443,7 +6461,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 208280,
       "name": "Saw You In A Dream",
       "url": "https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok"
@@ -7143,7 +7161,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 290106,
       "name": "There Must Be a Song Like You",
       "url": "https://open.spotify.com/track/1rwzTr6y9yOPzNlO92AnUc"
@@ -7215,7 +7233,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 342189,
       "name": "Time (You and I)",
       "url": "https://open.spotify.com/track/4fMIe4htuvA8RoygYDFqO5"
@@ -7251,7 +7269,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 155680,
       "name": "Tiptoeing",
       "url": "https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9"
@@ -7327,7 +7345,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 361760,
       "name": "Tommy's Party",
       "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
@@ -7561,7 +7579,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "U-Turn",
       "url": "https://open.spotify.com/track/3wXCGcQVwmvVaIp4aqEA5v"
@@ -7799,7 +7817,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 265758,
       "name": "We Stayed Up All Night",
       "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
@@ -8015,7 +8033,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 191146,
       "name": "When U Loved Me",
       "url": "https://open.spotify.com/track/7pADtei8K3suMQlLBxR4iw"

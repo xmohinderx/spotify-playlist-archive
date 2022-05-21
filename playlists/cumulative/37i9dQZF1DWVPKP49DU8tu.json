@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 282360,
       "name": "Acqua e Sale",
       "url": "https://open.spotify.com/track/2k5XUNGw2nD3qTl9C208Qr"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 228247,
       "name": "Bella cos\u00ec - feat. Federica Carta",
       "url": "https://open.spotify.com/track/3XLyyybPY2d8kLiMb8HIyA"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 200214,
       "name": "BRAVI A CADERE - I polmoni",
       "url": "https://open.spotify.com/track/4SpV49wwekArulAVjEez3i"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 188181,
       "name": "Che Poi",
       "url": "https://open.spotify.com/track/55BfNKdOeu77gxPB0UGnAw"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 153157,
       "name": "Cuore amaro",
       "url": "https://open.spotify.com/track/1CQbBT3Wi9srD77fA6UM6A"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 199946,
       "name": "DEFUERA (feat. Ghali, Madame & Marracash)",
       "url": "https://open.spotify.com/track/2512VtkrcUHav23oV66xqf"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 206001,
       "name": "Fiamme negli occhi",
       "url": "https://open.spotify.com/track/5qn15Hs4s26YaNd5UWVe00"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 155413,
       "name": "Mambo Salentino",
       "url": "https://open.spotify.com/track/7piIo15vVy3ULGXSpFs5xc"
@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 194606,
       "name": "Musica (E Il Resto Scompare)",
       "url": "https://open.spotify.com/track/3Nc7IorgrSffzaQrQWVw4L"
@@ -1566,6 +1566,24 @@
     },
     {
       "album": {
+        "name": "it.pop",
+        "url": "https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t"
+      },
+      "artists": [
+        {
+          "name": "Alex Britti",
+          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228986,
+      "name": "Oggi Sono Io",
+      "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
+    },
+    {
+      "album": {
         "name": "Ostia Lido",
         "url": "https://open.spotify.com/album/0Tph6OXMMLC4oVAAi0h4Py"
       },
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 209347,
       "name": "Pensare Male (con Elodie)",
       "url": "https://open.spotify.com/track/0vUhEAJIaTGqBJfDsOZoNt"
@@ -1755,7 +1773,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 192000,
       "name": "Playa",
       "url": "https://open.spotify.com/track/7bBIBrSmHvdMlTC7b9p8Vq"
@@ -1921,7 +1939,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 270346,
       "name": "Sei nell'anima",
       "url": "https://open.spotify.com/track/6shzlUkm7OcnoO4guEiGJ8"
@@ -1961,7 +1979,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 217786,
       "name": "Sono solo parole",
       "url": "https://open.spotify.com/track/4SjRtuCDZvO68N2agNkahv"
@@ -1979,7 +1997,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 170578,
       "name": "Sono un bravo ragazzo un po' fuori di testa",
       "url": "https://open.spotify.com/track/5EXLYWZGnmYC01H53WUAhi"
@@ -2361,7 +2379,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 179895,
       "name": "We Can Do Better",
       "url": "https://open.spotify.com/track/1hLjLWrzO18acdCFcccFWk"

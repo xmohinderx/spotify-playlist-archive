@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gDTB1VLIIh.md) - [plain]
 
 > This is Nasty C, also known to fans as "A Zulu Man With Some Power"\. The essential tracks, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,540 likes - 45 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,595 likes - 45 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

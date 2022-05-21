@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp?si=4jQ2e8muSy\-1lcntVwVGSA">Kid Fonque</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,660 likes - 80 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,683 likes - 80 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 75 | [Ebsuku \- Radio Edit](https://open.spotify.com/track/26v5GteKRWo2vpgRg5FkYk) | [Lebzin](https://open.spotify.com/artist/5g0Z3S2S1jqM9wBCpM9VhA), [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Ebsuku](https://open.spotify.com/album/15I3rxOfACdFyGiaCoDP9O) | 4:05 |
 | 76 | [Miloro Yanga](https://open.spotify.com/track/0gKzvnYT85D5BDC5GtqEc1) | [Limpopo Rhythm](https://open.spotify.com/artist/4KECqVC6sppCcucngheRFn), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT), [Mvzzle](https://open.spotify.com/artist/7qgIC4hEF2z301fXmyY8UD) | [Miloro Yanga](https://open.spotify.com/album/2nBRFKiMbNB8VxueJX7dKj) | 6:22 |
 | 77 | [The Warrior](https://open.spotify.com/track/3nt93Flj7FBSaEKJWbWJ18) | [McK](https://open.spotify.com/artist/7Hq2IxP42MAzk8X0C1j6z4), [Yaw Appiah](https://open.spotify.com/artist/2EpwVoTYiRy4LqGFvW7URr) | [The Warrior](https://open.spotify.com/album/3QdCZ7kmJUZschpKqbDLCJ) | 6:26 |
-| 78 | [Ikigai \- Radio Edit](https://open.spotify.com/track/3QIGv8VZqZ18JbtihrmaDI) | [Aüra](https://open.spotify.com/artist/5muEGUq4zkPhuAmHdjLiwZ), [Sediis](https://open.spotify.com/artist/19t8pcz4HC33dy1MbAkZc9) | [Ikigai \(Radio Edit\)](https://open.spotify.com/album/1Tg917lfjEH1VE9Id0RAGt) | 4:08 |
-| 79 | [I Told You Not To Go](https://open.spotify.com/track/6N3bqyU6KO3hqykGqJxUnf) | [Dave Audinary](https://open.spotify.com/artist/6O7qXYxw1B8belOxZSwaNm), [The Colored](https://open.spotify.com/artist/0vlWnOvNJ66cC55UwnHtdj) | [I Told You Not To Go](https://open.spotify.com/album/2QzouCM5U0pe3FPiLcSG98) | 4:04 |
+| 78 | [I Told You Not To Go](https://open.spotify.com/track/6N3bqyU6KO3hqykGqJxUnf) | [Dave Audinary](https://open.spotify.com/artist/6O7qXYxw1B8belOxZSwaNm), [The Colored](https://open.spotify.com/artist/0vlWnOvNJ66cC55UwnHtdj) | [I Told You Not To Go](https://open.spotify.com/album/2QzouCM5U0pe3FPiLcSG98) | 4:04 |
+| 79 | [I Love It \- Chris Sen Club Edit](https://open.spotify.com/track/3tpvOczq7ynQelHTnXpuIs) | [MAEZTRO](https://open.spotify.com/artist/4SXPlxI5H5fY9JaVAjFqc1), [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM), [Chris Sen](https://open.spotify.com/artist/4sPYZ7NtC0pva3cK6lvOMy) | [I Love It \(Chris Sen Remixes\)](https://open.spotify.com/album/4SMc7nQXD1FHPZ9HkS3x9v) | 3:09 |
 | 80 | [Uvalo](https://open.spotify.com/track/6AWG94PiLOenHLjrBcctqE) | [Afro Brotherz](https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN), [Pixie L](https://open.spotify.com/artist/0JVP5fFbuXFm9e3YWWDcGk) | [The Lands, Pt\. 2](https://open.spotify.com/album/0k1iai1zN0id193FscCo70) | 6:36 |
 
-Snapshot ID: `MTY1Mjk5NzU0MCwwMDAwMDM0MDAwMDAwMTgwZGU1NGNhNTEwMDAwMDE4MDk2MDczMzQw`
+Snapshot ID: `MTY1MzAzOTQ0MywwMDAwMDM0MTAwMDAwMTgwZTBkNDJlNjUwMDAwMDE4MDk2MDczMzQw`

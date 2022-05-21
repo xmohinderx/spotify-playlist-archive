@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Natalhão
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,244 likes - 76 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,254 likes - 76 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

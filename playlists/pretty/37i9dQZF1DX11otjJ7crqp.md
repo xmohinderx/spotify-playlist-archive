@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Jessie Murph
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,530 likes - 99 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,702 likes - 99 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 18 | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6) | 2:53 |
 | 19 | [Hurricanes & Sugar Highs](https://open.spotify.com/track/2czTmsbVBVockOY0WGhxX2) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Hurricanes & Sugar Highs](https://open.spotify.com/album/3LaDBxl1RVvD2ouAFhIcC9) | 3:32 |
 | 20 | [Little Freak](https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:22 |
-| 21 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Emotionally Unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 |
+| 21 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 |
 | 22 | [blue](https://open.spotify.com/track/3A9RV7frnaeqKGvF7kb0vd) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [blue](https://open.spotify.com/album/29FYm9EmlZJ77BNOOq43pi) | 2:06 |
 | 23 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 |
 | 24 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |

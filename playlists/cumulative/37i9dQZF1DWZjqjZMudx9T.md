@@ -2,7 +2,7 @@
 
 ### [MANSIÓN REGGAETÓN](https://open.spotify.com/playlist/37i9dQZF1DWZjqjZMudx9T)
 
-> De la CALLE a la CIMA con Chencho Corleone, Anuel AA, Ñengo Flow & Chris Jedai.
+> De la CALLE a la CIMA con Chencho Corleone, Anuel AA, Ñengo Flow & Chris Jedi.
 
 96 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/2raIn6drOyGxam9iDpoEgE)
 

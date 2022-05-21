@@ -1,13 +1,29 @@
 {
   "description": "Go-Go Music from the heart of Washington, DC. Cover, New Impressionz by Jay Kyri",
-  "num_followers": 996,
+  "num_followers": 998,
   "original_name": "GO-GO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMzc0NCwwMDAwMDAwZDAwMDAwMTgwNGZhNjVlYTAwMDAwMDE3ZWEzN2RmMjEz",
+  "snapshot_id": "MTY1MzAzMjg1MiwwMDAwMDAwZTAwMDAwMTgwZTA2ZjljYWQwMDAwMDE3ZWEzN2RmMjEz",
   "tracks": [
+    {
+      "added_at": "2022-05-20 07:47:32",
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok"
+      },
+      "artists": [
+        {
+          "name": "New Impressionz",
+          "url": "https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX"
+        }
+      ],
+      "duration_ms": 56059,
+      "name": "Found Myself a Clappa 2019 - Live",
+      "url": "https://open.spotify.com/track/6TaUGITKJOhZPA66GKVSuf"
+    },
     {
       "added_at": "2022-04-22 05:02:24",
       "album": {
@@ -25,24 +41,40 @@
       "url": "https://open.spotify.com/track/0HyX4CfHrqB8faZtNDAdvD"
     },
     {
-      "added_at": "2022-02-04 18:58:32",
+      "added_at": "2022-05-20 07:47:32",
       "album": {
-        "name": "Drop!",
-        "url": "https://open.spotify.com/album/7rBNst31JCowXnswrq6HIR"
+        "name": "The Lost Bounce Tapes Vol #1",
+        "url": "https://open.spotify.com/album/2RtDOZZBLKXMtnuiZeIs3K"
       },
       "artists": [
         {
-          "name": "Tone P",
-          "url": "https://open.spotify.com/artist/1OtOMQm0JZCYsv5TO5kgyh"
-        },
-        {
-          "name": "Tony Lewis Jr",
-          "url": "https://open.spotify.com/artist/7jma0qzl1PAmUi89FWFvri"
+          "name": "TCB Bounce Beat Kings",
+          "url": "https://open.spotify.com/artist/6QoPapOk9izriQmEGamap3"
         }
       ],
-      "duration_ms": 50703,
-      "name": "District Commencement",
-      "url": "https://open.spotify.com/track/6T5oHp9GzaACnaQ964SxYj"
+      "duration_ms": 156421,
+      "name": "Lay Ya Head",
+      "url": "https://open.spotify.com/track/0kKEJGrSIPJggcV7ekdsYf"
+    },
+    {
+      "added_at": "2022-01-29 19:03:34",
+      "album": {
+        "name": "Critical Condition",
+        "url": "https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc"
+      },
+      "artists": [
+        {
+          "name": "CCB (Critical Condition Band)",
+          "url": "https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK"
+        },
+        {
+          "name": "Backyard Band",
+          "url": "https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "Classy",
+      "url": "https://open.spotify.com/track/32VYGgCEVGE4WUDvnzuLbW"
     },
     {
       "added_at": "2022-01-30 18:12:11",
@@ -207,6 +239,26 @@
       "duration_ms": 161136,
       "name": "Club Godzilla",
       "url": "https://open.spotify.com/track/0zSWfzxS8BObYNkl7bqkQg"
+    },
+    {
+      "added_at": "2022-05-20 07:47:32",
+      "album": {
+        "name": "Own It (GoGo Bounce)",
+        "url": "https://open.spotify.com/album/1BlJ4Te08MqckmUvhp1ny3"
+      },
+      "artists": [
+        {
+          "name": "Don Panama",
+          "url": "https://open.spotify.com/artist/5xhWTTy7Vi5FPDQaUYSIbp"
+        },
+        {
+          "name": "Drew Keys",
+          "url": "https://open.spotify.com/artist/2W0dNRlFKyqlESIr4ZXNLm"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Own It (GoGo Bounce)",
+      "url": "https://open.spotify.com/track/5iQGMwDkPB9K2HCFXjtlAu"
     },
     {
       "added_at": "2022-01-29 19:03:34",
@@ -715,26 +767,6 @@
       "duration_ms": 135288,
       "name": "Tambourina Go Go Bounce",
       "url": "https://open.spotify.com/track/0ahcKcp9NEfIPfkoa966Ce"
-    },
-    {
-      "added_at": "2022-01-29 19:03:34",
-      "album": {
-        "name": "Critical Condition",
-        "url": "https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc"
-      },
-      "artists": [
-        {
-          "name": "CCB (Critical Condition Band)",
-          "url": "https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK"
-        },
-        {
-          "name": "Backyard Band",
-          "url": "https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "Classy",
-      "url": "https://open.spotify.com/track/32VYGgCEVGE4WUDvnzuLbW"
     },
     {
       "added_at": "2022-01-29 19:03:34",

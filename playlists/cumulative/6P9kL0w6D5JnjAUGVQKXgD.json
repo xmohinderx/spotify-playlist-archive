@@ -9623,7 +9623,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 160586,
       "name": "High",
       "url": "https://open.spotify.com/track/5BKBE9RlIRxyWm8JvnZ3iE"
@@ -21080,6 +21080,28 @@
     },
     {
       "album": {
+        "name": "Spell",
+        "url": "https://open.spotify.com/album/1j8oGb8PH16eLGvIAJDVAY"
+      },
+      "artists": [
+        {
+          "name": "Vaelocity",
+          "url": "https://open.spotify.com/artist/4DbgojMHRX1pN14Qu2Aedh"
+        },
+        {
+          "name": "Otto Palmborg",
+          "url": "https://open.spotify.com/artist/1YQWn973MCGK5yzVeukVtc"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "Spell",
+      "url": "https://open.spotify.com/track/5wiNJVYeLGaH6KOGcL0zjR"
+    },
+    {
+      "album": {
         "name": "Spirit Wave",
         "url": "https://open.spotify.com/album/22ebCje1TEs2yAuV7nQIGa"
       },
@@ -21223,7 +21245,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 202670,
       "name": "Starlight (Keep Me Afloat)",
       "url": "https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA"
@@ -24819,7 +24841,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 155000,
       "name": "When It Falls On You",
       "url": "https://open.spotify.com/track/4Z2l7m2grCCto45r6KH5dr"

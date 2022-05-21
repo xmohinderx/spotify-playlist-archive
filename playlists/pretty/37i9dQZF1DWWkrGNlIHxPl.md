@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Anees.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,242 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,282 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,17 +14,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 4 | [the world could end with you](https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [the world could end with you](https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE) | 3:00 |
 | 5 | [HELLSTORM](https://open.spotify.com/track/7ka672CmPkXWtQUQOLwRqq) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [HELLSTORM](https://open.spotify.com/album/2w0Wpf3Ebuy5ibLqmnc34B) | 3:18 |
 | 6 | [Enta](https://open.spotify.com/track/1mRSA7bk3iEvAyKLXHL7bi) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap \- EP.1](https://open.spotify.com/album/3dQpnLxtGSzIRi7TEA8MzC) | 3:08 |
-| 7 | [Xbox](https://open.spotify.com/track/0D96Qm09CDTxfu85rkpZwO) | [Ramriddlz](https://open.spotify.com/artist/3fHjwMnkM9ov8CozqkYxWY) | [Xbox](https://open.spotify.com/album/0VTpElYxz599FWApgxZk86) | 1:51 |
-| 8 | [BETTER DAYS](https://open.spotify.com/track/5GQvtRxFB12OD7H7gOzLba) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [BETTER DAYS](https://open.spotify.com/album/6R5VVjgUy508TNYkyw5pTQ) | 2:58 |
-| 9 | [Persian Girl](https://open.spotify.com/track/00F00gtN0N4kqlD7HdIKm8) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [yef](https://open.spotify.com/artist/1O1ZcnRuYrvL3jfODzdPme) | [Persian Girl](https://open.spotify.com/album/0xrvQnt3aGmIBz1AQNPkQ9) | 3:29 |
-| 10 | [Toxic Attachments](https://open.spotify.com/track/5x0poZDwH3BDAvXqsmQEOZ) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Toxic Attachments](https://open.spotify.com/album/2hC53yChNCrr86nlW9iLoC) | 2:45 |
-| 11 | [Wild Things](https://open.spotify.com/track/0PHHyXwgVznLS35CqxZbIT) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Wild Things](https://open.spotify.com/album/7hwGpdnsIK7vnmbiaSXXVD) | 3:11 |
-| 12 | [Learning To Live Without You](https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Learning To Live Without You](https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB) | 3:13 |
-| 13 | [Fruitseller](https://open.spotify.com/track/1CV5V40YIAS7d8CxU2bKwQ) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Fruitseller](https://open.spotify.com/album/4mghCfnlgjoqt1WWu1VvLC) | 2:38 |
-| 14 | [Saudi Most Wanted](https://open.spotify.com/track/6k2J7DVv8lwAW0XXUPMVQv) | [$kinny](https://open.spotify.com/artist/1DwFdML6JPf7SSeXmSRnVN) | [Saudi Most Wanted](https://open.spotify.com/album/2so57oOfGe2N1p42xc4qg7) | 2:28 |
-| 15 | [Unbreakable](https://open.spotify.com/track/6E223c2TGLdCYtJonmkTUi) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic) | [Unbreakable](https://open.spotify.com/album/2k4RJfvuASCZnkyWNo6hgF) | 4:24 |
-| 16 | [Habibi](https://open.spotify.com/track/7xZL48Bsvc8hgvfSgpwhei) | [J\. Esho](https://open.spotify.com/artist/5vRjZp2f2W7KbOKdLA3NoL), [Pierre Youssef](https://open.spotify.com/artist/0j31jsGOpUBaZcWNxWDYV2), [Jvanz](https://open.spotify.com/artist/1DSTAoNrETWRRoqAiBBSgF) | [Habibi](https://open.spotify.com/album/6VA3gQL0jwHnHF1XjNKRnk) | 2:40 |
-| 17 | [A Thousand Nights](https://open.spotify.com/track/2KsUQYIfWwCCdltFt8LOzN) | [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [A Thousand Nights](https://open.spotify.com/album/2vRAzdHULVvt3NFZKekXqD) | 2:40 |
+| 7 | [BETTER DAYS](https://open.spotify.com/track/5GQvtRxFB12OD7H7gOzLba) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [BETTER DAYS](https://open.spotify.com/album/6R5VVjgUy508TNYkyw5pTQ) | 2:58 |
+| 8 | [Persian Girl](https://open.spotify.com/track/00F00gtN0N4kqlD7HdIKm8) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [yef](https://open.spotify.com/artist/1O1ZcnRuYrvL3jfODzdPme) | [Persian Girl](https://open.spotify.com/album/0xrvQnt3aGmIBz1AQNPkQ9) | 3:29 |
+| 9 | [Toxic Attachments](https://open.spotify.com/track/5x0poZDwH3BDAvXqsmQEOZ) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Toxic Attachments](https://open.spotify.com/album/2hC53yChNCrr86nlW9iLoC) | 2:45 |
+| 10 | [Wild Things](https://open.spotify.com/track/0PHHyXwgVznLS35CqxZbIT) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Wild Things](https://open.spotify.com/album/7hwGpdnsIK7vnmbiaSXXVD) | 3:11 |
+| 11 | [Learning To Live Without You](https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Learning To Live Without You](https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB) | 3:13 |
+| 12 | [Fruitseller](https://open.spotify.com/track/1CV5V40YIAS7d8CxU2bKwQ) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Fruitseller](https://open.spotify.com/album/4mghCfnlgjoqt1WWu1VvLC) | 2:38 |
+| 13 | [Saudi Most Wanted](https://open.spotify.com/track/6k2J7DVv8lwAW0XXUPMVQv) | [$kinny](https://open.spotify.com/artist/1DwFdML6JPf7SSeXmSRnVN) | [Saudi Most Wanted](https://open.spotify.com/album/2so57oOfGe2N1p42xc4qg7) | 2:28 |
+| 14 | [Unbreakable](https://open.spotify.com/track/6E223c2TGLdCYtJonmkTUi) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic) | [Unbreakable](https://open.spotify.com/album/2k4RJfvuASCZnkyWNo6hgF) | 4:24 |
+| 15 | [Habibi](https://open.spotify.com/track/7xZL48Bsvc8hgvfSgpwhei) | [J\. Esho](https://open.spotify.com/artist/5vRjZp2f2W7KbOKdLA3NoL), [Pierre Youssef](https://open.spotify.com/artist/0j31jsGOpUBaZcWNxWDYV2), [Jvanz](https://open.spotify.com/artist/1DSTAoNrETWRRoqAiBBSgF) | [Habibi](https://open.spotify.com/album/6VA3gQL0jwHnHF1XjNKRnk) | 2:40 |
+| 16 | [A Thousand Nights](https://open.spotify.com/track/2KsUQYIfWwCCdltFt8LOzN) | [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [A Thousand Nights](https://open.spotify.com/album/2vRAzdHULVvt3NFZKekXqD) | 2:40 |
+| 17 | [Xbox](https://open.spotify.com/track/0D96Qm09CDTxfu85rkpZwO) | [Ramriddlz](https://open.spotify.com/artist/3fHjwMnkM9ov8CozqkYxWY) | [Xbox](https://open.spotify.com/album/0VTpElYxz599FWApgxZk86) | 1:51 |
 | 18 | [Say Hi To My Demons](https://open.spotify.com/track/1QzEynjWm4RPAmFUZsYZVN) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [Say Hi To My Demons](https://open.spotify.com/album/6kvEYQBniePtBTOTXYukBC) | 3:18 |
 | 19 | [Neighborhood](https://open.spotify.com/track/1MqxAzd8MOFxrMlu5Ixw4l) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Neighborhood](https://open.spotify.com/album/6OYqRcMMr0B5XVUhzcgJZf) | 2:48 |
 | 20 | [Hope](https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK), [MMT](https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4) | [Hope](https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 99 | [Fearless](https://open.spotify.com/track/0D795IGmranbFSZruPAZEf) | [Dj Emir](https://open.spotify.com/artist/7gyy92KNK2QPjRPqeSip5h) | [Fearless](https://open.spotify.com/album/1Tmgp1B1h0i60hdwS9pe93) | 3:15 |
 | 100 | [Drunk in Berlin](https://open.spotify.com/track/7nwoZs2HNMZd1XjNcktiTq) | [Not.Fay](https://open.spotify.com/artist/5oBXBDfbDztCCPGHXqJKUo) | [Drunk in Berlin](https://open.spotify.com/album/7cJ2iXTJa0ksMtgnjj0uPK) | 2:37 |
 
-Snapshot ID: `MTY1MjQyODkxNCwwMDAwMDI4YjAwMDAwMTgwYmM3MDNlNjcwMDAwMDE4MDNjMjg4OWE2`
+Snapshot ID: `MTY1MzAzNjk0OCwwMDAwMDI4YzAwMDAwMTgwZTBhZTFjNjkwMDAwMDE4MDNjMjg4OWE2`

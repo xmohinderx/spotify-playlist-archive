@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 203880,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/2zSOKTYjqEFfJEsUrMkmKs"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 223746,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 296931,
       "name": "and you know it",
       "url": "https://open.spotify.com/track/4WBFHs6kG5qEknnpz3B8KJ"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 287871,
       "name": "Before",
       "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/5J9y36dALxOozE4aZjAL1j"
@@ -726,6 +726,24 @@
     },
     {
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210475,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC"
+    },
+    {
+      "album": {
         "name": "Born Yesterday",
         "url": "https://open.spotify.com/album/7mjYTOjmcH4UHnCdct2xZi"
       },
@@ -799,7 +817,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 203421,
       "name": "BRUiiSE",
       "url": "https://open.spotify.com/track/09VPvD4ZZH18kczzJRaWbZ"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 218181,
       "name": "Cartwheel",
       "url": "https://open.spotify.com/track/0bL30VdNJH5M1HsJDxXzOU"
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 142184,
       "name": "Color of the Pool",
       "url": "https://open.spotify.com/track/487No2iHijl2TqOM6OBC3U"
@@ -1185,7 +1203,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 369879,
       "name": "Concrete Over Water",
       "url": "https://open.spotify.com/track/4EGMLBvaIIHNYuTQ3vyJmd"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 207106,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/3z1DQOsda6thjUHkbJTelA"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 217240,
       "name": "Desert Flower - Remix",
       "url": "https://open.spotify.com/track/3bp1bmo2Km9SFT12M0eVOZ"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 148795,
       "name": "Doorman - Vegyn Remix",
       "url": "https://open.spotify.com/track/0QyOGi3zEgYVO0PXt8avlA"
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 174933,
       "name": "Dunk on Me",
       "url": "https://open.spotify.com/track/57JiCzlUi4DiQqTs2fJA6c"
@@ -2061,7 +2079,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 204240,
       "name": "Fruit",
       "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
@@ -2929,7 +2947,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 230624,
       "name": "It's Okay To Cry",
       "url": "https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO"
@@ -3013,7 +3031,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 274706,
       "name": "june 14th",
       "url": "https://open.spotify.com/track/1dpfNC2sYCwLBfPg6PujQe"
@@ -3292,6 +3310,24 @@
     },
     {
       "album": {
+        "name": "Lookin' 4 Pleasure",
+        "url": "https://open.spotify.com/album/40iGpxXRNe5Hx9K9ac26WF"
+      },
+      "artists": [
+        {
+          "name": "Dominic Sen",
+          "url": "https://open.spotify.com/artist/152t0HrYcs72GHrhM6x5gF"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219450,
+      "name": "Lookin' 4 Pleasure",
+      "url": "https://open.spotify.com/track/2zpFidqnzXMpzQCLTBHTtA"
+    },
+    {
+      "album": {
         "name": "Treasure",
         "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
@@ -3397,7 +3433,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 177200,
       "name": "Machote",
       "url": "https://open.spotify.com/track/2TqYC6Gn7vDhL8f2wWCYTB"
@@ -3691,7 +3727,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 274610,
       "name": "Morning Dew",
       "url": "https://open.spotify.com/track/4IU9uyvBToh2mtFEyiAdGk"
@@ -3763,7 +3799,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 189320,
       "name": "Mystery Boy",
       "url": "https://open.spotify.com/track/6ku5XgDT9HCf9s8Hw0nC66"
@@ -3799,7 +3835,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 266880,
       "name": "neverend",
       "url": "https://open.spotify.com/track/4uaaTw9zjr51URmFk3WTi3"
@@ -4183,7 +4219,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 58105,
       "name": "p i x e l a t e d",
       "url": "https://open.spotify.com/track/1vJcfFEpGBI1l2LNWnTUPJ"
@@ -4483,7 +4519,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 248698,
       "name": "Puppy",
       "url": "https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly"
@@ -4519,7 +4555,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 250924,
       "name": "Raising Hell",
       "url": "https://open.spotify.com/track/5q9F2CNzrrNQMM7l62S2c6"
@@ -4537,7 +4573,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 135703,
       "name": "rangerover - Bonus Track",
       "url": "https://open.spotify.com/track/2IM2fs9rVuDbqtuXpycvam"
@@ -4555,7 +4591,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 278316,
       "name": "Rare to Wake",
       "url": "https://open.spotify.com/track/77xwqK3T1aPiuyhUUYubVs"
@@ -4711,7 +4747,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 258969,
       "name": "Ribs",
       "url": "https://open.spotify.com/track/0TEekvXTomKt3hdXDZxxeW"
@@ -4791,7 +4827,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 300840,
       "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
       "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
@@ -5163,7 +5199,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 148955,
       "name": "Sour Switchblade",
       "url": "https://open.spotify.com/track/5qL1mKqNF8KhOnPuzSMfj9"
@@ -5199,7 +5235,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
@@ -6251,7 +6287,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 201239,
       "name": "WAKING UP DOWN",
       "url": "https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1"
@@ -6327,7 +6363,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 126151,
       "name": "Web",
       "url": "https://open.spotify.com/track/4C79MQWKw9ov99q8AXXBpe"
@@ -6439,7 +6475,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 150082,
       "name": "Why Can\u2019t I Let The Sun Set?",
       "url": "https://open.spotify.com/track/2IVkqHTRkzIgoW7bT6T1V0"
@@ -6533,7 +6569,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 149013,
       "name": "With You - Spotify Studio Oyster Recording",
       "url": "https://open.spotify.com/track/1gob2nlpbo0RwsjMMKlrKy"
@@ -6641,7 +6677,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 203325,
       "name": "Your World",
       "url": "https://open.spotify.com/track/6HaEWa2XBunQIjtTxcniNn"

@@ -1,12 +1,12 @@
 {
-  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Samuel Cipta. Artwork: Isu Kim.",
-  "num_followers": 58476,
+  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Radinal. Artwork: Isu Kim.",
+  "num_followers": 58483,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxNzM2MywwMDAwMDBmMjAwMDAwMTgwZGY4MzQzYzUwMDAwMDE4MGI3Njc5YmY3",
+  "snapshot_id": "MTY1MzA1NzIzNCwwMDAwMDBmNDAwMDAwMTgwZTFlM2E2YmIwMDAwMDE4MGUwYjMxY2Qw",
   "tracks": [
     {
       "added_at": "2022-05-12 17:00:00",
@@ -43,22 +43,18 @@
     {
       "added_at": "2022-05-19 23:32:54",
       "album": {
-        "name": "Cinta Pertama",
-        "url": "https://open.spotify.com/album/1QvlVzNUV18HfD0m6Ef9gy"
+        "name": "Bended Heart",
+        "url": "https://open.spotify.com/album/2phirIa8lcTiQOGf4dYtDY"
       },
       "artists": [
         {
-          "name": "Seterusunyi",
-          "url": "https://open.spotify.com/artist/4hdw2oTip0FIPxEZkq9fZf"
-        },
-        {
-          "name": "Vega Antares",
-          "url": "https://open.spotify.com/artist/3V2FnFodLNcHCTMDs2r7Y6"
+          "name": "Radinal",
+          "url": "https://open.spotify.com/artist/7jtCIfuhpqFUoFax7JE0Jg"
         }
       ],
-      "duration_ms": 301488,
-      "name": "Cinta Pertama",
-      "url": "https://open.spotify.com/track/1gI2xetuQPTvB2AAQ9WxtV"
+      "duration_ms": 192676,
+      "name": "Bended Heart",
+      "url": "https://open.spotify.com/track/7tl9i80HMYjfRPD7bGZJkh"
     },
     {
       "added_at": "2022-05-19 23:32:54",
@@ -79,6 +75,26 @@
     {
       "added_at": "2022-05-19 23:32:54",
       "album": {
+        "name": "Cinta Pertama",
+        "url": "https://open.spotify.com/album/1QvlVzNUV18HfD0m6Ef9gy"
+      },
+      "artists": [
+        {
+          "name": "Seterusunyi",
+          "url": "https://open.spotify.com/artist/4hdw2oTip0FIPxEZkq9fZf"
+        },
+        {
+          "name": "Vega Antares",
+          "url": "https://open.spotify.com/artist/3V2FnFodLNcHCTMDs2r7Y6"
+        }
+      ],
+      "duration_ms": 301488,
+      "name": "Cinta Pertama",
+      "url": "https://open.spotify.com/track/1gI2xetuQPTvB2AAQ9WxtV"
+    },
+    {
+      "added_at": "2022-05-19 23:32:54",
+      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/0FtkZKhfcd9dziXMei03TQ"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 226554,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/6oA7n0FESLUXrVFUkZ4Fqq"
-    },
-    {
-      "added_at": "2022-05-19 23:32:54",
-      "album": {
-        "name": "Bended Heart",
-        "url": "https://open.spotify.com/album/2phirIa8lcTiQOGf4dYtDY"
-      },
-      "artists": [
-        {
-          "name": "Radinal",
-          "url": "https://open.spotify.com/artist/7jtCIfuhpqFUoFax7JE0Jg"
-        }
-      ],
-      "duration_ms": 192676,
-      "name": "Bended Heart",
-      "url": "https://open.spotify.com/track/7tl9i80HMYjfRPD7bGZJkh"
     },
     {
       "added_at": "2022-05-20 03:29:23",
@@ -443,6 +443,22 @@
       "duration_ms": 244444,
       "name": "Jatuh Cinta",
       "url": "https://open.spotify.com/track/1G7zCTWeJHZyv8De4twDnD"
+    },
+    {
+      "added_at": "2022-05-20 14:33:54",
+      "album": {
+        "name": "Sahabat",
+        "url": "https://open.spotify.com/album/7tb884qcXx8BHm7q5H1wRP"
+      },
+      "artists": [
+        {
+          "name": "Calliope",
+          "url": "https://open.spotify.com/artist/3l4lqHUjnQIeYAEEIRhkjE"
+        }
+      ],
+      "duration_ms": 261275,
+      "name": "Sahabat",
+      "url": "https://open.spotify.com/track/19g1o4yS1VxpBJFtJVhacO"
     },
     {
       "added_at": "2022-05-19 23:32:54",

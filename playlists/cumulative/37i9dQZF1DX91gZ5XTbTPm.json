@@ -2718,6 +2718,28 @@
     },
     {
       "album": {
+        "name": "SOON (feat. Arabian)",
+        "url": "https://open.spotify.com/album/3k4S1TseIIgV3X1KE3GeDw"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Arabian",
+          "url": "https://open.spotify.com/artist/3CVIomosotXKy9Zrc7S6YB"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159104,
+      "name": "SOON (feat. Arabian)",
+      "url": "https://open.spotify.com/track/312YwRTzTE526nmuCaONji"
+    },
+    {
+      "album": {
         "name": "Southside",
         "url": "https://open.spotify.com/album/47q4TmKYULr0NfKmb1tdYD"
       },

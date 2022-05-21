@@ -2741,7 +2741,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 195216,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/3R1pvh7gQk6BVVKkJ68CLK"
@@ -3219,6 +3219,28 @@
       "duration_ms": 219428,
       "name": "Oldskool",
       "url": "https://open.spotify.com/track/3x34JXZdyZdkfEgkHT3eNC"
+    },
+    {
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/6SPxFAg03yuGVnoCE5AxvC"
+      },
+      "artists": [
+        {
+          "name": "G Jones",
+          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
+        },
+        {
+          "name": "Eprom",
+          "url": "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189737,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5mfwPQqeoP8jzGJCHwM3iF"
     },
     {
       "album": {
@@ -4324,6 +4346,28 @@
     },
     {
       "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/0j1JntUGndsVxvXu6DwvRg"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250276,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/5M6DnQMTwQs0CaNdz7yJ5d"
+    },
+    {
+      "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/0mfBVDHwB7RyTVTyndyv04"
       },
@@ -5091,7 +5135,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 234500,
       "name": "Underworld",
       "url": "https://open.spotify.com/track/3YxPfvBBeiPKhgeLVkVoKm"

@@ -4,7 +4,7 @@
 
 > Los lanzamientos latinos más destacados con Camilo.
 
-1,247 songs - 2 day 20 hr 13 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
+1,248 songs - 2 day 20 hr 17 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [El encendedor](https://open.spotify.com/track/1fFDLmWSAinxtyJi7NvmHq) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [El encendedor](https://open.spotify.com/album/6NcwUuStuoTfNkuoaPt7Ml) | 2:25 | 2022-05-20 |  |
 | [El G.O.A.T.](https://open.spotify.com/track/0gsXBDtQMWBJPpl58X2fNO) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [El G.O.A.T.](https://open.spotify.com/album/1qI8dDPrB4jO8JmfPigBBC) | 4:15 | 2022-04-01 | 2022-04-09 |
 | [El Heladero](https://open.spotify.com/track/5TdbBLZ9z35Fa5KIX6AE9p) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [El Heladero](https://open.spotify.com/album/1ys39pC3eBjoQz4fRfQnNy) | 2:47 | 2022-01-28 | 2022-02-05 |
+| [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 | 2022-05-20 |  |
 | [El Himno de Nosotros](https://open.spotify.com/track/0Ex5cmVTs8mBEDWtSfi8XM) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [El Himno de Nosotros](https://open.spotify.com/album/0Yg3S4PC0McwT8weJEhPtA) | 3:07 | 2022-02-11 | 2022-02-19 |
 | [El Ignorante](https://open.spotify.com/track/3KdbrghT4Y4uiCC5Bo2NCI) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl) | [El Ignorante](https://open.spotify.com/album/5s5OS8ox9J6dTzY2LY8A5a) | 4:04 | 2022-05-20 |  |
 | [El Imbécil del Año](https://open.spotify.com/track/0X7tBKF0PZNEPmNBT3dVFl) | [Dani Richani](https://open.spotify.com/artist/3k0vIDHDURVZoga1RNrqVL) | [El Imbécil del Año](https://open.spotify.com/album/2rrwKL0LJToDg7RORJ8gIA) | 3:36 | 2022-02-11 | 2022-02-19 |
@@ -620,7 +621,7 @@
 | [Lo Que Había Olvidado](https://open.spotify.com/track/4I6XQsgfGKBxyadO7JLjQL) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Lo Que Había Olvidado](https://open.spotify.com/album/4zwvvp5T1ecV8lyFQIIz23) | 2:58 | 2022-04-22 | 2022-04-29 |
 | [Lo Que un Hombre Debería Saber](https://open.spotify.com/track/6KR2BpnlHSze6xwPv1xQ4l) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Lo Que un Hombre Debería Saber](https://open.spotify.com/album/1IZhaCBrPtsLlESO9W4bWi) | 3:14 | 2022-03-18 | 2022-03-26 |
 | [Loco Por Perrearte](https://open.spotify.com/track/2KNeDbgymVCUJmP6PJQ4Bx) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Loco Por Perrearte](https://open.spotify.com/album/5dD5GnMkozTvrcsqD1T97a) | 3:14 | 2022-03-04 | 2022-03-12 |
-| [Lokotron](https://open.spotify.com/track/7iiGybCvvxewpa62bPhNzB) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Lokotron](https://open.spotify.com/album/2PIjuldxWvjGtpA9SiCYvM) | 3:33 | 2022-05-20 |  |
+| [Lokotron](https://open.spotify.com/track/7iiGybCvvxewpa62bPhNzB) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [Lokotron](https://open.spotify.com/album/2PIjuldxWvjGtpA9SiCYvM) | 3:33 | 2022-05-20 |  |
 | [Longe das Intrigas](https://open.spotify.com/track/5w5Ffx0F8Hpf3jlQq2mVoZ) | [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V), [DJ 900](https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI) | [Longe das Intrigas](https://open.spotify.com/album/6yz6uRUnih6ifPbSkVdrRN) | 4:56 | 2022-01-21 | 2022-01-29 |
 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 | 2022-01-21 | 2022-01-29 |
 | [Los Colores](https://open.spotify.com/track/4MthHEXftwrdJjHArQssDQ) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Los Colores](https://open.spotify.com/album/1Q8TR5FwkxgLFyiywuUFjw) | 2:33 | 2022-03-11 | 2022-03-18 |

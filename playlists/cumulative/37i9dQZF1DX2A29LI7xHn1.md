@@ -4,7 +4,7 @@
 
 > Crossing over like Allen I\. Cover: Jack Harlow
 
-224 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/2r5DE6CSqTiYmBM4pn2qN9)
+225 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/2r5DE6CSqTiYmBM4pn2qN9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Pressure](https://open.spotify.com/track/3JBmBqLAyDMjpV2d9uJOtj) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Pressure \(feat\. Calboy\)](https://open.spotify.com/album/4okum9iLn80uzpr7kys30k) | 3:01 | 2022-04-01 |  |
 | [Priority \(feat\. Blxst\)](https://open.spotify.com/track/2zLuU9Z2knPFDgH0036UCX) | [Jayson Cash](https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Priority \(feat\. Blxst\)](https://open.spotify.com/album/0FzjIRTPspZHuze8Y6towD) | 2:58 | 2021-09-03 | 2022-02-05 |
 | [PROBLEMS](https://open.spotify.com/track/049jORKYoPsyLsLnDhlthU) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [THE PRICE EP](https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS) | 3:10 | 2022-03-18 |  |
+| [Purple Hearts](https://open.spotify.com/track/401160izncPtca3CmX3dvM) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 5:29 | 2022-05-20 |  |
 | [Put You On](https://open.spotify.com/track/4dTsWY3ftctA0RKEQymnh1) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Put You On](https://open.spotify.com/album/4lPqGGHawhkuGYQAZWsDbw) | 2:55 | 2022-03-11 |  |
 | [Questions](https://open.spotify.com/track/7zRXkZJQJYuSIqqv7PaPvb) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith \(Deluxe\)](https://open.spotify.com/album/2N539CVAkXd9Jk722m1i6D) | 2:25 | 2021-09-03 | 2022-01-22 |
 | [R U That \(feat\. 21 Savage\)](https://open.spotify.com/track/4G9ASa9c5scdal2puHntMR) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [R U That \(feat\. 21 Savage\)](https://open.spotify.com/album/2R7eCne1bINTDfQpaQ0h8h) | 2:42 | 2022-02-18 |  |

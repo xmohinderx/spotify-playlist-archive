@@ -4,7 +4,7 @@
 
 > Today's top country hits of the week, worldwide! Cover: Zach Bryan
 
-519 songs - 1 day 3 hr 58 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
+520 songs - 1 day 4 hr 1 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Coulda Loved You Longer](https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Coulda Loved You Longer](https://open.spotify.com/album/5nwGL9nRvi6p5NVMiOSrLN) | 2:56 | 2021-06-26 | 2021-10-30 |
 | [Country Again](https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 3:41 | 2021-05-03 | 2021-10-09 |
 | [Country Again](https://open.spotify.com/track/3SR6R5XetNfOcVqvUwDkTz) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3BmHqsIguuZLlnRHq5bPmg) | 3:41 | 2021-04-24 | 2021-05-03 |
+| [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 | 2022-05-20 |  |
 | [Cross Country](https://open.spotify.com/track/2YgwcrRc33vIWgv5n2TNZ9) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/7jXPuZKd5DMTZGzwucgne4) | 3:26 | 2022-01-11 | 2022-03-12 |
 | [Damn Strait](https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Damn Strait](https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y) | 3:50 | 2022-04-15 |  |
 | [Dance with Me \(feat\. Thomas Rhett & Young Thug\)](https://open.spotify.com/track/6AoHQqGnuwFk9ygWhzLRws) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Diplo Presents Thomas Wesley Chapter 1: Snake Oil](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD) | 2:50 | 2020-06-14 | 2020-10-18 |

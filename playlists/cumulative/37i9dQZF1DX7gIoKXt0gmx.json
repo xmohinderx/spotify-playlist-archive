@@ -255,7 +255,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 183022,
       "name": "Around Me",
       "url": "https://open.spotify.com/track/7dQeS4ErW1iWvnKdrtKwKr"
@@ -321,6 +321,24 @@
       "duration_ms": 191237,
       "name": "Be the One - Remix",
       "url": "https://open.spotify.com/track/63BNGz21SvLvqmcPLXPDqr"
+    },
+    {
+      "album": {
+        "name": "Be This Way",
+        "url": "https://open.spotify.com/album/5umIrJ23D1iAko4lDnrbpr"
+      },
+      "artists": [
+        {
+          "name": "Luh Kel",
+          "url": "https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117491,
+      "name": "Be This Way",
+      "url": "https://open.spotify.com/track/698JiO0elk4iA7xOooPwQa"
     },
     {
       "album": {
@@ -415,7 +433,7 @@
       ],
       "date_added": "2020-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 223397,
       "name": "Between The Lines",
       "url": "https://open.spotify.com/track/1xVXwe9tzL11euCkfupQES"
@@ -625,7 +643,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 174004,
       "name": "CON TAL",
       "url": "https://open.spotify.com/track/6hvsPuihxUfnp6GARyAO3w"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2020-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 170248,
       "name": "Honest",
       "url": "https://open.spotify.com/track/7rezT408cCLBBr40Gvtg4J"
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 254526,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/4kBkD5qWlRlZXAYVSztETX"
@@ -1793,7 +1811,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 256733,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff"
@@ -3557,7 +3575,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 200359,
       "name": "Why",
       "url": "https://open.spotify.com/track/6VqQJ70rwAKKbRZf0wJLNu"

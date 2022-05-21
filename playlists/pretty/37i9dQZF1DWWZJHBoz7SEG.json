@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Harry Styles, Camilo, Morat y Duki; Ha*Ash, y m\u00e1s!",
-  "num_followers": 700539,
+  "num_followers": 701209,
   "original_name": "Novedades Viernes MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAyMjgwMCwwMDAwMDQyYTAwMDAwMTgwZGZkNjM5NjQwMDAwMDE4MGNmY2U1NTNj",
+  "snapshot_id": "MTY1MzA4NjU0NCwwMDAwMDQyYjAwMDAwMTgwZTNhMmUyMzYwMDAwMDE4MGNmY2U1NTNj",
   "tracks": [
     {
       "added_at": "2022-05-20 05:00:00",
@@ -329,6 +329,22 @@
       "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"
     },
     {
+      "added_at": "2022-05-20 22:42:24",
+      "album": {
+        "name": "Me Myself & I",
+        "url": "https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 177879,
+      "name": "Me Myself & I",
+      "url": "https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk"
+    },
+    {
       "added_at": "2022-05-20 05:00:00",
       "album": {
         "name": "The Club Is Jumpin'",
@@ -378,6 +394,10 @@
         {
           "name": "Nile Rodgers",
           "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Bim Amoako-Gyampah",
+          "url": "https://open.spotify.com/artist/5HbGyTf9SWq76VNWmirjqi"
         }
       ],
       "duration_ms": 221135,
@@ -466,9 +486,13 @@
         {
           "name": "Harry Nach",
           "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
         }
       ],
-      "duration_ms": 213843,
+      "duration_ms": 213913,
       "name": "Lokotron",
       "url": "https://open.spotify.com/track/7iiGybCvvxewpa62bPhNzB"
     },

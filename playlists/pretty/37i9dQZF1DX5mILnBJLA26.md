@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF?si=hr\_9xbFrTJOSLaoiXDf8Pg">Blaqnick</a> and <a href="https://open.spotify.com/artist/2YaMctZMRwW4wYlkvwLKA9?si=uzD9I4cLSJemHWdudbUf8w">MasterBlaq</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,808 likes - 80 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,243 likes - 80 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

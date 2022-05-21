@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-262 songs - 15 hr 47 min - [published](https://open.spotify.com/playlist/23uPhg0unMx8Dcx0mMIjvq)
+263 songs - 15 hr 50 min - [published](https://open.spotify.com/playlist/23uPhg0unMx8Dcx0mMIjvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [Remedi](https://open.spotify.com/track/1kAQQKREO1mXYy2Qy7H9td) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:07 | 2022-03-06 | 2022-03-17 |
 | [Resah Jadi Luka](https://open.spotify.com/track/2sULdMKWdBdK2ZtntuFvSb) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Resah Jadi Luka](https://open.spotify.com/album/3gUZpvR4h9ErseH3AzaHJL) | 4:50 | 2021-04-04 | 2021-04-09 |
 | [Resah Jadi Luka](https://open.spotify.com/track/3a0BOn9fWnTCUqWpqE71Bb) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Resah Jadi Luka](https://open.spotify.com/album/4dqu6kFP34VzCBQUeEdc11) | 4:50 | 2021-03-27\* | 2021-04-04 |
-| [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 | 2022-05-14 |  |
+| [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 | 2022-05-14 | 2022-05-21 |
+| [RIP, Love](https://open.spotify.com/track/4pDenOoD01LCPgkzJgu437) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [CITIZENS](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) | 2:53 | 2022-05-20 |  |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-10-23 | 2021-10-24 |
 | [Rocket](https://open.spotify.com/track/2hr3geQBSViX9Oi2OsnY3c) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 2:55 | 2021-05-12 | 2021-05-14 |
 | [Roman Picisan](https://open.spotify.com/track/47SkuKc4Po0JInI0JTtO61) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm) | [Roman Picisan](https://open.spotify.com/album/44cPwHYWVAm8DQruNmojpu) | 5:01 | 2021-12-24 | 2022-03-06 |

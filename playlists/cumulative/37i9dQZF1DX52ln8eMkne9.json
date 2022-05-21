@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 157293,
       "name": "A Bad Case Of The Blues",
       "url": "https://open.spotify.com/track/6Mdh8mHdajX5slhofHJkKB"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 256868,
       "name": "Better Things",
       "url": "https://open.spotify.com/track/5PJcygObRXafSPuYnND4kM"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 195133,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/65Dm4aRthohlvuuyKVydIu"
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 296066,
       "name": "Folks Who Live On The Hill",
       "url": "https://open.spotify.com/track/1t0sRkXJIokqpl8tMVLtIW"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 232900,
       "name": "For Heaven's Sake",
       "url": "https://open.spotify.com/track/3NaF1j4g2YbKcd2YkMZCzA"
@@ -1109,7 +1109,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 181133,
       "name": "For The Want Of A Kiss - Live",
       "url": "https://open.spotify.com/track/4ikX1d0yCV4WG9lPfBlCVX"
@@ -2063,7 +2063,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 316453,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
@@ -2361,7 +2361,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 192531,
       "name": "My True Love Is You",
       "url": "https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC"
@@ -2521,7 +2521,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 311906,
       "name": "One For My Baby",
       "url": "https://open.spotify.com/track/3tH1hpTg9fBtuvX1ghzNON"
@@ -2675,7 +2675,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 284680,
       "name": "Quintessence",
       "url": "https://open.spotify.com/track/4dUVpbIu8FW7R76gejw3cq"
@@ -3027,7 +3027,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 216693,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/1vP1wALSlgUUhaSfQnF9bZ"
@@ -3263,7 +3263,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 263026,
       "name": "They Say It's Wonderful",
       "url": "https://open.spotify.com/track/7c7LB2gAiXKssztP4DJMFo"
@@ -3667,7 +3667,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 250500,
       "name": "Will I Find",
       "url": "https://open.spotify.com/track/34Qfsdz0oLWpI0E9Z64Ps1"
@@ -3701,6 +3701,24 @@
       "duration_ms": 270000,
       "name": "With You",
       "url": "https://open.spotify.com/track/2ZKc7hQb9ZmC1N44viyo1J"
+    },
+    {
+      "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M"
+      },
+      "artists": [
+        {
+          "name": "Hila Hutmacher",
+          "url": "https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399723,
+      "name": "You Go to My Head",
+      "url": "https://open.spotify.com/track/2pbIJmUuLTgQhiyQxrZYJG"
     },
     {
       "album": {

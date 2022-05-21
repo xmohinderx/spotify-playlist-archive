@@ -177,7 +177,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 149591,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/1DYkx7Ih4W0tM3g8YqEIRx"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 130500,
       "name": "All Gas",
       "url": "https://open.spotify.com/track/1xkiDuGoETfVPuSmeSbVeZ"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 190431,
       "name": "Always Gone",
       "url": "https://open.spotify.com/track/52BkYsHTo4P33h7UrkbdUx"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 169483,
       "name": "Coffee And Drugs (ft. TIMMS)",
       "url": "https://open.spotify.com/track/5oTOGML1wjn4Hj45oVr6si"
@@ -2629,7 +2629,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 196535,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/4JzTQFJ4kFG1Tqol1DkFoZ"
@@ -3248,6 +3248,28 @@
     },
     {
       "album": {
+        "name": "Lollipop",
+        "url": "https://open.spotify.com/album/0UadnS4IYqzs6M7zjEHFjh"
+      },
+      "artists": [
+        {
+          "name": "CryJaxx",
+          "url": "https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9"
+        },
+        {
+          "name": "Justtjokay",
+          "url": "https://open.spotify.com/artist/4AsEwe2pYHpTM6xB5KAa2y"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179564,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/2n0SIqBGZcgC0Eub8nlutu"
+    },
+    {
+      "album": {
         "name": "Looking for Gold",
         "url": "https://open.spotify.com/album/0S8OhiTIgdSPbI54hPOpP2"
       },
@@ -3816,6 +3838,32 @@
     },
     {
       "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/2gF6P2aRu3LoEU6svpKDkZ"
+      },
+      "artists": [
+        {
+          "name": "EBEN",
+          "url": "https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak"
+        },
+        {
+          "name": "Tim Beeren",
+          "url": "https://open.spotify.com/artist/04H4Esj5jxaThmH3mcL2Aa"
+        },
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171533,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/68gOl0AjNwKUF7uvGKwhBm"
+    },
+    {
+      "album": {
         "name": "Nightmares",
         "url": "https://open.spotify.com/album/7coKFIZ84uHdwCYjnpzv9h"
       },
@@ -4367,6 +4415,32 @@
       "duration_ms": 118356,
       "name": "Poison",
       "url": "https://open.spotify.com/track/6ldRQwf4NKkAqvVbKGwhxu"
+    },
+    {
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/44ESvM4YLT7AulEbhoXg75"
+      },
+      "artists": [
+        {
+          "name": "DaWave",
+          "url": "https://open.spotify.com/artist/08jQkfZ4SwCcuK32awx5Fu"
+        },
+        {
+          "name": "Skrybe",
+          "url": "https://open.spotify.com/artist/51TcqE7roc5c4PWG4A4GIX"
+        },
+        {
+          "name": "Lena Luisa",
+          "url": "https://open.spotify.com/artist/3m5gh8cCnoXc0qUe6wukid"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251785,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5jL2AUhdKcZFhUAKYcy8gp"
     },
     {
       "album": {
@@ -6327,6 +6401,32 @@
       "duration_ms": 224938,
       "name": "You Left Behind",
       "url": "https://open.spotify.com/track/4pDrjPW3XOx4sNSNjpJFNR"
+    },
+    {
+      "album": {
+        "name": "You Right (feat Tommy Rage)",
+        "url": "https://open.spotify.com/album/0w536ITKmpuTd0TAhEPf1y"
+      },
+      "artists": [
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        },
+        {
+          "name": "John Kroon",
+          "url": "https://open.spotify.com/artist/1dS74ewrbbEEDYoyUTitml"
+        },
+        {
+          "name": "Polina Grace",
+          "url": "https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "You Right (feat Tommy Rage)",
+      "url": "https://open.spotify.com/track/13NgfgB3G5JMnXztqZ3Eoh"
     },
     {
       "album": {

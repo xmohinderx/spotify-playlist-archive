@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWSGWRWu30rg7)
 
-> Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Samuel Cipta\. Artwork: Isu Kim.
+> Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Radinal\. Artwork: Isu Kim.
 
-671 songs - 1 day 17 hr 5 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+672 songs - 1 day 17 hr 10 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [SADly](https://open.spotify.com/track/7JNaVIJXpA7DYtUix3YB4r) | [yuandirty](https://open.spotify.com/artist/5ijgD6jZ7Xn1ofH75kQtsQ), [Boodles](https://open.spotify.com/artist/3CsMZm9r0IwASsDPnhpYdi) | [SADly](https://open.spotify.com/album/1S6n39Lq2VMmdN3k0dVhxp) | 3:12 | 2022-04-07 | 2022-04-22 |
 | [Safari Plaza Rasa](https://open.spotify.com/track/0Bltk730dS7NldllJceHiL) | [Binar](https://open.spotify.com/artist/0Q0tNebCddkZXmn5MQBCol) | [Safari Plaza Rasa](https://open.spotify.com/album/5yxow2fSw8Usl3uyGYI3Fc) | 3:27 | 2022-01-06 | 2022-01-14 |
 | [SAFE AND SOUND](https://open.spotify.com/track/5fhTWpTBNoldj6nqjzPAmD) | [Alfariizi](https://open.spotify.com/artist/3wwrcxReRFc2KndpFRWWKi) | [SAFE AND SOUND](https://open.spotify.com/album/4CaUlpCHXcTr4QnyG7PXTN) | 3:39 | 2022-04-07 | 2022-04-22 |
+| [Sahabat](https://open.spotify.com/track/19g1o4yS1VxpBJFtJVhacO) | [Calliope](https://open.spotify.com/artist/3l4lqHUjnQIeYAEEIRhkjE) | [Sahabat](https://open.spotify.com/album/7tb884qcXx8BHm7q5H1wRP) | 4:21 | 2022-05-20 |  |
 | [Sahabat Yang Di Sana](https://open.spotify.com/track/5b857o3dghGQVSxIQzzj2w) | [Attar & Rahel](https://open.spotify.com/artist/5R1zwGQWctXI4QxZpWU5O6), [Nesia Ardi](https://open.spotify.com/artist/5qmSZ1mubcNpvbmimc4FAu) | [Attar & Rahel](https://open.spotify.com/album/55Vl6UqK2kP1VQ1q2ZB89p) | 4:06 | 2022-01-27 | 2022-02-11 |
 | [Salah Memilih](https://open.spotify.com/track/1grRcGNXmnvD13kKh9G4KJ) | [DNANDA](https://open.spotify.com/artist/45llK0vUDYIrW1vz7fv1Ti) | [Salah Memilih](https://open.spotify.com/album/3C92MtWy0dumaEN5IaXCsM) | 4:44 | 2022-02-17 | 2022-03-05 |
 | [Saling Menjaga Hati](https://open.spotify.com/track/0KUdCGLXxRWUhO24wTKkql) | [Michela Thea](https://open.spotify.com/artist/1G9pZxYP9Uf6bAWGUdcYS7) | [Saling Menjaga Hati](https://open.spotify.com/album/5HQ4YZkttD7EzP2XopC0DQ) | 3:44 | 2022-01-27 | 2022-02-11 |

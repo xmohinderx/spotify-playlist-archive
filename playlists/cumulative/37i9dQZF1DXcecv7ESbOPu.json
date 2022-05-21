@@ -13680,6 +13680,28 @@
     },
     {
       "album": {
+        "name": "ep med e4an",
+        "url": "https://open.spotify.com/album/6twwDTYPvpwXonouvR4ltf"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        },
+        {
+          "name": "E4an",
+          "url": "https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177062,
+      "name": "flygplansl\u00e4ge",
+      "url": "https://open.spotify.com/track/2TcAeEJb8CKeRml6SSwmJf"
+    },
+    {
+      "album": {
         "name": "(watch my moves)",
         "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
       },
@@ -30789,6 +30811,10 @@
         {
           "name": "Nile Rodgers",
           "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Bim Amoako-Gyampah",
+          "url": "https://open.spotify.com/artist/5HbGyTf9SWq76VNWmirjqi"
         }
       ],
       "date_added": "2022-05-19",
@@ -36411,7 +36437,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 260466,
       "name": "Snake Oil",
       "url": "https://open.spotify.com/track/0E4lvW9ut51A722HehV2dw"
@@ -37233,6 +37259,24 @@
       "duration_ms": 251566,
       "name": "Spectacle",
       "url": "https://open.spotify.com/track/5Nx50OXz1e3q7M1jLdnjvH"
+    },
+    {
+      "album": {
+        "name": "Filthy Boogie",
+        "url": "https://open.spotify.com/album/18Ug82bAlYosrIH8urKNeS"
+      },
+      "artists": [
+        {
+          "name": "Diskopunk",
+          "url": "https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252720,
+      "name": "Speed of a Drum",
+      "url": "https://open.spotify.com/track/6qBb2JmdGNWiWkcRlafGR9"
     },
     {
       "album": {
@@ -44854,7 +44898,7 @@
     },
     {
       "album": {
-        "name": "Emotionally Unavailable",
+        "name": "emotionally unavailable",
         "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
       },
       "artists": [

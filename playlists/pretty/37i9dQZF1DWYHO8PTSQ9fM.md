@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > Les hits Maghrébins du moment sont ici\. Cover : Marwa Loud & Moha K.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,583 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,232 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 |
-| 2 | [MAAK](https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAAK](https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y) | 3:24 |
-| 3 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 |
-| 4 | [Habibi \- Albanian Remix](https://open.spotify.com/track/2sHYMLUd4nVLxHPKY05Ein) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [DJ Gimi\-O](https://open.spotify.com/artist/5lU3mLIonARnLpRtp5f77M) | [Habibi \(Albanian Remix\)](https://open.spotify.com/album/3WOsyRdlR3qA5BhKW3Ffkj) | 2:09 |
+| 2 | [Habibi \- Albanian Remix](https://open.spotify.com/track/2sHYMLUd4nVLxHPKY05Ein) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [DJ Gimi\-O](https://open.spotify.com/artist/5lU3mLIonARnLpRtp5f77M) | [Habibi \(Albanian Remix\)](https://open.spotify.com/album/3WOsyRdlR3qA5BhKW3Ffkj) | 2:09 |
+| 3 | [MAAK](https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAAK](https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y) | 3:24 |
+| 4 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 |
 | 5 | [Hiya Hiya](https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE) | 3:37 |
 | 6 | [Magic](https://open.spotify.com/track/7ckHoMRErhCP9QMqGRPnLv) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/7A52XPHtuD0dvuwMzV52qN) | 3:04 |
 | 7 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 49 | [Panamera](https://open.spotify.com/track/4KoiLBOLPnSERA0apY9y1I) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Panamera](https://open.spotify.com/album/4LNkYBGVRC7F3VjeEqQsRr) | 2:39 |
 | 50 | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/track/0XnvKbl68rDvXAI4uOU8rk) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/album/48OejE1iLW3oJeoA1g8xDI) | 2:52 |
 
-Snapshot ID: `MTY1Mjk1NzU0OSwwMDAwMDE1NDAwMDAwMTgwZGJmMjk1MzQwMDAwMDE4MGI3NjllOGU2`
+Snapshot ID: `MTY1MzA1NTA5NCwwMDAwMDE1NjAwMDAwMTgwZTFjMzAwNDEwMDAwMDE4MGI3NjllOGU2`

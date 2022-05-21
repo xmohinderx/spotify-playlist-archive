@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 196786,
       "name": "Anymore (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 186373,
       "name": "Bad Guy",
       "url": "https://open.spotify.com/track/673ubniw51MnNmQt6eX8ba"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 179250,
       "name": "cold feet",
       "url": "https://open.spotify.com/track/16Q5CS1hO8nTybYOj4ibsP"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 251571,
       "name": "Consentida (Feat. Kat Dahlia)",
       "url": "https://open.spotify.com/track/0zfARgJv86XwO9sjrDs4uq"
@@ -578,6 +578,24 @@
     },
     {
       "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199280,
+      "name": "DOLORES",
+      "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
+    },
+    {
+      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/295wDTQXatb4fOeVpv9mlt"
       },
@@ -611,7 +629,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 196586,
       "name": "En Mi Cuarto",
       "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
@@ -633,7 +651,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 215404,
       "name": "Enchulao",
       "url": "https://open.spotify.com/track/3HaTdgWD41zkYPHZMNuQ0V"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 219448,
       "name": "GRACIAS POR NADA",
       "url": "https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ"
@@ -981,7 +999,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 173156,
       "name": "IDWLH (I Don't Wanna Love Him)",
       "url": "https://open.spotify.com/track/4n3tQbaHw7Zb7gvszXxOXX"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 159306,
       "name": "Kelede",
       "url": "https://open.spotify.com/track/0ZZdfogjRhEGVI0ouw35tL"
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 141864,
       "name": "La Trampa es Ley",
       "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 185466,
       "name": "Melodrama",
       "url": "https://open.spotify.com/track/4ffdk7DakcW71stgcXT1wA"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 151428,
       "name": "Pari\u0301s",
       "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 175157,
       "name": "Perderme",
       "url": "https://open.spotify.com/track/5gLoTFuCSYGuheRnnYNT90"
@@ -1699,7 +1717,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 183529,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/3ZuFInBcAYRuRzoresTxCW"
@@ -1761,7 +1779,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 208788,
       "name": "Roto",
       "url": "https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4"
@@ -1913,7 +1931,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 176666,
       "name": "The 1",
       "url": "https://open.spotify.com/track/4RZyqmqauYuQlvB4NfElJc"
@@ -2007,7 +2025,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 157333,
       "name": "Vente A Mi (feat. Jeuru)",
       "url": "https://open.spotify.com/track/2JSYuVXVDnKgHVhVqv6gSP"
@@ -2051,7 +2069,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 206946,
       "name": "What You Did (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"

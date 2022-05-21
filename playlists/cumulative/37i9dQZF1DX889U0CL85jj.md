@@ -4,7 +4,7 @@
 
 > Just chill...
 
-257 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+258 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [SG Lou](https://open.spotify.com/track/2fkWyHBfRt87VD2Iilb6AM) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [SG Lou](https://open.spotify.com/album/1jBjIutXhOUYpAWrveficC) | 3:52 | 2020-08-21 | 2022-01-22 |
 | [Simple, Sweet, and Smiling](https://open.spotify.com/track/2uKrEaRWif9zGGZpwtkAfh) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Simple, Sweet, and Smiling](https://open.spotify.com/album/1nIvucMZCDVpILHipWqVHY) | 4:06 | 2021-11-19 |  |
 | [Sleep Away](https://open.spotify.com/track/0yI8QQG8rKIYMMdIUJsllk) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Sleep Away](https://open.spotify.com/album/0tQqgQO6zTnyUo12ALFtDF) | 3:01 | 2021-11-19 |  |
+| [Slide](https://open.spotify.com/track/6adAK9A3HRPGTKAYs6zbIQ) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Sad 2 / Slide](https://open.spotify.com/album/0tPCPMSlM6VHdW0XHtyJ5i) | 1:00 | 2022-05-20 |  |
 | [Slipping Away](https://open.spotify.com/track/0BCPHe2assdUDijB5gUuCU) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Slipping Away](https://open.spotify.com/album/6udWhj8k7YdjygeAl0HE0S) | 3:55 | 2020-06-26 |  |
 | [Slowdiving](https://open.spotify.com/track/4oqyzxXvzHTptWo5l2tlpz) | [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [Hundred Fifty Roses](https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR) | 3:14 | 2022-04-29 |  |
 | [Sober](https://open.spotify.com/track/2lQv5l2Bmf7hYyYwjNe2lC) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober](https://open.spotify.com/album/7qM4xyGyZdO6K2r2k7Lz7V) | 3:19 | 2020-03-26 | 2022-01-22 |
@@ -232,7 +233,7 @@
 | [There's No Other](https://open.spotify.com/track/4715EDyKjQ9UhAV0vLlo0U) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS), [Westerns](https://open.spotify.com/artist/4dYYNJWW0gqWLVGIfrxEsl) | [There's No Other](https://open.spotify.com/album/064lwS8gemYnNBWv5W9qib) | 3:02 | 2020-04-24 | 2022-01-22 |
 | [Thoughts](https://open.spotify.com/track/2jm0S3dMxpAz5H59z4lOJH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Thoughts](https://open.spotify.com/album/3XFWmmwiJR0i7WnHDvgten) | 3:05 | 2019-06-26 | 2022-01-22 |
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2021-11-19 |  |
-| [Till It Happens To You](https://open.spotify.com/track/4Eq60oypgAxlX6Kp7MFQl6) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 4:38 | 2020-09-21 |  |
+| [Till It Happens To You](https://open.spotify.com/track/4Eq60oypgAxlX6Kp7MFQl6) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 4:38 | 2020-09-21 | 2022-05-21 |
 | [Time Moves Slow](https://open.spotify.com/track/1I40L32fTSSkBkPeArX9Ul) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/68HLpLmCtvFKUqwQpUCqwn) | 4:33 | 2021-06-09 |  |
 | [Toking, Dozing](https://open.spotify.com/track/25uVLrUrzXnqjDHoyX3bCY) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Toking, Dozing](https://open.spotify.com/album/30aPHVy3HJiFXkeDJetqTL) | 3:46 | 2020-02-28 | 2022-01-22 |
 | [Toroka](https://open.spotify.com/track/6RMltEudPPFoJuUoshxRBB) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Toroka](https://open.spotify.com/album/4ygUCm61U3CV3xnJepGieC) | 3:22 | 2022-04-29 |  |

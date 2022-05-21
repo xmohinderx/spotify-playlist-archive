@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaENnZYiwROL.md) - [plain]
 
 > Enjoy the OSTs of Disney+'s   original drama "Rookie Cops" along with Spotify\-exclusive audio content\. \(디즈니+의 오리지널 드라마 "너와 나의 경찰수업"의 OST들을 스포티파이 독점 오디오 컨텐츠와 함께 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,342 likes - 61 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,355 likes - 61 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kang Daniel's favorite track on 'Rookie Cops' Soundtrack](https://open.spotify.com/track/68hgaJnRf3mcAZBH8gqd1X) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Kang Daniel on "Rookie Cops"](https://open.spotify.com/album/2CVW1Lg13V51Yu9fe7tzlv) | 0:30 |
 | 2 | [Because of You](https://open.spotify.com/track/17fIMTBwizZ6wjxYHyG9Z0) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [Rookie Cops \(Original Television Soundtrack\)](https://open.spotify.com/album/3spwTR4Shxlt9aqnPaKObr) | 3:32 |
 | 3 | [Police Class](https://open.spotify.com/track/6JgJwbIjccbiIqzDU6Xzoz) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Rookie Cops \(Original Television Soundtrack\)](https://open.spotify.com/album/3spwTR4Shxlt9aqnPaKObr) | 3:31 |
-| 4 | [My Sunlight](https://open.spotify.com/track/3bBTJQvRHa6HUDPMje4PHZ) | [Ha Hyun sang](https://open.spotify.com/artist/5MZ9wdwcm3LG1eICQUZx12) | [Rookie Cops \(Original Television Soundtrack\)](https://open.spotify.com/album/3spwTR4Shxlt9aqnPaKObr) | 3:06 |
+| 4 | [My Sunlight](https://open.spotify.com/track/3bBTJQvRHa6HUDPMje4PHZ) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Rookie Cops \(Original Television Soundtrack\)](https://open.spotify.com/album/3spwTR4Shxlt9aqnPaKObr) | 3:06 |
 | 5 | [TIME](https://open.spotify.com/track/1trfD0ZvHoNyjHYB4ozKy7) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Rookie Cops \(Original Television Soundtrack\)](https://open.spotify.com/album/3spwTR4Shxlt9aqnPaKObr) | 3:19 |
 | 6 | [What A Wonderful Day](https://open.spotify.com/track/4nmWZFAcHQgeD07p6x3qkT) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Rookie Cops \(Original Television Soundtrack\)](https://open.spotify.com/album/3spwTR4Shxlt9aqnPaKObr) | 3:43 |
 | 7 | [Hush Hush \- Korean Version](https://open.spotify.com/track/5A6ZqN1lrP0IT9s0p5LQAf) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Rookie Cops \(Original Television Soundtrack\)](https://open.spotify.com/album/3spwTR4Shxlt9aqnPaKObr) | 3:01 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaENnZYiwROL.md) - [plain]
 | 16 | [Kang Daniel on living as Wi Seung\-Hyun](https://open.spotify.com/track/7HLcFGccAfKR2nltuKMRjz) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Kang Daniel on "Rookie Cops"](https://open.spotify.com/album/6jeWY7K2HyyxJzPRpiIzaF) | 0:25 |
 | 17 | [Because of You \- Instrumental](https://open.spotify.com/track/0zI2jvrYXVjI9fqytM62DK) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [Rookie Cops \(Original Television Soundtrack\)](https://open.spotify.com/album/3spwTR4Shxlt9aqnPaKObr) | 3:32 |
 | 18 | [Police Class \- Instrumental](https://open.spotify.com/track/4dqQKWWqgcaBxM1CwMY1YQ) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Rookie Cops \(Original Television Soundtrack\)](https://open.spotify.com/album/3spwTR4Shxlt9aqnPaKObr) | 3:31 |
-| 19 | [My Sunlight \- Instrumental](https://open.spotify.com/track/5cb87XK3VS1Z3YlzPKA0xp) | [Ha Hyun sang](https://open.spotify.com/artist/5MZ9wdwcm3LG1eICQUZx12) | [Rookie Cops \(Original Television Soundtrack\)](https://open.spotify.com/album/3spwTR4Shxlt9aqnPaKObr) | 3:06 |
+| 19 | [My Sunlight \- Instrumental](https://open.spotify.com/track/5cb87XK3VS1Z3YlzPKA0xp) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Rookie Cops \(Original Television Soundtrack\)](https://open.spotify.com/album/3spwTR4Shxlt9aqnPaKObr) | 3:06 |
 | 20 | [TIME \- Instrumental](https://open.spotify.com/track/4LGGJKhBNMgpkEV477x7p7) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Rookie Cops \(Original Television Soundtrack\)](https://open.spotify.com/album/3spwTR4Shxlt9aqnPaKObr) | 3:19 |
 | 21 | [What A Wonderful Day \- Instrumental](https://open.spotify.com/track/3SNdDncnIPUjFXUJmwHBcr) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Rookie Cops \(Original Television Soundtrack\)](https://open.spotify.com/album/3spwTR4Shxlt9aqnPaKObr) | 3:43 |
 | 22 | [Hush Hush \- Instrumental](https://open.spotify.com/track/0bTVsHXz1Zd13ZhCls4fDg) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Rookie Cops \(Original Television Soundtrack\)](https://open.spotify.com/album/3spwTR4Shxlt9aqnPaKObr) | 2:59 |

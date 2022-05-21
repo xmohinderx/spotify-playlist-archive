@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Jumpin' Off",
+        "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325800,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
+    },
+    {
+      "album": {
         "name": "Keepin' It Cool",
         "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
       },
@@ -557,7 +575,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 241306,
       "name": "Givin' It Up",
       "url": "https://open.spotify.com/track/39ex82ihu7ZSBIW7zFTA4P"
@@ -629,7 +647,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 304653,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/5qsm0eGh4vPXOOEKNrH6cX"
@@ -777,7 +795,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 322306,
       "name": "In The City",
       "url": "https://open.spotify.com/track/5sjpxYrH0KVtDs6mWGbY7C"
@@ -795,7 +813,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 332920,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN"
@@ -831,7 +849,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 245253,
       "name": "Kicks",
       "url": "https://open.spotify.com/track/2DRXRN3kBgwGYZtLc5yFcM"
@@ -964,6 +982,24 @@
     },
     {
       "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247746,
+      "name": "Mallorca",
+      "url": "https://open.spotify.com/track/5AJjIjpa2eFM7HH1IAlDoN"
+    },
+    {
+      "album": {
         "name": "Traveler",
         "url": "https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO"
       },
@@ -993,7 +1029,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 320733,
       "name": "Midnight At The Oasis",
       "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
@@ -1549,10 +1585,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 301933,
       "name": "Tell Me So",
       "url": "https://open.spotify.com/track/1xIfnVs8j4QfY91Un3rxvE"
+    },
+    {
+      "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/0L3yaukGbiP8X9BGHMGNOt"
+      },
+      "artists": [
+        {
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289813,
+      "name": "The Only One For Me",
+      "url": "https://open.spotify.com/track/1dBhgZ40Qf8EVTZ61prtIJ"
     },
     {
       "album": {
@@ -1733,7 +1787,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 222706,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/5dKyIGGTiQ8xqyvhHfg1Sf"
@@ -1769,7 +1823,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 240960,
       "name": "What Cha Gonna Do?",
       "url": "https://open.spotify.com/track/2RMl0c68DWw6zamWB6R1Ce"
@@ -1823,7 +1877,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 259920,
       "name": "Where's The Love Gone?",
       "url": "https://open.spotify.com/track/6BkBYpNKJV3r43mryfkmDR"
@@ -1899,7 +1953,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 273053,
       "name": "Wonderful Tonight",
       "url": "https://open.spotify.com/track/2H26ZEY1lP9uA1JTERztmg"

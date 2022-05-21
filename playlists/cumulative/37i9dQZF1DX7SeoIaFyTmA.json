@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 369120,
       "name": "Aguanile",
       "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 305066,
       "name": "Dile A Ella",
       "url": "https://open.spotify.com/track/45nyOQWvhjn9bfAoTIKCuJ"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 160115,
       "name": "El Watusi",
       "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 386853,
       "name": "La Cartera",
       "url": "https://open.spotify.com/track/1mpKcP8f2gQrInkh2FLb1N"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 327666,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/7dC0ojtXZWBD6vIOD42AYT"
@@ -1263,7 +1263,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 326160,
       "name": "Parece Mentira",
       "url": "https://open.spotify.com/track/1ACM4nDDjhWxMhy0WoWG7J"
@@ -1307,7 +1307,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 445080,
       "name": "Pedro Navaja",
       "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
@@ -1347,7 +1347,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 401786,
       "name": "Plastico",
       "url": "https://open.spotify.com/track/1r1eiM9qXEdvteunOAslIW"
@@ -1430,6 +1430,56 @@
     },
     {
       "album": {
+        "name": "A Band And Their Music: Campeones",
+        "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        },
+        {
+          "name": "Santos Col\u00f3n",
+          "url": "https://open.spotify.com/artist/3RTLdhg8OTJebOdXZ1oQsz"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331720,
+      "name": "Qu\u00edtate T\u00fa - Live",
+      "url": "https://open.spotify.com/track/1rijHA5veEZDV5CrGLpex6"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/30Ziol0mrhnRTBaPhGDMZY"
       },
@@ -1441,7 +1491,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 331253,
       "name": "Senor Sereno",
       "url": "https://open.spotify.com/track/4CxDqPmmkDdnlrnkjbXYhm"

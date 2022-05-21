@@ -4,7 +4,7 @@
 
 > Home to english South Asian tracks, acclaimed worldwide \- Cover: Joy Crookes
 
-104 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
+107 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,12 +52,14 @@
 | [january](https://open.spotify.com/track/3G1x64pVpHhi0EkjmL9OJ8) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [january](https://open.spotify.com/album/4K5DDarPbyB6zkYSGDxT8p) | 2:36 | 2021-11-10 |  |
 | [Just for You](https://open.spotify.com/track/4yRCn5EqEVrcTbzfvulnSR) | [RAJAN](https://open.spotify.com/artist/1TwXokfbAj2rmDarneyVu3) | [Just for You](https://open.spotify.com/album/3uZqhyBi5NS2sK6Zs0tqYu) | 2:33 | 2021-11-10 |  |
 | [Kill Me Slowly](https://open.spotify.com/track/3ZgC8QbdvmjFSzAbz7DWFl) | [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Kill Me Slowly](https://open.spotify.com/album/0MpNjsQJ1xnfSs61rP92zH) | 3:03 | 2021-11-10 |  |
+| [Kind of Funny](https://open.spotify.com/track/6Xt7ty29yp1BaySlwlyO1n) | [The LJ](https://open.spotify.com/artist/59iMrqhx3qr6U7343wM1Fc) | [Kind of Funny](https://open.spotify.com/album/5dgmfDEJDva4d7tXgQueB2) | 2:56 | 2022-05-20 |  |
 | [Kissing Mouths](https://open.spotify.com/track/2ahVlPHe8XlXKFjL2zZLPD) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Not Famous](https://open.spotify.com/artist/2iKfppgaY3Er8HpZWh4rBt) | [Kissing Mouths](https://open.spotify.com/album/3yROkD3HX0bwrEkVtHcPzJ) | 2:44 | 2021-11-10 |  |
 | [Language](https://open.spotify.com/track/4jYaLlkdNs18aEqzLbcsuO) | [TRISHES](https://open.spotify.com/artist/0d1RPfhDi7ARWCvGzh2dvY) | [Ego](https://open.spotify.com/album/01IZlstPyzDERqIMYH78j5) | 3:33 | 2021-11-10 |  |
 | [Lay It Down](https://open.spotify.com/track/0dxAvCV7LGcGIJQZuqhmgL) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 4:24 | 2021-11-10 |  |
 | [Live Forever,](https://open.spotify.com/track/1A6jNszFzUfB2MwpaGzh5S) | [Savv](https://open.spotify.com/artist/722HuYcVlKSpnflkmWlr0U) | [Live Forever,](https://open.spotify.com/album/1QKD5l3pq4cBHWAuhtVFfe) | 2:23 | 2021-11-10 |  |
 | [London Mine](https://open.spotify.com/track/6vUIyI8EelA0GVKcwXOoai) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [London Mine](https://open.spotify.com/album/75Rq7SgoaIrr1CFQzUR7Nt) | 3:43 | 2021-11-10 |  |
 | [Love Thing](https://open.spotify.com/track/78TKGVxtnLNEn26m3FEk1S) | [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Love Thing](https://open.spotify.com/album/4XJo3d8fB1yHEU1TaweCWs) | 3:51 | 2021-11-10 |  |
+| [Love to the Fiends](https://open.spotify.com/track/01poU2k8Q1Nj29X2Xrk958) | [Shaker The Baker](https://open.spotify.com/artist/3UXtwB67vete8MwnVSlrPO), [M.E.E.Z](https://open.spotify.com/artist/0EApWAg3HC8VBdCKKGxapM) | [Love to the Fiends](https://open.spotify.com/album/3shrpWDWQj5Wa1ghlG4nt0) | 3:03 | 2022-05-20 |  |
 | [Lover Boy](https://open.spotify.com/track/1fCHffQ4QJ1kRtQTRpR78V) | [King Acne](https://open.spotify.com/artist/1Xh7NfBiZq2PAyTaKNQ1K8) | [Lover Boy](https://open.spotify.com/album/1Pd1lUjWCm2ZJ7HFb3DfEE) | 3:48 | 2021-11-10 |  |
 | [Mad Dreams](https://open.spotify.com/track/2Yvo61WicgVinjoUOthyjx) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN) | [Mad Dreams](https://open.spotify.com/album/4eDS6fgdzXoWmEsBbov4DO) | 3:11 | 2021-11-10 |  |
 | [Mama](https://open.spotify.com/track/18SFyxDgdM3256wVI67BEx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Mama](https://open.spotify.com/album/0w7WlmpM5oWDCKwZ78nQ6J) | 4:00 | 2021-11-10 |  |
@@ -108,6 +110,7 @@
 | [Wanna Know](https://open.spotify.com/track/4hwVI0H2gbg9DHuq2t9eWu) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [Wanna Know](https://open.spotify.com/album/4jp0LpwsxcCXOLusC8wuSC) | 3:14 | 2021-11-10 |  |
 | [Want You To Know](https://open.spotify.com/track/0XneyyM1sCEVYUwaN897M5) | [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Strangers Productions](https://open.spotify.com/artist/3IM371bth9yG1HMhBJhoWE) | [Want You To Know](https://open.spotify.com/album/2g53JC1whCZ3DKEp8Zt1aT) | 3:18 | 2021-11-10 |  |
 | [Warning Shot](https://open.spotify.com/track/09XSYdxPGGclkoWX0KBBoy) | [Shan Vincent De Paul](https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548) | [Warning Shot](https://open.spotify.com/album/6wtWEyYgEi8mgMO5WqDRuu) | 2:05 | 2021-11-10 |  |
+| [Whatchu Sayin'?](https://open.spotify.com/track/7dBnndmnlUgMq2hMkiWdof) | [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9), [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [Robin Dey](https://open.spotify.com/artist/0ZvLuzOcZm4dxx7ycqDMYk) | [Whatchu Sayin'?](https://open.spotify.com/album/27HxLoxsWmYhjf7fWoZvjf) | 2:57 | 2022-05-20 |  |
 | [With You](https://open.spotify.com/track/1lnPygfVghWoKJAxaStV98) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [With You](https://open.spotify.com/album/785lkxM1RtJpOAipcL2DrB) | 3:14 | 2021-11-10 |  |
 | [Yellow Lights](https://open.spotify.com/track/6rl9L5jRlxd3QUMznmtm0q) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Yellow Lights](https://open.spotify.com/album/422cd3EJOE2btQLGdSD7I8) | 3:14 | 2021-11-10 |  |
 | [You Want It Back](https://open.spotify.com/track/44avslxBkMhSkrS6rywMw7) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [You Want It Back](https://open.spotify.com/album/3tXZz83YVEH1d0mvSns0XO) | 3:05 | 2022-01-20 |  |

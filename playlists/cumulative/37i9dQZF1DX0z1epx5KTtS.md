@@ -4,7 +4,7 @@
 
 > African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-51 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
+53 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Bina Ngo](https://open.spotify.com/track/7xYzrfdekBpAH7c59wsg0s) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l) | [Bina Ngo](https://open.spotify.com/album/2ovAbyHeQJgfTP4KQB8kd5) | 2:59 | 2021-12-20 |  |
 | [Blô blô](https://open.spotify.com/track/6ktw0PV1l5NMC4eBPlZCbA) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Blô blô](https://open.spotify.com/album/5yuQacRLQLbtFRlDhaJM0t) | 3:30 | 2021-12-20 |  |
 | [Bokoko](https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Bokoko \(Extra Musica\)](https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6) | 4:12 | 2021-12-20 |  |
+| [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 | 2022-05-20 |  |
 | [C'Gater](https://open.spotify.com/track/1ghBexe1duWQLNmdqXAhKe) | [DJ LEWIS](https://open.spotify.com/artist/2Rw4zdWjWKGTh7giGhOyFb) | [C'Gater](https://open.spotify.com/album/2Gmdt7fQvIyKt2MOTq4UP6) | 3:47 | 2021-12-20 | 2022-05-06 |
 | [Caléçon](https://open.spotify.com/track/02KynjfpJDJFKmNlxGMcUE) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Coco Argentée](https://open.spotify.com/artist/3eZbaZtJasAh4P1ptj7bOe) | [Caléçon](https://open.spotify.com/album/7krsg8jshA79Nbd3dnT7In) | 3:28 | 2021-12-20 |  |
 | [Caprices de Grossesse](https://open.spotify.com/track/6BgeBCh0vWweiQOvYVVKIc) | [Rocky Gold](https://open.spotify.com/artist/0pagPxNrVGh9Qxjh7gn5t7) | [Caprices de Grossesse](https://open.spotify.com/album/20hqf8Bugd8BuK0AkHGHuG) | 4:00 | 2022-02-18 |  |
@@ -28,8 +29,8 @@
 | [Fan ou Amoureux](https://open.spotify.com/track/0HB11vrRhhiZrdIoenOVMS) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Fan ou Amoureux](https://open.spotify.com/album/3tUmrMOkfaf03TTiFn6QIy) | 3:55 | 2022-03-22 |  |
 | [Gbêssê](https://open.spotify.com/track/4HnSuaffFKg2FveLpOubAr) | [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Gbêssê](https://open.spotify.com/album/60ZH03fBOxrVsHuP5VTdee) | 3:16 | 2021-12-20 |  |
 | [Godo Godo](https://open.spotify.com/track/1o7k5eUEA0m6Q7H0A1tvyU) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Godo Godo](https://open.spotify.com/album/7gdUmmaUUZLYvD9KaLnSaV) | 2:39 | 2022-02-18 |  |
-| [Godomoué](https://open.spotify.com/track/4TG0I43Yci9DupAyFBUN1h) | [JN LE BOSS](https://open.spotify.com/artist/39lBGgf33GpI6pQ9DoqGBs), [Yanik Jones](https://open.spotify.com/artist/22f7okXAJWbCs8NJpHv6iG) | [Godomoué](https://open.spotify.com/album/5bFmQ5N0A6zLei6LWp330Y) | 2:48 | 2021-12-20 |  |
-| [Je n'ai rien fait](https://open.spotify.com/track/7eyXkptXl6lvxlREGKMmVs) | [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe), [Mani Bella](https://open.spotify.com/artist/2GLzNCMpJZYZaeAyhwuifS) | [Je n'ai rien fait](https://open.spotify.com/album/7u8mlWjXh5uM6oGvaKFmjl) | 4:24 | 2021-12-20 |  |
+| [Godomoué](https://open.spotify.com/track/4TG0I43Yci9DupAyFBUN1h) | [JN LE BOSS](https://open.spotify.com/artist/39lBGgf33GpI6pQ9DoqGBs), [Yanik Jones](https://open.spotify.com/artist/22f7okXAJWbCs8NJpHv6iG) | [Godomoué](https://open.spotify.com/album/5bFmQ5N0A6zLei6LWp330Y) | 2:48 | 2021-12-20 | 2022-05-21 |
+| [Je n'ai rien fait](https://open.spotify.com/track/7eyXkptXl6lvxlREGKMmVs) | [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe), [Mani Bella](https://open.spotify.com/artist/2GLzNCMpJZYZaeAyhwuifS) | [Je n'ai rien fait](https://open.spotify.com/album/7u8mlWjXh5uM6oGvaKFmjl) | 4:24 | 2021-12-20 | 2022-05-21 |
 | [Judas](https://open.spotify.com/track/7zzkXGRNhnkeqGMCKLkLyo) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Judas](https://open.spotify.com/album/5LH3Ut39XL9NEpKXLS2dwn) | 4:05 | 2021-12-20 | 2022-04-15 |
 | [Kong](https://open.spotify.com/track/0A78qRonJ1G8Q4oMiBWUpp) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Kong](https://open.spotify.com/album/3FFkQQq82KOLuhUidVaJv6) | 3:08 | 2021-12-20 |  |
 | [Kpokpokpouho Soualélé](https://open.spotify.com/track/0rn8Umfi4msYkNOEApR8im) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Kpokpokpouho Soualélé](https://open.spotify.com/album/2Z8wMFlRBNREO4swQV3w0p) | 3:00 | 2021-12-20 | 2022-03-23 |
@@ -50,6 +51,7 @@
 | [Oko Lelela Nani](https://open.spotify.com/track/7kUUkcFtQGLB7STqDgMCvk) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Oko Lelela Nani](https://open.spotify.com/album/3Mclnp6RQ7HRHtUGpOt9Jz) | 3:41 | 2021-12-20 |  |
 | [On a pris balle](https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [On a pris balle](https://open.spotify.com/album/5m5yg13KGziSTHUsOpuBOo) | 3:47 | 2022-05-05 |  |
 | [Rebelotte](https://open.spotify.com/track/5PQakziJJG1F2y6S01FZO8) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Cocktail](https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN) | 3:38 | 2021-12-20 |  |
+| [Si tu veux partir](https://open.spotify.com/track/1fIJIeH1UGo8iIGtULmSQo) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [Si tu veux partir](https://open.spotify.com/album/5BIVokEq8qsDHH96pnrCXS) | 3:44 | 2022-05-20 |  |
 | [Super Fan](https://open.spotify.com/track/3XoJ1fhN3NACS4O5SbdkzJ) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Super Fan](https://open.spotify.com/album/3jdznaG1yv3fjgklH3BWtp) | 3:52 | 2021-12-20 |  |
 | [Supporteurs Maso](https://open.spotify.com/track/5AmaKQXErLGa23mtFwI5lj) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Debordo Leekunfa](https://open.spotify.com/artist/7L6fUPhKqRJGYVB1hnrkfJ) | [Supporteurs Maso](https://open.spotify.com/album/6ySLqOgsAeIoT3PUm7Bk0k) | 3:33 | 2022-02-18 |  |
 | [Tala N'dile](https://open.spotify.com/track/15yN7E99wB5yo12CCr2G8F) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Dj Arafat](https://open.spotify.com/artist/2DWtnLOf0zcPrZWSmeShVT) | [Tala N'dile](https://open.spotify.com/album/47FvCt5Faqv33pjUi9omrW) | 3:54 | 2021-12-20 |  |

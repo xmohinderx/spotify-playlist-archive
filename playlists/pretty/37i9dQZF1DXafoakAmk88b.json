@@ -1,13 +1,29 @@
 {
   "description": "New Indie driving the current, every week. Cover Toro y Moi. ",
-  "num_followers": 10785,
+  "num_followers": 10819,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDQwMCwwMDAwMDAxYTAwMDAwMTgwYmI5MmM2ZDgwMDAwMDE3ZWMxMjkwMmMz",
+  "snapshot_id": "MTY1MzA3NDQxMCwwMDAwMDAxYjAwMDAwMTgwZTJlOWJiOWYwMDAwMDE3ZWMxMjkwMmMz",
   "tracks": [
+    {
+      "added_at": "2022-05-20 19:20:10",
+      "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
+    },
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
@@ -77,6 +93,22 @@
       "url": "https://open.spotify.com/track/2fGiwQIUWDauKSYgosdlhN"
     },
     {
+      "added_at": "2022-05-20 19:20:10",
+      "album": {
+        "name": "Better Off Without",
+        "url": "https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 228831,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/7cRZRBbNdODYhhTDaUVgJm"
+    },
+    {
       "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Postman b/w Magazine",
@@ -91,6 +123,22 @@
       "duration_ms": 160704,
       "name": "Postman",
       "url": "https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq"
+    },
+    {
+      "added_at": "2022-05-20 19:20:10",
+      "album": {
+        "name": "Hold The Line",
+        "url": "https://open.spotify.com/album/7K5A0lg0PxbYoqa05ss4nj"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "duration_ms": 263301,
+      "name": "Hold The Line",
+      "url": "https://open.spotify.com/track/5oLrRaqC1dgKKFbXZ7H2Dw"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -123,6 +171,22 @@
       "duration_ms": 170248,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/31wQ5gVCksslClnTPXmRZB"
+    },
+    {
+      "added_at": "2022-05-20 19:20:10",
+      "album": {
+        "name": "Xtasy",
+        "url": "https://open.spotify.com/album/4zH7FPMFwa1Q1D1e9ZP3lV"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Xtasy",
+      "url": "https://open.spotify.com/track/7yJ1KekatthELLQTE1VRc7"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -171,6 +235,22 @@
       "duration_ms": 232967,
       "name": "Home Maker (Edit)",
       "url": "https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs"
+    },
+    {
+      "added_at": "2022-05-20 19:20:10",
+      "album": {
+        "name": "High Priestess",
+        "url": "https://open.spotify.com/album/0HzNnOls6EoSgMtbzLIGB8"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "High Priestess",
+      "url": "https://open.spotify.com/track/5SiznYWcgL8nfDNwoDdJa8"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -751,22 +831,6 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "Glass House",
-        "url": "https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 171977,
-      "name": "Glass House",
-      "url": "https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8"
-    },
-    {
-      "added_at": "2022-05-13 04:00:00",
-      "album": {
         "name": "SICK!",
         "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
       },
@@ -875,22 +939,6 @@
       "duration_ms": 138648,
       "name": "Already free",
       "url": "https://open.spotify.com/track/45nFXvQK9RIi8zMip6ogzh"
-    },
-    {
-      "added_at": "2022-05-13 04:00:00",
-      "album": {
-        "name": "Many Times",
-        "url": "https://open.spotify.com/album/6TkIUGYXfH2UQe6IQq218Q"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 126905,
-      "name": "Many Times",
-      "url": "https://open.spotify.com/track/3PJiE71oOxVPzMYYt6MI7G"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -1379,22 +1427,6 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "Plz",
-        "url": "https://open.spotify.com/album/2EE7hekD46YWmkblAhC0qZ"
-      },
-      "artists": [
-        {
-          "name": "Ben\u00e9t",
-          "url": "https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB"
-        }
-      ],
-      "duration_ms": 157194,
-      "name": "Plz",
-      "url": "https://open.spotify.com/track/5LpFrJLrMX5yHgqlICQm00"
-    },
-    {
-      "added_at": "2022-05-13 04:00:00",
-      "album": {
         "name": "Perfect Wife",
         "url": "https://open.spotify.com/album/0DZfn5TUMGAGKKjkDFJDzz"
       },
@@ -1651,42 +1683,6 @@
       "duration_ms": 124736,
       "name": "Automatic - Orion Sun Remix",
       "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
-    },
-    {
-      "added_at": "2022-05-13 04:00:00",
-      "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 239744,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV"
-    },
-    {
-      "added_at": "2022-05-13 04:00:00",
-      "album": {
-        "name": "Winona (Kareem Ali Remix)",
-        "url": "https://open.spotify.com/album/12CAmwgkPFwEVoCjP25J5i"
-      },
-      "artists": [
-        {
-          "name": "Miloe",
-          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
-        },
-        {
-          "name": "Kareem Ali",
-          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "Winona - Kareem Ali Remix",
-      "url": "https://open.spotify.com/track/15npBICNGtMM3kFWDtnWdj"
     },
     {
       "added_at": "2022-05-13 04:00:00",

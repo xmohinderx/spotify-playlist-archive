@@ -31,7 +31,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 145740,
       "name": "100 Degrees (with S\u00e9b Mont)",
       "url": "https://open.spotify.com/track/6KZmW3m8H69be0JSMj6762"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 143906,
       "name": "Baby Steps",
       "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 139500,
       "name": "Barking",
       "url": "https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 156674,
       "name": "Darkroom",
       "url": "https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 164761,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
@@ -841,6 +841,24 @@
       "duration_ms": 141841,
       "name": "Don't Even Know Your Name",
       "url": "https://open.spotify.com/track/6s3OlLs8Ey8LCol4xaDb6R"
+    },
+    {
+      "album": {
+        "name": "Don't Leave Me",
+        "url": "https://open.spotify.com/album/7hQrFSEgQCmOBYd4s07HZL"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166242,
+      "name": "Don't Leave Me",
+      "url": "https://open.spotify.com/track/5I3kFklNvIQX6ovbvahZGy"
     },
     {
       "album": {
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 167380,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 161280,
       "name": "Fall",
       "url": "https://open.spotify.com/track/00cSOUQOAsFheNuCPCJiuG"
@@ -1171,6 +1189,32 @@
       "duration_ms": 135238,
       "name": "Far Away (feat. Ramori)",
       "url": "https://open.spotify.com/track/5oJHGvC4gv9FCewvhxGvLp"
+    },
+    {
+      "album": {
+        "name": "Far Now",
+        "url": "https://open.spotify.com/album/7ggeVWFsGXx1bdyDEETLQT"
+      },
+      "artists": [
+        {
+          "name": "Yosmer Davis",
+          "url": "https://open.spotify.com/artist/6CEUMeD6b6ciVlq9SMba8B"
+        },
+        {
+          "name": "YV\u00d8NE",
+          "url": "https://open.spotify.com/artist/6xS6nOJdYMwNxfWTVSzmZ2"
+        },
+        {
+          "name": "Juan Andres",
+          "url": "https://open.spotify.com/artist/4ggoOoow6qfYNaPCylQpX7"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162619,
+      "name": "Far Now",
+      "url": "https://open.spotify.com/track/5vMsqxQbpdF0GH3EQPmioW"
     },
     {
       "album": {
@@ -1269,7 +1313,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 163209,
       "name": "Fire To Smoke",
       "url": "https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE"
@@ -1309,7 +1353,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 139354,
       "name": "Game",
       "url": "https://open.spotify.com/track/1282qgDXqqQiA6n3u1h32q"
@@ -1433,7 +1477,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 169426,
       "name": "High Like This",
       "url": "https://open.spotify.com/track/38XcmJDV2pjjVcCvdpMpA2"
@@ -1635,6 +1679,32 @@
       "duration_ms": 167619,
       "name": "I Left You First",
       "url": "https://open.spotify.com/track/4yy1hDAK69vHIte5QO12bc"
+    },
+    {
+      "album": {
+        "name": "I Want You Around",
+        "url": "https://open.spotify.com/album/1wNin5Suh0zfZ1gxh62cg0"
+      },
+      "artists": [
+        {
+          "name": "DAZZ",
+          "url": "https://open.spotify.com/artist/67hggymbjwkuVTf7qrZanz"
+        },
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "Samuel Jack",
+          "url": "https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151088,
+      "name": "I Want You Around",
+      "url": "https://open.spotify.com/track/4vswbhNPKavZJqpXzJI4wd"
     },
     {
       "album": {
@@ -2043,7 +2113,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 197760,
       "name": "Ma Ma Ma",
       "url": "https://open.spotify.com/track/19c7r2qm1FD7runvg0VzQa"
@@ -2587,7 +2657,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 202333,
       "name": "Poison",
       "url": "https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU"
@@ -2915,7 +2985,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 150867,
       "name": "Somebody (feat. indiigo)",
       "url": "https://open.spotify.com/track/1wu7r2CNIhJ7IvvF4JlRQz"
@@ -3183,7 +3253,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 137708,
       "name": "Sushi",
       "url": "https://open.spotify.com/track/2kMSfE03xa0kyksSNIfufy"
@@ -3209,7 +3279,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 140500,
       "name": "Sweet Dreams (feat. Imanbek) - With Alok",
       "url": "https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j"
@@ -3665,7 +3735,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 147540,
       "name": "What's Up",
       "url": "https://open.spotify.com/track/12yj178KaJo8PrddT0StaL"
@@ -3717,7 +3787,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 179600,
       "name": "Who U Gonna Love (feat. Amber Van Day)",
       "url": "https://open.spotify.com/track/7HKwY4vWe6W5TjSdIG4w8d"
@@ -3739,7 +3809,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 130619,
       "name": "Wind Me Up",
       "url": "https://open.spotify.com/track/01oKml0Y3E0ASCSYgcYgfe"
@@ -3827,7 +3897,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 176744,
       "name": "You Spin Me Round (Like A Record) - Radio Edit",
       "url": "https://open.spotify.com/track/5zdbSrKdmK9qDTkqzidcN7"

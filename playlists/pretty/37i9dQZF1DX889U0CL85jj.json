@@ -1,12 +1,12 @@
 {
   "description": "Just chill...",
-  "num_followers": 2334397,
+  "num_followers": 2334717,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjI5NTA1OCwwMDAwMDE4ZjAwMDAwMTgwYjQ3NWMzMmQwMDAwMDE3MTA5YzRjYzQx",
+  "snapshot_id": "MTY1MzA2NDQ5MCwwMDAwMDE5MDAwMDAwMTgwZTI1MjVlOGUwMDAwMDE3MTA5YzRjYzQx",
   "tracks": [
     {
       "added_at": "2021-06-23 22:50:50",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/1hQ6kSmwbBGLLAjihto6x8"
     },
     {
+      "added_at": "2022-05-20 16:34:50",
+      "album": {
+        "name": "Sad 2 / Slide",
+        "url": "https://open.spotify.com/album/0tPCPMSlM6VHdW0XHtyJ5i"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 60905,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/6adAK9A3HRPGTKAYs6zbIQ"
+    },
+    {
       "added_at": "2020-05-29 04:01:00",
       "album": {
         "name": "Dumb Daze",
@@ -55,26 +71,6 @@
       "duration_ms": 146677,
       "name": "My Mind Is a Maze",
       "url": "https://open.spotify.com/track/2P4qoMmSqElFcI7GYaPLwf"
-    },
-    {
-      "added_at": "2022-01-21 16:47:30",
-      "album": {
-        "name": "Talk Memory",
-        "url": "https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        }
-      ],
-      "duration_ms": 325828,
-      "name": "Love Proceeding",
-      "url": "https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo"
     },
     {
       "added_at": "2021-02-02 17:28:10",
@@ -187,6 +183,26 @@
       "duration_ms": 288617,
       "name": "L\u00f8b Stop St\u00e5",
       "url": "https://open.spotify.com/track/3wyLILirr6oFIFw1vYuktv"
+    },
+    {
+      "added_at": "2022-01-21 16:47:30",
+      "album": {
+        "name": "Talk Memory",
+        "url": "https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        }
+      ],
+      "duration_ms": 325828,
+      "name": "Love Proceeding",
+      "url": "https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo"
     },
     {
       "added_at": "2022-01-21 16:47:30",
@@ -2563,22 +2579,6 @@
       "duration_ms": 247720,
       "name": "Want U Around (feat. Ruel)",
       "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
-    },
-    {
-      "added_at": "2020-09-21 16:27:00",
-      "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 278640,
-      "name": "Till It Happens To You",
-      "url": "https://open.spotify.com/track/4Eq60oypgAxlX6Kp7MFQl6"
     }
   ],
   "unique_name": "Chill Vibes",

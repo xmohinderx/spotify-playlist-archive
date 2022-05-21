@@ -23,10 +23,28 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 189600,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/31HxV5T50CjQVzyo6yh6Jm"
+    },
+    {
+      "album": {
+        "name": "A Form of Protest",
+        "url": "https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA"
+      },
+      "artists": [
+        {
+          "name": "Cane Hill",
+          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189405,
+      "name": "A Form of Protest",
+      "url": "https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1"
     },
     {
       "album": {
@@ -41,7 +59,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 192092,
       "name": "A Shot in the Dark",
       "url": "https://open.spotify.com/track/0vWaCnMA1j2u5OE5eOVb2N"
@@ -149,7 +167,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 238667,
       "name": "All Of Us",
       "url": "https://open.spotify.com/track/710DVlWcrmDX9I5AcZ9k4p"
@@ -834,6 +852,24 @@
     },
     {
       "album": {
+        "name": "Heavy Pendulum",
+        "url": "https://open.spotify.com/album/7tsD5NnZCCk1RxnIIYwY7t"
+      },
+      "artists": [
+        {
+          "name": "Cave In",
+          "url": "https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295690,
+      "name": "Careless Offering",
+      "url": "https://open.spotify.com/track/1Z9hcTK8kolIJz2387Qi48"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/4gDPDFL9lxg1865PN8niQB"
       },
@@ -1044,6 +1080,24 @@
     },
     {
       "album": {
+        "name": "Cut Throat",
+        "url": "https://open.spotify.com/album/4NKyOHHQpw04ELBF9w5bur"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187793,
+      "name": "Cut Throat",
+      "url": "https://open.spotify.com/track/2sICZQ4Ixmet50hroTflc3"
+    },
+    {
+      "album": {
         "name": "Cyberhex",
         "url": "https://open.spotify.com/album/2mWmMlGC2JRcFzHHPGJhNA"
       },
@@ -1121,7 +1175,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 195788,
       "name": "Damage Plan",
       "url": "https://open.spotify.com/track/4FA7Ax4cLqAwf5DaHryjdy"
@@ -1277,7 +1331,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 287692,
       "name": "DEATH (Ever Colder)",
       "url": "https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ"
@@ -1656,6 +1710,28 @@
     },
     {
       "album": {
+        "name": "Faded Out (feat. Within Temptation)",
+        "url": "https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185542,
+      "name": "Faded Out (feat. Within Temptation)",
+      "url": "https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp"
+    },
+    {
+      "album": {
         "name": "Fail Me",
         "url": "https://open.spotify.com/album/6DQlvYwVg564TonxkvAEzl"
       },
@@ -1711,7 +1787,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 301640,
       "name": "False Providence (feat. Mick Gordon)",
       "url": "https://open.spotify.com/track/3G5oOfICsWYVeONbtB7vRJ"
@@ -1737,6 +1813,28 @@
       "duration_ms": 204280,
       "name": "Fear In Non Fiction",
       "url": "https://open.spotify.com/track/153FWt6E2faYmjfoHanfoU"
+    },
+    {
+      "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/12VlpHTisx4dXj00opt0kV"
+      },
+      "artists": [
+        {
+          "name": "Patient Sixty-Seven",
+          "url": "https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222115,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/4znWqxuT0H5jhzq00oaA75"
     },
     {
       "album": {
@@ -1852,6 +1950,24 @@
     },
     {
       "album": {
+        "name": "Get Outta My Head",
+        "url": "https://open.spotify.com/album/46HUWkwh5UZkhMxLqqD993"
+      },
+      "artists": [
+        {
+          "name": "Secrets",
+          "url": "https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197793,
+      "name": "Get Outta My Head",
+      "url": "https://open.spotify.com/track/0PvXhHobvoA0dprf2Moi3K"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/2extIZQBxGjeP7pmrcvlYK"
       },
@@ -1903,7 +2019,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 239413,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/43GhjzAAnwmYtbOBqAjpb3"
@@ -2023,6 +2139,24 @@
       "duration_ms": 173062,
       "name": "Healing Pool",
       "url": "https://open.spotify.com/track/415fFFCPSrbcpsH2EaVHVu"
+    },
+    {
+      "album": {
+        "name": "Heathens",
+        "url": "https://open.spotify.com/album/3tjvaW6nGu53X7iwbIUNqk"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210748,
+      "name": "Heathens",
+      "url": "https://open.spotify.com/track/42PD5CnANDCJkcLPPuH4Zd"
     },
     {
       "album": {
@@ -2156,6 +2290,24 @@
     },
     {
       "album": {
+        "name": "IMAGO",
+        "url": "https://open.spotify.com/album/4L48CMMHuCpppX0t0IUfu8"
+      },
+      "artists": [
+        {
+          "name": "Space Of Variations",
+          "url": "https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197230,
+      "name": "IMAGO",
+      "url": "https://open.spotify.com/track/7JQMRfognfgWlzptQVeUV2"
+    },
+    {
+      "album": {
         "name": "In the Dark",
         "url": "https://open.spotify.com/album/316D2TsNJ1fE9GbxoC6pBw"
       },
@@ -2228,6 +2380,24 @@
     },
     {
       "album": {
+        "name": "Isolated",
+        "url": "https://open.spotify.com/album/6iXKfbzhJ3n48tc0aucqxz"
+      },
+      "artists": [
+        {
+          "name": "Alex Yarmak",
+          "url": "https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221419,
+      "name": "Isolated",
+      "url": "https://open.spotify.com/track/5ol2lC3LsGr2ynRo0ptaFE"
+    },
+    {
+      "album": {
         "name": "It's Over",
         "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
       },
@@ -2243,6 +2413,24 @@
       "duration_ms": 203800,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
+    },
+    {
+      "album": {
+        "name": "Jabberwocky",
+        "url": "https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192290,
+      "name": "Jabberwocky",
+      "url": "https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU"
     },
     {
       "album": {
@@ -2669,7 +2857,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 198760,
       "name": "Monster",
       "url": "https://open.spotify.com/track/3s14tMRyXZ9p9vpWfjAf3Q"
@@ -2745,7 +2933,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 239353,
       "name": "Neon Grave",
       "url": "https://open.spotify.com/track/46b5EPoX1k0Q1VymqWZ35R"
@@ -2799,7 +2987,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 173716,
       "name": "NO HELP",
       "url": "https://open.spotify.com/track/2yxjtF4f1Yw2GpKELclHw3"
@@ -3153,7 +3341,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 222849,
       "name": "Renegades",
       "url": "https://open.spotify.com/track/0tm8cNgXGRRwPur5q8qdUg"
@@ -3229,7 +3417,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 553880,
       "name": "R\u014dnin",
       "url": "https://open.spotify.com/track/11ArWSwCKdG9P0ZAzDlS2G"
@@ -3549,7 +3737,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 243902,
       "name": "Sol Absentia",
       "url": "https://open.spotify.com/track/048bNBLjuitoM1LUbuoquz"
@@ -3719,6 +3907,24 @@
       "duration_ms": 222187,
       "name": "Subsistence",
       "url": "https://open.spotify.com/track/6ifbaBmTWX9cjzuq9qGELQ"
+    },
+    {
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203290,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl"
     },
     {
       "album": {
@@ -4282,6 +4488,24 @@
     },
     {
       "album": {
+        "name": "UFO Party",
+        "url": "https://open.spotify.com/album/1i6oD08Nu5SsG5U2FHNaz2"
+      },
+      "artists": [
+        {
+          "name": "Young Medicine",
+          "url": "https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242769,
+      "name": "UFO Party",
+      "url": "https://open.spotify.com/track/1qmxvfIHqceUV1XD5ESJz0"
+    },
+    {
+      "album": {
         "name": "UGLY",
         "url": "https://open.spotify.com/album/3XKm3EFzoIjbGmL95cx5aS"
       },
@@ -4333,6 +4557,24 @@
       "duration_ms": 215053,
       "name": "Unconquered",
       "url": "https://open.spotify.com/track/5624sQ4FhCXJRQpYwhkvt8"
+    },
+    {
+      "album": {
+        "name": "Uninstall",
+        "url": "https://open.spotify.com/album/5Y8ghgaAGkjSMeVwSHRgK2"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155784,
+      "name": "Uninstall",
+      "url": "https://open.spotify.com/track/3j6PTmfO14WXI7LuHnfucf"
     },
     {
       "album": {

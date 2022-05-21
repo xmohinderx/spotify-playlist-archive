@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 
 > This is Nirvana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,123,095 likes - 39 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123,407 likes - 39 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 | 19 | [Plateau](https://open.spotify.com/track/2smax1OWAxOo63p14G8KZx) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:38 |
 | 20 | [Blew](https://open.spotify.com/track/7pETV41GUutaZ6KMHMAYIH) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:54 |
 | 21 | [Polly](https://open.spotify.com/track/2SJ38LDlkNjwWSUq98r4Q5) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 2:53 |
-| 22 | [Sappy](https://open.spotify.com/track/7tUtvGeKB2V5W5ms6uBlyC) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [With The Lights Out \- Box Set](https://open.spotify.com/album/784v2vgKR7tIuycQVzWMOg) | 3:25 |
+| 22 | [Serve The Servants](https://open.spotify.com/track/3w5Ekq9O8g0gGFEsT77Ydi) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:37 |
 | 23 | [Oh Me](https://open.spotify.com/track/2vfCSwToh0Am0O4zgHXfn7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:26 |
-| 24 | [Serve The Servants](https://open.spotify.com/track/3w5Ekq9O8g0gGFEsT77Ydi) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:37 |
+| 24 | [Sappy](https://open.spotify.com/track/7tUtvGeKB2V5W5ms6uBlyC) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [With The Lights Out \- Box Set](https://open.spotify.com/album/784v2vgKR7tIuycQVzWMOg) | 3:25 |
 | 25 | [School](https://open.spotify.com/track/0EY1Z9UmZnYZyM7zHs6C0j) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:42 |
 | 26 | [I Hate Myself And Want To Die \- 2013 Mix](https://open.spotify.com/track/1kwsUMjFuePZBNB56gQYoA) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary \- Deluxe Edition](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 2:59 |
 | 27 | [Jesus Doesn't Want Me For A Sunbeam](https://open.spotify.com/track/7oBazz4xCO7Ul3MJHhKy0Q) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:37 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 | 38 | [Floyd The Barber](https://open.spotify.com/track/0aMqNFBj9KtPTD3c3tByRT) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:18 |
 | 39 | [Downer](https://open.spotify.com/track/4e0MJaiXSwXBhrQZHyoK8c) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 1:43 |
 
-Snapshot ID: `Mjc1NDk1NTQsMDAwMDAwMDAwMjhjNWZmNDAxOGM0MDE5NDc1Yzg4Y2M5NjRlZDIzYQ==`
+Snapshot ID: `Mjc1NTA5NTksMDAwMDAwMDA2ZGRkNjZlYjVjNjY0NTFkZmE5MWVkNGJiNTgyNmM2OA==`

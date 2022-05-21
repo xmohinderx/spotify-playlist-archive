@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 260853,
       "name": "Co\u0301mo Te Voy a Olvidar",
       "url": "https://open.spotify.com/track/1YHiq5iuXraptr8feJfEZn"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 261253,
       "name": "C\u00f3mo Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/1QI9esrPwXTB2VG0NBvS3R"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 146013,
       "name": "El Colesterol",
       "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
@@ -800,6 +800,24 @@
     },
     {
       "album": {
+        "name": "Fake Lover",
+        "url": "https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205373,
+      "name": "Fake Lover",
+      "url": "https://open.spotify.com/track/1SwVHAzSXdAYOE68mhVFWi"
+    },
+    {
+      "album": {
         "name": "Felicidad",
         "url": "https://open.spotify.com/album/2QkBW647a6C5INrd9xdugl"
       },
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 214666,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/2M2DFtHeuCA0OSO557xjsm"
@@ -855,7 +873,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 219893,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/7I2k8PcOLEZwx8OlTc10m9"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "La Cumbia de los Monjes",
       "url": "https://open.spotify.com/track/03ITeFvMvTRpTC92WsQWw5"
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 231080,
       "name": "Mayonesa",
       "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 243626,
       "name": "Mil Horas (with Sasha, Benny y Erik)",
       "url": "https://open.spotify.com/track/3dy3Bwz5w5eenJz1R5KWo6"
@@ -1779,7 +1797,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 217077,
       "name": "Que Te Balla Bien",
       "url": "https://open.spotify.com/track/0rAiLW9IqMPHZ63UGJrSKr"

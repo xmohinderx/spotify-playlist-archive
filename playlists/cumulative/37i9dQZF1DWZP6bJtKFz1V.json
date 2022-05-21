@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "100sadsongs",
+        "url": "https://open.spotify.com/album/52D5Elj3MPS11Wa0r50EFM"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176830,
+      "name": "100sadsongs",
+      "url": "https://open.spotify.com/track/0rvcPanRR8rQO8lSIr0S4l"
+    },
+    {
+      "album": {
         "name": "2am",
         "url": "https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 210866,
       "name": "3 outfits",
       "url": "https://open.spotify.com/track/78zWCikDMYzFpXAdqANPrD"
@@ -275,7 +293,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 220066,
       "name": "Anxieties (Out of Time)",
       "url": "https://open.spotify.com/track/6CCWeieiETGytwn1cblRxz"
@@ -481,7 +499,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 169880,
       "name": "BATSHIT",
       "url": "https://open.spotify.com/track/1uPTkRxSbOfEENBoJEb5X9"
@@ -579,7 +597,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 173204,
       "name": "Black Confetti",
       "url": "https://open.spotify.com/track/0WaTwKJGHKJQ6Tv9e2rSGk"
@@ -633,7 +651,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 216187,
       "name": "Brad Pitt",
       "url": "https://open.spotify.com/track/0ByROqFlBxTQeX4XlvE7Gk"
@@ -867,7 +885,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 173120,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/3TpkcCHblOWMzalss4ug24"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 180923,
       "name": "COMPLICATED (feat. aldn & 8485)",
       "url": "https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1"
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 165676,
       "name": "Demon",
       "url": "https://open.spotify.com/track/2LnQSUceWUnowlkQTfOMVy"
@@ -1193,7 +1211,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 134266,
       "name": "DIE OUT HERE (feat. POORSTACY)",
       "url": "https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 147183,
       "name": "Don\u2019t Trip (with GAYLE)",
       "url": "https://open.spotify.com/track/6mWCikZXHCCnEwkwyJ2L8G"
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 204847,
       "name": "dying on the inside",
       "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 221506,
       "name": "End of The Road (feat. Rachel Chinouriri)",
       "url": "https://open.spotify.com/track/5gtStGNhvKlbrjXQK0TuEt"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 172200,
       "name": "F*****g Up What Matters",
       "url": "https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 150693,
       "name": "f**k it, i'm the man",
       "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
@@ -1697,7 +1715,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 157000,
       "name": "Gr8 Timing!",
       "url": "https://open.spotify.com/track/0R5RnMzKGJLLwlS8FAnDp3"
@@ -1931,7 +1949,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 182658,
       "name": "I Think I Like You",
       "url": "https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU"
@@ -2213,7 +2231,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 183933,
       "name": "landline",
       "url": "https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0"
@@ -2437,7 +2455,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 198480,
       "name": "Love Brand New",
       "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
@@ -2499,7 +2517,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 162103,
       "name": "Make This Better",
       "url": "https://open.spotify.com/track/6AX6CNaVys5pYVjiuR9s5L"
@@ -2905,7 +2923,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 224519,
       "name": "Nobody But Me (feat. Cold War Kids)",
       "url": "https://open.spotify.com/track/4DMDtsHojzFgAKbtFYKoJ9"
@@ -2995,7 +3013,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 261001,
       "name": "On My Knees",
       "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
@@ -3255,7 +3273,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 158708,
       "name": "PRETEND RAINBOW",
       "url": "https://open.spotify.com/track/3kescnpBiOqSSdNywgGHkB"
@@ -3637,7 +3655,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 180168,
       "name": "Share Ur Feelings",
       "url": "https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d"
@@ -3745,7 +3763,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 214157,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB"
@@ -3767,7 +3785,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 253723,
       "name": "Slow Song (with Dragonette)",
       "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
@@ -3991,7 +4009,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 205840,
       "name": "Teleport",
       "url": "https://open.spotify.com/track/5uJaYw9o3w7VXMCNlXnT7K"
@@ -4157,7 +4175,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 203140,
       "name": "Things You Said",
       "url": "https://open.spotify.com/track/5MYAjxYvtSkUQzOgtnntTH"
@@ -4247,7 +4265,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 221813,
       "name": "Too Late (To Call)",
       "url": "https://open.spotify.com/track/0M0hUyO8pVLCfm7O44fV6w"
@@ -4265,10 +4283,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 134857,
       "name": "toxic crush",
       "url": "https://open.spotify.com/track/4jx3OhzeLknPoF52To841h"
+    },
+    {
+      "album": {
+        "name": "Turn Up The Sunshine (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229610,
+      "name": "Turn Up The Sunshine - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM"
     },
     {
       "album": {
@@ -4349,7 +4389,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 161068,
       "name": "Upgrade",
       "url": "https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2"
@@ -4465,7 +4505,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 225128,
       "name": "Where Are You Now? (feat. girlhouse)",
       "url": "https://open.spotify.com/track/5iYv4Kj9EEBMJRoFOlJWeb"
@@ -4519,7 +4559,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 162360,
       "name": "YES MOM",
       "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"

@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Tyler Hubbard
 
-557 songs - 1 day 6 hr 0 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
+558 songs - 1 day 6 hr 3 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [We Did It Anyway](https://open.spotify.com/track/19MMMPu0Up9lRTRAzbk8ht) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [We Did It Anyway](https://open.spotify.com/album/2FjInAAfJeh0rJYXgpc2sY) | 2:43 | 2022-04-08 | 2022-04-23 |
 | [We Had It Good](https://open.spotify.com/track/7HQIudswhHicyidL1V4iiO) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Born for This](https://open.spotify.com/album/2N1fClE6geEUJvpSeReyp7) | 3:32 | 2022-03-04 |  |
 | [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 | 2022-02-18 | 2022-04-02 |
+| [We’ve Never Danced](https://open.spotify.com/track/0kHAc1CqVguXkbxhEXZpaa) | [Tony Evans Jr.](https://open.spotify.com/artist/3PvNwJTtWwtnkwW01JkNeE) | [Tony Evans Jr.](https://open.spotify.com/album/5dxhrIBcP8E8AKkiUDN601) | 3:24 | 2022-05-20 |  |
 | [What Do We Do Now?](https://open.spotify.com/track/2Y8Bc8FFaAFTLSUggumiqT) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [What Do We Do Now?](https://open.spotify.com/album/3DSiv8bSfBosbvQispCd9r) | 2:36 | 2022-05-13 |  |
 | [What If We Never Met](https://open.spotify.com/track/4qao4AOEDlrKRL8HVsSrp6) | [Wild Fire](https://open.spotify.com/artist/3R2bn1e34SskxOaoM4XmD2) | [What If We Never Met](https://open.spotify.com/album/6A8oaHU3swEB7fl0nD5nyk) | 3:51 | 2022-02-04 | 2022-03-26 |
 | [What Was I Drinking](https://open.spotify.com/track/05XhhXmBu1aUPNFLlTZ9XJ) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [What Was I Drinking](https://open.spotify.com/album/6kYGLfvbmgWqOV2spNzb09) | 2:57 | 2022-01-14 | 2022-03-26 |

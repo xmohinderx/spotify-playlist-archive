@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle
 
-199 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+200 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Dreams \- Bleu Clair Remix](https://open.spotify.com/track/4xtD1wi5TDqcOKf1dowtIp) | [Smokin Beats](https://open.spotify.com/artist/25KE5ZwChQizbTmJzg3Lob), [Lyn Eden](https://open.spotify.com/artist/0pt4O98Bo1vxjqZnjttafk), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Dreams \(Bleu Clair Remix\)](https://open.spotify.com/album/2IRiDJ0P6xZcEpXZUpIvTL) | 3:04 | 2022-01-14 | 2022-02-01 |
 | [Droves](https://open.spotify.com/track/0u9qsoepu46b6aHi3fr6gW) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Droves](https://open.spotify.com/album/6lR1ihhd03xEjXgCRO8Icj) | 3:50 | 2022-04-01 |  |
 | [Drug Designer](https://open.spotify.com/track/1ulIKIorxYJR1gdNa8DPE8) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v) | [Black Zebra](https://open.spotify.com/album/5bYDboirUS3rp1FhFSVcqE) | 2:41 | 2021-11-23 | 2022-02-05 |
+| [Dusk](https://open.spotify.com/track/7rK7bQV2giqvHymQDyI5hY) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Dusk](https://open.spotify.com/album/1yPM7AaWWLW9yxUxlwYizI) | 2:55 | 2022-05-21 |  |
 | [earthquake](https://open.spotify.com/track/43Mws6pQGKCUeJ5bDaSmFR) | [kennedyxoxo](https://open.spotify.com/artist/4zJGVaqPKqkN3dEpC31E04), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [earthquake](https://open.spotify.com/album/4LqfMmufo20rLpXvQ8Ua3g) | 2:09 | 2022-02-28 | 2022-03-31 |
 | [eee](https://open.spotify.com/track/0acffaX5iSeZRT6QsorKPA) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [rei so la](https://open.spotify.com/artist/6ZyqJ0aS979tbln9vjpVyF), [Abraham Tilbury](https://open.spotify.com/artist/4aQXVB8RpVJTrpQoKdkE4M) | [eee](https://open.spotify.com/album/7rnN1mCHS0lELUTV48yDyZ) | 3:06 | 2022-02-17 | 2022-03-10 |
 | [Electric Girl](https://open.spotify.com/track/31zigPsorRb8r0F4qlzajY) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs) | [Electric Girl](https://open.spotify.com/album/1Hvdm7WU9nNjadZZQtJz3f) | 2:55 | 2022-02-03 | 2022-02-16 |

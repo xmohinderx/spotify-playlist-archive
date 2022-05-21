@@ -3837,6 +3837,10 @@
         {
           "name": "Cosculluela",
           "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Elio Mafiaboy",
+          "url": "https://open.spotify.com/artist/220fH9KvHqXP9T4r3IwlJH"
         }
       ],
       "date_added": "2022-05-20",
@@ -6996,6 +7000,24 @@
     },
     {
       "album": {
+        "name": "El Fucking MVP",
+        "url": "https://open.spotify.com/album/5nrTy8lrAvz3a0f96CxEH4"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "El Fucking MVP",
+      "url": "https://open.spotify.com/track/4bZe10GGfnMktu6OZlgnub"
+    },
+    {
+      "album": {
         "name": "El Guayabera",
         "url": "https://open.spotify.com/album/50OMFbA25GUCKetmOVbNaL"
       },
@@ -7029,6 +7051,24 @@
       "duration_ms": 167021,
       "name": "El Heladero",
       "url": "https://open.spotify.com/track/5TdbBLZ9z35Fa5KIX6AE9p"
+    },
+    {
+      "album": {
+        "name": "El Hijo Mayor",
+        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "El Hijo Mayor",
+      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
       "album": {
@@ -12243,12 +12283,16 @@
         {
           "name": "Harry Nach",
           "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
         }
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 213843,
+      "duration_ms": 213913,
       "name": "Lokotron",
       "url": "https://open.spotify.com/track/7iiGybCvvxewpa62bPhNzB"
     },
@@ -13257,6 +13301,28 @@
       "duration_ms": 160361,
       "name": "Me Entretienes",
       "url": "https://open.spotify.com/track/0Kc4xDxGFWtB4GLxScCFN2"
+    },
+    {
+      "album": {
+        "name": "Me Falta la Mitad",
+        "url": "https://open.spotify.com/album/1LeGs6JDRdZ9C8O7T52ddQ"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195660,
+      "name": "Me Falta la Mitad",
+      "url": "https://open.spotify.com/track/6kYCW00ZxqKBbtx7y4r4Dd"
     },
     {
       "album": {

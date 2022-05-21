@@ -4,7 +4,7 @@
 
 > Music from Lil Baby, Kendrick Lamar and Moneybagg Yo.
 
-1,220 songs - 2 day 14 hr 44 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,221 songs - 2 day 14 hr 46 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,6 +624,7 @@
 | [Maybach \(feat\. Future\)](https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:19 | 2021-05-22 | 2021-06-12 |
 | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 3:45 | 2022-01-07 | 2022-04-29 |
 | [Mean](https://open.spotify.com/track/3PXi72ZtSqx1PZc40KS0Qj) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Beautiful Havoc](https://open.spotify.com/album/62m2Y4PVeyW4TbmPSBvb0x) | 2:05 | 2020-12-04 | 2021-03-26 |
+| [Meat This](https://open.spotify.com/track/52jBY28ULSi4ayJ57QFbLP) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Meat This](https://open.spotify.com/album/0y1b2ZeIbGhkOcHODiUBxe) | 2:26 | 2022-05-20 |  |
 | [Megan's Piano](https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:53 | 2021-12-03 | 2022-03-05 |
 | [MEGATRON](https://open.spotify.com/track/1ZDmxwg7Lywlx68b7SsJjj) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [MEGATRON](https://open.spotify.com/album/4PsIFkX5QIvAI0xB7qHugW) | 3:10 | 2019-06-21 | 2019-08-13 |
 | [Melee](https://open.spotify.com/track/5hXqurVR1oeDhMjDDtxPNa) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Melee](https://open.spotify.com/album/6y75mS3sTU9tXCGL8go5ot) | 2:49 | 2019-07-12 | 2019-07-20 |
@@ -1096,7 +1097,7 @@
 | [trademark usa](https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:30 | 2021-09-25 | 2022-04-29 |
 | [Trap or Cap](https://open.spotify.com/track/04WcxfTz7qwm2DZ1F3bTTt) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 3:21 | 2020-05-22 | 2020-07-02 |
 | [Trillionaire \(feat\. Youngboy Never Broke Again\)](https://open.spotify.com/track/740kQ8xwSGloumdiKR5Cwz) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 2:47 | 2020-05-15 | 2020-06-20 |
-| [Trust Nothing \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 3:05 | 2022-03-04 |  |
+| [Trust Nothing \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 3:05 | 2022-03-04 | 2022-05-21 |
 | [Try Me](https://open.spotify.com/track/0tIHHwV2eL10rpQ1fiyDjz) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Try Me](https://open.spotify.com/album/71ziNzfuk5VLPwiAvQaC1X) | 2:21 | 2021-03-19 | 2021-04-24 |
 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 | 2021-09-04 | 2021-09-08 |
 | [Turbo](https://open.spotify.com/track/0oMCHLbU1IcWfXMHeYSfn1) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [BETTER THAN YOU](https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3) | 2:59 | 2022-03-04 | 2022-03-12 |

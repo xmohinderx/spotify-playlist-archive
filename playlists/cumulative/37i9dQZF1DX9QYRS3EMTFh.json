@@ -236,6 +236,24 @@
     },
     {
       "album": {
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/2ByFERdFOCwLIyxXfz1an5"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122400,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/7dNKk2V4bD0MXdBhh1PLmR"
+    },
+    {
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
       },
@@ -349,7 +367,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 157200,
       "name": "Down",
       "url": "https://open.spotify.com/track/0gGnXH7QOZZEZWfdyCOSri"
@@ -454,6 +472,32 @@
     },
     {
       "album": {
+        "name": "Fight and win",
+        "url": "https://open.spotify.com/album/4ZPGwlSyhYD7UCNSzWB7mc"
+      },
+      "artists": [
+        {
+          "name": "Lion D",
+          "url": "https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Bizzarri",
+          "url": "https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205810,
+      "name": "Fight and win",
+      "url": "https://open.spotify.com/track/7pRLfX2thIxTzT0bKiEuK6"
+    },
+    {
+      "album": {
         "name": "Foki",
         "url": "https://open.spotify.com/album/1xUt5s1XoEoyOQj1lf7xas"
       },
@@ -531,7 +575,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 225160,
       "name": "Ghetto Gyal",
       "url": "https://open.spotify.com/track/1VcbHVnFzomj46xNNOM1rq"
@@ -685,7 +729,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 131287,
       "name": "Hot Gyal",
       "url": "https://open.spotify.com/track/2PyfVoA7yA9Mx1tTI10hIx"
@@ -733,6 +777,28 @@
       "duration_ms": 148200,
       "name": "Hypocrite - Edit",
       "url": "https://open.spotify.com/track/2uEgtB82CP9q8zQqci8pAo"
+    },
+    {
+      "album": {
+        "name": "Para Bellum",
+        "url": "https://open.spotify.com/album/4N2vTsNIB0calqg7UWXxxu"
+      },
+      "artists": [
+        {
+          "name": "Matieu White",
+          "url": "https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9"
+        },
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/4nRBgPceAv04r19I9Xn3Tk"
     },
     {
       "album": {
@@ -1130,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "MOB$TA#2",
+        "url": "https://open.spotify.com/album/02lvaqAYeBV4Lks5uIMJUR"
+      },
+      "artists": [
+        {
+          "name": "Kevni",
+          "url": "https://open.spotify.com/artist/02WdyNlw433XSxlOPC7FhA"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126302,
+      "name": "MOB$TA#2",
+      "url": "https://open.spotify.com/track/0quTcnm41SSv9fFCZALUMA"
+    },
+    {
+      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/232Cj6dreD65MStuTs1yIN"
       },
@@ -1359,7 +1443,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 194285,
       "name": "Porte pas plainte - Edit",
       "url": "https://open.spotify.com/track/152o3xdgJbHp5IhNFGadvs"

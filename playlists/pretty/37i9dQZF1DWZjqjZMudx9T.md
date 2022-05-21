@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 
 ### [MANSIÓN REGGAETÓN](https://open.spotify.com/playlist/37i9dQZF1DWZjqjZMudx9T)
 
-> De la CALLE a la CIMA con Chencho Corleone, Anuel AA, Ñengo Flow & Chris Jedai.
+> De la CALLE a la CIMA con Chencho Corleone, Anuel AA, Ñengo Flow & Chris Jedi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,121,795 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,125,261 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 | 49 | [Monastery](https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Monastery](https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC) | 3:09 |
 | 50 | [Quien TV Remix](https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Quien TV Remix](https://open.spotify.com/album/1jUjEXT01RukxK6RfABeYL) | 2:43 |
 
-Snapshot ID: `MTY1MzAxMTY2MiwwMDAwMDFiNTAwMDAwMTgwZGYyYzQ2NGQwMDAwMDE4MGRmMmMyMWRl`
+Snapshot ID: `MTY1MzA2MTAxNCwwMDAwMDFiNjAwMDAwMTgwZTIxZDUyYmQwMDAwMDE4MGRmMmMyMWRl`

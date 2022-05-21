@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 166609,
       "name": "aftermath",
       "url": "https://open.spotify.com/track/4nzBST9JdZIy9qfilr93Po"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 131824,
       "name": "Always Been You",
       "url": "https://open.spotify.com/track/2zpZkOV7sD9C4Cv0cukoHV"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 196453,
       "name": "Angels Like You",
       "url": "https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 194826,
       "name": "Beginning Middle End - From The Netflix Film \"To All The Boys: Always and Forever\"",
       "url": "https://open.spotify.com/track/2kFHjWko1il6O9L3eK9IzG"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 244000,
       "name": "champagne problems",
       "url": "https://open.spotify.com/track/1gcyHQpBQ1lfXGdhZmWrHP"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 233746,
       "name": "emily",
       "url": "https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 199764,
       "name": "Fat Funny Friend",
       "url": "https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2"
@@ -1457,7 +1457,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 137250,
       "name": "ghost town (voice memo)",
       "url": "https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr"
@@ -1709,7 +1709,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 228442,
       "name": "Happiest Year",
       "url": "https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh"
@@ -1727,7 +1727,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 194540,
       "name": "Hate Me If It Helps",
       "url": "https://open.spotify.com/track/3Pmb4dhpihcIBwdbL2r216"
@@ -1789,7 +1789,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 167320,
       "name": "Haunt You (feat. chloe moriondo)",
       "url": "https://open.spotify.com/track/185cmBOExC1AHWe3xrbmQ8"
@@ -2153,6 +2153,24 @@
       "duration_ms": 204990,
       "name": "i wanna be your girlfriend",
       "url": "https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9"
+    },
+    {
+      "album": {
+        "name": "I Would've",
+        "url": "https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150583,
+      "name": "I Would've",
+      "url": "https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ"
     },
     {
       "album": {
@@ -2673,7 +2691,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 285935,
       "name": "Love In The Dark",
       "url": "https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY"
@@ -2771,7 +2789,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 162732,
       "name": "Make It To Me",
       "url": "https://open.spotify.com/track/3EBdDNM1VcD8d8mJJEYIcJ"
@@ -2941,7 +2959,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 220918,
       "name": "Moon",
       "url": "https://open.spotify.com/track/1XpAZlfENlrHalIvuhAp9R"
@@ -3377,7 +3395,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "ROOM FOR 2",
       "url": "https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR"
@@ -3395,7 +3413,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 147713,
       "name": "rubberband",
       "url": "https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM"
@@ -4575,7 +4593,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 218893,
       "name": "Water Fountain",
       "url": "https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To"
@@ -4601,6 +4619,24 @@
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
+    },
+    {
+      "album": {
+        "name": "what if i took it off for you?",
+        "url": "https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136706,
+      "name": "what if i took it off for you?",
+      "url": "https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo"
     },
     {
       "album": {
@@ -4673,7 +4709,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 212713,
       "name": "Why Am I Like This?",
       "url": "https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7"
@@ -4853,7 +4889,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 169265,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
@@ -4897,6 +4933,24 @@
       "duration_ms": 218883,
       "name": "You're Somebody Else",
       "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
+    },
+    {
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204967,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4mWCZw6qYIw"

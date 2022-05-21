@@ -1,12 +1,12 @@
 {
   "description": "Crossing over like Allen I. Cover: Jack Harlow\n",
-  "num_followers": 1888856,
+  "num_followers": 1889065,
   "original_name": "Signed XOXO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxOTI2MCwwMDAwMDI2NDAwMDAwMTgwZGZhMDM0ZmQwMDAwMDE4MDczOGQ0NWY3",
+  "snapshot_id": "MTY1MzA3Mjc2OCwwMDAwMDI2NTAwMDAwMTgwZTJkMGFkY2EwMDAwMDE4MDczOGQ0NWY3",
   "tracks": [
     {
       "added_at": "2022-05-20 04:01:00",
@@ -259,6 +259,30 @@
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
+    },
+    {
+      "added_at": "2022-05-20 18:52:48",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 329295,
+      "name": "Purple Hearts",
+      "url": "https://open.spotify.com/track/401160izncPtca3CmX3dvM"
     },
     {
       "added_at": "2022-05-20 04:01:00",

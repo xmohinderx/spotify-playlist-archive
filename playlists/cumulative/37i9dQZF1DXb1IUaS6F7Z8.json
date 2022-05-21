@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 196666,
       "name": "Arrive On St. Patrick's Day",
       "url": "https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 176788,
       "name": "Fearless and Brave",
       "url": "https://open.spotify.com/track/3FaqFP70AuvbV0EbOIqonQ"
@@ -315,6 +315,24 @@
       "duration_ms": 167440,
       "name": "Fight Song",
       "url": "https://open.spotify.com/track/35DtVain6n4J5hAb0wDNZz"
+    },
+    {
+      "album": {
+        "name": "With All Due Respect - The Irish Sessions",
+        "url": "https://open.spotify.com/album/3SIgoKx2ScvBdf7XFps6i0"
+      },
+      "artists": [
+        {
+          "name": "Young Dubliners",
+          "url": "https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217066,
+      "name": "Follow Me Up To Carlow",
+      "url": "https://open.spotify.com/track/6mOm4tpKBMfTD2eIDxqAzE"
     },
     {
       "album": {
@@ -455,7 +473,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 193760,
       "name": "Katie Bar the Door",
       "url": "https://open.spotify.com/track/66nrk0r8Jv1IhNQUol0u6R"
@@ -509,7 +527,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 202040,
       "name": "My Darling Dopamine",
       "url": "https://open.spotify.com/track/6WVswDACrMjAkj1nRxYI3Z"
@@ -527,7 +545,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 232200,
       "name": "No Justice No Peace",
       "url": "https://open.spotify.com/track/60UgW3NINpPTIIljhpuxsu"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 146000,
       "name": "Old Maui",
       "url": "https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 218149,
       "name": "Pirates of Three Rivers",
       "url": "https://open.spotify.com/track/33feSMBaMfeDg18jvD1Xdp"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 211213,
       "name": "Skull Creek Logger",
       "url": "https://open.spotify.com/track/5Gh2ldlMcEjcxGXQZO2erc"
@@ -801,7 +819,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 211573,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/3icdIwRcG7VqMwwpbkqkSM"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 167150,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/1hVU5v9FSEjWEyqvBFs9Po"
@@ -945,7 +963,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 232186,
       "name": "The State Of Massachusetts",
       "url": "https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW"

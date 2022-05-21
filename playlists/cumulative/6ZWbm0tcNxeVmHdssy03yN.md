@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-1,357 songs - 3 day 2 hr 16 min - [published](https://open.spotify.com/playlist/3VMk54nY0oCnTsFHeWOKJN)
+1,358 songs - 3 day 2 hr 22 min - [published](https://open.spotify.com/playlist/3VMk54nY0oCnTsFHeWOKJN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -757,6 +757,7 @@
 | [Marry You](https://open.spotify.com/track/4tBZt9sycechRXO2gR1tsb) | [Lady Jay](https://open.spotify.com/artist/0rNTIEZKm4LYPn16AcpTaS), [Yaa Pono](https://open.spotify.com/artist/1oqHoNJGPx78BetdO5jMFs) | [Anywhere 2 dey](https://open.spotify.com/album/33nyPBHuGD9Rsu7ZbJxm6S) | 3:23 | 2022-04-22 |  |
 | [Marte](https://open.spotify.com/track/1kLfMS3GSRhRMfWxkH5V0N) | [Susan Díaz](https://open.spotify.com/artist/6Oq5iunq4z5E4yAdNpWAjk) | [Marte](https://open.spotify.com/album/563KoAywYPgVMHrxSMnqiU) | 2:40 | 2021-05-03 | 2021-05-08 |
 | [Massacre](https://open.spotify.com/track/0CO9vEJSRpkTG599jjEVVi) | [Clariyah Bo$$](https://open.spotify.com/artist/321WYBKmv2PU05n7OgoJR8) | [Massacre](https://open.spotify.com/album/0Si4tBKZJCvmr98s3LmJC7) | 2:37 | 2021-07-31 | 2021-08-14 |
+| [Me and Julio Down by the Schoolyard \- Live](https://open.spotify.com/track/74jNVcykb7OkXa2X9G0Ku2) | [Earthmother](https://open.spotify.com/artist/3CfcRTtOm4qgd5kBfYnY8n) | [Live in Madison](https://open.spotify.com/album/6pkume03KSJh7e5h2nP1v5) | 6:22 | 2022-05-20 |  |
 | [Me Haces Falta](https://open.spotify.com/track/4ltGI2J5tVNIjyF10e64pT) | [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [Me Haces Falta](https://open.spotify.com/album/527gL8zkj8jZa4ssKaqxtU) | 2:01 | 2021-06-19 | 2021-07-24 |
 | [Me n I](https://open.spotify.com/track/1kfSVEqH0PtBGVGJMhoBEA) | [Eleftherios](https://open.spotify.com/artist/2JqkLFTZVP8UHr2mwex9pe), [Jimmy Harwood](https://open.spotify.com/artist/6ySLP9D2vST1o1GpIoPWtY) | [Me n I / Mountains](https://open.spotify.com/album/4WoxJPgETOV8JX7aBkxsKq) | 1:42 | 2021-05-22 | 2021-05-29 |
 | [Mean Back](https://open.spotify.com/track/0kt7VTaRJLbXbcaO2p5OYr) | [TwoFaceChef](https://open.spotify.com/artist/4UEfkPjYAFNa5WoHwt6525) | [Mean Back](https://open.spotify.com/album/4KZhFgtoyzmReDSYLcshHr) | 3:23 | 2022-05-06 |  |

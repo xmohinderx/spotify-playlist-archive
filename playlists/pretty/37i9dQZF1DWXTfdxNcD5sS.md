@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTfdxNcD5sS.md) - [plain]
 
 > We found dancing\. Listen to a selection from <a href="https://www.thewarehouseproject.com/ticketlist">The Warehouse Project</a> to celebrate their return to Manchester this month!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,912 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,946 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTfdxNcD5sS.md) - [plain]
 | 16 | [Only Human](https://open.spotify.com/track/4waVSC9eSkrt6RxJK3DhwW) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Only Human](https://open.spotify.com/album/4dVxavcdnxTHyrM4U5U0kD) | 7:56 |
 | 17 | [Closing Shot](https://open.spotify.com/track/7iBVGmmFSNhf5ddFK1iCLj) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/4FTzWteiP0vCyT9h3dz7G3) | 8:23 |
 | 18 | [Roy Keane](https://open.spotify.com/track/4YU7kjwU5ebyKS9QzkcAFK) | [Brame & Hamo](https://open.spotify.com/artist/0GH3NHvWddE49Egn2D5aRg) | [Club Orange EP](https://open.spotify.com/album/7fAGnHQ6poScvCt2gxcxHK) | 6:43 |
-| 19 | [For You](https://open.spotify.com/track/2MRo59IW5O13nu0BIBqhW0) | [India Jordan](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [For You](https://open.spotify.com/album/5Gna2Z9JhoRjYR2CmIBB2r) | 5:37 |
+| 19 | [For You](https://open.spotify.com/track/2MRo59IW5O13nu0BIBqhW0) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [For You](https://open.spotify.com/album/5Gna2Z9JhoRjYR2CmIBB2r) | 5:37 |
 | 20 | [Open Eye Signal](https://open.spotify.com/track/2e0jipRELfRzWVcKCNdyqc) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/0Zpht5ek9rMGsGB5IYPjlz) | 7:48 |
 | 21 | [Perth](https://open.spotify.com/track/6YT4QYWC7EGcUedm2UGNla) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Perth](https://open.spotify.com/album/3tEw4xxPRSOospQ0fsO9Is) | 5:22 |
 | 22 | [Vamp](https://open.spotify.com/track/2PbbWaQk1ex4pC9Gi1cAXR) | [Outlander](https://open.spotify.com/artist/69FzSIj6dc6Zb6QVChhMoi) | [Vamp](https://open.spotify.com/album/0S8M6XLtjsckE15KVXOxSZ) | 5:07 |

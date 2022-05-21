@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: ASTRO\(아스트로\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,127 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,279 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ARIA](https://open.spotify.com/track/2ImbyerPmaYvCAijEsXtoD) | [Yerin](https://open.spotify.com/artist/563a6cNaGh9kC2cYrn78rK) | [ARIA](https://open.spotify.com/album/27QtRd7Fhr3ZaU0vdtwnHW) | 2:27 |
+| 1 | [ARIA](https://open.spotify.com/track/2ImbyerPmaYvCAijEsXtoD) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [ARIA](https://open.spotify.com/album/27QtRd7Fhr3ZaU0vdtwnHW) | 2:27 |
 | 2 | [SAVIOR](https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:01 |
 | 3 | [Fellowship](https://open.spotify.com/track/6PW5GLnTnF9krvqR3QcjWg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMIYA CLUB](https://open.spotify.com/album/5m1kGBVJBKcrlLBgy300vV) | 1:54 |
 | 4 | [I Will Fly](https://open.spotify.com/track/11BkRBYgserEx7OGMTq8fh) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [I Will Fly](https://open.spotify.com/album/0PYUc9urpMM3Om507HDmvV) | 5:09 |

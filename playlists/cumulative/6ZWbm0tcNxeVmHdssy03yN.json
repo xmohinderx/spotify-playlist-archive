@@ -14766,6 +14766,24 @@
     },
     {
       "album": {
+        "name": "Live in Madison",
+        "url": "https://open.spotify.com/album/6pkume03KSJh7e5h2nP1v5"
+      },
+      "artists": [
+        {
+          "name": "Earthmother",
+          "url": "https://open.spotify.com/artist/3CfcRTtOm4qgd5kBfYnY8n"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382160,
+      "name": "Me and Julio Down by the Schoolyard - Live",
+      "url": "https://open.spotify.com/track/74jNVcykb7OkXa2X9G0Ku2"
+    },
+    {
+      "album": {
         "name": "Me Haces Falta",
         "url": "https://open.spotify.com/album/527gL8zkj8jZa4ssKaqxtU"
       },

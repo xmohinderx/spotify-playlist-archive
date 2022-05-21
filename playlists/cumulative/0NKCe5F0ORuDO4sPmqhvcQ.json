@@ -1094,6 +1094,28 @@
     },
     {
       "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/1yPM7AaWWLW9yxUxlwYizI"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175292,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/7rK7bQV2giqvHymQDyI5hY"
+    },
+    {
+      "album": {
         "name": "earthquake",
         "url": "https://open.spotify.com/album/4LqfMmufo20rLpXvQ8Ua3g"
       },

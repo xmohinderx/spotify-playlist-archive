@@ -2500,6 +2500,24 @@
     },
     {
       "album": {
+        "name": "Demo Tape 2008",
+        "url": "https://open.spotify.com/album/5qFyxN4UEQJ1KcT0NBomeg"
+      },
+      "artists": [
+        {
+          "name": "Os Replicantes",
+          "url": "https://open.spotify.com/artist/6hP7JNm3e4E0c5bldlKlO6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235640,
+      "name": "Sangue Sujo",
+      "url": "https://open.spotify.com/track/5dQw3OmCf8HaTtsom1DavG"
+    },
+    {
+      "album": {
         "name": "Se Divertir",
         "url": "https://open.spotify.com/album/6lrWb8lGht50fWq6PbHDo9"
       },

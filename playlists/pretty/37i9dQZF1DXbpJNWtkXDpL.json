@@ -1,12 +1,12 @@
 {
   "description": "Celebramos a nuestros nuevos artistas en el escenario. Virl\u00e1n Garc\u00eda en portada. ",
-  "num_followers": 57623,
+  "num_followers": 57631,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAyNjY4NiwwMDAwMDAwMGRhZGNhYTM4N2QwMTgyY2I2MzMzNDA2Y2JjMjFmZTc3",
+  "snapshot_id": "MTY1MzA5NTQyOSwwMDAwMDAwMDgzODQ4ZWJhMjEyYjA0Y2MxOWE0M2ZlODI2MWFmNjQ5",
   "tracks": [
     {
       "added_at": "2022-05-13 21:33:14",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/1ceWXvh39yPWMZiR6d6rrV"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 220273,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/03NjizgksFxcj3JpxLh3vn"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
         "url": "https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX"
       },
@@ -171,6 +187,54 @@
       "duration_ms": 196363,
       "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
       "url": "https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "no me caigo tan bien",
+        "url": "https://open.spotify.com/album/4au2XrsSvknKfEX76fwfFI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 208443,
+      "name": "no me caigo tan bien",
+      "url": "https://open.spotify.com/track/5cRxATH6YHeZ6MMlYF47vQ"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Soy El Unico",
+        "url": "https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Soy El Unico",
+      "url": "https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 148370,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -203,34 +267,18 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/1ceWXvh39yPWMZiR6d6rrV"
+        "name": "Por Eso T\u00fa",
+        "url": "https://open.spotify.com/album/47ozRi9t0GGajhkEFFeuDv"
       },
       "artists": [
         {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 220273,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/03NjizgksFxcj3JpxLh3vn"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Soy El Unico",
-        "url": "https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN"
+      "duration_ms": 192677,
+      "name": "Por Eso T\u00fa",
+      "url": "https://open.spotify.com/track/73Op2YIk2Ea5kJ9uHd99QH"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -251,142 +299,22 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/3VlJVBVcyprRfIf21M7fVk"
       },
       "artists": [
         {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 148370,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
         },
         {
-          "name": "Divergentes Inc.",
-          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
         }
       ],
-      "duration_ms": 211542,
-      "name": "Mu\u00e9vete",
-      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/18J0q27mMOs2kvlxH2Kqci"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Dj Yaso",
-          "url": "https://open.spotify.com/artist/6tt7Ubp6rzh4lqATTvdOmd"
-        }
-      ],
-      "duration_ms": 166173,
-      "name": "R9 Aleteo",
-      "url": "https://open.spotify.com/track/037VJbDruLmBcxzlEks9oa"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Por Eso T\u00fa",
-        "url": "https://open.spotify.com/album/47ozRi9t0GGajhkEFFeuDv"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 192677,
-      "name": "Por Eso T\u00fa",
-      "url": "https://open.spotify.com/track/73Op2YIk2Ea5kJ9uHd99QH"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "A donde quiera que voy",
-        "url": "https://open.spotify.com/album/3YhxtcOYrZovbnxPV3f41X"
-      },
-      "artists": [
-        {
-          "name": "Priscila F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI"
-        }
-      ],
-      "duration_ms": 224528,
-      "name": "A donde quiera que voy",
-      "url": "https://open.spotify.com/track/1NxXpAPKjrr9sO5WdDJ2RS"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "los d\u00edas en la sala",
-        "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 163411,
-      "name": "siempre te voy a querer",
-      "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "no me caigo tan bien",
-        "url": "https://open.spotify.com/album/4au2XrsSvknKfEX76fwfFI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 208443,
-      "name": "no me caigo tan bien",
-      "url": "https://open.spotify.com/track/5cRxATH6YHeZ6MMlYF47vQ"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "No Vale la Pena",
-        "url": "https://open.spotify.com/album/2n3yISkNF3ZUfVzwplQiKV"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Elie Tigre",
-          "url": "https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1"
-        }
-      ],
-      "duration_ms": 218932,
-      "name": "No Vale la Pena",
-      "url": "https://open.spotify.com/track/0fAGO86gKgFmeOLXATLyor"
+      "duration_ms": 213658,
+      "name": "Qu\u00e9date Conmigo",
+      "url": "https://open.spotify.com/track/6CwnSxlEYLdfmPGFlY61XC"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -415,18 +343,154 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Cu\u00e9ntame de Ti",
-        "url": "https://open.spotify.com/album/56Zy1G6xSyp69FPSEC3SEB"
+        "name": "t\u00fa vales la pena",
+        "url": "https://open.spotify.com/album/5WjmPd7foWYVCiyxpJnk4r"
       },
       "artists": [
         {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        },
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
         }
       ],
-      "duration_ms": 201818,
-      "name": "Cu\u00e9ntame de Ti",
-      "url": "https://open.spotify.com/track/54lDDgMnq3UWwjxaXWd6bE"
+      "duration_ms": 147180,
+      "name": "t\u00fa vales la pena",
+      "url": "https://open.spotify.com/track/1ewVg7ZtI4rliY9kAaNQWt"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/18J0q27mMOs2kvlxH2Kqci"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Dj Yaso",
+          "url": "https://open.spotify.com/artist/6tt7Ubp6rzh4lqATTvdOmd"
+        }
+      ],
+      "duration_ms": 166173,
+      "name": "R9 Aleteo",
+      "url": "https://open.spotify.com/track/037VJbDruLmBcxzlEks9oa"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "los d\u00edas en la sala",
+        "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 163411,
+      "name": "siempre te voy a querer",
+      "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "\u00bfCu\u00e1ndo Pero Cu\u00e1ndo?",
+        "url": "https://open.spotify.com/album/5HYltXcXeofknbuBjt8X4e"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 154576,
+      "name": "\u00bfCu\u00e1ndo Pero Cu\u00e1ndo?",
+      "url": "https://open.spotify.com/track/4Hsp0FRXibfhCQwKkSGTdV"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "No Vale la Pena",
+        "url": "https://open.spotify.com/album/2n3yISkNF3ZUfVzwplQiKV"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Elie Tigre",
+          "url": "https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1"
+        }
+      ],
+      "duration_ms": 218932,
+      "name": "No Vale la Pena",
+      "url": "https://open.spotify.com/track/0fAGO86gKgFmeOLXATLyor"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Divergentes Inc.",
+          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
+        }
+      ],
+      "duration_ms": 211542,
+      "name": "Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "M\u00e1s Tarde (Remix)",
+        "url": "https://open.spotify.com/album/73YYxkYl0FlBgD2uhfeTHR"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Elilluminari",
+          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "M\u00e1s Tarde (Remix)",
+      "url": "https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Singles Table (Deluxe)",
+        "url": "https://open.spotify.com/album/4BseeVs595AB7Pfza1zA8X"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 215732,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/67M2lSad5KJRCCM7wYIovs"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -447,6 +511,86 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "El Joven De San Luis",
+        "url": "https://open.spotify.com/album/3c7EsCogS6DYbRd2ivJun3"
+      },
+      "artists": [
+        {
+          "name": "El Bala",
+          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
+        }
+      ],
+      "duration_ms": 204813,
+      "name": "El Joven De San Luis",
+      "url": "https://open.spotify.com/track/2Wm28MbiEKH6vPiaEEWn6i"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "contigo va a estar bien",
+        "url": "https://open.spotify.com/album/7aitspSO60ab2xeVN2b33K"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 185889,
+      "name": "contigo va a estar bien",
+      "url": "https://open.spotify.com/track/3II1gxMk8QeElZoimHOEQ7"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Cu\u00e9ntame de Ti",
+        "url": "https://open.spotify.com/album/56Zy1G6xSyp69FPSEC3SEB"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 201818,
+      "name": "Cu\u00e9ntame de Ti",
+      "url": "https://open.spotify.com/track/54lDDgMnq3UWwjxaXWd6bE"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "\u00c1ngel",
+        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Consumo",
+        "url": "https://open.spotify.com/album/6Y2XVuQ2WwQXecT6XkFKTQ"
+      },
+      "artists": [
+        {
+          "name": "Jauria Santa",
+          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
+        }
+      ],
+      "duration_ms": 212230,
+      "name": "Consumo",
+      "url": "https://open.spotify.com/track/6YP8S9DHfoVSmHqXI4fusp"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "las horas",
         "url": "https://open.spotify.com/album/5b6bKtGLb4uC2Q9ANT53Yu"
       },
@@ -459,6 +603,22 @@
       "duration_ms": 215138,
       "name": "no me falta nada",
       "url": "https://open.spotify.com/track/6yiH4fLImaQ6LTm4uQx3ok"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "C'est Pas Moi",
+        "url": "https://open.spotify.com/album/1I9S7r4dEM14NWTYMcbLIX"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "C'est Pas Moi",
+      "url": "https://open.spotify.com/track/4LOS1xKULiLw4y4GegBlwE"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -483,106 +643,34 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "\u00bfCu\u00e1ndo Pero Cu\u00e1ndo?",
-        "url": "https://open.spotify.com/album/5HYltXcXeofknbuBjt8X4e"
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
       },
       "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 154576,
-      "name": "\u00bfCu\u00e1ndo Pero Cu\u00e1ndo?",
-      "url": "https://open.spotify.com/track/4Hsp0FRXibfhCQwKkSGTdV"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Bolero Triste",
-        "url": "https://open.spotify.com/album/1LQhIZ6TUYsbZXU02QhAIR"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Bolero Triste",
-      "url": "https://open.spotify.com/track/5sGZ8hCxOrzeSK3lX5Gjrv"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Singles Table (Deluxe)",
-        "url": "https://open.spotify.com/album/4BseeVs595AB7Pfza1zA8X"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 215732,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/67M2lSad5KJRCCM7wYIovs"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "t\u00fa vales la pena",
-        "url": "https://open.spotify.com/album/5WjmPd7foWYVCiyxpJnk4r"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        },
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 147180,
-      "name": "t\u00fa vales la pena",
-      "url": "https://open.spotify.com/track/1ewVg7ZtI4rliY9kAaNQWt"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "TODO HA CAMBIAO'",
-        "url": "https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        },
         {
           "name": "Sobrino",
           "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
         }
       ],
-      "duration_ms": 229369,
-      "name": "TODO HA CAMBIAO'",
-      "url": "https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR"
+      "duration_ms": 150441,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
     },
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "\u00c1ngel",
-        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
+        "name": "LSNC",
+        "url": "https://open.spotify.com/album/5srzFKsRKHUk09jV2R5Tnh"
       },
       "artists": [
         {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
         }
       ],
-      "duration_ms": 178000,
-      "name": "\u00c1ngel",
-      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
+      "duration_ms": 153711,
+      "name": "LSNC",
+      "url": "https://open.spotify.com/track/3LV3d4MEOVhcLuUhKvkltK"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -623,222 +711,34 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/3VlJVBVcyprRfIf21M7fVk"
+        "name": "Te Ofrezco",
+        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
       },
       "artists": [
         {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
         }
       ],
-      "duration_ms": 213658,
-      "name": "Qu\u00e9date Conmigo",
-      "url": "https://open.spotify.com/track/6CwnSxlEYLdfmPGFlY61XC"
+      "duration_ms": 206520,
+      "name": "Te Ofrezco",
+      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
     },
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Santos Woge",
-        "url": "https://open.spotify.com/album/3RWKOfEyQw4lpmYFrFgVZk"
+        "name": "De Sigilos y Decretos",
+        "url": "https://open.spotify.com/album/1Kcf9JddHIfAopxbYjH9xD"
       },
       "artists": [
         {
-          "name": "Santos Woge",
-          "url": "https://open.spotify.com/artist/5lnra4ar7XaI27La68JLBC"
+          "name": "Prismatic Shapes",
+          "url": "https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Estar\u00e9 Bien",
-      "url": "https://open.spotify.com/track/78iKbf5BrMzzGDHB5I8liK"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "un d\u00eda perfecto",
-        "url": "https://open.spotify.com/album/5DMYsl9natEMzLM4ApZiqh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 153777,
-      "name": "un d\u00eda perfecto",
-      "url": "https://open.spotify.com/track/4cK0cDb8RSBRIaC0kr7lOx"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Petite Amie",
-        "url": "https://open.spotify.com/album/28TqzlvN2K0te8ssOfwnLu"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "C'est Pas Moi",
-      "url": "https://open.spotify.com/track/1YIjej0CUTyxjZiGuHhkLg"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Aviones De Papel",
-        "url": "https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 193336,
-      "name": "Aviones De Papel",
-      "url": "https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "contigo va a estar bien",
-        "url": "https://open.spotify.com/album/7aitspSO60ab2xeVN2b33K"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 185889,
-      "name": "contigo va a estar bien",
-      "url": "https://open.spotify.com/track/3II1gxMk8QeElZoimHOEQ7"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Consumo",
-        "url": "https://open.spotify.com/album/6Y2XVuQ2WwQXecT6XkFKTQ"
-      },
-      "artists": [
-        {
-          "name": "Jauria Santa",
-          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
-        }
-      ],
-      "duration_ms": 212230,
-      "name": "Consumo",
-      "url": "https://open.spotify.com/track/6YP8S9DHfoVSmHqXI4fusp"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "BASADO EN HECHOS REALES",
-        "url": "https://open.spotify.com/album/0IcITWG6ouM737VCcXxanj"
-      },
-      "artists": [
-        {
-          "name": "Salma",
-          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
-        }
-      ],
-      "duration_ms": 163703,
-      "name": "mal h\u00e1bito",
-      "url": "https://open.spotify.com/track/0o9C7uGWMkW4yj79xawR8L"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Mamixhula",
-        "url": "https://open.spotify.com/album/0NXREpZBXGM2YSfntjRZg8"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 150615,
-      "name": "Mamixhula",
-      "url": "https://open.spotify.com/track/4e2h6gpPL3j1hHJt6YHApL"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Confirmo (En Vivo)",
-        "url": "https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Confirmo - En Vivo",
-      "url": "https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Vas A Querer",
-        "url": "https://open.spotify.com/album/3PLGh2ZWumnBTX6iGV6wqc"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 179164,
-      "name": "Vas A Querer",
-      "url": "https://open.spotify.com/track/4ioNX7DDXjwVXeX0gxIcHo"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "M\u00e1s Tarde (Remix)",
-        "url": "https://open.spotify.com/album/73YYxkYl0FlBgD2uhfeTHR"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Elilluminari",
-          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
-        },
-        {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "M\u00e1s Tarde (Remix)",
-      "url": "https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Cumbia Feminista",
-        "url": "https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ"
-      },
-      "artists": [
-        {
-          "name": "Las Decapitadas",
-          "url": "https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ"
-        }
-      ],
-      "duration_ms": 233513,
-      "name": "Cumbia Feminista",
-      "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
+      "duration_ms": 205000,
+      "name": "De Sigilos y Decretos",
+      "url": "https://open.spotify.com/track/7fqR5Ybmw7CWdTdAzf5mHB"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -859,18 +759,126 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+        "name": "Petite Amie",
+        "url": "https://open.spotify.com/album/28TqzlvN2K0te8ssOfwnLu"
       },
       "artists": [
         {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
         }
       ],
-      "duration_ms": 240678,
-      "name": "Cometa",
-      "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
+      "duration_ms": 205500,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/7dFgscXqE9tIXVYrbHQX7t"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/4oD1tOn7QCHpM4seVmUxmI"
+      },
+      "artists": [
+        {
+          "name": "Alan Wittels",
+          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
+        }
+      ],
+      "duration_ms": 143308,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/7npuLuI1b4NocURonjI1bB"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Dm",
+        "url": "https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "Dm",
+      "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Animal del Demonio",
+        "url": "https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs"
+      },
+      "artists": [
+        {
+          "name": "The Americojones Experience",
+          "url": "https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "La F\u00f3rmula Secreta",
+      "url": "https://open.spotify.com/track/1hbmlgKAdNqA6WHBKht7S1"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Femme Fatale",
+        "url": "https://open.spotify.com/album/4pvV8p2UmmlM5vGZw3nA6r"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 162178,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/2HayaiNRgl2MymW2creYkH"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Bolero Triste",
+        "url": "https://open.spotify.com/album/1LQhIZ6TUYsbZXU02QhAIR"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Bolero Triste",
+      "url": "https://open.spotify.com/track/5sGZ8hCxOrzeSK3lX5Gjrv"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Por Unos Centavos",
+        "url": "https://open.spotify.com/album/4L7tjJ5ChwXcY4jYCsaHHm"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Doom Deca",
+          "url": "https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL"
+        },
+        {
+          "name": "473 Music",
+          "url": "https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Por Unos Centavos",
+      "url": "https://open.spotify.com/track/3cTmJcHYrOKRadRRuD4TGp"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

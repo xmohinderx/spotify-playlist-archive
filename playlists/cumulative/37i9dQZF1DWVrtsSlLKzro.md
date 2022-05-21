@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-171 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+172 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Another Time](https://open.spotify.com/track/2W9zh4QNFmuOyKHbtYYNm0) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Another Time](https://open.spotify.com/album/6puL9vl482M9AKa3fm7v3B) | 4:15 | 2021-12-03 |  |
 | [Back To Me](https://open.spotify.com/track/2nQyEHecmmt0WE43mOsScr) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Back To Me](https://open.spotify.com/album/3dM5PL2xuR0xnRdkxFk0Sj) | 4:15 | 2022-01-14 |  |
 | [Back To You](https://open.spotify.com/track/1L5Znufb03Ic3r4CFRqTDA) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Back To You](https://open.spotify.com/album/3SqcLJf70hcH0oUiqu0b1x) | 3:13 | 2021-12-03 |  |
+| [Bad For Me \- 49th & Main Remix](https://open.spotify.com/track/38FA5zTDl8fQY0mGoCosxd) | [Bailey Baum](https://open.spotify.com/artist/0cIsZBvqdqr2KIdAjxCriY), [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Bad For Me \(49th & Main Remix\)](https://open.spotify.com/album/5eg2sHsFBcTbHeXsazb8p2) | 2:50 | 2022-05-20 |  |
 | [Bad Trip \(feat\. ØZMA\)](https://open.spotify.com/track/5cVy2DttzbtldeYPPmsUr6) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [ØZMA](https://open.spotify.com/artist/1UsQc0jh5G4xfmXtYWSOpQ) | [Bad Trip \(feat\. ØZMA\)](https://open.spotify.com/album/3rBKAB5nPTdETBLpoFq3fr) | 3:10 | 2021-12-03 | 2022-02-12 |
 | [Be Ok](https://open.spotify.com/track/1xe8rWI6ZToSgKdZ0HMNrO) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Be Ok](https://open.spotify.com/album/1EAYRPaU27CAiKlqf1tSRt) | 3:04 | 2021-12-03 |  |
 | [Better Apart \(feat\. Dresage\)](https://open.spotify.com/track/0k4yUonDEAqoIw3xL2XMVC) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [Better Apart \(feat\. Dresage\)](https://open.spotify.com/album/51XyesKizT4PYjYCrGhbEn) | 3:54 | 2021-12-03 | 2022-05-14 |

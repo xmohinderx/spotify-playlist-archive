@@ -808,6 +808,28 @@
     },
     {
       "album": {
+        "name": "Beat Up Cars",
+        "url": "https://open.spotify.com/album/2yKHDRQnC0ANZ6xgvE58eA"
+      },
+      "artists": [
+        {
+          "name": "Twenty Duce",
+          "url": "https://open.spotify.com/artist/1hDMGOfeY2XZYTzhyZQGlt"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219001,
+      "name": "Beat Up Cars",
+      "url": "https://open.spotify.com/track/0FhDuLVZUiaE0bmqpDnwLe"
+    },
+    {
+      "album": {
         "name": "Beauty In The Madness",
         "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
       },
@@ -1799,6 +1821,10 @@
         {
           "name": "Xansei",
           "url": "https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz"
+        },
+        {
+          "name": "DBO",
+          "url": "https://open.spotify.com/artist/2zEat9180Q6k9FkAxTJCzd"
         },
         {
           "name": "Dok2",

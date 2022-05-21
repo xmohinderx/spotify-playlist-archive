@@ -1,12 +1,12 @@
 {
   "description": "and why aren't you in uniform?",
-  "num_followers": 432628,
+  "num_followers": 432769,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAyNTgwMCwwMDAwMDA4YTAwMDAwMTgwZTAwM2ZmYWYwMDAwMDE4MGI5YmE2NDZk",
+  "snapshot_id": "MTY1MzA2MzU0MCwwMDAwMDA4YjAwMDAwMTgwZTI0M2UwMmUwMDAwMDE4MGI5YmE2NDZk",
   "tracks": [
     {
       "added_at": "2022-05-20 05:50:00",
@@ -157,6 +157,22 @@
       "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
     },
     {
+      "added_at": "2022-05-20 16:19:00",
+      "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
+    },
+    {
       "added_at": "2022-04-11 13:35:22",
       "album": {
         "name": "The Neptunes Present... Clones",
@@ -259,26 +275,6 @@
       "duration_ms": 188385,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/5dcZUsgcMW57ju0A379O7c"
-    },
-    {
-      "added_at": "2022-04-28 18:55:25",
-      "album": {
-        "name": "Out Of Time (Remix Bundle)",
-        "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 275555,
-      "name": "Out of Time - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
     },
     {
       "added_at": "2022-05-13 16:29:47",

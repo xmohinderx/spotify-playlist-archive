@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Cover: Abdul Hannan
 
-114 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
+115 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [lost](https://open.spotify.com/track/0R7rIsxEpTq1V0vqniFXzr) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [lost](https://open.spotify.com/album/2HWfMyHEtgfQ0Aug0qFq5g) | 3:11 | 2021-12-06 |  |
 | [Lovesick](https://open.spotify.com/track/3Xvnh8wxRtnQUB9vGYhmUQ) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Lovesick](https://open.spotify.com/album/3GVx36db2WQ05MTg2eh8Q0) | 3:04 | 2021-12-06 |  |
 | [Mahi Ve](https://open.spotify.com/track/2gpa7p45wwh0QDNOQsorgL) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Mahi Ve](https://open.spotify.com/album/34aSTfoU0Y48pSE51JjpWQ) | 2:53 | 2021-12-06 |  |
+| [Mast](https://open.spotify.com/track/5dHGX2pviaNnlSKk54Stc1) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Mast](https://open.spotify.com/album/3oYoSAIV7hSpYxKkJOU3xW) | 4:00 | 2022-05-20 |  |
 | [Mein Hoon](https://open.spotify.com/track/2gU0WQqw8sN39k58r9l3cX) | [Shahrukh Sarfraz](https://open.spotify.com/artist/5hKq3AUOAwEIBCic2Jqfsm), [Neha Karim Ullah](https://open.spotify.com/artist/08aOaVi90Pza2qG0i9e9RA) | [Mein Hoon](https://open.spotify.com/album/2e7VmVvCxZhBCHIQVGeO6B) | 2:59 | 2021-12-06 |  |
 | [Mera Dost Pareshan Hai](https://open.spotify.com/track/3wWJNHYxr2UBSWxMYsASa5) | [Mehdi Maloof](https://open.spotify.com/artist/6TL4dC4u5Nb3ZpROsM7DzR), [Ali Hamdani](https://open.spotify.com/artist/5ltaWbvJnjYMicuNZ2m4fL), [Shamsher Rana](https://open.spotify.com/artist/77XstydhnCGfW4wfVm3RRk), [Varqa Faraid](https://open.spotify.com/artist/58Sy8Jc3tHOFT5KLBgr8Xp) | [Mera Dost Pareshan Hai](https://open.spotify.com/album/1JoS8znRKb3Oaxxzr033V8) | 3:49 | 2021-12-06 |  |
 | [Mute](https://open.spotify.com/track/1k4BN3YPqVYhkYSugUH0mK) | [Sameen Qasim](https://open.spotify.com/artist/1TuZ9m2yr7qMmiovlOVS9O), [Shorbanoor](https://open.spotify.com/artist/7DXkuP7zCFpe1beSL1LjjD) | [Mute](https://open.spotify.com/album/6EwgLUXMEaxzRDiqwHKn82) | 3:25 | 2022-03-15 |  |

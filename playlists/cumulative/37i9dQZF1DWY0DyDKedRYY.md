@@ -4,7 +4,7 @@
 
 > RADAR pick Zach Bryan tops our list of artists to watch right now.
 
-182 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
+184 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 | 2021-12-01 | 2022-04-09 |
 | [Being Honest](https://open.spotify.com/track/3PbRjYudOMppYH3vjW0o8c) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 2:33 | 2021-12-01 | 2022-04-09 |
 | [Bellakeame](https://open.spotify.com/track/2ay6hILOrRtXpi7Wpsmasr) | [Roa](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Bellakeame](https://open.spotify.com/album/4HEW97ER8ogI1KdHns3WH5) | 2:03 | 2022-04-08 | 2022-05-18 |
+| [BILLIE EILISH.](https://open.spotify.com/track/5xSBtosiVoy96vv4rcngLX) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/33ISZtPbyr5sga8Ua1ri7M) | 1:39 | 2022-05-20 |  |
 | [Black Creek Drive](https://open.spotify.com/track/7IULkVSVV4e8kfL4JZWhx8) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [3511](https://open.spotify.com/album/0oMyGTRdTb2gdyUD19SYYE) | 3:29 | 2021-12-01 | 2022-04-09 |
 | [Bling Up](https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [Bling Up](https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ) | 2:57 | 2021-12-01 | 2022-04-09 |
 | [Bored](https://open.spotify.com/track/0HvQnhwzffkWoOcxL8CL1a) | [Olivia Mae Graham](https://open.spotify.com/artist/0aYagTq2r8P9Z8KR8sby2H) | [Bored](https://open.spotify.com/album/5F4ZuU8pCWa0eUiPVYiAU5) | 2:49 | 2022-05-17 |  |
@@ -180,6 +181,7 @@
 | [Until It Stops \- Spotify Singles](https://open.spotify.com/track/0dN85vbuUdU7Hnu0hLZHsN) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Until It Stops \(Spotify Singles\)](https://open.spotify.com/album/6EmA1GZ0KIb5cpXBOrIB5y) | 2:36 | 2021-12-01 | 2022-04-09 |
 | [VACAXIONES](https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VACAXIONES](https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7) | 3:06 | 2021-12-01 | 2022-04-09 |
 | [Waddup \(feat\. Polo G\)](https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Waddup \(feat\. Polo G\)](https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9) | 3:01 | 2022-05-17 |  |
+| [Wasteland](https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Wasteland](https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be) | 3:03 | 2022-05-20 |  |
 | [Wat U Need](https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0G3gjrxHd6QIbiSGxNBJ2h) | 2:01 | 2022-05-17 |  |
 | [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 | 2021-12-01 | 2022-04-09 |
 | [Whateva U Need](https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Body \(EP\)](https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p) | 3:57 | 2021-12-01 | 2022-04-09 |

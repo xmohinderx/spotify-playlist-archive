@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 162711,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/2nCL4jSUB2iLfySrjVTWgj"
@@ -1885,7 +1885,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 178080,
       "name": "Dynasties and Dystopia (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2k2RPHMeyercU9PauiKNbU"
@@ -2497,7 +2497,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 156666,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/4gi2kndWShH9kDbb9kBfs6"
@@ -2749,7 +2749,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 207360,
       "name": "Frankenstein (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3gDRZkL8YfzpZg1N1YsW5x"
@@ -3043,7 +3043,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 168601,
       "name": "Going Dumb",
       "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
@@ -3181,7 +3181,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 123151,
       "name": "GTA 2",
       "url": "https://open.spotify.com/track/0qjux3nULEYN7Yz9jijgWz"
@@ -3441,7 +3441,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 193322,
       "name": "Honest (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
@@ -3594,6 +3594,28 @@
     },
     {
       "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231803,
+      "name": "I Can't Tell (feat. LAUREL)",
+      "url": "https://open.spotify.com/track/23pL9muwrxg6ZZTp0oErBL"
+    },
+    {
+      "album": {
         "name": "I Look Good",
         "url": "https://open.spotify.com/album/2AqcOLyhqhrNMLCawOsMpo"
       },
@@ -3649,7 +3671,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 123186,
       "name": "I'll Bite Your Soul",
       "url": "https://open.spotify.com/track/71qKWIBggc7poNXclWN53M"
@@ -3805,7 +3827,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 228125,
       "name": "IT HURTS!",
       "url": "https://open.spotify.com/track/52PIxWAf66CKCpHdGyARzt"
@@ -4271,7 +4293,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 138928,
       "name": "life got crazy",
       "url": "https://open.spotify.com/track/5NXthnJecYXjt7sTEWETTY"
@@ -4609,7 +4631,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 188368,
       "name": "love nwantiti (feat. Dj Yo! & AX'EL) - Remix",
       "url": "https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU"
@@ -5384,6 +5406,32 @@
     },
     {
       "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/36zw4Ir1YqmiCUlhYpJuRx"
+      },
+      "artists": [
+        {
+          "name": "FaZe Kaysan",
+          "url": "https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/2ayvMaVf5RAXnNQwHvArB7"
+    },
+    {
+      "album": {
         "name": "What It Means To Be King",
         "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
       },
@@ -5435,7 +5483,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 195950,
       "name": "N95",
       "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
@@ -5777,7 +5825,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 166400,
       "name": "Nuketown (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9"
@@ -5869,7 +5917,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 175729,
       "name": "Onna Come Up (feat. G Herbo) [Remix]",
       "url": "https://open.spotify.com/track/6bCWyr3C3ngZdwizTYWQTG"
@@ -5931,6 +5979,24 @@
       "duration_ms": 129882,
       "name": "ORANGE SODA",
       "url": "https://open.spotify.com/track/6b5fPdo7XNZrwcTASG1hK7"
+    },
+    {
+      "album": {
+        "name": "Virgo World",
+        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98413,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD"
     },
     {
       "album": {
@@ -6205,7 +6271,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 141343,
       "name": "Phonky Town",
       "url": "https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv"
@@ -6381,7 +6447,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 210000,
       "name": "Praise (feat. Gunna)",
       "url": "https://open.spotify.com/track/5cz0T1Q8AmpY18TDLAe2ja"
@@ -6791,7 +6857,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 172800,
       "name": "Ric Flair Drip (with Metro Boomin)",
       "url": "https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR"
@@ -7757,7 +7823,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
@@ -8063,6 +8129,28 @@
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "album": {
+        "name": "The Best Part of Life (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198979,
+      "name": "The Best Part of Life (Imanbek Remix)",
+      "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
     },
     {
       "album": {

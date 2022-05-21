@@ -351,7 +351,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2021-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
@@ -1311,7 +1311,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 176602,
       "name": "Boys Do Cry",
       "url": "https://open.spotify.com/track/6k0V6IGOMTyoLbxRqQeE8b"
@@ -1481,7 +1481,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 131520,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/7hXMNiEGLMxlu0ugBcVYVw"
@@ -1983,7 +1983,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 283642,
       "name": "Count Me Out",
       "url": "https://open.spotify.com/track/7pj6P5WnxkZsw3XRc8eMe1"
@@ -2915,7 +2915,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 181795,
       "name": "Eat Your Salad",
       "url": "https://open.spotify.com/track/0rNIEBlBuo5108lnHyGbqJ"
@@ -3065,7 +3065,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
@@ -3167,7 +3167,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 177386,
       "name": "Fade to black",
       "url": "https://open.spotify.com/track/7aX4w6c7gSqbTBoU8g2lnm"
@@ -4239,7 +4239,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 159600,
       "name": "Halo (feat. PIA MARIA)",
       "url": "https://open.spotify.com/track/6WVHfpzYW3HooQaCC80opC"
@@ -4555,7 +4555,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 180573,
       "name": "Hold Me Closer - Eurovision Version",
       "url": "https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4"
@@ -6272,6 +6272,24 @@
     },
     {
       "album": {
+        "name": "Leid\u017eiu Sau Visk\u0105",
+        "url": "https://open.spotify.com/album/2tk96MPzdZDxczCjZRAwdj"
+      },
+      "artists": [
+        {
+          "name": "GJan",
+          "url": "https://open.spotify.com/artist/6fuceMe1tElXcrzMaSjdcy"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Leid\u017eiu Sau Visk\u0105",
+      "url": "https://open.spotify.com/track/52eAieWS7smUTma4islWd9"
+    },
+    {
+      "album": {
         "name": "B4 The Storm",
         "url": "https://open.spotify.com/album/2vGU0DOcfsDee0euvhl1iZ"
       },
@@ -6509,7 +6527,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 179323,
       "name": "Lights Off - ESC Version",
       "url": "https://open.spotify.com/track/0tOKpglJb9cza4WdTtxsv7"
@@ -7281,7 +7299,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 180733,
       "name": "Me\u00f0 h\u00e6kkandi s\u00f3l",
       "url": "https://open.spotify.com/track/4t3gM4Rl5rz5du0Qn2Yd8K"
@@ -8155,7 +8173,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 178325,
       "name": "Not The Same",
       "url": "https://open.spotify.com/track/27ThQIsofXro6xEz3SzQWi"
@@ -9761,7 +9779,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 180201,
       "name": "River - Eurovision 2022 - Poland",
       "url": "https://open.spotify.com/track/6mkQtlv43QQcW6ivLuL9JE"
@@ -9903,7 +9921,7 @@
       ],
       "date_added": "2021-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 162079,
       "name": "Rugpj\u016btis",
       "url": "https://open.spotify.com/track/2psbE7Ds01Xz2MaMIk7APk"
@@ -10513,7 +10531,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 172675,
       "name": "SHUM",
       "url": "https://open.spotify.com/track/29bhnde7Gvnp7rvY9zsq5S"
@@ -10571,7 +10589,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 220779,
       "name": "Silent Hill",
       "url": "https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi"
@@ -10709,7 +10727,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 180000,
       "name": "SloMo - Eurovision's Dancebreak Edit",
       "url": "https://open.spotify.com/track/00rUx6vPpy0XbJer8BcoRn"
@@ -10855,7 +10873,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -11127,7 +11145,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -11329,7 +11347,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -11909,7 +11927,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
@@ -12675,7 +12693,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 204500,
       "name": "Vasar\u0105 galvoj minoras",
       "url": "https://open.spotify.com/track/1wGPGvj0moDoKMMVwFWFLj"
@@ -12991,7 +13009,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 341307,
       "name": "We Cry Together",
       "url": "https://open.spotify.com/track/0RAvy97QRPzO2AfK5Dw6j3"
@@ -13267,7 +13285,7 @@
       ],
       "date_added": "2021-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
@@ -13375,7 +13393,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 203367,
       "name": "Worldwide Steppers",
       "url": "https://open.spotify.com/track/5p56JT5F9a1z9pwXnqTg7d"

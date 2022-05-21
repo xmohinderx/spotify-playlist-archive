@@ -530,6 +530,24 @@
     },
     {
       "album": {
+        "name": "Hotel Room",
+        "url": "https://open.spotify.com/album/2SoyvUgq6doxWrBW45q1E8"
+      },
+      "artists": [
+        {
+          "name": "Tony Evans Jr.",
+          "url": "https://open.spotify.com/artist/3PvNwJTtWwtnkwW01JkNeE"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151700,
+      "name": "Hotel Room",
+      "url": "https://open.spotify.com/track/1owUVU4Hg4Qqb6sn6wnVid"
+    },
+    {
+      "album": {
         "name": "I Like You Better",
         "url": "https://open.spotify.com/album/79MV4Y5B13sz8nlhEJh4bG"
       },
@@ -983,6 +1001,24 @@
       "duration_ms": 173440,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/6DrAI5Q4X00IBQIOE2jLOK"
+    },
+    {
+      "album": {
+        "name": "Somebody's Gotta Do It",
+        "url": "https://open.spotify.com/album/6sKyDqddZhAQKYrZonPCQX"
+      },
+      "artists": [
+        {
+          "name": "Tony Evans Jr.",
+          "url": "https://open.spotify.com/artist/3PvNwJTtWwtnkwW01JkNeE"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196401,
+      "name": "Somebody's Gotta Do It",
+      "url": "https://open.spotify.com/track/4NocrufS4EcSjccPQYJIDD"
     },
     {
       "album": {

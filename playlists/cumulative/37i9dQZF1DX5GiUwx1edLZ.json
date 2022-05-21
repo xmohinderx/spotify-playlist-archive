@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 217043,
       "name": "Another Chance - Don Diablo Chill Mix",
       "url": "https://open.spotify.com/track/7HZqD8EWEBQrklzLf3oQer"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 212846,
       "name": "Better Half Of Me - Acoustic Mix",
       "url": "https://open.spotify.com/track/1D4w5YySaeByR5OgvBkfbC"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 265718,
       "name": "Concrete Angel (acoustic)",
       "url": "https://open.spotify.com/track/62sJECqRfQ6P7pkNwfnkaO"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 260285,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 209774,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/2m3ouxt4GwarBCRCmwDJdO"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 192978,
       "name": "Don't Wanna Be Right (Acoustic)",
       "url": "https://open.spotify.com/track/1E2q2ZFaXpqxXZlztdn2iV"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 340000,
       "name": "Embrace - Lowland Classical Remix",
       "url": "https://open.spotify.com/track/7B6aUliCHEhaWDaUBZGWqj"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 188037,
       "name": "Good Day Bad Day - Emotional Edit",
       "url": "https://open.spotify.com/track/17k9pVUNbiN6l3UtJeX3Wx"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 250506,
       "name": "Happier - Stripped",
       "url": "https://open.spotify.com/track/2FkQbpFk34QN97I3OHmfaA"
@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 245066,
       "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
       "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
@@ -1611,7 +1611,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 151974,
       "name": "Lighter (feat. KSI & Ella Henderson) - Acoustic",
       "url": "https://open.spotify.com/track/7AKVU7SsXyPlWvRJPSTWHV"
@@ -1835,7 +1835,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 191760,
       "name": "Love Me Like You Never Did (Acoustic)",
       "url": "https://open.spotify.com/track/1Oy4c5vseF1wbnKle1ZQQp"
@@ -1857,7 +1857,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 237923,
       "name": "Lullaby - Acoustic",
       "url": "https://open.spotify.com/track/4f5LDR4RWrboZT1YoSUfcy"
@@ -1883,6 +1883,28 @@
       "duration_ms": 169200,
       "name": "Mad World - Acoustic Version",
       "url": "https://open.spotify.com/track/7BRYEE8wi0gye3T5V7zro9"
+    },
+    {
+      "album": {
+        "name": "Married to Your Melody",
+        "url": "https://open.spotify.com/album/1BkLF64aRSd3mOBxcPChhD"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181636,
+      "name": "Married to Your Melody - Acoustic Version",
+      "url": "https://open.spotify.com/track/4UPMf6fDQB8Ckdtah1SIqO"
     },
     {
       "album": {
@@ -1999,7 +2021,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 232066,
       "name": "No Promises - Acoustic",
       "url": "https://open.spotify.com/track/10tuukId64A915wwQ9HzhK"
@@ -2087,7 +2109,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 172756,
       "name": "Old Friend - Live Acoustic",
       "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
@@ -2105,7 +2127,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 263631,
       "name": "On a Good Day",
       "url": "https://open.spotify.com/track/7b9tTbSIfpAePo4v18dbwv"
@@ -2671,7 +2693,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 304983,
       "name": "Satellite / Stealing Time",
       "url": "https://open.spotify.com/track/7fBKJ3CxmG1LQHexTIY7g7"
@@ -2825,7 +2847,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 194000,
       "name": "Shockwave - Acoustic Version",
       "url": "https://open.spotify.com/track/57A8SCoG3YamyeNzizCtaH"
@@ -3011,7 +3033,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 255582,
       "name": "Sun Comes Up - Acoustic",
       "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
@@ -3281,7 +3303,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 260839,
       "name": "Thing Called Love",
       "url": "https://open.spotify.com/track/6J6AUucDtx9c0cjzjBUUtS"
@@ -3699,7 +3721,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 199750,
       "name": "Winterburn - Geert Huinink Orchestral Version",
       "url": "https://open.spotify.com/track/1xMCUb9iBxgjyYQF5Lfwwy"

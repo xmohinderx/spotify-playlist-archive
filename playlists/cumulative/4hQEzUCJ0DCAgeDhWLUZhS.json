@@ -2130,6 +2130,24 @@
     },
     {
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/5jYUpYaH4hDo3xDehiziBZ"
+      },
+      "artists": [
+        {
+          "name": "Astronoid",
+          "url": "https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324160,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/6L1xYJekj95F3Cu2kJHrBr"
+    },
+    {
+      "album": {
         "name": "Human Crime",
         "url": "https://open.spotify.com/album/5t30kYZOvnKjhQPojZMpVi"
       },
@@ -3937,6 +3955,24 @@
       "duration_ms": 210360,
       "name": "Scumbag (feat. blink-182)",
       "url": "https://open.spotify.com/track/2Srbekd8waUUAr0gIMt5dg"
+    },
+    {
+      "album": {
+        "name": "Season 5 (Break My Fall)",
+        "url": "https://open.spotify.com/album/2Cew4ZRUkzcT9Dn8AlPMco"
+      },
+      "artists": [
+        {
+          "name": "TOWNS",
+          "url": "https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194485,
+      "name": "Season 5 (Break My Fall)",
+      "url": "https://open.spotify.com/track/0SfCryEa05GUIWP9DJEd7R"
     },
     {
       "album": {

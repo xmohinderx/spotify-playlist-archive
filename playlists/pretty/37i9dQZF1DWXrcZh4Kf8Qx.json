@@ -1,28 +1,28 @@
 {
   "description": "All 70s, all ballads. Cover: Barbra Streisand",
-  "num_followers": 160468,
+  "num_followers": 160587,
   "original_name": "70s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAyNjEwNiwwMDAwMDAwMGZkM2I3ZTQ5NGNiNmU5OGU3Njc0MDZiMmU1MDM2Y2Q3",
+  "snapshot_id": "MTY1MzA5NDc2NywwMDAwMDAwMGE0ZDAxMzQ1NzJjOTI0NDc3YzA1YmE4MWE2YzVkYTU4",
   "tracks": [
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 225026,
-      "name": "Wonderful Tonight",
-      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2022-04-25 03:23:16",
@@ -43,8 +43,40 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "Baby I'm-a Want You",
-        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
+        "name": "Mud Slide Slim and the Blue Horizon",
+        "url": "https://open.spotify.com/album/0h8hazllDADHsrSpcQCltk"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/69l8nFPu0LWmnoJX7YSVYc"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "On the Waters",
+        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
       },
       "artists": [
         {
@@ -52,9 +84,25 @@
           "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Everything I Own",
-      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
+      "duration_ms": 192200,
+      "name": "Make It with You",
+      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Barry Manilow II",
+        "url": "https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Mandy",
+      "url": "https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3"
     },
     {
       "added_at": "2022-04-25 03:23:16",
@@ -68,25 +116,9 @@
           "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Mud Slide Slim and the Blue Horizon",
-        "url": "https://open.spotify.com/album/0h8hazllDADHsrSpcQCltk"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "You've Got a Friend",
-      "url": "https://open.spotify.com/track/69l8nFPu0LWmnoJX7YSVYc"
+      "duration_ms": 201373,
+      "name": "She's Always a Woman",
+      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
     },
     {
       "added_at": "2022-04-25 03:23:16",
@@ -123,6 +155,150 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
+        "name": "The Way We Were",
+        "url": "https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 211093,
+      "name": "The Way We Were",
+      "url": "https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Endless Flight",
+        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "duration_ms": 253226,
+      "name": "When I Need You - Remastered",
+      "url": "https://open.spotify.com/track/2TcwEYyydQuEMJwdmSgVLD"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 213712,
+      "name": "Desperado - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Chicago X",
+        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "If You Leave Me Now",
+      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 218186,
+      "name": "The Long And Winding Road - Remastered 2009",
+      "url": "https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Poems, Prayers and Promises",
+        "url": "https://open.spotify.com/album/2pC8cBI8mVDZKXfR8XoBKo"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 309960,
+      "name": "Sunshine on My Shoulders",
+      "url": "https://open.spotify.com/track/6uwFa9tBkVKQvQXITjVMe3"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Warmer",
+        "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
+      },
+      "artists": [
+        {
+          "name": "Randy VanWarmer",
+          "url": "https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Just When I Needed You Most",
+      "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Caribou",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 336733,
+      "name": "Don't Let The Sun Go Down On Me",
+      "url": "https://open.spotify.com/track/11FcfHd3SOmmrWJPGe7Y30"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
         "name": "The Ultimate Collection 1968-2003",
         "url": "https://open.spotify.com/album/7kJxjkRxiAy0NeFIaRqcKV"
       },
@@ -155,118 +331,6 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "The Way We Were",
-        "url": "https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "The Way We Were",
-      "url": "https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Caribou",
-        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 336733,
-      "name": "Don't Let The Sun Go Down On Me",
-      "url": "https://open.spotify.com/track/11FcfHd3SOmmrWJPGe7Y30"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Barry Manilow II",
-        "url": "https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Mandy",
-      "url": "https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Poems, Prayers and Promises",
-        "url": "https://open.spotify.com/album/2pC8cBI8mVDZKXfR8XoBKo"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 309960,
-      "name": "Sunshine on My Shoulders",
-      "url": "https://open.spotify.com/track/6uwFa9tBkVKQvQXITjVMe3"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 201373,
-      "name": "She's Always a Woman",
-      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "On the Waters",
-        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Make It with You",
-      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Jackpot! The Best Bette",
-        "url": "https://open.spotify.com/album/7fMaW2J2rb9EdcHG2TMZup"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 215026,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/5iUzEn2QzBW0KEWNQO1KQC"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -279,102 +343,6 @@
       "duration_ms": 293120,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "Vincent",
-      "url": "https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 218186,
-      "name": "The Long And Winding Road - Remastered 2009",
-      "url": "https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "All The Great Love Songs",
-        "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "Three Times A Lady",
-      "url": "https://open.spotify.com/track/4ztwMHfPZhPoruZdBbgriM"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "A Night on the Town",
-        "url": "https://open.spotify.com/album/6z4jnK1fRHP80RJC8x9UFd"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "The First Cut Is the Deepest",
-      "url": "https://open.spotify.com/track/3FeYjbIVqvAhuTcwsE6K3v"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Let's Keep It That Way",
-        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "You Needed Me",
-      "url": "https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Hollies",
-        "url": "https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H"
-      },
-      "artists": [
-        {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
-        }
-      ],
-      "duration_ms": 257106,
-      "name": "The Air That I Breathe - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6yLIqXX9edg1x0HZS7cZEv"
     },
     {
       "added_at": "2022-04-25 03:23:16",
@@ -395,162 +363,18 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
+        "name": "Jackpot! The Best Bette",
+        "url": "https://open.spotify.com/album/7fMaW2J2rb9EdcHG2TMZup"
       },
       "artists": [
         {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
         }
       ],
-      "duration_ms": 228840,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Nilsson Schmilsson",
-        "url": "https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB"
-      },
-      "artists": [
-        {
-          "name": "Harry Nilsson",
-          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Natural High",
-        "url": "https://open.spotify.com/album/01xiIydpf1MyOg7DWDRF2N"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 398506,
-      "name": "Three Times A Lady",
-      "url": "https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 288266,
-      "name": "I Don't Want to Talk About It - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Closeup",
-        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "My Eyes Adored You",
-      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "We Must Believe In Magic",
-        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Don't It Make My Brown Eyes Blue",
-      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Desperado (2013 Remaster)",
-        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 213712,
-      "name": "Desperado - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Lost in Love",
-        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "All Out of Love",
-      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
+      "duration_ms": 215026,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/5iUzEn2QzBW0KEWNQO1KQC"
     },
     {
       "added_at": "2022-04-25 03:23:16",
@@ -571,18 +395,242 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "Warmer",
-        "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
+        "name": "Hollies",
+        "url": "https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H"
       },
       "artists": [
         {
-          "name": "Randy VanWarmer",
-          "url": "https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm"
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
         }
       ],
-      "duration_ms": 241746,
-      "name": "Just When I Needed You Most",
-      "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
+      "duration_ms": 257106,
+      "name": "The Air That I Breathe - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6yLIqXX9edg1x0HZS7cZEv"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Let's Keep It That Way",
+        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "You Needed Me",
+      "url": "https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Closeup",
+        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "My Eyes Adored You",
+      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Red Rose Speedway",
+        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "My Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Nilsson Schmilsson",
+        "url": "https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB"
+      },
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "All The Great Love Songs",
+        "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "Three Times A Lady",
+      "url": "https://open.spotify.com/track/4ztwMHfPZhPoruZdBbgriM"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 288266,
+      "name": "I Don't Want to Talk About It - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 228932,
+      "name": "Candle In The Wind - Remastered 2014",
+      "url": "https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Lost in Love",
+        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "All Out of Love",
+      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "We Must Believe In Magic",
+        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Don't It Make My Brown Eyes Blue",
+      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "McCartney (Archive Collection)",
+        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Maybe I\u2019m Amazed - Remastered 2011",
+      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/01xiIydpf1MyOg7DWDRF2N"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 398506,
+      "name": "Three Times A Lady",
+      "url": "https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Mythology",
+        "url": "https://open.spotify.com/album/1ePV6K6qtvsn7kUPMwqaWJ"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Run To Me",
+      "url": "https://open.spotify.com/track/5cDZAaBAZk6PcPwyME40is"
     },
     {
       "added_at": "2022-04-25 03:23:16",
@@ -603,34 +651,34 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "Love Rocks - After Midnight, Vol. 5",
-        "url": "https://open.spotify.com/album/5HvOcH2mki1HLeMxgcmjnt"
+        "name": "The Complete Greatest Hits (2013 Remaster)",
+        "url": "https://open.spotify.com/album/21SQdfthbXUibmA8Jtf30b"
       },
       "artists": [
         {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 218000,
-      "name": "We're All Alone",
-      "url": "https://open.spotify.com/track/4QGcS9KL4M9zOAy8JQ2cy0"
+      "duration_ms": 287090,
+      "name": "Take It to the Limit - 2013 Remaster",
+      "url": "https://open.spotify.com/track/7paiew5fG14JcbGCCpJ0P5"
     },
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "Red Rose Speedway",
-        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
+        "name": "A Night on the Town",
+        "url": "https://open.spotify.com/album/6z4jnK1fRHP80RJC8x9UFd"
       },
       "artists": [
         {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 247733,
-      "name": "My Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
+      "duration_ms": 271200,
+      "name": "The First Cut Is the Deepest",
+      "url": "https://open.spotify.com/track/3FeYjbIVqvAhuTcwsE6K3v"
     },
     {
       "added_at": "2022-04-25 03:23:16",
@@ -667,54 +715,6 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6g9uPPHtnxQLSUd6d9xK8n"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 228932,
-      "name": "Candle In The Wind - Remastered 2014",
-      "url": "https://open.spotify.com/track/5khtjkzX0pzH1cjDgM6K6H"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "The Complete Greatest Hits (2013 Remaster)",
-        "url": "https://open.spotify.com/album/21SQdfthbXUibmA8Jtf30b"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 287090,
-      "name": "Take It to the Limit - 2013 Remaster",
-      "url": "https://open.spotify.com/track/7paiew5fG14JcbGCCpJ0P5"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "After the Love Has Gone",
-      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
         "name": "The Spy Who Loved Me",
         "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
       },
@@ -735,34 +735,34 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "McCartney (Archive Collection)",
-        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
       "artists": [
         {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
         }
       ],
-      "duration_ms": 229826,
-      "name": "Maybe I\u2019m Amazed - Remastered 2011",
-      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
+      "duration_ms": 143333,
+      "name": "All I Have to Do Is Dream",
+      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
     },
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "Mythology",
-        "url": "https://open.spotify.com/album/1ePV6K6qtvsn7kUPMwqaWJ"
+        "name": "The Best of Bread",
+        "url": "https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
         }
       ],
-      "duration_ms": 191933,
-      "name": "Run To Me",
-      "url": "https://open.spotify.com/track/5cDZAaBAZk6PcPwyME40is"
+      "duration_ms": 187000,
+      "name": "Everything I Own",
+      "url": "https://open.spotify.com/track/3cflKYvbpuih1EKvgREcEg"
     },
     {
       "added_at": "2022-04-25 03:23:16",
@@ -783,34 +783,34 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "The Very Best Of Don McLean",
-        "url": "https://open.spotify.com/album/420xo0cugEiChNYB6uanu9"
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
       "artists": [
         {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 256426,
-      "name": "And I Love You So",
-      "url": "https://open.spotify.com/track/7tPKLyVCht1WMkPtp1HyPh"
+      "duration_ms": 245200,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
     },
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "Eric Carmen",
-        "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
+        "name": "Moondance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O"
       },
       "artists": [
         {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 430000,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
+      "duration_ms": 155453,
+      "name": "Crazy Love - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw"
     }
   ],
   "unique_name": "70s Ballads",

@@ -2,7 +2,7 @@
 
 ### [Viva Latino](https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva)
 
-> Today's top Latin hits, elevando nuestra música\. Cover: Karol G
+> Today's top Latin hits, elevando nuestra música\. Cover: KAROL G
 
 131 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/5BhGHTGbq4HOInzfEXtLEB)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: OSN \(高爾宣\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,597 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,626 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 69 | [沒有你的生活像是個Nightmare](https://open.spotify.com/track/06jqyRSwrf3HPMDTetmlL7) | [Ace](https://open.spotify.com/artist/13jNwSdQV837VJRwD04XF6) | [沒有你的生活像是個Nightmare](https://open.spotify.com/album/5tb6uiieh64UhChf0y64Qu) | 2:44 |
 | 70 | [Young King Young Boss \(feat\. KnowKnow\)](https://open.spotify.com/track/5o1YTrMJLpvpiQvEBbOLFY) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx), [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN) | [Young King Young Boss](https://open.spotify.com/album/6VG3q4W933ITLJyDTpPGYM) | 2:43 |
 | 71 | [想到你](https://open.spotify.com/track/3zcVBUTaLm9SWsmJ02ZtJk) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [李大奔](https://open.spotify.com/artist/5sF2WUeEL2qiV03Vym3727) | [想到你](https://open.spotify.com/album/0DjZ2VAWMoUXmnf4bBRF71) | 3:44 |
-| 72 | [Sweet Spot](https://open.spotify.com/track/20iDKSsJRjJrMn4pH5C4uZ) | [Neil YEN](https://open.spotify.com/artist/3egdUHMglwkZZ1jO3BGOEC), [李紅 REDLEE](https://open.spotify.com/artist/7ahYM3HOzhaq2tJbdYnLB7) | [Tree House](https://open.spotify.com/album/4zg5mzhEhlSO8v9547LpI5) | 2:33 |
+| 72 | [Sweet Spot](https://open.spotify.com/track/20iDKSsJRjJrMn4pH5C4uZ) | [Neil YEN](https://open.spotify.com/artist/3egdUHMglwkZZ1jO3BGOEC), [李紅](https://open.spotify.com/artist/0PzAJKr4U9wHFZq9XnVISt) | [Tree House](https://open.spotify.com/album/4zg5mzhEhlSO8v9547LpI5) | 2:33 |
 | 73 | [自信](https://open.spotify.com/track/39LxHX3LiLhLgXzF2ddLZJ) | [Kumachan](https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X), [Mark Pelli](https://open.spotify.com/artist/0nhJMRcwWkTzBugKJicOc5), [rohan mills](https://open.spotify.com/artist/68FDtFW7F3cM7FCxTh8XKb) | [自信](https://open.spotify.com/album/6gzbEDD68uE4J08XIWm9WB) | 4:23 |
 | 74 | [SOUR](https://open.spotify.com/track/3kwZakaIDOMYkBDmIFV1T7) | [Gordon](https://open.spotify.com/artist/4L4ArdVJzY6Uxbd82fJjqu) | [SOUR](https://open.spotify.com/album/0KwWtlTOPiCEncJdHR9NyA) | 3:19 |
 | 75 | [GOTW](https://open.spotify.com/track/620ap2jKswOCcSmqzPIFAS) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [黃宣](https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL) | [新聲宿營第一季](https://open.spotify.com/album/6uwT7SdJhtMi8Vdhx0zKuz) | 1:57 |

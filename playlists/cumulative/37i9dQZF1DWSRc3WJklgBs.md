@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-909 songs - 2 day 6 hr 13 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
+911 songs - 2 day 6 hr 19 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Back To You](https://open.spotify.com/track/1L5Znufb03Ic3r4CFRqTDA) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Back To You](https://open.spotify.com/album/3SqcLJf70hcH0oUiqu0b1x) | 3:13 | 2021-11-13 |  |
 | [Back To You](https://open.spotify.com/track/1eZXJrEbdGSuST1f8NY5Qk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Back To You](https://open.spotify.com/album/5MuuG7O578wt7v4fwLwkrs) | 3:05 | 2021-02-26 | 2022-05-14 |
 | [Back Together](https://open.spotify.com/track/5y3gdZTGBiN8lJVItlRDFH) | [The Felix](https://open.spotify.com/artist/0bDdEelale4EH4GdzW1R38) | [Back Together](https://open.spotify.com/album/7rdnUsCnsvnzg5K5x1GoNG) | 3:47 | 2019-08-09\* | 2020-03-29 |
+| [back2u](https://open.spotify.com/track/1lLOFlb0pokpPxstN2v7P8) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [back2u](https://open.spotify.com/album/5DnveAme2jwC8QO0NDqtug) | 2:54 | 2022-05-20 |  |
 | [Be My One](https://open.spotify.com/track/2KN5wY5R4gXbka8wB2kXh8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1rlw3RxmnxQEx8g0uk1tG1) | 2:22 | 2022-04-15 |  |
 | [Be Right Here](https://open.spotify.com/track/6Yk4HTvs1Ww41l4c7iyBlH) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Be Right Here](https://open.spotify.com/album/2b9FyXvupIJe3lFCc8TGOv) | 3:11 | 2019-08-09\* | 2019-09-12 |
 | [Be Somebody](https://open.spotify.com/track/6TCOYzcdzS4zlfcqv0WCEP) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [TRK](https://open.spotify.com/artist/3fxM89VVaWVnSimZ9RGERD) | [Be Somebody](https://open.spotify.com/album/1sZ1M5oIgnoaLHDTaCnZ9J) | 2:53 | 2022-01-21 |  |
@@ -213,6 +214,7 @@
 | [Drown the Sky](https://open.spotify.com/track/7yW9xPLtJ4Yh0zXKbS5T1H) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Drown the Sky](https://open.spotify.com/album/5Krb2SCc0RjnUH9nJH0lVS) | 3:41 | 2019-09-15 | 2020-10-30 |
 | [Drowning In You](https://open.spotify.com/track/0bqJDrb7zRLOiCnUm7MXZW) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Drowning In You](https://open.spotify.com/album/6px2l6DvudSYsp8FSddKKj) | 3:37 | 2020-03-29 | 2021-09-11 |
 | [Due West \- Skrillex Remix](https://open.spotify.com/track/1bLz3Mcy1pf1W04KZBWrHk) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Due West \(Skrillex Remix\)](https://open.spotify.com/album/3gAulohHiMQfD05sACh2CU) | 4:39 | 2019-08-09\* | 2019-11-15 |
+| [Dusk](https://open.spotify.com/track/7rK7bQV2giqvHymQDyI5hY) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Dusk](https://open.spotify.com/album/1yPM7AaWWLW9yxUxlwYizI) | 2:55 | 2022-05-20 |  |
 | [EASY \(feat\. Loé\)](https://open.spotify.com/track/3RO5auKdVuqkAatbD9v9I9) | [Alex Schulz](https://open.spotify.com/artist/5OReTeTBZ578sj07hDS0x7), [Loé](https://open.spotify.com/artist/7MuRRLYh8g8uTtqU77NW9q) | [EASY \(feat\. Loé\)](https://open.spotify.com/album/5aWUaduDUChCtiDeKHFQyp) | 3:00 | 2019-08-09\* | 2020-03-29 |
 | [Easy Love](https://open.spotify.com/track/1RhWLZ6Wg44b97d7ZKCuwc) | [Ruff Loaderz](https://open.spotify.com/artist/5JOIrGvup0vD5VjodB62Ui), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Easy Love](https://open.spotify.com/album/5piUpW5bIPYY1zrmywcBU2) | 2:18 | 2021-03-27 | 2021-10-23 |
 | [Easy Love](https://open.spotify.com/track/6Sr8JkH7XRVk7Dnar9Xsr5) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Easy Love](https://open.spotify.com/album/1rMPJblLr89uOAzmmfr2Zp) | 3:47 | 2019-08-09\* | 2019-08-27 |

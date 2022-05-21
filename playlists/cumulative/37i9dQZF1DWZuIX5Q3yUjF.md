@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Luca Re
 
-84 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
+85 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [NON HO VOGLIA DI BERE](https://open.spotify.com/track/36b3q6725OsbEUGZKCrSLW) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8), [Chryverde](https://open.spotify.com/artist/55Adwj1kve66exxO3f8Lpm) | [LUCE](https://open.spotify.com/album/1UCn39AYANQdyJLb4niuPk) | 2:53 | 2022-05-12 |  |
 | [O'tiempo](https://open.spotify.com/track/5Ye3aRSi3Ou40z82AT9nGZ) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [Marco Maiole](https://open.spotify.com/artist/2GTP5wrXZ1ObOHPlSgaaLm) | [San Castrese](https://open.spotify.com/album/3rYuPwrwUSE7wEE89lcC4G) | 3:08 | 2022-05-05 |  |
 | [Occhi su di me](https://open.spotify.com/track/4oh46p9qC3Z2E3QM2cSr59) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX) | [Occhi su di me](https://open.spotify.com/album/7wfpmJ9NtGrSFlOwfR93PB) | 2:26 | 2022-05-05 |  |
+| [Odense](https://open.spotify.com/track/2lPOGlxqhVx2MAkbrzMQxO) | [VITTORIA](https://open.spotify.com/artist/2UhLqY4Vmo4gIYGsJ8q3TF) | [Presente Indicativo](https://open.spotify.com/album/2y65ziC6q7ZZSTKtuK2tdF) | 2:53 | 2022-05-19 |  |
 | [Ossessione](https://open.spotify.com/track/2xTA9Fzx9W1VoqZAslxhgU) | [Riél](https://open.spotify.com/artist/0LGmCHNVaxGNAPTb73ndWL) | [Ossessione](https://open.spotify.com/album/4l8tNPanRmYX7lLkb5qbPy) | 3:08 | 2022-05-05 |  |
 | [Passatempo](https://open.spotify.com/track/70URplGTkPeSuAEISU5SxS) | [VIMINE](https://open.spotify.com/artist/0K1uWTds9AnxHTy8RJQxEH) | [Passatempo](https://open.spotify.com/album/4kZbt4bD50aQgRAg6tJwC5) | 2:47 | 2022-05-19 |  |
 | [Pesca Noche](https://open.spotify.com/track/4K8CrCx25sTLfexADXFboz) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Ganoona](https://open.spotify.com/artist/5jlr1VBi2pwgLmexZIcQo7) | [Pesca Noche](https://open.spotify.com/album/3uE4tgA8f7mFxngunL6206) | 3:03 | 2022-05-05 |  |

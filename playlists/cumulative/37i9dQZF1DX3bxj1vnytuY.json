@@ -1094,6 +1094,24 @@
     },
     {
       "album": {
+        "name": "FIRAQ (Live)",
+        "url": "https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV"
+      },
+      "artists": [
+        {
+          "name": "Shkoon",
+          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383783,
+      "name": "Mulajia - Live",
+      "url": "https://open.spotify.com/track/7pFNRS6v5DFPSgeVnkiVEu"
+    },
+    {
+      "album": {
         "name": "Helem",
         "url": "https://open.spotify.com/album/6hsfOW3mF5VGwLL3tEpsig"
       },

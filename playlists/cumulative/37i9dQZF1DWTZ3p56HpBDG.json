@@ -884,6 +884,24 @@
     },
     {
       "album": {
+        "name": "Kind of Funny",
+        "url": "https://open.spotify.com/album/5dgmfDEJDva4d7tXgQueB2"
+      },
+      "artists": [
+        {
+          "name": "The LJ",
+          "url": "https://open.spotify.com/artist/59iMrqhx3qr6U7343wM1Fc"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176363,
+      "name": "Kind of Funny",
+      "url": "https://open.spotify.com/track/6Xt7ty29yp1BaySlwlyO1n"
+    },
+    {
+      "album": {
         "name": "Kissing Mouths",
         "url": "https://open.spotify.com/album/3yROkD3HX0bwrEkVtHcPzJ"
       },
@@ -1001,6 +1019,28 @@
       "duration_ms": 231881,
       "name": "Love Thing",
       "url": "https://open.spotify.com/track/78TKGVxtnLNEn26m3FEk1S"
+    },
+    {
+      "album": {
+        "name": "Love to the Fiends",
+        "url": "https://open.spotify.com/album/3shrpWDWQj5Wa1ghlG4nt0"
+      },
+      "artists": [
+        {
+          "name": "Shaker The Baker",
+          "url": "https://open.spotify.com/artist/3UXtwB67vete8MwnVSlrPO"
+        },
+        {
+          "name": "M.E.E.Z",
+          "url": "https://open.spotify.com/artist/0EApWAg3HC8VBdCKKGxapM"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183142,
+      "name": "Love to the Fiends",
+      "url": "https://open.spotify.com/track/01poU2k8Q1Nj29X2Xrk958"
     },
     {
       "album": {
@@ -1989,6 +2029,32 @@
       "duration_ms": 125400,
       "name": "Warning Shot",
       "url": "https://open.spotify.com/track/09XSYdxPGGclkoWX0KBBoy"
+    },
+    {
+      "album": {
+        "name": "Whatchu Sayin'?",
+        "url": "https://open.spotify.com/album/27HxLoxsWmYhjf7fWoZvjf"
+      },
+      "artists": [
+        {
+          "name": "Nish",
+          "url": "https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9"
+        },
+        {
+          "name": "Anik Khan",
+          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
+        },
+        {
+          "name": "Robin Dey",
+          "url": "https://open.spotify.com/artist/0ZvLuzOcZm4dxx7ycqDMYk"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Whatchu Sayin'?",
+      "url": "https://open.spotify.com/track/7dBnndmnlUgMq2hMkiWdof"
     },
     {
       "album": {

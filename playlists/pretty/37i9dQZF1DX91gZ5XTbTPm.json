@@ -1,13 +1,33 @@
 {
   "description": "The Midwest is always on time. Cover: 42 Dugg & EST Gee",
-  "num_followers": 82673,
+  "num_followers": 82707,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxOTI2MCwwMDAwMDNlOTAwMDAwMTgwZGZhMDM0ZTQwMDAwMDE4MDcxN2U3OTZh",
+  "snapshot_id": "MTY1MzA4MTc2NywwMDAwMDNlYTAwMDAwMTgwZTM1OWZmM2IwMDAwMDE4MDcxN2U3OTZh",
   "tracks": [
+    {
+      "added_at": "2022-05-20 21:22:47",
+      "album": {
+        "name": "SOON (feat. Arabian)",
+        "url": "https://open.spotify.com/album/3k4S1TseIIgV3X1KE3GeDw"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Arabian",
+          "url": "https://open.spotify.com/artist/3CVIomosotXKy9Zrc7S6YB"
+        }
+      ],
+      "duration_ms": 159104,
+      "name": "SOON (feat. Arabian)",
+      "url": "https://open.spotify.com/track/312YwRTzTE526nmuCaONji"
+    },
     {
       "added_at": "2022-05-20 04:01:00",
       "album": {

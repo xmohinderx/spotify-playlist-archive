@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 ### [Viva Latino](https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva)
 
-> Today's top Latin hits, elevando nuestra música\. Cover: Karol G
+> Today's top Latin hits, elevando nuestra música\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,812,913 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,816,398 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 49 | [Hasta Los Dientes](https://open.spotify.com/track/2U0jWXrxJUzWVlLsHttAXJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:08 |
 | 50 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
 
-Snapshot ID: `MTY1MzAxOTI2MCwwMDAwMDYyNTAwMDAwMTgwZGZhMDM1MDgwMDAwMDE4MGRjNmJjNjU3`
+Snapshot ID: `MTY1MzA2ODAwNCwwMDAwMDYyNjAwMDAwMTgwZTI4N2ZhZWIwMDAwMDE4MGRjNmJjNjU3`

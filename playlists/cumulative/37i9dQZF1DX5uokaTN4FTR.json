@@ -154,6 +154,32 @@
     },
     {
       "album": {
+        "name": "Amazing (feat. Agent Sasco)",
+        "url": "https://open.spotify.com/album/0OyJFX214c6PmgyBboEoPy"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        },
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "Agent Sasco (Assassin)",
+          "url": "https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187885,
+      "name": "Amazing (feat. Agent Sasco)",
+      "url": "https://open.spotify.com/track/1PJfbxmFsitJPbLLU98y1s"
+    },
+    {
+      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6P1o32YYDNmuzAM7S8A1Ro"
       },
@@ -1605,7 +1631,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 226206,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1QgebV92VO4Z7VxbQ1tSKo"

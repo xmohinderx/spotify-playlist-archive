@@ -2,7 +2,7 @@
 
 ### [sad hour](https://open.spotify.com/playlist/37i9dQZF1DWSqBruwoIXkA)
 
-> Somehow, heartbreak feels good in a place like this\. Cover: Conan Grey
+> Somehow, heartbreak feels good in a place like this\. Cover: Conan Gray
 
 246 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
 
@@ -232,7 +232,7 @@
 | [Walked Through Hell](https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Walked Through Hell](https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i) | 3:36 | 2021-12-17 |  |
 | [Water Fountain](https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:38 | 2021-12-17 |  |
 | [We Didn't Even Date](https://open.spotify.com/track/1rgfx42ulEgGoTplX7izIK) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [We Didn't Even Date](https://open.spotify.com/album/01adJ7qBFGYXEe5BtipqBI) | 2:57 | 2022-03-11 |  |
-| [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Emotionally Unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-05-20 |  |
+| [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-05-20 |  |
 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 | 2021-12-17 |  |
 | [What Did I Do?](https://open.spotify.com/track/3olUFMwgASQGeXrlm4g6OH) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [What Did I Do?](https://open.spotify.com/album/74WdQxAgACeqOaId2H4W7I) | 3:35 | 2021-12-17 |  |
 | [What I Put You Through](https://open.spotify.com/track/4JCcXmANxb48z3WTeUHiJp) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [What I Put You Through](https://open.spotify.com/album/7mbGfCiWRq2uX7AxmYLCQC) | 3:22 | 2022-01-07 |  |

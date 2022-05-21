@@ -1,13 +1,109 @@
 {
-  "description": "Make room for these R&B/Soul artists on the rise! Photo: Dylan Sinclair",
-  "num_followers": 20577,
+  "description": "Make room for these R&B/Soul artists on the rise! Photo: Rayvn Lenae",
+  "num_followers": 20602,
   "original_name": "The Newness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAyZDAwMDAwMTgwYmI5NDliN2UwMDAwMDE4MGI5YjVkMzU2",
+  "snapshot_id": "MTY1MzAyOTA2NSwwMDAwMDAyZTAwMDAwMTgwZTAzNWQyNjgwMDAwMDE4MGUwMmE3MDll",
   "tracks": [
+    {
+      "added_at": "2022-05-20 06:44:25",
+      "album": {
+        "name": "Xtasy",
+        "url": "https://open.spotify.com/album/4zH7FPMFwa1Q1D1e9ZP3lV"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Xtasy",
+      "url": "https://open.spotify.com/track/7yJ1KekatthELLQTE1VRc7"
+    },
+    {
+      "added_at": "2022-05-20 06:44:25",
+      "album": {
+        "name": "Someone Who Knows",
+        "url": "https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "duration_ms": 181890,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1CCzCMKgPsm27LgUWhP4Up"
+    },
+    {
+      "added_at": "2022-05-20 06:44:25",
+      "album": {
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 134279,
+      "name": "Letter To Ur N(ex)t",
+      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
+    },
+    {
+      "added_at": "2022-05-20 06:44:25",
+      "album": {
+        "name": "Loss Of Valuable Energy (L.O.V.E.)",
+        "url": "https://open.spotify.com/album/0goRiyw1IR5vSWD8UNfnmy"
+      },
+      "artists": [
+        {
+          "name": "Luna Elle",
+          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+        }
+      ],
+      "duration_ms": 196414,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/12q3pDcjI9HYZwd5rhSSvY"
+    },
+    {
+      "added_at": "2022-05-20 06:44:25",
+      "album": {
+        "name": "Casper Sage",
+        "url": "https://open.spotify.com/album/5DAYEhp2PPv7eDL5UTf4vr"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        }
+      ],
+      "duration_ms": 201942,
+      "name": "Summer's Gone",
+      "url": "https://open.spotify.com/track/5quogPZVWEjwBJoiEwTcZR"
+    },
+    {
+      "added_at": "2022-05-20 06:44:25",
+      "album": {
+        "name": "Why Not?",
+        "url": "https://open.spotify.com/album/0RhPi7Bz28OoKKJnnOndPe"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 170908,
+      "name": "B\u00e9 B\u00e9",
+      "url": "https://open.spotify.com/track/3oz2KZeJsrqHpEpcroZs9e"
+    },
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {
@@ -41,22 +137,6 @@
       "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "EEK",
-        "url": "https://open.spotify.com/album/67bRgIiwQuB08M1S0qGYXg"
-      },
-      "artists": [
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 247468,
-      "name": "EEK",
-      "url": "https://open.spotify.com/track/3ixoDRreLMvvTeYdUFenSS"
-    },
-    {
       "added_at": "2022-04-08 04:00:00",
       "album": {
         "name": "Broken Hearts Club",
@@ -75,6 +155,62 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2022-05-20 06:44:25",
+      "album": {
+        "name": "What's Good",
+        "url": "https://open.spotify.com/album/3mN6MrBpyxQ1iBUdHhva8m"
+      },
+      "artists": [
+        {
+          "name": "Skylar Stecker",
+          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "duration_ms": 178928,
+      "name": "What's Good",
+      "url": "https://open.spotify.com/track/1RcUrR3PzhZlKJBpMW2ql0"
+    },
+    {
+      "added_at": "2022-05-20 06:44:25",
+      "album": {
+        "name": "U Betta",
+        "url": "https://open.spotify.com/album/7yZPf3CYymoGrMpREMFyaD"
+      },
+      "artists": [
+        {
+          "name": "Ayanis",
+          "url": "https://open.spotify.com/artist/0ce3UlXwNzZPkj78XYLE7V"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "U Betta",
+      "url": "https://open.spotify.com/track/2OF9aQTc1njv5oAbb70hyp"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "EEK",
+        "url": "https://open.spotify.com/album/67bRgIiwQuB08M1S0qGYXg"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 247468,
+      "name": "EEK",
+      "url": "https://open.spotify.com/track/3ixoDRreLMvvTeYdUFenSS"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -719,134 +855,6 @@
       "duration_ms": 217079,
       "name": "Thought of You (feat. Joyce Wrice)",
       "url": "https://open.spotify.com/track/0OLSlzgN1eafqbICQ5vOdo"
-    },
-    {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/3YPSBfBdzyeOoQU72r1RH8"
-      },
-      "artists": [
-        {
-          "name": "Elijah Waters",
-          "url": "https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6YIXb5R1nJ6DbSucyvAXYg"
-    },
-    {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Final Dance",
-        "url": "https://open.spotify.com/album/76YhHsvtsqmToA8YEWA5uz"
-      },
-      "artists": [
-        {
-          "name": "Isadora",
-          "url": "https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v"
-        }
-      ],
-      "duration_ms": 182337,
-      "name": "Final Dance",
-      "url": "https://open.spotify.com/track/39Z6LwZezDkLN4YcGezypr"
-    },
-    {
-      "added_at": "2022-04-15 04:00:00",
-      "album": {
-        "name": "no man is an island",
-        "url": "https://open.spotify.com/album/3lVVg98XNvwy64Kz22i1Qq"
-      },
-      "artists": [
-        {
-          "name": "Finding Neo",
-          "url": "https://open.spotify.com/artist/1cCSaRtUGbb4ox3zMhqfPh"
-        }
-      ],
-      "duration_ms": 248975,
-      "name": "restless",
-      "url": "https://open.spotify.com/track/4Rgf41ic8OWW0Ah19yQAVC"
-    },
-    {
-      "added_at": "2022-04-15 04:00:00",
-      "album": {
-        "name": "karma/tryin'",
-        "url": "https://open.spotify.com/album/7MIw0DITwU9Hdw1d8EMFGn"
-      },
-      "artists": [
-        {
-          "name": "Hydra",
-          "url": "https://open.spotify.com/artist/04IZ5jHUHqhsKtfpOsbztY"
-        }
-      ],
-      "duration_ms": 179568,
-      "name": "tryin'",
-      "url": "https://open.spotify.com/track/6duHdmejOzmN50yAyov3me"
-    },
-    {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Fool In Love",
-        "url": "https://open.spotify.com/album/5NGoaWPpVG2Q2LiAdoFoJN"
-      },
-      "artists": [
-        {
-          "name": "Tenelle",
-          "url": "https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs"
-        }
-      ],
-      "duration_ms": 200135,
-      "name": "Fool In Love",
-      "url": "https://open.spotify.com/track/20WDv1X4tp93CoTYA71eiB"
-    },
-    {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Forward / Wreck Dive",
-        "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
-      },
-      "artists": [
-        {
-          "name": "Niia",
-          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
-        }
-      ],
-      "duration_ms": 196129,
-      "name": "Forward",
-      "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
-    },
-    {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/22iUSFqCbq62Oa7J3pAyhO"
-      },
-      "artists": [
-        {
-          "name": "OCH\u00c9",
-          "url": "https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X"
-        }
-      ],
-      "duration_ms": 134249,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/13bfgUVzFatSYQPkZ4euTe"
-    },
-    {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/6OrDIkwW3EM4DnLtYFJR37"
-      },
-      "artists": [
-        {
-          "name": "V.C.R",
-          "url": "https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1o1bEFROirftkoCx4x7hbc"
     }
   ],
   "unique_name": "The Newness",

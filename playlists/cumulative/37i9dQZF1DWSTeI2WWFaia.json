@@ -316,6 +316,28 @@
     },
     {
       "album": {
+        "name": "AUTOBOTO",
+        "url": "https://open.spotify.com/album/1a9BsR7Sco9wnBtBqVJWEv"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "name": "Nayirah",
+          "url": "https://open.spotify.com/artist/14Zzvy9JX8aboQqhUkBbjh"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270040,
+      "name": "AUTOBOTO",
+      "url": "https://open.spotify.com/track/31pih2HK5Vj1RwRXF0p6L7"
+    },
+    {
+      "album": {
         "name": "Back At It",
         "url": "https://open.spotify.com/album/0sOYWYXnKBCqHbAb0YkcW0"
       },
@@ -515,7 +537,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 241005,
       "name": "Big Steppa",
       "url": "https://open.spotify.com/track/7F4W2OMucMWyC9LewpsCX0"
@@ -681,7 +703,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 206446,
       "name": "Bruuuh (with Denzel Curry) - Remix",
       "url": "https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK"
@@ -995,7 +1017,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 118518,
       "name": "Crystal Ball",
       "url": "https://open.spotify.com/track/50bGW8Z9qGXlWC1CpOORr1"
@@ -1111,7 +1133,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 162680,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/5UldJxuMst4yL1ONpNUylD"
@@ -1261,7 +1283,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 196052,
       "name": "Eggs",
       "url": "https://open.spotify.com/track/7b1S5gTtqudbiXfKLuAbEp"
@@ -1423,7 +1445,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 185306,
       "name": "For Real (feat. Kemba)",
       "url": "https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg"
@@ -1901,7 +1923,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 229802,
       "name": "Heaven's Sky (feat. Rae Khalil)",
       "url": "https://open.spotify.com/track/55RLuYa5urfohvcAc0jtsb"
@@ -2343,7 +2365,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 92000,
       "name": "Jus Lef Phoenix",
       "url": "https://open.spotify.com/track/1DlOo9zWP7nMZWa2OdC9jz"
@@ -2471,7 +2493,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 169945,
       "name": "Latin Grammys",
       "url": "https://open.spotify.com/track/0PCjdStfS6Ezq5zekdlpLb"
@@ -2595,7 +2617,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 223641,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL"
@@ -2847,7 +2869,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 195367,
       "name": "Moment of Truth",
       "url": "https://open.spotify.com/track/6TmQQEMF0KwpXYbmBgHpNU"
@@ -3019,7 +3041,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 172524,
       "name": "Myself (feat. DEVN)",
       "url": "https://open.spotify.com/track/7mlOsqmNcuZK9c43W1p2hD"
@@ -3873,7 +3895,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 209117,
       "name": "Scatter Brain (feat. Ludacris & JID)",
       "url": "https://open.spotify.com/track/4w7lBzX0EcDuy8tQLQvjC2"
@@ -4015,7 +4037,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 186167,
       "name": "Skegee",
       "url": "https://open.spotify.com/track/4MwhUpDkOOb4UU7BtKznlu"
@@ -4159,7 +4181,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 257832,
       "name": "Sprague Street",
       "url": "https://open.spotify.com/track/661c0RssF9QbkyBoqcwGRx"
@@ -4463,7 +4485,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 235500,
       "name": "Sunday Morning Drive (feat. Curren$y & Dom Kennedy)",
       "url": "https://open.spotify.com/track/6CFS1rOM1rlhESQr6FMaFS"
@@ -4525,7 +4547,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 162528,
       "name": "Talkin' Back (feat. Fat Joe)",
       "url": "https://open.spotify.com/track/0Bj62CkpsaMZJwgqZ0UbPc"
@@ -4569,7 +4591,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 253125,
       "name": "Tear Gas (feat. Rick Ross & Lil Wayne)",
       "url": "https://open.spotify.com/track/5UHGymgm6Okr0oSQOuFNiF"
@@ -5153,7 +5175,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 240000,
       "name": "Unbelievable",
       "url": "https://open.spotify.com/track/0la0j39Xsph1SHDUJCXJkp"
@@ -5197,7 +5219,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 195496,
       "name": "Ups & Downs",
       "url": "https://open.spotify.com/track/6wbcWUz7Ro8PMNsAyJnD9e"
@@ -5505,7 +5527,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 181466,
       "name": "Young King",
       "url": "https://open.spotify.com/track/0e06xmdGFV4Rf796vIBCle"

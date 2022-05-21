@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 499253,
       "name": "Blind Man, Blind Man - Remastered",
       "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 397933,
       "name": "Blue Lights",
       "url": "https://open.spotify.com/track/5ZLgq6ExLURYBhjIQuRbi1"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 405653,
       "name": "Doodlin' - Remastered",
       "url": "https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 461800,
       "name": "Hank's Waltz - Remastered",
       "url": "https://open.spotify.com/track/4oPBnq9KzoljAkSiLJCmeU"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 413200,
       "name": "Ill Wind - Remastered",
       "url": "https://open.spotify.com/track/7EB7hB9slZb4xGNaeS4sT8"
@@ -1527,7 +1527,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 347386,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/7jo5jsXWiBIzQfPTSwNKBt"
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 514666,
       "name": "News For Lulu - 1998 Remaster",
       "url": "https://open.spotify.com/track/4OvgbHrvIinni76tkocA1V"
@@ -1695,7 +1695,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 532266,
       "name": "Nutville",
       "url": "https://open.spotify.com/track/6XNeMvnuVuZK6ctwv1Ut9x"
@@ -1955,7 +1955,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 380666,
       "name": "Shiny Stockings",
       "url": "https://open.spotify.com/track/3lul9ssgcVYSo7ivts4vPb"
@@ -1991,7 +1991,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 561400,
       "name": "Silver's Serenade - 20-Bit Remastering/1997",
       "url": "https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0"
@@ -2009,7 +2009,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 379093,
       "name": "Sister Sadie",
       "url": "https://open.spotify.com/track/3R5K5Alv1Db3WRRAE3lr42"
@@ -2196,6 +2196,24 @@
     },
     {
       "album": {
+        "name": "Blue's Moods",
+        "url": "https://open.spotify.com/album/0GwJHqjwlCjcdIXeV7yELw"
+      },
+      "artists": [
+        {
+          "name": "Blue Mitchell",
+          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257466,
+      "name": "Sweet Pumpkin",
+      "url": "https://open.spotify.com/track/6dJ2NO4i3B1rLBd6DyMAxT"
+    },
+    {
+      "album": {
         "name": "Time Out",
         "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
       },
@@ -2341,7 +2359,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 625293,
       "name": "The Sidewinder - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3"
@@ -2359,7 +2377,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 355373,
       "name": "The Song Is Ended - Remastered",
       "url": "https://open.spotify.com/track/45FosUx3MXslHj0yVKEWrN"

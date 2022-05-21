@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Behind Your Walls",
+        "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201186,
+      "name": "Behind Your Walls - Acoustic",
+      "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
+    },
+    {
+      "album": {
         "name": "Between The Bars (EP)",
         "url": "https://open.spotify.com/album/3N99UWfASH8iTQqGoFV7q5"
       },
@@ -221,7 +239,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 266840,
       "name": "City of Angels (Acoustic)",
       "url": "https://open.spotify.com/track/7Jw6Rs78eNe7PfnYz8lRII"
@@ -275,7 +293,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 238796,
       "name": "Feels Like Falling in Love - Alternate Version",
       "url": "https://open.spotify.com/track/0pzeklIkrqOfc1eeleQ3px"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 207200,
       "name": "Heart Beat Here",
       "url": "https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC"
@@ -509,7 +527,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 161010,
       "name": "Kill The Noise - Acoustic",
       "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
@@ -844,6 +862,24 @@
     },
     {
       "album": {
+        "name": "The Steeple (Acoustic)",
+        "url": "https://open.spotify.com/album/6xxy6GXIGNVFsQ2Zu7CXqa"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207089,
+      "name": "The Steeple - Acoustic",
+      "url": "https://open.spotify.com/track/7FPvauwxWZbiB2Sako8ApN"
+    },
+    {
+      "album": {
         "name": "Garage, Inc.",
         "url": "https://open.spotify.com/album/4qDiQwJ7UEuJsGLWL078nQ"
       },
@@ -873,7 +909,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 265555,
       "name": "Used To Like - Acoustic",
       "url": "https://open.spotify.com/track/6dhTEmRUOm6F6ZOLTKeL4X"
@@ -927,7 +963,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 193297,
       "name": "Way down We Go - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd"
@@ -981,7 +1017,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 347493,
       "name": "Wild Horses - Acoustic Version",
       "url": "https://open.spotify.com/track/1ufaNhO1DPlSiynfO2OtIj"
@@ -1003,6 +1039,32 @@
       "duration_ms": 198293,
       "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
+    },
+    {
+      "album": {
+        "name": "You Oughta Know (feat. Duomo & Kroma Strings)",
+        "url": "https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        },
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        },
+        {
+          "name": "Kroma Strings",
+          "url": "https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247243,
+      "name": "You Oughta Know (feat. Duomo & Kroma Strings)",
+      "url": "https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXMJdkLQRrmg"

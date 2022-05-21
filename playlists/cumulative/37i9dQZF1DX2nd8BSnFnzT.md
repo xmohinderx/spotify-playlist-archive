@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Gloria
 
-154 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
+155 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Roqueiro Reaça](https://open.spotify.com/track/2hFtbTCu2KfmqEb6UQl3Cn) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Roqueiro Reaça](https://open.spotify.com/album/1Dn3XMgCSJM8gVuUCxrj9b) | 3:06 | 2022-01-14 | 2022-02-19 |
 | [Rouca](https://open.spotify.com/track/59Fp36OwfUVP7y2iqhUIHV) | [Deb and The Mentals](https://open.spotify.com/artist/3adFOhZcvNnHWUSe7YwYvf) | [Babilônia](https://open.spotify.com/album/5wwCWwHPueo7qgbVZMF8Ri) | 3:52 | 2022-04-22 | 2022-05-20 |
 | [Saliva](https://open.spotify.com/track/4xwkJDaKGgaztPXhFyKIKM) | [Estação Zero Grau](https://open.spotify.com/artist/2bjH8IyekLPxn7zR7WDwGO) | [Saliva](https://open.spotify.com/album/5vEkuDru6v0kBVQXtDWRYu) | 3:05 | 2022-01-14 | 2022-01-22 |
+| [Sangue Sujo](https://open.spotify.com/track/5dQw3OmCf8HaTtsom1DavG) | [Os Replicantes](https://open.spotify.com/artist/6hP7JNm3e4E0c5bldlKlO6) | [Demo Tape 2008](https://open.spotify.com/album/5qFyxN4UEQJ1KcT0NBomeg) | 3:55 | 2022-05-20 |  |
 | [Se Divertir](https://open.spotify.com/track/0SlGvj1SPXarziNUdQpOcD) | [Terra Celta](https://open.spotify.com/artist/2DBsooS9qDY79dtnqMBRuF) | [Se Divertir](https://open.spotify.com/album/6lrWb8lGht50fWq6PbHDo9) | 6:13 | 2022-03-18 | 2022-03-26 |
 | [Se Lembrar de Mim](https://open.spotify.com/track/13JRJM8CcGhyTzgGCiAFWf) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Se Lembrar de Mim](https://open.spotify.com/album/4ow3axuDmPUKCnUXH3imuM) | 3:09 | 2022-04-29 | 2022-05-14 |
 | [Selva de Concreto](https://open.spotify.com/track/2ZHLPehoFYRKLwJCxotHYw) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [Selva de Concreto](https://open.spotify.com/album/3kgRDWQ5lPQcJZqQV4YO2n) | 3:32 | 2022-05-20 |  |

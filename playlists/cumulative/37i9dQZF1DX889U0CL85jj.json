@@ -3656,6 +3656,24 @@
     },
     {
       "album": {
+        "name": "Sad 2 / Slide",
+        "url": "https://open.spotify.com/album/0tPCPMSlM6VHdW0XHtyJ5i"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60905,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/6adAK9A3HRPGTKAYs6zbIQ"
+    },
+    {
+      "album": {
         "name": "Slipping Away",
         "url": "https://open.spotify.com/album/6udWhj8k7YdjygeAl0HE0S"
       },
@@ -4335,7 +4353,7 @@
       ],
       "date_added": "2020-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 278640,
       "name": "Till It Happens To You",
       "url": "https://open.spotify.com/track/4Eq60oypgAxlX6Kp7MFQl6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > and why aren't you in uniform?
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,628 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,769 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 6 | [We Don't Care](https://open.spotify.com/track/0IW0qaeyxL5Et4UG2MrJKB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:59 |
 | 7 | [WUSYANAME \(feat\. Youngboy Never Broke Again & Ty Dolla $ign\)](https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:01 |
 | 8 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 |
-| 9 | [Frontin' \(feat\. Jay\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
-| 10 | [Kids](https://open.spotify.com/track/6ixkZ2Q9gQeh52C6GxbETg) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/7JNKAh8Cnao2VCKk33ilWB) | 4:29 |
-| 11 | [girl ur so pretty](https://open.spotify.com/track/2U55cNHErmbpOxq9TTrjSG) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [girl ur so pretty](https://open.spotify.com/album/2laKIsp6nPOKXjlGYro4e4) | 3:08 |
-| 12 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 |
-| 13 | [Lip Gloss](https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS) | [Lil Mama](https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c) | [Lip Gloss](https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5) | 3:39 |
-| 14 | [Them Changes](https://open.spotify.com/track/5dcZUsgcMW57ju0A379O7c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/4anxEzh8xEKSPXKHGWiFue) | 3:08 |
-| 15 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 |
+| 9 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
+| 10 | [Frontin' \(feat\. Jay\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
+| 11 | [Kids](https://open.spotify.com/track/6ixkZ2Q9gQeh52C6GxbETg) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/7JNKAh8Cnao2VCKk33ilWB) | 4:29 |
+| 12 | [girl ur so pretty](https://open.spotify.com/track/2U55cNHErmbpOxq9TTrjSG) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [girl ur so pretty](https://open.spotify.com/album/2laKIsp6nPOKXjlGYro4e4) | 3:08 |
+| 13 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 |
+| 14 | [Lip Gloss](https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS) | [Lil Mama](https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c) | [Lip Gloss](https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5) | 3:39 |
+| 15 | [Them Changes](https://open.spotify.com/track/5dcZUsgcMW57ju0A379O7c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/4anxEzh8xEKSPXKHGWiFue) | 3:08 |
 | 16 | [Rich Wallice](https://open.spotify.com/track/0CQ1JPDZLJvun80MFLr4Du) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [90s American Superstar](https://open.spotify.com/album/66S38eUM5q4l4vjrTpvdci) | 2:20 |
 | 17 | [God Save The Girl](https://open.spotify.com/track/5MeYG4DHfyGIpOKr9rMWWr) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Better Late Than Forever](https://open.spotify.com/album/2vnU9Lr07iRAOH6mgLZLpE) | 2:31 |
 | 18 | [Sensitive](https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 99 | [Lose My Cool \(feat\. NLE Choppa\)](https://open.spotify.com/track/31UJNSt6tUbROThjfaAZfT) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Lose My Cool](https://open.spotify.com/album/0R8UQCG358KD07cX4zbOdB) | 3:10 |
 | 100 | [Tide](https://open.spotify.com/track/0zzqcfPGHQ2A4faQqDHI1P) | [JDM Global](https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl) | [SUMMER 21 PACK](https://open.spotify.com/album/58U8f9M3enmjO0BLlhE1xJ) | 2:21 |
 
-Snapshot ID: `MTY1MzAyNTgwMCwwMDAwMDA4YTAwMDAwMTgwZTAwM2ZmYWYwMDAwMDE4MGI5YmE2NDZk`
+Snapshot ID: `MTY1MzA2MzU0MCwwMDAwMDA4YjAwMDAwMTgwZTI0M2UwMmUwMDAwMDE4MGI5YmE2NDZk`

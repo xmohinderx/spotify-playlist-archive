@@ -214,6 +214,24 @@
     },
     {
       "album": {
+        "name": "Aha-Aha",
+        "url": "https://open.spotify.com/album/70x4V15158Bk5OE6iTtS6U"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132506,
+      "name": "Aha-Aha",
+      "url": "https://open.spotify.com/track/2YmkWevzHTiEyvgjdTKB3r"
+    },
+    {
+      "album": {
         "name": "aight",
         "url": "https://open.spotify.com/album/1C7pFblVVUtJ3fXFrpmscx"
       },
@@ -871,7 +889,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"

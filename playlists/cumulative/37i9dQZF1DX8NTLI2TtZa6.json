@@ -462,6 +462,24 @@
     },
     {
       "album": {
+        "name": "As I Dream",
+        "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
+      },
+      "artists": [
+        {
+          "name": "Johannes Bornl\u00f6f",
+          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184583,
+      "name": "As I Dream",
+      "url": "https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7"
+    },
+    {
+      "album": {
         "name": "As You Close Your Eyes",
         "url": "https://open.spotify.com/album/6Yq5oI6Ao8NfA5ESWn10Qa"
       },
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 142697,
       "name": "Delphine",
       "url": "https://open.spotify.com/track/2HkjTkR8KB5CKa2UyrUMHf"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 137500,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/0Ck0h2BOe48JxLlPQrl1sV"
@@ -1687,7 +1705,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 163411,
       "name": "Homage",
       "url": "https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm"
@@ -2191,7 +2209,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 313973,
       "name": "Le Jardin de Monsieur Monet",
       "url": "https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67"
@@ -2257,7 +2275,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 418681,
       "name": "Little Sparks",
       "url": "https://open.spotify.com/track/0Ui4lAbf70ljScF9bR5z8w"
@@ -2279,6 +2297,24 @@
       "duration_ms": 211764,
       "name": "Logos",
       "url": "https://open.spotify.com/track/0kkakmky3CMRbBgVKNhN1s"
+    },
+    {
+      "album": {
+        "name": "Lonely Waltz",
+        "url": "https://open.spotify.com/album/2UazmkDdh07bji4ZGTxWBB"
+      },
+      "artists": [
+        {
+          "name": "Dario Crisman",
+          "url": "https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159588,
+      "name": "Lonely Waltz",
+      "url": "https://open.spotify.com/track/3swb3EXBh1quePaXgIZeXw"
     },
     {
       "album": {
@@ -2804,6 +2840,24 @@
     },
     {
       "album": {
+        "name": "November 9th",
+        "url": "https://open.spotify.com/album/43sDDJJnnUwrgnCbaYqyZB"
+      },
+      "artists": [
+        {
+          "name": "Catherine Peterson",
+          "url": "https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160867,
+      "name": "November 9th",
+      "url": "https://open.spotify.com/track/1ImEbpBXsZD9LYyQ67WXiX"
+    },
+    {
+      "album": {
         "name": "Nuageux",
         "url": "https://open.spotify.com/album/4rOvg6YTNHv64HpShaU0lq"
       },
@@ -2891,6 +2945,24 @@
       "duration_ms": 152807,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/73Cydqs0F5L35I3Qowtluk"
+    },
+    {
+      "album": {
+        "name": "Dulcinea",
+        "url": "https://open.spotify.com/album/3irIiK7LtZnnm16g8EX29i"
+      },
+      "artists": [
+        {
+          "name": "Teide",
+          "url": "https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203692,
+      "name": "Ombro",
+      "url": "https://open.spotify.com/track/65HxtQIYEnCl7wor098PWC"
     },
     {
       "album": {
@@ -3175,7 +3247,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 204030,
       "name": "Prelude to a Dream",
       "url": "https://open.spotify.com/track/0uMmijzW30VDvVLSCewVHR"
@@ -3218,6 +3290,24 @@
     },
     {
       "album": {
+        "name": "quiet plateau & meadow ballet",
+        "url": "https://open.spotify.com/album/1NKiYL9c9mYgkMFIq5iXHY"
+      },
+      "artists": [
+        {
+          "name": "our distant worlds",
+          "url": "https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152625,
+      "name": "quiet plateau",
+      "url": "https://open.spotify.com/track/6zODDCy0JYLgVmx3aTt2rC"
+    },
+    {
+      "album": {
         "name": "Quiet Town",
         "url": "https://open.spotify.com/album/623DqdxXnR9vKVOB8UOOsi"
       },
@@ -3247,7 +3337,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 114199,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/6w2FKNd3zDRJGJ0krZxWPi"
@@ -3931,7 +4021,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 130308,
       "name": "Sparrow",
       "url": "https://open.spotify.com/track/2zFYk6wwcF2fTXrvsMaeEP"
@@ -4039,7 +4129,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 187000,
       "name": "Sweet Cherie",
       "url": "https://open.spotify.com/track/1ElNuIHucvUavBEg4IFtSx"
@@ -4165,7 +4255,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 118184,
       "name": "The Nightingale",
       "url": "https://open.spotify.com/track/1cXacQAGKrNEB6q32HzK6c"
@@ -4309,7 +4399,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 170573,
       "name": "two wheels north",
       "url": "https://open.spotify.com/track/3lHhDgHyTDL6A9WEss4GY4"
@@ -4471,7 +4561,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 169459,
       "name": "Vierzylinder",
       "url": "https://open.spotify.com/track/3QI14HQnAH2BB5CffziKaF"
@@ -4493,6 +4583,24 @@
       "duration_ms": 126523,
       "name": "Vigilance",
       "url": "https://open.spotify.com/track/5ezssE7jFdCzJOJAedPhEN"
+    },
+    {
+      "album": {
+        "name": "Vineyards",
+        "url": "https://open.spotify.com/album/2TdvbArV40IFASEOaNCppk"
+      },
+      "artists": [
+        {
+          "name": "Jonny Southard",
+          "url": "https://open.spotify.com/artist/6BeZ093zzZgeGLSV9TG5Ez"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194125,
+      "name": "Vineyards",
+      "url": "https://open.spotify.com/track/2pM4sOe1GpsWIcAwTACYGv"
     },
     {
       "album": {

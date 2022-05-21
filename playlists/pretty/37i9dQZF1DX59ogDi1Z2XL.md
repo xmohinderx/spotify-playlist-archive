@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Haviah Mighty
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,778 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,811 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 21 | [All the Smoke](https://open.spotify.com/track/75rSvt94l7MzoD374kq8eV) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [ALBUM MODE](https://open.spotify.com/album/6OfrJ7UtcsGI6y0dw9tHL6) | 3:48 |
 | 22 | [Pack's In](https://open.spotify.com/track/6akPGEM8l0VobhowOsl5aG) | [Boyscoutsam](https://open.spotify.com/artist/6mzQSW98vK1vHNearVSG0c) | [Pack's In](https://open.spotify.com/album/0yyzkAPLQpHnZXpn4hUs05) | 2:52 |
 | 23 | [Brain Dead](https://open.spotify.com/track/7enktVjVozpLWU8ISJVb08) | [Lindasson](https://open.spotify.com/artist/6DXbnRlv1UgusrKOxc39j7) | [Brain Dead](https://open.spotify.com/album/1maIDMPVNQd2Skoia9O6Ru) | 1:55 |
-| 24 | [Letter from Miami](https://open.spotify.com/track/18YeiBqeyJnFVCYFK4303J) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY) | [Letter from Miami](https://open.spotify.com/album/4JFr8zQThD8tjFDO1aFem9) | 2:36 |
+| 24 | [LETTER FROM MIAMI](https://open.spotify.com/track/18YeiBqeyJnFVCYFK4303J) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY) | [LETTER FROM MIAMI](https://open.spotify.com/album/4JFr8zQThD8tjFDO1aFem9) | 2:36 |
 | 25 | [Igloo](https://open.spotify.com/track/40W840RnQDbMQfYdezxiog) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Igloo](https://open.spotify.com/album/1ZsI00Yki9hzFLM5Bm37Vu) | 2:13 |
 | 26 | [Grind](https://open.spotify.com/track/5eZaguRENayH27QEcL1LLu) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Grind](https://open.spotify.com/album/7qf8iCeW8pXR0kcMhHG5LV) | 3:21 |
 | 27 | [100 Degrees](https://open.spotify.com/track/2FsseXANzQHyqOProO6h6O) | [LolaBunz](https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa) | [100 Degrees](https://open.spotify.com/album/3VFR32laZ7wVSpSdt0nowX) | 2:57 |

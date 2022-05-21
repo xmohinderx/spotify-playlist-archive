@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Harry Styles
 
-1,764 songs - 4 day 0 hr 46 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
+1,765 songs - 4 day 0 hr 50 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-03 | 2022-03-11 |
 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 | 2022-02-17 | 2022-02-25 |
 | [bargaining \(with Verzache\)](https://open.spotify.com/track/092IjcsjJDIQHzR6Lp17Ga) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [good grief](https://open.spotify.com/album/5WcXLH8cIFdKcYOU6eIZBj) | 2:31 | 2022-05-12 | 2022-05-20 |
+| [BASEMENT BOY](https://open.spotify.com/track/6y8Q8DMl5HLi16tTyh4aDt) | [DEMIAN](https://open.spotify.com/artist/6DNTezBmjBm68oYPCENCcA) | [BASEMENT BOY](https://open.spotify.com/album/2YrodBLR3JJF6EUh88yZVf) | 3:08 | 2022-05-19 |  |
 | [bbb](https://open.spotify.com/track/5uEGGqRWQqtSH9mslALG8J) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [Maybe](https://open.spotify.com/album/7FM4ChgZ4rkqLrvUOV9PUe) | 2:41 | 2022-05-12 | 2022-05-20 |
 | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/album/3oy8tsUTNAzJSZQwEjXycC) | 2:52 | 2022-02-24 | 2022-03-04 |
 | [Be Alright](https://open.spotify.com/track/1YF12gZq5pnwqYuSe9GJ4t) | [Indra Aziz](https://open.spotify.com/artist/6DxRg2b7DEKeEwVQK72Gnd) | [Be Alright](https://open.spotify.com/album/03X49AUj27hTbePAW1AuTR) | 3:12 | 2022-04-21 | 2022-04-29 |
@@ -1623,7 +1624,7 @@
 | [We Just Chase The Light](https://open.spotify.com/track/464ZEz02BK62dKMeEkktNW) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [Today From Past Days](https://open.spotify.com/album/5pfb32JF2tPT5HTpcX63gu) | 4:45 | 2022-04-14 | 2022-04-22 |
 | [we'll make this ok \(with Travis Barker\)](https://open.spotify.com/track/63Olr9i7mMzAs6JInlHDeb) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [we'll make this ok \(with Travis Barker\)](https://open.spotify.com/album/6d8EYqGfbAqVWiBo94hrwS) | 2:39 | 2022-05-12 | 2022-05-20 |
 | [We'll shine brighter than any other stars](https://open.spotify.com/track/5psoGr4LFHqFCJnyo4pVaN) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [We'll shine brighter than any other stars \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6EwCSLyDftnUuKmaSoo6Hv) | 3:49 | 2022-03-17 | 2022-03-25 |
-| [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Emotionally Unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-05-19 |  |
+| [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-05-19 |  |
 | [Weak \(feat\. BIG30\)](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 | 2022-02-10 | 2022-02-18 |
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-01-06 | 2022-01-14 |
 | [Weatherman](https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1zyIXJ3Y7IRMaCbIVAgHYq) | 2:25 | 2022-02-17 | 2022-02-25 |

@@ -614,6 +614,24 @@
     },
     {
       "album": {
+        "name": "Baqy",
+        "url": "https://open.spotify.com/album/5kWR9AVsfRWJxenTGSTYqm"
+      },
+      "artists": [
+        {
+          "name": "Mahfoud AlMaher",
+          "url": "https://open.spotify.com/artist/4VYdwh1l1CyIp0T4LhOHNI"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222154,
+      "name": "Baqy",
+      "url": "https://open.spotify.com/track/1Z0uOrpc5n6YfiJMEYryFz"
+    },
+    {
+      "album": {
         "name": "Bi Kobor Heznak Farhty",
         "url": "https://open.spotify.com/album/6kiJlPgbF5wnLQ2gAzxoyt"
       },
@@ -2193,7 +2211,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 232454,
       "name": "\u0639\u0645\u0631\u064a \u0645\u0639\u0627\u0647",
       "url": "https://open.spotify.com/track/5FocyaDKGbWXWHmX9rESXS"

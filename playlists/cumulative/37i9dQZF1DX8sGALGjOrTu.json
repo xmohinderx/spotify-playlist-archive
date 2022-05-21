@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 228986,
       "name": "A Toast to the future kids!",
       "url": "https://open.spotify.com/track/7jDZIM59S1utHXZcmYSEYx"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 233000,
       "name": "Capricorn (A Brand New Name)",
       "url": "https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 287866,
       "name": "Devil In Jersey City",
       "url": "https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 213200,
       "name": "Ghostchant",
       "url": "https://open.spotify.com/track/3PyU9zQy9WtlX8jlxXCFLX"
@@ -1081,7 +1081,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 216853,
       "name": "Juneau",
       "url": "https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9"
@@ -1121,7 +1121,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 414925,
       "name": "King Park",
       "url": "https://open.spotify.com/track/7MeUFHaHTgcLqz56vSyvIh"
@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 256600,
       "name": "Let Live",
       "url": "https://open.spotify.com/track/68mQv5RUC8yKiBQxlSl0I4"
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 199600,
       "name": "Letters To You",
       "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 162920,
       "name": "Ravenous, Ravenous Rhinos",
       "url": "https://open.spotify.com/track/1YT8RiexjSXtUcLjD92N8V"
@@ -1614,6 +1614,24 @@
     },
     {
       "album": {
+        "name": "After The Eulogy",
+        "url": "https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX"
+      },
+      "artists": [
+        {
+          "name": "Boysetsfire",
+          "url": "https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253440,
+      "name": "Rookie",
+      "url": "https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej"
+    },
+    {
+      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
       },
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 192786,
       "name": "Seven Years",
       "url": "https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV"
@@ -1805,7 +1823,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 222040,
       "name": "Standing on the Edge of Summer",
       "url": "https://open.spotify.com/track/5l2P0TBREso46wxFq4jQrI"
@@ -2219,7 +2237,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 200360,
       "name": "Two As One",
       "url": "https://open.spotify.com/track/5c8WgLyOX9u4Al1hTP8tzK"
@@ -2313,7 +2331,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 196560,
       "name": "Vices (feat. Liam Cormier)",
       "url": "https://open.spotify.com/track/7tu3BXZXExM38StzVqnY7I"
@@ -2367,7 +2385,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 272400,
       "name": "War All The Time",
       "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
@@ -2439,7 +2457,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 206680,
       "name": "Why 6 is afraid of 7",
       "url": "https://open.spotify.com/track/1yZdPcGLJUXEyjU0b9t3Zz"

@@ -4,7 +4,7 @@
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-62 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/6iAVNIBlFxj6iy8bBx59pl)
+63 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/6iAVNIBlFxj6iy8bBx59pl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Janey Needs A Shooter](https://open.spotify.com/track/3S2bActYBlskH5gtanFIMO) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 6:49 | 2022-01-11 | 2022-05-16 |
 | [Jersey Girl \- Live at Meadowlands Arena, E\. Rutherford, NJ \- July 1981](https://open.spotify.com/track/3kqC9r9ilM63AogQ47RVpu) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Bruce Springsteen & The E Street Band Live 1975\-85](https://open.spotify.com/album/4Hbe1M0BDbgMwbw6Tw2fmD) | 6:30 | 2022-01-11 |  |
 | [Jungleland](https://open.spotify.com/track/3R2q3FCnNIw2XhuEbYtYk6) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 9:35 | 2022-01-11 |  |
-| [Letter To You](https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 4:55 | 2022-01-12 |  |
+| [Letter To You](https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 4:55 | 2022-01-12 | 2022-05-21 |
 | [Lost in the Flood \- Live at C.W\. Post Dome Auditorium, Greenvale, NY \- December 12, 1975](https://open.spotify.com/track/33ODNuSzPh9ratGzau67Nx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs Of Location](https://open.spotify.com/album/3f9gSNrcSQxcEjWDSbOxAK) | 6:34 | 2022-05-16 | 2022-05-18 |
 | [My Hometown](https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 | 2022-01-11 |  |
 | [Nebraska](https://open.spotify.com/track/7GDIQqD5pdHCda5rpZ98Ie) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 4:29 | 2022-01-11 |  |
@@ -68,6 +68,7 @@
 | [Tunnel of Love](https://open.spotify.com/track/2rUHBIfbMBB92n1gSfSqwF) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 5:09 | 2022-01-11 |  |
 | [Waitin' On A Sunny Day](https://open.spotify.com/track/7vIyudiO2Tr9hZ2yzfwQmx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:16 | 2022-01-11 |  |
 | [Wasted Days \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/00KBMCig03dtdMJG4jkrIu) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Wasted Days](https://open.spotify.com/album/2UwZm9HOqn50LEfMb9V1pf) | 4:31 | 2022-01-11 | 2022-04-25 |
+| [Wasted Days \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/3oWcFWnxGzbcJSrQxZOdBZ) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 4:31 | 2022-05-20 |  |
 | [Western Stars](https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Western Stars](https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte) | 4:38 | 2022-01-11 |  |
 | [When You Need Me \- Studio Outtake \- 1987](https://open.spotify.com/track/34oYzILaNsdFPt48Yeb8aq) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 2:54 | 2022-03-13 |  |
 

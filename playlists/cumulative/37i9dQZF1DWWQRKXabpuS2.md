@@ -4,7 +4,7 @@
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: عايض
 
-102 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+103 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Ya Selwaty](https://open.spotify.com/track/2rTU2YX4CMvAPD42NRlTfl) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Ya Selwaty](https://open.spotify.com/album/0TenrztyPkVzQyyHISjxX7) | 5:30 | 2021-12-23 | 2022-03-18 |
 | [Yazeeen Haljayah](https://open.spotify.com/track/638UtaoSNov7SoULDflxSS) | [Abdulkader Alahmed](https://open.spotify.com/artist/7fpdcwPFWY9cOWQfEKKIbk) | [Yazeeen Haljayah](https://open.spotify.com/album/3jwRxyTVKWvxl3Z5vz8KBV) | 4:14 | 2021-12-23 | 2022-03-12 |
 | [Yemkn Kheera](https://open.spotify.com/track/0Djyg3c83BhOexIq9J7gk1) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS) | [Yemkn Kheera](https://open.spotify.com/album/4T0PhQBdKUjd5hnWFR2gki) | 3:02 | 2022-03-11 |  |
+| [Yeshhad Allah](https://open.spotify.com/track/2VZLKUNFYFkGX3Jo0gMdrR) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Yeshhad Allah](https://open.spotify.com/album/0OCMuAmmg390azxdmWycvx) | 4:07 | 2022-05-19 |  |
 | [احبك](https://open.spotify.com/track/1SYcs6NIEOl4iGanRHK7Pg) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [احبك](https://open.spotify.com/album/2ymSGbjj2BJmD1vyiHouqc) | 2:09 | 2021-12-23 | 2022-02-18 |
 | [ادري جرحتك](https://open.spotify.com/track/1iPBF6vVw8HW3k4XmYNQTi) | [Kadejah Moaath \| خديجة معاذ](https://open.spotify.com/artist/7DzOtCU08slSv3obNnXNcv) | [ادري جرحتك](https://open.spotify.com/album/3KQUiiMeK7vuaStr9UU5cy) | 3:28 | 2022-04-01 |  |
 | [اشتاقيت لك](https://open.spotify.com/track/6DEFaweKzyaJFhN3mQ20a3) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [اشتاقيت لك \- Single](https://open.spotify.com/album/5qckdtVpXCLbsdxmzwCdAz) | 4:22 | 2021-12-23 |  |

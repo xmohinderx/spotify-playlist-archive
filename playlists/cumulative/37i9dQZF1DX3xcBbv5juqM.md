@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2001! Cover: Destiny's Child
 
-104 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/2GHm1y4c22CAUSNVFazqSt)
+105 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/2GHm1y4c22CAUSNVFazqSt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 | 2020-11-04 |  |
 | [Candela](https://open.spotify.com/track/5hPdPsKN6hsfaLcIZqoevk) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Fiesta Latina](https://open.spotify.com/album/7gBAL4MQYVhi55jgbZZx6Z) | 3:40 | 2020-11-04 |  |
 | [Che C'è](https://open.spotify.com/track/5b2lQj3sdXFXVjDgojnVLl) | [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Circo Massimo 2001](https://open.spotify.com/album/2LavOMOX9cVPIIhfOhH31Y) | 4:15 | 2020-11-04 |  |
+| [Clint Eastwood](https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 5:40 | 2020-11-04 |  |
 | [Crazy for This Girl](https://open.spotify.com/track/2gdt70w8DOCWGq1HdkgSUd) | [Evan And Jaron](https://open.spotify.com/artist/1xeZcY93inQY14LWwnxd5G) | [evan and jaron](https://open.spotify.com/album/6cO4nqzrxmHLcLF032TXFy) | 3:22 | 2020-11-04 |  |
 | [Crying at the Discoteque \- Radio Edit](https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Casino](https://open.spotify.com/album/5FWRzWPvOHCxOoo0ibUfI5) | 3:51 | 2020-11-04 |  |
 | [Do You Really Like It? \- Radio Edit](https://open.spotify.com/track/4Mnw05kNd0j1XDHwtfzofp) | [DJ Pied Piper & The Masters Of Ceremonies](https://open.spotify.com/artist/7KMddxPqjqv0fiucwg0c3D) | [Do You Really Like It? \(Remixes\)](https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV) | 3:37 | 2020-11-04 |  |
@@ -52,7 +53,7 @@
 | [It's Over Now](https://open.spotify.com/track/769geiA8btidGHda4BBDOJ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 4:24 | 2020-11-04 |  |
 | [It's Raining Men](https://open.spotify.com/track/7q3qX7Ees3FZtRFJXWgPZs) | [Geri Halliwell](https://open.spotify.com/artist/5orH1OWgjAYUX8sZ5gihTv) | [Scream If You Wanna Go Faster](https://open.spotify.com/album/2sgOJkKcXuxEqXW26W3sQf) | 4:14 | 2020-11-04 |  |
 | [It's the Way You Make Me Feel](https://open.spotify.com/track/2B1jt2a6zdN4qLiugoEJry) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Buzz](https://open.spotify.com/album/3v05QR8PM7Mc8zba3jR8Na) | 3:17 | 2020-11-04 |  |
-| [Izzo \(H.O.V.A.\)](https://open.spotify.com/track/4h5KBcltGefua73AUPYps7) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint \(Explicit Version\)](https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl) | 4:00 | 2020-11-04 |  |
+| [Izzo \(H.O.V.A.\)](https://open.spotify.com/track/4h5KBcltGefua73AUPYps7) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint \(Explicit Version\)](https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl) | 4:00 | 2020-11-04 | 2022-05-21 |
 | [Jaded](https://open.spotify.com/track/4iihDHIoKZdOeOW1kFDUtR) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/6yRJAw8rbqn8dJVw1nxYWb) | 3:34 | 2020-11-04 |  |
 | [La Canzone Che Scrivo Per Te](https://open.spotify.com/track/6y2KY53j3cShdUYFoPwGAP) | [Marlene Kuntz](https://open.spotify.com/artist/1koU3PYin1x0g79oU9VB4A) | [Che Cosa Vedi](https://open.spotify.com/album/1eTjdBsLWkDp5CevanHhZ8) | 4:07 | 2020-11-04 |  |
 | [La Mia Signorina](https://open.spotify.com/track/0kM3bPNUPgxaeOf7VzRQer) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Arrivi E Partenze](https://open.spotify.com/album/5LLCjSd4oMxDpHm5Jd2NY8) | 3:22 | 2020-11-04 |  |

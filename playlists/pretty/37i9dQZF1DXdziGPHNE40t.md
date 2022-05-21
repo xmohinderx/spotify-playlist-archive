@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > Start your day with calm and cool jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,002 likes - 105 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,117 likes - 105 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 104 | [One of your little friends](https://open.spotify.com/track/24mDMSSd3K07ilwCA83WzW) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [One of your little friends](https://open.spotify.com/album/4Y5JiG4M9HjYWqsgK3vv5n) | 2:43 |
 | 105 | [Come Rain or Come Shine](https://open.spotify.com/track/1IuKgGmHL5q5SntLbpuW9X) | [The Red Robin Quartet](https://open.spotify.com/artist/6JonKaJAREHNEYiCFcJBVn) | [Mellow Tone](https://open.spotify.com/album/3O30VlAacllXWOuJzXEW0S) | 4:17 |
 
-Snapshot ID: `MTY1Mjc4NzgyNywwMDAwMDA1ZTAwMDAwMTgwZDFkNGQxYTUwMDAwMDE3MGFmM2Q5OGE4`
+Snapshot ID: `MTY1MzA1MTg4MSwwMDAwMDA1ZjAwMDAwMTgwZTE5MWY4MWYwMDAwMDE4MGUxOGFhMjhh`

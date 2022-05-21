@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-133 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+134 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Loki Green Theme](https://open.spotify.com/track/5T7DUEeAj0hkMLTzIlDCRz) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Loki: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe) | 2:24 | 2021-12-20 |  |
 | [Main Titles](https://open.spotify.com/track/5BRpHMeMmznGplORyurX5n) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Doctor Strange in the Multiverse of Madness \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0tcFS2LRXYloWu9Z4Iyrni) | 2:36 | 2022-05-06 |  |
 | [Main Titles](https://open.spotify.com/track/2dssT0G1eXmqLoNIzKEuxN) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [Severance: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/6sImespZLxOQOKwbmegpcF) | 1:20 | 2022-02-18 |  |
+| [Make History](https://open.spotify.com/track/3cs78hXzKzrsx2xexZZYHr) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [Night Sky \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2nmesQ2rKBppaPu8kcKf62) | 1:13 | 2022-05-20 |  |
 | [Mando Is Back](https://open.spotify.com/track/7utTE8XHVCpQXC8PdtBjIL) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 2 \- Vol\. 1 \(Chapters 9\-12\) \[Original Score\]](https://open.spotify.com/album/2NxNzw1ohPc2Hhjaq2j3tW) | 4:04 | 2021-12-20 |  |
 | [Marital Dance](https://open.spotify.com/track/10DKh4aJ2sPPOVZnBwjruG) | [Evgueni Galperine](https://open.spotify.com/artist/6wUwrf6CPtVdxhMX8TejqM), [Sacha Galperine](https://open.spotify.com/artist/4rhbbNkUATyvGiYxGMmx7H) | [Scenes from a Marriage \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/5SG4qxHwgSHsIQHF045MjC) | 2:10 | 2021-12-20 |  |
 | [Minamata Piano Theme](https://open.spotify.com/track/4SuctdNPUY8Cl6NL5dasGN) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Minamata Piano Theme](https://open.spotify.com/album/2uGicSh9qaQyj7oRQsolTi) | 2:50 | 2021-12-20 |  |

@@ -11670,7 +11670,7 @@
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 145384,
+      "duration_ms": 144840,
       "name": "HIMALAYA",
       "url": "https://open.spotify.com/track/1YfKs14w8DF5Sp4QNyoyGK"
     },
@@ -15436,7 +15436,7 @@
     },
     {
       "album": {
-        "name": "Lobby",
+        "name": "LOBBY",
         "url": "https://open.spotify.com/album/67e9EOl7l38uFWF0QPLD9b"
       },
       "artists": [
@@ -15453,7 +15453,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208034,
-      "name": "Lobby",
+      "name": "LOBBY",
       "url": "https://open.spotify.com/track/5Saq3QIlyj5afgh2ONnoCD"
     },
     {
@@ -20379,6 +20379,10 @@
         {
           "name": "Nile Rodgers",
           "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Bim Amoako-Gyampah",
+          "url": "https://open.spotify.com/artist/5HbGyTf9SWq76VNWmirjqi"
         }
       ],
       "date_added": "2022-05-19",
@@ -26838,6 +26842,24 @@
     },
     {
       "album": {
+        "name": "Too Long",
+        "url": "https://open.spotify.com/album/2XLuIHPpSufcX4641DCZzU"
+      },
+      "artists": [
+        {
+          "name": "Rapture Boy",
+          "url": "https://open.spotify.com/artist/43Edxwc4O5syVCcKP9biaN"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132921,
+      "name": "Too Long",
+      "url": "https://open.spotify.com/track/6YzNWgKG4oDcR9exoaQwKu"
+    },
+    {
+      "album": {
         "name": "Too Much (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
       },
@@ -28540,7 +28562,7 @@
     },
     {
       "album": {
-        "name": "Emotionally Unavailable",
+        "name": "emotionally unavailable",
         "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
       },
       "artists": [

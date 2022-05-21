@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,380 likes - 43 songs - 2 hr 36 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,379 likes - 44 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 41 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
 | 42 | [find your way \- Elohim Remix](https://open.spotify.com/track/2UYeqwRXXMeYY1qrnBz036) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [find your way \(Elohim Remix\)](https://open.spotify.com/album/4yMauO3cvYQq33kg41pxZI) | 2:54 |
 | 43 | [Don’t Leave Me Alone](https://open.spotify.com/track/0sts2lyM27TXVhRUo5uTEx) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Don't Leave Me Alone](https://open.spotify.com/album/4ehmsm1IQXNEF0Va8RHc5z) | 3:02 |
+| 44 | [Dusk](https://open.spotify.com/track/7rK7bQV2giqvHymQDyI5hY) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Dusk](https://open.spotify.com/album/1yPM7AaWWLW9yxUxlwYizI) | 2:55 |
 
-Snapshot ID: `OTY5Myw3NjMzYjkzNjg2MWIzYzUwZDYyYzZmYTk1NTExMjQxMjFkZjNhNjhm`
+Snapshot ID: `OTY5NCxhZjViNjM4MDZlYTJmNWE5NjA5Nzg0ZTRjMDllMThlZjBlYjhiMjA2`

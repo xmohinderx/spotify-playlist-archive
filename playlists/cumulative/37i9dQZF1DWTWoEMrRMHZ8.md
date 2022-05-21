@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Xênia França
 
-193 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
+194 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Meu Guri](https://open.spotify.com/track/7v55rfDU0GdYkfcqGF77ks) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Meu Guri](https://open.spotify.com/album/7DDRi1Dqg5EdB5pZgHc9zR) | 3:04 | 2022-05-10 |  |
 | [Minha Sorte](https://open.spotify.com/track/2SMjj8a6XAoqOhvupESVdw) | [Validuaté](https://open.spotify.com/artist/6QBjIWtjbAy2Yfi9maLoZ4), [Zé Manoel](https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH) | [Minha Sorte](https://open.spotify.com/album/4k6LoHDRkgbSkxIp7EOyVy) | 3:56 | 2022-02-11 | 2022-05-11 |
 | [Morena Bonita](https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9) | [Anna Setton](https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L) | [Morena Bonita](https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0) | 2:59 | 2021-12-24 |  |
+| [Morena do Beijo Bom](https://open.spotify.com/track/4UlRcLB10iV4hkVXCYLPpp) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [Ana Fuhrmann](https://open.spotify.com/artist/2jGCIbZOPZ830ZN4sGSsrV) | [Morena do Beijo Bom](https://open.spotify.com/album/0ASoQ3MjUwDxyiE71xWwUV) | 2:48 | 2022-05-20 |  |
 | [Motor \- Ao Vivo](https://open.spotify.com/track/0MAUCWvw8T3p2fF2KWHLHr) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s), [Macaco Gordo](https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9) | [Motor \(Ao Vivo\)](https://open.spotify.com/album/4YuWaSYxTtWgXl56ol4PfP) | 5:01 | 2022-05-10 |  |
 | [Mucuripe](https://open.spotify.com/track/2Fil7M2pF2cduAopaetUaT) | [Renato Teixeira](https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI), [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8) | [Mucuripe](https://open.spotify.com/album/7gjqSsgexMOUAUBufSXIIv) | 3:58 | 2022-04-29 |  |
 | [Na Estrada](https://open.spotify.com/track/1kurYZn4PdsziIm0IsttFY) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Céu Lilás \- Na Estrada](https://open.spotify.com/album/0Kb73BaWQJh0GRxnOaSzdV) | 3:38 | 2021-12-24 | 2022-05-20 |

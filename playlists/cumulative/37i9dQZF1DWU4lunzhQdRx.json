@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 235053,
       "name": "2016",
       "url": "https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 293026,
       "name": "Back To December",
       "url": "https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 162117,
       "name": "Drunk Too",
       "url": "https://open.spotify.com/track/6dFc4ryW27fQaj0DWW1DPo"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 180053,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1"
@@ -391,6 +391,24 @@
       "duration_ms": 184760,
       "name": "Forgetting You",
       "url": "https://open.spotify.com/track/56DsYXpdqkl3t2G3xM8MtA"
+    },
+    {
+      "album": {
+        "name": "Gave It Back Broken",
+        "url": "https://open.spotify.com/album/5ivndE0YVTnHp0yKAZ1Ux0"
+      },
+      "artists": [
+        {
+          "name": "Callista Clark",
+          "url": "https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245186,
+      "name": "Gave It Back Broken",
+      "url": "https://open.spotify.com/track/6r4PlTnpyf6AlGWyJMb1wx"
     },
     {
       "album": {
@@ -812,6 +830,24 @@
     },
     {
       "album": {
+        "name": "Narcissist (Piano Version)",
+        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153186,
+      "name": "Narcissist - Piano Version",
+      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
+    },
+    {
+      "album": {
         "name": "29: Written In Stone",
         "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
       },
@@ -899,7 +935,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 284426,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0jn2XqaHliEpWd04ZykIHy"
@@ -1133,7 +1169,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 214106,
       "name": "What Hurts The Most",
       "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
@@ -1169,7 +1205,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 228373,
       "name": "When Someone Stops Loving You",
       "url": "https://open.spotify.com/track/7A55QoGK0vf8lGNtaWZm45"
@@ -1245,7 +1281,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 234515,
       "name": "White Horse (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3"

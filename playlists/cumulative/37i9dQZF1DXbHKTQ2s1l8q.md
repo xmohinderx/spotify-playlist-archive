@@ -4,7 +4,7 @@
 
 > Beachy, acoustic tunes for lazy summer days.
 
-109 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/0JCaMOE91Ef3xMfUpqyDsa)
+110 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/0JCaMOE91Ef3xMfUpqyDsa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Colors](https://open.spotify.com/track/6nbEqrP3sm08UJ7fBgjEqM) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Colors](https://open.spotify.com/album/7soao7wkz07f7w3EZn7p6Q) | 3:02 | 2022-03-10 |  |
 | [Come On Get Higher](https://open.spotify.com/track/1kyWVfQ7VVJqyZ05gSUhQ0) | [Brandi Singer](https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo) | [Ukelele Girl](https://open.spotify.com/album/6dMsLBwMpTlwWsE1U3Sz7R) | 3:37 | 2022-03-10 |  |
 | [Connection](https://open.spotify.com/track/3gkGaOATZDdXpLC05L2YMb) | [KORIBA](https://open.spotify.com/artist/0ttPJjx1cSyAn4CNVPNpEJ) | [A Day In The Forest](https://open.spotify.com/album/62XdTcse6AjFvUMJuNoyub) | 2:16 | 2022-03-10 |  |
-| [Consonance](https://open.spotify.com/track/1SaG0KXd9ArUTt3yFqfGzs) | [Golden Retriever](https://open.spotify.com/artist/71TknewZmcMQGt4R313xoo) | [Capablanca](https://open.spotify.com/album/673anqqhs8SSQMtQuTRaN4) | 2:00 | 2022-03-10 |  |
+| [Consonance](https://open.spotify.com/track/1SaG0KXd9ArUTt3yFqfGzs) | [Golden Retriever](https://open.spotify.com/artist/71TknewZmcMQGt4R313xoo) | [Capablanca](https://open.spotify.com/album/673anqqhs8SSQMtQuTRaN4) | 2:00 | 2022-03-10 | 2022-05-21 |
 | [Constellations \(feat\. Jack Johnson\)](https://open.spotify.com/track/7ysGMxKwKTR78Xhuju3Hvo) | [Kawika Kahiapo](https://open.spotify.com/artist/6aPkORVtaipgr2ryrcNQRp), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Ho'omaluhia](https://open.spotify.com/album/2vLvPXLFAHmftuyOyrTbMw) | 3:53 | 2022-03-10 |  |
 | [Dancing In The Moonlight](https://open.spotify.com/track/6KeHsd0q92Sm9nMpXw7kbp) | [Miles Stevens](https://open.spotify.com/artist/4iFBTDdERv7dXIDdtJ70Rd) | [Dancing In The Moonlight](https://open.spotify.com/album/1WiRcfUayPpf5PiDIb3NhI) | 2:49 | 2022-03-10 |  |
 | [Despacito](https://open.spotify.com/track/4S8QnyDR8D1OebNQGnND5i) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Heather](https://open.spotify.com/album/0AUiVvugI0KDonoRFZktg9) | 3:17 | 2022-03-10 |  |
@@ -75,7 +75,7 @@
 | [Let It Be](https://open.spotify.com/track/5R9dK5Ia3ZFjPtZZbVLWwI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 4:59 | 2022-03-10 |  |
 | [Lights Down Low](https://open.spotify.com/track/2KCrTGdKGGDd6QIHlHeaCV) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Plays the Uke](https://open.spotify.com/album/0sDBEaJsaY5Ayw6gzgNWhn) | 3:36 | 2022-05-05 |  |
 | [Mate Dulce y Amargo](https://open.spotify.com/track/0u6r9d3mjMfIJ3FF4RW4k9) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Mate Dulce y Amargo](https://open.spotify.com/album/3U0ywmyP4MKnpv6BSaBAjv) | 2:58 | 2022-03-10 |  |
-| [Maui Medley PART I](https://open.spotify.com/track/5tjoUaI812GWY83W8XmlJ5) | [Jan Forsmark](https://open.spotify.com/artist/1s3OZeh2LpVPOlKTH0XSOQ) | [Maui Medley PART I](https://open.spotify.com/album/2tsrQPJuJKJAE3BfZWkTsu) | 2:20 | 2022-03-10 |  |
+| [Maui Medley PART I](https://open.spotify.com/track/5tjoUaI812GWY83W8XmlJ5) | [Jan Forsmark](https://open.spotify.com/artist/1s3OZeh2LpVPOlKTH0XSOQ) | [Maui Medley PART I](https://open.spotify.com/album/2tsrQPJuJKJAE3BfZWkTsu) | 2:20 | 2022-03-10 | 2022-05-21 |
 | [Me Dijeron Que Estas Bien](https://open.spotify.com/track/4giwucadmCriq0zubRnUNg) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Me Dijeron Que Estas Bien](https://open.spotify.com/album/1szujtJwnISWuBBCSqSR53) | 2:27 | 2022-03-10 |  |
 | [Mele Kalikimaka](https://open.spotify.com/track/5ywBVtgTmr89IJi19mGCxK) | [Maya Santono](https://open.spotify.com/artist/142wK2DZxaNn0aruAi6K50) | [Mele Kalikimaka](https://open.spotify.com/album/6tAMBNCN8zKuxr8A3JTBTp) | 1:53 | 2022-03-10 |  |
 | [Mia](https://open.spotify.com/track/4HSwNVOzXCeQjJ8QrSNaMp) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Mia](https://open.spotify.com/album/1zFY9asEG1Oik76NugKsRN) | 2:22 | 2022-03-10 |  |
@@ -96,6 +96,7 @@
 | [Rancho](https://open.spotify.com/track/46BVf0OGrdgbuowxPpwviH) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Rancho](https://open.spotify.com/album/5NWhm7lJDMiKryYAWeW2U9) | 2:49 | 2022-03-10 |  |
 | [Riptide](https://open.spotify.com/track/26WunHZg3SjYMOu8SzNPGF) | [Dev Lin](https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88) | [Riptide](https://open.spotify.com/album/7AWubZyMIE5eGvfG9UiOhV) | 3:35 | 2022-05-05 |  |
 | [Silver City](https://open.spotify.com/track/3xTZpkPtRwNZ4XSyx53cuo) | [Ben Tofft](https://open.spotify.com/artist/5A2sXpZZ3Es4AgRGrJACy9) | [Silver City](https://open.spotify.com/album/0zeC3nS5nlOK1aJ9vK8mFE) | 2:59 | 2022-03-10 |  |
+| [Soak up the Sun](https://open.spotify.com/track/1BT8IDlFYmMel8FidLu0oK) | [The Smooth Day Sessions](https://open.spotify.com/artist/7nlyKpx26nRLVda7O4NEA5) | [Ukulele Surf Style \(Acoustic Style Covers\)](https://open.spotify.com/album/73ReNL7RJuuQppRERCQqOd) | 3:16 | 2022-05-20 |  |
 | [Soleil Du Matin](https://open.spotify.com/track/5MHkpGoYis6he9CBBg2w5j) | [Florian Kamen](https://open.spotify.com/artist/61IYVO6KDUEzlXLgKiGy2p) | [Soleil Du Matin](https://open.spotify.com/album/0QQjW9zoNKLZubn6mENs9f) | 1:30 | 2022-03-10 |  |
 | [Stay](https://open.spotify.com/track/3IwotLyzLEwvnVV5tK3LxX) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Stay](https://open.spotify.com/album/2ZpJ6FLDVO1ktGjRf8d3jP) | 1:54 | 2022-03-10 |  |
 | [Sunset Jam](https://open.spotify.com/track/3i1aj5PSwGAv4DBuBBJTcd) | [Jambo Ree](https://open.spotify.com/artist/6StwowfQ7VuVgp16U8TU3G) | [Sunset Jam](https://open.spotify.com/album/2aSrL3RXuZIZMtN2bO3HyS) | 1:39 | 2022-03-10 |  |

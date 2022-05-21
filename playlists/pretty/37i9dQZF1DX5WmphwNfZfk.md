@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Dylan Sinclair
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,030 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,029 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 16 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
 | 17 | [Stuck in the Middle](https://open.spotify.com/track/0kJkiYAvGPwxcMgVznuS8T) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:21 |
 | 18 | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/track/053bbGyTwKCwmSzE78G2Us) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/album/53J5G6P1Xdj6ZsgsHSlg1a) | 3:05 |
-| 19 | [Eastside \(feat\. Toosii\)](https://open.spotify.com/track/1wCXZCCoFBkMlFgKmUeefZ) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Eastside \(feat\. Toosii\)](https://open.spotify.com/album/7jT3pZ8Mv8DRIMsD14jg0T) | 3:26 |
+| 19 | [EASTSIDE \(feat\. Toosii\)](https://open.spotify.com/track/1wCXZCCoFBkMlFgKmUeefZ) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [EASTSIDE \(feat\. Toosii\)](https://open.spotify.com/album/7jT3pZ8Mv8DRIMsD14jg0T) | 3:26 |
 | 20 | [Addicted](https://open.spotify.com/track/3OEzp4UBS6xWHsyMHyKD6r) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5), [Jordan Everett](https://open.spotify.com/artist/2YSPK0T0sY2lSkZ7NL9Joz) | [Addicted](https://open.spotify.com/album/40TyLun5MURuGGNVeSvtq3) | 2:53 |
 | 21 | [I Wanted My Heart to Break](https://open.spotify.com/track/1XzBkGMqeenkz0x0ROXHZK) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [I Wanted My Heart to Break](https://open.spotify.com/album/4cbuvR3gH9Uc02ao0hzzpG) | 3:47 |
 | 22 | [secondguess](https://open.spotify.com/track/29Imzv96MvmWE2iAxejskH) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [secondguess](https://open.spotify.com/album/7JOVnIjr140Zn7scMXAEAd) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 99 | [Untouchable](https://open.spotify.com/track/4SMtKuHmFgx98KizcSCj5m) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy) | [Galerie](https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ) | 3:04 |
 | 100 | [Child](https://open.spotify.com/track/4b58UyTZK1qqkDAUVF0JN1) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Child](https://open.spotify.com/album/4nz18DILyysoglGaV015Cq) | 3:03 |
 
-Snapshot ID: `MTY1MzAyNjQzMiwwMDAwMDAwMGNhYjRjZmUxZWQwMWY4N2FjYTU1ZjFlNDA2YWIwNjll`
+Snapshot ID: `MTY1MzA5NTE0MSwwMDAwMDAwMGNhYjRjZmUxZWQwMWY4N2FjYTU1ZjFlNDA2YWIwNjll`

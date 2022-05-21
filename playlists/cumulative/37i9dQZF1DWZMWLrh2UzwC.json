@@ -2530,6 +2530,24 @@
     },
     {
       "album": {
+        "name": "BASEMENT BOY",
+        "url": "https://open.spotify.com/album/2YrodBLR3JJF6EUh88yZVf"
+      },
+      "artists": [
+        {
+          "name": "DEMIAN",
+          "url": "https://open.spotify.com/artist/6DNTezBmjBm68oYPCENCcA"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188360,
+      "name": "BASEMENT BOY",
+      "url": "https://open.spotify.com/track/6y8Q8DMl5HLi16tTyh4aDt"
+    },
+    {
+      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/7FM4ChgZ4rkqLrvUOV9PUe"
       },
@@ -31602,7 +31620,7 @@
     },
     {
       "album": {
-        "name": "Emotionally Unavailable",
+        "name": "emotionally unavailable",
         "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
       },
       "artists": [

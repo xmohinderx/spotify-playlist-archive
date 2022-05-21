@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Red Hot Chilli Peppers
 
-293 songs - 17 hr 41 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+295 songs - 17 hr 49 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Homegrown](https://open.spotify.com/track/0Zp7tPRjN7T011knjd9FZU) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Homegrown](https://open.spotify.com/album/08wQogg47jUetQkJjqjn6B) | 2:47 | 2020-10-10\* | 2021-05-13 |
 | [Honey](https://open.spotify.com/track/4rnOEnsyDIdjBfUnGV862s) | [DUAL](https://open.spotify.com/artist/4fgzUG6sFpomNM6sf4xOIV) | [Honey](https://open.spotify.com/album/3zGFNQCB2ENoZB1o0JcWNi) | 3:36 | 2020-11-06 | 2022-03-18 |
 | [Honeybrains](https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Honeybrains](https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt) | 3:06 | 2022-03-18 |  |
+| [Human](https://open.spotify.com/track/6L1xYJekj95F3Cu2kJHrBr) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Human](https://open.spotify.com/album/5jYUpYaH4hDo3xDehiziBZ) | 5:24 | 2022-05-20 |  |
 | [Human Crime](https://open.spotify.com/track/1a1Mk18Fh0eba27uRe9fh4) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Human Crime](https://open.spotify.com/album/5t30kYZOvnKjhQPojZMpVi) | 3:07 | 2022-03-07 |  |
 | [HWY 666](https://open.spotify.com/track/6QnwNrGUyLRkHSXgHRblmn) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [HWY 666/Black Eyes Blue/CMFT Must Be Stopped \(Featuring Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/2PlblaXwjQDSHsXWUUBA2S) | 4:09 | 2020-10-10\* | 2022-03-18 |
 | [i can't get high](https://open.spotify.com/track/3OEi89tc0xveSTHAhwrFKT) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [i can't get high](https://open.spotify.com/album/7JhOqoGnIfgcHJxNq5ZnCx) | 3:08 | 2021-02-26 | 2022-03-18 |
@@ -220,6 +221,7 @@
 | [Saturday](https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:52 | 2021-05-22 |  |
 | [Savage Lands](https://open.spotify.com/track/5nDrnOSq8NuwHJpwH6Zv0y) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 4:24 | 2021-10-29 |  |
 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/2Srbekd8waUUAr0gIMt5dg) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/album/0IZGnnl5a2wFGLsCYHJyQ6) | 3:30 | 2020-10-10\* | 2021-05-13 |
+| [Season 5 \(Break My Fall\)](https://open.spotify.com/track/0SfCryEa05GUIWP9DJEd7R) | [TOWNS](https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK) | [Season 5 \(Break My Fall\)](https://open.spotify.com/album/2Cew4ZRUkzcT9Dn8AlPMco) | 3:14 | 2022-05-20 |  |
 | [Sex Magik](https://open.spotify.com/track/5QUfvTWB3lufXitDEbrcT7) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Sex Magik](https://open.spotify.com/album/1YiU1FtGcLU67uw0yI3MMU) | 3:26 | 2022-02-25 |  |
 | [Shadowland](https://open.spotify.com/track/1l3elIbQWyMArfxbIXM6uB) | [Tumbleweed](https://open.spotify.com/artist/2w4WMdg6Y7KE43OebGxO1r) | [Shadowland](https://open.spotify.com/album/5scdC0iQINKXXSwqwHTyVi) | 5:21 | 2020-10-16 | 2022-03-18 |
 | [She Couldn't](https://open.spotify.com/track/11LguGpEjOklkNQr70nrHQ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [She Couldn't](https://open.spotify.com/album/43tjeef8lVwnRffkZY0uQp) | 5:05 | 2020-10-10\* | 2022-03-18 |

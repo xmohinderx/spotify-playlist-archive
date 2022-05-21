@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Katherine Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,224,116 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,224,705 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 22 | [the reason i hate home](https://open.spotify.com/track/4ONM0At2H9s1rjIZ9ROxRj) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [the reason i hate home](https://open.spotify.com/album/60w9GszHHtExusXvbenVKz) | 2:43 |
 | 23 | [u love u \(feat\. JVKE\)](https://open.spotify.com/track/1Wu5ERJDVhEUDKSim34CnP) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [u love u \(feat\. JVKE\)](https://open.spotify.com/album/6tqmxYtdp7MZS9hcqoA5AM) | 2:03 |
 | 24 | [i don't wanna be yours](https://open.spotify.com/track/5Mk6npt9ZdkUTvlY6sZuY0) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [i don't wanna be yours](https://open.spotify.com/album/77MOdQXrbPpAD6svCnqiOo) | 2:39 |
-| 25 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Emotionally Unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 |
+| 25 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 |
 | 26 | [Happier Than Ever](https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Happier Than Ever](https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5) | 1:49 |
 | 27 | [Shadow Of Mine](https://open.spotify.com/track/0uth6JMSGzbmREU9esuWX5) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Shadow Of Mine](https://open.spotify.com/album/1WOXEZWW81y830KHdqOdVG) | 2:45 |
 | 28 | [Will It Ever Feel The Same?](https://open.spotify.com/track/2bsuvsOwkhIstFmn0IHkhG) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Will It Ever Feel The Same?](https://open.spotify.com/album/2FkJKUyeNKvWKhZJLdgTUd) | 3:00 |

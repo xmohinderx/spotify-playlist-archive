@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-470 songs - 20 hr 35 min - [published](https://open.spotify.com/playlist/5ivlBPrVw7Ueam5McdaCfx)
+476 songs - 20 hr 49 min - [published](https://open.spotify.com/playlist/5ivlBPrVw7Ueam5McdaCfx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Darjeeling](https://open.spotify.com/track/37LE6gpXSSArk0zKyvukSb) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Darjeeling](https://open.spotify.com/album/3brqqWbxbR44knvxSxj4s0) | 2:52 | 2021-12-07 |  |
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-01-04 |  |
 | [Der Vogel auf dem Felsen](https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 2:20 | 2021-12-07 | 2022-04-21 |
+| [Despoina](https://open.spotify.com/track/4A5LsjpZx6FTW4rf0IVTcF) | [Bert Hearns](https://open.spotify.com/artist/1aGVRfsCFUIKGa775i4QJs) | [Despoina](https://open.spotify.com/album/6o8m1ke9DDtcnyDXtTiFop) | 2:20 | 2022-05-20 |  |
 | [Diamond](https://open.spotify.com/track/1eeBSZxZDYT2okIAhcZpno) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Diamond](https://open.spotify.com/album/1xKCiRGT3YFAjADTInkWTk) | 2:38 | 2021-12-07 |  |
 | [die letzten Schritte](https://open.spotify.com/track/71UMvOQ8RDBtsBi0rj5uB3) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [der Saibling](https://open.spotify.com/album/5qhOBNNRy0I0dcZ426mosd) | 2:42 | 2021-12-07 |  |
 | [Dique de Abrigo](https://open.spotify.com/track/4A7rr9XPYubs0MOUqXfTVl) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Matria](https://open.spotify.com/album/0zy7lGbPXU48J64SMrhoqs) | 3:50 | 2021-12-07 |  |
@@ -191,6 +192,7 @@
 | [Intermediate](https://open.spotify.com/track/1kaBf48DzOMZGZaW8RS0a6) | [Alain Pironi](https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr) | [Intermediate](https://open.spotify.com/album/7zr0qB3NM8DbgKTdqTr7LU) | 2:30 | 2021-12-07 |  |
 | [Interstellar Seasons](https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Interstellar Seasons](https://open.spotify.com/album/3m11zDc4En223CSPDiw5cA) | 2:31 | 2021-12-07 |  |
 | [Intimita \- Futatabi](https://open.spotify.com/track/6tUBHCAKCnlqbyEqJjXJSo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Intimita \- Futatabi](https://open.spotify.com/album/4JnQ9RJjw3BaE18z8fccAE) | 1:57 | 2021-12-07 |  |
+| [Into the Subconscious](https://open.spotify.com/track/68WU8PnAO2EajCfL1s7TIL) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Into the Subconscious](https://open.spotify.com/album/3RWMMRlWWlpEfBikCBpSLC) | 2:43 | 2022-05-20 |  |
 | [Island](https://open.spotify.com/track/2qglfm0H0hUuL4SwQHtuWj) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [Island](https://open.spotify.com/album/6Tv48n5bgrkcAZNmtG8YYe) | 2:27 | 2021-12-07 |  |
 | [Jalousie](https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [Jalousie](https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj) | 2:00 | 2022-01-04 |  |
 | [Je Suis Paix](https://open.spotify.com/track/1kjxU1Z1omaqsaS7qh3ZhQ) | [Selma India](https://open.spotify.com/artist/0eo4GHoKLJml5YcxYdQswv) | [Je Suis Paix](https://open.spotify.com/album/3yx0UkhiwsLHWAzJKhl8GO) | 3:02 | 2021-12-07 |  |
@@ -214,6 +216,7 @@
 | [Le Ballet de L\`Oubli](https://open.spotify.com/track/1ZvZqIoLskfHuZ3A0akrsV) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Le Ballet de L\`Oubli](https://open.spotify.com/album/1BYFGajwHEIseik0EvBU6m) | 3:23 | 2022-04-20 |  |
 | [Le Bonheur](https://open.spotify.com/track/3J8dqKlO2trb3uRGhcx3ok) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Le Bonheur](https://open.spotify.com/album/16jsGf5M8TZ2NeqSa09c8P) | 2:59 | 2021-12-07 |  |
 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Le Jardin de Monsieur Monet](https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI) | 5:13 | 2021-12-07 | 2022-03-02 |
+| [Le vol de l’oiseau](https://open.spotify.com/track/4pAGwabwsTepSu5mAD9lv4) | [Oscar Kowalski](https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04) | [Réminiscence](https://open.spotify.com/album/7CrynEMirXsEVcGWDQyUzS) | 2:16 | 2022-05-20 |  |
 | [Leaf To Leaf](https://open.spotify.com/track/4RDQIAeLFsElt58FvN4m6B) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Leaf To Leaf](https://open.spotify.com/album/0qUdp5c99oFrf8WZ47HUYz) | 2:26 | 2021-12-07 |  |
 | [Legend](https://open.spotify.com/track/6ManJ5S1o9oDqzEoRRAqcU) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Legend](https://open.spotify.com/album/0TiCArCLbEtByFYvHLfD1k) | 2:32 | 2021-12-07 |  |
 | [Les Années Folles](https://open.spotify.com/track/1YAneLq79WDFeKZABB6KcD) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Les Années Folles](https://open.spotify.com/album/6Gzh3Pk0CPYLhph8FdXVYv) | 2:45 | 2021-12-07 |  |
@@ -330,6 +333,7 @@
 | [Red Sky](https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Red Sky](https://open.spotify.com/album/6aTev9H6NeG5l03DgD3rJc) | 2:19 | 2022-02-15 |  |
 | [reflect](https://open.spotify.com/track/5FRKQvwwsBVwHKfG5QuL4h) | [Anna Goya](https://open.spotify.com/artist/3T6VP5tdYDJR2H9sc62fMW) | [reflect](https://open.spotify.com/album/2HPnSOnsjv5OMhhKZD83eD) | 2:26 | 2021-12-07 |  |
 | [Refraction](https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Refraction](https://open.spotify.com/album/1aGIdyXxti7seh4NwA5RNJ) | 2:59 | 2021-12-07 |  |
+| [Remedy](https://open.spotify.com/track/1VqFyIu8S1o5XkiZSQR2iN) | [Julien Thorsen](https://open.spotify.com/artist/4mm2IRrNFYuVoESj439Apn) | [Remedy](https://open.spotify.com/album/3sjka7Lq2ZUoBJGZSdRJxQ) | 1:58 | 2022-05-20 |  |
 | [Remembering](https://open.spotify.com/track/15BXZpDEzGSoKRdqvEieXQ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Remembering](https://open.spotify.com/album/3rWELleGIOoXEnW0eSHBjG) | 2:01 | 2021-12-07 | 2022-02-02 |
 | [Rest](https://open.spotify.com/track/6qetTUm5h5LvvHCsALacJt) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Rest](https://open.spotify.com/album/0xawmcCxkH1qHBiFYwyVYU) | 2:47 | 2021-12-07 |  |
 | [Restzeit](https://open.spotify.com/track/6LTRQ62pQFSr1OmmDYyzVy) | [Raoul Panzinger](https://open.spotify.com/artist/7BIiSEdSySWVsnOOIrohEP) | [Restzeit](https://open.spotify.com/album/6YnTVreiPfr0Ve4LlJkv3Z) | 2:03 | 2021-12-07 |  |
@@ -381,6 +385,7 @@
 | [Starlight Canyon](https://open.spotify.com/track/2ZNtfHoeaslSqK2UbtK2S6) | [Lok Hanzo](https://open.spotify.com/artist/1cncGJWbNVksCj9GsqxDdR) | [Lavender Dreams](https://open.spotify.com/album/4OcV6gotcV6oh8XEmRezDz) | 1:38 | 2022-04-07 |  |
 | [Still Water](https://open.spotify.com/track/63KkU73FviWsVToFs1LYRI) | [Dexter Osborne](https://open.spotify.com/artist/2qw3ztTjf7LHNKoTNvij4q) | [Still Water](https://open.spotify.com/album/0mgSTKjCwRcraBkXmIBteu) | 2:45 | 2021-12-07 |  |
 | [Strejfer](https://open.spotify.com/track/2YabKanL5OYJLGosyYTWdR) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Strejfer](https://open.spotify.com/album/1aeDkp0m42y4wfJ69fX9H3) | 2:08 | 2021-12-07 |  |
+| [Study for Proun](https://open.spotify.com/track/6NAPBc3ZdmIgftLDkxyZ5C) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [Study for Proun](https://open.spotify.com/album/3OfnZjtjNCgxpF01f7bVY8) | 2:45 | 2022-05-20 |  |
 | [Stundom](https://open.spotify.com/track/1OJmKyPXayT4TID0XE2uxt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Stundom](https://open.spotify.com/album/5WYK03J5fXQzuSx67C1Npu) | 2:28 | 2021-12-07 |  |
 | [Sun Burst](https://open.spotify.com/track/4VWzleChE2O0hOED8WSwN8) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Sun Burst](https://open.spotify.com/album/3HwgvWlgKKUdxCRqUq645D) | 2:23 | 2021-12-07 |  |
 | [Sun Crosses The Sky](https://open.spotify.com/track/5WoQSCilkcY6MbXlFgoAH2) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [Sun Crosses The Sky](https://open.spotify.com/album/7irh1OArC4jbOvw6UDNE1z) | 2:35 | 2021-12-07 |  |
@@ -442,6 +447,7 @@
 | [Vellichor](https://open.spotify.com/track/6wHTJ1Bx98S9qILhLsgeQO) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Vellichor](https://open.spotify.com/album/5VbKExVj5IMx2M4ABGZCN7) | 2:37 | 2021-12-07 |  |
 | [Verlorene Liebe](https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL) | [Jillian Wasser](https://open.spotify.com/artist/5eI8E7aI0efbASULeju84q) | [Verlorene Liebe](https://open.spotify.com/album/36MOUe0F7DpMC0MHG0h777) | 3:02 | 2021-12-07 |  |
 | [Verträumt](https://open.spotify.com/track/6yfuxuWZNEnwOykWXStzxY) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Verträumt](https://open.spotify.com/album/1QLGJWEAeddXVFaAwI6gZ4) | 2:14 | 2021-12-07 |  |
+| [Vessel](https://open.spotify.com/track/1HTWodzZfG7Vjaq9XDZGbM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Vessel](https://open.spotify.com/album/2OA3pmK5XlAP9h1mq56Uy8) | 2:26 | 2022-05-20 |  |
 | [Vibrio](https://open.spotify.com/track/41hbWopsUNj8lqbtOMDspW) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Vibrio](https://open.spotify.com/album/7lUH5gqGaUT5P0jmaaPDD4) | 2:44 | 2021-12-07 |  |
 | [Vierzylinder](https://open.spotify.com/track/3QI14HQnAH2BB5CffziKaF) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Vierzylinder](https://open.spotify.com/album/5qYXPblYOuRH9V3d7MoJBg) | 2:49 | 2021-12-07 |  |
 | [View from the Train](https://open.spotify.com/track/5vA4phoFUnQ5hqpKbDmDVt) | [Riley Houser](https://open.spotify.com/artist/2PxJ8BAthpoiOo3XgIJnS2) | [View from the Train](https://open.spotify.com/album/1OgG1AP0mLif0vjZ6CEf2D) | 2:54 | 2021-12-07 |  |

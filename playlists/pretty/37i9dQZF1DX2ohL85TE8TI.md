@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Our Blues \(우리들의 블루스\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,438,100 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,438,262 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 29 | [Because Of You, My Day Is Brilliant](https://open.spotify.com/track/2Yqw601EvqjXFo2I1aGZ7z) | [An Ye Seul](https://open.spotify.com/artist/4sfK1Rcfv4VCjpZ0ejFYkj) | [Bravo, My Life OST Part.5](https://open.spotify.com/album/1U61cM0Pxc6wthfri7KFfc) | 3:49 |
 | 30 | [We Sink](https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65) | [SWAY](https://open.spotify.com/artist/4G7fNrdlWLlzoaYqdZHale) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 |
 | 31 | [Empty\-handed](https://open.spotify.com/track/4X4lN5MOPExYdogvyyfNTG) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Monstrous, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1d6hkx4w4dAijCqozIqI08) | 3:50 |
-| 32 | [How I Feel](https://open.spotify.com/track/2vKSw5J9pYA6KS1qOPr1mZ) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Shooting Stars \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/2UBqOAsDy3N791Ndn4lUWr) | 3:30 |
+| 32 | [How I Feel](https://open.spotify.com/track/2vKSw5J9pYA6KS1qOPr1mZ) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/2UBqOAsDy3N791Ndn4lUWr) | 3:30 |
 | 33 | [Let's Live for Today \(Single from Pachinko: Season 1\) \[Apple TV+ Original Series Soundtrack\]](https://open.spotify.com/track/0c3ANespplAKrkGzNvXjyt) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [Let's Live for Today \(Single from Pachinko: Season 1\) \[Apple TV+ Original Series Soundtrack\]](https://open.spotify.com/album/6uo6H9JiX6ZeiHE0aHTdFt) | 1:25 |
 | 34 | [Annarasumanara \(Soundtrack from the Netflix Series\)](https://open.spotify.com/track/1dOCcfIw29rvHeIi02fOKP) | [Ji Chang Wook](https://open.spotify.com/artist/2jFwhTLuD4ysBK8vMnbmCf), [CHOI SUNG EUN](https://open.spotify.com/artist/042aq3qpODTbJ9rI1tNAK0) | [Annarasumanara \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/56CagTR71Psvbz6XjmJcJo) | 3:37 |
 | 35 | [Be My Birthday](https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Liberation Notes OST Part 5](https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB) | 3:14 |

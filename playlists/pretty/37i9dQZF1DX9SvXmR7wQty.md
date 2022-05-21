@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Loud
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,202 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,225 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 22 | [La recette](https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [La recette](https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v) | 3:17 |
 | 23 | [Tôt ou tard](https://open.spotify.com/track/3rNvOq7tU21AxNws4nasF0) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [Tôt ou tard](https://open.spotify.com/album/1D8Nj8pAWfY7wQlTBzTTXX) | 2:28 |
 | 24 | [Phénix \(vue par Misstress Barbara\) \- Remix](https://open.spotify.com/track/05ZPFP5leyssyzHkvFZvCA) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Phénix \(vue par Misstress Barbara\) \[Remix\]](https://open.spotify.com/album/3pG19W4oJwhWxuGbD4DNOw) | 5:24 |
-| 25 | [Dormir sur ton couch](https://open.spotify.com/track/5BNlRMITpOxM4FJlthEc0f) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Live au Quai des Brumes](https://open.spotify.com/album/0aLzx2qpouIRJaIbXuR3BM) | 3:43 |
+| 25 | [Dormir sur ton couch \- Live](https://open.spotify.com/track/5BNlRMITpOxM4FJlthEc0f) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Live au Quai des Brumes](https://open.spotify.com/album/0aLzx2qpouIRJaIbXuR3BM) | 3:43 |
 | 26 | [Piège](https://open.spotify.com/track/0ShFagBwmFWc5XzHN61FOO) | [Josad](https://open.spotify.com/artist/5YR9Y6LjJ5zrE4HefvkcvL) | [Piège](https://open.spotify.com/album/2fBIieXqAnlh8cwH8RyTJD) | 2:48 |
 | 27 | [HIT](https://open.spotify.com/track/1z4jzgRu3aPr5W1EL3fLNu) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Shotto Guapo](https://open.spotify.com/artist/5Gk8TXAgkY02R4PPtVrhvC) | [HIT](https://open.spotify.com/album/5fzL567zhWlmeslIgX9tQR) | 3:36 |
 | 28 | [Inconfortable](https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT) | [Les Hôtesses D' Hilaire](https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx) | [Pas l'temps d'niaiser](https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz) | 3:09 |

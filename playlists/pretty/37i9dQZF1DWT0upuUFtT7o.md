@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: kelz Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,911 likes - 90 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,974 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

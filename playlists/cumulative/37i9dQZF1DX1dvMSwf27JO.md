@@ -4,7 +4,7 @@
 
 > and why aren't you in uniform?
 
-128 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
+129 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [NEW DORP\. NEW YORK](https://open.spotify.com/track/58gwRs0kyIlI32l5nW7iep) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Wonder Where We Land](https://open.spotify.com/album/78e7BYsTYok3QEQyvWbhqb) | 3:00 | 2021-12-09 |  |
 | [Nightcrawler](https://open.spotify.com/track/5Vv84O4hpfW3yVJokveL0b) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Nightcrawler](https://open.spotify.com/album/27cBacBiyauBUk0z6kQuCn) | 2:19 | 2022-02-11 | 2022-05-14 |
 | [No Good Reason](https://open.spotify.com/track/4RLl6YFuMKbHOhg9twznvJ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 1:48 | 2022-04-11 |  |
-| [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 | 2022-04-28 |  |
+| [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 | 2022-04-28 | 2022-05-21 |
 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 | 2021-08-05 |  |
 | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/track/0RW1UL8w8rjQkaIaljaFc5) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/album/3zFq7EuaSEF96fFaMCUE8w) | 3:27 | 2021-08-05 |  |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2021-08-05 |  |
@@ -105,6 +105,7 @@
 | [Rich Girl](https://open.spotify.com/track/2Y2q7PkD7lvuWr8YaZfWuv) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:56 | 2021-11-12 |  |
 | [Rich Wallice](https://open.spotify.com/track/0CQ1JPDZLJvun80MFLr4Du) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [90s American Superstar](https://open.spotify.com/album/66S38eUM5q4l4vjrTpvdci) | 2:20 | 2022-05-13 |  |
 | [seaside\_demo](https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT) | 2:12 | 2021-08-05 |  |
+| [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-05-20 |  |
 | [Sensitive](https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte) | 2:54 | 2021-08-05 |  |
 | [Shimmy Shimmy Ya](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 2:41 | 2022-04-15 |  |
 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 | 2021-08-05 |  |

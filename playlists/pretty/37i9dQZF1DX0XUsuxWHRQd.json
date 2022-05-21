@@ -1,12 +1,12 @@
 {
   "description": "Music from Lil Baby, Kendrick Lamar and Moneybagg Yo.",
-  "num_followers": 14472091,
+  "num_followers": 14473830,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxOTIwMCwwMDAwMDY2MzAwMDAwMTgwZGY5ZjRhZTQwMDAwMDE4MGRkOTUwOTkx",
+  "snapshot_id": "MTY1MzA1ODY1OSwwMDAwMDY2NDAwMDAwMTgwZTFmOTY1YzgwMDAwMDE4MGRkOTUwOTkx",
   "tracks": [
     {
       "added_at": "2022-04-08 04:03:17",
@@ -271,6 +271,26 @@
       "duration_ms": 152612,
       "name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
       "url": "https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe"
+    },
+    {
+      "added_at": "2022-05-20 14:57:39",
+      "album": {
+        "name": "Meat This",
+        "url": "https://open.spotify.com/album/0y1b2ZeIbGhkOcHODiUBxe"
+      },
+      "artists": [
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "duration_ms": 146285,
+      "name": "Meat This",
+      "url": "https://open.spotify.com/track/52jBY28ULSi4ayJ57QFbLP"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -879,26 +899,6 @@
       "duration_ms": 178413,
       "name": "Blick Blick (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
-    },
-    {
-      "added_at": "2022-03-11 05:41:13",
-      "album": {
-        "name": "What It Means To Be King",
-        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
-      },
-      "artists": [
-        {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 185213,
-      "name": "Trust Nothing (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY"
     },
     {
       "added_at": "2022-04-15 04:10:29",
