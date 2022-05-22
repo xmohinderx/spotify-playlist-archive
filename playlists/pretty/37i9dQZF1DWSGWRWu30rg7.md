@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Radinal\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,483 likes - 62 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,485 likes - 62 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 13 | [Last Queue \(Meanor\)](https://open.spotify.com/track/1iLMGFyk36641YdyW04j7m) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Last Queue \(Meanor\)](https://open.spotify.com/album/6yS68WaqLFt2foL8eT5QgX) | 3:24 |
 | 14 | [Reality Show \- Funky Groove Remix](https://open.spotify.com/track/70HcdgxuMcVb0pzl2dhwT5) | [Sorenza Nuryanti](https://open.spotify.com/artist/3UtnHWhOJ3UXTyuWmdFqUN) | [Reality Show](https://open.spotify.com/album/1C5cEMy3nDJs5n3LilOJ9f) | 3:05 |
 | 15 | [Walk on Hits](https://open.spotify.com/track/3S09Ob3wXqOslVDPkG6glQ) | [Mario Draco](https://open.spotify.com/artist/1KwSZl8qwUAoKGk57dXl0q) | [Walk on Hits](https://open.spotify.com/album/7rcLLSHJ9riJo0SvgHQTwg) | 1:46 |
-| 16 | [Yellow Pickle](https://open.spotify.com/track/0k2UXxVReQHS6A8p2392lM) | [Jack Donn](https://open.spotify.com/artist/36hz4zHcALj3eLFbdNh6TS), [Flojo](https://open.spotify.com/artist/7nlX32DXVGxGyvN2jIqaWi), [Uncle Yama](https://open.spotify.com/artist/5U8OyapJbmGecWOMQ3eoMd) | [Yellow Pickle](https://open.spotify.com/album/49n3glTJPNa66uHO95jVfD) | 3:38 |
+| 16 | [Yellow Pickle](https://open.spotify.com/track/0k2UXxVReQHS6A8p2392lM) | [Jack Donn](https://open.spotify.com/artist/36hz4zHcALj3eLFbdNh6TS), [Flojo](https://open.spotify.com/artist/5OWJ5e96VAK3F74KE8ZEfF), [Uncle Yama](https://open.spotify.com/artist/5U8OyapJbmGecWOMQ3eoMd) | [Yellow Pickle](https://open.spotify.com/album/49n3glTJPNa66uHO95jVfD) | 3:38 |
 | 17 | [I'm A Mess](https://open.spotify.com/track/7qkZahg77Nzlv8cKDDpifB) | [Red Cherry](https://open.spotify.com/artist/4ZyAD8NwhatTmmGSGeMKuj) | [Self](https://open.spotify.com/album/5qoWiWX01t7xU0ksaHRTms) | 3:24 |
 | 18 | [Summertime](https://open.spotify.com/track/5rcVV5qT25SUsMVnIk4bDh) | [BILBOYSAN](https://open.spotify.com/artist/01hmGM01DAPioXw1BF5Tul) | [Summertime](https://open.spotify.com/album/0gznI5a1gglsNdZN2emwgV) | 2:50 |
 | 19 | [Picture, You.](https://open.spotify.com/track/4N4lh3JSrz7jdPtFv9D3Jr) | [Ravi Andika](https://open.spotify.com/artist/2Nvkc0Qs0ErmxRzhL3bqNl) | [Picture, You.](https://open.spotify.com/album/4jFrGUf3jJCYuhHEXcpwbE) | 3:37 |

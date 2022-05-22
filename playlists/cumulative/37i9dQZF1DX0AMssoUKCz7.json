@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 133000,
       "name": "Adore Me",
       "url": "https://open.spotify.com/track/0qWI3yyjm0pE6w27TKYA3n"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 146073,
       "name": "Break Through",
       "url": "https://open.spotify.com/track/7fA8lHiXjHyeMks8jTC48S"
@@ -1703,7 +1703,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 166859,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/4rZPXoHjYAaKqxaWE43KFW"
@@ -1721,7 +1721,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 176909,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/2vajU8g5DJCuthr5pb7RVT"
@@ -2307,7 +2307,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 196389,
       "name": "Freak - Sam Feldt Remix Edit",
       "url": "https://open.spotify.com/track/5SNTUBSq1Qzi0URdB443h1"
@@ -2734,6 +2734,24 @@
     },
     {
       "album": {
+        "name": "Dream Dimension",
+        "url": "https://open.spotify.com/album/3TIcSrROV3PLNVq5rMMlWJ"
+      },
+      "artists": [
+        {
+          "name": "Ehrling",
+          "url": "https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/4PkWff16v14sACvFBrKtI0"
+    },
+    {
+      "album": {
         "name": "V EP",
         "url": "https://open.spotify.com/album/4OYAw3CG6IbsnMPrc1Cxh7"
       },
@@ -2973,6 +2991,24 @@
       "duration_ms": 167213,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/0pjFg3uppmooqP1yqPBhZk"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/1keAXpmaKyIA7myToH4bMV"
+      },
+      "artists": [
+        {
+          "name": "Leviro",
+          "url": "https://open.spotify.com/artist/50rU4gBfyrar1G08tnxdTl"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121043,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/7o414PkGSOyexmhm7WGzSI"
     },
     {
       "album": {
@@ -3540,6 +3576,24 @@
     },
     {
       "album": {
+        "name": "Kuala Lumpur",
+        "url": "https://open.spotify.com/album/4suO8UXZWFxmqEPtabQrCK"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Kuala Lumpur",
+      "url": "https://open.spotify.com/track/2gK4qTOtzYQiiOW6I2bXj8"
+    },
+    {
+      "album": {
         "name": "Huaraz",
         "url": "https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf"
       },
@@ -3569,7 +3623,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 220939,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/4N0UHWYEc1DCn1UcsJtfmx"
@@ -3897,7 +3951,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 161727,
       "name": "Love Is In The Air",
       "url": "https://open.spotify.com/track/2hlcoDVWYEfoNspgPuUvvT"
@@ -4661,7 +4715,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 160295,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/4i74xaJ4ryjSNRnwQiwlHY"
@@ -4705,6 +4759,28 @@
       "duration_ms": 188400,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/2dxiCU61pRLZU81P6YCaDd"
+    },
+    {
+      "album": {
+        "name": "Night Sky",
+        "url": "https://open.spotify.com/album/3SJaWpvArUXmEeGJUbp88T"
+      },
+      "artists": [
+        {
+          "name": "Ruffnux",
+          "url": "https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf"
+        },
+        {
+          "name": "Tenjo",
+          "url": "https://open.spotify.com/artist/6CKt4tMB1YYkB2CtnnCG9f"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Night Sky",
+      "url": "https://open.spotify.com/track/29oU36Lm5HxVfiDW1aiQku"
     },
     {
       "album": {
@@ -6069,7 +6145,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 185039,
       "name": "Seduction",
       "url": "https://open.spotify.com/track/23OzWEhGGgu7RSqzKhsGhE"
@@ -6277,7 +6353,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 151016,
       "name": "Slippery Slope",
       "url": "https://open.spotify.com/track/5UhbQmKfFcI9EdxliAxntg"
@@ -6643,6 +6719,32 @@
       "duration_ms": 179192,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/5OtT0f9plRvcZpTGuuN8p9"
+    },
+    {
+      "album": {
+        "name": "Summertime With You",
+        "url": "https://open.spotify.com/album/5NQ9nE5nfn78rpz8o97rZp"
+      },
+      "artists": [
+        {
+          "name": "Viva La Panda",
+          "url": "https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy"
+        },
+        {
+          "name": "Honey",
+          "url": "https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9"
+        },
+        {
+          "name": "JAYNIE",
+          "url": "https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "Summertime With You",
+      "url": "https://open.spotify.com/track/5b6zREc57MnDHRh2EjVHbw"
     },
     {
       "album": {
@@ -7267,7 +7369,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 288000,
       "name": "Tranquillity",
       "url": "https://open.spotify.com/track/6FRPp1RZx4bXvAP95Qmodx"
@@ -7665,7 +7767,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 165829,
       "name": "Whatever You Like - Radio Edit",
       "url": "https://open.spotify.com/track/200UDgTJl6xvSejJzMP6Ne"
@@ -7797,7 +7899,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 178588,
       "name": "Wide Angle",
       "url": "https://open.spotify.com/track/2g1TfW0E9Yr5sxxrvzW7g5"
@@ -7877,7 +7979,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 163105,
       "name": "Without You",
       "url": "https://open.spotify.com/track/4vN3YZKWDARkYVRjXaY4cx"
@@ -7921,7 +8023,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 136890,
       "name": "Won't Let Go",
       "url": "https://open.spotify.com/track/7GEgzRRim9jP7AyxSskHaZ"

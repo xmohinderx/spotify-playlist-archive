@@ -684,6 +684,24 @@
     },
     {
       "album": {
+        "name": "Spirits (Live 1972)",
+        "url": "https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546304,
+      "name": "Ships With Sails - Live 1972",
+      "url": "https://open.spotify.com/track/0hwYcIHthQpv0jl9tfYjZ3"
+    },
+    {
+      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },

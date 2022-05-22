@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,531 likes - 85 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,703 likes - 85 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

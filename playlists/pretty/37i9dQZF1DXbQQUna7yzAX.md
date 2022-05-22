@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQQUna7yzAX.md) - [plain]
 
 > Grunge is still alive and kicking!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,655 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,703 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQQUna7yzAX.md) - [plain]
 | 14 | [Slip](https://open.spotify.com/track/0PHSxaqrOyoVBJQzCP2bTp) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [Slip](https://open.spotify.com/album/7H0DIXNoz68etzavpGzzcR) | 2:47 |
 | 15 | [To the Grave](https://open.spotify.com/track/2u8nEKPDGFR6DrlX90JoEI) | [Crape](https://open.spotify.com/artist/2FWet7RIyCyNlZSNpYpJxi), [Tuxx](https://open.spotify.com/artist/00u33wOLnUVDe4AHZ0lbSA) | [To the Grave](https://open.spotify.com/album/6IyPVkaTahXnsUgKaBxZv3) | 3:36 |
 | 16 | [Dangerous](https://open.spotify.com/track/08a8M0SzJUF2hUUDkmtWT9) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Dangerous](https://open.spotify.com/album/7N0m2m27pHDbk8e7mKnisH) | 3:31 |
-| 17 | [Last Man Stading](https://open.spotify.com/track/6XlC4MoxlFcFUna34rwNeU) | [Just a Ride](https://open.spotify.com/artist/2XC4Nga7sPqaO7dB1jRlnu) | [Last Man Standing](https://open.spotify.com/album/4tY8QskFSKC8LpKP1nqa03) | 3:22 |
+| 17 | [Last Man Standing](https://open.spotify.com/track/6XlC4MoxlFcFUna34rwNeU) | [Just a Ride](https://open.spotify.com/artist/2XC4Nga7sPqaO7dB1jRlnu) | [Last Man Standing](https://open.spotify.com/album/4tY8QskFSKC8LpKP1nqa03) | 3:22 |
 | 18 | [Natalie](https://open.spotify.com/track/19sVo6XSeni1nVQW0eZuxt) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Married](https://open.spotify.com/album/7eqxIAAFY956TlrHH0xLEt) | 3:28 |
 | 19 | [Slippin Thru \(Olympus\)](https://open.spotify.com/track/2iCNn64ziMiunTQemFhMeg) | [Parti!](https://open.spotify.com/artist/1b17pNackw7aDoGd6NIZzK) | [Slippin Thru \(Olympus\)](https://open.spotify.com/album/6gkQEseRP1jIigRNJooBE3) | 2:07 |
 | 20 | [come down](https://open.spotify.com/track/011b6Tc8NDUNkEm2bkzn3u) | [Vandals in Sandals](https://open.spotify.com/artist/0uKyLLvgYZsxyErHM4xtYf) | [come down](https://open.spotify.com/album/4QsY8Rml3toMBNN5548lRz) | 3:29 |

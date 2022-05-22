@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: Mychelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,517 likes - 108 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,512 likes - 108 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

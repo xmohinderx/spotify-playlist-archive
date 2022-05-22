@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 
 > Elegant music for your fancy dinner
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,638 likes - 194 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,672 likes - 194 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

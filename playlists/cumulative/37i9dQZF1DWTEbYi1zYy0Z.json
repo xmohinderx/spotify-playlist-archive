@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 249813,
       "name": "A to Z",
       "url": "https://open.spotify.com/track/6sJwnAnUD18u9MysrfzY0g"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 274096,
       "name": "Busta Move",
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 221865,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/4wzsbI8mdiRmP7aFYSB9IZ"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 321750,
       "name": "Coastline Drive",
       "url": "https://open.spotify.com/track/5j05IaaOCvj4AGfZmrp656"
@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 260083,
       "name": "Defy",
       "url": "https://open.spotify.com/track/3Nafj5uljh3v8anIABX3aM"
@@ -1497,7 +1497,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 266840,
       "name": "Fire And Desire",
       "url": "https://open.spotify.com/track/2LU8lEAdWosx7exPk4WKjs"
@@ -1773,10 +1773,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 232751,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/5YTTAwPC8NkT67yx7MLZS7"
+    },
+    {
+      "album": {
+        "name": "Good On You",
+        "url": "https://open.spotify.com/album/0rEUrLXs9cweIiWmAFWGAk"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251432,
+      "name": "Good On You",
+      "url": "https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6"
     },
     {
       "album": {
@@ -1937,7 +1955,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 273478,
       "name": "Ignition",
       "url": "https://open.spotify.com/track/1HvQ21aHUGiuW1TVuLZmhe"
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 254640,
       "name": "Into The Unknown",
       "url": "https://open.spotify.com/track/7DSszcelqBH9ckmSaHLQ2c"
@@ -2323,7 +2341,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 257410,
       "name": "Lavish",
       "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
@@ -2563,7 +2581,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 231773,
       "name": "Meet Me In Manhattan",
       "url": "https://open.spotify.com/track/6Is07gX8pH39ajL7PBm67R"
@@ -2661,7 +2679,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 254734,
       "name": "Monday",
       "url": "https://open.spotify.com/track/0rviXYk3XxKRrQgBmAxNIm"
@@ -2761,7 +2779,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 187818,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP"
@@ -3351,7 +3369,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 248712,
       "name": "Safe and Sound",
       "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
@@ -3463,7 +3481,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 209727,
       "name": "Set Sail",
       "url": "https://open.spotify.com/track/1GAX53Nnul0CQx3GawFpSS"
@@ -3739,7 +3757,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 228102,
       "name": "Soul to Soul - 2022 Version",
       "url": "https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7"
@@ -3761,7 +3779,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 225812,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/4MXaiJwuGAhZXpkQv80yJE"
@@ -4211,7 +4229,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 239293,
       "name": "T's Jam",
       "url": "https://open.spotify.com/track/4Ug2IMwc2VFW41l3fUB0kY"
@@ -4437,7 +4455,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 323500,
       "name": "Ticket to Pittsburgh",
       "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"

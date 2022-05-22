@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 209653,
       "name": "Boys We Chased",
       "url": "https://open.spotify.com/track/3pVSRJ6HUxdk9GFl4FTvmg"
@@ -2267,7 +2267,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 196506,
       "name": "F\u00e4rger",
       "url": "https://open.spotify.com/track/3l6vQCLlMS2Ljjf8FlVOZX"
@@ -2455,7 +2455,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Ge mig ett tecken",
       "url": "https://open.spotify.com/track/47rIgHqtTANAsbomEMKAZn"
@@ -2527,7 +2527,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 276110,
       "name": "Glittret",
       "url": "https://open.spotify.com/track/1flHUFk0tmQxAgCFcgg5NK"
@@ -2545,7 +2545,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 150720,
       "name": "Good Parts",
       "url": "https://open.spotify.com/track/3SaWMd7Gk3R2FGz7aKNfbL"
@@ -3460,6 +3460,24 @@
     },
     {
       "album": {
+        "name": "Isabelle",
+        "url": "https://open.spotify.com/album/170jl8RUaJsCe2snINmw7P"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215818,
+      "name": "Isabelle",
+      "url": "https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv"
+    },
+    {
+      "album": {
         "name": "Island of the Sun",
         "url": "https://open.spotify.com/album/3lhEn9XlYq4Naa0YPBFQd4"
       },
@@ -4331,7 +4349,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 162057,
       "name": "L\u00c5TSAS SOM ATT ALLT \u00c4R BRA",
       "url": "https://open.spotify.com/track/3jUz8mlxuxFe8sZPbg0jrK"
@@ -4922,6 +4940,28 @@
     },
     {
       "album": {
+        "name": "N\u00e4r vinden bl\u00e5ser kallt",
+        "url": "https://open.spotify.com/album/7gyuvekH6RECOct1BH4PKM"
+      },
+      "artists": [
+        {
+          "name": "Albin Johns\u00e9n",
+          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
+        },
+        {
+          "name": "William Segerdahl",
+          "url": "https://open.spotify.com/artist/7h3jPDAAlfXOhid0q360Hh"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157124,
+      "name": "N\u00e4r vinden bl\u00e5ser kallt",
+      "url": "https://open.spotify.com/track/6YWDey7OfpF1UE6FD9aywI"
+    },
+    {
+      "album": {
         "name": "N\u00e4tterna",
         "url": "https://open.spotify.com/album/30F33A6kVzeBE6qKcBLTz7"
       },
@@ -5267,6 +5307,24 @@
       "duration_ms": 182946,
       "name": "Pixie's Parasol",
       "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
+    },
+    {
+      "album": {
+        "name": "PART TWO",
+        "url": "https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195913,
+      "name": "Poppis Visa",
+      "url": "https://open.spotify.com/track/1TV02N2DgCdHMFCkES06m1"
     },
     {
       "album": {
@@ -5797,7 +5855,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 178526,
       "name": "Santiago",
       "url": "https://open.spotify.com/track/2H4wjqbzWgCKEPPdk9tPqQ"
@@ -5833,7 +5891,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 203039,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/29jS36CANsKdfrlYzwbbJL"
@@ -6233,7 +6291,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 242260,
       "name": "Solnedg\u00e5ngar",
       "url": "https://open.spotify.com/track/6Wl89b1QP2VujIZQvlbz9F"
@@ -6815,7 +6873,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 173320,
       "name": "Taxin",
       "url": "https://open.spotify.com/track/6fVsYWoMw8kR0pudjjEUb0"
@@ -7473,7 +7531,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 201480,
       "name": "Vart Jag Varit (Je Viens De Rien) [feat. Maxida M\u00e4rak]",
       "url": "https://open.spotify.com/track/5KuZCxniWptnXpmxR3asrA"
@@ -7935,7 +7993,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 166000,
       "name": "Wide Open",
       "url": "https://open.spotify.com/track/2iz67sMAZL1YVuA39Okq1U"
@@ -8109,6 +8167,24 @@
       "duration_ms": 165405,
       "name": "Your Number",
       "url": "https://open.spotify.com/track/7FxCwTyHGx7zLXx92Nomj9"
+    },
+    {
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/1r8WGwm16WpWJX6nvO3IpO"
+      },
+      "artists": [
+        {
+          "name": "K E M A L",
+          "url": "https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/1Ibc9R9cQTESTZjGorWtRT"
     },
     {
       "album": {

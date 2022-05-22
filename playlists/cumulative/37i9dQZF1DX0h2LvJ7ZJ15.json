@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 187804,
       "name": "6 A.M (Slowed and Reverb)",
       "url": "https://open.spotify.com/track/75LBctBE74I7q9jKyq8JPb"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Call Me (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/3lEZmvQ6P6Rf8hgfYTKzHT"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 191000,
       "name": "Dream Girl - Slowed + Reverb",
       "url": "https://open.spotify.com/track/3YLKkHR4fISvRe1N34l6EJ"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 237361,
       "name": "Happy Endings (feat. iann dior and UPSAHL) - slowed + reverb",
       "url": "https://open.spotify.com/track/0YhbiKLcr7Qd0rnpeamGNX"
@@ -1249,6 +1249,28 @@
       "duration_ms": 160000,
       "name": "I Believed",
       "url": "https://open.spotify.com/track/1BDzkh7g7ZDnmOQgJ82rp5"
+    },
+    {
+      "album": {
+        "name": "My Head In The Sky",
+        "url": "https://open.spotify.com/album/42LRVvno1lbcasw45M1vZJ"
+      },
+      "artists": [
+        {
+          "name": "ZRobb",
+          "url": "https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95108,
+      "name": "I Don't Trust Nobody - Slowed and Reverb",
+      "url": "https://open.spotify.com/track/5kFWqLVb9idG4f52ZVD99r"
     },
     {
       "album": {
@@ -1547,7 +1569,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 208793,
       "name": "Losing It - Slowed and Reverb",
       "url": "https://open.spotify.com/track/3fUr3a6WI1j2zpvBm6YoD1"
@@ -2247,7 +2269,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 213783,
       "name": "This December - slow",
       "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
@@ -2349,6 +2371,24 @@
       "duration_ms": 299572,
       "name": "Vision - Slowed",
       "url": "https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6"
+    },
+    {
+      "album": {
+        "name": "we can try",
+        "url": "https://open.spotify.com/album/2jW1ORaVudLRfMqhBouNFj"
+      },
+      "artists": [
+        {
+          "name": "Zaini",
+          "url": "https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "we can try",
+      "url": "https://open.spotify.com/track/0ruflkkraifzGTJoI13c9D"
     },
     {
       "album": {

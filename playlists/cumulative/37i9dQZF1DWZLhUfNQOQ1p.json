@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 324005,
       "name": "Affection",
       "url": "https://open.spotify.com/track/4WMYrQdLCPNYHa4vEZWHxt"
@@ -225,10 +225,28 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 200158,
       "name": "California - TRU Concept Remix",
       "url": "https://open.spotify.com/track/6jXW2nHRS53cJmlED5PsGC"
+    },
+    {
+      "album": {
+        "name": "Can You Feel Me",
+        "url": "https://open.spotify.com/album/1uHej97mZJH7VVqluMqbRn"
+      },
+      "artists": [
+        {
+          "name": "Love Beans",
+          "url": "https://open.spotify.com/artist/252cgVmlHfU9jkUArZ8gDm"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Can You Feel Me",
+      "url": "https://open.spotify.com/track/35H95rUd08Fwm0DeDifwZM"
     },
     {
       "album": {
@@ -319,7 +337,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 205475,
       "name": "Curious Eyes",
       "url": "https://open.spotify.com/track/7F0wdlppROi8NADjQvsql6"
@@ -355,7 +373,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 160800,
       "name": "Donum",
       "url": "https://open.spotify.com/track/76NiKsl9kFNjjqITQFGo3G"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 319677,
       "name": "Feel The Heat",
       "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
@@ -561,7 +579,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 472468,
       "name": "If I Were Your Woman - Lovemental Mix",
       "url": "https://open.spotify.com/track/4egfQoyLOPBdLBYib5PvUS"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 171910,
       "name": "Mama Say (farfetch'd Remix)",
       "url": "https://open.spotify.com/track/09jTPmbrPueZItnMez0zTx"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 157111,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/6ruy12YyfW9VOz1lyEygYg"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 212910,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 227681,
       "name": "On The Rhode",
       "url": "https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn"
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 186536,
       "name": "Say A Little Prayer",
       "url": "https://open.spotify.com/track/2VSCcSLiISjz8tZHi4ieNf"
@@ -1198,6 +1216,24 @@
     },
     {
       "album": {
+        "name": "Stranded",
+        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
+      },
+      "artists": [
+        {
+          "name": "Art of November",
+          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229581,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
+    },
+    {
+      "album": {
         "name": "Summer Crush",
         "url": "https://open.spotify.com/album/0yIpx6waKvmtfbotLbbeO7"
       },
@@ -1263,7 +1299,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 240251,
       "name": "Sunspots",
       "url": "https://open.spotify.com/track/3sZIa6qr507qnqGkowmzk9"
@@ -1321,7 +1357,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 211639,
       "name": "The Blaze",
       "url": "https://open.spotify.com/track/090rxvqKAGpTryUgXOZgsj"
@@ -1339,7 +1375,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 194242,
       "name": "The Ghost in Your Smile",
       "url": "https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW"
@@ -1487,7 +1523,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 235549,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"
@@ -1505,7 +1541,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 189880,
       "name": "Violet Breeze",
       "url": "https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY"
@@ -1548,6 +1584,32 @@
     },
     {
       "album": {
+        "name": "Where Did We Go Wrong (feat. Cali & PaperShapes)",
+        "url": "https://open.spotify.com/album/1BOBu7fm5bflwjiRBTIHki"
+      },
+      "artists": [
+        {
+          "name": "Wallaby",
+          "url": "https://open.spotify.com/artist/5K2zBqDpxHKvH2N4sGjJMV"
+        },
+        {
+          "name": "Cali",
+          "url": "https://open.spotify.com/artist/6EcvuDf0agBppFlz3KNYc5"
+        },
+        {
+          "name": "PaperShapes",
+          "url": "https://open.spotify.com/artist/15GjgoquJ5dyuUX2CixFu3"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "Where Did We Go Wrong (feat. Cali & PaperShapes)",
+      "url": "https://open.spotify.com/track/4MbIfF518aFjw3vrOTJA88"
+    },
+    {
+      "album": {
         "name": "Where's My Love (Tropical Mix)",
         "url": "https://open.spotify.com/album/0aITxQL5MQDN0ihHsc7mf0"
       },
@@ -1559,7 +1621,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 223769,
       "name": "Where's My Love - Tropical Mix",
       "url": "https://open.spotify.com/track/30XrUbnBpaX813Kvti3Hmn"

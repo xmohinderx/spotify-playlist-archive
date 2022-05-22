@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 122076,
       "name": "Adore",
       "url": "https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Agoura Eyes",
       "url": "https://open.spotify.com/track/0d036L67zOm3Il6h3jLCb7"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 222992,
       "name": "All Equal",
       "url": "https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 187245,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/3kAlWNK9bo5pEMwKvpgzNE"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 168521,
       "name": "Bangkok",
       "url": "https://open.spotify.com/track/1WzL0kZk3j5lCse7JgF3qV"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 154561,
       "name": "Before",
       "url": "https://open.spotify.com/track/4jnryVYgyBPM6yxZQLFzJT"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 298680,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/5O1L8o8fmUdVaf88z5dfWB"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 161590,
       "name": "Carte blanche",
       "url": "https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5"
@@ -539,6 +539,24 @@
       "duration_ms": 222020,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/3n6uWdbX8vFTow82wyiQBm"
+    },
+    {
+      "album": {
+        "name": "Close To Me",
+        "url": "https://open.spotify.com/album/25LsKk7Y1HICxLdE5mWxx7"
+      },
+      "artists": [
+        {
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155277,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/0Wi6hvPJTZBKrXjmvVFtOQ"
     },
     {
       "album": {
@@ -593,7 +611,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 216032,
       "name": "Coffee Break",
       "url": "https://open.spotify.com/track/0ExYatKbwbodCrVuA0uEH7"
@@ -802,6 +820,24 @@
     },
     {
       "album": {
+        "name": "Don't Worry",
+        "url": "https://open.spotify.com/album/3GJxRhegDoOkFd727RlTS1"
+      },
+      "artists": [
+        {
+          "name": "Mellowdy",
+          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144354,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/1a6r66Fc1mvkgQ4A2XP5Mk"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Worry",
         "url": "https://open.spotify.com/album/2UZuAyYd1pTF1puvlQ2W4c"
       },
@@ -813,7 +849,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 276961,
       "name": "Don\u2019t Worry",
       "url": "https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ"
@@ -1145,7 +1181,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 189289,
       "name": "Hands Together",
       "url": "https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn"
@@ -1529,7 +1565,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 205255,
       "name": "Liftoff",
       "url": "https://open.spotify.com/track/3uTGlHyPwijzXFQoMaROt1"
@@ -1583,7 +1619,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 115188,
       "name": "Looking for You",
       "url": "https://open.spotify.com/track/4Hh6lJfX2pOVPqdfJ8GmZv"
@@ -1619,7 +1655,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 187946,
       "name": "Lost Sea",
       "url": "https://open.spotify.com/track/2COhLvLh0Szltn8nXySR5D"
@@ -1807,7 +1843,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 221142,
       "name": "Motion",
       "url": "https://open.spotify.com/track/5eJ9Y5N3Lgedolcw6g1zJd"
@@ -1969,7 +2005,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 179478,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR"
@@ -1987,7 +2023,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 251593,
       "name": "Ocean of Love",
       "url": "https://open.spotify.com/track/4iE8DGGs9r0C3tmtonhi67"
@@ -2023,7 +2059,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "Oh La La",
       "url": "https://open.spotify.com/track/0uFCDmv6WJdjcEul1nAAQ9"
@@ -2171,7 +2207,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 171528,
       "name": "RELAX (Late Night)",
       "url": "https://open.spotify.com/track/37H1s2CbDWICwprjFFofO3"
@@ -2189,7 +2225,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 213600,
       "name": "Remember",
       "url": "https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH"
@@ -2207,7 +2243,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 171137,
       "name": "Retreat",
       "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
@@ -2265,7 +2301,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 152727,
       "name": "Romance",
       "url": "https://open.spotify.com/track/22wyV35EezfLo1x4ppf1dq"
@@ -2449,7 +2485,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 427005,
       "name": "Season",
       "url": "https://open.spotify.com/track/6plrjFbPuHZIUXZdh1bavs"
@@ -2467,7 +2503,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 193577,
       "name": "Seeds",
       "url": "https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws"
@@ -2503,7 +2539,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 176052,
       "name": "sinks deep",
       "url": "https://open.spotify.com/track/1JOcfQEI0fJXoDhKKO8XMl"
@@ -2521,7 +2557,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 109500,
       "name": "Sinus",
       "url": "https://open.spotify.com/track/0H2KxoSVnnEJrbOruF5lgk"
@@ -2593,7 +2629,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 154419,
       "name": "Standing with You",
       "url": "https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE"
@@ -2755,7 +2791,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 160166,
       "name": "Sunny Cruisin",
       "url": "https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo"
@@ -3029,7 +3065,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 162406,
       "name": "Unfading",
       "url": "https://open.spotify.com/track/0ZnpSil0JjchG4yAuPGqkE"
@@ -3047,7 +3083,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 198260,
       "name": "Unhappy Alien",
       "url": "https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ"
@@ -3069,6 +3105,24 @@
       "duration_ms": 185495,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/4xRJYmi749eRPbD1TREOB9"
+    },
+    {
+      "album": {
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv"
+      },
+      "artists": [
+        {
+          "name": "Hanawal",
+          "url": "https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195157,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n"
     },
     {
       "album": {
@@ -3285,7 +3339,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 201000,
       "name": "You and You",
       "url": "https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf"

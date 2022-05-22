@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 247093,
       "name": "Aching for More",
       "url": "https://open.spotify.com/track/2xw0QgtPR8eqkizBgLNOX6"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 318653,
       "name": "Blue Sky Blues",
       "url": "https://open.spotify.com/track/4uNBtQq2SUcdnp2BK83TiV"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 178706,
       "name": "Chin Up, Cheer Up",
       "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 338923,
       "name": "In My Time of Need",
       "url": "https://open.spotify.com/track/4JIGrn55PH4BNnoofFKnYc"
@@ -959,6 +959,24 @@
       "duration_ms": 221720,
       "name": "Moving Target",
       "url": "https://open.spotify.com/track/3HwLobYrehYJZBuEThdCYR"
+    },
+    {
+      "album": {
+        "name": "Romeo & Juliet",
+        "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261493,
+      "name": "My Heaven",
+      "url": "https://open.spotify.com/track/4PgHvvPObeSsrEOPYHNzLf"
     },
     {
       "album": {
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 261065,
       "name": "Outbound Train",
       "url": "https://open.spotify.com/track/6eGBTRiVkcrSHDr5S4Xf4T"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 222973,
       "name": "Romeo & Juliet",
       "url": "https://open.spotify.com/track/73jnBpdPr7JcvXrRgRuN19"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 141733,
       "name": "Schizophrenic Babylon",
       "url": "https://open.spotify.com/track/4kbX5HsIZ3bks6pwHE1pO1"
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 246440,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 187120,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/2t9Jfb0QjeUdJcNpzwCVdT"
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 137106,
       "name": "Was I Wrong",
       "url": "https://open.spotify.com/track/1KhVi78g6RUIVYDPzEfWUw"
@@ -1711,7 +1729,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 321120,
       "name": "Wildest Dreams",
       "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"

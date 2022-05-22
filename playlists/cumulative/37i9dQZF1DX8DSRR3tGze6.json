@@ -1195,7 +1195,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 195493,
       "name": "La Plata (feat. Lalo Ebratt)",
       "url": "https://open.spotify.com/track/7Eso5mURNFprb5PmhOXDlf"
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 210367,
       "name": "MIA (feat. Drake)",
       "url": "https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO"
@@ -2295,7 +2295,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 219226,
       "name": "Ya Me Enter\u00e9 (feat. Nicky Jam) - Urban Version",
       "url": "https://open.spotify.com/track/2SSYqDX8KTgy01NlqtUo0F"
@@ -2339,6 +2339,24 @@
       "duration_ms": 206710,
       "name": "Yonaguni",
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
+    },
+    {
+      "album": {
+        "name": "No More Tears",
+        "url": "https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J"
+      },
+      "artists": [
+        {
+          "name": "Chanell",
+          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "\u00daltimo Baile",
+      "url": "https://open.spotify.com/track/3jAXK3OD8P3GUBjh5KNKc0"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8DSRR3tGze6"

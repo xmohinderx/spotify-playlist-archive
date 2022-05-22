@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 301866,
       "name": "All These Things That I've Done",
       "url": "https://open.spotify.com/track/5vollujufHY0jMZxx77VWr"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 226960,
       "name": "All Things Must Pass - 2020 Mix",
       "url": "https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 325200,
       "name": "Are 'Friends' Electric?",
       "url": "https://open.spotify.com/track/4YMjssjl6JWPF4ZIcvcwkg"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 193320,
       "name": "Bigmouth Strikes Again - 2011 Remaster",
       "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 235613,
       "name": "Break The Man",
       "url": "https://open.spotify.com/track/5NFoLXGzAzm3aFZEEaZ98c"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 294506,
       "name": "C'mon People (We're Making It Now) [feat. Liam Gallagher]",
       "url": "https://open.spotify.com/track/3ZGOhkbH5bQqorcBvB26pP"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 262826,
       "name": "Do You Remember The First Time?",
       "url": "https://open.spotify.com/track/0txLC5NA64M8siGn3mnET0"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 236853,
       "name": "Elevator Boots - Single Edit",
       "url": "https://open.spotify.com/track/3jZ6v2I4mK5ugVYwht4Mfx"
@@ -947,7 +947,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 287573,
       "name": "In Better Times",
       "url": "https://open.spotify.com/track/6Qjaa8xn44u0WgRHhF8maL"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 276666,
       "name": "Live Forever - Remastered",
       "url": "https://open.spotify.com/track/0nOF9ewQlwzVU0qKPR2DTq"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 209346,
       "name": "Lover Undiscovered",
       "url": "https://open.spotify.com/track/3YVQiEpzGi0E4cP0YBkVX3"
@@ -1261,7 +1261,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 177466,
       "name": "Monkey Gone to Heaven",
       "url": "https://open.spotify.com/track/1lFC3sMgOcDrVzNh8zXRnl"
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 282093,
       "name": "No Small Thing",
       "url": "https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6"
@@ -1513,10 +1513,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 185093,
       "name": "Parklife - 2012 Remaster",
       "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
+    },
+    {
+      "album": {
+        "name": "Supergrass",
+        "url": "https://open.spotify.com/album/7fAfHvKNHlQav4CtSN7Iqz"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Pumping On Your Stereo",
+      "url": "https://open.spotify.com/track/4pCfNA9bjI3pccG5s9fm7J"
     },
     {
       "album": {
@@ -1585,7 +1603,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 197808,
       "name": "Rushing Water",
       "url": "https://open.spotify.com/track/5WbDz2wejq1YgdwFaJAipD"
@@ -1751,7 +1769,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 318506,
       "name": "Step On - 2007 Remaster",
       "url": "https://open.spotify.com/track/4gAU0cHQJFxj1n2ZDiEIzG"
@@ -1877,7 +1895,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 309306,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 219226,
       "name": "The Secret He Had Missed (feat. Julia Cumming)",
       "url": "https://open.spotify.com/track/2fP6OxPKBWkCj2nmxli9Ca"
@@ -1975,7 +1993,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 245946,
       "name": "Trash",
       "url": "https://open.spotify.com/track/5sVPOuJJAmidyxU8LjJBVu"
@@ -1993,7 +2011,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 366277,
       "name": "Tryin' To Get To Heaven",
       "url": "https://open.spotify.com/track/6zklUM1HK1F0YebIT4K1zo"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 237520,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/5oidljiMjeJTWUGZ4TfFea"
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 232746,
       "name": "You Should Be Dancing",
       "url": "https://open.spotify.com/track/1Iu66OVgb8wioY6tpesoQS"
@@ -2145,7 +2163,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 206449,
       "name": "You've Got A Habit Of Leaving - Radio Edit",
       "url": "https://open.spotify.com/track/3dEb9tm18t9qwNUoiR2fXY"

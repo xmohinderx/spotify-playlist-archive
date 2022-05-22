@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,319 likes - 133 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,456 likes - 133 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 41 | [care4me](https://open.spotify.com/track/0w4azd2nPbcRe3JN11MDPI) | [black balloons](https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe) | [care4me](https://open.spotify.com/album/0Xgto2oJ4IS2GmHh4fQzc9) | 2:07 |
 | 42 | [miss u](https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh), [Lolo the Great](https://open.spotify.com/artist/0eySNJmFWF37NqzpHNYnKT) | [miss u](https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC) | 4:06 |
 | 43 | [E\-girl](https://open.spotify.com/track/2iSFVgxi3QrZCRMeklBnMH) | [Ratchet Racer](https://open.spotify.com/artist/41YGhblkQx83QlcTseXks5) | [E\-girl](https://open.spotify.com/album/1bNVXG3Hj1q17yn8mKX7y8) | 2:42 |
-| 44 | [Used To Know Me \- Yunè Pinku Remix](https://open.spotify.com/track/73CtiacNpS3I2CzNwrY5qP) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Yunè Pinku](https://open.spotify.com/artist/5QgZGGbYMosEg8lvMhwnQK) | [Used To Know Me \(Yunè Pinku Remix\)](https://open.spotify.com/album/4efNZXLnQz1ZutpWmYV0Eh) | 3:55 |
+| 44 | [Used To Know Me \- yunè pinku Remix](https://open.spotify.com/track/73CtiacNpS3I2CzNwrY5qP) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Used To Know Me \(yunè pinku Remix\)](https://open.spotify.com/album/4efNZXLnQz1ZutpWmYV0Eh) | 3:55 |
 | 45 | [4ÆM](https://open.spotify.com/track/5deLCvXuDrTOTV7XiJuO8Z) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Rave Edition\)](https://open.spotify.com/album/5CQbuEmt9rY7yS2xPiXxw7) | 4:30 |
 | 46 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
 | 47 | [Fleeting Frozen Heart](https://open.spotify.com/track/0GQkIfqneFqLAQRlmJtuBv) | [Xxtarlit⚸](https://open.spotify.com/artist/0hY2DRaqiYfYIzB0M8tItc) | [A Thousand Things I Could Tell You](https://open.spotify.com/album/3IreEWEWvL99tFkoCUT2zy) | 3:07 |

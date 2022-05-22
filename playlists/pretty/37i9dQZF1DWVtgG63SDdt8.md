@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Kirk Franklin & Maverick City Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,425 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,533 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 76 | [I Now Have Purpose](https://open.spotify.com/track/0wOfICh5Zv8w1tB78ro0rp) | [Sarah Hawkyard](https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr) | [The Greatest Discovery](https://open.spotify.com/album/4sL4lTlL4SJqho15bwT2LK) | 4:17 |
 | 77 | [How Great Thou Art](https://open.spotify.com/track/6upZJIqefLhGjGnyvpfnss) | [Likewise Worship](https://open.spotify.com/artist/1Ewr5BDSftyFLre70T2KY2) | [How Great Thou Art](https://open.spotify.com/album/4DhnNpNtGZklelVo30QGWF) | 4:18 |
 | 78 | [Finished With Fighting \- Live Tapes](https://open.spotify.com/track/6m2u5uquboim0YQVBc6Gq8) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo) | [Finished With Fighting \(Live Tapes\)](https://open.spotify.com/album/0MCQ8AtakKqeaDVQfXzEXR) | 5:19 |
-| 79 | [River Of Life \- Live In Atlanta, GA/2021](https://open.spotify.com/track/2XNXSLctYn5ZETmCVfhRjJ) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Live In Atlanta, GA/2021\)](https://open.spotify.com/album/7y2u5SbSZuOIlQTOyvRwUR) | 2:52 |
+| 79 | [River Of Life \- Live](https://open.spotify.com/track/2XNXSLctYn5ZETmCVfhRjJ) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Live In Atlanta, GA/2021\)](https://open.spotify.com/album/7y2u5SbSZuOIlQTOyvRwUR) | 2:52 |
 | 80 | [Believe For It](https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Believe](https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl) | 4:01 |
 | 81 | [I Will Sing](https://open.spotify.com/track/1z69SbrJK7ca5VosvbkSMx) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/3nrirABUUTMkpgagVlttF9) | 4:22 |
 | 82 | [Oh Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/1zmKMlVCxrHBL38BcRBp27) | [Wendell Kimbrough](https://open.spotify.com/artist/6zO6HdgPt1pOQsP6kC4i9B) | [Oh Give Thanks \(Psalm 107\) \[Live\]](https://open.spotify.com/album/36LAY52wPfMK172ikMQrha) | 6:09 |

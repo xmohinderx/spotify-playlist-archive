@@ -4,7 +4,7 @@
 
 > Start your day with calm and cool jazz.
 
-105 songs - 6 hr 45 min - not published yet
+105 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/39dwJkALAgqseR1XSFerIE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

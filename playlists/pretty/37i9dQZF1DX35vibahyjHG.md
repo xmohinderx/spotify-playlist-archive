@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M?si=NUBee52kRqWz9dHI1vbIbw"> Zuchu </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,412 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,429 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 50 | [Forever Yours](https://open.spotify.com/track/1JhdsJnSPVmzjilbLympm7) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [Forever Yours](https://open.spotify.com/album/5LlImAZTpN0uC56a2pI5jt) | 4:00 |
 | 51 | [Mayana](https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Mayana](https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek) | 2:38 |
 | 52 | [Mine](https://open.spotify.com/track/1nzmbzGyRa3X8n3s0AAubj) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa), [TAIO](https://open.spotify.com/artist/6WuZ1saWkFrczv6G1inkOp) | [Lisa Oduor\-Noah](https://open.spotify.com/album/01OpRABjuFQgRtj4DdT55m) | 2:55 |
-| 53 | [Drown](https://open.spotify.com/track/6dUAWdwaM0s1FAajh7i2oY) | [Ashake](https://open.spotify.com/artist/4Jw455Dlr6HONiyZTBMBoC) | [Serenity](https://open.spotify.com/album/7wKJUBSNLTo44z59Hv5EHL) | 2:59 |
+| 53 | [Drown](https://open.spotify.com/track/6dUAWdwaM0s1FAajh7i2oY) | [Fewa](https://open.spotify.com/artist/75C3ZzGRAbVr4Fk3osN51M) | [Serenity](https://open.spotify.com/album/7wKJUBSNLTo44z59Hv5EHL) | 2:59 |
 | 54 | [Tala Tannam \- Debmaster Remix](https://open.spotify.com/track/14daujw9oZR0jlQQDMdY4J) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94), [MC Yallah](https://open.spotify.com/artist/5JEqaMjU6dwGqFJu2wn5Gg), [Debmaster](https://open.spotify.com/artist/44DI5jAUWYRStA0amIvFRl) | [Afrique Refait](https://open.spotify.com/album/60uhkJ0Jj8yrnk6YRpCJKl) | 2:55 |
 | 55 | [Ethiopia](https://open.spotify.com/track/6lx4aUEcnR7sojpxEQu4mV) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Panther in Mode](https://open.spotify.com/album/23J7otrnhFa80hs2xCpKw1) | 3:05 |
 | 56 | [Nobody Else](https://open.spotify.com/track/2dt5k4ChcpKmCi2KPyuxpK) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Nobody Else](https://open.spotify.com/album/67K6eADrJhLqy8r6sH2sUN) | 2:48 |

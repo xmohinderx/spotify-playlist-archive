@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 246028,
       "name": "10oclock",
       "url": "https://open.spotify.com/track/0K7E3XnPSA1SYypzBC6q41"
@@ -1415,7 +1415,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 174545,
       "name": "and then the earth opened up",
       "url": "https://open.spotify.com/track/0BHUY2vfypaJPKllvbxX70"
@@ -1931,7 +1931,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 156937,
       "name": "Aware",
       "url": "https://open.spotify.com/track/2bk1uzJ0s3d64AdtFwfgi4"
@@ -4815,7 +4815,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 227692,
       "name": "Cold Hearted",
       "url": "https://open.spotify.com/track/7cB40VKCyeR4IZ90r0sVhN"
@@ -19857,7 +19857,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 188055,
       "name": "RWH",
       "url": "https://open.spotify.com/track/5CkSpEdTCQfKaYJyAhZcKW"
@@ -20677,7 +20677,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 179310,
       "name": "Simple",
       "url": "https://open.spotify.com/track/69tw7L2hMdaSQkzlxKJBu7"
@@ -26056,6 +26056,24 @@
     },
     {
       "album": {
+        "name": "Who Am I Really Fooling Anyway",
+        "url": "https://open.spotify.com/album/0A0kiY3JBZNkvxDzEXPIcD"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189088,
+      "name": "Who Am I Really Fooling Anyway",
+      "url": "https://open.spotify.com/track/6cJZ8mEfST3enMQSUVSrSP"
+    },
+    {
+      "album": {
         "name": "Who Will",
         "url": "https://open.spotify.com/album/0yAjgBGE5OIASGLGVqjNDy"
       },
@@ -26431,7 +26449,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 163360,
       "name": "Won't Break My Heart",
       "url": "https://open.spotify.com/track/2Q4x3dYRh3ucjEzORPq61C"

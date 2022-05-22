@@ -212,6 +212,24 @@
     },
     {
       "album": {
+        "name": "Morgan Delt",
+        "url": "https://open.spotify.com/album/7qFiNbQXoV8Q2WhpGQ8Zac"
+      },
+      "artists": [
+        {
+          "name": "Morgan Delt",
+          "url": "https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233059,
+      "name": "Barbarian Kings",
+      "url": "https://open.spotify.com/track/320XdDHRfX7RwAfgJLI9Cy"
+    },
+    {
+      "album": {
         "name": "Everything Was Beautiful",
         "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
       },
@@ -349,7 +367,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 400853,
       "name": "Bulls",
       "url": "https://open.spotify.com/track/53wEWsjRb8gjZ7xr8BLzZu"
@@ -367,7 +385,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 265851,
       "name": "Caballerango",
       "url": "https://open.spotify.com/track/5k8NaRExvqn0ob1MrvU8Kf"
@@ -439,7 +457,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 131426,
       "name": "Chasse \u00e0 l'homme",
       "url": "https://open.spotify.com/track/30njO8xB8t4gUbocXczybe"
@@ -457,7 +475,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 225249,
       "name": "Christopher Robbins",
       "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
@@ -479,6 +497,24 @@
       "duration_ms": 209600,
       "name": "Club Coco",
       "url": "https://open.spotify.com/track/0AVdIO4E1zGzB9wY21tBcj"
+    },
+    {
+      "album": {
+        "name": "Moonlust",
+        "url": "https://open.spotify.com/album/3IUQi8pLKTcXiEViyuyKKd"
+      },
+      "artists": [
+        {
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205010,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/3gUHtLyLPSQFnIJaACGnTC"
     },
     {
       "album": {
@@ -685,10 +721,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 326694,
       "name": "End of the Night",
       "url": "https://open.spotify.com/track/1KHQli7MSz6ZdmR2M7uNxk"
+    },
+    {
+      "album": {
+        "name": "The Common Task",
+        "url": "https://open.spotify.com/album/4K3Dv0nnMK10uxpphFNCco"
+      },
+      "artists": [
+        {
+          "name": "Horse Lords",
+          "url": "https://open.spotify.com/artist/0Oslq5zLftqRVwKseBJ7MV"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441601,
+      "name": "Fanfare for Effective Freedom",
+      "url": "https://open.spotify.com/track/3oVZYXAb0rzN6MELLiFXPa"
     },
     {
       "album": {
@@ -703,7 +757,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 306453,
       "name": "Fant\u00f4me",
       "url": "https://open.spotify.com/track/42ud39t8ONOZvb8DJLKvB3"
@@ -757,7 +811,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 213786,
       "name": "Flying Bird",
       "url": "https://open.spotify.com/track/4byRGdU9MnTu25FBBGiSGX"
@@ -829,7 +883,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 416759,
       "name": "Goatfuzz",
       "url": "https://open.spotify.com/track/2LITu4fhbVMfjTg3mn8Vl5"
@@ -883,7 +937,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 365797,
       "name": "Greven",
       "url": "https://open.spotify.com/track/54URuxbHDl2XnK5lSWJNNC"
@@ -1027,7 +1081,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 595653,
       "name": "I teleported to Acapulco",
       "url": "https://open.spotify.com/track/0TZcrDs4cFHR7plX9F0eVu"
@@ -1099,7 +1153,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 236253,
       "name": "In The Eve",
       "url": "https://open.spotify.com/track/4rVD839xJRAk4jRqB2UzND"
@@ -1117,7 +1171,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 205160,
       "name": "Indian Zone Drum Killer Inc.",
       "url": "https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP"
@@ -1171,7 +1225,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 286000,
       "name": "\u0130syan Manifestosu",
       "url": "https://open.spotify.com/track/0jE2HYDc22ujaaXeWfgRx3"
@@ -1193,7 +1247,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 353360,
       "name": "Jag Ville Va Kvar",
       "url": "https://open.spotify.com/track/5KsIruY61LonaxTD7gvFkN"
@@ -1247,7 +1301,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 384895,
       "name": "Jukebox Babe",
       "url": "https://open.spotify.com/track/3KZcO29G6BjqIJbdsRg0Mo"
@@ -1283,7 +1337,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 504193,
       "name": "kawasemi Ah",
       "url": "https://open.spotify.com/track/1uxhSPG2TZcPWzz2i6HAva"
@@ -1319,7 +1373,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 310144,
       "name": "Lady Rachel",
       "url": "https://open.spotify.com/track/6Fg29nXfSaMbz3o83ky0vk"
@@ -1355,7 +1409,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 467586,
       "name": "Let It Happen",
       "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
@@ -1431,7 +1485,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 501840,
       "name": "Man It Feels Like Space Again",
       "url": "https://open.spotify.com/track/4LqQinWUzMl3QmRlO3Wgbh"
@@ -1525,7 +1579,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 486860,
       "name": "Mother Seletta",
       "url": "https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt"
@@ -1685,7 +1739,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 278826,
       "name": "Panic In Babylon",
       "url": "https://open.spotify.com/track/6nh4bNcaY1DHZ2k6lQEcLi"
@@ -1764,6 +1818,24 @@
     },
     {
       "album": {
+        "name": "Into My Own",
+        "url": "https://open.spotify.com/album/2FZTKvIax4NkqVHEOdV7Sw"
+      },
+      "artists": [
+        {
+          "name": "Red Belmont",
+          "url": "https://open.spotify.com/artist/0V5q8bb8VlZqaHh6TpEDx6"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257764,
+      "name": "Pollution Rise",
+      "url": "https://open.spotify.com/track/4vGQm0QW07GtI44ks50qp0"
+    },
+    {
+      "album": {
         "name": "Posthumous Forgiveness",
         "url": "https://open.spotify.com/album/0AA8MiQS9djcrznNT83ViG"
       },
@@ -1811,7 +1883,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 276871,
       "name": "Put Your Thing On Me",
       "url": "https://open.spotify.com/track/4VFMCnFF9Hc5Ki6mO9km5J"
@@ -1919,7 +1991,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 196053,
       "name": "Roky Said",
       "url": "https://open.spotify.com/track/1n3cDnsKveliNsejFGLTs9"
@@ -2045,7 +2117,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 195346,
       "name": "Shimmer and Disappear",
       "url": "https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW"
@@ -2153,7 +2225,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 239804,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/72LGBrJEnmMDFheT4xmjyS"
@@ -2207,7 +2279,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 285643,
       "name": "The Blue Marble",
       "url": "https://open.spotify.com/track/5Yo6FhNtzrjOLGo9Y00Nup"
@@ -2331,7 +2403,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 159513,
       "name": "Toda Pessoa",
       "url": "https://open.spotify.com/track/7yfnGnzEDtVKNNNnLC2dLK"
@@ -2385,7 +2457,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 434989,
       "name": "Trees",
       "url": "https://open.spotify.com/track/1NXypJl06i4aiD6Lpi06Sb"
@@ -2487,7 +2559,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 148306,
       "name": "Veni Vidi Vici",
       "url": "https://open.spotify.com/track/5Z5YEyR5i8V8Ui2e5jGAAm"
@@ -2523,7 +2595,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 190650,
       "name": "Victor's Belt",
       "url": "https://open.spotify.com/track/103SLYASMHdoZq1Ls6r2hR"
@@ -2559,7 +2631,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 440014,
       "name": "Waves",
       "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
@@ -2577,7 +2649,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 299462,
       "name": "What's Holding You?",
       "url": "https://open.spotify.com/track/1zGVHAHmNeYkdt51T9pgtD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Anees.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,282 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,304 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 15 | [Habibi](https://open.spotify.com/track/7xZL48Bsvc8hgvfSgpwhei) | [J\. Esho](https://open.spotify.com/artist/5vRjZp2f2W7KbOKdLA3NoL), [Pierre Youssef](https://open.spotify.com/artist/0j31jsGOpUBaZcWNxWDYV2), [Jvanz](https://open.spotify.com/artist/1DSTAoNrETWRRoqAiBBSgF) | [Habibi](https://open.spotify.com/album/6VA3gQL0jwHnHF1XjNKRnk) | 2:40 |
 | 16 | [A Thousand Nights](https://open.spotify.com/track/2KsUQYIfWwCCdltFt8LOzN) | [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [A Thousand Nights](https://open.spotify.com/album/2vRAzdHULVvt3NFZKekXqD) | 2:40 |
 | 17 | [Xbox](https://open.spotify.com/track/0D96Qm09CDTxfu85rkpZwO) | [Ramriddlz](https://open.spotify.com/artist/3fHjwMnkM9ov8CozqkYxWY) | [Xbox](https://open.spotify.com/album/0VTpElYxz599FWApgxZk86) | 1:51 |
-| 18 | [Say Hi To My Demons](https://open.spotify.com/track/1QzEynjWm4RPAmFUZsYZVN) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [Say Hi To My Demons](https://open.spotify.com/album/6kvEYQBniePtBTOTXYukBC) | 3:18 |
+| 18 | [Say Hi To My Demons \(feat\. Dounia\)](https://open.spotify.com/track/1QzEynjWm4RPAmFUZsYZVN) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [Say Hi To My Demons](https://open.spotify.com/album/6kvEYQBniePtBTOTXYukBC) | 3:18 |
 | 19 | [Neighborhood](https://open.spotify.com/track/1MqxAzd8MOFxrMlu5Ixw4l) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Neighborhood](https://open.spotify.com/album/6OYqRcMMr0B5XVUhzcgJZf) | 2:48 |
 | 20 | [Hope](https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK), [MMT](https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4) | [Hope](https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK) | 3:52 |
 | 21 | [hellcats & audis](https://open.spotify.com/track/3KuHRM5HCxlROknbeaNCVw) | [sobhhï](https://open.spotify.com/artist/0nRWv1xU9ooWFExNxKTKef), [NIVO](https://open.spotify.com/artist/6x7vGmycbgmj5h2kexW5fY), [NHYN](https://open.spotify.com/artist/70zsYc3eGQ87Culaq7eYm5) | [hellcats & audis](https://open.spotify.com/album/5xmfn1YnCLipGCWv5CQaIa) | 2:10 |

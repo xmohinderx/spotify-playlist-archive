@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 
 > Go\-Go Music from the heart of Washington, DC\. Cover, New Impressionz by Jay Kyri
 
-[Spotify](https://open.spotify.com/user/spotify) - 998 likes - 68 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002 likes - 68 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

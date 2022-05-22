@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DKm9RA9zpe.md) - [plain]
 
 > This is the official playlist of JTBC Superband, an audition program for musical geniuses for global superbands\. \(글로벌 슈퍼밴드를 위한 음악 천재들의 오디션 프로그램 JTBC 슈퍼밴드의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,689 likes - 91 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,711 likes - 91 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,17 +87,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DKm9RA9zpe.md) - [plain]
 | 77 | [Time After Time](https://open.spotify.com/track/6Ps8qE3lYC7ngYp0Fc8NYb) | [AfterMoon 애프터문](https://open.spotify.com/artist/5Xz2wM6arxCGcFkMdp6iJR) | [JTBC SuperBand Episode 12](https://open.spotify.com/album/0NQCKIzjnMAT5zuNktHM9l) | 6:07 |
 | 78 | [Cry Bird](https://open.spotify.com/track/2WCicQsawADOSPDSTy42TH) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [JTBC SuperBand Episode 12](https://open.spotify.com/album/0NQCKIzjnMAT5zuNktHM9l) | 3:28 |
 | 79 | [To be Decided 가져가](https://open.spotify.com/track/7GPSovV56lY5TfeDgLw0vH) | [Moné 모네](https://open.spotify.com/artist/5zav84wOhhcJpvYEOi5tWS) | [JTBC SuperBand Episode 12](https://open.spotify.com/album/0NQCKIzjnMAT5zuNktHM9l) | 5:29 |
-| 80 | [Dream On](https://open.spotify.com/track/0iTf2wKwp5EvoEbl0sTAUL) | [Purple Rain 퍼플레인](https://open.spotify.com/artist/1vaxmayIdOvGB2lqz49cLR) | [JTBC SuperBand Episode 12](https://open.spotify.com/album/0NQCKIzjnMAT5zuNktHM9l) | 6:31 |
+| 80 | [Dream On](https://open.spotify.com/track/0iTf2wKwp5EvoEbl0sTAUL) | [Purple Rain](https://open.spotify.com/artist/4Myaw7YiDO14r4JhxeXIiL) | [JTBC SuperBand Episode 12](https://open.spotify.com/album/0NQCKIzjnMAT5zuNktHM9l) | 6:31 |
 | 81 | [Best Of You](https://open.spotify.com/track/6FH3Ke3VufsFkez4sCNufW) | [People on the Bridge 피플 온 더 브릿지](https://open.spotify.com/artist/09jTj1Gmw0VXtUY0YSlxuq) | [JTBC SuperBand Episode 12](https://open.spotify.com/album/0NQCKIzjnMAT5zuNktHM9l) | 4:55 |
 | 82 | [Find you again](https://open.spotify.com/track/5a1GNhMjWAWu2aI80ENJ3P) | [People on the Bridge 피플 온 더 브릿지](https://open.spotify.com/artist/09jTj1Gmw0VXtUY0YSlxuq) | [JTBC SuperBand Episode 13](https://open.spotify.com/album/6OOJHGZSEAkVBZ6PYefqoQ) | 6:15 |
 | 83 | [Wooing 우잉](https://open.spotify.com/track/7cUhGVGflNGAhurjmnCgS7) | [Moné 모네](https://open.spotify.com/artist/5zav84wOhhcJpvYEOi5tWS) | [JTBC SuperBand Episode 13](https://open.spotify.com/album/6OOJHGZSEAkVBZ6PYefqoQ) | 4:46 |
 | 84 | [Before Sunrise](https://open.spotify.com/track/1Xu7A2khApj5NtJhRGasUP) | [AfterMoon 애프터문](https://open.spotify.com/artist/5Xz2wM6arxCGcFkMdp6iJR) | [JTBC SuperBand Episode 13](https://open.spotify.com/album/6OOJHGZSEAkVBZ6PYefqoQ) | 5:40 |
 | 85 | [Snooze 선잠](https://open.spotify.com/track/1k5aAr4s1UdGY7PdPVhOmt) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [JTBC SuperBand Episode 13](https://open.spotify.com/album/6OOJHGZSEAkVBZ6PYefqoQ) | 4:50 |
-| 86 | [Never Enough](https://open.spotify.com/track/5PBHyfB7HW9ZOAl2U1qjQn) | [Purple Rain 퍼플레인](https://open.spotify.com/artist/1vaxmayIdOvGB2lqz49cLR) | [JTBC SuperBand Episode 13](https://open.spotify.com/album/6OOJHGZSEAkVBZ6PYefqoQ) | 7:13 |
+| 86 | [Never Enough](https://open.spotify.com/track/5PBHyfB7HW9ZOAl2U1qjQn) | [Purple Rain](https://open.spotify.com/artist/4Myaw7YiDO14r4JhxeXIiL) | [JTBC SuperBand Episode 13](https://open.spotify.com/album/6OOJHGZSEAkVBZ6PYefqoQ) | 7:13 |
 | 87 | [Wake Me Up](https://open.spotify.com/track/7zLSIQjbVI0ULjLsjwZXXa) | [Hoppipolla](https://open.spotify.com/artist/6tuuLiMw18vnZB8hJaodJc) | [JTBC SuperBand Episode 13](https://open.spotify.com/album/6OOJHGZSEAkVBZ6PYefqoQ) | 6:31 |
 | 88 | [One more light](https://open.spotify.com/track/6cGUYcYxhfox1WIZfObHWZ) | [Hoppipolla](https://open.spotify.com/artist/6tuuLiMw18vnZB8hJaodJc) | [JTBC SuperBand Episode 14](https://open.spotify.com/album/4LYM8qCKUgogyBTx1pnVzF) | 7:20 |
 | 89 | [Flare](https://open.spotify.com/track/5FfB0I8VegXVoB1SJZ8wyc) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [JTBC SuperBand Episode 14](https://open.spotify.com/album/4LYM8qCKUgogyBTx1pnVzF) | 6:02 |
 | 90 | [idc](https://open.spotify.com/track/36AZDSTxco9AVnKk4PPHZA) | [Moné 모네](https://open.spotify.com/artist/5zav84wOhhcJpvYEOi5tWS) | [JTBC SuperBand Episode 14](https://open.spotify.com/album/4LYM8qCKUgogyBTx1pnVzF) | 5:52 |
-| 91 | [Old And Wise](https://open.spotify.com/track/0Hm0XdBJQRf1TwtF2rBVfm) | [Purple Rain 퍼플레인](https://open.spotify.com/artist/1vaxmayIdOvGB2lqz49cLR) | [JTBC SuperBand Episode 14](https://open.spotify.com/album/4LYM8qCKUgogyBTx1pnVzF) | 7:51 |
+| 91 | [Old And Wise](https://open.spotify.com/track/0Hm0XdBJQRf1TwtF2rBVfm) | [Purple Rain](https://open.spotify.com/artist/4Myaw7YiDO14r4JhxeXIiL) | [JTBC SuperBand Episode 14](https://open.spotify.com/album/4LYM8qCKUgogyBTx1pnVzF) | 7:51 |
 
 Snapshot ID: `MTYzMzA1MDk2NCwwMDAwMDAwNjAwMDAwMTdjMzk2YzMzYmQwMDAwMDE3YWUyNzFjYzI5`

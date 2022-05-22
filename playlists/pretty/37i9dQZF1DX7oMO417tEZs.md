@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: Ruby Waters
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,484 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,551 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 65 | [Bittersweet](https://open.spotify.com/track/4r3dW2GaTXSMBOMxtnC2X0) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY), [SHAH FRANK](https://open.spotify.com/artist/4NetfCwJqpbsV7dSihbDD5) | [Bittersweet](https://open.spotify.com/album/1l7f3275NojBZM1FpxlDAT) | 3:26 |
 | 66 | [brain food](https://open.spotify.com/track/2Vlw9U2Vzn6dHrb4J14TDU) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Grown?](https://open.spotify.com/album/5VWaQLaBvE8djbRkHRc3Fd) | 3:41 |
 | 67 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 |
-| 68 | [Body](https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Body](https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk) | 3:30 |
+| 68 | [Body](https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Body](https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk) | 3:30 |
 | 69 | [Digital Damage](https://open.spotify.com/track/6ysriWddMJP3xo4qElbQu7) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG), [Da\-P](https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ) | [Digital Damage](https://open.spotify.com/album/3q3BT8V9uaWYxgwNcsSOfb) | 2:29 |
 | 70 | [Missing](https://open.spotify.com/track/6niKengst9apm0TNlSaoxK) | [Jacq Teh](https://open.spotify.com/artist/1ZnSbYM3lTCN2SL1xifm2L), [August Jones](https://open.spotify.com/artist/6ylJj7RedJH6Gz8oSTRkIQ), [Siddartha](https://open.spotify.com/artist/6ANejDUojWN31uvWZMMnP3) | [Missing](https://open.spotify.com/album/79FxYHpmHKjwKZ2Wz8ZCJD) | 3:12 |
 | 71 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |

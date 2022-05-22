@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione di rapper italiani\. Cover: Kid Yugi
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,186 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,214 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 25 | [Al Capone](https://open.spotify.com/track/24TVRkzUBDzQouxitIVcT1) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Al Capone](https://open.spotify.com/album/0ig28vaKTtszNMHDnLINqu) | 2:38 |
 | 26 | [SIDE HOE](https://open.spotify.com/track/5OjDS0tM4rmKe677fLvBL5) | [ZE7E](https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n) | [SIDE HOE](https://open.spotify.com/album/1ntgh7yEXIbKrb73KWz3yr) | 2:09 |
 | 27 | [Niente Da Perdere](https://open.spotify.com/track/2lUti9Pis9z2IqP1IViXxF) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Niente Da Perdere](https://open.spotify.com/album/4VN7MdLoaXXwSqTjYWpl38) | 2:44 |
-| 28 | [\#WEOWE2](https://open.spotify.com/track/45gLLRDHtF7Cdm7TbThR1h) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK), [Dystopic](https://open.spotify.com/artist/72CLewUhfxo0OCY0FiDT9u) | [\#WEOWE2](https://open.spotify.com/album/5c7CoUQI2o9sGqeFmu4Y2X) | 2:08 |
+| 28 | [\#WEOWE2](https://open.spotify.com/track/45gLLRDHtF7Cdm7TbThR1h) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [\#WEOWE2](https://open.spotify.com/album/5c7CoUQI2o9sGqeFmu4Y2X) | 2:08 |
 | 29 | [MOTORSPORT](https://open.spotify.com/track/2TZrC4DQY7dEohUl00UAmS) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [MOTORSPORT](https://open.spotify.com/album/3FT9uA9e5WuwMM1BuFU2PQ) | 1:55 |
-| 30 | [in una bara](https://open.spotify.com/track/2uVwlsxxHMJw5BHYLo0kRj) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Vero Liricista](https://open.spotify.com/album/12cQXC8ieSjXMEPvklwXmF) | 2:25 |
+| 30 | [In una bara](https://open.spotify.com/track/2uVwlsxxHMJw5BHYLo0kRj) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Vero Liricista](https://open.spotify.com/album/12cQXC8ieSjXMEPvklwXmF) | 2:25 |
 | 31 | [AAHORA](https://open.spotify.com/track/5HSGAZ9lgL19zyWwrgWcuw) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [AAHORA](https://open.spotify.com/album/07To5kvlGtnJZshPnUGE7R) | 2:28 |
 | 32 | [Malaga](https://open.spotify.com/track/5z4h4xGcFDkCz3bqhWolE2) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Malaga](https://open.spotify.com/album/4IziXI7cFEh03rNQUjxMul) | 2:24 |
 | 33 | [PIACERE FRANCESCO](https://open.spotify.com/track/7rbsHurbo79lcr954mwjyw) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8) | [PIACERE FRANCESCO](https://open.spotify.com/album/0vaYb9C3HxAFGwPJvIypgR) | 2:41 |

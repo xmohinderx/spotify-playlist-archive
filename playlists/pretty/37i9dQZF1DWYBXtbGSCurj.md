@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Dj Matt D, Ryan SP, Menor MC
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,679 likes - 69 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,751 likes - 69 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

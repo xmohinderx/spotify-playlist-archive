@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Cazzu 🕷️🕸️
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,894 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,975 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 15 | [Flow Prieto \(feat\. Jencko El Shinobi\)](https://open.spotify.com/track/0G5Mq5YoX3DmgvQq2mbf6D) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Eipi](https://open.spotify.com/artist/3YmwvG9OoPyAMoCRrcTUMl), [Jae S](https://open.spotify.com/artist/2bWodbZbC7imuhp3lrOsRg), [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf) | [Flow Prieto \(feat\. Jencko El Shinobi\)](https://open.spotify.com/album/4tYBSR2tiXOsGQPVM6jSzc) | 3:25 |
 | 16 | [Tay](https://open.spotify.com/track/4tmdfH3f6KVx6I6LHkCgqg) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:47 |
 | 17 | [Carrera](https://open.spotify.com/track/5TbutTu80CvVOgilfbZu6x) | [Kinder Malo](https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0) | [Carrera](https://open.spotify.com/album/0aPquprrKLJiXfXRKdBBuJ) | 2:52 |
-| 18 | [Sienta Bien \(feat\. Laylow\)](https://open.spotify.com/track/5JO1TPAa7N23AAS82C3EER) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Sienta Bien \(feat\. Laylow\)](https://open.spotify.com/album/6ayBfDc8QHTQaZZHn7P3wX) | 3:13 |
+| 18 | [SIENTA BIEN \(feat\. Laylow\)](https://open.spotify.com/track/5JO1TPAa7N23AAS82C3EER) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [SIENTA BIEN \(feat\. Laylow\)](https://open.spotify.com/album/6ayBfDc8QHTQaZZHn7P3wX) | 3:13 |
 | 19 | [ENCHULETIAO](https://open.spotify.com/track/5Q9h2r0aU17WD8nn0HkSg9) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:09 |
 | 20 | [RICO CUANDO MUERA](https://open.spotify.com/track/20xJvceMXPYkZDZwQ9EcFg) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 3:04 |
 | 21 | [Al Dia](https://open.spotify.com/track/4ZX3ui4xclh7h5XXCZMo3p) | [Kele](https://open.spotify.com/artist/6JkIfzAcnjeyUx6aQh3Pbi), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Al Dia](https://open.spotify.com/album/5c7ikVWg62OlZWFC4iGOJP) | 5:15 |

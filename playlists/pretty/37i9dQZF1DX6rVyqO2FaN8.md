@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rVyqO2FaN8.md) - [plain]
 
 > Recent tracks from the Hot Country playlist that are still smokin'\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,372 likes - 103 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,554 likes - 103 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

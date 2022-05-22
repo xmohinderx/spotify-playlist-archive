@@ -4,7 +4,7 @@
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-139 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/1UgxtLr4GKJDtfVaD2Kqru)
+140 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/1UgxtLr4GKJDtfVaD2Kqru)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Better Than I Imagined \[Feat\. H.E.R\. & Meshell Ndegeocello\] \- KAYTRANADA Remix](https://open.spotify.com/track/5A3aEJL7HkijkxLFXMv7FN) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Better Than I Imagined \[Feat\. H.E.R\. & Meshell Ndegeocello\] \(KAYTRANADA Remix\)](https://open.spotify.com/album/7HRqZplSpqWZnL05hUJCcH) | 3:47 | 2022-02-25 |  |
 | [Better Version](https://open.spotify.com/track/6OYly4TGeYQFNXrt6Qh1JA) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Better Version](https://open.spotify.com/album/7KG6TtKMZAIPtY1T3ApyeU) | 3:35 | 2022-03-25 | 2022-04-02 |
 | [Bicolana](https://open.spotify.com/track/21WRNpR0AO5R78Qgr8zK2W) | [Fred Engay](https://open.spotify.com/artist/007MmXwT1HwcXwuyROgNJb) | [Bicolana](https://open.spotify.com/album/1c95CMYIMxAmcEvxF4OLeI) | 3:14 | 2022-04-15 | 2022-04-23 |
+| [Blü Moon](https://open.spotify.com/track/3fZYsBgwG8TUI53S14V0HD) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Blü Moon](https://open.spotify.com/album/4Zq8nr1P9iDhupYoj2wuQz) | 3:09 | 2022-05-21 |  |
 | [Bone + Tissue](https://open.spotify.com/track/1THUV2tiTLxNNbJwC8m4pE) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Ology](https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf) | 3:41 | 2022-02-25 |  |
 | [Brown Skin](https://open.spotify.com/track/6yS7uEuIMuVgOWEiWY6Abm) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/2vc5pjWadm2Q8FxdJ3JSwV) | 4:56 | 2022-02-25 | 2022-04-23 |
 | [chuu](https://open.spotify.com/track/6KBafFD2vzzXjMLSBISNNw) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [chuu](https://open.spotify.com/album/2DiDH1MgKKSS6NhEPLrVuU) | 4:13 | 2022-02-25 |  |
@@ -140,7 +141,7 @@
 | [Waterfall](https://open.spotify.com/track/3MUb3mziKpbLN8NB0VPplV) | [Laura Padaratz](https://open.spotify.com/artist/1CX0AnKbxgsOWp2bqVydqk), [PLANTTTA Lab](https://open.spotify.com/artist/25DO6Yyq4TbNo7ICQIwLSU) | [Waterfall](https://open.spotify.com/album/4P35qUvgULbZRNpohOdoeI) | 3:20 | 2022-05-06 | 2022-05-20 |
 | [Wet Dreamz](https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 3:05 | 2022-02-25 |  |
 | [What A Lie](https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [What A Lie](https://open.spotify.com/album/3YYUucEXwtTJC0FWcpqrB4) | 3:48 | 2022-04-22 |  |
-| [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/2rXEvLUrJergtH0iQnyr29) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/album/5soGYnfqSGI3S1vOHDG9xe) | 3:08 | 2022-02-25 |  |
+| [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/2rXEvLUrJergtH0iQnyr29) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/album/5soGYnfqSGI3S1vOHDG9xe) | 3:08 | 2022-02-25 | 2022-05-22 |
 | [What Would You Do? \(R&B Remix\)](https://open.spotify.com/track/5caYUeSUoPB6nEcuOjVyXm) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [What Would You Do? \(R&B Remix\)](https://open.spotify.com/album/4wDXA7ivD2je1xRuP4hKgp) | 2:35 | 2022-05-06 | 2022-05-14 |
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-03-18 |  |
 | [What’s Yo Phone Number / Telephone \- Medley / Ghost Of Screw Mix](https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:10 | 2022-02-25 |  |

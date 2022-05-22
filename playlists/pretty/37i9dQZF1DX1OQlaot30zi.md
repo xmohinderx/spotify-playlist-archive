@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Villabanks, Shiva, tha Supreme, Gemitaiz e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,163 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,202 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 4 | [Kabuki](https://open.spotify.com/track/7kCVDY7Cq1ybLjLs7nwJTI) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Kabuki](https://open.spotify.com/album/7zv9IOwE1AVvnvxuQOw0Ye) | 3:00 |
 | 5 | [G CLASS](https://open.spotify.com/track/2s2slPHRcUQSYsOrlNhN5c) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [G CLASS](https://open.spotify.com/album/5i8sSSUmC6NMJd70gLS4Hn) | 2:25 |
 | 6 | [DRARI \(feat\. Baby Gang\)](https://open.spotify.com/track/0MiX0Ui5JQkd4nwu7D7qQb) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:30 |
-| 7 | [in una bara](https://open.spotify.com/track/2uVwlsxxHMJw5BHYLo0kRj) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Vero Liricista](https://open.spotify.com/album/12cQXC8ieSjXMEPvklwXmF) | 2:25 |
+| 7 | [In una bara](https://open.spotify.com/track/2uVwlsxxHMJw5BHYLo0kRj) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Vero Liricista](https://open.spotify.com/album/12cQXC8ieSjXMEPvklwXmF) | 2:25 |
 | 8 | [GLORIA](https://open.spotify.com/track/4HoCHskLaChG5WQEYbjUew) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [GLORIA](https://open.spotify.com/album/1bHMxxRXGzttc6ClsSPBYH) | 2:46 |
 | 9 | [CONSUMAZIONE PERSONALE](https://open.spotify.com/track/0aRJUjFAbeWss7p50XOL69) | [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [CONSUMAZIONE PERSONALE](https://open.spotify.com/album/59Td7MNLKUnOsIfhW5UUIx) | 2:18 |
 | 10 | [Al Capone](https://open.spotify.com/track/24TVRkzUBDzQouxitIVcT1) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Al Capone](https://open.spotify.com/album/0ig28vaKTtszNMHDnLINqu) | 2:38 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 42 | [SIDE HOE](https://open.spotify.com/track/5OjDS0tM4rmKe677fLvBL5) | [ZE7E](https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n) | [SIDE HOE](https://open.spotify.com/album/1ntgh7yEXIbKrb73KWz3yr) | 2:09 |
 | 43 | [BENEF](https://open.spotify.com/track/5AV8mcCebGTtk8DmCeHAZl) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [CRIMI](https://open.spotify.com/album/0A6H9ZeitwXVP5FpsY8Vud) | 2:47 |
 | 44 | [Pochette \(feat\. Noyz Narcos\)](https://open.spotify.com/track/7px3nxEoSvAHCvAZq3r38W) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:01 |
-| 45 | [\#WEOWE2](https://open.spotify.com/track/45gLLRDHtF7Cdm7TbThR1h) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK), [Dystopic](https://open.spotify.com/artist/72CLewUhfxo0OCY0FiDT9u) | [\#WEOWE2](https://open.spotify.com/album/5c7CoUQI2o9sGqeFmu4Y2X) | 2:08 |
+| 45 | [\#WEOWE2](https://open.spotify.com/track/45gLLRDHtF7Cdm7TbThR1h) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [\#WEOWE2](https://open.spotify.com/album/5c7CoUQI2o9sGqeFmu4Y2X) | 2:08 |
 | 46 | [GOODFELLAS](https://open.spotify.com/track/6NgmTL3J16M4Pd6dYzXFlh) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf), [Arden](https://open.spotify.com/artist/38PbHju77F8TBo3ByW4HiI) | [PAIN PARTY](https://open.spotify.com/album/72k7j2fiUIHpB8qCWbm75J) | 3:16 |
 | 47 | [AAHORA](https://open.spotify.com/track/5HSGAZ9lgL19zyWwrgWcuw) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [AAHORA](https://open.spotify.com/album/07To5kvlGtnJZshPnUGE7R) | 2:28 |
 | 48 | [RFTS 3: Transalp \(Freestyle\)](https://open.spotify.com/track/2ip5V8poyS2rkYlvfQ0mxw) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [RFTS 3: Transalp \(Freestyle\)](https://open.spotify.com/album/421OGAOihQdZuiXiVoCVV5) | 2:08 |

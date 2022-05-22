@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring hand\-curated cuts from John Summit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,072 likes - 151 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,198 likes - 151 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

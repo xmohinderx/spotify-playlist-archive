@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 153913,
       "name": "Floating",
       "url": "https://open.spotify.com/track/4KxKu2qHckBUhUWuXPNBNX"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 253500,
       "name": "Impulse",
       "url": "https://open.spotify.com/track/2OpCTTrEinags4toAT5od9"
@@ -1943,7 +1943,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 306000,
       "name": "Psalmboksmusik",
       "url": "https://open.spotify.com/track/6Z05waDrF7G1h9IWvtrqI8"
@@ -2133,7 +2133,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 129375,
       "name": "So What",
       "url": "https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5"
@@ -2257,7 +2257,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 277600,
       "name": "Sport Man",
       "url": "https://open.spotify.com/track/6SzP10os8D81Pj1CeEbbk1"
@@ -2311,7 +2311,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 234664,
       "name": "Stonehouse",
       "url": "https://open.spotify.com/track/3lGgUdlzMIRskPzQKGTBRq"
@@ -2625,6 +2625,24 @@
       "duration_ms": 269988,
       "name": "The Elephant in the Room",
       "url": "https://open.spotify.com/track/3KZkUgDEdCX5RGFYGDN962"
+    },
+    {
+      "album": {
+        "name": "The Lonely",
+        "url": "https://open.spotify.com/album/1QUJECfxoMeomDXV1HErL0"
+      },
+      "artists": [
+        {
+          "name": "Jerk",
+          "url": "https://open.spotify.com/artist/47fuoUqgL8n7eSQsSdaCQf"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "The Lonely",
+      "url": "https://open.spotify.com/track/1jdtMdVuXcgUWB3kiF00YU"
     },
     {
       "album": {
@@ -3135,7 +3153,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 131160,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a"

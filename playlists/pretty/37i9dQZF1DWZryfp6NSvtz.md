@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: RedHook
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,329 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,506 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 38 | [Straw Hat](https://open.spotify.com/track/3IENyibLBDdE2N2mAN1d0n) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Straw Hat](https://open.spotify.com/album/1anHRjvIXkW9Ga9bfz2FRI) | 3:30 |
 | 39 | [When They Come for Me](https://open.spotify.com/track/2mywP9sbGKHR1khUe7gXRs) | [Spielbergs](https://open.spotify.com/artist/1PTXobwsxwhjcIajCjV8u4) | [When They Come for Me / Get Lost](https://open.spotify.com/album/1EfXebbWF5S4ZxzWmYbYk4) | 3:36 |
 | 40 | [Miracle](https://open.spotify.com/track/1K78rFE0DT0hQDkAV8BsMS) | [Mass Sky Raid](https://open.spotify.com/artist/0GviqMe5TBipPkKM5gGHHK) | [Miracle](https://open.spotify.com/album/5BaVnjA2GlpielE8TA7wh2) | 3:16 |
-| 41 | [Last Man Stading](https://open.spotify.com/track/6XlC4MoxlFcFUna34rwNeU) | [Just a Ride](https://open.spotify.com/artist/2XC4Nga7sPqaO7dB1jRlnu) | [Last Man Standing](https://open.spotify.com/album/4tY8QskFSKC8LpKP1nqa03) | 3:22 |
+| 41 | [Last Man Standing](https://open.spotify.com/track/6XlC4MoxlFcFUna34rwNeU) | [Just a Ride](https://open.spotify.com/artist/2XC4Nga7sPqaO7dB1jRlnu) | [Last Man Standing](https://open.spotify.com/album/4tY8QskFSKC8LpKP1nqa03) | 3:22 |
 | 42 | [Rescue Me](https://open.spotify.com/track/2YgmnWc5M8DDYLKgDarBq7) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Rescue Me](https://open.spotify.com/album/2bsIieEAgCyVwcdGNiBDFB) | 4:46 |
 | 43 | [I & You](https://open.spotify.com/track/34hDxlyegGLSM3wcap0xsS) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [The Last Drop](https://open.spotify.com/album/3fuEz5uQ4LeswLqlVh9wSi) | 3:47 |
 | 44 | [Why Hide](https://open.spotify.com/track/2y0iYDRPHvRSnXVZO1eQvO) | [Queen of Jeans](https://open.spotify.com/artist/61HFuOrTUb63I9b11WdnqL) | [Why Hide](https://open.spotify.com/album/4o8ZMPOk4xNWvYEYJJdjn1) | 3:50 |

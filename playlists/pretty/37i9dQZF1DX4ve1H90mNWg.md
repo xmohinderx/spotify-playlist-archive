@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. Cover, Kaash Paige
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,328 likes - 53 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,330 likes - 53 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

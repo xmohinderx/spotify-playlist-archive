@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-75 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+76 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Falling](https://open.spotify.com/track/3GAlnDKQPrgMKcdGdkssSU) | [Shdws](https://open.spotify.com/artist/68yqVCDFykVIUWzVglAcEg) | [Falling](https://open.spotify.com/album/5H5KXYChlIn0V50hLoV9C7) | 3:37 | 2022-05-13 |  |
 | [Feel It](https://open.spotify.com/track/2MhH5aAORsvCgl3E8aOC1q) | [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Feel It](https://open.spotify.com/album/0Xlrltos3265GCIltt7uXX) | 3:00 | 2022-05-13 |  |
 | [Find Somebody](https://open.spotify.com/track/5MOBzkc7oEuv7Bzwj1LQ9K) | [GiddiBangBang](https://open.spotify.com/artist/4r159dgfxQvmRkg6XvfbjF), [Leo Smy](https://open.spotify.com/artist/2RO7zbK3vfjvxHIan8D3uB) | [Find Somebody](https://open.spotify.com/album/3Xz6QgbslmtlRmhM13hyme) | 3:21 | 2022-04-29 | 2022-05-14 |
+| [Furious!](https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Hooders](https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS) | [Furious!](https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49) | 3:18 | 2022-05-21 |  |
 | [Good And Bad](https://open.spotify.com/track/2NGMUyLWCB43kUlse3CSXy) | [Ibranovski](https://open.spotify.com/artist/5ASWBtbVe1yfxjrCuREQ4p) | [Good And Bad](https://open.spotify.com/album/4GXbvWPdGIXWYG2Ie25btm) | 3:10 | 2022-04-28 | 2022-05-14 |
 | [Good Time](https://open.spotify.com/track/5Fq1Ak7zXLlge7PuAIEbWs) | [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Good Time](https://open.spotify.com/album/43rpQD7NisxyZmV8wPeAfn) | 3:44 | 2022-05-18 |  |
 | [Heaven](https://open.spotify.com/track/5DIw2CSHa5gn2lUS8du2sW) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Heaven](https://open.spotify.com/album/69pJO3uecsG3gL9pdCKi49) | 3:46 | 2022-05-13 |  |
@@ -44,7 +45,7 @@
 | [My Mind](https://open.spotify.com/track/1GSisTsTuL17nbcb7Vxu7V) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [My Mind / Let Me](https://open.spotify.com/album/2C5QiKmyVPfNynUoggm1td) | 3:08 | 2021-03-29 |  |
 | [Never Ever](https://open.spotify.com/track/7pXtDwdYtjILjN5cK7UonH) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Never Ever](https://open.spotify.com/album/5gYdpQEHqsfd8y0rvakbw6) | 2:48 | 2022-05-13 |  |
 | [Nightmares](https://open.spotify.com/track/5xARo31Sdr6Kmk2g9j4t3x) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Nightmares](https://open.spotify.com/album/3FcSS6YhR6HiGx8T0RZ7qy) | 2:45 | 2022-05-13 |  |
-| [No Option](https://open.spotify.com/track/4dFuxpnBVz4K5wXw6Qq6mQ) | [Ice X Diaz](https://open.spotify.com/artist/7LjMN8V8JnMOjSQEC9X5EW) | [No Option](https://open.spotify.com/album/7s9zD2VTjtHTRmzuMnuzNJ) | 2:35 | 2022-05-18 |  |
+| [No Option](https://open.spotify.com/track/4dFuxpnBVz4K5wXw6Qq6mQ) | [Ice X Diaz](https://open.spotify.com/artist/7LjMN8V8JnMOjSQEC9X5EW) | [No Option](https://open.spotify.com/album/7s9zD2VTjtHTRmzuMnuzNJ) | 2:35 | 2022-05-18 | 2022-05-22 |
 | [Nothing More To Say \(feat\. Marlhy\)](https://open.spotify.com/track/0mdXv5Ync5xuX1bTQ6iWt0) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Nothing More To Say \(feat\. Marlhy\)](https://open.spotify.com/album/3lJAE6zPsbNmllojvZaHqG) | 3:27 | 2022-05-13 |  |
 | [On The Mind](https://open.spotify.com/track/5hWH3qZjiEkuAdy4wjnN7n) | [Pirate Snake](https://open.spotify.com/artist/6GC33IJFo0PDw5bsazEzpj), [Rettake](https://open.spotify.com/artist/2sa3ArlnMSXJNuJDf84THa) | [On The Mind](https://open.spotify.com/album/1bI5Fq35DbaD8d7NGIfx2l) | 2:53 | 2022-05-13 |  |
 | [Overdrive](https://open.spotify.com/track/3SR4UulC7VrZpWcuuyYxOu) | [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2) | [Overdrive](https://open.spotify.com/album/63Rd61Zo80nbIVo7u8i6G9) | 4:02 | 2022-04-29 | 2022-05-14 |

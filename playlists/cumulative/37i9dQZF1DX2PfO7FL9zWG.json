@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 281706,
       "name": "Always Alone",
       "url": "https://open.spotify.com/track/2Iams73705r7Q06aSSm0XA"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 259166,
       "name": "Apple Pie",
       "url": "https://open.spotify.com/track/1tL1wrbBwzXpUhjItFytoY"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 231120,
       "name": "Back to Love",
       "url": "https://open.spotify.com/track/1CsGyKtUsk0uEKIoaHIEuR"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 195923,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 233963,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/4GhfofdAQM5sxn77162iBz"
@@ -437,10 +437,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 201258,
       "name": "Dirty Old Town",
       "url": "https://open.spotify.com/track/41Usv2Jjqp7vOPhtTqnUjG"
+    },
+    {
+      "album": {
+        "name": "Dog Eared",
+        "url": "https://open.spotify.com/album/4sEX5b9l235hryvaJviii8"
+      },
+      "artists": [
+        {
+          "name": "Ten Kills the Pack",
+          "url": "https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251880,
+      "name": "Dog Eared",
+      "url": "https://open.spotify.com/track/1k6FDt9UYzh22WIC3TTLKy"
     },
     {
       "album": {
@@ -509,7 +527,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 247826,
       "name": "Failure",
       "url": "https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8"
@@ -549,7 +567,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 222571,
       "name": "Famous",
       "url": "https://open.spotify.com/track/3tE7QWHK8fCsSBMtSUQK1B"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 258693,
       "name": "Far Out",
       "url": "https://open.spotify.com/track/3FBisbTYZcpmPPAjnXE7w9"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 209466,
       "name": "Halfway Tree",
       "url": "https://open.spotify.com/track/5naGbqecQUheZgOhtXPDj7"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "Haven (from Life Is Strange)",
       "url": "https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 188344,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6zjZArgz7ArC1yOwTW2cLm"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 182805,
       "name": "It'll Work Itself Out",
       "url": "https://open.spotify.com/track/2u6SXgdzFNTQLc4LcSi3Vd"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 265715,
       "name": "Leave A Light",
       "url": "https://open.spotify.com/track/5P0i0asekeb0hCEPCi2R5n"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 197880,
       "name": "Lemon [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 231762,
       "name": "Love Is Blind",
       "url": "https://open.spotify.com/track/6SGTlXM3iSWNMPhomntCGm"
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 402654,
       "name": "Middle Of Nowhere",
       "url": "https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA"
@@ -1559,7 +1577,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 222815,
       "name": "Misnomer",
       "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
@@ -1685,7 +1703,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 205640,
       "name": "Once",
       "url": "https://open.spotify.com/track/6uQs8IhevnDdW5RWiYtXhU"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 302880,
       "name": "Over My Shoulder",
       "url": "https://open.spotify.com/track/0FqF6EXmup1hbfNItEIiaJ"
@@ -1751,7 +1769,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 253868,
       "name": "pictures (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/6bt1R3HFqITysmy3W88M3c"
@@ -1809,7 +1827,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 202808,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/4CQgSmxceVrNEpMT75aAkY"
@@ -1917,7 +1935,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 291241,
       "name": "Say You Will",
       "url": "https://open.spotify.com/track/01vJRC33O3RZS1dU5dUUJ6"
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 263493,
       "name": "Something Like This - Acoustic",
       "url": "https://open.spotify.com/track/0rwmd6UpYeLGeus61u9TDd"
@@ -2007,7 +2025,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 298490,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/2vEJRouRvUxL7WXhX6WNSn"
@@ -2025,7 +2043,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 279000,
       "name": "Stubborn Love",
       "url": "https://open.spotify.com/track/4MoiNtMeGRzQ3KjdETmogz"
@@ -2173,7 +2191,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 218011,
       "name": "The Lullaby (My Oldest Love)",
       "url": "https://open.spotify.com/track/7kLmS1sVZJTzvHYdurvNyy"
@@ -2357,7 +2375,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 240586,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
@@ -2415,7 +2433,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 259180,
       "name": "Watch You Shine",
       "url": "https://open.spotify.com/track/2BL1FgdIdPjNDc2C5UlPzP"
@@ -2451,7 +2469,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 189424,
       "name": "What I Came Here For",
       "url": "https://open.spotify.com/track/73WvySq47nvcUvS6IONQ5z"
@@ -2545,7 +2563,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 158117,
       "name": "Wolves Don't Live by the Rules (feat Joe Grass)",
       "url": "https://open.spotify.com/track/61z2qry5ZoEHwuSZ17V63k"

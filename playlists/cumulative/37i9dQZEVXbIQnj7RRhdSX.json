@@ -443,7 +443,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 201964,
       "name": "Adesso",
       "url": "https://open.spotify.com/track/1v1ltuBMogS2CxJUW7yCyY"
@@ -922,6 +922,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
       },
@@ -933,7 +951,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 167611,
       "name": "BENEF",
       "url": "https://open.spotify.com/track/5AV8mcCebGTtk8DmCeHAZl"
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 175586,
       "name": "Blauer",
       "url": "https://open.spotify.com/track/47E18bCgrFTWXPFYkGnLMi"
@@ -2179,7 +2197,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 197247,
       "name": "CASA",
       "url": "https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ"
@@ -3524,6 +3542,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
+    },
+    {
+      "album": {
         "name": "GVESVS",
         "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
       },
@@ -4147,6 +4183,28 @@
       "duration_ms": 198082,
       "name": "Dove Si Balla",
       "url": "https://open.spotify.com/track/5a6ABzVhqgVKI1znaI9tar"
+    },
+    {
+      "album": {
+        "name": "Sensazione ultra",
+        "url": "https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150026,
+      "name": "DRARI (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/0MiX0Ui5JQkd4nwu7D7qQb"
     },
     {
       "album": {
@@ -5296,6 +5354,24 @@
     },
     {
       "album": {
+        "name": "Sensazione ultra",
+        "url": "https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165866,
+      "name": "FORTUNA",
+      "url": "https://open.spotify.com/track/0b53fWGqxHfsdyzkwlEFFl"
+    },
+    {
+      "album": {
         "name": "ORO BLU",
         "url": "https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U"
       },
@@ -5359,6 +5435,28 @@
       "duration_ms": 171080,
       "name": "Fredda, Triste, Pericolosa (feat. Franco126)",
       "url": "https://open.spotify.com/track/3ZoM03sEG6GR213z2cqYzO"
+    },
+    {
+      "album": {
+        "name": "Sensazione ultra",
+        "url": "https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153693,
+      "name": "FREE SOLO (feat. Marracash)",
+      "url": "https://open.spotify.com/track/0CuOlrm9gmvMUlRxBLHp0o"
     },
     {
       "album": {
@@ -5923,6 +6021,24 @@
       "duration_ms": 164087,
       "name": "Goyard",
       "url": "https://open.spotify.com/track/3e9L7P1Cu91OWiak39QUkH"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191958,
+      "name": "Grapejuice",
+      "url": "https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0"
     },
     {
       "album": {
@@ -8040,6 +8156,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
       },
@@ -8311,6 +8445,24 @@
       "duration_ms": 157395,
       "name": "Like This Like That (feat. Yung Snapp & MV Killa)",
       "url": "https://open.spotify.com/track/6A2S1AAwT6FKNBW5cfCTse"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202183,
+      "name": "Little Freak",
+      "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
     },
     {
       "album": {
@@ -9168,6 +9320,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "album": {
         "name": "Fastlife 4",
         "url": "https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6"
       },
@@ -9980,6 +10150,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193813,
+      "name": "Music For a Sushi Restaurant",
+      "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
+    },
+    {
+      "album": {
         "name": "I Mortali\u00b2",
         "url": "https://open.spotify.com/album/1eXLJLcFqCLlrdSoQU8Ilf"
       },
@@ -10309,7 +10497,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 157826,
       "name": "NLFP (feat. tha Supreme)",
       "url": "https://open.spotify.com/track/7AINlTLLzoduGA7Aw7iUwf"
@@ -10885,7 +11073,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 177310,
       "name": "Occhi rossi",
       "url": "https://open.spotify.com/track/5bvsNn7f4m0MTCuUQkMZGY"
@@ -11458,6 +11646,28 @@
     },
     {
       "album": {
+        "name": "Sensazione ultra",
+        "url": "https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        },
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165960,
+      "name": "PARE (feat. Madame)",
+      "url": "https://open.spotify.com/track/1WQxLQxEDMDwuaAmRXDHIw"
+    },
+    {
+      "album": {
         "name": "Don't Panic",
         "url": "https://open.spotify.com/album/6bm3XAVxep0Yj3uWnnPWZU"
       },
@@ -12027,7 +12237,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 237266,
       "name": "Pornstar (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/2r0uxpCJHJC6KDNEVNQAM2"
@@ -13333,7 +13543,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 177672,
       "name": "Silenzio",
       "url": "https://open.spotify.com/track/5Eay94uxOnd2XrnybXoDfm"
@@ -14663,7 +14873,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 204692,
       "name": "Tienimi stanotte",
       "url": "https://open.spotify.com/track/3u9LnNtp8669srAZoQh7mZ"
@@ -14817,7 +15027,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 191202,
       "name": "Top (feat. MadMan)",
       "url": "https://open.spotify.com/track/2aH4Ec7vu87IeXFrtjtR17"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > DEMON RAP\. Cover: $uicideboys$
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,117 likes - 120 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,623 likes - 120 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
