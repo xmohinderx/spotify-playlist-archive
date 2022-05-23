@@ -4,7 +4,7 @@
 
 > Listen Heroine's music 24 Hours.
 
-32 songs - 1 hr 44 min - [published](https://open.spotify.com/playlist/1CWoaNOmmbx6GCiB2khSlT)
+33 songs - 1 hr 46 min - [published](https://open.spotify.com/playlist/1CWoaNOmmbx6GCiB2khSlT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Borderline](https://open.spotify.com/track/2ufe0UMTd8ay3irNf1kIsX) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 2:54 | 2022-03-11 |  |
 | [burn](https://open.spotify.com/track/1leUuiU53gcrZsnTmwidNb) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 3:29 | 2022-03-11 |  |
 | [Call](https://open.spotify.com/track/2HmA6srhyIetFJ9pb4kvdG) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 2:45 | 2022-03-11 |  |
+| [Fellowship](https://open.spotify.com/track/6PW5GLnTnF9krvqR3QcjWg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMIYA CLUB](https://open.spotify.com/album/5m1kGBVJBKcrlLBgy300vV) | 1:54 | 2022-05-22 |  |
 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 | 2022-03-11 |  |
 | [Go or Stop?](https://open.spotify.com/track/5ZQt1BxZ25CYGgxC7g3XFt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Go or Stop?](https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA) | 2:38 | 2022-03-11 |  |
 | [Gotta Go](https://open.spotify.com/track/6fYDnLnVFV0n3FMxgEnIcg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [XX \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4qneAGjgqL6nMSVY8J2OCD) | 2:59 | 2022-03-11 |  |

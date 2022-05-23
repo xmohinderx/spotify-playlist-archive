@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 160466,
       "name": "Another Sunday Morning",
       "url": "https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 149933,
       "name": "At The Hop",
       "url": "https://open.spotify.com/track/6vkuJbGjyjnSQReeaCh8wT"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 167600,
       "name": "Baby I Don't Care",
       "url": "https://open.spotify.com/track/55YNkWt5V10Sg5dNzT2OKF"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 96895,
       "name": "Bip Bop Boom",
       "url": "https://open.spotify.com/track/55jx8TvooUxHC1vqdJ3tVw"
@@ -271,10 +271,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 129026,
       "name": "Black Slacks",
       "url": "https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga"
+    },
+    {
+      "album": {
+        "name": "Bless My Soul With Rock'n'Roll",
+        "url": "https://open.spotify.com/album/6JMBKXr4PLnBhSBAgO4nGH"
+      },
+      "artists": [
+        {
+          "name": "PatC Miller And The Tailshakers",
+          "url": "https://open.spotify.com/artist/0xKxb8ktWxhoAiEGBNJ7CG"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140196,
+      "name": "Bless My Soul With Rock'n'Roll",
+      "url": "https://open.spotify.com/track/47Kzl2db8dVG89s4P4RNMZ"
     },
     {
       "album": {
@@ -289,7 +307,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 140066,
       "name": "Blue Suede Shoes - Rerecorded",
       "url": "https://open.spotify.com/track/54ZYZamhvPMDMngC7RqHAE"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 172293,
       "name": "Can\u00b4t Get It Out of My Mind",
       "url": "https://open.spotify.com/track/5Z1sGA3c1XbY1Qu8Ku9Yz1"
@@ -397,7 +415,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 175679,
       "name": "Chevy 55",
       "url": "https://open.spotify.com/track/2ZIRhZgebost1ImAJfk5Fh"
@@ -455,7 +473,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 197324,
       "name": "Don't Come Knocking on My Door",
       "url": "https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu"
@@ -473,7 +491,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 132400,
       "name": "Drinking Wine Spo-Dee-O-Dee - Single Version",
       "url": "https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm"
@@ -527,7 +545,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 162493,
       "name": "Everybody's Movin'",
       "url": "https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 132970,
       "name": "Get Rhythm",
       "url": "https://open.spotify.com/track/3KB1Z1mQulL4SdJTmrbTyO"
@@ -729,7 +747,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 138840,
       "name": "Hello Mary Lou",
       "url": "https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z"
@@ -765,7 +783,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 150720,
       "name": "Hillbilly Rock'n'Roll",
       "url": "https://open.spotify.com/track/6bzf1xi9QFsdMkFLLZCUCO"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 118512,
       "name": "I'm Gonna Get You",
       "url": "https://open.spotify.com/track/1GgwGCiITPzjzziSVLQK0H"
@@ -927,7 +945,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 179400,
       "name": "Johnny Got A Boom Boom",
       "url": "https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 167132,
       "name": "Little Ol\u00b4 You",
       "url": "https://open.spotify.com/track/37VsUa27pO3zKLjGH3fbXv"
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 217792,
       "name": "Meet Me After Midnight",
       "url": "https://open.spotify.com/track/5v4QQoNX0XbEkOblrMYc88"
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 151493,
       "name": "North Side Gal",
       "url": "https://open.spotify.com/track/7bZkuSIYH7j85RBu6Y4gTe"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 129610,
       "name": "Pretty Bad Blues",
       "url": "https://open.spotify.com/track/52wE6uoCiiMGApFVqKy2JY"
@@ -1338,6 +1356,24 @@
     },
     {
       "album": {
+        "name": "Keb Darge and Little Edith's Legendary Wild Rockers 5",
+        "url": "https://open.spotify.com/album/2wrotF5eXgi7xCCKfqp4Jt"
+      },
+      "artists": [
+        {
+          "name": "Bobby Verne",
+          "url": "https://open.spotify.com/artist/4vV8C8MfhRTOkl4PWVUF06"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154680,
+      "name": "Red Hot Car",
+      "url": "https://open.spotify.com/track/4HoMuhnMw4ATOpfoI1gIym"
+    },
+    {
+      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl"
       },
@@ -1367,7 +1403,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 231586,
       "name": "Rich Little Bitch",
       "url": "https://open.spotify.com/track/12680M4NXeEB27oywHfCxg"
@@ -1457,7 +1493,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 193053,
       "name": "Rockabilly Banjo",
       "url": "https://open.spotify.com/track/0WmZudZaLf7WYOMFD2GGZk"
@@ -1475,7 +1511,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 200146,
       "name": "Rockabilly Blues (Texas 1955)",
       "url": "https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum"
@@ -1605,7 +1641,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 137066,
       "name": "Sag, Drag And Fall",
       "url": "https://open.spotify.com/track/46VlhIMRKTBJS8mcgfLgms"
@@ -1677,7 +1713,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 217853,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/1e1p5hTzbfLDDjumMOzl9w"
@@ -1749,7 +1785,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 125093,
       "name": "Tiger Twist - 2007 Remaster",
       "url": "https://open.spotify.com/track/0WZiGJT2NawjIySdHLzhMx"

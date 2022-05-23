@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 268800,
       "name": "3 Dots",
       "url": "https://open.spotify.com/track/09iyiGsA1NJ8GCHiog5fyj"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 263275,
       "name": "Akimbo",
       "url": "https://open.spotify.com/track/6PmyB4G1A16ccon3Yzw8dF"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 265909,
       "name": "Bad from Morning",
       "url": "https://open.spotify.com/track/4DavmWrcEf9d3sQKkfSTU6"
@@ -209,10 +209,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 246857,
       "name": "Boomerang (Round & Round) - Serum Remix",
       "url": "https://open.spotify.com/track/6472IAXONSb11uwTIGQQoO"
+    },
+    {
+      "album": {
+        "name": "Boxcutter",
+        "url": "https://open.spotify.com/album/56RGAJ1gNow2MQq9wmAc5Y"
+      },
+      "artists": [
+        {
+          "name": "Mistrust",
+          "url": "https://open.spotify.com/artist/1Z3muqdhKuCCpI4yIHXrjA"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269473,
+      "name": "Boxcutter",
+      "url": "https://open.spotify.com/track/5BQThopmr37VEOFW7SScuC"
     },
     {
       "album": {
@@ -271,7 +289,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 275862,
       "name": "Breathe (feat. RZA) - Ren\u00e9 LaVice Dark D&B Remix",
       "url": "https://open.spotify.com/track/1acpIlnD71Anfcy2RXZkm3"
@@ -301,7 +319,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 318171,
       "name": "Buffalo Stance",
       "url": "https://open.spotify.com/track/5fq7ke9BlrOUkpfFNcuvFT"
@@ -389,7 +407,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 267586,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/7HqdGd8YUpnAM2X4A2FBaZ"
@@ -415,7 +433,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 208457,
       "name": "Cool Out Son - Benny Page & Isaac Maya Remix - Edit",
       "url": "https://open.spotify.com/track/1rpw2J5u4jBB6gRow9JyUL"
@@ -455,7 +473,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 271724,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/15AT2NXU53dPGnS568xKEH"
@@ -484,6 +502,24 @@
     },
     {
       "album": {
+        "name": "Dispatch",
+        "url": "https://open.spotify.com/album/13Pl92fjCWnSsEvM0aObcz"
+      },
+      "artists": [
+        {
+          "name": "Samstone",
+          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266409,
+      "name": "Dispatch",
+      "url": "https://open.spotify.com/track/6AYPPVdMJGLLxpBMIFgUWL"
+    },
+    {
+      "album": {
         "name": "Do It Like Me",
         "url": "https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR"
       },
@@ -503,7 +539,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 204364,
       "name": "Do It Like Me",
       "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
@@ -521,10 +557,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 274292,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/2s2uRehkP1H5jqzwiiD8PI"
+    },
+    {
+      "album": {
+        "name": "Dopamine / One Time",
+        "url": "https://open.spotify.com/album/5EGr1peMZY9wFHaS4K2k09"
+      },
+      "artists": [
+        {
+          "name": "Trex",
+          "url": "https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267586,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/1LIiaUqhedu2DyXHRFypCF"
     },
     {
       "album": {
@@ -681,7 +735,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV"
@@ -699,7 +753,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 180000,
       "name": "Free",
       "url": "https://open.spotify.com/track/3UIVHHvzMmAYjH7VIiburn"
@@ -721,7 +775,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 263314,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/6LWjwXoGxkMN9yxOSrguMJ"
@@ -757,7 +811,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 267428,
       "name": "Grape",
       "url": "https://open.spotify.com/track/7wobm0ZyzQHe7G3Q6rzLe3"
@@ -991,7 +1045,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 264685,
       "name": "Is It Possible",
       "url": "https://open.spotify.com/track/6n2P6oGffDzXReGv3boofn"
@@ -1009,7 +1063,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 224914,
       "name": "Journey - VIP 2",
       "url": "https://open.spotify.com/track/1JRjRDsjnBlJMaZ9xyRgXW"
@@ -1063,7 +1117,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 251162,
       "name": "Laser",
       "url": "https://open.spotify.com/track/6A8xdDCg9ZXX7ixqADU4Sp"
@@ -1117,7 +1171,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 185086,
       "name": "Lift Off The Roof",
       "url": "https://open.spotify.com/track/7HcnRj6vM3fQ5xmn3AbJcq"
@@ -1135,7 +1189,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 268939,
       "name": "Lightspeed",
       "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
@@ -1171,7 +1225,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 287120,
       "name": "Made In China",
       "url": "https://open.spotify.com/track/4kDYdTvYFkgfFCE1fz6bEr"
@@ -1211,7 +1265,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 270171,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/2uG8wKppvOFiZdYzVsdpvS"
@@ -1233,7 +1287,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 297931,
       "name": "Mind The Gap - Turno Remix",
       "url": "https://open.spotify.com/track/1lNjAUuNXYwOAyai6uTg0x"
@@ -1301,7 +1355,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 264802,
       "name": "Money Moves - Remix",
       "url": "https://open.spotify.com/track/2hTkKz0ylLXhaEwOdEJxrR"
@@ -1413,7 +1467,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 282517,
       "name": "Owe You",
       "url": "https://open.spotify.com/track/5f3LbqyGnYKRf3VTpN671Z"
@@ -1453,7 +1507,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 268678,
       "name": "Protection",
       "url": "https://open.spotify.com/track/5lTxWs9bkL7d35kqdPDOXd"
@@ -1495,7 +1549,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 226285,
       "name": "Rampage Anthem VIP",
       "url": "https://open.spotify.com/track/0m9BpxJvsHlPTyQta201uF"
@@ -1553,7 +1607,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 274970,
       "name": "Right Behind You",
       "url": "https://open.spotify.com/track/5WIQx4jTbf252m11tgYDT9"
@@ -1711,7 +1765,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 225245,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
@@ -1777,7 +1831,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 275862,
       "name": "Steppa",
       "url": "https://open.spotify.com/track/1SNpDm3SL1p0S7vGWfWBxL"
@@ -1813,7 +1867,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 278620,
       "name": "Synco",
       "url": "https://open.spotify.com/track/7vQSVysNGOOKtBmZ9JvHSz"
@@ -1919,7 +1973,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 181028,
       "name": "Thrill Seekers - Serum Remix",
       "url": "https://open.spotify.com/track/1SMnizgMVh1AYGKsWS29Vf"
@@ -2049,7 +2103,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 226916,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
@@ -2085,7 +2139,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 286896,
       "name": "Why Should I",
       "url": "https://open.spotify.com/track/29Yt9cDIOqlVmdvoYizSb4"
@@ -2143,7 +2197,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 237284,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"

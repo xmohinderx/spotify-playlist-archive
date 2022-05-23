@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: Septicflesh
 
-861 songs - 2 day 10 hr 5 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+862 songs - 2 day 10 hr 8 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,6 +595,7 @@
 | [Rage](https://open.spotify.com/track/5fKQoFnP46hSNH2xD6hlDL) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/2UaM4rE9GCvkjbdrDyqxwu) | 3:54 | 2022-05-20 |  |
 | [Ragnarök \- Era Metallum \- Bonus Track](https://open.spotify.com/track/4qxtyxnidR3BR980jZHUht) | [Corvus Corax](https://open.spotify.com/artist/0Qeg2Ytz5AcfvkIO3RYV3z), [Sabina Classen](https://open.spotify.com/artist/0ZeNt6XxDIXOpr7PffJBVS), [SAMI YLI\-SIRNIO](https://open.spotify.com/artist/5OpE2VHSQsDY77cYQ6uueg) | [Ragnarök \(Era Metallum \- Bonus Track\)](https://open.spotify.com/album/3yjB8quQkW2WYlsk5p2R1h) | 7:36 | 2022-05-06 | 2022-05-13 |
 | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/track/6DWdGTNqa7jeGcAP1yJ8hO) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/album/28BNfedhV05VUB2tVC79tt) | 3:10 | 2022-05-06 | 2022-05-13 |
+| [Raw](https://open.spotify.com/track/7FCVJA2Fam3DiTsgBJoVuk) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Raw](https://open.spotify.com/album/73pyrNaGLPGT8JuHZTSfv9) | 3:42 | 2022-05-20 |  |
 | [Ready For Combat](https://open.spotify.com/track/34RHmNnis0bWZmn9HOKe3q) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Ready For Combat](https://open.spotify.com/album/4sVipMfVh5gHq0YODoMj6E) | 3:08 | 2022-04-15 | 2022-04-22 |
 | [Rebirth](https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Rebirth](https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm) | 4:01 | 2022-01-14 | 2022-02-11 |
 | [Reborn Paradise](https://open.spotify.com/track/5jg1xRSLlxRQEjClsHnMb1) | [Deserted Fear](https://open.spotify.com/artist/3CDoiu519MbxFWcwRFH7cH) | [Reborn Paradise](https://open.spotify.com/album/7i5AQIVHiZApzRnoZYmgsa) | 4:58 | 2022-01-21 | 2022-02-18 |

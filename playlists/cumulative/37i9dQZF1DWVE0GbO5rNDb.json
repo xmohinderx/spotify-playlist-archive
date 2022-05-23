@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 165853,
       "name": "Bangene",
       "url": "https://open.spotify.com/track/5zOPtrHceMJO6ydtLPvObb"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 173214,
       "name": "Caught Up (with Olivia O'Brien)",
       "url": "https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 169901,
       "name": "Closer (feat. Lilly Ahlberg)",
       "url": "https://open.spotify.com/track/5FDdviWQzhw7NWH2TiDl9d"
@@ -592,6 +592,28 @@
     },
     {
       "album": {
+        "name": "Conversations with Myself",
+        "url": "https://open.spotify.com/album/1vuWHMUps3Vv82nHXaK7pP"
+      },
+      "artists": [
+        {
+          "name": "Alessia Labate",
+          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
+        },
+        {
+          "name": "R I V I E R A",
+          "url": "https://open.spotify.com/artist/5I90qYDTQGW8PouvhwSvCm"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193944,
+      "name": "Conversations with Myself",
+      "url": "https://open.spotify.com/track/6qPrflyKbyU6LTe6p75Dnc"
+    },
+    {
+      "album": {
         "name": "DANCE",
         "url": "https://open.spotify.com/album/4YIOg7I2h6ISBGXijrVtLi"
       },
@@ -607,7 +629,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 174448,
       "name": "DANCE",
       "url": "https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J"
@@ -725,7 +747,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 189919,
       "name": "Emily",
       "url": "https://open.spotify.com/track/1iBRYT9Tq6v3qEqGL1wdtn"
@@ -747,7 +769,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
@@ -823,7 +845,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 184390,
       "name": "For Your Love",
       "url": "https://open.spotify.com/track/6viAMV0RuBb5nmzpPlYMAJ"
@@ -863,7 +885,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 165326,
       "name": "Getting Started (na Na Na)",
       "url": "https://open.spotify.com/track/1pnrvsZv43qQXlrI7v8OYF"
@@ -903,7 +925,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 151935,
       "name": "Got You For Life",
       "url": "https://open.spotify.com/track/4kln9ecLNpOwjIiueHy7Yq"
@@ -1141,7 +1163,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 167307,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4"
@@ -1313,7 +1335,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 168625,
       "name": "Jaleen",
       "url": "https://open.spotify.com/track/23VuPmeXay3jatu8wwBXjc"
@@ -1431,7 +1453,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 160174,
       "name": "Knew That Second",
       "url": "https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt"
@@ -1519,10 +1541,36 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 163462,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/3sd8ZC1ZQuMg2ZLC7L7BCi"
+    },
+    {
+      "album": {
+        "name": "Lights On",
+        "url": "https://open.spotify.com/album/7dRL1T9Yw89hG6lEc5ZuGJ"
+      },
+      "artists": [
+        {
+          "name": "Saxity",
+          "url": "https://open.spotify.com/artist/1jG8sNQCiRuv1Nz1GiFlax"
+        },
+        {
+          "name": "BoyBoyBoy",
+          "url": "https://open.spotify.com/artist/10V0YVsp2S6F0mGSpD2t0E"
+        },
+        {
+          "name": "Bonny Lauren",
+          "url": "https://open.spotify.com/artist/14C0HynGq0YJsXrQAEclN3"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156121,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/1dMbhY5hzVJVQGIJY6r5FC"
     },
     {
       "album": {
@@ -1676,6 +1724,24 @@
     },
     {
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/3NkinGi0Fv1BPYhh06hzjU"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187990,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/7GRfEf5BG1OCSMpeVotldQ"
+    },
+    {
+      "album": {
         "name": "My Bed (feat. RBVLN)",
         "url": "https://open.spotify.com/album/5aUPakJYEkXMj4Mb6KX1DV"
       },
@@ -1787,7 +1853,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 181741,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/4kd8NJrrfzzPvarSre2yAu"
@@ -1997,7 +2063,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 174584,
       "name": "Open Road",
       "url": "https://open.spotify.com/track/76XfhJUwsSxG7VTI7zbRXW"
@@ -2085,6 +2151,24 @@
       "duration_ms": 160343,
       "name": "Parrot Cay",
       "url": "https://open.spotify.com/track/24CU3VcY0KpF4frH20OY4x"
+    },
+    {
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/0Dinqv4TyYKaBJO23UVdCk"
+      },
+      "artists": [
+        {
+          "name": "Nair",
+          "url": "https://open.spotify.com/artist/5RUXLGO2P1QXmJZx6z20FE"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/0O1vEphpfuUwEN4bFk3f8q"
     },
     {
       "album": {
@@ -2467,7 +2551,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 145920,
       "name": "Steady for You",
       "url": "https://open.spotify.com/track/4d1itg8OaWVQ2e1xTnqGVy"

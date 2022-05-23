@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: High Valley
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,669 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,749 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 99 | ['Til I Found You](https://open.spotify.com/track/5F8fkq6eg0P2n51hWOwcVM) | [David Boyd Janes](https://open.spotify.com/artist/5GxnWuuTpzdnPb57PFxUHM) | [Drove Me Country](https://open.spotify.com/album/5C3a2kGzGVYlWgkWUsp6vD) | 3:19 |
 | 100 | [Bloodlines](https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Bloodlines](https://open.spotify.com/album/6wjDPPN67TFsvIKWafu7Zz) | 3:53 |
 
-Snapshot ID: `MTY1MzE4MTExOCwwMDAwMDAwMDgzNzI4YTQyOGI5NTgzN2E1NTE3YzhkMGE4YWU1NjAw`
+Snapshot ID: `MTY1MzI2ODUwNSwwMDAwMDAwMDgzNzI4YTQyOGI5NTgzN2E1NTE3YzhkMGE4YWU1NjAw`

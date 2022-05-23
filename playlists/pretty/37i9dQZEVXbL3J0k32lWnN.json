@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 181422,
+  "num_followers": 181473,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA2NDQ1MzI1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA2NTM0MDU4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "Mucki Bar",
         "url": "https://open.spotify.com/album/3pYdHv18QdrVPTldybOpSk"
@@ -41,7 +25,7 @@
       "url": "https://open.spotify.com/track/31dynF6Vm6s6cLsHEBL8kp"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "STOR MAND",
         "url": "https://open.spotify.com/album/0ZjlCteIeQUApCh9TqoRPA"
@@ -61,7 +45,23 @@
       "url": "https://open.spotify.com/track/56Ua2ypj5HWnotoIF3lEHc"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "hjem fra fabrikken",
         "url": "https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd"
@@ -77,39 +77,7 @@
       "url": "https://open.spotify.com/track/5Mx9Hf6G4nZoTp5Ll9AH73"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "N\u00e5r M\u00e6nd Gr\u00e6der",
-        "url": "https://open.spotify.com/album/5Hk2j3xL9WIU3oE7TWoBsv"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        }
-      ],
-      "duration_ms": 211198,
-      "name": "N\u00e5r M\u00e6nd Gr\u00e6der",
-      "url": "https://open.spotify.com/track/1bIxLnZasVLJbol55wDU5r"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "Danser",
         "url": "https://open.spotify.com/album/5aIMBNbI3Qyno8HCRWP6iv"
@@ -125,7 +93,23 @@
       "url": "https://open.spotify.com/track/5uPv6fOsHPC8ZqxRKElxMP"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "N\u00e5r M\u00e6nd Gr\u00e6der",
+        "url": "https://open.spotify.com/album/5Hk2j3xL9WIU3oE7TWoBsv"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "duration_ms": 211198,
+      "name": "N\u00e5r M\u00e6nd Gr\u00e6der",
+      "url": "https://open.spotify.com/track/1bIxLnZasVLJbol55wDU5r"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "L\u00e5gsus For Evigt",
         "url": "https://open.spotify.com/album/5BsIA40eamUa23jQyAp3d1"
@@ -149,7 +133,7 @@
       "url": "https://open.spotify.com/track/1lARru9E0ESa5lZchy1Rvm"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "DR\u00d8M MIG V\u00c6K",
         "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
@@ -165,7 +149,23 @@
       "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -181,39 +181,7 @@
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "BLUE LAGOON",
-        "url": "https://open.spotify.com/album/75hmQdBclHOXLdb7G7uFob"
-      },
-      "artists": [
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        }
-      ],
-      "duration_ms": 145089,
-      "name": "BLUE LAGOON",
-      "url": "https://open.spotify.com/track/0QPbPIyuUB4Jdm0vjCIVJV"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Music For a Sushi Restaurant",
-      "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "Infinity Action",
         "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
@@ -229,7 +197,23 @@
       "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "BLUE LAGOON",
+        "url": "https://open.spotify.com/album/75hmQdBclHOXLdb7G7uFob"
+      },
+      "artists": [
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "duration_ms": 145089,
+      "name": "BLUE LAGOON",
+      "url": "https://open.spotify.com/track/0QPbPIyuUB4Jdm0vjCIVJV"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
@@ -245,7 +229,7 @@
       "url": "https://open.spotify.com/track/6e7KGsngU13kguy5hTvSxe"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "Er Det For Sent? (feat. TopGunn) - Remix",
         "url": "https://open.spotify.com/album/5gfJBCODehnpEB4lhfquUj"
@@ -265,7 +249,7 @@
       "url": "https://open.spotify.com/track/1k7bDVNh318BxL8gFeLd8N"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
@@ -281,7 +265,7 @@
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -292,92 +276,28 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 191958,
-      "name": "Grapejuice",
-      "url": "https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0"
+      "duration_ms": 193813,
+      "name": "Music For a Sushi Restaurant",
+      "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "f\u00f8ler mig selv 100",
+        "url": "https://open.spotify.com/album/14mdiNcBOtukgLcOgNMdzF"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
         }
       ],
-      "duration_ms": 245964,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+      "duration_ms": 207288,
+      "name": "f\u00f8ler mig selv 100",
+      "url": "https://open.spotify.com/track/7iuM7vnvSjX9qqcuFtij1T"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "DRIPPY",
-        "url": "https://open.spotify.com/album/4gya2SSwGp1nydI7O2yqvD"
-      },
-      "artists": [
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
-        }
-      ],
-      "duration_ms": 194575,
-      "name": "DRIPPY",
-      "url": "https://open.spotify.com/track/15UqDIySHN7BlafyZzzD4s"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 195950,
-      "name": "N95",
-      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 164533,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 202183,
-      "name": "Little Freak",
-      "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
@@ -397,7 +317,23 @@
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "DRIPPY",
+        "url": "https://open.spotify.com/album/4gya2SSwGp1nydI7O2yqvD"
+      },
+      "artists": [
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "duration_ms": 194575,
+      "name": "DRIPPY",
+      "url": "https://open.spotify.com/track/15UqDIySHN7BlafyZzzD4s"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "Held & Lykke Med At Komme Hjem",
         "url": "https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ"
@@ -417,23 +353,7 @@
       "url": "https://open.spotify.com/track/6BxGGPBdNexcy53euZsrga"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "f\u00f8ler mig selv 100",
-        "url": "https://open.spotify.com/album/14mdiNcBOtukgLcOgNMdzF"
-      },
-      "artists": [
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 207288,
-      "name": "f\u00f8ler mig selv 100",
-      "url": "https://open.spotify.com/track/7iuM7vnvSjX9qqcuFtij1T"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -444,60 +364,28 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 194543,
-      "name": "Boyfriends",
-      "url": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ"
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 243507,
-      "name": "Cinema",
-      "url": "https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v"
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 191638,
-      "name": "Love Of My Life",
-      "url": "https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 187342,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "Mere End Musik",
         "url": "https://open.spotify.com/album/1nwiXLlvr8dLlh5XVOrwD9"
@@ -525,59 +413,55 @@
       "url": "https://open.spotify.com/track/2GajeoOS17ifAmYX8xxPZw"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
-        "name": "Like It",
-        "url": "https://open.spotify.com/album/4HBzg9wOXmO2mNS7qNWf7v"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Lasse Skriver",
-          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 165330,
-      "name": "Like It",
-      "url": "https://open.spotify.com/track/5cKKhLrACXi9bVMxrMki75"
+      "duration_ms": 202183,
+      "name": "Little Freak",
+      "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 216410,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
+      "duration_ms": 191958,
+      "name": "Grapejuice",
+      "url": "https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
-        "name": "Cooped Up",
-        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 185857,
-      "name": "Cooped Up (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
+      "duration_ms": 164533,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -597,71 +481,39 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
-        "name": "K\u00e6rlighed I Luften",
-        "url": "https://open.spotify.com/album/74O34YsHxesDMmiPUgtYDR"
+        "name": "Like It",
+        "url": "https://open.spotify.com/album/4HBzg9wOXmO2mNS7qNWf7v"
       },
       "artists": [
         {
-          "name": "Jimilian",
-          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
+          "name": "Lasse Skriver",
+          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
         }
       ],
-      "duration_ms": 183278,
-      "name": "K\u00e6rlighed I Luften",
-      "url": "https://open.spotify.com/track/2xtNOow6ra2MYH35t3zbJf"
+      "duration_ms": 165330,
+      "name": "Like It",
+      "url": "https://open.spotify.com/track/5cKKhLrACXi9bVMxrMki75"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 218577,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
+      "duration_ms": 216410,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 151891,
-      "name": "Miami Vicer",
-      "url": "https://open.spotify.com/track/3a6GwXyS27Phmpr9XMv1h7"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 140241,
-      "name": "Keep Driving",
-      "url": "https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
@@ -677,7 +529,95 @@
       "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "K\u00e6rlighed I Luften",
+        "url": "https://open.spotify.com/album/74O34YsHxesDMmiPUgtYDR"
+      },
+      "artists": [
+        {
+          "name": "Jimilian",
+          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
+        }
+      ],
+      "duration_ms": 183278,
+      "name": "K\u00e6rlighed I Luften",
+      "url": "https://open.spotify.com/track/2xtNOow6ra2MYH35t3zbJf"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "F*CK LOVE 3: OVER YOU",
+        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 151891,
+      "name": "Miami Vicer",
+      "url": "https://open.spotify.com/track/3a6GwXyS27Phmpr9XMv1h7"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 243507,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "Cooped Up",
+        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 185857,
+      "name": "Cooped Up (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "From Paris to Berlin (feat. Branco & Jimilian)",
         "url": "https://open.spotify.com/album/76sA4WxmGHNNLUjQX2pbIQ"
@@ -701,99 +641,23 @@
       "url": "https://open.spotify.com/track/6bldUK7gjgeHbpxxoXd1xv"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
-        "name": "Hurtless",
-        "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 180274,
-      "name": "Hurtless",
-      "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
+      "duration_ms": 191638,
+      "name": "Love Of My Life",
+      "url": "https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Amanda Reifer",
-          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Die Hard",
-      "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "Har Det Fucking Godt",
-        "url": "https://open.spotify.com/album/2BmK8RyqMfaQiz0gRPfNAr"
-      },
-      "artists": [
-        {
-          "name": "Jimilian",
-          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
-        }
-      ],
-      "duration_ms": 158142,
-      "name": "Har Det Fucking Godt",
-      "url": "https://open.spotify.com/track/3NxlOtyM9V95ZhqRZGZdw7"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
-      "album": {
-        "name": "HYGGE MYGGE",
-        "url": "https://open.spotify.com/album/4rKa3KaGe8wg90d9Vpni7i"
-      },
-      "artists": [
-        {
-          "name": "RH",
-          "url": "https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ"
-        }
-      ],
-      "duration_ms": 134722,
-      "name": "HYGGE MYGGE",
-      "url": "https://open.spotify.com/track/11AZDeHTCik5zXmZAFzDST"
-    },
-    {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
@@ -817,7 +681,55 @@
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 194543,
+      "name": "Boyfriends",
+      "url": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 187342,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "Hurtless",
+        "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 180274,
+      "name": "Hurtless",
+      "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -833,23 +745,23 @@
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
-        "name": "Hensigt",
-        "url": "https://open.spotify.com/album/0sBhlKHwZwJ1X7kcCP8Pqv"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Hensigt",
-      "url": "https://open.spotify.com/track/4b5qKstcv1JIha4xuq89iD"
+      "duration_ms": 218577,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -865,7 +777,23 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-05-21 10:48:45",
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "Har Det Fucking Godt",
+        "url": "https://open.spotify.com/album/2BmK8RyqMfaQiz0gRPfNAr"
+      },
+      "artists": [
+        {
+          "name": "Jimilian",
+          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
+        }
+      ],
+      "duration_ms": 158142,
+      "name": "Har Det Fucking Godt",
+      "url": "https://open.spotify.com/track/3NxlOtyM9V95ZhqRZGZdw7"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
       "album": {
         "name": "BO4L",
         "url": "https://open.spotify.com/album/3JE1v19SrHzxmZAbf8iHkZ"
@@ -883,6 +811,70 @@
       "duration_ms": 228590,
       "name": "Bl\u00e5 Himmel (feat. Hans Philip)",
       "url": "https://open.spotify.com/track/0qA2qykpcGdVl3tiiYum4g"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 140241,
+      "name": "Keep Driving",
+      "url": "https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "hjem fra fabrikken",
+        "url": "https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd"
+      },
+      "artists": [
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 198606,
+      "name": "i morgen er der ogs\u00e5 en dag",
+      "url": "https://open.spotify.com/track/1zTLgT9jFwTuwrFFcOqXNw"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "Hensigt",
+        "url": "https://open.spotify.com/album/0sBhlKHwZwJ1X7kcCP8Pqv"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Hensigt",
+      "url": "https://open.spotify.com/track/4b5qKstcv1JIha4xuq89iD"
+    },
+    {
+      "added_at": "2022-05-22 11:27:38",
+      "album": {
+        "name": "HYGGE MYGGE",
+        "url": "https://open.spotify.com/album/4rKa3KaGe8wg90d9Vpni7i"
+      },
+      "artists": [
+        {
+          "name": "RH",
+          "url": "https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ"
+        }
+      ],
+      "duration_ms": 134722,
+      "name": "HYGGE MYGGE",
+      "url": "https://open.spotify.com/track/11AZDeHTCik5zXmZAFzDST"
     }
   ],
   "unique_name": "Top 50 - Denmark",

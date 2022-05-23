@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,948 likes - 90 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,019 likes - 90 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 14 | [Bahja](https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [Bahja](https://open.spotify.com/album/5YfzAebZkmbl3DOrUjshDd) | 4:17 |
 | 15 | [Lua \- Pippi Ciez Retake](https://open.spotify.com/track/4ufLhIy7LcTO1gD0aoM7pU) | [Djamou Sangare](https://open.spotify.com/artist/7MIDaIHvsSEayCv0pw3okp), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Pippi Ciez](https://open.spotify.com/artist/46aDUWf82wQR9U9G0k3J1v) | [Lua](https://open.spotify.com/album/0Hc205wUJI8fIBXNku5BEQ) | 7:47 |
 | 16 | [Nabad](https://open.spotify.com/track/7wEmAzcAIKXhS1JnKP81Pe) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Helem](https://open.spotify.com/album/6hsfOW3mF5VGwLL3tEpsig) | 6:26 |
-| 17 | [Mulajia \- Live](https://open.spotify.com/track/7pFNRS6v5DFPSgeVnkiVEu) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ \(Live\)](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 6:23 |
+| 17 | [Mulajia \- Live Album](https://open.spotify.com/track/7pFNRS6v5DFPSgeVnkiVEu) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 6:23 |
 | 18 | [Hamdouchia \- Yamil Remix](https://open.spotify.com/track/4ZnXnJBnVPEStdMzLTEnfM) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Hamdouchia \(Yamil Remix\)](https://open.spotify.com/album/51oPEqh2uOoTNxh7aEO56r) | 6:31 |
 | 19 | [Kaneba](https://open.spotify.com/track/01dnvO2H3SxeUxFgUtY7sM) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [mo'vibes \(Various Artists\)](https://open.spotify.com/album/41wFtS7hhKWuI5U3GQdvs3) | 7:16 |
 | 20 | [Ya Sidi \- Valeron Remix](https://open.spotify.com/track/1j19dP73P1n6LJ8bgVyr9T) | [Sound Of Mint](https://open.spotify.com/artist/1YTxtF8PYrZhWBdqUE9cHz), [Farasha](https://open.spotify.com/artist/1Qk832rj0IX2RhEKz4mko3), [Yahya](https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX), [Sami Chaouki](https://open.spotify.com/artist/6YEoLEd7EaY6Ti9ncefeiB), [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Ya Sidi \(Valeron Remix\)](https://open.spotify.com/album/2S6gresnCHFsbyIShyFckC) | 4:22 |

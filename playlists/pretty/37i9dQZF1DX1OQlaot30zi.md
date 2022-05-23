@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Villabanks, Shiva, tha Supreme, Gemitaiz e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,202 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,244 likes - 74 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 70 | [INFERNO](https://open.spotify.com/track/0szzRRLpv3a12r6PpxUaXR) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [INFERNO](https://open.spotify.com/album/6o4al1P3jzC6JwYGUAmqKS) | 2:00 |
 | 71 | [Italiano Anthem](https://open.spotify.com/track/0oMq1JmynUHMCOfH40k7B8) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Italiano Anthem](https://open.spotify.com/album/0lv5APWWEFXdXjUXNOKaZx) | 2:15 |
 | 72 | [No Joke \(feat\. MadMan\)](https://open.spotify.com/track/3PFDJgtrBif1ORn5As2hly) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [AMBIZIONE](https://open.spotify.com/album/7ojtnqVHOa5Z5GvUHWqfzL) | 2:24 |
-| 73 | [SE MI VUOI RISPONDI](https://open.spotify.com/track/4hvFntfCUxVUFXrRjepCHa) | [HOOD](https://open.spotify.com/artist/5IbmWnYEykGQK5N8pUn8ng) | [SANT'EMERENZIANA](https://open.spotify.com/album/1qRqXo0KwYfDxTAnVW9bfU) | 2:55 |
-| 74 | [Suavemente](https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Suavemente](https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al) | 2:37 |
-| 75 | [AU REVOIR \(feat\. Guè, Rose Villain, JVLI\)](https://open.spotify.com/track/05vUar73P3iMZUr40QLJWT) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [PLC tape 1](https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF) | 2:21 |
+| 73 | [Suavemente](https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Suavemente](https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al) | 2:37 |
+| 74 | [AU REVOIR \(feat\. Guè, Rose Villain, JVLI\)](https://open.spotify.com/track/05vUar73P3iMZUr40QLJWT) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [PLC tape 1](https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF) | 2:21 |
 
-Snapshot ID: `MTY1Mjk5NzY2MCwwMDAwMDEyNjAwMDAwMTgwZGU1NjllMjMwMDAwMDE4MGQ4MDJjOWFm`
+Snapshot ID: `MTY1MzI1Njg2MCwwMDAwMDEyNzAwMDAwMTgwZWRjOWI0MTAwMDAwMDE4MGQ4MDJjOWFm`

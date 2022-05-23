@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 160482,
       "name": "Amazon Prime",
       "url": "https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 306461,
       "name": "Boss",
       "url": "https://open.spotify.com/track/3zJWjSpQ4HFGUjcjAWl5dQ"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 212354,
       "name": "Casual",
       "url": "https://open.spotify.com/track/1fg8X5xFJIkICvQ3rgIP3L"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 267000,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/685VvVtdY4Nhr6PcWW1Zyl"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 246857,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/6rFCbfnOPMjICtT8523Ayg"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 267400,
       "name": "Famous",
       "url": "https://open.spotify.com/track/7bjIa3yn21479pGIuu35F9"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 207360,
       "name": "Flow (Habstrakt Remix)",
       "url": "https://open.spotify.com/track/3YrHn8rV4DSyMjryTLIxo0"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 248437,
       "name": "Fly With Us",
       "url": "https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 179076,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/2bnpB2SaoYdnVCAxQbSAuO"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 157500,
       "name": "Icon",
       "url": "https://open.spotify.com/track/3FzRX9CTMgu2Qn1wHE6ygo"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 198372,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
@@ -1486,6 +1486,28 @@
     },
     {
       "album": {
+        "name": "New Sound",
+        "url": "https://open.spotify.com/album/6hFa25T9qKTFXkNbnxEoEZ"
+      },
+      "artists": [
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+        },
+        {
+          "name": "JC Stormz",
+          "url": "https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157142,
+      "name": "New Sound",
+      "url": "https://open.spotify.com/track/5N4ZOiQb2HV0ds016EUWLY"
+    },
+    {
+      "album": {
         "name": "Next To Me",
         "url": "https://open.spotify.com/album/3nka8AII7gkg1FYeMsCvRG"
       },
@@ -1591,7 +1613,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 255500,
       "name": "Only Fans - DJ Q Remix",
       "url": "https://open.spotify.com/track/2ETxl4UkDnOdaq7FUjFxkY"
@@ -1653,7 +1675,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 210001,
       "name": "Perfect Crime",
       "url": "https://open.spotify.com/track/3F4LO2MlLyZ5oAJjpsw89J"
@@ -1719,6 +1741,28 @@
       "duration_ms": 190348,
       "name": "Put It On Me (feat. Mila Falls)",
       "url": "https://open.spotify.com/track/1VO8LC2PyM13d1LxE6KLSc"
+    },
+    {
+      "album": {
+        "name": "Really Tight",
+        "url": "https://open.spotify.com/album/4evpx8ar7Xbug4dVplQEuZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Dennett",
+          "url": "https://open.spotify.com/artist/5f7lKAhAKynUn5rDtKEYrZ"
+        },
+        {
+          "name": "Sando",
+          "url": "https://open.spotify.com/artist/152q8WNuDxIG0nQRKUE5u8"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244444,
+      "name": "Really Tight",
+      "url": "https://open.spotify.com/track/7ujg8bHt60KQSH5LrKaX9L"
     },
     {
       "album": {
@@ -1969,7 +2013,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 268620,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/6ECB01l2JrXC9zSMjbu3Qb"
@@ -2111,7 +2155,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 188307,
       "name": "Wanna Freak",
       "url": "https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q"
@@ -2183,7 +2227,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 165000,
       "name": "Who's Got The Bag",
       "url": "https://open.spotify.com/track/0fquu5CejT76HhQejc6q7v"

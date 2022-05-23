@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: ARDN
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,380 likes - 51 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,442 likes - 51 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
