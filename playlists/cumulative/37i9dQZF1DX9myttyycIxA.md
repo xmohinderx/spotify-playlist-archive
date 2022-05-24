@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Porridge Radio
 
-466 songs - 1 day 2 hr 26 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+467 songs - 1 day 2 hr 30 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Bodysurfing](https://open.spotify.com/track/0bzx5Wcd20O3STx0cdP755) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Always Repeating](https://open.spotify.com/album/0GmKKh1yQBjJycHkMGUBPp) | 3:44 | 2021-07-16 | 2022-03-27 |
 | [Bon Iver](https://open.spotify.com/track/4fJH2cQ814gSzPZ9buADfK) | [Aubrey Key](https://open.spotify.com/artist/4Y5o0OEWjquf3Npdb8OANS) | [Bon Iver](https://open.spotify.com/album/2dK6nHgb0gkObpLau5FlK9) | 1:02 | 2021-08-27 | 2022-02-16 |
 | [boundary issues](https://open.spotify.com/track/67dPtaJRVciLNPYs0FmlmB) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [the second ep](https://open.spotify.com/album/4MFtzUINsQ7UaPQLKo3501) | 3:14 | 2021-10-02 | 2022-04-29 |
+| [Brooklyn Baby](https://open.spotify.com/track/4pV0fLXSZLHnEzPoOYX55T) | [Flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Halfway / Brooklyn Baby](https://open.spotify.com/album/4mBmTU89uQZ0BSufoeWTXK) | 3:34 | 2022-05-23 |  |
 | [bundle of hyacinths \(feat\. Samia\)](https://open.spotify.com/track/2SQ0rlJIzZSnDQTekYQhsw) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [bundle of hyacinths \(feat\. Samia\)](https://open.spotify.com/album/0rhiRlJCfhHrG585XAsBgL) | 3:03 | 2021-03-05 | 2022-03-21 |
 | [By Your Side](https://open.spotify.com/track/0Vwc4ONQtM3dEVcCMnLDHc) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [By Your Side / Destroy You](https://open.spotify.com/album/1eMgkeDfHK9QvIk0NYuKcv) | 3:19 | 2022-03-26 |  |
 | [C'mon Be Cool](https://open.spotify.com/track/5WEvpHhaLnH1ScM4A1nDzC) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [C'mon Be Cool](https://open.spotify.com/album/4EimlD1OXtXp0GGHFQ1yGv) | 3:15 | 2021-04-13 | 2022-04-27 |

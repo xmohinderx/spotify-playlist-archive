@@ -1460,6 +1460,24 @@
     },
     {
       "album": {
+        "name": "Oui Oui",
+        "url": "https://open.spotify.com/album/7pfjDS1yHElsYKni049KL8"
+      },
+      "artists": [
+        {
+          "name": "Jaylann",
+          "url": "https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Oui Oui",
+      "url": "https://open.spotify.com/track/6RSzvqWsZHJi0Gd6y6RE5f"
+    },
+    {
+      "album": {
         "name": "Porfavor",
         "url": "https://open.spotify.com/album/0q83zWh0GQLgiGUl7U5wAs"
       },

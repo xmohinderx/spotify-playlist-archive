@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-670 songs - 1 day 11 hr 19 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+671 songs - 1 day 11 hr 22 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Hver Gang](https://open.spotify.com/track/444QL7u04SrHw1ioOj95zr) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [INTET TIL ALT](https://open.spotify.com/album/5wagiEPQo04yRElo1K9iql) | 2:21 | 2022-02-19 | 2022-02-25 |
 | [Hvor Fuck Er Min Drink? \(Artigeardit X Lamin\)](https://open.spotify.com/track/30KGnbcvT3AccikrqNKmek) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Hvor Fuck Er Min Drink? \(Artigeardit X Lamin\)](https://open.spotify.com/album/5ZEG6UxnoC4X9X60TT5GoA) | 2:19 | 2021-10-10 | 2021-10-21 |
 | [Hvor Fuck Er Min Drink? \(Artigeardit X Lamin\)](https://open.spotify.com/track/5JpI77kH18RMNM0WmPtx99) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Ny Agenda](https://open.spotify.com/album/04DGAw94srEOUmHovIOyWW) | 2:19 | 2021-10-21 | 2022-05-03 |
+| [Hvor Har Du Lært Det](https://open.spotify.com/track/7zBD2Y6xoOMgm4ftGHFWfW) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Hvor Har Du Lært Det](https://open.spotify.com/album/5kkb92eCnhK5bJPDKEUB2d) | 2:18 | 2022-05-23 |  |
 | [Hvor Vi Fra](https://open.spotify.com/track/749czLOsKVhocGuNaF87WK) | [Landsholdet](https://open.spotify.com/artist/3pUk1ndVKDCVrXXUhVONOf), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [B\-Boys](https://open.spotify.com/artist/0VCBHwEXckS4LgmgGl0RJU), [Birthe Kjær](https://open.spotify.com/artist/0IfpyCP48pZ9kkFVSeHbC5) | [Danske Fodboldsange](https://open.spotify.com/album/5h6UgLuiatq2Tetg0Jw4rE) | 3:19 | 2021-07-05 | 2021-07-10 |
 | [HYGGE MYGGE](https://open.spotify.com/track/11AZDeHTCik5zXmZAFzDST) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [HYGGE MYGGE](https://open.spotify.com/album/4rKa3KaGe8wg90d9Vpni7i) | 2:14 | 2022-03-26 |  |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2021-12-28 | 2022-01-08 |
@@ -306,7 +307,7 @@
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2021-08-27 | 2021-09-26 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-28 | 2022-01-01 |
 | [I Heard You’re Married \(feat\. Lil Wayne\)](https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 4:23 | 2022-01-08 | 2022-01-10 |
-| [i morgen er der også en dag](https://open.spotify.com/track/1zTLgT9jFwTuwrFFcOqXNw) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [hjem fra fabrikken](https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd) | 3:18 | 2022-03-05 |  |
+| [i morgen er der også en dag](https://open.spotify.com/track/1zTLgT9jFwTuwrFFcOqXNw) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [hjem fra fabrikken](https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd) | 3:18 | 2022-03-05 | 2022-05-24 |
 | [i morgen er der også en dag](https://open.spotify.com/track/06h2UnXLG2B0d3gRubMGNI) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [i morgen er der også en dag](https://open.spotify.com/album/5XofcmugnKHnyCsFBI9nDl) | 3:19 | 2021-04-24 | 2022-03-06 |
 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 | 2021-05-16 | 2021-05-21 |
 | [I Still Have Faith In You](https://open.spotify.com/track/3ddxe0WYUpNPtSnHgQOad5) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [I Still Have Faith In You / Don't Shut Me Down](https://open.spotify.com/album/02hUNciNYPRn4Fk5tY4toP) | 5:10 | 2021-09-05 | 2021-09-09 |

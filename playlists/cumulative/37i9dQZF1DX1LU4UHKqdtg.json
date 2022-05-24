@@ -1552,6 +1552,24 @@
     },
     {
       "album": {
+        "name": "How Come",
+        "url": "https://open.spotify.com/album/47auHySKFWcInG4hDJTWAi"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217186,
+      "name": "How Come",
+      "url": "https://open.spotify.com/track/7uGuwtEGapMzkiRRl4O32a"
+    },
+    {
+      "album": {
         "name": "Rookie Cops (Original Television Soundtrack) Special",
         "url": "https://open.spotify.com/album/1NJCW55EE56cOKkDA5RI49"
       },
@@ -2100,6 +2118,24 @@
     },
     {
       "album": {
+        "name": "GOT7",
+        "url": "https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "NANANA",
+      "url": "https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ"
+    },
+    {
+      "album": {
         "name": "Need U",
         "url": "https://open.spotify.com/album/7F4uRzCZEm3TbUXsMfYFe2"
       },
@@ -2165,7 +2201,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 172936,
       "name": "O.O",
       "url": "https://open.spotify.com/track/1m2PksrrMpIev63uPxT1V0"
@@ -2967,7 +3003,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 195413,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd"

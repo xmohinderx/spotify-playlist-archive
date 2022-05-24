@@ -37,7 +37,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 199360,
       "name": "2 + 2 = 5",
       "url": "https://open.spotify.com/track/6EIVp9Arb1aAkFgro6UTlt"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 237400,
       "name": "42",
       "url": "https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 133333,
       "name": "A Picture Of Dorian Gray",
       "url": "https://open.spotify.com/track/7cIqQuICcPHoOqm9HD5lfY"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 401101,
       "name": "Billy Liar - Live",
       "url": "https://open.spotify.com/track/5H84IgNRpdyqgCMLteZFfs"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 300306,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6B7HkOXoB3c0MoXk7C9i07"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 284008,
       "name": "Calypso - Live",
       "url": "https://open.spotify.com/track/10kv6ITXZNukjUE1GxJu8N"
@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Innocence Is Kinky",
+        "url": "https://open.spotify.com/album/73qshwiwldg5avb8ox1BQT"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215533,
+      "name": "Death Of The Author",
+      "url": "https://open.spotify.com/track/4mcDWFiTDWIPJmXytF38UQ"
+    },
+    {
+      "album": {
         "name": "Document - 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7"
       },
@@ -235,7 +253,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 213973,
       "name": "Disturbance At The Heron House - Remastered",
       "url": "https://open.spotify.com/track/3kL3FV7NPNfzgVeiG753r6"
@@ -253,7 +271,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 290760,
       "name": "Doublespeak",
       "url": "https://open.spotify.com/track/5A3LfRNlvin0EtYj6mQbn4"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 191080,
       "name": "Eveline",
       "url": "https://open.spotify.com/track/5rbB234M0EaapxiDqOUyby"
@@ -415,7 +433,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 255756,
       "name": "I'm Writing A Novel - Spotify Sessions Curated by Jim Eno",
       "url": "https://open.spotify.com/track/1QIOQ3XARduygQqRIif0f7"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 174453,
       "name": "Love and Destroy - Live",
       "url": "https://open.spotify.com/track/3ml0GdsJ9DvDESGbzXoAO3"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 275080,
       "name": "No Poem",
       "url": "https://open.spotify.com/track/3FYKFB7FHN63hD3idN9kiO"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 224933,
       "name": "Open Book",
       "url": "https://open.spotify.com/track/3vmgOwQdZTbdT1W54eeEy0"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 295413,
       "name": "Orpheo Looks Back",
       "url": "https://open.spotify.com/track/33NsXvwapmDA93cHM73G6L"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 392506,
       "name": "Pattern Recognition",
       "url": "https://open.spotify.com/track/5UaqCqloqMJN0tmHlnMpMy"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 203091,
       "name": "Postdoc Blues",
       "url": "https://open.spotify.com/track/7EwsFukgOtMzcXjL6BZVJD"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 229226,
       "name": "Read, Eat, Sleep",
       "url": "https://open.spotify.com/track/1EUUhXljq9QUJONkKkYGlT"
@@ -955,7 +973,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 244373,
       "name": "Shalott",
       "url": "https://open.spotify.com/track/3zqqk1rqSOX5P30blEoShn"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 169706,
       "name": "Sirens of Titan",
       "url": "https://open.spotify.com/track/395ZYCrLELWM3MtMzGskaF"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 153840,
       "name": "Soma",
       "url": "https://open.spotify.com/track/6gU7ohksNd6LsEJMWfDRhp"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 244312,
       "name": "The Joy of D.H. Lawrence",
       "url": "https://open.spotify.com/track/32NuTwiZpdX9ZrC7TNvn3w"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 269000,
       "name": "The Pearl",
       "url": "https://open.spotify.com/track/1zBCwvQhBJ8apOFRnR9xss"
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 236000,
       "name": "The Sensual World",
       "url": "https://open.spotify.com/track/6xOyeiTQ0tWaYo2wG1XtZc"
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 158680,
       "name": "Walt Whitman",
       "url": "https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 162666,
       "name": "Who Wrote Holden Caulfield?",
       "url": "https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld"

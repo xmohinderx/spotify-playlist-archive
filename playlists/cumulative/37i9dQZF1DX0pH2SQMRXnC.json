@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Only the biggest Hardstyle",
+  "description": "Takeover by Intents Festival with Da Tweekaz & Warface",
   "name": "Hardstyle Bangers",
   "published_playlist_ids": [
     "40ibOn4vxhSEyiHRK9rUTk"
@@ -284,6 +284,32 @@
     },
     {
       "album": {
+        "name": "Animal In Me",
+        "url": "https://open.spotify.com/album/0qIA3ClY3kdGUtRFRgGagQ"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "XCEPTION",
+          "url": "https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251460,
+      "name": "Animal In Me",
+      "url": "https://open.spotify.com/track/45y8anJchQhBeBRuw9KJle"
+    },
+    {
+      "album": {
         "name": "Anyway (feat. XERXESBAKKER) [Hard Mix]",
         "url": "https://open.spotify.com/album/2Iz4H7IPgFE5hlLlnCmvEw"
       },
@@ -473,7 +499,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 153624,
       "name": "Bass Attack",
       "url": "https://open.spotify.com/track/3idlXH9t69kYKh6Y2KBOpx"
@@ -741,7 +767,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 225449,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0XWQtIOEmws7pNwODEH6hW"
@@ -767,10 +793,36 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 216376,
       "name": "By The Sword",
       "url": "https://open.spotify.com/track/07B46HFSAMauWkHwp5n50P"
+    },
+    {
+      "album": {
+        "name": "Legends Of The Elite",
+        "url": "https://open.spotify.com/album/50RHfqIEtQS0dZxBrrFUF3"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        },
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216376,
+      "name": "By The Sword",
+      "url": "https://open.spotify.com/track/0k8JlkHqTUUfOf48peC3Dp"
     },
     {
       "album": {
@@ -921,7 +973,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 202754,
       "name": "Chosen Ones",
       "url": "https://open.spotify.com/track/5B68sCt7ZmqOXLsLw4FB3G"
@@ -1085,7 +1137,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 226147,
       "name": "Connected",
       "url": "https://open.spotify.com/track/1DtVFVNnnsUwvsJUa87uOm"
@@ -1133,7 +1185,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 228800,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/4HaMXBKZa59l6MnyhLK6Bw"
@@ -1679,7 +1731,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 196896,
       "name": "Embracing The Madness",
       "url": "https://open.spotify.com/track/31zOoImZZMK5rlmiO4NiYL"
@@ -2062,6 +2114,28 @@
     },
     {
       "album": {
+        "name": "Fighting For",
+        "url": "https://open.spotify.com/album/14Iltp0WL3VLdyxWz6FQAB"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "Cryex",
+          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217326,
+      "name": "Fighting For",
+      "url": "https://open.spotify.com/track/22JELf6p8cyWBDwa91e7pL"
+    },
+    {
+      "album": {
         "name": "Find Ourselves",
         "url": "https://open.spotify.com/album/4utSg1y8V3nuoxuKXBtxy7"
       },
@@ -2289,7 +2363,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 236812,
       "name": "For You",
       "url": "https://open.spotify.com/track/3DoOHv1HM9Arrw5PofaF2S"
@@ -2421,10 +2495,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 195066,
       "name": "FYAH",
       "url": "https://open.spotify.com/track/1t43yOydn1O4uOusALEUFl"
+    },
+    {
+      "album": {
+        "name": "Game Breaker",
+        "url": "https://open.spotify.com/album/5byRL7fz21kyoNAM2Fog4H"
+      },
+      "artists": [
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        },
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198987,
+      "name": "Game Breaker",
+      "url": "https://open.spotify.com/track/2lNaARcTaHVlohiPlKvlnm"
     },
     {
       "album": {
@@ -2523,6 +2619,24 @@
       "duration_ms": 182908,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/1DAERWYDdlSiRLCOr7vq9t"
+    },
+    {
+      "album": {
+        "name": "Forgotten Future",
+        "url": "https://open.spotify.com/album/0mnEvrzyfOlpLW3xxS8xxL"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209615,
+      "name": "Gucci Boii",
+      "url": "https://open.spotify.com/track/1YEC2CQCqvvy4XoDChlxB0"
     },
     {
       "album": {
@@ -2749,7 +2863,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 219142,
       "name": "Hellraiser",
       "url": "https://open.spotify.com/track/7jPZ8CnQPpcbJp9ZiTvuMY"
@@ -2867,7 +2981,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 155393,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2dEMhq5qrP52ooZrtaPRTZ"
@@ -2954,6 +3068,24 @@
     },
     {
       "album": {
+        "name": "Horrorshow",
+        "url": "https://open.spotify.com/album/1Dv5tHT8KndXXPwubxunDS"
+      },
+      "artists": [
+        {
+          "name": "Killshot",
+          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205653,
+      "name": "Horrorshow",
+      "url": "https://open.spotify.com/track/7j3yHIUcCQzuQv3fiQp4BN"
+    },
+    {
+      "album": {
         "name": "Hunters Lullaby 2020",
         "url": "https://open.spotify.com/album/0i5gJYigY7VPKGQ9nvxuyt"
       },
@@ -2990,6 +3122,24 @@
     },
     {
       "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/5mBxNOjCabew97eWYtNq71"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/0t9ofbK0n9oXlcikIzKXUs"
+    },
+    {
+      "album": {
         "name": "I'm Alive (Rebirth Festival Anthem 2019)",
         "url": "https://open.spotify.com/album/5BG29J3q8EHnb1py1nRMEH"
       },
@@ -3023,6 +3173,24 @@
       "duration_ms": 244133,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/0mWGz6hPTPuOK3SaETnqCo"
+    },
+    {
+      "album": {
+        "name": "In Control",
+        "url": "https://open.spotify.com/album/3o8GALuSg4yNyrldvW5HPW"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223511,
+      "name": "In Control",
+      "url": "https://open.spotify.com/track/4o6nk4UeAP8OWoyVMnpvJ4"
     },
     {
       "album": {
@@ -3179,7 +3347,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 152008,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/3UzPphFplwF1AS1tjyrbtp"
@@ -3266,6 +3434,28 @@
     },
     {
       "album": {
+        "name": "Artificial Intoxication",
+        "url": "https://open.spotify.com/album/1UzOa746jQMejJtvImrB5O"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Irreplaceable",
+      "url": "https://open.spotify.com/track/6QtWNJCHebWxkFlRxlhDAu"
+    },
+    {
+      "album": {
         "name": "It's On",
         "url": "https://open.spotify.com/album/4wrmkrh7lo1GiXYoSDLDLO"
       },
@@ -3299,7 +3489,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 170295,
       "name": "Jaipur - Radio Edit",
       "url": "https://open.spotify.com/track/0toVxnrTHTMb0RbILsF4a0"
@@ -3409,7 +3599,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 218157,
       "name": "Kingdom Comes",
       "url": "https://open.spotify.com/track/3pr7N1tEtoQbJUlediJWJ3"
@@ -3497,7 +3687,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 192297,
       "name": "Left Of Us - Darren Styles Remix",
       "url": "https://open.spotify.com/track/5GBgpkLwGddjBhufgazZSH"
@@ -3839,7 +4029,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 169839,
       "name": "Mellow",
       "url": "https://open.spotify.com/track/6AQpd05OyowTvtO7I3BdBU"
@@ -4076,6 +4266,28 @@
     },
     {
       "album": {
+        "name": "Nightmare Nirvana",
+        "url": "https://open.spotify.com/album/7jPDK7qtsjA010J5fXR9w1"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270786,
+      "name": "Nightmare Nirvana",
+      "url": "https://open.spotify.com/track/0X89hVtXc6V04eRMCjB1Vj"
+    },
+    {
+      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/6h9KUaDyjdZZIrB1jUEV94"
       },
@@ -4273,7 +4485,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 234844,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/6qRZNvECX7DllIpLdlbUk6"
@@ -4357,7 +4569,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 230321,
       "name": "Orange Heart",
       "url": "https://open.spotify.com/track/3fZIBSibgTdC4gaqoXmk8G"
@@ -4419,7 +4631,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 179758,
       "name": "Our World",
       "url": "https://open.spotify.com/track/6AQf6CoUwKxtKjmLBxOSwU"
@@ -4441,7 +4653,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 164000,
       "name": "Over & Done - Averro Remix",
       "url": "https://open.spotify.com/track/0zR9PEs0Udoc2f81t8DRJx"
@@ -4463,7 +4675,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 224800,
       "name": "Oxygen - Clockartz Remix",
       "url": "https://open.spotify.com/track/0SstCT8Ug4HFnvtGh0TTIF"
@@ -4853,7 +5065,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 167612,
       "name": "Reach For The Sky",
       "url": "https://open.spotify.com/track/48WMx4OjrRl5GnzlBTCD4C"
@@ -4984,6 +5196,36 @@
     },
     {
       "album": {
+        "name": "Rhythm Of Life",
+        "url": "https://open.spotify.com/album/7jWtrrZfDMpMUJ9F8c8nBq"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Code Black",
+          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
+        },
+        {
+          "name": "TAC Team",
+          "url": "https://open.spotify.com/artist/4zqcLzfGNbVjpk6iLAcD1J"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Rhythm Of Life",
+      "url": "https://open.spotify.com/track/4hYeNjLJi1MhhT8XZHXiek"
+    },
+    {
+      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/2ukCgzg04Hmqnw8JmTz4OI"
       },
@@ -4999,7 +5241,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 162557,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7i2mcD6FwfHFPRLvfAHbau"
@@ -5095,6 +5337,50 @@
       "duration_ms": 242400,
       "name": "Run With The Restless",
       "url": "https://open.spotify.com/track/1YKY6j5fyaUx7dCsz1D4Vf"
+    },
+    {
+      "album": {
+        "name": "See You",
+        "url": "https://open.spotify.com/album/5Y6ldf67fe8DGh71d1HTLp"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254901,
+      "name": "See You",
+      "url": "https://open.spotify.com/track/57mgyauwTOeC725Xa0zJdw"
+    },
+    {
+      "album": {
+        "name": "Sensory",
+        "url": "https://open.spotify.com/album/0VNM27SXVAJ2Dd3J39XvuB"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214597,
+      "name": "Sensory",
+      "url": "https://open.spotify.com/track/74gECA67oUmYxdqTPNf93n"
     },
     {
       "album": {
@@ -5377,7 +5663,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 181846,
       "name": "Snatch",
       "url": "https://open.spotify.com/track/0yTzy8hWBrN0rLlM7oUF7L"
@@ -5762,6 +6048,28 @@
     },
     {
       "album": {
+        "name": "Supa Dupa Fly",
+        "url": "https://open.spotify.com/album/6AsthfXuyR0Ue12N7iFLCR"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "666",
+          "url": "https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191413,
+      "name": "Supa Dupa Fly",
+      "url": "https://open.spotify.com/track/1f1oSxTFtI9WN7X6GvzMtF"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/1pYliVACUpCmp42wjiq3gm"
       },
@@ -5917,7 +6225,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 204350,
       "name": "Symphony - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/7DmhyegXAiu0yTy7nRI0yg"
@@ -5997,7 +6305,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 212800,
       "name": "The 9th Gate",
       "url": "https://open.spotify.com/track/0jhcGAgbsq1gNfdsDEYCIG"
@@ -6041,7 +6349,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 228285,
       "name": "The Calling (Da Tweekaz Remix)",
       "url": "https://open.spotify.com/track/4aRwjepcGUhXP5MLOncvdT"
@@ -7049,7 +7357,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 226500,
       "name": "WARHORN (E1: To War We Go)",
       "url": "https://open.spotify.com/track/68jxUXJE9kZPHiEvXEIfPF"
@@ -7144,6 +7452,24 @@
     },
     {
       "album": {
+        "name": "We Are The Champions",
+        "url": "https://open.spotify.com/album/4bPqw0ULVnIlqUsXgu0uFk"
+      },
+      "artists": [
+        {
+          "name": "Psyko Punkz",
+          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208807,
+      "name": "We Are The Champions",
+      "url": "https://open.spotify.com/track/4AnTa4D6tqOPi9AkDbybV1"
+    },
+    {
+      "album": {
         "name": "We Are The Solution (Official Solution Anthem 2019)",
         "url": "https://open.spotify.com/album/7e9pq7rgvYwologl5Mdc2g"
       },
@@ -7206,6 +7532,28 @@
     },
     {
       "album": {
+        "name": "We Got The Fire",
+        "url": "https://open.spotify.com/album/3BZCF2hxSRiu3dfHExwMBT"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        },
+        {
+          "name": "Serzo",
+          "url": "https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222113,
+      "name": "We Got The Fire",
+      "url": "https://open.spotify.com/track/3ytpNDBUIoqJtqm6Xe8mtF"
+    },
+    {
+      "album": {
         "name": "Frontliner - Festival Edits",
         "url": "https://open.spotify.com/album/0ouinqlxsK5OIz7A9SQ0xe"
       },
@@ -7261,6 +7609,24 @@
       "duration_ms": 220772,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/31mjoUHs9Zdt2Eks0MJNqI"
+    },
+    {
+      "album": {
+        "name": "White Lines",
+        "url": "https://open.spotify.com/album/6BzLLaLhpl7eSSDrZAyM4E"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190739,
+      "name": "White Lines",
+      "url": "https://open.spotify.com/track/1PVnSZcmBg0ObTk3x0Z8Me"
     },
     {
       "album": {
@@ -7407,7 +7773,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 167072,
       "name": "YRML 2K20",
       "url": "https://open.spotify.com/track/0gakxtyAQxCAQ9h7PiUpKu"

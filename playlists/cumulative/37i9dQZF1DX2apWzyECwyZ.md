@@ -4,7 +4,7 @@
 
 > Yo Hago Lo Que Me Da La Gana
 
-120 songs - 7 hr 30 min - not published yet
+120 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/2oRRt5n35mCQnCecgmXO5z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

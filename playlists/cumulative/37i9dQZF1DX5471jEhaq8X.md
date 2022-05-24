@@ -4,7 +4,7 @@
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Portada: Los Farmerz
 
-139 songs - 7 hr 2 min - not published yet
+140 songs - 7 hr 6 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [La Pluma Del Diablo \- En Vivo](https://open.spotify.com/track/3ovMqmRlaiIqDuo3n4D0OG) | [Victor Eme](https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6), [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [La Pluma Del Diablo \(En Vivo\)](https://open.spotify.com/album/3v3ra4Y61KCCidILEfKHdI) | 2:38 | 2022-05-13 |  |
 | [La Profecía](https://open.spotify.com/track/45gSXNnSfMz6kVGVN9X41A) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Profecía](https://open.spotify.com/album/5scSfMdGxbxaG01lHiZqPi) | 2:38 | 2022-05-13 |  |
 | [La Ruleta de La Vida](https://open.spotify.com/track/6p4Ta9TKEndqO6ZarnY3zl) | [La Instruxion](https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Ruleta de La Vida](https://open.spotify.com/album/3W7MMzYaMYq5LyF1h5CoHc) | 2:39 | 2022-05-13 |  |
+| [La Tiriwixiada](https://open.spotify.com/track/4mexeasKTWMOjNFQeYazHZ) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [La Tiriwixiada](https://open.spotify.com/album/638vgbZ00GPAkfJDmT8JAC) | 3:27 | 2022-05-13 |  |
 | [La Última Palabra](https://open.spotify.com/track/6QrlJJO51QP8fnYXvNeHmt) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Braulio Loustaunau](https://open.spotify.com/artist/62nSCAJnHEDRHD560Ke5Sj) | [La Última Palabra](https://open.spotify.com/album/4Gxo54ul7L9ZCvUux0Drv5) | 3:15 | 2022-05-13 |  |
 | [Las Rutas](https://open.spotify.com/track/0KknLdjEQJWyvZoOJDspn3) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Las Rutas](https://open.spotify.com/album/7ewDToFv5C28CgLyDuzuye) | 2:04 | 2022-05-13 |  |
 | [Lo Que Les Falta](https://open.spotify.com/track/4my9onQE9Z2IvuH7V13WSM) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Lo Que Les Falta](https://open.spotify.com/album/7uuomonKZYYmpq0vM59aDP) | 2:14 | 2022-05-13 |  |
@@ -124,7 +125,7 @@
 | [Operativo Guasanga \- En Vivo](https://open.spotify.com/track/5P6SAHuQ70HBnIev2OdKSW) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Operativo Guasanga \(En Vivo\)](https://open.spotify.com/album/1lDEsLv28JwXZvqsvN4rKy) | 3:15 | 2022-05-13 |  |
 | [Pa Los Que Hoy](https://open.spotify.com/track/34zDAp4dTbCIt59a3Q4QBt) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Pa Los Que Hoy](https://open.spotify.com/album/36xEtIBvLwYCUrtHsw9rbU) | 3:38 | 2022-05-13 |  |
 | [Padre Nuestro](https://open.spotify.com/track/4smyDUpUfEmAWdC4uHvsMJ) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Padre Nuestro](https://open.spotify.com/album/6MErFrcJuktzkFqjVZsYD9) | 3:28 | 2022-05-13 |  |
-| [Paranoia](https://open.spotify.com/track/0cOuTJ7k92o9V6hkf3fxpW) | [Lumar Perez](https://open.spotify.com/artist/0m8RPY3jufvoZY1p48TbRb) | [Paranoia](https://open.spotify.com/album/5Udf1Cz8Q9r35d8sIBS8tX) | 2:37 | 2022-05-13 |  |
+| [Paranoia](https://open.spotify.com/track/0cOuTJ7k92o9V6hkf3fxpW) | [Lumar Perez](https://open.spotify.com/artist/0m8RPY3jufvoZY1p48TbRb) | [Paranoia](https://open.spotify.com/album/5Udf1Cz8Q9r35d8sIBS8tX) | 2:37 | 2022-05-13 | 2022-05-24 |
 | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw) | 2:36 | 2022-05-13 |  |
 | [Peleando La Ciudad \(En Vivo\)](https://open.spotify.com/track/1xEii4pWw0awhAmkYO7Rap) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Peleando La Ciudad \(En Vivo\)](https://open.spotify.com/album/4B95B43CS1GoJpYEnpCae9) | 3:27 | 2022-05-13 |  |
 | [Que Te Valga Verga](https://open.spotify.com/track/2TIRRX9lDuhujt0ojcZ8Y6) | [Grupo Nuevo Equipo](https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl) | [Que Te Valga Verga](https://open.spotify.com/album/7DAmH01Zs3AGPJugrq7MFH) | 2:06 | 2022-05-13 |  |

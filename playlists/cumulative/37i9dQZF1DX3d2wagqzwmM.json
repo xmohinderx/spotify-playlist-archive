@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 248888,
       "name": "Acid Soul",
       "url": "https://open.spotify.com/track/5nQmCDsgTXUx9AlhKJPfY5"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 145312,
       "name": "AIR",
       "url": "https://open.spotify.com/track/7LCsrG7NKsd1gb7dVT2qxk"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 180937,
       "name": "Battlefield",
       "url": "https://open.spotify.com/track/4L8tAFBftTAOo5pjeXVW9g"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 161674,
       "name": "Beat Of My Heart",
       "url": "https://open.spotify.com/track/5lHKO6KzDJELesoxLFiASz"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 162460,
       "name": "Bring It Back To Me",
       "url": "https://open.spotify.com/track/5pqm3ulg0pXHgJ53dHpP23"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 187225,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/2hrlDOytJk8qOIXi9l6O5e"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 152812,
       "name": "De La Sol",
       "url": "https://open.spotify.com/track/25Cy3nRbyfttCIMO4YgzKM"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Funky Town",
       "url": "https://open.spotify.com/track/4A7aOnpjE4yytIbXTg6BxT"
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 172176,
       "name": "Happy Revolution",
       "url": "https://open.spotify.com/track/6K22fmkCwrLdzqLUixb6Q1"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 175773,
       "name": "Heaven (feat. Sofia Quinn) - Club Mix",
       "url": "https://open.spotify.com/track/6uTCim4OGFZOauCqHWIpu9"
@@ -1401,7 +1401,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 208095,
       "name": "Kill Me Slow",
       "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
@@ -1423,10 +1423,32 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 159406,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3"
+    },
+    {
+      "album": {
+        "name": "Knockout",
+        "url": "https://open.spotify.com/album/5gyx3UGguV9QG76rS1CNmJ"
+      },
+      "artists": [
+        {
+          "name": "Justin Prime",
+          "url": "https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ"
+        },
+        {
+          "name": "STVW",
+          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Knockout",
+      "url": "https://open.spotify.com/track/1EEkaGXklrnHnF47Bu8jH0"
     },
     {
       "album": {
@@ -1627,7 +1649,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 200876,
       "name": "Mother & Father",
       "url": "https://open.spotify.com/track/74XoMDxaS0blbuxeVqdOyl"
@@ -1671,7 +1693,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 171705,
       "name": "Ninja",
       "url": "https://open.spotify.com/track/5iczDu05vLCuJyFyqJwF5S"
@@ -1931,7 +1953,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 185952,
       "name": "Raindrops (feat. Chacel)",
       "url": "https://open.spotify.com/track/1HGJjjDGNT5uhoNRRGt8Z7"
@@ -1997,7 +2019,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 160888,
       "name": "Raptor",
       "url": "https://open.spotify.com/track/4rQWeoQSHpBFP4Qk6mlw0T"
@@ -2063,7 +2085,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 173027,
       "name": "Readymade Sweat",
       "url": "https://open.spotify.com/track/47RHGBGyfNHQkyT9m5lXpi"
@@ -2107,7 +2129,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 200888,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/16ML9NPj4zpFnYDSWU5qwv"
@@ -2133,7 +2155,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/512MWs3jFUvUTdj2X4eM07"
@@ -2231,7 +2253,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 204104,
       "name": "Sign Or Warning",
       "url": "https://open.spotify.com/track/32nZczHu0A8tFmqdwTsAOY"
@@ -2801,7 +2823,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 195387,
       "name": "We Love Hardcore",
       "url": "https://open.spotify.com/track/5HUEkmgvW0nVojSP1lZasg"

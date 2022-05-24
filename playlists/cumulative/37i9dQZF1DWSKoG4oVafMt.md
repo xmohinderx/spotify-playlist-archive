@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-336 songs - 18 hr 34 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+339 songs - 18 hr 43 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Amanat](https://open.spotify.com/track/0TeUlCl92AjyCXdfdU5C4M) | [Shubh Goraya](https://open.spotify.com/artist/4gXQYW5L0ioMI3FuP6mBTQ) | [Amanat](https://open.spotify.com/album/1B8j6mD6LY9wH13HJdWyEF) | 3:15 | 2022-02-04 | 2022-04-06 |
 | [Amber Nu Paudi](https://open.spotify.com/track/1Cgf1bIWS0oJtzHidStWtQ) | [Amarinder](https://open.spotify.com/artist/7fBmn4qIlIlpCTgV1VE4cV) | [Love On Top](https://open.spotify.com/album/4cCzLf1SWnIVArzSpreEsT) | 4:23 | 2022-01-10 | 2022-01-15 |
 | [Apna Viah](https://open.spotify.com/track/0znBJ5J84AD5ykoOkauSdR) | [Advik](https://open.spotify.com/artist/4RnHjFdLJEfBqL9B4nQcLg), [Leela](https://open.spotify.com/artist/11irmEzISytQwB3G8uhC5E) | [Apna Viah](https://open.spotify.com/album/4SCjM3XgWj3vy2Bk8huEnm) | 3:24 | 2022-02-22 | 2022-03-11 |
+| [Baah Fadke](https://open.spotify.com/track/1f9j80w1LF874X4kH0E3Yb) | [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X), [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Neeru Bajwa](https://open.spotify.com/artist/67lOlAWKOMcfsiqzBSSVUB) | [Baah Fadke](https://open.spotify.com/album/22ErOFK02WfmSwsThMD1CA) | 2:29 | 2022-05-23 |  |
 | [Bachalo](https://open.spotify.com/track/1v8NfOckFEnck9gp7iyetm) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Bachalo](https://open.spotify.com/album/3KSE24dHweGL1Ent5wkmYZ) | 2:45 | 2021-12-02 | 2022-04-06 |
 | [Bachcha](https://open.spotify.com/track/05gtSxG3Zpm0Hw3C0Eha0l) | [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI) | [Bachcha](https://open.spotify.com/album/6tyBcZsCCVccS62USi3rSO) | 4:07 | 2022-04-28 | 2022-05-11 |
 | [Balle Ni Balle](https://open.spotify.com/track/3Quh2KLPpnsIi3itQWjuQR) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Balle Ni Balle](https://open.spotify.com/album/6Rj96raFzAxHkkrAwCVHYS) | 2:51 | 2022-04-08 |  |
@@ -102,6 +103,7 @@
 | [Hauli Hauli](https://open.spotify.com/track/3oMJtW4V8vuUKfUr0ZgNdn) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Hauli Hauli](https://open.spotify.com/album/58a9qsPQQbGICghMaE0tY4) | 3:27 | 2022-03-22 | 2022-05-11 |
 | [Haye Jatta](https://open.spotify.com/track/6933Z2N5Fpgk7NtzLcZPgv) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Haye Jatta](https://open.spotify.com/album/6YYw4PjiL91x0ghXo9joRe) | 2:59 | 2022-04-22 | 2022-05-11 |
 | [Heer](https://open.spotify.com/track/0lzLGA5288fkENplIw8xA3) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Heer](https://open.spotify.com/album/2qTrAeWkX4YEJmQXvmNz94) | 8:08 | 2022-05-17 | 2022-05-20 |
+| [Heer Wargiye \- From: "Mahi Mera Nikka Jeha"](https://open.spotify.com/track/2z8jSGOE1jJnIMCwfZokIQ) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Heer Wargiye \(From: "Mahi Mera Nikka Jeha"\)](https://open.spotify.com/album/0PAOlllD67WewZcD27JmBg) | 3:25 | 2022-05-23 |  |
 | [Hometown](https://open.spotify.com/track/4LvIeOXZ4b9duvPEDUogot) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Alll Rounder](https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS) | 3:16 | 2022-01-17 | 2022-02-01 |
 | [Ik Kahani](https://open.spotify.com/track/5QJnZIV6OuW6vgIQXgpOX9) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Ik Kahani \- Kaka](https://open.spotify.com/album/0UauqdFbTkrPPZZZvzDSbe) | 2:50 | 2022-01-14 | 2022-02-12 |
 | [Ik Mili Mainu Apsraa](https://open.spotify.com/track/39chWL7FFnxleLCBUXquv4) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Ik Mili Mainu Apsraa](https://open.spotify.com/album/6UBOEZZXK11zsgwekmcMKa) | 4:02 | 2022-01-15 | 2022-02-01 |
@@ -122,6 +124,7 @@
 | [Jogiya](https://open.spotify.com/track/715KJ6GgLQgOl1fQG0DsKF) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4), [Desi Routz](https://open.spotify.com/artist/1PPuO6mkbUFNCEh6uU0i71) | [Jogiya](https://open.spotify.com/album/79LkKVfRwrMiAdxMDnQMLr) | 3:17 | 2022-04-20 | 2022-04-29 |
 | [Judge](https://open.spotify.com/track/6Ffl1BBRfr8I2ASR6iiRTe) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Judge](https://open.spotify.com/album/6T3L3QXrlWDJiL1JJhOHsH) | 3:01 | 2022-02-03 |  |
 | [Junoon](https://open.spotify.com/track/4roFMBSQp7W4fYVxKMmhA5) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/1sGWRNrgW1D1MTuBhz2mfs) | 3:11 | 2022-01-31 | 2022-05-20 |
+| [Kaali Car](https://open.spotify.com/track/035ipVjyiZw5fRqgKdIQBc) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kaali Car](https://open.spotify.com/album/6IVKOvb3rpY4V79W6GKqni) | 3:01 | 2022-05-23 |  |
 | [Kaali Shirt Waleyaa](https://open.spotify.com/track/0Obgbyn28ZQ81tr8STLl3U) | [Simran Raj](https://open.spotify.com/artist/0Kq6kRoZ7plicvFNdCjc3P) | [Kaali Shirt Waleyaa](https://open.spotify.com/album/23RHXIGwU5ZhJghyN0p4Te) | 3:29 | 2022-02-09 | 2022-02-12 |
 | [Kabootariyan](https://open.spotify.com/track/1izc57djCd4AEgnrh01MO4) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH) | [Kabootariyan](https://open.spotify.com/album/4JL1V4aTlYLtV0ONOtFsYY) | 3:34 | 2022-02-07 | 2022-04-06 |
 | [Kachi Umar \(feat\. Aman Aujla,Simran Dhiman\)](https://open.spotify.com/track/12HPzRdSPwOd4AD1nUiwZw) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Aman Aujla](https://open.spotify.com/artist/2ZDVI9q5zWuIC0WGBMUOJy), [Simran Dhiman](https://open.spotify.com/artist/6iJ8WCYRWsIlIw0cbVy00O) | [Kachi Umar](https://open.spotify.com/album/19RO9vz5tKBnXPO9wFSdOt) | 3:04 | 2022-02-16 | 2022-03-11 |

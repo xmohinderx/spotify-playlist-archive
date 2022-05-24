@@ -7886,6 +7886,28 @@
     },
     {
       "album": {
+        "name": "LIBERTA",
+        "url": "https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181117,
+      "name": "LIBERTA",
+      "url": "https://open.spotify.com/track/1jPC3jZtayUUmS5x6B4OKT"
+    },
+    {
+      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/6j3bulMNlLQARn4dPsSy7G"
       },
@@ -7999,7 +8021,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 182796,
       "name": "Lobby",
       "url": "https://open.spotify.com/track/1kaJpz5JMjmhByqAnvN90b"
@@ -8797,7 +8819,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 160269,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/6HeG9URxuExm52kQQ8sHJU"
@@ -10655,7 +10677,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 159375,
       "name": "Out of Your Mind",
       "url": "https://open.spotify.com/track/1wRKwSa4fLSA0SHGqcfSL4"

@@ -291,10 +291,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 210440,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/3imJHohXBxDGovFRQ75dUt"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210440,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN"
     },
     {
       "album": {
@@ -1337,10 +1355,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 165745,
       "name": "Perfecta En Mis Ojos",
       "url": "https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z"
+    },
+    {
+      "album": {
+        "name": "Perfecta en Mis Ojos",
+        "url": "https://open.spotify.com/album/32Q9s7ZGiV7JuIjntKT8BJ"
+      },
+      "artists": [
+        {
+          "name": "Angel Perez",
+          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166437,
+      "name": "Perfecta en Mis Ojos",
+      "url": "https://open.spotify.com/track/2an1crKGNWXdviPTzWyH0I"
     },
     {
       "album": {
@@ -1974,6 +2010,24 @@
     },
     {
       "album": {
+        "name": "Eres Vida",
+        "url": "https://open.spotify.com/album/1i78f9YQYd2DIvwsvmfEy9"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204545,
+      "name": "Un Hombre con Suerte",
+      "url": "https://open.spotify.com/track/5vyF6dCkkt723lam8zBnEL"
+    },
+    {
+      "album": {
         "name": "Un Hombre Con Suerte",
         "url": "https://open.spotify.com/album/28bVEFymW1UfhlNVCeULkF"
       },
@@ -1985,7 +2039,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 204586,
       "name": "Un Hombre Con Suerte",
       "url": "https://open.spotify.com/track/0UwMXuDCCtf8vKJdvJHPK9"

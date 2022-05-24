@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : KGF 2",
-  "num_followers": 29067,
+  "num_followers": 29117,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzA1Mzk1MCwwMDAwMDE4MTAwMDAwMTgwZTFiMTg5ZTAwMDAwMDE3ZmFkNDkzNmEz",
+  "snapshot_id": "MTY1MzI3NzQxMiwwMDAwMDE4MzAwMDAwMTgwZWYwMzRjYTIwMDAwMDE3ZmFkNDkzNmEz",
   "tracks": [
     {
       "added_at": "2022-05-20 13:39:10",
@@ -91,6 +91,50 @@
       "duration_ms": 91163,
       "name": "Liger Hunt Teaser (Kannada) [From \"Liger (Kannada)\"]",
       "url": "https://open.spotify.com/track/0SAbUJwbMYO5IxQ4sjL6dN"
+    },
+    {
+      "added_at": "2022-05-23 03:40:19",
+      "album": {
+        "name": "Nanga Hucchu Hedadeti (From \"School Days\")",
+        "url": "https://open.spotify.com/album/6Z2SXr6qfk0VsGfQ2TOmlL"
+      },
+      "artists": [
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Chaitra H. G.",
+          "url": "https://open.spotify.com/artist/5NZ2P8KBgZX2ZjSGU17EOA"
+        },
+        {
+          "name": "Balasubramanya",
+          "url": "https://open.spotify.com/artist/1EaDx31aJ5BtanB1wKEhsT"
+        }
+      ],
+      "duration_ms": 280179,
+      "name": "Nanga Hucchu Hedadeti (From \"School Days\")",
+      "url": "https://open.spotify.com/track/1JVy7JorTpM8yJHLfRqw4M"
+    },
+    {
+      "added_at": "2022-05-23 03:43:32",
+      "album": {
+        "name": "Soul Of Benki (From \"Benki\")",
+        "url": "https://open.spotify.com/album/6Umt3uMk1gjh7iam7swUXB"
+      },
+      "artists": [
+        {
+          "name": "Anand Rajavikram",
+          "url": "https://open.spotify.com/artist/3dRKC2Ej6Dn7afgPJoZ1xZ"
+        },
+        {
+          "name": "Chaithra J Achar",
+          "url": "https://open.spotify.com/artist/5TSbHC0mvwnP6RBewptu2B"
+        }
+      ],
+      "duration_ms": 151810,
+      "name": "Soul Of Benki (From \"Benki\")",
+      "url": "https://open.spotify.com/track/489lOqWndeF8aedE73AvWl"
     },
     {
       "added_at": "2022-04-14 12:13:28",

@@ -1036,6 +1036,24 @@
     },
     {
       "album": {
+        "name": "Halfway / Brooklyn Baby",
+        "url": "https://open.spotify.com/album/4mBmTU89uQZ0BSufoeWTXK"
+      },
+      "artists": [
+        {
+          "name": "Flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214748,
+      "name": "Brooklyn Baby",
+      "url": "https://open.spotify.com/track/4pV0fLXSZLHnEzPoOYX55T"
+    },
+    {
+      "album": {
         "name": "bundle of hyacinths (feat. Samia)",
         "url": "https://open.spotify.com/album/0rhiRlJCfhHrG585XAsBgL"
       },

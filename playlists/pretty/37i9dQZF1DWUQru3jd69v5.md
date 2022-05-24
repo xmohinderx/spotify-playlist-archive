@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione di rapper italiani\. Cover: Kid Yugi
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,241 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,278 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 10 | [Il male qua](https://open.spotify.com/track/3wkumyLVODWI8qlW0fBsG7) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Il male qua](https://open.spotify.com/album/6FXHqJdvs7NyQFIoI61MAo) | 2:28 |
 | 11 | [Drillin'](https://open.spotify.com/track/5yMYtbypj4UNornVo4zwGf) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Drillin'](https://open.spotify.com/album/35RjfCOtW30zX04JiqxPMp) | 2:38 |
 | 12 | [Cugino](https://open.spotify.com/track/3gg5KTw2TP6CLiQKRRzN9o) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [Cugino](https://open.spotify.com/album/1JZEbWvE21FBzVtf4wFfSw) | 2:06 |
-| 13 | [Joca Jouer \(intro\)](https://open.spotify.com/track/2Asa5OOZ3lzlIjd85y2Hfj) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Joca Jouer \(intro\)](https://open.spotify.com/album/04feKHyQWpDWGkwCbDmkEW) | 1:51 |
-| 14 | [5 testimoni](https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [5 testimoni](https://open.spotify.com/album/4Xhv0WOKfjZkmMXSgbjByB) | 2:24 |
-| 15 | [Lettera](https://open.spotify.com/track/6gleaLyaGxgCEJqu10ksXr) | [Samy](https://open.spotify.com/artist/1Cf2hOIUGwQ3INfXlfZkaD) | [Lettera](https://open.spotify.com/album/11qC4TTRIBWTLJVq1CdhyV) | 2:12 |
+| 13 | [In una bara](https://open.spotify.com/track/2uVwlsxxHMJw5BHYLo0kRj) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Vero Liricista](https://open.spotify.com/album/12cQXC8ieSjXMEPvklwXmF) | 2:25 |
+| 14 | [Joca Jouer \(intro\)](https://open.spotify.com/track/2Asa5OOZ3lzlIjd85y2Hfj) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Joca Jouer \(intro\)](https://open.spotify.com/album/04feKHyQWpDWGkwCbDmkEW) | 1:51 |
+| 15 | [5 testimoni](https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [5 testimoni](https://open.spotify.com/album/4Xhv0WOKfjZkmMXSgbjByB) | 2:24 |
 | 16 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 |
 | 17 | [GORILLA\#1](https://open.spotify.com/track/0sTkGlYMa1y4jeD1y5yRu4) | [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3) | [GORILLA\#1](https://open.spotify.com/album/1nsRK8s3uXIw0dNGN3rWAF) | 2:38 |
 | 18 | [Tiki Taka](https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Tiki Taka](https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa) | 2:20 |
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 24 | [L'Alcol Non È Un Problema](https://open.spotify.com/track/6v8F1kG6WmK40OkiQ1TDZL) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [L'Alcol Non È Un Problema](https://open.spotify.com/album/7Kj40gynPLTP1Fz9hH0N8h) | 3:06 |
 | 25 | [Al Capone](https://open.spotify.com/track/24TVRkzUBDzQouxitIVcT1) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Al Capone](https://open.spotify.com/album/0ig28vaKTtszNMHDnLINqu) | 2:38 |
 | 26 | [SIDE HOE](https://open.spotify.com/track/5OjDS0tM4rmKe677fLvBL5) | [ZE7E](https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n) | [SIDE HOE](https://open.spotify.com/album/1ntgh7yEXIbKrb73KWz3yr) | 2:09 |
-| 27 | [Niente Da Perdere](https://open.spotify.com/track/2lUti9Pis9z2IqP1IViXxF) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Niente Da Perdere](https://open.spotify.com/album/4VN7MdLoaXXwSqTjYWpl38) | 2:44 |
-| 28 | [\#WEOWE2](https://open.spotify.com/track/45gLLRDHtF7Cdm7TbThR1h) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [\#WEOWE2](https://open.spotify.com/album/5c7CoUQI2o9sGqeFmu4Y2X) | 2:08 |
-| 29 | [MOTORSPORT](https://open.spotify.com/track/2TZrC4DQY7dEohUl00UAmS) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [MOTORSPORT](https://open.spotify.com/album/3FT9uA9e5WuwMM1BuFU2PQ) | 1:55 |
-| 30 | [In una bara](https://open.spotify.com/track/2uVwlsxxHMJw5BHYLo0kRj) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Vero Liricista](https://open.spotify.com/album/12cQXC8ieSjXMEPvklwXmF) | 2:25 |
+| 27 | [Lettera](https://open.spotify.com/track/6gleaLyaGxgCEJqu10ksXr) | [Samy](https://open.spotify.com/artist/1Cf2hOIUGwQ3INfXlfZkaD) | [Lettera](https://open.spotify.com/album/11qC4TTRIBWTLJVq1CdhyV) | 2:12 |
+| 28 | [Niente Da Perdere](https://open.spotify.com/track/2lUti9Pis9z2IqP1IViXxF) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Niente Da Perdere](https://open.spotify.com/album/4VN7MdLoaXXwSqTjYWpl38) | 2:44 |
+| 29 | [\#WEOWE2](https://open.spotify.com/track/45gLLRDHtF7Cdm7TbThR1h) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [\#WEOWE2](https://open.spotify.com/album/5c7CoUQI2o9sGqeFmu4Y2X) | 2:08 |
+| 30 | [MOTORSPORT](https://open.spotify.com/track/2TZrC4DQY7dEohUl00UAmS) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [MOTORSPORT](https://open.spotify.com/album/3FT9uA9e5WuwMM1BuFU2PQ) | 1:55 |
 | 31 | [AAHORA](https://open.spotify.com/track/5HSGAZ9lgL19zyWwrgWcuw) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [AAHORA](https://open.spotify.com/album/07To5kvlGtnJZshPnUGE7R) | 2:28 |
 | 32 | [Malaga](https://open.spotify.com/track/5z4h4xGcFDkCz3bqhWolE2) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Malaga](https://open.spotify.com/album/4IziXI7cFEh03rNQUjxMul) | 2:24 |
 | 33 | [PIACERE FRANCESCO](https://open.spotify.com/track/7rbsHurbo79lcr954mwjyw) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8) | [PIACERE FRANCESCO](https://open.spotify.com/album/0vaYb9C3HxAFGwPJvIypgR) | 2:41 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 59 | [LA LEGGE NON È UGUALE PER TUTTI](https://open.spotify.com/track/3kaKs57hDKwhN96DqIOgbF) | [ZiYou](https://open.spotify.com/artist/6RdaSvAxIod8j6aBm7cF4U) | [LA LEGGE NON È UGUALE PER TUTTI](https://open.spotify.com/album/4QTx2RJCk856MP5vQ4WkQy) | 2:39 |
 | 60 | [Comment tu t'appelles](https://open.spotify.com/track/1OGvG0XEf41AxsgGF68lV3) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Comment tu t'appelles](https://open.spotify.com/album/63mSwU47Exb3aBPtqqNbUk) | 3:17 |
 
-Snapshot ID: `MTY1Mjk5NzY2MCwwMDAwMDNjYTAwMDAwMTgwZGU1NjlkZmUwMDAwMDE4MGRiZDJmN2Zh`
+Snapshot ID: `MTY1MzI5NjM2NywwMDAwMDNjYjAwMDAwMTgwZjAyNDg5M2QwMDAwMDE4MGRiZDJmN2Zh`

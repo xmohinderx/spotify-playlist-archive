@@ -1456,6 +1456,24 @@
     },
     {
       "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/57FiXP5MECC5vtGTC3JuWC"
+      },
+      "artists": [
+        {
+          "name": "Miss Madeline",
+          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177902,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/5rtdjMt1W8eYgrvHnYaCZB"
+    },
+    {
+      "album": {
         "name": "SAWAYAMA (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx"
       },

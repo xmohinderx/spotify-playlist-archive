@@ -2,7 +2,7 @@
 
 ### [Hits Urbanos](https://open.spotify.com/playlist/37i9dQZF1DWVskFRGurTfg)
 
-> Éxitos urbanos de Latinoamérica: Foto: El Alfa.
+> Éxitos urbanos de Latinoamérica: Foto: Santa Fe Klan & MC Davo
 
 237 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/2GQMqIHn6mzjfv4YUbCfpS)
 

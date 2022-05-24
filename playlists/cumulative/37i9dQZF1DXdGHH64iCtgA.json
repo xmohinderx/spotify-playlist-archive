@@ -169,7 +169,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 471123,
       "name": "Be Loved - Daniel Avery's'Divided Love'Remix",
       "url": "https://open.spotify.com/track/1POFzL0A1tDFkYgSNgcGUi"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 352246,
       "name": "Cirrus",
       "url": "https://open.spotify.com/track/2hNTfrAILBLesbPootV83e"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 271620,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/7ekWSkrWplexjibTqAjJvI"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 242982,
       "name": "Han Jan - Edit",
       "url": "https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 319458,
       "name": "Italove",
       "url": "https://open.spotify.com/track/2upjPXCYscwhOgazz6Remz"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 495872,
       "name": "Ivoire (feat. Kio Amachree)",
       "url": "https://open.spotify.com/track/6BlQZAp3rGiVJbSSjJ6LEJ"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 209555,
       "name": "Jam Fam - Chanel Show Version",
       "url": "https://open.spotify.com/track/5jnyeC8SjI3vUOtstA5kZy"
@@ -1057,10 +1057,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 176013,
       "name": "Larme \u00e0 gauche",
       "url": "https://open.spotify.com/track/5I0FpjL8ntcB3Z6MA4F1IH"
+    },
+    {
+      "album": {
+        "name": "Bromance #1 - Single",
+        "url": "https://open.spotify.com/album/50jBbRc85Two6YRoGbsGWt"
+      },
+      "artists": [
+        {
+          "name": "Brodinski",
+          "url": "https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK"
+        },
+        {
+          "name": "Louisahhh",
+          "url": "https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311272,
+      "name": "Let the Beat Control Your Body",
+      "url": "https://open.spotify.com/track/5Ku0pfmAZUyEbO5grfQsyP"
     },
     {
       "album": {
@@ -1205,7 +1227,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 233613,
       "name": "Lune est l'autre",
       "url": "https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ"
@@ -1223,7 +1245,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 413600,
       "name": "Musique",
       "url": "https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S"
@@ -1611,7 +1633,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 255720,
       "name": "sad day",
       "url": "https://open.spotify.com/track/6QRW5LyXtArAKluiyYfUA3"
@@ -1633,7 +1655,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 512000,
       "name": "Sensation - (Rrose Remix)",
       "url": "https://open.spotify.com/track/6mXZitYdWnNeNx9t8waEc7"
@@ -1975,7 +1997,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 397106,
       "name": "The Volume",
       "url": "https://open.spotify.com/track/1qWRGD7w0sd4ManHNxEjOa"

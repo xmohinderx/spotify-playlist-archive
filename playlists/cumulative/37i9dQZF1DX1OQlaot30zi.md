@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Villabanks, Shiva, tha Supreme, Gemitaiz e molti altri.
 
-144 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
+145 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [LA LEGGE NON È UGUALE PER TUTTI](https://open.spotify.com/track/3kaKs57hDKwhN96DqIOgbF) | [ZiYou](https://open.spotify.com/artist/6RdaSvAxIod8j6aBm7cF4U) | [LA LEGGE NON È UGUALE PER TUTTI](https://open.spotify.com/album/4QTx2RJCk856MP5vQ4WkQy) | 2:39 | 2022-05-10 | 2022-05-18 |
 | [La Moon \(feat\. Giovane Miska\)](https://open.spotify.com/track/3xfMjGbVxieTjmr7QWXNKO) | [Blake el Diablo](https://open.spotify.com/artist/3f0oZnKV2b5N8TDBnSGEOL), [YaluDream](https://open.spotify.com/artist/2p06NWAbxsP7iFmrq9Ny4J), [Rich Polo](https://open.spotify.com/artist/5xJNjRc4YuIeaPY0LweX17), [Giovane Miska](https://open.spotify.com/artist/172d1Ks0mK3OBicOBdWlAR) | [La Moon \(feat\. Giovane Miska\)](https://open.spotify.com/album/3f9TT0rIE88r4gO1c52L23) | 2:45 | 2022-05-12 | 2022-05-20 |
 | [La Suerte](https://open.spotify.com/track/60fed1GJX6ojVJnu5aGy4Z) | [Hicham](https://open.spotify.com/artist/7yPHguk7KYWINERqIQSVAq) | [La Suerte](https://open.spotify.com/album/4EFp9II1iLB2m7lTNnkgxC) | 2:49 | 2022-05-12 | 2022-05-20 |
+| [LAPROVINCE \#2](https://open.spotify.com/track/3eBjQXQ5CuRaUbKXj9WIVJ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [LAPROVINCE \#2](https://open.spotify.com/album/1WhTXqgT1roQzqSCYnrnSH) | 1:56 | 2022-05-22 |  |
 | [Le Ultime Lacrime](https://open.spotify.com/track/4oX4byHbImE4WAM85RGUWN) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Dafa](https://open.spotify.com/artist/0XL3wakjeNxxacLlnGAqXv), [Ape](https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM) | [Le Ultime Lacrime](https://open.spotify.com/album/02cHJg3HsKxWID0dAXpy8m) | 3:30 | 2022-05-10 | 2022-05-13 |
 | [Lettera](https://open.spotify.com/track/6gleaLyaGxgCEJqu10ksXr) | [Samy](https://open.spotify.com/artist/1Cf2hOIUGwQ3INfXlfZkaD) | [Lettera](https://open.spotify.com/album/11qC4TTRIBWTLJVq1CdhyV) | 2:12 | 2022-05-19 |  |
 | [MALA \(feat\. Lazza, Tony Effe, JVLI\)](https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [PLC tape 1](https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF) | 2:58 | 2022-05-10 |  |

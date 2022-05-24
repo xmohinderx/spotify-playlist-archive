@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 274285,
       "name": "Alien Activity",
       "url": "https://open.spotify.com/track/22Ay7NiHsP1OrovO77LDAP"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 265909,
       "name": "Bad from Morning",
       "url": "https://open.spotify.com/track/4DavmWrcEf9d3sQKkfSTU6"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 246857,
       "name": "Boomerang (Round & Round) - Serum Remix",
       "url": "https://open.spotify.com/track/6472IAXONSb11uwTIGQQoO"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 269473,
       "name": "Boxcutter",
       "url": "https://open.spotify.com/track/5BQThopmr37VEOFW7SScuC"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Certified Gs",
       "url": "https://open.spotify.com/track/0OFPij448pt21kHBHsT4au"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 271724,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/15AT2NXU53dPGnS568xKEH"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 204364,
       "name": "Do It Like Me",
       "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 274292,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/2s2uRehkP1H5jqzwiiD8PI"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 267586,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/1LIiaUqhedu2DyXHRFypCF"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 256551,
       "name": "Epicentre",
       "url": "https://open.spotify.com/track/54GrWSvAB0WfzqD6HWGwLe"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 228837,
       "name": "Fire Works 2 - Remix",
       "url": "https://open.spotify.com/track/4mCN3gZqyH5AIHu9stRVov"
@@ -775,10 +775,40 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 263314,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/6LWjwXoGxkMN9yxOSrguMJ"
+    },
+    {
+      "album": {
+        "name": "Girlz (L-Side Remix)",
+        "url": "https://open.spotify.com/album/6b4eS6SGoK1Oyf7hLrPSUM"
+      },
+      "artists": [
+        {
+          "name": "Potential Badboy",
+          "url": "https://open.spotify.com/artist/3tgRH8lQ25Totz9QkeyC3n"
+        },
+        {
+          "name": "L-Side",
+          "url": "https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR"
+        },
+        {
+          "name": "MC Fats",
+          "url": "https://open.spotify.com/artist/7cy71t1F8aAKPjTmt6PGyd"
+        },
+        {
+          "name": "Yush",
+          "url": "https://open.spotify.com/artist/6vG5fLQGKPnMzSbxV4diFH"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317177,
+      "name": "Girlz - L-Side Intro Remix",
+      "url": "https://open.spotify.com/track/2qEMJBxBGOIZeMLj3UPFAL"
     },
     {
       "album": {
@@ -855,7 +885,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 248239,
       "name": "Hazard",
       "url": "https://open.spotify.com/track/1qZZyFjwlAnb3RRYOO7y8Z"
@@ -969,7 +999,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 219428,
       "name": "Hurt - Kendrick Remix",
       "url": "https://open.spotify.com/track/2G7P0r5rDpLHheJ0IN2CYc"
@@ -1045,7 +1075,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 264685,
       "name": "Is It Possible",
       "url": "https://open.spotify.com/track/6n2P6oGffDzXReGv3boofn"
@@ -1081,7 +1111,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 235862,
       "name": "Kickons",
       "url": "https://open.spotify.com/track/2nLvgdviA51uIm9KnlcWv8"
@@ -1099,7 +1129,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 309986,
       "name": "Lady Petrol",
       "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
@@ -1117,7 +1147,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 251162,
       "name": "Laser",
       "url": "https://open.spotify.com/track/6A8xdDCg9ZXX7ixqADU4Sp"
@@ -1171,7 +1201,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 185086,
       "name": "Lift Off The Roof",
       "url": "https://open.spotify.com/track/7HcnRj6vM3fQ5xmn3AbJcq"
@@ -1225,7 +1255,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 287120,
       "name": "Made In China",
       "url": "https://open.spotify.com/track/4kDYdTvYFkgfFCE1fz6bEr"
@@ -1265,7 +1295,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 270171,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/2uG8wKppvOFiZdYzVsdpvS"
@@ -1287,7 +1317,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 297931,
       "name": "Mind The Gap - Turno Remix",
       "url": "https://open.spotify.com/track/1lNjAUuNXYwOAyai6uTg0x"
@@ -1309,7 +1339,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 246497,
       "name": "Mind Warp",
       "url": "https://open.spotify.com/track/1eOiR3omcI7SxBxyifehFi"
@@ -1355,7 +1385,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 264802,
       "name": "Money Moves - Remix",
       "url": "https://open.spotify.com/track/2hTkKz0ylLXhaEwOdEJxrR"
@@ -1467,7 +1497,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 282517,
       "name": "Owe You",
       "url": "https://open.spotify.com/track/5f3LbqyGnYKRf3VTpN671Z"
@@ -1607,7 +1637,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 274970,
       "name": "Right Behind You",
       "url": "https://open.spotify.com/track/5WIQx4jTbf252m11tgYDT9"
@@ -1695,7 +1725,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 268800,
       "name": "Snake",
       "url": "https://open.spotify.com/track/77LHQMJZ9q93DA81PuMg6S"
@@ -1717,7 +1747,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 197485,
       "name": "Somebody Else Part 2",
       "url": "https://open.spotify.com/track/0D8LbRJfY6AtnmBsNAxW9R"
@@ -1831,7 +1861,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 275862,
       "name": "Steppa",
       "url": "https://open.spotify.com/track/1SNpDm3SL1p0S7vGWfWBxL"
@@ -1867,7 +1897,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 278620,
       "name": "Synco",
       "url": "https://open.spotify.com/track/7vQSVysNGOOKtBmZ9JvHSz"
@@ -2103,7 +2133,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 226916,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
@@ -2121,7 +2151,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 238635,
       "name": "Whoom",
       "url": "https://open.spotify.com/track/0O9QfUm4Yvwwu8BuJV09aa"
@@ -2139,7 +2169,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 286896,
       "name": "Why Should I",
       "url": "https://open.spotify.com/track/29Yt9cDIOqlVmdvoYizSb4"
@@ -2197,7 +2227,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 237284,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"
@@ -2219,7 +2249,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 286666,
       "name": "You & I - Dr Meaker Remix",
       "url": "https://open.spotify.com/track/0naOpRxH1GlpIEH7lK591x"

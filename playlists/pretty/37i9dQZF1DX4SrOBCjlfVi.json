@@ -1,13 +1,33 @@
 {
   "description": "New joints of the week featuring Quavo, Takeoff, 42 Dugg and more. Cover: Moneybagg Yo",
-  "num_followers": 163830,
+  "num_followers": 164013,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxOTIwMCwwMDAwMDBkNTAwMDAwMTgwZGY5ZjRhZWUwMDAwMDE4MGRkYmVlYmY2",
+  "snapshot_id": "MTY1MzMzMzE1NiwwMDAwMDBkNjAwMDAwMTgwZjI1NWUwZDkwMDAwMDE4MGRkYmVlYmY2",
   "tracks": [
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "HOTEL LOBBY (Unc & Phew)",
+        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
@@ -47,26 +67,6 @@
       "duration_ms": 170254,
       "name": "BONNET (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/6yiKdWLeX8pgmEHzClUEXn"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "HOTEL LOBBY (Unc & Phew)",
-        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 142657,
-      "name": "HOTEL LOBBY (Unc & Phew)",
-      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
       "added_at": "2022-05-20 04:00:00",

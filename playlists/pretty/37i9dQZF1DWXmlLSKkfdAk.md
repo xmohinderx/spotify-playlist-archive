@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 
 > A fun mix of acoustic covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,695,878 likes - 200 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,695,926 likes - 200 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

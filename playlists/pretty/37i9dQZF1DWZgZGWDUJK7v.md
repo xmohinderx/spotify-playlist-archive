@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular animation & webtoon OSTs now! \(Cover: The Crush of Spring\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요! \(커버: 춘정지란\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,076 likes - 55 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,223 likes - 55 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

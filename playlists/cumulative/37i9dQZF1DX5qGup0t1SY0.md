@@ -4,7 +4,7 @@
 
 > Los nominados para los Premios Tu Música Urbano 2022
 
-109 songs - 6 hr 33 min - not published yet
+109 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/7AgMh1IW204NDOcXDiDV5N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

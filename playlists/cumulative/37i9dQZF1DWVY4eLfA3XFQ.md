@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring hand\-curated cuts from John Summit.
 
-415 songs - 1 day 0 hr 23 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
+416 songs - 1 day 0 hr 29 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Shake Down](https://open.spotify.com/track/4vwajBdOuPfSEX2BYDfRfO) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [Kaysin](https://open.spotify.com/artist/10mZhaOPNKtQfg46DptrBU) | [Shake Down](https://open.spotify.com/album/7tNSNwf4A19uJHx3d1D1l3) | 3:27 | 2022-03-11 | 2022-04-23 |
 | [Shake That Ass](https://open.spotify.com/track/1QZpBJPl53VZwsykILZltr) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Shake That Ass](https://open.spotify.com/album/1QWeKCtVO8WY91aNSkKYG6) | 2:06 | 2022-01-07 | 2022-02-26 |
 | [Shake That Ass](https://open.spotify.com/track/7iqH31kOUKIwCVzFqf9dm0) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Shake That Ass](https://open.spotify.com/album/21fqyF8BNpBNT55u1Ua5ld) | 2:06 | 2021-12-03 | 2022-01-14 |
+| [shawty.](https://open.spotify.com/track/1YGOdGy4tFmKEsjRyJyMIu) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [spring '22](https://open.spotify.com/album/6EnxDjtBP3qEAMxOhMJqrx) | 6:27 | 2022-05-23 |  |
 | [Shiver](https://open.spotify.com/track/23T4NPHbBzj3BcJifnLy7r) | [Heider](https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti) | [Shiver](https://open.spotify.com/album/3yeyCaGrMSHGhdL7hBJOzo) | 3:32 | 2021-11-26 | 2022-01-06 |
 | [Showing Off](https://open.spotify.com/track/6UxQOvVfE9xfWdYotjw5xX) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Cosoco](https://open.spotify.com/artist/2fmd4MXfldaYkJmeuQplfL) | [Showing Off](https://open.spotify.com/album/0MExIpcOyxcnNhlOX1CXdr) | 3:14 | 2022-05-06 |  |
 | [Sideline](https://open.spotify.com/track/0H3wnauakIIRxX51DkYtuc) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Sideline](https://open.spotify.com/album/21F97euPUgafnMNEiqlS3T) | 3:20 | 2022-05-13 |  |

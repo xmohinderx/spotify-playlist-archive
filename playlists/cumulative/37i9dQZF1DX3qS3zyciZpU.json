@@ -1526,6 +1526,24 @@
     },
     {
       "album": {
+        "name": "Take My Life",
+        "url": "https://open.spotify.com/album/4WRZE2BUfEylXIHFskmg85"
+      },
+      "artists": [
+        {
+          "name": "Austin Burke",
+          "url": "https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200109,
+      "name": "Take My Life",
+      "url": "https://open.spotify.com/track/6mJTy9XoiJIHXzVLMXwTYj"
+    },
+    {
+      "album": {
         "name": "Songs from 'For You'",
         "url": "https://open.spotify.com/album/01z0MEI8EPxiAl1GvgRovl"
       },
@@ -1847,6 +1865,24 @@
       "duration_ms": 225680,
       "name": "We Danced",
       "url": "https://open.spotify.com/track/4HHtqzri9jrmAGFyucxkLG"
+    },
+    {
+      "album": {
+        "name": "Wedding Dress",
+        "url": "https://open.spotify.com/album/48N7RsO9NW9PKALS4SJ40k"
+      },
+      "artists": [
+        {
+          "name": "Levi Hummon",
+          "url": "https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188823,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/2Jy50uaAgvyyrVOQsUv3rJ"
     },
     {
       "album": {

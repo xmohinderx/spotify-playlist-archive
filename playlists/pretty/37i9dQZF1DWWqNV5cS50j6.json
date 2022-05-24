@@ -1,13 +1,29 @@
 {
   "description": "Not not not pop. Cover: Johan Lenox",
-  "num_followers": 642627,
+  "num_followers": 642883,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzA4NDg1MiwwMDAwMzQ0NzAwMDAwMTgwZTM4OTEyMzMwMDAwMDE4MGI4YjM1YjMw",
+  "snapshot_id": "MTY1MzMyOTExMCwwMDAwMzQ0OTAwMDAwMTgwZjIxODI1YjkwMDAwMDE4MGI4YjM1YjMw",
   "tracks": [
+    {
+      "added_at": "2022-05-23 16:31:54",
+      "album": {
+        "name": "Casper Sage",
+        "url": "https://open.spotify.com/album/5DAYEhp2PPv7eDL5UTf4vr"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        }
+      ],
+      "duration_ms": 201942,
+      "name": "Summer's Gone",
+      "url": "https://open.spotify.com/track/5quogPZVWEjwBJoiEwTcZR"
+    },
     {
       "added_at": "2022-05-20 15:53:20",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 195786,
       "name": "Forever",
       "url": "https://open.spotify.com/track/08U90Je8ANncSpd6ptxNFt"
+    },
+    {
+      "added_at": "2022-05-13 04:17:00",
+      "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        }
+      ],
+      "duration_ms": 148194,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
     },
     {
       "added_at": "2022-05-20 22:14:12",
@@ -139,22 +171,6 @@
       "duration_ms": 191047,
       "name": "Hitting Different",
       "url": "https://open.spotify.com/track/56Q2pmSdy0jCJKEW6a5DsV"
-    },
-    {
-      "added_at": "2022-05-13 04:17:00",
-      "album": {
-        "name": "Hotline",
-        "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
-      },
-      "artists": [
-        {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        }
-      ],
-      "duration_ms": 148194,
-      "name": "Hotline",
-      "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
     },
     {
       "added_at": "2022-05-20 15:53:20",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2022-05-09 22:47:10",
       "album": {
-        "name": "Veteran",
-        "url": "https://open.spotify.com/album/51WLEfPEEkzAWurvuY6Gco"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 157258,
-      "name": "1539 N. Calvert",
-      "url": "https://open.spotify.com/track/6XyxCBp6x3jvtxXvMN5sAA"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
         "name": "Pronounced McGee",
         "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
       },
@@ -2231,26 +2231,6 @@
     {
       "added_at": "2022-05-09 22:47:10",
       "album": {
-        "name": "Teen Week",
-        "url": "https://open.spotify.com/album/0I4Mj0o5tw56sHVYkS6pm3"
-      },
-      "artists": [
-        {
-          "name": "dltzk",
-          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
-        },
-        {
-          "name": "kmoe",
-          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
-        }
-      ],
-      "duration_ms": 145183,
-      "name": "homeswitcher",
-      "url": "https://open.spotify.com/track/0QVjM0jL1OwDxUw4KfATKy"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
         "name": "Sunset Visionary, Vol. 2",
         "url": "https://open.spotify.com/album/1nEasgzWx61CJchM2eXNvM"
       },
@@ -2387,26 +2367,6 @@
     {
       "added_at": "2022-05-09 22:47:10",
       "album": {
-        "name": "A Quiet Farwell, 2016\u20132018 (Crater Speak)",
-        "url": "https://open.spotify.com/album/4bVaZIed4Ij5dPF0mh9AKn"
-      },
-      "artists": [
-        {
-          "name": "Slauson Malone",
-          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
-        },
-        {
-          "name": "Maxo",
-          "url": "https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe"
-        }
-      ],
-      "duration_ms": 77895,
-      "name": "Smile #2",
-      "url": "https://open.spotify.com/track/7osdzxtjERvxm03DaPsubC"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
         "name": "If I Could Hold Your Soul",
         "url": "https://open.spotify.com/album/39m6U4CrVMRxfHqcbqYTKS"
       },
@@ -2503,22 +2463,6 @@
     {
       "added_at": "2022-05-09 22:47:10",
       "album": {
-        "name": "Ghost With Skin",
-        "url": "https://open.spotify.com/album/4fHPtUfTxQLSRSh4JqA4uf"
-      },
-      "artists": [
-        {
-          "name": "Corbin",
-          "url": "https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff"
-        }
-      ],
-      "duration_ms": 221061,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/7CNlUOUZbaxcyorkQle8o5"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
         "name": "ALL GIRLS GO TO HEAVEN",
         "url": "https://open.spotify.com/album/1QmZZE11VkUcOKEO9SJ8R4"
       },
@@ -2547,22 +2491,6 @@
       "duration_ms": 179354,
       "name": "Sick",
       "url": "https://open.spotify.com/track/3P6BXQDPXeSR890gP7noMk"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "Let the Sun Talk",
-        "url": "https://open.spotify.com/album/1RU8i9ISNQ52Vs8msq30C1"
-      },
-      "artists": [
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 64765,
-      "name": "Love, of Money",
-      "url": "https://open.spotify.com/track/2XILilAwcXHdGwZLNHteue"
     },
     {
       "added_at": "2022-05-09 22:47:10",
@@ -2611,26 +2539,6 @@
       "duration_ms": 148953,
       "name": "say it twice",
       "url": "https://open.spotify.com/track/6oq3j9MoTRXrphekijMsuw"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "oOo that's my type (feat. Yung Baby Tate)",
-        "url": "https://open.spotify.com/album/12MXzGTIgDokAvCMR0qXHN"
-      },
-      "artists": [
-        {
-          "name": "Marian Hill",
-          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 161595,
-      "name": "oOo that's my type (feat. Yung Baby Tate)",
-      "url": "https://open.spotify.com/track/3hafGbhod5a1pRxeUrVD1O"
     }
   ],
   "unique_name": "anti pop",

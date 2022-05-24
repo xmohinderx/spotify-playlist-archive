@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3cRqTUHKctO.md) - [plain]
 
 > London club night <a href="https://www.instagram.com/bigdykeenergyldn/">Big Dyke Energy</a> take over Queer Spaces\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,544 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,553 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

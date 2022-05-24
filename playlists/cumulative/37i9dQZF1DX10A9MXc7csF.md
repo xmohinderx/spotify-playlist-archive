@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: Plan Exclusivo
 
-100 songs - 5 hr 14 min - not published yet
+101 songs - 5 hr 16 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [El Cholo \(En Vivo\)](https://open.spotify.com/track/7s0U0qA6BR0Kql7fvSH0Aa) | [6 Doble 7](https://open.spotify.com/artist/4uASG4oYMAOJbP30XK4hmW) | [En Vivo Con Norteño](https://open.spotify.com/album/48e9nDsvvO6IyMN8ukLVRZ) | 2:15 | 2022-05-14 |  |
 | [El Error](https://open.spotify.com/track/1KQ5s1khSX5yi1AIWxKbms) | [Baby Kintero](https://open.spotify.com/artist/1DTvd5Qjpee91lOAtK1e73) | [El Error](https://open.spotify.com/album/5zN0tGeyGxTHsZfpAyVbLG) | 3:08 | 2022-05-14 |  |
 | [El Fantasma](https://open.spotify.com/track/4Gqr2byRpTkarcyQ9Pye1h) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [El Fantasma](https://open.spotify.com/album/4gerOtayb9FjpowEUQgvz9) | 3:59 | 2022-05-14 |  |
-| [El Gordo Con Banda \- Live](https://open.spotify.com/track/2gB7rjmeQSP0BTwq7ebcCT) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [El Gordo Con Banda \(Live\)](https://open.spotify.com/album/0gFteM5FHo1persnhXH2kp) | 2:45 | 2022-05-14 |  |
+| [El Gordo Con Banda \- Live](https://open.spotify.com/track/2gB7rjmeQSP0BTwq7ebcCT) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [El Gordo Con Banda \(Live\)](https://open.spotify.com/album/0gFteM5FHo1persnhXH2kp) | 2:45 | 2022-05-14 | 2022-05-24 |
 | [El P1 Mentado](https://open.spotify.com/track/5eFUfgbfDQQl4n9Yc71lsQ) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [El P1 Mentado](https://open.spotify.com/album/12OHLObb5MgwucTWF6igSd) | 3:03 | 2022-05-14 |  |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-05-14 |  |
 | [En Las Nubes](https://open.spotify.com/track/7w33jezcbBOsxHDYlDIFpm) | [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [En Las Nubes](https://open.spotify.com/album/6qP4PaGwmTvXxY11bjueHq) | 2:50 | 2022-05-14 |  |
@@ -87,6 +87,7 @@
 | [Porte Placoso](https://open.spotify.com/track/3mCdl2vMRNL7AYZnQFhYzR) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Porte Placoso](https://open.spotify.com/album/3KSVGM2xWTUAiBtygxXvFp) | 4:21 | 2022-05-14 |  |
 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 | 2022-05-14 |  |
 | [Querido San Valentin](https://open.spotify.com/track/57HGscNGYhq3wPuanfOsCY) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Querido San Valentin](https://open.spotify.com/album/7DXYF70y6fJvXd3HC0qahu) | 4:21 | 2022-05-14 |  |
+| [Rolando En La Angelina](https://open.spotify.com/track/1xAkrUOFzkvnNZ5Sb0QqKr) | [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj) | [Rolando En La Angelina](https://open.spotify.com/album/26iH8P8fQ5tvGQ6VoS2elm) | 2:08 | 2022-05-14 |  |
 | [Sembrando](https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 3:08 | 2022-05-14 |  |
 | [Sentimental](https://open.spotify.com/track/1E7fM9oEA8irF9mFkvPAgY) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Sentimental](https://open.spotify.com/album/67cHoXvLUTqGmm1UWGdbms) | 2:11 | 2022-05-14 |  |
 | [Si Me Ven Tomar](https://open.spotify.com/track/4YtK6d4nvS7Z40Z12dYqZu) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Si Me Ven Tomar](https://open.spotify.com/album/6aOYYhHha8C74a19jItJrY) | 3:13 | 2022-05-14 |  |

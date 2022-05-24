@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 207407,
       "name": "7'11",
       "url": "https://open.spotify.com/track/49f4F5vB3f3Bt8jDPU2eRZ"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 134452,
       "name": "atrapada en el cielo",
       "url": "https://open.spotify.com/track/0xa6hDuygUskYwHD4hNXUR"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 235909,
       "name": "AYER",
       "url": "https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 221133,
       "name": "Carin\u0303ito",
       "url": "https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 164143,
       "name": "Cosas De La Vida",
       "url": "https://open.spotify.com/track/0WfQLUjyg5wn0zWxsOda07"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 224337,
       "name": "c\u00f3mo acaba",
       "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 175813,
       "name": "El Alma",
       "url": "https://open.spotify.com/track/6rr5SobYOQHv1fvGf6CJNS"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 182659,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/4n1n6LadWODpql8E1QxxN6"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 232906,
       "name": "i only want you when i'm fucked up",
       "url": "https://open.spotify.com/track/3Nm0hvJ46o57zUDSOQmINq"
@@ -1025,6 +1025,24 @@
       "duration_ms": 160909,
       "name": "if you let me",
       "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
+    },
+    {
+      "album": {
+        "name": "Inmadura",
+        "url": "https://open.spotify.com/album/0m096w1bGYtCWkjxvlKo3B"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143090,
+      "name": "Inmadura",
+      "url": "https://open.spotify.com/track/7mYYGLg3gp39fj3zlWfjAS"
     },
     {
       "album": {
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 168933,
       "name": "La Canci\u00f3n Que No Quiero Cantarte",
       "url": "https://open.spotify.com/track/1BLWBkRUpDRTNxIjfhDlOn"
@@ -1176,6 +1194,24 @@
     },
     {
       "album": {
+        "name": "Wild Idea",
+        "url": "https://open.spotify.com/album/1ToPusrmJdTth68L0ZRQBU"
+      },
+      "artists": [
+        {
+          "name": "Andrea Franz",
+          "url": "https://open.spotify.com/artist/50O6F9ntYmI2tUDY0dxr4G"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Locura Por Ti",
+      "url": "https://open.spotify.com/track/4JfE73XGKx0IRpP56sEVzt"
+    },
+    {
+      "album": {
         "name": "Manera",
         "url": "https://open.spotify.com/album/4LDN91r2RIbo2rf6vaksmr"
       },
@@ -1241,7 +1277,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 193429,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
@@ -1277,10 +1313,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 172561,
       "name": "MENTIRA",
       "url": "https://open.spotify.com/track/1Pu4cnq4smdcFpDkYNfAPM"
+    },
+    {
+      "album": {
+        "name": "Mira Loco",
+        "url": "https://open.spotify.com/album/1GSKwQEp4LaOnXST8H9Oi8"
+      },
+      "artists": [
+        {
+          "name": "Valeria Scolari",
+          "url": "https://open.spotify.com/artist/1RE6hxyCRV22rq5Kr3xdGJ"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178601,
+      "name": "Mira Loco",
+      "url": "https://open.spotify.com/track/4U3m6mG7gzJR38lNyzoZa5"
     },
     {
       "album": {
@@ -1317,6 +1371,24 @@
       "duration_ms": 214432,
       "name": "M\u00cdO A\u00daN",
       "url": "https://open.spotify.com/track/4W1w9X63tBsilzTXnk8P68"
+    },
+    {
+      "album": {
+        "name": "M\u00edrame a la Cara",
+        "url": "https://open.spotify.com/album/3JzLCtObrGxiITV3qxtGgy"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155408,
+      "name": "M\u00edrame a la Cara",
+      "url": "https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg"
     },
     {
       "album": {
@@ -1451,7 +1523,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 147144,
       "name": "Qu\u00e9 F\u00e1cil (No Era Verdad)",
       "url": "https://open.spotify.com/track/0d191vIctIkgSj7xqLeO9O"
@@ -1567,10 +1639,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 203064,
       "name": "Se metieron en mi casa",
       "url": "https://open.spotify.com/track/4aGrgj6OiWW2HXnJzcGQd6"
+    },
+    {
+      "album": {
+        "name": "sed de ti",
+        "url": "https://open.spotify.com/album/2LkgT4vephhVSHnoAu5wr3"
+      },
+      "artists": [
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "sed de ti",
+      "url": "https://open.spotify.com/track/05cjfY52W42O47Y1kljg2c"
     },
     {
       "album": {
@@ -1722,6 +1812,24 @@
     },
     {
       "album": {
+        "name": "DOS DOS DOS",
+        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190580,
+      "name": "Toda la Vida",
+      "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
+    },
+    {
+      "album": {
         "name": "Todo Lamento",
         "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
       },
@@ -1733,7 +1841,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 155675,
       "name": "Todo Lamento",
       "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
@@ -1805,7 +1913,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 197120,
       "name": "Vuelves",
       "url": "https://open.spotify.com/track/3LWVY4DMOKW2JpOttms6Q6"

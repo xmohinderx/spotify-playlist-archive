@@ -1148,6 +1148,40 @@
     },
     {
       "album": {
+        "name": "Jayeshbhai Jordaar",
+        "url": "https://open.spotify.com/album/6nfjA6lMV1bnSfuC8v1ct3"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166600,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/324Y55zUTRSMdtFwc91csa"
+    },
+    {
+      "album": {
         "name": "First Kiss",
         "url": "https://open.spotify.com/album/6pNlP66N8CcqeFb4YhZcb7"
       },

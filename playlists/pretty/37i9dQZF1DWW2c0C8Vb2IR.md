@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Mark de Clive\-Lowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,607 likes - 64 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,636 likes - 64 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

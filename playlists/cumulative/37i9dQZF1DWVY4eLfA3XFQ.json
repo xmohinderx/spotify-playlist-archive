@@ -6636,6 +6636,24 @@
     },
     {
       "album": {
+        "name": "spring '22",
+        "url": "https://open.spotify.com/album/6EnxDjtBP3qEAMxOhMJqrx"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387906,
+      "name": "shawty.",
+      "url": "https://open.spotify.com/track/1YGOdGy4tFmKEsjRyJyMIu"
+    },
+    {
+      "album": {
         "name": "Shiver",
         "url": "https://open.spotify.com/album/3yeyCaGrMSHGhdL7hBJOzo"
       },

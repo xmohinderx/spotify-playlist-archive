@@ -1856,6 +1856,24 @@
     },
     {
       "album": {
+        "name": "La Tiriwixiada",
+        "url": "https://open.spotify.com/album/638vgbZ00GPAkfJDmT8JAC"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "La Tiriwixiada",
+      "url": "https://open.spotify.com/track/4mexeasKTWMOjNFQeYazHZ"
+    },
+    {
+      "album": {
         "name": "La \u00daltima Palabra",
         "url": "https://open.spotify.com/album/4Gxo54ul7L9ZCvUux0Drv5"
       },
@@ -2277,7 +2295,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 157431,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/0cOuTJ7k92o9V6hkf3fxpW"

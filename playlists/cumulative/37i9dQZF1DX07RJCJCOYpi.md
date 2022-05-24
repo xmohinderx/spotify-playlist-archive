@@ -4,7 +4,7 @@
 
 > The leading wave of Latin Electronic music\. Cover: Natanael Cano, Steve Aoki
 
-97 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
+99 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 | 2022-05-06 |  |
 | [El Incomprendido](https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt) | [El Incomprendido](https://open.spotify.com/album/046Eyq94B09gkJ8ISXxzt8) | 4:27 | 2022-03-22 |  |
 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 | 2022-03-22 |  |
-| [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:49 | 2022-04-29 |  |
+| [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:49 | 2022-04-29 | 2022-05-24 |
 | [Falso Amor](https://open.spotify.com/track/2sNKnmpgjKJgyPDAfqxL80) | [Salomé](https://open.spotify.com/artist/3GzqWbNPAKo0u0f5Dz6AUJ) | [Falso Amor](https://open.spotify.com/album/693AKWbr6QeY6mvnNhBD8c) | 2:51 | 2022-03-22 | 2022-04-21 |
 | [Fenix \- Radio Edit](https://open.spotify.com/track/1kATj4UD3ZO9EeiEyRXBx0) | [Leeb](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Hidd Sage](https://open.spotify.com/artist/3d6BUISFDk2Nkb1NUOuTrc) | [Fenix \(Radio Edit\)](https://open.spotify.com/album/4OWOcaoeR6A6HmOfC2UYyQ) | 2:35 | 2022-04-20 |  |
 | [Fiesta Forever](https://open.spotify.com/track/2RGUFATsyrVxWYhCNUfU9R) | [Cuban Deejays](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Fiesta Forever \(Produced by Cuban Deejays\)](https://open.spotify.com/album/0fwWbAUwfLJnH4xSvIn82x) | 2:32 | 2022-03-22 | 2022-04-21 |
@@ -67,6 +67,7 @@
 | [más de ti](https://open.spotify.com/track/55bcTduPNKrs96TfNTjfXH) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [más de ti](https://open.spotify.com/album/7k0VM3WSb93hOblMsIYnPG) | 3:07 | 2022-03-22 |  |
 | [Napoleona](https://open.spotify.com/track/4hlK5ALDOCVvGE22II5Wbb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w) | [Napoleona](https://open.spotify.com/album/0gMknkywDezGJrrCdyKHYb) | 2:52 | 2022-03-22 | 2022-04-21 |
 | [Nataaoki](https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:30 | 2022-04-20 |  |
+| [Nazareno](https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Nazareno](https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU) | 3:43 | 2022-05-23 |  |
 | [Nieve](https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Nieve](https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C) | 2:20 | 2022-03-22 |  |
 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 | 2022-04-20 |  |
 | [No Vas A Volver](https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p) | [Madhouse](https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS), [Danno Summer](https://open.spotify.com/artist/14wMryw8ERrhLGLDapsmJ2) | [Malas Decisiones](https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2) | 3:01 | 2022-03-22 | 2022-04-21 |
@@ -105,5 +106,6 @@
 | [Vuela](https://open.spotify.com/track/6nJtkNn2xNPS7wnMqqxkUN) | [Mr\. Saik](https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60), [Dj Flechas](https://open.spotify.com/artist/5Fw4n5XRnte30eKCBAdwWH) | [Vuela](https://open.spotify.com/album/5uh94tIV50XBqUTR3trC2c) | 3:35 | 2022-03-22 | 2022-04-29 |
 | [Wanna Stop](https://open.spotify.com/track/1vj9zQwbID2XkPEsYOp59f) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Wanna Stop](https://open.spotify.com/album/3w65NF9vnUUXnphSZiof2L) | 2:33 | 2022-03-22 | 2022-05-14 |
 | [We Outside \- Sak Noel & Salvi Remix](https://open.spotify.com/track/5hbSLOZkTwfSbAglosqKh1) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY), [Kronic](https://open.spotify.com/artist/2V30V0HJG5k0FKh3Zd3UnH), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat) | [We Outside \(Sak Noel & Salvi Remix\)](https://open.spotify.com/album/2AZmSJDDeiQmf0q0EMRyKG) | 2:37 | 2022-03-22 |  |
+| [Yo Las Pongo \(feat\. Maffio\)](https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Yo Las Pongo \(feat\. Maffio\)](https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF) | 3:11 | 2022-05-23 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

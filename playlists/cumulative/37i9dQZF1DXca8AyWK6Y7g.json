@@ -2025,7 +2025,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 163504,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/4f0HrumuDOiNdzXRGKq5yB"
@@ -2231,7 +2231,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 126316,
       "name": "blue",
       "url": "https://open.spotify.com/track/3A9RV7frnaeqKGvF7kb0vd"
@@ -2383,7 +2383,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 140733,
       "name": "boomerang",
       "url": "https://open.spotify.com/track/4EHeLkvI4zxD0lcsM2s4b6"
@@ -5261,7 +5261,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 130360,
       "name": "Drowning in the Culture",
       "url": "https://open.spotify.com/track/2L79zW9LUnohYifrJDPBtg"
@@ -5359,7 +5359,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 220408,
       "name": "Easier Said",
       "url": "https://open.spotify.com/track/4xtovOO8zN3TYmC8kcLcN1"
@@ -5681,7 +5681,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 155382,
       "name": "Ew",
       "url": "https://open.spotify.com/track/5uucqkAbfZCxwdTWolFyju"
@@ -5837,7 +5837,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "Fall in Love with You.",
       "url": "https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h"
@@ -6905,7 +6905,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 188543,
       "name": "girl ur so pretty",
       "url": "https://open.spotify.com/track/2U55cNHErmbpOxq9TTrjSG"
@@ -8615,7 +8615,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 129056,
       "name": "Hot Mess",
       "url": "https://open.spotify.com/track/1lHPNdcjlgNFfuc9pYvwGi"
@@ -10830,6 +10830,24 @@
     },
     {
       "album": {
+        "name": "Line",
+        "url": "https://open.spotify.com/album/5wFOIRtz2zAN3RA8DcVO7K"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196142,
+      "name": "Line",
+      "url": "https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP"
+    },
+    {
+      "album": {
         "name": "Living",
         "url": "https://open.spotify.com/album/71WzlDb4sKJlvbakA9qRcR"
       },
@@ -12349,7 +12367,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 175318,
       "name": "Natural Wonder",
       "url": "https://open.spotify.com/track/3nQ26cKpg4PrPZGWBUhwoP"
@@ -14981,7 +14999,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 196533,
       "name": "Run",
       "url": "https://open.spotify.com/track/7x6KLLjsxpR9zVfzUEGfX4"
@@ -15411,7 +15429,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 128770,
       "name": "Scooter",
       "url": "https://open.spotify.com/track/1RBIzko2PMY5CP0d3MIkwl"
@@ -15957,7 +15975,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 194202,
       "name": "Sick To My Stomach",
       "url": "https://open.spotify.com/track/0RR2jiJKt8vNQkmPkud2qn"
@@ -17591,7 +17609,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 161982,
       "name": "sunrise",
       "url": "https://open.spotify.com/track/3lTH6qyJ1FEoO6Wkm9vl0I"
@@ -17703,7 +17721,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 214323,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/7zvpy4zhp5594U635c3SFL"
@@ -18143,7 +18161,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 180903,
       "name": "that friend",
       "url": "https://open.spotify.com/track/0jI7t8dSBRQU8EOlicWTmL"
@@ -18493,7 +18511,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 175950,
       "name": "The Way You Are",
       "url": "https://open.spotify.com/track/52GPw706N71AnEaa1oPBtU"
@@ -18837,7 +18855,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 169850,
       "name": "Too Precious",
       "url": "https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG"
@@ -20013,7 +20031,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 159750,
       "name": "we'll make this ok (with Travis Barker)",
       "url": "https://open.spotify.com/track/63Olr9i7mMzAs6JInlHDeb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: Cover: <a href="https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1?si=e2ce5007e6b64e4b&nd=1">Rhea Raj</a>, <a href="https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU?si=goh0OpByTOK1n9on42RgHg&nd=1">Naliya</a>, Baddluck, Kanner
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,457 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,495 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [100 Years](https://open.spotify.com/track/2lWJ1YbPoWhDlPBeDd70JY) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Infinite Worlds](https://open.spotify.com/album/3IdjWB75odcQeQvAVxicDc) | 2:08 |
 | 40 | [Child](https://open.spotify.com/track/4b58UyTZK1qqkDAUVF0JN1) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Child](https://open.spotify.com/album/4nz18DILyysoglGaV015Cq) | 3:03 |
 
-Snapshot ID: `MTY1MzI2OTA1NiwwMDAwMDAwMDY1ZWQ2OTY0ZTJlYTkwMmRjZGFlZDlhZGM0YTZkZjAx`
+Snapshot ID: `MTY1MzM1NDc1NiwwMDAwMDAwMDY1ZWQ2OTY0ZTJlYTkwMmRjZGFlZDlhZGM0YTZkZjAx`

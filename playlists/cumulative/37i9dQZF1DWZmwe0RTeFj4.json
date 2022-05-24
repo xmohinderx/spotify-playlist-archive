@@ -24,6 +24,32 @@
     },
     {
       "album": {
+        "name": "A La Ver..",
+        "url": "https://open.spotify.com/album/1sYPttVJGMWfnfAWhhQWXp"
+      },
+      "artists": [
+        {
+          "name": "Son de Oro",
+          "url": "https://open.spotify.com/artist/4zr1qI15v1KosVo4PhUGML"
+        },
+        {
+          "name": "El N\u00e1poles",
+          "url": "https://open.spotify.com/artist/3qUdyjuTvTQQ1Nx1sOvZ0J"
+        },
+        {
+          "name": "Banda La Indicada La Mejor De Mazatl\u00e1n Sinaloa",
+          "url": "https://open.spotify.com/artist/2Ffy8htNvGoyPRxiTLOg1A"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196271,
+      "name": "A La Ver..",
+      "url": "https://open.spotify.com/track/3CU7UUoeJjEcxc8xm2fQ2r"
+    },
+    {
+      "album": {
         "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
         "url": "https://open.spotify.com/album/0ER0ByDLQTlDQ5jHruKjMO"
       },
@@ -57,7 +83,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 188661,
       "name": "A Trav\u00e9s del Vaso",
       "url": "https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw"
@@ -173,7 +199,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 206208,
       "name": "Aqui Seguimos",
       "url": "https://open.spotify.com/track/0JeMF25cnyvmt0K1fEztIf"
@@ -401,7 +427,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 217750,
       "name": "Cada Quien",
       "url": "https://open.spotify.com/track/3Gohrh4yReDRDjOkpXy4WO"
@@ -495,6 +521,24 @@
       "duration_ms": 181314,
       "name": "Consid\u00e9rame Pasado",
       "url": "https://open.spotify.com/track/7EHav8c7VJHcc6uP7Y2ROQ"
+    },
+    {
+      "album": {
+        "name": "Del Repertorio",
+        "url": "https://open.spotify.com/album/2LkGPzcF9gytytVxc3EKZ1"
+      },
+      "artists": [
+        {
+          "name": "Grupo 360",
+          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178586,
+      "name": "Creo Estar So\u00f1ando",
+      "url": "https://open.spotify.com/track/5ASmmjwYwbDOraM1FDJQhM"
     },
     {
       "album": {
@@ -624,6 +668,24 @@
     },
     {
       "album": {
+        "name": "Destapen Otra",
+        "url": "https://open.spotify.com/album/1lkasIW60ThDmDRed5v7CJ"
+      },
+      "artists": [
+        {
+          "name": "Julio Haro",
+          "url": "https://open.spotify.com/artist/4Yq2F6FJ7b6RLuQBbFOTPO"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230067,
+      "name": "Destapen Otra",
+      "url": "https://open.spotify.com/track/1PwJ1mDKBz7K3nQwxzw0Oh"
+    },
+    {
+      "album": {
         "name": "Dime Quien Es",
         "url": "https://open.spotify.com/album/2ZPnjO1jWMFdSKzsVHRVci"
       },
@@ -643,6 +705,24 @@
       "duration_ms": 205045,
       "name": "Dime Quien Es",
       "url": "https://open.spotify.com/track/1rCNYXEbmd6T4GkCPhnxqL"
+    },
+    {
+      "album": {
+        "name": "El B\u00e9lico",
+        "url": "https://open.spotify.com/album/6Hz8mrb4AKtpcprrNEcaBc"
+      },
+      "artists": [
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167132,
+      "name": "El B\u00e9lico",
+      "url": "https://open.spotify.com/track/3Aa53BCQxLcCQ5wscC0KuC"
     },
     {
       "album": {
@@ -787,7 +867,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 165035,
       "name": "El Fracasado",
       "url": "https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT"
@@ -863,7 +943,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 191751,
       "name": "El Que a Ti Te Gusta",
       "url": "https://open.spotify.com/track/5drpITkUIpFNfuP2eCWAz4"
@@ -885,6 +965,42 @@
       "duration_ms": 183594,
       "name": "El Ruddy",
       "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
+    },
+    {
+      "album": {
+        "name": "El Seven",
+        "url": "https://open.spotify.com/album/0kis2ZiuLEWN1ow98TR0f1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154978,
+      "name": "El Seven",
+      "url": "https://open.spotify.com/track/07y97kTaxDblALAqQyubsP"
+    },
+    {
+      "album": {
+        "name": "El Se\u00f1or De Las Canas",
+        "url": "https://open.spotify.com/album/6m0yMZyLQ2RG3WADeVsGcM"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169586,
+      "name": "El Se\u00f1or De Las Canas",
+      "url": "https://open.spotify.com/track/64XQbUbKp5s0vzPItYaTmz"
     },
     {
       "album": {
@@ -943,6 +1059,24 @@
       "duration_ms": 211933,
       "name": "El Valor De Un Var\u00f3n",
       "url": "https://open.spotify.com/track/40Q8hCWZLdaGGrNakSXD84"
+    },
+    {
+      "album": {
+        "name": "El Yoyo",
+        "url": "https://open.spotify.com/album/5DS5IxqsEAjopymFvVrxsh"
+      },
+      "artists": [
+        {
+          "name": "Grupo Delta Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183347,
+      "name": "El Yoyo",
+      "url": "https://open.spotify.com/track/53lyBENuC5Y1V9OPUSiFPH"
     },
     {
       "album": {
@@ -1221,7 +1355,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 197133,
       "name": "La Bala",
       "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
@@ -1419,7 +1553,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 186120,
       "name": "La Super Del Barril",
       "url": "https://open.spotify.com/track/660F2s421In55amf3bkFMU"
@@ -1441,6 +1575,24 @@
       "duration_ms": 146698,
       "name": "La Tartamuda",
       "url": "https://open.spotify.com/track/0MnMMqU804fSQtJNebQaZp"
+    },
+    {
+      "album": {
+        "name": "La Vida Ruina (En Vivo Desde La Perla Tapatia)",
+        "url": "https://open.spotify.com/album/47JiMvotl9xC4mwZAR12UY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124749,
+      "name": "La Vida Ruina (En Vivo Desde La Perla Tapatia)",
+      "url": "https://open.spotify.com/track/6CaJzPuQFqwZ2AAj5jET3y"
     },
     {
       "album": {
@@ -2757,7 +2909,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 155909,
       "name": "S\u00ed Como No",
       "url": "https://open.spotify.com/track/5TOathKIZl0EoGUKUoLpdx"
@@ -2865,7 +3017,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 178090,
       "name": "Virgencita de Mi Vida",
       "url": "https://open.spotify.com/track/1DWZ5RN9sDPX5itb8F31SR"
@@ -2887,6 +3039,24 @@
       "duration_ms": 216053,
       "name": "Y Por Lo Pronto",
       "url": "https://open.spotify.com/track/0hFIstvDcpYCMzSwC83SUi"
+    },
+    {
+      "album": {
+        "name": "Y Si Pasaba",
+        "url": "https://open.spotify.com/album/34T2S9NeDRVcY8KxQaRbR7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alianza",
+          "url": "https://open.spotify.com/artist/29NLE1onOSUN21rerlSHy9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147552,
+      "name": "Y Si Pasaba",
+      "url": "https://open.spotify.com/track/49vMoBuPGeI2UJzVGhLzsj"
     },
     {
       "album": {

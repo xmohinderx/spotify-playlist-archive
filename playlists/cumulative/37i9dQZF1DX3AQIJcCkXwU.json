@@ -1254,6 +1254,24 @@
     },
     {
       "album": {
+        "name": "Taaja Shaanti",
+        "url": "https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm"
+      },
+      "artists": [
+        {
+          "name": "Vinod Kusari",
+          "url": "https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181363,
+      "name": "Sachetan",
+      "url": "https://open.spotify.com/track/6nDSQdvkVHIWW9ga17UUnL"
+    },
+    {
+      "album": {
         "name": "Sahaj Atma",
         "url": "https://open.spotify.com/album/5IZZ9OprXmK2qYkMm11QnB"
       },
@@ -1413,6 +1431,24 @@
       "duration_ms": 266666,
       "name": "Sun Riser",
       "url": "https://open.spotify.com/track/26vVwggMW8iUbDDxlDygMJ"
+    },
+    {
+      "album": {
+        "name": "Taaja Shaanti",
+        "url": "https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm"
+      },
+      "artists": [
+        {
+          "name": "Vinod Kusari",
+          "url": "https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262061,
+      "name": "Taaja Shaanti",
+      "url": "https://open.spotify.com/track/1ilZEo94ZDPvU7Yj1tocRO"
     },
     {
       "album": {

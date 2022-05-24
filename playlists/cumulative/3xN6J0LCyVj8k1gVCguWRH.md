@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,410 songs - 3 day 10 hr 14 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,412 songs - 3 day 10 hr 19 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,6 +526,7 @@
 | [Happy \- Radio Edit](https://open.spotify.com/track/5gTpqiIkb3qeyc9PNdlkpB) | [OLI](https://open.spotify.com/artist/4aVGCycBaldIruvN75WWpl) | [Happy](https://open.spotify.com/album/47dlnosjBAqW7fvA0BeScE) | 2:44 | 2021-04-10 | 2021-12-27 |
 | [Happy to Serve](https://open.spotify.com/track/3HYz5CF0KOWkyUvCYXT0Xf) | [SONI](https://open.spotify.com/artist/34rnL9eK7fmTwuEcPvTJNS), [Rebel ACA](https://open.spotify.com/artist/0ze2Yu0NUzfbXo6OqnOW22), [David Rogers](https://open.spotify.com/artist/5rB84h1HFjfcgZA0VedyDm), [French Monkey Wrench](https://open.spotify.com/artist/4s9HBqleSGkg8triBzWpB9), [UncleP](https://open.spotify.com/artist/1tQNLQWqEybEYuP0OaOTwF), [Alex Hamilton](https://open.spotify.com/artist/5mogivn75BbRPwNsakFIgX), [Izzy Austin](https://open.spotify.com/artist/5ALCq1KK75GE5aLT2IJjXs) | [Happy to Serve](https://open.spotify.com/album/3QqCpdryTBGVV2n1inuOWD) | 3:36 | 2020-06-01 | 2020-07-02 |
 | [Happy Too](https://open.spotify.com/track/0wP4LXfQIQ7zFzGr6ZZISN) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Happy Too](https://open.spotify.com/album/227WR8aTwGwJrWCFBrJbQA) | 3:10 | 2020-07-11 | 2020-07-28 |
+| [Happy With Me](https://open.spotify.com/track/5c26M7Mc2XFzvR1gBOJcIP) | [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Happy With Me](https://open.spotify.com/album/49Xy2MqV2IrfFEOiq8lOaG) | 2:24 | 2022-05-23 |  |
 | [HARD KNOCK LULLABY](https://open.spotify.com/track/0Ep8CAlS9lHGOtYfDpLyfc) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [HARD KNOCK LULLABY](https://open.spotify.com/album/0vTYYaXzrTelHVmPPGFIxc) | 2:33 | 2021-09-17 | 2021-10-04 |
 | [Harmless Fun](https://open.spotify.com/track/0bQjb0IEsdstyU9lbMrpvv) | [Belot](https://open.spotify.com/artist/05saREsqgyy8WODHpOIrKK) | [Harmless Fun](https://open.spotify.com/album/793FnGjF7xF9u534THZKgC) | 2:12 | 2021-11-30 | 2021-12-20 |
 | [Harriet Tubman?](https://open.spotify.com/track/3rrwJ7jtjRt7IpFRSHlcGX) | [Harry Nathan](https://open.spotify.com/artist/2Sr0UVpJdu6joEkH10koQ9), [you](https://open.spotify.com/artist/3VuLvqIglstSL00kJEjobb) | [Sweet Release](https://open.spotify.com/album/4dhSEQinsLnGBtk2UCXrpI) | 3:19 | 2020-11-06 | 2020-11-21 |
@@ -1056,6 +1057,7 @@
 | [Say Hello](https://open.spotify.com/track/6LyarjEWv8aP5DLDclk0hl) | [telco](https://open.spotify.com/artist/6M6obxInga7XUzdpC7irmd) | [Say Hello](https://open.spotify.com/album/21zQkZDEt3v6yCYpBHacNH) | 4:13 | 2020-08-15 | 2020-09-04 |
 | [Say My Name](https://open.spotify.com/track/3FIG3zy8HSDKMi4kzRZRCF) | [Eli Anderson](https://open.spotify.com/artist/1z29pSlefggVpHPre3jw7L) | [Say My Name](https://open.spotify.com/album/0J3kwDxPF8h0ptYSKDzrsq) | 3:42 | 2022-02-18 | 2022-03-07 |
 | [Say That](https://open.spotify.com/track/25arvmrYvFkTti9WHhSnlS) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Say That](https://open.spotify.com/album/1oxTCUHmB8L8eLp2c5RRNL) | 3:28 | 2022-02-11 | 2022-02-27 |
+| [screenlight](https://open.spotify.com/track/3SUqMjY0AOtmsBbbO9HbQG) | [HERDD](https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL) | [screenlight](https://open.spotify.com/album/2XqLmBU9PGOqecAKg0D7T9) | 2:09 | 2022-05-23 |  |
 | [Sea Salt](https://open.spotify.com/track/2d9ob8Skm4xeorCwWXkpwb) | [Sophie Dorsten](https://open.spotify.com/artist/5CdWY3kUKjlO7gDpdW2JXR), [Alex Dorsten](https://open.spotify.com/artist/0n8DZSotJdu0tz4cFTZHNF) | [Sea Salt](https://open.spotify.com/album/6zXUfzIz4w4MaoS5ed88tA) | 2:47 | 2021-05-08 | 2021-11-07 |
 | [Searchin' \- Original Mix](https://open.spotify.com/track/0W04NlgVayujQBOsRW8gw0) | [Sebb Junior](https://open.spotify.com/artist/0oP6v3SuOC5jPc5pGUQdsD), [Karmina Dai](https://open.spotify.com/artist/05RLuucyiLswN7bNiV6Ma3) | [Together Alone](https://open.spotify.com/album/10YwwAZHM65fOGu3bGqb71) | 4:15 | 2021-02-12 | 2021-02-27 |
 | [Secret Places](https://open.spotify.com/track/49d1JMJusDfWXDf78yGKiS) | [Kindred Connection](https://open.spotify.com/artist/5cEEoJbXSjPdfO4xYWXPvg) | [Secret Places](https://open.spotify.com/album/5fwLSEZ5dGpxet0h5vG2eV) | 3:12 | 2021-05-08 | 2021-05-23 |

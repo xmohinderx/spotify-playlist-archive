@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-93 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+95 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Reflection](https://open.spotify.com/track/6htEm5TojHcHv4eRWSedAY) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Reverie](https://open.spotify.com/album/3YGjIM9DblIObRjp1hOKua) | 2:28 | 2022-04-04 |  |
 | [Remote](https://open.spotify.com/track/5IrLLzBYXza3WcB89KjioW) | [Om Lighthouse](https://open.spotify.com/artist/5AzmHIExEw7ULbdoni3rif) | [Remote](https://open.spotify.com/album/2rGJ64xAX9hUmaapGFRCGD) | 5:15 | 2022-04-04 |  |
 | [Road to Asarganj](https://open.spotify.com/track/0CGvs9ThJYRe9fE2cEVfAm) | [Shanti Kapil](https://open.spotify.com/artist/49UVawvMt5wKFBt7FPRT35) | [Bekhudi](https://open.spotify.com/album/2yCK96ne1ESoQGSrFHXyE8) | 5:43 | 2022-04-04 | 2022-04-21 |
+| [Sachetan](https://open.spotify.com/track/6nDSQdvkVHIWW9ga17UUnL) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Taaja Shaanti](https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm) | 3:01 | 2022-05-23 |  |
 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/2SxQ32cI3A8XBH4535QnwJ) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/5IZZ9OprXmK2qYkMm11QnB) | 5:59 | 2022-04-04 |  |
 | [Santosa \(Contentment\)](https://open.spotify.com/track/2oa9m04tRuNocGalPvAv4R) | [Michael Mandrell and Benjy Wertheimer](https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD) | [Anjali](https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7) | 8:36 | 2022-04-04 |  |
 | [Sapphire Dreams](https://open.spotify.com/track/26jg6XR2GmKTomzljp9aTC) | [Ledd Blue](https://open.spotify.com/artist/1YGWpdwoILEnUbvEZx3xnE) | [Sapphire Dreams](https://open.spotify.com/album/6rbIV6wLOZVpHkyThEFsE5) | 3:22 | 2022-04-04 |  |
@@ -84,6 +85,7 @@
 | [Silver Keys](https://open.spotify.com/track/0dTYfQD9vR39dLLv0TfXVl) | [Simon Shavi](https://open.spotify.com/artist/3bU7LIIa7VaEkMwmcqbZOK) | [Silver Keys](https://open.spotify.com/album/4GiYY8khJkt4Csn1I7NcID) | 3:40 | 2022-04-04 |  |
 | [Songs From the Seven Towers](https://open.spotify.com/track/05FWTD99Edbcn2WHakyk4w) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Tales From The Grand Bazaar](https://open.spotify.com/album/2Al6Kbhpuz7MTaffnffc17) | 7:58 | 2022-04-04 |  |
 | [Sun Riser](https://open.spotify.com/track/26vVwggMW8iUbDDxlDygMJ) | [Daya Misra](https://open.spotify.com/artist/4ym3cVsniN8Zfiq6c2mKb2) | [Sun Riser](https://open.spotify.com/album/1CtGzSHFnQW6THLOu4U1ZK) | 4:26 | 2022-04-04 |  |
+| [Taaja Shaanti](https://open.spotify.com/track/1ilZEo94ZDPvU7Yj1tocRO) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Taaja Shaanti](https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm) | 4:22 | 2022-05-23 |  |
 | [Ten Horses](https://open.spotify.com/track/4VzBi4yTPzR4kGl6kDgRbN) | [Banaras Baba & Kolkata Kid](https://open.spotify.com/artist/1sKc8FjKRB835PrHYJ77Nj) | [From North to South](https://open.spotify.com/album/4wRtJEazDyldXESARKSCmx) | 2:32 | 2022-04-04 |  |
 | [The Berber of Seville \- The Berber of Suburbia Mix](https://open.spotify.com/track/0XUBsZjhee9fgmeVzLv92A) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Bombay Dub Orchestra](https://open.spotify.com/album/4vRhEwSJAPGam5L9qv9FAV) | 6:12 | 2022-04-04 |  |
 | [The Charmer](https://open.spotify.com/track/0QJrweWdWjeTgUCzlYNjw2) | [Lohar Lo](https://open.spotify.com/artist/1hnelI3NPY7liDYDvvcren) | [The Evening Charmer](https://open.spotify.com/album/0nviYGnTaD9YQlJWKEKfYJ) | 3:54 | 2022-04-04 |  |

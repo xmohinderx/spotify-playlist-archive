@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "'Chaand Baaliyan' and other popular Indie hits. Cover: Anumita Nadesan",
+  "description": "Songs from Prateek Kuhad's latest album and more.",
   "name": "Indie India ",
   "published_playlist_ids": [
     "5J0oFaPhwRhYmz4fIMaWG7"
@@ -178,6 +178,24 @@
     },
     {
       "album": {
+        "name": "Akhiyaan",
+        "url": "https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191868,
+      "name": "Akhiyaan",
+      "url": "https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz"
+    },
+    {
+      "album": {
         "name": "Alag Aasmaan",
         "url": "https://open.spotify.com/album/2WSMj9vMUGTwAMq0fo1vXi"
       },
@@ -193,6 +211,24 @@
       "duration_ms": 212773,
       "name": "Alag Aasmaan",
       "url": "https://open.spotify.com/track/74kCarkFBzXYXNkkYJIsG0"
+    },
+    {
+      "album": {
+        "name": "The Way That Lovers Do",
+        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153693,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h"
     },
     {
       "album": {
@@ -1081,7 +1117,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 180013,
       "name": "Just A Word",
       "url": "https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u"
@@ -1121,6 +1157,24 @@
       "duration_ms": 157777,
       "name": "Kaari",
       "url": "https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK"
+    },
+    {
+      "album": {
+        "name": "Kahaani",
+        "url": "https://open.spotify.com/album/1MnbaNHLBduuqDZwU0uWTU"
+      },
+      "artists": [
+        {
+          "name": "Dream Note",
+          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188200,
+      "name": "Kahaani",
+      "url": "https://open.spotify.com/track/0lbe1bIqb5rR1czdQP6fTK"
     },
     {
       "album": {
@@ -1405,6 +1459,24 @@
       "duration_ms": 212530,
       "name": "Kya Tum Naraaz Ho? (Raw)",
       "url": "https://open.spotify.com/track/2rjCLFdX8n9xLoMZgdMMxt"
+    },
+    {
+      "album": {
+        "name": "Lage Nahi Man",
+        "url": "https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR"
+      },
+      "artists": [
+        {
+          "name": "Vismay Patel",
+          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191770,
+      "name": "Lage Nahi Man",
+      "url": "https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy"
     },
     {
       "album": {
@@ -1727,7 +1799,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 281666,
       "name": "Parinda",
       "url": "https://open.spotify.com/track/2Pas1bpuA8riVr0BOTCpJx"
@@ -2033,7 +2105,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 152320,
       "name": "Shehron Ke Raaz",
       "url": "https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY"
@@ -2293,7 +2365,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 193925,
       "name": "Tu Hai Wajah",
       "url": "https://open.spotify.com/track/7zep4BfQRkfASc8qhX0cct"

@@ -664,6 +664,28 @@
     },
     {
       "album": {
+        "name": "LAPROVINCE #2",
+        "url": "https://open.spotify.com/album/1WhTXqgT1roQzqSCYnrnSH"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116669,
+      "name": "LAPROVINCE #2",
+      "url": "https://open.spotify.com/track/3eBjQXQ5CuRaUbKXj9WIVJ"
+    },
+    {
+      "album": {
         "name": "MASK",
         "url": "https://open.spotify.com/album/2SD92ubkmpy5cnEy1Xfmpt"
       },

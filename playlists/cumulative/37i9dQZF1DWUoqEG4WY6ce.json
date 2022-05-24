@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 285160,
       "name": "Blood Bank",
       "url": "https://open.spotify.com/track/7qUoDTmVj07qUf6ZBDhWKl"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 228055,
       "name": "Bring My Baby Back",
       "url": "https://open.spotify.com/track/70WY0OFaz7293OjqeUPJnL"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 263880,
       "name": "Caf\u00e9 Amarillo",
       "url": "https://open.spotify.com/track/13KkPgATUmUh4b1vWjkNTB"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 161906,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
@@ -1723,7 +1723,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 357160,
       "name": "Impossible Germany",
       "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
@@ -1892,6 +1892,24 @@
     },
     {
       "album": {
+        "name": "Carnavas",
+        "url": "https://open.spotify.com/album/0uRfhGq6y1ODKhjfsGzbV8"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354346,
+      "name": "Lazy Eye",
+      "url": "https://open.spotify.com/track/3TZXieYvqCuR40LZJbp6Ik"
+    },
+    {
+      "album": {
         "name": "This Is All Yours",
         "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
@@ -1903,7 +1921,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 170358,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/50gBMfXEfegUjPJTgj170R"
@@ -2455,7 +2473,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 195733,
       "name": "Oxford Comma",
       "url": "https://open.spotify.com/track/1CZw0Lymzi2Lvy1XZ6rXh5"
@@ -2671,7 +2689,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 188410,
       "name": "Ruin Your Night",
       "url": "https://open.spotify.com/track/6WkUf2gOjccjhJOvFeHx57"
@@ -3053,7 +3071,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 257859,
       "name": "Super Natural",
       "url": "https://open.spotify.com/track/2HnMhvOVA1FK8C61nMhJEj"
@@ -3089,7 +3107,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 216853,
       "name": "Take You Back",
       "url": "https://open.spotify.com/track/5xjDVAPLOovtYtzswnCxRS"
@@ -3237,7 +3255,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 231838,
       "name": "The Magician",
       "url": "https://open.spotify.com/track/3dsd09qrt34YuS6NPbQtYq"
@@ -3907,7 +3925,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 287506,
       "name": "Yoshimi Battles the Pink Robots, Pt. 1",
       "url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"

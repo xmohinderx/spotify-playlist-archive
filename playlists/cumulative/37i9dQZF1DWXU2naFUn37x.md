@@ -4,7 +4,7 @@
 
 > La nuova casa dello street rap italiano\. Benvenuti su Street Culto\. Cover: Capo Plaza
 
-58 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
+59 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Italiano Anthem](https://open.spotify.com/track/0oMq1JmynUHMCOfH40k7B8) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Italiano Anthem](https://open.spotify.com/album/0lv5APWWEFXdXjUXNOKaZx) | 2:15 | 2022-05-11 |  |
 | [JEANS \(feat\. Capo Plaza\)](https://open.spotify.com/track/1pjSpXlkz4iqFIesJIPZU7) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [ERROR 442](https://open.spotify.com/album/3WHbkZf28MHGTiAYH2rnjs) | 3:16 | 2022-05-11 |  |
 | [LAPROVINCE \#1](https://open.spotify.com/track/2Z9uQAn8v8m6ZPFh4bsqY4) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [LAPROVINCE \#1](https://open.spotify.com/album/3THjA1Ova7s3TevMi65qTS) | 2:38 | 2022-05-11 |  |
+| [LAPROVINCE \#2](https://open.spotify.com/track/3eBjQXQ5CuRaUbKXj9WIVJ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [LAPROVINCE \#2](https://open.spotify.com/album/1WhTXqgT1roQzqSCYnrnSH) | 1:56 | 2022-05-23 |  |
 | [MASK](https://open.spotify.com/track/6P8OzV6alsFX9tBKNQ6c9s) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [MASK](https://open.spotify.com/album/2SD92ubkmpy5cnEy1Xfmpt) | 2:21 | 2022-05-11 |  |
 | [Merce](https://open.spotify.com/track/07E65Obut2yA4w5QwjdVbK) | [SAVAGE](https://open.spotify.com/artist/7dKxlVuj7nRRvhCShzMcXY), [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Merce](https://open.spotify.com/album/4ZFag6AQKHHAGVGCKNAg5J) | 2:20 | 2022-05-11 | 2022-05-13 |
 | [Mh Ah Ah](https://open.spotify.com/track/6zbKIw7roanc3RdrWALwVx) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [Mh Ah Ah](https://open.spotify.com/album/1zEEoBK5gEw6JoBlm6Y0sy) | 2:07 | 2022-05-11 |  |
