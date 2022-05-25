@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 182449,
       "name": "Argalak Kama Kont",
       "url": "https://open.spotify.com/track/2zmQqYm3VvOXtpom1g2N2g"
@@ -1566,6 +1566,28 @@
     },
     {
       "album": {
+        "name": "Mitghaer W Halyan",
+        "url": "https://open.spotify.com/album/6htpatd9SodufzqQDrLjM3"
+      },
+      "artists": [
+        {
+          "name": "Mohamed AlSalim",
+          "url": "https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S"
+        },
+        {
+          "name": "Mostafa Ibrahim",
+          "url": "https://open.spotify.com/artist/6rEEUjWP7GWSQHo5sTU2ZU"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250906,
+      "name": "Mitghaer W Halyan",
+      "url": "https://open.spotify.com/track/6dnkpGCXQc22MpGYrO1tFn"
+    },
+    {
+      "album": {
         "name": "Mo Wafi (\u0645\u0648 \u0648\u0641\u064a)",
         "url": "https://open.spotify.com/album/2LJBbAAvWPt4ai0H2Cuf9r"
       },
@@ -1964,6 +1986,24 @@
     },
     {
       "album": {
+        "name": "Waiak",
+        "url": "https://open.spotify.com/album/5j1NW6jEgcCgy7PsFA9h3Y"
+      },
+      "artists": [
+        {
+          "name": "Haitham Yusuf",
+          "url": "https://open.spotify.com/artist/02zgHwO8Mwq86RTuXL3JXQ"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "Waiak",
+      "url": "https://open.spotify.com/track/6iJ9ROZDjbvKBr8cdrVNiF"
+    },
+    {
+      "album": {
         "name": "Wakty AlSaeb",
         "url": "https://open.spotify.com/album/3HPlvNI6bh9TROhf6REe8R"
       },
@@ -2029,7 +2069,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 200448,
       "name": "Ya Ghality",
       "url": "https://open.spotify.com/track/59RLZGo87dYKyPOCcAAgSL"

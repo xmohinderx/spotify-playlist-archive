@@ -1028,6 +1028,36 @@
     },
     {
       "album": {
+        "name": "Schubert: Piano trios, Op. 99 & 100",
+        "url": "https://open.spotify.com/album/5Du6sP3TFI2soF0tPatDM1"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Andreas Staier",
+          "url": "https://open.spotify.com/artist/3IOUX2zimWLnlS0kRyJQJq"
+        },
+        {
+          "name": "Daniel Sepec",
+          "url": "https://open.spotify.com/artist/4U95BxLlxv3fDQ8TpL30FS"
+        },
+        {
+          "name": "Roel Dieltiens",
+          "url": "https://open.spotify.com/artist/6WKKEjvbccpj0xEHHpAL2Q"
+        }
+      ],
+      "date_added": "2021-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567733,
+      "name": "Piano Trio No. 2 in E-Flat Major, Op. 100 D. 929: II. Andante con moto",
+      "url": "https://open.spotify.com/track/00zJDVXhQvGixkoMC45crr"
+    },
+    {
+      "album": {
         "name": "The Man Who Wasn't There - OST",
         "url": "https://open.spotify.com/album/7H3fSDgC1GRIX3MQG0Pu1M"
       },
@@ -1527,36 +1557,6 @@
       "duration_ms": 342706,
       "name": "The Ride Of The Valkyries",
       "url": "https://open.spotify.com/track/3RVpd1YvoSXj8Xi5izMs07"
-    },
-    {
-      "album": {
-        "name": "Schubert: Piano trios, Op. 99 & 100",
-        "url": "https://open.spotify.com/album/5Du6sP3TFI2soF0tPatDM1"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Andreas Staier",
-          "url": "https://open.spotify.com/artist/3IOUX2zimWLnlS0kRyJQJq"
-        },
-        {
-          "name": "Daniel Sepec",
-          "url": "https://open.spotify.com/artist/4U95BxLlxv3fDQ8TpL30FS"
-        },
-        {
-          "name": "Roel Dieltiens",
-          "url": "https://open.spotify.com/artist/6WKKEjvbccpj0xEHHpAL2Q"
-        }
-      ],
-      "date_added": "2021-05-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 567733,
-      "name": "Trio pour piano et violoncelle en Mi B\u00e9mol Majeur, D. 929, Op. 100: II. Andante con moto",
-      "url": "https://open.spotify.com/track/00zJDVXhQvGixkoMC45crr"
     },
     {
       "album": {

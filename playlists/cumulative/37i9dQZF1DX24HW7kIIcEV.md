@@ -94,6 +94,6 @@
 | [When You Look Me in the Eyes](https://open.spotify.com/track/6YnauKvhKMFOX63RwmiCwH) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/6V6xjV5e4VYUqvQFBCx1rb) | 4:09 | 2022-03-25 |  |
 | [Who Says](https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:15 | 2022-03-25 |  |
 | [Year 3000](https://open.spotify.com/track/7BbyWKteSctTKe696qf7fw) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [It's About Time](https://open.spotify.com/album/3tnBL4yVKSTaUtjeypEwCe) | 3:21 | 2022-03-25 |  |
-| [You Are the Music in Me](https://open.spotify.com/track/0Qd6nAlCe5RCSpFpQVT4JI) | [Troy](https://open.spotify.com/artist/3csbLu0Bw0GtcB8w8mZDkl), [Gabriella](https://open.spotify.com/artist/0o5KCcAS38WAD1uSjuLmwW) | [High School Musical 2](https://open.spotify.com/album/4EqBweuKsDW4wd0CNZYSrG) | 3:27 | 2022-03-25 |  |
+| [You Are the Music in Me](https://open.spotify.com/track/0Qd6nAlCe5RCSpFpQVT4JI) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Gabriella](https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7) | [High School Musical 2](https://open.spotify.com/album/4EqBweuKsDW4wd0CNZYSrG) | 3:27 | 2022-03-25 |  |
 
 \*This playlist was first scraped on 2022-04-01. Prior content cannot be recovered.

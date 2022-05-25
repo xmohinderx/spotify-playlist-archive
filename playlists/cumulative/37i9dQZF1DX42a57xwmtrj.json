@@ -185,7 +185,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 145217,
       "name": "Antes Me Gustabas",
       "url": "https://open.spotify.com/track/0FqtI5YKYauiW4HfBqPPBs"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 261038,
       "name": "Como Dona a Su Agujero",
       "url": "https://open.spotify.com/track/4SeWTbfjNvu6ljXCo61tra"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 301680,
       "name": "D\u00e9jalo",
       "url": "https://open.spotify.com/track/6CqGIY1S178hzRvAKh1Z1r"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 187893,
       "name": "El ni\u00f1o sin amor",
       "url": "https://open.spotify.com/track/2tHmBRB9B9aHHLtO2XiRJ2"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 253653,
       "name": "El No Lo Mato",
       "url": "https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 252958,
       "name": "El No Lo Mat\u00f3",
       "url": "https://open.spotify.com/track/53jLJDQk8rk5GAHXDd0MrW"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 168948,
       "name": "Fue en un Caf\u00e9",
       "url": "https://open.spotify.com/track/7siXhQaEJkIIJQmznXWfCa"
@@ -862,6 +862,24 @@
     },
     {
       "album": {
+        "name": "Botellita De Jerez",
+        "url": "https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186226,
+      "name": "Guacarrock",
+      "url": "https://open.spotify.com/track/2YwMzdQvUYoZZX1WX8ezc1"
+    },
+    {
+      "album": {
         "name": "15 Rolitas de Amor",
         "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
@@ -873,7 +891,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 280240,
       "name": "Ha Vuelto Ya",
       "url": "https://open.spotify.com/track/3MTq6Gbw6pDp5NZJ0e2idG"
@@ -927,7 +945,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 389863,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/3JrPxPnQ2TdBF6BZuZpzTK"
@@ -981,7 +999,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 155852,
       "name": "Juan el Descuartizador",
       "url": "https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 194066,
       "name": "Laberinto de la Soledad",
       "url": "https://open.spotify.com/track/1qilssmXFoyUuQxA20dpAB"
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 253013,
       "name": "Me Llamas",
       "url": "https://open.spotify.com/track/2vurarFFGibcMG7Bdx7WDH"
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 342706,
       "name": "Metro balderas",
       "url": "https://open.spotify.com/track/6ShfvZJYI3GSdaNaQ1bMVR"
@@ -1569,7 +1587,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 342893,
       "name": "Oye cantinero",
       "url": "https://open.spotify.com/track/6G1omxCOzzW0KSTpfnovu7"
@@ -1771,7 +1789,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 291426,
       "name": "Que Ser\u00e1 de M\u00ed",
       "url": "https://open.spotify.com/track/6hwU9WaaHd6MQlk2LzHJsb"
@@ -1865,7 +1883,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 336200,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F"
@@ -1991,7 +2009,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 186986,
       "name": "Todo me sale mal",
       "url": "https://open.spotify.com/track/1DyDnz5SW4QFc6Qx8cAeG6"
@@ -2009,7 +2027,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 284640,
       "name": "Todo sea por el rocanrol",
       "url": "https://open.spotify.com/track/7LEVHYuAwO8smfoevi8tYV"
@@ -2063,7 +2081,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 242680,
       "name": "Tu Mam\u00e1 No Me Quiere",
       "url": "https://open.spotify.com/track/0cDbBduK0f4n0WBQjThaYV"

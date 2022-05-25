@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,216 likes - 102 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,215 likes - 101 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 35 | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/28y750mmZ90J6ss2RLQNK7) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/album/4uclvwR2Rro2n4jCm7kR3C) | 3:25 |
 | 36 | [1989](https://open.spotify.com/track/5LgopqF6Rqfp8cWdj9XzCM) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [1989](https://open.spotify.com/album/5L6AKgaJyex0tb5TfdsF6S) | 2:17 |
 | 37 | [SPLAT](https://open.spotify.com/track/71rw9MB77BR8LHMFZK8gKV) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [SPLAT](https://open.spotify.com/album/52ZIdjV2wJ5QMqeDevcpKM) | 2:05 |
-| 38 | [Madness \(feat\. Zak Abel\)](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness \(feat\. Zak Abel\)](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
+| 38 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
 | 39 | [frown](https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE) | 2:19 |
 | 40 | [Body](https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Body](https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk) | 3:30 |
 | 41 | [Ernesto \- A COLORS SHOW](https://open.spotify.com/track/0cjhPcpQ6jTA5UPO9ELwNT) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Ernesto \(A COLORS SHOW\)](https://open.spotify.com/album/6AYl9xxhzY8jenvkmipT4Y) | 3:51 |
@@ -104,11 +104,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 94 | [you were in my dream](https://open.spotify.com/track/0Lg3v086REgQTLexgvfWDE) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [you were in my dream](https://open.spotify.com/album/3Kq9ayCMlcTr6dpm77qNwM) | 3:26 |
 | 95 | [16](https://open.spotify.com/track/36uyGq6gJG1QYgQUVCXse4) | [Josh Sahunta](https://open.spotify.com/artist/37aXAbBndtjTPR4aUKumLV) | [Mellowdrama](https://open.spotify.com/album/2s1hKEteiEuNCSudfDsbOx) | 3:01 |
 | 96 | [Grandfather](https://open.spotify.com/track/6Mf7qSGGEDuxV95aQpf9Ty) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Grandfather](https://open.spotify.com/album/4FcEruvFCCjxQ4GyikOUFX) | 4:24 |
-| 97 | [dancing on the edge](https://open.spotify.com/track/0gEoT7N1BBTK42pdzGL6FW) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [dancing on the edge](https://open.spotify.com/album/710p7FOrLGToB5XDoS7i0e) | 2:11 |
-| 98 | [I Want Billy Corgan To Sue Me](https://open.spotify.com/track/4UykZSvIb8jFUdrXSNgJrQ) | [The Fake Friends](https://open.spotify.com/artist/5kUo5px2DcGcD6RRV2R4jz) | [Good Enough](https://open.spotify.com/album/2WiRqFu6qMNtCMlvdWBtv8) | 3:49 |
-| 99 | [Five Star \(feat\. Mannie\)](https://open.spotify.com/track/4KNMuolosXn26j24ED7DSv) | [Tia Bank$](https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU), [Mannie](https://open.spotify.com/artist/0zgAhjlUqDIcAm9hwZmiFw) | [Money Talks](https://open.spotify.com/album/1AuIqJrDEQfuxHsizoYlKj) | 3:40 |
-| 100 | [Embers](https://open.spotify.com/track/01m6fExuEqN0gvMA1jvgYp) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Embers](https://open.spotify.com/album/1aln1K7dPaQI4JbmBYBPLH) | 3:58 |
-| 101 | [I See Angels](https://open.spotify.com/track/7oevaBmWzvCxx1CYUu9O05) | [Tess Parks](https://open.spotify.com/artist/0EPmJUz0lE18y95cYzB840) | [And Those Who Were Seen Dancing](https://open.spotify.com/album/2gmI7DNy0pf6bRz5anaH16) | 3:42 |
-| 102 | [extra](https://open.spotify.com/track/7KZySbbZKymxgsecEaFmPQ) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [extra](https://open.spotify.com/album/6dY3Qu3XLfiiisvdeN3jee) | 3:14 |
+| 97 | [I Want Billy Corgan To Sue Me](https://open.spotify.com/track/4UykZSvIb8jFUdrXSNgJrQ) | [The Fake Friends](https://open.spotify.com/artist/5kUo5px2DcGcD6RRV2R4jz) | [Good Enough](https://open.spotify.com/album/2WiRqFu6qMNtCMlvdWBtv8) | 3:49 |
+| 98 | [Five Star \(feat\. Mannie\)](https://open.spotify.com/track/4KNMuolosXn26j24ED7DSv) | [Tia Bank$](https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU), [Mannie](https://open.spotify.com/artist/0zgAhjlUqDIcAm9hwZmiFw) | [Money Talks](https://open.spotify.com/album/1AuIqJrDEQfuxHsizoYlKj) | 3:40 |
+| 99 | [Embers](https://open.spotify.com/track/01m6fExuEqN0gvMA1jvgYp) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Embers](https://open.spotify.com/album/1aln1K7dPaQI4JbmBYBPLH) | 3:58 |
+| 100 | [I See Angels](https://open.spotify.com/track/7oevaBmWzvCxx1CYUu9O05) | [Tess Parks](https://open.spotify.com/artist/0EPmJUz0lE18y95cYzB840) | [And Those Who Were Seen Dancing](https://open.spotify.com/album/2gmI7DNy0pf6bRz5anaH16) | 3:42 |
+| 101 | [extra](https://open.spotify.com/track/7KZySbbZKymxgsecEaFmPQ) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [extra](https://open.spotify.com/album/6dY3Qu3XLfiiisvdeN3jee) | 3:14 |
 
-Snapshot ID: `MTY1MzAyMDQ4NiwwMDAwMDJjYzAwMDAwMTgwZGZiMmVhMGYwMDAwMDE4MGRlZmI1Mzdi`
+Snapshot ID: `MTY1MzM5OTQ1MiwwMDAwMDJjZDAwMDAwMTgwZjY0OTc5ZTYwMDAwMDE4MGRlZmI1Mzdi`

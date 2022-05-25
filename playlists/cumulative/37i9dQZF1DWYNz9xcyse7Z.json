@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-23",
   "description": "Recordando el legado campirano y rancher\u00f3n con las cl\u00e1sicas del sierre\u00f1o. Ariel Camacho en portada.",
   "name": "Sierre\u00f1as Viejitas",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "053xQr5gbucf3knzQjJ0pJ"
+  ],
   "tracks": [
     {
       "album": {
@@ -24,6 +26,24 @@
     },
     {
       "album": {
+        "name": "La Vida Sigue Igual",
+        "url": "https://open.spotify.com/album/5O9XtJYDmBjc4cRr1iHiQR"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172973,
+      "name": "A Cada Rato",
+      "url": "https://open.spotify.com/track/6672upRFaGAF2pkBJITqWO"
+    },
+    {
+      "album": {
         "name": "Raza Pesada",
         "url": "https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t"
       },
@@ -35,7 +55,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 194813,
       "name": "Ambicion",
       "url": "https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk"
@@ -93,6 +113,24 @@
       "duration_ms": 192480,
       "name": "Aunque No Seas Para Mi",
       "url": "https://open.spotify.com/track/7Cbu9P0tnVcVxFfIShxUXI"
+    },
+    {
+      "album": {
+        "name": "Mi Guitarra Y Yo",
+        "url": "https://open.spotify.com/album/5RzfxZNDUrlruKHo1kYGq1"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136106,
+      "name": "Aunque Por Fin Te Vas",
+      "url": "https://open.spotify.com/track/2eZ7aKBUAZGqbVL9jYPS1Z"
     },
     {
       "album": {
@@ -370,6 +408,24 @@
     },
     {
       "album": {
+        "name": "Tres Suspiros",
+        "url": "https://open.spotify.com/album/1uBsBFgV33cAfgSkIfD9bB"
+      },
+      "artists": [
+        {
+          "name": "Los Dos De La Sierra",
+          "url": "https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162013,
+      "name": "Dos Seres Que Se Aman",
+      "url": "https://open.spotify.com/track/6EvHYa6KUiXAl9rqt7E7Z5"
+    },
+    {
+      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/0Vp01LOGNIS2NXudZqhIwA"
       },
@@ -565,7 +621,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 178128,
       "name": "El Primer Tonto",
       "url": "https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb"
@@ -583,7 +639,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 147880,
       "name": "El Ranchero Afamado",
       "url": "https://open.spotify.com/track/3rwY8ugSp7G5nRAIXiTlJZ"
@@ -659,7 +715,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 289802,
       "name": "El Venadito",
       "url": "https://open.spotify.com/track/5ZTb56u69iePiT3tzknR6k"
@@ -677,10 +733,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 163773,
       "name": "Ella Me Dijo Que No",
       "url": "https://open.spotify.com/track/3S5Z71zGniOIV9cqSFBzQ0"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
+        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185040,
+      "name": "Encendido Clavel",
+      "url": "https://open.spotify.com/track/7b28hNlTMK0ChHBszSrSgN"
     },
     {
       "album": {
@@ -803,7 +877,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 178747,
       "name": "Flor de capomo",
       "url": "https://open.spotify.com/track/23GIPGCGfx3fGczHQNZNou"
@@ -821,7 +895,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 215301,
       "name": "Fue Tu Culpa",
       "url": "https://open.spotify.com/track/1aCOsi8TtpL7Mo8Lx0qT0f"
@@ -915,7 +989,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 151858,
       "name": "La chuparrosas",
       "url": "https://open.spotify.com/track/2kLeTQPQ5DSjiIsQH7aRVQ"
@@ -987,7 +1061,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 204660,
       "name": "La novia del pajarillo",
       "url": "https://open.spotify.com/track/43slrQltJesEVnMrZRlq6Q"
@@ -1077,7 +1151,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 184386,
       "name": "Las Lluvias",
       "url": "https://open.spotify.com/track/5JWnxJIBUa7bVHqaZIEoUy"
@@ -1149,7 +1223,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 201549,
       "name": "Los Barandales Del Puente",
       "url": "https://open.spotify.com/track/2du1PD4nE2dYU6lfZeVD16"
@@ -1171,6 +1245,24 @@
       "duration_ms": 158333,
       "name": "Los Chiquinarcos",
       "url": "https://open.spotify.com/track/4zoUYrtW9Pql2fGVaiCnhU"
+    },
+    {
+      "album": {
+        "name": "Los Cuen's De Sinaloa",
+        "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
+      },
+      "artists": [
+        {
+          "name": "Los Cuen's De Sinaloa",
+          "url": "https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "Los Plebes Atrevidos",
+      "url": "https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0"
     },
     {
       "album": {
@@ -1221,7 +1313,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 162539,
       "name": "Mujer Paseada",
       "url": "https://open.spotify.com/track/2PIHW6nhUIF99L3Uz8bTef"
@@ -1239,7 +1331,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 168973,
       "name": "Ni Dada La Quiero",
       "url": "https://open.spotify.com/track/6wld61I8oL6n5w1dO0DawE"
@@ -1383,7 +1475,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 192000,
       "name": "Para Morir Naci",
       "url": "https://open.spotify.com/track/58VjK7wICoMm0M2zftvsll"
@@ -1588,6 +1680,24 @@
     },
     {
       "album": {
+        "name": "Mi Guitarra Y Yo",
+        "url": "https://open.spotify.com/album/5RzfxZNDUrlruKHo1kYGq1"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177800,
+      "name": "Que Caso Tiene",
+      "url": "https://open.spotify.com/track/7EBDJJ6ovV80cvMrQEeK4V"
+    },
+    {
+      "album": {
         "name": "Hombres de rancho",
         "url": "https://open.spotify.com/album/4Up8EAkBlnniJH6DJPux3q"
       },
@@ -1617,10 +1727,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 191543,
       "name": "Que Casualidad",
       "url": "https://open.spotify.com/track/3XcAGUv3H0dnsJVrmf1NO1"
+    },
+    {
+      "album": {
+        "name": "Siguen los Exitos",
+        "url": "https://open.spotify.com/album/3x6EZXwwRU7kDo9DKzVWKa"
+      },
+      "artists": [
+        {
+          "name": "Sierre\u00f1os de Sinaloa",
+          "url": "https://open.spotify.com/artist/49XtLcagl18fnpRxiW7QW8"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178706,
+      "name": "Que Casualidad",
+      "url": "https://open.spotify.com/track/1ARNcGlXQKky7zX4TZkCtx"
     },
     {
       "album": {
@@ -1635,7 +1763,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 154226,
       "name": "Que Te Casas",
       "url": "https://open.spotify.com/track/3rZD94i2rUr1nddo8uVXWq"
@@ -1671,7 +1799,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 203346,
       "name": "Qui\u00e9reme Como Te Quiero",
       "url": "https://open.spotify.com/track/5HOgr1vGGin7nicfjrylP6"
@@ -1733,6 +1861,24 @@
       "duration_ms": 219903,
       "name": "Reflejos del Viejo",
       "url": "https://open.spotify.com/track/4qAMJga3GyOCwOkj40J3j7"
+    },
+    {
+      "album": {
+        "name": "Mi Guitarra y Yo Vol. 2",
+        "url": "https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238626,
+      "name": "Se Me Mamo El Becerro",
+      "url": "https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX"
     },
     {
       "album": {
@@ -1803,7 +1949,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 150146,
       "name": "Siempre Te Amar\u00e9",
       "url": "https://open.spotify.com/track/2dgAOE1CW61s4pPfrQtgqT"

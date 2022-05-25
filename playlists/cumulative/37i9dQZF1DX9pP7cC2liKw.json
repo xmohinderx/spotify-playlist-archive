@@ -48,6 +48,32 @@
     },
     {
       "album": {
+        "name": "Aguacero Tropical",
+        "url": "https://open.spotify.com/album/5v2hEZH52HxulMloCJDY8A"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        },
+        {
+          "name": "WX//CLTV",
+          "url": "https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225762,
+      "name": "Aguacero Tropical",
+      "url": "https://open.spotify.com/track/5mhYs8LilsurjSLIibxCgn"
+    },
+    {
+      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
       },
@@ -215,7 +241,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 205506,
       "name": "Arena Negra",
       "url": "https://open.spotify.com/track/2jaoF4NACnQBromjiZwMWg"
@@ -291,7 +317,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 197333,
       "name": "Bailando Lento",
       "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
@@ -309,7 +335,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 306195,
       "name": "Baile Fodongo",
       "url": "https://open.spotify.com/track/6lJ3bXlW58cRjVm28Lej6A"
@@ -451,7 +477,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 260320,
       "name": "Chan Chan",
       "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
@@ -571,7 +597,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 341074,
       "name": "Cuando Canto Grito",
       "url": "https://open.spotify.com/track/6GuRkCEMRSf0FniWGOCL0f"
@@ -593,7 +619,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 290960,
       "name": "Cumbia en Lejan\u00eda",
       "url": "https://open.spotify.com/track/0KK7jMMHaHs7Hq7sQ1xl0i"
@@ -791,6 +817,36 @@
     {
       "album": {
         "name": "Folha de Jurema",
+        "url": "https://open.spotify.com/album/7B9xaQRH4qcDxPflY1tQhU"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        },
+        {
+          "name": "Art\u00e9ria FM",
+          "url": "https://open.spotify.com/artist/2uOgBTx0GFjWS205jRJZf6"
+        },
+        {
+          "name": "Salvador Araguaya",
+          "url": "https://open.spotify.com/artist/5yPaj9fKegvkHQdfNo1i35"
+        },
+        {
+          "name": "Spaniol",
+          "url": "https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263688,
+      "name": "Folha de Jurema",
+      "url": "https://open.spotify.com/track/2dgauZuZyJj7KtNqJNg4nZ"
+    },
+    {
+      "album": {
+        "name": "Folha de Jurema",
         "url": "https://open.spotify.com/album/6K44xJeoORjgqFWovNnSkg"
       },
       "artists": [
@@ -813,7 +869,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 263688,
       "name": "Folha de Jurema",
       "url": "https://open.spotify.com/track/2RcrkBWCOWaX67jVDLgJr6"
@@ -839,7 +895,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 215294,
       "name": "Franca Barona",
       "url": "https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD"
@@ -875,7 +931,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 179817,
       "name": "Futurista",
       "url": "https://open.spotify.com/track/1qAtVevO8XshdRHFt9dND2"
@@ -955,7 +1011,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 249846,
       "name": "Hoy Como Siempre",
       "url": "https://open.spotify.com/track/5pQXW3nrM4KEDTK4iD3Iu9"
@@ -977,7 +1033,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 275593,
       "name": "Humano - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/44F8c2lMrL5rSDCvhR1UJb"
@@ -1115,7 +1171,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 276800,
       "name": "Junchuch",
       "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
@@ -1159,7 +1215,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 340616,
       "name": "La Frontera",
       "url": "https://open.spotify.com/track/6vixh55dCERkMeHM68KOE6"
@@ -1225,7 +1281,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 224211,
       "name": "Laberinto - Bosq Remix",
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
@@ -1341,7 +1397,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 262996,
       "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
       "url": "https://open.spotify.com/track/3VZszH38QS6BWiKEWeZIw8"
@@ -1399,7 +1455,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 235418,
       "name": "Mano de Fatima",
       "url": "https://open.spotify.com/track/66vLZytisIBNQiQz4qn6n5"
@@ -1471,7 +1527,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 182458,
       "name": "Mata e' Candil",
       "url": "https://open.spotify.com/track/2Cb6XimTN0rPdPocmiTFI7"
@@ -1577,7 +1633,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 210372,
       "name": "Mujer del Desierto",
       "url": "https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms"
@@ -1595,7 +1651,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 390505,
       "name": "Na Procura",
       "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
@@ -1621,7 +1677,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 267111,
       "name": "Negro Santo",
       "url": "https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q"
@@ -1665,7 +1721,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 340720,
       "name": "Nineteen Hundred and Eighty Five",
       "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
@@ -1811,7 +1867,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 207621,
       "name": "Paso a Huella - Captain Planet Remix",
       "url": "https://open.spotify.com/track/31riMJMbPsDBPpHS5Yi0Ja"
@@ -1927,7 +1983,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 216379,
       "name": "Rainfalls",
       "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
@@ -2025,7 +2081,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 231764,
       "name": "R\u00fambala - Jiony Remix",
       "url": "https://open.spotify.com/track/7mtMy47wBdLVuFg5ZxkYAa"
@@ -2069,7 +2125,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 434666,
       "name": "Sala Nabina - Karma\u00e2 Remix",
       "url": "https://open.spotify.com/track/19NaGWC4RQwfNJmgclF3XX"
@@ -2113,7 +2169,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 253760,
       "name": "Samba del Arenal",
       "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
@@ -2175,7 +2231,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 248099,
       "name": "Selva y mar",
       "url": "https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN"
@@ -2305,7 +2361,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 242215,
       "name": "So\u00f1ando",
       "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
@@ -2323,7 +2379,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 220232,
       "name": "So\u00f1ar",
       "url": "https://open.spotify.com/track/7enzDGteT9zKzzJaHesj5N"
@@ -2465,7 +2521,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 429913,
       "name": "Teu Sorriso - Jex Opolis Remix",
       "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
@@ -2487,7 +2543,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 242657,
       "name": "The Ocean",
       "url": "https://open.spotify.com/track/204FgGC3890KCzUvtG33qV"
@@ -2545,7 +2601,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 230539,
       "name": "Tune Rider",
       "url": "https://open.spotify.com/track/4HBz7gmSjQ143OiMoFFKJu"
@@ -2585,7 +2641,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 284915,
       "name": "Un Canto",
       "url": "https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs"
@@ -2629,7 +2685,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 129000,
       "name": "Vayay\u00f3",
       "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"

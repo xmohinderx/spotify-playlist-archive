@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [...What Are We?](https://open.spotify.com/track/3xCl9ITv3HoEfWvOfZJm0C) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/0pgkOdDG05h5bexgIRz9ul) | 3:38 | 2022-05-20 | 2022-05-24 |
+| [...What Are We?](https://open.spotify.com/track/3xCl9ITv3HoEfWvOfZJm0C) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/0pgkOdDG05h5bexgIRz9ul) | 3:38 | 2022-05-20 |  |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2022-05-20 |  |
 | [Always Been You](https://open.spotify.com/track/56KDoLjFIm7Yc7fX1XgpNw) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 2:47 | 2022-05-20 |  |
 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2022-05-20 |  |
@@ -50,7 +50,7 @@
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-05-20 |  |
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-05-20 |  |
 | [Nada Y Nadie](https://open.spotify.com/track/5jpYOzDqu7xv75FHk0KIw2) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Nada Y Nadie](https://open.spotify.com/album/5EuXUizMNBLhrMKtSUMLkb) | 3:24 | 2022-05-20 |  |
-| [never knew a heart could break itself](https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [never knew a heart could break itself](https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6) | 2:35 | 2022-05-20 |  |
+| [never knew a heart could break itself](https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [never knew a heart could break itself](https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6) | 2:35 | 2022-05-20 | 2022-05-25 |
 | [No Me Sueltes Más](https://open.spotify.com/track/5wWfs4E9RBXMQRpeNWRlXj) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sensaciones](https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9) | 3:27 | 2022-05-20 |  |
 | [No Sé Decirte No](https://open.spotify.com/track/7ukRl9q1yVYO2j5SXwvjaB) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 3:54 | 2022-05-20 |  |
 | [NO TE VAYAS](https://open.spotify.com/track/1KmpV6vxj0Mk8ifeLGfvpB) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [NO TE VAYAS](https://open.spotify.com/album/2PDfsbr1PqRi3v9rOnECUi) | 3:10 | 2022-05-20 | 2022-05-24 |

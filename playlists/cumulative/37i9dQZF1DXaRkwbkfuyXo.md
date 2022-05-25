@@ -4,7 +4,7 @@
 
 > Los corridos más alterados y arremangados\. Régulo Caro en portada.
 
-75 songs - 3 hr 39 min - not published yet
+75 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/6WRQ2rQiGlhp2WfZktq7QQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

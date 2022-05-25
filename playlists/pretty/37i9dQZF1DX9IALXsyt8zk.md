@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: NMIXX
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,068 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,164 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 33 | [Gone \(feat\. Loco\)\(prod\. 성국\)](https://open.spotify.com/track/4IvttuPCmhLXFoYg2DhWH2) | [Vapo](https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Gone \(feat\. Loco\)\(prod\. 성국\)](https://open.spotify.com/album/1HyRMR8M7NLcq6Y9MuQtSb) | 3:02 |
 | 34 | [Love, Maybe](https://open.spotify.com/track/5btJjUxmhPK1cwdw0mnhRD) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Love, Maybe \(A Business Proposal OST Part.5\)](https://open.spotify.com/album/50WHnqFZhIQC88oZr5hlN3) | 3:05 |
 | 35 | [Why](https://open.spotify.com/track/1IqOAlSisJIxDHrKT1oG66) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [Why](https://open.spotify.com/album/5t5kwvCqaOXrCjlRAunfLe) | 3:16 |
-| 36 | [Pick up your phone](https://open.spotify.com/track/4JDgsbLSsxlNa7pESK5Vqt) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [비밀:리에 Vol\. 5 "Pick up your phone"](https://open.spotify.com/album/3mKRbS65znpQtwRkFlSiLN) | 2:52 |
+| 36 | [Pick up your phone](https://open.spotify.com/track/4JDgsbLSsxlNa7pESK5Vqt) | [Mirani](https://open.spotify.com/artist/2hf1ya5k9R4siHueVr7jNi) | [비밀:리에 Vol\. 5 "Pick up your phone"](https://open.spotify.com/album/3mKRbS65znpQtwRkFlSiLN) | 2:52 |
 | 37 | [RE=LOAD](https://open.spotify.com/track/7xbF0zvvjJ4oT4HvcYi85k) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [JUST BEGUN](https://open.spotify.com/album/0uF2qZ5B62L4ZlfLkAXhd1) | 3:18 |
 | 38 | [Blue & Lemonade \(Feat\. Choi Cello\)](https://open.spotify.com/track/2YmnxhsvBJA08kyCAzQacz) | [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o), [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Blue & Lemonade \(Feat\. Choi Cello\)](https://open.spotify.com/album/285AagckaF30HANKbEQnxd) | 3:10 |
 | 39 | [Dive with you \(feat\. eaJ\)](https://open.spotify.com/track/5RqwjQWDwxQ3HTkOfXTrS6) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [Dive with you \(feat\. eaJ\)](https://open.spotify.com/album/4Ax41uyC6zscjAXjYd6cq8) | 3:38 |

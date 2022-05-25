@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Daniel Powter (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4JWtkO5RBU3Z3o40112pbh"
+      },
+      "artists": [
+        {
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233919,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/2Pwm2YtneLSWi7vyUpT5fs"
+    },
+    {
+      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 236933,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"

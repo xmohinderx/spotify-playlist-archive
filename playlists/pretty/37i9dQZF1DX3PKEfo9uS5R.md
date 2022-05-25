@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,406 likes - 86 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,467 likes - 86 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

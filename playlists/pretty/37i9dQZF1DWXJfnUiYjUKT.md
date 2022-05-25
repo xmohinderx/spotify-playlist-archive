@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,225 likes - 97 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,287 likes - 97 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,14 +66,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 56 | [Bad For Me](https://open.spotify.com/track/5igBmMvQ0kJ6rShqSUAIHq) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Bad For Me](https://open.spotify.com/album/76P0Wtel19KTU0nrKiecim) | 2:24 |
 | 57 | [Xtasy](https://open.spotify.com/track/7yJ1KekatthELLQTE1VRc7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Xtasy](https://open.spotify.com/album/4zH7FPMFwa1Q1D1e9ZP3lV) | 2:58 |
 | 58 | [High Priestess](https://open.spotify.com/track/5SiznYWcgL8nfDNwoDdJa8) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [High Priestess](https://open.spotify.com/album/0HzNnOls6EoSgMtbzLIGB8) | 3:13 |
-| 59 | [Madness \(feat\. Zak Abel\)](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness \(feat\. Zak Abel\)](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
+| 59 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
 | 60 | [Blutooth](https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Blutooth / enough 4 u](https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN) | 2:58 |
 | 61 | [Go Slow](https://open.spotify.com/track/7B7CJVHZq5EPzylyt87vB5) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Go Slow](https://open.spotify.com/album/26FMqBnzWjXHsgogCXRGKb) | 3:20 |
 | 62 | [Heart Like A Truck](https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Heart Like A Truck](https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo) | 3:19 |
 | 63 | [Nota](https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nota](https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ) | 2:39 |
 | 64 | [Meat This](https://open.spotify.com/track/52jBY28ULSi4ayJ57QFbLP) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Meat This](https://open.spotify.com/album/0y1b2ZeIbGhkOcHODiUBxe) | 2:26 |
 | 65 | [Congratulations](https://open.spotify.com/track/1UWwGCTP14FDO3N1B7EUQ7) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [DJ ESCO](https://open.spotify.com/artist/2J0JN7EFN10G1Tty6hX0AN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [FACE \(Deluxe Edition\)](https://open.spotify.com/album/4GZSso90oXNVv0OdzXGjth) | 3:25 |
-| 66 | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Bim Amoako\-Gyampah](https://open.spotify.com/artist/5HbGyTf9SWq76VNWmirjqi) | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
+| 66 | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
 | 67 | [Miss Power](https://open.spotify.com/track/6xRRVm0hhxZCWidWHeCmS9) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/6yc8nbYl18KJWnyfwie2Ro) | 2:44 |
 | 68 | [Monica Lewinsky](https://open.spotify.com/track/5pz38Kxq8O8fnCY7PAWkoQ) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Monica Lewinsky](https://open.spotify.com/album/6tXPymDqi4qhgSo9topFTt) | 2:12 |
 | 69 | [You Have Got to Be Kidding Me](https://open.spotify.com/track/3kai81vBptYiDfb0QXHv5X) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/0e0c5rz0pMLFvqR7bDyXtc) | 3:36 |

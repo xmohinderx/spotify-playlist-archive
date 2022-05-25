@@ -4,7 +4,7 @@
 
 > Los éxitos en guitarra\. Cover: Gerardo Coronel
 
-160 songs - 8 hr 50 min - not published yet
+160 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/1tI2F2Thdl1eOlECIP0VGH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

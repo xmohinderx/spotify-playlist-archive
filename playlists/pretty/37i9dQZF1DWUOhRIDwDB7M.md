@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 
 > Positive and uplifting ambient instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,418 likes - 232 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,399 likes - 232 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

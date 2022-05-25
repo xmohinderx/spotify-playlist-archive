@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: Number One Popstar Artwork: Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,065 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,111 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

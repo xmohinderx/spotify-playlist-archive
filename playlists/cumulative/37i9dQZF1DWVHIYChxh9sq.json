@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-23",
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Luis Alfonso Partida El Yaki",
   "name": "Mexicano En Vivo",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4oXHgWduTWFlo14M6NXNSL"
+  ],
   "tracks": [
     {
       "album": {
@@ -495,7 +497,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 258730,
       "name": "Con Todo y Mi Tristeza - Live",
       "url": "https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb"
@@ -909,7 +911,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 149251,
       "name": "El Balenciaga - En Vivo",
       "url": "https://open.spotify.com/track/6TM4XplDYUrkHPXVUBD2xm"
@@ -1155,7 +1157,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 135247,
       "name": "El Compa Carlos - En Vivo",
       "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
@@ -1209,7 +1211,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 282506,
       "name": "El Descuido Del \u00c1guila (En Vivo)",
       "url": "https://open.spotify.com/track/40KF9kstT4CbOMVZ4GmQXu"
@@ -1706,6 +1708,28 @@
     },
     {
       "album": {
+        "name": "Feliz, Feliz",
+        "url": "https://open.spotify.com/album/0WPwAFCO5FOMvmsEAaTRZP"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        },
+        {
+          "name": "Los Titanes De Durango",
+          "url": "https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219855,
+      "name": "Feliz, Feliz - Live",
+      "url": "https://open.spotify.com/track/6DkjoClnR4PMMFer8XJs5n"
+    },
+    {
+      "album": {
         "name": "Flor Hermosa (En Vivo)",
         "url": "https://open.spotify.com/album/4Js76hPZtqnf4iOXvUXq00"
       },
@@ -1913,7 +1937,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 170133,
       "name": "La C & La A - En Vivo",
       "url": "https://open.spotify.com/track/3xNwNNsocoLi5pqRO6FFiR"
@@ -2011,7 +2035,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 147875,
       "name": "La Escalera (En Vivo)",
       "url": "https://open.spotify.com/track/0TpNZpwK8nvig5sWqhNI8J"
@@ -2889,7 +2913,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 216202,
       "name": "Por Tu Amor - En Vivo",
       "url": "https://open.spotify.com/track/46KqzlChHmjRmZQvvxk5dn"
@@ -3135,7 +3159,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 193060,
       "name": "Sinaloense Hecho y Derecho",
       "url": "https://open.spotify.com/track/15gx4jYv4Sqxfi3HcgUKfq"
@@ -3193,7 +3217,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 168752,
       "name": "Suelta Tu Pelo - En Vivo",
       "url": "https://open.spotify.com/track/3eMyVT3lCVk93fbAQVfxaF"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,027 likes - 93 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,064 likes - 93 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

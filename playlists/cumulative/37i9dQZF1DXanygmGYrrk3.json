@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-23",
   "description": "Tus canciones favoritas de M\u00fasica Mexicana, all in one place! Cover: Los Dos Carnales\n\n",
   "name": "Las Favoritas",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2wigFKrLmiEwF5seFjIof2"
+  ],
   "tracks": [
     {
       "album": {
@@ -53,7 +55,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 188661,
       "name": "A Trav\u00e9s Del Vaso",
       "url": "https://open.spotify.com/track/0oCSitNlzsQfuIapF9tXRQ"
@@ -293,7 +295,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 208546,
       "name": "Calidad Y Cantidad",
       "url": "https://open.spotify.com/track/6L1zCcEC2nflzD0lMiAvBn"
@@ -405,7 +407,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 226821,
       "name": "Con Tus Besos",
       "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
@@ -539,7 +541,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 208160,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut"
@@ -557,7 +559,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 212946,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/2xxq5LXFBFyawPChsOOWVu"
@@ -735,7 +737,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 184500,
       "name": "El Dinero Los Cambio",
       "url": "https://open.spotify.com/track/4kgZoTVXtWLcDgs0M5Coiz"
@@ -1003,7 +1005,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 186866,
       "name": "Especial",
       "url": "https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK"
@@ -1503,7 +1505,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 194002,
       "name": "Mi Vicio",
       "url": "https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2"
@@ -1561,7 +1563,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 229565,
       "name": "Miami Vibe",
       "url": "https://open.spotify.com/track/6ZUBqOrjrdmkP4eLQLBeaq"
@@ -1833,6 +1835,28 @@
       "duration_ms": 174346,
       "name": "Para Qu\u00e9 Lastimarme",
       "url": "https://open.spotify.com/track/3jK9UGmZEjHnO2IAOduZ5U"
+    },
+    {
+      "album": {
+        "name": "Para Qu\u00e9 Me Las Diste",
+        "url": "https://open.spotify.com/album/5wgOVJ9KTVFbhau9ppTj80"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214120,
+      "name": "Para Qu\u00e9 Me Las Diste",
+      "url": "https://open.spotify.com/track/7AyxD2OecOyvIlByUY0Kvz"
     },
     {
       "album": {
@@ -2215,7 +2239,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 235858,
       "name": "Se Amerita",
       "url": "https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt"
@@ -2269,7 +2293,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 172954,
       "name": "Sencillo Soy",
       "url": "https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh"
@@ -2312,6 +2336,28 @@
     },
     {
       "album": {
+        "name": "Siempre Clave",
+        "url": "https://open.spotify.com/album/5UouRJGXvLDXqlriqFMSKe"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Clave 702",
+          "url": "https://open.spotify.com/artist/3dBuaGsQYVTgxHkNxBNyL2"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194353,
+      "name": "Siempre Clave",
+      "url": "https://open.spotify.com/track/02aS4O8n7k4UGLXqodbfSk"
+    },
+    {
+      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
         "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
       },
@@ -2323,7 +2369,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 200161,
       "name": "Sigo Chambeando",
       "url": "https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2"

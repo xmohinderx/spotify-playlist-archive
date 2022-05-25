@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,378,363 likes - 152 songs - 13 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,378,575 likes - 152 songs - 13 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 2 | [It's In The Middle Of The Night](https://open.spotify.com/track/7yRKzNvEQz9cngBQhjJp7L) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Jazz at Night](https://open.spotify.com/album/7cjqOoWOgTfdrmTeUjvh4u) | 3:39 |
 | 3 | [Fugitive Ritual, Selah](https://open.spotify.com/track/31ZHADyvTbyRgQVw1u2SSW) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [The 7th Hand](https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD) | 5:47 |
 | 4 | [Misty](https://open.spotify.com/track/6638Vx73iajSnMO9ZmQoHB) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Misty](https://open.spotify.com/album/5JQpMlF00cytK3RkoRwEtb) | 4:32 |
-| 5 | [Other Jewels](https://open.spotify.com/track/7IwDt0MKLtSatSUCyzvPy6) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogenen](https://open.spotify.com/artist/0vYkIFXZpWVW7Lh1GTgXWA), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [Other Jewels](https://open.spotify.com/album/0KcDJAC3z1lDxTlbUtqydr) | 5:47 |
+| 5 | [Other Jewels](https://open.spotify.com/track/7IwDt0MKLtSatSUCyzvPy6) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [Other Jewels](https://open.spotify.com/album/0KcDJAC3z1lDxTlbUtqydr) | 5:47 |
 | 6 | [Fallen \- Jazzed](https://open.spotify.com/track/2EPZnVX8kSv2L2CxEXhkDw) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [Julian & Roman Wasserfuhr](https://open.spotify.com/artist/3Dj5ObqiSZgnebc0xgZi0O) | [Fallen \(Jazzed\)](https://open.spotify.com/album/3LYATsYqAozUUuBbwn4D0l) | 4:24 |
 | 7 | [Theme For Leon](https://open.spotify.com/track/1PdnJncOIXLLHOjWq6zQBE) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Theme for Leon](https://open.spotify.com/album/587RQMxWOa3jkQKFQt9tKw) | 6:08 |
 | 8 | [It's You I Like](https://open.spotify.com/track/78pcTFrKHHttuJedO00g8j) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [It's You I Like](https://open.spotify.com/album/0HndGWelRVWNQkdiPrhXna) | 4:46 |

@@ -1,12 +1,12 @@
 {
   "description": "new look, new vibe, same playlist you love. ",
-  "num_followers": 1684046,
+  "num_followers": 1688535,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzMxNTU0MiwwMDAwMDMwODAwMDAwMTgwZjE0OTFmMzEwMDAwMDE4MGNlMzEzYjM4",
+  "snapshot_id": "MTY1MzQwNjE5OCwwMDAwMDMwYTAwMDAwMTgwZjZiMDZjNTMwMDAwMDE4MGNlMzEzYjM4",
   "tracks": [
     {
       "added_at": "2022-05-04 12:15:42",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
     },
     {
+      "added_at": "2022-04-20 06:33:10",
+      "album": {
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 379226,
+      "name": "Me and Your Mama",
+      "url": "https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU"
+    },
+    {
       "added_at": "2022-05-12 14:48:12",
       "album": {
         "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
@@ -141,20 +157,20 @@
       "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
     },
     {
-      "added_at": "2022-04-20 06:33:10",
+      "added_at": "2022-05-20 18:02:27",
       "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8"
+        "name": "What Do You Think About the Car?",
+        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
         }
       ],
-      "duration_ms": 379226,
-      "name": "Me and Your Mama",
-      "url": "https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU"
+      "duration_ms": 252306,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -221,22 +237,6 @@
       "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
     },
     {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Softcore",
-      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
-    },
-    {
       "added_at": "2022-05-20 17:54:39",
       "album": {
         "name": "OK Computer",
@@ -255,18 +255,34 @@
     {
       "added_at": "2022-04-20 06:33:10",
       "album": {
-        "name": "Futureproof",
-        "url": "https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg"
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
       "artists": [
         {
-          "name": "The Rare Occasions",
-          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 195120,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida"
+      "duration_ms": 206280,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+    },
+    {
+      "added_at": "2022-04-20 06:33:10",
+      "album": {
+        "name": "Color",
+        "url": "https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv"
+      },
+      "artists": [
+        {
+          "name": "Coyote Theory",
+          "url": "https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn"
+        }
+      ],
+      "duration_ms": 242010,
+      "name": "This Side of Paradise",
+      "url": "https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT"
     },
     {
       "added_at": "2022-05-03 03:42:48",
@@ -285,20 +301,20 @@
       "url": "https://open.spotify.com/track/6R8L4HZxaVSFED7rLePbK3"
     },
     {
-      "added_at": "2022-04-20 06:33:10",
+      "added_at": "2022-05-20 17:54:39",
       "album": {
-        "name": "Color",
-        "url": "https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv"
+        "name": "Future Friends",
+        "url": "https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6"
       },
       "artists": [
         {
-          "name": "Coyote Theory",
-          "url": "https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn"
+          "name": "Superfruit",
+          "url": "https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd"
         }
       ],
-      "duration_ms": 242010,
-      "name": "This Side of Paradise",
-      "url": "https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT"
+      "duration_ms": 222680,
+      "name": "GUY.exe",
+      "url": "https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P"
     },
     {
       "added_at": "2022-05-15 21:11:58",
@@ -323,18 +339,34 @@
     {
       "added_at": "2022-04-20 06:33:10",
       "album": {
-        "name": "this is what heartbreak feels like",
-        "url": "https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy"
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 157636,
-      "name": "this is what heartbreak feels like",
-      "url": "https://open.spotify.com/track/33aLws184a7SVqraKuDqI3"
+      "duration_ms": 195320,
+      "name": "NEW MAGIC WAND",
+      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+    },
+    {
+      "added_at": "2022-04-20 06:33:10",
+      "album": {
+        "name": "Futureproof",
+        "url": "https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida"
     },
     {
       "added_at": "2022-05-09 14:28:56",
@@ -351,6 +383,22 @@
       "duration_ms": 183066,
       "name": "#doyalike",
       "url": "https://open.spotify.com/track/0axgY4AiWx0spzdQb1gSjg"
+    },
+    {
+      "added_at": "2022-04-20 06:33:10",
+      "album": {
+        "name": "this is what heartbreak feels like",
+        "url": "https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 157636,
+      "name": "this is what heartbreak feels like",
+      "url": "https://open.spotify.com/track/33aLws184a7SVqraKuDqI3"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -385,54 +433,6 @@
       "url": "https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv"
     },
     {
-      "added_at": "2022-05-20 18:02:27",
-      "album": {
-        "name": "What Do You Think About the Car?",
-        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "IGOR",
-        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "NEW MAGIC WAND",
-      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
-    },
-    {
-      "added_at": "2022-05-20 17:54:39",
-      "album": {
-        "name": "Future Friends",
-        "url": "https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6"
-      },
-      "artists": [
-        {
-          "name": "Superfruit",
-          "url": "https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "GUY.exe",
-      "url": "https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P"
-    },
-    {
       "added_at": "2022-05-04 20:19:44",
       "album": {
         "name": "MEAN!",
@@ -463,6 +463,26 @@
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "added_at": "2022-04-20 06:33:10",
+      "album": {
+        "name": "Despicable Me 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Trey Parker",
+          "url": "https://open.spotify.com/artist/0NnoRcD3WkqC9aouHyE8YY"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "Hug Me",
+      "url": "https://open.spotify.com/track/6eVM9lCmIqwGTUOoeH61Lu"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -521,42 +541,6 @@
       "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
     },
     {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "Despicable Me 3 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Trey Parker",
-          "url": "https://open.spotify.com/artist/0NnoRcD3WkqC9aouHyE8YY"
-        }
-      ],
-      "duration_ms": 140733,
-      "name": "Hug Me",
-      "url": "https://open.spotify.com/track/6eVM9lCmIqwGTUOoeH61Lu"
-    },
-    {
-      "added_at": "2022-05-04 11:45:42",
-      "album": {
-        "name": "Why Am I Like This?",
-        "url": "https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 212713,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7"
-    },
-    {
       "added_at": "2022-04-21 23:17:18",
       "album": {
         "name": "Younger Now",
@@ -571,6 +555,38 @@
       "duration_ms": 231906,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ"
+    },
+    {
+      "added_at": "2022-05-24 13:48:34",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "added_at": "2022-04-20 06:33:10",
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 156145,
+      "name": "A Pearl",
+      "url": "https://open.spotify.com/track/7fd3aMiuwHWKsTdZafjOfZ"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -591,34 +607,18 @@
     {
       "added_at": "2022-04-20 06:33:10",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+        "name": "BABYDOLL (Speed)",
+        "url": "https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
         }
       ],
-      "duration_ms": 156145,
-      "name": "A Pearl",
-      "url": "https://open.spotify.com/track/7fd3aMiuwHWKsTdZafjOfZ"
-    },
-    {
-      "added_at": "2022-05-16 12:46:18",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/1Afc7X2x5kxfkbDz2KXjlv"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 157675,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/7jWW25q41F2P7Opfn3boIF"
+      "duration_ms": 156650,
+      "name": "BABYDOLL (Speed)",
+      "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -685,20 +685,52 @@
       "url": "https://open.spotify.com/track/48CKzGWOC65n8a8kdANJV8"
     },
     {
-      "added_at": "2022-04-20 06:33:10",
+      "added_at": "2022-05-16 18:46:28",
       "album": {
-        "name": "BABYDOLL (Speed)",
-        "url": "https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per"
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
       "artists": [
         {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 156650,
-      "name": "BABYDOLL (Speed)",
-      "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
+      "duration_ms": 236413,
+      "name": "Don\u2019t Blame Me",
+      "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
+    },
+    {
+      "added_at": "2022-05-24 15:29:58",
+      "album": {
+        "name": "(Un)Commentary",
+        "url": "https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 163613,
+      "name": "Devil Doesn\u2019t Bargain",
+      "url": "https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4"
+    },
+    {
+      "added_at": "2022-04-20 06:33:10",
+      "album": {
+        "name": "Carrie & Lowell",
+        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 279316,
+      "name": "Fourth of July",
+      "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
     },
     {
       "added_at": "2022-05-23 14:19:02",
@@ -717,20 +749,52 @@
       "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
     },
     {
-      "added_at": "2022-04-20 06:33:10",
+      "added_at": "2022-05-04 11:45:42",
       "album": {
-        "name": "Carrie & Lowell",
-        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+        "name": "Why Am I Like This?",
+        "url": "https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 279316,
-      "name": "Fourth of July",
-      "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
+      "duration_ms": 212713,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7"
+    },
+    {
+      "added_at": "2022-05-16 12:46:18",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/1Afc7X2x5kxfkbDz2KXjlv"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 157675,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/7jWW25q41F2P7Opfn3boIF"
+    },
+    {
+      "added_at": "2022-04-20 06:33:10",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Ain't Shit",
+      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
     },
     {
       "added_at": "2022-05-18 14:02:12",
@@ -783,18 +847,18 @@
     {
       "added_at": "2022-04-20 06:33:10",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "Chase Atlantic",
+        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
         }
       ],
-      "duration_ms": 174253,
-      "name": "Ain't Shit",
-      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
+      "duration_ms": 228786,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
     },
     {
       "added_at": "2022-05-17 19:33:48",
@@ -817,6 +881,38 @@
       "url": "https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm"
     },
     {
+      "added_at": "2022-05-24 13:48:34",
+      "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        }
+      ],
+      "duration_ms": 309322,
+      "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
+      "url": "https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4"
+    },
+    {
       "added_at": "2022-05-20 17:54:39",
       "album": {
         "name": "Get Rich Or Die Tryin'- The Original Motion Picture Soundtrack",
@@ -831,22 +927,6 @@
       "duration_ms": 251546,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/7jdzEA44GdSp4laVCF3Ztw"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "Chase Atlantic",
-        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 228786,
-      "name": "Swim",
-      "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
     },
     {
       "added_at": "2022-04-28 14:00:00",
@@ -945,6 +1025,22 @@
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
     },
     {
+      "added_at": "2022-04-25 22:09:52",
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 190288,
+      "name": "Stir Fry",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
+    },
+    {
       "added_at": "2022-05-18 14:02:12",
       "album": {
         "name": "Virgo World",
@@ -959,22 +1055,6 @@
       "duration_ms": 98413,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD"
-    },
-    {
-      "added_at": "2022-05-16 18:46:28",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Don\u2019t Blame Me",
-      "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
     },
     {
       "added_at": "2022-04-28 21:27:45",
@@ -1007,22 +1087,6 @@
       "duration_ms": 169010,
       "name": "not a home",
       "url": "https://open.spotify.com/track/3uhBPLTvFEwow2KZaoEQRJ"
-    },
-    {
-      "added_at": "2022-04-25 22:09:52",
-      "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 190288,
-      "name": "Stir Fry",
-      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
     },
     {
       "added_at": "2022-05-11 14:51:45",
@@ -1211,22 +1275,6 @@
       "duration_ms": 202093,
       "name": "Lost in the Fire (feat. The Weeknd)",
       "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
-    },
-    {
-      "added_at": "2022-05-17 14:24:58",
-      "album": {
-        "name": "Like Yay",
-        "url": "https://open.spotify.com/album/76PpFLRcZtGmV97QajJPx8"
-      },
-      "artists": [
-        {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Him",
-      "url": "https://open.spotify.com/track/7w4lnEj8VwQ0xNpl1M3I0G"
     },
     {
       "added_at": "2022-05-11 14:51:45",
@@ -1907,22 +1955,6 @@
       "duration_ms": 219426,
       "name": "Just Can\u2019t Get Enough",
       "url": "https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "channel ORANGE (Explicit Version)",
-        "url": "https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4L7jMAP8UcIe309yQmkdcO"
     },
     {
       "added_at": "2022-04-20 06:33:10",

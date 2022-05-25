@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: T3r Elemento
 
-55 songs - 2 hr 52 min - not published yet
+55 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

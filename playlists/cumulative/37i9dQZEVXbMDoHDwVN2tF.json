@@ -885,7 +885,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 339611,
       "name": "Andrea",
       "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
@@ -5897,7 +5897,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -16136,6 +16136,24 @@
     },
     {
       "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "album": {
         "name": "Up (Instrumental)",
         "url": "https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C"
       },
@@ -16827,7 +16845,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

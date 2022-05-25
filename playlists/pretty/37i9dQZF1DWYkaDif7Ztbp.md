@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=JC7f3NJITKOPcB7In\_xIWg" > Lojay </a> and  <a href="https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ?si=ZjvApdSBSkCgtGv\_yt4YiA" > Sarz </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,080 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,899 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Chitarrre più o meno distorte \(e, in cover, Her Skin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,908 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,936 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Amor a la mexicana, canciones para dedicarle al amor de tu vida.
 
-112 songs - 6 hr 5 min - not published yet
+115 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/3YeBxoONeIcuXelnrG78UZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,14 +17,15 @@
 | [Amor Del Bueno](https://open.spotify.com/track/5ZyWRrIdTZx4TneEv0FklV) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Amor Del Bueno](https://open.spotify.com/album/2DU3xMuP9OOOzVNMgsTJ1h) | 3:13 | 2022-02-11 |  |
 | [Amor Especial](https://open.spotify.com/track/6rywR3dREdUZMENCmlqCQW) | [6 Doble 7](https://open.spotify.com/artist/4uASG4oYMAOJbP30XK4hmW) | [Amor Especial](https://open.spotify.com/album/0WNJU0mfyRvxyWPqOlOnGU) | 3:35 | 2022-02-11 |  |
 | [Antes y Después De Ti](https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Good Vibes Buenas Vibras](https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee) | 3:14 | 2022-02-11 |  |
-| [Baby](https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 4:38 | 2022-02-11 |  |
+| [Baby](https://open.spotify.com/track/3y8tEWNrKD8EshrB3SEk4r) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/5KBtFFqqc00n2VXesM5Qiy) | 4:38 | 2022-02-11 |  |
+| [Baby](https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 4:38 | 2022-02-11 | 2022-05-25 |
 | [Bien Me Conoces](https://open.spotify.com/track/2evi3YjhkOYdeE8l6meZtS) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 2:41 | 2022-02-11 |  |
 | [Broche de Oro](https://open.spotify.com/track/1TLyjsg5KO501z8CBgxaHl) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [10+10](https://open.spotify.com/album/6v6mwOBX5lbL9XTPqKFivJ) | 3:34 | 2022-02-11 |  |
 | [Buscábamos Lo Mismo](https://open.spotify.com/track/17V8HXbGIOST1So1Xsubox) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscábamos Lo Mismo](https://open.spotify.com/album/3yQFeFQ1mX2hp7kM6J2SBK) | 2:49 | 2022-02-11 |  |
 | [Como Que Me Enamoro \- En Vivo](https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 2:57 | 2022-02-11 |  |
 | [Con Tus Besos](https://open.spotify.com/track/6tsoBcgT99Kb4DvjI8Pnlv) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/5KBtFFqqc00n2VXesM5Qiy) | 3:46 | 2022-02-11 |  |
-| [Contigo](https://open.spotify.com/track/3imJHohXBxDGovFRQ75dUt) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt) | 3:30 | 2022-02-11 | 2022-05-24 |
-| [Contigo](https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 3:30 | 2022-02-11 |  |
+| [Contigo](https://open.spotify.com/track/3imJHohXBxDGovFRQ75dUt) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt) | 3:30 | 2022-02-11 |  |
+| [Contigo](https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 3:30 | 2022-02-11 | 2022-05-25 |
 | [Cómo No Adorarla](https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:41 | 2022-02-11 |  |
 | [Cómo No Quererte](https://open.spotify.com/track/7kAIDORxyLYGjp6t3p4w1z) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Cómo No Quererte](https://open.spotify.com/album/5lmQBx2ASnM6YDHjcVwoCp) | 2:55 | 2022-02-11 |  |
 | [Dame Tu Calor](https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 4:05 | 2022-02-11 |  |
@@ -41,7 +42,8 @@
 | [El Mejor Perfume](https://open.spotify.com/track/6LBaJdrBpMBb6GMmgFwUPF) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Singles](https://open.spotify.com/album/2H7TFRkGojG9vGK5mLdRUk) | 2:33 | 2022-02-11 |  |
 | [El Privilegio de Amar](https://open.spotify.com/track/05lhZ4XA7TVvRvgK7MSQKp) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Privilegio de Amar](https://open.spotify.com/album/6uAUmc8sBlagwyjSYAM58I) | 3:35 | 2022-02-11 |  |
 | [El Privilegio De Quererte](https://open.spotify.com/track/0NXqeBZZb5b3MGU6cadgwP) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Salud Por Nuestro 25 Aniversario](https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO) | 3:13 | 2022-02-11 |  |
-| [Ella Es Mi Mujer](https://open.spotify.com/track/3qUU5im2iV5eWOtkWz6ykQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Banda \#1's 2017](https://open.spotify.com/album/0MUo7KxW4ZkYt5pKETaAeO) | 2:43 | 2022-02-11 |  |
+| [Ella Es Mi Mujer](https://open.spotify.com/track/3qUU5im2iV5eWOtkWz6ykQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Banda \#1's 2017](https://open.spotify.com/album/0MUo7KxW4ZkYt5pKETaAeO) | 2:43 | 2022-02-11 | 2022-05-25 |
+| [Ella Es Mi Mujer](https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 2:43 | 2022-02-11 |  |
 | [Enamorado](https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Del Corazon](https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C) | 4:05 | 2022-02-11 |  |
 | [Eres Tú](https://open.spotify.com/track/00d5xg90Mvl5bvK18oliSI) | [Proyecto X](https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs) | [Con Más Pawer](https://open.spotify.com/album/6Btf5qRQjRvQKPGFUAstvg) | 2:42 | 2022-02-11 |  |
 | [Eres Una Niña](https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:50 | 2022-02-11 |  |
@@ -93,7 +95,8 @@
 | [Que Bonito](https://open.spotify.com/track/62cbdhrqPSuqcOMoRr2aff) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Que Bonito](https://open.spotify.com/album/1eZNRAvmGiQqBtHDNEDrUr) | 2:40 | 2022-02-11 |  |
 | [Que Bonito Es Querer](https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:29 | 2022-02-11 |  |
 | [Que Mas Puedo Pedir \(Bonus Track\)](https://open.spotify.com/track/3Y1Xr5Hfie9SDXPxIHSgbz) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 3:17 | 2022-02-11 |  |
-| [Quiero Darte](https://open.spotify.com/track/6EKOb6cc9RXNAMDsF0IMcF) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [Sin Sentimientos](https://open.spotify.com/album/3Ap9df5ktY7WttZSz0bTyP) | 2:58 | 2022-02-11 |  |
+| [Quiero Darte](https://open.spotify.com/track/2A9og47Yp9p3cpfJ8qgcoF) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [Sin Sentimientos](https://open.spotify.com/album/3lG97wu5XvXTzclZNqkAGU) | 2:58 | 2022-02-11 |  |
+| [Quiero Darte](https://open.spotify.com/track/6EKOb6cc9RXNAMDsF0IMcF) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [Sin Sentimientos](https://open.spotify.com/album/3Ap9df5ktY7WttZSz0bTyP) | 2:58 | 2022-02-11 | 2022-05-25 |
 | [Quiero Ser](https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:29 | 2022-02-11 |  |
 | [Qué Bueno Es Tenerte](https://open.spotify.com/track/5tHTGILurH1rAclKt78TQC) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:25 | 2022-02-11 |  |
 | [Romántico](https://open.spotify.com/track/0wi7Cq9aRlNz8kaHd4UD9u) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [La Nueva R](https://open.spotify.com/album/6ZZzbA0U5oUaLbSC3Xl0H6) | 2:10 | 2022-02-11 |  |

@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-101 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
+103 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,11 +32,12 @@
 | [Don't Forget You're Precious](https://open.spotify.com/track/7r7lKry2CvHc6wK6c1ZgtO) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Don't Forget You're Precious](https://open.spotify.com/album/4lw500xSQLvXVnIvUmMWe7) | 3:41 | 2022-02-12 |  |
 | [Dream St.](https://open.spotify.com/track/2qhEcFaRkgkY6EhN7TAm4A) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/5Z4dyfxEbnvJ9mYRG8ryP7) | 5:24 | 2021-10-06 |  |
 | [Dry Fantasy](https://open.spotify.com/track/02AKn1Y1nrsgpQmCBBgQMq) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Dry Fantasy](https://open.spotify.com/album/1De6CaWgx9LZNm6RjV2gB8) | 5:10 | 2021-10-06 |  |
-| [Fear Colours](https://open.spotify.com/track/6LqGGX6csEr35xYFINiAA1) | [LoneLady](https://open.spotify.com/artist/0BwRrZKiv4NIiVcLgONuOh) | [Fear Colours](https://open.spotify.com/album/3pH6DSketPRDBNCIpUMuNW) | 4:35 | 2021-10-06 |  |
+| [Fear Colours](https://open.spotify.com/track/6LqGGX6csEr35xYFINiAA1) | [LoneLady](https://open.spotify.com/artist/0BwRrZKiv4NIiVcLgONuOh) | [Fear Colours](https://open.spotify.com/album/3pH6DSketPRDBNCIpUMuNW) | 4:35 | 2021-10-06 | 2022-05-25 |
 | [Feed Me](https://open.spotify.com/track/16wmuvedj0UKCkI7ngHEai) | [Earth Girl Helen Brown](https://open.spotify.com/artist/3zpGVsfbGWp8mwf3lNNfTq) | [Earth](https://open.spotify.com/album/4TqrulLNQUtyZmKyzQsmii) | 6:55 | 2021-10-06 |  |
 | [Feedback Loop](https://open.spotify.com/track/0P0mIfzkLvBU2xZQN7rQNC) | [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Feedback Loop](https://open.spotify.com/album/204n8zYF4t6GYr7atvFvsE) | 3:08 | 2022-01-21 |  |
 | [French Disko](https://open.spotify.com/track/2MtVT4LJqi3RhU1D5o8dPt) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Şinanay / French Disko \(Lagniappe Session\)](https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH) | 3:38 | 2022-04-06 |  |
 | [Garter Snake](https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [Mouth Full of Glass](https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq) | 3:35 | 2021-10-15 |  |
+| [Golden Air](https://open.spotify.com/track/0lk1ZMt8nhJzLKHCABWn3U) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Underwater](https://open.spotify.com/album/3A8AAAbDERbRTc3nZurEOg) | 5:42 | 2022-05-24 |  |
 | [Hasta Mañana](https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [P.O.N](https://open.spotify.com/album/716BZhl3283diYxQJZCSyF) | 2:54 | 2022-03-11 |  |
 | [Heartlow \- Edit](https://open.spotify.com/track/5rZbQQ5VCGloeGWubvZfoF) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Heartlow](https://open.spotify.com/album/7r0DsnValNvnPDASl9U80g) | 3:38 | 2021-10-06 |  |
 | [Hieroglyphs](https://open.spotify.com/track/1kMD0CjbDthGRUsnjgOKmL) | [TRZTN](https://open.spotify.com/artist/4dgxRRkyX6JZJIFQ9jMsr1), [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz) | [Hieroglyphs](https://open.spotify.com/album/2FAcCSzxIFtVcFrtI9jHwD) | 3:14 | 2021-10-06 |  |
@@ -97,13 +98,14 @@
 | [Tintagel](https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Tintagel](https://open.spotify.com/album/2s083qeK8rq47FPVbjC8Bs) | 3:48 | 2022-02-09 |  |
 | [Track X](https://open.spotify.com/track/7oPKmDtDC8DLx2lN50JvGc) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Track X](https://open.spotify.com/album/1to5nlqVrZzV3X5iJ8qf7t) | 4:44 | 2021-10-06 |  |
 | [Treasures](https://open.spotify.com/track/3WZhTPAbwI4rucw6soEBRp) | [Astral Brain](https://open.spotify.com/artist/7oDU5TJ0OiPqfxTlq2VMbk) | [The Bewildered Mind](https://open.spotify.com/album/432UfhVmmYhrzsaZepGgEW) | 3:43 | 2022-04-22 |  |
+| [Underwater](https://open.spotify.com/track/0bHFwdJ7C8tYDVxh6t3GBn) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Underwater](https://open.spotify.com/album/3A8AAAbDERbRTc3nZurEOg) | 6:45 | 2022-05-24 |  |
 | [Unholy Affliction](https://open.spotify.com/track/7wMybZBcFkahdIp8w2J3Ml) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Unholy Affliction](https://open.spotify.com/album/3l1de4juXHVIvK7nsJMojQ) | 3:06 | 2022-04-25 |  |
 | [Unpeopled Space](https://open.spotify.com/track/13WPG61eqdPbhpHnVlH3lF) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [Unpeopled Space](https://open.spotify.com/album/3FiB7G1JTyvqS4XHp7dCtc) | 6:09 | 2022-02-25 |  |
 | [Up and Away](https://open.spotify.com/track/3im8VPUFdugX19ZgLoG64t) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/2ERdLrGZOF7cduTv92k3z1) | 3:11 | 2022-04-22 |  |
 | [We Go Back](https://open.spotify.com/track/0rm3x9LMs2QN72gNp4qY50) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [We Go Back](https://open.spotify.com/album/5aqwNIaQEGgQZCTjSIGOPJ) | 3:23 | 2022-02-04 |  |
 | [What Has Happened](https://open.spotify.com/track/4lVuGztR7cgu1yCPiTPZRY) | [Tonstartssbandht](https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW) | [Petunia](https://open.spotify.com/album/605bdzgFy9TSUCMkgjesoi) | 7:02 | 2022-03-16 |  |
 | [Witches](https://open.spotify.com/track/65rPQRPaiv7RLj6uCDrnQZ) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Dreams](https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f) | 3:51 | 2022-05-12 |  |
-| [Wooie](https://open.spotify.com/track/5KohGMfSBbwkUTNduFWzd8) | [Sis](https://open.spotify.com/artist/64PJgAvLSx4nM57pFiCKx2) | [Wooie](https://open.spotify.com/album/6lbDZITLucahN1T5qO6jFe) | 3:30 | 2022-01-12 |  |
+| [Wooie](https://open.spotify.com/track/5KohGMfSBbwkUTNduFWzd8) | [Sis](https://open.spotify.com/artist/64PJgAvLSx4nM57pFiCKx2) | [Wooie](https://open.spotify.com/album/6lbDZITLucahN1T5qO6jFe) | 3:30 | 2022-01-12 | 2022-05-25 |
 | [Xela](https://open.spotify.com/track/3TEZwf2lJWIeEwBog3TXDf) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Xela](https://open.spotify.com/album/7Gpwzyny4QUiqCs68MhnVe) | 3:46 | 2022-03-18 |  |
 | [Year of Love](https://open.spotify.com/track/2P0LyX02PXKXKMPOH7Zff7) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Year of Love](https://open.spotify.com/album/31PsAJJtuhlTV0rqmFzjtU) | 4:13 | 2022-01-19 |  |
 | [You Are Not An Island](https://open.spotify.com/track/4dZoE86OgZ0LrFWAsrAXNP) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [The Age Of Immunology](https://open.spotify.com/album/0GiTOlUP38QYUf0TJm12DT) | 7:31 | 2021-10-06 |  |

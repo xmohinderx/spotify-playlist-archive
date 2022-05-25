@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oUPBOaEkL6.md) - [plain]
 
 > The hottest Latin hits in the US! Cover: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,708,401 likes - 54 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,708,526 likes - 54 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oUPBOaEkL6.md) - [plain]
 | 17 | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/album/0nLqHiDWHpK33b9lVJMss5) | 4:18 |
 | 18 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 |
 | 19 | [Ella \- Remix](https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Ella \(Remix\)](https://open.spotify.com/album/1XWOwAxb9awdotZSHQnAMH) | 5:30 |
-| 20 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 |
+| 20 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 |
 | 21 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 |
 | 22 | [SI SUPIERAS](https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:47 |
 | 23 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 |

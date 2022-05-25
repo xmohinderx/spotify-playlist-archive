@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-166 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+167 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Chasing Stars](https://open.spotify.com/track/0a9J0dDKTOqNxBUYufLOzY) | [Skyler Madison](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Chasing Stars](https://open.spotify.com/album/1jUyU3oh4FJCmJtNaPJWJw) | 4:41 | 2021-11-29 | 2022-03-04 |
 | [CINEMA](https://open.spotify.com/track/1KUlGcqkfUjnoTL20bhtPr) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [CINEMA](https://open.spotify.com/album/4fqBn6j0jf2eLaBhZwA1dp) | 3:08 | 2022-03-14 |  |
 | [Closer](https://open.spotify.com/track/0dl1KPentnYfyXSQnK1eUD) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Closer](https://open.spotify.com/album/0lqnYWgBm6wxmvTPwwjduy) | 3:38 | 2021-11-19 | 2022-02-16 |
+| [Cold](https://open.spotify.com/track/0PnypUaIbVQJNTUI7uAu7l) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Cold](https://open.spotify.com/album/7CPCLln80ae2SZtBWWsCqn) | 3:32 | 2022-05-24 |  |
 | [Come With Me](https://open.spotify.com/track/6YtkMh0vUE21T6f2P1G5XG) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Sally Jay](https://open.spotify.com/artist/6XkbDOU2h2CIOWzP0BiKQb) | [Come With Me](https://open.spotify.com/album/7xwEXVETqYsp5GBbHGQZaO) | 3:30 | 2022-04-18 |  |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-10 | 2022-05-21 |
 | [D.E.A.L](https://open.spotify.com/track/4NC86WqrkTKQjs4JqXpyml) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [D.E.A.L](https://open.spotify.com/album/38aBdx79uHAy2Wn9aNw2Y9) | 3:20 | 2021-11-19 | 2022-02-11 |

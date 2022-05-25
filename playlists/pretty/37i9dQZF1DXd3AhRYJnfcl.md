@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية التي لا يمكنك التوقف عن الاستماع اليها الغلاف: محمد حماقي
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,921 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,211 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 10 | [ستو أنا](https://open.spotify.com/track/0BCEJXmemL21JvNNoOB5TT) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb), [Hanady Mehanna](https://open.spotify.com/artist/5v3hMjviVKzTsRKjiUFiGT) | [مكتوب عليا \(أغاني المسلسل التلفزيوني الأصلي\)](https://open.spotify.com/album/7CNSRnoyRE1QhSWksa8OFs) | 2:21 |
 | 11 | [Shokran](https://open.spotify.com/track/3zpuelnjip23dk1hxTqklg) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shokran](https://open.spotify.com/album/572v0Jez74h9cMKAYPCIug) | 3:28 |
 | 12 | [Elghazala Ray2a \(feat\. Mohamed Osama\)](https://open.spotify.com/track/4xAYDw7NVSKkvMIE9vFTVu) | [Karim Mahmoud Abdelaziz](https://open.spotify.com/artist/0jDk5u8slIxP4B5AtbyZq6), [Mohamed Osama](https://open.spotify.com/artist/1cODd5riWEV19DpwGut4CN) | [Elghazala Ray2a \(feat\. Mohamed Osama\)](https://open.spotify.com/album/5jjujcUlw3FwkINsaodz71) | 2:41 |
-| 13 | [El Haraka de](https://open.spotify.com/track/1IhGkxXcW4vFBR9dHP5To9) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [El Haraka de](https://open.spotify.com/album/4xoAvWYktjyTSA8lBuFIxJ) | 2:58 |
+| 13 | [El Haraka de](https://open.spotify.com/track/1IhGkxXcW4vFBR9dHP5To9) | [Ahmed Helmy](https://open.spotify.com/artist/6weFHq6TU2aoz3eb6JNSbB) | [El Haraka de](https://open.spotify.com/album/4xoAvWYktjyTSA8lBuFIxJ) | 2:58 |
 | 14 | [مسيطره](https://open.spotify.com/track/4hFNqLwpBM1WoaxrgEForT) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/5jHYpm290ktqzYSqOwlwLy) | 2:48 |
 | 15 | [La Malama \(Bonus Track\)](https://open.spotify.com/track/0A7OGFaJTpBL9a8XfABHXw) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [La Malama \(Bonus Track\)](https://open.spotify.com/album/6PMtOPP4EYJEOoqBJE5pP2) | 3:48 |
 | 16 | [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 |

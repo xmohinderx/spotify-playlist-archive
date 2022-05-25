@@ -128,6 +128,24 @@
     },
     {
       "album": {
+        "name": "Alguien M\u00e1s",
+        "url": "https://open.spotify.com/album/5sOAl2yXC33MCabAevDQqP"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132677,
+      "name": "Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/2KmMR2NuY9gjDdVXSyUJ9m"
+    },
+    {
+      "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/4ImJm5YBExvjj6X9N5yfeq"
       },
@@ -449,7 +467,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 125000,
       "name": "Chill Ish",
       "url": "https://open.spotify.com/track/1GzqJgkd2brZEoXtf1ctVV"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 185972,
       "name": "Muchachitos Feat. Humbe",
       "url": "https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM"
@@ -2113,7 +2131,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 198413,
       "name": "T\u00f3xico",
       "url": "https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm"

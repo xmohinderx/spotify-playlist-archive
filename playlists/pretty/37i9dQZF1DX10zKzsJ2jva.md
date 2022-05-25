@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 > Today's top Latin hits, elevando nuestra música\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,827,006 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,830,325 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 10 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 |
 | 11 | [BAILÉ CON MI EX](https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BAILÉ CON MI EX](https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI) | 2:41 |
 | 12 | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/album/0nLqHiDWHpK33b9lVJMss5) | 4:18 |
-| 13 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 |
+| 13 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 |
 | 14 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 |
 | 15 | [Desde Mis Ojos \- Remix](https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desde Mis Ojos \(Remix\)](https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL) | 3:43 |
 | 16 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 |

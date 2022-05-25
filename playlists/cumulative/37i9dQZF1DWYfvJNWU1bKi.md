@@ -4,7 +4,7 @@
 
 > The best in romantic tunes from Tamil cinema.
 
-97 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/1TNQk9AULP0cVDpyMKbqiM)
+98 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/1TNQk9AULP0cVDpyMKbqiM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Iragai Poley](https://open.spotify.com/track/3FRLxtpSk9BxxnxdS6I4jq) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Tanvi Shah](https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA) | [Naan Mahaan Alla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2oTvmhMCac0nlAcQsL5k88) | 5:17 | 2021-08-16 |  |
 | [Jigidi Killaadi](https://open.spotify.com/track/6t7oTudS2q6OFVhCXHaL4x) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Pattas](https://open.spotify.com/album/1qsm7UXvfm3vTGr1UFKaAH) | 3:38 | 2022-01-03 | 2022-04-29 |
 | [Kaadhal Vaithu](https://open.spotify.com/track/7mAmuoXcbyjXz4rTHEOCiG) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Deepavali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hzhyT0O6pVNxKMd2LC8pa) | 5:09 | 2022-01-03 |  |
+| [Kaalathukkum Nee Venum \- From "Vendhu Thanindhathu Kaadu"](https://open.spotify.com/track/1NoaJoxPKQr9XNLOuKTyNV) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kaalathukkum Nee Venum \(From "Vendhu Thanindhathu Kaadu"\)](https://open.spotify.com/album/3RVPCp07qm53ACN2rq6SqP) | 4:53 | 2022-05-24 |  |
 | [Kaathalae Kaathalae \- From "96"](https://open.spotify.com/track/09d7oLdf8yepEkOh6XXRf3) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Kaathalae Kaathalae \(From "96"\)](https://open.spotify.com/album/0mt4EMEMuKVzTtZoCWKb8G) | 3:13 | 2021-08-16 |  |
 | [Kaathodu Kaathanen \(From "Jail"\)](https://open.spotify.com/track/4tkSvA7zfuhwgHQbEeNEJU) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Aditi Rao Hydari](https://open.spotify.com/artist/147zpWRMJhUudkGSDZ5qJ0) | [Kaathodu Kaathanen \(From "Jail"\)](https://open.spotify.com/album/02MvEPoIlryHGpUoeez6ud) | 5:10 | 2021-08-16 |  |
 | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2b4nWymybHj38A6XtQijiA) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/album/2tWMHOkDRvyWN6yY57limX) | 4:06 | 2021-08-16 |  |

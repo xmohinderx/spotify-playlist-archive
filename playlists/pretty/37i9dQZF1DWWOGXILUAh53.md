@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with the all the drops\. Cover: Gryffin & Olivia O'Brien
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,212 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,271 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 3 | [All Day \(feat\. Nonô\)](https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R) | [Welshy](https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [All Day \(feat\. Nonô\)](https://open.spotify.com/album/2vA5dz501KUEWDYHnyIgiJ) | 3:02 |
 | 4 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 |
 | 5 | [Samba](https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Samba](https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt) | 2:27 |
-| 6 | [Madness \(feat\. Zak Abel\)](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness \(feat\. Zak Abel\)](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
+| 6 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
 | 7 | [Rainfall](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 |
 | 8 | [Another Love \- Tiësto Remix](https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Another Love \(Tiësto Remix\)](https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa) | 3:05 |
 | 9 | [Stay the Night](https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Stay the Night](https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ) | 2:51 |

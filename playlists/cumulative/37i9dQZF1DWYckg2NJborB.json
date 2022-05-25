@@ -37,7 +37,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 199360,
       "name": "2 + 2 = 5",
       "url": "https://open.spotify.com/track/6EIVp9Arb1aAkFgro6UTlt"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 237400,
       "name": "42",
       "url": "https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "A Picture Of Dorian Gray",
       "url": "https://open.spotify.com/track/7cIqQuICcPHoOqm9HD5lfY"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 401101,
       "name": "Billy Liar - Live",
       "url": "https://open.spotify.com/track/5H84IgNRpdyqgCMLteZFfs"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 284008,
       "name": "Calypso - Live",
       "url": "https://open.spotify.com/track/10kv6ITXZNukjUE1GxJu8N"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 215533,
       "name": "Death Of The Author",
       "url": "https://open.spotify.com/track/4mcDWFiTDWIPJmXytF38UQ"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 213973,
       "name": "Disturbance At The Heron House - Remastered",
       "url": "https://open.spotify.com/track/3kL3FV7NPNfzgVeiG753r6"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 290760,
       "name": "Doublespeak",
       "url": "https://open.spotify.com/track/5A3LfRNlvin0EtYj6mQbn4"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 234853,
       "name": "Everyday I Write The Book",
       "url": "https://open.spotify.com/track/36F8DzJ1IP1m8C1h0CpIaz"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 252026,
       "name": "Harold Bloom",
       "url": "https://open.spotify.com/track/0qQ2EKimGM7DHgrPEMCjK0"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 135533,
       "name": "Hey! (Rise of the Robots)",
       "url": "https://open.spotify.com/track/4ipaeAKjSDIajzALCDfo2h"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 255756,
       "name": "I'm Writing A Novel - Spotify Sessions Curated by Jim Eno",
       "url": "https://open.spotify.com/track/1QIOQ3XARduygQqRIif0f7"
@@ -566,6 +566,24 @@
     },
     {
       "album": {
+        "name": "Live At The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/40bPx3n1uqxlPd2nB7lBuX"
+      },
+      "artists": [
+        {
+          "name": "The Cinematic Orchestra",
+          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 785160,
+      "name": "Man With The Movie Camera",
+      "url": "https://open.spotify.com/track/0nkPQmRvzYMrbjtB8mRlyR"
+    },
+    {
+      "album": {
         "name": "Milton At Midnight",
         "url": "https://open.spotify.com/album/1t4MIGZFUAF7HofsaSWIpk"
       },
@@ -577,7 +595,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 346386,
       "name": "Milton At Midnight",
       "url": "https://open.spotify.com/track/40fH8V7f8zQht6dz2wYuLC"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 222293,
       "name": "My Antonia",
       "url": "https://open.spotify.com/track/6yCwfs5qUdG8ySrLl2lgOh"
@@ -649,7 +667,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 275080,
       "name": "No Poem",
       "url": "https://open.spotify.com/track/3FYKFB7FHN63hD3idN9kiO"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 295413,
       "name": "Orpheo Looks Back",
       "url": "https://open.spotify.com/track/33NsXvwapmDA93cHM73G6L"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 195733,
       "name": "Oxford Comma",
       "url": "https://open.spotify.com/track/2Ml0l8YWJLQhPrRDLpQaDM"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 392506,
       "name": "Pattern Recognition",
       "url": "https://open.spotify.com/track/5UaqCqloqMJN0tmHlnMpMy"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 229226,
       "name": "Read, Eat, Sleep",
       "url": "https://open.spotify.com/track/1EUUhXljq9QUJONkKkYGlT"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 378239,
       "name": "Shakespeare",
       "url": "https://open.spotify.com/track/1Q9yJCrqDANqGMKai1gqBM"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 244373,
       "name": "Shalott",
       "url": "https://open.spotify.com/track/3zqqk1rqSOX5P30blEoShn"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 153840,
       "name": "Soma",
       "url": "https://open.spotify.com/track/6gU7ohksNd6LsEJMWfDRhp"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 250106,
       "name": "Sylvia Plath",
       "url": "https://open.spotify.com/track/0Vof9g11F4cbctYIR5UXTk"
@@ -1297,7 +1315,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 158680,
       "name": "Walt Whitman",
       "url": "https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL"
@@ -1373,7 +1391,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 162666,
       "name": "Who Wrote Holden Caulfield?",
       "url": "https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados con Camilo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,144 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,245 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 38 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/3vxd5kyudvfULdOlC7LuzT) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/7o2rasMBeBQUfGlt49M6Ah) | 2:59 |
 | 39 | [Dispara](https://open.spotify.com/track/73cJHFYfD0GDBx1C5bI8Tm) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [CL34N](https://open.spotify.com/album/4mGvnfMaCkGXo1LHWjiOmD) | 2:16 |
 | 40 | [Por Andar Acelerado](https://open.spotify.com/track/4UbkQQN65WPr4rEep7DjIe) | [Adan Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Por Andar Acelerado](https://open.spotify.com/album/4oj3WaIATAHls1B22nsFT7) | 3:41 |
-| 41 | [Salto de Fé](https://open.spotify.com/track/1WrTD7tTQR4CqWVJCs33Nl) | [Sule B](https://open.spotify.com/artist/2YVwfaL3C5K4KQiNHfI8aK), [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Mumbai Moon](https://open.spotify.com/artist/46n3zvHyU1ch6l6rFS9iQb), [Mario Rubio](https://open.spotify.com/artist/7EF7GmW5fM3LpQfbFfHtpg) | [Benzo la Joya](https://open.spotify.com/album/1GwvbhH8fn2rJjAhClg2eB) | 2:19 |
+| 41 | [Salto de Fe](https://open.spotify.com/track/1WrTD7tTQR4CqWVJCs33Nl) | [Sule B](https://open.spotify.com/artist/2YVwfaL3C5K4KQiNHfI8aK), [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Mumbai Moon](https://open.spotify.com/artist/46n3zvHyU1ch6l6rFS9iQb), [Mario Rubio](https://open.spotify.com/artist/7EF7GmW5fM3LpQfbFfHtpg) | [Benzo la Joya](https://open.spotify.com/album/1GwvbhH8fn2rJjAhClg2eB) | 2:19 |
 | 42 | [Muevete](https://open.spotify.com/track/3e0EYgl4lQYB6k4pYqg9Pl) | [Yohancito](https://open.spotify.com/artist/5h3snNTJSuYLpsdORqRy0A), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Lil Geremi](https://open.spotify.com/artist/3nHsN7Leho58wo1RveLfzZ) | [Muevete](https://open.spotify.com/album/1bhuG7U1eSrL1N7BMmQcEo) | 4:33 |
 | 43 | [Lucifer](https://open.spotify.com/track/6mFLA8Tq4MlnhyUGV7Tf4I) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Lucifer](https://open.spotify.com/album/3ID0TDMh101kcidA9TrwWr) | 2:54 |
 | 44 | [La Blusa](https://open.spotify.com/track/2k3W82aVYObuj8bjjs7m1I) | [Xantos](https://open.spotify.com/artist/3HPOnbuwLP2qlwWQ7cgxYW), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK), [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu) | [La Blusa](https://open.spotify.com/album/6u9A0vIJP8t45DYi2uAwMD) | 3:41 |

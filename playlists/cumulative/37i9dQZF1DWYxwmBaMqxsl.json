@@ -196,6 +196,24 @@
     },
     {
       "album": {
+        "name": "Autumn Serenade",
+        "url": "https://open.spotify.com/album/4u4FvHG40exv5slmz0Bg7l"
+      },
+      "artists": [
+        {
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236326,
+      "name": "Autumn Serenade",
+      "url": "https://open.spotify.com/track/76bxYaBhzR5YOIrgmNUUJ5"
+    },
+    {
+      "album": {
         "name": "Tribute",
         "url": "https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx"
       },
@@ -899,7 +917,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 197893,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/3glQOWRCAQIrCnQhWBEFSL"
@@ -1155,6 +1173,24 @@
       "duration_ms": 153784,
       "name": "Lost in Orbit",
       "url": "https://open.spotify.com/track/7ijPIncR5k622S2j28ktCr"
+    },
+    {
+      "album": {
+        "name": "Lover For The Day",
+        "url": "https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Right Time",
+          "url": "https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211786,
+      "name": "Lover For The Day",
+      "url": "https://open.spotify.com/track/1IpTomdIM4HvZI2CnaPszo"
     },
     {
       "album": {

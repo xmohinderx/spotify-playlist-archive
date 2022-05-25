@@ -4,7 +4,7 @@
 
 > Hip\-hop mexicano, rimas de la calle, en viva voz de C\-Kan.
 
-152 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
+153 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Se Me Olvidó](https://open.spotify.com/track/7xLYLM5K6S1TwiSdfuhZQg) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Se Me Olvidó](https://open.spotify.com/album/395Nz8wkDHb8ebR6mMagdf) | 3:40 | 2022-01-28 |  |
 | [Si Me Ven](https://open.spotify.com/track/78OauUHA9r0rWFGEOMArs7) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Si Me Ven](https://open.spotify.com/album/7nxJGvXy3X67D5DITVqFQS) | 3:05 | 2022-01-28 | 2022-04-23 |
 | [Siempre Es Lo Mismo](https://open.spotify.com/track/1nvygjj05E6AK7qR44AP8i) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Canciones Mamalonas 2](https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO) | 4:06 | 2022-01-28 | 2022-03-05 |
+| [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4), [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY) | 3:16 | 2022-05-25 |  |
 | [Sin Drama](https://open.spotify.com/track/6yi3uBliwfNqJUqnilf3d6) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Sin Drama](https://open.spotify.com/album/7gsfgYpAf2qlXGrQjtq28b) | 4:01 | 2022-01-28 |  |
 | [Sirena](https://open.spotify.com/track/5jeWGw9WMX68R8hNqdriOv) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Sirena](https://open.spotify.com/album/0dTFJm1H9hKxR6RUPiflhS) | 3:51 | 2022-01-28 |  |
 | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an) | 2:57 | 2022-01-28 | 2022-02-19 |

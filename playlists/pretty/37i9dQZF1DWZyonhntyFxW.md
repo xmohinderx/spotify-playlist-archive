@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > أقوى أغاني الراب المصري! غلاف: راكور
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,488 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,665 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

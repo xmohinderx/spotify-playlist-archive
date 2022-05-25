@@ -1,13 +1,41 @@
 {
-  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico, con Kevin Kaarl.",
-  "num_followers": 4326692,
+  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico, con MC Davo y Santa Fe Klan.",
+  "num_followers": 4327766,
   "original_name": "\u00c9xitos M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzMyNzUzNSwwMDAwMDFmZTAwMDAwMTgwZjIwMDFmMzAwMDAwMDE4MGRjZDU4Nzll",
+  "snapshot_id": "MTY1MzQzNjgwMCwwMDAwMDFmZjAwMDAwMTgwZjg4MzVjNzAwMDAwMDE4MGYxNTk2YzM4",
   "tracks": [
+    {
+      "added_at": "2022-05-25 00:00:00",
+      "album": {
+        "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
+        "url": "https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Eirian Music",
+          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
+        },
+        {
+          "name": "Los Golpes",
+          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
+      "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
+    },
     {
       "added_at": "2022-04-07 22:00:00",
       "album": {
@@ -351,26 +379,6 @@
       "duration_ms": 226776,
       "name": "Un Nuevo Amor",
       "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
-    },
-    {
-      "added_at": "2022-05-23 17:38:55",
-      "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 182187,
-      "name": "Par\u00eds",
-      "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
     },
     {
       "added_at": "2022-05-06 04:02:00",

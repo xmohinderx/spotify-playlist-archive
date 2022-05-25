@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 160880,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 192000,
       "name": "Disco Man",
       "url": "https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 292373,
       "name": "Fergalicious",
       "url": "https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp"
@@ -1441,7 +1441,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 206586,
       "name": "Silk Chiffon",
       "url": "https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX"
@@ -1463,6 +1463,28 @@
       "duration_ms": 210626,
       "name": "Starships",
       "url": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4"
+    },
+    {
+      "album": {
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "album": {
@@ -1695,7 +1717,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 173325,
       "name": "Truth Hurts",
       "url": "https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq"
@@ -1775,7 +1797,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 258319,
       "name": "Want Me",
       "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"

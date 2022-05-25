@@ -4,7 +4,7 @@
 
 > ¡De la tarima a tus bocinas! Los mejores corridos en vivo\. Grupo Marca Registrada & Gerardo Ortíz en portada.
 
-50 songs - 2 hr 38 min - not published yet
+50 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/5K9BiEODYfz62wlV83pilv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

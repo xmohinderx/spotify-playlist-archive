@@ -4,7 +4,7 @@
 
 > ¡Y qué retumbe la bandona, pariente! Valentín Elizalde en portada.
 
-102 songs - 5 hr 41 min - not published yet
+102 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/0LXtInQa0kC0s87IuTby3p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,9 +34,9 @@
 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/16240HVz8WRk5I0ddFDLFS) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Tu Ya Lo Conoces](https://open.spotify.com/album/7l8sxsHe2YQVuleL1nQN18) | 3:03 | 2021-12-09 |  |
 | [Dueño de Ti](https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 3:40 | 2021-12-09 |  |
 | [Ebrio De Amor](https://open.spotify.com/track/4yDTg9PkshhDpmUIVFoYI5) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [15 Exitos](https://open.spotify.com/album/6xLX5b3LhCdmqiu78iHfQd) | 2:45 | 2021-12-09 |  |
-| [El Amor En Carro](https://open.spotify.com/track/4c5ikbelwcfSrtfLVhhxsF) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | [Usted Dirá](https://open.spotify.com/album/4NfRvu5neenFsWyxpG7iuM) | 3:31 | 2021-12-09 | 2022-05-24 |
+| [El Amor En Carro](https://open.spotify.com/track/4c5ikbelwcfSrtfLVhhxsF) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | [Usted Dirá](https://open.spotify.com/album/4NfRvu5neenFsWyxpG7iuM) | 3:31 | 2021-12-09 |  |
 | [El Amor No Fue Pa´ Mí \- En Vivo](https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX) | 3:46 | 2021-12-09 |  |
-| [El Antes Y El Después](https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [El Antes Y El Después](https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0) | 3:03 | 2021-12-09 |  |
+| [El Antes Y El Después](https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [El Antes Y El Después](https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0) | 3:03 | 2021-12-09 | 2022-05-25 |
 | [El Final De Nuestra Historia](https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:15 | 2021-12-09 |  |
 | [El Lujo De Tenerte](https://open.spotify.com/track/0bIBXi8kSiEkJhlCgg286I) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [El Lujo De Tenerte](https://open.spotify.com/album/4K3RiMOlwODnxsyX5JjiD4) | 2:56 | 2021-12-09 |  |
 | [El Paciente](https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:31 | 2021-12-09 |  |

@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 190533,
       "name": "89",
       "url": "https://open.spotify.com/track/5qIEf0IMDI9CvQTu9qDIc0"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 230693,
       "name": "ATLiens",
       "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 118032,
       "name": "Boom Boom (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0ccUI8Zs25jqWr6vhRGfeQ"
@@ -671,10 +671,32 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 178157,
       "name": "Butterfly Effect (feat. RJ Payne)",
       "url": "https://open.spotify.com/track/7vAd8g2Tkwkj7p88S9ksT9"
+    },
+    {
+      "album": {
+        "name": "Cake",
+        "url": "https://open.spotify.com/album/10I65oH6NTkRcYQDd96Z7K"
+      },
+      "artists": [
+        {
+          "name": "Super Sako",
+          "url": "https://open.spotify.com/artist/2ZMnWI3oIHyj7MyuZ99gvu"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181724,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/2ChAypXrj4P5YKwxPZjfr2"
     },
     {
       "album": {
@@ -825,7 +847,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 219464,
       "name": "Cold (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/5wMh9hhqKQ4JfqLuvqAC7s"
@@ -851,7 +873,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 315000,
       "name": "Concourse P - Remix",
       "url": "https://open.spotify.com/track/3B7eC6ucWdf6P4GA2c8Bnm"
@@ -956,6 +978,32 @@
     },
     {
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239026,
+      "name": "Die Hard",
+      "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
+    },
+    {
+      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/4kztTaq5iUKFXuWj06wbRM"
       },
@@ -1055,7 +1103,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 214434,
       "name": "EPMD 2 (feat. Eminem & EPMD)",
       "url": "https://open.spotify.com/track/4bRPecD9suGW8CfNZhzjS1"
@@ -1095,7 +1143,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 150361,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/4ZfJMUZL5hOoXgsPAwDHcs"
@@ -1117,7 +1165,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 135740,
       "name": "Expensive (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/0IAkpYTRomExXOUJonNMTR"
@@ -1161,7 +1209,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 339826,
       "name": "Fakin Jax",
       "url": "https://open.spotify.com/track/3ioow4HRcH86Jfx4NC4fmV"
@@ -1241,7 +1289,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 203066,
       "name": "Find a Way",
       "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
@@ -1307,7 +1355,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 127379,
       "name": "Fujiko Mine",
       "url": "https://open.spotify.com/track/4KsbuHaxln15tNMk1IMPyq"
@@ -1405,7 +1453,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 211132,
       "name": "Get Dis Money",
       "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
@@ -1563,7 +1611,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 219773,
       "name": "Good Thing (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2Ss2x0xjGRsOXZiYslCKQE"
@@ -1768,6 +1816,28 @@
     },
     {
       "album": {
+        "name": "HOTEL LOBBY (Unc & Phew)",
+        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -1955,7 +2025,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 170808,
       "name": "Jumpin Out The Face",
       "url": "https://open.spotify.com/track/4YIC82vyZpWPc87MUK472B"
@@ -2219,7 +2289,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 216761,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/2CWQS8nDKjISOvFLasSXEh"
@@ -2415,7 +2485,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 222169,
       "name": "Manifestin",
       "url": "https://open.spotify.com/track/1WStBZcSBOEaRibN9BFSA0"
@@ -2631,7 +2701,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 232053,
       "name": "My Favorite Song",
       "url": "https://open.spotify.com/track/6d6Rm6ZHVz8AkE28HkO8eM"
@@ -2931,7 +3001,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 239933,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/3tC8SJpOwJhDg8WGG1NKGR"
@@ -3031,7 +3101,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 115333,
       "name": "Paid my Dues",
       "url": "https://open.spotify.com/track/3fpAclMxGElhrXh8S3fyFc"
@@ -3279,7 +3349,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 212520,
       "name": "Recognize My Car",
       "url": "https://open.spotify.com/track/12JB83J6gWSZ3akzcqr64x"
@@ -3459,7 +3529,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 153687,
       "name": "ROSE STREET",
       "url": "https://open.spotify.com/track/3phALNKWigFCXEhIHOkHrP"
@@ -3631,7 +3701,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 312820,
       "name": "SICKO MODE",
       "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
@@ -3853,7 +3923,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 180493,
       "name": "Subzero",
       "url": "https://open.spotify.com/track/1OmGrbjzEZXeC4HAiYWwmN"
@@ -3879,7 +3949,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 223904,
       "name": "Sucka Free (feat. Killer Mike)",
       "url": "https://open.spotify.com/track/4BsT04mOym0M60CbG6uMf3"
@@ -4165,7 +4235,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 156404,
       "name": "The Recipe",
       "url": "https://open.spotify.com/track/07D2IULzPNePTwnBzDnudX"
@@ -4361,7 +4431,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 214866,
       "name": "Uknowhowwedu",
       "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
@@ -4521,7 +4591,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 283648,
       "name": "VOYE DLO",
       "url": "https://open.spotify.com/track/6hiVu08uKEKnt7EAkR7dMM"
@@ -4785,7 +4855,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 251040,
       "name": "Wouldn't Get Far",
       "url": "https://open.spotify.com/track/39yRhjDdSTP4A7VehxBXDb"

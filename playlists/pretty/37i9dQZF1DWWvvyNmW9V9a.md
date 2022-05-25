@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > I got that red lip classic thing that you like \- Dr\. Taylor Alison Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,290 likes - 103 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,316,049 likes - 103 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 46 | [Peter Pan Was Right](https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Peter Pan Was Right](https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t) | 3:12 |
 | 47 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 |
 | 48 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 |
-| 49 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 |
+| 49 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 |
 | 50 | [Want Me](https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Want Me](https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND) | 4:18 |
 | 51 | [Memories \(with WILLOW\)](https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Memories \(with WILLOW\)](https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd) | 2:35 |
 | 52 | [Falling for You](https://open.spotify.com/track/0ymYPgVwNv1GdORWEiQzUz) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trouvaille](https://open.spotify.com/album/390nr9u7GE9Jeb0uS4LOzb) | 3:19 |

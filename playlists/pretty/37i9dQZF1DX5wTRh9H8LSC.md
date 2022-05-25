@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 
 > Listen Heroine's music 24 Hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,186 likes - 33 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,206 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,762 likes - 273 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,001 likes - 273 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -250,7 +250,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 240 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ZQoTDYVDCn9GcmKsoEHL3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Smells Like Teen Spirit](https://open.spotify.com/album/6PrL4XoX5zkaAirigTltPJ) | 2:33 |
 | 241 | [I Wanna Know What Love Is](https://open.spotify.com/track/3aSz3Sbkueu1yGcnB5BlYd) | [The Prince Karma](https://open.spotify.com/artist/6ew7qRw24oov125Oly8pFD) | [I Wanna Know What Love Is](https://open.spotify.com/album/4YMlkKFWml2zbGExGt7i5X) | 2:51 |
 | 242 | [Beggin'](https://open.spotify.com/track/7lysE3iheU4lE6FdTZdZAa) | [Dame Dame](https://open.spotify.com/artist/12Jp4jInGELGsN5jydIbx5), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [Beggin'](https://open.spotify.com/album/2S4Xb7sAjBNUuSvJWPszUT) | 2:28 |
-| 243 | [Circles](https://open.spotify.com/track/3vD4vnefLVNNaYIIPxS6nm) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [Hawk](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Bluckther](https://open.spotify.com/artist/6iPD95GXysz0X96JtbGej6) | [Circles](https://open.spotify.com/album/53peOywgNGveKVpzzVfOsZ) | 2:52 |
+| 243 | [Circles](https://open.spotify.com/track/3vD4vnefLVNNaYIIPxS6nm) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Bluckther](https://open.spotify.com/artist/6iPD95GXysz0X96JtbGej6) | [Circles](https://open.spotify.com/album/53peOywgNGveKVpzzVfOsZ) | 2:52 |
 | 244 | [What is Love](https://open.spotify.com/track/1SXZJBDJ0i0EB3WUy1tKgB) | [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [What is Love](https://open.spotify.com/album/4xYHloNQkANniOgTbthuGG) | 2:27 |
 | 245 | [Flashdance, What a Feeling](https://open.spotify.com/track/6t68AQvhUFPGRa3DUjl20Z) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Emmie Lee](https://open.spotify.com/artist/4fFlpk8hS56rPSExrMiiLW) | [Flashdance, What a Feeling](https://open.spotify.com/album/6wxigNrqMrwq03FEzTte0T) | 2:47 |
 | 246 | [Never Gonna Give You Up \(feat\. Facu Celasco\)](https://open.spotify.com/track/4NZBj8vaiIKRx3Evxkc0as) | [MOMO Soundz](https://open.spotify.com/artist/0zoIvEOUnKmReCJMY59pbF), [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Facu Celasco](https://open.spotify.com/artist/1ElVBzS4BqlQjfsG8M5SJW) | [Never Gonna Give You Up \(feat\. Facu Celasco\)](https://open.spotify.com/album/2sFNkj2mnuqY9DuGhouigq) | 2:22 |

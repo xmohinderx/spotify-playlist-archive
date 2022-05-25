@@ -832,6 +832,24 @@
     },
     {
       "album": {
+        "name": "I'm in the Mood for Love",
+        "url": "https://open.spotify.com/album/7ps9PviK3EPPUJbZ7hPrsi"
+      },
+      "artists": [
+        {
+          "name": "Steve Luke & Holloway",
+          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254666,
+      "name": "I'm in the Mood for Love",
+      "url": "https://open.spotify.com/track/5mmeNg2rN1v5VPvgO43uRT"
+    },
+    {
+      "album": {
         "name": "The Art Of The Ballad",
         "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
       },
@@ -1035,10 +1053,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 200893,
       "name": "It's All In Your Mind",
       "url": "https://open.spotify.com/track/6D8A6fAixiSoVCBbv93PTo"
+    },
+    {
+      "album": {
+        "name": "La Vie en rose",
+        "url": "https://open.spotify.com/album/5FHVsjOvLsFzLPyxWBmM9E"
+      },
+      "artists": [
+        {
+          "name": "Tate Jackson Trio",
+          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168446,
+      "name": "La Vie en rose",
+      "url": "https://open.spotify.com/track/5E5quIvMG1ZlnwFqSolvhx"
     },
     {
       "album": {
@@ -1751,7 +1787,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 203893,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/0bPlO8XEh3ntLuB0yBSg9z"
@@ -1827,7 +1863,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 178226,
       "name": "The Nearness of You",
       "url": "https://open.spotify.com/track/6AuzYElQpBsDRUcuhxgGbA"

@@ -4,7 +4,7 @@
 
 > The Corridos of yesterday and today all in one place!
 
-78 songs - 3 hr 57 min - not published yet
+79 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/2TYEWDoYUvKWe0GHIXYiPN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Es Dificil Ser Un Santo](https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Es Dificil Ser Un Santo](https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h) | 3:05 | 2022-01-01 |  |
 | [Eslabón Por Eslabón](https://open.spotify.com/track/5S26gp6JrEpG9JW1zFinAB) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [20 Rancheras](https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC) | 3:02 | 2022-01-01 |  |
 | [Gente De Accionar](https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy) | [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Si Lo Digo Es Porque Puedo](https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR) | 2:52 | 2022-01-01 |  |
-| [Gente De Arranque](https://open.spotify.com/track/1MUmseE7ctXeUgu6D0q5Jn) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 3:03 | 2022-01-01 |  |
+| [Gente De Arranque](https://open.spotify.com/track/1MUmseE7ctXeUgu6D0q5Jn) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 3:03 | 2022-01-01 | 2022-05-25 |
 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 | 2022-01-01 |  |
 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8) | 3:10 | 2022-01-01 |  |
 | [La Banda Del Carro Rojo](https://open.spotify.com/track/7yTXEoI8CBAgekFhtjjYo5) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Banda Del Carro Rojo](https://open.spotify.com/album/6iRmqdwRnlbGcWxkh7sRyt) | 3:06 | 2022-01-01 |  |
@@ -82,6 +82,7 @@
 | [Sencillo Soy](https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Sencillo Soy](https://open.spotify.com/album/2VTl4zpY1zYRj1KXGTHLFv) | 2:52 | 2022-01-01 |  |
 | [Sigo Chambeando](https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 3:20 | 2022-01-01 |  |
 | [Soy Buen Amigo](https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soy Buen Amigo](https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v) | 2:33 | 2022-01-01 |  |
+| [Soy De Rancho](https://open.spotify.com/track/1giHG26ew5FJIPdYfyvdZo) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Soy De Rancho](https://open.spotify.com/album/3bP7ypGbJMbjmJD9eSoGFo) | 3:29 | 2022-01-01 |  |
 | [Sucedio en el Aguaje](https://open.spotify.com/track/71MNeTkcM2ZRktfdDS6zZG) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G), [Lupe Tijerina y Rosendo Cantu](https://open.spotify.com/artist/146jiLUXkDZahBdRQhwNHD) | [12 Kilates Puros Corridos](https://open.spotify.com/album/5ZsOBQSfpD3odo1vSIUmMR) | 2:25 | 2022-01-01 |  |
 | [Tan Solo Morro](https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Tan Solo Morro](https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG) | 2:24 | 2022-01-01 |  |
 | [Tirando la H](https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tirando la H](https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod) | 1:59 | 2022-01-01 |  |

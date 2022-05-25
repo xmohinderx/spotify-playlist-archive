@@ -4,7 +4,7 @@
 
 > Soft and swinging jazz in the background of your cocktail party.
 
-107 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
+108 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Cherokee](https://open.spotify.com/track/6iqyiNM3H4OoB7O02IYsVd) | [Grove Street Quartet](https://open.spotify.com/artist/4eMnMIKHP2KiEXc8AjlX3X) | [April In Paris](https://open.spotify.com/album/6pebkNMPXaNerOfuEPp8E8) | 3:19 | 2022-04-26 |  |
 | [Con Alma](https://open.spotify.com/track/4FavGxmQ0kAjmh8WjN8F0j) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Långholmen Sessions Vol\. 1](https://open.spotify.com/album/2TUvJj2iY6UHIGQCVLtIIe) | 5:30 | 2022-04-26 |  |
 | [Danny Boy](https://open.spotify.com/track/1uUhX3CVXQchMVpDdR6oQ1) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Standard Collections Vol\. 1](https://open.spotify.com/album/0Z3WWNniSo85Zutv5lelLF) | 7:38 | 2022-04-26 |  |
+| [Day by Day](https://open.spotify.com/track/3XEbmnM9sO4aAmwzlZoBca) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [I Wish I Knew How](https://open.spotify.com/album/1hTWsiAwmLzazoypEV1B67) | 3:50 | 2022-05-24 |  |
 | [Dear Old Stockholm](https://open.spotify.com/track/1ZrMKSaSBxizjBCYmxf1kg) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:15 | 2022-04-26 |  |
 | [Deed I Do](https://open.spotify.com/track/7KKEgOZ5s7BzVHdkixB1wI) | [Sophia Holmes Band](https://open.spotify.com/artist/3EePJolpEJShAqsbVPPt95) | [Gloria's Step](https://open.spotify.com/album/1djIP5wgiaEERDzq0wA77c) | 3:25 | 2022-04-26 |  |
 | [Dolphin Dance](https://open.spotify.com/track/4Gj72lKjVm63j0gMLGaKSM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [The Way You Look Tonight](https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp) | 4:54 | 2022-04-26 |  |
@@ -80,7 +81,7 @@
 | [Pure Imagination](https://open.spotify.com/track/2HNYhs4PO9yCuAOS9srcHP) | [Kendra Collins Band](https://open.spotify.com/artist/2VEg5RG7lT8Ej8ZDf63MrO) | [Pure Imagination](https://open.spotify.com/album/5lVkJUkfgzHhpPKYiv3jhK) | 5:15 | 2022-04-26 |  |
 | [Quintessence \- Remastered](https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 4:16 | 2022-04-26 |  |
 | [Red Sails in the Sunset](https://open.spotify.com/track/38AeuMJBRBWSlbmuC03EhJ) | [Half Time Feel](https://open.spotify.com/artist/0tuSphyaStgT5UvOxReZLV) | [Red Sails in the Sunset](https://open.spotify.com/album/4fzCadgnY1EYsXAeJJGYMW) | 4:27 | 2022-04-26 |  |
-| [Ribeira da Barca](https://open.spotify.com/track/3dyVfsrux5dQgrDxur7KFn) | [Mário Laginha](https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ) | [Jangada](https://open.spotify.com/album/2XD00ztTgSIRXGB0uxLgXG) | 5:13 | 2022-04-26 |  |
+| [Ribeira da Barca](https://open.spotify.com/track/3dyVfsrux5dQgrDxur7KFn) | [Mário Laginha](https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ) | [Jangada](https://open.spotify.com/album/2XD00ztTgSIRXGB0uxLgXG) | 5:13 | 2022-04-26 | 2022-05-25 |
 | [Ron's Place](https://open.spotify.com/track/0zMHFQZiWaSLsKweL8CRI7) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 6:30 | 2022-04-26 |  |
 | [Satin Doll](https://open.spotify.com/track/7MTtIftC3nDPzzDN4BX2aM) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Nights Of Ballads & Blues](https://open.spotify.com/album/5TX0e0FtiEaDcgXar0mgAT) | 5:36 | 2022-04-26 |  |
 | [Sea Smoke](https://open.spotify.com/track/0eZ6EQ8ekEGV8URaCmS7ah) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [For Celia](https://open.spotify.com/album/3rx1K0Or8xmmwwFBK4bhMT) | 4:42 | 2022-04-26 |  |

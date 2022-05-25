@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,091 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,097 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 4 | [Pinky Promises](https://open.spotify.com/track/65hcKsJBUmV0sRJEx5zvIa) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [Pinky Promises](https://open.spotify.com/album/4iyTCJNad6plRWiz2BXUo0) | 3:01 |
 | 5 | [Overthinking](https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Overthinking](https://open.spotify.com/album/73w5XKOuWg456VuawuUH47) | 2:54 |
 | 6 | [PRIME \(feat\. OMAR\)](https://open.spotify.com/track/171R26eMo3gFkKfR1wyuPa) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [PRIME \(feat\. OMAR\)](https://open.spotify.com/album/1KbQxjKIcU9fqiSJKrDAac) | 2:48 |
-| 7 | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Bim Amoako\-Gyampah](https://open.spotify.com/artist/5HbGyTf9SWq76VNWmirjqi) | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
+| 7 | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
 | 8 | [BEIFAHRERSITZ](https://open.spotify.com/track/1YZU0P3SdMWIjNWdUixYzd) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [BEIFAHRERSITZ](https://open.spotify.com/album/1ydhVNe1Gut5PMC5hXr92D) | 3:04 |
 | 9 | [Lucid \(Loves Homage\)](https://open.spotify.com/track/2O3J8zzVaKAdDfOqLk924i) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Percocet Party](https://open.spotify.com/album/47nHXYjntjPhI7lf8lVCLH) | 3:06 |
 | 10 | [IDK](https://open.spotify.com/track/0pJ3IQeSBuX85bikKFnTnH) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [IDK](https://open.spotify.com/album/3scanW1YpXbmbcsQxqPgTn) | 2:42 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 49 | [Kid](https://open.spotify.com/track/0SJ4AUoyKXAvrDESmXQubD) | [Yves Larock](https://open.spotify.com/artist/2P1h10tRBVlC2lVUqhl6wm), [Molie](https://open.spotify.com/artist/2YWqNLX47jNjlwTqpiYPV0) | [Kid](https://open.spotify.com/album/4FYzadVRbcn9w5m3GZ0I8x) | 2:40 |
 | 50 | [DOTY](https://open.spotify.com/track/00xokWYvcFqbgr239GArbe) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z) | [DOTY](https://open.spotify.com/album/434ID1i06csub38icDWwrt) | 2:53 |
 | 51 | [Marie](https://open.spotify.com/track/0S0yRKlM7Dn2l5odGMXUf7) | [Philipp Dittberner](https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa) | [Marie](https://open.spotify.com/album/3fFq9EtEDQbj1S5Px1v4yr) | 2:53 |
-| 52 | [Madness \(feat\. Zak Abel\)](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness \(feat\. Zak Abel\)](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
+| 52 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
 | 53 | [WTF?](https://open.spotify.com/track/1D78cUVD4LDjqBmaR3zO3a) | [Data Luv](https://open.spotify.com/artist/2gtmbs0Uas9TBSMqkA4zjE), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Selmon](https://open.spotify.com/artist/0hKUUP3J5Dc69cQur3U2nV) | [WTF?](https://open.spotify.com/album/4Zqyq8aKXt20YoIsXr0qqF) | 2:36 |
 | 54 | [piccolo](https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K) | 2:00 |
 | 55 | [for the girls](https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [for the girls](https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB) | 2:38 |

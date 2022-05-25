@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > New music from Post Malone, Roddy Ricch, and French Montana is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,951 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,014 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 19 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 |
 | 20 | [Certified \(feat\. Gunna\)](https://open.spotify.com/track/31xA2Iti4kb3aMiX75e8Y5) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Shiesty Season: Certified](https://open.spotify.com/album/2lTh3MtdESaC4jg5E82JEE) | 2:29 |
 | 21 | [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:39 |
-| 22 | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS) | 3:27 |
+| 22 | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS) | 3:27 |
 | 23 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
 | 24 | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [Bory300](https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH) | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z) | 1:58 |
 | 25 | [Mopstick \(feat\. Kodak Black\)](https://open.spotify.com/track/5FAQb7Cfps6JCYl2ZjtWHO) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mopstick \(feat\. Kodak Black\)](https://open.spotify.com/album/1RuIdS69hrZ6ToCFOIRjYK) | 3:36 |

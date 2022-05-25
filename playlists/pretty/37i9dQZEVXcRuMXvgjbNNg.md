@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [better when im next to u](https://open.spotify.com/track/2YaScEsD7WNi0DSPEmYAGN) | [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL) | [better when im next to u](https://open.spotify.com/album/5wkrq60mFXVEWzWrnMdw6n) | 3:37 |
 | 30 | [All My Love](https://open.spotify.com/track/6A7HAqXAvIiBejpkFutf5A) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [All My Love](https://open.spotify.com/album/3KMK8gjm1ehzkH5DvZ5vyw) | 3:18 |
 
-Snapshot ID: `MCwwMDAwMDAwMDY0ZTBlYzY4YjhlMWU4MTk5YTE0MzgxZTdjNjRiNjRl`
+Snapshot ID: `MCwwMDAwMDAwMDA1YWExMGY1MjYyZTJiM2E0M2M3MDdjYWJiMjJjMmUw`

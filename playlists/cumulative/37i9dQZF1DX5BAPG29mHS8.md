@@ -2,9 +2,9 @@
 
 ### [Éxitos México](https://open.spotify.com/playlist/37i9dQZF1DX5BAPG29mHS8)
 
-> Los hits de ahora en la playlist más grande de México, con Kevin Kaarl.
+> Los hits de ahora en la playlist más grande de México, con MC Davo y Santa Fe Klan.
 
-135 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/63poUoUtwzQDsNKgrO1ZRT)
+136 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/63poUoUtwzQDsNKgrO1ZRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 | 2022-03-31 |  |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2021-12-09 | 2022-02-11 |
 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 | 2022-05-09 |  |
-| [París](https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [París](https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj) | 3:02 | 2022-05-23 |  |
+| [París](https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [París](https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj) | 3:02 | 2022-05-23 | 2022-05-25 |
 | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/album/0nLqHiDWHpK33b9lVJMss5) | 4:18 | 2022-04-25 |  |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2021-12-09 | 2022-04-01 |
 | [Perfecta](https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Perfecta](https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc) | 2:54 | 2021-12-09 | 2022-01-14 |
@@ -108,6 +108,7 @@
 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 | 2021-12-09 | 2022-01-29 |
 | [SI SUPIERAS](https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:47 | 2022-05-09 |  |
 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 4:15 | 2021-12-09 | 2022-05-07 |
+| [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4), [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY) | 3:16 | 2022-05-25 |  |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-03-25 | 2022-04-15 |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2021-12-09 | 2022-02-19 |
 | [Soy El Raton](https://open.spotify.com/track/6VUtRAE5fkJQfWqFhEWy1H) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [Soy El Raton](https://open.spotify.com/album/0goe4Y1NMHxxsnXyv8ytuA) | 2:55 | 2022-01-13 | 2022-02-01 |

@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 141396,
       "name": "First Call",
       "url": "https://open.spotify.com/track/0ktbpf7PQCWAV2Jer0I0GS"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
@@ -996,6 +996,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "album": {
         "name": "MEAN!",
         "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
       },
@@ -1043,10 +1061,28 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 220918,
       "name": "Moon",
       "url": "https://open.spotify.com/track/1XpAZlfENlrHalIvuhAp9R"
+    },
+    {
+      "album": {
+        "name": "4 Songs I Made In California",
+        "url": "https://open.spotify.com/album/6Gowdvuc1TuxA2mD08UIwL"
+      },
+      "artists": [
+        {
+          "name": "Dylan J",
+          "url": "https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Na\u00efve Love",
+      "url": "https://open.spotify.com/track/1FWluZedEH4D8F6TUZlGEB"
     },
     {
       "album": {
@@ -1195,7 +1231,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 203384,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
@@ -1303,7 +1339,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 220891,
       "name": "September",
       "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"

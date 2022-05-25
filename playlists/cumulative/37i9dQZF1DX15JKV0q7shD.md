@@ -4,7 +4,7 @@
 
 > Those quintessential sad songs
 
-140 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/25YMJMMUP0rqPnac5HBzvf)
+141 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/25YMJMMUP0rqPnac5HBzvf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [At Last](https://open.spotify.com/track/1hXIdXjAI4nWz4qnJ28iO2) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last The Very Best Of](https://open.spotify.com/album/5mKhSxFMOBFtf76VHaMyRS) | 3:01 | 2019-08-02 | 2022-05-14 |
 | [Baby](https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f) | [Donnie & Joe Emerson](https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa) | [Dreamin' Wild](https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P) | 4:10 | 2022-05-13 | 2022-05-24 |
 | [Baby Don’t Go](https://open.spotify.com/track/6VVcm95tmQs7ixHdy73TwY) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Meet The Supremes](https://open.spotify.com/album/3SbevlBY1VRqo45T2kC3S4) | 2:12 | 2019-08-02 | 2022-05-14 |
+| [Bad Day](https://open.spotify.com/track/2Pwm2YtneLSWi7vyUpT5fs) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter \(Deluxe Version\)](https://open.spotify.com/album/4JWtkO5RBU3Z3o40112pbh) | 3:53 | 2022-05-13 |  |
 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 | 2022-05-13 |  |
 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 | 2022-05-13 |  |
 | [Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 1:40 | 2019-08-02 | 2022-05-14 |
@@ -40,7 +41,7 @@
 | [Creep](https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) | 3:58 | 2022-05-13 |  |
 | [Cry Me A River](https://open.spotify.com/track/7rcfs2bBj5mNyiJbBIQ7cc) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [The Very Best Of Julie London](https://open.spotify.com/album/2KpxHciuO5Zwd31c4cpKqk) | 2:54 | 2019-08-02 | 2022-05-14 |
 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 | 2022-05-13 | 2022-05-24 |
-| [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 | 2022-05-13 |  |
+| [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 | 2022-05-13 | 2022-05-25 |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/4GQaSM60Y9UvCNYOKHPIxd) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [Creeque Alley \- The History Of The Mamas And The Papas](https://open.spotify.com/album/6Wo8kOZUTssB59PNQ5Zcp8) | 3:13 | 2019-08-02 | 2022-05-14 |
 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 | 2022-05-13 |  |
 | [End Of The Road](https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Bonus Tracks Version\)](https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO) | 5:51 | 2022-05-13 |  |

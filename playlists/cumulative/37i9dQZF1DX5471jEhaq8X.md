@@ -4,7 +4,7 @@
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Portada: Los Farmerz
 
-140 songs - 7 hr 6 min - not published yet
+140 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Comandos Del Alacran](https://open.spotify.com/track/1r0UdRD2fhAayVHtnFmcI4) | [Giro 612](https://open.spotify.com/artist/6z10YtNDk4kGgZ73yvvckM), [Jesus Payan e Imparables](https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup) | [Comandos Del Alacran](https://open.spotify.com/album/4NGAspvSvLRrc7DbCGeGuL) | 3:10 | 2022-05-13 |  |
 | [Como Jordan](https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:45 | 2022-05-13 |  |
 | [Comprobado](https://open.spotify.com/track/7yMS2TnLiddORCCkKHjeo7) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Comprobado](https://open.spotify.com/album/0ZfhiBRqDauFAXcmjClsR1) | 2:36 | 2022-05-13 |  |
-| [Compton vs East LA](https://open.spotify.com/track/5j4KgpriciAHsjhubLRr4S) | [Grupo Nuevo Equipo](https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl) | [Compton vs East LA](https://open.spotify.com/album/7uWip8HvIY41gEZvAryMbK) | 3:02 | 2022-05-13 |  |
+| [Compton vs East LA](https://open.spotify.com/track/5j4KgpriciAHsjhubLRr4S) | [Grupo Nuevo Equipo](https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl) | [Compton vs East LA](https://open.spotify.com/album/7uWip8HvIY41gEZvAryMbK) | 3:02 | 2022-05-13 | 2022-05-25 |
 | [Cuando Me Muera](https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:09 | 2022-05-13 |  |
 | [Culiacan La Capital](https://open.spotify.com/track/1PqfkVFQUuXaj37DGK4fgc) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Culiacan La Capital](https://open.spotify.com/album/53Afl97yOyKjDFOAUTt74V) | 2:54 | 2022-05-13 |  |
 | [Del Barrio](https://open.spotify.com/track/4hRreLnYg3zgMp9nYxKkBF) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Del Barrio](https://open.spotify.com/album/63BoqY5Mcs2obz6ZLdWDN8) | 3:03 | 2022-05-13 |  |
@@ -125,7 +125,7 @@
 | [Operativo Guasanga \- En Vivo](https://open.spotify.com/track/5P6SAHuQ70HBnIev2OdKSW) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Operativo Guasanga \(En Vivo\)](https://open.spotify.com/album/1lDEsLv28JwXZvqsvN4rKy) | 3:15 | 2022-05-13 |  |
 | [Pa Los Que Hoy](https://open.spotify.com/track/34zDAp4dTbCIt59a3Q4QBt) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Pa Los Que Hoy](https://open.spotify.com/album/36xEtIBvLwYCUrtHsw9rbU) | 3:38 | 2022-05-13 |  |
 | [Padre Nuestro](https://open.spotify.com/track/4smyDUpUfEmAWdC4uHvsMJ) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Padre Nuestro](https://open.spotify.com/album/6MErFrcJuktzkFqjVZsYD9) | 3:28 | 2022-05-13 |  |
-| [Paranoia](https://open.spotify.com/track/0cOuTJ7k92o9V6hkf3fxpW) | [Lumar Perez](https://open.spotify.com/artist/0m8RPY3jufvoZY1p48TbRb) | [Paranoia](https://open.spotify.com/album/5Udf1Cz8Q9r35d8sIBS8tX) | 2:37 | 2022-05-13 | 2022-05-24 |
+| [Paranoia](https://open.spotify.com/track/0cOuTJ7k92o9V6hkf3fxpW) | [Lumar Perez](https://open.spotify.com/artist/0m8RPY3jufvoZY1p48TbRb) | [Paranoia](https://open.spotify.com/album/5Udf1Cz8Q9r35d8sIBS8tX) | 2:37 | 2022-05-13 |  |
 | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw) | 2:36 | 2022-05-13 |  |
 | [Peleando La Ciudad \(En Vivo\)](https://open.spotify.com/track/1xEii4pWw0awhAmkYO7Rap) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Peleando La Ciudad \(En Vivo\)](https://open.spotify.com/album/4B95B43CS1GoJpYEnpCae9) | 3:27 | 2022-05-13 |  |
 | [Que Te Valga Verga](https://open.spotify.com/track/2TIRRX9lDuhujt0ojcZ8Y6) | [Grupo Nuevo Equipo](https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl) | [Que Te Valga Verga](https://open.spotify.com/album/7DAmH01Zs3AGPJugrq7MFH) | 2:06 | 2022-05-13 |  |

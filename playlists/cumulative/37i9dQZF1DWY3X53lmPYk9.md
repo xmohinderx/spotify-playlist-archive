@@ -4,7 +4,7 @@
 
 > Soft piano interpretations of jazz classics.
 
-110 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
+113 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,10 +18,12 @@
 | [As She Rises](https://open.spotify.com/track/2wBb2lAmkZZIioQcJpH8D6) | [Dimitri Stöckl](https://open.spotify.com/artist/2wTGVnmoIgz8S6DfjerKx1) | [As She Rises](https://open.spotify.com/album/1szjHU5cFCB4fNgsehF3ID) | 2:23 | 2021-12-14 |  |
 | [as time goes by](https://open.spotify.com/track/7a6iQySheFxla0uEF4tt74) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 3:21 | 2021-12-14 |  |
 | [Ask Me Now](https://open.spotify.com/track/0Fjj6Gvywafx1n5HStRNs5) | [Daniel Hopeland](https://open.spotify.com/artist/2vrFPeJli5gfJIv5zxVwbO) | [Ask Me Now](https://open.spotify.com/album/0q9x1QQbHUsNMuSwbuvclJ) | 3:56 | 2021-12-14 |  |
+| [Au revoir](https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Au revoir](https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3) | 2:31 | 2022-05-24 |  |
 | [Autumn Leaves](https://open.spotify.com/track/4LYLph6AcRon1BE7FBWJ3T) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Autumn Leaves](https://open.spotify.com/album/0tyCq5vbWN9HCkcqdDQhxm) | 3:26 | 2021-12-14 |  |
 | [Be My Love](https://open.spotify.com/track/0cC3JukQCOX5gyi2Zvh2J3) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Be My Love](https://open.spotify.com/album/2iom9wYzmzMtFKetO3AvNg) | 4:00 | 2021-12-14 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/72a5Xt8LRTZUlngpYOhiTb) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bewitched, Bothered and Bewildered](https://open.spotify.com/album/3eBxwgLkJLuT4ZV8rKteFP) | 3:04 | 2022-03-10 |  |
 | [Blame it on My Youth](https://open.spotify.com/track/1KWj5vKH4ns49fPDsD6Qa1) | [Seth William](https://open.spotify.com/artist/4wmS3zcqEbHaGPSib72vQB) | [In Love For the Rest of My Life](https://open.spotify.com/album/7um0tlhr6y5RIufvcyVjbp) | 2:33 | 2022-01-13 |  |
+| [Blue In Green](https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Blue In Green](https://open.spotify.com/album/3tTWhbuhhWWeh9dd30hwPW) | 3:47 | 2022-05-24 |  |
 | [Body And Soul](https://open.spotify.com/track/3u2Y2K3dlBY5QRIwdTnCHu) | [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI) | [Modernistic](https://open.spotify.com/album/7rPdZr6OPrShZWy3aob80V) | 3:46 | 2021-12-14 |  |
 | [But Beautiful](https://open.spotify.com/track/2HrJMEYnGTwBSKVOV2v7Ks) | [Margaret Shu](https://open.spotify.com/artist/2rXYYqYz9gNCletxt5R1M5) | [You Know I Care](https://open.spotify.com/album/6stS7pmTQEtTSN6Gfiroul) | 3:51 | 2021-12-14 |  |
 | [Come Rain Or Come Shine](https://open.spotify.com/track/2KaiRciXTCoGWvDUG6UyXy) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Come Rain Or Come Shine](https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH) | 3:40 | 2022-04-26 |  |
@@ -51,6 +53,7 @@
 | [I'm Glad There Is You](https://open.spotify.com/track/0wAqaMAcQhd9Jk78XgqHWs) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [I'm Glad There Is You](https://open.spotify.com/album/77MH1Wv80xJi7l26Ri1VaJ) | 4:46 | 2022-02-16 |  |
 | [I'm Through With Love](https://open.spotify.com/track/25CN9OMqfs6XwG89bpeemt) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [I'm Through With Love](https://open.spotify.com/album/6TSLFqTXi6miKoCwg3kyAN) | 4:19 | 2022-01-13 |  |
 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4UJTsC3tnszd4RnwKFtBkh) | [Jessica Albert](https://open.spotify.com/artist/7lI5xu3g1pfJ3zSkQjPflN) | [Stars Fell on Alabama](https://open.spotify.com/album/4udI8I069Mwb3lbzTBacpH) | 3:37 | 2021-12-14 |  |
+| [I've Never Been in Love Before](https://open.spotify.com/track/3JdweRYYTUEhsF0trwC1Ad) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Jazz Piano Before Midnight](https://open.spotify.com/album/6tC4AiQ7S9tz8bCrOmzfKo) | 3:01 | 2022-05-24 |  |
 | [If You Could See Me Now](https://open.spotify.com/track/53BeSVY0mpmucCIr0pDkPp) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [If You Could See Me Now](https://open.spotify.com/album/1gtcWSvAdOvvJ9Ya82g5Mk) | 3:20 | 2021-12-14 |  |
 | [In a Sentimental Mood](https://open.spotify.com/track/4H5TRFQSdghfqfxhhhdo18) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [Soliloquy](https://open.spotify.com/album/2SVHtV1DqKXOYKd6vTLNxw) | 5:34 | 2021-12-14 |  |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2022-01-13 |  |
@@ -76,7 +79,7 @@
 | [Old Folks](https://open.spotify.com/track/14BLMhpVsywOPvT7zOaFu5) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Old Folks](https://open.spotify.com/album/3JCK1yX5Znu54wJTl2lbs0) | 4:20 | 2021-12-14 |  |
 | [On A Clear Day](https://open.spotify.com/track/2rIuYJ81BdL5pukyDjhxj7) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [On A Clear Day](https://open.spotify.com/album/5tc4yM14HsMvbLUErYQ4MH) | 3:16 | 2022-04-01 |  |
 | [On The Street Where You Live](https://open.spotify.com/track/1dgYQO1Hui0E6lGe3F1hDw) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [On The Street Where You Live](https://open.spotify.com/album/5UvGpwpS3tYpZHbiQlonNp) | 3:51 | 2022-05-18 |  |
-| [On The Sunny Side Of The Street](https://open.spotify.com/track/0LZ678lgdb9f0ab8AyZBHH) | [Ellen Thomas](https://open.spotify.com/artist/5SKCgE6dXEIQuEHfRzQYIj) | [Darn That Dream](https://open.spotify.com/album/2ql7oxvh5zWMOvCutpd4pP) | 3:02 | 2022-03-10 |  |
+| [On The Sunny Side Of The Street](https://open.spotify.com/track/0LZ678lgdb9f0ab8AyZBHH) | [Ellen Thomas](https://open.spotify.com/artist/5SKCgE6dXEIQuEHfRzQYIj) | [Darn That Dream](https://open.spotify.com/album/2ql7oxvh5zWMOvCutpd4pP) | 3:02 | 2022-03-10 | 2022-05-25 |
 | [Once I Had A secret Love](https://open.spotify.com/track/7kvwOnTBlrIAkScJkjIPUR) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [Once I Had A secret Love](https://open.spotify.com/album/0cBqA8iqJvj72zbk5etg5b) | 5:46 | 2022-01-13 |  |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/6LP9BZW28pX0k7jimKZHwI) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Polka Dots And Moonbeams](https://open.spotify.com/album/40pHngJ4KeyHmdnvr7GV21) | 3:45 | 2021-12-14 |  |
 | [prelude to a kiss](https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 4:21 | 2022-01-13 |  |
@@ -97,7 +100,7 @@
 | [Stella By Starlight](https://open.spotify.com/track/1ETnlcaRH6Sq2xihW7TZPI) | [Benjamin Thorpe](https://open.spotify.com/artist/17kwSCj2gRfzyMYDXjCUbr) | [Stella By Starlight](https://open.spotify.com/album/1ndveuGRfyhEbcfxiA97G7) | 3:02 | 2021-12-14 |  |
 | [Stormy Weather](https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Stormy Weather](https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO) | 4:07 | 2022-01-13 |  |
 | [Summertime](https://open.spotify.com/track/48VBjzx0eH2CkOEjBDlxft) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [Summertime](https://open.spotify.com/album/67FpasD3efqkbHYrZoeytx) | 4:41 | 2022-03-10 |  |
-| [Taking A Chance On Love](https://open.spotify.com/track/1f9NMymXfaYatJPvlkilXv) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Grand Piano](https://open.spotify.com/album/4nkc7tvHOT1xhiaTbjuFiL) | 2:35 | 2022-03-10 |  |
+| [Taking A Chance On Love](https://open.spotify.com/track/1f9NMymXfaYatJPvlkilXv) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Grand Piano](https://open.spotify.com/album/4nkc7tvHOT1xhiaTbjuFiL) | 2:35 | 2022-03-10 | 2022-05-25 |
 | [tea for two](https://open.spotify.com/track/2hX0ncE771SfgEmu1wBBi8) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:44 | 2021-12-14 |  |
 | [Tenderly](https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lover Man](https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz) | 2:40 | 2021-12-14 |  |
 | [The Midnight Sun Will Never Set](https://open.spotify.com/track/5RmbmVNTYmbRHB55UayS3n) | [Dennis Green](https://open.spotify.com/artist/12erKof3Sw4kvmah9xm01L) | [The Midnight Sun Will Never Set](https://open.spotify.com/album/2huBri0orubku9NvzOqWbw) | 4:48 | 2022-03-10 |  |

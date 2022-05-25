@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Harry Styles, Zach Bryan, Conan Gray, Rina Sawayama, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,905,311 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,905,439 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 75 | [so into you \- Spotify Singles](https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 2:53 |
 | 76 | [She Don’t Know](https://open.spotify.com/track/7itpOy1ioRAQ65qA6NFoLU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [She Don't Know](https://open.spotify.com/album/0zJHPS083IYpj5HunA3eha) | 3:29 |
 | 77 | [Cleopatra](https://open.spotify.com/track/5UHNBHu9SWhlbVOlntdCWf) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Cleopatra](https://open.spotify.com/album/7oSTYFxPV06Fpp4lq2dntf) | 3:20 |
-| 78 | [Madness \(feat\. Zak Abel\)](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness \(feat\. Zak Abel\)](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
+| 78 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
 | 79 | [Miss Power](https://open.spotify.com/track/6xRRVm0hhxZCWidWHeCmS9) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/6yc8nbYl18KJWnyfwie2Ro) | 2:44 |
 | 80 | [JIGGA DAME](https://open.spotify.com/track/5XZu7BrTTyjzqOzr38sGg3) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [JIGGA DAME](https://open.spotify.com/album/4za5Cq5ARxUp6sCtegfJFm) | 1:44 |
 | 81 | [Callin' \(feat\. Big K.R.I.T\. & WESTSIDE BOOGIE\)](https://open.spotify.com/track/3zQwqYVqMOOGddjx1eQsDs) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Callin' All My Children](https://open.spotify.com/album/2r8q8lWjoaBRQpQvLPsEqt) | 3:17 |

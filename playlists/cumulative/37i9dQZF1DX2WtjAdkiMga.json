@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 180778,
       "name": "Alice In Wonderland",
       "url": "https://open.spotify.com/track/3KvvR3y5CZTt7Zef7y2Yc5"
@@ -113,6 +113,24 @@
       "duration_ms": 127396,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/5sqvQARdZgWBHQbUmo1RCQ"
+    },
+    {
+      "album": {
+        "name": "Jazz Standard Lullabies",
+        "url": "https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb"
+      },
+      "artists": [
+        {
+          "name": "Jesse Nielsen",
+          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140913,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/5rmh8KIWhqte8XIfaowQEf"
     },
     {
       "album": {
@@ -851,6 +869,24 @@
       "duration_ms": 177528,
       "name": "Sangfroid",
       "url": "https://open.spotify.com/track/68fAT62Ccoh6KdjV3gnM8z"
+    },
+    {
+      "album": {
+        "name": "Jazz Standard Lullabies",
+        "url": "https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb"
+      },
+      "artists": [
+        {
+          "name": "Jesse Nielsen",
+          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147675,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/3gDXxFjx7S85a3jCOIVYHx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-490 songs - 1 day 2 hr 56 min - [published](https://open.spotify.com/playlist/5sx0bOwIYMxi0Nf8rS1mMZ)
+491 songs - 1 day 2 hr 59 min - [published](https://open.spotify.com/playlist/5sx0bOwIYMxi0Nf8rS1mMZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 | 2021-05-16 | 2021-05-23 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-05-26 | 2021-08-31 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 4:24 | 2021-12-25 | 2021-12-27 |
-| [Idiota](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:01 | 2022-01-25 |  |
+| [Idiota](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:01 | 2022-01-25 | 2022-05-25 |
 | [Imagina](https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Imagina](https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh) | 3:43 | 2021-03-27\* | 2021-08-16 |
 | [IMY2 \(with Kid Cudi\)](https://open.spotify.com/track/7F9cT6hIRhnFCYP6GKS0tf) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:12 | 2021-09-05 | 2021-09-06 |
 | [In Da Getto](https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:10 | 2021-09-20 | 2021-10-31 |
@@ -432,6 +432,7 @@
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
 | [Take My Breath](https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 5:39 | 2022-01-08 | 2022-01-10 |
 | [Take My Breath](https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 5:39 | 2022-01-09 | 2022-01-15 |
+| [Tchuco Nela](https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Tchuco Nela](https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L) | 2:50 | 2022-05-24 |  |
 | [Te Amo](https://open.spotify.com/track/5kr0kja5gbZAaT7w3TGKts) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Yellow](https://open.spotify.com/album/3TnAk6bBJMNeFjOUJMaFFz) | 4:18 | 2022-02-02 | 2022-02-23 |
 | [Te Amo](https://open.spotify.com/track/5QU2pHpvyaiTZ0E7cJYlq3) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Yellow](https://open.spotify.com/album/50sUY8OGdS8EIaaisUzGQS) | 4:18 | 2021-03-27\* | 2022-02-02 |
 | [Te Amo](https://open.spotify.com/track/5p1eiAHN5xYAMrSUDKxidI) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Yellow](https://open.spotify.com/album/6OzWkDYmerUM9a94FxDWOE) | 4:18 | 2022-02-01 | 2022-02-03 |

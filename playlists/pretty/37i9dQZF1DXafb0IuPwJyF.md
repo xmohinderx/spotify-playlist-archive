@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > Hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: 米津玄師
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,090 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,558 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 2 | [愛とか恋とか](https://open.spotify.com/track/4McP7SOTK2NWkydOcDCajC) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [愛とか恋とか](https://open.spotify.com/album/4z3h8ucXGzCkhEWhIlkvTZ) | 3:52 |
 | 3 | [Bye\-Good\-Bye](https://open.spotify.com/track/0rPrGZTtScNSRL2jZoooKO) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Bye\-Good\-Bye](https://open.spotify.com/album/6zlvNHkwGQESAwd8DQxAnq) | 3:01 |
 | 4 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 |
-| 5 | [HOPE](https://open.spotify.com/track/4xfYAFR8CCXdFr9mxPmHXL) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [HOPE / WISH](https://open.spotify.com/album/6MsGbobSY6DsLpFGbRTOfQ) | 3:05 |
-| 6 | [Habit](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Habit](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) | 4:13 |
-| 7 | [初恋が泣いている](https://open.spotify.com/track/1vT6VdL9PrHOBziwubdt29) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [初恋が泣いている](https://open.spotify.com/album/3VEglNaW4ojsqUKftqryRf) | 3:59 |
-| 8 | [溜め息](https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [舌打](https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v) | 2:57 |
+| 5 | [溜め息](https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [舌打](https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v) | 2:57 |
+| 6 | [HOPE](https://open.spotify.com/track/4xfYAFR8CCXdFr9mxPmHXL) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [HOPE / WISH](https://open.spotify.com/album/6MsGbobSY6DsLpFGbRTOfQ) | 3:05 |
+| 7 | [Habit](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Habit](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) | 4:13 |
+| 8 | [初恋が泣いている](https://open.spotify.com/track/1vT6VdL9PrHOBziwubdt29) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [初恋が泣いている](https://open.spotify.com/album/3VEglNaW4ojsqUKftqryRf) | 3:59 |
 | 9 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 |
 | 10 | [うぉ](https://open.spotify.com/track/5cjjWH34eymyinmFKaAEEC) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [うぉ](https://open.spotify.com/album/30dhEed1r9KoxwZGhz0xIG) | 2:48 |
 | 11 | [Walkin' In My Lane](https://open.spotify.com/track/3l2O4IuJ4DFEfUwDdWyPnf) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Walkin' In My Lane](https://open.spotify.com/album/02KI6B3EHutDYnZHSLnIkf) | 4:00 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 35 | [MELODY \(prod.by BREIMEN\)](https://open.spotify.com/track/5ExfTiWAHvxG03Kq9zrjBn) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD), [井口理](https://open.spotify.com/artist/573aEcIHzIyX9guZtasykj) | [MELODY \(prod.by BREIMEN\)](https://open.spotify.com/album/6l85wjdD63ne29466jIuOV) | 4:05 |
 | 36 | [Playback](https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [TWO](https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO) | 3:07 |
 | 37 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 |
-| 38 | [GIRLS](https://open.spotify.com/track/2PnWhodF9qgRrQGy8GEK7H) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [GIRLS](https://open.spotify.com/album/2WJeO5eGm5dhR7W6eJ5yzD) | 4:05 |
-| 39 | [嫌でもね](https://open.spotify.com/track/0vMirJzqc32hw8gzMISrga) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [嫌でもね](https://open.spotify.com/album/0ENL0kl70GDim5FzZk9vQj) | 3:06 |
-| 40 | [心音](https://open.spotify.com/track/3wxYirejZ1NWKp2uy3Ir5N) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [心音](https://open.spotify.com/album/2sF3NUTrs7U4CV6d6qk2k6) | 4:01 |
-| 41 | [エクレール](https://open.spotify.com/track/74D1fZvt1jnZ8psXIf1FJ4) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [エクレール](https://open.spotify.com/album/17ldd7eO4vY7MFODEl5FIw) | 3:32 |
-| 42 | [星が泳ぐ](https://open.spotify.com/track/0MnPdlWm7MSSUnEamZp5lX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [星が泳ぐ](https://open.spotify.com/album/7KgNsK5MtZJJSdNOFBu738) | 3:59 |
-| 43 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 |
-| 44 | [I MA](https://open.spotify.com/track/2mJxEj7p6hzkPYiCg3LUUf) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Tokyo State Of Mind](https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ) | 3:34 |
-| 45 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 |
-| 46 | [銃の部品](https://open.spotify.com/track/0AmXho7WWR4MprccR2pILw) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [銃の部品](https://open.spotify.com/album/3lF7gg3xzznR7gL6IKm4LB) | 2:34 |
-| 47 | [永遠](https://open.spotify.com/track/7oCZ1O1L4TuLRnmt8Io4IU) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [永遠](https://open.spotify.com/album/42nEyaGtOPG8YuugZjyNFt) | 6:12 |
-| 48 | [ふたり計画](https://open.spotify.com/track/316xoUi91q0TZQjFoZbSPX) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ふたり計画](https://open.spotify.com/album/22YTXwYEfHp9f0pb4c7dTG) | 2:32 |
+| 38 | [ふたり計画](https://open.spotify.com/track/316xoUi91q0TZQjFoZbSPX) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ふたり計画](https://open.spotify.com/album/22YTXwYEfHp9f0pb4c7dTG) | 2:32 |
+| 39 | [GIRLS](https://open.spotify.com/track/2PnWhodF9qgRrQGy8GEK7H) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [GIRLS](https://open.spotify.com/album/2WJeO5eGm5dhR7W6eJ5yzD) | 4:05 |
+| 40 | [嫌でもね](https://open.spotify.com/track/0vMirJzqc32hw8gzMISrga) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [嫌でもね](https://open.spotify.com/album/0ENL0kl70GDim5FzZk9vQj) | 3:06 |
+| 41 | [心音](https://open.spotify.com/track/3wxYirejZ1NWKp2uy3Ir5N) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [心音](https://open.spotify.com/album/2sF3NUTrs7U4CV6d6qk2k6) | 4:01 |
+| 42 | [エクレール](https://open.spotify.com/track/74D1fZvt1jnZ8psXIf1FJ4) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [エクレール](https://open.spotify.com/album/17ldd7eO4vY7MFODEl5FIw) | 3:32 |
+| 43 | [星が泳ぐ](https://open.spotify.com/track/0MnPdlWm7MSSUnEamZp5lX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [星が泳ぐ](https://open.spotify.com/album/7KgNsK5MtZJJSdNOFBu738) | 3:59 |
+| 44 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 |
+| 45 | [I MA](https://open.spotify.com/track/2mJxEj7p6hzkPYiCg3LUUf) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Tokyo State Of Mind](https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ) | 3:34 |
+| 46 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 |
+| 47 | [銃の部品](https://open.spotify.com/track/0AmXho7WWR4MprccR2pILw) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [銃の部品](https://open.spotify.com/album/3lF7gg3xzznR7gL6IKm4LB) | 2:34 |
+| 48 | [永遠](https://open.spotify.com/track/7oCZ1O1L4TuLRnmt8Io4IU) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [永遠](https://open.spotify.com/album/42nEyaGtOPG8YuugZjyNFt) | 6:12 |
 | 49 | [O・La](https://open.spotify.com/track/0fG9lay0PuGHNFiAqsOVKO) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [O・La](https://open.spotify.com/album/3O8XfocJyV7jqHH32cfNaO) | 4:04 |
 | 50 | [Trippin](https://open.spotify.com/track/0LIG040usm4NfSjSuNXcB1) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [Trippin](https://open.spotify.com/album/2Gfe55VoZ7mO9J77bQmQ5p) | 3:17 |
 
-Snapshot ID: `MTY1MzIzMTYwMCwwMDAwMDMxZTAwMDAwMTgwZWM0ODQyM2YwMDAwMDE4MGU4Y2RmMzcz`
+Snapshot ID: `MTY1MzQzOTczNSwwMDAwMDMxZjAwMDAwMTgwZjhiMDI4MzAwMDAwMDE4MGU4Y2RmMzcz`

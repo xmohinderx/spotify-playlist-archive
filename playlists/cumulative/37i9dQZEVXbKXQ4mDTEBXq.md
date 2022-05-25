@@ -4,14 +4,14 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-155 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/04dEl2TLTd4YmOYBIzuy2M)
+156 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/04dEl2TLTd4YmOYBIzuy2M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 | 2021-03-27\* |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-21 | 2021-12-30 |
 | [Bluma to Lunch](https://open.spotify.com/track/3EYWY7XBj1BkCKX3R3hoZk) | [BLOOM VASE](https://open.spotify.com/artist/3jpPlA4ASvE9TlObazOIee) | [BLOOM SQUAD](https://open.spotify.com/album/6aGYVnuwrIJY0Vy09s9CV6) | 2:39 | 2021-03-30 | 2022-03-16 |
-| [BOY](https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [BOY](https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI) | 3:51 | 2021-10-17 |  |
+| [BOY](https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [BOY](https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI) | 3:51 | 2021-10-17 | 2022-05-25 |
 | [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 | 2021-06-01 | 2021-06-02 |
 | [Broken Heart of Gold](https://open.spotify.com/track/5DLqCKIi1lquKvGTIjlf6I) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/5cL6DxdZ1QRc9VlFkEZdXT) | 4:13 | 2021-05-30 | 2021-07-11 |
 | [Butter](https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP) | 2:44 | 2021-12-18 |  |
@@ -136,6 +136,7 @@
 | [怪盗](https://open.spotify.com/track/10Eyo4juZQFthKqlJgGMdp) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [怪盗](https://open.spotify.com/album/4WQ8gG1ItkCzFBnG7P20YR) | 3:16 | 2021-05-27 | 2022-04-17 |
 | [恋人ごっこ](https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 3:20 | 2021-03-27\* | 2021-08-11 |
 | [恋風邪にのせて](https://open.spotify.com/track/5PeXak0Ox3JmH2oor0qnGt) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [恋風邪にのせて](https://open.spotify.com/album/1Qkyl4it7jUIvXWOWD2k8g) | 4:15 | 2022-03-15 |  |
+| [愛とか恋とか](https://open.spotify.com/track/1VHL1PIkhDwWbFc65xHwOr) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [Assort](https://open.spotify.com/album/12cXi1i1cgTVe27Rb122kZ) | 3:52 | 2022-05-24 |  |
 | [感電](https://open.spotify.com/track/6H0PLsSYMzDOqhLgyOlzIj) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:24 | 2021-03-27\* | 2021-12-12 |
 | [春を告げる](https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる](https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv) | 3:16 | 2021-03-27\* | 2021-12-01 |
 | [桜が降る夜は](https://open.spotify.com/track/1iEsGutpDvMJG0zYqoKKmQ) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [桜が降る夜は](https://open.spotify.com/album/1SKFic1b0W6lWuXBVzupOF) | 4:34 | 2021-03-27\* | 2021-08-18 |

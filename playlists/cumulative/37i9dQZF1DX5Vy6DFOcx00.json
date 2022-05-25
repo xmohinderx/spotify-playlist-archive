@@ -1430,6 +1430,24 @@
     },
     {
       "album": {
+        "name": "(Un)Commentary",
+        "url": "https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163613,
+      "name": "Devil Doesn\u2019t Bargain",
+      "url": "https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4"
+    },
+    {
+      "album": {
         "name": "DIVE IN!",
         "url": "https://open.spotify.com/album/3QEPmn54oibH1jzd1gcYyD"
       },
@@ -2537,7 +2555,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 151000,
       "name": "Him",
       "url": "https://open.spotify.com/track/7w4lnEj8VwQ0xNpl1M3I0G"
@@ -3335,7 +3353,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4L7jMAP8UcIe309yQmkdcO"
@@ -3719,6 +3737,24 @@
       "duration_ms": 188965,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     },
     {
       "album": {
@@ -5617,6 +5653,40 @@
       "duration_ms": 211935,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
+    },
+    {
+      "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309322,
+      "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
+      "url": "https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4"
     },
     {
       "album": {

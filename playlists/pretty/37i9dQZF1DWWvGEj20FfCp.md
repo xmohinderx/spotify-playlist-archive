@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > where music and fashion meet, soundtrack for the look by Hip\-Hop's favorite stylist, Bobby Wesley
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,204 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,349 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 34 | [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:01 |
 | 35 | [Big Energy \(feat\. DJ Khaled\) \- Remix](https://open.spotify.com/track/0EJ3Kofm9hYq3hL4VZ881G) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Big Energy \(feat\. DJ Khaled\) \[Remix\]](https://open.spotify.com/album/15HgkUTScUcXAXmEu6lZsv) | 3:01 |
 | 36 | [Worst Day](https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Worst Day](https://open.spotify.com/album/6dfL9bdRB7ACOlf9EJpcfT) | 3:04 |
-| 37 | [Baddest \(feat\. Chris Brown & 2 Chainz\)](https://open.spotify.com/track/2CDVqsGGkf2v1tMETt3fq5) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Baddest \(feat\. Chris Brown & 2 Chainz\)](https://open.spotify.com/album/3ERp6sI91Flu5Onq9me2pV) | 3:22 |
+| 37 | [Baddest \(feat\. Chris Brown & 2 Chainz\)](https://open.spotify.com/track/2CDVqsGGkf2v1tMETt3fq5) | [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Baddest \(feat\. Chris Brown & 2 Chainz\)](https://open.spotify.com/album/3ERp6sI91Flu5Onq9me2pV) | 3:22 |
 | 38 | [Bubbly \(with Drake & Travis Scott\)](https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:45 |
 | 39 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:16 |
 | 40 | [Start Wit Me \(feat\. Gunna\)](https://open.spotify.com/track/7A20WnLkjtZU2d7hIB6Ziu) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 2:38 |

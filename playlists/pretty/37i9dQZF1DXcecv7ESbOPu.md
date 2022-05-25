@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,366 likes - 106 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,372 likes - 106 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 13 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 |
 | 14 | [piccolo](https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K) | 2:00 |
 | 15 | [I Can't Love](https://open.spotify.com/track/2IZa3hPjcc8fFzWNsHvzoM) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Barefoot](https://open.spotify.com/artist/3WV4dHxZVMz7HtZN3N36mr) | [I Can't Love](https://open.spotify.com/album/1dIapU9QQwxxeFGnb2rdV3) | 2:27 |
-| 16 | [Madness \(feat\. Zak Abel\)](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness \(feat\. Zak Abel\)](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
+| 16 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
 | 17 | [I Hate You](https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [I Hate You](https://open.spotify.com/album/0SEn9u4HXFyS2l42hSAXYX) | 2:42 |
 | 18 | [100sadsongs](https://open.spotify.com/track/0rvcPanRR8rQO8lSIr0S4l) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [100sadsongs](https://open.spotify.com/album/52D5Elj3MPS11Wa0r50EFM) | 2:56 |
 | 19 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 86 | [Plans](https://open.spotify.com/track/0jPho2LunkMsoHerGdK9wX) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Plans](https://open.spotify.com/album/2IyGBIdgIsgcm9dyCcfiXS) | 2:36 |
 | 87 | [Breaking & Healing](https://open.spotify.com/track/38wHgMll7lF1186BCC12qH) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Breaking & Healing](https://open.spotify.com/album/3jCuplU7EpviKjGhFJ3X7U) | 3:25 |
 | 88 | [Anybody Else](https://open.spotify.com/track/5SR9WnrC9pGFfDld6xoil5) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [CITIZENS](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) | 3:20 |
-| 89 | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Bim Amoako\-Gyampah](https://open.spotify.com/artist/5HbGyTf9SWq76VNWmirjqi) | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
+| 89 | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
 | 90 | [Said and Done](https://open.spotify.com/track/0GUp3i2QYyun1uhVlJitGD) | [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF) | [Said and Done](https://open.spotify.com/album/25rRYzjI7FcGS8A8hhaz4a) | 3:01 |
 | 91 | [for the girls](https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [for the girls](https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB) | 2:38 |
 | 92 | [Wide Open](https://open.spotify.com/track/2iz67sMAZL1YVuA39Okq1U) | [Amanda Alexander](https://open.spotify.com/artist/0up2JtB84IcFEDUa8lAhr2) | [Wide Open](https://open.spotify.com/album/26Yu1CoHzVfmzzWiA6QrGe) | 2:46 |

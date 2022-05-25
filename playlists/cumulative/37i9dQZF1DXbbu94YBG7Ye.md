@@ -4,7 +4,7 @@
 
 > Si la rompe está acá\. Foto: TINI.
 
-110 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/1nImrgfieBX5MJPoAx7Qaw)
+111 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/1nImrgfieBX5MJPoAx7Qaw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2021-12-31 | 2022-02-18 |
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2021-12-31 | 2022-05-13 |
 | [De Enero a Diciembre](https://open.spotify.com/track/1p22yVi9e8DT6BEUvOZ0TL) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Enero a Diciembre](https://open.spotify.com/album/6y5L7zU8rOw5f3Lywj1CPl) | 2:44 | 2021-12-31 |  |
-| [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-03-17 |  |
+| [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-03-17 | 2022-05-25 |
 | [Desesperados](https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Desesperados](https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H) | 3:44 | 2022-01-20 |  |
 | [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 | 2021-12-31 |  |
 | [Entre Nosotros](https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Entre Nosotros](https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR) | 3:12 | 2021-12-31 | 2022-01-06 |
@@ -50,6 +50,7 @@
 | [Los Tragos](https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Los Tragos](https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0) | 2:51 | 2022-02-24 | 2022-04-29 |
 | [Mal Acostumbrao](https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal Acostumbrao](https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q) | 3:10 | 2021-12-31 | 2022-04-07 |
 | [Mala Mía](https://open.spotify.com/track/7FfQ2E4LqvwKKOyKXyC2L2) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 3:10 | 2021-12-31 | 2022-02-15 |
+| [Maléfica](https://open.spotify.com/track/3i5cUvzBImLJTLh0koudVl) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Maléfica](https://open.spotify.com/album/5h10dZPmIJpkbFiwrNt8AO) | 3:03 | 2022-05-24 |  |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-02-17 |  |
 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 | 2022-02-17 |  |
 | [Matatan](https://open.spotify.com/track/7m2iTdEKAtiGULWnTIRhX2) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Matatan](https://open.spotify.com/album/07WmJLW2GnlLIlkRZtGVbY) | 2:39 | 2021-12-31 | 2022-01-08 |

@@ -4,7 +4,7 @@
 
 > Los más pesados y polémicos del Regional Mexicano\. Los Tigres del Norte en portada.
 
-50 songs - 2 hr 35 min - not published yet
+50 songs - 2 hr 35 min - [published](https://open.spotify.com/playlist/1CrwH8POYCHyYSONehJDrB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

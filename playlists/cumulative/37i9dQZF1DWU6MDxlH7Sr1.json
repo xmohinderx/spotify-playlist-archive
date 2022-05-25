@@ -356,6 +356,24 @@
     },
     {
       "album": {
+        "name": "I Wish I Knew How",
+        "url": "https://open.spotify.com/album/1hTWsiAwmLzazoypEV1B67"
+      },
+      "artists": [
+        {
+          "name": "Old Town Trio",
+          "url": "https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230223,
+      "name": "Day by Day",
+      "url": "https://open.spotify.com/track/3XEbmnM9sO4aAmwzlZoBca"
+    },
+    {
+      "album": {
         "name": "Dear Old Stockholm",
         "url": "https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L"
       },
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 313199,
       "name": "Ribeira da Barca",
       "url": "https://open.spotify.com/track/3dyVfsrux5dQgrDxur7KFn"

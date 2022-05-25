@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Chinmayi Tripathi, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,394 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,471 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

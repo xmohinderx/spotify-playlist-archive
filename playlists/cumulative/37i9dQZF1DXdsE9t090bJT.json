@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-23",
   "description": "Amor a la mexicana, canciones para dedicarle al amor de tu vida.",
   "name": "S\u00f3lo Para Amarte",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3YeBxoONeIcuXelnrG78UZ"
+  ],
   "tracks": [
     {
       "album": {
@@ -173,7 +175,7 @@
     {
       "album": {
         "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+        "url": "https://open.spotify.com/album/5KBtFFqqc00n2VXesM5Qiy"
       },
       "artists": [
         {
@@ -184,6 +186,24 @@
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/3y8tEWNrKD8EshrB3SEk4r"
+    },
+    {
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-25",
       "duration_ms": 278073,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
@@ -291,7 +311,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 210440,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/3imJHohXBxDGovFRQ75dUt"
@@ -309,7 +329,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 210440,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN"
@@ -623,10 +643,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 163186,
       "name": "Ella Es Mi Mujer",
       "url": "https://open.spotify.com/track/3qUU5im2iV5eWOtkWz6ykQ"
+    },
+    {
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163253,
+      "name": "Ella Es Mi Mujer",
+      "url": "https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K"
     },
     {
       "album": {
@@ -1565,7 +1603,7 @@
     {
       "album": {
         "name": "Sin Sentimientos",
-        "url": "https://open.spotify.com/album/3Ap9df5ktY7WttZSz0bTyP"
+        "url": "https://open.spotify.com/album/3lG97wu5XvXTzclZNqkAGU"
       },
       "artists": [
         {
@@ -1576,6 +1614,24 @@
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 178431,
+      "name": "Quiero Darte",
+      "url": "https://open.spotify.com/track/2A9og47Yp9p3cpfJ8qgcoF"
+    },
+    {
+      "album": {
+        "name": "Sin Sentimientos",
+        "url": "https://open.spotify.com/album/3Ap9df5ktY7WttZSz0bTyP"
+      },
+      "artists": [
+        {
+          "name": "Design\u00f3",
+          "url": "https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-25",
       "duration_ms": 178431,
       "name": "Quiero Darte",
       "url": "https://open.spotify.com/track/6EKOb6cc9RXNAMDsF0IMcF"

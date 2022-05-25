@@ -4,7 +4,7 @@
 
 > Slow jazz for evening listening pleasure.
 
-121 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
+123 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Alone Together](https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 7:34 | 2022-02-03 |  |
 | [Am I Blue](https://open.spotify.com/track/2H9sFbaD7lixr8KrsXdiLh) | [Jiggs Whigham](https://open.spotify.com/artist/3Bzlk4ZlefSEhybdIYWEyr) | [Values](https://open.spotify.com/album/0KY9p5iJxvyXP1ruqNuc7M) | 4:47 | 2021-12-14 |  |
 | [And All Is Well Now](https://open.spotify.com/track/116Z8pydjYsREn2LWk7El7) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [And All Is Well Now](https://open.spotify.com/album/15D4tQlzbR4iCFPSF2DqTM) | 3:09 | 2021-12-14 | 2022-05-04 |
+| [Autumn Serenade](https://open.spotify.com/track/76bxYaBhzR5YOIrgmNUUJ5) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Autumn Serenade](https://open.spotify.com/album/4u4FvHG40exv5slmz0Bg7l) | 3:56 | 2022-05-24 |  |
 | [Bandängen](https://open.spotify.com/track/7HX0DryEZ4qOYEzVCF942E) | [Jazz Tonality](https://open.spotify.com/artist/7bUmkNAZbilFTnmG2lmU5t) | [Bandängen](https://open.spotify.com/album/7akZUKwJixzT2ey60dcaPR) | 2:30 | 2021-12-14 |  |
 | [Believe, Beleft, Below](https://open.spotify.com/track/1HKZo7knu3IuCJo9JVGz1i) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 4:51 | 2021-12-14 | 2022-05-11 |
 | [Bella's Smile](https://open.spotify.com/track/2YDm0hVUj1JGWqyRK6ERpP) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Baldwin's Tune](https://open.spotify.com/album/7BkeW5r0rPvAuIgnCLQD7F) | 3:11 | 2022-05-03 |  |
@@ -76,13 +77,14 @@
 | [Lonely Woman \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 7:02 | 2021-12-14 |  |
 | [Lost in Orbit](https://open.spotify.com/track/7ijPIncR5k622S2j28ktCr) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Lost in Orbit](https://open.spotify.com/album/7L3O8woHpsgk4Us0PU7YdL) | 2:33 | 2021-12-14 |  |
 | [Love Is a Many\-Splendored Thing](https://open.spotify.com/track/23G8P94lKwgXNAKH2z5VP8) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 2:43 | 2021-12-14 |  |
+| [Lover For The Day](https://open.spotify.com/track/1IpTomdIM4HvZI2CnaPszo) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 3:31 | 2022-05-24 |  |
 | [Moment To Moment](https://open.spotify.com/track/5iUZ1247JyTUfjSoA4nVQl) | [Theo Rollins](https://open.spotify.com/artist/60QiTTvsk3chyatkaryUFL) | [Moment To Moment](https://open.spotify.com/album/3KeFD62A0IEmCOfn2CaC0K) | 2:57 | 2021-12-14 |  |
 | [Mood](https://open.spotify.com/track/1LS7O7v95kU5BbZny7ooni) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P.](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 8:50 | 2021-12-14 | 2022-05-18 |
 | [Moonbow](https://open.spotify.com/track/1l54HHTbA5ze9DnvBL93aw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Moonbow](https://open.spotify.com/album/3vAnUbVPNlM5HZzoYUFh4t) | 3:52 | 2022-04-26 |  |
-| [My Funny Valentine](https://open.spotify.com/track/4hCbA5XOPwCzNvUWKztpD9) | [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [Proof Positive](https://open.spotify.com/album/7dTSo2PZoS6W7aKny9I1hW) | 3:02 | 2021-12-14 |  |
+| [My Funny Valentine](https://open.spotify.com/track/4hCbA5XOPwCzNvUWKztpD9) | [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [Proof Positive](https://open.spotify.com/album/7dTSo2PZoS6W7aKny9I1hW) | 3:02 | 2021-12-14 | 2022-05-25 |
 | [My Heart](https://open.spotify.com/track/3morX7bvyxeoiwt6G2HYnb) | [Paul Bley](https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM) | [Paul Bley](https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP) | 2:37 | 2022-02-03 |  |
 | [My Ideal](https://open.spotify.com/track/7GnMpHjVWHC5W87OifzPX6) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [My Ideal](https://open.spotify.com/album/1NnYrcvic7aXLEDtvQmVCF) | 3:50 | 2021-12-14 |  |
-| [My Old Flame](https://open.spotify.com/track/3xuslygka7eRD9KYn3MMhc) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:23 | 2022-02-03 |  |
+| [My Old Flame](https://open.spotify.com/track/3xuslygka7eRD9KYn3MMhc) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:23 | 2022-02-03 | 2022-05-25 |
 | [Never Let Me Go](https://open.spotify.com/track/0t5LDxM86wbi5W7gwkGtPv) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Trios Live](https://open.spotify.com/album/4E4vQi6Vc8FTynRbeNcTGf) | 6:38 | 2021-12-14 |  |
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2021-12-14 |  |
 | [Peace](https://open.spotify.com/track/2XbzKkjwyO7nVUThZSudGv) | [Winter Jazz Trio](https://open.spotify.com/artist/5qr5p04yN4FHmjJMuAq6Ne) | [Peace](https://open.spotify.com/album/1SR2WnYKiyvC2jTUcRhyIh) | 3:25 | 2021-12-14 |  |

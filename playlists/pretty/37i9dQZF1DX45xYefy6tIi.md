@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > The sounds that started a basketball revolution\. Watch on ESPN.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,013 likes - 169 songs - 11 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,621 likes - 169 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

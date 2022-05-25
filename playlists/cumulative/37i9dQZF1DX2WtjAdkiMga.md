@@ -4,16 +4,17 @@
 
 > Soft piano versions of jazz classics to lull your baby to sleep.
 
-72 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
+74 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Flower Is A Lonesome Thing](https://open.spotify.com/track/6VvWYVzG8F16Q1lGrBE22Q) | [Jonny Lockley](https://open.spotify.com/artist/09VHG7HRDUHBwGjvRRB3Xj) | [A Flower Is a Lonesome Thing](https://open.spotify.com/album/5yyEbOdcKmTWyYraAagFSk) | 4:03 | 2022-04-12 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 | 2022-04-12 |  |
 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 | 2022-04-12 |  |
-| [Alice In Wonderland](https://open.spotify.com/track/3KvvR3y5CZTt7Zef7y2Yc5) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Alice In Wonderland](https://open.spotify.com/album/7x5H2e51cujnBxayPva0C3) | 3:00 | 2022-05-10 |  |
+| [Alice In Wonderland](https://open.spotify.com/track/3KvvR3y5CZTt7Zef7y2Yc5) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Alice In Wonderland](https://open.spotify.com/album/7x5H2e51cujnBxayPva0C3) | 3:00 | 2022-05-10 | 2022-05-25 |
 | [Autumn Leaves](https://open.spotify.com/track/4Rvzz7UMj2niJe83HgZx3Y) | [Jazz for Babies](https://open.spotify.com/artist/6HTqDlK6LS0Ju7P58XXW2T) | [The Piano Album](https://open.spotify.com/album/0eBs49NdPsqdca0VztAB4K) | 2:13 | 2022-04-12 | 2022-04-27 |
 | [Autumn Leaves](https://open.spotify.com/track/5sqvQARdZgWBHQbUmo1RCQ) | [Leo Doyle](https://open.spotify.com/artist/0iHePaUxXFl3dyJaCfbwbg) | [Moon River](https://open.spotify.com/album/42sPSx5wz9umkfdMf4XVCJ) | 2:07 | 2022-04-26 |  |
+| [Blue Moon](https://open.spotify.com/track/5rmh8KIWhqte8XIfaowQEf) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Jazz Standard Lullabies](https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb) | 2:20 | 2022-05-24 |  |
 | [Brahms Lullaby \- Reprise](https://open.spotify.com/track/2WzSx8Ns1IoGiGy9WHDACI) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Lullabies](https://open.spotify.com/album/3hq11SFFr5N1GiPUkx4xWZ) | 1:03 | 2022-04-12 |  |
 | [But Beautiful](https://open.spotify.com/track/2HrJMEYnGTwBSKVOV2v7Ks) | [Margaret Shu](https://open.spotify.com/artist/2rXYYqYz9gNCletxt5R1M5) | [You Know I Care](https://open.spotify.com/album/6stS7pmTQEtTSN6Gfiroul) | 3:51 | 2022-04-12 |  |
 | [Come Rain or Come Shine](https://open.spotify.com/track/0oVK8j9mHARdEf5IKX3r2s) | [John Paul Connor](https://open.spotify.com/artist/5tEfXL28fgpdT21o1yE7Zf) | [Embraceable You](https://open.spotify.com/album/1uyvwNjx3tPhpkvsinMZll) | 2:56 | 2022-04-12 |  |
@@ -55,6 +56,7 @@
 | [Polka Dots and Moonbeams](https://open.spotify.com/track/1wmi5br5223auUruMIWE1t) | [Lisbeth Rayner](https://open.spotify.com/artist/7KXBo2SSWy680ZGle8Zc6d) | [On A Clear Day](https://open.spotify.com/album/6Cya7dOUQMiirrjpbzDZsC) | 3:12 | 2022-04-12 |  |
 | [Remembering Yesterday](https://open.spotify.com/track/2Zwb29cNNm14tWsiF3miBs) | [Roger Strauss](https://open.spotify.com/artist/2zvMk2zsPGcS2y7gKjmRn9) | [Remembering Yesterday](https://open.spotify.com/album/2VakgfW7V5sTcM4L4nOnxL) | 3:21 | 2022-04-12 |  |
 | [Sangfroid](https://open.spotify.com/track/68fAT62Ccoh6KdjV3gnM8z) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:57 | 2022-04-12 |  |
+| [Skylark](https://open.spotify.com/track/3gDXxFjx7S85a3jCOIVYHx) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Jazz Standard Lullabies](https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb) | 2:27 | 2022-05-24 |  |
 | [Sleep](https://open.spotify.com/track/1ioBY89B2OmRRO9sPrClGw) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Lullabies](https://open.spotify.com/album/3hq11SFFr5N1GiPUkx4xWZ) | 2:22 | 2022-04-12 |  |
 | [Smile](https://open.spotify.com/track/5UbnuRgMvmJXNfVQwtnMeJ) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Smile](https://open.spotify.com/album/264uDpoSYiQWeHXvwQcAa0) | 3:50 | 2022-04-12 |  |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/6LJWQLh4DaQqiYrimdO5Ep) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/4ZY1K4JlzmoxdCJF6M18O5) | 4:40 | 2022-04-12 |  |

@@ -4,7 +4,7 @@
 
 > music to help you \~ focus \~
 
-89 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/74P6RSDkuYCzrKQmY10acy)
+91 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/74P6RSDkuYCzrKQmY10acy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Feels \(feat\. Khalid\)](https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG) | [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Feels \(feat\. Khalid\)](https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz) | 3:41 | 2022-04-19 | 2022-05-12 |
 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 | 2022-04-19 |  |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-04-19 |  |
-| [First Call](https://open.spotify.com/track/0ktbpf7PQCWAV2Jer0I0GS) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [First Call](https://open.spotify.com/album/4pa6L45UyAUncVobuARUlX) | 2:21 | 2022-04-19 |  |
+| [First Call](https://open.spotify.com/track/0ktbpf7PQCWAV2Jer0I0GS) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [First Call](https://open.spotify.com/album/4pa6L45UyAUncVobuARUlX) | 2:21 | 2022-04-19 | 2022-05-25 |
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-19 |  |
 | [Focus](https://open.spotify.com/track/5uVd4eszYpYzj6pdb4dg1G) | [Reuben Fleetwood](https://open.spotify.com/artist/3V3OkC3z09nyxXgt87IPtH) | [Focus](https://open.spotify.com/album/3agRHzkPLd1mj8HJCdisCC) | 3:20 | 2022-04-19 |  |
 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2022-04-19 |  |
@@ -57,14 +57,16 @@
 | [I Would've](https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Would've](https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U) | 2:30 | 2022-05-19 |  |
 | [if i were a friend](https://open.spotify.com/track/11gjN7Mh7DA6GzVJmhUvcn) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [if i were a friend](https://open.spotify.com/album/6n5YzvSeJh7THkuLUAAnRE) | 2:32 | 2022-04-19 |  |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-04-28 |  |
-| [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2022-04-19 |  |
+| [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2022-04-19 | 2022-05-25 |
 | [Kind Of Girl](https://open.spotify.com/track/04cy0BQeW4ZDLspMIfpMLv) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Kind Of Girl](https://open.spotify.com/album/7M7Qc4c1qDMdrDWXtQ4NF7) | 4:06 | 2022-04-28 |  |
 | [LET THE GRASS GROW](https://open.spotify.com/track/2BN5ZMErVAhbEroB99b3no) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [LET THE GRASS GROW](https://open.spotify.com/album/160bnYxuf2qbEscs8B4QOu) | 2:55 | 2022-04-19 |  |
 | [LOVE AGAIN](https://open.spotify.com/track/7lE9rczJypEToogdpOkJ2P) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [NOCTURNAL HOURS](https://open.spotify.com/album/6ASdDSPXkJSi5EFtaGkiOh) | 3:14 | 2022-04-19 |  |
 | [Love Me Right](https://open.spotify.com/track/0knpN0bAYu21Zh1YV4bYJU) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Begin To Look Around](https://open.spotify.com/album/2pte1bb27ncC6ljxyvvMzP) | 4:19 | 2022-04-19 |  |
+| [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-24 |  |
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-05-11 |  |
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-04-19 |  |
-| [Moon](https://open.spotify.com/track/1XpAZlfENlrHalIvuhAp9R) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Moon](https://open.spotify.com/album/1igApJ0OiVBemqXhWKUE9w) | 3:40 | 2022-04-19 |  |
+| [Moon](https://open.spotify.com/track/1XpAZlfENlrHalIvuhAp9R) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Moon](https://open.spotify.com/album/1igApJ0OiVBemqXhWKUE9w) | 3:40 | 2022-04-19 | 2022-05-25 |
+| [Naïve Love](https://open.spotify.com/track/1FWluZedEH4D8F6TUZlGEB) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [4 Songs I Made In California](https://open.spotify.com/album/6Gowdvuc1TuxA2mD08UIwL) | 3:01 | 2022-05-24 |  |
 | [New Normal](https://open.spotify.com/track/62sWTVzpcujJtb4E5B3K07) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [New Normal](https://open.spotify.com/album/2Gpdm0FDnFWxvI9oB6emOB) | 3:07 | 2022-04-28 |  |
 | [Nice to Meet You](https://open.spotify.com/track/0nxh4ijcMIwtkUth4aClzL) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Nice to Meet You](https://open.spotify.com/album/4hCeoPdicCGskR7BYasJxi) | 4:10 | 2022-04-19 |  |
 | [Notice Me \(feat\. Ruel\)](https://open.spotify.com/track/5thDxhqcKA5q8Opd6INQp8) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Notice Me \(feat\. Ruel\)](https://open.spotify.com/album/0ED0HGQmkmWR3o1Uw5Zp5w) | 2:38 | 2022-04-19 |  |
@@ -72,13 +74,13 @@
 | [Panic at the Party](https://open.spotify.com/track/5lYYjW5NzOnDcBjnyIv8lv) | [Ash Lune](https://open.spotify.com/artist/4qGkfdK3YS6jr5oIQ0AkQI) | [Panic at the Party](https://open.spotify.com/album/5m0tdJDi8HckSpiNIWqPm7) | 3:27 | 2022-04-19 | 2022-04-29 |
 | [Place In Me](https://open.spotify.com/track/5uRv6CmkhdNoirnHEhqLPU) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Place In Me](https://open.spotify.com/album/4nscHAsqchZ2XqV4YWbFBG) | 3:07 | 2022-04-19 |  |
 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 | 2022-04-19 |  |
-| [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 | 2022-04-19 |  |
+| [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 | 2022-04-19 | 2022-05-25 |
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2022-04-19 |  |
 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 | 2022-04-19 |  |
 | [see you later \(ten years\)](https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x) | 3:08 | 2022-04-19 |  |
 | [self sabotage](https://open.spotify.com/track/7A2TOQVHBgIiqmhtP0yC0L) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [self sabotage](https://open.spotify.com/album/4xKRxemLXX5dxv5dRlZu85) | 3:40 | 2022-04-28 |  |
 | [Sentimental](https://open.spotify.com/track/61VZLH1gv19xeKByFm8c0o) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Sentimental](https://open.spotify.com/album/3hIHz8gFHs3P1TTOE6WhAV) | 3:11 | 2022-04-19 |  |
-| [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 | 2022-04-19 |  |
+| [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 | 2022-04-19 | 2022-05-25 |
 | [Simple](https://open.spotify.com/track/7hVK6T6lsXFeTIxTlHGhGU) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Simple](https://open.spotify.com/album/2WZI1CAeOI9Q3uBXOtiaJh) | 3:02 | 2022-04-19 |  |
 | [Sooner](https://open.spotify.com/track/45z1TVyovToPnkuEKSgTPx) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Sooner](https://open.spotify.com/album/5786eFf3UrHXrA1KEnuYDM) | 2:38 | 2022-04-19 |  |
 | [String Lights](https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [String Lights](https://open.spotify.com/album/507ZVYcgV9C5pwXQlfZJo7) | 3:50 | 2022-04-19 |  |

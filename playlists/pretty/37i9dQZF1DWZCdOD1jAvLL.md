@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Nostalgix
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,363 likes - 90 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,529 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,008 likes - 85 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,149 likes - 85 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 4 | [Emlilweni](https://open.spotify.com/track/6nq4iL5FqVg5b1xXqTTsSg) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [Emlilweni](https://open.spotify.com/album/0dWHPV6VdVYUZiY9ma0XKQ) | 6:33 |
 | 5 | [Horizons](https://open.spotify.com/track/2n3Tqq4qL2HlcXWwXQhQ4e) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Horizons](https://open.spotify.com/album/1dVxWDxXOaiGH4x6xjad6O) | 5:23 |
 | 6 | [Sus Jawn \- Bunker Sesh](https://open.spotify.com/track/17v2YhIU3p6FwChewyPKun) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Bunker Sesh](https://open.spotify.com/album/414wzbZlf4V7Qst0ShXNiS) | 6:35 |
-| 7 | [Other Jewels](https://open.spotify.com/track/7IwDt0MKLtSatSUCyzvPy6) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogenen](https://open.spotify.com/artist/0vYkIFXZpWVW7Lh1GTgXWA), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [Other Jewels](https://open.spotify.com/album/0KcDJAC3z1lDxTlbUtqydr) | 5:47 |
+| 7 | [Other Jewels](https://open.spotify.com/track/7IwDt0MKLtSatSUCyzvPy6) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [Other Jewels](https://open.spotify.com/album/0KcDJAC3z1lDxTlbUtqydr) | 5:47 |
 | 8 | [I LOVE BLACK WOMEN](https://open.spotify.com/track/0kUdHd3S9GZsmFxNrBqp2w) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO) | [I LOVE BLACK WOMEN](https://open.spotify.com/album/7uNtIh08dd6YBlPQGPOlSf) | 2:35 |
 | 9 | [Motivations II](https://open.spotify.com/track/7AIGWiA0tjBqn1JrLmwbDg) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [Motivations II](https://open.spotify.com/album/1Oycfhem5KpRtgZg4Rr3iz) | 5:26 |
 | 10 | [Below](https://open.spotify.com/track/4uS12ibCJvo83kxACQgC3e) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [Shifting Sands](https://open.spotify.com/album/4P3X3u2Rmp685DIao3s5Qt) | 4:30 |

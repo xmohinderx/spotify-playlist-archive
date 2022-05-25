@@ -4412,6 +4412,24 @@
     },
     {
       "album": {
+        "name": "Pehli Mulaqat",
+        "url": "https://open.spotify.com/album/52l5tIJYvJUCiTOn1OSjOu"
+      },
+      "artists": [
+        {
+          "name": "Gurnam Bhullar",
+          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Pehli Mulaqat",
+      "url": "https://open.spotify.com/track/6KulvwatdDaRJ0CCGiKeXP"
+    },
+    {
+      "album": {
         "name": "Pehli Mulaqat (From \"Main Te Bapu\")",
         "url": "https://open.spotify.com/album/3kXYgc782J3ItogKA3db6n"
       },
@@ -6179,6 +6197,24 @@
       "duration_ms": 325626,
       "name": "Tere Ishq",
       "url": "https://open.spotify.com/track/4GcQFPAETFTHERnYDu20tY"
+    },
+    {
+      "album": {
+        "name": "Tere Piche Piche",
+        "url": "https://open.spotify.com/album/6HcvxprkiYjBaRma5lkp0X"
+      },
+      "artists": [
+        {
+          "name": "Baani Sandhu",
+          "url": "https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172758,
+      "name": "Tere Piche Piche",
+      "url": "https://open.spotify.com/track/3krr3rOsQe2ZowvTlByHpv"
     },
     {
       "album": {

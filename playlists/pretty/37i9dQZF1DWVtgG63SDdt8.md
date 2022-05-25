@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Kirk Franklin & Maverick City Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,766 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,888 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 46 | [I Don't Belong](https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [I Don't Belong](https://open.spotify.com/album/2HNsusLhbziwmwMfBMI6tC) | 4:51 |
 | 47 | [Brighten The Corner Where You Are \- Radio Edit](https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji) | [The Browns](https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb) | [Brighten The Corner Where You Are \(Radio Edit\)](https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y) | 2:29 |
 | 48 | [OLDER](https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [OLDER](https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7) | 3:22 |
-| 49 | [Don't Lose Heartt \(feat\. Lynnea\)](https://open.spotify.com/track/2rwqUtoUUjPZ01I4PpLj8x) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Lynnea](https://open.spotify.com/artist/7f06QWoFAvtpEuho7NEDLN) | [Don't Lose Heart \(feat\. Lynnea\)](https://open.spotify.com/album/4xb4l7DEHH9Us0L87I4ZYr) | 3:04 |
+| 49 | [Don't Lose Heart \(feat\. Lynnea\)](https://open.spotify.com/track/2rwqUtoUUjPZ01I4PpLj8x) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Lynnea](https://open.spotify.com/artist/7f06QWoFAvtpEuho7NEDLN) | [Don't Lose Heart \(feat\. Lynnea\)](https://open.spotify.com/album/4xb4l7DEHH9Us0L87I4ZYr) | 3:04 |
 | 50 | [interrobang \- b\-side](https://open.spotify.com/track/3Cm4p2gwDTsZM9yqBhJ8z4) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [interrobang](https://open.spotify.com/album/2eCj0PMfseKwgIWhckMwSY) | 3:48 |
 | 51 | [Looking for the Light](https://open.spotify.com/track/3ovKabkJUcTKoiN5TnP7hw) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Looking for the Light](https://open.spotify.com/album/3HcPthZ6FdpcakaiPbWt1n) | 4:41 |
 | 52 | [Like an Ocean](https://open.spotify.com/track/00dHvozlMxyyXcGoQvMBgB) | [Nathan Hornsby](https://open.spotify.com/artist/15S3MpPnvWhxLvBj8V1pdY) | [Like an Ocean](https://open.spotify.com/album/41ZSyVvCGIRsI6SBVpyXFh) | 3:53 |

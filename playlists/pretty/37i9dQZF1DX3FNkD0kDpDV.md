@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Explore the sounds of the 26th annual EDC Las Vegas \(Electric Daisy Carnival\) with these essential picks from this year's lineup.
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,249 likes - 55 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,402 likes - 55 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

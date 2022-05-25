@@ -4,11 +4,11 @@
 
 > Soundtrack your dinner with bossa sounds.
 
-107 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
+108 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['S Wonderful](https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:28 | 2022-04-26 |  |
+| ['S Wonderful](https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:28 | 2022-04-26 | 2022-05-25 |
 | [A Little Brighter Every Day](https://open.spotify.com/track/7xPLrNKJ5fHIV4gm2MtMZK) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [A Little Brighter Every Day](https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp) | 3:17 | 2022-04-26 |  |
 | [A Paz](https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA) | [Luiz Lucas](https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p) | [Anos Dourados](https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx) | 5:33 | 2022-04-26 |  |
 | [All or Nothing at All](https://open.spotify.com/track/353WstqZVn43MLDSfYPObs) | [Sidewalk Room Band](https://open.spotify.com/artist/6TAvSYqKnTOxOfFTCuvPYx) | [All or Nothing at All](https://open.spotify.com/album/6BOoQ90r7KawyLkLPn98Bv) | 5:03 | 2022-04-26 |  |
@@ -50,9 +50,9 @@
 | [Essa é Pro João](https://open.spotify.com/track/26S40PKjEz1FZZJabKRVch) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 3:01 | 2022-04-26 |  |
 | [Estate](https://open.spotify.com/track/4gzyWqG3sEWGOpe8DhIdS1) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Estate](https://open.spotify.com/album/2aAHY1D8FLEOu0nPSMxmRQ) | 4:32 | 2022-04-26 |  |
 | [Estate](https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 7:22 | 2022-04-26 |  |
-| [Este Seu Olhar](https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Pure Bossa Nova](https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt) | 2:32 | 2022-04-26 |  |
+| [Este Seu Olhar](https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Pure Bossa Nova](https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt) | 2:32 | 2022-04-26 | 2022-05-25 |
 | [Falando de Amor](https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe) | [Rosa Collins](https://open.spotify.com/artist/3ODYl7kPOjcfxnnjHz2zLe) | [Falando de Amor](https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y) | 4:16 | 2022-04-26 |  |
-| [Fly Me To The Moon](https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Shadow Of Your Smile](https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9) | 2:22 | 2022-04-26 |  |
+| [Fly Me To The Moon](https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Shadow Of Your Smile](https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9) | 2:22 | 2022-04-26 | 2022-05-25 |
 | [Fotografia](https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Meets Gustav Lundgren](https://open.spotify.com/album/1YxUJdI0JWsXGGq8xa1SLt) | 3:50 | 2022-04-26 |  |
 | [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 | 2022-04-26 |  |
 | [Goin' Out of My Head](https://open.spotify.com/track/4LMFr5xaHXr101AV96zZSM) | [Sunset Organ Jazz Trio](https://open.spotify.com/artist/2EgH6CxzDPwaNwe1YpBqcO) | [Goin' Out of My Head](https://open.spotify.com/album/4ESfBFkOULu2MBtgcxNlZx) | 3:16 | 2022-04-26 |  |
@@ -63,11 +63,11 @@
 | [how insensitive](https://open.spotify.com/track/3NfjsizJtx8XWnmsZxOohA) | [Clube no norte](https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH) | [Dindi](https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0) | 3:50 | 2022-04-26 |  |
 | [How Insensitive](https://open.spotify.com/track/4U8uDeTOVWCNtMLNjrQo6N) | [Ivo Rio Band](https://open.spotify.com/artist/5ZIDWGBTOxrUE0Dd9qiUiv) | [Triste](https://open.spotify.com/album/7vfuRG7S9K0VJczr3L7CNO) | 4:15 | 2022-04-26 |  |
 | [I didn't know what time it was](https://open.spotify.com/track/2zAErc7IF0XI38zPfaXipU) | [Clube no norte](https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH) | [Dindi](https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0) | 4:10 | 2022-04-26 |  |
-| [I Should Have Known Better](https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:26 | 2022-04-26 |  |
+| [I Should Have Known Better](https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:26 | 2022-04-26 | 2022-05-25 |
 | [I'm Glad There Is You](https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 5:01 | 2022-04-26 |  |
 | [Insônia](https://open.spotify.com/track/4Q92ioXrNYiaLaRDJEc1mq) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 2:44 | 2022-04-26 |  |
 | [Inútil paisagem](https://open.spotify.com/track/4VhDH7KDHeYqyGcRTity4J) | [Juliano Vidal Band](https://open.spotify.com/artist/5ZOhtZZUJLIUeiZOEJwVa2) | [O Morro Nao Tem Vez](https://open.spotify.com/album/1wgx5igIEBKoVA9jKGegKD) | 4:23 | 2022-04-26 |  |
-| [Just Like Heaven](https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 4:12 | 2022-04-26 |  |
+| [Just Like Heaven](https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 4:12 | 2022-04-26 | 2022-05-25 |
 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 | 2022-04-26 |  |
 | [Light Dance](https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Light Dance](https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ) | 3:39 | 2022-04-26 |  |
 | [Little Sunflower](https://open.spotify.com/track/6EBzxEkM0l4UkRBhqj3JWn) | [Mitchell Jackson Quartet](https://open.spotify.com/artist/6zV8mNPXyQHoNMxGxlcQXF) | [Soul Eyes](https://open.spotify.com/album/6Y1sADHp2yDRkT6iCPKYTG) | 4:23 | 2022-04-26 |  |
@@ -92,6 +92,7 @@
 | [Pôr Do Sol Perfeito](https://open.spotify.com/track/3dwbmNoBG2cGFeOtVtPJ8H) | [Jeferson Rios](https://open.spotify.com/artist/4PswPp5S57DQ5RJ39Y5Fj6) | [O Sabor Mais Doce](https://open.spotify.com/album/1sdxkpmLhPsz8JI1dunCFo) | 3:27 | 2022-04-26 |  |
 | [Quiet Nights of Quiet Stars](https://open.spotify.com/track/6dSDOHrVdfyPfGlkZVUyD3) | [Arlo Langford Trio](https://open.spotify.com/artist/02DjFSGzdyir0ZksfCGuWp) | [Quiet Nights of Quiet Stars](https://open.spotify.com/album/3OicFT1OODV7al017E5kRL) | 4:48 | 2022-04-26 |  |
 | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 2:49 | 2022-04-26 |  |
+| [Quizás, Quizás, Quizás](https://open.spotify.com/track/3vV7kdVX0gbNHwxgnQjTfF) | [Jade Vieira](https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK) | [Quizás, Quizás, Quizás](https://open.spotify.com/album/2XQb3gFbkP7pRVZzMPbhCg) | 3:21 | 2022-05-24 |  |
 | [Rio](https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Rio](https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B) | 3:19 | 2022-04-26 |  |
 | [Sentido](https://open.spotify.com/track/11UuEgcia8bJ4lS1uaFdAE) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Sentido](https://open.spotify.com/album/0jmt8MYM4dZvhJ5sxsCAQa) | 2:28 | 2022-04-26 |  |
 | [Serenidad](https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Serenidad](https://open.spotify.com/album/7aVycit4E2ZeTlVXU9J2xz) | 2:51 | 2022-04-26 |  |

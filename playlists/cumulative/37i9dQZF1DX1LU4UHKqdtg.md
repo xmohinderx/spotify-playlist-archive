@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: ATEEZ
 
-205 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+209 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Again](https://open.spotify.com/track/3obitKwgSPRoPGqmWcHD13) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Best Album ‘Needle & Bubble’](https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu) | 3:26 | 2022-03-15 | 2022-05-11 |
 | [AGAIN](https://open.spotify.com/track/5pQp6mMy1jTEqDKPVYiMh4) | [Sanha](https://open.spotify.com/artist/1L7aDqsr2ACWR6h75SsL3c) | [AGAIN](https://open.spotify.com/album/0AMbMfWZQzMH7efwLWDtg2) | 3:50 | 2022-04-12 | 2022-05-20 |
 | [AGAIN \(feat\. LEON\)](https://open.spotify.com/track/0RZPROOanNDDjfGktwqEgL) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58), [LEON](https://open.spotify.com/artist/7ijJey8ARbQjtLur6JpyK2) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:16 | 2022-01-25 | 2022-03-22 |
+| [ALIVE](https://open.spotify.com/track/2G7qOmZGufZXTrDziq5QIs) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Into The Light](https://open.spotify.com/album/6EgsISsasLUQcy0e8CbAXQ) | 3:06 | 2022-05-24 |  |
 | [All For You](https://open.spotify.com/track/42Ay3l6BZVrViTWKjkrDHm) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [Pinky Swear](https://open.spotify.com/album/7ke9Y6LfDUL4T2dZDtrtyX) | 3:29 | 2022-03-29 |  |
 | [Always](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Always](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) | 3:06 | 2022-02-22 | 2022-05-18 |
 | [angel \(Prod\. GRAY\) \(Japanese ver.\)](https://open.spotify.com/track/63qTCzek2KaXkg7x1Y3ax9) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [OnlyOneOf JAPAN BEST ALBUM](https://open.spotify.com/album/3XZCzoFsBYFSGxW4Wil9GA) | 3:32 | 2022-01-18 | 2022-02-09 |
@@ -51,10 +52,11 @@
 | [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 | 2022-04-12 |  |
 | [DALLA DALLA \- Japanese ver.](https://open.spotify.com/track/0OvHs9ccBYfv0447jwWTxr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ITZY \(Japanese ver.\)](https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE) | 3:19 | 2021-12-23 | 2022-03-11 |
 | [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-04-14 |  |
-| [DAYDREAM](https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 3:13 | 2022-03-21 |  |
+| [DAYDREAM](https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 3:13 | 2022-03-21 | 2022-05-25 |
 | [Daydreamer](https://open.spotify.com/track/6URocvg9wGd4RXPcX55xCJ) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Daydreamer](https://open.spotify.com/album/1vaKAB61EU3UiSoHQcvnui) | 3:41 | 2022-01-25 | 2022-02-23 |
+| [Deja Vu \- Japanese Ver.](https://open.spotify.com/track/2Mv8lQxFrpmDxulzBU0PTu) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [BEYOND : ZERO](https://open.spotify.com/album/4k7ECCNLLIukf1rwPaOxoY) | 3:17 | 2022-05-24 |  |
 | [Devil](https://open.spotify.com/track/14jjsKr5HwNhZ18MJR5hYn) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [Devil \- The 2nd Mini Album](https://open.spotify.com/album/6bG2rY8NzT7dIzUNADDNCR) | 3:33 | 2022-01-13 | 2022-02-15 |
-| [Diamonds \(feat\. TAEYONG\)](https://open.spotify.com/track/1ng5jtfyr1MaEfmKvsXw48) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [FLYIN' PART1](https://open.spotify.com/album/0etZxsWdhonXX7O6bKi04N) | 3:11 | 2022-03-23 |  |
+| [Diamonds \(feat\. TAEYONG\)](https://open.spotify.com/track/1ng5jtfyr1MaEfmKvsXw48) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [FLYIN' PART1](https://open.spotify.com/album/0etZxsWdhonXX7O6bKi04N) | 3:11 | 2022-03-23 | 2022-05-25 |
 | [DICE](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:06 | 2022-04-11 |  |
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-02-14 | 2022-04-27 |
 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-18 | 2022-04-01 |
@@ -147,7 +149,7 @@
 | [ROCKY \- Boxers Ver.](https://open.spotify.com/track/3Gjdf1Na2LhR6X7tkc4buH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ROCKY \(Boxers Ver.\)](https://open.spotify.com/album/0wJ3JKlcgsAXfzIBkJoYsN) | 3:09 | 2022-05-17 |  |
 | [Ruby](https://open.spotify.com/track/5ljGBxXb9LthJK0rW61G6X) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [Ruby](https://open.spotify.com/album/35F1IiTWhlrhjCSQOwvCC6) | 2:43 | 2022-01-03 | 2022-03-16 |
 | [Run up](https://open.spotify.com/track/0jhCTgCG2v9fgRNI3oTHL4) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Run up](https://open.spotify.com/album/2Rqv3Uwq3trPV7X4tQeDlS) | 2:44 | 2022-02-22 | 2022-03-09 |
-| [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-22 |  |
+| [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-22 | 2022-05-25 |
 | [Rush Hour](https://open.spotify.com/track/1Goejji6m1d0s0cv4OnL7f) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:22 | 2021-12-23 | 2022-02-22 |
 | [save me](https://open.spotify.com/track/15xLGWvLs9vb6UaNLwDTEY) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [save me](https://open.spotify.com/album/4fpOkKyUs4HR0nSG97loRI) | 3:12 | 2022-04-07 |  |
 | [SAVIOR](https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:01 | 2022-05-17 |  |
@@ -183,11 +185,12 @@
 | [U](https://open.spotify.com/track/0Qk13Xgp0glz8I875TuJRl) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/3xHLRJDP7M05Gnt4VE1TwT) | 2:46 | 2022-03-29 |  |
 | [Under the Full Moon \- Alok Remix](https://open.spotify.com/track/6mMaK2MTTnJR1vug1ykPig) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B), [Kim Jun Su](https://open.spotify.com/artist/7CUcK2meST31pjD3V14khI) | [Under the Full Moon \(Alok Remix\)](https://open.spotify.com/album/4yC8CrziY3rJMkTKVM6lIG) | 2:45 | 2022-03-03 | 2022-03-11 |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/11bKMtXv6SRHY4paHR6qhz) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/1yG3aJf5tQz4D9pCosjn3f) | 3:51 | 2021-12-23 | 2022-03-02 |
+| [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 | 2022-05-24 |  |
 | [Ven para](https://open.spotify.com/track/3kwr2hlIDwmwVAjKC7zshR) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Play Game : AWAKE](https://open.spotify.com/album/6ACwt54tvpe4XrMbxXzXXb) | 3:14 | 2022-03-07 | 2022-05-11 |
 | [Villain](https://open.spotify.com/track/3xO1I7gH39DTgaai3kGIOY) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [DRIPPIN 3rd Mini Album \[Villain\]](https://open.spotify.com/album/4oOm4qnnn2qdOwSBX7nsWd) | 3:01 | 2022-01-20 | 2022-04-15 |
 | [Villain \- Japanese ver.](https://open.spotify.com/track/6a057xQ6MUy1ZdQZTomZ2r) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [SO GOOD](https://open.spotify.com/album/5zdhW1IhHlyo9RiZKPQSd6) | 3:03 | 2022-05-17 |  |
 | [Voltage](https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Voltage](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) | 3:41 | 2022-03-22 |  |
-| [VOYAGER](https://open.spotify.com/track/5X8djrOyJCnCnwD19QXQIK) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [VOYAGER](https://open.spotify.com/album/3zKRClhiSLNBrhqgCd52jE) | 3:11 | 2022-03-15 |  |
+| [VOYAGER](https://open.spotify.com/track/5X8djrOyJCnCnwD19QXQIK) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [VOYAGER](https://open.spotify.com/album/3zKRClhiSLNBrhqgCd52jE) | 3:11 | 2022-03-15 | 2022-05-25 |
 | [WA DA DA](https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA) | 3:03 | 2022-01-03 | 2022-05-03 |
 | [WANNABE \- Japanese ver.](https://open.spotify.com/track/1F6lnQwfiEzq7ikNnODitc) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [WANNABE \(Japanese ver.\)](https://open.spotify.com/album/6ZmevJEKLGFFddTBwory5Q) | 3:11 | 2021-12-23 | 2022-01-07 |
 | [We Just Don't Care](https://open.spotify.com/track/55zZerklQQ4Ju5J3YJV8uS) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [We Just Don't Care](https://open.spotify.com/album/3r9RLXBQ4eFvstaLSylKDM) | 4:47 | 2021-12-23 | 2022-01-19 |
@@ -213,5 +216,6 @@
 | [時を駆けて](https://open.spotify.com/track/5rLb9sJEfvEMcWTVhEIZwG) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Blooming](https://open.spotify.com/album/59WPwlL2LisK1iTOEZ5rkf) | 3:30 | 2022-03-29 | 2022-05-11 |
 | [燎](https://open.spotify.com/track/41LHZWfjfQPvSN0s8HFHje) | [苏芮琪](https://open.spotify.com/artist/62oYdsAy450XtCfdIrV9Bl) | [燎](https://open.spotify.com/album/63o1ESQxSCE4Bs8dqBTrur) | 3:13 | 2021-12-23 | 2022-02-05 |
 | [酒 \(JIU\)](https://open.spotify.com/track/7iWEo1YPXrWELXh4pD9S6w) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [酒 \(JIU\)](https://open.spotify.com/album/78Yo8PKLNKJsVuqFQylA9l) | 3:06 | 2022-04-07 |  |
+| [鱗\(うろこ\)](https://open.spotify.com/track/6mveYt3qyAnjLUxdhVd8gG) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [鱗\(うろこ\)](https://open.spotify.com/album/4fdFOYbuQJrQgUMLGLiqE0) | 5:17 | 2022-05-24 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

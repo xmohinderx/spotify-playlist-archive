@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 151421,
       "name": "Allenamento #2",
       "url": "https://open.spotify.com/track/3RsSxNSorUqe9K4qEGTlGC"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 187615,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 185573,
       "name": "CABRIOLET (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/7wC76LWyNxaP3hjGzbWOcN"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 228975,
       "name": "Cambiare Adesso",
       "url": "https://open.spotify.com/track/01MJgnPL3AuwmYQ4EbHzD7"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 200146,
       "name": "Catrame (feat. Tedua)",
       "url": "https://open.spotify.com/track/5qbVso0dAtoI2gFhj7V8oG"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 194651,
       "name": "Certi Giorni (feat. Nitro)",
       "url": "https://open.spotify.com/track/4nvsA575k8HrEjdQ78Ymvi"
@@ -668,6 +668,28 @@
     },
     {
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/4nJJuilxSgfHHaaC7dwDfp"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210106,
+      "name": "Cupido (feat. Quavo)",
+      "url": "https://open.spotify.com/track/0dLToDou8YHYJpQltj3Ijy"
+    },
+    {
+      "album": {
         "name": "Davide",
         "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
       },
@@ -701,7 +723,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 209571,
       "name": "Dende",
       "url": "https://open.spotify.com/track/0GaWvzS26hjyY3HGwjJ9YW"
@@ -763,7 +785,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 151440,
       "name": "Effe",
       "url": "https://open.spotify.com/track/56nvQibJaC1V84wVMqA3Ck"
@@ -781,7 +803,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 151440,
       "name": "Effe",
       "url": "https://open.spotify.com/track/6RQjUikQBjV183yPTvrUvr"
@@ -829,7 +851,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 188145,
       "name": "Fiori del male (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/7J4P2IKh5pCBpSfGs5gaGy"
@@ -969,7 +991,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 166133,
       "name": "Gli occhi della tigre",
       "url": "https://open.spotify.com/track/5pL8J6weoydzXglhsoJ6Vw"
@@ -1281,7 +1303,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 144097,
       "name": "MARYLEAN (feat. Marracash) - prod. Low Kidd",
       "url": "https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ"
@@ -1347,7 +1369,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 224150,
       "name": "Mon Fre - feat. Emis Killa",
       "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
@@ -1369,7 +1391,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 234600,
       "name": "Ne \u00e8 valsa la pena (feat. Ghali)",
       "url": "https://open.spotify.com/track/6GTCOWvhjvdk4pwlfrSjNO"
@@ -1413,7 +1435,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Nisida",
       "url": "https://open.spotify.com/track/0q9Vpg3DLMjm9rx5LnXwXE"
@@ -1471,7 +1493,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 155825,
       "name": "Non sto pi\u00f9 in zona",
       "url": "https://open.spotify.com/track/2PQuj6TMxl5hcgMG30e2Ij"
@@ -1719,7 +1741,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 235425,
       "name": "Porto Cervo",
       "url": "https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8"
@@ -1749,7 +1771,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 159240,
       "name": "Purple Rain (feat. Gemitaiz, Frenetik&Orang3)",
       "url": "https://open.spotify.com/track/286i6Yq99ALCLHXDofuTVL"
@@ -1833,7 +1855,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 245197,
       "name": "Salvador Dal\u00ec",
       "url": "https://open.spotify.com/track/4Dub4JaxFLCeb2NqFsLiZ2"
@@ -2029,7 +2051,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 183797,
       "name": "Soldi in Nero - feat. Sfera Ebbasta",
       "url": "https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7"
@@ -2055,7 +2077,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 186066,
       "name": "Solletico (feat. Tedua & The Night Skinny)",
       "url": "https://open.spotify.com/track/6gan8nbS78t2sUy0M9UpAX"
@@ -2249,7 +2271,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 220968,
       "name": "Tran Tran",
       "url": "https://open.spotify.com/track/1S2VLr8j9KVbroLn76RF4i"
@@ -2351,7 +2373,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 187573,
       "name": "Visiera A Becco",
       "url": "https://open.spotify.com/track/0nB7VgMGBTeOIO6LXwOvEJ"

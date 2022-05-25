@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-23",
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Christian Nodal",
   "name": "Mariachi Mix",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4lIbpCJ2pbV6798FY5z8fP"
+  ],
   "tracks": [
     {
       "album": {
@@ -39,7 +41,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 149946,
       "name": "7 Dias",
       "url": "https://open.spotify.com/track/5Rzy5MAkLQGc5ZioP08Air"
@@ -79,7 +81,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 267666,
       "name": "Acar\u00edciame",
       "url": "https://open.spotify.com/track/4drGRFC2Y197G9ZUty4wgW"
@@ -115,7 +117,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 244642,
       "name": "Ahi\u0301 Donde Me Ven",
       "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
@@ -133,7 +135,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 244642,
       "name": "Ah\u00ed Donde Me Ven",
       "url": "https://open.spotify.com/track/4kdmt0MDdze6TZvyU0Fmqg"
@@ -151,7 +153,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 191216,
       "name": "Almohada",
       "url": "https://open.spotify.com/track/63bebaQ5gmvySl2xhuNree"
@@ -176,6 +178,24 @@
     },
     {
       "album": {
+        "name": "Quinto Elemento (Deluxe)",
+        "url": "https://open.spotify.com/album/2202BXQpm7R0eKyyZk5BlX"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197720,
+      "name": "Amarlas Es Un Placer",
+      "url": "https://open.spotify.com/track/79TGd2i6kti3xxiVP5wDWU"
+    },
+    {
+      "album": {
         "name": "Amarlas Es Un Placer",
         "url": "https://open.spotify.com/album/3jG3io5FYIPTnGJ2pAMxhY"
       },
@@ -187,7 +207,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 198000,
       "name": "Amarlas Es Un Placer",
       "url": "https://open.spotify.com/track/3uYU8KOCxxnRgp3Q80AEEq"
@@ -259,7 +279,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 155266,
       "name": "Amor Prisionero",
       "url": "https://open.spotify.com/track/5wJJqV4l3EMFdVipF5AQcu"
@@ -461,7 +481,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 132986,
       "name": "Casi Algo - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o"
@@ -505,7 +525,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 217173,
       "name": "Como Dios Manda - En Vivo",
       "url": "https://open.spotify.com/track/72xRxJWbxdEnGuFZZQS8X6"
@@ -567,6 +587,24 @@
       "duration_ms": 180529,
       "name": "Cuando Me Digas",
       "url": "https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Le Hago Pa Olvidar",
+        "url": "https://open.spotify.com/album/0E6407TBrhZTHyx6EgX6kO"
+      },
+      "artists": [
+        {
+          "name": "Adal Loreto",
+          "url": "https://open.spotify.com/artist/1tm0tic1v5wuq9mfqln574"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196109,
+      "name": "C\u00f3mo Le Hago Pa Olvidar",
+      "url": "https://open.spotify.com/track/3RW7qX4vhxFXKotx7B5i8j"
     },
     {
       "album": {
@@ -759,7 +797,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 188567,
       "name": "El Alumno",
       "url": "https://open.spotify.com/track/4oRtfBaE8J1B0SDzVQAH5j"
@@ -879,7 +917,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 188089,
       "name": "En la Calle y en la Ruina - En Vivo",
       "url": "https://open.spotify.com/track/6bX5nRPeX7OOQKE2MetG4n"
@@ -973,7 +1011,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 135157,
       "name": "Expl\u00edcame",
       "url": "https://open.spotify.com/track/3q3fVJZWuLmyMyDIiLJbVb"
@@ -1035,6 +1073,24 @@
       "duration_ms": 205021,
       "name": "Fuera de Servicio",
       "url": "https://open.spotify.com/track/1wahJcvVpT4rQv27VOXK0u"
+    },
+    {
+      "album": {
+        "name": "Hasta el d\u00eda de hoy- Versi\u00f3n Mariachi",
+        "url": "https://open.spotify.com/album/7vr241VsjgEzEN9cu0R0gh"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197462,
+      "name": "Hasta el d\u00eda de hoy- Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/2mraShuqhUWvw5kpK4n0L9"
     },
     {
       "album": {
@@ -1311,7 +1367,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 195230,
       "name": "La Que Sigue de Mi",
       "url": "https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il"
@@ -1329,7 +1385,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 228635,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
@@ -1369,10 +1425,32 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 137257,
       "name": "La Tequilera",
       "url": "https://open.spotify.com/track/56SI5fgdbkPLXualiABtsa"
+    },
+    {
+      "album": {
+        "name": "Lo Estoy Pagando",
+        "url": "https://open.spotify.com/album/1Wjvnceb4dwl7cYyUi5Jly"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Jos\u00e9-Luis Garcia",
+          "url": "https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237480,
+      "name": "Lo Estoy Pagando",
+      "url": "https://open.spotify.com/track/76PiO53LB0HlJZWJ8Gk6p5"
     },
     {
       "album": {
@@ -1391,7 +1469,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 198835,
       "name": "Lo Siento Mucho - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/1KWN7OGF1KqyLjD9EuWY6z"
@@ -1573,7 +1651,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 252080,
       "name": "Mexicana Hermosa",
       "url": "https://open.spotify.com/track/2jHnuEYl7x1EtG4NGDDkdN"
@@ -1639,10 +1717,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 147378,
       "name": "Mi Premio O Mi Castigo",
       "url": "https://open.spotify.com/track/79JwazA2pV0ce0T5jx0CpG"
+    },
+    {
+      "album": {
+        "name": "ADN - Ranchero",
+        "url": "https://open.spotify.com/album/5mOHLe7OKtqJExyEQy18Rc"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237013,
+      "name": "Mirando Al Cielo",
+      "url": "https://open.spotify.com/track/5kfEdluzFnfA0M3qb3Vuhc"
     },
     {
       "album": {
@@ -1711,7 +1807,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 239893,
       "name": "Necesito Tiempo",
       "url": "https://open.spotify.com/track/2t5T0JAhBYKMQCv8PNuyB5"
@@ -1733,6 +1829,24 @@
       "duration_ms": 151324,
       "name": "Ni Mil Borracheras",
       "url": "https://open.spotify.com/track/4fXAHCE2z8TcIE0IKvCys1"
+    },
+    {
+      "album": {
+        "name": "No Aguant\u00e9",
+        "url": "https://open.spotify.com/album/14qViLpQh6WFrDB0Et2j54"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178706,
+      "name": "No Aguant\u00e9",
+      "url": "https://open.spotify.com/track/0KYiyilZuORaUw79LbDk2k"
     },
     {
       "album": {
@@ -1801,7 +1915,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 199200,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/3xW3exLpM6NTHdp2wkg1LR"
@@ -1837,7 +1951,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 198893,
       "name": "No Mereces Que Te Quiera",
       "url": "https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f"
@@ -1873,7 +1987,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 193066,
       "name": "No Te Dejes Enga\u00f1ar",
       "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
@@ -1934,6 +2048,24 @@
     },
     {
       "album": {
+        "name": "Un Canto por M\u00e9xico, Vol. 1",
+        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260986,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/4j4MtOK7RSOVPi1LKwb9Zu"
+    },
+    {
+      "album": {
         "name": "Ojal\u00e1 Que Te Vaya Bonito",
         "url": "https://open.spotify.com/album/7jg0q5OAZYGDL808LxnpRb"
       },
@@ -1963,7 +2095,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 196760,
       "name": "Olv\u00eddalo",
       "url": "https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5"
@@ -2151,7 +2283,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 143502,
       "name": "Por Un Amor",
       "url": "https://open.spotify.com/track/3YibdBCjkHdhJ0RfucR0sZ"
@@ -2191,7 +2323,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 232458,
       "name": "Puedes Taparte",
       "url": "https://open.spotify.com/track/1BkDe3AUbdxW4FMCtGhRFr"
@@ -2231,7 +2363,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 173698,
       "name": "Que Bonito",
       "url": "https://open.spotify.com/track/39sco9W7GMYRX6MEV4x3Co"
@@ -2437,7 +2569,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 178440,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
@@ -2455,7 +2587,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 191640,
       "name": "Se Olvid\u00f3 - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/3fLCCuQPA7kO2ZMIoB3bp1"
@@ -2517,7 +2649,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 212240,
       "name": "Se Vei\u0301a Venir",
       "url": "https://open.spotify.com/track/13id1MDO0sh4k3Gf9tNHMi"
@@ -2571,7 +2703,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 204692,
       "name": "Si Hay Otra Vida",
       "url": "https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53"
@@ -2651,7 +2783,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 196742,
       "name": "Si Se Acabara el Mundo",
       "url": "https://open.spotify.com/track/2GFZmfcsGqiOfN7RW33x5q"
@@ -2669,7 +2801,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 160818,
       "name": "Sin Ropa Eres M\u00eda",
       "url": "https://open.spotify.com/track/5ByaGTrmhcpIXu6sasjagm"
@@ -2763,7 +2895,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 273252,
       "name": "Te extra\u00f1o tanto",
       "url": "https://open.spotify.com/track/2YaXRcjA700LS1rJcXS2Lt"
@@ -2851,7 +2983,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 191493,
       "name": "Te Presumo - 200 A\u00f1os De M\u00fasica Mexicana",
       "url": "https://open.spotify.com/track/1gRuVAkRLrFrx964oQL1jU"
@@ -2959,7 +3091,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 215487,
       "name": "Tu Adi\u00f3s Como Tequila - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi"
@@ -3057,7 +3189,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 189746,
       "name": "T\u00fa Eres Prohibida",
       "url": "https://open.spotify.com/track/4D4tcgWFDJpEniWR2VWRme"
@@ -3119,6 +3251,24 @@
       "duration_ms": 192185,
       "name": "Vivo en el 6",
       "url": "https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM"
+    },
+    {
+      "album": {
+        "name": "Tradicional",
+        "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194066,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63"
     },
     {
       "album": {

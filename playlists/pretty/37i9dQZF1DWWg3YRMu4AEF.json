@@ -1,12 +1,12 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 70s.",
-  "num_followers": 73905,
+  "num_followers": 74010,
   "original_name": "Good Feeling 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzM1NDQwNywwMDAwMDAwMDY3ODFlMDAzM2Y2YTAzNTFkYzg5NTA4NGZmMTlkZTkx",
+  "snapshot_id": "MTY1MzQ0MDY1MSwwMDAwMDAwMDZiMzgxMDJjNzM5MjUwOGJlZjQxMzVhZWYyZDZlM2Y5",
   "tracks": [
     {
       "added_at": "2022-05-09 06:25:04",
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
       "added_at": "2022-05-09 06:25:04",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
+        "name": "52nd Street",
+        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
+    },
+    {
+      "added_at": "2022-05-09 06:25:04",
+      "album": {
         "name": "Every Picture Tells A Story",
         "url": "https://open.spotify.com/album/3fa5cl6Nplripk1h9z1SFv"
       },
@@ -91,22 +107,6 @@
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 211577,
-      "name": "Take It Easy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
-    },
-    {
-      "added_at": "2022-05-09 06:25:04",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
       "added_at": "2022-05-09 06:25:04",
@@ -139,114 +139,18 @@
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
-        "name": "Pretenders (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/4oDYsMBe7KtOu12VNMO75k"
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
       "artists": [
         {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 185960,
-      "name": "Brass in Pocket - 2006 Remaster",
-      "url": "https://open.spotify.com/track/2hvOsGJc6qll4WzW8Ljqc3"
-    },
-    {
-      "added_at": "2022-05-09 06:25:04",
-      "album": {
-        "name": "Reservoir Dogs (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF"
-      },
-      "artists": [
-        {
-          "name": "Stealers Wheel",
-          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Stuck In The Middle With You",
-      "url": "https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z"
-    },
-    {
-      "added_at": "2022-05-09 06:25:04",
-      "album": {
-        "name": "Silk Degrees",
-        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 221613,
-      "name": "Lido Shuffle",
-      "url": "https://open.spotify.com/track/2NtqZmfRIDkXJ2YvY2Kv1F"
-    },
-    {
-      "added_at": "2022-05-09 06:25:04",
-      "album": {
-        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration/ Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Gp6qSE1ywXCLjal5NUWUE"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 322548,
-      "name": "Bennie And The Jets - Remastered 2014",
-      "url": "https://open.spotify.com/track/3iJxloILmOu2NIRZ0OGyui"
-    },
-    {
-      "added_at": "2022-05-09 06:25:04",
-      "album": {
-        "name": "Signed, Sealed And Delivered",
-        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
-      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
-    },
-    {
-      "added_at": "2022-05-09 06:25:04",
-      "album": {
-        "name": "52nd Street",
-        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
-    },
-    {
-      "added_at": "2022-05-09 06:25:04",
-      "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Take A Chance On Me",
-      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
     },
     {
       "added_at": "2022-05-09 06:25:04",
@@ -267,50 +171,18 @@
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+        "name": "Reservoir Dogs (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF"
       },
       "artists": [
         {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
         }
       ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
-    },
-    {
-      "added_at": "2022-05-09 06:25:04",
-      "album": {
-        "name": "Fleetwood Mac (2017 Remaster)",
-        "url": "https://open.spotify.com/album/6jTUmLtY779ZNYsyugOq2q"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Say You Love Me - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4xmxQlwx8KMBK56zIn0Y8B"
-    },
-    {
-      "added_at": "2022-05-09 06:25:04",
-      "album": {
-        "name": "Peter Gabriel 1: Car (Remastered)",
-        "url": "https://open.spotify.com/album/0kDFjyfGFtiIMXlxJ120Ok"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "Solsbury Hill",
-      "url": "https://open.spotify.com/track/6vZZtivPrtpggT5SSXsYTy"
+      "duration_ms": 203893,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z"
     },
     {
       "added_at": "2022-05-09 06:25:04",
@@ -331,6 +203,22 @@
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
+    },
+    {
+      "added_at": "2022-05-09 06:25:04",
+      "album": {
         "name": "Deceptive Bends",
         "url": "https://open.spotify.com/album/6D3RQD5AQZ4P2aDzsZmBI4"
       },
@@ -347,34 +235,82 @@
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
       },
       "artists": [
         {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
+      "duration_ms": 243933,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
     },
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+        "name": "Pretenders (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/4oDYsMBe7KtOu12VNMO75k"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
         }
       ],
-      "duration_ms": 257962,
-      "name": "Peaceful Easy Feeling - 2013 Remaster",
-      "url": "https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu"
+      "duration_ms": 185960,
+      "name": "Brass in Pocket - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2hvOsGJc6qll4WzW8Ljqc3"
+    },
+    {
+      "added_at": "2022-05-09 06:25:04",
+      "album": {
+        "name": "Silk Degrees",
+        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 221613,
+      "name": "Lido Shuffle",
+      "url": "https://open.spotify.com/track/2NtqZmfRIDkXJ2YvY2Kv1F"
+    },
+    {
+      "added_at": "2022-05-09 06:25:04",
+      "album": {
+        "name": "R&B: From Doo-Wop To Hip-Hop",
+        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 139506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn"
+    },
+    {
+      "added_at": "2022-05-09 06:25:04",
+      "album": {
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
     },
     {
       "added_at": "2022-05-09 06:25:04",
@@ -411,82 +347,18 @@
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+        "name": "Peter Gabriel 1: Car (Remastered)",
+        "url": "https://open.spotify.com/album/0kDFjyfGFtiIMXlxJ120Ok"
       },
       "artists": [
         {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
         }
       ],
-      "duration_ms": 139506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn"
-    },
-    {
-      "added_at": "2022-05-09 06:25:04",
-      "album": {
-        "name": "Diamantina Cocktail (2010 Remaster)",
-        "url": "https://open.spotify.com/album/6CIFONNOVR9frrraKZpiPi"
-      },
-      "artists": [
-        {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Help Is On Its Way - 2010 Digital Remaster",
-      "url": "https://open.spotify.com/track/64RnIqEMPUPx3MTzPwcfKO"
-    },
-    {
-      "added_at": "2022-05-09 06:25:04",
-      "album": {
-        "name": "And Then There Were Three",
-        "url": "https://open.spotify.com/album/0lTuVJuCbD3FHEjIeQqyXg"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 240991,
-      "name": "Follow You Follow Me - Remastered 2007",
-      "url": "https://open.spotify.com/track/0HdcunWW5FsRqKr3lwJOIo"
-    },
-    {
-      "added_at": "2022-05-09 06:25:04",
-      "album": {
-        "name": "Not Fragile",
-        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
-      },
-      "artists": [
-        {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "You Ain't Seen Nothing Yet",
-      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
-    },
-    {
-      "added_at": "2022-05-09 06:25:04",
-      "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/3IL4csX1tS2G3u3SYvciqg"
-      },
-      "artists": [
-        {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "You Make Me Feel Like Dancing - 2010 Remaster",
-      "url": "https://open.spotify.com/track/5ot4t0BInDsxEGZ2aOitYo"
+      "duration_ms": 261560,
+      "name": "Solsbury Hill",
+      "url": "https://open.spotify.com/track/6vZZtivPrtpggT5SSXsYTy"
     },
     {
       "added_at": "2022-05-09 06:25:04",
@@ -507,82 +379,34 @@
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+        "name": "Fleetwood Mac (2017 Remaster)",
+        "url": "https://open.spotify.com/album/6jTUmLtY779ZNYsyugOq2q"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 241920,
-      "name": "Knowing Me, Knowing You",
-      "url": "https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD"
+      "duration_ms": 249906,
+      "name": "Say You Love Me - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4xmxQlwx8KMBK56zIn0Y8B"
     },
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
-        "name": "A New World Record",
-        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
       "artists": [
         {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Livin' Thing",
-      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
-    },
-    {
-      "added_at": "2022-05-09 06:25:04",
-      "album": {
-        "name": "Running Free",
-        "url": "https://open.spotify.com/album/05frF9sl7GngNlYJp7V6fe"
-      },
-      "artists": [
-        {
-          "name": "Dragon",
-          "url": "https://open.spotify.com/artist/622HMYOaiqowUmcd5t3b7t"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "April Sun in Cuba",
-      "url": "https://open.spotify.com/track/0NKv1n25UpKKhZbp5UVV6P"
-    },
-    {
-      "added_at": "2022-05-09 06:25:04",
-      "album": {
-        "name": "Menagerie",
-        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
-    },
-    {
-      "added_at": "2022-05-09 06:25:04",
-      "album": {
-        "name": "Hot Chocolate",
-        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
-      },
-      "artists": [
-        {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
-        }
-      ],
-      "duration_ms": 244920,
-      "name": "You Sexy Thing",
-      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+      "duration_ms": 257962,
+      "name": "Peaceful Easy Feeling - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu"
     },
     {
       "added_at": "2022-05-09 06:25:04",
@@ -603,18 +427,66 @@
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+        "name": "Running Free",
+        "url": "https://open.spotify.com/album/05frF9sl7GngNlYJp7V6fe"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Dragon",
+          "url": "https://open.spotify.com/artist/622HMYOaiqowUmcd5t3b7t"
         }
       ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
+      "duration_ms": 207960,
+      "name": "April Sun in Cuba",
+      "url": "https://open.spotify.com/track/0NKv1n25UpKKhZbp5UVV6P"
+    },
+    {
+      "added_at": "2022-05-09 06:25:04",
+      "album": {
+        "name": "Tapestry (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "I Feel the Earth Move",
+      "url": "https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9"
+    },
+    {
+      "added_at": "2022-05-09 06:25:04",
+      "album": {
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
+      },
+      "artists": [
+        {
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+        }
+      ],
+      "duration_ms": 244920,
+      "name": "You Sexy Thing",
+      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "added_at": "2022-05-09 06:25:04",
+      "album": {
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2022-05-09 06:25:04",
@@ -635,34 +507,66 @@
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
-        "name": "The Roaring Silence",
-        "url": "https://open.spotify.com/album/66dzz8opNjtiBFPNqIMcOw"
+        "name": "Not Fragile",
+        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
       },
       "artists": [
         {
-          "name": "Manfred Mann's Earth Band",
-          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
         }
       ],
-      "duration_ms": 428133,
-      "name": "Blinded By The Light",
-      "url": "https://open.spotify.com/track/27B4O1XEW5RvlJ5mMADAtz"
+      "duration_ms": 234866,
+      "name": "You Ain't Seen Nothing Yet",
+      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
     },
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+        "name": "Freedom for the Stallion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
       },
       "artists": [
         {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+          "name": "Hues Corporation",
+          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
         }
       ],
-      "duration_ms": 216733,
-      "name": "We Are Family - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+      "duration_ms": 202573,
+      "name": "Rock the Boat",
+      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
+    },
+    {
+      "added_at": "2022-05-09 06:25:04",
+      "album": {
+        "name": "A New World Record",
+        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Livin' Thing",
+      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
+    },
+    {
+      "added_at": "2022-05-09 06:25:04",
+      "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
     },
     {
       "added_at": "2022-05-09 06:25:04",
@@ -687,18 +591,18 @@
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
-        "name": "Freedom for the Stallion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
+        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration/ Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Gp6qSE1ywXCLjal5NUWUE"
       },
       "artists": [
         {
-          "name": "Hues Corporation",
-          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 202573,
-      "name": "Rock the Boat",
-      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
+      "duration_ms": 322548,
+      "name": "Bennie And The Jets - Remastered 2014",
+      "url": "https://open.spotify.com/track/3iJxloILmOu2NIRZ0OGyui"
     },
     {
       "added_at": "2022-05-09 06:25:04",
@@ -719,18 +623,50 @@
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
-        "name": "Chuck E's In Love / On Saturday Afternoons In 1963 [Digital 45]",
-        "url": "https://open.spotify.com/album/3eeJPgqbLWERXFQyDh4SUC"
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/3IL4csX1tS2G3u3SYvciqg"
       },
       "artists": [
         {
-          "name": "Rickie Lee Jones",
-          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
         }
       ],
-      "duration_ms": 209573,
-      "name": "Chuck E's in Love - 45 Version",
-      "url": "https://open.spotify.com/track/3F1MiFu5a1Y3Z9dQZhLTAo"
+      "duration_ms": 217466,
+      "name": "You Make Me Feel Like Dancing - 2010 Remaster",
+      "url": "https://open.spotify.com/track/5ot4t0BInDsxEGZ2aOitYo"
+    },
+    {
+      "added_at": "2022-05-09 06:25:04",
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
+    },
+    {
+      "added_at": "2022-05-09 06:25:04",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "Knowing Me, Knowing You",
+      "url": "https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD"
     },
     {
       "added_at": "2022-05-09 06:25:04",
@@ -751,6 +687,70 @@
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "We Are Family - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+    },
+    {
+      "added_at": "2022-05-09 06:25:04",
+      "album": {
+        "name": "What I Like About You (And Other Romantic Hits)",
+        "url": "https://open.spotify.com/album/5ZwUOFZdWQ81RYMwXc4j3B"
+      },
+      "artists": [
+        {
+          "name": "The Romantics",
+          "url": "https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "What I Like About You",
+      "url": "https://open.spotify.com/track/6NdcSEhpGGAYXNnnhGS2s6"
+    },
+    {
+      "added_at": "2022-05-09 06:25:04",
+      "album": {
+        "name": "Best of Bowie",
+        "url": "https://open.spotify.com/album/2PEAajl89bIS4eWMk7zlbV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Young Americans - Single Version; 2002 Remaster",
+      "url": "https://open.spotify.com/track/72zIMW5suBCXo0hupWs9YB"
+    },
+    {
+      "added_at": "2022-05-09 06:25:04",
+      "album": {
+        "name": "Chuck E's In Love / On Saturday Afternoons In 1963 [Digital 45]",
+        "url": "https://open.spotify.com/album/3eeJPgqbLWERXFQyDh4SUC"
+      },
+      "artists": [
+        {
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "Chuck E's in Love - 45 Version",
+      "url": "https://open.spotify.com/track/3F1MiFu5a1Y3Z9dQZhLTAo"
+    },
+    {
+      "added_at": "2022-05-09 06:25:04",
+      "album": {
         "name": "Lean on Me: The Best of Bill Withers",
         "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
       },
@@ -767,50 +767,50 @@
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/2CB5DQVkfMPCuOFiXiMUXZ"
+        "name": "Diamantina Cocktail (2010 Remaster)",
+        "url": "https://open.spotify.com/album/6CIFONNOVR9frrraKZpiPi"
       },
       "artists": [
         {
-          "name": "The Babys",
-          "url": "https://open.spotify.com/artist/6z7wrwE2QW7Keb9ozoF0rg"
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
         }
       ],
-      "duration_ms": 243920,
-      "name": "Isn't It Time",
-      "url": "https://open.spotify.com/track/3pyoAvbBO4kDKkh999Miyj"
+      "duration_ms": 247506,
+      "name": "Help Is On Its Way - 2010 Digital Remaster",
+      "url": "https://open.spotify.com/track/64RnIqEMPUPx3MTzPwcfKO"
     },
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9"
+        "name": "70s 100 Hits",
+        "url": "https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
         }
       ],
-      "duration_ms": 224453,
-      "name": "Jive Talkin' - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/5bKeVLylKwjv8KrAejxGOK"
+      "duration_ms": 218706,
+      "name": "Best of My Love - Single Version",
+      "url": "https://open.spotify.com/track/7bznzicO9bLBhe6SufE0Vw"
     },
     {
       "added_at": "2022-05-09 06:25:04",
       "album": {
-        "name": "Tapestry (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
+        "name": "Waterloo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hHXvnHGn6pmHhdnnmNdmn"
       },
       "artists": [
         {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 178560,
-      "name": "I Feel the Earth Move",
-      "url": "https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9"
+      "duration_ms": 166053,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/2vMQmBmcmFsdLQQgXl3PtE"
     }
   ],
   "unique_name": "Good Feeling 70s",

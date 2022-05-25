@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Luan Santana, Henrique & Juliano
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,394,759 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,395,527 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

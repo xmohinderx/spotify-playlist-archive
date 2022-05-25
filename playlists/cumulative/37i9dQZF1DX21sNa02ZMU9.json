@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 237493,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/5y69gQtK33qxb8a24ACkCy"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 200120,
       "name": "Act Yr Age",
       "url": "https://open.spotify.com/track/0pBVEfjoWDErPWlboJbRdR"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 227746,
       "name": "Been Waiting",
       "url": "https://open.spotify.com/track/0bVErWwMwsPgf3PufQA80g"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 207106,
       "name": "Black Box",
       "url": "https://open.spotify.com/track/0fKm7WjvsRW5H0W1sO42qx"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 239945,
       "name": "Boys of Summer",
       "url": "https://open.spotify.com/track/283ljdju5yqvGSmvmgdYC9"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 196226,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 215506,
       "name": "Can't Fight The Moonlight",
       "url": "https://open.spotify.com/track/10FP9hm2aFfAIKEopqaG9D"
@@ -980,6 +980,24 @@
     },
     {
       "album": {
+        "name": "Permission to Land",
+        "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217653,
+      "name": "I Believe in a Thing Called Love",
+      "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
+    },
+    {
+      "album": {
         "name": "Ta Dah",
         "url": "https://open.spotify.com/album/3pWeAnP5ZOXXB6DkNG0tYX"
       },
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 243160,
       "name": "I'm Like A Bird",
       "url": "https://open.spotify.com/track/2tP7ZekzXfduShx8C6cbll"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/04aQmJ2Bvd7gb65Af9ZNzC"
@@ -1615,7 +1633,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 203346,
       "name": "Sex On Fire",
       "url": "https://open.spotify.com/track/7aOoPSmSSkWKnh3zi908ty"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 212280,
       "name": "Shut Up And Drive",
       "url": "https://open.spotify.com/track/4Tn2llBm1g0UlWctmgPL8Z"
@@ -1957,7 +1975,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 182386,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/6gjjyhY00azOGzdeZqyuW9"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 254360,
       "name": "Untouched",
       "url": "https://open.spotify.com/track/4WkOdYTTcPa7WefKMK1iYL"
@@ -2181,7 +2199,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 237720,
       "name": "Voodoo Child",
       "url": "https://open.spotify.com/track/5KVll4Si4pL02nmrUvAHrc"
@@ -2361,7 +2379,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"

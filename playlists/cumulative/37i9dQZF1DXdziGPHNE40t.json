@@ -542,6 +542,24 @@
     },
     {
       "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/0aRC6BqXtgWMaGPg9R9fcB"
+      },
+      "artists": [
+        {
+          "name": "Hermie",
+          "url": "https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/3CGuaAf6lpT0bjutZ7DJt8"
+    },
+    {
+      "album": {
         "name": "Hoppet",
         "url": "https://open.spotify.com/album/6IOoncN42rM25gZJx0rp8J"
       },
@@ -910,6 +928,24 @@
     },
     {
       "album": {
+        "name": "Lover For The Day",
+        "url": "https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Right Time",
+          "url": "https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288368,
+      "name": "Living In Paradise",
+      "url": "https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm"
+    },
+    {
+      "album": {
         "name": "London Plane",
         "url": "https://open.spotify.com/album/0i5kK5lQhDiuPmjhMmesXo"
       },
@@ -925,6 +961,24 @@
       "duration_ms": 183420,
       "name": "London Plane",
       "url": "https://open.spotify.com/track/7nNFqTKI5xbtmk1iGPmz4n"
+    },
+    {
+      "album": {
+        "name": "Look For The Silver Lining",
+        "url": "https://open.spotify.com/album/5LGEFIR73PAlPikZFndnyY"
+      },
+      "artists": [
+        {
+          "name": "Bill Parker",
+          "url": "https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226073,
+      "name": "Look For The Silver Lining",
+      "url": "https://open.spotify.com/track/7CIQyeJuQUrJu3W8CoqAmu"
     },
     {
       "album": {
@@ -997,6 +1051,24 @@
       "duration_ms": 219280,
       "name": "Make The Man Love Me",
       "url": "https://open.spotify.com/track/5j9C4UvsB9E5do2R0juLHb"
+    },
+    {
+      "album": {
+        "name": "Don\u00b4t Blame Me",
+        "url": "https://open.spotify.com/album/4oK8sCHJ3rsqYt7rpbXqSb"
+      },
+      "artists": [
+        {
+          "name": "Yorkville",
+          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192554,
+      "name": "Mean To Me",
+      "url": "https://open.spotify.com/track/4QEPK8VmIJsxw6ymP93gCS"
     },
     {
       "album": {
@@ -1806,6 +1878,24 @@
     },
     {
       "album": {
+        "name": "Late-Night Feelings",
+        "url": "https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX"
+      },
+      "artists": [
+        {
+          "name": "Josh Lavender Trio",
+          "url": "https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287130,
+      "name": "Wedgewood",
+      "url": "https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4"
+    },
+    {
+      "album": {
         "name": "What The Heart Wants",
         "url": "https://open.spotify.com/album/4kiOZP3cb4a3mg6ZxhJA3R"
       },
@@ -1925,7 +2015,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 379407,
       "name": "Willow Weep for Me",
       "url": "https://open.spotify.com/track/6MfFsuyM6gwGFNR8mAIVBD"

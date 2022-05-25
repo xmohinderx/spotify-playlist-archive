@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,158 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,230 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

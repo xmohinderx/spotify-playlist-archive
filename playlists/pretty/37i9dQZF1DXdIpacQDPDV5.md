@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Frank Walker, Sam Feldt, Zak Abel
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,635 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,655 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B) | 2:37 |
 | 2 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 |
-| 3 | [Madness \(feat\. Zak Abel\)](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness \(feat\. Zak Abel\)](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
+| 3 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
 | 4 | [Mine O' Mine](https://open.spotify.com/track/6nATiM03z9hZ5aPF8pswNe) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/3d1goOl1kD29hQPHRtywS9) | 3:13 |
 | 5 | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/track/20b1ZBMGOZjuGvNFncIIP7) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/album/1ku0mbCfEbi3polUL4hYAk) | 2:26 |
 | 6 | [My Paradise](https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [My Paradise](https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2) | 3:31 |

@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 111145,
       "name": "A Cole\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5Ezk6ZDIQ5BguYF8kzZmdi"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 213634,
       "name": "Aulas e Cursos",
       "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
@@ -643,6 +643,32 @@
       "duration_ms": 124238,
       "name": "Bagulho Louco",
       "url": "https://open.spotify.com/track/04vzhKfl5HtPEgrdZJCZ7L"
+    },
+    {
+      "album": {
+        "name": "Baile da Serra",
+        "url": "https://open.spotify.com/album/2Bb73208HjjXHHvwZpalGu"
+      },
+      "artists": [
+        {
+          "name": "Bra\u00e3o",
+          "url": "https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd"
+        },
+        {
+          "name": "LIT UP",
+          "url": "https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE"
+        },
+        {
+          "name": "Dj Nattan",
+          "url": "https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205058,
+      "name": "Baile da Serra",
+      "url": "https://open.spotify.com/track/45VwwcqkVl61khE9JT2OxK"
     },
     {
       "album": {
@@ -869,7 +895,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 167300,
       "name": "Basiquinho - Ao Vivo",
       "url": "https://open.spotify.com/track/00pssB2eoJSJCfVQqNaSTy"
@@ -2013,7 +2039,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 154868,
       "name": "ERRO PLANEJADO - Ao Vivo",
       "url": "https://open.spotify.com/track/0sjhY8nPIm6cPOQfyUPmJe"
@@ -2157,7 +2183,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 158769,
       "name": "Eu Bem Que Te Avisei - Tu Empurrou Ele Pei",
       "url": "https://open.spotify.com/track/6pojmlhRI1fBUNg0pZSA9M"
@@ -2187,6 +2213,28 @@
       "duration_ms": 144000,
       "name": "Eu N\u00e3o Caio no Golpe",
       "url": "https://open.spotify.com/track/1XiZze5nCGABTSA37c4TbO"
+    },
+    {
+      "album": {
+        "name": "Eu Te Amo",
+        "url": "https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        },
+        {
+          "name": "Bia Jord\u00e3o",
+          "url": "https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244500,
+      "name": "Eu Te Amo",
+      "url": "https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm"
     },
     {
       "album": {
@@ -2317,6 +2365,24 @@
       "duration_ms": 138918,
       "name": "Fa\u00e7a Dinheiro, Se Mantenha Vivo",
       "url": "https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz"
+    },
+    {
+      "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168437,
+      "name": "FEARLESS",
+      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
     },
     {
       "album": {
@@ -2639,6 +2705,24 @@
     {
       "album": {
         "name": "Good Looking",
+        "url": "https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "Good Looking",
+      "url": "https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5"
+    },
+    {
+      "album": {
+        "name": "Good Looking",
         "url": "https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9"
       },
       "artists": [
@@ -2649,7 +2733,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 214800,
       "name": "Good Looking",
       "url": "https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ"
@@ -2813,7 +2897,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 221538,
       "name": "Hold That Heat (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
@@ -3435,7 +3519,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 177186,
       "name": "LOVE DIVE",
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
@@ -3511,7 +3595,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 169714,
       "name": "Macetada",
       "url": "https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY"
@@ -4389,7 +4473,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 183870,
       "name": "No Ouvidinho",
       "url": "https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI"
@@ -4637,7 +4721,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 76000,
       "name": "N\u00e3o \u00e9 uma beleza ham X Acho que vou bater uma foto sua",
       "url": "https://open.spotify.com/track/1qhy4UpbDRKBwO4Y9tTixv"
@@ -5161,6 +5245,28 @@
       "duration_ms": 160055,
       "name": "Piui Tic Tac Camisinha de Chocolate",
       "url": "https://open.spotify.com/track/2aMF3nO14nw77EMDg0spS3"
+    },
+    {
+      "album": {
+        "name": "Plug de S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/5SSRUzbHy5v3zfTtvjPEHN"
+      },
+      "artists": [
+        {
+          "name": "AyDucz",
+          "url": "https://open.spotify.com/artist/0EAZjy1z2Tl4FCc58ivbqZ"
+        },
+        {
+          "name": "Mc rick",
+          "url": "https://open.spotify.com/artist/24j5tvCwYyBx8MVVetjlUC"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135725,
+      "name": "Plug de S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/2kxCo8vUJATmp3sL6L61dv"
     },
     {
       "album": {
@@ -6648,6 +6754,46 @@
     },
     {
       "album": {
+        "name": "Ao Vivo Abril 2022",
+        "url": "https://open.spotify.com/album/5PvSUWL61aVF1Z1pQjUESX"
+      },
+      "artists": [
+        {
+          "name": "Mariana Reis",
+          "url": "https://open.spotify.com/artist/3krfXUuYooEgUlJz32Enbb"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213890,
+      "name": "Teu Amigo Cuidou",
+      "url": "https://open.spotify.com/track/44rtgsXvDPiJhxmqv0d2Pr"
+    },
+    {
+      "album": {
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174646,
+      "name": "That That (prod. & feat. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa"
+    },
+    {
+      "album": {
         "name": "The Batman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
       },
@@ -6957,7 +7103,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 134769,
       "name": "Troquei Meu Playstation Por Um Pent\u00e3o De Robocop",
       "url": "https://open.spotify.com/track/7m9lMKX2qqMWkK7KmjuslU"
@@ -7406,6 +7552,32 @@
     },
     {
       "album": {
+        "name": "Vira Mortal na Piroca",
+        "url": "https://open.spotify.com/album/5MuRURb06LQftBp3M6cIbM"
+      },
+      "artists": [
+        {
+          "name": "MC Zudo Bolad\u00e3o",
+          "url": "https://open.spotify.com/artist/4kEtpjbEnSh4WNeLF1IeG7"
+        },
+        {
+          "name": "Igor vil\u00e3o",
+          "url": "https://open.spotify.com/artist/0fWRkzzT18m5v3Y2GDCjpp"
+        },
+        {
+          "name": "DJ Tubar\u00e3o ZS",
+          "url": "https://open.spotify.com/artist/0GBlcBqEfYsoJ2BmOnQHnE"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174744,
+      "name": "Vira Mortal na Piroca",
+      "url": "https://open.spotify.com/track/5GMBPVnT9bOgGjsKNvdz5m"
+    },
+    {
+      "album": {
         "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
         "url": "https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ"
       },
@@ -7609,7 +7781,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 201905,
       "name": "With you",
       "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"

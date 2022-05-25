@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-95 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+96 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Santosa \(Contentment\)](https://open.spotify.com/track/2oa9m04tRuNocGalPvAv4R) | [Michael Mandrell and Benjy Wertheimer](https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD) | [Anjali](https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7) | 8:36 | 2022-04-04 |  |
 | [Sapphire Dreams](https://open.spotify.com/track/26jg6XR2GmKTomzljp9aTC) | [Ledd Blue](https://open.spotify.com/artist/1YGWpdwoILEnUbvEZx3xnE) | [Sapphire Dreams](https://open.spotify.com/album/6rbIV6wLOZVpHkyThEFsE5) | 3:22 | 2022-04-04 |  |
 | [Shaantipoorn Sardee](https://open.spotify.com/track/32J8PZ2TsVXaylMujwAfQs) | [Kanti Kata](https://open.spotify.com/artist/2YKTWzjZkpGVHMdbAP0df5) | [Shaant Garmee](https://open.spotify.com/album/1OUUILFcARqONfzoxVxTlf) | 3:47 | 2022-05-09 |  |
+| [Sharad Rtu Hiran](https://open.spotify.com/track/3P5LCGwst6MHnfmCoDUqkq) | [Chand Adwani](https://open.spotify.com/artist/13fCAM11qEb6Jud1D48RLi) | [Aatma Momabattee](https://open.spotify.com/album/4vcltSZOJLMWgyomcNKHps) | 3:54 | 2022-05-24 |  |
 | [Shiva's Meditation](https://open.spotify.com/track/0TxmxoCQMiXvfFA6DPM1wT) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 5:09 | 2022-04-04 |  |
 | [Sights in Sound \(Shiva\)](https://open.spotify.com/track/7CatPZZMG9tx1Crhy5oTgL) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [The Magnificent Hum](https://open.spotify.com/album/3UTW7AeSNDdZVKQBi8MjDM) | 4:22 | 2022-04-04 |  |
 | [Silver Keys](https://open.spotify.com/track/0dTYfQD9vR39dLLv0TfXVl) | [Simon Shavi](https://open.spotify.com/artist/3bU7LIIa7VaEkMwmcqbZOK) | [Silver Keys](https://open.spotify.com/album/4GiYY8khJkt4Csn1I7NcID) | 3:40 | 2022-04-04 |  |

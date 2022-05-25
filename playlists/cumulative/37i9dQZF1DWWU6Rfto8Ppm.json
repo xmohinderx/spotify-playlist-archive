@@ -478,6 +478,24 @@
     },
     {
       "album": {
+        "name": "2007 A\u00f1os De Exitos Reggaeton",
+        "url": "https://open.spotify.com/album/26zyyIjsP6eCPV9H7urkVq"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221973,
+      "name": "Bailame",
+      "url": "https://open.spotify.com/track/491iDJVvDHYffvfKUIMWhC"
+    },
+    {
+      "album": {
         "name": "Bailando Fue",
         "url": "https://open.spotify.com/album/4YB6pWN3gdxtfM3ZZt6AOh"
       },
@@ -527,6 +545,24 @@
       "duration_ms": 142867,
       "name": "Bailando Provocas",
       "url": "https://open.spotify.com/track/3IaMJw9SJ1VxI1pjUQUtWB"
+    },
+    {
+      "album": {
+        "name": "Playero 41: Past Present & Future Part 1",
+        "url": "https://open.spotify.com/album/3flZYLVafxIZDaEiAdZ6y8"
+      },
+      "artists": [
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173026,
+      "name": "Bailando Quiero Verlas",
+      "url": "https://open.spotify.com/track/7L70JFP6AVHi4DJKP1gH1p"
     },
     {
       "album": {
@@ -777,7 +813,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 275360,
       "name": "Chulin Culin Chunfly (feat. Residente Calle 13)",
       "url": "https://open.spotify.com/track/46DW3fyWuL4VZfEwnyWjXg"
@@ -1445,7 +1481,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 233840,
       "name": "Enamorado De Ti",
       "url": "https://open.spotify.com/track/6Gap7FCzt3a8Su8HzW76I4"
@@ -1467,7 +1503,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 185077,
       "name": "Entre la Playa Ella y Yo",
       "url": "https://open.spotify.com/track/1tvdNGCcgAhYaYq7ouIYGJ"
@@ -1547,7 +1583,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 292120,
       "name": "Es Mejor Olvidarlo",
       "url": "https://open.spotify.com/track/5ZEh7PjppT52nuO7HA9eDI"
@@ -1623,7 +1659,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 271986,
       "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
       "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
@@ -2403,7 +2439,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 209934,
       "name": "Lo Que Pas\u00f3 Pas\u00f3 - Live",
       "url": "https://open.spotify.com/track/1XMflaah8kpeECqmqGwfe1"
@@ -2493,7 +2529,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 182026,
       "name": "Machete",
       "url": "https://open.spotify.com/track/1n378okiaJGDR06by3YM2U"
@@ -2533,7 +2569,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 262407,
       "name": "Maniatica",
       "url": "https://open.spotify.com/track/2FxV7yyyfkByIGmUp1o1dY"
@@ -2567,7 +2603,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 272822,
       "name": "Matador - Official Remix",
       "url": "https://open.spotify.com/track/27ALar3f8xkLfXOrKAzDkg"
@@ -3297,7 +3333,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 288400,
       "name": "No Te Veo - Remix",
       "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
@@ -4241,7 +4277,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 218386,
       "name": "Sexo En La Playa",
       "url": "https://open.spotify.com/track/7000lIDeQQURNIsLINOYZo"
@@ -4391,7 +4427,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 225453,
       "name": "Si la Ves (feat. Cruzito)",
       "url": "https://open.spotify.com/track/5tTfhWFI9lt6FE8Emp1U6x"
@@ -4435,7 +4471,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 238890,
       "name": "Si No Cuidas Tu Mujer",
       "url": "https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3"
@@ -5259,7 +5295,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 196053,
       "name": "Vampiresa",
       "url": "https://open.spotify.com/track/644Kky1J5BsAX9zUxziIsX"

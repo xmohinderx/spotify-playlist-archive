@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Phoebe Go Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,224 likes - 99 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,305 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

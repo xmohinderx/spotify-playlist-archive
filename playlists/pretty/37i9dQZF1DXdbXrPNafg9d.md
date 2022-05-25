@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: fanclubwallet
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,209,375 likes - 160 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,209,750 likes - 160 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

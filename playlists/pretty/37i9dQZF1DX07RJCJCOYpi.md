@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The leading wave of Latin Electronic music\. Cover: Natanael Cano, Steve Aoki
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,742,514 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,742,497 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 9 | [Nataaoki](https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:30 |
 | 10 | [HOT](https://open.spotify.com/track/5Pg4qYTcvCUBBq3jBhKq0t) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:34 |
 | 11 | [El Incomprendido](https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt) | [El Incomprendido](https://open.spotify.com/album/046Eyq94B09gkJ8ISXxzt8) | 4:27 |
-| 12 | [Discoteca \- Deorro Remix](https://open.spotify.com/track/5tCSY4kKx54ly2kdJuHUpq) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Discoteca \(Deorro Remix\)](https://open.spotify.com/album/4hbQnVsOamBrrAhYFzw4Fj) | 3:10 |
+| 12 | [Discoteca \(Deorro Remix\)](https://open.spotify.com/track/5tCSY4kKx54ly2kdJuHUpq) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Discoteca \(Deorro Remix\)](https://open.spotify.com/album/4hbQnVsOamBrrAhYFzw4Fj) | 3:10 |
 | 13 | [Real Love \- Sak Noel, Salvi & Franklin Dam Remix](https://open.spotify.com/track/21LO2b29sLEypeJFXWqEQl) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat), [Franklin Dam](https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY) | [Real Love \(Sak Noel, Salvi & Franklin Dam Remix\)](https://open.spotify.com/album/762BWVMk6By89MAXZNCM20) | 2:32 |
 | 14 | [Helicóptero](https://open.spotify.com/track/5PpwwiaSqIzLyzboENB4QO) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:46 |
 | 15 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 |

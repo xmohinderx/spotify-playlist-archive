@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-316 songs - 17 hr 36 min - [published](https://open.spotify.com/playlist/6ou4JZ69umClCndeDJxRfI)
+317 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/6ou4JZ69umClCndeDJxRfI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [L\-Gante: Bzrp Music Sessions, Vol.38](https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: Bzrp Music Sessions, Vol\. 38](https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH) | 3:12 | 2021-03-27\* | 2021-09-22 |
 | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG) | 3:01 | 2021-04-11 | 2021-07-28 |
 | [La Corriente](https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:18 | 2022-05-07 | 2022-05-15 |
+| [La Llevo Al Cielo \(Ft\. Ñengo Flow\)](https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [La Llevo Al Cielo \(Ft\. Ñengo Flow\)](https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2) | 4:14 | 2022-05-24 |  |
 | [La Melodía de Dios](https://open.spotify.com/track/31xVuaxFElzKPIp6Z9HT5N) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Destinologia](https://open.spotify.com/album/19TeDDWnbWJqtd4NyPI3jk) | 4:45 | 2021-11-06 | 2021-11-08 |
 | [La Niña de la Escuela](https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:24 | 2021-08-09 | 2021-09-05 |
 | [LA NOCHE DE ANOCHE](https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:23 | 2021-03-27\* | 2021-07-11 |
@@ -283,7 +284,7 @@
 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 | 2021-05-25 | 2021-06-27 |
 | [Todo De Ti](https://open.spotify.com/track/5RwV8BvLfX5injfqYodke9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 3:19 | 2021-06-27 | 2021-12-22 |
 | [TODO O NADA](https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:28 | 2021-06-18 | 2021-08-22 |
-| [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2021-12-12 |  |
+| [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2021-12-12 | 2022-05-25 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-05-23 | 2021-05-24 |
 | [Tranquila](https://open.spotify.com/track/1v5QhGtlv2bkpUz2kAXTCq) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Desde el Espacio](https://open.spotify.com/album/2C9O39yyriTfCN5IN0gngg) | 3:03 | 2022-03-12 |  |
 | [Tranquila](https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Tranquila](https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj) | 3:03 | 2022-01-15 | 2022-03-13 |

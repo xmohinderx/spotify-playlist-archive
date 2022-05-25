@@ -831,7 +831,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 151066,
       "name": "Bezerk (feat. A$AP Ferg)",
       "url": "https://open.spotify.com/track/2B9wgj9XzbJZLty03PRbVo"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 284906,
       "name": "California Love - Original Version",
       "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
@@ -1797,7 +1797,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 165908,
       "name": "Donald Trump",
       "url": "https://open.spotify.com/track/3uulVrxiI7iLTjOBZsaiF8"
@@ -1975,7 +1975,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 181933,
       "name": "Energy",
       "url": "https://open.spotify.com/track/79XrkTOfV1AqySNjVlygpW"
@@ -2339,7 +2339,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 222293,
       "name": "Forgot About Dre",
       "url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
@@ -3115,7 +3115,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 200933,
       "name": "Hood Nigga",
       "url": "https://open.spotify.com/track/323Tzd2yjV4pifrVAajafb"
@@ -3519,7 +3519,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 203093,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/7f5trao56t7sB7f14QDTmp"
@@ -4691,7 +4691,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 245386,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/2DQ1ITjI0YoLFzuADN1ZBW"
@@ -5419,7 +5419,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 131240,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
@@ -5565,7 +5565,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 223173,
       "name": "Rich As Fuck",
       "url": "https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE"
@@ -5749,7 +5749,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 178948,
       "name": "Rocky Road (with Kodak Black)",
       "url": "https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo"
@@ -5995,7 +5995,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 176631,
       "name": "Shotta Flow (feat. Blueface) [Remix]",
       "url": "https://open.spotify.com/track/5BJMeoCXXgbRAWfp6fTulr"
@@ -7222,6 +7222,32 @@
     },
     {
       "album": {
+        "name": "Survival Of The Fittest",
+        "url": "https://open.spotify.com/album/5ZXga0efPuZJr2KIvN1xZg"
+      },
+      "artists": [
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        },
+        {
+          "name": "Webbie",
+          "url": "https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8"
+        },
+        {
+          "name": "Foxx",
+          "url": "https://open.spotify.com/artist/2l6Z31DakUv5Gl9yQPbLEl"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272346,
+      "name": "Wipe Me Down (feat. Foxx, Webbie & Lil Boosie) - Remix",
+      "url": "https://open.spotify.com/track/6D1CstH1YvzNN8cPd9ay9Q"
+    },
+    {
+      "album": {
         "name": "O.N.I.F.C. (Deluxe)",
         "url": "https://open.spotify.com/album/5S4SuPHbaozi5PDedAONTG"
       },
@@ -7321,7 +7347,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 149546,
       "name": "Wow.",
       "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"

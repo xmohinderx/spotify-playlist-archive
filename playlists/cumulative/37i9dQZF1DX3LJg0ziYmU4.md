@@ -4,7 +4,7 @@
 
 > Recorriendo las carreteras con puras canciones de arranque 🚛
 
-100 songs - 5 hr 20 min - not published yet
+100 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/6K7ps8Ld7bO5Ar0JPM2m6A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

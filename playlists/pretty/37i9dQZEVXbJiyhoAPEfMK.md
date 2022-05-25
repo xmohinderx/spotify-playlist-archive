@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJiyhoAPEfMK.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,668 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,682 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJiyhoAPEfMK.md) - [plain]
 | 49 | [Boys Do Cry](https://open.spotify.com/track/6k0V6IGOMTyoLbxRqQeE8b) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Boys Do Cry](https://open.spotify.com/album/42v1BZVYQ3ca46BPX2ZqjW) | 2:56 |
 | 50 | [Count Me Out](https://open.spotify.com/track/7pj6P5WnxkZsw3XRc8eMe1) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:43 |
 
-Snapshot ID: `NzA2NjE3OTM4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzA2NzA4MTI5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

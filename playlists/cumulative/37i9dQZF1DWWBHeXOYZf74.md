@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Flume
 
-1,520 songs - 3 day 13 hr 14 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,521 songs - 3 day 13 hr 17 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Bless The Telephone](https://open.spotify.com/track/2IYQFoDLbQuw8DVNv9ej3B) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Bless The Telephone](https://open.spotify.com/album/6PRil2AODWBAKbziQlPkqV) | 2:50 | 2021-12-17 | 2022-01-29 |
 | [Bliss](https://open.spotify.com/track/2hkGd89f1mtUp19libeWmR) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Stardust](https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB) | 2:51 | 2022-04-11 |  |
 | [Blood & Guts](https://open.spotify.com/track/0UpPY4bquCGW5PtysS0HHJ) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [Blood & Guts](https://open.spotify.com/album/0QkSqU0Z2x4WM5pevY9PvU) | 1:45 | 2019-10-11 | 2019-11-02 |
-| [Blood In The Snow](https://open.spotify.com/track/5yiEvFextSviCStbutB8UI) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Blood In The Snow](https://open.spotify.com/album/4l1KlOM9JXnH9Q1LmoAEjP) | 4:46 | 2022-04-01 |  |
+| [Blood In The Snow](https://open.spotify.com/track/5yiEvFextSviCStbutB8UI) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Blood in the Snow](https://open.spotify.com/album/4l1KlOM9JXnH9Q1LmoAEjP) | 4:46 | 2022-04-01 |  |
 | [Blue](https://open.spotify.com/track/2y6G2t0eCNCeTOHwIKjc3l) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Blue](https://open.spotify.com/album/3Qmc7xQ6vy3eNAS6RMpcGK) | 3:07 | 2019-07-30\* | 2019-08-29 |
 | [BLUE](https://open.spotify.com/track/1Roxb5PucuEVW34lGHRhMY) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [BLUE](https://open.spotify.com/album/5Xxx5CEY3kOdYzIHyxfkYo) | 2:17 | 2019-07-30\* | 2019-10-18 |
 | [Blue Sky](https://open.spotify.com/track/1z4dZhAeYPzlz0w0w4hvx6) | [Serena Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Blue Sky](https://open.spotify.com/album/0MO8idJcD9IGSaqT3u20g1) | 3:00 | 2020-09-11 | 2020-10-22 |
@@ -1181,6 +1181,7 @@
 | [Second Guessing](https://open.spotify.com/track/0RqVERbWbIT2fVvOOvqcjr) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Second Guessing](https://open.spotify.com/album/70V6CskkJwrwwVVuFYnfok) | 3:02 | 2019-09-26 | 2020-02-21 |
 | [Self Care](https://open.spotify.com/track/2gVtrY8gCCynR9v0lyBL1m) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Jaime Woods](https://open.spotify.com/artist/6XhxJt25bNl5IMPronm8zz), [Orleans Big](https://open.spotify.com/artist/5LrIqLIweQz6rLfR8hc8K6), [Anjelika 'Jelly' Joseph](https://open.spotify.com/artist/1FBIeYid13t8hqTdpiQ8tX) | [Self Care](https://open.spotify.com/album/6Iur9pUGhyC4YdkmysT96v) | 2:46 | 2020-10-15 | 2020-12-04 |
 | [Self!](https://open.spotify.com/track/3GaIA718XNZODneN1KW6Vr) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Self!](https://open.spotify.com/album/0R4NeOHuEtXXpjG0xkIKcX) | 3:50 | 2021-03-23 | 2021-04-30 |
+| [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-05-24 |  |
 | [Send Me](https://open.spotify.com/track/3C577pIvUmFN02Dgshfg3S) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Send Me](https://open.spotify.com/album/6ruCp4mB7FOyOKfLowr0dS) | 4:03 | 2021-04-15 | 2022-01-15 |
 | [Sensitive](https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3) | [Serena Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte) | 2:54 | 2021-01-23 | 2021-05-29 |
 | [sent you flowers.](https://open.spotify.com/track/4rvikymmhww79w4fIiXm6J) | [adobee.](https://open.spotify.com/artist/3ag2JXWElKqKiJsU9pe7Rs), [Roy Blair](https://open.spotify.com/artist/2bg4TKwooGY8KpfMAwVUng), [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [sent you flowers.](https://open.spotify.com/album/7nsjMzKUllwqFFUm7gyHyl) | 2:01 | 2020-01-10 | 2020-01-24 |

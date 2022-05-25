@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 215200,
       "name": "A Million Miles Away",
       "url": "https://open.spotify.com/track/3YryVYJcJ9gP8jfUkkbNvm"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 222533,
       "name": "Ah! Leah!",
       "url": "https://open.spotify.com/track/3ifaGhNHnCPQ9zdnOfolcZ"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 318586,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 159586,
       "name": "Buddy Holly",
       "url": "https://open.spotify.com/track/7GptbanebPZYkLPvjNfd6m"
@@ -307,10 +307,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 450506,
       "name": "Champagne Supernova",
       "url": "https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
+        "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
+      },
+      "artists": [
+        {
+          "name": "Semisonic",
+          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274160,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
     },
     {
       "album": {
@@ -343,7 +361,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 202506,
       "name": "Couldn't I Just Tell You",
       "url": "https://open.spotify.com/track/02jZSvPG0SNsBwj6g9yRCo"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/338gPBomyqx33wfeF1AGOd"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 205346,
       "name": "Go All The Way",
       "url": "https://open.spotify.com/track/75GQIYnRaBg7ndHxhfYuQy"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 174506,
       "name": "Going Underground",
       "url": "https://open.spotify.com/track/6ALPLbDJ9eWVij9ep3Cgf4"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 167160,
       "name": "Hazy Shade of Winter",
       "url": "https://open.spotify.com/track/0P2vAvvWni2tNXOdbH3JFk"
@@ -523,7 +541,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 251480,
       "name": "Head On",
       "url": "https://open.spotify.com/track/7ovOXoXhWyJleZfOfsANyp"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 229423,
       "name": "Heart Of Glass",
       "url": "https://open.spotify.com/track/4v2rkl1mC3zVAz0nXMx9r4"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 191226,
       "name": "I Want You to Want Me",
       "url": "https://open.spotify.com/track/1mXXf7ztqQei9qUXliL19H"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 215066,
       "name": "Is She Really Going Out With Him?",
       "url": "https://open.spotify.com/track/29SRvYOKbMLOZeOubNGtLb"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 342160,
       "name": "Let Love Rule",
       "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 223666,
       "name": "Local Girls - Digitally Remastered 1996",
       "url": "https://open.spotify.com/track/63lZR6NrvsosUAFwXSE63E"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 202400,
       "name": "Look Sharp!",
       "url": "https://open.spotify.com/track/1PXshYSkA3gGYOrInU3lRE"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 239106,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1de0oQBdeAmOVsvZlnyZqK"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 208466,
       "name": "One Way Or Another",
       "url": "https://open.spotify.com/track/3DiRdaZtPrVdb4U2RIuRWm"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 184933,
       "name": "Pop Song 89 - Remastered",
       "url": "https://open.spotify.com/track/0pxpo14jvnN33Ej7xHV8TK"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 169533,
       "name": "Someday, Someway - Remastered",
       "url": "https://open.spotify.com/track/01wZPk1D0Ar9AnUtAY01yl"
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 175400,
       "name": "What I Like About You",
       "url": "https://open.spotify.com/track/6NdcSEhpGGAYXNnnhGS2s6"
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 300773,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"

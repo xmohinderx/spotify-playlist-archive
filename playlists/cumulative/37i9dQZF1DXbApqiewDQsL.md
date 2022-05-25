@@ -4,7 +4,7 @@
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Becky G, Marca MP.
 
-57 songs - 3 hr 13 min - not published yet
+57 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/6afbS8jMGP22mlmpnwyCdP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

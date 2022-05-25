@@ -4,7 +4,7 @@
 
 > Not not not pop\. Cover: Johan Lenox
 
-940 songs - 1 day 21 hr 47 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+941 songs - 1 day 21 hr 51 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,7 +556,7 @@
 | [n2o](https://open.spotify.com/track/4z3cLkhxB7dTf1L7xrHTly) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/7ozumavjZMi9QwMOD8qWVl) | 2:59 | 2022-02-28 | 2022-03-02 |
 | [napalm!](https://open.spotify.com/track/5YqKNiieSFJ1fbMlZYrITW) | [Hudi](https://open.spotify.com/artist/6yeLse5F06fsz7hzqDIn5y) | [napalm!](https://open.spotify.com/album/7jyge5yG2MYlHwgB512jrp) | 2:52 | 2022-03-11 | 2022-04-29 |
 | [Napkins](https://open.spotify.com/track/077ULIWZuzfn7YWJl8s01U) | [Tony Ferrari](https://open.spotify.com/artist/2OwJfEHbju9I3yrWL5Fq3T) | [Napkins](https://open.spotify.com/album/6lQ6RVsg9TiaXuV3a4llw9) | 2:34 | 2021-10-10 | 2021-10-12 |
-| [NAPLES](https://open.spotify.com/track/0ImCrvyDR2Twf44Ugyv5Kj) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [NAPLES](https://open.spotify.com/album/28rT9LjSDIO38qGbNjiTLJ) | 2:20 | 2022-05-09 |  |
+| [NAPLES](https://open.spotify.com/track/0ImCrvyDR2Twf44Ugyv5Kj) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [NAPLES](https://open.spotify.com/album/28rT9LjSDIO38qGbNjiTLJ) | 2:20 | 2022-05-09 | 2022-05-25 |
 | [NARCOTICS](https://open.spotify.com/track/6GDTtSOLeowRa41LQiUVmE) | [CHLOBOCOP](https://open.spotify.com/artist/56SXq1dAUN2vu4iWfXVnsL) | [NARCOTICS](https://open.spotify.com/album/7CIQqXABKL7eOn8InbZXXw) | 2:21 | 2020-10-13\* | 2021-01-23 |
 | [Nauseous / Devilish](https://open.spotify.com/track/0PN1iUBRQDWUtqwEvVfWfD) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/50156iq4owa0BXegpAf1Mg) | 2:23 | 2022-05-09 |  |
 | [Needs](https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Needs](https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE) | 2:57 | 2021-07-17 | 2021-10-16 |
@@ -739,6 +739,7 @@
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-22 |  |
 | [Skin on Skin](https://open.spotify.com/track/5enKTHTO3V8qFrsyCtXwRF) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/21z7E0MTyBXzjvuvsVt2Av) | 3:03 | 2020-10-13\* | 2021-05-03 |
 | [Skywalker](https://open.spotify.com/track/21TLD85Q0waH65GxMnIJft) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Skywalker](https://open.spotify.com/album/5nDWZFeZsRXUTFvjg7jruY) | 4:02 | 2021-03-06 | 2021-10-13 |
+| [Slow D's](https://open.spotify.com/track/7pZsJo9EVCNQgoIAZDuBNM) | [Lully](https://open.spotify.com/artist/1NvmP6svMv6qjhaCM35vRQ) | [Slow D's](https://open.spotify.com/album/5c4w6MzJSWLnFjocjp9QAj) | 3:33 | 2022-05-24 |  |
 | [SLUGGER \(feat\. $NOT & slowthai\)](https://open.spotify.com/track/4hFQTvD4ZioWwAG3CWfS9D) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [SLUGGER \(feat\. $NOT & slowthai\)](https://open.spotify.com/album/3zctA2G2IQCfTKWeOGYk1h) | 4:16 | 2021-07-17 | 2021-09-11 |
 | [slumber](https://open.spotify.com/track/3Z6LBHVcNXuAEpXrKwUEAS) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [slumber](https://open.spotify.com/album/4Q4b9Ti4hXcyItDQC9KKR8) | 2:53 | 2022-04-05 |  |
 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 | 2021-03-18 | 2021-05-03 |

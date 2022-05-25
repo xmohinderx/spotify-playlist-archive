@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: حسين الجسمي
 
-148 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+149 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [El Fatra Di](https://open.spotify.com/track/5t3LWKAUzvhwbyIxsHHW5E) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:49 | 2022-01-27 | 2022-05-02 |
 | [El Halawa Di](https://open.spotify.com/track/5hpzNmbYpjS4WcQW1nAt3j) | [Ahmed Basyoni](https://open.spotify.com/artist/2T6gqh96T1Cy8YfvzEPr49), [Hussein Gamal](https://open.spotify.com/artist/6qsRiXkSz88prbplwiKpmr) | [El Halawa Di](https://open.spotify.com/album/2Ea9QzlkBwrVGd7ENONLsf) | 2:57 | 2022-01-28 | 2022-05-19 |
 | [El Halazona](https://open.spotify.com/track/69yrkIjdgcPmdTQZPhLw1p) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [El Halazona](https://open.spotify.com/album/4s3leAWo7u3Ml5DhRvCmWi) | 3:48 | 2021-12-23 | 2021-12-30 |
-| [El Haraka de](https://open.spotify.com/track/1IhGkxXcW4vFBR9dHP5To9) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [El Haraka de](https://open.spotify.com/album/4xoAvWYktjyTSA8lBuFIxJ) | 2:58 | 2022-05-05 |  |
+| [El Haraka de](https://open.spotify.com/track/1IhGkxXcW4vFBR9dHP5To9) | [Ahmed Helmy](https://open.spotify.com/artist/6weFHq6TU2aoz3eb6JNSbB) | [El Haraka de](https://open.spotify.com/album/4xoAvWYktjyTSA8lBuFIxJ) | 2:58 | 2022-05-05 |  |
 | [El Leila Eid](https://open.spotify.com/track/1v6xHWH5koUiYp1PYYDjGS) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [El Leila Eid](https://open.spotify.com/album/3Vao3BYiDmnLLtoLJa8HoU) | 3:08 | 2022-05-01 |  |
 | [El Mawdou3](https://open.spotify.com/track/2s4nQbVCaFH2m12kzddHCL) | [Sherif ElBahey](https://open.spotify.com/artist/72S98nXzuQTo3LYFo2utSo) | [El Mawdou3](https://open.spotify.com/album/5vvr3pRUrFgc17NVbyCBFh) | 4:00 | 2021-12-23 | 2021-12-31 |
 | [El Nafseya](https://open.spotify.com/track/5NdVyOLoXDVQaaDHcJRI8S) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [El Nafseya](https://open.spotify.com/album/2e14G407cbG5rCgRVzgiSh) | 4:52 | 2022-03-11 |  |
@@ -135,6 +135,7 @@
 | [W Bahleflak](https://open.spotify.com/track/6dl0rOeMbMYpqsnOjdaFLr) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [W Bahleflak](https://open.spotify.com/album/4RG5kVZevsPgZrqhrfVc5Q) | 4:18 | 2021-12-23 | 2022-01-05 |
 | [Wadina Baeid \(Bonus Track\)](https://open.spotify.com/track/6yCxLxQhCfcHbPEuKzVM1O) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Wadina Baeid \(Bonus Track\)](https://open.spotify.com/album/5MWF4LOe2m18Va8pIi64TJ) | 4:09 | 2021-12-23 | 2022-01-29 |
 | [Wagaa Kam Youm](https://open.spotify.com/track/0pxGNAjZ6ngccUf5ehwjPB) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Wagaa Kam Youm](https://open.spotify.com/album/0VI7mgJVE7EqCjLBqJZpsf) | 4:35 | 2021-12-23 | 2022-02-23 |
+| [Wahdani](https://open.spotify.com/track/7MtjVTe38tcotyQwr7piOX) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Wahdani](https://open.spotify.com/album/3Wwr5T1Xcu9da276ShVYft) | 4:41 | 2022-05-24 |  |
 | [Wleeh](https://open.spotify.com/track/5QIatrUnbjkDqftJbfZo5B) | [Mohamed Maghraby](https://open.spotify.com/artist/5YzWtu1xGAMgt1ZXDbBTSV) | [Wleeh](https://open.spotify.com/album/6Zuvzyj59U0Q1xKMSFo0xG) | 3:50 | 2022-03-18 |  |
 | [Ya Bay](https://open.spotify.com/track/1tIjCjZggwGIIviiOn4qkB) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Ya Bay](https://open.spotify.com/album/3pLAjS8pQIbluq04CPZMVB) | 3:07 | 2021-12-23 | 2022-03-04 |
 | [Yalla Kammel](https://open.spotify.com/track/5KqYg3pbShUynZVRUh0Shy) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Yalla Kammel](https://open.spotify.com/album/7vQGItxM1KbqJdCXDZNXUF) | 4:15 | 2021-12-23 | 2022-01-28 |

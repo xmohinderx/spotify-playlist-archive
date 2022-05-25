@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,885,882 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,886,097 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 14 | [Every Good Girl](https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Before You Go](https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte) | 2:56 |
 | 15 | [you & me](https://open.spotify.com/track/4xTRiW8KxQjf6JxeyozXkZ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:24 |
 | 16 | [Side Piece](https://open.spotify.com/track/0203aGEIzVVlmvQ8lX4fmV) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:54 |
-| 17 | [Who We Are \(feat\. Yung Bleu\)](https://open.spotify.com/track/2h0DSm6aLpjO5T8iBExkZD) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Who We Are](https://open.spotify.com/album/6DE3o3k2KbubhYaBsmf5as) | 2:45 |
+| 17 | [Who We Are \(feat\. Yung Bleu\)](https://open.spotify.com/track/2h0DSm6aLpjO5T8iBExkZD) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Who We Are](https://open.spotify.com/album/6DE3o3k2KbubhYaBsmf5as) | 2:45 |
 | 18 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 |
 | 19 | [everything you need](https://open.spotify.com/track/5ZD0MkX1FadkqYwhCCmAiv) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:27 |
 | 20 | [Anita](https://open.spotify.com/track/7xHPjLPNyrVbIyGJmQwX5E) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe) | [This 2 Shall Pass](https://open.spotify.com/album/6jYeqcUwxI2GOK2gnXLEDH) | 2:49 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 40 | [Wait Too Long \(feat\. Blxst\)](https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Wait Too Long \(feat\. Blxst\)](https://open.spotify.com/album/3fBKA3NfQWJ81eBtGardm6) | 3:06 |
 | 41 | [About You](https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [About You](https://open.spotify.com/album/24i8TDxRtaHGSDiWjVyseC) | 2:50 |
 | 42 | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy) | 2:33 |
-| 43 | [WHAT YOU NEED](https://open.spotify.com/track/1rmnTmLl06RQLJmEpe36ve) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UNTAMED](https://open.spotify.com/album/1LM4qNXzxeL4ptfUOeUQwV) | 2:55 |
+| 43 | [WHAT YOU NEED](https://open.spotify.com/track/1rmnTmLl06RQLJmEpe36ve) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UNTAMED](https://open.spotify.com/album/1LM4qNXzxeL4ptfUOeUQwV) | 2:55 |
 | 44 | [Who Do](https://open.spotify.com/track/5TBEzhlJqpBFwalNZ3FUpx) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Who Do](https://open.spotify.com/album/7hQEAJdHOrnsSVapYVdzmj) | 3:02 |
 | 45 | [Hard To Trust \(feat\. Dreezy\)](https://open.spotify.com/track/0VfopEzDeW2ANyBulAFh90) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 3:26 |
 | 46 | [Scorpio](https://open.spotify.com/track/0LlFMKD7MAHwOqkIBsHui6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/78L6XKTChkf0M5SK3oogk3) | 2:45 |
 | 47 | [Swangin’ On Westheimer](https://open.spotify.com/track/0sze9rycXZswg5emYTFklv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 4:48 |
 | 48 | [Nice \(feat\. Blxst\)](https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Truth Be Told](https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs) | 3:57 |
-| 49 | [Welcome Back, Dummy](https://open.spotify.com/track/6cm2FXJjs4YtaccHczvN1Y) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [No, I'm Not Ok](https://open.spotify.com/album/6O3xoiaAe3klssyrO17uNS) | 2:23 |
+| 49 | [Welcome Back, Dummy](https://open.spotify.com/track/6cm2FXJjs4YtaccHczvN1Y) | [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [No, I'm Not Ok](https://open.spotify.com/album/6O3xoiaAe3klssyrO17uNS) | 2:23 |
 | 50 | [more than a trend](https://open.spotify.com/track/0yk8VLT5BXbqHK8DZD3xUg) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 1:36 |
 
 Snapshot ID: `MTY1MzAxOTIwMCwwMDAwMDUxNDAwMDAwMTgwZGY5ZjRhZjEwMDAwMDE4MDczNGY2NjUw`

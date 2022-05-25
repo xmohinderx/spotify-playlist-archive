@@ -4,7 +4,7 @@
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Eslabón Armado en portada.
 
-54 songs - 3 hr 6 min - not published yet
+54 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/7yuqccTYEQrtqPBOlPtt5b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

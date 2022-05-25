@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Jason Derulo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,438,545 likes - 95 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,439,638 likes - 95 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 4 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
 | 5 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 |
 | 6 | [Love Again](https://open.spotify.com/track/5CSKbHjpqborGnlzagyaDo) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 4:18 |
-| 7 | [In The Dark](https://open.spotify.com/track/2zGinlHrvcbx1Qd62jTxSX) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In The Dark](https://open.spotify.com/album/10KWcwFecNUCxrJYB5WdFR) | 3:05 |
+| 7 | [In the Dark](https://open.spotify.com/track/2zGinlHrvcbx1Qd62jTxSX) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In The Dark](https://open.spotify.com/album/10KWcwFecNUCxrJYB5WdFR) | 3:05 |
 | 8 | [UP](https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [UP](https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy) | 2:28 |
 | 9 | [Where Did You Go?](https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go?](https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA) | 2:57 |
 | 10 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 |

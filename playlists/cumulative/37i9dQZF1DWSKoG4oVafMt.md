@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-339 songs - 18 hr 43 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+341 songs - 18 hr 49 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Pasand Bangi](https://open.spotify.com/track/0PQkxMXbAWaqRZfdLxeamN) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Pasand Bangi](https://open.spotify.com/album/2PJPQ8mRBTPVOreuUDTJ2X) | 3:45 | 2021-12-02 |  |
 | [Password](https://open.spotify.com/track/1rM0PeiGbNxzCZ1ilf71d8) | [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n) | [Password](https://open.spotify.com/album/0lxZ4cOQs3JYsii2lyKacl) | 3:57 | 2022-03-22 | 2022-04-06 |
 | [Peg Patiala](https://open.spotify.com/track/1T2zltv44cifAqZIbG3D2N) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Arash Chhina](https://open.spotify.com/artist/6Sy6FzlKYR4MeDoTgfMyom) | [Peg Patiala](https://open.spotify.com/album/5avTKrtiB7J3HbUWYGStQB) | 3:06 | 2022-02-28 | 2022-04-06 |
+| [Pehli Mulaqat](https://open.spotify.com/track/6KulvwatdDaRJ0CCGiKeXP) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Pehli Mulaqat](https://open.spotify.com/album/52l5tIJYvJUCiTOn1OSjOu) | 3:01 | 2022-05-24 |  |
 | [Pehli Mulaqat \(From "Main Te Bapu"\)](https://open.spotify.com/track/2WzzdfuJuo5SayCuDn7Qoz) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [Pehli Mulaqat \(From "Main Te Bapu"\)](https://open.spotify.com/album/3kXYgc782J3ItogKA3db6n) | 2:51 | 2022-04-12 | 2022-04-29 |
 | [Perfect](https://open.spotify.com/track/31XW6duAPURc4PBLFD3hUu) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Perfect](https://open.spotify.com/album/3azqNOHGjcHr3ONccmxHDO) | 2:46 | 2021-12-02 | 2022-04-06 |
 | [Phone](https://open.spotify.com/track/5uJwszrqcBrS9q1oUv5rdk) | [Kapil Sahdev](https://open.spotify.com/artist/2Biq9oFdCwH1OitFH5UUrC), [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss) | [Phone](https://open.spotify.com/album/4O1D3WKo52DUEDap6dtQ6e) | 3:34 | 2022-01-10 | 2022-02-01 |
@@ -309,6 +310,7 @@
 | [Tera Mera Naam Sohneya](https://open.spotify.com/track/1bFVCInSueN98L8ZznsyNV) | [Zehan](https://open.spotify.com/artist/09l3GeDkzqXrRgagVYse8p), [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Yuvika Chaudhary](https://open.spotify.com/artist/2xWgTpxwqLZegsJEj5ZAUr) | [Tera Mera Naam Sohneya](https://open.spotify.com/album/4yFECPIHENwJoE3cPtUga8) | 3:26 | 2022-04-15 | 2022-04-29 |
 | [Tere Bina](https://open.spotify.com/track/47G3rE1gZFI4BjEcvIsrWf) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 4:04 | 2022-05-06 | 2022-05-20 |
 | [Tere Ishq](https://open.spotify.com/track/4GcQFPAETFTHERnYDu20tY) | [Vikramjit Singh](https://open.spotify.com/artist/7uE6DV8GsiipYewmMmqFq6), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Tere Ishq](https://open.spotify.com/album/6hGVTEOYm2IG7BJATIJ1LA) | 5:25 | 2022-02-11 | 2022-04-06 |
+| [Tere Piche Piche](https://open.spotify.com/track/3krr3rOsQe2ZowvTlByHpv) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Tere Piche Piche](https://open.spotify.com/album/6HcvxprkiYjBaRma5lkp0X) | 2:52 | 2022-05-24 |  |
 | [Teri Khair Mangaan](https://open.spotify.com/track/1d5WDpIIi6lxYdKlh2GolI) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Deeba Kiran](https://open.spotify.com/artist/3JQr8bw6qBKg1snoIe6cZv) | [Teri Khair Mangaan](https://open.spotify.com/album/6XPN1xzy7xQYYRtRAkkdfO) | 4:10 | 2022-02-11 | 2022-02-19 |
 | [Teri Sardarni](https://open.spotify.com/track/3W4dGZMlTGDAfB3WoSI3qA) | [Kay Vee Singh](https://open.spotify.com/artist/52sAo4U0x2dfde5UYFDU2n) | [Teri Sardarni](https://open.spotify.com/album/3ruy1JXCCcVL4mfQlkjiuG) | 3:47 | 2021-12-02 | 2022-02-01 |
 | [Titliaan](https://open.spotify.com/track/1980E4Grgu5xAhNbFZ1mb1) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Sargun Mehta](https://open.spotify.com/artist/5rOZMdrXGCOXnmmCICga2Z) | [Titliaan](https://open.spotify.com/album/1Wh4r7BE6zZogUSTcMtiku) | 3:15 | 2021-12-02 | 2022-02-01 |

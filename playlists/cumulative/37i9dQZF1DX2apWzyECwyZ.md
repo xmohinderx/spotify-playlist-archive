@@ -4,7 +4,7 @@
 
 > Yo Hago Lo Que Me Da La Gana
 
-120 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/2oRRt5n35mCQnCecgmXO5z)
+121 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/2oRRt5n35mCQnCecgmXO5z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [No Me Conoce \- Remix](https://open.spotify.com/track/7rknFhrVDyxzTJkPSf7LoW) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [No Me Conoce \(Remix\)](https://open.spotify.com/album/2t2aNgqXTXuCh9fqT05g9U) | 5:07 | 2022-05-06 |  |
 | [No Te Hagas](https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [No Te Hagas](https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu) | 3:53 | 2022-05-06 |  |
 | [ODIO](https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:30 | 2022-05-06 |  |
+| [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-24 |  |
 | [Original](https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Original](https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3) | 4:06 | 2022-05-06 |  |
 | [Otra Noche en Miami](https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:53 | 2022-05-06 |  |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-05-06 |  |

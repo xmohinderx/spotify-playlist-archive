@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > La scena italiana indipendente, senza etichette di genere\. Cover: Forse Danzica
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,922 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,939 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 6 | [L'amore su Tinder](https://open.spotify.com/track/5epRVbuwPkQBzG9WhMGcJJ) | [Nane'](https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM) | [L'amore su Tinder](https://open.spotify.com/album/52F2qZX6vqgGh8jbuv5kmc) | 2:23 |
 | 7 | [Piccoli problemi](https://open.spotify.com/track/0l4AdVfyK4ZI1aNqomkrqA) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Piccoli problemi](https://open.spotify.com/album/4fdrb9tRtt4mfIFCzBGzZ2) | 2:59 |
 | 8 | [Hard Tarantella](https://open.spotify.com/track/178YagFa1fETe8OgcscaOw) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [XXYBRID](https://open.spotify.com/album/7HZLxzOOyomjSwoJA0bvKL) | 5:05 |
-| 9 | [NON MI MANCHERÀ](https://open.spotify.com/track/4DCFKVrzCozNnViabJHLqN) | [KLEN SHEET](https://open.spotify.com/artist/6OjU7XIpsUSL4yvrlKSIkb) | [NON MI MANCHERÀ](https://open.spotify.com/album/6Wu3HEdVUbmwZ2BICF09KI) | 4:39 |
+| 9 | [NON MI MANCHERÀ](https://open.spotify.com/track/4DCFKVrzCozNnViabJHLqN) | [KLEN SHEET](https://open.spotify.com/artist/6OjU7XIpsUSL4yvrlKSIkb), [Goldreick](https://open.spotify.com/artist/0UJ6nopuHJk9q7addrnFhD), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP), [maggio](https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q), [GIUMO](https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90) | [NON MI MANCHERÀ](https://open.spotify.com/album/6Wu3HEdVUbmwZ2BICF09KI) | 4:39 |
 | 10 | [sottosopra](https://open.spotify.com/track/3XLlNaKrCllDtrQaFLb0dG) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2) | [sottosopra](https://open.spotify.com/album/6moVQ2cDgTKftRE7o4uzXM) | 2:35 |
-| 11 | [Bambola Voodoo](https://open.spotify.com/track/6JMMfFMl3Y6Jo2CZMWGqIQ) | [Alek](https://open.spotify.com/artist/25i9mkJDNO9q6QbvwV1IuH) | [Bambola Voodoo](https://open.spotify.com/album/4YB2aocfThCA4TwEBCxoKK) | 2:32 |
+| 11 | [Bambola Voodoo](https://open.spotify.com/track/6JMMfFMl3Y6Jo2CZMWGqIQ) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Bambola Voodoo](https://open.spotify.com/album/4YB2aocfThCA4TwEBCxoKK) | 2:32 |
 | 12 | [OSHILLANDO](https://open.spotify.com/track/1Cs7Oazl4HcOM6mxBCQ4VX) | [Tonino3000](https://open.spotify.com/artist/3lmaY64jiPo0uqfLleWX1E), [La Siepe](https://open.spotify.com/artist/1RwER3uO3nJj1KEeeXTtme) | [OSHILLANDO](https://open.spotify.com/album/3Y10kwsCYiafagyaxiGdRI) | 3:13 |
 | 13 | [Foot Forward](https://open.spotify.com/track/3Dm9mSyalSfqHdUPX5TLyR) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Foot Forward](https://open.spotify.com/album/6e3Yr0Yj7NM3ejYig0CyMK) | 2:34 |
 | 14 | [stanza](https://open.spotify.com/track/17o45MbE29kKZoGpWh2YvN) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [I](https://open.spotify.com/album/7vbidq5v7PoumjBZhzHfJ0) | 5:25 |

@@ -4,7 +4,7 @@
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: Trueno
 
-97 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
+98 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Requisito 420](https://open.spotify.com/track/5gBstAsizJCElj5GZiYaXO) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Requisito 420](https://open.spotify.com/album/0qUMeOVnDA8pRLJsulFYTG) | 3:22 | 2022-04-21 |  |
 | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj) | 8:39 | 2022-03-04 |  |
 | [Se Me Olvidó](https://open.spotify.com/track/7xLYLM5K6S1TwiSdfuhZQg) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Se Me Olvidó](https://open.spotify.com/album/395Nz8wkDHb8ebR6mMagdf) | 3:40 | 2021-12-30 |  |
+| [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4), [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY) | 3:16 | 2022-05-25 |  |
 | [Sirena](https://open.spotify.com/track/5jeWGw9WMX68R8hNqdriOv) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Sirena](https://open.spotify.com/album/0dTFJm1H9hKxR6RUPiflhS) | 3:51 | 2022-01-31 |  |
 | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an) | 2:57 | 2021-12-30 |  |
 | [Socios](https://open.spotify.com/track/7d8TPVWQLeW5PKrAb76V3N) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Socios](https://open.spotify.com/album/3IYCbkM8mwDnRjlpA6ltIj) | 4:03 | 2021-12-30 | 2022-01-14 |

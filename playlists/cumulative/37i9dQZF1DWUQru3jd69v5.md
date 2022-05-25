@@ -4,7 +4,7 @@
 
 > La nuova generazione di rapper italiani\. Cover: Kid Yugi
 
-69 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+70 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [DOPE](https://open.spotify.com/track/5AmUo8F3AVbhV24WUm1s9M) | [G.Issa](https://open.spotify.com/artist/7gU8RwGw5k4wbutDIrIimI), [Maggy](https://open.spotify.com/artist/4Y069eNjl2OxbwqsJghHHn) | [DOPE](https://open.spotify.com/album/2XQW0WCBXLN3OjcT2Dyleu) | 2:04 | 2022-05-10 | 2022-05-13 |
 | [Drillin'](https://open.spotify.com/track/5yMYtbypj4UNornVo4zwGf) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Drillin'](https://open.spotify.com/album/35RjfCOtW30zX04JiqxPMp) | 2:38 | 2022-05-10 |  |
 | [DRUG DEALER](https://open.spotify.com/track/1VZMjXdmyH6WvBFJeIDuG1) | [AF6914](https://open.spotify.com/artist/2nSxU1GDMM5V87yXKVnGsz) | [DRUG DEALER](https://open.spotify.com/album/0DpRoF12BKXnso55BfjJYQ) | 2:17 | 2022-05-10 |  |
+| [EGO](https://open.spotify.com/track/6i88tx7811AzFNDknwILat) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/0iJVjnO4uw4vTJImGTwyXb) | 2:51 | 2022-05-24 |  |
 | [FREDDO AD AGOSTO](https://open.spotify.com/track/6WTZTKzfegWUhn6XsFLbJC) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU) | [TEMPESTA DI LACRIME](https://open.spotify.com/album/0cE7IGkRpzgEgr88JOcZ2Q) | 2:55 | 2022-05-12 |  |
 | [FREDDO IN CASA](https://open.spotify.com/track/0ygctJYNSmiOLUKD2XATX9) | [Bubu Doc](https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi), [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb) | [FREDDO IN CASA](https://open.spotify.com/album/1FHsgpOLB7Gx0pNV1pGMXM) | 2:41 | 2022-05-10 |  |
 | [G CLASS](https://open.spotify.com/track/2s2slPHRcUQSYsOrlNhN5c) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [G CLASS](https://open.spotify.com/album/5i8sSSUmC6NMJd70gLS4Hn) | 2:25 | 2022-05-19 |  |
@@ -68,7 +69,7 @@
 | [Sentimenti](https://open.spotify.com/track/7sJRzuQqgVClgfFlnQbmxO) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Sentimenti](https://open.spotify.com/album/4qzdxKWxQUzxtXAwqbWFBx) | 2:38 | 2022-05-10 |  |
 | [SENTINELLE](https://open.spotify.com/track/4l1CHvnhxrktFLxAR34f8z) | [Piccolo Plug](https://open.spotify.com/artist/087NKpXhjsgavyDxM3vWzm) | [SENTINELLE](https://open.spotify.com/album/6oZY9U6bofUkhIXPzQ2nlJ) | 2:55 | 2022-05-10 |  |
 | [Senza Invito](https://open.spotify.com/track/69He6CqCLPkym4XLGd2vOJ) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Wairaki](https://open.spotify.com/artist/7IB3VckCEheDZlvQxCDLvr) | [Senza Invito](https://open.spotify.com/album/1hmflQiiBLzPu016EDz5vN) | 3:13 | 2022-05-12 |  |
-| [SIDE HOE](https://open.spotify.com/track/5OjDS0tM4rmKe677fLvBL5) | [ZE7E](https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n) | [SIDE HOE](https://open.spotify.com/album/1ntgh7yEXIbKrb73KWz3yr) | 2:09 | 2022-05-12 |  |
+| [SIDE HOE](https://open.spotify.com/track/5OjDS0tM4rmKe677fLvBL5) | [ZE7E](https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n) | [SIDE HOE](https://open.spotify.com/album/1ntgh7yEXIbKrb73KWz3yr) | 2:09 | 2022-05-12 | 2022-05-25 |
 | [Sig Sauer](https://open.spotify.com/track/5osZJMzHRegoA9y5rUOua4) | [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0) | [Sig Sauer](https://open.spotify.com/album/5Xb2J3wUNG6B7KZD1397bi) | 2:09 | 2022-05-10 | 2022-05-20 |
 | [Tiki Taka](https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Tiki Taka](https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa) | 2:20 | 2022-05-10 |  |
 | [TOO EASY](https://open.spotify.com/track/1Q2UkGQukIQeUnG93LD3WM) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Friman](https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ) | [TOO EASY](https://open.spotify.com/album/0b78aAZFHgjxwXgKGDey1f) | 3:21 | 2022-05-10 |  |

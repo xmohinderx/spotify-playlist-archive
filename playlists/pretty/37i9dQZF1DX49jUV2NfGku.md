@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49jUV2NfGku.md) - [plain]
 
 > New classics and essential cuts from all your favorite rock bands\. Cover: Foo Fighters
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,319,253 likes - 85 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,319,523 likes - 85 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

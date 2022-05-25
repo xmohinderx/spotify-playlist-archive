@@ -4,7 +4,7 @@
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-75 songs - 3 hr 59 min - not published yet
+75 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/6t9dYU0lb5Dzk8M8t6oooM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

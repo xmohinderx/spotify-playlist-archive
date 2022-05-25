@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,861 likes - 141 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,874 likes - 141 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

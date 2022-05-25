@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 242628,
       "name": "Bae (From \"Don\")",
       "url": "https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 220350,
       "name": "Beast Mode (From \"Beast\")",
       "url": "https://open.spotify.com/track/1aQ58u4guUf999iQX3J2HF"
@@ -1495,7 +1495,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 205040,
       "name": "Chauffeur",
       "url": "https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB"
@@ -3261,7 +3261,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 238252,
       "name": "Hum Nashe Mein Toh Nahin (From \"Bhool Bhulaiyaa 2\")",
       "url": "https://open.spotify.com/track/6XZWokIxs4leaSmXmU8b26"
@@ -3798,6 +3798,24 @@
     },
     {
       "album": {
+        "name": "Jhoom",
+        "url": "https://open.spotify.com/album/7gITB9pwcGy6027YxnAHsM"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298986,
+      "name": "Jhoom - R&B Mix",
+      "url": "https://open.spotify.com/track/6zAvNLJkdyRApUHnlJjKfO"
+    },
+    {
+      "album": {
         "name": "Jolly O Gymkhana (From \"Beast\")",
         "url": "https://open.spotify.com/album/2mtWpU8LaaIDWGA3dtGEUC"
       },
@@ -3879,7 +3897,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 230400,
       "name": "Jugnu",
       "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
@@ -5943,7 +5961,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 147200,
       "name": "Oouuu",
       "url": "https://open.spotify.com/track/4hAmLeBT1Ryk2oxSMMiJ7z"
@@ -8369,7 +8387,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 218823,
       "name": "Vikram - Title Track",
       "url": "https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1"

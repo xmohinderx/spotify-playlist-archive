@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 243693,
       "name": "As The Days Go By",
       "url": "https://open.spotify.com/track/6Db0KKhX0PyugOXLUrDqXH"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 335840,
       "name": "Back In The High Life Again",
       "url": "https://open.spotify.com/track/6zMFFCHNg2H5FdBWMfcBkZ"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 185960,
       "name": "Brass in Pocket - 2006 Remaster",
       "url": "https://open.spotify.com/track/2hvOsGJc6qll4WzW8Ljqc3"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 273720,
       "name": "Come On Eileen",
       "url": "https://open.spotify.com/track/5uzNa0SBGOe5pPnstWHMCt"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 171266,
       "name": "Hit Me With Your Best Shot",
       "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 243093,
       "name": "I'm Your Man",
       "url": "https://open.spotify.com/track/2gG7E5OZi5D5QLRIctv63z"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 261893,
       "name": "Let's Hear It for the Boy - From \"Footloose\" Soundtrack",
       "url": "https://open.spotify.com/track/5kaF88lat4fWUiDXP6G48M"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 254200,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/0d4DyZYCiSH5fNnc0Hfz3L"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 194146,
       "name": "Old Time Rock & Roll",
       "url": "https://open.spotify.com/track/1lhpxZT57yw5toGJtt8fGE"
@@ -1183,7 +1183,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 222866,
       "name": "One Summer",
       "url": "https://open.spotify.com/track/3cU8I44fRvC1b2MD8pClL9"
@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 247333,
       "name": "She Has to Be Loved",
       "url": "https://open.spotify.com/track/7J170T0QGtd18ii8vHXk2e"
@@ -1489,7 +1489,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 253253,
       "name": "That's When I Think of You",
       "url": "https://open.spotify.com/track/33q2gObaCllLh0Yt05Tsu7"
@@ -1507,7 +1507,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 329800,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
@@ -1550,6 +1550,24 @@
     },
     {
       "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217906,
+      "name": "The Longest Time",
+      "url": "https://open.spotify.com/track/5DH7nDryMhpixm4G4B7RP9"
+    },
+    {
+      "album": {
         "name": "Wanted",
         "url": "https://open.spotify.com/album/1yHgARlOz9tenR7UONuPgs"
       },
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 234333,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 241400,
       "name": "You Win Again",
       "url": "https://open.spotify.com/track/19dL5Zj3Gxr6RGQHlAXxyF"

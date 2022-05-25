@@ -4,7 +4,7 @@
 
 > The biggest 2010s throwback anthems of the decade from Beyoncé, Alicia Keys, John Legend and many more\. Image: Harry Styles.
 
-190 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/4urElZ9y19mvfNZKk2dRwe)
+191 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/4urElZ9y19mvfNZKk2dRwe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Blank Space](https://open.spotify.com/track/2ls70nUDfjzm1lSRDuKxmw) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/5fy0X0JmZRZnVa2UEicIOl) | 3:51 | 2020-10-20\* | 2022-01-01 |
 | [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 4:22 | 2021-02-12 |  |
 | [Braveheart](https://open.spotify.com/track/0XUvhSzizkEtPgBr1BZ2an) | [Neon Jungle](https://open.spotify.com/artist/0JEvQJxxsnNUo6LQygr4AL) | [Welcome to the Jungle \(Deluxe\)](https://open.spotify.com/album/5cA9DE1YE50J95RETKQk9v) | 3:44 | 2020-11-20 |  |
+| [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 | 2022-05-24 |  |
 | [Breakeven](https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:21 | 2020-10-20\* | 2021-10-05 |
 | [Budapest](https://open.spotify.com/track/5d0UhOMXSURu2AOV0Oty1u) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Happy Songs](https://open.spotify.com/album/3dYBrvPnWpycwiclPq9Qlf) | 3:21 | 2020-10-20\* |  |
 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:10 | 2020-10-20\* | 2021-03-06 |

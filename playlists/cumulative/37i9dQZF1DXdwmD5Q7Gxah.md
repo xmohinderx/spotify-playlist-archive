@@ -4,7 +4,7 @@
 
 > thanks to the music\. featuring spill tab, ericdoa, harry styles obv, and more...
 
-1,625 songs - 3 day 14 hr 56 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,626 songs - 3 day 14 hr 58 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,7 +593,7 @@
 | [Grateful](https://open.spotify.com/track/7FA0saydWyMkARFkNXAVay) | [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh) | [Cardboard City](https://open.spotify.com/album/4uE7odbSKeUSUBaq7URXXI) | 3:27 | 2020-02-20 | 2020-04-09 |
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2020-10-20 | 2020-12-04 |
 | [Groceries](https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2) | 3:37 | 2019-07-30\* | 2019-09-27 |
-| [Grocery Store Flowers](https://open.spotify.com/track/4yhxiHQB8c78Lik4Y4WOeD) | [Peach Face](https://open.spotify.com/artist/2DQsjDd3AKFmDQjTB2DsKe) | [Stupid Baby](https://open.spotify.com/album/76NIh4XNxWiyv0levciXKH) | 2:44 | 2022-04-08 |  |
+| [Grocery Store Flowers](https://open.spotify.com/track/4yhxiHQB8c78Lik4Y4WOeD) | [Peach Face](https://open.spotify.com/artist/2DQsjDd3AKFmDQjTB2DsKe) | [Stupid Baby](https://open.spotify.com/album/76NIh4XNxWiyv0levciXKH) | 2:44 | 2022-04-08 | 2022-05-25 |
 | [Groundhog Day](https://open.spotify.com/track/7iJCi5gA66aaDYLjmak4dO) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Groundhog Day](https://open.spotify.com/album/4Ldjmrt8HH2KiMdYTnSoAS) | 2:53 | 2021-06-02 | 2021-11-13 |
 | [Grow](https://open.spotify.com/track/7vn3J5Io100bjDdKaW4Aw2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Grow](https://open.spotify.com/album/1Wb2ObyFuJgxT3BwFFUbS6) | 3:44 | 2019-09-20 | 2019-10-03 |
 | [Growing Up](https://open.spotify.com/track/5OCgxL9wr0gLTiBE6525Ma) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Growing Up](https://open.spotify.com/album/0eqJuk0wrFYvVjL9BMfLNl) | 2:25 | 2020-04-28 | 2020-05-22 |
@@ -1551,6 +1551,7 @@
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2021-12-01 | 2022-01-22 |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 5:18 | 2021-11-20 | 2022-01-22 |
 | [Westside](https://open.spotify.com/track/0ruinuAziEcCvPZlnM2MXQ) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Westside](https://open.spotify.com/album/0l1NDJoXdDy8vETVMjuXXx) | 3:00 | 2021-01-29 | 2022-01-08 |
+| [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 | 2022-05-24 |  |
 | [What Dreams Are Made Of](https://open.spotify.com/track/6o7cIyzsfSmcMEuQZQINGH) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [MOJO](https://open.spotify.com/album/3odAp2IVfvcl5NKxCfYIIa) | 4:25 | 2020-01-17 | 2020-07-29 |
 | [What Happened to the Days?](https://open.spotify.com/track/2r0dTPj7NRCZTLVDaZW5Z7) | [Ruben Dawnson](https://open.spotify.com/artist/4TyxwOt2w5n4gNtGRwUMKy) | [What Happened to the Days?](https://open.spotify.com/album/2RIRKk9d9DIx98W0WA1qk7) | 3:10 | 2019-08-10 | 2020-02-05 |
 | [What Is Going On?](https://open.spotify.com/track/5Jmriws1uT4kPjz4elIExl) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What Is Going On?](https://open.spotify.com/album/4HTLtjUFQP21ZnmIjMrA40) | 3:27 | 2021-03-19 | 2021-05-19 |

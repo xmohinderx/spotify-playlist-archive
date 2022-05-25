@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,972 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,119 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 29 | [2001](https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2001](https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX) | 4:26 |
 | 30 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 |
 | 31 | [for the girls](https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [for the girls](https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB) | 2:38 |
-| 32 | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Bim Amoako\-Gyampah](https://open.spotify.com/artist/5HbGyTf9SWq76VNWmirjqi) | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
+| 32 | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
 | 33 | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer) | 2:58 |
 | 34 | [Body](https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Body](https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk) | 3:30 |
 | 35 | [The Best Is Yet To Come](https://open.spotify.com/track/6A5zWnkFR96Z4SJPon9KjD) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Best Is Yet To Come](https://open.spotify.com/album/2zs4alV54L7X8B0lNghrG7) | 3:03 |
 | 36 | [Samba](https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Samba](https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt) | 2:27 |
 | 37 | [In The Honey](https://open.spotify.com/track/5xpj4aOhZwCpnFQiqxQbFb) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [In The Honey](https://open.spotify.com/album/3mWXx6PEd3oqgBsjlTV4Lb) | 2:53 |
 | 38 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 |
-| 39 | [Madness \(feat\. Zak Abel\)](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness \(feat\. Zak Abel\)](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
+| 39 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
 | 40 | [Throw a Lil Mo \(Do It\)](https://open.spotify.com/track/68Smyg3JQ1msbItYvplaXD) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Throw a Lil Mo \(Do It\)](https://open.spotify.com/album/1TFnaUsUuZ35fNYguyU0Qo) | 2:05 |
 
 Snapshot ID: `MTY1MzM0NzA3MSwwMDAwMDE4MTAwMDAwMTgwZjMyYTM1OTAwMDAwMDE4MGYzMjcwN2E1`

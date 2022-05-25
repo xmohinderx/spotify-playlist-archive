@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Mark de Clive\-Lowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,636 likes - 64 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,685 likes - 64 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 5 | [SHADES](https://open.spotify.com/track/5NT7EAQxPFb7M5zHwt7ho8) | [Silvan Strauss](https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN) | [SHADES](https://open.spotify.com/album/5zZ7jeoRG8V9EqOLyIkBNg) | 2:03 |
 | 6 | [Robes of Silk](https://open.spotify.com/track/3vfXbESUAJAAEWrPFoNFgj) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Robes of Silk](https://open.spotify.com/album/5CgJDWk4r7B2lBDSSraI80) | 3:46 |
 | 7 | [The Soul of Things](https://open.spotify.com/track/43bu6Gf4x8MWZYfrTLxL7d) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Granat Session Vol\. II](https://open.spotify.com/album/5zPX6YHeIh6D6yQ7u9zR9l) | 2:30 |
-| 8 | [Other Jewels](https://open.spotify.com/track/7IwDt0MKLtSatSUCyzvPy6) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogenen](https://open.spotify.com/artist/0vYkIFXZpWVW7Lh1GTgXWA), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [Other Jewels](https://open.spotify.com/album/0KcDJAC3z1lDxTlbUtqydr) | 5:47 |
+| 8 | [Other Jewels](https://open.spotify.com/track/7IwDt0MKLtSatSUCyzvPy6) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [Other Jewels](https://open.spotify.com/album/0KcDJAC3z1lDxTlbUtqydr) | 5:47 |
 | 9 | [Not Today](https://open.spotify.com/track/7echOKVdRQpEv3tZrEP7Dd) | [Michael Orenstein](https://open.spotify.com/artist/6tjKMFk0e0nmFumLhYR64B), [Barclay Moffitt](https://open.spotify.com/artist/0Hef8JN3w6jXxbo6fVBn6d), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl) | [Aperture](https://open.spotify.com/album/3Tc8EnBdCq3i9iqk1SmXMb) | 6:00 |
 | 10 | [I Think of You](https://open.spotify.com/track/5O7gq2BSiX0UhDgPMLbayr) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD), [Kristian Leth](https://open.spotify.com/artist/1CIFDAKpTPZH16rWPZMRf5) | [Classics](https://open.spotify.com/album/5nqCI1rOU2bhoTNAmxU0jM) | 7:03 |
 | 11 | [Wave Decay](https://open.spotify.com/track/4lBKAEQXVzaicd1FLy83Lu) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Wave Decay](https://open.spotify.com/album/1CmKCXUb6mRilW1KHYUJTh) | 4:51 |

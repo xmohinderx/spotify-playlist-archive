@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Dj Matt D, Ryan SP, Menor MC
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,960 likes - 69 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,061 likes - 69 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 22 | [Luisa Sonza](https://open.spotify.com/track/1KTBGSbVagQL2auTnNgmoR) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK), [DatBoyTwnty](https://open.spotify.com/artist/0akggygiwaeyMsg0yQ13wy) | [Luisa Sonza](https://open.spotify.com/album/7DKaKvHaWIr1jsQOT5csOq) | 3:07 |
 | 23 | [Perdas e Ganhos](https://open.spotify.com/track/3xlqFbc3jPSSXqHDUQZAYW) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Laïoung](https://open.spotify.com/artist/4RrtqH6egYYBfJrnLkhINz) | [Perdas e Ganhos](https://open.spotify.com/album/0ddFGrL2MQCFilzKT7W8Vp) | 3:25 |
 | 24 | [Vampiro](https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Vampiro](https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy) | 4:10 |
-| 25 | [Sniper Americano](https://open.spotify.com/track/2vrQxbiEHYj8hZ9zCoBluh) | [ZAG](https://open.spotify.com/artist/61H6f0WzgLeZVJDIWwmlQO), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS) | [Sniper Americano](https://open.spotify.com/album/6o9CqGDOX0sDmmdQK45IMz) | 2:18 |
+| 25 | [Sniper Americano](https://open.spotify.com/track/2vrQxbiEHYj8hZ9zCoBluh) | [ZAG](https://open.spotify.com/artist/61H6f0WzgLeZVJDIWwmlQO), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [JR ON](https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS) | [Sniper Americano](https://open.spotify.com/album/6o9CqGDOX0sDmmdQK45IMz) | 2:18 |
 | 26 | [Longe dos Falsos](https://open.spotify.com/track/4rGzXzn5pUmf96MnX185pH) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Longe dos Falsos](https://open.spotify.com/album/46PJMPLnYVB5cdFnep1AWf) | 3:19 |
 | 27 | [Ô Mãe](https://open.spotify.com/track/37A1beEC95fCBRge23pSFT) | [Aleck Johnson](https://open.spotify.com/artist/4OFzvi3IhVihDXIEo6T5QA) | [Ô Mãe](https://open.spotify.com/album/45bkXD1V749cJEXenlh6fU) | 2:12 |
 | 28 | [Marquinha](https://open.spotify.com/track/4CvoPPB7Rcf600XgehVs37) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Dj Nene](https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM) | [Marquinha](https://open.spotify.com/album/5KyezC5oKpxNtgsTFGfFv3) | 4:27 |

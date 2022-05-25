@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia\. Cover: Slings
 
-62 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
+63 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-05-09 |  |
 | [Caos](https://open.spotify.com/track/5ychvxJuts6RyjQz2aoXqY) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 2:59 | 2022-05-09 |  |
 | [CASA](https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CASA](https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq) | 3:17 | 2022-05-09 |  |
+| [ch1 5ei te](https://open.spotify.com/track/0tRj4m46GRFrBS7IsbS0Gk) | [tha Supreme](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 3:03 | 2022-05-24 |  |
 | [Ciao Baby](https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:06 | 2022-05-19 |  |
 | [Cocaine](https://open.spotify.com/track/5xIlm5Scz7D2UFo6RyMMQE) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 3:05 | 2022-05-09 | 2022-05-13 |
 | [COSA NOSTRA \(feat\. Paky\)](https://open.spotify.com/track/02PjSmx4OB3qsc8Qt3cV1J) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [COSA NOSTRA](https://open.spotify.com/album/0QNI86lT5srJbTLWTWOnFH) | 2:53 | 2022-05-09 | 2022-05-20 |
@@ -33,7 +34,7 @@
 | [Guess Who's Back](https://open.spotify.com/track/2jWBTpS709oRAG7GwbPU8X) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [Guess Who's Back](https://open.spotify.com/album/2G9p4nrpfNHzjg1QLEaxTr) | 3:13 | 2022-05-09 | 2022-05-13 |
 | [Italiano Anthem](https://open.spotify.com/track/0oMq1JmynUHMCOfH40k7B8) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Italiano Anthem](https://open.spotify.com/album/0lv5APWWEFXdXjUXNOKaZx) | 2:15 | 2022-05-09 |  |
 | [K.O\. \(feat\. Coez & Marracash\)](https://open.spotify.com/track/7sYJw5AwPw30ZyLdvuEtg0) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:10 | 2022-05-12 | 2022-05-20 |
-| [LAPROVINCE \#1](https://open.spotify.com/track/2Z9uQAn8v8m6ZPFh4bsqY4) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [LAPROVINCE \#1](https://open.spotify.com/album/3THjA1Ova7s3TevMi65qTS) | 2:38 | 2022-05-09 |  |
+| [LAPROVINCE \#1](https://open.spotify.com/track/2Z9uQAn8v8m6ZPFh4bsqY4) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [LAPROVINCE \#1](https://open.spotify.com/album/3THjA1Ova7s3TevMi65qTS) | 2:38 | 2022-05-09 | 2022-05-25 |
 | [LAPROVINCE \#2](https://open.spotify.com/track/3eBjQXQ5CuRaUbKXj9WIVJ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [LAPROVINCE \#2](https://open.spotify.com/album/1WhTXqgT1roQzqSCYnrnSH) | 1:56 | 2022-05-22 |  |
 | [Le Pietre Non Volano \(feat\. Marracash\)](https://open.spotify.com/track/3iV5VVzcAcqyCGy5u4ZlbP) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 4:59 | 2022-05-09 |  |
 | [Ma Jolie \(feat\. ANNA\)](https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Ma Jolie \(feat\. ANNA\)](https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz) | 2:38 | 2022-05-09 |  |

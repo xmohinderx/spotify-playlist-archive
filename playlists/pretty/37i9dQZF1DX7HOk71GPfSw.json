@@ -1,12 +1,12 @@
 {
   "description": "Cover: ericdoa",
-  "num_followers": 321180,
+  "num_followers": 321340,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzA1MjE0NSwwMDAwMDE2NDAwMDAwMTgwZTE5NWZkY2UwMDAwMDE4MGRkMDY3OTYx",
+  "snapshot_id": "MTY1MzQxMzM5NywwMDAwMDE2NTAwMDAwMTgwZjcxZTQ0ZjAwMDAwMDE4MGRkMDY3OTYx",
   "tracks": [
     {
       "added_at": "2022-05-20 06:10:00",
@@ -69,6 +69,22 @@
       "url": "https://open.spotify.com/track/13oXjTxej0sc8J8rG8rPOC"
     },
     {
+      "added_at": "2022-05-20 06:10:00",
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/7zAwmUBWwTIuRfzjcSj07T"
+      },
+      "artists": [
+        {
+          "name": "dwilly",
+          "url": "https://open.spotify.com/artist/3XyvBNwsPBVhCXoYLNNQ84"
+        }
+      ],
+      "duration_ms": 140869,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/5C3uNuSKnkDwV2xUqFIiZp"
+    },
+    {
       "added_at": "2022-05-13 04:17:00",
       "album": {
         "name": "search result",
@@ -107,38 +123,6 @@
     {
       "added_at": "2022-05-20 06:10:00",
       "album": {
-        "name": "Claymore",
-        "url": "https://open.spotify.com/album/41ESiG8tvMrJ86DjepfG87"
-      },
-      "artists": [
-        {
-          "name": "jahhlu",
-          "url": "https://open.spotify.com/artist/1tJMWhiAkVXu3t60d1uIxU"
-        }
-      ],
-      "duration_ms": 147120,
-      "name": "Claymore",
-      "url": "https://open.spotify.com/track/4gtaDdEVxnfOZDJ5OakZxd"
-    },
-    {
-      "added_at": "2022-05-20 06:10:00",
-      "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/7zAwmUBWwTIuRfzjcSj07T"
-      },
-      "artists": [
-        {
-          "name": "dwilly",
-          "url": "https://open.spotify.com/artist/3XyvBNwsPBVhCXoYLNNQ84"
-        }
-      ],
-      "duration_ms": 140869,
-      "name": "dopamine",
-      "url": "https://open.spotify.com/track/5C3uNuSKnkDwV2xUqFIiZp"
-    },
-    {
-      "added_at": "2022-05-20 06:10:00",
-      "album": {
         "name": "ENOUGH!",
         "url": "https://open.spotify.com/album/65vsaiM0kbE1ZEzUn7cj2s"
       },
@@ -159,6 +143,74 @@
       "duration_ms": 97170,
       "name": "ENOUGH!",
       "url": "https://open.spotify.com/track/4WLHZdwcQTzfG8dJN8EP3Z"
+    },
+    {
+      "added_at": "2022-05-13 04:17:00",
+      "album": {
+        "name": "Be Your USA",
+        "url": "https://open.spotify.com/album/4VwWemQ4ZCtpP4KUncbUiS"
+      },
+      "artists": [
+        {
+          "name": "EASYFUN",
+          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
+        },
+        {
+          "name": "Iiris",
+          "url": "https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv"
+        }
+      ],
+      "duration_ms": 171555,
+      "name": "Be Your USA",
+      "url": "https://open.spotify.com/track/0JJ7yEvbPtv9HvFAqHQ5sK"
+    },
+    {
+      "added_at": "2022-05-13 04:17:00",
+      "album": {
+        "name": "DEVIL IN MY HEAD",
+        "url": "https://open.spotify.com/album/2RZmV3HMX66wfSO6Uekekl"
+      },
+      "artists": [
+        {
+          "name": "valknee",
+          "url": "https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn"
+        }
+      ],
+      "duration_ms": 133282,
+      "name": "DEVIL IN MY HEAD",
+      "url": "https://open.spotify.com/track/5dmvNunpW65vzsayFi3ZUG"
+    },
+    {
+      "added_at": "2022-01-14 18:09:29",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+      },
+      "artists": [
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        }
+      ],
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
+      "added_at": "2022-05-20 06:10:00",
+      "album": {
+        "name": "Claymore",
+        "url": "https://open.spotify.com/album/41ESiG8tvMrJ86DjepfG87"
+      },
+      "artists": [
+        {
+          "name": "jahhlu",
+          "url": "https://open.spotify.com/artist/1tJMWhiAkVXu3t60d1uIxU"
+        }
+      ],
+      "duration_ms": 147120,
+      "name": "Claymore",
+      "url": "https://open.spotify.com/track/4gtaDdEVxnfOZDJ5OakZxd"
     },
     {
       "added_at": "2022-05-20 06:10:00",
@@ -207,42 +259,6 @@
       "duration_ms": 190125,
       "name": "Suki Sugi Replay",
       "url": "https://open.spotify.com/track/6OFxou5xih3HIdc6P5GPT7"
-    },
-    {
-      "added_at": "2022-05-13 04:17:00",
-      "album": {
-        "name": "Be Your USA",
-        "url": "https://open.spotify.com/album/4VwWemQ4ZCtpP4KUncbUiS"
-      },
-      "artists": [
-        {
-          "name": "EASYFUN",
-          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
-        },
-        {
-          "name": "Iiris",
-          "url": "https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv"
-        }
-      ],
-      "duration_ms": 171555,
-      "name": "Be Your USA",
-      "url": "https://open.spotify.com/track/0JJ7yEvbPtv9HvFAqHQ5sK"
-    },
-    {
-      "added_at": "2022-01-14 18:09:29",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
       "added_at": "2022-05-13 04:17:00",
@@ -317,6 +333,30 @@
       "url": "https://open.spotify.com/track/6kLhilDX44nCibecCJldjP"
     },
     {
+      "added_at": "2022-04-29 06:17:00",
+      "album": {
+        "name": "MISA & LIGHT",
+        "url": "https://open.spotify.com/album/3VuoJuyQGrWF3r1X3zZHLY"
+      },
+      "artists": [
+        {
+          "name": "NXFEIT",
+          "url": "https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k"
+        },
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        },
+        {
+          "name": "Hen848",
+          "url": "https://open.spotify.com/artist/7t908TEGKS05D7xMAsyzqo"
+        }
+      ],
+      "duration_ms": 170860,
+      "name": "MISA & LIGHT",
+      "url": "https://open.spotify.com/track/3x7EyXuAXqSlvu8FH5rYyr"
+    },
+    {
       "added_at": "2022-05-13 04:17:00",
       "album": {
         "name": "Firefly",
@@ -333,6 +373,26 @@
       "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
     },
     {
+      "added_at": "2022-05-11 22:18:32",
+      "album": {
+        "name": "good grief",
+        "url": "https://open.spotify.com/album/5WcXLH8cIFdKcYOU6eIZBj"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        },
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "duration_ms": 171853,
+      "name": "do or die (feat. carolesdaughter)",
+      "url": "https://open.spotify.com/track/5Xzkhj06J4UpzUPBKD9uwU"
+    },
+    {
       "added_at": "2022-05-13 04:17:00",
       "album": {
         "name": "Where You're Not",
@@ -347,22 +407,6 @@
       "duration_ms": 176842,
       "name": "Where You're Not",
       "url": "https://open.spotify.com/track/6WSpAoGTztMwgIbDX9gbSQ"
-    },
-    {
-      "added_at": "2022-05-13 04:17:00",
-      "album": {
-        "name": "DEVIL IN MY HEAD",
-        "url": "https://open.spotify.com/album/2RZmV3HMX66wfSO6Uekekl"
-      },
-      "artists": [
-        {
-          "name": "valknee",
-          "url": "https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn"
-        }
-      ],
-      "duration_ms": 133282,
-      "name": "DEVIL IN MY HEAD",
-      "url": "https://open.spotify.com/track/5dmvNunpW65vzsayFi3ZUG"
     },
     {
       "added_at": "2022-05-11 22:18:32",
@@ -399,26 +443,6 @@
       "duration_ms": 69677,
       "name": "Dicktator",
       "url": "https://open.spotify.com/track/0thryZfIkjcK4HYSYxoKNn"
-    },
-    {
-      "added_at": "2022-05-11 22:18:32",
-      "album": {
-        "name": "good grief",
-        "url": "https://open.spotify.com/album/5WcXLH8cIFdKcYOU6eIZBj"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        },
-        {
-          "name": "carolesdaughter",
-          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
-        }
-      ],
-      "duration_ms": 171853,
-      "name": "do or die (feat. carolesdaughter)",
-      "url": "https://open.spotify.com/track/5Xzkhj06J4UpzUPBKD9uwU"
     },
     {
       "added_at": "2022-05-06 06:31:00",
@@ -491,30 +515,6 @@
       "duration_ms": 202666,
       "name": "MATRIX",
       "url": "https://open.spotify.com/track/0DyEnrW1MGBHA1sRLb2eGp"
-    },
-    {
-      "added_at": "2022-04-29 06:17:00",
-      "album": {
-        "name": "MISA & LIGHT",
-        "url": "https://open.spotify.com/album/3VuoJuyQGrWF3r1X3zZHLY"
-      },
-      "artists": [
-        {
-          "name": "NXFEIT",
-          "url": "https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k"
-        },
-        {
-          "name": "Sillyelly",
-          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
-        },
-        {
-          "name": "Hen848",
-          "url": "https://open.spotify.com/artist/7t908TEGKS05D7xMAsyzqo"
-        }
-      ],
-      "duration_ms": 170860,
-      "name": "MISA & LIGHT",
-      "url": "https://open.spotify.com/track/3x7EyXuAXqSlvu8FH5rYyr"
     },
     {
       "added_at": "2022-05-06 06:31:00",

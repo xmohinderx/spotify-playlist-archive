@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico, con Kevin Kaarl.",
+  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico, con MC Davo y Santa Fe Klan.",
   "name": "\u00c9xitos M\u00e9xico",
   "published_playlist_ids": [
     "63poUoUtwzQDsNKgrO1ZRT"
@@ -1707,7 +1707,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 182187,
       "name": "Par\u00eds",
       "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
@@ -2105,6 +2105,36 @@
       "duration_ms": 255640,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+    },
+    {
+      "album": {
+        "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
+        "url": "https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Eirian Music",
+          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
+        },
+        {
+          "name": "Los Golpes",
+          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
+      "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to Indian women, at full volume\. Cover: Dhvani Bhanushali
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,211 likes - 42 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,404 likes - 42 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

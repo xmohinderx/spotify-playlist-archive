@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HvY4N6ad1ASmFufm8XCPV">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270 likes - 82 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 271 likes - 82 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 43 | [High & Dry](https://open.spotify.com/track/7rqYTfbYrg6GSSRza8KR2k) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Homegrown](https://open.spotify.com/album/6D701PBk88ecP19udi4EJj) | 2:39 |
 | 44 | [EYES SHUT](https://open.spotify.com/track/0YSjTKIEdW0EMNsZc9NJe0) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [FAITH](https://open.spotify.com/album/3iFLeRwYYgD7wq6hDVlw0v) | 3:27 |
 | 45 | [No Love](https://open.spotify.com/track/6dm3UF8yk4Xq64e0u96Tsb) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:33 |
-| 46 | [Candle](https://open.spotify.com/track/32Ka9ZTXBza9SkOWRtiXBO) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Candle](https://open.spotify.com/album/2FQ278LgDLpwbHa49ZmF63) | 3:16 |
-| 47 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 |
+| 46 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 |
+| 47 | [Candle](https://open.spotify.com/track/32Ka9ZTXBza9SkOWRtiXBO) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Candle](https://open.spotify.com/album/2FQ278LgDLpwbHa49ZmF63) | 3:16 |
 | 48 | [Say You Will](https://open.spotify.com/track/24621dQUWcjiLGtxunbyM2) | [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [Salt](https://open.spotify.com/album/1F79OPZHaIXS1eZkkeCTeq) | 3:18 |
 | 49 | [Mind On You](https://open.spotify.com/track/1sgMq9Stjx7OalV09MA7dU) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:32 |
 | 50 | [New Girlfriend](https://open.spotify.com/track/0ceGllCN4PZ6ttayn80HUE) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [New Girlfriend](https://open.spotify.com/album/3Zpdm02aUJtgdpgtCEtVP7) | 2:50 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 81 | [FUCKING MURDER](https://open.spotify.com/track/5seDFLG0mfC2PT2x27xauZ) | [Caroline Vreeland](https://open.spotify.com/artist/5P1LyOIFc1fg1w1Dssiezw) | ['LIKE A WOMAN, LIKE A DRUNKARD, LIKE AN ANIMAL'](https://open.spotify.com/album/5u9NVAXUZsT7wl5Vqj3gmv) | 9:19 |
 | 82 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 
-Snapshot ID: `Mjc1NTU5MTQsMDAwMDAwMDAxMWI2NDMxNTM0MGEyY2IwZWEyZTQ4ZjBkZTc5NGJkZg==`
+Snapshot ID: `Mjc1NTczNTQsMDAwMDAwMDA1N2JkY2I5NmI3MzNlMjZmMjBjM2E1ZDkzOWM5MWUxZQ==`

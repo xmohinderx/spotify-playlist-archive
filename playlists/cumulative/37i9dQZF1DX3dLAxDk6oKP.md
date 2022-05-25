@@ -4,7 +4,7 @@
 
 > Al cien en la mamalona!
 
-132 songs - 6 hr 51 min - not published yet
+133 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/4uNSdy9xu9zOvUZNzYyJAZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [1942](https://open.spotify.com/track/4HNeDJOEoTQqQKUPy88rCL) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF) | [1942](https://open.spotify.com/album/1u6tT1pGTGqdJXmBIagCT9) | 3:57 | 2022-05-13 |  |
 | [38 y Super](https://open.spotify.com/track/2ccEuah5UamtifhUsHoBCR) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:12 | 2022-05-13 |  |
 | [454](https://open.spotify.com/track/4snEKax2xxjTGvalpdNslr) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 2:35 | 2022-05-13 |  |
-| [856 Para El Mundo](https://open.spotify.com/track/3lQ8lid2NpF53Ciuyb2Xdx) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [856 para el Mundo](https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ) | 3:34 | 2022-05-13 | 2022-05-24 |
+| [856 Para El Mundo](https://open.spotify.com/track/3lQ8lid2NpF53Ciuyb2Xdx) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [856 para el Mundo](https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ) | 3:34 | 2022-05-13 |  |
 | [A La Orden \(En Vivo\)](https://open.spotify.com/track/1oy8f5iHt0T4dDCytiPDUU) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [A La Orden \(En Vivo\)](https://open.spotify.com/album/0rKaUscQoEKVfeGn7AedZK) | 2:57 | 2022-05-13 |  |
 | [A Lo Lejos Me Veran](https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:28 | 2022-05-13 |  |
 | [A Mis Enemigos \- En vivo](https://open.spotify.com/track/2gVRncgWzabK2CuqHUvyiE) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 3:07 | 2022-05-13 |  |
@@ -75,7 +75,7 @@
 | [Hay Niveles](https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Hay Niveles](https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL) | 2:02 | 2022-05-13 |  |
 | [Hierba de Receta](https://open.spotify.com/track/3ohXKHyHxxuXo8UsRL3h17) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp) | [Hierba de Receta](https://open.spotify.com/album/7glBSqst3BW6aFpUgwlr9g) | 3:13 | 2022-05-13 |  |
 | [Híbrido](https://open.spotify.com/track/3G7fQTjT7N6cPuBF9m8GDf) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/7CF6hkX3leaeUMnuG7bSQd) | 2:54 | 2022-05-13 |  |
-| [It's Really True](https://open.spotify.com/track/00VarnepizaFbXU56M64QB) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e) | [It's Really True](https://open.spotify.com/album/36SluETnbHuUPXu8ef6Dpc) | 2:51 | 2022-05-13 |  |
+| [It's Really True](https://open.spotify.com/track/00VarnepizaFbXU56M64QB) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e) | [It's Really True](https://open.spotify.com/album/36SluETnbHuUPXu8ef6Dpc) | 2:51 | 2022-05-13 | 2022-05-25 |
 | [JGL](https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [JGL](https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW) | 2:38 | 2022-05-13 |  |
 | [Jugaste y Sufrí](https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 4:35 | 2022-05-13 |  |
 | [La Bicicleta](https://open.spotify.com/track/4IMcI4zguv2V9g1DHbK98T) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Bicicleta](https://open.spotify.com/album/10B51Bzh7TxUcm3t08GpQ1) | 3:45 | 2022-05-13 |  |
@@ -131,14 +131,15 @@
 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 | 2022-05-13 |  |
 | [Te Vas](https://open.spotify.com/track/6E5PU4i61dEahmW37mTtk9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 3:39 | 2022-05-13 |  |
 | [Tirando la H](https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tirando la H](https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod) | 1:59 | 2022-05-13 |  |
-| [Todos Hablan, Nada Saben](https://open.spotify.com/track/4zpw2XwVLml02gTUVtlGY4) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Todos Hablan, Nada Saben](https://open.spotify.com/album/1sV7gFFQ6YbfMHrM4uOztN) | 2:43 | 2022-05-13 | 2022-05-24 |
-| [Todos Hablan, Nada Saben](https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Todos Hablan, Nada Saben](https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK) | 2:43 | 2022-05-13 |  |
+| [Todos Hablan, Nada Saben](https://open.spotify.com/track/4zpw2XwVLml02gTUVtlGY4) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Todos Hablan, Nada Saben](https://open.spotify.com/album/1sV7gFFQ6YbfMHrM4uOztN) | 2:43 | 2022-05-13 |  |
+| [Todos Hablan, Nada Saben](https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Todos Hablan, Nada Saben](https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK) | 2:43 | 2022-05-13 | 2022-05-25 |
 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 | 2022-05-13 |  |
 | [Un Gallito de Morada](https://open.spotify.com/track/1hgcb1daDQ6u7RFw6bTIxV) | [Clave 520](https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54) | [Un Gallito de Morada](https://open.spotify.com/album/6BA6KZttlbs2ELjoZqsaSO) | 2:19 | 2022-05-13 |  |
+| [Vengo De La Tia](https://open.spotify.com/track/0BUWUqaqyopQd6Rj79xNdc) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Vengo De La Tia](https://open.spotify.com/album/6lvUaSYHo9i6jGfH5DiZ3Y) | 3:08 | 2022-05-13 |  |
 | [Vida Peligrosa](https://open.spotify.com/track/4UdC2swdiEBCsP5mLyESWG) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/2HyeAaKO4nBWgT2pF3lWJo) | 3:03 | 2022-05-13 |  |
 | [Vida Rencorosa](https://open.spotify.com/track/5KhsR58yXGWcLkAfCTzLZE) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Vida Rencorosa](https://open.spotify.com/album/4gNmyfqYP4Fy72OYAnbM6D) | 3:00 | 2022-05-13 |  |
 | [Vieran Que Agusto](https://open.spotify.com/track/0lx0NFxS6g9UKNJQwr4EDW) | [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [No Lo Intenten En Casa](https://open.spotify.com/album/70LUCVd7yvcqGIleK5zGy4) | 2:57 | 2022-05-13 |  |
-| [Ya Les Contaron](https://open.spotify.com/track/6gSc7krJhPkUMvb7FKD7lP) | [Everardo](https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd) | [Atrapado En El Papel](https://open.spotify.com/album/0eiJZ692NTHfCQKcWPsN54) | 2:12 | 2022-05-13 |  |
+| [Ya Les Contaron](https://open.spotify.com/track/6gSc7krJhPkUMvb7FKD7lP) | [Everardo](https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd) | [Atrapado En El Papel](https://open.spotify.com/album/0eiJZ692NTHfCQKcWPsN54) | 2:12 | 2022-05-13 | 2022-05-25 |
 | [Zumbando Terrenos](https://open.spotify.com/track/3cydPWRwnndcp2C2lIlUt1) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:23 | 2022-05-13 |  |
 
 \*This playlist was first scraped on 2022-05-23. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Harry Styles, Henrique & Juliano, MC Kevin o Chris e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,752,303 likes - 74 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,752,331 likes - 74 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 60 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 |
 | 61 | [Let It Rain](https://open.spotify.com/track/3r7PiXUMvOrIb5nEcFP6uB) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Let It Rain](https://open.spotify.com/album/411K9uONbXWDxo9aEgEyE0) | 4:39 |
 | 62 | [Spiral](https://open.spotify.com/track/3n7eEZOmhQxJDJLoFGu6AT) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Spiral](https://open.spotify.com/album/5ULzRN1W5S4UO4mZrrtaHu) | 3:17 |
-| 63 | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Bim Amoako\-Gyampah](https://open.spotify.com/artist/5HbGyTf9SWq76VNWmirjqi) | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
+| 63 | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
 | 64 | [Turn Up The Sunshine \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Turn Up The Sunshine \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex) | 3:49 |
 | 65 | [Wasteland](https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Wasteland](https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be) | 3:03 |
 | 66 | [ok, this is hard](https://open.spotify.com/track/21xoGtusX5hvJ9ndf2PNAj) | [brvnks](https://open.spotify.com/artist/3aiMnxQVc0OvFr5vv8g5VW) | [meet the terrible](https://open.spotify.com/album/4QSNWy0VeEoH5XXttbK3WF) | 3:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Welcome back to our fave hits of 2015 on \#SpotifyTBT Cover: Nick Jonas
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,069,937 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,069,803 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

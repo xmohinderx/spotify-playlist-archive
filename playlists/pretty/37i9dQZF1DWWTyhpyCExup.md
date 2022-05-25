@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 
 > Blues, Bluegrass, Americana, Folk, & Soul; explore today's Black artists that are driving the evolution of roots music\. Cover: Jon Batiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,352 likes - 71 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,354 likes - 71 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

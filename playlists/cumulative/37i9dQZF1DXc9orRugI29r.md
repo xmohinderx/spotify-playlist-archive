@@ -4,7 +4,7 @@
 
 > ¡No busques más! La música del momento está aquí.
 
-90 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/5mEHUPoU1CDbg5pwZcKW2e)
+91 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/5mEHUPoU1CDbg5pwZcKW2e)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 | 2022-03-11 |  |
 | [Sentido](https://open.spotify.com/track/5omDX9Ne3KCDCSOMFJJkpB) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Sentido](https://open.spotify.com/album/6aaV7ZSqieuAVIhaFlkBAJ) | 4:07 | 2022-05-13 |  |
 | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M) | 3:45 | 2022-01-27 | 2022-03-04 |
+| [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4), [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY) | 3:16 | 2022-05-25 |  |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-03-25 |  |
 | [Suburbios](https://open.spotify.com/track/1EwMmSJe5rk0Nd0DiD8v6w) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt) | 4:19 | 2022-04-01 |  |
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-11 | 2022-03-24 |

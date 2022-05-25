@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: Plan Exclusivo
 
-101 songs - 5 hr 16 min - not published yet
+101 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/5fGjTGABmDRAhYaKIhz6Cv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [El Cholo \(En Vivo\)](https://open.spotify.com/track/7s0U0qA6BR0Kql7fvSH0Aa) | [6 Doble 7](https://open.spotify.com/artist/4uASG4oYMAOJbP30XK4hmW) | [En Vivo Con Norteño](https://open.spotify.com/album/48e9nDsvvO6IyMN8ukLVRZ) | 2:15 | 2022-05-14 |  |
 | [El Error](https://open.spotify.com/track/1KQ5s1khSX5yi1AIWxKbms) | [Baby Kintero](https://open.spotify.com/artist/1DTvd5Qjpee91lOAtK1e73) | [El Error](https://open.spotify.com/album/5zN0tGeyGxTHsZfpAyVbLG) | 3:08 | 2022-05-14 |  |
 | [El Fantasma](https://open.spotify.com/track/4Gqr2byRpTkarcyQ9Pye1h) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [El Fantasma](https://open.spotify.com/album/4gerOtayb9FjpowEUQgvz9) | 3:59 | 2022-05-14 |  |
-| [El Gordo Con Banda \- Live](https://open.spotify.com/track/2gB7rjmeQSP0BTwq7ebcCT) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [El Gordo Con Banda \(Live\)](https://open.spotify.com/album/0gFteM5FHo1persnhXH2kp) | 2:45 | 2022-05-14 | 2022-05-24 |
+| [El Gordo Con Banda \- Live](https://open.spotify.com/track/2gB7rjmeQSP0BTwq7ebcCT) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [El Gordo Con Banda \(Live\)](https://open.spotify.com/album/0gFteM5FHo1persnhXH2kp) | 2:45 | 2022-05-14 |  |
 | [El P1 Mentado](https://open.spotify.com/track/5eFUfgbfDQQl4n9Yc71lsQ) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [El P1 Mentado](https://open.spotify.com/album/12OHLObb5MgwucTWF6igSd) | 3:03 | 2022-05-14 |  |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-05-14 |  |
 | [En Las Nubes](https://open.spotify.com/track/7w33jezcbBOsxHDYlDIFpm) | [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [En Las Nubes](https://open.spotify.com/album/6qP4PaGwmTvXxY11bjueHq) | 2:50 | 2022-05-14 |  |
@@ -80,7 +80,7 @@
 | [Nodal Y Belinda](https://open.spotify.com/track/4XOtOECT33nHfAchActNPb) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [Nodal Y Belinda](https://open.spotify.com/album/48lQ4UjborGpBXUalmYkdR) | 2:39 | 2022-05-14 |  |
 | [Nuestra Profecía](https://open.spotify.com/track/28GpahmEDD0uc6bTMT36n9) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Nuestra Profecía](https://open.spotify.com/album/030NSvZvnIb1cIdEdDWw7n) | 2:47 | 2022-05-14 |  |
 | [Paranoia](https://open.spotify.com/track/0cOuTJ7k92o9V6hkf3fxpW) | [Lumar Perez](https://open.spotify.com/artist/0m8RPY3jufvoZY1p48TbRb) | [Paranoia](https://open.spotify.com/album/5Udf1Cz8Q9r35d8sIBS8tX) | 2:37 | 2022-05-14 |  |
-| [Perfecta](https://open.spotify.com/track/1zRbhGdwBZVDTTvhB7OE0e) | [Eddy Barreno y Su Excelencia](https://open.spotify.com/artist/0e2Hwtj63vQDsOZsorJ91C) | [Perfecta](https://open.spotify.com/album/5QDVlCM7W0dhVwuY5d9PHj) | 4:01 | 2022-05-14 |  |
+| [Perfecta](https://open.spotify.com/track/1zRbhGdwBZVDTTvhB7OE0e) | [Eddy Barreno y Su Excelencia](https://open.spotify.com/artist/0e2Hwtj63vQDsOZsorJ91C) | [Perfecta](https://open.spotify.com/album/5QDVlCM7W0dhVwuY5d9PHj) | 4:01 | 2022-05-14 | 2022-05-25 |
 | [Pero Yo No](https://open.spotify.com/track/4C6ng2PDu8ibYqrr3XteqJ) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY), [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [Pero Yo No](https://open.spotify.com/album/1hw9JbqbOxROPBhlxso6xc) | 2:32 | 2022-05-14 |  |
 | [Perro Abandonado](https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Perro Abandonado](https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI) | 3:31 | 2022-05-14 |  |
 | [Por Eso Te Canto Yo](https://open.spotify.com/track/160DhMYdpyryQwCDQaiSPq) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Para Ella](https://open.spotify.com/album/6L3EX0UVlBhVLDh28rTw5J) | 4:05 | 2022-05-14 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, Kx5, deadmau5, Kaskade, Hayla",
+  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, MK, Galantis, Kx5, deadmau5, Kaskade, Hayla",
   "name": "EDM Top 100",
   "published_playlist_ids": [
     "0Ntnl9seA6EX8wAm2l1oSO"
@@ -423,6 +423,28 @@
       "duration_ms": 235586,
       "name": "A Matter of Time",
       "url": "https://open.spotify.com/track/7DghZdBmY3GJT4vjq9dfUf"
+    },
+    {
+      "album": {
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "album": {
@@ -889,7 +911,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 358719,
       "name": "All My Love (feat. Robyn)",
       "url": "https://open.spotify.com/track/6EZAn1Xsd6x15qvEcGI1oE"
@@ -1729,7 +1751,7 @@
       ],
       "date_added": "2020-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 180842,
       "name": "Baian\u00e1",
       "url": "https://open.spotify.com/track/7MUazB4rGIqFFIkjT95rCO"
@@ -2783,7 +2805,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 221820,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
@@ -4333,7 +4355,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
@@ -5653,7 +5675,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 199090,
       "name": "Don't Forget My Love",
       "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
@@ -6743,7 +6765,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 212626,
       "name": "Faded",
       "url": "https://open.spotify.com/track/1brwdYwjltrJo7WHpIvbYt"
@@ -7435,7 +7457,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 180982,
       "name": "Fight Dirty",
       "url": "https://open.spotify.com/track/4VHWqX5JH8GEtQ4ZGyZStN"
@@ -8511,7 +8533,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 202530,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/31DsZ9tyytV1rNCZ33yG0D"
@@ -10059,7 +10081,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 321480,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/5dDHmJULJfgacnHLwK68xe"
@@ -10301,6 +10323,24 @@
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/4aA4fWBqWNd77pWvgPsxJS"
+    },
+    {
+      "album": {
+        "name": "I Believe in You",
+        "url": "https://open.spotify.com/album/0L3pcFE98SNSG7Huozwimv"
+      },
+      "artists": [
+        {
+          "name": "Sakkusa",
+          "url": "https://open.spotify.com/artist/4gvhuk3L062ybzbHgiILr5"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173225,
+      "name": "I Believe in You - Radio Edit",
+      "url": "https://open.spotify.com/track/7Mj41pWPrDGZx5EhykC2c0"
     },
     {
       "album": {
@@ -12381,7 +12421,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 177157,
       "name": "Kill My Lonely",
       "url": "https://open.spotify.com/track/2q8RX9TJ5Il8qjM9kqvJfo"
@@ -18099,7 +18139,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 178593,
       "name": "Quantum",
       "url": "https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD"
@@ -19443,7 +19483,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 167500,
       "name": "Savage",
       "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
@@ -21987,7 +22027,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/0uIwEMEjZDGrZ3NvxK3T9F"
@@ -22523,7 +22563,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 198979,
       "name": "The Best Part of Life (Imanbek Remix)",
       "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
@@ -23105,7 +23145,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 146848,
       "name": "Time to Groove (feat. Non\u00f4)",
       "url": "https://open.spotify.com/track/20b1ZBMGOZjuGvNFncIIP7"
@@ -23505,6 +23545,24 @@
       "duration_ms": 208473,
       "name": "Turn Me On (feat. Vula)",
       "url": "https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"
+    },
+    {
+      "album": {
+        "name": "Turn On the Bass",
+        "url": "https://open.spotify.com/album/4VAt1w3oStAsuT1Gh3g84o"
+      },
+      "artists": [
+        {
+          "name": "Sheeqo Beat",
+          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220560,
+      "name": "Turn On the Bass",
+      "url": "https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua"
     },
     {
       "album": {

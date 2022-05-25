@@ -4,7 +4,7 @@
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Bukis en portada.
 
-99 songs - 5 hr 39 min - not published yet
+99 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/7rc5ZkDTWKxYThKG4sQb44)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

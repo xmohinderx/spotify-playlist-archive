@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Forest Blakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,750 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,807 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

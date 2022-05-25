@@ -1,12 +1,12 @@
 {
   "description": "Les hits Maghr\u00e9bins du moment sont ici. Cover : Marwa Loud & Moha K.",
-  "num_followers": 165087,
+  "num_followers": 165360,
   "original_name": "Hot Hits Maghreb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzI4ODM0NiwwMDAwMDE1NzAwMDAwMTgwZWZhYTIxZTIwMDAwMDE4MGVmYTU4Njdi",
+  "snapshot_id": "MTY1MzM4NDc0OCwwMDAwMDE1ODAwMDAwMTgwZjU2OTFlMzcwMDAwMDE4MGVmYTU4Njdi",
   "tracks": [
     {
       "added_at": "2022-05-23 06:45:46",
@@ -75,26 +75,6 @@
     {
       "added_at": "2022-05-23 06:45:46",
       "album": {
-        "name": "J'en ai marre !",
-        "url": "https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX"
-      },
-      "artists": [
-        {
-          "name": "kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        },
-        {
-          "name": "Tagne",
-          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
-        }
-      ],
-      "duration_ms": 211623,
-      "name": "J'en ai marre !",
-      "url": "https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj"
-    },
-    {
-      "added_at": "2022-05-23 06:45:46",
-      "album": {
         "name": "Hiya Hiya",
         "url": "https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE"
       },
@@ -145,20 +125,24 @@
       "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
     },
     {
-      "added_at": "2022-05-23 06:45:46",
+      "added_at": "2022-05-24 09:32:28",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA"
+        "name": "Matkhafesh Yamma",
+        "url": "https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75"
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "Ali Loka",
+          "url": "https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1"
+        },
+        {
+          "name": "Ouzzy",
+          "url": "https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5"
         }
       ],
-      "duration_ms": 159357,
-      "name": "Suavemente",
-      "url": "https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j"
+      "duration_ms": 163200,
+      "name": "Matkhafesh Yamma",
+      "url": "https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh"
     },
     {
       "added_at": "2022-05-23 06:45:46",
@@ -175,6 +159,62 @@
       "duration_ms": 162285,
       "name": "No Wahala",
       "url": "https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB"
+    },
+    {
+      "added_at": "2022-05-23 06:45:46",
+      "album": {
+        "name": "J'en ai marre !",
+        "url": "https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        },
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "duration_ms": 211623,
+      "name": "J'en ai marre !",
+      "url": "https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj"
+    },
+    {
+      "added_at": "2022-05-24 09:32:28",
+      "album": {
+        "name": "Mots crois\u00e9s",
+        "url": "https://open.spotify.com/album/7MKGYeEG0mGVL39JcNywKK"
+      },
+      "artists": [
+        {
+          "name": "Demi Portion",
+          "url": "https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 193657,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1ThaPy4W188i5SFdjXl64J"
+    },
+    {
+      "added_at": "2022-05-23 06:45:46",
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "duration_ms": 159357,
+      "name": "Suavemente",
+      "url": "https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j"
     },
     {
       "added_at": "2022-05-23 06:45:46",
@@ -215,26 +255,6 @@
     {
       "added_at": "2022-05-23 06:45:46",
       "album": {
-        "name": "Tom's Diner",
-        "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        },
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
-    },
-    {
-      "added_at": "2022-05-23 06:45:46",
-      "album": {
         "name": "Emiliana",
         "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
       },
@@ -247,6 +267,38 @@
       "duration_ms": 164848,
       "name": "Emiliana",
       "url": "https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5"
+    },
+    {
+      "added_at": "2022-05-24 09:32:28",
+      "album": {
+        "name": "Lovini",
+        "url": "https://open.spotify.com/album/0xExuBGAAYGqgBelfN7Gzn"
+      },
+      "artists": [
+        {
+          "name": "Mons",
+          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
+        }
+      ],
+      "duration_ms": 189692,
+      "name": "Lovini",
+      "url": "https://open.spotify.com/track/40Sf3xGKMtwYM9y2RyScr8"
+    },
+    {
+      "added_at": "2022-05-23 06:45:46",
+      "album": {
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD"
     },
     {
       "added_at": "2022-05-23 06:45:46",
@@ -263,6 +315,22 @@
       "duration_ms": 179240,
       "name": "D O D O",
       "url": "https://open.spotify.com/track/7fWotHT92my4vLN713vFTa"
+    },
+    {
+      "added_at": "2022-05-24 09:32:28",
+      "album": {
+        "name": "De9at l9elb",
+        "url": "https://open.spotify.com/album/4AqUJTIVVpHmoGonhlp7Gr"
+      },
+      "artists": [
+        {
+          "name": "MA3IZ",
+          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
+        }
+      ],
+      "duration_ms": 154451,
+      "name": "De9at l9elb",
+      "url": "https://open.spotify.com/track/3WzncgOidVpqkak5Ee4b1n"
     },
     {
       "added_at": "2022-05-23 06:45:46",
@@ -315,18 +383,22 @@
     {
       "added_at": "2022-05-23 06:45:46",
       "album": {
-        "name": "Calm Down",
-        "url": "https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk"
+        "name": "Tom's Diner",
+        "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        },
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
         }
       ],
-      "duration_ms": 219813,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD"
+      "duration_ms": 269333,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
     },
     {
       "added_at": "2022-05-23 06:45:46",
@@ -415,6 +487,26 @@
     {
       "added_at": "2022-05-23 06:45:46",
       "album": {
+        "name": "D'Kover",
+        "url": "https://open.spotify.com/album/5jAZJlyawkAJarExM8HjKC"
+      },
+      "artists": [
+        {
+          "name": "DKB",
+          "url": "https://open.spotify.com/artist/4Ozq4urgB1jcYw0VzXpj2X"
+        },
+        {
+          "name": "Amine SEMMA",
+          "url": "https://open.spotify.com/artist/187xRinFfEj83kQ9KpgqKA"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "D'Kover - Darja Darja - \u062f\u0631\u062c\u0629 \u062f\u0631\u062c\u0629",
+      "url": "https://open.spotify.com/track/6AqTrSMEkIN0jiRYWLnBlx"
+    },
+    {
+      "added_at": "2022-05-23 06:45:46",
+      "album": {
         "name": "Deghri Deghri",
         "url": "https://open.spotify.com/album/3WcHikXDcd7HopAj1IVD7j"
       },
@@ -487,38 +579,18 @@
     {
       "added_at": "2022-05-23 06:45:46",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM"
+        "name": "Chill",
+        "url": "https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8"
       },
       "artists": [
         {
-          "name": "7liwa",
-          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
         }
       ],
-      "duration_ms": 178560,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz"
-    },
-    {
-      "added_at": "2022-05-23 06:45:46",
-      "album": {
-        "name": "D'Kover",
-        "url": "https://open.spotify.com/album/5jAZJlyawkAJarExM8HjKC"
-      },
-      "artists": [
-        {
-          "name": "DKB",
-          "url": "https://open.spotify.com/artist/4Ozq4urgB1jcYw0VzXpj2X"
-        },
-        {
-          "name": "Amine SEMMA",
-          "url": "https://open.spotify.com/artist/187xRinFfEj83kQ9KpgqKA"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "D'Kover - Darja Darja - \u062f\u0631\u062c\u0629 \u062f\u0631\u062c\u0629",
-      "url": "https://open.spotify.com/track/6AqTrSMEkIN0jiRYWLnBlx"
+      "duration_ms": 177000,
+      "name": "Chill",
+      "url": "https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03"
     },
     {
       "added_at": "2022-05-23 06:45:46",
@@ -607,22 +679,6 @@
     {
       "added_at": "2022-05-23 06:45:46",
       "album": {
-        "name": "Sabra",
-        "url": "https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z"
-      },
-      "artists": [
-        {
-          "name": "Balqees",
-          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Sabra",
-      "url": "https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS"
-    },
-    {
-      "added_at": "2022-05-23 06:45:46",
-      "album": {
         "name": "Ya Ayouni",
         "url": "https://open.spotify.com/album/7qj7ixMmSbbC8G8FoaYzlu"
       },
@@ -655,18 +711,18 @@
     {
       "added_at": "2022-05-23 06:45:46",
       "album": {
-        "name": "Chill",
-        "url": "https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8"
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM"
       },
       "artists": [
         {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Chill",
-      "url": "https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03"
+      "duration_ms": 178560,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz"
     },
     {
       "added_at": "2022-05-23 06:45:46",
@@ -763,30 +819,6 @@
     {
       "added_at": "2022-05-23 06:45:46",
       "album": {
-        "name": "Gaw El Banat",
-        "url": "https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Ramadan",
-          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
-        },
-        {
-          "name": "RedOne",
-          "url": "https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx"
-        },
-        {
-          "name": "Nouamane Belaiachi",
-          "url": "https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8"
-        }
-      ],
-      "duration_ms": 229454,
-      "name": "Gaw El Banat",
-      "url": "https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH"
-    },
-    {
-      "added_at": "2022-05-23 06:45:46",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
       },
@@ -819,6 +851,30 @@
       "duration_ms": 237757,
       "name": "Nari",
       "url": "https://open.spotify.com/track/1yUJXkJw1VQ79JhTVr5xya"
+    },
+    {
+      "added_at": "2022-05-23 06:45:46",
+      "album": {
+        "name": "Gaw El Banat",
+        "url": "https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        },
+        {
+          "name": "RedOne",
+          "url": "https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx"
+        },
+        {
+          "name": "Nouamane Belaiachi",
+          "url": "https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8"
+        }
+      ],
+      "duration_ms": 229454,
+      "name": "Gaw El Banat",
+      "url": "https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH"
     },
     {
       "added_at": "2022-05-23 06:45:46",
@@ -863,26 +919,6 @@
       "duration_ms": 153360,
       "name": "Bladi",
       "url": "https://open.spotify.com/track/0HtuHmuGLRzvAWN3WXj9Tb"
-    },
-    {
-      "added_at": "2022-05-23 06:45:46",
-      "album": {
-        "name": "Panamera",
-        "url": "https://open.spotify.com/album/4LNkYBGVRC7F3VjeEqQsRr"
-      },
-      "artists": [
-        {
-          "name": "Liamsi",
-          "url": "https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw"
-        },
-        {
-          "name": "kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 159947,
-      "name": "Panamera",
-      "url": "https://open.spotify.com/track/4KoiLBOLPnSERA0apY9y1I"
     },
     {
       "added_at": "2022-05-23 06:45:46",

@@ -1762,6 +1762,32 @@
     },
     {
       "album": {
+        "name": "Desde Mis Ojos (Remix)",
+        "url": "https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223563,
+      "name": "Desde Mis Ojos - Remix",
+      "url": "https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8"
+    },
+    {
+      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
@@ -3639,7 +3665,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 177791,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
@@ -5565,7 +5591,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 182187,
       "name": "Par\u00eds",
       "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
@@ -5941,7 +5967,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 233546,
       "name": "Probablemente",
       "url": "https://open.spotify.com/track/4prmUBle7TtAeeUgCnsc3Z"
@@ -6683,7 +6709,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 159533,
       "name": "Se Me Olvid\u00f3",
       "url": "https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN"
@@ -7575,7 +7601,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 227220,
       "name": "ULTRA SOLO",
       "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"

@@ -2,9 +2,9 @@
 
 ### [Hits Urbanos](https://open.spotify.com/playlist/37i9dQZF1DWVskFRGurTfg)
 
-> Éxitos urbanos de Latinoamérica: Foto: Santa Fe Klan & MC Davo
+> Éxitos urbanos de Latinoamérica: Foto: MC Davo & Santa Fe Klan
 
-237 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/2GQMqIHn6mzjfv4YUbCfpS)
+238 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/2GQMqIHn6mzjfv4YUbCfpS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Ganas \- Remix](https://open.spotify.com/track/2gozgdGrgeKxV5ssjzokPo) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Ganas \(Remix\)](https://open.spotify.com/album/606mo5NTK2yjOAE1JUiYEF) | 3:28 | 2021-12-17 | 2022-01-22 |
 | [Gata \(feat\. Chencho Corleone\)](https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:26 | 2022-04-29 |  |
 | [Gatas](https://open.spotify.com/track/4Z6ucGPXIzZZTN70Q7KQM0) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Gatas](https://open.spotify.com/album/31dhzIDFoaVAwcN3bBwgNA) | 2:12 | 2022-05-20 |  |
-| [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 | 2022-05-06 |  |
+| [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 | 2022-05-06 |  |
 | [GPS \(feat\. French Montana\)](https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [GPS \(feat\. French Montana\)](https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q) | 3:36 | 2021-12-17 | 2022-04-29 |
 | [GUCCI FENDI](https://open.spotify.com/track/30VNqIVJx9ONVBNJorbemZ) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [GUCCI FENDI](https://open.spotify.com/album/4gq09H4WcVcwhBgvvBsWI8) | 2:52 | 2022-03-11 |  |
 | [Hace Mucho Tiempo](https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia y Maldad](https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe) | 2:51 | 2021-12-17 |  |
@@ -206,6 +206,7 @@
 | [SHORTY QUE TE VAYA BN <3](https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SHORTY QUE TE VAYA BN <3](https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs) | 3:39 | 2021-12-17 | 2022-04-02 |
 | [Si Quieren Frontear](https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Si Quieren Frontear](https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy) | 3:20 | 2022-04-04 |  |
 | [Si Te Veo](https://open.spotify.com/track/2TmT3wSwRf0CYJFGGaIXNB) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Si Te Veo](https://open.spotify.com/album/1g0enqdoT94Aw5vCJvubzd) | 4:15 | 2021-12-17 | 2022-03-12 |
+| [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4), [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY) | 3:16 | 2022-05-25 |  |
 | [Sincero](https://open.spotify.com/track/133TJ3am9C4woxFTVJ9wVp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/3PWxaw7J5pSfAm62tU1LLd) | 3:38 | 2022-01-28 | 2022-04-19 |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2021-12-17 | 2022-01-29 |
 | [Socadona \(feat\. Mr\. Vegas\)](https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Socadona \(feat\. Mr\. Vegas\)](https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi) | 3:06 | 2022-04-29 |  |

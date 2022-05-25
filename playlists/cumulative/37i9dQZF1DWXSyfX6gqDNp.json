@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Autumn Serenade",
+        "url": "https://open.spotify.com/album/4u4FvHG40exv5slmz0Bg7l"
+      },
+      "artists": [
+        {
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236326,
+      "name": "Autumn Serenade",
+      "url": "https://open.spotify.com/track/76bxYaBhzR5YOIrgmNUUJ5"
+    },
+    {
+      "album": {
         "name": "Banda\u0308ngen",
         "url": "https://open.spotify.com/album/7akZUKwJixzT2ey60dcaPR"
       },
@@ -1236,6 +1254,24 @@
     },
     {
       "album": {
+        "name": "Lover For The Day",
+        "url": "https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Right Time",
+          "url": "https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211786,
+      "name": "Lover For The Day",
+      "url": "https://open.spotify.com/track/1IpTomdIM4HvZI2CnaPszo"
+    },
+    {
+      "album": {
         "name": "Moment To Moment",
         "url": "https://open.spotify.com/album/3KeFD62A0IEmCOfn2CaC0K"
       },
@@ -1301,7 +1337,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 182960,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/4hCbA5XOPwCzNvUWKztpD9"
@@ -1355,7 +1391,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 203613,
       "name": "My Old Flame",
       "url": "https://open.spotify.com/track/3xuslygka7eRD9KYn3MMhc"

@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Au revoir",
+        "url": "https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3"
+      },
+      "artists": [
+        {
+          "name": "Jules Pierre Gardot",
+          "url": "https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Au revoir",
+      "url": "https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb"
+    },
+    {
+      "album": {
         "name": "Autumn Leaves",
         "url": "https://open.spotify.com/album/0tyCq5vbWN9HCkcqdDQhxm"
       },
@@ -257,6 +275,24 @@
       "duration_ms": 153120,
       "name": "Blame it on My Youth",
       "url": "https://open.spotify.com/track/1KWj5vKH4ns49fPDsD6Qa1"
+    },
+    {
+      "album": {
+        "name": "Blue In Green",
+        "url": "https://open.spotify.com/album/3tTWhbuhhWWeh9dd30hwPW"
+      },
+      "artists": [
+        {
+          "name": "Drew Milner",
+          "url": "https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227750,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs"
     },
     {
       "album": {
@@ -790,6 +826,24 @@
     },
     {
       "album": {
+        "name": "Jazz Piano Before Midnight",
+        "url": "https://open.spotify.com/album/6tC4AiQ7S9tz8bCrOmzfKo"
+      },
+      "artists": [
+        {
+          "name": "Christopher Colman",
+          "url": "https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "I've Never Been in Love Before",
+      "url": "https://open.spotify.com/track/3JdweRYYTUEhsF0trwC1Ad"
+    },
+    {
+      "album": {
         "name": "If You Could See Me Now",
         "url": "https://open.spotify.com/album/1gtcWSvAdOvvJ9Ya82g5Mk"
       },
@@ -1251,7 +1305,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 182253,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/0LZ678lgdb9f0ab8AyZBHH"
@@ -1629,7 +1683,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 155466,
       "name": "Taking A Chance On Love",
       "url": "https://open.spotify.com/track/1f9NMymXfaYatJPvlkilXv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,467 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,053,937 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 26 | [Look Ma I Did It](https://open.spotify.com/track/11AfL8OrGWV8KYNSzuRDsr) | [Baby Racks](https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW) | [Look Ma I Did It](https://open.spotify.com/album/38x8ZVRRLJykh2x4gAeMMz) | 2:57 |
 | 27 | [No Statements \(feat\. Lil Durk\)](https://open.spotify.com/track/0Dq0DT9CkLWf21aDN65qJt) | [Kuttem Reese](https://open.spotify.com/artist/23vk8FQSjesEtpErniqki4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Kutt Dat Boy](https://open.spotify.com/album/4PVJ7qxtrnxDzF3xVcSgeV) | 2:52 |
 | 28 | [Plenty](https://open.spotify.com/track/2ss1LPi7nbrzUKjxsRxkWH) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Whale Games](https://open.spotify.com/album/3GjJR2eVc3KOAzrB1uTnca) | 1:42 |
-| 29 | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS) | 3:27 |
+| 29 | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS) | 3:27 |
 | 30 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 |
 | 31 | [Lights Off \(feat\. Gunna & Lil Durk\)](https://open.spotify.com/track/2pqu2XTbal0GehjBj2BDkv) | [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Lights Off \(feat\. Gunna & Lil Durk\)](https://open.spotify.com/album/7J47Z2E4FxitaVruzJKbGx) | 3:35 |
 | 32 | [Gang Baby \(Never Broke Again, YoungBoy Never Broke Again, P Yungin feat\. Rojay MLP & Rjae\)](https://open.spotify.com/track/4lDwjby6qNJP9Zdhi3Vg0a) | [Never Broke Again](https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [P Yungin](https://open.spotify.com/artist/2kxNIMdmDtVtHDAWluq0eN), [Rojay MLP](https://open.spotify.com/artist/555MqZGSQCqBmLLLFUjsPl), [Rjae](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk) | [Gang Baby \(Never Broke Again, YoungBoy Never Broke Again, P Yungin feat\. Rojay MLP & Rjae\)](https://open.spotify.com/album/7AVHBMOdlglzJALD73PtTR) | 2:33 |

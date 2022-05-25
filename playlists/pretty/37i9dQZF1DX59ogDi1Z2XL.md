@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Haviah Mighty
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,869 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,930 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [So So \(feat\. Dai Burger\)](https://open.spotify.com/track/69uVWhBBO5CUJIITkFzvum) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Dai Burger](https://open.spotify.com/artist/1y6hiqeSWkQrJYXkU5PvUk) | [Stock Exchange](https://open.spotify.com/album/1Riy0kKOJRtpGB9ewzBpJN) | 2:39 |
 | 2 | [FRIENDS WITH BENEFITS](https://open.spotify.com/track/61YQhIUW8I32js56e7v3Gh) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [FRIENDS WITH BENEFITS](https://open.spotify.com/album/5ZlZDT9NDhXldVFiis23am) | 2:25 |
-| 3 | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS) | 3:27 |
+| 3 | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS) | 3:27 |
 | 4 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6cIWZnJZidKcqGuArAUABr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 3:56 |
 | 5 | [Trophy](https://open.spotify.com/track/5i4FyAHlC4X1DA7KVDqDUW) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x) | [French Connections](https://open.spotify.com/album/2QrljTEOdMpOvV0BGihyHc) | 3:10 |
 | 6 | [Raids \- A COLORS SHOW](https://open.spotify.com/track/0ontHo5fSr5T1Pc8eoVhw6) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Raids \- A COLORS SHOW](https://open.spotify.com/album/16JhsCkX4XqBIuW9uquCwi) | 2:23 |

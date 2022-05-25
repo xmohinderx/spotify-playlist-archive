@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 170794,
       "name": "All In",
       "url": "https://open.spotify.com/track/5NcMn3iIUNklw0hMFlUBAd"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 279573,
       "name": "Amateur",
       "url": "https://open.spotify.com/track/39MzfwZjkbGSbnccjf5E5j"
@@ -2513,7 +2513,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 246200,
       "name": "Funky Galileo",
       "url": "https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl"
@@ -2693,7 +2693,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 276764,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/4WsIARXwddxyLdL0kEnSvm"
@@ -3893,7 +3893,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 215555,
       "name": "Listerine",
       "url": "https://open.spotify.com/track/5LEVjmo2QweDHc7k19aFcp"
@@ -4109,7 +4109,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 153959,
       "name": "MANY FACES",
       "url": "https://open.spotify.com/track/27cWalfVkjaY21WxHiR426"
@@ -4415,7 +4415,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 181492,
       "name": "Move to San Francisco",
       "url": "https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP"
@@ -4595,7 +4595,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 154841,
       "name": "New Girl",
       "url": "https://open.spotify.com/track/7xCsVk37Uom1L0v1YEjso0"
@@ -6009,7 +6009,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 198040,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN"
@@ -7149,6 +7149,24 @@
       "duration_ms": 209454,
       "name": "Weekend Friend",
       "url": "https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM"
+    },
+    {
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140080,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
     },
     {
       "album": {

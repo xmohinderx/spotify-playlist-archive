@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Harry Styles, Camilo, Morat y Duki; Ha\*Ash, y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,537 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,624 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 17 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 |
 | 18 | [The Club Is Jumpin'](https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [The Club Is Jumpin'](https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T) | 2:15 |
 | 19 | [Dope \(with JID\)](https://open.spotify.com/track/3E1y4V7dxcn5AwKCD4AqFn) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Dope](https://open.spotify.com/album/0dbPpCxqmGEw1wQ5SH7q9O) | 2:38 |
-| 20 | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Bim Amoako\-Gyampah](https://open.spotify.com/artist/5HbGyTf9SWq76VNWmirjqi) | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
+| 20 | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
 | 21 | [Turn Up The Sunshine \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Turn Up The Sunshine \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex) | 3:49 |
 | 22 | [Overthinking](https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Overthinking](https://open.spotify.com/album/73w5XKOuWg456VuawuUH47) | 2:54 |
 | 23 | [This Hell](https://open.spotify.com/track/6A6yKpsgFr4gIKd7gsfHhm) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [This Hell](https://open.spotify.com/album/0U4egSSjgOOcAO7Qmj189E) | 3:56 |

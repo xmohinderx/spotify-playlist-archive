@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today...featuring  Post Malone, Kendrick Lamar, and Jack Harlow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,099,364 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,099,724 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 24 | [Already Best Friends \(feat\. Chris Brown\)](https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 3:17 |
 | 25 | [Playa \(feat\. H.E.R.\)](https://open.spotify.com/track/2yLDniiA2kYECf7IE3f2bd) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Playa](https://open.spotify.com/album/1W06ElmmLtIuontPTRxw7v) | 2:38 |
 | 26 | [Alcatraz](https://open.spotify.com/track/5MNBATfg8bUvBkMGIFQ1PU) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Alcatraz](https://open.spotify.com/album/3Mo0CFMWfN5VtsZ5X6KbEj) | 2:21 |
-| 27 | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS) | 3:27 |
+| 27 | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS) | 3:27 |
 | 28 | [TO THE MOON \- Gunna Remix](https://open.spotify.com/track/2Ku7Iz5iUtukULZ229KUYx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON \(Gunna Remix\)](https://open.spotify.com/album/22kFib1oYf4AKUVTu3cORk) | 2:46 |
 | 29 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 |
 | 30 | [Goin Up](https://open.spotify.com/track/1wNdGz7BlB9kH5lDc1eLLb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Goin Up](https://open.spotify.com/album/0UGVVwimB3lZDggXiOa932) | 2:20 |

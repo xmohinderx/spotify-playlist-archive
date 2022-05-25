@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,153 likes - 59 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,202 likes - 59 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 39 | [카츄사의 노래](https://open.spotify.com/track/7smEXqdnD6oDjbG9zECVDd) | [은방울자매](https://open.spotify.com/artist/7bSbVUfkQBYgjK0G2Q6cMP) | [히트가요 컬렉션 VOL.2](https://open.spotify.com/album/5o6ByXsWmlu1l0FQeFIQPd) | 3:11 |
 | 40 | [세월이 가면](https://open.spotify.com/track/0jZO7JOi2GA2r32Svskcag) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [골든 베스트 18 \(Best\)](https://open.spotify.com/album/6jNFqYhHW83hDVcO9zDQ8I) | 3:21 |
 | 41 | [사랑이 지나가면](https://open.spotify.com/track/1XwAV7ty94aIJgRXP7CETn) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 4집](https://open.spotify.com/album/0otsHhxK7ZdzjsL2roT3VY) | 4:13 |
-| 42 | [눈물나는 날에는](https://open.spotify.com/track/1SxruDTFPtDlDN4zy8I64q) | [푸른하늘](https://open.spotify.com/artist/1qaZLYBcbWoQ6pVhBjtvGx) | [푸른하늘 2집 \- 눈물나는 날에는](https://open.spotify.com/album/05IgFhaM6DRo4Ad39FS6Rq) | 5:04 |
+| 42 | [눈물나는 날에는](https://open.spotify.com/track/1SxruDTFPtDlDN4zy8I64q) | [푸른하늘](https://open.spotify.com/artist/4fjuWKOCAh3CT7I5xW6Hc1) | [푸른하늘 2집 \- 눈물나는 날에는](https://open.spotify.com/album/05IgFhaM6DRo4Ad39FS6Rq) | 5:04 |
 | 43 | [아름다운 강산](https://open.spotify.com/track/2A8dLLThu2LqfhD8SNuGbc) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [4집 사랑이 지는 이 자리](https://open.spotify.com/album/29wEhPMsnGjOGfHVpz1hln) | 5:47 |
 | 44 | [The Street With The First Snow](https://open.spotify.com/track/1CaH7l3RuuCHd6k3VsWiMk) | [Lee Mi Ja](https://open.spotify.com/artist/3ZQ97tFlkn5moDjvgQ3kpZ) | [Lee Mi\-Ja's Setereo Hit Song Selection 12th Album](https://open.spotify.com/album/2VCClwONd2mvbtAYAz51iX) | 3:06 |
 | 45 | [언제나 그대 내곁에](https://open.spotify.com/track/5eJJ00mrTWETqIi8T3BE5M) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 4집 언제나 그대 내곁에](https://open.spotify.com/album/1crwuXQHefD9jgUoJozIxG) | 4:40 |

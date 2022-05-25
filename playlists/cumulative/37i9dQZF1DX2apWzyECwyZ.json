@@ -1590,6 +1590,28 @@
     },
     {
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258298,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+    },
+    {
+      "album": {
         "name": "Original",
         "url": "https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3"
       },

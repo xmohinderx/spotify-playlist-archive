@@ -3775,7 +3775,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 181626,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4"
@@ -8525,6 +8525,28 @@
       "duration_ms": 339023,
       "name": "Take My Breath",
       "url": "https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b"
+    },
+    {
+      "album": {
+        "name": "Tchuco Nela",
+        "url": "https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "Tchuco Nela",
+      "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND"
     },
     {
       "album": {

@@ -2059,6 +2059,22 @@
         {
           "name": "KLEN SHEET",
           "url": "https://open.spotify.com/artist/6OjU7XIpsUSL4yvrlKSIkb"
+        },
+        {
+          "name": "Goldreick",
+          "url": "https://open.spotify.com/artist/0UJ6nopuHJk9q7addrnFhD"
+        },
+        {
+          "name": "Tanca",
+          "url": "https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP"
+        },
+        {
+          "name": "maggio",
+          "url": "https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q"
+        },
+        {
+          "name": "GIUMO",
+          "url": "https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90"
         }
       ],
       "date_added": "2022-05-19",
@@ -2261,6 +2277,28 @@
       "duration_ms": 163000,
       "name": "PICCOLI",
       "url": "https://open.spotify.com/track/1FcxGXTJDdTTtkWXT9mVVc"
+    },
+    {
+      "album": {
+        "name": "Pioggia",
+        "url": "https://open.spotify.com/album/3vVqHdErmdhflt7QZXCLoz"
+      },
+      "artists": [
+        {
+          "name": "Leon Faun",
+          "url": "https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos"
+        },
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158684,
+      "name": "Pioggia",
+      "url": "https://open.spotify.com/track/4Gatggg43ESx92VTeiFNjZ"
     },
     {
       "album": {
@@ -2629,7 +2667,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 129032,
       "name": "SIDE HOE",
       "url": "https://open.spotify.com/track/5OjDS0tM4rmKe677fLvBL5"

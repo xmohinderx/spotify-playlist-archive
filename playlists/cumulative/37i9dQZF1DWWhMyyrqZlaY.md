@@ -4,7 +4,7 @@
 
 > Los corridos más placosos que suenan en las calles\. Justin Morales en portada.
 
-50 songs - 2 hr 33 min - not published yet
+50 songs - 2 hr 33 min - [published](https://open.spotify.com/playlist/0pNLi5IU8KFpQH3mzOOXMv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

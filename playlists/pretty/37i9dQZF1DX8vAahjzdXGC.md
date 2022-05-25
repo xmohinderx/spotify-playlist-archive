@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,605 likes - 109 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,619 likes - 109 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

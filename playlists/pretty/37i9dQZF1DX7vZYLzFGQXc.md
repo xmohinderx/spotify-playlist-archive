@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: Heo Hoy Kyung\(허회경\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,872 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,927 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [BONREVE](https://open.spotify.com/track/4B4Wps9J8IXL4jFRubK6yI) | [Neal](https://open.spotify.com/artist/6GCiiAQkLAFfrOqYeQa1vF) | [White Gradation](https://open.spotify.com/album/1M9r4Jg72L8TXThz63wbWu) | 3:17 |
 | 50 | [Clock hands \(Feat\. BRWN, Huiii\)](https://open.spotify.com/track/30NAPZbx6Heu1mLz8F6NRx) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [BRWN](https://open.spotify.com/artist/6pH5e4QpMdXPvvEGCVaHPn), [Huiii](https://open.spotify.com/artist/2YwO6LFXtZZ6gUIaVCWV35) | [Clock hands](https://open.spotify.com/album/7lxDmPU7moFefYjtgQJFre) | 3:05 |
 | 51 | [Memories](https://open.spotify.com/track/7ut7YbVNjFJ6vs1E898sGw) | [Me:us](https://open.spotify.com/artist/73LHD9Y9k0vwvTVZ9GdSpQ) | [Memories](https://open.spotify.com/album/77BKRnFW8cepCfTSLS2F7i) | 3:54 |
-| 52 | [come spring](https://open.spotify.com/track/1JCERNwbzUQTjvxVqxebRT) | [Appetizer](https://open.spotify.com/artist/4U3iyysFpHKs9Z1Xj5i7Ed), [mim](https://open.spotify.com/artist/3TESIy6ohhkYeoyT6od4us) | [come spring](https://open.spotify.com/album/7od0WDYvOSHSHRr7mNQqa9) | 3:13 |
+| 52 | [come spring \(feat\. mim\)](https://open.spotify.com/track/1JCERNwbzUQTjvxVqxebRT) | [Appetizer](https://open.spotify.com/artist/4U3iyysFpHKs9Z1Xj5i7Ed), [mim](https://open.spotify.com/artist/3TESIy6ohhkYeoyT6od4us) | [come spring](https://open.spotify.com/album/7od0WDYvOSHSHRr7mNQqa9) | 3:13 |
 | 53 | [777](https://open.spotify.com/track/24KjqxHU4SnvCgzfftXarS) | [MUL](https://open.spotify.com/artist/1qcXWnZo8tZaPPhRcaBVPo), [feelDa](https://open.spotify.com/artist/6ztSjX9SryuExgK0SPr5Ps), [H:SEAN](https://open.spotify.com/artist/5unaicO0SRNINwxV4jnq18) | [777+52](https://open.spotify.com/album/6q2EAWJkQRNcIHFSZjFQI2) | 3:23 |
 | 54 | [come into you \(feat\. Jimmy Brown, Sweet The Kid\) \- remix](https://open.spotify.com/track/4ZsR2iJqnDxc7MCg7bCjGF) | [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [come into you \(feat\. Jimmy Brown, Sweet The Kid\) \[remix\]](https://open.spotify.com/album/54VIJsPcVrybYP0SBMfmfL) | 3:21 |
 | 55 | [Spring](https://open.spotify.com/track/5D3jVxi4Tg9yqSFLSBdE9O) | [Young Froze](https://open.spotify.com/artist/2zHJutAT3VRCuC2h5LaktX) | [Long Money Short Life LP](https://open.spotify.com/album/1pqP6XE6S40VkuR0sWqQui) | 2:44 |

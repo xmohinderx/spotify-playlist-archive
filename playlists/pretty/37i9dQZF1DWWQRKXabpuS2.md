@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: عايض
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,401 likes - 56 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,407 likes - 56 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

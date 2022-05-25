@@ -4,7 +4,7 @@
 
 > Soft and moody jazz for a rainy day.
 
-123 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
+125 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Alone Together \- Rudy Van Gelder Remaster 2006](https://open.spotify.com/track/3GOZbK2epuHzCt5YvvVFHO) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Quiet Kenny](https://open.spotify.com/album/4B0pF1WLB3pCaZ4eTx5U8S) | 3:10 | 2021-12-14 |  |
 | [And Suddenly There Was Love](https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH) | [Jonah Aardekker](https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns) | [And Suddenly There Was Love](https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4) | 4:27 | 2021-12-14 |  |
 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 | 2021-12-14 |  |
+| [Autumn Serenade](https://open.spotify.com/track/76bxYaBhzR5YOIrgmNUUJ5) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Autumn Serenade](https://open.spotify.com/album/4u4FvHG40exv5slmz0Bg7l) | 3:56 | 2022-05-24 |  |
 | [Ballad Of The Sad Young Men \- Live](https://open.spotify.com/track/7KUTZdBEWzHjdf9Hwr5FHT) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Tribute](https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx) | 7:02 | 2021-12-14 |  |
 | [Bandängen](https://open.spotify.com/track/7HX0DryEZ4qOYEzVCF942E) | [Jazz Tonality](https://open.spotify.com/artist/7bUmkNAZbilFTnmG2lmU5t) | [Bandängen](https://open.spotify.com/album/7akZUKwJixzT2ey60dcaPR) | 2:30 | 2021-12-14 |  |
 | [Beautiful Love](https://open.spotify.com/track/1oT0zC6lxsNHITyexFwQIM) | [Lenox Livingroom Sessions](https://open.spotify.com/artist/2PDSuVvSKWLMFtb4j2O06t) | [VOL.1](https://open.spotify.com/album/4o4YAUFAzbwczGbbDgyrUR) | 2:36 | 2021-12-14 |  |
@@ -56,7 +57,7 @@
 | [I ́ll Be Seing You](https://open.spotify.com/track/35SoLqjrrABm1zZOOQ4f0n) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:08 | 2021-12-14 | 2022-04-27 |
 | [I'm A Fool To Want](https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 5:33 | 2021-12-14 |  |
 | [I'm Through With Love](https://open.spotify.com/track/0QARP1SA6znqDMPSOcW7kp) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [I'm Through With Love](https://open.spotify.com/album/287itlXEIh2aQ2zqLZiBbE) | 5:56 | 2021-12-14 |  |
-| [In A Sentimental Mood](https://open.spotify.com/track/3glQOWRCAQIrCnQhWBEFSL) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Sonny Rollins With The Modern Jazz Quartet](https://open.spotify.com/album/1Vnn90iSXyOn5jCh0l9Usl) | 3:17 | 2022-01-26 |  |
+| [In A Sentimental Mood](https://open.spotify.com/track/3glQOWRCAQIrCnQhWBEFSL) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Sonny Rollins With The Modern Jazz Quartet](https://open.spotify.com/album/1Vnn90iSXyOn5jCh0l9Usl) | 3:17 | 2022-01-26 | 2022-05-25 |
 | [In the Days of our Love](https://open.spotify.com/track/74x6ocYFnfjVf5DdtFR7gP) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [In the Days of our Love](https://open.spotify.com/album/01iCII3qvoMbwotsY5hjk0) | 3:40 | 2021-12-14 |  |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/4c9u4ruTL1xWv2YcnS8AjN) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 5:39 | 2022-01-26 |  |
 | [In This Wonderful World](https://open.spotify.com/track/7cxOaLcFhKEH4IaBOd0F46) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [In This Wonderful World](https://open.spotify.com/album/6DgGOcAfVYCHu7xX3ChE85) | 4:04 | 2022-05-17 |  |
@@ -71,6 +72,7 @@
 | [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2021-12-14 |  |
 | [Longing](https://open.spotify.com/track/7dgPOj3RPNNreOeAUHSTce) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [Longing](https://open.spotify.com/album/2BDjjzJZW81xcSbwu0ow5c) | 3:16 | 2021-12-14 |  |
 | [Lost in Orbit](https://open.spotify.com/track/7ijPIncR5k622S2j28ktCr) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Lost in Orbit](https://open.spotify.com/album/7L3O8woHpsgk4Us0PU7YdL) | 2:33 | 2021-12-14 |  |
+| [Lover For The Day](https://open.spotify.com/track/1IpTomdIM4HvZI2CnaPszo) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 3:31 | 2022-05-24 |  |
 | [Madison](https://open.spotify.com/track/4XJwaQOwqrfkiXkAuxZSNd) | [The Late Nighters](https://open.spotify.com/artist/22RipbQQrUasT0JEHZLOFa) | [Madison](https://open.spotify.com/album/0rzTWa0urikuszTgERM9Jd) | 2:33 | 2021-12-14 |  |
 | [Midnight midtown](https://open.spotify.com/track/23SM99bJ0j6IejFfLXkUoA) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Midnight midtown](https://open.spotify.com/album/0zCX7YfKIsb7SmiDl93KZi) | 4:33 | 2021-12-14 |  |
 | [Minor Steps](https://open.spotify.com/track/63f2Jx0K11nKoezrnM427S) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Minor Steps](https://open.spotify.com/album/303hgtImyShjRc4EEncVDU) | 4:01 | 2022-05-03 |  |

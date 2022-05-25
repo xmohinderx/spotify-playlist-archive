@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > Country that made country cool! Celebrating 35 years of Randy Travis' iconic album 'Always & Forever'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,965 likes - 148 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,227,706 likes - 148 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

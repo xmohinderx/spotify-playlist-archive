@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: ONEUS
+> Future K\-Pop hits! Cover: KANGDANIEL
 
-560 songs - 1 day 7 hr 22 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+562 songs - 1 day 7 hr 28 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Bad Idea](https://open.spotify.com/track/5C5mQ012yrXCHJAdesRWrJ) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:18 | 2020-10-13\* | 2021-01-18 |
 | [Bad News](https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [It’s ME, It's WE](https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB) | 3:32 | 2022-03-16 |  |
 | [Bambi](https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:33 | 2021-03-31 | 2021-07-01 |
+| [BASEMENT BOY](https://open.spotify.com/track/6y8Q8DMl5HLi16tTyh4aDt) | [DEMIAN](https://open.spotify.com/artist/6DNTezBmjBm68oYPCENCcA) | [BASEMENT BOY](https://open.spotify.com/album/2YrodBLR3JJF6EUh88yZVf) | 3:08 | 2022-05-24 |  |
 | [Beach Again](https://open.spotify.com/track/4L1MHK27ifT30Ndicpr7js) | [SSAK3](https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M) | [Beach Again](https://open.spotify.com/album/427BTLanPKvIrBTq80FVHW) | 3:53 | 2020-10-13\* | 2020-11-05 |
 | [BEAM BEAM](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Windy](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) | 2:47 | 2021-07-06 | 2021-08-25 |
 | [Beautiful Beautiful](https://open.spotify.com/track/1JZiSKaF6RRgwxv4IijBUm) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 3:10 | 2021-03-10 | 2021-06-09 |
@@ -287,7 +288,7 @@
 | [Lonely Summer \(Summer Breeze\)](https://open.spotify.com/track/71ffiCGvOZm7uBYT9Nyg4d) | [Daedo](https://open.spotify.com/artist/0usCrj87bydKRK7KWcCf9p), [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Lonely Summer \(Summer Breeze\)](https://open.spotify.com/album/2zQWuOYcx7C4TNTJwz2Nbm) | 3:19 | 2021-07-28 | 2021-09-07 |
 | [Losing You](https://open.spotify.com/track/4OJJ48xIvpbP3lHaCkEIbA) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Losing You](https://open.spotify.com/album/2pA5upussFvf8eQoMUATmI) | 2:58 | 2020-10-13\* | 2020-11-11 |
 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 | 2022-01-12 | 2022-03-25 |
-| [Love In Space](https://open.spotify.com/track/0lML1OdwDWQIyGF3i9vk2y) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Wish](https://open.spotify.com/album/1vcO0a7uQpoIoEjJ5lJ4Hf) | 3:36 | 2022-03-02 |  |
+| [Love In Space](https://open.spotify.com/track/0lML1OdwDWQIyGF3i9vk2y) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Wish](https://open.spotify.com/album/1vcO0a7uQpoIoEjJ5lJ4Hf) | 3:36 | 2022-03-02 | 2022-05-25 |
 | [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 | 2022-04-17 |  |
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2021-08-05 | 2021-11-12 |
 | [Love Right Back \(feat\. TAEIL of NCT, lIlBOI\)](https://open.spotify.com/track/1XAjHcWjzNbYlVi9uSp1ko) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 3:14 | 2021-10-16 | 2021-12-02 |
@@ -375,7 +376,7 @@
 | [PING PONG](https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18) | [HyunA&DAWN](https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4) | [1+1=1](https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf) | 2:38 | 2021-09-11 | 2022-01-04 |
 | [Pirate](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Return of The Girl](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) | 3:30 | 2021-12-02 | 2022-02-24 |
 | [Pit A Pat](https://open.spotify.com/track/4khvnIc1bYDFqzXH0aqdnt) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Pit A Pat](https://open.spotify.com/album/4xvalgKtLmHXbBy8vLhUlE) | 3:28 | 2020-11-11 | 2021-02-15 |
-| [Pity Party](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Pity Party](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) | 3:10 | 2022-02-07 |  |
+| [Pity Party](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Pity Party](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) | 3:10 | 2022-02-07 | 2022-05-25 |
 | [PLAY](https://open.spotify.com/track/1SdLedoEjrMRu5AnvK2EYk) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [PLAY](https://open.spotify.com/album/7tzaUrzvzQGfqvzsYzSODr) | 3:19 | 2020-10-13\* | 2020-10-22 |
 | [Play](https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [\[REC.\]](https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi) | 3:21 | 2022-01-19 | 2022-03-25 |
 | [Poison](https://open.spotify.com/track/0dhBiy6lmLdyKUEJTf5Fcz) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Poison \(Crime Puzzle\)](https://open.spotify.com/album/0C7uH2bPULuV0t15yTkygg) | 2:41 | 2021-11-19 | 2022-01-13 |
@@ -505,6 +506,7 @@
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 | 2021-12-13 | 2022-02-18 |
 | [UNNATURAL](https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [UNNATURAL](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) | 3:01 | 2021-04-08 | 2021-07-01 |
 | [Unthinkable](https://open.spotify.com/track/0MQa8iD2fcVSnBzAGbdLeX) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [LOCK UP](https://open.spotify.com/album/4CbmJDPP4CuPnjUHaxUiju) | 3:07 | 2021-12-13 | 2022-02-18 |
+| [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 | 2022-05-24 |  |
 | [US](https://open.spotify.com/track/28toOHNKaU968fvVoKA9pQ) | [Moon Jong Up](https://open.spotify.com/artist/3I9hRYYNJvENa3EcJ6c5cd) | [Moon Jong Up \- 1st Mini Album "US"](https://open.spotify.com/album/5v8Uj3vFwXfdu8eKiyhUuX) | 2:59 | 2021-07-13 | 2021-09-18 |
 | [VAMOS](https://open.spotify.com/track/3JNgIY0WqPk3qgQapkFumz) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Mini Album 'VAMOS'](https://open.spotify.com/album/1RUIMYrQC6RBohtz83WP7a) | 3:30 | 2021-07-14 | 2021-09-07 |
 | [Vanilla](https://open.spotify.com/track/3MJtE5VkJHHTV74E6KIDIv) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Vanilla](https://open.spotify.com/album/77w56C1tECJwOgVEhNbI5x) | 3:24 | 2021-06-16 | 2021-08-05 |

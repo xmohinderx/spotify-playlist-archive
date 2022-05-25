@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > New joints of the week featuring Quavo, Takeoff, 42 Dugg and more\. Cover: Moneybagg Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,013 likes - 51 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,174 likes - 51 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 17 | [No Reason \(feat\. Lil Keed, Yak Gotti\)](https://open.spotify.com/track/61MF7VjnQqNj6O0dHjNiXC) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6) | [DIE BOUT IT](https://open.spotify.com/album/5Cm5MGbhKTQQzXKmKuzWbN) | 3:57 |
 | 18 | [Meat This](https://open.spotify.com/track/52jBY28ULSi4ayJ57QFbLP) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Meat This](https://open.spotify.com/album/0y1b2ZeIbGhkOcHODiUBxe) | 2:26 |
 | 19 | [Pray 2 The East \(feat\. BNXN fka Buju\)](https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Pray 2 The East](https://open.spotify.com/album/6oOKILSxYzQ3xmk7QDncIR) | 2:58 |
-| 20 | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS) | 3:27 |
+| 20 | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS) | 3:27 |
 | 21 | [Throw a Lil Mo \(Do It\)](https://open.spotify.com/track/68Smyg3JQ1msbItYvplaXD) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Throw a Lil Mo \(Do It\)](https://open.spotify.com/album/1TFnaUsUuZ35fNYguyU0Qo) | 2:05 |
 | 22 | [Congratulations](https://open.spotify.com/track/1UWwGCTP14FDO3N1B7EUQ7) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [DJ ESCO](https://open.spotify.com/artist/2J0JN7EFN10G1Tty6hX0AN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [FACE \(Deluxe Edition\)](https://open.spotify.com/album/4GZSso90oXNVv0OdzXGjth) | 3:25 |
 | 23 | [WIG \(with Moneybagg Yo\)](https://open.spotify.com/track/3BN9oswkyJlCRzCQt1Gqug) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [WIG \(with Moneybagg Yo\)](https://open.spotify.com/album/5tZ8u9BGc4sSOlwWYsAWPB) | 2:57 |

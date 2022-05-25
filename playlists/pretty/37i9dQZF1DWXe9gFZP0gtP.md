@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind with gentle piano and ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,927 likes - 226 songs - 11 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,332 likes - 226 songs - 11 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

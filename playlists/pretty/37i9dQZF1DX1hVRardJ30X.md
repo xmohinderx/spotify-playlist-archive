@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Nicki Nicole, Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,716 likes - 69 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,786 likes - 69 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 32 | [Llamada Perdida](https://open.spotify.com/track/77fKFQdg5ZRrjHbFtA044x) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Llamada Perdida](https://open.spotify.com/album/52xAByT5B6D2veb96DzSaa) | 3:38 |
 | 33 | [Supongo Que Lo Sabes](https://open.spotify.com/track/4gRg5DpOcwXmXXzuGmMC10) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Supongo Que Lo Sabes](https://open.spotify.com/album/4wS8f8NJ6sWR7CmHEUDRZ4) | 3:46 |
 | 34 | [Supernova](https://open.spotify.com/track/4yUAN9jxzSyUQwDqoeAn2o) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Supernova](https://open.spotify.com/album/3mwTLXoy16AqCa3Pokixps) | 2:56 |
-| 35 | [Hazme el Amor](https://open.spotify.com/track/1ghncW2POlIwtzN7lAeH6z) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Hazme el Amor](https://open.spotify.com/album/0dUwmIeGO1XlFWAJdOZYB9) | 3:02 |
+| 35 | [Hazme El Amor](https://open.spotify.com/track/1ghncW2POlIwtzN7lAeH6z) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Hazme El Amor](https://open.spotify.com/album/0dUwmIeGO1XlFWAJdOZYB9) | 3:02 |
 | 36 | [CHTM](https://open.spotify.com/track/37ACkKEaY0U1moI5aZzmKI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [CHTM](https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f) | 3:09 |
 | 37 | [LOS DUEÑOS DE LA CALLE](https://open.spotify.com/track/1aWiVOJDIKVW13w1earaQf) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [LOS DUEÑOS DE LA CALLE](https://open.spotify.com/album/7icb0keRMS05h8wgPN94NG) | 3:44 |
 | 38 | [Sin Ti](https://open.spotify.com/track/3CYpKkl9Qnea3OOsSu4nqu) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv) | [Sin Ti](https://open.spotify.com/album/3vxouUQOjCIleSRZJTwkeD) | 2:59 |

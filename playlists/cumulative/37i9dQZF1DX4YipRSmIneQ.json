@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 180641,
       "name": "100 Bad - Charli XCX Remix",
       "url": "https://open.spotify.com/track/6cLhaRJ12cEBTAGOhHhFfC"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 260027,
       "name": "Amadoda - De Grandi Remix",
       "url": "https://open.spotify.com/track/0Kdap4ZC1RZTTMs6gElkYm"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 273908,
       "name": "Anna Wintour",
       "url": "https://open.spotify.com/track/5Pm7KrSKkDj37SZoMYyXDX"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 182857,
       "name": "CRAZY EXPENSIVE",
       "url": "https://open.spotify.com/track/3k65ubsRA5k39oEoj0AhUr"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 170666,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/2J6QxPB7kFgwQbLE2Ip9Ql"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 179999,
       "name": "Don Dada - Honey Dijon & Luke Solomon's Alcazar Remix",
       "url": "https://open.spotify.com/track/3J7KqNtBKOOjODsAT1u2j4"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 198625,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
@@ -1005,7 +1005,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 130000,
       "name": "flamin hot",
       "url": "https://open.spotify.com/track/3JB2eLZtE0BquAzerKPBPE"
@@ -1237,7 +1237,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 347573,
       "name": "Hott",
       "url": "https://open.spotify.com/track/31Xdw0ZM27KYZC4vLTY7Gw"
@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 142074,
       "name": "Hugh Hefner",
       "url": "https://open.spotify.com/track/4yzCXVdOKzt87w4bRItgNx"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 419074,
       "name": "Lifetime - Planningtorock 'Let It Happen' Remix",
       "url": "https://open.spotify.com/track/6U9opnMMouhZdQaseeVQTq"
@@ -1487,7 +1487,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 184005,
       "name": "Mami",
       "url": "https://open.spotify.com/track/4bpElm0yFq4DD1Tvw0EI4S"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 165700,
       "name": "Mile High Club",
       "url": "https://open.spotify.com/track/0ku3go0J40aUwBycKipoKA"
@@ -1625,6 +1625,24 @@
       "duration_ms": 116756,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/7H06sYnrGsMbWzAR377J8s"
+    },
+    {
+      "album": {
+        "name": "Not Yours",
+        "url": "https://open.spotify.com/album/6MIn9ifpixHNbd7NnaclYa"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        }
+      ],
+      "date_added": "2022-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291500,
+      "name": "Not Yours",
+      "url": "https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1"
     },
     {
       "album": {
@@ -1715,7 +1733,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 253718,
       "name": "Percolator - Original Mix",
       "url": "https://open.spotify.com/track/5JYbPUFjUn0i8BQy1C5JTs"
@@ -1987,7 +2005,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 162735,
       "name": "Shook",
       "url": "https://open.spotify.com/track/18UzSJuF847oRBY2OZWdm3"
@@ -2063,7 +2081,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 233437,
       "name": "Single Right Now",
       "url": "https://open.spotify.com/track/0e4yJYubHKHY4vptUWuV3P"
@@ -2099,7 +2117,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 219095,
       "name": "Skin2Skin",
       "url": "https://open.spotify.com/track/7ywOBvSfbv1hjfAVy3F861"
@@ -2117,7 +2135,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 338975,
       "name": "Sober Raving",
       "url": "https://open.spotify.com/track/21IS2Vz3ay71PldeoPT7C9"
@@ -2223,7 +2241,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 156480,
       "name": "Strut",
       "url": "https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL"
@@ -2333,7 +2351,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 134068,
       "name": "Taste My Body",
       "url": "https://open.spotify.com/track/4mbkDcR6qnklqWPtd4X3q6"
@@ -2373,7 +2391,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 280645,
       "name": "Tear the House Up",
       "url": "https://open.spotify.com/track/2niTP3UJywDtTQj6dP1axR"
@@ -2675,7 +2693,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 232933,
       "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
       "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5"
@@ -2693,7 +2711,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 197419,
       "name": "UP N DOWN",
       "url": "https://open.spotify.com/track/4yPQpupT0yMWpzXfZqrzUT"
@@ -2795,7 +2813,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 204882,
       "name": "WANT NEED LOVE - LSDXOXO Remix",
       "url": "https://open.spotify.com/track/2mE1WGxym75ezXYa8anIY7"
@@ -2831,7 +2849,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 201923,
       "name": "WAY2",
       "url": "https://open.spotify.com/track/1k5UHWNfNn2SKlUamQkfFr"

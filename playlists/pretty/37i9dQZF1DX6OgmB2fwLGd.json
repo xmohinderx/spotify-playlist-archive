@@ -1,61 +1,13 @@
 {
   "description": "The soundtrack to the Internet. Check out <a href=\"spotify:show:3oTlNRRUyazgdUpWZYdvd5\">Internet People Live</a> on Tuesdays at 8pm EST. Cover: Armani White",
-  "num_followers": 1118463,
+  "num_followers": 1118757,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAzNDIwMCwwMDAwMDMyNTAwMDAwMTgwZTA4NDJjM2EwMDAwMDE4MGRlNTEwZWE5",
+  "snapshot_id": "MTY1MzQzMzg2MSwwMDAwMDMyYTAwMDAwMTgwZjg1NjgzY2UwMDAwMDE4MGRlNTEwZWE5",
   "tracks": [
-    {
-      "added_at": "2022-05-20 08:10:00",
-      "album": {
-        "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 99282,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI"
-    },
-    {
-      "added_at": "2022-05-20 08:10:00",
-      "album": {
-        "name": "Fly By",
-        "url": "https://open.spotify.com/album/3YrxOKDzXJnDdevVIgnEJ3"
-      },
-      "artists": [
-        {
-          "name": "iayze",
-          "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
-        }
-      ],
-      "duration_ms": 96839,
-      "name": "Fly By",
-      "url": "https://open.spotify.com/track/6MtKPVlt0AKVj3ZdQFHkqJ"
-    },
-    {
-      "added_at": "2022-05-18 13:09:57",
-      "album": {
-        "name": "DIE FOR MY BITCH",
-        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 169828,
-      "name": "STATS",
-      "url": "https://open.spotify.com/track/0w6webWdhjRKdqJ3DeGgM1"
-    },
     {
       "added_at": "2022-04-29 08:17:00",
       "album": {
@@ -85,20 +37,88 @@
       "url": "https://open.spotify.com/track/3LkWdvgrJtFuM0ZoXKPlpH"
     },
     {
-      "added_at": "2022-05-20 08:10:00",
+      "added_at": "2022-05-18 13:09:57",
       "album": {
-        "name": "piccolo",
-        "url": "https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K"
+        "name": "DIE FOR MY BITCH",
+        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         }
       ],
-      "duration_ms": 120133,
-      "name": "piccolo",
-      "url": "https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz"
+      "duration_ms": 169828,
+      "name": "STATS",
+      "url": "https://open.spotify.com/track/0w6webWdhjRKdqJ3DeGgM1"
+    },
+    {
+      "added_at": "2022-05-24 23:11:01",
+      "album": {
+        "name": "SICK!",
+        "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 148027,
+      "name": "2010",
+      "url": "https://open.spotify.com/track/7ze7yEV1xvxPxuPaF0oUUU"
+    },
+    {
+      "added_at": "2022-05-24 18:22:56",
+      "album": {
+        "name": "We Not Humping (Remix)",
+        "url": "https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 143325,
+      "name": "We Not Humping - Remix",
+      "url": "https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm"
+    },
+    {
+      "added_at": "2022-05-13 06:44:00",
+      "album": {
+        "name": "so silly !",
+        "url": "https://open.spotify.com/album/1Rudga8yVbJbBsFkuKF2YI"
+      },
+      "artists": [
+        {
+          "name": "Koto.",
+          "url": "https://open.spotify.com/artist/7BhOIxOt4a0uyyIu6zJYef"
+        }
+      ],
+      "duration_ms": 103488,
+      "name": "so silly !",
+      "url": "https://open.spotify.com/track/4AAU9Fg5uQqq8OkmhxSxIm"
+    },
+    {
+      "added_at": "2022-05-20 08:10:00",
+      "album": {
+        "name": "BILLIE EILISH.",
+        "url": "https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 99282,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI"
     },
     {
       "added_at": "2022-03-28 17:37:45",
@@ -115,6 +135,146 @@
       "duration_ms": 75428,
       "name": "AirplaneMode",
       "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
+    },
+    {
+      "added_at": "2022-05-13 06:44:00",
+      "album": {
+        "name": "DAMN HOMIE (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/2XNIXSvuuUUdC7I9zsSRvW"
+      },
+      "artists": [
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "DAMN HOMIE (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/1P3ngSxpsmwSVlnAq4iszK"
+    },
+    {
+      "added_at": "2022-04-20 19:24:30",
+      "album": {
+        "name": "Late",
+        "url": "https://open.spotify.com/album/5813hoFP1EHSFiTuI5PREu"
+      },
+      "artists": [
+        {
+          "name": "Cayo",
+          "url": "https://open.spotify.com/artist/1MEkNy8o7kUgle1Yrru6MH"
+        }
+      ],
+      "duration_ms": 108617,
+      "name": "Late",
+      "url": "https://open.spotify.com/track/2KfXUhCXsGW16I8OVgZFeJ"
+    },
+    {
+      "added_at": "2022-05-20 08:10:00",
+      "album": {
+        "name": "Fly By",
+        "url": "https://open.spotify.com/album/3YrxOKDzXJnDdevVIgnEJ3"
+      },
+      "artists": [
+        {
+          "name": "iayze",
+          "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
+        }
+      ],
+      "duration_ms": 96839,
+      "name": "Fly By",
+      "url": "https://open.spotify.com/track/6MtKPVlt0AKVj3ZdQFHkqJ"
+    },
+    {
+      "added_at": "2022-05-02 18:23:48",
+      "album": {
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 168489,
+      "name": "...And to Those I Love, Thanks for Sticking Around",
+      "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
+    },
+    {
+      "added_at": "2022-05-20 08:10:00",
+      "album": {
+        "name": "piccolo",
+        "url": "https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 120133,
+      "name": "piccolo",
+      "url": "https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz"
+    },
+    {
+      "added_at": "2022-05-06 04:08:00",
+      "album": {
+        "name": "F.N.F. (Let's Go)",
+        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 137579,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
+    },
+    {
+      "added_at": "2022-05-24 18:21:41",
+      "album": {
+        "name": "Me vs. Me",
+        "url": "https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 192147,
+      "name": "Shotta Flow 6",
+      "url": "https://open.spotify.com/track/4GKHIuAyQBWSvrVxoej52H"
+    },
+    {
+      "added_at": "2022-05-18 19:23:41",
+      "album": {
+        "name": "A.O Ultra",
+        "url": "https://open.spotify.com/album/5X2NqD0hP43ZuYEIcXcW1L"
+      },
+      "artists": [
+        {
+          "name": "A.Oonthebeat",
+          "url": "https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J"
+        },
+        {
+          "name": "Jupyter",
+          "url": "https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9"
+        }
+      ],
+      "duration_ms": 146729,
+      "name": "Faster - Sped Up",
+      "url": "https://open.spotify.com/track/1MShtYPzkiw12vVAooL4zy"
     },
     {
       "added_at": "2022-05-19 15:33:25",
@@ -149,22 +309,6 @@
       "url": "https://open.spotify.com/track/4g6wkPxpmgBlC6rAtHyaWM"
     },
     {
-      "added_at": "2022-05-20 08:10:00",
-      "album": {
-        "name": "Juggernaut",
-        "url": "https://open.spotify.com/album/4Y9l8cikONcudDMt9j2JdG"
-      },
-      "artists": [
-        {
-          "name": "Slump6s",
-          "url": "https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j"
-        }
-      ],
-      "duration_ms": 110755,
-      "name": "Juggernaut",
-      "url": "https://open.spotify.com/track/5DlENEGphgTy41xxOzpQoo"
-    },
-    {
       "added_at": "2022-05-19 15:33:25",
       "album": {
         "name": "The Bigger Artist",
@@ -183,110 +327,6 @@
       "duration_ms": 209269,
       "name": "Drowning (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
-    },
-    {
-      "added_at": "2022-05-13 06:44:00",
-      "album": {
-        "name": "DAMN HOMIE (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/2XNIXSvuuUUdC7I9zsSRvW"
-      },
-      "artists": [
-        {
-          "name": "yvngxchris",
-          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "DAMN HOMIE (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/1P3ngSxpsmwSVlnAq4iszK"
-    },
-    {
-      "added_at": "2022-05-18 19:23:41",
-      "album": {
-        "name": "A.O Ultra",
-        "url": "https://open.spotify.com/album/5X2NqD0hP43ZuYEIcXcW1L"
-      },
-      "artists": [
-        {
-          "name": "A.Oonthebeat",
-          "url": "https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J"
-        },
-        {
-          "name": "Jupyter",
-          "url": "https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9"
-        }
-      ],
-      "duration_ms": 146729,
-      "name": "Faster - Sped Up",
-      "url": "https://open.spotify.com/track/1MShtYPzkiw12vVAooL4zy"
-    },
-    {
-      "added_at": "2022-05-13 06:44:00",
-      "album": {
-        "name": "so silly !",
-        "url": "https://open.spotify.com/album/1Rudga8yVbJbBsFkuKF2YI"
-      },
-      "artists": [
-        {
-          "name": "Koto.",
-          "url": "https://open.spotify.com/artist/7BhOIxOt4a0uyyIu6zJYef"
-        }
-      ],
-      "duration_ms": 103488,
-      "name": "so silly !",
-      "url": "https://open.spotify.com/track/4AAU9Fg5uQqq8OkmhxSxIm"
-    },
-    {
-      "added_at": "2022-05-20 08:10:00",
-      "album": {
-        "name": "IMAGO DEI",
-        "url": "https://open.spotify.com/album/0AjBEA9BMwFZ1z86QvoeID"
-      },
-      "artists": [
-        {
-          "name": "WELL$",
-          "url": "https://open.spotify.com/artist/0LHzh8WdqxdtnTzp0XIOyZ"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "IMAGO DEI",
-      "url": "https://open.spotify.com/track/6zl1eXulHnfWYmiJTNW4eW"
-    },
-    {
-      "added_at": "2022-05-02 18:23:48",
-      "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 168489,
-      "name": "...And to Those I Love, Thanks for Sticking Around",
-      "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
-    },
-    {
-      "added_at": "2022-04-20 19:24:30",
-      "album": {
-        "name": "Late",
-        "url": "https://open.spotify.com/album/5813hoFP1EHSFiTuI5PREu"
-      },
-      "artists": [
-        {
-          "name": "Cayo",
-          "url": "https://open.spotify.com/artist/1MEkNy8o7kUgle1Yrru6MH"
-        }
-      ],
-      "duration_ms": 108617,
-      "name": "Late",
-      "url": "https://open.spotify.com/track/2KfXUhCXsGW16I8OVgZFeJ"
     },
     {
       "added_at": "2022-02-10 16:05:00",
@@ -545,6 +585,22 @@
       "url": "https://open.spotify.com/track/2fvAP52y708KxkAOnI5LYa"
     },
     {
+      "added_at": "2022-05-20 08:10:00",
+      "album": {
+        "name": "Juggernaut",
+        "url": "https://open.spotify.com/album/4Y9l8cikONcudDMt9j2JdG"
+      },
+      "artists": [
+        {
+          "name": "Slump6s",
+          "url": "https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j"
+        }
+      ],
+      "duration_ms": 110755,
+      "name": "Juggernaut",
+      "url": "https://open.spotify.com/track/5DlENEGphgTy41xxOzpQoo"
+    },
+    {
       "added_at": "2022-05-13 06:44:00",
       "album": {
         "name": "ily",
@@ -559,6 +615,22 @@
       "duration_ms": 125852,
       "name": "ily",
       "url": "https://open.spotify.com/track/52otgxiSY8ywOjoSqi0aVV"
+    },
+    {
+      "added_at": "2022-05-20 08:10:00",
+      "album": {
+        "name": "IMAGO DEI",
+        "url": "https://open.spotify.com/album/0AjBEA9BMwFZ1z86QvoeID"
+      },
+      "artists": [
+        {
+          "name": "WELL$",
+          "url": "https://open.spotify.com/artist/0LHzh8WdqxdtnTzp0XIOyZ"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "IMAGO DEI",
+      "url": "https://open.spotify.com/track/6zl1eXulHnfWYmiJTNW4eW"
     },
     {
       "added_at": "2022-05-17 18:50:16",
@@ -1037,26 +1109,6 @@
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
     },
     {
-      "added_at": "2022-04-14 15:05:53",
-      "album": {
-        "name": "ScatPacc (feat. NLE Choppa)",
-        "url": "https://open.spotify.com/album/4LJxpok0JXlEKtF1hYcXhL"
-      },
-      "artists": [
-        {
-          "name": "Baby Hot",
-          "url": "https://open.spotify.com/artist/4mKGgMDSLv2POrC1CJ84xc"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "ScatPacc (feat. NLE Choppa)",
-      "url": "https://open.spotify.com/track/2WSoVPCIzIQkgMT4SD9LzE"
-    },
-    {
       "added_at": "2022-04-14 15:10:35",
       "album": {
         "name": "GED",
@@ -1323,26 +1375,6 @@
       "duration_ms": 196736,
       "name": "OUT THE WINDOW (feat. Overpade)",
       "url": "https://open.spotify.com/track/7nI9OipD1znuQKuPG9zBRq"
-    },
-    {
-      "added_at": "2022-05-06 04:08:00",
-      "album": {
-        "name": "F.N.F. (Let's Go)",
-        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
-      },
-      "artists": [
-        {
-          "name": "Hitkidd",
-          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 137579,
-      "name": "F.N.F. (Let's Go)",
-      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
     },
     {
       "added_at": "2022-02-02 22:22:20",
@@ -1705,22 +1737,6 @@
       "url": "https://open.spotify.com/track/08hDpMZBxJ11C4Eev0cXvt"
     },
     {
-      "added_at": "2022-04-06 22:28:32",
-      "album": {
-        "name": "Vlamily",
-        "url": "https://open.spotify.com/album/04UXzrSTCTv7AN32oxVpKF"
-      },
-      "artists": [
-        {
-          "name": "Zelly Ocho",
-          "url": "https://open.spotify.com/artist/3svb0AOLHdFPE6P8PRB2ML"
-        }
-      ],
-      "duration_ms": 115879,
-      "name": "Deadguy",
-      "url": "https://open.spotify.com/track/1lITtbljRbadZO0eXgSoIX"
-    },
-    {
       "added_at": "2022-03-04 05:04:00",
       "album": {
         "name": "Cooler Than Me",
@@ -1735,22 +1751,6 @@
       "duration_ms": 127621,
       "name": "Cooler Than Me",
       "url": "https://open.spotify.com/track/54q8OmZWMQeHwiYgran4e9"
-    },
-    {
-      "added_at": "2022-04-22 05:42:00",
-      "album": {
-        "name": "No Big Deal",
-        "url": "https://open.spotify.com/album/1In8f10K2NLMfNeEeSsFTb"
-      },
-      "artists": [
-        {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
-        }
-      ],
-      "duration_ms": 93124,
-      "name": "No Big Deal",
-      "url": "https://open.spotify.com/track/13onhP0FAk3dKOnjOhKXpq"
     },
     {
       "added_at": "2022-02-02 17:46:43",

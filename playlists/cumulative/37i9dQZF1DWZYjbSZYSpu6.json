@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 215386,
       "name": "Be Your Enemy",
       "url": "https://open.spotify.com/track/1ssN3REdzr9dUIZ6T8rD1T"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 204613,
       "name": "Beautiful Mint Life",
       "url": "https://open.spotify.com/track/7qKkB9oyLR3af8C17eFkqP"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 197544,
       "name": "Close your eyes",
       "url": "https://open.spotify.com/track/5cayMuBfz8d5PjXTHPO1bX"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 170440,
       "name": "Day n Nite",
       "url": "https://open.spotify.com/track/07Utjf3lswD9x7yGuwfviQ"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 331124,
       "name": "Doesn't make sense (Feat. HEIZE)",
       "url": "https://open.spotify.com/track/6mkOBtJkloqzGVLoVciaCt"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 186823,
       "name": "DON`T SAY GOODBYE",
       "url": "https://open.spotify.com/track/0A7XRj5gP3Cx44awg1yOIE"
@@ -1100,6 +1100,32 @@
     },
     {
       "album": {
+        "name": "Midnight Candy",
+        "url": "https://open.spotify.com/album/6jU28TIxDs4HEkaJ4ea2zO"
+      },
+      "artists": [
+        {
+          "name": "Fromm",
+          "url": "https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3"
+        },
+        {
+          "name": "Car",
+          "url": "https://open.spotify.com/artist/4IwZDPPzFIVVN2DSVudIZO"
+        },
+        {
+          "name": "The Garden",
+          "url": "https://open.spotify.com/artist/60OalAUIgelvXUGPkrFm6O"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183003,
+      "name": "Hold Me Like It\u2019s Forever",
+      "url": "https://open.spotify.com/track/6QZJTunvjAU44kpXzDNXzn"
+    },
+    {
+      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/4FwZ6ZCeZVo7wQ3abMjvH4"
       },
@@ -1247,7 +1273,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 248758,
       "name": "IWST",
       "url": "https://open.spotify.com/track/7jLusgqUbcOKTQfCzLR9S3"
@@ -1353,7 +1379,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 207333,
       "name": "Let's Get Lost",
       "url": "https://open.spotify.com/track/5hYYEUnGVFlAf9F95tZsrT"
@@ -1511,7 +1537,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 210133,
       "name": "Love Encore (with Lee Sora)",
       "url": "https://open.spotify.com/track/3aOfUJ7IUbVDa3X5pAshOv"
@@ -1599,7 +1625,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 190257,
       "name": "Lovelylove (feat. CHOI NAKTA)",
       "url": "https://open.spotify.com/track/0tyXMBNyUjV5oSuctNXZaw"
@@ -1665,7 +1691,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 199266,
       "name": "Mayday (Feat. Joy)",
       "url": "https://open.spotify.com/track/3k7ikTNf1Ms0ZfTsoe9Blk"
@@ -1709,7 +1735,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/0E09yC5CNtv2TAQ0rafPPU"
@@ -1841,7 +1867,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 244493,
       "name": "Not Fine",
       "url": "https://open.spotify.com/track/0jN5uSFOVZ3x4TKnNNsybi"
@@ -1863,7 +1889,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
@@ -1951,7 +1977,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 217412,
       "name": "Palette (feat. G-DRAGON)",
       "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
@@ -2061,7 +2087,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 263765,
       "name": "Rainy Season (feat. Han All)",
       "url": "https://open.spotify.com/track/0Nzep4V4BeWp2hI9hrQ1g3"
@@ -2189,7 +2215,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 202000,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/3CPUiZgVUQrKdZtjkzf9U6"
@@ -2211,7 +2237,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 179945,
       "name": "Shade (feat. HEN)",
       "url": "https://open.spotify.com/track/2Mqpx34FPQQg3J1FFQeUHT"
@@ -2317,7 +2343,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 281066,
       "name": "Song Request \uc2e0\uccad\uace1 (feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/57jBcQUCJaIUTRbqBmW7D1"
@@ -2485,7 +2511,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 242866,
       "name": "Still missing you",
       "url": "https://open.spotify.com/track/0F1PK0NJ8eXuiWpKqj98Wb"
@@ -2577,7 +2603,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 234705,
       "name": "Sweet Kiss Like Coffee",
       "url": "https://open.spotify.com/track/2M0c6RddlHFOHPKwxfqMlW"
@@ -2709,7 +2735,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 252448,
       "name": "The Sea with Stars (Feat. Hailey Jeong)",
       "url": "https://open.spotify.com/track/7pEMEaMHoFkt60BPWVKWC0"
@@ -2885,7 +2911,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 189920,
       "name": "Troll (Feat. DEAN)",
       "url": "https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj"
@@ -2963,7 +2989,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 224684,
       "name": "Under The Moon-light \uc6b0\ub9b0 \ub098\ub780\ud788 \uc549\uc544",
       "url": "https://open.spotify.com/track/769mRD2opGFL5s5sbXqRlC"
@@ -3025,7 +3051,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 185601,
       "name": "Walk In The Night (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK"
@@ -3109,7 +3135,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 242837,
       "name": "When You Fall",
       "url": "https://open.spotify.com/track/615AGw524AbNzTWUjHwXpO"
@@ -3149,7 +3175,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 232194,
       "name": "WINE (Feat.Changmo)(Prod. by SUGA)",
       "url": "https://open.spotify.com/track/2WnJKDk2OlzrTL9OFsKDMW"

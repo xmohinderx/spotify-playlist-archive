@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QOv5kjbU68.md) - [plain]
 
 > Hear all of Drake's biggest and best hits in one playlist\. Thank us later.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,503,639 likes - 107 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,504,246 likes - 107 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QOv5kjbU68.md) - [plain]
 | 12 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 |
 | 13 | [Talk To Me](https://open.spotify.com/track/3Kwdm0iLyEiRB8InsZoo6n) | [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [The Truth Hurts](https://open.spotify.com/album/2bY51cinHBlscXIoLUsDYa) | 3:47 |
 | 14 | [In The Bible \(with Lil Durk & Giveon\)](https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:56 |
-| 15 | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/album/7MQJy9di8JoLJOkG5mZAry) | 3:46 |
+| 15 | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS) | [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/album/7MQJy9di8JoLJOkG5mZAry) | 3:46 |
 | 16 | [Race My Mind](https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:29 |
 | 17 | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43) | 4:21 |
 | 18 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 |

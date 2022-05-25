@@ -4,7 +4,7 @@
 
 > 
 
-115 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
+119 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,10 @@
 | [After The Rain](https://open.spotify.com/track/1mLzJfxZVjF9MVUb1AEs8C) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Plays John Coltrane At The Village Vanguard](https://open.spotify.com/album/0utLknrD4Ylp6s4r5KMoPJ) | 3:37 | 2022-04-12 | 2022-04-27 |
 | [Afterhours](https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 2:58 | 2022-04-12 |  |
 | [All Alone](https://open.spotify.com/track/3I5wdCgOJ0q3dBly0fyErW) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:26 | 2022-04-12 |  |
+| [As Time Goes By](https://open.spotify.com/track/1YGrZ7JjSgG0F5mkPTLJd1) | [Jené Martins](https://open.spotify.com/artist/6ivuOAayX7AMI5dMc32BHo) | [As Time Goes By](https://open.spotify.com/album/7scZsHKFNYwwCD7S6U057m) | 4:02 | 2022-05-24 |  |
+| [Au revoir](https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Au revoir](https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3) | 2:31 | 2022-05-24 |  |
 | [Bellevue](https://open.spotify.com/track/2Djv53hoQWobBuNHkSKpXC) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Doldrums](https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p) | 3:21 | 2022-04-12 |  |
+| [Blue In Green](https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Blue In Green](https://open.spotify.com/album/3tTWhbuhhWWeh9dd30hwPW) | 3:47 | 2022-05-24 |  |
 | [Body & Soul](https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Body & Soul](https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2) | 4:44 | 2022-04-12 | 2022-05-04 |
 | [But Beautiful](https://open.spotify.com/track/3Go7lD0l36UKtc5ocAazVv) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [But Beautiful](https://open.spotify.com/album/6hw3wT7eq3sQtG5kD6rcvQ) | 4:48 | 2022-04-12 |  |
 | [Caramelle](https://open.spotify.com/track/3aursaVkHsjlf72cAuhl41) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Caramelle](https://open.spotify.com/album/3Uv2i6LlSDo65sr76fdpHF) | 3:54 | 2022-04-12 |  |
@@ -53,6 +56,7 @@
 | [It Never Entered My Mind](https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [It Never Entered My Mind](https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd) | 4:46 | 2022-04-12 |  |
 | [I’ll be seeing you](https://open.spotify.com/track/5G9YKF1s6iBcsphlKZ43qD) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [You must believe in spring](https://open.spotify.com/album/2K69h6JK7ZyinakSj3GYKf) | 2:30 | 2022-04-12 |  |
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2022-04-12 |  |
+| [Let's Fall in Love](https://open.spotify.com/track/61Wv9rlpZz27NHul5O6XN7) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Jazz Piano Before Midnight](https://open.spotify.com/album/6tC4AiQ7S9tz8bCrOmzfKo) | 2:03 | 2022-05-24 |  |
 | [Like Someone in Love](https://open.spotify.com/track/7HfS1TFqIaAO044jhCmNAl) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Like Someone in Love](https://open.spotify.com/album/55LGBLAN5hoiDD4hGF0l0r) | 3:32 | 2022-04-12 |  |
 | [Lover Man](https://open.spotify.com/track/57fzmVpvr8OGQ3BkfqUexq) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Steve Kuhn: Mostly Ballads](https://open.spotify.com/album/2xVes2Z1pyjUToAH1xFWdY) | 4:10 | 2022-04-12 |  |
 | [Maiden Voyage](https://open.spotify.com/track/6VOiZnNwb9ivWc4IkLpRNY) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Maiden Voyage](https://open.spotify.com/album/5NsD5YrOufu6fD9Zxj4dsw) | 2:35 | 2022-04-26 |  |
@@ -70,7 +74,7 @@
 | [One of your little friends](https://open.spotify.com/track/24mDMSSd3K07ilwCA83WzW) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [One of your little friends](https://open.spotify.com/album/4Y5JiG4M9HjYWqsgK3vv5n) | 2:43 | 2022-04-12 |  |
 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 | 2022-04-12 |  |
 | [P.S\. I Love You](https://open.spotify.com/track/2pmeZ067WnFhjPc6zZS3xy) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [P.S\. I Love You](https://open.spotify.com/album/3s81XUnnsE4TlY5zGJ0KBH) | 3:16 | 2022-04-12 |  |
-| [Patience](https://open.spotify.com/track/0ZzPIIMHqHHzV6Mcwf1jSD) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ) | [Kaleidoscope](https://open.spotify.com/album/5pIl9Il7hr9t9chPHHrHA0) | 5:43 | 2022-04-12 |  |
+| [Patience](https://open.spotify.com/track/0ZzPIIMHqHHzV6Mcwf1jSD) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ) | [Kaleidoscope](https://open.spotify.com/album/5pIl9Il7hr9t9chPHHrHA0) | 5:43 | 2022-04-12 | 2022-05-25 |
 | [Peace](https://open.spotify.com/track/5TbGgNC1yyV9NGEQqA9myW) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Peace](https://open.spotify.com/album/47srmsx8SpAb0YQhA9fLva) | 3:13 | 2022-04-12 |  |
 | [Pennies From Heaven](https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [Pennies From Heaven](https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0) | 4:29 | 2022-04-12 |  |
 | [Playing for Keeps](https://open.spotify.com/track/7vKu6hdtAkVRMYCrTIlOwm) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [Playing for Keeps](https://open.spotify.com/album/7eL9bqXcG2pESJMAuwSulr) | 2:20 | 2022-04-12 |  |

@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 237093,
       "name": "Cancioncitas de Amor",
       "url": "https://open.spotify.com/track/6bcdiJvYNX115yvbh3wASz"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 244973,
       "name": "Disfruto",
       "url": "https://open.spotify.com/track/0zTSmiDzVkIPUPjsHcUWpe"
@@ -544,6 +544,24 @@
     },
     {
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2021-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240093,
+      "name": "Encantadora",
+      "url": "https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb"
+    },
+    {
+      "album": {
         "name": "D\u00e9jenme Llorar",
         "url": "https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA"
       },
@@ -555,7 +573,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 228253,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX"
@@ -751,7 +769,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 195666,
       "name": "La Misma Luna",
       "url": "https://open.spotify.com/track/6KZwTh8jF5DnuqBok3yIYS"
@@ -809,7 +827,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 221946,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
@@ -885,7 +903,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 213133,
       "name": "Loco",
       "url": "https://open.spotify.com/track/5TDakCWQMtVYURFbs9XIRv"
@@ -1015,7 +1033,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 155946,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 245360,
       "name": "Por Perro",
       "url": "https://open.spotify.com/track/5HI2GCzPYbLkkr5kXtjvTD"
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 242000,
       "name": "Que Lloro (with Carla Morrison)",
       "url": "https://open.spotify.com/track/1XQYjTzZTKfvP69S5yJkaH"
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 249253,
       "name": "Qui\u00e9n",
       "url": "https://open.spotify.com/track/5ZZuokF4h1FlfTlSQhLCmG"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 183926,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV"
@@ -1569,7 +1587,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 212946,
       "name": "Un Amor de Verdad",
       "url": "https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU"
@@ -1645,7 +1663,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 199920,
       "name": "Voy a Olvidarte",
       "url": "https://open.spotify.com/track/3qTV9z5FZg6IDPAkjUK6Mc"
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 225213,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3wGRfBDRNQb0nFDFrUPvq6"
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 229253,
       "name": "\u00bfA D\u00f3nde Vamos A Parar?",
       "url": "https://open.spotify.com/track/4fDMVI79jXH7S26uawPeXL"

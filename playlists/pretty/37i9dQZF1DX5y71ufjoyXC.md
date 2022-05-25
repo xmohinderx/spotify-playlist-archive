@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y71ufjoyXC.md) - [plain]
 
 > The Latin viral tracks you'll wanna listen to\. Cover: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,917 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013,111 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y71ufjoyXC.md) - [plain]
 | 26 | [Problemón](https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Problemón](https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj) | 3:13 |
 | 27 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 |
 | 28 | [TE DESEO LO MEJOR](https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:19 |
-| 29 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 |
+| 29 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 |
 | 30 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 |
 | 31 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 |
 | 32 | [Una Vaina Loca](https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca](https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM) | 3:46 |

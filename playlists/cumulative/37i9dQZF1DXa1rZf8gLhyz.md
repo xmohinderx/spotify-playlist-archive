@@ -4,7 +4,7 @@
 
 > Let these jazz tracks lull you to sleep.
 
-139 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
+142 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,10 +19,12 @@
 | [And Then](https://open.spotify.com/track/1ZepDoXqsQdiyD87zBxYK1) | [Ben Evans\-Parker](https://open.spotify.com/artist/5ItKNtikXXvdBrzYzwVplB) | [And Then](https://open.spotify.com/album/08zpU0LpH2KBdjP6Cqm2E5) | 2:27 | 2021-12-07 | 2022-02-02 |
 | [As We Speak](https://open.spotify.com/track/1a2lP6SjYE38IRWc6Sxzmn) | [Logan Jameison](https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt) | [As We Speak](https://open.spotify.com/album/1TsNdg1ekGBfxYsjeEnOCy) | 2:56 | 2021-12-07 |  |
 | [Ask Me Now](https://open.spotify.com/track/0Fjj6Gvywafx1n5HStRNs5) | [Daniel Hopeland](https://open.spotify.com/artist/2vrFPeJli5gfJIv5zxVwbO) | [Ask Me Now](https://open.spotify.com/album/0q9x1QQbHUsNMuSwbuvclJ) | 3:56 | 2021-12-07 |  |
+| [Au revoir](https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Au revoir](https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3) | 2:31 | 2022-05-24 |  |
 | [Autumn Leaves](https://open.spotify.com/track/4LYLph6AcRon1BE7FBWJ3T) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Autumn Leaves](https://open.spotify.com/album/0tyCq5vbWN9HCkcqdDQhxm) | 3:26 | 2021-12-07 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/72a5Xt8LRTZUlngpYOhiTb) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bewitched, Bothered and Bewildered](https://open.spotify.com/album/3eBxwgLkJLuT4ZV8rKteFP) | 3:04 | 2021-12-07 |  |
 | [Black Orpheus](https://open.spotify.com/track/5crwi7w4axA84xOKxRhpXt) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Black Orpheus](https://open.spotify.com/album/34FIW4OJyTWzbeRwxLWKM4) | 3:40 | 2021-12-07 | 2022-02-16 |
 | [Blame it on My Youth](https://open.spotify.com/track/1KWj5vKH4ns49fPDsD6Qa1) | [Seth William](https://open.spotify.com/artist/4wmS3zcqEbHaGPSib72vQB) | [In Love For the Rest of My Life](https://open.spotify.com/album/7um0tlhr6y5RIufvcyVjbp) | 2:33 | 2021-12-07 |  |
+| [Blue In Green](https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Blue In Green](https://open.spotify.com/album/3tTWhbuhhWWeh9dd30hwPW) | 3:47 | 2022-05-24 |  |
 | [Body And Soul](https://open.spotify.com/track/4lUAG8GuCyKBCDzeEbhJHg) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Body And Soul](https://open.spotify.com/album/5TlUCTFnIHb21H4fvGFPSf) | 4:00 | 2021-12-07 |  |
 | [But Beautiful](https://open.spotify.com/track/2HrJMEYnGTwBSKVOV2v7Ks) | [Margaret Shu](https://open.spotify.com/artist/2rXYYqYz9gNCletxt5R1M5) | [You Know I Care](https://open.spotify.com/album/6stS7pmTQEtTSN6Gfiroul) | 3:51 | 2021-12-07 |  |
 | [Caramelle](https://open.spotify.com/track/3aursaVkHsjlf72cAuhl41) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Caramelle](https://open.spotify.com/album/3Uv2i6LlSDo65sr76fdpHF) | 3:54 | 2022-01-04 |  |
@@ -71,6 +73,7 @@
 | [Lament](https://open.spotify.com/track/7psqOiW2f8t6rJO8DNyeCm) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Lament](https://open.spotify.com/album/6aerbGECcBi4QOcILX5koS) | 4:27 | 2021-12-07 |  |
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2021-12-07 |  |
 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/7E1eNodaXumIQKrnzv2kzb) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [A Foggy Day](https://open.spotify.com/album/3MPhQbsiYueZQ89XBRCgL1) | 3:52 | 2021-12-07 |  |
+| [Let's Fall in Love](https://open.spotify.com/track/61Wv9rlpZz27NHul5O6XN7) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Jazz Piano Before Midnight](https://open.spotify.com/album/6tC4AiQ7S9tz8bCrOmzfKo) | 2:03 | 2022-05-24 |  |
 | [Like Someone in Love](https://open.spotify.com/track/7HfS1TFqIaAO044jhCmNAl) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Like Someone in Love](https://open.spotify.com/album/55LGBLAN5hoiDD4hGF0l0r) | 3:32 | 2021-12-07 |  |
 | [Like Someone in Love](https://open.spotify.com/track/4PiUoO6xh4xQNxpKQwgGId) | [Milos Strevic](https://open.spotify.com/artist/5MCalzVGSntMjjmo9JZKgC) | [Like Someone in love](https://open.spotify.com/album/1nAbNCv6V6YSZfdLHjX9uj) | 3:32 | 2021-12-07 | 2022-01-14 |
 | [Lover Man](https://open.spotify.com/track/23Q0MMsuaZkngkmx8CEEQl) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lover Man](https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz) | 3:28 | 2021-12-07 | 2022-02-16 |

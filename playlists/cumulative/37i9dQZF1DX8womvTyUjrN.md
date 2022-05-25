@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Juliana
 
-111 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/7Ccvzuluaa4ypGALpBeYBn)
+112 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/7Ccvzuluaa4ypGALpBeYBn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Tu Lado](https://open.spotify.com/track/2sxGambjEMewIexGbpP089) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ) | 4:04 | 2022-03-21 | 2022-04-02 |
 | [After](https://open.spotify.com/track/13VKzAXOVaZvdID3eg7GRU) | [M4gna](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Vgomez](https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4) | [After](https://open.spotify.com/album/7sHETRN0d1Drl92z6jawH2) | 2:59 | 2022-04-15 | 2022-05-19 |
 | [Alcancía](https://open.spotify.com/track/020womZSqTEXnoDptWI6mL) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Alcancía](https://open.spotify.com/album/21FzQPHfPmEK4XLeETdC7o) | 3:18 | 2022-03-21 | 2022-04-15 |
+| [Alguien Más](https://open.spotify.com/track/2KmMR2NuY9gjDdVXSyUJ9m) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Alguien Más](https://open.spotify.com/album/5sOAl2yXC33MCabAevDQqP) | 2:12 | 2022-05-24 |  |
 | [Amor](https://open.spotify.com/track/0r9iiHyIEnnOYjK6kpGY9s) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Wish You Were Here](https://open.spotify.com/album/4ImJm5YBExvjj6X9N5yfeq) | 2:42 | 2022-04-20 |  |
 | [Antes de Ti](https://open.spotify.com/track/6wTtoD7TPVQ7QvibaTGGTA) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Antes de Ti](https://open.spotify.com/album/5dXCHfpk5cstC7GIdQx0Gi) | 2:51 | 2022-03-21 | 2022-05-21 |
 | [Antónimos](https://open.spotify.com/track/66mA8bN15swKsFoeyHLJTT) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Antónimos](https://open.spotify.com/album/1awxHDaPvY65gcHl8JBx6B) | 2:59 | 2022-03-21 |  |
@@ -31,7 +32,7 @@
 | [Braille](https://open.spotify.com/track/1BnyQf6WeVs32MZF5ah9u0) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Braille](https://open.spotify.com/album/3SSIS1EkkgWQ6bUVDT4Qji) | 2:52 | 2022-03-21 |  |
 | [Bésame Bonito](https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Bésame Bonito](https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi) | 3:00 | 2022-03-21 |  |
 | [Café](https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn) | [Mila](https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5) | [Café](https://open.spotify.com/album/4xWKfkBOyOca4gEy1Vvd7g) | 3:13 | 2022-04-01 |  |
-| [Chill Ish](https://open.spotify.com/track/1GzqJgkd2brZEoXtf1ctVV) | [NOVA](https://open.spotify.com/artist/6hMxAjfLqgMK5P7oBGXdOT) | [Chill Ish](https://open.spotify.com/album/1SGLItMEtFK3IFwMyM6lOD) | 2:05 | 2022-04-15 | 2022-05-24 |
+| [Chill Ish](https://open.spotify.com/track/1GzqJgkd2brZEoXtf1ctVV) | [NOVA](https://open.spotify.com/artist/6hMxAjfLqgMK5P7oBGXdOT) | [Chill Ish](https://open.spotify.com/album/1SGLItMEtFK3IFwMyM6lOD) | 2:05 | 2022-04-15 |  |
 | [cloud 9](https://open.spotify.com/track/6o1s4iCIurJ9p8GUdJZutk) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [cloud 9](https://open.spotify.com/album/69fPMw0i7maalscSEnIhGd) | 3:12 | 2022-03-21 | 2022-05-07 |
 | [Cobardes](https://open.spotify.com/track/19MrGoBqSf0fMq3ez53ILU) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:50 | 2022-03-21 |  |
 | [Con Otro](https://open.spotify.com/track/7LGSyd539njNtqA6GfgCVv) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Con Otro](https://open.spotify.com/album/6eThBhSMkokwuwEZFG3UxW) | 2:31 | 2022-03-21 |  |
@@ -70,7 +71,7 @@
 | [Moka](https://open.spotify.com/track/0YWNYdhTHfWkXw4fiWRbJH) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Moka](https://open.spotify.com/album/1ePn83tNOKrljAeDRekgTE) | 3:07 | 2022-05-20 |  |
 | [Money](https://open.spotify.com/track/2e619mb1Ug2Ws7e62vQteT) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Money](https://open.spotify.com/album/4XgcQp5grjwlXpcUrhMw5P) | 2:33 | 2022-03-21 |  |
 | [Moschino](https://open.spotify.com/track/2TOXwgZo66czJlgbY8cnAG) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [Moschino](https://open.spotify.com/album/4i9gzbR2drDJXDCgeCDlMS) | 2:35 | 2022-03-21 |  |
-| [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 | 2022-04-14 |  |
+| [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 | 2022-04-14 | 2022-05-25 |
 | [Música Ligera](https://open.spotify.com/track/1lMuQJHBznRfq7GdQrIQN4) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Música Ligera](https://open.spotify.com/album/77APd2Q91Ju6844akH2Xbj) | 3:55 | 2022-04-01 | 2022-04-16 |
 | [Nada Tuyo](https://open.spotify.com/track/5KyC2wlH7acp95IFTQ2yLN) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Nada Tuyo](https://open.spotify.com/album/2XqvAoaxho6Ls0SyvRHxY8) | 3:26 | 2022-05-13 |  |
 | [NEGRO MATE](https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 2:51 | 2022-03-21 | 2022-04-02 |
@@ -117,7 +118,7 @@
 | [Tu Debilidad \(feat\. Emilia\)](https://open.spotify.com/track/1XzihhvRzOHYmVImIZ9g8Q) | [Mati Gómez](https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tu Debilidad \(feat\. Emilia\)](https://open.spotify.com/album/1qrlFEQBcFkWfH0dxjkMDQ) | 2:41 | 2022-03-21 |  |
 | [Tu Foto](https://open.spotify.com/track/6sbE1uNp4efoI3vR41d0uD) | [Daishan](https://open.spotify.com/artist/3nUAKuxhyBw6JFWNUaZWbE) | [Tu Foto](https://open.spotify.com/album/0t5u5KgV1AEMpey8RcrNUJ) | 3:00 | 2022-03-21 |  |
 | [TuTuRu](https://open.spotify.com/track/1EogpG7fkDaEPRxSdAfyWe) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [TuTuRu](https://open.spotify.com/album/21nYU75PGArPV2CBoXw5jt) | 2:51 | 2022-03-21 | 2022-05-21 |
-| [Tóxico](https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:18 | 2022-04-01 |  |
+| [Tóxico](https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:18 | 2022-04-01 | 2022-05-25 |
 | [vuelve](https://open.spotify.com/track/565mWLRnlRTcfGdruoxJbP) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [vuelve](https://open.spotify.com/album/5Lw8CZl4zZG5uMxvHeqJnE) | 3:21 | 2022-05-06 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

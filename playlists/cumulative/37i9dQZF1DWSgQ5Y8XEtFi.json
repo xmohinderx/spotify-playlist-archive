@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 156780,
       "name": "151 Rum",
       "url": "https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 101783,
       "name": "ALL KILLER NO FILLER",
       "url": "https://open.spotify.com/track/6nfnDSD5Wa9LAD8jeN5tix"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 201160,
       "name": "BUZZCUT (feat. Danny Brown)",
       "url": "https://open.spotify.com/track/6s24LFkjo06wYVpxJppovm"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 125333,
       "name": "don't look at me!",
       "url": "https://open.spotify.com/track/7Jevry2udc6oqg6RNpmcl8"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 123870,
       "name": "Leglock",
       "url": "https://open.spotify.com/track/0erWz20ZejKi8WRNoeNQjJ"
@@ -1406,6 +1406,24 @@
     },
     {
       "album": {
+        "name": "OPTICAL RANGE",
+        "url": "https://open.spotify.com/album/1A1UxGFrZqpXEOKz1mbu24"
+      },
+      "artists": [
+        {
+          "name": "Mista Playa",
+          "url": "https://open.spotify.com/artist/1HKnpKgZV66Fo0wLW9K25i"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116826,
+      "name": "OPTICAL RANGE",
+      "url": "https://open.spotify.com/track/0H00Yx4Ih4L3m2tOgEQNtO"
+    },
+    {
+      "album": {
         "name": "Parade",
         "url": "https://open.spotify.com/album/6NhCwnGXxezzXptdm3MNL7"
       },
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 132923,
       "name": "Square Up",
       "url": "https://open.spotify.com/track/5QVVZCiiLA4U6ZPA1OXU5f"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 167253,
       "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
       "url": "https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp"
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 124093,
       "name": "Vamp Anthem",
       "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
@@ -1951,7 +1969,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 205093,
       "name": "Who Dat Boy (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/21yRtB6B8EMounImAfHRCP"

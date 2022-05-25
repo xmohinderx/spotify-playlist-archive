@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Ali Kiba
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,229 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,262 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

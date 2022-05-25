@@ -30,6 +30,28 @@
     },
     {
       "album": {
+        "name": "A Little Bit",
+        "url": "https://open.spotify.com/album/7wbsace1VaY31fir8cMVNB"
+      },
+      "artists": [
+        {
+          "name": "Matteo",
+          "url": "https://open.spotify.com/artist/31s5WlyPC6fwjO56yCwors"
+        },
+        {
+          "name": "Idahams",
+          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182449,
+      "name": "A Little Bit (feat. Idahams)",
+      "url": "https://open.spotify.com/track/5Fgu8nTqg5CtXxGJrZ0RH1"
+    },
+    {
+      "album": {
         "name": "A M\u00ed",
         "url": "https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO"
       },
@@ -299,7 +321,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
@@ -499,7 +521,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 196973,
       "name": "Diggy Dee - Remix",
       "url": "https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq"
@@ -1125,7 +1147,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 182857,
       "name": "Ma Lo",
       "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
@@ -1169,7 +1191,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 197210,
       "name": "Mare Mare",
       "url": "https://open.spotify.com/track/4Z6VSJZDhmMhS9V7E4etFV"
@@ -1191,7 +1213,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 207234,
       "name": "Maria",
       "url": "https://open.spotify.com/track/33UTgzWoQmA8tJHoAt9pbX"
@@ -1673,7 +1695,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 215240,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O"
@@ -1901,7 +1923,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 226866,
       "name": "Tun Up",
       "url": "https://open.spotify.com/track/282NqBO5Lzg6oXoaNGK9kd"
@@ -1957,7 +1979,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 245414,
       "name": "Vamos Com Tudo (feat. Preto Show)",
       "url": "https://open.spotify.com/track/0HvaUKWOXnwAaTmoh4IBYy"
@@ -2019,7 +2041,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 212307,
       "name": "Zimenice",
       "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
