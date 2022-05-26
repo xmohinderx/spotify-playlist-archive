@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 153173,
       "name": "A Little Too Much (Bastiaan & DJ Shaan)",
       "url": "https://open.spotify.com/track/347rb0KODv9NHZ4MG8yOdN"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 142031,
       "name": "Back and Forth",
       "url": "https://open.spotify.com/track/0ghwYfLQQnJsjoVZJ1tWeh"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 179893,
       "name": "Blue (Da Ba Dee) - Sound of Legend Version Edit",
       "url": "https://open.spotify.com/track/3JUxU3KohteqkLk9BOpQ1c"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 179512,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 171360,
       "name": "Call on Me - Radio Mix",
       "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
@@ -1867,7 +1867,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/4J7k917t9AzjC1E58pQVCE"
@@ -2039,7 +2039,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 165440,
       "name": "Gecko (Overdrive) - Radio Edit",
       "url": "https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml"
@@ -2061,7 +2061,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 166933,
       "name": "Get Up (Rattle) - Vocal Edit",
       "url": "https://open.spotify.com/track/4W9KBjqf2lyUF6MdX0vsJm"
@@ -2231,7 +2231,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 182625,
       "name": "Guilty (feat. Gretchin)",
       "url": "https://open.spotify.com/track/0KYCMyQLB1wIn2impBTBRa"
@@ -2989,7 +2989,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 151973,
       "name": "Let Me Think About It",
       "url": "https://open.spotify.com/track/0QrfZiv1ARuht0oPwWeyJ2"
@@ -4173,7 +4173,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 227266,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6elB1keSMXlFnAkxy7Gnyu"
@@ -4820,6 +4820,32 @@
     },
     {
       "album": {
+        "name": "Sao Paulo",
+        "url": "https://open.spotify.com/album/521mw9CgSRTzUDE594y3PK"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "The Lost Shepherds",
+          "url": "https://open.spotify.com/artist/0n5RLOUDVIpQopAEUbY0zU"
+        },
+        {
+          "name": "Sonny Wilson",
+          "url": "https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190312,
+      "name": "Sao Paulo",
+      "url": "https://open.spotify.com/track/6XubRj327VPMQCUgJJpCub"
+    },
+    {
+      "album": {
         "name": "Say It Right (ILURO Remix)",
         "url": "https://open.spotify.com/album/6ZEaJiDo55GwRWxtkbG00a"
       },
@@ -4891,7 +4917,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 213135,
       "name": "Say Something - Zac Samuel Remix",
       "url": "https://open.spotify.com/track/5QifrqmnjHzdOuBAheeeNU"
@@ -4939,7 +4965,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 200991,
       "name": "Seek Bromance - Avicii Vocal Edit",
       "url": "https://open.spotify.com/track/7tSO7DrrYpiMXX3zM4b3oM"
@@ -5013,7 +5039,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 184846,
       "name": "Show Me Love - Radio Edit",
       "url": "https://open.spotify.com/track/2WIwmd809qDTOn4UJgDnNi"
@@ -5771,7 +5797,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 200625,
       "name": "Swish Swish - Valentino Khan Remix",
       "url": "https://open.spotify.com/track/60jMCb9jnlhICNbD3wqmGR"

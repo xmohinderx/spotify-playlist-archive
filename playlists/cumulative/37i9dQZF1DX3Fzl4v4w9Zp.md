@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Tré Burt
 
-250 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
+251 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-04-15 |  |
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2021-12-17 |  |
 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 | 2021-12-17 | 2022-02-23 |
+| [In Memory \(Of When I Cared\)](https://open.spotify.com/track/6ckJkoKEqCJi0jmtEVuvGc) | [The Bacon Brothers](https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG) | [In Memory \(Of When I Cared\)](https://open.spotify.com/album/4JmtSJv4Hl3QAVhIjJKIT4) | 2:53 | 2022-05-25 |  |
 | [it won't always be this way](https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [it won't always be this way](https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc) | 4:27 | 2022-04-01 |  |
 | [It's Your Fault](https://open.spotify.com/track/3krCWFkCXoLz7cDpElKp1I) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Everyone A Song, Vol\. 2](https://open.spotify.com/album/4VjBvRsHWA0S2a53poAf6P) | 4:54 | 2021-12-17 |  |
 | [Jazz on the Autobahn](https://open.spotify.com/track/0X7PaSl2RFGQYTRzTmC8Xf) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [From Dreams to Dust](https://open.spotify.com/album/2yHBOaatHcvlgNQ7WPpNIS) | 4:32 | 2021-12-17 |  |
@@ -130,7 +131,7 @@
 | [Learn To Love Myself](https://open.spotify.com/track/6yFcjFBQLfSZIx330nVmTy) | [Nicki Bluhm](https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh) | [Learn To Love Myself](https://open.spotify.com/album/5wpJZJE7Q9ZkrzDRkRgkJr) | 3:22 | 2022-05-20 |  |
 | [Learn to Love You Better](https://open.spotify.com/track/1pWfVPTZXjRMSQDDz0fPNg) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Learn to Love You Better](https://open.spotify.com/album/0HfN0dvsXuFL316in0EoPu) | 3:34 | 2021-12-17 | 2022-05-14 |
 | [Leave This Town](https://open.spotify.com/track/3SefjlLxqaB4KOBtUmjXSO) | [Tim Kelly](https://open.spotify.com/artist/2nOBjmEL96VxQIIPoBptLo) | [Leave This Town](https://open.spotify.com/album/3uQLBJkEPfsSi95JYBYoHG) | 3:38 | 2021-12-17 |  |
-| [Leave Those Memories Alone](https://open.spotify.com/track/04K7wZAM3YVDyFJORi1yDg) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Leave Those Memories Alone](https://open.spotify.com/album/7msXVoRJVs6hDHlPXqfurp) | 3:52 | 2021-12-17 |  |
+| [Leave Those Memories Alone](https://open.spotify.com/track/04K7wZAM3YVDyFJORi1yDg) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Leave Those Memories Alone](https://open.spotify.com/album/7msXVoRJVs6hDHlPXqfurp) | 3:52 | 2021-12-17 | 2022-05-26 |
 | [Little by Little](https://open.spotify.com/track/47dausqCUFmwxjbMRurc7o) | [The Delevantes](https://open.spotify.com/artist/5vtCJexhGX2rGkuXo0AJxl) | [A Thousand Turns](https://open.spotify.com/album/7B1SY1ny6RhqjdQRxHpXdQ) | 3:01 | 2021-12-17 | 2022-05-20 |
 | [Long Journey Home](https://open.spotify.com/track/2dTTuGhULqhoWkw8LRBdE4) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Race Records](https://open.spotify.com/album/5ROffy9rfJLuZTgqCJdMFG) | 3:07 | 2021-12-17 | 2022-04-02 |
 | [Long Way](https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Long Way](https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd) | 4:46 | 2021-12-17 |  |

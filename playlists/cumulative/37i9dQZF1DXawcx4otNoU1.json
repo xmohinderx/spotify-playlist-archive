@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Bottles",
+        "url": "https://open.spotify.com/album/6ocdZHo1C445pmeiqfYvrB"
+      },
+      "artists": [
+        {
+          "name": "RIKII",
+          "url": "https://open.spotify.com/artist/7ieHamtUN3p1EgneRvtZBZ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149952,
+      "name": "Bottles",
+      "url": "https://open.spotify.com/track/3RxGQIPIfdlJbUxoNsOPrN"
+    },
+    {
+      "album": {
         "name": "Bridge Back to Your Heart",
         "url": "https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA"
       },

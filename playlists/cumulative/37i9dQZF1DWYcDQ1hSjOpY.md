@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-288 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
+289 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Fate](https://open.spotify.com/track/1Pxoyavrxw7aElGkMwWHVj) | [Reuben Hensley](https://open.spotify.com/artist/0mz4d5jY4R7Xby9AUlpViB) | [Fate](https://open.spotify.com/album/04QvfbZwhaFKDtp1Qou7vO) | 2:53 | 2021-11-10 |  |
 | [Fear To Overcome](https://open.spotify.com/track/7GfmMlse4JgozDkVl3NUdO) | [Howling Winds](https://open.spotify.com/artist/3oRIhCYM75fKWEx2IQUPB0) | [Calling For Peace](https://open.spotify.com/album/2WyTNACtWdye48z1BF1gru) | 3:06 | 2021-11-10 |  |
 | [Fekerayo](https://open.spotify.com/track/1MyNYs0OhpaT6ZAfuKY9Ds) | [Cleantha](https://open.spotify.com/artist/2SMuzSMGO396SBRMXGZjE5) | [Fekerayo](https://open.spotify.com/album/3TGjDr4vsdollMDaPQ904m) | 3:23 | 2021-11-10 |  |
+| [Finally At Ease](https://open.spotify.com/track/4HJJh915LuQpMjEO0tFwhx) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Finally At Ease](https://open.spotify.com/album/0e7VPn87No5P1c1RGLUGYu) | 2:40 | 2022-05-25 |  |
 | [First Day](https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt) | [Ljomo](https://open.spotify.com/artist/0Kw9CyfoVqNGnbR2hYb0wt) | [Beautiful Morning](https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0) | 4:12 | 2021-11-10 |  |
 | [Fliessend](https://open.spotify.com/track/6USOZA7NMQwoL9LaNfBPJP) | [Solar Wash](https://open.spotify.com/artist/0Yh3qH3YP5YPSK9o1emQLC) | [Fliessend](https://open.spotify.com/album/1tZnE5teaXuwMXskg4VXV9) | 2:44 | 2022-04-07 |  |
 | [Flucht](https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Flucht](https://open.spotify.com/album/2NNkB8re9TnYdfcRmbv7Fn) | 2:42 | 2022-02-09 |  |

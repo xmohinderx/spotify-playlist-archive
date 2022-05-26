@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 259191,
       "name": "Al Sourah",
       "url": "https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW"
@@ -722,6 +722,24 @@
     },
     {
       "album": {
+        "name": "Batloub El Ghali",
+        "url": "https://open.spotify.com/album/0Ub4a2dpgraMQRvKRD84KV"
+      },
+      "artists": [
+        {
+          "name": "Astekan Khaleji",
+          "url": "https://open.spotify.com/artist/5wRWfTD4Ka65T0txACjlJM"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254328,
+      "name": "Batloub El Ghali",
+      "url": "https://open.spotify.com/track/0k0VqzEeRxXabt6ujlUYxb"
+    },
+    {
+      "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7"
       },
@@ -859,7 +877,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -2517,7 +2535,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 395520,
       "name": "Ghazal Ma Yensady",
       "url": "https://open.spotify.com/track/5EKVL6XHsGCWeMik7XBMh8"
@@ -3081,7 +3099,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 208706,
       "name": "House of Memories",
       "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
@@ -4167,7 +4185,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 202183,
       "name": "Little Freak",
       "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
@@ -4957,7 +4975,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 208589,
       "name": "Moon",
       "url": "https://open.spotify.com/track/6KhAXXgDtEEahVzATvFNcn"
@@ -5113,7 +5131,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 193813,
       "name": "Music For a Sushi Restaurant",
       "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
@@ -5233,7 +5251,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 195950,
       "name": "N95",
       "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
@@ -5323,7 +5341,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 314250,
       "name": "Nitelha Biban",
       "url": "https://open.spotify.com/track/2jTKh9eQZpDDXKkgbYLtzu"
@@ -7711,7 +7729,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 217746,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa"
@@ -7783,7 +7801,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 351503,
       "name": "Wahchagh Cham",
       "url": "https://open.spotify.com/track/2tulJGa40a9Uw2aZlxoSrX"

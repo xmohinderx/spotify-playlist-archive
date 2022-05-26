@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist.
 
-207 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
+208 songs - 14 hr 20 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Lake Michigan Dream](https://open.spotify.com/track/3ai2YaHEaMI4oUHcbV2EqN) | [Coach Phillips](https://open.spotify.com/artist/44rWeR4SFvGjy0irbbFYVH) | [Never Is Enough](https://open.spotify.com/album/5zuDu8Q4z5cE3XggyehTds) | 3:36 | 2019-09-29\* | 2020-01-17 |
 | [Last Goodbye](https://open.spotify.com/track/4xqw8JSmfNdHLCuT23pHiv) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 4:35 | 2019-09-29\* | 2019-10-26 |
 | [Legs](https://open.spotify.com/track/2UVPkh6lrARjYDK42jC6kD) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:40 | 2020-08-30 | 2020-09-11 |
+| [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 | 2022-05-25 |  |
 | [Light Years](https://open.spotify.com/track/0dcKsPZVWa64MvnoCes49q) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Light Years](https://open.spotify.com/album/2PhtZZE1Re3j09XzBxz7jQ) | 3:33 | 2019-09-29\* |  |
 | [Lilo](https://open.spotify.com/track/56aLJW6EJJxbp6uVRvXjVy) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Lilo](https://open.spotify.com/album/0FPYC0qznWJLdzIJIbTne1) | 4:19 | 2019-09-29\* |  |
 | [Live](https://open.spotify.com/track/2dJuyVPol0mFK9uf7aCpAc) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 4:03 | 2019-09-29\* | 2022-05-21 |
@@ -131,7 +132,7 @@
 | [Patricia](https://open.spotify.com/track/2mk1lFzxG6TDKEh4s2ICW6) | [Jaws of Love.](https://open.spotify.com/artist/165BHXMlW522HMz0sLhGtq) | [Patricia](https://open.spotify.com/album/1kC28hf2isOaIvIDJawZ8k) | 3:51 | 2022-05-20 |  |
 | [People, I've been sad](https://open.spotify.com/track/0KywIrJ4Xir4tS6q61aY1W) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [People, I've been sad](https://open.spotify.com/album/4RV4rhoQAX4KH7HME6AMnA) | 4:20 | 2020-02-14 |  |
 | [Permanent Way](https://open.spotify.com/track/04BGOF5G8ztSjRkhhM0SmE) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/1x3aGPQ0dqSY0fzljjB9VD) | 4:12 | 2019-09-29\* | 2020-10-15 |
-| [Persona Non Grata](https://open.spotify.com/track/0itutKZrGEzQtFWJp4xoUK) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Persona Non Grata](https://open.spotify.com/album/4KDfRBLtCz3ts1PCLf3E28) | 3:32 | 2020-03-25 |  |
+| [Persona Non Grata](https://open.spotify.com/track/0itutKZrGEzQtFWJp4xoUK) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Persona Non Grata](https://open.spotify.com/album/4KDfRBLtCz3ts1PCLf3E28) | 3:32 | 2020-03-25 | 2022-05-26 |
 | [Pitseleh](https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 | 2019-09-29\* | 2020-01-17 |
 | [Pool House](https://open.spotify.com/track/74f0dpqHhTeTJzs4pmZ1yq) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:29 | 2022-03-04 |  |
 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 | 2019-09-29\* | 2022-05-21 |

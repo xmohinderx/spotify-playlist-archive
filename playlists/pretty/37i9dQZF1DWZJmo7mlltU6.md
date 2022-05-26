@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Nu Genea
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,258 likes - 103 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,357 likes - 103 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

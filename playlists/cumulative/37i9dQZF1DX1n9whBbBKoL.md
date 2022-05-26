@@ -4,10 +4,11 @@
 
 > Ambient drone to make you feel weightless.
 
-148 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+150 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [396 Hz Open Mind](https://open.spotify.com/track/2IDuOFkmxNV2Udp8p8oEf7) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [396 Hz Soundscapes for Mindfulness](https://open.spotify.com/album/3iA0cOUPyMJDONnUYlTLsQ) | 2:38 | 2022-05-25 |  |
 | [A Dover Find](https://open.spotify.com/track/3Msms0f4RJkKykOZ7Zmpfl) | [Seascape Legends](https://open.spotify.com/artist/1vwgUTET0ehuy4bqjY6EzM) | [Caruaru](https://open.spotify.com/album/5cQCtz9OSqRgy95RyORLEb) | 4:02 | 2021-11-10 |  |
 | [A Sleepless Night](https://open.spotify.com/track/4H7oCuiiPH6gQTKfoBR9eo) | [Ella Ravn](https://open.spotify.com/artist/0EcHhtv02X5sMmofhqQo3c) | [A Sleepless Night](https://open.spotify.com/album/2e26oolMJM3ijJsrnqXZ8u) | 3:19 | 2021-11-10 |  |
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2021-11-10 |  |
@@ -93,6 +94,7 @@
 | [Monrovia](https://open.spotify.com/track/7JYgex93ldydsVqr6Um2nD) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Heliotropism](https://open.spotify.com/album/3MsuLztSUCisSA2S92hlaw) | 3:30 | 2021-11-10 |  |
 | [Moon And Back](https://open.spotify.com/track/6XL8fT4y4a8psebt1CLJ3B) | [Lights of Kharma](https://open.spotify.com/artist/4lQl59CLrkUat82HtabPSX) | [Moon And Back](https://open.spotify.com/album/2zT0v0SBakE7ZKUetoBnHt) | 3:36 | 2021-11-10 |  |
 | [Must Be For Both](https://open.spotify.com/track/49a8JjwfyAsDmUxELmsrKC) | [Gerald Kenneth Turner](https://open.spotify.com/artist/4n05fm8bjGyVAFjq9luq4L) | [Quoted](https://open.spotify.com/album/01jd9mqfkaXD8Q43Zi9PD3) | 3:28 | 2021-11-10 | 2022-04-22 |
+| [My Halo Orbit](https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [My Halo Orbit](https://open.spotify.com/album/3cwIS81w4HcrlgE6RCg3WA) | 3:19 | 2022-05-25 |  |
 | [Mystical \- Alpha Sinus 54,8hz \- 57,3 hz](https://open.spotify.com/track/7zO8xgWtAGQpAKEG9n48Yb) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Healing Alpha Sinus](https://open.spotify.com/album/4kq3eKdVleRq8aYNT3iWCy) | 3:55 | 2021-11-10 |  |
 | [Nebula](https://open.spotify.com/track/2sf4TXYzqSRdxfwu5auS6r) | [Orla and the Stars](https://open.spotify.com/artist/4RxXXiPn3BQ1PxUnmygCLA) | [Star Ascent](https://open.spotify.com/album/6JIhSF94ncaPE3PLPbiz1b) | 3:17 | 2021-11-10 |  |
 | [Next to Nothing](https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm) | [Gaia Rosica](https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h) | [Next to Nothing](https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp) | 2:46 | 2022-01-21 |  |

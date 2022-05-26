@@ -2,7 +2,7 @@
 
 ### [Ultimate Rock Gaming](https://open.spotify.com/playlist/37i9dQZF1DWZjmJmeiazwd)
 
-> Rock out while you game, this is 10+ hours of the best in Rock.
+> Rock out while you game.
 
 343 songs - 20 hr 44 min - [published](https://open.spotify.com/playlist/4hjyqOv4pr58cwOYvnLuVE)
 
@@ -75,7 +75,7 @@
 | [Cyanide](https://open.spotify.com/track/7l2Vx0Jg88oi16ja4Huc9H) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Sex, Death & The Infinite Void](https://open.spotify.com/album/5SroqSFEbS5mfI2fYSS1v1) | 3:27 | 2022-04-22 | 2022-05-18 |
 | [Dad Vibes](https://open.spotify.com/track/2ppAkaBj4vaL0qsFm1TOKI) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:12 | 2022-04-22 | 2022-05-21 |
 | [Dangerous](https://open.spotify.com/track/0y1t3QzZAjfFd5IxQZCS1V) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Si Vis Pacem, Para Bellum](https://open.spotify.com/album/13lnqlgmaRHQF54C9iiOWO) | 3:49 | 2022-04-22 | 2022-05-21 |
-| [Dark Necessities](https://open.spotify.com/track/1cjiLJacTKtJbdCtMk1XeV) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Dark Necessities](https://open.spotify.com/album/37eXSZNVEY3XthbJzTGIIo) | 5:02 | 2020-06-29 | 2022-05-25 |
+| [Dark Necessities](https://open.spotify.com/track/1cjiLJacTKtJbdCtMk1XeV) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Dark Necessities](https://open.spotify.com/album/37eXSZNVEY3XthbJzTGIIo) | 5:02 | 2020-06-29 |  |
 | [Dead Weight](https://open.spotify.com/track/7hM9ShrZMCV7xYOQwqBnNb) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Dead Weight](https://open.spotify.com/album/7pyv1fWhBIstEJVTyuMZK5) | 3:27 | 2020-06-29 |  |
 | [Death By Rock And Roll](https://open.spotify.com/track/0ThYrwnekhJLSJBiGPD1L7) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/05u2apyKRsHbqRfT3c81o8) | 3:54 | 2020-06-29 |  |
 | [Deleter](https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:54 | 2020-06-29 |  |
@@ -169,7 +169,7 @@
 | [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:13 | 2020-06-29 |  |
 | [Killing Me Slowly](https://open.spotify.com/track/34lLAsdH4Y5TLf1B2SIj1I) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1) | 3:57 | 2020-06-29 |  |
 | [Kingslayer \(feat\. BABYMETAL\)](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 | 2022-04-19 | 2022-05-21 |
-| [Kiss This](https://open.spotify.com/track/0cYrnLpz2drPo2aZWExpCl) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Have You Heard](https://open.spotify.com/album/6lu5Z4nCRAbJqz1DuccCKQ) | 2:57 | 2020-06-29 | 2022-05-25 |
+| [Kiss This](https://open.spotify.com/track/0cYrnLpz2drPo2aZWExpCl) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Have You Heard](https://open.spotify.com/album/6lu5Z4nCRAbJqz1DuccCKQ) | 2:57 | 2020-06-29 |  |
 | [Kryptonite](https://open.spotify.com/track/3bbUkaQYGQHkx1TJi7gPSL) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life \- Deluxe Edition](https://open.spotify.com/album/6P77jds0hG6gVzUuIQVj7E) | 3:53 | 2020-06-29 |  |
 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 | 2020-06-29 | 2022-04-21 |
 | [Last Resort](https://open.spotify.com/track/4V05j7HDUU2bZQwDOeIySh) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [To Be Loved: The Best Of Papa Roach \(Explicit Version\)](https://open.spotify.com/album/03n4EmWNweUARTWYtmlPqt) | 3:20 | 2020-06-29 | 2022-02-26 |
@@ -288,7 +288,7 @@
 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 | 2022-02-25 | 2022-05-21 |
 | [Talk to a Friend](https://open.spotify.com/track/74SEdRYWaNerEpJZZW3VBs) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Talk to a Friend](https://open.spotify.com/album/0l5CgCOQsIj5C9x1KPaAR9) | 3:31 | 2020-06-29 |  |
 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 | 2021-02-10 |  |
-| [Thank You](https://open.spotify.com/track/772AiQoYHA7lDckryjGyVj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Kill The Flaw](https://open.spotify.com/album/78alVDSStZleCxiVOzyn3J) | 4:27 | 2020-06-29 |  |
+| [Thank You](https://open.spotify.com/track/772AiQoYHA7lDckryjGyVj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Kill The Flaw](https://open.spotify.com/album/78alVDSStZleCxiVOzyn3J) | 4:27 | 2020-06-29 | 2022-05-26 |
 | [The Best \(feat\. Alice Merton\)](https://open.spotify.com/track/5iReOl0OJPQjSIIndoYDMd) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [The Best \(feat\. Alice Merton\)](https://open.spotify.com/album/4LM2UkSNq1F0lIRbutfHMK) | 3:43 | 2020-06-29 |  |
 | [The Ceiling](https://open.spotify.com/track/6EprgVYMTXhotXNEBi4qr2) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [The Ceiling / Border \(CH\. III\)](https://open.spotify.com/album/5iznNh84frPAAx1fLffZa4) | 2:54 | 2020-06-29 |  |
 | [The Devil's Bleeding Crown](https://open.spotify.com/track/58q4ZkagWkDV16Sehqx6AF) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [The Devil's Bleeding Crown](https://open.spotify.com/album/1uIzWwjfdmYDHlM2hrZyak) | 3:58 | 2020-06-29 | 2022-02-26 |
@@ -324,7 +324,7 @@
 | [Unforgettable](https://open.spotify.com/track/1184omF5xTwYyI6fMijVrr) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 3:28 | 2020-06-29 |  |
 | [Until the World Goes Cold](https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 5:21 | 2020-06-29 | 2022-02-26 |
 | [Untouchable](https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [Baptize](https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL) | 3:05 | 2021-12-10 |  |
-| [Up In The Air](https://open.spotify.com/track/0jUyIAehDk6svz4Neqi5sp) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Up In The Air](https://open.spotify.com/album/46RPtu49U5WwMR2KqS2Geo) | 4:37 | 2020-06-29 |  |
+| [Up In The Air](https://open.spotify.com/track/0jUyIAehDk6svz4Neqi5sp) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Up In The Air](https://open.spotify.com/album/46RPtu49U5WwMR2KqS2Geo) | 4:37 | 2020-06-29 | 2022-05-26 |
 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 | 2020-06-29 |  |
 | [Vagabond \(feat\. Czarface\)](https://open.spotify.com/track/1jvaq9OAx9RmQj9AN0AGpZ) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [CZARFACE](https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr) | [Can You Feel The Sun](https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq) | 3:49 | 2022-04-22 | 2022-05-21 |
 | [Waiting On A War](https://open.spotify.com/track/3NUmUIyzNLBp8bCFMH8Mif) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Waiting On A War](https://open.spotify.com/album/3BsK8KLf8uwzdHmWS051vT) | 4:13 | 2021-02-10 |  |

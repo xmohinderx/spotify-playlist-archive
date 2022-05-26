@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-447 songs - 1 day 2 hr 12 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+448 songs - 1 day 2 hr 14 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Drifting](https://open.spotify.com/track/2PlPzw2QFgaGfGNxf6yxf4) | [Silje Månsson](https://open.spotify.com/artist/0kjvjrxeHcYCe2KZkYHqIu) | [Drifting](https://open.spotify.com/album/7enHhnx6XPGlobGI8SliUQ) | 2:03 | 2019-06-27 |  |
 | [Driggs AVE 4 am](https://open.spotify.com/track/5jw5QimdcmZRgpQ9VLpyzR) | [Brooklyn Comatose](https://open.spotify.com/artist/5yMnLF4N5tLLU19c7TxHIv) | [Driggs AVE 4 am](https://open.spotify.com/album/2ngjCR9XbEisE74CRHfBMT) | 3:13 | 2019-06-19\* | 2020-01-09 |
 | [Eagle](https://open.spotify.com/track/3nINt8VGibM3vHcR7pNhTa) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Eagle](https://open.spotify.com/album/1HdL2jA9bc5AxycCYZosh0) | 3:22 | 2019-06-19\* | 2020-01-09 |
+| [efflorescence](https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [efflorescence](https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr) | 2:23 | 2022-05-25 |  |
 | [Eidolon](https://open.spotify.com/track/6KuzTwyczjBp1C4f60Y5ID) | [Monocle Twins](https://open.spotify.com/artist/3Ju2hEmz5onAzHRpy4tXe6) | [Eidolon](https://open.spotify.com/album/3Afi3vkyW6PcheDK8O5lsx) | 4:17 | 2020-04-13 | 2022-03-05 |
 | [Eleven Shades](https://open.spotify.com/track/2sAg6ll1Vd1BxR8YD0lkRg) | [Lunaire](https://open.spotify.com/artist/1sC8iJ3MHkk4VMunZm8jbc) | [Eleven Shades](https://open.spotify.com/album/11t9vBS4aWC6F1QmucdeC1) | 3:36 | 2020-10-08 |  |
 | [Entirety](https://open.spotify.com/track/3nvpVuUE9mO7fvFI6E9WYY) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [Entirety](https://open.spotify.com/album/6IFRbKg9C5Uj4NLG6maOsz) | 3:32 | 2019-05-26\* | 2020-08-07 |

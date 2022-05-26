@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: Tyler Hubbard",
+  "description": "Music City must-hears. Cover: Carter Faith",
   "name": "Next From Nashville",
   "published_playlist_ids": [
     "6guBJqgtXaO0mvdeL4JtNk"
@@ -3945,6 +3945,24 @@
       "duration_ms": 224234,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/0Zllgh8EyHoz04GsftiKxu"
+    },
+    {
+      "album": {
+        "name": "Hey Cowboy",
+        "url": "https://open.spotify.com/album/5kWO071j9kglgFUVVDRBWn"
+      },
+      "artists": [
+        {
+          "name": "Autumn Brooke",
+          "url": "https://open.spotify.com/artist/7EeFKSkojmKuaho1zh5GUD"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288740,
+      "name": "Hey Cowboy",
+      "url": "https://open.spotify.com/track/6ramzCbQgaJukYKKzyJgDf"
     },
     {
       "album": {
@@ -8678,6 +8696,24 @@
     },
     {
       "album": {
+        "name": "The Devil\u2019s Still Down in Georgia",
+        "url": "https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193702,
+      "name": "The Devil\u2019s Still Down in Georgia",
+      "url": "https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle"
+    },
+    {
+      "album": {
         "name": "THE DRILL",
         "url": "https://open.spotify.com/album/0YK0h0tRUflzEx4LrmjcSg"
       },
@@ -9713,6 +9749,24 @@
       "duration_ms": 194800,
       "name": "When You're Lonely",
       "url": "https://open.spotify.com/track/3NRULQPEu8U0MSvsGLHD2L"
+    },
+    {
+      "album": {
+        "name": "When You're Sober",
+        "url": "https://open.spotify.com/album/2sK14UBWr9ChSgEaBAX7AQ"
+      },
+      "artists": [
+        {
+          "name": "Kali Arcaris",
+          "url": "https://open.spotify.com/artist/6GLZpLl64nlqfxnnP1Czjg"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220471,
+      "name": "When You're Sober",
+      "url": "https://open.spotify.com/track/1gzu63ypvgW16KsfyELCoH"
     },
     {
       "album": {

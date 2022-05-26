@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 
 > Beachy, acoustic tunes for lazy summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,761 likes - 103 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,770 likes - 103 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

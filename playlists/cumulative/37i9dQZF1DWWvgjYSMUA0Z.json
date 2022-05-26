@@ -908,6 +908,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Beat",
+        "url": "https://open.spotify.com/album/4geUtHZzcLPidEcjgaIvQB"
+      },
+      "artists": [
+        {
+          "name": "Muyu Three",
+          "url": "https://open.spotify.com/artist/6zb7OvAUpABDfVSe9NF1BN"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178869,
+      "name": "Peaceful Beat",
+      "url": "https://open.spotify.com/track/1K1bPlZna6jKf7awyKi6K8"
+    },
+    {
+      "album": {
         "name": "Perfect Rose",
         "url": "https://open.spotify.com/album/2E8dJJLDCiKqWMVXuWetCq"
       },

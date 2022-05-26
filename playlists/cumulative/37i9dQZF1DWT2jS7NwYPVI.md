@@ -4,7 +4,7 @@
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Boston Manor
 
-483 songs - 1 day 1 hr 59 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+484 songs - 1 day 2 hr 2 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [It's Permanent](https://open.spotify.com/track/5ytqjKYVYjVcA03MTBArnY) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [It's Permanent](https://open.spotify.com/album/5aCdRpmrMXr901O3WGFnKM) | 3:32 | 2021-11-19 | 2022-01-29 |
 | [Jabberwocky](https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Jabberwocky](https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA) | 3:12 | 2022-05-20 |  |
 | [Jackie Down The Line](https://open.spotify.com/track/7fhoVNqC9nHGTz3VjlFV7A) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Jackie Down The Line](https://open.spotify.com/album/6rJkmd9HJJvzALTcUQi6fo) | 4:01 | 2022-01-14 | 2022-04-23 |
+| [Jaded](https://open.spotify.com/track/0IKJEqLLo2dBIkx73tObbC) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Jaded](https://open.spotify.com/album/2S1w1CeYjPVhWd4PcvinEp) | 2:49 | 2022-05-25 |  |
 | [Jump](https://open.spotify.com/track/3wGVgIe8CvDxGEJEdrAKfh) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Party At The Cemetery](https://open.spotify.com/album/3kT0vXJqRNILDVVUX5LhkQ) | 2:49 | 2021-11-19 | 2022-02-12 |
 | [Jump Out The Window](https://open.spotify.com/track/7Iz0L7uevtSSUMtmOOMSUk) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Jump Out The Window](https://open.spotify.com/album/4xHcu0JaCYcKsF0OQtyNPl) | 4:09 | 2022-03-04 | 2022-03-12 |
 | [Jump Out The Window](https://open.spotify.com/track/7ymntzkTCP4hq3PjTMmnbU) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Sometimes Y](https://open.spotify.com/album/0ZFqRtDxJIX8qHgQMAeJuT) | 4:09 | 2022-03-11 |  |

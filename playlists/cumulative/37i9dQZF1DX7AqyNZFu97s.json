@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Hyphen",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Lizzie Esau",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 174857,
       "name": "Blooming",
       "url": "https://open.spotify.com/track/06RnC0JLSzmDyR7uww6DTG"
@@ -1082,6 +1082,42 @@
     },
     {
       "album": {
+        "name": "Dark Blue",
+        "url": "https://open.spotify.com/album/0nHEND5RLbesWdoVOxCwSO"
+      },
+      "artists": [
+        {
+          "name": "User2222",
+          "url": "https://open.spotify.com/artist/4qhjS4KuMCen5RzxVe0kaA"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213656,
+      "name": "Dark Blue",
+      "url": "https://open.spotify.com/track/4DferDVxwfwR4hQZiVBDvW"
+    },
+    {
+      "album": {
+        "name": "Dau Fyd",
+        "url": "https://open.spotify.com/album/1rOVUie4TiFTwTBS6Jljis"
+      },
+      "artists": [
+        {
+          "name": "Yws Gwynedd",
+          "url": "https://open.spotify.com/artist/14UpMsA1ZvDMZmFknlTOdO"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182789,
+      "name": "Dau Fyd",
+      "url": "https://open.spotify.com/track/56iNeWBIKXEZZjuRpKBUQO"
+    },
+    {
+      "album": {
         "name": "Day Drinking",
         "url": "https://open.spotify.com/album/42PIBbUCSfugL50Kyx3wZ5"
       },
@@ -1357,6 +1393,24 @@
       "duration_ms": 234666,
       "name": "Distant",
       "url": "https://open.spotify.com/track/1D4vYlnTP4XEmlNiGt5AvC"
+    },
+    {
+      "album": {
+        "name": "Do Not Disturb",
+        "url": "https://open.spotify.com/album/5mAQjhv51LnG3hhKezjjn1"
+      },
+      "artists": [
+        {
+          "name": "BINA.",
+          "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Do Not Disturb",
+      "url": "https://open.spotify.com/track/0lFMVUMnDguO9sVRQt04sP"
     },
     {
       "album": {
@@ -1695,7 +1749,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 199640,
       "name": "Felt Right",
       "url": "https://open.spotify.com/track/5uyez026HnBA2iyN9sSZvl"
@@ -1930,6 +1984,24 @@
     },
     {
       "album": {
+        "name": "Gin & Tonics",
+        "url": "https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza"
+      },
+      "artists": [
+        {
+          "name": "George David",
+          "url": "https://open.spotify.com/artist/1NXtGiEomSRw1p2sxpIzft"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Gin & Tonics",
+      "url": "https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6"
+    },
+    {
+      "album": {
         "name": "Broken Homes, Chandeliers",
         "url": "https://open.spotify.com/album/36p2cp6mi05tTPhrdpFG1p"
       },
@@ -1945,6 +2017,24 @@
       "duration_ms": 182280,
       "name": "Girl of the Sea",
       "url": "https://open.spotify.com/track/3wBcgqM50PvbfRCTnUgoXx"
+    },
+    {
+      "album": {
+        "name": "Girls Just Wanna Have Fun",
+        "url": "https://open.spotify.com/album/00suehDc0pxqdMJsmOBZiF"
+      },
+      "artists": [
+        {
+          "name": "Natalie Okri",
+          "url": "https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203749,
+      "name": "Girls Just Wanna Have Fun",
+      "url": "https://open.spotify.com/track/1c2mNRegEJcJOXGhOphvfC"
     },
     {
       "album": {
@@ -2410,6 +2500,24 @@
     },
     {
       "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/1dVxWDxXOaiGH4x6xjad6O"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323320,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/2n3Tqq4qL2HlcXWwXQhQ4e"
+    },
+    {
+      "album": {
         "name": "House of Cards",
         "url": "https://open.spotify.com/album/7Ar5VPj9yQRgSSj2wrS4B4"
       },
@@ -2457,7 +2565,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 193000,
       "name": "HUNTER SCHAFER",
       "url": "https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu"
@@ -2605,7 +2713,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 129369,
       "name": "I WANT MY FLOWERS",
       "url": "https://open.spotify.com/track/6dTUHMhLeEBjnR9KVF3xha"
@@ -3061,7 +3169,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 131803,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/1drSfeOdONNYjMiqHxFo0M"
@@ -3213,7 +3321,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 267840,
       "name": "Love Me Better",
       "url": "https://open.spotify.com/track/7uUyiqEULRsk8zovqDLLHw"
@@ -3413,6 +3521,24 @@
       "duration_ms": 249130,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/23k7Dfo1b7wd9qDW5cbDRF"
+    },
+    {
+      "album": {
+        "name": "MANIC PIXIE DREAM BOY",
+        "url": "https://open.spotify.com/album/12RQXbb8aSYoEXkEHEfoVf"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123711,
+      "name": "MANIC PIXIE DREAM BOY",
+      "url": "https://open.spotify.com/track/3T99pTSG50ydk5NWrWb8t4"
     },
     {
       "album": {
@@ -3636,6 +3762,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/2J8IvYAf8D6Zup2BO5f36Z"
+      },
+      "artists": [
+        {
+          "name": "The Big Drink",
+          "url": "https://open.spotify.com/artist/36Q37dbwNFeL6Y67IO1cXi"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187110,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/6eMynQuwsyq50ycW5QPhA6"
+    },
+    {
+      "album": {
         "name": "Motorbike",
         "url": "https://open.spotify.com/album/258NwwKO0b2JvDygo48XK4"
       },
@@ -3795,6 +3939,24 @@
       "duration_ms": 208000,
       "name": "NEW DREAM",
       "url": "https://open.spotify.com/track/78qp11wxzbx1rHB0sNavVu"
+    },
+    {
+      "album": {
+        "name": "New Song",
+        "url": "https://open.spotify.com/album/1A7PuF5JRWQ7gQwOScTeMY"
+      },
+      "artists": [
+        {
+          "name": "Alice Markham",
+          "url": "https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276410,
+      "name": "New Song",
+      "url": "https://open.spotify.com/track/6Q2GRktbOgmybP2059YCON"
     },
     {
       "album": {
@@ -3989,7 +4151,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 290060,
       "name": "Nuala",
       "url": "https://open.spotify.com/track/6QRdGRLNrWl3bIGJrYQCLt"
@@ -4091,7 +4253,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 154772,
       "name": "Out The Box",
       "url": "https://open.spotify.com/track/2R4fmNfm9FnUKCc2kUUJYu"
@@ -4675,7 +4837,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 123428,
       "name": "Room Service",
       "url": "https://open.spotify.com/track/09fAuXluhXNv2muT6LLlGu"
@@ -4885,7 +5047,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 122000,
       "name": "SHLIME",
       "url": "https://open.spotify.com/track/41IEJWMnkNHVbsvOb7edPl"
@@ -5474,6 +5636,24 @@
     },
     {
       "album": {
+        "name": "Think Fast",
+        "url": "https://open.spotify.com/album/2wWp8Ay704npJuV7gtm6Wx"
+      },
+      "artists": [
+        {
+          "name": "Queen Colobus",
+          "url": "https://open.spotify.com/artist/6jE90Mqza69qXCUzscUTbt"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268280,
+      "name": "Think Fast",
+      "url": "https://open.spotify.com/track/2neBTY43v4JUaERaR0QOvg"
+    },
+    {
+      "album": {
         "name": "Three Stripes",
         "url": "https://open.spotify.com/album/79E2jFBL9LRHOzsdLys8rg"
       },
@@ -5546,6 +5726,24 @@
     },
     {
       "album": {
+        "name": "Try Another Way",
+        "url": "https://open.spotify.com/album/6Wqx064Ypi9L6hohzeXx43"
+      },
+      "artists": [
+        {
+          "name": "Pretty Preachers Club",
+          "url": "https://open.spotify.com/artist/7lBYoNUYskXYEi568BJ0Is"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187522,
+      "name": "Try Another Way",
+      "url": "https://open.spotify.com/track/4btTr8TeOFK5q7li2U0uhn"
+    },
+    {
+      "album": {
         "name": "Tunnels",
         "url": "https://open.spotify.com/album/3AWQ8htnZ6T6qEOyVVUbbK"
       },
@@ -5575,7 +5773,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 178454,
       "name": "Tutti Frutti",
       "url": "https://open.spotify.com/track/5GTxkbTyZe9OtvdsgLaWLp"
@@ -5669,7 +5867,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 245897,
       "name": "Universe",
       "url": "https://open.spotify.com/track/0cxBEfW0ezfq0Jz29tzdcf"
@@ -6121,6 +6319,24 @@
       "duration_ms": 212251,
       "name": "You're the Problem",
       "url": "https://open.spotify.com/track/6mWpW2Q7FNwX8CQKAoIeaf"
+    },
+    {
+      "album": {
+        "name": "Young Excitement",
+        "url": "https://open.spotify.com/album/1AAxFWgwLdM3RC9HoRVGvx"
+      },
+      "artists": [
+        {
+          "name": "Pizza Crunch",
+          "url": "https://open.spotify.com/artist/4ctTCa8YPvU3On6tzpHGHR"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185664,
+      "name": "Young Excitement",
+      "url": "https://open.spotify.com/track/7j1Nb5NnkHQ2VpdJ0er2rU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7AqyNZFu97s"

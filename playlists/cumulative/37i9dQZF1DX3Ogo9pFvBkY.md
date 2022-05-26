@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-648 songs - 1 day 10 hr 27 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+650 songs - 1 day 10 hr 33 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1](https://open.spotify.com/track/3SW9E5Bf7J1DPEvO9j5qzt) | [Tyler Burkhart](https://open.spotify.com/artist/6hNArc2Vya9KBBDhvIj1BM) | [Untitled](https://open.spotify.com/album/4z4Apgh44swEGoZwjCFVIP) | 5:14 | 2020-05-09 | 2020-05-18 |
 | [1989](https://open.spotify.com/track/5MLeS7gH48goD0uY0Ugwuy) | [Vasts](https://open.spotify.com/artist/2SFcZyrJePTkkpGJ3auRCV) | [1989](https://open.spotify.com/album/6ty8CSqH440EImNwbeAzX9) | 2:55 | 2021-04-02 |  |
 | [\[Nowhere\]](https://open.spotify.com/track/1KR69UXMtGLsKvtwyBTny4) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/4ewVQNBZP2p3sekqciKE6r) | 2:08 | 2020-05-09 | 2021-07-23 |
+| [A brand new day](https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [A brand new day](https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6) | 2:55 | 2022-05-25 |  |
 | [A Mirror Appears](https://open.spotify.com/track/6ncThVkW6xywHK9FxZbcYD) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [A Mirror Appears](https://open.spotify.com/album/0BXsVbsUex0bzk8NklyN7I) | 2:03 | 2021-12-09 |  |
 | [A New Age](https://open.spotify.com/track/4IjvliE2kI9CcAvnNVYEiI) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [A New Age](https://open.spotify.com/album/6Wj2S29YRCBUqb4YDQhMP6) | 3:35 | 2020-05-18 | 2021-11-26 |
 | [A New Beginning](https://open.spotify.com/track/76kqnBNN1urGgshpBXLUP2) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [A New Beginning](https://open.spotify.com/album/5y9kjUP3jySCH2619RXgg9) | 3:18 | 2021-08-26 |  |
@@ -87,6 +88,7 @@
 | [Benevolent](https://open.spotify.com/track/6PySB4GoTTMKXhH4Ksaugj) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 3:08 | 2019-05-26\* | 2020-01-03 |
 | [beyond horizons](https://open.spotify.com/track/1jpVNjs3ljHRGkE6hklAMB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [sleeping moons](https://open.spotify.com/album/5axy78HLC8b3mqrS3qWLJf) | 3:14 | 2021-06-16 |  |
 | [Beyond Reach](https://open.spotify.com/track/1prR4s9mD1M0wkFf8w6OqM) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 3:37 | 2020-01-03 | 2020-07-11 |
+| [Beyond The Moon](https://open.spotify.com/track/4657ZjUX9Go69R5LHdbPOJ) | [Tryggve Malmberg](https://open.spotify.com/artist/53E9B0OiR03VSuqIqhCguq) | [Beyond The Moon](https://open.spotify.com/album/3ylKvmxVNOb1kXL1jf1Cta) | 2:30 | 2022-05-25 |  |
 | [Bid to Wonder](https://open.spotify.com/track/3o9ntzrGGcWTf455Cotank) | [Reinstallation Conundrum](https://open.spotify.com/artist/0wi4qBw9aaXBjMr7peZ8eT) | [Sochi](https://open.spotify.com/album/2gvyCBlwTSzWCQlmAkw2CW) | 3:11 | 2021-09-21 |  |
 | [Blanket of Peace](https://open.spotify.com/track/2PvRoKLmB0Q211nKNw8vmS) | [Mr Pillow](https://open.spotify.com/artist/3LtL0LR8HOlRULZKHf9obA) | [Comfortable Night](https://open.spotify.com/album/3SBn1GyaNYMUUqIqWTlbjO) | 2:53 | 2019-06-29 | 2021-09-14 |
 | [Bloom](https://open.spotify.com/track/18y51hyl2ySV0QtEIywTQ0) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Bloom](https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay) | 5:35 | 2019-05-26\* | 2020-01-09 |

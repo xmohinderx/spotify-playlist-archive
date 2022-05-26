@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a! \u063a\u0644\u0627\u0641: \u0631\u0627\u0643\u0648\u0631\n",
+  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a! \u063a\u0644\u0627\u0641: \u0645\u0631\u0648\u0627\u0646 \u0628\u0627\u0628\u0644\u0648\n",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "published_playlist_ids": [
     "6yEdqmm0KWZqYgvxTRioiU"
@@ -27,6 +27,28 @@
       "duration_ms": 188846,
       "name": "3latol",
       "url": "https://open.spotify.com/track/3BW4QtHR5ExFrgD1YzcvCx"
+    },
+    {
+      "album": {
+        "name": "7een Maysara (Molowave)",
+        "url": "https://open.spotify.com/album/3Gy9HYNnuX51dSjLYHH6xN"
+      },
+      "artists": [
+        {
+          "name": "Molotof",
+          "url": "https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM"
+        },
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "7een Maysara (Molowave)",
+      "url": "https://open.spotify.com/track/3lp7tZy3eHmm7GVAzVY82W"
     },
     {
       "album": {

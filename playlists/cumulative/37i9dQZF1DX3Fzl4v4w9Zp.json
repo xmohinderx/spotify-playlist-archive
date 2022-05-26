@@ -2020,6 +2020,24 @@
     },
     {
       "album": {
+        "name": "In Memory (Of When I Cared)",
+        "url": "https://open.spotify.com/album/4JmtSJv4Hl3QAVhIjJKIT4"
+      },
+      "artists": [
+        {
+          "name": "The Bacon Brothers",
+          "url": "https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173946,
+      "name": "In Memory (Of When I Cared)",
+      "url": "https://open.spotify.com/track/6ckJkoKEqCJi0jmtEVuvGc"
+    },
+    {
+      "album": {
         "name": "it won't always be this way",
         "url": "https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc"
       },
@@ -2339,7 +2357,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 232226,
       "name": "Leave Those Memories Alone",
       "url": "https://open.spotify.com/track/04K7wZAM3YVDyFJORi1yDg"

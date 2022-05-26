@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 248777,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/18vFLgoBcvIXsJP7pTX93e"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 187231,
       "name": "California Wine",
       "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 190026,
       "name": "Damaged Heart",
       "url": "https://open.spotify.com/track/3Bj3ZuVPpPDwUxkwpL78L4"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 232472,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/1GjayjS8KEuljD5GhTuDDq"
@@ -313,6 +313,24 @@
       "duration_ms": 231853,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/34sLLcb1XwY8KD0fIcabjH"
+      },
+      "artists": [
+        {
+          "name": "Kendra Morris",
+          "url": "https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249197,
+      "name": "Dry",
+      "url": "https://open.spotify.com/track/4ug40UefedjvTEXuuIZaQA"
     },
     {
       "album": {
@@ -689,7 +707,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 280280,
       "name": "I Need a Win",
       "url": "https://open.spotify.com/track/2QF4b6mH7o8oBj3ky1IuCX"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 223060,
       "name": "Joy & Pain",
       "url": "https://open.spotify.com/track/1iHj6nbjMHFpH73fl4AyWB"
@@ -841,7 +859,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 243832,
       "name": "Little Birdie",
       "url": "https://open.spotify.com/track/7nsbVEf7v7RvrhktbIX42o"
@@ -1101,7 +1119,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 201933,
       "name": "Real Contender",
       "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
@@ -1257,7 +1275,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 334477,
       "name": "Side by Side",
       "url": "https://open.spotify.com/track/5RABWGh9kQl6I3WFaGOKje"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 242640,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/6wq0YV1Mv8ybQi8FyZcHN7"
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 180413,
       "name": "The Stranger",
       "url": "https://open.spotify.com/track/0vo6nKF32kZeazSurxo99E"

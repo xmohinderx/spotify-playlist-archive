@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 196666,
       "name": "Arrive On St. Patrick's Day",
       "url": "https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 196933,
       "name": "Celtic Storm (2010)",
       "url": "https://open.spotify.com/track/3GnmZYcYGFOwLisSqHRjJQ"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 201653,
       "name": "Haul Away, Joe",
       "url": "https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC"
@@ -516,6 +516,24 @@
     },
     {
       "album": {
+        "name": "My Dark Foamy Friend",
+        "url": "https://open.spotify.com/album/4jDDvx41vbQMLiAAUjXYTg"
+      },
+      "artists": [
+        {
+          "name": "Paddy Murphy",
+          "url": "https://open.spotify.com/artist/2hbw7tsQv6Ejqc8kBDoFIK"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307972,
+      "name": "My Dark Foamy Friend",
+      "url": "https://open.spotify.com/track/3O1AZJjf5p6U079v6ZRhTQ"
+    },
+    {
+      "album": {
         "name": "My Darling Dopamine",
         "url": "https://open.spotify.com/album/2iqsju556G00B1EK1VmmLP"
       },
@@ -527,7 +545,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 202040,
       "name": "My Darling Dopamine",
       "url": "https://open.spotify.com/track/6WVswDACrMjAkj1nRxYI3Z"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 173200,
       "name": "Orange and the Green",
       "url": "https://open.spotify.com/track/3Czlbc2EbEiaIjSrWY5zKA"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 218149,
       "name": "Pirates of Three Rivers",
       "url": "https://open.spotify.com/track/33feSMBaMfeDg18jvD1Xdp"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 225933,
       "name": "She Swears Like a Sailor",
       "url": "https://open.spotify.com/track/3PyXHakiQiHdINKQaTRZKR"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 211573,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/3icdIwRcG7VqMwwpbkqkSM"
@@ -963,7 +981,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 232186,
       "name": "The State Of Massachusetts",
       "url": "https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW"

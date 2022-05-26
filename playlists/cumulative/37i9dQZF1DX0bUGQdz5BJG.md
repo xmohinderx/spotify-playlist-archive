@@ -2,9 +2,9 @@
 
 ### [Next From Nashville](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
 
-> Music City must\-hears\. Cover: Tyler Hubbard
+> Music City must\-hears\. Cover: Carter Faith
 
-558 songs - 1 day 6 hr 3 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
+561 songs - 1 day 6 hr 15 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Hell Outta Me](https://open.spotify.com/track/7c8fDJtEpoNA6SHlGtWJkt) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0) | [Bulletproof](https://open.spotify.com/album/0xWKH7SSoZHLcZcz3dYeqy) | 2:53 | 2021-12-31 | 2022-03-18 |
 | [Hell Yeah](https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Hell Yeah](https://open.spotify.com/album/0IqcqqXBaXwUx1IV2jHb6I) | 2:55 | 2022-04-15 |  |
 | [Hey Baby](https://open.spotify.com/track/0Zllgh8EyHoz04GsftiKxu) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Hearts Don't Rust](https://open.spotify.com/album/2Q2YOfInc2bXbfHRMgjIz2) | 3:44 | 2022-04-15 |  |
+| [Hey Cowboy](https://open.spotify.com/track/6ramzCbQgaJukYKKzyJgDf) | [Autumn Brooke](https://open.spotify.com/artist/7EeFKSkojmKuaho1zh5GUD) | [Hey Cowboy](https://open.spotify.com/album/5kWO071j9kglgFUVVDRBWn) | 4:48 | 2022-05-25 |  |
 | [Hey Girl](https://open.spotify.com/track/3JDC8HYPCUkOl4lRj7HiOD) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Hey Girl](https://open.spotify.com/album/4kWRAruWZf0kKMgPdsRyhv) | 3:08 | 2022-03-04 | 2022-04-23 |
 | [Hide From A Broken Heart](https://open.spotify.com/track/5VrlPIcMKixFC40QFcxXsa) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Hide From A Broken Heart](https://open.spotify.com/album/1f7zNLjz3cKwshw05BPtum) | 3:28 | 2021-12-31 | 2022-02-26 |
 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 | 2022-01-28 | 2022-03-12 |
@@ -473,6 +474,7 @@
 | [That's Why](https://open.spotify.com/track/2kUoYqpl9wG3VNwxDuHhXQ) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why](https://open.spotify.com/album/5cEt8pYzHBDPp9UeFEg3d5) | 3:01 | 2022-03-04 | 2022-04-16 |
 | [The Bottom \(Raise Em Up\)](https://open.spotify.com/track/4oefbJXSZQ6tVIn7P8ieub) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Bar Stool Preacher](https://open.spotify.com/album/6pVUsN0pgT6pkPT6BJQjtj) | 2:26 | 2022-01-14 | 2022-03-12 |
 | [The Card You Gamble \(Main Theme From Monarch\)](https://open.spotify.com/track/7iOS7vJd0JfJkUkauMfQY1) | [Monarch Cast](https://open.spotify.com/artist/7Dw7t1oeEFmhuqDntWaxyX), [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [The Card You Gamble \(Main Theme From Monarch\)](https://open.spotify.com/album/6Xi49KOKJfy60TkU5BJ61o) | 2:56 | 2022-01-07 | 2022-02-26 |
+| [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 | 2022-05-25 |  |
 | [THE DRILL](https://open.spotify.com/track/7FdVVD2WD45K7gLnN3ly41) | [Caitlin Quisenberry](https://open.spotify.com/artist/2yLeptGRMWP64GReoRj85U) | [THE DRILL](https://open.spotify.com/album/0YK0h0tRUflzEx4LrmjcSg) | 3:31 | 2022-04-01 |  |
 | [The Last Resort](https://open.spotify.com/track/7f5z4IzFsYYhUyxBXbFXcr) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort](https://open.spotify.com/album/37oKdfR8Pp7h6f5ovGHGew) | 3:56 | 2022-03-04 | 2022-03-18 |
 | [The Little Things](https://open.spotify.com/track/2zGMIvzdCQA34GhNFRQfUa) | [Todd Cameron](https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL) | [The Little Things](https://open.spotify.com/album/6wov4VT1SISOjSq3HTOoeJ) | 3:24 | 2022-04-15 |  |
@@ -530,6 +532,7 @@
 | [When I Look Back](https://open.spotify.com/track/5Xpgw7Epf3rzuiWmCRDKtw) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [When I Look Back](https://open.spotify.com/album/23jxTU5ns84A9xxMZOai9B) | 2:59 | 2022-02-25 | 2022-04-23 |
 | [When You Don't](https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE) | 3:33 | 2021-12-31 | 2022-01-08 |
 | [When You're Lonely](https://open.spotify.com/track/3NRULQPEu8U0MSvsGLHD2L) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [When You're Lonely](https://open.spotify.com/album/2I4EipZG2JFzWXP1Dh50FG) | 3:14 | 2021-12-31 | 2022-02-26 |
+| [When You're Sober](https://open.spotify.com/track/1gzu63ypvgW16KsfyELCoH) | [Kali Arcaris](https://open.spotify.com/artist/6GLZpLl64nlqfxnnP1Czjg) | [When You're Sober](https://open.spotify.com/album/2sK14UBWr9ChSgEaBAX7AQ) | 3:40 | 2022-05-25 |  |
 | [When's It Gonna Happen](https://open.spotify.com/track/0h0PVL7SoC7l4sJ5AYQZX5) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [When's It Gonna Happen](https://open.spotify.com/album/7nQ3jAmRGhlHQOB66gWtad) | 3:37 | 2022-01-14 | 2022-03-26 |
 | [Where Did All The Cowboys Go](https://open.spotify.com/track/2P5yyV1EA4CCqRhjXKro5p) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Be That Girl](https://open.spotify.com/album/7inCR1hQvn6iWSEbDsAXvR) | 3:15 | 2022-03-25 |  |
 | [Where Did We Go?](https://open.spotify.com/track/6SSRCtm4TGw2AZyl8LGhsO) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Where Did We Go?](https://open.spotify.com/album/1oM7SEjpzN7ZvOIcfRvlLs) | 2:46 | 2022-04-15 | 2022-05-20 |

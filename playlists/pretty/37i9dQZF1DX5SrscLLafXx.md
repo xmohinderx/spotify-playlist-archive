@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SrscLLafXx.md) - [plain]
 
 > Ah, Paris\. It's easy to see why it's called the city of love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,038 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,068 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

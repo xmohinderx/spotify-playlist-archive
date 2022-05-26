@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-824 songs - 1 day 19 hr 46 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+825 songs - 1 day 19 hr 49 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 | 2022-01-01 | 2022-01-03 |
 | [Grand Hotel](https://open.spotify.com/track/0wPvHlO3JYbZ5hgN47J4fq) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Grand Hotel](https://open.spotify.com/album/57SKyZuyphWP9zzO40ZEsV) | 4:49 | 2021-10-10 | 2021-10-11 |
 | [GRANNAR](https://open.spotify.com/track/1IVgj6uFQeDD7iFmgSrTp6) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [GRANNAR](https://open.spotify.com/album/0DPUBcVY0MPalAE1nawmN5) | 2:10 | 2021-11-07 | 2021-11-21 |
-| [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-22 |  |
+| [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-22 | 2022-05-26 |
 | [Gråt inte mer](https://open.spotify.com/track/3Cum5PAE6Nw52V43aRbLve) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Gråt inte mer](https://open.spotify.com/album/7aNTcA7BfHWL8tYzS9BSxV) | 3:28 | 2021-12-08 | 2021-12-09 |
 | [Gråter om du vill](https://open.spotify.com/track/0FlfVeOFogL3cU4AO8xNc4) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Gråter om du vill](https://open.spotify.com/album/2NmGftyYl1iIEuS81urNTW) | 3:48 | 2022-01-15 | 2022-05-12 |
 | [Gubben i lådan](https://open.spotify.com/track/0ln3ddVLRoA8HCXvMW5GSH) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Så mycket bättre 2021 \- Tolkningarna](https://open.spotify.com/album/49FLFQdobDBuT3VaLSRY2E) | 3:22 | 2021-12-30 | 2022-01-06 |
@@ -620,7 +620,7 @@
 | [Sarah](https://open.spotify.com/track/21xzvjoTUhKV2QYyIGDo8J) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden](https://open.spotify.com/album/4shw3FqZjRgJinMpCBfNCr) | 3:13 | 2021-10-23 | 2021-11-06 |
 | [Sarah](https://open.spotify.com/track/7ylN51XWVcCia5TDum3XhN) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden](https://open.spotify.com/album/3aln3y2urzDJkfr7LAyPlW) | 3:13 | 2021-11-06 | 2021-11-07 |
 | [Satan i gatan \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/6FQWsSZIbvt53KmJ9goFGK) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Satan i gatan \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/08egoVGkQ3lk0CRf7S0SbB) | 3:10 | 2021-05-16 | 2021-06-18 |
-| [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-23 |  |
+| [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-23 | 2022-05-26 |
 | [saudade, saudade](https://open.spotify.com/track/4S4Amrpr631M16IIXqRk73) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Festival Da Canção 2022](https://open.spotify.com/album/0HkpaChdLLJmEKtoxuiUEx) | 3:01 | 2022-05-16 | 2022-05-23 |
 | [Savastano](https://open.spotify.com/track/6CIfNoYuI8bIkfQl72z3q4) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Savastano](https://open.spotify.com/album/7nJgipyLnCNRKVkXbuMDfa) | 2:03 | 2021-09-21 | 2021-10-10 |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2021-05-03 |
@@ -666,7 +666,7 @@
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-13 | 2021-06-16 |
 | [Soldier of Heaven](https://open.spotify.com/track/3E03jj3nVNtFoMYQIweVdG) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Soldier Of Heaven](https://open.spotify.com/album/7u1ih7nlNGFE9sAkM4ac8C) | 3:38 | 2022-01-08 | 2022-01-10 |
 | [Solvalla](https://open.spotify.com/track/1kXOujFqMAZklF7jXhzcg1) | [Macky](https://open.spotify.com/artist/7yptUupX4aIIkXwXhggAgk) | [Solvalla](https://open.spotify.com/album/0UesPMN4BblmCI5unGURx7) | 2:45 | 2021-08-22 | 2021-08-29 |
-| [SOM DOM](https://open.spotify.com/track/7rwijx2xejRaPkEXUftI11) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [SOM DOM](https://open.spotify.com/album/4m94OnzZDqdD90RcHYBFeN) | 2:21 | 2021-09-30 | 2022-05-22 |
+| [SOM DOM](https://open.spotify.com/track/7rwijx2xejRaPkEXUftI11) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [SOM DOM](https://open.spotify.com/album/4m94OnzZDqdD90RcHYBFeN) | 2:21 | 2021-09-30 |  |
 | [Som du vill](https://open.spotify.com/track/12fYEY6L7M2k7qFWgMEwXn) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Som du vill](https://open.spotify.com/album/7Bt9EjtQhswBKqqOo9MiBU) | 2:53 | 2022-02-07 | 2022-05-11 |
 | [Someone Like You](https://open.spotify.com/track/5lkpeJwmQKgY3bX2zChjxX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 4:45 | 2021-10-19 | 2021-10-23 |
 | [Sommar sommar sol](https://open.spotify.com/track/7g6duGh0B6V4w0orEDAaDO) | [JLC](https://open.spotify.com/artist/1AIEHTv6we8ULBARv1572n) | [Sommar sommar sol](https://open.spotify.com/album/1Xr85aBI8W3D4vRt14NvL7) | 3:25 | 2021-06-27 | 2021-06-28 |
@@ -788,6 +788,7 @@
 | [Vvvalsta](https://open.spotify.com/track/2muh7P8rylTiI0IJIn2d3z) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Vvvalsta](https://open.spotify.com/album/5dLKndnZiYa2YzHKcIoLpH) | 2:37 | 2021-07-28 | 2022-01-08 |
 | [Välkommen hem](https://open.spotify.com/track/4WfSDuJ4MrpdSSCEOanwzD) | [E.M.D.](https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg) | [Välkommen hem](https://open.spotify.com/album/6AKGh8BsUAvUZmelHIxSGe) | 3:28 | 2021-11-28 | 2021-12-27 |
 | [Välkommen in](https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Satan i gatan \(Bonus Version\)](https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH) | 3:32 | 2022-03-21 |  |
+| [Välkommen Åter](https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq), [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N) | [Välkommen Åter](https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX) | 2:55 | 2022-05-25 |  |
 | [Vänner](https://open.spotify.com/track/1uXln6ile0AkTgeSePVaGr) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6), [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Vi](https://open.spotify.com/album/7jzxFogzrtyfr0QSxWUBIX) | 3:18 | 2022-01-22 | 2022-02-13 |
 | [Vänner](https://open.spotify.com/track/5wMUzY8FFxQ3aHdri7uuiP) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6), [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Vänner](https://open.spotify.com/album/4YmR801BCaHo4C230heArB) | 3:18 | 2022-01-08 | 2022-01-23 |
 | [Väntar på en solig dag](https://open.spotify.com/track/0rNfJBoTQWZvTyJoKz8QAT) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Väntar på en solig dag](https://open.spotify.com/album/0ZIEy5kwu7qDDDbPR0P4Jk) | 5:23 | 2022-03-05 | 2022-03-07 |

@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-374 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+375 songs - 19 hr 44 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Felicia](https://open.spotify.com/track/5EDa5MNxytx54nv0FjOWg4) | [Antoine Pepe](https://open.spotify.com/artist/1GZ7usuOguq1obg0YHjy2S) | [Felicia](https://open.spotify.com/album/1l3DCACuj0frbOVGKV0Iny) | 2:14 | 2020-09-30\* | 2021-01-18 |
 | [Fields Of Thoughts](https://open.spotify.com/track/3572Gf3GzIVt7OcnavAILF) | [Lonaras](https://open.spotify.com/artist/2q7Iuol5fO3jyAL6qV3Lea) | [Fields Of Thoughts](https://open.spotify.com/album/0c75G7hjqOYfLt3GLGjqaP) | 2:49 | 2022-05-19 |  |
 | [Final Feliz](https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL) | [Shah Feryan](https://open.spotify.com/artist/2k3wtmQ6gYbYAS7Mrv7wKx) | [Focus Forward](https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR) | 3:00 | 2020-09-30\* |  |
+| [Finally At Ease](https://open.spotify.com/track/4HJJh915LuQpMjEO0tFwhx) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Finally At Ease](https://open.spotify.com/album/0e7VPn87No5P1c1RGLUGYu) | 2:40 | 2022-05-25 |  |
 | [Finding You](https://open.spotify.com/track/57XqKCO5MeTbiaLSnq6dFj) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Finding You](https://open.spotify.com/album/706n9jfumnN5j4IjAeAqS7) | 3:04 | 2020-09-30\* | 2021-09-14 |
 | [Finn roen](https://open.spotify.com/track/0NtkoVSkVKRmybx0Vau21E) | [Andrine Årdal](https://open.spotify.com/artist/4bxTOGvKxGPNTKqgbDsoIx) | [Finn roen](https://open.spotify.com/album/2eX9Kdyv7Pb6ro098w5yke) | 3:34 | 2020-09-30\* | 2021-09-14 |
 | [First Bridge](https://open.spotify.com/track/09g7JMQLhGPspMm1hfeqCc) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Bridge](https://open.spotify.com/album/7Gs6ZfwzjlcnXfcCfeykSL) | 2:08 | 2020-09-30\* |  |

@@ -1,12 +1,12 @@
 {
   "description": "The Official League of Legends playlist featuring DPR LIVE - \"Set It Off (ft. DPR Cline)\" | MSI 2022",
-  "num_followers": 197106,
+  "num_followers": 197186,
   "original_name": "League of Legends Official MSI 2022 Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQ0MDYwNywwMDAwMDAwMDhlMGMwMGU3YjhlYzMyNjkzNTZkMzlkYzJkZmMxYmI0",
+  "snapshot_id": "MTY1MzUyNzE0NywwMDAwMDAwMDVkM2FjM2E0ZWJiOWM5NDM0ZTVlMWU0ZjBkNzVjZDMy",
   "tracks": [
     {
       "added_at": "2022-05-13 23:29:12",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-05-13 23:29:12",
       "album": {
+        "name": "Entertain Me",
+        "url": "https://open.spotify.com/album/3EePyDmGTMp3EV77YTjZrP"
+      },
+      "artists": [
+        {
+          "name": "Ylona Garcia",
+          "url": "https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "Entertain Me",
+      "url": "https://open.spotify.com/track/5TclgAYTVdTRLnHvTUhyIP"
+    },
+    {
+      "added_at": "2022-05-13 23:29:12",
+      "album": {
         "name": "Die For You (Zedd Remix)",
         "url": "https://open.spotify.com/album/7JFN9X5gWCHhgfUJwJmlmt"
       },
@@ -327,18 +343,18 @@
     {
       "added_at": "2022-05-13 23:29:12",
       "album": {
-        "name": "Entertain Me",
-        "url": "https://open.spotify.com/album/3EePyDmGTMp3EV77YTjZrP"
+        "name": "fever",
+        "url": "https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT"
       },
       "artists": [
         {
-          "name": "Ylona Garcia",
-          "url": "https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR"
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
         }
       ],
-      "duration_ms": 182893,
-      "name": "Entertain Me",
-      "url": "https://open.spotify.com/track/5TclgAYTVdTRLnHvTUhyIP"
+      "duration_ms": 197209,
+      "name": "weapon",
+      "url": "https://open.spotify.com/track/5z0QlOV93W6Yo7DG2SYOJP"
     },
     {
       "added_at": "2022-05-13 23:29:12",
@@ -371,8 +387,28 @@
     {
       "added_at": "2022-05-13 23:29:12",
       "album": {
-        "name": "Starts Right Here",
-        "url": "https://open.spotify.com/album/3zw7Q4NV7QJxFjSY3QnBgX"
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/6CEO8eiZsIQdSLRBBgstdR"
+      },
+      "artists": [
+        {
+          "name": "Besomorph",
+          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+        },
+        {
+          "name": "Lucifer",
+          "url": "https://open.spotify.com/artist/31r6yVmmkwBaiF1PEJahvP"
+        }
+      ],
+      "duration_ms": 136585,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/1zFttiDxUN4FDl91XAeeY5"
+    },
+    {
+      "added_at": "2022-05-13 23:29:12",
+      "album": {
+        "name": "The Call",
+        "url": "https://open.spotify.com/album/5cjMwrHxN5kcvVTVfBntNV"
       },
       "artists": [
         {
@@ -380,17 +416,21 @@
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         },
         {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
         },
         {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+          "name": "Louis Leibfried",
+          "url": "https://open.spotify.com/artist/0t9nu4uUtGK24BUkWa5b4R"
+        },
+        {
+          "name": "Edda Hayes",
+          "url": "https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8"
         }
       ],
-      "duration_ms": 185088,
-      "name": "Starts Right Here",
-      "url": "https://open.spotify.com/track/0MovQqn6F6M1kyAiBIn5CA"
+      "duration_ms": 222838,
+      "name": "The Call",
+      "url": "https://open.spotify.com/track/2iI556oF2qwtac9r1RzrXo"
     },
     {
       "added_at": "2022-05-13 23:29:12",
@@ -419,70 +459,42 @@
     {
       "added_at": "2022-05-13 23:29:12",
       "album": {
-        "name": "fever",
-        "url": "https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT"
+        "name": "Tesla",
+        "url": "https://open.spotify.com/album/6bGE8s7uGtzimisKaYkRMc"
       },
       "artists": [
         {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "weapon",
-      "url": "https://open.spotify.com/track/5z0QlOV93W6Yo7DG2SYOJP"
-    },
-    {
-      "added_at": "2022-05-13 23:29:12",
-      "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/6CEO8eiZsIQdSLRBBgstdR"
-      },
-      "artists": [
-        {
-          "name": "Besomorph",
-          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
         },
         {
-          "name": "Lucifer",
-          "url": "https://open.spotify.com/artist/31r6yVmmkwBaiF1PEJahvP"
+          "name": "LICK",
+          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
         }
       ],
-      "duration_ms": 136585,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/1zFttiDxUN4FDl91XAeeY5"
+      "duration_ms": 176585,
+      "name": "Tesla",
+      "url": "https://open.spotify.com/track/2NLcsuFUwxuPON7fBnxyv2"
     },
     {
       "added_at": "2022-05-13 23:29:12",
       "album": {
-        "name": "Denial",
-        "url": "https://open.spotify.com/album/3cixY87gCDIYt1NEF3nLF9"
+        "name": "Clockwork",
+        "url": "https://open.spotify.com/album/5VR0ZHg8JaKWO3DlVFMcma"
       },
       "artists": [
         {
-          "name": "Milkoi",
-          "url": "https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha"
-        }
-      ],
-      "duration_ms": 149062,
-      "name": "Denial",
-      "url": "https://open.spotify.com/track/65BImO5cBoaQnqY5CSDJ4x"
-    },
-    {
-      "added_at": "2022-05-13 23:29:12",
-      "album": {
-        "name": "Wonderland",
-        "url": "https://open.spotify.com/album/54FRO0p7V00CyAXSsFegeb"
-      },
-      "artists": [
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        },
         {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+          "name": "durlin",
+          "url": "https://open.spotify.com/artist/62pheSEDfTCksn5mW6IwMI"
         }
       ],
-      "duration_ms": 197968,
-      "name": "Wonderland",
-      "url": "https://open.spotify.com/track/7mUmIhrlfX8Zt3QJ7ZzWIM"
+      "duration_ms": 152494,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/7zTXEzy6M9BFEBgZvr0oAN"
     },
     {
       "added_at": "2022-05-13 23:29:12",
@@ -531,8 +543,8 @@
     {
       "added_at": "2022-05-13 23:29:12",
       "album": {
-        "name": "The Call",
-        "url": "https://open.spotify.com/album/5cjMwrHxN5kcvVTVfBntNV"
+        "name": "Starts Right Here",
+        "url": "https://open.spotify.com/album/3zw7Q4NV7QJxFjSY3QnBgX"
       },
       "artists": [
         {
@@ -540,61 +552,33 @@
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         },
         {
-          "name": "2WEI",
-          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
         },
         {
-          "name": "Louis Leibfried",
-          "url": "https://open.spotify.com/artist/0t9nu4uUtGK24BUkWa5b4R"
-        },
-        {
-          "name": "Edda Hayes",
-          "url": "https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8"
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
         }
       ],
-      "duration_ms": 222838,
-      "name": "The Call",
-      "url": "https://open.spotify.com/track/2iI556oF2qwtac9r1RzrXo"
+      "duration_ms": 185088,
+      "name": "Starts Right Here",
+      "url": "https://open.spotify.com/track/0MovQqn6F6M1kyAiBIn5CA"
     },
     {
       "added_at": "2022-05-13 23:29:12",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/54FRO0p7V00CyAXSsFegeb"
       },
       "artists": [
         {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
-    },
-    {
-      "added_at": "2022-05-13 23:29:12",
-      "album": {
-        "name": "Clockwork",
-        "url": "https://open.spotify.com/album/5VR0ZHg8JaKWO3DlVFMcma"
-      },
-      "artists": [
-        {
-          "name": "UNSECRET",
-          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
-        },
-        {
-          "name": "durlin",
-          "url": "https://open.spotify.com/artist/62pheSEDfTCksn5mW6IwMI"
-        }
-      ],
-      "duration_ms": 152494,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/7zTXEzy6M9BFEBgZvr0oAN"
+      "duration_ms": 197968,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/7mUmIhrlfX8Zt3QJ7ZzWIM"
     },
     {
       "added_at": "2022-05-13 23:29:12",
@@ -615,78 +599,22 @@
     {
       "added_at": "2022-05-13 23:29:12",
       "album": {
-        "name": "one like this",
-        "url": "https://open.spotify.com/album/3kDADEhJSlFYpKIVx237uX"
+        "name": "PILLARS ///",
+        "url": "https://open.spotify.com/album/1xPKjBXYPMnr3N4vhKSo63"
       },
       "artists": [
         {
-          "name": "Jasmine Clarke",
-          "url": "https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc"
-        }
-      ],
-      "duration_ms": 190684,
-      "name": "one like this",
-      "url": "https://open.spotify.com/track/4oXnLbbTvPs7InYSCSGkp0"
-    },
-    {
-      "added_at": "2022-05-13 23:29:12",
-      "album": {
-        "name": "Zeri, the Spark of Zaun",
-        "url": "https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
         },
         {
-          "name": "Lauren Babic",
-          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+          "name": "MOONZz",
+          "url": "https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab"
         }
       ],
-      "duration_ms": 213362,
-      "name": "Zeri, the Spark of Zaun",
-      "url": "https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA"
-    },
-    {
-      "added_at": "2022-05-13 23:29:12",
-      "album": {
-        "name": "Tesla",
-        "url": "https://open.spotify.com/album/6bGE8s7uGtzimisKaYkRMc"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "LICK",
-          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
-        }
-      ],
-      "duration_ms": 176585,
-      "name": "Tesla",
-      "url": "https://open.spotify.com/track/2NLcsuFUwxuPON7fBnxyv2"
-    },
-    {
-      "added_at": "2022-05-13 23:29:12",
-      "album": {
-        "name": "Hanging On By A Thread",
-        "url": "https://open.spotify.com/album/3qCmIe5ZBq5ziPcbysa0Wp"
-      },
-      "artists": [
-        {
-          "name": "UNSECRET",
-          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
-        },
-        {
-          "name": "SVRCINA",
-          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
-        }
-      ],
-      "duration_ms": 210863,
-      "name": "Hanging On By A Thread",
-      "url": "https://open.spotify.com/track/4xrEzHkvlZQqYUIGw7Zpl4"
+      "duration_ms": 205989,
+      "name": "Statues",
+      "url": "https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5"
     },
     {
       "added_at": "2022-05-13 23:29:12",
@@ -715,6 +643,22 @@
     {
       "added_at": "2022-05-13 23:29:12",
       "album": {
+        "name": "Denial",
+        "url": "https://open.spotify.com/album/3cixY87gCDIYt1NEF3nLF9"
+      },
+      "artists": [
+        {
+          "name": "Milkoi",
+          "url": "https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha"
+        }
+      ],
+      "duration_ms": 149062,
+      "name": "Denial",
+      "url": "https://open.spotify.com/track/65BImO5cBoaQnqY5CSDJ4x"
+    },
+    {
+      "added_at": "2022-05-13 23:29:12",
+      "album": {
         "name": "avenue (+)",
         "url": "https://open.spotify.com/album/5i13Df15OSLT0IJSvBBXoG"
       },
@@ -727,106 +671,6 @@
       "duration_ms": 183114,
       "name": "avenue (+)",
       "url": "https://open.spotify.com/track/45ugex0jrWO033Gq2OoQx4"
-    },
-    {
-      "added_at": "2022-05-13 23:29:12",
-      "album": {
-        "name": "Light Curve",
-        "url": "https://open.spotify.com/album/0zplYzUEbaHyBQqD430Wkz"
-      },
-      "artists": [
-        {
-          "name": "Krosia",
-          "url": "https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb"
-        },
-        {
-          "name": "Forhill",
-          "url": "https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze"
-        }
-      ],
-      "duration_ms": 256842,
-      "name": "Light Curve",
-      "url": "https://open.spotify.com/track/6lwUcTSQzaxO0MeIINxlo9"
-    },
-    {
-      "added_at": "2022-05-13 23:29:12",
-      "album": {
-        "name": "Leather Terror",
-        "url": "https://open.spotify.com/album/37PW0ipoWcjx3APS1MN0ql"
-      },
-      "artists": [
-        {
-          "name": "Carpenter Brut",
-          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
-        },
-        {
-          "name": "Greg Puciato",
-          "url": "https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi"
-        }
-      ],
-      "duration_ms": 261186,
-      "name": "Imaginary Fire - feat.Greg Puciato",
-      "url": "https://open.spotify.com/track/7isnmiHMrdP3AMdz6olJSo"
-    },
-    {
-      "added_at": "2022-05-13 23:29:12",
-      "album": {
-        "name": "Burn It All Down (Denzel Curry Remix)",
-        "url": "https://open.spotify.com/album/3SDmDz6RgolGmiUtgooCvv"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 215121,
-      "name": "Burn It All Down - Denzel Curry Remix",
-      "url": "https://open.spotify.com/track/5qmJzwzxZQ026FRMArPloB"
-    },
-    {
-      "added_at": "2022-05-13 23:29:12",
-      "album": {
-        "name": "PILLARS ///",
-        "url": "https://open.spotify.com/album/1xPKjBXYPMnr3N4vhKSo63"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        },
-        {
-          "name": "MOONZz",
-          "url": "https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab"
-        }
-      ],
-      "duration_ms": 205989,
-      "name": "Statues",
-      "url": "https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5"
-    },
-    {
-      "added_at": "2022-05-13 23:29:12",
-      "album": {
-        "name": "Circus of Doom",
-        "url": "https://open.spotify.com/album/6PpnrMZJP7HyoXEIzl0CET"
-      },
-      "artists": [
-        {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
-        }
-      ],
-      "duration_ms": 236326,
-      "name": "Where Angels Fear to Fly",
-      "url": "https://open.spotify.com/track/5Tf94JESeYX1FyP7iBdvde"
     },
     {
       "added_at": "2022-05-13 23:29:12",
@@ -855,6 +699,46 @@
     {
       "added_at": "2022-05-13 23:29:12",
       "album": {
+        "name": "Zeri, the Spark of Zaun",
+        "url": "https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Lauren Babic",
+          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+        }
+      ],
+      "duration_ms": 213362,
+      "name": "Zeri, the Spark of Zaun",
+      "url": "https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA"
+    },
+    {
+      "added_at": "2022-05-13 23:29:12",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
+      },
+      "artists": [
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
+    },
+    {
+      "added_at": "2022-05-13 23:29:12",
+      "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
@@ -871,54 +755,18 @@
     {
       "added_at": "2022-05-13 23:29:12",
       "album": {
-        "name": "Sessions: Diana",
-        "url": "https://open.spotify.com/album/524MIbuattv09j7FW5NVu2"
+        "name": "one like this",
+        "url": "https://open.spotify.com/album/3kDADEhJSlFYpKIVx237uX"
       },
       "artists": [
         {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+          "name": "Jasmine Clarke",
+          "url": "https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc"
         }
       ],
-      "duration_ms": 151425,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/43EsCCOIJL1gVTBraWd4Gx"
-    },
-    {
-      "added_at": "2022-05-13 23:29:12",
-      "album": {
-        "name": "IITE COOL",
-        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Yellow Cab",
-      "url": "https://open.spotify.com/track/3MiF6xSyLFE06XIHSq5SZT"
-    },
-    {
-      "added_at": "2022-05-13 23:29:12",
-      "album": {
-        "name": "Aliens",
-        "url": "https://open.spotify.com/album/74EvGqq3t8JFRwscYjUI13"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        }
-      ],
-      "duration_ms": 217697,
-      "name": "Aliens",
-      "url": "https://open.spotify.com/track/2DdWJ6dousoDkPKWpWrisl"
+      "duration_ms": 190684,
+      "name": "one like this",
+      "url": "https://open.spotify.com/track/4oXnLbbTvPs7InYSCSGkp0"
     },
     {
       "added_at": "2022-05-13 23:29:12",
@@ -943,6 +791,98 @@
     {
       "added_at": "2022-05-13 23:29:12",
       "album": {
+        "name": "Circus of Doom",
+        "url": "https://open.spotify.com/album/6PpnrMZJP7HyoXEIzl0CET"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "duration_ms": 236326,
+      "name": "Where Angels Fear to Fly",
+      "url": "https://open.spotify.com/track/5Tf94JESeYX1FyP7iBdvde"
+    },
+    {
+      "added_at": "2022-05-13 23:29:12",
+      "album": {
+        "name": "Light Curve",
+        "url": "https://open.spotify.com/album/0zplYzUEbaHyBQqD430Wkz"
+      },
+      "artists": [
+        {
+          "name": "Krosia",
+          "url": "https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb"
+        },
+        {
+          "name": "Forhill",
+          "url": "https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze"
+        }
+      ],
+      "duration_ms": 256842,
+      "name": "Light Curve",
+      "url": "https://open.spotify.com/track/6lwUcTSQzaxO0MeIINxlo9"
+    },
+    {
+      "added_at": "2022-05-13 23:29:12",
+      "album": {
+        "name": "Burn It All Down (Denzel Curry Remix)",
+        "url": "https://open.spotify.com/album/3SDmDz6RgolGmiUtgooCvv"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 215121,
+      "name": "Burn It All Down - Denzel Curry Remix",
+      "url": "https://open.spotify.com/track/5qmJzwzxZQ026FRMArPloB"
+    },
+    {
+      "added_at": "2022-05-13 23:29:12",
+      "album": {
+        "name": "I NEVER DIE",
+        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "ALREADY",
+      "url": "https://open.spotify.com/track/1hQtfLmNABXQMSjjYRXqAX"
+    },
+    {
+      "added_at": "2022-05-13 23:29:12",
+      "album": {
+        "name": "Your Touch",
+        "url": "https://open.spotify.com/album/5JFoJ30gCidTapLFVuyTeF"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "duration_ms": 225038,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/5Mnh0r4fIBfKW1QjaRBKFH"
+    },
+    {
+      "added_at": "2022-05-13 23:29:12",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh"
       },
@@ -959,6 +899,62 @@
       "duration_ms": 197388,
       "name": "Alive",
       "url": "https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8"
+    },
+    {
+      "added_at": "2022-05-13 23:29:12",
+      "album": {
+        "name": "Hanging On By A Thread",
+        "url": "https://open.spotify.com/album/3qCmIe5ZBq5ziPcbysa0Wp"
+      },
+      "artists": [
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        },
+        {
+          "name": "SVRCINA",
+          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
+        }
+      ],
+      "duration_ms": 210863,
+      "name": "Hanging On By A Thread",
+      "url": "https://open.spotify.com/track/4xrEzHkvlZQqYUIGw7Zpl4"
+    },
+    {
+      "added_at": "2022-05-13 23:29:12",
+      "album": {
+        "name": "Leather Terror",
+        "url": "https://open.spotify.com/album/37PW0ipoWcjx3APS1MN0ql"
+      },
+      "artists": [
+        {
+          "name": "Carpenter Brut",
+          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+        },
+        {
+          "name": "Greg Puciato",
+          "url": "https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi"
+        }
+      ],
+      "duration_ms": 261186,
+      "name": "Imaginary Fire - feat.Greg Puciato",
+      "url": "https://open.spotify.com/track/7isnmiHMrdP3AMdz6olJSo"
+    },
+    {
+      "added_at": "2022-05-13 23:29:12",
+      "album": {
+        "name": "Aliens",
+        "url": "https://open.spotify.com/album/74EvGqq3t8JFRwscYjUI13"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "duration_ms": 217697,
+      "name": "Aliens",
+      "url": "https://open.spotify.com/track/2DdWJ6dousoDkPKWpWrisl"
     },
     {
       "added_at": "2022-05-13 23:29:12",
@@ -983,8 +979,28 @@
     {
       "added_at": "2022-05-13 23:29:12",
       "album": {
-        "name": "Bring Home The Glory",
-        "url": "https://open.spotify.com/album/01L3l6bMt4wSX8fK3F9yKn"
+        "name": "Power Power (feat. Shaun Ross)",
+        "url": "https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Shaun Ross",
+          "url": "https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Power Power (feat. Shaun Ross)",
+      "url": "https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc"
+    },
+    {
+      "added_at": "2022-05-13 23:29:12",
+      "album": {
+        "name": "Sessions: Diana",
+        "url": "https://open.spotify.com/album/524MIbuattv09j7FW5NVu2"
       },
       "artists": [
         {
@@ -992,33 +1008,13 @@
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         },
         {
-          "name": "Sara Skinner",
-          "url": "https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y"
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
         }
       ],
-      "duration_ms": 179216,
-      "name": "Bring Home The Glory",
-      "url": "https://open.spotify.com/track/4VgGx1cQlHB7Ls1Ukt0H7H"
-    },
-    {
-      "added_at": "2022-05-13 23:29:12",
-      "album": {
-        "name": "All In My Head (feat. grandson)",
-        "url": "https://open.spotify.com/album/0jmSaEG7ah3dpH8Sn2pDhp"
-      },
-      "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 148112,
-      "name": "All In My Head (feat. grandson)",
-      "url": "https://open.spotify.com/track/2DuWtGyGAhc9GIhLCkerZH"
+      "duration_ms": 151425,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/43EsCCOIJL1gVTBraWd4Gx"
     }
   ],
   "unique_name": "League of Legends Official MSI 2022 Playlist",

@@ -2820,6 +2820,24 @@
     },
     {
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/6v1QSPpVnYMnnj95YJm4hs"
+      },
+      "artists": [
+        {
+          "name": "Spirit Minds",
+          "url": "https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156226,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/4Dioh7PnhNtYJa1Q8GTPw6"
+    },
+    {
+      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/5xpSwFSue9hlvFIzMJuqHi"
       },

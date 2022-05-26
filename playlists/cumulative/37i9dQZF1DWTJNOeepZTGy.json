@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 220826,
       "name": "All I Ever Think About",
       "url": "https://open.spotify.com/track/4KWRdYADKz1Fo1eLXWuMLi"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 272000,
       "name": "Anniversary - Radio Edit",
       "url": "https://open.spotify.com/track/2wmHH8Xc9P2RN6fGDH4ON6"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 338573,
       "name": "Between the Sheets",
       "url": "https://open.spotify.com/track/7GazZcRE8uDL24PzwyUe2f"
@@ -228,6 +228,24 @@
     },
     {
       "album": {
+        "name": "Kenny Lattimore",
+        "url": "https://open.spotify.com/album/1H10hT3tMPtL2uD3rIQRUE"
+      },
+      "artists": [
+        {
+          "name": "Kenny Lattimore",
+          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4eI8okfmurpexL41RdjkGA"
+    },
+    {
+      "album": {
         "name": "Outrun The Sky",
         "url": "https://open.spotify.com/album/6owHkIavlncFxnnbUMJwbE"
       },
@@ -261,7 +279,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 277297,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX"
@@ -279,7 +297,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 248320,
       "name": "Heaven On My Mind (Ballad)",
       "url": "https://open.spotify.com/track/14aeR4MPNqmI0gCrbJpscu"
@@ -380,6 +398,28 @@
     },
     {
       "album": {
+        "name": "Instant Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61CzGFq3xVWqzpv9YwLYRG"
+      },
+      "artists": [
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        },
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323986,
+      "name": "If This World Were Mine (with Luther Vandross)",
+      "url": "https://open.spotify.com/track/3DnJmpSvBNxngDOBeI5U0B"
+    },
+    {
+      "album": {
         "name": "Capitol Gold: The Best Of Minnie Riperton",
         "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
       },
@@ -391,7 +431,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 238693,
       "name": "Inside My Love - Remastered",
       "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
@@ -427,7 +467,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 216426,
       "name": "Knocks Me Off My Feet",
       "url": "https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"
@@ -517,7 +557,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 219458,
       "name": "Love Like Yours And Mine",
       "url": "https://open.spotify.com/track/76PUohgHDZNGvj7uXFLpAC"
@@ -553,7 +593,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 299626,
       "name": "Love No Limit",
       "url": "https://open.spotify.com/track/7gEGhEb1VcCeC6lJWnjI9Z"
@@ -571,7 +611,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 300120,
       "name": "Love, Need And Want You",
       "url": "https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN"
@@ -625,7 +665,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 769426,
       "name": "Medley",
       "url": "https://open.spotify.com/track/3pAiTAdDCvqWECwRmUlxvi"
@@ -677,7 +717,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 335906,
       "name": "Never Felt This Way",
       "url": "https://open.spotify.com/track/3ETM5bHqW8RtMsP9PauI6S"
@@ -695,7 +735,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 216813,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/22Ixvd6v1ofmishJchJfvN"
@@ -749,7 +789,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 430000,
       "name": "Orange Moon",
       "url": "https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx"
@@ -919,7 +959,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 291133,
       "name": "sobeautiful",
       "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
@@ -1143,7 +1183,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 302186,
       "name": "You",
       "url": "https://open.spotify.com/track/4RMIDsxooqjhLIkxhlWzLa"

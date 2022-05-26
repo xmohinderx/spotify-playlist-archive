@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128376,
+  "num_followers": 128380,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQyMiwzZjNmMGY4Y2UxZGRiMGM1OTJlOTI4Njc2ZjFiNThjMWMwNjM2ZGI4",
+  "snapshot_id": "MzQyNSw2MTVmMzQyYmNjMDUyZmQ5MDZlMWE3MDc3YWFhODE0MmYwZmUwYjQw",
   "tracks": [
+    {
+      "added_at": "2022-05-25 16:40:08",
+      "album": {
+        "name": "Rays",
+        "url": "https://open.spotify.com/album/57mAquqvqkTjkPTkpOjAsh"
+      },
+      "artists": [
+        {
+          "name": "Liam Thomas",
+          "url": "https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN"
+        }
+      ],
+      "duration_ms": 150742,
+      "name": "Rays",
+      "url": "https://open.spotify.com/track/72tvo13t5mUarSFhYfU4aG"
+    },
     {
       "added_at": "2022-05-24 16:30:39",
       "album": {
@@ -1063,42 +1079,6 @@
       "duration_ms": 223125,
       "name": "Tarantino",
       "url": "https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y"
-    },
-    {
-      "added_at": "2022-03-14 16:10:22",
-      "album": {
-        "name": "CINEMA",
-        "url": "https://open.spotify.com/album/4fqBn6j0jf2eLaBhZwA1dp"
-      },
-      "artists": [
-        {
-          "name": "OddKidOut",
-          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
-        },
-        {
-          "name": "Marlhy",
-          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
-        }
-      ],
-      "duration_ms": 188689,
-      "name": "CINEMA",
-      "url": "https://open.spotify.com/track/1KUlGcqkfUjnoTL20bhtPr"
-    },
-    {
-      "added_at": "2022-03-11 15:45:44",
-      "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/7jyOHk3mdvqCpGWqsj7aPE"
-      },
-      "artists": [
-        {
-          "name": "Saxsquatch",
-          "url": "https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/3zsPz5ElM9EZZALNNN5gBy"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

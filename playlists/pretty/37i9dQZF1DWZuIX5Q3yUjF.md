@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Luca Re
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,304 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,315 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 35 | [Come un Film](https://open.spotify.com/track/39XNBtQcyOgyWEIbreIe8u) | [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu) | [Come un Film](https://open.spotify.com/album/3h9WDTPIEOddGaxoAW9yeA) | 2:41 |
 | 36 | [Easy Girl](https://open.spotify.com/track/7dAcl4BwYFs1wetMYhUHw3) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | [Easy Girl](https://open.spotify.com/album/3jipkFOtx8adiuJqudvV5C) | 4:17 |
 | 37 | [Fratelli & Sogni](https://open.spotify.com/track/7eU88luluIpbVBs3RTYyOd) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Fratelli & Sogni](https://open.spotify.com/album/5aVhpSwVPul3AWaTWq5NZG) | 2:40 |
-| 38 | [O'tiempo](https://open.spotify.com/track/5Ye3aRSi3Ou40z82AT9nGZ) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [Marco Maiole](https://open.spotify.com/artist/2GTP5wrXZ1ObOHPlSgaaLm) | [San Castrese](https://open.spotify.com/album/3rYuPwrwUSE7wEE89lcC4G) | 3:08 |
+| 38 | [O'tiempo](https://open.spotify.com/track/5Ye3aRSi3Ou40z82AT9nGZ) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [Marco Maiole](https://open.spotify.com/artist/7G4avUkpa5tyQUQ3ODjSyP) | [San Castrese](https://open.spotify.com/album/3rYuPwrwUSE7wEE89lcC4G) | 3:08 |
 | 39 | [No eh? Va be'](https://open.spotify.com/track/64kDlkqrSAg5vha3bK7I8A) | [DAEMIA](https://open.spotify.com/artist/2h1otCcxhWWTUQtcSg7I7X) | [No eh? Va be'](https://open.spotify.com/album/5SXnrkbFeNPOfFnEHChOX6) | 3:31 |
 | 40 | [Anime Gemelle](https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Anime Gemelle](https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB) | 2:36 |
 | 41 | [IL TEMPO DELLE MELE](https://open.spotify.com/track/0fyXzFs8JwlCQeg5SKIksT) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [IL TEMPO DELLE MELE](https://open.spotify.com/album/53LDnyr7TtRNLu6dMIEN8w) | 2:16 |

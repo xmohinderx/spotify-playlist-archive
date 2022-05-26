@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Around Midnight",
+        "url": "https://open.spotify.com/album/65qYYKLROzIJ1qN7CFaA0d"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172160,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/4DZTYXrIy4fvNa1HhxxNC2"
+    },
+    {
+      "album": {
         "name": "A Certain Smile, A Certain Sadness (Expanded Edition)",
         "url": "https://open.spotify.com/album/1vLQYFvmDj7hTYvlvdMSQ4"
       },
@@ -305,7 +323,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 165266,
       "name": "Cry You Out Of My Heart",
       "url": "https://open.spotify.com/track/298PoQoXA91pJuS0AKlXCk"
@@ -385,6 +403,24 @@
       "duration_ms": 228360,
       "name": "Don't Go To Strangers",
       "url": "https://open.spotify.com/track/6cRsRBzSaGwfnMMqNSjtFY"
+    },
+    {
+      "album": {
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Everything Happens To Me - Complete Take 2",
+      "url": "https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r"
     },
     {
       "album": {
@@ -541,7 +577,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 315773,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB"
@@ -1153,7 +1189,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 198360,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/2I5ldN3uVqEx5h87xxDmVo"
@@ -1685,7 +1721,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 186106,
       "name": "There Must Be A Way",
       "url": "https://open.spotify.com/track/67U4IqbrefNGF3f7kSV4Fj"

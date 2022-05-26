@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Tank and the Bangas",
-  "num_followers": 106909,
+  "num_followers": 107287,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQ0MDUwMCwwMDAwMDAwMGUxZTAyODU5ZmI4M2FjZmFjZTUwN2E1NThjYWVhNjhh",
+  "snapshot_id": "MTY1MzUyNzA0MywwMDAwMDAwMGU1YjllZWZmMTg1MjhmNDJhOGExNDQxODlkYTVkN2M3",
   "tracks": [
     {
       "added_at": "2022-05-13 04:02:00",
@@ -221,6 +221,22 @@
       "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
     },
     {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/76yrGYfxRIv1FnVU01IhdS"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 222936,
+      "name": "Piece of Me",
+      "url": "https://open.spotify.com/track/5CbcqhKsBbiOsjdkh5Hsea"
+    },
+    {
       "added_at": "2021-07-16 04:01:00",
       "album": {
         "name": "The Way That I Do",
@@ -257,20 +273,20 @@
       "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo"
+        "name": "Don't Forget to Look Up",
+        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
       },
       "artists": [
         {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
         }
       ],
-      "duration_ms": 201144,
-      "name": "Under The Sun",
-      "url": "https://open.spotify.com/track/4fk2ZZxo8m9hGS3XSij883"
+      "duration_ms": 210873,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -289,106 +305,6 @@
       "url": "https://open.spotify.com/track/6vZ2FTyBiKS5DfGz2Qe79j"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Why Don't You Touch Me",
-        "url": "https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 188617,
-      "name": "Motorbike",
-      "url": "https://open.spotify.com/track/1rYzhneH8uXuTCcGzOHKSC"
-    },
-    {
-      "added_at": "2021-08-02 16:49:06",
-      "album": {
-        "name": "Private Space",
-        "url": "https://open.spotify.com/album/4ogV05oprfriua7n9icbvN"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 254722,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/40wfUw3Vf1V1a46CibHmt7"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Lazy Days",
-        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
-      },
-      "artists": [
-        {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Sun Go Down",
-      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Queen Alone",
-        "url": "https://open.spotify.com/album/5QVrsV0URTnFNv4nfRN5BR"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/0YfwVbEYw31UiVCllyoTaG"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Minotaur",
-        "url": "https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 278439,
-      "name": "Minotaur",
-      "url": "https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Explore",
-        "url": "https://open.spotify.com/album/7DxTQ86fPK4BPoJ1RIeFos"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 286253,
-      "name": "Explore",
-      "url": "https://open.spotify.com/track/6sb1CGojNdNMiToRfSNwzY"
-    },
-    {
       "added_at": "2021-08-06 04:01:00",
       "album": {
         "name": "Love and Hate in a Different Time",
@@ -405,26 +321,26 @@
       "url": "https://open.spotify.com/track/1aTzG5OLk5m868nYMeAn7W"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
+      "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "When You Lose Someone",
-        "url": "https://open.spotify.com/album/1FsTVcCyDJUTdi4TgsKzWK"
+        "name": "The Marcus King Band",
+        "url": "https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO"
       },
       "artists": [
         {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
         }
       ],
-      "duration_ms": 205053,
-      "name": "When You Lose Someone",
-      "url": "https://open.spotify.com/track/4K8Oan6E1K7eaxjaXXSZLX"
+      "duration_ms": 265586,
+      "name": "Rita Is Gone",
+      "url": "https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5"
     },
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/76yrGYfxRIv1FnVU01IhdS"
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/5QVrsV0URTnFNv4nfRN5BR"
       },
       "artists": [
         {
@@ -432,9 +348,9 @@
           "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
         }
       ],
-      "duration_ms": 222936,
-      "name": "Piece of Me",
-      "url": "https://open.spotify.com/track/5CbcqhKsBbiOsjdkh5Hsea"
+      "duration_ms": 214573,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/0YfwVbEYw31UiVCllyoTaG"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -457,100 +373,20 @@
       "url": "https://open.spotify.com/track/5ogtCRgBDDaPjInCBcFHTg"
     },
     {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Fighting for Peace",
-        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Fighting for Peace",
-      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
-    },
-    {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "The Marcus King Band",
-        "url": "https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO"
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
       },
       "artists": [
         {
-          "name": "The Marcus King Band",
-          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
         }
       ],
-      "duration_ms": 265586,
-      "name": "Rita Is Gone",
-      "url": "https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Hard Up",
-        "url": "https://open.spotify.com/album/22UwgOvqggRpQcmkEPLvUl"
-      },
-      "artists": [
-        {
-          "name": "The Bamboos",
-          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
-        }
-      ],
-      "duration_ms": 255227,
-      "name": "Hard Up",
-      "url": "https://open.spotify.com/track/2rs00HEFJT0yg1NC64JWpS"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Don't Forget to Look Up",
-        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 210873,
-      "name": "Good Man",
-      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "American Love Call",
-        "url": "https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        }
-      ],
-      "duration_ms": 200686,
-      "name": "Don\u2019t You Know",
-      "url": "https://open.spotify.com/track/242UAWExQDujCkiQtLQvcu"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "This Is The Day (Full Band Version)",
-        "url": "https://open.spotify.com/album/6HIzNiydjxIffCg5TGxwBj"
-      },
-      "artists": [
-        {
-          "name": "Mamas Gun",
-          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
-        }
-      ],
-      "duration_ms": 282274,
-      "name": "This Is The Day - Full Band Version",
-      "url": "https://open.spotify.com/track/75E9k76b255fUk9iSUqkG9"
+      "duration_ms": 222320,
+      "name": "Sun Go Down",
+      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
     },
     {
       "added_at": "2021-09-10 04:02:00",
@@ -571,6 +407,106 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 228553,
+      "name": "So Caught Up",
+      "url": "https://open.spotify.com/track/0g84356Up4bxwOKVvzq0Kh"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "This Is The Day (Full Band Version)",
+        "url": "https://open.spotify.com/album/6HIzNiydjxIffCg5TGxwBj"
+      },
+      "artists": [
+        {
+          "name": "Mamas Gun",
+          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
+        }
+      ],
+      "duration_ms": 282274,
+      "name": "This Is The Day - Full Band Version",
+      "url": "https://open.spotify.com/track/75E9k76b255fUk9iSUqkG9"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 201144,
+      "name": "Under The Sun",
+      "url": "https://open.spotify.com/track/4fk2ZZxo8m9hGS3XSij883"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Hard Up",
+        "url": "https://open.spotify.com/album/22UwgOvqggRpQcmkEPLvUl"
+      },
+      "artists": [
+        {
+          "name": "The Bamboos",
+          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
+        }
+      ],
+      "duration_ms": 255227,
+      "name": "Hard Up",
+      "url": "https://open.spotify.com/track/2rs00HEFJT0yg1NC64JWpS"
+    },
+    {
+      "added_at": "2021-08-02 16:49:06",
+      "album": {
+        "name": "Private Space",
+        "url": "https://open.spotify.com/album/4ogV05oprfriua7n9icbvN"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 254722,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/40wfUw3Vf1V1a46CibHmt7"
+    },
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "Dancing Dimensions",
+        "url": "https://open.spotify.com/album/6u2hyLFGZJ8T7n2k81BSCC"
+      },
+      "artists": [
+        {
+          "name": "Ural Thomas and the Pain",
+          "url": "https://open.spotify.com/artist/3CVDnjIPKEN8xYJ2kIpq4t"
+        }
+      ],
+      "duration_ms": 216597,
+      "name": "Dancing Dimensions",
+      "url": "https://open.spotify.com/track/4NIS3J8jBhjKzk1joQWTAe"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
         "name": "hey rose",
         "url": "https://open.spotify.com/album/3YESJ3NMzAhqek7gV6U5En"
       },
@@ -583,38 +519,6 @@
       "duration_ms": 175937,
       "name": "hey rose",
       "url": "https://open.spotify.com/track/6VU2EGIiYGVMjaQhIwC5Ys"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Paddle to the Stars",
-        "url": "https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 156173,
-      "name": "Paddle to the Stars",
-      "url": "https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Sorry You Couldn't Make It",
-        "url": "https://open.spotify.com/album/2p5pkNlYTEAzPdNdLHLMlP"
-      },
-      "artists": [
-        {
-          "name": "Swamp Dogg",
-          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
-        }
-      ],
-      "duration_ms": 170040,
-      "name": "Good, Better, Best",
-      "url": "https://open.spotify.com/track/5xJ2iRDQ7jKJl2DLsYJPYD"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -635,76 +539,8 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "1634 Lexington Avenue",
-        "url": "https://open.spotify.com/album/2gpYieu51skFa8dRdHWf75"
-      },
-      "artists": [
-        {
-          "name": "Carlton Jumel Smith",
-          "url": "https://open.spotify.com/artist/0jbXsyUAMmaJHGgF8g8HZy"
-        },
-        {
-          "name": "Cold Diamond & Mink",
-          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
-        }
-      ],
-      "duration_ms": 229915,
-      "name": "This Is What Love Looks Like!",
-      "url": "https://open.spotify.com/track/3i6lezqE0uwBZzA7jkjx7T"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Party For One / Looking For Moses",
-        "url": "https://open.spotify.com/album/1RmGdBJcGcO9dse9IdL8XN"
-      },
-      "artists": [
-        {
-          "name": "Mamas Gun",
-          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
-        }
-      ],
-      "duration_ms": 313893,
-      "name": "Looking For Moses",
-      "url": "https://open.spotify.com/track/3crGdqxcBCvHVeG7VaxNY1"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 228553,
-      "name": "So Caught Up",
-      "url": "https://open.spotify.com/track/0g84356Up4bxwOKVvzq0Kh"
-    },
-    {
-      "added_at": "2021-10-29 04:01:00",
-      "album": {
-        "name": "Starchild",
-        "url": "https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 231853,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+        "name": "Why Don't You Touch Me",
+        "url": "https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai"
       },
       "artists": [
         {
@@ -712,153 +548,57 @@
           "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
+      "duration_ms": 188617,
+      "name": "Motorbike",
+      "url": "https://open.spotify.com/track/1rYzhneH8uXuTCcGzOHKSC"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
+      "added_at": "2021-11-05 04:01:00",
       "album": {
-        "name": "Side by Side",
-        "url": "https://open.spotify.com/album/3b9cLrv8J3sDdh6sckaZOF"
+        "name": "Explore",
+        "url": "https://open.spotify.com/album/7DxTQ86fPK4BPoJ1RIeFos"
       },
       "artists": [
         {
-          "name": "Collin Miller & the Brother Nature",
-          "url": "https://open.spotify.com/artist/5zbwJxPIe7maUt0t8LTUB6"
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
         }
       ],
-      "duration_ms": 334477,
-      "name": "Side by Side",
-      "url": "https://open.spotify.com/track/5RABWGh9kQl6I3WFaGOKje"
+      "duration_ms": 286253,
+      "name": "Explore",
+      "url": "https://open.spotify.com/track/6sb1CGojNdNMiToRfSNwzY"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
+      "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Big Crown Vaults Vol. 1 - Lee Fields & The Expressions",
-        "url": "https://open.spotify.com/album/2pMqRfJFeY9aWT7zEagauL"
+        "name": "Minotaur",
+        "url": "https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz"
       },
       "artists": [
         {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 212939,
-      "name": "Regenerate",
-      "url": "https://open.spotify.com/track/6jCNwAdRC9jBygVHiusWvC"
+      "duration_ms": 278439,
+      "name": "Minotaur",
+      "url": "https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
+      "added_at": "2022-01-07 05:02:00",
       "album": {
-        "name": "Last One Standing (Radio Edit)",
-        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
+        "name": "Soul to Blessed Soul",
+        "url": "https://open.spotify.com/album/3dvnfWPlGdwbq82bwuefwf"
       },
       "artists": [
         {
-          "name": "Monophonics",
-          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+          "name": "Swamp Dogg",
+          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
         }
       ],
-      "duration_ms": 203589,
-      "name": "Last One Standing - Radio Edit",
-      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
-    },
-    {
-      "added_at": "2022-03-21 16:40:17",
-      "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/4CgJXHgOTv1jPGsIZYEozZ"
-      },
-      "artists": [
-        {
-          "name": "Mamas Gun",
-          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
-        }
-      ],
-      "duration_ms": 200066,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/0J1lFaf00GdhNUekI4lmqJ"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 180061,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/2ROGRLF59VgUst8a6f6oez"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "WE ARE (The Deluxe Edition)",
-        "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 202022,
-      "name": "TELL THE TRUTH",
-      "url": "https://open.spotify.com/track/4j6PFhmK5mOmZK5H8vkzXF"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Real Contender",
-        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Real Contender",
-      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Dancing Dimensions",
-        "url": "https://open.spotify.com/album/6u2hyLFGZJ8T7n2k81BSCC"
-      },
-      "artists": [
-        {
-          "name": "Ural Thomas and the Pain",
-          "url": "https://open.spotify.com/artist/3CVDnjIPKEN8xYJ2kIpq4t"
-        }
-      ],
-      "duration_ms": 216597,
-      "name": "Dancing Dimensions",
-      "url": "https://open.spotify.com/track/4NIS3J8jBhjKzk1joQWTAe"
-    },
-    {
-      "added_at": "2021-08-06 04:01:00",
-      "album": {
-        "name": "Little Birdie",
-        "url": "https://open.spotify.com/album/3lFtl9ngeK56wTq6IikwC7"
-      },
-      "artists": [
-        {
-          "name": "Izo FitzRoy",
-          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
-        }
-      ],
-      "duration_ms": 243832,
-      "name": "Little Birdie",
-      "url": "https://open.spotify.com/track/7nsbVEf7v7RvrhktbIX42o"
+      "duration_ms": 335853,
+      "name": "Soul to Blessed Soul",
+      "url": "https://open.spotify.com/track/4UKQcBQ4JFZgsTkRMQzHT4"
     },
     {
       "added_at": "2022-04-15 04:01:00",
@@ -883,86 +623,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Durand Jones & The Indications (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        }
-      ],
-      "duration_ms": 229403,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0Rliuj2FRErOzjvSSKTGLd"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Half The City",
-        "url": "https://open.spotify.com/album/3SDb4R79A7riso7rpRZGGW"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/7279Xzu3rlTXVdtKb5unBA"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Ordinary Lives",
-        "url": "https://open.spotify.com/album/0z87IQzrtDMve4JMe8LZjO"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 196546,
-      "name": "Ordinary Lives",
-      "url": "https://open.spotify.com/track/4MU7yhKkOpVVDCWfxTGfxk"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Black Pumas",
-        "url": "https://open.spotify.com/album/54SlWgNocRPhlZEFTYjOfW"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 246120,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/18Hq4xHyecxySkoUPQyYV2"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 204747,
-      "name": "Through It All",
-      "url": "https://open.spotify.com/track/4JHvgv3f9PytZ2g8GqdIhC"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "The Dip Delivers",
         "url": "https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI"
       },
@@ -979,76 +639,40 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Golden Days",
-        "url": "https://open.spotify.com/album/5LuNtoT969MSX9o07N1sDO"
+        "name": "American Love Call",
+        "url": "https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY"
       },
       "artists": [
         {
-          "name": "Mamas Gun",
-          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
         }
       ],
-      "duration_ms": 280280,
-      "name": "I Need a Win",
-      "url": "https://open.spotify.com/track/2QF4b6mH7o8oBj3ky1IuCX"
+      "duration_ms": 200686,
+      "name": "Don\u2019t You Know",
+      "url": "https://open.spotify.com/track/242UAWExQDujCkiQtLQvcu"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
+      "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Memories of Love",
-        "url": "https://open.spotify.com/album/2wob0s3WIRpsvYHSpDqywa"
+        "name": "Joy & Pain",
+        "url": "https://open.spotify.com/album/6OoLcz38MMFvn9l6nAweXC"
       },
       "artists": [
         {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
         }
       ],
-      "duration_ms": 300677,
-      "name": "Whatever You Are",
-      "url": "https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "No Matter The Season",
-        "url": "https://open.spotify.com/album/0KImBK7q3JYm43snwJGZgL"
-      },
-      "artists": [
-        {
-          "name": "Eamon",
-          "url": "https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9"
-        }
-      ],
-      "duration_ms": 138223,
-      "name": "Come On Through",
-      "url": "https://open.spotify.com/track/2GMjU0QuHVOXjGI02ksGrw"
+      "duration_ms": 223060,
+      "name": "Joy & Pain",
+      "url": "https://open.spotify.com/track/1iHj6nbjMHFpH73fl4AyWB"
     },
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "If My Love Was Enough",
-        "url": "https://open.spotify.com/album/5nj8FfDsjGKC3WMPIG900C"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        },
-        {
-          "name": "Natalie Slade",
-          "url": "https://open.spotify.com/artist/2G4QmfdQaRtHde3OYDl3AQ"
-        }
-      ],
-      "duration_ms": 221435,
-      "name": "If My Love Was Enough",
-      "url": "https://open.spotify.com/track/5aXJA4672geISfKvJYMvP2"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
       "artists": [
         {
@@ -1056,25 +680,25 @@
           "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 194493,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/407qAIie8sIEgquKD1AAd2"
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Take Me to the Good Times",
-        "url": "https://open.spotify.com/album/6mezbdLjN0nWuCKiG5jgOh"
+        "name": "Half The City",
+        "url": "https://open.spotify.com/album/3SDb4R79A7riso7rpRZGGW"
       },
       "artists": [
         {
-          "name": "The Suffers",
-          "url": "https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU"
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 264747,
-      "name": "Take Me to the Good Times",
-      "url": "https://open.spotify.com/track/4VwAIIQDPR3T7EPnzk7Fv1"
+      "duration_ms": 171266,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7279Xzu3rlTXVdtKb5unBA"
     },
     {
       "added_at": "2022-03-21 16:40:17",
@@ -1099,22 +723,418 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/4VIuikghlCfEl022xOlhaR"
+        "name": "Take Me to the Good Times",
+        "url": "https://open.spotify.com/album/6mezbdLjN0nWuCKiG5jgOh"
       },
       "artists": [
         {
-          "name": "Emma Donovan",
-          "url": "https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs"
-        },
-        {
-          "name": "The Putbacks",
-          "url": "https://open.spotify.com/artist/1MFxqj3TBAaTuiEgLnBfsR"
+          "name": "The Suffers",
+          "url": "https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU"
         }
       ],
-      "duration_ms": 232472,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/1GjayjS8KEuljD5GhTuDDq"
+      "duration_ms": 264747,
+      "name": "Take Me to the Good Times",
+      "url": "https://open.spotify.com/track/4VwAIIQDPR3T7EPnzk7Fv1"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Party For One / Looking For Moses",
+        "url": "https://open.spotify.com/album/1RmGdBJcGcO9dse9IdL8XN"
+      },
+      "artists": [
+        {
+          "name": "Mamas Gun",
+          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
+        }
+      ],
+      "duration_ms": 313893,
+      "name": "Looking For Moses",
+      "url": "https://open.spotify.com/track/3crGdqxcBCvHVeG7VaxNY1"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Sorry You Couldn't Make It",
+        "url": "https://open.spotify.com/album/2p5pkNlYTEAzPdNdLHLMlP"
+      },
+      "artists": [
+        {
+          "name": "Swamp Dogg",
+          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
+        }
+      ],
+      "duration_ms": 170040,
+      "name": "Good, Better, Best",
+      "url": "https://open.spotify.com/track/5xJ2iRDQ7jKJl2DLsYJPYD"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Durand Jones & The Indications (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        }
+      ],
+      "duration_ms": 229403,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0Rliuj2FRErOzjvSSKTGLd"
+    },
+    {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "Paddle to the Stars",
+        "url": "https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 156173,
+      "name": "Paddle to the Stars",
+      "url": "https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 204747,
+      "name": "Through It All",
+      "url": "https://open.spotify.com/track/4JHvgv3f9PytZ2g8GqdIhC"
+    },
+    {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
+        "name": "Ordinary Lives",
+        "url": "https://open.spotify.com/album/0z87IQzrtDMve4JMe8LZjO"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 196546,
+      "name": "Ordinary Lives",
+      "url": "https://open.spotify.com/track/4MU7yhKkOpVVDCWfxTGfxk"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/0lGPCXSe5AHUtZRuOXebAR"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        },
+        {
+          "name": "Piya Malik",
+          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
+        }
+      ],
+      "duration_ms": 248777,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/18vFLgoBcvIXsJP7pTX93e"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "WE ARE (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 202022,
+      "name": "TELL THE TRUTH",
+      "url": "https://open.spotify.com/track/4j6PFhmK5mOmZK5H8vkzXF"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Last One Standing (Radio Edit)",
+        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
+      },
+      "artists": [
+        {
+          "name": "Monophonics",
+          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+        }
+      ],
+      "duration_ms": 203589,
+      "name": "Last One Standing - Radio Edit",
+      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Big Crown Vaults Vol. 1 - Lee Fields & The Expressions",
+        "url": "https://open.spotify.com/album/2pMqRfJFeY9aWT7zEagauL"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        }
+      ],
+      "duration_ms": 212939,
+      "name": "Regenerate",
+      "url": "https://open.spotify.com/track/6jCNwAdRC9jBygVHiusWvC"
+    },
+    {
+      "added_at": "2022-03-21 16:40:17",
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4CgJXHgOTv1jPGsIZYEozZ"
+      },
+      "artists": [
+        {
+          "name": "Mamas Gun",
+          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
+        }
+      ],
+      "duration_ms": 200066,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0J1lFaf00GdhNUekI4lmqJ"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Fighting for Peace",
+        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Fighting for Peace",
+      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/34sLLcb1XwY8KD0fIcabjH"
+      },
+      "artists": [
+        {
+          "name": "Kendra Morris",
+          "url": "https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk"
+        }
+      ],
+      "duration_ms": 249197,
+      "name": "Dry",
+      "url": "https://open.spotify.com/track/4ug40UefedjvTEXuuIZaQA"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Black Pumas",
+        "url": "https://open.spotify.com/album/54SlWgNocRPhlZEFTYjOfW"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 246120,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/18Hq4xHyecxySkoUPQyYV2"
+    },
+    {
+      "added_at": "2021-10-29 04:01:00",
+      "album": {
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx"
+      },
+      "artists": [
+        {
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+        }
+      ],
+      "duration_ms": 231853,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 180061,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/2ROGRLF59VgUst8a6f6oez"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/407qAIie8sIEgquKD1AAd2"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "1634 Lexington Avenue",
+        "url": "https://open.spotify.com/album/2gpYieu51skFa8dRdHWf75"
+      },
+      "artists": [
+        {
+          "name": "Carlton Jumel Smith",
+          "url": "https://open.spotify.com/artist/0jbXsyUAMmaJHGgF8g8HZy"
+        },
+        {
+          "name": "Cold Diamond & Mink",
+          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
+        }
+      ],
+      "duration_ms": 229915,
+      "name": "This Is What Love Looks Like!",
+      "url": "https://open.spotify.com/track/3i6lezqE0uwBZzA7jkjx7T"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "When You Lose Someone",
+        "url": "https://open.spotify.com/album/1FsTVcCyDJUTdi4TgsKzWK"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "When You Lose Someone",
+      "url": "https://open.spotify.com/track/4K8Oan6E1K7eaxjaXXSZLX"
+    },
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "No Matter The Season",
+        "url": "https://open.spotify.com/album/0KImBK7q3JYm43snwJGZgL"
+      },
+      "artists": [
+        {
+          "name": "Eamon",
+          "url": "https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9"
+        }
+      ],
+      "duration_ms": 138223,
+      "name": "Come On Through",
+      "url": "https://open.spotify.com/track/2GMjU0QuHVOXjGI02ksGrw"
+    },
+    {
+      "added_at": "2021-07-16 04:01:00",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/5dsUxFUcEdxgmIyaxYo0Ax"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/6wq0YV1Mv8ybQi8FyZcHN7"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "If My Love Was Enough",
+        "url": "https://open.spotify.com/album/5nj8FfDsjGKC3WMPIG900C"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        },
+        {
+          "name": "Natalie Slade",
+          "url": "https://open.spotify.com/artist/2G4QmfdQaRtHde3OYDl3AQ"
+        }
+      ],
+      "duration_ms": 221435,
+      "name": "If My Love Was Enough",
+      "url": "https://open.spotify.com/track/5aXJA4672geISfKvJYMvP2"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Memories of Love",
+        "url": "https://open.spotify.com/album/2wob0s3WIRpsvYHSpDqywa"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 300677,
+      "name": "Whatever You Are",
+      "url": "https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11"
+    },
+    {
+      "added_at": "2021-11-26 05:01:00",
+      "album": {
+        "name": "The Stranger",
+        "url": "https://open.spotify.com/album/6bGl9QTgVpeuJUizBAaFVY"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        },
+        {
+          "name": "Victor Benavides",
+          "url": "https://open.spotify.com/artist/12p9xrCEnZShkXgLpNByT2"
+        }
+      ],
+      "duration_ms": 180413,
+      "name": "The Stranger",
+      "url": "https://open.spotify.com/track/0vo6nKF32kZeazSurxo99E"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1133,6 +1153,22 @@
       "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
     },
     {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "California Wine",
+        "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
+      },
+      "artists": [
+        {
+          "name": "Quinn Devlin & The Bridge Street Kings",
+          "url": "https://open.spotify.com/artist/0QCy04wEhExkkQ1AzueEYb"
+        }
+      ],
+      "duration_ms": 187231,
+      "name": "California Wine",
+      "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
+    },
+    {
       "added_at": "2021-07-16 04:01:00",
       "album": {
         "name": "Sunny And Warm",
@@ -1147,38 +1183,6 @@
       "duration_ms": 205008,
       "name": "Sunny And Warm",
       "url": "https://open.spotify.com/track/12I7wlvWuPvMXHJxwfA68l"
-    },
-    {
-      "added_at": "2022-01-07 05:02:00",
-      "album": {
-        "name": "Soul to Blessed Soul",
-        "url": "https://open.spotify.com/album/3dvnfWPlGdwbq82bwuefwf"
-      },
-      "artists": [
-        {
-          "name": "Swamp Dogg",
-          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
-        }
-      ],
-      "duration_ms": 335853,
-      "name": "Soul to Blessed Soul",
-      "url": "https://open.spotify.com/track/4UKQcBQ4JFZgsTkRMQzHT4"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Another Shot Fired",
-        "url": "https://open.spotify.com/album/4RRggV5CrnXd2fFtgILVJC"
-      },
-      "artists": [
-        {
-          "name": "The Tibbs",
-          "url": "https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Damaged Heart",
-      "url": "https://open.spotify.com/track/3Bj3ZuVPpPDwUxkwpL78L4"
     }
   ],
   "unique_name": "Retro Soul",

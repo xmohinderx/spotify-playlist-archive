@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 263826,
       "name": "Blurred Lines",
       "url": "https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Cotton Eye Joe",
       "url": "https://open.spotify.com/track/06hsdMbBxWGqBO0TV0Zrkf"
@@ -2765,7 +2765,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 228440,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/53NWOfQXdEmbHqg5FGeXlG"
@@ -2819,7 +2819,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 193466,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/3fsghmcEnT7K9f30ohHDRn"
@@ -3559,7 +3559,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 207613,
       "name": "Love Generation - Radio Edit",
       "url": "https://open.spotify.com/track/3s3DWOPtKQSgJVDRKu85Tt"
@@ -4142,6 +4142,24 @@
     },
     {
       "album": {
+        "name": "Nobody To Love",
+        "url": "https://open.spotify.com/album/7Kg4q4c8IP7oc0rtelBXBK"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189720,
+      "name": "Nobody To Love - Radio Edit",
+      "url": "https://open.spotify.com/track/2jsmSLoX8y0h6k4YzDCFH1"
+    },
+    {
+      "album": {
         "name": "Love?",
         "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
       },
@@ -4516,6 +4534,28 @@
     },
     {
       "album": {
+        "name": "Sirens (Deluxe)",
+        "url": "https://open.spotify.com/album/3u3wA2mFU0UgAtyMJW3xa5"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198880,
+      "name": "Ready For Your Love",
+      "url": "https://open.spotify.com/track/1y7agAufBsudgRXuq6Ekqb"
+    },
+    {
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8"
       },
@@ -4563,7 +4603,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 332229,
       "name": "Rhythm Is A Dancer",
       "url": "https://open.spotify.com/track/1IWzfq3sLedGQ3fb2hAMBA"
@@ -4691,7 +4731,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 267266,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
@@ -4771,7 +4811,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 247405,
       "name": "Saturday Night - Radio Mix",
       "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
@@ -6043,7 +6083,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 192106,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
@@ -6275,7 +6315,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 230693,
       "name": "Wake Me Up Before You Go-Go",
       "url": "https://open.spotify.com/track/5XsMz0YfEaHZE0MTb1aujs"

@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 171520,
       "name": "Black hole eyed lady",
       "url": "https://open.spotify.com/track/0dwQF24jwHEFvAdBIW5Obx"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 156473,
       "name": "Feelin'",
       "url": "https://open.spotify.com/track/6YoicaJPVCpHvMmOZWksON"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 274666,
       "name": "FINAL PIECE",
       "url": "https://open.spotify.com/track/09sCgFLpjQPfEqVcPzUlx3"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 276360,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/3A29FbPw6xYGQBMhJJQjAi"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 209519,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/2XHQ84PSGAqDDkFgCjCUPS"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 232106,
       "name": "Future Tone Bender",
       "url": "https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz"
@@ -622,6 +622,24 @@
     },
     {
       "album": {
+        "name": "Hello Stray Kitty",
+        "url": "https://open.spotify.com/album/3SW6tUBW2lmmVEPzD8WVxc"
+      },
+      "artists": [
+        {
+          "name": "LEGO BIG MORL",
+          "url": "https://open.spotify.com/artist/6AbHzcOyvyvubx7AcyQ1f9"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191309,
+      "name": "Hello Stray Kitty",
+      "url": "https://open.spotify.com/track/0sg5ungKUSkUVWkNIJS67m"
+    },
+    {
+      "album": {
         "name": "ray (Remastered 2022)",
         "url": "https://open.spotify.com/album/6Km0eJ6M9NL89fzpHb26iq"
       },
@@ -651,7 +669,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 224960,
       "name": "Hunter or Prey",
       "url": "https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V"
@@ -669,7 +687,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 247866,
       "name": "Hypersonic",
       "url": "https://open.spotify.com/track/51gxaHIQYvMZXFR7owPiSy"
@@ -817,7 +835,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 179706,
       "name": "Just",
       "url": "https://open.spotify.com/track/648ultx75M4zzMpS7YDgVs"
@@ -857,7 +875,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "LET JERRY ROLL",
       "url": "https://open.spotify.com/track/0JZktsU7GvVhhvbmmcqA7Y"
@@ -1005,7 +1023,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 281603,
       "name": "MUSIC",
       "url": "https://open.spotify.com/track/3Cm0TSw6dcZcH9WTTq48DB"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 240733,
       "name": "New Era",
       "url": "https://open.spotify.com/track/17licy4SPRL8Nnsp4cxQzQ"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 243280,
       "name": "Nihil Pip Viper",
       "url": "https://open.spotify.com/track/5qko3Om0sSANw6k1pe97GT"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 271245,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3dqh1uFzMF44p7yjSkxXIm"
@@ -1211,7 +1229,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 167000,
       "name": "R.I.P, friends",
       "url": "https://open.spotify.com/track/4Qqr08hTaK6rWNnNVFTIk6"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 208026,
       "name": "Recall",
       "url": "https://open.spotify.com/track/1yWFRDAZKc7meT6dHxnhEq"
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 242791,
       "name": "S.O.S. [Share One Sorrow] - feat.Tokyo Tanaka & Jean-Ken Johnny",
       "url": "https://open.spotify.com/track/0WiJhz5KOuIjtXkjo5Ckt2"
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 265420,
       "name": "Scratch",
       "url": "https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8"
@@ -1429,7 +1447,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 217133,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/1QdGtH513X4JGGjuLKsUl1"
@@ -1447,7 +1465,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 263373,
       "name": "Slow Dance",
       "url": "https://open.spotify.com/track/1j8b2kx4h4JIpSw600rxeQ"
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 173206,
       "name": "Steer This Band",
       "url": "https://open.spotify.com/track/1Vmh9Q12P6tyB19oi2a8nx"
@@ -1559,7 +1577,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 243004,
       "name": "Strike It Out",
       "url": "https://open.spotify.com/track/13pExaXcujflZ57yN2QGuZ"
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 293750,
       "name": "THE STORY ENDS - Acoustic Version",
       "url": "https://open.spotify.com/track/64SqJROyPmTbkZ0FeebD3A"
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 232746,
       "name": "You Don't Want It",
       "url": "https://open.spotify.com/track/4gDEtqXDYOQTXCe8KAj91c"
@@ -1859,7 +1877,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 241535,
       "name": "You To You",
       "url": "https://open.spotify.com/track/66GEPhYAtcsWI7GThQcixQ"
@@ -1877,7 +1895,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 274066,
       "name": "Young Japanese",
       "url": "https://open.spotify.com/track/7Dko3seRRMWbzZdO0mjUb5"
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 248052,
       "name": "\u305d\u308c\u304f\u3089\u3044\u306e\u3053\u3068",
       "url": "https://open.spotify.com/track/7MJptTkQjQNRQ1gMaLtq2w"
@@ -2169,7 +2187,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 253000,
       "name": "\u30a8\u30d0\u30fc\u30b0\u30ea\u30fc\u30f3",
       "url": "https://open.spotify.com/track/45QV763OHEY1m97VCFbzql"
@@ -2205,7 +2223,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 197978,
       "name": "\u30aa\u30fc\u30c8\u30af\u30c1\u30e5\u30fc\u30eb",
       "url": "https://open.spotify.com/track/57y16YFgicFBtzCnNVSrzk"
@@ -2223,7 +2241,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 242160,
       "name": "\u30ab\u30e8\u30b3",
       "url": "https://open.spotify.com/track/05QKC25nXuMkjucXFlBvyk"
@@ -2241,7 +2259,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 240000,
       "name": "\u30ac\u30c3\u30c4\u3060\u305c!! V",
       "url": "https://open.spotify.com/track/1l1sKGhllHsrEb0Ge6f9os"
@@ -2259,7 +2277,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 205160,
       "name": "\u30ad\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
       "url": "https://open.spotify.com/track/5YTV52nMvvHrH9uTbk1ll7"
@@ -2335,7 +2353,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 256006,
       "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 - VS. ALI",
       "url": "https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y"
@@ -2415,7 +2433,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 274587,
       "name": "\u30b9\u30a6\u30a3\u30fc\u30c8\u30fb\u30bd\u30a6\u30eb\u30fb\u30ec\u30f4\u30e5\u30fc (duet with Rainych, feat. evening cinema)",
       "url": "https://open.spotify.com/track/7zc7YIxrfTzXSXTe6oQKwH"
@@ -2671,7 +2689,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 279613,
       "name": "\u4ffa\u69d8\u30d0\u30ab\u4e00\u4ee3\u30fb\u6539 (2021 Mix)",
       "url": "https://open.spotify.com/track/5QsUPtSbursmJkZTWttlqm"
@@ -2743,7 +2761,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 268606,
       "name": "\u5317\u6975\u661f\u306e\u30e1\u30ed\u30c7\u30a3\u30fc",
       "url": "https://open.spotify.com/track/1no67Xem769Zp65uuD3D8z"
@@ -2797,7 +2815,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 364040,
       "name": "\u541b\u3068\u50d5\u306e\u30e1\u30ed\u30c7\u30a3",
       "url": "https://open.spotify.com/track/1spkMgFPcWxnUzrILP5FWC"
@@ -2981,7 +2999,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 218653,
       "name": "\u624b\u63a2\u308a",
       "url": "https://open.spotify.com/track/31hF1E87am8QziX1racpkp"
@@ -2999,7 +3017,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 298855,
       "name": "\u65c5\u4eba\u3088~The Longest Journey - 25th Anniversary Version",
       "url": "https://open.spotify.com/track/2jNP2JDMZfnSpiOm79b2LC"
@@ -3093,7 +3111,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 259013,
       "name": "\u6700\u611b\u306e\u751f\u696d",
       "url": "https://open.spotify.com/track/3xlbszPcHsXytFjtRSealV"
@@ -3259,7 +3277,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 256880,
       "name": "\u6ce1\u6cab",
       "url": "https://open.spotify.com/track/4OvtVIVx2ZjXmtL5mU7E3k"
@@ -3277,7 +3295,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 285133,
       "name": "\u6d6e\u4e16\u5c0f\u8def\u306eblues",
       "url": "https://open.spotify.com/track/0AtSC79lnSSP9EQluBKSCN"
@@ -3331,7 +3349,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 232533,
       "name": "\u71c8",
       "url": "https://open.spotify.com/track/5U5ZUDFkEDbErnxGUISDI5"
@@ -3511,7 +3529,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 217280,
       "name": "\u904b\u547d\u3001\u3068\u3044\u3046\u304bUFO\u306b(\u30c9\u30a5\u30a4\u3001\u30c9\u30a5\u30a4)",
       "url": "https://open.spotify.com/track/7Ixpgdw4u532wm8DV3iv6B"
@@ -3565,7 +3583,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 206133,
       "name": "\u9a19\u3057\u611b",
       "url": "https://open.spotify.com/track/1cfuwNPkI3rGX4umV5dDSM"

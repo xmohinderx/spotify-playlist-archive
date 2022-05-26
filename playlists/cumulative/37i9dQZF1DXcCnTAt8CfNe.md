@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-213 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+214 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Mind Tranquility](https://open.spotify.com/track/3CmE2zIMFmeEs3b6j4GDLy) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Mind Tranquility](https://open.spotify.com/album/7K7KWSKLSCSWYwqfzyPmjo) | 3:31 | 2021-12-09 |  |
 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 | 2021-12-09 |  |
 | [Moments](https://open.spotify.com/track/6G9CeRGryVV0ZX60fkMEeO) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Moments](https://open.spotify.com/album/5trElQZuKLwOrsrmaDFFyN) | 3:19 | 2021-12-09 |  |
+| [Moon Stage](https://open.spotify.com/track/2t4CN8rtDkodRYxYYhAAvL) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Moon Stage](https://open.spotify.com/album/42JKz2NOIzax2Erclm0Mmu) | 3:16 | 2022-05-25 |  |
 | [Moving through mist](https://open.spotify.com/track/32VQGpraYnbWBBR46vAppG) | [Esther Saunders](https://open.spotify.com/artist/2AmTNUzax2gngw3CseeDPK) | [Moving through mist](https://open.spotify.com/album/0ScW79cTIcqvIRfOhCugOc) | 2:17 | 2021-12-09 |  |
 | [Moving Towards Fine](https://open.spotify.com/track/2apnPHVAbn0ny2K8RowbpN) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Envision](https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F) | 3:14 | 2021-12-09 |  |
 | [Muddus](https://open.spotify.com/track/45We1ecGx6GcCNJWiQywxA) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Muddus](https://open.spotify.com/album/2vgJ3w2gKOoKNFe9myNZcO) | 2:08 | 2021-12-09 |  |

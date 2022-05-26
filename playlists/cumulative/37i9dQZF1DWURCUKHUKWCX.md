@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-121 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
+122 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Time Spent](https://open.spotify.com/track/3ZLzPbSOw4OfVqa5zyEWCu) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Owl Splinters](https://open.spotify.com/album/0UCWmdeObrNjjW92mA6bRn) | 2:09 | 2021-12-10 |  |
 | [Transience](https://open.spotify.com/track/7065v1WsWaUVaH0ZPRwhkC) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Transience](https://open.spotify.com/album/5KKSxCujaeW9FTT9Q0jZxA) | 2:59 | 2021-12-10 |  |
 | [Triptych 1 for Piano](https://open.spotify.com/track/2YAjAXgl0GVtuZ6uDH6aWl) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych 1 for Piano](https://open.spotify.com/album/3kPnyIFFsaowlybyuN9krj) | 2:39 | 2021-12-10 |  |
+| [Triptych III for Piano](https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych III for Piano](https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4) | 3:21 | 2022-05-25 |  |
 | [Tuesday](https://open.spotify.com/track/2GuchYit1FmdtXTxl6SbUE) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Tuesday](https://open.spotify.com/album/34NwQqEqmAFJW30p70psIt) | 3:11 | 2021-12-10 |  |
 | [United](https://open.spotify.com/track/0CBvwwGhoTFdLCC5NWHvUi) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [United](https://open.spotify.com/album/6dsM7g1KZFLamGuezt9wvs) | 2:22 | 2021-12-10 |  |
 | [Vale](https://open.spotify.com/track/66rQOJEJDAxUUdOBxFE8FM) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Upright Sketches, Vol 2](https://open.spotify.com/album/5StgabD99z9jFfWMpBlOrY) | 2:20 | 2021-12-10 |  |

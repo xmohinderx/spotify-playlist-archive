@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient.
 
-264 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
+265 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Luna’s Ways](https://open.spotify.com/track/6IEE3o7MIgSEnJ3RxgEOwl) | [Author S](https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm) | [Luna’s Ways](https://open.spotify.com/album/6dZ0uWEtxqYGdHykwDYhaJ) | 2:45 | 2021-12-17 |  |
 | [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 | 2021-12-17 |  |
 | [Meanderings](https://open.spotify.com/track/2CfenHxehhJfjaeVuw2WB1) | [Finleigh](https://open.spotify.com/artist/1KcMYDu3nBxDYlcYwrsEAA) | [Meanderings](https://open.spotify.com/album/0BMNAYE35dvdLhkP9wZEtL) | 3:44 | 2021-12-17 |  |
+| [Mellow River](https://open.spotify.com/track/0Uz8UHO1PM5sh2XwRLfuRD) | [Mellow Mountain](https://open.spotify.com/artist/4nhyKupGKrTJj8f8whWa8L) | [Mellow River](https://open.spotify.com/album/733ICAjDCWrMvnfHEL94iz) | 3:30 | 2022-05-25 |  |
 | [Metanoia](https://open.spotify.com/track/1xVRlpnFBUSWnCT0vsqPvi) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [Metanoia](https://open.spotify.com/album/3i7FeQz41yVmz7InopUTlL) | 2:34 | 2021-12-17 |  |
 | [Miho no Matsubara](https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK) | [Miu Hayashi](https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS) | [Miho no Matsubara](https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN) | 2:53 | 2021-12-17 |  |
 | [Mild](https://open.spotify.com/track/7tBtuMtMj2YzeaTdSwdMUr) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Mild](https://open.spotify.com/album/0RamTyquxGhUDO3nDk0BFS) | 2:13 | 2022-04-01 |  |

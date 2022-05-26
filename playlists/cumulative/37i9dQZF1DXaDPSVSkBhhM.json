@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 237545,
       "name": "4 Segundos al Sol",
       "url": "https://open.spotify.com/track/1IJw2g0b3rL72vbH4jbDY7"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 128731,
       "name": "Adios Amigos",
       "url": "https://open.spotify.com/track/4ccmRGXt54rHBmwRxxpGIU"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 126616,
       "name": "As\u00ed Nos Romp\u00edamos el Hocico Ayer",
       "url": "https://open.spotify.com/track/08JMJA2pkJBXwwbzhvQ4av"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 162640,
       "name": "Casino",
       "url": "https://open.spotify.com/track/4niODdjcyRxzbSubNHkPJD"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 234032,
       "name": "Castillos de Arena",
       "url": "https://open.spotify.com/track/2mMowJ4LW6bLmuxO9sDzBB"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 204500,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/3uG25I4QTa4BIb8CvGJPnj"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 184354,
       "name": "Doble Vida",
       "url": "https://open.spotify.com/track/0hL4uLIKFzKwRIpOsjP9DF"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 216000,
       "name": "Fuera Luces",
       "url": "https://open.spotify.com/track/2v4cnmPx3f5tOBTb2InG9a"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 125553,
       "name": "K93",
       "url": "https://open.spotify.com/track/5hElysfbTWBbtxy2P128R1"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 211110,
       "name": "La Muerte Nos Alcanz\u00f3",
       "url": "https://open.spotify.com/track/1i0qqbrYqtvlSWNSfbV6rG"
@@ -798,6 +798,24 @@
     },
     {
       "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/6ouwwsu3y9CwwYhSYap7u2"
+      },
+      "artists": [
+        {
+          "name": "Danau",
+          "url": "https://open.spotify.com/artist/2UgqMQNyx35YgIehZ5Qmlk"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206438,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/47wLTuzem6hjRlTk4hJe0N"
+    },
+    {
+      "album": {
         "name": "Demos y Viejas Historias, Vol. 1",
         "url": "https://open.spotify.com/album/1lXy08EYct5sYbzuI8QSGb"
       },
@@ -827,7 +845,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 196938,
       "name": "Nada M\u00e1s de Ti",
       "url": "https://open.spotify.com/track/04RzCX08t3KFGsJiZc7eHV"
@@ -899,7 +917,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 151757,
       "name": "No Olvides de Enfocarte Siempre en lo Importante",
       "url": "https://open.spotify.com/track/51jqqiXt5rnEl9xKRyj86Y"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 212939,
       "name": "Primer Lugar",
       "url": "https://open.spotify.com/track/0meCAzWjALDb070H6L9DsS"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 155115,
       "name": "Rolleando Fuerte",
       "url": "https://open.spotify.com/track/5eicvn7A3NuAGduvU6a68t"
@@ -1131,7 +1149,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 174000,
       "name": "Ser\u00e1s El M\u00e1stil De Mi Barco",
       "url": "https://open.spotify.com/track/3ehubcf2qVxCkpBwIeLBNu"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 186549,
       "name": "Te Voy a Tener",
       "url": "https://open.spotify.com/track/08qtqeaHucyXi72GmgBwMP"
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 201026,
       "name": "We're All a Dick Sometimes",
       "url": "https://open.spotify.com/track/6W74li23KmBPGlDPkoNnj5"

@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "A brand new day",
+        "url": "https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Rise",
+          "url": "https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175713,
+      "name": "A brand new day",
+      "url": "https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0"
+    },
+    {
+      "album": {
         "name": "A Mirror Appears",
         "url": "https://open.spotify.com/album/0BXsVbsUex0bzk8NklyN7I"
       },
@@ -1427,6 +1445,24 @@
       "duration_ms": 217625,
       "name": "Beyond Reach",
       "url": "https://open.spotify.com/track/1prR4s9mD1M0wkFf8w6OqM"
+    },
+    {
+      "album": {
+        "name": "Beyond The Moon",
+        "url": "https://open.spotify.com/album/3ylKvmxVNOb1kXL1jf1Cta"
+      },
+      "artists": [
+        {
+          "name": "Tryggve Malmberg",
+          "url": "https://open.spotify.com/artist/53E9B0OiR03VSuqIqhCguq"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150750,
+      "name": "Beyond The Moon",
+      "url": "https://open.spotify.com/track/4657ZjUX9Go69R5LHdbPOJ"
     },
     {
       "album": {

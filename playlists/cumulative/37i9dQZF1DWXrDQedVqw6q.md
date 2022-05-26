@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-142 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
+143 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Cosmonova](https://open.spotify.com/track/1zNmkTJEovkzgCfk46DTId) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:31 | 2022-03-21 |  |
 | [Dark Waters](https://open.spotify.com/track/4hQcEuImsSUwXPCUvckx0n) | [Nikola Sati](https://open.spotify.com/artist/7JMxDlvcKZe5sGE5OGO5cq) | [Dark Waters](https://open.spotify.com/album/2rINKL70Kcm1Q0ud9rSfmF) | 2:32 | 2022-03-21 |  |
 | [Days Off](https://open.spotify.com/track/0kIcfCkBxum1vAYk6b2RZs) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Extraordinary Occations](https://open.spotify.com/album/5VPgbgP79InzC2NpESX0R9) | 2:30 | 2022-03-21 |  |
+| [Decades](https://open.spotify.com/track/07PmKbyqjMTokXBDAWOqoc) | [The Crystal Cathedral](https://open.spotify.com/artist/4KAQqDnNJv22Yf0ubEzLRm) | [Centripetal](https://open.spotify.com/album/6mTpmwLY3yG16iecHE724S) | 2:10 | 2022-05-25 |  |
 | [Desert Silhouette](https://open.spotify.com/track/5WX3DfvbfSSCWxnpntlCuK) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Remnants Of A Setting Sun](https://open.spotify.com/album/1dbvDjcQOn1TAK3j5YZPBA) | 2:43 | 2022-03-21 |  |
 | [Divinity](https://open.spotify.com/track/2IPARS6gREjiJ8DMO0zRte) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Divinity](https://open.spotify.com/album/0I8qM3zwamIBPBcqt08e5J) | 3:56 | 2022-03-21 |  |
 | [Dolce Far Niente](https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Dolce Far Niente](https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n) | 2:12 | 2022-03-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > Disco, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,741 likes - 66 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,867 likes - 66 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

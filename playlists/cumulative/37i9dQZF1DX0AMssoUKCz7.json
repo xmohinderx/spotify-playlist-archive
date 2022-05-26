@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/72p4bX3wUsqySOtUBvVIXp"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 132270,
       "name": "California Nights",
       "url": "https://open.spotify.com/track/4ZmejwrgkNOowAPiIntRox"
@@ -1645,7 +1645,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 192091,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1SNoSoQ3JZldOhzBY9gw0n"
@@ -1919,7 +1919,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 211571,
       "name": "Fade Into Darkness",
       "url": "https://open.spotify.com/track/2MP2r9xNcvNmGCDJDCriu4"
@@ -2943,7 +2943,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 160658,
       "name": "Home to You",
       "url": "https://open.spotify.com/track/2E68BgIXWdBymrDdW0H4ux"
@@ -3605,7 +3605,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 331359,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/6Uk70qpuVpIbJYfpgp7FOv"
@@ -3729,7 +3729,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 173728,
       "name": "Lights",
       "url": "https://open.spotify.com/track/7xePs11BrC1ZITTZ9koW62"
@@ -3801,7 +3801,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 164694,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/0zNShOZDiH8tXFTx349ZQp"
@@ -5133,7 +5133,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 143030,
       "name": "One Call Away",
       "url": "https://open.spotify.com/track/3s4cYYRI8Prz7nqZRVDv8J"
@@ -5335,7 +5335,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 210428,
       "name": "Own the Night",
       "url": "https://open.spotify.com/track/0DHUariIorcAgunTr0GTy2"
@@ -5401,7 +5401,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 236279,
       "name": "Pacing",
       "url": "https://open.spotify.com/track/6cWZQNgaL8yLtezJvag9Y9"
@@ -5485,7 +5485,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 183160,
       "name": "Place to Go",
       "url": "https://open.spotify.com/track/65yDkqOYwfkeIQYl8ayAGE"
@@ -6353,7 +6353,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 163947,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/0HkwDCJIbWijtfKg63gQBJ"
@@ -6371,7 +6371,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 151016,
       "name": "Slippery Slope",
       "url": "https://open.spotify.com/track/5UhbQmKfFcI9EdxliAxntg"
@@ -7785,7 +7785,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 165829,
       "name": "Whatever You Like - Radio Edit",
       "url": "https://open.spotify.com/track/200UDgTJl6xvSejJzMP6Ne"
@@ -8097,6 +8097,28 @@
       "duration_ms": 229198,
       "name": "Wrong Side of Love (with Darius Rucker)",
       "url": "https://open.spotify.com/track/1vxjmNMsJRLEhoYGpOXOXB"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0ZOMiz7Hn2kTUAoQxy6bRW"
+      },
+      "artists": [
+        {
+          "name": "Brazil XXI",
+          "url": "https://open.spotify.com/artist/5r1OHaNjhzMOn1J4lPi1SR"
+        },
+        {
+          "name": "Cassandra Beck",
+          "url": "https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194612,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/2A7UykFa7IwEFCIsj9zMUX"
     },
     {
       "album": {

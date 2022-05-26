@@ -936,6 +936,24 @@
     },
     {
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/2QKZTEKqARLTaIjoJFxVft"
+      },
+      "artists": [
+        {
+          "name": "Jack West",
+          "url": "https://open.spotify.com/artist/1btX8gOQ7MhBW3NWnhoOhl"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180669,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/0pgMDJVS6FAlLEHublIRo8"
+    },
+    {
+      "album": {
         "name": "All I Need is a Miracle",
         "url": "https://open.spotify.com/album/1yGH7QsNTxkXHrwsie2hau"
       },
@@ -6273,6 +6291,24 @@
       "duration_ms": 217304,
       "name": "Do You Know What I Mean",
       "url": "https://open.spotify.com/track/25ESdAEdfA6fPM222g1Rxg"
+    },
+    {
+      "album": {
+        "name": "Do You Wanna Know",
+        "url": "https://open.spotify.com/album/3DmhSYhozucyVWtKclydrs"
+      },
+      "artists": [
+        {
+          "name": "Lujza",
+          "url": "https://open.spotify.com/artist/14lUC6NbE64ObCIHsy5jQ6"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225537,
+      "name": "Do You Wanna Know",
+      "url": "https://open.spotify.com/track/2X85h0gD3Tx1lpOXktZ18N"
     },
     {
       "album": {
@@ -24492,6 +24528,24 @@
     },
     {
       "album": {
+        "name": "2 FACED",
+        "url": "https://open.spotify.com/album/3Np0K5nIpCnyyrO9iap1MQ"
+      },
+      "artists": [
+        {
+          "name": "GzLz",
+          "url": "https://open.spotify.com/artist/00vGsdNJGPZRIb1Nula5TT"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192417,
+      "name": "U Got My Love",
+      "url": "https://open.spotify.com/track/5faSMGZR0FOBglFQ3z0VSg"
+    },
+    {
+      "album": {
         "name": "Summer's Over",
         "url": "https://open.spotify.com/album/0otzmYeGTOXk0Z9iQwIe5B"
       },
@@ -26415,7 +26469,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 179353,
       "name": "Woke Up",
       "url": "https://open.spotify.com/track/2iVhkjNtioJ3Yg22XHdjJh"

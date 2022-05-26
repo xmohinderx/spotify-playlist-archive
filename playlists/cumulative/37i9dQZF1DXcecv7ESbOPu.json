@@ -10558,6 +10558,24 @@
     },
     {
       "album": {
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228711,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
+    },
+    {
+      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/3Wc5TW906VV03DWbkgcfnR"
       },
@@ -30292,7 +30310,7 @@
     },
     {
       "album": {
-        "name": "Out Of Love",
+        "name": "Out of Love",
         "url": "https://open.spotify.com/album/1TCfjANz5UpO95yH3OTrTw"
       },
       "artists": [
@@ -30305,7 +30323,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 160385,
-      "name": "Out Of Love",
+      "name": "Out of Love",
       "url": "https://open.spotify.com/track/5yHP1bh80YwdDX3fvKGVKA"
     },
     {

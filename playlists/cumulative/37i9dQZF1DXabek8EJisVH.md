@@ -4,7 +4,7 @@
 
 > Soothing ambient and Hang to gently focus the mind.
 
-75 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/45gpvPkFcJ345RLFnunX6G)
+76 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/45gpvPkFcJ345RLFnunX6G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Barcelona Center](https://open.spotify.com/track/7uCplrMoNmNT5C1sma3aZA) | [Max Oro](https://open.spotify.com/artist/2CAPIFgnXtwUqLiGUjBrTL) | [Hang Drum Magic Sounds \- Hang Meditation](https://open.spotify.com/album/4CdAyO4TUZjEID6jiB8Nji) | 3:43 | 2022-03-03 |  |
 | [Be Holy](https://open.spotify.com/track/2Kh81LoOytzS7KdApOoeHb) | [Drumkoon](https://open.spotify.com/artist/6X9HMvCAb5RiZhcwekJLNY) | [Handpan Greatest Hits Vol 2](https://open.spotify.com/album/45582ORVhMsABgWbXCHA46) | 2:15 | 2022-03-03 |  |
 | [Bhakti Gita](https://open.spotify.com/track/4IT2BC9XfBic5lIhIA828Z) | [Masood Ali Khan](https://open.spotify.com/artist/30RWmDZkj7S1VSDzmPY6BY) | [The Yoga Sessions](https://open.spotify.com/album/7Lhowb40KkVa2g5TK3WNxG) | 8:17 | 2022-03-03 |  |
+| [Bryophyta](https://open.spotify.com/track/0RsowQU2tkZoqlMK5fAU3Z) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Tranquility](https://open.spotify.com/album/3u2rJW0pTLPOvX9GgwjaOL) | 3:30 | 2022-05-25 |  |
 | [Calm Upon You \(Hang Solo\)](https://open.spotify.com/track/513r5uBhTWKwmyFyHLH812) | [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Calm Upon You](https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep) | 5:01 | 2022-03-03 |  |
 | [Cloudy](https://open.spotify.com/track/2CIVH51v2nsuG1ATdm1lXq) | [Alfredo Rhahimi](https://open.spotify.com/artist/3n7qMfthPFCbwNtyrWAtNv) | [Cloudy](https://open.spotify.com/album/4IpD9tBjpYSqcOD702U1Tm) | 2:34 | 2022-03-25 |  |
 | [Deep Breathe](https://open.spotify.com/track/4lJEvmc9Ae4XjBABuHlbCH) | [Spiritual Meditation Vibes](https://open.spotify.com/artist/1ZxiigDh7uW74TuFXlb5WP) | [Hang Drum Music \- Relaxing Ambient for Meditation Yoga and Relax](https://open.spotify.com/album/7pptSJSIxXsiAWFVeOl6kh) | 3:28 | 2022-03-03 |  |

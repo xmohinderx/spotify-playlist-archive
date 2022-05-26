@@ -1,12 +1,12 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 33666,
+  "num_followers": 33760,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQ0MDczMCwwMDAwMDAwMDUyYWU0NTUzNTYyY2Q3MGY3MWFlYzdkYjU2Mzg3NjA2",
+  "snapshot_id": "MTY1MzUyNzI2MSwwMDAwMDAwMDQxYmI2YTZmZTUwYmI5M2YwMWU3ZTRjODI0OWMxNDM0",
   "tracks": [
     {
       "added_at": "2021-07-02 05:03:05",
@@ -43,18 +43,18 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "Kill 'Em All",
-        "url": "https://open.spotify.com/album/6FMPDVTm8l5IrEQla46VQl"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4a92B7gXZWKJopxs6gWgqb"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 415400,
-      "name": "Seek & Destroy",
-      "url": "https://open.spotify.com/track/1LDAh7QQnWvp3GJ9QDa1Pj"
+      "duration_ms": 271866,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0eFvoRSTTaR2q8bSWVjwfp"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -75,18 +75,34 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4a92B7gXZWKJopxs6gWgqb"
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 271866,
-      "name": "Welcome To The Jungle",
-      "url": "https://open.spotify.com/track/0eFvoRSTTaR2q8bSWVjwfp"
+      "duration_ms": 211933,
+      "name": "Are You Gonna Go My Way",
+      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Kill 'Em All",
+        "url": "https://open.spotify.com/album/6FMPDVTm8l5IrEQla46VQl"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 415400,
+      "name": "Seek & Destroy",
+      "url": "https://open.spotify.com/track/1LDAh7QQnWvp3GJ9QDa1Pj"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -103,22 +119,6 @@
       "duration_ms": 208400,
       "name": "Highway to Hell",
       "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Are You Gonna Go My Way",
-      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "Led Zeppelin III (Remaster)",
-        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Immigrant Song - Remaster",
-      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
         "name": "Love At First Sting",
         "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
       },
@@ -183,22 +167,6 @@
       "duration_ms": 252493,
       "name": "Rock You Like A Hurricane",
       "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 254386,
-      "name": "Orgasmatron",
-      "url": "https://open.spotify.com/track/5RKNHGP5Nv526dJ5LmgcjX"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -219,18 +187,34 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "Ultimate Santana",
-        "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
         }
       ],
-      "duration_ms": 195866,
-      "name": "Black Magic Woman",
-      "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
+      "duration_ms": 254386,
+      "name": "Orgasmatron",
+      "url": "https://open.spotify.com/track/5RKNHGP5Nv526dJ5LmgcjX"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Immigrant Song - Remaster",
+      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -251,6 +235,22 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
+        "name": "Ultimate Santana",
+        "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Black Magic Woman",
+      "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
@@ -267,66 +267,18 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 237466,
-      "name": "No One Like You",
-      "url": "https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "20th Century Masters : The Millennium Collection: Best of Steppenwolf",
-        "url": "https://open.spotify.com/album/3SCidZwNmGU6HQUDdnh3bI"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "Born To Be Wild",
-      "url": "https://open.spotify.com/track/1nzcKrYRTWZJEwWzyAU8XM"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Deepest Purple: The Very Best of Deep Purple",
-        "url": "https://open.spotify.com/album/2jm9Vixt3Nn2oE4VtOVUD8"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "Black Night",
-      "url": "https://open.spotify.com/track/46VaDtbrBj929FWnUdTQV0"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Rhino Hi-Five: Pantera",
-        "url": "https://open.spotify.com/album/4jfF46nFNSLzEOXTUbobTC"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 244626,
-      "name": "Cowboys from Hell - 2003 Remaster",
-      "url": "https://open.spotify.com/track/2rI3IDOwtKiELe0cZUg76U"
+      "duration_ms": 191946,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -347,18 +299,34 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/5SLfrjQtPxbh5Cf1dukV7g"
+        "name": "20th Century Masters : The Millennium Collection: Best of Steppenwolf",
+        "url": "https://open.spotify.com/album/3SCidZwNmGU6HQUDdnh3bI"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Come Out and Play",
-      "url": "https://open.spotify.com/track/5AaIIXt2QEgDevuGoDC1je"
+      "duration_ms": 210400,
+      "name": "Born To Be Wild",
+      "url": "https://open.spotify.com/track/1nzcKrYRTWZJEwWzyAU8XM"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "No One Like You",
+      "url": "https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -411,18 +379,18 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+        "name": "Rhino Hi-Five: Pantera",
+        "url": "https://open.spotify.com/album/4jfF46nFNSLzEOXTUbobTC"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 278706,
-      "name": "No One Knows",
-      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
+      "duration_ms": 244626,
+      "name": "Cowboys from Hell - 2003 Remaster",
+      "url": "https://open.spotify.com/track/2rI3IDOwtKiELe0cZUg76U"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -459,6 +427,54 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 278706,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Deepest Purple: The Very Best of Deep Purple",
+        "url": "https://open.spotify.com/album/2jm9Vixt3Nn2oE4VtOVUD8"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "Black Night",
+      "url": "https://open.spotify.com/track/46VaDtbrBj929FWnUdTQV0"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/5SLfrjQtPxbh5Cf1dukV7g"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Come Out and Play",
+      "url": "https://open.spotify.com/track/5AaIIXt2QEgDevuGoDC1je"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
         "name": "Rocky IV",
         "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 245640,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 340907,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -507,98 +507,18 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "Outlandos D'Amour (Remastered 2003)",
-        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 191946,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Piece of Mind (2015 Remaster)",
-        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "Flight of Icarus - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3vhKrSxe3fRuS5Ogis76VO"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Panama - 2015 Remaster",
-      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 243613,
-      "name": "Future World",
-      "url": "https://open.spotify.com/track/7vAwjvJs8YSlHcykJu7nc0"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Balls To The Wall",
-        "url": "https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN"
-      },
-      "artists": [
-        {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
-        }
-      ],
-      "duration_ms": 342600,
-      "name": "Balls to the Wall",
-      "url": "https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Wheels Of Fire (Remastered)",
-        "url": "https://open.spotify.com/album/4M9csrFM1XVEpwMeYUBRmX"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 303200,
-      "name": "White Room",
-      "url": "https://open.spotify.com/track/5X76oXHcR5uCXali0gOyX5"
+      "duration_ms": 340907,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -619,34 +539,18 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "Green River (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4DafLlExwUPJ20vHCHrUEI"
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 141600,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/66FSV5dLK5sNLZ00IfHxfD"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Dr. Feelgood",
-        "url": "https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 282653,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf"
+      "duration_ms": 230760,
+      "name": "Flight of Icarus - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3vhKrSxe3fRuS5Ogis76VO"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -667,6 +571,86 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Panama - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Balls To The Wall",
+        "url": "https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 342600,
+      "name": "Balls to the Wall",
+      "url": "https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Dr. Feelgood",
+        "url": "https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 282653,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Green River (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4DafLlExwUPJ20vHCHrUEI"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/66FSV5dLK5sNLZ00IfHxfD"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "duration_ms": 243613,
+      "name": "Future World",
+      "url": "https://open.spotify.com/track/7vAwjvJs8YSlHcykJu7nc0"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
         "name": "The Very Best of Van Halen (UK Release)",
         "url": "https://open.spotify.com/album/4RJcoQhc3aupccH9YnZ69o"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 227440,
       "name": "Ain't Talkin' 'Bout Love - 2004 Remaster",
       "url": "https://open.spotify.com/track/1tZdrScspGPI4cdkSChrcX"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Wheels Of Fire (Remastered)",
+        "url": "https://open.spotify.com/album/4M9csrFM1XVEpwMeYUBRmX"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 303200,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/5X76oXHcR5uCXali0gOyX5"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -699,34 +699,18 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "Lightning To The Nations (The White Album) [Remastered 2011]",
-        "url": "https://open.spotify.com/album/65Kd49ZxFPxeO71Ic2diNi"
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
       },
       "artists": [
         {
-          "name": "Diamond Head",
-          "url": "https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 460160,
-      "name": "Am I Evil?",
-      "url": "https://open.spotify.com/track/7og9p3oxMOILD2hth9uz7t"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Holy Diver",
-        "url": "https://open.spotify.com/album/2wkqGL9LivRgE9K523kizA"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Rainbow In The Dark",
-      "url": "https://open.spotify.com/track/4ggy61YkrNendRHDi8fmNF"
+      "duration_ms": 228666,
+      "name": "Brown Sugar - 2009 Remaster",
+      "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -763,6 +747,54 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
+        "name": "The Essential Ozzy Osbourne",
+        "url": "https://open.spotify.com/album/7uRtuOK8vhpFT3G5r8CPMg"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 290160,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/2nKOUDSm0EhVvQWoDyjl27"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/2YNdfTJBaK7pdS3BkKsCeL"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 195853,
+      "name": "Shout at the Devil",
+      "url": "https://open.spotify.com/track/1LqimLGplEGwREUMplhIcC"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "W.A.S.P.",
+        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
+      },
+      "artists": [
+        {
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "I Wanna Be Somebody",
+      "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
         "name": "Holy Ground",
         "url": "https://open.spotify.com/album/6asdJhdhhhcvvo2u3le3dp"
       },
@@ -795,6 +827,22 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
+        "name": "The Runaways",
+        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
+      },
+      "artists": [
+        {
+          "name": "The Runaways",
+          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "You Drive Me Wild",
+      "url": "https://open.spotify.com/track/4KsakXCO9XXOYKLn15rt7y"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
         "name": "My Generation",
         "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
       },
@@ -811,178 +859,34 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "The Essential Ozzy Osbourne",
-        "url": "https://open.spotify.com/album/7uRtuOK8vhpFT3G5r8CPMg"
+        "name": "Lightning To The Nations (The White Album) [Remastered 2011]",
+        "url": "https://open.spotify.com/album/65Kd49ZxFPxeO71Ic2diNi"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Diamond Head",
+          "url": "https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf"
         }
       ],
-      "duration_ms": 290160,
-      "name": "Crazy Train",
-      "url": "https://open.spotify.com/track/2nKOUDSm0EhVvQWoDyjl27"
+      "duration_ms": 460160,
+      "name": "Am I Evil?",
+      "url": "https://open.spotify.com/track/7og9p3oxMOILD2hth9uz7t"
     },
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "W.A.S.P.",
-        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
+        "name": "Holy Diver",
+        "url": "https://open.spotify.com/album/2wkqGL9LivRgE9K523kizA"
       },
       "artists": [
         {
-          "name": "W.A.S.P.",
-          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
         }
       ],
-      "duration_ms": 223533,
-      "name": "I Wanna Be Somebody",
-      "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/2YNdfTJBaK7pdS3BkKsCeL"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 195853,
-      "name": "Shout at the Devil",
-      "url": "https://open.spotify.com/track/1LqimLGplEGwREUMplhIcC"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Superunknown (20th Anniversary)",
-        "url": "https://open.spotify.com/album/4ePl0meknOkJ892O9yszEY"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 246920,
-      "name": "Spoonman",
-      "url": "https://open.spotify.com/track/2tkyEHSkv0I3l4OkBe1FnO"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Sticky Fingers (Remastered)",
-        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Brown Sugar - 2009 Remaster",
-      "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Fight For Your Right",
-      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Trash",
-        "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 270080,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Generator",
-        "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Generator",
-      "url": "https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/3uOOKcr91I3Br0Rtmu4zdT"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 281853,
-      "name": "Rockin' in the Free World",
-      "url": "https://open.spotify.com/track/4Y7fEQ4PAzhlLnLviRw2P4"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Bang to Rights",
-        "url": "https://open.spotify.com/album/7H6hQzy5AFmkvlQb7cpxYM"
-      },
-      "artists": [
-        {
-          "name": "Heavy Sentence",
-          "url": "https://open.spotify.com/artist/47oKEddNhiVdB6zaCPEuag"
-        }
-      ],
-      "duration_ms": 192280,
-      "name": "On the Run",
-      "url": "https://open.spotify.com/track/21ITGgxMdkh7Q2nAKhZKvb"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
+      "duration_ms": 254000,
+      "name": "Rainbow In The Dark",
+      "url": "https://open.spotify.com/track/4ggy61YkrNendRHDi8fmNF"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -1019,6 +923,70 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
+        "name": "The Essential Cheap Trick",
+        "url": "https://open.spotify.com/album/37P9MBdJRekfOIbPSX9alR"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 253826,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/669cOBjpY4Y5O98Nmk6139"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3uOOKcr91I3Br0Rtmu4zdT"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 281853,
+      "name": "Rockin' in the Free World",
+      "url": "https://open.spotify.com/track/4Y7fEQ4PAzhlLnLviRw2P4"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "Fight For Your Right",
+      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
         "name": "Who's Next",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -1031,6 +999,54 @@
       "duration_ms": 300400,
       "name": "Baba O'Riley",
       "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Trash",
+        "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 270080,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Superunknown (20th Anniversary)",
+        "url": "https://open.spotify.com/album/4ePl0meknOkJ892O9yszEY"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 246920,
+      "name": "Spoonman",
+      "url": "https://open.spotify.com/track/2tkyEHSkv0I3l4OkBe1FnO"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Bang to Rights",
+        "url": "https://open.spotify.com/album/7H6hQzy5AFmkvlQb7cpxYM"
+      },
+      "artists": [
+        {
+          "name": "Heavy Sentence",
+          "url": "https://open.spotify.com/artist/47oKEddNhiVdB6zaCPEuag"
+        }
+      ],
+      "duration_ms": 192280,
+      "name": "On the Run",
+      "url": "https://open.spotify.com/track/21ITGgxMdkh7Q2nAKhZKvb"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -1051,54 +1067,6 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "The Essential Cheap Trick",
-        "url": "https://open.spotify.com/album/37P9MBdJRekfOIbPSX9alR"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 253826,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/669cOBjpY4Y5O98Nmk6139"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 198906,
-      "name": "Youth Gone Wild",
-      "url": "https://open.spotify.com/track/1jF5Id0OPFU1Mae8BEUF5u"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "The Runaways",
-        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
-      },
-      "artists": [
-        {
-          "name": "The Runaways",
-          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "You Drive Me Wild",
-      "url": "https://open.spotify.com/track/4KsakXCO9XXOYKLn15rt7y"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
         "name": "Evil Empire",
         "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
       },
@@ -1111,54 +1079,6 @@
       "duration_ms": 229466,
       "name": "Bulls On Parade",
       "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "A Tribute to the Music of Bob Seger",
-        "url": "https://open.spotify.com/album/7iptHw4NqVUSd4XnexhlTU"
-      },
-      "artists": [
-        {
-          "name": "Sam Morrison and Turn The Page",
-          "url": "https://open.spotify.com/artist/7csps3rrXHbv6Xnom2Ntjl"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "Old Time Rock n\\' Roll",
-      "url": "https://open.spotify.com/track/1MDgKH2MKCcWjV5UUrobHY"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Hot Wire",
-        "url": "https://open.spotify.com/album/1w4WPh0JBQbnrwwes1kgHi"
-      },
-      "artists": [
-        {
-          "name": "Kix",
-          "url": "https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Girl Money",
-      "url": "https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
-        "name": "Cherry Pie",
-        "url": "https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19"
-      },
-      "artists": [
-        {
-          "name": "Warrant",
-          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
-        }
-      ],
-      "duration_ms": 201026,
-      "name": "Cherry Pie",
-      "url": "https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -1179,18 +1099,98 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6g9uPPHtnxQLSUd6d9xK8n"
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 295466,
-      "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
-      "url": "https://open.spotify.com/track/0LHItNoPqjxWcbvQzw9NIv"
+      "duration_ms": 163240,
+      "name": "I Fought the Law",
+      "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 250986,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "Youth Gone Wild",
+      "url": "https://open.spotify.com/track/1jF5Id0OPFU1Mae8BEUF5u"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Generator",
+        "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Generator",
+      "url": "https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Hot Wire",
+        "url": "https://open.spotify.com/album/1w4WPh0JBQbnrwwes1kgHi"
+      },
+      "artists": [
+        {
+          "name": "Kix",
+          "url": "https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Girl Money",
+      "url": "https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me - Remastered 2017",
+      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
     },
     {
       "added_at": "2021-07-02 05:03:05",

@@ -1932,6 +1932,28 @@
     },
     {
       "album": {
+        "name": "FALLING",
+        "url": "https://open.spotify.com/album/6m2F75Tg6uJjTCS00PwYr1"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "Rxl",
+          "url": "https://open.spotify.com/artist/6Bi1y0jGmBzmeMRGiDjwjm"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "FALLING",
+      "url": "https://open.spotify.com/track/0YzNxZ9TbNNoj83aVDMEFM"
+    },
+    {
+      "album": {
         "name": "Falling Apart",
         "url": "https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom"
       },
@@ -2459,7 +2481,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 187945,
       "name": "HEROIN",
       "url": "https://open.spotify.com/track/54glJfnfZgMutAEMXpS2t8"

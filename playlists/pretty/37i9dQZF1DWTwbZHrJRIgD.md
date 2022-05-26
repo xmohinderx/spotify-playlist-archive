@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Welcome the weekend with these happy hits\. Cover\- Sidharth Malhotra, Alia Bhatt, and Fawad Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,971 likes - 52 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,162 likes - 52 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kahani \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/7Lcp4QlpR3RDngYejm4fmS) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kahani \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/5R62UdMrx8tGmDVJragQtq) | 3:28 |
+| 1 | [Kahani \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/7Lcp4QlpR3RDngYejm4fmS) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kahani \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/5R62UdMrx8tGmDVJragQtq) | 3:27 |
 | 2 | [Buddhu Sa Mann](https://open.spotify.com/track/1dxbiVeiV7nQ2V9qXnhJiB) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:26 |
 | 3 | [Kudi Nu Nachne De \(From "Angrezi Medium"\)](https://open.spotify.com/track/4YIhJmihoXwjtbY4vsV9Nh) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Kudi Nu Nachne De \(From "Angrezi Medium"\)](https://open.spotify.com/album/6KAlqL1GjrVMBTMWkiPlH5) | 2:52 |
 | 4 | [Ek Zindagi \(From "Angrezi Medium"\)](https://open.spotify.com/track/6shPaz0rzOAGatiY6X6zLQ) | [Taniskaa Sanghvi](https://open.spotify.com/artist/17slvN7PVFyVcRtWJchRqU), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Ek Zindagi \(From "Angrezi Medium"\)](https://open.spotify.com/album/6542lxPaayNLGe9DbKBU8I) | 2:50 |

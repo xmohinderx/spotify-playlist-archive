@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,148 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,185 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 52 | [junkie](https://open.spotify.com/track/2WIWwLS7IOl3GzQmr1GJSb) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [junkie](https://open.spotify.com/album/6XnFiwvPC1UBH9ZRkfb94q) | 2:39 |
 | 53 | [5150](https://open.spotify.com/track/14UzhtAQyCRGsuSjInmiJi) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:54 |
 | 54 | [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 |
-| 55 | [fading](https://open.spotify.com/track/4uGFuFDW0lFWpXbscdNitI) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [Happily Catastrophic](https://open.spotify.com/album/25K22RrZtkDxnE6NX398xM) | 3:52 |
+| 55 | [fading](https://open.spotify.com/track/4uGFuFDW0lFWpXbscdNitI) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [happily catastrophic](https://open.spotify.com/album/25K22RrZtkDxnE6NX398xM) | 3:52 |
 | 56 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 |
 | 57 | [Never Said I Love You](https://open.spotify.com/track/1CTvIWh1mje3HTU3jMSCRf) | [Envy Of None](https://open.spotify.com/artist/2wwArB2zsZyIIThkewLBaZ) | [Envy of None](https://open.spotify.com/album/23Iuy4cXEOCOdmbnkb8ZIy) | 4:06 |
 | 58 | [Lightning](https://open.spotify.com/track/2ReaOb4kY5o4h5PHq7K2yO) | [Conor Gains](https://open.spotify.com/artist/3v56uAiWA52So80mU5pBy2) | [Lightning](https://open.spotify.com/album/7jjqldf5ajW5aafm6NiYfP) | 2:44 |

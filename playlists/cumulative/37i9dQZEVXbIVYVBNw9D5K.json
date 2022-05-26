@@ -1703,7 +1703,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 138855,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/3Obq1XTegJy7ISrAA9VjQk"
@@ -1793,7 +1793,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 231369,
       "name": "Bu Saatten Sonra",
       "url": "https://open.spotify.com/track/53QUjrQ8BygCTBXfIs1Beu"
@@ -6002,6 +6002,24 @@
     },
     {
       "album": {
+        "name": "Olmazlara \u0130nat",
+        "url": "https://open.spotify.com/album/5IBpgY79AaRGIgAHFVr0fg"
+      },
+      "artists": [
+        {
+          "name": "Berkay Altunyay",
+          "url": "https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169419,
+      "name": "Olmazlara \u0130nat",
+      "url": "https://open.spotify.com/track/11AkXmBdjwu4upt22GjJrG"
+    },
+    {
+      "album": {
         "name": "A\u015fka Kapand\u0131m",
         "url": "https://open.spotify.com/album/5tPIe2OATNfHB4Bk6Vl7iN"
       },
@@ -7825,7 +7843,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 144736,
       "name": "Yallah",
       "url": "https://open.spotify.com/track/7zxHknEJ9gfaL8Ln6UqYUX"

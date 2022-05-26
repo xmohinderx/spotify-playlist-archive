@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 ### [All New Jazz](https://open.spotify.com/playlist/37i9dQZF1DWW2c0C8Vb2IR)
 
-> All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Mark de Clive\-Lowe
+> All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: The Bad Plus
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,685 likes - 64 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,732 likes - 64 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 63 | [Mayflower](https://open.spotify.com/track/0ws7AhIrevbx4dm1aXLnmZ) | [Makross](https://open.spotify.com/artist/6d0tVvhUn5wpFRzNYMtwYZ) | [Soppatorsk](https://open.spotify.com/album/0FqcdyHDlak8ni7R7PATQn) | 5:45 |
 | 64 | [Blues with Shoes](https://open.spotify.com/track/0sWJtv5BvXCT4MBGaxZu1N) | [Toppklass](https://open.spotify.com/artist/4R2lwSI5Ke41wDdfnJM1oF) | [Blues with Shoes](https://open.spotify.com/album/501X1UwqZYpjIFqKQ7LY6Y) | 3:28 |
 
-Snapshot ID: `MTY1MzAxOTI2MCwwMDAwMDNmYjAwMDAwMTgwZGZhMDM2ZTgwMDAwMDE4MGQzNTE4ZWEz`
+Snapshot ID: `MTY1MzQ5MjQxNiwwMDAwMDNmYzAwMDAwMTgwZmJkNDAxNWMwMDAwMDE4MGQzNTE4ZWEz`

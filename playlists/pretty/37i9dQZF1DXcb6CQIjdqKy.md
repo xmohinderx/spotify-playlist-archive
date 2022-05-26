@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.  Cover:  Amanda Cook
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,436,171 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,436,325 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 89 | [Satisfy \- Live](https://open.spotify.com/track/1WErEColHROo7tplKICaCZ) | [Brandin Reed](https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt) | [Brandin Reed and Friends \(Live\)](https://open.spotify.com/album/3kt0WFzUz7gJRPUrxkrLgR) | 5:59 |
 | 90 | [God, Turn It Around](https://open.spotify.com/track/3zt6T5xcqLJRYnQq0yqQaR) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [God, Turn It Around](https://open.spotify.com/album/7ut7XWszYs3hgaOwlsdlDN) | 4:15 |
 | 91 | [Old Dreams \- Live from Kansas City](https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [HOPE OR NOSTALGIA LIVE](https://open.spotify.com/album/03mLh8NKcmNYxPW4mjIBz0) | 3:09 |
-| 92 | [Promised Land \(Collab New\) \(with Sheryl Crow\)](https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Promised Land](https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z) | 3:34 |
+| 92 | [Promised Land \(Collab New\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Promised Land](https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z) | 3:34 |
 | 93 | [Peace of God](https://open.spotify.com/track/5DZeJ1BYlDHvkgUD5X8Oti) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Everywhere + Nowhere \(Black Edition Deluxe\)](https://open.spotify.com/album/308B9tBVWyLjjLan4517p4) | 3:16 |
 | 94 | [Come What May](https://open.spotify.com/track/2xbZqKInGwWtfQ1v3MB21i) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Come What May](https://open.spotify.com/album/0kBsmG4T0XwOPIrq7LKJpc) | 5:19 |
 | 95 | [Without Your Love](https://open.spotify.com/track/0fZrPbrELvooERHd4r6ZQj) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Without Your Love](https://open.spotify.com/album/66mhmcFBDn1DCxPOJd2wRI) | 2:42 |

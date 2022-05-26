@@ -239,7 +239,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 248213,
       "name": "Bang! Bang!",
       "url": "https://open.spotify.com/track/7wguzZQ79ZzR1WljM25BD6"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 180986,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/5lqY7EmoAu9rwV4hHxhEzB"
@@ -412,6 +412,24 @@
     },
     {
       "album": {
+        "name": "Beach Samba",
+        "url": "https://open.spotify.com/album/1nd8Xz8Zh7tZv5EdLbg5nF"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "date_added": "2020-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92533,
+      "name": "Canoeiro",
+      "url": "https://open.spotify.com/track/5vGjcafbPf55xNWI5pP9cy"
+    },
+    {
+      "album": {
         "name": "Martinho da Vila",
         "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
       },
@@ -445,7 +463,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 204893,
       "name": "Canto De Ossanha",
       "url": "https://open.spotify.com/track/3q4zSaI85ZMDXVckr1YaRk"
@@ -553,7 +571,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 197426,
       "name": "De Noite Na Cama",
       "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
@@ -687,7 +705,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 151106,
       "name": "Guardei Minha Viola",
       "url": "https://open.spotify.com/track/1YwIo9Rs7ptTQHQyWDKdfS"
@@ -889,7 +907,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 166186,
       "name": "Little Boy Blue",
       "url": "https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 294049,
       "name": "Mantra (Feat. Emicida)",
       "url": "https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ"
@@ -1219,7 +1237,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 310640,
       "name": "On Line",
       "url": "https://open.spotify.com/track/0I0ecglyMWHSqlMHsrUjuE"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 198466,
       "name": "Quando voc\u00ea chegar",
       "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 185546,
       "name": "Soy El Rey",
       "url": "https://open.spotify.com/track/1pyKmZRflwwY85QnNcRXgv"
@@ -1759,7 +1777,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 282413,
       "name": "Tempo de Amor (Samba do Veloso)",
       "url": "https://open.spotify.com/track/2mbYdO4VRxK7AKQ2NtxOo1"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 235128,
       "name": "Voc\u00ea N\u00e3o Presta",
       "url": "https://open.spotify.com/track/253rM8bzLuRZSH8N5Z3yox"
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 219493,
       "name": "Zazueira (with Stanley Turrentine)",
       "url": "https://open.spotify.com/track/4Asm2SGig47qpAePl8Wj8r"

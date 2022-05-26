@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: T3r Elemento
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,164 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,194 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 17 | [Estos Tragos Van Por Ti](https://open.spotify.com/track/5pvyq5JmDPhDJ9xIMKNuYK) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [A Mi Estilo \(Volumen 1\)](https://open.spotify.com/album/0xOkgJtEl52vrhnCfBDIKx) | 2:33 |
 | 18 | [Chale](https://open.spotify.com/track/1v8OgUtMsTJNGe4O2YuakO) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Chale](https://open.spotify.com/album/2PLCkX1xPlIzFQ8HfBGxtB) | 2:56 |
 | 19 | [Si Es Feliz](https://open.spotify.com/track/2U9JrW474b8IOcmwk9Hj7X) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu), [Carlos Sarabia](https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw) | [Hasta el Cielo](https://open.spotify.com/album/7fDSPyDbQQbHT47Spts4YV) | 3:10 |
-| 20 | [Verdes](https://open.spotify.com/track/5rTvPCcJMiVWc97wS6NhYF) | [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61), [Iván Orozco](https://open.spotify.com/artist/32Tlu8DW4nJB6urnEtW9pz) | [El King](https://open.spotify.com/album/0ysRWfmEw2d7ScfqrIv0PO) | 2:43 |
+| 20 | [Verdes](https://open.spotify.com/track/5rTvPCcJMiVWc97wS6NhYF) | [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61), [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [El King](https://open.spotify.com/album/0ysRWfmEw2d7ScfqrIv0PO) | 2:43 |
 | 21 | [La Cheyenne \- En Vivo](https://open.spotify.com/track/5pLnKa4j4yMBygDZUvvNFE) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [La Cheyenne \(En Vivo\)](https://open.spotify.com/album/5YgmUVXSi54Wvx4reb5ZUa) | 3:30 |
 | 22 | [Me Tienes Que Olvidar](https://open.spotify.com/track/7yeAksHPPsMATp2bejzEhd) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Me Tienes Que Olvidar](https://open.spotify.com/album/2a67z9NZVXbvFfdRrmkdWM) | 3:31 |
 | 23 | [De la Perla a Sinaloa \- En Vivo](https://open.spotify.com/track/0258bMyK1whXKTiq9qM0O8) | [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7), [ADA OLEA](https://open.spotify.com/artist/5kLS1HpKVb6HbflVCgu6bz) | [De la Perla a Sinaloa \(En Vivo\)](https://open.spotify.com/album/2gdM5Jc8Hc7PYVomI9GxbT) | 2:33 |

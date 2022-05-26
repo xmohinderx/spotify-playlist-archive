@@ -4,10 +4,11 @@
 
 > Kindie tunes for the whole family.
 
-147 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
+148 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Little Recycling Adventure](https://open.spotify.com/track/4yld7dVSxsCDWUPMyhxLYO) | [Benny Time](https://open.spotify.com/artist/0SP4cps3hSDgkfhHhJHEqU) | [A Little Recycling Adventure](https://open.spotify.com/album/3XJie4zhDqXL0bS7ewPEC8) | 4:02 | 2022-05-25 |  |
 | [Baby Beluga](https://open.spotify.com/track/7zQFM7bHcyMh4QQFdBkjrE) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Baby Beluga](https://open.spotify.com/album/0sOARc9azSO1btKcDtM7o1) | 2:40 | 2022-04-15 |  |
 | [Be Kind](https://open.spotify.com/track/1SSgq52TJSHbsqsh3rDB1a) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [Be Kind EP](https://open.spotify.com/album/5jdgjnN42Y3EitwLkAkNtG) | 2:00 | 2022-04-15 |  |
 | [Be the Light \(feat\. SaulPaul\)](https://open.spotify.com/track/5DKgL6ACLMjVfNgCpROmIU) | [Erica Rabner](https://open.spotify.com/artist/3u7iISrtnnqsAGE8gIovMg), [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [We Got This](https://open.spotify.com/album/3muDxQozNwlTlj4lMbPiSq) | 3:33 | 2022-04-15 |  |

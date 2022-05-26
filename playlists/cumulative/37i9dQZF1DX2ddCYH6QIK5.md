@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels, updated every Wednesday\. Cover: Agatha is Dead!, Artwork: Isu Kim.
+> The best new music by independent artists and labels, updated every Wednesday\. Cover: Es brennt, Artwork: Isu Kim.
 
-283 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/769sf2A9Kk835wCxbodHwy)
+287 songs - 16 hr 42 min - [published](https://open.spotify.com/playlist/769sf2A9Kk835wCxbodHwy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [BoyToy](https://open.spotify.com/track/0S3GbVZNxPn0eQYB5S1Sz3) | [Ingrids Enkel](https://open.spotify.com/artist/27QSJBIlPVWlH6SymRjBjm) | [BoyToy](https://open.spotify.com/album/2fUyuikrgQ7TkDzK5S4ToD) | 3:54 | 2022-03-16 | 2022-04-07 |
 | [BRD Noir](https://open.spotify.com/track/0y1nMW1hdiPwnffgO1FUMq) | [Jogger](https://open.spotify.com/artist/6WfovyqrOYzwSMQEqOjlo1) | [BRD Noir](https://open.spotify.com/album/0gp5VNjhgG8fNB46Ks808g) | 2:50 | 2022-05-04 |  |
 | [Break](https://open.spotify.com/track/3hmTSKVaTsRTYOou3lXhEc) | [Lingby](https://open.spotify.com/artist/3qvY7dcscKVm7bbCkQKWKQ) | [Break](https://open.spotify.com/album/3HKY7amkos4Chg4YvJpaJO) | 4:07 | 2022-01-05 | 2022-02-10 |
+| [Breaking My Heart](https://open.spotify.com/track/0nKTOWJGF6CUeoot8UECJD) | [Donata](https://open.spotify.com/artist/6rC5q8dgyXjvNUICucB075) | [Breaking My Heart](https://open.spotify.com/album/6bzFgqU4TNlH68xNdBfDPy) | 3:08 | 2022-05-25 |  |
 | [Brich mein Herz](https://open.spotify.com/track/34ekTuJitl8eg2hhdIXmxv) | [KRAMER](https://open.spotify.com/artist/36mCd8l9ElmLnLWgNZ0XLY) | [Brich mein Herz](https://open.spotify.com/album/0WOdKAHtxzb9OrOSxJ1fRt) | 2:41 | 2022-05-18 |  |
 | [Can I Go Back](https://open.spotify.com/track/1Gy7444slrmcr7yGZOcMGM) | [MOREA](https://open.spotify.com/artist/71vEm5zDEAUJNjlShIT1sX) | [Can I Go Back](https://open.spotify.com/album/71dGeJGluCU7VzGxO7hByp) | 4:01 | 2022-01-26 | 2022-03-08 |
 | [Catch Me](https://open.spotify.com/track/1Fd8AUBFy6c815N5VTBpc0) | [Frederico](https://open.spotify.com/artist/51oSEWt72CjJkCYIOQRzbN), [Lenny Barks](https://open.spotify.com/artist/4sEvniF496uPXOytzthGVx) | [Catch Me](https://open.spotify.com/album/0zxdBTt9V5UfDeBNpnXTD9) | 2:48 | 2022-01-12 | 2022-02-03 |
@@ -123,7 +124,7 @@
 | [I Wanna Leave](https://open.spotify.com/track/0tyb4R408TWXTM3s06pJjn) | [CHRISTL](https://open.spotify.com/artist/7umYHv93hQAIJaGD7qUf6W) | [A ROOM FOR HER OWN](https://open.spotify.com/album/0mMIsNwq9MUsaGm3lKMFBq) | 2:58 | 2022-01-05 | 2022-03-17 |
 | [I'm A Fool](https://open.spotify.com/track/5MIxLEibEixrLZie7I040R) | [PILEA](https://open.spotify.com/artist/0yH0gfszCp7pM0DgGlKvg0) | [I'm A Fool](https://open.spotify.com/album/2A3z69sj0ogwwy7z9ZZuxB) | 4:03 | 2022-03-16 |  |
 | [ICH BIN MEHR](https://open.spotify.com/track/0YS0OKO57tCeF4ozTpoHZ5) | [NAEON](https://open.spotify.com/artist/4QnLc5PK7vhBN0Zu6uGA0h) | [ICH BIN MEHR](https://open.spotify.com/album/1E2tSMQNHGAPmVFMTmsBYU) | 2:33 | 2022-03-16 | 2022-04-07 |
-| [Ich will](https://open.spotify.com/track/10A88tmlCCs1vQU8JbfGB6) | [Sumpa](https://open.spotify.com/artist/67XC4KHtHDz1394YCUPjXx) | [Ich will](https://open.spotify.com/album/3hL8lTedEPDJ94ss21qaC4) | 3:24 | 2022-04-06 |  |
+| [Ich will](https://open.spotify.com/track/10A88tmlCCs1vQU8JbfGB6) | [Sumpa](https://open.spotify.com/artist/67XC4KHtHDz1394YCUPjXx) | [Ich will](https://open.spotify.com/album/3hL8lTedEPDJ94ss21qaC4) | 3:24 | 2022-04-06 | 2022-05-26 |
 | [If You Think](https://open.spotify.com/track/2uI5vxaOCdNejEy8SE5O7X) | [Express Therapy](https://open.spotify.com/artist/2eFcn9PqRQDCZBRPNNj0yb) | [If You Think](https://open.spotify.com/album/6CRnauPASqqDYnD0V16e4V) | 3:16 | 2022-02-09 | 2022-05-19 |
 | [Imaginary Boy](https://open.spotify.com/track/470qFnD2xdsZqOvXEubpj9) | [Nicole Faux Naiv](https://open.spotify.com/artist/49rxT73SJX2ORygUaXKLeD) | [Imaginary Boy](https://open.spotify.com/album/78S21P3LAQ4vbU3Vh9QKqc) | 3:10 | 2022-01-19 | 2022-03-24 |
 | [Immer Da](https://open.spotify.com/track/5LeZQN2oYx0bi1BtYCUkDJ) | [Luna Simao](https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC) | [Immer Da](https://open.spotify.com/album/1j6Z8zlFVFl6yo3jtPCaXJ) | 2:24 | 2022-04-06 | 2022-05-05 |
@@ -157,7 +158,7 @@
 | [Leere Stühle](https://open.spotify.com/track/5rdmCHX5GPdaOd2nrvGuIq) | [Tom Taschenmesser](https://open.spotify.com/artist/5eXer2CYuU6SCNtMaLXgsd), [Krakus](https://open.spotify.com/artist/2IfllQjp2THw4rYtDExufY) | [Leere Stühle](https://open.spotify.com/album/5a3qCFWxBr79BFc8r6Q7w1) | 2:47 | 2022-03-30 | 2022-04-28 |
 | [Leichter](https://open.spotify.com/track/43ctRqqjV2eIXiAYLfQGy7) | [Strandhase](https://open.spotify.com/artist/7vtC2BwSc7CwJ634wi23ay) | [Leichter](https://open.spotify.com/album/55fnSAWqSGoobBwAGJHTdn) | 3:33 | 2022-03-30 | 2022-04-14 |
 | [Let's Leave](https://open.spotify.com/track/7pgDx26ZSbadWvbBdGwLuv) | [TAY\-LAH](https://open.spotify.com/artist/1MSXbdDPfEXEmYxjdvRsBJ) | [Let's Leave](https://open.spotify.com/album/0zquDMei682fo2KfL6XBIH) | 2:35 | 2022-05-18 |  |
-| [Levitation](https://open.spotify.com/track/1UyuCWXxvSOe3mFvYNVIUT) | [Ouhana](https://open.spotify.com/artist/3tVHTq8WIDFyayynQFPKo1) | [Levitation](https://open.spotify.com/album/4kylgjMemfIkxrf7vEP5Gc) | 6:16 | 2022-01-19 |  |
+| [Levitation](https://open.spotify.com/track/1UyuCWXxvSOe3mFvYNVIUT) | [Ouhana](https://open.spotify.com/artist/3tVHTq8WIDFyayynQFPKo1) | [Levitation](https://open.spotify.com/album/4kylgjMemfIkxrf7vEP5Gc) | 6:16 | 2022-01-19 | 2022-05-26 |
 | [Lie To You](https://open.spotify.com/track/6FKIKLy6wDeFgRBpEIRnmh) | [TALYA](https://open.spotify.com/artist/3pERWvcXQcstiJ8KV7IB5B) | [Lie To You](https://open.spotify.com/album/0S6edkCoX4LNC9wm01AmG9) | 3:35 | 2022-02-23 | 2022-05-19 |
 | [Lonely Garden](https://open.spotify.com/track/0IJpqvv7ItoJynsR7lcnxp) | [Wezn](https://open.spotify.com/artist/4m3BkdzgdpL8lkC5PfZdXf) | [Gonna Be Fine](https://open.spotify.com/album/40p8TMPlfO20tifVhpLWZt) | 4:14 | 2022-01-05 | 2022-01-27 |
 | [Losing Sleep](https://open.spotify.com/track/49eb3HkAxMFd0guyVSmFY9) | [Internet Baby](https://open.spotify.com/artist/7LErPpTEZGLk3dEuI0ASsf) | [Losing Sleep](https://open.spotify.com/album/2XwHUPEf7c2RtAnh6xUAxq) | 3:45 | 2022-04-20 | 2022-05-12 |
@@ -175,7 +176,7 @@
 | [Modern Justice](https://open.spotify.com/track/17q4P1AK0Q4VY6O4sagoEC) | [Sweet Tempest](https://open.spotify.com/artist/3CHvSnSovfNQBCwGgGMy3s) | [Modern Justice](https://open.spotify.com/album/6C9AsG2baW7mJobR07ZYAw) | 4:06 | 2022-01-05 | 2022-03-08 |
 | [Molotov](https://open.spotify.com/track/7L9Fq96bloKKmU4FwLkpXp) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [Molotov](https://open.spotify.com/album/5keRcVDlpPHHa2pUNvGqiv) | 2:59 | 2022-01-26 | 2022-05-12 |
 | [Monsters](https://open.spotify.com/track/3cjMpTT7ug9qGesYOtFIiR) | [Iuna Lux](https://open.spotify.com/artist/0HNLFWeKZoz8bI9ImJUdLX) | [Monsters](https://open.spotify.com/album/3DH7wdecxZlxvnthIN8MhU) | 3:45 | 2022-01-05 | 2022-04-21 |
-| [Montreal](https://open.spotify.com/track/7EwPMCiJl0awJ15fr2fX4B) | [Ago](https://open.spotify.com/artist/0Lz0C2OokCQS2li0lGD9PE), [Nursel Kale](https://open.spotify.com/artist/27RzGSICZKwAGSvCByitlN) | [Montreal](https://open.spotify.com/album/0DBaidJu3gp8RQ6EJKLxbQ) | 3:14 | 2022-01-05 |  |
+| [Montreal](https://open.spotify.com/track/7EwPMCiJl0awJ15fr2fX4B) | [Ago](https://open.spotify.com/artist/0Lz0C2OokCQS2li0lGD9PE), [Nursel Kale](https://open.spotify.com/artist/27RzGSICZKwAGSvCByitlN) | [Montreal](https://open.spotify.com/album/0DBaidJu3gp8RQ6EJKLxbQ) | 3:14 | 2022-01-05 | 2022-05-26 |
 | [Moon](https://open.spotify.com/track/5Ae88Def4G5Rz6WMCU31hO) | [Joel Selon](https://open.spotify.com/artist/4dmBizuMWblAekEgO63fB1) | [Moon](https://open.spotify.com/album/0pCXZ3lTJdj2X8JNZlvBYz) | 2:54 | 2022-01-05 | 2022-02-17 |
 | [Morning Dew](https://open.spotify.com/track/1LbZGCffeOGXyXEQsUoL2F) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Morning Dew](https://open.spotify.com/album/4LUQwWsMRiwJ8KHkpulVgu) | 2:13 | 2022-02-02 | 2022-05-05 |
 | [Move](https://open.spotify.com/track/6QOwQePqZlij4xcdVj14DH) | [Detechtive](https://open.spotify.com/artist/7tx1v32KdbYBuU5LaMji6z) | [Move](https://open.spotify.com/album/4h5VsV26hGgmhS34k2LApb) | 3:48 | 2022-05-04 |  |
@@ -215,7 +216,7 @@
 | [Rise Again](https://open.spotify.com/track/2RvheiLZEgoDwiHm5BJNhi) | [LITO](https://open.spotify.com/artist/28eWMibpUITBXZVQM0RWnL) | [Rise Again](https://open.spotify.com/album/1G1Tnx8wjroUqia9gdjjrD) | 3:17 | 2022-03-30 | 2022-05-19 |
 | [Roads \- Ede Remix](https://open.spotify.com/track/2lkwSpLsr4scWtmuIrtKVC) | [Fabio Vanore](https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs), [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Zombies In Miami](https://open.spotify.com/artist/42ZWiibQTSxTJSBV7oziPy) | [Spectrum \(Remixes\)](https://open.spotify.com/album/3NePNHzYSzcTDZoRWtFzUA) | 4:54 | 2022-04-08 | 2022-05-05 |
 | [ROSA](https://open.spotify.com/track/4VkqS1YW73oVi3r186l0yr) | [Barking Orders in German](https://open.spotify.com/artist/3LWrXiQNs0HofrmLmJikQZ) | [ROSA](https://open.spotify.com/album/5KrQEpDIRBx2XSNzgeQJrg) | 2:28 | 2022-01-05 | 2022-02-03 |
-| [Run Closer](https://open.spotify.com/track/5mAr4YWf7K2neJirYLrIS9) | [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Run Closer](https://open.spotify.com/album/4Rhx34i5YgFmLtE3zuMns1) | 3:29 | 2022-04-06 |  |
+| [Run Closer](https://open.spotify.com/track/5mAr4YWf7K2neJirYLrIS9) | [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Run Closer](https://open.spotify.com/album/4Rhx34i5YgFmLtE3zuMns1) | 3:29 | 2022-04-06 | 2022-05-26 |
 | [Run Run Run](https://open.spotify.com/track/2VdBjLDR5gKnnGtLv4yTUP) | [Import Export](https://open.spotify.com/artist/0IXo2RN5Z2J7T6W1oyrBWX), [Kadie](https://open.spotify.com/artist/74iqmv9Nhl5ibN1XaTuSyy) | [Run Run Run](https://open.spotify.com/album/4CCfKK841ADvwf6cuvjCtZ) | 3:13 | 2022-04-06 |  |
 | [running // circles](https://open.spotify.com/track/5EWZkYIiihdtARtEc7JGhG) | [leoblu](https://open.spotify.com/artist/1gJctVXTu7xYbZbs7gvcar) | [running // circles](https://open.spotify.com/album/6Gz4ZWgqQ0zGLTOdunXpIP) | 3:46 | 2022-05-11 |  |
 | [Same](https://open.spotify.com/track/53sFjXxqjJKtEnx6zjGYZP) | [Soft Drug](https://open.spotify.com/artist/3T0049arm1wGNbtrzRnwHy) | [Same](https://open.spotify.com/album/5QCjxj0muKSrn493w25hjg) | 3:17 | 2022-02-02 |  |
@@ -231,6 +232,7 @@
 | [Slipper](https://open.spotify.com/track/0d3fp4Ra457iohDUlAUqa1) | [Mastergrief](https://open.spotify.com/artist/0jB9ssFhTjMeCKRUoOwnQl) | [Slipper](https://open.spotify.com/album/7CxctPGPpZCHiGZ5kAz3X1) | 4:14 | 2022-02-02 | 2022-03-31 |
 | [Slowly](https://open.spotify.com/track/7zVIFvH514q4PX5RL0Ro24) | [Invisible Twins](https://open.spotify.com/artist/4iPvFGVPkRDzIAFwgKTTiw) | [Slowly](https://open.spotify.com/album/68WXuBImJzicXgPZ7njGxA) | 4:31 | 2022-02-09 | 2022-02-24 |
 | [Snow](https://open.spotify.com/track/3YfVl8ppe0M4nM3ROyBS6D) | [EVÎN](https://open.spotify.com/artist/0lWgtltnu46nD7fJxTjarO) | [Snow](https://open.spotify.com/album/6pvPnoBxCmF1y7NLlTTZ0S) | 3:05 | 2022-02-02 | 2022-02-10 |
+| [So naiv sind wir nicht](https://open.spotify.com/track/6k1Kw7DQbHDQ1CvqxS1vYy) | [Es brennt](https://open.spotify.com/artist/1FBfQFD2kZfXkuSAQY0TP6) | [So naiv sind wir nicht](https://open.spotify.com/album/5l3gd7qdTFBJnHW6z7cC1Y) | 2:26 | 2022-05-25 |  |
 | [Something To Save \- Radio Edit](https://open.spotify.com/track/2y18y42IEQlAsUHoRWSduw) | [She Knows](https://open.spotify.com/artist/1mbYwpQqPnkAThstKosMer) | [Something To Save](https://open.spotify.com/album/2TRPdBwGBtgpwgdl3KFy1C) | 3:47 | 2022-05-04 |  |
 | [somewhere we don't know](https://open.spotify.com/track/6E2fEoIq2lnX0d1clIOxq2) | [nothhingspecial](https://open.spotify.com/artist/1GDKz5zXC9NCTA2ViXPv02) | [somewhere we don't know](https://open.spotify.com/album/2qJLlsZp3szdQBbGN0O0Tc) | 4:32 | 2022-01-05 | 2022-01-20 |
 | [Souvenirs](https://open.spotify.com/track/6YnQ3vqYnjGyLZahOh2gw5) | [I Want Poetry](https://open.spotify.com/artist/4PON2nBNMrksNssipVTasE) | [Souvenirs](https://open.spotify.com/album/2W8KzApTDxUGQ9rQIGaWiT) | 4:09 | 2022-03-02 | 2022-03-17 |
@@ -264,7 +266,9 @@
 | [Too Late](https://open.spotify.com/track/6MeMT5vw3NP25NdXUOi7nr) | [Katy](https://open.spotify.com/artist/18mRQa7bqepmh2COlyxXrF) | [Too Late](https://open.spotify.com/album/3tPhuGZF5e9D6adBo1IyIv) | 2:52 | 2022-05-18 |  |
 | [Transistorjugend](https://open.spotify.com/track/4dwalsM63ltWUFl77Xg1CX) | [Federhall](https://open.spotify.com/artist/0hxn2iug9XsuD4NUHTbXsR) | [Transistorjugend](https://open.spotify.com/album/2vcZeUlX7IC1C6M8NGWA5o) | 4:22 | 2022-01-05 |  |
 | [Treptow](https://open.spotify.com/track/3xF2Q1ROL2LtMczRnfhvdz) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Home](https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP) | 5:42 | 2022-01-05 | 2022-02-03 |
+| [Turmalin](https://open.spotify.com/track/2d2mf1bbECKoExhoEk4yrJ) | [lauenburg](https://open.spotify.com/artist/7jvS50nDvvf2qG3GwFSQHz) | [Turmalin](https://open.spotify.com/album/52muBhbUWgx8y63ZnqvW7h) | 2:38 | 2022-05-25 |  |
 | [Tuts Dir Weh?](https://open.spotify.com/track/0trMYgAetwuKs5CKX24Q6n) | [Dirty Red Bandanas](https://open.spotify.com/artist/3wpIMzbP4sia8LbYd8Apl3) | [Tuts Dir Weh?](https://open.spotify.com/album/1AqaJ4bsNR1M0QvVa5kvSN) | 2:11 | 2022-03-23 | 2022-04-14 |
+| [Twentysomething](https://open.spotify.com/track/1On8jMKkD4O7RpiQymSrSo) | [Jacob Fortyhands](https://open.spotify.com/artist/6UAcUT7AhBCpVz72sPQIOx) | [Twentysomething](https://open.spotify.com/album/2f2mKb7yIxjvuEzQjBQbG0) | 3:42 | 2022-05-25 |  |
 | [Underwater](https://open.spotify.com/track/3qtLQbYiB5qXIYQdbZxuDf) | [Polar Noir](https://open.spotify.com/artist/1tnj2WqyUP68kpkGorWVxO) | [Underwater](https://open.spotify.com/album/6TH72GNIkdULBcomH1VUf0) | 3:30 | 2022-03-30 |  |
 | [Unspoken](https://open.spotify.com/track/2291k2jz6SgTwe6WLZ85fx) | [VØR](https://open.spotify.com/artist/02gkdTPcKnn6BzYMqAsJsT) | [Unspoken](https://open.spotify.com/album/2eoOFXIlJqliP10nfbRw7n) | 3:02 | 2022-01-05 | 2022-01-27 |
 | [Viel Zu Viel](https://open.spotify.com/track/1qKGHV21b77MwwHc0dlLIc) | [Triplet](https://open.spotify.com/artist/2OmZnboxyFtF1UdRW6YA0k) | [Viel Zu Viel](https://open.spotify.com/album/0Eb3u9j1v7e9B8kng94EVQ) | 2:21 | 2022-03-23 | 2022-04-14 |

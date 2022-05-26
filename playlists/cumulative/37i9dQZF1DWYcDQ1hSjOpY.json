@@ -1956,6 +1956,24 @@
     },
     {
       "album": {
+        "name": "Finally At Ease",
+        "url": "https://open.spotify.com/album/0e7VPn87No5P1c1RGLUGYu"
+      },
+      "artists": [
+        {
+          "name": "Molecular Clouds",
+          "url": "https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Finally At Ease",
+      "url": "https://open.spotify.com/track/4HJJh915LuQpMjEO0tFwhx"
+    },
+    {
+      "album": {
         "name": "Beautiful Morning",
         "url": "https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > La scena italiana indipendente, senza etichette di genere\. Cover: Forse Danzica
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,939 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,962 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 38 | [Altar of Love](https://open.spotify.com/track/3cBrcj7y4bxf28L248hchQ) | [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Altar of Love](https://open.spotify.com/album/0sNyVY1V8HcZCIp4MIQ5Fr) | 4:20 |
 | 39 | [Lucido](https://open.spotify.com/track/0wWHA2fRW21xXpPprVWxdc) | [ZANNA](https://open.spotify.com/artist/0F9jANZdmAJKEXyha9ELv2) | [Lucido](https://open.spotify.com/album/4Nr8JYO6KoWqJ7ylP1vYIZ) | 3:07 |
 | 40 | [Fantasma quattro](https://open.spotify.com/track/5av6NKEUJksROjH1AayoEw) | [Sonambient](https://open.spotify.com/artist/6kWBanEb3KNwDZ0ubLY4Yn) | [Fantasma quattro](https://open.spotify.com/album/0oZgsmX3fhOoZlhvrTfvGH) | 3:29 |
-| 41 | [ESAGERO EMOZIONI](https://open.spotify.com/track/4LwFRgfMW5LCStueaVtGh8) | [FDP](https://open.spotify.com/artist/5vX1tbFG6NuGSbwWO420JO), [Zerbo](https://open.spotify.com/artist/3cxzA1W08BBDKlAtVG09Zg), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [ESAGERO EMOZIONI](https://open.spotify.com/album/5PPlMx6qAuRLiIm8IEYpqJ) | 3:30 |
+| 41 | [ESAGERO EMOZIONI](https://open.spotify.com/track/4LwFRgfMW5LCStueaVtGh8) | [FDP](https://open.spotify.com/artist/5vX1tbFG6NuGSbwWO420JO), [Zerbo](https://open.spotify.com/artist/3cxzA1W08BBDKlAtVG09Zg) | [ESAGERO EMOZIONI](https://open.spotify.com/album/5PPlMx6qAuRLiIm8IEYpqJ) | 3:30 |
 | 42 | [Logiche](https://open.spotify.com/track/7oEm3YZ68SZMkNV7GVNP4C) | [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws), [specchiopaura](https://open.spotify.com/artist/15OZuHjUnj9YAmwn5EXzrM) | [Non ti scordar di me](https://open.spotify.com/album/7tUCuhD58UCoPcOqFTNzqg) | 2:09 |
 | 43 | [Fantasia](https://open.spotify.com/track/1hEsQqngL8iq7IwsoTjB9O) | [Cascate](https://open.spotify.com/artist/7cG5p7UFGDKEZlFE351bX4) | [Fantasia](https://open.spotify.com/album/2RGUJun6AQFdrsZ29xy37C) | 2:49 |
 | 44 | [Universo](https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x) | [Venere](https://open.spotify.com/artist/0oRYvj2dYUhN9rAcxUqu4f) | [Universo](https://open.spotify.com/album/76ekt5JP6roqnpBrp3pu9I) | 2:43 |

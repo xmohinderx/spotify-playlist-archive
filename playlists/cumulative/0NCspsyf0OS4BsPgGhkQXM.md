@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-301 songs - 16 hr 15 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+302 songs - 16 hr 18 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Fall Into Me \(feat\. Dylan Matthew\)](https://open.spotify.com/track/5jwPoLlVOLcawSpvDpwlty) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Fall Into Me \(feat\. Dylan Matthew\)](https://open.spotify.com/album/6PT8LbcXWPCVAk5Ixj2cu9) | 3:51 | 2022-03-17 |  |
 | [Fallaway](https://open.spotify.com/track/1eDKRyIAKtoRmrO9gJ6PFv) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Fallaway](https://open.spotify.com/album/0XXHhKf7JUTkgKnxUDNcA2) | 3:44 | 2022-01-14 |  |
 | [Falling](https://open.spotify.com/track/4WA4jmG98kErhzC9oNf8Sx) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Meo](https://open.spotify.com/artist/76NT4gVXCYbuQeWAEb2nlY) | [Falling](https://open.spotify.com/album/3egBGUjSyvUQ3TpoYpy7uP) | 2:29 | 2022-02-12 |  |
+| [FALLING](https://open.spotify.com/track/0YzNxZ9TbNNoj83aVDMEFM) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [Rxl](https://open.spotify.com/artist/6Bi1y0jGmBzmeMRGiDjwjm) | [FALLING](https://open.spotify.com/album/6m2F75Tg6uJjTCS00PwYr1) | 2:45 | 2022-05-25 |  |
 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 | 2022-02-09 | 2022-03-19 |
 | [Falling Apart](https://open.spotify.com/track/7fUk94VXDQbK5T0agAdO75) | [Erd1](https://open.spotify.com/artist/3LszmpddOPySljVKFSmKl2) | [Falling Apart](https://open.spotify.com/album/06rTHS3eQKq1Gb0C8nzr66) | 2:48 | 2022-02-18 | 2022-03-19 |
 | [Feel High](https://open.spotify.com/track/1EQIDG6xyZif31tTKzm2DY) | [DaWave](https://open.spotify.com/artist/08jQkfZ4SwCcuK32awx5Fu) | [Feel High](https://open.spotify.com/album/6QSqkGrNsIlvMfshJbL3FW) | 2:59 | 2022-02-18 | 2022-03-19 |
@@ -122,7 +123,7 @@
 | [Haven](https://open.spotify.com/track/6Xcqm2M79Y6DvFcmAO6UqJ) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Pieces](https://open.spotify.com/album/41zOUkivBUd5X0KRWPO3CB) | 4:11 | 2022-01-14 |  |
 | [Head Shot](https://open.spotify.com/track/1w4NslJtxyBFRdEfKCrAIk) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Head Shot](https://open.spotify.com/album/4Xpkv0j5BFJEyiaqTGJke7) | 3:40 | 2022-04-04 | 2022-05-18 |
 | [Heart Out My Chest](https://open.spotify.com/track/7upmHVQPUsEisdIA7NuMdt) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Heart Out My Chest](https://open.spotify.com/album/7hNCn0U74ITDR6zDbQWJcl) | 3:15 | 2022-01-30 | 2022-03-05 |
-| [HEROIN](https://open.spotify.com/track/54glJfnfZgMutAEMXpS2t8) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEROIN](https://open.spotify.com/album/40DFO4R4WiWLejep48mMAO) | 3:07 | 2022-03-28 |  |
+| [HEROIN](https://open.spotify.com/track/54glJfnfZgMutAEMXpS2t8) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEROIN](https://open.spotify.com/album/40DFO4R4WiWLejep48mMAO) | 3:07 | 2022-03-28 | 2022-05-26 |
 | [High Hopes](https://open.spotify.com/track/1Usby6wCOlnwFcbcXtqO8O) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9), [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo) | [High Hopes](https://open.spotify.com/album/2Xt39TtY6ayTD6IfZhW3CU) | 2:09 | 2022-04-08 | 2022-05-18 |
 | [High on Life](https://open.spotify.com/track/6ZX9CSWDRpf6C0aSP59pym) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6) | [High on Life](https://open.spotify.com/album/1CSE2niI6bZxdFRxLoAg41) | 3:16 | 2022-05-04 |  |
 | [Hold Me Close](https://open.spotify.com/track/6w8vKNoQ2EiAoeVdfFYkcF) | [3.](https://open.spotify.com/artist/2OUF2KY2wowaSsQHMCAoI4), [SHERIFF](https://open.spotify.com/artist/4WAVgrrw6O5sNu4iTVU487) | [Hold Me Close](https://open.spotify.com/album/7C8Ad9qXWfhCJWgCtqvzBs) | 2:26 | 2022-04-29 |  |

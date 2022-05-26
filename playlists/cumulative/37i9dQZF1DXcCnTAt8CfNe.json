@@ -1780,6 +1780,24 @@
     },
     {
       "album": {
+        "name": "Moon Stage",
+        "url": "https://open.spotify.com/album/42JKz2NOIzax2Erclm0Mmu"
+      },
+      "artists": [
+        {
+          "name": "Sonhos de Solid\u00e3o",
+          "url": "https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196275,
+      "name": "Moon Stage",
+      "url": "https://open.spotify.com/track/2t4CN8rtDkodRYxYYhAAvL"
+    },
+    {
+      "album": {
         "name": "Moving through mist",
         "url": "https://open.spotify.com/album/0ScW79cTIcqvIRfOhCugOc"
       },

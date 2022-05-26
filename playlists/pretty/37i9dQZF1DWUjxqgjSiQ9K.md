@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: <br/>Brian Sandoval & Jesus Adrian Romero
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,358 likes - 99 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,547 likes - 99 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-2,401 songs - 5 day 6 hr 44 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
+2,402 songs - 5 day 6 hr 48 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,6 +543,7 @@
 | [Don't You Leave](https://open.spotify.com/track/0ghWJuNoz4EsvvNWKFrE30) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Don't You Leave](https://open.spotify.com/album/5E0lp2AcqKs6TJTPmwu6RP) | 3:17 | 2021-12-30 | 2022-01-07 |
 | [Donatella](https://open.spotify.com/track/1wGs8rNpdDyatV7sRXVGau) | [Talé](https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f) | [Donatella](https://open.spotify.com/album/1kPVN5ypqNhOR945J5t3nR) | 2:21 | 2022-01-13 | 2022-01-21 |
 | [done](https://open.spotify.com/track/2jwCttDdj70VJcXtzsqZTq) | [Nova Miller](https://open.spotify.com/artist/69iZuswGpLplhnKBE0MxcA) | [done](https://open.spotify.com/album/1eLk6dJLF54FQUE8VxEofl) | 2:17 | 2022-01-20 | 2022-01-28 |
+| [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 | 2022-05-20 |  |
 | [Don’t Go Mad \(feat\. Seinabo Sey\)](https://open.spotify.com/track/2JsBMiugsW3z6V7QSM0Am9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Paradise Again](https://open.spotify.com/album/3Wc5TW906VV03DWbkgcfnR) | 4:24 | 2022-04-14 | 2022-04-22 |
 | [Don’t Keep Me Waiting](https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting](https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF) | 3:29 | 2022-02-24 | 2022-03-04 |
 | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/track/6mWCikZXHCCnEwkwyJ2L8G) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/album/3R59vyW9DWkchzNHN4XehZ) | 2:27 | 2022-02-24 | 2022-03-04 |
@@ -1538,7 +1539,7 @@
 | [OSKYLDIG](https://open.spotify.com/track/0hskCfpMard3HRGvZbP0m7) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 3:09 | 2022-04-28 | 2022-05-06 |
 | [Otrygg provanställning](https://open.spotify.com/track/34P4GPvsFYP353dvGvUTn4) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [Otrygg provanställning](https://open.spotify.com/album/5lCQSc97OYYZeEfAg4r2vH) | 3:03 | 2022-02-24 | 2022-03-04 |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-04-07 | 2022-04-15 |
-| [Out Of Love](https://open.spotify.com/track/5yHP1bh80YwdDX3fvKGVKA) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Out Of Love](https://open.spotify.com/album/1TCfjANz5UpO95yH3OTrTw) | 2:40 | 2022-05-19 |  |
+| [Out of Love](https://open.spotify.com/track/5yHP1bh80YwdDX3fvKGVKA) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Out of Love](https://open.spotify.com/album/1TCfjANz5UpO95yH3OTrTw) | 2:40 | 2022-05-19 |  |
 | [Out Of My Mind](https://open.spotify.com/track/2FSvmq9jktuOnl6H45zEaD) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Out Of My Mind](https://open.spotify.com/album/6V0uuxw9BnRBlZRjUw30Fa) | 2:36 | 2022-04-07 | 2022-04-15 |
 | [Out Of The Blue](https://open.spotify.com/track/3AI6606KhZweMhdxEXK3Vs) | [PRETTY YOUNG](https://open.spotify.com/artist/3OYs1ddotHRvkUDETp3ICh) | [Out Of The Blue](https://open.spotify.com/album/5cY0qJQtyrinZp766jRKhe) | 2:48 | 2022-03-31 | 2022-04-08 |
 | [Out of the Shadows](https://open.spotify.com/track/7x4hcIjBVYtZ0LfcjclnEW) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Out of the Shadows](https://open.spotify.com/album/2PZzZfZFFtXTqMDgSn4GZS) | 3:21 | 2022-03-17 | 2022-03-25 |

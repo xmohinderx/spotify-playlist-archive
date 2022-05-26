@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-104 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
+105 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Palal](https://open.spotify.com/track/38KL4E9AL9QvEcVIc5ueZg) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Palal](https://open.spotify.com/album/4gmrvgkTF56k2PGMFxcXGc) | 4:00 | 2021-12-22 |  |
 | [Pampus](https://open.spotify.com/track/7emdYdVOLn2nIzdFufWUQh) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [Pampus](https://open.spotify.com/album/66EibKvWjwkOn8LPibdMcF) | 3:26 | 2021-12-22 |  |
 | [Paradigm Shift](https://open.spotify.com/track/6omeDJojxEUVrHOyKFtong) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Paradigm Shift](https://open.spotify.com/album/4715J2rUJgqsE0w5eZUdrz) | 4:41 | 2022-04-21 |  |
+| [Peaceful Beat](https://open.spotify.com/track/1K1bPlZna6jKf7awyKi6K8) | [Muyu Three](https://open.spotify.com/artist/6zb7OvAUpABDfVSe9NF1BN) | [Peaceful Beat](https://open.spotify.com/album/4geUtHZzcLPidEcjgaIvQB) | 2:58 | 2022-05-25 |  |
 | [Perfect Rose](https://open.spotify.com/track/0Yuw1szR25KD6tmO1KSs9x) | [Jade Palace](https://open.spotify.com/artist/52FzcYdR52cgukrg4A3Tyv) | [Perfect Rose](https://open.spotify.com/album/2E8dJJLDCiKqWMVXuWetCq) | 3:06 | 2021-12-22 |  |
 | [Point of Departure](https://open.spotify.com/track/2mR5CtbwYl0hnyNIs5ue7B) | [Anuvida](https://open.spotify.com/artist/2cAY7ix5Q1KkGIHD46ahtG), [Nik Tyndall](https://open.spotify.com/artist/079KP7iub4gzBo3Orbbzmy) | [Reiki Healing Hands](https://open.spotify.com/album/2mzFH1tiasz7velHgJmWW1) | 9:57 | 2021-12-22 |  |
 | [Polaris](https://open.spotify.com/track/3u4oNZRvrA7pXN90HaGWkE) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Polaris](https://open.spotify.com/album/2Mx0KP6jL0AmsMuZsCjAft) | 1:55 | 2021-12-22 |  |

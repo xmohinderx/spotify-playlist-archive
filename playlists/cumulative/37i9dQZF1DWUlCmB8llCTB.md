@@ -4,7 +4,7 @@
 
 > Esto es un perreo a lo Crazy!
 
-208 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
+209 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Dictadura](https://open.spotify.com/track/4yoc5cUWk4OFvqOcvFvw0o) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Dictadura](https://open.spotify.com/album/45dcycgr7aPRo5boag4A6h) | 3:28 | 2021-12-24 | 2022-02-26 |
 | [Dile A Tu Novio](https://open.spotify.com/track/7fimHYMLABSbHn9jiopBUI) | [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Dile A Tu Novio](https://open.spotify.com/album/61NUyiB4csYajoNSlYpGa1) | 3:04 | 2021-12-24 | 2022-03-12 |
 | [DOLCE](https://open.spotify.com/track/0wDjuXaTy4MVdFOy65Gz9H) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [DOLCE](https://open.spotify.com/album/18bGWFvF9E6waWylR3vaCH) | 4:02 | 2022-02-04 |  |
-| [Dos Opciones](https://open.spotify.com/track/3qIpCIYX31M7RWjkIGaX5l) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Dos Opciones](https://open.spotify.com/album/6XgDscV3NB6BbYqUkvVixf) | 3:44 | 2021-12-24 |  |
+| [Dos Opciones](https://open.spotify.com/track/3qIpCIYX31M7RWjkIGaX5l) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Dos Opciones](https://open.spotify.com/album/6XgDscV3NB6BbYqUkvVixf) | 3:44 | 2021-12-24 | 2022-05-26 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-05-06 |  |
 | [El Apa](https://open.spotify.com/track/47l6IPww0l1TL0afot3Dhq) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [El Apa](https://open.spotify.com/album/4ZYjtVUCERUDdLku8O3dxx) | 2:57 | 2021-12-24 | 2022-01-15 |
 | [El Malo](https://open.spotify.com/track/5SwmyTluTfm4Tb97OyqIn5) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [El Malo](https://open.spotify.com/album/2rmHFVjnQDPgtUM8zko0SJ) | 3:00 | 2021-12-24 | 2022-01-15 |
@@ -85,6 +85,7 @@
 | [Gata \(feat\. Chencho Corleone\)](https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:26 | 2022-04-15 |  |
 | [Gatas](https://open.spotify.com/track/4Z6ucGPXIzZZTN70Q7KQM0) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Gatas](https://open.spotify.com/album/31dhzIDFoaVAwcN3bBwgNA) | 2:12 | 2022-03-18 |  |
 | [GUCCI FENDI](https://open.spotify.com/track/30VNqIVJx9ONVBNJorbemZ) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [GUCCI FENDI](https://open.spotify.com/album/4gq09H4WcVcwhBgvvBsWI8) | 2:52 | 2022-03-11 |  |
+| [Gulag](https://open.spotify.com/track/38VYSJnRnFHP1THB7k68My) | [Youngc4real](https://open.spotify.com/artist/4OcM9DfskVqTxIJc2Nnyoc) | [Luna](https://open.spotify.com/album/6IzK8CeN8WYgytqOhtUAyQ) | 2:37 | 2022-05-25 |  |
 | [hebilla](https://open.spotify.com/track/5JWnIfs6jmUAJzx1HKJlEr) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Cami Da Baby](https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE) | [hembrismo](https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur) | 3:43 | 2022-03-11 | 2022-04-23 |
 | [Hey Siri](https://open.spotify.com/track/5ohqJK8ieHOGIUsbw2oZqQ) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Hey Siri](https://open.spotify.com/album/26PSRzfCh69uiTBWg2eIZO) | 2:27 | 2022-04-08 | 2022-05-20 |
 | [Hola Bebé](https://open.spotify.com/track/3zTFAxm7XvrKu9GVOKt6rR) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Hola Bebé](https://open.spotify.com/album/0NI0QTI4ML71nWzDsG0xgE) | 2:39 | 2021-12-24 | 2022-01-15 |

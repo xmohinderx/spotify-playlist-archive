@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia\. Cover: Slings
 
-63 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
+64 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [ARMAGEDDON](https://open.spotify.com/track/3hCEneoWEdtkYfiWPgbhzr) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [ARMAGEDDON](https://open.spotify.com/album/0cTvIkr8DgCyEFRYfzHfyd) | 2:33 | 2022-05-19 |  |
 | [AU REVOIR \(feat\. Guè, Rose Villain, JVLI\)](https://open.spotify.com/track/05vUar73P3iMZUr40QLJWT) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [PLC tape 1](https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF) | 2:21 | 2022-05-09 |  |
 | [Banlieue](https://open.spotify.com/track/1QKBcUYppvjlYrcQuGS73H) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Banlieue](https://open.spotify.com/album/1X7LRBkdizwwX3TtU2zrDO) | 3:16 | 2022-05-09 |  |
-| [BIRKIN \(feat\. Rondodasosa\)](https://open.spotify.com/track/7eA4sopBqbiwCfMvrU0504) | [Trenches Baby](https://open.spotify.com/artist/3q6fbAYooRJkfLgYgZrDX2), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [BIRKIN \(feat\. Rondodasosa\)](https://open.spotify.com/album/7uXB0wqBqrdSlsf06uHxM6) | 3:01 | 2022-05-09 |  |
+| [BIRKIN \(feat\. Rondodasosa\)](https://open.spotify.com/track/7eA4sopBqbiwCfMvrU0504) | [Trenches Baby](https://open.spotify.com/artist/3q6fbAYooRJkfLgYgZrDX2), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [BIRKIN \(feat\. Rondodasosa\)](https://open.spotify.com/album/7uXB0wqBqrdSlsf06uHxM6) | 3:01 | 2022-05-09 | 2022-05-26 |
 | [Bisous](https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Bisous](https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP) | 2:34 | 2022-05-09 |  |
 | [Bitch Affianco \(feat\. Il Ghost\)](https://open.spotify.com/track/7GMdUBnPCy8ttOJwxUW6HM) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 4:36 | 2022-05-09 |  |
 | [BlaBlaBla](https://open.spotify.com/track/5hGjnVZzA563cMLHy22keP) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [BlaBlaBla](https://open.spotify.com/album/7mqK8UcO20KLRVvlWObIf7) | 1:53 | 2022-05-09 | 2022-05-20 |
@@ -51,6 +51,7 @@
 | [PARE \(feat\. Madame\)](https://open.spotify.com/track/1WQxLQxEDMDwuaAmRXDHIw) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:45 | 2022-05-19 |  |
 | [Password](https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 2:45 | 2022-05-09 |  |
 | [Pensando a lei](https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Pensando a lei](https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn) | 2:56 | 2022-05-09 |  |
+| [Pioggia](https://open.spotify.com/track/4Gatggg43ESx92VTeiFNjZ) | [Leon Faun](https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos), [Duffy](https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL) | [Pioggia](https://open.spotify.com/album/3vVqHdErmdhflt7QZXCLoz) | 2:38 | 2022-05-25 |  |
 | [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 | 2022-05-09 |  |
 | [Poker](https://open.spotify.com/track/6wHgwzvhFNFT01ecGXNGrI) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 2:41 | 2022-05-09 |  |
 | [Pornstar \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2r0uxpCJHJC6KDNEVNQAM2) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:57 | 2022-05-12 |  |

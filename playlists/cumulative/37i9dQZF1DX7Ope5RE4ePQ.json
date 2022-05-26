@@ -184,6 +184,24 @@
     },
     {
       "album": {
+        "name": "La Ronde Des Berceuses",
+        "url": "https://open.spotify.com/album/7GPWDs5pZsuEvCaOCUxrjU"
+      },
+      "artists": [
+        {
+          "name": "Angele Dubeau, Ensemble Amati, Raymond Dessaints",
+          "url": "https://open.spotify.com/artist/6RMpafCPPmTUZsyzfxWj9o"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293871,
+      "name": "Annie's Song (Dompierre)",
+      "url": "https://open.spotify.com/track/6kOO3EZawpjqbFCiXGWs47"
+    },
+    {
+      "album": {
         "name": "The American Virtuoso",
         "url": "https://open.spotify.com/album/0vdIwOj00vVbRNxi70rurD"
       },

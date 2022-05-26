@@ -476,6 +476,24 @@
     },
     {
       "album": {
+        "name": "Centripetal",
+        "url": "https://open.spotify.com/album/6mTpmwLY3yG16iecHE724S"
+      },
+      "artists": [
+        {
+          "name": "The Crystal Cathedral",
+          "url": "https://open.spotify.com/artist/4KAQqDnNJv22Yf0ubEzLRm"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130356,
+      "name": "Decades",
+      "url": "https://open.spotify.com/track/07PmKbyqjMTokXBDAWOqoc"
+    },
+    {
+      "album": {
         "name": "Remnants Of A Setting Sun",
         "url": "https://open.spotify.com/album/1dbvDjcQOn1TAK3j5YZPBA"
       },

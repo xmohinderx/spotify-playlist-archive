@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qGup0t1SY0.md) - [plain]
 
 > Los nominados para los Premios Tu Música Urbano 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,372 likes - 109 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,418 likes - 109 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-52 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/6P7FK7KxB0YRgwehaVREy9)
+53 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/6P7FK7KxB0YRgwehaVREy9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Schumann: Widmung, Op\. 25 No\. 1 \(Arr\. Liszt, S\. 566a\)](https://open.spotify.com/track/0cKlu1GLSgOSdJBu6yMMX4) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Martin James Bartlett](https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O) | [Love and Death](https://open.spotify.com/album/4o2cK5PwXRoSVANyPuFSOb) | 3:57 | 2021-11-09 |  |
 | [September Song](https://open.spotify.com/track/6SctHYL0HaQ5hFpUxXULYa) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine \(Deluxe\)](https://open.spotify.com/album/4YRVYUznqfl3xjodAZA4tt) | 3:22 | 2021-11-09 | 2022-05-18 |
 | [Serenade for Strings in E Major, Op\. 22, B\. 52: IV\. Larghetto](https://open.spotify.com/track/3o9br9LskOEbwc5irxfHqR) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Myung\-Whun Chung](https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby) | [Dvorák: Serenades for Strings and Winds](https://open.spotify.com/album/2kIYajHnGZfecURpw7QyAo) | 4:55 | 2021-11-09 |  |
+| [Siciliano \(After "Erbarme dich" from Matthäus\-Passion, BWV 244, No\. 39\)](https://open.spotify.com/track/5nFCdayR5pAEVvQw7ZAIuQ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Piano Songbook](https://open.spotify.com/album/4kb4g4LErw7g8iooZfxFAF) | 2:05 | 2022-05-25 |  |
 | [Six Pieces, Op\. 51, TH 143: VI\. Valse sentimentale\. Tempo di Valse](https://open.spotify.com/track/1BbQIyPnuhVIlJEqPcY3Ug) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Daniel Lozakovich](https://open.spotify.com/artist/6NYeMhiOjcNVSXwvkllyTe), [Stanislav Soloviev](https://open.spotify.com/artist/0CTjvv9ntiE7kSYxcIIEwE) | [None but the Lonely Heart](https://open.spotify.com/album/5yjely805RPC9bhGjh4Hc2) | 2:21 | 2021-11-09 |  |
 | [Some Sand](https://open.spotify.com/track/6wzHTBM9UtXdZOBp82flGU) | [ibi](https://open.spotify.com/artist/6P06yTsM3UACEZDIVCdwt6) | [Some Sand](https://open.spotify.com/album/1KenzRdtbWT5tDfyYvO5IQ) | 7:02 | 2021-11-09 | 2022-05-18 |
 | [Sonata No\. 14 "Moonlight" in C\-Sharp Minor", Op\. 27 No\. 2: I\. Adagio sostenuto](https://open.spotify.com/track/3DNRdudZ2SstnDCVKFdXxG) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Paul Lewis](https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l) | [Beethoven: Piano Sonatas, Vol.3](https://open.spotify.com/album/4bNwPPpk01D8pVV9IFSBde) | 5:15 | 2021-11-09 |  |

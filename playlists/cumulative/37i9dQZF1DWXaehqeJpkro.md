@@ -209,7 +209,7 @@
 | [좋니](https://open.spotify.com/track/1MZdlzU4bO0JYaJPAftt4l) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2017 Yoon Jong Shin 행보 2017 윤종신](https://open.spotify.com/album/37b3GGhNdmdIHhX4wdyzQ2) | 6:15 | 2022-02-17 |  |
 | [지나오다](https://open.spotify.com/track/0keu6b483OyisjQZqQBqqB) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [About You](https://open.spotify.com/album/3Wtjnp72J9oK31RxH83BiO) | 4:41 | 2022-02-17 |  |
 | [쩔어 DOPE](https://open.spotify.com/track/0pGHou9D7JTMKbMfOLKy50) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [화양연화 The Most Beautiful Moment In Life, Pt\. 1](https://open.spotify.com/album/6yRUOoA0Z4jgr6qcKcFAbH) | 4:00 | 2021-03-11 | 2022-02-18 |
-| [천년의 사랑](https://open.spotify.com/track/36HpeuZMRWKAyVaRO8mePe) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [천년지애](https://open.spotify.com/album/3tP5zqC8xHT6R748b2hhYV) | 4:25 | 2022-02-17 |  |
+| [천년의 사랑](https://open.spotify.com/track/36HpeuZMRWKAyVaRO8mePe) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [천년지애 \(天年之愛\)](https://open.spotify.com/album/3tP5zqC8xHT6R748b2hhYV) | 4:25 | 2022-02-17 |  |
 | [체념](https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:59 | 2022-02-17 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.
