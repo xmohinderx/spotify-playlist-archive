@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-65 songs - 4 hr 52 min - not published yet
+66 songs - 4 hr 53 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Blues After Hours](https://open.spotify.com/track/56ENCoeGxJ9PWnAJpEktgs) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [If I Ever Get Lucky](https://open.spotify.com/album/5ypZMTcLSmNU8Bya5ZXaqK) | 5:09 | 2022-04-15 |  |
 | [Blues Boys Tune](https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues On The Bayou](https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r) | 3:29 | 2022-04-15 |  |
 | [Blues for Magic Sam](https://open.spotify.com/track/2fZjnNYEvJO76sc6kqN24z) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/5bj6EpqoaEgKeaEH6Qivnh) | 5:24 | 2022-04-15 |  |
+| [Blues for Rj](https://open.spotify.com/track/4XSj02UDZIGVm0ZHHY9o4H) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Geoff Bartley](https://open.spotify.com/artist/2B6pHv1CQAmCQBN7OrTlGB) | [Folk & Blues Guitar](https://open.spotify.com/album/5IdfA8A5wIiNFRG557NLs2) | 1:52 | 2022-05-27 |  |
 | [Blues For Ruthie Foster](https://open.spotify.com/track/6DVDYuQPe6XIC21qDUKhzR) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Mercy Me](https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj) | 5:23 | 2022-04-15 |  |
 | [Blues On 5th Avenue](https://open.spotify.com/track/2AmEPE041ByXKpMuNGlfPf) | [Patrick Yandall](https://open.spotify.com/artist/4sdBlhjR2yhvidXrNrzimI) | [Of Two Cities](https://open.spotify.com/album/7iWSzyoy9SrCmIIRAY9s1w) | 5:14 | 2022-04-15 |  |
 | [Bourbon Please](https://open.spotify.com/track/3udysyynIpSz9II7pDJITA) | [PC Soares](https://open.spotify.com/artist/4kAqX4WBKDxCuyykSu0WMt) | [Bourbon Please](https://open.spotify.com/album/4O01Xv4ikVGTb45Lnhw5uR) | 5:16 | 2022-04-15 |  |

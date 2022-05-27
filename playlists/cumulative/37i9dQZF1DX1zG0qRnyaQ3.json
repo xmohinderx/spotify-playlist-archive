@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 227780,
       "name": "Accelerate",
       "url": "https://open.spotify.com/track/1H7dmgvLTkgfrlXzZckp4u"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 199466,
       "name": "American Futbol",
       "url": "https://open.spotify.com/track/6MiXtoPdXIVxsaZaKLHqFJ"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 156070,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6lOU4O7bUiwhil19BLfzoc"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 129293,
       "name": "Biggest Lie",
       "url": "https://open.spotify.com/track/4U6A9MsnMyDuLW7yLX9aMN"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 166453,
       "name": "Cop Just Out of Frame",
       "url": "https://open.spotify.com/track/5aErz7rxrFV56SybevCdRR"
@@ -386,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Election Year, Pt. 1",
+        "url": "https://open.spotify.com/album/67VTZ5lbwheDEkSfTv1noT"
+      },
+      "artists": [
+        {
+          "name": "KillRadio",
+          "url": "https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248931,
+      "name": "Election Year, Pt. 1",
+      "url": "https://open.spotify.com/track/7epVTPb3PIFW56MqFkqHYK"
+    },
+    {
+      "album": {
         "name": "Everyone Is Digital",
         "url": "https://open.spotify.com/album/7nJBv7fe2lPx79sAKtKGGz"
       },
@@ -433,7 +451,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 226786,
       "name": "Foundations To Burn",
       "url": "https://open.spotify.com/track/450H5ytmWAlMuBUnE2eCY7"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 49146,
       "name": "Generational Divide",
       "url": "https://open.spotify.com/track/2LGzWTksEvSYehttpvrcTV"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 212714,
       "name": "Good for Nothing",
       "url": "https://open.spotify.com/track/1gccBsKLm7vcelg0bhjMkF"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 179742,
       "name": "Heads You Win, Tails We Lose",
       "url": "https://open.spotify.com/track/0EZQLzd0j9jVR7i0ztsRiv"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 127933,
       "name": "Hindsight 2020",
       "url": "https://open.spotify.com/track/0QKHweFhy3jnmJsgfWoTxU"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 161909,
       "name": "If There Was Ever a Time",
       "url": "https://open.spotify.com/track/5PQ7O1EpyNO5fVVpTUrsWE"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 121390,
       "name": "No Allegiance To A Flag",
       "url": "https://open.spotify.com/track/798wYM5enzA8WSIIpLdtlw"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 122653,
       "name": "Question Authority",
       "url": "https://open.spotify.com/track/5TS4qrO34nNrCMV5VKIIFq"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 161000,
       "name": "Riot Sirens",
       "url": "https://open.spotify.com/track/2pJrHLFqARS1cIAnYyHhbX"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 125080,
       "name": "She Thinks She's Punk Rock n Roll",
       "url": "https://open.spotify.com/track/6rORfOw4UI416oAolzgOXk"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 42724,
       "name": "That's The Breaks",
       "url": "https://open.spotify.com/track/6ITRdfrMgETFrRGlMj4KTs"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 230556,
       "name": "The United States Of Amnesiacs",
       "url": "https://open.spotify.com/track/3e3yoJojwM7oTNMRn92pyN"
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 228720,
       "name": "The Violence",
       "url": "https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 161523,
       "name": "Tyranny",
       "url": "https://open.spotify.com/track/6S3MqV49f09I4IFwwhKR7B"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 188493,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/3UbIhHCEYbH7ayc76IB0Q9"
@@ -1373,7 +1391,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 195600,
       "name": "War Machine Breakdown",
       "url": "https://open.spotify.com/track/0ciJhEzq04b8at8PyKR1Hu"

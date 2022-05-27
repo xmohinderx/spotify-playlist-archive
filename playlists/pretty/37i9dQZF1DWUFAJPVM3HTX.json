@@ -1,13 +1,33 @@
 {
   "description": "New R&B/Soul from independent artists & labels every Wednesday. Cover: Mychelle",
-  "num_followers": 150964,
+  "num_followers": 151130,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAyODc1NCwwMDAwMDBkMzAwMDAwMTgwZTAzMTEyNTAwMDAwMDE4MGQ4NDZjNDA4",
+  "snapshot_id": "MTY1MzU0ODk4MiwwMDAwMDBkNDAwMDAwMTgwZmYzMzIwYzYwMDAwMDE4MGQ4NDZjNDA4",
   "tracks": [
+    {
+      "added_at": "2022-05-26 07:09:42",
+      "album": {
+        "name": "Somebody Told Me",
+        "url": "https://open.spotify.com/album/5nJ1fosTWsfTfkHKFbDHfk"
+      },
+      "artists": [
+        {
+          "name": "Your Grandparents",
+          "url": "https://open.spotify.com/artist/4H2uN93zRcRAVmTINvxuiq"
+        },
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 255094,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/72elEHWSWoCcQZaHCfdeyh"
+    },
     {
       "added_at": "2022-05-18 17:39:36",
       "album": {
@@ -41,6 +61,166 @@
       "url": "https://open.spotify.com/track/5quogPZVWEjwBJoiEwTcZR"
     },
     {
+      "added_at": "2022-05-26 07:09:42",
+      "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X"
+      },
+      "artists": [
+        {
+          "name": "Jex Nwalor",
+          "url": "https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8"
+        }
+      ],
+      "duration_ms": 198273,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP"
+    },
+    {
+      "added_at": "2022-05-26 07:09:42",
+      "album": {
+        "name": "Ernesto (A COLORS SHOW)",
+        "url": "https://open.spotify.com/album/6AYl9xxhzY8jenvkmipT4Y"
+      },
+      "artists": [
+        {
+          "name": "Emanuel",
+          "url": "https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7"
+        }
+      ],
+      "duration_ms": 231538,
+      "name": "Ernesto - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0cjhPcpQ6jTA5UPO9ELwNT"
+    },
+    {
+      "added_at": "2022-05-11 16:41:18",
+      "album": {
+        "name": "sounds of so(u)litude",
+        "url": "https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "GIFTED",
+      "url": "https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3"
+    },
+    {
+      "added_at": "2022-05-26 07:09:42",
+      "album": {
+        "name": "Loss Of Valuable Energy (L.O.V.E.)",
+        "url": "https://open.spotify.com/album/0goRiyw1IR5vSWD8UNfnmy"
+      },
+      "artists": [
+        {
+          "name": "Luna Elle",
+          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+        }
+      ],
+      "duration_ms": 196414,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/12q3pDcjI9HYZwd5rhSSvY"
+    },
+    {
+      "added_at": "2022-05-26 07:09:42",
+      "album": {
+        "name": "Prove Sumn",
+        "url": "https://open.spotify.com/album/7tQkZUc3GPHMpWwwFeyvFM"
+      },
+      "artists": [
+        {
+          "name": "Kayla Rae",
+          "url": "https://open.spotify.com/artist/0cz0uZX8a30POuEC2hDL9j"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Prove Sumn",
+      "url": "https://open.spotify.com/track/0tMQLXN6E32vMf57xZARrX"
+    },
+    {
+      "added_at": "2022-05-26 07:09:42",
+      "album": {
+        "name": "OHWEI",
+        "url": "https://open.spotify.com/album/2QZYJrdgvAUxgFK6Z0PIyf"
+      },
+      "artists": [
+        {
+          "name": "Izzy Rose",
+          "url": "https://open.spotify.com/artist/3bhjxkOnnTAKNTQU1TdC9N"
+        }
+      ],
+      "duration_ms": 169691,
+      "name": "OHWEI",
+      "url": "https://open.spotify.com/track/7n5LQXVhfgRphYIuX6jsCw"
+    },
+    {
+      "added_at": "2022-05-26 07:09:42",
+      "album": {
+        "name": "State of Mind",
+        "url": "https://open.spotify.com/album/28OZ9yigKEWW29T8jOOS8F"
+      },
+      "artists": [
+        {
+          "name": "Kitt",
+          "url": "https://open.spotify.com/artist/1hsAuVzLaC3fM5xk2PpdSy"
+        }
+      ],
+      "duration_ms": 199606,
+      "name": "State of Mind",
+      "url": "https://open.spotify.com/track/3y1A3hlQfPkxYDrygLApsL"
+    },
+    {
+      "added_at": "2022-05-18 17:39:36",
+      "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/6xqELDDENWwwHbSOArujXo"
+      },
+      "artists": [
+        {
+          "name": "Ethel",
+          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/7G4KKZXXXwm7HCWTwTLuXU"
+    },
+    {
+      "added_at": "2022-05-26 07:09:42",
+      "album": {
+        "name": "CUBE",
+        "url": "https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E"
+      },
+      "artists": [
+        {
+          "name": "Tha\u00efs Lona",
+          "url": "https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S"
+        }
+      ],
+      "duration_ms": 257040,
+      "name": "B.N.D",
+      "url": "https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K"
+    },
+    {
+      "added_at": "2022-05-26 07:09:42",
+      "album": {
+        "name": "Why Not?",
+        "url": "https://open.spotify.com/album/0RhPi7Bz28OoKKJnnOndPe"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 170908,
+      "name": "B\u00e9 B\u00e9",
+      "url": "https://open.spotify.com/track/3oz2KZeJsrqHpEpcroZs9e"
+    },
+    {
       "added_at": "2022-05-20 06:39:13",
       "album": {
         "name": "All They Wanna Do",
@@ -55,6 +235,22 @@
       "duration_ms": 158720,
       "name": "All They Wanna Do",
       "url": "https://open.spotify.com/track/1z3GRT22Vm8FWwadTqoxuq"
+    },
+    {
+      "added_at": "2022-05-26 07:09:42",
+      "album": {
+        "name": "whose fault",
+        "url": "https://open.spotify.com/album/5XcLFnMT5SBsTVfAwm5Vl0"
+      },
+      "artists": [
+        {
+          "name": "Ebhoni",
+          "url": "https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6"
+        }
+      ],
+      "duration_ms": 126168,
+      "name": "whose fault",
+      "url": "https://open.spotify.com/track/24bEwSczFXVlFyqfAHQfls"
     },
     {
       "added_at": "2022-05-20 06:39:13",
@@ -75,22 +271,6 @@
     {
       "added_at": "2022-05-18 17:39:36",
       "album": {
-        "name": "Andromeda",
-        "url": "https://open.spotify.com/album/6xqELDDENWwwHbSOArujXo"
-      },
-      "artists": [
-        {
-          "name": "Ethel",
-          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/7G4KKZXXXwm7HCWTwTLuXU"
-    },
-    {
-      "added_at": "2022-05-18 17:39:36",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/05SBypBMyQTMs0RytEFDky"
       },
@@ -107,22 +287,6 @@
     {
       "added_at": "2022-05-11 16:41:18",
       "album": {
-        "name": "sounds of so(u)litude",
-        "url": "https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9"
-      },
-      "artists": [
-        {
-          "name": "KALLITECHNIS",
-          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "GIFTED",
-      "url": "https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3"
-    },
-    {
-      "added_at": "2022-05-11 16:41:18",
-      "album": {
         "name": "Back & Forth",
         "url": "https://open.spotify.com/album/0oJzHZMh9yO3PaDRgD23G4"
       },
@@ -135,6 +299,22 @@
       "duration_ms": 197333,
       "name": "No Lie",
       "url": "https://open.spotify.com/track/02BBBmB5NZUrsjrm7Janc5"
+    },
+    {
+      "added_at": "2022-05-26 07:09:42",
+      "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/68Q9Mdqojdi0l6Qpcsc6ao"
+      },
+      "artists": [
+        {
+          "name": "Matt Sterling",
+          "url": "https://open.spotify.com/artist/48Dv0C21GDMR2XcHMJ5ZYT"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/1syyw8E0hGhzOdR6ChVUoy"
     },
     {
       "added_at": "2022-05-18 17:39:36",
@@ -1491,186 +1671,6 @@
       "duration_ms": 198922,
       "name": "Long Gone",
       "url": "https://open.spotify.com/track/7ikpLVg5oCWF1VRybIK6IV"
-    },
-    {
-      "added_at": "2022-04-13 15:59:22",
-      "album": {
-        "name": "Mona Lisa",
-        "url": "https://open.spotify.com/album/08y3tRgGzJ5jVoIC4QWqCK"
-      },
-      "artists": [
-        {
-          "name": "Meaghan Maples",
-          "url": "https://open.spotify.com/artist/5FA6mWNzm3ecpLGip159LP"
-        }
-      ],
-      "duration_ms": 170658,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/7FDrxmRDLKUnt0hcZkaHvO"
-    },
-    {
-      "added_at": "2022-04-13 15:59:22",
-      "album": {
-        "name": "Sex + Hennessy",
-        "url": "https://open.spotify.com/album/2NaZ8ZcWj5TDeQsgJEicvK"
-      },
-      "artists": [
-        {
-          "name": "Eimizah",
-          "url": "https://open.spotify.com/artist/3lvD3A9t2jhvnSSLZI4baM"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Sex + Hennessy",
-      "url": "https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor"
-    },
-    {
-      "added_at": "2022-04-13 15:59:22",
-      "album": {
-        "name": "Missin U",
-        "url": "https://open.spotify.com/album/44WxetHXSTxjpkTYbaRLMb"
-      },
-      "artists": [
-        {
-          "name": "Britney Stoney",
-          "url": "https://open.spotify.com/artist/1NrCzxQBuoRoh8q1ZRq83X"
-        }
-      ],
-      "duration_ms": 209165,
-      "name": "Missin U",
-      "url": "https://open.spotify.com/track/4vbLpTueqBx98sAcDpqC02"
-    },
-    {
-      "added_at": "2022-04-13 15:59:22",
-      "album": {
-        "name": "Way I Like",
-        "url": "https://open.spotify.com/album/26puHppOKSVpHx0yyh8szX"
-      },
-      "artists": [
-        {
-          "name": "TRP.P",
-          "url": "https://open.spotify.com/artist/44W1i1CmiwzwvMMBKoRpEA"
-        }
-      ],
-      "duration_ms": 253747,
-      "name": "Way I Like",
-      "url": "https://open.spotify.com/track/5msgUaS4MMn0gHpdsRemgU"
-    },
-    {
-      "added_at": "2022-04-13 15:59:22",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/064hBjcisLBkT8aP1gGrNe"
-      },
-      "artists": [
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        }
-      ],
-      "duration_ms": 175291,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2LZIdTKnsxQPXCLmSPdc9p"
-    },
-    {
-      "added_at": "2022-04-06 16:00:05",
-      "album": {
-        "name": "The Falls",
-        "url": "https://open.spotify.com/album/6M7LJCq0Cuvyelq1uTwFaB"
-      },
-      "artists": [
-        {
-          "name": "Chxrry22",
-          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
-        }
-      ],
-      "duration_ms": 172278,
-      "name": "The Falls",
-      "url": "https://open.spotify.com/track/6E0d534IEAkuYWHPvdh2lC"
-    },
-    {
-      "added_at": "2022-03-30 07:00:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/3qsTUk003MZlWQ6zrRI8pO"
-      },
-      "artists": [
-        {
-          "name": "Erik Frank",
-          "url": "https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p"
-        }
-      ],
-      "duration_ms": 136441,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/1xA3vbqRFEev7fL71zrpxf"
-    },
-    {
-      "added_at": "2022-03-30 07:00:00",
-      "album": {
-        "name": "BETTER TIMES (REDUX VERSION)",
-        "url": "https://open.spotify.com/album/7kgfo2dcVQj1nk2oMaNxzi"
-      },
-      "artists": [
-        {
-          "name": "Jay Wile",
-          "url": "https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU"
-        }
-      ],
-      "duration_ms": 174987,
-      "name": "HOLY",
-      "url": "https://open.spotify.com/track/03reiJNuSFum7GhLNmtjZr"
-    },
-    {
-      "added_at": "2022-03-16 18:15:34",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 182710,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Get Home SAFE (Part 1)",
-        "url": "https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH"
-      },
-      "artists": [
-        {
-          "name": "SAFE",
-          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
-        },
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "By My Side (feat. Kaash Paige)",
-      "url": "https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7"
-    },
-    {
-      "added_at": "2022-04-06 16:00:05",
-      "album": {
-        "name": "HIT 'EM WITH THE FUNK",
-        "url": "https://open.spotify.com/album/4wcUsSOAYh7RPG7aRNWfem"
-      },
-      "artists": [
-        {
-          "name": "Kalisway",
-          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
-        }
-      ],
-      "duration_ms": 232364,
-      "name": "NASTY GIRL",
-      "url": "https://open.spotify.com/track/6vxRwGCB5W01PzdEc8eyM4"
     }
   ],
   "unique_name": "Fresh Finds R&B",

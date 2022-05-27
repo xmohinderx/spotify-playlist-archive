@@ -1842,6 +1842,24 @@
     },
     {
       "album": {
+        "name": "The Club Is Jumpin'",
+        "url": "https://open.spotify.com/album/1a5zRROlgNBwPC8rcci6Aj"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "The Club Is Jumpin'",
+      "url": "https://open.spotify.com/track/17iyulZlFT09oivJZEvIpW"
+    },
+    {
+      "album": {
         "name": "The Wall",
         "url": "https://open.spotify.com/album/0hH9tb1b4Z87g7SHmnriKa"
       },

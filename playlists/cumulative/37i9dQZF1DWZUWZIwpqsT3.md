@@ -4,7 +4,7 @@
 
 > Press play and let's dance with the biggest Brazilian DJ!
 
-85 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/6MZWwqjG4Q8Yhj3nm7gAIo)
+86 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/6MZWwqjG4Q8Yhj3nm7gAIo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Tell Me Why](https://open.spotify.com/track/1UAi9ezb5HH3GPP8b8X9t4) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Tell Me Why](https://open.spotify.com/album/5n7MSjhgbvRAEHvVvVHN29) | 2:41 | 2021-12-03 |  |
 | [Tell Me Why \- Vip Mix](https://open.spotify.com/track/7MPKkYCc48RiQec37FY1Ge) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Tell Me Why \(Vip Mix\)](https://open.spotify.com/album/73alePbM4Zpf0b48hPv4Iz) | 2:38 | 2021-12-03 |  |
 | [That's My Way \- Alok Remix](https://open.spotify.com/track/6e6Q8NQHv2xBhl5zU9DZFn) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [That's My Way \(Alok Remix\)](https://open.spotify.com/album/0yjyJAPuOwoxk1YY3myG40) | 4:55 | 2021-12-03 |  |
+| [The Club Is Jumpin'](https://open.spotify.com/track/17iyulZlFT09oivJZEvIpW) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [The Club Is Jumpin'](https://open.spotify.com/album/1a5zRROlgNBwPC8rcci6Aj) | 2:15 | 2022-05-26 |  |
 | [The Wall](https://open.spotify.com/track/2Dnb6yPGUq0vmGtxzm3bwi) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [The Wall](https://open.spotify.com/album/0hH9tb1b4Z87g7SHmnriKa) | 2:39 | 2021-12-03 |  |
 | [This City](https://open.spotify.com/track/0hPI50BO2ExTbGCg6RhX21) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Stonefox](https://open.spotify.com/artist/3lQvg5w1PYUH7HzcbTBsLu) | [Alok presents Brazilian Bass \- Part 1](https://open.spotify.com/album/2Sm32GiSQujIZI3HtAQQWq) | 3:39 | 2021-12-03 |  |
 | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/track/0ov3zuZGNe3LTTKseNnIPX) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lars Martin](https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO) | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/album/0IGbfr3QRfclnJh2VvhN9Z) | 2:21 | 2021-12-24 |  |

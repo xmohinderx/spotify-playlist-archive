@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 340000,
       "name": "As The Night Moves In",
       "url": "https://open.spotify.com/track/66RBjymDyZBEwXeD4JpY65"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 163308,
       "name": "Body",
       "url": "https://open.spotify.com/track/5nbq4CyzheTl7BLPR3caJY"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 392812,
       "name": "Bourgie Bourgie",
       "url": "https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 397000,
       "name": "Clam Factory",
       "url": "https://open.spotify.com/track/1ytBSZM9XcPxcxIaHMk4qA"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 409387,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/0aITsSU1pXt3Tt3noutwzM"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 273157,
       "name": "Don't Want It - Demi Riqu\u00edsimo Remix",
       "url": "https://open.spotify.com/track/7mg43R4xqV7ciIJyTknWld"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 352080,
       "name": "Empty Heart",
       "url": "https://open.spotify.com/track/7eDWOkSstRIObrzFGkcUE3"
@@ -919,7 +919,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 181533,
       "name": "Forever Man (How Many Times) - Earth n Days Remix",
       "url": "https://open.spotify.com/track/0r5vc5j9eWQv6f0JAns0Ii"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 313283,
       "name": "Grand Hi",
       "url": "https://open.spotify.com/track/5oMYXuBnP7sPVZ0aRtCMn0"
@@ -1152,6 +1152,24 @@
     },
     {
       "album": {
+        "name": "Hustle do Brasil",
+        "url": "https://open.spotify.com/album/1u6WFnkNGorTI9lTTgKJ78"
+      },
+      "artists": [
+        {
+          "name": "Aroop Roy",
+          "url": "https://open.spotify.com/artist/13ZcbaFfAsWtq989FqCXVQ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268790,
+      "name": "Hustle do Brasil",
+      "url": "https://open.spotify.com/track/6ne8agwOHjbFHcDTILeCYS"
+    },
+    {
+      "album": {
         "name": "I Discover",
         "url": "https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO"
       },
@@ -1229,7 +1247,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "I Want",
       "url": "https://open.spotify.com/track/2MRbbtbADstXAGGOO60Zav"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 160240,
       "name": "I'm For Real",
       "url": "https://open.spotify.com/track/7L1tW1wlZ3pqjA2GKXhMC6"
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "In My Arms",
       "url": "https://open.spotify.com/track/7f6a2LWROn1HQlG97hDIg6"
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 164516,
       "name": "It Is What It Is (feat. Elise LeGrow)",
       "url": "https://open.spotify.com/track/37V78aaqEliOSPJxVgxNfm"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 243870,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/0OM8IYqmWKoVPsWa1l2y9f"
@@ -1737,7 +1755,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 202051,
       "name": "Lover 4 Now (feat. Todd Edwards) - Edit",
       "url": "https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 175413,
       "name": "My House",
       "url": "https://open.spotify.com/track/31D11AnGmhV0QULE10dpG2"
@@ -1861,7 +1879,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 141000,
       "name": "My Own Way",
       "url": "https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz"
@@ -1949,7 +1967,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 357586,
       "name": "No Misery",
       "url": "https://open.spotify.com/track/0i4ab8bJX3a0v30coiUPfR"
@@ -1993,7 +2011,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 263414,
       "name": "On My Mind - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/3ruSBJtsa5dVwbIl7miXBw"
@@ -2011,7 +2029,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 240000,
       "name": "On My Mind - Radio Mix",
       "url": "https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm"
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 147970,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/4KwWLMzhw4tA3hFCiMfhlB"
@@ -2493,7 +2511,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 155593,
       "name": "Someone To Believe In",
       "url": "https://open.spotify.com/track/77pkQ78HK1doqywnoc8dX0"
@@ -2617,7 +2635,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 261543,
       "name": "The Fixer",
       "url": "https://open.spotify.com/track/5Q3ez9AGCQZ99sZgoepUDB"
@@ -2719,7 +2737,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 268474,
       "name": "To the City",
       "url": "https://open.spotify.com/track/1m9fKwozHvJCLIr2tuVSTG"
@@ -2759,7 +2777,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 197243,
       "name": "Turn Around (Hey What's Wrong With You) - Robosonic Remix",
       "url": "https://open.spotify.com/track/17gnbzWdHVTpyZP6FUvo0E"
@@ -2799,7 +2817,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 386443,
       "name": "Voodoo? - Lazywax Remix",
       "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
@@ -2821,7 +2839,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 412537,
       "name": "V\u00edrus Do Amor - Krystal Klear Remix",
       "url": "https://open.spotify.com/track/3vLri456XBZfba2mTxATe3"
@@ -2875,7 +2893,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 260256,
       "name": "What Ya Here For?",
       "url": "https://open.spotify.com/track/27rjwJcRIohIoNI4GNewxo"
@@ -2985,7 +3003,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "Why You - Funkin Matt Remix",
       "url": "https://open.spotify.com/track/0fiLUTuGIXt733mRVK1evp"
@@ -3029,7 +3047,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 271475,
       "name": "You Ain't Love (feat. Teni Tinks)",
       "url": "https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN"
@@ -3091,7 +3109,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 156190,
       "name": "You Can Not Hold Back (feat. Koffee) - [Edit]",
       "url": "https://open.spotify.com/track/5hECCXn5TAixa5WkwTbv2i"

@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 159184,
       "name": "About You",
       "url": "https://open.spotify.com/track/2dzmO8gQgQQBFchqng9MKx"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 191688,
       "name": "Apart",
       "url": "https://open.spotify.com/track/04T6le39W5Z6lTTDSfWgt9"
@@ -622,6 +622,28 @@
     },
     {
       "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "album": {
         "name": "Do Me Right",
         "url": "https://open.spotify.com/album/3rlDZ5XSsqgZ4Rc8abVLNT"
       },
@@ -655,7 +677,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 217774,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/4E8A1xYxVFzI1Mb0ayWG0n"
@@ -941,7 +963,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 224390,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6FYiUGWk4P8mDKUCj5m7ID"
@@ -959,7 +981,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 137261,
       "name": "Feelin' U",
       "url": "https://open.spotify.com/track/2ULAqCna5PrSEtX1bJ5fYq"
@@ -999,7 +1021,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 147987,
       "name": "Feels",
       "url": "https://open.spotify.com/track/1sX4ucOwEW4sKN8pKaZnT8"
@@ -1217,7 +1239,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 235769,
       "name": "From the Start - Sonny Fodera Remix",
       "url": "https://open.spotify.com/track/1TwBpstXJvqY8KZ4Yk6rh1"
@@ -1605,10 +1627,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 174677,
       "name": "High (feat. S. MICHAUD)",
       "url": "https://open.spotify.com/track/63FsjVcPq3chbqv2Eih374"
+    },
+    {
+      "album": {
+        "name": "How Does It Feel (Endor Remix)",
+        "url": "https://open.spotify.com/album/4Tu0INRUlWeFZitjEF2fha"
+      },
+      "artists": [
+        {
+          "name": "Roger That (UK)",
+          "url": "https://open.spotify.com/artist/3QfdXTOt0oT3CWTg3eEMd1"
+        },
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205724,
+      "name": "How Does It Feel - Endor Remix",
+      "url": "https://open.spotify.com/track/7DZIsdlR2pUSmblHytDxUR"
     },
     {
       "album": {
@@ -1627,7 +1671,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 219047,
       "name": "Human (feat. Echoes)",
       "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
@@ -1787,7 +1831,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 144193,
       "name": "Is This Love?",
       "url": "https://open.spotify.com/track/2r2ZvX5PNP0MUfUN2HjEjl"
@@ -1827,7 +1871,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 223665,
       "name": "Just You and I - Paul Woolford Remix",
       "url": "https://open.spotify.com/track/2NBgfdrHa281oTjYQtublb"
@@ -1893,7 +1937,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 217741,
       "name": "Let Me Take You There (feat. Laura White)",
       "url": "https://open.spotify.com/track/5tuOGRYPjh5lV6M5zbNRNH"
@@ -1911,7 +1955,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 178606,
       "name": "Let\u2019s Just",
       "url": "https://open.spotify.com/track/1WcNMJDbf4LkWa5bFNNOUw"
@@ -2161,7 +2205,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 116554,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
@@ -2337,7 +2381,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 212093,
       "name": "Mega Chords - Edit",
       "url": "https://open.spotify.com/track/0nms4MMhjU9IJ3Fb2gE09e"
@@ -2605,7 +2649,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 185133,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/3AjzBL7fuEdboRnleIlPIw"
@@ -2675,7 +2719,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 170322,
       "name": "New Me - Goodboys Remix",
       "url": "https://open.spotify.com/track/3jom7cmWW3BSllNhZUdIip"
@@ -2719,7 +2763,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 193230,
       "name": "Nice To Meet Ya - Paul Woolford Remix",
       "url": "https://open.spotify.com/track/4O8wTbes6DyaqhC73LkAfF"
@@ -2777,7 +2821,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 180495,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/0ch3dHZLfhjbGJ2d8KbVA3"
@@ -2799,7 +2843,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 163957,
       "name": "On & On",
       "url": "https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd"
@@ -2821,7 +2865,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 193754,
       "name": "On A Mission",
       "url": "https://open.spotify.com/track/3qvf9mABpuuYtBcEtD1F0H"
@@ -2843,7 +2887,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 183727,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/560XM9FI9xl5H6RK8S1LqH"
@@ -2993,7 +3037,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 228387,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/15w5T3xUU5hWsAJ07ibn5B"
@@ -3037,7 +3081,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 191658,
       "name": "Promises",
       "url": "https://open.spotify.com/track/0TxWa5CQaY9bWticr0P5lM"
@@ -3139,7 +3183,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 148500,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/73jq7211BkvN8sl3E9PZjM"
@@ -3157,7 +3201,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 202023,
       "name": "Riser",
       "url": "https://open.spotify.com/track/73Szmmh8dQduG1jPY12zK8"
@@ -3219,7 +3263,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 188826,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/2xLx2E3oqQnoeW3rW8aX2J"
@@ -3237,7 +3281,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 238795,
       "name": "Say U Luv Me",
       "url": "https://open.spotify.com/track/5EmMaG8PMp7Z9Z3s7Xxcp7"
@@ -3321,7 +3365,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 208317,
       "name": "So Much Love (feat. Lloyd Wade)",
       "url": "https://open.spotify.com/track/6Z5rzJ6DefXJCzntIUYCWk"
@@ -3343,7 +3387,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 151436,
       "name": "So Sick",
       "url": "https://open.spotify.com/track/6ee7GQEkmWld8pGIl0E19Z"
@@ -3361,7 +3405,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 159375,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
@@ -3485,7 +3529,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/6glBnAWP0d0jNPeCMfAT3C"
@@ -3565,7 +3609,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 141946,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/588WlnobfkRMN1riVEOA2G"
@@ -3715,7 +3759,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 146412,
       "name": "The Music",
       "url": "https://open.spotify.com/track/4xfYNH75F5Ji7CJ1v0OMM9"
@@ -3825,7 +3869,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 157440,
       "name": "Thunder In My Heart Again",
       "url": "https://open.spotify.com/track/7iBHE8RK2DmkVpwUfnCqYB"
@@ -4047,7 +4091,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 216984,
       "name": "We Can Come Together",
       "url": "https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD"
@@ -4113,7 +4157,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 171178,
       "name": "What You Do To Me",
       "url": "https://open.spotify.com/track/6fwosYHgw98fyKpNTV96vk"
@@ -4179,7 +4223,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 169760,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/5IEJIouVka71hYZYpC2NZT"
@@ -4201,7 +4245,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 136120,
       "name": "Who Let The Dogs Out (feat. EVALINA)",
       "url": "https://open.spotify.com/track/5eF4cNJ30kdTXnlmUfN8dw"
@@ -4289,7 +4333,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Wish You Well - Benny Benassi Remix",
       "url": "https://open.spotify.com/track/49jQjsgh1bqjLW1UXGPIj2"
@@ -4325,7 +4369,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 172109,
       "name": "Won\u2019t Hold Back",
       "url": "https://open.spotify.com/track/3kmwh4EFTMTuDYlVkvm4MB"
@@ -4343,7 +4387,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 167829,
       "name": "Work It",
       "url": "https://open.spotify.com/track/6Fq0HPaq1viwpG5DshEsgs"
@@ -4457,7 +4501,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 176718,
       "name": "You Stole My Eyes",
       "url": "https://open.spotify.com/track/3EvWvgZLOZp5tZ3uojSChg"
@@ -4483,7 +4527,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"

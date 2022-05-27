@@ -498,6 +498,24 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Let Go",
+        "url": "https://open.spotify.com/album/2RQ5mV8lNxAzLRi8xKTgie"
+      },
+      "artists": [
+        {
+          "name": "Superbandy",
+          "url": "https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148760,
+      "name": "Don't Wanna Let Go",
+      "url": "https://open.spotify.com/track/3GINyEMoUV13pzJxNMuvxW"
+    },
+    {
+      "album": {
         "name": "Picturesque",
         "url": "https://open.spotify.com/album/1TLkNZ4uXScUE03mlYOnEe"
       },

@@ -1,36 +1,112 @@
 {
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z?si=jItz2h-iSlemR-OsB9l9_Q\" > Chris Brown </a>, <a href=\"https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=JC7f3NJITKOPcB7In_xIWg\" > Lojay </a> and  <a href=\"https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ?si=ZjvApdSBSkCgtGv_yt4YiA\" > Sarz </a> ",
-  "num_followers": 3761,
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV?si=VUZ6JT32TSWUEHgciPxO1A\" > Nonso Amadi </a> and <a href=\"https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk?si=JAedgucyRgO1t2lnUIdo5A\" > Majid Jordan </a> ",
+  "num_followers": 3792,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAwMTIwMCwwMDAwMDAxZTAwMDAwMTgwZGU4Y2EyMzYwMDAwMDE4MGRkN2QzN2U3",
+  "snapshot_id": "MTY1MzYwNjAwMCwwMDAwMDAxZjAwMDAwMTgxMDI5OTI2M2UwMDAwMDE4MTAxYzM1YmJi",
   "tracks": [
     {
-      "added_at": "2022-05-19 23:00:00",
+      "added_at": "2022-05-26 23:00:00",
       "album": {
-        "name": "Monalisa",
-        "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
+        "name": "Different (With Majid Jordan)",
+        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         },
         {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
         }
       ],
-      "duration_ms": 212975,
-      "name": "Monalisa",
-      "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
+      "duration_ms": 146400,
+      "name": "Different (With Majid Jordan)",
+      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
+    },
+    {
+      "added_at": "2022-01-13 23:01:00",
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/1lOAu6ugGCM0WVXfmdwEnO"
+      },
+      "artists": [
+        {
+          "name": "Manny Nort\u00e9",
+          "url": "https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5"
+    },
+    {
+      "added_at": "2022-05-26 23:00:00",
+      "album": {
+        "name": "Poppin'",
+        "url": "https://open.spotify.com/album/16HLb3NFsQ4lZj405mBHyG"
+      },
+      "artists": [
+        {
+          "name": "Django23",
+          "url": "https://open.spotify.com/artist/6idAEKryH3ywILH6WYFWZ9"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "TSB",
+          "url": "https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ"
+        }
+      ],
+      "duration_ms": 181463,
+      "name": "Poppin'",
+      "url": "https://open.spotify.com/track/582GTwikEv86oVKjYvfwcM"
     },
     {
       "added_at": "2022-04-29 06:37:22",
@@ -55,6 +131,74 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "Antidote (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Antidote (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
+    },
+    {
+      "added_at": "2022-05-26 23:00:00",
+      "album": {
+        "name": "blessing me (with Pa Salieu & Skillibeng)",
+        "url": "https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 165507,
+      "name": "blessing me (with Pa Salieu & Skillibeng)",
+      "url": "https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn"
+    },
+    {
+      "added_at": "2022-05-19 23:00:00",
+      "album": {
+        "name": "Monalisa",
+        "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 212975,
+      "name": "Monalisa",
+      "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -105,24 +249,28 @@
       "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
     },
     {
-      "added_at": "2022-01-13 23:01:00",
+      "added_at": "2022-05-26 23:00:00",
       "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
+        "name": "Sidung Pun It",
+        "url": "https://open.spotify.com/album/4sPVkb6wM1tNS5wNKpG1HY"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
         },
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Dee Mad",
+          "url": "https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI"
         }
       ],
-      "duration_ms": 187111,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
+      "duration_ms": 175590,
+      "name": "Sidung Pun It",
+      "url": "https://open.spotify.com/track/2708ppz0oLzi7tF3VxN5f0"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -163,6 +311,26 @@
       "duration_ms": 192417,
       "name": "Fountains (with Tems)",
       "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
+    },
+    {
+      "added_at": "2022-05-26 23:00:00",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/4mirrfYpCpG8UeXFskfWal"
+      },
+      "artists": [
+        {
+          "name": "Bbanner",
+          "url": "https://open.spotify.com/artist/1LpLNp9LL2xCWOBPbxbQcG"
+        },
+        {
+          "name": "Daev Zambia",
+          "url": "https://open.spotify.com/artist/4WzzjGo80jU0oO6mPMrJZW"
+        }
+      ],
+      "duration_ms": 164874,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6cCwQS0nqtrMLkpkp6MPvo"
     },
     {
       "added_at": "2022-01-27 23:00:00",
@@ -515,38 +683,6 @@
     {
       "added_at": "2021-10-08 09:53:07",
       "album": {
-        "name": "4AM",
-        "url": "https://open.spotify.com/album/1lOAu6ugGCM0WVXfmdwEnO"
-      },
-      "artists": [
-        {
-          "name": "Manny Nort\u00e9",
-          "url": "https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "4AM",
-      "url": "https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
         "name": "Be My Guest",
         "url": "https://open.spotify.com/album/1RB15GJ8izqSFg1r0Qsykm"
       },
@@ -711,30 +847,6 @@
       "duration_ms": 205640,
       "name": "Play Play (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
-    },
-    {
-      "added_at": "2022-04-29 06:37:22",
-      "album": {
-        "name": "Ameno Amapiano (You Wanna Bamba) [David Guetta Remix]",
-        "url": "https://open.spotify.com/album/1YnSmb1qSLezxZiksdBHxS"
-      },
-      "artists": [
-        {
-          "name": "Goya Menor",
-          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
-        },
-        {
-          "name": "Nektunez",
-          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 163998,
-      "name": "Ameno Amapiano (You Wanna Bamba) - David Guetta Remix",
-      "url": "https://open.spotify.com/track/5PgFDViEidcISOm5GGAIBG"
     },
     {
       "added_at": "2022-05-19 23:00:00",
@@ -923,54 +1035,6 @@
       "duration_ms": 213892,
       "name": "Shopping Spree (feat. Chris Brown & Young Thug)",
       "url": "https://open.spotify.com/track/1ln2sDL64h9Y0PJIrUogM6"
-    },
-    {
-      "added_at": "2022-02-11 13:07:23",
-      "album": {
-        "name": "Peru (Remix)",
-        "url": "https://open.spotify.com/album/4Kg4K6I165RgFvAnWy14Md"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 186952,
-      "name": "Peru - Remix",
-      "url": "https://open.spotify.com/track/7voSun33hCNkIrjxaj3g47"
-    },
-    {
-      "added_at": "2022-04-29 06:37:22",
-      "album": {
-        "name": "Lane",
-        "url": "https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH"
-      },
-      "artists": [
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "Powers Pleasant",
-          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
-        }
-      ],
-      "duration_ms": 162462,
-      "name": "Lane",
-      "url": "https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG"
     },
     {
       "added_at": "2022-03-16 08:59:36",
@@ -1501,26 +1565,6 @@
       "url": "https://open.spotify.com/track/2fY21NO9Y9Z2pWCdMTeXkR"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "End Of The Wicked (feat. Octavian)",
-        "url": "https://open.spotify.com/album/2vmesnUCYuJIc4ROqDN8vJ"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "Octavian",
-          "url": "https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ"
-        }
-      ],
-      "duration_ms": 186341,
-      "name": "End Of The Wicked (feat. Octavian)",
-      "url": "https://open.spotify.com/track/44wbg5P53VGNBCtg9nxYtm"
-    },
-    {
       "added_at": "2022-03-11 00:00:00",
       "album": {
         "name": "Random",
@@ -1589,26 +1633,6 @@
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "Antidote (feat. Adekunle Gold)",
-        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "Antidote (feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
-    },
-    {
       "added_at": "2022-02-17 23:01:00",
       "album": {
         "name": "Touch It (Remix)",
@@ -1627,26 +1651,6 @@
       "duration_ms": 181973,
       "name": "Touch It - Remix",
       "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Killa (feat. DaVido)",
-      "url": "https://open.spotify.com/track/46YL800EFmXBhOjab7MLsy"
     },
     {
       "added_at": "2021-10-08 09:53:07",

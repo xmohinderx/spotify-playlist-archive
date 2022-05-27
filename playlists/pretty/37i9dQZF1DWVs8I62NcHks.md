@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 
 > All your favorite <a href="spotify:user:128899670">Disney</a> classics, new and old\. Cover: <a href="spotify:album:6WjuMbjLJHdI0EwjJR9ChA">Forky and Woody</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,851,790 likes - 79 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,852,000 likes - 79 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

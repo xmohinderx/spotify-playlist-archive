@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-116 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
+117 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Mitigation](https://open.spotify.com/track/7CTMv3eJZ3mQ618kZWAb6f) | [Lorne Kroos](https://open.spotify.com/artist/6Wk6weno4MPG3dutdTNbDD) | [Mitigation](https://open.spotify.com/album/6CqhHR1DRyQHasTVtE7aHN) | 3:31 | 2021-12-10 |  |
 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 | 2021-12-10 |  |
 | [Monsoon](https://open.spotify.com/track/7e0gtNaxjn49Mj9rwPCJaC) | [Tokyo Atmospheres](https://open.spotify.com/artist/2hoYdIIKopoBO1KV3QvK1r) | [Tokyo Atmospheres](https://open.spotify.com/album/6ycai16HNU5VpoOq9XILmF) | 3:51 | 2021-12-10 |  |
+| [Moon Stage](https://open.spotify.com/track/2t4CN8rtDkodRYxYYhAAvL) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Moon Stage](https://open.spotify.com/album/42JKz2NOIzax2Erclm0Mmu) | 3:16 | 2022-05-26 |  |
 | [Moonstone](https://open.spotify.com/track/5VvSeHFi0obsd0Dx1dbsYi) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Moonstone](https://open.spotify.com/album/2O8POj7EMwBTPpnMtuL3MM) | 3:26 | 2021-12-10 |  |
 | [Nordic Light](https://open.spotify.com/track/0qzsmjWYgiSIRNFrTEEsdP) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [Nordic Light](https://open.spotify.com/album/6uDC98RwRaAcFQzvmnteKU) | 3:23 | 2021-12-10 |  |
 | [Ocean Park](https://open.spotify.com/track/6PnaH2MuhcqRxXQe7UNQRX) | [Hong Kong Atmosphere](https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj) | [Hong Kong Atmosphere](https://open.spotify.com/album/2LBrlYHFKRYCKdrE6pRdlB) | 4:42 | 2021-12-10 |  |
@@ -119,7 +120,7 @@
 | [Vitality \- Relaxing Music for Zen Meditation and Deep Breathing](https://open.spotify.com/track/2XEZOoJC9nu2o5k3DpDyC6) | [Spa Music Collective](https://open.spotify.com/artist/58yicdDBopSJkQdBVZqCbs) | [Mediterranea Spa Music \- Mediterranean Spa Music\. Relaxation Meditation Healing Music for Deep Meditation, Reiki, Massage, Chakra, Yoga and Tai Chi\. Relaxing Sounds from the Islands in the Sun](https://open.spotify.com/album/1SInC2a5j6Kyunocj3PEE2) | 5:38 | 2021-12-10 |  |
 | [Voyage De La Nuit](https://open.spotify.com/track/24lJCQciPgJBhRrij2Faa5) | [Ignace Lamar](https://open.spotify.com/artist/1isXKlJdwhM1qWvvIMxZja) | [Voyage De La Nuit](https://open.spotify.com/album/0xbHriOJdjYspeBXZtQzwv) | 3:21 | 2021-12-10 |  |
 | [Vrede en rust](https://open.spotify.com/track/4MLInfMhS1GoMiaYCFGlS6) | [Dries Wold](https://open.spotify.com/artist/7nUGsX8XXGenXjcE2ZLMEv) | [Vrede en rust \(Ambient Version\)](https://open.spotify.com/album/4XL60eMczS4oQssVRz0ExD) | 2:38 | 2021-12-10 |  |
-| [Yearning](https://open.spotify.com/track/5P8ysr5kiAe0KFWoFDCdQH) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [My Promise](https://open.spotify.com/album/7LQpg0w7maGxH5uzSMi1Jm) | 3:44 | 2021-12-10 |  |
+| [Yearning](https://open.spotify.com/track/5P8ysr5kiAe0KFWoFDCdQH) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [My Promise](https://open.spotify.com/album/7LQpg0w7maGxH5uzSMi1Jm) | 3:44 | 2021-12-10 | 2022-05-27 |
 | [Yes/No \- Sanctuary Mix](https://open.spotify.com/track/3PQGFShoKzMowJlPgysF0Y) | [Tao Lounge](https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD) | [Yes/No](https://open.spotify.com/album/0AuCl70u1UOvujYyoAbMH3) | 3:53 | 2021-12-10 |  |
 | [You Are Loved](https://open.spotify.com/track/0QYlKxVXf0pCnFzHIxNFBl) | [Sam Eber](https://open.spotify.com/artist/5KzipUgM2we3eTM3n2VrLk) | [You Are Loved](https://open.spotify.com/album/0fPrAx93fmY0y7WVlvxjIH) | 2:40 | 2021-12-10 |  |
 | [Zeroes](https://open.spotify.com/track/32MYi4KuEh2z2gdT2XD80r) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Zeroes](https://open.spotify.com/album/1gSPQ3HDP7ffBBpvaPiawI) | 3:14 | 2022-03-03 |  |

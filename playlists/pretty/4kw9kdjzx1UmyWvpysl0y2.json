@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128380,
+  "num_followers": 128379,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQyNSw2MTVmMzQyYmNjMDUyZmQ5MDZlMWE3MDc3YWFhODE0MmYwZmUwYjQw",
+  "snapshot_id": "MzQyNyxmZDUyMGYwNTY4MDZmZGZlNGI5ZWZmNThjY2I4ZmQ5OTA2MDQzNWEx",
   "tracks": [
+    {
+      "added_at": "2022-05-26 17:37:44",
+      "album": {
+        "name": "The Chase",
+        "url": "https://open.spotify.com/album/5ihPWCYA0YE9mPIScQAQMG"
+      },
+      "artists": [
+        {
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
+        },
+        {
+          "name": "Asdek",
+          "url": "https://open.spotify.com/artist/2rxubOde1svVDYAVDy7PDS"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Right Through",
+      "url": "https://open.spotify.com/track/4KyDMzlS1tynHxn3t6SpIJ"
+    },
     {
       "added_at": "2022-05-25 16:40:08",
       "album": {
@@ -1059,26 +1079,6 @@
       "duration_ms": 168000,
       "name": "As I Wander",
       "url": "https://open.spotify.com/track/4z9xtib1MazaujgJmSBxUB"
-    },
-    {
-      "added_at": "2022-03-15 16:25:47",
-      "album": {
-        "name": "& Friends",
-        "url": "https://open.spotify.com/album/2ISFdlM8xYsp5D2Vndh6Br"
-      },
-      "artists": [
-        {
-          "name": "CloudNone",
-          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
-        },
-        {
-          "name": "Half an Orange",
-          "url": "https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp"
-        }
-      ],
-      "duration_ms": 223125,
-      "name": "Tarantino",
-      "url": "https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

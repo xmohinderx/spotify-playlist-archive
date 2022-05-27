@@ -1,31 +1,95 @@
 {
-  "description": "La scena italiana indipendente, senza etichette di genere. Cover: Forse Danzica",
-  "num_followers": 3962,
+  "description": "La scena italiana indipendente, senza etichette di genere. Cover: Hanami",
+  "num_followers": 3970,
   "original_name": "Fresh Finds Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjk5NzY2MCwwMDAwMDA1MzAwMDAwMTgwZGU1NjllMmIwMDAwMDE4MGRiNWY1ZDU2",
+  "snapshot_id": "MTY1MzYwMjQ2MCwwMDAwMDA1NDAwMDAwMTgxMDI2MzIxZjcwMDAwMDE4MTAxMmE0ZDA2",
   "tracks": [
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
-        "name": "Lunaire",
-        "url": "https://open.spotify.com/album/4yoxH6CFV5aVbUE8Pb8HBm"
+        "name": "Punto e a capo",
+        "url": "https://open.spotify.com/album/1mB5d9KmlC62drAZxz4BVd"
       },
       "artists": [
         {
-          "name": "Forse Danzica",
-          "url": "https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT"
+          "name": "Hanami",
+          "url": "https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe"
         }
       ],
-      "duration_ms": 175199,
-      "name": "Porpora",
-      "url": "https://open.spotify.com/track/4wQlWWwxQn2MD5bowV2BwV"
+      "duration_ms": 187874,
+      "name": "Punto e a capo",
+      "url": "https://open.spotify.com/track/5avRtlxCtBeeGKqTilmkeq"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
+      "album": {
+        "name": "Piccoli problemi",
+        "url": "https://open.spotify.com/album/4fdrb9tRtt4mfIFCzBGzZ2"
+      },
+      "artists": [
+        {
+          "name": "Schiuma",
+          "url": "https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD"
+        }
+      ],
+      "duration_ms": 179629,
+      "name": "Piccoli problemi",
+      "url": "https://open.spotify.com/track/0l4AdVfyK4ZI1aNqomkrqA"
+    },
+    {
+      "added_at": "2022-05-26 22:01:00",
+      "album": {
+        "name": "L'amore su Tinder",
+        "url": "https://open.spotify.com/album/52F2qZX6vqgGh8jbuv5kmc"
+      },
+      "artists": [
+        {
+          "name": "Nane'",
+          "url": "https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM"
+        }
+      ],
+      "duration_ms": 143850,
+      "name": "L'amore su Tinder",
+      "url": "https://open.spotify.com/track/5epRVbuwPkQBzG9WhMGcJJ"
+    },
+    {
+      "added_at": "2022-05-26 22:01:00",
+      "album": {
+        "name": "Bambola Voodoo",
+        "url": "https://open.spotify.com/album/4YB2aocfThCA4TwEBCxoKK"
+      },
+      "artists": [
+        {
+          "name": "Alek",
+          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
+        }
+      ],
+      "duration_ms": 152090,
+      "name": "Bambola Voodoo",
+      "url": "https://open.spotify.com/track/6JMMfFMl3Y6Jo2CZMWGqIQ"
+    },
+    {
+      "added_at": "2022-05-26 22:01:00",
+      "album": {
+        "name": "sottosopra",
+        "url": "https://open.spotify.com/album/6moVQ2cDgTKftRE7o4uzXM"
+      },
+      "artists": [
+        {
+          "name": "nudda",
+          "url": "https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2"
+        }
+      ],
+      "duration_ms": 155178,
+      "name": "sottosopra",
+      "url": "https://open.spotify.com/track/3XLlNaKrCllDtrQaFLb0dG"
+    },
+    {
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Rotterdam",
         "url": "https://open.spotify.com/album/5Hh1Yp8l8vZNDaNGS5mAco"
@@ -41,7 +105,7 @@
       "url": "https://open.spotify.com/track/0zyw45b8liedkjfjOUbPnQ"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Entropia Padrepio",
         "url": "https://open.spotify.com/album/1fs6tfBsU6HOl9Oa6IKnEN"
@@ -57,7 +121,7 @@
       "url": "https://open.spotify.com/track/2Kann8MkDiYwDutctlgxyX"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Zero",
         "url": "https://open.spotify.com/album/743Abmv04PR3012wIg5YPM"
@@ -77,7 +141,7 @@
       "url": "https://open.spotify.com/track/4acda42yRN6yGsdhx5ATk1"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "incanto e disperazione",
         "url": "https://open.spotify.com/album/6lgVUezh5I5lcpeY4fXfR7"
@@ -97,39 +161,23 @@
       "url": "https://open.spotify.com/track/0RGLCsDEjY7rR3Fjnq31M8"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
-        "name": "L'amore su Tinder",
-        "url": "https://open.spotify.com/album/52F2qZX6vqgGh8jbuv5kmc"
+        "name": "Lunaire",
+        "url": "https://open.spotify.com/album/4yoxH6CFV5aVbUE8Pb8HBm"
       },
       "artists": [
         {
-          "name": "Nane'",
-          "url": "https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM"
+          "name": "Forse Danzica",
+          "url": "https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT"
         }
       ],
-      "duration_ms": 143850,
-      "name": "L'amore su Tinder",
-      "url": "https://open.spotify.com/track/5epRVbuwPkQBzG9WhMGcJJ"
+      "duration_ms": 175199,
+      "name": "Porpora",
+      "url": "https://open.spotify.com/track/4wQlWWwxQn2MD5bowV2BwV"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
-      "album": {
-        "name": "Piccoli problemi",
-        "url": "https://open.spotify.com/album/4fdrb9tRtt4mfIFCzBGzZ2"
-      },
-      "artists": [
-        {
-          "name": "Schiuma",
-          "url": "https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD"
-        }
-      ],
-      "duration_ms": 179629,
-      "name": "Piccoli problemi",
-      "url": "https://open.spotify.com/track/0l4AdVfyK4ZI1aNqomkrqA"
-    },
-    {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "XXYBRID",
         "url": "https://open.spotify.com/album/7HZLxzOOyomjSwoJA0bvKL"
@@ -145,7 +193,7 @@
       "url": "https://open.spotify.com/track/178YagFa1fETe8OgcscaOw"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "NON MI MANCHER\u00c0",
         "url": "https://open.spotify.com/album/6Wu3HEdVUbmwZ2BICF09KI"
@@ -177,39 +225,7 @@
       "url": "https://open.spotify.com/track/4DCFKVrzCozNnViabJHLqN"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
-      "album": {
-        "name": "sottosopra",
-        "url": "https://open.spotify.com/album/6moVQ2cDgTKftRE7o4uzXM"
-      },
-      "artists": [
-        {
-          "name": "nudda",
-          "url": "https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2"
-        }
-      ],
-      "duration_ms": 155178,
-      "name": "sottosopra",
-      "url": "https://open.spotify.com/track/3XLlNaKrCllDtrQaFLb0dG"
-    },
-    {
-      "added_at": "2022-05-19 22:01:00",
-      "album": {
-        "name": "Bambola Voodoo",
-        "url": "https://open.spotify.com/album/4YB2aocfThCA4TwEBCxoKK"
-      },
-      "artists": [
-        {
-          "name": "Alek",
-          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
-        }
-      ],
-      "duration_ms": 152090,
-      "name": "Bambola Voodoo",
-      "url": "https://open.spotify.com/track/6JMMfFMl3Y6Jo2CZMWGqIQ"
-    },
-    {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "OSHILLANDO",
         "url": "https://open.spotify.com/album/3Y10kwsCYiafagyaxiGdRI"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/1Cs7Oazl4HcOM6mxBCQ4VX"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Foot Forward",
         "url": "https://open.spotify.com/album/6e3Yr0Yj7NM3ejYig0CyMK"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/3Dm9mSyalSfqHdUPX5TLyR"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/7vbidq5v7PoumjBZhzHfJ0"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/17o45MbE29kKZoGpWh2YvN"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "ORBO",
         "url": "https://open.spotify.com/album/6UYDYZNV39L4V138niJ2Pf"
@@ -277,7 +293,7 @@
       "url": "https://open.spotify.com/track/4VBCWRlrzDNxyjBEfuubST"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "HOUDINI",
         "url": "https://open.spotify.com/album/4B9YmfMSiJXlMLeDpoJylM"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/18JurzXlXmAHu0IbyW3LpA"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Sigo Huyendo",
         "url": "https://open.spotify.com/album/418ZTQIv5lGORXmPNWSfXn"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/11CqiCkod0sGMRBB28exxh"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Il suono che ho dentro alla testa",
         "url": "https://open.spotify.com/album/7qhpdfM1CRlV3DDrBIqSI2"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/6MfiKVSAiknuYP9XUXQYFg"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Nello spazio che resta",
         "url": "https://open.spotify.com/album/7iBkLpL1ghee8Tq1p1aQSm"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/0W0SMEJD7H9ep8Oveg5l1S"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Acne",
         "url": "https://open.spotify.com/album/4p88bKpzYsdGIVUtkQUsby"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/0ptiXSFzFDGqD9IkMUzdms"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "A\u0160",
         "url": "https://open.spotify.com/album/0rEUENxnbqXDRvd6NAZSYE"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/6lICy5xp0iuiFkrRE7IFfv"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "rumore",
         "url": "https://open.spotify.com/album/6Df36t7ZnuyRgRrAdzHhEi"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/7bb3x5zJRxyh58LZfCauN7"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Montagnarussa",
         "url": "https://open.spotify.com/album/7n7Vfn20UUHqmghFTuUTxe"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/7DqOvcg7JluBWkrj1P8dtR"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/2L11I1HBuWIlrTBBRjXuFi"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/32lSBUAwseG81GL0VjeXEz"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "eCooltra",
         "url": "https://open.spotify.com/album/2QezV8f0vA8mkSBoglGa2v"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/0gME98nlmJ3ELluzumLK9U"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "paralosofia",
         "url": "https://open.spotify.com/album/2xJLLXbjGnMBJElImH9SMn"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/3n4VTinSBZKzxXyWiVTGUN"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "14 maglioni",
         "url": "https://open.spotify.com/album/0zo6gjnu4amNEtB7fmXSlL"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/33Ndf9fuy6Kc9Zwta2wKUE"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": ".cenere",
         "url": "https://open.spotify.com/album/4J1KwARJ9A7sioJiQyXBiO"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/4VhfCuUVbNOS9zpLMCUv7Y"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Piatti Sporchi",
         "url": "https://open.spotify.com/album/3MTwNIztPZS019lqYKKuUP"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/6QliTzcKrwZDZ4riRy7IL8"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "peso",
         "url": "https://open.spotify.com/album/3b5BAQ20h2VRaeXR7ZB5hG"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/5tlyVD3W2yvAgnK2l9HkDD"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Santa Barbara",
         "url": "https://open.spotify.com/album/6xSHoiffbCCqrRf6h4EI4r"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/0FR32DeyHC4UhnPujAbMMh"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/2NfGUOifngHawKceRRzsn6"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/4tIQReYfn7HqUd2ngDUGeB"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Serramanico Farfalla",
         "url": "https://open.spotify.com/album/10ggwPJhklVqNIl9ef9Qcp"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/3GCTfmatkqze9rwqcMVvMb"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Regina",
         "url": "https://open.spotify.com/album/0INRunmIEZ3RmTVJwlIChS"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/1XQWXDjAALCMDNDGRH40o6"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Scuse",
         "url": "https://open.spotify.com/album/6CmdaqnNkVBijCoYNveXRK"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/23If7giarQ3qk3Rx0AYSq6"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "I figli degli altri",
         "url": "https://open.spotify.com/album/0pBDpnqaruZbsNDn1a0rzR"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/3dsMyJ5lR9ammFyy8G4RjE"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "GENESI",
         "url": "https://open.spotify.com/album/56X9IjteFWhd17bAUkzxYw"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/1LEeORXqVV1mrikm04YVyu"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Altar of Love",
         "url": "https://open.spotify.com/album/0sNyVY1V8HcZCIp4MIQ5Fr"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/3cBrcj7y4bxf28L248hchQ"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Lucido",
         "url": "https://open.spotify.com/album/4Nr8JYO6KoWqJ7ylP1vYIZ"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/0wWHA2fRW21xXpPprVWxdc"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Fantasma quattro",
         "url": "https://open.spotify.com/album/0oZgsmX3fhOoZlhvrTfvGH"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/5av6NKEUJksROjH1AayoEw"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "ESAGERO EMOZIONI",
         "url": "https://open.spotify.com/album/5PPlMx6qAuRLiIm8IEYpqJ"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/4LwFRgfMW5LCStueaVtGh8"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Non ti scordar di me",
         "url": "https://open.spotify.com/album/7tUCuhD58UCoPcOqFTNzqg"
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/7oEm3YZ68SZMkNV7GVNP4C"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/2RGUJun6AQFdrsZ29xy37C"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/1hEsQqngL8iq7IwsoTjB9O"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Universo",
         "url": "https://open.spotify.com/album/76ekt5JP6roqnpBrp3pu9I"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "LUNES",
         "url": "https://open.spotify.com/album/5rMv8OvpZ9HTyTn5UkGeO5"
@@ -793,31 +809,7 @@
       "url": "https://open.spotify.com/track/3ux6HhWQNXS4fjTGuyZcru"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
-      "album": {
-        "name": "L\u2019industria, il pop, la camera, il sesso",
-        "url": "https://open.spotify.com/album/5eI8V3EE321knkysf7pkPH"
-      },
-      "artists": [
-        {
-          "name": "SANO",
-          "url": "https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3"
-        },
-        {
-          "name": "Alice",
-          "url": "https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk"
-        },
-        {
-          "name": "Lucky lapolo",
-          "url": "https://open.spotify.com/artist/10BLKtKUuaAx5mUu14ipFo"
-        }
-      ],
-      "duration_ms": 123250,
-      "name": "Per difetto della crescita",
-      "url": "https://open.spotify.com/track/6vkDQEKmEvSQy2oGwRN4hH"
-    },
-    {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Verso il sole",
         "url": "https://open.spotify.com/album/1vSSdQIi5vVKoxSP7a6k8S"
@@ -833,7 +825,7 @@
       "url": "https://open.spotify.com/track/6vGGKNQnH91ZvSo1rVIAQv"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Mandostai",
         "url": "https://open.spotify.com/album/61R7YYgrlixF9cu9HhkDqO"
@@ -853,7 +845,7 @@
       "url": "https://open.spotify.com/track/3tkNO7r9FKCqNfQUTmDbnO"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Resto a casa",
         "url": "https://open.spotify.com/album/2IiiRQm9S8Iq3Vp5tyMLIH"
@@ -873,7 +865,7 @@
       "url": "https://open.spotify.com/track/1FKOEl0vzCzjFtHX8tm17U"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Tutti ammassati senza affetto",
         "url": "https://open.spotify.com/album/68kEQqgumoIrBGHQeD9aBH"

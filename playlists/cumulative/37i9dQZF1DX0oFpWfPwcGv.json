@@ -24,6 +24,24 @@
     },
     {
       "album": {
+        "name": "Northern Soul Keep the Faith",
+        "url": "https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pennington",
+          "url": "https://open.spotify.com/artist/4RREsGLwQNfpiQQ6cID4KR"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192240,
+      "name": "24 Hours a Day",
+      "url": "https://open.spotify.com/track/3hGTJe3xGgJKTR39eg6pIN"
+    },
+    {
+      "album": {
         "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
         "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
       },
@@ -403,7 +421,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 265773,
       "name": "Earth Can Be Just Like Heaven",
       "url": "https://open.spotify.com/track/2JtOzmQZb3aJjfvrVt73hF"
@@ -735,6 +753,24 @@
       "duration_ms": 339946,
       "name": "Keep On Jumpin'",
       "url": "https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF"
+    },
+    {
+      "album": {
+        "name": "Twelve Inch Classics from the 70s, Vol. 2",
+        "url": "https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa"
+      },
+      "artists": [
+        {
+          "name": "Voyage",
+          "url": "https://open.spotify.com/artist/0LmhgMzqvIdR5ZPF1imPL6"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407800,
+      "name": "Lady America",
+      "url": "https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd"
     },
     {
       "album": {
@@ -1165,7 +1201,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 338973,
       "name": "Sinner Man",
       "url": "https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8"

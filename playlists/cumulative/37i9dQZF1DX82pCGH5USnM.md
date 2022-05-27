@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-498 songs - 1 day 6 hr 11 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
+501 songs - 1 day 6 hr 24 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 | 2021-05-06 | 2021-09-09 |
 | [Get Over](https://open.spotify.com/track/4cTbzyrSwc9bs6Z3v6I26y) | [Chigali](https://open.spotify.com/artist/2lj8o2lWicGYd4qY2jWKmz) | [Get Over](https://open.spotify.com/album/3ZyU5uKTIk3cJe4lnuZX1X) | 3:05 | 2021-11-08 |  |
 | [glacial](https://open.spotify.com/track/5T0E6sSBSdlHOGOvUnJRx2) | [Tiriba](https://open.spotify.com/artist/1SYHJDCUZirC4azFR67geQ) | [glacial](https://open.spotify.com/album/4jw8875Q5wwxTWJ63OEw8g) | 3:35 | 2022-02-10 |  |
+| [glacial groove](https://open.spotify.com/track/0mdhMQbwDjPZHMkHnYGI05) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [glacial groove](https://open.spotify.com/album/5qS4a7yssrmqkMEmwcvhWx) | 2:33 | 2022-05-27 |  |
 | [glitched persona](https://open.spotify.com/track/6xjkq0eR4c9p13N0eUwBlL) | [flimr](https://open.spotify.com/artist/5vHRm6RYYD4ZH6IqOP45kj) | [glitched persona](https://open.spotify.com/album/69thvbzNrILEUNRA3F2q16) | 3:08 | 2021-06-02 |  |
 | [Glossy](https://open.spotify.com/track/2OgaU9No7zapiI2AbUbPej) | [Pancake Cult](https://open.spotify.com/artist/7j1asNU2p73kg81enrHXDb) | [Glossy](https://open.spotify.com/album/2EMOjkmqb8WcLWn39fkCd5) | 2:48 | 2021-04-15 |  |
 | [Glow](https://open.spotify.com/track/70gpJ5jdQntbdwQD0Yg0wl) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:47 | 2020-12-24 |  |
@@ -264,6 +265,7 @@
 | [Mediterranea](https://open.spotify.com/track/6WyxIRWwje9OjziaplhUVJ) | [Thirsty Ear](https://open.spotify.com/artist/6RqaxUVExoKE01pPo39A2e) | [Mediterranea](https://open.spotify.com/album/6XOJlEUYi2uRbPwWqBfm6u) | 4:21 | 2021-06-16 |  |
 | [Mellow Trouble](https://open.spotify.com/track/4MVCzATZ6mpXsZ1sLz7QYn) | [Sin.Clare](https://open.spotify.com/artist/5TNJ1DPxBNr0rBHWuyeo3w) | [Mellow Trouble](https://open.spotify.com/album/6kZ8F8oIo2Ze1izmthGiuS) | 2:54 | 2021-11-08 |  |
 | [Memorabilia](https://open.spotify.com/track/1JlnKS9CRXwCJWemv0T1qY) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Somersault](https://open.spotify.com/album/6Z8ui5WDN0XbsgJhr9y0f5) | 3:07 | 2021-11-08 |  |
+| [Memory](https://open.spotify.com/track/7rj1844JpGdaUxZ7eBzC4N) | [Braga Circuit](https://open.spotify.com/artist/7KP3UUwog2y9yJ4eQYGhM6) | [Residue](https://open.spotify.com/album/5jCG760PSLUwLPRuepAvfC) | 6:43 | 2022-05-27 |  |
 | [Mercenary](https://open.spotify.com/track/6T1iFdKQKR0UlOfOgscs3d) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Mercenary EP](https://open.spotify.com/album/5hPAFj34PSDDN7ztz0ouKu) | 5:50 | 2021-06-02 | 2021-08-20 |
 | [Midding](https://open.spotify.com/track/2jqPyoAGWAaxfjtHj8DZAb) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Midding](https://open.spotify.com/album/09KIZqC3nwi1nWWrb0Z0eL) | 7:32 | 2020-12-16 | 2020-12-24 |
 | [Milano](https://open.spotify.com/track/23LxW8Ssmlpn4GjFrnDTFs) | [Ludvig Freso](https://open.spotify.com/artist/6EL8Sngq7vN8aVAjWmLivS) | [Metropolis](https://open.spotify.com/album/1DV8uae8K8K94y3W2RUHMW) | 1:59 | 2020-04-03\* | 2021-08-20 |
@@ -422,7 +424,7 @@
 | [Sun Time](https://open.spotify.com/track/6bo1me9qHBypbaYu7BBQjF) | [Yelloo Hill](https://open.spotify.com/artist/7H0V1WLSqhcvm772huQ8ke) | [Sun Time](https://open.spotify.com/album/2GFprs0AQbp3DBsnRDsaad) | 2:09 | 2021-01-05 | 2021-09-09 |
 | [Sunday](https://open.spotify.com/track/5u4dNVgfChjREYJ6KeNuJ4) | [Clément Leroux](https://open.spotify.com/artist/3MttWEEoyq7W9MjHEBaKhG) | [Sunday](https://open.spotify.com/album/2gSV7HKvVIXMgo8ZgpDPwm) | 3:58 | 2020-04-14 | 2021-03-25 |
 | [Sundown](https://open.spotify.com/track/09PSpnj9hH0kpoRDRWucVW) | [Coconut & Palm Trees](https://open.spotify.com/artist/5BLqpPJJkxoP3M03obHi1K) | [Sundown](https://open.spotify.com/album/26X1IbQSHXNSFmRCZTuz03) | 2:57 | 2020-12-02 |  |
-| [Sundrops](https://open.spotify.com/track/52IP2gussRMFDPay7Ww5xv) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Sundrops](https://open.spotify.com/album/0BWBsXcUuMzjcUpWC5ofNh) | 5:03 | 2022-05-13 |  |
+| [Sundrops](https://open.spotify.com/track/52IP2gussRMFDPay7Ww5xv) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Sundrops](https://open.spotify.com/album/0BWBsXcUuMzjcUpWC5ofNh) | 5:03 | 2022-05-13 | 2022-05-27 |
 | [Sunny Daydream](https://open.spotify.com/track/3YqJWoEXBf9UQ0vxbB39av) | [Ocean Lights](https://open.spotify.com/artist/2rCoNCmsCtzV7fQyhKvQ8Z) | [Sunny Daydream](https://open.spotify.com/album/404mBSjQ9FRsqQoejpLaUe) | 2:46 | 2021-08-20 |  |
 | [Sunny Nelson \(Edit\)](https://open.spotify.com/track/7gLfZIkrjUTwypnhFp6Get) | [Abel Tasman](https://open.spotify.com/artist/4D2dWZ7uyVyqDj3Ah05Xtr) | [Sunny Nelson \(Edit\)](https://open.spotify.com/album/67hBb3jhTHYrHk9Dtfy5bR) | 3:48 | 2021-11-08 |  |
 | [Sunrider](https://open.spotify.com/track/57BjBUlKLXpzvveTapqUDP) | [Relŭm](https://open.spotify.com/artist/2KLneUbYr9ASsmFfZWIdYo) | [Sunrider](https://open.spotify.com/album/4TKpipN1yJhJO53XX1H9RA) | 2:08 | 2022-05-13 |  |
@@ -436,7 +438,7 @@
 | [Swirling](https://open.spotify.com/track/6rT6BWrpnlGhEFSKPLyyKZ) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Swirling](https://open.spotify.com/album/10iE2kgjrk3KZTtK14ukbX) | 2:58 | 2021-05-06 | 2021-09-22 |
 | [Swoosh](https://open.spotify.com/track/2d5fQd2dmrPfWd0CCqelkP) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Swoosh](https://open.spotify.com/album/3WUfj10ZPtllBAqGRsnQGu) | 3:02 | 2020-10-27 |  |
 | [Symbiosis](https://open.spotify.com/track/1ZdsZcijEFam8ABkebkKZX) | [Jiungsu](https://open.spotify.com/artist/3QXLTPHUZakK8KDFCBS43I) | [Symbiosis](https://open.spotify.com/album/7umm0ZxYJpYBeKZsuqvRnC) | 2:40 | 2021-01-15 | 2021-03-25 |
-| [tagada](https://open.spotify.com/track/0dZF0uYtRqO8jiomWHPaaI) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [tagada](https://open.spotify.com/album/47wnVoEyYSQHT1zKMbJkAN) | 2:26 | 2022-05-20 |  |
+| [tagada](https://open.spotify.com/track/0dZF0uYtRqO8jiomWHPaaI) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [tagada](https://open.spotify.com/album/47wnVoEyYSQHT1zKMbJkAN) | 2:26 | 2022-05-20 | 2022-05-27 |
 | [Taking Polaris](https://open.spotify.com/track/4PkVCSor0FoPx1X2FGJ9gR) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Taking Polaris EP](https://open.spotify.com/album/0mIW9wjcZgEg57Nz957jYP) | 4:43 | 2021-03-18 | 2021-09-22 |
 | [Talk Lines](https://open.spotify.com/track/4PoR5o9KrxitDT6gXwHTiQ) | [Blue Sirens](https://open.spotify.com/artist/3YwGWRtqEYqYHrz7mmz9aM) | [Talk Lines](https://open.spotify.com/album/5fVn1HrAPRaZrKandc6KtL) | 3:51 | 2020-11-11 | 2021-04-21 |
 | [Talk To Me](https://open.spotify.com/track/0LaErT2gDG7iZhHDKrrb2v) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [Talk To Me](https://open.spotify.com/album/53caWippf1sBtHtsD2qEKL) | 2:59 | 2021-03-18 |  |
@@ -456,6 +458,7 @@
 | [This is my Island](https://open.spotify.com/track/6jpYu1hpYh7jioilkeRQnz) | [Pure Indigo](https://open.spotify.com/artist/0kuQZf585oUCcp9aIKbgMu) | [Short and Sweet](https://open.spotify.com/album/0s21Rk25Kwhi4xPy8AYDhV) | 2:30 | 2020-08-04 | 2021-03-25 |
 | [Through The Night](https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Luminous](https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0) | 4:00 | 2020-04-03\* | 2021-02-10 |
 | [Tide](https://open.spotify.com/track/06pkN4tQun4WHnSzh2i0Mu) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Zanzibar](https://open.spotify.com/album/2jNYFdsgDIqY1iR4xIXVLE) | 3:30 | 2020-04-03\* | 2021-03-18 |
+| [Tide](https://open.spotify.com/track/4BBlimMXFek1ZFyCafeEVY) | [Solicit](https://open.spotify.com/artist/4BgSaBlB2eULHaOUtXSgys) | [Tide](https://open.spotify.com/album/4gDzDcwlRZ5zDGfduf9lJw) | 3:11 | 2022-05-27 |  |
 | [time to cry](https://open.spotify.com/track/6LqDDloFVL2RkcV1ImAyW2) | [robi](https://open.spotify.com/artist/2yRQV9I2707gOoMNQWyEva) | [dreamin' II](https://open.spotify.com/album/1wAVW1mM6A3VDa0KKdT9xb) | 3:14 | 2021-03-18 |  |
 | [Time Traveller](https://open.spotify.com/track/6VHSgqxQmWHlFuQKk1tX1x) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:53 | 2020-12-24 | 2021-05-06 |
 | [Timeless](https://open.spotify.com/track/3zrvk5iut6ltcoANWvFjew) | [Jay FM](https://open.spotify.com/artist/0XHQV1DM8cqEJrB4gRuogs) | [Timeless](https://open.spotify.com/album/25siAHIonuO0gRho31QhFS) | 4:54 | 2020-04-03\* | 2020-11-19 |

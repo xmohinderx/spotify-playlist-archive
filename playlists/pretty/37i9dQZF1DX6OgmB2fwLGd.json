@@ -1,13 +1,33 @@
 {
   "description": "The soundtrack to the Internet. Check out <a href=\"spotify:show:3oTlNRRUyazgdUpWZYdvd5\">Internet People Live</a> on Tuesdays at 8pm EST. Cover: Armani White",
-  "num_followers": 1119076,
+  "num_followers": 1119480,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQzMzg2MSwwMDAwMDMyYTAwMDAwMTgwZjg1NjgzY2UwMDAwMDE4MGRlNTEwZWE5",
+  "snapshot_id": "MTY1MzU3NzA3MywwMDAwMDMyYjAwMDAwMTgxMDBkZmMxYTYwMDAwMDE4MGRlNTEwZWE5",
   "tracks": [
+    {
+      "added_at": "2022-05-26 14:57:53",
+      "album": {
+        "name": "Die Young (feat. 347aidan)",
+        "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 148816,
+      "name": "Die Young (feat. 347aidan)",
+      "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
+    },
     {
       "added_at": "2022-04-29 08:17:00",
       "album": {
@@ -53,40 +73,20 @@
       "url": "https://open.spotify.com/track/0w6webWdhjRKdqJ3DeGgM1"
     },
     {
-      "added_at": "2022-05-24 23:11:01",
+      "added_at": "2022-05-26 14:57:53",
       "album": {
-        "name": "SICK!",
-        "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
+        "name": "What We Have",
+        "url": "https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2"
       },
       "artists": [
         {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "Summrs",
+          "url": "https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN"
         }
       ],
-      "duration_ms": 148027,
-      "name": "2010",
-      "url": "https://open.spotify.com/track/7ze7yEV1xvxPxuPaF0oUUU"
-    },
-    {
-      "added_at": "2022-05-24 18:22:56",
-      "album": {
-        "name": "We Not Humping (Remix)",
-        "url": "https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk"
-      },
-      "artists": [
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 143325,
-      "name": "We Not Humping - Remix",
-      "url": "https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm"
+      "duration_ms": 142716,
+      "name": "just cant",
+      "url": "https://open.spotify.com/track/4DCSx7XCBxYWuc71WL02j2"
     },
     {
       "added_at": "2022-05-13 06:44:00",
@@ -119,6 +119,66 @@
       "duration_ms": 99282,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI"
+    },
+    {
+      "added_at": "2022-05-26 14:57:53",
+      "album": {
+        "name": "Old English - Single",
+        "url": "https://open.spotify.com/album/7Bl87kMIXjddIKqaQhdxra"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 201960,
+      "name": "Old English",
+      "url": "https://open.spotify.com/track/7hcjkFjIyw8vsUOVIDlcmS"
+    },
+    {
+      "added_at": "2022-05-24 18:22:56",
+      "album": {
+        "name": "We Not Humping (Remix)",
+        "url": "https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 143325,
+      "name": "We Not Humping - Remix",
+      "url": "https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm"
+    },
+    {
+      "added_at": "2022-05-24 23:11:01",
+      "album": {
+        "name": "SICK!",
+        "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 148027,
+      "name": "2010",
+      "url": "https://open.spotify.com/track/7ze7yEV1xvxPxuPaF0oUUU"
     },
     {
       "added_at": "2022-03-28 17:37:45",
@@ -1005,26 +1065,6 @@
       "url": "https://open.spotify.com/track/3hyLwD3Z23VDx2SXRdEg9B"
     },
     {
-      "added_at": "2022-04-29 08:17:00",
-      "album": {
-        "name": "Pray 4 Shakewell",
-        "url": "https://open.spotify.com/album/5MvMCCP60gI97W1rcbwvhF"
-      },
-      "artists": [
-        {
-          "name": "Shakewell",
-          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
-        },
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Solutions",
-      "url": "https://open.spotify.com/track/17LtbDMKmsO5zTOqVAM27x"
-    },
-    {
       "added_at": "2022-04-08 04:05:00",
       "album": {
         "name": "556 (Green Tip) (Spotem G-Mix)",
@@ -1181,6 +1221,22 @@
       "url": "https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv"
     },
     {
+      "added_at": "2022-02-02 22:22:20",
+      "album": {
+        "name": "In My Sins",
+        "url": "https://open.spotify.com/album/4GENTWizn55KM44eriqNq8"
+      },
+      "artists": [
+        {
+          "name": "Jx.Zero",
+          "url": "https://open.spotify.com/artist/3mMSaohBdsQgDKFmsJ5n2d"
+        }
+      ],
+      "duration_ms": 152450,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/45GDh5cZcRVOAyQqZWxiUt"
+    },
+    {
       "added_at": "2022-03-16 14:34:49",
       "album": {
         "name": "Super Urus",
@@ -1247,6 +1303,22 @@
       "duration_ms": 171453,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD"
+    },
+    {
+      "added_at": "2022-02-16 18:42:33",
+      "album": {
+        "name": "Rocking A Cardigan in Atlanta",
+        "url": "https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95"
+      },
+      "artists": [
+        {
+          "name": "lil Shordie Scott",
+          "url": "https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I"
+        }
+      ],
+      "duration_ms": 96825,
+      "name": "Rocking A Cardigan in Atlanta",
+      "url": "https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"
     },
     {
       "added_at": "2022-02-16 18:47:12",
@@ -1355,42 +1427,6 @@
       "duration_ms": 188500,
       "name": "Dat Way",
       "url": "https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo"
-    },
-    {
-      "added_at": "2022-04-29 08:17:00",
-      "album": {
-        "name": "MIDNIGHT",
-        "url": "https://open.spotify.com/album/5l7cOhvgltRPUTJlkZlXee"
-      },
-      "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "Overpade",
-          "url": "https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q"
-        }
-      ],
-      "duration_ms": 196736,
-      "name": "OUT THE WINDOW (feat. Overpade)",
-      "url": "https://open.spotify.com/track/7nI9OipD1znuQKuPG9zBRq"
-    },
-    {
-      "added_at": "2022-02-02 22:22:20",
-      "album": {
-        "name": "In My Sins",
-        "url": "https://open.spotify.com/album/4GENTWizn55KM44eriqNq8"
-      },
-      "artists": [
-        {
-          "name": "Jx.Zero",
-          "url": "https://open.spotify.com/artist/3mMSaohBdsQgDKFmsJ5n2d"
-        }
-      ],
-      "duration_ms": 152450,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/45GDh5cZcRVOAyQqZWxiUt"
     },
     {
       "added_at": "2022-03-24 18:06:44",
@@ -1703,38 +1739,6 @@
       "duration_ms": 164828,
       "name": "Cmonnn (Hit It One Time)(feat. Lay Bankz)",
       "url": "https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM"
-    },
-    {
-      "added_at": "2022-02-16 18:42:33",
-      "album": {
-        "name": "Rocking A Cardigan in Atlanta",
-        "url": "https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95"
-      },
-      "artists": [
-        {
-          "name": "lil Shordie Scott",
-          "url": "https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I"
-        }
-      ],
-      "duration_ms": 96825,
-      "name": "Rocking A Cardigan in Atlanta",
-      "url": "https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"
-    },
-    {
-      "added_at": "2022-03-01 21:29:51",
-      "album": {
-        "name": "RGB",
-        "url": "https://open.spotify.com/album/71t3ZOUKRMBw0lp3N6yR2M"
-      },
-      "artists": [
-        {
-          "name": "CRASH RARRI",
-          "url": "https://open.spotify.com/artist/2c2ekMthLByoJhFMLLl2Ch"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "RGB",
-      "url": "https://open.spotify.com/track/08hDpMZBxJ11C4Eev0cXvt"
     },
     {
       "added_at": "2022-03-04 05:04:00",

@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU?si=C6nQ\_9wUR7eMr7OkUxjt\-A"> BURUKLYN BOYZ </a>
 
-101 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/6lFDRmAzLffN6r39zEBvaL)
+102 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/6lFDRmAzLffN6r39zEBvaL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [CATALYST](https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:44 | 2022-05-19 |  |
 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 | 2021-10-14 |  |
 | [Culture](https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V) | 3:28 | 2022-03-11 |  |
-| [danser](https://open.spotify.com/track/576lLNRA4HnejTI5Q0c3zd) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [danser](https://open.spotify.com/album/2fmRDcnFbSR2T9oxDVcXPw) | 2:24 | 2022-02-17 |  |
+| [danser](https://open.spotify.com/track/576lLNRA4HnejTI5Q0c3zd) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [danser](https://open.spotify.com/album/2fmRDcnFbSR2T9oxDVcXPw) | 2:24 | 2022-02-17 | 2022-05-27 |
 | [David](https://open.spotify.com/track/04C965GjVjZ5QkqpykklEB) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [B4Now](https://open.spotify.com/album/0n3oKXQQknEwbBywUgiBzp) | 3:52 | 2021-10-14 | 2022-05-06 |
 | [Deposit](https://open.spotify.com/track/4HtPflwFZLKZrP3sUgWhuw) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s) | ["EHH Baby" The Big Bang Theory](https://open.spotify.com/album/06obGxxDKWf1Y7KqSILWIo) | 2:08 | 2022-05-12 |  |
 | [DRK SKN](https://open.spotify.com/track/15LjBARGx20a8qAiNF4T0H) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Arrested by Love](https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8) | 3:01 | 2022-02-17 | 2022-05-13 |
@@ -51,6 +51,7 @@
 | [Jack](https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Jack](https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx) | 2:22 | 2021-10-14 |  |
 | [Jungle Music, Pt\. 2](https://open.spotify.com/track/14K8hW2G2QR14sN5nl0VG1) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 2:53 | 2022-04-21 |  |
 | [K:HOVA](https://open.spotify.com/track/3mmOgsd9IPJHkPnpWqW7zE) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [K:HOVA](https://open.spotify.com/album/6AzOdHvhPZXnAcKeZFWxxa) | 3:24 | 2021-10-14 | 2022-03-08 |
+| [Khuphuka](https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Khuphuka](https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj) | 3:03 | 2022-05-26 |  |
 | [KingSize](https://open.spotify.com/track/3Up92OTxG9rcnWCGrB26w9) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [FUEGO](https://open.spotify.com/album/2UBVY8AKfYWYJuIwamCbuE) | 3:40 | 2021-11-18 | 2022-02-03 |
 | [Koobi](https://open.spotify.com/track/197R5eZFfywBrXGQ6tBofH) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1) | [Koobi](https://open.spotify.com/album/67NQONOlbvJVe4qlCf2llO) | 2:40 | 2022-02-17 |  |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-03-31 |  |

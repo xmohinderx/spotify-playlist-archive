@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-118 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+120 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Classic](https://open.spotify.com/track/1oSACtYTXU47tpiYnPAgt5) | [Tony Bones The Producer](https://open.spotify.com/artist/3a9BCUwqB1bnRFuegvAFD7) | [Magic Roundabout](https://open.spotify.com/album/1znaGWauyGfsGRtOh3DK3Q) | 2:37 | 2021-11-11 |  |
 | [Colours \- Instrumental](https://open.spotify.com/track/5mCZhBTtSRx1Ioy0F6rXDI) | [The Last Skeptik](https://open.spotify.com/artist/31LnFifS3x9FTENleAl6Eq) | [How Not to Make a Living \(Instrumentals\)](https://open.spotify.com/album/0RUwjgoghq5OHo5nqbMCxU) | 3:16 | 2021-11-11 |  |
 | [Coolin'](https://open.spotify.com/track/5rxier09NkNgBJyJWKTeuz) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Celebrity Shills](https://open.spotify.com/album/3zjAT49W7WVkm8AGQBsFTQ) | 2:10 | 2021-11-11 |  |
+| [Cotton Candy](https://open.spotify.com/track/5pDR1Z9j4FCTK0EbVQLH5z) | [U\-WARRIOR](https://open.spotify.com/artist/0VaCOtKG226cWSr9GQVeeN), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Cotton Candy](https://open.spotify.com/album/2C3TpTptiDdkNIqp0iZXGV) | 2:00 | 2022-05-27 |  |
 | [Couchsurfing](https://open.spotify.com/track/74aOxMVG9XAoPiT0fG5qpj) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Great Wall](https://open.spotify.com/album/1cIrpDpM4wsxbM4qoKbXnR) | 1:53 | 2021-11-11 |  |
 | [Cruise](https://open.spotify.com/track/2SHOKzFqELTLPVnmVAUH2u) | [Trap McGrady](https://open.spotify.com/artist/48NVhVESjFx8fte6W9Bwte) | [Love Trap](https://open.spotify.com/album/6D6WhJox7MrEtsxJwO0Xfb) | 3:23 | 2021-11-11 |  |
 | [CupaJoe](https://open.spotify.com/track/3Mdkh1U3f1jBheP7nNlBAa) | [xJ\-Will](https://open.spotify.com/artist/14QbOxlbZBCybkcI60L96Z) | [CupaJoe](https://open.spotify.com/album/0xg4bBhWQksiKERlaIaq02) | 2:40 | 2021-11-11 | 2022-05-20 |
@@ -81,6 +82,7 @@
 | [Naru](https://open.spotify.com/track/3s9p5XqMCrTuUmTkVNNacS) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Naru](https://open.spotify.com/album/2UFCvN7iuvVsbCMjVfggnJ) | 1:45 | 2022-05-13 | 2022-05-20 |
 | [New Era](https://open.spotify.com/track/3dHpf96vSkzBaO5f6J4Wxr) | [Flawless Delivery](https://open.spotify.com/artist/0LpzTJIg9AOD4ix4dsRRlf), [Solrakmi](https://open.spotify.com/artist/5XGMQDMtmKNgCPrQ9FqUfL) | [New Era](https://open.spotify.com/album/0GjENKCnXAvIlIJxhcMXlM) | 2:50 | 2022-04-15 |  |
 | [Ninetofive](https://open.spotify.com/track/4vrJiLtAsycPuLAkSTVqPk) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Beat Aesthetics](https://open.spotify.com/album/384S9zPWlZBE4E8Td4ljsE) | 2:51 | 2021-11-11 | 2022-05-20 |
+| [Noon Sun](https://open.spotify.com/track/0aQS97evenPCEFvmLmBiU8) | [Ph\-Wert](https://open.spotify.com/artist/4wJm4uz3KH4gc5en3BdB5q), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH), [Kimo Slice](https://open.spotify.com/artist/4BMLPQERX4TiFtGZx5sxCi) | [Noon Sun](https://open.spotify.com/album/5GAK5l6ThW59sjelZwCwjC) | 3:17 | 2022-05-27 |  |
 | [Nothing Changed](https://open.spotify.com/track/1NAllfYf8F5ncZL2GcLsbC) | [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve) | [Nothing Changed](https://open.spotify.com/album/4E8YcQ4mA19bPQayQB2nkv) | 2:35 | 2022-05-20 |  |
 | [Old Enough To Party](https://open.spotify.com/track/1toZcQ10Fj2q2kFlM6f7e3) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Superpad](https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4) | 1:08 | 2021-11-11 |  |
 | [Old Tram](https://open.spotify.com/track/3nFoFJdKjaIEdJcNuEcIZB) | [Ozelot](https://open.spotify.com/artist/0EGqP4H6r2Fc7VquwjgMtY) | [Old Tram](https://open.spotify.com/album/1o3IAb8iXLdEeUmj6tfbTf) | 2:10 | 2022-02-18 |  |

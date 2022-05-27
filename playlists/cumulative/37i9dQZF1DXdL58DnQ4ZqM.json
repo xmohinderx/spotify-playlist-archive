@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 94057,
       "name": "Cloud",
       "url": "https://open.spotify.com/track/2EFNJLGkcJjIXHB278MsBX"
@@ -1415,7 +1415,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 128533,
       "name": "frozen in time",
       "url": "https://open.spotify.com/track/0svu0FglIbYrONwXZEde7C"
@@ -1437,7 +1437,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 144923,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/4NlgvYgF7rny6rt17WCmGf"
@@ -1705,7 +1705,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 198095,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/2i9pf2ND4dFpbmXvwyuYEA"
@@ -1907,6 +1907,24 @@
       "duration_ms": 220227,
       "name": "Intangible",
       "url": "https://open.spotify.com/track/3Z8vGZDmQtLwHBgb60qB9s"
+    },
+    {
+      "album": {
+        "name": "Alchemize",
+        "url": "https://open.spotify.com/album/1Kkm0yv8LjrLjovohnLYWx"
+      },
+      "artists": [
+        {
+          "name": "EMERLD",
+          "url": "https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/5uChHTtvgiLcKXBLaAtsb7"
     },
     {
       "album": {
@@ -2969,7 +2987,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 156176,
       "name": "Purple haze visions",
       "url": "https://open.spotify.com/track/3Cpp6MnBh61sOa47oLvGqv"

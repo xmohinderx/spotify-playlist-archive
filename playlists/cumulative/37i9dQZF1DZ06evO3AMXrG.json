@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 246066,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/0JgjwTH0UqqsEtJo6f3rl1"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 263933,
       "name": "Fruto de la Tierra",
       "url": "https://open.spotify.com/track/7L0E4HQmpPLDIWhpDqYJez"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 359640,
       "name": "Lo de M\u00e1s",
       "url": "https://open.spotify.com/track/2dGEk23cZuItJTjvFWvWro"
@@ -590,6 +590,24 @@
     },
     {
       "album": {
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344493,
+      "name": "No Me Interesa",
+      "url": "https://open.spotify.com/track/1lIBlgWFQCN9zLwUaUMJfL"
+    },
+    {
+      "album": {
         "name": "La Dulzura",
         "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
       },
@@ -605,6 +623,24 @@
       "duration_ms": 296618,
       "name": "Para Estar",
       "url": "https://open.spotify.com/track/2wrQ0tzuFnKj9BVgIsVcwV"
+    },
+    {
+      "album": {
+        "name": "Tribute to the Legend Bob Marley (Live)",
+        "url": "https://open.spotify.com/album/1a13hH48fVZwvpODjcnjoi"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256533,
+      "name": "Pimper's Paradise - Live",
+      "url": "https://open.spotify.com/track/0hN3PFAINvpvhjV4v6CmTu"
     },
     {
       "album": {
@@ -829,6 +865,24 @@
       "duration_ms": 242400,
       "name": "Te Cre\u00ed",
       "url": "https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n de Alerta",
+        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217160,
+      "name": "Tempestad Tranquila",
+      "url": "https://open.spotify.com/track/7yTgayrV0QMrB20nTzWdB8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Relax to the sound of jazz.
 
-187 songs - 17 hr 46 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
+188 songs - 17 hr 53 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Simplicity](https://open.spotify.com/track/2R1vQwYTC0sl93C6oyVuHC) | [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF) | [25 Years](https://open.spotify.com/album/4GDYdHheKfIOBMjqOgTK6k) | 5:09 | 2020-10-09 |  |
 | [So in Love](https://open.spotify.com/track/1Kez08abn4yr3T7hbCeW3i) | [Nestor Torres](https://open.spotify.com/artist/25z14Qw0e8uN0dIaWVe2Mk) | [Jazz Flute Traditions](https://open.spotify.com/album/3zSMrISTkz9nnCwzn7VNAT) | 8:25 | 2020-10-09 | 2022-02-18 |
 | [So Lovely](https://open.spotify.com/track/0Ya7lMXJGmETT1G3bW0uX2) | [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC) | [From Here I See](https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc) | 5:40 | 2020-10-09 |  |
+| [Solitude](https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni) | [Daniel Guggenheim Quartet](https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt) | [Red Orange and Blue](https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA) | 7:12 | 2022-05-26 |  |
 | [Sometimes It Snows in April](https://open.spotify.com/track/1hbmJ6JjAVMEUtcT0l5wrd) | [David Halliday](https://open.spotify.com/artist/1tPE7mBsjG1eu2w2BikKry) | [Sometimes It Snows in April](https://open.spotify.com/album/12OuGKWyIlWqFVHInfPp9D) | 9:49 | 2021-04-30 | 2022-02-18 |
 | [Song For Abdullah \- Bonus](https://open.spotify.com/track/20qnvRo3H9PHXH6tn5EP6G) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [Song For Abdullah \(Bonus\)](https://open.spotify.com/album/1kMu4gZ7JETRcICwMmJTdA) | 6:11 | 2022-01-28 |  |
 | [Song for Ellis](https://open.spotify.com/track/4Uecyf82f85MdvnGLA4SWE) | [Aldo Romano](https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF) | [Mélodies en noir & blanc](https://open.spotify.com/album/019jkstAav7gCfwinh0asK) | 4:25 | 2020-10-09 |  |

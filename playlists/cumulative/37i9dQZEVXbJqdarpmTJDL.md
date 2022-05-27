@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-736 songs - 1 day 16 hr 10 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+737 songs - 1 day 16 hr 13 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Allo Class](https://open.spotify.com/track/6BRcfiMW72tcTFde2gsPUZ) | [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [Aliteia](https://open.spotify.com/album/0P6s8gS6LcV2V1tkDl7cXY) | 2:51 | 2021-04-17 | 2021-05-03 |
 | [Already Dead](https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Already Dead](https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil) | 3:51 | 2021-11-14 | 2021-11-14 |
 | [ALYX](https://open.spotify.com/track/00x2d2mKSaUrCNTNxH7CYN) | [Sigma](https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow) | [ALYX](https://open.spotify.com/album/6UT9roGeXdIUkfIGXU1WUG) | 2:47 | 2021-10-30 | 2021-11-05 |
-| [Amarties](https://open.spotify.com/track/7AaxFtkinG6n5fw6ZUuxHE) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Amarties](https://open.spotify.com/album/0NkYD3ByHYn3i0iTMPzHHu) | 2:45 | 2022-01-19 |  |
+| [Amarties](https://open.spotify.com/track/7AaxFtkinG6n5fw6ZUuxHE) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Amarties](https://open.spotify.com/album/0NkYD3ByHYn3i0iTMPzHHu) | 2:45 | 2022-01-19 | 2022-05-27 |
 | [Amnesia](https://open.spotify.com/track/7AeJhLrw5gWEh2p0yQKAGE) | [Sigma](https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow), [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH) | [Amnesia](https://open.spotify.com/album/1RsM7nU3ULcuuL6H11EsGP) | 3:20 | 2021-06-04 | 2021-10-23 |
 | [An](https://open.spotify.com/track/2w40y6rlhc1FzbtsV2QrU5) | [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu) | [An](https://open.spotify.com/album/4ZYLzSRoK60bAvqUwcGFVl) | 3:43 | 2021-12-14 | 2022-04-02 |
 | [Anapantites](https://open.spotify.com/track/2pydsgLB77gocwSQINmZEV) | [Ypo](https://open.spotify.com/artist/2ZXlAIBIejTdK0VlfsAqMV), [Lil PoP](https://open.spotify.com/artist/6Z53MNjWyTH16xE6hXwttS), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [Tesla](https://open.spotify.com/album/0sScRh4fH6mjdteRBi6u7m) | 2:33 | 2021-03-27\* | 2021-03-27 |
@@ -695,6 +695,7 @@
 | [Ttg](https://open.spotify.com/track/2VtwLRUgXEebI1DTGJTOCb) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale](https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G) | 3:10 | 2021-06-05 | 2021-07-04 |
 | [TuTu](https://open.spotify.com/track/0fep7TqVwzN36mhWZSslHZ) | [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw) | [TuTu](https://open.spotify.com/album/1tsom7EiIbjmZAm91jFel8) | 2:26 | 2021-05-23 | 2021-05-27 |
 | [TV](https://open.spotify.com/track/0ftxzdYSC6sb5IvV2TjozK) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Phen](https://open.spotify.com/artist/3Or7sFYK0roAEy6IznZP5q) | [1987](https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4) | 3:32 | 2022-01-14 | 2022-02-19 |
+| [Twerk](https://open.spotify.com/track/3QRTR8yxz65LpXgzzFC16O) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw) | [Twerk](https://open.spotify.com/album/13WCCXYqVyjYDCX9FvNuKC) | 2:36 | 2022-05-26 |  |
 | [UFO](https://open.spotify.com/track/6cdGwjL8ZmoCwrhYtgOV0Q) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Money and Drugs Can't Live In Poverty](https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC) | 2:20 | 2022-04-29 | 2022-05-14 |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-26 | 2021-12-27 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-16 |

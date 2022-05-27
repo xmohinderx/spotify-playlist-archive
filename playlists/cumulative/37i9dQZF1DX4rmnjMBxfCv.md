@@ -2,9 +2,9 @@
 
 ### [mint نعنع](https://open.spotify.com/playlist/37i9dQZF1DX4rmnjMBxfCv)
 
-> Dance and electronic Arabic songs\. Cover: Shkoon & Ragheb Alama.
+> Dance and electronic Arabic songs\. Cover: R3hab, Elyanna & Balti.
 
-51 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
+52 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Fe Hetta Tanya](https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Hetta Tanya](https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF) | 4:17 | 2022-03-30 |  |
 | [Fein Mchiti](https://open.spotify.com/track/3AJQUzPULtbagemZSWt96n) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Fein Mchiti](https://open.spotify.com/album/1BznSouUFyp6fZBgQPe3tF) | 3:36 | 2022-03-30 |  |
 | [Galbek Ween](https://open.spotify.com/track/6v0bOBKwDxzpkXhoi14FpN) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Galbek Ween](https://open.spotify.com/album/0y4SxrazWfNf55cdxhZ0v7) | 3:42 | 2022-03-30 |  |
+| [Ghareeb Alay \- R3HAB Remix](https://open.spotify.com/track/1U2BAJq4kvET6pN9gZnOvv) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ghareeb Alay \(R3HAB Remix\)](https://open.spotify.com/album/78zVdyVqcYzpQNQWBWVjQv) | 2:02 | 2022-05-26 |  |
 | [Habibi Ana](https://open.spotify.com/track/06wwtZKCpnImRq1N9Sg3k5) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [Habibi Ana](https://open.spotify.com/album/7k0LvrMEmMVoAoL9JztDFU) | 4:34 | 2022-03-30 |  |
 | [Hadi Ya Baher](https://open.spotify.com/track/53Szvpaq39xEpsFFUQ6a7E) | [Palmtherapy by DrNR](https://open.spotify.com/artist/2uPDdfOwM6OE4GFiWEO3ho), [Mawal Lotfi](https://open.spotify.com/artist/3d9xYfE0pPF4VuZQMW7lAN) | [Hadi Ya Baher](https://open.spotify.com/album/6wGy4mcOpjbXhjLvOrwBEe) | 3:01 | 2022-03-30 |  |
 | [Haleq Maa'y](https://open.spotify.com/track/56o5roP1Xff5WUbBK6UaZM) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl), [Mirelle Mokhtar](https://open.spotify.com/artist/72qojRuTcRlpvPehi30h7p) | [Haleq Maa'y](https://open.spotify.com/album/1FS3LAQp4oMKsCqMnI19OW) | 4:21 | 2022-03-30 |  |

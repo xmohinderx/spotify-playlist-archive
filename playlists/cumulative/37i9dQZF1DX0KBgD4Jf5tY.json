@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "La scena italiana indipendente, senza etichette di genere. Cover: Forse Danzica",
+  "description": "La scena italiana indipendente, senza etichette di genere. Cover: Hanami",
   "name": "Fresh Finds Italia",
   "published_playlist_ids": [
     "7DW4xNQc4jVEAVd25UPTmP"
@@ -2679,7 +2679,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 123250,
       "name": "Per difetto della crescita",
       "url": "https://open.spotify.com/track/6vkDQEKmEvSQy2oGwRN4hH"
@@ -2867,6 +2867,24 @@
       "duration_ms": 164246,
       "name": "PREMI PLAY",
       "url": "https://open.spotify.com/track/3X1l6zRsguD3Fiiw9Aa1Be"
+    },
+    {
+      "album": {
+        "name": "Punto e a capo",
+        "url": "https://open.spotify.com/album/1mB5d9KmlC62drAZxz4BVd"
+      },
+      "artists": [
+        {
+          "name": "Hanami",
+          "url": "https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187874,
+      "name": "Punto e a capo",
+      "url": "https://open.spotify.com/track/5avRtlxCtBeeGKqTilmkeq"
     },
     {
       "album": {

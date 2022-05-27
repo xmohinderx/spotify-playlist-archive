@@ -4,7 +4,7 @@
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-283 songs - 16 hr 19 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+284 songs - 16 hr 22 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Shadows \- yuma\. Remix](https://open.spotify.com/track/5oBDL51usxMSTaHhoZKvBP) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Shadows \(yuma\. Remix\)](https://open.spotify.com/album/1pYL0hLGCEyVI1WByNW0q8) | 3:30 | 2021-07-24 | 2021-08-21 |
 | [Shipwreck](https://open.spotify.com/track/4nzXOL0cDe90TzBB1ZKIBT) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Shipwreck / My World](https://open.spotify.com/album/7KuX0qEAZtyeC6O1R0YYna) | 4:03 | 2021-03-06 | 2021-11-27 |
 | [Sky Is Crying](https://open.spotify.com/track/0VH9sKPtKbkxllpqyYmJ7E) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sky Is Crying](https://open.spotify.com/album/1QMNjCy5KoPIu45sIU59s8) | 4:24 | 2021-03-26 | 2021-04-03 |
+| [Sleepless](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Sleepless](https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9) | 2:45 | 2022-05-26 |  |
 | [Sleepless](https://open.spotify.com/track/0AQ1twwDGVlIVpcHDkGkXD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Sleepless](https://open.spotify.com/album/4YnRwV3h9R5SrDyp3PYUYH) | 3:05 | 2021-04-24 | 2021-05-08 |
 | [Slow Down \(feat\. Jorja Smith\) \- Vintage Culture & Slow Motion Remix](https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I) | [Slow Down \(feat\. Jorja Smith\) \[Vintage Culture & Slow Motion Remix\]](https://open.spotify.com/album/3AvjrWwSEgfZs0Ic7Srt8b) | 3:01 | 2020-09-15 | 2021-01-02 |
 | [So High \(feat\. Maths Time Joy\)](https://open.spotify.com/track/6dJjTYKHnGWsoEciR4F2YL) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr), [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK) | [So High \(feat\. Maths Time Joy\)](https://open.spotify.com/album/5nel6SmpP1TrXX3Ci9XXPx) | 3:52 | 2021-03-08 | 2021-06-12 |

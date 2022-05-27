@@ -1,15 +1,39 @@
 {
-  "description": "Napoli e il meglio della scena campana. Cover: LIBERATO",
-  "num_followers": 130824,
+  "description": "Napoli e il meglio della scena campana. Cover: Lele Blade",
+  "num_followers": 130879,
   "original_name": "Int 'o Rione",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQwNjMzNSwwMDAwMDE2YjAwMDAwMTgwZjZiMjgyNTkwMDAwMDE4MDk4OWY1YzU4",
+  "snapshot_id": "MTY1MzYwMjQ2MCwwMDAwMDE2YzAwMDAwMTgxMDI2MzIxZWIwMDAwMDE4MGY2YjdjYjA5",
   "tracks": [
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
+      "album": {
+        "name": "AMBIZIONE",
+        "url": "https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV"
+      },
+      "artists": [
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 163749,
+      "name": "Jump (feat. Lazza)",
+      "url": "https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP"
+    },
+    {
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "LIBERATO II",
         "url": "https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ"
@@ -25,7 +49,23 @@
       "url": "https://open.spotify.com/track/60NC3OqjiISKBYbscb8vW3"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
+      "album": {
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 165721,
+      "name": "Password",
+      "url": "https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr"
+    },
+    {
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
@@ -45,47 +85,7 @@
       "url": "https://open.spotify.com/track/1kcwsO1ptrEMXsHtcIGPjI"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
-      "album": {
-        "name": "AMBIZIONE",
-        "url": "https://open.spotify.com/album/7ojtnqVHOa5Z5GvUHWqfzL"
-      },
-      "artists": [
-        {
-          "name": "Lele Blade",
-          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
-        },
-        {
-          "name": "Poison Beatz",
-          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
-        },
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "No Joke (feat. MadMan)",
-      "url": "https://open.spotify.com/track/3PFDJgtrBif1ORn5As2hly"
-    },
-    {
-      "added_at": "2022-05-24 15:32:15",
-      "album": {
-        "name": "Dove Volano Le Aquile",
-        "url": "https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 165721,
-      "name": "Password",
-      "url": "https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr"
-    },
-    {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "OMBRELLO",
         "url": "https://open.spotify.com/album/4lsRAH0c7Bi7mFSRReZQMk"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/7yxJ1UAV4FrpGsOiQrp1WV"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Salvatore",
         "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/3qWKjLK0EKxylouzVaiTwh"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "WE THE SQUAD Vol. 1",
         "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/2s8Y2ksyWf6xsh2O6CLZzF"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/1ma63HYdwGlXmVhrQdgnTW"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "NO MONEY MORE LOVE",
         "url": "https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/5Q3mrwEwMxlHmphyJn5aQz"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "LIBERATO II",
         "url": "https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ"
@@ -209,7 +209,31 @@
       "url": "https://open.spotify.com/track/2zS0OYlDeXF6iNLougbIFL"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
+      "album": {
+        "name": "Parln e me",
+        "url": "https://open.spotify.com/album/5jDlmOcNuu9f7134Q3wg2i"
+      },
+      "artists": [
+        {
+          "name": "Lil Tony",
+          "url": "https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ"
+        },
+        {
+          "name": "Kid Lost",
+          "url": "https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu"
+        },
+        {
+          "name": "Sam Beats Baby",
+          "url": "https://open.spotify.com/artist/1fphGmGC35v82kdBFDbmNf"
+        }
+      ],
+      "duration_ms": 155736,
+      "name": "Parln e me",
+      "url": "https://open.spotify.com/track/42K8rB0IhO0NzPTZNm7QNq"
+    },
+    {
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
@@ -241,31 +265,7 @@
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
-      "album": {
-        "name": "Parln e me",
-        "url": "https://open.spotify.com/album/5jDlmOcNuu9f7134Q3wg2i"
-      },
-      "artists": [
-        {
-          "name": "Lil Tony",
-          "url": "https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ"
-        },
-        {
-          "name": "Kid Lost",
-          "url": "https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu"
-        },
-        {
-          "name": "Sam Beats Baby",
-          "url": "https://open.spotify.com/artist/1fphGmGC35v82kdBFDbmNf"
-        }
-      ],
-      "duration_ms": 155736,
-      "name": "Parln e me",
-      "url": "https://open.spotify.com/track/42K8rB0IhO0NzPTZNm7QNq"
-    },
-    {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/3xNjmCh8NTA9WuO8EkHo1R"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/5yTqoZ6nhOv21jNHFfwsBV"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "DIOSA (feat. Peppe Soks) [Remix]",
         "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
@@ -301,7 +301,51 @@
       "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
+      "album": {
+        "name": "AMBIZIONE",
+        "url": "https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV"
+      },
+      "artists": [
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        }
+      ],
+      "duration_ms": 120483,
+      "name": "So Fresh So Clean (feat. Vale Lambo)",
+      "url": "https://open.spotify.com/track/3SJNxU9GNf8MnNRW4G6b6s"
+    },
+    {
+      "added_at": "2022-05-26 22:01:00",
+      "album": {
+        "name": "Amiezavj",
+        "url": "https://open.spotify.com/album/6VosHcDVPa48e8YhMC6l2x"
+      },
+      "artists": [
+        {
+          "name": "Nt\u00f2",
+          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
+        }
+      ],
+      "duration_ms": 199139,
+      "name": "Amiezavj",
+      "url": "https://open.spotify.com/track/4849FNFdAkoMPNq3CnP2gY"
+    },
+    {
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Hablan De Mi (Italian Remix)",
         "url": "https://open.spotify.com/album/0aQXInlM4AiI6fBMUZcaJh"
@@ -321,7 +365,7 @@
       "url": "https://open.spotify.com/track/0UZKdNZkW6s9b2iesaTPYD"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "WE THE SQUAD Vol. 1",
         "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
@@ -353,7 +397,43 @@
       "url": "https://open.spotify.com/track/0KoBFeJ2R330pyRn1DuXde"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/1BrNHEZf356zG7iflh8C8U"
+      },
+      "artists": [
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "DANI",
+          "url": "https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/0DHxikaj0fk6gKkOwd2sMo"
+    },
+    {
+      "added_at": "2022-05-26 22:01:00",
+      "album": {
+        "name": "AMMOR MIJ",
+        "url": "https://open.spotify.com/album/0QZ00E9iR0fIunn67EqPos"
+      },
+      "artists": [
+        {
+          "name": "VMonster",
+          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
+        }
+      ],
+      "duration_ms": 185819,
+      "name": "O' CIEL PARL",
+      "url": "https://open.spotify.com/track/7I0YF083HMLrLVhEo3zp8B"
+    },
+    {
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
@@ -377,59 +457,7 @@
       "url": "https://open.spotify.com/track/5juO5QlcUYCwDEm8KG7V1x"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/1BrNHEZf356zG7iflh8C8U"
-      },
-      "artists": [
-        {
-          "name": "Samurai Jay",
-          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
-        },
-        {
-          "name": "DANI",
-          "url": "https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/0DHxikaj0fk6gKkOwd2sMo"
-    },
-    {
-      "added_at": "2022-05-24 15:32:15",
-      "album": {
-        "name": "AMMOR MIJ",
-        "url": "https://open.spotify.com/album/0QZ00E9iR0fIunn67EqPos"
-      },
-      "artists": [
-        {
-          "name": "VMonster",
-          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
-        }
-      ],
-      "duration_ms": 185819,
-      "name": "O' CIEL PARL",
-      "url": "https://open.spotify.com/track/7I0YF083HMLrLVhEo3zp8B"
-    },
-    {
-      "added_at": "2022-05-24 15:32:15",
-      "album": {
-        "name": "Amiezavj",
-        "url": "https://open.spotify.com/album/6VosHcDVPa48e8YhMC6l2x"
-      },
-      "artists": [
-        {
-          "name": "Nt\u00f2",
-          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
-        }
-      ],
-      "duration_ms": 199139,
-      "name": "Amiezavj",
-      "url": "https://open.spotify.com/track/4849FNFdAkoMPNq3CnP2gY"
-    },
-    {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8"
@@ -449,7 +477,7 @@
       "url": "https://open.spotify.com/track/3EtI6sLY2w2l4oCQ1JSI5m"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Rivoluzione",
         "url": "https://open.spotify.com/album/2vjQGNiqEcvNyvTPAlotQ2"
@@ -465,7 +493,7 @@
       "url": "https://open.spotify.com/track/1nt9UH3Bzu3wMCgE0LudzZ"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "NO MONEY MORE LOVE",
         "url": "https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l"
@@ -485,7 +513,7 @@
       "url": "https://open.spotify.com/track/3pnXrY3E0rP0cJ0KKzil0w"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
@@ -505,7 +533,7 @@
       "url": "https://open.spotify.com/track/0qDJ4qOa1xisB7oMmJhD2n"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Doje Vote",
         "url": "https://open.spotify.com/album/2cgmzVomHZo5fH1A1O2WIW"
@@ -521,7 +549,7 @@
       "url": "https://open.spotify.com/track/6PupByuUnrfNgW1XowhNe7"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "LIBERATO",
         "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
@@ -537,7 +565,7 @@
       "url": "https://open.spotify.com/track/1901MP4sFYR617bT4hNcyW"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "OBE",
         "url": "https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj"
@@ -557,7 +585,7 @@
       "url": "https://open.spotify.com/track/6sCcJIxOPP7GIKFGzDnYDu"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Vir' Napl",
         "url": "https://open.spotify.com/album/0x6LcJ8VJaEorHhrl3keu7"
@@ -573,7 +601,7 @@
       "url": "https://open.spotify.com/track/1UYR5OlOapoY15Ab1P4LLD"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/6TfVxDaXGqSapRvP7TQETU"
@@ -589,7 +617,7 @@
       "url": "https://open.spotify.com/track/4b5wNTRKC0DhtvTFjohhBK"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Tetti (feat. Yung Snapp)",
         "url": "https://open.spotify.com/album/6qlwBaYchelwWoYPJkuQ0B"
@@ -613,27 +641,7 @@
       "url": "https://open.spotify.com/track/7iJ95DAak22eCvQMLt44pB"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
-      "album": {
-        "name": "AMBIZIONE",
-        "url": "https://open.spotify.com/album/6eKnvAWCYNYJncvryqP8Ha"
-      },
-      "artists": [
-        {
-          "name": "Lele Blade",
-          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 201440,
-      "name": "Chello Che Vu\u00f3 (feat. Geolier)",
-      "url": "https://open.spotify.com/track/6sDPfKayq1ESoRhJpRHG77"
-    },
-    {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Cuore Rotto",
         "url": "https://open.spotify.com/album/5BXkveR4dh0YJpV75rtPNY"
@@ -649,7 +657,7 @@
       "url": "https://open.spotify.com/track/5qAMsFqClevxs2nuZbReDW"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "RFTS 3: Transalp (Freestyle)",
         "url": "https://open.spotify.com/album/421OGAOihQdZuiXiVoCVV5"
@@ -665,7 +673,7 @@
       "url": "https://open.spotify.com/track/2ip5V8poyS2rkYlvfQ0mxw"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Topless",
         "url": "https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X"
@@ -689,7 +697,27 @@
       "url": "https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
+      "album": {
+        "name": "Homies",
+        "url": "https://open.spotify.com/album/66gwTXAR4CeE333WL38MJ0"
+      },
+      "artists": [
+        {
+          "name": "Cecchy",
+          "url": "https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN"
+        },
+        {
+          "name": "LilTony",
+          "url": "https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh"
+        }
+      ],
+      "duration_ms": 124638,
+      "name": "Homies",
+      "url": "https://open.spotify.com/track/2nCS30N4UJk9zF4FVcJGPV"
+    },
+    {
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
@@ -717,7 +745,7 @@
       "url": "https://open.spotify.com/track/0azAYaqLS3VSN6KCvsdIfc"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "LIBERATO",
         "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
@@ -733,7 +761,7 @@
       "url": "https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "GLORIA",
         "url": "https://open.spotify.com/album/1bHMxxRXGzttc6ClsSPBYH"
@@ -749,7 +777,7 @@
       "url": "https://open.spotify.com/track/4HoCHskLaChG5WQEYbjUew"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "MIRANAPOLI !",
         "url": "https://open.spotify.com/album/7Lpk370d7OaHa0L3SluvvS"
@@ -773,27 +801,7 @@
       "url": "https://open.spotify.com/track/0uguXoThv1UhkGHHZAsNcq"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
-      "album": {
-        "name": "NA CRIATURA",
-        "url": "https://open.spotify.com/album/07DTjfY4CXGe01KxN1HdwE"
-      },
-      "artists": [
-        {
-          "name": "Peppe Soks",
-          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
-        },
-        {
-          "name": "Nathys",
-          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "NA CRIATURA",
-      "url": "https://open.spotify.com/track/5T9tDWyGQCkhasjfGVZabC"
-    },
-    {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Motorola",
         "url": "https://open.spotify.com/album/3CB5vY8hjXg1NqehIhQvQS"
@@ -809,7 +817,7 @@
       "url": "https://open.spotify.com/track/0FVgTO00uY8WyHPtfHp4Az"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "P Colpa Toij",
         "url": "https://open.spotify.com/album/2CNmCzSX0Q4s2lKwg8XF9i"
@@ -829,7 +837,7 @@
       "url": "https://open.spotify.com/track/6iVr94oAKISRoqfLPuUiGr"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Aggio Perzo 'o Suonno (feat. Coez, prod. TY1)",
         "url": "https://open.spotify.com/album/23GqccME4E9ej9vaBVzKSY"
@@ -853,7 +861,7 @@
       "url": "https://open.spotify.com/track/2rfVX4zjVnfUOr1k3txKNG"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "WE THE SQUAD Vol. 1",
         "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
@@ -881,7 +889,7 @@
       "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "TU",
         "url": "https://open.spotify.com/album/2rxzfBscfDgh4Uzl6vifIr"
@@ -901,7 +909,7 @@
       "url": "https://open.spotify.com/track/3UqlUOFqUvP79SS5tj2LSg"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Next Big Thing",
         "url": "https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA"
@@ -925,7 +933,7 @@
       "url": "https://open.spotify.com/track/4E9trhAx1In5kXUQamSsA5"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Ammor Malat",
         "url": "https://open.spotify.com/album/0pLAW1kmhZ5qiaYLy7e7Fe"
@@ -945,7 +953,7 @@
       "url": "https://open.spotify.com/track/10B0i3T2S9gyKWGgA80zd4"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Penzier",
         "url": "https://open.spotify.com/album/4o6BO1Zqqk9lnSXLBPk3bG"
@@ -961,7 +969,7 @@
       "url": "https://open.spotify.com/track/4CFL4pIRkUkO8hkUQsP6xz"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "The Sea Beyond (Original TV Series Soundtrack)",
         "url": "https://open.spotify.com/album/1x1DFGOBEtllKlV1PwwzG5"
@@ -989,7 +997,7 @@
       "url": "https://open.spotify.com/track/6P1AALlzkAOIyU6iBuQ9nU"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Potere",
         "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
@@ -1005,7 +1013,7 @@
       "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
     },
     {
-      "added_at": "2022-05-24 15:32:15",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/3eYSp8MgzCLTPXTeAiF9GU"

@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-94 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
+96 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Gnossienne](https://open.spotify.com/track/4DdXAgQsfHAnS7lmdS0j7L) | [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Carl Mörner Ringström](https://open.spotify.com/artist/69e8RvFXfQnels113EADzc), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [1st Movement](https://open.spotify.com/album/3GQELIw2FFQmOcW0hRBTx1) | 9:19 | 2021-11-08 |  |
 | [Hallonsommar](https://open.spotify.com/track/6d28xWKGgk9il20hrmclFy) | [Anna\. Luca](https://open.spotify.com/artist/3p3SDqItDVbc4VKR4LTQoT) | [Hallonsommar](https://open.spotify.com/album/48LBJhxQ126O5o1WKlhOFT) | 3:45 | 2021-11-08 |  |
 | [Have a Day](https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Have a Day](https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k) | 6:23 | 2022-04-21 |  |
+| [Havsmelodi \(feat\. Filip Ekestubbe, Ludvig Eriksson and Ludwig Gustavsson\)](https://open.spotify.com/track/5kUOeYFGgy6IcBiA7twicw) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj), [Askanäs Kammarkvartett](https://open.spotify.com/artist/7DUIwGmSZbOvlg7qakClCC), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Ludvig Eriksson](https://open.spotify.com/artist/7Cyxcco8pURt6wdRtAGiT5), [Ludwig Gustavsson](https://open.spotify.com/artist/6QPdFsa3QG0DLEKhfsD42i) | [Havsmelodi \(feat\. Filip Ekestubbe, Ludvig Eriksson and Ludwig Gustavsson\)](https://open.spotify.com/album/50PKsVQcaP239PGPYIpLyv) | 5:22 | 2022-05-26 |  |
 | [Händelse](https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Händelse](https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4) | 4:39 | 2021-11-08 |  |
 | [Humankind](https://open.spotify.com/track/1eZUNGAKtNBE1JNOEWsTqs) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Josef Kallerdahl](https://open.spotify.com/artist/5Wc1iOuZi2XsaM1ppRsAaN) | [The Clouds](https://open.spotify.com/album/5OjwtLOD0Bz7wymZc647bJ) | 3:14 | 2021-11-08 | 2022-04-22 |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/0a8LOrGltmx7rWvK5ex8Nb) | [Svante Henryson](https://open.spotify.com/artist/5gD2IIwhFa7qrXTWCmvMPn), [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6) | [I Fall in Love Too Easily](https://open.spotify.com/album/1ARNBkNhtWFb7hdnBuXcM0) | 5:19 | 2021-11-08 |  |
@@ -80,6 +81,7 @@
 | [Singel](https://open.spotify.com/track/29PgnhJusz4Ou5zArjPghh) | [Niklas Lind](https://open.spotify.com/artist/5QTnzfBSxTHso17Gtfauqt) | [Singel](https://open.spotify.com/album/61Gmop5nZOlXu37SlKixHw) | 3:27 | 2021-11-08 |  |
 | [Skyll på mig](https://open.spotify.com/track/4l5ntF7CMqvsUgx3EXvtkR) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz) | [Skyll på mig](https://open.spotify.com/album/4dcTuLm9mLynDNpTnUzUtz) | 3:16 | 2021-11-08 |  |
 | [Som vanligt](https://open.spotify.com/track/2x8BetKgW0IRTnlbKxwTiZ) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz) | [Det kanske händer](https://open.spotify.com/album/1HqtUBTmtekqIZzptARlO5) | 2:54 | 2021-11-08 |  |
+| [Stablemates](https://open.spotify.com/track/0e2qoYX2fvzOKw1WztN0Il) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Stablemates](https://open.spotify.com/album/3lqaHDcGbtoXOJOf4OCv4K) | 5:03 | 2022-05-26 |  |
 | [Stay Now](https://open.spotify.com/track/7hC1pSoxiMsK5pUqZGiyrV) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 2:49 | 2022-01-27 |  |
 | [Straight No Chaser](https://open.spotify.com/track/2X3YXnpdQmhbglF9TiVh18) | [Milder / Spering / Norén](https://open.spotify.com/artist/54T3sZrj7xq7IfBRxm95NS) | [Associations](https://open.spotify.com/album/3M5Vv6VLLL6whjtvfX9eSb) | 3:31 | 2021-11-08 |  |
 | [Sun Bleached](https://open.spotify.com/track/7u0T1Y4e9u4UsJwD9eimgC) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Ilaria Capalbo](https://open.spotify.com/artist/36eAVpaL0KHjSI1adDdrwT), [Staffan Svensson](https://open.spotify.com/artist/11mFi4SwzgprnqEEIJpGCM) | [Dolores: Two](https://open.spotify.com/album/13L16PToAgJGkypGuFLo9a) | 4:14 | 2021-11-08 |  |

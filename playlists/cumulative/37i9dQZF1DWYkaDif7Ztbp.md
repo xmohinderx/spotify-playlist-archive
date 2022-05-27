@@ -2,9 +2,9 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=JC7f3NJITKOPcB7In\_xIWg" > Lojay </a> and  <a href="https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ?si=ZjvApdSBSkCgtGv\_yt4YiA" > Sarz </a>
+> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU?si=02y5SKxZQHiCGb5DxrymuA" > Nissi </a>
 
-118 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/6CGfDwBbFDC5qx0eVHKRnz)
+119 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/6CGfDwBbFDC5qx0eVHKRnz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2022-03-11 |  |
 | [Freeway \- Remix](https://open.spotify.com/track/0uDYSd5vnBCaAjvYLA5c6R) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x), [Dj Pee Raven](https://open.spotify.com/artist/4vV4WxPTFXfZlK6Z2rKSHi) | [Freeway \(Remix\)](https://open.spotify.com/album/716o2Sc0MXnixRhTABreb4) | 4:15 | 2022-05-06 | 2022-05-13 |
 | [Gidi](https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Gidi](https://open.spotify.com/album/5sN7Aqocqc5gQ3p3vYVYQt) | 2:47 | 2022-02-24 |  |
+| [Gravity \(feat\. Major League Djz\)](https://open.spotify.com/track/61r4WIfTWHZXV9G6MwZxJJ) | [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Gravity \(feat\. Major League Djz\)](https://open.spotify.com/album/000nYm9Tv0i59bILRq22l4) | 2:49 | 2022-05-26 |  |
 | [Hate Me](https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Hate Me](https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p) | 3:19 | 2022-02-24 | 2022-03-25 |
 | [Hey Linda](https://open.spotify.com/track/5qhvuxqKZvU3C5kNA4K9U5) | [Pongo](https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34) | [Sakidila](https://open.spotify.com/album/7AztWWBX82cp2yrqajfddM) | 3:17 | 2022-03-31 | 2022-05-20 |
 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 | 2021-10-22 |  |
@@ -79,7 +80,7 @@
 | [Oga](https://open.spotify.com/track/08VqaGj8UrSeO6QeYAwdY2) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Bontle Smith](https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC), [Sayfar](https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u) | [Oga](https://open.spotify.com/album/4ikCqtLjgppUAO0b5mpCN5) | 3:19 | 2021-11-18 | 2021-12-24 |
 | [Ojuju](https://open.spotify.com/track/1JvW2HjzFdEcaFrpsEeq0e) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Ojuju](https://open.spotify.com/album/1cYo9eumR211el6QbRzW2m) | 3:07 | 2021-10-22 | 2022-02-18 |
 | [One Woman](https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:40 | 2022-02-03 | 2022-04-01 |
-| [Owo Ni Koko](https://open.spotify.com/track/4WLdlAi4KBDNRxaq3GnRYH) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:59 | 2022-04-22 |  |
+| [Owo Ni Koko](https://open.spotify.com/track/4WLdlAi4KBDNRxaq3GnRYH) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:59 | 2022-04-22 | 2022-05-27 |
 | [Ozumba Mbadiwe](https://open.spotify.com/track/4NLFnAPoMAiuuK8iXnit6W) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Ozumba Mbadiwe](https://open.spotify.com/album/6oYKhPbYdaaYGGnqZIqlNs) | 3:32 | 2021-11-12 | 2022-05-13 |
 | [Pain Ya Jealous](https://open.spotify.com/track/4Y8jM82FUOyltRrqSELVPS) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs) | [Pain Ya Jealous](https://open.spotify.com/album/5qz2j8ZfrgsggSqq6ildGe) | 5:13 | 2022-03-24 |  |
 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 | 2022-05-12 |  |

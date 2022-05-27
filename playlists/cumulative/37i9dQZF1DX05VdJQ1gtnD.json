@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Another Year",
+        "url": "https://open.spotify.com/album/5LsS0b99IKvCpkWKvKTZ1d"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gialanella",
+          "url": "https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Another Year",
+      "url": "https://open.spotify.com/track/3cpghClYBVWb7SjRZS6xtu"
+    },
+    {
+      "album": {
         "name": "leaving the city",
         "url": "https://open.spotify.com/album/6wQyphlrdifX6l2gS3tM6x"
       },
@@ -596,6 +614,24 @@
     },
     {
       "album": {
+        "name": "Crowns",
+        "url": "https://open.spotify.com/album/0CpZPSBZYRkXxCnOeBZmJA"
+      },
+      "artists": [
+        {
+          "name": "Raphael de Santiago",
+          "url": "https://open.spotify.com/artist/7swmr8PxBMfAXdEoDFzmpY"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135314,
+      "name": "Crowns",
+      "url": "https://open.spotify.com/track/1tYypP1QZl7IPoeFsW0yRm"
+    },
+    {
+      "album": {
         "name": "Gitar",
         "url": "https://open.spotify.com/album/3x7DCTbKzZhja9ELXtRzDK"
       },
@@ -679,7 +715,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 126428,
       "name": "Drawing Board",
       "url": "https://open.spotify.com/track/4V3hWllK49K8uZVecugi7B"
@@ -1007,7 +1043,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 139772,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/3uCQFGUQ6iqmvPlwU0ZoCT"
@@ -1209,7 +1245,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 145667,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/5EO5Sx8n15p2f3SURF8Pcw"
@@ -1501,6 +1537,24 @@
       "duration_ms": 125413,
       "name": "Lakeside",
       "url": "https://open.spotify.com/track/2Igh5u0Gj6TtitvFY2eRhB"
+    },
+    {
+      "album": {
+        "name": "Last rose of summer",
+        "url": "https://open.spotify.com/album/338Nnd99DW3NbpDCQUZK89"
+      },
+      "artists": [
+        {
+          "name": "Michael Blaese",
+          "url": "https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Last rose of summer",
+      "url": "https://open.spotify.com/track/1H2YnSQPwaHpCL7DwF7qS6"
     },
     {
       "album": {
@@ -2243,6 +2297,28 @@
       "duration_ms": 171874,
       "name": "Sunset on the Farmland",
       "url": "https://open.spotify.com/track/5tvM2CxNOcCBY7Z2H9Xa12"
+    },
+    {
+      "album": {
+        "name": "Sweet Night",
+        "url": "https://open.spotify.com/album/0F6QXaOHbcDKl3iqZdrlbv"
+      },
+      "artists": [
+        {
+          "name": "Frans Bak",
+          "url": "https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG"
+        },
+        {
+          "name": "Jan R\u00f8rdam",
+          "url": "https://open.spotify.com/artist/4yz330P6Salzhk36BWmfgA"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211119,
+      "name": "Sweet Night",
+      "url": "https://open.spotify.com/track/3MqnHTCy6P5OH3Y6XIzeFj"
     },
     {
       "album": {

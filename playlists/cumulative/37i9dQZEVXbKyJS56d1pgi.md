@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-491 songs - 1 day 2 hr 59 min - [published](https://open.spotify.com/playlist/5sx0bOwIYMxi0Nf8rS1mMZ)
+492 songs - 1 day 3 hr 2 min - [published](https://open.spotify.com/playlist/5sx0bOwIYMxi0Nf8rS1mMZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Esquema Preferido \(feat\. Tarcísio do Acordeon\)](https://open.spotify.com/track/0e6NlGJxYlHvAN8SKxad7N) | [DJ Ivis](https://open.spotify.com/artist/0RPzmE1iY76tx1eBBXFyYn), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Baile do DJ Ivis: Piseiro Hits](https://open.spotify.com/album/5ZQkhktccNQUltL9orQP33) | 3:10 | 2021-04-26 | 2021-06-22 |
 | [Esquema Preferido \(feat\. Tarcísio do Acordeon\)](https://open.spotify.com/track/7cgF1aSGBXWlTgNbon3g2p) | [DJ Ivis](https://open.spotify.com/artist/0RPzmE1iY76tx1eBBXFyYn), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Esquema Preferido \(feat\. Tarcísio do Acordeon\)](https://open.spotify.com/album/0035eEuC71Ht8KkKjmbGyL) | 3:10 | 2021-04-11 | 2021-04-26 |
 | [Esqueça\-Me Se For Capaz](https://open.spotify.com/track/4qsOrxBv09HhNSpsgMRXdC) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 2:49 | 2021-11-08 | 2022-02-20 |
-| [Eu Bem Que Te Avisei \- Tu Empurrou Ele Pei](https://open.spotify.com/track/6pojmlhRI1fBUNg0pZSA9M) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ ABDO](https://open.spotify.com/artist/5g1Ojx0MsvmNEjnVKGmHVw) | [Eu Bem Que Te Avisei \- Tu Empurrou Ele Pei](https://open.spotify.com/album/3agQ7dEMi2JOATLApERs3N) | 2:38 | 2022-04-30 |  |
+| [EU BEM QUE TE AVISEI \- TU EMPINOU ELE PEI](https://open.spotify.com/track/0E0OENqh3jaZ4VpDFTOLGj) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ ABDO](https://open.spotify.com/artist/5g1Ojx0MsvmNEjnVKGmHVw) | [EU BEM QUE TE AVISEI \- TU EMPINOU ELE PEI](https://open.spotify.com/album/3lPLg51Y7BDPRB4n8pLnNC) | 2:38 | 2022-05-26 |  |
+| [Eu Bem Que Te Avisei \- Tu Empurrou Ele Pei](https://open.spotify.com/track/6pojmlhRI1fBUNg0pZSA9M) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ ABDO](https://open.spotify.com/artist/5g1Ojx0MsvmNEjnVKGmHVw) | [Eu Bem Que Te Avisei \- Tu Empurrou Ele Pei](https://open.spotify.com/album/3agQ7dEMi2JOATLApERs3N) | 2:38 | 2022-04-30 | 2022-05-27 |
 | [Eu falei pros meus mano](https://open.spotify.com/track/5WLTov6OBzfq8JDY6CUI2u) | [Greg Ferreira](https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8) | [Eu falei pros meus mano](https://open.spotify.com/album/3F5K0gs3XJhmBH7VKYnjE7) | 3:17 | 2021-04-20 | 2021-05-16 |
 | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv) | 2:24 | 2022-05-20 |  |
 | [Every Angel is Terrifying](https://open.spotify.com/track/3vJcz8exedHCjQ9ed95NqU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:47 | 2022-01-08 | 2022-01-10 |

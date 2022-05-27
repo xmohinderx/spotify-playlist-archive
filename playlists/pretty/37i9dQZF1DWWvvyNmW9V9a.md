@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > I got that red lip classic thing that you like \- Dr\. Taylor Alison Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,317,682 likes - 103 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,319,000 likes - 103 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

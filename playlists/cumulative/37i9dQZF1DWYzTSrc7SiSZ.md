@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing\. Las vibras tranqui que ocupas en tu vida.
 
-150 songs - 7 hr 59 min - not published yet
+151 songs - 8 hr 2 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Escápate](https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4) | [Malxs](https://open.spotify.com/artist/15vG2WQMHbjKWepVbj7lNY) | [Escápate](https://open.spotify.com/album/0X8qCLQQl7u0ovRKkl0kWJ) | 2:52 | 2022-05-20 |  |
 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 | 2022-05-20 |  |
 | [Eucalipto](https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Un Día A La Vez](https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ) | 2:40 | 2022-05-20 |  |
+| [Eucalipto](https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Eucalipto](https://open.spotify.com/album/48SgeHpP6RkBC5q3SSzb27) | 2:40 | 2022-05-20 |  |
 | [FAR AWAY](https://open.spotify.com/track/12H6iTEgiX4HPnCPphYSMk) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FAR AWAY](https://open.spotify.com/album/6oSnvw7yQpDFFTZIZA4Rxx) | 2:41 | 2022-05-20 |  |
 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 | 2022-05-20 |  |
 | [Fogata](https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg) | [XAXO](https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Fogata](https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry) | 2:53 | 2022-05-20 |  |
@@ -148,7 +149,7 @@
 | [UH](https://open.spotify.com/track/7uLfFqojP6ysCuyWCOhZhJ) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [UH](https://open.spotify.com/album/0LjCQQ74typX73FWjVt2vK) | 3:30 | 2022-05-20 |  |
 | [Un Beso en Madrid](https://open.spotify.com/track/0KTwYI4vwidX9qip7ViAEQ) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Un Beso en Madrid](https://open.spotify.com/album/2meU91rmdHZgJDjjUzkRRA) | 2:23 | 2022-05-20 |  |
 | [UNA LUZ](https://open.spotify.com/track/1c3qAaZrwvcTHHOL8XrHLJ) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [UNA LUZ](https://open.spotify.com/album/6JXgkVDyf9IFhyfn1TGNSY) | 2:07 | 2022-05-20 |  |
-| [Una Noche \- Unplugged](https://open.spotify.com/track/5PzwXQyY8B64TH5G71da4R) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Una Noche \(Unplugged\)](https://open.spotify.com/album/4mXPyq4Rgu2gTv2oIsliLu) | 3:58 | 2022-05-20 |  |
+| [Una Noche \- Unplugged](https://open.spotify.com/track/5PzwXQyY8B64TH5G71da4R) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Una Noche \(Unplugged\)](https://open.spotify.com/album/4mXPyq4Rgu2gTv2oIsliLu) | 3:58 | 2022-05-20 | 2022-05-27 |
 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 | 2022-05-20 |  |
 | [Vibe](https://open.spotify.com/track/1xDq5VlR1LDjNAgZBwFLc7) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [Vibe](https://open.spotify.com/album/2MegsHOQtYtR3aCueFrMan) | 3:10 | 2022-05-20 |  |
 | [Vida](https://open.spotify.com/track/38uY6EFyAAKeBLw23s4r9j) | [Pranz](https://open.spotify.com/artist/5FO1DobN0uCO7hznPii2Av), [Maul On The Mix](https://open.spotify.com/artist/0SiGpCFq4K4uQXoNr69aUn) | [Vida](https://open.spotify.com/album/2aWANtSLYshGYqbXndAIFZ) | 3:03 | 2022-05-20 |  |

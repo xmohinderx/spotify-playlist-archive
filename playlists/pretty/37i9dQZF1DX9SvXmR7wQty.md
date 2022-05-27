@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Loud
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,228 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,234 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 46 | [100 TEXTES](https://open.spotify.com/track/3Ilctjzh4gGsYHB8XxxT8w) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [100 TEXTES](https://open.spotify.com/album/72AFm90JXqrGZtNnXwCb3z) | 2:57 |
 | 47 | [La BBQ Dance](https://open.spotify.com/track/5jeBgJ4cqqSy6VuR089h8j) | [Laurie LeBlanc](https://open.spotify.com/artist/5PBVcwGdkX9vYCBX8rkDRb) | [La BBQ Dance](https://open.spotify.com/album/730JDGc4SuBJD6nHqrNLrx) | 2:51 |
 | 48 | [Alphonso Davies \- AD19](https://open.spotify.com/track/1q1vBpj72zGnQilD40XWls) | [T.K](https://open.spotify.com/artist/2oIv5lNNTIBLXRDV3eSzDp), [Striky](https://open.spotify.com/artist/2z9aSOsIU7HPmrtQRcRQx0), [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G) | [Rap buffet](https://open.spotify.com/album/4vH2DJ41I0fCBb2yYo9OJM) | 3:00 |
-| 49 | [Électron libre \(vu par Jérôme Minière\) \- Remix](https://open.spotify.com/track/2qPTtecKlZ7RLKQGy6AJqq) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Électron libre \(vu par Jérôme Minière\) \[Remix\]](https://open.spotify.com/album/4QZMDWPkLkLnQWOAVWCNeS) | 4:03 |
+| 49 | [Électron libre \(vue par Jérôme Minière\) \- Remix](https://open.spotify.com/track/2qPTtecKlZ7RLKQGy6AJqq) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Électron libre \(vue par Jérôme Minière\) \[Remix\]](https://open.spotify.com/album/4QZMDWPkLkLnQWOAVWCNeS) | 4:03 |
 | 50 | [Si tu savais \- Version live](https://open.spotify.com/track/0rpnutDckVgdIChzhDmyTX) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Dans tes rêves \(Version live\)](https://open.spotify.com/album/7nchSsdOQkmJMseLHzZUSQ) | 3:44 |
 
 Snapshot ID: `MTY1MzAyMjE2OSwwMDAwMDQxZDAwMDAwMTgwZGZjYzk5NmMwMDAwMDE4MGQyOTdiMmE1`

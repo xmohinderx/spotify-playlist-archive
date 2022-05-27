@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Chitarrre pi\u00f9 o meno distorte (e, in cover, Her Skin)",
+  "description": "Chitarre pi\u00f9 o meno distorte (e, in cover, gli Elephant Brain)",
   "name": "Rock Italia",
   "published_playlist_ids": [
     "1ygHfNTT8YmP8RXH0ojm4P"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 218790,
       "name": "118 (feat. Claudio Santamaria)",
       "url": "https://open.spotify.com/track/7bgmhnVEmCFrMB3Byr0r9R"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 242497,
       "name": "Ansia Capitale",
       "url": "https://open.spotify.com/track/3aJ8dxraLU7aqEm1FKwhX7"
@@ -131,10 +131,46 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 158527,
       "name": "ASSOLO",
       "url": "https://open.spotify.com/track/73mlazOcJ2mD8SdQaYeVGN"
+    },
+    {
+      "album": {
+        "name": "Bed bugs",
+        "url": "https://open.spotify.com/album/0QF16110YO5fcOfsU4WOCl"
+      },
+      "artists": [
+        {
+          "name": "BAZAAR",
+          "url": "https://open.spotify.com/artist/4kY7561u96mXGEzIwECjdd"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214048,
+      "name": "Bed bugs",
+      "url": "https://open.spotify.com/track/0f6w3CkDT3HlSuMYl3qsWQ"
+    },
+    {
+      "album": {
+        "name": "Blu",
+        "url": "https://open.spotify.com/album/7Jevt4v3RwRgpS8stYD9Hj"
+      },
+      "artists": [
+        {
+          "name": "Antartica",
+          "url": "https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "Blu",
+      "url": "https://open.spotify.com/track/1IkTSLdOm3yd2V7fRliXH8"
     },
     {
       "album": {
@@ -553,7 +589,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 121080,
       "name": "Hey U",
       "url": "https://open.spotify.com/track/25Tztg1uslRPRXpXzsXctK"
@@ -800,6 +836,28 @@
     },
     {
       "album": {
+        "name": "Cari Fottutissimi Amici",
+        "url": "https://open.spotify.com/album/43iU5QUL15hYLkbiZfk1aB"
+      },
+      "artists": [
+        {
+          "name": "The Zen Circus",
+          "url": "https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84"
+        },
+        {
+          "name": "Ditonellapiaga",
+          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233240,
+      "name": "Meravigliosa (feat. Ditonellapiaga)",
+      "url": "https://open.spotify.com/track/3Ji5zXZw7hDUgIp5IkLFiy"
+    },
+    {
+      "album": {
         "name": "NUDHA",
         "url": "https://open.spotify.com/album/1aYL5JopqGBtFtfBNB2gDr"
       },
@@ -905,7 +963,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 207533,
       "name": "Ok boomer (feat. Brunori Sas)",
       "url": "https://open.spotify.com/track/2spDH2rxS8fpw6XYxtCzue"
@@ -1175,7 +1233,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 155320,
       "name": "Spiegami La Strada",
       "url": "https://open.spotify.com/track/5oZnLTJ9oX78dq21WTMa8G"
@@ -1193,7 +1251,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 196595,
       "name": "Stare sveglio",
       "url": "https://open.spotify.com/track/1ERgcJITJ5bcd9eRWxnQMa"
@@ -1384,6 +1442,28 @@
     },
     {
       "album": {
+        "name": "Cari Fottutissimi Amici",
+        "url": "https://open.spotify.com/album/43iU5QUL15hYLkbiZfk1aB"
+      },
+      "artists": [
+        {
+          "name": "The Zen Circus",
+          "url": "https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84"
+        },
+        {
+          "name": "Management",
+          "url": "https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259440,
+      "name": "Voglio invecchiare male (feat. Management)",
+      "url": "https://open.spotify.com/track/1UioMVlhDjrjJ3o6HP2Vhr"
+    },
+    {
+      "album": {
         "name": "Credere Di Pensare",
         "url": "https://open.spotify.com/album/74zRzOFTdEjTGycktwGa0Q"
       },
@@ -1395,7 +1475,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 220312,
       "name": "Vortice",
       "url": "https://open.spotify.com/track/6RA1qE9WbVXmWdLWmjN8Z3"
@@ -1413,7 +1493,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 198455,
       "name": "What a Heart Is For",
       "url": "https://open.spotify.com/track/18xVzYlFYM20dK5OP6E35n"

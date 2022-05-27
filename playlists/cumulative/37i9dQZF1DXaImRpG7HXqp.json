@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Cavallo",
+        "url": "https://open.spotify.com/album/57vXTYCLhGfBK12kOZ4g9D"
+      },
+      "artists": [
+        {
+          "name": "Adriana Von",
+          "url": "https://open.spotify.com/artist/1vaAJMEhSW3SEr07yzlKDO"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162958,
+      "name": "A Cavallo",
+      "url": "https://open.spotify.com/track/3052KAxePlXnkYelPOyQ5l"
+    },
+    {
+      "album": {
         "name": "De Mano A Mano",
         "url": "https://open.spotify.com/album/7ilmeRDYvSLSsIgBBjdPIQ"
       },
@@ -77,6 +95,28 @@
       "duration_ms": 211994,
       "name": "A Smooth Moment",
       "url": "https://open.spotify.com/track/3XXSl8HvlM8Ty0lpuTzP5I"
+    },
+    {
+      "album": {
+        "name": "Tres mazurcas",
+        "url": "https://open.spotify.com/album/0gE3MUJGWkrAcnZtiQhzSD"
+      },
+      "artists": [
+        {
+          "name": "Francisco T\u00e1rrega",
+          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
+        },
+        {
+          "name": "Pablo Despeyroux",
+          "url": "https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98865,
+      "name": "Adelita",
+      "url": "https://open.spotify.com/track/5qGYBd0wZHJ9Chu3YnvYvu"
     },
     {
       "album": {
@@ -224,6 +264,24 @@
     },
     {
       "album": {
+        "name": "Another Year",
+        "url": "https://open.spotify.com/album/5LsS0b99IKvCpkWKvKTZ1d"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gialanella",
+          "url": "https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Another Year",
+      "url": "https://open.spotify.com/track/3cpghClYBVWb7SjRZS6xtu"
+    },
+    {
+      "album": {
         "name": "Anteayer",
         "url": "https://open.spotify.com/album/06xdDcNCj4pbl4pQC6A4S6"
       },
@@ -239,6 +297,24 @@
       "duration_ms": 147907,
       "name": "Anteayer",
       "url": "https://open.spotify.com/track/3qTOFnijKc0S5ddgzjr5yu"
+    },
+    {
+      "album": {
+        "name": "Armon\u00eda",
+        "url": "https://open.spotify.com/album/3vZO7miIHbU4GZ1w7jkkKB"
+      },
+      "artists": [
+        {
+          "name": "Alonso Librado",
+          "url": "https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Armon\u00eda",
+      "url": "https://open.spotify.com/track/4r8uTP28nmVINTIklzXG3s"
     },
     {
       "album": {
@@ -333,6 +409,24 @@
       "duration_ms": 189040,
       "name": "Barre des E\u0301crins",
       "url": "https://open.spotify.com/track/72hU3FPZi4aiqzt5paPu7x"
+    },
+    {
+      "album": {
+        "name": "Slow and Steady",
+        "url": "https://open.spotify.com/album/4XR97V50Bxe2kJ6zMK7jKz"
+      },
+      "artists": [
+        {
+          "name": "Nelson Gomes",
+          "url": "https://open.spotify.com/artist/1OSiaLKfv7utlBDRS3Qr31"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146488,
+      "name": "Belfast",
+      "url": "https://open.spotify.com/track/659DLmMKruLgnJ0CqvjpLm"
     },
     {
       "album": {
@@ -665,6 +759,24 @@
       "duration_ms": 212001,
       "name": "Chiara",
       "url": "https://open.spotify.com/track/2ebDPxcvmDGVyvXeIMnjWk"
+    },
+    {
+      "album": {
+        "name": "Close To Firenze",
+        "url": "https://open.spotify.com/album/6K0R6DtEhe1wcG4U4Hjq8W"
+      },
+      "artists": [
+        {
+          "name": "Robert Delofeu",
+          "url": "https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162359,
+      "name": "Close To Firenze",
+      "url": "https://open.spotify.com/track/6Fixm5hLh4ySUdQmXHYTNq"
     },
     {
       "album": {
@@ -1057,7 +1169,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 130610,
       "name": "Dunfanaghy Beach",
       "url": "https://open.spotify.com/track/4dPDiKpvkhXrCZ7dd9nM3K"
@@ -1151,6 +1263,24 @@
       "duration_ms": 160679,
       "name": "Englischer Garten",
       "url": "https://open.spotify.com/track/3wblhyTGdAtGqKImUoy2W0"
+    },
+    {
+      "album": {
+        "name": "Ericeira",
+        "url": "https://open.spotify.com/album/32NGueMRUQl0zGowxzQIbG"
+      },
+      "artists": [
+        {
+          "name": "Clotho",
+          "url": "https://open.spotify.com/artist/47BxCwdoIB8uBDUY6KktXs"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169066,
+      "name": "Ericeira",
+      "url": "https://open.spotify.com/track/1qxF25JZrJLmyUkzqZbsVS"
     },
     {
       "album": {
@@ -1749,7 +1879,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 175476,
       "name": "Im Sonnenblumenfeld",
       "url": "https://open.spotify.com/track/3IFZMY6ohZsOgTVcMyL5b8"
@@ -2109,7 +2239,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 258194,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/49SUqwYACakEEvO20DcLlt"
@@ -2296,6 +2426,24 @@
     },
     {
       "album": {
+        "name": "Mareld",
+        "url": "https://open.spotify.com/album/1BATEK1hhvNdASdRQR8euJ"
+      },
+      "artists": [
+        {
+          "name": "Ron Melass",
+          "url": "https://open.spotify.com/artist/61JpiETiqqg2JJIKbXO04g"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117421,
+      "name": "Mareld",
+      "url": "https://open.spotify.com/track/7njI830XuQtdheC4m9LCgm"
+    },
+    {
+      "album": {
         "name": "Melancolia",
         "url": "https://open.spotify.com/album/23k6kKSxaMIEmkSsqg118j"
       },
@@ -2368,6 +2516,24 @@
     },
     {
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/4Vghw5bCOZnBkD4W1Mr9I9"
+      },
+      "artists": [
+        {
+          "name": "Allan Soderbergh",
+          "url": "https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/49np3roHmTZhiHhO4P2suj"
+    },
+    {
+      "album": {
         "name": "Milagro",
         "url": "https://open.spotify.com/album/1V0mU9SRWZVJLSA68jpp6u"
       },
@@ -2437,7 +2603,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 181275,
       "name": "Minor Moments",
       "url": "https://open.spotify.com/track/5GWcVFVzwT4nJ1Ji1Fpjpm"
@@ -2696,6 +2862,24 @@
     },
     {
       "album": {
+        "name": "One Wish",
+        "url": "https://open.spotify.com/album/7pX9TLAfPGYS0SwHON8Tzr"
+      },
+      "artists": [
+        {
+          "name": "Lance Takamiya",
+          "url": "https://open.spotify.com/artist/7FaPxwleV4FLc7PRiyUYmS"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153290,
+      "name": "One Wish",
+      "url": "https://open.spotify.com/track/2bF4PjkcCw5ciubd2xQk3Y"
+    },
+    {
+      "album": {
         "name": "Onschuldig",
         "url": "https://open.spotify.com/album/4CO5kHoKQocEwUeEMt2Cue"
       },
@@ -2855,6 +3039,24 @@
       "duration_ms": 150592,
       "name": "Pelotas",
       "url": "https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg"
+    },
+    {
+      "album": {
+        "name": "Pescadores",
+        "url": "https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj"
+      },
+      "artists": [
+        {
+          "name": "Azur",
+          "url": "https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167833,
+      "name": "Pescadores",
+      "url": "https://open.spotify.com/track/1kUaMtCK9JFPHUqPY9vEWN"
     },
     {
       "album": {
@@ -3913,7 +4115,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 148604,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/4HtW4pnVho9FCLEhqga7GS"
@@ -4241,6 +4443,24 @@
       "duration_ms": 179751,
       "name": "Waldspaziergang",
       "url": "https://open.spotify.com/track/2KLQmZbPymLxV21tWh0eYW"
+    },
+    {
+      "album": {
+        "name": "Abisko",
+        "url": "https://open.spotify.com/album/1A3JJkrUlV2FBSV6oY412c"
+      },
+      "artists": [
+        {
+          "name": "Philip Grass",
+          "url": "https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Wallowa Lake",
+      "url": "https://open.spotify.com/track/0viEXnrcsXF3nNj3HjROEG"
     },
     {
       "album": {

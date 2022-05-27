@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni da gridare e in copertina c'\u00e8 tate mcrae <3",
+  "description": "canzoni da gridare e in copertina ci sono i bnkr44 \ud83d\udd25",
   "name": "sanguegiovane",
   "published_playlist_ids": [
     "2BZ03rNM0vrjFSXCBigadZ"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 188110,
       "name": "108",
       "url": "https://open.spotify.com/track/6SlNQZtuSNiHIQu90hHSOo"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 211676,
       "name": "Anime Lady",
       "url": "https://open.spotify.com/track/2hjSYkVfpDQz0mbTa29TO0"
@@ -302,6 +302,24 @@
     },
     {
       "album": {
+        "name": "Basta",
+        "url": "https://open.spotify.com/album/5kJUJ5naCgnRONx5ROtZkz"
+      },
+      "artists": [
+        {
+          "name": "Holy",
+          "url": "https://open.spotify.com/artist/7rKhniAoTGdu1IFQFxEajZ"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164903,
+      "name": "Basta",
+      "url": "https://open.spotify.com/track/2A76lNgorxfhOnG0yLSOvu"
+    },
+    {
+      "album": {
         "name": "BELLA E CATTIVA",
         "url": "https://open.spotify.com/album/2ZQk4UNmyL5ALrc8YcRMW7"
       },
@@ -317,7 +335,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 149243,
       "name": "BELLA E CATTIVA",
       "url": "https://open.spotify.com/track/0kcbXArgh2BA7jnl36m1Ra"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 141947,
       "name": "COME NOI",
       "url": "https://open.spotify.com/track/1QZyZdurNkP6oI0vTEiYM8"
@@ -489,7 +507,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 170909,
       "name": "Cose mie",
       "url": "https://open.spotify.com/track/2F7ztT5LyCYKKtPmrSPAV1"
@@ -519,6 +537,24 @@
       "duration_ms": 175542,
       "name": "Dolcenera",
       "url": "https://open.spotify.com/track/4D7axaCfgqurmoT96BiXOs"
+    },
+    {
+      "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152786,
+      "name": "don't come back",
+      "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
     },
     {
       "album": {
@@ -656,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Fuori Testa",
+        "url": "https://open.spotify.com/album/2xu4fxOOvA56VyHH8H9lnP"
+      },
+      "artists": [
+        {
+          "name": "Emme Mash",
+          "url": "https://open.spotify.com/artist/4DnOMZ4FLpzdjWL8QKWH66"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Fuori Testa",
+      "url": "https://open.spotify.com/track/431N2fIwIwVovUXwdRdRjG"
+    },
+    {
+      "album": {
         "name": "generazione // love kids",
         "url": "https://open.spotify.com/album/6UinIuQGxZFG43qqfhbSHC"
       },
@@ -675,6 +729,28 @@
       "duration_ms": 133090,
       "name": "generazione // love kids",
       "url": "https://open.spotify.com/track/5FdFeh5gkFUQEmuKUrpf8q"
+    },
+    {
+      "album": {
+        "name": "gfy (with Machine Gun Kelly)",
+        "url": "https://open.spotify.com/album/43tasPwPisjAgGgde0yy7F"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172821,
+      "name": "gfy (with Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/3MTm8eZ2wCEtpyZqqhP6Dn"
     },
     {
       "album": {
@@ -1114,6 +1190,36 @@
     },
     {
       "album": {
+        "name": "Luci",
+        "url": "https://open.spotify.com/album/4w4QMDRhDYHDVD8lYfBhd5"
+      },
+      "artists": [
+        {
+          "name": "Bartolini",
+          "url": "https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd"
+        },
+        {
+          "name": "Altea",
+          "url": "https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws"
+        },
+        {
+          "name": "SANO",
+          "url": "https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3"
+        },
+        {
+          "name": "Arssalendo",
+          "url": "https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165695,
+      "name": "Luci",
+      "url": "https://open.spotify.com/track/1FxHnw0caKYveCSa2IDBai"
+    },
+    {
+      "album": {
         "name": "Ma non erano te",
         "url": "https://open.spotify.com/album/2XaVVwShBDQsoF20aHYGFM"
       },
@@ -1151,7 +1257,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 206273,
       "name": "Maggio",
       "url": "https://open.spotify.com/track/7BsHgg2kRLHfCUFtvlaL1R"
@@ -1323,6 +1429,24 @@
       "duration_ms": 173643,
       "name": "Non fa per me",
       "url": "https://open.spotify.com/track/3O66zFEQF2LLmDqt8vFd7V"
+    },
+    {
+      "album": {
+        "name": "Non fa x me",
+        "url": "https://open.spotify.com/album/1iQnCUr1teJNKZmVGH2iKm"
+      },
+      "artists": [
+        {
+          "name": "ALBE.x",
+          "url": "https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "Non fa x me",
+      "url": "https://open.spotify.com/track/1YCED21RSrmC6dSdY6oa5D"
     },
     {
       "album": {
@@ -1555,7 +1679,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 165435,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/1x7CaR5PCCsZjpCxDRVhO4"
@@ -1606,6 +1730,24 @@
     },
     {
       "album": {
+        "name": "FARSI MALE A NOI VA BENE 2.0",
+        "url": "https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo"
+      },
+      "artists": [
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158470,
+      "name": "QUELLE PAROLE",
+      "url": "https://open.spotify.com/track/44FeZREhPwoT8lYNImkVV6"
+    },
+    {
+      "album": {
         "name": "Rich Kids Ruin Everything",
         "url": "https://open.spotify.com/album/0uNDijaQlIxf11ygtq6PCR"
       },
@@ -1617,7 +1759,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 156574,
       "name": "Rich Kids Ruin Everything",
       "url": "https://open.spotify.com/track/4ANzvISz338P5mRff2m63x"
@@ -1682,6 +1824,24 @@
     },
     {
       "album": {
+        "name": "Sad Girl Summer",
+        "url": "https://open.spotify.com/album/6BD3f64782idv4IF2npufe"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193181,
+      "name": "Sad Girl Summer",
+      "url": "https://open.spotify.com/track/52ITJgaQHGQ4Uxnqz44jWP"
+    },
+    {
+      "album": {
         "name": "Salice",
         "url": "https://open.spotify.com/album/1KETHPt4P9yeJwQLnw7bkK"
       },
@@ -1701,6 +1861,24 @@
       "duration_ms": 229565,
       "name": "Salice",
       "url": "https://open.spotify.com/track/04xLRTZiC7MoWR4zYdsQIi"
+    },
+    {
+      "album": {
+        "name": "salvarti",
+        "url": "https://open.spotify.com/album/0HZNgiWjB4ND8iEt6LfT64"
+      },
+      "artists": [
+        {
+          "name": "HUGO_TRz",
+          "url": "https://open.spotify.com/artist/4K5OlFpHTBw1VShfFpTlLp"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207187,
+      "name": "salvarti",
+      "url": "https://open.spotify.com/track/3bKna7CSIyJFSUiW6eLS8B"
     },
     {
       "album": {
@@ -1835,7 +2013,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 151578,
       "name": "Stanotte",
       "url": "https://open.spotify.com/track/5TUMkiGR2gyObPiOOdblD5"
@@ -2020,6 +2198,24 @@
     },
     {
       "album": {
+        "name": "UR SO FULL OF IT (ILY NYC) - Spotify Singles",
+        "url": "https://open.spotify.com/album/5lxHNkhOXyJ2mHnGxsbzeu"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138209,
+      "name": "UR SO FULL OF IT (ILY NYC) - Spotify Singles",
+      "url": "https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in"
+    },
+    {
+      "album": {
         "name": "Vestita Di Fiori",
         "url": "https://open.spotify.com/album/5omJpBPuoNpIS39W6U7FzF"
       },
@@ -2151,7 +2347,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 166948,
       "name": "what would you do?",
       "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"

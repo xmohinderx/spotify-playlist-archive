@@ -2,9 +2,9 @@
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: Soph T.
+> 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: Diiton
 
-156 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
+158 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Life Is A Bitch](https://open.spotify.com/track/0BEbNi3Zn3eJ51OB8sGnJf) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 2:22 | 2022-03-10 | 2022-03-25 |
 | [Like That](https://open.spotify.com/track/4UqLJ5I3ErvzJVFG0JQ66w) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [Like That](https://open.spotify.com/album/7fsIJdDM2S39JCG2UsruLg) | 2:18 | 2022-03-24 |  |
 | [Lonestar](https://open.spotify.com/track/0y3skHpU8JN23aFHgvya6t) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Lonestar](https://open.spotify.com/album/0NWEZ50wiCMLP2SiFXyMEv) | 4:28 | 2022-03-24 |  |
-| [Love?](https://open.spotify.com/track/1kEddX5EQVIDq2qOUO3pxb) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC), [J.win](https://open.spotify.com/artist/6pcfBsij9bi4yKK1YMpYNH), [翊喬](https://open.spotify.com/artist/7ha60jo5xhSQfOblBzcxeB) | [Love?](https://open.spotify.com/album/5lqhwTPBfumlIQjJXUStTL) | 4:10 | 2022-05-19 |  |
+| [Love?](https://open.spotify.com/track/1kEddX5EQVIDq2qOUO3pxb) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC), [J.win](https://open.spotify.com/artist/6pcfBsij9bi4yKK1YMpYNH), [翊喬](https://open.spotify.com/artist/7ha60jo5xhSQfOblBzcxeB) | [Love?](https://open.spotify.com/album/5lqhwTPBfumlIQjJXUStTL) | 4:10 | 2022-05-19 | 2022-05-27 |
 | [Love’s Gravity](https://open.spotify.com/track/5XCCIDIX31Rc6RpU9EqBoR) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd), [Keril 韋喆](https://open.spotify.com/artist/5BjD0zLWPsE5SGC9rii43h) | [Love’s Gravity](https://open.spotify.com/album/0JzAE0fqe9gkbg39M4TfzP) | 2:39 | 2021-12-30 | 2022-01-21 |
 | [Maybe Maybe](https://open.spotify.com/track/55e4I1RfHjQT1XAf7glB2J) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Maybe Maybe](https://open.spotify.com/album/4Zkkd7RLPCMbs8U2RU2TWY) | 3:32 | 2022-01-13 | 2022-01-21 |
 | [music](https://open.spotify.com/track/1my6WsRdwWkB8rNRL9U0wi) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [music](https://open.spotify.com/album/74f2abiQasJUuM0HlRTjM8) | 3:41 | 2021-12-30 |  |
@@ -54,6 +54,7 @@
 | [Will You Be My Love \~ 問問 \- WBL系列影集第一季<永遠的第一名>片頭曲](https://open.spotify.com/track/22AmTAbvl3IjUodDT3JInW) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 3:21 | 2022-03-03 |  |
 | [Yes No Maybe](https://open.spotify.com/track/5ewXSPZ0jL4EKqmmgyA86s) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [Yes No Maybe](https://open.spotify.com/album/4jkzOXlMkapYIEYiTWyChI) | 2:57 | 2021-12-30 | 2022-01-21 |
 | [Yes No Maybe \(feat\. 桃子A1J\)](https://open.spotify.com/track/5CVLF555R63QYvmDQCKZAG) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC) | [Yes No Maybe \(feat\. 桃子A1J\)](https://open.spotify.com/album/6IwxNZDPjOnC0B1JLThqdo) | 2:57 | 2021-12-30 | 2022-03-25 |
+| [Yoohoo](https://open.spotify.com/track/1czNiios6D4whvN5oXkek7) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [Yoohoo](https://open.spotify.com/album/6CugJfTrHJm6FJDpnn3Njl) | 2:45 | 2022-05-26 |  |
 | [You Like Me](https://open.spotify.com/track/7x6lPvge2DmUzODEWkYYam) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [You Like Me](https://open.spotify.com/album/7gDEwYDkvHA7J2BOWnntBX) | 3:00 | 2021-12-30 | 2022-04-15 |
 | [You Say Goodbye Easily](https://open.spotify.com/track/4JiP9YjPXjP8Axcx779PKk) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:09 | 2022-02-10 | 2022-03-17 |
 | [一日](https://open.spotify.com/track/7w2w3bLo37unLedpgOTXyr) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 4:45 | 2021-12-30 | 2022-03-25 |
@@ -67,7 +68,7 @@
 | [你是我平行時空的巧遇](https://open.spotify.com/track/14ilwetmdS6oUmbtBCvvRG) | [Fang Wu](https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu), [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [生存法則](https://open.spotify.com/album/2WtwxC5NNElvkYrr7zsSDc) | 4:08 | 2021-12-30 |  |
 | [你殘忍可愛的傲慢](https://open.spotify.com/track/5okftR42QX111uKscZgrEv) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv), [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 4:02 | 2021-12-30 | 2022-01-14 |
 | [你為了我撐把傘](https://open.spotify.com/track/4EaJwA6CPIV30CX6mpHwbP) | [Gail](https://open.spotify.com/artist/6l81JeOQ3usizemdSG6mP7) | [你為了我撐把傘](https://open.spotify.com/album/1QArFdN4JJzfqEAlxovWGg) | 4:13 | 2022-02-03 | 2022-04-15 |
-| [來不及的告白 \- 東森電視自製戲劇《額外旅程》片頭曲](https://open.spotify.com/track/3Yip2BwY2pv3B8WN5JIBqD) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [來不及的告白 \(東森電視自製戲劇《額外旅程》片頭曲\)](https://open.spotify.com/album/4bSV4Nba05BmRD919Oobpb) | 3:35 | 2022-04-14 | 2022-05-20 |
+| [來不及的告白 \- 東森電視自製戲劇《額外旅程》片頭曲](https://open.spotify.com/track/3Yip2BwY2pv3B8WN5JIBqD) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [來不及的告白 \(東森電視自製戲劇《額外旅程》片頭曲\)](https://open.spotify.com/album/4bSV4Nba05BmRD919Oobpb) | 3:35 | 2022-04-14 |  |
 | [假裝沒變過](https://open.spotify.com/track/0kWUppVLq3IIvXjq36v8EU) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 4:21 | 2022-03-10 |  |
 | [偷走青春的歲月](https://open.spotify.com/track/4NEt76oRzbOeJeGFmmG4nn) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [偷走青春的歲月](https://open.spotify.com/album/2tJ659pRFGkbC9ibRswD8D) | 4:19 | 2022-02-10 |  |
 | [偽裝](https://open.spotify.com/track/4ys0CGJFqvaTONcGaOUST3) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4), [楊碧琪](https://open.spotify.com/artist/1q7gF9bMzxg1o1zpBrUEVV) | [偽裝](https://open.spotify.com/album/4I2LrNm0E4uctkNF3p4Orc) | 2:46 | 2022-03-24 | 2022-04-01 |
@@ -124,7 +125,7 @@
 | [歡迎來到我身邊 \- 《黑喵知情》插曲](https://open.spotify.com/track/5z1TGdyVjf2hQNV8iX09uL) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 3:28 | 2021-12-30 | 2022-01-14 |
 | [每一秒钟](https://open.spotify.com/track/75LwmPBzvVj2xtIB3G2J84) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [每一秒钟](https://open.spotify.com/album/0gGTyZ7uD5ZlUijJ2WOBvX) | 3:56 | 2021-12-30 | 2022-01-07 |
 | [浪費時間](https://open.spotify.com/track/4vSEkALKd7ksHwphWg3oNS) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [浪費時間](https://open.spotify.com/album/3CSze05DeS7ElFA5ppOcNP) | 3:05 | 2021-12-30 |  |
-| [溫室狂花](https://open.spotify.com/track/00aJoSrsoDIzFznPDkBUFP) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:30 | 2021-12-30 |  |
+| [溫室狂花](https://open.spotify.com/track/00aJoSrsoDIzFznPDkBUFP) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:30 | 2021-12-30 | 2022-05-27 |
 | [為什麼只留下我一個](https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [為什麼只留下我一個](https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL) | 3:46 | 2022-04-28 |  |
 | [為誰美麗 \(電視劇《小娘惹》片頭曲\)](https://open.spotify.com/track/2LkfGqX8noAbYSNJRrh4qb) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [為誰美麗 \(電視劇《小娘惹》片頭曲\)](https://open.spotify.com/album/2FMnoESoZ9w02fhGGe1z5N) | 4:38 | 2021-12-30 | 2022-01-21 |
 | [烏雲日記](https://open.spotify.com/track/2uMmfO7yMmi5yBH09pu8Hr) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [烏雲日記](https://open.spotify.com/album/7b7ppZfnyTff8gifjYdtxB) | 4:11 | 2022-03-10 | 2022-03-25 |
@@ -136,6 +137,7 @@
 | [稱職](https://open.spotify.com/track/4rGmfL85pgfnInGd7TWGoN) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [稱職](https://open.spotify.com/album/59oYBzmP7hyCBSIr4v6OXH) | 4:14 | 2021-12-30 | 2022-01-07 |
 | [積極太陽 Feat\. 反骨男孩](https://open.spotify.com/track/77FbbfzQ315DZCGlAcIBXM) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [反骨男孩](https://open.spotify.com/artist/7aaZll9P7r7OuplQY2F5zk) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 3:19 | 2022-02-03 | 2022-05-06 |
 | [精神賠償](https://open.spotify.com/track/6M4MSJfYOaqHMxNPQCePBP) | [Fang Wu](https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu), [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [生存法則](https://open.spotify.com/album/2WtwxC5NNElvkYrr7zsSDc) | 3:54 | 2021-12-30 | 2022-01-21 |
+| [絕美](https://open.spotify.com/track/2P6UP87aTcKxiozVOI5zxO) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 4:17 | 2022-05-26 |  |
 | [給妳的歌 \- 戲劇<網紅的瘋狂世界>插曲](https://open.spotify.com/track/4JDeSXA5DS365GDu3peN3K) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [dopaMINE 我,她](https://open.spotify.com/album/52S6rk20AFlIRBmOd214NN) | 3:58 | 2021-12-30 | 2022-05-06 |
 | [繞了這麼大一圈](https://open.spotify.com/track/5MnxfShrte129lNqz3ZJLg) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [繞了這麼大一圈](https://open.spotify.com/album/4VUsmsitdCoirtTa5wHKKm) | 3:57 | 2022-04-21 |  |
 | [罪人](https://open.spotify.com/track/4e8cX0iQczup7RBIFb21yz) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [罪人](https://open.spotify.com/album/570GBJS6md5fpH4klLyh6X) | 3:46 | 2022-05-19 |  |
@@ -144,7 +146,7 @@
 | [舊吉他](https://open.spotify.com/track/0uzCjSRzNUtjga2EBHMcZS) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [舊吉他](https://open.spotify.com/album/0OeBgpBdO48hW2S8YGO4IH) | 3:45 | 2022-03-24 |  |
 | [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 | 2022-02-17 |  |
 | [虧欠](https://open.spotify.com/track/5yiJ65THPeXiZFcYwh8t1U) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [虧欠](https://open.spotify.com/album/0UvqTkCJvKAt4W20NGu4SG) | 3:39 | 2021-12-30 |  |
-| [蝴蝶 \- 《基因決定我愛你》片尾曲](https://open.spotify.com/track/2FhgTu8oT3qDgGKsnzerQQ) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [蝴蝶 \(《基因決定我愛你》片尾曲\)](https://open.spotify.com/album/4C5ScE6NOUTKaLHFjiFvtw) | 3:12 | 2022-03-24 |  |
+| [蝴蝶 \- 《基因決定我愛你》片尾曲](https://open.spotify.com/track/2FhgTu8oT3qDgGKsnzerQQ) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [蝴蝶 \(《基因決定我愛你》片尾曲\)](https://open.spotify.com/album/4C5ScE6NOUTKaLHFjiFvtw) | 3:12 | 2022-03-24 | 2022-05-27 |
 | [血肉](https://open.spotify.com/track/7sGuReeKI5Q1AkBc1AOKkP) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/7xJYGibKb3w5YK25Zf4vrp) | 3:05 | 2021-12-30 | 2022-04-08 |
 | [說你愛我](https://open.spotify.com/track/72yzt0HsibF0bHqQgivEyl) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e), [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [說你愛我](https://open.spotify.com/album/0YerCHP3B8EYjRnRsLAzvD) | 4:08 | 2021-12-30 | 2022-03-17 |
 | [說說](https://open.spotify.com/track/1fHXUVBB2Ue0m1ln7lTgBj) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [說說](https://open.spotify.com/album/0eDYivzT1VRbKfTyIycrQp) | 3:28 | 2022-03-24 |  |

@@ -4,7 +4,7 @@
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-336 songs - 23 hr 30 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
+337 songs - 23 hr 34 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Lonely Earth](https://open.spotify.com/track/3E171f5u92cVbLmSX7g2Ka) | [Icarus](https://open.spotify.com/artist/17IDrizGUiveZm4P77Kkio) | [Lonely Earth](https://open.spotify.com/album/76TEKr1P60uUkKe4uml0TI) | 5:09 | 2019-07-22 |  |
 | [Love Song for a Replicant](https://open.spotify.com/track/3xLxPTdTGeHCsoUMvv5ZI8) | [The Goondock Saint](https://open.spotify.com/artist/79qUhH9vLHC84KOwNB3xNp) | [Love Song for a Replicant](https://open.spotify.com/album/0QceXgAzM1gNZV0pU8c2Sq) | 6:44 | 2019-07-15 |  |
 | [Magnatron Engaged](https://open.spotify.com/track/52xeom8gqH8s3WRtARlF3k) | [Absolute Valentine](https://open.spotify.com/artist/0ntJWEv4bwPUp16SabEbKM) | [Magnatron Engaged](https://open.spotify.com/album/3ILkH5ZVKysWlfmaiyN9mL) | 3:13 | 2020-08-14 |  |
+| [march of the goombas](https://open.spotify.com/track/43NkeFV8Di5WplEBnsUGFX) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [pretty warp machine](https://open.spotify.com/album/71o5I71H5VtESwvmhIywo7) | 4:25 | 2022-05-26 |  |
 | [March of the Interdimensional Strike Force](https://open.spotify.com/track/7zQhVNg1scTSA21wS2RRDD) | [Glitch Black](https://open.spotify.com/artist/24Ei0p5xLWgggh9XHUcofD) | [Hypercube](https://open.spotify.com/album/1UDqNvWSXwopS8LzelwC8G) | 2:38 | 2019-07-15 |  |
 | [Medusa](https://open.spotify.com/track/0hcPkJv0fLDPEanZBqKaCm) | [C Z A R I N A](https://open.spotify.com/artist/0GahP4xi6YHsQ7LL3dmjEd) | [Medusa](https://open.spotify.com/album/1olgyB7uw9CC3vgxBUVrih) | 4:44 | 2021-12-03 |  |
 | [Meet Matt Stryker](https://open.spotify.com/track/4FdQL99ZOQTAsAQv2EJGnw) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [TRILOGY](https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN) | 4:05 | 2019-07-15 | 2022-01-12 |

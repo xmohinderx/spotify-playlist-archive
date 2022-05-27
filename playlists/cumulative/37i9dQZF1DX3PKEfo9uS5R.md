@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-116 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
+117 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Dawn](https://open.spotify.com/track/3VFCT5TD5P9HQQIIEPcaiY) | [Von Sunshine](https://open.spotify.com/artist/3cSqgxGzUiV21kYqcrD6zB) | [Dawn](https://open.spotify.com/album/4gjEOyzw5Zwqc2fjFKyX7a) | 3:32 | 2021-11-11 | 2022-04-06 |
 | [Deeper Spheres](https://open.spotify.com/track/1pKglyymqDNY0yXIv94ztW) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Deeper Spheres](https://open.spotify.com/album/31jWTV8wMy7Q12z5ENEWWl) | 2:29 | 2021-11-11 | 2022-01-22 |
 | [Don't Stop My Heart](https://open.spotify.com/track/5P4EpJA9NgsBpzDoGO4A98) | [dvine](https://open.spotify.com/artist/3VV2pfR0CoFp9JbX6PsaLs) | [Don't Stop My Heart](https://open.spotify.com/album/59vG5QyIX7REK3sxomex53) | 3:14 | 2022-04-15 |  |
+| [Don't Wanna Let Go](https://open.spotify.com/track/3GINyEMoUV13pzJxNMuvxW) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Don't Wanna Let Go](https://open.spotify.com/album/2RQ5mV8lNxAzLRi8xKTgie) | 2:28 | 2022-05-27 |  |
 | [Extrinsic](https://open.spotify.com/track/5NRnGOcVYxj01G7osJWKgV) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Picturesque](https://open.spotify.com/album/1TLkNZ4uXScUE03mlYOnEe) | 5:23 | 2021-11-11 | 2022-05-20 |
 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 | 2021-11-11 |  |
 | [Faro](https://open.spotify.com/track/3UUVf6kCaIXaDADINeYQ4V) | [Afonso Jardim](https://open.spotify.com/artist/42tsH6bAB8RIb2qAZ2Y612) | [Faro](https://open.spotify.com/album/6PfCd47IGXI9k07OhWkJe4) | 2:23 | 2021-11-11 |  |

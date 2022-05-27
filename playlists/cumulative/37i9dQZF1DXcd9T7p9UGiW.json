@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z?si=jItz2h-iSlemR-OsB9l9_Q\" > Chris Brown </a>, <a href=\"https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=JC7f3NJITKOPcB7In_xIWg\" > Lojay </a> and  <a href=\"https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ?si=ZjvApdSBSkCgtGv_yt4YiA\" > Sarz </a> ",
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV?si=VUZ6JT32TSWUEHgciPxO1A\" > Nonso Amadi </a> and <a href=\"https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk?si=JAedgucyRgO1t2lnUIdo5A\" > Majid Jordan </a> ",
   "name": "Gone Abroad ",
   "published_playlist_ids": [
     "3Y8M6G8CEpUSth190sL4SQ"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 163998,
       "name": "Ameno Amapiano (You Wanna Bamba) - David Guetta Remix",
       "url": "https://open.spotify.com/track/5PgFDViEidcISOm5GGAIBG"
@@ -450,6 +450,32 @@
     },
     {
       "album": {
+        "name": "blessing me (with Pa Salieu & Skillibeng)",
+        "url": "https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165507,
+      "name": "blessing me (with Pa Salieu & Skillibeng)",
+      "url": "https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn"
+    },
+    {
+      "album": {
         "name": "Blow My Mind",
         "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
       },
@@ -708,6 +734,28 @@
     },
     {
       "album": {
+        "name": "Different (With Majid Jordan)",
+        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Different (With Majid Jordan)",
+      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
+    },
+    {
+      "album": {
         "name": "Arrested by Love",
         "url": "https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8"
       },
@@ -745,7 +793,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 186341,
       "name": "End Of The Wicked (feat. Octavian)",
       "url": "https://open.spotify.com/track/44wbg5P53VGNBCtg9nxYtm"
@@ -1375,7 +1423,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 182666,
       "name": "Killa (feat. DaVido)",
       "url": "https://open.spotify.com/track/46YL800EFmXBhOjab7MLsy"
@@ -1431,7 +1479,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 162462,
       "name": "Lane",
       "url": "https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG"
@@ -2253,7 +2301,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 186952,
       "name": "Peru - Remix",
       "url": "https://open.spotify.com/track/7voSun33hCNkIrjxaj3g47"
@@ -2279,6 +2327,36 @@
       "duration_ms": 205640,
       "name": "Play Play (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
+    },
+    {
+      "album": {
+        "name": "Poppin'",
+        "url": "https://open.spotify.com/album/16HLb3NFsQ4lZj405mBHyG"
+      },
+      "artists": [
+        {
+          "name": "Django23",
+          "url": "https://open.spotify.com/artist/6idAEKryH3ywILH6WYFWZ9"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "TSB",
+          "url": "https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Poppin'",
+      "url": "https://open.spotify.com/track/582GTwikEv86oVKjYvfwcM"
     },
     {
       "album": {
@@ -2604,6 +2682,32 @@
     },
     {
       "album": {
+        "name": "Sidung Pun It",
+        "url": "https://open.spotify.com/album/4sPVkb6wM1tNS5wNKpG1HY"
+      },
+      "artists": [
+        {
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Dee Mad",
+          "url": "https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175590,
+      "name": "Sidung Pun It",
+      "url": "https://open.spotify.com/track/2708ppz0oLzi7tF3VxN5f0"
+    },
+    {
+      "album": {
         "name": "Simmer (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM"
       },
@@ -2833,6 +2937,28 @@
       "duration_ms": 211935,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
+    },
+    {
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/4mirrfYpCpG8UeXFskfWal"
+      },
+      "artists": [
+        {
+          "name": "Bbanner",
+          "url": "https://open.spotify.com/artist/1LpLNp9LL2xCWOBPbxbQcG"
+        },
+        {
+          "name": "Daev Zambia",
+          "url": "https://open.spotify.com/artist/4WzzjGo80jU0oO6mPMrJZW"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164874,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6cCwQS0nqtrMLkpkp6MPvo"
     },
     {
       "album": {

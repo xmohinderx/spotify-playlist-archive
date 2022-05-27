@@ -4,7 +4,7 @@
 
 > Los éxitos urbanos del mañana\. Rising Latin artists just for you\. Cover: Hozwal
 
-116 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/32kFCfM5TRdCpbu16LS7N2)
+117 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/32kFCfM5TRdCpbu16LS7N2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [G Wagon](https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [G Wagon](https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq) | 3:29 | 2022-03-21 | 2022-05-24 |
 | [G&P3](https://open.spotify.com/track/1SHk2Omw2oQGZkV14YYqdq) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [G&P3](https://open.spotify.com/album/4O2bbARYjOpydvQppaTSpQ) | 3:16 | 2022-03-21 | 2022-05-24 |
 | [Gitana](https://open.spotify.com/track/6jI8HyJTIbhBu5wSSr59sk) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Fama y Fe](https://open.spotify.com/album/75wB5dRK42aKAtSIMMrFvX) | 3:03 | 2022-05-06 | 2022-05-24 |
+| [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 | 2022-05-26 |  |
 | [Guay](https://open.spotify.com/track/3voNGqzixtoyzTBQd3tKXl) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Guay](https://open.spotify.com/album/0tqQ2CaKB7HMaWKWeQOnOR) | 3:17 | 2022-04-15 |  |
 | [GUCCI FENDI](https://open.spotify.com/track/30VNqIVJx9ONVBNJorbemZ) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [GUCCI FENDI](https://open.spotify.com/album/4gq09H4WcVcwhBgvvBsWI8) | 2:52 | 2022-03-21 | 2022-05-07 |
 | [hebilla](https://open.spotify.com/track/0W1x3Q875nkNUM0386f1Ha) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Cami Da Baby](https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE) | [hebilla](https://open.spotify.com/album/3GxYLJZd0U74GvLipaMa7F) | 3:43 | 2022-03-21 | 2022-04-02 |

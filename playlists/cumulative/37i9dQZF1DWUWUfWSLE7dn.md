@@ -4,7 +4,7 @@
 
 > The perfect score to accompany your literary quest.
 
-72 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+75 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aléatoire](https://open.spotify.com/track/2eHtBGvfD7PD7SiTl52Vxr) | [Darker In Vine](https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg) | [Aléatoire](https://open.spotify.com/album/7KA3DTbG22n9hPSSV3YruJ) | 2:58 | 2022-03-09 |  |
 | [Are We Safe Here?](https://open.spotify.com/track/5OeLXyhjckLq6w8l6skNcP) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/45vmEN7UhIUPAYAXoPJzlW) | 2:31 | 2022-03-09 |  |
 | [Bathsheba and Oak Unite](https://open.spotify.com/track/5EdYF3AG4xOETuvBHukWZn) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 1:35 | 2022-03-09 |  |
+| [Berlin in the Spring](https://open.spotify.com/track/4NENWUAP1fsHXox2icF2nh) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [My Head In The Clouds](https://open.spotify.com/album/0udR5qJBKSa1JdHtqWueN7) | 2:48 | 2022-05-27 |  |
 | [Bonnie at Morn \- Amy's](https://open.spotify.com/track/7AOd1tPuzk4OixBPGJFp9k) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Jackie Moran](https://open.spotify.com/artist/7n7z1ZyAvXU0Hzy5Afawri), [Ensemble Galilei](https://open.spotify.com/artist/38xsbLMXenDwkPP8SPAAV6) | [From Whence We Came](https://open.spotify.com/album/21XKiwC8lWeMl58vLKf8NP) | 6:49 | 2022-03-09 |  |
 | [Circumstance](https://open.spotify.com/track/3ZlzHAwaQByuxXryxZSOR5) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 3:21 | 2022-03-09 |  |
 | [Cloudsailing](https://open.spotify.com/track/7aHbZez2yeqJFJWalKL0WH) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Windflower](https://open.spotify.com/album/5pMpxNkROAIq7wygp4oHbl) | 3:19 | 2022-03-09 |  |
@@ -45,10 +46,12 @@
 | [Let's Run Away Together](https://open.spotify.com/track/7jxJHRmtMpGNR3EmxnspDB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/4dgeskwXtoICOIJuPqXBAt) | 2:57 | 2022-03-09 |  |
 | [Longing for Home](https://open.spotify.com/track/5hlTmuQfCoH7MSEDmAP4Vo) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Human Revolution](https://open.spotify.com/album/6vsWQN5DoKQ6OydmtfBT0r) | 2:09 | 2022-03-09 |  |
 | [Lord Of The Isles](https://open.spotify.com/track/3zLNU3h0xqTmQylllUa1JS) | [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [A History Of Scotland](https://open.spotify.com/album/0eUIFRjts9n258Sj83kpEY) | 2:07 | 2022-03-09 |  |
+| [Love Story](https://open.spotify.com/track/4Gg43XFgDBpctwZ2pFyb57) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Love Story](https://open.spotify.com/album/2sZMi1e8K2hgKysJxQ0onH) | 2:45 | 2022-05-27 |  |
 | [May You Have](https://open.spotify.com/track/4lxipbD2T5d8Qf9D5zcLyx) | [Bonnie Grace](https://open.spotify.com/artist/3z6E6ZPwJ7l0mp3HHcOfd2) | [Highland Hymn](https://open.spotify.com/album/6zmxkrUeUrSVtDMqggKDRb) | 3:12 | 2022-03-09 |  |
 | [Missing Elena](https://open.spotify.com/track/1uBtPNNgpnizxqnsaxp8lm) | [Jonas Kvarnström](https://open.spotify.com/artist/4qZrlSJ1sikAjQS9rrBBpx) | [Missing Elena](https://open.spotify.com/album/7u9xxfqJGVZlIx7oI2yXRz) | 3:20 | 2022-05-20 |  |
 | [Moon Runes \- Extended Version](https://open.spotify.com/track/0EUpzQP8Ni647J0hPXAclB) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit: An Unexpected Journey \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/78al1cFOvo6eGowGidkRG5) | 3:39 | 2022-03-09 |  |
 | [Moonlight Prayer \- Piano & Strings](https://open.spotify.com/track/1CqSw1Rynu35M4EhqCh4xE) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN), [Francois Mathian](https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX) | [Moonlight Prayer](https://open.spotify.com/album/2xZAp8HYapMLx6HtA2i31r) | 3:03 | 2022-05-20 |  |
+| [My Head In The Clouds](https://open.spotify.com/track/11dmZhwlQtVxuIN6qp0i7G) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [My Head In The Clouds](https://open.spotify.com/album/0udR5qJBKSa1JdHtqWueN7) | 2:30 | 2022-05-27 |  |
 | [Now Is The Time To Leave](https://open.spotify.com/track/2RbeJPjEW9kcoFVmiQabnU) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/45vmEN7UhIUPAYAXoPJzlW) | 2:08 | 2022-03-09 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/00BHa28nUX4B9U8BGeacqx) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Once in a Lifetime](https://open.spotify.com/album/5oFBExdi3Xlfy4eMTdO9QE) | 2:37 | 2022-03-09 |  |
 | [Ondulante](https://open.spotify.com/track/0eDBnFUrIsOq7wf2d7vvr0) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Ambientalismo](https://open.spotify.com/album/150OGcG307oqzZadHxUcQH) | 3:00 | 2022-03-09 |  |

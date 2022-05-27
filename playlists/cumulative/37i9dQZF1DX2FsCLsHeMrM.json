@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Weird Invitations",
+        "url": "https://open.spotify.com/album/0dIYBkNpcKisysENNEnNWh"
+      },
+      "artists": [
+        {
+          "name": "Phlake",
+          "url": "https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222173,
+      "name": "A Weird Invitation",
+      "url": "https://open.spotify.com/track/3SPxHi67DqepKSSCAzlKBC"
+    },
+    {
+      "album": {
         "name": "Kaleidoscope Dream",
         "url": "https://open.spotify.com/album/0vlIws8YGMQAbMEkubJgAP"
       },
@@ -175,7 +193,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 281866,
       "name": "As",
       "url": "https://open.spotify.com/track/1aRfAE3q4TjJuG3mNwEJkt"
@@ -265,7 +283,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 167440,
       "name": "Bay",
       "url": "https://open.spotify.com/track/4XJ7cqtj8wJNFkOh2tVOLB"
@@ -1447,7 +1465,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 211000,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs"
@@ -2457,7 +2475,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 190152,
       "name": "Starchild",
       "url": "https://open.spotify.com/track/13Gt4A1ZbYkZbfdQsjKGR6"
@@ -3183,7 +3201,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 256946,
       "name": "You Know I'm No Good",
       "url": "https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2"

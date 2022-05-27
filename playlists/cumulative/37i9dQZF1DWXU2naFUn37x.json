@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova casa dello street rap italiano. Benvenuti su Street Culto. Cover: Capo Plaza",
+  "description": "La nuova casa dello street rap italiano. Cover: SEVEN 7oo",
   "name": "Street Culto",
   "published_playlist_ids": [
     "2xFrA1gU60YSyblsw3BI3i"
@@ -23,10 +23,36 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 141904,
       "name": "#SI (feat. Tony Effe)",
       "url": "https://open.spotify.com/track/0o8RvXnvLD400LkZvwj6lC"
+    },
+    {
+      "album": {
+        "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Drillionaire",
+          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+        },
+        {
+          "name": "Verano",
+          "url": "https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140297,
+      "name": "181",
+      "url": "https://open.spotify.com/track/3yEA1LJvalVoh8ejwq7PHD"
     },
     {
       "album": {
@@ -63,10 +89,40 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 144832,
       "name": "5 testimoni",
       "url": "https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh"
+    },
+    {
+      "album": {
+        "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Luciennn",
+          "url": "https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP"
+        },
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119400,
+      "name": "9.19",
+      "url": "https://open.spotify.com/track/4xlVDf8pSGnjJGwTT6dyXw"
     },
     {
       "album": {
@@ -81,7 +137,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 151979,
       "name": "Antipatico",
       "url": "https://open.spotify.com/track/2ie4n6tymDnMjYkN32WWLV"
@@ -208,6 +264,44 @@
     },
     {
       "album": {
+        "name": "SEVEN 7oo Mixtape",
+        "url": "https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG"
+      },
+      "artists": [
+        {
+          "name": "SEVEN 7oo",
+          "url": "https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU"
+        },
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Kilimoney",
+          "url": "https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142280,
+      "name": "BLINDO (feat. Neima Ezza, Kilimoney, Baby Gang, Sacky, Nko)",
+      "url": "https://open.spotify.com/track/03dd5gevLZFF38pRImioOt"
+    },
+    {
+      "album": {
         "name": "GVESVS",
         "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
       },
@@ -325,7 +419,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 183174,
       "name": "Caramba",
       "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
@@ -602,6 +696,28 @@
     },
     {
       "album": {
+        "name": "HOUMA",
+        "url": "https://open.spotify.com/album/5w61uZnYtLBWGxpFcsJLF3"
+      },
+      "artists": [
+        {
+          "name": "Helmi sa7bi",
+          "url": "https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164908,
+      "name": "HOUMA",
+      "url": "https://open.spotify.com/track/6HYJLFIqcRzL7uwcnq2JKC"
+    },
+    {
+      "album": {
         "name": "Italiano Anthem",
         "url": "https://open.spotify.com/album/0lv5APWWEFXdXjUXNOKaZx"
       },
@@ -643,6 +759,32 @@
       "duration_ms": 196056,
       "name": "JEANS (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/1pjSpXlkz4iqFIesJIPZU7"
+    },
+    {
+      "album": {
+        "name": "AMBIZIONE",
+        "url": "https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV"
+      },
+      "artists": [
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163749,
+      "name": "Jump (feat. Lazza)",
+      "url": "https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP"
     },
     {
       "album": {
@@ -836,6 +978,44 @@
     },
     {
       "album": {
+        "name": "SEVEN 7oo Mixtape",
+        "url": "https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG"
+      },
+      "artists": [
+        {
+          "name": "SEVEN 7oo",
+          "url": "https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU"
+        },
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Kilimoney",
+          "url": "https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG"
+        },
+        {
+          "name": "Keta",
+          "url": "https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179946,
+      "name": "NVNSNP (feat. Sacky, Neima Ezza, Kilimoney, Keta, Nko)",
+      "url": "https://open.spotify.com/track/125tb3apTnaopglXzXszi3"
+    },
+    {
+      "album": {
         "name": "OPINEL",
         "url": "https://open.spotify.com/album/2U5ZEIR5SEgFY9RwtU4zIV"
       },
@@ -921,7 +1101,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 166522,
       "name": "PULL UP (feat. Big P)",
       "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
@@ -947,10 +1127,40 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 169837,
       "name": "QATAR (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/52yqv38F8T4KbsGYieEg03"
+    },
+    {
+      "album": {
+        "name": "SEVEN 7oo Mixtape",
+        "url": "https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG"
+      },
+      "artists": [
+        {
+          "name": "SEVEN 7oo",
+          "url": "https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155786,
+      "name": "RAP (feat. Rondodasosa, Sacky, Neima Ezza)",
+      "url": "https://open.spotify.com/track/4M8YEPfCBxN3fsZkatCCLz"
     },
     {
       "album": {
@@ -991,7 +1201,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 177230,
       "name": "Senza Regole",
       "url": "https://open.spotify.com/track/6OmBXkYM9IJxNLn4Z4vKBs"
@@ -1105,10 +1315,44 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 211660,
       "name": "SOLITE PARE (feat. tha Supreme & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3NbehQmQsyuN17EP7dW5mJ"
+    },
+    {
+      "album": {
+        "name": "SEVEN 7oo Mixtape",
+        "url": "https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG"
+      },
+      "artists": [
+        {
+          "name": "SEVEN 7oo",
+          "url": "https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Vale pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "Keta",
+          "url": "https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166880,
+      "name": "SPACCIATORE (feat. Gazo, Vale Pain, Keta, Nko)",
+      "url": "https://open.spotify.com/track/61CX76RLIHI1RELTfVT0mM"
     },
     {
       "album": {
@@ -1285,7 +1529,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 173333,
       "name": "Una Chance",
       "url": "https://open.spotify.com/track/5brevnJdMxziQov6zyaQ1f"

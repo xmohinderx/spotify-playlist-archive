@@ -4,17 +4,18 @@
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-100 songs - 6 hr 12 min - not published yet
+102 songs - 6 hr 18 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Su Merced](https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ) | [Liliana Felipe](https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV) | [Elotitos Tiernos](https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt) | 6:32 | 2020-05-28 |  |
+| [Afro Blue \- Koop Remix](https://open.spotify.com/track/5LUlXoQuBZDHPTA9uhdvMp) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0), [Koop](https://open.spotify.com/artist/14NPkkAvH5KHqZhqFpuJEg) | [Luaka Bop Remix](https://open.spotify.com/album/7uNWWbWA8GKZBky6KYxIvT) | 2:46 | 2022-01-11 |  |
 | [Aguacate](https://open.spotify.com/track/6AerfqsL2ISs64dixwrfM5) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Pa'lante](https://open.spotify.com/album/1IgfNMFIkkqSoZpjp1aEf9) | 3:08 | 2020-05-28 |  |
 | [Allo Mambo](https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx) | [Karl Zéro](https://open.spotify.com/artist/21hW4GIKTshnE6ZQgiB79M) | [Songs for Moonlight Swim and Otros Tipos de Ocupaciones](https://open.spotify.com/album/3g6U2KUU7oi8Fog3bGX3ni) | 2:45 | 2020-05-28 |  |
 | [Alma de Cantaora](https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg) | [Alma de Cantaora](https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO) | 4:50 | 2022-01-11 |  |
 | [Amado Mio](https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 4:49 | 2022-01-11 |  |
 | [Anna \(El Negro Zumbon\)](https://open.spotify.com/track/4zE7FbDsTiikGfy09uzgRi) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Hang On Little Tomato](https://open.spotify.com/album/00ufkobVchUc1GnJYu734s) | 2:36 | 2020-05-28 |  |
-| [Anna \(El negro zumbón\)](https://open.spotify.com/track/5wKLe0kCu0w0e5gNZZanWm) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [The Space Age Sound Of](https://open.spotify.com/album/5MS5GDNq9qrW3fvq9u0YDo) | 2:44 | 2020-05-28 |  |
+| [Anna \(El negro zumbón\)](https://open.spotify.com/track/5wKLe0kCu0w0e5gNZZanWm) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [The Space Age Sound Of](https://open.spotify.com/album/5MS5GDNq9qrW3fvq9u0YDo) | 2:44 | 2020-05-28 | 2022-05-27 |
 | [Apocalypso](https://open.spotify.com/track/6hgDFkV8ZAFFI6F9kvUFns) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Bi](https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483) | 4:27 | 2020-05-28 |  |
 | [Arroz Con Frijoles](https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 4:01 | 2020-05-28 |  |
 | [Ay Mexicanita](https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX) | [Banda de los Muertos](https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g) | [Banda de los Muertos](https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1) | 3:07 | 2020-05-28 |  |
@@ -53,7 +54,7 @@
 | [Hot Tamales \(Los Tamalitos De Olga\)](https://open.spotify.com/track/3zZHmISLTaGk3wbYu3Ct0o) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Complete 78s Volume IV](https://open.spotify.com/album/6qCccqKzNPWnQwP0jTGgYK) | 2:33 | 2020-05-28 |  |
 | [Jacarandosa \- Remastered](https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Por siempre Los Panchos, Vol\. 1 \- Noche de ronda y otros éxitos \(Remastered\)](https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8) | 3:06 | 2022-01-11 |  |
 | [Kiko and the Lavender Moon](https://open.spotify.com/track/2JxHZfZM0ysnwPDefDl8Mz) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Kiko](https://open.spotify.com/album/12AL1C0jglsaMYHwTsvA7w) | 3:35 | 2022-01-11 |  |
-| [Kind Of Latin Rhythm](https://open.spotify.com/track/34wO7W3ir2VEuSD9pz8BAo) | [The Juju Orchestra](https://open.spotify.com/artist/2QZdpDHfCJCFv1BE1GhL8h) | [Bossa Nova Is Not A Crime](https://open.spotify.com/album/7ce4eayVRU30ueZdLhisCQ) | 7:21 | 2022-01-11 |  |
+| [Kind Of Latin Rhythm](https://open.spotify.com/track/34wO7W3ir2VEuSD9pz8BAo) | [The Juju Orchestra](https://open.spotify.com/artist/2QZdpDHfCJCFv1BE1GhL8h) | [Bossa Nova Is Not A Crime](https://open.spotify.com/album/7ce4eayVRU30ueZdLhisCQ) | 7:21 | 2022-01-11 | 2022-05-27 |
 | [La Bruja](https://open.spotify.com/track/4VWPPn68WVGZK2xwDzS9KE) | [Conjunto Jardin](https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0) | [Nuevo Son Jarocho](https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr) | 4:22 | 2022-01-11 |  |
 | [La Cumbia Del Mole](https://open.spotify.com/track/3zZWGXbq4ybpt2ux4c0KXV) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M), [Max Baca](https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW) | [La Cantina](https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G) | 4:10 | 2022-01-11 |  |
 | [La Danza de los Simpsons](https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Cuatro Tigres](https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR) | 2:26 | 2020-05-28 |  |
@@ -84,6 +85,7 @@
 | [Ojalá que llueva café](https://open.spotify.com/track/7dDDsr1cMbpkE5MZLy8eHA) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:27 | 2022-01-11 |  |
 | [Oracion Caribe](https://open.spotify.com/track/2suXSczsXESGn9XsWvfPJG) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/4UlE2kIAik6pcM15aztAhs) | 2:43 | 2020-05-28 |  |
 | [Oracion Caribe](https://open.spotify.com/track/7EEgaEck35oVTzXGFOm7Kr) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [La Reina de Veracruz](https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo) | 3:01 | 2022-01-11 |  |
+| [Paga la Cuenta Sinvergüenza](https://open.spotify.com/track/2qSwLZX8vdTsox4IPbQLB8) | [Manzanita y su Conjunto](https://open.spotify.com/artist/5ybBgREkVrODhrtj94QBkc) | [The Best of Chicha: Cumbias, Vol\. 5 \(Spicy Tropical Sounds from Perú\)](https://open.spotify.com/album/5MXDE3BEHOpUoROq53KGnn) | 3:13 | 2020-05-28 |  |
 | [Paleta](https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW) | 2:40 | 2020-05-28 |  |
 | [Paletero](https://open.spotify.com/track/7ItyQF5aDdr6kizFmQ1u7T) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [Tastes Like L.A.](https://open.spotify.com/album/5SHxpx9zusBX63FOcIo45w) | 3:55 | 2020-05-28 |  |
 | [Palmar](https://open.spotify.com/track/7wwHXlNsf2HkaVukGNVy8f) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Loca Navidad Latin Rock Vol\. 4](https://open.spotify.com/album/0kDXegd5ADxlS4OhzYhgUX) | 3:13 | 2022-01-11 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h?si=5SZSnm7-RNGAizqKbMG_Kg\"> Obongjayar </a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r?si=68MGqVm1StefOmjb8UJJCA\"> Raytheboffin</a> ",
   "name": "Alt\u00e9 Cruise",
   "published_playlist_ids": [
     "3abyZu302ITz5DM9hnTS7F"
@@ -1586,6 +1586,32 @@
     },
     {
       "album": {
+        "name": "Jump On It (REMIX)",
+        "url": "https://open.spotify.com/album/3JI4J8tbDetUugD4Dn7CU8"
+      },
+      "artists": [
+        {
+          "name": "Bankyondbeatz",
+          "url": "https://open.spotify.com/artist/7DpKQ2Ynq3k9C1zgV8fxJV"
+        },
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165981,
+      "name": "Jump On It - Sut\u00e9 Iwar Remix",
+      "url": "https://open.spotify.com/track/6lpkLT4vmzTAyDJA8SF5bF"
+    },
+    {
+      "album": {
         "name": "Ileke",
         "url": "https://open.spotify.com/album/1I6GnLLD7UEjZfEdGSxA3s"
       },
@@ -2571,7 +2597,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 145471,
       "name": "Saviour",
       "url": "https://open.spotify.com/track/5NaYtbE1183SMAa57dDH8w"
@@ -2771,6 +2797,28 @@
       "duration_ms": 149690,
       "name": "sorry it didn't work out",
       "url": "https://open.spotify.com/track/4fhWjpuQMX2JelLPLhTm0a"
+    },
+    {
+      "album": {
+        "name": "Run Boy, Run",
+        "url": "https://open.spotify.com/album/1wDia3xzNcoGtQofuxPCD0"
+      },
+      "artists": [
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        },
+        {
+          "name": "Iver Rivers",
+          "url": "https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118500,
+      "name": "Spaces",
+      "url": "https://open.spotify.com/track/39OoLE3Sme5QomMYe4PfoU"
     },
     {
       "album": {
@@ -3219,7 +3267,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 180840,
       "name": "Trappin'",
       "url": "https://open.spotify.com/track/5plaVEdji1xkIuEEKvuVEt"

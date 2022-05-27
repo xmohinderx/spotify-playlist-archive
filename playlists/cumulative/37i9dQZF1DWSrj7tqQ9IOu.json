@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: La Belle Vie",
+  "description": "The best French indie tracks right now. Cover: Iz\u00efa",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -345,6 +345,24 @@
       "duration_ms": 149000,
       "name": "Comment tu vas finir",
       "url": "https://open.spotify.com/track/4I0ZSC98oOw0S1f9cb9qxT"
+    },
+    {
+      "album": {
+        "name": "Construire un feu",
+        "url": "https://open.spotify.com/album/5ohn4rsXCl5TyIOKT6vxW6"
+      },
+      "artists": [
+        {
+          "name": "Vickie Cherie",
+          "url": "https://open.spotify.com/artist/7mUVdIwwAN5YJlMMir29Up"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239834,
+      "name": "Construire un feu",
+      "url": "https://open.spotify.com/track/06fPgubILYvUlNHW9MzBuS"
     },
     {
       "album": {
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 173253,
       "name": "La vie de tous les jours",
       "url": "https://open.spotify.com/track/5smfgFsXaD4F510jOD0wLa"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 222373,
       "name": "Les jolies choses",
       "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
@@ -1963,6 +1981,24 @@
       "duration_ms": 238727,
       "name": "Tata",
       "url": "https://open.spotify.com/track/5toHaNWeaCf5cw9Jfn6yK4"
+    },
+    {
+      "album": {
+        "name": "Tears for Breakfast",
+        "url": "https://open.spotify.com/album/2GkLSiLPblsCvB5BpFCRcp"
+      },
+      "artists": [
+        {
+          "name": "Eug\u00e9nie",
+          "url": "https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169510,
+      "name": "Tears for Breakfast",
+      "url": "https://open.spotify.com/track/2uN5St1CwzuDOasc833jHd"
     },
     {
       "album": {

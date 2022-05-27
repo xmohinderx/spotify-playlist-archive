@@ -1,13 +1,29 @@
 {
   "description": "As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.",
-  "num_followers": 240978,
+  "num_followers": 241030,
   "original_name": "Wine & Dine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzUyNzA0OSwwMDAwMDAwMDc5Yjk5YmUzNWU3NDJmZDkxZjYzMzEyN2ExZGVmZmY3",
+  "snapshot_id": "MTY1MzYxMzEzOSwwMDAwMDAwMDk2M2UxYTc4MmJlNjU5YzUyNGZkNWU4OWVlNmI2ZWIx",
   "tracks": [
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Anything For You",
+        "url": "https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 256542,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/3buWaZh2ajXTWsdp8XTBKk"
+    },
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
@@ -31,18 +47,18 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Anything For You",
-        "url": "https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI"
+        "name": "Sent From Heaven",
+        "url": "https://open.spotify.com/album/7Ef242KNZIJj4Y5oFcun6A"
       },
       "artists": [
         {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
         }
       ],
-      "duration_ms": 256542,
-      "name": "Anything For You",
-      "url": "https://open.spotify.com/track/3buWaZh2ajXTWsdp8XTBKk"
+      "duration_ms": 239600,
+      "name": "Sent From Heaven",
+      "url": "https://open.spotify.com/track/13g01AZFJxiAj6s5nfD4PJ"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -63,8 +79,76 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Sent From Heaven",
-        "url": "https://open.spotify.com/album/7Ef242KNZIJj4Y5oFcun6A"
+        "name": "Q's Jook Joint",
+        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 373266,
+      "name": "You Put A Move On My Heart",
+      "url": "https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "80's The Collection",
+        "url": "https://open.spotify.com/album/3GDOnLCioGbwCWMi0SNqat"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/3Z6DV0jsGqCs4whsfda7lX"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Voyage To India",
+        "url": "https://open.spotify.com/album/1i7DI6AtWXwll2cBb9hn9q"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "Beautiful Surprise",
+      "url": "https://open.spotify.com/track/4dlh921u5Ojn59FK2TOC24"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 225255,
+      "name": "Whenever Wherever Whatever - Remastered 2021",
+      "url": "https://open.spotify.com/track/5qUNf2ihX0M4uY1qi9GMRp"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
       },
       "artists": [
         {
@@ -72,9 +156,9 @@
           "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
         }
       ],
-      "duration_ms": 239600,
-      "name": "Sent From Heaven",
-      "url": "https://open.spotify.com/track/13g01AZFJxiAj6s5nfD4PJ"
+      "duration_ms": 293400,
+      "name": "Spend The Night",
+      "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -111,18 +195,18 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "The Essential O'Jays",
-        "url": "https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8"
+        "name": "Let's Get It On (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 317906,
-      "name": "Lovin' You",
-      "url": "https://open.spotify.com/track/1JPJQLSYAvPp4qnzC8Uk6Y"
+      "duration_ms": 209000,
+      "name": "I'd Give My Life For You - Alternate Mix",
+      "url": "https://open.spotify.com/track/1emvYBqAWFPpFUQyhBG9He"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -143,34 +227,34 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Best Of/20th Century",
-        "url": "https://open.spotify.com/album/58ayZ7H3nOOxnprK7Nrwf8"
+        "name": "Illumination",
+        "url": "https://open.spotify.com/album/24QQHdqK3VHd6RYlEkUHRE"
       },
       "artists": [
         {
-          "name": "Incognito",
-          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
+          "name": "Earth & Wind & Fire feat. Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/1xfBni7Tz8gx8s2fb64aeE"
         }
       ],
-      "duration_ms": 395066,
-      "name": "Deep Waters",
-      "url": "https://open.spotify.com/track/4MmwyJaWLDXjjWzXQti4cl"
+      "duration_ms": 467733,
+      "name": "Show Me the Way",
+      "url": "https://open.spotify.com/track/64mSigGWctZbfbfFpmBeer"
     },
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+        "name": "The Essential O'Jays",
+        "url": "https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 216426,
-      "name": "Knocks Me Off My Feet",
-      "url": "https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"
+      "duration_ms": 317906,
+      "name": "Lovin' You",
+      "url": "https://open.spotify.com/track/1JPJQLSYAvPp4qnzC8Uk6Y"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -191,38 +275,66 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Rahsaan Patterson",
-        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+        "name": "Kenny Lattimore",
+        "url": "https://open.spotify.com/album/1H10hT3tMPtL2uD3rIQRUE"
       },
       "artists": [
         {
-          "name": "Rahsaan Patterson",
-          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+          "name": "Kenny Lattimore",
+          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
         }
       ],
-      "duration_ms": 293400,
-      "name": "Spend The Night",
-      "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
+      "duration_ms": 237200,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4eI8okfmurpexL41RdjkGA"
     },
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Q's Jook Joint",
-        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
       "artists": [
         {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 430000,
+      "name": "Orange Moon",
+      "url": "https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Tamia",
+        "url": "https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV"
+      },
+      "artists": [
         {
           "name": "Tamia",
           "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
         }
       ],
-      "duration_ms": 373266,
-      "name": "You Put A Move On My Heart",
-      "url": "https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30"
+      "duration_ms": 261866,
+      "name": "So Into You",
+      "url": "https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "True to Myself",
+        "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
+      },
+      "artists": [
+        {
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+        }
+      ],
+      "duration_ms": 286973,
+      "name": "Let's Stay Together - Midnight Mix",
+      "url": "https://open.spotify.com/track/13fIg7eB5MP9slSQayHhjH"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -247,6 +359,54 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 329400,
+      "name": "Lifetime - Remastered 2021",
+      "url": "https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 358626,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "In Square Circle",
+        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Overjoyed",
+      "url": "https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
         "name": "Outrun The Sky",
         "url": "https://open.spotify.com/album/6owHkIavlncFxnnbUMJwbE"
       },
@@ -259,90 +419,6 @@
       "duration_ms": 352400,
       "name": "Forever, For Always, For Love",
       "url": "https://open.spotify.com/track/6tQX9qDeJ88Vhk7uZfFvNo"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Voyage To India",
-        "url": "https://open.spotify.com/album/1i7DI6AtWXwll2cBb9hn9q"
-      },
-      "artists": [
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "Beautiful Surprise",
-      "url": "https://open.spotify.com/track/4dlh921u5Ojn59FK2TOC24"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Illumination",
-        "url": "https://open.spotify.com/album/24QQHdqK3VHd6RYlEkUHRE"
-      },
-      "artists": [
-        {
-          "name": "Earth & Wind & Fire feat. Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/1xfBni7Tz8gx8s2fb64aeE"
-        }
-      ],
-      "duration_ms": 467733,
-      "name": "Show Me the Way",
-      "url": "https://open.spotify.com/track/64mSigGWctZbfbfFpmBeer"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Instant Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61CzGFq3xVWqzpv9YwLYRG"
-      },
-      "artists": [
-        {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
-        },
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 323986,
-      "name": "If This World Were Mine (with Luther Vandross)",
-      "url": "https://open.spotify.com/track/3DnJmpSvBNxngDOBeI5U0B"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Tamia",
-        "url": "https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV"
-      },
-      "artists": [
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "So Into You",
-      "url": "https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "80's The Collection",
-        "url": "https://open.spotify.com/album/3GDOnLCioGbwCWMi0SNqat"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/3Z6DV0jsGqCs4whsfda7lX"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -379,130 +455,54 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+        "name": "The Essential Sade",
+        "url": "https://open.spotify.com/album/19J58sh0DO8dbTFzafPXBC"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 430000,
-      "name": "Orange Moon",
-      "url": "https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx"
+      "duration_ms": 232666,
+      "name": "Nothing Can Come Between Us - Remastered",
+      "url": "https://open.spotify.com/track/6S9r5o2iLnozhYFiFa1YDn"
     },
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
+        "name": "Brian McKnight",
+        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
       },
       "artists": [
         {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
         }
       ],
-      "duration_ms": 329400,
-      "name": "Lifetime - Remastered 2021",
-      "url": "https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp"
+      "duration_ms": 335906,
+      "name": "Never Felt This Way",
+      "url": "https://open.spotify.com/track/3ETM5bHqW8RtMsP9PauI6S"
     },
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "In Square Circle",
-        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
+        "name": "Instant Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61CzGFq3xVWqzpv9YwLYRG"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Overjoyed",
-      "url": "https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Let's Get It On (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
-      },
-      "artists": [
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        },
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 209000,
-      "name": "I'd Give My Life For You - Alternate Mix",
-      "url": "https://open.spotify.com/track/1emvYBqAWFPpFUQyhBG9He"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "The Essential Patti LaBelle",
-        "url": "https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 300120,
-      "name": "Love, Need And Want You",
-      "url": "https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 211202,
-      "name": "First Began - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Kenny Lattimore",
-        "url": "https://open.spotify.com/album/1H10hT3tMPtL2uD3rIQRUE"
-      },
-      "artists": [
-        {
-          "name": "Kenny Lattimore",
-          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/4eI8okfmurpexL41RdjkGA"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "My Heart",
-        "url": "https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV"
-      },
-      "artists": [
-        {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Knocks Me Off My Feet",
-      "url": "https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP"
+      "duration_ms": 323986,
+      "name": "If This World Were Mine (with Luther Vandross)",
+      "url": "https://open.spotify.com/track/3DnJmpSvBNxngDOBeI5U0B"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -527,6 +527,118 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/5XK8uXGzRxYbNxx43BppMM"
+      },
+      "artists": [
+        {
+          "name": "Frank Mccomb",
+          "url": "https://open.spotify.com/artist/0wbDq3eOvenJ6l0gYhUNqt"
+        }
+      ],
+      "duration_ms": 415826,
+      "name": "Love Natural",
+      "url": "https://open.spotify.com/track/0AZTkbO9umWmABq28mfkle"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "The Essential Patti LaBelle",
+        "url": "https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 300120,
+      "name": "Love, Need And Want You",
+      "url": "https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Knocks Me Off My Feet",
+      "url": "https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "The Colored Section",
+        "url": "https://open.spotify.com/album/1LOlC0sCNpY3O18pR59Ald"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/3fvn4MvWJXwY17wpwnlgJN"
+        }
+      ],
+      "duration_ms": 303773,
+      "name": "Heaven Sent",
+      "url": "https://open.spotify.com/track/6KTPvBjPoFdFOe5qHLXZk0"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Never My Love: The Anthology",
+        "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "You Were Meant for Me",
+      "url": "https://open.spotify.com/track/4RSKpohiL1nDPn7rGxsBYl"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Aijuswanaseing",
+        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 304666,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Best Of/20th Century",
+        "url": "https://open.spotify.com/album/58ayZ7H3nOOxnprK7Nrwf8"
+      },
+      "artists": [
+        {
+          "name": "Incognito",
+          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
+        }
+      ],
+      "duration_ms": 395066,
+      "name": "Deep Waters",
+      "url": "https://open.spotify.com/track/4MmwyJaWLDXjjWzXQti4cl"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
         "name": "Cure",
         "url": "https://open.spotify.com/album/4eQnH0jB4OwFjAQSH6pZeq"
       },
@@ -543,18 +655,34 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "The Essential Sade",
-        "url": "https://open.spotify.com/album/19J58sh0DO8dbTFzafPXBC"
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
         }
       ],
-      "duration_ms": 232666,
-      "name": "Nothing Can Come Between Us - Remastered",
-      "url": "https://open.spotify.com/track/6S9r5o2iLnozhYFiFa1YDn"
+      "duration_ms": 222760,
+      "name": "Knocks Me Off My Feet",
+      "url": "https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 211202,
+      "name": "First Began - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -591,86 +719,6 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Aijuswanaseing",
-        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 304666,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "True to Myself",
-        "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
-      },
-      "artists": [
-        {
-          "name": "Eric Ben\u00e9t",
-          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
-        }
-      ],
-      "duration_ms": 286973,
-      "name": "Let's Stay Together - Midnight Mix",
-      "url": "https://open.spotify.com/track/13fIg7eB5MP9slSQayHhjH"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Love Stories",
-        "url": "https://open.spotify.com/album/5XK8uXGzRxYbNxx43BppMM"
-      },
-      "artists": [
-        {
-          "name": "Frank Mccomb",
-          "url": "https://open.spotify.com/artist/0wbDq3eOvenJ6l0gYhUNqt"
-        }
-      ],
-      "duration_ms": 415826,
-      "name": "Love Natural",
-      "url": "https://open.spotify.com/track/0AZTkbO9umWmABq28mfkle"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Why I Love You - Single",
-        "url": "https://open.spotify.com/album/6567j2YYSIlduWjsNQefgk"
-      },
-      "artists": [
-        {
-          "name": "MAJOR.",
-          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
-        }
-      ],
-      "duration_ms": 235907,
-      "name": "Why I Love You",
-      "url": "https://open.spotify.com/track/2xN98jvoGdfBzPS0HDMlXT"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Faithfully",
-        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 267160,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
         "name": "Toni Braxton",
         "url": "https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz"
       },
@@ -687,106 +735,66 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+        "name": "onmyradio",
+        "url": "https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp"
       },
       "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 225255,
-      "name": "Whenever Wherever Whatever - Remastered 2021",
-      "url": "https://open.spotify.com/track/5qUNf2ihX0M4uY1qi9GMRp"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 358626,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Never My Love: The Anthology",
-        "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "You Were Meant for Me",
-      "url": "https://open.spotify.com/track/4RSKpohiL1nDPn7rGxsBYl"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Floetic",
-        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
-      },
-      "artists": [
-        {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Get You - Single",
-        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 277297,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Mahogany Soul",
-        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
         {
           "name": "Musiq Soulchild",
           "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
         }
       ],
-      "duration_ms": 236240,
-      "name": "The Ingredients Of Love (feat. Musiq Soulchild)",
-      "url": "https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J"
+      "duration_ms": 291133,
+      "name": "sobeautiful",
+      "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "The Arrival",
+        "url": "https://open.spotify.com/album/1Woxlek5HEVQeWQaXcJDA2"
+      },
+      "artists": [
+        {
+          "name": "Kindred The Family Soul",
+          "url": "https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy"
+        }
+      ],
+      "duration_ms": 216813,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/22Ixvd6v1ofmishJchJfvN"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/4aIivYvBovLqNbsbBB4UuN"
+      },
+      "artists": [
+        {
+          "name": "Chrisette Michele",
+          "url": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "All I Ever Think About",
+      "url": "https://open.spotify.com/track/4KWRdYADKz1Fo1eLXWuMLi"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Capitol Gold: The Best Of Minnie Riperton",
+        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Inside My Love - Remastered",
+      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -807,50 +815,34 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "The Colored Section",
-        "url": "https://open.spotify.com/album/1LOlC0sCNpY3O18pR59Ald"
+        "name": "Why I Love You - Single",
+        "url": "https://open.spotify.com/album/6567j2YYSIlduWjsNQefgk"
       },
       "artists": [
         {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/3fvn4MvWJXwY17wpwnlgJN"
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
         }
       ],
-      "duration_ms": 303773,
-      "name": "Heaven Sent",
-      "url": "https://open.spotify.com/track/6KTPvBjPoFdFOe5qHLXZk0"
+      "duration_ms": 235907,
+      "name": "Why I Love You",
+      "url": "https://open.spotify.com/track/2xN98jvoGdfBzPS0HDMlXT"
     },
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Amour",
-        "url": "https://open.spotify.com/album/6GqKxxc9F0iPKNDrchruE6"
+        "name": "Love Like Yours And Mine",
+        "url": "https://open.spotify.com/album/18o37lm8WSUU10qNWCbQfp"
       },
       "artists": [
         {
-          "name": "Josh X",
-          "url": "https://open.spotify.com/artist/2h2eheYRqB6maoKoP76zsc"
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
         }
       ],
-      "duration_ms": 248320,
-      "name": "Heaven On My Mind (Ballad)",
-      "url": "https://open.spotify.com/track/14aeR4MPNqmI0gCrbJpscu"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Capitol Gold: The Best Of Minnie Riperton",
-        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Inside My Love - Remastered",
-      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
+      "duration_ms": 219458,
+      "name": "Love Like Yours And Mine",
+      "url": "https://open.spotify.com/track/76PUohgHDZNGvj7uXFLpAC"
     }
   ],
   "unique_name": "Wine & Dine",

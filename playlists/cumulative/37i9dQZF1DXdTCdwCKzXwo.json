@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-03-19",
-  "description": "Classic alternative. These early pioneers brought the underground to the foreground. Cover: Lou Reed",
+  "description": "Early pioneers that brought the underground to the foreground. Cover: Depeche Mode ",
   "name": "Early Alternative",
   "published_playlist_ids": [
     "1biJVwGgudNJMTh4YCWUBg"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "80s Alternative",
+        "url": "https://open.spotify.com/album/13stlNOpLhjH7ZlEL3LFSf"
+      },
+      "artists": [
+        {
+          "name": "The Plimsouls",
+          "url": "https://open.spotify.com/artist/7BnikuGfXRWkGLJCWS1y9P"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "A Million Miles Away",
+      "url": "https://open.spotify.com/track/3YryVYJcJ9gP8jfUkkbNvm"
+    },
     {
       "album": {
         "name": "Power Corruption and Lies",
@@ -361,7 +379,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 214573,
       "name": "Changes - 1999 Remaster",
       "url": "https://open.spotify.com/track/6rG4bDP9eK16QTtVQKw9zZ"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 185693,
       "name": "Cut Your Hair (Remastered)",
       "url": "https://open.spotify.com/track/5nG6XQckfjnPkDyxDGDFFV"
@@ -523,7 +541,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 219506,
       "name": "Dear God - Remastered 2001",
       "url": "https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 187933,
       "name": "Fuck and Run",
       "url": "https://open.spotify.com/track/4MSdFtD1JPc2W3J13uJPeS"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 159706,
       "name": "Gold Soundz",
       "url": "https://open.spotify.com/track/13YxuRQZdU7snOfDI3nft2"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 406986,
       "name": "How Soon Is Now? - 2008 Remaster",
       "url": "https://open.spotify.com/track/5gXlabehojXdqcfFN8ncey"
@@ -801,6 +819,24 @@
       "duration_ms": 292800,
       "name": "I Wanna Be Adored - Remastered",
       "url": "https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4"
+    },
+    {
+      "album": {
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149786,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
     },
     {
       "album": {
@@ -833,10 +869,28 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 223840,
       "name": "I Was Dancing In The Lesbian Bar",
       "url": "https://open.spotify.com/track/2UayKZmrsYyjNj6T8frugJ"
+    },
+    {
+      "album": {
+        "name": "The Best Of 1980 - 1990",
+        "url": "https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215840,
+      "name": "I Will Follow",
+      "url": "https://open.spotify.com/track/40lKv5fLpzPHV1YQ7nrfMg"
     },
     {
       "album": {
@@ -894,6 +948,24 @@
     },
     {
       "album": {
+        "name": "Suburban Lawns",
+        "url": "https://open.spotify.com/album/73heWpQLwKGoedT3eM72Ra"
+      },
+      "artists": [
+        {
+          "name": "Suburban Lawns",
+          "url": "https://open.spotify.com/artist/7GbMKpjxObo2JZGvKQovjr"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151520,
+      "name": "Janitor",
+      "url": "https://open.spotify.com/track/4qIrNr9OnHrQhpODZcmulH"
+    },
+    {
+      "album": {
         "name": "Psychocandy (Expanded Version)",
         "url": "https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto"
       },
@@ -927,6 +999,24 @@
       "duration_ms": 183493,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/4E6YM4V7Kz6zpbiNsliwEl"
+    },
+    {
+      "album": {
+        "name": "The Cars",
+        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225626,
+      "name": "Just What I Needed",
+      "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
     },
     {
       "album": {
@@ -977,7 +1067,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 234960,
       "name": "Loser",
       "url": "https://open.spotify.com/track/4b8GTae6rqb9oPiRzVa3Gy"
@@ -1110,6 +1200,24 @@
     },
     {
       "album": {
+        "name": "Warm, In Your Coat",
+        "url": "https://open.spotify.com/album/4prH6wEaDxG4lo02BaXbkG"
+      },
+      "artists": [
+        {
+          "name": "Romeo Void",
+          "url": "https://open.spotify.com/artist/20kRNjGAzhnBIflemL8JfY"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353666,
+      "name": "Never Say Never",
+      "url": "https://open.spotify.com/track/02RkunUrCBLE5J6jY56QH3"
+    },
+    {
+      "album": {
         "name": "Truckload Of Trouble",
         "url": "https://open.spotify.com/album/6ypPL4cGUKK8sP1tfq5szC"
       },
@@ -1121,7 +1229,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 232133,
       "name": "Nothing To Be Done",
       "url": "https://open.spotify.com/track/282VgBXcFt4JPkkxT7c2cF"
@@ -1146,6 +1254,24 @@
     },
     {
       "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259906,
+      "name": "Once in a Lifetime - 2005 Remaster",
+      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
+    },
+    {
+      "album": {
         "name": "loveless",
         "url": "https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb"
       },
@@ -1157,7 +1283,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 256573,
       "name": "only shallow",
       "url": "https://open.spotify.com/track/1KKuoYESWoUGsau6YYoEMl"
@@ -1319,7 +1445,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 268826,
       "name": "Rid Of Me",
       "url": "https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p"
@@ -1481,7 +1607,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 227413,
       "name": "Strangelove - Single Version",
       "url": "https://open.spotify.com/track/6MHOg9xiYC2gj8zcASaLUo"
@@ -1521,6 +1647,24 @@
       "duration_ms": 417800,
       "name": "Teen Age Riot (Album Version)",
       "url": "https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9"
+    },
+    {
+      "album": {
+        "name": "East Side Story",
+        "url": "https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy"
+      },
+      "artists": [
+        {
+          "name": "Squeeze",
+          "url": "https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240333,
+      "name": "Tempted",
+      "url": "https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM"
     },
     {
       "album": {
@@ -1571,7 +1715,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 248013,
       "name": "The Jean Genie - 2013 Remaster",
       "url": "https://open.spotify.com/track/6uZtMNTfU5u8w6fsnXeOdb"
@@ -1668,6 +1812,24 @@
     },
     {
       "album": {
+        "name": "The Smiths",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162920,
+      "name": "This Charming Man - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
+    },
+    {
+      "album": {
         "name": "Tour de France (2009 Remaster)",
         "url": "https://open.spotify.com/album/6NYyISRJeOlJ1IldQtNvMw"
       },
@@ -1758,6 +1920,24 @@
     },
     {
       "album": {
+        "name": "Beauty And The Beat",
+        "url": "https://open.spotify.com/album/1L4HE00En7eNK74voVZums"
+      },
+      "artists": [
+        {
+          "name": "The Go-Go's",
+          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153133,
+      "name": "We Got The Beat",
+      "url": "https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF"
+    },
+    {
+      "album": {
         "name": "Loveless",
         "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
@@ -1823,7 +2003,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 269066,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"

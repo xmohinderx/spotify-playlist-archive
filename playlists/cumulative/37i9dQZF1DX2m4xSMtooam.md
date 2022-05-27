@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-100 songs - 6 hr 41 min - not published yet
+101 songs - 6 hr 45 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [So Nice](https://open.spotify.com/track/1L0DDeREckUNqcKyveuyH0) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd) | 3:50 | 2022-05-13 |  |
 | [So Nice \(Samba de Verao\)](https://open.spotify.com/track/4Cs9QPTqcf2PY8G7RIEBsk) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY) | 5:13 | 2022-05-13 |  |
 | [Something In The Air Between Us](https://open.spotify.com/track/1PMMDeHkTvLZBQiZU860BU) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Make Someone Happy](https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm) | 4:12 | 2022-05-13 |  |
-| [Sorriu Para Mim](https://open.spotify.com/track/0x3svf6lgzCE0AUh8Dqk3D) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [20 Grandes Sucessos De Joao Gilberto](https://open.spotify.com/album/62NHXk7QVJwXA2mfUFO49h) | 3:04 | 2022-05-13 |  |
+| [Sorriu Para Mim](https://open.spotify.com/track/0x3svf6lgzCE0AUh8Dqk3D) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [20 Grandes Sucessos De Joao Gilberto](https://open.spotify.com/album/62NHXk7QVJwXA2mfUFO49h) | 3:04 | 2022-05-13 | 2022-05-27 |
 | [Só Tinha De Ser Com Você](https://open.spotify.com/track/2MTrACUycdhqhQ9dYpxWJb) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) | 3:49 | 2022-05-13 |  |
 | [Só Tinha de Ser Com Você](https://open.spotify.com/track/1U2yKTVqJASLKLSCzrwxi7) | [Quarteto Jobim\-Morelenbaum](https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL) | [Quarteto Jobim Morelenbaum](https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY) | 3:53 | 2022-05-13 |  |
 | [Take Five \- Studio Rio Version](https://open.spotify.com/track/1C7Gw28QPWVc7ssGlfUpsO) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj), [Studio Rio](https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3) | [Studio Rio Presents: The Brazil Connection](https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw) | 2:54 | 2022-05-13 |  |
@@ -100,6 +100,7 @@
 | [The Girl From Ipanema](https://open.spotify.com/track/772NvWLbR51JEbzQKRnXma) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 5:24 | 2022-05-13 |  |
 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 | 2022-05-13 |  |
 | [The Waters Of March](https://open.spotify.com/track/2HDdFE3LzgZ2ZWVXS0jEQF) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [From Bessie To Brazil](https://open.spotify.com/album/7qUvlbKeYnFEfQqlosrm7L) | 3:57 | 2022-05-13 |  |
+| [Unhappy Remark \(Palpite Infeliz\)](https://open.spotify.com/track/0dfj6j9cYQYGmZej4WvMHL) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/0u32q4Evsx4fHtpkUUwodh) | 3:55 | 2022-05-13 |  |
 | [Valle, M / Valle, P: So nice](https://open.spotify.com/track/4evGIySLSVBJD90LrDkTcO) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [Paulo Valle](https://open.spotify.com/artist/3aFqquhdDAG1uNtkTVdNKI), [Quatuor Ébène](https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Philippe Faurie](https://open.spotify.com/artist/4lA949N00pkYsq3xsvCd5f), [Richard Héry](https://open.spotify.com/artist/5fIfXCE9bblEKjtyo40NEm), [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Brazil](https://open.spotify.com/album/4ZfijPsvkBtwZWiGScdvOs) | 4:24 | 2022-05-13 |  |
 | [Voce Vai Ver](https://open.spotify.com/track/6TYGxl1FiKz2R9BosMN4WM) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 4:52 | 2022-05-13 |  |
 | [Waters of March](https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 3:40 | 2022-05-13 |  |

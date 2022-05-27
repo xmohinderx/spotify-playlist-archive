@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+    },
+    {
+      "album": {
         "name": "A Heart Don't Break Like That",
         "url": "https://open.spotify.com/album/0DCDKUtWSJc3KgIG0JjcwT"
       },
@@ -859,7 +877,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 205693,
       "name": "Get To Know Ya",
       "url": "https://open.spotify.com/track/1jS01RraB3eTBL3GnYXCaN"
@@ -1307,7 +1325,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 189720,
       "name": "Lay It On Me",
       "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
@@ -1379,7 +1397,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 188826,
       "name": "Light Up The Airwaves",
       "url": "https://open.spotify.com/track/4bc1WxxRih1DhmTOXp1jIh"
@@ -1701,6 +1719,28 @@
       "duration_ms": 205540,
       "name": "RAISED LIKE THAT",
       "url": "https://open.spotify.com/track/15NeNzRcjfuXTnOFHpnmzs"
+    },
+    {
+      "album": {
+        "name": "Red Wine and Blue",
+        "url": "https://open.spotify.com/album/2csWHC9z5vQnSXvTMjvjwx"
+      },
+      "artists": [
+        {
+          "name": "Emily Hatton",
+          "url": "https://open.spotify.com/artist/2qWqeGeNliXRQdHOOygnlM"
+        },
+        {
+          "name": "Katie Jayne",
+          "url": "https://open.spotify.com/artist/0ssWamf0INpzr2G71GxTkC"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235217,
+      "name": "Red Wine and Blue",
+      "url": "https://open.spotify.com/track/6KhHv00M2aXUtbVTpmAC5x"
     },
     {
       "album": {
@@ -2405,6 +2445,24 @@
       "duration_ms": 194426,
       "name": "Whiskey Me Away",
       "url": "https://open.spotify.com/track/0wF5NIMrLi7ZzsFiDNVqIB"
+    },
+    {
+      "album": {
+        "name": "Whiskey On You",
+        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183789,
+      "name": "Whiskey On You",
+      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
     },
     {
       "album": {

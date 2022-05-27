@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Napoli e il meglio della scena campana. Cover: LIBERATO",
+  "description": "Napoli e il meglio della scena campana. Cover: Lele Blade",
   "name": "Int 'o Rione",
   "published_playlist_ids": [
     "24YJoDhwO3164C86soW14C"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 201440,
       "name": "Chello Che Vu\u00f3 (feat. Geolier)",
       "url": "https://open.spotify.com/track/6sDPfKayq1ESoRhJpRHG77"
@@ -512,6 +512,28 @@
     },
     {
       "album": {
+        "name": "Homies",
+        "url": "https://open.spotify.com/album/66gwTXAR4CeE333WL38MJ0"
+      },
+      "artists": [
+        {
+          "name": "Cecchy",
+          "url": "https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN"
+        },
+        {
+          "name": "LilTony",
+          "url": "https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124638,
+      "name": "Homies",
+      "url": "https://open.spotify.com/track/2nCS30N4UJk9zF4FVcJGPV"
+    },
+    {
+      "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/3xNjmCh8NTA9WuO8EkHo1R"
       },
@@ -527,6 +549,32 @@
       "duration_ms": 178316,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/5yTqoZ6nhOv21jNHFfwsBV"
+    },
+    {
+      "album": {
+        "name": "AMBIZIONE",
+        "url": "https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV"
+      },
+      "artists": [
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163749,
+      "name": "Jump (feat. Lazza)",
+      "url": "https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP"
     },
     {
       "album": {
@@ -607,7 +655,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 174000,
       "name": "NA CRIATURA",
       "url": "https://open.spotify.com/track/5T9tDWyGQCkhasjfGVZabC"
@@ -633,7 +681,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 144000,
       "name": "No Joke (feat. MadMan)",
       "url": "https://open.spotify.com/track/3PFDJgtrBif1ORn5As2hly"
@@ -983,6 +1031,36 @@
       "duration_ms": 188469,
       "name": "RUN",
       "url": "https://open.spotify.com/track/4b5wNTRKC0DhtvTFjohhBK"
+    },
+    {
+      "album": {
+        "name": "AMBIZIONE",
+        "url": "https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV"
+      },
+      "artists": [
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120483,
+      "name": "So Fresh So Clean (feat. Vale Lambo)",
+      "url": "https://open.spotify.com/track/3SJNxU9GNf8MnNRW4G6b6s"
     },
     {
       "album": {

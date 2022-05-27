@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "A Morir",
+        "url": "https://open.spotify.com/album/7J2nwzs6Q5Hn0Wa1azNDru"
+      },
+      "artists": [
+        {
+          "name": "L\u00edber Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/5NkwN3sVPbeE8xnCCyVr9p"
+        },
+        {
+          "name": "EsMikeGarcia",
+          "url": "https://open.spotify.com/artist/5FK9isHItaC3GaYIdNX18w"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141727,
+      "name": "A Morir",
+      "url": "https://open.spotify.com/track/2EXbLofXa611PFxlBGWkTx"
+    },
+    {
+      "album": {
         "name": "Sing-Along Songs for the Damned and Delirious",
         "url": "https://open.spotify.com/album/36j0yWKLk5a6rLgJEhUghU"
       },
@@ -19,7 +41,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 312333,
       "name": "A Tapdancer's Dilema",
       "url": "https://open.spotify.com/track/3RJtaxRtxOvvIj6DESm4gh"
@@ -121,7 +143,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 288435,
       "name": "Barbes",
       "url": "https://open.spotify.com/track/2KFrLvCkUZVfk7bp4SySf8"
@@ -211,7 +233,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 224133,
       "name": "Chocolat (Swing)",
       "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
@@ -265,7 +287,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 212766,
       "name": "Crimen en el Para\u00edso",
       "url": "https://open.spotify.com/track/1vevBksiqjLNvrCCaVeSAq"
@@ -373,7 +395,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 223452,
       "name": "Double Dare",
       "url": "https://open.spotify.com/track/0IYSqo0DzYtbrpAxfaiV5d"
@@ -515,7 +537,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 210203,
       "name": "El \u00daltimo Rinc\u00f3n",
       "url": "https://open.spotify.com/track/1LBrzV3h4gwtQTxUYpGZz8"
@@ -587,7 +609,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 174413,
       "name": "Gitanas Mojadas",
       "url": "https://open.spotify.com/track/1UNkCY2v2hOUeoiJZMtX6C"
@@ -699,7 +721,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 282468,
       "name": "Job",
       "url": "https://open.spotify.com/track/0yfzOlSCRVYg9oCZtBfM9X"
@@ -761,7 +783,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 262926,
       "name": "Karnaval",
       "url": "https://open.spotify.com/track/0QoKi5HQm7srBiovlTpTws"
@@ -779,7 +801,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 252080,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/5jiJYFm6YBqRJ0sLbwmezm"
@@ -797,7 +819,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 247547,
       "name": "Koopa-Cabras",
       "url": "https://open.spotify.com/track/6d5AaCw2EUE654ngx9K5RA"
@@ -833,7 +855,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 271093,
       "name": "LA FIESTA DE LAS COCHINILLAS",
       "url": "https://open.spotify.com/track/3ZQNWLhOED50ONN29goNto"
@@ -887,7 +909,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 185959,
       "name": "La Pu\u00f1alada",
       "url": "https://open.spotify.com/track/26l9G55XLNG6o5zeA7Sd93"
@@ -963,7 +985,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 223320,
       "name": "Love Theme From ''the Godfather''",
       "url": "https://open.spotify.com/track/6kGuBfdelOjChMdvfQj5o0"
@@ -1017,7 +1039,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 225813,
       "name": "Marrakumbiah",
       "url": "https://open.spotify.com/track/0KQQDKtaplRyuTerGLQxt0"
@@ -1093,7 +1115,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 233880,
       "name": "Me Voy Pa' la Tusa",
       "url": "https://open.spotify.com/track/7h03roT2OyFAlhxxS4lVjZ"
@@ -1111,7 +1133,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 200253,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/542SyraZb4vO9lhREhpK2j"
@@ -1129,7 +1151,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 238493,
       "name": "Mesecina / Moonlight",
       "url": "https://open.spotify.com/track/2q51QjRBGwTtlgGRxDWm2s"
@@ -1299,7 +1321,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 179533,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/4LMjiB1lKCOwVMwMw9ecXe"
@@ -1343,7 +1365,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 244480,
       "name": "Para Olvidarte",
       "url": "https://open.spotify.com/track/4zqtjs0gntUiyOwJ2XwGRa"
@@ -1491,7 +1513,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 190820,
       "name": "Sabidur\u00eda de los Gatos",
       "url": "https://open.spotify.com/track/5FHJjoj9OyLoquoqJRgP3A"
@@ -1513,6 +1535,24 @@
       "duration_ms": 201405,
       "name": "Sabor a Ti",
       "url": "https://open.spotify.com/track/1SXMBrXDCMNL8wJZlgBizE"
+    },
+    {
+      "album": {
+        "name": "Remixed",
+        "url": "https://open.spotify.com/album/5LjkNrn1rnhAk0dimZGrk5"
+      },
+      "artists": [
+        {
+          "name": "Amsterdam Klezmer Band",
+          "url": "https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311986,
+      "name": "Sadagora Hot Dub - Remixed by Shantel",
+      "url": "https://open.spotify.com/track/3Wb0d7PcBdFKVnTJ75UQ1l"
     },
     {
       "album": {
@@ -1585,7 +1625,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 225556,
       "name": "Suerte o Muerte",
       "url": "https://open.spotify.com/track/4e9gHUG1iyszheEkpH3oni"
@@ -1607,7 +1647,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 251266,
       "name": "Te Quiero con Bugal\u00fa",
       "url": "https://open.spotify.com/track/19AG2FmshFkNm5FVTDZj0E"
@@ -1709,6 +1749,24 @@
       "duration_ms": 225021,
       "name": "Woodlands",
       "url": "https://open.spotify.com/track/2H3N64sO0uVDRy8vfJwTaH"
+    },
+    {
+      "album": {
+        "name": "Etno Pachanga Sound System",
+        "url": "https://open.spotify.com/album/6fCxJA4Ar7o8PXRjDrKECo"
+      },
+      "artists": [
+        {
+          "name": "La Internacional Sonora Balkanera",
+          "url": "https://open.spotify.com/artist/7zBN4dVulSEiunuM8jw98C"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245053,
+      "name": "Zapat\u00e9llele",
+      "url": "https://open.spotify.com/track/7GXCMdOSmSREu2uyxek7aV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-341 songs - 18 hr 49 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+344 songs - 18 hr 58 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Close](https://open.spotify.com/track/0MpMnxzwiF4dfzDwrd21MI) | [Saheb](https://open.spotify.com/artist/2ShbFK8mw2wWXf0EkD36ch) | [Close](https://open.spotify.com/album/0O9YcekE4hqY003nZQ9W3b) | 3:21 | 2022-05-05 | 2022-05-11 |
 | [Conversation](https://open.spotify.com/track/169eHrJhaAKOPJJoda2Pgz) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS) | [Conversation](https://open.spotify.com/album/1AvCpygMn5bSEGm4kTqywo) | 3:22 | 2022-04-06 | 2022-05-11 |
 | [Cooper \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/6CP0jsIBEM5VEEKLr4tf69) | [Jovan Dhillon](https://open.spotify.com/artist/2EW4LUtzs9hLVAZTRzphS0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Cooper \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/6GXPVaPJPeQFhcheqd1tP7) | 2:48 | 2021-12-02 |  |
+| [DARDA DI DOSE](https://open.spotify.com/track/77PCdb5SjE2CEHP9JKWuP6) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i) | [DARDA DI DOSE](https://open.spotify.com/album/5EsDaLxmdFpzywBC1Ka8h1) | 2:35 | 2022-05-26 |  |
 | [Dark Circle](https://open.spotify.com/track/4Yy0Aval2j2K5UkLh6RAPO) | [Deep Fateh](https://open.spotify.com/artist/6TwRnAsvNFG4nXZyZhwXyn) | [Dark Circle](https://open.spotify.com/album/3D1EEKOLqoSXFIXGVhcngn) | 3:57 | 2022-03-25 | 2022-04-06 |
 | [Darling \- From "Kokka"](https://open.spotify.com/track/77WhbR5wdwAu28rKDriGfN) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Neeru Bajwa](https://open.spotify.com/artist/67lOlAWKOMcfsiqzBSSVUB), [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Darling \(From "Kokka"\)](https://open.spotify.com/album/64B6K781jcvJ9lDgYUJv9w) | 3:36 | 2022-05-17 | 2022-05-20 |
 | [Das Ke Ja](https://open.spotify.com/track/77F0pganLgCeb8An8BRzIb) | [Bobby Sidhu](https://open.spotify.com/artist/1vKbHEP0ytopMo06g1hLqh) | [Not Again](https://open.spotify.com/album/1qyokWQGVeVSaIzq3Zbchy) | 2:29 | 2022-04-25 | 2022-05-11 |
@@ -270,6 +271,7 @@
 | [Sajni](https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Sajni](https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar) | 4:58 | 2022-01-27 | 2022-02-01 |
 | [Sakhiyaan\-Reprise Version](https://open.spotify.com/track/1TZ9lSsoy3eKky3usMJLhm) | [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI) | [Sakhiyaan\-Reprise Version](https://open.spotify.com/album/3SolvbUSvZ98ZxdABZ2bej) | 3:24 | 2022-04-27 | 2022-05-20 |
 | [Sakhiyo](https://open.spotify.com/track/3z0chZVcvPkZnlltDZ96vJ) | [Zehan](https://open.spotify.com/artist/09l3GeDkzqXrRgagVYse8p), [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Yuvika Chaudhary](https://open.spotify.com/artist/2xWgTpxwqLZegsJEj5ZAUr) | [Sakhiyo](https://open.spotify.com/album/23i2aJ47UPnxFc6xTIuabq) | 2:38 | 2022-01-31 | 2022-02-12 |
+| [Salah](https://open.spotify.com/track/0DnJkKc4jPRxkKEjPScxEV) | [Navjeet](https://open.spotify.com/artist/6ti9mMVGU3e9MtpFh69Knr) | [Salah](https://open.spotify.com/album/6jpBia7CP0JFIUji3fHFDQ) | 3:47 | 2022-05-26 |  |
 | [Satisfaction](https://open.spotify.com/track/3mb3AKxmOBZSNzYTxRBuDs) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [Satisfaction](https://open.spotify.com/album/6JzOPYjClr8eTVRvpbatmG) | 3:11 | 2022-01-11 | 2022-02-01 |
 | [Saun Rabb Di](https://open.spotify.com/track/4vr2Pt9BbjwE2Tzq88asbo) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP) | [Deewana](https://open.spotify.com/album/1ojsW5BU8JfG7GNYaoGSKv) | 2:45 | 2022-03-08 | 2022-04-06 |
 | [Schedule](https://open.spotify.com/track/5eGsHi6RcL33gb9k89UYaB) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Schedule](https://open.spotify.com/album/0XtDEAGgkFrbNNaukE8pEF) | 2:28 | 2021-12-02 | 2022-04-06 |
@@ -297,6 +299,7 @@
 | [Suit Gulabi](https://open.spotify.com/track/1do83bSMh85dYMSCml1t8I) | [Dalvir Sidhu](https://open.spotify.com/artist/56z6Zt5dNIwgD7ajzBwu0A) | [Never Died](https://open.spotify.com/album/6QgCbo5YPwTmCLejqEaaLZ) | 2:34 | 2022-04-11 | 2022-05-11 |
 | [Suit Purane](https://open.spotify.com/track/3JmpJDQTyYnLlQSDVFR1vT) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk) | [Suit Purane](https://open.spotify.com/album/2HXJnIbm2a140pa9f4j1zX) | 2:56 | 2021-12-02 | 2022-02-05 |
 | [Suita To Payara](https://open.spotify.com/track/2sh6Ny6YTf6Ku0ShOmbCmW) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 2:40 | 2022-02-03 | 2022-02-12 |
+| [Sunne Sunne](https://open.spotify.com/track/746fRWJEgWvvRdhB7ympjw) | [G Noor](https://open.spotify.com/artist/3oCuewGts8hB4pGDkG5Lo8) | [Sunne Sunne](https://open.spotify.com/album/5B5NSoy499WpmUEWQHtXZw) | 3:04 | 2022-05-26 |  |
 | [Sunset](https://open.spotify.com/track/708ATCPhF2aagzUo8A9Dgo) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Sunset](https://open.spotify.com/album/2CHwDNJ5Kbv05I385dVFKG) | 3:08 | 2022-03-31 | 2022-04-06 |
 | [SURREY AALE](https://open.spotify.com/track/37lPezjU5ZTTh0H06HEFKb) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [Karan Bhargava](https://open.spotify.com/artist/1YQWIIZgIWVP83VtNCAQRJ), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [SURREY AALE](https://open.spotify.com/album/1uoe77MG97LmOgFlNwM5Uf) | 2:22 | 2022-01-10 | 2022-02-01 |
 | [Sweet Teri Smile](https://open.spotify.com/track/0FzcmRE2A4IHVxxZl2zYZr) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2) | [Sweet Teri Smile](https://open.spotify.com/album/79Jh4jb1oHDu0xfhOHnby8) | 2:29 | 2022-04-25 | 2022-05-11 |

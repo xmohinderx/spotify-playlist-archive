@@ -2288,6 +2288,24 @@
     },
     {
       "album": {
+        "name": "Somnolent Summer",
+        "url": "https://open.spotify.com/album/7lvhfPxqTsvbM5ZFKPinq2"
+      },
+      "artists": [
+        {
+          "name": "Dream City",
+          "url": "https://open.spotify.com/artist/0xKWlgGQrGhZgWxhbQlBSE"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122954,
+      "name": "Reveries",
+      "url": "https://open.spotify.com/track/2Vjjo1WB2m1YBYyJqrcA9u"
+    },
+    {
+      "album": {
         "name": "Reversoothes",
         "url": "https://open.spotify.com/album/2RNjKIjMIo0FXWk71vzadZ"
       },

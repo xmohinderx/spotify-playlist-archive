@@ -4,7 +4,7 @@
 
 > Only the hottest in South African Hip Hop and R&B\. Cover: <a href="https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE?si=YDtypf\_iQ2KM0vD5dMKglw">Sgi\_Magalela</a>
 
-257 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
+258 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [PI$TOL POP](https://open.spotify.com/track/2jc1exLf9qUEyVzTe2PezC) | [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba) | [PI$TOL POP](https://open.spotify.com/album/2gqV3LBGcmdIMxRwnC9Yxh) | 3:41 | 2022-04-22 | 2022-05-06 |
 | [Pirara](https://open.spotify.com/track/7bFqMWXwQk9NQ9KoRacTJW) | [Sgi\_Magalela](https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE) | [Pirara](https://open.spotify.com/album/56L5WYlzq8HHcJgMKxXcj3) | 2:00 | 2022-02-10 |  |
 | [PLAYBACK](https://open.spotify.com/track/3sXKkRmrHrSrX7xCWHiOH7) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [PLAYBACK](https://open.spotify.com/album/2fw1To7qooV4L4wFqfDbtA) | 3:12 | 2021-10-14 |  |
+| [Potion No.9](https://open.spotify.com/track/43K5DqzH9ljI4hbMSIH0IW) | [Mark Akol](https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb), [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [Potion No.9](https://open.spotify.com/album/6HyEnmxcHiDJ3mmAxp2ccF) | 2:34 | 2022-05-19 |  |
 | [Pour Mi](https://open.spotify.com/track/1Cy6StltAMUd48nbIFEZZU) | [Ason](https://open.spotify.com/artist/3I1qHxOUgI1EeWBKhU6pCa) | [Pour Mi](https://open.spotify.com/album/2dOy9S4IW92ClGnTbfoIbn) | 1:41 | 2022-03-03 | 2022-03-25 |
 | [Pride](https://open.spotify.com/track/4k12ggWuUFQ8wllmREXKTd) | [Slay\_Auto](https://open.spotify.com/artist/5BKzRJw13eXNNrHZ6RYPiI) | [PRIDE](https://open.spotify.com/album/3sUAo42NGTPLOXrMHXeSTa) | 3:46 | 2022-03-10 | 2022-03-25 |
 | [Promised Land](https://open.spotify.com/track/7yLQ5VHxQBoxTODZLMQzaU) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Promised Land](https://open.spotify.com/album/3SnuqY9ZFDqLOPZQU1h70g) | 3:37 | 2022-02-24 | 2022-03-18 |

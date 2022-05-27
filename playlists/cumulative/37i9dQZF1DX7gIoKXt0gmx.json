@@ -1398,6 +1398,24 @@
     },
     {
       "album": {
+        "name": "his sweater",
+        "url": "https://open.spotify.com/album/24Q2QnYeG30KzsXygkQz8v"
+      },
+      "artists": [
+        {
+          "name": "Ebhoni",
+          "url": "https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "his sweater",
+      "url": "https://open.spotify.com/track/0La9XmPkPRhGARB7zXfaEd"
+    },
+    {
+      "album": {
         "name": "Sol\u00e8y",
         "url": "https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r"
       },
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2020-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 170248,
       "name": "Honest",
       "url": "https://open.spotify.com/track/7rezT408cCLBBr40Gvtg4J"
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 254526,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/4kBkD5qWlRlZXAYVSztETX"
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 199548,
       "name": "IF HE RULES THE WORLD",
       "url": "https://open.spotify.com/track/4W7bZVTlkupyRLq1XnQCXs"
@@ -2667,7 +2685,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 254617,
       "name": "Primrose",
       "url": "https://open.spotify.com/track/1NRX2Ktplk6T3nj8rriiYJ"
@@ -3253,7 +3271,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 246240,
       "name": "Think About Me",
       "url": "https://open.spotify.com/track/4LkLfPYc3yjOta7Gk8FDRB"

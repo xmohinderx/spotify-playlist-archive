@@ -4,7 +4,7 @@
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-60 songs - 4 hr 31 min - not published yet
+62 songs - 4 hr 37 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Can You Think a Solution?](https://open.spotify.com/track/7kVuOdiC2BH8IxzHaWf1Ea) | [Rasool Poursangari](https://open.spotify.com/artist/0NWX3Qjs9lAXo3dpuB2mlz) | [The Landscapes That Escape the Frame](https://open.spotify.com/album/7HRySZGFrRZzm6g0IXnus9) | 3:14 | 2021-02-15 |  |
 | [Dance Layan Dance](https://open.spotify.com/track/0xdMKddaAH6WyK4JYjnqTk) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Sounds Of Mirrors](https://open.spotify.com/album/4RgbDDGwmTiA8ypNDSoEc6) | 4:36 | 2021-02-15 |  |
 | [Daramad](https://open.spotify.com/track/0SaUUJ1Bi7VBleRKJxBExy) | [Hossein Alizadeh](https://open.spotify.com/artist/129o0b0q8hAgjrd7jDrbhP), [Madjid Khaladj](https://open.spotify.com/artist/1pYxJnjP7SFzpo2v3Zj5QB) | [Iranian Music: Târ & Sétâr, Tombak \(Musique iranienne\)](https://open.spotify.com/album/5PU2mmzvd26lKeKXN0qMBK) | 3:49 | 2021-02-15 |  |
+| [Deeper Sun](https://open.spotify.com/track/72U3GaKjHnwdfKNWoeciA5) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Deeper Sun](https://open.spotify.com/album/1IXO9DNXjDs7DCWfIZlQSZ) | 2:22 | 2021-02-15 |  |
 | [Dubai Midnight](https://open.spotify.com/track/6BxL9ykgqQUPJucdZSqQ7j) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [Romantic Arabic Moon Journey: Middle Eastern Love, Oasis of Passion, Oriental Lovers, Tantric Lesson](https://open.spotify.com/album/3hzekYvCfScgreyPMdVD18) | 3:33 | 2021-02-15 |  |
 | [Faragh](https://open.spotify.com/track/53Te4Eab3KyCqVBBsn5QDW) | [Hawa Dafi](https://open.spotify.com/artist/4TzzRCeUfXiorux2lCyjwb), [Busher Abu Saleh](https://open.spotify.com/artist/73SnvMACJeQnyLPTtEgIxX) | [Our Story](https://open.spotify.com/album/2s8vbc59CFSdHzxPQhBK4c) | 3:27 | 2021-02-15 |  |
 | [Farewell With Mirror](https://open.spotify.com/track/162oTD1iesLW8T3ZaOKr9Q) | [Amir Farhang Eskandari](https://open.spotify.com/artist/3EPh1PWVrndSr8yXVA4DKu), [Zakaria Yousefi](https://open.spotify.com/artist/2PAiEBsEV9ODqDghaOdE9r) | [And](https://open.spotify.com/album/4b3gP7vHoPsnANhfbAIhzF) | 4:27 | 2021-02-15 |  |
@@ -45,6 +46,7 @@
 | [Love](https://open.spotify.com/track/2haduuaSMHdj6UE39Fbwb6) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Second Verse](https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4) | 5:59 | 2021-02-15 |  |
 | [Lucent Path](https://open.spotify.com/track/2eo0m22NuhN7gif3jpVW7U) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 3:44 | 2021-02-15 |  |
 | [Lullaby](https://open.spotify.com/track/0qOmbTmCOZNVo3QqifYcZf) | [Negâr Boubân](https://open.spotify.com/artist/16Tps1ORce0JdjrXbSx9mp) | [On Fire](https://open.spotify.com/album/3OyFbJ01WwQw2lD31iytqC) | 5:01 | 2021-02-15 |  |
+| [Maqam tour reefy mohammdawiy](https://open.spotify.com/track/0tGx2Y2P2r6E6oZdNiorGG) | [Ali Hassan](https://open.spotify.com/artist/2EfA5A99i9zPWrDle4xqpd) | [Aloud Taqaseem Ala](https://open.spotify.com/album/5Dt12AZPRZ0jilgJC1IqN7) | 3:27 | 2021-02-15 |  |
 | [Nara](https://open.spotify.com/track/49ppdLKp66bzhMWoK3wlzy) | [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/56H6omd7p4dFyx1gPMEM6e) | 2:15 | 2021-02-15 |  |
 | [Negâr](https://open.spotify.com/track/4TENTrKfnaEOsWHCG43Q8E) | [Ali Samadpour](https://open.spotify.com/artist/5ZP6McaPyj1lHUDWymntv1) | [Among the Clouds / Dar Miyan e Abrha \(Original Score\)](https://open.spotify.com/album/4k77fSLa2sPePBPt1Wg9Oj) | 2:20 | 2021-02-15 |  |
 | [Noor \(Light\)](https://open.spotify.com/track/6tDEBXUKWLJG9xr2WRp1sb) | [Hosein Behroozinia](https://open.spotify.com/artist/1vCSqjfEj5Q0CP58CAhTZ4) | [From Stone Till Diamond \(Az Sang Ta Almas\) \-Iranian Barbat\(Oud\) Solo](https://open.spotify.com/album/27eMj8wEK8uU2FvTt0l0bG) | 5:08 | 2021-02-15 |  |
@@ -59,13 +61,13 @@
 | [Rain Drops](https://open.spotify.com/track/7HDIQid2Vbj6V4ckbR51WH) | [Shardad Rohani](https://open.spotify.com/artist/3riIYGDJMkjK1OenmRUMrW), [Scheherazade Quartet](https://open.spotify.com/artist/4YuORJGHaZw7VCi8ENOqcD) | [Scheherazade Quartet](https://open.spotify.com/album/6ZzBWprM1hQPss4UI5YVQY) | 3:31 | 2021-02-15 |  |
 | [Roubbama](https://open.spotify.com/track/1LTQewXIUPvVXGNTekUvcT) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Majâz](https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA) | 6:08 | 2021-02-15 |  |
 | [Sentiments in Emptiness](https://open.spotify.com/track/5tlzeu9WthIjEDlRMY1Ko3) | [Firas Zreik](https://open.spotify.com/artist/2tMwxSA9DSeHrI84cdg2RW) | [Sentiments in Emptiness](https://open.spotify.com/album/2M5fJOeUUEKlqNY0QLbjwX) | 3:41 | 2021-02-15 |  |
-| [Shadow of Sun, Pt\. 2](https://open.spotify.com/track/6OSObgHJnf1yR6eDnbYIj5) | [Mesbah Ghamsari](https://open.spotify.com/artist/4JGAKcI3rKaMJTZmZNbtPd) | [Touch \(Lams\)](https://open.spotify.com/album/1RpgjgQ3PXzeFauvzyJ4dg) | 4:37 | 2021-02-15 |  |
+| [Shadow of Sun, Pt\. 2](https://open.spotify.com/track/6OSObgHJnf1yR6eDnbYIj5) | [Mesbah Ghamsari](https://open.spotify.com/artist/4JGAKcI3rKaMJTZmZNbtPd) | [Touch \(Lams\)](https://open.spotify.com/album/1RpgjgQ3PXzeFauvzyJ4dg) | 4:37 | 2021-02-15 | 2022-05-27 |
 | [Takvim \- Live](https://open.spotify.com/track/76vcQaU6QvT9CZ20q0Cl1z) | [Aytac Dogan](https://open.spotify.com/artist/457nwUldk400eeh8gUsUDi) | [Kanun Resitali 3 \- Sezen Aksu Şarkıları \(Live\)](https://open.spotify.com/album/4Hz0rQTOqR9WDeHvO8Hctf) | 4:36 | 2021-02-15 |  |
 | [Taqsîm en maqâm : Nahawand\-kabîr](https://open.spotify.com/track/6UWZUL60UVWXE2CwbntY7B) | [Munir Bashir](https://open.spotify.com/artist/7u3rioJ6JfINqENIQ67k6A) | [Iraq \- Irak : The Art of the 'ûd](https://open.spotify.com/album/2M1g6EKg4ZfqH5mOI87e9x) | 9:35 | 2021-02-15 |  |
 | [Tare Tanha](https://open.spotify.com/track/4PWvOfUwNtS9jc4xpzBSlm) | [Arash Badie](https://open.spotify.com/artist/6xGJlTZ5odUFdrBzmCUR13) | [Hejar](https://open.spotify.com/album/0cdYw9U0yvLHpxn7wJJTCm) | 3:05 | 2021-02-15 |  |
 | [The Hanging Moon](https://open.spotify.com/track/6znb1dls6rehKz9MB7L8Hk) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:30 | 2021-02-15 |  |
 | [The Land of the Sun](https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Land of the Sun](https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre) | 3:58 | 2021-02-15 |  |
-| [The Semuta Jig](https://open.spotify.com/track/4VoptqwF5p1nF5jRaLQH9m) | [Nava](https://open.spotify.com/artist/15QJPcEqdD3lc6zDhMOljR) | [Tapestry](https://open.spotify.com/album/3VzmfQJ0iuFxHC1T3AJ35N) | 5:13 | 2021-02-15 |  |
+| [The Semuta Jig](https://open.spotify.com/track/4VoptqwF5p1nF5jRaLQH9m) | [Nava](https://open.spotify.com/artist/15QJPcEqdD3lc6zDhMOljR) | [Tapestry](https://open.spotify.com/album/3VzmfQJ0iuFxHC1T3AJ35N) | 5:13 | 2021-02-15 | 2022-05-27 |
 | [The Trees We Wear](https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:45 | 2021-02-15 |  |
 | [Yekeshish](https://open.spotify.com/track/2LSfFO6kZSGP6JxsPoQjrF) | [Hossein Alizadeh](https://open.spotify.com/artist/129o0b0q8hAgjrd7jDrbhP), [Ali Jafari Pouyan](https://open.spotify.com/artist/682NaUT4NTC5vkaFhZAZRq), [Behnood Yakhchali](https://open.spotify.com/artist/4yILBBJa570shWHY2IZ2Du) | [Yekeshish](https://open.spotify.com/album/1DuTPc3UotnGJ8M8q1fRsA) | 7:23 | 2021-02-15 |  |
 

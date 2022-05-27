@@ -4,7 +4,7 @@
 
 > Celebrate Disney Junior and magical storytelling through music! All the Disney Junior favorites, including Doc McStuffins in one playlist!
 
-144 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/35jziUyrve0Ka69ZTcrf6K)
+145 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/35jziUyrve0Ka69ZTcrf6K)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Dog Washin'](https://open.spotify.com/track/1H65UKRE3oRqxpCnVVWRi3) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Disney Junior Music: Puppy Dog Pals \- Pup\-tastic Party](https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7) | 1:02 | 2022-03-18 |  |
 | [Elena of Avalor \(Main Title\)](https://open.spotify.com/track/6eykmqPkR0ItSGhrwPvOEF) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena of Avalor \(Original Soundtrack\)](https://open.spotify.com/album/42OLLIcdDeCiLitu9o3FYw) | 1:02 | 2022-03-18 |  |
 | [Elena of Avalor \(Main Title\) / My Time Mashup \- From "Elena of Avalor"](https://open.spotify.com/track/4FNoMwQTkWyVd28EimU00i) | [Cast \- Elena of Avalor](https://open.spotify.com/artist/2mxj8j8IW2pWq0QOi4WN7Y), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Disney Junior Music Dance Party! The Album](https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK) | 2:37 | 2022-03-18 |  |
+| [Eureka! Main Title Theme \- From "Disney Junior Music: Eureka!"](https://open.spotify.com/track/4z6WszIenx3HoBR4uxjxIQ) | [Eureka! \- Cast](https://open.spotify.com/artist/2At0wMt22hR14ksbCvSSmA), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Eureka! Main Title Theme \(From "Disney Junior Music: Eureka!"\)](https://open.spotify.com/album/0of6FoW2YxSwZoy9YQdmRr) | 1:01 | 2022-05-26 |  |
 | [Every Dog Deserves a Home](https://open.spotify.com/track/2Ikw69fobr4cbjV6cCFT6t) | [The Chicken Squad \- Cast](https://open.spotify.com/artist/0IYe9D09F9fIMG0xGbZ2SD) | [Disney Junior Music: The Chicken Squad](https://open.spotify.com/album/0cfgvbtH4oz7PKJI0HZmb8) | 1:31 | 2022-03-18 |  |
 | [Everybody Wash Your Hands](https://open.spotify.com/track/6Aa2f5khjAv0xj3FMRHHGt) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 1](https://open.spotify.com/album/7EmFGJEsdiXwYZACc5wy2o) | 1:25 | 2022-03-18 |  |
 | [Find Your Courage!](https://open.spotify.com/track/5t2JdKWoUwNIPU6GLrFc0w) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Ready for Preschool Vol\. 6](https://open.spotify.com/album/4q63Npjvs1fkfxDz0AwpzZ) | 1:27 | 2022-03-18 |  |

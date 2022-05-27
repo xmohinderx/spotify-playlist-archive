@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: Wegz
 
-99 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
+100 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Ja Yeh](https://open.spotify.com/track/4cxT1DYSxsAkxmAOCP7zEP) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Coin En Enfer](https://open.spotify.com/album/4GgegTq35449mHydwUj4D9) | 3:00 | 2022-05-08 |  |
 | [Kafi](https://open.spotify.com/track/2TxM4LbxB54gZXprhgPPhU) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Kafi](https://open.spotify.com/album/5jSKq3z3kdw0aUczztEsyp) | 2:25 | 2022-05-08 |  |
 | [Keify Keda](https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Keify Keda](https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq) | 3:13 | 2022-05-08 |  |
+| [Kekh](https://open.spotify.com/track/2IuRjFbDzdhm8rOa8wrFmP) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Kekh](https://open.spotify.com/album/2mGW0ZP1RsNgR62jjVKI7P) | 3:05 | 2022-05-26 |  |
 | [Khadsha \(feat\. Shouly, Blvxb, El Far3i, Edd Abbas, Maysa Daw & RAYAN\)](https://open.spotify.com/track/4WTx7dLpU1aokHyBUzaZAv) | [Big Hass](https://open.spotify.com/artist/2ql58UK3Kq5d32topEu6Tv), [Shouly](https://open.spotify.com/artist/5PV019IYHyagZwyJ6TJkvA), [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT), [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t), [Edd Abbas](https://open.spotify.com/artist/3onyt8pAvkU5BmYVp2Y7HF), [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6), [Rayan](https://open.spotify.com/artist/5oxUbigQRV6UE3DJgfYdwQ) | [Khadsha \(feat\. Shouly, Blvxb, El Far3i, Edd Abbas, Maysa Daw & RAYAN\)](https://open.spotify.com/album/5Q0USFenQTWVyhecRKLQnP) | 4:20 | 2022-05-08 |  |
 | [Khaliji Westcoast](https://open.spotify.com/track/5oVcQLyEEJDiIoNPNi2pUQ) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Khaliji Westcoast](https://open.spotify.com/album/5atrvsizsJwUKs4Xn3i95t) | 2:34 | 2022-05-08 |  |
 | [Khataf](https://open.spotify.com/track/14bqqHlCGigtTWDEYkgyvv) | [Moudy Al Arabe](https://open.spotify.com/artist/68KKIaozjXuxJyAWs2nDhz) | [Khataf](https://open.spotify.com/album/291zy8iPVZVVUFIu4BTmwQ) | 3:14 | 2022-05-08 |  |
@@ -103,7 +104,7 @@
 | [عفاريت الأسفلت](https://open.spotify.com/track/4uNc5GMR6a5az5U3Ghdyf8) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عفاريت الأسفلت](https://open.spotify.com/album/1fwFqGqTUEwm4n1m8vX9J1) | 3:24 | 2022-05-08 |  |
 | [فودكا وسيريلاك \- Prod\. By Zoog](https://open.spotify.com/track/7FgYvRDkqMWlUVcIScg40p) | [El Rass](https://open.spotify.com/artist/70JnprmV5bM5nyZ8YeZbDc) | [فودكا وسيريلاك \(Prod\. By Zoog\)](https://open.spotify.com/album/12RwT1BYaegG69bMhGlYfj) | 3:00 | 2022-05-08 |  |
 | [قيود](https://open.spotify.com/track/3jaY0nkYO9qFBjA4XNEZtI) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [قيود](https://open.spotify.com/album/3ipg4bP7o5IWZP44gtWX0W) | 2:56 | 2022-05-08 |  |
-| [كِخ](https://open.spotify.com/track/4DR2qwQubTm9GpRodqYvis) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [كِخ](https://open.spotify.com/album/44FvX2fCYGeRX2iRKzmYeM) | 3:05 | 2022-05-08 |  |
+| [كِخ](https://open.spotify.com/track/4DR2qwQubTm9GpRodqYvis) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [كِخ](https://open.spotify.com/album/44FvX2fCYGeRX2iRKzmYeM) | 3:05 | 2022-05-08 | 2022-05-27 |
 | [مش فير](https://open.spotify.com/track/1JdRPaDFswfqCpAhBPKqUw) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [مش فير](https://open.spotify.com/album/3CIm2qnP74RIoein82TmMs) | 3:50 | 2022-05-08 |  |
 | [مكاني](https://open.spotify.com/track/5fCPssqX4KCPXclpq08BU0) | [Skinnyg](https://open.spotify.com/artist/7xMzHcQVj9mPV6W5fTq6go) | [مكاني](https://open.spotify.com/album/6VAAvWMaGOlREg2owEvsKE) | 3:32 | 2022-05-08 |  |
 | [يمّا ٢](https://open.spotify.com/track/6ka4CAlYTH3TetmF1vThLi) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS) | [القمر و المحيط](https://open.spotify.com/album/4jz1dahfl0ZDXhZVwL3rzu) | 3:31 | 2022-05-08 |  |

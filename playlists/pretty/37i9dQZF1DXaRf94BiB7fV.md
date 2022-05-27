@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Aarifah, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,519 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,578 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Now She Knows](https://open.spotify.com/track/3thHuhTiYFrvsZrivGqz31) | [Aarifah](https://open.spotify.com/artist/6vzDLX1aBE4CGlYUcg90Lu) | [Now She Knows](https://open.spotify.com/album/59h91kgWpxD7Z0ygc5VVxO) | 4:30 |
-| 2 | [Gum Kahin](https://open.spotify.com/track/5asHox5iMFgGorPBifx6CC) | [Shubham Srivastava](https://open.spotify.com/artist/2yFN3DwkemsCYwcXcKDkvl), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Gum Kahin](https://open.spotify.com/album/6h57I8dl2U4CWttokWEakz) | 2:51 |
+| 2 | [Gum Kahin](https://open.spotify.com/track/5asHox5iMFgGorPBifx6CC) | [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Gum Kahin](https://open.spotify.com/album/6h57I8dl2U4CWttokWEakz) | 2:51 |
 | 3 | [Bekal](https://open.spotify.com/track/14K54JjzB6hPczfOoekvpz) | [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Bekal](https://open.spotify.com/album/3a6uB1GWxknOfS5HaR96tb) | 3:42 |
 | 4 | [Paahado Mein](https://open.spotify.com/track/0ATW31i2evGPRqAetgJm4k) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa) | [Paahado Mein](https://open.spotify.com/album/1YDFlfYP6BaXu24nwd20zW) | 2:56 |
 | 5 | [Kahaan Jaana Hai](https://open.spotify.com/track/6Wz13vEIm95L36H4cmwoRM) | [Munaf Luhar](https://open.spotify.com/artist/45kc3XakJVhfSClDWpu7iZ) | [Kahaan Jaana Hai](https://open.spotify.com/album/3HzZrwPz63hNZtTlxMBt3m) | 2:01 |

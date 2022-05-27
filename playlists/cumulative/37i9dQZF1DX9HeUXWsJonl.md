@@ -4,7 +4,7 @@
 
 > The sweet sounds of Tunisia.
 
-64 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+66 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Ena](https://open.spotify.com/track/2EgLc1ac8D2PRIoOc0MWhA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/6ikbd0GPRfPckuN7rLDSit) | 5:12 | 2021-12-10 |  |
 | [Finek](https://open.spotify.com/track/6BJ8rKfrRf4U1u3CGGvgTV) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Finek](https://open.spotify.com/album/2rpEr6XUjRcUKkpRqaQZKe) | 3:24 | 2021-12-10 |  |
 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 | 2022-01-20 |  |
+| [Ghrib](https://open.spotify.com/track/6UmPJTPqQ3HXZkGHzpCR2H) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ghram](https://open.spotify.com/album/1NyH5ubcU9CCabIjVJkAHO) | 3:04 | 2022-05-26 |  |
 | [Haw Fi Belek](https://open.spotify.com/track/5UlBJjxOMdDp0flRkD5RME) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM), [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Tchiggy](https://open.spotify.com/artist/2FsxcHBONPXPDoASKYLe2v) | [Haw Fi Belek](https://open.spotify.com/album/2RPmnyGcZARbNPz1ajp9NV) | 3:51 | 2021-12-10 |  |
 | [Hayala](https://open.spotify.com/track/59gRXEBW682Qg8DApGqPl3) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Hayala](https://open.spotify.com/album/2kZZ423qgs7VMwGjuwBdHL) | 3:36 | 2021-12-10 |  |
 | [Hkeyetkom Wfet](https://open.spotify.com/track/7bzfVYSm6pU0gwuX20rFuY) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Hkeyetkom Wfet](https://open.spotify.com/album/1gbsicMYbNsGdEfV195AyI) | 3:23 | 2022-03-03 |  |
@@ -55,12 +56,13 @@
 | [Njik Nzour](https://open.spotify.com/track/58oVWjYLjemAvRIIb2lDWS) | [Amon](https://open.spotify.com/artist/4nOP7DBb86tiEXS1NqQ2bw) | [Njik Nzour](https://open.spotify.com/album/3Cq4ZZHahM2IZNt2AnhaCo) | 3:18 | 2021-12-10 |  |
 | [Nour Einya](https://open.spotify.com/track/4I2RsbFM6kjO0CrNsSG3CD) | [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Nour Einya](https://open.spotify.com/album/7olrz330h5TSKVwhjyP9BR) | 4:33 | 2021-12-10 |  |
 | [Peace](https://open.spotify.com/track/4309E381wM4XchDUk4xgeg) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Peace](https://open.spotify.com/album/0gX0SYcp8QbxSIZNnRw3a4) | 4:00 | 2021-12-10 |  |
-| [Rabi M3ak](https://open.spotify.com/track/1uxdCqmbqzC2SdjxElnx4A) | [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Rabi M3ak](https://open.spotify.com/album/34gcB07Z9ydYO7bfVMKKsN) | 3:36 | 2021-12-30 |  |
+| [Rabi M3ak](https://open.spotify.com/track/1uxdCqmbqzC2SdjxElnx4A) | [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Rabi M3ak](https://open.spotify.com/album/34gcB07Z9ydYO7bfVMKKsN) | 3:36 | 2021-12-30 | 2022-05-27 |
 | [Sabeba](https://open.spotify.com/track/6RTBd80nLFY1Nft7mJpFKx) | [Cheb Bachir](https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ) | [Sabeba](https://open.spotify.com/album/4EiDJaH5SidMjAfhnErZse) | 3:14 | 2021-12-10 | 2022-02-04 |
 | [Sidi El Houwari](https://open.spotify.com/track/7ewNKUWihyy5DWQQESwjPc) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Sidi El Houwari](https://open.spotify.com/album/7MRuqMWZGwhuZ1417n7B1n) | 3:56 | 2022-02-07 |  |
+| [Sob Enta](https://open.spotify.com/track/2UuSF6Y0Q9UINkprnG48Xn) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Mista6012](https://open.spotify.com/artist/5PXOzFTQg0XX5f8uS20cY3), [MC Rai](https://open.spotify.com/artist/5FofUhu7YJLPwRP5I5xAKq), [Wiem Yahia](https://open.spotify.com/artist/4LOXLGzjdPXGPQbGwbQXxd) | [Sob Enta](https://open.spotify.com/album/0nxxlzddE6ODOSqiXPNJdK) | 3:31 | 2022-05-26 |  |
 | [Soukara](https://open.spotify.com/track/4E9W5CF1SVwRrYX8xZ7H2x) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Soukara](https://open.spotify.com/album/0cdBTS4wd4T2k7Bwpw1eP0) | 4:10 | 2022-03-31 |  |
 | [Soussa By Night](https://open.spotify.com/track/0On8JF0aSbrhCupnZohkK6) | [JahMxli](https://open.spotify.com/artist/7M7zf29Oe6dQh3xmAk2DlN), [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP) | [Soussa By Night](https://open.spotify.com/album/1Ui86A2Tw5RJ4nvnCVg4HO) | 3:24 | 2021-12-10 |  |
-| [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 | 2022-03-24 |  |
+| [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 | 2022-03-24 | 2022-05-27 |
 | [Ti amo](https://open.spotify.com/track/00xoWQd2gzMQrUYohWV1lW) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Hasta la muerte](https://open.spotify.com/album/72MdvUI4rPAcOTW0ty9zuw) | 3:53 | 2021-12-10 |  |
 | [Vanille](https://open.spotify.com/track/4lrsCXwghvihHzjYKrB2uY) | [Lady Miro](https://open.spotify.com/artist/3xCulAs0FwT4sByJ8UVpjb), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Vanille](https://open.spotify.com/album/4JKKfV15KUKpoEGathW7np) | 2:27 | 2021-12-10 | 2022-02-26 |
 | [Wakti Yejri](https://open.spotify.com/track/2rdBSVBD6xMJOmCNrGniSr) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Wakti Yejri](https://open.spotify.com/album/7smElBnJjgj4vptmJx5OXo) | 3:08 | 2021-12-10 |  |

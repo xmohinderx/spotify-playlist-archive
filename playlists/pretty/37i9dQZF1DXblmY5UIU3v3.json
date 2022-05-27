@@ -1,12 +1,12 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 124278,
+  "num_followers": 125141,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAzMjgxNSwwMDAwMDAyMDAwMDAwMTgwZTA2ZjA5YWIwMDAwMDE3ZDA1NjFjZTIw",
+  "snapshot_id": "MTY1MzYwMjQ2MCwwMDAwMDAyMTAwMDAwMTgxMDI2MzIyZDkwMDAwMDE3ZDA1NjFjZTIw",
   "tracks": [
     {
       "added_at": "2022-04-07 21:01:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/48tI68zHn3r3uHmGxdkKDd"
     },
     {
+      "added_at": "2022-05-26 22:01:00",
+      "album": {
+        "name": "Shagy",
+        "url": "https://open.spotify.com/album/6AuQTnJG4AYhqpo5zQAtVx"
+      },
+      "artists": [
+        {
+          "name": "ONEIL",
+          "url": "https://open.spotify.com/artist/7kzcAiYqxBV5J25vTYeOxA"
+        }
+      ],
+      "duration_ms": 150588,
+      "name": "Shagy",
+      "url": "https://open.spotify.com/track/2zI17EWoz24ZaDB9baDBhC"
+    },
+    {
       "added_at": "2022-04-07 21:01:00",
       "album": {
         "name": "SNEAKY",
@@ -57,26 +73,6 @@
       "url": "https://open.spotify.com/track/7sorNP9VLdnIRIjIwUq5g7"
     },
     {
-      "added_at": "2022-05-20 07:46:54",
-      "album": {
-        "name": "Skrilla",
-        "url": "https://open.spotify.com/album/4vcJYOUdbxx6Y67spLWq4Q"
-      },
-      "artists": [
-        {
-          "name": "azZza",
-          "url": "https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP"
-        },
-        {
-          "name": "SARDIO",
-          "url": "https://open.spotify.com/artist/1TKQPncXcxEpZaDPiN9G1s"
-        }
-      ],
-      "duration_ms": 141900,
-      "name": "Skrilla",
-      "url": "https://open.spotify.com/track/2EjUd8AsjwAYPqo0Cce0q8"
-    },
-    {
       "added_at": "2022-04-07 21:01:00",
       "album": {
         "name": "Petrunko",
@@ -91,30 +87,6 @@
       "duration_ms": 177612,
       "name": "Petrunko",
       "url": "https://open.spotify.com/track/0L04VZ5erOasu90dF18kpY"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/2iDZUi1B2nw1T3SHY8RGjJ"
-      },
-      "artists": [
-        {
-          "name": "ROWKA",
-          "url": "https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm"
-        },
-        {
-          "name": "Levis Della",
-          "url": "https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5"
-        },
-        {
-          "name": "Sandu\u00fa",
-          "url": "https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f"
-        }
-      ],
-      "duration_ms": 152001,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/55LIJtZUzyhtSgR4Kp6hHC"
     },
     {
       "added_at": "2022-04-07 21:01:00",
@@ -161,6 +133,26 @@
       "url": "https://open.spotify.com/track/1DT949NfFNvR6ePqdghtng"
     },
     {
+      "added_at": "2022-05-26 22:01:00",
+      "album": {
+        "name": "Sztoj Pa Moru",
+        "url": "https://open.spotify.com/album/6jqIGpQn1A00DdYut4vCNs"
+      },
+      "artists": [
+        {
+          "name": "BROHM",
+          "url": "https://open.spotify.com/artist/33cjmfhkyHbulkQwkuxe3i"
+        },
+        {
+          "name": "Thingstad",
+          "url": "https://open.spotify.com/artist/4nl0BnCSRpuneTf0d7fV3G"
+        }
+      ],
+      "duration_ms": 138782,
+      "name": "Sztoj Pa Moru",
+      "url": "https://open.spotify.com/track/3BHe1jnaW3hocrfMqytTP2"
+    },
+    {
       "added_at": "2022-04-07 21:01:00",
       "album": {
         "name": "Look at Me",
@@ -179,6 +171,26 @@
       "duration_ms": 139200,
       "name": "Look at Me",
       "url": "https://open.spotify.com/track/6ixeBeuUlZxjmBsjdsLuCv"
+    },
+    {
+      "added_at": "2022-05-20 07:46:54",
+      "album": {
+        "name": "Skrilla",
+        "url": "https://open.spotify.com/album/4vcJYOUdbxx6Y67spLWq4Q"
+      },
+      "artists": [
+        {
+          "name": "azZza",
+          "url": "https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP"
+        },
+        {
+          "name": "SARDIO",
+          "url": "https://open.spotify.com/artist/1TKQPncXcxEpZaDPiN9G1s"
+        }
+      ],
+      "duration_ms": 141900,
+      "name": "Skrilla",
+      "url": "https://open.spotify.com/track/2EjUd8AsjwAYPqo0Cce0q8"
     },
     {
       "added_at": "2022-04-07 21:01:00",
@@ -201,28 +213,20 @@
       "url": "https://open.spotify.com/track/6IueCsicxdsbMj1HTF8jxq"
     },
     {
-      "added_at": "2022-04-07 21:01:00",
+      "added_at": "2022-05-26 22:01:00",
       "album": {
-        "name": "Love Nwantiti (ah ah ah)",
-        "url": "https://open.spotify.com/album/3QKmj83Db2QfSr0IkPUUXR"
+        "name": "FLEXIN'",
+        "url": "https://open.spotify.com/album/5rPDHgF6ZMVXpNKOVBThqJ"
       },
       "artists": [
         {
-          "name": "Jaydan Wolf",
-          "url": "https://open.spotify.com/artist/58NOd3nTpJVVGma4x975P0"
-        },
-        {
-          "name": "Luc Rushmere",
-          "url": "https://open.spotify.com/artist/7IfsuGH0v0gCTz4e5ZSD1p"
-        },
-        {
-          "name": "ASTRODIA",
-          "url": "https://open.spotify.com/artist/3DyfxgDK0vg1vpGQtXZImO"
+          "name": "KEAN DYSSO",
+          "url": "https://open.spotify.com/artist/74MUeXrsMncKunk1chMxg5"
         }
       ],
-      "duration_ms": 170322,
-      "name": "Love Nwantiti (ah ah ah)",
-      "url": "https://open.spotify.com/track/13yZ5GCAdTfhIMAzzgI9VJ"
+      "duration_ms": 174550,
+      "name": "FLEXIN'",
+      "url": "https://open.spotify.com/track/4HzwzU8MQu0BeOGR28B459"
     },
     {
       "added_at": "2022-04-07 21:01:00",
@@ -239,26 +243,6 @@
       "duration_ms": 177056,
       "name": "Pain in Memories",
       "url": "https://open.spotify.com/track/4Pi2VsPHpT8BTvkfGwNIFL"
-    },
-    {
-      "added_at": "2022-05-20 07:46:54",
-      "album": {
-        "name": "Dune",
-        "url": "https://open.spotify.com/album/6IzhSilCIno7FCwaj74CmD"
-      },
-      "artists": [
-        {
-          "name": "Infraction",
-          "url": "https://open.spotify.com/artist/7qlhXQA7QMXRwHtfTcQoyJ"
-        },
-        {
-          "name": "Alexi Action",
-          "url": "https://open.spotify.com/artist/5Q3fDuVVQh3Bn8SVcIdqKw"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Dune",
-      "url": "https://open.spotify.com/track/3DYl0qnXwMYMKcXHn95i7d"
     },
     {
       "added_at": "2022-04-21 21:01:00",
@@ -307,34 +291,26 @@
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "SAX",
-        "url": "https://open.spotify.com/album/5PeIppUVmMLLn0AFKxBECh"
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/2iDZUi1B2nw1T3SHY8RGjJ"
       },
       "artists": [
         {
-          "name": "WYR GEMI",
-          "url": "https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB"
-        }
-      ],
-      "duration_ms": 153722,
-      "name": "SAX",
-      "url": "https://open.spotify.com/track/5f0VxpTZ3pXgDi6f4XgsL6"
-    },
-    {
-      "added_at": "2022-05-20 07:46:54",
-      "album": {
-        "name": "Doctor",
-        "url": "https://open.spotify.com/album/1pdm2LpgVSsGSCBpoeXbZe"
-      },
-      "artists": [
+          "name": "ROWKA",
+          "url": "https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm"
+        },
         {
-          "name": "BAD NINJA",
-          "url": "https://open.spotify.com/artist/1e9y7soHWYgqQzdM6tWrsU"
+          "name": "Levis Della",
+          "url": "https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5"
+        },
+        {
+          "name": "Sandu\u00fa",
+          "url": "https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f"
         }
       ],
-      "duration_ms": 179478,
-      "name": "Big Bang",
-      "url": "https://open.spotify.com/track/1DLAecTyNRrGd2QcTf33Tc"
+      "duration_ms": 152001,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/55LIJtZUzyhtSgR4Kp6hHC"
     },
     {
       "added_at": "2022-04-21 21:01:00",
@@ -353,24 +329,64 @@
       "url": "https://open.spotify.com/track/3jWkWcmESJG9fmhZOpZYsW"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-04-07 21:01:00",
       "album": {
-        "name": "Ammon",
-        "url": "https://open.spotify.com/album/78Ak3yfjvOqEEQmZFnigGh"
+        "name": "Love Nwantiti (ah ah ah)",
+        "url": "https://open.spotify.com/album/3QKmj83Db2QfSr0IkPUUXR"
       },
       "artists": [
         {
-          "name": "VOLB3X",
-          "url": "https://open.spotify.com/artist/29nkqEfPr4KzAnoDcKriTu"
+          "name": "Jaydan Wolf",
+          "url": "https://open.spotify.com/artist/58NOd3nTpJVVGma4x975P0"
         },
         {
-          "name": "SINDICVT",
-          "url": "https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf"
+          "name": "Luc Rushmere",
+          "url": "https://open.spotify.com/artist/7IfsuGH0v0gCTz4e5ZSD1p"
+        },
+        {
+          "name": "ASTRODIA",
+          "url": "https://open.spotify.com/artist/3DyfxgDK0vg1vpGQtXZImO"
         }
       ],
-      "duration_ms": 194181,
-      "name": "Ammon",
-      "url": "https://open.spotify.com/track/06M8pGtRccwdOXMXsXxHg8"
+      "duration_ms": 170322,
+      "name": "Love Nwantiti (ah ah ah)",
+      "url": "https://open.spotify.com/track/13yZ5GCAdTfhIMAzzgI9VJ"
+    },
+    {
+      "added_at": "2022-04-07 21:01:00",
+      "album": {
+        "name": "Another",
+        "url": "https://open.spotify.com/album/1zHE1zaJ5NDwgx89y3xquY"
+      },
+      "artists": [
+        {
+          "name": "Night Motion",
+          "url": "https://open.spotify.com/artist/3qQP1s21musxVdAl9uVAii"
+        },
+        {
+          "name": "MVDNES",
+          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/1a4xp5dMir0kJOWrWt5XVB"
+    },
+    {
+      "added_at": "2022-05-20 07:46:54",
+      "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/1pdm2LpgVSsGSCBpoeXbZe"
+      },
+      "artists": [
+        {
+          "name": "BAD NINJA",
+          "url": "https://open.spotify.com/artist/1e9y7soHWYgqQzdM6tWrsU"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/1DLAecTyNRrGd2QcTf33Tc"
     },
     {
       "added_at": "2022-04-07 21:01:00",
@@ -391,6 +407,22 @@
       "duration_ms": 208200,
       "name": "Plain Jane",
       "url": "https://open.spotify.com/track/6y0AJTZagYpjo0bqYmai2t"
+    },
+    {
+      "added_at": "2022-05-26 22:01:00",
+      "album": {
+        "name": "Creed",
+        "url": "https://open.spotify.com/album/6qlZRikwB57mZICjlsnNtr"
+      },
+      "artists": [
+        {
+          "name": "Jebby Jay",
+          "url": "https://open.spotify.com/artist/0qWtgkuR4HNf4E9YSA7kp6"
+        }
+      ],
+      "duration_ms": 182994,
+      "name": "Creed",
+      "url": "https://open.spotify.com/track/0mXeyfwJMCPwIV6mlATpoa"
     },
     {
       "added_at": "2022-04-15 06:11:57",
@@ -417,6 +449,22 @@
       "url": "https://open.spotify.com/track/7lFSuErjiTytfOzq0gszXW"
     },
     {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "SAX",
+        "url": "https://open.spotify.com/album/5PeIppUVmMLLn0AFKxBECh"
+      },
+      "artists": [
+        {
+          "name": "WYR GEMI",
+          "url": "https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB"
+        }
+      ],
+      "duration_ms": 153722,
+      "name": "SAX",
+      "url": "https://open.spotify.com/track/5f0VxpTZ3pXgDi6f4XgsL6"
+    },
+    {
       "added_at": "2022-04-21 21:01:00",
       "album": {
         "name": "\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0432\u0435\u0447\u043e\u0440\u0430 (Where Are You From)",
@@ -431,6 +479,26 @@
       "duration_ms": 168648,
       "name": "\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0432\u0435\u0447\u043e\u0440\u0430 - Where Are You From",
       "url": "https://open.spotify.com/track/0O3TZYgwaRadNprRONZ7iX"
+    },
+    {
+      "added_at": "2022-05-20 07:46:54",
+      "album": {
+        "name": "Dune",
+        "url": "https://open.spotify.com/album/6IzhSilCIno7FCwaj74CmD"
+      },
+      "artists": [
+        {
+          "name": "Infraction",
+          "url": "https://open.spotify.com/artist/7qlhXQA7QMXRwHtfTcQoyJ"
+        },
+        {
+          "name": "Alexi Action",
+          "url": "https://open.spotify.com/artist/5Q3fDuVVQh3Bn8SVcIdqKw"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Dune",
+      "url": "https://open.spotify.com/track/3DYl0qnXwMYMKcXHn95i7d"
     },
     {
       "added_at": "2022-04-07 21:01:00",
@@ -509,26 +577,6 @@
       "url": "https://open.spotify.com/track/7fTp06COFtWGAypdljZpJR"
     },
     {
-      "added_at": "2022-04-07 21:01:00",
-      "album": {
-        "name": "Another",
-        "url": "https://open.spotify.com/album/1zHE1zaJ5NDwgx89y3xquY"
-      },
-      "artists": [
-        {
-          "name": "Night Motion",
-          "url": "https://open.spotify.com/artist/3qQP1s21musxVdAl9uVAii"
-        },
-        {
-          "name": "MVDNES",
-          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "Another",
-      "url": "https://open.spotify.com/track/1a4xp5dMir0kJOWrWt5XVB"
-    },
-    {
       "added_at": "2022-05-12 22:01:00",
       "album": {
         "name": "Okay",
@@ -547,6 +595,26 @@
       "duration_ms": 170326,
       "name": "Okay",
       "url": "https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Ammon",
+        "url": "https://open.spotify.com/album/78Ak3yfjvOqEEQmZFnigGh"
+      },
+      "artists": [
+        {
+          "name": "VOLB3X",
+          "url": "https://open.spotify.com/artist/29nkqEfPr4KzAnoDcKriTu"
+        },
+        {
+          "name": "SINDICVT",
+          "url": "https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Ammon",
+      "url": "https://open.spotify.com/track/06M8pGtRccwdOXMXsXxHg8"
     },
     {
       "added_at": "2022-04-07 21:01:00",
@@ -627,30 +695,6 @@
       "duration_ms": 236312,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/6UzOyxTDi5LmummK0AGIvQ"
-    },
-    {
-      "added_at": "2022-04-07 21:01:00",
-      "album": {
-        "name": "Piece of Your Mind",
-        "url": "https://open.spotify.com/album/4hEIBuosMbU25LXDDRcbOx"
-      },
-      "artists": [
-        {
-          "name": "Moses",
-          "url": "https://open.spotify.com/artist/7xihR0iAXmuXt2XJobep51"
-        },
-        {
-          "name": "EMR3YGUL",
-          "url": "https://open.spotify.com/artist/7McJw5ZG7vJezw6ygrFagY"
-        },
-        {
-          "name": "Yoelle",
-          "url": "https://open.spotify.com/artist/12dRVeXA0qQ3jiHQYFHKI6"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Piece of Your Mind",
-      "url": "https://open.spotify.com/track/4FwsiQaQglMPijjeheTygn"
     },
     {
       "added_at": "2022-04-07 21:01:00",
@@ -753,26 +797,6 @@
       "url": "https://open.spotify.com/track/6XZFkz0GOlIPPmK5yAX8UJ"
     },
     {
-      "added_at": "2022-05-06 11:44:00",
-      "album": {
-        "name": "Ice",
-        "url": "https://open.spotify.com/album/46uVnl8Aua2qfUpTZMWOMW"
-      },
-      "artists": [
-        {
-          "name": "Soner Karaca",
-          "url": "https://open.spotify.com/artist/1sBt5pbb0tW8VjLpmKXyLj"
-        },
-        {
-          "name": "Onur Enfal",
-          "url": "https://open.spotify.com/artist/1kI91ce6uHcJZymFcavzZL"
-        }
-      ],
-      "duration_ms": 141163,
-      "name": "Ice",
-      "url": "https://open.spotify.com/track/4LaVwTbIR8eFKge1xOgJBe"
-    },
-    {
       "added_at": "2022-04-07 21:01:00",
       "album": {
         "name": "GVNG",
@@ -787,26 +811,6 @@
       "duration_ms": 139200,
       "name": "GVNG",
       "url": "https://open.spotify.com/track/1qeBLpAhPKExWU5PMtwm8K"
-    },
-    {
-      "added_at": "2022-04-21 21:01:00",
-      "album": {
-        "name": "Gangster Squad",
-        "url": "https://open.spotify.com/album/3So2thmEizKvt2hfHhttjd"
-      },
-      "artists": [
-        {
-          "name": "Davuiside",
-          "url": "https://open.spotify.com/artist/76f3kykMC0OdbzXU02T1QV"
-        },
-        {
-          "name": "Payin' Top Dolla",
-          "url": "https://open.spotify.com/artist/7IXR8plomiYLjUOJGuN7Bw"
-        }
-      ],
-      "duration_ms": 144096,
-      "name": "Gangster Squad",
-      "url": "https://open.spotify.com/track/4Fs5hxTxG0lREbLEWWLZcB"
     },
     {
       "added_at": "2022-04-07 21:01:00",
@@ -851,22 +855,6 @@
       "duration_ms": 169142,
       "name": "Hungry",
       "url": "https://open.spotify.com/track/28Xp1VVE6OLjs0cdWfO4ZA"
-    },
-    {
-      "added_at": "2022-04-28 21:01:00",
-      "album": {
-        "name": "HIGHEST IN THE ROOM",
-        "url": "https://open.spotify.com/album/1VGXJjIxaPqIZpvZg8lXrf"
-      },
-      "artists": [
-        {
-          "name": "LEVAN CREED",
-          "url": "https://open.spotify.com/artist/2Z4ZSgyGHHCDkBPThMnVtq"
-        }
-      ],
-      "duration_ms": 160268,
-      "name": "HIGHEST IN THE ROOM",
-      "url": "https://open.spotify.com/track/2zN1Xy9Abht2VuUkRFGjmp"
     },
     {
       "added_at": "2022-04-07 21:01:00",

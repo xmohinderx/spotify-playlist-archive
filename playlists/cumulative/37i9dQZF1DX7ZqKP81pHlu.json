@@ -66,6 +66,28 @@
     },
     {
       "album": {
+        "name": "Adieu c'est fini",
+        "url": "https://open.spotify.com/album/4cWQhb83fr3KYK0sg99e3Q"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Sofiane DMC",
+          "url": "https://open.spotify.com/artist/77FoOrCfbaUzz92uI8U71u"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392333,
+      "name": "Adieu c'est fini",
+      "url": "https://open.spotify.com/track/0dKRDmt9mpBhmhWsp1dpxU"
+    },
+    {
+      "album": {
         "name": "Amazone",
         "url": "https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28"
       },
@@ -99,7 +121,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 207975,
       "name": "Ana & Rasi",
       "url": "https://open.spotify.com/track/5lEg43432gVU8BzwIJULVO"
@@ -277,7 +299,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 186000,
       "name": "Dawama",
       "url": "https://open.spotify.com/track/0DW1FQLgauly0anz5SO4bp"
@@ -1089,6 +1111,24 @@
       "duration_ms": 256757,
       "name": "Welili",
       "url": "https://open.spotify.com/track/7l7ZDnYDzyEolxqsJP1POf"
+    },
+    {
+      "album": {
+        "name": "Sans visa",
+        "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "Ya lbahri",
+      "url": "https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV"
     },
     {
       "album": {

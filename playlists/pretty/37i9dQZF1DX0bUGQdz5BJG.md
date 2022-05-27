@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Carter Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,178 likes - 181 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,253 likes - 181 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

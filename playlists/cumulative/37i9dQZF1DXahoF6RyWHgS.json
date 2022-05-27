@@ -24,6 +24,28 @@
     },
     {
       "album": {
+        "name": "Luaka Bop Remix",
+        "url": "https://open.spotify.com/album/7uNWWbWA8GKZBky6KYxIvT"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        },
+        {
+          "name": "Koop",
+          "url": "https://open.spotify.com/artist/14NPkkAvH5KHqZhqFpuJEg"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166813,
+      "name": "Afro Blue - Koop Remix",
+      "url": "https://open.spotify.com/track/5LUlXoQuBZDHPTA9uhdvMp"
+    },
+    {
+      "album": {
         "name": "Pa'lante",
         "url": "https://open.spotify.com/album/1IgfNMFIkkqSoZpjp1aEf9"
       },
@@ -125,7 +147,7 @@
       ],
       "date_added": "2020-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 164293,
       "name": "Anna (El negro zumb\u00f3n)",
       "url": "https://open.spotify.com/track/5wKLe0kCu0w0e5gNZZanWm"
@@ -843,7 +865,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 441933,
       "name": "Kind Of Latin Rhythm",
       "url": "https://open.spotify.com/track/34wO7W3ir2VEuSD9pz8BAo"
@@ -1411,6 +1433,24 @@
       "duration_ms": 181864,
       "name": "Oracion Caribe",
       "url": "https://open.spotify.com/track/7EEgaEck35oVTzXGFOm7Kr"
+    },
+    {
+      "album": {
+        "name": "The Best of Chicha: Cumbias, Vol. 5 (Spicy Tropical Sounds from Per\u00fa)",
+        "url": "https://open.spotify.com/album/5MXDE3BEHOpUoROq53KGnn"
+      },
+      "artists": [
+        {
+          "name": "Manzanita y su Conjunto",
+          "url": "https://open.spotify.com/artist/5ybBgREkVrODhrtj94QBkc"
+        }
+      ],
+      "date_added": "2020-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193027,
+      "name": "Paga la Cuenta Sinverg\u00fcenza",
+      "url": "https://open.spotify.com/track/2qSwLZX8vdTsox4IPbQLB8"
     },
     {
       "album": {

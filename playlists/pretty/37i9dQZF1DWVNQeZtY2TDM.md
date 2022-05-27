@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: 高隆華LEON
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,705 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,724 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 2 | [Last Summer](https://open.spotify.com/track/0dlsXsg8Ch0a8yXlwkbE6T) | [Sl!ce](https://open.spotify.com/artist/4bJUbD6HkkVIVKmYYmKyIC) | [!NTO](https://open.spotify.com/album/3W4T7867lQuPCCZnTvdglU) | 2:14 |
 | 3 | [Love?](https://open.spotify.com/track/1kEddX5EQVIDq2qOUO3pxb) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC), [J.win](https://open.spotify.com/artist/6pcfBsij9bi4yKK1YMpYNH), [翊喬](https://open.spotify.com/artist/7ha60jo5xhSQfOblBzcxeB) | [Love?](https://open.spotify.com/album/5lqhwTPBfumlIQjJXUStTL) | 4:10 |
 | 4 | [Tears and Rain](https://open.spotify.com/track/4gzsUn5fAd068VRCen6CN5) | [Mikeyyy Jen](https://open.spotify.com/artist/5xp2ErvzSOO2OyQuhRQAyk) | [Tears and Rain](https://open.spotify.com/album/2iREgAHT5PYd9cS7MXv626) | 2:12 |
-| 5 | [你把靈魂弄哪兒去啦 \| from 詩人陳奇雲 —《滾動的詩》音樂紀實](https://open.spotify.com/track/6LxIf45hpCvYhzTV0s9I3P) | [老莫 ILL MO](https://open.spotify.com/artist/4JGm6vTwtCqjf0C3kxXx6y) | [你把靈魂弄哪兒去啦 \| from 詩人陳奇雲 —《滾動的詩》音樂紀實](https://open.spotify.com/album/3oHPyLQfEqFKXahdiQX0yn) | 3:46 |
+| 5 | [你把靈魂弄哪兒去啦 \| from 詩人陳奇雲 —《滾動的詩》音樂紀實](https://open.spotify.com/track/6LxIf45hpCvYhzTV0s9I3P) | [滾動的詩](https://open.spotify.com/artist/5XKfTwctFJLoF6ciVCb3GH), [老莫 ILL MO](https://open.spotify.com/artist/4JGm6vTwtCqjf0C3kxXx6y) | [你把靈魂弄哪兒去啦 \| from 詩人陳奇雲 —《滾動的詩》音樂紀實](https://open.spotify.com/album/3oHPyLQfEqFKXahdiQX0yn) | 3:46 |
 | 6 | [WOW 無法言喻](https://open.spotify.com/track/52Z5Cl9r0x0IEvK0DnzKrt) | [THE WENDI](https://open.spotify.com/artist/0bH6yW56uEzDW5Sx0k0SvN), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [WOW 無法言喻](https://open.spotify.com/album/1agoB6zu6L85BQdFz7Nk7K) | 3:28 |
 | 7 | [\#MONDAY](https://open.spotify.com/track/2xFtsbTvsYXfT0ASKP3HTa) | [A\-Fei 阿飛](https://open.spotify.com/artist/0QfCMAAAQ7AGLh77MQwyJn), [ZL7](https://open.spotify.com/artist/1RUGX6XkAnOk25OZBjwXjX), [Flomosa Media](https://open.spotify.com/artist/5GMBqjlvRxThEATjgXnqiB) | [\#MONDAY \(REMASTERD\)](https://open.spotify.com/album/37HAynAnUrDvqmSpDPnlD8) | 3:41 |
 | 8 | [Small Town Love](https://open.spotify.com/track/7n5x0KmDfJJ3BRVs0Dkk7S) | [J308](https://open.spotify.com/artist/4vgQ1thwWytHhdUL742Ul1), [HOW1E](https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB), [Datboirg](https://open.spotify.com/artist/45XiNDpEDyAPZCyZV52qxE) | [Pandemic of Love](https://open.spotify.com/album/3AJVUXMNF5pXoiSy03BNkf) | 2:48 |

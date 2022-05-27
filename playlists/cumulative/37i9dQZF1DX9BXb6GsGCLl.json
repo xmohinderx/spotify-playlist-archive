@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 188166,
       "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/5LKNumPGm1bEyVroDE4rcZ"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 228111,
       "name": "All the Time",
       "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 188946,
       "name": "betterman",
       "url": "https://open.spotify.com/track/2mvGl0m5Pg87PJzKzssPdi"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 170356,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/6KgZeNR9fab84NbLXa81cY"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 185660,
       "name": "Can't Be Happier",
       "url": "https://open.spotify.com/track/3Ckog39sKyHfXaIwNASV5J"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 160794,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 218800,
       "name": "Crocodile Tears (feat. Jens Hult)",
       "url": "https://open.spotify.com/track/2M7NfIlPjyGyepWVu3KVnY"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 174448,
       "name": "DANCE",
       "url": "https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 168118,
       "name": "Fake A Smile",
       "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
@@ -769,10 +769,32 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 189098,
       "name": "For a Little",
       "url": "https://open.spotify.com/track/1TjqfUwlkr3bIWoB2v7Yys"
+    },
+    {
+      "album": {
+        "name": "Forgive Me Friend",
+        "url": "https://open.spotify.com/album/4CIX8ETHN8XMY8t2UAOzlR"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        },
+        {
+          "name": "Swedish Jam Factory",
+          "url": "https://open.spotify.com/artist/599aGczoZFptUe5tbS43LT"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Forgive Me Friend",
+      "url": "https://open.spotify.com/track/6LS5QB8GW8raREqEEQPEMs"
     },
     {
       "album": {
@@ -919,7 +941,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 159753,
       "name": "Harder",
       "url": "https://open.spotify.com/track/2b1BwUGGyKq0CoJd8G1B6M"
@@ -1285,7 +1307,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 176521,
       "name": "If It Ain't Love",
       "url": "https://open.spotify.com/track/3e5MwU1kxkO7Td8GDCVY4F"
@@ -1737,7 +1759,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 166545,
       "name": "My Bed (feat. RBVLN)",
       "url": "https://open.spotify.com/track/75VwTAbn9byz537HEMlFvR"
@@ -1851,7 +1873,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 190680,
       "name": "New Wave",
       "url": "https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi"
@@ -1909,7 +1931,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 179831,
       "name": "OMG What's Happening",
       "url": "https://open.spotify.com/track/6T7NPX0BWpaapcp0Jn7OK9"
@@ -1935,7 +1957,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 164683,
       "name": "On Me (feat. Ava Max) - From 'SCOOB!' The Album",
       "url": "https://open.spotify.com/track/4ejNoyrhgjrioqJbgTNPu3"
@@ -1997,7 +2019,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 156987,
       "name": "Outta My Head",
       "url": "https://open.spotify.com/track/2IaMy0anocqVCj9vMe8elL"
@@ -2121,7 +2143,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 134584,
       "name": "Reaching Out",
       "url": "https://open.spotify.com/track/7KTcpv7wPJ4r6lR5SLzurh"
@@ -2173,7 +2195,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 198995,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
@@ -2261,7 +2283,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 215714,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/3PGYOWmCia5R4iLRnGHwyf"
@@ -2427,7 +2449,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 161773,
       "name": "Starfields",
       "url": "https://open.spotify.com/track/7sGUv00CPJhdgKp7TmjRdG"
@@ -2511,7 +2533,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 173122,
       "name": "Sun Seeker",
       "url": "https://open.spotify.com/track/1Xt1WkY9gAtUJl8AaFWKzd"
@@ -2599,7 +2621,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 213480,
       "name": "Take Your Love",
       "url": "https://open.spotify.com/track/1Cxlad9pX88iFic9SjlqBt"
@@ -2919,7 +2941,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 187510,
       "name": "Wildest Dream",
       "url": "https://open.spotify.com/track/0TgSQ4AWBShqMjYww6D8Yf"
@@ -2985,7 +3007,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 185277,
       "name": "X (with KAROL G)",
       "url": "https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY"

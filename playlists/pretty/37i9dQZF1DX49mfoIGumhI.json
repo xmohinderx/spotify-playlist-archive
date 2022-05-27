@@ -1,28 +1,60 @@
 {
   "description": "\u00a1Vive la salsa de los '80! Foto: Oscar D'Le\u00f3n",
-  "num_followers": 121218,
+  "num_followers": 121286,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzUyNzQ5OSwwMDAwMDAwMDE1YTFkNzhhNDNiZTJhM2Q4MTkwNTFiZTRlYWU1ZDQy",
+  "snapshot_id": "MTY1MzYxMzYzMCwwMDAwMDAwMGY1MzY2MzgyYzcyNjI5NWExMzgzZjdkODUzZGU0ZmJk",
   "tracks": [
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+        "name": "Atrevido Y Diferente",
+        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
       },
       "artists": [
         {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 311400,
-      "name": "Ven Dev\u00f3rame Otra Vez",
-      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
+      "duration_ms": 308040,
+      "name": "Que Locura Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "De Costa a Costa",
+        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
+      },
+      "artists": [
+        {
+          "name": "Mariano Civico",
+          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
+        }
+      ],
+      "duration_ms": 309760,
+      "name": "Te Voy a Hacer Feliz",
+      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Galy Galiano 30 A\u00f1os",
+        "url": "https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy"
+      },
+      "artists": [
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        }
+      ],
+      "duration_ms": 438026,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -59,130 +91,18 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Sed\u00faceme",
-        "url": "https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy"
-      },
-      "artists": [
-        {
-          "name": "Viti Ruiz",
-          "url": "https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT"
-        }
-      ],
-      "duration_ms": 321706,
-      "name": "Caricias Prohibidas",
-      "url": "https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Galy Galiano 30 A\u00f1os",
-        "url": "https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 438026,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Atrevido Y Diferente",
-        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "Que Locura Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "De Costa a Costa",
-        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
-      },
-      "artists": [
-        {
-          "name": "Mariano Civico",
-          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
-        }
-      ],
-      "duration_ms": 309760,
-      "name": "Te Voy a Hacer Feliz",
-      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Salsa Exitos",
-        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
-      },
-      "artists": [
-        {
-          "name": "Pedro Conga",
-          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
-        }
-      ],
-      "duration_ms": 311800,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Exitos Y Mas Exitos",
-        "url": "https://open.spotify.com/album/0ZiO84WuLFyD21W4lq62LO"
-      },
-      "artists": [
-        {
-          "name": "Nino Segarra",
-          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
-        }
-      ],
-      "duration_ms": 306960,
-      "name": "Porque Te Amo",
-      "url": "https://open.spotify.com/track/0DrNa6Ol75djsKlw67TABQ"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "La Formula Original",
-        "url": "https://open.spotify.com/album/2e7NbcGhCxwRthob6t21Zf"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 278909,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/4SFp4XMwAOCpUK9Vs4UmiH"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
         "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
         }
       ],
-      "duration_ms": 303306,
-      "name": "Tu Con El",
-      "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
+      "duration_ms": 311400,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -203,6 +123,102 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
+        "name": "Exitos Y Mas Exitos",
+        "url": "https://open.spotify.com/album/0ZiO84WuLFyD21W4lq62LO"
+      },
+      "artists": [
+        {
+          "name": "Nino Segarra",
+          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+        }
+      ],
+      "duration_ms": 306960,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/0DrNa6Ol75djsKlw67TABQ"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy"
+      },
+      "artists": [
+        {
+          "name": "Viti Ruiz",
+          "url": "https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT"
+        }
+      ],
+      "duration_ms": 321706,
+      "name": "Caricias Prohibidas",
+      "url": "https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Por el Buen Camino",
+        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Caretas",
+      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Voy Pa'Encima",
+        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Desn\u00fadate Mujer",
+      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Salsa Exitos",
+        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
+      },
+      "artists": [
+        {
+          "name": "Pedro Conga",
+          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
+        }
+      ],
+      "duration_ms": 311800,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "La Formula Original",
+        "url": "https://open.spotify.com/album/2e7NbcGhCxwRthob6t21Zf"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 278909,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/4SFp4XMwAOCpUK9Vs4UmiH"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/5eT06qIRKZhsrONksaiZrP"
       },
@@ -219,18 +235,34 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Al Duro",
-        "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
+        "name": "Atrevido Y Diferente",
+        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
       },
       "artists": [
         {
-          "name": "Hector Rey",
-          "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 277906,
-      "name": "Te Propongo",
-      "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
+      "duration_ms": 299960,
+      "name": "Tu Me Quemas",
+      "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 302866,
+      "name": "Hagamos Lo Que Diga El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -252,87 +284,7 @@
       "added_at": "2019-02-21 18:14:14",
       "album": {
         "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo"
-      },
-      "artists": [
-        {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
-        }
-      ],
-      "duration_ms": 308893,
-      "name": "Aqu\u00e9l Viejo Motel",
-      "url": "https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Atrevido Y Diferente",
-        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Tu Me Quemas",
-      "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Por el Buen Camino",
-        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
-      },
-      "artists": [
-        {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Caretas",
-      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 302866,
-      "name": "Hagamos Lo Que Diga El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "La Universidad de La Salsa",
-        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 301373,
-      "name": "Y No Hago Mas Na'",
-      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Voy Pa'Encima",
-        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
+        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
       },
       "artists": [
         {
@@ -340,73 +292,9 @@
           "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Desn\u00fadate Mujer",
-      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "SALSEANDO CON... UNO",
-        "url": "https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6"
-      },
-      "artists": [
-        {
-          "name": "Salseando",
-          "url": "https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0"
-        }
-      ],
-      "duration_ms": 309386,
-      "name": "Fantasia Herida",
-      "url": "https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Serie Millennium 21: Paquito Guzman",
-        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
-      },
-      "artists": [
-        {
-          "name": "Paquito Guzman",
-          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
-        }
-      ],
-      "duration_ms": 279106,
-      "name": "25 Rosas",
-      "url": "https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Salsa Para El Corazon",
-        "url": "https://open.spotify.com/album/4LlVpDEBv09t9imCZj0J2Z"
-      },
-      "artists": [
-        {
-          "name": "Roberto Lugo",
-          "url": "https://open.spotify.com/artist/07ORe1OIPJ0bjk4Fs9nQEK"
-        }
-      ],
-      "duration_ms": 317066,
-      "name": "Si Me Dejas Amarte",
-      "url": "https://open.spotify.com/track/0UoTsS0knLmMyjz06QLtao"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW"
-      },
-      "artists": [
-        {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "Y Nos Amamos",
-      "url": "https://open.spotify.com/track/0vAA0c6zf8pCWgmIj4Oggx"
+      "duration_ms": 303306,
+      "name": "Tu Con El",
+      "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -427,38 +315,6 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Salsa Exitos",
-        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
-      },
-      "artists": [
-        {
-          "name": "Pedro Conga",
-          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
-        }
-      ],
-      "duration_ms": 284240,
-      "name": "Me Niegas Tanto Amor",
-      "url": "https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Pura Salsa",
-        "url": "https://open.spotify.com/album/1wqORnosBdEaJRYvtheYk5"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "Yo Me Quedo",
-      "url": "https://open.spotify.com/track/6MWTAYls9b7YJm5wEkFgoS"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
         "name": "Viva Rosario!",
         "url": "https://open.spotify.com/album/2mQQtrwymV5FWe4J3krkds"
       },
@@ -475,34 +331,18 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Salsa Greatest Hits",
-        "url": "https://open.spotify.com/album/5cLsHBFKN5olOn3mQg7WU6"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo"
       },
       "artists": [
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
         }
       ],
-      "duration_ms": 280773,
-      "name": "Tu Me Quemas",
-      "url": "https://open.spotify.com/track/52V2RLfvgeXmbzXSk9blQU"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Colecci\u00f3n De Oro",
-        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 278986,
-      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
-      "url": "https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF"
+      "duration_ms": 308893,
+      "name": "Aqu\u00e9l Viejo Motel",
+      "url": "https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -527,34 +367,66 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Sexy Salsa",
-        "url": "https://open.spotify.com/album/5ggthPsE5zY3Jtv0ti5rdv"
+        "name": "Salsa Para El Corazon",
+        "url": "https://open.spotify.com/album/4LlVpDEBv09t9imCZj0J2Z"
       },
       "artists": [
         {
-          "name": "Mario Ortiz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2PdbGJ20Zy4ZxWMpRJarfO"
+          "name": "Roberto Lugo",
+          "url": "https://open.spotify.com/artist/07ORe1OIPJ0bjk4Fs9nQEK"
         }
       ],
-      "duration_ms": 300533,
-      "name": "A Fuego Lento",
-      "url": "https://open.spotify.com/track/1Srn5mpWz7eS0rdy0EtHxJ"
+      "duration_ms": 317066,
+      "name": "Si Me Dejas Amarte",
+      "url": "https://open.spotify.com/track/0UoTsS0knLmMyjz06QLtao"
     },
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW"
+        "name": "La Universidad de La Salsa",
+        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
       },
       "artists": [
         {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 317573,
-      "name": "Caradura",
-      "url": "https://open.spotify.com/track/1ngWLwko1GnliVV9kHj4CC"
+      "duration_ms": 301373,
+      "name": "Y No Hago Mas Na'",
+      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Colecci\u00f3n De Oro",
+        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 278986,
+      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
+      "url": "https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Salsa Exitos",
+        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
+      },
+      "artists": [
+        {
+          "name": "Pedro Conga",
+          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
+        }
+      ],
+      "duration_ms": 284240,
+      "name": "Me Niegas Tanto Amor",
+      "url": "https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -575,6 +447,70 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW"
+      },
+      "artists": [
+        {
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "Y Nos Amamos",
+      "url": "https://open.spotify.com/track/0vAA0c6zf8pCWgmIj4Oggx"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Al Duro",
+        "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
+      },
+      "artists": [
+        {
+          "name": "Hector Rey",
+          "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
+        }
+      ],
+      "duration_ms": 277906,
+      "name": "Te Propongo",
+      "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Sexy Salsa",
+        "url": "https://open.spotify.com/album/5ggthPsE5zY3Jtv0ti5rdv"
+      },
+      "artists": [
+        {
+          "name": "Mario Ortiz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2PdbGJ20Zy4ZxWMpRJarfO"
+        }
+      ],
+      "duration_ms": 300533,
+      "name": "A Fuego Lento",
+      "url": "https://open.spotify.com/track/1Srn5mpWz7eS0rdy0EtHxJ"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "SALSEANDO CON... UNO",
+        "url": "https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6"
+      },
+      "artists": [
+        {
+          "name": "Salseando",
+          "url": "https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0"
+        }
+      ],
+      "duration_ms": 309386,
+      "name": "Fantasia Herida",
+      "url": "https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
         "name": "Doble Energia",
         "url": "https://open.spotify.com/album/4wymvQk503zjH5BmANgCKO"
       },
@@ -591,18 +527,18 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "El Sonero Del Pueblo",
-        "url": "https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN"
+        "name": "Pura Salsa",
+        "url": "https://open.spotify.com/album/1wqORnosBdEaJRYvtheYk5"
       },
       "artists": [
         {
-          "name": "Marvin Santiago",
-          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 254360,
-      "name": "El Hombre Increible",
-      "url": "https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0"
+      "duration_ms": 301960,
+      "name": "Yo Me Quedo",
+      "url": "https://open.spotify.com/track/6MWTAYls9b7YJm5wEkFgoS"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -619,6 +555,106 @@
       "duration_ms": 230026,
       "name": "Desesperado",
       "url": "https://open.spotify.com/track/3dH8qYlVlwR9xFdeIEfNWp"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Salvaje! 88",
+        "url": "https://open.spotify.com/album/4PiTdf6je5V2m0yP1gxyX1"
+      },
+      "artists": [
+        {
+          "name": "Cano Estremera",
+          "url": "https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ"
+        }
+      ],
+      "duration_ms": 389840,
+      "name": "Amame en Camara Lenta",
+      "url": "https://open.spotify.com/track/0HVGzXLjVlLLxAmBx6yZFc"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Serie Millennium 21: Paquito Guzman",
+        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
+      },
+      "artists": [
+        {
+          "name": "Paquito Guzman",
+          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
+        }
+      ],
+      "duration_ms": 279106,
+      "name": "25 Rosas",
+      "url": "https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Salsa Greatest Hits",
+        "url": "https://open.spotify.com/album/5cLsHBFKN5olOn3mQg7WU6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 280773,
+      "name": "Tu Me Quemas",
+      "url": "https://open.spotify.com/track/52V2RLfvgeXmbzXSk9blQU"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW"
+      },
+      "artists": [
+        {
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+        }
+      ],
+      "duration_ms": 317573,
+      "name": "Caradura",
+      "url": "https://open.spotify.com/track/1ngWLwko1GnliVV9kHj4CC"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "30 Aniversario (Live)",
+        "url": "https://open.spotify.com/album/4FHR7P1D6uhf148S04Yt70"
+      },
+      "artists": [
+        {
+          "name": "Raphy Leavitt y Su Orquesta La Selecta",
+          "url": "https://open.spotify.com/artist/6NpIgOTS4wqVmCopi2A2AJ"
+        },
+        {
+          "name": "Sammy Marrero",
+          "url": "https://open.spotify.com/artist/3gNZBnULGKuvoTN0Vi1uJr"
+        }
+      ],
+      "duration_ms": 509080,
+      "name": "Somos El Son - Live",
+      "url": "https://open.spotify.com/track/1ymo6FkA5gdi9SXI5xBp5h"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "El Sonero Del Pueblo",
+        "url": "https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN"
+      },
+      "artists": [
+        {
+          "name": "Marvin Santiago",
+          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
+        }
+      ],
+      "duration_ms": 254360,
+      "name": "El Hombre Increible",
+      "url": "https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -659,38 +695,34 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "30 Aniversario (Live)",
-        "url": "https://open.spotify.com/album/4FHR7P1D6uhf148S04Yt70"
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/0viAbizcy2QtBHd5ubN1G7"
       },
       "artists": [
         {
-          "name": "Raphy Leavitt y Su Orquesta La Selecta",
-          "url": "https://open.spotify.com/artist/6NpIgOTS4wqVmCopi2A2AJ"
-        },
-        {
-          "name": "Sammy Marrero",
-          "url": "https://open.spotify.com/artist/3gNZBnULGKuvoTN0Vi1uJr"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 509080,
-      "name": "Somos El Son - Live",
-      "url": "https://open.spotify.com/track/1ymo6FkA5gdi9SXI5xBp5h"
+      "duration_ms": 273066,
+      "name": "Cantante de Cartel",
+      "url": "https://open.spotify.com/track/0RBwK6GDmq2CACUzlsBw7B"
     },
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+        "name": "Por el Buen Camino",
+        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
         }
       ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
+      "duration_ms": 336160,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -711,66 +743,18 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/0viAbizcy2QtBHd5ubN1G7"
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 273066,
-      "name": "Cantante de Cartel",
-      "url": "https://open.spotify.com/track/0RBwK6GDmq2CACUzlsBw7B"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Salvaje! 88",
-        "url": "https://open.spotify.com/album/4PiTdf6je5V2m0yP1gxyX1"
-      },
-      "artists": [
-        {
-          "name": "Cano Estremera",
-          "url": "https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ"
-        }
-      ],
-      "duration_ms": 389840,
-      "name": "Amame en Camara Lenta",
-      "url": "https://open.spotify.com/track/0HVGzXLjVlLLxAmBx6yZFc"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/0l7HcYYf1mSHxuhmlG2Kgc"
-      },
-      "artists": [
-        {
-          "name": "Marvin Santiago",
-          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
-        }
-      ],
-      "duration_ms": 331346,
-      "name": "Vasos De Colores",
-      "url": "https://open.spotify.com/track/0vnVtuq2CsUkH8aa3101y7"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Por el Buen Camino",
-        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
-      },
-      "artists": [
-        {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
-        }
-      ],
-      "duration_ms": 336160,
-      "name": "Aventura",
-      "url": "https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS"
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -803,6 +787,22 @@
       "duration_ms": 251585,
       "name": "Dicelo a El",
       "url": "https://open.spotify.com/track/7I7LoiAzaDTCFN3XNnIboG"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/0l7HcYYf1mSHxuhmlG2Kgc"
+      },
+      "artists": [
+        {
+          "name": "Marvin Santiago",
+          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
+        }
+      ],
+      "duration_ms": 331346,
+      "name": "Vasos De Colores",
+      "url": "https://open.spotify.com/track/0vnVtuq2CsUkH8aa3101y7"
     },
     {
       "added_at": "2019-02-21 18:14:14",

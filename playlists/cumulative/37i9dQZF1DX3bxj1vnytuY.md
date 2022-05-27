@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-90 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+93 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aslaf](https://open.spotify.com/track/29kOMrezSzRfTQqj4QhGsk) | [Homeboyz](https://open.spotify.com/artist/6HJOiEmoNQGDSexCsQQooX), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Ifarada](https://open.spotify.com/album/6HAEQocvyO7btHXW1cfBCf) | 6:24 | 2022-04-13 |  |
 | [Badawi](https://open.spotify.com/track/6E7JarTA0Y68vPlLg36DJ8) | [Gobi Desert Collective](https://open.spotify.com/artist/2w0J6UmL0Unhj5yqE7rlfp), [Jerry Spoon](https://open.spotify.com/artist/0m6eNLtH4LgmXWq9Sz5d0j) | [Badawi](https://open.spotify.com/album/6S5hgVcimdXh5Zm9VTtHxk) | 5:12 | 2022-04-13 |  |
 | [Bahja](https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [Bahja](https://open.spotify.com/album/5YfzAebZkmbl3DOrUjshDd) | 4:17 | 2022-04-13 |  |
+| [Basari \- Amine K Remix](https://open.spotify.com/track/6m8jwfpf7ge0Dddsjp1pvS) | [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Basari \(Amine K Remix\)](https://open.spotify.com/album/1B40rgdqojSsyJqIiU4UHY) | 6:08 | 2022-05-26 |  |
 | [Bedouin Joy](https://open.spotify.com/track/2OKfAtj6fTgJRghXn2pxm0) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii) | [Bedouin Joy](https://open.spotify.com/album/0aQ18bNVPwUapOiUIG3i4W) | 6:13 | 2022-04-13 |  |
 | [Birdcall](https://open.spotify.com/track/46wxNcRKABQBQwVQrgkl8l) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Birdcall](https://open.spotify.com/album/3mtQOIxTbI56OPW3iIstwa) | 3:49 | 2022-04-13 |  |
 | [Celebration Santoor](https://open.spotify.com/track/1UjdeuHHj8GKfHf29gaHfV) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Namito](https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ), [Bahramji](https://open.spotify.com/artist/1TRLkR7OoXzEwUckYwHt5B) | [Buddy System](https://open.spotify.com/album/5lVYQO63PD8UsrlzTY4hoD) | 7:16 | 2022-04-13 |  |
@@ -34,6 +35,7 @@
 | [Exile](https://open.spotify.com/track/4q3OgYOOdQ4Kad3Hj7IwsR) | [Stur und Dumm](https://open.spotify.com/artist/22my4hx9iy9VRvuFSLB08d) | [Exile](https://open.spotify.com/album/6f58FwWB5OonKwyXpEfUEt) | 4:56 | 2022-04-13 |  |
 | [Exoplanet \- Original Mix](https://open.spotify.com/track/69RAvgFqYzlDJIofYpnCxx) | [Alexey Union](https://open.spotify.com/artist/4bzppvW4geKqxLC5VYJn2G) | [Exoplanet](https://open.spotify.com/album/0docPqSZtIMdeG1OIVLETs) | 4:39 | 2022-04-13 |  |
 | [Faiyum \- Zuma Dionys Remix](https://open.spotify.com/track/59klIKyEUOS7DwHzGkiGuz) | [Solidmind](https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF), [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd) | [Faiyum \(Incl\. Zuma Dionys Remix\)](https://open.spotify.com/album/2bAHNvhIuJjrgkZfE7dcI6) | 7:06 | 2022-04-13 |  |
+| [Farsi](https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Farsi](https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU) | 8:41 | 2022-05-26 |  |
 | [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/7xrUhbMPCC6yBiok3Pb1Ej) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/7slMAeG3JZAQKYO16H6ViD) | 4:44 | 2022-04-13 |  |
 | [Flow \- Sunset Mix](https://open.spotify.com/track/1QpU3A0dkKVJhI3o6xYBok) | [DP\-6](https://open.spotify.com/artist/3ydKQmXGxjmM2IBOYCzYLJ) | [Flow \(Sunset Mix\)](https://open.spotify.com/album/3pel2JNZHZVeaGlqUBfKTk) | 6:51 | 2022-04-13 |  |
 | [Garmi](https://open.spotify.com/track/6cCH4wUwLbCkCwYqQG2uPe) | [MI.LA](https://open.spotify.com/artist/67Nx0BYJLxmenQP6Azr34H) | [Garmi](https://open.spotify.com/album/4ShGe12qbIrgWg62GwZl7i) | 6:26 | 2022-04-13 |  |
@@ -47,6 +49,7 @@
 | [Ithemba](https://open.spotify.com/track/1c1uaCg8VwmKpUOTWHmlRw) | [Kapibara](https://open.spotify.com/artist/4tWG36Cg7E242I26JiklSp), [Oluhle](https://open.spotify.com/artist/3hsqJzLpc4GRAAqhnebDaT), [Dorian Craft](https://open.spotify.com/artist/6Le8YP9kxvtYRKGZNDR4Ip) | [Ithemba](https://open.spotify.com/album/6ilSdXr4K3a3YrLhT3kSFR) | 3:46 | 2022-04-13 |  |
 | [Jordan](https://open.spotify.com/track/4bIXqc2fGtTHMq4aNFVjBC) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Jordan](https://open.spotify.com/album/73IkL6bBQTyRj2j26Ksry5) | 6:48 | 2022-05-19 |  |
 | [Kaneba](https://open.spotify.com/track/01dnvO2H3SxeUxFgUtY7sM) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [mo'vibes \(Various Artists\)](https://open.spotify.com/album/41wFtS7hhKWuI5U3GQdvs3) | 7:16 | 2022-04-13 |  |
+| [Kibo \- Mr ID Remix](https://open.spotify.com/track/0ZHX59bDXNHNEQucqqLV2e) | [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [Mehdi Nassouli](https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [Kibo \(Mr ID Remix\)](https://open.spotify.com/album/0OblJgGu3q3w6wZZgyuQQX) | 6:41 | 2022-05-26 |  |
 | [Kinshuka](https://open.spotify.com/track/6M4OAI2jfRNXxp2SXPZZs7) | [Toricos](https://open.spotify.com/artist/7G5OmcnjTOcCvqYcTq44Un) | [Kinshuka](https://open.spotify.com/album/6kGGObRVrrdM5zxs8jNvhg) | 6:25 | 2022-04-13 |  |
 | [Kondelelani](https://open.spotify.com/track/1qsflyGrjihmYDwEaTcdKz) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Kondelelani](https://open.spotify.com/album/0NckaNjRe6HWOLMUnW3GxZ) | 7:08 | 2022-04-13 |  |
 | [Kshama](https://open.spotify.com/track/41DoALg5bbmd2wNXNNyWsB) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Kshama](https://open.spotify.com/album/6uZ3d8tWQJQgmaTgoxdHy5) | 5:20 | 2022-04-13 |  |

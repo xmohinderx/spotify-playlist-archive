@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Jason Derulo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,440,780 likes - 98 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,442,035 likes - 98 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

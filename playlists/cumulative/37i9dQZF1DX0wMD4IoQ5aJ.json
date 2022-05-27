@@ -350,6 +350,24 @@
     },
     {
       "album": {
+        "name": "Blip-A-Thon",
+        "url": "https://open.spotify.com/album/44OHKDhuwWKyvzeQfS9t0f"
+      },
+      "artists": [
+        {
+          "name": "Jakkalz",
+          "url": "https://open.spotify.com/artist/1WoIRFMlTR84QzDZE8kZaG"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101166,
+      "name": "Blip-A-Thon",
+      "url": "https://open.spotify.com/track/40RUbTmKa8OCmtXai1KN2l"
+    },
+    {
+      "album": {
         "name": "blu sparks",
         "url": "https://open.spotify.com/album/3G91aiN6UnIHlSKU7Co8ij"
       },
@@ -638,6 +656,24 @@
     },
     {
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/1H4cEBIvngQaCi2ZNJoYd6"
+      },
+      "artists": [
+        {
+          "name": "Dan Awy",
+          "url": "https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179478,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ"
+    },
+    {
+      "album": {
         "name": "Clearance",
         "url": "https://open.spotify.com/album/2lr8LMPGi0bBjonBfjYbfW"
       },
@@ -847,7 +883,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 171652,
       "name": "Delta-Omicron",
       "url": "https://open.spotify.com/track/4y3vErFuRlu6i2SyO0nkD1"
@@ -1189,7 +1225,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 117966,
       "name": "Forest Run",
       "url": "https://open.spotify.com/track/7IfFGjE55MtQejeXNPSlpD"
@@ -3015,7 +3051,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 221744,
       "name": "Wanderer",
       "url": "https://open.spotify.com/track/094OMEwMng6XcwsSMFUKWi"

@@ -680,6 +680,24 @@
     },
     {
       "album": {
+        "name": "Body Breaker",
+        "url": "https://open.spotify.com/album/3iuQ6wqOmB3c4Bm9We7hRS"
+      },
+      "artists": [
+        {
+          "name": "JAWNS",
+          "url": "https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Body Breaker",
+      "url": "https://open.spotify.com/track/6ViOxqq7aLe3lnfVTXH8LI"
+    },
+    {
+      "album": {
         "name": "Born To Lose",
         "url": "https://open.spotify.com/album/6rHiaIkOzbiqojLjbr7TxE"
       },
@@ -4683,7 +4701,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 231100,
       "name": "Rip My Heart Out",
       "url": "https://open.spotify.com/track/12EYzHLOtNpbKP0rqEtscZ"

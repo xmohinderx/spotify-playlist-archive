@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Feel-good Afropop from Europe and Africa. Cover: Tayc",
+  "description": "Feel-good Afropop from Europe and Africa. Cover: Kizz Daniel",
   "name": "Afro Hits",
   "published_playlist_ids": [
     "1dEBeASsRuQMcB6nFV6Y3W"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 157826,
       "name": "100",
       "url": "https://open.spotify.com/track/5fo6cxM7tlDG0e0PO3OpkD"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 189800,
       "name": "B. D\u2019OR (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
@@ -362,6 +362,28 @@
     },
     {
       "album": {
+        "name": "Bibi",
+        "url": "https://open.spotify.com/album/3HRUzoUsS2XX9XsgKmgnmS"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "Negrito",
+          "url": "https://open.spotify.com/artist/1i8gGjDzv2FNoy6dHcr25K"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180053,
+      "name": "Bibi",
+      "url": "https://open.spotify.com/track/2vF0QM5bAnT9C1tGYG1Icr"
+    },
+    {
+      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -399,6 +421,28 @@
       "duration_ms": 221059,
       "name": "Bluffin",
       "url": "https://open.spotify.com/track/1nEaAtXcpSCc2iZdXm37vH"
+    },
+    {
+      "album": {
+        "name": "Bluffin, Pt. 2",
+        "url": "https://open.spotify.com/album/1s55kRm1iHa6dmZeL68wAq"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182073,
+      "name": "Bluffin, Pt. 2",
+      "url": "https://open.spotify.com/track/6RFdEEXzTg1oEP8QAsIz6i"
     },
     {
       "album": {
@@ -874,6 +918,46 @@
     },
     {
       "album": {
+        "name": "Different (With Majid Jordan)",
+        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Different (With Majid Jordan)",
+      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
+    },
+    {
+      "album": {
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220525,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6"
+    },
+    {
+      "album": {
         "name": "Dis moi comment.",
         "url": "https://open.spotify.com/album/0BN0n7HO14VvZqwGGkxPyD"
       },
@@ -889,6 +973,24 @@
       "duration_ms": 211513,
       "name": "Dis moi comment.",
       "url": "https://open.spotify.com/track/5ParQEysjL0XuA8a4h32KU"
+    },
+    {
+      "album": {
+        "name": "Dis-moi oui",
+        "url": "https://open.spotify.com/album/2Pq8jqWjWB4VwMgcFGfjQp"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00efssa",
+          "url": "https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207668,
+      "name": "Dis-moi oui",
+      "url": "https://open.spotify.com/track/2rD8n0QH7ugRyFPQm9hUrD"
     },
     {
       "album": {
@@ -1413,7 +1515,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 193515,
       "name": "In A Loop",
       "url": "https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2"
@@ -1669,6 +1771,24 @@
       "duration_ms": 135480,
       "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
       "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
+    },
+    {
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125030,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj"
     },
     {
       "album": {
@@ -2179,7 +2299,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 227724,
       "name": "Petite Soeur",
       "url": "https://open.spotify.com/track/1evWEsU0PZyrdjdvz7VS6s"
@@ -2483,7 +2603,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 175240,
       "name": "Suis-moi (feat. Ninho)",
       "url": "https://open.spotify.com/track/2JFBYWxcJlt1PubMJYVjc0"
@@ -2857,7 +2977,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 154772,
       "name": "Vitamine - (Remix) feat. Ya Levis",
       "url": "https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb"

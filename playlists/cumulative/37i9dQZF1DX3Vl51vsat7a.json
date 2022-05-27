@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: BRUCKNER",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Novaa",
   "name": "RADAR GSA",
   "published_playlist_ids": [
     "7r16QFa0iXKPXTVCB31T4J"
@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "RISE OF THE ROMANIAC",
+        "url": "https://open.spotify.com/album/4fXKTHlYNHgc6RLGe4cSrg"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132214,
+      "name": "Backyard Body",
+      "url": "https://open.spotify.com/track/1LdlloAKsamceZO7qDSfQS"
+    },
+    {
+      "album": {
         "name": "besonders",
         "url": "https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg"
       },
@@ -203,6 +221,24 @@
       "duration_ms": 180080,
       "name": "besonders",
       "url": "https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU"
+    },
+    {
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/5nOEZixldUUDw7v75j4PiE"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358346,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/6VztmbKdEMOv2AtFGqHtXe"
     },
     {
       "album": {
@@ -413,7 +449,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 162335,
       "name": "Don't U Dare",
       "url": "https://open.spotify.com/track/3CQuzM93RAg867gQ0mVAw7"
@@ -1369,7 +1405,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 210839,
       "name": "School Friends",
       "url": "https://open.spotify.com/track/5QNmYUtAV91xj3LHePazkl"
@@ -1405,7 +1441,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 175320,
       "name": "Sicher",
       "url": "https://open.spotify.com/track/6qEykl5MTiALJndjT2lrPM"
@@ -1706,6 +1742,24 @@
     },
     {
       "album": {
+        "name": "She's A Star",
+        "url": "https://open.spotify.com/album/3YDJfL56ce6fcxL4tWxvg6"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179758,
+      "name": "Vitamins",
+      "url": "https://open.spotify.com/track/5aLY8E1e60iaI4gVCCD7OK"
+    },
+    {
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/2C6u68wrYE0McXsrMRPogc"
       },
@@ -1757,7 +1811,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 141153,
       "name": "Wart mal",
       "url": "https://open.spotify.com/track/4J8FybA4DlfN5HAuC6VnQE"
@@ -1833,6 +1887,24 @@
       "duration_ms": 217351,
       "name": "Wer wir sind",
       "url": "https://open.spotify.com/track/4SEImIUylCy9YVNwREfXkL"
+    },
+    {
+      "album": {
+        "name": "WER, WENN NICHT WIR?",
+        "url": "https://open.spotify.com/album/4fBtvg2ixMyybD5YB33gn5"
+      },
+      "artists": [
+        {
+          "name": "Ansu",
+          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125506,
+      "name": "WER, WENN NICHT WIR?",
+      "url": "https://open.spotify.com/track/5v0oqncTY2wOweL6unFnbQ"
     },
     {
       "album": {

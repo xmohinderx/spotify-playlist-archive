@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/00TkOdiVZHMhk7HCPkTVJI"
+      },
+      "artists": [
+        {
+          "name": "Arlos",
+          "url": "https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/0FQhhFUY0imS9POfz4yxuF"
+    },
+    {
+      "album": {
         "name": "Amont",
         "url": "https://open.spotify.com/album/3qsbn82SoavBcdk4BBbrQV"
       },
@@ -2483,7 +2501,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 215600,
       "name": "Lilly Pad",
       "url": "https://open.spotify.com/track/40aLPi04VSPDhGVdg7n81t"
@@ -2674,6 +2692,24 @@
     },
     {
       "album": {
+        "name": "Marbella Sunrise",
+        "url": "https://open.spotify.com/album/17zuFbT22Y1m6irvfAzdo4"
+      },
+      "artists": [
+        {
+          "name": "Marga Sol",
+          "url": "https://open.spotify.com/artist/4y7BFiVRM23Sw8fUPcfXRI"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244337,
+      "name": "Marbella Sunrise",
+      "url": "https://open.spotify.com/track/18lg2EZ2s3Ix6Xaiy26Doi"
+    },
+    {
+      "album": {
         "name": "Marcus in Toyland",
         "url": "https://open.spotify.com/album/2erTiHvq1ndlXSyJGmxlB5"
       },
@@ -2761,6 +2797,24 @@
       "duration_ms": 127714,
       "name": "Mellow Workday",
       "url": "https://open.spotify.com/track/0ykidTEReV77x9cUYoEUEt"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/55Ctbx0cQWtzd0vflIP1al"
+      },
+      "artists": [
+        {
+          "name": "Robomani",
+          "url": "https://open.spotify.com/artist/2iXcdZRffRnlBjzqcWEXKA"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138882,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/3CoaPoaxpeQbBg5xFMLvIt"
     },
     {
       "album": {
@@ -3766,6 +3820,24 @@
     },
     {
       "album": {
+        "name": "Frodas",
+        "url": "https://open.spotify.com/album/6YywwAQYRqLBMuQTchAeZc"
+      },
+      "artists": [
+        {
+          "name": "Guustavv",
+          "url": "https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Roots of Ash",
+      "url": "https://open.spotify.com/track/0ttFHp02ah1o6ybvJss85R"
+    },
+    {
+      "album": {
         "name": "Rosenwinkle",
         "url": "https://open.spotify.com/album/5Rhy8gzvspiTr2TuNvXPUI"
       },
@@ -3925,6 +3997,42 @@
       "duration_ms": 243220,
       "name": "Seclusions",
       "url": "https://open.spotify.com/track/6ybYRoTGj2rl2mOzbe3iaz"
+    },
+    {
+      "album": {
+        "name": "Sensei",
+        "url": "https://open.spotify.com/album/76s8dxo8JFBoyLmVOu6esq"
+      },
+      "artists": [
+        {
+          "name": "Soul Dojo",
+          "url": "https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113250,
+      "name": "Sensei",
+      "url": "https://open.spotify.com/track/5sfdLatAlWGHBI1yqOjmtR"
+    },
+    {
+      "album": {
+        "name": "The Cat's Meow",
+        "url": "https://open.spotify.com/album/6S5Saal4XqDxBcTXQd1EoT"
+      },
+      "artists": [
+        {
+          "name": "Crate Diggers",
+          "url": "https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83200,
+      "name": "Serene Flame",
+      "url": "https://open.spotify.com/track/7afR9AuuXPIG2UPpyV1S9j"
     },
     {
       "album": {
@@ -4393,6 +4501,24 @@
       "duration_ms": 212647,
       "name": "Sun Dust",
       "url": "https://open.spotify.com/track/6S62v3zd7j4AA9MwyGdJlS"
+    },
+    {
+      "album": {
+        "name": "Sun o'clock",
+        "url": "https://open.spotify.com/album/4AxgTe4ALkZ41Eu0DKI2H9"
+      },
+      "artists": [
+        {
+          "name": "Idris Kelly",
+          "url": "https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "Sun o'clock",
+      "url": "https://open.spotify.com/track/3mLe9QMhMCcPvlkJgQbEi8"
     },
     {
       "album": {

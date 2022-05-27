@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Listen to Greek women at full volume\. Cover: Natasa Theodoridou
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,771 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,777 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 41 | [Tarifas](https://open.spotify.com/track/4fdB71mBu6UB79zN7CImN3) | [Eleonora Zouganeli](https://open.spotify.com/artist/0vLoXqcGEpgOgmCYshRsKt) | [Ti Na Leme Tora](https://open.spotify.com/album/4sC21vNho56AL9acrSHuES) | 3:07 |
 | 42 | [I Fadasia](https://open.spotify.com/track/2RZmlEWrDm5vjaDDko6uon) | [Eleni Tsaligopoulou](https://open.spotify.com/artist/3Gk7fuRSYuQWqXGhRGPsG4) | [I Fadasia](https://open.spotify.com/album/2uPyBJ3px9JTnVujWUCXPp) | 4:34 |
 | 43 | [Gia Na Gelao](https://open.spotify.com/track/2UcqCJGicZTCxJrlklwE5r) | [Mirela Pachou](https://open.spotify.com/artist/3jO73k7LFPB7hm2KtYRh2M), [Giannis Christodoulopoulos](https://open.spotify.com/artist/1xtAhHlKUzJoWmtdWVKw4P) | [Gia Na Gelao](https://open.spotify.com/album/6zvrNti88xM3m66kHzkCzc) | 3:20 |
-| 44 | [YIATI POULI M' \(DEN KELAIDIS\)](https://open.spotify.com/track/6kSweWKTZOF2oorQ7V5jNX) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [YIATI POULI M' \(DEN KELAIDIS\)](https://open.spotify.com/album/6oomBcZTbG7cYEl66oY1Gq) | 3:13 |
+| 44 | [YIATI POULI M' \(DEN KELAIDIS\)](https://open.spotify.com/track/6kSweWKTZOF2oorQ7V5jNX) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [YIATI POULI M' \(DEN KELAIDIS\)](https://open.spotify.com/album/6oomBcZTbG7cYEl66oY1Gq) | 3:12 |
 | 45 | [Muse](https://open.spotify.com/track/0JjPcjJywGHSzn5IMoYClJ) | [Katerine Duska](https://open.spotify.com/artist/40tNdcLMkz7RoHcykLSNwB) | [Muse](https://open.spotify.com/album/59npfFu8RSyFSWMyQNXmeP) | 3:36 |
 | 46 | [Ne Men Alla Den](https://open.spotify.com/track/5sUR273OqDdFuzaz1EoX6U) | [Nalyssa Green](https://open.spotify.com/artist/68PM4Vpd3dwIQfEd2z1mZY) | [Taxidi Astriko](https://open.spotify.com/album/2hIcrz91mewNvDufxl5y6r) | 3:17 |
 | 47 | [Alright](https://open.spotify.com/track/5QLUskZ5ufEH6HTcnHgOvB) | [Xenia Ghali](https://open.spotify.com/artist/4iw0Pf0ZeTekpc6yqlGKYE) | [Alright](https://open.spotify.com/album/3e64SvlCfAsnTL4dVz2T7C) | 2:54 |

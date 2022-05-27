@@ -912,6 +912,28 @@
     },
     {
       "album": {
+        "name": "La La",
+        "url": "https://open.spotify.com/album/3NgCYoF4td4Fj0pfpYweBg"
+      },
+      "artists": [
+        {
+          "name": "Mimi Mars",
+          "url": "https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "La La",
+      "url": "https://open.spotify.com/track/7506rdh9Ay8HeCI7ow04EZ"
+    },
+    {
+      "album": {
         "name": "Leo Leo",
         "url": "https://open.spotify.com/album/5TmDMmHEW9pNDthQL6a13V"
       },
@@ -1813,7 +1835,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 184945,
       "name": "Sina Neno",
       "url": "https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv"
@@ -1871,7 +1893,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 180775,
       "name": "Sukari",
       "url": "https://open.spotify.com/track/0b6rUnRfjDuv60k5oWrCKa"
@@ -2127,6 +2149,28 @@
       "duration_ms": 244908,
       "name": "Utu",
       "url": "https://open.spotify.com/track/6mzsCUtAl9yXzRQTbToJ57"
+    },
+    {
+      "album": {
+        "name": "Vamonos",
+        "url": "https://open.spotify.com/album/35Yss18s0YFfMg8lHoX2JY"
+      },
+      "artists": [
+        {
+          "name": "Juan Dani\u00e9l",
+          "url": "https://open.spotify.com/artist/5WW37hDz5ZbsDIEPfuKvLh"
+        },
+        {
+          "name": "Ben Pol",
+          "url": "https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152119,
+      "name": "Vamonos",
+      "url": "https://open.spotify.com/track/6BypdbiJye7MsQOa8kUheD"
     },
     {
       "album": {

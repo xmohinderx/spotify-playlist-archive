@@ -506,6 +506,28 @@
     },
     {
       "album": {
+        "name": "Different (With Majid Jordan)",
+        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Different (With Majid Jordan)",
+      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
+    },
+    {
+      "album": {
         "name": "Dis moi comment.",
         "url": "https://open.spotify.com/album/4VVmCuhuyfWg1wxSgbUzXc"
       },
@@ -921,7 +943,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 280000,
       "name": "I can't believe I get to call you mine",
       "url": "https://open.spotify.com/track/675I0oCNoCDWK9uNojeIfl"
@@ -1191,6 +1213,28 @@
       "duration_ms": 227868,
       "name": "next2me",
       "url": "https://open.spotify.com/track/47lR4Uq1UAMHJiKPG5IhU6"
+    },
+    {
+      "album": {
+        "name": "MY WAY:VOLUME II",
+        "url": "https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK"
+      },
+      "artists": [
+        {
+          "name": "Wendy Kay",
+          "url": "https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6"
+        },
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Niambie",
+      "url": "https://open.spotify.com/track/12QXwJTH3XlsNXG7nKbxil"
     },
     {
       "album": {

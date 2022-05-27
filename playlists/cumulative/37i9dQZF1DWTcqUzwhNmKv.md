@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Arch Enemy on top of the biggest Metal playlist!
+> Miss May I on top of the biggest Metal playlist!
 
-171 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
+174 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bastards](https://open.spotify.com/track/06LJEYjJYDofVju6dwfp7t) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine](https://open.spotify.com/album/6QoBe740np3sgfdp7FX12k) | 5:25 | 2021-12-20 | 2022-04-08 |
 | [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 | 2021-12-20 | 2022-01-07 |
 | [Better Than You](https://open.spotify.com/track/5NFXZaUersjjJuIqPbOlhF) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Better Than You](https://open.spotify.com/album/3iCN4f0sMLQ9TF7nYm4NAx) | 3:32 | 2022-04-22 |  |
+| [Bleed Together](https://open.spotify.com/track/42AuCKjh0QFS4dZQv8WURV) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Bleed Together](https://open.spotify.com/album/5xQY16nG5c9tM3xXGgpg4p) | 4:30 | 2022-05-27 |  |
 | [Break The Habit](https://open.spotify.com/track/5jl8iC4QC8GFFUR0Uae1tN) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [I Run With Wolves](https://open.spotify.com/album/68FghP1QWbbmmmVcIKYKNM) | 3:01 | 2022-05-06 |  |
 | [Break The Silence](https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Break The Silence](https://open.spotify.com/album/2YefdDltPsBbG4eHT0jVnv) | 3:27 | 2022-02-11 | 2022-05-06 |
 | [Broken Cog](https://open.spotify.com/track/7D5Z6xZwWIG4trvfaMa0vn) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Immutable](https://open.spotify.com/album/1AS4JyVjjOgILIZ7TyhOKZ) | 5:35 | 2022-04-01 |  |
@@ -69,6 +70,7 @@
 | [Hallelujah \[Feat\. Charlotte Sands\] \- Charlotte Sands Version](https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Hallelujah \[Feat\. Charlotte Sands\] \(Charlotte Sands Version\)](https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z) | 2:56 | 2022-02-11 | 2022-05-20 |
 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 | 2022-02-04 | 2022-05-20 |
 | [Hardcore](https://open.spotify.com/track/1kKzLv3w7I5NXzEtWkSzi4) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Dark Connection](https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux) | 3:34 | 2021-12-20 | 2022-03-11 |
+| [Heart To Stone](https://open.spotify.com/track/1dlmBnF9hFmhhsCKzZWyrT) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB) | [Heart To Stone](https://open.spotify.com/album/13ixlRB348zXf1RObOOZN7) | 3:16 | 2022-05-27 |  |
 | [Heathens](https://open.spotify.com/track/42PD5CnANDCJkcLPPuH4Zd) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heathens](https://open.spotify.com/album/3tjvaW6nGu53X7iwbIUNqk) | 3:30 | 2022-05-20 |  |
 | [Hostage](https://open.spotify.com/track/52OSF0Q6raA5sTdU5d0eJh) | [No Resolve](https://open.spotify.com/artist/7oAoGc2k7201dlU7mkhlDp) | [Hostage](https://open.spotify.com/album/4nElAmQfKidEz20r1DFuRT) | 3:23 | 2021-12-20 | 2022-03-11 |
 | [House of Mirrors](https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [House of Mirrors](https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195) | 3:40 | 2021-12-20 | 2022-02-04 |
@@ -90,7 +92,7 @@
 | [Lights & Fire](https://open.spotify.com/track/1SlOs4l9WvJ4bITuyZXHqc) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lights & Fire](https://open.spotify.com/album/2M1MruXHvS7YndZJ2jgDUD) | 3:30 | 2022-01-21 | 2022-02-11 |
 | [Like A Villain](https://open.spotify.com/track/2yAfzkn1JFekLsqVDDualq) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Like A Villain](https://open.spotify.com/album/0MarSikaOlnWAKSfpDaC1g) | 3:30 | 2022-01-21 |  |
 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 | 2021-12-20 | 2022-05-06 |
-| [Loveletting \- 7" Cut](https://open.spotify.com/track/0bJPjlcegkXGSnijanvwVD) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Loveletting \(7" Cut\)](https://open.spotify.com/album/2zhssj1XVMVEpStvHov6sU) | 3:55 | 2022-04-08 |  |
+| [Loveletting \- 7" Cut](https://open.spotify.com/track/0bJPjlcegkXGSnijanvwVD) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Loveletting \(7" Cut\)](https://open.spotify.com/album/2zhssj1XVMVEpStvHov6sU) | 3:55 | 2022-04-08 | 2022-05-27 |
 | [Lowborn](https://open.spotify.com/track/7nGc6tq27wHwpF7iFdUaWr) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lowborn](https://open.spotify.com/album/2VUudJnXj6o9SR1m0OlcXL) | 4:25 | 2021-12-20 | 2022-01-21 |
 | [Make Believe](https://open.spotify.com/track/5NLi9YVXt9pMAXS068FY9o) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Make Believe](https://open.spotify.com/album/1GJWSnfxaODYIrS6uoqiB6) | 3:49 | 2022-02-24 | 2022-04-01 |
 | [March of the Insane](https://open.spotify.com/track/5Jn0Kw1DtNLFWB8z1vrIwP) | [Dream Widow](https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe) | [March of the Insane](https://open.spotify.com/album/2JGSRUldESbdFxQIMw2OQT) | 3:18 | 2022-02-24 | 2022-03-04 |
@@ -104,7 +106,7 @@
 | [NO HELP](https://open.spotify.com/track/2yxjtF4f1Yw2GpKELclHw3) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [NO HELP](https://open.spotify.com/album/65SYISbipzVUmmoeAzsYtP) | 2:53 | 2022-04-15 |  |
 | [No Way Back Just Through](https://open.spotify.com/track/1JQaVRvmmInKm7WG0H6FDK) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 3:53 | 2021-12-20 | 2022-01-07 |
 | [Numb](https://open.spotify.com/track/4xOZuV9hKj0uaRgegNaE5F) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Numb](https://open.spotify.com/album/0vf69q9LJRJ6MK8OTJPIbZ) | 3:41 | 2021-12-20 | 2022-01-14 |
-| [Omen](https://open.spotify.com/track/2zCwpuQuSzm2Mk7h7JYNtS) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Omen](https://open.spotify.com/album/18NPrDrGXVfQDHOXUTUxSA) | 3:53 | 2022-04-08 |  |
+| [Omen](https://open.spotify.com/track/2zCwpuQuSzm2Mk7h7JYNtS) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Omen](https://open.spotify.com/album/18NPrDrGXVfQDHOXUTUxSA) | 3:53 | 2022-04-08 | 2022-05-27 |
 | [On The Dark Waters](https://open.spotify.com/track/2ieTWHUMtiLaUhA0G9uTal) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [On The Dark Waters](https://open.spotify.com/album/6ihUByrh3f1BUgOKWbe1NN) | 4:47 | 2022-01-28 | 2022-04-22 |
 | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/track/4AsbaXQRctKkAJ8IWGAarU) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [AJ Channer](https://open.spotify.com/artist/0mTRdMo44irGKR85VtzGKd) | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/album/1xMtCT2yCsr6GtSTOGh6iE) | 3:02 | 2022-04-01 | 2022-04-29 |
 | [Orphan](https://open.spotify.com/track/0P9Qos8So9CvtFPjgQq3Ns) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [Orphan](https://open.spotify.com/album/1PVryA7iRIu5MlIinvQv5G) | 4:40 | 2021-12-20 | 2022-01-21 |
@@ -135,6 +137,7 @@
 | [Stand Down](https://open.spotify.com/track/2ugULOhXNVpIvksyagm9Qr) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Stand Down](https://open.spotify.com/album/3YmIQSVKDgvDkDAdU03vEs) | 4:06 | 2022-04-15 | 2022-05-13 |
 | [Standing My Ground](https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Standing My Ground](https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs) | 2:48 | 2022-01-14 | 2022-04-08 |
 | [Start The Healing](https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Start The Healing](https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH) | 3:28 | 2021-12-20 | 2022-01-21 |
+| [Stitches](https://open.spotify.com/track/4KWq6RMruDDwjzYBBpUi7c) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Stitches](https://open.spotify.com/album/45SbfV6M4ELzAOU163XpPb) | 5:01 | 2022-05-27 |  |
 | [Stockholm Syndrome](https://open.spotify.com/track/1dV3QltW7QIUXbH1u9JXhP) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Stockholm Syndrome](https://open.spotify.com/album/05FgwpLFT7x5i0RFdjxb5x) | 5:21 | 2022-03-03 |  |
 | [Sunset over the Empire](https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Sunset over the Empire](https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9) | 4:03 | 2022-05-20 |  |
 | [Superstition](https://open.spotify.com/track/6cpzmH6s1EV9ImMh4s6tr5) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Superstition](https://open.spotify.com/album/5g4WCIUGBX79fi37rRxZwj) | 3:14 | 2022-05-06 |  |
@@ -156,7 +159,7 @@
 | [Turning 23](https://open.spotify.com/track/7djUbBYcFHXuTf3psVNBnQ) | [Until the Dead Walk](https://open.spotify.com/artist/4Zr17aIvRu0LjH3Zf8QDRb), [Coldharbour](https://open.spotify.com/artist/7eVTOU3R6iKKMVric5JaUo) | [Untitled](https://open.spotify.com/album/4tModRmtwGx1rjRVbfrhCz) | 3:33 | 2021-12-20 | 2022-01-07 |
 | [UFO Party](https://open.spotify.com/track/1qmxvfIHqceUV1XD5ESJz0) | [Young Medicine](https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ) | [UFO Party](https://open.spotify.com/album/1i6oD08Nu5SsG5U2FHNaz2) | 4:02 | 2022-05-20 |  |
 | [Ultraviolet](https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Ultraviolet](https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS) | 2:53 | 2022-03-03 | 2022-04-15 |
-| [Unconquered](https://open.spotify.com/track/5624sQ4FhCXJRQpYwhkvt8) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Unconquered](https://open.spotify.com/album/0zx4zzB4EheppuadoyXLN0) | 3:35 | 2022-03-11 |  |
+| [Unconquered](https://open.spotify.com/track/5624sQ4FhCXJRQpYwhkvt8) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Unconquered](https://open.spotify.com/album/0zx4zzB4EheppuadoyXLN0) | 3:35 | 2022-03-11 | 2022-05-27 |
 | [Under Your Skin](https://open.spotify.com/track/4A0lu7ZxNwGFia8AzY8ZXy) | [Shaman's Harvest](https://open.spotify.com/artist/3pigXV2QUatr3szcb3MacR) | [Under Your Skin](https://open.spotify.com/album/5yh12susUWiXc4kRRfKH5o) | 3:23 | 2021-12-20 | 2022-01-28 |
 | [Unstoppable](https://open.spotify.com/track/294Abb02j2OpQSHFRGNPSc) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Unstoppable](https://open.spotify.com/album/5KQP4GU3vUJvcqDDnsxcGC) | 3:07 | 2021-12-20 | 2022-01-14 |
 | [Views From Halfway Down](https://open.spotify.com/track/6K2VQLJfexhkn3teQeAwkd) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Views From Halfway Down](https://open.spotify.com/album/5Ws6SfeRSLUZWlW3tPAOtM) | 3:48 | 2021-12-20 | 2022-04-01 |

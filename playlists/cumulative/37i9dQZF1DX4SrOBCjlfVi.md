@@ -4,7 +4,7 @@
 
 > New joints of the week featuring Quavo, Takeoff, 42 Dugg and more\. Cover: Moneybagg Yo
 
-773 songs - 1 day 12 hr 23 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+774 songs - 1 day 12 hr 26 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [Sky Scraper \(feat\. Louie Ray\)](https://open.spotify.com/track/6mB0FBRTOuGrMVbjn3n9e0) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Louie Ray](https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw) | [Sky Scraper \(feat\. Louie Ray\)](https://open.spotify.com/album/5GAv0EEqaJpEXVnHOK2uvb) | 3:41 | 2022-02-04 | 2022-02-12 |
 | [Sl\*t Him Out](https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 2:52 | 2022-02-18 | 2022-02-26 |
 | [Sl\*t Him Out Again \(feat\. Kali\)](https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Sl\*t Him Out Again \(feat\. Kali\)](https://open.spotify.com/album/1fT4X8H2LDIslnWj8vNRxT) | 3:52 | 2022-03-04 | 2022-03-12 |
+| [Sleazy Flow \(with Lil Baby\) \- Remix](https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sleazy Flow \(Remix\)](https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG) | 2:41 | 2022-05-26 |  |
 | [Slide](https://open.spotify.com/track/0eN3LYdvUOq7Z1WOpd48g3) | [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Slide](https://open.spotify.com/album/3RfilbCGqpSGaatGl42MKt) | 2:41 | 2022-04-29 | 2022-05-07 |
 | [Slide \(with KiDi\)](https://open.spotify.com/track/4lbXuTWvKI6Xnfnla0QRar) | [Paris Bryant](https://open.spotify.com/artist/4Ng21p92TPTkeAcXJlSB2u), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [A Trip To Paris](https://open.spotify.com/album/3Iz17W8WgENVednqfGnBSv) | 3:16 | 2022-05-13 | 2022-05-20 |
 | [Slim Waist](https://open.spotify.com/track/44jJCOAbyqF8msu7P79twG) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Slim Waist](https://open.spotify.com/album/12SXIjeo8hFvzeyBKnGIYH) | 2:48 | 2022-02-25 | 2022-03-05 |

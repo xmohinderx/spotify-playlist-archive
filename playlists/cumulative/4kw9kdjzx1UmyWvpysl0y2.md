@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-168 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+169 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Rays](https://open.spotify.com/track/72tvo13t5mUarSFhYfU4aG) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Rays](https://open.spotify.com/album/57mAquqvqkTjkPTkpOjAsh) | 2:30 | 2022-05-25 |  |
 | [Read Your Lips](https://open.spotify.com/track/7Hvefk37fvqZBtnDlp6ux9) | [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Read Your Lips](https://open.spotify.com/album/4a3UmNTVGw42B39bLhKfZb) | 3:27 | 2021-11-19 | 2022-01-25 |
 | [Remedy](https://open.spotify.com/track/1A7abr0cUK9WZRO4AjT0UQ) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Remedy](https://open.spotify.com/album/2RfxoMmdN94qeqmbfSGsaz) | 2:35 | 2022-04-26 |  |
+| [Right Through](https://open.spotify.com/track/4KyDMzlS1tynHxn3t6SpIJ) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [Asdek](https://open.spotify.com/artist/2rxubOde1svVDYAVDy7PDS) | [The Chase](https://open.spotify.com/album/5ihPWCYA0YE9mPIScQAQMG) | 3:22 | 2022-05-26 |  |
 | [roadtrip](https://open.spotify.com/track/3HAYDWCgHiQ0j7RK5qaohM) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 2](https://open.spotify.com/album/5AUfHGT7BVlsxHPQCdlHmG) | 2:28 | 2022-05-13 |  |
 | [Running Faster](https://open.spotify.com/track/1eJyFR21xkbS6JJIt5PUCH) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr), [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [Running Faster](https://open.spotify.com/album/1XRiyMmGXUtzboy9peGHoe) | 3:51 | 2022-03-02 | 2022-05-13 |
 | [Saving Lives](https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Saving Lives](https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt) | 4:27 | 2021-11-19 | 2022-02-25 |
@@ -141,7 +142,7 @@
 | [Star Glide \- Stonebank Remix](https://open.spotify.com/track/0tRIhHyjXfeElFTObVEJDg) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [The X Saga](https://open.spotify.com/album/0cEjf52EUrUJGPxlW205ea) | 4:10 | 2022-03-31 |  |
 | [Sunlight](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Sunlight](https://open.spotify.com/album/7qPdbWFcEIHUkVMdRdP6kJ) | 3:50 | 2022-02-23 | 2022-05-06 |
 | [Take It Away](https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Take It Away](https://open.spotify.com/album/1JSiNOEHf9NjVGxQqsTM71) | 3:46 | 2022-05-05 |  |
-| [Tarantino](https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp) | [& Friends](https://open.spotify.com/album/2ISFdlM8xYsp5D2Vndh6Br) | 3:43 | 2022-03-15 |  |
+| [Tarantino](https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp) | [& Friends](https://open.spotify.com/album/2ISFdlM8xYsp5D2Vndh6Br) | 3:43 | 2022-03-15 | 2022-05-27 |
 | [TELL ME](https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TELL ME](https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0) | 2:48 | 2022-05-09 |  |
 | [The Intimate Space](https://open.spotify.com/track/1pJW9CkfDyV7wc1YJpK4g9) | [Not Now Please](https://open.spotify.com/artist/3f330dgm1dKMxsVZHy7M84) | [The Intimate Space](https://open.spotify.com/album/5AzkYIG5sDlEChKq7n93Kv) | 5:01 | 2022-04-29 |  |
 | [The Moment](https://open.spotify.com/track/7kJbF9HTZVkaU2e2yf42dB) | [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Martin Graff](https://open.spotify.com/artist/6SR5c2LXuUrSqhqkj3MTz9) | [The Moment](https://open.spotify.com/album/0ASBkV3dhCp5dvCNpHwzEb) | 3:30 | 2022-02-18 | 2022-04-29 |

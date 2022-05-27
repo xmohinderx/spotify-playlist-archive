@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 250920,
       "name": "Burbujas de Amor",
       "url": "https://open.spotify.com/track/4JvxxMnFK1zGtDb8rr5RmE"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 307933,
       "name": "Ciego De Amor - Featuring Anthony Santos",
       "url": "https://open.spotify.com/track/1IdSPagRNE4i6cr6I8QBYD"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 293533,
       "name": "El Hombre de Tu Vida",
       "url": "https://open.spotify.com/track/3f9d4UXihDnTq9X6SNEG1j"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 266320,
       "name": "Estrellitas y Duendes",
       "url": "https://open.spotify.com/track/0bv67cnSWqwoWtKGkKdDHu"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 245253,
       "name": "Intentalo Tu",
       "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 219666,
       "name": "Laudano",
       "url": "https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 344893,
       "name": "Me Voy De Ti",
       "url": "https://open.spotify.com/track/14GdMa2E0pU7TG0ShI69mO"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 371720,
       "name": "Mujer Infiel",
       "url": "https://open.spotify.com/track/4VIkwr0aHuvr5ETPaBt9oQ"
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 220546,
       "name": "No Es una Novela",
       "url": "https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP"
@@ -1073,6 +1073,24 @@
       "duration_ms": 179680,
       "name": "No Le Pare",
       "url": "https://open.spotify.com/track/1zHtVDuBMEhmiJoZKV2E9u"
+    },
+    {
+      "album": {
+        "name": "Mix Luis Vargas",
+        "url": "https://open.spotify.com/album/75EqgP9uDeIgJGOS9DLsTk"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273113,
+      "name": "No Puedo Volver Contigo",
+      "url": "https://open.spotify.com/track/25FFEjrFYQCedGMd7TcW3D"
     },
     {
       "album": {
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 255026,
       "name": "Por un Segundo",
       "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
@@ -1361,7 +1379,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 256333,
       "name": "Se Fue Mi Amor Bonito",
       "url": "https://open.spotify.com/track/309M0MPexbrLYbGpqKstYa"
@@ -1379,7 +1397,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 238453,
       "name": "Se Te Nota",
       "url": "https://open.spotify.com/track/2QesqG94HS8ONoB8yr0vec"
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 174573,
       "name": "Shorty, Shorty",
       "url": "https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 252466,
       "name": "Si Tu Cari\u00f1o No Esta",
       "url": "https://open.spotify.com/track/5xZPOd1s09Kr5VUXRwRKuI"
@@ -1505,7 +1523,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 205266,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/0DQd0tWurMHUAv0cMnDELH"
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 269490,
       "name": "Vagabundo, Borracho y Loco",
       "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 228624,
       "name": "Voy Pa Alla",
       "url": "https://open.spotify.com/track/5VC9MOMTd5SvjIEnHTHewV"

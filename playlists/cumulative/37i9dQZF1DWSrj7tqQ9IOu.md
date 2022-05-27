@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover: La Belle Vie
+> The best French indie tracks right now\. Cover: Izïa
 
-119 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
+121 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [castles](https://open.spotify.com/track/0arsSXwDYyMvG3U6RHU21y) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Nilipek.](https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo) | [postcard from Istanbul](https://open.spotify.com/album/44zcVOvyCXlw3hddxRebre) | 2:54 | 2022-04-07 | 2022-05-20 |
 | [Chui pu fort](https://open.spotify.com/track/1VkMX6F5GJH2ggI6JFUVjD) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [Chui pu fort](https://open.spotify.com/album/71j1HEoL1pXrWb24SaSNGs) | 2:09 | 2022-05-12 |  |
 | [Comment tu vas finir](https://open.spotify.com/track/4I0ZSC98oOw0S1f9cb9qxT) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Comment tu vas finir](https://open.spotify.com/album/7cJZ69AZhMMGk87nRwY8sz) | 2:29 | 2021-12-16 |  |
+| [Construire un feu](https://open.spotify.com/track/06fPgubILYvUlNHW9MzBuS) | [Vickie Cherie](https://open.spotify.com/artist/7mUVdIwwAN5YJlMMir29Up) | [Construire un feu](https://open.spotify.com/album/5ohn4rsXCl5TyIOKT6vxW6) | 3:59 | 2022-05-26 |  |
 | [Corporate Sunset](https://open.spotify.com/track/6f4OnfztUsZhojQiCL27Pi) | [JB Dunckel](https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm) | [Corporate Sunset](https://open.spotify.com/album/3q6KJe0i4C6FxZVmRmB8OM) | 5:03 | 2022-04-14 |  |
 | [Cour Des Miracles](https://open.spotify.com/track/1LmmaY7vbIRD5qUnB507lz) | [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Cour Des Miracles](https://open.spotify.com/album/3OsZbmYBunUMQs3rsglvhr) | 4:06 | 2021-12-16 | 2022-02-25 |
 | [Dans mes rêves](https://open.spotify.com/track/4mVY5qhPe2PWDvf7E2Sn0d) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Dans mes rêves](https://open.spotify.com/album/41ldBOE9Pjc0hWdfNJc0ha) | 3:43 | 2021-12-16 | 2022-03-25 |
@@ -62,13 +63,13 @@
 | [La Lumière](https://open.spotify.com/track/2f2xg4cOAo32Ig50pYytCo) | [Aprile](https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P), [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [La Lumière](https://open.spotify.com/album/5GDmaskm3zkYLBqqwceuPC) | 3:17 | 2022-02-24 |  |
 | [La vague aux cheveux d'or](https://open.spotify.com/track/7tPjMXhFI1eSWUQlnlXEqy) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [La vague aux cheveux d'or](https://open.spotify.com/album/40nDifZoF1tm8pfMuc69aX) | 2:45 | 2021-12-16 | 2022-02-18 |
 | [La vie](https://open.spotify.com/track/7Gwg7eWok40tJuNfQEioFm) | [Solal Roubine](https://open.spotify.com/artist/6QkOiXleQySLXeqp36LxHQ) | [La vie](https://open.spotify.com/album/5Yzl89RbU3zOUbiZW64mxp) | 3:34 | 2021-12-16 | 2022-04-29 |
-| [La vie de tous les jours](https://open.spotify.com/track/5smfgFsXaD4F510jOD0wLa) | [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [La vie de tous les jours](https://open.spotify.com/album/6rvl6pe5E3uCMZPzLKQJO8) | 2:53 | 2021-12-16 |  |
+| [La vie de tous les jours](https://open.spotify.com/track/5smfgFsXaD4F510jOD0wLa) | [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [La vie de tous les jours](https://open.spotify.com/album/6rvl6pe5E3uCMZPzLKQJO8) | 2:53 | 2021-12-16 | 2022-05-27 |
 | [Last September](https://open.spotify.com/track/6yJKFbODJ05XHX9EwvtWYA) | [Tample](https://open.spotify.com/artist/0PL4oBFPdmDGLXFPaBpYcJ) | [Glory](https://open.spotify.com/album/6o2IPSHPg1wDU2o16ueD6E) | 3:10 | 2022-01-27 |  |
 | [Le coeur en panne](https://open.spotify.com/track/2dEd1mQEtgmzQRLM982Obg) | [Toboggan](https://open.spotify.com/artist/2OSWGDW8nA4BvPZSw9K7tG) | [Le coeur en panne](https://open.spotify.com/album/5e5eWVnGzi798swulTYPd2) | 3:24 | 2022-01-20 |  |
 | [le moment présent](https://open.spotify.com/track/6kxkOZuhy1MhEG6OA0cwvR) | [Mélodie Lauret](https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4) | [le moment présent](https://open.spotify.com/album/5sjPwPZ68bK6CBrh1hIWT4) | 2:49 | 2022-01-20 |  |
 | [Le Tuto](https://open.spotify.com/track/7CQWOTljGv2tc9leEARsTa) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [Le Tuto](https://open.spotify.com/album/6DMKItPu49cvlJmiKC0qdL) | 3:30 | 2022-05-06 |  |
 | [Les bonnes manières](https://open.spotify.com/track/1tmEnZhAhwUjzwJ7L0QFAh) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Les bonnes manières](https://open.spotify.com/album/3x9CnMbpz96ggiCQATfLQ4) | 2:58 | 2021-12-16 | 2022-01-14 |
-| [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 | 2021-12-16 |  |
+| [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 | 2021-12-16 | 2022-05-27 |
 | [Les questions \- feat\. Papa](https://open.spotify.com/track/1GcLyTYF18YQi3fLuNYnwh) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Les questions \(feat\. Papa\)](https://open.spotify.com/album/61cuBA0xeIlmfmiazm6nxZ) | 3:25 | 2022-04-28 | 2022-05-20 |
 | [Levitate](https://open.spotify.com/track/0U2tNdDsPJk8FOsmwNdmMT) | [My Dear](https://open.spotify.com/artist/2VIeTNcwBm3deHgcAe58mB) | [Levitate](https://open.spotify.com/album/701cjd2rHs91n8kog79dzm) | 3:00 | 2022-02-03 | 2022-05-13 |
 | [Looking Backward](https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Looking Backward](https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx) | 3:21 | 2022-01-20 | 2022-04-08 |
@@ -113,6 +114,7 @@
 | [Superlove](https://open.spotify.com/track/2HAlxc5ytQPDAeSBfDYiTu) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Superlove](https://open.spotify.com/album/2Xed5UiAm9CUVasY1uo6RE) | 3:48 | 2022-01-13 | 2022-02-04 |
 | [Tandem](https://open.spotify.com/track/6EpXkYDIjzUnJlXzJuQIXE) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Tandem](https://open.spotify.com/album/0xW35d2VzLZaCiIeG4BLRs) | 3:19 | 2022-04-28 |  |
 | [Tata](https://open.spotify.com/track/5toHaNWeaCf5cw9Jfn6yK4) | [Johan Papaconstantino](https://open.spotify.com/artist/7xuc5o2ysVzV0UDiGordzO) | [Tata](https://open.spotify.com/album/6D2bRl9q3zF2Rt3hcSQaRu) | 3:58 | 2021-12-16 | 2022-02-25 |
+| [Tears for Breakfast](https://open.spotify.com/track/2uN5St1CwzuDOasc833jHd) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Tears for Breakfast](https://open.spotify.com/album/2GkLSiLPblsCvB5BpFCRcp) | 2:49 | 2022-05-26 |  |
 | [Teenager](https://open.spotify.com/track/4fuFDRwSnpcU7xfeSrZHrr) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Breakup Songs](https://open.spotify.com/album/4IAkKeuLkZWzWQqqFI6uDk) | 3:16 | 2022-01-27 | 2022-02-11 |
 | [The Crush](https://open.spotify.com/track/5w8PRAWFhg3EPBqd9fwZMn) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Breakup Songs \(Extended\)](https://open.spotify.com/album/03LGiK0ZUZx0nkp4fOhkkJ) | 3:20 | 2022-02-10 | 2022-04-08 |
 | [The Eyes](https://open.spotify.com/track/4dm5psUQAIcGdOFICZ2zO3) | [Sandór Waïss](https://open.spotify.com/artist/7CEkLAfSHCRAohsAWypk8z) | [The Eyes](https://open.spotify.com/album/5nSoESAt2L5B0bZuuWshJV) | 4:03 | 2022-04-14 |  |

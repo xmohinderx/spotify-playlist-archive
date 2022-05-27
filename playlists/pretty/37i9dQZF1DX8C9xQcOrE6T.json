@@ -1,12 +1,12 @@
 {
   "description": "All of your favorite Disney hits, including songs from Encanto. Stream Disney's Encanto on Disney+.",
-  "num_followers": 4324885,
+  "num_followers": 4327223,
   "original_name": "Disney Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzMxODE5OSwwMDAwMDA1MjAwMDAwMTgwZjE3MWE3ZDIwMDAwMDE3ZDJlYzg2YTdi",
+  "snapshot_id": "MTY1MzU5NzAzNywwMDAwMDA1MzAwMDAwMTgxMDIxMDYzNWIwMDAwMDE3ZDJlYzg2YTdi",
   "tracks": [
     {
       "added_at": "2022-04-01 14:36:32",
@@ -2093,6 +2093,34 @@
       "url": "https://open.spotify.com/track/6P316E7tFylzpVrDrXVF9s"
     },
     {
+      "added_at": "2022-05-26 20:30:37",
+      "album": {
+        "name": "Alice In Wonderland (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx"
+      },
+      "artists": [
+        {
+          "name": "Kathryn Beaumont",
+          "url": "https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls"
+        },
+        {
+          "name": "Edwynn",
+          "url": "https://open.spotify.com/artist/3XX7VQJvnPuFrCSaHgexf5"
+        },
+        {
+          "name": "James Macdonald",
+          "url": "https://open.spotify.com/artist/6Wr4qA7iyTKRag1Pyyuv2g"
+        },
+        {
+          "name": "Jerry Colonna",
+          "url": "https://open.spotify.com/artist/4Rg7sNSGzUzaP1qkc5qVhc"
+        }
+      ],
+      "duration_ms": 271226,
+      "name": "The Mad Tea Party / The Unbirthday Song / Twinkle Twinkle / Clean Cup Move Down / Mad Watch",
+      "url": "https://open.spotify.com/track/0uDuqVAWCOYEH4qM3vWe1g"
+    },
+    {
       "added_at": "2022-04-01 14:36:32",
       "album": {
         "name": "Toy Story 4 (Original Motion Picture Soundtrack)",
@@ -2151,6 +2179,22 @@
       "duration_ms": 166080,
       "name": "Chim Chim Cher-ee - From \"Mary Poppins\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/2hKYhft1VITPST4iiAHLGC"
+    },
+    {
+      "added_at": "2022-05-26 20:30:37",
+      "album": {
+        "name": "Songs From The Aristocats",
+        "url": "https://open.spotify.com/album/2FeAtX8kDxc62NtpWNW93Z"
+      },
+      "artists": [
+        {
+          "name": "Maurice Chevalier",
+          "url": "https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc"
+        }
+      ],
+      "duration_ms": 140413,
+      "name": "The Aristocats",
+      "url": "https://open.spotify.com/track/1yTZjNU4R0pYNpXwyl37bE"
     },
     {
       "added_at": "2022-04-01 14:36:32",

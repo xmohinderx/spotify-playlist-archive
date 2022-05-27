@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 165773,
       "name": "Amarties",
       "url": "https://open.spotify.com/track/7AaxFtkinG6n5fw6ZUuxHE"
@@ -14619,6 +14619,24 @@
       "duration_ms": 212571,
       "name": "TV",
       "url": "https://open.spotify.com/track/0ftxzdYSC6sb5IvV2TjozK"
+    },
+    {
+      "album": {
+        "name": "Twerk",
+        "url": "https://open.spotify.com/album/13WCCXYqVyjYDCX9FvNuKC"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Twerk",
+      "url": "https://open.spotify.com/track/3QRTR8yxz65LpXgzzFC16O"
     },
     {
       "album": {

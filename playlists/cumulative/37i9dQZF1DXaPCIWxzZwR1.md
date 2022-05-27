@@ -4,7 +4,7 @@
 
 > next gen pop featuring Benson Boone
 
-941 songs - 1 day 21 hr 44 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+942 songs - 1 day 21 hr 47 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-02 | 2021-05-29 |
 | [Demente \(feat\. Guaynaa\)](https://open.spotify.com/track/0NhHFXC06r5kK1rTUuOjxM) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:43 | 2021-02-19 | 2021-03-14 |
 | [Demon](https://open.spotify.com/track/2LnQSUceWUnowlkQTfOMVy) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Demon](https://open.spotify.com/album/7fpY1iDm5Ow3r1YE8eqy7R) | 2:45 | 2022-04-29 | 2022-05-24 |
+| [Devil Doesn’t Bargain](https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:43 | 2022-05-26 |  |
 | [die without u](https://open.spotify.com/track/0vco9GaTEbNP8fC2lafd4s) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [die without u](https://open.spotify.com/album/37RfLZM8Lk0k1kpuIOOGqq) | 2:49 | 2021-06-05 | 2021-07-29 |
 | [Dinosaurs \(S4E7\)](https://open.spotify.com/track/1v5kaAA3u8rsqTiDbGdFHB) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Dinosaurs \(S4E7\)](https://open.spotify.com/album/3Z4vu9dPvIagO0gh5FMbTY) | 2:24 | 2021-05-22 | 2021-06-26 |
 | [Dirty Thoughts](https://open.spotify.com/track/3ngV3q1Mplay2vhxAwamZP) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/4fx89RUIG0uiPUebkD3iil) | 2:09 | 2021-12-16 |  |

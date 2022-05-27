@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR?si=J6WV5Q96QIusc5clVP6eSg"> NJERI </a>
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6?si=Tqpe88HESj2LvKSvloA14A"> Wendy Kay </a>
 
-71 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
+73 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 | 2022-03-31 |  |
 | [Coka Mucie](https://open.spotify.com/track/4WUB5yrRvObEzUIld8zRm8) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Coka Mucie](https://open.spotify.com/album/77IgdQQfnJkNuRtjSN3DtP) | 4:13 | 2021-12-28 |  |
 | [Crazy](https://open.spotify.com/track/3cqi4rYzbrppWEts9VWS32) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Crazy](https://open.spotify.com/album/5ssbf7DOGCatUKfGOsCkqB) | 3:19 | 2021-12-28 | 2022-04-29 |
-| [Crossing Lines](https://open.spotify.com/track/0xnSY4GmMl3qvXYuzJcGnf) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:12 | 2021-12-28 |  |
+| [Crossing Lines](https://open.spotify.com/track/0xnSY4GmMl3qvXYuzJcGnf) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:12 | 2021-12-28 | 2022-05-27 |
 | [Crush](https://open.spotify.com/track/2n7w8jrTy842ypge1uoGxA) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [Crush](https://open.spotify.com/album/70ADS6R5K5AyVQWmOgaiAZ) | 4:03 | 2021-12-28 |  |
 | [Dark brown eyes](https://open.spotify.com/track/5ivSF8Xb7SaOnXYM1IvVcv) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Storm](https://open.spotify.com/album/6dx0pqvhjxik4vrl9v65RD) | 3:48 | 2021-12-28 |  |
 | [Drug](https://open.spotify.com/track/0CSstPj1rRmpxoLojrIYVU) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Drug](https://open.spotify.com/album/5nSi4krADjtHDVziZ6zGsF) | 3:05 | 2021-12-28 |  |
@@ -25,6 +25,7 @@
 | [Energy](https://open.spotify.com/track/6sJkcyfnB4rGAzBvsGTgbG) | [Sage](https://open.spotify.com/artist/4sVEio8QOitlX4YgXi7OL1) | [Energy](https://open.spotify.com/album/0KfDwp9CEl1LbqZgQE2DmM) | 2:47 | 2021-12-28 |  |
 | [Enjoy The Night](https://open.spotify.com/track/6NXwQZIgrp61brkGDG8uo9) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE), [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo) | [Enjoy The Night](https://open.spotify.com/album/0RCzYsJhABlRPi6bz2gnxn) | 3:13 | 2022-02-04 |  |
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2021-12-28 |  |
+| [Fantasy](https://open.spotify.com/track/398tdFtkVxkekbMCU0kMti) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [MY WAY:VOLUME II](https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK) | 2:30 | 2022-05-26 |  |
 | [Feel Me](https://open.spotify.com/track/5iMw8GaqHxk88HD4Ix1udK) | [Rkeiii](https://open.spotify.com/artist/1ZQSlTL8k2sGHuInXtLVTO), [Shirley G.](https://open.spotify.com/artist/6El818H33eiaEFkUBqRyPA) | [Feel Me \(Pack\)](https://open.spotify.com/album/0VgXjHK7YUA2qVjQfkYgVI) | 3:16 | 2022-03-03 |  |
 | [Fire](https://open.spotify.com/track/4N7Hgi6ED70sEQvahUDz9p) | [Ayrosh](https://open.spotify.com/artist/3eUpzhdVQkVaAKWn09Ka8l) | [Fire](https://open.spotify.com/album/2WrJzd9B9IAJhq9RfRxxZK) | 3:28 | 2021-12-28 | 2022-05-13 |
 | [Forget You](https://open.spotify.com/track/0xXSC3gjbYZUpOFsXVtp0Y) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Qwarantunes](https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5) | 4:22 | 2021-12-28 |  |
@@ -42,6 +43,7 @@
 | [Less](https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Less](https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo) | 1:25 | 2022-03-24 |  |
 | [Lonely In Nairobi](https://open.spotify.com/track/6ilStQsc2cozlrjmseAJ7N) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Lonely In Nairobi](https://open.spotify.com/album/3O3f7B13CuboRb9Pbv505l) | 3:09 | 2021-12-28 |  |
 | [Love](https://open.spotify.com/track/6c5Ra1OA4oYbwvyVvo3BMi) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Love](https://open.spotify.com/album/71d2voVpwF5OY2pdAtU2IC) | 3:40 | 2022-01-20 | 2022-04-29 |
+| [Love Song](https://open.spotify.com/track/6eUMsc38EqwN70ggjXnWBV) | [TrishaGrey](https://open.spotify.com/artist/1lKTTkoqEttbG5Tdn9X8Jx) | [Love Song](https://open.spotify.com/album/4ioUbWV9uoKVBGwSiqjrpC) | 3:11 | 2022-05-26 |  |
 | [Loverman \- Acoustic](https://open.spotify.com/track/6vxwG8RWDOOlyCyxU4l0qP) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [Ethan](https://open.spotify.com/artist/6ouFdOVHXs3aZV5pwM3JlQ) | [Loverman \(Acoustic\)](https://open.spotify.com/album/5Ajbk0U4jDQRtqLDg9OZoB) | 2:54 | 2021-12-28 |  |
 | [Lowkey](https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lowkey](https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr) | 2:50 | 2021-12-28 |  |
 | [Malaika](https://open.spotify.com/track/5J4SDAQfgnAE90ErS4dO4u) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/4jmj60YuyEMwANIOck2jFV) | 3:42 | 2021-12-28 |  |
@@ -74,7 +76,7 @@
 | [Usiende Mbali](https://open.spotify.com/track/2T80rcru064O2vpGt9zU9S) | [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo), [Romantico](https://open.spotify.com/artist/0M3CMDbz66AlRsb6AEwbf6), [Samaki Mkuu](https://open.spotify.com/artist/6DUSQDYQbsaKtEISmpWIou), [Jabali Afrika](https://open.spotify.com/artist/5qF9WAxB1C3SxPdE1xp0wC), [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [Usiende Mbali](https://open.spotify.com/album/3gWHpGUHpc8u90J3oReY8M) | 4:34 | 2021-12-28 |  |
 | [Waiting](https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Waiting](https://open.spotify.com/album/4bRnHj1ApFBEVMbvEw4H7E) | 2:44 | 2022-02-04 |  |
 | [Wanja](https://open.spotify.com/track/4qlhfTcBkuDo7wByAZERiz) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Wanjine](https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe) | [Blk2541](https://open.spotify.com/album/77yeDBzL9v308FeLoyypPd) | 3:06 | 2021-12-28 | 2022-03-04 |
-| [Want You](https://open.spotify.com/track/4soHwOdoVbeY0HgXI8K5vS) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Mi$taK](https://open.spotify.com/artist/5RdL0s8UACHhmacD8FB73h) | [Want You](https://open.spotify.com/album/0J0VXiDkLDuf8CyYsQSXlO) | 3:36 | 2021-12-28 |  |
+| [Want You](https://open.spotify.com/track/4soHwOdoVbeY0HgXI8K5vS) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Mi$taK](https://open.spotify.com/artist/5RdL0s8UACHhmacD8FB73h) | [Want You](https://open.spotify.com/album/0J0VXiDkLDuf8CyYsQSXlO) | 3:36 | 2021-12-28 | 2022-05-27 |
 | [We're Made For Each Other](https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 2:28 | 2022-03-03 |  |
 | [What I See](https://open.spotify.com/track/7jDkmNjxPQ0F2b7D4agmTG) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [What I See](https://open.spotify.com/album/1GeUTD1xqgMWH0qzOffTMX) | 2:54 | 2021-12-28 |  |
 | [Wild Trip](https://open.spotify.com/track/5LH9sGAsEtE2ysKdKG7ZRh) | [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx), [MacKinlay](https://open.spotify.com/artist/3TpmxDMVmH67u6PfT0Wz7f) | [Wild Trip](https://open.spotify.com/album/3evi4QPow2u205Fx8MyW0I) | 4:18 | 2021-12-28 |  |

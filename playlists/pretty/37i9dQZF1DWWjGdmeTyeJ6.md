@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Alemeda, Jhariah, Delaney Bailey, Carter Faith \(left to right\),  Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,395 likes - 62 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,113,236 likes - 62 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

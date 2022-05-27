@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Boston Manor
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,652 likes - 151 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,777 likes - 151 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

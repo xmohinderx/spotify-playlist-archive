@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-155 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
+157 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A String in the Night](https://open.spotify.com/track/7dZ3v5DM5NvdviQ66NTcK4) | [Duo Romanza](https://open.spotify.com/artist/4c5bDKFZPlbp3EqDLyk4Hn) | [A String in the Night](https://open.spotify.com/album/2sMWuQaCwsvRsjhc5KIIfH) | 2:02 | 2021-09-03 |  |
 | [Adagio in G Minor](https://open.spotify.com/track/2AjyreHCD6PKAtRGV2qsK5) | [Tomaso Albinoni](https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq), [Chamber Orchestra of Miemo](https://open.spotify.com/artist/7I4SytVVBoXQLU1IrG2pDp) | [Adagio in G Minor](https://open.spotify.com/album/71LQkDLQm2RozTdCKAFBpt) | 4:26 | 2020-10-20\* | 2021-10-21 |
 | [Angustifolia](https://open.spotify.com/track/0wXoceSodypn4BlHQRUYLA) | [Dagmar Sheernan](https://open.spotify.com/artist/3sQmwQXoOcmGEc20ZM1zG9) | [Angustifolia](https://open.spotify.com/album/13Qyyw6AwtO4QPNeFrHfEF) | 2:13 | 2020-10-20\* |  |
+| [As We Float](https://open.spotify.com/track/2mCHLtMrI4SLayY8spzC5V) | [Joe Kirby](https://open.spotify.com/artist/0Vqhg7RKoHs40Y2Nc9jA8a) | [Abbey Road Masters: Repair & Reflect](https://open.spotify.com/album/3qbfM9ChNmnFlb1iU8B3Yv) | 2:46 | 2022-05-27 |  |
 | [Aspiration](https://open.spotify.com/track/2t8KaPzrQ3Isk45ZlhXKL4) | [Tip Ferreira](https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw) | [Aspiration](https://open.spotify.com/album/4mgZqnt9d1LMagwFdV0Ic6) | 3:06 | 2020-10-20\* |  |
 | [At Peace](https://open.spotify.com/track/0Dd0bM1MWg2JvHbjRe7o1K) | [Milo Stavos](https://open.spotify.com/artist/4qJYgLgyq8lH4yaQ4qrJYP) | [At Peace](https://open.spotify.com/album/1FOao3k0m5W7rsuANmI7DB) | 3:46 | 2020-10-20\* |  |
 | [Atlantis](https://open.spotify.com/track/48ONVlzVpQiJNY3oHM7dud) | [Clarence Öfwerman](https://open.spotify.com/artist/58c41fbN8x9viByYPYSdSc) | [Atlantis](https://open.spotify.com/album/47KJxUttlgxLOPkxmAqTYK) | 2:55 | 2020-10-20\* | 2022-01-08 |
@@ -73,6 +74,7 @@
 | [Inner Child](https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5) | [Louise Lennehan](https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW) | [The Sacred Self](https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm) | 3:08 | 2020-10-20\* |  |
 | [Inner Introspection](https://open.spotify.com/track/5En4Zy3m0cw63RzivOZjQR) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Inner Introspection](https://open.spotify.com/album/6yYE7Z0sA7HqqeCbzCjmyL) | 3:07 | 2020-10-20\* | 2021-11-17 |
 | [Inner Sphere](https://open.spotify.com/track/3mLoP1rCssKM4aeRAUpiOj) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Inner Sphere](https://open.spotify.com/album/3xdSCmp1G4ikQqKLFgACrP) | 3:25 | 2020-10-20\* | 2022-05-20 |
+| [Itinere](https://open.spotify.com/track/3SJyrNsIX3mkiyFKekNAty) | [Rickard Nilsson](https://open.spotify.com/artist/6qa2LFLjGOvQPRxs8LZuZX), [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Itinere](https://open.spotify.com/album/47GVftysLfyzIMrF3D95Gw) | 2:08 | 2022-05-27 |  |
 | [Jupiter](https://open.spotify.com/track/0X4MfCEzXp28yrhUKpOadD) | [Stratospheric](https://open.spotify.com/artist/2cuKHP8TmCTf4KovZNg1Ut) | [Jupiter](https://open.spotify.com/album/4MOIk31rXkeM3VYy6Dt72L) | 2:02 | 2020-10-20\* |  |
 | [Laugarvatn](https://open.spotify.com/track/6sbdQPeO6pCjLGn0qYPliB) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Laugarvatn](https://open.spotify.com/album/4PXbi2zhHkm9KkG9hTAZsp) | 3:05 | 2021-09-18 |  |
 | [Law of Attraction \(solo version\)](https://open.spotify.com/track/6cmTVnOrji6WyAkFbnFLQK) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Various Solo Versions](https://open.spotify.com/album/4QLNgqKLeHjtGujmRWlgdG) | 3:35 | 2020-10-20\* |  |
@@ -104,7 +106,7 @@
 | [Once Again](https://open.spotify.com/track/3rM7tHIfS6tzuaPXxp5hK1) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [Once Again](https://open.spotify.com/album/6rHvuSWrrMiqfRf08jo137) | 3:23 | 2020-10-20\* |  |
 | [Ondulante](https://open.spotify.com/track/0eDBnFUrIsOq7wf2d7vvr0) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Ambientalismo](https://open.spotify.com/album/150OGcG307oqzZadHxUcQH) | 3:00 | 2020-10-20\* |  |
 | [One With You](https://open.spotify.com/track/1Xiva2KjOYcPIT8VfrfJKS) | [Rick Jolt](https://open.spotify.com/artist/0hzZ0tiSaLHWUUOWNPo5cQ) | [One With You](https://open.spotify.com/album/4mep7pNFHlun9gvlRKkv6Y) | 2:13 | 2020-10-20\* |  |
-| [Opal](https://open.spotify.com/track/3vb6ZHxSckbWkqM5wNdsA5) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Opal](https://open.spotify.com/album/7zXuTzVmAVe1fbNw93N4QV) | 3:33 | 2022-05-20 |  |
+| [Opal](https://open.spotify.com/track/3vb6ZHxSckbWkqM5wNdsA5) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Opal](https://open.spotify.com/album/7zXuTzVmAVe1fbNw93N4QV) | 3:33 | 2022-05-20 | 2022-05-27 |
 | [Padjelanta](https://open.spotify.com/track/5N5jZgY2X3sfj3HUSjg1Ic) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:44 | 2020-10-20\* | 2022-01-08 |
 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 | 2021-06-18 |  |
 | [Pastel](https://open.spotify.com/track/5ewgBMv3RKvWgusgayOubz) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Pastel](https://open.spotify.com/album/7s6ILaRz5CluLRvZVQzBOv) | 2:35 | 2020-10-20\* |  |

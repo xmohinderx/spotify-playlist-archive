@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-250 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
+252 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Deep Ocean \- Alpha Sinus 112Hz \- 119Hz](https://open.spotify.com/track/6hYIZ3STECmS3aIZFY9sGF) | [The Sound Around](https://open.spotify.com/artist/27JSYLOZfglXz3hQbeL2Bl) | [Deep Ocean](https://open.spotify.com/album/5FpueKwppPw5WOl7XONwWP) | 2:56 | 2021-02-24 | 2022-03-19 |
 | [Deep Ocean Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/642iNBukUtBt3u10jgisRs) | [Binaural Lazers](https://open.spotify.com/artist/6OapBcknZrpX52wPvBCc8Z) | [Deep Ocean Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/album/1UwvIQl5GRpwbPzo0V7bHR) | 3:03 | 2021-08-05 |  |
 | [Deepstate Beta](https://open.spotify.com/track/5JQjeTD8twwbKEAuhtdZsM) | [Autonomic Sensations](https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ) | [Trillion](https://open.spotify.com/album/3BaMhE7o0DPZDcogIVoCB9) | 3:10 | 2021-08-18 |  |
+| [Dreams \- Alpha Sinus 105 Hz \- 107 Hz](https://open.spotify.com/track/7mudqKvibtfNDLwKVs46Wl) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Alpha Sinus Therapy](https://open.spotify.com/album/4bhxlTMGlBXf5W96IEdPl7) | 3:03 | 2022-05-26 |  |
 | [Driver of Time](https://open.spotify.com/track/2VpBxikEAc1jm1CPdrxYMl) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Binaural Beats for Relaxation](https://open.spotify.com/album/3qxbSBbBsBWpCn7LO5I6TZ) | 3:36 | 2019-05-26\* | 2020-12-03 |
 | [emerging roots \- Alpha Sinus 81Hz \- 89Hz](https://open.spotify.com/track/7JwG4QGEMVEJT1yyqLYlmv) | [The Binaural Mind](https://open.spotify.com/artist/26xtWEL4HqIGvOcVFUyDSI) | [Alpha Focus](https://open.spotify.com/album/6bhMBqNY3GERf2ttWvxT0i) | 4:23 | 2021-06-18 |  |
 | [Energizer \(Beta 18 Hz\)](https://open.spotify.com/track/2O0HJYQm9QRX0EpUqz9tEk) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Binaural Beats For Focus](https://open.spotify.com/album/4EOJ0H7R7LEmsUzu72u9Bt) | 3:50 | 2020-01-22 | 2021-01-19 |
@@ -221,6 +222,7 @@
 | [Nachdenklich \- Alpha Sinus 105Hz \- 114Hz](https://open.spotify.com/track/0csp6tTmau16MXSgybRtmW) | [Sea Turtles](https://open.spotify.com/artist/56IQtGAgwkHrQpBHEaEuiv) | [Soaking in Binaural](https://open.spotify.com/album/3msRxAwJuC451ZywXpNW2L) | 3:21 | 2021-09-02 | 2022-03-19 |
 | [Namaste \- Alpha Sinus 102Hz \- 109Hz](https://open.spotify.com/track/6sdB0fMk2Kcu1mgJ5gQ47Z) | [0neplus0ne](https://open.spotify.com/artist/29iJCpziaRGTqEC7GqLLBI) | [Namaste](https://open.spotify.com/album/44qckyrwtH1TFwC7rUma0o) | 3:16 | 2021-02-24 |  |
 | [Natarajasana \- Alpha Sinus](https://open.spotify.com/track/1phOmHd9mYpXut6FsUXo60) | [Gervais Boudon](https://open.spotify.com/artist/1Omr9uhscWkt8hmlA7pgiy) | [Natarajasana \- Alpha Sinus](https://open.spotify.com/album/3hToHqtwnUlcs2dDVnjAS7) | 1:45 | 2021-02-03 | 2021-11-25 |
+| [Nation \- Alpha Sinus 62,5 Hz \- 66 Hz](https://open.spotify.com/track/21OVFEyW5pmHO3PHkteoxA) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Alpha Sinus Therapy](https://open.spotify.com/album/4bhxlTMGlBXf5W96IEdPl7) | 3:05 | 2022-05-26 |  |
 | [Nordic Sunrise \(Alpha Drone 8Hz\)](https://open.spotify.com/track/1R2FDZO0waMqGNbVWAvLcr) | [Bruce Brus](https://open.spotify.com/artist/6jKgLzBdINpIrcinbmi7hI) | [Nordic Sunrise](https://open.spotify.com/album/6yPPA0BdM6JoopM8e4Wwn8) | 2:38 | 2022-02-16 |  |
 | [Ocean Waves Alpha 273Hz \- 281Hz](https://open.spotify.com/track/0DLfZb1MJjSBzrcVM9F4WT) | [Floating States](https://open.spotify.com/artist/6nw5vPqjIUusQlaEkCagcN) | [Violin Waves](https://open.spotify.com/album/1tpXT6M6mhFD7LwPu2WQkC) | 2:06 | 2022-04-20 |  |
 | [Oceanfloor \- Alpha 107Hz \- 116Hz](https://open.spotify.com/track/7seRq8qoJ9azBAwuQ6ugP3) | [One Zero 8](https://open.spotify.com/artist/0EFJcvdIgISyRJsVSx0ZGw) | [Oceanfloor](https://open.spotify.com/album/5ZWrbw1RN3yg48mQ2O7nL8) | 2:56 | 2021-03-10 |  |

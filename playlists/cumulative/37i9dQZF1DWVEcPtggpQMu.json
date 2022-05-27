@@ -3646,6 +3646,28 @@
     },
     {
       "album": {
+        "name": "Potion No.9",
+        "url": "https://open.spotify.com/album/6HyEnmxcHiDJ3mmAxp2ccF"
+      },
+      "artists": [
+        {
+          "name": "Mark Akol",
+          "url": "https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb"
+        },
+        {
+          "name": "Fentse.",
+          "url": "https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154434,
+      "name": "Potion No.9",
+      "url": "https://open.spotify.com/track/43K5DqzH9ljI4hbMSIH0IW"
+    },
+    {
+      "album": {
         "name": "Pour Mi",
         "url": "https://open.spotify.com/album/2dOy9S4IW92ClGnTbfoIbn"
       },

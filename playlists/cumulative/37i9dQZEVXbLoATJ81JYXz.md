@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-825 songs - 1 day 19 hr 49 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+826 songs - 1 day 19 hr 52 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Bonaqua](https://open.spotify.com/track/04wlQQIfl6MfHuWxvEsSYO) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Bonaqua](https://open.spotify.com/album/2k4VBt0yuq6QkA050ucVL3) | 1:47 | 2022-05-12 |  |
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-09-28 | 2021-09-30 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-12 | 2022-03-21 |
-| [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-22 |  |
+| [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-22 | 2022-05-27 |
 | [Brividi](https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Brividi](https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7) | 3:19 | 2022-05-16 | 2022-05-23 |
 | [Brottslingar](https://open.spotify.com/track/5o8lrG703lxW7sxvLzIWhC) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Unge Med Extra Energi](https://open.spotify.com/album/6WZR2h3rFvJH8DKq3oHt6T) | 3:03 | 2021-10-23 | 2021-10-24 |
 | [Brände hela lönen](https://open.spotify.com/track/6ro4XzciI1U2JMZd3QfM2u) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Brände hela lönen](https://open.spotify.com/album/3kJ50xZWdFsdZAwnZsZPz2) | 2:45 | 2021-10-01 | 2021-10-04 |
@@ -402,7 +402,7 @@
 | [Just A Notion](https://open.spotify.com/track/1vzLCOukxhUA26QnqACxVL) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Just A Notion](https://open.spotify.com/album/2GaJEBV9MsxCsAInGtMRJ6) | 3:31 | 2021-10-23 | 2021-10-27 |
 | [Just A Notion](https://open.spotify.com/track/3ZqqHOM10rD7y3G6bxDXTv) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 3:31 | 2021-11-07 | 2021-11-12 |
 | [K.O.D \(King Of Drill\)](https://open.spotify.com/track/4X59uo53JSZcUXEudq3Vvm) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [K.O.D \(King Of Drill\)](https://open.spotify.com/album/6Wwn25Qi4Y66XTDQ92dghK) | 3:14 | 2021-06-20 | 2021-06-26 |
-| [Kan Inte Gå](https://open.spotify.com/track/1fIeKG6eI8FZzVL9mhlz8t) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/7cQO00BC8vzlGuQelUxt3g) | 2:26 | 2021-12-30 | 2022-01-08 |
+| [Kan Inte Gå](https://open.spotify.com/track/1fIeKG6eI8FZzVL9mhlz8t) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/7cQO00BC8vzlGuQelUxt3g) | 2:26 | 2021-12-30 |  |
 | [Katten i trakten](https://open.spotify.com/track/3MZp8Ilx8eW2wSujWn3LnG) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Första Klass](https://open.spotify.com/album/5W4QltYoETJuRVqkcwWOtl) | 2:36 | 2021-10-23 | 2021-11-07 |
 | [Keep An Eye On Dan](https://open.spotify.com/track/1OC16r1BdQO6hK2iqmvwXF) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 4:05 | 2021-11-07 | 2021-11-11 |
 | [Keep My Spirit Alive](https://open.spotify.com/track/4IlOyxGATYUp7YVy5zrSW8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:41 | 2021-09-01 | 2021-09-02 |
@@ -509,7 +509,7 @@
 | [Motorola](https://open.spotify.com/track/5EhNalC8HJFOMNbCFibHqB) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Motorola](https://open.spotify.com/album/0PglzuO6a9erhsxzsCFfPY) | 2:44 | 2021-08-15 | 2021-10-03 |
 | [Moving Like That](https://open.spotify.com/track/780E9OsxVwOjhwxCxTurU3) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Moving Like That](https://open.spotify.com/album/32FC7UO1DuuzlTgkoLP7VJ) | 2:49 | 2022-02-07 | 2022-03-16 |
 | [Murda](https://open.spotify.com/track/3aIATlpQ3pnYPc7ebsBuRk) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Murda](https://open.spotify.com/album/7zyLsOvZK4RisxC05iJ0Wh) | 2:42 | 2021-06-16 | 2021-07-12 |
-| [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-22 |  |
+| [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-22 | 2022-05-27 |
 | [MUSIK ELLER METALL](https://open.spotify.com/track/5vQk0ckwdC5VldGJvt2LlO) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [MUSIK ELLER METALL](https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS) | 3:20 | 2022-02-26 | 2022-03-13 |
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2021-11-21 | 2021-11-28 |
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2021-10-17 | 2022-01-08 |
@@ -693,6 +693,7 @@
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2021-08-22 | 2021-08-29 |
 | [SUN GOES DOWN](https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SUN GOES DOWN](https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0) | 2:48 | 2021-05-23 | 2021-05-24 |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2021-11-14 | 2021-11-14 |
+| [SUPA](https://open.spotify.com/track/4gORd3Ws62ueWU2tQ2Fe16) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [SUPA](https://open.spotify.com/album/74R5y9CwBBcBNGTmm1vkww) | 2:58 | 2022-05-26 |  |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-16 |  |
 | [Svag](https://open.spotify.com/track/4SS4YfDAEQG0fZAe1xfgn3) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fånga mig när jag faller](https://open.spotify.com/album/3dXd7zPtfgASvaxo0jIAtu) | 3:11 | 2021-03-27\* | 2022-03-01 |
 | [Sveparen](https://open.spotify.com/track/4n4VeRFf8gFLjHHANAOuX3) | [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy) | [Sveparen](https://open.spotify.com/album/6BPVqVQ2KuNTvABtg7nM5p) | 2:47 | 2021-08-13 | 2021-08-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,674 likes - 54 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,809 likes - 54 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 47 | [To The Stars \- Dragonheart/Soundtrack Version](https://open.spotify.com/track/5LeCbkjJuhtqQhwXziPgUn) | [Randy Edelman](https://open.spotify.com/artist/3shMd6Vll0mOcviQ3hrk8m) | [Dragonheart](https://open.spotify.com/album/5Xdpw2hXUfkx7YCUwkD38X) | 3:14 |
 | 48 | [Score Suite](https://open.spotify.com/track/4jVaVybiUiKHPd0SxfU3ZK) | [Nate Heller](https://open.spotify.com/artist/1upi0p1RPmbUDRvbDjxNKn) | [A Beautiful Day in the Neighborhood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ivFRy56HgNNiwYeeTdIIa) | 4:46 |
 | 49 | [Leaping Penguins](https://open.spotify.com/track/4axwWfy5bqOQeZ0adeJ6XU) | [George Fenton](https://open.spotify.com/artist/0NdNx5JwLDvas2LsMVTSyQ), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg) | [Frozen Planet \(Soundtrack from the TV series\)](https://open.spotify.com/album/3A4JADKRXmANcPAPB8UHwn) | 1:28 |
-| 50 | [The Burning Bush \- The Prince Of Egypt/Soundtrack Version](https://open.spotify.com/track/5tgyHc2LLF0BI2udBTMFJz) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Prince of Egypt](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 7:16 |
+| 50 | [The Burning Bush](https://open.spotify.com/track/5tgyHc2LLF0BI2udBTMFJz) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 7:16 |
 | 51 | [End Titles](https://open.spotify.com/track/1CxT3WZkSuEAxPOKAPzDDl) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [The Duchess \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6nOhQTzY8IZPRcYpkfZOsl) | 2:08 |
 | 52 | [Adventures of a London Gentleman](https://open.spotify.com/track/16iqQIS5kz8tj2EeoDvq7i) | [Christopher Willis](https://open.spotify.com/artist/1Qu6r22G2M8Xqz0GawYv8P) | [The Personal History of David Copperfield \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5b1HuHbpxKSfnjmuHFhFVW) | 3:49 |
 | 53 | [Stationary Cycle](https://open.spotify.com/track/3MZwaRLlfyvPSIP7qHpBO8) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T), [Mark Graham](https://open.spotify.com/artist/2n2ZWyoCn0jr3I5rhDoFAw) | [The Secret Life of Walter Mitty \(Original Motion Picture Score\)](https://open.spotify.com/album/2pLC40gyEsQljWWBV3zA1T) | 2:43 |

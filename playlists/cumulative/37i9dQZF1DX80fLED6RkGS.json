@@ -943,7 +943,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 180000,
       "name": "Finya",
       "url": "https://open.spotify.com/track/2dHGw0MEmJbLvEUatFMIYv"
@@ -1283,6 +1283,32 @@
       "duration_ms": 184056,
       "name": "Kanuthu",
       "url": "https://open.spotify.com/track/06kYoTv4WcXaSjXazTUQNp"
+    },
+    {
+      "album": {
+        "name": "Katanuka",
+        "url": "https://open.spotify.com/album/3500494yeDLhAtfmeZlAfg"
+      },
+      "artists": [
+        {
+          "name": "Swat Matire",
+          "url": "https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV"
+        },
+        {
+          "name": "Squidkeed",
+          "url": "https://open.spotify.com/artist/02SjzogcIm6bHsajJx9t5b"
+        },
+        {
+          "name": "Ocham",
+          "url": "https://open.spotify.com/artist/5pDIbIkgrFgZTc3fVZhY9K"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185521,
+      "name": "Katanuka",
+      "url": "https://open.spotify.com/track/1k7rJQ0f1ApSrKJ0deERhd"
     },
     {
       "album": {

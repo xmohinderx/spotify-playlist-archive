@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Sister Rosetta Tharpe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,439 likes - 74 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,540 likes - 74 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 10 | [Shake, Rattle and Roll](https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:59 |
 | 11 | [Cherry Wine](https://open.spotify.com/track/270guq76BC67EWsmaCa3WL) | [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [Better Beware](https://open.spotify.com/album/2W2T5z6MVrE6JvNFWk1onO) | 2:20 |
 | 12 | [Highway 49](https://open.spotify.com/track/12notHo8LwKc09rKORGtAQ) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC), [Charlie Watts](https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k), [Hubert Sumlin](https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9) | [The London Howlin’ Wolf Sessions \(Deluxe Edition\)](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 2:47 |
-| 13 | [You Can't Judge A Book By It's Cover](https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [The Chess Box](https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8) | 3:14 |
+| 13 | [You Can't Judge A Book By Its Cover](https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [The Chess Box](https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8) | 3:14 |
 | 14 | [We're Gonna Rock, We're Gonna Roll](https://open.spotify.com/track/7n4jHBUYOtwr8AkEihuwL2) | [Wild Bill Moore](https://open.spotify.com/artist/6qVDOKAgcvJ5YQcjQhlf4a), [Paul Williams](https://open.spotify.com/artist/3f626JSVauIhTQgatsFcs4) | [Stompin' At The Savoy: The Original Indie Label, 1944\-1961](https://open.spotify.com/album/7FX7LtZgNBhC56MkUMfhCf) | 2:38 |
 | 15 | [Whole Lotta Shakin' Goin' On](https://open.spotify.com/track/2QrBIUz6Mbmkh5dqcLzTHp) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 2:44 |
 | 16 | [You Got Me Reelin' and Rockin'](https://open.spotify.com/track/5FM7lUBj36sQ9KILeHhnXJ) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [Dootone Rock 'n' Rhythm & Blues](https://open.spotify.com/album/56zXv7XnMWRZk3rtdUO1Mq) | 2:09 |

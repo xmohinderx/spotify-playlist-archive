@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> La scena italiana indipendente, senza etichette di genere\. Cover: Forse Danzica
+> La scena italiana indipendente, senza etichette di genere\. Cover: Hanami
 
-217 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+218 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [OSIRIDE](https://open.spotify.com/track/3RPOqq5pytLKQRuryDKSSU) | [Rebecca](https://open.spotify.com/artist/4qglWCdo4uyHaBay75PWYM) | [OSIRIDE](https://open.spotify.com/album/6USaG2oaJFq1hy8GqFDFXW) | 2:44 | 2022-04-08 | 2022-05-06 |
 | [paralosofia](https://open.spotify.com/track/3n4VTinSBZKzxXyWiVTGUN) | [Bravo, Bravissimo](https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4) | [paralosofia](https://open.spotify.com/album/2xJLLXbjGnMBJElImH9SMn) | 2:33 | 2022-04-08 |  |
 | [Pensiero magico](https://open.spotify.com/track/2Kann8MkDiYwDutctlgxyX) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Entropia Padrepio](https://open.spotify.com/album/1fs6tfBsU6HOl9Oa6IKnEN) | 3:12 | 2022-05-19 |  |
-| [Per difetto della crescita](https://open.spotify.com/track/6vkDQEKmEvSQy2oGwRN4hH) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3), [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk), [Lucky lapolo](https://open.spotify.com/artist/10BLKtKUuaAx5mUu14ipFo) | [L’industria, il pop, la camera, il sesso](https://open.spotify.com/album/5eI8V3EE321knkysf7pkPH) | 2:03 | 2022-03-17 |  |
+| [Per difetto della crescita](https://open.spotify.com/track/6vkDQEKmEvSQy2oGwRN4hH) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3), [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk), [Lucky lapolo](https://open.spotify.com/artist/10BLKtKUuaAx5mUu14ipFo) | [L’industria, il pop, la camera, il sesso](https://open.spotify.com/album/5eI8V3EE321knkysf7pkPH) | 2:03 | 2022-03-17 | 2022-05-27 |
 | [persa](https://open.spotify.com/track/7h7ZIjlUNlg3rrAw8m27yv) | [Jacopo](https://open.spotify.com/artist/4AEX5pSlB335DnmKZFTvT6), [VDN](https://open.spotify.com/artist/4aINMnSbwDnkR44YPqGqHx) | [persa](https://open.spotify.com/album/5ukiqEhyrVcIGDWZXXmE2G) | 2:27 | 2022-03-24 | 2022-05-06 |
 | [peso](https://open.spotify.com/track/5tlyVD3W2yvAgnK2l9HkDD) | [lambruscoxsimoeddai](https://open.spotify.com/artist/49wMxmMKaVlFwKBrrmPvGQ) | [peso](https://open.spotify.com/album/3b5BAQ20h2VRaeXR7ZB5hG) | 2:40 | 2022-04-08 |  |
 | [Piangi mai \(domani\)](https://open.spotify.com/track/1aYYkE4vIycFLgy2IJrlGZ) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Piangi mai \(domani\)](https://open.spotify.com/album/0MwrHf04OMj7HOG29XC5ev) | 2:32 | 2022-03-03 | 2022-05-06 |
@@ -155,6 +155,7 @@
 | [Plata o Plomo](https://open.spotify.com/track/6df02d2Z4huWdCHC3Z11za) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [Plata o Plomo](https://open.spotify.com/album/1xwusIAkk54BU8cuDJJqSQ) | 2:15 | 2022-03-03 | 2022-03-25 |
 | [Porpora](https://open.spotify.com/track/4wQlWWwxQn2MD5bowV2BwV) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Lunaire](https://open.spotify.com/album/4yoxH6CFV5aVbUE8Pb8HBm) | 2:55 | 2022-05-18 |  |
 | [PREMI PLAY](https://open.spotify.com/track/3X1l6zRsguD3Fiiw9Aa1Be) | [Giovanni Neve](https://open.spotify.com/artist/5EZhdYH1kaoL7mUQe9U7LA) | [Premi Play](https://open.spotify.com/album/4McxEPqiG19gjFGlpxXY62) | 2:44 | 2022-02-25 | 2022-03-04 |
+| [Punto e a capo](https://open.spotify.com/track/5avRtlxCtBeeGKqTilmkeq) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe) | [Punto e a capo](https://open.spotify.com/album/1mB5d9KmlC62drAZxz4BVd) | 3:07 | 2022-05-26 |  |
 | [Quando](https://open.spotify.com/track/74ksYBVr5TRuWOcfiv9yk9) | [L I M](https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF) | [Quando](https://open.spotify.com/album/2adLcYLHWnXTAFgVlAq5I1) | 5:11 | 2022-02-17 | 2022-03-18 |
 | [quattro](https://open.spotify.com/track/5o39NoEvZyZl3jvL2CCX61) | [bianca](https://open.spotify.com/artist/6Cuyy7LGKfJqK91oFBd2yc) | [quattro](https://open.spotify.com/album/5COv2rWgGH0aTosXpgsHwe) | 3:04 | 2022-03-03 | 2022-05-20 |
 | [Quattro pareti](https://open.spotify.com/track/7COhIpIAija8bWiHXp7MYu) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Tutti ammassati senza affetto](https://open.spotify.com/album/68kEQqgumoIrBGHQeD9aBH) | 3:09 | 2022-03-17 |  |

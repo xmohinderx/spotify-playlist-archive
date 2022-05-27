@@ -2,9 +2,9 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> \\m/ ft\. waterparks
+> \\m/ ft\. lølø
 
-228 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
+234 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [California](https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [girlfriends](https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ) | 2:43 | 2021-12-31 | 2022-01-08 |
 | [Cannonball](https://open.spotify.com/track/6xXzhKhNNmBJ4q0Qzw485o) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:18 | 2022-02-25 |  |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-28 |  |
+| [Cemetery Drive](https://open.spotify.com/track/2cViIXIe8Pbd1sOJExMJlK) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:08 | 2022-05-26 |  |
 | [CHASING DAYLIGHT](https://open.spotify.com/track/0GbR5S3hwd82Bk34FhjtQQ) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [CHASING DAYLIGHT](https://open.spotify.com/album/39sPvZlY3dkNblSzDgeMVp) | 2:43 | 2022-05-12 |  |
 | [Check Yes Juliet](https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/2F1hfUOuMnOxtSfrktL8VX) | 3:40 | 2021-12-31 | 2022-01-08 |
 | [Cherry Picking](https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Cherry Picking](https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8) | 2:30 | 2022-03-04 |  |
@@ -87,6 +88,7 @@
 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 | 2021-12-31 | 2022-01-08 |
 | [Freaks & Geeks](https://open.spotify.com/track/3ZGQI9j7Sal0lMXeNlr0Da) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Freaks & Geeks](https://open.spotify.com/album/6cn8UgYmHfsNr6tCQM3xud) | 2:20 | 2022-02-04 |  |
 | [FRIDAY \(feat\. Trippie Redd\)](https://open.spotify.com/track/6IRtUdofXMANdsFYnJZ9WT) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [FRIDAY \(feat\. Trippie Redd\)](https://open.spotify.com/album/5uJnlGCJ1sXmB5vyEBKGn8) | 2:19 | 2022-01-07 | 2022-01-14 |
+| [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 | 2022-05-26 |  |
 | [FUCKED OVER \(feat\. phem and Tosh the Drummer\)](https://open.spotify.com/track/4A7EvacZyKyi97mvt8ARf0) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Tosh the Drummer](https://open.spotify.com/artist/4UtLdjkUvG4AROVpFXaIhq) | [FUCKED OVER \(feat\. phem and Tosh the Drummer\)](https://open.spotify.com/album/1tN0QtmPuVWD07Nty0UXG5) | 2:44 | 2022-02-18 | 2022-04-01 |
 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-05-12 |  |
 | [Funeral Song](https://open.spotify.com/track/5YhcuDLcXyEJMjOhLdrsxd) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Funeral Song](https://open.spotify.com/album/7AOjSIoERrZXlLpW30HXwM) | 2:44 | 2022-01-07 | 2022-02-04 |
@@ -98,6 +100,7 @@
 | [Happy Ending](https://open.spotify.com/track/0LUTSrKd5JmBPVv9M16CWg) | [Marigolds+Monsters](https://open.spotify.com/artist/0Zzqjs8EyDL2ReYnkch8mZ), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [Happy Ending](https://open.spotify.com/album/5btsp25DzGsnA0GI8jmsD3) | 2:48 | 2022-04-21 | 2022-04-29 |
 | [Hash Pipe](https://open.spotify.com/track/3GcVQCRSaPNupmf65YKyQI) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/5gtctTykBQ0ozI7KsUCYMe) | 3:05 | 2021-12-31 | 2022-01-08 |
 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 | 2022-02-11 | 2022-04-01 |
+| [Hearteater](https://open.spotify.com/track/0A67MlQCkvswYwi5kEK9Zi) | [LAYNE](https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69) | [Hearteater](https://open.spotify.com/album/5ovHuIDD4DzC6D2qc5x5tI) | 2:56 | 2022-05-26 |  |
 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 | 2021-12-31 | 2022-01-08 |
 | [Hellbound](https://open.spotify.com/track/1EXm3LiwvcJA9t4xA6kp1V) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Hellbound](https://open.spotify.com/album/1kfFVkWbq62lKHWtW2yPj8) | 2:45 | 2022-01-07 | 2022-03-25 |
 | [Her](https://open.spotify.com/track/02KSPbKGTGn3bfrtediUWF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/0uNIaCQrRPUMkdnev3zMRt) | 2:08 | 2022-03-31 |  |
@@ -175,6 +178,7 @@
 | [Pretty Mouth](https://open.spotify.com/track/3uRpghZyzWNxjE688zl58Q) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [Pretty Mouth](https://open.spotify.com/album/0QOFmYTyIs9e1nyOdwBbgW) | 2:55 | 2022-02-04 |  |
 | [Punk](https://open.spotify.com/track/0tWjWVYAUOIDUEOhW8xTS1) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 2:17 | 2022-01-07 | 2022-02-18 |
 | [R.I.P](https://open.spotify.com/track/37PZSNSxLG6iuJAlUo8Wqv) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [R.I.P](https://open.spotify.com/album/2PkakWXe2YnTBVv0QsRyNc) | 3:05 | 2022-03-25 | 2022-04-29 |
+| [Sad Girl Summer](https://open.spotify.com/track/52ITJgaQHGQ4Uxnqz44jWP) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Summer](https://open.spotify.com/album/6BD3f64782idv4IF2npufe) | 3:13 | 2022-05-26 |  |
 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 | 2021-12-31 | 2022-01-08 |
 | [See Through You](https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [See Through You](https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf) | 3:44 | 2022-01-14 | 2022-04-01 |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-01-28 | 2022-04-01 |
@@ -192,6 +196,7 @@
 | [sober](https://open.spotify.com/track/7qhIVH6Vov1CxFX7X7s8RM) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [BOYFRIENDZ](https://open.spotify.com/artist/0iZ1Gwx0L2YqRDBTF3JzqT) | [sober](https://open.spotify.com/album/1EicEDUEVlEAYYWPIL8Oxf) | 3:06 | 2022-01-07 | 2022-03-18 |
 | [Sober/Hungover \(feat\. Arizona Zervas\)](https://open.spotify.com/track/4yfQyGR61s7Mc5898V1BE6) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [Sober/Hungover \(feat\. Arizona Zervas\)](https://open.spotify.com/album/7eZqdxIfr07B8Vr02Ijd5K) | 2:49 | 2022-01-07 | 2022-01-28 |
 | [Step Mum](https://open.spotify.com/track/5WUWMhGe3d2Uok2AGQBBcv) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Step Mum](https://open.spotify.com/album/48LpBIwni5aHpYil0eaMTp) | 2:08 | 2022-05-12 |  |
+| [STFU](https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [STFU](https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf) | 2:52 | 2022-05-26 |  |
 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 | 2021-12-31 |  |
 | [Still Running \(5K\) \(feat.DJ Lethal\)](https://open.spotify.com/track/0ZVEWpBhZ5sJKD5ZWn8ieG) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [DJ Lethal](https://open.spotify.com/artist/2ajHgsmpiyhXrx3JoigTO2) | [Still Running \(5K\)](https://open.spotify.com/album/1Rb4OowmozoRFy2qpR6tnT) | 3:36 | 2022-03-31 | 2022-04-29 |
 | [Stop it](https://open.spotify.com/track/21K4Irg91lZvVifnBxVdVZ) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG) | [Stop it](https://open.spotify.com/album/3us1VOBUhYMEdUcHVeoM71) | 3:48 | 2022-04-07 | 2022-05-13 |
@@ -220,6 +225,7 @@
 | [u look stupid](https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u look stupid](https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI) | 2:28 | 2022-03-08 | 2022-03-09 |
 | [U Love It](https://open.spotify.com/track/4tvVKTTnvDal5mUhf80RJC) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [U Love It](https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi) | 2:40 | 2022-02-18 | 2022-04-01 |
 | [UNCOMPLICATED](https://open.spotify.com/track/2u1I5zNsB0FzoVhuzCCszK) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [UNCOMPLICATED](https://open.spotify.com/album/1bY6MJZFiRStXOHnIolIhn) | 2:29 | 2022-01-07 | 2022-03-25 |
+| [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/album/5lxHNkhOXyJ2mHnGxsbzeu) | 2:18 | 2022-05-26 |  |
 | [Uzumaki](https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Snake](https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE) | 3:31 | 2022-02-04 | 2022-04-01 |
 | [Validation](https://open.spotify.com/track/1I1inSPAYCKKyi8CUk36DG) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Validation](https://open.spotify.com/album/02qo5nqVims1IsSJMjXXXb) | 2:43 | 2022-01-07 | 2022-03-25 |
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-01-21 |  |

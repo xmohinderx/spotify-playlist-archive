@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: kelz Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,557 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,719 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 22 | [Socks](https://open.spotify.com/track/7sGlmEjFjA4EPOnKkzmqNF) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [Socks](https://open.spotify.com/album/39SRNgGhCisc1xScOrpsVE) | 2:53 |
 | 23 | [We Don't Talk](https://open.spotify.com/track/1i7FsxeHL4ucIaEUjkK8tB) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [We Don't Talk](https://open.spotify.com/album/69EnFZJj2dKshASrtQIash) | 3:25 |
 | 24 | [Damaged Goods](https://open.spotify.com/track/73F9DkiAcspOheOXaPaOKE) | [Moonpools](https://open.spotify.com/artist/1eD5LHUXByotygvcu8axHn) | [Damaged Goods](https://open.spotify.com/album/0TgrqyKAD59Tdf4sraY0Xt) | 4:15 |
-| 25 | [Back In The Game](https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis](https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513) | 3:28 |
+| 25 | [Back In The Game](https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis: Final Stage](https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513) | 3:28 |
 | 26 | [Minute To Rest](https://open.spotify.com/track/4zdOIMF9I9o7kIh3IdHZjL) | [MAUGER](https://open.spotify.com/artist/0xYTp14znacYOEZ1ieRsvD) | [Minute To Rest](https://open.spotify.com/album/4kBi8qub65IWOvE2qHhHuv) | 3:48 |
 | 27 | [prairie](https://open.spotify.com/track/4KqUA7DOESN0WDS6mr1e9H) | [frogi](https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen) | [space to grow a garden](https://open.spotify.com/album/28Yf870IsUKsAx73H8Zuyv) | 4:04 |
 | 28 | [In Our Own Backyard](https://open.spotify.com/track/4ApefEche3lwf2eSiptDAR) | [TUSHAR](https://open.spotify.com/artist/4Z4QSQuaIocs1CPUEM8shD) | [In Our Own Backyard](https://open.spotify.com/album/095Z4UO1NFP2FFrR9VYqj7) | 3:32 |

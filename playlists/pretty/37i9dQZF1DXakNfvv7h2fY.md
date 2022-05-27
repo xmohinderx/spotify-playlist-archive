@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 
 > Rain keep a fallin’ round my window pane.\. Blues to warm the soul when there’s no point going outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,128 likes - 55 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,152 likes - 55 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 | 31 | [Trust My Baby \- Mono Version](https://open.spotify.com/track/3nzlpFJW2uvMzBliyTwois) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:44 |
 | 32 | [Hard Time Killing Floor](https://open.spotify.com/track/6gQ9gDBM2FZ7sOtkxWL59B) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Wish I Was in Heaven Sitting Down](https://open.spotify.com/album/3NU8Dd4nEqPs7zHJtJ0G5o) | 5:09 |
 | 33 | [My Love Will Never Die](https://open.spotify.com/track/4CSfhjIwodTBVOpuU8pxG8) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [The Essential Otis Rush](https://open.spotify.com/album/2xRWG3ikjf8O1tiQxJCW68) | 3:06 |
-| 34 | [My Home Is In The Delta](https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Folk Singer](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 4:01 |
+| 34 | [My Home Is In The Delta](https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 4:01 |
 | 35 | [My Baby She Gonna Jump And Shout](https://open.spotify.com/track/0qbLQoKO4D8YUVhyyBHdJQ) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [I Do Not Play No Rock 'N' Roll: The Complete Sessions](https://open.spotify.com/album/5whqFDdbEZHSaKHrTfuWbX) | 2:40 |
 | 36 | [Personal Manager](https://open.spotify.com/track/3rdggOvseyMgqFFbWLLp8W) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/7EiLL71SlxHaYQrROg8BFa) | 4:30 |
 | 37 | [Blues With A Feeling](https://open.spotify.com/track/6oQFjbpdEaiOkvwURZR3Yi) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [His Best \- The Chess 50th Anniversary Collection](https://open.spotify.com/album/7iaxZVDD9GDsJqHupSzJI0) | 3:10 |

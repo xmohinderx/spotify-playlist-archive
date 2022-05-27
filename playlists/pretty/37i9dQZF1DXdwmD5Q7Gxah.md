@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > thanks to the music\. featuring spill tab, ericdoa, harry styles obv, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,523 likes - 115 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,481 likes - 115 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,33 @@
 {
   "description": "New joints of the week featuring Quavo, Takeoff, 42 Dugg and more. Cover: Moneybagg Yo",
-  "num_followers": 164346,
+  "num_followers": 164531,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzMzMzE1NiwwMDAwMDBkNjAwMDAwMTgwZjI1NWUwZDkwMDAwMDE4MGRkYmVlYmY2",
+  "snapshot_id": "MTY1MzU0MDgxNywwMDAwMDBkNzAwMDAwMTgwZmViNjhjM2UwMDAwMDE4MGRkYmVlYmY2",
   "tracks": [
+    {
+      "added_at": "2022-05-26 04:53:37",
+      "album": {
+        "name": "Sleazy Flow (Remix)",
+        "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 161355,
+      "name": "Sleazy Flow (with Lil Baby) - Remix",
+      "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
+    },
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {

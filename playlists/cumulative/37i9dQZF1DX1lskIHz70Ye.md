@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-110 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
+111 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Besame Mucho](https://open.spotify.com/track/7KxBdPVi9B0l3NflndE83D) | [Lluis Cuadrench](https://open.spotify.com/artist/4dspUz9gp6cCTQPTqLJSZC) | [Guitarra Latina](https://open.spotify.com/album/2NCwEfErgg0u8bWpVJOo9h) | 3:20 | 2022-03-03 |  |
 | [Better Day](https://open.spotify.com/track/5fnVL2fGMFS5cwa2SQGXiv) | [Esbjörn Öhrwall](https://open.spotify.com/artist/5ugCpOAuzxIERU70NtSLjz) | [Better Day](https://open.spotify.com/album/76KdJF0ReBY7NlolwLFsPj) | 3:12 | 2022-03-03 |  |
 | [Black Orpheus](https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z) | [Denisinho](https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6) | [Blue Bossa](https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g) | 3:01 | 2022-03-03 |  |
-| [Bolero Mientras Tanto](https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Bolero Mientras Tanto](https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z) | 2:59 | 2022-03-03 |  |
+| [Bolero Mientras Tanto](https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Bolero Mientras Tanto](https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z) | 2:59 | 2022-03-03 | 2022-05-27 |
 | [Bossa for Baden](https://open.spotify.com/track/0xp48lPf2ngBBC9CgW9LE6) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Botafogo](https://open.spotify.com/album/4RiZs4dwqI2Jybd4nHL59H) | 3:09 | 2022-03-03 |  |
 | [Campeche](https://open.spotify.com/track/3iyvjySmpI2Sxlxbg4Ds7q) | [Mauricio Hernandez Monterrubio](https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6), [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Serenata Huasteca](https://open.spotify.com/album/0t2VyqSCljrNyXjycI0ilk) | 3:38 | 2022-03-03 |  |
 | [Carretera Libertad](https://open.spotify.com/track/0dhVo1Lo1eJT6cOE0AEKWi) | [Liona Boyd](https://open.spotify.com/artist/33lm6MIpEXiHzv06MUIUBu), [Luis Villegas](https://open.spotify.com/artist/4h5NL4qMX8cHrfbUT1j99U) | [Camino Latino](https://open.spotify.com/album/6SabvwpHfzkgzkPwqUb0Wy) | 3:38 | 2022-03-03 |  |
@@ -81,7 +81,7 @@
 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 | 2022-03-03 |  |
 | [Pensando En Ti](https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Pensando En Ti](https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK) | 2:42 | 2022-03-03 |  |
 | [Perfidia](https://open.spotify.com/track/5WQ5a7ixw5DJ5uyQZGD8FP) | [Las Palmas Rosas](https://open.spotify.com/artist/5JoX8uKllGc2qsVy76rgsM) | [Las Palmas Rosas](https://open.spotify.com/album/6JhI7GjDswt6CqQi0cyyuo) | 2:58 | 2022-03-03 |  |
-| [Popurri Revolucionario](https://open.spotify.com/track/3IoOITvmTADnF8t8alXoWP) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Duo: Ramos \- Monterrubio](https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3) | [Guitarras Mexicanas](https://open.spotify.com/album/69KhYjVvtpMvTH0bf0rlPv) | 7:12 | 2022-03-03 |  |
+| [Popurri Revolucionario](https://open.spotify.com/track/3IoOITvmTADnF8t8alXoWP) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Duo: Ramos \- Monterrubio](https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3) | [Guitarras Mexicanas](https://open.spotify.com/album/69KhYjVvtpMvTH0bf0rlPv) | 7:12 | 2022-03-03 | 2022-05-27 |
 | [Por Mi Algun Dia Vendras](https://open.spotify.com/track/51FyeJufmEKsnAvs0UXfpw) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Por Mi Algun Dia Vendras](https://open.spotify.com/album/6W9Mi99vA15orWdmxqptJu) | 3:03 | 2022-03-03 |  |
 | [Private Investigation](https://open.spotify.com/track/5UJX41yJ3og8Jb1Gn6kjMv) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Private Investigation](https://open.spotify.com/album/5h0J1K7pgcNeILEhv472rN) | 3:04 | 2022-03-03 |  |
 | [Quiereme Corazon Quiereme](https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Quiereme Corazon Quiereme](https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK) | 2:54 | 2022-03-03 |  |
@@ -97,6 +97,7 @@
 | [Serenata Campechana](https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Duo: Ramos \- Monterrubio](https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3) | [Guitarras Mexicanas, Vol\. 2](https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b) | 4:16 | 2022-03-03 |  |
 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 | 2022-03-03 |  |
 | [Somewhere In Between](https://open.spotify.com/track/6LQycnoIFwhHV30LJE4Q8G) | [Anila Mirela](https://open.spotify.com/artist/5ZyBxKhm8yMw8HCMWE5u3b) | [Somewhere In Between](https://open.spotify.com/album/19wUyXRjqtW5VcOqoiTMSd) | 2:23 | 2022-03-03 |  |
+| [Sonata Bwv 1001 \- \(Siciliano\)](https://open.spotify.com/track/0m2bd4V456cYNWWM1AIW0g) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Adrián Montero](https://open.spotify.com/artist/081MBszlzVJ1QTxXrlotY3) | [Sonatas & Partita](https://open.spotify.com/album/4CI2y9jPflgEFP9FXdgy2d) | 3:04 | 2022-05-27 |  |
 | [Suave](https://open.spotify.com/track/4MTpIFPmOhMuasTQLHoEtm) | [Roman Ticker](https://open.spotify.com/artist/2N3alU1QULBStjDC38TldG) | [Ipanema Dreams](https://open.spotify.com/album/5t9rpIS1nZA3QUu0WezT4X) | 2:08 | 2022-03-03 |  |
 | [Summer Bolero](https://open.spotify.com/track/2TpnRrHffsh7aeYgPWrGdK) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Summer Bolero](https://open.spotify.com/album/5FOX3HXCU2JH47vrNSUnAy) | 3:19 | 2022-03-03 |  |
 | [Sunday Afternoon](https://open.spotify.com/track/2Wh7EN2hw9LMQ5yCDByuZY) | [Sam Edwards](https://open.spotify.com/artist/4LPoFO74bCM3VqcLryqJqZ) | [Venezia Dreams](https://open.spotify.com/album/3Mh1ys1CHwfETM4yE79in2) | 3:11 | 2022-03-03 |  |

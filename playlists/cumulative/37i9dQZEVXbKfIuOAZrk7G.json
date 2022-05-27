@@ -1772,7 +1772,7 @@
       "artists": [
         {
           "name": "Dax",
-          "url": "https://open.spotify.com/artist/5t4eU2GW1HoM1ditytx0eS"
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
         }
       ],
       "date_added": "2022-05-24",
@@ -2953,7 +2953,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 234857,
       "name": "Free",
       "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
@@ -4073,7 +4073,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 123428,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/5yfMsbJda8sXVfnJHgm8Ke"
@@ -5032,6 +5032,24 @@
     },
     {
       "album": {
+        "name": "Love Me More",
+        "url": "https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190658,
+      "name": "Love Me More",
+      "url": "https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3"
+    },
+    {
+      "album": {
         "name": "Mini World",
         "url": "https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH"
       },
@@ -5591,7 +5609,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 201259,
       "name": "Move It",
       "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
@@ -6811,7 +6829,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 171333,
       "name": "Richest Killers",
       "url": "https://open.spotify.com/track/1Tcx4BMphr7XayLP3tgFzG"
@@ -7627,7 +7645,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 179545,
       "name": "Stefania (Kalush Orchestra)",
       "url": "https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq"
@@ -8401,7 +8419,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 269333,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
@@ -8761,6 +8779,28 @@
       "duration_ms": 138969,
       "name": "Verified Choppa 2",
       "url": "https://open.spotify.com/track/7HrHYsLaa8JHY9S7EETKfb"
+    },
+    {
+      "album": {
+        "name": "VooDoo",
+        "url": "https://open.spotify.com/album/1ImWN8VtzmAZcoYjc0dNtO"
+      },
+      "artists": [
+        {
+          "name": "BOA QG",
+          "url": "https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ"
+        },
+        {
+          "name": "BOA Hunxho",
+          "url": "https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "VooDoo - Original Mix",
+      "url": "https://open.spotify.com/track/4unr5Fdon9ADjCW4irnRxf"
     },
     {
       "album": {

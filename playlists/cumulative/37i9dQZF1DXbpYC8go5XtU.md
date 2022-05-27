@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-122 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
+123 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Animal](https://open.spotify.com/track/1v09ATzQfzToQrBgu0mkD6) | [Conor C\. Ellis](https://open.spotify.com/artist/2HR4D4z3iLHR57uszqD7mC) | [Soft Earth](https://open.spotify.com/album/7icKhOFCKAwpaLqXUzT68B) | 3:12 | 2021-12-22 |  |
 | [Aru](https://open.spotify.com/track/3imnDatPTaEg1Y1SuBlvEs) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Hibi](https://open.spotify.com/album/2ilbAhaYpdlFGe5e3FzRhS) | 2:46 | 2021-12-22 |  |
 | [Ashore](https://open.spotify.com/track/7okAPL9Qoj88byNDbuIjiV) | [Ebauche](https://open.spotify.com/artist/5n0eez6NwUmuLTn2AwA0i3) | [Adrift](https://open.spotify.com/album/19jaJ8g4HUynwp0fREHFe4) | 9:20 | 2021-12-22 |  |
+| [Ballad of a Sleepless Traveler](https://open.spotify.com/track/1o5IIGHsAPrOcehvvfmP7K) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Ballad of a Sleepless Traveler](https://open.spotify.com/album/0lk0cAw5RSaFwEbEJrnxoT) | 3:37 | 2022-05-25 |  |
 | [beautiful soundscape \- Spa Edit](https://open.spotify.com/track/6w9GkQiwwzCv9N1LXeyBds) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [beautiful soundscape \(Spa Edit\)](https://open.spotify.com/album/0vr9IDaXieLwJeEmn1RQxV) | 3:24 | 2021-12-22 |  |
 | [Bee](https://open.spotify.com/track/0G36xXARmnPKGTAbEsaliO) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [The Garden](https://open.spotify.com/album/2bJ0Z7NdzjwXnTAEMtsZy4) | 7:04 | 2021-12-22 |  |
 | [Behind the Concrete Factory](https://open.spotify.com/track/2JiHVCcOnNXPybtPnuZ6QC) | [Jeremy Bible](https://open.spotify.com/artist/3SQ0WBoZkDVKbgUoUcABxF) | [2 \| Favourite Places](https://open.spotify.com/album/0fTqNmy4y8aS2a0EatQN8x) | 6:26 | 2021-12-22 |  |

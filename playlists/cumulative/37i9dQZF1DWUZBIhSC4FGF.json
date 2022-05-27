@@ -1082,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "whisper",
+        "url": "https://open.spotify.com/album/0DrbR3dm2neCYUb3Qib5JA"
+      },
+      "artists": [
+        {
+          "name": "Juni Tinley",
+          "url": "https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154342,
+      "name": "whisper",
+      "url": "https://open.spotify.com/track/5MUvU7ylgZmnSjwXuquLXZ"
+    },
+    {
+      "album": {
         "name": "The Melody Within, Vol. 1",
         "url": "https://open.spotify.com/album/06riU4SWaTMPHCfaL0ZvCB"
       },

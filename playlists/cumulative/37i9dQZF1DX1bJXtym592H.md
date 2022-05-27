@@ -4,7 +4,7 @@
 
 > n3xt l3v3l beats.
 
-125 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/6RWlap37sAAYwzLtnEcUiW)
+126 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/6RWlap37sAAYwzLtnEcUiW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [I Won](https://open.spotify.com/track/0FwGhS0DqxoIztkWFeKHfq) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [Lunchbox](https://open.spotify.com/album/0gyxp0W1gjg7AREo5rBrgO) | 3:14 | 2022-04-22 |  |
 | [In the Quarry](https://open.spotify.com/track/1ppAYsMbptKwowB1Za8g7A) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Gossamer](https://open.spotify.com/album/5AndD9M9ccTWQXPJpipz2z) | 2:21 | 2022-04-22 |  |
 | [Inspector Fidget](https://open.spotify.com/track/6qXTQx6WNF4bL8OUqltK5T) | [Monster Guy](https://open.spotify.com/artist/6Aizv6tVH9fFMbEbS4baLY) | [Dangerous Eyes](https://open.spotify.com/album/6fNRme6o5ByiWKfVFIERFz) | 2:07 | 2022-04-22 |  |
+| [Inure](https://open.spotify.com/track/3d6tXqJ2N5yse99MWXGEM4) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Vibes Vol\. 1](https://open.spotify.com/album/4DhTxOxyWYTHQ1G60KthUh) | 2:57 | 2022-05-27 |  |
 | [Is It Summer Yet?](https://open.spotify.com/track/5Ay3j13L32nercEHUNTQCd) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Is It Summer Yet?](https://open.spotify.com/album/6YeBEcDch5a4xAVgCi4VHR) | 1:31 | 2022-04-22 |  |
 | [iykyk](https://open.spotify.com/track/1ljFw0Kwk2iYoQUeg5RAp1) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [gliding on vibes](https://open.spotify.com/album/0FsO0vZwBtOVav3LTmG274) | 2:06 | 2022-04-22 |  |
 | [Jazzy Attitude](https://open.spotify.com/track/1ImlRruQ0ZMShqLNQ47JA7) | [Lush Groovebox](https://open.spotify.com/artist/1XUvAB59xTBce6cacKHuNj) | [Mellow Horizon](https://open.spotify.com/album/4XF3GKpWQuTQHemR24784t) | 1:28 | 2022-04-22 |  |

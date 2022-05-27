@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-169 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+170 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Resonatic](https://open.spotify.com/track/4dBLdbunzf7DmpKpH4Yokj) | [Inverse Gradient](https://open.spotify.com/artist/3DMGcwt4nmTJ3vmCgyvtFl) | [Resonatic](https://open.spotify.com/album/5pzHBFtPkW4tutzOLn5mGy) | 2:40 | 2020-12-08\* |  |
 | [Response](https://open.spotify.com/track/0RxznT4d9yj4Uc70jYC95k) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Response](https://open.spotify.com/album/7jA8d1DuXyHGtN7uWsnFxl) | 3:09 | 2020-12-08\* |  |
 | [Retreat Bubble](https://open.spotify.com/track/1M7KwdBtaGsBNzUcOyidzy) | [Rombos Aran](https://open.spotify.com/artist/5urp8Oh8Gq6I7H53TgRjpi) | [Retreat Bubble](https://open.spotify.com/album/4dwdIrQLJUn0tmpwFtUhKe) | 1:55 | 2021-12-09 |  |
+| [Reveries](https://open.spotify.com/track/2Vjjo1WB2m1YBYyJqrcA9u) | [Dream City](https://open.spotify.com/artist/0xKWlgGQrGhZgWxhbQlBSE) | [Somnolent Summer](https://open.spotify.com/album/7lvhfPxqTsvbM5ZFKPinq2) | 2:02 | 2022-05-26 |  |
 | [Reversoothes](https://open.spotify.com/track/61JqDmHZeYLK2RclRBSr9F) | [Selma Moore](https://open.spotify.com/artist/2JMWh2t6eo5FgtnVUTX7Im) | [Reversoothes](https://open.spotify.com/album/2RNjKIjMIo0FXWk71vzadZ) | 3:07 | 2021-09-30 |  |
 | [Rêves](https://open.spotify.com/track/415qfvQLevoRRug7NsTPxy) | [Ignace Lamar](https://open.spotify.com/artist/1isXKlJdwhM1qWvvIMxZja) | [Rêves](https://open.spotify.com/album/5eM0EWZ2ZqFxihXtzQQirS) | 3:18 | 2021-05-27 |  |
 | [Santa Rosa](https://open.spotify.com/track/3xATEhxjTSArvaWteLLtZg) | [Trifonic](https://open.spotify.com/artist/2TDsrZZt4XXF7iQlr5l20Z) | [Ninth Wave](https://open.spotify.com/album/4NJb6SsQSl8kbTPGdMmwgp) | 6:13 | 2020-12-08\* | 2021-02-16 |

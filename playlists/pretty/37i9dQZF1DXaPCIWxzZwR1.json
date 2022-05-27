@@ -1,12 +1,12 @@
 {
   "description": "next gen pop featuring Benson Boone",
-  "num_followers": 1064906,
+  "num_followers": 1065360,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzUwNjc0MiwwMDAwMDVmMzAwMDAwMTgwZmNhZTlhMjEwMDAwMDE4MGI5ZGMyZmQ4",
+  "snapshot_id": "MTY1MzU3NDcwMywwMDAwMDVmNDAwMDAwMTgxMDBiYjlhMGIwMDAwMDE4MGI5ZGMyZmQ4",
   "tracks": [
     {
       "added_at": "2022-04-27 03:30:26",
@@ -317,20 +317,20 @@
       "url": "https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
+      "added_at": "2022-05-26 14:18:23",
       "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/27UhoXNgvLzxESPMJp0ce8"
+        "name": "(Un)Commentary",
+        "url": "https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO"
       },
       "artists": [
         {
-          "name": "Sofia Karlberg",
-          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
         }
       ],
-      "duration_ms": 184794,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/06wjqfv04KIujAShcz1L23"
+      "duration_ms": 163613,
+      "name": "Devil Doesn\u2019t Bargain",
+      "url": "https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4"
     },
     {
       "added_at": "2022-04-27 03:30:26",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-05-20 04:01:00",
       "album": {
+        "name": "for the girls",
+        "url": "https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 158486,
+      "name": "for the girls",
+      "url": "https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
         "name": "Too Precious",
         "url": "https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk"
       },
@@ -647,18 +663,50 @@
     {
       "added_at": "2022-05-20 04:01:00",
       "album": {
-        "name": "for the girls",
-        "url": "https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB"
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/27UhoXNgvLzxESPMJp0ce8"
       },
       "artists": [
         {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+          "name": "Sofia Karlberg",
+          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
         }
       ],
-      "duration_ms": 158486,
-      "name": "for the girls",
-      "url": "https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM"
+      "duration_ms": 184794,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/06wjqfv04KIujAShcz1L23"
+    },
+    {
+      "added_at": "2022-05-06 04:49:37",
+      "album": {
+        "name": "Cate\u2019s Brother",
+        "url": "https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 180589,
+      "name": "Cate\u2019s Brother",
+      "url": "https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78"
+    },
+    {
+      "added_at": "2022-05-06 04:49:37",
+      "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/4q6HSxSGsjT8jEah5Kyyie"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 186432,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/1VOpd2D30gx8CIXVFcb37Y"
     },
     {
       "added_at": "2022-04-27 03:30:26",
@@ -791,38 +839,6 @@
       "duration_ms": 157373,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
-    },
-    {
-      "added_at": "2022-05-06 04:49:37",
-      "album": {
-        "name": "Cate\u2019s Brother",
-        "url": "https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 180589,
-      "name": "Cate\u2019s Brother",
-      "url": "https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78"
-    },
-    {
-      "added_at": "2022-05-06 04:49:37",
-      "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/4q6HSxSGsjT8jEah5Kyyie"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 186432,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/1VOpd2D30gx8CIXVFcb37Y"
     },
     {
       "added_at": "2022-05-13 04:01:00",

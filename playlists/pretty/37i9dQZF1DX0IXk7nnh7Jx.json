@@ -6,8 +6,40 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzUyNzMzMywwMDAwMDAwMDFlOWM1Mjk1ZjRjMzRmNGM5ZGYyMDk2Zjk4MDU3YjEx",
+  "snapshot_id": "MTY1MzYxMzQ1NSwwMDAwMDAwMDdkODcwNDVmOGVkYTZiYmZhMTlhMDAxZWJiN2MyZTNi",
   "tracks": [
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/4JjEdlwyFfpEhD7U4qupC1"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 196257,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/18RAcbwi6NAeHbeFaufyAE"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Come Thou Fount of Every Blessing",
+        "url": "https://open.spotify.com/album/0makQ28NRMiZ1RsM9sUozp"
+      },
+      "artists": [
+        {
+          "name": "Cross Gray",
+          "url": "https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP"
+        }
+      ],
+      "duration_ms": 263954,
+      "name": "Come Thou Fount of Every Blessing",
+      "url": "https://open.spotify.com/track/5kbl04brVXsCOyDIHPVStj"
+    },
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
@@ -27,54 +59,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Burn Out",
-        "url": "https://open.spotify.com/album/2cj6CrCchettlCriBNPSkr"
+        "name": "It's a Wonderful Life",
+        "url": "https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz"
       },
       "artists": [
         {
-          "name": "A Beauty Initiative Within Focus",
-          "url": "https://open.spotify.com/artist/5cnbawSLtziDxZDqk93JKp"
-        },
-        {
-          "name": "Andrew Ascough",
-          "url": "https://open.spotify.com/artist/6K7tPy8fZS1sCr5Fw6dYbS"
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
         }
       ],
-      "duration_ms": 263722,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/2GUvFoJipxwxQI6pvpHXDC"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Peace to All Who Enter Here",
-        "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Wash Me Clean",
-      "url": "https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Eloise",
-        "url": "https://open.spotify.com/album/1y72knBCC5iPB75Syr3P40"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 168712,
-      "name": "Eloise",
-      "url": "https://open.spotify.com/track/6J1Rk8WkZ6KOFUtlTVMoJd"
+      "duration_ms": 249321,
+      "name": "It's a Wonderful Life",
+      "url": "https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -95,18 +91,82 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Magic in the Moment",
-        "url": "https://open.spotify.com/album/7EIeW01jBbDJDgfMEVIhi2"
+        "name": "Saving Me Still",
+        "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
       },
       "artists": [
         {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+          "name": "Justin Jarvis",
+          "url": "https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj"
         }
       ],
-      "duration_ms": 193480,
-      "name": "Magic in the Moment",
-      "url": "https://open.spotify.com/track/7uQ2MT9hkwys1psdwVuFL3"
+      "duration_ms": 380800,
+      "name": "Saving Me Still",
+      "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Be Thou My Vision",
+        "url": "https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7"
+      },
+      "artists": [
+        {
+          "name": "Cherry Wee",
+          "url": "https://open.spotify.com/artist/6s9lmiBnWMbiiUnuaTARaa"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Be Thou My Vision",
+      "url": "https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Island",
+        "url": "https://open.spotify.com/album/6xYY34SDgAPg308e965q0H"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 274293,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Closer Than a Brother",
+        "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 309354,
+      "name": "Closer Than a Brother",
+      "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Wrong",
+        "url": "https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85"
+      },
+      "artists": [
+        {
+          "name": "Jordan Brown",
+          "url": "https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN"
+        }
+      ],
+      "duration_ms": 301658,
+      "name": "Wrong",
+      "url": "https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -131,270 +191,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Find My Home",
-        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
+        "name": "Burn Out",
+        "url": "https://open.spotify.com/album/2cj6CrCchettlCriBNPSkr"
       },
       "artists": [
         {
-          "name": "Shiny Penny",
-          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Find My Home",
-      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Fractioned Heart",
-        "url": "https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL"
-      },
-      "artists": [
-        {
-          "name": "Gable Price and Friends",
-          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+          "name": "A Beauty Initiative Within Focus",
+          "url": "https://open.spotify.com/artist/5cnbawSLtziDxZDqk93JKp"
         },
         {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+          "name": "Andrew Ascough",
+          "url": "https://open.spotify.com/artist/6K7tPy8fZS1sCr5Fw6dYbS"
         }
       ],
-      "duration_ms": 298093,
-      "name": "Communion",
-      "url": "https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/4JjEdlwyFfpEhD7U4qupC1"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 196257,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/18RAcbwi6NAeHbeFaufyAE"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Island",
-        "url": "https://open.spotify.com/album/6xYY34SDgAPg308e965q0H"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 274293,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "The Road, The Rocks, and The Weeds",
-        "url": "https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 215014,
-      "name": "The Road, The Rocks, and The Weeds",
-      "url": "https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Carrollton",
-        "url": "https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf"
-      },
-      "artists": [
-        {
-          "name": "Carrollton",
-          "url": "https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs"
-        }
-      ],
-      "duration_ms": 232683,
-      "name": "Not Afraid Of The Dark",
-      "url": "https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Light of Your Grace",
-        "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 189307,
-      "name": "Light of Your Grace",
-      "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/0R36i2T4Afvy3frSywQ9dy"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/0z0jIa4ieoF1U2kMXJRemg"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/0T0f5qOeqV1oAbsQF6X6SY"
-      },
-      "artists": [
-        {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/35aovZPaOOtLtQe0f72XSg"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Stained Glass",
-        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
-      },
-      "artists": [
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 317509,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Come Thou Fount of Every Blessing",
-        "url": "https://open.spotify.com/album/0makQ28NRMiZ1RsM9sUozp"
-      },
-      "artists": [
-        {
-          "name": "Cross Gray",
-          "url": "https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP"
-        }
-      ],
-      "duration_ms": 263954,
-      "name": "Come Thou Fount of Every Blessing",
-      "url": "https://open.spotify.com/track/5kbl04brVXsCOyDIHPVStj"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Neighbor Songs",
-        "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
-      },
-      "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "Casey J",
-          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
-        },
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Daughters of Zion",
-      "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Saving Me Still",
-        "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
-      },
-      "artists": [
-        {
-          "name": "Justin Jarvis",
-          "url": "https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj"
-        }
-      ],
-      "duration_ms": 380800,
-      "name": "Saving Me Still",
-      "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
-      },
-      "artists": [
-        {
-          "name": "Grant Leslie",
-          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Closer Than a Brother",
-        "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 309354,
-      "name": "Closer Than a Brother",
-      "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/2Xdjo93noCuAF0Ev1yukt3"
-      },
-      "artists": [
-        {
-          "name": "Savannah Locke",
-          "url": "https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb"
-        }
-      ],
-      "duration_ms": 292138,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/6o0LrwkjkSwN2LFxKknOmY"
+      "duration_ms": 263722,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/2GUvFoJipxwxQI6pvpHXDC"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -415,54 +227,34 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Come What May / Thought I Could Manage",
-        "url": "https://open.spotify.com/album/4WqqatnIZhbNV2Ev91OsOD"
+        "name": "Light of Your Grace",
+        "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
       },
       "artists": [
         {
-          "name": "Taylor Armstrong",
-          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
-        },
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 292000,
-      "name": "Come What May",
-      "url": "https://open.spotify.com/track/75JkjrI5b3qAufON4SWrBm"
+      "duration_ms": 189307,
+      "name": "Light of Your Grace",
+      "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
     },
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "It's a Wonderful Life",
-        "url": "https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz"
+        "name": "Person In Christ",
+        "url": "https://open.spotify.com/album/5TZciwCzlDz8wObaigKYBu"
       },
       "artists": [
         {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
         }
       ],
-      "duration_ms": 249321,
-      "name": "It's a Wonderful Life",
-      "url": "https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Wrong",
-        "url": "https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85"
-      },
-      "artists": [
-        {
-          "name": "Jordan Brown",
-          "url": "https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN"
-        }
-      ],
-      "duration_ms": 301658,
-      "name": "Wrong",
-      "url": "https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY"
+      "duration_ms": 250120,
+      "name": "Person In Christ",
+      "url": "https://open.spotify.com/track/1pdX4gY5t6sdZdsd5lp3Z5"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -487,18 +279,102 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "New Song (Psalm 40)",
-        "url": "https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY"
+        "name": "Find My Home",
+        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
       },
       "artists": [
         {
-          "name": "The Dodds",
-          "url": "https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl"
+          "name": "Shiny Penny",
+          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
         }
       ],
-      "duration_ms": 254787,
-      "name": "New Song (Psalm 40)",
-      "url": "https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU"
+      "duration_ms": 260173,
+      "name": "Find My Home",
+      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/1OU3ckOHNBp6X6QLHZuPDZ"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        },
+        {
+          "name": "Laity",
+          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
+        }
+      ],
+      "duration_ms": 213673,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/4NIGBioApdPW0lBX70zrJZ"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/0T0f5qOeqV1oAbsQF6X6SY"
+      },
+      "artists": [
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/35aovZPaOOtLtQe0f72XSg"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
+      },
+      "artists": [
+        {
+          "name": "Grant Leslie",
+          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Eloise",
+        "url": "https://open.spotify.com/album/1y72knBCC5iPB75Syr3P40"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 168712,
+      "name": "Eloise",
+      "url": "https://open.spotify.com/track/6J1Rk8WkZ6KOFUtlTVMoJd"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/2Xdjo93noCuAF0Ev1yukt3"
+      },
+      "artists": [
+        {
+          "name": "Savannah Locke",
+          "url": "https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb"
+        }
+      ],
+      "duration_ms": 292138,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/6o0LrwkjkSwN2LFxKknOmY"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -519,50 +395,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Sweet Water",
-        "url": "https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q"
+        "name": "Peace to All Who Enter Here",
+        "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
       },
       "artists": [
         {
-          "name": "Beach Chapel",
-          "url": "https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5"
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
         }
       ],
-      "duration_ms": 249066,
-      "name": "Sweet Water",
-      "url": "https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Worth It All",
-        "url": "https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD"
-      },
-      "artists": [
-        {
-          "name": "Danny O'Callaghan",
-          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
-        }
-      ],
-      "duration_ms": 217675,
-      "name": "Worth It All",
-      "url": "https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Know Your Heart",
-        "url": "https://open.spotify.com/album/1YxRqQgjwH5Qq739qnrML9"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 239720,
-      "name": "Know Your Heart",
-      "url": "https://open.spotify.com/track/3R4jwXTEZKjs5G7Uc6Ehzs"
+      "duration_ms": 222800,
+      "name": "Wash Me Clean",
+      "url": "https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -583,134 +427,34 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Before Our Time",
-        "url": "https://open.spotify.com/album/4Iapc5RLmgiXzUy9k44YBc"
+        "name": "New Song (Psalm 40)",
+        "url": "https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY"
       },
       "artists": [
         {
-          "name": "Lovkn",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+          "name": "The Dodds",
+          "url": "https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl"
         }
       ],
-      "duration_ms": 200674,
-      "name": "Crane Lake",
-      "url": "https://open.spotify.com/track/2NiXrSahkXwPb30oHDEo25"
+      "duration_ms": 254787,
+      "name": "New Song (Psalm 40)",
+      "url": "https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU"
     },
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Held by Your Love",
-        "url": "https://open.spotify.com/album/1tCkBpM6Fpf3wf9pWh3yFZ"
+        "name": "Waters",
+        "url": "https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi"
       },
       "artists": [
         {
-          "name": "Lion & Bear",
-          "url": "https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g"
+          "name": "Junior Garr",
+          "url": "https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2"
         }
       ],
-      "duration_ms": 266169,
-      "name": "Held by Your Love",
-      "url": "https://open.spotify.com/track/0kpBBTRrCmupemEosDzcMe"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "07:00 / 08:00",
-        "url": "https://open.spotify.com/album/5H44382KfUHknPEdJKFxJI"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 156386,
-      "name": "07:00 the Morning Comes",
-      "url": "https://open.spotify.com/track/2XbLOj52YkYKsGe7WZDEIX"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Keeper of Days",
-        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 244270,
-      "name": "Hiding Lord",
-      "url": "https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Loved by You",
-        "url": "https://open.spotify.com/album/3ee6AoUEELOwg9kAGkSfwm"
-      },
-      "artists": [
-        {
-          "name": "Ian Yates",
-          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
-        }
-      ],
-      "duration_ms": 294780,
-      "name": "Loved by You",
-      "url": "https://open.spotify.com/track/6MAjOwyEXcZtwZUPNpIeij"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Comes and Goes",
-        "url": "https://open.spotify.com/album/2GZKfuX5AfXtneH04BBPKP"
-      },
-      "artists": [
-        {
-          "name": "Allie Paige",
-          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
-        }
-      ],
-      "duration_ms": 217812,
-      "name": "For Your Glory",
-      "url": "https://open.spotify.com/track/4etWtEzUFn7AEiiSGwZT6X"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Gone Are the Days (Julie Odnoralov Remix)",
-        "url": "https://open.spotify.com/album/2ZxQCfnNz3xhQ3SHKRzoa5"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        },
-        {
-          "name": "Julie Odnoralov",
-          "url": "https://open.spotify.com/artist/4VXnILFOlZGah8ztpsxhYZ"
-        }
-      ],
-      "duration_ms": 235312,
-      "name": "Gone Are the Days (Julie Odnoralov Remix)",
-      "url": "https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/1MKddIk19oLE9oyw3bJ4vN"
-      },
-      "artists": [
-        {
-          "name": "Page CXVI",
-          "url": "https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb"
-        }
-      ],
-      "duration_ms": 259523,
-      "name": "All Things New",
-      "url": "https://open.spotify.com/track/3Qh3FjLQl6VnJfXiXfe1jf"
+      "duration_ms": 240630,
+      "name": "Waters",
+      "url": "https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -731,134 +475,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Be Thou My Vision",
-        "url": "https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7"
+        "name": "World Keeps Spinning",
+        "url": "https://open.spotify.com/album/5FI4Yqy2KTTaijWo2QLg0U"
       },
       "artists": [
         {
-          "name": "Cherry Wee",
-          "url": "https://open.spotify.com/artist/6s9lmiBnWMbiiUnuaTARaa"
+          "name": "The Brilliance",
+          "url": "https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Be Thou My Vision",
-      "url": "https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "What Living's All About",
-        "url": "https://open.spotify.com/album/4LWlkAZQRFHgCYSPh4HS7N"
-      },
-      "artists": [
-        {
-          "name": "Lovkn",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "What Living's All About",
-      "url": "https://open.spotify.com/track/6kyXGiAum5xXiezOPBn23M"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Songs of the Silent Years",
-        "url": "https://open.spotify.com/album/26yAYOcyHYielXh4JTlubc"
-      },
-      "artists": [
-        {
-          "name": "Mas",
-          "url": "https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm"
-        }
-      ],
-      "duration_ms": 231438,
-      "name": "That's What I Call Free",
-      "url": "https://open.spotify.com/track/3siXfTF5Czys5WTvyeYMSY"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Leaving Shadowland",
-        "url": "https://open.spotify.com/album/0o81ZEoFaZP8GgR8MGuGqE"
-      },
-      "artists": [
-        {
-          "name": "Seeker & Servant",
-          "url": "https://open.spotify.com/artist/6Nuo4qEB3cLo3hOpYjneNu"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Where Would I Be",
-      "url": "https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
-      },
-      "artists": [
-        {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        },
-        {
-          "name": "Luke Smallbone",
-          "url": "https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX"
-        }
-      ],
-      "duration_ms": 297546,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Good As Gone",
-        "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Far Kingdom (reimagined)",
-        "url": "https://open.spotify.com/album/55m7zq0QtVvPe1hqGHOcY8"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Far Kingdom (reimagined)",
-      "url": "https://open.spotify.com/track/7rjwZiCmwudgo74jFUOQj1"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "LET YOURSELF BE LOVED",
-        "url": "https://open.spotify.com/album/0zDzV5qt4vpwVkv7xmliUe"
-      },
-      "artists": [
-        {
-          "name": "Laity",
-          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Falling Up",
-      "url": "https://open.spotify.com/track/4LJCaeXCP3cAkVpdMBA3wM"
+      "duration_ms": 311186,
+      "name": "World Keeps Spinning",
+      "url": "https://open.spotify.com/track/2p5VBF4NTxAIooKRCIMWYj"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -887,34 +515,170 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/61PYfqEJI4JxUhr7uwBkjN"
+        "name": "Keeper of Days",
+        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
       },
       "artists": [
         {
-          "name": "The Bookouts",
-          "url": "https://open.spotify.com/artist/4mJUqOlgsaXtBDn3TjaaTF"
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
         }
       ],
-      "duration_ms": 320003,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/6lv4AXg9dFv4su7MOX73tD"
+      "duration_ms": 244270,
+      "name": "Hiding Lord",
+      "url": "https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw"
     },
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Waters",
-        "url": "https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi"
+        "name": "Comes and Goes",
+        "url": "https://open.spotify.com/album/2GZKfuX5AfXtneH04BBPKP"
       },
       "artists": [
         {
-          "name": "Junior Garr",
-          "url": "https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2"
+          "name": "Allie Paige",
+          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
         }
       ],
-      "duration_ms": 240630,
-      "name": "Waters",
-      "url": "https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8"
+      "duration_ms": 217812,
+      "name": "For Your Glory",
+      "url": "https://open.spotify.com/track/4etWtEzUFn7AEiiSGwZT6X"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "I Had a Dream I Knew You Better",
+        "url": "https://open.spotify.com/album/0WBHGzC4psjUacxsWR19ft"
+      },
+      "artists": [
+        {
+          "name": "Benjamin James",
+          "url": "https://open.spotify.com/artist/0muQ6CFcrzfnGl3JckyOKY"
+        }
+      ],
+      "duration_ms": 164520,
+      "name": "I Had a Dream I Knew You Better",
+      "url": "https://open.spotify.com/track/3MsYV9iIVJpWLh3pRmqU3Z"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Neighbor Songs",
+        "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        },
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Daughters of Zion",
+      "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/0R36i2T4Afvy3frSywQ9dy"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/0z0jIa4ieoF1U2kMXJRemg"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Magic in the Moment",
+        "url": "https://open.spotify.com/album/7EIeW01jBbDJDgfMEVIhi2"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "Magic in the Moment",
+      "url": "https://open.spotify.com/track/7uQ2MT9hkwys1psdwVuFL3"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/4A6OCWqlSYoCLVPXWWNIGY"
+      },
+      "artists": [
+        {
+          "name": "Mahood",
+          "url": "https://open.spotify.com/artist/4Xo4ozqAUlAaSYfwOLuCfB"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/0TSXwxAZe2RaP1jMebwKPQ"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Telephone",
+        "url": "https://open.spotify.com/album/5S0PU8GSg4yQdvrwZPllC0"
+      },
+      "artists": [
+        {
+          "name": "The Brilliance",
+          "url": "https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/7eL7RLdVokaOBzjfIs5zMH"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Garment",
+        "url": "https://open.spotify.com/album/5D6QTb7tfabsIrVBZ8DuhC"
+      },
+      "artists": [
+        {
+          "name": "Mirours",
+          "url": "https://open.spotify.com/artist/75LCOigw8mFKzvhjpHv2jT"
+        }
+      ],
+      "duration_ms": 284120,
+      "name": "Garment",
+      "url": "https://open.spotify.com/track/7dVzebREEslE4UTztbvosL"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Worth It All",
+        "url": "https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD"
+      },
+      "artists": [
+        {
+          "name": "Danny O'Callaghan",
+          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
+        }
+      ],
+      "duration_ms": 217675,
+      "name": "Worth It All",
+      "url": "https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -939,66 +703,142 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Garment",
-        "url": "https://open.spotify.com/album/5D6QTb7tfabsIrVBZ8DuhC"
+        "name": "Held by Your Love",
+        "url": "https://open.spotify.com/album/1tCkBpM6Fpf3wf9pWh3yFZ"
       },
       "artists": [
         {
-          "name": "Mirours",
-          "url": "https://open.spotify.com/artist/75LCOigw8mFKzvhjpHv2jT"
+          "name": "Lion & Bear",
+          "url": "https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g"
         }
       ],
-      "duration_ms": 284120,
-      "name": "Garment",
-      "url": "https://open.spotify.com/track/7dVzebREEslE4UTztbvosL"
+      "duration_ms": 266169,
+      "name": "Held by Your Love",
+      "url": "https://open.spotify.com/track/0kpBBTRrCmupemEosDzcMe"
     },
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Person In Christ",
-        "url": "https://open.spotify.com/album/5TZciwCzlDz8wObaigKYBu"
+        "name": "Know Your Heart",
+        "url": "https://open.spotify.com/album/1YxRqQgjwH5Qq739qnrML9"
       },
       "artists": [
         {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
         }
       ],
-      "duration_ms": 250120,
-      "name": "Person In Christ",
-      "url": "https://open.spotify.com/track/1pdX4gY5t6sdZdsd5lp3Z5"
+      "duration_ms": 239720,
+      "name": "Know Your Heart",
+      "url": "https://open.spotify.com/track/3R4jwXTEZKjs5G7Uc6Ehzs"
     },
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Proceed",
-        "url": "https://open.spotify.com/album/0NKNIOpBUg5mZT1k7jGlsM"
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/1MKddIk19oLE9oyw3bJ4vN"
       },
       "artists": [
         {
-          "name": "Deuel",
-          "url": "https://open.spotify.com/artist/0IrOqD4oueXc7E7Wu7NzWv"
+          "name": "Page CXVI",
+          "url": "https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb"
         }
       ],
-      "duration_ms": 266762,
-      "name": "Proceed",
-      "url": "https://open.spotify.com/track/2ejCU3N0ILmpE23zrqNm4r"
+      "duration_ms": 259523,
+      "name": "All Things New",
+      "url": "https://open.spotify.com/track/3Qh3FjLQl6VnJfXiXfe1jf"
     },
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "O, Peace",
-        "url": "https://open.spotify.com/album/0DQEChF6qLK8DthcId02sL"
+        "name": "07:00 / 08:00",
+        "url": "https://open.spotify.com/album/5H44382KfUHknPEdJKFxJI"
       },
       "artists": [
         {
-          "name": "Josh Gauton",
-          "url": "https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M"
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
         }
       ],
-      "duration_ms": 304192,
-      "name": "Stir A Passion",
-      "url": "https://open.spotify.com/track/4ObhmsDpExlIJ4VKJtIoOt"
+      "duration_ms": 156386,
+      "name": "07:00 the Morning Comes",
+      "url": "https://open.spotify.com/track/2XbLOj52YkYKsGe7WZDEIX"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Come What May / Thought I Could Manage",
+        "url": "https://open.spotify.com/album/4WqqatnIZhbNV2Ev91OsOD"
+      },
+      "artists": [
+        {
+          "name": "Taylor Armstrong",
+          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
+        },
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Come What May",
+      "url": "https://open.spotify.com/track/75JkjrI5b3qAufON4SWrBm"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Loved by You",
+        "url": "https://open.spotify.com/album/3ee6AoUEELOwg9kAGkSfwm"
+      },
+      "artists": [
+        {
+          "name": "Ian Yates",
+          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
+        }
+      ],
+      "duration_ms": 294780,
+      "name": "Loved by You",
+      "url": "https://open.spotify.com/track/6MAjOwyEXcZtwZUPNpIeij"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Stained Glass",
+        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
+      },
+      "artists": [
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 317509,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Are You There, Do You Care",
+        "url": "https://open.spotify.com/album/4Zqk1C3Y9oMF1hYOMZthIE"
+      },
+      "artists": [
+        {
+          "name": "Shea Salisbury",
+          "url": "https://open.spotify.com/artist/1XT3f4ndBuXQuA9FTcCXT0"
+        },
+        {
+          "name": "Matt Riebe",
+          "url": "https://open.spotify.com/artist/4HjEUgUbh9AyBQRZrIgZZW"
+        },
+        {
+          "name": "Hailey Swagger",
+          "url": "https://open.spotify.com/artist/0gJvG7PUp2BfGQZgZnhQYU"
+        }
+      ],
+      "duration_ms": 224388,
+      "name": "Are You There, Do You Care",
+      "url": "https://open.spotify.com/track/05i5Z4lz4876TjOofZwBq6"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -1015,6 +855,170 @@
       "duration_ms": 246760,
       "name": "Avalanche - Piano Version",
       "url": "https://open.spotify.com/track/7gfCmyLiGPkufPJdTErWar"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Carrollton",
+        "url": "https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf"
+      },
+      "artists": [
+        {
+          "name": "Carrollton",
+          "url": "https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs"
+        }
+      ],
+      "duration_ms": 232683,
+      "name": "Not Afraid Of The Dark",
+      "url": "https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "The Road, The Rocks, and The Weeds",
+        "url": "https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 215014,
+      "name": "The Road, The Rocks, and The Weeds",
+      "url": "https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Fractioned Heart",
+        "url": "https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        },
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "duration_ms": 298093,
+      "name": "Communion",
+      "url": "https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Sweet Water",
+        "url": "https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q"
+      },
+      "artists": [
+        {
+          "name": "Beach Chapel",
+          "url": "https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "Sweet Water",
+      "url": "https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Before Our Time",
+        "url": "https://open.spotify.com/album/4Iapc5RLmgiXzUy9k44YBc"
+      },
+      "artists": [
+        {
+          "name": "Lovkn",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 200674,
+      "name": "Crane Lake",
+      "url": "https://open.spotify.com/track/2NiXrSahkXwPb30oHDEo25"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Far Kingdom (reimagined)",
+        "url": "https://open.spotify.com/album/55m7zq0QtVvPe1hqGHOcY8"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Far Kingdom (reimagined)",
+      "url": "https://open.spotify.com/track/7rjwZiCmwudgo74jFUOQj1"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
+      },
+      "artists": [
+        {
+          "name": "Angelique Marketon",
+          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
+        }
+      ],
+      "duration_ms": 312789,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Everything Is Possible",
+        "url": "https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX"
+      },
+      "artists": [
+        {
+          "name": "Matthew Zigenis",
+          "url": "https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "Yes and Amen",
+      "url": "https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Captive",
+        "url": "https://open.spotify.com/album/1xo0esdUHZWjuVzInMGm27"
+      },
+      "artists": [
+        {
+          "name": "Clemency",
+          "url": "https://open.spotify.com/artist/5fuNHncNSPS8kNTSDzxlvJ"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "Captive",
+      "url": "https://open.spotify.com/track/2f3EkdJtuokX2L85cK0yOz"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Never Grow Tired",
+        "url": "https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M"
+      },
+      "artists": [
+        {
+          "name": "The Evidence",
+          "url": "https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe"
+        }
+      ],
+      "duration_ms": 261736,
+      "name": "Never Grow Tired",
+      "url": "https://open.spotify.com/track/68m3fFj8up50boqi077Yr8"
     }
   ],
   "unique_name": "Indie Spirit",

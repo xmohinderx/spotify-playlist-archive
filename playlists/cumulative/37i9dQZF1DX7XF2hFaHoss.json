@@ -147,7 +147,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 215129,
       "name": "Bud",
       "url": "https://open.spotify.com/track/5q9FAPRXpXyy6xI2hgq8I7"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 212816,
       "name": "Call the Days",
       "url": "https://open.spotify.com/track/55UTk4jy0ep5B3zLoGcaTc"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 199764,
       "name": "Fat Funny Friend",
       "url": "https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 263923,
       "name": "Hard Things",
       "url": "https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK"
@@ -692,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/09amDFagdn2HQ5jpfo1dr4"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196640,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/7upm07Y3Fx4AJs5G5OqG1A"
+    },
+    {
+      "album": {
         "name": "The Acoustic Guitar Project: Minneapolis 2014",
         "url": "https://open.spotify.com/album/2qdU8Zs5lu87f49YCzNL8E"
       },
@@ -703,7 +721,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 242276,
       "name": "How Could I Forget",
       "url": "https://open.spotify.com/track/38Kbca2Yc3eGMwRYbbI8so"
@@ -962,6 +980,24 @@
     },
     {
       "album": {
+        "name": "Honeymoon Phase",
+        "url": "https://open.spotify.com/album/6dyVIZIzfEgDXR4GmnyHvE"
+      },
+      "artists": [
+        {
+          "name": "OSKA",
+          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198048,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/1wiw9ZdiSm3PZfdZqCzb0A"
+    },
+    {
+      "album": {
         "name": "My Ego Dies At The End",
         "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
       },
@@ -1089,7 +1125,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 194413,
       "name": "Now You Know",
       "url": "https://open.spotify.com/track/7bmitV7MwnQeTSkv9nhFli"
@@ -1129,6 +1165,42 @@
       "duration_ms": 235035,
       "name": "Pancakes for Dinner",
       "url": "https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW"
+    },
+    {
+      "album": {
+        "name": "Memories Are Now",
+        "url": "https://open.spotify.com/album/66Ie2OCJrjpAIvwLzb13TM"
+      },
+      "artists": [
+        {
+          "name": "Jesca Hoop",
+          "url": "https://open.spotify.com/artist/0fqE57gXXTTqxXlFYVNG2u"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213503,
+      "name": "Pegasi",
+      "url": "https://open.spotify.com/track/4DSIaN45JesvflRtHwEp2U"
+    },
+    {
+      "album": {
+        "name": "Phoebe Told Me",
+        "url": "https://open.spotify.com/album/3uGP2UKICbNUs08mUe55yo"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236583,
+      "name": "Phoebe Told Me",
+      "url": "https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg"
     },
     {
       "album": {
@@ -1219,6 +1291,24 @@
       "duration_ms": 197755,
       "name": "Radiohead",
       "url": "https://open.spotify.com/track/07Br10W8gRXrf0hE3PtJPX"
+    },
+    {
+      "album": {
+        "name": "Hard To Look At",
+        "url": "https://open.spotify.com/album/22dE6uGzAupKicgRGotoNv"
+      },
+      "artists": [
+        {
+          "name": "Cammy Enaharo",
+          "url": "https://open.spotify.com/artist/0iM6AplgWF7ISiwJaBhXLF"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149773,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/2rQMHZq7jnK0J2izGbCj0Z"
     },
     {
       "album": {
@@ -1323,7 +1413,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 233013,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
@@ -1464,6 +1554,24 @@
     },
     {
       "album": {
+        "name": "Wanted You to Know",
+        "url": "https://open.spotify.com/album/5MPkrXngz7F6LzCxNsmAZ4"
+      },
+      "artists": [
+        {
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177952,
+      "name": "that'd be alright",
+      "url": "https://open.spotify.com/track/058OqhzpJJMM3q90Skvg2r"
+    },
+    {
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/3lLhc2xpQ3LsBMYVozns7L"
       },
@@ -1501,6 +1609,28 @@
       "duration_ms": 235586,
       "name": "The Trouble with Wanting",
       "url": "https://open.spotify.com/track/0a1Jael2mnrkLTyPetixjh"
+    },
+    {
+      "album": {
+        "name": "Bare",
+        "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        },
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206440,
+      "name": "Thousand (feat. Lisa Hannigan)",
+      "url": "https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9"
     },
     {
       "album": {
@@ -1620,6 +1750,24 @@
     },
     {
       "album": {
+        "name": "See You Around",
+        "url": "https://open.spotify.com/album/5CE2xIBgva5wYBhfMbluQW"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238613,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/1GCaFVVu91KMxEiUXoStt9"
+    },
+    {
+      "album": {
         "name": "With You - A Sweet Little Love Song Demo",
         "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
       },
@@ -1667,7 +1815,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 257532,
       "name": "Yellow Bed",
       "url": "https://open.spotify.com/track/1zQoOFTtwlEZjUCfRCagm8"

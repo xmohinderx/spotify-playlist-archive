@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kalash",
+  "description": "Les hits dancehall du moment. Photo : Kevni",
   "name": "Dancehall Station",
   "published_playlist_ids": [
     "5EUHHXJOLrkgmRGE7o9Fvs"
@@ -564,6 +564,32 @@
     },
     {
       "album": {
+        "name": "Genghis Khan",
+        "url": "https://open.spotify.com/album/0cnRZoKx2JmGyVftNlU5zF"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Vlado",
+          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
+        },
+        {
+          "name": "Rockywhereyoubeen",
+          "url": "https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135321,
+      "name": "Genghis Khan",
+      "url": "https://open.spotify.com/track/1TZZIVEkj2FgVkBGQCoVoa"
+    },
+    {
+      "album": {
         "name": "Ghetto Gyal",
         "url": "https://open.spotify.com/album/0ezu9H6cRO8frRYggf157e"
       },
@@ -883,7 +909,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 191020,
       "name": "Jolie",
       "url": "https://open.spotify.com/track/7czQSME5Unm4B7ixYmtYUf"
@@ -913,6 +939,24 @@
       "duration_ms": 164705,
       "name": "Jump",
       "url": "https://open.spotify.com/track/17XrYSj0BRRZDoQPg4eROC"
+    },
+    {
+      "album": {
+        "name": "Ki Manny\u00e9",
+        "url": "https://open.spotify.com/album/3FQFrBJp9mPskgLIX5TShG"
+      },
+      "artists": [
+        {
+          "name": "Lu City",
+          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173465,
+      "name": "Ki Manny\u00e9",
+      "url": "https://open.spotify.com/track/0v391pPJXysSBHuq94eKeS"
     },
     {
       "album": {
@@ -1450,6 +1494,28 @@
     },
     {
       "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/6XblstmcRBD1twvqIpM0zY"
+      },
+      "artists": [
+        {
+          "name": "Beach Boii",
+          "url": "https://open.spotify.com/artist/5epY4AGRq3ty95XFK3kbC8"
+        },
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135322,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/75vTqilpqZ6wi4JJ3hIthr"
+    },
+    {
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
       },
@@ -1963,7 +2029,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 141322,
       "name": "Whine O'Clock",
       "url": "https://open.spotify.com/track/1jAVJ1836ceDp2ozcNs6Uh"
@@ -2043,7 +2109,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 141688,
       "name": "Zy\u00e9 Dou",
       "url": "https://open.spotify.com/track/7ClIzTo1TbHnV9E7BNBr20"

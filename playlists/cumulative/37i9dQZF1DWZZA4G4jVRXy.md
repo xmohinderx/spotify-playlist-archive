@@ -4,7 +4,7 @@
 
 > Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!
 
-74 songs - 3 hr 40 min - not published yet
+75 songs - 3 hr 43 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Hernando s Hideaway](https://open.spotify.com/track/56UuUpJI5Ov38bXhKjaZ2M) | [Augie Colon](https://open.spotify.com/artist/2pddiKucMu8fKxpDbWzJBN) | [Jungle Drums](https://open.spotify.com/album/0FsgkPg3yho6MeConxp9AQ) | 2:10 | 2021-01-20 |  |
 | [Hilawe](https://open.spotify.com/track/3JfdX5DBjXvMdQd55Ipq4s) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Hawaiian Sunset](https://open.spotify.com/album/0krfVkBvqQxmQXAXOFeuwg) | 1:11 | 2021-01-20 |  |
 | [I Get a Kick Out of You](https://open.spotify.com/track/4ZGiNag9e8bNZ1fqXuvnDB) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Siboney \(Lounge Serie\)](https://open.spotify.com/album/5lCKCcAibWfuXzKpV9vi2x) | 2:39 | 2021-01-20 |  |
-| [I Kona](https://open.spotify.com/track/5rexglBxLZ18rUnHha32Xy) | [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [The Golden Voice of Hawai'i, Vol\. 1](https://open.spotify.com/album/6c13l06xAppZ30jLRHp0N1) | 3:35 | 2021-01-20 |  |
+| [I Kona](https://open.spotify.com/track/5rexglBxLZ18rUnHha32Xy) | [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [The Golden Voice of Hawai'i, Vol\. 1](https://open.spotify.com/album/6c13l06xAppZ30jLRHp0N1) | 3:35 | 2021-01-20 | 2022-05-27 |
 | [Ipo Hula](https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 1:50 | 2021-01-20 |  |
 | [Jivaro](https://open.spotify.com/track/1pP9JVGU5jKP7sWah8ROPx) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [Yma Sumac \- Story Of The Jivaro Vol\. 1](https://open.spotify.com/album/4HKVsoMLahluq4lxl3VMKb) | 2:55 | 2021-01-20 |  |
 | [Kawohikukapulani](https://open.spotify.com/track/2t5nydEEeYdsi2hR33TRjx) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Hawaiian Sunset](https://open.spotify.com/album/0krfVkBvqQxmQXAXOFeuwg) | 2:26 | 2021-01-20 |  |
@@ -48,6 +48,7 @@
 | [Lolita Ya Ya](https://open.spotify.com/track/6kAC0ln9itn3TXFZHeEMyg) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Lolita: Original Motion Picture Soundtrack](https://open.spotify.com/album/5Rw1VdeWqxgAfiqC6dk61q) | 3:23 | 2021-01-20 |  |
 | [Lotus Land](https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [Carnival Tropicana \(1948\) & Lure of the Tropics \(1954\)](https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz) | 4:19 | 2021-01-20 |  |
 | [Lujon](https://open.spotify.com/track/3hGgNSkBGcbdYTIcCa12pt) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Mr\. Lucky + Mr\. Lucky Goes Latin](https://open.spotify.com/album/51wBh15iTsmho1Td2jRONc) | 2:38 | 2022-01-11 |  |
+| [Lust](https://open.spotify.com/track/3UbYI0HPdoJJlZHsjx6yE4) | [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [Lisbon Antigua \(One Mint Julep Lounge 1953 \- 1956\)](https://open.spotify.com/album/25tMpbJhW0vuldZbQ1tjpS) | 2:59 | 2021-01-20 |  |
 | [Lust \- 1995 Digital Remaster](https://open.spotify.com/track/0lF6dbEwpoXr0efP2p2Nsm) | [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 2:59 | 2022-01-11 |  |
 | [Mareld 2021](https://open.spotify.com/track/7vTne4h3Rxpk8lCRfcONXJ) | [Ìxtahuele](https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN) | [Mareld 2021](https://open.spotify.com/album/7dGU6JD2hxL29IZ1jlfoyi) | 3:02 | 2021-01-20 |  |
 | [Melancholy Serenade \- Remastered](https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [Ultra\-Lounge / Bachelor Pad Royale Volume Four](https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI) | 2:08 | 2021-01-20 |  |

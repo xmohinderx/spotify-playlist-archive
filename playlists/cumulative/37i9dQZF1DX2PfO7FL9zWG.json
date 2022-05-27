@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 221842,
       "name": "B61",
       "url": "https://open.spotify.com/track/24jpjPR3hZ1VAQOWr9sd0t"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 231120,
       "name": "Back to Love",
       "url": "https://open.spotify.com/track/1CsGyKtUsk0uEKIoaHIEuR"
@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268080,
+      "name": "Blue Heron",
+      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
+    },
+    {
+      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -365,7 +383,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 244186,
       "name": "Can I Believe You",
       "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 233963,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/4GhfofdAQM5sxn77162iBz"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 247826,
       "name": "Failure",
       "url": "https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8"
@@ -693,7 +711,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 261788,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd"
@@ -801,7 +819,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 270120,
       "name": "Glenfern",
       "url": "https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D"
@@ -981,7 +999,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 253600,
       "name": "Here Comes The River",
       "url": "https://open.spotify.com/track/1bkmxox97PzwqGCEaFuFLD"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 161706,
       "name": "judas",
       "url": "https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 159453,
       "name": "Juniper",
       "url": "https://open.spotify.com/track/65hfmtV2gkBmqXf9t03Zxk"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 186156,
       "name": "Keep a Light On",
       "url": "https://open.spotify.com/track/5SMBlrCVXZeV4A4Yr7FPDP"
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 265715,
       "name": "Leave A Light",
       "url": "https://open.spotify.com/track/5P0i0asekeb0hCEPCi2R5n"
@@ -1461,7 +1479,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 222333,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq"
@@ -1501,7 +1519,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 215164,
       "name": "Like a River",
       "url": "https://open.spotify.com/track/7CIMSO1Q6G5lrjLo5v8aOi"
@@ -1555,7 +1573,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 231762,
       "name": "Love Is Blind",
       "url": "https://open.spotify.com/track/6SGTlXM3iSWNMPhomntCGm"
@@ -1591,7 +1609,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 402654,
       "name": "Middle Of Nowhere",
       "url": "https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA"
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 222815,
       "name": "Misnomer",
       "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
@@ -1863,7 +1881,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 223344,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl"
@@ -2007,7 +2025,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 291241,
       "name": "Say You Will",
       "url": "https://open.spotify.com/track/01vJRC33O3RZS1dU5dUUJ6"
@@ -2079,7 +2097,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 263493,
       "name": "Something Like This - Acoustic",
       "url": "https://open.spotify.com/track/0rwmd6UpYeLGeus61u9TDd"
@@ -2115,7 +2133,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 162421,
       "name": "still",
       "url": "https://open.spotify.com/track/7oDohZCDFN9RgxroWcxVAn"
@@ -2133,7 +2151,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 279000,
       "name": "Stubborn Love",
       "url": "https://open.spotify.com/track/4MoiNtMeGRzQ3KjdETmogz"
@@ -2187,7 +2205,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 234240,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
@@ -2241,7 +2259,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 187454,
       "name": "The Captain Is Drunk",
       "url": "https://open.spotify.com/track/5z9VyMWkBCHB8iSVaLq3jk"
@@ -2259,7 +2277,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 360106,
       "name": "The Girl",
       "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
@@ -2281,7 +2299,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 218011,
       "name": "The Lullaby (My Oldest Love)",
       "url": "https://open.spotify.com/track/7kLmS1sVZJTzvHYdurvNyy"
@@ -2317,7 +2335,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 206333,
       "name": "The Sapling",
       "url": "https://open.spotify.com/track/5LZcOXDFbkSWrhqrfVSXdz"
@@ -2411,7 +2429,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 212905,
       "name": "To Chicago",
       "url": "https://open.spotify.com/track/2qpF9kgEoyFaVs7jik4oj3"
@@ -2465,7 +2483,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 240586,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
@@ -2487,6 +2505,24 @@
       "duration_ms": 193936,
       "name": "Wait for You",
       "url": "https://open.spotify.com/track/3Pkw4oxb2SFsQ3Cxt9xn6Y"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/23c8D4UMVMs5H4zvDkhwjJ"
+      },
+      "artists": [
+        {
+          "name": "Alyson McNamara",
+          "url": "https://open.spotify.com/artist/75TH32fjEBz1ZmWmZICSby"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220306,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/7r11jKPVH6VMMZrq2weXl0"
     },
     {
       "album": {
@@ -2559,7 +2595,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 189424,
       "name": "What I Came Here For",
       "url": "https://open.spotify.com/track/73WvySq47nvcUvS6IONQ5z"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-230 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
+231 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [Tail Lights](https://open.spotify.com/track/2kd4ZriypOQLtGsbek2Xmf) | [rüün](https://open.spotify.com/artist/0JC0YtWmlbdFr4BYmmhy1n), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Jon Green](https://open.spotify.com/artist/6zFRLMTS6x3uxRQNVO0LUc) | [Tail Lights](https://open.spotify.com/album/4XmPok1yxi5k5JNYeLBNMd) | 3:10 | 2021-12-27 |  |
 | [Teacher's Pet](https://open.spotify.com/track/73YCQKaIOvi0sdToTDiW5F) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 2:39 | 2021-12-27 |  |
 | [Ted](https://open.spotify.com/track/2Mfb1R9ghnzo4Kp2U1tV4V) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 3:00 | 2021-12-27 |  |
-| [Tell Me](https://open.spotify.com/track/4idB0v45onZipVsuVPmNYF) | [Rich Edwards](https://open.spotify.com/artist/79v9Al6rSVH9SFk0QzzOl1), [Taheran](https://open.spotify.com/artist/5Nj8N6JiueW73lkLkv6TL6) | [Tell Me](https://open.spotify.com/album/28DeHdZUufPBbd7v6hpOG3) | 3:24 | 2021-12-27 |  |
+| [Tell Me](https://open.spotify.com/track/4idB0v45onZipVsuVPmNYF) | [Rich Edwards](https://open.spotify.com/artist/79v9Al6rSVH9SFk0QzzOl1), [Taheran](https://open.spotify.com/artist/5Nj8N6JiueW73lkLkv6TL6) | [Tell Me](https://open.spotify.com/album/28DeHdZUufPBbd7v6hpOG3) | 3:24 | 2021-12-27 | 2022-05-27 |
+| [Tell Me](https://open.spotify.com/track/7EE15pUdQE5ho5da0sbXcE) | [Rich Edwards](https://open.spotify.com/artist/79v9Al6rSVH9SFk0QzzOl1), [Taheran](https://open.spotify.com/artist/5Nj8N6JiueW73lkLkv6TL6) | [Tell Me](https://open.spotify.com/album/6exlVxcQKBmzzrghWqMmpA) | 3:24 | 2022-05-26 |  |
 | [Temporary Goodbye](https://open.spotify.com/track/4xHsUjhBlg9qB7k5GUfHGm) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:29 | 2021-12-27 |  |
 | [The Body](https://open.spotify.com/track/3sN7oop8jlw4RYuC5iDH6Q) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Saul Simon MacWilliams](https://open.spotify.com/artist/0FlGu9ZnuvVtbtN2Gc9GNg) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 5:10 | 2021-12-27 |  |
 | [The Comb](https://open.spotify.com/track/22Jf0F9o2E9XpJJdStn0yp) | [Bell Horses](https://open.spotify.com/artist/2AdoTCFp76OEjtdSM1NZvC) | [This Loves Last Time](https://open.spotify.com/album/5ZPOnEFbI3BgWS1vHair0O) | 5:52 | 2021-12-27 |  |

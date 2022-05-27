@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 274836,
       "name": "An Ordinary Day - Instrumental",
       "url": "https://open.spotify.com/track/6mj5IfwylItDYOTtat9goJ"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 217972,
       "name": "Another Day (Instrumental)",
       "url": "https://open.spotify.com/track/7hAlPXfE6Abb4a9qIr8CEw"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 187853,
       "name": "Borrow your night (Romance 101 X 10CM) (Inst.)",
       "url": "https://open.spotify.com/track/03D05cWVgnhRf0Dh5ysiDv"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 231870,
       "name": "But it's Destiny - Instrumental",
       "url": "https://open.spotify.com/track/05XGxWMNwMNRfrMJkFQbjV"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 250847,
       "name": "Comfort Instrumental",
       "url": "https://open.spotify.com/track/6XbCdImvNM7ZrofMKe3WE1"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 254363,
       "name": "Confession (Inst.)",
       "url": "https://open.spotify.com/track/7A63UiHZvFru4yuzcZ9OW9"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 247909,
       "name": "Daydream - Instrumental",
       "url": "https://open.spotify.com/track/6Zc3PiXQTCxOh4qIxbr6rf"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 212200,
       "name": "Every second - Instrumental",
       "url": "https://open.spotify.com/track/1fzzhtCEeuvPRRfuMP4xtA"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Good Person (2022) - Instrumental",
       "url": "https://open.spotify.com/track/4eVLchM4qaokQ4adLgVK3R"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 236306,
       "name": "Goodbye - Instrumental",
       "url": "https://open.spotify.com/track/64BinSX8pzqvkfJqDpodOY"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 214373,
       "name": "Heavy Heart - Instrumental",
       "url": "https://open.spotify.com/track/2QOC5grYqt8ZFEwzcg7RwU"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 279779,
       "name": "Home Instrumental",
       "url": "https://open.spotify.com/track/5HHEhGBLhP6NAHNqXCkJeA"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 266378,
       "name": "I miss You (Inst.)",
       "url": "https://open.spotify.com/track/2SVfBP9o7D68OoeYxCmaGh"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 167974,
       "name": "I Miss You - Instrumental",
       "url": "https://open.spotify.com/track/6XAUinB9a1zkkFw8TlhlPI"
@@ -1118,6 +1118,24 @@
     },
     {
       "album": {
+        "name": "Mystic Pop-up Bar Pt.5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6crTXeOm8hTt52E7AwtWCs"
+      },
+      "artists": [
+        {
+          "name": "DMEANOR",
+          "url": "https://open.spotify.com/artist/0Czr7RzCmwnRfMK0dQOi4V"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222786,
+      "name": "I'll Take You To Tomorrow - Instrumental",
+      "url": "https://open.spotify.com/track/1DH1FRZZpbd38imzcuxfMn"
+    },
+    {
+      "album": {
         "name": "Memories of the Alhambra (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/412YGS6bMI9kN9g8YHyqTy"
       },
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 245633,
       "name": "I'm in love - Instrumental",
       "url": "https://open.spotify.com/track/6jYfbkPQKXmsLDfv0dQ6T4"
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 231693,
       "name": "If you're with me - Instrumental",
       "url": "https://open.spotify.com/track/6GBgCbLWz03xdW5RjQniLv"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 263779,
       "name": "Is You - Instrumental",
       "url": "https://open.spotify.com/track/1BMKKRFPC7C3pbjoYswcjk"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 239832,
       "name": "Kiss me (Inst.)",
       "url": "https://open.spotify.com/track/6MLqNwxbUvEzy3g6rY3g7w"
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 211363,
       "name": "Love Me Like That - Instrumental",
       "url": "https://open.spotify.com/track/2Bi7jDHh3IzLt3xJuyx4eU"
@@ -1540,6 +1558,24 @@
     },
     {
       "album": {
+        "name": "Memories of the Alhambra (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/6xmoo3XWmFVPyqXzHAZqec"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185833,
+      "name": "Memories of the Alhambra - Instrumental",
+      "url": "https://open.spotify.com/track/7Fe9dw7U38a6LqLxh33ZrZ"
+    },
+    {
+      "album": {
         "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/1sO4Z6uq4I2rxojS8p4Ser"
       },
@@ -1587,7 +1623,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 195789,
       "name": "More Than Words - Instrumental",
       "url": "https://open.spotify.com/track/78QbLG6ybYftybcqJxniL6"
@@ -1627,7 +1663,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 193951,
       "name": "My Love (Inst.)",
       "url": "https://open.spotify.com/track/3D7Cax8QFP43yWtw2ndinS"
@@ -1681,7 +1717,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 226040,
       "name": "My Tale - inst.",
       "url": "https://open.spotify.com/track/0ztk0XIgjQxvdyN0AIW18g"
@@ -1735,7 +1771,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 256306,
       "name": "Not Clumsy Anymore - Inst.",
       "url": "https://open.spotify.com/track/57BktxAPR5BpYECaBSS0P2"
@@ -1825,7 +1861,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 251346,
       "name": "Promise You - Inst.",
       "url": "https://open.spotify.com/track/4TCnuYiwp3j8A9LmWtIgpN"
@@ -1897,7 +1933,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 227368,
       "name": "Remember me (Instrumental)",
       "url": "https://open.spotify.com/track/3jjdSuIEJ4lLvIcv2xIkpb"
@@ -1915,7 +1951,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 225293,
       "name": "Run to You (Inst.)",
       "url": "https://open.spotify.com/track/2rhO7zfmrgOOAQYeKTsaJr"
@@ -1933,7 +1969,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 240618,
       "name": "Running through time - Instrumental",
       "url": "https://open.spotify.com/track/7v9vqcrtLOSnnoED1Kiduy"
@@ -1955,7 +1991,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 290078,
       "name": "Sad Ending - Instrumental",
       "url": "https://open.spotify.com/track/6lKCbZjUIubGi17voBICoT"
@@ -1991,7 +2027,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 170746,
       "name": "Say I Love U - Instrumental",
       "url": "https://open.spotify.com/track/253auyXWaaHMBWJXs63h5m"
@@ -2063,7 +2099,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 287800,
       "name": "Someday, The Boy Instrumental",
       "url": "https://open.spotify.com/track/1cVvH5rZ4IYYhJfKed7K2R"
@@ -2135,7 +2171,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 216734,
       "name": "Sunset - Instrumental",
       "url": "https://open.spotify.com/track/6FKSuCEc4UiO8gJidJKaoz"
@@ -2153,7 +2189,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 224021,
       "name": "Take My Hand - Instrumental",
       "url": "https://open.spotify.com/track/2gWhI5qs1hx9VrCzmFyqbb"
@@ -2189,7 +2225,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 189229,
       "name": "That's all (inst.)",
       "url": "https://open.spotify.com/track/3Jm82wyBDXJ8oT35p5VWYb"
@@ -2225,7 +2261,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 296134,
       "name": "The First Snow - Instrumental",
       "url": "https://open.spotify.com/track/3HeXYGErUXeEDiTBF2zoJP"
@@ -2441,7 +2477,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 253045,
       "name": "With My Tears - Instrumental",
       "url": "https://open.spotify.com/track/3B3unUWfhBzmrxPb9uwa0u"
@@ -2477,7 +2513,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 240590,
       "name": "You Are My Everything - Instrumental",
       "url": "https://open.spotify.com/track/1FCg1WKlpZU6earLUgWAJB"
@@ -2535,7 +2571,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 211539,
       "name": "Your day (Inst.)",
       "url": "https://open.spotify.com/track/2GEatg6wUmszBFp6uvcyCn"
@@ -2571,7 +2607,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 226574,
       "name": "\uc774 \uc0ac\ub791 (Instrumental)",
       "url": "https://open.spotify.com/track/2tQUuH4PcJRnqZk2LTKlTK"

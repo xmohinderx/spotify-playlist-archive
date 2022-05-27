@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Leto au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "Gazo au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "published_playlist_ids": [
     "4EHhRKwzSbzJAtj2VPo7Qd"
@@ -227,6 +227,24 @@
       "duration_ms": 179386,
       "name": "CANADA",
       "url": "https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk"
+    },
+    {
+      "album": {
+        "name": "CELINE 3X",
+        "url": "https://open.spotify.com/album/41kuLdSoezApusMB9AIZCT"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158223,
+      "name": "CELINE 3X",
+      "url": "https://open.spotify.com/track/2APwDsIavDeJRJFcz6s8Ow"
     },
     {
       "album": {
@@ -529,7 +547,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 182973,
       "name": "GROKUWA",
       "url": "https://open.spotify.com/track/0RnWcpTwUpfzPWGDjajX0o"

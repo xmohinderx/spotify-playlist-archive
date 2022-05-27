@@ -256,6 +256,24 @@
     },
     {
       "album": {
+        "name": "Brooklyn Sundown",
+        "url": "https://open.spotify.com/album/3w4zTZPjIuRoSOHT8ZD8RM"
+      },
+      "artists": [
+        {
+          "name": "Psycobossa",
+          "url": "https://open.spotify.com/artist/2M9WfpBHTqPoiW84s1n33f"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247144,
+      "name": "Brooklyn Sundown",
+      "url": "https://open.spotify.com/track/5eDzN5CD1AtmcAppuMWrAS"
+    },
+    {
+      "album": {
         "name": "Bucolic Architecture (Flug 8 Remix)",
         "url": "https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW"
       },
@@ -678,6 +696,46 @@
     },
     {
       "album": {
+        "name": "Get Sun (feat. Arthur Verocai)",
+        "url": "https://open.spotify.com/album/4voG9BTFD0GrLyKpEKdBSX"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337626,
+      "name": "Get Sun (feat. Arthur Verocai)",
+      "url": "https://open.spotify.com/track/4WdUMgVMYdn1xeu3X2z9Ai"
+    },
+    {
+      "album": {
+        "name": "Fangtooth",
+        "url": "https://open.spotify.com/album/7G3U6ikCPyS1dgQYmlw7qz"
+      },
+      "artists": [
+        {
+          "name": "Movie Club",
+          "url": "https://open.spotify.com/artist/3wkilXKggx1opfGLeRK1tC"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255647,
+      "name": "Ghost in the Machine",
+      "url": "https://open.spotify.com/track/3TzsCBPAH3GHE0drmgaACn"
+    },
+    {
+      "album": {
         "name": "Millions Now Living Will Never Die",
         "url": "https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh"
       },
@@ -707,7 +765,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 207407,
       "name": "Green Phase, Part One",
       "url": "https://open.spotify.com/track/1hQ6qPmHgJhjGkAhhvBQvg"
@@ -754,6 +812,24 @@
     },
     {
       "album": {
+        "name": "v2.0",
+        "url": "https://open.spotify.com/album/0ZvyleSEIlDbklGZ995APl"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234626,
+      "name": "Hopopono",
+      "url": "https://open.spotify.com/track/1hW0VwYPGPzkz2CIXVIY78"
+    },
+    {
+      "album": {
         "name": "All the Unknown",
         "url": "https://open.spotify.com/album/31U9MBpTspcwmENreYTt1Q"
       },
@@ -787,6 +863,24 @@
       "duration_ms": 274973,
       "name": "Imagineering",
       "url": "https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938"
+    },
+    {
+      "album": {
+        "name": "Ambient Mix Tape",
+        "url": "https://open.spotify.com/album/2RM4GLMLWBrXCEzz0XL1BM"
+      },
+      "artists": [
+        {
+          "name": "Egopusher",
+          "url": "https://open.spotify.com/artist/6OyLCLGxOLOnQK1MrXBVuz"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337116,
+      "name": "Imitation",
+      "url": "https://open.spotify.com/track/0UARftAOvuyUUbK4sa9m6U"
     },
     {
       "album": {
@@ -863,7 +957,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 276172,
       "name": "Inspiral",
       "url": "https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8"
@@ -921,7 +1015,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 315693,
       "name": "Kandaiki",
       "url": "https://open.spotify.com/track/3jzerzfM8lLFej7MAry7qG"
@@ -961,6 +1055,50 @@
       "duration_ms": 238000,
       "name": "Klass - MISSUXO Film Edit",
       "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
+    },
+    {
+      "album": {
+        "name": "Knee-Deep in the North Sea",
+        "url": "https://open.spotify.com/album/2A8c5znvmslp2I77dTBV1K"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287333,
+      "name": "Knee-Deep in the North Sea",
+      "url": "https://open.spotify.com/track/5lQwxQkZcJLeyS7d2adJUa"
+    },
+    {
+      "album": {
+        "name": "Futurangelics",
+        "url": "https://open.spotify.com/album/25wDjDE7GAMDwZ9PmWupfL"
+      },
+      "artists": [
+        {
+          "name": "Brin",
+          "url": "https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp"
+        },
+        {
+          "name": "Dntel",
+          "url": "https://open.spotify.com/artist/1jf3CssdtSksxNa3uIpPzS"
+        },
+        {
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207247,
+      "name": "lauren iii",
+      "url": "https://open.spotify.com/track/0fwWhVTKTOXXjtr2E7S8hS"
     },
     {
       "album": {
@@ -1111,7 +1249,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 279464,
       "name": "Marrow",
       "url": "https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR"
@@ -1129,7 +1267,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 213026,
       "name": "Midnight Horizon",
       "url": "https://open.spotify.com/track/5cfK17MedUMS1ElYVFa3Uv"
@@ -1147,7 +1285,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 283800,
       "name": "Migrants",
       "url": "https://open.spotify.com/track/1z0DCBuLsbLo3qw5XzQ52E"
@@ -1249,10 +1387,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 225781,
       "name": "Mute - Jan Wagner Remix",
       "url": "https://open.spotify.com/track/5XyKeJ3QkPsffeTxmdmoFx"
+    },
+    {
+      "album": {
+        "name": "Mysteries",
+        "url": "https://open.spotify.com/album/6jGXRmqwwd25TgRbNT6X2P"
+      },
+      "artists": [
+        {
+          "name": "Antarctic Wastelands",
+          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183851,
+      "name": "Mysteries",
+      "url": "https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv"
     },
     {
       "album": {
@@ -1304,6 +1460,24 @@
     },
     {
       "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/6uUwz4it5yrKVms5SqGtxw"
+      },
+      "artists": [
+        {
+          "name": "Bruno Sanfilippo",
+          "url": "https://open.spotify.com/artist/5F2LyonwBskQycxLnIMz94"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370132,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/6JoZvUoYPSmqJ0CegHXpoG"
+    },
+    {
+      "album": {
         "name": "Don't Shy Away",
         "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
       },
@@ -1322,6 +1496,24 @@
     },
     {
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/3hmdSJCfqDEzHUhStUWUBN"
+      },
+      "artists": [
+        {
+          "name": "Uncivilized",
+          "url": "https://open.spotify.com/artist/2ZqdWXLuVuGMVWfVeRX0gw"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76394,
+      "name": "One to Six",
+      "url": "https://open.spotify.com/track/6dJnizBMzHGxpuBwEPfSRC"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we"
       },
@@ -1337,7 +1529,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 256026,
       "name": "Open Hill",
       "url": "https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW"
@@ -1467,7 +1659,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 224435,
       "name": "Refractions",
       "url": "https://open.spotify.com/track/0aMlFZh0kcbGDknlQTRCE3"
@@ -1489,6 +1681,32 @@
       "duration_ms": 256364,
       "name": "Send Your Name To Mars",
       "url": "https://open.spotify.com/track/5FAnr3QSEL1An4ClKU4Fcb"
+    },
+    {
+      "album": {
+        "name": "Sing a Silent Gospel",
+        "url": "https://open.spotify.com/album/3rwxWj8cfVDV4HGOz7Mn78"
+      },
+      "artists": [
+        {
+          "name": "Badge \u00c9poque Ensemble",
+          "url": "https://open.spotify.com/artist/08E0CO6MC1ykoQP5VQt4hL"
+        },
+        {
+          "name": "U.S. Girls",
+          "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
+        },
+        {
+          "name": "Dorothea Paas",
+          "url": "https://open.spotify.com/artist/43PJplvsEukrxqpOwEGByn"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379240,
+      "name": "Sing a Silent Gospel",
+      "url": "https://open.spotify.com/track/02RFBrIISkDbPdyeLh0Dh0"
     },
     {
       "album": {
@@ -1546,6 +1764,24 @@
     },
     {
       "album": {
+        "name": "Death to the Planet",
+        "url": "https://open.spotify.com/album/3qFgijcQbTS5frVRo3wt9R"
+      },
+      "artists": [
+        {
+          "name": "The Comet Is Coming",
+          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392157,
+      "name": "Start Running",
+      "url": "https://open.spotify.com/track/7JQaw1W3H6JD3LJ1yDvnS8"
+    },
+    {
+      "album": {
         "name": "Strange Town (Remixes)",
         "url": "https://open.spotify.com/album/3IWvpskD2SS8YToV4Dkt7T"
       },
@@ -1597,7 +1833,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 284666,
       "name": "Ten-Day Interval",
       "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
@@ -1633,7 +1869,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 276902,
       "name": "The Accident",
       "url": "https://open.spotify.com/track/41Ff5UlYl58MBR4hpLSHSl"
@@ -1705,10 +1941,68 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 251840,
       "name": "Theme from 'Behind the Curtain'",
       "url": "https://open.spotify.com/track/2VeYKsOmvGnN9Wd0RTDPuC"
+    },
+    {
+      "album": {
+        "name": "They Call Me Magic (Main Title Theme)",
+        "url": "https://open.spotify.com/album/1IB5VhDtp17iJXnNmvWWKm"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64719,
+      "name": "They Call Me Magic (Main Title Theme)",
+      "url": "https://open.spotify.com/track/2eeF4YCraIqJ5t6vP80DAt"
+    },
+    {
+      "album": {
+        "name": "Prince Blimey",
+        "url": "https://open.spotify.com/album/4ZaedkRcNzuoavBWJXF2ha"
+      },
+      "artists": [
+        {
+          "name": "Red Snapper",
+          "url": "https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341400,
+      "name": "Thomas The Fib",
+      "url": "https://open.spotify.com/track/7aWDd1MdZrgOb0W2DyAKq9"
+    },
+    {
+      "album": {
+        "name": "Tide",
+        "url": "https://open.spotify.com/album/0jFeqRTJcqVjsFq1XEyw9Y"
+      },
+      "artists": [
+        {
+          "name": "Kumi Takahara",
+          "url": "https://open.spotify.com/artist/061SWysWFkpgQ2h5Q3oaK5"
+        },
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362466,
+      "name": "Tide",
+      "url": "https://open.spotify.com/track/2v2ZostkiMcb5EB9iRY8Ae"
     },
     {
       "album": {
@@ -1749,7 +2043,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 284480,
       "name": "Track X",
       "url": "https://open.spotify.com/track/6jezfOPKkARrn1J8AwHTE4"
@@ -1821,7 +2115,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 138787,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/6VtRGov8SEpPMq569x76mz"
@@ -1937,7 +2231,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 297287,
       "name": "You Want Dark Tunes?",
       "url": "https://open.spotify.com/track/5sIYyLglAXMRVkhi5IxAwP"

@@ -1070,6 +1070,24 @@
     },
     {
       "album": {
+        "name": "Leech",
+        "url": "https://open.spotify.com/album/4xnqnQAzwMK6gZsuPTojvU"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230186,
+      "name": "Leech",
+      "url": "https://open.spotify.com/track/213FfJIwavzYZrAXa2nNL5"
+    },
+    {
+      "album": {
         "name": "Lost Meaning",
         "url": "https://open.spotify.com/album/4bqWiqFCLeCet10f1rzCUe"
       },
@@ -1139,6 +1157,24 @@
       "duration_ms": 197875,
       "name": "Mid Life Crisis",
       "url": "https://open.spotify.com/track/4dl3miUk9mZQQPFvBJgqvd"
+    },
+    {
+      "album": {
+        "name": "Mime the End",
+        "url": "https://open.spotify.com/album/2JlflTRYDfkXcBPYOY0vEr"
+      },
+      "artists": [
+        {
+          "name": "False Heads",
+          "url": "https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "Mime the End",
+      "url": "https://open.spotify.com/track/4VixwQOWUptGs1sF1YeEDS"
     },
     {
       "album": {
@@ -1495,7 +1531,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 187396,
       "name": "Spit It Out",
       "url": "https://open.spotify.com/track/44la56EZdE2fw9r963o5E2"
@@ -1805,7 +1841,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 222307,
       "name": "Tribe",
       "url": "https://open.spotify.com/track/0zbhp3vwTYsqd6JDnyKUg9"

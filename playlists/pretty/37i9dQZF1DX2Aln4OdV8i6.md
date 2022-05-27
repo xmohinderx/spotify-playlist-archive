@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Aln4OdV8i6.md) - [plain]
 
 > Soothing instrumental music for a peaceful sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,702 likes - 53 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,793 likes - 53 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

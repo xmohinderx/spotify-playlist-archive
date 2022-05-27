@@ -2,7 +2,7 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia\. Cover: C'mon Lennon
+> Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia\. Cover: Rock N Roll Mafia
 
 80 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
 

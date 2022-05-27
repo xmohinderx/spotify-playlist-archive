@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Venga, Bea
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,336 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,374 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 39 | [Asesino del Amor](https://open.spotify.com/track/6SDu8tbkavKJHAfEwvfGJT) | [Asesinos del Amor](https://open.spotify.com/artist/6Un88RvJuwB8X1kJvikaK5) | [Asesino del Amor](https://open.spotify.com/album/4wSUDFDAMPbTQceY7mZqD6) | 3:02 |
 | 40 | [Mi Novia Queer](https://open.spotify.com/track/4uv7h3EYpAISmPlO9jO8Wy) | [Fera y las Disidentes](https://open.spotify.com/artist/4K91aP7FaqHzRTlBxllG0X) | [Mi Novia Queer](https://open.spotify.com/album/6uEjTnYedIk7yXl53M1Usq) | 2:18 |
 | 41 | [Hasta Volar](https://open.spotify.com/track/5ZG1j1T1gQ2p3fKKKyB0t4) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Hasta Volar](https://open.spotify.com/album/2avliOwbglc6Wcn3bBe82I) | 2:50 |
-| 42 | [QUIMERA](https://open.spotify.com/track/5Sv2b9gvm89vKj4QUbYZ5S) | [Espineli](https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f) | [QUIMERA](https://open.spotify.com/album/3EaoHiD0mPcBP2sasVvFcZ) | 3:20 |
+| 42 | [QUIMERA](https://open.spotify.com/track/5Sv2b9gvm89vKj4QUbYZ5S) | [Espineli](https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f), [Qubes](https://open.spotify.com/artist/5pDuxwOINNzR8NIX4W4qBy) | [QUIMERA](https://open.spotify.com/album/3EaoHiD0mPcBP2sasVvFcZ) | 3:20 |
 | 43 | [No Es Tan Fácil](https://open.spotify.com/track/1LyjhQ1kmKAoHNQmpc4M6q) | [Elena Mesa](https://open.spotify.com/artist/3TuPoyrn7qfq9rMfgTk2hi) | [No Es Tan Fácil](https://open.spotify.com/album/5lJnbycu5KEwasZPh1nL95) | 3:06 |
 | 44 | [Salgo en tu dedicatoria](https://open.spotify.com/track/1V2XvCtsWOcHJHt1jca0lu) | [Invisible Harvey](https://open.spotify.com/artist/5KCXa3UiVLRC1kE4VrvrOs) | [Salgo en tu dedicatoria](https://open.spotify.com/album/13hh34zEpXJUUUmQD4z6Ry) | 3:55 |
 | 45 | [Que No Se Entere Nadie](https://open.spotify.com/track/3hgil2fjRYIVBC6gYaZc3g) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam) | [Que No Se Entere Nadie](https://open.spotify.com/album/0uPuYwQvdP01Jqn06tGaqk) | 3:21 |

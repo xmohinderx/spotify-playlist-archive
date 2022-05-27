@@ -1,6 +1,6 @@
 {
   "description": "Texas music breaking waves. Cover, Kaash Paige ",
-  "num_followers": 3343,
+  "num_followers": 3349,
   "original_name": "Ripple Effect: Texas",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "MTY1MzAzNDU5MSwwMDAwMDAxYzAwMDAwMTgwZTA4YTI0Y2QwMDAwMDE4MGUwODU2OTQ1",
   "tracks": [
+    {
+      "added_at": "2022-05-20 08:16:31",
+      "album": {
+        "name": "24 Hrs",
+        "url": "https://open.spotify.com/album/3t9cOTSY2P2Nj7pkbGv7M3"
+      },
+      "artists": [
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 167945,
+      "name": "24 Hrs",
+      "url": "https://open.spotify.com/track/0GMxsSQhO9Yj8aKhN8ljFe"
+    },
     {
       "added_at": "2022-05-20 08:16:31",
       "album": {

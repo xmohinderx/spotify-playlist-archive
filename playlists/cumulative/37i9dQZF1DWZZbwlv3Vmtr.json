@@ -423,7 +423,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 83720,
       "name": "Authentic",
       "url": "https://open.spotify.com/track/6ibi48DPWz04U2lTWp3G8o"
@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 126358,
       "name": "Coffee 'n' Sugah",
       "url": "https://open.spotify.com/track/2cRJ29cz59xJlz7Teh7kbm"
@@ -1367,7 +1367,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 197476,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/1ZANGntZPUTTPR0P6n6upr"
@@ -1425,6 +1425,24 @@
       "duration_ms": 143750,
       "name": "don't worry it will be okay",
       "url": "https://open.spotify.com/track/5mCdx36Sn4lSlmFeMozAGI"
+    },
+    {
+      "album": {
+        "name": "Done",
+        "url": "https://open.spotify.com/album/6HrXUyuJx3BDKQkrF2l1s8"
+      },
+      "artists": [
+        {
+          "name": "Wieland & Ulrich",
+          "url": "https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/0fX9ormKlG4EDxOMMCFfit"
     },
     {
       "album": {
@@ -2162,6 +2180,28 @@
     },
     {
       "album": {
+        "name": "Gone But Still Here",
+        "url": "https://open.spotify.com/album/6h0xB0oc60fPOMKAuUhgYY"
+      },
+      "artists": [
+        {
+          "name": "Teo",
+          "url": "https://open.spotify.com/artist/5d7FgxqeULkBnt4j8cpPJk"
+        },
+        {
+          "name": "Louis Woods",
+          "url": "https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114425,
+      "name": "Gone But Still Here",
+      "url": "https://open.spotify.com/track/1HSken8BGnbxMXhihATudV"
+    },
+    {
+      "album": {
         "name": "Gray or Grey",
         "url": "https://open.spotify.com/album/2IsZrqLuFZHHM46SvrCLOd"
       },
@@ -2617,7 +2657,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 96020,
       "name": "Isometric",
       "url": "https://open.spotify.com/track/03WLofqjCXR2xFL3cQqc0E"
@@ -2815,7 +2855,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 236800,
       "name": "Kids",
       "url": "https://open.spotify.com/track/50b0kt9UF5zu9WDiaIjAxL"
@@ -3101,7 +3141,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 114362,
       "name": "Liquorice",
       "url": "https://open.spotify.com/track/34gmdxjVoCAQIDixBNhYda"
@@ -3922,6 +3962,28 @@
     },
     {
       "album": {
+        "name": "Night Session",
+        "url": "https://open.spotify.com/album/3JzhW3MaqUrJVLKNJIR3dY"
+      },
+      "artists": [
+        {
+          "name": "LOKY",
+          "url": "https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh"
+        },
+        {
+          "name": "Bequem",
+          "url": "https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125861,
+      "name": "Night Session",
+      "url": "https://open.spotify.com/track/1zDp1QFkvTuqX8tPoljHyM"
+    },
+    {
+      "album": {
         "name": "nightdrive",
         "url": "https://open.spotify.com/album/5WgyOVLv9DShm6xXKwJ3LZ"
       },
@@ -3933,7 +3995,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 122815,
       "name": "nightdrive",
       "url": "https://open.spotify.com/track/0fOOBR8JW4u6D8jF6GNhFF"
@@ -3977,6 +4039,24 @@
       "duration_ms": 97724,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/6GsBfkNYIF71yW65Ip7C8K"
+    },
+    {
+      "album": {
+        "name": "Okains Bay",
+        "url": "https://open.spotify.com/album/1XlYdgPcRKZCYgYJWkZ42z"
+      },
+      "artists": [
+        {
+          "name": "Bird Svens\u00f8n",
+          "url": "https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142657,
+      "name": "Okains Bay",
+      "url": "https://open.spotify.com/track/7IdC8X9vBmMuwWmKKkawu7"
     },
     {
       "album": {
@@ -4507,7 +4587,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 135000,
       "name": "Postcards",
       "url": "https://open.spotify.com/track/6CCXRC8JslvUainLY7In0P"
@@ -4525,7 +4605,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 98666,
       "name": "Postman",
       "url": "https://open.spotify.com/track/4lljvV3zQYu8CBBrfbj7wj"
@@ -5377,7 +5457,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 109741,
       "name": "Smoothie",
       "url": "https://open.spotify.com/track/3CgV5NE3nhut4zms1zPJ7R"
@@ -5590,6 +5670,32 @@
     },
     {
       "album": {
+        "name": "Star Guard",
+        "url": "https://open.spotify.com/album/2HQ6vnGgb5yhj0poekpahW"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        },
+        {
+          "name": "Arcanyz",
+          "url": "https://open.spotify.com/artist/6P9n0dWWZ5e635iygIyzwB"
+        },
+        {
+          "name": "Matija Lazic",
+          "url": "https://open.spotify.com/artist/7n5I2WFL66EZNrmd1rxBnB"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108800,
+      "name": "Star Guard",
+      "url": "https://open.spotify.com/track/4hvl1Ohh3qtWrAII44iohS"
+    },
+    {
+      "album": {
         "name": "Lagom",
         "url": "https://open.spotify.com/album/4k7Eh3WH907ikJlxC5B0C4"
       },
@@ -5655,7 +5761,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 108000,
       "name": "Still Young",
       "url": "https://open.spotify.com/track/4akTe398s6zuJumFOM84Ik"
@@ -6259,7 +6365,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 92176,
       "name": "The Neighborhood",
       "url": "https://open.spotify.com/track/1fRCaeLqrS0hlbuyrmJyNz"
@@ -6397,6 +6503,24 @@
       "duration_ms": 150155,
       "name": "The Warmup",
       "url": "https://open.spotify.com/track/1EgG7IPC4yKKERNx9caeck"
+    },
+    {
+      "album": {
+        "name": "Sensei",
+        "url": "https://open.spotify.com/album/76s8dxo8JFBoyLmVOu6esq"
+      },
+      "artists": [
+        {
+          "name": "Soul Dojo",
+          "url": "https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139058,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7op5NFvJzRLffdGkYzJpUX"
     },
     {
       "album": {
@@ -6617,7 +6741,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 110914,
       "name": "tubulars",
       "url": "https://open.spotify.com/track/2FDXqN9DvsbafzQjp0e32T"

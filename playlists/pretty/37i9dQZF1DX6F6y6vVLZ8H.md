@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 
 > A collection of songs from <a href="spotify:user:nytrvduf711vc7ja3kv9vwgnm">Tony Hawk's Pro Skater 1 + 2</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,921 likes - 53 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,985 likes - 53 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 52 | [Slow Learner](https://open.spotify.com/track/3anIPGbdjxjkbwtHoBG4W4) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/7GCnSXQc6H4vF8TU7hSdSk) | 3:11 |
 | 53 | [All My Friends Are Nobodies](https://open.spotify.com/track/0ImdOZzfzWSIkB4ToC2buF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [All My Friends Are Nobodies](https://open.spotify.com/album/6VTNdekziQXzcf4gvy9hcM) | 3:03 |
 
-Snapshot ID: `MTY1MzUyNzU4OSwwMDAwMDAwMDBlNWU2N2Y4Y2QyZDBiM2E4NDIxNWJjYTE0ZWI1OTY5`
+Snapshot ID: `MTY1MzYxMzcyNSwwMDAwMDAwMDBlNWU2N2Y4Y2QyZDBiM2E4NDIxNWJjYTE0ZWI1OTY5`

@@ -1,115 +1,31 @@
 {
-  "description": "The best French indie tracks right now. Cover: La Belle Vie",
-  "num_followers": 300903,
+  "description": "The best French indie tracks right now. Cover: Iz\u00efa",
+  "num_followers": 300972,
   "original_name": "Made in France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjk5NzYwMCwwMDAwMDIwMzAwMDAwMTgwZGU1NWIzZTAwMDAwMDE4MGQ2ZjM1YjY0",
+  "snapshot_id": "MTY1MzYwMjUyMCwwMDAwMDIwNDAwMDAwMTgxMDI2NDBjNDAwMDAwMDE4MGY1Nzk3OTAx",
   "tracks": [
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
-        "name": "Mauvaises habitudes",
-        "url": "https://open.spotify.com/album/4m2wFrYax0HZnx8eIAheGv"
+        "name": "Tandem",
+        "url": "https://open.spotify.com/album/0xW35d2VzLZaCiIeG4BLRs"
       },
       "artists": [
         {
-          "name": "La Belle Vie",
-          "url": "https://open.spotify.com/artist/7MrDzS5aCy6jjBVqRidPCY"
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
         }
       ],
-      "duration_ms": 145002,
-      "name": "Mauvaises habitudes",
-      "url": "https://open.spotify.com/track/0s1QWICdAhug2jCIZJ4QQZ"
+      "duration_ms": 199509,
+      "name": "Tandem",
+      "url": "https://open.spotify.com/track/6EpXkYDIjzUnJlXzJuQIXE"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": ":):",
-        "url": "https://open.spotify.com/album/6yzdgvmCB1jnKqNZhnoJ1m"
-      },
-      "artists": [
-        {
-          "name": "Mr GISCARD",
-          "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "JVP",
-      "url": "https://open.spotify.com/track/4rg0hY2RIvnVcbQ4AoSH1T"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Mon c\u0153ur",
-        "url": "https://open.spotify.com/album/3FTUbM0nfkQqF0KWSIWhFf"
-      },
-      "artists": [
-        {
-          "name": "Iz\u00efa",
-          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
-        }
-      ],
-      "duration_ms": 198921,
-      "name": "Mon c\u0153ur",
-      "url": "https://open.spotify.com/track/1BxdizqeXJ9jRfMK0XStIL"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "minuit",
-        "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
-      },
-      "artists": [
-        {
-          "name": "Clementine",
-          "url": "https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx"
-        },
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "minuit",
-      "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/7HHPXRjZpDWRG262GcKyQb"
-      },
-      "artists": [
-        {
-          "name": "Waves",
-          "url": "https://open.spotify.com/artist/6OAt6nE577DixeDhfNFVkH"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2zkXYQrGkffMqvQvYrtxg8"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
         "name": "Le Tuto",
         "url": "https://open.spotify.com/album/6DMKItPu49cvlJmiKC0qdL"
@@ -129,167 +45,59 @@
       "url": "https://open.spotify.com/track/7CQWOTljGv2tc9leEARsTa"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
-        "name": "La flemme",
-        "url": "https://open.spotify.com/album/5sg3y4ml5628Ti4BqFuriV"
+        "name": "minuit",
+        "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
       },
       "artists": [
         {
-          "name": "Nell Widmer",
-          "url": "https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2"
+          "name": "Clementine",
+          "url": "https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx"
+        },
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
         }
       ],
-      "duration_ms": 167962,
-      "name": "La flemme",
-      "url": "https://open.spotify.com/track/1mvbKqnrMeIlknpqPKoDYL"
+      "duration_ms": 225013,
+      "name": "minuit",
+      "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
-        "name": "Don't Wait For Me",
-        "url": "https://open.spotify.com/album/4oDHowJIOTQIHqVH6ZkJVG"
+        "name": "Mauvaises habitudes",
+        "url": "https://open.spotify.com/album/4m2wFrYax0HZnx8eIAheGv"
       },
       "artists": [
         {
-          "name": "Hyphen Hyphen",
-          "url": "https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV"
+          "name": "La Belle Vie",
+          "url": "https://open.spotify.com/artist/7MrDzS5aCy6jjBVqRidPCY"
         }
       ],
-      "duration_ms": 178584,
-      "name": "Don't Wait For Me",
-      "url": "https://open.spotify.com/track/3NMtxjqI71lyj1V0TkPwVR"
+      "duration_ms": 145002,
+      "name": "Mauvaises habitudes",
+      "url": "https://open.spotify.com/track/0s1QWICdAhug2jCIZJ4QQZ"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
-        "name": "M\u00e9dicament",
-        "url": "https://open.spotify.com/album/4BOS3DHnFFozs9nDVGiO0j"
+        "name": ":):",
+        "url": "https://open.spotify.com/album/6yzdgvmCB1jnKqNZhnoJ1m"
       },
       "artists": [
         {
-          "name": "BLOWSOM",
-          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+          "name": "Mr GISCARD",
+          "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
         }
       ],
-      "duration_ms": 202985,
-      "name": "M\u00e9dicament",
-      "url": "https://open.spotify.com/track/6ths4lLgtobquTsQ6hM6oa"
+      "duration_ms": 170600,
+      "name": "JVP",
+      "url": "https://open.spotify.com/track/4rg0hY2RIvnVcbQ4AoSH1T"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Seule sous ma frange",
-        "url": "https://open.spotify.com/album/2mu9cesnOqR7w5otGmRYgS"
-      },
-      "artists": [
-        {
-          "name": "Pi Ja Ma",
-          "url": "https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA"
-        }
-      ],
-      "duration_ms": 195613,
-      "name": "Destination l'amour",
-      "url": "https://open.spotify.com/track/0Iol63wVJyT2kaRhYix6iH"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Vitesse",
-        "url": "https://open.spotify.com/album/1OZCPkSN0TafKv9x5ScGyz"
-      },
-      "artists": [
-        {
-          "name": "Napkey",
-          "url": "https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE"
-        }
-      ],
-      "duration_ms": 168181,
-      "name": "Vitesse",
-      "url": "https://open.spotify.com/track/4DhlB9yRUYEyIFluBInAtX"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Misunderstood",
-        "url": "https://open.spotify.com/album/6ju1O90njqELb8iVbc2bOh"
-      },
-      "artists": [
-        {
-          "name": "Miki",
-          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
-        }
-      ],
-      "duration_ms": 153872,
-      "name": "Misunderstood",
-      "url": "https://open.spotify.com/track/4cd2bB36S1dcP88xNZnY3p"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Ma plus belle aventure",
-        "url": "https://open.spotify.com/album/3pHIOSWVoT7vaYswR0rLQO"
-      },
-      "artists": [
-        {
-          "name": "Bleu Toucan",
-          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
-        }
-      ],
-      "duration_ms": 197125,
-      "name": "Ma plus belle aventure",
-      "url": "https://open.spotify.com/track/6O0kgPvEUySOADRg4eNuvh"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Comment tu vas finir",
-        "url": "https://open.spotify.com/album/7cJZ69AZhMMGk87nRwY8sz"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Comment tu vas finir",
-      "url": "https://open.spotify.com/track/4I0ZSC98oOw0S1f9cb9qxT"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Tandem",
-        "url": "https://open.spotify.com/album/0xW35d2VzLZaCiIeG4BLRs"
-      },
-      "artists": [
-        {
-          "name": "Emma Hoet",
-          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
-        }
-      ],
-      "duration_ms": 199509,
-      "name": "Tandem",
-      "url": "https://open.spotify.com/track/6EpXkYDIjzUnJlXzJuQIXE"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Tomber sur toi",
-        "url": "https://open.spotify.com/album/0SUoYmi2VwoCiYh16PjEhv"
-      },
-      "artists": [
-        {
-          "name": "Miel De Montagne",
-          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "Tomber sur toi",
-      "url": "https://open.spotify.com/track/5ROlPKakaGkRvOungamJK2"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
         "name": "Pas d'ici",
         "url": "https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU"
@@ -305,55 +113,155 @@
       "url": "https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
-        "name": "La vie de tous les jours",
-        "url": "https://open.spotify.com/album/6rvl6pe5E3uCMZPzLKQJO8"
+        "name": "Un Peu d'Amour",
+        "url": "https://open.spotify.com/album/6oxjEeaBzvRABmCzy5JJce"
       },
       "artists": [
         {
-          "name": "Jacques",
-          "url": "https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh"
+          "name": "MAGENTA",
+          "url": "https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA"
+        },
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
         }
       ],
-      "duration_ms": 173253,
-      "name": "La vie de tous les jours",
-      "url": "https://open.spotify.com/track/5smfgFsXaD4F510jOD0wLa"
+      "duration_ms": 331600,
+      "name": "Un Peu d'Amour",
+      "url": "https://open.spotify.com/track/51pcyfpMb8YF2d5NONzheW"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
-        "name": "Pampa",
-        "url": "https://open.spotify.com/album/3fhGVkv2gwWWqibMwPcDHN"
+        "name": "Misunderstood",
+        "url": "https://open.spotify.com/album/6ju1O90njqELb8iVbc2bOh"
       },
       "artists": [
         {
-          "name": "Charlotte Fever",
-          "url": "https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX"
+          "name": "Miki",
+          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
         }
       ],
-      "duration_ms": 202941,
-      "name": "Pampa",
-      "url": "https://open.spotify.com/track/2JHWd0U5QENovcGYjwsE1g"
+      "duration_ms": 153872,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/4cd2bB36S1dcP88xNZnY3p"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
-        "name": "Masque d'or",
-        "url": "https://open.spotify.com/album/0sVy9SnT2H5X73D3MwvTvt"
+        "name": "M\u00e9dicament",
+        "url": "https://open.spotify.com/album/4BOS3DHnFFozs9nDVGiO0j"
       },
       "artists": [
         {
-          "name": "Fishbach",
-          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
         }
       ],
-      "duration_ms": 211706,
-      "name": "Masque d'or",
-      "url": "https://open.spotify.com/track/2XvLofkaGVsRK7OFHJke4h"
+      "duration_ms": 202985,
+      "name": "M\u00e9dicament",
+      "url": "https://open.spotify.com/track/6ths4lLgtobquTsQ6hM6oa"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Mon c\u0153ur",
+        "url": "https://open.spotify.com/album/3FTUbM0nfkQqF0KWSIWhFf"
+      },
+      "artists": [
+        {
+          "name": "Iz\u00efa",
+          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
+        }
+      ],
+      "duration_ms": 198921,
+      "name": "Mon c\u0153ur",
+      "url": "https://open.spotify.com/track/1BxdizqeXJ9jRfMK0XStIL"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "La flemme",
+        "url": "https://open.spotify.com/album/5sg3y4ml5628Ti4BqFuriV"
+      },
+      "artists": [
+        {
+          "name": "Nell Widmer",
+          "url": "https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2"
+        }
+      ],
+      "duration_ms": 167962,
+      "name": "La flemme",
+      "url": "https://open.spotify.com/track/1mvbKqnrMeIlknpqPKoDYL"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Don't Wait For Me",
+        "url": "https://open.spotify.com/album/4oDHowJIOTQIHqVH6ZkJVG"
+      },
+      "artists": [
+        {
+          "name": "Hyphen Hyphen",
+          "url": "https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV"
+        }
+      ],
+      "duration_ms": 178584,
+      "name": "Don't Wait For Me",
+      "url": "https://open.spotify.com/track/3NMtxjqI71lyj1V0TkPwVR"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Ma plus belle aventure",
+        "url": "https://open.spotify.com/album/3pHIOSWVoT7vaYswR0rLQO"
+      },
+      "artists": [
+        {
+          "name": "Bleu Toucan",
+          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
+        }
+      ],
+      "duration_ms": 197125,
+      "name": "Ma plus belle aventure",
+      "url": "https://open.spotify.com/track/6O0kgPvEUySOADRg4eNuvh"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Comment tu vas finir",
+        "url": "https://open.spotify.com/album/7cJZ69AZhMMGk87nRwY8sz"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Comment tu vas finir",
+      "url": "https://open.spotify.com/track/4I0ZSC98oOw0S1f9cb9qxT"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Tears for Breakfast",
+        "url": "https://open.spotify.com/album/2GkLSiLPblsCvB5BpFCRcp"
+      },
+      "artists": [
+        {
+          "name": "Eug\u00e9nie",
+          "url": "https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K"
+        }
+      ],
+      "duration_ms": 169510,
+      "name": "Tears for Breakfast",
+      "url": "https://open.spotify.com/track/2uN5St1CwzuDOasc833jHd"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
       "album": {
         "name": "CONTREPOINTS",
         "url": "https://open.spotify.com/album/7IQfExwIGb8PpwbFkR4awD"
@@ -369,7 +277,103 @@
       "url": "https://open.spotify.com/track/0rwsEAo5cS4jMcPOznBEpo"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Seule sous ma frange",
+        "url": "https://open.spotify.com/album/2mu9cesnOqR7w5otGmRYgS"
+      },
+      "artists": [
+        {
+          "name": "Pi Ja Ma",
+          "url": "https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA"
+        }
+      ],
+      "duration_ms": 195613,
+      "name": "Destination l'amour",
+      "url": "https://open.spotify.com/track/0Iol63wVJyT2kaRhYix6iH"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/7HHPXRjZpDWRG262GcKyQb"
+      },
+      "artists": [
+        {
+          "name": "Waves",
+          "url": "https://open.spotify.com/artist/6OAt6nE577DixeDhfNFVkH"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2zkXYQrGkffMqvQvYrtxg8"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Tomber sur toi",
+        "url": "https://open.spotify.com/album/0SUoYmi2VwoCiYh16PjEhv"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "Tomber sur toi",
+      "url": "https://open.spotify.com/track/5ROlPKakaGkRvOungamJK2"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Vitesse",
+        "url": "https://open.spotify.com/album/1OZCPkSN0TafKv9x5ScGyz"
+      },
+      "artists": [
+        {
+          "name": "Napkey",
+          "url": "https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE"
+        }
+      ],
+      "duration_ms": 168181,
+      "name": "Vitesse",
+      "url": "https://open.spotify.com/track/4DhlB9yRUYEyIFluBInAtX"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Un coup de g\u00e9nie",
+        "url": "https://open.spotify.com/album/3QxWS5kGcfdpE80oOhrrte"
+      },
+      "artists": [
+        {
+          "name": "Dani Terreur",
+          "url": "https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z"
+        }
+      ],
+      "duration_ms": 192979,
+      "name": "Un coup de g\u00e9nie",
+      "url": "https://open.spotify.com/track/0NGl6062nPDjtyZe8ie6r6"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Construire un feu",
+        "url": "https://open.spotify.com/album/5ohn4rsXCl5TyIOKT6vxW6"
+      },
+      "artists": [
+        {
+          "name": "Vickie Cherie",
+          "url": "https://open.spotify.com/artist/7mUVdIwwAN5YJlMMir29Up"
+        }
+      ],
+      "duration_ms": 239834,
+      "name": "Construire un feu",
+      "url": "https://open.spotify.com/track/06fPgubILYvUlNHW9MzBuS"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
       "album": {
         "name": "La Cigarette",
         "url": "https://open.spotify.com/album/0ARlPPW0bGaasKWzcZC9Px"
@@ -393,23 +397,7 @@
       "url": "https://open.spotify.com/track/6FaOW5zkj9QtfDSTeHkUCI"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Epoch",
-        "url": "https://open.spotify.com/album/37rih338EqfPOdjOC1AZiM"
-      },
-      "artists": [
-        {
-          "name": "Quasi Qui",
-          "url": "https://open.spotify.com/artist/6QN9eVzG8N5pKQmkZrPWCB"
-        }
-      ],
-      "duration_ms": 225940,
-      "name": "Epoch",
-      "url": "https://open.spotify.com/track/75NobUSglm9bEYUd9pee0d"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
         "name": "Chui pu fort",
         "url": "https://open.spotify.com/album/71j1HEoL1pXrWb24SaSNGs"
@@ -425,23 +413,23 @@
       "url": "https://open.spotify.com/track/1VkMX6F5GJH2ggI6JFUVjD"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
-        "name": "D\u00e9fense",
-        "url": "https://open.spotify.com/album/0yiBxpaaunfv9G5aMmS2tq"
+        "name": "Pampa",
+        "url": "https://open.spotify.com/album/3fhGVkv2gwWWqibMwPcDHN"
       },
       "artists": [
         {
-          "name": "Oete",
-          "url": "https://open.spotify.com/artist/2vcxHSysVXO82YLuahM9pF"
+          "name": "Charlotte Fever",
+          "url": "https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX"
         }
       ],
-      "duration_ms": 187840,
-      "name": "D\u00e9fense",
-      "url": "https://open.spotify.com/track/7ITtdkk4TLqyx8xIPICVAh"
+      "duration_ms": 202941,
+      "name": "Pampa",
+      "url": "https://open.spotify.com/track/2JHWd0U5QENovcGYjwsE1g"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
         "name": "Psychopath",
         "url": "https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd"
@@ -461,7 +449,23 @@
       "url": "https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Masque d'or",
+        "url": "https://open.spotify.com/album/0sVy9SnT2H5X73D3MwvTvt"
+      },
+      "artists": [
+        {
+          "name": "Fishbach",
+          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Masque d'or",
+      "url": "https://open.spotify.com/track/2XvLofkaGVsRK7OFHJke4h"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
       "album": {
         "name": "Corporate Sunset",
         "url": "https://open.spotify.com/album/3q6KJe0i4C6FxZVmRmB8OM"
@@ -477,59 +481,7 @@
       "url": "https://open.spotify.com/track/6f4OnfztUsZhojQiCL27Pi"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Un coup de g\u00e9nie",
-        "url": "https://open.spotify.com/album/3QxWS5kGcfdpE80oOhrrte"
-      },
-      "artists": [
-        {
-          "name": "Dani Terreur",
-          "url": "https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z"
-        }
-      ],
-      "duration_ms": 192979,
-      "name": "Un coup de g\u00e9nie",
-      "url": "https://open.spotify.com/track/0NGl6062nPDjtyZe8ie6r6"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Un Peu d'Amour",
-        "url": "https://open.spotify.com/album/6oxjEeaBzvRABmCzy5JJce"
-      },
-      "artists": [
-        {
-          "name": "MAGENTA",
-          "url": "https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA"
-        },
-        {
-          "name": "Yoa",
-          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
-        }
-      ],
-      "duration_ms": 331600,
-      "name": "Un Peu d'Amour",
-      "url": "https://open.spotify.com/track/51pcyfpMb8YF2d5NONzheW"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "le moment pr\u00e9sent",
-        "url": "https://open.spotify.com/album/5sjPwPZ68bK6CBrh1hIWT4"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9lodie Lauret",
-          "url": "https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "le moment pr\u00e9sent",
-      "url": "https://open.spotify.com/track/6kxkOZuhy1MhEG6OA0cwvR"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
         "name": "Distant Calls",
         "url": "https://open.spotify.com/album/0yEtdd4qbenuePDSr2x9GN"
@@ -549,39 +501,7 @@
       "url": "https://open.spotify.com/track/1oNo1nhU1nCT7sKLpkXswr"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Dr\u00f4le d'id\u00e9e",
-        "url": "https://open.spotify.com/album/75yNAaG0mniCfzOOqL6e9h"
-      },
-      "artists": [
-        {
-          "name": "Alexia Gredy",
-          "url": "https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg"
-        }
-      ],
-      "duration_ms": 157986,
-      "name": "Dr\u00f4le d'id\u00e9e",
-      "url": "https://open.spotify.com/track/6i1UsvMjIi1oH7UAkrUilN"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/055WIVbb2nzpBl5JNZx9he"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 220015,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/5IiCvmwFpc192ptotRvWyz"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
         "name": "Toiles d'araign\u00e9e",
         "url": "https://open.spotify.com/album/12yuTpX2Ptq9bXaqtRm7fp"
@@ -601,7 +521,55 @@
       "url": "https://open.spotify.com/track/2ApBxa9rB2QrR6UTcj9Oo1"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Dr\u00f4le d'id\u00e9e",
+        "url": "https://open.spotify.com/album/75yNAaG0mniCfzOOqL6e9h"
+      },
+      "artists": [
+        {
+          "name": "Alexia Gredy",
+          "url": "https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg"
+        }
+      ],
+      "duration_ms": 157986,
+      "name": "Dr\u00f4le d'id\u00e9e",
+      "url": "https://open.spotify.com/track/6i1UsvMjIi1oH7UAkrUilN"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Titanic",
+        "url": "https://open.spotify.com/album/2WBuGbz4Yow819X0fddhCy"
+      },
+      "artists": [
+        {
+          "name": "Poppy Fus\u00e9e",
+          "url": "https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Titanic",
+      "url": "https://open.spotify.com/track/6jDjpymppH9NCctpXhqY5Q"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "D\u00e9fense",
+        "url": "https://open.spotify.com/album/0yiBxpaaunfv9G5aMmS2tq"
+      },
+      "artists": [
+        {
+          "name": "Oete",
+          "url": "https://open.spotify.com/artist/2vcxHSysVXO82YLuahM9pF"
+        }
+      ],
+      "duration_ms": 187840,
+      "name": "D\u00e9fense",
+      "url": "https://open.spotify.com/track/7ITtdkk4TLqyx8xIPICVAh"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
       "album": {
         "name": "La Lumi\u00e8re",
         "url": "https://open.spotify.com/album/5GDmaskm3zkYLBqqwceuPC"
@@ -621,23 +589,23 @@
       "url": "https://open.spotify.com/track/2f2xg4cOAo32Ig50pYytCo"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/6o2IPSHPg1wDU2o16ueD6E"
+        "name": "le moment pr\u00e9sent",
+        "url": "https://open.spotify.com/album/5sjPwPZ68bK6CBrh1hIWT4"
       },
       "artists": [
         {
-          "name": "Tample",
-          "url": "https://open.spotify.com/artist/0PL4oBFPdmDGLXFPaBpYcJ"
+          "name": "M\u00e9lodie Lauret",
+          "url": "https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4"
         }
       ],
-      "duration_ms": 190866,
-      "name": "Last September",
-      "url": "https://open.spotify.com/track/6yJKFbODJ05XHX9EwvtWYA"
+      "duration_ms": 169226,
+      "name": "le moment pr\u00e9sent",
+      "url": "https://open.spotify.com/track/6kxkOZuhy1MhEG6OA0cwvR"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
         "name": "Nostalgique",
         "url": "https://open.spotify.com/album/3u4LgNSMLiBrh3X1vN7OV3"
@@ -653,7 +621,23 @@
       "url": "https://open.spotify.com/track/4Vs7Qi8ESNARuWK4aFcNFB"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Epoch",
+        "url": "https://open.spotify.com/album/37rih338EqfPOdjOC1AZiM"
+      },
+      "artists": [
+        {
+          "name": "Quasi Qui",
+          "url": "https://open.spotify.com/artist/6QN9eVzG8N5pKQmkZrPWCB"
+        }
+      ],
+      "duration_ms": 225940,
+      "name": "Epoch",
+      "url": "https://open.spotify.com/track/75NobUSglm9bEYUd9pee0d"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
       "album": {
         "name": "Nuit louve",
         "url": "https://open.spotify.com/album/4HcetztLiYrr6Eugkuwlff"
@@ -669,103 +653,39 @@
       "url": "https://open.spotify.com/track/0vy0D33YYU4LdTRR5WrCYM"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
-        "name": "Dictators",
-        "url": "https://open.spotify.com/album/3XHMx2QAx1xoRdetbEGVfZ"
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/055WIVbb2nzpBl5JNZx9he"
       },
       "artists": [
         {
-          "name": "Edg\u00e4r",
-          "url": "https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO"
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
         }
       ],
-      "duration_ms": 198040,
-      "name": "Dictators",
-      "url": "https://open.spotify.com/track/0qIuXo9XrS7IlNwqnIbho0"
+      "duration_ms": 220015,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/5IiCvmwFpc192ptotRvWyz"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
-        "name": "Source",
-        "url": "https://open.spotify.com/album/3LSV8Trerwu3kaqc2dcZGS"
+        "name": "4D",
+        "url": "https://open.spotify.com/album/6La4e4vpCHGtvCXUbp71BJ"
       },
       "artists": [
         {
-          "name": "Canine",
-          "url": "https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR"
+          "name": "Eug\u00e9nie",
+          "url": "https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K"
         }
       ],
-      "duration_ms": 161013,
-      "name": "Snake",
-      "url": "https://open.spotify.com/track/2btl8sJ35sBFSH4sMik5tq"
+      "duration_ms": 141206,
+      "name": "4D",
+      "url": "https://open.spotify.com/track/0zBReAArWqGJRftWzmys9V"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Titanic",
-        "url": "https://open.spotify.com/album/2WBuGbz4Yow819X0fddhCy"
-      },
-      "artists": [
-        {
-          "name": "Poppy Fus\u00e9e",
-          "url": "https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Titanic",
-      "url": "https://open.spotify.com/track/6jDjpymppH9NCctpXhqY5Q"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "The Eyes",
-        "url": "https://open.spotify.com/album/5nSoESAt2L5B0bZuuWshJV"
-      },
-      "artists": [
-        {
-          "name": "Sand\u00f3r Wa\u00efss",
-          "url": "https://open.spotify.com/artist/7CEkLAfSHCRAohsAWypk8z"
-        }
-      ],
-      "duration_ms": 243953,
-      "name": "The Eyes",
-      "url": "https://open.spotify.com/track/4dm5psUQAIcGdOFICZ2zO3"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "Le coeur en panne",
-        "url": "https://open.spotify.com/album/5e5eWVnGzi798swulTYPd2"
-      },
-      "artists": [
-        {
-          "name": "Toboggan",
-          "url": "https://open.spotify.com/artist/2OSWGDW8nA4BvPZSw9K7tG"
-        }
-      ],
-      "duration_ms": 204328,
-      "name": "Le coeur en panne",
-      "url": "https://open.spotify.com/track/2dEd1mQEtgmzQRLM982Obg"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
-      "album": {
-        "name": "\u00c9ternel",
-        "url": "https://open.spotify.com/album/0SU9ZVZWmLUDVZRLJHS0Ff"
-      },
-      "artists": [
-        {
-          "name": "Dani Terreur",
-          "url": "https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "\u00c9ternel",
-      "url": "https://open.spotify.com/track/3RjXf0cgpbZ5z4xY8KxLGK"
-    },
-    {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
         "name": "Pirogue",
         "url": "https://open.spotify.com/album/41akXmvvyrc6hd7P3zfnfn"
@@ -781,39 +701,87 @@
       "url": "https://open.spotify.com/track/2R0tA1s4ZzSqrgBDMMCXZl"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
-        "name": "1964",
-        "url": "https://open.spotify.com/album/4OytyyjvGEMOpKLQQcCaRU"
+        "name": "The Eyes",
+        "url": "https://open.spotify.com/album/5nSoESAt2L5B0bZuuWshJV"
       },
       "artists": [
         {
-          "name": "Rallye",
-          "url": "https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX"
+          "name": "Sand\u00f3r Wa\u00efss",
+          "url": "https://open.spotify.com/artist/7CEkLAfSHCRAohsAWypk8z"
         }
       ],
-      "duration_ms": 258385,
-      "name": "1964",
-      "url": "https://open.spotify.com/track/2GKjDtUoz2AB3zegkdTUoo"
+      "duration_ms": 243953,
+      "name": "The Eyes",
+      "url": "https://open.spotify.com/track/4dm5psUQAIcGdOFICZ2zO3"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
-        "name": "bedroom walls",
-        "url": "https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8"
+        "name": "Le coeur en panne",
+        "url": "https://open.spotify.com/album/5e5eWVnGzi798swulTYPd2"
       },
       "artists": [
         {
-          "name": "November Ultra",
-          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+          "name": "Toboggan",
+          "url": "https://open.spotify.com/artist/2OSWGDW8nA4BvPZSw9K7tG"
         }
       ],
-      "duration_ms": 370973,
-      "name": "open arms",
-      "url": "https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE"
+      "duration_ms": 204328,
+      "name": "Le coeur en panne",
+      "url": "https://open.spotify.com/track/2dEd1mQEtgmzQRLM982Obg"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/6o2IPSHPg1wDU2o16ueD6E"
+      },
+      "artists": [
+        {
+          "name": "Tample",
+          "url": "https://open.spotify.com/artist/0PL4oBFPdmDGLXFPaBpYcJ"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "Last September",
+      "url": "https://open.spotify.com/track/6yJKFbODJ05XHX9EwvtWYA"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "Dictators",
+        "url": "https://open.spotify.com/album/3XHMx2QAx1xoRdetbEGVfZ"
+      },
+      "artists": [
+        {
+          "name": "Edg\u00e4r",
+          "url": "https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Dictators",
+      "url": "https://open.spotify.com/track/0qIuXo9XrS7IlNwqnIbho0"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "\u00c9ternel",
+        "url": "https://open.spotify.com/album/0SU9ZVZWmLUDVZRLJHS0Ff"
+      },
+      "artists": [
+        {
+          "name": "Dani Terreur",
+          "url": "https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "\u00c9ternel",
+      "url": "https://open.spotify.com/track/3RjXf0cgpbZ5z4xY8KxLGK"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
       "album": {
         "name": "St\u00f6rm",
         "url": "https://open.spotify.com/album/0EYirK4HFyP6UCLzf9SlR8"
@@ -829,20 +797,52 @@
       "url": "https://open.spotify.com/track/2n5wsJzPnKaKi1YIsGRmbi"
     },
     {
-      "added_at": "2022-05-19 22:00:00",
+      "added_at": "2022-05-26 22:02:00",
       "album": {
-        "name": "4D",
-        "url": "https://open.spotify.com/album/6La4e4vpCHGtvCXUbp71BJ"
+        "name": "Source",
+        "url": "https://open.spotify.com/album/3LSV8Trerwu3kaqc2dcZGS"
       },
       "artists": [
         {
-          "name": "Eug\u00e9nie",
-          "url": "https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K"
+          "name": "Canine",
+          "url": "https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR"
         }
       ],
-      "duration_ms": 141206,
-      "name": "4D",
-      "url": "https://open.spotify.com/track/0zBReAArWqGJRftWzmys9V"
+      "duration_ms": 161013,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/2btl8sJ35sBFSH4sMik5tq"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "1964",
+        "url": "https://open.spotify.com/album/4OytyyjvGEMOpKLQQcCaRU"
+      },
+      "artists": [
+        {
+          "name": "Rallye",
+          "url": "https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX"
+        }
+      ],
+      "duration_ms": 258385,
+      "name": "1964",
+      "url": "https://open.spotify.com/track/2GKjDtUoz2AB3zegkdTUoo"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
+        "name": "bedroom walls",
+        "url": "https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8"
+      },
+      "artists": [
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+        }
+      ],
+      "duration_ms": 370973,
+      "name": "open arms",
+      "url": "https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE"
     }
   ],
   "unique_name": "Made in France",

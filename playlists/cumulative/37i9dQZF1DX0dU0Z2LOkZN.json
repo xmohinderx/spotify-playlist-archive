@@ -384,6 +384,28 @@
     },
     {
       "album": {
+        "name": "Cotton Candy",
+        "url": "https://open.spotify.com/album/2C3TpTptiDdkNIqp0iZXGV"
+      },
+      "artists": [
+        {
+          "name": "U-WARRIOR",
+          "url": "https://open.spotify.com/artist/0VaCOtKG226cWSr9GQVeeN"
+        },
+        {
+          "name": "Run Wallace",
+          "url": "https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120259,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/5pDR1Z9j4FCTK0EbVQLH5z"
+    },
+    {
+      "album": {
         "name": "Great Wall",
         "url": "https://open.spotify.com/album/1cIrpDpM4wsxbM4qoKbXnR"
       },
@@ -1355,6 +1377,32 @@
       "duration_ms": 171000,
       "name": "Ninetofive",
       "url": "https://open.spotify.com/track/4vrJiLtAsycPuLAkSTVqPk"
+    },
+    {
+      "album": {
+        "name": "Noon Sun",
+        "url": "https://open.spotify.com/album/5GAK5l6ThW59sjelZwCwjC"
+      },
+      "artists": [
+        {
+          "name": "Ph-Wert",
+          "url": "https://open.spotify.com/artist/4wJm4uz3KH4gc5en3BdB5q"
+        },
+        {
+          "name": "POSTPARTUM.",
+          "url": "https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH"
+        },
+        {
+          "name": "Kimo Slice",
+          "url": "https://open.spotify.com/artist/4BMLPQERX4TiFtGZx5sxCi"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197950,
+      "name": "Noon Sun",
+      "url": "https://open.spotify.com/track/0aQS97evenPCEFvmLmBiU8"
     },
     {
       "album": {

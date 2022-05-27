@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover: <a href="https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0?si=IKSVyJUIQW67ApGB2QesEw" > Simi </a>
 
-94 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
+96 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2021-09-09 |  |
 | [D O D O](https://open.spotify.com/track/7fWotHT92my4vLN713vFTa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon) | 2:59 | 2021-12-09 |  |
 | [Dangerous](https://open.spotify.com/track/7nx5roePDWEAzJwGajxFmF) | [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Playing With Fire](https://open.spotify.com/album/5lCzLkyHar40yPR2mIHEZC) | 3:46 | 2022-05-05 |  |
+| [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-05-26 |  |
 | [Dis moi comment.](https://open.spotify.com/track/7ozOMyVXBH6OU7MCxljGnT) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Dis moi comment.](https://open.spotify.com/album/4VVmCuhuyfWg1wxSgbUzXc) | 3:31 | 2021-07-09 |  |
 | [Do You Care ?](https://open.spotify.com/track/0Dbne8cZTmiWLWjubDZA5e) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Do You Care ?](https://open.spotify.com/album/4c0QOiJf5G20AdYka2geO9) | 3:23 | 2021-12-22 | 2022-04-22 |
 | [Doorstep](https://open.spotify.com/track/3z9mt4k1wRSkHmBDfqUqIr) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Zzero Sufuri](https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7) | [Doorstep](https://open.spotify.com/album/2KqhIundDwNL9zo85Dj6d4) | 3:54 | 2022-04-21 |  |
@@ -51,7 +52,7 @@
 | [Heartbeat](https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Heartbeat](https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD) | 3:04 | 2022-02-24 |  |
 | [Here With Me](https://open.spotify.com/track/3zTObKcN6vfo9teWsKCU34) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0) | [Catch A Vibe](https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs) | 3:17 | 2022-04-21 |  |
 | [hopes & dreams](https://open.spotify.com/track/50zGHqJ5vAkF74KPOIrUrT) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [hopes & dreams](https://open.spotify.com/album/2WKrP0vunwdxaBBI1ZdxJi) | 3:15 | 2022-03-11 | 2022-03-18 |
-| [I can't believe I get to call you mine](https://open.spotify.com/track/675I0oCNoCDWK9uNojeIfl) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [I can't believe I get to call you mine](https://open.spotify.com/album/3e2yFxa6oEvYyGibyDAHwR) | 4:40 | 2021-11-25 |  |
+| [I can't believe I get to call you mine](https://open.spotify.com/track/675I0oCNoCDWK9uNojeIfl) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [I can't believe I get to call you mine](https://open.spotify.com/album/3e2yFxa6oEvYyGibyDAHwR) | 4:40 | 2021-11-25 | 2022-05-27 |
 | [I Know](https://open.spotify.com/track/2ZJj6KjYRpl8oDAdoniXCJ) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [I Know](https://open.spotify.com/album/0uPJ8tLFVNO3dUBiOijfZ8) | 2:50 | 2021-03-05 | 2022-04-22 |
 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 | 2022-02-24 |  |
 | [Is It Love?](https://open.spotify.com/track/2Lbfend8u6ccFu2zMFpPxF) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Is It Love?](https://open.spotify.com/album/4MgeGr34ni6NO5MEPAQ0Tz) | 3:27 | 2022-04-28 |  |
@@ -65,6 +66,7 @@
 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-05-19 |  |
 | [NEED ME](https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [NEED ME](https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e) | 3:12 | 2021-08-06 |  |
 | [next2me](https://open.spotify.com/track/47lR4Uq1UAMHJiKPG5IhU6) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [next2me](https://open.spotify.com/album/6kRZAPjAUEotOefxcYN2XS) | 3:47 | 2021-08-06 |  |
+| [Niambie](https://open.spotify.com/track/12QXwJTH3XlsNXG7nKbxil) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [MY WAY:VOLUME II](https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK) | 2:38 | 2022-05-26 |  |
 | [Nike](https://open.spotify.com/track/3gUNco4uLKydiO0smv2EJR) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 2:57 | 2022-02-24 |  |
 | [Nikita](https://open.spotify.com/track/7giomsoZgEbXFNTqS8Y683) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nikita](https://open.spotify.com/album/5L2vzVovIvzKKXD2nAYZtr) | 2:42 | 2021-11-11 |  |
 | [Nobody Else](https://open.spotify.com/track/2dt5k4ChcpKmCi2KPyuxpK) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Nobody Else](https://open.spotify.com/album/67K6eADrJhLqy8r6sH2sUN) | 2:48 | 2022-02-17 |  |

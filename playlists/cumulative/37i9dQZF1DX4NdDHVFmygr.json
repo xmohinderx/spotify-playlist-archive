@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 138985,
       "name": "Afrokech",
       "url": "https://open.spotify.com/track/3pPvIIHgfuAPgn9nJ5xW23"
@@ -386,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Dayrine Dajja",
+        "url": "https://open.spotify.com/album/7qXWfxYUr4A6bUlDy41fII"
+      },
+      "artists": [
+        {
+          "name": "Aymane Serhani",
+          "url": "https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Dayrine Dajja",
+      "url": "https://open.spotify.com/track/5IlkjrCw2DmkH8klRfa9Dt"
+    },
+    {
+      "album": {
         "name": "De9at l9elb",
         "url": "https://open.spotify.com/album/4AqUJTIVVpHmoGonhlp7Gr"
       },
@@ -579,7 +597,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 244363,
       "name": "Ghorba",
       "url": "https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 195164,
       "name": "MA VIE",
       "url": "https://open.spotify.com/track/7K6MsmYeR2atpaUcRi9Yeg"
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 198266,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/4P8HPmYPNCNxqHlYMovXRv"
@@ -1785,6 +1803,28 @@
       "duration_ms": 261084,
       "name": "Ya Ayouni",
       "url": "https://open.spotify.com/track/5mayCpikqyQIDXWscGgNXf"
+    },
+    {
+      "album": {
+        "name": "Ya Bent Nass",
+        "url": "https://open.spotify.com/album/2tFxYpE665zTN9sL4qVizP"
+      },
+      "artists": [
+        {
+          "name": "Zamane",
+          "url": "https://open.spotify.com/artist/12Idndj4QId8wutMkBpBcc"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186923,
+      "name": "Ya Bent Nass",
+      "url": "https://open.spotify.com/track/2s5o3Di1s0dWOkL1iYnTJl"
     },
     {
       "album": {

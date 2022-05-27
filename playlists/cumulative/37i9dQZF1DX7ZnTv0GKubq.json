@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 193818,
       "name": "5683",
       "url": "https://open.spotify.com/track/3oCbklzJ146n6GIEA4QPKq"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 204174,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 178393,
       "name": "Air Forces",
       "url": "https://open.spotify.com/track/69bqljA2mItBcXom1vkjQX"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 203173,
       "name": "And Then Life Was Beautiful",
       "url": "https://open.spotify.com/track/4vUU8lx3iz7u72rpDjhXHi"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 220920,
       "name": "Balance",
       "url": "https://open.spotify.com/track/3vnSjXtSCBE2IoiI7MSYcv"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 200866,
       "name": "Braid It Back",
       "url": "https://open.spotify.com/track/2NniQePH98Yun9uME1ZUMz"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 255693,
       "name": "Caught In A Lie",
       "url": "https://open.spotify.com/track/0VrU3bahhqEpXQtsj4kXXy"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 164729,
       "name": "Company (feat. Mereba)",
       "url": "https://open.spotify.com/track/7iYSdBJITN7KpYjOMbkdDd"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 161271,
       "name": "CRUSHED VELVET",
       "url": "https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 217751,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/4Bfp9heUqxCEOX74tg4UNB"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 215573,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 198137,
       "name": "Falling Higher",
       "url": "https://open.spotify.com/track/4PnsvxbXokJUKLi3Shuu1P"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 191453,
       "name": "Flipside",
       "url": "https://open.spotify.com/track/6PBVyALVJlwRK97115oiED"
@@ -1030,6 +1030,28 @@
     },
     {
       "album": {
+        "name": "Hooked On You",
+        "url": "https://open.spotify.com/album/6mBOC5abEzkmvLSidRZPiF"
+      },
+      "artists": [
+        {
+          "name": "The Mouse Outfit",
+          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
+        },
+        {
+          "name": "FLISS",
+          "url": "https://open.spotify.com/artist/3WRXRa5f0yaXLfbtwpY79v"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183291,
+      "name": "Hooked On You",
+      "url": "https://open.spotify.com/track/7mehF2wQ5tkzh2WQP7GzvM"
+    },
+    {
+      "album": {
         "name": "Ch. 1 Vs. 1",
         "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
@@ -1141,7 +1163,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 236933,
       "name": "June's Cry",
       "url": "https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT"
@@ -1159,7 +1181,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 250880,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/4ql1Qc7OHhoOEy9dVl0u8X"
@@ -1195,7 +1217,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 167368,
       "name": "KYWK",
       "url": "https://open.spotify.com/track/1q69yEnmc6Zobcj3IuddGa"
@@ -1217,7 +1239,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 256898,
       "name": "Learn To Love",
       "url": "https://open.spotify.com/track/26DseucvS2HZaOfHxR52pc"
@@ -1253,7 +1275,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 172942,
       "name": "Lightning",
       "url": "https://open.spotify.com/track/4YhqrGJR3lsASzJum9joB8"
@@ -1293,7 +1315,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 185794,
       "name": "Mandy",
       "url": "https://open.spotify.com/track/3PO4o0z1ao5ItW7C4HNd72"
@@ -1347,7 +1369,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 158620,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/5Z2dOXjVByx4J0yzMB2oPB"
@@ -1383,7 +1405,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 188617,
       "name": "Motorbike",
       "url": "https://open.spotify.com/track/6W2trGwkUVR8mwGSH4Ftpf"
@@ -1601,7 +1623,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 199533,
       "name": "Plastic Plants",
       "url": "https://open.spotify.com/track/68OnIh4v10tWxZYJTsHJWX"
@@ -1667,7 +1689,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 169411,
       "name": "Pressure, Pt. II (with Sinead Harnett)",
       "url": "https://open.spotify.com/track/5IPoibWQUBqKTqTlJ7FzpZ"
@@ -1787,7 +1809,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 281250,
       "name": "Real Deal",
       "url": "https://open.spotify.com/track/2yCT259s8awbxVuW9bBS31"
@@ -1845,7 +1867,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 242973,
       "name": "Running (feat. Ghetts)",
       "url": "https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI"
@@ -1995,7 +2017,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 205205,
       "name": "Smile (See the Light)",
       "url": "https://open.spotify.com/track/7GmhZ73EtMtL8hM57aaNGs"
@@ -2017,6 +2039,40 @@
       "duration_ms": 197645,
       "name": "Somewhere, Out There",
       "url": "https://open.spotify.com/track/2DfwQytXuNYit2Zhkk8cX8"
+    },
+    {
+      "album": {
+        "name": "Standing There",
+        "url": "https://open.spotify.com/album/184uj4VHE19BAwDI3h3Tl2"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Pedro Retro",
+          "url": "https://open.spotify.com/artist/3uzJ5cTjLIpYB3iBvwesfP"
+        },
+        {
+          "name": "Meron T",
+          "url": "https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb"
+        },
+        {
+          "name": "Asher Kosher",
+          "url": "https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6"
+        },
+        {
+          "name": "Paya",
+          "url": "https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "Standing There",
+      "url": "https://open.spotify.com/track/3KsOjjJa7Zo59R4pyr1Wvb"
     },
     {
       "album": {
@@ -2181,7 +2237,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 160052,
       "name": "To Taste The Divine",
       "url": "https://open.spotify.com/track/1nVNewVFnEgwduK6Q5iDve"
@@ -2261,7 +2317,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 198666,
       "name": "Undercover",
       "url": "https://open.spotify.com/track/4F8ZpGHyAwNCNgEKrjlDSZ"
@@ -2279,7 +2335,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 193500,
       "name": "VINYL",
       "url": "https://open.spotify.com/track/2V4mZoAUYA22VDny8KAg8f"
@@ -2297,7 +2353,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 190426,
       "name": "Wait",
       "url": "https://open.spotify.com/track/57jS22tCk2xgFcsMwLrBLl"
@@ -2355,7 +2411,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 180400,
       "name": "Weakness",
       "url": "https://open.spotify.com/track/7aLMMLtNVCsq8kDHSRvvxV"
@@ -2431,7 +2487,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 192880,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ"
@@ -2493,7 +2549,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 191483,
       "name": "YOGA",
       "url": "https://open.spotify.com/track/4Sp0JZpae4D08l3E6gV1D8"
@@ -2511,7 +2567,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 192000,
       "name": "You and I",
       "url": "https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx"
@@ -2551,7 +2607,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 221026,
       "name": "You Save Me (feat. Snoh Aalegra)",
       "url": "https://open.spotify.com/track/6rd8wn0oBNQdDMHeOYwDdJ"

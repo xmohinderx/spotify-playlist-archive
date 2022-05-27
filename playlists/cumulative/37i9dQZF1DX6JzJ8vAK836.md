@@ -4,7 +4,7 @@
 
 > Pop, rock, funk, R&B, psychedelia—the man from Minneapolis was a true original and earth\-shattering performer\. Hear <a href="spotify:artist:5a2EaR3hamoenG9rDuVn8j">Prince Rogers Nelson</a>'s best right now.
 
-74 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/7fAjUWCKdwM8RcnPSoDoRu)
+76 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/7fAjUWCKdwM8RcnPSoDoRu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,10 +46,12 @@
 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 | 2021-04-09 |  |
 | [Lady Cab Driver](https://open.spotify.com/track/3olcbtUJV3xdHIfFjy8owe) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 8:19 | 2021-04-09 |  |
 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 | 2021-04-09 |  |
+| [Let's Go Crazy \- Live In Syracuse, March 30, 1985 \- 2022 Remaster](https://open.spotify.com/track/0x2RD4R0yWGXaBZPo7lDqY) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Let's Go Crazy \(Live In Syracuse, March 30, 1985 \- 2022 Remaster\)](https://open.spotify.com/album/5YfFeRzMeykwYn0WhWK9Ep) | 5:50 | 2022-05-26 |  |
 | [Little Red Corvette \- Single Version](https://open.spotify.com/track/6X4JeTWCuKEzKOEHXDtyBo) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [4Ever](https://open.spotify.com/album/7mhrGQKxLFJPY2J4TXtA0A) | 3:08 | 2021-04-09 |  |
 | [Mary Don't You Weep \- Piano & A Microphone 1983 Version](https://open.spotify.com/track/2oyxDkR5iLTwuP9h6lDkM5) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Mary Don't You Weep](https://open.spotify.com/album/5W6s5f9S1Fv3asQZH6lNGM) | 4:42 | 2021-04-09 |  |
 | [Money Don't Matter 2 Night](https://open.spotify.com/track/4TD2ZZETSh7OFOw1RTNPGb) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Diamonds and Pearls](https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa) | 4:46 | 2021-04-09 |  |
 | [Mountains](https://open.spotify.com/track/48conYZAap5JNzGJBaOTm2) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:57 | 2021-04-09 |  |
+| [Musicology](https://open.spotify.com/track/3kiKvrMonNxyh8nzkhCrbU) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Musicology](https://open.spotify.com/album/1jy9Nciz47PNHiUB7FxAjK) | 4:24 | 2022-05-26 |  |
 | [My Name Is Prince](https://open.spotify.com/track/20qyckJrLZQGQmNb5OmpkJ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [\[Love Symbol\]](https://open.spotify.com/album/03JxJZCOK54jmkrhlDczlA) | 6:38 | 2021-04-09 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/70Ukvwcp6LkgfRiuUhGV7l) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Nothing Compares 2 U](https://open.spotify.com/album/3aUBbb6wNmvd4HOHhasOaf) | 4:40 | 2021-04-09 |  |
 | [Nothing Compares 2 U \(feat\. Rosie Gaines\) \- Live](https://open.spotify.com/track/3JtMU9MZMDOD7t019inKkK) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [Rosie Gaines](https://open.spotify.com/artist/0EcHeVcE0H9nFZnsHjlkIl) | [The Hits 1](https://open.spotify.com/album/7GXUkcVQzX3uDviEa6mVui) | 5:04 | 2021-04-09 |  |

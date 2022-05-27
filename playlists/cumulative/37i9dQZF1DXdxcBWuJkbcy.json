@@ -1437,7 +1437,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 183750,
       "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
       "url": "https://open.spotify.com/track/19lT0l1OBkLtWI5iE5zORl"
@@ -2699,7 +2699,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 209076,
       "name": "Erase You",
       "url": "https://open.spotify.com/track/6hpUC8LHOj0U1JHuFasl9b"
@@ -2805,7 +2805,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 168824,
       "name": "Fake A Smile (feat. salem ilese) - R3HAB Remix",
       "url": "https://open.spotify.com/track/1dMsLbHAMiWPzUUbLrXAwF"
@@ -2831,6 +2831,28 @@
       "duration_ms": 188346,
       "name": "Fantasy - R3HAB Remix",
       "url": "https://open.spotify.com/track/3iGMErA58MMTYT1mBkUkRf"
+    },
+    {
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL"
     },
     {
       "album": {
@@ -3079,7 +3101,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 146983,
       "name": "Friday",
       "url": "https://open.spotify.com/track/4t5DaUXvdAFahZJtXYGYpH"
@@ -3317,7 +3339,7 @@
       ],
       "date_added": "2021-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 149032,
       "name": "Gotta Be You",
       "url": "https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf"
@@ -3441,7 +3463,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 161000,
       "name": "Hardcore Vibes - Radio Edit",
       "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
@@ -3907,7 +3929,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 150720,
       "name": "I Follow Rivers",
       "url": "https://open.spotify.com/track/38eDoBAphAMkPVPLFOkyKI"
@@ -4281,7 +4303,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 140624,
       "name": "Industry Baby",
       "url": "https://open.spotify.com/track/0ZqWFsHj4g8eulvPaoWwk8"
@@ -4433,6 +4455,28 @@
       "duration_ms": 188370,
       "name": "Kilimanjaro",
       "url": "https://open.spotify.com/track/1nYfiiwCQOX5mY7Git99Rp"
+    },
+    {
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159406,
+      "name": "Killing Me Softly",
+      "url": "https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3"
     },
     {
       "album": {
@@ -4763,7 +4807,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 157647,
       "name": "Life Goes On - Alok Remix",
       "url": "https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF"
@@ -5631,6 +5675,24 @@
       "duration_ms": 148960,
       "name": "My Heart Goes (La Di Da) (feat. Topic)",
       "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
+    },
+    {
+      "album": {
+        "name": "My Pony (R3HAB VIP Remix)",
+        "url": "https://open.spotify.com/album/5tr8oF0RPUrYtDZ50HzLbJ"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "My Pony - R3HAB VIP Remix",
+      "url": "https://open.spotify.com/track/0q2abh9scWry2e3N4P9dNy"
     },
     {
       "album": {
@@ -7831,7 +7893,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 137704,
       "name": "Sing It Back Again",
       "url": "https://open.spotify.com/track/3Q67uLNNnP3B2uYMe1uV5x"
@@ -8405,7 +8467,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 158728,
       "name": "Stupid Feelings - Jonasu Remix",
       "url": "https://open.spotify.com/track/0agrpW5vGvWNziZwzPHwQ7"
@@ -8537,7 +8599,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 213164,
       "name": "Sweet Mistake",
       "url": "https://open.spotify.com/track/1VYHeY9ulPnsMHKvXPyG5H"
@@ -8693,7 +8755,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 180000,
       "name": "Takeaway (feat. Lennon Stella) - Andrew Rayel Remix",
       "url": "https://open.spotify.com/track/16QhpULFOW9fE2yvXsJV6A"
@@ -8763,7 +8825,7 @@
       ],
       "date_added": "2020-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 156774,
       "name": "Taste",
       "url": "https://open.spotify.com/track/0jcDf2K7yJsRAfa7XQmkIt"
@@ -10339,7 +10401,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 192413,
       "name": "Worlds Collide - Edison Cole Remix",
       "url": "https://open.spotify.com/track/3JqpIjrQfmW68YkpxXWPL4"

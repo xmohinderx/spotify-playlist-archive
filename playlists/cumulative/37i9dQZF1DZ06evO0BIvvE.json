@@ -6,6 +6,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Chim\u00e8ne Badi Gospel & Soul",
+        "url": "https://open.spotify.com/album/5syCQKGjZSUZDhRXrDg4cp"
+      },
+      "artists": [
+        {
+          "name": "Chim\u00e8ne Badi",
+          "url": "https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178733,
+      "name": "Ain't No Mountain High Enough",
+      "url": "https://open.spotify.com/track/1w4EmsaSRG53afdB1LLYPj"
+    },
+    {
+      "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
       },
@@ -691,7 +713,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 283640,
       "name": "So Glad To See You Again",
       "url": "https://open.spotify.com/track/62GCvbMTDVwEdJ6W5T1ubs"
@@ -842,6 +864,24 @@
     },
     {
       "album": {
+        "name": "Let 'Em In",
+        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200973,
+      "name": "We All Got A Mission",
+      "url": "https://open.spotify.com/track/06w9kfTUA22jCVoiceN0gQ"
+    },
+    {
+      "album": {
         "name": "When Love Is New",
         "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
       },
@@ -889,7 +929,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 262333,
       "name": "Word Sure Gets Around",
       "url": "https://open.spotify.com/track/5yFXcyvl8iJXkEyOsYBj1P"

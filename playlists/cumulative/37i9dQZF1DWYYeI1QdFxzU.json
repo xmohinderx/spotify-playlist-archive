@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 190022,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/0fULKQl6s5xzZvxbRswkWG"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 185979,
       "name": "Blind Eye",
       "url": "https://open.spotify.com/track/2w0zUD1DqNNznSirUyOFlB"
@@ -520,6 +520,24 @@
     },
     {
       "album": {
+        "name": "Foundations",
+        "url": "https://open.spotify.com/album/72fLE2pqPY9MPpA9FS2E39"
+      },
+      "artists": [
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337736,
+      "name": "Liquid",
+      "url": "https://open.spotify.com/track/5PB690PLg0KTUTTqFExQkb"
+    },
+    {
+      "album": {
         "name": "Love Is Alive",
         "url": "https://open.spotify.com/album/02dSIhVa4IQs0xHxOsgHUt"
       },
@@ -851,6 +869,24 @@
       "duration_ms": 287037,
       "name": "Summer In The Ends",
       "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
+    },
+    {
+      "album": {
+        "name": "Tottertot",
+        "url": "https://open.spotify.com/album/6cGknRkvv3Jf22zgdk2LRc"
+      },
+      "artists": [
+        {
+          "name": "Inwards",
+          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255466,
+      "name": "Tottertot",
+      "url": "https://open.spotify.com/track/3TiZvtDtyzmTILrzViENjk"
     },
     {
       "album": {

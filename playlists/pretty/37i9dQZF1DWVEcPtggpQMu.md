@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest in South African Hip Hop and R&B\. Cover: <a href="https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE?si=YDtypf\_iQ2KM0vD5dMKglw">Sgi\_Magalela</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,495 likes - 79 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,509 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,11 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 71 | [Philosophy](https://open.spotify.com/track/64YubdMI7OQOilzPe1UJk8) | [Jayhood](https://open.spotify.com/artist/4z3nlXVD9GSOdBYD82aPa4), [Blaklez](https://open.spotify.com/artist/002eDhqXlxtQHdaIKXyf3H), [PDOT O](https://open.spotify.com/artist/7KAvy18LeTZXBZhYxfqN3l) | [Philosophy](https://open.spotify.com/album/27QqUH6a4vib7sjVmXaiIh) | 3:58 |
 | 72 | [Same Mistakes](https://open.spotify.com/track/0gtBAgvR7LPKXop9UEPgaA) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Same Mistakes](https://open.spotify.com/album/5qpwsn9z5dZ1Vbp6eTe11z) | 2:18 |
 | 73 | [Find It](https://open.spotify.com/track/7fzyAwrlcFWOVwQDHPOYcx) | [Najma Williams](https://open.spotify.com/artist/1eWwnAYdLXgymULRCYdirU) | [Find It](https://open.spotify.com/album/2HYknCRJPEglafSiZhbAwA) | 3:50 |
-| 74 | [Good Love \(feat\. Stino Le Thwenny & Caask Asid\)](https://open.spotify.com/track/3lwMm6T9mFdppiPpgm9ewO) | [DJ Binnz](https://open.spotify.com/artist/0yQomwd7iDWLEx3ijITA0d), [Stino Le Thwenny](https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m), [Caask Asid](https://open.spotify.com/artist/1mfp5cTzPUaPI2BqCOAkSl) | [Good Love \(feat\. Stino Le Thwenny & Caask Asid\)](https://open.spotify.com/album/4DaeN4JRCtDBWKqqzhuAik) | 3:23 |
-| 75 | [Cadavers](https://open.spotify.com/track/3kJJH1oJfRLcs5FAgDCXxW) | [Mykey](https://open.spotify.com/artist/11GCHRgivzz2xYBv5pKwRz) | [inertia](https://open.spotify.com/album/5RlFwZLVeYur8csILcTA9p) | 1:56 |
-| 76 | [THE DOLLAR DISEASE](https://open.spotify.com/track/6Zy8ekom9qNeCJtFRqz3Ac) | [Pr3tty Boy](https://open.spotify.com/artist/19ilu0bDWXzkytEZ3Mfl6q) | [THE DOLLAR DISEASE](https://open.spotify.com/album/6G4RZR7TRP6aIgZNTW7cUY) | 1:43 |
-| 77 | [Mokeleng](https://open.spotify.com/track/266NCE6LteEH0uYbGRUkqh) | [Hitbeat\- SA](https://open.spotify.com/artist/6WQsskZXhITbkO1oQQAKWh) | [MOKELENG](https://open.spotify.com/album/0w69oa8ubUqciapCKE1TF1) | 2:04 |
-| 78 | [Lonely Avenue](https://open.spotify.com/track/1LI5UJRzh8QSrBpGEGlRRN) | [ZRi.](https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N), [Oxii.Moron](https://open.spotify.com/artist/7DFMiNCuExlFetz1JTRu9B) | [Lonely Avenue](https://open.spotify.com/album/0Q7CzyvcDrRcGv7jEj5JqR) | 2:15 |
-| 79 | [Next.](https://open.spotify.com/track/3LjWJMHEZ1vX1suuLxBHil) | [Angie Santana](https://open.spotify.com/artist/3gh6VwtLkdkaWCPUV4L6yT) | [Next.](https://open.spotify.com/album/2ncuXjvusmRBKIHbGjuDBt) | 3:20 |
+| 74 | [Potion No.9](https://open.spotify.com/track/43K5DqzH9ljI4hbMSIH0IW) | [Mark Akol](https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb), [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [Potion No.9](https://open.spotify.com/album/6HyEnmxcHiDJ3mmAxp2ccF) | 2:34 |
+| 75 | [Good Love \(feat\. Stino Le Thwenny & Caask Asid\)](https://open.spotify.com/track/3lwMm6T9mFdppiPpgm9ewO) | [DJ Binnz](https://open.spotify.com/artist/0yQomwd7iDWLEx3ijITA0d), [Stino Le Thwenny](https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m), [Caask Asid](https://open.spotify.com/artist/1mfp5cTzPUaPI2BqCOAkSl) | [Good Love \(feat\. Stino Le Thwenny & Caask Asid\)](https://open.spotify.com/album/4DaeN4JRCtDBWKqqzhuAik) | 3:23 |
+| 76 | [Cadavers](https://open.spotify.com/track/3kJJH1oJfRLcs5FAgDCXxW) | [Mykey](https://open.spotify.com/artist/11GCHRgivzz2xYBv5pKwRz) | [inertia](https://open.spotify.com/album/5RlFwZLVeYur8csILcTA9p) | 1:56 |
+| 77 | [THE DOLLAR DISEASE](https://open.spotify.com/track/6Zy8ekom9qNeCJtFRqz3Ac) | [Pr3tty Boy](https://open.spotify.com/artist/19ilu0bDWXzkytEZ3Mfl6q) | [THE DOLLAR DISEASE](https://open.spotify.com/album/6G4RZR7TRP6aIgZNTW7cUY) | 1:43 |
+| 78 | [Mokeleng](https://open.spotify.com/track/266NCE6LteEH0uYbGRUkqh) | [Hitbeat\- SA](https://open.spotify.com/artist/6WQsskZXhITbkO1oQQAKWh) | [MOKELENG](https://open.spotify.com/album/0w69oa8ubUqciapCKE1TF1) | 2:04 |
+| 79 | [Lonely Avenue](https://open.spotify.com/track/1LI5UJRzh8QSrBpGEGlRRN) | [ZRi.](https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N), [Oxii.Moron](https://open.spotify.com/artist/7DFMiNCuExlFetz1JTRu9B) | [Lonely Avenue](https://open.spotify.com/album/0Q7CzyvcDrRcGv7jEj5JqR) | 2:15 |
+| 80 | [Next.](https://open.spotify.com/track/3LjWJMHEZ1vX1suuLxBHil) | [Angie Santana](https://open.spotify.com/artist/3gh6VwtLkdkaWCPUV4L6yT) | [Next.](https://open.spotify.com/album/2ncuXjvusmRBKIHbGjuDBt) | 3:20 |
 
 Snapshot ID: `MTY1Mjk5NzU0MCwwMDAwMDRkNzAwMDAwMTgwZGU1NGM5MjEwMDAwMDE4MGRkNGU5ODcx`

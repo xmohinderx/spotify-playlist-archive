@@ -170,6 +170,28 @@
     },
     {
       "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/1SwHH5FFGEsoj428xaUU9k"
+      },
+      "artists": [
+        {
+          "name": "Asem",
+          "url": "https://open.spotify.com/artist/4b5hKyZcqBYGfSFhqOMyyZ"
+        },
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305763,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/0cqStpyp4fqgMweeuDuyg3"
+    },
+    {
+      "album": {
         "name": "For Broken Ears",
         "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
@@ -471,7 +493,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 197972,
       "name": "Leg Over",
       "url": "https://open.spotify.com/track/0K3ESegCtpUnQ2XB2d3bHt"
@@ -493,6 +515,24 @@
       "duration_ms": 187027,
       "name": "Lie Again",
       "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
+    },
+    {
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/4uChaQnoWbwiXeQzbflMJK"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284533,
+      "name": "Miss U Die",
+      "url": "https://open.spotify.com/track/4iGPZPPVnqgMBwKd3wsCYo"
     },
     {
       "album": {
@@ -551,7 +591,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 184372,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/2QcwNQJSvOgHpyfcsDNLrx"
@@ -652,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Site 15",
+        "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236460,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
+    },
+    {
+      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -685,6 +743,24 @@
       "duration_ms": 146399,
       "name": "Pour Me Water",
       "url": "https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos To London",
+        "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/3pbRmP0Hqit2A4FcnOGAiF"
     },
     {
       "album": {
@@ -863,7 +939,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 264521,
       "name": "U Lied To Me",
       "url": "https://open.spotify.com/track/7zgnvKWoPhWse2Wv89ubYO"
@@ -979,7 +1055,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 203773,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH"

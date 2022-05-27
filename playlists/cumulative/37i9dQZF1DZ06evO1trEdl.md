@@ -4,7 +4,7 @@
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 55 min - not published yet
+51 songs - 2 hr 58 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Holding Back \(Lounge Remix\)](https://open.spotify.com/track/5eh1kdp9Go1FDHWxLGUGoU) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Holding Back \(Lounge Remix\)](https://open.spotify.com/album/0dvUplDgs0OvKxPcIls9T8) | 4:32 | 2022-05-25 |  |
 | [I Didn't Know](https://open.spotify.com/track/21Y28bL36SaVy1tRc6KATk) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:49 | 2022-05-25 |  |
 | [I Do Take You](https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:16 | 2022-05-25 |  |
-| [I Wanna Be Your Baby](https://open.spotify.com/track/7jyu10lLeLdV1dWtFmn9Yw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Tales Are True / I Wanna Be Your Baby](https://open.spotify.com/album/5m0vIwKgbBqhDKQ1s3yeiW) | 2:51 | 2022-05-25 |  |
+| [I Wanna Be Your Baby](https://open.spotify.com/track/7jyu10lLeLdV1dWtFmn9Yw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Tales Are True / I Wanna Be Your Baby](https://open.spotify.com/album/5m0vIwKgbBqhDKQ1s3yeiW) | 2:51 | 2022-05-25 | 2022-05-27 |
 | [I Won't Let You Go](https://open.spotify.com/track/0EDADfWHwCXlZDETMCBW3m) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 2:58 | 2022-05-25 |  |
 | [I'm Gonna Need You](https://open.spotify.com/track/1PEscRoDcbLjlLHqIYkynY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [I'm Gonna Need You / Just Right for Love](https://open.spotify.com/album/37upZER0zdrc3EUCOlV2zR) | 2:52 | 2022-05-25 |  |
 | [Jump The Gun](https://open.spotify.com/track/74HHvkOUslEi5ra2hifet1) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:59 | 2022-05-25 |  |
@@ -47,6 +47,7 @@
 | [Take Good Care of Yourself](https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:25 | 2022-05-25 |  |
 | [The Heaven I Need \- Single Version](https://open.spotify.com/track/3XjxAp2oPICHJTXUDTga2f) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Heaven I Need](https://open.spotify.com/album/5BrtfX0BIYysyPYyfDEA7J) | 3:17 | 2022-05-25 |  |
 | [The Runner](https://open.spotify.com/track/1SjVF6AcCFamuErMWI7GQz) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 4:22 | 2022-05-25 |  |
+| [The Sound of Philadelphia](https://open.spotify.com/track/4pJVcScT1pDGpCgLk6LnSL) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Soul Jazz Blues Vol\. 1](https://open.spotify.com/album/5N8SLaE9OqRB2HhH4qNe8Y) | 2:53 | 2022-05-26 |  |
 | [This Is the House](https://open.spotify.com/track/7EDI0Ak3KRTgcCZndJJYaG) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [This Is the House](https://open.spotify.com/album/3g1eUz81JzJzie1W6CmbiM) | 3:41 | 2022-05-25 |  |
 | [Together](https://open.spotify.com/track/0KXFMaPm7rgqv7vXwBGMTZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:37 | 2022-05-25 |  |
 | [We're All Alone](https://open.spotify.com/track/4hua7kkNIxSudKIxRmDk5n) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees \- The Very Best Of](https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l) | 3:33 | 2022-05-25 |  |

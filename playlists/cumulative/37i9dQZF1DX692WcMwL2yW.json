@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 123658,
       "name": "All the Frogs",
       "url": "https://open.spotify.com/track/5Zxcm8La3J8yCyPA4FpzAe"
@@ -552,6 +552,24 @@
     },
     {
       "album": {
+        "name": "1979",
+        "url": "https://open.spotify.com/album/70GFb2bW6tyYF7KqDJ8QfL"
+      },
+      "artists": [
+        {
+          "name": "Pink Oak",
+          "url": "https://open.spotify.com/artist/18P0Pm5wkx4lfHBG0UnUrO"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187652,
+      "name": "Cassie",
+      "url": "https://open.spotify.com/track/3eBVTlnu9DZ6dPWCJN5Fyz"
+    },
+    {
+      "album": {
         "name": "Catcher in the rye",
         "url": "https://open.spotify.com/album/1U7K08lz9Y5HK31C2yqYDd"
       },
@@ -653,7 +671,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 208511,
       "name": "Clevelig",
       "url": "https://open.spotify.com/track/115cPJoVFoqJzCnLGaqkXO"
@@ -2218,6 +2236,24 @@
     },
     {
       "album": {
+        "name": "Level 16",
+        "url": "https://open.spotify.com/album/086jkRvfbNnyyqD3OtVPQx"
+      },
+      "artists": [
+        {
+          "name": "pxp pxp",
+          "url": "https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210212,
+      "name": "Level 16",
+      "url": "https://open.spotify.com/track/5Zcn0i0f8d33pCeau5DRTn"
+    },
+    {
+      "album": {
         "name": "Good Lighting",
         "url": "https://open.spotify.com/album/16QNgf0OjniGQYSUAsUVTO"
       },
@@ -2471,6 +2507,24 @@
       "duration_ms": 143562,
       "name": "Material Culture",
       "url": "https://open.spotify.com/track/4j5cGnoN4zuFzSJEul5NvW"
+    },
+    {
+      "album": {
+        "name": "The Cat's Meow",
+        "url": "https://open.spotify.com/album/6S5Saal4XqDxBcTXQd1EoT"
+      },
+      "artists": [
+        {
+          "name": "Crate Diggers",
+          "url": "https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125684,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/2ThRvXmltv1SkilmCu4wr0"
     },
     {
       "album": {
@@ -2899,7 +2953,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 152000,
       "name": "paint",
       "url": "https://open.spotify.com/track/28p37blBJxXtnAtl9ndjC0"
@@ -2996,6 +3050,24 @@
     },
     {
       "album": {
+        "name": "Presi Face",
+        "url": "https://open.spotify.com/album/2elmCoxrHi4lsKaIuMfjV7"
+      },
+      "artists": [
+        {
+          "name": "Jharee",
+          "url": "https://open.spotify.com/artist/1h8ZzbKCnh7wCxDH8Z3iJi"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190841,
+      "name": "Presi Face",
+      "url": "https://open.spotify.com/track/52v3ynq7TeiusKESiwUIRv"
+    },
+    {
+      "album": {
         "name": "Midas Touch",
         "url": "https://open.spotify.com/album/0MZgSxNdAJyb1IN6y2Z2AE"
       },
@@ -3043,7 +3115,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 155121,
       "name": "PunchOut",
       "url": "https://open.spotify.com/track/5a8RDAInofwrvmcCt0X5u1"
@@ -3303,7 +3375,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 168000,
       "name": "running out of time",
       "url": "https://open.spotify.com/track/0e6UrhLAH2lnNe6zdlUTBN"
@@ -3361,10 +3433,36 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 213000,
       "name": "Self-Inflicted",
       "url": "https://open.spotify.com/track/3nJ92wlW6KH8RgL33OZr6M"
+    },
+    {
+      "album": {
+        "name": "Sensory",
+        "url": "https://open.spotify.com/album/5XGspEqpsGTTSnryJ9D1HB"
+      },
+      "artists": [
+        {
+          "name": "DARKCITY",
+          "url": "https://open.spotify.com/artist/5E5kMELbzQ56qBssHVWlsy"
+        },
+        {
+          "name": "root",
+          "url": "https://open.spotify.com/artist/1k27JeD1SDSojaZok0SoPO"
+        },
+        {
+          "name": "Ryan Celsius Sounds",
+          "url": "https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259631,
+      "name": "Sensory",
+      "url": "https://open.spotify.com/track/70foYW4a0fEYwy60SwEYUj"
     },
     {
       "album": {
@@ -3491,7 +3589,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 182267,
       "name": "Snack Bar",
       "url": "https://open.spotify.com/track/3NaAiO0oBCWkRVFtSQ6j0F"
@@ -4111,7 +4209,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 148965,
       "name": "To Infinity",
       "url": "https://open.spotify.com/track/2LERiA6p7DUc4HQi3UM1LW"
@@ -4327,7 +4425,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 202526,
       "name": "Wasted on You",
       "url": "https://open.spotify.com/track/183mkQJGrevUCBWcS8Tl6C"
@@ -4349,7 +4447,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 139236,
       "name": "WAY",
       "url": "https://open.spotify.com/track/3DIqWBdLAGx7CLqAfypQcW"
@@ -4403,7 +4501,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 146740,
       "name": "Whirlpool",
       "url": "https://open.spotify.com/track/3aZfUnI78dyExxPFl2Inux"
@@ -4421,7 +4519,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 120000,
       "name": "Whis",
       "url": "https://open.spotify.com/track/1KswaDddiXqRnneChbrOwL"
@@ -4497,6 +4595,24 @@
       "duration_ms": 164000,
       "name": "Write Off",
       "url": "https://open.spotify.com/track/621MnT5Wi73X0Gp2lmwZ0M"
+    },
+    {
+      "album": {
+        "name": "Yes Man",
+        "url": "https://open.spotify.com/album/3oEE9nG6uW2Jfqobx3iZq9"
+      },
+      "artists": [
+        {
+          "name": "Kripto",
+          "url": "https://open.spotify.com/artist/0VdlvJNWbvKfguCf7tdgop"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Yes Man",
+      "url": "https://open.spotify.com/track/00QiT6wUZrnCkgUvP9xgh9"
     },
     {
       "album": {

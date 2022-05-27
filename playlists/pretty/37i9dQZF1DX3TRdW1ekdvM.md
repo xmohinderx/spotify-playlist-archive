@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 
 > Perfect sleep riding Theta brain waves\. It's Science, it works!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,271 likes - 65 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,296 likes - 65 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

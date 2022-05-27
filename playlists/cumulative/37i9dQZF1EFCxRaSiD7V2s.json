@@ -3543,10 +3543,32 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 204666,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4idB0v45onZipVsuVPmNYF"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/6exlVxcQKBmzzrghWqMmpA"
+      },
+      "artists": [
+        {
+          "name": "Rich Edwards",
+          "url": "https://open.spotify.com/artist/79v9Al6rSVH9SFk0QzzOl1"
+        },
+        {
+          "name": "Taheran",
+          "url": "https://open.spotify.com/artist/5Nj8N6JiueW73lkLkv6TL6"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204666,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7EE15pUdQE5ho5da0sbXcE"
     },
     {
       "album": {

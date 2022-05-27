@@ -4,12 +4,13 @@
 
 > Texas music breaking waves\. Cover, Kaash Paige
 
-142 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
+143 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Years](https://open.spotify.com/track/3IgI0TzODwJxJ3coO9aqjC) | [Jayson Lyric](https://open.spotify.com/artist/2CtJ90yJjxn0nL4a2lH0SA) | [100 Years](https://open.spotify.com/album/55StU7kaJVUrOg2d8cDubS) | 2:12 | 2022-02-25 | 2022-05-14 |
 | [1942](https://open.spotify.com/track/57M7zz6261e3C16CE7urOv) | [Startheonly1ne](https://open.spotify.com/artist/1CHx79WailhfSLpBvUvWqt) | [1942](https://open.spotify.com/album/7tCg3OiduEfxOrvyK1zJL4) | 2:09 | 2022-02-18 | 2022-04-02 |
+| [24 Hrs](https://open.spotify.com/track/0GMxsSQhO9Yj8aKhN8ljFe) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [24 Hrs](https://open.spotify.com/album/3t9cOTSY2P2Nj7pkbGv7M3) | 2:47 | 2022-05-20 |  |
 | [4 the love of the game](https://open.spotify.com/track/2urE4My6PcNLELXCRnCoVj) | [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [E30](https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc) | 4:16 | 2022-01-29 |  |
 | [556 \(Green Tip\) \(Spotem G\-Mix\)](https://open.spotify.com/track/6foIbQlxDlg5RzMqY0uOwR) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa), [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [556 \(Green Tip\) \(Spotem G\-Mix\)](https://open.spotify.com/album/0K5ueKr5c9ZBfkl3kHNR9v) | 2:52 | 2022-04-15 |  |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-29 |  |

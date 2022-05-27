@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Arch Enemy on top of the biggest Metal playlist!",
+  "description": "Miss May I on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -207,6 +207,24 @@
       "duration_ms": 212480,
       "name": "Better Than You",
       "url": "https://open.spotify.com/track/5NFXZaUersjjJuIqPbOlhF"
+    },
+    {
+      "album": {
+        "name": "Bleed Together",
+        "url": "https://open.spotify.com/album/5xQY16nG5c9tM3xXGgpg4p"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270013,
+      "name": "Bleed Together",
+      "url": "https://open.spotify.com/track/42AuCKjh0QFS4dZQv8WURV"
     },
     {
       "album": {
@@ -1162,6 +1180,24 @@
     },
     {
       "album": {
+        "name": "Heart To Stone",
+        "url": "https://open.spotify.com/album/13ixlRB348zXf1RObOOZN7"
+      },
+      "artists": [
+        {
+          "name": "ONI",
+          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196522,
+      "name": "Heart To Stone",
+      "url": "https://open.spotify.com/track/1dlmBnF9hFmhhsCKzZWyrT"
+    },
+    {
+      "album": {
         "name": "Heathens",
         "url": "https://open.spotify.com/album/3tjvaW6nGu53X7iwbIUNqk"
       },
@@ -1559,7 +1595,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 235353,
       "name": "Loveletting - 7\" Cut",
       "url": "https://open.spotify.com/track/0bJPjlcegkXGSnijanvwVD"
@@ -1827,7 +1863,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 233325,
       "name": "Omen",
       "url": "https://open.spotify.com/track/2zCwpuQuSzm2Mk7h7JYNtS"
@@ -2402,6 +2438,24 @@
     },
     {
       "album": {
+        "name": "Stitches",
+        "url": "https://open.spotify.com/album/45SbfV6M4ELzAOU163XpPb"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301426,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/4KWq6RMruDDwjzYBBpUi7c"
+    },
+    {
+      "album": {
         "name": "Stockholm Syndrome",
         "url": "https://open.spotify.com/album/05FgwpLFT7x5i0RFdjxb5x"
       },
@@ -2795,7 +2849,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 215053,
       "name": "Unconquered",
       "url": "https://open.spotify.com/track/5624sQ4FhCXJRQpYwhkvt8"

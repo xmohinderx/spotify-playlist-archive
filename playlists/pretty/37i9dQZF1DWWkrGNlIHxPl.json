@@ -1,12 +1,12 @@
 {
   "description": "Global crossovers by/with Arab artists. Cover: Anees.",
-  "num_followers": 117431,
+  "num_followers": 117469,
   "original_name": "Arab X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAzNjk0OCwwMDAwMDI4YzAwMDAwMTgwZTBhZTFjNjkwMDAwMDE4MDNjMjg4OWE2",
+  "snapshot_id": "MTY1MzYwNjAwMCwwMDAwMDI4ZDAwMDAwMTgxMDI5OTI2NGYwMDAwMDE4MDNjMjg4OWE2",
   "tracks": [
     {
       "added_at": "2022-05-13 08:01:54",
@@ -39,6 +39,30 @@
       "duration_ms": 176953,
       "name": "THE SNAKE",
       "url": "https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ"
+    },
+    {
+      "added_at": "2022-05-26 23:00:00",
+      "album": {
+        "name": "Beating Broken Heart",
+        "url": "https://open.spotify.com/album/7AzJReocWDkxQaEAAyQ2Cl"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "Jon Paul",
+          "url": "https://open.spotify.com/artist/7KxTSiCDnkZfTVKEWzONc9"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "duration_ms": 139385,
+      "name": "Beating Broken Heart",
+      "url": "https://open.spotify.com/track/2kqMZ9mWxK52aAk1wZFwCn"
     },
     {
       "added_at": "2022-05-13 08:01:54",
@@ -75,22 +99,6 @@
     {
       "added_at": "2022-05-13 08:01:54",
       "album": {
-        "name": "HELLSTORM",
-        "url": "https://open.spotify.com/album/2w0Wpf3Ebuy5ibLqmnc34B"
-      },
-      "artists": [
-        {
-          "name": "Maro",
-          "url": "https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh"
-        }
-      ],
-      "duration_ms": 198254,
-      "name": "HELLSTORM",
-      "url": "https://open.spotify.com/track/7ka672CmPkXWtQUQOLwRqq"
-    },
-    {
-      "added_at": "2022-05-13 08:01:54",
-      "album": {
         "name": "Arab Trap - EP.1",
         "url": "https://open.spotify.com/album/3dQpnLxtGSzIRi7TEA8MzC"
       },
@@ -103,6 +111,22 @@
       "duration_ms": 188665,
       "name": "Enta",
       "url": "https://open.spotify.com/track/1mRSA7bk3iEvAyKLXHL7bi"
+    },
+    {
+      "added_at": "2022-05-26 23:00:00",
+      "album": {
+        "name": "The First Disciple",
+        "url": "https://open.spotify.com/album/0Tq5p3TGrec8ZKEh68JNWO"
+      },
+      "artists": [
+        {
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+        }
+      ],
+      "duration_ms": 362432,
+      "name": "The First Disciple",
+      "url": "https://open.spotify.com/track/5mbeR5Kz4A1wfZsU9bXUJt"
     },
     {
       "added_at": "2022-05-13 08:01:54",
@@ -189,6 +213,22 @@
       "url": "https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst"
     },
     {
+      "added_at": "2022-05-26 23:00:00",
+      "album": {
+        "name": "Want You Back",
+        "url": "https://open.spotify.com/album/3KbBdkPsUi15Sp9C929MdP"
+      },
+      "artists": [
+        {
+          "name": "Moh Flow",
+          "url": "https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p"
+        }
+      ],
+      "duration_ms": 135319,
+      "name": "Want You Back",
+      "url": "https://open.spotify.com/track/5EqLtvftHcTbsmoPW2EmX0"
+    },
+    {
       "added_at": "2022-05-13 08:01:54",
       "album": {
         "name": "Fruitseller",
@@ -203,6 +243,22 @@
       "duration_ms": 158750,
       "name": "Fruitseller",
       "url": "https://open.spotify.com/track/1CV5V40YIAS7d8CxU2bKwQ"
+    },
+    {
+      "added_at": "2022-05-13 08:01:54",
+      "album": {
+        "name": "HELLSTORM",
+        "url": "https://open.spotify.com/album/2w0Wpf3Ebuy5ibLqmnc34B"
+      },
+      "artists": [
+        {
+          "name": "Maro",
+          "url": "https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh"
+        }
+      ],
+      "duration_ms": 198254,
+      "name": "HELLSTORM",
+      "url": "https://open.spotify.com/track/7ka672CmPkXWtQUQOLwRqq"
     },
     {
       "added_at": "2022-05-13 08:01:54",
@@ -279,22 +335,6 @@
       "duration_ms": 160666,
       "name": "A Thousand Nights",
       "url": "https://open.spotify.com/track/2KsUQYIfWwCCdltFt8LOzN"
-    },
-    {
-      "added_at": "2022-05-13 08:01:54",
-      "album": {
-        "name": "Xbox",
-        "url": "https://open.spotify.com/album/0VTpElYxz599FWApgxZk86"
-      },
-      "artists": [
-        {
-          "name": "Ramriddlz",
-          "url": "https://open.spotify.com/artist/3fHjwMnkM9ov8CozqkYxWY"
-        }
-      ],
-      "duration_ms": 111864,
-      "name": "Xbox",
-      "url": "https://open.spotify.com/track/0D96Qm09CDTxfu85rkpZwO"
     },
     {
       "added_at": "2022-05-13 08:01:54",
@@ -663,22 +703,6 @@
       "duration_ms": 179417,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/2AvO9mnoHTP8HYWlhdr5lZ"
-    },
-    {
-      "added_at": "2022-05-13 08:01:54",
-      "album": {
-        "name": "Nader Khalil",
-        "url": "https://open.spotify.com/album/4llHNpLrRq526dI2BqATuG"
-      },
-      "artists": [
-        {
-          "name": "Nader Khalil",
-          "url": "https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi"
-        }
-      ],
-      "duration_ms": 73500,
-      "name": "Arab Way",
-      "url": "https://open.spotify.com/track/64iJCxwcWh4RpYCYlKydZs"
     },
     {
       "added_at": "2022-05-13 08:01:54",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Magnolia Park",
+  "description": "The best new music from the wide world of punk. Cover: Neck Deep",
   "name": "All New Punk",
   "published_playlist_ids": [
     "2haHBtUGc1WwW279RE9x3F"
@@ -276,6 +276,42 @@
     },
     {
       "album": {
+        "name": "Anything Was Better",
+        "url": "https://open.spotify.com/album/3lOL6wkd772WZMcBRnAZKm"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177349,
+      "name": "Anything Was Better",
+      "url": "https://open.spotify.com/track/6k94bJDkpIpB5ixbNedsul"
+    },
+    {
+      "album": {
+        "name": "Are You Unhappy?",
+        "url": "https://open.spotify.com/album/1J9zdM6Ndjrd3QlMNFgDqd"
+      },
+      "artists": [
+        {
+          "name": "Craig's Brother",
+          "url": "https://open.spotify.com/artist/7vQBiuIC5Ac3zwezkl6Y8S"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223250,
+      "name": "Are You Unhappy?",
+      "url": "https://open.spotify.com/track/61O1YCDQ2NnKz4xcyh49UW"
+    },
+    {
+      "album": {
         "name": "please put me in a medically induced coma",
         "url": "https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg"
       },
@@ -287,7 +323,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 167574,
       "name": "Audrey",
       "url": "https://open.spotify.com/track/4tRQZioCVlJSJQbyMr5kko"
@@ -475,7 +511,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 147635,
       "name": "Bite Down",
       "url": "https://open.spotify.com/track/5wHGEpWP0DmI219NIwIrlB"
@@ -518,6 +554,28 @@
     },
     {
       "album": {
+        "name": "Bittersweet (Feat. Dashboard Confessional)",
+        "url": "https://open.spotify.com/album/2TEE1RnUqjfSdOK5gxuswa"
+      },
+      "artists": [
+        {
+          "name": "Sam Tinnesz",
+          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
+        },
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168566,
+      "name": "Bittersweet (Feat. Dashboard Confessional)",
+      "url": "https://open.spotify.com/track/3aouFaljxig7RLEmPLFtnj"
+    },
+    {
+      "album": {
         "name": "Blank Curtain",
         "url": "https://open.spotify.com/album/52LYHwmooQOlKRU56HaOoZ"
       },
@@ -547,7 +605,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 192002,
       "name": "Blessed Be Thy",
       "url": "https://open.spotify.com/track/6oOrDOcWae9TplDG761Zvn"
@@ -767,7 +825,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 185495,
       "name": "Burning Out",
       "url": "https://open.spotify.com/track/6geYvnrJ2QaOeac0HsCTdz"
@@ -825,6 +883,24 @@
       "duration_ms": 227625,
       "name": "CALI SUN",
       "url": "https://open.spotify.com/track/3dDzS6AdckbmFyBsGXYgXe"
+    },
+    {
+      "album": {
+        "name": "Can We Stop Trying to Win?",
+        "url": "https://open.spotify.com/album/3Q8gE5VrnQ8Pqp680pRl0M"
+      },
+      "artists": [
+        {
+          "name": "Ten Foot Pole",
+          "url": "https://open.spotify.com/artist/27HBzx6Ox43GPbWLECgbFW"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171300,
+      "name": "Can We Stop Trying to Win?",
+      "url": "https://open.spotify.com/track/64tac6ktD4MSnR7tMHKmjg"
     },
     {
       "album": {
@@ -1348,6 +1424,24 @@
     },
     {
       "album": {
+        "name": "Disappear",
+        "url": "https://open.spotify.com/album/62ncD2u49O0QFm0voLVzoX"
+      },
+      "artists": [
+        {
+          "name": "Two Trains Left",
+          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234315,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/5cOYvRvQ31Ff0sTeNTDPAV"
+    },
+    {
+      "album": {
         "name": "Don't Fall In Love With Me",
         "url": "https://open.spotify.com/album/5IQldAUzw7BjWe6fcg163u"
       },
@@ -1417,7 +1511,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 174411,
       "name": "Drinking in the Park",
       "url": "https://open.spotify.com/track/4N4pg9e3jAPQPiTuUMRXlO"
@@ -1613,6 +1707,24 @@
       "duration_ms": 180472,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e"
+    },
+    {
+      "album": {
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/3pLNNWbRXzaHlltPkjePUL"
+      },
+      "artists": [
+        {
+          "name": "Grumpster",
+          "url": "https://open.spotify.com/artist/6aUzts6HmxY9CVr6U5hILq"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165042,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/6lXcJtceP3Zhiw1X5c4PAO"
     },
     {
       "album": {
@@ -2050,6 +2162,24 @@
     },
     {
       "album": {
+        "name": "Gravedigger",
+        "url": "https://open.spotify.com/album/4K1j35D9tFWOJe0qI4LpKx"
+      },
+      "artists": [
+        {
+          "name": "SUCK",
+          "url": "https://open.spotify.com/artist/7MxmGisbEwkQfFGkTfpkWA"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149253,
+      "name": "Gravedigger",
+      "url": "https://open.spotify.com/track/65pHyuLVSdpjJNhf27H0Rh"
+    },
+    {
+      "album": {
         "name": "Green Squirrel in Pretty Bad Shape",
         "url": "https://open.spotify.com/album/2062Jn4uaZQ67IhVqiviBj"
       },
@@ -2253,7 +2383,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 175820,
       "name": "High Again",
       "url": "https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic"
@@ -2408,6 +2538,24 @@
     },
     {
       "album": {
+        "name": "I Stand Alone",
+        "url": "https://open.spotify.com/album/57cZhJiURftOyIuh9tWahY"
+      },
+      "artists": [
+        {
+          "name": "LTYM",
+          "url": "https://open.spotify.com/artist/1aq5OHQzPRaNu11gKt9BRO"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "I Stand Alone",
+      "url": "https://open.spotify.com/track/0uJZw0muh53X2xfjuCVvAh"
+    },
+    {
+      "album": {
         "name": "I'm Sorry I'm Leaving",
         "url": "https://open.spotify.com/album/7K1AZt6c0aXqLiS7S4qCYi"
       },
@@ -2455,7 +2603,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 184760,
       "name": "In The Mirror",
       "url": "https://open.spotify.com/track/11ytsbCqnMlj2bV0hVKp5P"
@@ -2513,6 +2661,24 @@
       "duration_ms": 119000,
       "name": "INVITATION",
       "url": "https://open.spotify.com/track/5UeAFjIxgay5XnbfhaJ0hq"
+    },
+    {
+      "album": {
+        "name": "It Was Beautiful",
+        "url": "https://open.spotify.com/album/6mG9Z34A1IVYzBZj7AFcXb"
+      },
+      "artists": [
+        {
+          "name": "TV Priest",
+          "url": "https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213885,
+      "name": "It Was Beautiful",
+      "url": "https://open.spotify.com/track/4WTtLurqdWhoQEGC3av6Cp"
     },
     {
       "album": {
@@ -2617,7 +2783,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 159596,
       "name": "junkie",
       "url": "https://open.spotify.com/track/1EbsleQQFhD9HYxPaTqgfu"
@@ -2689,7 +2855,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 178382,
       "name": "Keep up That Talk",
       "url": "https://open.spotify.com/track/6xUckCwKNfYr31rHK0VJEM"
@@ -3622,6 +3788,28 @@
     },
     {
       "album": {
+        "name": "Out of Light",
+        "url": "https://open.spotify.com/album/5ltB1kwrCDqYclK0hcoIge"
+      },
+      "artists": [
+        {
+          "name": "Scary Kids Scaring Kids",
+          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
+        },
+        {
+          "name": "Spencer Chamberlain",
+          "url": "https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225621,
+      "name": "Omens (feat. Spencer Chamberlain)",
+      "url": "https://open.spotify.com/track/3fztnHcEJ8xjtCONtN2qMg"
+    },
+    {
+      "album": {
         "name": "One Easy Thing",
         "url": "https://open.spotify.com/album/6QDkHIwDgnao7FF4TpJq7W"
       },
@@ -3789,6 +3977,24 @@
       "duration_ms": 174386,
       "name": "Payday",
       "url": "https://open.spotify.com/track/4BHwHgjy6yWVrvXqEr4CSC"
+    },
+    {
+      "album": {
+        "name": "Performative Hours",
+        "url": "https://open.spotify.com/album/7CqjGobFgtmz6IXKkLuSpz"
+      },
+      "artists": [
+        {
+          "name": "The Flatliners",
+          "url": "https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177896,
+      "name": "Performative Hours",
+      "url": "https://open.spotify.com/track/1OArvbg7G58DC9pxrVk9Za"
     },
     {
       "album": {
@@ -4027,7 +4233,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 127812,
       "name": "R.I.P",
       "url": "https://open.spotify.com/track/5QZ3Kj45XirIHeH66cj9B3"
@@ -4258,6 +4464,24 @@
     },
     {
       "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/6ups5M7odd5WAoRPBa6QVk"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165238,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/6zYuVQdkZNbeqx5UMmoAOH"
+    },
+    {
+      "album": {
         "name": "Satellites in Motion",
         "url": "https://open.spotify.com/album/5Uy5NdsvHtmJz4vfsJNydz"
       },
@@ -4366,6 +4590,24 @@
     },
     {
       "album": {
+        "name": "Shane MacGowans New Teeth",
+        "url": "https://open.spotify.com/album/18hWM8sSnUl9QvukVTUFf8"
+      },
+      "artists": [
+        {
+          "name": "TOUTS",
+          "url": "https://open.spotify.com/artist/778lQqI29eUT3DyF1AYtLS"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Shane MacGowans New Teeth",
+      "url": "https://open.spotify.com/track/0jbY6zhcjeBsI82M3UGf0J"
+    },
+    {
+      "album": {
         "name": "Sharpen Your Teeth",
         "url": "https://open.spotify.com/album/5gHr4BCM2KajP8QLx3MHab"
       },
@@ -4453,7 +4695,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 138086,
       "name": "Shooting Star (feat. Sum 41)",
       "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
@@ -4682,6 +4924,24 @@
     },
     {
       "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172480,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39"
+    },
+    {
+      "album": {
         "name": "Still Running (5K)",
         "url": "https://open.spotify.com/album/1Rb4OowmozoRFy2qpR6tnT"
       },
@@ -4759,6 +5019,24 @@
       "duration_ms": 214853,
       "name": "Strange Days",
       "url": "https://open.spotify.com/track/1bOUtTj0AZS3EloK6HAoyg"
+    },
+    {
+      "album": {
+        "name": "Strange World",
+        "url": "https://open.spotify.com/album/2bn6O3GayBt7HyEysgcSxR"
+      },
+      "artists": [
+        {
+          "name": "Hazy Sour Cherry",
+          "url": "https://open.spotify.com/artist/3PsepAwOMZT9vSREseiDW5"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185880,
+      "name": "Strange World",
+      "url": "https://open.spotify.com/track/3QOuemHPvUS3rnTFBrmNzb"
     },
     {
       "album": {
@@ -4867,7 +5145,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 158360,
       "name": "switchblade",
       "url": "https://open.spotify.com/track/5f5HlAWAgkfAJA1wK2IkCp"
@@ -4997,7 +5275,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 184761,
       "name": "TELL ME THAT YOU\u2019RE OKAY",
       "url": "https://open.spotify.com/track/0UjJ89GHYTykKaNUi55zvH"
@@ -5206,6 +5484,28 @@
     },
     {
       "album": {
+        "name": "The View From Halfway Down - Spotify Singles",
+        "url": "https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj"
+      },
+      "artists": [
+        {
+          "name": "Jhariah",
+          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+        },
+        {
+          "name": "Henry\u00a0D'Arthenay",
+          "url": "https://open.spotify.com/artist/25Dx0mB7FWXFxNjsYVfcCL"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230145,
+      "name": "The View From Halfway Down - Spotify Singles",
+      "url": "https://open.spotify.com/track/3E4gPkcqnyaAnv1nrdukwp"
+    },
+    {
+      "album": {
         "name": "Worst Weekend Ever",
         "url": "https://open.spotify.com/album/3VZqXdo7YxzZCCP6tNP9Mo"
       },
@@ -5217,7 +5517,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 85750,
       "name": "The Worm",
       "url": "https://open.spotify.com/track/0tUjQu2YTvSGqXWSCK0jAq"
@@ -5625,7 +5925,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 216474,
       "name": "Wake Me Up (When This Nightmare's Over)",
       "url": "https://open.spotify.com/track/6tj1GKBc6xYLxD9OYbEHku"
@@ -5697,7 +5997,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 214874,
       "name": "Weapon",
       "url": "https://open.spotify.com/track/0CGj0cu1kyQq08Zw5tt1Tt"

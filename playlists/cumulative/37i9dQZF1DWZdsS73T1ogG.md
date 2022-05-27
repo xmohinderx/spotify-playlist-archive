@@ -2,9 +2,9 @@
 
 ### [New Urbano](https://open.spotify.com/playlist/37i9dQZF1DWZdsS73T1ogG)
 
-> Descubre lo más nuevo del movimiento\. Cover: Pailita, Nio Garcia
+> Descubre lo más nuevo del movimiento\. Cover: Lunay
 
-93 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
+96 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 | 2022-04-08 |  |
 | [Arrepentío](https://open.spotify.com/track/4KvP2A55KMO25vr5VnsXCB) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [La Patrona](https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1) | 3:30 | 2022-03-21 | 2022-03-30 |
 | [Baila Bien](https://open.spotify.com/track/49DcRL4LLu599I5xsrjcm9) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [15](https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6) | 3:17 | 2022-03-21 |  |
+| [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 | 2022-05-26 |  |
 | [Bandidos](https://open.spotify.com/track/1dZkAYdCvUA4u5cMzGhRJh) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Bandidos](https://open.spotify.com/album/0EC8Sa1jYekLosZIYDlWvw) | 2:57 | 2022-05-13 |  |
 | [Brickell](https://open.spotify.com/track/0ptX5UGfC8dQ2sZn452sEd) | [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas), [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP) | [Brickell](https://open.spotify.com/album/6zfN6EebQwWUzx7Eg9bUHj) | 3:34 | 2022-03-21 | 2022-04-16 |
 | [BYAK](https://open.spotify.com/track/6mPzI9mXSv4HbjtsuluEen) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [BYAK](https://open.spotify.com/album/6jsKmnNS6eZ13rLiwb8XrC) | 2:28 | 2022-03-21 | 2022-03-30 |
@@ -53,6 +54,7 @@
 | [hebilla](https://open.spotify.com/track/0W1x3Q875nkNUM0386f1Ha) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Cami Da Baby](https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE) | [hebilla](https://open.spotify.com/album/3GxYLJZd0U74GvLipaMa7F) | 3:43 | 2022-03-21 | 2022-04-02 |
 | [Hey Siri](https://open.spotify.com/track/5ohqJK8ieHOGIUsbw2oZqQ) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Hey Siri](https://open.spotify.com/album/26PSRzfCh69uiTBWg2eIZO) | 2:27 | 2022-04-15 | 2022-04-29 |
 | [Instagram](https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Instagram](https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH) | 2:42 | 2022-04-15 |  |
+| [Jaguayuken](https://open.spotify.com/track/30whhEwlqqMfmpF6sYDMpG) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Eso Es Mental](https://open.spotify.com/album/2UqAGEkeshUDADfxlDMApg) | 3:46 | 2022-05-26 |  |
 | [Jugando Con la Cura](https://open.spotify.com/track/0jTo2RvIT7pgyTtKtFEFhK) | [Mackie](https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl) | [Jugando Con la Cura](https://open.spotify.com/album/7nh7CVJ8P2VjdMJs7uslZ0) | 3:10 | 2022-03-21 | 2022-04-02 |
 | [LA INOCENTE](https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:22 | 2022-04-15 |  |
 | [La Pared 720 \(feat\. Justin Quiles, Brray\)](https://open.spotify.com/track/1Pf1qN0amPFq5CrZlB60bl) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Pared 720 \(feat\. Justin Quiles, Brray\)](https://open.spotify.com/album/48sEphlTqkEdGgqwQfJu2B) | 4:36 | 2022-03-21 |  |
@@ -60,6 +62,7 @@
 | [MANIFIESTO FREESTYLE](https://open.spotify.com/track/0BwaLL2rwSNwZevRG2iNYS) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:42 | 2022-05-16 |  |
 | [Me Dejé Llevar](https://open.spotify.com/track/3Mc2Y3qgBL5WsQWjch3VVK) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Me Dejé Llevar](https://open.spotify.com/album/6xXpnfndZYsh8F5Tvtus5e) | 2:24 | 2022-03-21 | 2022-03-30 |
 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 | 2022-03-29 |  |
+| [Monumento \- Remix](https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Monumento \(Remix\)](https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D) | 3:28 | 2022-05-26 |  |
 | [Munchisito y Chao](https://open.spotify.com/track/4O3jVlC5g6crPM0TOsoUjA) | [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [Munchisito y Chao](https://open.spotify.com/album/3p38C0gN42NetsZA02LiX9) | 2:18 | 2022-03-29 |  |
 | [MUSEO](https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [TRAP CAKE VOL\. 2](https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI) | 4:15 | 2022-04-15 |  |
 | [Mírate Bien](https://open.spotify.com/track/7yQVxpEIfgUJZJLoucfbs3) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v) | [Mírate Bien](https://open.spotify.com/album/2ihZsxbhXzGAIWzG51ImRM) | 3:00 | 2022-05-13 |  |

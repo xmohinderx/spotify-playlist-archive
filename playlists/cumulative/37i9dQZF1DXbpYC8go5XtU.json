@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Ballad of a Sleepless Traveler",
+        "url": "https://open.spotify.com/album/0lk0cAw5RSaFwEbEJrnxoT"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217714,
+      "name": "Ballad of a Sleepless Traveler",
+      "url": "https://open.spotify.com/track/1o5IIGHsAPrOcehvvfmP7K"
+    },
+    {
+      "album": {
         "name": "beautiful soundscape (Spa Edit)",
         "url": "https://open.spotify.com/album/0vr9IDaXieLwJeEmn1RQxV"
       },

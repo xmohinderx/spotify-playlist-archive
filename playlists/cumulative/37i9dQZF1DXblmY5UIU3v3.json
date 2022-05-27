@@ -252,6 +252,24 @@
     },
     {
       "album": {
+        "name": "Creed",
+        "url": "https://open.spotify.com/album/6qlZRikwB57mZICjlsnNtr"
+      },
+      "artists": [
+        {
+          "name": "Jebby Jay",
+          "url": "https://open.spotify.com/artist/0qWtgkuR4HNf4E9YSA7kp6"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182994,
+      "name": "Creed",
+      "url": "https://open.spotify.com/track/0mXeyfwJMCPwIV6mlATpoa"
+    },
+    {
+      "album": {
         "name": "Devil",
         "url": "https://open.spotify.com/album/2oS8pY5JB8KZyiqkfgMy98"
       },
@@ -354,6 +372,24 @@
     },
     {
       "album": {
+        "name": "FLEXIN'",
+        "url": "https://open.spotify.com/album/5rPDHgF6ZMVXpNKOVBThqJ"
+      },
+      "artists": [
+        {
+          "name": "KEAN DYSSO",
+          "url": "https://open.spotify.com/artist/74MUeXrsMncKunk1chMxg5"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174550,
+      "name": "FLEXIN'",
+      "url": "https://open.spotify.com/track/4HzwzU8MQu0BeOGR28B459"
+    },
+    {
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/4YRNsevJSWTSC5ohBXtx2v"
       },
@@ -391,7 +427,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 144096,
       "name": "Gangster Squad",
       "url": "https://open.spotify.com/track/4Fs5hxTxG0lREbLEWWLZcB"
@@ -475,7 +511,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 160268,
       "name": "HIGHEST IN THE ROOM",
       "url": "https://open.spotify.com/track/2zN1Xy9Abht2VuUkRFGjmp"
@@ -589,7 +625,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 141163,
       "name": "Ice",
       "url": "https://open.spotify.com/track/4LaVwTbIR8eFKge1xOgJBe"
@@ -933,7 +969,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 172342,
       "name": "Piece of Your Mind",
       "url": "https://open.spotify.com/track/4FwsiQaQglMPijjeheTygn"
@@ -1149,6 +1185,24 @@
       "duration_ms": 153722,
       "name": "SAX",
       "url": "https://open.spotify.com/track/5f0VxpTZ3pXgDi6f4XgsL6"
+    },
+    {
+      "album": {
+        "name": "Shagy",
+        "url": "https://open.spotify.com/album/6AuQTnJG4AYhqpo5zQAtVx"
+      },
+      "artists": [
+        {
+          "name": "ONEIL",
+          "url": "https://open.spotify.com/artist/7kzcAiYqxBV5J25vTYeOxA"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150588,
+      "name": "Shagy",
+      "url": "https://open.spotify.com/track/2zI17EWoz24ZaDB9baDBhC"
     },
     {
       "album": {
@@ -1387,6 +1441,28 @@
       "duration_ms": 152001,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/55LIJtZUzyhtSgR4Kp6hHC"
+    },
+    {
+      "album": {
+        "name": "Sztoj Pa Moru",
+        "url": "https://open.spotify.com/album/6jqIGpQn1A00DdYut4vCNs"
+      },
+      "artists": [
+        {
+          "name": "BROHM",
+          "url": "https://open.spotify.com/artist/33cjmfhkyHbulkQwkuxe3i"
+        },
+        {
+          "name": "Thingstad",
+          "url": "https://open.spotify.com/artist/4nl0BnCSRpuneTf0d7fV3G"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138782,
+      "name": "Sztoj Pa Moru",
+      "url": "https://open.spotify.com/track/3BHe1jnaW3hocrfMqytTP2"
     },
     {
       "album": {
