@@ -4,7 +4,7 @@
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Aleyna Tilki
 
-74 songs - 4 hr 10 min - not published yet
+74 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/0Ug3iJ167AwJwwVFcWuJiv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

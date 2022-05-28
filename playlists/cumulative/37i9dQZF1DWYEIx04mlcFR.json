@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 235000,
       "name": "Mala",
       "url": "https://open.spotify.com/track/7ye6e2xa9jzs5PAMVfm2Db"
@@ -1614,6 +1614,42 @@
     },
     {
       "album": {
+        "name": "Pa PRIVE",
+        "url": "https://open.spotify.com/album/1NcSaHWDtxlB7VX3RbwKhS"
+      },
+      "artists": [
+        {
+          "name": "Steff",
+          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190062,
+      "name": "Pa PRIVE",
+      "url": "https://open.spotify.com/track/59EISn3QlxiItQFAlk4WVy"
+    },
+    {
+      "album": {
+        "name": "Pa Que Te Digo Que No",
+        "url": "https://open.spotify.com/album/5ISB8ui1kJkiMkaMNOO8jr"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174213,
+      "name": "Pa Que Te Digo Que No",
+      "url": "https://open.spotify.com/track/4NhkLL44pqu1tw479u1KIx"
+    },
+    {
+      "album": {
         "name": "Para Hacernos Bien",
         "url": "https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A"
       },
@@ -2113,7 +2149,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 194874,
       "name": "seguiremos siendo",
       "url": "https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN"

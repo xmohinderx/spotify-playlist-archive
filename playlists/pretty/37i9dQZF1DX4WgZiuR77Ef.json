@@ -1,13 +1,65 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 388030,
+  "num_followers": 388050,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDA5MzAwMDAwMTgwYmI5NDliNTgwMDAwMDE4MDUyMWJjM2Mw",
+  "snapshot_id": "MTY1MzYyNDA2MCwwMDAwMDA5NDAwMDAwMTgxMDNhY2I5MjQwMDAwMDE4MDUyMWJjM2Mw",
   "tracks": [
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "B Side - Dr. Rubberfunk Mix",
+        "url": "https://open.spotify.com/album/1IJYB2w5KHSGickzC7y0Mj"
+      },
+      "artists": [
+        {
+          "name": "Smudge All Stars",
+          "url": "https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU"
+        },
+        {
+          "name": "Dr Rubberfunk",
+          "url": "https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep"
+        },
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        },
+        {
+          "name": "Fred Wesley",
+          "url": "https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam"
+        },
+        {
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        }
+      ],
+      "duration_ms": 283500,
+      "name": "B Side - Dr. Rubberfunk Mix",
+      "url": "https://open.spotify.com/track/2ZUIMmjpRjCzopFJl7F5EX"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Lost Knights",
+        "url": "https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        },
+        {
+          "name": "Phil Diamond",
+          "url": "https://open.spotify.com/artist/7BM0xp1rKAn5qB62J4FBOh"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/1jdtArpBS5Wgboi8qsvl41"
+    },
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {

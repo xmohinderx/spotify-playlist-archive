@@ -2545,7 +2545,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
@@ -4383,7 +4383,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 283573,
       "name": "Morto",
       "url": "https://open.spotify.com/track/3pc3vvDpNW212gcRPDn3Bi"
@@ -4791,7 +4791,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 76000,
       "name": "N\u00e3o \u00e9 uma beleza ham X Acho que vou bater uma foto sua",
       "url": "https://open.spotify.com/track/1qhy4UpbDRKBwO4Y9tTixv"
@@ -7663,6 +7663,24 @@
       "duration_ms": 174744,
       "name": "Vira Mortal na Piroca",
       "url": "https://open.spotify.com/track/5GMBPVnT9bOgGjsKNvdz5m"
+    },
+    {
+      "album": {
+        "name": "Guerra ao Desamor",
+        "url": "https://open.spotify.com/album/2q7GgrY9yxSu4Uw9SbKRDS"
+      },
+      "artists": [
+        {
+          "name": "Felipe Duram",
+          "url": "https://open.spotify.com/artist/1SbicVDBNjShlmCFsznYv7"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183557,
+      "name": "Viva a Vida",
+      "url": "https://open.spotify.com/track/4b09ITEnxTgyWfWmC6sfcX"
     },
     {
       "album": {

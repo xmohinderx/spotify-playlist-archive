@@ -4,7 +4,7 @@
 
 > Django and beyond.
 
-68 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
+69 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Blues for Stochelo](https://open.spotify.com/track/2ekfzRwLFWDis4G34Kkfx9) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG) | [Guitar Heroes](https://open.spotify.com/album/6MnYzIKgvXkNkjgqRsQuld) | 3:53 | 2021-02-04 |  |
 | [China Boy](https://open.spotify.com/track/1ajn0alF3RUq8qz4H9Rfz0) | [Lollo Meier](https://open.spotify.com/artist/0QiD9SILEjqqmaFPXxq2An) | [Hondarribia](https://open.spotify.com/album/2EcPOKSGVakskSB8jkFc0A) | 2:44 | 2021-02-04 |  |
 | [Coquette](https://open.spotify.com/track/55CneNdMfXocuqDVvO2DT3) | [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8), [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn), [Ben Powell](https://open.spotify.com/artist/25HkovLb1b05hLLIIoohM6) | [Caution HOT](https://open.spotify.com/album/2PQMXbEudx9Kl0M01pwZg8) | 2:35 | 2021-02-04 |  |
+| [Coucou](https://open.spotify.com/track/5whsPGYSk2FMFCkluUkp6I) | [Tchavolo Schmitt](https://open.spotify.com/artist/500N0I1rRpN81oULt3QUFY) | [Coucou](https://open.spotify.com/album/5ZPSCr10M050pYwZM2lDyn) | 2:56 | 2022-05-27 |  |
 | [Django's Tiger](https://open.spotify.com/track/0QTyHwOsBjUPZ2A10ofvRN) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Edouard Pennes](https://open.spotify.com/artist/6cgVqekLIRoFfthxvXDEkm) | [Django's Tiger](https://open.spotify.com/album/5XGhKJPYf1xr5x0p8IqV1U) | 2:12 | 2021-03-26 |  |
 | [Djangology](https://open.spotify.com/track/42gtiaKzcoCMEOLkiuYf4U) | [Duane Andrews](https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR) | [Djangology](https://open.spotify.com/album/25QeMhEESQIg9oDVPq9chK) | 3:24 | 2022-02-25 |  |
 | [Dolores](https://open.spotify.com/track/1UOTHt2Vxk5xHMvdN7gkRF) | [The Black Market Trust](https://open.spotify.com/artist/05YUfl0SzLH3OqbAICDULQ) | [Folk Songs](https://open.spotify.com/album/7fEjk6IjjNZwM70grqR4QL) | 2:03 | 2021-02-04 |  |

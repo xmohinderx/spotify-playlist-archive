@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "Favor de hacer doble fila para bailar estos cumbiones \u00a1S\u00fabale hay lugares!",
   "name": "Cumbias de Microb\u00fas",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6EideOA6wKb3APriXwASYn"
+  ],
   "tracks": [
     {
       "album": {
@@ -353,7 +355,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 195946,
       "name": "Ca\u00f1ita Ca\u00f1averal",
       "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
@@ -479,7 +481,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 248857,
       "name": "Coraz\u00f3n Enamorado",
       "url": "https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6"
@@ -551,7 +553,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 241083,
       "name": "Cumbia De Los Estados",
       "url": "https://open.spotify.com/track/4n0kXy9VtZQnh1oOLIOQ6D"
@@ -605,7 +607,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 267826,
       "name": "C\u00f3mo Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
@@ -717,7 +719,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 215973,
       "name": "El Afilador",
       "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
@@ -1317,7 +1319,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 202493,
       "name": "Me Haces Falta T\u00fa",
       "url": "https://open.spotify.com/track/0L2egVeSTDMt5YB5clmP9u"
@@ -1371,7 +1373,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 236360,
       "name": "Mi Corazon Es un Vagabundo",
       "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
@@ -1389,10 +1391,32 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 189040,
       "name": "Mi Ni\u00f1a Mujer",
       "url": "https://open.spotify.com/track/5T01Xvq4sH0rakGkI1T5O5"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Te Voy a Olvidar",
+        "url": "https://open.spotify.com/album/0XfO2FlqLSxUuZzc0CqI5K"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2021-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216986,
+      "name": "Mis Sentimientos",
+      "url": "https://open.spotify.com/track/1EzBdauNkU81AZ5IpDQGwG"
     },
     {
       "album": {
@@ -1414,6 +1438,24 @@
     },
     {
       "album": {
+        "name": "Mujer Prohibida",
+        "url": "https://open.spotify.com/album/1og0uJcQDLZjsTgxvru4cK"
+      },
+      "artists": [
+        {
+          "name": "Cumbias Epcm",
+          "url": "https://open.spotify.com/artist/54JRdEn6iibgAV3WHt37VJ"
+        }
+      ],
+      "date_added": "2021-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466076,
+      "name": "Mujer Prohibida",
+      "url": "https://open.spotify.com/track/0TD1S3vtA9RltRVpP3D0pY"
+    },
+    {
+      "album": {
         "name": "Serie 20 Exitos Los Yes Yes",
         "url": "https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t"
       },
@@ -1425,7 +1467,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 245400,
       "name": "Negrita",
       "url": "https://open.spotify.com/track/1XGAjwbXUd5fwSJ9YzpjAP"
@@ -1573,7 +1615,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 196586,
       "name": "Princesa Talibana",
       "url": "https://open.spotify.com/track/0f0czUFLxXOPGj91ib5L2X"
@@ -1663,7 +1705,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 283240,
       "name": "Rumba Cha-Cha-Cha",
       "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
@@ -1865,7 +1907,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 186801,
       "name": "Un Poblano en NY",
       "url": "https://open.spotify.com/track/7jNnWvAwYZQWfenuEBv7M9"

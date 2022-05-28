@@ -4,7 +4,7 @@
 
 > Singer\-songwriters who colour outside the lines\. Cover: Caamp
 
-103 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
+104 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Danger](https://open.spotify.com/track/4Fy2cDn5ULDvWSBtZ4uEFd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:25 | 2022-05-13 |  |
 | [Deadman](https://open.spotify.com/track/45saT9CynzZGwGkqsJkQGx) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [Deadman](https://open.spotify.com/album/4wgVruIbA98zWPV0LXgCfa) | 3:44 | 2022-05-13 |  |
 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 | 2022-05-13 |  |
+| [Do About Her](https://open.spotify.com/track/71ALgRSQ1neaZmRT2Ivj0P) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [The Spaces In Between](https://open.spotify.com/album/7m0pjaaLCwCqT7dnF6uTfi) | 3:33 | 2022-05-27 |  |
 | [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 | 2022-05-13 |  |
 | [Dusty Bottles](https://open.spotify.com/track/79eXcwwGDoGby7NxPOW0vw) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dusty Bottles](https://open.spotify.com/album/1O0K1b7OZDchLrM0ifo9d9) | 3:30 | 2022-05-13 |  |
 | [Everyday](https://open.spotify.com/track/4MhSHMQnlowD8yrHmnK6j9) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Everyday](https://open.spotify.com/album/0dgI0FRXO5KR5jdKhE7q4c) | 3:21 | 2022-05-13 |  |
@@ -110,6 +111,6 @@
 | [With You](https://open.spotify.com/track/1WoAQ1TRwi47BqUTt5hLNV) | [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [With You](https://open.spotify.com/album/1tqgfhub2RpAfGqXBC89EV) | 2:21 | 2022-05-13 |  |
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2022-05-13 |  |
 | [You Think You're Like the Rain](https://open.spotify.com/track/1qSh9gR4epn8vgu5GPeGP3) | [Jenny Berkel](https://open.spotify.com/artist/4Ff0I4P7d0FLK7Ctwy2pub) | [You Think You're Like the Rain](https://open.spotify.com/album/3werwfANKByC7oTf8t8Y0w) | 2:39 | 2022-05-13 |  |
-| [You’re Betting on a Losing Horse](https://open.spotify.com/track/72KkKffDyvx4AS6JCd3iWA) | [Old Kid](https://open.spotify.com/artist/64LbKzR0j5NrYkWNMSrAdO) | [You’re Betting on a Losing Horse](https://open.spotify.com/album/3ZasaDi3yQE1Y0xll9465N) | 2:38 | 2022-05-13 |  |
+| [You’re Betting on a Losing Horse](https://open.spotify.com/track/72KkKffDyvx4AS6JCd3iWA) | [Old Kid](https://open.spotify.com/artist/64LbKzR0j5NrYkWNMSrAdO) | [You’re Betting on a Losing Horse](https://open.spotify.com/album/3ZasaDi3yQE1Y0xll9465N) | 2:38 | 2022-05-13 | 2022-05-28 |
 
 \*This playlist was first scraped on 2022-05-14. Prior content cannot be recovered.

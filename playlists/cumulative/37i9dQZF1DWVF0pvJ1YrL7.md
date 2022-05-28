@@ -4,7 +4,7 @@
 
 > Welcome, you belong here.
 
-100 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/187ScON8KrrWo7kYQuCuMH)
+101 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/187ScON8KrrWo7kYQuCuMH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Baga DMs](https://open.spotify.com/track/0zw5os5kRxhfMRZ5dcZwXV) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [& Baga Man EP](https://open.spotify.com/album/1EKINDQeea5i3RPJ9UJ9jK) | 2:43 | 2021-10-06 |  |
 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 | 2021-10-06 |  |
 | [BB Guide](https://open.spotify.com/track/3bXMsKLDabILI15Rt78V8K) | [Gobby](https://open.spotify.com/artist/2fWQldEUHscXhkIMlVfMSN) | [Beats By Gobby 2](https://open.spotify.com/album/4x6P7VMRVCkQrybU4wyaFZ) | 2:11 | 2021-10-06 |  |
-| [Believer](https://open.spotify.com/track/7hNOk1cGljgIB44Pisy9tw) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Believer](https://open.spotify.com/album/7GkA4Hp4cnPiLDcN177Dnx) | 4:12 | 2021-10-06 |  |
+| [Believer](https://open.spotify.com/track/7hNOk1cGljgIB44Pisy9tw) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Believer](https://open.spotify.com/album/7GkA4Hp4cnPiLDcN177Dnx) | 4:12 | 2021-10-06 | 2022-05-28 |
 | [Berries](https://open.spotify.com/track/19g98vnDqahXd7VuPx6LaF) | [Kapitan](https://open.spotify.com/artist/0d1tWd8tcaMhKHn8fHKgY9) | [Alaska](https://open.spotify.com/album/41Kfl8Sn5L2S6blNTeB4lY) | 3:12 | 2021-10-06 |  |
 | [Blood Moon](https://open.spotify.com/track/4NOSwJBGgNDpcuI3dc0zwp) | [Two Fingers](https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS), [Muadeep](https://open.spotify.com/artist/4qHnmeK70n1w0eCt7xWzOw) | [Blood Moon](https://open.spotify.com/album/7yLtrbUalAsZNeLRiv18sU) | 3:46 | 2022-03-28 |  |
 | [Blooming \(In C Minor\)](https://open.spotify.com/track/7ouFj4hwlNMt0IAUdb0ubG) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Blooming \(In C Minor\)](https://open.spotify.com/album/0JnzlYdAgJ4fpkNxizmuOu) | 4:00 | 2021-10-06 |  |
@@ -26,6 +26,7 @@
 | [Cartucho](https://open.spotify.com/track/66NQDt4mIWTiuweduWzV6V) | [Alpha S](https://open.spotify.com/artist/4aTY7KObUS4Dx9q5BvXSmA) | [Cartucho](https://open.spotify.com/album/506esaH3xFJaA80n0N6RH0) | 5:42 | 2021-10-06 |  |
 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 | 2021-10-06 |  |
 | [Cuerpo Que Flota](https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Desire Path](https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V) | 3:35 | 2022-04-09 |  |
+| [Curry Drinker \(Djemba Djemba Remix\) \(Remasterd\)](https://open.spotify.com/track/0UCZc715PkJ51P6nTIzDCt) | [Cola Splash](https://open.spotify.com/artist/0FTwFD2KbrUYFksYoVMELs), [Djemba Djemba](https://open.spotify.com/artist/4nBB1w8Yl5brdn4CGxqfMs) | [Curry Drinker \(Djemba Djemba Remix\) \(Remasterd\)](https://open.spotify.com/album/2Z17ck3QycVlKLYxJgoBAO) | 4:00 | 2022-05-27 |  |
 | [Dazzle Anew](https://open.spotify.com/track/2jgvOyKOFyHtW11hlqOkUB) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Cocoon Crush](https://open.spotify.com/album/2mMr1UCtck27p1xPJzqrLL) | 3:36 | 2021-10-06 |  |
 | [Deep Thoughts 002](https://open.spotify.com/track/62mS1P3KoKfuDEglyT7wuo) | [Giant Claw](https://open.spotify.com/artist/0sqfDFd4rYzLfEKpIvJTUc) | [Deep Thoughts](https://open.spotify.com/album/7rb8NLl9lWCXazllkLA4ap) | 3:00 | 2021-10-06 |  |
 | [Dencity](https://open.spotify.com/track/76IRaPhfYRF9xVZC3qTdR7) | [Trans\-4M](https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj) | [Sublunar Oracles](https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk) | 6:07 | 2021-10-06 |  |

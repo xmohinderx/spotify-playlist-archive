@@ -4,7 +4,7 @@
 
 > This is The Jones Girls\. The essential tracks, all in one playlist.
 
-49 songs - 3 hr 39 min - not published yet
+50 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/2s5owikyjfrw5etYCfTIut)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2 Win U Back](https://open.spotify.com/track/5MSBptBOsXevqa0YltKt5b) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 4:56 | 2022-05-25 |  |
 | [Ah, Ah, Ah, Ah](https://open.spotify.com/track/2NVBR55sc6DUEBXJdPErFK) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Keep It Comin'](https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ) | 4:36 | 2022-05-25 |  |
 | [All I Want](https://open.spotify.com/track/0mDzUWzBdFU2qiALsa2JpM) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:20 | 2022-05-25 |  |
+| [ASAP \(As Soon as Possible\)](https://open.spotify.com/track/3fU5oXtdBs8QqpBvMQDWQl) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:18 | 2022-05-27 |  |
 | [At Peace with Woman](https://open.spotify.com/track/1tPi18dFRENazurH44N1AT) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:31 | 2022-05-25 |  |
 | [Baby I'm Yours](https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 4:14 | 2022-05-25 |  |
 | [Better Things to Do](https://open.spotify.com/track/74PH2myT1Q271X9ygKce2I) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Keep It Comin'](https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ) | 4:12 | 2022-05-25 |  |
@@ -55,7 +56,7 @@
 | [You Gonna Make Me Love Somebody Else](https://open.spotify.com/track/7MRCd5tmZ2iURu4elcBsuH) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:30 | 2022-05-25 |  |
 | [You Made Me Love You](https://open.spotify.com/track/1WiuikoGy1EuUx5SfjSdVZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:52 | 2022-05-25 |  |
 | [You Threw Our Love Away](https://open.spotify.com/track/2VeJDRAffO2knNj1RuUYAI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:30 | 2022-05-25 |  |
-| [You're Breakin' My Heart](https://open.spotify.com/track/69Rl14x6RCcY855QRr6mDS) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:15 | 2022-05-26 |  |
+| [You're Breakin' My Heart](https://open.spotify.com/track/69Rl14x6RCcY855QRr6mDS) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:15 | 2022-05-26 | 2022-05-28 |
 | [You're Gonna Make Me Love Somedoy Else](https://open.spotify.com/track/5M4Ku2ZUn4qfFPaXcL3u1w) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Funk Anthology, Vol\. 2](https://open.spotify.com/album/7Hsayuuecr1xNreEMbGxPV) | 3:00 | 2022-05-25 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

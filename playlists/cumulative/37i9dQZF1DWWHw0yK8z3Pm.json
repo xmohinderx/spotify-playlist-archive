@@ -482,6 +482,24 @@
     },
     {
       "album": {
+        "name": "The Spaces In Between",
+        "url": "https://open.spotify.com/album/7m0pjaaLCwCqT7dnF6uTfi"
+      },
+      "artists": [
+        {
+          "name": "Amanda Rheaume",
+          "url": "https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213706,
+      "name": "Do About Her",
+      "url": "https://open.spotify.com/track/71ALgRSQ1neaZmRT2Ivj0P"
+    },
+    {
+      "album": {
         "name": "Come Morning",
         "url": "https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K"
       },
@@ -1891,7 +1909,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 158181,
       "name": "You\u2019re Betting on a Losing Horse",
       "url": "https://open.spotify.com/track/72KkKffDyvx4AS6JCd3iWA"

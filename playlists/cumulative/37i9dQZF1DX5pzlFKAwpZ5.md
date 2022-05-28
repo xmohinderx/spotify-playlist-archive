@@ -4,7 +4,7 @@
 
 > Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
-100 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
+102 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Gallery window](https://open.spotify.com/track/13vhl1xEGceDmaf1gTMVCM) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Gallery window](https://open.spotify.com/album/4Pa9k24dXX0WPtTidFKXPq) | 3:31 | 2022-01-07 |  |
 | [Grass Harp](https://open.spotify.com/track/5oy0BoXi4o83XaAkZ9lMrG) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/3VlSsznQDQhW1hIi8FrZXn) | 5:57 | 2022-01-07 |  |
 | [Her After Bath](https://open.spotify.com/track/65MUBBKx73ZZkDVTPaThnN) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Crossloads](https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9) | 3:10 | 2022-02-22 |  |
+| [Hicari](https://open.spotify.com/track/5LoCraezdIDtyxCRIQdNLi) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Hicari](https://open.spotify.com/album/5N5zlunO6d2GMuQuUsEYCR) | 1:54 | 2022-05-27 |  |
 | [Holy](https://open.spotify.com/track/4tM5iliYtWcS5jSZCHc6rB) | [Twon Lake](https://open.spotify.com/artist/0DWNbLXfqQRTAZz7SJhYuB) | [White Tape](https://open.spotify.com/album/0E6xFj4zYpjWDuIBSf23fe) | 3:55 | 2022-01-07 |  |
 | [hoshisayuru](https://open.spotify.com/track/40vwaUbcDvJKO0lLdl4aWC) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [above the northern skies shown](https://open.spotify.com/album/6ix0ytl7g6oX25BhW6omzW) | 5:55 | 2022-01-07 |  |
 | [Ike](https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:28 | 2022-01-07 |  |
@@ -50,6 +51,7 @@
 | [Jigyou](https://open.spotify.com/track/2gCpfY4G4JeRbpafYg727w) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Mu](https://open.spotify.com/album/0cArAePIURFrsTkGfAF2FO) | 3:02 | 2022-03-25 |  |
 | [Kaiketu](https://open.spotify.com/track/40QroEBlHB5yyQQZdOECdh) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Konomama](https://open.spotify.com/album/0Xp5gDINnEjsj92TPIcaMH) | 3:15 | 2022-02-22 |  |
 | [Kansai](https://open.spotify.com/track/1lRmIEvPzmp1z2MB1Y2jzB) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 3:38 | 2022-01-07 |  |
+| [Kokyo](https://open.spotify.com/track/4ZsDYS4F4ilZIsNwnpUrx1) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [My Story, The Buraku Story \(An Original Soundtrack\)](https://open.spotify.com/album/3xPYYJCZLvg3LpjK2xWVrP) | 2:31 | 2022-05-27 |  |
 | [Körper](https://open.spotify.com/track/22FN9G9qwPwABohAaYzcAg) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Raum](https://open.spotify.com/album/7EnDzySppi2dvBGEFFcmHu) | 5:55 | 2022-01-07 |  |
 | [La Cathédrale Engloutie](https://open.spotify.com/track/0GiSKGYCdQtGXDSCmSxuVb) | [sora](https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7) | [Re.sort](https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9) | 4:04 | 2022-01-07 |  |
 | [Lachrymation](https://open.spotify.com/track/5SCIlWl5oI8QmSgF9j5mjr) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Lachrymation](https://open.spotify.com/album/4av2tDxEG9t4rlssx6XJUT) | 3:59 | 2022-01-07 |  |

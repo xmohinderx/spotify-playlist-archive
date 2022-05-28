@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "A soundscape of chilled electronic and compositional ambient music, to help you unwind.",
   "name": "The Wind Down",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6sRs5ZXRX0XP3quUNYTpL5"
+  ],
   "tracks": [
     {
       "album": {
@@ -42,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Aloe",
+        "url": "https://open.spotify.com/album/5cFRYNZhC80kwt2LV6Jbph"
+      },
+      "artists": [
+        {
+          "name": "Fthmlss",
+          "url": "https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203270,
+      "name": "Adrift",
+      "url": "https://open.spotify.com/track/5yB7BgBbemoIBpfDSWtcBc"
+    },
+    {
+      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/5fenKxeOTwKoZEG6sZAAub"
       },
@@ -53,7 +73,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 190022,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/0fULKQl6s5xzZvxbRswkWG"
@@ -89,7 +109,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 275500,
       "name": "BH",
       "url": "https://open.spotify.com/track/3PhFcC1MNjYnjrWKgtk4HX"
@@ -107,7 +127,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 432941,
       "name": "Birds",
       "url": "https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk"
@@ -125,7 +145,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 185979,
       "name": "Blind Eye",
       "url": "https://open.spotify.com/track/2w0zUD1DqNNznSirUyOFlB"
@@ -251,7 +271,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 348000,
       "name": "Don't You Forget About Me",
       "url": "https://open.spotify.com/track/1Dl0E86yorhNRMYZ20RIfY"
@@ -393,6 +413,24 @@
       "duration_ms": 279360,
       "name": "Fires",
       "url": "https://open.spotify.com/track/4UBvcf6BZhHTNyizI9R1jf"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2q5JOJpEa00GfddyBJAPrz"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249968,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/579zXcYm2N9vvsltW2RDJP"
     },
     {
       "album": {
@@ -766,6 +804,24 @@
     },
     {
       "album": {
+        "name": "Graal (Prologue)",
+        "url": "https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332379,
+      "name": "Ry",
+      "url": "https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB"
+    },
+    {
+      "album": {
         "name": "Sacred",
         "url": "https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i"
       },
@@ -883,7 +939,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 255466,
       "name": "Tottertot",
       "url": "https://open.spotify.com/track/3TiZvtDtyzmTILrzViENjk"
@@ -919,7 +975,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 254864,
       "name": "Untethered",
       "url": "https://open.spotify.com/track/377mv3pv1Nday6pjadqEwr"

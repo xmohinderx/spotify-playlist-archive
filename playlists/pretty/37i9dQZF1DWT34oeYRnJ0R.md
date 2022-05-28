@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Girl Ultra
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,472 likes - 90 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,477 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 89 | [Anymore \(feat\. Lucky Daye\)](https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 3:16 |
 | 90 | [cold feet](https://open.spotify.com/track/16Q5CS1hO8nTybYOj4ibsP) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN), [ELLIE](https://open.spotify.com/artist/0niZWQWN4icezT9adyLj4w) | [cold feet](https://open.spotify.com/album/4vx4AhMfe8CoH4jdzxorCw) | 2:59 |
 
-Snapshot ID: `MTY1MzYxMzEyNSwwMDAwMDAwMDk2ODJhNjdlOGE0ODQ4NTQzMDRmNzU4M2MzOTEzM2Fk`
+Snapshot ID: `MTY1MzY5OTQ5OSwwMDAwMDAwMDk2ODJhNjdlOGE0ODQ4NTQzMDRmNzU4M2MzOTEzM2Fk`

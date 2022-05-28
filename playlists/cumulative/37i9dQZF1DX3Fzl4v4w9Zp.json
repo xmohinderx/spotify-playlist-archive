@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Tr\u00e9 Burt",
+  "description": "Keep your finger on the pulse of Americana. Cover: Amanda Shires",
   "name": "The Pulse of Americana",
   "published_playlist_ids": [
     "1H5Sok0MEuwSOB35Thab6M"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 235773,
       "name": "Dance Floor",
       "url": "https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8"
@@ -1638,6 +1638,24 @@
     },
     {
       "album": {
+        "name": "Hawk For The Dove",
+        "url": "https://open.spotify.com/album/7f1VQAcjCcX2DHEzt6WjJ0"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227465,
+      "name": "Hawk For The Dove",
+      "url": "https://open.spotify.com/track/0YJeobNNtb6ZBtpk2QwA7B"
+    },
+    {
+      "album": {
         "name": "Heading South",
         "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
       },
@@ -1809,7 +1827,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 259946,
       "name": "Hooray Hooray",
       "url": "https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu"
@@ -2031,7 +2049,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 173946,
       "name": "In Memory (Of When I Cared)",
       "url": "https://open.spotify.com/track/6ckJkoKEqCJi0jmtEVuvGc"
@@ -2179,7 +2197,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 260407,
       "name": "KD and Lunch Meat",
       "url": "https://open.spotify.com/track/6e9MVekzR3Gku26kBwGezo"
@@ -2813,6 +2831,28 @@
       "duration_ms": 237480,
       "name": "Orphan Child",
       "url": "https://open.spotify.com/track/6aK8AIxvkuiYE1sHdxrYcb"
+    },
+    {
+      "album": {
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/75nchWQhiPgAjVdXsNLOaY"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253973,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/19kDyB6HprmUSzBvPbpkTl"
     },
     {
       "album": {
@@ -4144,6 +4184,24 @@
     },
     {
       "album": {
+        "name": "Tax Code 1: Telepathy of a Mammoth",
+        "url": "https://open.spotify.com/album/4ZYeCQonqxWYWGqjmyqRwc"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250992,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/66c2mzrZst8gyTRibuwL9O"
+    },
+    {
+      "album": {
         "name": "This Town (feat. Shakey Graves)",
         "url": "https://open.spotify.com/album/0BltgOKIwXpxKJpYjcdHNU"
       },
@@ -4467,6 +4525,24 @@
       "duration_ms": 216840,
       "name": "What the Hell is Wrong with Me",
       "url": "https://open.spotify.com/track/4SibnJlx4xmVjqzApMHib2"
+    },
+    {
+      "album": {
+        "name": "JERRY JEFF",
+        "url": "https://open.spotify.com/album/6UpH0BD46arNlmmefz6Tlu"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268032,
+      "name": "Wheel",
+      "url": "https://open.spotify.com/track/6UXxzA4wX5qjteuBzMXrj6"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Porridge Radio
+> Underground indie rock gems\. Cover: boyish
 
-469 songs - 1 day 2 hr 40 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+475 songs - 1 day 3 hr 1 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Big Deal](https://open.spotify.com/track/6VoTmWBrfQmxhiLa7mOn46) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Big Deal](https://open.spotify.com/album/65i206bnePOdrNTfc2kw1g) | 4:18 | 2021-05-14 | 2022-04-19 |
 | [Big Wheel](https://open.spotify.com/track/5TxwBIN4MTTWLvW3Tl5ttE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Big Wheel](https://open.spotify.com/album/4gYJZjcBe0hbXNCfkiHgeD) | 3:15 | 2021-03-05 | 2022-04-29 |
 | [Billy](https://open.spotify.com/track/3JOa0D7guR3vTzRAWVV0Cy) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Billy](https://open.spotify.com/album/17d1NM1uI3Bg9fhijXz7jZ) | 3:48 | 2022-03-04 | 2022-05-20 |
+| [Blessing](https://open.spotify.com/track/14ZagAXGWz5Ycpm0AsZQYZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Blessing](https://open.spotify.com/album/7Aqk8isy5td8NUUmXF3Z3d) | 3:05 | 2022-05-27 |  |
 | [Blindsided](https://open.spotify.com/track/5vOxTLpeCeU1T14kiz6xxI) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Blindsided](https://open.spotify.com/album/0z6NyTSvoEe9gpaFUtY3b6) | 3:42 | 2021-10-02 | 2022-04-29 |
 | [Blocked](https://open.spotify.com/track/6jOE4zzFlCUb0zFmxLzNH2) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Blocked](https://open.spotify.com/album/23MqUFP7C2H1cY1WWKVfBw) | 2:38 | 2021-03-05 | 2022-04-17 |
 | [Blondie](https://open.spotify.com/track/7sIx70dGj3VBiHWr0KZXfD) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 3:14 | 2022-04-29 | 2022-05-02 |
@@ -93,6 +94,7 @@
 | [City Kitty](https://open.spotify.com/track/7hyXvklwSf9ceS0EpV6ial) | [French Cassettes](https://open.spotify.com/artist/0VcpOwnjkQaqDeEiVa9cu5) | [Rolodex](https://open.spotify.com/album/6ctghBlqfCckLPzhRqrdTS) | 3:36 | 2021-04-12 | 2022-03-10 |
 | [Claudion](https://open.spotify.com/track/5thGGhLkRO7o0Z09QNK6A7) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Altogether Unaccompanied, Vol\. IV](https://open.spotify.com/album/0nfUG6Ws597JKJPQbk41q5) | 4:27 | 2021-03-05 | 2022-04-20 |
 | [Claw Your Way Out](https://open.spotify.com/track/3HjohYDsYZg2KLhYjto8Hq) | [Pluralone](https://open.spotify.com/artist/5jQsMNuCW0iZeFTz6YUK8K) | [Claw Your Way Out](https://open.spotify.com/album/6ZXoRg5L8XMA7M3HC2QOpl) | 3:03 | 2022-03-26 | 2022-04-21 |
+| [Clear](https://open.spotify.com/track/12eZXTxOcrp9LAGxcgUMqB) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 3:03 | 2022-05-27 |  |
 | [coastline](https://open.spotify.com/track/06J6MvuHOCOI5HerZaKKy2) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [coastline](https://open.spotify.com/album/6AFPlvXucMhq5urJ1BTTuy) | 2:38 | 2022-04-29 | 2022-04-30 |
 | [Color of the Pool](https://open.spotify.com/track/487No2iHijl2TqOM6OBC3U) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Color of the Pool](https://open.spotify.com/album/6BnLKRLuEEeTwZwfVk1Eo3) | 2:22 | 2021-08-13 | 2022-03-27 |
 | [COMATOSE](https://open.spotify.com/track/0WPWiuKkA0nA0uSpzB61CJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [COMATOSE](https://open.spotify.com/album/7bwRaPmS8a1owPXZcwPD2K) | 3:28 | 2022-03-07 | 2022-04-18 |
@@ -161,7 +163,9 @@
 | [Fiction](https://open.spotify.com/track/4aUjQItsB04t5an7cVq1Fs) | [Calm Canopy](https://open.spotify.com/artist/447h1Ae7Mshk1gSW4rcjK3) | [Fiction](https://open.spotify.com/album/3UwAX9we1CsibtClGkimq7) | 3:20 | 2021-03-05 | 2022-01-02 |
 | [Floor](https://open.spotify.com/track/5wLJgeMHIpJSc9qmPUDZyS) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/6GfhbITp0mFMnuGVqzHxlJ) | 4:33 | 2021-03-05 | 2022-04-29 |
 | [Flying](https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 3:46 | 2021-03-05 |  |
+| [Frances Farmer Will Have Her Revenge On Seattle](https://open.spotify.com/track/32hjH8euySL8IqHEoHeHJE) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Frances Farmer Will Have Her Revenge On Seattle](https://open.spotify.com/album/0OWsfBKizOkgEcaa65b6z2) | 4:20 | 2022-05-27 |  |
 | [Freeway](https://open.spotify.com/track/3WT2eFkXiP6chQOaIhSik0) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freeway](https://open.spotify.com/album/5aD4x75wLsri0QKKBKHrKe) | 4:11 | 2021-03-05 | 2022-04-28 |
+| [Freight Yard](https://open.spotify.com/track/4l7VPmnud43dlONU9P1qhO) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Freight Yard](https://open.spotify.com/album/6M6NRC6YX7imXi2LdqSQAP) | 2:27 | 2022-05-27 |  |
 | [Friend](https://open.spotify.com/track/7HXwmIISEI1CXfOxOQxNoT) | [Valley Palace](https://open.spotify.com/artist/3jF2ypAAgPGDrMya2J4sHM) | [Friend](https://open.spotify.com/album/0pyWpmLw8VokeiFWGRKdXW) | 3:17 | 2021-07-16 | 2022-03-22 |
 | [fuck sex](https://open.spotify.com/track/2aBd3rkEzBc35myxSkEzQS) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [fuck sex](https://open.spotify.com/album/1WziZgKNvFgY3nkQVcvosw) | 3:19 | 2022-01-28 |  |
 | [Fugazi](https://open.spotify.com/track/6iLpuiKY29qbQbRVJ4jb8O) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Fugazi](https://open.spotify.com/album/2HGQJZb8cMX6GlLCdNuciB) | 4:26 | 2022-01-28 | 2022-03-17 |
@@ -267,6 +271,7 @@
 | [Ladybird](https://open.spotify.com/track/4GV1kncKBl0pogThe5TQOA) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Ladybird](https://open.spotify.com/album/0octvifCjPh0TfKySJ8UXs) | 4:05 | 2021-10-29 | 2022-04-29 |
 | [last minute cycle](https://open.spotify.com/track/3rG0jYwXZ66Mz7sp0SB9fz) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [last minute cycle](https://open.spotify.com/album/377wkeA1wwdQSapEBYaTar) | 2:59 | 2021-12-10 | 2022-04-23 |
 | [Laurelhurst](https://open.spotify.com/track/16gvCSeJMZRtdt89BIqiNg) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Protect Our Winters](https://open.spotify.com/album/5xJLwTxrpzWtnocHOXbbF4) | 3:09 | 2021-03-26 | 2022-04-29 |
+| [Legs](https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [My Friend Mica](https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8) | 2:53 | 2022-05-27 |  |
 | [Lemonade](https://open.spotify.com/track/5NsvTj8pKHyVIN3bDrqhzQ) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Lemonade](https://open.spotify.com/album/3LFsMSUi7VmmXpwR4BZMfV) | 2:44 | 2021-03-05 | 2022-04-20 |
 | [Let it Burn](https://open.spotify.com/track/2nRmpHE26QmGZCUm7Yn7KL) | [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Let it Burn](https://open.spotify.com/album/2fGf0Kj4hMlagcD0rJDxO4) | 2:58 | 2022-03-26 | 2022-04-14 |
 | [Let Me Save You](https://open.spotify.com/track/3zjPyZkTYg2fd53yNoI1FA) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Let Me Save You](https://open.spotify.com/album/5EnyvzAwaulMGJqMe9DFSi) | 3:38 | 2021-09-17 | 2022-04-19 |
@@ -389,7 +394,7 @@
 | [Stoned](https://open.spotify.com/track/5vQuFhG3mSU8mdXV8W8iWE) | [Ben Chandler](https://open.spotify.com/artist/5spCYJNfwMEdTpMrir8dJF) | [Stoned](https://open.spotify.com/album/4w2fTrQ1OgaKChbPHYERFw) | 3:19 | 2021-03-05 | 2022-04-21 |
 | [Storm in Summer](https://open.spotify.com/track/01wiNf866foVe76Q6LFqU7) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Storm in Summer](https://open.spotify.com/album/7loAmhY1aqyfhLyUqm629W) | 4:20 | 2021-06-02 | 2022-04-29 |
 | [Strange Overtones](https://open.spotify.com/track/2YtMGbb7bAEPbxgQ6au4EP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Strange Overtones](https://open.spotify.com/album/1QcsAQ69J8rw1UuvSMW2pj) | 3:26 | 2021-03-05 | 2022-04-29 |
-| [Strawberry Creek \- Dirty Feet](https://open.spotify.com/track/7nqXz3i9I40S8oTKrndpYP) | [Stöner](https://open.spotify.com/artist/2mkGbwg4uYaUlmQDZpga27) | [Strawberry Creek \(Dirty Feet\)](https://open.spotify.com/album/3yomb5X9mTPPSpq9uvTYY9) | 3:46 | 2022-04-15 |  |
+| [Strawberry Creek \- Dirty Feet](https://open.spotify.com/track/7nqXz3i9I40S8oTKrndpYP) | [Stöner](https://open.spotify.com/artist/2mkGbwg4uYaUlmQDZpga27) | [Strawberry Creek \(Dirty Feet\)](https://open.spotify.com/album/3yomb5X9mTPPSpq9uvTYY9) | 3:46 | 2022-04-15 | 2022-05-28 |
 | [Street Fight](https://open.spotify.com/track/7wDrCnNA7DL3P7M50JCEoZ) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Street Fight](https://open.spotify.com/album/5REnX5KPkNK0WGcJn6BHyI) | 4:19 | 2021-08-27 | 2022-04-20 |
 | [Stress Relief](https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Am I sinking or Am I swimming?](https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV) | 3:25 | 2022-04-29 |  |
 | [Strokes](https://open.spotify.com/track/6u3sTOr6NtcXIvf2SBWgFy) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [Buds](https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M) | 2:11 | 2022-04-29 |  |
@@ -477,5 +482,6 @@
 | [you were right](https://open.spotify.com/track/1z3y0dcgWonv5eZJmkN05r) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY), [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [you were right](https://open.spotify.com/album/5caVRn6usqYh4h54eDSONn) | 2:49 | 2022-04-29 |  |
 | [Your Best Friend](https://open.spotify.com/track/4MQLMRjKFmNsz646FyAZ2k) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Your Best Friend](https://open.spotify.com/album/1dXDp9G7LPACrw2H3tOtxA) | 3:02 | 2021-06-02 | 2022-04-20 |
 | [your love is a disaster](https://open.spotify.com/track/5JTTV0DgmgNgtbl3y3q6g1) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet EP](https://open.spotify.com/album/44cz2epLj8bFlDHPxU16rY) | 3:33 | 2022-01-28 | 2022-04-29 |
+| [yrstruly \- CFCF Scream Mix](https://open.spotify.com/track/6br2IoQARHVcYM4TsYMU0f) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4), [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Enemy Remixed](https://open.spotify.com/album/1lZYJDlOuXYsddD8OsGTOc) | 5:11 | 2022-05-27 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

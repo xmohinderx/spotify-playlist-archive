@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
   "name": "Blues on the Rocks",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4DGKdeIKwUTAqn1tb8TpDI"
+  ],
   "tracks": [
     {
       "album": {
@@ -245,7 +247,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 210040,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT"
@@ -369,7 +371,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 167360,
       "name": "I'm In The Mood",
       "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
@@ -405,7 +407,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 238533,
       "name": "I'm Your Hoochie Coochie Man",
       "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
@@ -445,6 +447,24 @@
       "duration_ms": 419600,
       "name": "J.C's. Blues",
       "url": "https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1"
+    },
+    {
+      "album": {
+        "name": "Jake's Blues",
+        "url": "https://open.spotify.com/album/01M40NXXc0i5mu2Ybm7T7I"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Red Latham",
+          "url": "https://open.spotify.com/artist/5kmoCRQWzALw8CyRfCfz0U"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236026,
+      "name": "Jake's Blues",
+      "url": "https://open.spotify.com/track/2X2Jk7H5EG8VY91a7Jh0OI"
     },
     {
       "album": {
@@ -531,7 +551,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 420386,
       "name": "Need Her So Bad",
       "url": "https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW"
@@ -643,7 +663,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 190185,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/0Ex94hahnMHF9f2c1sXh5o"
@@ -871,7 +891,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 530640,
       "name": "The Celebrated Walkin' Blues",
       "url": "https://open.spotify.com/track/1R5mc9pkvt3ZZ7r8nnnVVR"
@@ -1009,7 +1029,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 316666,
       "name": "You Don't Want Me",
       "url": "https://open.spotify.com/track/1bMCiGzKRJwmYkxtSBsTSM"

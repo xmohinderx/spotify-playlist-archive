@@ -1,31 +1,15 @@
 {
   "description": "For the Hard Rock and full volume lovers. Cover: Ghost",
-  "num_followers": 255372,
+  "num_followers": 255492,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAzMDUzOSwwMDAwMDFhYTAwMDAwMTgwZTA0YzRmMTIwMDAwMDE4MDk4MzJiMTky",
+  "snapshot_id": "MTY1MzYzOTc4OCwwMDAwMDFhYjAwMDAwMTgxMDQ5Y2I4YmUwMDAwMDE4MDk4MzJiMTky",
   "tracks": [
     {
-      "added_at": "2022-05-20 07:08:59",
-      "album": {
-        "name": "The Gang's All Here",
-        "url": "https://open.spotify.com/album/6vLJmmaxCG3wGckRBKc8H7"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 218242,
-      "name": "The Gang's All Here",
-      "url": "https://open.spotify.com/track/1k2wpoh1lyf4lNBUFtdLNK"
-    },
-    {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Classless Act (feat. Vince Neil of M\u00f6tley Cr\u00fce)",
         "url": "https://open.spotify.com/album/2TGWTcdEm3PydLgMmxBawv"
@@ -45,7 +29,39 @@
       "url": "https://open.spotify.com/track/05liOVVybQw3UyyrEOAcSw"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
+      "album": {
+        "name": "The Gang's All Here",
+        "url": "https://open.spotify.com/album/6vLJmmaxCG3wGckRBKc8H7"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 218242,
+      "name": "The Gang's All Here",
+      "url": "https://open.spotify.com/track/1k2wpoh1lyf4lNBUFtdLNK"
+    },
+    {
+      "added_at": "2022-05-27 08:23:08",
+      "album": {
+        "name": "Radiance",
+        "url": "https://open.spotify.com/album/11IUeusP2f7zjGlKAOBJYB"
+      },
+      "artists": [
+        {
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+        }
+      ],
+      "duration_ms": 243336,
+      "name": "Radiance",
+      "url": "https://open.spotify.com/track/7tYTL5VTShsYu8cQRnilSK"
+    },
+    {
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Ready for a Good Time",
         "url": "https://open.spotify.com/album/0CmMi5CVhUusvcNCd7HcN0"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/5rX16XklyqZnUBM9fF59qc"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "IMPERA",
         "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/4xgtygravIkm1QT6nEjFXY"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/1PKSFV1n7pa3OgCGiUugLb"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "You Got The Best Of Me",
         "url": "https://open.spotify.com/album/4IZ1clgmbfd5Vh3MwKZ0nt"
@@ -109,23 +125,23 @@
       "url": "https://open.spotify.com/track/6knSCaCg0rVEw7jnvM4x19"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
-        "name": "The Language Of My Heart (France Bonus Track)",
-        "url": "https://open.spotify.com/album/0Kmho2vdfbGmfJyyUesNoW"
+        "name": "Universal",
+        "url": "https://open.spotify.com/album/03iscjjvHoP6JWfTjUoPAj"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "Michael Schenker Group",
+          "url": "https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi"
         }
       ],
-      "duration_ms": 233884,
-      "name": "The Language Of My Heart",
-      "url": "https://open.spotify.com/track/4anwYZI6i9l5xi8caRrbo3"
+      "duration_ms": 277014,
+      "name": "Under Attack",
+      "url": "https://open.spotify.com/track/1DnGvoDr1k8BNiMKBPoH2d"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/0x9NVwmHIApAPGvIzC5mNo"
@@ -145,23 +161,7 @@
       "url": "https://open.spotify.com/track/6mCBk4OB2JXszZe9ATsZ0H"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
-      "album": {
-        "name": "See Where The Night Goes",
-        "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
-      },
-      "artists": [
-        {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
-        }
-      ],
-      "duration_ms": 227753,
-      "name": "Three Chords",
-      "url": "https://open.spotify.com/track/5UZS4MsPlUYmdPTh7wQVSD"
-    },
-    {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "I Don't Know You",
         "url": "https://open.spotify.com/album/7wmnhGuLl0P3hl9jEwFn6O"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/7ay7vDG9NyF2NTrH15jpPZ"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "The Saints Of Violence And Innuendo",
         "url": "https://open.spotify.com/album/3WgIObFq2Z0z5ulE29sCw4"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/3qdTM1rNjRUvmbuF4d82Mv"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Surviving the Law",
         "url": "https://open.spotify.com/album/3Z5yXM2AoHoIUMqNXtZjYI"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/4gNzAlHWjr73HycnkCcGSs"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Get Off",
         "url": "https://open.spotify.com/album/1xxA0JiTUidQe7dMfIh7Wp"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/5iHpCkeNVzVo2nNVF7jqhJ"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Fire It Up",
         "url": "https://open.spotify.com/album/5BDAPbqXoXGOy8lwur9SxF"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/2NtTPFydPxZnZ3p6wlkYdq"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "EAT IT UP SPIT IT OUT",
         "url": "https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/5Hv8s5ts2YW4oYF6hTKKB3"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Lost In Doubt",
         "url": "https://open.spotify.com/album/4MTpanFO4qaYv9OMltyt4e"
@@ -273,39 +273,7 @@
       "url": "https://open.spotify.com/track/0VUnK5QjwA7t5r5B15S0K7"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
-      "album": {
-        "name": "A King Has Gone",
-        "url": "https://open.spotify.com/album/2hfvFV1cayX5ditLOxlhDo"
-      },
-      "artists": [
-        {
-          "name": "Michael Schenker Group",
-          "url": "https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi"
-        },
-        {
-          "name": "Bob Daisley",
-          "url": "https://open.spotify.com/artist/67vieFbFOOhGMEz0OLznOO"
-        },
-        {
-          "name": "Bobby Rondinelli",
-          "url": "https://open.spotify.com/artist/3H2AYJg4F5mCMz9ak4FOEq"
-        },
-        {
-          "name": "Michael Kiske",
-          "url": "https://open.spotify.com/artist/0gCtlB8zAb5lkus3e4X1ET"
-        },
-        {
-          "name": "Tony Carey",
-          "url": "https://open.spotify.com/artist/4urvwbid7NFoVes5PTx9lV"
-        }
-      ],
-      "duration_ms": 293908,
-      "name": "A King Has Gone (feat. Michael Kiske, Bobby Rondinelli, Bob Daisley & Tony Carey)",
-      "url": "https://open.spotify.com/track/4hJY176L0CKPXcXkaGoQYY"
-    },
-    {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Deliver Me",
         "url": "https://open.spotify.com/album/4J5ybYI29YiDIeDpwbvTBN"
@@ -321,7 +289,7 @@
       "url": "https://open.spotify.com/track/4Xb2pl8kkMOqjiFRUZ4hKo"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Sweet Dreams of Otherness",
         "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
@@ -337,7 +305,7 @@
       "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "I Still Burn",
         "url": "https://open.spotify.com/album/1MqZ1iRl7YTR0L0jnUKVYv"
@@ -353,7 +321,7 @@
       "url": "https://open.spotify.com/track/6bdxrVGUlcUSfj2V04ldI8"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Sail On",
         "url": "https://open.spotify.com/album/1Gwl7LBODkfUIa2o1W2raJ"
@@ -369,7 +337,7 @@
       "url": "https://open.spotify.com/track/53k2Iwe5XyYA2W0GhTy8OS"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "See Through Blue",
         "url": "https://open.spotify.com/album/5Y17LH7yvP9uXq5zAvECNg"
@@ -385,7 +353,23 @@
       "url": "https://open.spotify.com/track/7BeifY1gMTeIx8uqKR6D1Y"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
+      "album": {
+        "name": "Disconnect from the Matrix",
+        "url": "https://open.spotify.com/album/16WsVVurX2OsZGRLhvcAtM"
+      },
+      "artists": [
+        {
+          "name": "Shiraz Lane",
+          "url": "https://open.spotify.com/artist/0TTu3zbvW4iFfls1GDbyGk"
+        }
+      ],
+      "duration_ms": 276828,
+      "name": "Disconnect from the Matrix",
+      "url": "https://open.spotify.com/track/5n88rjkUNyv2mokNkDeOqa"
+    },
+    {
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Electric Love",
         "url": "https://open.spotify.com/album/1b6dTOicwjotpOetvQUdBK"
@@ -401,7 +385,23 @@
       "url": "https://open.spotify.com/track/0LdZZnaoti9ueYWlyHqQRf"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
+      "album": {
+        "name": "The Language Of My Heart (France Bonus Track)",
+        "url": "https://open.spotify.com/album/0Kmho2vdfbGmfJyyUesNoW"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 233884,
+      "name": "The Language Of My Heart",
+      "url": "https://open.spotify.com/track/4anwYZI6i9l5xi8caRrbo3"
+    },
+    {
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "The Mirror",
         "url": "https://open.spotify.com/album/4ZOFbKKsHN3Cg3KlqIsmL1"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/55HSUChS7hn7JEpeuFQogj"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Strike Like a Cobra",
         "url": "https://open.spotify.com/album/54f7T8NezACrIPKwkR5dMS"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/7wupm1ynQeNJVyey1g8FFE"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Abrakadabra (Japan Edition)",
         "url": "https://open.spotify.com/album/74iLS86gsiZWszg5F62wxN"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/2htPaFATsHA9oCTbpGHx9r"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Loveletting (7\" Cut)",
         "url": "https://open.spotify.com/album/2zhssj1XVMVEpStvHov6sU"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/0bJPjlcegkXGSnijanvwVD"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Signed in Blood",
         "url": "https://open.spotify.com/album/3fJNyNo6wi4GhrMprumW66"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/4oPUKqsYlQbuKAEjsuZCcq"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Black Sheep",
         "url": "https://open.spotify.com/album/2ulQy55tAU204XtJqddoTU"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/1IXHEW37OZl7EBajKupTg0"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Into The Midnight Sun",
         "url": "https://open.spotify.com/album/4tV6FOGhLdQHSospIkbDfc"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/4aGwqnQRU1nQuDuqGkNnoR"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "If Tomorrow Never Comes (Feat. Spencer Charnas of Ice Nine Kills)",
         "url": "https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Back to the Rhythm",
         "url": "https://open.spotify.com/album/6JsuY2qnJQd0QPRiCar8K0"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/6AhyAj8E1JyYcY3VR3K7M2"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "The Life and Times of Eddie Gage",
         "url": "https://open.spotify.com/album/2RLldxodOye1CnvIGxEzGh"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/6ayIpjL4MRM2xqlu81cW9q"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Can't Stop Falling Apart",
         "url": "https://open.spotify.com/album/70mOeSCsv2XRwPHKAJKgtO"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/0m0bclACA3EBxFzC5e0JVQ"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Brown Eyed Son",
         "url": "https://open.spotify.com/album/62EZbw2VPVeL13WMTRBllf"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/0qENavjo41kOKOnuSy9laJ"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Eyes Of Oblivion",
         "url": "https://open.spotify.com/album/1VHGCKri6PWtI5kijzvkTr"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/0IFdMq2MhXGEAdjzfpaMVu"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Right There, Just Like That",
         "url": "https://open.spotify.com/album/6K8ls5wvPJRnhVgm131HX2"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/6sxdlON2OhydFd8j2OIYeA"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Tohu Bohu",
         "url": "https://open.spotify.com/album/1PdrIj7vAwYaoqT6D2QoAT"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/7DB9ke3uWGxz0ecs1pzhoD"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "The Endgame",
         "url": "https://open.spotify.com/album/4fULKw61VhX824FdYOkvAM"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/5fiNrnaoV0mZBThQ9dVfpT"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Save Me from Myself",
         "url": "https://open.spotify.com/album/6pDwGlXF2GPESFDaeeA7Iu"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/72JETKVAqfC7yX09OvfYOm"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Torpedo",
         "url": "https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/0MjcjSg3l138CERciX7Zry"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/1laYwMskzwRiLgH7FDDwXB"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/2d5nvTEPNgLzvdhBrcc8FA"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Better Times",
         "url": "https://open.spotify.com/album/1hqqXpnC9Ru7aTuA5LppJ2"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/2UD14Vo4iLXGRNWLlkVHXs"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Turn Up That Dial",
         "url": "https://open.spotify.com/album/7a6NzWEOQMUJZcPXyWMmDo"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/1sn8hpbQWGsPCxGrR8N95t"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Death Valley Paradise",
         "url": "https://open.spotify.com/album/64YWR8ekaKvFbFc3cSzkbe"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/0qJcOGhe63Qw0RCM02GM3r"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Generation Mind",
         "url": "https://open.spotify.com/album/6UGcYx1XfJH0oUikg4ytrq"
@@ -793,23 +793,7 @@
       "url": "https://open.spotify.com/track/136RZz52ah69tPa3k7HLT3"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
-      "album": {
-        "name": "Sunrise over Sunset",
-        "url": "https://open.spotify.com/album/1rvbebiKZ0YZDvFclFq44C"
-      },
-      "artists": [
-        {
-          "name": "The Cruel Intentions",
-          "url": "https://open.spotify.com/artist/3RKn3P56kkewba1s6QpyDk"
-        }
-      ],
-      "duration_ms": 196960,
-      "name": "Sunrise over Sunset",
-      "url": "https://open.spotify.com/track/0aFu9FqEgGY8t91YmhxfBm"
-    },
-    {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "The Therapy Sessions",
         "url": "https://open.spotify.com/album/4Ree7F8kKBluzkGcKcFo0P"
@@ -825,7 +809,7 @@
       "url": "https://open.spotify.com/track/5Xch2bmKG4TBYuKPWIMpMt"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "Below (Deluxe)",
         "url": "https://open.spotify.com/album/4vgHXHbrOmKsNBb4icJJ6G"
@@ -841,7 +825,7 @@
       "url": "https://open.spotify.com/track/2KEbK50PjCZKdbaycJkYy1"
     },
     {
-      "added_at": "2022-05-20 07:08:59",
+      "added_at": "2022-05-27 08:23:08",
       "album": {
         "name": "God is Partying",
         "url": "https://open.spotify.com/album/7cTCyWY5cYeIi2jEC3udFu"

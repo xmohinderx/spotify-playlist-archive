@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 200120,
       "name": "Act Yr Age",
       "url": "https://open.spotify.com/track/0pBVEfjoWDErPWlboJbRdR"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 227746,
       "name": "Been Waiting",
       "url": "https://open.spotify.com/track/0bVErWwMwsPgf3PufQA80g"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 207106,
       "name": "Black Box",
       "url": "https://open.spotify.com/track/0fKm7WjvsRW5H0W1sO42qx"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 239945,
       "name": "Boys of Summer",
       "url": "https://open.spotify.com/track/283ljdju5yqvGSmvmgdYC9"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 237000,
       "name": "Breakaway",
       "url": "https://open.spotify.com/track/4PFAm88FBkY7IFtvCaGctZ"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 205733,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/04aQmJ2Bvd7gb65Af9ZNzC"
@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 238266,
       "name": "Love at First Sight",
       "url": "https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX"
@@ -1435,7 +1435,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 231466,
       "name": "No Such Thing",
       "url": "https://open.spotify.com/track/6Vecwo7AHst9V2CE3kmwr0"
@@ -1525,7 +1525,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 218093,
       "name": "Push The Button",
       "url": "https://open.spotify.com/track/3EDS89HeAhHiZKlljciK0a"
@@ -1604,6 +1604,24 @@
     },
     {
       "album": {
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249426,
+      "name": "Save Me, San Francisco",
+      "url": "https://open.spotify.com/track/7gA5OQWsvAY7HhazroFuwI"
+    },
+    {
+      "album": {
         "name": "The Sound Of White",
         "url": "https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ"
       },
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 179946,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe"
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 213986,
       "name": "Shine",
       "url": "https://open.spotify.com/track/672uPLDAVUmeCOh0UD128y"
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 207786,
       "name": "Spinning Around",
       "url": "https://open.spotify.com/track/2G9ys1ZXI98XAn7SMzPt9q"
@@ -1957,7 +1975,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 229333,
       "name": "Sunsets",
       "url": "https://open.spotify.com/track/5txqlF1lxNhkWy1xYOwr8r"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 206200,
       "name": "This Love",
       "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 269200,
       "name": "UFO",
       "url": "https://open.spotify.com/track/0gsLWzySRe81KoY4LENNY4"
@@ -2123,7 +2141,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 254360,
       "name": "Untouched",
       "url": "https://open.spotify.com/track/4WkOdYTTcPa7WefKMK1iYL"

@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Alfie Templeman
 
-346 songs - 20 hr 34 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+347 songs - 20 hr 36 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 | 2022-04-27 |  |
 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 | 2022-02-17 | 2022-04-01 |
 | [The Fallen \- 7"](https://open.spotify.com/track/1b2h2zubqExJM8nsnAtXg3) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hits To The Head](https://open.spotify.com/album/1NKpK2wzsNlIf59OvO2RVb) | 2:57 | 2022-03-10 | 2022-04-08 |
+| [The First Day \- Acoustic](https://open.spotify.com/track/3vkTXmQIOv89wEVbh61ctO) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Fever Dreams \(Deluxe Edition\)](https://open.spotify.com/album/3lcXFR0B0R5dFUNfe13siW) | 2:13 | 2022-05-26 |  |
 | [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2021-12-16 | 2021-12-31 |
 | [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-02-24 | 2022-04-01 |
 | [The One Who Wins](https://open.spotify.com/track/6PNBcD4FpmSnoBhcM10uwv) | [Thomas Glaop](https://open.spotify.com/artist/2MITGoVOpjWT1dLM9xAfdG) | [The One Who Wins](https://open.spotify.com/album/109Suo0HQEOaKF7nvXfL8Z) | 3:38 | 2021-12-23 | 2022-01-14 |

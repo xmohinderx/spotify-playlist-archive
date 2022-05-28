@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Bryan & Katie Torwalt",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  ICF Worship",
   "name": "WorshipNow",
   "published_playlist_ids": [
     "12yoI78Chtrh071OwGd6QO"
@@ -149,6 +149,24 @@
       "duration_ms": 278036,
       "name": "At The Cross - Acoustic",
       "url": "https://open.spotify.com/track/45N0c8UKowVhDEuR54nRaT"
+    },
+    {
+      "album": {
+        "name": "Awestruck",
+        "url": "https://open.spotify.com/album/2ErJp07SbdzPYxZHxGnXAc"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292844,
+      "name": "Awestruck",
+      "url": "https://open.spotify.com/track/4LN9bGelrxuvmAkEegYq9P"
     },
     {
       "album": {
@@ -1198,6 +1216,32 @@
     },
     {
       "album": {
+        "name": "I Belong To Jesus (Studio Version)",
+        "url": "https://open.spotify.com/album/1fVKQ3Cm2hr8uREfBDlJpg"
+      },
+      "artists": [
+        {
+          "name": "The McClures",
+          "url": "https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255021,
+      "name": "I Belong To Jesus - Studio Version",
+      "url": "https://open.spotify.com/track/1x9OaN0jg6lCw1aBH7Xtcg"
+    },
+    {
+      "album": {
         "name": "The Land I'm Livin' In \u2014 DAYS ONE & TWO (Live)",
         "url": "https://open.spotify.com/album/1FCMSIezjlr6atX3v8COvi"
       },
@@ -1366,6 +1410,28 @@
     },
     {
       "album": {
+        "name": "In Jesus Name (God of Possible) [Live]",
+        "url": "https://open.spotify.com/album/36UpsxvsA4iizloxTcYbE8"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        },
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256478,
+      "name": "In Jesus Name (God of Possible) - Live",
+      "url": "https://open.spotify.com/track/5eBNg5nAy9fw3dq9UO389L"
+    },
+    {
+      "album": {
         "name": "In Peace or Pieces",
         "url": "https://open.spotify.com/album/49tCDS1eWFTvagaJUU2bbK"
       },
@@ -1475,7 +1541,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 259549,
       "name": "It's Time To Worship",
       "url": "https://open.spotify.com/track/5sxApl9TQHzRtBQEMdn9Qw"
@@ -1655,6 +1721,36 @@
       "duration_ms": 594762,
       "name": "King of Heaven (Reign Jesus Reign) [feat. Ryan Ofei, Nate Diaz & Lizzie Morgan]",
       "url": "https://open.spotify.com/track/4wpEY6qaD9nHAPtJuzL0YQ"
+    },
+    {
+      "album": {
+        "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
+        "url": "https://open.spotify.com/album/4KdsGYinvqc6quBfbTChHz"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 565833,
+      "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
+      "url": "https://open.spotify.com/track/61NMxrIZ0OYXHxG9lsl82z"
     },
     {
       "album": {
@@ -2211,7 +2307,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 264324,
       "name": "Only You - Live",
       "url": "https://open.spotify.com/track/4ebt6MOHsjpafxEmjXhAGp"
@@ -2277,7 +2373,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 249069,
       "name": "Promises - Radio Version",
       "url": "https://open.spotify.com/track/4uEgHHcmkiHaEq4oXm1r8g"
@@ -2951,7 +3047,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 253652,
       "name": "This Is My Song - Live",
       "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
@@ -3345,6 +3441,28 @@
       "duration_ms": 276036,
       "name": "What I See (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/5RyfitgMVnJHdabHb13Rgv"
+    },
+    {
+      "album": {
+        "name": "Here's To The One We Love (Live)",
+        "url": "https://open.spotify.com/album/13U8Hs01res7D4CDmnhay2"
+      },
+      "artists": [
+        {
+          "name": "ICF Worship",
+          "url": "https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253800,
+      "name": "When The World Is Changing",
+      "url": "https://open.spotify.com/track/5pfNUsrxG2LScu2mqGFvr8"
     },
     {
       "album": {

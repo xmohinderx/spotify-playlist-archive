@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "Este es el Reggae, al sur del continente americano. Foto: Los Pericos.",
   "name": "Reggae Al Sur",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5wJsWdiqLgGKoWe7fmymn2"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 248074,
       "name": "Acto Salvaje",
       "url": "https://open.spotify.com/track/5FdrNZgshY1Q4afERWOyb5"
@@ -65,7 +67,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 341037,
       "name": "Al o\u00edrla cantar",
       "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
@@ -105,10 +107,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 280320,
       "name": "Ama La Vida",
       "url": "https://open.spotify.com/track/0VOtT83hCUJ451SYlx88Xr"
+    },
+    {
+      "album": {
+        "name": "Blues for Robin",
+        "url": "https://open.spotify.com/album/79hknAqGjYgjs5g8pNBYVX"
+      },
+      "artists": [
+        {
+          "name": "Mr PC Ska Jazz",
+          "url": "https://open.spotify.com/artist/1PyQqHVbuB2SQwc96QjjsC"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331833,
+      "name": "Blues for Robin",
+      "url": "https://open.spotify.com/track/1amEsAgR9loL4QfCogIfrN"
     },
     {
       "album": {
@@ -305,7 +325,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 256880,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1zjbYt5OsR2WpvrigMrpid"
@@ -323,7 +343,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 208596,
       "name": "Cuanto Heredamos",
       "url": "https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp"
@@ -395,7 +415,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 259373,
       "name": "De Tanto Caminar",
       "url": "https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae"
@@ -438,6 +458,32 @@
     },
     {
       "album": {
+        "name": "Despu\u00e9s del Invierno (feat. Gabi Luna Crook & Agust\u00edn Mac\u00edas)",
+        "url": "https://open.spotify.com/album/3FjQCKxPA8dr8HVjf0Nlyf"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/1sXx30pQqKQimzJBDwhXPx"
+        },
+        {
+          "name": "Agust\u00edn Mac\u00edas",
+          "url": "https://open.spotify.com/artist/4t5olbIFBV5tUC0XSDdmBO"
+        },
+        {
+          "name": "Gabi Luna Crook",
+          "url": "https://open.spotify.com/artist/57EHiFRD8a1kqF2THCuR3L"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251554,
+      "name": "Despu\u00e9s del Invierno (feat. Gabi Luna Crook & Agust\u00edn Mac\u00edas)",
+      "url": "https://open.spotify.com/track/2LLl3qTbwIcIVJVwupfiTe"
+    },
+    {
+      "album": {
         "name": "Runfla Calavera",
         "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
       },
@@ -467,7 +513,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 202586,
       "name": "Donde Vive un Sentimiento",
       "url": "https://open.spotify.com/track/4dshlztOA9h20deNbzMvvY"
@@ -611,7 +657,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 160493,
       "name": "En el Sonido",
       "url": "https://open.spotify.com/track/142f0JPC6R9GQI3X9C23M8"
@@ -651,6 +697,24 @@
       "duration_ms": 256810,
       "name": "Esclavo",
       "url": "https://open.spotify.com/track/760amZp34Hu7t5cH9QB3BB"
+    },
+    {
+      "album": {
+        "name": "Escucha",
+        "url": "https://open.spotify.com/album/22gZ02nObeSz08waVkTozY"
+      },
+      "artists": [
+        {
+          "name": "KLUB",
+          "url": "https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183214,
+      "name": "Escucha",
+      "url": "https://open.spotify.com/track/2ee0MvrSY21olco3ClSD39"
     },
     {
       "album": {
@@ -719,7 +783,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 304426,
       "name": "Flores y Burbujas",
       "url": "https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD"
@@ -767,7 +831,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 184000,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1"
@@ -803,7 +867,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 258000,
       "name": "Hecho de Barro",
       "url": "https://open.spotify.com/track/0rOUwNP8qdPaxDZgcD6WoA"
@@ -879,7 +943,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 283400,
       "name": "La Clave",
       "url": "https://open.spotify.com/track/7CkVCRgoZWPt2v1WXRV7rs"
@@ -1049,7 +1113,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 202680,
       "name": "Lo De Siempre",
       "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
@@ -1121,7 +1185,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 198946,
       "name": "Meu Reggae \u00e9 Roots - Ao Vivo",
       "url": "https://open.spotify.com/track/1r7BRiLgM288W76CaiocEN"
@@ -1179,7 +1243,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 376800,
       "name": "Misterio",
       "url": "https://open.spotify.com/track/3xKXKFjtT24Z6RDNXPF4au"
@@ -1204,6 +1268,28 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Libre",
+        "url": "https://open.spotify.com/album/2THc86woJAYYpM1yTlD9yK"
+      },
+      "artists": [
+        {
+          "name": "Gaspar OM",
+          "url": "https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj"
+        },
+        {
+          "name": "C4 Reggae Combativo",
+          "url": "https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202306,
+      "name": "M\u00e1s Libre",
+      "url": "https://open.spotify.com/track/20HhIBf0Gd4U7KhOr2dcC4"
+    },
+    {
+      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
       },
@@ -1215,7 +1301,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 237026,
       "name": "Naufrago",
       "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
@@ -1237,7 +1323,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 211000,
       "name": "No al Remate de Ceramica Neuquen",
       "url": "https://open.spotify.com/track/6lkf0F3opf4dYQx1Czxaka"
@@ -1277,10 +1363,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 260266,
       "name": "No Mires Atras",
       "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
+    },
+    {
+      "album": {
+        "name": "No veo nada",
+        "url": "https://open.spotify.com/album/3lnpz4x9K3ITmXFQWkpLGy"
+      },
+      "artists": [
+        {
+          "name": "Razteria",
+          "url": "https://open.spotify.com/artist/3CK8YD6mYiZujhznS6b3G0"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277256,
+      "name": "No veo nada",
+      "url": "https://open.spotify.com/track/1oAZmndoZfcGuVPS1TpoRC"
     },
     {
       "album": {
@@ -1295,7 +1399,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 267983,
       "name": "Normal",
       "url": "https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV"
@@ -1479,7 +1583,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 259283,
       "name": "Quemando Tu Pecho",
       "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
@@ -1537,7 +1641,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 309240,
       "name": "Resistencia indigena",
       "url": "https://open.spotify.com/track/1dIhVyOcHzgL07hSO7IOex"
@@ -1643,7 +1747,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 218689,
       "name": "Si No Fuera",
       "url": "https://open.spotify.com/track/23GLxJaCdFtophvNc9SUes"
@@ -1661,7 +1765,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 260170,
       "name": "Si vas a dejarme...",
       "url": "https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS"
@@ -1737,7 +1841,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 226577,
       "name": "Sonido Fresco",
       "url": "https://open.spotify.com/track/0CKgR8v1Q3mBXi82zOHCBu"
@@ -1813,6 +1917,42 @@
       "duration_ms": 201021,
       "name": "Todo Lo Que Se Fue",
       "url": "https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW"
+    },
+    {
+      "album": {
+        "name": "Elev\u00e1ndote",
+        "url": "https://open.spotify.com/album/1AzhzZ8JOMRL0bOMzhdF8H"
+      },
+      "artists": [
+        {
+          "name": "Mamma Motta",
+          "url": "https://open.spotify.com/artist/49C3kSJ3U0It8eGGwXWzrF"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291920,
+      "name": "Todo Tiene Su Tiempo",
+      "url": "https://open.spotify.com/track/1TyyXiIMIL0yhYQqv5GfUs"
+    },
+    {
+      "album": {
+        "name": "Torito",
+        "url": "https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Torito",
+      "url": "https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd"
     },
     {
       "album": {
@@ -1964,6 +2104,42 @@
     },
     {
       "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211373,
+      "name": "Voc\u00ea Me Encantou Demais - Ao Vivo",
+      "url": "https://open.spotify.com/track/5iI2yN0RGxzFgdzlcQsTHi"
+    },
+    {
+      "album": {
+        "name": "En Vivo Teatro Caupolic\u00e1n",
+        "url": "https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251567,
+      "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
+      "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"
+    },
+    {
+      "album": {
         "name": "Vos Sab\u00e9s",
         "url": "https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo"
       },
@@ -2045,6 +2221,32 @@
       "duration_ms": 314491,
       "name": "Waitin en Vano",
       "url": "https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty"
+    },
+    {
+      "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f"
+      },
+      "artists": [
+        {
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+        },
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        },
+        {
+          "name": "Rotman",
+          "url": "https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo"
     },
     {
       "album": {

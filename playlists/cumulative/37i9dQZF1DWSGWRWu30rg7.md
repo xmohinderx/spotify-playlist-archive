@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Haico\. Artwork: Isu Kim.
 
-703 songs - 1 day 19 hr 5 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+705 songs - 1 day 19 hr 11 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [I Beg](https://open.spotify.com/track/48r2oRtw3RSOZHnuQFWZWb) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [I Beg](https://open.spotify.com/album/4GskNwqLX1y2uHhL73JH9j) | 2:52 | 2022-02-24 | 2022-03-11 |
 | [I Can Be Alone](https://open.spotify.com/track/5WAvWQKqTDyM6lLpiKQKMa) | [Radinal](https://open.spotify.com/artist/7jtCIfuhpqFUoFax7JE0Jg) | [I Can Be Alone](https://open.spotify.com/album/6oxWFz8LHyExl1DiXLkkc4) | 2:31 | 2022-04-08 | 2022-04-29 |
 | [I Don't Mind](https://open.spotify.com/track/52XqYCuoj1qmJ0VgKKohgS) | [Wevvss](https://open.spotify.com/artist/6zcbd2HfTX8pbqYqmXQkLI) | [W A V Y](https://open.spotify.com/album/5imTU36jZpmw3iPbO0NmnL) | 2:57 | 2022-02-03 | 2022-02-18 |
+| [I Don't Wanna Work \(But I Want Money\)](https://open.spotify.com/track/1h2HdWMD3kCTfoEXIsk9Lq) | [Ta Litha](https://open.spotify.com/artist/3TlOMD49qxoOlzVPfexgKK), [Mamang Kesbor](https://open.spotify.com/artist/0xkHWjERBuLwwxNXCbdSij) | [I Don't Wanna Work \(But I Want Money\)](https://open.spotify.com/album/6yiTEciAcCd08HMakkqvTN) | 2:43 | 2022-05-27 |  |
 | [i don't want to let you go](https://open.spotify.com/track/7E9GisMQ7gIGXeAv9KfrkP) | [Sindy Amani](https://open.spotify.com/artist/4lxtjQlg9hjxIbpsTdIPd2) | [i don't want to let you go](https://open.spotify.com/album/2L8DzzpuY8heYFQ5WvLng2) | 2:40 | 2022-01-27 | 2022-02-11 |
 | [I Don't Want U Back](https://open.spotify.com/track/5rXaz2QiHISqijEoCJcYBt) | [Alex Jeremy](https://open.spotify.com/artist/27enPRa1GjRd6HocChPMjY), [Cal Limertha](https://open.spotify.com/artist/0tzp5PHbUKst9fnChzKMfh) | [I Don't Want U Back](https://open.spotify.com/album/7w5osVWvgDSqdRpg3vezsu) | 3:07 | 2022-01-06 | 2022-01-14 |
 | [I Miss You](https://open.spotify.com/track/4MgvDQKH7YCopH5Uo0ovNL) | [Soraya Rasyid](https://open.spotify.com/artist/3vjZ56uY0w0Crv4YAb4J6M) | [I Miss You](https://open.spotify.com/album/78aKidWewUHFp8sgwjiUpX) | 3:17 | 2022-02-24 | 2022-03-11 |
@@ -338,6 +339,7 @@
 | [Lara](https://open.spotify.com/track/7BkgPVjBMKQdmWBBKUyOT2) | [Musik Hari Ini](https://open.spotify.com/artist/2wuh6dQgIeW78IFY5AWKXa) | [Lara](https://open.spotify.com/album/5X5NtCvKIRCWvTFJT5Vgvw) | 3:23 | 2022-03-10 | 2022-03-25 |
 | [Last Queue \(Meanor\)](https://open.spotify.com/track/1iLMGFyk36641YdyW04j7m) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Last Queue \(Meanor\)](https://open.spotify.com/album/6yS68WaqLFt2foL8eT5QgX) | 3:24 | 2022-05-19 |  |
 | [Laughing at Myself](https://open.spotify.com/track/2QlasaE1XZko6LS5KYOS7w) | [Rad Rat](https://open.spotify.com/artist/11Mmjxgp1P8adgEn9hKcqi) | [Laughing at Myself](https://open.spotify.com/album/1RIlWgQMB24o74Xt30nvrr) | 2:51 | 2022-02-24 | 2022-03-11 |
+| [Lay with Me](https://open.spotify.com/track/7mo2P0SeAlhHOUk7XpdH0S) | [Qudrah](https://open.spotify.com/artist/2LbwwDPJD7VPgWcwMwBpci) | [Lay with Me](https://open.spotify.com/album/5qIQDP241vAYipLOWcwocp) | 3:40 | 2022-05-27 |  |
 | [Lead The Light](https://open.spotify.com/track/6p5eJKBJ4L9DV7vvIjqHel) | [Fauzi](https://open.spotify.com/artist/3QrowG6NEdR03Dt00t0b0a) | [Lead The Light](https://open.spotify.com/album/2NqftNUD42N8EBzgFIcSuD) | 4:08 | 2022-05-26 |  |
 | [Leave](https://open.spotify.com/track/74QXB1oIzpotdum8rxvASH) | [D Song](https://open.spotify.com/artist/7xRyNb7eIpwmkmN5jfyLIY), [viempi](https://open.spotify.com/artist/2Cdp3ZRWPVKe3PssWN6d0x) | [Leave](https://open.spotify.com/album/6ii5K69uHq271OImbKwos9) | 4:12 | 2022-02-03 | 2022-02-18 |
 | [Leave It Behind](https://open.spotify.com/track/7mZ5VRMc0MSdvbhiwa07RS) | [Ridh](https://open.spotify.com/artist/0tqCMm24TzsA9pbhqbjbv1) | [Leave It Behind](https://open.spotify.com/album/57Dn3qFbFdAPOsctMAAcGO) | 4:19 | 2022-04-21 | 2022-05-13 |

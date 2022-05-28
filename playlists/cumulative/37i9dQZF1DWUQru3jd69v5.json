@@ -236,6 +236,24 @@
     },
     {
       "album": {
+        "name": "Tana Libera Tutti",
+        "url": "https://open.spotify.com/album/5ZE6ZgRZl1mnKtzhxJClbs"
+      },
+      "artists": [
+        {
+          "name": "ALDA",
+          "url": "https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128684,
+      "name": "Bambine dinamite",
+      "url": "https://open.spotify.com/track/4ucrkxUUozcD3olbm3K3D9"
+    },
+    {
+      "album": {
         "name": "Banlieue",
         "url": "https://open.spotify.com/album/1X7LRBkdizwwX3TtU2zrDO"
       },

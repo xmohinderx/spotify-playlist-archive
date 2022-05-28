@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 194568,
       "name": "beachin",
       "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF"
@@ -2460,6 +2460,24 @@
     },
     {
       "album": {
+        "name": "cloudbathing",
+        "url": "https://open.spotify.com/album/4ZPcZDtqMJmzOfG9bbIFyD"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182146,
+      "name": "cloudbathing",
+      "url": "https://open.spotify.com/track/3SjBwAnJXh69mDAsAea3iu"
+    },
+    {
+      "album": {
         "name": "Clumsy Heart",
         "url": "https://open.spotify.com/album/50XroDDpEBS38FecZiEt5H"
       },
@@ -2781,6 +2799,24 @@
       "duration_ms": 171373,
       "name": "CR78",
       "url": "https://open.spotify.com/track/2MNaVbR5QaxYQ7Cr2qHXRq"
+    },
+    {
+      "album": {
+        "name": "CRASH COURSE",
+        "url": "https://open.spotify.com/album/2QCeOLhHdbL0acU3hdZoWJ"
+      },
+      "artists": [
+        {
+          "name": "young friend",
+          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217170,
+      "name": "CRASH COURSE",
+      "url": "https://open.spotify.com/track/2nkKGF3kerIiYuAlLdZrGZ"
     },
     {
       "album": {
@@ -4718,6 +4754,24 @@
     },
     {
       "album": {
+        "name": "For The Good",
+        "url": "https://open.spotify.com/album/0RjCuHSyUalAewW06tJbCH"
+      },
+      "artists": [
+        {
+          "name": "adam brian paul",
+          "url": "https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53293,
+      "name": "For The Good",
+      "url": "https://open.spotify.com/track/32wNxsULE8I9Fd8aU0o7JW"
+    },
+    {
+      "album": {
         "name": "When I Close My Eyes",
         "url": "https://open.spotify.com/album/6JkrpiVpnhPrCpiVtDPN2f"
       },
@@ -5281,7 +5335,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 208264,
       "name": "Go Higher",
       "url": "https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4"
@@ -7529,7 +7583,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 220667,
       "name": "It's Easy",
       "url": "https://open.spotify.com/track/1Fh7lpiy8m6ZU9y3yLAFnW"
@@ -10917,7 +10971,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 162987,
       "name": "Pity Party",
       "url": "https://open.spotify.com/track/7y9EejfRa4hJihEO70QOIV"
@@ -11173,7 +11227,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 130460,
       "name": "queen st",
       "url": "https://open.spotify.com/track/5iPRPoJMfuwgaPbECWHrIY"
@@ -11772,6 +11826,24 @@
     },
     {
       "album": {
+        "name": "Scissors",
+        "url": "https://open.spotify.com/album/3Q7ztq5q819kn2aqdGzGVh"
+      },
+      "artists": [
+        {
+          "name": "Laraw",
+          "url": "https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157054,
+      "name": "Scissors",
+      "url": "https://open.spotify.com/track/7DaFmydulTDDndxR7q4ZGt"
+    },
+    {
+      "album": {
         "name": "seaside_demo",
         "url": "https://open.spotify.com/album/4FzvipXCsh9Ho8aujaOkLs"
       },
@@ -11845,6 +11917,24 @@
       "duration_ms": 251269,
       "name": "Seeds",
       "url": "https://open.spotify.com/track/7pJAND8bggxN2rEVYGpPfA"
+    },
+    {
+      "album": {
+        "name": "Sensitive",
+        "url": "https://open.spotify.com/album/4m6TJWcVB64Ja5K5Sz7Urw"
+      },
+      "artists": [
+        {
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157819,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/2zQH8HDTJww0eYqXAAnJys"
     },
     {
       "album": {
@@ -13301,7 +13391,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt"
@@ -14327,6 +14417,24 @@
       "duration_ms": 197487,
       "name": "Time I Love to Waste",
       "url": "https://open.spotify.com/track/7v6rH68U9wPAzRzYNmgtCx"
+    },
+    {
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/4jAN28tuuWdvDsX5HzPXbv"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219632,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/4Fkf0tYc8tD0BeS7k20AAa"
     },
     {
       "album": {
@@ -15939,6 +16047,24 @@
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+    },
+    {
+      "album": {
+        "name": "\u200ecan't \u200eu \u200etell \u200e?",
+        "url": "https://open.spotify.com/album/4239Z8wD4pZdLNYAM8imWe"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "\u200ecan't \u200eu \u200etell \u200e?",
+      "url": "https://open.spotify.com/track/2z344vvIbh4Sk4oVgbgxFD"
     },
     {
       "album": {

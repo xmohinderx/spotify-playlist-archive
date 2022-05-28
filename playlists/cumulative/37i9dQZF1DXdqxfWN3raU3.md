@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B creado en el continente y España\. Foto: Rels B
 
-143 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
+144 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [city girls](https://open.spotify.com/track/6ogHlZQd9M2Y8SwltuDQdN) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [GÉNESIS](https://open.spotify.com/album/4blQHdDuBVjZRVdLzwcVl5) | 2:55 | 2021-12-13 |  |
 | [Corre Que Se Quema](https://open.spotify.com/track/36aP83QLSwTi1yqDZouAbb) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Corre Que Se Quema](https://open.spotify.com/album/5d3vxGM2GMWOYaWXz3IQVd) | 3:15 | 2021-12-13 | 2022-01-11 |
 | [Cuando Te Veo](https://open.spotify.com/track/5JWob8X9N857wBlpwZlsDy) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Cuando Te Veo](https://open.spotify.com/album/1iUGjo0OBL0XMjjwiR0S2o) | 2:40 | 2021-12-13 | 2022-03-12 |
+| [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2022-05-27 |  |
 | [Dalí](https://open.spotify.com/track/20BbptvwAiTLTfYBSafptA) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Dalí](https://open.spotify.com/album/77OueE2Wa2jvuLYgLiR75i) | 2:42 | 2021-12-13 | 2022-01-22 |
 | [De Mí](https://open.spotify.com/track/2iKcjICXMLgHHsTMs377Hk) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [De Mí](https://open.spotify.com/album/1AznrMTaqdAZTzHt3eZU3H) | 2:12 | 2021-12-13 | 2022-04-15 |
 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 | 2021-12-13 | 2022-03-08 |
@@ -90,7 +91,7 @@
 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 | 2021-12-13 |  |
 | [Mon Amour](https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Mon Amour](https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu) | 2:54 | 2022-01-21 |  |
 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 | 2022-05-12 |  |
-| [nada que decir](https://open.spotify.com/track/1qPf4Rl5l8QyK2BXsk1CJE) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [nada que decir](https://open.spotify.com/album/5YmFYvpGA85THfc1GYantK) | 3:06 | 2021-12-13 |  |
+| [nada que decir](https://open.spotify.com/track/1qPf4Rl5l8QyK2BXsk1CJE) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [nada que decir](https://open.spotify.com/album/5YmFYvpGA85THfc1GYantK) | 3:06 | 2021-12-13 | 2022-05-28 |
 | [Nadie Más](https://open.spotify.com/track/0B0nCve9pI1PJcdA3B4t0q) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Nadie Más](https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7) | 3:23 | 2022-01-12 |  |
 | [Nadie más](https://open.spotify.com/track/6HkbUFn3tdjubNlDacokMx) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Nadie más](https://open.spotify.com/album/11jo3NbufxnUqsoY4eG77m) | 3:07 | 2021-12-13 | 2022-02-15 |
 | [Navegantes](https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ) | [Daniela Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Navegantes](https://open.spotify.com/album/59ZWU9GOX523Im1B05n7mC) | 4:03 | 2022-03-08 |  |

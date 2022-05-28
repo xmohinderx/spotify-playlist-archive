@@ -4,7 +4,7 @@
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Luz Pinos
 
-60 songs - 3 hr 55 min - not published yet
+60 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/3JQCn0U5J7gjZIqJmCR5xX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

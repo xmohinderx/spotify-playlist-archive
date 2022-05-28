@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > Chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,247 likes - 437 songs - 16 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,332 likes - 437 songs - 16 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -429,7 +429,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 419 | [Lo\-fi Bossa Girl](https://open.spotify.com/track/5ANNldH3mVR5Wg6JzRl3dS) | [Elisey](https://open.spotify.com/artist/5NNybcZtlWcExyH7LuIofh) | [Square Pusher](https://open.spotify.com/album/2RgnsphCZkHmIpZCyytiaL) | 1:54 |
 | 420 | [Sway](https://open.spotify.com/track/3KpDwmhldQlg8javP9MdK2) | [Sidual.](https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI) | [Sway](https://open.spotify.com/album/4syr2ON8NOyuQOuoxqwrfx) | 2:28 |
 | 421 | [Window Camping](https://open.spotify.com/track/5WexdSeiaYKjHkPy1lcos9) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [ROOM7](https://open.spotify.com/album/4v6m1ay44BiT0DBFBGljgu) | 2:03 |
-| 422 | [Decisions](https://open.spotify.com/track/693x7mqPNtiFzJSkFZcB1N) | [NAGASHI](https://open.spotify.com/artist/0M50twWlneC1mfo1nACA6j) | [Decisions](https://open.spotify.com/album/79QW0d9b9NaPPKMhWGyoak) | 1:29 |
+| 422 | [Decisions](https://open.spotify.com/track/693x7mqPNtiFzJSkFZcB1N) | [NAGASHI](https://open.spotify.com/artist/6IOLrMWpyxWJHbL4chHEdX) | [Decisions](https://open.spotify.com/album/79QW0d9b9NaPPKMhWGyoak) | 1:29 |
 | 423 | [Fables](https://open.spotify.com/track/14ZQqkb1sbVcURlsjx5dxy) | [itsjrad](https://open.spotify.com/artist/7c4X1eCcicV6EfghXWER9w) | [Laika Beat Tape](https://open.spotify.com/album/5eDhZtUj7QqWECAI7l3kwb) | 2:12 |
 | 424 | [Ring Wear Saga](https://open.spotify.com/track/0yHJnXAQTNmFMjyFdppNBP) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Golden Crates](https://open.spotify.com/album/04Mhn8ivVvZStXmwoOMT9d) | 2:15 |
 | 425 | [Dusty Conscience](https://open.spotify.com/track/3FXTtPNNAXOgUiOtkSfAdW) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Next Year in Rio](https://open.spotify.com/album/5DMrA7hp0yLp0rG11RNRe0) | 2:26 |

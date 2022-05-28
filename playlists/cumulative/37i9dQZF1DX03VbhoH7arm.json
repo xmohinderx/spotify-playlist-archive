@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Os grandes hits do momento est\u00e3o aqui! Foto: Anitta",
+  "description": "Os grandes hits do momento est\u00e3o aqui! Foto: Harry Styles",
   "name": "Hot Hits Brasil",
   "published_playlist_ids": [],
   "tracks": [
@@ -64,6 +64,24 @@
     },
     {
       "album": {
+        "name": "ACORDA PEDRINHO",
+        "url": "https://open.spotify.com/album/3zYKRs5QY4f5B66TTAg3p6"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173085,
+      "name": "ACORDA PEDRINHO",
+      "url": "https://open.spotify.com/track/2sUhjzuc6w4SRFwoC3LvXZ"
+    },
+    {
+      "album": {
         "name": "ANACONDA *o* ~~~",
         "url": "https://open.spotify.com/album/3lGLYMe25ojYNWqfTpwyk2"
       },
@@ -115,7 +133,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 155417,
       "name": "Assalto Perigoso",
       "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
@@ -590,6 +608,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "album": {
         "name": "LEIL\u00c3O",
         "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
       },
@@ -987,7 +1023,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 174646,
       "name": "That That (prod. & feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa"

@@ -4,7 +4,7 @@
 
 > A collection of songs from <a href="spotify:user:nytrvduf711vc7ja3kv9vwgnm">Tony Hawk's Pro Skater 1 + 2</a>.
 
-53 songs - 2 hr 38 min - not published yet
+53 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/3gnvN3gU2eit5kuCl7Hk1j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

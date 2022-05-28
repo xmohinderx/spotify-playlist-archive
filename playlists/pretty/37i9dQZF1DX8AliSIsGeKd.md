@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Giolì & Assia
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,906 likes - 74 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,124 likes - 74 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

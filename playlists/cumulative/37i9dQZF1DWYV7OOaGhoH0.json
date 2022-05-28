@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore the ever-evolving roots & folk scene. Cover: Angel Olsen",
+  "description": "Explore the ever-evolving folk & roots scene. Cover: Rosie Carney",
   "name": "Roots Rising",
   "published_playlist_ids": [
     "253UejjPPflLcat0bb66LZ"
@@ -1382,6 +1382,24 @@
     },
     {
       "album": {
+        "name": "Hawk For The Dove",
+        "url": "https://open.spotify.com/album/1JoezS6AZYgO7E1VxKZcSy"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227465,
+      "name": "Hawk For The Dove",
+      "url": "https://open.spotify.com/track/62td314sXG1sOEtwiTOAnO"
+    },
+    {
+      "album": {
         "name": "Hear It Again",
         "url": "https://open.spotify.com/album/6vR4nfemxHqPfzlv4dVp8i"
       },
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/6hRROyw3ieG2Mc7lXaS5GP"
@@ -2407,7 +2425,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 222760,
       "name": "Radio Silence",
       "url": "https://open.spotify.com/track/1VasZLD50MXapYxpDbr5nb"
@@ -3073,7 +3091,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 218059,
       "name": "The Good Old Days",
       "url": "https://open.spotify.com/track/2OKOfynu79Cq1PVk5NPx0E"
@@ -3333,6 +3351,24 @@
       "duration_ms": 219213,
       "name": "Tick Tock",
       "url": "https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE"
+    },
+    {
+      "album": {
+        "name": "i wanna feel happy",
+        "url": "https://open.spotify.com/album/0w0PikGULYYHYAlAZFyDnn"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241173,
+      "name": "tidal wave",
+      "url": "https://open.spotify.com/track/3Dy2LYjKKuLxRbIg8uoEh8"
     },
     {
       "album": {
@@ -3915,6 +3951,24 @@
       "duration_ms": 246000,
       "name": "Young Man",
       "url": "https://open.spotify.com/track/1KAs06qPczqVLKGBo7Tlrw"
+    },
+    {
+      "album": {
+        "name": "Long Lost (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280140,
+      "name": "Your Other Life",
+      "url": "https://open.spotify.com/track/4sWZVIOHuTrQOt6mqzMiBE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0"

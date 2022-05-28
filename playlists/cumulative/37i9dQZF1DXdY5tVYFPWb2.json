@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
   "name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "41pE6WZAp3SxdsIrmRUYjJ"
+  ],
   "tracks": [
     {
       "album": {
@@ -57,7 +59,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 350721,
       "name": "3\u53f7\u7dda",
       "url": "https://open.spotify.com/track/300DoYpld1TAIHrAodgpnX"
@@ -111,7 +113,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 201642,
       "name": "Amber",
       "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
@@ -129,7 +131,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 215913,
       "name": "AURORA TOKIO",
       "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
@@ -205,7 +207,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 245653,
       "name": "CITY FLIGHT",
       "url": "https://open.spotify.com/track/0XyD2MgwzwuNBVugOhnpek"
@@ -241,7 +243,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 218186,
       "name": "DRIP DRY",
       "url": "https://open.spotify.com/track/6NWT3AGvf6lBP9rH1W1d7o"
@@ -506,6 +508,28 @@
     },
     {
       "album": {
+        "name": "Smoky Valley",
+        "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
+      },
+      "artists": [
+        {
+          "name": "I love you Orchestra Swing Style",
+          "url": "https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls"
+        },
+        {
+          "name": "mahina",
+          "url": "https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Night Distance",
+      "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
+    },
+    {
+      "album": {
         "name": "One Way feat. YONCE",
         "url": "https://open.spotify.com/album/7lIJNVESbT9N8qWr0INc97"
       },
@@ -546,6 +570,24 @@
     },
     {
       "album": {
+        "name": "TWO",
+        "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187606,
+      "name": "Playback",
+      "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
+    },
+    {
+      "album": {
         "name": "Golden Circle",
         "url": "https://open.spotify.com/album/57BcxFEK536HPkPFLW6pI2"
       },
@@ -557,10 +599,28 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 209285,
       "name": "Rainy Talk",
       "url": "https://open.spotify.com/track/0ttL7VeLEqQYVhimPKlqZM"
+    },
+    {
+      "album": {
+        "name": "Rhythm of Your Heart",
+        "url": "https://open.spotify.com/album/7BYeCDSK87JZGz8O1DPG6e"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224177,
+      "name": "Rhythm of Your Heart",
+      "url": "https://open.spotify.com/track/4jffPANCVwBpUPmbj3cS9F"
     },
     {
       "album": {
@@ -597,10 +657,28 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 287569,
       "name": "SANDIE",
       "url": "https://open.spotify.com/track/5q5guN8XfOeRUnzVBcXcRt"
+    },
+    {
+      "album": {
+        "name": "SEPTEMBER",
+        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
+      },
+      "artists": [
+        {
+          "name": "Hiroji Miyamoto",
+          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275560,
+      "name": "SEPTEMBER",
+      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
     },
     {
       "album": {
@@ -615,7 +693,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 265493,
       "name": "Space Traveler",
       "url": "https://open.spotify.com/track/6Vw38ZQiy5cfij2BOokGk1"
@@ -673,7 +751,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 249833,
       "name": "Summer Again",
       "url": "https://open.spotify.com/track/1TvZNdyMxCL6LcN5CZyCvC"
@@ -716,6 +794,32 @@
     },
     {
       "album": {
+        "name": "Watching Over You",
+        "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
+      },
+      "artists": [
+        {
+          "name": "Peach & Apricot",
+          "url": "https://open.spotify.com/artist/54l7q4MlKoJbewWkohTJeX"
+        },
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        },
+        {
+          "name": "Anri",
+          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297444,
+      "name": "Watching Over You",
+      "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
+    },
+    {
+      "album": {
         "name": "You Are Nobody (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/5GSwcNsaqH3YfxvrjTkjTw"
       },
@@ -731,10 +835,28 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 238301,
       "name": "You Are Nobody (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/0L1gFquDz7MpLvlAH2J7KM"
+    },
+    {
+      "album": {
+        "name": "You Are Right",
+        "url": "https://open.spotify.com/album/2CIh4fPlP3ReUCz4X3HA5y"
+      },
+      "artists": [
+        {
+          "name": "Cantaro Ihara",
+          "url": "https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227500,
+      "name": "You Are Right",
+      "url": "https://open.spotify.com/track/4SQZHCACaK0ND5eboX1Xgu"
     },
     {
       "album": {
@@ -753,6 +875,24 @@
       "duration_ms": 171500,
       "name": "YOU+ME=",
       "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
+    },
+    {
+      "album": {
+        "name": "Living Room",
+        "url": "https://open.spotify.com/album/17wsj6ok978OcBQhmNexce"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251600,
+      "name": "\u3042\u306a\u305f\u3086\u305a\u308a",
+      "url": "https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3"
     },
     {
       "album": {
@@ -811,7 +951,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 208981,
       "name": "\u305a\u308b\u304f\u306a\u3044?",
       "url": "https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt"
@@ -851,7 +991,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 205478,
       "name": "\u308f\u305f\u3057\u306eLife",
       "url": "https://open.spotify.com/track/3aFQiQbnIL9upNOOKc54tN"
@@ -891,6 +1031,50 @@
       "duration_ms": 196572,
       "name": "\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3\u30fb\u30d9\u30a4",
       "url": "https://open.spotify.com/track/7u50rPr1co7HgH2mJcaET3"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e5\u30d7\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/2vfxMDrwJPp5W2c3shcE2D"
+      },
+      "artists": [
+        {
+          "name": "DEEN",
+          "url": "https://open.spotify.com/artist/1Tg3cYxIGONHrwVagR1QlG"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227866,
+      "name": "\u30b7\u30e5\u30d7\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/5jbEk0qaloLbLSp2MInRzl"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30a6\u30a3\u30fc\u30c8\u30fb\u30bd\u30a6\u30eb\u30fb\u30ec\u30f4\u30e5\u30fc (duet with Rainych, feat. evening cinema)",
+        "url": "https://open.spotify.com/album/3spkvo7ENdH913rigIMaKI"
+      },
+      "artists": [
+        {
+          "name": "Maki Nomiya",
+          "url": "https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj"
+        },
+        {
+          "name": "Rainych",
+          "url": "https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r"
+        },
+        {
+          "name": "evening cinema",
+          "url": "https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274587,
+      "name": "\u30b9\u30a6\u30a3\u30fc\u30c8\u30fb\u30bd\u30a6\u30eb\u30fb\u30ec\u30f4\u30e5\u30fc (duet with Rainych, feat. evening cinema)",
+      "url": "https://open.spotify.com/track/7zc7YIxrfTzXSXTe6oQKwH"
     },
     {
       "album": {
@@ -945,10 +1129,32 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 228900,
       "name": "\u30ca\u30a4\u30c8\u30c0\u30a4\u30d0\u30fc",
       "url": "https://open.spotify.com/track/1YsAzyAXLHSAywueN4jVT0"
+    },
+    {
+      "album": {
+        "name": "\u30ec\u30a4\u30c9\u30d0\u30c3\u30af\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6EBNFErF2A9KQb2Jcjbfqq"
+      },
+      "artists": [
+        {
+          "name": "Lafuzin",
+          "url": "https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo"
+        },
+        {
+          "name": "BRIAN SHINSEKAI",
+          "url": "https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247235,
+      "name": "\u30ec\u30a4\u30c9\u30d0\u30c3\u30af\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+      "url": "https://open.spotify.com/track/2zwqa4yBrwoTybWwm6Whs3"
     },
     {
       "album": {
@@ -985,7 +1191,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 251741,
       "name": "\u591c\u884c\u6027 feat. \u8521\u5fe0\u6d69",
       "url": "https://open.spotify.com/track/3NCWb3k382tplUsQdHUz6Y"
@@ -1025,7 +1231,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 249079,
       "name": "\u5973\u3001\u6df1\u591c\u306e\u9eba\u5c4b\u306b\u3066",
       "url": "https://open.spotify.com/track/3MVqcD8Jil1ksouMJtNTMV"
@@ -1047,7 +1253,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 275912,
       "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
@@ -1101,7 +1307,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 250880,
       "name": "\u679c\u3066\u308b\u3053\u3068\u306a\u3044\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/1VOwpyWPfAoxW4mNWQcDGt"
@@ -1159,7 +1365,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 187365,
       "name": "\u7729\u3057\u3044\u8857\u3001\u9ed2\u3044\u72ac",
       "url": "https://open.spotify.com/track/4iWMAej6JVsPKf0TrmkhsF"
@@ -1181,10 +1387,28 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 307841,
       "name": "\u7d20\u3063\u9813\u72c2",
       "url": "https://open.spotify.com/track/4lPHtRs5tCsfhY1AzJJ1aw"
+    },
+    {
+      "album": {
+        "name": "\u8a93\u3044",
+        "url": "https://open.spotify.com/album/6bHUl9K4cipCsU2wew0XrU"
+      },
+      "artists": [
+        {
+          "name": "evening cinema",
+          "url": "https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213856,
+      "name": "\u8a93\u3044",
+      "url": "https://open.spotify.com/track/0qk9PyviJnLL2rzHikQ4Oy"
     },
     {
       "album": {
@@ -1221,7 +1445,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 252108,
       "name": "\u967d\u306e\u5f53\u305f\u308b\u5927\u901a\u308a (feat. Phum Viphurit)",
       "url": "https://open.spotify.com/track/7eM4bUjucfMv5GkM4gotZA"
@@ -1243,7 +1467,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 302666,
       "name": "\u9808\u81fe\u306e\u5cf6 feat. \u3077\u306b\u3077\u306b\u96fb\u6a5f",
       "url": "https://open.spotify.com/track/6NzyTK0raOqtE9DVm00qHj"

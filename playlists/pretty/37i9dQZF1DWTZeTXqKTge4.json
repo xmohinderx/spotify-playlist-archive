@@ -1,31 +1,15 @@
 {
   "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Loud",
-  "num_followers": 72201,
+  "num_followers": 72205,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAyMjYwMSwwMDAwMDIxNzAwMDAwMTgwZGZkMzJmZWUwMDAwMDE4MGQyOWM4Njcz",
+  "snapshot_id": "MTY1MzYyNDAwMCwwMDAwMDIxODAwMDAwMTgxMDNhYmNlYzkwMDAwMDE4MGQyOWM4Njcz",
   "tracks": [
     {
-      "added_at": "2022-05-20 04:56:41",
-      "album": {
-        "name": "Aucune promesse",
-        "url": "https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP"
-      },
-      "artists": [
-        {
-          "name": "Loud",
-          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
-        }
-      ],
-      "duration_ms": 213781,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/2BRWx7J7x96qi5yNCAjxKA"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Sentenc\u00e9",
         "url": "https://open.spotify.com/album/0A8VTHR0FqyOwGeiaiuMc7"
@@ -45,7 +29,39 @@
       "url": "https://open.spotify.com/track/3n9VHoMlVJvotkaXLFNqA2"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Aucune promesse",
+        "url": "https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        }
+      ],
+      "duration_ms": 213781,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/2BRWx7J7x96qi5yNCAjxKA"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "V POUR",
+        "url": "https://open.spotify.com/album/5RbTmbj5TqnxtNHmLO9F5c"
+      },
+      "artists": [
+        {
+          "name": "Vendou",
+          "url": "https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG"
+        }
+      ],
+      "duration_ms": 144044,
+      "name": "Dimanche",
+      "url": "https://open.spotify.com/track/4dFfpha6I1e4FJFEkh17YD"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Risqu\u00e9",
         "url": "https://open.spotify.com/album/4NCssbQeT9blbPPK05AYX5"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/5jtT4TQqdgBUTHuM9zPuAr"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "J'ai pas l'time",
         "url": "https://open.spotify.com/album/2Ox36Sou25gwtw8wvA6SUN"
@@ -77,7 +93,59 @@
       "url": "https://open.spotify.com/track/7oXiWuQPvywjQgKwoVrDY4"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Real & Riche",
+        "url": "https://open.spotify.com/album/4mFTgcDkx8lOxI2ZmFVcJ1"
+      },
+      "artists": [
+        {
+          "name": "M-Press Live",
+          "url": "https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v"
+        },
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Real & Riche",
+      "url": "https://open.spotify.com/track/47vfWmPJrB4sIETbjwbh86"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Wooh",
+        "url": "https://open.spotify.com/album/3X0opvSQguDu3GTrLJIAJ5"
+      },
+      "artists": [
+        {
+          "name": "Salimo",
+          "url": "https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur"
+        }
+      ],
+      "duration_ms": 151764,
+      "name": "Wooh",
+      "url": "https://open.spotify.com/track/2jxCBpeOC7oQCn6rpYMFiW"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Aucune promesse",
+        "url": "https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        }
+      ],
+      "duration_ms": 215555,
+      "name": "Aucune promesse",
+      "url": "https://open.spotify.com/track/4bE84m2q6Xecrl8Etn8hKC"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Esprit m\u00e9fiant",
         "url": "https://open.spotify.com/album/55ri3vgj9Oqw6XF8EHNDvo"
@@ -97,23 +165,7 @@
       "url": "https://open.spotify.com/track/1YJTQylI2qGPjd9sbC2Ki8"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "P\u00e9tale",
-        "url": "https://open.spotify.com/album/0qmrfShgngmmWA8cPcrXAA"
-      },
-      "artists": [
-        {
-          "name": "Vendou",
-          "url": "https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG"
-        }
-      ],
-      "duration_ms": 189317,
-      "name": "P\u00e9tale",
-      "url": "https://open.spotify.com/track/5MT66MAa0tPKBM0jV5aqq8"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Dixque d'art",
         "url": "https://open.spotify.com/album/5fvUcupi73B843UBlMcRxS"
@@ -129,23 +181,7 @@
       "url": "https://open.spotify.com/track/3ahYEYoP0voboULlwJH8Fx"
     },
     {
-      "added_at": "2022-05-20 04:56:41",
-      "album": {
-        "name": "Aucune promesse",
-        "url": "https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP"
-      },
-      "artists": [
-        {
-          "name": "Loud",
-          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
-        }
-      ],
-      "duration_ms": 215555,
-      "name": "Aucune promesse",
-      "url": "https://open.spotify.com/track/4bE84m2q6Xecrl8Etn8hKC"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "3HMOOD",
         "url": "https://open.spotify.com/album/0dXhFCshDYMlcdQSqtY9Oy"
@@ -169,7 +205,7 @@
       "url": "https://open.spotify.com/track/19yP0Tz8r7kDTNzOa39Ksk"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "J'ai mon blick",
         "url": "https://open.spotify.com/album/4fdDkt3jpOBjEqpKEMt150"
@@ -185,7 +221,7 @@
       "url": "https://open.spotify.com/track/59DFpv1yqfIb32uz8swkqL"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Semelles Rouges",
         "url": "https://open.spotify.com/album/67RgrQJcw4cjWoSPy2g15C"
@@ -201,7 +237,7 @@
       "url": "https://open.spotify.com/track/3dz6pALqpl62Z62mg2P4ng"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Abri de fortune (pour fin du monde)",
         "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
@@ -217,7 +253,23 @@
       "url": "https://open.spotify.com/track/5nu3PJOyMRQft0xLkz4UDN"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "P\u00e9tale",
+        "url": "https://open.spotify.com/album/0qmrfShgngmmWA8cPcrXAA"
+      },
+      "artists": [
+        {
+          "name": "Vendou",
+          "url": "https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG"
+        }
+      ],
+      "duration_ms": 189317,
+      "name": "P\u00e9tale",
+      "url": "https://open.spotify.com/track/5MT66MAa0tPKBM0jV5aqq8"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "3 accords",
         "url": "https://open.spotify.com/album/1IsJS2WEY8FGvmVdX0ehQU"
@@ -233,7 +285,7 @@
       "url": "https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Tout le monde a raison",
         "url": "https://open.spotify.com/album/5XjJEfwC3ybxsdqfNuB0o3"
@@ -253,7 +305,7 @@
       "url": "https://open.spotify.com/track/5Rm2XSJvhHdx7remj1ZUNQ"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "On Deck",
         "url": "https://open.spotify.com/album/65JhfbFpJ770al7RqmmNxi"
@@ -273,7 +325,7 @@
       "url": "https://open.spotify.com/track/3mxEteSWk9MppDJFxCGU2Q"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Risque",
         "url": "https://open.spotify.com/album/3fUq3cuqBk7NPJROi9XzHo"
@@ -293,23 +345,7 @@
       "url": "https://open.spotify.com/track/4jH3ztl0lHmltux05WwZTy"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/37NFf8kkfvIGpOOJlFTGm6"
-      },
-      "artists": [
-        {
-          "name": "Guessmi",
-          "url": "https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Y9DqcZ43ybo06qJoElOR5"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "HIT",
         "url": "https://open.spotify.com/album/5fzL567zhWlmeslIgX9tQR"
@@ -329,7 +365,7 @@
       "url": "https://open.spotify.com/track/1z4jzgRu3aPr5W1EL3fLNu"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "100 TEXTES",
         "url": "https://open.spotify.com/album/72AFm90JXqrGZtNnXwCb3z"
@@ -349,7 +385,7 @@
       "url": "https://open.spotify.com/track/3Ilctjzh4gGsYHB8XxxT8w"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Pickup",
         "url": "https://open.spotify.com/album/0o9ydVRqFkEwZS4F28SGFc"
@@ -369,7 +405,7 @@
       "url": "https://open.spotify.com/track/3QR5mPpzBG26S4Uqe6XZi7"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Pi\u00e8ge Rock Alternatif",
         "url": "https://open.spotify.com/album/3OXD6B8JLON63qRHf0xEhg"
@@ -385,7 +421,7 @@
       "url": "https://open.spotify.com/track/6AASCclUSMqIM5hhLuS7nj"
     },
     {
-      "added_at": "2022-05-20 04:56:41",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Aucune promesse",
         "url": "https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP"
@@ -405,7 +441,7 @@
       "url": "https://open.spotify.com/track/2qO3vIBPP5OBsOm67dG9W0"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Viral Avant La Carri\u00e8re",
         "url": "https://open.spotify.com/album/42OsuC1KTnlfkSF5KlMgUW"
@@ -425,31 +461,7 @@
       "url": "https://open.spotify.com/track/5VXekSKXEpZZxaSSqVebFB"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "Onirisme",
-        "url": "https://open.spotify.com/album/3d32bUlwtdWbqjLIS7GuQf"
-      },
-      "artists": [
-        {
-          "name": "Dope.Gng",
-          "url": "https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE"
-        },
-        {
-          "name": "Twani",
-          "url": "https://open.spotify.com/artist/6Msx0U86zJHArfvDk6zO9Q"
-        },
-        {
-          "name": "Latitude 45",
-          "url": "https://open.spotify.com/artist/6okG8kU8o6PpE3OFeWahxJ"
-        }
-      ],
-      "duration_ms": 183394,
-      "name": "Onirisme",
-      "url": "https://open.spotify.com/track/2z1T0cX0Ejfn2cBHkfDwaE"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Quand la route est longue (feat. FouKi) [Radio Edit]",
         "url": "https://open.spotify.com/album/04V5LztQcB3ltQ9BXGJMEY"
@@ -469,7 +481,7 @@
       "url": "https://open.spotify.com/track/5J60TBnpkXpncoXOjDENoV"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Je me souviens",
         "url": "https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso"
@@ -485,7 +497,7 @@
       "url": "https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Du Pain & des Jeux",
         "url": "https://open.spotify.com/album/75sRAzblfEbQ3Ku31ftSQy"
@@ -509,7 +521,7 @@
       "url": "https://open.spotify.com/track/5AbazAZJGusnPpnEVFu50g"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/2jX65KhXfrKbwJk8dy6Zcr"
@@ -525,7 +537,23 @@
       "url": "https://open.spotify.com/track/63Fj5pGKXNSRdj8yw1YxVD"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Barre Tendre",
+        "url": "https://open.spotify.com/album/5MPKKAtsJpjFIFso3z0eof"
+      },
+      "artists": [
+        {
+          "name": "Doug & Jeff",
+          "url": "https://open.spotify.com/artist/4emZH10SLlSZFIzVnot3q7"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "Barre Tendre",
+      "url": "https://open.spotify.com/track/3T02MLKuLd4GgHZIP7sYug"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "VITE!",
         "url": "https://open.spotify.com/album/7HsaVeXEfVsB6SAO3Nrcqj"
@@ -541,7 +569,7 @@
       "url": "https://open.spotify.com/track/6ccLf6BQBxl863pP57yr3g"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Abri de fortune (pour fin du monde)",
         "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
@@ -557,7 +585,7 @@
       "url": "https://open.spotify.com/track/6r8ce1pJQtqfnIRi7dX7pR"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Authentique",
         "url": "https://open.spotify.com/album/2lhDUA7WSmUneg4TOX2vBS"
@@ -573,7 +601,7 @@
       "url": "https://open.spotify.com/track/1w2OMNBVtRDQ86hFcrfHy4"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "B.E.C. #1",
         "url": "https://open.spotify.com/album/455m0pT555O6PaVpMYRN9h"
@@ -605,7 +633,7 @@
       "url": "https://open.spotify.com/track/6WFSb72vg84uIJRO9HrBA1"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "I Forgot, What Is Love ?",
         "url": "https://open.spotify.com/album/3FuZaR9VAM3rYKtIG3OCUZ"
@@ -625,31 +653,7 @@
       "url": "https://open.spotify.com/track/5HXqPlCwHoLWRGyCFI15UP"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/44GOSWH28z2v1AX67oLdBO"
-      },
-      "artists": [
-        {
-          "name": "Baggies",
-          "url": "https://open.spotify.com/artist/3MaLB9t8oVeKHmnmYi0VJS"
-        },
-        {
-          "name": "JeanCoeur",
-          "url": "https://open.spotify.com/artist/3EnquMDJk2xQ9uaROEv8mT"
-        },
-        {
-          "name": "Kirouac",
-          "url": "https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt"
-        }
-      ],
-      "duration_ms": 187233,
-      "name": "Sachet d'amour",
-      "url": "https://open.spotify.com/track/1Nz8mPtB3J58dFa0M5EYj7"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Gate to RLLNR",
         "url": "https://open.spotify.com/album/2zq2VWlpX9PI6yXe5xZ4Ab"
@@ -673,7 +677,7 @@
       "url": "https://open.spotify.com/track/53eakKGFwVXIrpqoN7mFat"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Benz Coupe",
         "url": "https://open.spotify.com/album/0XX7Ygea8VjrtwO6RVKJIU"
@@ -689,7 +693,27 @@
       "url": "https://open.spotify.com/track/6jjZ66yqu8t3Br1RcFUUOq"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "COBAYE",
+        "url": "https://open.spotify.com/album/0VzpDVglsn7PAAc7A6QtzW"
+      },
+      "artists": [
+        {
+          "name": "Calamine",
+          "url": "https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ"
+        },
+        {
+          "name": "Xela Edna",
+          "url": "https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "COBAYE",
+      "url": "https://open.spotify.com/track/2dqaIgv4BedNGfQZmYBtfc"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "King-V",
         "url": "https://open.spotify.com/album/11XbARlvVaV8ujs9BsGnhY"
@@ -705,7 +729,7 @@
       "url": "https://open.spotify.com/track/1QgzTqitUmu9j6mnSS2C0t"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Dis-leur",
         "url": "https://open.spotify.com/album/04xd8BuUDzp46firHhtOgx"
@@ -721,7 +745,7 @@
       "url": "https://open.spotify.com/track/1MjqfHQhJezQYPHLoqaYWZ"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "H\u00e9doniste",
         "url": "https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3"
@@ -737,7 +761,7 @@
       "url": "https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Peurple",
         "url": "https://open.spotify.com/album/6aVhBM0CjXfUeVpf7erNqA"
@@ -753,7 +777,7 @@
       "url": "https://open.spotify.com/track/6Ninewf6AmuyOstLCftPu0"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Bienvenue \u00e0 Baveuse City",
         "url": "https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC"
@@ -769,7 +793,7 @@
       "url": "https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "SNAKEYEZ",
         "url": "https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC"
@@ -785,7 +809,7 @@
       "url": "https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Triomphe",
         "url": "https://open.spotify.com/album/2ApDsFVuNCll7S4bEQMA7C"
@@ -801,7 +825,7 @@
       "url": "https://open.spotify.com/track/4PaVygkVBqsBEu8BTfvhDp"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Formation",
         "url": "https://open.spotify.com/album/2at8w1O9MMsF2kj6ZH9BAi"
@@ -821,7 +845,7 @@
       "url": "https://open.spotify.com/track/51ZvLOJkx0SAlcRsMriSnJ"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Roi",
         "url": "https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY"
@@ -837,7 +861,7 @@
       "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Craven N 3",
         "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
@@ -857,7 +881,7 @@
       "url": "https://open.spotify.com/track/1nGXom4fnChcFdymHFtknK"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Sans horaire",
         "url": "https://open.spotify.com/album/2WOwDw0iT1rkI4VM4l1Y3l"
@@ -877,7 +901,7 @@
       "url": "https://open.spotify.com/track/4xVQsPA32CgHu2v1fZbcTA"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Na\u00eetre et Grandir",
         "url": "https://open.spotify.com/album/1zQo997aIZPk298Aeubdjd"
@@ -893,7 +917,7 @@
       "url": "https://open.spotify.com/track/5LhYhfvvdY1wynWDk3sK2b"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Rose Noire",
         "url": "https://open.spotify.com/album/1RXI1kOEhiitv0f8lUENJj"
@@ -909,7 +933,7 @@
       "url": "https://open.spotify.com/track/2iGj1Dgx5M5eYBjw7vgKsc"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Grind",
         "url": "https://open.spotify.com/album/1Pp1NzqkXEFVm8kdIIAotZ"
@@ -925,7 +949,7 @@
       "url": "https://open.spotify.com/track/6CuXSXrJ6KCvQk0CZcI9GY"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Salt Bae",
         "url": "https://open.spotify.com/album/0n8ZU0vLoWOiRQWwQyrIVw"
@@ -941,7 +965,7 @@
       "url": "https://open.spotify.com/track/2ZpVCAC54nKySnWuC0mJ0t"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Ride Or Die (Reprise)",
         "url": "https://open.spotify.com/album/5qlhltp3zO7yhzdEFO1Rh0"
@@ -961,7 +985,7 @@
       "url": "https://open.spotify.com/track/7iYygd04ltJSykEUFrU9HL"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Diff\u00e9rents",
         "url": "https://open.spotify.com/album/7xr9yQRCWGiVANVS3dZPse"
@@ -977,7 +1001,7 @@
       "url": "https://open.spotify.com/track/59YblDJdTJRYLNoOJv4neb"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Rage de vivre",
         "url": "https://open.spotify.com/album/1epiRidlpxgPFOYZDXCWoL"
@@ -997,7 +1021,7 @@
       "url": "https://open.spotify.com/track/2PfxSNKBpl64hwE5IQjvKM"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "H\u00e9ritage",
         "url": "https://open.spotify.com/album/5PZa10Sd89gIJq7eDQPqQP"
@@ -1013,7 +1037,7 @@
       "url": "https://open.spotify.com/track/60JKKoraJuLxjA0eKKPffp"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Fight",
         "url": "https://open.spotify.com/album/2nE1hTvqAX2V96uMkfcP6R"
@@ -1029,7 +1053,7 @@
       "url": "https://open.spotify.com/track/5WjHjAeBWHniHdw7OvhOE7"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Carnaval de Finesse 2 : Les Chroniques d'un Jeune Entrepreneur",
         "url": "https://open.spotify.com/album/6XHp29DWqSqCS2UIZislPO"
@@ -1049,7 +1073,7 @@
       "url": "https://open.spotify.com/track/0QzKhiUheuDm0et5lzKpTy"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "ADN",
         "url": "https://open.spotify.com/album/6INAaVDM3kioiEmSLBczMe"
@@ -1065,7 +1089,7 @@
       "url": "https://open.spotify.com/track/5uXJ37ol7W82PLhOkP1ieu"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "V12",
         "url": "https://open.spotify.com/album/7z7ix2ykbpxubSPqBBg0sM"
@@ -1081,7 +1105,7 @@
       "url": "https://open.spotify.com/track/634JCPeIeQqZk33b87A7Wf"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "LESBIENNE WOKE SUR L'AUTOTUNE",
         "url": "https://open.spotify.com/album/6mKwEJV5F4DqilpZaJMS0N"
@@ -1097,7 +1121,7 @@
       "url": "https://open.spotify.com/track/7hElxwN1zI3SLAOh6aX2uD"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Coup De Feu Rue De La Paix",
         "url": "https://open.spotify.com/album/64HldXz7R0KapCaiAiZiYC"
@@ -1117,7 +1141,7 @@
       "url": "https://open.spotify.com/track/2taeWDYU3KPjlxvSy7nSVH"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Non coupable",
         "url": "https://open.spotify.com/album/39xwcDfx2MPBAVHYA6ivtu"
@@ -1133,7 +1157,7 @@
       "url": "https://open.spotify.com/track/5vYxSytIrSRhaNmo2Z94GY"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "SNAKEYEZ",
         "url": "https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC"
@@ -1149,7 +1173,7 @@
       "url": "https://open.spotify.com/track/0FMk3jM0fAHrUy5sYaJepO"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Nouvelle vague",
         "url": "https://open.spotify.com/album/0dEXddYdz0yGTLQjtH6TfM"
@@ -1165,7 +1189,7 @@
       "url": "https://open.spotify.com/track/0ifRyZfj9oysmVpXgKmlxT"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Mal au coeur",
         "url": "https://open.spotify.com/album/1a3Wpn0NDPrEoerucPrsg9"
@@ -1181,7 +1205,7 @@
       "url": "https://open.spotify.com/track/4pM6aTuzZvjWAM1rV5aTsn"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Bogot\u00e0",
         "url": "https://open.spotify.com/album/3Tdd4b9OZQd9zw4gGSvMAK"
@@ -1197,31 +1221,7 @@
       "url": "https://open.spotify.com/track/2j52PuH3H76JaoNeFEwcp6"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "Couleurs primaires : Rouge",
-        "url": "https://open.spotify.com/album/24EI5BeUrPeNpAflDizg4k"
-      },
-      "artists": [
-        {
-          "name": "MikeZup",
-          "url": "https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk"
-        },
-        {
-          "name": "Connaisseur Ticaso",
-          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
-        },
-        {
-          "name": "Enima",
-          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "G.O.A.T.S.",
-      "url": "https://open.spotify.com/track/6uaVCeRwAK0esY2xPlKVby"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "CATCH LACKIN",
         "url": "https://open.spotify.com/album/2tIMAhiJvYPi61JPOKWWIJ"
@@ -1237,7 +1237,7 @@
       "url": "https://open.spotify.com/track/6fAbhytzLIl2aUc3s1JrxR"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/17j1vsdJOV0Si2k5CZftkV"
@@ -1257,7 +1257,7 @@
       "url": "https://open.spotify.com/track/3ZIwVcPDhUfeNX9VajuBmH"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "HAINE MOI",
         "url": "https://open.spotify.com/album/74rD7TMXbDIRygW8MiWbjD"
@@ -1273,7 +1273,7 @@
       "url": "https://open.spotify.com/track/6uqdKP6QZIlAaVqyZP6krW"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Drop Top",
         "url": "https://open.spotify.com/album/7M6P4MXrPUlAkJ9KqLvp8C"
@@ -1289,7 +1289,7 @@
       "url": "https://open.spotify.com/track/0HaNQlN2fYf5Q8izAuXd3c"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Flexin'",
         "url": "https://open.spotify.com/album/77n2ksL1bIExXrYfA7E8AM"
@@ -1309,7 +1309,7 @@
       "url": "https://open.spotify.com/track/6UTJxee5O8Js1U8mGGtCaA"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Rap Buffet",
         "url": "https://open.spotify.com/album/1fwhmgJipxqOBNZ4eDqskP"
@@ -1341,27 +1341,7 @@
       "url": "https://open.spotify.com/track/24nKsih3Sh5CkKICiwJ4jO"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "Dans l'sang",
-        "url": "https://open.spotify.com/album/7pN2Cid4yCMJBN5ZmPNkYU"
-      },
-      "artists": [
-        {
-          "name": "Taktika",
-          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
-        },
-        {
-          "name": "Connaisseur Ticaso",
-          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
-        }
-      ],
-      "duration_ms": 253095,
-      "name": "Dans l'sang",
-      "url": "https://open.spotify.com/track/4ZjKF8kfJ54qtEPilgOsFQ"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Mouiller Le Maillot",
         "url": "https://open.spotify.com/album/1zcoFvG57xznifvJA3MqPm"

@@ -763,7 +763,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 241408,
       "name": "De Trago En Trago",
       "url": "https://open.spotify.com/track/5lWE6BsxJE9RoXbkvkGR60"
@@ -913,6 +913,24 @@
       "duration_ms": 226345,
       "name": "Dile a Tu Orgullo - En Vivo",
       "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
+    },
+    {
+      "album": {
+        "name": "Giallo",
+        "url": "https://open.spotify.com/album/4WV1PuDBMdzqXiWVWG0ovo"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223053,
+      "name": "Documentales",
+      "url": "https://open.spotify.com/track/3Thy24e4jX5thZRcr9pt0u"
     },
     {
       "album": {
@@ -1618,7 +1636,7 @@
     },
     {
       "album": {
-        "name": "EP #1 Forajido",
+        "name": "Forajido EP 1",
         "url": "https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR"
       },
       "artists": [
@@ -2251,7 +2269,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 274991,
       "name": "No Olvidamos",
       "url": "https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI"
@@ -2291,7 +2309,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 224614,
       "name": "Nube Fantasma",
       "url": "https://open.spotify.com/track/0n3GD03oX8uFTknufKX8SZ"
@@ -3005,7 +3023,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 233064,
       "name": "Tocame",
       "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
@@ -3422,7 +3440,7 @@
     },
     {
       "album": {
-        "name": "Yo Las Pongo (feat. Maffio)",
+        "name": "Yo Las Pongo",
         "url": "https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF"
       },
       "artists": [
@@ -3443,7 +3461,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191353,
-      "name": "Yo Las Pongo (feat. Maffio)",
+      "name": "Yo Las Pongo",
       "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"
     },
     {

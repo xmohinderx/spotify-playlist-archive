@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing\. Las vibras tranqui que ocupas en tu vida.
 
-151 songs - 8 hr 2 min - not published yet
+152 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/3GQU0MupClx0MsKK9HJHgw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [ADMV \- Versión Urbana](https://open.spotify.com/track/3wBKCNw7BFIalnqe4VXzdK) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV \(Versión Urbana\)](https://open.spotify.com/album/2icmaSfpEsztZeSqmlOOtz) | 3:05 | 2022-05-20 |  |
 | [Alguien Más](https://open.spotify.com/track/0xfmcMetmQwClfYRarKtyY) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:22 | 2022-05-20 |  |
 | [Alguien Más](https://open.spotify.com/track/63Ai8RJSEpJyHlCQ6Tq77h) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Alguien Más](https://open.spotify.com/album/10J8pkAmNJplmwTO0PirzO) | 3:40 | 2022-05-20 |  |
-| [Amarte u Olvidar](https://open.spotify.com/track/1JPPpzVpNiAYiGejDBPPnK) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Amarte u Olvidar](https://open.spotify.com/album/38EV3uUACK0LjX1OJ7iP7B) | 2:35 | 2022-05-20 |  |
+| [Amarte u Olvidar](https://open.spotify.com/track/1JPPpzVpNiAYiGejDBPPnK) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Amarte u Olvidar](https://open.spotify.com/album/38EV3uUACK0LjX1OJ7iP7B) | 2:35 | 2022-05-20 | 2022-05-28 |
 | [Amor de red social](https://open.spotify.com/track/5kMrgSeV3kYYyOyEAC7Ugf) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Amor de red social](https://open.spotify.com/album/5o7YnXMx2NM6LtbnfiIIqz) | 3:50 | 2022-05-20 |  |
 | [Amsterdam \- Versión En Español](https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Amsterdam \(Versión En Español\)](https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w) | 3:57 | 2022-05-20 |  |
 | [Años Luz](https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:13 | 2022-05-20 |  |
@@ -67,6 +67,7 @@
 | [Handful of Water](https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Handful of Water](https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N) | 2:31 | 2022-05-20 |  |
 | [Hasta Que](https://open.spotify.com/track/0F2t2RRkSJVLETwtpfiJth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Hasta Que](https://open.spotify.com/album/61cYa3yCAug08umgvtyv0J) | 3:13 | 2022-05-20 |  |
 | [Heart Full of Love](https://open.spotify.com/track/3WADEPHbjrfN0qYrtlACiq) | [ÌFÉ](https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF) | [Heart Full of Love](https://open.spotify.com/album/6Ive0sN5PnmohGaAGiP0tM) | 4:10 | 2022-05-20 |  |
+| [Hola \- Acústico En Vivo](https://open.spotify.com/track/5wbaHIztJH908HEGTEZUh0) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Rich Music Sessions \(Acústico En Vivo\)](https://open.spotify.com/album/6jU5obP9snCcR57UjL9byA) | 3:41 | 2022-05-20 |  |
 | [Hoy](https://open.spotify.com/track/1pvwboMTkqES8ExXx5JBag) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Hoy](https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz) | 3:55 | 2022-05-20 |  |
 | [Hurricane Season](https://open.spotify.com/track/4SSCjm47y2uA41sEy60Niv) | [JCZR](https://open.spotify.com/artist/5H5QptnwdQ3RNGpzftlR7D) | [Hurricane Season](https://open.spotify.com/album/6TUBj8dnlXvtmL0i5gWG7j) | 2:47 | 2022-05-20 |  |
 | [I Fell In Love](https://open.spotify.com/track/51y9N9jm8ykm0UrpaJ6J3s) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Xenia Rubinos](https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb) | [I Fell In Love](https://open.spotify.com/album/7tNjHSLioVJsgily2nkn7z) | 4:20 | 2022-05-20 |  |

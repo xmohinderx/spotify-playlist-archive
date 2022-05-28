@@ -2709,7 +2709,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 169866,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/6fv3KtQp4WKtUfgPCGsqwb"
@@ -3441,7 +3441,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 243507,
       "name": "Cinema",
       "url": "https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v"
@@ -3565,6 +3565,24 @@
       "duration_ms": 216086,
       "name": "Closure (feat. Calica)",
       "url": "https://open.spotify.com/track/4sE5BzWDrAVNZzuslCi6K5"
+    },
+    {
+      "album": {
+        "name": "cloudbathing",
+        "url": "https://open.spotify.com/album/4ZPcZDtqMJmzOfG9bbIFyD"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182146,
+      "name": "cloudbathing",
+      "url": "https://open.spotify.com/track/3SjBwAnJXh69mDAsAea3iu"
     },
     {
       "album": {
@@ -3963,7 +3981,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 178378,
       "name": "Coulda Been A Phone Call",
       "url": "https://open.spotify.com/track/4zzAg9A6pye8TqdvLvuBuh"
@@ -4115,7 +4133,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 186760,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/5SNZ7Iv54NzJgpb1hFxgXl"
@@ -5286,6 +5304,24 @@
     },
     {
       "album": {
+        "name": "Dry Spell",
+        "url": "https://open.spotify.com/album/5jy7stWw7eNshcMa1A6IwK"
+      },
+      "artists": [
+        {
+          "name": "JORDY",
+          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207427,
+      "name": "Dry Spell",
+      "url": "https://open.spotify.com/track/6akbqRYcAzX4sDibV4PofA"
+    },
+    {
+      "album": {
         "name": "Duo",
         "url": "https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF"
       },
@@ -5359,7 +5395,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 220408,
       "name": "Easier Said",
       "url": "https://open.spotify.com/track/4xtovOO8zN3TYmC8kcLcN1"
@@ -5681,7 +5717,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 155382,
       "name": "Ew",
       "url": "https://open.spotify.com/track/5uucqkAbfZCxwdTWolFyju"
@@ -6583,7 +6619,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 139386,
       "name": "frown",
       "url": "https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp"
@@ -6601,7 +6637,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 167248,
       "name": "FU In My Head",
       "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
@@ -6749,10 +6785,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 191076,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/1krkdhVVnJWMVJPgsSod8H"
+    },
+    {
+      "album": {
+        "name": "closer to closure",
+        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198139,
+      "name": "gentle",
+      "url": "https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds"
     },
     {
       "album": {
@@ -8167,7 +8221,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 204089,
       "name": "Hide Away",
       "url": "https://open.spotify.com/track/0wCMJ0s4wTZhLREbqz8i5N"
@@ -8535,7 +8589,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 135581,
       "name": "Honeypie",
       "url": "https://open.spotify.com/track/1bt443XPmX5ZG5DjhMJ8Rh"
@@ -10031,7 +10085,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 178888,
       "name": "killer queen",
       "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
@@ -10841,7 +10895,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 196142,
       "name": "Line",
       "url": "https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP"
@@ -11819,7 +11873,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 163584,
       "name": "Million Dollar Smoothies (From \u201cAmerican Song Contest\u201d)",
       "url": "https://open.spotify.com/track/2fvBdEhqqpWKRbxsr3fUC6"
@@ -12367,7 +12421,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 175318,
       "name": "Natural Wonder",
       "url": "https://open.spotify.com/track/3nQ26cKpg4PrPZGWBUhwoP"
@@ -14793,7 +14847,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 217297,
       "name": "REHAB?",
       "url": "https://open.spotify.com/track/3r886NNQL7iOK1CXEKH2lx"
@@ -14811,7 +14865,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 191910,
       "name": "rest in peace",
       "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
@@ -15129,7 +15183,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 166086,
       "name": "R\u00c9SUM\u00c9",
       "url": "https://open.spotify.com/track/4ueRLPY3K49X8hKrd2CDFN"
@@ -15429,7 +15483,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 128770,
       "name": "Scooter",
       "url": "https://open.spotify.com/track/1RBIzko2PMY5CP0d3MIkwl"
@@ -15585,6 +15639,24 @@
       "duration_ms": 152573,
       "name": "Self Sabotage",
       "url": "https://open.spotify.com/track/7e0OGRhftSRlGcMW73PFId"
+    },
+    {
+      "album": {
+        "name": "Sensitive",
+        "url": "https://open.spotify.com/album/4m6TJWcVB64Ja5K5Sz7Urw"
+      },
+      "artists": [
+        {
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157819,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/2zQH8HDTJww0eYqXAAnJys"
     },
     {
       "album": {
@@ -15812,6 +15884,24 @@
     },
     {
       "album": {
+        "name": "Shitty People",
+        "url": "https://open.spotify.com/album/40xU8o3w2Zw17JiTIZ3q2s"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "Shitty People",
+      "url": "https://open.spotify.com/track/4gmWwnGA117kHmmzczUwlz"
+    },
+    {
+      "album": {
         "name": "Should I Call U Baby",
         "url": "https://open.spotify.com/album/0GslCQGbomtTLgqyjUug3C"
       },
@@ -15975,7 +16065,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 194202,
       "name": "Sick To My Stomach",
       "url": "https://open.spotify.com/track/0RR2jiJKt8vNQkmPkud2qn"
@@ -16329,7 +16419,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 143188,
       "name": "snakes",
       "url": "https://open.spotify.com/track/4CigTjRg2PZZKYAus45wOA"
@@ -17609,7 +17699,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 161982,
       "name": "sunrise",
       "url": "https://open.spotify.com/track/3lTH6qyJ1FEoO6Wkm9vl0I"
@@ -17761,7 +17851,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 187116,
       "name": "Superstitious",
       "url": "https://open.spotify.com/track/1wizHJqbqe0YsAkRWN1QBP"
@@ -18161,7 +18251,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 180903,
       "name": "that friend",
       "url": "https://open.spotify.com/track/0jI7t8dSBRQU8EOlicWTmL"
@@ -18273,6 +18363,24 @@
       "duration_ms": 180488,
       "name": "The Bottom",
       "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
+    },
+    {
+      "album": {
+        "name": "The Devil\u2019s Still Down in Georgia",
+        "url": "https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193702,
+      "name": "The Devil\u2019s Still Down in Georgia",
+      "url": "https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle"
     },
     {
       "album": {

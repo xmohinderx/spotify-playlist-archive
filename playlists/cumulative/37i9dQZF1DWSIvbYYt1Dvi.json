@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "criolo \u00e9 AULAS",
+  "description": "costa gold, tz da coro e major rd \u00e9 AULAS",
   "name": "AULAS",
   "published_playlist_ids": [
     "2GpYMlHQWhJaqR9gXTSMkt"
@@ -108,6 +108,44 @@
     },
     {
       "album": {
+        "name": "A Divina Com\u00e9dia 2",
+        "url": "https://open.spotify.com/album/6ZM4rPGDfHvQIQfoAT681H"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Gigante No Mic",
+          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
+        },
+        {
+          "name": "Mano Fler",
+          "url": "https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx"
+        },
+        {
+          "name": "Zeus",
+          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319992,
+      "name": "A Divina Com\u00e9dia 2",
+      "url": "https://open.spotify.com/track/6YhXnVP8iOuM35xhYtQsJh"
+    },
+    {
+      "album": {
         "name": "A Lua (Spotify Singles)",
         "url": "https://open.spotify.com/album/3ZUMZ2yyqkvEPI6S6eho3a"
       },
@@ -179,7 +217,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 233250,
       "name": "Apita",
       "url": "https://open.spotify.com/track/5m2XYNroEL5ceFFPDngYe2"
@@ -235,6 +273,46 @@
       "duration_ms": 172592,
       "name": "Areia Azul",
       "url": "https://open.spotify.com/track/5cJPetbFkt9FWHgCcXXbBn"
+    },
+    {
+      "album": {
+        "name": "Aux\u00edlio Emergencial do Rap",
+        "url": "https://open.spotify.com/album/0e4Szps1xppl5S4cIjjVfJ"
+      },
+      "artists": [
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220434,
+      "name": "Aux\u00edlio Emergencial do Rap",
+      "url": "https://open.spotify.com/track/2tbnYUZqSQPSuTn2Zd0arn"
+    },
+    {
+      "album": {
+        "name": "Bom dia Vietn\u00e3 2",
+        "url": "https://open.spotify.com/album/3kZostoLBabq6nJRNoo1MV"
+      },
+      "artists": [
+        {
+          "name": "Puro Suco",
+          "url": "https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms"
+        },
+        {
+          "name": "BEATDOMK",
+          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165488,
+      "name": "Bom dia Vietn\u00e3 2",
+      "url": "https://open.spotify.com/track/7f0PIXLhMDaLx0OtFXdW7d"
     },
     {
       "album": {
@@ -441,7 +519,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 190489,
       "name": "Deu Aulas",
       "url": "https://open.spotify.com/track/22jWm5eYrvcIj418DSV7mq"
@@ -807,7 +885,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 176551,
       "name": "Lewis Hamilton",
       "url": "https://open.spotify.com/track/19JbPeE8TCPrqWYBeFfSQx"
@@ -951,7 +1029,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 141769,
       "name": "Malvad\u00e3o 3",
       "url": "https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH"
@@ -1118,6 +1196,36 @@
     },
     {
       "album": {
+        "name": "Nathalina",
+        "url": "https://open.spotify.com/album/1EHuQNnZFLbEijrUcWGr0e"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        },
+        {
+          "name": "Spinardi",
+          "url": "https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle"
+        },
+        {
+          "name": "JG",
+          "url": "https://open.spotify.com/artist/4H0H0ZdeSMxAMrYhWHUogD"
+        },
+        {
+          "name": "Savage TV",
+          "url": "https://open.spotify.com/artist/69bnICoeTmnTXMXzR0HV60"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240274,
+      "name": "Nathalina",
+      "url": "https://open.spotify.com/track/39KW45pJsJwZugxiFpx340"
+    },
+    {
+      "album": {
         "name": "Negr\u00e3o Demais",
         "url": "https://open.spotify.com/album/6mrxtUYxFHtDSkwZlP4GDW"
       },
@@ -1163,6 +1271,36 @@
       "duration_ms": 195000,
       "name": "N\u00e3o Desista Agora",
       "url": "https://open.spotify.com/track/0n9b7WrRRZkTy8CfXjbZb4"
+    },
+    {
+      "album": {
+        "name": "N\u00f4made VII",
+        "url": "https://open.spotify.com/album/3jhFJYo9qphO2WxHzIWudt"
+      },
+      "artists": [
+        {
+          "name": "Zarastruta",
+          "url": "https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "Don",
+          "url": "https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206451,
+      "name": "N\u00f4made VII",
+      "url": "https://open.spotify.com/track/4XTu1iHT5Q8dDfiIXgUXLD"
     },
     {
       "album": {
@@ -1497,7 +1635,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 472173,
       "name": "Poesia Ac\u00fastica 12 - Pra Sempre",
       "url": "https://open.spotify.com/track/4can6ssapSsRCEbZZfYL8K"
@@ -1597,7 +1735,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 189098,
       "name": "P\u00edlula Vermelha, P\u00edlula Azul (Incidental: Banditismo por uma Quest\u00e3o de Classe)",
       "url": "https://open.spotify.com/track/5ShZ5F5yERAxGBScFV8LrU"
@@ -1859,7 +1997,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 186947,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX"
@@ -2091,6 +2229,66 @@
       "duration_ms": 316000,
       "name": "Tamo Gigante",
       "url": "https://open.spotify.com/track/4TZb54H3UesQom2lskMF3B"
+    },
+    {
+      "album": {
+        "name": "Tecnologia",
+        "url": "https://open.spotify.com/album/5eJuA2zoW5qpztJLlMpyGa"
+      },
+      "artists": [
+        {
+          "name": "Pedro Simples",
+          "url": "https://open.spotify.com/artist/4onypgNFPIHhPqEO7BYYIE"
+        },
+        {
+          "name": "Jam\u00e9s Ventura",
+          "url": "https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB"
+        },
+        {
+          "name": "Malokero An\u00f4nimo",
+          "url": "https://open.spotify.com/artist/61h45TTf8pScBErVEDm3mz"
+        },
+        {
+          "name": "DJ B8",
+          "url": "https://open.spotify.com/artist/3PH6x2yZ6Gb0iPIYj6XQAB"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Tecnologia",
+      "url": "https://open.spotify.com/track/4EopE6f7MU601tBbDccmcq"
+    },
+    {
+      "album": {
+        "name": "The Cypher Deffect 3",
+        "url": "https://open.spotify.com/album/5DC0L15aPkXJI9zEGoCdt3"
+      },
+      "artists": [
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276882,
+      "name": "The Cypher Deffect 3",
+      "url": "https://open.spotify.com/track/24THjBgQ5pBt7aipk78ti3"
     },
     {
       "album": {

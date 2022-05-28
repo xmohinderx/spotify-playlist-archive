@@ -4,7 +4,7 @@
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-62 songs - 4 hr 37 min - not published yet
+62 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/1ISc2kghgLSBOppDcYOI8f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Farewell With Mirror](https://open.spotify.com/track/162oTD1iesLW8T3ZaOKr9Q) | [Amir Farhang Eskandari](https://open.spotify.com/artist/3EPh1PWVrndSr8yXVA4DKu), [Zakaria Yousefi](https://open.spotify.com/artist/2PAiEBsEV9ODqDghaOdE9r) | [And](https://open.spotify.com/album/4b3gP7vHoPsnANhfbAIhzF) | 4:27 | 2021-02-15 |  |
 | [First Gāh](https://open.spotify.com/track/2v6wZhaijSRK8fRpBhVfHa) | [Yasamin Shahhosseini](https://open.spotify.com/artist/5zflvLbYdud5Isb6hFLFWl) | [Gāhān](https://open.spotify.com/album/1dQrbLuCi32Zg6IxURIOrY) | 8:00 | 2021-02-15 |  |
 | [Gypsy \(Kouli\), Oud](https://open.spotify.com/track/726DmxUPgXO14R8DxWadxi) | [Hamed Nikpay](https://open.spotify.com/artist/6zu1JcNYULXTVw509cemBy) | [Solo Passage \(Gozar\)](https://open.spotify.com/album/4lNLgHmSdqKeK85MoPYLdZ) | 3:24 | 2021-02-15 |  |
-| [Healing Keys of Light](https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Healing Keys of Light](https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm) | 5:08 | 2021-02-15 |  |
+| [Healing Keys of Light](https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Healing Keys of Light](https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm) | 5:08 | 2021-02-15 | 2022-05-28 |
 | [Hijaz Gar](https://open.spotify.com/track/3qd14A0bN2TtwbKL3sIftg) | [Nay](https://open.spotify.com/artist/115twMENpjlhs3FdXAIiZ8) | [Arabian Classical Music](https://open.spotify.com/album/1ytYzKzs6FGeV6MWLFzqpR) | 3:31 | 2021-02-15 |  |
 | [Hobâb](https://open.spotify.com/track/5JfJrjh3nd5eOjFjPfV0c4) | [Hossein Alizadeh](https://open.spotify.com/artist/129o0b0q8hAgjrd7jDrbhP) | [Under the Cutting Blade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02uXTvfYgCLdSin8tVPPKO) | 3:44 | 2021-02-15 |  |
 | [Humankind](https://open.spotify.com/track/5XDv3KLoBQ5MnAYzsIiH2J) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Sounds Of Mirrors](https://open.spotify.com/album/4RgbDDGwmTiA8ypNDSoEc6) | 7:17 | 2021-02-15 |  |
@@ -67,7 +67,7 @@
 | [Tare Tanha](https://open.spotify.com/track/4PWvOfUwNtS9jc4xpzBSlm) | [Arash Badie](https://open.spotify.com/artist/6xGJlTZ5odUFdrBzmCUR13) | [Hejar](https://open.spotify.com/album/0cdYw9U0yvLHpxn7wJJTCm) | 3:05 | 2021-02-15 |  |
 | [The Hanging Moon](https://open.spotify.com/track/6znb1dls6rehKz9MB7L8Hk) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:30 | 2021-02-15 |  |
 | [The Land of the Sun](https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Land of the Sun](https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre) | 3:58 | 2021-02-15 |  |
-| [The Semuta Jig](https://open.spotify.com/track/4VoptqwF5p1nF5jRaLQH9m) | [Nava](https://open.spotify.com/artist/15QJPcEqdD3lc6zDhMOljR) | [Tapestry](https://open.spotify.com/album/3VzmfQJ0iuFxHC1T3AJ35N) | 5:13 | 2021-02-15 | 2022-05-27 |
+| [The Semuta Jig](https://open.spotify.com/track/4VoptqwF5p1nF5jRaLQH9m) | [Nava](https://open.spotify.com/artist/15QJPcEqdD3lc6zDhMOljR) | [Tapestry](https://open.spotify.com/album/3VzmfQJ0iuFxHC1T3AJ35N) | 5:13 | 2021-02-15 |  |
 | [The Trees We Wear](https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:45 | 2021-02-15 |  |
 | [Yekeshish](https://open.spotify.com/track/2LSfFO6kZSGP6JxsPoQjrF) | [Hossein Alizadeh](https://open.spotify.com/artist/129o0b0q8hAgjrd7jDrbhP), [Ali Jafari Pouyan](https://open.spotify.com/artist/682NaUT4NTC5vkaFhZAZRq), [Behnood Yakhchali](https://open.spotify.com/artist/4yILBBJa570shWHY2IZ2Du) | [Yekeshish](https://open.spotify.com/album/1DuTPc3UotnGJ8M8q1fRsA) | 7:23 | 2021-02-15 |  |
 

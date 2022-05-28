@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-85 songs - 4 hr 43 min - not published yet
+85 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/7BlL5UpDQdx2iXZ9eRyjoI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

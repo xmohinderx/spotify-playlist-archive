@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 424243,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 134213,
       "name": "Baby, Won't You Please Come Home",
       "url": "https://open.spotify.com/track/4iOFAH9FahG23udXHi83G9"
@@ -572,6 +572,24 @@
     },
     {
       "album": {
+        "name": "Jazz p\u00e5 svenska",
+        "url": "https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE"
+      },
+      "artists": [
+        {
+          "name": "Jan Johansson",
+          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207733,
+      "name": "Emigrantvisa",
+      "url": "https://open.spotify.com/track/5kjFu1dBCCqm0RPpjdgRQt"
+    },
+    {
+      "album": {
         "name": "Zoot Sims avec Henri Renaud et son orchestre",
         "url": "https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE"
       },
@@ -785,7 +803,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 315773,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB"
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 179546,
       "name": "I'll Never Smile Again",
       "url": "https://open.spotify.com/track/4KdBR604ZOeCZvY8rA3i2N"
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 247933,
       "name": "I'm A Fool To Want You",
       "url": "https://open.spotify.com/track/6tHYmn2CeK7I34u9F6Y7IL"
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 198066,
       "name": "I'm Gonna Laugh You Right Out Of My Life",
       "url": "https://open.spotify.com/track/2rSVktwe87akiljBLsl0IC"
@@ -1771,7 +1789,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 199080,
       "name": "Say It Isn't So",
       "url": "https://open.spotify.com/track/6Sm8fATeEUr1sSYdD7AY3q"
@@ -2141,7 +2159,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 325400,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/1Ws0kMatfMjIrvEIsApikx"
@@ -2289,7 +2307,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 136933,
       "name": "There's No You",
       "url": "https://open.spotify.com/track/26ORtzOnZdW8K9NgvI3sEj"

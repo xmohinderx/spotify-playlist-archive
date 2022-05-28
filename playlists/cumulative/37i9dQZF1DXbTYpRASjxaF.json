@@ -313,6 +313,10 @@
         {
           "name": "Mc Don Juan",
           "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "DJ 900",
+          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
         }
       ],
       "date_added": "2022-03-18",
@@ -662,6 +666,32 @@
     },
     {
       "album": {
+        "name": "Favorito",
+        "url": "https://open.spotify.com/album/5B4KPPxhlVXX3VlnXPRE8R"
+      },
+      "artists": [
+        {
+          "name": "Helam\u00e3 MC",
+          "url": "https://open.spotify.com/artist/7kq9yE2LY0KzC1f8kyijzJ"
+        },
+        {
+          "name": "VIT\u00c3UFUG3LDS",
+          "url": "https://open.spotify.com/artist/6xrAUD8vhVgjff25UDFHrB"
+        },
+        {
+          "name": "Mc Diouro",
+          "url": "https://open.spotify.com/artist/08KQfADhvzZNtQnplCAIyS"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "Favorito",
+      "url": "https://open.spotify.com/track/45VhB3wPd1YuRVK014kUNs"
+    },
+    {
+      "album": {
         "name": "Festa Linda",
         "url": "https://open.spotify.com/album/0R2B9EUjWq0DNM1RcdZzKn"
       },
@@ -916,6 +946,24 @@
     },
     {
       "album": {
+        "name": "Maluquin",
+        "url": "https://open.spotify.com/album/2aU8z30V3wM8nhoj1C53vo"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Maluquin",
+      "url": "https://open.spotify.com/track/506LRr3SmNRIyP4ShHifJ5"
+    },
+    {
+      "album": {
         "name": "Avisa que \u00e9 o Funk",
         "url": "https://open.spotify.com/album/2jsCve1xB2Gi5fag004Wsh"
       },
@@ -1039,7 +1087,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 138855,
       "name": "Mini Game",
       "url": "https://open.spotify.com/track/4IVbbHg8tOBMx0ltNwGXFQ"
@@ -1229,7 +1277,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 171221,
       "name": "Para\u00edso Perif\u00e9rico",
       "url": "https://open.spotify.com/track/0piW8h3hjHkKfEJu6LzU7j"
@@ -1279,6 +1327,40 @@
     {
       "album": {
         "name": "Pitbull",
+        "url": "https://open.spotify.com/album/3KT6QnUicEf6SBfM3S1ZSO"
+      },
+      "artists": [
+        {
+          "name": "Maquiny",
+          "url": "https://open.spotify.com/artist/0ixIqccVXNU45qPhq3kWex"
+        },
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221217,
+      "name": "Pitbull",
+      "url": "https://open.spotify.com/track/0MIwsK3JVBwujwBuPmJKfh"
+    },
+    {
+      "album": {
+        "name": "Pitbull",
         "url": "https://open.spotify.com/album/6EwvwqxByg8Ll9VJmeqBcc"
       },
       "artists": [
@@ -1289,7 +1371,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 170400,
       "name": "Pitbull",
       "url": "https://open.spotify.com/track/4BbZUFzlbx4mVR1r0Z35x2"
@@ -1337,7 +1419,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 145000,
       "name": "Pra Cima Meu S\u00f3cio",
       "url": "https://open.spotify.com/track/14O5eC5Nv9pY2ILJOcBuqk"
@@ -1491,6 +1573,28 @@
       "duration_ms": 206400,
       "name": "Respeita o Pai",
       "url": "https://open.spotify.com/track/4ixgzWpNnHZOFOiTPAqs3S"
+    },
+    {
+      "album": {
+        "name": "Rainha",
+        "url": "https://open.spotify.com/album/02VJe3Bu8JFtL3xPistxJd"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Revoar",
+      "url": "https://open.spotify.com/track/4IGCXMbnJYWhj8P4UTtxkW"
     },
     {
       "album": {

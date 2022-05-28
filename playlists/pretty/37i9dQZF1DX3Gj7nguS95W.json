@@ -1,12 +1,12 @@
 {
   "description": "New wave took the 70s punk blueprint and ran wild! Cover: Blondie",
-  "num_followers": 738222,
+  "num_followers": 738489,
   "original_name": "Is it New Wave?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzYxMzU5NCwwMDAwMDAwMDc1YzNmZTJiMjQ3NGJjOGY5NTc4N2UyOTNlYjFlNGZi",
+  "snapshot_id": "MTY1MzY5OTkzNCwwMDAwMDAwMDRhN2Q3N2Q5MWQ3Y2UyOGViMDVkNmJlMGIxY2ZmMjlk",
   "tracks": [
     {
       "added_at": "2020-01-14 21:16:41",
@@ -23,22 +23,6 @@
       "duration_ms": 350240,
       "name": "Heart Of Glass [24-Bit Digitally Remastered 01]",
       "url": "https://open.spotify.com/track/5XJ1J9QPxaOzdpkGxKU4lA"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Hatful of Hollow",
-        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 408173,
-      "name": "How Soon Is Now? - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -75,6 +59,22 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 408173,
+      "name": "How Soon Is Now? - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -107,18 +107,18 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Soul Mining",
-        "url": "https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A"
+        "name": "Special Beat Service (Remastered)",
+        "url": "https://open.spotify.com/album/4Y1DZv5OK6rg4ljw2Oj6wP"
       },
       "artists": [
         {
-          "name": "The The",
-          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
         }
       ],
-      "duration_ms": 297066,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/3FjYAj4hg5KiXpVAMjpLKq"
+      "duration_ms": 213933,
+      "name": "Save It For Later",
+      "url": "https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -135,22 +135,6 @@
       "duration_ms": 450800,
       "name": "Blue Monday - 2016 Remaster",
       "url": "https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Three Imaginary Boys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "Boys Don't Cry - Single Version",
-      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -187,6 +171,22 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
         "name": "Talking Heads '77 (Deluxe Version)",
         "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
@@ -219,22 +219,6 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Q: Are We Not Men? A: We Are Devo!",
-        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Uncontrollable Urge",
-      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
         "name": "This Year's Model",
         "url": "https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt"
       },
@@ -247,118 +231,6 @@
       "duration_ms": 196680,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/0JgMHia55MBfhfqZIRi3kF"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Forever Now",
-        "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
-      },
-      "artists": [
-        {
-          "name": "The Psychedelic Furs",
-          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "Love My Way",
-      "url": "https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "The Queen Is Dead",
-        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 244586,
-      "name": "There Is a Light That Never Goes Out - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Stereo-Typical",
-        "url": "https://open.spotify.com/album/4SSam9caILIqSMvntxy03x"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/1RljBZBY72HYDW3NV5Srlq"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Special Beat Service (Remastered)",
-        "url": "https://open.spotify.com/album/4Y1DZv5OK6rg4ljw2Oj6wP"
-      },
-      "artists": [
-        {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Save It For Later",
-      "url": "https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Metro Music",
-        "url": "https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX"
-      },
-      "artists": [
-        {
-          "name": "Martha and the Muffins",
-          "url": "https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Echo Beach",
-      "url": "https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Burning Down the House / I Get Wild / Wild Gravity",
-        "url": "https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Burning Down the House",
-      "url": "https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -379,34 +251,18 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/2ccrabRMmY1gECUdyqblP2"
+        "name": "Stereo-Typical",
+        "url": "https://open.spotify.com/album/4SSam9caILIqSMvntxy03x"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
         }
       ],
-      "duration_ms": 260573,
-      "name": "Every Little Thing She Does Is Magic - Remastered 2003",
-      "url": "https://open.spotify.com/track/5pDmunv6G71w7NSjOPXbYw"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Talk Talk Talk",
-        "url": "https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh"
-      },
-      "artists": [
-        {
-          "name": "The Psychedelic Furs",
-          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
-        }
-      ],
-      "duration_ms": 238106,
-      "name": "Pretty in Pink",
-      "url": "https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy"
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/1RljBZBY72HYDW3NV5Srlq"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -427,130 +283,50 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Atomic/Atomix",
-        "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
+        "name": "Three Imaginary Boys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
       },
       "artists": [
         {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 212600,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY"
+      "duration_ms": 157533,
+      "name": "Boys Don't Cry - Single Version",
+      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
     },
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Entertainment! (Expanded & Remastered) [US Release]",
-        "url": "https://open.spotify.com/album/3ZWcrEHw7bkgEJMyvMLGrO"
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
       },
       "artists": [
         {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
         }
       ],
-      "duration_ms": 206733,
-      "name": "Damaged Goods - Remastered",
-      "url": "https://open.spotify.com/track/2iQvYaOlUcuVgczMtRvAcV"
+      "duration_ms": 191266,
+      "name": "Uncontrollable Urge",
+      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
     },
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Public Image Ltd.",
-        "url": "https://open.spotify.com/album/51UsBsFjLhVVTAa8xXmyI3"
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
       },
       "artists": [
         {
-          "name": "Public Image Ltd.",
-          "url": "https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp"
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
         }
       ],
-      "duration_ms": 378360,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/6u91CCTziobh3twCDMBlEk"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "I Just Can't Stop It (Remastered)",
-        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
-      },
-      "artists": [
-        {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Mirror In the Bathroom",
-      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Cities In Dust",
-      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Outlandos D'Amour",
-        "url": "https://open.spotify.com/album/6EW7DSC8rjwBJIeAc1d7uQ"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Roxanne - Remastered 2003",
-      "url": "https://open.spotify.com/track/0SYRVn2YF7HBscQEmlkpTI"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Town Called Malice",
-      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "The Specials (2002 Remaster)",
-        "url": "https://open.spotify.com/album/7kHtInr7Es2tPk5QJO6y6c"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "A Message to You Rudy - 2002 Remaster",
-      "url": "https://open.spotify.com/track/5dRfBz5ZXJc5gZJsNM04nn"
+      "duration_ms": 244586,
+      "name": "There Is a Light That Never Goes Out - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -571,34 +347,162 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Singles Collection 1979 - 2012",
-        "url": "https://open.spotify.com/album/4GavhGlcrSJXtZMcVjMgz0"
+        "name": "Burning Down the House / I Get Wild / Wild Gravity",
+        "url": "https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ"
       },
       "artists": [
         {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 260519,
-      "name": "Love Like Blood",
-      "url": "https://open.spotify.com/track/1DE4i3wL2lne2pcgmbbvwC"
+      "duration_ms": 241920,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT"
     },
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Billy Idol",
-        "url": "https://open.spotify.com/album/7356ztInCyuUn4iQVdJxGy"
+        "name": "I Just Can't Stop It (Remastered)",
+        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
       },
       "artists": [
         {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
         }
       ],
-      "duration_ms": 250760,
-      "name": "White Wedding - Part 1 - 2001- Remaster",
-      "url": "https://open.spotify.com/track/4zmx3vEPgRPjRT2CszUsZo"
+      "duration_ms": 190333,
+      "name": "Mirror In the Bathroom",
+      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Entertainment! (Expanded & Remastered) [US Release]",
+        "url": "https://open.spotify.com/album/3ZWcrEHw7bkgEJMyvMLGrO"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Damaged Goods - Remastered",
+      "url": "https://open.spotify.com/track/2iQvYaOlUcuVgczMtRvAcV"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Soul Mining",
+        "url": "https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "duration_ms": 297066,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/3FjYAj4hg5KiXpVAMjpLKq"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Forever Now",
+        "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
+      },
+      "artists": [
+        {
+          "name": "The Psychedelic Furs",
+          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "Love My Way",
+      "url": "https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Town Called Malice",
+      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Atomic/Atomix",
+        "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 212600,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Metro Music",
+        "url": "https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX"
+      },
+      "artists": [
+        {
+          "name": "Martha and the Muffins",
+          "url": "https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Echo Beach",
+      "url": "https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Reggatta De Blanc",
+        "url": "https://open.spotify.com/album/5fMAuIxI96lqdSPqUGwlXd"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 290280,
+      "name": "Message In A Bottle - Remastered 2003",
+      "url": "https://open.spotify.com/track/5xD021bM8VbqrhCVhxRozx"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Public Image Ltd.",
+        "url": "https://open.spotify.com/album/51UsBsFjLhVVTAa8xXmyI3"
+      },
+      "artists": [
+        {
+          "name": "Public Image Ltd.",
+          "url": "https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp"
+        }
+      ],
+      "duration_ms": 378360,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/6u91CCTziobh3twCDMBlEk"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -619,6 +523,70 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Cities In Dust",
+      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Talk Talk Talk",
+        "url": "https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh"
+      },
+      "artists": [
+        {
+          "name": "The Psychedelic Furs",
+          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
+        }
+      ],
+      "duration_ms": 238106,
+      "name": "Pretty in Pink",
+      "url": "https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Rebel Yell",
+        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 288533,
+      "name": "Rebel Yell",
+      "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "The Specials (2002 Remaster)",
+        "url": "https://open.spotify.com/album/7kHtInr7Es2tPk5QJO6y6c"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 172600,
+      "name": "A Message to You Rudy - 2002 Remaster",
+      "url": "https://open.spotify.com/track/5dRfBz5ZXJc5gZJsNM04nn"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
@@ -635,8 +603,8 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Reggatta De Blanc",
-        "url": "https://open.spotify.com/album/5fMAuIxI96lqdSPqUGwlXd"
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/2ccrabRMmY1gECUdyqblP2"
       },
       "artists": [
         {
@@ -644,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 290280,
-      "name": "Message In A Bottle - Remastered 2003",
-      "url": "https://open.spotify.com/track/5xD021bM8VbqrhCVhxRozx"
+      "duration_ms": 260573,
+      "name": "Every Little Thing She Does Is Magic - Remastered 2003",
+      "url": "https://open.spotify.com/track/5pDmunv6G71w7NSjOPXbYw"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -683,18 +651,18 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Beauty And The Beat",
-        "url": "https://open.spotify.com/album/1L4HE00En7eNK74voVZums"
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/5cy3t8bW0lNzw9hjCPkRUT"
       },
       "artists": [
         {
-          "name": "The Go-Go's",
-          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
+          "name": "Magazine",
+          "url": "https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs"
         }
       ],
-      "duration_ms": 167960,
-      "name": "Our Lips Are Sealed - Single Version",
-      "url": "https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv"
+      "duration_ms": 244320,
+      "name": "Shot By Both Sides - Remastered",
+      "url": "https://open.spotify.com/track/3aInErz06eEAbRHMnsORR2"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -715,70 +683,6 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "This Year's Model",
-        "url": "https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "Radio, Radio",
-      "url": "https://open.spotify.com/track/4cZ7dGQZi9duyPn1SY2lgU"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Rebel Yell",
-        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 288533,
-      "name": "Rebel Yell",
-      "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Different Light",
-        "url": "https://open.spotify.com/album/2ta5ItEJ00a6xgQ601xgSd"
-      },
-      "artists": [
-        {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
-        }
-      ],
-      "duration_ms": 204560,
-      "name": "Walk Like an Egyptian",
-      "url": "https://open.spotify.com/track/3BGbqEDio3ocx1v4egIYr6"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Heartbeat City (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 234332,
-      "name": "Drive - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
         "name": "Metro Music",
         "url": "https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX"
       },
@@ -795,8 +699,72 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "The Globe",
-        "url": "https://open.spotify.com/album/7bhRilzc9srMwwkJQc3o0e"
+        "name": "Get The Knack",
+        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
+      },
+      "artists": [
+        {
+          "name": "The Knack",
+          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
+        }
+      ],
+      "duration_ms": 295400,
+      "name": "My Sharona",
+      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Billy Idol",
+        "url": "https://open.spotify.com/album/7356ztInCyuUn4iQVdJxGy"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "White Wedding - Part 1 - 2001- Remaster",
+      "url": "https://open.spotify.com/track/4zmx3vEPgRPjRT2CszUsZo"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Outlandos D'Amour",
+        "url": "https://open.spotify.com/album/6EW7DSC8rjwBJIeAc1d7uQ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Roxanne - Remastered 2003",
+      "url": "https://open.spotify.com/track/0SYRVn2YF7HBscQEmlkpTI"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Beauty And The Beat",
+        "url": "https://open.spotify.com/album/1L4HE00En7eNK74voVZums"
+      },
+      "artists": [
+        {
+          "name": "The Go-Go's",
+          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
+        }
+      ],
+      "duration_ms": 167960,
+      "name": "Our Lips Are Sealed - Single Version",
+      "url": "https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "This Is Big Audio Dynamite",
+        "url": "https://open.spotify.com/album/7hPrpRim9NirEQiF4nXi7B"
       },
       "artists": [
         {
@@ -804,9 +772,41 @@
           "url": "https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI"
         }
       ],
-      "duration_ms": 257133,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4gTMIyJJlSuB5BOhbMri6B"
+      "duration_ms": 354626,
+      "name": "E=MC2",
+      "url": "https://open.spotify.com/track/52WaKEZpbiD6aBkmENlj6x"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Singles Collection 1979 - 2012",
+        "url": "https://open.spotify.com/album/4GavhGlcrSJXtZMcVjMgz0"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Love Like Blood",
+      "url": "https://open.spotify.com/track/1DE4i3wL2lne2pcgmbbvwC"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Setting Sons (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4GQmfMtt1JhIQLK3L6p5lo"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 174506,
+      "name": "Going Underground",
+      "url": "https://open.spotify.com/track/6ALPLbDJ9eWVij9ep3Cgf4"
     }
   ],
   "unique_name": "Is it New Wave?",

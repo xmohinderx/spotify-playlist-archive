@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "A quality alternative blend. Cover: Prateek Kuhad",
+  "description": "A quality alternative blend. Cover: Wilco",
   "name": "Grade A",
   "published_playlist_ids": [
     "5atRHR4vc4jlkDH31Rwpnd"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 197032,
       "name": "all my ghosts",
       "url": "https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l"
@@ -924,6 +924,24 @@
     },
     {
       "album": {
+        "name": "Comes In Waves",
+        "url": "https://open.spotify.com/album/0VWYclPPtRUK10Jx7ZfhNX"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330653,
+      "name": "Comes In Waves",
+      "url": "https://open.spotify.com/track/5bLn8Dnmv1MzrQ536k5XdE"
+    },
+    {
+      "album": {
         "name": "concrete",
         "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
       },
@@ -1565,10 +1583,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 196780,
       "name": "Falling Apart (Right Now)",
       "url": "https://open.spotify.com/track/2ekADzomcIrK55TRhpCDVF"
+    },
+    {
+      "album": {
+        "name": "Cruel Country",
+        "url": "https://open.spotify.com/album/67GC6lWDvJ0lUc1aVBXTcT"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196780,
+      "name": "Falling Apart (Right Now)",
+      "url": "https://open.spotify.com/track/7ymVKJumlZvraNZb91d9VJ"
     },
     {
       "album": {
@@ -1691,7 +1727,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 204240,
       "name": "Fruit",
       "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
@@ -1911,6 +1947,24 @@
       "duration_ms": 217066,
       "name": "Hard Working Man",
       "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
+    },
+    {
+      "album": {
+        "name": "Hawk For The Dove",
+        "url": "https://open.spotify.com/album/7f1VQAcjCcX2DHEzt6WjJ0"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227465,
+      "name": "Hawk For The Dove",
+      "url": "https://open.spotify.com/track/0YJeobNNtb6ZBtpk2QwA7B"
     },
     {
       "album": {
@@ -2601,7 +2655,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 223760,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/2h2bAydGjKeCW81EmbrOGs"
@@ -2677,6 +2731,28 @@
       "duration_ms": 438173,
       "name": "Like Exploding Stones",
       "url": "https://open.spotify.com/track/3UEmMEcilrUnd589Nhv5ct"
+    },
+    {
+      "album": {
+        "name": "Little Life",
+        "url": "https://open.spotify.com/album/1jZf7nWznPC9IsXSpRVFBp"
+      },
+      "artists": [
+        {
+          "name": "Frank Turner",
+          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
+        },
+        {
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214893,
+      "name": "Little Life",
+      "url": "https://open.spotify.com/track/4MEEdTG2JEYQ1pgwVIxAy6"
     },
     {
       "album": {
@@ -4194,6 +4270,24 @@
     },
     {
       "album": {
+        "name": "A Collection of Songs Written and Recorded 1995-1997: A Companion",
+        "url": "https://open.spotify.com/album/6vpOt6bD3HmL9bOXdlnCbG"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240800,
+      "name": "Solid Jackson - Companion Version",
+      "url": "https://open.spotify.com/track/6vU6t4UalCVMCzUJKrX3m8"
+    },
+    {
+      "album": {
         "name": "Somebody Desperate (From ''Cyrano'' Soundtrack)",
         "url": "https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv"
       },
@@ -5247,7 +5341,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 189962,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/7Fej4yhXNj3hBFHOrcwiuR"
@@ -5301,7 +5395,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 171398,
       "name": "Wash, Rinse, Repeat",
       "url": "https://open.spotify.com/track/5JeLSgtuw8BoCHVcCfD6s9"
@@ -5659,6 +5753,24 @@
       "duration_ms": 168172,
       "name": "You Will Never Work In Television Again",
       "url": "https://open.spotify.com/track/2Aa4sRrWDddEmVRfAjVjsw"
+    },
+    {
+      "album": {
+        "name": "Long Lost (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280140,
+      "name": "Your Other Life",
+      "url": "https://open.spotify.com/track/4sWZVIOHuTrQOt6mqzMiBE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWT59aKliWtId"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. cassyette
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,210 likes - 84 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,386 likes - 84 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Esto es un perreo a lo Crazy!",
+  "description": "Esto es un perreo a lo Wisin, Yandel, Sech & Jhay Cortez!",
   "name": "Perreo City",
   "published_playlist_ids": [
     "7slpjtiTF4amPLODArmLYt"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 131333,
       "name": "Cuarentena",
       "url": "https://open.spotify.com/track/3NzO25bvpU4lUf8kYvcrd1"
@@ -1253,7 +1253,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 303426,
       "name": "Emojis de Corazones (feat. Los Legendarios)",
       "url": "https://open.spotify.com/track/5Mw46yRtdiOdjqSG0eDItr"
@@ -2344,6 +2344,32 @@
     },
     {
       "album": {
+        "name": "Llueve",
+        "url": "https://open.spotify.com/album/3z4zsIdBVA0vJh8Udz4TJD"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249801,
+      "name": "Llueve",
+      "url": "https://open.spotify.com/track/5yDAnr9USNQTP6ojiWBCvv"
+    },
+    {
+      "album": {
         "name": "Lo Olvidaste",
         "url": "https://open.spotify.com/album/3StSMliOF6G8OLYrsPV3Y0"
       },
@@ -2558,6 +2584,28 @@
     },
     {
       "album": {
+        "name": "Mal\u00e9fica",
+        "url": "https://open.spotify.com/album/5h10dZPmIJpkbFiwrNt8AO"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183413,
+      "name": "Mal\u00e9fica",
+      "url": "https://open.spotify.com/track/3i5cUvzBImLJTLh0koudVl"
+    },
+    {
+      "album": {
         "name": "MARGARITA",
         "url": "https://open.spotify.com/album/1eyhaoTknvItzUpYYLmx6S"
       },
@@ -2761,7 +2809,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 254500,
       "name": "MMC",
       "url": "https://open.spotify.com/track/5CZWyXBHImqHNquAk4coKb"
@@ -3759,6 +3807,24 @@
       "duration_ms": 200533,
       "name": "Qu\u00edmica",
       "url": "https://open.spotify.com/track/6NxXZ70guHDDE5PvnPVRCI"
+    },
+    {
+      "album": {
+        "name": "Q\u00b4Hubo Beb\u00e9",
+        "url": "https://open.spotify.com/album/5mENGsx78U8fn1xigykmwj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180779,
+      "name": "Q\u00b4Hubo Beb\u00e9",
+      "url": "https://open.spotify.com/track/2TPWn36SvcFXT2lEfEvm0p"
     },
     {
       "album": {

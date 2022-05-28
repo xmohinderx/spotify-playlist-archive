@@ -1,28 +1,44 @@
 {
-  "description": "Pacific Northwest music breaking waves. Cover, Taliwoah",
-  "num_followers": 1123,
+  "description": "Pacific Northwest music breaking waves. Cover, Umi",
+  "num_followers": 1126,
   "original_name": "Ripple Effect: PNW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQ3MzMzNywwMDAwMDAxNjAwMDAwMTgwYmYxNjE2ODIwMDAwMDE4MGJhMDNkOTEx",
+  "snapshot_id": "MTY1MzYyNDYzNywwMDAwMDAxNzAwMDAwMTgxMDNiNTg5OWQwMDAwMDE4MTAzYjI3OTk3",
   "tracks": [
     {
-      "added_at": "2022-05-13 04:01:00",
+      "added_at": "2022-05-27 04:10:37",
       "album": {
-        "name": "Imposter Syndrome",
-        "url": "https://open.spotify.com/album/7KvEpMWRvFWivNAcmPNEdR"
+        "name": "Forest in the City",
+        "url": "https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR"
       },
       "artists": [
         {
-          "name": "Taliwhoah",
-          "url": "https://open.spotify.com/artist/69SXADQsOhdGkhPGslLhBT"
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
         }
       ],
-      "duration_ms": 259134,
-      "name": "Imposter Syndrome",
-      "url": "https://open.spotify.com/track/2k3iawF2fQ0uQrN77YnSIW"
+      "duration_ms": 207880,
+      "name": "wish that i could",
+      "url": "https://open.spotify.com/track/5w4q9Es264UdYYr2AjnPhU"
+    },
+    {
+      "added_at": "2022-05-27 04:10:37",
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/3aUjnJstnoWotXysnh5nV6"
+      },
+      "artists": [
+        {
+          "name": "TYuS",
+          "url": "https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au"
+        }
+      ],
+      "duration_ms": 158955,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/7x2ZARlOe2Sjg5WM4VxdJF"
     },
     {
       "added_at": "2022-04-15 07:29:38",
@@ -47,6 +63,42 @@
       "duration_ms": 178085,
       "name": "Rewind It",
       "url": "https://open.spotify.com/track/6mwu4F96qQlAWFU2lgy6E8"
+    },
+    {
+      "added_at": "2022-05-27 04:10:37",
+      "album": {
+        "name": "IT",
+        "url": "https://open.spotify.com/album/1sBt8raGAA8Q5v30iQeH4L"
+      },
+      "artists": [
+        {
+          "name": "The Last Artful, Dodgr",
+          "url": "https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n"
+        }
+      ],
+      "duration_ms": 197572,
+      "name": "IT",
+      "url": "https://open.spotify.com/track/5ZuybXvcMMJJ8ptSOqEYKO"
+    },
+    {
+      "added_at": "2022-05-27 04:10:37",
+      "album": {
+        "name": "special",
+        "url": "https://open.spotify.com/album/3eRu4FxJOkscTArq1ef1mO"
+      },
+      "artists": [
+        {
+          "name": "silly",
+          "url": "https://open.spotify.com/artist/7mNOr2dFFlKJMaLlFjjzL1"
+        },
+        {
+          "name": "Dave B.",
+          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+        }
+      ],
+      "duration_ms": 212169,
+      "name": "special",
+      "url": "https://open.spotify.com/track/1PZWh6Trzj65H4ZZN7TCVz"
     },
     {
       "added_at": "2022-05-13 04:01:00",
@@ -109,47 +161,7 @@
       "url": "https://open.spotify.com/track/1vJfed0RlNaEwhlio4JLm3"
     },
     {
-      "added_at": "2022-04-02 00:21:04",
-      "album": {
-        "name": "River City",
-        "url": "https://open.spotify.com/album/3SJmVt7yTEDCRrsBCkOo1i"
-      },
-      "artists": [
-        {
-          "name": "Savon",
-          "url": "https://open.spotify.com/artist/1Z4kMiUwBM1dkoO6TyXXhn"
-        },
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        }
-      ],
-      "duration_ms": 98000,
-      "name": "River City",
-      "url": "https://open.spotify.com/track/6orAlR80bW83kBu27ShyrG"
-    },
-    {
-      "added_at": "2022-05-13 20:22:17",
-      "album": {
-        "name": "Secrets Keep Friends",
-        "url": "https://open.spotify.com/album/4rf9sIzWYeUGmimR2oTKkQ"
-      },
-      "artists": [
-        {
-          "name": "D.Worthy",
-          "url": "https://open.spotify.com/artist/3erKONJnV1kHT5ksWJLR7y"
-        },
-        {
-          "name": "SADLOKA",
-          "url": "https://open.spotify.com/artist/4GWbqE5gzUI7fFco1vO6Zo"
-        }
-      ],
-      "duration_ms": 122880,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/6sj3QQ03Skwe41fzDzIAJq"
-    },
-    {
-      "added_at": "2022-05-13 04:01:00",
+      "added_at": "2022-05-27 04:10:37",
       "album": {
         "name": "Who's Listening Anyway",
         "url": "https://open.spotify.com/album/52AEsPS0IsOHaVpoxN1EQn"
@@ -158,11 +170,15 @@
         {
           "name": "Zyah Belle",
           "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "ROMderful",
+          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
         }
       ],
-      "duration_ms": 202900,
-      "name": "Sugawater",
-      "url": "https://open.spotify.com/track/09eV7FZA74XEw1y0EIqtEr"
+      "duration_ms": 254377,
+      "name": "I Think That I Love You",
+      "url": "https://open.spotify.com/track/3gG6Yuezs45BE0A8YULmmL"
     },
     {
       "added_at": "2022-03-18 04:33:35",
@@ -181,22 +197,6 @@
       "url": "https://open.spotify.com/track/4CeRJ6jPGlCYAp0REGrKJL"
     },
     {
-      "added_at": "2022-02-18 22:51:59",
-      "album": {
-        "name": "Hullabaloo",
-        "url": "https://open.spotify.com/album/4WfAFQDRh8VNYDVp6H2wIf"
-      },
-      "artists": [
-        {
-          "name": "The Last Artful, Dodgr",
-          "url": "https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n"
-        }
-      ],
-      "duration_ms": 102877,
-      "name": "Hullabaloo",
-      "url": "https://open.spotify.com/track/1zew16SiipS0aoEnnfyXtx"
-    },
-    {
       "added_at": "2022-05-13 04:01:00",
       "album": {
         "name": "Take My Life",
@@ -213,22 +213,6 @@
       "url": "https://open.spotify.com/track/6aN2xdYfNN2ixAlHKDy4zn"
     },
     {
-      "added_at": "2022-02-18 22:51:59",
-      "album": {
-        "name": "Tell Me What To Do",
-        "url": "https://open.spotify.com/album/0dv69CwaPecupmMpu0cocl"
-      },
-      "artists": [
-        {
-          "name": "Lake Stovall",
-          "url": "https://open.spotify.com/artist/1EEuN5YJWn70WP9YkfW38X"
-        }
-      ],
-      "duration_ms": 205777,
-      "name": "Tell Me What To Do",
-      "url": "https://open.spotify.com/track/3kqk3kfgy6ENe1Y6YdrJVH"
-    },
-    {
       "added_at": "2022-05-13 20:22:17",
       "album": {
         "name": "Feed The Family",
@@ -243,6 +227,22 @@
       "duration_ms": 113816,
       "name": "Missin You",
       "url": "https://open.spotify.com/track/3JvASko0o2pw7JgDvIjnYv"
+    },
+    {
+      "added_at": "2022-02-18 22:51:59",
+      "album": {
+        "name": "Tell Me What To Do",
+        "url": "https://open.spotify.com/album/0dv69CwaPecupmMpu0cocl"
+      },
+      "artists": [
+        {
+          "name": "Lake Stovall",
+          "url": "https://open.spotify.com/artist/1EEuN5YJWn70WP9YkfW38X"
+        }
+      ],
+      "duration_ms": 205777,
+      "name": "Tell Me What To Do",
+      "url": "https://open.spotify.com/track/3kqk3kfgy6ENe1Y6YdrJVH"
     },
     {
       "added_at": "2022-05-13 04:01:00",
@@ -277,6 +277,26 @@
       "url": "https://open.spotify.com/track/0VakdQgm4X9oQaI25yGwl9"
     },
     {
+      "added_at": "2022-05-27 04:10:37",
+      "album": {
+        "name": "Missing Peace",
+        "url": "https://open.spotify.com/album/04rfAFc4GONsKxe9iSO8hv"
+      },
+      "artists": [
+        {
+          "name": "Ellis Prescott",
+          "url": "https://open.spotify.com/artist/1CwOqKfnDEm3IkwFyABUNL"
+        },
+        {
+          "name": "MDSoulful",
+          "url": "https://open.spotify.com/artist/7KfV68nnbKjZMwKkn8DqmR"
+        }
+      ],
+      "duration_ms": 283795,
+      "name": "Missing Peace",
+      "url": "https://open.spotify.com/track/53sYcjO9k3bqwqAROL8Z7I"
+    },
+    {
       "added_at": "2022-04-02 00:21:04",
       "album": {
         "name": "Strictly off the Feeling...",
@@ -291,38 +311,6 @@
       "duration_ms": 140591,
       "name": "Mal & Marie",
       "url": "https://open.spotify.com/track/0UuRW7STLKJ61wgCD7DYbG"
-    },
-    {
-      "added_at": "2022-05-13 04:01:00",
-      "album": {
-        "name": "House Of Balloons",
-        "url": "https://open.spotify.com/album/6bjvVLtCPMCNjdRHF5ozAE"
-      },
-      "artists": [
-        {
-          "name": "Connect Zero",
-          "url": "https://open.spotify.com/artist/3k8lBDenIm90lWaSpAYQeH"
-        }
-      ],
-      "duration_ms": 148703,
-      "name": "House",
-      "url": "https://open.spotify.com/track/1aZkNRWDUoDL2TgLvpdghY"
-    },
-    {
-      "added_at": "2022-05-13 04:01:00",
-      "album": {
-        "name": "Sow What? (Phase 3)",
-        "url": "https://open.spotify.com/album/38Wv2sioUiQ318oz007HIg"
-      },
-      "artists": [
-        {
-          "name": "Rell Be Free",
-          "url": "https://open.spotify.com/artist/1ebaUQ17uF7vWeWBWaW1yU"
-        }
-      ],
-      "duration_ms": 141058,
-      "name": "chubby&tubby",
-      "url": "https://open.spotify.com/track/2DWWbyVEzlGdcCv8cjL6GH"
     },
     {
       "added_at": "2022-05-13 04:01:00",
@@ -343,6 +331,22 @@
       "duration_ms": 125375,
       "name": "Gimmie The Loot",
       "url": "https://open.spotify.com/track/7jyjxYyBjZ3OeUNJcdLhxK"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "Sow What? (Phase 3)",
+        "url": "https://open.spotify.com/album/38Wv2sioUiQ318oz007HIg"
+      },
+      "artists": [
+        {
+          "name": "Rell Be Free",
+          "url": "https://open.spotify.com/artist/1ebaUQ17uF7vWeWBWaW1yU"
+        }
+      ],
+      "duration_ms": 141058,
+      "name": "chubby&tubby",
+      "url": "https://open.spotify.com/track/2DWWbyVEzlGdcCv8cjL6GH"
     },
     {
       "added_at": "2022-04-02 00:21:04",
@@ -375,6 +379,26 @@
       "duration_ms": 183053,
       "name": "La Pearla",
       "url": "https://open.spotify.com/track/0luJ1Nj0MJDnL1cbHqsf04"
+    },
+    {
+      "added_at": "2022-05-27 04:10:37",
+      "album": {
+        "name": "Wild Side",
+        "url": "https://open.spotify.com/album/5LQQvVS1iw8jbmJ5vdvXTH"
+      },
+      "artists": [
+        {
+          "name": "Brae Leni",
+          "url": "https://open.spotify.com/artist/5Fnkl0fp52gDxgaBRCB55I"
+        },
+        {
+          "name": "Bosko",
+          "url": "https://open.spotify.com/artist/35vghfijSgjpXlOMDjpLWc"
+        }
+      ],
+      "duration_ms": 176202,
+      "name": "Wild Side",
+      "url": "https://open.spotify.com/track/3jIAKgAvTdL5wT2mDhWcn0"
     },
     {
       "added_at": "2022-04-02 00:21:04",
@@ -525,20 +549,20 @@
       "url": "https://open.spotify.com/track/1Qn8mMhoTxM5hPM1mukzZq"
     },
     {
-      "added_at": "2022-05-13 20:22:17",
+      "added_at": "2022-05-27 04:10:37",
       "album": {
-        "name": "Thank Me Later.",
-        "url": "https://open.spotify.com/album/2JtrmT3a5QSukXcvz0p86U"
+        "name": "Alter Van Gogh",
+        "url": "https://open.spotify.com/album/2nIigXfOOzyVN5PHREcs2c"
       },
       "artists": [
         {
-          "name": "Ty' Shon",
-          "url": "https://open.spotify.com/artist/4xjBRgsIfliJV5GTpT7Kvr"
+          "name": "PMO $howtime",
+          "url": "https://open.spotify.com/artist/04ZMheNMb4UfMn4Up7d1xf"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Lil Minute",
-      "url": "https://open.spotify.com/track/0czj7x56D6yAan6gFON1ON"
+      "duration_ms": 172352,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1V7DLR4xWjbaRkxVuUjnOo"
     },
     {
       "added_at": "2022-05-13 04:01:00",
@@ -555,6 +579,38 @@
       "duration_ms": 183439,
       "name": "Big Plans",
       "url": "https://open.spotify.com/track/0KE8VbYH7Tg7gEXb1xbMPB"
+    },
+    {
+      "added_at": "2022-05-27 04:10:37",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/0gQXLcUXhgYopxCod2XxVX"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Davis",
+          "url": "https://open.spotify.com/artist/5wY7YZCurjPiYRLP1N8GFp"
+        }
+      ],
+      "duration_ms": 104411,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/1ay1QA0DDM07UMlQwbcij7"
+    },
+    {
+      "added_at": "2022-05-27 04:10:37",
+      "album": {
+        "name": "2 NEW SONGS",
+        "url": "https://open.spotify.com/album/1fK5rcnihqCVvT7Kh9g1uj"
+      },
+      "artists": [
+        {
+          "name": "Ghoulavelii",
+          "url": "https://open.spotify.com/artist/6nwEYQKFXGAKvwnUqZUd52"
+        }
+      ],
+      "duration_ms": 74840,
+      "name": "TF U Want",
+      "url": "https://open.spotify.com/track/0oypjP33NW5qnQ8XhYq4j9"
     },
     {
       "added_at": "2022-05-13 20:22:17",
@@ -577,20 +633,20 @@
       "url": "https://open.spotify.com/track/52chiH0NM16dBhBASfDiwf"
     },
     {
-      "added_at": "2022-05-13 04:01:00",
+      "added_at": "2022-05-27 04:10:37",
       "album": {
-        "name": "Enigma",
-        "url": "https://open.spotify.com/album/1Zm3t2Fb7DvhgPORFKVaAe"
+        "name": "Friday The 13th",
+        "url": "https://open.spotify.com/album/117t8tLSym8Inz66CeQNuM"
       },
       "artists": [
         {
-          "name": "Keezy Kay",
-          "url": "https://open.spotify.com/artist/0BxreeuwIADVriLOyYSxBK"
+          "name": "2000Baby",
+          "url": "https://open.spotify.com/artist/14ypVw4JN4L4CE9L8YoDt1"
         }
       ],
-      "duration_ms": 141442,
-      "name": "Big Keez",
-      "url": "https://open.spotify.com/track/006G2tMnOfoGDCC8HO0ScT"
+      "duration_ms": 144068,
+      "name": "Oh Okay",
+      "url": "https://open.spotify.com/track/5ZbXDq63ZjXfm2n0oARV8c"
     },
     {
       "added_at": "2022-04-02 00:21:04",
@@ -625,66 +681,42 @@
       "url": "https://open.spotify.com/track/1rG90DeRmD9reHqMLH4jha"
     },
     {
-      "added_at": "2022-04-02 00:21:04",
+      "added_at": "2022-05-27 04:10:37",
       "album": {
-        "name": "Fall Down",
-        "url": "https://open.spotify.com/album/4mrnbWpOG6nU9U2Q4iFrsL"
-      },
-      "artists": [
-        {
-          "name": "MikeJack3200",
-          "url": "https://open.spotify.com/artist/1DsOlo169ovaAx19956vOb"
-        },
-        {
-          "name": "Mafi D",
-          "url": "https://open.spotify.com/artist/0TboE335UT8BpAg6aSpoAm"
-        }
-      ],
-      "duration_ms": 167741,
-      "name": "Fall Down",
-      "url": "https://open.spotify.com/track/0bMUfwkwwjpMdksq4pDP2m"
-    },
-    {
-      "added_at": "2022-04-02 00:21:04",
-      "album": {
-        "name": "Boss Life",
-        "url": "https://open.spotify.com/album/628pT5P6GsGuejzdyDRLcF"
-      },
-      "artists": [
-        {
-          "name": "Zayside",
-          "url": "https://open.spotify.com/artist/4aV8heTQhaNF3snGZfc6rs"
-        }
-      ],
-      "duration_ms": 150652,
-      "name": "Boss Life",
-      "url": "https://open.spotify.com/track/5XlpwAXCquDOibJHygpwMe"
-    },
-    {
-      "added_at": "2022-04-02 00:21:04",
-      "album": {
-        "name": "Dmanic",
-        "url": "https://open.spotify.com/album/43wchossWHZNY8WQP5tTzy"
+        "name": "Dmaniac Deluxe",
+        "url": "https://open.spotify.com/album/0fPbFHdfzbkBMTJQhT4pG6"
       },
       "artists": [
         {
           "name": "Dmann",
           "url": "https://open.spotify.com/artist/2nCBL8gOThAAnLFlVVeVlH"
-        },
-        {
-          "name": "Maika Million",
-          "url": "https://open.spotify.com/artist/550nfGDwq7E0lxtarPhp2j"
         }
       ],
-      "duration_ms": 155585,
-      "name": "OxyCodine",
-      "url": "https://open.spotify.com/track/1YHFUWzFUjWbu07EnHE8HP"
+      "duration_ms": 163840,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2Y2iw64mxxB8y6PIdPCeVr"
     },
     {
-      "added_at": "2022-04-02 00:21:04",
+      "added_at": "2022-05-27 04:10:37",
       "album": {
-        "name": "Bag Right",
-        "url": "https://open.spotify.com/album/1ufELs9YcOF1mPbrA4cBep"
+        "name": "Enigma",
+        "url": "https://open.spotify.com/album/1Zm3t2Fb7DvhgPORFKVaAe"
+      },
+      "artists": [
+        {
+          "name": "Keezy Kay",
+          "url": "https://open.spotify.com/artist/0BxreeuwIADVriLOyYSxBK"
+        }
+      ],
+      "duration_ms": 175150,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/0JZVhTaxhMQkLNlWHN3esU"
+    },
+    {
+      "added_at": "2022-05-27 04:10:37",
+      "album": {
+        "name": "My woah",
+        "url": "https://open.spotify.com/album/3SCIBaQk0NzyppwAAvzLbs"
       },
       "artists": [
         {
@@ -692,25 +724,9 @@
           "url": "https://open.spotify.com/artist/48AUU9vzI5JFzr6vVL1P9v"
         }
       ],
-      "duration_ms": 193939,
-      "name": "Bag Right",
-      "url": "https://open.spotify.com/track/6T9P4cBsEuy8N1dKjdqkkf"
-    },
-    {
-      "added_at": "2022-04-02 00:21:04",
-      "album": {
-        "name": "NEIGHBORHOOD VILLAN",
-        "url": "https://open.spotify.com/album/6pPbkomZ8kCPdWyb2p8cke"
-      },
-      "artists": [
-        {
-          "name": "NWM ZAY",
-          "url": "https://open.spotify.com/artist/77GD0nBUUcI9N5lVlKBee5"
-        }
-      ],
-      "duration_ms": 117551,
-      "name": "INTRO Pt. 2",
-      "url": "https://open.spotify.com/track/2kXVn149kvwMOCS3VurDZz"
+      "duration_ms": 150858,
+      "name": "My woah",
+      "url": "https://open.spotify.com/track/2z6M2SBWc10nDLDBwgC6QV"
     },
     {
       "added_at": "2022-03-18 04:33:35",
@@ -755,22 +771,6 @@
       "duration_ms": 101701,
       "name": "Beattle",
       "url": "https://open.spotify.com/track/7A7H28DSoMv1k80JAwu2zE"
-    },
-    {
-      "added_at": "2022-05-13 04:01:00",
-      "album": {
-        "name": "Onnat Shit Again",
-        "url": "https://open.spotify.com/album/7GdCCHsOq1Ow8ToY0HehMN"
-      },
-      "artists": [
-        {
-          "name": "MikeJack3200",
-          "url": "https://open.spotify.com/artist/1DsOlo169ovaAx19956vOb"
-        }
-      ],
-      "duration_ms": 177188,
-      "name": "Onnat Shit Again",
-      "url": "https://open.spotify.com/track/7I44IuRrWdtMPk8bb6QQNb"
     },
     {
       "added_at": "2022-05-13 20:22:17",
@@ -863,22 +863,6 @@
       "duration_ms": 109635,
       "name": "Cash Flow",
       "url": "https://open.spotify.com/track/68UYc3hn7mFIN16nrRPIuZ"
-    },
-    {
-      "added_at": "2022-05-13 20:22:17",
-      "album": {
-        "name": "Kash Steppin",
-        "url": "https://open.spotify.com/album/3WW4EROeGHJrv55fGsh59x"
-      },
-      "artists": [
-        {
-          "name": "MikeJack3200",
-          "url": "https://open.spotify.com/artist/1DsOlo169ovaAx19956vOb"
-        }
-      ],
-      "duration_ms": 166532,
-      "name": "Kash Steppin",
-      "url": "https://open.spotify.com/track/2K5VJtzcWcjwbGX8IUrvlP"
     }
   ],
   "unique_name": "Ripple Effect: PNW",

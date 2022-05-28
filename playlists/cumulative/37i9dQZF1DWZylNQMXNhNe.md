@@ -2,9 +2,9 @@
 
 ### [AUGE](https://open.spotify.com/playlist/37i9dQZF1DWZylNQMXNhNe)
 
-> Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Jotta A
+> Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Kika Boom
 
-50 songs - 2 hr 8 min - not published yet
+53 songs - 2 hr 15 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,16 +24,17 @@
 | [FAZ FUMAÇA](https://open.spotify.com/track/2lbg5KCFm2n6hQHMlMdy63) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [FAZ FUMAÇA](https://open.spotify.com/album/7v3bymuI67SlsdARJ90VrG) | 2:33 | 2022-04-29 |  |
 | [Follow Me](https://open.spotify.com/track/0b8RxOVECQKVtkkdi47Cvk) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/4SB9fBomwBWpM0Zqz75Y1V) | 2:57 | 2022-04-29 |  |
 | [GRETA](https://open.spotify.com/track/6Li2optWeB4GobWGCzN4wf) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 | 2022-04-29 |  |
+| [Je ne sais quoi](https://open.spotify.com/track/789gHumetKnbAJhFMBjMWj) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND, PT\. 1](https://open.spotify.com/album/5ELO3riWbb2MbJyZYilN7D) | 2:18 | 2022-05-27 |  |
 | [Larga Esse Boy](https://open.spotify.com/track/4hEchaoOffZgqKtFtJVxTH) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs), [Jáder](https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa) | [Larga Esse Boy](https://open.spotify.com/album/4g4zKDaXPGRjmCdorLbzvW) | 3:17 | 2022-04-29 |  |
 | [LEILÃO](https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LEILÃO](https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL) | 3:07 | 2022-04-29 |  |
-| [Levada](https://open.spotify.com/track/13ZkXMmI3jQZQVJfzrMEMl) | [Maty](https://open.spotify.com/artist/55Ivf0wm5lAa39LedZutaM) | [Levada](https://open.spotify.com/album/25QrTll1GheegB6g4yqiFO) | 2:09 | 2022-04-29 |  |
+| [Levada](https://open.spotify.com/track/13ZkXMmI3jQZQVJfzrMEMl) | [Maty](https://open.spotify.com/artist/55Ivf0wm5lAa39LedZutaM) | [Levada](https://open.spotify.com/album/25QrTll1GheegB6g4yqiFO) | 2:09 | 2022-04-29 | 2022-05-28 |
 | [Lovezinho \- Live](https://open.spotify.com/track/4ieaVMtWEqO8uBimFeOwbj) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [I AM PABLLO \(Live\)](https://open.spotify.com/album/7L8pAdd8pxyiYZZermboxa) | 2:15 | 2022-04-29 |  |
 | [Macetada](https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY) | [PITAYAS](https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R) | [PITAYAS](https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk) | 2:49 | 2022-04-29 |  |
 | [MIL GRAU](https://open.spotify.com/track/4BkjISAYyQ6OMnEpzpQxgA) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/6kAhfgYBxtIQcI2AfMn2nq) | 2:25 | 2022-04-29 |  |
 | [MODO TURBO](https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MODO TURBO](https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt) | 2:30 | 2022-04-29 |  |
 | [Necomancia](https://open.spotify.com/track/7rugGx6BTUaqjTvaoEIDAb) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Pajubá](https://open.spotify.com/album/5xyoM3kQr3FJSGk2CVP6du) | 4:06 | 2022-04-29 |  |
 | [NOITE DE CAÇA](https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [NOITE DE CAÇA](https://open.spotify.com/album/4BpC89Hz3YwISnrcYBfWbH) | 2:38 | 2022-04-29 |  |
-| [Não Tenta](https://open.spotify.com/track/5Jc73Nw398c5Jbs1sTTP65) | [OXA](https://open.spotify.com/artist/4QF8nYOlEY7ZwReHyx8KVT) | [Não Tenta](https://open.spotify.com/album/59S5U5mIZyBSuIdGQkCBLd) | 2:30 | 2022-04-29 |  |
+| [Não Tenta](https://open.spotify.com/track/5Jc73Nw398c5Jbs1sTTP65) | [OXA](https://open.spotify.com/artist/4QF8nYOlEY7ZwReHyx8KVT) | [Não Tenta](https://open.spotify.com/album/59S5U5mIZyBSuIdGQkCBLd) | 2:30 | 2022-04-29 | 2022-05-28 |
 | [PANCADA](https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [TH4I](https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24) | [PANCADA](https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o) | 2:15 | 2022-04-29 |  |
 | [Parabéns](https://open.spotify.com/track/6X0XdIcgwfVa9orJnDMQB0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Parabéns](https://open.spotify.com/album/0rDDD6fyQCUDiwlehEJsnd) | 2:16 | 2022-04-29 |  |
 | [Party Everyday](https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Party Everyday](https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L) | 2:17 | 2022-04-29 |  |
@@ -44,6 +45,7 @@
 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 | 2022-04-29 |  |
 | [S2](https://open.spotify.com/track/3rg977NzneilMptUTSIakF) | [Quebrada Queer](https://open.spotify.com/artist/4IE6ncOiPoXKI9Ze7THZ2D) | [HoloForte](https://open.spotify.com/album/5oeLKQXeD3LncbWTxodVpy) | 0:47 | 2022-04-29 |  |
 | [SURRA](https://open.spotify.com/track/1tNTim1EMqV5UXIsaeaRkS) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY) | [SURRA](https://open.spotify.com/album/0JuHQR7gegmdTnIS1Gswbg) | 2:08 | 2022-04-29 |  |
+| [TAQUEI](https://open.spotify.com/track/1lspAjQFDEZckwPuwwVnj1) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P) | [TAQUEI](https://open.spotify.com/album/5XMPCF2nDlIVcULGoXzgJv) | 2:00 | 2022-05-27 |  |
 | [Tcheca](https://open.spotify.com/track/7aUZM3W6RA8k47eqP985Kc) | [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Epica](https://open.spotify.com/album/4HAsgqQ8DFhc0X9SBmTbNg) | 2:58 | 2022-04-29 |  |
 | [Te Deixo Crazy](https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Te Deixo Crazy](https://open.spotify.com/album/6GhQsV31Iz1edjKeAD6fan) | 2:44 | 2022-04-29 |  |
 | [Tentação](https://open.spotify.com/track/0U5kY6qm3RtQdOeQ3BqpSs) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Beijo De Judas](https://open.spotify.com/album/4LQYnCZhSWeT2aO0O2dQFw) | 2:54 | 2022-04-29 |  |
@@ -56,7 +58,8 @@
 | [VIP \*\-\*](https://open.spotify.com/track/2upubCYkDvATo6ZZwHqrp9) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:56 | 2022-04-29 |  |
 | [Volte Sempre](https://open.spotify.com/track/2sfDXK05Z5q5j40nay1qKW) | [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [Potyguara Bardo](https://open.spotify.com/artist/1GA8PoLYhHREPKuYYB5A3B) | [Volte Sempre](https://open.spotify.com/album/37oV9S4IOlJrva2i2UZpMO) | 2:52 | 2022-04-29 |  |
 | [VRAU](https://open.spotify.com/track/3oNteV2lmIV0R19Jalc7Pd) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY) | [LIA \(pt.1\)](https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX) | 2:17 | 2022-04-29 |  |
-| [Água na Boca](https://open.spotify.com/track/4w5EDVcVBhyiU1dqKSgzmY) | [Henrique Vivazz](https://open.spotify.com/artist/2ePCcIOWC5jMwJpfjPnK0l), [Mattheuza](https://open.spotify.com/artist/0bbl0wt6IHo60LcfCCVLvz), [Gil Germano](https://open.spotify.com/artist/6ngKdUCuSV2MsmsuqlBkmc) | [Água na Boca](https://open.spotify.com/album/7ywcGnANRhRyC2W4RaNjDW) | 1:55 | 2022-04-29 |  |
+| [YOU BETTA](https://open.spotify.com/track/1GXq6pCjNVJ7n1VR8WujbT) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [YOU BETTA](https://open.spotify.com/album/7JATn4R1pfGHeKkNftncwI) | 2:46 | 2022-05-27 |  |
+| [Água na Boca](https://open.spotify.com/track/4w5EDVcVBhyiU1dqKSgzmY) | [Henrique Vivazz](https://open.spotify.com/artist/2ePCcIOWC5jMwJpfjPnK0l), [Mattheuza](https://open.spotify.com/artist/0bbl0wt6IHo60LcfCCVLvz), [Gil Germano](https://open.spotify.com/artist/6ngKdUCuSV2MsmsuqlBkmc) | [Água na Boca](https://open.spotify.com/album/7ywcGnANRhRyC2W4RaNjDW) | 1:55 | 2022-04-29 | 2022-05-28 |
 | [Éden](https://open.spotify.com/track/70BE8zAy2Odekx0zNnT9vO) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Éden](https://open.spotify.com/album/7GD9Q2dIsisdNZTIDAae18) | 2:58 | 2022-04-29 |  |
 
 \*This playlist was first scraped on 2022-05-27. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > استمع لافضل الأغاني العراقية! الغلاف: سيف نبيل
 
-60 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/6qCoMQiIkaLI2EbjrFZXmX)
+61 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/6qCoMQiIkaLI2EbjrFZXmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Henain](https://open.spotify.com/track/3suQDOXGODa1MrFFnvJtFv) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Henain](https://open.spotify.com/album/0sTZwBd1iLGi7BAraWy0ex) | 3:08 | 2022-05-06 |  |
 | [Heyya Ala Allah](https://open.spotify.com/track/2TW62JI3FoBG6NUrMH83cg) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Heyya Ala Allah](https://open.spotify.com/album/1Soc8OCAxYycuELmaLibGV) | 3:16 | 2022-05-06 |  |
 | [Hodhnak Mawtni](https://open.spotify.com/track/6GFJrwSjvqZsVgwWaMXs9D) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Hodhnak Mawtni](https://open.spotify.com/album/71oFQ2qJ3Qza57Qh5mLVco) | 3:31 | 2022-05-06 |  |
+| [Housat Al\-Ased](https://open.spotify.com/track/0nBNzq38wLMVAh91bC5Eyl) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Housat Al\-Ased](https://open.spotify.com/album/2aSjEA9gC5J08NtTlKGRqG) | 4:04 | 2022-05-27 |  |
 | [Kalby Jobarny \- Live](https://open.spotify.com/track/00LX4aUgpDFG4zZO1H3Lx8) | [Yasser Abd El Wahab](https://open.spotify.com/artist/22Alyz1Ir6G94r9EDTtf21) | [Qalby Jobarny](https://open.spotify.com/album/7wPO7bqctfEFgCmwwMXROB) | 3:59 | 2022-05-06 |  |
 | [Kan Yama Kan](https://open.spotify.com/track/2fyhhvk4p68ZFO6jZbslKo) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Kan Yama Kan](https://open.spotify.com/album/2aFomGR5D23tI9AsnstmZ7) | 4:59 | 2022-05-06 |  |
 | [Kathurat Aalayh Alhumum](https://open.spotify.com/track/1x5TmYqbHRD4gIduC2gjyZ) | [Hussain Ghazal](https://open.spotify.com/artist/1dbZLkKMOFCuCouMiGfXXF) | [Kathurat Aalayh Alhumum](https://open.spotify.com/album/0u6SaVqxjfZ0ylwLDOP1jj) | 3:18 | 2022-05-25 |  |

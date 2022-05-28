@@ -2,9 +2,9 @@
 
 ### [K\-Webtoon OSTs \(웹툰 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular animation & webtoon OSTs now! \(Cover: The Crush of Spring\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요! \(커버: 춘정지란\)
+> Meet the popular animation & webtoon OSTs now! \(Cover: Love Revolution\(연애혁명\)\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요!
 
-55 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
+58 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,10 +19,13 @@
 | [Crush on you \(No brakes for your curves\)](https://open.spotify.com/track/5eHVjWcQKMsTRwT6OtJd0q) | [Jeong Yu Jin](https://open.spotify.com/artist/1XtBI35SSGjQXm1auxDOmD), [Sujin](https://open.spotify.com/artist/1CO3fh4c1J46zsUWpHMITX) | [Crush on you \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/5vwF93uqQGNxV1BiDuWqqr) | 3:08 | 2022-05-09 |  |
 | [Cry Baby](https://open.spotify.com/track/7vBX6cVsCPFSx2C58hpZ4f) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Cry Baby](https://open.spotify.com/album/0OWATchDPifiDyvGEf2ddO) | 4:00 | 2022-05-09 |  |
 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 | 2022-05-09 |  |
+| [Drip Drip Drip](https://open.spotify.com/track/1rfYUwAohM9nZJbscZFCWl) | [YEO\-EUN](https://open.spotify.com/artist/16fjppxQxQKpRH2Z1FUxww) | [The Crush Of Spring OST Part.1](https://open.spotify.com/album/1ayPFczFbalnsDqBh92GoP) | 3:42 | 2022-05-27 |  |
 | [Drive Away](https://open.spotify.com/track/6QE9JHwECUV28SeCVk4zO1) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Drive Away \(Marriage Or Death X SURAN\)](https://open.spotify.com/album/2IbKSIHCu6c5Tfw5SjbDCA) | 3:29 | 2022-05-09 |  |
 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 | 2022-05-09 |  |
 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 | 2022-05-09 |  |
 | [Half of Half](https://open.spotify.com/track/4yAaTghM4WlFmkcMn8OltI) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Hanyang Diaries, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2HtX81YADYdTbNt4wlpcCS) | 3:29 | 2022-05-09 |  |
+| [Hold me …](https://open.spotify.com/track/6mglxgJ3ZV9WDFOVTgTFvi) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [The Crush Of Spring OST Part.3](https://open.spotify.com/album/6cxI2NnSA8YBlHJip1mdji) | 3:44 | 2022-05-27 |  |
+| [I Don't Want To Say Goodbye](https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj) | [Shin Ye\-Young](https://open.spotify.com/artist/1edt5QwC6e1YtAkYuMCOci) | [Love Revolution \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN) | 5:06 | 2022-05-27 |  |
 | [I feel you \(My life is in your hands X Yeo Eun\)](https://open.spotify.com/track/1DJY4YIgrOqvV6dgDG7pZK) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [이번 생도 잘 부탁해 \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/1N6PHZyXcosA53JZgqfkZC) | 3:46 | 2022-05-09 |  |
 | [I Like You, But Got Tired of Liking You](https://open.spotify.com/track/3zQBBTKaHLNp633PCHTHOQ) | [Oisobagi](https://open.spotify.com/artist/5VHe33YC6hsyT9QXtAHVB5) | [Naver webtoon 'Love Revolution' \(Original Soundtrack\)](https://open.spotify.com/album/097XnpiY8MwxhW7fpkONsh) | 4:16 | 2022-05-09 |  |
 | [I will give you all](https://open.spotify.com/track/1LSixbz3eBJ6H71F3lCl6y) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [The Legendary Moonlight Sculptor Webtoon OST Part.1](https://open.spotify.com/album/59qfAfD31VSn7lYtfqCh5K) | 3:43 | 2022-05-09 |  |

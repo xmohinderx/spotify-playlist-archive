@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTIN6XNquoW.md) - [plain]
 
 > Jam and remember the time with this collection of hits by the <a href="spotify:artist:3fMbdgg4jU18AjLCKBhRSm">King of Pop</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,248,472 likes - 64 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,249,227 likes - 65 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,5 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTIN6XNquoW.md) - [plain]
 | 62 | [A Place With No Name](https://open.spotify.com/track/35SI5zFEhOeo4XDBMwS41S) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [XSCAPE](https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ) | 5:35 |
 | 63 | [The Lady in My Life](https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:00 |
 | 64 | [This Is It](https://open.spotify.com/track/5XaOvJcyNBNXRohL3eB9dL) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Michael Jackson's This Is It](https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm) | 3:36 |
+| 65 | [Michael Jackson x Mark Ronson: Diamonds are Invincible](https://open.spotify.com/track/7jRs0CvNctNBNH1roANQdY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Michael Jackson x Mark Ronson: Diamonds are Invincible](https://open.spotify.com/album/6ST7naJFCe9iBeOleU5Ccu) | 5:00 |
 
-Snapshot ID: `MTY1MzU1OTIxMCwwMDAwMDAyYTAwMDAwMTgwZmZjZjMzNTUwMDAwMDE2ZDAwYmZmNDcz`
+Snapshot ID: `MTY1MzY0OTYyOSwwMDAwMDAyYjAwMDAwMTgxMDUzMmRmNmUwMDAwMDE2ZDAwYmZmNDcz`

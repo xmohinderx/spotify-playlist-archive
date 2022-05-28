@@ -970,6 +970,24 @@
     },
     {
       "album": {
+        "name": "Obi-Wan (From \"Obi-Wan Kenobi\")",
+        "url": "https://open.spotify.com/album/2rP5W8xXmYH2cKTuZVgPUG"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245920,
+      "name": "Obi-Wan - From \"Obi-Wan Kenobi\"",
+      "url": "https://open.spotify.com/track/0UvXARxghc7E5grZSpGArl"
+    },
+    {
+      "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,829 likes - 107 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,882 likes - 107 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 106 | [Legends](https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge) | [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [A Present For The Future](https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5) | 9:11 |
 | 107 | [Chicken](https://open.spotify.com/track/4IDdUssauEYJ9kTit6tOU6) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX), [Peter Lübke](https://open.spotify.com/artist/0YktrlH17JaZBzywJCcNma), [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Broadway Blues](https://open.spotify.com/album/7sZtHAjAPbZmch3HLiA3g7) | 5:51 |
 
-Snapshot ID: `MTY1MzAxOTMyMSwwMDAwMDA0YjAwMDAwMTgwZGZhMTIzMzMwMDAwMDE3ZDk1ZTVkN2E3`
+Snapshot ID: `MTY1MzYyNDEyMCwwMDAwMDA0YzAwMDAwMTgxMDNhZGEzMWEwMDAwMDE3ZDk1ZTVkN2E3`

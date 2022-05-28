@@ -4,7 +4,7 @@
 
 > 01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100
 
-90 songs - 6 hr 16 min - not published yet
+90 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/3QfjFdmBC3jioryCEPHkRe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

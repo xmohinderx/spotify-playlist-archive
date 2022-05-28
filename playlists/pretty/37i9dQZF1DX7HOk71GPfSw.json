@@ -1,12 +1,12 @@
 {
   "description": "Cover: ericdoa",
-  "num_followers": 321628,
+  "num_followers": 321762,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQxMzM5NywwMDAwMDE2NTAwMDAwMTgwZjcxZTQ0ZjAwMDAwMDE4MGRkMDY3OTYx",
+  "snapshot_id": "MTY1MzY2MjQ4NywwMDAwMDE2NzAwMDAwMTgxMDVmNzEzNTkwMDAwMDE4MGRkMDY3OTYx",
   "tracks": [
     {
       "added_at": "2022-05-20 06:10:00",
@@ -45,6 +45,74 @@
       "url": "https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ"
     },
     {
+      "added_at": "2022-05-27 07:02:00",
+      "album": {
+        "name": "Get What You Want",
+        "url": "https://open.spotify.com/album/0dozzz1Bk0ou1zzYVw7mug"
+      },
+      "artists": [
+        {
+          "name": "Cylriel",
+          "url": "https://open.spotify.com/artist/2lirEgmj90T0T34WR4VISI"
+        },
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Get What You Want",
+      "url": "https://open.spotify.com/track/4P2KpTXbhif8Ca7Cwj97Cs"
+    },
+    {
+      "added_at": "2022-05-27 07:02:00",
+      "album": {
+        "name": "blisters",
+        "url": "https://open.spotify.com/album/7j4Bqy09sCvq8TPhbGcMZb"
+      },
+      "artists": [
+        {
+          "name": "kmoe",
+          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
+        }
+      ],
+      "duration_ms": 153234,
+      "name": "blisters",
+      "url": "https://open.spotify.com/track/6wTll2QD0PJ6uTwZJ3vgfO"
+    },
+    {
+      "added_at": "2022-05-27 07:02:00",
+      "album": {
+        "name": "Be Like Me",
+        "url": "https://open.spotify.com/album/02IfUb431PzQxDWeQgq1k5"
+      },
+      "artists": [
+        {
+          "name": "GOM",
+          "url": "https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu"
+        }
+      ],
+      "duration_ms": 150248,
+      "name": "Be Like Me",
+      "url": "https://open.spotify.com/track/5yfmowSTfunM4Uqu6Bw7VN"
+    },
+    {
+      "added_at": "2022-05-20 06:10:00",
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/7zAwmUBWwTIuRfzjcSj07T"
+      },
+      "artists": [
+        {
+          "name": "dwilly",
+          "url": "https://open.spotify.com/artist/3XyvBNwsPBVhCXoYLNNQ84"
+        }
+      ],
+      "duration_ms": 140869,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/5C3uNuSKnkDwV2xUqFIiZp"
+    },
+    {
       "added_at": "2022-05-20 06:10:00",
       "album": {
         "name": "SuperPop!",
@@ -69,20 +137,108 @@
       "url": "https://open.spotify.com/track/13oXjTxej0sc8J8rG8rPOC"
     },
     {
-      "added_at": "2022-05-20 06:10:00",
+      "added_at": "2022-01-14 18:09:29",
       "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/7zAwmUBWwTIuRfzjcSj07T"
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
       },
       "artists": [
         {
-          "name": "dwilly",
-          "url": "https://open.spotify.com/artist/3XyvBNwsPBVhCXoYLNNQ84"
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
         }
       ],
-      "duration_ms": 140869,
-      "name": "dopamine",
-      "url": "https://open.spotify.com/track/5C3uNuSKnkDwV2xUqFIiZp"
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
+      "added_at": "2022-05-27 07:02:00",
+      "album": {
+        "name": "Intrusive",
+        "url": "https://open.spotify.com/album/4GC9GlW36nuWLHospvejOq"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 124683,
+      "name": "Intrusive",
+      "url": "https://open.spotify.com/track/04ga1GTMPJPYTBTVCrDts8"
+    },
+    {
+      "added_at": "2022-05-27 07:02:00",
+      "album": {
+        "name": "make me feel so... (feat. Dadi Freyr)",
+        "url": "https://open.spotify.com/album/1AkJAO5hauYqN2E1jxRB61"
+      },
+      "artists": [
+        {
+          "name": "Montaigne",
+          "url": "https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b"
+        },
+        {
+          "name": "Da\u00f0i Freyr",
+          "url": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "make me feel so... (feat. Dadi Freyr)",
+      "url": "https://open.spotify.com/track/4NgaH6iLk9uJuGGiY67LBY"
+    },
+    {
+      "added_at": "2022-05-27 07:02:00",
+      "album": {
+        "name": "Alice / Buckingham",
+        "url": "https://open.spotify.com/album/78ame0sl1YXuFyn78kqJfz"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "duration_ms": 214729,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/5N65g3jn0L4jNbghI09NAC"
+    },
+    {
+      "added_at": "2022-05-27 07:02:00",
+      "album": {
+        "name": "mt fuji",
+        "url": "https://open.spotify.com/album/1csjl8kXXVuP5nzKwuqfMG"
+      },
+      "artists": [
+        {
+          "name": "i9bonsai",
+          "url": "https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3"
+        }
+      ],
+      "duration_ms": 192905,
+      "name": "mt fuji",
+      "url": "https://open.spotify.com/track/35HGf3Vy2S83VOVE5ST4Gm"
+    },
+    {
+      "added_at": "2022-05-27 07:02:00",
+      "album": {
+        "name": "Full Circle (William Crooks Remix)",
+        "url": "https://open.spotify.com/album/40rTmUprramNnl93N5Fjtd"
+      },
+      "artists": [
+        {
+          "name": "Wave Racer",
+          "url": "https://open.spotify.com/artist/147jymD5t0TCXW0DbaXry0"
+        },
+        {
+          "name": "William Crooks",
+          "url": "https://open.spotify.com/artist/6RQSaarEM4qarzwuWvKvPw"
+        }
+      ],
+      "duration_ms": 159846,
+      "name": "Full Circle - William Crooks Remix",
+      "url": "https://open.spotify.com/track/4ALJcAs0hpc0lHfYqHf4Ll"
     },
     {
       "added_at": "2022-05-13 04:17:00",
@@ -105,6 +261,82 @@
       "url": "https://open.spotify.com/track/7IpmgwR3K4wFzWTS1ESWZj"
     },
     {
+      "added_at": "2022-05-27 07:02:00",
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/5xjCB2NNcQfbPpw7eqNto0"
+      },
+      "artists": [
+        {
+          "name": "GLOWSTONE",
+          "url": "https://open.spotify.com/artist/40ZUoJmPAI5eVg88y2l8Cj"
+        },
+        {
+          "name": "MADI",
+          "url": "https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0"
+        },
+        {
+          "name": "sober rob",
+          "url": "https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF"
+        }
+      ],
+      "duration_ms": 250370,
+      "name": "FORMULA ONE",
+      "url": "https://open.spotify.com/track/63cMz7A9RmlkXgWTKmIGpY"
+    },
+    {
+      "added_at": "2022-05-27 07:02:00",
+      "album": {
+        "name": "eviscerated",
+        "url": "https://open.spotify.com/album/4oTHxOTiahksFc5u4HZLbL"
+      },
+      "artists": [
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        }
+      ],
+      "duration_ms": 122448,
+      "name": "packgotmyeyeslow",
+      "url": "https://open.spotify.com/track/1EHxDbRpmcHF9ZQyNz2sd8"
+    },
+    {
+      "added_at": "2022-05-27 07:02:00",
+      "album": {
+        "name": "dune",
+        "url": "https://open.spotify.com/album/1dsKxU3rVrWFDDg7PDskV9"
+      },
+      "artists": [
+        {
+          "name": "Planet 1999",
+          "url": "https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe"
+        }
+      ],
+      "duration_ms": 149887,
+      "name": "dune",
+      "url": "https://open.spotify.com/track/5m8eFMfMToHYKRoxgJVRfw"
+    },
+    {
+      "added_at": "2022-05-27 07:02:00",
+      "album": {
+        "name": "FALLING",
+        "url": "https://open.spotify.com/album/6m2F75Tg6uJjTCS00PwYr1"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "Rxl",
+          "url": "https://open.spotify.com/artist/6Bi1y0jGmBzmeMRGiDjwjm"
+        }
+      ],
+      "duration_ms": 165818,
+      "name": "FALLING",
+      "url": "https://open.spotify.com/track/0YzNxZ9TbNNoj83aVDMEFM"
+    },
+    {
       "added_at": "2022-05-20 06:10:00",
       "album": {
         "name": "things with wings",
@@ -119,6 +351,90 @@
       "duration_ms": 108363,
       "name": "cheap liquor",
       "url": "https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY"
+    },
+    {
+      "added_at": "2022-05-27 07:02:00",
+      "album": {
+        "name": "On the Run",
+        "url": "https://open.spotify.com/album/4AFOZiDPI60QraLZfYSCKE"
+      },
+      "artists": [
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        },
+        {
+          "name": "Robel Ketema",
+          "url": "https://open.spotify.com/artist/4lTkauCDOkrOB493HZOzhK"
+        }
+      ],
+      "duration_ms": 162484,
+      "name": "On the Run",
+      "url": "https://open.spotify.com/track/2ESLUWMnmPMIuON960BHtP"
+    },
+    {
+      "added_at": "2022-05-27 07:02:00",
+      "album": {
+        "name": "crazy",
+        "url": "https://open.spotify.com/album/4xcV6vXyM9tCuQ8LHCFLSl"
+      },
+      "artists": [
+        {
+          "name": "kuru",
+          "url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
+        },
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        },
+        {
+          "name": "blxty",
+          "url": "https://open.spotify.com/artist/6xCkHWTLdUoEckl5YD0S7p"
+        },
+        {
+          "name": "grandee",
+          "url": "https://open.spotify.com/artist/3y55m0N1avYIR8xavgoztD"
+        }
+      ],
+      "duration_ms": 182630,
+      "name": "crazy",
+      "url": "https://open.spotify.com/track/6C33GkwvrnW7kQbGeR16Pw"
+    },
+    {
+      "added_at": "2022-05-27 07:02:00",
+      "album": {
+        "name": "cherubim",
+        "url": "https://open.spotify.com/album/0NLgTwP32m8ssNvnQhuyUF"
+      },
+      "artists": [
+        {
+          "name": "dashie",
+          "url": "https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl"
+        },
+        {
+          "name": "creativeravine",
+          "url": "https://open.spotify.com/artist/1qqyupVHMvCqBTTqM0c6FU"
+        }
+      ],
+      "duration_ms": 231231,
+      "name": "cherubim",
+      "url": "https://open.spotify.com/track/68xfpiLeA0Plr76bOYeCev"
+    },
+    {
+      "added_at": "2022-05-27 07:02:00",
+      "album": {
+        "name": "abandon all hope",
+        "url": "https://open.spotify.com/album/6uvplWxNzF7OxaKBMxwhWH"
+      },
+      "artists": [
+        {
+          "name": "Vaeo",
+          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
+        }
+      ],
+      "duration_ms": 116307,
+      "name": "abandon all hope",
+      "url": "https://open.spotify.com/track/36oBmiS0UUSSdSlhr08tyF"
     },
     {
       "added_at": "2022-05-20 06:10:00",
@@ -179,22 +495,6 @@
       "duration_ms": 133282,
       "name": "DEVIL IN MY HEAD",
       "url": "https://open.spotify.com/track/5dmvNunpW65vzsayFi3ZUG"
-    },
-    {
-      "added_at": "2022-01-14 18:09:29",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
       "added_at": "2022-05-20 06:10:00",
@@ -499,22 +799,6 @@
       "duration_ms": 196896,
       "name": "Doritos & Fritos",
       "url": "https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV"
-    },
-    {
-      "added_at": "2022-05-06 06:31:00",
-      "album": {
-        "name": "MATRIX",
-        "url": "https://open.spotify.com/album/4KwW9lAthRqtz2DpVpaQgT"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "MATRIX",
-      "url": "https://open.spotify.com/track/0DyEnrW1MGBHA1sRLb2eGp"
     },
     {
       "added_at": "2022-05-06 06:31:00",
@@ -943,26 +1227,6 @@
       "duration_ms": 125647,
       "name": "if u cant beat em join em",
       "url": "https://open.spotify.com/track/1F5p6Va3wnHHSdbqFjvVSr"
-    },
-    {
-      "added_at": "2022-04-22 06:42:00",
-      "album": {
-        "name": "knowitall",
-        "url": "https://open.spotify.com/album/0hYt4hMh5BlioUcbLLluiK"
-      },
-      "artists": [
-        {
-          "name": "dashie",
-          "url": "https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl"
-        },
-        {
-          "name": "angelicxmei",
-          "url": "https://open.spotify.com/artist/25lA56RftdPBfoioFvkjgw"
-        }
-      ],
-      "duration_ms": 126991,
-      "name": "knowitall",
-      "url": "https://open.spotify.com/track/07u33h8ZMJ8BtCcQNbSKzV"
     },
     {
       "added_at": "2022-04-08 15:04:07",

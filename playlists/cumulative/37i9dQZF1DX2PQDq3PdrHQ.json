@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "Instrumental beats for a restful night's sleep.",
   "name": "lofi sleep",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "23A7fnWUHMhejMeGoVNotd"
+  ],
   "tracks": [
     {
       "album": {
@@ -871,6 +873,28 @@
       "duration_ms": 193548,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/6axAMEYaKvoWeiJ0SKZtco"
+    },
+    {
+      "album": {
+        "name": "Earth",
+        "url": "https://open.spotify.com/album/1BuYIb4XEkRMNyoaNiiXvn"
+      },
+      "artists": [
+        {
+          "name": "NK Music",
+          "url": "https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi"
+        },
+        {
+          "name": "Milkz",
+          "url": "https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162262,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3drud7eHl6FHoVOfKn1o4I"
     },
     {
       "album": {

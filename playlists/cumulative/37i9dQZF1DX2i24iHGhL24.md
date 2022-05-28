@@ -2,9 +2,9 @@
 
 ### [Pop Covers](https://open.spotify.com/playlist/37i9dQZF1DX2i24iHGhL24)
 
-> Reimagined pop covers of your favorite songs\.  Cover: Alessia Cara
+> Reimagined pop covers of your favorite songs\.  Cover: Kelly Clarkson
 
-276 songs - 15 hr 53 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+280 songs - 16 hr 6 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bad At Love \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Spotify Singles](https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV) | 3:01 | 2022-03-25 | 2022-04-16 |
 | [Bad Guy \(feat\. Nef Medina\) \- Acoustic](https://open.spotify.com/track/5rKJxlqn2kvE6XubwHup2j) | [Jerry Cortez](https://open.spotify.com/artist/047MRd7bndVM4oh2gV0Mri), [Nef Medina](https://open.spotify.com/artist/1x9aBTOQP8VjLBgKVm81K6) | [Bad Guy \(feat\. Nef Medina\) \- Acoustic](https://open.spotify.com/album/2sfMeolJ1kFnmIQDD8jLnZ) | 2:30 | 2021-12-17 | 2022-05-02 |
 | [bad guy \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66wi6NRfwsula1n68bJEod) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 2:47 | 2021-12-17 |  |
+| [Bam Bam \- Acoustic](https://open.spotify.com/track/4FsAUJTLWdlX3Z39VMszA4) | [Joey Stamper](https://open.spotify.com/artist/6t70simaQ2YQHec8QqhiwD), [Jacquelyn George](https://open.spotify.com/artist/4aWEpZwvlSTBDRtyNM3eUX) | [Bam Bam \(Acoustic\)](https://open.spotify.com/album/1Z2GecoW9ZMdzhTIbaW3er) | 2:23 | 2022-05-27 |  |
 | [Beautiful Girls](https://open.spotify.com/track/0y3WZptgplYKEt8nvmJAa6) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [Beautiful Girls](https://open.spotify.com/album/05evhzQC7DuCaRuN7KxQik) | 4:05 | 2021-12-17 |  |
 | [Bedroom](https://open.spotify.com/track/1AHqOMEetDV9sTnQk0mzRD) | [All The Damn Vampires](https://open.spotify.com/artist/2U0OKMms9WuTVQztib78cH), [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Bedroom](https://open.spotify.com/album/4AhQ7kDIHJKi8Q00zgHGdb) | 3:02 | 2022-04-15 |  |
 | [Before You Go](https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Before You Go](https://open.spotify.com/album/3SewgCi6w47DDbwSZvZnyq) | 3:53 | 2021-12-17 |  |
@@ -110,6 +111,7 @@
 | [Halo](https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [The Bluebird of Happiness](https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX) | 4:29 | 2022-03-25 | 2022-04-21 |
 | [Halo](https://open.spotify.com/track/3Jj7wTQ4xkC1xYz0q0M4TD) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Halo](https://open.spotify.com/album/3GmA1W7zAKUtEUpLjX8pFQ) | 4:27 | 2021-12-17 |  |
 | [Happier](https://open.spotify.com/track/6D7bcHnna58Wr19nWky3Aa) | [Connor Mac](https://open.spotify.com/artist/0ewkJHx3irbZZrVrO4wOT6) | [Happier](https://open.spotify.com/album/3tWvzYH4IoD0dxcIDX6brR) | 3:39 | 2021-12-17 |  |
+| [Happier Than Ever](https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Happier Than Ever](https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO) | 4:14 | 2022-05-27 |  |
 | [Harmony Hall](https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Covers](https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF) | 4:57 | 2021-12-17 | 2022-05-02 |
 | [Havana \- Recorded at RAK Studios, London](https://open.spotify.com/track/6kG9AQkHgCaFUh4ckB0g2j) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Spotify Singles](https://open.spotify.com/album/2jVlmo3NT5VZaOCd353TFv) | 2:48 | 2022-03-25 | 2022-04-16 |
 | [Head & Heart](https://open.spotify.com/track/27myNEFJ7BAeUStyFTHvuB) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [Head & Heart](https://open.spotify.com/album/5hfPG3jbnlrl5mu8KU7ZuG) | 2:47 | 2021-12-17 |  |
@@ -150,8 +152,10 @@
 | [July \- Bedroom Session](https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [July \(Bedroom Session\)](https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7) | 3:30 | 2021-12-17 |  |
 | [Jumper \- Acoustic](https://open.spotify.com/track/6rkrbJ7Ltdl7QnJFpSTw4F) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Jumper \(Acoustic\)](https://open.spotify.com/album/3KGecYEYv5uOMSaPU8hbvQ) | 3:04 | 2021-12-17 | 2022-05-02 |
 | [just the two of us](https://open.spotify.com/track/505CNjW6Y9GwvW5sVgvdK9) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [the quarantine covers](https://open.spotify.com/album/1UqChrYC7NGNDmf9nJx9xO) | 2:02 | 2021-12-17 |  |
+| [Killing Me Softly](https://open.spotify.com/track/2wEyNde0HsqvTpP6yphfQU) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Killing Me Softly](https://open.spotify.com/album/3dzUlxbwuGbnH0p1TOOTdZ) | 3:29 | 2022-05-27 |  |
 | [Kiss Me](https://open.spotify.com/track/1l3n3cIyHjEc7F78owErOa) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [AJ Salvatore](https://open.spotify.com/artist/5gLMXPUMc0uh9TedkRlng9), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Kiss Me](https://open.spotify.com/album/5Dgm7LEEwNIV2JkO7alcRs) | 2:26 | 2021-12-17 |  |
 | [Landslide](https://open.spotify.com/track/0xhpxr1fREd1Ibk8nn2GgJ) | [Tyler Carter](https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s) | [Landslide](https://open.spotify.com/album/6IqV86UKrnvcXmN7TKucPa) | 3:45 | 2021-12-17 |  |
+| [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-05-27 |  |
 | [Leave \(Get Out\) \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:15 | 2021-12-17 |  |
 | [Let Me Love You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Spotify Singles](https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36) | 3:41 | 2022-02-18 |  |
 | [Little Did I Know \(Acoustic\)](https://open.spotify.com/track/6q6706YiswU2UH0bvoxhnQ) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Aubrey Toone](https://open.spotify.com/artist/61R2K577GF9XaGmrzJIebF) | [Little Did I Know \(Acoustic\)](https://open.spotify.com/album/18gEMMuUgAgMreSPv8pBC5) | 3:10 | 2021-12-17 | 2022-01-22 |

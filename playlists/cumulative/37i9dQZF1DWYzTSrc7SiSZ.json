@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "Get the chill vibes going and flowing. Las vibras tranqui que ocupas en tu vida.",
   "name": "Chill Latino",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3GQU0MupClx0MsKK9HJHgw"
+  ],
   "tracks": [
     {
       "album": {
@@ -195,7 +197,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 155647,
       "name": "Amarte u Olvidar",
       "url": "https://open.spotify.com/track/1JPPpzVpNiAYiGejDBPPnK"
@@ -1153,6 +1155,24 @@
       "duration_ms": 250846,
       "name": "Heart Full of Love",
       "url": "https://open.spotify.com/track/3WADEPHbjrfN0qYrtlACiq"
+    },
+    {
+      "album": {
+        "name": "Rich Music Sessions (Ac\u00fastico En Vivo)",
+        "url": "https://open.spotify.com/album/6jU5obP9snCcR57UjL9byA"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221091,
+      "name": "Hola - Ac\u00fastico En Vivo",
+      "url": "https://open.spotify.com/track/5wbaHIztJH908HEGTEZUh0"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Lo mejor del reggaet\u00f3n y flow actual, y lo que vendr\u00e1. Portada: Alex Rose, Wisin & Yandel",
+  "description": "Lo mejor del reggaet\u00f3n y flow actual, y lo que vendr\u00e1. Portada: Wisin & Yandel, Jhay Cortez, Sech",
   "name": "Dale Flow",
   "published_playlist_ids": [
     "4t8Cynw1OATHYvs7BoEBpr"
@@ -1545,6 +1545,32 @@
       "duration_ms": 215440,
       "name": "Llori Pari",
       "url": "https://open.spotify.com/track/0D3hXbWvf69dmMmYUZpOk7"
+    },
+    {
+      "album": {
+        "name": "Llueve",
+        "url": "https://open.spotify.com/album/3z4zsIdBVA0vJh8Udz4TJD"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249801,
+      "name": "Llueve",
+      "url": "https://open.spotify.com/track/5yDAnr9USNQTP6ojiWBCvv"
     },
     {
       "album": {
@@ -3667,7 +3693,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 242673,
       "name": "Yo No Me Olvido",
       "url": "https://open.spotify.com/track/6jDxhMUF1F8Yc93lk8eNUc"

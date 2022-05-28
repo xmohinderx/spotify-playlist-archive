@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The newest songs, loud. Very loud. Cover: Asking Alexandria & Within Temptation",
+  "description": "The newest songs, loud. Very loud. Cover: Seether",
   "name": "Rock Hard",
   "published_playlist_ids": [
     "2UlZpIm54Pz4o9EirPo1mN"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 188035,
       "name": "Abuse Me (ft. L'exquisite Douleur)",
       "url": "https://open.spotify.com/track/7kgppSWLikBRTcyuCs1hfC"
@@ -2916,6 +2916,24 @@
     },
     {
       "album": {
+        "name": "Leech",
+        "url": "https://open.spotify.com/album/4xnqnQAzwMK6gZsuPTojvU"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230186,
+      "name": "Leech",
+      "url": "https://open.spotify.com/track/213FfJIwavzYZrAXa2nNL5"
+    },
+    {
+      "album": {
         "name": "Left For Dead",
         "url": "https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf"
       },
@@ -4179,7 +4197,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 238200,
       "name": "Secrets - with Sonny Sandoval of P.O.D.",
       "url": "https://open.spotify.com/track/1xudtCUOnGO5WSIFuEKmls"
@@ -4605,6 +4623,24 @@
       "duration_ms": 226456,
       "name": "Stick to Silence",
       "url": "https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc"
+    },
+    {
+      "album": {
+        "name": "Stitches",
+        "url": "https://open.spotify.com/album/45SbfV6M4ELzAOU163XpPb"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301426,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/4KWq6RMruDDwjzYBBpUi7c"
     },
     {
       "album": {

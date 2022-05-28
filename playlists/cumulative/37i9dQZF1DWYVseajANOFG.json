@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Sech",
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: BCA, Jorkan",
   "name": "Flow Panam\u00e1",
   "published_playlist_ids": [
     "79dWlZ80QnS0vL3EFzUJSz"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 185733,
       "name": "Beb\u00e9",
       "url": "https://open.spotify.com/track/0xoAAswcj1bAKo81wlq0KP"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 155068,
       "name": "BRUJERIA",
       "url": "https://open.spotify.com/track/5uiH9Ei2V6fyuJHK57xISQ"
@@ -624,6 +624,28 @@
     },
     {
       "album": {
+        "name": "Lambo",
+        "url": "https://open.spotify.com/album/0xUjYM3Z2efK5Z5PPoIGZF"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182219,
+      "name": "Lambo",
+      "url": "https://open.spotify.com/track/0Oh26zAfZKlOYCRVYaH8WD"
+    },
+    {
+      "album": {
         "name": "Ninus: Nothing Is New Under Sun",
         "url": "https://open.spotify.com/album/2VIcLB3gypXMUG9kA0njD5"
       },
@@ -647,6 +669,32 @@
       "duration_ms": 230699,
       "name": "Latex y Friccion",
       "url": "https://open.spotify.com/track/3mzropYMJX2JL4qVts4BQi"
+    },
+    {
+      "album": {
+        "name": "Llueve",
+        "url": "https://open.spotify.com/album/3z4zsIdBVA0vJh8Udz4TJD"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249801,
+      "name": "Llueve",
+      "url": "https://open.spotify.com/track/5yDAnr9USNQTP6ojiWBCvv"
     },
     {
       "album": {
@@ -986,6 +1034,32 @@
     },
     {
       "album": {
+        "name": "Pa' Enamorarte",
+        "url": "https://open.spotify.com/album/5ZyQZCIRGOyWr8xMVRHhXr"
+      },
+      "artists": [
+        {
+          "name": "Nigga",
+          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
+        },
+        {
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+        },
+        {
+          "name": "Sensei Musica",
+          "url": "https://open.spotify.com/artist/2ghAACA73OOX6zXkoGc2NH"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168306,
+      "name": "Pa' Enamorarte",
+      "url": "https://open.spotify.com/track/5CO3B6eWgvljHWl1mW3uo3"
+    },
+    {
+      "album": {
         "name": "Sonrisas Tristes",
         "url": "https://open.spotify.com/album/4zzCQHjlhEEAidzfNRONJL"
       },
@@ -1245,7 +1319,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 198160,
       "name": "SINALOA",
       "url": "https://open.spotify.com/track/3DN5cqnNcrhZ8udxcywiG8"

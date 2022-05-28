@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "Miami me lo confirm\u00f3 featuring Gonzy.",
   "name": "Rompiendo: Miami",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1sF7ewVc3Qi7Dnv8YQqZkP"
+  ],
   "tracks": [
     {
       "album": {
@@ -99,7 +101,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 206065,
       "name": "Aunque Sea Un Ratico",
       "url": "https://open.spotify.com/track/4zXdbZtnf39QW0gnxmB0nb"
@@ -213,7 +215,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
@@ -231,7 +233,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 201114,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/2jcgREuJBtLjfMV4hHngte"
@@ -337,6 +339,24 @@
       "duration_ms": 230400,
       "name": "Despu\u00e9s de la Playa",
       "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+    },
+    {
+      "album": {
+        "name": "Pa Mi Gente",
+        "url": "https://open.spotify.com/album/78I5OEHFzTaWJuF5aS4wHX"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169465,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/3GBFnb6hEgUD5zy3zfOSlf"
     },
     {
       "album": {
@@ -483,7 +503,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 196586,
       "name": "En Mi Cuarto",
       "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
@@ -541,7 +561,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 173858,
       "name": "Fantas\u00eda",
       "url": "https://open.spotify.com/track/14SBbAnAb9yLbVGnbFfra6"
@@ -989,7 +1009,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 207580,
       "name": "Mi Negrita",
       "url": "https://open.spotify.com/track/4A0U6CTmhJYYvoZcTAIDli"
@@ -1109,7 +1129,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 234066,
       "name": "Normalmente Remix (with Yomil y El Dany)",
       "url": "https://open.spotify.com/track/1XWEYop5LlnJd0JkYTtX5q"
@@ -1314,6 +1334,28 @@
     },
     {
       "album": {
+        "name": "OTRA COSA",
+        "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206533,
+      "name": "Quiero Conocerte (feat. El Chacal)",
+      "url": "https://open.spotify.com/track/5AyKLpNMh92tfAoiK3EVch"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 M\u00e1s Pues?",
         "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
       },
@@ -1391,7 +1433,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 337841,
       "name": "Si Es Trucho Es Trucho",
       "url": "https://open.spotify.com/track/5FKWq8ppC9KeXZGwYTqsxS"
@@ -1435,7 +1477,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 169336,
       "name": "Si Tu Quieres",
       "url": "https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2"
@@ -1559,6 +1601,32 @@
       "duration_ms": 148847,
       "name": "Tu Weekend",
       "url": "https://open.spotify.com/track/2cvXq5nN4hoUxIwIsnd9tv"
+    },
+    {
+      "album": {
+        "name": "TULUM",
+        "url": "https://open.spotify.com/album/3f3o1hDeKqTgacvxCVdgna"
+      },
+      "artists": [
+        {
+          "name": "NIA",
+          "url": "https://open.spotify.com/artist/6pWfZsh4oMfM4lRITDxtfw"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "JC el Diamante",
+          "url": "https://open.spotify.com/artist/1FxsUemFullSXJpySUsT0J"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205226,
+      "name": "TULUM",
+      "url": "https://open.spotify.com/track/5BDNqOGnjbbWcZRxexGV5r"
     },
     {
       "album": {

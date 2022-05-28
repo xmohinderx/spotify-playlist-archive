@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 
 > Soundtrack your dinner with bossa sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,918 likes - 101 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,034 likes - 101 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

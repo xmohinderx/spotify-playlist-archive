@@ -4,7 +4,7 @@
 
 > Bend the knee and give reverence to this playlist envisioned by Game Of Thrones co\-creators David Benioff and D.B\. Weiss.
 
-51 songs - 3 hr 28 min - not published yet
+51 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/0hhh6F8OD604WIr58kEXWn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

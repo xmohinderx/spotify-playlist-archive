@@ -4,7 +4,7 @@
 
 > Lo mejor del Rock en Español de hoy\. Cover: Samantha Sánchez
 
-91 songs - 5 hr 13 min - not published yet
+91 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/1oUEjRuRAeBE25oqoZZ6lQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

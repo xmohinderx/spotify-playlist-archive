@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 144375,
       "name": "Angel",
       "url": "https://open.spotify.com/track/15zIyFyJLwcoxxFYU2fT3I"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 274716,
       "name": "cielo",
       "url": "https://open.spotify.com/track/5vgp6EADwZ1gxHn2La8J0V"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 203225,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/2na01PJt2Ai6L2zH88hKP3"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 183870,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 144000,
       "name": "El Camino",
       "url": "https://open.spotify.com/track/30OijpZOdRk5DrfaaXNudS"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 222844,
       "name": "El Santito",
       "url": "https://open.spotify.com/track/5fau5l1O4BhhJlho8S7UdC"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 127026,
       "name": "Fake It Till You Make It",
       "url": "https://open.spotify.com/track/4kD4w6XFGxaABGiwOmqsXq"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 180918,
       "name": "Filosof\u00eda",
       "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 188689,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/6kEIY1YMGoUG3WGqBzpEEq"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 209267,
       "name": "Give Me Your Heart (Somos Uno)",
       "url": "https://open.spotify.com/track/6oQvB3BxlETB0CfrT5Vq6N"
@@ -999,7 +999,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 395897,
       "name": "He Never Knew",
       "url": "https://open.spotify.com/track/1qZVKFPW6wujWMpasgwbZm"
@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 243000,
       "name": "Levante la Mano (Tonga Conga Remix)",
       "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
@@ -1473,7 +1473,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 196190,
       "name": "lo peor - HAJJ Remix",
       "url": "https://open.spotify.com/track/49HkH3VteijDhTflPFsr4F"
@@ -1634,6 +1634,24 @@
     },
     {
       "album": {
+        "name": "Mistake",
+        "url": "https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T"
+      },
+      "artists": [
+        {
+          "name": "JOKA",
+          "url": "https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192366,
+      "name": "Mistake",
+      "url": "https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs"
+    },
+    {
+      "album": {
         "name": "Morenito",
         "url": "https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA"
       },
@@ -1737,7 +1755,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 210967,
       "name": "Need You",
       "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 184918,
       "name": "Only One",
       "url": "https://open.spotify.com/track/3w6JyzlT07ySZPpiWpbfne"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 200017,
       "name": "Panda",
       "url": "https://open.spotify.com/track/5fO5BPkXwoANEc7jJX9oIk"
@@ -2053,7 +2071,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 173222,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/1so0VWVf1XX3yUxHUVoYNt"
@@ -2199,7 +2217,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 318085,
       "name": "Power",
       "url": "https://open.spotify.com/track/07Wk4bHfATSCf3IaQRTkVF"
@@ -2221,7 +2239,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 197419,
       "name": "Power Of Harmony",
       "url": "https://open.spotify.com/track/6d8ohU62b9EUQZnMS592Bq"
@@ -2423,7 +2441,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 156000,
       "name": "Safari",
       "url": "https://open.spotify.com/track/1sD7wfCf5OqgbQoCQylqu4"
@@ -2467,7 +2485,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 394918,
       "name": "Senses",
       "url": "https://open.spotify.com/track/6v6AOyEwnzthASohlRwYrS"
@@ -2529,7 +2547,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 213000,
       "name": "Sin M\u00ed No Te Vayas",
       "url": "https://open.spotify.com/track/4GJheqbW6QK9JTtgeVkhCw"
@@ -2613,7 +2631,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 178909,
       "name": "Space",
       "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
@@ -2643,7 +2661,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 187632,
       "name": "Stereo Love",
       "url": "https://open.spotify.com/track/6X9hD9medguWs5mMGy6S0X"
@@ -2789,7 +2807,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 155224,
       "name": "The King Is Dead",
       "url": "https://open.spotify.com/track/1JkMlh3QfX8Sed828vjI0g"
@@ -2925,7 +2943,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 217478,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/0UT4v8phNkia6bnZLX1ewM"
@@ -2965,7 +2983,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 142372,
       "name": "UP (Bzars Remix)",
       "url": "https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB"
@@ -3075,10 +3093,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 213133,
       "name": "Windows",
       "url": "https://open.spotify.com/track/1JUOjyWpg8X8nePqmYKSCW"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/6tHfMOg1nD5rOHJBqOfzNe"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4xVL2dgp2vKLcenMMxnary"
     },
     {
       "album": {

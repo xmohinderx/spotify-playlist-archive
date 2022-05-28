@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Qo1l3s9YqHwoM1udvQbsr">Kadhja Bonet</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-39 songs - 2 hr 29 min - not published yet
+39 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/1w0SMgXeEiZnBzt44KT9oN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

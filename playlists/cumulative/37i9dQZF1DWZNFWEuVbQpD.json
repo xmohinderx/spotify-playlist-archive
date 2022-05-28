@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 234906,
       "name": "Always on My Mind",
       "url": "https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 165426,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 157960,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 193346,
       "name": "Don't Stop - 2004 Remaster",
       "url": "https://open.spotify.com/track/3CPeWqqaHR0hmyfsWhMJQs"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 186960,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 366136,
       "name": "Highway Star - Remastered 2012",
       "url": "https://open.spotify.com/track/3uMmllZo1AfoEnVT4ENCD3"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 179386,
       "name": "Honky Tonk Women - Mono Version",
       "url": "https://open.spotify.com/track/3RZMzCvYsmJ0u2ioKTOsmJ"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 269906,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/3XC7Jd6SfrQYKZJ6inyRHK"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 199453,
       "name": "Hungry Heart",
       "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT"
@@ -837,6 +837,24 @@
       "duration_ms": 271240,
       "name": "I Was Made For Lovin' You",
       "url": "https://open.spotify.com/track/2ZSCy3P1QzpJySCWA6NRIU"
+    },
+    {
+      "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/5BDGtXKMQ6k267KX4PoGhP"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "Invisible Touch - Remastered 2007",
+      "url": "https://open.spotify.com/track/480dDrqG7LO6qDaphHeXlM"
     },
     {
       "album": {
@@ -941,7 +959,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 471160,
       "name": "L.A. Woman",
       "url": "https://open.spotify.com/track/6DmfWj5kOa1fX8AwN9byOn"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 501213,
       "name": "Like a Hurricane - 2003 Remaster",
       "url": "https://open.spotify.com/track/4CqbJHZ6JtVM3MLh41y7JI"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 198866,
       "name": "My Generation - Mono Version",
       "url": "https://open.spotify.com/track/45s88Xopo6KvHc0PQ05aGg"
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 168440,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/1Ly0ssAgeM7YqdHptao8Oe"
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 203893,
       "name": "Stuck In The Middle With You",
       "url": "https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z"
@@ -2015,7 +2033,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 247449,
       "name": "The Jean Genie - 2013 Remastered Version",
       "url": "https://open.spotify.com/track/3GGkKcUEC4xMxbJ9HEjWNg"
@@ -2051,7 +2069,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 292880,
       "name": "Thunderstruck",
       "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 190253,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
@@ -2275,7 +2293,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 511293,
       "name": "Won't Get Fooled Again - Original Album Version",
       "url": "https://open.spotify.com/track/0Rp4akmfqBTpbDM6EoqtNy"
@@ -2329,7 +2347,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 210880,
       "name": "You Shook Me All Night Long",
       "url": "https://open.spotify.com/track/6yl8Es1tCYD9WdSkeVLFw4"

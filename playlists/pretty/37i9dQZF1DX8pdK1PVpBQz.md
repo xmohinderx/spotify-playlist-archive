@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Jem Cassar\-Daley\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,398 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,436 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 44 | [Speed Racing](https://open.spotify.com/track/6gTkTR0cnGqkHhnvsVCpNu) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Speed Racing](https://open.spotify.com/album/19P9uR44ds9JGoHH59tcck) | 5:59 |
 | 45 | [Transpire](https://open.spotify.com/track/7HVCSj1QYaqp0tjkgOJm2G) | [Cellarr](https://open.spotify.com/artist/40hdxU4tcrbRkopSgr0arC) | [Transpire](https://open.spotify.com/album/3Mr2fRCoTCDRDZSDDzCZNf) | 2:25 |
 | 46 | [Searching](https://open.spotify.com/track/0R5usG0urs6VTOJX0ysAjx) | [First Beige](https://open.spotify.com/artist/0QLkmmM8acu07MIT5GcSPT) | [Doplar](https://open.spotify.com/album/1mD6NydpdocBi9mc2JTtuN) | 4:15 |
-| 47 | [Waiting For You](https://open.spotify.com/track/0sEAcw3FWdD1FHGtztFLEo) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Waiting for You](https://open.spotify.com/album/14W0l7e48UZD9Z2MZCoxhm) | 2:41 |
+| 47 | [Waiting For You](https://open.spotify.com/track/0sEAcw3FWdD1FHGtztFLEo) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Waiting For You](https://open.spotify.com/album/14W0l7e48UZD9Z2MZCoxhm) | 2:41 |
 | 48 | [idrc](https://open.spotify.com/track/2oU6KFIi7tCfYJVlxvMWV9) | [Logan M](https://open.spotify.com/artist/6ffb3XbMaiY9R8dMYBsuBc), [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [idrc](https://open.spotify.com/album/3wQ8z8Di5ZPqhbd1VsUknT) | 2:07 |
 | 49 | [STARE](https://open.spotify.com/track/3bsqiaKQdXj1Ka26nWpV6r) | [CALEB](https://open.spotify.com/artist/6D0RTr5DUb1pB3fqiIEnGc) | [STARE](https://open.spotify.com/album/7Fm5bcy9EBBcyW9v8hqogl) | 2:40 |
 | 50 | [Zretro](https://open.spotify.com/track/5mPdCptYg37E3QeLC8RyYr) | [Zretro](https://open.spotify.com/artist/7z6qvx13midpnua74EqVyq), [Thamson.P](https://open.spotify.com/artist/04KZwvKyo1N72RyIG7qnkG) | [Zretro](https://open.spotify.com/album/1jNs44tl5iRtLwVAsUqsiZ) | 3:05 |

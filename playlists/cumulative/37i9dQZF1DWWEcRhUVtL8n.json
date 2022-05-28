@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 179478,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/1nWCNJX79ARq0EtXyKyiIS"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 157935,
       "name": "Adult",
       "url": "https://open.spotify.com/track/7aPVj4na1QheevNbrv5uwC"
@@ -1969,7 +1969,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 195370,
       "name": "Be Sweet",
       "url": "https://open.spotify.com/track/2X3J1zgsKEkTSYnjsUQlUZ"
@@ -2337,7 +2337,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 144392,
       "name": "Black Coffee",
       "url": "https://open.spotify.com/track/5XFnuOu9ReQ1BjyV7qUxqU"
@@ -3031,7 +3031,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 192648,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo"
@@ -4217,7 +4217,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 158600,
       "name": "coming of age",
       "url": "https://open.spotify.com/track/0bmBT74X61khNZckpm6qWi"
@@ -4405,6 +4405,24 @@
       "duration_ms": 167365,
       "name": "cotton candy",
       "url": "https://open.spotify.com/track/3foWaxM2tcZD91WcOLFqch"
+    },
+    {
+      "album": {
+        "name": "Could I Be Somebody",
+        "url": "https://open.spotify.com/album/3BER8UXEGBHmP9RFXKsugn"
+      },
+      "artists": [
+        {
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231693,
+      "name": "Could I Be Somebody",
+      "url": "https://open.spotify.com/track/6TvlnHlc0fTKhPso76QXH3"
     },
     {
       "album": {
@@ -8245,7 +8263,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 191830,
       "name": "happy for me",
       "url": "https://open.spotify.com/track/5xb35zCNGaD9XuZtp4PZCv"
@@ -9791,7 +9809,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 147996,
       "name": "I Try",
       "url": "https://open.spotify.com/track/0YY1xpXpPYL2N8tVwXBITr"
@@ -10807,7 +10825,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 214909,
       "name": "I\u2019M BLESSED",
       "url": "https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG"
@@ -11023,7 +11041,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 188676,
       "name": "Keepintouch",
       "url": "https://open.spotify.com/track/6tZ7kmyy0FhG9Ksx6oX2rb"
@@ -11867,7 +11885,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 161749,
       "name": "Lola",
       "url": "https://open.spotify.com/track/5VDmaEUjH0SGBDDjYgoxHW"
@@ -11885,7 +11903,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 207880,
       "name": "London Is Lonely - Edit",
       "url": "https://open.spotify.com/track/06Tr79i53ihD4KUKYIyyjq"
@@ -12497,7 +12515,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 172682,
       "name": "Makes Me Happy",
       "url": "https://open.spotify.com/track/6doD2ZsNXzxHNXag1BAAuY"
@@ -12881,7 +12899,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 143957,
       "name": "MEAN!",
       "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
@@ -13083,7 +13101,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 146586,
       "name": "Million Little Problems",
       "url": "https://open.spotify.com/track/1nccRXlgqIuC8WiAuTieBo"
@@ -13977,7 +13995,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 163082,
       "name": "nice pup",
       "url": "https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE"
@@ -14397,7 +14415,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 163800,
       "name": "not okay (feat. mazie)",
       "url": "https://open.spotify.com/track/3hf7tTSZ6jgIdLIiT9Kgq0"
@@ -14775,7 +14793,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 196315,
       "name": "Oldest Teenager",
       "url": "https://open.spotify.com/track/0PNVMcb2Y6q4SHnKQLl4b5"
@@ -17169,7 +17187,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 208373,
       "name": "Seasons Bloom",
       "url": "https://open.spotify.com/track/1VhnwVLbrEynUIo8VdyBT9"
@@ -17865,7 +17883,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 188386,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
@@ -18705,7 +18723,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 181798,
       "name": "Strawberry Kisses",
       "url": "https://open.spotify.com/track/4LXuSaMzY515ubvtGnCvBi"
@@ -18955,7 +18973,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 160058,
       "name": "sugarcane",
       "url": "https://open.spotify.com/track/4IKKOmbPQOHyUm1VX6dpzV"
@@ -20691,7 +20709,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 193005,
       "name": "Trees",
       "url": "https://open.spotify.com/track/1WxmIERVQy1GK44xEWaeCT"
@@ -21195,7 +21213,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 238363,
       "name": "WALLS",
       "url": "https://open.spotify.com/track/5DGpdTunAf0nOvrWCqlYXu"
@@ -21249,7 +21267,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 258319,
       "name": "Want Me",
       "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
@@ -21383,7 +21401,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 237093,
       "name": "Way Way Back",
       "url": "https://open.spotify.com/track/2hX7tp2n5rcObTtuhjo6cM"
@@ -21823,7 +21841,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 189088,
       "name": "Who Am I Really Fooling Anyway",
       "url": "https://open.spotify.com/track/6cJZ8mEfST3enMQSUVSrSP"

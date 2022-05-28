@@ -4,7 +4,7 @@
 
 > The legendary producer and songwriting duo: Kenneth Gamble and Leon A\. Huff.
 
-106 songs - 7 hr 19 min - not published yet
+106 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/1VcebcJH9dQoKQcOkNfE2E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

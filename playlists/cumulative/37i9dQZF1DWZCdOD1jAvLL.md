@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Nostalgix
 
-192 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
+194 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Don’t Keep Me Waiting](https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting](https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF) | 3:29 | 2022-02-25 |  |
 | [Double Dip](https://open.spotify.com/track/2qLM9dbsAbjCE9N3fPagG2) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Double Dip](https://open.spotify.com/album/5FID5KjP1a0xptUHQZkIVL) | 3:18 | 2022-03-04 | 2022-04-16 |
 | [Dreaming](https://open.spotify.com/track/5Gz4ahf3fZ8j21qGGfGjot) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Dreaming](https://open.spotify.com/album/3ZGP2USBTJxXBiRxSiCWnB) | 2:16 | 2022-05-06 |  |
+| [Eat Your Soul](https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Eat Your Soul](https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg) | 2:39 | 2022-05-27 |  |
 | [edamame \(feat\. Rich Brian\) \- Diplo Remix](https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [edamame \(feat\. Rich Brian\) \[Diplo Remix\]](https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW) | 2:55 | 2022-01-14 | 2022-05-07 |
 | [El Cuervo](https://open.spotify.com/track/0NUhccl4bo79EUsmFyAMHi) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [El Cuervo](https://open.spotify.com/album/4OmRlADG42BoxfGzSsNdEi) | 3:08 | 2022-04-01 |  |
 | [Emptiness](https://open.spotify.com/track/4TPzn1tHoa186Nu2wb68r0) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Emptiness](https://open.spotify.com/album/1v7slg9ssEvd7PFdNjRgmD) | 2:29 | 2022-01-14 | 2022-04-16 |
@@ -93,6 +94,7 @@
 | [Leaving](https://open.spotify.com/track/1goWGSN0d73rOVh3HMjbsM) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Leaving / Debonair](https://open.spotify.com/album/5WleeZXWPcPcDZcfNNKbli) | 3:25 | 2022-01-21 | 2022-03-05 |
 | [Let's Freak](https://open.spotify.com/track/5DbvVp3W55HN5igEic72Xs) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Let's Freak](https://open.spotify.com/album/681OCAwzVaNg6yPgMQ3uJx) | 2:34 | 2022-05-06 |  |
 | [Let's Rave, Make Love](https://open.spotify.com/track/6mylgnvuGYjcakF6ur4uHC) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ) | [Welcome Home](https://open.spotify.com/album/1Jz9lsCZlbb7pW829VbgXH) | 3:20 | 2022-05-06 |  |
+| [Lies](https://open.spotify.com/track/6Il5epZuJzpHVNVjYXrYIT) | [Brandon Mints](https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc) | [Lies](https://open.spotify.com/album/1c0Uiksf8eCx8QeRh4WhPC) | 2:47 | 2022-05-27 |  |
 | [Life Of Sin \(feat\. Ranger Trucco\)](https://open.spotify.com/track/5CB3JnLsxjDJj2EUabWcuj) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Life Of Sin \(feat\. Ranger Trucco\)](https://open.spotify.com/album/58lFMssaXCRBis5YRcsycv) | 3:24 | 2022-01-14 | 2022-01-22 |
 | [Lifting](https://open.spotify.com/track/63KKZeGwmcSev8UWpvP3g3) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Lifting](https://open.spotify.com/album/6VVQDWR3d19iSujcegzH3T) | 2:51 | 2022-01-14 | 2022-02-12 |
 | [Light of Mine](https://open.spotify.com/track/3jMeoTAxDrZfkVxMmWcWCg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Jimorrow](https://open.spotify.com/artist/06qfSjDnOB1ZMdkynif9lv) | [Light of Mine](https://open.spotify.com/album/0CvAD6ngmCakv5MKuUtqYc) | 2:30 | 2022-01-14 | 2022-03-12 |

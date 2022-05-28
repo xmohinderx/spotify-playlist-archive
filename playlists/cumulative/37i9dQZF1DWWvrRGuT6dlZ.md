@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Strange Alias\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: The Filters\. Artwork: Isu Kim.
 
-205 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
+206 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [party](https://open.spotify.com/track/0YBOVHdZinVrNORmAOpYfr) | [fex](https://open.spotify.com/artist/3aEpYaLrQQ2ztVpg658qpA), [michelle lawry](https://open.spotify.com/artist/24LXdeEckLgdufz8L07ud7) | [party](https://open.spotify.com/album/3e9d8HEaFr5Ma08KGGj1MW) | 3:38 | 2022-04-21 |  |
 | [pink cherry blossom](https://open.spotify.com/track/5ZlDaQqscrfIE9Aog1MFfL) | [FARIS](https://open.spotify.com/artist/4VnQPCXcDCyg6wp2hOhRFT) | [pink cherry blossom](https://open.spotify.com/album/3OUao0xdyFvS77KPzM19U1) | 4:15 | 2022-01-20 |  |
 | [Pity Party](https://open.spotify.com/track/2Z25fVRiv9kkCuYCpqf8dX) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Pity Party](https://open.spotify.com/album/1XVl95v68LAUXP8r90DQIb) | 3:32 | 2022-02-17 |  |
+| [Planet Platonic](https://open.spotify.com/track/2iLKtJzLGtRjoRrMvVH5OU) | [The Filters](https://open.spotify.com/artist/0aI4dzoQSvBzjaBZgUuBW5) | [Exhaler](https://open.spotify.com/album/0UDeKLntX39tPUbxU4hW9n) | 6:10 | 2022-05-27 |  |
 | [Platform Heels](https://open.spotify.com/track/5UNXUEUP9tWQUfNHqrOSvI) | [The Peachskins](https://open.spotify.com/artist/6slLx3tKNbSTpbAkkikwzd) | [ARE YOU OKAY?](https://open.spotify.com/album/0QdpUwL2nYTpTOgs7oDtxZ) | 1:52 | 2022-04-21 |  |
 | [PrettyGirlBop](https://open.spotify.com/track/46xThv0skPIbk2SpDHkxNm) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [PrettyGirlBop](https://open.spotify.com/album/253sTENcjmo16asURVBroB) | 2:34 | 2021-12-01 | 2022-01-14 |
 | [Push & Pull](https://open.spotify.com/track/0O19gG2dvbYJArdP6ebvRN) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/6DFor8T41j9pm1S90ePUPV) | 2:32 | 2022-01-20 |  |

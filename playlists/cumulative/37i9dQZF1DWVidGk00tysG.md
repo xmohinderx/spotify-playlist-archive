@@ -4,7 +4,7 @@
 
 > Dive into Chopin's greatest works for the piano, from solo études to full\-blown concertos.
 
-90 songs - 8 hr 12 min - not published yet
+90 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/1aNWMcXeVjNSw4TZgNZQUI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

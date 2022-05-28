@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Find more great Star Wars music <a href="https://open.spotify.com/user/official\_star\_wars">here</a>.
 
-99 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/1VWBxYYjYIwYYr2cZZuEqM)
+100 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/1VWBxYYjYIwYYr2cZZuEqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Main Title and Escape](https://open.spotify.com/track/3eEfx3BsSplMdgktC3r7xK) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 7:25 | 2021-05-14 |  |
 | [Main Title and The Attack on the Jakku Village](https://open.spotify.com/track/0o9AEYW61Jb0dwmHlVhXk5) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 6:25 | 2021-05-14 |  |
 | [Meet Han](https://open.spotify.com/track/7BVvVmczBoVmVeWr8KMafb) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [Solo: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm) | 2:20 | 2021-05-14 |  |
+| [Obi\-Wan \- From "Obi\-Wan Kenobi"](https://open.spotify.com/track/0UvXARxghc7E5grZSpGArl) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Obi\-Wan \(From "Obi\-Wan Kenobi"\)](https://open.spotify.com/album/2rP5W8xXmYH2cKTuZVgPUG) | 4:05 | 2022-05-28 |  |
 | [Old Friends](https://open.spotify.com/track/336MNGWifY0wUNdI37pm8Q) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 4:28 | 2021-05-14 |  |
 | [Padmé](https://open.spotify.com/track/4ud5wmcUNNO4f9FkPw3FxA) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Clone Wars \(Seasons One Through Six/Original Soundtrack\)](https://open.spotify.com/album/4GBpwL8Q9iRbfhtzlkbrKC) | 1:39 | 2021-05-14 |  |
 | [Peace and Purpose](https://open.spotify.com/track/5bhVXcAkmihE4YvKdGimxL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:06 | 2021-05-14 |  |

@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 305526,
       "name": "Belie All Gods",
       "url": "https://open.spotify.com/track/0QvLYw1dPsNCvLmGcooCGV"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 366613,
       "name": "Blackest Sabbath 1997",
       "url": "https://open.spotify.com/track/6NNxpCVslN0gi4UvwfxeOs"
@@ -1324,6 +1324,24 @@
     },
     {
       "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/3LK4RzSqoZwzZ6rtEbOj1G"
+      },
+      "artists": [
+        {
+          "name": "Lord Belial",
+          "url": "https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210591,
+      "name": "Legion",
+      "url": "https://open.spotify.com/track/6Q7tXH6CsjLRFnry2es67r"
+    },
+    {
+      "album": {
         "name": "Let the Devil In",
         "url": "https://open.spotify.com/album/60KSJrOiVwx4rBFPjvEl9B"
       },
@@ -2139,7 +2157,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 213000,
       "name": "Slaves Shall Serve",
       "url": "https://open.spotify.com/track/7fqAKOrf2T2wxCnN6u3MkJ"
@@ -2589,7 +2607,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 220666,
       "name": "Totentanz - Dance Macabre",
       "url": "https://open.spotify.com/track/5VdUHQEaxWFRbKbnxLQ0tG"
@@ -2701,6 +2719,24 @@
       "duration_ms": 329142,
       "name": "Veter",
       "url": "https://open.spotify.com/track/1YuB9VNoHmGVtVxyZQ6dLB"
+    },
+    {
+      "album": {
+        "name": "Virtus Asinaria - Prayer",
+        "url": "https://open.spotify.com/album/1JmXAptKVqcQm4BrqsQcQZ"
+      },
+      "artists": [
+        {
+          "name": "Belphegor",
+          "url": "https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318546,
+      "name": "Virtus Asinaria - Prayer",
+      "url": "https://open.spotify.com/track/6xzzWEFp3AWVkZLXx9HKDh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs that continue to inspire generations\. Celebrating 50 years of Exile On Main Street.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,362,779 likes - 200 songs - 14 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,366,615 likes - 200 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

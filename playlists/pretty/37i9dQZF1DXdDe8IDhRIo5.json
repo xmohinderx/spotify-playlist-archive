@@ -1,13 +1,29 @@
 {
   "description": "Django and beyond.",
-  "num_followers": 256596,
+  "num_followers": 256644,
   "original_name": "Hot Club Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxOTMyMCwwMDAwMDAzNTAwMDAwMTgwZGZhMTFmMjMwMDAwMDE3NzZlNzBjNGJl",
+  "snapshot_id": "MTY1MzYyNDEyMCwwMDAwMDAzNjAwMDAwMTgxMDNhZGEzMWQwMDAwMDE3NzZlNzBjNGJl",
   "tracks": [
+    {
+      "added_at": "2022-05-27 04:02:00",
+      "album": {
+        "name": "Coucou",
+        "url": "https://open.spotify.com/album/5ZPSCr10M050pYwZM2lDyn"
+      },
+      "artists": [
+        {
+          "name": "Tchavolo Schmitt",
+          "url": "https://open.spotify.com/artist/500N0I1rRpN81oULt3QUFY"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "Coucou",
+      "url": "https://open.spotify.com/track/5whsPGYSk2FMFCkluUkp6I"
+    },
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {

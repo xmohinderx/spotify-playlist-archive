@@ -1,13 +1,57 @@
 {
-  "description": "New jazz for open minds. Cover: Joey Alexander",
-  "num_followers": 817393,
+  "description": "New jazz for open minds. Cover: Jean Carn",
+  "num_followers": 817556,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxOTMyMCwwMDAwMDFjZTAwMDAwMTgwZGZhMTFmMjgwMDAwMDE4MGRjOGYxMzI4",
+  "snapshot_id": "MTY1MzY3NDY1MiwwMDAwMDFkMDAwMDAwMTgxMDZiMGIzOTIwMDAwMDE4MTA2YjA3NGVj",
   "tracks": [
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Jean Carne JID012",
+        "url": "https://open.spotify.com/album/4LnwmwZBGpxR7pY55udol1"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "duration_ms": 236213,
+      "name": "Black Love",
+      "url": "https://open.spotify.com/track/4VwYeANX0aXiCqGGkI4SAx"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "In The Spirit Of Ntu",
+        "url": "https://open.spotify.com/album/3UnSb3V4gzrt2ofjYfsLDl"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        },
+        {
+          "name": "Omagugu",
+          "url": "https://open.spotify.com/artist/3fOgc0hcEUZjOuhvGEise4"
+        }
+      ],
+      "duration_ms": 421207,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/32EOILWXWu3WGo56PmM9UG"
+    },
     {
       "added_at": "2022-05-20 04:02:00",
       "album": {
@@ -41,40 +85,72 @@
       "url": "https://open.spotify.com/track/4lBKAEQXVzaicd1FLy83Lu"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
+      "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "Where Grace Abounds",
-        "url": "https://open.spotify.com/album/418MwimbhlqiDQqxq1lrnt"
+        "name": "Dedications",
+        "url": "https://open.spotify.com/album/6KlJQ5wod5PvpeWN68AkQD"
       },
       "artists": [
         {
-          "name": "Julius Rodriguez",
-          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
-        }
-      ],
-      "duration_ms": 261887,
-      "name": "Where Grace Abounds",
-      "url": "https://open.spotify.com/track/7jtkZSNqKkeCVAxIh67QsH"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Emlilweni",
-        "url": "https://open.spotify.com/album/0dWHPV6VdVYUZiY9ma0XKQ"
-      },
-      "artists": [
-        {
-          "name": "Nduduzo Makhathini",
-          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+          "name": "Alan Pasqua",
+          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
         },
         {
-          "name": "Jaleel Shaw",
-          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+          "name": "Gary Bartz",
+          "url": "https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ"
+        },
+        {
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+        },
+        {
+          "name": "Dave Holland",
+          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
         }
       ],
-      "duration_ms": 393797,
-      "name": "Emlilweni",
-      "url": "https://open.spotify.com/track/6nq4iL5FqVg5b1xXqTTsSg"
+      "duration_ms": 637884,
+      "name": "Ellingtonia",
+      "url": "https://open.spotify.com/track/4DTR80jKQUFGA4GeGXuN6V"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Kazemachizuki",
+        "url": "https://open.spotify.com/album/0QZ2QvJqINt39NE5Kt7Zbx"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 143013,
+      "name": "Go! Sokudo-kun (Inst.Ver.)",
+      "url": "https://open.spotify.com/track/7doRvmkjNk51JQS9whzJ2K"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "May Night",
+        "url": "https://open.spotify.com/album/5L2qeGnHLeVgBrVI3VidYA"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Brostr\u00f6m",
+          "url": "https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB"
+        },
+        {
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        }
+      ],
+      "duration_ms": 534852,
+      "name": "May Night",
+      "url": "https://open.spotify.com/track/0vLqB8glU9x1qOLde1nSeD"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -93,6 +169,82 @@
       "url": "https://open.spotify.com/track/2n3Tqq4qL2HlcXWwXQhQ4e"
     },
     {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/7zacSYRT7vxCJDPQ46zl2u"
+      },
+      "artists": [
+        {
+          "name": "Harry Allen",
+          "url": "https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR"
+        },
+        {
+          "name": "Dave Blenkhorn",
+          "url": "https://open.spotify.com/artist/2PnXjyP9d0S0qW7XL8SIvh"
+        }
+      ],
+      "duration_ms": 257409,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/2VuKpLkTvlLq0DvoGmzkus"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Always and Forever",
+        "url": "https://open.spotify.com/album/49nUOS3uvINartB6HMBtH6"
+      },
+      "artists": [
+        {
+          "name": "Joel Locher",
+          "url": "https://open.spotify.com/artist/2Od73jBdAtPlW0XJHP3lZe"
+        },
+        {
+          "name": "Marian Petrescu",
+          "url": "https://open.spotify.com/artist/5KzSK3W4ZrB11lqCVqjmXk"
+        },
+        {
+          "name": "Alex Riel",
+          "url": "https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH"
+        }
+      ],
+      "duration_ms": 540556,
+      "name": "Always and Forever - Live",
+      "url": "https://open.spotify.com/track/0vnpJaolrARfbM9OAgspPx"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Every Story / Pivot",
+        "url": "https://open.spotify.com/album/4D9eXpTDXXLDO8OUyj2VZi"
+      },
+      "artists": [
+        {
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Pivot",
+      "url": "https://open.spotify.com/track/70eLlZeUn31MKzLaVlSlbP"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Where Grace Abounds",
+        "url": "https://open.spotify.com/album/418MwimbhlqiDQqxq1lrnt"
+      },
+      "artists": [
+        {
+          "name": "Julius Rodriguez",
+          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
+        }
+      ],
+      "duration_ms": 261887,
+      "name": "Where Grace Abounds",
+      "url": "https://open.spotify.com/track/7jtkZSNqKkeCVAxIh67QsH"
+    },
+    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "Bunker Sesh",
@@ -107,6 +259,42 @@
       "duration_ms": 395829,
       "name": "Sus Jawn - Bunker Sesh",
       "url": "https://open.spotify.com/track/17v2YhIU3p6FwChewyPKun"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Spirit of Chick Corea",
+        "url": "https://open.spotify.com/album/35sgoddxWokXV2cLutsX1A"
+      },
+      "artists": [
+        {
+          "name": "Mika Stoltzman",
+          "url": "https://open.spotify.com/artist/6UIrFKbkNoxAcj0RgXDfDW"
+        },
+        {
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
+        },
+        {
+          "name": "Eddie Gomez",
+          "url": "https://open.spotify.com/artist/38N2JKevVT36d1gFSlC8yv"
+        },
+        {
+          "name": "Richard Stoltzman",
+          "url": "https://open.spotify.com/artist/26MvjOuSgBhoTW66u4WeMM"
+        },
+        {
+          "name": "Gayle Moran Corea",
+          "url": "https://open.spotify.com/artist/3RUkZmzbeG3Xm9UYu0mOVa"
+        },
+        {
+          "name": "Karen Nelson Bell",
+          "url": "https://open.spotify.com/artist/4YbqZgpzAdBTjQJBVSGc4m"
+        }
+      ],
+      "duration_ms": 420213,
+      "name": "Spain",
+      "url": "https://open.spotify.com/track/4FPguTz5ZJ7rZZ2qzMPJHW"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -278,43 +466,15 @@
         {
           "name": "Eve",
           "url": "https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ"
+        },
+        {
+          "name": "Michael Blicher",
+          "url": "https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ"
         }
       ],
       "duration_ms": 376910,
       "name": "A Day in Brooklyn",
       "url": "https://open.spotify.com/track/2IaMdRERXjrdYrrxphnfRx"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Homage",
-        "url": "https://open.spotify.com/album/4DawBN3WVhUPP7WlJyLXIU"
-      },
-      "artists": [
-        {
-          "name": "Alan Pasqua",
-          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
-        },
-        {
-          "name": "Gary Bartz",
-          "url": "https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ"
-        },
-        {
-          "name": "Randy Brecker",
-          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
-        },
-        {
-          "name": "Dave Holland",
-          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
-        },
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        }
-      ],
-      "duration_ms": 348917,
-      "name": "Homage",
-      "url": "https://open.spotify.com/track/4NhfkBHRc1asPEBC1No3qu"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -423,22 +583,6 @@
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "Amaryllis",
-        "url": "https://open.spotify.com/album/5f4X6JHWWACcVWstI7KQUD"
-      },
-      "artists": [
-        {
-          "name": "Mary Halvorson",
-          "url": "https://open.spotify.com/artist/5tCfZ8dYbzaq6auQeSAsRl"
-        }
-      ],
-      "duration_ms": 355414,
-      "name": "Amaryllis",
-      "url": "https://open.spotify.com/track/5gkO2yhbHhhL7JZjPwpfu8"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
         "name": "Spring's Theme",
         "url": "https://open.spotify.com/album/37IwVVxJcPuwz4p3LibbSD"
       },
@@ -451,46 +595,6 @@
       "duration_ms": 229542,
       "name": "Spring's Theme",
       "url": "https://open.spotify.com/track/6HD2CBxIxy8ONoSvpZgvCj"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Rainbows everywhere",
-        "url": "https://open.spotify.com/album/3YCCXWR47845EZD3EIHz3c"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Rainbows everywhere",
-      "url": "https://open.spotify.com/track/0kSP6SaRHpmjbuS6IEdfYZ"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "The Summertime",
-        "url": "https://open.spotify.com/album/0BFeUVULFUJYgxLnOkY0ly"
-      },
-      "artists": [
-        {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
-        },
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "The Summertime",
-      "url": "https://open.spotify.com/track/7CvibeML5CjDjy0sZyiB2u"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -607,22 +711,6 @@
       "duration_ms": 364767,
       "name": "Zugzwang",
       "url": "https://open.spotify.com/track/4ujwzElVJ89jmRLoT4gYY9"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Silver Needle",
-        "url": "https://open.spotify.com/album/1YS1pLb5x8Ot6OgSaQA04N"
-      },
-      "artists": [
-        {
-          "name": "Tobias Wiklund",
-          "url": "https://open.spotify.com/artist/60qX0LHYPPka2fkSsGhcsx"
-        }
-      ],
-      "duration_ms": 351186,
-      "name": "Silver Needle",
-      "url": "https://open.spotify.com/track/5wd6BFck1slRZSsoniICZi"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -863,22 +951,6 @@
     {
       "added_at": "2022-04-15 04:02:00",
       "album": {
-        "name": "The Parable Of The Poet",
-        "url": "https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD"
-      },
-      "artists": [
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        }
-      ],
-      "duration_ms": 562400,
-      "name": "GUILT",
-      "url": "https://open.spotify.com/track/2qteg5TQZlkMpNZ46DQ99w"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
         "name": "Just Coolin'",
         "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
       },
@@ -1093,22 +1165,6 @@
       "url": "https://open.spotify.com/track/7zABidxslxZcJyOZF9pEuy"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Universal Language -Self Translation-",
-        "url": "https://open.spotify.com/album/0P1EngtSVs7KhUBFMqSzKm"
-      },
-      "artists": [
-        {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
-        }
-      ],
-      "duration_ms": 504306,
-      "name": "Someday We'll Fly",
-      "url": "https://open.spotify.com/track/4k98hsTy9dAhsckyUAQa0u"
-    },
-    {
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Next Stop",
@@ -1271,26 +1327,6 @@
       "duration_ms": 268212,
       "name": "Jike'lemaweni",
       "url": "https://open.spotify.com/track/2ORBalkbIaHkQyAPIyd4Qq"
-    },
-    {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
-        "name": "Times (feat. Lex Amor)",
-        "url": "https://open.spotify.com/album/3WV8Wbjfb3VROt5l5kSRoz"
-      },
-      "artists": [
-        {
-          "name": "DoomCannon",
-          "url": "https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy"
-        },
-        {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
-        }
-      ],
-      "duration_ms": 372213,
-      "name": "Times (feat. Lex Amor)",
-      "url": "https://open.spotify.com/track/0p1jXBUG1HO5SXgLbgUygq"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -1511,22 +1547,6 @@
       "duration_ms": 185000,
       "name": "London Falling",
       "url": "https://open.spotify.com/track/4UE0NS9Z7AGbcplSeXZqBA"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Jacob's Ladder",
-        "url": "https://open.spotify.com/album/73ZJVQvYg4KYSjQpVL8Wvi"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 223078,
-      "name": "maybe as his skies are wide",
-      "url": "https://open.spotify.com/track/5vMHLGOunVL0ymAd3ROeCP"
     },
     {
       "added_at": "2022-04-12 13:32:30",

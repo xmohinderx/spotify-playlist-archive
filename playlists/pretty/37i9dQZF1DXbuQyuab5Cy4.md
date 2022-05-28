@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,100 likes - 77 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,104 likes - 77 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 58 | [Dem Fraid](https://open.spotify.com/track/3Ui9jL2IyUyu2EzffYmqPp) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Taranchyla](https://open.spotify.com/artist/2xSkGZBEbUVJ8z1E0d0pzB) | [Cartel](https://open.spotify.com/album/6ElpxZorQUL5VgWl4TVVQi) | 3:30 |
 | 59 | [Thief](https://open.spotify.com/track/5Ce9z7GqSknXccyppRxNLY) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Thief](https://open.spotify.com/album/1TEDJMksfymmVbEpa3pG26) | 3:59 |
 | 60 | [Candy Flip](https://open.spotify.com/track/3GbIAc1YF7taTuU6FG1W13) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Candy Flip](https://open.spotify.com/album/2zWd2Kv0sTPEj4Gae9GJyU) | 3:10 |
-| 61 | [You Can't Hide](https://open.spotify.com/track/32filOsmivxaFHKLX6Ixth) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/1CSYl6uGdYcUnQwu6LV8Eq) | [You Can't Hide](https://open.spotify.com/album/5ugJHon7uBFj5nWIBxm7np) | 4:28 |
+| 61 | [You Can't Hide](https://open.spotify.com/track/32filOsmivxaFHKLX6Ixth) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [You Can't Hide](https://open.spotify.com/album/5ugJHon7uBFj5nWIBxm7np) | 4:28 |
 | 62 | [Wicked Witch](https://open.spotify.com/track/2MN7IMJJf1uanHSUnPG2tc) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [String Theory](https://open.spotify.com/album/6PD17jvyBOJ0JloBKCe121) | 3:12 |
 | 63 | [Beautiful Monster](https://open.spotify.com/track/3BkTXfYbVgsvsnoPO73KNN) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Beautiful Monster](https://open.spotify.com/album/7zTGK8FGxxGfbqzSyYZ9iy) | 2:41 |
 | 64 | [Dance with Death](https://open.spotify.com/track/2icGHFD0MuDrfyok0hZC0A) | [Ghost Dance](https://open.spotify.com/artist/72xnwCGF31iOuRh3l5JIwZ), [Luz](https://open.spotify.com/artist/1eI0LIircIlC2KbRjJAswD) | [Dance with Death](https://open.spotify.com/album/6fE8CiM9Pmn3XPwx39LhWJ) | 5:52 |

@@ -4,7 +4,7 @@
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-71 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
+72 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Te Amo Disgraça](https://open.spotify.com/track/5B4611SCn4puXahrf7rqkj) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Esú](https://open.spotify.com/album/11KgjDEaT1YjNUphDDTOzc) | 4:50 | 2022-03-07 |  |
 | [Te Observando](https://open.spotify.com/track/2gJT3axX6u8nekLSkkryZt) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Te Observando](https://open.spotify.com/album/0AqeHHrJOsFpMkqID7Iy4i) | 3:33 | 2022-03-07 |  |
 | [TIPO](https://open.spotify.com/track/78qClcxizF1otoEWRi2OBb) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx) | [Ladrão](https://open.spotify.com/album/2Qz6gIPZbP5rNiITj2aFjl) | 3:49 | 2022-03-07 |  |
+| [Vai Vai](https://open.spotify.com/track/6BGTyTmiKSUDnNcxJCAfh7) | [Celo Dut](https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV) | [Vai Vai](https://open.spotify.com/album/3iLJmhqL41TddX9Tij7UJs) | 2:18 | 2022-05-27 |  |
 | [Viciado 2.0](https://open.spotify.com/track/3fNOuAYr2W1EliK0KFFkJf) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [OWL](https://open.spotify.com/album/3xYT4lwBqrfi0W9s7BSYAS) | 2:53 | 2022-04-29 |  |
 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 | 2022-03-07 |  |
 

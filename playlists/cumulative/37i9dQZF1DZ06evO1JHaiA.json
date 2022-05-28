@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "This is The Intruders. The essential tracks, all in one playlist.",
   "name": "This Is The Intruders",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4RcOBBWDX6MKLzCgOsZWnl"
+  ],
   "tracks": [
     {
       "album": {
@@ -35,7 +37,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 165333,
       "name": "(So Glad I'm) Yours",
       "url": "https://open.spotify.com/track/717Mself5i3vyfmsLkIkbC"
@@ -176,6 +178,24 @@
     },
     {
       "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188866,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/6eIdVrBE1hHBIIsH9sDFdO"
+    },
+    {
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h"
       },
@@ -187,7 +207,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 155773,
       "name": "Check Yourself",
       "url": "https://open.spotify.com/track/3IARZce25CgZx1t4SRgtvj"
@@ -393,7 +413,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 157066,
       "name": "Guess Who Loves Me",
       "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
@@ -455,7 +475,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 166133,
       "name": "I Didn't Know",
       "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
@@ -615,7 +635,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 151866,
       "name": "Jefferies Rock",
       "url": "https://open.spotify.com/track/7nunGSSMVd4wx8GnKAckXr"
@@ -633,7 +653,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 139726,
       "name": "Just to Be",
       "url": "https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG"
@@ -651,7 +671,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 139800,
       "name": "Me Tarzan, You Jane",
       "url": "https://open.spotify.com/track/0009Q7nGlWjFzSjQIo9PmK"

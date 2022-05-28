@@ -4,7 +4,7 @@
 
 > The best new rock on the rise\. Cover: The Linda Lindas
 
-50 songs - 2 hr 34 min - not published yet
+50 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/4X0DXh9DPJiV5KJFDMzecp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "\u00a1Oi nom\u00e1s ese cumbi\u00f3n! ",
   "name": "Cumbias Para Bailar",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6uJrqwmktk9yM8sMWMY10Z"
+  ],
   "tracks": [
     {
       "album": {
@@ -403,7 +405,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 202200,
       "name": "Cumbia de las Flores",
       "url": "https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ"
@@ -927,7 +929,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 220020,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/0GDWfiGkJsArr9mNYjfMa1"
@@ -1046,6 +1048,24 @@
     },
     {
       "album": {
+        "name": "Sabor A Cumbia",
+        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174933,
+      "name": "La Velludita",
+      "url": "https://open.spotify.com/track/7sdCUfRUrKbqWCOguRhQnp"
+    },
+    {
+      "album": {
         "name": "Los Exitos de Tiberio y Sus Gatos Negros",
         "url": "https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj"
       },
@@ -1123,6 +1143,24 @@
       "duration_ms": 208080,
       "name": "Llorando Se Fue \"Lambada\"",
       "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
+    },
+    {
+      "album": {
+        "name": "Maldito Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3AqH6KSCy2p18916u5wwFa"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252049,
+      "name": "Maldito Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2JDa3ZtlIUIiJStLXPi6A6"
     },
     {
       "album": {
@@ -1382,6 +1420,24 @@
     },
     {
       "album": {
+        "name": "20 Exitos: Lo Mejor de la Cumbia",
+        "url": "https://open.spotify.com/album/6J9GMOkFYIg8wPPmsiirSt"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217973,
+      "name": "Ojitos Mentirosos",
+      "url": "https://open.spotify.com/track/3ZPxSh4Tif71ilz50LOrAT"
+    },
+    {
+      "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
       },
@@ -1559,7 +1615,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 238266,
       "name": "Qu\u00e9 Locura Enamorarme De Ti",
       "url": "https://open.spotify.com/track/4yPxW8J2cW4JS1pcHvZzp6"

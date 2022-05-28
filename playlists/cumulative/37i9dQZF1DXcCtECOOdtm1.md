@@ -4,7 +4,7 @@
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-50 songs - 4 hr 10 min - not published yet
+50 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/4ss52AmbN8gEtsSGVT2apA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

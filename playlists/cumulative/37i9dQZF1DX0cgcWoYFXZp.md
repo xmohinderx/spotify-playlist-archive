@@ -4,7 +4,7 @@
 
 > Cruise through Japanese “Neo” City Pop from the ’00s./ 渋谷系の系譜から、ボーダーレスに多様化に向かっていった’00年代。ネオ・シティポップ新時代の波はすぐそこに。
 
-50 songs - 4 hr 9 min - not published yet
+50 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/5yyWojYBZhg2uafZai4AOr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

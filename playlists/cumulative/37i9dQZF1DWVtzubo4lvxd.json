@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
   "name": "Sunset Chill",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7on3y4t0dpM9kcFySbFRWF"
+  ],
   "tracks": [
     {
       "album": {
@@ -381,7 +383,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/4zf41XjqWlQPJOqQIVX3Xw"
@@ -548,6 +550,28 @@
     },
     {
       "album": {
+        "name": "flowers",
+        "url": "https://open.spotify.com/album/7tAaWz43voY2qe3kd4tvBL"
+      },
+      "artists": [
+        {
+          "name": "Anatolian Lover",
+          "url": "https://open.spotify.com/artist/623ScUknqQMeadlTsPsw0k"
+        },
+        {
+          "name": "Chill Moon Music",
+          "url": "https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "flowers",
+      "url": "https://open.spotify.com/track/3rOEB3uDJW8njCCzZHG8ug"
+    },
+    {
+      "album": {
         "name": "Found you by the Sea",
         "url": "https://open.spotify.com/album/2wH0zEupJScB87nbQhfFJt"
       },
@@ -625,7 +649,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 132148,
       "name": "go away",
       "url": "https://open.spotify.com/track/0fXfA8rpomAF4jMx58zs67"
@@ -704,6 +728,24 @@
     },
     {
       "album": {
+        "name": "The Sketch",
+        "url": "https://open.spotify.com/album/4YZ2pr5CNPPlX916nvUcnC"
+      },
+      "artists": [
+        {
+          "name": "Padma Purana",
+          "url": "https://open.spotify.com/artist/2nebIURM77CcBY8Q5y187K"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299817,
+      "name": "Istoria Mias Kalpikis Liras",
+      "url": "https://open.spotify.com/track/56zxZc1luYs2HIXTkFGs05"
+    },
+    {
+      "album": {
         "name": "It's Ok",
         "url": "https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek"
       },
@@ -719,7 +761,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 168297,
       "name": "It's Ok",
       "url": "https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88"
@@ -835,7 +877,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 221772,
       "name": "Leave My Home",
       "url": "https://open.spotify.com/track/3XnhFQRvNH5LyR9fBKjjh7"
@@ -871,7 +913,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 110000,
       "name": "Linden",
       "url": "https://open.spotify.com/track/3ly2OfaKp8wRb124D2Idam"
@@ -1053,7 +1095,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 210109,
       "name": "Old Town",
       "url": "https://open.spotify.com/track/1Ly9DQ9qgelrGZX6TZvjr9"
@@ -1125,10 +1167,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 154282,
       "name": "passage",
       "url": "https://open.spotify.com/track/5x6NyRDJl3AZ53oaYAH23o"
+    },
+    {
+      "album": {
+        "name": "Popsicle",
+        "url": "https://open.spotify.com/album/5B0i573qDyP4p5fMp1zLvJ"
+      },
+      "artists": [
+        {
+          "name": "Funk Andrews",
+          "url": "https://open.spotify.com/artist/7qHVz54RdRADqyKWnvmYUh"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146475,
+      "name": "Popsicle",
+      "url": "https://open.spotify.com/track/4ckgfk6svzgE1FmYWbJiCl"
     },
     {
       "album": {
@@ -1165,7 +1225,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 137357,
       "name": "reunion",
       "url": "https://open.spotify.com/track/0TRS0L5H57ETh3S8hzrVrJ"
@@ -1183,7 +1243,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 153417,
       "name": "Rio Roadtrippin'",
       "url": "https://open.spotify.com/track/76RXCXdZaVZ9LHbmBypZnM"
@@ -1219,7 +1279,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 103255,
       "name": "Secret",
       "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
@@ -1241,6 +1301,24 @@
       "duration_ms": 127792,
       "name": "See You Tomorrow Sunshine",
       "url": "https://open.spotify.com/track/0FCj9e5G6bwfOhRP0pCi2d"
+    },
+    {
+      "album": {
+        "name": "running around dreaming",
+        "url": "https://open.spotify.com/album/2yTJ6fdaX9ZYGzdEJyrvna"
+      },
+      "artists": [
+        {
+          "name": "Delayde",
+          "url": "https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "sekao",
+      "url": "https://open.spotify.com/track/4c2TiYoJHIjEPZ5syRZhsY"
     },
     {
       "album": {
@@ -1347,7 +1425,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 213626,
       "name": "SPACE19 (Instrumental)",
       "url": "https://open.spotify.com/track/3ZonfsnZxyluRHLB8igb3F"
@@ -1369,7 +1447,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 123157,
       "name": "Stars",
       "url": "https://open.spotify.com/track/6ASdOVZkbVNoHzJSj0Cxll"
@@ -1467,7 +1545,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 137142,
       "name": "sunset drive",
       "url": "https://open.spotify.com/track/6HVnsENMWuewoZvCGMsghQ"
@@ -1539,7 +1617,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 86169,
       "name": "Tales of Pub",
       "url": "https://open.spotify.com/track/6xAhgilbQhr0jYerYnex33"
@@ -1564,6 +1642,24 @@
     },
     {
       "album": {
+        "name": "Motel Lazy",
+        "url": "https://open.spotify.com/album/1j3DSMGxqDAukUT52VLShV"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Thinkin About You",
+      "url": "https://open.spotify.com/track/4qOS5NoY0Y1zOx98qFxorw"
+    },
+    {
+      "album": {
         "name": "longing for you",
         "url": "https://open.spotify.com/album/5g1Wmg2jW2F11eX4aNKcBV"
       },
@@ -1575,7 +1671,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 78987,
       "name": "this one is for you",
       "url": "https://open.spotify.com/track/4LldbfLNmXOCgFbZdfGEAV"
@@ -1615,7 +1711,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 115988,
       "name": "Tumbleup",
       "url": "https://open.spotify.com/track/3EHkSFhEGzGav41IolQ6Cd"
@@ -1681,10 +1777,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 124766,
       "name": "vidrio",
       "url": "https://open.spotify.com/track/7uu03iBKk4P3drouoBPjMZ"
+    },
+    {
+      "album": {
+        "name": "Vindication",
+        "url": "https://open.spotify.com/album/5IGxW2mygkH5vTD9APhhtJ"
+      },
+      "artists": [
+        {
+          "name": "Veritas",
+          "url": "https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222902,
+      "name": "Vindication",
+      "url": "https://open.spotify.com/track/5eEV0GeXZCPrBaStpbT4aK"
     },
     {
       "album": {
@@ -1699,7 +1813,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 162391,
       "name": "Water",
       "url": "https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D"

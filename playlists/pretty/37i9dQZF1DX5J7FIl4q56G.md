@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Blind Guardian
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,367 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,502 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 27 | [Raw](https://open.spotify.com/track/7FCVJA2Fam3DiTsgBJoVuk) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Raw](https://open.spotify.com/album/73pyrNaGLPGT8JuHZTSfv9) | 3:42 |
 | 28 | [Justitia \(feat\. Sven de Caluwé & Aborted\)](https://open.spotify.com/track/2VzZPVo5Sg0gJYPgcLk5Ct) | [BAEST](https://open.spotify.com/artist/4UtjZRQc6qXhAd1kqyLvqp), [Sven De Caluwe](https://open.spotify.com/artist/6PnAHo4VtceG6H8Ma0trmd), [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [Justitia \- EP](https://open.spotify.com/album/3bwwgUODSh6sxndp9UqqzU) | 4:13 |
 | 29 | [Cracks in the Pyre](https://open.spotify.com/track/4KVI1m8p8oFAUiO4cOVjYp) | [Conjurer](https://open.spotify.com/artist/38eUVFRyGFT6VnEbaFRScQ) | [Cracks in the Pyre](https://open.spotify.com/album/7t3dnVTvKZgHu0vNnFnvPO) | 7:22 |
-| 30 | [M.U.T.O.](https://open.spotify.com/track/7qUpvrmbGEiRRLBYJ7ahC7) | [HOSTAGE](https://open.spotify.com/artist/653fYxU9prUXhYQFhIrTtD), [Marius Wedler](https://open.spotify.com/artist/4DokQOG2tBlQOin52nhh5M), [Alleviate](https://open.spotify.com/artist/5dfB8okcJRsAoU0zlylZrm) | [M.U.T.O.](https://open.spotify.com/album/2gysco87M6YpKC4doFe6c4) | 3:39 |
+| 30 | [M.U.T.O.](https://open.spotify.com/track/7qUpvrmbGEiRRLBYJ7ahC7) | [HOSTAGE](https://open.spotify.com/artist/653fYxU9prUXhYQFhIrTtD), [Alleviate](https://open.spotify.com/artist/5dfB8okcJRsAoU0zlylZrm), [Marius Wedler](https://open.spotify.com/artist/4DokQOG2tBlQOin52nhh5M) | [M.U.T.O.](https://open.spotify.com/album/2gysco87M6YpKC4doFe6c4) | 3:39 |
 | 31 | [Bury the Motive](https://open.spotify.com/track/3YtPZkOzdEey96FY20UGJS) | [Mammothor](https://open.spotify.com/artist/6L8W07NCv5iosKaHy29F46) | [Bury the Motive](https://open.spotify.com/album/1R9nYgUDZaVHio6nEEYrSh) | 4:32 |
 | 32 | [Animal](https://open.spotify.com/track/4PtqYdUtcDN8BDALY8ELpp) | [Sever](https://open.spotify.com/artist/2EEOsdvu1oJzCKk9rUNQFq) | [This Should Have Been a Better Place](https://open.spotify.com/album/3r8qD5b5uYIv5XYMLIFqxK) | 3:31 |
 | 33 | [Stairs Of Ragusa](https://open.spotify.com/track/538ErIkUcGOqfz5HsOYv14) | [Mentalist](https://open.spotify.com/artist/0FqWOgn92qjlFjYcmoesrs) | [Stairs Of Ragusa](https://open.spotify.com/album/2YykTDARdd7I1BXlwkB7rg) | 4:09 |

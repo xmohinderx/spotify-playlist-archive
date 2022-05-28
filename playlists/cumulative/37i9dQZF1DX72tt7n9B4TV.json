@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "Hot noise for summer days.",
   "name": "Summer Rock",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5zEkm1jh8QhoO6jxa8ICRU"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 175432,
       "name": "23, Never Me",
       "url": "https://open.spotify.com/track/6X1qkAaZoCIgcrqyeRJP8L"
@@ -42,6 +44,24 @@
     },
     {
       "album": {
+        "name": "98.",
+        "url": "https://open.spotify.com/album/6Cuk7bUyJRsqmr7RLb5iXg"
+      },
+      "artists": [
+        {
+          "name": "TOWNS",
+          "url": "https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179387,
+      "name": "98.",
+      "url": "https://open.spotify.com/track/06R6ozRwIKqXSRTPCF5QOB"
+    },
+    {
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/4ZXK260CRmgXgQ5tCs1hmk"
       },
@@ -53,7 +73,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 216218,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU"
@@ -125,7 +145,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 201696,
       "name": "Bells",
       "url": "https://open.spotify.com/track/3kKlJ7zSvU8MfAoTPONZKj"
@@ -215,7 +235,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 195990,
       "name": "Burn With Me",
       "url": "https://open.spotify.com/track/4iBf5GuLgVzfMypmOEEiFC"
@@ -305,7 +325,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 256506,
       "name": "Complete You",
       "url": "https://open.spotify.com/track/5jNPu9QRIe8X7LP2Q2HTd0"
@@ -637,7 +657,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 155680,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c"
@@ -753,7 +773,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 179573,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2"
@@ -771,7 +791,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 159880,
       "name": "I Want to Believe",
       "url": "https://open.spotify.com/track/65GhsC6Dg96hLgXUr615li"
@@ -843,7 +863,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 210160,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6Dgix2xCbnqigfrjulm24R"
@@ -897,7 +917,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 127306,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/3sBkphRoIfQEgQiUxu1b7v"
@@ -915,7 +935,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 133678,
       "name": "Loser",
       "url": "https://open.spotify.com/track/01VbCa15MmvNg3KMOfoHa2"
@@ -1078,6 +1098,24 @@
     },
     {
       "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212853,
+      "name": "Rose-Colored Boy",
+      "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
+    },
+    {
+      "album": {
         "name": "Hidden Gems",
         "url": "https://open.spotify.com/album/6uI7YirquMLS8hkRFgJ16B"
       },
@@ -1089,7 +1127,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 222936,
       "name": "Shakin' Off The Rust",
       "url": "https://open.spotify.com/track/5PUlGG3xO8PUuDcYKuaeZH"
@@ -1165,6 +1203,24 @@
       "duration_ms": 171221,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/5XmLP99v54O4zV9vrlBKVS"
+    },
+    {
+      "album": {
+        "name": "RITUALS",
+        "url": "https://open.spotify.com/album/1FLdYHRiuWtZcGQq1lSa2K"
+      },
+      "artists": [
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207010,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/23qa4Zh6BFUlkR8Bz7sDMO"
     },
     {
       "album": {
@@ -1385,10 +1441,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 187890,
       "name": "The Rush",
       "url": "https://open.spotify.com/track/2w1PqXuQG6Fjum7259GzO8"
+    },
+    {
+      "album": {
+        "name": "Days Are Gone",
+        "url": "https://open.spotify.com/album/0eXAgjcMHbFt3fS0XXp8Kw"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245786,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/3h8mGFJU0OSrMGyOSRF5xH"
     },
     {
       "album": {
@@ -1421,7 +1495,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 195853,
       "name": "Tiny Indoor Fireworks",
       "url": "https://open.spotify.com/track/1ZUsnvMUqF0uJkhhjZlvcY"
@@ -1515,7 +1589,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 166946,
       "name": "Will It Tear Us Apart?",
       "url": "https://open.spotify.com/track/5GudhuVyrAleARYG0XLIIl"
@@ -1605,7 +1679,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 210133,
       "name": "Young Forever",
       "url": "https://open.spotify.com/track/1m9BaQlbJBW02RF9jR00tX"

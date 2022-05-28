@@ -1692,6 +1692,28 @@
     },
     {
       "album": {
+        "name": "Sem Leme",
+        "url": "https://open.spotify.com/album/5dY1FS6gwocGRlboNeWRVz"
+      },
+      "artists": [
+        {
+          "name": "Vincee",
+          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
+        },
+        {
+          "name": "Akilla",
+          "url": "https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "Sem Leme",
+      "url": "https://open.spotify.com/track/54vPD639848uvG5f8WtQev"
+    },
+    {
+      "album": {
         "name": "Giovanna",
         "url": "https://open.spotify.com/album/0j047tgn9GKLgqf5NjTkHZ"
       },
@@ -1983,7 +2005,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 206452,
       "name": "Terra",
       "url": "https://open.spotify.com/track/2vGZLRXOYIUJn89wKqLeon"

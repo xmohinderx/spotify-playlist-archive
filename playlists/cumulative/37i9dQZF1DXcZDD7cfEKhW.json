@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: The Weeknd.",
+  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Lizzo.",
   "name": "Pop Remix",
   "published_playlist_ids": [
     "19uNHWTaOVDySWkMTC6J3e"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2021-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 204761,
       "name": "Carry Us - Bexxie Remix",
       "url": "https://open.spotify.com/track/1lwnReHQImLBYHNrvdTJaW"
@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 147146,
       "name": "Dancing In The Moonlight (feat. NEIMY) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/5XNNskkpE46QcgyWjPHUZd"
@@ -1537,7 +1537,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 195594,
       "name": "Diamonds - Joel Corry Remix",
       "url": "https://open.spotify.com/track/5rxT1ueHIJum2Ond5yOe1N"
@@ -2123,7 +2123,7 @@
       ],
       "date_added": "2021-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 226229,
       "name": "Fire for You - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/0tM1GsbzKXq1Iy3O1YhaDU"
@@ -3793,7 +3793,7 @@
       ],
       "date_added": "2021-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
@@ -4391,7 +4391,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 146904,
       "name": "Morning - Billen Ted Remix",
       "url": "https://open.spotify.com/track/64qOMCzbwD6yrgBYBPJMA3"
@@ -4643,7 +4643,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 191329,
       "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
       "url": "https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd"
@@ -5469,7 +5469,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 233658,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/0gfZlbWWWd1VKvwQHOI0wS"
@@ -5491,7 +5491,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 244413,
       "name": "See-Line Woman - Riton Remix",
       "url": "https://open.spotify.com/track/2BnoxYpCeEiDQSUNx1TZpf"
@@ -6173,7 +6173,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 151961,
       "name": "Summer's Not Ready (feat. INNA and Timmy Trumpet)",
       "url": "https://open.spotify.com/track/1uSaqSNnHtvzBEDNQ5hZP0"
@@ -6977,7 +6977,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 181878,
       "name": "universe (DTB Remix) - Spotify Singles",
       "url": "https://open.spotify.com/track/3VgbUDt8Vz6RwcRRzjJ3xB"
@@ -7095,10 +7095,36 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 162739,
       "name": "Venus Fly Trap (Kito Remix) [feat. Tove Lo]",
       "url": "https://open.spotify.com/track/3Zip43ntvkVIZJLCxOcNXl"
+    },
+    {
+      "album": {
+        "name": "Voodoo (With J Balvin) - Ti\u00ebsto Remix",
+        "url": "https://open.spotify.com/album/75G6Xu4kuB1hfbBjUaRYyt"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Voodoo (With J Balvin) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/6NazIrzaE4n57E7ObZNVFC"
     },
     {
       "album": {
@@ -7287,7 +7313,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 212727,
       "name": "What, Me Worry? - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/3YwsjD1ckhneoesIqaHYZi"
@@ -7517,7 +7543,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 157160,
       "name": "You - Topic Remix",
       "url": "https://open.spotify.com/track/5bbtc9t6FcerXp732H2XNu"
@@ -7591,7 +7617,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 186531,
       "name": "Your Love (9PM) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/3ZUGQQQdTteMWdPg2bvLsp"

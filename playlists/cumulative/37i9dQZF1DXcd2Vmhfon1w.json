@@ -105,7 +105,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 195405,
       "name": "40 NOCHES",
       "url": "https://open.spotify.com/track/64tFEyCfMQjRsp7AcWwSxg"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 197481,
       "name": "Dime Que Es La Vida",
       "url": "https://open.spotify.com/track/1wzkDXRgkwg3bPY8B3Mm4S"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 194645,
       "name": "Foyonestein",
       "url": "https://open.spotify.com/track/3MW1qWwvjUgXMgFmJhc6mq"
@@ -1081,7 +1081,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 225676,
       "name": "Hasta el Top",
       "url": "https://open.spotify.com/track/4aQHZjJwGnx4NxU777Um1y"
@@ -1217,7 +1217,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 153600,
       "name": "La Magia del cine",
       "url": "https://open.spotify.com/track/0HjFfNgNq7p24zZSDtpkWN"
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 125454,
       "name": "La Retah\u00edla",
       "url": "https://open.spotify.com/track/56zCnpzoU2sGbA8nYSfIR7"
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 187000,
       "name": "Llora",
       "url": "https://open.spotify.com/track/3HKMlaXWyJzKOr0l1R95S0"
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 131673,
       "name": "Lo que hay",
       "url": "https://open.spotify.com/track/5nVvLT78CYsuny5LDDIOOo"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 152514,
       "name": "Me Encanta Tu Encanto",
       "url": "https://open.spotify.com/track/6Jq1PlZ9SlBYWVszBcR8Ja"
@@ -1473,7 +1473,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 136280,
       "name": "Me Piden Que Cante",
       "url": "https://open.spotify.com/track/07zHQ6Gg5f1sUeeN3PlsDv"
@@ -1630,6 +1630,28 @@
     },
     {
       "album": {
+        "name": "Nana",
+        "url": "https://open.spotify.com/album/78CkLda43EMXmQ20Brjb9D"
+      },
+      "artists": [
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        },
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/2kZ1CuF4YhcxZfoHyCq6JM"
+    },
+    {
+      "album": {
         "name": "No Hay Manera",
         "url": "https://open.spotify.com/album/1eR5vOALWMjXkehzm3tfyj"
       },
@@ -1675,7 +1697,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 198709,
       "name": "No Me Llores",
       "url": "https://open.spotify.com/track/6cKsGajC4aS32T61nYTf9i"
@@ -1941,6 +1963,24 @@
       "duration_ms": 185322,
       "name": "Shars 2020",
       "url": "https://open.spotify.com/track/036QM4rIhz7A7n66IWA7Ej"
+    },
+    {
+      "album": {
+        "name": "Tirititando",
+        "url": "https://open.spotify.com/album/23CDTnMpY9k9tKblvWsxGw"
+      },
+      "artists": [
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/5emjBfWheJT83MyOzmlTNU"
     },
     {
       "album": {
@@ -2287,6 +2327,28 @@
       "duration_ms": 210600,
       "name": "Volver",
       "url": "https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL"
+    },
+    {
+      "album": {
+        "name": "War'z On",
+        "url": "https://open.spotify.com/album/0gPR5bOi7qN9LE0oqLlBXy"
+      },
+      "artists": [
+        {
+          "name": "Ergo Pro",
+          "url": "https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4"
+        },
+        {
+          "name": "Gese Da O",
+          "url": "https://open.spotify.com/artist/5m5mdpE5ZDrHVKjvdc0AZQ"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168881,
+      "name": "War'z On",
+      "url": "https://open.spotify.com/track/13WAB6e53dZgCh2xXIXyXA"
     },
     {
       "album": {

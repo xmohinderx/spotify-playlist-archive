@@ -4,7 +4,7 @@
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-60 songs - 3 hr 51 min - not published yet
+60 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/2TM16VdLTGsbk088ETOR0g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

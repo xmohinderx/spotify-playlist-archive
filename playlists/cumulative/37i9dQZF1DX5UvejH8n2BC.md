@@ -4,7 +4,7 @@
 
 > Female artists of Philadelphia International Records which is especially known for Philly Soul\. Cover: The Jones Girls:
 
-33 songs - 2 hr 41 min - not published yet
+33 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/1sZQDeKb0fSNEWBSFcVUJi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

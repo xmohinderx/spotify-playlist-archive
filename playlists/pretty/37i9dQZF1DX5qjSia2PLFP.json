@@ -1,13 +1,137 @@
 {
   "description": "New music breaking waves.  Cover: Money Marr",
-  "num_followers": 15665,
+  "num_followers": 15719,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAzNDE0NiwwMDAwMDAzNzAwMDAwMTgwZTA4MzVhN2YwMDAwMDE4MGJhMGJiNzIw",
+  "snapshot_id": "MTY1MzYyNTYyOSwwMDAwMDAzODAwMDAwMTgxMDNjNGFiMjYwMDAwMDE4MGJhMGJiNzIw",
   "tracks": [
+    {
+      "added_at": "2022-05-27 04:27:09",
+      "album": {
+        "name": "Pretty In Black",
+        "url": "https://open.spotify.com/album/0zGITDnaDBlBAyixXP7gJi"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 158236,
+      "name": "ON DAT SHIT",
+      "url": "https://open.spotify.com/track/2EydGl5jyjAPC4vAfRHm2U"
+    },
+    {
+      "added_at": "2022-05-27 04:27:09",
+      "album": {
+        "name": "NOT 4 NOTHIN",
+        "url": "https://open.spotify.com/album/30hwDLUSj4GDp5qiMKmkt0"
+      },
+      "artists": [
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        }
+      ],
+      "duration_ms": 122383,
+      "name": "NOT 4 NOTHIN",
+      "url": "https://open.spotify.com/track/2vq2kV32I8xqpifY2p4Trs"
+    },
+    {
+      "added_at": "2022-05-06 04:15:57",
+      "album": {
+        "name": "F.N.F. (Let's Go)",
+        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 137579,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
+    },
+    {
+      "added_at": "2022-05-27 04:27:09",
+      "album": {
+        "name": "Try Hard",
+        "url": "https://open.spotify.com/album/0HEoy02ph3KqkAg5OW5iIH"
+      },
+      "artists": [
+        {
+          "name": "Idontknowjeffery",
+          "url": "https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6"
+        },
+        {
+          "name": "Denaro Love",
+          "url": "https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc"
+        }
+      ],
+      "duration_ms": 148607,
+      "name": "Try Hard",
+      "url": "https://open.spotify.com/track/1Y0WL6KqYm78Fn8eIlStyR"
+    },
+    {
+      "added_at": "2022-05-27 04:27:09",
+      "album": {
+        "name": "APPARENT",
+        "url": "https://open.spotify.com/album/7mlxFceSjfCACrEhIwVscy"
+      },
+      "artists": [
+        {
+          "name": "Al-Doms",
+          "url": "https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "APPARENT",
+      "url": "https://open.spotify.com/track/1XhINAXbdbMNo8nAAM8xXN"
+    },
+    {
+      "added_at": "2022-05-20 08:09:06",
+      "album": {
+        "name": "Beautiful Michi Girls",
+        "url": "https://open.spotify.com/album/66FVuwCSWibe0HDy99KKmo"
+      },
+      "artists": [
+        {
+          "name": "TyFontaine",
+          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
+        }
+      ],
+      "duration_ms": 151123,
+      "name": "Lesson Learned",
+      "url": "https://open.spotify.com/track/3rahkSYrtJdTqUVK9NiHt0"
+    },
+    {
+      "added_at": "2022-05-27 04:27:09",
+      "album": {
+        "name": "Somebody Told Me",
+        "url": "https://open.spotify.com/album/5nJ1fosTWsfTfkHKFbDHfk"
+      },
+      "artists": [
+        {
+          "name": "Your Grandparents",
+          "url": "https://open.spotify.com/artist/4H2uN93zRcRAVmTINvxuiq"
+        },
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 255094,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/72elEHWSWoCcQZaHCfdeyh"
+    },
     {
       "added_at": "2022-05-20 08:09:06",
       "album": {
@@ -59,22 +183,6 @@
     {
       "added_at": "2022-05-20 08:09:06",
       "album": {
-        "name": "Beautiful Michi Girls",
-        "url": "https://open.spotify.com/album/66FVuwCSWibe0HDy99KKmo"
-      },
-      "artists": [
-        {
-          "name": "TyFontaine",
-          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
-        }
-      ],
-      "duration_ms": 151123,
-      "name": "Lesson Learned",
-      "url": "https://open.spotify.com/track/3rahkSYrtJdTqUVK9NiHt0"
-    },
-    {
-      "added_at": "2022-05-20 08:09:06",
-      "album": {
         "name": "Rich Forever",
         "url": "https://open.spotify.com/album/3TfvnvmemM0CI4UOxkTokJ"
       },
@@ -103,26 +211,6 @@
       "duration_ms": 105926,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/5gHZrIUjZ6eniUIrySkv6Y"
-    },
-    {
-      "added_at": "2022-05-06 04:15:57",
-      "album": {
-        "name": "F.N.F. (Let's Go)",
-        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
-      },
-      "artists": [
-        {
-          "name": "Hitkidd",
-          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 137579,
-      "name": "F.N.F. (Let's Go)",
-      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
     },
     {
       "added_at": "2022-04-01 04:00:00",

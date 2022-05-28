@@ -4,7 +4,7 @@
 
 > Rain keep a fallin’ round my window pane.\. Blues to warm the soul when there’s no point going outside.
 
-55 songs - 3 hr 48 min - not published yet
+55 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/7oJ0v1QCs5RqWKmg8kv7zj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

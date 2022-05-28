@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/1uAinYIc2lPdFom5R5trX5"
+      },
+      "artists": [
+        {
+          "name": "Maria McCausland",
+          "url": "https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223615,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/3OAcJ8edCrAvbEVG99AjAL"
+    },
+    {
+      "album": {
         "name": "Az\u00faca / El Loro y La Lora",
         "url": "https://open.spotify.com/album/0NZvY2WUPhWGFpKHio7QVB"
       },
@@ -1616,6 +1634,24 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n Soy (Lado B) - Versi\u00f3n Extendida",
+        "url": "https://open.spotify.com/album/4LTwVPY8C5C2hkr1eEDAlG"
+      },
+      "artists": [
+        {
+          "name": "Paula Van Hissenhoven",
+          "url": "https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252951,
+      "name": "Te Espero",
+      "url": "https://open.spotify.com/track/3bM62eLHGIIdf3ZYSkIiCN"
+    },
+    {
+      "album": {
         "name": "Te Quer\u00eda (Chancha V\u00eda Circuito Remix)",
         "url": "https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML"
       },
@@ -1859,6 +1895,24 @@
       "duration_ms": 148361,
       "name": "Vete",
       "url": "https://open.spotify.com/track/48drpTVrcQ3z9jgWW1zIAa"
+    },
+    {
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/18hHrCTRv4mSGaCHvskuWy"
+      },
+      "artists": [
+        {
+          "name": "Lunal\u00e9",
+          "url": "https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193675,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/52x5xGEe3DMahkpDR6aEhX"
     },
     {
       "album": {

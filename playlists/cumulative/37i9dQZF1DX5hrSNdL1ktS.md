@@ -4,7 +4,7 @@
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Foto: El Malilla
 
-74 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
+75 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Adicta](https://open.spotify.com/track/3hmuvslh6nU6lHi0QxIMsn) | [Barovier](https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh) | [Adicta](https://open.spotify.com/album/15NSR3NJJZJYU8Be5zFbUv) | 2:04 | 2022-03-02 |  |
 | [ALGO TRANQUI](https://open.spotify.com/track/6KAaBhdoWkKwq6TVNmsGMr) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3) | [ALGO TRANQUI](https://open.spotify.com/album/46yKLRJizMTGso4JYfNVdQ) | 2:16 | 2022-01-07 | 2022-02-16 |
 | [Bailalo](https://open.spotify.com/track/76goNKad1tCxAmEfH6PFPp) | [Eleá](https://open.spotify.com/artist/6h4A1AIEVWuf8E008pt6S5) | [Bailalo](https://open.spotify.com/album/4Z2n4N44wtzsVH7p9rLPzi) | 2:56 | 2022-01-07 |  |
-| [Blanco Y Negro](https://open.spotify.com/track/3SdMz8hyuRYbbiYoNqmyxO) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Blanco Y Negro](https://open.spotify.com/album/2M2ao83OAsIDW7uDAf4UHp) | 3:23 | 2022-01-07 |  |
+| [Blanco Y Negro](https://open.spotify.com/track/3SdMz8hyuRYbbiYoNqmyxO) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Blanco Y Negro](https://open.spotify.com/album/2M2ao83OAsIDW7uDAf4UHp) | 3:23 | 2022-01-07 | 2022-05-28 |
 | [Charles Ans x Neto Peña x Yoss Bones \- LQRA Session \#5](https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Charles Ans x Neto Peña x Yoss Bones \- LQRA Session \#5](https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a) | 5:08 | 2022-03-02 |  |
 | [Como Antes](https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Como Antes](https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A) | 2:50 | 2022-01-07 |  |
 | [Dale Agachadita](https://open.spotify.com/track/0D4BSEA5fddnZ0FQEc3n3O) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Luam](https://open.spotify.com/artist/0p5lNivYQ06xMqR6wN4GI3), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP) | [Dale Agachadita](https://open.spotify.com/album/2U9hw9oBgR7lcXofg1t87b) | 3:09 | 2022-01-07 | 2022-03-03 |
@@ -54,6 +54,7 @@
 | [Mejor Sola](https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Mejor Sola](https://open.spotify.com/album/3TI2wvsbQINrmuV5CIXwWH) | 3:50 | 2022-01-22 |  |
 | [Melocotón](https://open.spotify.com/track/4PCAhx0o0FWhBwgJYIuHps) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Tiempos \(Re\-Issue\)](https://open.spotify.com/album/2gSgn4VsIQzuoXC6b27GNH) | 3:06 | 2022-01-07 | 2022-03-03 |
 | [Menta](https://open.spotify.com/track/1a7BzukLRIIsOvJGozrFja) | [Martinez](https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy), [FEGA](https://open.spotify.com/artist/6koJ0koSoyiHwlGPP6c1Lo) | [Menta](https://open.spotify.com/album/28qcC50kgrTlyDfZQaltcM) | 3:10 | 2022-01-07 | 2022-03-03 |
+| [MI PLAN B](https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Freddy Leyva](https://open.spotify.com/artist/3ueyBGPT589ZTaWcVw3Qyl) | [MI PLAN B](https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9) | 3:17 | 2022-05-27 |  |
 | [MOOD](https://open.spotify.com/track/5nRloY6Bqe7k0Ay5gm1ErY) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [MOOD](https://open.spotify.com/album/3D5MV1TC8L4HQvnZ4edTqq) | 3:10 | 2022-01-07 | 2022-05-07 |
 | [Morena Mía](https://open.spotify.com/track/5ppm2LDV6yqf7cxjKHOqkG) | [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Morena Mía](https://open.spotify.com/album/5oBKjHnCEXWK1KlaqcFpH0) | 2:43 | 2022-01-07 |  |
 | [Nieve de Vainilla](https://open.spotify.com/track/6DNaON1fypnYBW9ud7za94) | [Valzzi](https://open.spotify.com/artist/0IbphE6Bv2bv5nuFHY6bfD) | [Nieve de Vainilla](https://open.spotify.com/album/0Gor4xY55uhvXIxsB2y9ly) | 2:41 | 2022-01-07 |  |

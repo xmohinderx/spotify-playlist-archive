@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "Chill under the stars with this instrumental playlist. Cover: Sami Yusuf.",
   "name": "Stargazer",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1ISc2kghgLSBOppDcYOI8f"
+  ],
   "tracks": [
     {
       "album": {
@@ -401,7 +403,7 @@
       ],
       "date_added": "2021-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 308000,
       "name": "Healing Keys of Light",
       "url": "https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB"
@@ -1155,7 +1157,7 @@
       ],
       "date_added": "2021-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 313154,
       "name": "The Semuta Jig",
       "url": "https://open.spotify.com/track/4VoptqwF5p1nF5jRaLQH9m"

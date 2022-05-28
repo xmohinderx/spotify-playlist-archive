@@ -4,7 +4,7 @@
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Alcolirykoz
 
-70 songs - 3 hr 58 min - not published yet
+70 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/3zmU4gkPj0G6pq0uLvvBh3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

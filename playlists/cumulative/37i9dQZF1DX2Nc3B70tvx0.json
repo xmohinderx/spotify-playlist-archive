@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "The best in modern indie. Cover: The Smile",
+  "description": "The best in modern indie. Cover: Sudan Archives",
   "name": "Ultimate Indie",
   "published_playlist_ids": [
     "5B0jp45qz6hLoPhNNGwuxh"
@@ -77,6 +77,24 @@
       "duration_ms": 181746,
       "name": "1st Time",
       "url": "https://open.spotify.com/track/4udjo5nLK61pKajakfrndc"
+    },
+    {
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266614,
+      "name": "2001",
+      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
     },
     {
       "album": {
@@ -679,7 +697,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 276826,
       "name": "All The Good Times",
       "url": "https://open.spotify.com/track/1muz3TRXxuub3ERDZbNvQE"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 233186,
       "name": "amsterdam",
       "url": "https://open.spotify.com/track/63KNEkrbMKEi3Ee2eU0MXx"
@@ -845,6 +863,24 @@
       "duration_ms": 146000,
       "name": "and i'd go a thousand miles",
       "url": "https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz"
+    },
+    {
+      "album": {
+        "name": "Angel Of Business",
+        "url": "https://open.spotify.com/album/6CHG0jSYzWwZgB1Ckzcpw0"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "Angel Of Business",
+      "url": "https://open.spotify.com/track/56MR3nhA4eB3dN6cfb6JG2"
     },
     {
       "album": {
@@ -1231,7 +1267,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu"
@@ -2567,7 +2603,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 214520,
       "name": "Car Therapy",
       "url": "https://open.spotify.com/track/03bB3eUCjwXGYkyMrKK8qg"
@@ -2881,7 +2917,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 158359,
       "name": "Charmed",
       "url": "https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f"
@@ -2917,7 +2953,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 230000,
       "name": "chem bath",
       "url": "https://open.spotify.com/track/6lqdNLE6pMZ3eFX8TlY1XS"
@@ -3729,7 +3765,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 194222,
       "name": "Darkness Of The Night",
       "url": "https://open.spotify.com/track/7uewMG4oKBNpCeso1KiI1i"
@@ -4855,7 +4891,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 186101,
       "name": "facetime after sex",
       "url": "https://open.spotify.com/track/5aFtC3Uc43XhA9XWEXRRox"
@@ -5371,7 +5407,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 141475,
       "name": "Four Leaf Dream",
       "url": "https://open.spotify.com/track/2I8VEot3oo5qaVmCW16qOx"
@@ -5577,7 +5613,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 230878,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/2kQKwLHTZttWGANxB8otoe"
@@ -5649,7 +5685,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 166973,
       "name": "Fyodor Dormant",
       "url": "https://open.spotify.com/track/5o1yNJTd6zkDmxcwq12GYl"
@@ -6067,7 +6103,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 181922,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/6afganegJBNs44tGwIOgYQ"
@@ -6215,7 +6251,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 300240,
       "name": "Goodbye Mr. Blue",
       "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
@@ -6519,7 +6555,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 303066,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/5Aq4CusaoqGNQlvNUUnA7t"
@@ -8853,7 +8889,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 197466,
       "name": "Karaoke",
       "url": "https://open.spotify.com/track/3RJ8bIJrnekapqvS3JxDkq"
@@ -9455,7 +9491,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 156478,
       "name": "Lemonhaze",
       "url": "https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L"
@@ -10367,7 +10403,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 181257,
       "name": "Marie",
       "url": "https://open.spotify.com/track/29ZJpcIs5HA8gr9AMUvniG"
@@ -10805,7 +10841,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 239146,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL"
@@ -13960,6 +13996,24 @@
     },
     {
       "album": {
+        "name": "Waterslide, Diving Board, Ladder To The Sky",
+        "url": "https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180306,
+      "name": "Rotten",
+      "url": "https://open.spotify.com/track/4euglpuBWHIqrTofPsdVTi"
+    },
+    {
+      "album": {
         "name": "Rue",
         "url": "https://open.spotify.com/album/0wwsKyplQfWHtLxlMvVkvP"
       },
@@ -14073,7 +14127,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 275080,
       "name": "SAGA",
       "url": "https://open.spotify.com/track/1Si6wrL2cPEiIy2aKLYKl8"
@@ -14095,10 +14149,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 232093,
       "name": "Salt Lake City",
       "url": "https://open.spotify.com/track/5XUmyG1dSbD4mxWd0iSVXZ"
+    },
+    {
+      "album": {
+        "name": "Santa Barbara",
+        "url": "https://open.spotify.com/album/0EhDejzVmLY1nFLfym4CGC"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Nataly Dawn",
+          "url": "https://open.spotify.com/artist/1vCgeJQjG0SFPCC9ixbCGz"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220669,
+      "name": "Santa Barbara",
+      "url": "https://open.spotify.com/track/5HYPU0x0lbMfMyCASETzK5"
     },
     {
       "album": {
@@ -14269,6 +14345,24 @@
       "duration_ms": 230000,
       "name": "Self!",
       "url": "https://open.spotify.com/track/3GaIA718XNZODneN1KW6Vr"
+    },
+    {
+      "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
       "album": {
@@ -16309,7 +16403,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 261366,
       "name": "The Drive",
       "url": "https://open.spotify.com/track/0pUp3X87abCUaFUpgmt5Ee"
@@ -16457,7 +16551,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 154893,
       "name": "The Lightning II",
       "url": "https://open.spotify.com/track/4hgobGfWedCMII3bdualzM"
@@ -16529,7 +16623,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 229714,
       "name": "The Night Has Missed Me",
       "url": "https://open.spotify.com/track/0tH8LYAaoTsPWmFeEUEnIF"
@@ -16821,7 +16915,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 270945,
       "name": "Thin Thing",
       "url": "https://open.spotify.com/track/3DN8g2KmPKwvlyAWCM9mH7"
@@ -16893,7 +16987,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 210266,
       "name": "Things will be fine",
       "url": "https://open.spotify.com/track/0TQ1cfWKYRSvt3eCEMvGoK"
@@ -17067,7 +17161,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 188915,
       "name": "To You",
       "url": "https://open.spotify.com/track/1E3kZm0hRvK0UnxIhUMRnW"
@@ -17785,7 +17879,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 244000,
       "name": "underground pleasure",
       "url": "https://open.spotify.com/track/3qcth5GYMyx9DhMEGKN98f"
@@ -17991,7 +18085,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 156906,
       "name": "victim of nostalgia",
       "url": "https://open.spotify.com/track/6oHXQQLzea4keyHSbFUxtS"
@@ -18377,7 +18471,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 205000,
       "name": "We Don't Talk",
       "url": "https://open.spotify.com/track/1i7FsxeHL4ucIaEUjkK8tB"
@@ -18691,7 +18785,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 225128,
       "name": "Where Are You Now? (feat. girlhouse)",
       "url": "https://open.spotify.com/track/5iYv4Kj9EEBMJRoFOlJWeb"
@@ -19225,6 +19319,24 @@
       "duration_ms": 228807,
       "name": "You Can Do It",
       "url": "https://open.spotify.com/track/74usZNReO4g4j5aZ0yAmBw"
+    },
+    {
+      "album": {
+        "name": "You Have Got to Be Kidding Me",
+        "url": "https://open.spotify.com/album/0e0c5rz0pMLFvqR7bDyXtc"
+      },
+      "artists": [
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "You Have Got to Be Kidding Me",
+      "url": "https://open.spotify.com/track/3kai81vBptYiDfb0QXHv5X"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "S\u00f3lo corridos - lo nuevo y lo mejor del a\u00f1o. Portada: Los Farmerz",
+  "description": "S\u00f3lo corridos - lo nuevo y lo mejor del a\u00f1o. Portada: Pantera De Culiacan Sinaloa",
   "name": "Corridos 2022",
   "published_playlist_ids": [
     "6mIhFs7U6KoLfn5GxVWgA4"
@@ -642,6 +642,24 @@
     },
     {
       "album": {
+        "name": "El Comandante Chino",
+        "url": "https://open.spotify.com/album/1xEhVhTUu1srMZFkHGu6SM"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217649,
+      "name": "El Comandante Chino",
+      "url": "https://open.spotify.com/track/5dp3RWcwr07Hkrm3uAngiU"
+    },
+    {
+      "album": {
         "name": "El Comando del Diablo (En Vivo)",
         "url": "https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx"
       },
@@ -962,6 +980,24 @@
     },
     {
       "album": {
+        "name": "El Hijo Mayor",
+        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "El Hijo Mayor",
+      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
+    },
+    {
+      "album": {
         "name": "El Mal Camino",
         "url": "https://open.spotify.com/album/4CjpZtBUmPkvA9crA2Sx38"
       },
@@ -1061,6 +1097,24 @@
       "duration_ms": 143598,
       "name": "El Pata",
       "url": "https://open.spotify.com/track/0vZ7HkpXPwnFbyMj5CD478"
+    },
+    {
+      "album": {
+        "name": "El Piyi",
+        "url": "https://open.spotify.com/album/2ivT6bwCAYwa61GlEqTiuq"
+      },
+      "artists": [
+        {
+          "name": "Alta Autoridad",
+          "url": "https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "El Piyi",
+      "url": "https://open.spotify.com/track/5KjBaGZIszO9tpGTRB1mm2"
     },
     {
       "album": {
@@ -1194,6 +1248,24 @@
     },
     {
       "album": {
+        "name": "El Tirabalas",
+        "url": "https://open.spotify.com/album/0wDrkVCojZJgw3t4h61PIt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166282,
+      "name": "El Tirabalas",
+      "url": "https://open.spotify.com/track/6oLRVlSHXfxPIJDsZivxaG"
+    },
+    {
+      "album": {
         "name": "El Tony",
         "url": "https://open.spotify.com/album/7duHunpgpGBzL1v1xVJIBu"
       },
@@ -1306,6 +1378,42 @@
     },
     {
       "album": {
+        "name": "Renacido",
+        "url": "https://open.spotify.com/album/69smyPeNaxRkiBahOoKNLo"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201508,
+      "name": "En Un Deportivo Voy",
+      "url": "https://open.spotify.com/track/5tjAFuUzHkOlTfL7eX8T6B"
+    },
+    {
+      "album": {
+        "name": "Enfocado en Lo Mio",
+        "url": "https://open.spotify.com/album/1t9qE7vXSgEZZD197NYjc3"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195662,
+      "name": "Enfocado en Lo Mio",
+      "url": "https://open.spotify.com/track/2s6c5DaROWS5tY0KnJI0kV"
+    },
+    {
+      "album": {
         "name": "Es Morir o Matar",
         "url": "https://open.spotify.com/album/4jJLmClFi3LD4qfpfHingQ"
       },
@@ -1361,6 +1469,28 @@
       "duration_ms": 163500,
       "name": "Fly Club Quemando",
       "url": "https://open.spotify.com/track/2UuIA67jXVR9Tdcfhm2qv7"
+    },
+    {
+      "album": {
+        "name": "Fresa Me Ven",
+        "url": "https://open.spotify.com/album/3F2e39Tdmweo2llDsZYZ4s"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "Fresa Me Ven",
+      "url": "https://open.spotify.com/track/25G7oP5Udqcfai35GMaHoJ"
     },
     {
       "album": {
@@ -1458,6 +1588,28 @@
     },
     {
       "album": {
+        "name": "Hublot",
+        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225250,
+      "name": "Hublot",
+      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
+    },
+    {
+      "album": {
         "name": "Huevos De Toro (En Vivo)",
         "url": "https://open.spotify.com/album/2gvSGbTUsG4EqtRFYwT1Sj"
       },
@@ -1477,6 +1629,28 @@
       "duration_ms": 271386,
       "name": "Huevos De Toro (En Vivo)",
       "url": "https://open.spotify.com/track/6V1ReQMp1p9emogYgVVl6O"
+    },
+    {
+      "album": {
+        "name": "Consejos De La Vida",
+        "url": "https://open.spotify.com/album/3Sj1ZVGCVQxDHBhaOzeJJ5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        },
+        {
+          "name": "Legado 7",
+          "url": "https://open.spotify.com/artist/1sR3KHfY1ZmWxRxtoMmqPf"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "Invitaciones",
+      "url": "https://open.spotify.com/track/1qlVoMUKifgWjWdQ49FbWr"
     },
     {
       "album": {
@@ -1749,7 +1923,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 208750,
       "name": "La Nueva Generacion",
       "url": "https://open.spotify.com/track/3XKbU2FWC2PDkaIAk4Gf8f"
@@ -1793,6 +1967,28 @@
       "duration_ms": 205692,
       "name": "LA PERRIE",
       "url": "https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY"
+    },
+    {
+      "album": {
+        "name": "La Perris (En Vivo)",
+        "url": "https://open.spotify.com/album/531dJejjsvqzjCvD1F8UNN"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Banda Culiacancito",
+          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165492,
+      "name": "La Perris - En Vivo",
+      "url": "https://open.spotify.com/track/1jMs2NauraVMSzNBdfbMwS"
     },
     {
       "album": {
@@ -1855,6 +2051,28 @@
       "duration_ms": 159056,
       "name": "La Ruleta de La Vida",
       "url": "https://open.spotify.com/track/6p4Ta9TKEndqO6ZarnY3zl"
+    },
+    {
+      "album": {
+        "name": "La Suelita Roja",
+        "url": "https://open.spotify.com/album/7EW7vpRc0nc3PJIKcT6dl5"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        },
+        {
+          "name": "Grupo Rocket",
+          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184145,
+      "name": "La Suelita Roja",
+      "url": "https://open.spotify.com/track/57fHwXh5FA1733cIbENvsR"
     },
     {
       "album": {
@@ -2101,6 +2319,28 @@
       "duration_ms": 218960,
       "name": "Mi Corrido",
       "url": "https://open.spotify.com/track/5l6eB9hu5ymOl7nrk864qy"
+    },
+    {
+      "album": {
+        "name": "Mi Porvenir",
+        "url": "https://open.spotify.com/album/7g3gtNzXyVjmBh7tdd4Lmp"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161816,
+      "name": "Mi Porvenir",
+      "url": "https://open.spotify.com/track/1qOAfH6GJZ7IVuOkOsDit9"
     },
     {
       "album": {
@@ -2402,6 +2642,24 @@
     },
     {
       "album": {
+        "name": "Retorno a la Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/50WKY8Dne8rI3NPRLT5VBt"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192973,
+      "name": "Retorno a la Vida (En Vivo)",
+      "url": "https://open.spotify.com/track/1rdTTFchWSIJGmlLmaaUWk"
+    },
+    {
+      "album": {
         "name": "Rolando En La Angelina",
         "url": "https://open.spotify.com/album/26iH8P8fQ5tvGQ6VoS2elm"
       },
@@ -2666,6 +2924,28 @@
     },
     {
       "album": {
+        "name": "El King",
+        "url": "https://open.spotify.com/album/0ysRWfmEw2d7ScfqrIv0PO"
+      },
+      "artists": [
+        {
+          "name": "Jessy Castillo",
+          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
+        },
+        {
+          "name": "Ivan Orozco",
+          "url": "https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Verdes",
+      "url": "https://open.spotify.com/track/5rTvPCcJMiVWc97wS6NhYF"
+    },
+    {
+      "album": {
         "name": "Vida Prestada",
         "url": "https://open.spotify.com/album/67XIm7lVT0ZvCxs7YuJYun"
       },
@@ -2721,6 +3001,24 @@
       "duration_ms": 186938,
       "name": "V\u00e1monos De Ruta",
       "url": "https://open.spotify.com/track/4RyOasJEhIZFeivhltUMkF"
+    },
+    {
+      "album": {
+        "name": "Yo Soy Quien Soy",
+        "url": "https://open.spotify.com/album/26ABUNLiTL9cVimrN24Dyf"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177780,
+      "name": "Yo Soy Qui\u00e9n Soy",
+      "url": "https://open.spotify.com/track/7FRw7sx9XqS7ZGvNpYrxTR"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5471jEhaq8X"

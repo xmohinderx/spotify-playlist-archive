@@ -1574,6 +1574,24 @@
     },
     {
       "album": {
+        "name": "Vai Vai",
+        "url": "https://open.spotify.com/album/3iLJmhqL41TddX9Tij7UJs"
+      },
+      "artists": [
+        {
+          "name": "Celo Dut",
+          "url": "https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "Vai Vai",
+      "url": "https://open.spotify.com/track/6BGTyTmiKSUDnNcxJCAfh7"
+    },
+    {
+      "album": {
         "name": "OWL",
         "url": "https://open.spotify.com/album/3xYT4lwBqrfi0W9s7BSYAS"
       },

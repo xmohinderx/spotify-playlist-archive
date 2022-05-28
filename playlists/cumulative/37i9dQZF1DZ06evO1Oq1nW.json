@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "This is The O'Jays. The essential tracks, all in one playlist.",
   "name": "This Is The O'Jays",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4AXkYbznAkUO1tVklEhRSv"
+  ],
   "tracks": [
     {
       "album": {
@@ -151,10 +153,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 159293,
       "name": "Deeper (In Love with You)",
       "url": "https://open.spotify.com/track/1PSfY3lSwBD888PZW0s5JH"
+    },
+    {
+      "album": {
+        "name": "Message In The Music",
+        "url": "https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379160,
+      "name": "Desire Me",
+      "url": "https://open.spotify.com/track/6aupmChN6IQy7z2bOJj5k0"
     },
     {
       "album": {
@@ -259,7 +279,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 251546,
       "name": "Girl, Don't Let It Get You Down",
       "url": "https://open.spotify.com/track/0Jp09OKyRNJvhm3AcQ1G2G"
@@ -573,7 +593,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 255733,
       "name": "My Favorite Person",
       "url": "https://open.spotify.com/track/5o6oXm9EqlIU9OtfSu1gCy"
@@ -613,6 +633,24 @@
       "duration_ms": 233213,
       "name": "One In A Million (Girl)",
       "url": "https://open.spotify.com/track/6VDu4P6HcEhOw91rSVxixk"
+    },
+    {
+      "album": {
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238533,
+      "name": "People Keep Tellin' Me",
+      "url": "https://open.spotify.com/track/23zcctQcy5iglNa4W93ChD"
     },
     {
       "album": {
@@ -681,7 +719,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 577066,
       "name": "Ship Ahoy",
       "url": "https://open.spotify.com/track/5GTd3l7ShrGaziT7kvnNnj"
@@ -879,7 +917,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 583373,
       "name": "Wildflower - Live at Hammersmith Odeon, London, England - December 1973",
       "url": "https://open.spotify.com/track/7rMPj6IZQGoLT75rC8m1m3"
@@ -951,7 +989,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 318986,
       "name": "You Won't Fail",
       "url": "https://open.spotify.com/track/4EMwieymtOOg9Etmykn1GO"

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 
 > Music from the early days of Ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,927 likes - 47 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,984 likes - 47 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rosetti Noise/Chrystal Garden And A Coda](https://open.spotify.com/track/2oWwrX6JGdRC4cUnJlYiWF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 14:19 |
 | 2 | [Om Mani Padme Hum](https://open.spotify.com/track/6S7QB6lkpJz25glAK3gTC0) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Skies Above Skies](https://open.spotify.com/album/0mOvzxPIp6XULoaq2Kq3h9) | 9:57 |
 | 3 | [Prati Bagnati Del Monte Analogo](https://open.spotify.com/track/3gxcuLf2ZMpOTEyreIwRcN) | [Raul Lovisoni](https://open.spotify.com/artist/14c03pepaaW7MNk7D5LG48), [Francesco Messina](https://open.spotify.com/artist/0z1i074D0xFtfxWLgZ3sGj) | [Prati Bagnati Del Monte Analogo](https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB) | 23:31 |
-| 4 | [On the Other Ocean](https://open.spotify.com/track/46UxS78qOWfuMhXEVN3dYb) | [David Behrman](https://open.spotify.com/artist/3yX5L54KNk0sSmBscmv1Bv) | [Late Night Tales: Belle and Sebastian, Vol\. 2](https://open.spotify.com/album/4Is3XZYpVDmda45V81MO5b) | 6:50 |
-| 5 | [Wind On Wind](https://open.spotify.com/track/5DiwyUEb7jG8iVOaHYMEgl) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 3:13 |
-| 6 | [Gloaming](https://open.spotify.com/track/56ARoXVByxL6Op5XTWa6qa) | [Ernest Hood](https://open.spotify.com/artist/0f5dQ7uAYmopoRAEF4VHo2) | [Neighborhoods](https://open.spotify.com/album/7N32BcLkZxz9CWOSEHSSKk) | 8:32 |
-| 7 | [2\. Satz: Gewitter \(Energy Rise \- Energy Collaps\)](https://open.spotify.com/track/5rlG4Fnws22Ecu6aXctE33) | [Klaus Schulze](https://open.spotify.com/artist/3U2U4TR03ZuStsizrv0EJB) | [Irrlicht \(Remastered 2017\)](https://open.spotify.com/album/6G1eYsIgEbtpXIDFQqIYUb) | 5:38 |
-| 8 | [Toucan Ocean](https://open.spotify.com/track/7IAGZpMEBO143Y7zZ17KsH) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 3:49 |
-| 9 | [Le singe bleu \- Remastered](https://open.spotify.com/track/4QNTuaDSBZTg7sKEF8zXf4) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 7:40 |
+| 4 | [Le singe bleu \- Remastered](https://open.spotify.com/track/4QNTuaDSBZTg7sKEF8zXf4) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 7:40 |
+| 5 | [On the Other Ocean](https://open.spotify.com/track/46UxS78qOWfuMhXEVN3dYb) | [David Behrman](https://open.spotify.com/artist/3yX5L54KNk0sSmBscmv1Bv) | [Late Night Tales: Belle and Sebastian, Vol\. 2](https://open.spotify.com/album/4Is3XZYpVDmda45V81MO5b) | 6:50 |
+| 6 | [Wind On Wind](https://open.spotify.com/track/5DiwyUEb7jG8iVOaHYMEgl) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 3:13 |
+| 7 | [Gloaming](https://open.spotify.com/track/56ARoXVByxL6Op5XTWa6qa) | [Ernest Hood](https://open.spotify.com/artist/0f5dQ7uAYmopoRAEF4VHo2) | [Neighborhoods](https://open.spotify.com/album/7N32BcLkZxz9CWOSEHSSKk) | 8:32 |
+| 8 | [2\. Satz: Gewitter \(Energy Rise \- Energy Collaps\)](https://open.spotify.com/track/5rlG4Fnws22Ecu6aXctE33) | [Klaus Schulze](https://open.spotify.com/artist/3U2U4TR03ZuStsizrv0EJB) | [Irrlicht \(Remastered 2017\)](https://open.spotify.com/album/6G1eYsIgEbtpXIDFQqIYUb) | 5:38 |
+| 9 | [Toucan Ocean](https://open.spotify.com/track/7IAGZpMEBO143Y7zZ17KsH) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 3:49 |
 | 10 | [Oxygene, Pt\. 1](https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 7:40 |
 | 11 | [Upland](https://open.spotify.com/track/2p092sEjd3oSlgyMwqa6vb) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Aqua](https://open.spotify.com/album/53HKgtgBcAKkBvnIJYBpx7) | 6:41 |
 | 12 | [Old Land](https://open.spotify.com/track/7crAkwlQExlgVnomwIlYrd) | [Eno Moebius Roedelius](https://open.spotify.com/artist/6iEkIlk9Pc3vFThI7NX78B) | [After the Heat](https://open.spotify.com/album/0KsjHH3K0VIMuNOuvRWMBR) | 4:13 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 | 46 | [Swastika Girls I](https://open.spotify.com/track/6Qi6sqViFIGP77beQoErWU) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [No Pussyfooting](https://open.spotify.com/album/3gHpX5wJn0kzAXJvwORG6u) | 7:32 |
 | 47 | [2/1 \- Remastered 2004](https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 8:54 |
 
-Snapshot ID: `MTY0OTY5OTczNywwMDAwMDAwYjAwMDAwMTgwMTljNDUxMjcwMDAwMDE3OWZhYzFjMDE0`
+Snapshot ID: `MTY1MzY1MDE4OSwwMDAwMDAwYzAwMDAwMTgxMDUzYjZlMmEwMDAwMDE3OWZhYzFjMDE0`

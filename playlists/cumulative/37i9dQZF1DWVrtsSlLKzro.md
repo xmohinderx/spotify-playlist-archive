@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-172 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+174 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Be Ok](https://open.spotify.com/track/1xe8rWI6ZToSgKdZ0HMNrO) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Be Ok](https://open.spotify.com/album/1EAYRPaU27CAiKlqf1tSRt) | 3:04 | 2021-12-03 |  |
 | [Better Apart \(feat\. Dresage\)](https://open.spotify.com/track/0k4yUonDEAqoIw3xL2XMVC) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [Better Apart \(feat\. Dresage\)](https://open.spotify.com/album/51XyesKizT4PYjYCrGhbEn) | 3:54 | 2021-12-03 | 2022-05-14 |
 | [Beyond Control](https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Apnea](https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C) | 5:32 | 2021-12-03 | 2022-05-07 |
+| [Black & Blue](https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Black & Blue](https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU) | 2:28 | 2022-05-27 |  |
 | [Blame Myself](https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 3:50 | 2021-12-03 |  |
 | [Blue](https://open.spotify.com/track/4QOb9hRufjPp9TDdph7Wzh) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [Blue](https://open.spotify.com/album/77m2CAzG88DkuYbXZD6VM6) | 3:33 | 2021-12-03 |  |
 | [blue \- Jai Wolf Remix](https://open.spotify.com/track/4FWzhh5B1rowe3qWKId1x3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [blue \(Jai Wolf Remix\)](https://open.spotify.com/album/5AvH3NBw1t9GiYKWC9Si0Q) | 3:22 | 2021-12-03 |  |
@@ -43,6 +44,7 @@
 | [Closer](https://open.spotify.com/track/4HGi3uJg4OTWHQs6TkYAFb) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Closer](https://open.spotify.com/album/0e3tF60tqO2Niimn9HZIde) | 4:40 | 2021-12-03 | 2022-05-07 |
 | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/track/45CwQAnBujkKzbDKX5wJmv) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/album/7zxLuEY7mKLKdyWjnCfP35) | 3:19 | 2021-12-03 |  |
 | [Come Back Home](https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC) | [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Come Back Home](https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP) | 2:59 | 2021-12-03 | 2022-05-07 |
+| [Come Home](https://open.spotify.com/track/4T3xGrrjx4JFaLoOA49Nxz) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Tadeusz](https://open.spotify.com/artist/6LKHL4tofercrPmQBtYUUP) | [Come Home](https://open.spotify.com/album/0Tgqggojp3Ww68ys5MqYM9) | 3:50 | 2022-05-27 |  |
 | [Confusion](https://open.spotify.com/track/4dUIinlaify3Z3DAZmPkc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Confusion](https://open.spotify.com/album/0c4WgnhgDzr5B0SL3mwIDM) | 6:56 | 2021-12-03 | 2022-02-12 |
 | [Corners](https://open.spotify.com/track/4ULqmjj1Rt1IzbTCAYSzOt) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [The Long Way Home](https://open.spotify.com/album/3bZwlowzh4YGLX6LfrYdSk) | 5:05 | 2021-12-03 |  |
 | [Cross Your Mind](https://open.spotify.com/track/03F7FL0pcmVT4W8V8pERCH) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR) | [Cross Your Mind](https://open.spotify.com/album/3WTRKUecyrM9ydt9ihGWoH) | 3:00 | 2021-12-03 | 2022-05-07 |

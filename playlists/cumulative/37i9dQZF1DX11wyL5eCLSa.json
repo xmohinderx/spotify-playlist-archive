@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Bandalos Chinos en portada.",
+  "description": "Sangre fresca en las escenas del indie y el rock. Jos\u00e9 Madero en portada.",
   "name": "EL ROCK NO HA MUERTO",
   "published_playlist_ids": [
     "1V1OHh2gBqHE70WTxIG68y"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 300821,
       "name": "4 del 20",
       "url": "https://open.spotify.com/track/6mVKbQnY3peMr8PovVEtF3"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 263366,
       "name": "Agua Bendita",
       "url": "https://open.spotify.com/track/1ypw0w1I3jJNlQfcg6CP0y"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 271336,
       "name": "Brillando",
       "url": "https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 240678,
       "name": "Cometa",
       "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 244418,
       "name": "Cuenta Conmigo",
       "url": "https://open.spotify.com/track/1Gid2J2k7NAP2SE5N7a2Zs"
@@ -355,10 +355,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 192416,
       "name": "Dejarte Ir",
       "url": "https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu"
+    },
+    {
+      "album": {
+        "name": "Giallo",
+        "url": "https://open.spotify.com/album/4WV1PuDBMdzqXiWVWG0ovo"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223053,
+      "name": "Documentales",
+      "url": "https://open.spotify.com/track/3Thy24e4jX5thZRcr9pt0u"
     },
     {
       "album": {
@@ -593,7 +611,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 260508,
       "name": "Globos",
       "url": "https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 198053,
       "name": "La Final",
       "url": "https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 217959,
       "name": "La \u00daltima Vez",
       "url": "https://open.spotify.com/track/521P7D3Rg0qIddJYHEtYrm"
@@ -1015,7 +1033,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 228306,
       "name": "Mentiroso",
       "url": "https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK"
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 188181,
       "name": "Mi Canci\u00f3n",
       "url": "https://open.spotify.com/track/2EeJ3n3I0EZaa3YQUvap72"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 230519,
       "name": "Mi Culpa",
       "url": "https://open.spotify.com/track/6CXqrDkEPNtWpl0MmBODAN"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 224586,
       "name": "Nadie M\u00e1s Vendr\u00e1",
       "url": "https://open.spotify.com/track/2H2lglbG0Eo6kLQS6VR11q"
@@ -1127,7 +1145,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 224999,
       "name": "No",
       "url": "https://open.spotify.com/track/5WtamSoWfV3Zj2NKMSTGhy"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 193239,
       "name": "Punk",
       "url": "https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 300500,
       "name": "Tecolotes",
       "url": "https://open.spotify.com/track/3kGEAWMgqQn78pcktXz2uB"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 338680,
       "name": "Tomar el Sol",
       "url": "https://open.spotify.com/track/16uqfvpkuIw0oLFWXIBeN9"

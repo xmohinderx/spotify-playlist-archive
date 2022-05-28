@@ -2,8 +2,28 @@
   "date_first_scraped": "2022-05-26",
   "description": "The best of modern blues rock. Cover: The Sheepdogs",
   "name": "Modern Blues Rock",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2ytdQyvJSh0gNxZ2IJT8lV"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "John The Conqueror",
+        "url": "https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp"
+      },
+      "artists": [
+        {
+          "name": "John The Conqueror",
+          "url": "https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229720,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
+    },
     {
       "album": {
         "name": "WAYS",
@@ -107,7 +127,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 190893,
       "name": "Boom Boom Boom",
       "url": "https://open.spotify.com/track/0ATlimBBLb05G6wiPOGwaw"
@@ -147,7 +167,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Catch Me If You Can (feat. Chris Robertson)",
       "url": "https://open.spotify.com/track/2Q7MG9T0kCEEJmDpaKP4be"
@@ -281,7 +301,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 375240,
       "name": "Go Away Satan",
       "url": "https://open.spotify.com/track/1mdLQR5E86HLziKr6gHV96"
@@ -317,7 +337,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 200138,
       "name": "Half My Fault",
       "url": "https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P"
@@ -432,6 +452,24 @@
     },
     {
       "album": {
+        "name": "Light Of The Moon",
+        "url": "https://open.spotify.com/album/39Q163JUbwGHACKXI3HUYZ"
+      },
+      "artists": [
+        {
+          "name": "Davy Knowles",
+          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193986,
+      "name": "Light Of The Moon",
+      "url": "https://open.spotify.com/track/2TpeHwzSGTdy3WSqEzmLwd"
+    },
+    {
+      "album": {
         "name": "Love & Peace",
         "url": "https://open.spotify.com/album/7IWzUoiQj0lYIiq97ChEzo"
       },
@@ -461,7 +499,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 203720,
       "name": "Love and Devotion",
       "url": "https://open.spotify.com/track/4VhujOlgo1NtVfXQkxwPaP"
@@ -569,10 +607,28 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 208909,
       "name": "Off the Shelf",
       "url": "https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN"
+    },
+    {
+      "album": {
+        "name": "One Way Out",
+        "url": "https://open.spotify.com/album/1jR11CwDOnsQi1z56zcIDe"
+      },
+      "artists": [
+        {
+          "name": "Melissa Etheridge",
+          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
+        }
+      ],
+      "date_added": "2021-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243697,
+      "name": "One Way Out",
+      "url": "https://open.spotify.com/track/19rYgN2ghhCLtXg8Uf1FwS"
     },
     {
       "album": {
@@ -591,6 +647,24 @@
       "duration_ms": 238226,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/7KzCDlgiVOY8sQOKlbUy1m"
+    },
+    {
+      "album": {
+        "name": "Pick Your Poison",
+        "url": "https://open.spotify.com/album/7DVKYtrPILCQxbUgP7EJ0a"
+      },
+      "artists": [
+        {
+          "name": "Black Pistol Fire",
+          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225093,
+      "name": "Pick Your Poison",
+      "url": "https://open.spotify.com/track/2oXl8o2g4iPAEZL1YbmYVH"
     },
     {
       "album": {
@@ -677,7 +751,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 218016,
       "name": "Rubberband",
       "url": "https://open.spotify.com/track/597NMs0QRqHKrkj5e8pvHH"
@@ -861,7 +935,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon"

@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Argentina en la casa! Foto: Sael, el pibe.",
+  "description": "Argentina en la casa! Foto: El Osito Wito \ud83d\ude97",
   "name": "Reggaet\u00f3n Argentino",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6tDUGVVPmoQw2RkVQfmtJk"
+  ],
   "tracks": [
     {
       "album": {
@@ -480,6 +482,24 @@
     },
     {
       "album": {
+        "name": "El Maquinon",
+        "url": "https://open.spotify.com/album/0bMZM5lXzUqJonFQyMU49P"
+      },
+      "artists": [
+        {
+          "name": "El Osito Wito",
+          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136744,
+      "name": "El Maquinon",
+      "url": "https://open.spotify.com/track/1NOImFygNaIBUSoL3C6Jnt"
+    },
+    {
+      "album": {
         "name": "Ella Dice",
         "url": "https://open.spotify.com/album/2lfpTAKfLmWjcqUl34D1GS"
       },
@@ -869,7 +889,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 132552,
       "name": "KILOWA",
       "url": "https://open.spotify.com/track/54acJyeShQSK5DfEdW7J7n"
@@ -1356,6 +1376,28 @@
     },
     {
       "album": {
+        "name": "Otra Vez Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/4ZlHlbUReIOc1Cw6oudAgE"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "Otra Vez Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/6X44vrKIdgwBP4I9hFT6US"
+    },
+    {
+      "album": {
         "name": "Otro",
         "url": "https://open.spotify.com/album/0eGqUAZJxkm2QJkZx9iXpp"
       },
@@ -1785,7 +1827,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 233149,
       "name": "Soy Asi",
       "url": "https://open.spotify.com/track/1eXaS6SdeESUrkBEqKonLE"

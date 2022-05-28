@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-75 songs - 6 hr 28 min - not published yet
+75 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/3ztjRpgCKn1hLb0zkDuLj3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

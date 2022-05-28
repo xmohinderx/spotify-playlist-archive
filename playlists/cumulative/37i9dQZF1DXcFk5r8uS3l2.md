@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Cedric Burnside
 
-141 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
+144 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,8 @@
 | [Ain't Gotta Worry Child](https://open.spotify.com/track/112GY487AYZ0Q0zB9KYv3x) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Ain't Gotta Worry Child](https://open.spotify.com/album/5z25YPZkf3WB9Eh94EEwFw) | 3:05 | 2021-12-17 |  |
 | [All Our Love](https://open.spotify.com/track/4sImthKyvzr2Rhp0vaB9SJ) | [Supersonic Blues Machine](https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [All Our Love](https://open.spotify.com/album/6bH8vw3t4PRGqq9PdXLvJR) | 4:29 | 2022-05-20 |  |
 | [Amen](https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Amen](https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI) | 4:07 | 2021-12-17 |  |
+| [Another Weary Soul](https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x) | [Rī Wolf](https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n), [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [Elemental](https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz) | 4:07 | 2022-05-27 |  |
+| [Back Seat](https://open.spotify.com/track/5cORKRcTX6dstvvBVSQan5) | [Chastity Brown](https://open.spotify.com/artist/6vRqjrYlvurWLEwRKvTdEw) | [Back Seat](https://open.spotify.com/album/04hqq9ebr9x6MRmJsyJkzF) | 3:49 | 2022-05-27 |  |
 | [bad blood](https://open.spotify.com/track/7lqyiS447jxNlaMpzsYfkY) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [bad blood](https://open.spotify.com/album/0IYR6AlNwF9HW1u4Jzf1oo) | 3:08 | 2021-12-17 |  |
 | [Believe](https://open.spotify.com/track/44HwerWFM8qbpcDL6nJ0xS) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Believe](https://open.spotify.com/album/6qnFIHXyFvhEQ04PsRqi6f) | 3:54 | 2021-12-17 |  |
 | [belladonna](https://open.spotify.com/track/0nrFU9qiAFB8ATkkPPlDJl) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/2zj883AQcsxbBdjHZhVrBU) | 3:15 | 2021-12-17 |  |
@@ -87,6 +89,7 @@
 | [Mistakes](https://open.spotify.com/track/0Sox7tv3MK5h6AkFLUPHtY) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Side Pony](https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX) | 4:08 | 2021-12-17 |  |
 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 | 2021-12-17 |  |
 | [My Kentucky](https://open.spotify.com/track/353KDYzMxofC6davOZ1oH6) | [Kamara Thomas & the Ghost Gamblers](https://open.spotify.com/artist/7c4SDBbtEW9iX2MPBGhn4q) | [Earth Hero](https://open.spotify.com/album/6u5saPFGrin6Q16nQ5CvV3) | 7:01 | 2021-12-17 |  |
+| [Mystery](https://open.spotify.com/track/2KbNZUsmY1jg6sCyN2Xtrd) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf) | [Mystery](https://open.spotify.com/album/1Ru4jgnreryoTXbp2SdZRr) | 3:25 | 2022-05-27 |  |
 | [Neon Experience \- Live from Vatnagarðar](https://open.spotify.com/track/4x1vhOOK3VJhhq9BkMNq9z) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Síminn+Spotify Session](https://open.spotify.com/album/0pZUQKSLyTeTHIy0A4Q0Zb) | 5:52 | 2021-12-17 |  |
 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 | 2021-12-17 |  |
 | [Never Giving Up](https://open.spotify.com/track/24OXVPUzk1SMVMiMd8LmQ3) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Never Giving Up](https://open.spotify.com/album/60h7Js16nMwWUhRiOYrXpM) | 2:38 | 2022-05-06 |  |

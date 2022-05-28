@@ -2,9 +2,9 @@
 
 ### [Just Good Music](https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp)
 
-> Ease into these recent hits and new songs from your favorite artists\. Cover: John Legend
+> Ease into these recent hits and new songs from your favorite artists\. Cover: Lady Gaga
 
-844 songs - 1 day 22 hr 32 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
+846 songs - 1 day 22 hr 40 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Fortune Favors The Bold](https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Tim Gent](https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln) | [Fortune Favors The Bold](https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy) | 3:38 | 2022-02-25 | 2022-04-09 |
 | [FREE](https://open.spotify.com/track/52kYbQXrntPEsZ4iiqWKL6) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [FREE](https://open.spotify.com/album/5Z1rLGZjQPAoqI1YZqVkdq) | 3:42 | 2022-04-08 | 2022-04-23 |
 | [Free Spirit](https://open.spotify.com/track/2kAIpGWnlFLQh48iut6Zzq) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:02 | 2019-05-26\* | 2020-02-07 |
-| [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 | 2021-12-04 |  |
+| [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 | 2021-12-04 | 2022-05-28 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-03-01 | 2022-03-05 |
 | [Frustrated](https://open.spotify.com/track/1H0hgJzw1g9XdMun7EpkmW) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Frustrated](https://open.spotify.com/album/7iBo8cghwiCnYqP6GowOZx) | 3:27 | 2020-08-14 | 2020-09-11 |
 | [fuck, i'm lonely](https://open.spotify.com/track/322tcqPhma7F6hfCeLisx0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [fuck, i'm lonely](https://open.spotify.com/album/60sI3iRfHfu7YpcTpZ29W1) | 3:18 | 2019-08-02 | 2020-02-14 |
@@ -283,7 +283,7 @@
 | [Good Example \(with Andy Grammer\)](https://open.spotify.com/track/5SspaMrPfWyRCS0GpjIxa6) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good Example \(with Andy Grammer\)](https://open.spotify.com/album/2NjENS5zmbvNvABCfygUU6) | 2:29 | 2020-07-03 | 2021-05-08 |
 | [good guys](https://open.spotify.com/track/3c7peg169veVaJRzlbCaKw) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [good guys](https://open.spotify.com/album/1rvGSofYK4rYkX2INIzFjI) | 3:44 | 2020-05-16 | 2020-07-10 |
 | [Good Job](https://open.spotify.com/track/3H68NURFkJOaG0woWCK2sL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Good Job](https://open.spotify.com/album/2m6V0Gl4Hn050cGxqqGrJb) | 3:50 | 2020-04-24 | 2020-06-12 |
-| [Good Person](https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d) | 2:54 | 2022-04-15 |  |
+| [Good Person](https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d) | 2:54 | 2022-04-15 | 2022-05-28 |
 | [GOOD TIME \(feat\. Shaggy\)](https://open.spotify.com/track/1yNydkcYMCFWvTVi9bEiDn) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [GOOD TIME \(feat\. Shaggy\)](https://open.spotify.com/album/1nr6wNeaeFW64DY0OV0pmh) | 2:56 | 2021-01-29 | 2021-06-05 |
 | [Good Without](https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Good Without](https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4) | 3:02 | 2021-06-05 | 2021-09-11 |
 | [Goosebumps](https://open.spotify.com/track/4vaX8KIjBXs77lQJFU5BOu) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Goosebumps EP](https://open.spotify.com/album/55uKsFddd4qDIebdkDP74R) | 2:47 | 2020-12-04 | 2021-01-23 |
@@ -294,6 +294,7 @@
 | [Grow As We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 | 2019-05-26\* | 2019-10-18 |
 | [Habit](https://open.spotify.com/track/3As9Uyx1ZYKbdcEn3d7zma) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Walls](https://open.spotify.com/album/4F4wlAmPyUVCyISxlePFL9) | 3:03 | 2020-01-31 | 2020-03-06 |
 | [Happier](https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier](https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh) | 3:34 | 2019-05-26\* | 2019-06-15 |
+| [Happier Than Ever](https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Happier Than Ever](https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO) | 4:14 | 2022-05-27 |  |
 | [Happiest Year](https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Happiest Year](https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl) | 3:48 | 2020-02-21 | 2020-07-18 |
 | [happiness](https://open.spotify.com/track/4GFpId1SnvPZn8ER4VflPL) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [happiness](https://open.spotify.com/album/2omZmcYUipFy2tpXoRHB5i) | 3:15 | 2020-09-11 | 2021-05-08 |
 | [Happy For You](https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Happy For You](https://open.spotify.com/album/20cXMWG0KcvCA2N6O5ixbY) | 3:46 | 2021-05-15 | 2021-08-07 |
@@ -568,6 +569,7 @@
 | [On Top of the World](https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [On Top of the World](https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj) | 3:59 | 2021-07-10 | 2021-08-14 |
 | [One](https://open.spotify.com/track/21Xv9HhXnTjsyvwAcCyWhI) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [One](https://open.spotify.com/album/4WQDeihU1K0tdoOqRoYsvW) | 4:11 | 2021-06-26 | 2021-08-14 |
 | [One \- Radio Edit](https://open.spotify.com/track/4eVSk1W66OcG8hypxWP3Lu) | [Leo Guardo](https://open.spotify.com/artist/2TpIgakorrUFzS3pOUgCzD), [Makz Keys](https://open.spotify.com/artist/57zx2N8jONxXpuEuUmAaSc), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr) | [One](https://open.spotify.com/album/2BWQlSMLVwCBLWYbmQhQjU) | 4:11 | 2021-07-04 | 2021-07-31 |
+| [One Life](https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3) | 3:51 | 2022-05-27 |  |
 | [One Man Band](https://open.spotify.com/track/08dFHFTx6r67MTsYn5ilDR) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/2u7YB4vGWWHqWJrBJTqT7V) | 3:06 | 2019-11-22 | 2020-07-10 |
 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 | 2021-08-28 | 2021-10-09 |
 | [One Too Many](https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [One Too Many](https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9) | 3:23 | 2020-09-18 | 2021-06-05 |

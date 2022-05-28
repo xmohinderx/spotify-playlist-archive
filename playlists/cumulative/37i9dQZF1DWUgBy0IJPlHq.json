@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Zach Bryan",
+  "description": "A new shade of Country. Cover: Wynonna & Waxahatchee",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 195760,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN"
@@ -1239,7 +1239,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 305040,
       "name": "Fruits of My Labor",
       "url": "https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw"
@@ -1409,7 +1409,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 191053,
       "name": "Goin' To The Country",
       "url": "https://open.spotify.com/track/62byhMVVOIRtvVewSRkBle"
@@ -1522,6 +1522,24 @@
     },
     {
       "album": {
+        "name": "Hawk For The Dove",
+        "url": "https://open.spotify.com/album/1JoezS6AZYgO7E1VxKZcSy"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227465,
+      "name": "Hawk For The Dove",
+      "url": "https://open.spotify.com/track/62td314sXG1sOEtwiTOAnO"
+    },
+    {
+      "album": {
         "name": "Heading South",
         "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
       },
@@ -1573,6 +1591,24 @@
       "duration_ms": 199040,
       "name": "Heart Like A Truck",
       "url": "https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI"
+    },
+    {
+      "album": {
+        "name": "Cruel Country",
+        "url": "https://open.spotify.com/album/67GC6lWDvJ0lUc1aVBXTcT"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207560,
+      "name": "Hearts Hard to Find",
+      "url": "https://open.spotify.com/track/5YyhTB0JVg7KXv7NLxpAvE"
     },
     {
       "album": {
@@ -2037,7 +2073,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 172413,
       "name": "In Texas With A Band",
       "url": "https://open.spotify.com/track/6iWhR6e5mBsUPT1Mogqny7"
@@ -2609,6 +2645,28 @@
       "duration_ms": 240086,
       "name": "Once in a Lifetime",
       "url": "https://open.spotify.com/track/68JRR2BErak063DjjCpdYx"
+    },
+    {
+      "album": {
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/75nchWQhiPgAjVdXsNLOaY"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253973,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/19kDyB6HprmUSzBvPbpkTl"
     },
     {
       "album": {
@@ -3632,6 +3690,24 @@
     },
     {
       "album": {
+        "name": "The Worst I Ever Had",
+        "url": "https://open.spotify.com/album/3WmqyZcbhors6tThPpSqrN"
+      },
+      "artists": [
+        {
+          "name": "Jackson Taylor & the Sinners",
+          "url": "https://open.spotify.com/artist/0xhLp59a1jm2yaqwEcrrEx"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211321,
+      "name": "The Worst I Ever Had",
+      "url": "https://open.spotify.com/track/6ukH7HaBF08keigApMwLO0"
+    },
+    {
+      "album": {
         "name": "Neon Diamonds",
         "url": "https://open.spotify.com/album/65LXcpHPc6gJ9sFaKJbNsH"
       },
@@ -3978,6 +4054,24 @@
     },
     {
       "album": {
+        "name": "JERRY JEFF",
+        "url": "https://open.spotify.com/album/6UpH0BD46arNlmmefz6Tlu"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268032,
+      "name": "Wheel",
+      "url": "https://open.spotify.com/track/6UXxzA4wX5qjteuBzMXrj6"
+    },
+    {
+      "album": {
         "name": "When It's My Time",
         "url": "https://open.spotify.com/album/3QRherbInt8fExzq41yyoZ"
       },
@@ -4091,7 +4185,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 314174,
       "name": "Whose God Is This?",
       "url": "https://open.spotify.com/track/5QEQGO6pC9FDMy8BcgIO2D"

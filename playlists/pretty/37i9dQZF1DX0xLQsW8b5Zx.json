@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 493792,
+  "num_followers": 493911,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzYxMzQ4OCwwMDAwMDAwMDYzZTAxNWZlZTI5MTQ4MDg5Nzk2MTg3MThhMzUwNmFi",
+  "snapshot_id": "MTY1MzY5OTgzNiwwMDAwMDAwMGJjNTEwNTZhY2NiYTQ3YWE0YTNlMWE3Yzk5Y2UxNjUy",
   "tracks": [
     {
       "added_at": "2022-05-06 05:39:06",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/25TCdjTn54TAHVulRohu4G"
-      },
-      "artists": [
-        {
-          "name": "Eddie Cochran",
-          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Summertime Blues",
-      "url": "https://open.spotify.com/track/2wwRSaZgshcHSvGzWryUIi"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/407XfX8OgTkRIYvPXuieRo"
       },
@@ -91,18 +75,34 @@
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "The Best Of The EMI Years",
-        "url": "https://open.spotify.com/album/7gdnNeLNm05j7gzB3qEB90"
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/25TCdjTn54TAHVulRohu4G"
       },
       "artists": [
         {
-          "name": "Dave Edmunds",
-          "url": "https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA"
+          "name": "Eddie Cochran",
+          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
         }
       ],
-      "duration_ms": 189320,
-      "name": "King Of Love",
-      "url": "https://open.spotify.com/track/3mxjg9uRfR9LXVkuwepexN"
+      "duration_ms": 120000,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/2wwRSaZgshcHSvGzWryUIi"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "The Hard Stuff",
+        "url": "https://open.spotify.com/album/5acuHP4mLNKCYTxib9XHea"
+      },
+      "artists": [
+        {
+          "name": "George Thorogood",
+          "url": "https://open.spotify.com/artist/1avbhJvMxjF2VhG7BXXn60"
+        }
+      ],
+      "duration_ms": 214066,
+      "name": "I Got My Eyes On You",
+      "url": "https://open.spotify.com/track/059NFe0ekQGQTL3i8TYttr"
     },
     {
       "added_at": "2022-05-06 05:39:06",
@@ -187,34 +187,50 @@
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "The Hard Stuff",
-        "url": "https://open.spotify.com/album/5acuHP4mLNKCYTxib9XHea"
+        "name": "The Best Of The EMI Years",
+        "url": "https://open.spotify.com/album/7gdnNeLNm05j7gzB3qEB90"
       },
       "artists": [
         {
-          "name": "George Thorogood",
-          "url": "https://open.spotify.com/artist/1avbhJvMxjF2VhG7BXXn60"
+          "name": "Dave Edmunds",
+          "url": "https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA"
         }
       ],
-      "duration_ms": 214066,
-      "name": "I Got My Eyes On You",
-      "url": "https://open.spotify.com/track/059NFe0ekQGQTL3i8TYttr"
+      "duration_ms": 189320,
+      "name": "King Of Love",
+      "url": "https://open.spotify.com/track/3mxjg9uRfR9LXVkuwepexN"
     },
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Tarpaper Sky",
-        "url": "https://open.spotify.com/album/2VkipAw4rgbFGAUyI4cdph"
+        "name": "Meet Me After Midnight",
+        "url": "https://open.spotify.com/album/7LLosyHTyGhZVChMhftSdM"
       },
       "artists": [
         {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+          "name": "Micke Muster",
+          "url": "https://open.spotify.com/artist/50IjTMuVpPObIVxS7VZena"
         }
       ],
-      "duration_ms": 163306,
-      "name": "Frankie Please",
-      "url": "https://open.spotify.com/track/7iL3tEPfvqOnZ6glFtWhRm"
+      "duration_ms": 217792,
+      "name": "Meet Me After Midnight",
+      "url": "https://open.spotify.com/track/5v4QQoNX0XbEkOblrMYc88"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "Sun Collector Classics - Rockabilly",
+        "url": "https://open.spotify.com/album/1RlKHwfQJLx9GQsjb1Y5QF"
+      },
+      "artists": [
+        {
+          "name": "Orion",
+          "url": "https://open.spotify.com/artist/4k7v8UC7BAe31BeADfuAQU"
+        }
+      ],
+      "duration_ms": 163960,
+      "name": "Rockabilly Rebel",
+      "url": "https://open.spotify.com/track/6kSXIXxIv6edvYm7cRV4Jz"
     },
     {
       "added_at": "2022-05-06 05:39:06",
@@ -235,66 +251,18 @@
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Rockin' The Night Away",
-        "url": "https://open.spotify.com/album/7Lwi2V27gMNZPrAOBgvIXR"
+        "name": "Musta Notta Gotta Lotta",
+        "url": "https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg"
       },
       "artists": [
         {
-          "name": "The Jetaways",
-          "url": "https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy"
+          "name": "Joe Ely",
+          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
         }
       ],
-      "duration_ms": 173866,
-      "name": "Rockin' The Night Away",
-      "url": "https://open.spotify.com/track/7fnlgiottlzCU3Q42ClGza"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "Double Top (Very Best Of)",
-        "url": "https://open.spotify.com/album/3xe1R7xAwmWqIfQqjbKhIa"
-      },
-      "artists": [
-        {
-          "name": "Darts",
-          "url": "https://open.spotify.com/artist/4PAOIh8yFHsrG0B0eDjOsY"
-        }
-      ],
-      "duration_ms": 149159,
-      "name": "Daddy Cool / The Girl Can't Help It",
-      "url": "https://open.spotify.com/track/10b9TrZBf0uP1EtAZHcKNh"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "Cruising Klassiker",
-        "url": "https://open.spotify.com/album/53WS8rHtBrU1UI24xK9Uzp"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 131160,
-      "name": "(We're Gonna) Rock Around The Clock",
-      "url": "https://open.spotify.com/track/4MnHCHPnGoEZ383MK4uG5s"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl"
-      },
-      "artists": [
-        {
-          "name": "Jerry Jaye",
-          "url": "https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N"
-        }
-      ],
-      "duration_ms": 135666,
-      "name": "Redneck Rock",
-      "url": "https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8"
+      "duration_ms": 155000,
+      "name": "Musta Notta Gotta Lotta",
+      "url": "https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj"
     },
     {
       "added_at": "2022-05-06 05:39:06",
@@ -315,38 +283,66 @@
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Gotta Have The Rumble",
-        "url": "https://open.spotify.com/album/642jWZ7p8JKY7s5biYPK5o"
+        "name": "Rock Billy Boogie",
+        "url": "https://open.spotify.com/album/10xfK1QoJAKJTatrJTp4Wt"
       },
       "artists": [
         {
-          "name": "Brian Setzer",
-          "url": "https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f"
+          "name": "Robert Gordon",
+          "url": "https://open.spotify.com/artist/1coQ4GcxuazfjZ0MP9JnBF"
         }
       ],
-      "duration_ms": 193053,
-      "name": "Rockabilly Banjo",
-      "url": "https://open.spotify.com/track/0WmZudZaLf7WYOMFD2GGZk"
+      "duration_ms": 153333,
+      "name": "Rock Billy Boogie",
+      "url": "https://open.spotify.com/track/6kJ86Zi4x1LY9KEdjQA5S2"
     },
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Don't Come Knocking on My Door",
-        "url": "https://open.spotify.com/album/1nPMU7cEdcWQfCXNg37M2h"
+        "name": "Rockabilly Portrait",
+        "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
       },
       "artists": [
         {
-          "name": "Danny Cooltmoore",
-          "url": "https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF"
-        },
-        {
-          "name": "Small Town Pimps",
-          "url": "https://open.spotify.com/artist/5Pta9k4k1L77SPVrUxAVvS"
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
         }
       ],
-      "duration_ms": 197324,
-      "name": "Don't Come Knocking on My Door",
-      "url": "https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu"
+      "duration_ms": 109500,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "Tarpaper Sky",
+        "url": "https://open.spotify.com/album/2VkipAw4rgbFGAUyI4cdph"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "Frankie Please",
+      "url": "https://open.spotify.com/track/7iL3tEPfvqOnZ6glFtWhRm"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "Double Top (Very Best Of)",
+        "url": "https://open.spotify.com/album/3xe1R7xAwmWqIfQqjbKhIa"
+      },
+      "artists": [
+        {
+          "name": "Darts",
+          "url": "https://open.spotify.com/artist/4PAOIh8yFHsrG0B0eDjOsY"
+        }
+      ],
+      "duration_ms": 149159,
+      "name": "Daddy Cool / The Girl Can't Help It",
+      "url": "https://open.spotify.com/track/10b9TrZBf0uP1EtAZHcKNh"
     },
     {
       "added_at": "2022-05-06 05:39:06",
@@ -367,114 +363,18 @@
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Cruising Klassiker",
-        "url": "https://open.spotify.com/album/53WS8rHtBrU1UI24xK9Uzp"
+        "name": "Get Rhythm",
+        "url": "https://open.spotify.com/album/0cQCTZVaKrSV8tHh6FECLN"
       },
       "artists": [
         {
-          "name": "The Crickets",
-          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 136560,
-      "name": "That'll Be The Day",
-      "url": "https://open.spotify.com/track/5Y9RqvAKUyLfEPWCjAqjsO"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "Hellbilly Boys",
-        "url": "https://open.spotify.com/album/6Q3q5EJ7u0WBBNzcJMAtHI"
-      },
-      "artists": [
-        {
-          "name": "Hellbilly Boys",
-          "url": "https://open.spotify.com/artist/5bCy5EywKFmYnkKrYnOnL5"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Honky Tonk Train",
-      "url": "https://open.spotify.com/track/0SPKGaIJFH7ReMd0fcRoJg"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "Straight from the Heart",
-        "url": "https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask"
-      },
-      "artists": [
-        {
-          "name": "John Lindberg Trio",
-          "url": "https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO"
-        }
-      ],
-      "duration_ms": 138615,
-      "name": "You Belong to Me",
-      "url": "https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "Keep On Rollin'",
-        "url": "https://open.spotify.com/album/1Drg0VNBBK7IEsDXyMMpKE"
-      },
-      "artists": [
-        {
-          "name": "Voodoo Swing",
-          "url": "https://open.spotify.com/artist/4cq3Pl3yrAtFgDE0RUhUaA"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "Hillbilly Rock'n'Roll",
-      "url": "https://open.spotify.com/track/6bzf1xi9QFsdMkFLLZCUCO"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "Original Golden Hits - Volume 1",
-        "url": "https://open.spotify.com/album/7zfrzVi5p5mN06ydeH8ptF"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 173158,
-      "name": "Whole Lotta Shakin' Going On",
-      "url": "https://open.spotify.com/track/19J1kwHa3sgxLwaWDleGhd"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "Twangy Guitar",
-        "url": "https://open.spotify.com/album/0mvf51wLOb54DvwStywQHl"
-      },
-      "artists": [
-        {
-          "name": "Duane Eddy",
-          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
-        }
-      ],
-      "duration_ms": 145426,
-      "name": "Rebel Rouser",
-      "url": "https://open.spotify.com/track/0Efs1YYiqSm9hDbCEt7tmp"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "Musta Notta Gotta Lotta",
-        "url": "https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg"
-      },
-      "artists": [
-        {
-          "name": "Joe Ely",
-          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Musta Notta Gotta Lotta",
-      "url": "https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj"
+      "duration_ms": 132970,
+      "name": "Get Rhythm",
+      "url": "https://open.spotify.com/track/3KB1Z1mQulL4SdJTmrbTyO"
     },
     {
       "added_at": "2022-05-06 05:39:06",
@@ -491,86 +391,6 @@
       "duration_ms": 187866,
       "name": "Really Rockabilly",
       "url": "https://open.spotify.com/track/3VZ59HoBq4xF4yPYJMM770"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/0iNprdkkVugAnZ6KfTR1f2"
-      },
-      "artists": [
-        {
-          "name": "The Kingbees",
-          "url": "https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G"
-        }
-      ],
-      "duration_ms": 217853,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/1e1p5hTzbfLDDjumMOzl9w"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "The Very Best Of Little Richard",
-        "url": "https://open.spotify.com/album/3LXNSUpx48PQxUn2StRqfu"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 144106,
-      "name": "Tutti Frutti",
-      "url": "https://open.spotify.com/track/0JLR1Y2HdwzNrt3UTqujwg"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "Windy City Bop - Chicago Rockabilly 1945-1958",
-        "url": "https://open.spotify.com/album/1cqS5uzgVFJLhGuP7G089N"
-      },
-      "artists": [
-        {
-          "name": "Hank Mizell",
-          "url": "https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6"
-        }
-      ],
-      "duration_ms": 166226,
-      "name": "Jungle Rock",
-      "url": "https://open.spotify.com/track/6dA1oRPKhfAm1hHO6sKrGy"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "Rock Billy Boogie",
-        "url": "https://open.spotify.com/album/10xfK1QoJAKJTatrJTp4Wt"
-      },
-      "artists": [
-        {
-          "name": "Robert Gordon",
-          "url": "https://open.spotify.com/artist/1coQ4GcxuazfjZ0MP9JnBF"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Rock Billy Boogie",
-      "url": "https://open.spotify.com/track/6kJ86Zi4x1LY9KEdjQA5S2"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "Stray Cats",
-        "url": "https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8"
-      },
-      "artists": [
-        {
-          "name": "Stray Cats",
-          "url": "https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "Stray Cat Strut",
-      "url": "https://open.spotify.com/track/6prmiVokCCQB1VAYhq5TGJ"
     },
     {
       "added_at": "2022-05-06 05:39:06",
@@ -595,8 +415,104 @@
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Rockabilly Portrait",
-        "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
+        "name": "Hot Rod Roadeo",
+        "url": "https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k"
+      },
+      "artists": [
+        {
+          "name": "The Go Getters",
+          "url": "https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq"
+        }
+      ],
+      "duration_ms": 188480,
+      "name": "Welcome to My Hell",
+      "url": "https://open.spotify.com/track/5UDbp5XoKm8UornXTFQk8D"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 127847,
+      "name": "Matchbox",
+      "url": "https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "Straight from the Heart",
+        "url": "https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask"
+      },
+      "artists": [
+        {
+          "name": "John Lindberg Trio",
+          "url": "https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO"
+        }
+      ],
+      "duration_ms": 138615,
+      "name": "You Belong to Me",
+      "url": "https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "Cruising Klassiker",
+        "url": "https://open.spotify.com/album/53WS8rHtBrU1UI24xK9Uzp"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 131160,
+      "name": "(We're Gonna) Rock Around The Clock",
+      "url": "https://open.spotify.com/track/4MnHCHPnGoEZ383MK4uG5s"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "Gotta Have The Rumble",
+        "url": "https://open.spotify.com/album/642jWZ7p8JKY7s5biYPK5o"
+      },
+      "artists": [
+        {
+          "name": "Brian Setzer",
+          "url": "https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f"
+        }
+      ],
+      "duration_ms": 193053,
+      "name": "Rockabilly Banjo",
+      "url": "https://open.spotify.com/track/0WmZudZaLf7WYOMFD2GGZk"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "Windy City Bop - Chicago Rockabilly 1945-1958",
+        "url": "https://open.spotify.com/album/1cqS5uzgVFJLhGuP7G089N"
+      },
+      "artists": [
+        {
+          "name": "Hank Mizell",
+          "url": "https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6"
+        }
+      ],
+      "duration_ms": 166226,
+      "name": "Jungle Rock",
+      "url": "https://open.spotify.com/track/6dA1oRPKhfAm1hHO6sKrGy"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "Original Golden Hits - Volume 1",
+        "url": "https://open.spotify.com/album/7zfrzVi5p5mN06ydeH8ptF"
       },
       "artists": [
         {
@@ -604,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
         }
       ],
-      "duration_ms": 109500,
-      "name": "Wild One",
-      "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
+      "duration_ms": 173158,
+      "name": "Whole Lotta Shakin' Going On",
+      "url": "https://open.spotify.com/track/19J1kwHa3sgxLwaWDleGhd"
     },
     {
       "added_at": "2022-05-06 05:39:06",
@@ -627,34 +543,66 @@
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "From the Waist Down",
-        "url": "https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj"
+        "name": "Hellbilly Boys",
+        "url": "https://open.spotify.com/album/6Q3q5EJ7u0WBBNzcJMAtHI"
       },
       "artists": [
         {
-          "name": "Jack Rabbit Slim",
-          "url": "https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI"
+          "name": "Hellbilly Boys",
+          "url": "https://open.spotify.com/artist/5bCy5EywKFmYnkKrYnOnL5"
         }
       ],
-      "duration_ms": 121253,
-      "name": "Rock-a-Cha",
-      "url": "https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK"
+      "duration_ms": 183373,
+      "name": "Honky Tonk Train",
+      "url": "https://open.spotify.com/track/0SPKGaIJFH7ReMd0fcRoJg"
     },
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Bip Bop Boom!",
-        "url": "https://open.spotify.com/album/4E35ZgomU7H1ktEB1GtWba"
+        "name": "Rockin' up a Storm",
+        "url": "https://open.spotify.com/album/6TxGY2mBLLsRjmHM4KCZs1"
       },
       "artists": [
         {
-          "name": "Emmy Lou and The Rhythm Boys",
-          "url": "https://open.spotify.com/artist/0VAO3FEhPxiR9e1nAlFzbr"
+          "name": "Snakebite",
+          "url": "https://open.spotify.com/artist/1CHz4uPXCOAXMmjWXzPcJj"
         }
       ],
-      "duration_ms": 172293,
-      "name": "Can\u00b4t Get It Out of My Mind",
-      "url": "https://open.spotify.com/track/5Z1sGA3c1XbY1Qu8Ku9Yz1"
+      "duration_ms": 183573,
+      "name": "Born to Rock",
+      "url": "https://open.spotify.com/track/6YT4nf1aNlJrKiTSsrqaaz"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "Baby Come Back",
+        "url": "https://open.spotify.com/album/6iIbpZ2eThSMxI4qK7SeGF"
+      },
+      "artists": [
+        {
+          "name": "TT Grace",
+          "url": "https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc"
+        }
+      ],
+      "duration_ms": 201667,
+      "name": "Baby Come Back",
+      "url": "https://open.spotify.com/track/6qY22D1gFh5rPHQR5gL4OA"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/0iNprdkkVugAnZ6KfTR1f2"
+      },
+      "artists": [
+        {
+          "name": "The Kingbees",
+          "url": "https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G"
+        }
+      ],
+      "duration_ms": 217853,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/1e1p5hTzbfLDDjumMOzl9w"
     },
     {
       "added_at": "2022-05-06 05:39:06",
@@ -671,38 +619,6 @@
       "duration_ms": 167132,
       "name": "Little Ol\u00b4 You",
       "url": "https://open.spotify.com/track/37VsUa27pO3zKLjGH3fbXv"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "Sun Collector Classics - Rockabilly",
-        "url": "https://open.spotify.com/album/1RlKHwfQJLx9GQsjb1Y5QF"
-      },
-      "artists": [
-        {
-          "name": "Orion",
-          "url": "https://open.spotify.com/artist/4k7v8UC7BAe31BeADfuAQU"
-        }
-      ],
-      "duration_ms": 163960,
-      "name": "Rockabilly Rebel",
-      "url": "https://open.spotify.com/track/6kSXIXxIv6edvYm7cRV4Jz"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "Rocket to the Moon",
-        "url": "https://open.spotify.com/album/63sO9QAPD2hjpNh98WFiwC"
-      },
-      "artists": [
-        {
-          "name": "Pepita Slappers",
-          "url": "https://open.spotify.com/artist/5QrPasvRZt9axhtr96a54Z"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Rocket to the Moon",
-      "url": "https://open.spotify.com/track/7E1XmqVGR1GfAPa6LYEYM0"
     },
     {
       "added_at": "2022-05-06 05:39:06",
@@ -727,146 +643,134 @@
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Love Tattoo",
-        "url": "https://open.spotify.com/album/16s0XOdNFDoBnhY81QYY3H"
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl"
       },
       "artists": [
         {
-          "name": "Imelda May",
-          "url": "https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH"
+          "name": "Jerry Jaye",
+          "url": "https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N"
         }
       ],
-      "duration_ms": 179400,
-      "name": "Johnny Got A Boom Boom",
-      "url": "https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e"
+      "duration_ms": 135666,
+      "name": "Redneck Rock",
+      "url": "https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8"
     },
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Favourite Song",
-        "url": "https://open.spotify.com/album/3jaVPMuVvrHGn5VoBCGGxT"
+        "name": "The Very Best Of Little Richard",
+        "url": "https://open.spotify.com/album/3LXNSUpx48PQxUn2StRqfu"
       },
       "artists": [
         {
-          "name": "Guitar Tom and the High Cats",
-          "url": "https://open.spotify.com/artist/7Dsd8yjfeZeKq7jAWqXJK1"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 149053,
-      "name": "Favourite Song",
-      "url": "https://open.spotify.com/track/1R5aCMXj3rYVL1tAaKF9Ra"
+      "duration_ms": 144106,
+      "name": "Tutti Frutti",
+      "url": "https://open.spotify.com/track/0JLR1Y2HdwzNrt3UTqujwg"
     },
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "The Very Best of Billy Lee Riley - Red Hot",
-        "url": "https://open.spotify.com/album/4RwrbZL7arossJkEToJsQi"
+        "name": "Keep On Rollin'",
+        "url": "https://open.spotify.com/album/1Drg0VNBBK7IEsDXyMMpKE"
       },
       "artists": [
         {
-          "name": "Billy Lee Riley",
-          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+          "name": "Voodoo Swing",
+          "url": "https://open.spotify.com/artist/4cq3Pl3yrAtFgDE0RUhUaA"
         }
       ],
-      "duration_ms": 149705,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/024xjVutLFgK3gInQCJxGj"
+      "duration_ms": 150720,
+      "name": "Hillbilly Rock'n'Roll",
+      "url": "https://open.spotify.com/track/6bzf1xi9QFsdMkFLLZCUCO"
     },
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Rockin' up a Storm",
-        "url": "https://open.spotify.com/album/6TxGY2mBLLsRjmHM4KCZs1"
+        "name": "Twangy Guitar",
+        "url": "https://open.spotify.com/album/0mvf51wLOb54DvwStywQHl"
       },
       "artists": [
         {
-          "name": "Snakebite",
-          "url": "https://open.spotify.com/artist/1CHz4uPXCOAXMmjWXzPcJj"
+          "name": "Duane Eddy",
+          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
         }
       ],
-      "duration_ms": 183573,
-      "name": "Born to Rock",
-      "url": "https://open.spotify.com/track/6YT4nf1aNlJrKiTSsrqaaz"
+      "duration_ms": 145426,
+      "name": "Rebel Rouser",
+      "url": "https://open.spotify.com/track/0Efs1YYiqSm9hDbCEt7tmp"
     },
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Hot Rod Roadeo",
-        "url": "https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k"
+        "name": "Tear It Up: The Complete Legedary Coral Recordings",
+        "url": "https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6"
       },
       "artists": [
         {
-          "name": "The Go Getters",
-          "url": "https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq"
+          "name": "Johnny Burnette",
+          "url": "https://open.spotify.com/artist/3PrFCybHMqrcPls31JxoIl"
         }
       ],
-      "duration_ms": 188480,
-      "name": "Welcome to My Hell",
-      "url": "https://open.spotify.com/track/5UDbp5XoKm8UornXTFQk8D"
+      "duration_ms": 132400,
+      "name": "Drinking Wine Spo-Dee-O-Dee - Single Version",
+      "url": "https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm"
     },
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Rockabilly Blues",
-        "url": "https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1"
+        "name": "NOLA",
+        "url": "https://open.spotify.com/album/7pO86OkIacdDzNQtsvaL0J"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "The Buckaroos",
+          "url": "https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr"
         }
       ],
-      "duration_ms": 200146,
-      "name": "Rockabilly Blues (Texas 1955)",
-      "url": "https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum"
+      "duration_ms": 139173,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/7My40AGXwPAULqqRBzvb4R"
     },
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Melrose",
-        "url": "https://open.spotify.com/album/4RE5Q4pm0CqEXpfva5NoXz"
+        "name": "Don't Come Knocking on My Door",
+        "url": "https://open.spotify.com/album/1nPMU7cEdcWQfCXNg37M2h"
       },
       "artists": [
         {
-          "name": "Melrose",
-          "url": "https://open.spotify.com/artist/7wEF4N6aICDlkHnCy3PLan"
+          "name": "Danny Cooltmoore",
+          "url": "https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF"
+        },
+        {
+          "name": "Small Town Pimps",
+          "url": "https://open.spotify.com/artist/5Pta9k4k1L77SPVrUxAVvS"
         }
       ],
-      "duration_ms": 231586,
-      "name": "Rich Little Bitch",
-      "url": "https://open.spotify.com/track/12680M4NXeEB27oywHfCxg"
+      "duration_ms": 197324,
+      "name": "Don't Come Knocking on My Door",
+      "url": "https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu"
     },
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Bluelight Rockabillies vol.3",
-        "url": "https://open.spotify.com/album/2SuOS78WpeAQ45YAwPdwgQ"
+        "name": "Bip Bop Boom!",
+        "url": "https://open.spotify.com/album/4E35ZgomU7H1ktEB1GtWba"
       },
       "artists": [
         {
-          "name": "Mr. Breathless",
-          "url": "https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo"
+          "name": "Emmy Lou and The Rhythm Boys",
+          "url": "https://open.spotify.com/artist/0VAO3FEhPxiR9e1nAlFzbr"
         }
       ],
-      "duration_ms": 167600,
-      "name": "Baby I Don't Care",
-      "url": "https://open.spotify.com/track/55YNkWt5V10Sg5dNzT2OKF"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
-        "name": "Signs & Signifiers",
-        "url": "https://open.spotify.com/album/2z1GaPw5X4d7HHRSIwxInv"
-      },
-      "artists": [
-        {
-          "name": "JD McPherson",
-          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
-        }
-      ],
-      "duration_ms": 151493,
-      "name": "North Side Gal",
-      "url": "https://open.spotify.com/track/7bZkuSIYH7j85RBu6Y4gTe"
+      "duration_ms": 172293,
+      "name": "Can\u00b4t Get It Out of My Mind",
+      "url": "https://open.spotify.com/track/5Z1sGA3c1XbY1Qu8Ku9Yz1"
     },
     {
       "added_at": "2022-05-06 05:39:06",
@@ -887,34 +791,98 @@
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Baby Come Back",
-        "url": "https://open.spotify.com/album/6iIbpZ2eThSMxI4qK7SeGF"
+        "name": "It's Time!",
+        "url": "https://open.spotify.com/album/0F9FXQPcSj82bp4SnDeA7A"
       },
       "artists": [
         {
-          "name": "TT Grace",
-          "url": "https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc"
+          "name": "Big Sandy & His Fly-Rite Boys",
+          "url": "https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv"
         }
       ],
-      "duration_ms": 201667,
-      "name": "Baby Come Back",
-      "url": "https://open.spotify.com/track/6qY22D1gFh5rPHQR5gL4OA"
+      "duration_ms": 192466,
+      "name": "Chalk It Up to the Blues",
+      "url": "https://open.spotify.com/track/3GjdLiQyrIDArRUHHsE93v"
     },
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Rockabilly Rhythms",
-        "url": "https://open.spotify.com/album/5KOnQUm8IXW6egsGtk2qZN"
+        "name": "The Blasters",
+        "url": "https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B"
       },
       "artists": [
         {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+          "name": "The Blasters",
+          "url": "https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5"
         }
       ],
-      "duration_ms": 141853,
-      "name": "Gotta Lot Of Rhythm In My Soul",
-      "url": "https://open.spotify.com/track/7aZiLidYjoelX6E3nfpDM7"
+      "duration_ms": 127626,
+      "name": "American Music",
+      "url": "https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "Rockin' The Night Away",
+        "url": "https://open.spotify.com/album/7Lwi2V27gMNZPrAOBgvIXR"
+      },
+      "artists": [
+        {
+          "name": "The Jetaways",
+          "url": "https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "Rockin' The Night Away",
+      "url": "https://open.spotify.com/track/7fnlgiottlzCU3Q42ClGza"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "Bluelight Rockabillies vol.3",
+        "url": "https://open.spotify.com/album/2SuOS78WpeAQ45YAwPdwgQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Breathless",
+          "url": "https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Baby I Don't Care",
+      "url": "https://open.spotify.com/track/55YNkWt5V10Sg5dNzT2OKF"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "Rocket to the Moon",
+        "url": "https://open.spotify.com/album/63sO9QAPD2hjpNh98WFiwC"
+      },
+      "artists": [
+        {
+          "name": "Pepita Slappers",
+          "url": "https://open.spotify.com/artist/5QrPasvRZt9axhtr96a54Z"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Rocket to the Moon",
+      "url": "https://open.spotify.com/track/7E1XmqVGR1GfAPa6LYEYM0"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "Let's Drag",
+        "url": "https://open.spotify.com/album/34SpKbAmjmBJzDejIcto0Q"
+      },
+      "artists": [
+        {
+          "name": "Jack Baymoore & The Bandits",
+          "url": "https://open.spotify.com/artist/0UR8v6ibhNS162hr1f7VVQ"
+        }
+      ],
+      "duration_ms": 144392,
+      "name": "A-V8 Boogie",
+      "url": "https://open.spotify.com/track/40Cm3xxLnHUK8y2TVF4Jyp"
     },
     {
       "added_at": "2022-05-06 05:39:06",
@@ -935,22 +903,6 @@
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "Rock 'n' Roll",
-        "url": "https://open.spotify.com/album/1xf6bK6YKmBPP6F4tn0UYm"
-      },
-      "artists": [
-        {
-          "name": "Danny & The Juniors",
-          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
-        }
-      ],
-      "duration_ms": 149933,
-      "name": "At The Hop",
-      "url": "https://open.spotify.com/track/6vkuJbGjyjnSQReeaCh8wT"
-    },
-    {
-      "added_at": "2022-05-06 05:39:06",
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
@@ -967,18 +919,66 @@
     {
       "added_at": "2022-05-06 05:39:06",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+        "name": "1957-1959",
+        "url": "https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp"
       },
       "artists": [
         {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+          "name": "Joe Bennett & The Sparkletones",
+          "url": "https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP"
         }
       ],
-      "duration_ms": 127847,
-      "name": "Matchbox",
-      "url": "https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs"
+      "duration_ms": 129026,
+      "name": "Black Slacks",
+      "url": "https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "The Very Best of Billy Lee Riley - Red Hot",
+        "url": "https://open.spotify.com/album/4RwrbZL7arossJkEToJsQi"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "duration_ms": 149705,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/024xjVutLFgK3gInQCJxGj"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "Rock 'n' Roll",
+        "url": "https://open.spotify.com/album/1xf6bK6YKmBPP6F4tn0UYm"
+      },
+      "artists": [
+        {
+          "name": "Danny & The Juniors",
+          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
+        }
+      ],
+      "duration_ms": 149933,
+      "name": "At The Hop",
+      "url": "https://open.spotify.com/track/6vkuJbGjyjnSQReeaCh8wT"
+    },
+    {
+      "added_at": "2022-05-06 05:39:06",
+      "album": {
+        "name": "Stray Cats",
+        "url": "https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8"
+      },
+      "artists": [
+        {
+          "name": "Stray Cats",
+          "url": "https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "Stray Cat Strut",
+      "url": "https://open.spotify.com/track/6prmiVokCCQB1VAYhq5TGJ"
     }
   ],
   "unique_name": "Rockabilly Mania",

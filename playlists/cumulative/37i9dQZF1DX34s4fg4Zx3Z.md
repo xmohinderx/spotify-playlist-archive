@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: BassBounces Jenn; thiết kế: Isu Kim
 
-341 songs - 19 hr 47 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+343 songs - 19 hr 54 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Nếu Đã Không Còn Yêu \(feat\. Joke D\)](https://open.spotify.com/track/32ipe05GHzbLQKhGRNOu9g) | [LT Midside](https://open.spotify.com/artist/50OfeNlZcOMffMzBpfDCTL), [Joke D](https://open.spotify.com/artist/5UjssQfB90YVhMKQW8nHFN) | [Nếu Đã Không Còn Yêu \(feat\. Joke D\)](https://open.spotify.com/album/3d45lEoLzRl2ApRjPCJqsD) | 4:22 | 2022-01-06 |  |
 | [Nụ Cười Em Là Nắng](https://open.spotify.com/track/0SymLWqM9xSwn9lHFUNHUg) | [Green](https://open.spotify.com/artist/2mYrvZz0fllkkUnZishGE4) | [Nụ Cười Em Là Nắng](https://open.spotify.com/album/2zqQTCayQWu5FqkNHxWcNq) | 4:05 | 2022-03-04 | 2022-05-20 |
 | [Nụ cười trên tàu điện](https://open.spotify.com/track/4IkP4m7CrKPMKPUsBeRP9y) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk) | [Nụ cười trên tàu điện](https://open.spotify.com/album/747Nlx8InNcM6SaFBwjlRS) | 2:35 | 2022-03-17 | 2022-03-27 |
+| [Only](https://open.spotify.com/track/4qceKimAyiRmYpI9VUsuUI) | [NNat](https://open.spotify.com/artist/78T3xHpKkxuDjzoy2Puziw) | [Only](https://open.spotify.com/album/28erSfGHTySvJRP3J1LTlm) | 3:34 | 2022-05-27 |  |
 | [PEACH 2](https://open.spotify.com/track/5YPH5jvgUdz2idFDTnv6rY) | [Droppy](https://open.spotify.com/artist/4EqEodSfNgQPwoHxbdZlpT), [Quân R.E.V](https://open.spotify.com/artist/5UgQxRnX0fvTuUgD3SUKjo), [hổ](https://open.spotify.com/artist/2nN082YbHkqvJYvJiwpc4R) | [PEACH 2](https://open.spotify.com/album/6jRbH4ir3LTYqaHWV1lOtQ) | 4:20 | 2022-01-14 | 2022-05-12 |
 | [Peek A Boo With You](https://open.spotify.com/track/6aIORvXY4XF53U9cuBaI4y) | [Híu](https://open.spotify.com/artist/2J5B9kGwZXEaP7Ys4ai9Qz), [Bâu](https://open.spotify.com/artist/2KBCzFu6IEUuCiBpblpRRF), [Lena](https://open.spotify.com/artist/4WxO9PBJlzYXOmtln97gnT) | [Peek A Boo With You](https://open.spotify.com/album/2PDlUnO0MuqjgCRhhO2NqC) | 2:51 | 2022-01-14 | 2022-03-09 |
 | [Phai](https://open.spotify.com/track/42ajbrD1sow2nEGPGxPPRl) | [Rocky CDE](https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch), [Chie](https://open.spotify.com/artist/5wKIVQA0KAsqPlLlRQeNsd) | [Phai](https://open.spotify.com/album/2uIAGJ0NLqhiFOLMGdDzQ3) | 3:34 | 2022-01-24 | 2022-02-09 |
@@ -242,6 +243,7 @@
 | [Precious](https://open.spotify.com/track/5VvlK5HdqZTNdEVkZfPifI) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [Kiper T](https://open.spotify.com/artist/0DVbTrEQjCbRvMxvXVJomz) | [Precious](https://open.spotify.com/album/7A6xNrC7cXNry39OdrCOr1) | 2:55 | 2022-02-14 | 2022-03-01 |
 | [Precious \- Cukak Remix](https://open.spotify.com/track/1fufWqg4DhnNSQjc5O5Sgf) | [Cukak](https://open.spotify.com/artist/3swW6OR2g7qTY3626sqVW4), [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [Kiper T](https://open.spotify.com/artist/0DVbTrEQjCbRvMxvXVJomz) | [Precious \(Cukak Remix\)](https://open.spotify.com/album/3PApvjsvLIFfHK5ezFF6OF) | 3:05 | 2022-02-28 | 2022-03-03 |
 | [Precious \- Cukak Remix](https://open.spotify.com/track/3LXgtPzLjoniEX4qvsOZ7i) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [Kiper T](https://open.spotify.com/artist/0DVbTrEQjCbRvMxvXVJomz) | [Precious \(Cukak Remix\)](https://open.spotify.com/album/4aJFVEWiAZXjn3csBJwdAf) | 3:05 | 2022-03-02 | 2022-05-27 |
+| [Promises](https://open.spotify.com/track/646DS4Q5hjZQlU5lvMhVB9) | [Cristian](https://open.spotify.com/artist/5UVYVxjwTczzmEqjAoTWu7) | [Promises](https://open.spotify.com/album/0oNi6OM9R560gjgjfGDO8j) | 3:10 | 2022-05-27 |  |
 | [quá trễ quay đầu](https://open.spotify.com/track/4AC5YHWwddN4gPlpSR0BaZ) | [Lena](https://open.spotify.com/artist/4WxO9PBJlzYXOmtln97gnT) | [quá trễ quay đầu](https://open.spotify.com/album/4li7OYvGQ9E4pmPS3SDor3) | 3:14 | 2022-03-17 | 2022-04-05 |
 | [Quấn Lấy Nhau](https://open.spotify.com/track/2vyVEglcS4DjQxvSq19Wha) | [Chill Mal](https://open.spotify.com/artist/1p6TbwOK6fMNSAWRDjoYEu), [kim](https://open.spotify.com/artist/3vHCYbpC0mr2ITEYz1CnrE), [DawnG](https://open.spotify.com/artist/76FtV3J5Mr7TIAOCp4iKec) | [Quấn Lấy Nhau](https://open.spotify.com/album/3fJaAqw6hWal148lRFJmzp) | 3:19 | 2022-01-06 | 2022-02-15 |
 | [Rain It On](https://open.spotify.com/track/3Y88n7ZD6I4rGFVHqPrts0) | [NSS deSilence](https://open.spotify.com/artist/51TnFAqhsGf3w5FUCSEI9N) | [Rain It On](https://open.spotify.com/album/1LBZMhHAHryKCfBwpSrfNr) | 2:32 | 2022-02-24 | 2022-03-05 |

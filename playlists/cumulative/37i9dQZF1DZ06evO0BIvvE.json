@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "This is Billy Paul. The essential tracks, all in one playlist.",
   "name": "This Is Billy Paul",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1gFUXn6U9aKUVqz74eCknF"
+  ],
   "tracks": [
     {
       "album": {
@@ -21,7 +23,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 178733,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/1w4EmsaSRG53afdB1LLYPj"
@@ -205,7 +207,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 387426,
       "name": "East",
       "url": "https://open.spotify.com/track/7czybjNI9bQw8DvdmOdH37"
@@ -547,7 +549,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 219320,
       "name": "Love Buddies",
       "url": "https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k"
@@ -666,6 +668,24 @@
     },
     {
       "album": {
+        "name": "Feelin' Good at the Cadillac Club",
+        "url": "https://open.spotify.com/album/5HV7hyk7LSoLaE5RU8x8eR"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276906,
+      "name": "On A Clear Day (You Can See Forever)",
+      "url": "https://open.spotify.com/track/4d60Vgve7bbcFfnEkeZqn4"
+    },
+    {
+      "album": {
         "name": "Only The Strong Survive",
         "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
       },
@@ -681,6 +701,24 @@
       "duration_ms": 335613,
       "name": "Only the Strong Survive",
       "url": "https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA"
+    },
+    {
+      "album": {
+        "name": "War of the Gods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414080,
+      "name": "Peace Holy Peace",
+      "url": "https://open.spotify.com/track/67hMdEjp5GX1wr4zl1arz5"
     },
     {
       "album": {
@@ -825,6 +863,24 @@
       "duration_ms": 287160,
       "name": "The Whole Town's Talking",
       "url": "https://open.spotify.com/track/23mT3ScCi2K2XnRQdVqY2P"
+    },
+    {
+      "album": {
+        "name": "Going East",
+        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267626,
+      "name": "There's A Small Hotel",
+      "url": "https://open.spotify.com/track/7FGt4gse7OaulLWaxcIoBe"
     },
     {
       "album": {

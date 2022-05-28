@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV?si=VUZ6JT32TSWUEHgciPxO1A" > Nonso Amadi </a> and <a href="https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk?si=JAedgucyRgO1t2lnUIdo5A" > Majid Jordan </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,792 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,813 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

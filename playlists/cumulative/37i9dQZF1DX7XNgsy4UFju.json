@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: fanclubwallet",
+  "description": "Home to all the latest indie jams. Cover: Stars",
   "name": "Indie All Stars",
   "published_playlist_ids": [
     "4hpfeoyJCUxj1W1YZOVAqm"
@@ -900,6 +900,24 @@
     },
     {
       "album": {
+        "name": "Broken Record",
+        "url": "https://open.spotify.com/album/3HkGfFELfqyxh3jsBL6828"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241499,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/4LIxmoxqIUvlANwcNR9b3L"
+    },
+    {
+      "album": {
         "name": "Calgary '88",
         "url": "https://open.spotify.com/album/3GdrAAbAfTuC9HMQ4yn9Js"
       },
@@ -947,7 +965,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 284666,
       "name": "Capelton Hill",
       "url": "https://open.spotify.com/track/3eWpMRfrFCDWT8YIpNOzRU"
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 235888,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/7jE5cEkIQin4opTBw9POpD"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 240000,
       "name": "Chrysanthemums",
       "url": "https://open.spotify.com/track/1DWlM8z38cCw2R91jnvTtr"
@@ -1677,6 +1695,24 @@
       "duration_ms": 237670,
       "name": "Do Ya Feel My Love?",
       "url": "https://open.spotify.com/track/2Vxvpzb5Cfj0ZQQ3pulDij"
+    },
+    {
+      "album": {
+        "name": "Don't Fight The Feeling",
+        "url": "https://open.spotify.com/album/0F9BfPKfqHWVqFdnm8RJZ5"
+      },
+      "artists": [
+        {
+          "name": "Born Ruffians",
+          "url": "https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304743,
+      "name": "Don't Fight The Feeling",
+      "url": "https://open.spotify.com/track/6a94gSINCcIhFs6QM3ivmx"
     },
     {
       "album": {
@@ -2713,7 +2749,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 280000,
       "name": "Half Right",
       "url": "https://open.spotify.com/track/2RKAabaddUZDAL1gGRRvtN"
@@ -2955,7 +2991,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 239706,
       "name": "HIGHWAY TO YOUR HEART",
       "url": "https://open.spotify.com/track/1ejiXFwhoCVvM1z0uh32fr"
@@ -3021,6 +3057,24 @@
       "duration_ms": 231079,
       "name": "Holy Moley",
       "url": "https://open.spotify.com/track/6DSICrL9LNe0M6C7wnyGdr"
+    },
+    {
+      "album": {
+        "name": "Home By Now",
+        "url": "https://open.spotify.com/album/6ua077NQRY18YA0Yhk5rVt"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268992,
+      "name": "Home By Now",
+      "url": "https://open.spotify.com/track/5nnPrQFYUQijEz4lwMX4dC"
     },
     {
       "album": {
@@ -3097,6 +3151,24 @@
       "duration_ms": 171277,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2b6X2rRfDU6CEyWHnLDeS6"
+    },
+    {
+      "album": {
+        "name": "From Capelton Hill",
+        "url": "https://open.spotify.com/album/62FBD0LfoeSsvII9n3YeMo"
+      },
+      "artists": [
+        {
+          "name": "Stars",
+          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198226,
+      "name": "Hoping",
+      "url": "https://open.spotify.com/track/6HkIp5X5kfiMTF5RcFrlVn"
     },
     {
       "album": {
@@ -3686,6 +3758,24 @@
     },
     {
       "album": {
+        "name": "It Could Grow Anywhere",
+        "url": "https://open.spotify.com/album/4hqGDbqd2gl759eJf8Haze"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203005,
+      "name": "It Could Grow Anywhere",
+      "url": "https://open.spotify.com/track/6nKV3SFFkavVAA1iMYvxHc"
+    },
+    {
+      "album": {
         "name": "LABYRINTHITIS",
         "url": "https://open.spotify.com/album/63bs2cLZO9wm6hvhovU1AU"
       },
@@ -3921,7 +4011,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 246119,
       "name": "Kind Of Girl",
       "url": "https://open.spotify.com/track/04cy0BQeW4ZDLspMIfpMLv"
@@ -4631,7 +4721,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 189405,
       "name": "Midnight Man",
       "url": "https://open.spotify.com/track/5HyUsFzJ06qWYKW54KGw97"
@@ -5233,7 +5323,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 207774,
       "name": "Only in Your Eyes",
       "url": "https://open.spotify.com/track/2Ve8jt3csQx5S2q4QsMoyJ"
@@ -6546,6 +6636,60 @@
     },
     {
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1VCj5COOwJ4hS6vMunGVWg"
+      },
+      "artists": [
+        {
+          "name": "Tallies",
+          "url": "https://open.spotify.com/artist/0TqfIpfq65gBiU4m7BCe0O"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275739,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/2mYwRlk7h0gInWhghPUbKH"
+    },
+    {
+      "album": {
+        "name": "The Shark in Your Water",
+        "url": "https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7"
+      },
+      "artists": [
+        {
+          "name": "Flower Face",
+          "url": "https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179815,
+      "name": "Spiracle",
+      "url": "https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI"
+    },
+    {
+      "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/4GVoIK1wXH6Tm5bOaNOkIu"
+      },
+      "artists": [
+        {
+          "name": "chemical club",
+          "url": "https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/2vMikyqNbH1ynZ4Rfcbso3"
+    },
+    {
+      "album": {
         "name": "The Words You Spoke Still Move Me",
         "url": "https://open.spotify.com/album/5gxCaZ2KFlYfBWSmTMGi2g"
       },
@@ -7095,6 +7239,24 @@
       "duration_ms": 246800,
       "name": "The Love",
       "url": "https://open.spotify.com/track/3TUZYX99bk0oElnnqRFrTG"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145750,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS"
     },
     {
       "album": {
@@ -7823,7 +7985,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 231073,
       "name": "With You",
       "url": "https://open.spotify.com/track/56sDeGLrCYgn6ErQt9XWfr"
@@ -7907,6 +8069,24 @@
       "duration_ms": 205220,
       "name": "You've Got a Woman",
       "url": "https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6"
+    },
+    {
+      "album": {
+        "name": "Long Lost (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280140,
+      "name": "Your Other Life",
+      "url": "https://open.spotify.com/track/4sWZVIOHuTrQOt6mqzMiBE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7XNgsy4UFju"

@@ -445,7 +445,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 297664,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
@@ -2577,7 +2577,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 234857,
       "name": "Free",
       "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
@@ -3608,6 +3608,24 @@
     },
     {
       "album": {
+        "name": "La ultima Vez",
+        "url": "https://open.spotify.com/album/4ewqNo6Tw80CRVuP5fNGEx"
+      },
+      "artists": [
+        {
+          "name": "B. BC Music",
+          "url": "https://open.spotify.com/artist/4NlbzjHlSyEbBvYLyjKn3r"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299493,
+      "name": "La ultima Vez",
+      "url": "https://open.spotify.com/track/2r7TasjSuMmBixVvTJuzuF"
+    },
+    {
+      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -3869,7 +3887,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 316280,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7"
@@ -5341,6 +5359,28 @@
       "duration_ms": 244123,
       "name": "Que Bella",
       "url": "https://open.spotify.com/track/3J19LpIaBLaF5bS6mkFInB"
+    },
+    {
+      "album": {
+        "name": "Querer Querernos",
+        "url": "https://open.spotify.com/album/4wSzIa7QnZ6s6SBdvKc6oU"
+      },
+      "artists": [
+        {
+          "name": "Fritrs rei",
+          "url": "https://open.spotify.com/artist/59znsfjXjaGujWu9CyYOOV"
+        },
+        {
+          "name": "Canserberr1",
+          "url": "https://open.spotify.com/artist/6K4qNicoWGe1LzpUjPt3Bt"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231644,
+      "name": "Querer Querernos",
+      "url": "https://open.spotify.com/track/15ItGp1Ugz6NBsRIdpBect"
     },
     {
       "album": {
@@ -7115,7 +7155,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 418728,
       "name": "Tu Lokotron Remix",
       "url": "https://open.spotify.com/track/0LqY6Y6M4xx5mCe3QKLb2o"

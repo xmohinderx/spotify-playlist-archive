@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best Hip Hop coming out of Australia\. Cover: Sydney Yungins
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,876 likes - 94 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,911 likes - 94 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

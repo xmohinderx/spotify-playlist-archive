@@ -4,7 +4,7 @@
 
 > Blues favorites from 2021\. Cover: Robert Finley
 
-50 songs - 3 hr 19 min - not published yet
+50 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/7J29LYotKBKO0d6uHHNKwN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

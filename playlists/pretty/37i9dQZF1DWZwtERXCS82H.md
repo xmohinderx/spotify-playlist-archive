@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Books and piano, the perfect combination
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,159 likes - 357 songs - 15 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,291 likes - 357 songs - 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

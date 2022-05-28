@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "The smoothest of smooth jazz for your romantic evening.",
   "name": "Romantic Smooth Jazz",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "22cH7NuF0ONCHdq6lheKJc"
+  ],
   "tracks": [
     {
       "album": {
@@ -259,7 +261,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 289071,
       "name": "Brownie",
       "url": "https://open.spotify.com/track/1roZdXQPBHOvYK2SQXmvgH"
@@ -403,7 +405,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 319640,
       "name": "East Bay",
       "url": "https://open.spotify.com/track/08gYiRzOnUUbc3JubLhyHH"
@@ -587,7 +589,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 280240,
       "name": "Grover's Groove",
       "url": "https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst"
@@ -703,7 +705,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 269453,
       "name": "I'm Gonna Love You Just A Little More Baby",
       "url": "https://open.spotify.com/track/7dTrU26wEI2BTGZ5vb0HCy"
@@ -901,7 +903,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 272773,
       "name": "Let's Get Close",
       "url": "https://open.spotify.com/track/2obxF2oBpRKwlzx8FQOpaP"
@@ -1121,7 +1123,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 256506,
       "name": "Missing in Venice",
       "url": "https://open.spotify.com/track/18PwsjZKbuoC3pBRhywxlf"
@@ -1399,7 +1401,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 274013,
       "name": "Send One Your Love",
       "url": "https://open.spotify.com/track/1RMGbJnIQY6QhlqxKH8Fxf"
@@ -1651,7 +1653,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 234733,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1"

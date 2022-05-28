@@ -102,6 +102,46 @@
     },
     {
       "album": {
+        "name": "Elemental",
+        "url": "https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz"
+      },
+      "artists": [
+        {
+          "name": "R\u012b Wolf",
+          "url": "https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n"
+        },
+        {
+          "name": "Justin Johnson",
+          "url": "https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247630,
+      "name": "Another Weary Soul",
+      "url": "https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x"
+    },
+    {
+      "album": {
+        "name": "Back Seat",
+        "url": "https://open.spotify.com/album/04hqq9ebr9x6MRmJsyJkzF"
+      },
+      "artists": [
+        {
+          "name": "Chastity Brown",
+          "url": "https://open.spotify.com/artist/6vRqjrYlvurWLEwRKvTdEw"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229625,
+      "name": "Back Seat",
+      "url": "https://open.spotify.com/track/5cORKRcTX6dstvvBVSQan5"
+    },
+    {
+      "album": {
         "name": "bad blood",
         "url": "https://open.spotify.com/album/0IYR6AlNwF9HW1u4Jzf1oo"
       },
@@ -1491,6 +1531,24 @@
       "duration_ms": 421080,
       "name": "My Kentucky",
       "url": "https://open.spotify.com/track/353KDYzMxofC6davOZ1oH6"
+    },
+    {
+      "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/1Ru4jgnreryoTXbp2SdZRr"
+      },
+      "artists": [
+        {
+          "name": "David Myles",
+          "url": "https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205533,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/2KbNZUsmY1jg6sCyN2Xtrd"
     },
     {
       "album": {

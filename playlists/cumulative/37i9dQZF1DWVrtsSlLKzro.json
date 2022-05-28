@@ -460,6 +460,28 @@
     },
     {
       "album": {
+        "name": "Black & Blue",
+        "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
+    },
+    {
+      "album": {
         "name": "Fallen Embers",
         "url": "https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V"
       },
@@ -771,6 +793,28 @@
       "duration_ms": 179853,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC"
+    },
+    {
+      "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/0Tgqggojp3Ww68ys5MqYM9"
+      },
+      "artists": [
+        {
+          "name": "CloudNone",
+          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
+        },
+        {
+          "name": "Tadeusz",
+          "url": "https://open.spotify.com/artist/6LKHL4tofercrPmQBtYUUP"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230476,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/4T3xGrrjx4JFaLoOA49Nxz"
     },
     {
       "album": {

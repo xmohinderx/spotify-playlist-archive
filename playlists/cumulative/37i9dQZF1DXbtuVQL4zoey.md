@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-253 songs - 9 hr 43 min - not published yet
+253 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

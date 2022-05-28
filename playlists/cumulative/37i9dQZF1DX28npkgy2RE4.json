@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 362492,
       "name": "A Dream Of Home",
       "url": "https://open.spotify.com/track/4LINukxWI1NvCP7NUA9mKI"
@@ -153,10 +153,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 318718,
       "name": "Any Dreams?",
       "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
+    },
+    {
+      "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB"
     },
     {
       "album": {
@@ -211,7 +229,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
@@ -537,7 +555,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 267240,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/5pJdonxbRs57P0u97HsDE5"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 185637,
       "name": "Bottle It Up (feat. Greta Stanley)",
       "url": "https://open.spotify.com/track/3IcHXc3pAio3wozwIlB5Gv"
@@ -657,7 +675,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 216920,
       "name": "Can't See Stars (feat. Kevin Morby)",
       "url": "https://open.spotify.com/track/4vDEQxivxtfbgmEHtsJ29H"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 224880,
       "name": "Circuit Rider",
       "url": "https://open.spotify.com/track/3C2pIO8aAdndrzUE72mii3"
@@ -841,7 +859,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "Cocaine Cowboys",
       "url": "https://open.spotify.com/track/5ww1cz0HayCtsi9l6j4n84"
@@ -931,7 +949,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 232160,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/6SDYoxCRLB3nuaq9mEKpgk"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 228000,
       "name": "Dancing Away In Tears",
       "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
@@ -1278,6 +1296,24 @@
     },
     {
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/0OvSbzmj1pyI5z4PNNFnDA"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197373,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6"
       },
@@ -1477,7 +1513,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 186016,
       "name": "First Time Feeling",
       "url": "https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw"
@@ -1625,7 +1661,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 237124,
       "name": "Gem",
       "url": "https://open.spotify.com/track/2myv1dElAWqSLafz8U74ch"
@@ -1643,7 +1679,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 214747,
       "name": "Get It \u2018Fore It\u2019s Gone",
       "url": "https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i"
@@ -1751,7 +1787,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 233533,
       "name": "Hear It Again",
       "url": "https://open.spotify.com/track/4CLPOmWL4IPkLa7vC0RFQU"
@@ -1841,7 +1877,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 220405,
       "name": "Help Me Down",
       "url": "https://open.spotify.com/track/3QM6LAQY5eZ237iKv4QIuL"
@@ -1859,7 +1895,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 193897,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
@@ -1935,7 +1971,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 282533,
       "name": "Hope Dreams",
       "url": "https://open.spotify.com/track/4UqOJtePJLOlG6enQq7NEE"
@@ -2509,7 +2545,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 236813,
       "name": "Lose This Number",
       "url": "https://open.spotify.com/track/2KSB2nglqnZuW4ptnJZEIl"
@@ -2603,7 +2639,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 183360,
       "name": "Make It Out (feat. Maisie Peters)",
       "url": "https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt"
@@ -2686,6 +2722,24 @@
     },
     {
       "album": {
+        "name": "Mecca",
+        "url": "https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291762,
+      "name": "Mecca",
+      "url": "https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE"
+    },
+    {
+      "album": {
         "name": "Mentiras Con Cari\u00f1o",
         "url": "https://open.spotify.com/album/0Ug12AyGyXXxK7iHKHXmcC"
       },
@@ -2701,7 +2755,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/68S4gw8NT6Tf1IbGrIftLj"
@@ -3015,7 +3069,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 238680,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
@@ -3195,7 +3249,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 283518,
       "name": "pak it in",
       "url": "https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l"
@@ -3213,7 +3267,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 201226,
       "name": "Paul Newman Daytona Rolex",
       "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
@@ -3307,7 +3361,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 170396,
       "name": "Plates",
       "url": "https://open.spotify.com/track/2om26BJOzO9DQEzhPr3WNG"
@@ -3509,7 +3563,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 218740,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
@@ -3549,7 +3603,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 172520,
       "name": "Resentment (New Feelings Version)",
       "url": "https://open.spotify.com/track/1QMlPu2ElT8LO2ceRVJs3g"
@@ -3809,7 +3863,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 201053,
       "name": "Show Up",
       "url": "https://open.spotify.com/track/5b6LbhrciovNRfx2SIOI0j"
@@ -3827,7 +3881,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 223453,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
@@ -3867,7 +3921,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 161776,
       "name": "Snowplow",
       "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
@@ -3907,7 +3961,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 218017,
       "name": "Solid Heart",
       "url": "https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa"
@@ -3961,7 +4015,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 235413,
       "name": "Speaking With Trees",
       "url": "https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N"
@@ -4149,7 +4203,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 215394,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/5cdYcHw7CJDhgNa21MSTYF"
@@ -4167,7 +4221,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 219492,
       "name": "Sunbathers",
       "url": "https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo"
@@ -4185,7 +4239,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 222530,
       "name": "Sunday Drive",
       "url": "https://open.spotify.com/track/7aRTaxQpag64SWksC1bTyl"
@@ -4221,10 +4275,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 222378,
       "name": "Swimming Backwards",
       "url": "https://open.spotify.com/track/6gdXKvWTGKYDOsC1Rj3Q3d"
+    },
+    {
+      "album": {
+        "name": "Teeth Marks",
+        "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217130,
+      "name": "Teeth Marks",
+      "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
     },
     {
       "album": {
@@ -4239,7 +4311,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 285200,
       "name": "Tender Organs",
       "url": "https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI"
@@ -4257,7 +4329,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 203506,
       "name": "That Spell",
       "url": "https://open.spotify.com/track/7Ir9KIlb69H98nwh7NO6Ea"
@@ -4275,7 +4347,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 235013,
       "name": "That Was Yesterday",
       "url": "https://open.spotify.com/track/54XLFFWPnUk9GiyMvqM7wQ"
@@ -4333,7 +4405,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 168347,
       "name": "The Colony",
       "url": "https://open.spotify.com/track/4cv6zLi4QDylVpuXzMJ6KV"
@@ -4409,7 +4481,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 311613,
       "name": "The Running Styles of New York",
       "url": "https://open.spotify.com/track/6qBIXzZBsQC6n4OmumpcHc"
@@ -4517,7 +4589,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 287693,
       "name": "Third Way",
       "url": "https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf"
@@ -4578,6 +4650,24 @@
     },
     {
       "album": {
+        "name": "Through The Echoes / Lose It",
+        "url": "https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221245,
+      "name": "Through The Echoes",
+      "url": "https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R"
+    },
+    {
+      "album": {
         "name": "Warm Chris",
         "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
       },
@@ -4607,7 +4697,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 244660,
       "name": "TNT",
       "url": "https://open.spotify.com/track/179A1qSTXEGDi9AZ6DpOW3"
@@ -4835,7 +4925,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 206933,
       "name": "When You're Away",
       "url": "https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH"

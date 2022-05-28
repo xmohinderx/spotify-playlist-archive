@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,422 songs - 3 day 10 hr 51 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,424 songs - 3 day 10 hr 57 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -629,6 +629,7 @@
 | [Impressions \- Take 1](https://open.spotify.com/track/05hSCC5hwv2rR4EyuslURV) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Both Directions At Once: The Lost Album \(Deluxe Version\)](https://open.spotify.com/album/0NSRgubfAJoYv2kvVAcRKy) | 4:06 | 2020-08-20 |  |
 | [In a Funk](https://open.spotify.com/track/4T0prYUFAIiZBDMNVvVfL7) | [Chris Forte](https://open.spotify.com/artist/3n9BjNinYGGROkAMZexaf1) | [Backyard Astronomy](https://open.spotify.com/album/5ep13CYpUSwDRzHyEj9xhV) | 5:21 | 2022-04-08 | 2022-04-24 |
 | [In a Minute](https://open.spotify.com/track/4bg7eVBtpkv95jVfH65VKd) | [Aura](https://open.spotify.com/artist/4wXNf2nPxMMR86PpII2cyH) | [In a Minute](https://open.spotify.com/album/2pIUysoe4JQ5s8W1M9D7rz) | 4:59 | 2020-02-20 | 2020-04-20 |
+| [In Between](https://open.spotify.com/track/5fo38M8R6w9NDvROwFIJ8S) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [In Between](https://open.spotify.com/album/6BWS7gNp0fd4UcAEShQZ8F) | 3:02 | 2022-05-27 |  |
 | [In Color Blue](https://open.spotify.com/track/2OwOa3MG4MMa7kGJkoKGmN) | [Hak Black](https://open.spotify.com/artist/7JIRCWz9rVly4v7WIVrPE4) | [In Color Blue](https://open.spotify.com/album/6qUfnEl5Jx3fDPVWQ2AUUa) | 3:45 | 2021-09-03 | 2021-09-11 |
 | [In Dreams](https://open.spotify.com/track/52VwZsyzyFaQEAwTYMH479) | [tomemitsu](https://open.spotify.com/artist/2mhR16cFNwiKWB909sMwgF) | [M\_o\_d\_e\_s](https://open.spotify.com/album/2cVxRgk7hXO54UPYDe2zps) | 4:05 | 2020-12-11 | 2020-12-26 |
 | [In my Bubble](https://open.spotify.com/track/1HmlL9d1NLEhE2eVhdzHZE) | [Zula Music](https://open.spotify.com/artist/4Iclx1dm3utRgczYDuj7f3), [alexis the artless](https://open.spotify.com/artist/3rbXwZNbInkthgafZv0QAu) | [First Step](https://open.spotify.com/album/33rpvpKbxMQvdJXIslaVkp) | 2:46 | 2021-08-07 | 2021-08-22 |
@@ -1020,6 +1021,7 @@
 | [Replace Me](https://open.spotify.com/track/0txHLZBfuAtUN8ja8gZaFs) | [John Noble Barrack](https://open.spotify.com/artist/6lrpKE857HFC8ohwObzINB) | [Replace Me](https://open.spotify.com/album/15d1SCP6Pys7m0uzHeUo9V) | 2:46 | 2022-04-22 | 2022-05-08 |
 | [Replace Me](https://open.spotify.com/track/2WbIdh9RxH4V0xv465tQzQ) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Replace Me](https://open.spotify.com/album/5Z5eUGnz4aZrWjHJF5PBr5) | 3:17 | 2022-03-25 | 2022-04-23 |
 | [Reset](https://open.spotify.com/track/6wSXxJVS9RKY54JzfFVecw) | [NATIIVE](https://open.spotify.com/artist/7iHTJPF1k1e9SF1BwqbAe0), [FINLAY](https://open.spotify.com/artist/2pAjU5iA2LSqy1junlcA6P) | [Reset](https://open.spotify.com/album/2WKPh3OLByXhZ6Pw5l05Hv) | 2:35 | 2021-02-12 | 2021-06-06 |
+| [Resist](https://open.spotify.com/track/36C5RcU2y7ymhezNlvngog) | [Melory](https://open.spotify.com/artist/6Q0ZhooKGwhS2CgmLuXgyI) | [Resist](https://open.spotify.com/album/0JIdtCZDyBBRDHg02JCv4D) | 3:06 | 2022-05-27 |  |
 | [Retrograde](https://open.spotify.com/track/54n4pHmfeeqd7O5fizgoPa) | [Salyse](https://open.spotify.com/artist/3QdzQAjNtakijDE1SoJ7Ln) | [Retrograde](https://open.spotify.com/album/4Uv5phL42K7TjjAfBxc8Dz) | 3:07 | 2021-10-26 | 2021-11-14 |
 | [RETURN](https://open.spotify.com/track/3j6FPFvTfNEO833qQhj9H9) | [Rizzlove](https://open.spotify.com/artist/5angRdn3GcGDWDXvmQaFJM) | [RETURN](https://open.spotify.com/album/4IiZZb5tp7VG7Z9xbcVx7Z) | 2:22 | 2021-01-17 | 2021-02-04 |
 | [Revelation](https://open.spotify.com/track/70gFKAzVXF80Ar4mM8DZej) | [Lara Taubman](https://open.spotify.com/artist/5KExyaFeqKFbVBfmqhYmNX) | [Revelation](https://open.spotify.com/album/13kEPE7khnnw6xfWnNArax) | 2:10 | 2021-03-25 | 2021-04-10 |

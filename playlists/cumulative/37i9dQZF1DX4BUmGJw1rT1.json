@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "Kick back and relax after a hard day.",
   "name": "Home at Last",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0ZYfVRCO1TPKQs9yo56rwb"
+  ],
   "tracks": [
     {
       "album": {
@@ -53,7 +55,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 311666,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3"
@@ -107,10 +109,32 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 440200,
       "name": "Blues Deluxe",
       "url": "https://open.spotify.com/track/4kE0QjiD0IkeXGjmRaQtiO"
+    },
+    {
+      "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3qenNNOnGfbu4aZBQOy8hT"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190373,
+      "name": "Bring It On Home To Me",
+      "url": "https://open.spotify.com/track/68ixAqZIHxaLsyehgzknzz"
     },
     {
       "album": {
@@ -199,6 +223,28 @@
     {
       "album": {
         "name": "Don't Explain",
+        "url": "https://open.spotify.com/album/0b9pdQ9aJApcnIZ1OLZF7h"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274546,
+      "name": "Don't Explain",
+      "url": "https://open.spotify.com/track/0Uu9jiyQ0PE7LGpGs5SA7F"
+    },
+    {
+      "album": {
+        "name": "Don't Explain",
         "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
       },
       "artists": [
@@ -282,6 +328,24 @@
     },
     {
       "album": {
+        "name": "Fire on the Floor",
+        "url": "https://open.spotify.com/album/2lsOrtqnpScvxYvOrqQcl3"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311226,
+      "name": "Fire On The Floor",
+      "url": "https://open.spotify.com/track/2FX5U6bbMwpy3VBn4sErbW"
+    },
+    {
+      "album": {
         "name": "Bringing It Back Home",
         "url": "https://open.spotify.com/album/0JYMsPpWHtTPlpX3aU4NdK"
       },
@@ -293,7 +357,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 337413,
       "name": "Fool's Paradise",
       "url": "https://open.spotify.com/track/73Yf7OB7Wp1NGTYzr7iHXX"
@@ -351,7 +415,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 197739,
       "name": "He Was a Friend of Mine",
       "url": "https://open.spotify.com/track/4aGp4qppOAsR9adlled9Sy"
@@ -369,10 +433,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 282253,
       "name": "Hell To Pay",
       "url": "https://open.spotify.com/track/3fPzrf8jirArIu9CV2r4cN"
+    },
+    {
+      "album": {
+        "name": "Bad For You Baby",
+        "url": "https://open.spotify.com/album/43izHRxuhay1bX4C8sbarC"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227466,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/1vBTsqe7UyYoycO5ZCw8c1"
     },
     {
       "album": {
@@ -423,7 +505,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 227666,
       "name": "I Know - 2008 Remaster",
       "url": "https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl"
@@ -600,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "album": {
         "name": "x (Wembley Edition)",
         "url": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
       },
@@ -687,7 +787,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 225077,
       "name": "No Mercy In This Land",
       "url": "https://open.spotify.com/track/3nYxmHOm3zQXjSpgYAT2Nn"
@@ -875,7 +975,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 290973,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
@@ -1017,7 +1117,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 308893,
       "name": "Third Degree",
       "url": "https://open.spotify.com/track/1th2vwXpgv6prxxHbVccV9"

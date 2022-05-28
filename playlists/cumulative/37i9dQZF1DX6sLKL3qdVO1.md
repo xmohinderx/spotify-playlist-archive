@@ -2,9 +2,9 @@
 
 ### [Dale Flow](https://open.spotify.com/playlist/37i9dQZF1DX6sLKL3qdVO1)
 
-> Lo mejor del reggaetón y flow actual, y lo que vendrá\. Portada: Alex Rose, Wisin & Yandel
+> Lo mejor del reggaetón y flow actual, y lo que vendrá\. Portada: Wisin & Yandel, Jhay Cortez, Sech
 
-164 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/4t8Cynw1OATHYvs7BoEBpr)
+165 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/4t8Cynw1OATHYvs7BoEBpr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [LAS OLAS](https://open.spotify.com/track/0ERKM0ev4j3MHoc2PBn0Qo) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [LAS OLAS](https://open.spotify.com/album/15QGnc6XqRoMXZJKikT75p) | 3:42 | 2021-12-17 | 2022-04-16 |
 | [Ley Seca](https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:23 | 2021-12-17 | 2022-03-12 |
 | [Llori Pari](https://open.spotify.com/track/0D3hXbWvf69dmMmYUZpOk7) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Llori Pari](https://open.spotify.com/album/4jG7eBaWlLUjRRS1ajTCJ3) | 3:35 | 2021-12-17 | 2022-03-05 |
+| [Llueve](https://open.spotify.com/track/5yDAnr9USNQTP6ojiWBCvv) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Llueve](https://open.spotify.com/album/3z4zsIdBVA0vJh8Udz4TJD) | 4:09 | 2022-05-27 |  |
 | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx) | 3:27 | 2021-12-17 | 2022-04-23 |
 | [Loco Por Perrearte](https://open.spotify.com/track/2KNeDbgymVCUJmP6PJQ4Bx) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Loco Por Perrearte](https://open.spotify.com/album/5dD5GnMkozTvrcsqD1T97a) | 3:14 | 2022-03-04 |  |
 | [Loquita](https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loquita](https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ) | 3:19 | 2021-12-17 | 2022-03-26 |
@@ -170,7 +171,7 @@
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-03-26 |  |
 | [Ya No Somos](https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Ya No Somos](https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8) | 3:09 | 2021-12-17 | 2022-02-12 |
 | [Ya Pasó](https://open.spotify.com/track/3lMoR5FpjESKyDVzlKjMlm) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Ya Pasó](https://open.spotify.com/album/2JuRvLpYrvuk8msbaZpPwI) | 3:46 | 2021-12-17 | 2022-01-15 |
-| [Yo No Me Olvido](https://open.spotify.com/track/6jDxhMUF1F8Yc93lk8eNUc) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o) | [Yo No Me Olvido](https://open.spotify.com/album/2cRuBDcKC5tfcImj7OTONH) | 4:02 | 2022-04-15 |  |
+| [Yo No Me Olvido](https://open.spotify.com/track/6jDxhMUF1F8Yc93lk8eNUc) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o) | [Yo No Me Olvido](https://open.spotify.com/album/2cRuBDcKC5tfcImj7OTONH) | 4:02 | 2022-04-15 | 2022-05-28 |
 | [ZUKI](https://open.spotify.com/track/7hjxyhtPLLxhRNDw848J7i) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [ZUKI](https://open.spotify.com/album/3kNl5hjs1uTY7XJEaN8Vrg) | 2:58 | 2022-05-13 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The newest, freshest R&B tunes.  Cover: Mahalia",
+  "description": "The newest, freshest R&B tunes.  Cover: Umi",
   "name": "New Jams",
   "published_playlist_ids": [
     "2y3HQxunEcE7pPAyHu4buJ"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "1942",
+        "url": "https://open.spotify.com/album/3YL8tleIbnZWCgSiX9oYvJ"
+      },
+      "artists": [
+        {
+          "name": "CADE",
+          "url": "https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179569,
+      "name": "1942",
+      "url": "https://open.spotify.com/track/543qvzqjstJgVR6AQOJIrN"
+    },
     {
       "album": {
         "name": "2 seater (feat. Smino)",
@@ -27,6 +45,28 @@
       "duration_ms": 184081,
       "name": "2 seater (feat. Smino)",
       "url": "https://open.spotify.com/track/31utIsi83TdTRNLxvDHZTU"
+    },
+    {
+      "album": {
+        "name": "24 Hrs",
+        "url": "https://open.spotify.com/album/3t9cOTSY2P2Nj7pkbGv7M3"
+      },
+      "artists": [
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167945,
+      "name": "24 Hrs",
+      "url": "https://open.spotify.com/track/0GMxsSQhO9Yj8aKhN8ljFe"
     },
     {
       "album": {
@@ -135,7 +175,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 230400,
       "name": "ALL FOR NOTHING",
       "url": "https://open.spotify.com/track/2L9SA0p0eO7eBOwhtYHhMh"
@@ -211,7 +251,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 152175,
       "name": "Another",
       "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
@@ -335,6 +375,24 @@
       "duration_ms": 211400,
       "name": "Bag (with Lucky Daye)",
       "url": "https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7"
+    },
+    {
+      "album": {
+        "name": "Natasha Mosley",
+        "url": "https://open.spotify.com/album/2ljiL5OmK8EXW21ROuggvz"
+      },
+      "artists": [
+        {
+          "name": "Natasha Mosley",
+          "url": "https://open.spotify.com/artist/1fYdgyGBrMIEML5cuo5FpZ"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205998,
+      "name": "Be Without You",
+      "url": "https://open.spotify.com/track/5vdSk60SVmxr2ISu17KHB5"
     },
     {
       "album": {
@@ -592,6 +650,24 @@
     },
     {
       "album": {
+        "name": "Cardboard Box",
+        "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161366,
+      "name": "Cardboard Box",
+      "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
+    },
+    {
+      "album": {
         "name": "Cater",
         "url": "https://open.spotify.com/album/0BqROYpPqEkIGAerniqZNW"
       },
@@ -715,10 +791,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 231900,
       "name": "Climax",
       "url": "https://open.spotify.com/track/07k53RXDWkB63k7UreIXER"
+    },
+    {
+      "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X"
+      },
+      "artists": [
+        {
+          "name": "Jex Nwalor",
+          "url": "https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198273,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP"
     },
     {
       "album": {
@@ -1561,7 +1655,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 273011,
       "name": "Get High, Get By",
       "url": "https://open.spotify.com/track/1VjBUsTjfdSipjpihEPOhg"
@@ -2639,7 +2733,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 264828,
       "name": "Lovin' you",
       "url": "https://open.spotify.com/track/2rIrdCcmhbm7RLbBaVhIIQ"
@@ -2751,7 +2845,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 177666,
       "name": "Midnight Charm",
       "url": "https://open.spotify.com/track/1Oe8VE21hBf5kcmGJ9ZgXL"
@@ -3878,6 +3972,28 @@
     },
     {
       "album": {
+        "name": "Somebody Told Me",
+        "url": "https://open.spotify.com/album/5nJ1fosTWsfTfkHKFbDHfk"
+      },
+      "artists": [
+        {
+          "name": "Your Grandparents",
+          "url": "https://open.spotify.com/artist/4H2uN93zRcRAVmTINvxuiq"
+        },
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255094,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/72elEHWSWoCcQZaHCfdeyh"
+    },
+    {
+      "album": {
         "name": "sorry",
         "url": "https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB"
       },
@@ -4137,7 +4253,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 255053,
       "name": "The Mood (feat. D Smoke)",
       "url": "https://open.spotify.com/track/1MwHTL8Rw8WcBmqUqVId7s"
@@ -4651,6 +4767,24 @@
       "duration_ms": 195380,
       "name": "wild horses",
       "url": "https://open.spotify.com/track/32f9jlQeaRl1362WmCdGpm"
+    },
+    {
+      "album": {
+        "name": "Forest in the City",
+        "url": "https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207880,
+      "name": "wish that i could",
+      "url": "https://open.spotify.com/track/5w4q9Es264UdYYr2AjnPhU"
     },
     {
       "album": {

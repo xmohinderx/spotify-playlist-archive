@@ -4,7 +4,7 @@
 
 > Soft, instrumental music to help you reflect.
 
-38 songs - 2 hr 17 min - not published yet
+38 songs - 2 hr 17 min - [published](https://open.spotify.com/playlist/795SCNBaIRC4NKBwTzfdNv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

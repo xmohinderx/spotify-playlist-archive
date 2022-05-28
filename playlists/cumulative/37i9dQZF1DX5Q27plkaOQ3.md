@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>
 
-172 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+173 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,5 +180,6 @@
 | [Welcome to the Party](https://open.spotify.com/track/0LRwDYp3DGJBCEPLvOog40) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Sam Nelson](https://open.spotify.com/artist/3PjJuYoEAZcozJezfxdvPK) | [Welcome to the Party](https://open.spotify.com/album/5vLSvzvpAyKDilhEeqAuRu) | 2:44 | 2022-02-11 |  |
 | [Who's In Charge](https://open.spotify.com/track/3MIcrZ8GZy7ckksxs3lGLd) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Who's In Charge](https://open.spotify.com/album/2cSO4UYABmZYQdFAZPVSIP) | 2:51 | 2022-03-18 |  |
 | [Wraith](https://open.spotify.com/track/3E7FMdM62FVjxwTYqgLbyu) | [Kenzi Sway](https://open.spotify.com/artist/4ai47NrkqM67M55bS2ziHN) | [Wraith](https://open.spotify.com/album/6r7O4TukHQsv0wtQlkdOUa) | 2:35 | 2022-01-07 | 2022-01-12 |
+| [頭をかち割る \(Split 200 000\)](https://open.spotify.com/track/3zTqOlekJDI38osbQXT73z) | [Dizelkraft](https://open.spotify.com/artist/7M0riT0CRD7caslbS9CD0U) | [頭をかち割る \(Split 200 000\)](https://open.spotify.com/album/26IlNtkRFn0xP2r1Xz7K34) | 3:31 | 2022-05-27 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

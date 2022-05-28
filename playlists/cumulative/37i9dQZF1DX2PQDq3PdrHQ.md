@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-125 songs - 4 hr 41 min - not published yet
+126 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [first look](https://open.spotify.com/track/4fhwddTpcG2yxv26BFVLDd) | [jacob klev](https://open.spotify.com/artist/3XV2xVPuckMYpUbguXZ57D) | [first look](https://open.spotify.com/album/3yZU9nbHQenBDDdgiDIEKt) | 2:04 | 2022-05-20 |  |
 | [Flower Garden](https://open.spotify.com/track/493sWup0yoc0poKRS3nfhh) | [Foam](https://open.spotify.com/artist/4mVfOMuxawunYMWOWYXeFO), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Flower Garden](https://open.spotify.com/album/6AVYFYL2PxduWuQpk7HFZV) | 3:00 | 2022-05-20 |  |
 | [Frozen](https://open.spotify.com/track/6axAMEYaKvoWeiJ0SKZtco) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU) | [Frozen](https://open.spotify.com/album/3wEWbl5zudfyY0Pbmj1TM6) | 3:13 | 2022-05-20 |  |
+| [Ghost](https://open.spotify.com/track/3drud7eHl6FHoVOfKn1o4I) | [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi), [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [Earth](https://open.spotify.com/album/1BuYIb4XEkRMNyoaNiiXvn) | 2:42 | 2022-05-27 |  |
 | [Grounding](https://open.spotify.com/track/5wMvw6fFXoeINA8v4Ru13n) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Grounding](https://open.spotify.com/album/2KqN3WUFFfQmRhRtVacP4N) | 2:42 | 2022-05-20 |  |
 | [hardly trying](https://open.spotify.com/track/7q2jpq2xFH1Q54QbrE5kPe) | [weirdboi](https://open.spotify.com/artist/50IAuRmsangO5zqJkowx2A) | [hardly trying](https://open.spotify.com/album/7g8BhI4ywxdNmORpmaNMvw) | 1:49 | 2022-05-20 |  |
 | [haven](https://open.spotify.com/track/0gWst0P5INwQdCRFU1RiV5) | [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3), [tako](https://open.spotify.com/artist/2GAW8UT2Jp97kyfeixlXXY) | [resting in your arms](https://open.spotify.com/album/3OrRAYbl1wX0ZWhaz1teeO) | 2:28 | 2022-05-20 |  |

@@ -4,7 +4,7 @@
 
 > La nuova generazione di rapper italiani\. Cover: Icy Subzero
 
-80 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+81 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Awe Awe](https://open.spotify.com/track/6XOy8T8tnLMPCEORc0TfMl) | [8mike](https://open.spotify.com/artist/4g82Dq6YOjema0kQwuhB9N), [YaluDream](https://open.spotify.com/artist/2p06NWAbxsP7iFmrq9Ny4J) | [Awe Awe](https://open.spotify.com/album/5kVO7Tun6K1fkG0bZW0LTe) | 2:50 | 2022-05-26 |  |
 | [Bagage](https://open.spotify.com/track/7634keaijcnpeX1jzPrNQV) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Bagage](https://open.spotify.com/album/4eLAygvtyrT2Etom1JPVGq) | 2:22 | 2022-05-10 |  |
 | [BAMBA](https://open.spotify.com/track/0QJHIiPs1UTgJ3ZURHIBMw) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [COSA NOSTRA](https://open.spotify.com/album/0QNI86lT5srJbTLWTWOnFH) | 2:15 | 2022-05-10 |  |
+| [Bambine dinamite](https://open.spotify.com/track/4ucrkxUUozcD3olbm3K3D9) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [Tana Libera Tutti](https://open.spotify.com/album/5ZE6ZgRZl1mnKtzhxJClbs) | 2:08 | 2022-05-27 |  |
 | [Banlieue](https://open.spotify.com/track/1QKBcUYppvjlYrcQuGS73H) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Banlieue](https://open.spotify.com/album/1X7LRBkdizwwX3TtU2zrDO) | 3:16 | 2022-05-10 | 2022-05-27 |
 | [Bisous](https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Bisous](https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP) | 2:34 | 2022-05-10 |  |
 | [Block167](https://open.spotify.com/track/778OaZpBNQnKJtMS3T5UcU) | [Bastio 167](https://open.spotify.com/artist/5uuduZBPBsE0775rwu2IWa), [Beniz](https://open.spotify.com/artist/1lyGkvW6FHmenE5FjjqL3F), [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw), [Ronny 167](https://open.spotify.com/artist/6W4RbYcnJGkxxmoNBLxlb8) | [Block167](https://open.spotify.com/album/6D44t7S6MpIGGfg2n7VN1n) | 4:03 | 2022-05-10 | 2022-05-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: James Johnston
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,243 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,413 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 4 | [COUNTRY BOYS](https://open.spotify.com/track/26uOkeku8fbG2arUOGQi6H) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [COUNTRY BOYS](https://open.spotify.com/album/0uv3K6d43lJfJ5rShBv9C3) | 3:14 |
 | 5 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 |
 | 6 | [Keith](https://open.spotify.com/track/5xl3kGoK3namYGZX46Vt0S) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Keith](https://open.spotify.com/album/5vhfSn7rFEfy8jxuoI1PGE) | 2:51 |
-| 7 | [Red Wine and Blue](https://open.spotify.com/track/6KhHv00M2aXUtbVTpmAC5x) | [Emily Hatton](https://open.spotify.com/artist/2qWqeGeNliXRQdHOOygnlM), [Katie Jayne](https://open.spotify.com/artist/0ssWamf0INpzr2G71GxTkC) | [Red Wine and Blue](https://open.spotify.com/album/2csWHC9z5vQnSXvTMjvjwx) | 3:55 |
+| 7 | [Red Wine and Blue](https://open.spotify.com/track/6KhHv00M2aXUtbVTpmAC5x) | [Emily Hatton](https://open.spotify.com/artist/2qWqeGeNliXRQdHOOygnlM) | [Red Wine and Blue](https://open.spotify.com/album/2csWHC9z5vQnSXvTMjvjwx) | 3:55 |
 | 8 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 |
 | 9 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 |
 | 10 | [Soul](https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 2:47 |

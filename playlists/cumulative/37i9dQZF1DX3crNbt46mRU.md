@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Loredana, CÉLINE
 
-1,631 songs - 3 day 11 hr 59 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+1,632 songs - 3 day 12 hr 2 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -737,7 +737,7 @@
 | [JAAWS](https://open.spotify.com/track/1v2CR5fVSdytXQYzjoaoPy) | [IKAN HYU](https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK) | [JAAWS](https://open.spotify.com/album/4fmcNMFRndEsdSpdqVd1iM) | 3:15 | 2022-03-03 | 2022-03-11 |
 | [Jalousien](https://open.spotify.com/track/7yy5nocxG1Lqbs9sbAQ8Ti) | [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb), [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Jalousien](https://open.spotify.com/album/6qLRUaajc3YGbc3XEjuqDX) | 2:46 | 2022-03-24 | 2022-04-01 |
 | [Jaywalker](https://open.spotify.com/track/0LtkPz1YYtTnxp7Iomq7b1) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [Jaywalker](https://open.spotify.com/album/2gH3KfVz5rAFmRbXNDF5Lv) | 3:12 | 2022-05-05 | 2022-05-13 |
-| [Jimmy, Brian And Mike](https://open.spotify.com/track/7wtDXxRShBmxJAeXzE4H3p) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show \(Expanded Edition\)](https://open.spotify.com/album/6EzbFdrwvWpnpUjzrR57aU) | 3:21 | 2022-05-26 |  |
+| [Jimmy, Brian and Mike](https://open.spotify.com/track/7wtDXxRShBmxJAeXzE4H3p) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show \(Expanded Edition\)](https://open.spotify.com/album/6EzbFdrwvWpnpUjzrR57aU) | 3:21 | 2022-05-26 |  |
 | [Jober](https://open.spotify.com/track/65nus3eL5dZ7pn8ujQr1IN) | [Dj Youcef](https://open.spotify.com/artist/7dhDLHILqhHlgn0hPn8rOZ), [Dr\. Yaro & La Folie](https://open.spotify.com/artist/7lR8WBYvyK9iTHuv5HwUpe) | [Jober](https://open.spotify.com/album/2QhFnEEiSuwkHkImQqK6yh) | 2:24 | 2022-05-05 | 2022-05-18 |
 | [Jordan One](https://open.spotify.com/track/2hFVGCYYRYttmbwJGf2k3a) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Jordan One](https://open.spotify.com/album/4XFEnpxc9DBOzFZNYpUY1B) | 1:45 | 2022-03-24 | 2022-04-01 |
 | [Joy\. \(Baobab Forever\)](https://open.spotify.com/track/0x4tHC3PWbBR3M7iw8VTk1) | [Nativ](https://open.spotify.com/artist/7ufLkxlHrq3NRaS1fCHOgq) | [Joy\. \(Baobab Forever\)](https://open.spotify.com/album/3Z3ZO3INHmdyIzHFYRn68W) | 3:13 | 2022-03-24 | 2022-04-01 |
@@ -1459,6 +1459,7 @@
 | [Trop De Mots D'amour](https://open.spotify.com/track/1LNizKJHtjDmrV6mRMPlzq) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Trop De Mots D'amour](https://open.spotify.com/album/1Td68dmCctvbjOoNauZQLn) | 2:59 | 2022-05-26 |  |
 | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 | 2022-02-17 | 2022-02-25 |
 | [Troubles \[Feat\. T\-Pain\]](https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Troubles \[Feat\. T\-Pain\]](https://open.spotify.com/album/446vvjZgKLxPAnR0zciABe) | 2:40 | 2022-03-24 | 2022-04-01 |
+| [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-26 |  |
 | [True Love](https://open.spotify.com/track/02tuC0VT0J8rNpAfyZEBUl) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [True Love](https://open.spotify.com/album/4Y68iQtWip42RiP8tux8Cs) | 2:59 | 2022-03-03 | 2022-03-11 |
 | [TRY AGAIN](https://open.spotify.com/track/6C9wfu74gVjO1ZyuVf6qAk) | [Anonym](https://open.spotify.com/artist/5Azjcil94cSjssZgE0IKDe), [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U) | [CATALEYA ED1TION](https://open.spotify.com/album/30CssY1BiB9lB8xLWLBazi) | 2:42 | 2022-05-12 | 2022-05-20 |
 | [Tränen](https://open.spotify.com/track/5QDiuBjM9IzplVg75smVG1) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Tränen](https://open.spotify.com/album/2eXeFOQo99qwwHbulySto2) | 2:50 | 2022-03-31 | 2022-04-08 |

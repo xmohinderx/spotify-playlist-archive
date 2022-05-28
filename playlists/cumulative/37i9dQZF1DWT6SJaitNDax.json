@@ -83,7 +83,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 225146,
       "name": "4AM",
       "url": "https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5"
@@ -105,7 +105,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "A Million",
       "url": "https://open.spotify.com/track/50Auw53j8FiSIB4frKT12I"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 212623,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/4dAJrbncWn7odU6KKwkZGV"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 187873,
       "name": "Bobo",
       "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 155044,
       "name": "Body",
       "url": "https://open.spotify.com/track/6mMs3kv7TmqF2v8S3YlvoO"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 194627,
       "name": "Can't Let You Go",
       "url": "https://open.spotify.com/track/5YmPSElBlLt0Yy1zPOUGqi"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 145652,
       "name": "Come Over (Remix)",
       "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
@@ -1254,6 +1254,28 @@
     },
     {
       "album": {
+        "name": "Different (With Majid Jordan)",
+        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Different (With Majid Jordan)",
+      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
+    },
+    {
+      "album": {
         "name": "Dimension (feat. Skepta & Rema)",
         "url": "https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF"
       },
@@ -1463,7 +1485,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 174295,
       "name": "E Be Mad",
       "url": "https://open.spotify.com/track/2aochHcSqGYOJrHOQXVAYY"
@@ -1481,7 +1503,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 172191,
       "name": "ELI",
       "url": "https://open.spotify.com/track/264tFYse4A4qbgmaur6Pxd"
@@ -1705,7 +1727,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 200400,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/63MDlT75I1QKngHOVjvuTk"
@@ -1891,7 +1913,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 194594,
       "name": "Fkn Around (feat. Megan Thee Stallion) - Cuppy Remix",
       "url": "https://open.spotify.com/track/15LBKnN52Sxs9RF3oU1ARA"
@@ -1913,7 +1935,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 188411,
       "name": "FOR YOU",
       "url": "https://open.spotify.com/track/1tj7Pn7RFy82MTwM3TvLkw"
@@ -2581,7 +2603,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 262736,
       "name": "Joro",
       "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
@@ -2677,7 +2699,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 182666,
       "name": "Killa (feat. DaVido)",
       "url": "https://open.spotify.com/track/46YL800EFmXBhOjab7MLsy"
@@ -3091,7 +3113,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 210826,
       "name": "Love Nobody",
       "url": "https://open.spotify.com/track/2pg8Vb16ItDI2bovhZalrQ"
@@ -3131,7 +3153,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 158981,
       "name": "Luva Luva",
       "url": "https://open.spotify.com/track/45jRftrE2PSK4VifxhPcYS"
@@ -3171,7 +3193,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 238016,
       "name": "MAD",
       "url": "https://open.spotify.com/track/6mGUY6CaFbnK9a6YxV5lpJ"
@@ -3193,7 +3215,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 184797,
       "name": "Make Up Your Mind (feat. Tekno)",
       "url": "https://open.spotify.com/track/3LbXzCehkT8acW8FsPpPKt"
@@ -3233,7 +3255,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 173999,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/4u6JtcrqFz1kw8wTahLGbI"
@@ -3373,7 +3395,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 206000,
       "name": "MOSLADO",
       "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
@@ -3593,7 +3615,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 254406,
       "name": "Nnobody",
       "url": "https://open.spotify.com/track/0NI0Uz93X2asnKLbhkIkku"
@@ -3821,7 +3843,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 183092,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/6DaBr6zT7hlxNchzYVgPds"
@@ -4007,7 +4029,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 235560,
       "name": "Pamela",
       "url": "https://open.spotify.com/track/53LQQoBP6sBVFvNr3q3Fa0"
@@ -4117,7 +4139,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 208692,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/02FYtL48KCMi11uRttaMeH"
@@ -4359,7 +4381,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 210836,
       "name": "Proppa",
       "url": "https://open.spotify.com/track/2wrYYK6oe9Dt8og9BbvE3w"
@@ -4381,7 +4403,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 154109,
       "name": "Questions (feat. Kojo Funds)",
       "url": "https://open.spotify.com/track/7dzb2XwDHv5K4FHyTo2575"
@@ -4649,7 +4671,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 137250,
       "name": "Ryde",
       "url": "https://open.spotify.com/track/2uzwY7BBbeU9sGCp8Nhl9i"
@@ -4689,7 +4711,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 145048,
       "name": "Say Cheese",
       "url": "https://open.spotify.com/track/601WxmzITFziMCk3iuNps7"
@@ -4733,7 +4755,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 189029,
       "name": "See Through",
       "url": "https://open.spotify.com/track/4G3MjZTnwVDxmemf4I9vWb"
@@ -4855,7 +4877,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 167680,
       "name": "Simmer (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3"
@@ -5061,7 +5083,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 193747,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/7aaBgDuM3HUwY3MvEsRayr"
@@ -5171,7 +5193,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "So Lovely",
       "url": "https://open.spotify.com/track/0u3gigxw11WMwQryCLnXi2"
@@ -5293,7 +5315,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 395044,
       "name": "Sponono",
       "url": "https://open.spotify.com/track/6V06P7LboO5FaYi13nQANw"
@@ -5337,7 +5359,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 182791,
       "name": "Stand Strong (feat. Sunday Service Choir)",
       "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
@@ -5613,7 +5635,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 146367,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
@@ -5649,7 +5671,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 168896,
       "name": "The Don",
       "url": "https://open.spotify.com/track/6reboUDZMXeMCuSyycYfYD"
@@ -5911,7 +5933,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 185652,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/3ZUWEJ3Vl7xsxydVMM6Ebv"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del Trap de Argentino. Foto: Cazzu \ud83d\udd77\ufe0f\ud83d\udd78\ufe0f",
+  "description": "La casa del Trap de Argentino. Foto: Bizarrap & Bhavi.",
   "name": "Trapperz Argentina",
   "published_playlist_ids": [
     "23nX6vOJkUDnsNQfFrfuBO"
@@ -248,6 +248,28 @@
     },
     {
       "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/02RWaSaZZUXVeVH5MqDQ7i"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181750,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/2QSTNCW51cpgyFqahUxNGe"
+    },
+    {
+      "album": {
         "name": "Bla Bla",
         "url": "https://open.spotify.com/album/2aAmbfScnK7UmJHXW25gi1"
       },
@@ -281,7 +303,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 161280,
       "name": "Blindado",
       "url": "https://open.spotify.com/track/4idht8ED4RPnqC3ZEJz2AQ"
@@ -701,7 +723,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 176851,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/36P4q04ZaKiQPSmhGmEeZH"
@@ -1086,6 +1108,28 @@
     },
     {
       "album": {
+        "name": "Humilde pero Cotizado",
+        "url": "https://open.spotify.com/album/7jw0BTiz0RRFnjUomw562e"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "MC Buzzz",
+          "url": "https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Humilde pero Cotizado",
+      "url": "https://open.spotify.com/track/4K8LtrJP6kxbwuTvSqpQCf"
+    },
+    {
+      "album": {
         "name": "Infinito al Doble",
         "url": "https://open.spotify.com/album/1wVslOIwbHczIgpjluf6FP"
       },
@@ -1411,7 +1455,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 165336,
       "name": "Meteoritos Vs Dinosaurios",
       "url": "https://open.spotify.com/track/5u1azLYFRISTVqC6FQWLYd"
@@ -1847,6 +1891,28 @@
       "duration_ms": 213641,
       "name": "Por el Aire",
       "url": "https://open.spotify.com/track/2r2v9AjM48KaWvcG0IyXt7"
+    },
+    {
+      "album": {
+        "name": "PUFF",
+        "url": "https://open.spotify.com/album/6jb35yKFOV9HY6QeKKaa69"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140130,
+      "name": "PUFF",
+      "url": "https://open.spotify.com/track/2Asa5boIOZADugCzoy0lRS"
     },
     {
       "album": {

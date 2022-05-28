@@ -1,13 +1,45 @@
 {
-  "description": "Tech house technicians, featuring hand-curated cuts from John Summit.",
-  "num_followers": 552818,
+  "description": "Tech house technicians, featuring Anti Up.",
+  "num_followers": 552923,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzMyMzM0MywwMDAwMDEzMjAwMDAwMTgwZjFjMDI2MzAwMDAwMDE4MGFmYWQ4MDQz",
+  "snapshot_id": "MTY1MzY5Mjk0NSwwMDAwMDEzNDAwMDAwMTgxMDdjN2QzZjQwMDAwMDE4MTA3YzcyMzRl",
   "tracks": [
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Chromatic",
+        "url": "https://open.spotify.com/album/4i8IDahLQKUEmBMscCBlDA"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        }
+      ],
+      "duration_ms": 202524,
+      "name": "Chromatic",
+      "url": "https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO"
+    },
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {
@@ -25,20 +57,24 @@
       "url": "https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
+      "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "My Demons",
-        "url": "https://open.spotify.com/album/250dVzSQ7jsd6p908mAccd"
+        "name": "Tidy Up",
+        "url": "https://open.spotify.com/album/2RDIJrE5YUx529SpuFGqnF"
       },
       "artists": [
         {
-          "name": "Deeper Purpose",
-          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+          "name": "Juliet Sikora",
+          "url": "https://open.spotify.com/artist/27dP6YOr1pGNXLpHRLjvYx"
+        },
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
         }
       ],
-      "duration_ms": 216190,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/5usdD4a3nB3XB2QAqkqAzS"
+      "duration_ms": 169920,
+      "name": "Tidy Up",
+      "url": "https://open.spotify.com/track/11d3X5BNtAVUXOKcaMCCZL"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -61,44 +97,20 @@
       "url": "https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2022-05-20 04:01:00",
       "album": {
-        "name": "So Hot EP",
-        "url": "https://open.spotify.com/album/6000OjbTdVRwMFFKSDxwdV"
+        "name": "My Demons",
+        "url": "https://open.spotify.com/album/250dVzSQ7jsd6p908mAccd"
       },
       "artists": [
         {
-          "name": "Daniel Orpi",
-          "url": "https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO"
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
         }
       ],
-      "duration_ms": 212812,
-      "name": "So Hot",
-      "url": "https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Summertime Chi",
-        "url": "https://open.spotify.com/album/3YLzNH6gHFJM0c28DLIAMJ"
-      },
-      "artists": [
-        {
-          "name": "Lee Foss",
-          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
-        }
-      ],
-      "duration_ms": 231584,
-      "name": "Summertime Chi",
-      "url": "https://open.spotify.com/track/3HlPJZPGeUwU3MdTCpuzvj"
+      "duration_ms": 216190,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/5usdD4a3nB3XB2QAqkqAzS"
     },
     {
       "added_at": "2022-05-06 04:01:00",
@@ -121,56 +133,44 @@
       "url": "https://open.spotify.com/track/2cyNqXxLcSV7EtEkIivrlz"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "I Want You (Forever) [Josh Butler Remix]",
-        "url": "https://open.spotify.com/album/5UaviWt00UWkUA4xkWsCes"
+        "name": "No Drama",
+        "url": "https://open.spotify.com/album/7HNvH4UVOMxMITfeXxu6ch"
       },
       "artists": [
         {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
         },
         {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+          "name": "Sophiegrophy",
+          "url": "https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE"
         }
       ],
-      "duration_ms": 245714,
-      "name": "I Want You (Forever) - Josh Butler Remix - Radio Edit",
-      "url": "https://open.spotify.com/track/6A2fGSY2uZcidWpNosshqc"
+      "duration_ms": 227344,
+      "name": "No Drama",
+      "url": "https://open.spotify.com/track/1MZmduhi0sK3RbF4cN3dbv"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj"
+        "name": "OoooH",
+        "url": "https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa"
       },
       "artists": [
         {
-          "name": "Raffa Fl",
-          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "Ritmo",
-      "url": "https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Taking Libz EP",
-        "url": "https://open.spotify.com/album/6igcWVzxDCCETgeMdJmeBV"
-      },
-      "artists": [
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
         {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+          "name": "WILL K",
+          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
         }
       ],
-      "duration_ms": 377142,
-      "name": "Taking Libz - Original Mix",
-      "url": "https://open.spotify.com/track/1S6m7dZJnGkuHpzYorEx47"
+      "duration_ms": 202017,
+      "name": "OoooH",
+      "url": "https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU"
     },
     {
       "added_at": "2022-05-23 13:46:32",
@@ -189,66 +189,6 @@
       "url": "https://open.spotify.com/track/1YGOdGy4tFmKEsjRyJyMIu"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Drinkee (Vintage Culture & John Summit Remix)",
-        "url": "https://open.spotify.com/album/3SJnS1rKgzb1tgi7oCkf5F"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "Drinkee - Vintage Culture & John Summit Remix",
-      "url": "https://open.spotify.com/track/68raS6F0ad2Iilql3yYeCt"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Stutter EP",
-        "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
-      },
-      "artists": [
-        {
-          "name": "Jansons",
-          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Stutter",
-      "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "RUN AWAY",
-        "url": "https://open.spotify.com/album/1Oge65H28ANOgBWnvjhrBB"
-      },
-      "artists": [
-        {
-          "name": "ChaseWest",
-          "url": "https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6"
-        }
-      ],
-      "duration_ms": 296562,
-      "name": "RUN AWAY",
-      "url": "https://open.spotify.com/track/1Z5ac1dGUnC6DAoLKOfeLz"
-    },
-    {
       "added_at": "2022-03-11 18:48:28",
       "album": {
         "name": "La Danza",
@@ -263,150 +203,6 @@
       "duration_ms": 157619,
       "name": "La Danza",
       "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "The Records",
-        "url": "https://open.spotify.com/album/6enQqqHf1TgwVe1Zu7Krq1"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        }
-      ],
-      "duration_ms": 208406,
-      "name": "The Records",
-      "url": "https://open.spotify.com/track/3yeJpI0m4HAbMVbZspMFgo"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Coast to Coast",
-        "url": "https://open.spotify.com/album/125YzDlao3N7qCPu88f4uS"
-      },
-      "artists": [
-        {
-          "name": "Shok\u00eb",
-          "url": "https://open.spotify.com/artist/3F0pGF36o08n2NE7vIEHyk"
-        }
-      ],
-      "duration_ms": 230551,
-      "name": "Coast to Coast",
-      "url": "https://open.spotify.com/track/7gJR28FcjVZT6snXouTvh4"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Fearing Love",
-        "url": "https://open.spotify.com/album/6Xj5kAZ8Xd7KMt4yR3GyXn"
-      },
-      "artists": [
-        {
-          "name": "Serge Devant",
-          "url": "https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP"
-        },
-        {
-          "name": "Damiano C",
-          "url": "https://open.spotify.com/artist/1megb3uOaIwwINCguucNbY"
-        },
-        {
-          "name": "Camille Safiya",
-          "url": "https://open.spotify.com/artist/0njiJOJRIXjXanWDLd586D"
-        }
-      ],
-      "duration_ms": 448769,
-      "name": "Fearing Love - Club Mix",
-      "url": "https://open.spotify.com/track/3r5aHVgJlFZaTDbXMNnfr0"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Wormhole",
-        "url": "https://open.spotify.com/album/0xKStQRWOfYN8CebSyHGX1"
-      },
-      "artists": [
-        {
-          "name": "Dillon Marinez",
-          "url": "https://open.spotify.com/artist/1M1DknkrhbuC17RUTHcOXC"
-        }
-      ],
-      "duration_ms": 339221,
-      "name": "Wormhole",
-      "url": "https://open.spotify.com/track/4IDUZtryCyknQNNa9D61Rb"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Stop Trippin'",
-        "url": "https://open.spotify.com/album/4WPRECrY6Q80xdcsJ96Pxb"
-      },
-      "artists": [
-        {
-          "name": "Deeper Purpose",
-          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
-        }
-      ],
-      "duration_ms": 216023,
-      "name": "Stop Trippin'",
-      "url": "https://open.spotify.com/track/7DJl85HRjSUAk8ICYxixeT"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Eeny Meeny",
-        "url": "https://open.spotify.com/album/2cb8AMRfLkJdLmRW2PC25l"
-      },
-      "artists": [
-        {
-          "name": "HAYNES",
-          "url": "https://open.spotify.com/artist/0WZl1y6QbVezqTc2EqDHr4"
-        }
-      ],
-      "duration_ms": 204094,
-      "name": "Eeny Meeny - Radio Edit",
-      "url": "https://open.spotify.com/track/3FAsN9szNswJr0riLVVh4T"
-    },
-    {
-      "added_at": "2021-11-30 14:44:46",
-      "album": {
-        "name": "Human (feat. Echoes)",
-        "url": "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Echoes",
-          "url": "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Human (feat. Echoes)",
-      "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Tidy Up",
-        "url": "https://open.spotify.com/album/2RDIJrE5YUx529SpuFGqnF"
-      },
-      "artists": [
-        {
-          "name": "Juliet Sikora",
-          "url": "https://open.spotify.com/artist/27dP6YOr1pGNXLpHRLjvYx"
-        },
-        {
-          "name": "Tini Gessler",
-          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "Tidy Up",
-      "url": "https://open.spotify.com/track/11d3X5BNtAVUXOKcaMCCZL"
     },
     {
       "added_at": "2022-05-13 14:21:13",
@@ -445,6 +241,22 @@
       "url": "https://open.spotify.com/track/5q8imvnixEYjK2YVGOaKE2"
     },
     {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "F*ck",
+        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
+      },
+      "artists": [
+        {
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
+        }
+      ],
+      "duration_ms": 174677,
+      "name": "F*ck",
+      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Mirage",
@@ -477,28 +289,24 @@
       "url": "https://open.spotify.com/track/4I0QahibIQMTPRN1AlHaSj"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Don't Forget My Love (John Summit Remix)",
-        "url": "https://open.spotify.com/album/0MmNbl4bIo9dSupmyxKBx7"
+        "name": "Let's Go Dancing",
+        "url": "https://open.spotify.com/album/0dC3hdukoHUsgbVVCCLLYR"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
         },
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Don't Forget My Love - John Summit Remix",
-      "url": "https://open.spotify.com/track/55PAYYJuYlKsW4DEcaBpC3"
+      "duration_ms": 174600,
+      "name": "Let's Go Dancing",
+      "url": "https://open.spotify.com/track/6Ng1n2tzVpVOe3O5c2HaIf"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -563,6 +371,26 @@
       "duration_ms": 223735,
       "name": "All You Need",
       "url": "https://open.spotify.com/track/2j1XskkDOBp6QXZEQTj8cY"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Team Player",
+        "url": "https://open.spotify.com/album/1qgaZuGdffXNu0OC2zZJmC"
+      },
+      "artists": [
+        {
+          "name": "Baby Weight",
+          "url": "https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T"
+        },
+        {
+          "name": "Hot Pot",
+          "url": "https://open.spotify.com/artist/7i6HIKOzInE0wjYjCAfhLb"
+        }
+      ],
+      "duration_ms": 358064,
+      "name": "The Bread Song",
+      "url": "https://open.spotify.com/track/7A1TLoMzEfOxp7yPGVzNtD"
     },
     {
       "added_at": "2022-05-06 04:01:00",
@@ -657,6 +485,26 @@
       "url": "https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f"
     },
     {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Where's Your Head At (Martin Ikin Remix)",
+        "url": "https://open.spotify.com/album/29ZUj3UKLquWqyoo1VeVxn"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "duration_ms": 180585,
+      "name": "Where's Your Head At - Martin Ikin Remix - Edit",
+      "url": "https://open.spotify.com/track/0EUgguVSAZFdHY8RSVCBUJ"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Let Us Pray",
@@ -675,6 +523,22 @@
       "duration_ms": 180000,
       "name": "Let Us Pray",
       "url": "https://open.spotify.com/track/3hgn6q5XdUJLCH6G8UtwgB"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "up up in my mind",
+        "url": "https://open.spotify.com/album/4t5QRHBRS4GfTGYzXIt08q"
+      },
+      "artists": [
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "up up in my mind",
+      "url": "https://open.spotify.com/track/3MOg7djOmvIcLpgsnRI4UM"
     },
     {
       "added_at": "2021-12-17 15:36:01",
@@ -765,26 +629,6 @@
       "url": "https://open.spotify.com/track/3qWeNg7bQLcssTFYjnQFwB"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Where's Your Head At (Martin Ikin Remix)",
-        "url": "https://open.spotify.com/album/29ZUj3UKLquWqyoo1VeVxn"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        },
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        }
-      ],
-      "duration_ms": 180585,
-      "name": "Where's Your Head At - Martin Ikin Remix - Edit",
-      "url": "https://open.spotify.com/track/0EUgguVSAZFdHY8RSVCBUJ"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Feel It",
@@ -799,6 +643,30 @@
       "duration_ms": 180031,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2MhH5aAORsvCgl3E8aOC1q"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Don't Forget My Love (John Summit Remix)",
+        "url": "https://open.spotify.com/album/0MmNbl4bIo9dSupmyxKBx7"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Don't Forget My Love - John Summit Remix",
+      "url": "https://open.spotify.com/track/55PAYYJuYlKsW4DEcaBpC3"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1203,6 +1071,26 @@
       "duration_ms": 186240,
       "name": "Boots 'N' Cats",
       "url": "https://open.spotify.com/track/3fDE4ufBMRpVBIxulH7KoM"
+    },
+    {
+      "added_at": "2021-11-30 14:44:46",
+      "album": {
+        "name": "Human (feat. Echoes)",
+        "url": "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Echoes",
+          "url": "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Human (feat. Echoes)",
+      "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
     },
     {
       "added_at": "2022-04-15 15:02:33",
@@ -2463,26 +2351,6 @@
       "duration_ms": 227534,
       "name": "Nothing Gonna Stop This",
       "url": "https://open.spotify.com/track/1JWA4peO1GxEgDxh8J23UA"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/1AoOfbqM1tovUJjWL6kArz"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "LOVRA",
-          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
-        }
-      ],
-      "duration_ms": 145036,
-      "name": "Madonna",
-      "url": "https://open.spotify.com/track/2bf7wxuRxN2tkNoPH7z1an"
     },
     {
       "added_at": "2022-02-25 05:00:00",

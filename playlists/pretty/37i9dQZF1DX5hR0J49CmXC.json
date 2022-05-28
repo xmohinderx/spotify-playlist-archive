@@ -1,13 +1,133 @@
 {
   "description": "The Real hip-hop. Cover: Westside Boogie",
-  "num_followers": 1076432,
+  "num_followers": 1076585,
   "original_name": "Mind Right",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxOTIwMCwwMDAwMDFhNjAwMDAwMTgwZGY5ZjRhY2IwMDAwMDE4MDcxN2QxNDNm",
+  "snapshot_id": "MTY1MzYyNDAwMCwwMDAwMDFhNzAwMDAwMTgxMDNhYmNlZDkwMDAwMDE4MDcxN2QxNDNm",
   "tracks": [
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Rearview Mirror",
+        "url": "https://open.spotify.com/album/1f6BwHc1s1N7M0TFAOOA85"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Rearview Mirror",
+      "url": "https://open.spotify.com/track/49Ykmnm13jNIDRlll9zTKk"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "A Bar About a Bar",
+        "url": "https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 65480,
+      "name": "A Bar About a Bar",
+      "url": "https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "The Heart Part 5",
+        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 332228,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "STUCK",
+        "url": "https://open.spotify.com/album/5s2NhE08ze83Su2TkgK065"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 217271,
+      "name": "STUCK",
+      "url": "https://open.spotify.com/track/1RvukJ9jo0u13zuq8wM4dg"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "While We're Here",
+        "url": "https://open.spotify.com/album/5wlqekVOKMlrcpMrlUfwW5"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "duration_ms": 246096,
+      "name": "Cool Grey 11s",
+      "url": "https://open.spotify.com/track/795dpaaKB78dWBjPZfR3IL"
+    },
+    {
+      "added_at": "2022-04-22 22:47:23",
+      "album": {
+        "name": "Hollandaise",
+        "url": "https://open.spotify.com/album/64HygXbyafPahxN1avR56P"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 178677,
+      "name": "Hollandaise",
+      "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Love/Hate",
+        "url": "https://open.spotify.com/album/6DPHDZiBnWVdeee2Iy9MAp"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        },
+        {
+          "name": "Gio Dee",
+          "url": "https://open.spotify.com/artist/6vDlSGgBjcYbC08baIEW46"
+        }
+      ],
+      "duration_ms": 180331,
+      "name": "Love/Hate",
+      "url": "https://open.spotify.com/track/7s535w6NXxctKFuA2nMmjc"
+    },
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
@@ -27,22 +147,6 @@
       "duration_ms": 282581,
       "name": "Vinyl Days (feat. DJ Premier)",
       "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "The Heart Part 5",
-        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 332228,
-      "name": "The Heart Part 5",
-      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -83,54 +187,6 @@
       "duration_ms": 197680,
       "name": "Callin' (feat. Big K.R.I.T. & WESTSIDE BOOGIE)",
       "url": "https://open.spotify.com/track/3zQwqYVqMOOGddjx1eQsDs"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "STUCK",
-        "url": "https://open.spotify.com/album/5s2NhE08ze83Su2TkgK065"
-      },
-      "artists": [
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        }
-      ],
-      "duration_ms": 217271,
-      "name": "STUCK",
-      "url": "https://open.spotify.com/track/1RvukJ9jo0u13zuq8wM4dg"
-    },
-    {
-      "added_at": "2022-04-22 22:47:23",
-      "album": {
-        "name": "Hollandaise",
-        "url": "https://open.spotify.com/album/64HygXbyafPahxN1avR56P"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 178677,
-      "name": "Hollandaise",
-      "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "While We're Here",
-        "url": "https://open.spotify.com/album/5wlqekVOKMlrcpMrlUfwW5"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 246096,
-      "name": "Cool Grey 11s",
-      "url": "https://open.spotify.com/track/795dpaaKB78dWBjPZfR3IL"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -251,22 +307,6 @@
       "duration_ms": 211687,
       "name": "UP",
       "url": "https://open.spotify.com/track/2yayJdN0THmDy3Cco1TZtI"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 99282,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI"
     },
     {
       "added_at": "2022-05-13 04:03:19",
@@ -919,46 +959,6 @@
       "duration_ms": 163983,
       "name": "Jean-Michel",
       "url": "https://open.spotify.com/track/4MR5zadA2AvLPs8fdp0LuJ"
-    },
-    {
-      "added_at": "2022-03-11 05:42:06",
-      "album": {
-        "name": "Half Moon Mornings",
-        "url": "https://open.spotify.com/album/7hpeQ0G6DCf8rQp0IHgjil"
-      },
-      "artists": [
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 135666,
-      "name": "Half Moon Mornings",
-      "url": "https://open.spotify.com/track/6PxSXRE9DaP49sKQOqYotC"
-    },
-    {
-      "added_at": "2022-03-11 05:42:06",
-      "album": {
-        "name": "Eazy",
-        "url": "https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 234288,
-      "name": "Eazy",
-      "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
     }
   ],
   "unique_name": "Mind Right",

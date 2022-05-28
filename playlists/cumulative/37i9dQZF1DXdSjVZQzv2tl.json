@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Luan Santana, Henrique & Juliano",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Henrique & Juliano",
   "name": "Esquenta Sertanejo",
   "published_playlist_ids": [
     "1QClRCShAKNcti565v7TOp"
@@ -564,6 +564,24 @@
     },
     {
       "album": {
+        "name": "Manifesto Musical (Ao Vivo)",
+        "url": "https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183244,
+      "name": "Evento Cancelado - Ao Vivo",
+      "url": "https://open.spotify.com/track/11fqunD6qlOCrRd88kMOk6"
+    },
+    {
+      "album": {
         "name": "Israel & Rodolffo: Ao Vivo Em Bras\u00edlia, Vol. 3",
         "url": "https://open.spotify.com/album/33kS9T1bA6L7fosKns9fx6"
       },
@@ -927,7 +945,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 170866,
       "name": "Motel Afrodite",
       "url": "https://open.spotify.com/track/2Rlde4R776iKtqODzVhMEM"

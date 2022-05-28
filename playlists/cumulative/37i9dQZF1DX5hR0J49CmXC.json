@@ -128,6 +128,24 @@
     },
     {
       "album": {
+        "name": "A Bar About a Bar",
+        "url": "https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65480,
+      "name": "A Bar About a Bar",
+      "url": "https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ"
+    },
+    {
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/7FxGRRumCAoPESLvW2Ta5K"
       },
@@ -335,7 +353,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 99282,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI"
@@ -765,7 +783,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 234288,
       "name": "Eazy",
       "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 135666,
       "name": "Half Moon Mornings",
       "url": "https://open.spotify.com/track/6PxSXRE9DaP49sKQOqYotC"
@@ -1453,6 +1471,28 @@
       "duration_ms": 150053,
       "name": "Louis Baggage (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/5lPsuQEj6GwZkAn8MMHaqB"
+    },
+    {
+      "album": {
+        "name": "Love/Hate",
+        "url": "https://open.spotify.com/album/6DPHDZiBnWVdeee2Iy9MAp"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        },
+        {
+          "name": "Gio Dee",
+          "url": "https://open.spotify.com/artist/6vDlSGgBjcYbC08baIEW46"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180331,
+      "name": "Love/Hate",
+      "url": "https://open.spotify.com/track/7s535w6NXxctKFuA2nMmjc"
     },
     {
       "album": {
@@ -2009,6 +2049,28 @@
       "duration_ms": 203207,
       "name": "Rapper Estates (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/3cYuqoOhuXjx4iB9ttHn6E"
+    },
+    {
+      "album": {
+        "name": "Rearview Mirror",
+        "url": "https://open.spotify.com/album/1f6BwHc1s1N7M0TFAOOA85"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Rearview Mirror",
+      "url": "https://open.spotify.com/track/49Ykmnm13jNIDRlll9zTKk"
     },
     {
       "album": {

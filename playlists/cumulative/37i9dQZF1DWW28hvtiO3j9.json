@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "Explore the dazzling sound of Japanese City Pop from the \u201880s./ \u90fd\u4f1a\u306e\u591c\u3092\u30af\u30eb\u30fc\u30b8\u30f3\u30b0\u3001\u9031\u672b\u306f\u6d77\u8fba\u3067\u30ea\u30be\u30fc\u30c8\u6c17\u5206\u3002\u714c\u3081\u304d\u306b\u6e80\u3061\u305f\u6bce\u65e5\u3092\u5f69\u3063\u305f\u3001\u9ec4\u91d1\u671f\u306e\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u3002",
   "name": "City Pop '80s",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1nMKT6fER1pstJUFGf742z"
+  ],
   "tracks": [
     {
       "album": {
@@ -148,6 +150,24 @@
     },
     {
       "album": {
+        "name": "EMANON",
+        "url": "https://open.spotify.com/album/2XEh5k4VOFroU66s4ey93y"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224966,
+      "name": "EMANON",
+      "url": "https://open.spotify.com/track/7AxapY0BhgmHATRDhjKsGO"
+    },
+    {
+      "album": {
         "name": "MUGSHOT",
         "url": "https://open.spotify.com/album/7u2JWvr9mkfzBbK7ZaoMpc"
       },
@@ -159,7 +179,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 266760,
       "name": "GATSBY WOMAN",
       "url": "https://open.spotify.com/track/72cpecSoAAUaluyL2GNJEd"
@@ -181,6 +201,24 @@
       "duration_ms": 272093,
       "name": "Good Bye Boogie Dance",
       "url": "https://open.spotify.com/track/5LZja1KAke25BqjsidAcsq"
+    },
+    {
+      "album": {
+        "name": "NATURALLY",
+        "url": "https://open.spotify.com/album/0jTARGdMppFtS9BO4Z6luv"
+      },
+      "artists": [
+        {
+          "name": "\u4e8c\u540d\u6566\u5b50",
+          "url": "https://open.spotify.com/artist/6E3IfpRGFBLViCZZ5syIRj"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284719,
+      "name": "Hi-way 1",
+      "url": "https://open.spotify.com/track/72xnTsNT9Ylrkx3QqmHPNZ"
     },
     {
       "album": {
@@ -213,7 +251,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 189213,
       "name": "Just a Joke",
       "url": "https://open.spotify.com/track/1dLeSutde2Nt4DIWaLKxXO"
@@ -231,7 +269,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 299680,
       "name": "Last Summer Whisper",
       "url": "https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2"
@@ -303,7 +341,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 345266,
       "name": "Midnight Pretenders",
       "url": "https://open.spotify.com/track/0JUWF44gfMszGNhjCF7Ufs"
@@ -339,7 +377,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 308000,
       "name": "Mystical Composer",
       "url": "https://open.spotify.com/track/1SMO3yVhfUaCgVZ8Tj4j5a"
@@ -400,6 +438,24 @@
     },
     {
       "album": {
+        "name": "Thanks Giving",
+        "url": "https://open.spotify.com/album/75dMYkPm0XQZkvtaBXxGmO"
+      },
+      "artists": [
+        {
+          "name": "RA MU",
+          "url": "https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311200,
+      "name": "Rainy Night Lady",
+      "url": "https://open.spotify.com/track/5odvPKsaAlnnW50ZgGvDi3"
+    },
+    {
+      "album": {
         "name": "Timely!!",
         "url": "https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV"
       },
@@ -433,6 +489,24 @@
       "duration_ms": 251000,
       "name": "Silly Crush",
       "url": "https://open.spotify.com/track/2wGP0BOE95loERMZWGNuok"
+    },
+    {
+      "album": {
+        "name": "MORE RELAX",
+        "url": "https://open.spotify.com/album/57PGfsHat10fVPFSrqROIa"
+      },
+      "artists": [
+        {
+          "name": "Tomoko Aran",
+          "url": "https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223733,
+      "name": "Slow Nights",
+      "url": "https://open.spotify.com/track/4TQVYbMBXqzBlKrVeW1Nsd"
     },
     {
       "album": {
@@ -483,7 +557,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 379106,
       "name": "TOWN",
       "url": "https://open.spotify.com/track/13ulUUzvqr34si1Es8qbPS"
@@ -537,7 +611,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 287866,
       "name": "\u3053\u308c\u306f\u604b\u3067\u306f\u306a\u3044",
       "url": "https://open.spotify.com/track/1ByoodGA3kCcnZjkuCfbeQ"
@@ -559,7 +633,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 241253,
       "name": "\u3075\u305f\u308a\u306e\u590f\u7269\u8a9e NEVER ENDING SUMMER",
       "url": "https://open.spotify.com/track/1HDqBV6gWeqFStJHLmPjh4"
@@ -667,10 +741,28 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 257746,
       "name": "\u30b9\u30c8\u30ed\u30fc\u30cf\u30c3\u30c8\u306e\u590f\u60f3\u3044",
       "url": "https://open.spotify.com/track/34qHfYkG7xZsc2INlnf2M3"
+    },
+    {
+      "album": {
+        "name": "\u6628\u6669\u304a\u4f1a\u3044\u3057\u307e\u3057\u3087\u3046",
+        "url": "https://open.spotify.com/album/1SOU69vRno4XD2yvz7zqF4"
+      },
+      "artists": [
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186820,
+      "name": "\u30bf\u30ef\u30fc\u30fb\u30b5\u30a4\u30c9\u30fb\u30e1\u30e2\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/4DhKgRHv5MzNCzLhTEByZi"
     },
     {
       "album": {
@@ -721,7 +813,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 289893,
       "name": "\u30d5\u30ed\u30f3\u30c8\u30ac\u30e9\u30b9\u8d8a\u3057\u306b",
       "url": "https://open.spotify.com/track/76Jpo5U45kAhTl79JHtHUh"
@@ -757,10 +849,28 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 243480,
       "name": "\u4e00\u672c\u306e\u97f3\u697d - 2020 Remaster",
       "url": "https://open.spotify.com/track/5iFkWXTQadweNDIl6U3xMT"
+    },
+    {
+      "album": {
+        "name": "ROMANTIC VIEW",
+        "url": "https://open.spotify.com/album/26E9XSySWWbBLPjEvKvYzy"
+      },
+      "artists": [
+        {
+          "name": "Tatsuhiko Yamamoto",
+          "url": "https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258533,
+      "name": "\u4eca\u591c\u306f\u30c9\u30e9\u30de\u30c6\u30a3\u30c3\u30af",
+      "url": "https://open.spotify.com/track/79kbjlrWZSQQGrXBobzUw7"
     },
     {
       "album": {
@@ -937,7 +1047,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 169160,
       "name": "\u8703\u6c17\u697c\u306e\u8857",
       "url": "https://open.spotify.com/track/1SUVQE0KqqMUbeAGMadKN7"
@@ -1016,6 +1126,24 @@
     },
     {
       "album": {
+        "name": "\u4e00\u672c\u306e\u97f3\u697d \u301cMOON YEARS\u301c",
+        "url": "https://open.spotify.com/album/6nJtVEt3KpCEoOMwVv7DWl"
+      },
+      "artists": [
+        {
+          "name": "Kazuhito Murata",
+          "url": "https://open.spotify.com/artist/1YAn7piNSpMgdC8inGcOLd"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229520,
+      "name": "\u96fb\u8a71\u3057\u3066\u3082 - 2020 Remaster",
+      "url": "https://open.spotify.com/track/5MvIqNNzJGYbdOG1crN4XR"
+    },
+    {
+      "album": {
         "name": "\u9752\u5c71Killer\u7269\u8a9e",
         "url": "https://open.spotify.com/album/6lbZ2cEQKM8CJkWDYKWobs"
       },
@@ -1027,7 +1155,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 291773,
       "name": "\u9752\u5c71Killer\u7269\u8a9e",
       "url": "https://open.spotify.com/track/4iPDYcyaMotvOULSrIg92e"

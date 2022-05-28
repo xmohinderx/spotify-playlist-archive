@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa de lxs MC's. Foto: Bubaseta & Aerstame.",
+  "description": "La casa de lxs MC's. Foto: Liricistas & Utopiko.",
   "name": "Rap Chileno",
   "published_playlist_ids": [
     "3f2UzVfRrTk3AGf7wEehR9"
@@ -896,6 +896,28 @@
     },
     {
       "album": {
+        "name": "F\u00e9nix (Vol.1)",
+        "url": "https://open.spotify.com/album/4q2ZbgZ2tR0g0B0QnQOwse"
+      },
+      "artists": [
+        {
+          "name": "Liricistas",
+          "url": "https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc"
+        },
+        {
+          "name": "Utopiko",
+          "url": "https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166069,
+      "name": "F\u00e9nix",
+      "url": "https://open.spotify.com/track/3iZ0WTik4dDAdeeG4PUZtl"
+    },
+    {
+      "album": {
         "name": "Grizzy Bars",
         "url": "https://open.spotify.com/album/20wBttryP3cBIeatZX7coS"
       },
@@ -1423,7 +1445,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 179076,
       "name": "Pa' Fuera",
       "url": "https://open.spotify.com/track/1L3OEVpGb2qGPbT07k4ivC"

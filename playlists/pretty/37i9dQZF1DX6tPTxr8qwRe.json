@@ -1,12 +1,12 @@
 {
   "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Lilyisthatyou",
-  "num_followers": 278171,
+  "num_followers": 278390,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQ5Njg1MSwwMDAwMDA4OTAwMDAwMTgwZmMxN2FiNWUwMDAwMDE4MGRmMGQzMTg2",
+  "snapshot_id": "MTY1MzY4NTA1MiwwMDAwMDA4YjAwMDAwMTgxMDc0ZjY2MGMwMDAwMDE4MGRmMGQzMTg2",
   "tracks": [
     {
       "added_at": "2022-05-20 05:04:53",
@@ -25,6 +25,38 @@
       "url": "https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6"
     },
     {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "I've Got A Bad Side",
+        "url": "https://open.spotify.com/album/5CY5RFnrmyGMHcp3EWhhFM"
+      },
+      "artists": [
+        {
+          "name": "ADONA",
+          "url": "https://open.spotify.com/artist/2O8CMGDnzYHpcZOSNVoLdQ"
+        }
+      ],
+      "duration_ms": 168034,
+      "name": "I've Got A Bad Side",
+      "url": "https://open.spotify.com/track/3zaSRGFPFnNKY42TUjoGwM"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Could've Just Left Me Alone",
+        "url": "https://open.spotify.com/album/2fDCjGscOIFmJGbLN9eFPW"
+      },
+      "artists": [
+        {
+          "name": "Alexa Cappelli",
+          "url": "https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "Could've Just Left Me Alone",
+      "url": "https://open.spotify.com/track/03qh7qUB2zEPVWUc9isLCW"
+    },
+    {
       "added_at": "2022-05-20 05:04:53",
       "album": {
         "name": "Wish You the Worst",
@@ -41,6 +73,38 @@
       "url": "https://open.spotify.com/track/0JBtSBz5wwJYIYkGpRk4wS"
     },
     {
+      "added_at": "2022-05-27 20:57:32",
+      "album": {
+        "name": "Lego Blocks",
+        "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Lego Blocks",
+      "url": "https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "BREAKDOWN",
+        "url": "https://open.spotify.com/album/43TWpeulOdWVBsL8vpMdZi"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "duration_ms": 218228,
+      "name": "BREAKDOWN",
+      "url": "https://open.spotify.com/track/5ab5TaUCeTXEyEopmq4pjM"
+    },
+    {
       "added_at": "2022-05-13 04:01:00",
       "album": {
         "name": "what would you do?",
@@ -55,6 +119,22 @@
       "duration_ms": 166948,
       "name": "what would you do?",
       "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Sweatshirt (Pettier)",
+        "url": "https://open.spotify.com/album/7rNzMil2oHfLYjeZnaU2ca"
+      },
+      "artists": [
+        {
+          "name": "Anna Clendening",
+          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
+        }
+      ],
+      "duration_ms": 147407,
+      "name": "Sweatshirt - Pettier",
+      "url": "https://open.spotify.com/track/1lHd7db3a79MPI02e3xblS"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -167,6 +247,22 @@
       "duration_ms": 168084,
       "name": "Romeo Dies",
       "url": "https://open.spotify.com/track/42SZ9WKuZ4EDblgvJc581c"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "UR SO FULL OF IT (ILY NYC) - Spotify Singles",
+        "url": "https://open.spotify.com/album/5lxHNkhOXyJ2mHnGxsbzeu"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 138209,
+      "name": "UR SO FULL OF IT (ILY NYC) - Spotify Singles",
+      "url": "https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in"
     },
     {
       "added_at": "2022-05-20 05:04:53",
@@ -665,22 +761,6 @@
       "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
     },
     {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "lava",
-        "url": "https://open.spotify.com/album/28svVdd3XPgkmtoy1UbL9j"
-      },
-      "artists": [
-        {
-          "name": "NOT THE MAIN CHARACTERS",
-          "url": "https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V"
-        }
-      ],
-      "duration_ms": 138751,
-      "name": "lava",
-      "url": "https://open.spotify.com/track/5wn3o3cfK1cq740KQFEN1n"
-    },
-    {
       "added_at": "2022-03-18 04:01:00",
       "album": {
         "name": "Library Card",
@@ -909,38 +989,6 @@
       "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI"
     },
     {
-      "added_at": "2022-03-18 04:01:00",
-      "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Backstabber",
-      "url": "https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 159651,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
-    },
-    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "BOO HOO",
@@ -1043,54 +1091,6 @@
       "duration_ms": 133500,
       "name": "GOOD FOR HER",
       "url": "https://open.spotify.com/track/76YyKbh4QI8Sfxm9Id2mBz"
-    },
-    {
-      "added_at": "2021-09-28 16:38:11",
-      "album": {
-        "name": "Evil Angel (Deluxe)",
-        "url": "https://open.spotify.com/album/7JpzGCHmVPWG9zvBdexIqd"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 184324,
-      "name": "Somebody I Fucked Once",
-      "url": "https://open.spotify.com/track/1TLgTsRiX4P55KUOOGjYHu"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "Cherry Picking",
-        "url": "https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8"
-      },
-      "artists": [
-        {
-          "name": "poutyface",
-          "url": "https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f"
-        }
-      ],
-      "duration_ms": 150736,
-      "name": "Cherry Picking",
-      "url": "https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj"
-    },
-    {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "ur just horny",
-        "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 178787,
-      "name": "ur just horny",
-      "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
     },
     {
       "added_at": "2022-01-21 05:00:00",

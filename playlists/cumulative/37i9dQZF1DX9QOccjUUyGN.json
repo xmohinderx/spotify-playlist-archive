@@ -988,6 +988,24 @@
     },
     {
       "album": {
+        "name": "Fala",
+        "url": "https://open.spotify.com/album/60s7ucbZNy6EuN89srLzrI"
+      },
+      "artists": [
+        {
+          "name": "Haitam",
+          "url": "https://open.spotify.com/artist/3J0t4JNgTyjwqRaXo5pNlW"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198974,
+      "name": "Fala",
+      "url": "https://open.spotify.com/track/5VfWwCdDKJeQPfsbTymFqm"
+    },
+    {
+      "album": {
         "name": "Falsos Amores!!",
         "url": "https://open.spotify.com/album/4x0mSmALz3M7K7cPIiz80U"
       },
@@ -1454,6 +1472,32 @@
     },
     {
       "album": {
+        "name": "Muchacha",
+        "url": "https://open.spotify.com/album/2VwcfI392C4cU9U3LF35zj"
+      },
+      "artists": [
+        {
+          "name": "Jotap\u00ea",
+          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
+        },
+        {
+          "name": "Apollo",
+          "url": "https://open.spotify.com/artist/0C2PcyYwXHcPgQpqMdx3O6"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176410,
+      "name": "Muchacha",
+      "url": "https://open.spotify.com/track/6Nlu7yW7lkGnwIZmPIb96z"
+    },
+    {
+      "album": {
         "name": "Na Press\u00e3o / Cora\u00e7\u00e3o Na Porta",
         "url": "https://open.spotify.com/album/1dH7L5BxnanQjMWP3umq3y"
       },
@@ -1807,7 +1851,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 177272,
       "name": "Post Malone",
       "url": "https://open.spotify.com/track/1WVy38hc1bRg6Uy2LJq7rW"
@@ -1867,7 +1911,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 193031,
       "name": "Primeiro Sinal",
       "url": "https://open.spotify.com/track/4Rz4C8J8iFW3PhBEXly5nl"
@@ -2184,6 +2228,28 @@
     },
     {
       "album": {
+        "name": "Segredo",
+        "url": "https://open.spotify.com/album/1ASqKOHKRjm5j0qQlSCGz3"
+      },
+      "artists": [
+        {
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        },
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178321,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/1vQXkWFnyhotk8WhS7gRxA"
+    },
+    {
+      "album": {
         "name": "Sei Que C\u00ea Gosta 2",
         "url": "https://open.spotify.com/album/1DB5TEoM1CkkSoiJ4BwN8W"
       },
@@ -2225,7 +2291,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 192092,
       "name": "Seus Olhos",
       "url": "https://open.spotify.com/track/1cKl7inbfCXhbN8QeZRot3"
@@ -2299,7 +2365,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 153964,
       "name": "Tutorial De Como Ser Feliz",
       "url": "https://open.spotify.com/track/3y34iNIG0D2r3Tb2ZSIHBR"
@@ -2437,6 +2503,32 @@
       "duration_ms": 182400,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/5WVIH0vuQaEQS5BN3h6Hp4"
+    },
+    {
+      "album": {
+        "name": "Vida Amargurada",
+        "url": "https://open.spotify.com/album/5GJO9L8mkTQHn7XYRGHA88"
+      },
+      "artists": [
+        {
+          "name": "AkashI.san",
+          "url": "https://open.spotify.com/artist/2eP0me2qk84GZ68T6A0uBW"
+        },
+        {
+          "name": "klouvz",
+          "url": "https://open.spotify.com/artist/3eQkISnjBygT8p2YD1AqJ3"
+        },
+        {
+          "name": "pluglip",
+          "url": "https://open.spotify.com/artist/2U0pxQZXxuKh6zKZ9t4uXV"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146562,
+      "name": "Vida Amargurada",
+      "url": "https://open.spotify.com/track/3D8BPqDGi5gdvfYVWpBA8x"
     },
     {
       "album": {

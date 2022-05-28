@@ -570,6 +570,32 @@
     },
     {
       "album": {
+        "name": "Chance Right Now (DJ Booman Remix)",
+        "url": "https://open.spotify.com/album/3F4zd7g9J4E85YxGnJTJYz"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "Ernest Third",
+          "url": "https://open.spotify.com/artist/1hISYBYZizLjUwbo3i2cK1"
+        },
+        {
+          "name": "Dj Booman",
+          "url": "https://open.spotify.com/artist/7vYA1adA7T1pbr9HzgFuuS"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257777,
+      "name": "Chance Right Now - DJ Booman Remix",
+      "url": "https://open.spotify.com/track/4JirtZKvAZ7Y7YJE2NPkjf"
+    },
+    {
+      "album": {
         "name": "clown shit",
         "url": "https://open.spotify.com/album/25XfRZJiNYItar9V08ZOWn"
       },
@@ -2451,7 +2477,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 109714,
-      "name": "Violin (feat. Dear Silas)",
+      "name": "Violin",
       "url": "https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q"
     },
     {

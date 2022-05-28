@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Mama's Broke
 
-142 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
+145 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Fall, Fall, Fall](https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Fall, Fall, Fall](https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY) | 4:41 | 2021-10-01 | 2022-01-22 |
 | [Father Time](https://open.spotify.com/track/2BtUVOfF9KJdFoUfR7VIqb) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Father Time](https://open.spotify.com/album/4hAgFDtiwPdjzIMxnbK7lJ) | 2:24 | 2022-01-21 |  |
 | [Fish and Bird](https://open.spotify.com/track/550dYYVKfQDzyMXEXENAkn) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Beat the Devil and Carry a Rail](https://open.spotify.com/album/3AdiKjgy86xmuyv7YC12kV) | 5:13 | 2022-01-21 |  |
+| [Fishin'](https://open.spotify.com/track/57R26ENxtPjmBH5qhVuWaX) | [Luisa Marion](https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie) | [Just Memories](https://open.spotify.com/album/39sFZfld2W398U2FJc5yPE) | 3:35 | 2022-05-27 |  |
 | [Folk Bloodbath](https://open.spotify.com/track/7cwPw3wT77MvYo4Q8mcDLk) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Folk Bloodbath](https://open.spotify.com/album/7BUGUk2LXFZUlZFhwHNsVc) | 6:04 | 2021-10-01 |  |
 | [From The Dust](https://open.spotify.com/track/1kDmlwmcDxHS4KSvNQeyg8) | [Megan Brown](https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb) | [From The Dust](https://open.spotify.com/album/0kLLLg6wjPc9RjJOaHHhZE) | 3:08 | 2022-01-14 |  |
 | [Gone](https://open.spotify.com/track/3A37e37f2HPZ3Nq75akQqW) | [Michelle Rivers](https://open.spotify.com/artist/77pTWntGDAr6uRxFq2GZQc) | [Gone](https://open.spotify.com/album/6RSSNjlOMArkHjtgMU0YFb) | 4:05 | 2022-03-25 |  |
@@ -65,6 +66,7 @@
 | [How It Ends](https://open.spotify.com/track/0QNGlcB83H133AoEFggtRP) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [How It Ends](https://open.spotify.com/album/2FftzfiRpzlPwSXpKgisJi) | 3:19 | 2022-04-22 |  |
 | [How Long](https://open.spotify.com/track/62Y0ujNxDSwplJU2locl1E) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [25 Trips](https://open.spotify.com/album/5MW8vgKSki8FkuzIeEbDjG) | 4:49 | 2021-10-01 |  |
 | [Howl](https://open.spotify.com/track/32ioHHPhIoZjPtwUw5TVfE) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Howl](https://open.spotify.com/album/35a3US8iAh300740OipUz0) | 4:53 | 2022-04-15 |  |
+| [Hummingbird](https://open.spotify.com/track/4DlXQQanDfpRKxUSMOsxmL) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Hummingbird](https://open.spotify.com/album/7q9msRiLtqEhNAfBmyHc2e) | 3:45 | 2022-05-27 |  |
 | [I Don't Know](https://open.spotify.com/track/3gr9HKI4zcCZ5ZIQNvSncs) | [The Slocan Ramblers](https://open.spotify.com/artist/1F81FTiMCbp4fxZ1EMStbk) | [I Don't Know](https://open.spotify.com/album/7CBdNw7qntXyqBNLWJ4Gll) | 4:07 | 2022-05-13 |  |
 | [I'll Be Lost](https://open.spotify.com/track/5QR7BtYDsTKReZJNrqZ3Rn) | [Heather Sarona](https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0) | [I'll Be Lost](https://open.spotify.com/album/47YEllnKpleAJfm9PZ78uy) | 3:22 | 2022-01-07 |  |
 | [I'll Blame It on the Rain](https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc) | [Hammertowne](https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH) | [I'll Blame It on the Rain](https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo) | 3:43 | 2022-04-01 |  |
@@ -76,6 +78,7 @@
 | [Kalamazoo](https://open.spotify.com/track/2UAlL898aPpEM265wnWV3Q) | [The Show Ponies](https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi) | [How It All Goes Down](https://open.spotify.com/album/0DhpnbqiSrzKDJ2Wk5MkHp) | 5:53 | 2021-10-01 |  |
 | [Kill the Snake](https://open.spotify.com/track/1OOmfxYnKweraqU5y6nta5) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Kill the Snake](https://open.spotify.com/album/4XgxQ7cWdvzEkBebsD2fbV) | 3:18 | 2022-04-15 |  |
 | [Lemons and Tangerines \- Live Session, Paso Robles, CA, 2021](https://open.spotify.com/track/5xIO3D9k6gUGg5ptO1abRk) | [AJ Lee & Blue Summit](https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr), [Jam in the Van](https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa) | [Jam in the Van \- AJ Lee & Blue Summit \(Live Session, Paso Robles, CA, 2021\)](https://open.spotify.com/album/5fmJvOgfxX37ndWmbnOL2U) | 4:12 | 2022-01-21 |  |
+| [Light My Fire](https://open.spotify.com/track/0qhSnJz1pLxidDVxFHH9XD) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Light My Fire](https://open.spotify.com/album/2Wj72J5gYHOtf2QhNDoP5T) | 3:11 | 2022-05-27 |  |
 | [Little Sadie](https://open.spotify.com/track/5oZVRtVqTDawr47jOda6AH) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound \(Deluxe\)](https://open.spotify.com/album/45cjYhMQZBlltDVr6sLXrG) | 2:32 | 2022-05-13 |  |
 | [Local Honey](https://open.spotify.com/track/0DoAh5V2UYlRSO0bi7sFim) | [Sean Watkins](https://open.spotify.com/artist/45K759axQK0aohwSjbkgpy) | [What to Fear](https://open.spotify.com/album/7jf04POqt5rp1jWM8KQhzd) | 2:44 | 2021-10-01 |  |
 | [Love Letter](https://open.spotify.com/track/3l6KKhbzmDDy4ye0qqgTEf) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Blind and Brave](https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90) | 3:07 | 2021-10-01 |  |

@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "6 un caxxo di rave",
       "url": "https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 148500,
       "name": "ANSIA NO",
       "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 173855,
       "name": "BERLINO",
       "url": "https://open.spotify.com/track/0JqflUI3x0BOe8HoQzVl4a"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 144648,
       "name": "Blokka",
       "url": "https://open.spotify.com/track/345tTz4ZC5HZ8jhW11bPFI"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 95317,
       "name": "Break It Off",
       "url": "https://open.spotify.com/track/0DwVfCYLrVXgvejYbWwZAd"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 205458,
       "name": "Calling My Phone",
       "url": "https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 196000,
       "name": "Cattolica",
       "url": "https://open.spotify.com/track/7JS2L1mswwPlfalEdVBDsg"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 231723,
       "name": "Chamber Of Reflection",
       "url": "https://open.spotify.com/track/1MJ5f5EYBC92ADD6xcz7nb"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 122226,
       "name": "CHICKEN TERIYAKI",
       "url": "https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 127764,
       "name": "COTTON FIOC",
       "url": "https://open.spotify.com/track/4HkaLhimGBstqRM9FcCAXw"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 161481,
       "name": "Ctrl+C, Ctrl+V",
       "url": "https://open.spotify.com/track/41cgwtr1Zpz8L46oBjp0Pa"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 146523,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk"
@@ -860,6 +860,24 @@
     },
     {
       "album": {
+        "name": "Fuoco",
+        "url": "https://open.spotify.com/album/31Z206MRP8gdjbWDR2DGFy"
+      },
+      "artists": [
+        {
+          "name": "PIOVE.",
+          "url": "https://open.spotify.com/artist/2lEDOYvkfzfdfSXeYZKwhi"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152038,
+      "name": "Fuoco",
+      "url": "https://open.spotify.com/track/34iXenJePvLb56eAY9yVY4"
+    },
+    {
+      "album": {
         "name": "Lavender",
         "url": "https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK"
       },
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 120147,
       "name": "heavensleep",
       "url": "https://open.spotify.com/track/7jqiOS9oxnSpCooYGHlNbR"
@@ -1111,6 +1129,24 @@
       "duration_ms": 139206,
       "name": "IN THE CLUB",
       "url": "https://open.spotify.com/track/7vX0rvoGneCCOJ2QPruNNZ"
+    },
+    {
+      "album": {
+        "name": "Je M'appelle",
+        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
+      },
+      "artists": [
+        {
+          "name": "Benzz",
+          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139574,
+      "name": "Je M'appelle",
+      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
     },
     {
       "album": {
@@ -1317,7 +1353,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 150941,
       "name": "Money Rain - Phonk Remix",
       "url": "https://open.spotify.com/track/4P0r0yO7HNPvOra7BHGixH"
@@ -1335,7 +1371,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 160052,
       "name": "Mon\u00eby so big",
       "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
@@ -1353,7 +1389,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 195105,
       "name": "Mr. Saxobeat",
       "url": "https://open.spotify.com/track/2BTSWfjaTMYWCxhmVRhqLK"
@@ -1491,7 +1527,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 193418,
       "name": "OSHILLANDO",
       "url": "https://open.spotify.com/track/1Cs7Oazl4HcOM6mxBCQ4VX"
@@ -1556,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "piccolo",
+        "url": "https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120133,
+      "name": "piccolo",
+      "url": "https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz"
+    },
+    {
+      "album": {
         "name": "Play with Fire (feat. Yacht Money)",
         "url": "https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD"
       },
@@ -1611,7 +1665,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 197213,
       "name": "Pop porno",
       "url": "https://open.spotify.com/track/2CWfkhYbrrwGhuT4ABAjPO"
@@ -1752,6 +1806,24 @@
     },
     {
       "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/5zYWiUPPAQ78JnCAHMZFK9"
+      },
+      "artists": [
+        {
+          "name": "Taxi B",
+          "url": "https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149638,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/2xZOxK1Emq85FfnJGVR21a"
+    },
+    {
+      "album": {
         "name": "Say It Right (Sped Up Remix)",
         "url": "https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F"
       },
@@ -1793,7 +1865,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 99748,
       "name": "Scary Garry",
       "url": "https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D"
@@ -1845,7 +1917,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 244590,
       "name": "Se loro",
       "url": "https://open.spotify.com/track/7iVSc4hYh8pdeYYTdfA6ti"
@@ -1881,7 +1953,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 172675,
       "name": "SHUM",
       "url": "https://open.spotify.com/track/29bhnde7Gvnp7rvY9zsq5S"
@@ -1975,7 +2047,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 153294,
       "name": "Still Don't Know My Name",
       "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
@@ -2304,6 +2376,24 @@
     },
     {
       "album": {
+        "name": "CIRCO MEZZALUNA",
+        "url": "https://open.spotify.com/album/7p9QOmQ708LSnJasUX3Bk9"
+      },
+      "artists": [
+        {
+          "name": "Fuera",
+          "url": "https://open.spotify.com/artist/2QkyIpne7IvLXt4jeBIxVC"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158600,
+      "name": "TUTTO MATTO",
+      "url": "https://open.spotify.com/track/0sqwOiE8E19Q2pOLHE7Heo"
+    },
+    {
+      "album": {
         "name": "u.",
         "url": "https://open.spotify.com/album/4zilHatAUeMby2Lh1pEHpS"
       },
@@ -2355,7 +2445,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 178787,
       "name": "ur just horny",
       "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
@@ -2373,7 +2463,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 242960,
       "name": "Vanished",
       "url": "https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f"
@@ -2445,7 +2535,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 137076,
       "name": "\u0420\u0430\u0442\u0430\u0442\u0430",
       "url": "https://open.spotify.com/track/14YjOD4J7N1FGZMt5N4eIs"

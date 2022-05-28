@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura. Cover: Luna Elle",
+  "description": "This is R&B in Canada, elevate your aura. Cover: Emanuel",
   "name": "Mood Ring",
   "published_playlist_ids": [
     "5Scr3kl4jdyMwylCsvsI3D"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "1 Four 7",
+        "url": "https://open.spotify.com/album/02JRm3BWSlGLKlg6b3qTZ3"
+      },
+      "artists": [
+        {
+          "name": "B.ROB",
+          "url": "https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197915,
+      "name": "1 Four 7",
+      "url": "https://open.spotify.com/track/5Y40ig9ntRQ5qrwe5CTuuu"
+    },
     {
       "album": {
         "name": "24hrs",
@@ -23,6 +41,24 @@
       "duration_ms": 202551,
       "name": "24hrs",
       "url": "https://open.spotify.com/track/23S3Ec0TsHifidDXWL0hzR"
+    },
+    {
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/7ih9bEz6nXigYmVNddVtio"
+      },
+      "artists": [
+        {
+          "name": "JYDN HILL",
+          "url": "https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/1lpKb41TytHt799qHYImCT"
     },
     {
       "album": {
@@ -131,7 +167,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 153403,
       "name": "ARENA Y MAR",
       "url": "https://open.spotify.com/track/5j42bMuCeQHfQHC61QZEDO"
@@ -265,7 +301,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 210810,
       "name": "Beside Me",
       "url": "https://open.spotify.com/track/2VrV7wCTN2LBvhZyv5Xly5"
@@ -283,7 +319,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 163691,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/2CZjjlYWasiqbCOors8pAC"
@@ -301,7 +337,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 193431,
       "name": "Body",
       "url": "https://open.spotify.com/track/4SBEgCAsQm8ZHIoc2TPfQo"
@@ -492,6 +528,24 @@
     },
     {
       "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X"
+      },
+      "artists": [
+        {
+          "name": "Jex Nwalor",
+          "url": "https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198273,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP"
+    },
+    {
+      "album": {
         "name": "Come Over",
         "url": "https://open.spotify.com/album/7lvNlojG1C0yBwVfOc42MS"
       },
@@ -576,6 +630,28 @@
     },
     {
       "album": {
+        "name": "Different (With Majid Jordan)",
+        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Different (With Majid Jordan)",
+      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
+    },
+    {
+      "album": {
         "name": "Different Morning (feat. DijahSB)",
         "url": "https://open.spotify.com/album/2xWuxKRWdUpaZWFMdelg4b"
       },
@@ -627,7 +703,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 171833,
       "name": "Do You",
       "url": "https://open.spotify.com/track/5cMtzTwiKUycwIO8RclyfR"
@@ -699,7 +775,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 155490,
       "name": "Don't Say",
       "url": "https://open.spotify.com/track/3zpV1pF29S3jPGNY1J8HZo"
@@ -1047,7 +1123,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 234384,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
@@ -1105,6 +1181,24 @@
       "duration_ms": 160078,
       "name": "Function",
       "url": "https://open.spotify.com/track/0DYcMa43MF2cFqNWoCkfYC"
+    },
+    {
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/2AZjeSF9UHQkPhyjMXP9aa"
+      },
+      "artists": [
+        {
+          "name": "Jay Isaiah",
+          "url": "https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148608,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/7tqncrBGsGJQqc24e5Ffiv"
     },
     {
       "album": {
@@ -1279,6 +1373,24 @@
       "duration_ms": 133200,
       "name": "Gucci, Chanel",
       "url": "https://open.spotify.com/track/15HDG2RFHASg5citb8CGqN"
+    },
+    {
+      "album": {
+        "name": "Half Empty",
+        "url": "https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH"
+      },
+      "artists": [
+        {
+          "name": "Jully Black",
+          "url": "https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204260,
+      "name": "Half Empty",
+      "url": "https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW"
     },
     {
       "album": {
@@ -1631,7 +1743,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 251111,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/2fGiwQIUWDauKSYgosdlhN"
@@ -1661,6 +1773,24 @@
       "duration_ms": 152770,
       "name": "I Am Legend",
       "url": "https://open.spotify.com/track/5eWtalHNoCz40SS6SHNWxm"
+    },
+    {
+      "album": {
+        "name": "I Want It",
+        "url": "https://open.spotify.com/album/5Pmyr0BIsQVwq5CDh4yjt0"
+      },
+      "artists": [
+        {
+          "name": "Sierra Blacc",
+          "url": "https://open.spotify.com/artist/4etfsbyXlz63O989Dg8qto"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "I Want It",
+      "url": "https://open.spotify.com/track/1THDp78PrwE2R335ydjw9F"
     },
     {
       "album": {
@@ -1791,6 +1921,24 @@
       "duration_ms": 168000,
       "name": "Iji Ego?",
       "url": "https://open.spotify.com/track/29C00cIplzT6NPAmSGjaXW"
+    },
+    {
+      "album": {
+        "name": "Imagine That - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/419O7UUhyz8UxOnP6Ny4I8"
+      },
+      "artists": [
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140434,
+      "name": "Imagine That - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/18rWb4jmlvu9TyPGS23pyR"
     },
     {
       "album": {
@@ -2845,7 +2993,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 189507,
       "name": "One Plus One",
       "url": "https://open.spotify.com/track/2YadaIIr00rdv5T7RVzIO8"
@@ -2863,7 +3011,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 306059,
       "name": "Only With Time",
       "url": "https://open.spotify.com/track/0xTZ5PCUersxLyUiLgNp2U"
@@ -3005,7 +3153,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 169878,
       "name": "Over U",
       "url": "https://open.spotify.com/track/2c1xEMyAW0Y9wGiWvvNRws"
@@ -3113,7 +3261,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 205854,
       "name": "Pissed Black Girl",
       "url": "https://open.spotify.com/track/2jf4eV6xXe1z3tZAfGuB7c"
@@ -3196,6 +3344,24 @@
     },
     {
       "album": {
+        "name": "Raids - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/16JhsCkX4XqBIuW9uquCwi"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143624,
+      "name": "Raids - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0ontHo5fSr5T1Pc8eoVhw6"
+    },
+    {
+      "album": {
         "name": "soft thing",
         "url": "https://open.spotify.com/album/1iBeLmJBT417B8XHmIuctN"
       },
@@ -3251,6 +3417,24 @@
       "duration_ms": 157806,
       "name": "Red eye",
       "url": "https://open.spotify.com/track/4jpS4dASvP36bDQxm7ogju"
+    },
+    {
+      "album": {
+        "name": "Red Handed",
+        "url": "https://open.spotify.com/album/67mUKShwkfh8J6NACuQ85k"
+      },
+      "artists": [
+        {
+          "name": "pisceze",
+          "url": "https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168571,
+      "name": "Red Handed",
+      "url": "https://open.spotify.com/track/61k46pWQAEEwpagctUMgry"
     },
     {
       "album": {
@@ -3678,6 +3862,24 @@
     },
     {
       "album": {
+        "name": "Still Not a Playa",
+        "url": "https://open.spotify.com/album/7jsd5RS2LEKjhX4Ur7qAum"
+      },
+      "artists": [
+        {
+          "name": "Luu Breeze",
+          "url": "https://open.spotify.com/artist/5B3Lma67FBdWs1R8m3BKUP"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184489,
+      "name": "Still Not a Playa",
+      "url": "https://open.spotify.com/track/0kTwzUwyXHngN2VIahINF8"
+    },
+    {
+      "album": {
         "name": "ALIEN",
         "url": "https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv"
       },
@@ -3784,6 +3986,24 @@
     },
     {
       "album": {
+        "name": "Tease",
+        "url": "https://open.spotify.com/album/1SCKl3Yaa9g3wd8G1I9pzo"
+      },
+      "artists": [
+        {
+          "name": "Neela",
+          "url": "https://open.spotify.com/artist/1lz7G1MhES1Bb0toy0tluz"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200275,
+      "name": "Tease",
+      "url": "https://open.spotify.com/track/5ttmYDw7JUPeBFV9I2DdbS"
+    },
+    {
+      "album": {
         "name": "Tell Somebody",
         "url": "https://open.spotify.com/album/4bdbkfQjyuRdCsWR3UAj9C"
       },
@@ -3825,6 +4045,24 @@
       "duration_ms": 148695,
       "name": "TEMPT ME",
       "url": "https://open.spotify.com/track/4hfVEWO5d5k2EsjZyLEUmC"
+    },
+    {
+      "album": {
+        "name": "The Coochie Song",
+        "url": "https://open.spotify.com/album/7n5avnSR9wyediAPHVWeHR"
+      },
+      "artists": [
+        {
+          "name": "Staasia Daniels",
+          "url": "https://open.spotify.com/artist/0VLvev050tpAMCM7FeVZ0n"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175041,
+      "name": "The Coochie Song",
+      "url": "https://open.spotify.com/track/1ZKnx75UImiBGaSHp4d8Kg"
     },
     {
       "album": {
@@ -4183,7 +4421,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 220500,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/30CYYrMIeCeA5v5TIAcQmv"

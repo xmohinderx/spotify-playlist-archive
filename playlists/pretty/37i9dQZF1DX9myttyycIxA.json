@@ -1,13 +1,61 @@
 {
-  "description": "Underground indie rock gems. Cover: Porridge Radio",
-  "num_followers": 251656,
+  "description": "Underground indie rock gems. Cover: boyish",
+  "num_followers": 251873,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQyMzQ0MiwwMDAwMDEwZjAwMDAwMTgwZjdiNzg5Y2IwMDAwMDE4MGRkZmIyZmM2",
+  "snapshot_id": "MTY1MzYzMzYwMCwwMDAwMDExMDAwMDAwMTgxMDQzZTRhOTQwMDAwMDE4MTAyMGZmMzIz",
   "tracks": [
+    {
+      "added_at": "2022-05-27 06:40:00",
+      "album": {
+        "name": "My Friend Mica",
+        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "duration_ms": 173905,
+      "name": "Legs",
+      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
+    },
+    {
+      "added_at": "2022-05-27 06:40:00",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 183644,
+      "name": "Clear",
+      "url": "https://open.spotify.com/track/12eZXTxOcrp9LAGxcgUMqB"
+    },
+    {
+      "added_at": "2022-05-27 06:40:00",
+      "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/7Aqk8isy5td8NUUmXF3Z3d"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 185109,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/14ZagAXGWz5Ycpm0AsZQYZ"
+    },
     {
       "added_at": "2022-05-20 05:46:00",
       "album": {
@@ -57,6 +105,54 @@
       "url": "https://open.spotify.com/track/0UyDaW1aWaXAUReRul1sQw"
     },
     {
+      "added_at": "2022-05-27 06:40:00",
+      "album": {
+        "name": "Frances Farmer Will Have Her Revenge On Seattle",
+        "url": "https://open.spotify.com/album/0OWsfBKizOkgEcaa65b6z2"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Frances Farmer Will Have Her Revenge On Seattle",
+      "url": "https://open.spotify.com/track/32hjH8euySL8IqHEoHeHJE"
+    },
+    {
+      "added_at": "2022-05-27 06:40:00",
+      "album": {
+        "name": "Freight Yard",
+        "url": "https://open.spotify.com/album/6M6NRC6YX7imXi2LdqSQAP"
+      },
+      "artists": [
+        {
+          "name": "The Garden",
+          "url": "https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Freight Yard",
+      "url": "https://open.spotify.com/track/4l7VPmnud43dlONU9P1qhO"
+    },
+    {
+      "added_at": "2022-05-19 16:02:03",
+      "album": {
+        "name": "Songs of Her's",
+        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
+      },
+      "artists": [
+        {
+          "name": "Her's",
+          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
+        }
+      ],
+      "duration_ms": 255067,
+      "name": "What Once Was",
+      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
+    },
+    {
       "added_at": "2022-05-20 05:46:00",
       "album": {
         "name": "Always Gonna Happen",
@@ -73,6 +169,26 @@
       "url": "https://open.spotify.com/track/4VIo9g5gTcLqbZEDbBMAr8"
     },
     {
+      "added_at": "2022-05-27 06:40:00",
+      "album": {
+        "name": "Enemy Remixed",
+        "url": "https://open.spotify.com/album/1lZYJDlOuXYsddD8OsGTOc"
+      },
+      "artists": [
+        {
+          "name": "The Hellp",
+          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
+        },
+        {
+          "name": "CFCF",
+          "url": "https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS"
+        }
+      ],
+      "duration_ms": 311421,
+      "name": "yrstruly - CFCF Scream Mix",
+      "url": "https://open.spotify.com/track/6br2IoQARHVcYM4TsYMU0f"
+    },
+    {
       "added_at": "2022-05-19 16:02:03",
       "album": {
         "name": "Devil for the Fire",
@@ -87,6 +203,22 @@
       "duration_ms": 161266,
       "name": "Aphasia",
       "url": "https://open.spotify.com/track/5JQ3EKw3BnSo5T7uxlCNtc"
+    },
+    {
+      "added_at": "2022-05-24 20:17:22",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/0dGR8p2HbuqWS5F7fdxnXU"
+      },
+      "artists": [
+        {
+          "name": "FredAtlast",
+          "url": "https://open.spotify.com/artist/1vguJ2wOoF42u22rVIw4pr"
+        }
+      ],
+      "duration_ms": 267130,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/55uncgNeYZapB3aGNAECF6"
     },
     {
       "added_at": "2022-05-20 19:40:07",
@@ -143,6 +275,22 @@
     {
       "added_at": "2022-05-19 16:02:03",
       "album": {
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 157973,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt"
+    },
+    {
+      "added_at": "2022-05-19 16:02:03",
+      "album": {
         "name": "Petals",
         "url": "https://open.spotify.com/album/2n3QaYtHqERzKesRi0lmaq"
       },
@@ -173,22 +321,6 @@
       "url": "https://open.spotify.com/track/5d3r10fWikQnh5vPD8FWsn"
     },
     {
-      "added_at": "2022-05-24 20:17:22",
-      "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/0dGR8p2HbuqWS5F7fdxnXU"
-      },
-      "artists": [
-        {
-          "name": "FredAtlast",
-          "url": "https://open.spotify.com/artist/1vguJ2wOoF42u22rVIw4pr"
-        }
-      ],
-      "duration_ms": 267130,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/55uncgNeYZapB3aGNAECF6"
-    },
-    {
       "added_at": "2022-05-20 05:46:00",
       "album": {
         "name": "Go Slow",
@@ -203,6 +335,22 @@
       "duration_ms": 200586,
       "name": "Go Slow",
       "url": "https://open.spotify.com/track/7B7CJVHZq5EPzylyt87vB5"
+    },
+    {
+      "added_at": "2022-05-19 16:02:03",
+      "album": {
+        "name": "Superstar Baby",
+        "url": "https://open.spotify.com/album/4BqgQ4TDBmwJTLYr0YLECX"
+      },
+      "artists": [
+        {
+          "name": "sundiver ca",
+          "url": "https://open.spotify.com/artist/2xDxryix4opVzsPKelCZwi"
+        }
+      ],
+      "duration_ms": 162434,
+      "name": "Soundtrack for Your Backseat",
+      "url": "https://open.spotify.com/track/06CUyVD4i6YQ8X9dXC7mI6"
     },
     {
       "added_at": "2022-05-19 16:02:03",
@@ -251,6 +399,22 @@
       "duration_ms": 292066,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720"
+    },
+    {
+      "added_at": "2022-05-19 16:02:03",
+      "album": {
+        "name": "Am I sinking or Am I swimming?",
+        "url": "https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV"
+      },
+      "artists": [
+        {
+          "name": "late night drive home",
+          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Stress Relief",
+      "url": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN"
     },
     {
       "added_at": "2022-05-20 05:46:00",
@@ -319,6 +483,22 @@
     {
       "added_at": "2022-05-19 16:02:03",
       "album": {
+        "name": "Living While Starving",
+        "url": "https://open.spotify.com/album/3egPQUSqrInRvbXxPqXQYm"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "It's Only Sex",
+      "url": "https://open.spotify.com/track/6dtPJwNdLuyVGPWyHOI6GP"
+    },
+    {
+      "added_at": "2022-05-19 16:02:03",
+      "album": {
         "name": "Doja Cat",
         "url": "https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol"
       },
@@ -363,22 +543,6 @@
       "duration_ms": 196600,
       "name": "Muscle Memory",
       "url": "https://open.spotify.com/track/0dRQJ2toZYGLcgfDZmx4mL"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 157973,
-      "name": "Advice",
-      "url": "https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt"
     },
     {
       "added_at": "2022-05-20 19:40:07",
@@ -523,38 +687,6 @@
       "duration_ms": 221238,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Songs of Her's",
-        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
-      },
-      "artists": [
-        {
-          "name": "Her's",
-          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
-        }
-      ],
-      "duration_ms": 255067,
-      "name": "What Once Was",
-      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Living While Starving",
-        "url": "https://open.spotify.com/album/3egPQUSqrInRvbXxPqXQYm"
-      },
-      "artists": [
-        {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "It's Only Sex",
-      "url": "https://open.spotify.com/track/6dtPJwNdLuyVGPWyHOI6GP"
     },
     {
       "added_at": "2022-05-19 16:02:03",
@@ -751,22 +883,6 @@
     {
       "added_at": "2022-05-19 16:02:03",
       "album": {
-        "name": "Am I sinking or Am I swimming?",
-        "url": "https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV"
-      },
-      "artists": [
-        {
-          "name": "late night drive home",
-          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Stress Relief",
-      "url": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
         "name": "Deep Cuts (2011-2014)",
         "url": "https://open.spotify.com/album/7BYdha593w1BAdWGBhmtVA"
       },
@@ -795,22 +911,6 @@
       "duration_ms": 168149,
       "name": "Wasted Affairs",
       "url": "https://open.spotify.com/track/3CczWPmaz03mSTr6qnqXnc"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Superstar Baby",
-        "url": "https://open.spotify.com/album/4BqgQ4TDBmwJTLYr0YLECX"
-      },
-      "artists": [
-        {
-          "name": "sundiver ca",
-          "url": "https://open.spotify.com/artist/2xDxryix4opVzsPKelCZwi"
-        }
-      ],
-      "duration_ms": 162434,
-      "name": "Soundtrack for Your Backseat",
-      "url": "https://open.spotify.com/track/06CUyVD4i6YQ8X9dXC7mI6"
     },
     {
       "added_at": "2022-05-19 16:02:03",
@@ -1611,22 +1711,6 @@
       "duration_ms": 204064,
       "name": "End Song - from \"We're All Going to the World's Fair\" Soundtrack",
       "url": "https://open.spotify.com/track/0xCsRGow1LUIlnR84bYI0z"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Strawberry Creek (Dirty Feet)",
-        "url": "https://open.spotify.com/album/3yomb5X9mTPPSpq9uvTYY9"
-      },
-      "artists": [
-        {
-          "name": "St\u00f6ner",
-          "url": "https://open.spotify.com/artist/2mkGbwg4uYaUlmQDZpga27"
-        }
-      ],
-      "duration_ms": 226624,
-      "name": "Strawberry Creek - Dirty Feet",
-      "url": "https://open.spotify.com/track/7nqXz3i9I40S8oTKrndpYP"
     },
     {
       "added_at": "2022-05-19 16:02:03",

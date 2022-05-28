@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-177 songs - 6 hr 36 min - not published yet
+177 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

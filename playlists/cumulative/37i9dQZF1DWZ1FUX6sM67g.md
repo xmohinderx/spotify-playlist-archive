@@ -4,7 +4,7 @@
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Manuel Turizo
 
-62 songs - 3 hr 46 min - not published yet
+62 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/16anPiH3Ulo6h6pHaV7pop)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

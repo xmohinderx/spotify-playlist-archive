@@ -4,7 +4,7 @@
 
 > The best Blues for a long trip behind the wheel.
 
-111 songs - 6 hr 29 min - not published yet
+112 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/7inldxiHCey24iSezd8whW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Tom Cat](https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Electric Mud](https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL) | 3:37 | 2022-05-25 |  |
 | [Two Way Wishing](https://open.spotify.com/track/2lGyivhfiH4jqGpJGSqSZ4) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Tramp / Soul](https://open.spotify.com/album/02Qcgwkz4Fd0btbDraBUHo) | 2:46 | 2022-05-25 |  |
 | [Uh Huh My Baby](https://open.spotify.com/track/1smUyCwjopLiEnkyzypWOW) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Basic Soul](https://open.spotify.com/album/5WRNrna2YPWvQtfgCVU7Of) | 3:52 | 2022-05-25 |  |
+| [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 8:48 | 2022-05-27 |  |
 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 | 2022-05-25 |  |
 | [Wash Out](https://open.spotify.com/track/7krwrfAipXYI2aChTzv3t0) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Oil \- The Complete Federal Recordings](https://open.spotify.com/album/0aUiSnttJkUwVycLAnXKdQ) | 2:35 | 2022-05-25 |  |
 | [When Girls Do It](https://open.spotify.com/track/0sGX1jTxtvtLDVPQdgXuLu) | [Bobby 'Guitar' Bennett](https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g) | [When Girls Do It](https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df) | 2:52 | 2022-05-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 
 > Le migliori tracce urban italiane del 2021! Cover: Bresh
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,303 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,347 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 | 4 | [Veleno 8 \(feat\. Gemitaiz\)](https://open.spotify.com/track/06OBAy97uVyHCZvonvgfE2) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 3:02 |
 | 5 | [BANDITO \(feat\. Emis Killa & Paky\)](https://open.spotify.com/track/1fGXZPAjsxgy9zTCAAaLHM) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [MILANO SOPRANO](https://open.spotify.com/album/7q35Gby8F1fFqXXipqEqOy) | 2:36 |
 | 6 | [IL MIO AMICO \(feat\. Fabri Fibra\)](https://open.spotify.com/track/3N3W8ZX1bFJsiI8VJmdMbT) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [IL MIO AMICO \(feat\. Fabri Fibra\)](https://open.spotify.com/album/2dGHAoaawrVkd8ytqDQwgx) | 3:29 |
-| 7 | [m%n](https://open.spotify.com/track/5VSmYYZYuSCSlOweGMpM1A) | [tha Supreme](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [m%n](https://open.spotify.com/album/6EkbZ11Pg8jQAViLSZ1o7y) | 2:54 |
+| 7 | [m%n](https://open.spotify.com/track/5VSmYYZYuSCSlOweGMpM1A) | [thasup](https://open.spotify.com/artist/2BJ0J98S3dW4AXLboh6EnB) | [m%n](https://open.spotify.com/album/6EkbZ11Pg8jQAViLSZ1o7y) | 2:54 |
 | 8 | [KUMITE](https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 2:50 |
 | 9 | [ONLYFANS \(feat\. MamboLosco\)](https://open.spotify.com/track/2RrldylvtjefqddhIONP7x) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [ONLYFANS \(feat\. MamboLosco\)](https://open.spotify.com/album/1h3tfAsHDKUIWnEb4Cedn6) | 2:23 |
 | 10 | [Rompo \(feat\. Boro Boro\)](https://open.spotify.com/track/4oPh7HAoMR1bLBbxwqKmgn) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Filtri](https://open.spotify.com/album/0Rh1xvnuSs3GyZAvpLlkut) | 2:49 |

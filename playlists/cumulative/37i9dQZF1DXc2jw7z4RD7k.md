@@ -4,7 +4,7 @@
 
 > Ina & Jeffrey & apple pies \(plural\) for dinner
 
-60 songs - 3 hr 27 min - not published yet
+60 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/6nR9fObgGSerkhsDfjVzFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

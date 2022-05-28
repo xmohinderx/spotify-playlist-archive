@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-247 songs - 9 hr 17 min - not published yet
+247 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

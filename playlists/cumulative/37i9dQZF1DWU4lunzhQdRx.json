@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 235053,
       "name": "2016",
       "url": "https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 263120,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 273893,
       "name": "Colder Weather",
       "url": "https://open.spotify.com/track/23hDnIFoFlVTDA6y8YrJoR"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 167360,
       "name": "Drunk & I Miss You",
       "url": "https://open.spotify.com/track/7DoUCGBFzVTVfl4Nhl5BZE"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 201493,
       "name": "hookup scene",
       "url": "https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 225626,
       "name": "Love Triangle",
       "url": "https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu"
@@ -924,6 +924,24 @@
     },
     {
       "album": {
+        "name": "Sad Girls",
+        "url": "https://open.spotify.com/album/2z1na36BCUETL0GHFVxGGK"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184080,
+      "name": "Sad Girls",
+      "url": "https://open.spotify.com/track/5q7wdYPdEtJchjjScPk3mP"
+    },
+    {
+      "album": {
         "name": "Dangerous: The Double Album (Bonus)",
         "url": "https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX"
       },
@@ -953,7 +971,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 206737,
       "name": "Seeing Someone Else",
       "url": "https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 196266,
       "name": "Some People Do",
       "url": "https://open.spotify.com/track/5xI2WO75cIHhGX55MlaIgU"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 284426,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0jn2XqaHliEpWd04ZykIHy"
@@ -1137,6 +1155,24 @@
       "duration_ms": 203089,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/7FkaQnc8Gyd2hMpiDQrSsO"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256278,
+      "name": "Un-Break My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
     },
     {
       "album": {
@@ -1335,7 +1371,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 234515,
       "name": "White Horse (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3"

@@ -4,7 +4,7 @@
 
 > As novidades dos artistas independentes que você precisa conhecer\. Foto: Saskia\. Arte: Isu Kim
 
-117 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+118 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Sambatango](https://open.spotify.com/track/0xwNMjWaJ21opxeVa0hEvL) | [Dan Stump](https://open.spotify.com/artist/76qXgVNZFVQZrLmsawuYcZ), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP) | [Transe Tropical](https://open.spotify.com/album/3GDXeYh3kmWa4amneMoK95) | 2:35 | 2022-03-25 |  |
 | [Sedução Vegetal](https://open.spotify.com/track/31QqEJdMXREfM9LiiiXjzO) | [Matheus Souto](https://open.spotify.com/artist/0FW6guSeedXBXOd8AK63Xp) | [Sedução Vegetal](https://open.spotify.com/album/5FwyfOFjaVL5jrpU5wVyeh) | 5:35 | 2022-01-07 |  |
 | [sei lá](https://open.spotify.com/track/0ke3cpUdKJamJvii855vH2) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [CHICO E O MAR](https://open.spotify.com/album/5A0PTs0EU75mJnSWK54JyM) | 3:33 | 2022-04-22 |  |
+| [Sem Leme](https://open.spotify.com/track/54vPD639848uvG5f8WtQev) | [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN), [Akilla](https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB) | [Sem Leme](https://open.spotify.com/album/5dY1FS6gwocGRlboNeWRVz) | 2:41 | 2022-05-27 |  |
 | [Sem Noção](https://open.spotify.com/track/7gKmkQ6duGD1k32MW9TgeA) | [Giovanna](https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA) | [Giovanna](https://open.spotify.com/album/0j047tgn9GKLgqf5NjTkHZ) | 2:28 | 2022-02-04 |  |
 | [Sensus Plenior](https://open.spotify.com/track/0cdftpxtbBkaMSJdAOY3TL) | [Arthur Alva](https://open.spotify.com/artist/1bWoWooojWavWI4Hh1JC32) | [Consciência Elementar I](https://open.spotify.com/album/6ZENBuXFtK81xuE4Y4q9O3) | 3:04 | 2022-04-15 |  |
 | [Sinais, Pt\. 2](https://open.spotify.com/track/4KvOzCwHSLdzyl9MxlFiVv) | [Kanda Ent](https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze), [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4) | [Sinais, Pt\. 2](https://open.spotify.com/album/0kqkt2wT6FHCZqs3nZ8Lol) | 4:05 | 2022-01-07 |  |
@@ -110,7 +111,7 @@
 | [Te Amar](https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Baficca](https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C) | [Te Amar](https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26) | 2:46 | 2022-01-07 | 2022-04-16 |
 | [Te Decorei](https://open.spotify.com/track/0mC2afYA8l4T2aDX90WOhe) | [Yani](https://open.spotify.com/artist/52uc9JDit4hH4BO8ycoQFF), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Te Decorei](https://open.spotify.com/album/5M0hr8TN3mFgzXmELh4fWr) | 2:46 | 2022-01-07 |  |
 | [Tempero](https://open.spotify.com/track/0vNbioi4jKWXBgLKbKvL0I) | [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Tempero](https://open.spotify.com/album/0DHNsUcFFnOd9Zz12mSNNZ) | 3:12 | 2022-01-07 |  |
-| [Terra](https://open.spotify.com/track/2vGZLRXOYIUJn89wKqLeon) | [Virgem](https://open.spotify.com/artist/79ZwEJ4yVmHY3KMpkf2QRh) | [Terra](https://open.spotify.com/album/5ecbXccsJwRfTgv0H53bGP) | 3:26 | 2022-04-15 |  |
+| [Terra](https://open.spotify.com/track/2vGZLRXOYIUJn89wKqLeon) | [Virgem](https://open.spotify.com/artist/79ZwEJ4yVmHY3KMpkf2QRh) | [Terra](https://open.spotify.com/album/5ecbXccsJwRfTgv0H53bGP) | 3:26 | 2022-04-15 | 2022-05-28 |
 | [Toda Rabadinha](https://open.spotify.com/track/0F6IvU6dxaEf8Z9PSVljSl) | [Trio Shaloshinho](https://open.spotify.com/artist/3BWciZxTZvZG6pWpoVFwU3) | [Toda Rabadinha](https://open.spotify.com/album/3g7UnIxeGOJr0PGkRuhXRb) | 2:52 | 2022-01-14 |  |
 | [Transtornos](https://open.spotify.com/track/57FgLEK6p7HdNXitdxfVSW) | [Pedro Bala e Os Holofotes](https://open.spotify.com/artist/3IVu27tS3rMSVzmhaJcZO8) | [Transtornos](https://open.spotify.com/album/2abVnlYhTgRubzTKcEOvHa) | 3:19 | 2022-04-01 |  |
 | [Troca de Carícias](https://open.spotify.com/track/5w7X04lpO9KZRIm9cUDg7F) | [UTOPIXXXTA](https://open.spotify.com/artist/1NsBWj4SN51iyKbOfzRnu5) | [Troca de Carícias](https://open.spotify.com/album/7pVNPGWjpePZYkL0cYeklZ) | 2:44 | 2022-04-29 |  |

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "Soul meets blues. Cover: Bettye LaVette",
   "name": "Soul Blues",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4x3y9tbJcqa6IgGXE6xIIK"
+  ],
   "tracks": [
     {
       "album": {
@@ -42,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Midnight In Memphis",
+        "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
+      },
+      "artists": [
+        {
+          "name": "Preston Shannon",
+          "url": "https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "Baby I Will",
+      "url": "https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor"
+    },
+    {
+      "album": {
         "name": "Betcha Didn't Know",
         "url": "https://open.spotify.com/album/5tAKD9toNUPBnDi7DJJ8c3"
       },
@@ -53,7 +73,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 257373,
       "name": "Betcha Didn't Know",
       "url": "https://open.spotify.com/track/4TZu49CcAiDfYiQqxGBOoR"
@@ -71,7 +91,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 236146,
       "name": "Black Cat Roun' My Do'",
       "url": "https://open.spotify.com/track/4wQkp4iGbBrE4QbJbqC3CM"
@@ -273,7 +293,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 175800,
       "name": "Girl Your Best Friend Done Took Your Place",
       "url": "https://open.spotify.com/track/2ag3d7EDKg6tTrIeWHKW1Q"
@@ -331,7 +351,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 255693,
       "name": "Going to the Shack",
       "url": "https://open.spotify.com/track/7Edg1SdyEws5DfX5FEkME2"
@@ -367,7 +387,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 330426,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/1mtfdthSTMezS4JvehViCT"
@@ -385,7 +405,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 264400,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6hvJliJvOMHiKSXjPyUoZf"
@@ -403,7 +423,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 332826,
       "name": "Honey It's Your Fault",
       "url": "https://open.spotify.com/track/5YpqRyGuBn5etkcVncz6fv"
@@ -428,6 +448,24 @@
     },
     {
       "album": {
+        "name": "Back In The Game",
+        "url": "https://open.spotify.com/album/1LJKmJgD6dS77Ud3MgEqsZ"
+      },
+      "artists": [
+        {
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257133,
+      "name": "I Can't Stop",
+      "url": "https://open.spotify.com/track/4zKzINcISloFWm2mh0yyFG"
+    },
+    {
+      "album": {
         "name": "Makin Love is Good For You (Expanded Edition)",
         "url": "https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY"
       },
@@ -439,7 +477,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 229226,
       "name": "I Know",
       "url": "https://open.spotify.com/track/1LSC4TKKoJCbpAEsyvRmkQ"
@@ -497,7 +535,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 288400,
       "name": "I'm So Proud",
       "url": "https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH"
@@ -515,7 +553,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 308573,
       "name": "In Your Arms Again",
       "url": "https://open.spotify.com/track/669EMLj2E0nvm68Y95XBbr"
@@ -699,7 +737,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 227706,
       "name": "Makin' Love Is Good For You",
       "url": "https://open.spotify.com/track/3V4cXvtMvp38DRAa666XRp"
@@ -717,7 +755,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 408413,
       "name": "Money Is The Name Of The Game",
       "url": "https://open.spotify.com/track/2eXE8IO1M5lyu2H7Qyi7hL"
@@ -735,7 +773,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 212093,
       "name": "Move Along",
       "url": "https://open.spotify.com/track/3FKioq3mvprZBi0bePWuuR"
@@ -771,7 +809,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 297106,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/0d6zDOS0Zk0Kkar2Lrp20P"
@@ -879,7 +917,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 265053,
       "name": "Reckless Heart",
       "url": "https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF"
@@ -897,7 +935,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 261146,
       "name": "Say What You Mean",
       "url": "https://open.spotify.com/track/7moJNXUN9kWKhUYgE55pKG"
@@ -933,7 +971,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 184306,
       "name": "Soul Deep",
       "url": "https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P"
@@ -1023,7 +1061,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 271426,
       "name": "Sweet Dynamite!",
       "url": "https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g"
@@ -1041,7 +1079,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 254000,
       "name": "Thank God For Fools",
       "url": "https://open.spotify.com/track/691rJaC2NcDMjZCD636LcF"
@@ -1103,6 +1141,24 @@
       "duration_ms": 231666,
       "name": "The Same Love That Made Me Laugh",
       "url": "https://open.spotify.com/track/4pNHUObYXKqIL8dt176TLK"
+    },
+    {
+      "album": {
+        "name": "Midnight In Memphis",
+        "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
+      },
+      "artists": [
+        {
+          "name": "Preston Shannon",
+          "url": "https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "The Streets Will Love You To Death",
+      "url": "https://open.spotify.com/track/5H1aZtAOqmliM5naRN3YfX"
     },
     {
       "album": {
@@ -1193,7 +1249,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 189093,
       "name": "Who's Still in Love",
       "url": "https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja"
@@ -1247,7 +1303,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 243044,
       "name": "You Got the Goods on You",
       "url": "https://open.spotify.com/track/5ad6BP0tSKEHMC2fOStbdj"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2VhD3nIxhifASqPJzWRjCj">Ink</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-25 songs - 1 hr 30 min - not published yet
+25 songs - 1 hr 30 min - [published](https://open.spotify.com/playlist/7mNRX9ao94SbFAlpn72evy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

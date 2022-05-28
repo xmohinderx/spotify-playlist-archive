@@ -4,7 +4,7 @@
 
 > Funky and lush\. This is Philly Soul which laid the groundwork for disco.
 
-51 songs - 4 hr 1 min - not published yet
+51 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/3LSBZ3jJSofvhLXA04BNhy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

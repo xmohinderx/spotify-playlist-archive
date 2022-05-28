@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Liam Gallagher
 
-1,081 songs - 2 day 14 hr 33 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+1,082 songs - 2 day 14 hr 37 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,6 +470,7 @@
 | [If This Is Goodbye](https://open.spotify.com/track/0VTwfrKFcLNHDCoBdoYC4i) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [If This Is Goodbye](https://open.spotify.com/album/6MY2mYeegdZSajY4Ixm03u) | 3:49 | 2022-05-19 | 2022-05-27 |
 | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS) | 3:09 | 2022-03-18 | 2022-03-25 |
 | [If We Get Caught](https://open.spotify.com/track/3Gq6s5E6RKnQ4YVluGKd6u) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [If We Get Caught](https://open.spotify.com/album/1oaHw2W2H645sOxpsTWYuY) | 3:14 | 2022-03-24 | 2022-04-01 |
+| [If You Need It](https://open.spotify.com/track/2FmgezLhvhjzbRm3exe5bS) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [If You Need It](https://open.spotify.com/album/1yEIIrX2mJQrhyYXGhPEMV) | 4:14 | 2022-05-26 |  |
 | [Imaginary Fire \- feat\. Greg Puciato](https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi) | [Imaginary Fire](https://open.spotify.com/album/0ZpAiTmi2EpqUqKYlWkfAx) | 4:21 | 2022-01-27 | 2022-02-04 |
 | [Imma Stunt](https://open.spotify.com/track/3vZmC8oq2B3mp9kVfIcXr1) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Imma Stunt](https://open.spotify.com/album/2JRIfmjUa8aU6MLLlahL52) | 2:11 | 2022-05-12 | 2022-05-20 |
 | [In Our Blood](https://open.spotify.com/track/11xnkwLIlmeUOEUXH61i5q) | [Redlight King](https://open.spotify.com/artist/6hha7AM7ao3kNpN0VwOXgD) | [In Our Blood](https://open.spotify.com/album/71ZgYmzzx0VBt7GUBHHlQJ) | 3:41 | 2022-05-05 | 2022-05-13 |

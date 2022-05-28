@@ -582,6 +582,24 @@
     },
     {
       "album": {
+        "name": "I Can't Even Drink Straight",
+        "url": "https://open.spotify.com/album/3HAnMO7pzNRKMuTU2U99VD"
+      },
+      "artists": [
+        {
+          "name": "Mario Flores",
+          "url": "https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206560,
+      "name": "I Can't Even Drink Straight",
+      "url": "https://open.spotify.com/track/07hSFiKCVTEOxjRn5agBkS"
+    },
+    {
+      "album": {
         "name": "I Want It All",
         "url": "https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X"
       },

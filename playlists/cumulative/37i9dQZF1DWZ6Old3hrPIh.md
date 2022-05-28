@@ -4,7 +4,7 @@
 
 > Presenting the queens of Coke Studio Pakistan\. Cover: Arooj Aftab
 
-58 songs - 6 hr 34 min - not published yet
+58 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/5OPuv8t0U96mr43jJvOFgd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

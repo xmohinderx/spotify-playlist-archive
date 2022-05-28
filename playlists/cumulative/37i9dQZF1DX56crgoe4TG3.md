@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-115 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
+117 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Summer's End](https://open.spotify.com/track/03aaUI9oLXdo9TRAvKy62T) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Summer's End](https://open.spotify.com/album/5zgTm1cISmkEXTC6Vo2IYH) | 3:48 | 2021-08-20 |  |
 | [Superstition](https://open.spotify.com/track/3TXIXYKb8c6Lj6v7TcU0gB) | [Old School Freight Train](https://open.spotify.com/artist/2BNbKeVVXrlJcwyh9Se4ov) | [Run](https://open.spotify.com/album/32VCMTj1IgIsP9UqsOKKeC) | 3:21 | 2021-08-20 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [The Bluegrass Tribute to Guns N' Roses](https://open.spotify.com/album/1H1Flaszhxw2xhynLotNCN) | 4:01 | 2021-08-20 |  |
+| [Take Me Home, Country Roads](https://open.spotify.com/track/6b5vrTPZKmnDgvf3URdOOe) | [Southern Raised](https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH) | [Take Me Home, Country Roads](https://open.spotify.com/album/1mYzbWj0oTiGfhslwKprO4) | 3:39 | 2022-05-27 |  |
 | [Take On Me](https://open.spotify.com/track/6xAdFwLNed6786FezhUMVS) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits Vol\. 2](https://open.spotify.com/album/2WcSVdRwyvMHAnZKq0FvdE) | 3:44 | 2021-08-20 |  |
 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/5sqhKYHmQSGmGWzrgyL2nc) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Traveler](https://open.spotify.com/album/0aa0FrL0JlVE7MMgszjYvP) | 4:05 | 2022-01-21 |  |
 | [The Boys of Summer](https://open.spotify.com/track/4q7wdKi7TnNdx4zA9MVLP7) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Mixtape](https://open.spotify.com/album/7c56Fm3gKUmD0HYm2PvvRN) | 5:10 | 2021-08-20 |  |
@@ -119,6 +120,7 @@
 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 | 2021-08-20 |  |
 | [Wild Horses](https://open.spotify.com/track/4xMmjrefx4NlEOHfGu3EQf) | [Old & In The Way](https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh) | [Breakdown](https://open.spotify.com/album/1gWmSLQFKaP2CkxxZZXMg7) | 4:38 | 2021-08-20 |  |
 | [Wildflowers](https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wildflowers](https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs) | 2:48 | 2021-08-20 |  |
+| [Wildwood Flower](https://open.spotify.com/track/3xckzvp58eFYnM7HEHSjMi) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [True Bluegrass Instrumentals](https://open.spotify.com/album/6cwdLgLSa2CgKtRwvKZzDd) | 3:04 | 2022-05-27 |  |
 | [Will The Circle Be Unbroken](https://open.spotify.com/track/0UiDKWjgZNmO4XAqUq4YwR) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Will The Circle Be Unbroken](https://open.spotify.com/album/5Vp7FdPMarEESivkc6xaSD) | 3:55 | 2022-03-04 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/3gg5FHI5j0FjXrEk6jO71Y) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [You Are My Sunshine](https://open.spotify.com/album/7hyMzALTKSgT2XN2qc9lvD) | 3:20 | 2022-01-07 |  |
 | [You're Not Sorry](https://open.spotify.com/track/61XUS0rxs5k6H0mtgAWKnm) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [Pickin on Taylor Swift's You're Not Sorry](https://open.spotify.com/album/0yEX6GYCqi5Kfc6zxJbKLY) | 3:42 | 2021-08-20 |  |

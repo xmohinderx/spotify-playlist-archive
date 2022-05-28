@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Agua Bella",
   "name": "Cumbias de Oro",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5GjAZyTyn8IndSL0yMdeQa"
+  ],
   "tracks": [
     {
       "album": {
@@ -25,7 +27,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 215344,
       "name": "Amor a Primera Vista",
       "url": "https://open.spotify.com/track/3HdmvjU85zNE1vgrzy3pPp"
@@ -47,6 +49,24 @@
       "duration_ms": 192922,
       "name": "Amor Incomparable",
       "url": "https://open.spotify.com/track/2rDl3wOeXZF6upPLD94Ah9"
+    },
+    {
+      "album": {
+        "name": "Vol. 11: Amor Prohibido",
+        "url": "https://open.spotify.com/album/39Mr4G9fWujU9CIlMoPlPW"
+      },
+      "artists": [
+        {
+          "name": "Agua Marina",
+          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213826,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/2SOWAjUzwv0xbSaMx7j522"
     },
     {
       "album": {
@@ -86,6 +106,24 @@
     },
     {
       "album": {
+        "name": "Teatro Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/4ZtxnbQnTZCkmdELHPmebJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo 5",
+          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219951,
+      "name": "Cambio Mi Coraz\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/0C7Uv6gVlrdXTZTVi8Yal2"
+    },
+    {
+      "album": {
         "name": "Amor de Estudiante",
         "url": "https://open.spotify.com/album/0ti5xGT8I0efMsFbVBw7if"
       },
@@ -97,7 +135,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 326453,
       "name": "Cervecero",
       "url": "https://open.spotify.com/track/4mdkLjfCwdVNZZD8jrtqQJ"
@@ -159,7 +197,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 178626,
       "name": "Con Tinta Roja",
       "url": "https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3"
@@ -217,7 +255,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 243461,
       "name": "Cuerpo de Sirena",
       "url": "https://open.spotify.com/track/0fonkCX3RL2T4Drh4BFeIX"
@@ -347,7 +385,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 215333,
       "name": "El Arbolito",
       "url": "https://open.spotify.com/track/3aJQuNjwNNPnSzoajeuNvQ"
@@ -383,7 +421,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 223948,
       "name": "El Ritmo de Mi Corazon",
       "url": "https://open.spotify.com/track/2RFMVm8ox1fX27BJLFhvLz"
@@ -423,7 +461,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 246538,
       "name": "Falso Amor",
       "url": "https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa"
@@ -603,7 +641,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 221360,
       "name": "Me Emborrachar\u00e9",
       "url": "https://open.spotify.com/track/0n4QVxj2AXGpdn1RhUSo9K"
@@ -661,7 +699,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 195696,
       "name": "Mi Carin\u0303ito",
       "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
@@ -683,6 +721,24 @@
       "duration_ms": 300016,
       "name": "Mix: Pimpinela",
       "url": "https://open.spotify.com/track/1PzXI9Gm4u1ktAhdWpMhLS"
+    },
+    {
+      "album": {
+        "name": "Motor Y Motivo",
+        "url": "https://open.spotify.com/album/69585tYHxNAZVvA9X1VwhK"
+      },
+      "artists": [
+        {
+          "name": "Grupo 5",
+          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195883,
+      "name": "Motor Y Motivo",
+      "url": "https://open.spotify.com/track/2yjHvbMtfyoXXJYpsR3rYP"
     },
     {
       "album": {
@@ -794,6 +850,50 @@
     },
     {
       "album": {
+        "name": "Pecadora 2020 (Versi\u00f3n Cumbia)",
+        "url": "https://open.spotify.com/album/7GIrQUCOrL7BKz2StdGcRc"
+      },
+      "artists": [
+        {
+          "name": "Deyvis Orosco",
+          "url": "https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV"
+        },
+        {
+          "name": "Johnny Orosco",
+          "url": "https://open.spotify.com/artist/4ghTBFu8toXHUUVNtLILX0"
+        },
+        {
+          "name": "Grupo Nectar",
+          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219979,
+      "name": "Pecadora 2020 - Versi\u00f3n Cumbia",
+      "url": "https://open.spotify.com/track/1Y1FQQETtjQ6mGQPNSn4TS"
+    },
+    {
+      "album": {
+        "name": "Homenaje a Nuestra Kumbia",
+        "url": "https://open.spotify.com/album/54h1Hyt6Z2LvQ6r1W4gfbW"
+      },
+      "artists": [
+        {
+          "name": "Tommy Portugal",
+          "url": "https://open.spotify.com/artist/1kymA1IcM9xoorQ2u0rD1i"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227439,
+      "name": "Pedacito de Mi Vida",
+      "url": "https://open.spotify.com/track/4un5KOE0xkfuDvgA8QaWWX"
+    },
+    {
+      "album": {
         "name": "Vol. 18 Directo al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7giY5mFhHvfoCzEVLMkqje"
       },
@@ -805,7 +905,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 213681,
       "name": "Pensando en ti",
       "url": "https://open.spotify.com/track/6bK5l5leEL9F6Q8Vyf1Id3"
@@ -1003,7 +1103,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 277296,
       "name": "Te burlaste de mi",
       "url": "https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg"
@@ -1039,7 +1139,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 231680,
       "name": "Tres cruces",
       "url": "https://open.spotify.com/track/5ZpvU9WPs6hIiYDkrNyLQN"
@@ -1075,7 +1175,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 234880,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/4G86bT5to8PnOEr93SsYjR"

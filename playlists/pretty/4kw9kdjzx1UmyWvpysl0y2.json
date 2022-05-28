@@ -1,13 +1,57 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128379,
+  "num_followers": 128377,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQyNyxmZDUyMGYwNTY4MDZmZGZlNGI5ZWZmNThjY2I4ZmQ5OTA2MDQzNWEx",
+  "snapshot_id": "MzQzMSxmODI4MDQ4ZjZmNWRkM2ExNjUxZTI4YjllZjUxZDgwZmNmZjJjOGZm",
   "tracks": [
+    {
+      "added_at": "2022-05-27 18:47:05",
+      "album": {
+        "name": "Keep On Dancing",
+        "url": "https://open.spotify.com/album/5vgbksNHdjfxpqjY3zQGKi"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "Heleen",
+          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
+        }
+      ],
+      "duration_ms": 148941,
+      "name": "Keep On Dancing",
+      "url": "https://open.spotify.com/track/3p1DrvZRj9NTondCwlxbut"
+    },
+    {
+      "added_at": "2022-05-27 18:46:29",
+      "album": {
+        "name": "The Light (The Remixes)",
+        "url": "https://open.spotify.com/album/3LJ9fh5loPde5YZJ6J48Sv"
+      },
+      "artists": [
+        {
+          "name": "Vintage & Morelli",
+          "url": "https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0"
+        },
+        {
+          "name": "Arielle Maren",
+          "url": "https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV"
+        },
+        {
+          "name": "Flexible Fire",
+          "url": "https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "The Light - Flexible Fire Remix",
+      "url": "https://open.spotify.com/track/4KMniGiobJ09rCP1rJhyB1"
+    },
     {
       "added_at": "2022-05-26 17:37:44",
       "album": {
@@ -1039,46 +1083,6 @@
       "duration_ms": 249500,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/77vrwV62LCLmun3GIcC4og"
-    },
-    {
-      "added_at": "2022-03-17 15:03:34",
-      "album": {
-        "name": "Space Boy",
-        "url": "https://open.spotify.com/album/577vK0xFStmdlV3ggukLmZ"
-      },
-      "artists": [
-        {
-          "name": "Rameses B",
-          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
-        },
-        {
-          "name": "Feint",
-          "url": "https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU"
-        },
-        {
-          "name": "Veela",
-          "url": "https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR"
-        }
-      ],
-      "duration_ms": 207931,
-      "name": "Space Boy",
-      "url": "https://open.spotify.com/track/15fhccPHabcXcrmIxKFHum"
-    },
-    {
-      "added_at": "2022-03-16 16:01:33",
-      "album": {
-        "name": "As I Wander",
-        "url": "https://open.spotify.com/album/4vimkzGnMvAaGc1eqtzx2u"
-      },
-      "artists": [
-        {
-          "name": "Elypsis",
-          "url": "https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "As I Wander",
-      "url": "https://open.spotify.com/track/4z9xtib1MazaujgJmSBxUB"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

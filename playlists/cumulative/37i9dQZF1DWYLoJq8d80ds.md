@@ -2,9 +2,9 @@
 
 ### [Lunas de Folklore](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
-> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Sele Vera y Los Pampas.
+> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: AHYRE.
 
-100 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
+101 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [La Tristecita / Zamba del Pañuelo / Zamba del Carbonero / Guitarra de Medianoche / Zamba del Carpintero / Recuerdo Salteño / Tonada del Viejo Amor / Mi Burrito Cordobés](https://open.spotify.com/track/0FnxmC5vhA5ZbwUDp31rPS) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [La Tristecita / Zamba del Pañuelo / Zamba del Carbonero / Guitarra de Medianoche / Zamba del Carpintero / Recuerdo Salteño / Tonada del Viejo Amor / Mi Burrito Cordobés](https://open.spotify.com/album/6BklSuHFveWjhIstl8lTS7) | 11:44 | 2021-12-31 |  |
 | [La Valeria](https://open.spotify.com/track/7Besg1YcPga8EJ02iLgdPu) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Valeria](https://open.spotify.com/album/6De88pg9PiStK2WQlaISGx) | 3:57 | 2021-12-31 |  |
 | [La Vieja](https://open.spotify.com/track/4oejqv8BCJUzPVQqovgiZs) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Salta en Mi Sangre](https://open.spotify.com/album/19MVmmIUyeUqFFBV3b0A8s) | 2:07 | 2021-12-31 |  |
+| [Las Ideas](https://open.spotify.com/track/6Xh9pqCul56QqMylyS2agb) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Las Ideas](https://open.spotify.com/album/6F7O6j8zpyVM0ARSOctBJW) | 3:54 | 2022-05-27 |  |
 | [Las Moras](https://open.spotify.com/track/4aFcSioY14fDCLAxOUrfUf) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Con el Alma \(Sesiones 2020\)](https://open.spotify.com/album/3ZFER51zrslR8BjOl5TZzx) | 2:36 | 2021-12-31 |  |
 | [Lavandera](https://open.spotify.com/track/7dELogj4xgs0lpF7v5WjuO) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Lavandera](https://open.spotify.com/album/3sKyCsmSmikXVchbnC0O97) | 2:50 | 2021-12-31 |  |
 | [Lluvia](https://open.spotify.com/track/2zXCMzkxg9I22SekbZkqpu) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba López \- Los Tekis](https://open.spotify.com/artist/0BpzekgdnoRolRWdVMpmwU) | [Lluvia](https://open.spotify.com/album/49Kt3SVzNgNmYL2vqyXZrv) | 3:32 | 2021-12-31 |  |
@@ -94,7 +95,7 @@
 | [Tan Tristes](https://open.spotify.com/track/2APdoYXRww4qRJMxCpy6As) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [Dos](https://open.spotify.com/album/5IV37ig5dBAwPKGkvbx6iX) | 3:05 | 2021-12-31 |  |
 | [Tanto Amor](https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S) | [Sele Vera y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Tanto Amor](https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5) | 3:46 | 2022-05-13 |  |
 | [Tanto Amor](https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Tanto Amor](https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL) | 2:42 | 2022-03-18 |  |
-| [Todo Todo](https://open.spotify.com/track/12JymUNRIQZbyS9XIBvuk8) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc), [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Todo Todo](https://open.spotify.com/album/6ynX5vIZwYbx3h5PEzs3GG) | 3:41 | 2021-12-31 |  |
+| [Todo Todo](https://open.spotify.com/track/12JymUNRIQZbyS9XIBvuk8) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc), [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Todo Todo](https://open.spotify.com/album/6ynX5vIZwYbx3h5PEzs3GG) | 3:41 | 2021-12-31 | 2022-05-28 |
 | [Todos a bailar \- Feat\. Los Carabajal & Leandro Lovato](https://open.spotify.com/track/50GrKcRst0KzdkUeO08r34) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq), [Los Carabajal & Leandro Lovato](https://open.spotify.com/artist/4Eaf2pySnX1znhdnLpmJQi) | [Todos a bailar \(Feat\. Los Carabajal & Leandro Lovato\)](https://open.spotify.com/album/3Hn9aFx7d6Gon6TPDNvKXa) | 2:20 | 2021-12-31 |  |
 | [Tu Memoria y Tu Mañana](https://open.spotify.com/track/30pAChoAMZihgDJhUaDR7N) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [La Niña de los Andamios](https://open.spotify.com/album/1BfmPrhw2FwVfd45GYrJPI) | 3:43 | 2021-12-31 |  |
 | [Un Beso Tuyo](https://open.spotify.com/track/319Gag1zq0amHN4APzdts7) | [Cóndor Sbarbati](https://open.spotify.com/artist/6MR2IdgCSFxDvRvD0SNDZz), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Rabia al Silencio](https://open.spotify.com/album/42NfSPhQ0xfPcxPt3Ie4wR) | 3:36 | 2021-12-31 |  |

@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
@@ -3213,7 +3213,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 204933,
       "name": "Dreams Come True",
       "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
@@ -5651,7 +5651,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 139971,
       "name": "Intro: Serendipity",
       "url": "https://open.spotify.com/track/61RvEx7GLYRHQhG7ldjJo1"
@@ -8629,6 +8629,24 @@
       "duration_ms": 177976,
       "name": "Opening Sequence",
       "url": "https://open.spotify.com/track/1exxGxUMlJWD1h9YcE9YZH"
+    },
+    {
+      "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207386,
+      "name": "Our Blues, Our Life",
+      "url": "https://open.spotify.com/track/0E5HSVbQI8O17Ez9wirh1c"
     },
     {
       "album": {

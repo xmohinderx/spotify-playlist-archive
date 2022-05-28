@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Tim Bernardes",
+  "description": "Novidades e destaques do indie nacional. Foto: PLUMA, Boogarins",
   "name": "Indie Brasil",
   "published_playlist_ids": [
     "6JgS0nFYvZfSw5mDRlDbjL"
@@ -1508,6 +1508,24 @@
     },
     {
       "album": {
+        "name": "Let's Do It All Again",
+        "url": "https://open.spotify.com/album/4ApqIkbwlIRlpeUdChTu0B"
+      },
+      "artists": [
+        {
+          "name": "Moons",
+          "url": "https://open.spotify.com/artist/5KokGIQH9RETtCjw72hAt0"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397909,
+      "name": "Let's Do It All Again",
+      "url": "https://open.spotify.com/track/4JagVYqLNcy8n8Wh5Pd8cr"
+    },
+    {
+      "album": {
         "name": "Lia",
         "url": "https://open.spotify.com/album/45yv7cwCF6mQHYtYYLWkzR"
       },
@@ -2532,6 +2550,28 @@
     },
     {
       "album": {
+        "name": "Querer Nunca Fez Planos",
+        "url": "https://open.spotify.com/album/6JrS5ydirAAPoXipEYqD6I"
+      },
+      "artists": [
+        {
+          "name": "PLUMA",
+          "url": "https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb"
+        },
+        {
+          "name": "Boogarins",
+          "url": "https://open.spotify.com/artist/0ohvsn0lgt51qZUbu9ct4s"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217045,
+      "name": "Querer Nunca Fez Planos",
+      "url": "https://open.spotify.com/track/2XEuJHY9Ak80QwI1BVhmMa"
+    },
+    {
+      "album": {
         "name": "Instinto",
         "url": "https://open.spotify.com/album/2LbTR9Dz0YpMrrBAoGJEIl"
       },
@@ -3027,6 +3067,24 @@
       "duration_ms": 353653,
       "name": "Teor\u00eda del Cuerpo Enamorado",
       "url": "https://open.spotify.com/track/7gWgcXWm8nQC8FsBiQiJIM"
+    },
+    {
+      "album": {
+        "name": "Terra do Nunca Mais",
+        "url": "https://open.spotify.com/album/1Rr0PEUvVShXE5eXbYFaOT"
+      },
+      "artists": [
+        {
+          "name": "Bratislava",
+          "url": "https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216373,
+      "name": "Terra do Nunca Mais",
+      "url": "https://open.spotify.com/track/7iBR8wrrllEI9BbU98zs4y"
     },
     {
       "album": {

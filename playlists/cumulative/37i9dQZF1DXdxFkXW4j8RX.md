@@ -2,9 +2,9 @@
 
 ### [Rap Chileno](https://open.spotify.com/playlist/37i9dQZF1DXdxFkXW4j8RX)
 
-> La casa de lxs MC's\. Foto: Bubaseta & Aerstame.
+> La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-109 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/3f2UzVfRrTk3AGf7wEehR9)
+110 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/3f2UzVfRrTk3AGf7wEehR9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Free Estilo](https://open.spotify.com/track/6OUKfmBx6qSQTEVlTRYa6I) | [Delta Mc](https://open.spotify.com/artist/0FY3A8vJJrTfxjewibFd4s), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Emci Naus](https://open.spotify.com/artist/0O0LqgXyHlKemfqZ5Q70DE) | [Free Estilo](https://open.spotify.com/album/7CZfgBJCyv3jLYWqjEtImr) | 4:20 | 2022-01-06 |  |
 | [Fumando Maria](https://open.spotify.com/track/31fb0ZiCtYYM29LhVNV2VX) | [Omega El CTM](https://open.spotify.com/artist/0tXcalxqLUWMRZVfj1xtkP), [maginboo](https://open.spotify.com/artist/6Uoz8MU56AED9dg1Db8A6x) | [Fumando Maria](https://open.spotify.com/album/01c5VblvdMkM2A1RQtLvvM) | 3:38 | 2022-01-06 | 2022-03-12 |
 | [Fyah Burning](https://open.spotify.com/track/6pxe6p0xDp4aolVHj2YPtq) | [Subwoffer](https://open.spotify.com/artist/0Qsv4mPm5fOiJ6nOFxtZLm), [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik) | [Fyah Burning](https://open.spotify.com/album/4smLpPASulazjBp7h24g9a) | 3:09 | 2022-01-06 |  |
+| [Fénix](https://open.spotify.com/track/3iZ0WTik4dDAdeeG4PUZtl) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [Fénix \(Vol.1\)](https://open.spotify.com/album/4q2ZbgZ2tR0g0B0QnQOwse) | 2:46 | 2022-05-27 |  |
 | [Grizzy Bars](https://open.spotify.com/track/6V5j8J5zyOm9mi9EkKWNy3) | [Gronex](https://open.spotify.com/artist/055fOIKrbtC2UmnVrPfGPb), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Grizzy Bars](https://open.spotify.com/album/20wBttryP3cBIeatZX7coS) | 2:05 | 2022-01-06 |  |
 | [Hiphappy](https://open.spotify.com/track/22BoJ4mWZf7bQlABPYB4kV) | [El Shaaki](https://open.spotify.com/artist/2ZCkSpm5VDWVqcO0DZJ7mu), [Nitro MC](https://open.spotify.com/artist/6fIgIbebL9YH2ZdRxur04y), [Donexprs](https://open.spotify.com/artist/6pAMH90rLFZxt5Vs5gVaCl), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Lechero Mon](https://open.spotify.com/artist/5M9hvwevD5Aax121KCeKPd), [jimmy Fernadez](https://open.spotify.com/artist/78it7sczSSgSpDpioT9yH4), [Gedos](https://open.spotify.com/artist/2OctHyTM4ghQ8WA2cB1cRQ), [Crea BeatBox](https://open.spotify.com/artist/3KEeL8NSu8EWRVzBqqhiny), [Sponer](https://open.spotify.com/artist/4m9HAF7gjrUC5WvteEXQQ3), [Delaion](https://open.spotify.com/artist/7C1eh6jI2XCPtdFA1OLXtp) | [Hiphappy](https://open.spotify.com/album/4UwWyWAOf2d4MFLqYzRsPX) | 6:31 | 2022-01-06 |  |
 | [Huye](https://open.spotify.com/track/2HpEtU1HAOetDoDkLNkdCx) | [Adickta Sinfonía](https://open.spotify.com/artist/3McbjZPGQECT5OMujemGpi) | [Huye](https://open.spotify.com/album/0Hjry0maGnxtxHIcU5A5TF) | 4:15 | 2022-05-23 |  |
@@ -70,7 +71,7 @@
 | [No Verán](https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [No Verán](https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK) | 3:25 | 2022-03-04 |  |
 | [Nuevo Comienzo \(feat\. Portavoz\)](https://open.spotify.com/track/6drA4it4HPdsCBY0zYQDkz) | [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Pasado, Presente & Libertad](https://open.spotify.com/album/5x6g1bPnTmQyHdCTczPfjA) | 3:15 | 2022-01-06 |  |
 | [Ofrenda](https://open.spotify.com/track/0OgxjdHjIUcMxOkhNz44HB) | [Hijos de las Hojas](https://open.spotify.com/artist/6isvSCaUPeMinPzcY5LtBM), [Nicolas Libertad](https://open.spotify.com/artist/4Zohwfh3tPyL3X3baHjKDc) | [Ofrenda](https://open.spotify.com/album/0u7Ce6HijZZtWbiPYzD1qa) | 3:04 | 2022-01-06 |  |
-| [Pa' Fuera](https://open.spotify.com/track/1L3OEVpGb2qGPbT07k4ivC) | [Mamborap](https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0), [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0) | [Pa' Fuera](https://open.spotify.com/album/1NJm2Pw1zGtU7gDtXMv0h6) | 2:59 | 2022-01-06 |  |
+| [Pa' Fuera](https://open.spotify.com/track/1L3OEVpGb2qGPbT07k4ivC) | [Mamborap](https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0), [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0) | [Pa' Fuera](https://open.spotify.com/album/1NJm2Pw1zGtU7gDtXMv0h6) | 2:59 | 2022-01-06 | 2022-05-28 |
 | [PEGAJOSA](https://open.spotify.com/track/4dbofhaRxUn04twBfQWtXk) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Los Reyes Del Parque](https://open.spotify.com/artist/1b7hyZ1cAfabiMqIx72gzR) | [PEGAJOSA](https://open.spotify.com/album/7bJ3lXlq4EVFUf2ZJjzuBf) | 1:33 | 2022-05-23 |  |
 | [Phiesta](https://open.spotify.com/track/0Mm0wQVuoZQRPFDo4hgFW7) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Phiesta](https://open.spotify.com/album/1N8qdQjaioKfCtIwkXcrds) | 3:19 | 2022-03-11 |  |
 | [Pirámide](https://open.spotify.com/track/2clbY1AetLbDnE8krCUfm3) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Raymond Daniel](https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB) | [Pirámide](https://open.spotify.com/album/0v7ZTYdFqPFKBOhsJi61vS) | 3:57 | 2022-01-06 |  |

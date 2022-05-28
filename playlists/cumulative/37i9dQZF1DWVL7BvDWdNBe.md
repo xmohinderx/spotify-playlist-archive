@@ -4,7 +4,7 @@
 
 > Dance & jive to the biggest hits of Elvis Presley.
 
-35 songs - 1 hr 22 min - not published yet
+35 songs - 1 hr 22 min - [published](https://open.spotify.com/playlist/2TQZzsNBQzRAmwWsHDz9nl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

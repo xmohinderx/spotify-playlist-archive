@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 173688,
       "name": "Alaska Blue",
       "url": "https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 263999,
       "name": "Death Letter",
       "url": "https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 169039,
       "name": "Detroit Blues",
       "url": "https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 203453,
       "name": "Down in Mississippi",
       "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 215662,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 141066,
       "name": "Focus (Rosie's Theme)",
       "url": "https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 155319,
       "name": "Hurt Me",
       "url": "https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 264386,
       "name": "Lake Shore Drive (Slight Return)",
       "url": "https://open.spotify.com/track/32CfhB8FPrlOqkfsP9v4pi"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 152106,
       "name": "Lonely Days",
       "url": "https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 245026,
       "name": "Long Nights I",
       "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 303946,
       "name": "Natural West",
       "url": "https://open.spotify.com/track/2REcTot6y6qEgp5uDQDW06"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 983850,
       "name": "Seasonal Hire",
       "url": "https://open.spotify.com/track/4F3TIQlYKTQO0kCyTsrTk3"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 171480,
       "name": "Shadrach",
       "url": "https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia"
@@ -1126,6 +1126,24 @@
     },
     {
       "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231706,
+      "name": "The Drifter Blues",
+      "url": "https://open.spotify.com/track/7xYH9C4xkI1xIW4Juq5bf6"
+    },
+    {
+      "album": {
         "name": "A Savage Life",
         "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
@@ -1155,10 +1173,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 288626,
       "name": "There Is a Place in This Old Town",
       "url": "https://open.spotify.com/track/3s6SkrBG4hBEZ0t1XpyXz7"
+    },
+    {
+      "album": {
+        "name": "Guitar & Bass - Robert Johnson",
+        "url": "https://open.spotify.com/album/1tcgO7FxYVzOlPAzDfOE3a"
+      },
+      "artists": [
+        {
+          "name": "Robert Johnson",
+          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176826,
+      "name": "They're Red Hot",
+      "url": "https://open.spotify.com/track/4AtJLGEdKSrhkncXGbF73S"
     },
     {
       "album": {

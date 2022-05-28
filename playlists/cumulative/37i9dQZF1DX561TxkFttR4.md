@@ -4,7 +4,7 @@
 
 > Soothing, soft piano.
 
-186 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/4eLccPUZOHW6eZhftpmYAZ)
+188 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/4eLccPUZOHW6eZhftpmYAZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Calm after the storm](https://open.spotify.com/track/1ypujsdkhMUsHjmwxuP0N0) | [Jacco Wynia](https://open.spotify.com/artist/2eECDzEtWx8eIi22B4rCAn) | [Calm after the storm](https://open.spotify.com/album/59Lzmoah7BvOvrQZyYEV1f) | 6:53 | 2022-02-04 | 2022-05-20 |
 | [Children's Corner, L\. 113: 4\. The Snow Is Dancing \- Arr\. By Marina Baranova](https://open.spotify.com/track/5TliBUAEeZ05EoW2c6B3L0) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Marina Baranova](https://open.spotify.com/artist/01nevKNRkYwwRvEkA2LUQi) | [Children's Corner, L\. 113: 4\. The Snow Is Dancing \(Arr\. By Marina Baranova\)](https://open.spotify.com/album/4LdklDCXevOTVadqh3ubCc) | 4:25 | 2019-04-17 | 2022-02-05 |
 | [Circles](https://open.spotify.com/track/53vH1IBC1SNk7ulygskodN) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [To Move](https://open.spotify.com/album/3SnAkEAO59EWLowYxQCnq5) | 6:46 | 2019-04-17 | 2022-02-05 |
+| [Col](https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8) | [Col](https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP) | 2:22 | 2022-05-27 |  |
 | [Dagdraumur](https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Bylur](https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7) | 3:07 | 2022-02-04 |  |
 | [Day By Night](https://open.spotify.com/track/384eYyOynND7na6uO4Bi5T) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [To Move](https://open.spotify.com/album/3SnAkEAO59EWLowYxQCnq5) | 3:25 | 2019-04-17 | 2022-02-05 |
 | [Diamond Music](https://open.spotify.com/track/7vMYlYEwHJzoty4G6rk1Sy) | [Tim Neumark](https://open.spotify.com/artist/1gMahg1KJ2Jtco7DOfjlwN) | [Biography \- Solo Piano](https://open.spotify.com/album/7bn4mVvun1woWQzt3KtXw2) | 3:51 | 2019-04-17 | 2022-02-05 |
@@ -164,6 +165,7 @@
 | [Sway](https://open.spotify.com/track/1LQsAMbRfl2644biYjwHhz) | [Józef Gatysik](https://open.spotify.com/artist/4k0n9qZSgE1HVExw9b2T9j) | [Sway](https://open.spotify.com/album/6FjhiU3DOCOdhcM0Qxhddz) | 2:42 | 2019-04-17 | 2022-02-05 |
 | [Sway, Sway](https://open.spotify.com/track/6Xtb1w2ooURsLUa4cBvyRt) | [Heinali](https://open.spotify.com/artist/5v5c1zBRKBwkDh4sQEHcMx) | [Sway, Sway](https://open.spotify.com/album/3K2GhlqkmJNjeYeyCBZ3bW) | 4:53 | 2019-04-17 | 2022-02-05 |
 | [Talisman Stallion](https://open.spotify.com/track/1e3JUGxqyfe94XBFnWdP11) | [Bela Nemeth](https://open.spotify.com/artist/53y0Ghe3FgBnguwmI68OWT) | [Talisman Stallion](https://open.spotify.com/album/6BdLUE4WOmMfuin04hs4e4) | 2:00 | 2019-04-17 | 2022-02-05 |
+| [The First Birds](https://open.spotify.com/track/62MYibnXmO1JRChxsrxPRo) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [The First Birds](https://open.spotify.com/album/3SDysaULh6UYkxZncYmDES) | 2:16 | 2022-05-27 |  |
 | [The Gift](https://open.spotify.com/track/0aNwdVJmeq9CSCEPsyCvXP) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Prehension](https://open.spotify.com/album/4IrmlNwO8aXQlFghPYl01q) | 3:45 | 2019-04-17 | 2022-02-05 |
 | [The Hours \- The Hours \- Arr\. for cello and piano by Bruno Fontaine: The poet acts](https://open.spotify.com/track/5YyDbEtxo2CvcjBuUiJIzJ) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Henri Demarquette](https://open.spotify.com/artist/2tStHB1uFmqhQM687bmnDq), [Vanessa Benelli Mosell](https://open.spotify.com/artist/38mceDz890rw1ci5pcTyk5) | [Echoes](https://open.spotify.com/album/1hQnoCT80F6YIUPVmWInrt) | 3:44 | 2019-04-17 | 2022-02-05 |
 | [The New Life](https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The New Life](https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb) | 2:18 | 2022-05-13 |  |

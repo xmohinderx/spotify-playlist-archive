@@ -4,7 +4,7 @@
 
 > This is Zona Ganjah\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 23 min - not published yet
+55 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/6LOCledbXe3ahQT3AL4ftS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [En la naturaleza](https://open.spotify.com/track/7KM07uVWpOtSqwzvZfgZ73) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 3:29 | 2022-05-26 |  |
 | [En Zion mi anhelo](https://open.spotify.com/track/2DtKSErB8T984w0XGfSGIr) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/6zkr5NOO12d8ncJreiviA6) | 4:16 | 2022-05-25 |  |
 | [Es Ignorancia](https://open.spotify.com/track/2VpS3jSmRQRx8jprvjz9qM) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 3:04 | 2022-05-25 |  |
-| [Esa luz](https://open.spotify.com/track/7oybXXuWUzWRZ7SP9swASq) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t) | 3:03 | 2022-05-25 |  |
+| [Esa luz](https://open.spotify.com/track/7oybXXuWUzWRZ7SP9swASq) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t) | 3:03 | 2022-05-25 | 2022-05-28 |
 | [Estoy bien](https://open.spotify.com/track/3t6qVkQq25yy44BjjsMbUD) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/0eWRk2qoyQ3YSbdC6Uff8o) | 5:34 | 2022-05-25 |  |
 | [Expandiendo fuera de mi](https://open.spotify.com/track/66QJl19thUEzJORuX01lCV) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 2:46 | 2022-05-25 |  |
 | [Fuma del humo y sana](https://open.spotify.com/track/5EmRwcbzzhuB2OpHizoSPz) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 4:01 | 2022-05-25 | 2022-05-27 |
@@ -47,6 +47,7 @@
 | [Música consciente](https://open.spotify.com/track/5QDBaPPTjNuNwRrRA86Yi1) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/6zkr5NOO12d8ncJreiviA6) | 2:42 | 2022-05-25 |  |
 | [Ninguna como ella](https://open.spotify.com/track/18FaacFipwJJzBQaH9M4XM) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/0eWRk2qoyQ3YSbdC6Uff8o) | 4:48 | 2022-05-25 |  |
 | [No estes triste](https://open.spotify.com/track/2bAE47QK208a6EAv8YIUIf) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 3:58 | 2022-05-25 | 2022-05-27 |
+| [No existen fronteras](https://open.spotify.com/track/16bxK01sjphWvfyqX6x19L) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:00 | 2022-05-27 |  |
 | [No más guerra](https://open.spotify.com/track/2Lc8L8AgySC2tFfNIjDSji) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 2:50 | 2022-05-25 |  |
 | [Por lo que obtuve](https://open.spotify.com/track/01ernt9QunzqmKMegy3EQh) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/6zkr5NOO12d8ncJreiviA6) | 2:42 | 2022-05-25 |  |
 | [Qué pasa contigo](https://open.spotify.com/track/4HkR0w45bfzE8ueycZMhCG) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/0eWRk2qoyQ3YSbdC6Uff8o) | 4:20 | 2022-05-25 |  |

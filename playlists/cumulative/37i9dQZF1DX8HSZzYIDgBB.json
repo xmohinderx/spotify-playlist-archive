@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Juanita Euka en portada.",
+  "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Buscabulla en portada.",
   "name": "Indie AlterLatino",
   "published_playlist_ids": [
     "14AX2AOMCBOX7NLvLNkMVH"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 355371,
       "name": "Cigarros y Tragos",
       "url": "https://open.spotify.com/track/0iw2XtkqcydW4BgdsTyH2L"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 257799,
       "name": "Flores de Abril",
       "url": "https://open.spotify.com/track/0QrVadfaRJIApi1dRE1FZL"
@@ -1167,6 +1167,28 @@
       "duration_ms": 256336,
       "name": "La Loba - Trooko Remix",
       "url": "https://open.spotify.com/track/5eFI4a7q8Ln0HDZ0lbIPhr"
+    },
+    {
+      "album": {
+        "name": "la luz(F\u00edn) [Buscabulla Remix]",
+        "url": "https://open.spotify.com/album/02KAzGHL7vMOdxZXKZVzxa"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202482,
+      "name": "la luz(F\u00edn) - Buscabulla Remix",
+      "url": "https://open.spotify.com/track/1QJxM8vOkfCyZP1YNzGjw3"
     },
     {
       "album": {
@@ -1559,7 +1581,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 434400,
       "name": "Ocelote",
       "url": "https://open.spotify.com/track/6oIxxuAvq7K3DqEnDyNHA9"
@@ -2096,6 +2118,24 @@
     },
     {
       "album": {
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168755,
+      "name": "Ta Que Tiembla",
+      "url": "https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw"
+    },
+    {
+      "album": {
         "name": "Tambaleo",
         "url": "https://open.spotify.com/album/75ew1wrifiWmfwjbUcsoiJ"
       },
@@ -2245,6 +2285,24 @@
       "duration_ms": 226960,
       "name": "Tu Color",
       "url": "https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm"
+    },
+    {
+      "album": {
+        "name": "EP II",
+        "url": "https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223482,
+      "name": "T\u00e1rtaro",
+      "url": "https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5"
     },
     {
       "album": {

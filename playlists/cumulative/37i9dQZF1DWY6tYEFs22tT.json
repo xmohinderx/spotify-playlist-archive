@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New music from Post Malone, Roddy Ricch, and French Montana is here!",
+  "description": "New music from Kanye West, XXXTENTACION, and Eminem is here!",
   "name": "Hip-Hop Central",
   "published_playlist_ids": [
     "524c90ob7nnH5efTtaRnrW"
@@ -980,6 +980,28 @@
     },
     {
       "album": {
+        "name": "Cheffin Up",
+        "url": "https://open.spotify.com/album/3fHD8Y5Gu8XCQfplZtL6Du"
+      },
+      "artists": [
+        {
+          "name": "Dj Charlie B",
+          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
+        },
+        {
+          "name": "Da Crook",
+          "url": "https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173723,
+      "name": "Cheffin Up",
+      "url": "https://open.spotify.com/track/2kdWA7SAn6CqVSRCQWyaFT"
+    },
+    {
+      "album": {
         "name": "Chose Me",
         "url": "https://open.spotify.com/album/2r3YZtNY5S5eiHHCwquxuo"
       },
@@ -1225,7 +1247,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 140307,
       "name": "DAMN HOMIE (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/1P3ngSxpsmwSVlnAq4iszK"
@@ -1277,6 +1299,28 @@
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/2lK96FM2S948f6r0zauyY3"
+    },
+    {
+      "album": {
+        "name": "Die Young (feat. 347aidan)",
+        "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148816,
+      "name": "Die Young (feat. 347aidan)",
+      "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
     },
     {
       "album": {
@@ -1691,7 +1735,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 151358,
       "name": "FALLEN STAR (feat. Y2K)",
       "url": "https://open.spotify.com/track/2e3XcLWd1SzB5jlJu53blm"
@@ -2389,7 +2433,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 171254,
       "name": "Hitta (feat. Bobby Shmurda)",
       "url": "https://open.spotify.com/track/4kTdlruEELvYnvMX6XotML"
@@ -2699,7 +2743,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 152182,
       "name": "Ice Cream Dream (feat. French Montana)",
       "url": "https://open.spotify.com/track/1BsZW3NH0aTEc7KMmglYWU"
@@ -2783,6 +2827,24 @@
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
+    },
+    {
+      "album": {
+        "name": "The Eminem Show (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6EzbFdrwvWpnpUjzrR57aU"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201563,
+      "name": "Jimmy, Brian and Mike",
+      "url": "https://open.spotify.com/track/7wtDXxRShBmxJAeXzE4H3p"
     },
     {
       "album": {
@@ -4710,6 +4772,24 @@
     },
     {
       "album": {
+        "name": "See Wat I\u2019m Sayin",
+        "url": "https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146732,
+      "name": "See Wat I\u2019m Sayin",
+      "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
+    },
+    {
+      "album": {
         "name": "Self Made",
         "url": "https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl"
       },
@@ -4743,6 +4823,24 @@
       "duration_ms": 188967,
       "name": "Serial Killers",
       "url": "https://open.spotify.com/track/5KcZNsrl7PMIxJ2xBbTwH3"
+    },
+    {
+      "album": {
+        "name": "Set Up Story Part 1",
+        "url": "https://open.spotify.com/album/2ujkEL9F2W32Sg5GTSvuVI"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169526,
+      "name": "Set Up Story Part 1",
+      "url": "https://open.spotify.com/track/3t6HeF7UPZmdA3DLupbyqJ"
     },
     {
       "album": {
@@ -4919,7 +5017,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 123672,
       "name": "Slut Me Out",
       "url": "https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi"
@@ -4995,7 +5093,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 184730,
       "name": "Speeding",
       "url": "https://open.spotify.com/track/4v0UUSV45rtjYBu3nEZ6Dh"
@@ -5569,7 +5667,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 332228,
       "name": "The Heart Part 5",
       "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
@@ -5868,6 +5966,28 @@
     },
     {
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
+    },
+    {
+      "album": {
         "name": "The Fleur Print (Vol. 2)",
         "url": "https://open.spotify.com/album/47mj6zu9AiNejasZn1Qvou"
       },
@@ -5974,6 +6094,24 @@
     },
     {
       "album": {
+        "name": "Van Hayden",
+        "url": "https://open.spotify.com/album/1hy7VNroMZgy8StQT5qNCB"
+      },
+      "artists": [
+        {
+          "name": "Bankrol Hayden",
+          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170847,
+      "name": "Van Hayden",
+      "url": "https://open.spotify.com/track/3UfpqCUS9euaswAOot4irW"
+    },
+    {
+      "album": {
         "name": "vice city",
         "url": "https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd"
       },
@@ -6077,7 +6215,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 303400,
       "name": "WATERBOYZ (with JID & J. Cole)",
       "url": "https://open.spotify.com/track/1KyXCd04yHni5pMGFwgzuE"
@@ -6199,7 +6337,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 181393,
       "name": "What Happened To Virgil (feat. Gunna)",
       "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
@@ -6283,6 +6421,24 @@
       "duration_ms": 169340,
       "name": "WIN",
       "url": "https://open.spotify.com/track/2P6438nC3xrOGBy9dwMFqK"
+    },
+    {
+      "album": {
+        "name": "Woozie",
+        "url": "https://open.spotify.com/album/1p7sH76jGrSLEAX9UzmCpq"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183898,
+      "name": "Woozie",
+      "url": "https://open.spotify.com/track/2uIukEsbb5yvC3ZK7CWk6G"
     },
     {
       "album": {

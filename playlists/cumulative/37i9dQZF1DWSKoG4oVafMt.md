@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-344 songs - 18 hr 58 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+346 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Impress](https://open.spotify.com/track/1kvnU2nJj0MFzCfvu0guvD) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 2:21 | 2022-01-11 | 2022-02-01 |
 | [Insane](https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Insane](https://open.spotify.com/album/6EaHaUoczRLrDl5uqxSFW3) | 3:26 | 2021-12-02 |  |
 | [ISHQ E PREET](https://open.spotify.com/track/7LHDuxNAVFt7bzxFV5DsUN) | [Muskaan](https://open.spotify.com/artist/26we5UYR3hTABksEFyPg3D), [PARAKH JEET](https://open.spotify.com/artist/3kpI1PU37q14n0ZV7Zhxmq) | [ISHQ E PREET](https://open.spotify.com/album/1eHzzukafLjkNmeQbTyrMp) | 4:07 | 2022-04-15 | 2022-05-11 |
+| [Jaan Jaan \- 1MinMusic](https://open.spotify.com/track/2KFXNEN7blIIIdxK3zOnmx) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Jaan Jaan \- 1MinMusic](https://open.spotify.com/album/2g0KwnXjVtxGs92xhKeZar) | 1:06 | 2022-05-27 |  |
 | [Jaan Te Bani 2](https://open.spotify.com/track/54EZSryDgRSvx3altQXVya) | [Balraj](https://open.spotify.com/artist/198wHm8PoJ6EEKCkOI5kbi), [G Guri](https://open.spotify.com/artist/1wyLADmnHMGhDbTEOcGrwA) | [Jaan Te Bani 2](https://open.spotify.com/album/54ops4MY7c1kfeXZTChFcs) | 4:58 | 2022-03-01 | 2022-03-11 |
 | [Jaane Meriye](https://open.spotify.com/track/4Q9ZQwcObLhWeApFYvTvMo) | [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h), [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5) | [Jaane Meriye](https://open.spotify.com/album/50KN4dXK3fwcTfvAGUyO7Z) | 2:36 | 2022-03-31 | 2022-04-29 |
 | [Jaaneman](https://open.spotify.com/track/28FLHp1phC1eBLgae9hIB2) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ), [Sharry Hassan](https://open.spotify.com/artist/3ZtrmL8sJMjnLVnHuA7Vd5), [Angad](https://open.spotify.com/artist/59BA4APzM0Hooxqsxa74Tu) | [Jaaneman](https://open.spotify.com/album/2DliuQNPXUekTFeYByTcPl) | 2:19 | 2022-04-15 | 2022-04-29 |
@@ -150,6 +151,7 @@
 | [Kitaab](https://open.spotify.com/track/5m1KzEE8olyXQ2SD0Ec0pz) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love War](https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ) | 3:07 | 2022-03-16 | 2022-04-06 |
 | [Kitab](https://open.spotify.com/track/3LkBUj5Qd6OyIchgTOyKFi) | [Amarinder](https://open.spotify.com/artist/7fBmn4qIlIlpCTgV1VE4cV) | [Love On Top](https://open.spotify.com/album/4cCzLf1SWnIVArzSpreEsT) | 2:48 | 2022-01-10 | 2022-02-01 |
 | [Koi Hor](https://open.spotify.com/track/2hN1rqSmyACedLtyZP7TvO) | [Dilnoor](https://open.spotify.com/artist/50tXZuZyML8SQweztignbv), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Koi Hor](https://open.spotify.com/album/0O4yf1FCBxwNw2XpFHbMiA) | 4:42 | 2021-12-02 | 2022-02-01 |
+| [Kol Ve](https://open.spotify.com/track/3yhjhalQKgl240Bi17GDmY) | [Vipul Mehta](https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Kol Ve](https://open.spotify.com/album/33tjx5PKgApGR8Q6liXyHM) | 3:25 | 2022-05-27 |  |
 | [Kudiyan Lahore Diyan](https://open.spotify.com/track/0NlIythdHcM4zFDP5dGLta) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Kudiyan Lahore Diyan](https://open.spotify.com/album/4STyPN6DqIbBkkDlczowCn) | 3:42 | 2022-03-30 |  |
 | [Kuwait Wala Koka](https://open.spotify.com/track/6rqCGWzwW10e370MIA4lWW) | [Gurman Sandhu](https://open.spotify.com/artist/5ugj60Brzgzl1h08AjGlKN), [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Kuwait Wala Koka](https://open.spotify.com/album/5Gst6VK89e4LeTHOT0CvAQ) | 2:49 | 2022-05-09 | 2022-05-20 |
 | [Kya Baat Ay](https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Kya Baat Ay](https://open.spotify.com/album/6dGrLyjo05QYx1djXmioIk) | 2:59 | 2021-12-02 | 2022-02-01 |

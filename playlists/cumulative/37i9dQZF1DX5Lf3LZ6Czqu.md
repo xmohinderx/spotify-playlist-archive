@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Paul Gilbert
 
-70 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
+71 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Up \- Radio Edit](https://open.spotify.com/track/6TEtobdqqkehkhoNEGhimR) | [Slim Gambill](https://open.spotify.com/artist/6pkYDXD80qfP5EckmtuqKx), [Charlton Singleton](https://open.spotify.com/artist/7cBiq0AlHgBwnSLlkDoh3E) | [Up \(Radio Edit\)](https://open.spotify.com/album/56qJA6rZbqRzqY2D9VSjA5) | 3:56 | 2021-10-29 | 2022-01-05 |
 | [Up into the Ether](https://open.spotify.com/track/2LbkjfSzAPl94K0vGWTNDc) | [I Built the Sky](https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN) | [The Zenith Rise](https://open.spotify.com/album/2jP2Jy1vyCKq6ZTBuh5NCk) | 5:01 | 2021-05-04 |  |
 | [Vanish](https://open.spotify.com/track/0HkxndKKtxlNJQzP45YKTM) | [Waxamilion](https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6) | [Vanish](https://open.spotify.com/album/2mD8Ppr3WZCmV1JeFMi9zB) | 3:51 | 2021-06-11 |  |
+| [What Really Matters](https://open.spotify.com/track/4dIOwzpO6MVitMIDtm5UHC) | [Loida Liuzzi](https://open.spotify.com/artist/4jgaSs1mcow0wJuSXccH9U) | [The Journey](https://open.spotify.com/album/0NPxrtK8Z8vZzEirkcdOMb) | 4:22 | 2022-05-27 |  |
 | [When Words Fail...](https://open.spotify.com/track/3mQ06QA9KD996YAAjb8TBe) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Electric Truth](https://open.spotify.com/album/3jL5Ne8atGXQfBlabEibHE) | 5:09 | 2022-04-01 |  |
 | [À l’avenir](https://open.spotify.com/track/6GhvoVU3BOpqN6bCdID8QP) | [Pete Thorn](https://open.spotify.com/artist/2fGIc4JSHwzCB7HIzATFtV) | [Pete Thorn II](https://open.spotify.com/album/26pXUKMlyQXLjhaHLHUZEe) | 3:31 | 2021-05-04 |  |
 

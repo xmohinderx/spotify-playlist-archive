@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 377738,
       "name": "Atlas - Adriatique Remix",
       "url": "https://open.spotify.com/track/1Ou1g6tCGdwp2SFnNyfZXw"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 447340,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/3Yfs5ZmkP7FgMzREvrgS07"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 269422,
       "name": "Chirpsichord",
       "url": "https://open.spotify.com/track/6q7PJfwkai2HdoXID1BdDh"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 423586,
       "name": "Clock",
       "url": "https://open.spotify.com/track/5NuZdSoNdbBOEzJVYRqUQ6"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 346640,
       "name": "Cow Palace",
       "url": "https://open.spotify.com/track/36bWpRjafcUfb5hKdsYHRa"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 223842,
       "name": "Crushed Ice - Remix",
       "url": "https://open.spotify.com/track/7jTfuvv1YNU231Ai3D3vuq"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 432685,
       "name": "Distance",
       "url": "https://open.spotify.com/track/7sKlCCbWryUL7uANyvFDw6"
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 217411,
       "name": "Moons",
       "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 424431,
       "name": "Mystery - Tale Of Us & Mathame Remix",
       "url": "https://open.spotify.com/track/3fdXEMBTjHNJ5Bug5c7rZi"
@@ -1349,7 +1349,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 346488,
       "name": "Needless to Say, Pt. 2",
       "url": "https://open.spotify.com/track/2p9gUfBpqxt6m1Deyvgvix"
@@ -1589,7 +1589,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 214357,
       "name": "Pittsburgh Left (Eliot Lipp Remix)",
       "url": "https://open.spotify.com/track/5EJS4iTJxlbdAOj3Y3Tiu8"
@@ -1625,7 +1625,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 309784,
       "name": "Psyche",
       "url": "https://open.spotify.com/track/3yk6KVpcmIlIYgam4WBPoN"
@@ -1701,7 +1701,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 480000,
       "name": "Return to Oz - ARTBAT Remix",
       "url": "https://open.spotify.com/track/0gwNGHcBRYtF7mvgUczVo1"
@@ -1763,6 +1763,24 @@
       "duration_ms": 490507,
       "name": "Seperation",
       "url": "https://open.spotify.com/track/5scSSFhRx9mpy8jlx5zl3m"
+    },
+    {
+      "album": {
+        "name": "Shift I - II",
+        "url": "https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX"
+      },
+      "artists": [
+        {
+          "name": "Coss",
+          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356571,
+      "name": "Shift II - Original Mix",
+      "url": "https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd"
     },
     {
       "album": {
@@ -2027,7 +2045,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 420433,
       "name": "Toxic Temptation - Undercatt Remix",
       "url": "https://open.spotify.com/track/0VKIilt1Z8oJQ7isTytBDc"
@@ -2081,7 +2099,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 407317,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"

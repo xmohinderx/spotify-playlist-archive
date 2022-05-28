@@ -4,7 +4,7 @@
 
 > vem de dm 🔥  ❤️
 
-62 songs - 2 hr 56 min - not published yet
+64 songs - 3 hr 1 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Júlia](https://open.spotify.com/track/4BN1FuzbCcBkULDpCVXeg9) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Júlia](https://open.spotify.com/album/5xHjd2zRPkv0rESSnVBPVH) | 2:30 | 2022-04-29 |  |
 | [Lana](https://open.spotify.com/track/6njzueGON26Kj3dy0wQUxs) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Lana](https://open.spotify.com/album/0EOvuq1kpXFM5N6ZUCfZj5) | 2:51 | 2022-04-29 |  |
 | [Liga pra Mim](https://open.spotify.com/track/519BX7HBoxCmvlqv4XKo7L) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ), [Erix](https://open.spotify.com/artist/1nBbgjGsyozg0Ybfr49tma) | [Liga pra Mim](https://open.spotify.com/album/4kJq6ltzbq9VJw0Bwgq32O) | 2:42 | 2022-04-29 |  |
+| [Luzes da Cidade](https://open.spotify.com/track/2CTTflN4rA96cmMq8NpjND) | [Belato](https://open.spotify.com/artist/1j0b8QZNoluRO17A2PJh62), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Luzes da Cidade](https://open.spotify.com/album/2be4Abf3oT5rIfeNvcINIX) | 2:30 | 2022-05-27 |  |
 | [Marte](https://open.spotify.com/track/77Dr548oQBYjy5zbVyn8QL) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Marte](https://open.spotify.com/album/7LwqaFIUzOj366DPg81IAJ) | 3:20 | 2022-04-29 |  |
 | [Me Tira O Sossego](https://open.spotify.com/track/2os0PZg85oglHfJtBfpz6t) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [PedroWnx](https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1) | [Me Tira O Sossego](https://open.spotify.com/album/2es0GKloxQo0T6EOQtwBF2) | 2:44 | 2022-04-29 |  |
 | [Melhor Sem Mim](https://open.spotify.com/track/1hUzkO738a6LoYIBhMCR0r) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Melhor Sem Mim](https://open.spotify.com/album/088K4X8hrYw2RTyxs6q77A) | 3:06 | 2022-04-29 |  |
@@ -40,6 +41,7 @@
 | [nada contra \(ciúme\)](https://open.spotify.com/track/1YGLrVineKYS0UzvBAA3gH) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/0GKDqWpEF0cRw9Q6Ha1zpH) | 2:22 | 2022-04-29 |  |
 | [Nem Sinto Sua Falta](https://open.spotify.com/track/4BxNHRXUeuploDVNrxnUX6) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [LF](https://open.spotify.com/artist/4XTEaGrwzx4f87DfPztViW), [WVicttor](https://open.spotify.com/artist/4czNp3alCTl7x8X2v0Yhr5) | [Nem Sinto Sua Falta](https://open.spotify.com/album/0ptQMvWY7zn7cIGD6iWoE8) | 2:37 | 2022-04-29 |  |
 | [Noiva Cadáver](https://open.spotify.com/track/1e0S2LL2am7tFwrUxCI9oV) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Homem Torto](https://open.spotify.com/album/4ghHxBJbufMNGo6eD0NsOL) | 1:42 | 2022-04-29 |  |
+| [Novos Dias](https://open.spotify.com/track/4mn42Ofg4kUBUmRAwiZjft) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Novos Dias](https://open.spotify.com/album/5w2QDXAhOMe4SjyiM59yT5) | 2:18 | 2022-05-27 |  |
 | [Obra Prima](https://open.spotify.com/track/1sKpYhvUIcTewqsrIUEHoS) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Obra Prima](https://open.spotify.com/album/74x5o43BW51HjgZeWDZIGD) | 2:11 | 2022-04-29 |  |
 | [Oh, Linda](https://open.spotify.com/track/2mCs9GkmTggqhWIBm4a9RO) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T), [Pakau](https://open.spotify.com/artist/111jpJz8XiWltrlZwZPioK) | [Oh, Linda](https://open.spotify.com/album/2dD4DpNJXtmPCtxuOaLltY) | 2:33 | 2022-04-29 |  |
 | [Pedaço de Mim](https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW) | [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Pedaço de Mim](https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B) | 3:22 | 2022-04-29 |  |

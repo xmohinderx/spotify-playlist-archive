@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Ella Langley
 
-185 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+186 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Got the Girl](https://open.spotify.com/track/5MTuBhO3QxTht2NeRkLwuI) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [Got the Girl](https://open.spotify.com/album/5DT8MBGd52UwQeDwQNrtwM) | 2:43 | 2021-12-31 |  |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-02-25 |  |
 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-01-21 |  |
+| [Growing Up \(Are You Happy\)](https://open.spotify.com/track/6z9H1dDF1eF0wu7zXrslXw) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Growing Up \(Are You Happy\)](https://open.spotify.com/album/1yiaYbHec1sNIo2g0wSBUQ) | 2:31 | 2022-05-27 |  |
 | [Guilty](https://open.spotify.com/track/3oMw1Me5BrUyVdAcjtn0BS) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Guilty](https://open.spotify.com/album/4gAIYOwt94MpkgGTSDwJEi) | 2:44 | 2022-04-22 |  |
 | [Habit](https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Habit](https://open.spotify.com/album/0Mmppw4dHragYwpRhbhqhC) | 2:49 | 2022-03-18 |  |
 | [Hang the Moon](https://open.spotify.com/track/2pQEiFLujXVmbLKhanrXjD) | [The Roads Below](https://open.spotify.com/artist/4gTxZRVdDpwAZCpSaXy7fI) | [Hang the Moon](https://open.spotify.com/album/7eWr3gZZqEHV7t2SAET5jo) | 2:56 | 2021-12-31 |  |
@@ -130,7 +131,7 @@
 | [One Percent](https://open.spotify.com/track/79vB0nrWECOICS6byaQODr) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent](https://open.spotify.com/album/4QPCf7gH9NsJVMKaQftX6I) | 3:31 | 2021-12-31 |  |
 | [Out of That Memory](https://open.spotify.com/track/1jg2kF8lorLHICXD2vwZjI) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Out of That Memory](https://open.spotify.com/album/15fAc3aWRijNYBEiP2J80K) | 3:14 | 2022-02-11 |  |
 | [Over Me](https://open.spotify.com/track/0jXKRePIfoF4Cx85AySGv0) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Over Me](https://open.spotify.com/album/4cbl9hNkpawd8VCyGe8IiB) | 3:25 | 2022-02-11 |  |
-| [Phoenix](https://open.spotify.com/track/0jPfIZjJwNQ2kIJo9ud0c2) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Phoenix](https://open.spotify.com/album/0HFuOIg1YEfWUuL3retuGf) | 2:55 | 2022-01-21 |  |
+| [Phoenix](https://open.spotify.com/track/0jPfIZjJwNQ2kIJo9ud0c2) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Phoenix](https://open.spotify.com/album/0HFuOIg1YEfWUuL3retuGf) | 2:55 | 2022-01-21 | 2022-05-28 |
 | [Pieces](https://open.spotify.com/track/5h0xfskqYqiDYG4jc8EMyb) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [Pieces](https://open.spotify.com/album/5FyigvplnzcKCIfAzvVAA9) | 3:07 | 2021-12-31 |  |
 | [Pill for This \(from Songland\)](https://open.spotify.com/track/7IQlF0sWkkztpejeIKnftW) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [Pill for This \(from Songland\)](https://open.spotify.com/album/2r1WiGYZP7wsuC0RBZucGe) | 2:53 | 2021-12-31 | 2022-01-08 |
 | [Plans](https://open.spotify.com/track/0N3psvwvlEP8Mw5GFBeaWd) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Plans](https://open.spotify.com/album/3MUpsZrhs4lDNkpNkepWGt) | 2:35 | 2021-12-31 | 2022-02-12 |

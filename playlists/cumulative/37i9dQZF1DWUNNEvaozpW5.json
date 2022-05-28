@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "Lo mejor del rock de aqu\u00ed, como Manolo Garc\u00eda",
   "name": "Rock Espa\u00f1ol",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4AGuLAzZtz0hNpibnA51bn"
+  ],
   "tracks": [
     {
       "album": {
@@ -93,7 +95,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 273880,
       "name": "Agradecido",
       "url": "https://open.spotify.com/track/4WfsIWwYMxMZhezMSUQZQW"
@@ -151,7 +153,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 230779,
       "name": "Aviones Plateados - En Directo",
       "url": "https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5"
@@ -187,7 +189,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 208839,
       "name": "Buscando en la basura",
       "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
@@ -425,7 +427,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 223240,
       "name": "Cuando Brille el Sol",
       "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
@@ -443,7 +445,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 168648,
       "name": "Dentro De La Ley",
       "url": "https://open.spotify.com/track/113AF9qdjqcBHaOABYca6S"
@@ -461,7 +463,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 276426,
       "name": "Devil Came To Me - 2007 Remastered Version",
       "url": "https://open.spotify.com/track/7oycM5ZYxqampQrp1z5Zsk"
@@ -497,10 +499,28 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 281560,
       "name": "Dulce condena",
       "url": "https://open.spotify.com/track/1J2XL5ciqUgCQ92TmFDAAZ"
+    },
+    {
+      "album": {
+        "name": "Marines A Pleno Sol",
+        "url": "https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539"
+      },
+      "artists": [
+        {
+          "name": "LOS NIKIS",
+          "url": "https://open.spotify.com/artist/6arRVLZ3vn5AXkuvp9JxbS"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192106,
+      "name": "El imperio contraataca",
+      "url": "https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf"
     },
     {
       "album": {
@@ -519,6 +539,24 @@
       "duration_ms": 288053,
       "name": "El lado oscuro",
       "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
+    },
+    {
+      "album": {
+        "name": "La Rosa De Los Vientos",
+        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
+      },
+      "artists": [
+        {
+          "name": "La Frontera",
+          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275026,
+      "name": "El Limite",
+      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
     },
     {
       "album": {
@@ -577,7 +615,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 238426,
       "name": "En alg\u00fan lugar (feat. Santi Balmes & V\u00edctor Cabezuelo)",
       "url": "https://open.spotify.com/track/2nL8UGrQoCfbZTtWfmmoqe"
@@ -649,7 +687,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 277653,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
@@ -740,6 +778,24 @@
     },
     {
       "album": {
+        "name": "Ara\u00f1ando La Ciudad - 35 aniversario",
+        "url": "https://open.spotify.com/album/1ckB2GAUFFgnlAUjyWptsY"
+      },
+      "artists": [
+        {
+          "name": "Ramoncin",
+          "url": "https://open.spotify.com/artist/1S83AICkpMqmowvInvbizT"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147972,
+      "name": "Hormigon, Mujeres y Alcohol - Edici\u00f3n 35 aniversario",
+      "url": "https://open.spotify.com/track/2kdcgSLw6FzxdL0gkhAT16"
+    },
+    {
+      "album": {
         "name": "Insurreccion (En Directo)",
         "url": "https://open.spotify.com/album/5focapBHI0lsefUUz46XxG"
       },
@@ -827,7 +883,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 267186,
       "name": "La luna me sabe a poco",
       "url": "https://open.spotify.com/track/16taQAqrrfqCwbkbKFr2OH"
@@ -1015,7 +1071,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 282746,
       "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
       "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
@@ -1055,6 +1111,42 @@
       "duration_ms": 288146,
       "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
       "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
+    },
+    {
+      "album": {
+        "name": "Mediterr\u00e1naeo",
+        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233026,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
+    },
+    {
+      "album": {
+        "name": "Sopa fria",
+        "url": "https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj"
+      },
+      "artists": [
+        {
+          "name": "M-Clan",
+          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297106,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj"
     },
     {
       "album": {
@@ -1247,7 +1339,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 173226,
       "name": "Pienso en Aquella Tarde",
       "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
@@ -1290,6 +1382,24 @@
     },
     {
       "album": {
+        "name": "Burning (Singles Collection)",
+        "url": "https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN"
+      },
+      "artists": [
+        {
+          "name": "Burning",
+          "url": "https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247401,
+      "name": "Que Hace una Chica Como Tu en un Sitio Como Este",
+      "url": "https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr"
+    },
+    {
+      "album": {
         "name": "Las malas lenguas",
         "url": "https://open.spotify.com/album/1ZjnKIhYyg4QynfGt057gd"
       },
@@ -1305,7 +1415,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 231519,
       "name": "Quien lo iba a suponer",
       "url": "https://open.spotify.com/track/45CZzSaBBLqghpO6fuO4X3"
@@ -1525,7 +1635,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 207986,
       "name": "Stand By",
       "url": "https://open.spotify.com/track/6BxCmy6vGbuOckxg6YfQOW"

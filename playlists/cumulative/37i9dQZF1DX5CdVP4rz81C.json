@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Discover your favorite new chill pop songs. Cover: Katherine Li",
+  "description": "Discover your favorite new chill pop songs. Cover: Alexander 23",
   "name": "Fresh & Chill",
   "published_playlist_ids": [
     "0bYTEzgb7cQ54Fa4kGbaPS"
@@ -1477,7 +1477,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 205280,
       "name": "Birthday Cake",
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
@@ -6655,7 +6655,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 160790,
       "name": "i tried",
       "url": "https://open.spotify.com/track/37EQsOkuUxhqV1yJcPC1TY"
@@ -7124,6 +7124,24 @@
     },
     {
       "album": {
+        "name": "It Still Rains in Paradise",
+        "url": "https://open.spotify.com/album/1RzEZUdiyyMFnbpXK5kcyj"
+      },
+      "artists": [
+        {
+          "name": "Leyla Blue",
+          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162870,
+      "name": "It Still Rains in Paradise",
+      "url": "https://open.spotify.com/track/7nSRwnGtocax7zFgNnR70D"
+    },
+    {
+      "album": {
         "name": "It Takes Two",
         "url": "https://open.spotify.com/album/314mIakb1sF5Lfl23kmibT"
       },
@@ -7449,7 +7467,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 191375,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf"
@@ -9596,6 +9614,24 @@
     },
     {
       "album": {
+        "name": "NOT AGAIN",
+        "url": "https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216661,
+      "name": "NOT AGAIN",
+      "url": "https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2"
+    },
+    {
+      "album": {
         "name": "Not Around",
         "url": "https://open.spotify.com/album/1AoV2zzDHH57nQEOfga6mX"
       },
@@ -9697,7 +9733,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 162581,
       "name": "Nothing's All The Time",
       "url": "https://open.spotify.com/track/3m3bd62913zzUd48L53Lc1"
@@ -11146,6 +11182,24 @@
     },
     {
       "album": {
+        "name": "Sad Anymore",
+        "url": "https://open.spotify.com/album/5wyenYTuawD6OrrXQquyUc"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130042,
+      "name": "Sad Anymore",
+      "url": "https://open.spotify.com/track/6KKQRxk7BVrjjdWbEc9MA6"
+    },
+    {
+      "album": {
         "name": "Sad Sad Sad",
         "url": "https://open.spotify.com/album/4wDEYOS2vH4j3T7SOdJKAq"
       },
@@ -11717,7 +11771,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 218013,
       "name": "Sleep Tight",
       "url": "https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76"
@@ -12988,6 +13042,24 @@
     },
     {
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/1URmuEjZuBuXuLegkhvQr0"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/3OYUuT8iujKMFUoeKrnhwe"
+    },
+    {
+      "album": {
         "name": "The Joker And The Queen (feat. Taylor Swift)",
         "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },
@@ -13439,6 +13511,24 @@
       "duration_ms": 222860,
       "name": "Till Forever Falls Apart",
       "url": "https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp"
+    },
+    {
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/4jAN28tuuWdvDsX5HzPXbv"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219632,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/4Fkf0tYc8tD0BeS7k20AAa"
     },
     {
       "album": {
@@ -14591,7 +14681,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 287560,
       "name": "When Scars Become Art",
       "url": "https://open.spotify.com/track/2q3LzfknBzye3xXjgiJBjS"

@@ -1770,6 +1770,24 @@
     },
     {
       "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/1mYzbWj0oTiGfhslwKprO4"
+      },
+      "artists": [
+        {
+          "name": "Southern Raised",
+          "url": "https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219007,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/6b5vrTPZKmnDgvf3URdOOe"
+    },
+    {
+      "album": {
         "name": "Greatest Hits Vol. 2",
         "url": "https://open.spotify.com/album/2WcSVdRwyvMHAnZKq0FvdE"
       },
@@ -2067,6 +2085,28 @@
       "duration_ms": 168849,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx"
+    },
+    {
+      "album": {
+        "name": "True Bluegrass Instrumentals",
+        "url": "https://open.spotify.com/album/6cwdLgLSa2CgKtRwvKZzDd"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        },
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184253,
+      "name": "Wildwood Flower",
+      "url": "https://open.spotify.com/track/3xckzvp58eFYnM7HEHSjMi"
     },
     {
       "album": {

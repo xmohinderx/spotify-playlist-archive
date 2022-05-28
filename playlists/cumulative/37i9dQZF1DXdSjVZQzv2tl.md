@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Luan Santana, Henrique & Juliano
+> O melhor do sertanejo em uma só playlist! Foto: Henrique & Juliano
 
-74 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
+75 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Estelionato Afetivo \- Ao Vivo](https://open.spotify.com/track/0m6XpDgZSyqyCg0HKOCaO8) | [Douglas & Vinicius](https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Estelionato Afetivo \(Ao Vivo\)](https://open.spotify.com/album/6b9kRGac9mBHA2YJRVMzOT) | 2:52 | 2021-12-31 |  |
 | [Eu e Eu](https://open.spotify.com/track/7DETyuwRe61Ab57w90dJ37) | [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Eu e Eu](https://open.spotify.com/album/57reovruZNtvzzhjkwsDj9) | 2:42 | 2021-12-31 | 2022-01-22 |
 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5lCAtKxkZL6tFDyGX9t87j) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/3jk9qHtMT4eVvVwvUVD11z) | 2:15 | 2022-03-18 |  |
+| [Evento Cancelado \- Ao Vivo](https://open.spotify.com/track/11fqunD6qlOCrRd88kMOk6) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 3:03 | 2022-05-27 |  |
 | [Ex Alcoolizado \- Ao Vivo](https://open.spotify.com/track/2VATVdFqb7QqxfAcQPvNpc) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Israel & Rodolffo: Ao Vivo Em Brasília, Vol\. 3](https://open.spotify.com/album/33kS9T1bA6L7fosKns9fx6) | 2:42 | 2022-04-29 |  |
 | [Expectativa x Realidade](https://open.spotify.com/track/1wdhj1r7aeWVDUl9d18YKu) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Expectativa x Realidade](https://open.spotify.com/album/39ZFdo1y2IeExS8zKixGgw) | 2:43 | 2021-12-31 |  |
 | [Faz Amor Comigo Só Hoje \- Ao Vivo](https://open.spotify.com/track/7Kba4OaxQFQ1zlknQUpNqN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Faz Amor Comigo Só Hoje \(Ao Vivo\)](https://open.spotify.com/album/3J7UQC40YfybB6TvralOEK) | 2:28 | 2021-12-31 | 2022-02-12 |
@@ -54,7 +55,7 @@
 | [Modo Avião \- Ao Vivo](https://open.spotify.com/track/7m9Hr6qAquvk6nNFtBIlM0) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3) | [Modo Avião \(Ao Vivo\)](https://open.spotify.com/album/1DSGVugkg3B6vZsw7lcs3n) | 2:40 | 2021-12-31 |  |
 | [Molhando o Volante](https://open.spotify.com/track/3ITkrUvAA6gzxer2UIom3P) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Molhando o Volante](https://open.spotify.com/album/27M30wcfpfaDbTPeTI1H9l) | 2:42 | 2021-12-31 |  |
 | [MORENA](https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [MORENA](https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv) | 3:13 | 2021-12-31 | 2022-03-18 |
-| [Motel Afrodite](https://open.spotify.com/track/2Rlde4R776iKtqODzVhMEM) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Motel Afrodite](https://open.spotify.com/album/5NbuHCJlpaeH6g0h1ahYDj) | 2:50 | 2021-12-31 |  |
+| [Motel Afrodite](https://open.spotify.com/track/2Rlde4R776iKtqODzVhMEM) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Motel Afrodite](https://open.spotify.com/album/5NbuHCJlpaeH6g0h1ahYDj) | 2:50 | 2021-12-31 | 2022-05-28 |
 | [Namorando Com Saudade](https://open.spotify.com/track/6m84TzSTM5nbwZxIxkYHz6) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tudo Em Paz](https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL) | 2:54 | 2021-12-31 |  |
 | [Nota de Repúdio \- Ao Vivo](https://open.spotify.com/track/3agFBAMPiIvzfTh7a9Udm6) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Nota de Repúdio \(Ao Vivo\)](https://open.spotify.com/album/4SuhgccvYOKxul2PraUze0) | 2:44 | 2021-12-31 |  |
 | [Não Me Arranha \- Ao Vivo](https://open.spotify.com/track/3eq6zwPwN5SAw0rZxNHI22) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6kqV2ortasb6HOA7pupoKs) | 2:39 | 2021-12-31 |  |

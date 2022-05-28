@@ -30,6 +30,36 @@
     },
     {
       "album": {
+        "name": "Anywhere (feat. shYbeast, PLYA)",
+        "url": "https://open.spotify.com/album/7b517Ob0a6KWytvqSVk6OJ"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        },
+        {
+          "name": "shYbeast",
+          "url": "https://open.spotify.com/artist/3J2VNcCwzeJXNFu40evXPE"
+        },
+        {
+          "name": "PLYA",
+          "url": "https://open.spotify.com/artist/7ic9h4HxC9vccg3mk4NRFV"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287600,
+      "name": "Anywhere (feat. shYbeast, PLYA)",
+      "url": "https://open.spotify.com/track/07ImPoPqKNwqucuPEZooBj"
+    },
+    {
+      "album": {
         "name": "Artemis",
         "url": "https://open.spotify.com/album/0uTWn07xZxhYj8DuNcMXwc"
       },
@@ -107,7 +137,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 249428,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/3LoyPU4kSmEw1T9pwCT9BV"
@@ -165,7 +195,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 204871,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/6damJkZsW0f3eNNAABd0NI"
@@ -183,7 +213,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 265465,
       "name": "Catharsis",
       "url": "https://open.spotify.com/track/0YLqnkxAp7Bwbi9V1X93xL"
@@ -423,7 +453,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "Do It To It - Andrew Rayel Remix",
       "url": "https://open.spotify.com/track/47FkgO7LWJD8rBovCn41oI"
@@ -441,7 +471,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 254400,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/5ieyP4fDwxueOeQ6kwUnwm"
@@ -503,7 +533,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/7K0tKZGP9mi4oqJSOJj29Q"
@@ -737,7 +767,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 231428,
       "name": "Fall Into Me (feat. Dylan Matthew)",
       "url": "https://open.spotify.com/track/5jwPoLlVOLcawSpvDpwlty"
@@ -865,7 +895,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 195463,
       "name": "Giving Up On U",
       "url": "https://open.spotify.com/track/1tG4l4iUvZC6M1Y8MVBacK"
@@ -923,7 +953,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 164827,
       "name": "Have Fun",
       "url": "https://open.spotify.com/track/4JdsnIZdnrkIU9emqiEhTo"
@@ -1137,7 +1167,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 292524,
       "name": "Hypnocurrency",
       "url": "https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4"
@@ -1155,7 +1185,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 232968,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2ywx0zy4Nj7aQ9jXZL3Mlh"
@@ -1239,7 +1269,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 168932,
       "name": "Ice Box",
       "url": "https://open.spotify.com/track/71aAxHJfjmffbueCChnUSL"
@@ -1309,7 +1339,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 220000,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/7Ji2sHw2oScKQ14W956LUL"
@@ -1407,7 +1437,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 174736,
       "name": "Kill Me With Your Love",
       "url": "https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q"
@@ -1551,7 +1581,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 198684,
       "name": "Let Love Win",
       "url": "https://open.spotify.com/track/5jB0IkgKoNeHcCObpZuPXP"
@@ -1773,7 +1803,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 196000,
       "name": "Menace",
       "url": "https://open.spotify.com/track/0sBAwzKnPSSi74NMbn9WKI"
@@ -1879,7 +1909,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 261658,
       "name": "Never Let You Go (feat. Sofia Reyes) - EVE Re-Imagination",
       "url": "https://open.spotify.com/track/03KkCDcl9URL2PBvFYHKnK"
@@ -2457,7 +2487,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 188800,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6b6HudhUkFIvlDjyuhiEBE"
@@ -2523,7 +2553,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 278000,
       "name": "Starseed",
       "url": "https://open.spotify.com/track/7LKm8GVnMcDMXfDyhVcODr"
@@ -2607,7 +2637,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 179224,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/7EYv3adMrIC5mqurz7fHhD"
@@ -3171,7 +3201,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 234475,
       "name": "We Won't Be Alone",
       "url": "https://open.spotify.com/track/3AayefDdUFxivRs79bX7kV"

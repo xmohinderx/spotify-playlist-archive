@@ -4,7 +4,7 @@
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-100 songs - 5 hr 0 min - not published yet
+100 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/3tRaksmTctFqOi5PZyIiVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

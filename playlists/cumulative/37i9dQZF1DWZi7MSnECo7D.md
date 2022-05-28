@@ -2,9 +2,9 @@
 
 ### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Novidades e destaques do indie nacional\. Foto: Tim Bernardes
+> Novidades e destaques do indie nacional\. Foto: PLUMA, Boogarins
 
-179 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+182 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Jangada](https://open.spotify.com/track/3EhGmDJSX80MJ1b1DGEwNb) | [mamguá](https://open.spotify.com/artist/68muZlHFoo6eQf8FMChxRi) | [Este é um disco sobre amor](https://open.spotify.com/album/6Z0DDEnCHnOCGmPT78etYH) | 3:26 | 2022-03-18 | 2022-04-09 |
 | [Latada](https://open.spotify.com/track/3moZu44G3SRQipBcorIDsd) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Latada / Na Bad](https://open.spotify.com/album/5YL2vkCw7HJZvyvi1ADxow) | 4:47 | 2022-05-13 |  |
 | [Lazy Dayz](https://open.spotify.com/track/0tQPk5aD0j9DfieEKVPGV5) | [Glue Trip](https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Lazy Dayz](https://open.spotify.com/album/2PLGOYtVU8FrlkylKvzCPt) | 4:59 | 2022-04-15 |  |
+| [Let's Do It All Again](https://open.spotify.com/track/4JagVYqLNcy8n8Wh5Pd8cr) | [Moons](https://open.spotify.com/artist/5KokGIQH9RETtCjw72hAt0) | [Let's Do It All Again](https://open.spotify.com/album/4ApqIkbwlIRlpeUdChTu0B) | 6:37 | 2022-05-27 |  |
 | [Lia](https://open.spotify.com/track/02AfIrjEzN8REjSe5ypcXF) | [Lado Fim do Mundo](https://open.spotify.com/artist/66ItPiB5AheRX2jXy4vzZa) | [Lia](https://open.spotify.com/album/45yv7cwCF6mQHYtYYLWkzR) | 5:08 | 2022-01-14 | 2022-02-12 |
 | [Love Song](https://open.spotify.com/track/2mbHhK2CvpS5dsxmOYFYnD) | [Gi Basito](https://open.spotify.com/artist/5TTRCZuJLSRUhIXIBjIFBJ) | [LOVE SONGS](https://open.spotify.com/album/7swFG1JHSEBu76Zxp73k8Q) | 4:22 | 2022-03-25 | 2022-04-09 |
 | [mais um lance](https://open.spotify.com/track/47eTiEGgeZwjdIrOiNgG8G) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [mais um lance](https://open.spotify.com/album/78Xvu1T8qRtUvMgix18ypT) | 3:01 | 2022-01-21 |  |
@@ -138,6 +139,7 @@
 | [Quarta Obra](https://open.spotify.com/track/5rqGTsecw0HNMwOC3j3yCb) | [Saskia](https://open.spotify.com/artist/2kcQw1XkWgIMzF2sArt6NT) | [Quartas](https://open.spotify.com/album/0CJn9AMkYslFvMEWM9W4x1) | 3:55 | 2022-04-29 | 2022-05-14 |
 | [Quarto Sem Janela](https://open.spotify.com/track/2CNpYIScasnONCyhsxV1KJ) | [Revna](https://open.spotify.com/artist/5euRHFqQ2U4fCCctRKkpf0) | [Quarto Sem Janela](https://open.spotify.com/album/00oztNjsDIsSItMlifZWrK) | 3:04 | 2022-01-14 | 2022-02-26 |
 | [Quem somos nós](https://open.spotify.com/track/1GqXsiusqMiPmZtjnBfL6t) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw), [Oh! I Kill](https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI) | [Ressaca](https://open.spotify.com/album/3rkkLKfD5NpXDnwxQU79y3) | 3:41 | 2022-01-14 |  |
+| [Querer Nunca Fez Planos](https://open.spotify.com/track/2XEuJHY9Ak80QwI1BVhmMa) | [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb), [Boogarins](https://open.spotify.com/artist/0ohvsn0lgt51qZUbu9ct4s) | [Querer Nunca Fez Planos](https://open.spotify.com/album/6JrS5ydirAAPoXipEYqD6I) | 3:37 | 2022-05-27 |  |
 | [Raio](https://open.spotify.com/track/2PcjavAsBsTlpX3TuLndpK) | [Nathan Dies](https://open.spotify.com/artist/1JcsUiXXY016XtwaKpIAuh) | [Instinto](https://open.spotify.com/album/2LbTR9Dz0YpMrrBAoGJEIl) | 3:28 | 2022-01-14 | 2022-02-26 |
 | [Resquício](https://open.spotify.com/track/5rsTzSbUgJjnWjN30UUnVZ) | [Prado and the Wolf](https://open.spotify.com/artist/4ikOpFJhvVX13BYuRiL2dx) | [Mil Versões de Mim](https://open.spotify.com/album/1DivR2ZFmaDCjrPGZCaZjN) | 2:54 | 2022-01-14 |  |
 | [Risco](https://open.spotify.com/track/4YnFFesMh6JYIGCTtzapv5) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Risco](https://open.spotify.com/album/1zLk5joVdgeDeukWMyKjta) | 2:22 | 2022-01-14 |  |
@@ -163,6 +165,7 @@
 | [Tempo Presente](https://open.spotify.com/track/6EcOfscBzI1HIEHTp25ysT) | [Glue Trip](https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY) | [Tempo Presente](https://open.spotify.com/album/4Mp6pCuxYF9myM7r182ZMi) | 3:44 | 2022-05-20 |  |
 | [Tempos Sombrios](https://open.spotify.com/track/2hdqKJGZ8k3FZaAKnxgXHi) | [Fernando Catatau](https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj), [Uirá dos Reis](https://open.spotify.com/artist/5L1UfYjJzi1H5bXjSpDrhv) | [Fernando Catatau](https://open.spotify.com/album/1pP6XoftJqib7n3rgJFFIi) | 4:20 | 2022-02-04 | 2022-04-23 |
 | [Teoría del Cuerpo Enamorado](https://open.spotify.com/track/7gWgcXWm8nQC8FsBiQiJIM) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Teoría del Cuerpo Enamorado](https://open.spotify.com/album/3bLd5ak4vQm8TWleuhVX4j) | 5:53 | 2022-01-21 |  |
+| [Terra do Nunca Mais](https://open.spotify.com/track/7iBR8wrrllEI9BbU98zs4y) | [Bratislava](https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY) | [Terra do Nunca Mais](https://open.spotify.com/album/1Rr0PEUvVShXE5eXbYFaOT) | 3:36 | 2022-05-27 |  |
 | [Teu Corre](https://open.spotify.com/track/7xxgsPQZJEha6c588wZSAi) | [Igor B.](https://open.spotify.com/artist/7CYcOnoNkoI4LXpEQqnfUP) | [Teu Corre](https://open.spotify.com/album/3nb2i3XcXxcHEPQFtekLVW) | 4:27 | 2022-01-14 | 2022-01-27 |
 | [Tierra del Fuego](https://open.spotify.com/track/2xWVXSEwJcqSRUrnvRK32F) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9) | [A Tentação do Fracasso](https://open.spotify.com/album/02t2XPkozQeUgfEYesclF0) | 6:21 | 2022-03-11 |  |
 | [Tim Tim](https://open.spotify.com/track/3dohwzZ7eRztHA3JkfrJV0) | [Marcela Brandão](https://open.spotify.com/artist/4YihvchpM0vU5a2ZoTdyak) | [Tim Tim](https://open.spotify.com/album/32hSnYUthTsIjnk7GRmhhz) | 3:17 | 2022-04-01 | 2022-04-16 |

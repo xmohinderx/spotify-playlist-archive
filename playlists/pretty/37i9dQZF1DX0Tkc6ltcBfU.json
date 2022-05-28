@@ -1,13 +1,29 @@
 {
   "description": "The hottest out the south. Cover: Future",
-  "num_followers": 1054893,
+  "num_followers": 1055314,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzMzMzQ0OSwwMDAwMDIyMjAwMDAwMTgwZjI1YTU5ZGMwMDAwMDE4MDZjZWJjMzM2",
+  "snapshot_id": "MTY1MzYyNDA2MCwwMDAwMDIyMzAwMDAwMTgxMDNhY2I5MGMwMDAwMDE4MDZjZWJjMzM2",
   "tracks": [
+    {
+      "added_at": "2022-05-03 20:08:04",
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "PUFFIN ON ZOOTIEZ",
+      "url": "https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi"
+    },
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
@@ -29,20 +45,20 @@
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
-      "added_at": "2022-05-03 20:08:04",
+      "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+        "name": "See Wat I\u2019m Sayin",
+        "url": "https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 172933,
-      "name": "PUFFIN ON ZOOTIEZ",
-      "url": "https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi"
+      "duration_ms": 146732,
+      "name": "See Wat I\u2019m Sayin",
+      "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
     },
     {
       "added_at": "2022-05-13 04:01:00",
@@ -65,54 +81,10 @@
       "url": "https://open.spotify.com/track/6yiKdWLeX8pgmEHzClUEXn"
     },
     {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Hold That Heat (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12"
-      },
-      "artists": [
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Hold That Heat (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "Rocky Road (with Kodak Black)",
-        "url": "https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 178948,
-      "name": "Rocky Road (with Kodak Black)",
-      "url": "https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo"
-    },
-    {
       "added_at": "2022-04-08 04:31:56",
       "album": {
-        "name": "Right On",
-        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+        "name": "In A Minute",
+        "url": "https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco"
       },
       "artists": [
         {
@@ -120,9 +92,9 @@
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 213975,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
+      "duration_ms": 200470,
+      "name": "In A Minute",
+      "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -161,20 +133,64 @@
       "url": "https://open.spotify.com/track/3p4YmRsO7aOu8PUbwdN3OB"
     },
     {
-      "added_at": "2022-04-08 04:31:56",
+      "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "In A Minute",
-        "url": "https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco"
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 200470,
-      "name": "In A Minute",
-      "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
+      "duration_ms": 236186,
+      "name": "I'M ON ONE (feat. Drake)",
+      "url": "https://open.spotify.com/track/6cIWZnJZidKcqGuArAUABr"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Hold That Heat (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12"
+      },
+      "artists": [
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Hold That Heat (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Set Up Story Part 1",
+        "url": "https://open.spotify.com/album/2ujkEL9F2W32Sg5GTSvuVI"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 169526,
+      "name": "Set Up Story Part 1",
+      "url": "https://open.spotify.com/track/3t6HeF7UPZmdA3DLupbyqJ"
     },
     {
       "added_at": "2022-04-15 04:01:00",
@@ -195,6 +211,42 @@
       "duration_ms": 203076,
       "name": "Paper Route (ft. Young Dolph)",
       "url": "https://open.spotify.com/track/5A5XZ49RusDpRHlltXB4f5"
+    },
+    {
+      "added_at": "2022-04-08 04:31:56",
+      "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Rocky Road (with Kodak Black)",
+        "url": "https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 178948,
+      "name": "Rocky Road (with Kodak Black)",
+      "url": "https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo"
     },
     {
       "added_at": "2022-04-08 04:31:56",
@@ -233,44 +285,20 @@
       "url": "https://open.spotify.com/track/7Bot6AB2dsvZEyqzUL8AUH"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "Callin' All My Children",
-        "url": "https://open.spotify.com/album/2r8q8lWjoaBRQpQvLPsEqt"
+        "name": "Woozie",
+        "url": "https://open.spotify.com/album/1p7sH76jGrSLEAX9UzmCpq"
       },
       "artists": [
         {
-          "name": "Deante' Hitchcock",
-          "url": "https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH"
-        },
-        {
-          "name": "Big K.R.I.T.",
-          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
-        },
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
         }
       ],
-      "duration_ms": 197680,
-      "name": "Callin' (feat. Big K.R.I.T. & WESTSIDE BOOGIE)",
-      "url": "https://open.spotify.com/track/3zQwqYVqMOOGddjx1eQsDs"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "JIGGA DAME",
-        "url": "https://open.spotify.com/album/4za5Cq5ARxUp6sCtegfJFm"
-      },
-      "artists": [
-        {
-          "name": "Maxo Kream",
-          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
-        }
-      ],
-      "duration_ms": 104186,
-      "name": "JIGGA DAME",
-      "url": "https://open.spotify.com/track/5XZu7BrTTyjzqOzr38sGg3"
+      "duration_ms": 183898,
+      "name": "Woozie",
+      "url": "https://open.spotify.com/track/2uIukEsbb5yvC3ZK7CWk6G"
     },
     {
       "added_at": "2022-05-13 04:01:00",
@@ -291,26 +319,6 @@
       "duration_ms": 185857,
       "name": "Cooped Up (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 309327,
-      "name": "Churchill Downs (feat. Drake)",
-      "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
     },
     {
       "added_at": "2022-05-13 04:01:00",
@@ -353,6 +361,22 @@
       "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
     },
     {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "New Money",
+        "url": "https://open.spotify.com/album/1GdhvK867o2TFnt1rVnFJp"
+      },
+      "artists": [
+        {
+          "name": "BRS Kash",
+          "url": "https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa"
+        }
+      ],
+      "duration_ms": 202186,
+      "name": "New Money",
+      "url": "https://open.spotify.com/track/6C6POicX3pT7wV46f3NY2I"
+    },
+    {
       "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Throw a Lil Mo (Do It)",
@@ -369,50 +393,6 @@
       "url": "https://open.spotify.com/track/68Smyg3JQ1msbItYvplaXD"
     },
     {
-      "added_at": "2022-05-03 20:08:04",
-      "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 132986,
-      "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
-      "url": "https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "BETTER THAN YOU",
-        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 111970,
-      "name": "Bestie",
-      "url": "https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E"
-    },
-    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "Serial Killers",
@@ -427,6 +407,58 @@
       "duration_ms": 188967,
       "name": "Serial Killers",
       "url": "https://open.spotify.com/track/5KcZNsrl7PMIxJ2xBbTwH3"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 309327,
+      "name": "Churchill Downs (feat. Drake)",
+      "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Banking On Me",
+        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Banking On Me",
+      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "JIGGA DAME",
+        "url": "https://open.spotify.com/album/4za5Cq5ARxUp6sCtegfJFm"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        }
+      ],
+      "duration_ms": 104186,
+      "name": "JIGGA DAME",
+      "url": "https://open.spotify.com/track/5XZu7BrTTyjzqOzr38sGg3"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -449,20 +481,52 @@
       "url": "https://open.spotify.com/track/4aPRR0I9gIDJGJxlez3WE0"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
+      "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Keep Dissing",
-        "url": "https://open.spotify.com/album/1nVVLZjfyCq1jbWXLTM4fK"
+        "name": "New 50's",
+        "url": "https://open.spotify.com/album/16TFhLh8M2aSIfXhK7DxOr"
       },
       "artists": [
         {
-          "name": "Real boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+          "name": "GMK",
+          "url": "https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj"
         }
       ],
-      "duration_ms": 166283,
-      "name": "Keep Dissing",
-      "url": "https://open.spotify.com/track/3NfCU6PjlnNkswTrdxeprJ"
+      "duration_ms": 114261,
+      "name": "New 50's",
+      "url": "https://open.spotify.com/track/1E2ukB8wWsO5BFVrhpgg99"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 271840,
+      "name": "I'M DAT N****",
+      "url": "https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Look Ma I Did It",
+        "url": "https://open.spotify.com/album/38x8ZVRRLJykh2x4gAeMMz"
+      },
+      "artists": [
+        {
+          "name": "Baby Racks",
+          "url": "https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW"
+        }
+      ],
+      "duration_ms": 177840,
+      "name": "Look Ma I Did It",
+      "url": "https://open.spotify.com/track/11AfL8OrGWV8KYNSzuRDsr"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -483,18 +547,58 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Look Ma I Did It",
-        "url": "https://open.spotify.com/album/38x8ZVRRLJykh2x4gAeMMz"
+        "name": "Keep Dissing",
+        "url": "https://open.spotify.com/album/1nVVLZjfyCq1jbWXLTM4fK"
       },
       "artists": [
         {
-          "name": "Baby Racks",
-          "url": "https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW"
+          "name": "Real boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
         }
       ],
-      "duration_ms": 177840,
-      "name": "Look Ma I Did It",
-      "url": "https://open.spotify.com/track/11AfL8OrGWV8KYNSzuRDsr"
+      "duration_ms": 166283,
+      "name": "Keep Dissing",
+      "url": "https://open.spotify.com/track/3NfCU6PjlnNkswTrdxeprJ"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Feelin Like Rylo",
+        "url": "https://open.spotify.com/album/6SnxOflet3jdrMvcmbhNKl"
+      },
+      "artists": [
+        {
+          "name": "lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+        }
+      ],
+      "duration_ms": 145521,
+      "name": "Feelin Like Rylo",
+      "url": "https://open.spotify.com/track/5bHXahWwP3DHKcXAcgIS2d"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Callin' All My Children",
+        "url": "https://open.spotify.com/album/2r8q8lWjoaBRQpQvLPsEqt"
+      },
+      "artists": [
+        {
+          "name": "Deante' Hitchcock",
+          "url": "https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 197680,
+      "name": "Callin' (feat. Big K.R.I.T. & WESTSIDE BOOGIE)",
+      "url": "https://open.spotify.com/track/3zQwqYVqMOOGddjx1eQsDs"
     },
     {
       "added_at": "2022-05-13 20:02:22",
@@ -629,22 +733,6 @@
       "url": "https://open.spotify.com/track/4lDwjby6qNJP9Zdhi3Vg0a"
     },
     {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 271840,
-      "name": "I'M DAT N****",
-      "url": "https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG"
-    },
-    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "Mr. Crawford Sampler",
@@ -683,38 +771,6 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "New 50's",
-        "url": "https://open.spotify.com/album/16TFhLh8M2aSIfXhK7DxOr"
-      },
-      "artists": [
-        {
-          "name": "GMK",
-          "url": "https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj"
-        }
-      ],
-      "duration_ms": 114261,
-      "name": "New 50's",
-      "url": "https://open.spotify.com/track/1E2ukB8wWsO5BFVrhpgg99"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Momma's Love",
-        "url": "https://open.spotify.com/album/4WfAf1lx0yhB0fZy9CNSKX"
-      },
-      "artists": [
-        {
-          "name": "Morray",
-          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
-        }
-      ],
-      "duration_ms": 148453,
-      "name": "Momma's Love",
-      "url": "https://open.spotify.com/track/4VKcsU0q35soshCh22i17a"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
         "name": "Keeper",
         "url": "https://open.spotify.com/album/2coZBB3PhjAsm1HMRucDwm"
       },
@@ -727,26 +783,6 @@
       "duration_ms": 200192,
       "name": "Keeper",
       "url": "https://open.spotify.com/track/2DxrPZi0nxaIrGciFmErTW"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Big Grim Reaper: The Return",
-        "url": "https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut"
-      },
-      "artists": [
-        {
-          "name": "Big Scarr",
-          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/3xWSt0mL474uQlh5Zm6NsW"
-        }
-      ],
-      "duration_ms": 202783,
-      "name": "Fantasy (feat. Offset)",
-      "url": "https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -767,22 +803,6 @@
       "duration_ms": 170270,
       "name": "Wheelie (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
-    },
-    {
-      "added_at": "2022-04-08 04:31:56",
-      "album": {
-        "name": "Yak Flow",
-        "url": "https://open.spotify.com/album/09E5HODaBOJacIB2xHlzrL"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 157768,
-      "name": "Yak Flow",
-      "url": "https://open.spotify.com/track/0PP7bQ2n8pnTrHT81t3GPd"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -857,22 +877,6 @@
       "url": "https://open.spotify.com/track/0uX7dGC07Dd8mpvnCcWzH0"
     },
     {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Banking On Me",
-        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Banking On Me",
-      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
-    },
-    {
       "added_at": "2022-04-22 04:00:00",
       "album": {
         "name": "Brazy",
@@ -911,46 +915,6 @@
       "duration_ms": 124800,
       "name": "Free The Shiners",
       "url": "https://open.spotify.com/track/5NMWPokmUZIX1ySu7YLF74"
-    },
-    {
-      "added_at": "2022-04-01 04:01:00",
-      "album": {
-        "name": "D-Day: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 173589,
-      "name": "Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz)",
-      "url": "https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Pain Killers",
-        "url": "https://open.spotify.com/album/7GuuNMJ4mj51oDXgWmxoRH"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Pain Killers",
-      "url": "https://open.spotify.com/track/1JixF2WqbP3LyiroGiRyog"
     }
   ],
   "unique_name": "No Cap",

@@ -236,6 +236,24 @@
     },
     {
       "album": {
+        "name": "Coucou",
+        "url": "https://open.spotify.com/album/5ZPSCr10M050pYwZM2lDyn"
+      },
+      "artists": [
+        {
+          "name": "Tchavolo Schmitt",
+          "url": "https://open.spotify.com/artist/500N0I1rRpN81oULt3QUFY"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176386,
+      "name": "Coucou",
+      "url": "https://open.spotify.com/track/5whsPGYSk2FMFCkluUkp6I"
+    },
+    {
+      "album": {
         "name": "Django's Tiger",
         "url": "https://open.spotify.com/album/5XGhKJPYf1xr5x0p8IqV1U"
       },

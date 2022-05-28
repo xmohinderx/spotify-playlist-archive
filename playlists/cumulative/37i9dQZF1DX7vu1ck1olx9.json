@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "Cool down with these chill beats",
   "name": "Lo-Fi Cool Down",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1idItpP21h4PxE18P8Ie1N"
+  ],
   "tracks": [
     {
       "album": {
@@ -343,7 +345,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 108000,
       "name": "controlla",
       "url": "https://open.spotify.com/track/7woCxOw0jmj65ohlQ3x0tH"
@@ -383,7 +385,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 118588,
       "name": "Distune",
       "url": "https://open.spotify.com/track/2jeMAj7vVNbhhZdWNCDe51"
@@ -455,7 +457,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 132944,
       "name": "feeling kind of sad",
       "url": "https://open.spotify.com/track/1kfqBNHMtJQnbGUUaDzdLB"
@@ -539,7 +541,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 130370,
       "name": "Gin",
       "url": "https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u"
@@ -732,6 +734,28 @@
     },
     {
       "album": {
+        "name": "It's Ok",
+        "url": "https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek"
+      },
+      "artists": [
+        {
+          "name": "Pandrezz",
+          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
+        },
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        }
+      ],
+      "date_added": "2020-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168297,
+      "name": "It's Ok",
+      "url": "https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88"
+    },
+    {
+      "album": {
         "name": "Neon Impasse",
         "url": "https://open.spotify.com/album/3M1CEjZiljxpfxoHFHoqNP"
       },
@@ -827,7 +851,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 110789,
       "name": "makeitliveforever",
       "url": "https://open.spotify.com/track/2xXSBf2g9yFvNwL966JrUO"
@@ -892,6 +916,24 @@
     },
     {
       "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/598S5qbw2Q9pj4kjVS2sqw"
+      },
+      "artists": [
+        {
+          "name": "Lemongrass",
+          "url": "https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195546,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/3r5R3UBhe7Cdgywozq4zKz"
+    },
+    {
+      "album": {
         "name": "New Levels",
         "url": "https://open.spotify.com/album/2uiimsW2bYwFebpQTfY33m"
       },
@@ -907,7 +949,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 232941,
       "name": "New Levels",
       "url": "https://open.spotify.com/track/0IEhsMbSmiwiDzDENW3LK5"
@@ -947,7 +989,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 163764,
       "name": "night.owls",
       "url": "https://open.spotify.com/track/2bFnRt6WKhNw4maKOxLyj3"
@@ -965,7 +1007,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 163764,
       "name": "Night.Owls",
       "url": "https://open.spotify.com/track/6cNfp0BOhhlETMpN7pBsXY"
@@ -1263,7 +1305,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 62000,
       "name": "something easy",
       "url": "https://open.spotify.com/track/3ERiZbndVXtCGXIREDHKgD"
@@ -1559,7 +1601,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 150507,
       "name": "The Soul of Things",
       "url": "https://open.spotify.com/track/43bu6Gf4x8MWZYfrTLxL7d"
@@ -1585,7 +1627,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 131000,
       "name": "thinking of you",
       "url": "https://open.spotify.com/track/1oSevjov1EOdo8TYcrb5nQ"
@@ -1741,7 +1783,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 71111,
       "name": "weak",
       "url": "https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30"

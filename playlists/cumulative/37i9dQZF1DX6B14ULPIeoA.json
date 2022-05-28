@@ -2,8 +2,28 @@
   "date_first_scraped": "2022-05-26",
   "description": "\u00a1Dulces, verdes y rojos! Con su champurrado calientito. ",
   "name": "Tamales & Atole",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "73UOu4GnK799VXnAbtt9LK"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Traves Del Vaso",
+        "url": "https://open.spotify.com/album/3Bd1WTH6KioFvYuv8Z0hOB"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Streep",
+          "url": "https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200569,
+      "name": "A Traves Del Vaso",
+      "url": "https://open.spotify.com/track/1hkqXThaFrtIvAtH1Pq7zz"
+    },
     {
       "album": {
         "name": "Canciones",
@@ -21,6 +41,24 @@
       "duration_ms": 193674,
       "name": "Adio\u0301s Amor",
       "url": "https://open.spotify.com/track/2kA8HXXFHGu9Ml8TYrK2sx"
+    },
+    {
+      "album": {
+        "name": "Adoro",
+        "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145750,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
     },
     {
       "album": {
@@ -53,7 +91,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 243500,
       "name": "Alma Enamorada",
       "url": "https://open.spotify.com/track/475CRI2f2N51OgUuwO4svT"
@@ -89,7 +127,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 158250,
       "name": "Andamos Recio",
       "url": "https://open.spotify.com/track/0zT0WSXapaFhlDaKSAZtlS"
@@ -129,7 +167,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 228000,
       "name": "Besame mucho",
       "url": "https://open.spotify.com/track/5vhnImcjl350KnUDZNAIRK"
@@ -147,7 +185,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 127068,
       "name": "Brisas",
       "url": "https://open.spotify.com/track/2fnzfTG0Cg1nkI0tboLzzx"
@@ -353,7 +391,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 158996,
       "name": "Con Tus Besos",
       "url": "https://open.spotify.com/track/6cV5ZLSn6boxiNG2ZQAzB9"
@@ -429,7 +467,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 145669,
       "name": "Cuando Brille El Sol",
       "url": "https://open.spotify.com/track/1ySHobU6CwzjPlcBs54bWd"
@@ -535,7 +573,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 176093,
       "name": "De que manera te olvido",
       "url": "https://open.spotify.com/track/3oT6o5XaF3G0hkVSUnI2nD"
@@ -629,7 +667,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 200626,
       "name": "Ecos Del Pasado",
       "url": "https://open.spotify.com/track/1GfMZCMxWTTIrrprX1dPDG"
@@ -701,7 +739,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 168196,
       "name": "El Viaje",
       "url": "https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3"
@@ -741,6 +779,28 @@
       "duration_ms": 153142,
       "name": "En Mi Viejo San Juan - Mariachi Bolero Cover",
       "url": "https://open.spotify.com/track/2II53s4BPSJNK2ibonPL7L"
+    },
+    {
+      "album": {
+        "name": "Alma Mexicana",
+        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
+      },
+      "artists": [
+        {
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        },
+        {
+          "name": "David Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123653,
+      "name": "Escucha Mi Voz",
+      "url": "https://open.spotify.com/track/735Q2UQdQ8s4JbTnkXpoWq"
     },
     {
       "album": {
@@ -799,7 +859,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 130500,
       "name": "Esperare",
       "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
@@ -861,7 +921,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 158573,
       "name": "Esta tarde vi llover (Arr. R. Jonas)",
       "url": "https://open.spotify.com/track/2srMcg2JPjE7VUenswwNOD"
@@ -883,6 +943,32 @@
       "duration_ms": 177142,
       "name": "Europa - Mariachi Bolero Cover",
       "url": "https://open.spotify.com/track/1NZCXBfmaaLbRllblMJZwG"
+    },
+    {
+      "album": {
+        "name": "Flor de Terciopelo",
+        "url": "https://open.spotify.com/album/5MhACAv7eEF8vSZurky3t6"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135958,
+      "name": "Flor de Terciopelo",
+      "url": "https://open.spotify.com/track/4Rl3L5PjoT813YQQW6w4J1"
     },
     {
       "album": {
@@ -1251,7 +1337,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 138000,
       "name": "Llevatela",
       "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
@@ -1269,7 +1355,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 164500,
       "name": "Llorando Estoy Por Ti",
       "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
@@ -1305,7 +1391,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 124500,
       "name": "Luna Lunera",
       "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
@@ -1396,6 +1482,24 @@
     },
     {
       "album": {
+        "name": "Me Vuelves Loco",
+        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
+      },
+      "artists": [
+        {
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
+    },
+    {
+      "album": {
         "name": "Trios",
         "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
@@ -1448,6 +1552,24 @@
     },
     {
       "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "No",
+      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
+    },
+    {
+      "album": {
         "name": "Alma Mexicana",
         "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
       },
@@ -1481,7 +1603,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 229533,
       "name": "No volvere",
       "url": "https://open.spotify.com/track/2UgtqySmAckiuEsRqNbCaX"
@@ -1499,7 +1621,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 166500,
       "name": "Nos Hizo Falta Tiempo",
       "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
@@ -1521,7 +1643,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 140560,
       "name": "Orgullo Mexicano",
       "url": "https://open.spotify.com/track/5wtL0whaBlX8Awp2KfAfFJ"
@@ -1564,6 +1686,24 @@
     },
     {
       "album": {
+        "name": "Parece Que Fue Ayer",
+        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
+    },
+    {
+      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
       },
@@ -1575,7 +1715,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 162944,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
@@ -1593,7 +1733,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 266582,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS"
@@ -1695,7 +1835,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 133189,
       "name": "Que Bonito Es Lo Bonito",
       "url": "https://open.spotify.com/track/0BtOMyBVzuys6ncHGSptT0"
@@ -1731,7 +1871,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 193670,
       "name": "Querida",
       "url": "https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO"
@@ -1797,7 +1937,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 174480,
       "name": "Quiereme Corazon Quiereme",
       "url": "https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M"
@@ -1849,7 +1989,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 210600,
       "name": "Quizas, quizas",
       "url": "https://open.spotify.com/track/29TJXRqXKHdsP9gcUD5UK9"
@@ -2117,7 +2257,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 251239,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/7APAifNtYhdDDRalqc6Qvo"
@@ -2175,7 +2315,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 165569,
       "name": "Tragos Amargos",
       "url": "https://open.spotify.com/track/1jhaFZpN6grqcweo0kUElQ"
@@ -2255,7 +2395,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 290426,
       "name": "Una Flor En La Laguna",
       "url": "https://open.spotify.com/track/0WvT3GRKi55mz5sZr9qVg9"
@@ -2343,7 +2483,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 174000,
       "name": "Ya Acabo",
       "url": "https://open.spotify.com/track/07NnD0MqN5lesPhy3faZkj"
@@ -2361,7 +2501,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 148500,
       "name": "Ya Te Olvide",
       "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
@@ -2379,7 +2519,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 232727,
       "name": "Yo Ya No Vuelvo Contigo",
       "url": "https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf"

@@ -5188,6 +5188,24 @@
     },
     {
       "album": {
+        "name": "Mini World",
+        "url": "https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH"
+      },
+      "artists": [
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316280,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7"
+    },
+    {
+      "album": {
         "name": "Love To Keep Me Warm",
         "url": "https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF"
       },
@@ -6641,6 +6659,28 @@
       "duration_ms": 172933,
       "name": "PUFFIN ON ZOOTIEZ",
       "url": "https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi"
+    },
+    {
+      "album": {
+        "name": "Punk Tactics",
+        "url": "https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence",
+          "url": "https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu"
+        },
+        {
+          "name": "Brae",
+          "url": "https://open.spotify.com/artist/1QGptNgo1M6cD7EjrFZmRp"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143552,
+      "name": "Punk Tactics",
+      "url": "https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy"
     },
     {
       "album": {
@@ -8853,7 +8893,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 220551,
       "name": "Vegas (I Wanna Ride)",
       "url": "https://open.spotify.com/track/2bId06MUsxJqO7LoeLZoq5"
@@ -9447,7 +9487,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 201639,
       "name": "Wild as Her",
       "url": "https://open.spotify.com/track/7FEu6U2jXAs2URjx93AyTm"

@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 238560,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 223762,
       "name": "Before I Go",
       "url": "https://open.spotify.com/track/3q4PyKrOXN7TR1JZmdHXzK"
@@ -1395,7 +1395,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 173826,
       "name": "Feel Like Makin' Love",
       "url": "https://open.spotify.com/track/4edgZcFVRnebJ1F46TDnqr"
@@ -2345,7 +2345,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 219080,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/3piY5aMfwEEmXMV6I9kpoi"
@@ -2691,7 +2691,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 195706,
       "name": "Li'l Darlin",
       "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
@@ -2745,7 +2745,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 264493,
       "name": "Lost In A Blue Note",
       "url": "https://open.spotify.com/track/29dFStdDNJHdgGPhwyKdbB"
@@ -2911,6 +2911,28 @@
       "duration_ms": 290653,
       "name": "Memories of You",
       "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
+    },
+    {
+      "album": {
+        "name": "Learning Experience",
+        "url": "https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        },
+        {
+          "name": "Maximillian",
+          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192836,
+      "name": "Miss The Party",
+      "url": "https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv"
     },
     {
       "album": {
@@ -3571,7 +3593,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 292933,
       "name": "Rush Rush",
       "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
@@ -3719,7 +3741,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 257133,
       "name": "She Will Be Loved",
       "url": "https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66"
@@ -4073,7 +4095,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 205949,
       "name": "Stay Awake with Me",
       "url": "https://open.spotify.com/track/3MkHuCfudrizswQMFcDPNS"
@@ -4243,7 +4265,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 214746,
       "name": "Suitcase",
       "url": "https://open.spotify.com/track/5HlFO9E6TgsCpJWVjguZDl"
@@ -5045,7 +5067,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 213066,
       "name": "Worldstop",
       "url": "https://open.spotify.com/track/2x2sIzphml58Tkb6IN6FEA"

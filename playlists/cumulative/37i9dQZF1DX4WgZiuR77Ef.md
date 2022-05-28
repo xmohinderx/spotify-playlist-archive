@@ -4,18 +4,20 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-134 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+136 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [.img](https://open.spotify.com/track/5BXZOifc6Z6M2QCYWPFspA) | [Brother Theodore](https://open.spotify.com/artist/5MBOU2gdYzq0EDy0BoUykg) | [St\. Ann](https://open.spotify.com/album/3DOaQqmgxasR3CtsJnnynn) | 5:47 | 2020-10-30 | 2022-04-09 |
 | [A Message from the Meters](https://open.spotify.com/track/0uV4hoKCnJIlveeJZKhgux) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Jeannie's Getdown](https://open.spotify.com/album/6xzRzbqzsfE3uEkcgZkKrn) | 3:06 | 2020-10-30 | 2022-04-09 |
+| [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/track/2ZUIMmjpRjCzopFJl7F5EX) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam), [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/album/1IJYB2w5KHSGickzC7y0Mj) | 4:43 | 2022-05-27 |  |
 | [Baby Get Down](https://open.spotify.com/track/6qJkfU8aHK5NGmpAL6Nfq3) | [The Burroughs](https://open.spotify.com/artist/61xHHZBWUMoheAPbd28E3r) | [Baby Get Down](https://open.spotify.com/album/6S4OFrzckKTRRWg6T6vgUv) | 3:52 | 2021-07-23 |  |
 | [Bad Mother](https://open.spotify.com/track/4xljuYgtxgfNAHqRXJDjMe) | [The Gold Setting](https://open.spotify.com/artist/75Vs0ljvN9S4DAvNTfwSoH), [Liza Colby](https://open.spotify.com/artist/5bTibFXwZmP1FhKiHcX5iX), [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [Bad Mother](https://open.spotify.com/album/4sdGVLaafBIyRwceP96FnR) | 2:54 | 2021-04-09 |  |
 | [Better Off Dead \(feat\. Nikki Lane\)](https://open.spotify.com/track/578IWecGEFe6XkbAd6iDis) | [Boulevards](https://open.spotify.com/artist/1OO2uAMcUCXUkFzDdsr7x7), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Better Off Dead](https://open.spotify.com/album/6LrcNG6dzsOjFB1gctkn7Z) | 4:09 | 2021-11-19 |  |
 | [Bewise](https://open.spotify.com/track/0F95zronVQU2C77EN15kny) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Bewise](https://open.spotify.com/album/1EeQWZK8nAfOHHXe95DlTc) | 3:43 | 2021-07-30 |  |
 | [Black Rhythm Happening](https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Black Rhythm Happening](https://open.spotify.com/album/5L1apjgVkSAKuWQZyuqmRz) | 3:34 | 2021-10-29 |  |
 | [Brand New Day](https://open.spotify.com/track/50kcNzbEiu0nlSKTGAJe9W) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Brand New Day](https://open.spotify.com/album/0Whv0ihThqPDFw9WBgk8fG) | 3:59 | 2021-08-06 |  |
+| [Burn](https://open.spotify.com/track/1jdtArpBS5Wgboi8qsvl41) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Phil Diamond](https://open.spotify.com/artist/7BM0xp1rKAn5qB62J4FBOh) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 3:38 | 2022-05-27 |  |
 | [Can't Buy Groove](https://open.spotify.com/track/2AHtozTlrSktpu5CiWUpFf) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Can't Buy Groove](https://open.spotify.com/album/1NgLnJ3z4gu093e180StsA) | 2:54 | 2020-10-30 |  |
 | [Canned Champagne](https://open.spotify.com/track/4yYR3NQfBqgN9OdX2Z32BX) | [Scone Cash Players](https://open.spotify.com/artist/3GMruM6YOWc69pzKC74qK5), [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [Canned Champagne](https://open.spotify.com/album/6F75dyCtjcnQoXYyjjzBy9) | 4:06 | 2020-10-30 | 2022-04-09 |
 | [Cashew](https://open.spotify.com/track/5cicFBkl7O1Q7f4IKT20Mw) | [YAM YAM](https://open.spotify.com/artist/2Y6yVzWTfqjVEMvwO4UX63) | [Cashew](https://open.spotify.com/album/7MOBVl0YbpdVHNVEOovUja) | 3:56 | 2021-06-11 |  |

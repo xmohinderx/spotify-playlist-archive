@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 
 > Cool beats for homework time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,689 likes - 146 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,698 likes - 146 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 137 | [Ekans](https://open.spotify.com/track/2PaFzDcgVZIHqN8XvV4azQ) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [KEEN: Soft Beats Vol\. 1](https://open.spotify.com/album/3VgJOpq6wEKsHtn2zb7LKi) | 2:20 |
 | 138 | [after hours](https://open.spotify.com/track/4w2l2msoYjJ2lJfTKuIXeV) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [after hours](https://open.spotify.com/album/4MV52O0LoqeryUP0YAjE0T) | 2:34 |
 | 139 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 |
-| 140 | [Decisions](https://open.spotify.com/track/693x7mqPNtiFzJSkFZcB1N) | [NAGASHI](https://open.spotify.com/artist/0M50twWlneC1mfo1nACA6j) | [Decisions](https://open.spotify.com/album/79QW0d9b9NaPPKMhWGyoak) | 1:29 |
+| 140 | [Decisions](https://open.spotify.com/track/693x7mqPNtiFzJSkFZcB1N) | [NAGASHI](https://open.spotify.com/artist/6IOLrMWpyxWJHbL4chHEdX) | [Decisions](https://open.spotify.com/album/79QW0d9b9NaPPKMhWGyoak) | 1:29 |
 | 141 | [Forest Mill Trail](https://open.spotify.com/track/6dX8Ig6x1O7dhv7aNvfRzz) | [no sentences](https://open.spotify.com/artist/5C7aF0Eu8C7WejaTPkETdb) | [Forest Mill Trail](https://open.spotify.com/album/4qgFxJFBttHUAAf3vRYbCy) | 1:49 |
 | 142 | [Sidewall](https://open.spotify.com/track/4l7jeahYuBbxTlc9L6G7nY) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Sidewall](https://open.spotify.com/album/0h9LLix6ntwKH349MCZP0j) | 2:12 |
 | 143 | [Albatros](https://open.spotify.com/track/3XCzyLM9kgBYQsuSg05cos) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2ZV5zCY2tJBRn0EtLOj3gr) | 2:45 |

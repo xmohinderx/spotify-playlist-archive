@@ -1,6 +1,6 @@
 {
   "description": "All the new music you need to hear right now. Cover: Liam Gallagher",
-  "num_followers": 522118,
+  "num_followers": 522174,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,26 @@
       "duration_ms": 174080,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu"
+    },
+    {
+      "added_at": "2022-05-26 23:00:00",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
     },
     {
       "added_at": "2022-05-26 23:00:00",
@@ -226,10 +246,6 @@
         {
           "name": "Majestic",
           "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "DJ Q",
-          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
         }
       ],
       "duration_ms": 164226,
@@ -301,7 +317,7 @@
         }
       ],
       "duration_ms": 201563,
-      "name": "Jimmy, Brian And Mike",
+      "name": "Jimmy, Brian and Mike",
       "url": "https://open.spotify.com/track/7wtDXxRShBmxJAeXzE4H3p"
     },
     {

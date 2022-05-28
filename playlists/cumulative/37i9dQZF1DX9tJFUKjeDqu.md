@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-66 songs - 4 hr 53 min - not published yet
+66 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

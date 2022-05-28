@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
 
-229 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+230 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Sanchari \(From "Radhe Shyam"\)](https://open.spotify.com/track/5RCRbsCqsMyaqN5y4A59Zw) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Sanchari \(From "Radhe Shyam"\)](https://open.spotify.com/album/6BG4Bze3Vhv0z421fHZlDp) | 4:28 | 2021-12-16 | 2022-02-03 |
 | [Sanchariyagu Nee \(From "Love Mocktail 2"\)](https://open.spotify.com/track/0QQLxtHsKohST4DM3TQze9) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Sanchariyagu Nee \(From "Love Mocktail 2"\)](https://open.spotify.com/album/1eT6Roqw79faqaorSKSbtO) | 5:17 | 2021-12-06 |  |
 | [Seese Olagina Madhure](https://open.spotify.com/track/0Uw3xqwMPWnRTmsOJYrt6O) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Halli Hykla Pyate Lifu](https://open.spotify.com/album/5rfjudzKRujhuyZXeNEPqG) | 4:25 | 2022-01-07 | 2022-02-16 |
+| [Shambo Shankara \- From "Manasmita"](https://open.spotify.com/track/4QWTX23ULOIuBaqgE0jJo9) | [Harikavya](https://open.spotify.com/artist/7DAiLkWVM1sl8H8gNDB4SH) | [Shambo Shankara \(From "Manasmita"\)](https://open.spotify.com/album/2ndQu2kroD6cQEjMrigAlg) | 3:30 | 2022-05-27 |  |
 | [Sojugada Soojumallige \(From "Garuda Gamana Vrishabha Vahana"\)](https://open.spotify.com/track/4LqXkFZctfZnu1ezSu39Q5) | [Midhun Mukundan](https://open.spotify.com/artist/6oyTfygD0Skzy7RZOdUAZp), [Chaithra J Achar](https://open.spotify.com/artist/5TSbHC0mvwnP6RBewptu2B) | [Sojugada Soojumallige \(From "Garuda Gamana Vrishabha Vahana"\)](https://open.spotify.com/album/0oHBgz7DYGST4J9YAkkTfv) | 2:47 | 2021-12-06 |  |
 | [Soul Of Benki \(From "Benki"\)](https://open.spotify.com/track/489lOqWndeF8aedE73AvWl) | [Anand Rajavikram](https://open.spotify.com/artist/3dRKC2Ej6Dn7afgPJoZ1xZ), [Chaithra J Achar](https://open.spotify.com/artist/5TSbHC0mvwnP6RBewptu2B) | [Soul Of Benki \(From "Benki"\)](https://open.spotify.com/album/6Umt3uMk1gjh7iam7swUXB) | 2:31 | 2022-05-23 |  |
 | [Srivalli](https://open.spotify.com/track/2GjxP57bRHuzU5JKmmZKYn) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Pushpa \- The Rise](https://open.spotify.com/album/4Fo9Dw8dtHZ1xXI5yOxNnJ) | 3:41 | 2021-12-06 |  |

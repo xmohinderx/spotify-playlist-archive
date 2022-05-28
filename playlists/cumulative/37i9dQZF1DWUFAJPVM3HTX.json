@@ -796,6 +796,24 @@
     },
     {
       "album": {
+        "name": "Natasha Mosley",
+        "url": "https://open.spotify.com/album/2ljiL5OmK8EXW21ROuggvz"
+      },
+      "artists": [
+        {
+          "name": "Natasha Mosley",
+          "url": "https://open.spotify.com/artist/1fYdgyGBrMIEML5cuo5FpZ"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205998,
+      "name": "Be Without You",
+      "url": "https://open.spotify.com/track/5vdSk60SVmxr2ISu17KHB5"
+    },
+    {
+      "album": {
         "name": "I Hear Trap in My Nightmares",
         "url": "https://open.spotify.com/album/75hpoILaH9jbz97ggN9CYs"
       },
@@ -4871,7 +4889,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 198922,
       "name": "Long Gone",
       "url": "https://open.spotify.com/track/7ikpLVg5oCWF1VRybIK6IV"
@@ -6596,6 +6614,24 @@
     },
     {
       "album": {
+        "name": "Casper Sage",
+        "url": "https://open.spotify.com/album/5DAYEhp2PPv7eDL5UTf4vr"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266772,
+      "name": "Rearrange",
+      "url": "https://open.spotify.com/track/1APcu1K9e8tT6gqcxZ8PZS"
+    },
+    {
+      "album": {
         "name": "Grey",
         "url": "https://open.spotify.com/album/6eVB1GbcIIcDZf8Gm7zOex"
       },
@@ -7655,7 +7691,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 192378,
       "name": "Stay with Me",
       "url": "https://open.spotify.com/track/7k7knD8TwjQipLsg4WBkZF"

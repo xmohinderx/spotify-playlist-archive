@@ -11918,6 +11918,24 @@
     },
     {
       "album": {
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/6BWS7gNp0fd4UcAEShQZ8F"
+      },
+      "artists": [
+        {
+          "name": "Monotronic",
+          "url": "https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/5fo38M8R6w9NDvROwFIJ8S"
+    },
+    {
+      "album": {
         "name": "In Color Blue",
         "url": "https://open.spotify.com/album/6qUfnEl5Jx3fDPVWQ2AUUa"
       },
@@ -19489,6 +19507,24 @@
       "duration_ms": 155000,
       "name": "Reset",
       "url": "https://open.spotify.com/track/6wSXxJVS9RKY54JzfFVecw"
+    },
+    {
+      "album": {
+        "name": "Resist",
+        "url": "https://open.spotify.com/album/0JIdtCZDyBBRDHg02JCv4D"
+      },
+      "artists": [
+        {
+          "name": "Melory",
+          "url": "https://open.spotify.com/artist/6Q0ZhooKGwhS2CgmLuXgyI"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186238,
+      "name": "Resist",
+      "url": "https://open.spotify.com/track/36C5RcU2y7ymhezNlvngog"
     },
     {
       "album": {

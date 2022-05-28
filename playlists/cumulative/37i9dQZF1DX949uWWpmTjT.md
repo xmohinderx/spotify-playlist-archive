@@ -4,7 +4,7 @@
 
 > Slow and soft sounds of jazz.
 
-135 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
+136 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Stream](https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Stream](https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde) | 7:03 | 2022-03-10 |  |
 | [Summertime](https://open.spotify.com/track/52g9vHlua2MBt6PhkZfUrT) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [West Coast Jazz \(Expanded Edition\)](https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y) | 6:08 | 2021-12-03 |  |
 | [Sunday](https://open.spotify.com/track/6LkPWM2a6mHTjhw2ejgIYs) | [Lee Konitz Quartet](https://open.spotify.com/artist/6c2FFoYYHufG0gxmk790Vj) | [Tranquility](https://open.spotify.com/album/7Iy7v5tD2N6Q4uHCKU4H7F) | 3:25 | 2021-12-03 |  |
+| [Sweetness](https://open.spotify.com/track/3xvd1bC0V1U3nQ24y2nBk8) | [Christian Jacob](https://open.spotify.com/artist/27N1tGShltXJPjzwxs9eMZ), [Darek Oleszkiewicz](https://open.spotify.com/artist/1j4llYRtsnwcHIM0SrDstl), [Joe La barbera](https://open.spotify.com/artist/55CwMwuNvVsQXrC3KwMwUe) | [New Jazz Standards Vol 5 • the Music of Carl Saunders](https://open.spotify.com/album/5KcV3e2Dl3fQ1DngCZZITn) | 4:48 | 2022-05-24 |  |
 | [Tea For Two](https://open.spotify.com/track/5wMykWFbz1CV2eXaGLjlbj) | [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Larry Grenadier](https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV) | [On Broadway Vol\. 4 or the Paradox of Continuity](https://open.spotify.com/album/1krBoEyffLMXuGqGkpKEhw) | 4:07 | 2021-12-03 |  |
 | [Teru \- Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/2WSJsFFzxQGYFJlR57ddGI) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:12 | 2021-12-03 |  |
 | [That Old Feeling](https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Louis Armstrong Meets Oscar Peterson \(Expanded Edition\)](https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0) | 2:43 | 2021-12-03 |  |
@@ -125,7 +126,7 @@
 | [Time On My Hands](https://open.spotify.com/track/0k0hexhhae8c7wrgr9d42v) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 1:36 | 2021-12-03 |  |
 | [Tis Autumn](https://open.spotify.com/track/0LNmnKqqiIreCnb8BMowCr) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \[Keepnews Collection\]](https://open.spotify.com/album/22iexSLOOt0pQ4dtbPTyA9) | 5:18 | 2021-12-03 |  |
 | [Too Late Now](https://open.spotify.com/track/5MSV42dMBJZ21P8BxLCxum) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Notes From New York](https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5) | 8:54 | 2021-12-03 |  |
-| [Trav'lin Light](https://open.spotify.com/track/4Djv64pynMBVRER1eWxxCH) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:07 | 2022-01-27 |  |
+| [Trav'lin Light](https://open.spotify.com/track/4Djv64pynMBVRER1eWxxCH) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:07 | 2022-01-27 | 2022-05-28 |
 | [Trouble In Mind](https://open.spotify.com/track/1Q3nwehHU6712WVfvpWVpz) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red In Bluesville](https://open.spotify.com/album/275AqoGJKv5Mu2quadBUTM) | 5:44 | 2022-04-14 |  |
 | [Under A Blanket Of Blue](https://open.spotify.com/track/2WesYvXttArUlbpOGDCwR3) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 4:36 | 2021-12-03 |  |
 | [Unsentimental](https://open.spotify.com/track/7JmMOryQFeykS1BEWInJSs) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Unsentimental](https://open.spotify.com/album/1XetCzlMmbbOg5evN3Bp9d) | 5:00 | 2021-12-03 |  |

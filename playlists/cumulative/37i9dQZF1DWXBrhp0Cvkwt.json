@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "soundtracking your ex calling/technology disarray/existential crisis  ",
   "name": "mercury in retrograde",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7xn0WLmo8CN5m9X5KXy76q"
+  ],
   "tracks": [
     {
       "album": {
@@ -57,7 +59,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 253800,
       "name": "9",
       "url": "https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp"
@@ -100,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Alewife",
+      "url": "https://open.spotify.com/track/3jgrNd3uPU1c2PFBKYsV9d"
+    },
+    {
+      "album": {
         "name": "IGOR",
         "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },
@@ -133,6 +153,24 @@
       "duration_ms": 243907,
       "name": "Astronomy",
       "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
+    },
+    {
+      "album": {
+        "name": "at least i'm pretty",
+        "url": "https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106800,
+      "name": "at least i'm pretty",
+      "url": "https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj"
     },
     {
       "album": {
@@ -259,7 +297,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 231253,
       "name": "Broken Clocks",
       "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
@@ -277,7 +315,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 160500,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/4qkVALwOxCIEZ7I5gkZ3m4"
@@ -331,7 +369,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 231720,
       "name": "Chamber Of Reflection",
       "url": "https://open.spotify.com/track/5oeOWXjH8NZFOWP0SpSXqV"
@@ -367,7 +405,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 215515,
       "name": "chance with you",
       "url": "https://open.spotify.com/track/7qFtcljd0PZ5kJZos70YjT"
@@ -403,7 +441,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 174133,
       "name": "Change My Mind",
       "url": "https://open.spotify.com/track/7ISSqT0VPIh8A9tIVxurUu"
@@ -533,7 +571,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 238654,
       "name": "Cowboys",
       "url": "https://open.spotify.com/track/4pQx11xYo2rNP5HdOoaLgt"
@@ -569,7 +607,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 211058,
       "name": "Crushed",
       "url": "https://open.spotify.com/track/3k0SETuSN77lOH9FwSCnGS"
@@ -659,7 +697,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 203247,
       "name": "Falling Asleep At The Wheel",
       "url": "https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9"
@@ -767,10 +805,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 271466,
       "name": "ghostin",
       "url": "https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC"
+    },
+    {
+      "album": {
+        "name": "O My Heart",
+        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285986,
+      "name": "Ghosting",
+      "url": "https://open.spotify.com/track/3vZUC1m6QVm7urnN6lcF64"
     },
     {
       "album": {
@@ -785,7 +841,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 342040,
       "name": "Good News",
       "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY"
@@ -839,7 +895,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 215760,
       "name": "Heaven Knows I'm Miserable Now - 2011 Remaster",
       "url": "https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw"
@@ -933,10 +989,46 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 167538,
       "name": "I miss you, I\u2019m sorry",
       "url": "https://open.spotify.com/track/1tF7RL54zjHSy0N2qEQLDY"
+    },
+    {
+      "album": {
+        "name": "Locals 2",
+        "url": "https://open.spotify.com/album/3kWPtRY5FCFhjDFTMNdvP3"
+      },
+      "artists": [
+        {
+          "name": "WILLIS",
+          "url": "https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278293,
+      "name": "I Think I Like When It Rains",
+      "url": "https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X"
+    },
+    {
+      "album": {
+        "name": "dead",
+        "url": "https://open.spotify.com/album/5cEJ9XTxsUKterwl1nAm2I"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207026,
+      "name": "idfc",
+      "url": "https://open.spotify.com/track/3SErMoIKdRELto2OspGs5L"
     },
     {
       "album": {
@@ -987,7 +1079,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 189905,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3pcxxaUxAMSfz2zgetHydD"
@@ -1023,7 +1115,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 278991,
       "name": "Juliet",
       "url": "https://open.spotify.com/track/6jGL34RJnKKCkzUQiIas6t"
@@ -1045,6 +1137,24 @@
       "duration_ms": 156106,
       "name": "July",
       "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
+    },
+    {
+      "album": {
+        "name": "Larabar",
+        "url": "https://open.spotify.com/album/2HN00Up5QVROR1PGaqXEA4"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175122,
+      "name": "Larabar",
+      "url": "https://open.spotify.com/track/5wNVNjLNMX0jhefWFOqgT2"
     },
     {
       "album": {
@@ -1095,7 +1205,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 220007,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/6QpZXzHcOgXK41Y3YCx203"
@@ -1221,7 +1331,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 169330,
       "name": "mutt",
       "url": "https://open.spotify.com/track/44Q2fSohgPmMQsNm0sec1P"
@@ -1355,7 +1465,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 116666,
       "name": "Please Notice",
       "url": "https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7"
@@ -1373,7 +1483,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 203384,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
@@ -1391,10 +1501,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 240719,
       "name": "self crucify",
       "url": "https://open.spotify.com/track/36devlce37d8V3cICTukvN"
+    },
+    {
+      "album": {
+        "name": "Surrender (2014 - 2017)",
+        "url": "https://open.spotify.com/album/78RlalVILUrWdkRSHiNT2z"
+      },
+      "artists": [
+        {
+          "name": "Lontalius",
+          "url": "https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112863,
+      "name": "Sleep Thru Ur Alarms",
+      "url": "https://open.spotify.com/track/3Mmt4wAMtWRmObAxbejpPe"
     },
     {
       "album": {
@@ -1427,7 +1555,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 180269,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/7ufvTDIjfqAhYZLXUX0lrF"
@@ -1485,7 +1613,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 230200,
       "name": "String Lights",
       "url": "https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq"
@@ -1543,7 +1671,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 170413,
       "name": "Sweet & Spice",
       "url": "https://open.spotify.com/track/14KaviDbKTubxaPF0ADBL9"
@@ -1633,7 +1761,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -1730,6 +1858,24 @@
     },
     {
       "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196173,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1"
+    },
+    {
+      "album": {
         "name": "Walk Backwards",
         "url": "https://open.spotify.com/album/4SNsbjYVRLFsQiS6I5DjBd"
       },
@@ -1741,7 +1887,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 153080,
       "name": "Walk Backwards",
       "url": "https://open.spotify.com/track/4DhyT4rKKJh8tGVVrjY77m"
@@ -1853,7 +1999,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 126312,
       "name": "worldstar money (interlude)",
       "url": "https://open.spotify.com/track/0baNzeUcPQnQSagpe8T0mD"

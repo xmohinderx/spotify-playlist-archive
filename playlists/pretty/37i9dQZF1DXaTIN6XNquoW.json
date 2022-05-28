@@ -1,12 +1,12 @@
 {
   "description": "Jam and remember the time with this collection of hits by the <a href=\"spotify:artist:3fMbdgg4jU18AjLCKBhRSm\">King of Pop</a>!",
-  "num_followers": 2248472,
+  "num_followers": 2249227,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzU1OTIxMCwwMDAwMDAyYTAwMDAwMTgwZmZjZjMzNTUwMDAwMDE2ZDAwYmZmNDcz",
+  "snapshot_id": "MTY1MzY0OTYyOSwwMDAwMDAyYjAwMDAwMTgxMDUzMmRmNmUwMDAwMDE2ZDAwYmZmNDcz",
   "tracks": [
     {
       "added_at": "2019-01-14 22:26:26",
@@ -1051,6 +1051,26 @@
       "duration_ms": 216786,
       "name": "This Is It",
       "url": "https://open.spotify.com/track/5XaOvJcyNBNXRohL3eB9dL"
+    },
+    {
+      "added_at": "2022-05-27 11:07:09",
+      "album": {
+        "name": "Michael Jackson x Mark Ronson: Diamonds are Invincible",
+        "url": "https://open.spotify.com/album/6ST7naJFCe9iBeOleU5Ccu"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "duration_ms": 300026,
+      "name": "Michael Jackson x Mark Ronson: Diamonds are Invincible",
+      "url": "https://open.spotify.com/track/7jRs0CvNctNBNH1roANQdY"
     }
   ],
   "unique_name": "This Is Michael Jackson",

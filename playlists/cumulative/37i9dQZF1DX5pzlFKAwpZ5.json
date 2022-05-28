@@ -642,6 +642,24 @@
     },
     {
       "album": {
+        "name": "Hicari",
+        "url": "https://open.spotify.com/album/5N5zlunO6d2GMuQuUsEYCR"
+      },
+      "artists": [
+        {
+          "name": "Itoko Toma",
+          "url": "https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114760,
+      "name": "Hicari",
+      "url": "https://open.spotify.com/track/5LoCraezdIDtyxCRIQdNLi"
+    },
+    {
+      "album": {
         "name": "White Tape",
         "url": "https://open.spotify.com/album/0E6xFj4zYpjWDuIBSf23fe"
       },
@@ -765,6 +783,24 @@
       "duration_ms": 218000,
       "name": "Kansai",
       "url": "https://open.spotify.com/track/1lRmIEvPzmp1z2MB1Y2jzB"
+    },
+    {
+      "album": {
+        "name": "My Story, The Buraku Story (An Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3xPYYJCZLvg3LpjK2xWVrP"
+      },
+      "artists": [
+        {
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151133,
+      "name": "Kokyo",
+      "url": "https://open.spotify.com/track/4ZsDYS4F4ilZIsNwnpUrx1"
     },
     {
       "album": {

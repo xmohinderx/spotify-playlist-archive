@@ -824,6 +824,24 @@
     },
     {
       "album": {
+        "name": "Col",
+        "url": "https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP"
+      },
+      "artists": [
+        {
+          "name": "Elias Braun",
+          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142041,
+      "name": "Col",
+      "url": "https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu"
+    },
+    {
+      "album": {
         "name": "Bylur",
         "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
       },
@@ -2953,6 +2971,24 @@
       "duration_ms": 120549,
       "name": "Talisman Stallion",
       "url": "https://open.spotify.com/track/1e3JUGxqyfe94XBFnWdP11"
+    },
+    {
+      "album": {
+        "name": "The First Birds",
+        "url": "https://open.spotify.com/album/3SDysaULh6UYkxZncYmDES"
+      },
+      "artists": [
+        {
+          "name": "Bea Boethius",
+          "url": "https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136625,
+      "name": "The First Birds",
+      "url": "https://open.spotify.com/track/62MYibnXmO1JRChxsrxPRo"
     },
     {
       "album": {

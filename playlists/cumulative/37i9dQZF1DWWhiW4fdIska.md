@@ -4,7 +4,7 @@
 
 > Legendary blues guitarists\. Cover: Buddy Guy
 
-50 songs - 3 hr 57 min - not published yet
+50 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/0WLGgGEvXglWBwuFupEmwy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

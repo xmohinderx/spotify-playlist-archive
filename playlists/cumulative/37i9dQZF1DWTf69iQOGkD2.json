@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto: Menestrel",
+  "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto: Cesar MC, Lourena",
   "name": "Rap Ac\u00fastico",
   "published_playlist_ids": [
     "3Y7mPYZlaTNNZskH9TnUUs"
@@ -31,7 +31,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 209021,
       "name": "2 da Manh\u00e3",
       "url": "https://open.spotify.com/track/0xFKOIA8dmnCKFGBNekuiC"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 101052,
       "name": "Fui Eu",
       "url": "https://open.spotify.com/track/1fleF67U8sTqrCgbt58ujl"
@@ -1253,6 +1253,32 @@
       "duration_ms": 267000,
       "name": "Mnb Quase Ac\u00fastico #5 - Qual Vai?",
       "url": "https://open.spotify.com/track/4j2ZJyrVG9m99dYUOszGZD"
+    },
+    {
+      "album": {
+        "name": "Nossa Vibe",
+        "url": "https://open.spotify.com/album/0TcAzOaoNuVh0X1Agn8hfX"
+      },
+      "artists": [
+        {
+          "name": "LUE",
+          "url": "https://open.spotify.com/artist/50VHfozsQsmTf1R18RcuEN"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        },
+        {
+          "name": "Sadnation",
+          "url": "https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120535,
+      "name": "Nossa Vibe",
+      "url": "https://open.spotify.com/track/18bkOxeJwiRsV5fB1dR5hk"
     },
     {
       "album": {
@@ -2354,6 +2380,40 @@
     },
     {
       "album": {
+        "name": "Se Faz de Louca",
+        "url": "https://open.spotify.com/album/1zHJl1kwyjBbyAPhyDc4gE"
+      },
+      "artists": [
+        {
+          "name": "TG Marollie",
+          "url": "https://open.spotify.com/artist/1NLax8AUE7YfBmvOMQCC3v"
+        },
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        },
+        {
+          "name": "Jonny Green Producer",
+          "url": "https://open.spotify.com/artist/6DupsACKtRUVlrtSi8nZX0"
+        },
+        {
+          "name": "Matheus Marollie",
+          "url": "https://open.spotify.com/artist/3NMDzzdevdtMkz6470wles"
+        },
+        {
+          "name": "Jonathan Couto",
+          "url": "https://open.spotify.com/artist/58E9fUoMdCjVB0B4MwMsp1"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Se Faz de Louca",
+      "url": "https://open.spotify.com/track/70J4DVNLPERGPHJYdIn67A"
+    },
+    {
+      "album": {
         "name": "Sede de N\u00f3s Dois",
         "url": "https://open.spotify.com/album/3zQznntvr3PKYwkGCni3wl"
       },
@@ -2395,7 +2455,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 240000,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/7sDiNSnnLq7aIVhmC3oy2t"
@@ -2495,6 +2555,24 @@
       "duration_ms": 529597,
       "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
+    },
+    {
+      "album": {
+        "name": "Vai Te Catar / A Reza (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5IVjIKV5oweBWuUY3QzpC5"
+      },
+      "artists": [
+        {
+          "name": "Cassiano Cacique",
+          "url": "https://open.spotify.com/artist/6O0vyRWZGz65J4t1eUXNKD"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170766,
+      "name": "Vai Te Catar / A Reza - Ao Vivo",
+      "url": "https://open.spotify.com/track/42hEkIhKK5jkc34RuYkLKi"
     },
     {
       "album": {

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-26",
   "description": "For the pain, tears and heartbreak.",
   "name": "End in Tears ",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0jW8v03O6T6PWZPdnpYcDn"
+  ],
   "tracks": [
     {
       "album": {
@@ -185,7 +187,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 305763,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/0cqStpyp4fqgMweeuDuyg3"
@@ -221,7 +223,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 211173,
       "name": "Don't Be Late",
       "url": "https://open.spotify.com/track/7p8vxY7zwg1qIOMe6B8Buv"
@@ -283,7 +285,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 345793,
       "name": "Efya-Am In Luv With U(prod. By Killbeatz) (feat. Efya)",
       "url": "https://open.spotify.com/track/0pE5QY5MzbQZ4LxrBBnOny"
@@ -464,6 +466,24 @@
     },
     {
       "album": {
+        "name": "Kakyere Me",
+        "url": "https://open.spotify.com/album/101J6HI8NcRiCkZA16brqS"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "Kakyere Me",
+      "url": "https://open.spotify.com/track/3EkGDrBnSviSUZpG8m4yGr"
+    },
+    {
+      "album": {
         "name": "Last Last",
         "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
       },
@@ -493,7 +513,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 197972,
       "name": "Leg Over",
       "url": "https://open.spotify.com/track/0K3ESegCtpUnQ2XB2d3bHt"
@@ -515,6 +535,24 @@
       "duration_ms": 187027,
       "name": "Lie Again",
       "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
+    },
+    {
+      "album": {
+        "name": "R2Bees, Vol. 2",
+        "url": "https://open.spotify.com/album/1lAl19ypJvU4DLwV8xMEYf"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252134,
+      "name": "Makoma",
+      "url": "https://open.spotify.com/track/7eNjCnXceIhUpOSeVd3Yt5"
     },
     {
       "album": {
@@ -591,7 +629,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 184372,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/2QcwNQJSvOgHpyfcsDNLrx"
@@ -667,7 +705,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 400960,
       "name": "Otoolege",
       "url": "https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ"
@@ -703,7 +741,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 236460,
       "name": "Over",
       "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
@@ -805,7 +843,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 213028,
       "name": "San",
       "url": "https://open.spotify.com/track/0yYDvvZMeTqSUV5wLyP2Wm"
@@ -939,7 +977,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 264521,
       "name": "U Lied To Me",
       "url": "https://open.spotify.com/track/7zgnvKWoPhWse2Wv89ubYO"
@@ -1055,7 +1093,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 203773,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH"

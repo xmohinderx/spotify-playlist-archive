@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 141951,
       "name": "$pend It",
       "url": "https://open.spotify.com/track/3zSZqtlH19hscTR89XKqhU"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 181812,
       "name": "Eat It Up (feat. BIA)",
       "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
@@ -1330,6 +1330,24 @@
     },
     {
       "album": {
+        "name": "See Wat I\u2019m Sayin",
+        "url": "https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146732,
+      "name": "See Wat I\u2019m Sayin",
+      "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
+    },
+    {
+      "album": {
         "name": "She Make it Clap (Remix) (With French Montana)",
         "url": "https://open.spotify.com/album/4SrdknQOaXJf6ByaLhhdNK"
       },
@@ -1447,6 +1465,24 @@
       "duration_ms": 168175,
       "name": "Slim Waist",
       "url": "https://open.spotify.com/track/44jJCOAbyqF8msu7P79twG"
+    },
+    {
+      "album": {
+        "name": "Snatched",
+        "url": "https://open.spotify.com/album/7zjTC8wx62u1zO2tgDh9D8"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159819,
+      "name": "Snatched",
+      "url": "https://open.spotify.com/track/48JqhA9zo7QlanLa8e0bZE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Willie Nelson
 
-126 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
+127 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [If the World Had a Front Porch](https://open.spotify.com/track/7AW2WsM8dc5pmXIgdn2SpC) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Good Ole Days](https://open.spotify.com/album/7CHs8peAikJJll2udTEDWh) | 3:01 | 2021-10-15 |  |
 | [If There Weren't So Many Damn Songs](https://open.spotify.com/track/0zhQYIwWGcjQ3wnCd3qjse) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [If There Weren't So Many Damn Songs](https://open.spotify.com/album/6g0jNAgCfeOKPzgz0LLXwQ) | 3:46 | 2021-10-15 |  |
 | [I’ve Gotta Get A Message To You \(feat\. Keith Urban\)](https://open.spotify.com/track/55gWB0E5fwsIVfdGfrydoi) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greenfields: The Gibb Brothers' Songbook \(Vol\. 1\)](https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp) | 3:14 | 2021-10-15 |  |
+| [Jesus, Won't You Come By Here](https://open.spotify.com/track/3TkQkNP31WG8xnXAVkjB93) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Jesus, Won't You Come By Here](https://open.spotify.com/album/4DOFLP7P2QcvMvQX38jcdm) | 2:50 | 2022-05-27 |  |
 | [Lead Me Home](https://open.spotify.com/track/5okWmLTI9nYRZ5HcSoKffK) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Lead Me Home](https://open.spotify.com/album/6BtcUNipS0LAGkvkpsSt6b) | 3:34 | 2021-10-15 |  |
 | [Life Is Beautiful](https://open.spotify.com/track/4k8AXzJaJ2k85BdZLKRGWW) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Life Is Beautiful](https://open.spotify.com/album/1td6EkbqoWPK7RWEVnTUGY) | 3:53 | 2021-10-15 |  |
 | [Long Cool Woman \(In a Black Dress\)](https://open.spotify.com/track/34FxbXBm1QjQ44lUBL8Rn9) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Long Cool Woman \(In a Black Dress\)](https://open.spotify.com/album/1v9u00mgkfhhRJm7yMSIdz) | 3:36 | 2021-10-15 |  |

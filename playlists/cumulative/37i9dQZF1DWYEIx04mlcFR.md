@@ -4,7 +4,7 @@
 
 > La nueva\-nueva ola de artistas y creadorxs mexas: presentamos a Marco Mares\. 🌊✨
 
-140 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
+142 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [lo peor](https://open.spotify.com/track/0w6rYYEf5FrT6plPg6UhxW) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [BASADO EN HECHOS REALES](https://open.spotify.com/album/0IcITWG6ouM737VCcXxanj) | 3:02 | 2021-12-10 | 2022-04-23 |
 | [LSNC](https://open.spotify.com/track/3LV3d4MEOVhcLuUhKvkltK) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [LSNC](https://open.spotify.com/album/5srzFKsRKHUk09jV2R5Tnh) | 2:33 | 2022-03-25 |  |
 | [mal hábito](https://open.spotify.com/track/0o9C7uGWMkW4yj79xawR8L) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [BASADO EN HECHOS REALES](https://open.spotify.com/album/0IcITWG6ouM737VCcXxanj) | 2:43 | 2021-12-10 | 2022-04-14 |
-| [Mala](https://open.spotify.com/track/7ye6e2xa9jzs5PAMVfm2Db) | [Curena Mía](https://open.spotify.com/artist/25zGv6p87TUY5q5PmSLsjx) | [Mala](https://open.spotify.com/album/2CDD9HRVRQFq5hRiaA4HAV) | 3:55 | 2022-02-25 |  |
+| [Mala](https://open.spotify.com/track/7ye6e2xa9jzs5PAMVfm2Db) | [Curena Mía](https://open.spotify.com/artist/25zGv6p87TUY5q5PmSLsjx) | [Mala](https://open.spotify.com/album/2CDD9HRVRQFq5hRiaA4HAV) | 3:55 | 2022-02-25 | 2022-05-28 |
 | [Mala Vida](https://open.spotify.com/track/3QUsNIAM9lH8uLlDwI5tNN) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mala Vida](https://open.spotify.com/album/1WybN2EANyfkYsthhI5djM) | 2:50 | 2022-04-13 |  |
 | [Mami Perfecta](https://open.spotify.com/track/4hIpMTeH1QUqivJCGFTbJs) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Mami Perfecta](https://open.spotify.com/album/44bTsKvLKPAfrBZ5nQwVkY) | 3:34 | 2021-12-10 | 2022-02-26 |
 | [Mamixhula](https://open.spotify.com/track/4e2h6gpPL3j1hHJt6YHApL) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Mamixhula](https://open.spotify.com/album/0NXREpZBXGM2YSfntjRZg8) | 2:30 | 2021-12-10 | 2022-05-10 |
@@ -91,6 +91,8 @@
 | [ojalá </3](https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [ojalá </3](https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes) | 2:51 | 2022-03-11 |  |
 | [Olvidarme](https://open.spotify.com/track/52XioIzucenybSvvimJ1hk) | [Donovan](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Olvidarme](https://open.spotify.com/album/6T1ZAoP7VkeDbdKwlwI1q1) | 2:51 | 2021-12-10 | 2022-04-23 |
 | [Otro Día](https://open.spotify.com/track/0bUfdeUmiVzHSIT5l2NmGa) | [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x), [ARIA](https://open.spotify.com/artist/6W4UUzoroQt4P9pjHnauHt) | [Otro Día](https://open.spotify.com/album/1YAp4K65JOhGKRpbu1gnMb) | 2:39 | 2022-05-16 |  |
+| [Pa PRIVE](https://open.spotify.com/track/59EISn3QlxiItQFAlk4WVy) | [Steff](https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt) | [Pa PRIVE](https://open.spotify.com/album/1NcSaHWDtxlB7VX3RbwKhS) | 3:10 | 2022-05-27 |  |
+| [Pa Que Te Digo Que No](https://open.spotify.com/track/4NhkLL44pqu1tw479u1KIx) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa Que Te Digo Que No](https://open.spotify.com/album/5ISB8ui1kJkiMkaMNOO8jr) | 2:54 | 2022-05-27 |  |
 | [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 | 2022-01-28 | 2022-05-10 |
 | [paranormal](https://open.spotify.com/track/1loEyzhT3hunTlsPjBYprb) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Ivan Rodriguez](https://open.spotify.com/artist/2RgmzoJSsiqaLDnDCkVUE2) | [paranormal](https://open.spotify.com/album/1aqvPNswNOnUfrdEkhyPVm) | 3:48 | 2022-02-18 |  |
 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 | 2021-12-10 | 2022-03-24 |
@@ -115,7 +117,7 @@
 | [Se Jodió](https://open.spotify.com/track/4z7RsNkzKOG3Ki8eUKDnzY) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Se Jodió](https://open.spotify.com/album/60xAWeqKZNdc5DqovBot9G) | 3:48 | 2021-12-17 |  |
 | [Se Me Olvida](https://open.spotify.com/track/11h8rm2aWPvPdfMc2tLaJN) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Demos y Feelings](https://open.spotify.com/album/288gjWevdtKqpsUWkTA1OI) | 3:13 | 2021-12-10 | 2022-02-12 |
 | [Se Siente Bien](https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Gitana Kamp](https://open.spotify.com/artist/55SWiLP14cnNXQKVJj36ps) | [Gitana Kamp, Vol\. I](https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2) | 2:26 | 2021-12-10 | 2022-02-26 |
-| [seguiremos siendo](https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [seguiremos siendo](https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI) | 3:14 | 2022-01-28 |  |
+| [seguiremos siendo](https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [seguiremos siendo](https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI) | 3:14 | 2022-01-28 | 2022-05-28 |
 | [seguradetodo](https://open.spotify.com/track/4R9hTCI3CSaqblTloFxBFy) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Adiós Amor / seguradetodo](https://open.spotify.com/album/3jm9R3TTkDQCtMmyhAoktr) | 3:13 | 2021-12-10 | 2022-03-12 |
 | [Señales](https://open.spotify.com/track/3gOA4thR0Rv6pMzQgeh3Kk) | [LULÚ](https://open.spotify.com/artist/0WbhCU7N9haH6aBYhdqP8a), [Adrian Be](https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF) | [Señales](https://open.spotify.com/album/07sanYUCVRMbsAAwBiIWkk) | 3:06 | 2022-02-18 | 2022-05-20 |
 | [signos](https://open.spotify.com/track/4Yg9FM81cRqrbSZvr84k5J) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fosis Met Amor](https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3) | 2:52 | 2022-05-06 |  |

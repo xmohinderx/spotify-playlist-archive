@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: Strange Alias. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: The Filters. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "published_playlist_ids": [
     "3clZuxYeboHhluz5fN0HIw"
@@ -2751,6 +2751,24 @@
       "duration_ms": 212027,
       "name": "Pity Party",
       "url": "https://open.spotify.com/track/2Z25fVRiv9kkCuYCpqf8dX"
+    },
+    {
+      "album": {
+        "name": "Exhaler",
+        "url": "https://open.spotify.com/album/0UDeKLntX39tPUbxU4hW9n"
+      },
+      "artists": [
+        {
+          "name": "The Filters",
+          "url": "https://open.spotify.com/artist/0aI4dzoQSvBzjaBZgUuBW5"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370653,
+      "name": "Planet Platonic",
+      "url": "https://open.spotify.com/track/2iLKtJzLGtRjoRrMvVH5OU"
     },
     {
       "album": {

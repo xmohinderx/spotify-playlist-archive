@@ -4554,6 +4554,24 @@
     },
     {
       "album": {
+        "name": "Only",
+        "url": "https://open.spotify.com/album/28erSfGHTySvJRP3J1LTlm"
+      },
+      "artists": [
+        {
+          "name": "NNat",
+          "url": "https://open.spotify.com/artist/78T3xHpKkxuDjzoy2Puziw"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214132,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/4qceKimAyiRmYpI9VUsuUI"
+    },
+    {
+      "album": {
         "name": "PEACH 2",
         "url": "https://open.spotify.com/album/6jRbH4ir3LTYqaHWV1lOtQ"
       },
@@ -4805,6 +4823,24 @@
       "duration_ms": 185156,
       "name": "Precious - Cukak Remix",
       "url": "https://open.spotify.com/track/3LXgtPzLjoniEX4qvsOZ7i"
+    },
+    {
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/0oNi6OM9R560gjgjfGDO8j"
+      },
+      "artists": [
+        {
+          "name": "Cristian",
+          "url": "https://open.spotify.com/artist/5UVYVxjwTczzmEqjAoTWu7"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190434,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/646DS4Q5hjZQlU5lvMhVB9"
     },
     {
       "album": {

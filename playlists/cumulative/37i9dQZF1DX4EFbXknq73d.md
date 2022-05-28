@@ -4,7 +4,7 @@
 
 > Hand\-picked kind, tasty jams! / Cover: Grateful Dead
 
-129 songs - 14 hr 41 min - not published yet
+129 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/34uDDmpPcvj3AK4jHVKMxu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

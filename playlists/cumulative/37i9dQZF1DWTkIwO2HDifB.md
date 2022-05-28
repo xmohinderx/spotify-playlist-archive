@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Kikando e Me Olhando e os funks mais 🔑 do Brasil\. Foto: Mc Braz, Mc Tairon, Dj Win
+> Eu Vou Com Carinho Ela Quer Com Força e os funks mais 🔑 do Brasil\. Foto: MC Don Juan, MC G15, MC Davi
 
 83 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/2m2xgH6abY0Jl6lg6L64lU)
 

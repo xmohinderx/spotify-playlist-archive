@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Ghost Hounds",
-  "num_followers": 37438,
+  "num_followers": 37466,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxOTMyMCwwMDAwMDA0YjAwMDAwMTgwZGZhMTFmMjIwMDAwMDE4MGQzNDdiMjhj",
+  "snapshot_id": "MTY1MzYyNDEyMCwwMDAwMDA0YzAwMDAwMTgxMDNhZGEzMWYwMDAwMDE4MGQzNDdiMjhj",
   "tracks": [
+    {
+      "added_at": "2022-05-27 04:02:00",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/0SeZT8cV0i9mhHFD0rjVla"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 296645,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/3XZy0i9dxqoecuRa6zUv5C"
+    },
     {
       "added_at": "2022-05-20 04:02:00",
       "album": {
@@ -165,22 +181,6 @@
       "url": "https://open.spotify.com/track/5s9JvslFpJGbApkKXi3MjU"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Don't You Forget About Me",
-        "url": "https://open.spotify.com/album/2zxmGfJwrZ6BhaMLrpV8EK"
-      },
-      "artists": [
-        {
-          "name": "Janiva Magness",
-          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Don't You Forget About Me",
-      "url": "https://open.spotify.com/track/6p1Sim61QcZgVWIEq5s5n7"
-    },
-    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Livin' for the Ones",
@@ -247,22 +247,6 @@
       "duration_ms": 223546,
       "name": "Cornbread, Peas, Black Molasses",
       "url": "https://open.spotify.com/track/3nRr46yu7zDTd8ly3PZNXn"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/78AbRfKfLgNCIPsm03P72R"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        }
-      ],
-      "duration_ms": 309175,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/0Abu2kVKUQrTNSqfowYWEp"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -375,38 +359,6 @@
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "The Razor's Edge",
-        "url": "https://open.spotify.com/album/02s5nUzMHfzimxjGf8Pokn"
-      },
-      "artists": [
-        {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "The Razor's Edge",
-      "url": "https://open.spotify.com/track/7nTpEMGsLOfPL9ke7F2SFH"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Smokestack Lightning",
-        "url": "https://open.spotify.com/album/1mS7rSoYHzeyCHk7KHuERv"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Smokestack Lightning",
-      "url": "https://open.spotify.com/track/0AA58C0kJduvq8gvDF1E4r"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
         "name": "Bad Man",
         "url": "https://open.spotify.com/album/0PshEpATig6xpoqCOnQ8fg"
       },
@@ -419,42 +371,6 @@
       "duration_ms": 279223,
       "name": "Bad Man",
       "url": "https://open.spotify.com/track/3YvsPZ2najCeA2yao47eKa"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Something's Got a Hold of My Heart / Made Up Mind",
-        "url": "https://open.spotify.com/album/3XZEdt2q21fNTX6ZISUR9l"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 292053,
-      "name": "Something's Got a Hold of My Heart",
-      "url": "https://open.spotify.com/track/6Im2CaHEparEKMF7ooUQ44"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Lone Star Blues",
-        "url": "https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE"
-      },
-      "artists": [
-        {
-          "name": "Edgar Winter",
-          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 237096,
-      "name": "Lone Star Blues",
-      "url": "https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -475,26 +391,6 @@
       "duration_ms": 342853,
       "name": "Down To The Bottom",
       "url": "https://open.spotify.com/track/2867syuupBlecM1Ra7PGyZ"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "You Got To Move",
-        "url": "https://open.spotify.com/album/0CuehB0whg0SkLEqF8dDNa"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        },
-        {
-          "name": "Levon Helm",
-          "url": "https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9"
-        }
-      ],
-      "duration_ms": 161139,
-      "name": "You Got To Move",
-      "url": "https://open.spotify.com/track/2oP62DDj7RLqdQI3cmdvK1"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -561,22 +457,6 @@
       "url": "https://open.spotify.com/track/2AfGLVa5rzRqnPm23bPMLk"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
-    },
-    {
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Here I'm Is",
@@ -591,22 +471,6 @@
       "duration_ms": 147106,
       "name": "Here I'm Is",
       "url": "https://open.spotify.com/track/45DxmdLBAjYelavuazYJhg"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Baby We're Through",
-        "url": "https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 236543,
-      "name": "Baby We're Through",
-      "url": "https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -993,22 +857,6 @@
       "url": "https://open.spotify.com/track/6DYaFGcyQyX87He1OxZeOg"
     },
     {
-      "added_at": "2021-08-27 04:01:00",
-      "album": {
-        "name": "The Heart That Never Waits",
-        "url": "https://open.spotify.com/album/6SX2nIztLCFIYH9UMABV7R"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 351253,
-      "name": "The Heart That Never Waits",
-      "url": "https://open.spotify.com/track/3h6b6VFjiJUM2jeG7tGjrH"
-    },
-    {
       "added_at": "2021-10-08 04:01:00",
       "album": {
         "name": "You've Been Cheatin'",
@@ -1105,22 +953,6 @@
       "url": "https://open.spotify.com/track/04XadPndIKcDvzl9RDZ0hQ"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Retro Mofo",
-        "url": "https://open.spotify.com/album/2roKb6eMy2lrlcWrYh26oi"
-      },
-      "artists": [
-        {
-          "name": "Popa Chubby",
-          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Retro Mofo",
-      "url": "https://open.spotify.com/track/0sMkyYpcC6iK45huSrLBDS"
-    },
-    {
       "added_at": "2021-09-24 04:02:00",
       "album": {
         "name": "The Blues Album",
@@ -1199,22 +1031,6 @@
       "duration_ms": 177693,
       "name": "Further",
       "url": "https://open.spotify.com/track/3e11gcdBWpIPpgDsHuJ1K3"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Waste Time With Me",
-        "url": "https://open.spotify.com/album/3ObYcqtUkxQkxjSxCla997"
-      },
-      "artists": [
-        {
-          "name": "Son Of Dave",
-          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Waste Time With Me",
-      "url": "https://open.spotify.com/track/6P9dpTcBhEWHkEQyvo5CGc"
     },
     {
       "added_at": "2021-08-06 04:01:00",
@@ -1303,22 +1119,6 @@
       "duration_ms": 154840,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/4dtYmYgTH5I5uZxUuF5eon"
-    },
-    {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Time Clocks",
-        "url": "https://open.spotify.com/album/6LQ8BQhfsYP2WRitSPT3Lg"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 427480,
-      "name": "Time Clocks",
-      "url": "https://open.spotify.com/track/5fzS5MrIOSfSqksc4Prajn"
     },
     {
       "added_at": "2021-09-17 05:00:00",
