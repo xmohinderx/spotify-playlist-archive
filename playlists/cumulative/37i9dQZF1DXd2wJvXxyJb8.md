@@ -4,7 +4,7 @@
 
 > Tudo o que está bombando e viralizando por aí!
 
-100 songs - 4 hr 31 min - not published yet
+100 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

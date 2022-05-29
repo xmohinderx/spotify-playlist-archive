@@ -1,13 +1,49 @@
 {
   "description": "The latest and greatest metal tracks. Cover: Blind Guardian",
-  "num_followers": 594502,
+  "num_followers": 594610,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzYwOTYwMCwwMDAwMDRmMjAwMDAwMTgxMDJkMDE1MzEwMDAwMDE4MTAwODYxMDRj",
+  "snapshot_id": "MTY1Mzc3MTA2OCwwMDAwMDRmMzAwMDAwMTgxMGM2ZmUzNzUwMDAwMDE4MTAwODYxMDRj",
   "tracks": [
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Stitches",
+        "url": "https://open.spotify.com/album/45SbfV6M4ELzAOU163XpPb"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 301426,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/4KWq6RMruDDwjzYBBpUi7c"
+    },
+    {
+      "added_at": "2022-05-27 00:00:00",
+      "album": {
+        "name": "Cancer Culture",
+        "url": "https://open.spotify.com/album/1h4pyfLZgGi11i560BmZp0"
+      },
+      "artists": [
+        {
+          "name": "Decapitated",
+          "url": "https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc"
+        },
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 289803,
+      "name": "Iconoclast",
+      "url": "https://open.spotify.com/track/2I0caLwd3Rc84Hr147WH6S"
+    },
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
@@ -43,22 +79,6 @@
     {
       "added_at": "2022-05-27 00:00:00",
       "album": {
-        "name": "Stitches",
-        "url": "https://open.spotify.com/album/45SbfV6M4ELzAOU163XpPb"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 301426,
-      "name": "Stitches",
-      "url": "https://open.spotify.com/track/4KWq6RMruDDwjzYBBpUi7c"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
         "name": "Demon King",
         "url": "https://open.spotify.com/album/7mQTEBCTYqQL58cJwGQBbn"
       },
@@ -75,26 +95,6 @@
       "duration_ms": 237400,
       "name": "Demon King",
       "url": "https://open.spotify.com/track/7ynraW89Jj7tPYLaNihl6v"
-    },
-    {
-      "added_at": "2022-05-27 00:00:00",
-      "album": {
-        "name": "Cancer Culture",
-        "url": "https://open.spotify.com/album/1h4pyfLZgGi11i560BmZp0"
-      },
-      "artists": [
-        {
-          "name": "Decapitated",
-          "url": "https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc"
-        },
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 289803,
-      "name": "Iconoclast",
-      "url": "https://open.spotify.com/track/2I0caLwd3Rc84Hr147WH6S"
     },
     {
       "added_at": "2022-05-27 00:00:00",

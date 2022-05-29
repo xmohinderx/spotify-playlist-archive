@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > music that's hard to define but easy to love feat\. Alfie Templeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,769 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,778 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 96 | [reel](https://open.spotify.com/track/6Z53T7w8pY8MM8HxKMOvLO) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [reel](https://open.spotify.com/album/2kpAgM8bcOmEy61adSUmm9) | 2:56 |
 | 97 | [Brad Pitt](https://open.spotify.com/track/5F1TZVziCp4TuXIMCsIxwM) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Brad Pitt](https://open.spotify.com/album/2b1tEVkENOaP3ptVK0Zo9D) | 3:36 |
 | 98 | [Lean Across](https://open.spotify.com/track/1xIiuti9ChczqV6pF9U6b4) | [CLEWS](https://open.spotify.com/artist/6cw5iGpmkR9dNaIZ85j8ya) | [Lean Across](https://open.spotify.com/album/2qcWvD3FcexP83c5OmgYuZ) | 3:06 |
-| 99 | [pockets full of rocks \(feat\. mallrat & emerson leif\)](https://open.spotify.com/track/1Uco2A20ujkhid0kVJOd1C) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [pockets full of rocks \(feat\. mallrat & emerson leif\)](https://open.spotify.com/album/6am7Dx2JzpxblkOSi2nOcu) | 2:50 |
+| 99 | [pockets full of rocks](https://open.spotify.com/track/1Uco2A20ujkhid0kVJOd1C) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [pockets full of rocks](https://open.spotify.com/album/6am7Dx2JzpxblkOSi2nOcu) | 2:50 |
 | 100 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 |
 
 Snapshot ID: `MTY1MzU3MzYwMCwwMDAwMDUyZjAwMDAwMTgxMDBhYWM1OTcwMDAwMDE4MGZlNTliZmMw`

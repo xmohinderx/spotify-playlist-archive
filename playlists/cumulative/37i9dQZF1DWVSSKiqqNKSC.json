@@ -85,7 +85,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 302453,
       "name": "A M\u00ed Lo Mismo Me Da (feat. M\u00f3nica Due\u00f1as \"Per\u00fa Negro\")",
       "url": "https://open.spotify.com/track/3nCw4fdJhluRtzPiZYFoXL"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 382360,
       "name": "Agua De Clavelito",
       "url": "https://open.spotify.com/track/7I9d2fIkGK7r4Wjv4p2EJW"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 380484,
       "name": "Amiga Mia",
       "url": "https://open.spotify.com/track/3bpJ7IwjJtyTIf6clZ9GUl"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 273160,
       "name": "Bailando - Official Salsa Version",
       "url": "https://open.spotify.com/track/6YsbuvDVJYp5z8Azn9D9Us"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 329079,
       "name": "Candela",
       "url": "https://open.spotify.com/track/5FEbJEYluldTJNZOeAahlC"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 264093,
       "name": "Comentarios",
       "url": "https://open.spotify.com/track/5DybOfZIp6isaVnUCSmqcB"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 445458,
       "name": "El Cuarto De Tula",
       "url": "https://open.spotify.com/track/0NkBKaWhqR1KN67bUPlvYp"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 353163,
       "name": "El Paso de la Bailerina",
       "url": "https://open.spotify.com/track/6RO3JijdGFvGbIyw1HknsK"
@@ -822,6 +822,28 @@
     },
     {
       "album": {
+        "name": "La Salsa Tiene mi Son",
+        "url": "https://open.spotify.com/album/1cyF9OgODjh488BmdN1xmH"
+      },
+      "artists": [
+        {
+          "name": "Elito Rev\u00e9 y su Charang\u00f3n",
+          "url": "https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z"
+        },
+        {
+          "name": "Haila Mar\u00eda Mompi\u00e9",
+          "url": "https://open.spotify.com/artist/3aV0z0WubJdrS2MVrCTdU4"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314253,
+      "name": "Espero Que Pase el Tiempo (feat. Haila Mar\u00eda Mompi\u00e9)",
+      "url": "https://open.spotify.com/track/4R4iKSFVoOazlww84QfjiY"
+    },
+    {
+      "album": {
         "name": "Recoge Y Vete",
         "url": "https://open.spotify.com/album/5mLkOShl9aG9Ikyj38AQVU"
       },
@@ -833,7 +855,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 351506,
       "name": "Esto Est\u00e1",
       "url": "https://open.spotify.com/track/6aOj5462zikA3VwXxv2fQb"
@@ -934,6 +956,24 @@
     },
     {
       "album": {
+        "name": "Fiesta Con Oderqui",
+        "url": "https://open.spotify.com/album/3Pglm0DKvTL7rX1euHJpFb"
+      },
+      "artists": [
+        {
+          "name": "Oderquis Reve y su Changui",
+          "url": "https://open.spotify.com/artist/0Vr7quUhFG9WTvAH2eHv4D"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301893,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/6t1XkEjXseYVQPSWDdloMb"
+    },
+    {
+      "album": {
         "name": "Flor Palida",
         "url": "https://open.spotify.com/album/3f1P1w3UT6tpuDSTfMmM9w"
       },
@@ -971,7 +1011,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 240040,
       "name": "Goza",
       "url": "https://open.spotify.com/track/09lXPERmYBRSionp7gpXad"
@@ -1137,10 +1177,28 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 346026,
       "name": "La Cosa Mala",
       "url": "https://open.spotify.com/track/0NLreGlwATS3wQOtDDtO2H"
+    },
+    {
+      "album": {
+        "name": "Sin Freno",
+        "url": "https://open.spotify.com/album/2dU7SOpnJ7p86szmJNHz7L"
+      },
+      "artists": [
+        {
+          "name": "Manolito Simonet y su Trabuco",
+          "url": "https://open.spotify.com/artist/0Wd6h9C5ZYMexAYGM7BKwR"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306076,
+      "name": "La Cosita",
+      "url": "https://open.spotify.com/track/53yP3GOdqtbINEmXSvlEHB"
     },
     {
       "album": {
@@ -1307,7 +1365,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 257091,
       "name": "La Palangana",
       "url": "https://open.spotify.com/track/0rpVrEX5j0PGlSM5Dz6tnR"
@@ -1343,7 +1401,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 208386,
       "name": "La Reina del Caf\u00e9",
       "url": "https://open.spotify.com/track/2ShiboaPX0z7DKswAs78WS"
@@ -1365,7 +1423,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 247573,
       "name": "La Vida Es Buena",
       "url": "https://open.spotify.com/track/5gnGvvDGNXYZyzGSt6uEdD"
@@ -1687,7 +1745,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 368850,
       "name": "Mi M\u00fasica",
       "url": "https://open.spotify.com/track/16WC29An2oh5cLWveO9HpD"
@@ -1973,7 +2031,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 360992,
       "name": "Qu\u00e9 Sorpresa",
       "url": "https://open.spotify.com/track/5D2iEMBHykpE1BE7V6cDFX"
@@ -2039,6 +2097,24 @@
       "duration_ms": 358480,
       "name": "Rosa la Peligrosa",
       "url": "https://open.spotify.com/track/0hpDDynkRmnH6BeW2IuLCE"
+    },
+    {
+      "album": {
+        "name": "I Dance Cuban Salsa 2014 (Salsa y Timba Hits)",
+        "url": "https://open.spotify.com/album/5XqLtc36FdyDQWzjSzV45b"
+      },
+      "artists": [
+        {
+          "name": "Giraldo Piloto y Kl\u00edmax",
+          "url": "https://open.spotify.com/artist/33WgNRXej4nmjEnbGw9deR"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333514,
+      "name": "Si Te Descuidas",
+      "url": "https://open.spotify.com/track/4DWVZPTIoJ4unA04fqxm28"
     },
     {
       "album": {
@@ -2275,7 +2351,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 452973,
       "name": "Tim-Pop con Birdland - Salsa",
       "url": "https://open.spotify.com/track/5h2VronAZ5qXXp3I6M192z"
@@ -2355,7 +2431,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 295435,
       "name": "Tu Papi Soy Yo",
       "url": "https://open.spotify.com/track/1r5RcPz2VeZU54zo6wpUCL"
@@ -2445,7 +2521,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 330053,
       "name": "Vanvaneo",
       "url": "https://open.spotify.com/track/4r4zFb3ZnLUTLh5F3qtzlZ"
@@ -2463,7 +2539,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 184786,
       "name": "Vecina Pr\u00e9steme el Cubo - Remasterizado",
       "url": "https://open.spotify.com/track/5E6Ry2vPmsreAo5ae7ZIsi"
@@ -2521,7 +2597,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 292942,
       "name": "Vuelve a la Habana",
       "url": "https://open.spotify.com/track/7wG9JSSlEv2fs4D2OkGVYw"
@@ -2685,7 +2761,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 288012,
       "name": "Yo Vengo de Cuba (feat. Havana D' Primera)",
       "url": "https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Anuel AA
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,084 likes - 59 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,322 likes - 59 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 31 | [Invitaciones](https://open.spotify.com/track/1qlVoMUKifgWjWdQ49FbWr) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY), [Legado 7](https://open.spotify.com/artist/1sR3KHfY1ZmWxRxtoMmqPf) | [Consejos De La Vida](https://open.spotify.com/album/3Sj1ZVGCVQxDHBhaOzeJJ5) | 3:32 |
 | 32 | [Time Machine](https://open.spotify.com/track/4Fkf0tYc8tD0BeS7k20AAa) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Time Machine](https://open.spotify.com/album/4jAN28tuuWdvDsX5HzPXbv) | 3:39 |
 | 33 | [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 |
-| 34 | [Tú Juguete](https://open.spotify.com/track/2lhnDQIvQmfU8qVbrqJdke) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Tú Juguete](https://open.spotify.com/album/2OpJPx9vdWJFMkXNV5iANk) | 3:51 |
+| 34 | [Tu Juguete](https://open.spotify.com/track/2lhnDQIvQmfU8qVbrqJdke) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Tu Juguete](https://open.spotify.com/album/2OpJPx9vdWJFMkXNV5iANk) | 3:51 |
 | 35 | [7 Letras](https://open.spotify.com/track/4IG95yfRQZhTxfFtHzCEji) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Así Me Siento Hoy](https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe) | 2:53 |
 | 36 | [Luciérnagas](https://open.spotify.com/track/38V8CXMQB7p5BNyZX3p7kj) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Luciérnagas](https://open.spotify.com/album/3RzTmjHzkHBvRv6OE2oxcd) | 3:55 |
 | 37 | [Fuera](https://open.spotify.com/track/34QE9OSoB5EMflRXe6n0uo) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Empezando Otra Vez](https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK) | 5:05 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 47 | [Otra Vida](https://open.spotify.com/track/2QeiWWE11sKROZhu79ADcX) | [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw) | [Retrofuturismo](https://open.spotify.com/album/2Kc986d6cZXdpyguHWEQrr) | 2:08 |
 | 48 | [Idiota \- Backstage Sessions](https://open.spotify.com/track/1KZHHzLDU70ySETErPJC4h) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G) | [Backstage Sessions](https://open.spotify.com/album/7wnLlWKZvuCyKhgQsI7flI) | 2:42 |
 | 49 | [Funky De Antes \(feat\. Ecko, Marcianeke & DJ Tao\) \- Remix](https://open.spotify.com/track/3JWCr7nvvE1uljDIZ9TCq8) | [Letan](https://open.spotify.com/artist/14LqX7WKEinOwg1VZcM1xE), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Funky De Antes \(feat\. Ecko, Marcianeke & DJ Tao\) \[Remix\]](https://open.spotify.com/album/6fLsplNVm67eKCMFY2D2Zp) | 4:38 |
-| 50 | [Salvavidas](https://open.spotify.com/track/57coqF8XaMRwOi6r2WGdvT) | [S Moreno](https://open.spotify.com/artist/2Eq8xNV6aKDDdoJibsY6FG) | [Salvavidas](https://open.spotify.com/album/5VmOjcwsoUuHKzX4xxjRMp) | 2:34 |
+| 50 | [Salvavidas](https://open.spotify.com/track/57coqF8XaMRwOi6r2WGdvT) | [S Moreno](https://open.spotify.com/artist/2Eq8xNV6aKDDdoJibsY6FG), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Salvavidas](https://open.spotify.com/album/5VmOjcwsoUuHKzX4xxjRMp) | 2:34 |
 | 51 | [Me Quedo Solo](https://open.spotify.com/track/3RKef2LOov4395yfrDGrwA) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Me Quedo Solo](https://open.spotify.com/album/0dprH4u5zVmRMi7yMnuaeq) | 3:35 |
 | 52 | [Más Allá](https://open.spotify.com/track/17WGo3851h6lRAU8GFV9uR) | [Thyago](https://open.spotify.com/artist/58vXMHUbQbvf7jutQTnJZy) | [Más Allá](https://open.spotify.com/album/5NlFJJVCJkquplO5wotAlT) | 2:51 |
 | 53 | [BORRACHA](https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql) | [Felix Klain](https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [BORRACHA](https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex) | 3:24 |

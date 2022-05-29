@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluHnSzEAUI.md) - [plain]
 
 > Your streaming score will be reflected in the final contest! See the <a href="https://www.instagram.com/p/CeC63Y\-hwj0/?igshid=YmMyMTA2M2Y=">LINK</a> for more details\. \(파이널 경연에 여러분들의 스트리밍 점수가 반영됩니다! 자세한 사항은 링크를 참조하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,527 likes - 6 songs - 23 min 10 sec
+[Spotify](https://open.spotify.com/user/spotify) - 63,551 likes - 6 songs - 23 min 10 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,4 +15,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluHnSzEAUI.md) - [plain]
 | 5 | [POSE](https://open.spotify.com/track/6L22JhubMtyZNBEFuzeZKB) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:06 |
 | 6 | [Whistle](https://open.spotify.com/track/7iKbV28gTF43LAeovwznXT) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:43 |
 
-Snapshot ID: `MTY1MzY5OTQ4OCwwMDAwMDAwMGQ1MzAzODk2MGZmZWNiYTQ5OTZkZjNhNjRlMTQ3OTZh`
+Snapshot ID: `MTY1Mzc4NjA5NSwwMDAwMDAwMGQ1MzAzODk2MGZmZWNiYTQ5OTZkZjNhNjRlMTQ3OTZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Eu Vou Com Carinho Ela Quer Com Força e os funks mais 🔑 do Brasil\. Foto: MC Don Juan, MC G15, MC Davi
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,624,769 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,627,517 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

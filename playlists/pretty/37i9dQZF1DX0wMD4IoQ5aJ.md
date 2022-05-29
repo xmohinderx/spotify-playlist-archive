@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Focus to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,174 likes - 157 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,221 likes - 157 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

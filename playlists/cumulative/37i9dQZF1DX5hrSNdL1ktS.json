@@ -972,24 +972,24 @@
     },
     {
       "album": {
-        "name": "MI PLAN B",
+        "name": "Mi Plan B",
         "url": "https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9"
       },
       "artists": [
         {
-          "name": "Fano",
-          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
-        },
-        {
           "name": "Freddy Leyva",
           "url": "https://open.spotify.com/artist/3ueyBGPT589ZTaWcVw3Qyl"
+        },
+        {
+          "name": "Fano",
+          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
         }
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 197142,
-      "name": "MI PLAN B",
+      "name": "Mi Plan B",
       "url": "https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0"
     },
     {

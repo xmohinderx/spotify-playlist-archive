@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Featuring music from Calvin Harris, Dua Lipa & Young Thug, Felix Jaehn & Zoe Wees, HAAi and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,915,362 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,915,674 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

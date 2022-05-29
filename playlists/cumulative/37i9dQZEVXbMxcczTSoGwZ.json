@@ -156,6 +156,28 @@
     },
     {
       "album": {
+        "name": "2step (The Remixes)",
+        "url": "https://open.spotify.com/album/1nqJFaKVTrCkCDaC2I1zM7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Ellinoora",
+          "url": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153373,
+      "name": "2step (feat. Ellinoora)",
+      "url": "https://open.spotify.com/track/3Cem1dtq0bNVYQNqz9h0BY"
+    },
+    {
+      "album": {
         "name": "2step (feat. Ellinoora)",
         "url": "https://open.spotify.com/album/5153aG4BHrvldWiOmbQYLF"
       },
@@ -171,7 +193,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 153373,
       "name": "2step (feat. Ellinoora)",
       "url": "https://open.spotify.com/track/5eDt2k9gdjk9EyNdo7MqK1"
@@ -843,7 +865,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -4441,7 +4463,7 @@
       ],
       "date_added": "2021-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -4865,7 +4887,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 208706,
       "name": "House of Memories",
       "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
@@ -5189,6 +5211,24 @@
       "duration_ms": 189863,
       "name": "H\u00f6lk\u00e4lle",
       "url": "https://open.spotify.com/track/6DQSu0S1pYmtVxYFYJD2D6"
+    },
+    {
+      "album": {
+        "name": "Shamppanjadieetill\u00e4",
+        "url": "https://open.spotify.com/album/4LmcLNXzZ3atEgqWm2qg3l"
+      },
+      "artists": [
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218151,
+      "name": "H\u00f6lliikse",
+      "url": "https://open.spotify.com/track/3lAsUzcayDwcxLOX0RL4tc"
     },
     {
       "album": {
@@ -6758,6 +6798,28 @@
     },
     {
       "album": {
+        "name": "Kauhea kankkunen (feat. Stig)",
+        "url": "https://open.spotify.com/album/4ib60KOYOCAFwACIkv18t1"
+      },
+      "artists": [
+        {
+          "name": "Yksi Totuus",
+          "url": "https://open.spotify.com/artist/6WhRNmekAnpW3ae3Nlu1xw"
+        },
+        {
+          "name": "STIG",
+          "url": "https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199954,
+      "name": "Kauhea kankkunen (feat. Stig)",
+      "url": "https://open.spotify.com/track/2ms2cBMoBcbqe5aENdXSTY"
+    },
+    {
+      "album": {
         "name": "Kaupunkilegendoi",
         "url": "https://open.spotify.com/album/5J4WIZIEar5B8icc1bCip6"
       },
@@ -8265,7 +8327,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 202183,
       "name": "Little Freak",
       "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
@@ -8417,7 +8479,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 191638,
       "name": "Love Of My Life",
       "url": "https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA"
@@ -8807,7 +8869,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
@@ -9675,7 +9737,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 193813,
       "name": "Music For a Sushi Restaurant",
       "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
@@ -9907,7 +9969,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 183982,
       "name": "N-Y-T",
       "url": "https://open.spotify.com/track/3cKMP7IUsaGeqAyuvn3LKq"
@@ -10485,6 +10547,28 @@
       "duration_ms": 237706,
       "name": "Olen suomalainen - L'Italiano",
       "url": "https://open.spotify.com/track/3PRxxRLDBI7Uhj4czaTqf3"
+    },
+    {
+      "album": {
+        "name": "Omaa lomaa (feat. Portion Boys)",
+        "url": "https://open.spotify.com/album/0BroFzeuwggRwOYtO4DLGY"
+      },
+      "artists": [
+        {
+          "name": "DJ Oku Luukkainen",
+          "url": "https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao"
+        },
+        {
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197456,
+      "name": "Omaa lomaa (feat. Portion Boys)",
+      "url": "https://open.spotify.com/track/31Uejc1IcBfwXy7f5IepM3"
     },
     {
       "album": {
@@ -11371,6 +11455,32 @@
       "duration_ms": 195438,
       "name": "Porto",
       "url": "https://open.spotify.com/track/43XeiHD8vA8tTxzudb93rn"
+    },
+    {
+      "album": {
+        "name": "Potion (with Dua Lipa & Young Thug)",
+        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214459,
+      "name": "Potion (with Dua Lipa & Young Thug)",
+      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
     },
     {
       "album": {
@@ -12524,6 +12634,28 @@
     },
     {
       "album": {
+        "name": "Shamppanjadieetill\u00e4",
+        "url": "https://open.spotify.com/album/4LmcLNXzZ3atEgqWm2qg3l"
+      },
+      "artists": [
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        },
+        {
+          "name": "Van Hegen",
+          "url": "https://open.spotify.com/artist/5SpJ7wupgkKXKKpMATIhe9"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154572,
+      "name": "Shamppanjadieetill\u00e4",
+      "url": "https://open.spotify.com/track/22KSKT3mCbSiG4RT20ogxB"
+    },
+    {
+      "album": {
         "name": "Shanghain valot",
         "url": "https://open.spotify.com/album/0fDr9Yp8pK2uXLYT9SV4Ng"
       },
@@ -12937,6 +13069,28 @@
       "duration_ms": 196946,
       "name": "Spillways",
       "url": "https://open.spotify.com/track/0WHtcCpZnoyFlQg3Mf2cdN"
+    },
+    {
+      "album": {
+        "name": "Stara (feat. Costi)",
+        "url": "https://open.spotify.com/album/0zTJauZs2sl6CbRxPEQU7M"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185938,
+      "name": "Stara (feat. Costi)",
+      "url": "https://open.spotify.com/track/0heKuoYddK5ee4WQor56E0"
     },
     {
       "album": {
@@ -13572,6 +13726,24 @@
     },
     {
       "album": {
+        "name": "Syd\u00e4n sulaa",
+        "url": "https://open.spotify.com/album/4oCy3xdoc8dk6GE21rkRJd"
+      },
+      "artists": [
+        {
+          "name": "Evelina",
+          "url": "https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215132,
+      "name": "Syd\u00e4n sulaa",
+      "url": "https://open.spotify.com/track/3yGXUI2VY7HMpJpiIerO3H"
+    },
+    {
+      "album": {
         "name": "Syksyn vihreill\u00e4",
         "url": "https://open.spotify.com/album/4YEpk3yfQ0KGRrqHBf8yri"
       },
@@ -13731,6 +13903,28 @@
       "duration_ms": 222080,
       "name": "S\u00e4rkyneiden syd\u00e4nten tie (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
       "url": "https://open.spotify.com/track/4yux0gIaonhsxMuLFkKten"
+    },
+    {
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/3ZR6nOAnr91cgySvDCbTI4"
+      },
+      "artists": [
+        {
+          "name": "Madboiali",
+          "url": "https://open.spotify.com/artist/62cLJcsS4nppVmLCqIHAFU"
+        },
+        {
+          "name": "Stafa",
+          "url": "https://open.spotify.com/artist/44isaRoVaZH5mdGrGm3hv5"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159432,
+      "name": "S\u00e4\u00e4nt\u00f6i (feat. Stafa)",
+      "url": "https://open.spotify.com/track/6BjYoI5TKTYEEZntqd13Ft"
     },
     {
       "album": {

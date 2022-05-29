@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: jamesjamesjames
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,494 likes - 83 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,575 likes - 83 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

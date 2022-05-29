@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Romania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,925 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,930 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 | 49 | [Abu Dhabi](https://open.spotify.com/track/6hJ4YxUN9RRUm4E08qfDcs) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [Abu Dhabi](https://open.spotify.com/album/1AX2IgsU9Hau9iili97z34) | 3:02 |
 | 50 | [Fresh](https://open.spotify.com/track/1TwnWP6wrWAMHjgrNSfwHx) | [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Românisme \- Partea II](https://open.spotify.com/album/019G8Uy2XyvpxaV1ElXC3U) | 3:33 |
 
-Snapshot ID: `NzA2MDE2MDAyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzA3MDYwNjIwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

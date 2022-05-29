@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,495 likes - 104 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,519 likes - 104 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 60 | [synvilla](https://open.spotify.com/track/2rMy1nI8EX80elSDLyAIbt) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [synvilla](https://open.spotify.com/album/3dkVeyAMOazCIa5YjclMg2) | 2:48 |
 | 61 | [When All The Lights Go Out](https://open.spotify.com/track/5Ifbn4RrryLrFOaYtRDo37) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [When All The Lights Go Out](https://open.spotify.com/album/7j8rD1UoKYTItOZL3WNhSB) | 2:48 |
 | 62 | [Dry Spell](https://open.spotify.com/track/6akbqRYcAzX4sDibV4PofA) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Dry Spell](https://open.spotify.com/album/5jy7stWw7eNshcMa1A6IwK) | 3:27 |
-| 63 | [Should't I Just Let You Know](https://open.spotify.com/track/2GZLf3DXx22bnYA5nwSgCW) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Shouldn't I Just Let You Know](https://open.spotify.com/album/0o4Kq3xuG6KGkMyAyqiTxa) | 3:42 |
+| 63 | [Shouldn't I Just Let You Know?](https://open.spotify.com/track/2GZLf3DXx22bnYA5nwSgCW) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Shouldn't I Just Let You Know?](https://open.spotify.com/album/0o4Kq3xuG6KGkMyAyqiTxa) | 3:42 |
 | 64 | [Dance For You](https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dance For You](https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W) | 3:21 |
 | 65 | [Lovesong](https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lovesong](https://open.spotify.com/album/6grV1LAfe5fUZ04vSexZtb) | 4:05 |
 | 66 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 |

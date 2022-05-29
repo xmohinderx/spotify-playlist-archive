@@ -4,7 +4,7 @@
 
 > Os grandes hits do momento estão aqui! Foto: Harry Styles
 
-52 songs - 2 hr 30 min - not published yet
+52 songs - 2 hr 30 min - [published](https://open.spotify.com/playlist/1KdstGq2CxRxvGbquOUHHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -27,7 +27,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 214549,
       "name": "2008",
       "url": "https://open.spotify.com/track/5Ig3vNOOWqu4DauHpT55K8"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 219688,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/6kgyuhLSBUB1LJVoACkPYV"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 207142,
       "name": "Aqua",
       "url": "https://open.spotify.com/track/5QkXtfDXyRkcQTGsGHkW80"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 299000,
       "name": "Ask Me Anything - Album Mix",
       "url": "https://open.spotify.com/track/5rN7rDTkNneqW9Q5Dshsqc"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 228537,
       "name": "Ayuma",
       "url": "https://open.spotify.com/track/3EcGHkTPyInwjBg6svuzRo"
@@ -1403,7 +1403,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 221552,
       "name": "Crank",
       "url": "https://open.spotify.com/track/1H5Iu1nBJZwVdDR0tSgpj9"
@@ -1585,7 +1585,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 175609,
       "name": "dreamcore",
       "url": "https://open.spotify.com/track/5mCDSnNX4wXDxCwtHBRysH"
@@ -2233,7 +2233,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 271304,
       "name": "Focus",
       "url": "https://open.spotify.com/track/7ClSlr5TX7brKfEJ51WhFz"
@@ -2295,7 +2295,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 232714,
       "name": "Free Souls - Ben van Gosh Radio Remix",
       "url": "https://open.spotify.com/track/5ZfnLl8eUqclVeeWEuVFKf"
@@ -2339,7 +2339,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 250580,
       "name": "From the Sun",
       "url": "https://open.spotify.com/track/416A6PaC66kQXkxC5bbmwU"
@@ -3039,7 +3039,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 231304,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/5uU8ZBRbxxw4LaGqfaIhOY"
@@ -3285,7 +3285,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 191304,
       "name": "Invaders",
       "url": "https://open.spotify.com/track/4ZBDlALixvnxtg8I22pZHF"
@@ -3559,7 +3559,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 225280,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/5jf1DWtNBC63dkalEIfv9c"
@@ -3756,6 +3756,32 @@
     },
     {
       "album": {
+        "name": "Lose Myself",
+        "url": "https://open.spotify.com/album/5w2RTmb6Kt6KWnndX7CVxJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Wright",
+          "url": "https://open.spotify.com/artist/1HISmBbcSh433t6pCYdaJI"
+        },
+        {
+          "name": "Nitrous Oxide",
+          "url": "https://open.spotify.com/artist/0UJQXkmx6GjqUxugf7zzkR"
+        },
+        {
+          "name": "Tiff Lacey",
+          "url": "https://open.spotify.com/artist/6wmyaMNIjZ26DmwgQDWKoE"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Lose Myself",
+      "url": "https://open.spotify.com/track/0pFzgiigPzwQVkFp1Qoiau"
+    },
+    {
+      "album": {
         "name": "Losing My Mind (Paul van Dyk Remix)",
         "url": "https://open.spotify.com/album/12HNaEe12RQqh9qsSlQqZM"
       },
@@ -3929,7 +3955,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 238517,
       "name": "Love You More",
       "url": "https://open.spotify.com/track/41KNb9756Ewaa7Smn2QSRL"
@@ -4081,7 +4107,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 186750,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/6UMGvMLgcqpB9TxSKYvf2j"
@@ -4099,7 +4125,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 213361,
       "name": "Magnum Opus",
       "url": "https://open.spotify.com/track/3g2Pv24yQKfRCZ2UFKhmXe"
@@ -4165,7 +4191,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 158571,
       "name": "Malfunction",
       "url": "https://open.spotify.com/track/0XhzCSC06CIvr3j5Ycl7q4"
@@ -4271,7 +4297,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 210250,
       "name": "Militia",
       "url": "https://open.spotify.com/track/5BPmf3wlUmDDQvsFMJaXby"
@@ -4355,7 +4381,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 197297,
       "name": "Moonshade",
       "url": "https://open.spotify.com/track/5K1qQiwzz0k7Dc64wiZpFS"
@@ -4377,7 +4403,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 170000,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/7I4tDDBhhjGZ0sv9NoK3Eb"
@@ -4589,7 +4615,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 246857,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/7Kb1JA5nIUYZpHPE0hdHL1"
@@ -4607,7 +4633,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 252437,
       "name": "Nostos",
       "url": "https://open.spotify.com/track/7GjOGWZwEOIEmnCf8EyDb8"
@@ -4823,7 +4849,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 298875,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/4fbqwJ0bZTMerQtLKdMK9v"
@@ -4871,6 +4897,24 @@
       "duration_ms": 203500,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/0xCdgF66ktkaVpiFXoXlp0"
+    },
+    {
+      "album": {
+        "name": "Orbit 37",
+        "url": "https://open.spotify.com/album/1F6PBJ4VSUq4KqoQVjPppM"
+      },
+      "artists": [
+        {
+          "name": "Rub!k",
+          "url": "https://open.spotify.com/artist/5U2wxAflSm2aCkV61rqhX2"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174077,
+      "name": "Orbit 37",
+      "url": "https://open.spotify.com/track/40fFjxtsBoIdTEL71kbp39"
     },
     {
       "album": {
@@ -5007,7 +5051,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 267692,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3Qpan87JZJxPZD7KM6IRXG"
@@ -5113,7 +5157,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 187500,
       "name": "Path Of Light",
       "url": "https://open.spotify.com/track/5eJvKAK62imJiVq15kYYds"
@@ -5233,7 +5277,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 263661,
       "name": "Quantum Eraser",
       "url": "https://open.spotify.com/track/4iBtkALF5a2yMOUOb0EhSi"
@@ -5631,7 +5675,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 198636,
       "name": "Run & Hide",
       "url": "https://open.spotify.com/track/4FiHdM1KtAJVE7CaZxnSK1"
@@ -5719,7 +5763,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 237423,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4zDU34T5mQk0xkxi1sWRmt"
@@ -6555,7 +6599,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 250434,
       "name": "Take This",
       "url": "https://open.spotify.com/track/3ipCyw9e4Hw4nI6xmx2HCi"
@@ -6970,6 +7014,24 @@
     },
     {
       "album": {
+        "name": "Transience",
+        "url": "https://open.spotify.com/album/2JMJaKZdIZN3SIbQP26L2C"
+      },
+      "artists": [
+        {
+          "name": "Alexander Popov",
+          "url": "https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180895,
+      "name": "Transience",
+      "url": "https://open.spotify.com/track/23fz2RgoUzHL3DdnaKccwO"
+    },
+    {
+      "album": {
         "name": "Trinity",
         "url": "https://open.spotify.com/album/19fNo924Pc2EPF0N7LbfHi"
       },
@@ -7153,7 +7215,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 182608,
       "name": "Visions",
       "url": "https://open.spotify.com/track/1avY7Gt8UXFY3niXHGj1pZ"
@@ -7293,7 +7355,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 281142,
       "name": "When Darkness Comes",
       "url": "https://open.spotify.com/track/7saRdP4N7PG6a38pI2Hpo9"
@@ -7495,7 +7557,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 255652,
       "name": "You and I",
       "url": "https://open.spotify.com/track/45PhxB0L21PoxYjMLruBCe"
@@ -7579,7 +7641,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 193283,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/2spgbkdZsgn6vyFCJrtToD"

@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 418120,
       "name": "Beautiful Man of Mine",
       "url": "https://open.spotify.com/track/35NPXOAZeNlu6WMRfJAA8m"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 321800,
       "name": "Don't Wanna Change the World",
       "url": "https://open.spotify.com/track/06b5ZHfj1b9u3Kn4DegPSD"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 241573,
       "name": "First Time Together",
       "url": "https://open.spotify.com/track/3m8zuI0D66a2VLI1swx1mD"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 313253,
       "name": "Give Me One Good Reason To Stay",
       "url": "https://open.spotify.com/track/5XRZsDzYzhxqsavBz2AghS"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 253426,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4A7MYo7tQyJfZMptVJ7IZh"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 259320,
       "name": "If You Want Me",
       "url": "https://open.spotify.com/track/1kU7W8P5aCIyK7Qk19VcfB"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 206333,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/73PpHL1BhZ3ji6c1FLhEfo"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 275000,
       "name": "Just Me And You",
       "url": "https://open.spotify.com/track/2LwAnUO0yqMyEbAgXAqM9N"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 282693,
       "name": "Love Is Here (feat. Phyllis Hyman)",
       "url": "https://open.spotify.com/track/41jJAf0D3oMABIvdS3BsBM"
@@ -756,6 +756,24 @@
     },
     {
       "album": {
+        "name": "You Know How to Love Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310493,
+      "name": "Some Way",
+      "url": "https://open.spotify.com/track/67WlLXB2CSnD56PTtEVa2K"
+    },
+    {
+      "album": {
         "name": "Somewhere In My Lifetime (Expanded Edition)",
         "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
       },
@@ -785,7 +803,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 266293,
       "name": "Souvenirs",
       "url": "https://open.spotify.com/track/3yNsxa2HKOrEwov5Ygk5Jt"
@@ -839,7 +857,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 223986,
       "name": "This Feeling Must Be Love",
       "url": "https://open.spotify.com/track/6RGu9NzuNh4yotd7ThcZV3"
@@ -857,7 +875,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 322773,
       "name": "Tonight You and Me - Disco Version",
       "url": "https://open.spotify.com/track/78A2I3CESWSwj7oflgfLli"
@@ -893,7 +911,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 250826,
       "name": "Waiting For The Last Tear To Fall",
       "url": "https://open.spotify.com/track/5KRXfGjx3lJnP2dvqu63xJ"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 246893,
       "name": "What Ever Happened To Our Love",
       "url": "https://open.spotify.com/track/5guRhSosc8jWFmqVFDtdwj"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 284853,
       "name": "Your Move, My Heart",
       "url": "https://open.spotify.com/track/2hsYj0BZHBOj9aXTCEh13l"

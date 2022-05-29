@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 164536,
       "name": "Aftoktonia",
       "url": "https://open.spotify.com/track/7IokpTW54OgzPu6Q3fkVHn"
@@ -625,6 +625,24 @@
       "duration_ms": 182857,
       "name": "Ali Baba",
       "url": "https://open.spotify.com/track/5PxGyzDQPmd04WzZTyp4nW"
+    },
+    {
+      "album": {
+        "name": "Bad Boy (Summer Hits)",
+        "url": "https://open.spotify.com/album/21rySo430y5dVWknVK0JAB"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174944,
+      "name": "Alitaras",
+      "url": "https://open.spotify.com/track/6UwdWcm7QyQzk9geavVfsP"
     },
     {
       "album": {
@@ -1839,6 +1857,24 @@
     {
       "album": {
         "name": "Beverly Hills",
+        "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
+    },
+    {
+      "album": {
+        "name": "Beverly Hills",
         "url": "https://open.spotify.com/album/44iA4FJRI1Od6gmgc2ZJfS"
       },
       "artists": [
@@ -1849,7 +1885,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/6tNIE06ZzfYLQWCvmLjUWn"
@@ -2567,7 +2603,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 265565,
       "name": "Cc",
       "url": "https://open.spotify.com/track/07qyw1D9R324YyFNZGUUdl"
@@ -3563,6 +3599,24 @@
       "duration_ms": 173250,
       "name": "Dete",
       "url": "https://open.spotify.com/track/3wvdSytwab9tGtBbaIcoxP"
+    },
+    {
+      "album": {
+        "name": "Bad Boy (Summer Hits)",
+        "url": "https://open.spotify.com/album/21rySo430y5dVWknVK0JAB"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Diakopes",
+      "url": "https://open.spotify.com/track/5zMQbWJC7n3NztBWp6emgL"
     },
     {
       "album": {
@@ -5873,7 +5927,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 139127,
       "name": "HENNESSY (interlude)",
       "url": "https://open.spotify.com/track/7CsuAYCBJPfiZM0Me7yN86"
@@ -6212,6 +6266,24 @@
     },
     {
       "album": {
+        "name": "Bad Boy (Summer Hits)",
+        "url": "https://open.spotify.com/album/21rySo430y5dVWknVK0JAB"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206930,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/1I8WeuAQ7UAfLZiExVRiKt"
+    },
+    {
+      "album": {
         "name": "Ibiza",
         "url": "https://open.spotify.com/album/06lnz8zuPoloBmNCWVCZ0J"
       },
@@ -6223,7 +6295,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 209966,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/1VuKTIwRSERLp4Y1kghzpl"
@@ -7229,7 +7301,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 163808,
       "name": "KLOUVI",
       "url": "https://open.spotify.com/track/1eiPZN8y5FT6il5H07qaVY"
@@ -8369,7 +8441,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 166800,
       "name": "Loyal",
       "url": "https://open.spotify.com/track/1eEoV4y3nT116m0rKrU055"
@@ -8439,7 +8511,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 206142,
       "name": "M2S",
       "url": "https://open.spotify.com/track/4lQjaJ31vIlI9T9TyXHR18"
@@ -9570,6 +9642,32 @@
     },
     {
       "album": {
+        "name": "Beverly Hills",
+        "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Moneydance",
+      "url": "https://open.spotify.com/track/3BEciTHKrT0WUZuov9Yjod"
+    },
+    {
+      "album": {
         "name": "Interrail",
         "url": "https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34"
       },
@@ -10675,10 +10773,36 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 188000,
       "name": "OPLO",
       "url": "https://open.spotify.com/track/4hQD9RLZC5M3xU2W4Mvulg"
+    },
+    {
+      "album": {
+        "name": "Bad Boy (Summer Hits)",
+        "url": "https://open.spotify.com/album/21rySo430y5dVWknVK0JAB"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "OPLO",
+      "url": "https://open.spotify.com/track/4yKBuyaSXW5opFSq6gYebF"
     },
     {
       "album": {
@@ -11083,6 +11207,24 @@
       "duration_ms": 271058,
       "name": "Papafeio",
       "url": "https://open.spotify.com/track/6LIqOunAkraEyXV2kIDNEE"
+    },
+    {
+      "album": {
+        "name": "Bad Boy (Summer Hits)",
+        "url": "https://open.spotify.com/album/21rySo430y5dVWknVK0JAB"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182257,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/7jmkuBZeH5lezHZ3iu3YH1"
     },
     {
       "album": {
@@ -11590,6 +11732,28 @@
     },
     {
       "album": {
+        "name": "Bad Boy (Summer Hits)",
+        "url": "https://open.spotify.com/album/21rySo430y5dVWknVK0JAB"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Stef Tony",
+          "url": "https://open.spotify.com/artist/3JcFxZ928S8hsqkaNZhbwZ"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184324,
+      "name": "Pornstar",
+      "url": "https://open.spotify.com/track/795mH2Abs2KEIEb2ckVaCj"
+    },
+    {
+      "album": {
         "name": "Pososta",
         "url": "https://open.spotify.com/album/7IBZ4dIdYocMU2bbjOPO0D"
       },
@@ -11627,10 +11791,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 223255,
       "name": "Poulia",
       "url": "https://open.spotify.com/track/4VmbnKQUIo3nb52FqeNJpQ"
+    },
+    {
+      "album": {
+        "name": "Bad Boy (Summer Hits)",
+        "url": "https://open.spotify.com/album/21rySo430y5dVWknVK0JAB"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/7tinplmYprGgvwrdzNXnO8"
     },
     {
       "album": {
@@ -11833,7 +12015,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 174193,
       "name": "PROSEUXES",
       "url": "https://open.spotify.com/track/5mdj90yso7kPyy2foXjeDY"
@@ -13181,7 +13363,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 268000,
       "name": "Standby",
       "url": "https://open.spotify.com/track/6Tupow7GT1XnVSOUUnG8Gd"
@@ -14653,6 +14835,24 @@
       "duration_ms": 144000,
       "name": "TROPHIES",
       "url": "https://open.spotify.com/track/6B7Eiw4F4WzCtqOFvWlCPg"
+    },
+    {
+      "album": {
+        "name": "Bad Boy (Summer Hits)",
+        "url": "https://open.spotify.com/album/21rySo430y5dVWknVK0JAB"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169444,
+      "name": "Tropicana",
+      "url": "https://open.spotify.com/track/1ob6WCVuZIO5qk7jiRrHjn"
     },
     {
       "album": {

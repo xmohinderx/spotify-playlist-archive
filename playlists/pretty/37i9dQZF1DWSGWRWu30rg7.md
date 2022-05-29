@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Haico\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,530 likes - 61 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,539 likes - 61 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 27 | [Umbra](https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO) | [Monica Hapsari](https://open.spotify.com/artist/20A3XzYQEOFjheUWIfOK6j) | [Umbra](https://open.spotify.com/album/4JJ56IJQdwUNfcexYgJf3n) | 7:17 |
 | 28 | [Titik Terendah](https://open.spotify.com/track/3Oj31ax9ky7BaCPcfKIT5c) | [Riezky Hidayat](https://open.spotify.com/artist/2Us1Y9DfSLgFMxn1FwTP8A), [Ersa](https://open.spotify.com/artist/03BEMgMtnSS0QP8cMD31eg) | [Titik Terendah](https://open.spotify.com/album/3pVebX28e1bQwATAvDp8S7) | 4:02 |
 | 29 | [Kusadari Kurasa](https://open.spotify.com/track/3j037xZyU32E4LFMHJ2QZs) | [Rizki PS](https://open.spotify.com/artist/23BLuKgsLIGs3eBU2iRPPI) | [Kusadari Kurasa](https://open.spotify.com/album/0ilcq5z68RN37g5bwKH98b) | 4:03 |
-| 30 | [Soul Escape](https://open.spotify.com/track/4LVf4oxRulLStYd1wZjHHO) | [Regina Gabriela](https://open.spotify.com/artist/4dWEUu31GRz0NRRPex0cC9) | [Soul Escape](https://open.spotify.com/album/1vGldRppX98KizF4rN21os) | 3:42 |
+| 30 | [Soul Escape](https://open.spotify.com/track/4LVf4oxRulLStYd1wZjHHO) | [Regina Gabriela](https://open.spotify.com/artist/2mn7CNCJhghWwdxEPrqvT1) | [Soul Escape](https://open.spotify.com/album/1vGldRppX98KizF4rN21os) | 3:42 |
 | 31 | [Masa Putih Abu\-Abu](https://open.spotify.com/track/3Jsc5yVdLYslFMGDjz7ysn) | [Penikmat Soto](https://open.spotify.com/artist/1dVhhCe5DGDavrsiSsxh0a), [MR\. WILD](https://open.spotify.com/artist/4eZTVAAADW5Zdjl51gOC4H), [Pandu Cristoper](https://open.spotify.com/artist/2jzxpQURxsEZGCIBEu1iXd) | [Masa Putih Abu\-Abu](https://open.spotify.com/album/6ZhcbnIdvhD4Vc4e8W4K3P) | 2:34 |
 | 32 | [I'll Be Gone](https://open.spotify.com/track/4mrmdpjXcj9ZjKmZs9qu8m) | [NATE.](https://open.spotify.com/artist/1sx22CI4VsR541Wbo1zbga) | [I'll Be Gone](https://open.spotify.com/album/2lBWfiEMnWPafU89y9B7uq) | 3:10 |
 | 33 | [Give My Love To You](https://open.spotify.com/track/5UnMVupmoxXOH6yWOmTnLF) | [Jessica Li](https://open.spotify.com/artist/6SuuPv093yvZHE9nAZ75aK) | [Give My Love To You](https://open.spotify.com/album/1HZ5fGtyP3sPxLPPkRMreI) | 3:13 |

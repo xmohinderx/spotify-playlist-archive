@@ -4,7 +4,7 @@
 
 > Luísa Sonza e os hits do pop nacional em 2021!
 
-50 songs - 2 hr 28 min - not published yet
+50 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/67KWFJphEdCzKRICjRpC7e)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

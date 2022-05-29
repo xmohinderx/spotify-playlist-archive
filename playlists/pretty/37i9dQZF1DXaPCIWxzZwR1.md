@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop featuring Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,065,845 likes - 97 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,066,102 likes - 97 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

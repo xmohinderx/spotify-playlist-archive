@@ -4,7 +4,7 @@
 
 > pov: vc tá safada e deprimida // Clarissa
 
-51 songs - 2 hr 43 min - not published yet
+51 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/1N2aY5nA8MrfxngP6TMfX7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

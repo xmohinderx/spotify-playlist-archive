@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: PSY, SUGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,141 likes - 92 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,987 likes - 92 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

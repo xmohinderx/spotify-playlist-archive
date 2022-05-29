@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnZT5DhATDx.md) - [plain]
 
 > Bend the knee and give reverence to this playlist envisioned by Game Of Thrones co\-creators David Benioff and D.B\. Weiss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,657 likes - 51 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,643 likes - 51 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

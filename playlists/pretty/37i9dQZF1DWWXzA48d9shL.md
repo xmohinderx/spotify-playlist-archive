@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > 😈 😈 😈   new Freddie Dredd
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,749 likes - 119 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,194 likes - 119 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

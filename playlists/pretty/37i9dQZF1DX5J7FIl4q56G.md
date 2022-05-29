@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Blind Guardian
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,502 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,610 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Blood Of The Elves](https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Blood Of The Elves](https://open.spotify.com/album/76PsSP8KP5hfMj6Lv4baRS) | 4:37 |
-| 2 | [Bleed Together](https://open.spotify.com/track/42AuCKjh0QFS4dZQv8WURV) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Bleed Together](https://open.spotify.com/album/5xQY16nG5c9tM3xXGgpg4p) | 4:30 |
-| 3 | [Stitches](https://open.spotify.com/track/4KWq6RMruDDwjzYBBpUi7c) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Stitches](https://open.spotify.com/album/45SbfV6M4ELzAOU163XpPb) | 5:01 |
-| 4 | [Demon King](https://open.spotify.com/track/7ynraW89Jj7tPYLaNihl6v) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Demon King](https://open.spotify.com/album/7mQTEBCTYqQL58cJwGQBbn) | 3:57 |
-| 5 | [Iconoclast](https://open.spotify.com/track/2I0caLwd3Rc84Hr147WH6S) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc), [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Cancer Culture](https://open.spotify.com/album/1h4pyfLZgGi11i560BmZp0) | 4:49 |
+| 1 | [Stitches](https://open.spotify.com/track/4KWq6RMruDDwjzYBBpUi7c) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Stitches](https://open.spotify.com/album/45SbfV6M4ELzAOU163XpPb) | 5:01 |
+| 2 | [Iconoclast](https://open.spotify.com/track/2I0caLwd3Rc84Hr147WH6S) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc), [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Cancer Culture](https://open.spotify.com/album/1h4pyfLZgGi11i560BmZp0) | 4:49 |
+| 3 | [Blood Of The Elves](https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Blood Of The Elves](https://open.spotify.com/album/76PsSP8KP5hfMj6Lv4baRS) | 4:37 |
+| 4 | [Bleed Together](https://open.spotify.com/track/42AuCKjh0QFS4dZQv8WURV) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Bleed Together](https://open.spotify.com/album/5xQY16nG5c9tM3xXGgpg4p) | 4:30 |
+| 5 | [Demon King](https://open.spotify.com/track/7ynraW89Jj7tPYLaNihl6v) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Demon King](https://open.spotify.com/album/7mQTEBCTYqQL58cJwGQBbn) | 3:57 |
 | 6 | [Heart To Stone](https://open.spotify.com/track/1dlmBnF9hFmhhsCKzZWyrT) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB) | [Heart To Stone](https://open.spotify.com/album/13ixlRB348zXf1RObOOZN7) | 3:16 |
 | 7 | [Total Thrash](https://open.spotify.com/track/3mXdh0raJdzlzM1diasEmy) | [Traitor](https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM), [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM), [Tom Angelripper](https://open.spotify.com/artist/56DU0AdXm3PpNuFDmzVwDn) | [Total Thrash](https://open.spotify.com/album/3mG6LTmSrPPPOKcVZjYq1I) | 4:06 |
 | 8 | [I'm Not Surprised](https://open.spotify.com/track/7hbUuHOl7TB6uBYDlbFbvH) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Pixelated Oblivion](https://open.spotify.com/album/7Ih2h5RbwzFVwrC4LaMeQ9) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [Digitalis Purpurea](https://open.spotify.com/track/5xVvPPqNNkRh6Dy5BBGyrP) | [Svart Crown](https://open.spotify.com/artist/0Jk0jmS1MIp7UZuXaRrBCF) | [Digitalis Purpurea](https://open.spotify.com/album/006n7hhAVi7DnH30DBm2fQ) | 4:10 |
 | 50 | [217](https://open.spotify.com/track/0lWKMOsfW2eViece2pRury) | [Vatic](https://open.spotify.com/artist/6HXpMYkohJ9wOCdUev8qzS) | [217](https://open.spotify.com/album/1CYSaRnmwn9Pz7V2hWqxzj) | 3:23 |
 
-Snapshot ID: `MTY1MzYwOTYwMCwwMDAwMDRmMjAwMDAwMTgxMDJkMDE1MzEwMDAwMDE4MTAwODYxMDRj`
+Snapshot ID: `MTY1Mzc3MTA2OCwwMDAwMDRmMzAwMDAwMTgxMGM2ZmUzNzUwMDAwMDE4MTAwODYxMDRj`

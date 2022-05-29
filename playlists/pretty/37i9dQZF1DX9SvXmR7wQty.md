@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Les sœurs Boulay
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,259 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,265 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 14 | [L'ADRESSE](https://open.spotify.com/track/6XxaNqgzbgwkw0LaeE2Z63) | [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) | [TOUT PEUT ARRIVER](https://open.spotify.com/album/2RqrnnWKbNHNbv6GNmZkh1) | 3:07 |
 | 15 | [Vagabond](https://open.spotify.com/track/4xLPjYjFtZejPTraedhahJ) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [Vagabond](https://open.spotify.com/album/7I1M3oCVIKMThxE3dvp7NL) | 3:19 |
 | 16 | [COBAYE](https://open.spotify.com/track/2dqaIgv4BedNGfQZmYBtfc) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ), [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS) | [COBAYE](https://open.spotify.com/album/0VzpDVglsn7PAAc7A6QtzW) | 4:47 |
-| 17 | [Ton Autre Vie](https://open.spotify.com/track/4RwWsoTApKah1qXyd774Z5) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost \(Deluxe Edition\)](https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS) | 4:40 |
+| 17 | [Ton Autre Vie \(feat\. Sarah Dugas\)](https://open.spotify.com/track/4RwWsoTApKah1qXyd774Z5) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Sarah Dugas](https://open.spotify.com/artist/00MWO9aNCxqV0zfezWZ5j6) | [Long Lost \(Deluxe Edition\)](https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS) | 4:40 |
 | 18 | [1977 \- D R M S Remix](https://open.spotify.com/track/4MsMzefrFNk9iDyYecy9Zm) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1), [D R M S](https://open.spotify.com/artist/00yiM4q7xFzD8kJ6pUxjeH) | [1977 \(D R M S Remix\)](https://open.spotify.com/album/58XOkgVK8U7V3zntVdS7Cg) | 3:10 |
 | 19 | [J'ai besoin d'air](https://open.spotify.com/track/3zc9tTWeUOswCBVFp6Y7l9) | [Patsy Gallant](https://open.spotify.com/artist/13amDjKz680LMirXzQEqU5) | [J'ai besoin d'air / I Don't Care](https://open.spotify.com/album/72Lb4fOcI5uGHLLdrGPvPr) | 3:39 |
 | 20 | [Antifa](https://open.spotify.com/track/1qYM3kAehcNXkXkP7a3u1A) | [Orloge Simard](https://open.spotify.com/artist/2PfwtnCHCC0iezSoJHtzfs) | [Antifa](https://open.spotify.com/album/19BtgzobOTX22524cvCXn8) | 5:08 |

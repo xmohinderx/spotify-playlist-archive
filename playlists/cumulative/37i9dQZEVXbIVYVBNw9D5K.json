@@ -2978,6 +2978,24 @@
     },
     {
       "album": {
+        "name": "Gayrime\u015fru",
+        "url": "https://open.spotify.com/album/4HAjpThNI0MV2jQwcT56nX"
+      },
+      "artists": [
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118326,
+      "name": "Gayrime\u015fru",
+      "url": "https://open.spotify.com/track/0CqQx2dcNFmtYM4oTSECSt"
+    },
+    {
+      "album": {
         "name": "Gece G\u00fcnd\u00fcz",
         "url": "https://open.spotify.com/album/1QGVemNszLYbrqYqsdcqRH"
       },
@@ -3485,7 +3503,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 144159,
       "name": "G\u00f6zler",
       "url": "https://open.spotify.com/track/3Hvn1ASL6A9m921Y99Hdm4"
@@ -3829,6 +3847,24 @@
       "duration_ms": 185333,
       "name": "Herkes Gibisin",
       "url": "https://open.spotify.com/track/7jnN5sT8rk6PIvBZRWYdJj"
+    },
+    {
+      "album": {
+        "name": "HIRSIZ",
+        "url": "https://open.spotify.com/album/4Q2QAaVtT3y6xJ1CnXjX1H"
+      },
+      "artists": [
+        {
+          "name": "Patron",
+          "url": "https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185845,
+      "name": "HIRSIZ",
+      "url": "https://open.spotify.com/track/316CjbmqFYbhljXXI3PEPa"
     },
     {
       "album": {
@@ -7537,7 +7573,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 122400,
       "name": "Trankobuskas - Remix",
       "url": "https://open.spotify.com/track/3Zy6uq4X0w6O8UMwJbzv9o"

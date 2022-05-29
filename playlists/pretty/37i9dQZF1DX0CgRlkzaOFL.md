@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,532 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,579 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 29 | [Very little wishes](https://open.spotify.com/track/0dRub80H2d4W7FtuhBS2Qo) | [MEMBERS OF ISRAEL](https://open.spotify.com/artist/3YuzaXle16gxckseOvaznO), [Philharmonic Orchestra](https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h) | [「MACROSS PLUS」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5GAVQImOGSyQXvMQA3MqQ4) | 2:29 |
 | 30 | [王様ランキング \-メインテーマ\-](https://open.spotify.com/track/1FrE0MDUawjQGqV4rTeOUj) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [王様ランキング オリジナルサウンドトラック](https://open.spotify.com/album/5uQAOc824R8ukjh6T1H4R6) | 2:06 |
 | 31 | [Piano Sonata No\. 16 in A Minor, D\. 845: I\. Moderato](https://open.spotify.com/track/00tZj5a6Yv5fXTZUQJyiPb) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Schubert](https://open.spotify.com/album/51e2j0LCoTQafc9wKXd2PE) | 12:38 |
-| 32 | [best years in our lives](https://open.spotify.com/track/5xjtf6JDEk7e6NbUyBJvSO) | [梶浦由記](https://open.spotify.com/artist/67vfW2lHnf3YQq0RsOz2KH) | [「ツバサ・クロニクル」オリジナル・サウンドトラック Future Soundscape I](https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy) | 3:08 |
+| 32 | [best years in our lives](https://open.spotify.com/track/5xjtf6JDEk7e6NbUyBJvSO) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「ツバサ・クロニクル」オリジナル・サウンドトラック Future Soundscape I](https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy) | 3:08 |
 | 33 | [Beyond the Seas](https://open.spotify.com/track/4931hN8zaVARMSVAFN4AC0) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [TVアニメ「HUNTER×HUNTER」オリジナル・サウンドトラック](https://open.spotify.com/album/2Dw87Ob66XprXiHKbhifJB) | 1:30 |
 | 34 | [ベートーヴェン:交響曲第7番イ長調作品92より 第1楽章・第4楽章 ドラマエディット](https://open.spotify.com/track/5MZl6mbsB0GRMnxuNJIyfx) | [のだめカンタービレ](https://open.spotify.com/artist/6nWWsbt4NZhcUKinYxZ8PN) | [のだめカンタービレ スペシャル BEST!](https://open.spotify.com/album/7tHoaRyQsXpbW2b1gi82Fd) | 7:20 |
 | 35 | [Heiwa no Inori](https://open.spotify.com/track/7Gq8UpApEwJdOIf5K6XCJO) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 2](https://open.spotify.com/album/4wNiXmTGxZ4RcWKesDupIy) | 1:37 |
-| 36 | [where you are](https://open.spotify.com/track/3Yr8fFmMIW72uVPX9HnuaX) | [梶浦由記](https://open.spotify.com/artist/67vfW2lHnf3YQq0RsOz2KH) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK2](https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y) | 1:26 |
+| 36 | [where you are](https://open.spotify.com/track/3Yr8fFmMIW72uVPX9HnuaX) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK2](https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y) | 1:26 |
 | 37 | [7角:the1](https://open.spotify.com/track/30LuuTndVmwmQr6q1JMlPm) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [七つの大罪 オリジナル・サウンドトラック](https://open.spotify.com/album/4OHuwh9kd4b38gyrP5YMmP) | 4:51 |
 | 38 | [Liebesleid](https://open.spotify.com/track/4PAwFMCI2N0tPqAoX0lBnt) | [Fritz Kreisler](https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Paul Coker](https://open.spotify.com/artist/6Xsc5sibYGiOZPZw4VakA7) | [The Kreisler Album](https://open.spotify.com/album/0Yn0K87VDMFwDzrvmZPrzE) | 3:41 |
 | 39 | [BEASTARS \-pf solo\-](https://open.spotify.com/track/1WKXs9BlXdmN9qsBw2Cgcn) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 1:49 |

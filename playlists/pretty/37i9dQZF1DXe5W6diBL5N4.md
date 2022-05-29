@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: Brave Girls\(브레이브 걸스\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,660 likes - 200 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,831 likes - 200 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 12 | [Fine With This](https://open.spotify.com/track/1Cw1MeJH8pqrDfyigiaqE1) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [Fine With This](https://open.spotify.com/album/1WnasvrchzjTJTJvJVttKe) | 3:05 |
 | 13 | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/track/5760o7vIytByWNmmf115wj) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO) | 2:59 |
 | 14 | [Our Days](https://open.spotify.com/track/70AnBuAJhAFDAlHA4ILXjW) | [Kim Yong Jun](https://open.spotify.com/artist/7c8aDBJZIk4slFY40S6He7) | [Our Days](https://open.spotify.com/album/1sPFkBCyZ9eqnXaDWgdC5h) | 3:53 |
-| 15 | [I Don't Want To Say Goodbye](https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj) | [Shin Ye\-Young](https://open.spotify.com/artist/1edt5QwC6e1YtAkYuMCOci) | [Love Revolution \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN) | 5:06 |
+| 15 | [I Don't Want To Say Goodbye](https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Love Revolution \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN) | 5:06 |
 | 16 | [Secretly Greatly](https://open.spotify.com/track/3nQ6F09wsFMIZpDtDVdKkN) | [Paek in tae](https://open.spotify.com/artist/6exeIYOLfwDL5DO253SLSl), [Seo seung won](https://open.spotify.com/artist/3HHXOsYjjSjjhRAKmP1Z5H) | [Musical 'Secretly Greatly:The Last' \(Original Musical Soundtrack\)](https://open.spotify.com/album/6oubAPMjKbviqzG1XbYXZ0) | 5:09 |
 | 17 | [CLASSY](https://open.spotify.com/track/7LEupZwTQBhbvvHmxttUeP) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LIVES ACROSS](https://open.spotify.com/album/13wsV6lqeOiPzIRwCv7Ugw) | 2:48 |
 | 18 | [Fed Up](https://open.spotify.com/track/0yUqrll0GWZozolOmYxCc5) | [Anoc](https://open.spotify.com/artist/0mOPxa6cfGNqcVjKQlFnAo) | [Fed Up](https://open.spotify.com/album/7vLLg9MVE8ioOrtnN9thcI) | 3:08 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 34 | [Ride In](https://open.spotify.com/track/2UfV11bsS80uaESfesRWH4) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [Ride In, 젊은 날의 꿈](https://open.spotify.com/album/3FbRUoycTSfRRu4V1USSeJ) | 2:41 |
 | 35 | [Hold me …](https://open.spotify.com/track/6mglxgJ3ZV9WDFOVTgTFvi) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [The Crush Of Spring OST Part.3](https://open.spotify.com/album/6cxI2NnSA8YBlHJip1mdji) | 3:44 |
 | 36 | [A Perfect Ending](https://open.spotify.com/track/15itaSEmDZt9PVygMrIpTN) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [A Perfect Ending](https://open.spotify.com/album/1PLIADtea77VEx1FJEMMLm) | 3:34 |
-| 37 | [Where the Flowers Bloom \(Feat\. punchnello\)](https://open.spotify.com/track/582JWXA9sYkNTMSxAHVRVC) | [Kass](https://open.spotify.com/artist/6QF9YQz6I9u2fw3Jb1EjXs), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Where the Flowers Bloom](https://open.spotify.com/album/29CoZO1vHx09Szxqaum0aA) | 3:02 |
+| 37 | [Where the Flowers Bloom \(Feat\. punchnello\)](https://open.spotify.com/track/582JWXA9sYkNTMSxAHVRVC) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Where the Flowers Bloom](https://open.spotify.com/album/29CoZO1vHx09Szxqaum0aA) | 3:02 |
 | 38 | [Just another breakup song \(with Yun DDanDDan of 2016\)](https://open.spotify.com/track/7rTVQk8fang6utPONH93NV) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Old Pieces](https://open.spotify.com/album/4xzSvcmwdc0CHsRh3vPBJT) | 3:50 |
 | 39 | [Summer Freak](https://open.spotify.com/track/7MeLFWgbHK8XxiMwvAUyne) | [Soulights](https://open.spotify.com/artist/35ducZNsJuhyWmHnhHAADz) | [Summer Freak](https://open.spotify.com/album/7zld27DJOAGzHZwTjKH1Lb) | 2:54 |
 | 40 | [11 o'clock Classic \- MSG version](https://open.spotify.com/track/6BMf0G0117dcVJBOgnO4vD) | [Claudio Jung](https://open.spotify.com/artist/7nUfwOW4l5NLvcGWzHCNms) | [11 o'clock Classic](https://open.spotify.com/album/5gPzzC3LBpZZ6p3s0VE4TZ) | 4:21 |

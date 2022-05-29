@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,665 likes - 139 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,815 likes - 139 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 36 | [Googoo Lagoon](https://open.spotify.com/track/2WDhakxpi1P3Kzp6JT30ll) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [Googoo Lagoon](https://open.spotify.com/album/26lzqyZj9NtAe1JG1lejca) | 3:44 |
 | 37 | [LiiTE](https://open.spotify.com/track/0uTrVniKqic1122qBJOjkg) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [LiiTE](https://open.spotify.com/album/3WBeZU1u2MIKiK0jrwANcu) | 2:52 |
 | 38 | [star queen yuuki](https://open.spotify.com/track/5SZy32XBX6XcCfuTNvDxwO) | [FlowerBoyDeMii](https://open.spotify.com/artist/7HcU7yCOfyw3hqrj1ZSORc) | [star queen yuuki](https://open.spotify.com/album/77R3coeQiPjpiw1pAqDaPN) | 2:28 |
-| 39 | [As Ever](https://open.spotify.com/track/1qnbZ096P23wL4Gc4Z4XVp) | [Bing](https://open.spotify.com/artist/3upDBpUUGvWfyDaYRWe4pi) | [As Ever](https://open.spotify.com/album/0U8w9JKO9Ex1mNz2ZgrTJx) | 4:50 |
+| 39 | [As Ever](https://open.spotify.com/track/1qnbZ096P23wL4Gc4Z4XVp) | [Bing](https://open.spotify.com/artist/000KH5miITrYDL3ZmYxtIL) | [As Ever](https://open.spotify.com/album/0U8w9JKO9Ex1mNz2ZgrTJx) | 4:50 |
 | 40 | [Knife Emoji](https://open.spotify.com/track/0QSpnBoCVRE0kx3lJXKKEZ) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [Knife Emoji](https://open.spotify.com/album/0veqeBOKWbhNEy4wfR1X97) | 2:44 |
 | 41 | [Posing For Flex](https://open.spotify.com/track/27CwyJriNArZhrSfpyBeLG) | [DM\-90](https://open.spotify.com/artist/7pVTLdf8j65BYsLYmIuesd) | [Posing For Flex](https://open.spotify.com/album/27x857E6j1lchNoGdPJ43A) | 1:57 |
 | 42 | [Final Notice](https://open.spotify.com/track/2BQSzyr5tnLcnyQrK3Io7a) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Final Notice](https://open.spotify.com/album/4oJ8uRTGb6RXlyyTx5W3aW) | 2:59 |

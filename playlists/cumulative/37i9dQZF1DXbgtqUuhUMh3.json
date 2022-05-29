@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 209708,
       "name": "966",
       "url": "https://open.spotify.com/track/3PflE6uFFthNWVo0kgLUdX"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 200120,
       "name": "AL Haneen",
       "url": "https://open.spotify.com/track/4QFao7PN5C3uGmfyaWs3Dw"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 261695,
       "name": "Ana El Mostahel",
       "url": "https://open.spotify.com/track/4lYozOwaI7qe9clHySo8UN"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 162794,
       "name": "Atoul",
       "url": "https://open.spotify.com/track/2nxNsJ9Lve8edydwY8oL5b"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 227280,
       "name": "Erjaa Shoufak",
       "url": "https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO"
@@ -1875,7 +1875,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 183076,
       "name": "Kifak",
       "url": "https://open.spotify.com/track/6qC6yW3SkH0FlvnkqOesJe"
@@ -1987,7 +1987,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 206850,
       "name": "La7za",
       "url": "https://open.spotify.com/track/4VVpPqUEwJLJgAblQVBFWG"
@@ -2167,7 +2167,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 253000,
       "name": "Ma Bakhaf",
       "url": "https://open.spotify.com/track/2N6MGx1CRx78o9LG7pAjdS"
@@ -2481,10 +2481,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 193596,
       "name": "Meen Bint Sgheeri \u0645\u064a\u0646 \u0628\u0646\u062a \u0635\u063a\u064a\u0631\u0629",
       "url": "https://open.spotify.com/track/0NdTGMo7HIf4tjFCT0vHVh"
+    },
+    {
+      "album": {
+        "name": "mehtag bosat",
+        "url": "https://open.spotify.com/album/0Nf9o2JVSlpFLAvllnL9bN"
+      },
+      "artists": [
+        {
+          "name": "Nagwan",
+          "url": "https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "mehtag bosat",
+      "url": "https://open.spotify.com/track/1D4qNDL64nDuCwOI9spXI9"
     },
     {
       "album": {
@@ -2697,7 +2715,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 190054,
       "name": "Nefodaha Seera",
       "url": "https://open.spotify.com/track/1MPi1UhG5kOwuuBtuhGWwj"
@@ -3109,7 +3127,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 194701,
       "name": "Romansiya",
       "url": "https://open.spotify.com/track/6N9pppnJ6R4ctOAf2XRxg6"
@@ -3353,7 +3371,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 214177,
       "name": "Sowarna",
       "url": "https://open.spotify.com/track/5aMf5XddEvzeC1m88J6x4v"
@@ -3699,7 +3717,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 130694,
       "name": "Weino 2",
       "url": "https://open.spotify.com/track/25v0ao9Pk1RMagxyVCbJNZ"
@@ -4467,7 +4485,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 203218,
       "name": "\u0637\u0631\u0634\u0648\u0644\u0647",
       "url": "https://open.spotify.com/track/6zKRAoVTjxGaXYxUdSTUHB"
@@ -4575,7 +4593,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 210689,
       "name": "\u0643\u0627\u0646\u062a \u0628\u062a\u0633\u0647\u0631",
       "url": "https://open.spotify.com/track/6i2yw9dhF9GPevIJxD3ewR"

@@ -4,7 +4,7 @@
 
 > Super mega hits of 2021! Foto: Lil Nas X
 
-50 songs - 2 hr 45 min - not published yet
+50 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/6sR6xjejeStumWPTXcOrfM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

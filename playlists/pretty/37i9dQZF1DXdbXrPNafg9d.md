@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Alex G
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,210,810 likes - 140 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,210,982 likes - 140 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

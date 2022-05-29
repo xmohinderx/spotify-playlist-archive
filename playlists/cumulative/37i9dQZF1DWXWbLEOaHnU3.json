@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 231000,
       "name": "Aliyu",
       "url": "https://open.spotify.com/track/6UO97Q5Rbg7iLAcIiAIZHr"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 440547,
       "name": "Around the Stars",
       "url": "https://open.spotify.com/track/5zEkJhlypnzAjacqTemCea"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 500281,
       "name": "Be Right - Asgard Remix",
       "url": "https://open.spotify.com/track/3w4iGiKW0BM8B6M8MNMvxa"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 459428,
       "name": "Bhavani Ashtakam",
       "url": "https://open.spotify.com/track/4hBD1db3F4KkvigumOTDMD"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 442816,
       "name": "Counterpoint - Original Mix",
       "url": "https://open.spotify.com/track/3hX0SqNgTAHfqlNOs4RELC"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 450206,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/6HqR3zR0zfvMh7dUZypogW"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/5lSopyliv1abtwdNhQ4aJT"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 494968,
       "name": "Dreamworld",
       "url": "https://open.spotify.com/track/3lGnnnYxNxDwH2XTWtAyxD"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 439190,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5dFXMKwmElFkdBXEII2HpR"
@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 351549,
       "name": "Hi-Psy",
       "url": "https://open.spotify.com/track/4P37PI8hE5xCrhXOx00OzY"
@@ -1397,7 +1397,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 365714,
       "name": "Indian Spirit",
       "url": "https://open.spotify.com/track/5ialmmuwylzm1xDwHlxpCg"
@@ -1419,7 +1419,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 150400,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/7sxlEIm4inpLw6m63kGk6W"
@@ -1525,7 +1525,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 254896,
       "name": "look into the mirror",
       "url": "https://open.spotify.com/track/1CN9SDbF4slNTJPVAcWzJa"
@@ -1818,6 +1818,28 @@
     },
     {
       "album": {
+        "name": "Other Days",
+        "url": "https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS"
+      },
+      "artists": [
+        {
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245357,
+      "name": "Other Days",
+      "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
+    },
+    {
+      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/3hX1rnC4oFEEBEJ5pp0VW9"
       },
@@ -1899,7 +1921,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 407382,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/6C9HiTTS0fNatgaxoDlS9X"
@@ -2223,7 +2245,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 330000,
       "name": "Silkroad - Original Mix",
       "url": "https://open.spotify.com/track/03D6o1eMu48h9bJEYcYhLt"
@@ -2303,7 +2325,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 252087,
       "name": "Spaceland",
       "url": "https://open.spotify.com/track/2BFjJ43x7zFBwZoamrl0kb"
@@ -2329,7 +2351,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 270629,
       "name": "Stuck In My Head",
       "url": "https://open.spotify.com/track/3sHDHHKbdQPADaejmZp1oP"
@@ -2751,7 +2773,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 358285,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2hXlub5ZvPv7lUiQao52I5"
@@ -2831,7 +2853,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 406750,
       "name": "Yuma",
       "url": "https://open.spotify.com/track/45gdJm5UPBR1zQWVuK50eJ"

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Ukraine.",
-  "num_followers": 16890,
+  "num_followers": 16918,
   "original_name": "Top 50 - Ukraine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA2OTY4OTUxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA3MDYwNjM4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
         "name": "Stefania (Kalush Orchestra)",
         "url": "https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D"
@@ -25,7 +25,39 @@
       "url": "https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "\u0433\u043b\u0430\u0437\u0430 \u043d\u0435 \u0432\u0440\u0443\u0442",
+        "url": "https://open.spotify.com/album/3VbUF0GaEliaHi1TPQrbc4"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u043e\u0440\u0435\u0448",
+          "url": "https://open.spotify.com/artist/4JMt9C71qFOVZRzXj209Cp"
+        }
+      ],
+      "duration_ms": 110135,
+      "name": "\u0433\u043b\u0430\u0437\u0430 \u043d\u0435 \u0432\u0440\u0443\u0442",
+      "url": "https://open.spotify.com/track/4ikCWgaaGLKgb724CUNnqZ"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "showdown",
+        "url": "https://open.spotify.com/album/4OMVt53nIZgMMf5uDsAdjz"
+      },
+      "artists": [
+        {
+          "name": "shadowraze",
+          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
+        }
+      ],
+      "duration_ms": 120187,
+      "name": "showdown",
+      "url": "https://open.spotify.com/track/48fzAdCxamFYCHNXXLk6zn"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
       "album": {
         "name": "\u0419\u041e-\u0419\u041e (feat. Skofka)",
         "url": "https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc"
@@ -45,7 +77,7 @@
       "url": "https://open.spotify.com/track/7kKTYTHULdERuHGCkVyLVD"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
         "name": "\u0412\u043e\u0432\u0430, \u0457\u0431\u0430\u0448 \u0457\u0445 \u0431\u043b\u044f\u0442\u044c",
         "url": "https://open.spotify.com/album/6dG164KSddFfZI6VirzCjB"
@@ -61,10 +93,10 @@
       "url": "https://open.spotify.com/track/1K2ORdYBMvi5h4FvQn5hpX"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
-        "name": "showdown",
-        "url": "https://open.spotify.com/album/4OMVt53nIZgMMf5uDsAdjz"
+        "name": "astral step",
+        "url": "https://open.spotify.com/album/2Ctdcl5QkFWiHH1XdnQiA5"
       },
       "artists": [
         {
@@ -72,12 +104,12 @@
           "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
         }
       ],
-      "duration_ms": 120187,
-      "name": "showdown",
-      "url": "https://open.spotify.com/track/48fzAdCxamFYCHNXXLk6zn"
+      "duration_ms": 121159,
+      "name": "astral step",
+      "url": "https://open.spotify.com/track/47iHvzU9Po0e6raFlgLBOF"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
         "name": "\u041a\u0430\u043b\u0443\u0441\u044c\u043a\u0456 \u0432\u0435\u0447\u043e\u0440\u043d\u0438\u0446\u0456 (feat. Tember Blanche)",
         "url": "https://open.spotify.com/album/5jA4rmGtIDLtZcSquSwMoW"
@@ -97,7 +129,7 @@
       "url": "https://open.spotify.com/track/6keRNvHKCOhmySQa1jCX8P"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
         "name": "\u0414\u043e\u043f\u043e\u043c\u043e\u0436\u0435 \u0417\u0421\u0423",
         "url": "https://open.spotify.com/album/5sGIoZ2pMPlUCD57uYu4Jz"
@@ -117,95 +149,27 @@
       "url": "https://open.spotify.com/track/5mGns7qagKDzP4L2YC5ea2"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
-        "name": "2step (feat. Antytila)",
-        "url": "https://open.spotify.com/album/0cNLR4ksEAAesnSOVzV33s"
+        "name": "MIDNIGHT",
+        "url": "https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "PLAYAMANE",
+          "url": "https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS"
         },
         {
-          "name": "Antytila",
-          "url": "https://open.spotify.com/artist/5sc9td6C7xxPa3mOmmvXPu"
+          "name": "Nateki",
+          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
         }
       ],
-      "duration_ms": 153213,
-      "name": "2step (feat. Antytila)",
-      "url": "https://open.spotify.com/track/5it0QwktdpQ7oE33PbImkX"
+      "duration_ms": 121972,
+      "name": "MIDNIGHT",
+      "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "HOTIN",
-        "url": "https://open.spotify.com/album/6onAeeUeEiXf2sReUGAThp"
-      },
-      "artists": [
-        {
-          "name": "KALUSH",
-          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "\u0417\u043e\u0440i",
-      "url": "https://open.spotify.com/track/7mXxcF1nFQvcvANuYwdrv2"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "Give That Wolf A Banana",
-        "url": "https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as"
-      },
-      "artists": [
-        {
-          "name": "Subwoolfer",
-          "url": "https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf"
-        }
-      ],
-      "duration_ms": 171933,
-      "name": "Give That Wolf A Banana",
-      "url": "https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "astral step",
-        "url": "https://open.spotify.com/album/2Ctdcl5QkFWiHH1XdnQiA5"
-      },
-      "artists": [
-        {
-          "name": "shadowraze",
-          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
-        }
-      ],
-      "duration_ms": 121159,
-      "name": "astral step",
-      "url": "https://open.spotify.com/track/47iHvzU9Po0e6raFlgLBOF"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "\u0419\u041e-\u0419\u041e (feat. Skofka)",
-        "url": "https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc"
-      },
-      "artists": [
-        {
-          "name": "KALUSH",
-          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
-        },
-        {
-          "name": "Skofka",
-          "url": "https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "\u0424\u0430\u0439\u043d\u0430 (feat. Skofka)",
-      "url": "https://open.spotify.com/track/3EkGH0yreaWUFAXBil8rmH"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
         "name": "RAVE",
         "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
@@ -221,7 +185,27 @@
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "2step (The Remixes)",
+        "url": "https://open.spotify.com/album/1nqJFaKVTrCkCDaC2I1zM7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Antytila",
+          "url": "https://open.spotify.com/artist/5sc9td6C7xxPa3mOmmvXPu"
+        }
+      ],
+      "duration_ms": 153213,
+      "name": "2step (feat. Antytila)",
+      "url": "https://open.spotify.com/track/5HfA6KNvluQJSbrgrv3gh3"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
       "album": {
         "name": "\u041b\u0451\u0434",
         "url": "https://open.spotify.com/album/3MHgUaAo7Gjdzhn3Obmbit"
@@ -241,171 +225,7 @@
       "url": "https://open.spotify.com/track/7D8k995g6jdie4NF1E7Tpu"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "\u0416\u0438\u0432\u0430 \u0432\u043e\u0434\u0430",
-        "url": "https://open.spotify.com/album/0UEmRsiN0iedteTpO4EMd9"
-      },
-      "artists": [
-        {
-          "name": "Khrystyna Soloviy",
-          "url": "https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa"
-        }
-      ],
-      "duration_ms": 208613,
-      "name": "\u0422\u0440\u0438\u043c\u0430\u0439",
-      "url": "https://open.spotify.com/track/4LKfJMumpW7HyBT05uXYUx"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "De Diepte",
-        "url": "https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o"
-      },
-      "artists": [
-        {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
-        }
-      ],
-      "duration_ms": 176603,
-      "name": "De Diepte",
-      "url": "https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "never enough",
-        "url": "https://open.spotify.com/album/1x7nBWXp9m8qM6b8twdRND"
-      },
-      "artists": [
-        {
-          "name": "zxcursed",
-          "url": "https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs"
-        }
-      ],
-      "duration_ms": 142045,
-      "name": "never enough",
-      "url": "https://open.spotify.com/track/48jRCynldeK3WQbvd3jr73"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0432\u0435\u0447\u043e\u0440\u0430 (Where Are You From)",
-        "url": "https://open.spotify.com/album/0Wb0K888wBuMl5Y58NGcev"
-      },
-      "artists": [
-        {
-          "name": "PROBASS \u2206 HARDI",
-          "url": "https://open.spotify.com/artist/4w8RbPbs4n3ceag62qvMl2"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0432\u0435\u0447\u043e\u0440\u0430 - Where Are You From",
-      "url": "https://open.spotify.com/track/0O3TZYgwaRadNprRONZ7iX"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "\u0448\u043e \u0432\u0438 \u0431\u0440\u0430\u0442\u0442\u044f",
-        "url": "https://open.spotify.com/album/3xZQsGdatxnbYG1WIxUhbH"
-      },
-      "artists": [
-        {
-          "name": "jockii druce",
-          "url": "https://open.spotify.com/artist/4CDqcsxDc670sXyEMhVt94"
-        }
-      ],
-      "duration_ms": 124128,
-      "name": "\u0448\u043e \u0432\u0438 \u0431\u0440\u0430\u0442\u0442\u044f",
-      "url": "https://open.spotify.com/track/0cCXLN9eUn6dmAgDPpZaJV"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
-      },
-      "artists": [
-        {
-          "name": "Mr.Kitty",
-          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
-        }
-      ],
-      "duration_ms": 257147,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "\u0412\u0438\u0448\u043di",
-        "url": "https://open.spotify.com/album/0npmuVcGDzW4y5CS5wnwBV"
-      },
-      "artists": [
-        {
-          "name": "Wellboy",
-          "url": "https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz"
-        }
-      ],
-      "duration_ms": 183218,
-      "name": "\u0412\u0438\u0448\u043di",
-      "url": "https://open.spotify.com/track/1xHs6PLjlvqihewyitoP3A"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "Oy U Luzi Chervona Kalyna (Army Remix)",
-        "url": "https://open.spotify.com/album/3riNyOCELrhv7e6VxRzPWt"
-      },
-      "artists": [
-        {
-          "name": "The Kiffness",
-          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
-        },
-        {
-          "name": "Boombox",
-          "url": "https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Oy U Luzi Chervona Kalyna - Army Remix",
-      "url": "https://open.spotify.com/track/6nl2T8YjOdFFnQ4xBHXfdm"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "Putin",
-        "url": "https://open.spotify.com/album/7ir16GDY9uc0QwcJP3XttS"
-      },
-      "artists": [
-        {
-          "name": "Cypis",
-          "url": "https://open.spotify.com/artist/20akE7sZUTpZSC78lPhqvt"
-        }
-      ],
-      "duration_ms": 145918,
-      "name": "Putin",
-      "url": "https://open.spotify.com/track/3lCZxajTCSYR5OnHPEfa2v"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
         "name": "Yeyo!",
         "url": "https://open.spotify.com/album/4JRqVH5lhTM3maALKAsIzI"
@@ -421,7 +241,187 @@
       "url": "https://open.spotify.com/track/4jvw60Iw8LpSRJwy1sOmoB"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "killua",
+        "url": "https://open.spotify.com/album/7JC9w4zeLz9dmkCjXOEDWs"
+      },
+      "artists": [
+        {
+          "name": "zxcursed",
+          "url": "https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs"
+        }
+      ],
+      "duration_ms": 97377,
+      "name": "killua",
+      "url": "https://open.spotify.com/track/60PINd8oHZjazE0J9cuKcA"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "never enough",
+        "url": "https://open.spotify.com/album/1x7nBWXp9m8qM6b8twdRND"
+      },
+      "artists": [
+        {
+          "name": "zxcursed",
+          "url": "https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs"
+        }
+      ],
+      "duration_ms": 142045,
+      "name": "never enough",
+      "url": "https://open.spotify.com/track/48jRCynldeK3WQbvd3jr73"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "HOTIN",
+        "url": "https://open.spotify.com/album/6onAeeUeEiXf2sReUGAThp"
+      },
+      "artists": [
+        {
+          "name": "KALUSH",
+          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "\u0417\u043e\u0440i",
+      "url": "https://open.spotify.com/track/7mXxcF1nFQvcvANuYwdrv2"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "\u0419\u041e-\u0419\u041e (feat. Skofka)",
+        "url": "https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc"
+      },
+      "artists": [
+        {
+          "name": "KALUSH",
+          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
+        },
+        {
+          "name": "Skofka",
+          "url": "https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "\u0424\u0430\u0439\u043d\u0430 (feat. Skofka)",
+      "url": "https://open.spotify.com/track/3EkGH0yreaWUFAXBil8rmH"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
+      },
+      "artists": [
+        {
+          "name": "Mr.Kitty",
+          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+        }
+      ],
+      "duration_ms": 257147,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
+        "url": "https://open.spotify.com/album/10kcEJ3JaIMGVuKS8fkVHK"
+      },
+      "artists": [
+        {
+          "name": "Violetta Sokolova",
+          "url": "https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms"
+        }
+      ],
+      "duration_ms": 133475,
+      "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
+      "url": "https://open.spotify.com/track/7E8brh6jjHSx44rF62jQKR"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 132346,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "\u0416\u0438\u0432\u0430 \u0432\u043e\u0434\u0430",
+        "url": "https://open.spotify.com/album/0UEmRsiN0iedteTpO4EMd9"
+      },
+      "artists": [
+        {
+          "name": "Khrystyna Soloviy",
+          "url": "https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa"
+        }
+      ],
+      "duration_ms": 208613,
+      "name": "\u0422\u0440\u0438\u043c\u0430\u0439",
+      "url": "https://open.spotify.com/track/4LKfJMumpW7HyBT05uXYUx"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "\u0421\u0435\u043a\u0440\u0435\u0442",
+        "url": "https://open.spotify.com/album/7skyCVgsdqpKU4DIgbW6Mr"
+      },
+      "artists": [
+        {
+          "name": "The Limba",
+          "url": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
+        }
+      ],
+      "duration_ms": 167608,
+      "name": "\u0421\u0435\u043a\u0440\u0435\u0442",
+      "url": "https://open.spotify.com/track/3pr2J4VXb5h8WhCu4ljify"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "\u0412\u0438\u0448\u043di",
+        "url": "https://open.spotify.com/album/0npmuVcGDzW4y5CS5wnwBV"
+      },
+      "artists": [
+        {
+          "name": "Wellboy",
+          "url": "https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz"
+        }
+      ],
+      "duration_ms": 183218,
+      "name": "\u0412\u0438\u0448\u043di",
+      "url": "https://open.spotify.com/track/1xHs6PLjlvqihewyitoP3A"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
       "album": {
         "name": "adaptive strike",
         "url": "https://open.spotify.com/album/1ZZyShGHtlIsCwLwiI3Sk5"
@@ -445,23 +445,55 @@
       "url": "https://open.spotify.com/track/5jXocrsUwpKwWyI5BZLKFA"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
-        "name": "Close Eyes",
-        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
       },
       "artists": [
         {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 132346,
-      "name": "Close Eyes",
-      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0440\u0443\u044e \u0437\u0430\u043a\u0430\u0442",
+        "url": "https://open.spotify.com/album/5OzKIR3zeecYNu7smV3cjg"
+      },
+      "artists": [
+        {
+          "name": "fem.love",
+          "url": "https://open.spotify.com/artist/6PzEFDyksWekGikJc8M6Cr"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0440\u0443\u044e \u0437\u0430\u043a\u0430\u0442",
+      "url": "https://open.spotify.com/track/1ghdJUMhmLEpUitNwyNMWH"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "Give That Wolf A Banana",
+        "url": "https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as"
+      },
+      "artists": [
+        {
+          "name": "Subwoolfer",
+          "url": "https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf"
+        }
+      ],
+      "duration_ms": 171933,
+      "name": "Give That Wolf A Banana",
+      "url": "https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
       "album": {
         "name": "\u0410\u0443",
         "url": "https://open.spotify.com/album/0OlSbbba3RXBfBLVRuaSLr"
@@ -481,107 +513,7 @@
       "url": "https://open.spotify.com/track/6RmlamfS2Supq8wARlY0QQ"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0440\u0443\u044e \u0437\u0430\u043a\u0430\u0442",
-        "url": "https://open.spotify.com/album/5OzKIR3zeecYNu7smV3cjg"
-      },
-      "artists": [
-        {
-          "name": "fem.love",
-          "url": "https://open.spotify.com/artist/6PzEFDyksWekGikJc8M6Cr"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0440\u0443\u044e \u0437\u0430\u043a\u0430\u0442",
-      "url": "https://open.spotify.com/track/1ghdJUMhmLEpUitNwyNMWH"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "#\u041f\u041e\u0428\u0422\u0410",
-        "url": "https://open.spotify.com/album/08nLZLI6PUimVUPq9FQr0g"
-      },
-      "artists": [
-        {
-          "name": "Jerry Heil",
-          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
-        }
-      ],
-      "duration_ms": 168214,
-      "name": "#\u041f\u041e\u0428\u0422\u0410",
-      "url": "https://open.spotify.com/track/1n7AVWNbLx5OUhItzDTj4A"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "\u0425\u0432\u0438\u043bi (feat. Jerry Heil)",
-        "url": "https://open.spotify.com/album/0wiLpMXy37lbSQIlU3oZpN"
-      },
-      "artists": [
-        {
-          "name": "KALUSH",
-          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
-        },
-        {
-          "name": "Jerry Heil",
-          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
-        }
-      ],
-      "duration_ms": 181415,
-      "name": "\u0425\u0432\u0438\u043bi (feat. Jerry Heil)",
-      "url": "https://open.spotify.com/track/0fQ4uYwlzD6TYVobAoz8Qt"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "\u041e\u0434\u0438\u043d \u0432 \u043a\u0430\u043d\u043e\u0435",
-        "url": "https://open.spotify.com/album/1lhisylKmXpuAyPsDoHv5Y"
-      },
-      "artists": [
-        {
-          "name": "Odyn v Kanoe",
-          "url": "https://open.spotify.com/artist/5fMNki1cAszN37EYRTVdOc"
-        }
-      ],
-      "duration_ms": 198428,
-      "name": "\u0423 \u043c\u0435\u043d\u0435 \u043d\u0435\u043c\u0430\u0454 \u0434\u043e\u043c\u0443",
-      "url": "https://open.spotify.com/track/4GC6tlXcAsyp4pNrlyo1pb"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
         "name": "\u043f\u043b\u0430\u0447\u044c",
         "url": "https://open.spotify.com/album/5mmGfb74RHeHg2042MXq5A"
@@ -601,39 +533,39 @@
       "url": "https://open.spotify.com/track/3yCKABoZU3FVFuyVBc5VlM"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
-        "name": "\u0412 \u041a\u043e\u043d\u044f \u0414\u043e\u0432\u0448\u0438\u0439",
-        "url": "https://open.spotify.com/album/2S3GWGLADjaFqUoItLH1tQ"
+        "name": "\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0432\u0435\u0447\u043e\u0440\u0430 (Where Are You From)",
+        "url": "https://open.spotify.com/album/0Wb0K888wBuMl5Y58NGcev"
       },
       "artists": [
         {
-          "name": "\u041c\u0435\u0434\u043e\u0432\u0438\u0439 \u041f\u043e\u043b\u0438\u043d",
-          "url": "https://open.spotify.com/artist/0kZSUKKwUWbIAKZyJEImwQ"
+          "name": "PROBASS \u2206 HARDI",
+          "url": "https://open.spotify.com/artist/4w8RbPbs4n3ceag62qvMl2"
         }
       ],
-      "duration_ms": 173900,
-      "name": "\u0421\u0435\u043f\u0430\u0440\u0430\u0442\u0456\u0441\u0442",
-      "url": "https://open.spotify.com/track/2AbA0a53nHOdeLsYveGrap"
+      "duration_ms": 168648,
+      "name": "\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0432\u0435\u0447\u043e\u0440\u0430 - Where Are You From",
+      "url": "https://open.spotify.com/track/0O3TZYgwaRadNprRONZ7iX"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
-        "name": "juggernaut (Prod. by PLVSTIC)",
-        "url": "https://open.spotify.com/album/0VvyEZ46jEtwX9VWhkQZJC"
+        "name": "MUTANT",
+        "url": "https://open.spotify.com/album/3nFvG3Oi4OdDOTrUwKQbkV"
       },
       "artists": [
         {
-          "name": "shadowraze",
-          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
+          "name": "OBLADAET",
+          "url": "https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw"
         }
       ],
-      "duration_ms": 136798,
-      "name": "juggernaut (Prod. by PLVSTIC)",
-      "url": "https://open.spotify.com/track/57V0VhEg1CAkPXeaCLikNW"
+      "duration_ms": 172272,
+      "name": "MUTANT",
+      "url": "https://open.spotify.com/track/7oRfFPcG7xoBFjjo6tqyiW"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
         "name": "\u041f\u0440\u043e\u043f\u0430\u0433\u0430\u043d\u0434\u0430 \u0434\u0435\u043d\u0435\u0433",
         "url": "https://open.spotify.com/album/73saqAR9QSfyGtdbZCUkMX"
@@ -653,31 +585,87 @@
       "url": "https://open.spotify.com/track/5TK74MJYRmwU5NIAjGRvRq"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
-        "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0430 (feat. \u0421\u0430\u043b\u044c\u0442\u043e \u041d\u0430\u0437\u0430\u0434, Skofka)",
-        "url": "https://open.spotify.com/album/21C44WE8R5bt1pkWJuZbNJ"
+        "name": "#\u041f\u041e\u0428\u0422\u0410",
+        "url": "https://open.spotify.com/album/08nLZLI6PUimVUPq9FQr0g"
       },
       "artists": [
         {
-          "name": "KALUSH",
-          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
-        },
-        {
-          "name": "\u0421\u0430\u043b\u044c\u0442\u043e \u041d\u0430\u0437\u0430\u0434",
-          "url": "https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW"
-        },
-        {
-          "name": "Skofka",
-          "url": "https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0"
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
         }
       ],
-      "duration_ms": 193043,
-      "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0430 (feat. \u0421\u0430\u043b\u044c\u0442\u043e \u041d\u0430\u0437\u0430\u0434, Skofka)",
-      "url": "https://open.spotify.com/track/6elbXjrCvueg010YEQJx8X"
+      "duration_ms": 168214,
+      "name": "#\u041f\u041e\u0428\u0422\u0410",
+      "url": "https://open.spotify.com/track/1n7AVWNbLx5OUhItzDTj4A"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "\u0448\u043e \u0432\u0438 \u0431\u0440\u0430\u0442\u0442\u044f",
+        "url": "https://open.spotify.com/album/3xZQsGdatxnbYG1WIxUhbH"
+      },
+      "artists": [
+        {
+          "name": "jockii druce",
+          "url": "https://open.spotify.com/artist/4CDqcsxDc670sXyEMhVt94"
+        }
+      ],
+      "duration_ms": 124128,
+      "name": "\u0448\u043e \u0432\u0438 \u0431\u0440\u0430\u0442\u0442\u044f",
+      "url": "https://open.spotify.com/track/0cCXLN9eUn6dmAgDPpZaJV"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "Aomine Daiki",
+        "url": "https://open.spotify.com/album/47JA7w64AWwtd38x8hvCJz"
+      },
+      "artists": [
+        {
+          "name": "quiizzzmeow",
+          "url": "https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Aomine Daiki",
+      "url": "https://open.spotify.com/track/5X1FYw7MXEgnPmQAYwAa0q"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
       "album": {
         "name": "\u0417\u0435\u043b\u0451\u043d\u044b\u0439 \u0433\u043b\u0430\u0437",
         "url": "https://open.spotify.com/album/4wbNkwxPTMDNBD9DmcBZLS"
@@ -693,39 +681,39 @@
       "url": "https://open.spotify.com/track/4ZOjdqmXLuwHDQUn9WWoFR"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
-        "name": "Cassette",
-        "url": "https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF"
+        "name": "juggernaut (Prod. by PLVSTIC)",
+        "url": "https://open.spotify.com/album/0VvyEZ46jEtwX9VWhkQZJC"
       },
       "artists": [
         {
-          "name": "SadSvit",
-          "url": "https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G"
+          "name": "shadowraze",
+          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
         }
       ],
-      "duration_ms": 144235,
-      "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
-      "url": "https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd"
+      "duration_ms": 136798,
+      "name": "juggernaut (Prod. by PLVSTIC)",
+      "url": "https://open.spotify.com/track/57V0VhEg1CAkPXeaCLikNW"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
-        "name": "\u0421\u043c\u0438\u0440\u0438\u0441\u044c \u0438 \u0440\u0430\u0441\u0441\u043b\u0430\u0431\u044c\u0441\u044f",
-        "url": "https://open.spotify.com/album/6MtWkVH4nIqwo5fiM4J6xF"
+        "name": "shadowfiend",
+        "url": "https://open.spotify.com/album/7q6ObnVvpAv2oSe7905OGJ"
       },
       "artists": [
         {
-          "name": "Valentin Strykalo",
-          "url": "https://open.spotify.com/artist/2zYmwYLeJvcr8vRQe5pQRa"
+          "name": "shadowraze",
+          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
         }
       ],
-      "duration_ms": 278586,
-      "name": "\u0422\u0430\u043a \u0433\u0440\u0456\u0454",
-      "url": "https://open.spotify.com/track/1qC93FzhcsGUFG2ZvcQzrT"
+      "duration_ms": 143708,
+      "name": "shadowfiend",
+      "url": "https://open.spotify.com/track/0xEET0hVtwAEI5iVMWmD5C"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
         "name": "#\u041c\u041e\u0421\u041a\u0410\u041b\u042c_\u041d\u0415\u041a\u0420\u0410\u0421\u0406\u0412\u0418\u0419",
         "url": "https://open.spotify.com/album/5HuWOKv1OjsRmhIU4L5A70"
@@ -745,135 +733,23 @@
       "url": "https://open.spotify.com/track/3sYyBDC4zPM3UZsgUfPhbb"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
-        "name": "Aomine Daiki",
-        "url": "https://open.spotify.com/album/47JA7w64AWwtd38x8hvCJz"
+        "name": "\u0421\u043c\u0438\u0440\u0438\u0441\u044c \u0438 \u0440\u0430\u0441\u0441\u043b\u0430\u0431\u044c\u0441\u044f",
+        "url": "https://open.spotify.com/album/6MtWkVH4nIqwo5fiM4J6xF"
       },
       "artists": [
         {
-          "name": "quiizzzmeow",
-          "url": "https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW"
+          "name": "Valentin Strykalo",
+          "url": "https://open.spotify.com/artist/2zYmwYLeJvcr8vRQe5pQRa"
         }
       ],
-      "duration_ms": 167272,
-      "name": "Aomine Daiki",
-      "url": "https://open.spotify.com/track/5X1FYw7MXEgnPmQAYwAa0q"
+      "duration_ms": 278586,
+      "name": "\u0422\u0430\u043a \u0433\u0440\u0456\u0454",
+      "url": "https://open.spotify.com/track/1qC93FzhcsGUFG2ZvcQzrT"
     },
     {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "Trenule\u021bul",
-        "url": "https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv"
-      },
-      "artists": [
-        {
-          "name": "Zdob si Zdub",
-          "url": "https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu"
-        },
-        {
-          "name": "Fratii Advahov",
-          "url": "https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC"
-        }
-      ],
-      "duration_ms": 180030,
-      "name": "Trenule\u021bul (cu Fra\u021bii Advahov)",
-      "url": "https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "\u041c\u0456\u0441\u0442\u043e \u0432\u0435\u0441\u043d\u0438",
-        "url": "https://open.spotify.com/album/3EigzySc2HTYL9lIso7Wha"
-      },
-      "artists": [
-        {
-          "name": "Okean Elzy",
-          "url": "https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS"
-        },
-        {
-          "name": "Odyn v Kanoe",
-          "url": "https://open.spotify.com/artist/5fMNki1cAszN37EYRTVdOc"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "\u041c\u0456\u0441\u0442\u043e \u0432\u0435\u0441\u043d\u0438",
-      "url": "https://open.spotify.com/track/56wSomSllGESHGhcfHrvEw"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "\u0419\u041e-\u0419\u041e (feat. Skofka)",
-        "url": "https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc"
-      },
-      "artists": [
-        {
-          "name": "KALUSH",
-          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
-        },
-        {
-          "name": "Skofka",
-          "url": "https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0"
-        }
-      ],
-      "duration_ms": 191067,
-      "name": "\u0414\u0430\u0432\u0430\u0439 \u043d\u0430\u0447\u0438\u0441\u0442\u043e\u0442\u0443 (feat. Skofka)",
-      "url": "https://open.spotify.com/track/3ICTmbm0RyjP8qQjUYHxB1"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "shadowfiend",
-        "url": "https://open.spotify.com/album/7q6ObnVvpAv2oSe7905OGJ"
-      },
-      "artists": [
-        {
-          "name": "shadowraze",
-          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
-        }
-      ],
-      "duration_ms": 143708,
-      "name": "shadowfiend",
-      "url": "https://open.spotify.com/track/0xEET0hVtwAEI5iVMWmD5C"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "\u0422\u0430\u043a\u0441\u0456",
-        "url": "https://open.spotify.com/album/7qBYjP8E1CQpj2BRsymbv4"
-      },
-      "artists": [
-        {
-          "name": "KALUSH",
-          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
-        },
-        {
-          "name": "Khrystyna Soloviy",
-          "url": "https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "\u0422\u0430\u043a\u0441\u0456",
-      "url": "https://open.spotify.com/track/4qYAgZDdKIGf137Nbdw6gR"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
-      "album": {
-        "name": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442",
-        "url": "https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9"
-      },
-      "artists": [
-        {
-          "name": "\u041a\u0410\u041a\u0410\u042f \u0420\u0410\u0417\u041d\u0418\u0426\u0410",
-          "url": "https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442",
-      "url": "https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu"
-    },
-    {
-      "added_at": "2022-05-16 11:33:28",
+      "added_at": "2022-05-28 13:43:58",
       "album": {
         "name": "\u0422\u041e\u041b\u041f\u042b \u041a\u0420\u0418\u0427\u0410\u0422",
         "url": "https://open.spotify.com/album/3RcaQ8cYOVRS1PkjUZYtSI"
@@ -895,6 +771,110 @@
       "duration_ms": 125538,
       "name": "\u0422\u041e\u041b\u041f\u042b \u041a\u0420\u0418\u0427\u0410\u0422",
       "url": "https://open.spotify.com/track/3mcw4dkjfzj5B4Ago9NSmN"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442",
+        "url": "https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u0410\u041a\u0410\u042f \u0420\u0410\u0417\u041d\u0418\u0426\u0410",
+          "url": "https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442",
+      "url": "https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "Immigrant",
+        "url": "https://open.spotify.com/album/1XWnfJfC78XdXsZQK043YN"
+      },
+      "artists": [
+        {
+          "name": "Xcho",
+          "url": "https://open.spotify.com/artist/774od4b04zDMQMGxrJDeuB"
+        }
+      ],
+      "duration_ms": 148148,
+      "name": "\u0422\u044b \u0438 \u042f",
+      "url": "https://open.spotify.com/track/75C98tVaHUtjYZTIcy9U7U"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "\u0412\u043e\u043d\u0430",
+        "url": "https://open.spotify.com/album/2tAxeyM5Le89eDWQz8TmcB"
+      },
+      "artists": [
+        {
+          "name": "Taras Chubay",
+          "url": "https://open.spotify.com/artist/1HjzjHX7WBOg4InnOHCP7z"
+        },
+        {
+          "name": "\u041f\u043b\u0430\u0447 \u0404\u0440\u0435\u043c\u0456\u0457",
+          "url": "https://open.spotify.com/artist/7ifsjGOD2trth519JuzcuW"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "\u0412\u043e\u043d\u0430",
+      "url": "https://open.spotify.com/track/1qDqswcqJ7QxtbVlDv5P6W"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "Putin",
+        "url": "https://open.spotify.com/album/7ir16GDY9uc0QwcJP3XttS"
+      },
+      "artists": [
+        {
+          "name": "Cypis",
+          "url": "https://open.spotify.com/artist/20akE7sZUTpZSC78lPhqvt"
+        }
+      ],
+      "duration_ms": 145918,
+      "name": "Putin",
+      "url": "https://open.spotify.com/track/3lCZxajTCSYR5OnHPEfa2v"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "Cassette",
+        "url": "https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF"
+      },
+      "artists": [
+        {
+          "name": "SadSvit",
+          "url": "https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G"
+        }
+      ],
+      "duration_ms": 144235,
+      "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
+      "url": "https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd"
+    },
+    {
+      "added_at": "2022-05-28 13:43:58",
+      "album": {
+        "name": "Oy U Luzi Chervona Kalyna (Army Remix)",
+        "url": "https://open.spotify.com/album/3riNyOCELrhv7e6VxRzPWt"
+      },
+      "artists": [
+        {
+          "name": "The Kiffness",
+          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
+        },
+        {
+          "name": "Boombox",
+          "url": "https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Oy U Luzi Chervona Kalyna - Army Remix",
+      "url": "https://open.spotify.com/track/6nl2T8YjOdFFnQ4xBHXfdm"
     }
   ],
   "unique_name": "Top 50 - Ukraine",

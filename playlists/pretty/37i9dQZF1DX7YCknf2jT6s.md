@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Jean Carn
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,556 likes - 84 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,791 likes - 84 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

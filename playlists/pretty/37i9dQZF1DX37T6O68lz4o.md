@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover, Bia
 
-[Spotify](https://open.spotify.com/user/spotify) - 893 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 895 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 7 | [CULT](https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [AzizTheShake](https://open.spotify.com/artist/7wSfJLfPWSahg3J5SeVr4z), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Invada](https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G) | [BLACK WALL STREET](https://open.spotify.com/album/0hNK1V7xzigl41liZTk4XU) | 4:40 |
 | 8 | [ALL FOR NOTHING](https://open.spotify.com/track/2L9SA0p0eO7eBOwhtYHhMh) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW) | [ALL FOR NOTHING](https://open.spotify.com/album/5rFRG1dYVsZSJv2SRITNZS) | 3:50 |
 | 9 | [NIGGAS IN DIORCHESTER](https://open.spotify.com/track/0LRDuhmYlMW44HOeZIvwj7) | [BoriRock](https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL), [Caev](https://open.spotify.com/artist/0mkMBdJb4grjol3blckHxe) | [Watch The Chrome](https://open.spotify.com/album/6vCrkxYzWU9cJMB0DW4ukz) | 2:20 |
-| 10 | [Balloons](https://open.spotify.com/track/47b2XVQ10Jor3O72vv8Sd8) | [Theo Martins](https://open.spotify.com/artist/0tjTmItQq8Eo1hsVvOf83D) | [Home Runs \(feat\. Austin White & KAS & Maryann Vasquez & Matt Martians & sur chevvie\)](https://open.spotify.com/album/7BtWzviA4kgRwdOI9I1Vzk) | 4:53 |
+| 10 | [Balloons](https://open.spotify.com/track/47b2XVQ10Jor3O72vv8Sd8) | [Theo Martins](https://open.spotify.com/artist/0tjTmItQq8Eo1hsVvOf83D) | [Home Runs](https://open.spotify.com/album/7BtWzviA4kgRwdOI9I1Vzk) | 4:53 |
 | 11 | [Moonrise](https://open.spotify.com/track/5hXwvADopPZvv3HbDHNdKQ) | [Nino Francis](https://open.spotify.com/artist/3V6C0b6qW61rD8dNhBgKdr) | [Idle](https://open.spotify.com/album/3xfFLKv0oVNio7JbDjMKAt) | 1:35 |
 | 12 | [Fembrook Dr.](https://open.spotify.com/track/3BFysywxDgfI95sEhvl2ws) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [Fembrook Dr.](https://open.spotify.com/album/0Cn4BA8PFmjh3okXSFf7go) | 2:56 |
 | 13 | [Sim Simma](https://open.spotify.com/track/0LCpAqkpl7drtth6HWVnrx) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Sim Simma](https://open.spotify.com/album/4y1JexJuRC9hzT2SHCYscg) | 2:25 |

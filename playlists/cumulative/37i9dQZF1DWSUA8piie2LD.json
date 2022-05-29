@@ -358,6 +358,24 @@
     },
     {
       "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/08ulniYTAR9vRFsPlSGeqz"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297680,
+      "name": "Deep Time",
+      "url": "https://open.spotify.com/track/0sKDIso6qLwCOvRUNbEXnn"
+    },
+    {
+      "album": {
         "name": "Livin' Large",
         "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
       },
@@ -903,7 +921,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 272773,
       "name": "Let's Get Close",
       "url": "https://open.spotify.com/track/2obxF2oBpRKwlzx8FQOpaP"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 248626,
       "name": "Low And Slow",
       "url": "https://open.spotify.com/track/7pRfQ35Qo8a9mZ8TfbTjVA"
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 274013,
       "name": "Send One Your Love",
       "url": "https://open.spotify.com/track/1RMGbJnIQY6QhlqxKH8Fxf"

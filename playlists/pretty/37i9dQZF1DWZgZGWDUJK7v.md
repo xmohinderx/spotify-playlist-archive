@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular animation & webtoon OSTs now! \(Cover: Love Revolution\(연애혁명\)\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,951 likes - 58 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,199 likes - 58 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Don't Want To Say Goodbye](https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj) | [Shin Ye\-Young](https://open.spotify.com/artist/1edt5QwC6e1YtAkYuMCOci) | [Love Revolution \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN) | 5:06 |
+| 1 | [I Don't Want To Say Goodbye](https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Love Revolution \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN) | 5:06 |
 | 2 | [Drip Drip Drip](https://open.spotify.com/track/1rfYUwAohM9nZJbscZFCWl) | [YEO\-EUN](https://open.spotify.com/artist/16fjppxQxQKpRH2Z1FUxww) | [The Crush Of Spring OST Part.1](https://open.spotify.com/album/1ayPFczFbalnsDqBh92GoP) | 3:42 |
 | 3 | [Hold me …](https://open.spotify.com/track/6mglxgJ3ZV9WDFOVTgTFvi) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [The Crush Of Spring OST Part.3](https://open.spotify.com/album/6cxI2NnSA8YBlHJip1mdji) | 3:44 |
 | 4 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1LHYoqa8tahdIWTUvxb17Y) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 |

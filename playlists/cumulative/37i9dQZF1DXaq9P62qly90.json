@@ -157,7 +157,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 333818,
       "name": "Call on the Wolves",
       "url": "https://open.spotify.com/track/1h1rjRbZwiVc1y2jNqYphX"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 235654,
       "name": "Chill Out",
       "url": "https://open.spotify.com/track/2l2rbGwL6R7MP3tcJzBTOX"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 261013,
       "name": "Directions",
       "url": "https://open.spotify.com/track/60VDrzU6bCr3QJ1T6ctymr"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 283221,
       "name": "Family Tree (Live at Sugarshack Sessions)",
       "url": "https://open.spotify.com/track/2HuVKmAhWpB4bBfzlzJX7X"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 300499,
       "name": "Into The Sun - EP Version",
       "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 322028,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/5cjvwsuXLWoKIxy13wCOsm"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 211343,
       "name": "Seem to Freeze",
       "url": "https://open.spotify.com/track/2Ee6LsCt7ovWvwu61K6voM"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 197983,
       "name": "She Go",
       "url": "https://open.spotify.com/track/5dKY8snzCZK7k4rqfmGfoc"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 239633,
       "name": "Summertime (feat. Citizen Cope)",
       "url": "https://open.spotify.com/track/3gR5vEwHrvEntTYnzxZXEd"
@@ -1000,6 +1000,24 @@
     },
     {
       "album": {
+        "name": "These Are My Roots",
+        "url": "https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC"
+      },
+      "artists": [
+        {
+          "name": "Mike Love",
+          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234061,
+      "name": "These Are My Roots",
+      "url": "https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO"
+    },
+    {
+      "album": {
         "name": "HOKA",
         "url": "https://open.spotify.com/album/3wH1yuFBld6RUYPyJnB60N"
       },
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 260171,
       "name": "Uneven Days",
       "url": "https://open.spotify.com/track/5NQhbua3fjGBeIUDDq1ozD"
@@ -1083,7 +1101,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 218997,
       "name": "What Would You Build",
       "url": "https://open.spotify.com/track/5R0DjWNBC7CIpxAMwkWdDr"

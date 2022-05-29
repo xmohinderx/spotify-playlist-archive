@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jCqmsDQR1i.md) - [plain]
 
 > Metal tracks all the way from the birth of Metal to today\. Cover: Pantera
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,597 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,844 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

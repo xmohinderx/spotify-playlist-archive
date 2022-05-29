@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Mama's Broke
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,017 likes - 119 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,063 likes - 119 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Hillary Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,348 likes - 111 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,395 likes - 111 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

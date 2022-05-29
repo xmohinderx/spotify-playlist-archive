@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,523,113 likes - 398 songs - 17 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,523,780 likes - 398 songs - 17 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 63 | [Recalibrate](https://open.spotify.com/track/6kGrBd9wrk0ducE1R9F4uZ) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Recalibrate](https://open.spotify.com/album/7qzUTkbqjad7ZBSvanPNom) | 3:02 |
 | 64 | [beautifully broken](https://open.spotify.com/track/5WzXY5LkQ1MNfCJeCv05Ds) | [BARTH.](https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl) | [beautifully broken](https://open.spotify.com/album/06Xp76So7fvDjHumcmdysx) | 3:56 |
 | 65 | [Golden Hour](https://open.spotify.com/track/7cY9kWU1cPLJ1wxxvKEZMh) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Springtime Improvisations](https://open.spotify.com/album/5ezMUY3NhgxPsufHezSG7D) | 1:34 |
-| 66 | [Hex](https://open.spotify.com/track/6yupcJhCWpLXHjm6zQHgaF) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Hex](https://open.spotify.com/album/1OGKkuTJ3so79FZWBnegyi) | 2:32 |
+| 66 | [Hex](https://open.spotify.com/track/6yupcJhCWpLXHjm6zQHgaF) | [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Hex](https://open.spotify.com/album/1OGKkuTJ3so79FZWBnegyi) | 2:32 |
 | 67 | [Mimetismo](https://open.spotify.com/track/1iGMUpV6h0zA6pUSXfQJVr) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Mimetismo](https://open.spotify.com/album/1I1H1XcRBbl0KfUeVFSSA3) | 2:22 |
 | 68 | [Not a Number](https://open.spotify.com/track/4nncPBsmSPNNeZ2nbd0QR7) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Not a Number](https://open.spotify.com/album/3d0tZ74PLQQyArqWi96Pqw) | 2:33 |
 | 69 | [In The End](https://open.spotify.com/track/0yw26yMIBOt968JnWdDpMv) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Youth](https://open.spotify.com/album/1IkPGuEi81NE11tHafOjTs) | 2:46 |

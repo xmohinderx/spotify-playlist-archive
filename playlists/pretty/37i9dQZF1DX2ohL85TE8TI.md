@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Our Blues \(우리들의 블루스\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,439,781 likes - 101 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,440,027 likes - 101 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 60 | [What the Ggang?](https://open.spotify.com/track/0YedxsBCjTOvmcWnNo2lmT) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Again my life, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/09NmQllkYN634Ft01Vde3i) | 3:00 |
 | 61 | [Girls](https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Seoul Check\-in OST Part 1](https://open.spotify.com/album/1lQLjWafvbyoQ9XUmAZI2L) | 4:36 |
 | 62 | [Dun Dun Dun](https://open.spotify.com/track/0YsHHjzUMxe6m7k0iNr8al) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [Kill Heel, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/01yKFxJyLAHjBreWHYgKAc) | 3:15 |
-| 63 | [Pick up your phone](https://open.spotify.com/track/4JDgsbLSsxlNa7pESK5Vqt) | [Mirani](https://open.spotify.com/artist/2hf1ya5k9R4siHueVr7jNi) | [비밀:리에 Vol\. 5 "Pick up your phone"](https://open.spotify.com/album/3mKRbS65znpQtwRkFlSiLN) | 2:52 |
+| 63 | [Pick up your phone](https://open.spotify.com/track/4JDgsbLSsxlNa7pESK5Vqt) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [비밀:리에 Vol\. 5 "Pick up your phone"](https://open.spotify.com/album/3mKRbS65znpQtwRkFlSiLN) | 2:52 |
 | 64 | [Anymore](https://open.spotify.com/track/3vKX4347uUOuEECpHJwITb) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Anymore \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/2A6nEYKyCf7nF5uGlR24Ds) | 2:47 |
 | 65 | [잔인한 사랑](https://open.spotify.com/track/6pybqtvOpkjQHJQVoOf1YU) | [숙행](https://open.spotify.com/artist/59SKdrYJjVQTByhsEfclO6), [Hyejine](https://open.spotify.com/artist/3eMsaoNwuVFiMQ3tQEN9aw), [C.Cle](https://open.spotify.com/artist/1l6dFBkDCzPwpDCskiXr0y) | [바람의 유혹 \(Original Television Sound Track\) Pt\. 1](https://open.spotify.com/album/7G3MEM86AQdfnaHni7JyJO) | 4:06 |
 | 66 | [Maybe](https://open.spotify.com/track/3Jk7aEL31GI8kGmLTZooXf) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [Crazy Love \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/1afMSqMmB1hAdee6sNzKOi) | 3:07 |

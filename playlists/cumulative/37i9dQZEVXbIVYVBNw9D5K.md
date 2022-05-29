@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-436 songs - 22 hr 34 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+438 songs - 22 hr 39 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Forsa](https://open.spotify.com/track/0hItWVe3JLff1yDdfJaIRq) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Forsa](https://open.spotify.com/album/1fAHRAftczSdXs0u62jEWY) | 3:50 | 2021-12-12 | 2021-12-14 |
 | [Gamzedeyim Deva Bulmam](https://open.spotify.com/track/6glvSyTo1y4WLtX0mnDq83) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Çağrı Çelik](https://open.spotify.com/artist/7wqnPyXma7EKSYt4CVzNjq) | [Gamzedeyim Deva Bulmam](https://open.spotify.com/album/3Tltrhd0u9g6cFjJiB0k8E) | 5:16 | 2021-11-16 | 2022-04-03 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-10 |
+| [Gayrimeşru](https://open.spotify.com/track/0CqQx2dcNFmtYM4oTSECSt) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Gayrimeşru](https://open.spotify.com/album/4HAjpThNI0MV2jQwcT56nX) | 1:58 | 2022-05-28 |  |
 | [Gece Gündüz](https://open.spotify.com/track/032ncNwownsax2RsiC5iCN) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Gece Gündüz](https://open.spotify.com/album/1QGVemNszLYbrqYqsdcqRH) | 3:02 | 2021-04-04 | 2021-08-01 |
 | [Gece Gündüz](https://open.spotify.com/track/4jq1WK3fiUU2SOhZ0iaMP1) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Gece Gündüz](https://open.spotify.com/album/1SjloVgg3bj1Khi6l8U1ls) | 3:02 | 2021-03-27\* | 2021-04-04 |
 | [GECELERİN DERDİ](https://open.spotify.com/track/4Y19WBq90SiLFQc6wK3LDJ) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [BEGEFENDİ](https://open.spotify.com/album/4uzkcFaD6X2zpojuI0Y1IT) | 2:37 | 2022-01-26 | 2022-02-27 |
@@ -187,7 +188,7 @@
 | [GÖNDER GELSİN](https://open.spotify.com/track/6zUeLNZHEzENd8ts4V9yj2) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:06 | 2022-03-20 |  |
 | [Göremediğin](https://open.spotify.com/track/2ZDj6yB2AnATAciTurevZd) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Berk Erdemanar](https://open.spotify.com/artist/6JDTOIram8oMZVaF3GZPyw), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Paradoks](https://open.spotify.com/album/4H5WUnotu7FGuDVhQhophq) | 3:37 | 2022-05-14 | 2022-05-21 |
 | [GÖRÜN NE HALİNİZ VARSA](https://open.spotify.com/track/0GpwiBOL0bNvkouVvUoBZf) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:05 | 2022-03-20 | 2022-03-26 |
-| [Gözler](https://open.spotify.com/track/3Hvn1ASL6A9m921Y99Hdm4) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Gözler](https://open.spotify.com/album/3cXZMVNUyIrwOPIJZ94Ic1) | 2:24 | 2022-04-12 |  |
+| [Gözler](https://open.spotify.com/track/3Hvn1ASL6A9m921Y99Hdm4) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Gözler](https://open.spotify.com/album/3cXZMVNUyIrwOPIJZ94Ic1) | 2:24 | 2022-04-12 | 2022-05-29 |
 | [Gözler Yalan Söylemez](https://open.spotify.com/track/6Y7B1Jyw9RJJtCTbGnw6zJ) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Gözler Yalan Söylemez](https://open.spotify.com/album/2WnAt4LEDWFMRn0bW3PR0s) | 2:13 | 2022-02-26 | 2022-04-22 |
 | [Gözlerim Seni Arıyor](https://open.spotify.com/track/0n6er4tGjAjLu6bEQFsdr6) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae) | [Gözlerim Seni Arıyor](https://open.spotify.com/album/3dHqKY3WcAYOWOlmM4keRp) | 2:34 | 2021-08-22 | 2021-08-29 |
 | [GÜNAYDIN](https://open.spotify.com/track/5Y7x0VU1VOwPWr6MsHbcxS) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PİŞMAN](https://open.spotify.com/album/2Lljdvhyiw9Bh6Vhvap8Fm) | 2:29 | 2021-09-12 | 2021-09-24 |
@@ -206,6 +207,7 @@
 | [Her Gece](https://open.spotify.com/track/6D9C3pOcz76P84cMuAY1Ry) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn) | [Her Gece](https://open.spotify.com/album/20vhqRqL2VYwDOZ75rMGkE) | 4:20 | 2021-11-03 | 2021-11-06 |
 | [Her Şeyi Yak](https://open.spotify.com/track/4uqlFpMPTKO6uAsX6qvK0l) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Belki Alışman Lazım](https://open.spotify.com/album/5TQ4ZTyFM7FTDpnfSjE54l) | 4:30 | 2021-07-17 | 2021-11-10 |
 | [Herkes Gibisin](https://open.spotify.com/track/7jnN5sT8rk6PIvBZRWYdJj) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Herkes Gibisin](https://open.spotify.com/album/0xR4GPMWizCtxkTjouDqra) | 3:05 | 2022-05-15 |  |
+| [HIRSIZ](https://open.spotify.com/track/316CjbmqFYbhljXXI3PEPa) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [HIRSIZ](https://open.spotify.com/album/4Q2QAaVtT3y6xJ1CnXjX1H) | 3:05 | 2022-05-28 |  |
 | [Hiç İyi Değilim](https://open.spotify.com/track/2w5SV2BYwU4FVKBkFYlCU2) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Hiç İyi Değilim](https://open.spotify.com/album/44zFal7caQMugsHyXdUude) | 3:32 | 2022-03-12 | 2022-05-22 |
 | [Hiç Kimsenin Günahı Yok](https://open.spotify.com/track/3YBIUbbamN9fz65tXN9V1C) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Hiç Kimsenin Günahı Yok](https://open.spotify.com/album/5oK4v69ORQO2XJGgW8YKcG) | 3:07 | 2021-11-26 | 2021-11-28 |
 | [HONG KONG](https://open.spotify.com/track/4FiDkc2woxfDbfCoSqx6pq) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [HONG KONG](https://open.spotify.com/album/4q85FW8aOiLavEy0BEUeHq) | 1:51 | 2021-12-24 | 2022-03-01 |
@@ -393,7 +395,7 @@
 | [Tiki Taka Flow](https://open.spotify.com/track/3WY8ZHo8BfZqOaLmCYyBJo) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Tiki Taka Flow](https://open.spotify.com/album/3DlqxCDQFdrHspa5Fo4R5I) | 2:50 | 2021-10-03 | 2021-10-11 |
 | [Toprak Yağmura \(Akustik\)](https://open.spotify.com/track/4sCt5tJL9SMAODyiEiVBDd) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Dolunay](https://open.spotify.com/album/2hWWX2M4ZD4PVyaPTmkfaV) | 3:56 | 2021-11-16 | 2021-12-04 |
 | [toz duman](https://open.spotify.com/track/5rS3b5yHagEQGI7HqDusZ5) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [toz duman](https://open.spotify.com/album/1QkfSEPKAm4fbr8WZyHhZv) | 2:47 | 2021-05-30 | 2021-10-31 |
-| [Trankobuskas \- Remix](https://open.spotify.com/track/3Zy6uq4X0w6O8UMwJbzv9o) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Trankobuskas \(Remix\)](https://open.spotify.com/album/4Hss7kjHJp7L2EyovjOnEj) | 2:02 | 2022-02-12 |  |
+| [Trankobuskas \- Remix](https://open.spotify.com/track/3Zy6uq4X0w6O8UMwJbzv9o) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Trankobuskas \(Remix\)](https://open.spotify.com/album/4Hss7kjHJp7L2EyovjOnEj) | 2:02 | 2022-02-12 | 2022-05-29 |
 | [Tutsak](https://open.spotify.com/track/33eHMRTXayncWkfj72BI3U) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Tutsak](https://open.spotify.com/album/5HpUVb0Hodj7W7RJqF9LIK) | 3:02 | 2022-04-30 |  |
 | [Umrumda Değil](https://open.spotify.com/track/72t3CRd8YEFrlc3x0OVaob) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:05 | 2021-03-27\* |  |
 | [Unutulacak Dünler](https://open.spotify.com/track/3aXTeIVnDvo2MT1xLTdGK3) | [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2) | [HİZA](https://open.spotify.com/album/730v11m4FWgDUnl9Gte19s) | 4:55 | 2021-03-27\* | 2021-05-03 |

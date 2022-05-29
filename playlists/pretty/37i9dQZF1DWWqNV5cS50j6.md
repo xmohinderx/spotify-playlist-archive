@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not not not pop\. Cover: Johan Lenox
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,826 likes - 157 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,097 likes - 157 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

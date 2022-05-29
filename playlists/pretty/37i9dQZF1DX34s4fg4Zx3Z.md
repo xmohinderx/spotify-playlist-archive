@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: BassBounces Jenn; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,745 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,767 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 12 | [VI ROI](https://open.spotify.com/track/0ivEKoexXMg7JfM5WjHiVr) | [Cobra](https://open.spotify.com/artist/6tk9DGbdcXCXPxxWEb31vd), [Hải Yến](https://open.spotify.com/artist/09L9kJidtIVW7ME09oK4tA) | [VI ROI](https://open.spotify.com/album/4lNUG5eAOAmsGNbNCXQuSt) | 3:36 |
 | 13 | [Lying to myself](https://open.spotify.com/track/4kyC7RSjMFeePlXQ5yZdiV) | [Dab](https://open.spotify.com/artist/7dFC6SVFS2YkIcRfE2SyfV), [sy](https://open.spotify.com/artist/7eiLshFe5Gg4tik2JmwGNU) | [Lying to myself](https://open.spotify.com/album/7gU4sYYG8bsvCCusUZGt5N) | 2:56 |
 | 14 | [Trong Đó Có Chúng Ta](https://open.spotify.com/track/1fAnSaNVThueS3Ur6icOXM) | [BAE Khánh Huyền](https://open.spotify.com/artist/5Zn9xxkS6TJ92WrF8yHG1Q), [BAE quynhanh](https://open.spotify.com/artist/0SqMQf7FwNMLAODCLYbMK2) | [Trong Đó Có Chúng Ta](https://open.spotify.com/album/1KS5QZYvBNpIAu5Ffv1mWl) | 3:30 |
-| 15 | [Em Thích](https://open.spotify.com/track/2MHGIiWus5xHykiZGuDtNe) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Em Thích](https://open.spotify.com/album/1cC4Mq5DZf014oC8g2FmCx) | 2:56 |
+| 15 | [Em Thích](https://open.spotify.com/track/2MHGIiWus5xHykiZGuDtNe) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C), [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Em Thích](https://open.spotify.com/album/1cC4Mq5DZf014oC8g2FmCx) | 2:56 |
 | 16 | [Ta Đâu Làm Được Gì](https://open.spotify.com/track/2jLGVYTBjA8vv7idZTtDMy) | [Lil Ce](https://open.spotify.com/artist/0iwaeyoF7NzZmTlcB1BdU6), [Chanee](https://open.spotify.com/artist/30bXZMmnKhXfmk2zPwaPIH) | [Ta Đâu Làm Được Gì](https://open.spotify.com/album/3Vlylhq0Hm8fo0pnrI0rz3) | 3:30 |
 | 17 | [Lướt](https://open.spotify.com/track/1lRej5GYb8SahBRQBCyizC) | [Droppy](https://open.spotify.com/artist/4EqEodSfNgQPwoHxbdZlpT), [RICK](https://open.spotify.com/artist/6Yn4MreaTnwOoahPtGExW4), [Hổ](https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ) | [Lướt](https://open.spotify.com/album/32b7MIgzmbRzaOwx1jg4TO) | 2:40 |
 | 18 | [Anh Sẽ Đón Em \- Cukak Remix](https://open.spotify.com/track/6TAwLpBmMXQbLs8vgZ43xS) | [Nguyên](https://open.spotify.com/artist/0axAywC6N1oXIqe4HQL2Gw), [TRANG](https://open.spotify.com/artist/2qfqUJvy3vika8WG6kOJ71) | [Anh Sẽ Đón Em \(Cukak Remix\)](https://open.spotify.com/album/5qQ39q9my2FoeiqUYnh0Tz) | 3:52 |

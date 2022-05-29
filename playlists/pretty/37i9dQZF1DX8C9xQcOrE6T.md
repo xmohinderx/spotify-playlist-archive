@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All of your favorite Disney hits, including songs from Encanto\. Stream Disney's Encanto on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,329,728 likes - 110 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,332,505 likes - 110 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

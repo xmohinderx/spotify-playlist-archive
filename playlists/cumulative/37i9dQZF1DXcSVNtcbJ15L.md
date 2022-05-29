@@ -4,7 +4,7 @@
 
 > vem de dm 🔥  ❤️
 
-64 songs - 3 hr 1 min - not published yet
+64 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/2zTXiM7ZBUIxrhmTpaMV88)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

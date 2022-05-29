@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "Altar, Op. 1: No. 3",
+        "url": "https://open.spotify.com/album/0YxVfsTfg2RQinok5yzPFM"
+      },
+      "artists": [
+        {
+          "name": "B\u00f6jo",
+          "url": "https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Altar, Op. 1: No. 3",
+      "url": "https://open.spotify.com/track/2K6BYAuyQa8D47yY10aARA"
+    },
+    {
+      "album": {
         "name": "Persona (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4J7oRjeqqBkz1JQ1GZP8j7"
       },
@@ -363,7 +381,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 231853,
       "name": "Charlier",
       "url": "https://open.spotify.com/track/55ZzaH20npWGDLevSLWSWJ"
@@ -385,7 +403,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 50732,
       "name": "Chiller",
       "url": "https://open.spotify.com/track/5mxRn2DiaRSIXBfNzS8PXV"
@@ -593,7 +611,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 334241,
       "name": "En Medio",
       "url": "https://open.spotify.com/track/2cB4PvkqmSASF4YfGTAOwO"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 234626,
       "name": "Hopopono",
       "url": "https://open.spotify.com/track/1hW0VwYPGPzkz2CIXVIY78"
@@ -897,7 +915,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 337116,
       "name": "Imitation",
       "url": "https://open.spotify.com/track/0UARftAOvuyUUbK4sa9m6U"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 234292,
       "name": "Jinja Encounters",
       "url": "https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 327525,
       "name": "La Fibra Humana - Instrumental",
       "url": "https://open.spotify.com/track/4a5gvEMnfw3OIRmQYyykY1"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 519893,
       "name": "Management Of Sorrows",
       "url": "https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 233000,
       "name": "Marginalia #48",
       "url": "https://open.spotify.com/track/6wVZmYHeNd4TJioyfMFdiV"
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 213026,
       "name": "Midnight Horizon",
       "url": "https://open.spotify.com/track/5cfK17MedUMS1ElYVFa3Uv"
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 252600,
       "name": "Murmuration",
       "url": "https://open.spotify.com/track/1r8kRDtkDZPhHvP0dwaYDd"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 256026,
       "name": "Open Hill",
       "url": "https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW"
@@ -1585,7 +1603,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 384386,
       "name": "Ossicles",
       "url": "https://open.spotify.com/track/5ATF0xpYsOzBkCm70cov8y"
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 166428,
       "name": "Palaimon",
       "url": "https://open.spotify.com/track/4Xm8TxoL7mwBgkZIN0B9vL"
@@ -1639,10 +1657,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 593866,
       "name": "Pendulum Man",
       "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
+    },
+    {
+      "album": {
+        "name": "Penelope",
+        "url": "https://open.spotify.com/album/1BILeLPHCszFcvpDjse2k7"
+      },
+      "artists": [
+        {
+          "name": "Quiet is the new Loud",
+          "url": "https://open.spotify.com/artist/6rFDSz52ueWFSmTjFnCEvn"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240031,
+      "name": "Penelope",
+      "url": "https://open.spotify.com/track/5MyIVAoJDJUBe3m4Gl02Kg"
     },
     {
       "album": {
@@ -1697,10 +1733,64 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 224435,
       "name": "Refractions",
       "url": "https://open.spotify.com/track/0aMlFZh0kcbGDknlQTRCE3"
+    },
+    {
+      "album": {
+        "name": "Seed to Sun",
+        "url": "https://open.spotify.com/album/5xeyvXTL476vBEPWpwY2N2"
+      },
+      "artists": [
+        {
+          "name": "Boom Bip",
+          "url": "https://open.spotify.com/artist/6AtkRnMQyGsdt9aldrc0dx"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238706,
+      "name": "Roads Must Roll",
+      "url": "https://open.spotify.com/track/3nORBPzCUOY1DL66yb5NtO"
+    },
+    {
+      "album": {
+        "name": "Portico Quartet",
+        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334040,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
+    },
+    {
+      "album": {
+        "name": "The Emancipation Procrastination",
+        "url": "https://open.spotify.com/album/7edttukwBaQEAiPtS0rnmV"
+      },
+      "artists": [
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353696,
+      "name": "Ruler Rebel (X. aTunde Adjuah Remix)",
+      "url": "https://open.spotify.com/track/6uRppXyfrizmakYnp39kus"
     },
     {
       "album": {
@@ -1741,7 +1831,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 379240,
       "name": "Sing a Silent Gospel",
       "url": "https://open.spotify.com/track/02RFBrIISkDbPdyeLh0Dh0"
@@ -1777,7 +1867,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 488904,
       "name": "Spiral Era",
       "url": "https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM"
@@ -1795,7 +1885,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 344640,
       "name": "Spoken",
       "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
@@ -1997,7 +2087,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 64719,
       "name": "They Call Me Magic (Main Title Theme)",
       "url": "https://open.spotify.com/track/2eeF4YCraIqJ5t6vP80DAt"
@@ -2215,7 +2305,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 212712,
       "name": "Who Is Still Dreaming?",
       "url": "https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z"

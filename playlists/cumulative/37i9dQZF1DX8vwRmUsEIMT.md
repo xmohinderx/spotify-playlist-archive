@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Liam Gallagher
 
-80 songs - 4 hr 18 min - not published yet
+80 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/4Q4OtTCCZtc7DTYLeNoedL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

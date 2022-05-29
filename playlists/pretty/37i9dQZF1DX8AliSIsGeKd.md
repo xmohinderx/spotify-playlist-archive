@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Giolì & Assia
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,124 likes - 74 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,326 likes - 74 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 43 | [espansione ✦](https://open.spotify.com/track/5hJwt1rWpKxjzENVaJ8oPn) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [Oltre](https://open.spotify.com/album/3jGk41Q2Q1F1xFcsu7tRey) | 4:47 |
 | 44 | [NEON RATS](https://open.spotify.com/track/6frczIwQzRtoEgwAw8N3Cv) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/0jx9Lgujl1dys53cwHWwNT) | 7:30 |
 | 45 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 |
-| 46 | [Human Sound](https://open.spotify.com/track/7INfFJ0S1a6ZnIxtxDJlwq) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai Isaiah Jamal](https://open.spotify.com/artist/49qEIKDTiIqnZSl8PZmt1r), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Human Sound](https://open.spotify.com/album/5J06rqfuFDWHsPvU6OrES6) | 5:26 |
+| 46 | [Human Sound](https://open.spotify.com/track/7INfFJ0S1a6ZnIxtxDJlwq) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Human Sound](https://open.spotify.com/album/5J06rqfuFDWHsPvU6OrES6) | 5:26 |
 | 47 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 |
 | 48 | [Moving On](https://open.spotify.com/track/44q90g5h6dBJAkWbKrCSuW) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/2KVBSUUfklLKmQPSTbNQqQ) | 3:25 |
 | 49 | [UUUU \- &ME Remix](https://open.spotify.com/track/0rfLJGjPdvqHXgvDCTdGc6) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [UUUU \(&ME Remix\)](https://open.spotify.com/album/6WcXcUljr548zs4lB6zWBb) | 6:57 |

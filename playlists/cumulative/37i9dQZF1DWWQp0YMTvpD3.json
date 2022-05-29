@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 230850,
       "name": "Autumn Haze",
       "url": "https://open.spotify.com/track/3FnjmbHgL9CTNYPlk1JvKQ"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 142864,
       "name": "Black & White",
       "url": "https://open.spotify.com/track/08c6ZKVMvQDr2hIcUEoBTR"
@@ -723,6 +723,24 @@
       "duration_ms": 184500,
       "name": "Chips N' Drinks",
       "url": "https://open.spotify.com/track/5oRUfTipJwKIbzbfpGbOkz"
+    },
+    {
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/1H4cEBIvngQaCi2ZNJoYd6"
+      },
+      "artists": [
+        {
+          "name": "Dan Awy",
+          "url": "https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179478,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ"
     },
     {
       "album": {
@@ -1051,7 +1069,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 167766,
       "name": "Free Form",
       "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
@@ -2083,7 +2101,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 228305,
       "name": "Peyote",
       "url": "https://open.spotify.com/track/2UogGmSbe5uiGVJSoe3PcS"
@@ -2599,7 +2617,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 260570,
       "name": "Strobe Alley",
       "url": "https://open.spotify.com/track/5d2xWaXb7Wyu0T9fSUPwJa"
@@ -2617,7 +2635,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 139531,
       "name": "Summer Daze",
       "url": "https://open.spotify.com/track/6IicRTrwqlLmP0d3s5cFra"
@@ -2693,7 +2711,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 117980,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/5kwVNldgZXSICPob1RFSnu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: The Filters\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,324 likes - 129 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,327 likes - 129 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

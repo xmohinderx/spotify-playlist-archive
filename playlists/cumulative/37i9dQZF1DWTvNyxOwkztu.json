@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 122076,
       "name": "Adore",
       "url": "https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Agoura Eyes",
       "url": "https://open.spotify.com/track/0d036L67zOm3Il6h3jLCb7"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 187245,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/3kAlWNK9bo5pEMwKvpgzNE"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 161590,
       "name": "Carte blanche",
       "url": "https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 155277,
       "name": "Close To Me",
       "url": "https://open.spotify.com/track/0Wi6hvPJTZBKrXjmvVFtOQ"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 183529,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ"
@@ -1109,7 +1109,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 182267,
       "name": "Gekk\u014d",
       "url": "https://open.spotify.com/track/3BWac5S9EAZiKZD68Spkkc"
@@ -1355,7 +1355,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 171289,
       "name": "In Deep",
       "url": "https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds"
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 240624,
       "name": "Kalmar - Lassjo's Dive",
       "url": "https://open.spotify.com/track/7sjPnJvroufu2baQuwoZ7Z"
@@ -1536,6 +1536,24 @@
     },
     {
       "album": {
+        "name": "lazy days",
+        "url": "https://open.spotify.com/album/7kVqLYOuteo8X1RFyGdHEC"
+      },
+      "artists": [
+        {
+          "name": "Mandoja",
+          "url": "https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124052,
+      "name": "lazy days",
+      "url": "https://open.spotify.com/track/5fJoCtqF88ahLix2iwAHtz"
+    },
+    {
+      "album": {
         "name": "Hidden Treasures EP",
         "url": "https://open.spotify.com/album/1AG7es9vgkIopCWbFtQYpn"
       },
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 176891,
       "name": "Lilac Luster",
       "url": "https://open.spotify.com/track/5CBIJIcjgIhkzyIMWVXSeh"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 158000,
       "name": "Lost In Stereo",
       "url": "https://open.spotify.com/track/3phEyblS7Zzo4Y5YqKUUl3"
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 187946,
       "name": "Lost Sea",
       "url": "https://open.spotify.com/track/2COhLvLh0Szltn8nXySR5D"
@@ -1861,7 +1879,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 162597,
       "name": "Morning Workout",
       "url": "https://open.spotify.com/track/4ZWO4l9zqiT7S35qjvusjE"
@@ -2005,7 +2023,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 132857,
       "name": "NiteGlow",
       "url": "https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ"
@@ -2041,7 +2059,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 179478,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR"
@@ -2077,7 +2095,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 131320,
       "name": "Off Grid Lullaby",
       "url": "https://open.spotify.com/track/36Qu69Yh1qYjj03A1J6k2R"
@@ -2113,7 +2131,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 111272,
       "name": "On The Cloud",
       "url": "https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm"
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 171528,
       "name": "RELAX (Late Night)",
       "url": "https://open.spotify.com/track/37H1s2CbDWICwprjFFofO3"
@@ -2261,7 +2279,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 213600,
       "name": "Remember",
       "url": "https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH"
@@ -2683,7 +2701,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 154419,
       "name": "Standing with You",
       "url": "https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE"
@@ -2755,7 +2773,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 167239,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/17YLsJ4vxqP113HNFrFSUV"
@@ -3119,7 +3137,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 162406,
       "name": "Unfading",
       "url": "https://open.spotify.com/track/0ZnpSil0JjchG4yAuPGqkE"
@@ -3137,7 +3155,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 198260,
       "name": "Unhappy Alien",
       "url": "https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ"

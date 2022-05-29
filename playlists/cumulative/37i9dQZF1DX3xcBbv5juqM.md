@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2001! Cover: Destiny's Child
 
-105 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/2GHm1y4c22CAUSNVFazqSt)
+106 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/2GHm1y4c22CAUSNVFazqSt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 | 2020-11-04 |  |
 | [Candela](https://open.spotify.com/track/5hPdPsKN6hsfaLcIZqoevk) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Fiesta Latina](https://open.spotify.com/album/7gBAL4MQYVhi55jgbZZx6Z) | 3:40 | 2020-11-04 |  |
 | [Che C'è](https://open.spotify.com/track/5b2lQj3sdXFXVjDgojnVLl) | [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Circo Massimo 2001](https://open.spotify.com/album/2LavOMOX9cVPIIhfOhH31Y) | 4:15 | 2020-11-04 |  |
-| [Clint Eastwood](https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 5:40 | 2020-11-04 |  |
+| [Clint Eastwood](https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 5:40 | 2020-11-04 | 2022-05-29 |
 | [Crazy for This Girl](https://open.spotify.com/track/2gdt70w8DOCWGq1HdkgSUd) | [Evan And Jaron](https://open.spotify.com/artist/1xeZcY93inQY14LWwnxd5G) | [evan and jaron](https://open.spotify.com/album/6cO4nqzrxmHLcLF032TXFy) | 3:22 | 2020-11-04 |  |
 | [Crying at the Discoteque \- Radio Edit](https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Casino](https://open.spotify.com/album/5FWRzWPvOHCxOoo0ibUfI5) | 3:51 | 2020-11-04 |  |
 | [Do You Really Like It? \- Radio Edit](https://open.spotify.com/track/4Mnw05kNd0j1XDHwtfzofp) | [DJ Pied Piper & The Masters Of Ceremonies](https://open.spotify.com/artist/7KMddxPqjqv0fiucwg0c3D) | [Do You Really Like It? \(Remixes\)](https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV) | 3:37 | 2020-11-04 |  |
@@ -90,6 +90,7 @@
 | [Sono Contento](https://open.spotify.com/track/37GG4QhdUIO4i4c7GqeSoL) | [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D) | [The Platinum Collection](https://open.spotify.com/album/2CwJjcBiVSm7vrCaJ8RaIv) | 3:59 | 2020-11-04 |  |
 | [Stan](https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 6:44 | 2020-11-04 |  |
 | [Starlight \- Radio Edit](https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Mani Hoffman](https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw) | [Starlight](https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX) | 3:54 | 2020-11-04 |  |
+| [Stranger in My House](https://open.spotify.com/track/08GOEVXupC6ECbulhPGQKm) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [A Nu Day](https://open.spotify.com/album/4cYOUdfGAj9E2IOCWTo3ZM) | 4:45 | 2020-11-04 |  |
 | [Stuck In A Moment You Can't Get Out Of](https://open.spotify.com/track/1klDPm7SfsS32hl7KHV9iy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:33 | 2020-11-04 |  |
 | [Super \- Riscaldamento](https://open.spotify.com/track/4B9FEh5bdfySN9wlTXHqJK) | [Gigi D'Agostino & Albertino](https://open.spotify.com/artist/0CLSUMz36yow6X9gInbTlU) | [Super](https://open.spotify.com/album/0VmRNttHsX2NUSHEqZMDx2) | 3:59 | 2020-11-04 |  |
 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 | 2020-11-04 |  |

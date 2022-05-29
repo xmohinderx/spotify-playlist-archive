@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 179400,
       "name": "Arboles De La Barranca",
       "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 226978,
       "name": "Como Duele Equivocarse",
       "url": "https://open.spotify.com/track/01Bb7kIu9BRyWE0G5A7AmI"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 176403,
       "name": "El Lujo De Tenerte",
       "url": "https://open.spotify.com/track/0bIBXi8kSiEkJhlCgg286I"
@@ -701,7 +701,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 189387,
       "name": "Frio De Aucencia",
       "url": "https://open.spotify.com/track/3YxSPQh2jQgyxrLdB9tKqK"
@@ -1472,6 +1472,24 @@
     },
     {
       "album": {
+        "name": "Tirando Party",
+        "url": "https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC"
+      },
+      "artists": [
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "Se Va Muriendo Mi Alma",
+      "url": "https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq"
+    },
+    {
+      "album": {
         "name": "Afortunado",
         "url": "https://open.spotify.com/album/4nX2YwuCsLZhvaPNaQphFJ"
       },
@@ -1663,7 +1681,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 215400,
       "name": "Un Rinconcito en el Cielo",
       "url": "https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl"

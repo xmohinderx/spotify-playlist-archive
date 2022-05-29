@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Lo mejor del Rock en Español de hoy\. Cover: Samantha Sánchez
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,170 likes - 91 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,189 likes - 91 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

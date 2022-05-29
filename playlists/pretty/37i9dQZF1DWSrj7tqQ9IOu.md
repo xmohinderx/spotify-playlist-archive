@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover: Izïa
+> The best French indie tracks right now\. Cover: Emma Hoet
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,112 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,272 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [1964](https://open.spotify.com/track/2GKjDtUoz2AB3zegkdTUoo) | [Rallye](https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX) | [1964](https://open.spotify.com/album/4OytyyjvGEMOpKLQQcCaRU) | 4:18 |
 | 50 | [open arms](https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8) | 6:10 |
 
-Snapshot ID: `MTY1MzYwMjUyMCwwMDAwMDIwNDAwMDAwMTgxMDI2NDBjNDAwMDAwMDE4MGY1Nzk3OTAx`
+Snapshot ID: `MTY1MzcyMzk5NSwwMDAwMDIwNTAwMDAwMTgxMDlhMTlmMjYwMDAwMDE4MGY1Nzk3OTAx`

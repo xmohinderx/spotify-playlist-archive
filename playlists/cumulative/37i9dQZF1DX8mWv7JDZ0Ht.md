@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Vitão
 
-80 songs - 4 hr 2 min - not published yet
+80 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

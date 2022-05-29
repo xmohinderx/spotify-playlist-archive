@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,969 likes - 166 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,004 likes - 166 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 153 | [weather report](https://open.spotify.com/track/2liZi98khYvEHs03lAveyv) | [kesno](https://open.spotify.com/artist/79GO1ze6oDiQU9dGQONP1a) | [weather report](https://open.spotify.com/album/1GKmluPzmRiW3do5FuANaM) | 2:12 |
 | 154 | [memories](https://open.spotify.com/track/14kGhyabTHGMtbNhraoe0p) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:39 |
 | 155 | [Wynwood](https://open.spotify.com/track/0q4YTXB99koLTdFXkgNQwr) | [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Wynwood](https://open.spotify.com/album/58mvCS8POnTN5AmROCw5p5) | 2:08 |
-| 156 | [chances](https://open.spotify.com/track/0Nq2LxjyX4iPkQr8rA0LW3) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Hz.](https://open.spotify.com/artist/0uhFSpArpS7GckTNrjyO6J) | [chances](https://open.spotify.com/album/0VmuWLfudj3p7PROwKlzOP) | 3:10 |
+| 156 | [chances](https://open.spotify.com/track/0Nq2LxjyX4iPkQr8rA0LW3) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [chances](https://open.spotify.com/album/0VmuWLfudj3p7PROwKlzOP) | 3:10 |
 | 157 | [Ecliptic](https://open.spotify.com/track/2Dv9Ic59334LE8oX6NqFOQ) | [Huez](https://open.spotify.com/artist/11nJzHENlaUYrrT9CAd0W9) | [Ecliptic](https://open.spotify.com/album/4k7zfssPs64CGaF3G0Su49) | 1:17 |
 | 158 | [HouseShow](https://open.spotify.com/track/4MFkO5ggtN2Gf8qpFQd7sb) | [braj mahal](https://open.spotify.com/artist/2uHJReWme1oJ0jaXD1fiHT), [Pierson Booth](https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER) | [HouseShow](https://open.spotify.com/album/6VcB7xJJKnkyeVDcl6yA9Y) | 1:58 |
 | 159 | [Cashmere Gifts](https://open.spotify.com/track/1K372fPaHuSfk4yCANtbRG) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Cashmere Gifts](https://open.spotify.com/album/5h7s0PzCnsG8tNiP8LmSED) | 2:07 |

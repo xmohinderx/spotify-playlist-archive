@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > Cover: ericdoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,762 likes - 114 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,891 likes - 114 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
