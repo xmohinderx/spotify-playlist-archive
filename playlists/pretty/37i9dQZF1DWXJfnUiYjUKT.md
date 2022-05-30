@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Calvin Harris, Dua Lipa & Young Thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,679 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,772 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 57 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 |
 | 58 | [BREAKDOWN](https://open.spotify.com/track/5ab5TaUCeTXEyEopmq4pjM) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [BREAKDOWN](https://open.spotify.com/album/43TWpeulOdWVBsL8vpMdZi) | 3:38 |
 | 59 | [The Curse](https://open.spotify.com/track/491AYsTWGpOClL9A5cbcQv) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [The Curse](https://open.spotify.com/album/2xnsVRZdZto2ItOA4OwD7s) | 2:44 |
-| 60 | [Back Again \(with Loote\)](https://open.spotify.com/track/4vztjHvge0Yg8HIJpIB3Q0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx) | [HELLRAISERS, Part 3](https://open.spotify.com/album/3BwgBDgdwqRnuU805FMu3N) | 3:01 |
+| 60 | [Back Again](https://open.spotify.com/track/4vztjHvge0Yg8HIJpIB3Q0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx) | [HELLRAISERS, Part 3](https://open.spotify.com/album/3BwgBDgdwqRnuU805FMu3N) | 3:01 |
 | 61 | [Selfish \(feat\. Major Myjah\)](https://open.spotify.com/track/3qVGGk6cIJOvIMQhIXl7sE) | [Jayson Cash](https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E), [Major Myjah](https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L) | [Selfish \(feat\. Major Myjah\)](https://open.spotify.com/album/3webAmY4mW31UWVXzWA26o) | 2:09 |
 | 62 | [The View From Halfway Down \- Spotify Singles](https://open.spotify.com/track/3E4gPkcqnyaAnv1nrdukwp) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP), [Henry D'Arthenay](https://open.spotify.com/artist/25Dx0mB7FWXFxNjsYVfcCL) | [The View From Halfway Down \- Spotify Singles](https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj) | 3:50 |
 | 63 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 |

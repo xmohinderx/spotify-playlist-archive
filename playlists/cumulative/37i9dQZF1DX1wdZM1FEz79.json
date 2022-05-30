@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 194291,
       "name": "Be My Birthday",
       "url": "https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC"
@@ -991,7 +991,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 208649,
       "name": "come as you are",
       "url": "https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb"
@@ -1623,7 +1623,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 217129,
       "name": "Friday (feat.Jang Yi-jeong)",
       "url": "https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG"
@@ -1991,7 +1991,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 213800,
       "name": "Headache",
       "url": "https://open.spotify.com/track/6R4Lv4Bx0qhyVlVwurGzdf"
@@ -2125,7 +2125,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 227506,
       "name": "HONEY (Feat. Crucial Star)",
       "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
@@ -2179,7 +2179,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 263453,
       "name": "How Is Your Night",
       "url": "https://open.spotify.com/track/0b3gVNccZdoCLUZ4Dzaase"
@@ -2395,7 +2395,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 219355,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/0WLjUv41NxxFZnNnn0Ra9W"
@@ -2911,10 +2911,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 218000,
       "name": "Just thinking about you",
       "url": "https://open.spotify.com/track/1ew4EemwjPuSsCuj1ezEfB"
+    },
+    {
+      "album": {
+        "name": "Keep This Moment (From \"Going to You at a Speed of 493km\" [Original Soundtrack]), Pt.4",
+        "url": "https://open.spotify.com/album/5j7JmzdgWs2VSyGLod2VKs"
+      },
+      "artists": [
+        {
+          "name": "JINHO",
+          "url": "https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Keep This Moment",
+      "url": "https://open.spotify.com/track/0ykk20f023G61Ds0IeF4KB"
     },
     {
       "album": {
@@ -3391,7 +3409,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 186642,
       "name": "My Day",
       "url": "https://open.spotify.com/track/6tRGDcL8puwtHHPhac0uoq"
@@ -4707,7 +4725,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 196616,
       "name": "Spring Attitude",
       "url": "https://open.spotify.com/track/0oX3uukKkz0aBEXl3RxxyC"
@@ -4743,7 +4761,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 216493,
       "name": "Spring Flowers",
       "url": "https://open.spotify.com/track/63tzhE9woGEnPVhgWzUTtk"
@@ -4917,7 +4935,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 188864,
       "name": "Stupid love song (with Crush)",
       "url": "https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ"
@@ -5127,7 +5145,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 229665,
       "name": "The night we parted",
       "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
@@ -5235,7 +5253,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 220106,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/6WoloXr2PXu8FRYZFtzbij"
@@ -5521,7 +5539,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 215353,
       "name": "vacation",
       "url": "https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr"
@@ -5861,7 +5879,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 226168,
       "name": "When The Wind Blows",
       "url": "https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H"
@@ -5951,7 +5969,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 237106,
       "name": "will be happy",
       "url": "https://open.spotify.com/track/2tqwVC2POBU8BrHlzgkRK2"
@@ -6053,7 +6071,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 241470,
       "name": "With me \uc624\ub298\uc774 \uc9c0\ub098\uba74",
       "url": "https://open.spotify.com/track/12NNRxfewZV8ey2qxQv9pa"
@@ -6659,7 +6677,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 224600,
       "name": "\ud488",
       "url": "https://open.spotify.com/track/7nWbh316VrzihN6Rra5Feh"

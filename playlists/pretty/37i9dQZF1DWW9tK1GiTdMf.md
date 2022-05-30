@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare e in copertina ci sono i bnkr44 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,816 likes - 90 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,840 likes - 90 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 72 | [Poi Torna](https://open.spotify.com/track/7E6bV3CCLdC2ssEhWiY0RR) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ) | [Poi Torna](https://open.spotify.com/album/7d8uGbVS24UGmKZPBH92x1) | 2:22 |
 | 73 | [POETA](https://open.spotify.com/track/51H0PcK5YZBgGxJrrFRpr4) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [FALLIRÒ](https://open.spotify.com/album/0fI4IMCqKyYblhpZABJahV) | 3:03 |
 | 74 | [ROMA TUTTA](https://open.spotify.com/track/6S8LFWzphG21Hr5omHm2qV) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [CITRIESTE](https://open.spotify.com/artist/2xOa0F2TZGjX9uOZ60TCI2) | [ROMA TUTTA](https://open.spotify.com/album/18UaFxs5g5MTSDsImNy4h5) | 2:43 |
-| 75 | [James Dean](https://open.spotify.com/track/38ymTy0ALyNcnWCLoCDgWr) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [James Dean](https://open.spotify.com/album/7hihiCYSTCRKAGcX7hSUXJ) | 3:07 |
+| 75 | [JAMES DEAN](https://open.spotify.com/track/38ymTy0ALyNcnWCLoCDgWr) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [JAMES DEAN](https://open.spotify.com/album/7hihiCYSTCRKAGcX7hSUXJ) | 3:07 |
 | 76 | [10 Things I Hate About You](https://open.spotify.com/track/1shKa7wLElW8CrbHOJk85M) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/0pIt9H9KU1FyhygpHAOs2l) | 2:37 |
 | 77 | [Guarderai la luna](https://open.spotify.com/track/7plsuK7H3jQD2eoLOmf7Ws) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [Guarderai la luna](https://open.spotify.com/album/4S1tJnDu1QWd2nGh95WzZo) | 2:55 |
 | 78 | [junkie](https://open.spotify.com/track/1EbsleQQFhD9HYxPaTqgfu) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [junkie](https://open.spotify.com/album/0F3HviU9yaZBcYOHAfhOpE) | 2:39 |

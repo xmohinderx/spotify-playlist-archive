@@ -6747,7 +6747,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 222430,
       "name": "Karjaisu Leijonan (feat. Portion Boys, Pasi ja Anssi, Teflon Brothers, JS16, Hesa\u00c4ij\u00e4 & DJ Oku Luukkainen)",
       "url": "https://open.spotify.com/track/5RjXM4VbBozKdiczEPdSr9"
@@ -6813,7 +6813,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 199954,
       "name": "Kauhea kankkunen (feat. Stig)",
       "url": "https://open.spotify.com/track/2ms2cBMoBcbqe5aENdXSTY"
@@ -14159,7 +14159,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 171109,
       "name": "tarviin tilaa (feat. william)",
       "url": "https://open.spotify.com/track/5240YbVrjRJ9EG79jrpEHF"
@@ -15273,6 +15273,28 @@
       "duration_ms": 156944,
       "name": "Up",
       "url": "https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi"
+    },
+    {
+      "album": {
+        "name": "UP",
+        "url": "https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148944,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2"
     },
     {
       "album": {

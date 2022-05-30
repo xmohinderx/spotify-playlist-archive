@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+      },
+      "artists": [
+        {
+          "name": "Albert Ammons & Pete Johnson",
+          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183800,
+      "name": "Barrelhouse Boogie",
+      "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
+    },
+    {
+      "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
       },
@@ -417,7 +435,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 156733,
       "name": "Cadillac Boogie",
       "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 181470,
       "name": "Chicago Breakdown",
       "url": "https://open.spotify.com/track/5tpdMbPniXLbNNCnPCT3dG"
@@ -489,7 +507,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 199262,
       "name": "Chimes Blues",
       "url": "https://open.spotify.com/track/6mzWrjrDV4QXLiJkR4cOGh"
@@ -525,7 +543,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 159666,
       "name": "Count Basie's Red Bank Cafe",
       "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
@@ -543,7 +561,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 146066,
       "name": "Dollar Bill Boogie",
       "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
@@ -579,7 +597,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 212453,
       "name": "E-Flat Flyer",
       "url": "https://open.spotify.com/track/6SoGI3M6TKrVsPvdNaNJxG"
@@ -597,7 +615,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 194240,
       "name": "Five Stacked High",
       "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
@@ -615,7 +633,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 195746,
       "name": "Hastings St.",
       "url": "https://open.spotify.com/track/1XKAKEHIyELpnsZpFhxVhG"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 171106,
       "name": "Roll 'Em, Pete (12-30-38)",
       "url": "https://open.spotify.com/track/48yPw9QpyvTcQwZYoq2rzc"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 145278,
       "name": "Shake Baby Shake",
       "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 141560,
       "name": "Spann's Stomp",
       "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"

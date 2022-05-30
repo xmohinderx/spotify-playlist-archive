@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-495 songs - 1 day 3 hr 5 min - [published](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
+496 songs - 1 day 3 hr 10 min - [published](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Rolex® On A Redneck](https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rolex® On A Redneck](https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH) | 2:59 | 2022-04-19 | 2022-04-29 |
 | [ROSE STREET](https://open.spotify.com/track/1L8NADNWd56cZRnaxcxPPI) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 2:33 | 2022-04-19 | 2022-04-21 |
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-03-15 | 2022-04-06 |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-29 |  |
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2022-01-12 | 2022-02-09 |
 | [Same God \(feat\. Jonsal Barrientes\)](https://open.spotify.com/track/2mqy9sPe3Qj1hPrnQdvimJ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jonsal Barrientes](https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J) | [Same God \(feat\. Jonsal Barrientes\)](https://open.spotify.com/album/3s52obJaSkltal3K0Noeza) | 8:01 | 2022-02-15 | 2022-02-17 |
 | [Same God \(feat\. Jonsal Barrientes\)](https://open.spotify.com/track/7nrhv8ZemanddTfXk28rdy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jonsal Barrientes](https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 8:01 | 2022-03-07 | 2022-03-16 |
@@ -486,7 +487,7 @@
 | [Whiskey in the Jar](https://open.spotify.com/track/1UzofFX5AkfTDnwjcBkM4J) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Best Of The Dubliners](https://open.spotify.com/album/6awwYk1jSoD7Qd9RPh8u9H) | 2:58 | 2022-03-18 | 2022-03-26 |
 | [Whiteboyz](https://open.spotify.com/track/6JRbb3Gpytv9olKoq9O9YP) | [Tom MacDonald](https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf), [Adam Calhoun](https://open.spotify.com/artist/4fZ8AuVP6Y8mLmCoybfKpC) | [The Brave](https://open.spotify.com/album/65qvJgkTyLzOgZOlQcqUfg) | 3:13 | 2022-03-10 | 2022-03-16 |
 | [Why Am I Like This?](https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6) | 3:32 | 2022-05-03 |  |
-| [Wild as Her](https://open.spotify.com/track/7FEu6U2jXAs2URjx93AyTm) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/5E6Y21xdZI8Ein5d7wfqpI) | 3:21 | 2022-03-29 |  |
+| [Wild as Her](https://open.spotify.com/track/7FEu6U2jXAs2URjx93AyTm) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/5E6Y21xdZI8Ein5d7wfqpI) | 3:21 | 2022-03-29 | 2022-05-30 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-05-17 |  |
 | [Wonderful Time](https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N) | [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Wonderful Time](https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL) | 2:41 | 2021-12-27 | 2021-12-29 |
 | [Work Out](https://open.spotify.com/track/1wQhpsuVJFxrvESjqUvlkt) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Work Out](https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h) | 4:51 | 2022-05-03 | 2022-05-11 |

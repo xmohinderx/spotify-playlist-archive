@@ -4,7 +4,7 @@
 
 > 
 
-640 songs - 1 day 18 hr 59 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+642 songs - 1 day 19 hr 9 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 | 2019-01-07 |  |
 | [53 Miles West of Venus](https://open.spotify.com/track/0D1b7W0tcPji8y9sZ5Xup3) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Wild Planet](https://open.spotify.com/album/1K4t7Jv7DuolDWnFLxKxkd) | 4:53 | 2020-04-04 |  |
 | [A Fond Farewell](https://open.spotify.com/track/2f0KFqF9B2oKOx0NBVTaXv) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 3:58 | 2021-08-09 |  |
+| [A Hairdryer](https://open.spotify.com/track/5eGvUvIliCcmFqwC8kQSAw) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 5:17 | 2022-05-30 |  |
 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 | 2018-11-01 |  |
 | [A Lizard State](https://open.spotify.com/track/0KzFcd3gLfmsVEOqpOogBt) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [6 Feet Beneath the Moon](https://open.spotify.com/album/6DAL46eCFRxgj624atbOYY) | 4:19 | 2019-07-29 |  |
 | [A Pain That I'm Used To](https://open.spotify.com/track/2pbZiAFyhKPmVyjIHipYLa) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Steve Fitzmaurice](https://open.spotify.com/artist/5jeYVkZ5F8orMysIIFNtOY) | [Playing the Angel](https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz) | 4:10 | 2020-08-12 |  |
@@ -181,6 +182,7 @@
 | [Fortress Around Your Heart](https://open.spotify.com/track/06IsyJksK6vgJX66rU77Ij) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Dream Of The Blue Turtles](https://open.spotify.com/album/17mrdCgqrWfqpJlaCNGCdF) | 4:39 | 2020-06-16 |  |
 | [Frank Sinatra](https://open.spotify.com/track/5OLjhk2db14wAFMmWjrxGw) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/57lJNxlrPSin9SySEnerNb) | 4:01 | 2020-06-29 |  |
 | [Free Four](https://open.spotify.com/track/4pfuHQ4hdkUyDEYsMhgXHm) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 4:16 | 2020-02-27 |  |
+| [Free In The Knowledge](https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:12 | 2022-05-30 |  |
 | [Free To Decide](https://open.spotify.com/track/42e1QfTyPYWuoddr0ghc0i) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:25 | 2020-06-23 |  |
 | [Friction](https://open.spotify.com/track/7wfvl1kiZJNvhx6HNTyefX) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Marquee Moon](https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP) | 4:43 | 2020-01-12 |  |
 | [Friday 13th \(feat\. Octavian\)](https://open.spotify.com/track/6szrrh2IL7cgu4q6D5ryW0) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Octavian](https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ) | [Song Machine Episode 4](https://open.spotify.com/album/6uyPlm8fdwthVMnSYZ6f6D) | 3:35 | 2020-06-11 |  |

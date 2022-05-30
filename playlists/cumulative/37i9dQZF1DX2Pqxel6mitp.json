@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 159250,
       "name": "Delta by the Beach",
       "url": "https://open.spotify.com/track/5grwVBDib4CwIcvPqAmexS"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 361200,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/24iHvzbOM56UjDckloaz6o"
@@ -579,6 +579,28 @@
       "duration_ms": 253853,
       "name": "Goodbye Jimmy Reed",
       "url": "https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4"
+    },
+    {
+      "album": {
+        "name": "Got to Go Back Home",
+        "url": "https://open.spotify.com/album/47a2tTcWRCEOxQVEw12tvR"
+      },
+      "artists": [
+        {
+          "name": "Chris Kramer",
+          "url": "https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ"
+        },
+        {
+          "name": "Jens Filser",
+          "url": "https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234473,
+      "name": "Got to Go Back Home",
+      "url": "https://open.spotify.com/track/0Br4WpOz24iobkfvAEVsz6"
     },
     {
       "album": {
@@ -1020,6 +1042,24 @@
     },
     {
       "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236182,
+      "name": "Money Talks",
+      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
+    },
+    {
+      "album": {
         "name": "Folk Singer (Expanded Edition)",
         "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
       },
@@ -1093,7 +1133,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 198000,
       "name": "Newbury",
       "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
@@ -1191,7 +1231,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 273573,
       "name": "Rollin' and Tumblin'",
       "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
@@ -1270,6 +1310,24 @@
     },
     {
       "album": {
+        "name": "Steady Rollin' On",
+        "url": "https://open.spotify.com/album/1zTA6G1K1uWR4Bny4VDkjL"
+      },
+      "artists": [
+        {
+          "name": "Bob Margolin",
+          "url": "https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Steady Rollin' On",
+      "url": "https://open.spotify.com/track/4xIifILl8eoYdAItBvgjZ7"
+    },
+    {
+      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -1299,7 +1357,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 291295,
       "name": "T.B. Blues",
       "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"

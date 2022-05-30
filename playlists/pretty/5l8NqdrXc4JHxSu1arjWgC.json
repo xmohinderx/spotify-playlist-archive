@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 3503,
+  "num_followers": 3505,
   "original_name": "Red Vox Recent Favorites",
   "owner": {
     "name": "Red Vox",
     "url": "https://open.spotify.com/user/vinnyvinesauce"
   },
-  "snapshot_id": "MTY2MiwzZjgwYmUyY2JkOWI4OWY1N2Y4Mjk2Y2Y4ZjcwMjg5ZDY0Yzg3ODRk",
+  "snapshot_id": "MTY2NCxkYmFmMmNmMzI2NDNiZmM0ZGJmNzAzZjM4MmRlNTg2Mzk2MWI0OWQ3",
   "tracks": [
     {
       "added_at": "2021-08-23 00:51:37",
@@ -10391,6 +10391,38 @@
       "duration_ms": 270394,
       "name": "I Choose Me",
       "url": "https://open.spotify.com/track/064I7lnHPQP68nbVZpS9K7"
+    },
+    {
+      "added_at": "2022-05-30 00:42:08",
+      "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 317535,
+      "name": "A Hairdryer",
+      "url": "https://open.spotify.com/track/5eGvUvIliCcmFqwC8kQSAw"
+    },
+    {
+      "added_at": "2022-05-30 00:42:13",
+      "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 252864,
+      "name": "Free In The Knowledge",
+      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
     }
   ],
   "unique_name": "Red Vox Recent Favorites",

@@ -386,6 +386,32 @@
     },
     {
       "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/6hfeuqKVVsq5qIuYcTVAUy"
+      },
+      "artists": [
+        {
+          "name": "Antonio Mazzei",
+          "url": "https://open.spotify.com/artist/6Qt5MWQmYnJAEtRi385Ref"
+        },
+        {
+          "name": "David Xirgu",
+          "url": "https://open.spotify.com/artist/3E27UZd7y2kH1DLQKKNxBT"
+        },
+        {
+          "name": "Doug Weiss",
+          "url": "https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260053,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/5W2c7aQe4ZbFNPOBS19q7z"
+    },
+    {
+      "album": {
         "name": "The Secret Between the Shadow and the Soul",
         "url": "https://open.spotify.com/album/21Jrn9lGRwkXZyFz2bJjaf"
       },
@@ -803,7 +829,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 315773,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB"
@@ -1009,7 +1035,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 280186,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/41XCiJOUytKpsgT1kDzYzE"
@@ -1111,7 +1137,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 198066,
       "name": "I'm Gonna Laugh You Right Out Of My Life",
       "url": "https://open.spotify.com/track/2rSVktwe87akiljBLsl0IC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,475 likes - 48 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,491 likes - 48 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 47 | [Redemption](https://open.spotify.com/track/6i9Y0BUxejRaa1oiQK6cqf) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Diztortion](https://open.spotify.com/artist/35vjmhmFFVoYLg4gPJBvEV), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Life \(Deluxe\)](https://open.spotify.com/album/1Z0wiHzWvZ1qtWkEKNE6TW) | 3:50 |
 | 48 | [Ire \(Remix\) \(feat\. Jacob Banks\)](https://open.spotify.com/track/5b9Tl8wtaPLzsuDHuwdik8) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [About 30](https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo) | 4:54 |
 
-Snapshot ID: `Mjc1NjI1ODAsMDAwMDAwMDBkMzA0OGVlZjYzOGUxY2NmNTdjZWJhNmZlZWQ3YjI4ZQ==`
+Snapshot ID: `Mjc1NjM4NzMsMDAwMDAwMDAzOGFhMWUwMmIyNWQ0MTkyMGQ1YjhjM2MwOGE0MGMzOA==`

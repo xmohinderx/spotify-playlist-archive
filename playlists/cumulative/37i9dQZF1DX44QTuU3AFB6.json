@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "Al Cien Y Pasadito",
+        "url": "https://open.spotify.com/album/4gmCa5puyQMd415GA4Lg4k"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157506,
+      "name": "Al Cien Y Pasadito",
+      "url": "https://open.spotify.com/track/0skFLH6DHqdcmbAjl0LoE0"
+    },
+    {
+      "album": {
         "name": "M\u00e1s All\u00e1 Del Sol",
         "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
@@ -319,7 +337,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 183946,
       "name": "Belleza De Cantina",
       "url": "https://open.spotify.com/track/4XC7YfQYxDuUa7I287yeWw"
@@ -345,6 +363,28 @@
       "duration_ms": 197333,
       "name": "Botella Tras Botella",
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
+    },
+    {
+      "album": {
+        "name": "Cabrones y Vagos",
+        "url": "https://open.spotify.com/album/4eWWlUpqJlgTbsb36yTQZj"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Cabr\u00f3n y Vago",
+      "url": "https://open.spotify.com/track/2m1t8nkP1WibhYKGlwV3Oa"
     },
     {
       "album": {
@@ -547,7 +587,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 173546,
       "name": "Dos Gotas de Agua",
       "url": "https://open.spotify.com/track/5y9jffhDLOKtHBdEMVm0Ss"
@@ -811,7 +851,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 191994,
       "name": "El Envidioso",
       "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
@@ -851,6 +891,24 @@
       "duration_ms": 195306,
       "name": "El Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj"
+    },
+    {
+      "album": {
+        "name": "Los Huracanes del Norte - 40 Aniversario",
+        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201038,
+      "name": "El Gato De Chihuahua",
+      "url": "https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT"
     },
     {
       "album": {
@@ -1391,7 +1449,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 176000,
       "name": "La Escuela No Me Gust\u00f3",
       "url": "https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94"
@@ -1521,7 +1579,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 155802,
       "name": "Me La Avente",
       "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
@@ -1597,7 +1655,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 271155,
       "name": "Me Vale Madre - En Vivo",
       "url": "https://open.spotify.com/track/2JwQxf7MTw7V3dMpF6NJVf"
@@ -1623,6 +1681,24 @@
       "duration_ms": 239695,
       "name": "Mi Amor Por Ti (En Vivo)",
       "url": "https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm"
+    },
+    {
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "Mi Casa Nueva",
+      "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
     },
     {
       "album": {
@@ -1713,7 +1789,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 184627,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/4Wj4cg6ZA7JM7ZDd2C0X1Y"
@@ -1749,7 +1825,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 220080,
       "name": "Mi Pasado y Mi Presente",
       "url": "https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS"
@@ -1850,6 +1926,24 @@
     },
     {
       "album": {
+        "name": "Corridos Underground",
+        "url": "https://open.spotify.com/album/5Wj7VIPBinifu9nvB0HylN"
+      },
+      "artists": [
+        {
+          "name": "Tito Y Su Torbellino",
+          "url": "https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154464,
+      "name": "No Eres Tu, Soy Yo! - Bonus Track",
+      "url": "https://open.spotify.com/track/1fqs4VH6AVUk0CnZ6YGmeC"
+    },
+    {
+      "album": {
         "name": "La Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
@@ -1901,6 +1995,24 @@
       "duration_ms": 196099,
       "name": "Palabra de Hombre",
       "url": "https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg"
+    },
+    {
+      "album": {
+        "name": "Comer\u00e9 Callado, Vol. 1",
+        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175028,
+      "name": "Para Qu\u00e9 Lastimarme",
+      "url": "https://open.spotify.com/track/4pA15wGSXsWRPnRc9u4Dh5"
     },
     {
       "album": {
@@ -2031,7 +2143,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 241374,
       "name": "Quihubo Cuando - En Vivo",
       "url": "https://open.spotify.com/track/62r8ek1osvJmhBIJOFbihU"
@@ -2201,7 +2313,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 176680,
       "name": "Se Me Olvid\u00f3 Otra Vez (En Vivo) - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/10o700fPQOCPZFrzFssSof"
@@ -2273,7 +2385,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 255640,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
@@ -2367,7 +2479,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 177200,
       "name": "So\u00f1ador Eterno",
       "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
@@ -2421,7 +2533,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 248120,
       "name": "Tengo Que Colgar",
       "url": "https://open.spotify.com/track/2yGNkkwU2iT0doFxkxhcXH"
@@ -2623,7 +2735,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 204546,
       "name": "Ya Lo Super\u00e9",
       "url": "https://open.spotify.com/track/0jfcucJLdHPXgjOCjSeFXM"

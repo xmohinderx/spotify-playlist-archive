@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/5eRHTcvWyEU0MEzNOiR2j1.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Scream](https://open.spotify.com/track/6Ni37ZxZk1ybOR1yRLRGRw) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Scream](https://open.spotify.com/album/3oFozwGCAMMgibERs8W4dh) | 6:14 |
 | 2 | [999](https://open.spotify.com/track/0nfN7lnvBDl9Iu6HnBtcL8) | [kent](https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX) | [999](https://open.spotify.com/album/476LeLejeiGEvxBcuGEBRG) | 6:53 |
-| 3 | [Soldier](https://open.spotify.com/track/0MhCb3iakymVqQIOeYPSUf) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Sweeter](https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j) | 3:31 |
+| 3 | [Soldier \- AOL Music Sessions](https://open.spotify.com/track/0MhCb3iakymVqQIOeYPSUf) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Sweeter](https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j) | 3:31 |
 | 4 | [Elegi](https://open.spotify.com/track/4gb6ik72fZW6pzm5EJb39z) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Vatten under broarna](https://open.spotify.com/album/2gAefUj9nbEgJJ0aJC0bel) | 4:34 |
 | 5 | [3 Shades Of Black](https://open.spotify.com/track/7phu6PYdCTt5gUcKDtRFoX) | [Hank Williams III](https://open.spotify.com/artist/3qf2YoifC68WTsMv1YIGmh) | [Damn Right, Rebel Proud](https://open.spotify.com/album/6cXTOSDrUSrE9E4pE9FvRC) | 4:18 |
 | 6 | [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 5:16 |

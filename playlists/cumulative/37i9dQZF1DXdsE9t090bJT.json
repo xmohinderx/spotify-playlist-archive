@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 278000,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3y8tEWNrKD8EshrB3SEk4r"
@@ -311,10 +311,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 226750,
       "name": "Con Tus Besos",
       "url": "https://open.spotify.com/track/6tsoBcgT99Kb4DvjI8Pnlv"
+    },
+    {
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226821,
+      "name": "Con Tus Besos",
+      "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
     },
     {
       "album": {
@@ -329,7 +347,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 210440,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/3imJHohXBxDGovFRQ75dUt"
@@ -347,7 +365,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 210440,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN"
@@ -661,7 +679,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 163186,
       "name": "Ella Es Mi Mujer",
       "url": "https://open.spotify.com/track/3qUU5im2iV5eWOtkWz6ykQ"
@@ -679,7 +697,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 163253,
       "name": "Ella Es Mi Mujer",
       "url": "https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 165745,
       "name": "Perfecta En Mis Ojos",
       "url": "https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z"
@@ -1429,7 +1447,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 166437,
       "name": "Perfecta en Mis Ojos",
       "url": "https://open.spotify.com/track/2an1crKGNWXdviPTzWyH0I"
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 178431,
       "name": "Quiero Darte",
       "url": "https://open.spotify.com/track/2A9og47Yp9p3cpfJ8qgcoF"

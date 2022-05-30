@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 
 > Le migliori tracce urban italiane del 2021! Cover: Bresh
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,383 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,420 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 | 10 | [Rompo \(feat\. Boro Boro\)](https://open.spotify.com/track/4oPh7HAoMR1bLBbxwqKmgn) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Filtri](https://open.spotify.com/album/0Rh1xvnuSs3GyZAvpLlkut) | 2:49 |
 | 11 | [La zone \(feat\. Shiva\)](https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [La zone \(feat\. Shiva\)](https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M) | 2:38 |
 | 12 | [10 RAGAZZE \(con ERNIA\)](https://open.spotify.com/track/4rstEjIOddR5CuzzLv2bhS) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [TAXI DRIVER](https://open.spotify.com/album/0u0sBgOAOo8TBlIp1HcrHp) | 2:54 |
-| 13 | [uNa DiReZioNe giUsTa](https://open.spotify.com/track/1ktyKCzfI8hooCJP3X2yP5) | [yungest Moonstar](https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [tha Supreme](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [uNa DiReZioNe giUsTa](https://open.spotify.com/album/51yDwPiJNSAOouxDtp1t3G) | 3:35 |
+| 13 | [uNa DiReZioNe giUsTa](https://open.spotify.com/track/1ktyKCzfI8hooCJP3X2yP5) | [yungest Moonstar](https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [thasup](https://open.spotify.com/artist/2BJ0J98S3dW4AXLboh6EnB) | [uNa DiReZioNe giUsTa](https://open.spotify.com/album/51yDwPiJNSAOouxDtp1t3G) | 3:35 |
 | 14 | [Drippin' in Milano](https://open.spotify.com/track/1TrjxEcRPHvaLF3saKCSs4) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Drippin' in Milano](https://open.spotify.com/album/0yAArQfNMOEnB5G3KvTFcU) | 2:39 |
 | 15 | [STUPIDO](https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:07 |
 | 16 | [Fendi belt](https://open.spotify.com/track/4ilHAZfNxEMbbiM7vwtUOf) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Dolce vita](https://open.spotify.com/album/5T9ljMjmtHAabmMrtYOvN8) | 2:28 |

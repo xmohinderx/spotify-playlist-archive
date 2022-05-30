@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Calvin Harris, Dua Lipa, Young Thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,865 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,895 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 20 | [Melody](https://open.spotify.com/track/13uX19Q1vGbguE0G5OBQjo) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Melody](https://open.spotify.com/album/0kATw1lYCtAOTKhgoqJgGV) | 2:46 |
 | 21 | [Ferrari](https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0) | 3:05 |
 | 22 | [Salvation](https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Salvation](https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R) | 3:07 |
-| 23 | [Back Again \(with Loote\)](https://open.spotify.com/track/4vztjHvge0Yg8HIJpIB3Q0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx) | [HELLRAISERS, Part 3](https://open.spotify.com/album/3BwgBDgdwqRnuU805FMu3N) | 3:01 |
+| 23 | [Back Again](https://open.spotify.com/track/4vztjHvge0Yg8HIJpIB3Q0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx) | [HELLRAISERS, Part 3](https://open.spotify.com/album/3BwgBDgdwqRnuU805FMu3N) | 3:01 |
 | 24 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 |
 | 25 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 |
 | 26 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 |

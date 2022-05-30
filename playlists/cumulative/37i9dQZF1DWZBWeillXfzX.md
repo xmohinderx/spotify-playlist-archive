@@ -4,7 +4,7 @@
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-59 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/5muGSFLefiwB3XW2mQjEIM)
+60 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/5muGSFLefiwB3XW2mQjEIM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Brown Gatton](https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Still](https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw) | 4:10 | 2020-10-21 |  |
 | [Burning Out](https://open.spotify.com/track/5abyTR9t1SuyS8YAQZd6xA) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 3:28 | 2020-10-21 |  |
 | [Change In Me \(The Rebirth\)](https://open.spotify.com/track/1Us67YDRXevQciNQybRvX1) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/1MetDXRjfRNyM5sIO4LzBF) | 4:37 | 2020-10-21 |  |
-| [Chief's Blues](https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Defenestrator](https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h) | 7:08 | 2020-10-21 |  |
+| [Chief's Blues](https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Defenestrator](https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h) | 7:08 | 2020-10-21 | 2022-05-30 |
 | [Chocolate Samurai](https://open.spotify.com/track/0Tnt1pxkoNdX1ZWkRTW8f6) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Have You Lost Your Mind yet?](https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy) | 4:55 | 2020-10-21 |  |
 | [Clawhammer](https://open.spotify.com/track/3LHH5SAytvRIzj2i3XKvLU) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Clawhammer](https://open.spotify.com/album/1ZzwjyLk0uWUYsdMDxXkIS) | 4:30 | 2021-09-03 |  |
 | [Coal Tattoo](https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Railroad Earth](https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y) | [Ashes & Dust](https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04) | 7:26 | 2020-10-21 |  |
@@ -25,11 +25,11 @@
 | [Cotton Candy](https://open.spotify.com/track/31sO0kxpsQiZpw1MWNLL0N) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Purple House](https://open.spotify.com/album/40iKhWSQGwXM5oBL7oJiGX) | 3:55 | 2020-10-21 |  |
 | [Creepin'](https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 3:41 | 2020-10-21 | 2022-05-29 |
 | [Crow Jane](https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Songlines](https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH) | 3:53 | 2020-10-21 |  |
-| [Cry for Me](https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Girls](https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA) | 3:00 | 2020-10-21 | 2022-05-29 |
+| [Cry for Me](https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Girls](https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA) | 3:00 | 2020-10-21 |  |
 | [Dirty](https://open.spotify.com/track/0jx10sJgrjmXhDI14fBI79) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 3:27 | 2020-10-21 |  |
-| [Don't Bring Me Down](https://open.spotify.com/track/4T50jDAzjMQ8KDrhjoPCmf) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Don't Bring Me Down](https://open.spotify.com/album/1FmtnFX0qZPWLQMSfEmuTW) | 4:21 | 2021-06-18 |  |
+| [Don't Bring Me Down](https://open.spotify.com/track/4T50jDAzjMQ8KDrhjoPCmf) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Don't Bring Me Down](https://open.spotify.com/album/1FmtnFX0qZPWLQMSfEmuTW) | 4:21 | 2021-06-18 | 2022-05-30 |
 | [Fade](https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [How Long](https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6) | 4:10 | 2020-10-21 | 2022-05-29 |
-| [Found out the Hard Way](https://open.spotify.com/track/4USHtkju7lWv8YAhmcf3AV) | [Ben Poole](https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3) | [Anytime You Need Me](https://open.spotify.com/album/1X3V7gdTJnzvyh4iAGe0zy) | 5:52 | 2020-10-21 |  |
+| [Found out the Hard Way](https://open.spotify.com/track/4USHtkju7lWv8YAhmcf3AV) | [Ben Poole](https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3) | [Anytime You Need Me](https://open.spotify.com/album/1X3V7gdTJnzvyh4iAGe0zy) | 5:52 | 2020-10-21 | 2022-05-30 |
 | [Go](https://open.spotify.com/track/72weW6yNPOWjxcFhAjQmPW) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Go](https://open.spotify.com/album/4dTILhF8iJY21EgPQP0oZE) | 5:10 | 2021-06-04 |  |
 | [Got to Get Up](https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 2:37 | 2020-10-21 | 2022-05-27 |
 | [Groove With Me](https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5) | 4:01 | 2020-10-21 |  |
@@ -42,6 +42,7 @@
 | [Out Of My Head](https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 3:20 | 2021-04-27 | 2022-05-28 |
 | [Outside Of This Town](https://open.spotify.com/track/1huWqmpiYksaPppQHLDhZP) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 4:08 | 2020-10-21 |  |
 | [Pusher](https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Over Your Head](https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c) | 6:28 | 2020-10-21 |  |
+| [Quite Like You](https://open.spotify.com/track/3ozWXI9fu58MCaxdCxaJEh) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Laurence Jones Band](https://open.spotify.com/album/28xB2lFXPPOBKUDcdRUIMh) | 4:01 | 2020-10-21 |  |
 | [Rattlin' Change](https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 1:03 | 2022-01-28 |  |
 | [Roll With the Punches](https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME) | [Martin Harley](https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX) | [Roll With the Punches](https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1) | 3:11 | 2020-10-21 |  |
 | [Royal Tea](https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/6FsaAloD9oGRXjRKIriR9i) | 4:28 | 2020-10-21 |  |
@@ -65,7 +66,7 @@
 | [When My Train Pulls In](https://open.spotify.com/track/2mdxGlwrhtkuxgzbH7LOIh) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 7:45 | 2020-10-21 |  |
 | [Where Did I Go Wrong](https://open.spotify.com/track/7pi7XTGGaVBzrhlaYH97CV) | [Joey Landreth](https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234) | [Hindsight](https://open.spotify.com/album/0HohoNniglpDithTFEnqaW) | 4:20 | 2020-10-21 |  |
 | [White Rock Beer...8 Cents](https://open.spotify.com/track/0qnwn0g8mOSlKXsgkzPaYe) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [White Rock Beer...8 Cents](https://open.spotify.com/album/4AvOMAxfcrJwUYnjvdNjAu) | 5:53 | 2021-05-14 |  |
-| [Word](https://open.spotify.com/track/627ZKn3BoKHQ7BleTgt3UY) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Vivid Gristle](https://open.spotify.com/album/39wqaKRbnuVTOqlZRi9On0) | 3:57 | 2021-09-10 | 2022-05-27 |
+| [Word](https://open.spotify.com/track/627ZKn3BoKHQ7BleTgt3UY) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Vivid Gristle](https://open.spotify.com/album/39wqaKRbnuVTOqlZRi9On0) | 3:57 | 2021-09-10 |  |
 | [You're Everything](https://open.spotify.com/track/5gnJNseKb5HxcCGCJ8HGZh) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/2VwCtiaK9kUlVrOzfvxNCo) | 6:05 | 2020-10-21 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Alusp\u00fckse",
       "url": "https://open.spotify.com/track/2xtLPeeUmIzM1hFw2qeH4U"
@@ -1397,7 +1397,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 186382,
       "name": "barranco",
       "url": "https://open.spotify.com/track/64Ubdf7jVCp5DqaEZQOFBK"
@@ -2977,7 +2977,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 176603,
       "name": "De Diepte",
       "url": "https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z"
@@ -6497,7 +6497,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
@@ -7065,7 +7065,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 140241,
       "name": "Keep Driving",
       "url": "https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE"
@@ -9078,6 +9078,28 @@
     },
     {
       "album": {
+        "name": "MIDNIGHT",
+        "url": "https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W"
+      },
+      "artists": [
+        {
+          "name": "PLAYAMANE",
+          "url": "https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS"
+        },
+        {
+          "name": "Nateki",
+          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121972,
+      "name": "MIDNIGHT",
+      "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
+    },
+    {
+      "album": {
         "name": "miks mitte",
         "url": "https://open.spotify.com/album/6Vjk3oEtxGcagK7jwy0LJt"
       },
@@ -10101,7 +10123,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 222453,
       "name": "No Excuses",
       "url": "https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7"
@@ -11237,7 +11259,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 232215,
       "name": "Playground",
       "url": "https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ"
@@ -11993,6 +12015,24 @@
       "duration_ms": 229564,
       "name": "RUNITUP (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/13HsOwrwTA5HgLuoaDHncP"
+    },
+    {
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
     },
     {
       "album": {
@@ -15545,7 +15585,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"

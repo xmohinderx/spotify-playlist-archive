@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-164 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
+165 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Older](https://open.spotify.com/track/0hyVcO1sh9NkHmKHs3veRz) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:27 | 2021-12-27 |  |
 | [On My Way](https://open.spotify.com/track/1YOuKAPfqaLEQYgW2ogM3m) | [Emma Constance](https://open.spotify.com/artist/2rzwqbsTmLEFXzjUYLPuhf) | [On My Way](https://open.spotify.com/album/75EQyxbPjpi2woppjlpMZW) | 3:25 | 2022-03-30 | 2022-04-08 |
 | [On My Way](https://open.spotify.com/track/5FRkwf52xmTBh1qj97Q69d) | [Emma Constance](https://open.spotify.com/artist/2rzwqbsTmLEFXzjUYLPuhf) | [On My Way](https://open.spotify.com/album/6cd4NjWYIuzjje45zd2Unf) | 3:25 | 2022-04-07 |  |
+| [on my way](https://open.spotify.com/track/23MeW5kPmzySH9b8TY0gmD) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Songs From Tulip Drive](https://open.spotify.com/album/6MPHnKTSyVGgclUBl20W7W) | 2:57 | 2022-05-29 |  |
 | [Out Of My Head](https://open.spotify.com/track/6ovkLF42qFLN7VqKX0r0jT) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [single.](https://open.spotify.com/album/6XeL8rkWXe5pUdg2uGqmak) | 3:34 | 2021-12-27 |  |
 | [Paranoid](https://open.spotify.com/track/2wCVpdNSHjqIn2en8jAnF0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:12 | 2021-12-27 |  |
 | [Paris in the Rain](https://open.spotify.com/track/41CgzGD7xlgnJe14R4cqkL) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:24 | 2021-12-27 |  |

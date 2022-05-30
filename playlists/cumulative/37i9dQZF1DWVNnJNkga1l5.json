@@ -181,10 +181,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 281520,
       "name": "Az\u00facar Amargo",
       "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
+    },
+    {
+      "album": {
+        "name": "Flans",
+        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209573,
+      "name": "Bazar",
+      "url": "https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE"
     },
     {
       "album": {
@@ -325,7 +343,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 280200,
       "name": "Detr\u00e1s de Mi Ventana",
       "url": "https://open.spotify.com/track/5HV68uszA535kye0HFMDfO"
@@ -397,7 +415,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 217160,
       "name": "El Hombre Que Yo Amo",
       "url": "https://open.spotify.com/track/37VoMBYfOxPDiMPUP5iMIn"
@@ -415,7 +433,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 330373,
       "name": "El Problema",
       "url": "https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 239866,
       "name": "La soledad",
       "url": "https://open.spotify.com/track/1F31sM4SCBmPlg1H3r7wGH"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 334093,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/10dtkq3WqY3Mtqewv4AbJt"
@@ -1175,7 +1193,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 236506,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 273066,
       "name": "Si Me Dejas Ahora",
       "url": "https://open.spotify.com/track/5PrGKIdXRTMBj3OmMOe5w9"
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 266466,
       "name": "Sirena",
       "url": "https://open.spotify.com/track/1fjB9hdAjlHSS9oH5z63qt"
@@ -1521,7 +1539,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 173560,
       "name": "Tu Pirata Soy Yo",
       "url": "https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt"
@@ -1565,7 +1583,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 272800,
       "name": "Un Beso Y Una Flor",
       "url": "https://open.spotify.com/track/5IU4JO2cpa0wPK8oQWFfCr"

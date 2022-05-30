@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-16",
-  "description": "With RuPaul's Drag Race Live, Brian Newman, Alesso and more",
+  "description": "With Colby O'Donis, Jan, Alaska Thunderfuck and more",
   "name": "Lady Gaga Radio",
   "published_playlist_ids": [
     "5wwUkYS2OcCkau5CdCfyc6"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 215480,
       "name": "1000 Doves",
       "url": "https://open.spotify.com/track/62hTXlVQacy3pjBW4ntRPl"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 274213,
       "name": "Alejandro",
       "url": "https://open.spotify.com/track/4lwavw59UjXUPJZtKNdFYp"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 434906,
       "name": "Alejandro - Dave Aude Remix",
       "url": "https://open.spotify.com/track/2zCMaxLZjYEoXPecZnEr6k"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 177600,
       "name": "Alice",
       "url": "https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 212333,
       "name": "Applause",
       "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
@@ -1379,7 +1379,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 263066,
       "name": "Bad Romance - Skrillex Remix",
       "url": "https://open.spotify.com/track/3ipLg66ktOi3Ag0p26ZBbp"
@@ -1653,7 +1653,7 @@
       ],
       "date_added": "2020-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 219493,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
@@ -1812,6 +1812,24 @@
     },
     {
       "album": {
+        "name": "Beyonce Run The World (Girls) [Remix]",
+        "url": "https://open.spotify.com/album/0Pw9KrDypI0ZcZIDN1coGo"
+      },
+      "artists": [
+        {
+          "name": "Miss Rowe",
+          "url": "https://open.spotify.com/artist/6SOj7tjJapPYWG15Febk5U"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239124,
+      "name": "Beyonce Run The World (Girls) - Remix",
+      "url": "https://open.spotify.com/track/3LrRoUyPCa2e9sP6DWc4L4"
+    },
+    {
+      "album": {
         "name": "Slayyyter",
         "url": "https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz"
       },
@@ -1915,7 +1933,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 268120,
       "name": "Big Girls Don't Cry (Personal)",
       "url": "https://open.spotify.com/track/4AniPkv5vgdE1n6VKreiyI"
@@ -2219,7 +2237,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 406013,
       "name": "Born This Way - Bimbo Jones Club Remix",
       "url": "https://open.spotify.com/track/1w6Gx8ap0u8M2djwwMxlZT"
@@ -2567,7 +2585,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 108921,
       "name": "Butterflies...",
       "url": "https://open.spotify.com/track/4tlU5pwlM8ZnVofZqLxleM"
@@ -2851,7 +2869,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 237546,
       "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
       "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
@@ -2999,7 +3017,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 201613,
       "name": "Celebrity",
       "url": "https://open.spotify.com/track/5TfTuipU7TlZh8bki6ZNsW"
@@ -3575,7 +3593,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 181520,
       "name": "Crank It Up",
       "url": "https://open.spotify.com/track/3Min2Z3ZLkjYGlSAwxCtMh"
@@ -3731,7 +3749,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 212957,
       "name": "Dance Forever",
       "url": "https://open.spotify.com/track/5YdI0PKFDkrVyjzH6OFmXA"
@@ -4021,7 +4039,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 177706,
       "name": "Devil",
       "url": "https://open.spotify.com/track/6mfsAvXQ3pTT5tEnKKbxZp"
@@ -4257,7 +4275,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 177163,
       "name": "Domination",
       "url": "https://open.spotify.com/track/5jYQrXOP5yfklpUXcVjgJS"
@@ -4293,7 +4311,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 178480,
       "name": "Don't Call Me Up",
       "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
@@ -4987,7 +5005,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 187160,
       "name": "Feeling So Good",
       "url": "https://open.spotify.com/track/4GAFlFLouTialsJv1kiKaC"
@@ -5373,7 +5391,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 233901,
       "name": "Free Woman - Rina Sawayama & Clarence Clarity Remix",
       "url": "https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH"
@@ -5431,7 +5449,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 173426,
       "name": "Fun Tonight",
       "url": "https://open.spotify.com/track/6hyQVqfHFvsJDjcmj4qrHf"
@@ -5573,6 +5591,32 @@
       "duration_ms": 199593,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT"
+    },
+    {
+      "album": {
+        "name": "Gay Hands Up",
+        "url": "https://open.spotify.com/album/2eBVu6QH6XTlh3vxNniKYq"
+      },
+      "artists": [
+        {
+          "name": "Jan",
+          "url": "https://open.spotify.com/artist/3kjA2xAd5YnNXi5ayMxBFq"
+        },
+        {
+          "name": "Alaska Thunderfuck",
+          "url": "https://open.spotify.com/artist/4p55SV4lkAp6WBXcBImrtm"
+        },
+        {
+          "name": "Peppermint",
+          "url": "https://open.spotify.com/artist/210s1q4wkXp3p2OyCOr790"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Gay Hands Up",
+      "url": "https://open.spotify.com/track/0J3ZBXrhQjL1EHKKYkUXkX"
     },
     {
       "album": {
@@ -5797,7 +5841,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 224083,
       "name": "Girl Of The Year",
       "url": "https://open.spotify.com/track/2994N2DpvyCy4gIRS06wLb"
@@ -6059,7 +6103,7 @@
       ],
       "date_added": "2022-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 136614,
       "name": "Good Ones",
       "url": "https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM"
@@ -6349,6 +6393,24 @@
       "duration_ms": 197640,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/4efdhHdTAS3sYJnI0mjHDc"
+    },
+    {
+      "album": {
+        "name": "There Will Be Tears",
+        "url": "https://open.spotify.com/album/0Rq0YANjTxmxxq9nXVd64w"
+      },
+      "artists": [
+        {
+          "name": "VINCINT",
+          "url": "https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205930,
+      "name": "Hard 2 Forget",
+      "url": "https://open.spotify.com/track/3ryUZShGkAcKw10fxyBaNt"
     },
     {
       "album": {
@@ -7148,6 +7210,24 @@
     },
     {
       "album": {
+        "name": "I Am What I Am",
+        "url": "https://open.spotify.com/album/2IXU4jYEgRFMJiOsdLM2Pw"
+      },
+      "artists": [
+        {
+          "name": "Emma Muscat",
+          "url": "https://open.spotify.com/artist/112CaF6ayJD0CIe64FjhhX"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182196,
+      "name": "I Am What I Am",
+      "url": "https://open.spotify.com/track/1FtqYazfNvsqR4CQvzrrD3"
+    },
+    {
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
@@ -7445,7 +7525,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 19453,
       "name": "I Love You - Dialogue",
       "url": "https://open.spotify.com/track/51ZgAMeyKwDjWhNDQExrsk"
@@ -7579,7 +7659,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 200655,
       "name": "I Want Love (twocolors Remix) with Billy Porter & twocolors",
       "url": "https://open.spotify.com/track/5VCeOT5YAyy0mrdE72IeCN"
@@ -7761,7 +7841,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 210346,
       "name": "I'll Do It",
       "url": "https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB"
@@ -7935,7 +8015,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 240226,
       "name": "I'm Outta Love - Hex Hector Radio Edit",
       "url": "https://open.spotify.com/track/6KMdMe54uoAcCdffmvyiic"
@@ -7979,6 +8059,24 @@
       "duration_ms": 185933,
       "name": "I've Got You Under My Skin",
       "url": "https://open.spotify.com/track/6jz5HzDmPuQ24U7u7KfKGw"
+    },
+    {
+      "album": {
+        "name": "I.M",
+        "url": "https://open.spotify.com/album/4J7CE59Na4Zkp7vGecENrX"
+      },
+      "artists": [
+        {
+          "name": "Michael Ben David",
+          "url": "https://open.spotify.com/artist/3ZOg74Rm98FXI86cSo0nIk"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163041,
+      "name": "I.M",
+      "url": "https://open.spotify.com/track/4Bpz4FBsoe9lhuiCWZv21x"
     },
     {
       "album": {
@@ -8195,7 +8293,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 180986,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/2eGkOAOi972MzM5optdlT7"
@@ -8463,7 +8561,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
@@ -8655,7 +8753,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 195849,
       "name": "Kitty Girl (feat. The Cast of Rupaul's Drag Race All Stars, Season 3)",
       "url": "https://open.spotify.com/track/6ecG7zlvn65piigZIjEgFc"
@@ -9203,7 +9301,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 156245,
       "name": "LITTLE NOKIA (feat. Rico Nasty) - REMIX / BONUS TRACK",
       "url": "https://open.spotify.com/track/3jVoY0vaTlfHhpDOOHqrEE"
@@ -9337,7 +9435,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 213500,
       "name": "Losing is the New Winning",
       "url": "https://open.spotify.com/track/2ZZKU0M4flhnJ2LO45iwqu"
@@ -9905,7 +10003,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 199786,
       "name": "MANiCURE",
       "url": "https://open.spotify.com/track/70VukjWPu4TR2xQSRaEwlL"
@@ -10372,6 +10470,24 @@
     },
     {
       "album": {
+        "name": "Just A Pretty Face?",
+        "url": "https://open.spotify.com/album/0T4oFzxvubAjgxf521BbVb"
+      },
+      "artists": [
+        {
+          "name": "ABREU",
+          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195653,
+      "name": "Music Everywhere",
+      "url": "https://open.spotify.com/track/6EkkLt9Zjb4uQWlRnbqpIy"
+    },
+    {
+      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -10643,7 +10759,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 248453,
       "name": "Never Close Our Eyes",
       "url": "https://open.spotify.com/track/3GDX2vk9Omok7DDvg7vOpq"
@@ -10911,7 +11027,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 181640,
       "name": "Not Like That",
       "url": "https://open.spotify.com/track/6OLztNeqXZu5Uh6YmmzQxC"
@@ -11417,7 +11533,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 176843,
       "name": "Over This!",
       "url": "https://open.spotify.com/track/48v1KNoMb1aRYMfZ8qUr1e"
@@ -11487,7 +11603,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM"
@@ -11682,6 +11798,24 @@
     },
     {
       "album": {
+        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+      },
+      "artists": [
+        {
+          "name": "The Barden Bellas",
+          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62613,
+      "name": "Party In The U.S.A.",
+      "url": "https://open.spotify.com/track/7c2KF18pPpaN8Hy5MiNNWs"
+    },
+    {
+      "album": {
         "name": "INSIDE OUT",
         "url": "https://open.spotify.com/album/4JI4hl75zZaraeCkKswfjJ"
       },
@@ -11853,7 +11987,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 205722,
       "name": "Play With You",
       "url": "https://open.spotify.com/track/1vBKCJk1exf5bDRwpehvvR"
@@ -11907,7 +12041,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 237200,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
@@ -12001,7 +12135,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 188160,
       "name": "PRE MADONNA",
       "url": "https://open.spotify.com/track/7HEVw1CmTyeCvB1RjpVf1i"
@@ -12121,7 +12255,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 263030,
       "name": "Private Life",
       "url": "https://open.spotify.com/track/3FkyJH5uE5XmN3voocBcYK"
@@ -12237,6 +12371,28 @@
       "duration_ms": 244761,
       "name": "QUEEN",
       "url": "https://open.spotify.com/track/78M3KcOo6yIVBKxSiwG3Gp"
+    },
+    {
+      "album": {
+        "name": "Queen of the North",
+        "url": "https://open.spotify.com/album/1U3guR3sH9zgcIo21HdhxW"
+      },
+      "artists": [
+        {
+          "name": "Brooke Lynn Hytes",
+          "url": "https://open.spotify.com/artist/47LGXKBrbRNlIicSFKI0kf"
+        },
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197945,
+      "name": "Queen of the North",
+      "url": "https://open.spotify.com/track/1y2qpCzDD6i9Wa970Ri8w0"
     },
     {
       "album": {
@@ -12758,6 +12914,28 @@
     },
     {
       "album": {
+        "name": "Rock Star",
+        "url": "https://open.spotify.com/album/02VpjoEySLvUpFfXspGkO1"
+      },
+      "artists": [
+        {
+          "name": "Mattu",
+          "url": "https://open.spotify.com/artist/1GxVO1YvMaSyl8lu7Jqrl5"
+        },
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123491,
+      "name": "Rock Star",
+      "url": "https://open.spotify.com/track/5hNKq3FkjW0z8bSUVGujMs"
+    },
+    {
+      "album": {
         "name": "What Is Love? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
       },
@@ -13095,7 +13273,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 213173,
       "name": "Sarah Come Home",
       "url": "https://open.spotify.com/track/0178e3xmFBH9dboFXVeNya"
@@ -13431,7 +13609,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 197240,
       "name": "Sexy! No No No...",
       "url": "https://open.spotify.com/track/2g0Lrr2wGi1i8Fizosd1GG"
@@ -13650,6 +13828,24 @@
     },
     {
       "album": {
+        "name": "Sorry I'm Late",
+        "url": "https://open.spotify.com/album/7tG9wuLLbhOx38KY9JBTU7"
+      },
+      "artists": [
+        {
+          "name": "Cher Lloyd",
+          "url": "https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235093,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/2wg4TZ4WENyLGhOoQncz6r"
+    },
+    {
+      "album": {
         "name": "Born Naked",
         "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
       },
@@ -13701,7 +13897,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 238500,
       "name": "Sitting Alone In The VIP (feat. Kandy Muse) - Beat Salon Mix",
       "url": "https://open.spotify.com/track/4WEeB5OwzQhASm1YkAnyim"
@@ -14101,7 +14297,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 200600,
       "name": "Something Kinda Ooooh",
       "url": "https://open.spotify.com/track/5YTSbfnyJRqul0H8kmamg3"
@@ -14119,7 +14315,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 201041,
       "name": "Something New",
       "url": "https://open.spotify.com/track/31a7zOMhffLZ0i2vbHSTeH"
@@ -14137,7 +14333,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 42040,
       "name": "Somewhere Over The Rainbow - Dialogue",
       "url": "https://open.spotify.com/track/4fIdH1l3SS0qdYRJiHwUnO"
@@ -14723,7 +14919,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 188506,
       "name": "Superficial",
       "url": "https://open.spotify.com/track/6Kjiu3Sz4hfDGxRToIEBdL"
@@ -14853,7 +15049,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 108000,
       "name": "Sweet and Sour",
       "url": "https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE"
@@ -15461,7 +15657,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 320586,
       "name": "The Edge Of Glory",
       "url": "https://open.spotify.com/track/0JNdS1n0ifOP25XvhwAMgM"
@@ -15523,7 +15719,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 393626,
       "name": "The Edge Of Glory - Sultan & Ned Shepard Remix",
       "url": "https://open.spotify.com/track/7y1kZzgznhJToWJLPqiJIo"
@@ -15545,7 +15741,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 236226,
       "name": "The Fame - Glam As You Remix - Radio Edit Version",
       "url": "https://open.spotify.com/track/6FW2URcnq5hxOaNDxg1uyN"
@@ -15736,6 +15932,28 @@
     },
     {
       "album": {
+        "name": "There She Goes",
+        "url": "https://open.spotify.com/album/6lIsiWfNLzYcGQE6FmwJwt"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Moto Blanco",
+          "url": "https://open.spotify.com/artist/2faLHCwToqDd4C53QiWIKj"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205078,
+      "name": "There She Goes - Moto Blanco Remix",
+      "url": "https://open.spotify.com/track/1Bc0072CKgrMNsTXDBjM1g"
+    },
+    {
+      "album": {
         "name": "Cheek To Cheek (Deluxe)",
         "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
       },
@@ -15813,7 +16031,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 216204,
       "name": "This Is Me - Dave Aud\u00e9 Remix; from \"The Greatest Showman\"",
       "url": "https://open.spotify.com/track/1NNhZKNrg8WVmU6Ok8TDtO"
@@ -15885,7 +16103,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 185594,
       "name": "Throatzillaaa",
       "url": "https://open.spotify.com/track/7rb805dDO8PhRSXrcwq1U1"
@@ -16201,7 +16419,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 241632,
       "name": "Troubled Paradise",
       "url": "https://open.spotify.com/track/30qNNWs5kUgcviZxOrQRTo"
@@ -16273,7 +16491,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 63706,
       "name": "Twelve Notes - Dialogue",
       "url": "https://open.spotify.com/track/5BIWSuX4Bto9f8xuXhOyJn"
@@ -16295,7 +16513,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 187689,
       "name": "U Wear It Well (feat. The Cast of Canada's Drag Race, Season 1) - Queens of the North Ru-Mix",
       "url": "https://open.spotify.com/track/0EtxPFlhGrIK40OtqVMolb"
@@ -16681,7 +16899,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 214573,
       "name": "Want U Back",
       "url": "https://open.spotify.com/track/6E11E0lT5Zy7yb6iT3y8DN"
@@ -17347,7 +17565,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 220601,
       "name": "Wig",
       "url": "https://open.spotify.com/track/0yj26qPypXRRG3QEfzcZT2"
@@ -17547,7 +17765,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 142677,
       "name": "Words (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"

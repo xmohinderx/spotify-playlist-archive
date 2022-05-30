@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Anuel AA
 
-1,263 songs - 2 day 19 hr 21 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+1,264 songs - 2 day 19 hr 24 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -935,6 +935,7 @@
 | [Querido Ex Amor \(En Vivo\)](https://open.spotify.com/track/0sxUALE5zJjNBlida8NALL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Querido Ex Amor \(En Vivo\)](https://open.spotify.com/album/3EE2AwVMOWthcfk1b5d6iR) | 3:31 | 2022-04-29 | 2022-05-07 |
 | [Quien TV Remix](https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Quien TV Remix](https://open.spotify.com/album/1jUjEXT01RukxK6RfABeYL) | 2:43 | 2022-01-28 | 2022-02-05 |
 | [Quiere Ma](https://open.spotify.com/track/2X7etJmsm4E4JayfAzfIYR) | [Benji Gramitos](https://open.spotify.com/artist/0qo0qirBort7v7IMWHVC3c), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj) | [Quiere Ma](https://open.spotify.com/album/06WwZnsdNDqlR9newMzVXS) | 2:36 | 2022-05-06 | 2022-05-14 |
+| [Quiero](https://open.spotify.com/track/7tOcwv1ENXKvqgYKKDqz2X) | [Alevalen](https://open.spotify.com/artist/1HhICZ4CIzbXKrd16k870U) | [Quiero](https://open.spotify.com/album/1Z1unOCT3lftwlgHUJqFjz) | 2:36 | 2022-05-29 |  |
 | [Quiero \- TDH's Version](https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Quiero \(TDH's Version\)](https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL) | 2:37 | 2022-05-20 | 2022-05-28 |
 | [Quiero Decirte](https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Quiero Decirte](https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar) | 3:42 | 2022-05-13 | 2022-05-20 |
 | [Quiero Quedarme para Siempre](https://open.spotify.com/track/3du9ocej65TycajaDfw8j9) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Quiero Quedarme para Siempre](https://open.spotify.com/album/7AQmikvyjRWLYx5cey4JIG) | 3:09 | 2022-04-08 | 2022-04-16 |

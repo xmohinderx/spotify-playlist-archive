@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,868 likes - 46 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,876 likes - 46 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 21 | [Lasidan \(with Ry Cooder\)](https://open.spotify.com/track/6Yq9dTtHeuMkvnfcEZZFex) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 6:06 |
 | 22 | [Doudou](https://open.spotify.com/track/0nF3QZLQ8O1vQ4SjD3IdRS) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 4:47 |
 | 23 | [Goye Kur \- 2017 Remastered Version](https://open.spotify.com/track/5VkD522syW1UKAEMHPNhF2) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 6:17 |
-| 24 | [Soumbou ya ya](https://open.spotify.com/track/1NLomex6hDLDMCej9NR0BN) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 3:28 |
+| 24 | [Simbo](https://open.spotify.com/track/39M353KyEDfl468Bm69s3L) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 3:59 |
 | 25 | [Erdi](https://open.spotify.com/track/7oLZWt9WYY6MebC8RMXOdR) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 4:41 |
 | 26 | [Allah Uya](https://open.spotify.com/track/5GhrRWZZez52XUAlZ3aHRE) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 4:31 |
 | 27 | [Inchana Massina \(feat\. Nitin Sawhney\) \- 2017 Remastered Version](https://open.spotify.com/track/3wvU3SK6KD2m4y5eOEAGjR) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 5:08 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 35 | [Timbarma](https://open.spotify.com/track/2DMNbBoZnuDkQcoFjRiAMb) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Ali Farka Touré](https://open.spotify.com/album/1aX7oOVYryzsfu2wWk9hok) | 5:08 |
 | 36 | [Goydiotodam](https://open.spotify.com/track/2fqcpLdEA1wVrL3mGNQ32v) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 6:24 |
 | 37 | [Yer Bounda Fara](https://open.spotify.com/track/56diuxLa7MlePUpjTBRswc) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 4:16 |
-| 38 | [Cinquante six \- Instrumental;2017 Remastered Version](https://open.spotify.com/track/0mfFiMRU8Xr79DL97XPv7O) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 5:28 |
-| 39 | [Yer Mali Gakoyoyo](https://open.spotify.com/track/7ezY0xMgRoKDiBHjnUzOJT) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Radio Mali](https://open.spotify.com/album/2GCbmW2Rtrs9hg7XrwdXgP) | 4:48 |
+| 38 | [Yer Mali Gakoyoyo](https://open.spotify.com/track/7ezY0xMgRoKDiBHjnUzOJT) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Radio Mali](https://open.spotify.com/album/2GCbmW2Rtrs9hg7XrwdXgP) | 4:48 |
+| 39 | [Cinquante six \- Instrumental;2017 Remastered Version](https://open.spotify.com/track/0mfFiMRU8Xr79DL97XPv7O) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 5:28 |
 | 40 | [Tulumba](https://open.spotify.com/track/3dDuNtU56FIC8crdNgqDrJ) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 5:22 |
 | 41 | [Penda Yoro](https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 5:21 |
 | 42 | [Jungou](https://open.spotify.com/track/4BYctbh0cJOBwoTv8U8tym) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 7:23 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 45 | [Singya](https://open.spotify.com/track/48ugorCHzJLtcw59Kk0NQh) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Ali Farka Touré](https://open.spotify.com/album/1aX7oOVYryzsfu2wWk9hok) | 5:25 |
 | 46 | [Toungere](https://open.spotify.com/track/0K3W6FrcGzkgYJjYwa8m17) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 7:31 |
 
-Snapshot ID: `Mjc1NjI1ODAsMDAwMDAwMDA1NWJiYjI2YWRmNDc0YWQyOGJhYjFkZTYwNzc5MTYwYQ==`
+Snapshot ID: `Mjc1NjM4NzMsMDAwMDAwMDBkMmNiNDAzN2RiMzhhMWIxMDU4NTYzNWJhYjYwYzRmYg==`

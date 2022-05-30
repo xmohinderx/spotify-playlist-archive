@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: Brave Girls\(브레이브 걸스\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,831 likes - 200 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,997 likes - 200 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 60 | [Convey one's feelings](https://open.spotify.com/track/2nmTLVKaTTIOM2eElmBsbV) | [SOONHO](https://open.spotify.com/artist/2UqlLjKZ5xxvBO6tmYMAp4) | [Convey one's feelings](https://open.spotify.com/album/5yMDSynklNUmFbOCZTd78b) | 2:59 |
 | 61 | [Not Anymore](https://open.spotify.com/track/2HJ5BHQ3pguvRIiCXqXuL7) | [VAITEI](https://open.spotify.com/artist/3ql4XNI00x7aUyzk26dDNO) | [Not Anymore](https://open.spotify.com/album/1qen2YeRQZv51XhBBcie3X) | 2:49 |
 | 62 | [Act Like](https://open.spotify.com/track/5Opnlo3zDgmrv9IvwbMRRi) | [2LSON](https://open.spotify.com/artist/2AMTVJeuaSJHOatQS448YY), [Jiwon Kim](https://open.spotify.com/artist/43ZkBHIcmBqbUDtiqRIMs6) | [Act Like](https://open.spotify.com/album/1JVBqd8J7qauWDvHQEFxqE) | 4:06 |
-| 63 | [In Love](https://open.spotify.com/track/7l5jRQKi45x95nFDZQOd0r) | [Darren](https://open.spotify.com/artist/1bjpcDLd2UXWbREmVOBS28), [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [In Love](https://open.spotify.com/album/4JS8nnbFa3PiSbDBkT86yb) | 3:34 |
+| 63 | [In Love](https://open.spotify.com/track/7l5jRQKi45x95nFDZQOd0r) | [Darren](https://open.spotify.com/artist/3eFR9X6uVX28Lb5jJqPIwy), [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [In Love](https://open.spotify.com/album/4JS8nnbFa3PiSbDBkT86yb) | 3:34 |
 | 64 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 |
 | 65 | [How Come](https://open.spotify.com/track/7uGuwtEGapMzkiRRl4O32a) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [How Come](https://open.spotify.com/album/47auHySKFWcInG4hDJTWAi) | 3:37 |
 | 66 | [Such a thing](https://open.spotify.com/track/1YR0ivxbjdQBzp3eYP3p3z) | [Park Min Hye](https://open.spotify.com/artist/0rFLNocK3XicCj7JZs63h4) | [Such a thing](https://open.spotify.com/album/4l29ZCHanvEhGA5xZdPZDK) | 4:26 |

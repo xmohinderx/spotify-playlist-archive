@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Calvin Harris, Dua Lipa, Young Thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,725 likes - 79 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,726 likes - 79 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

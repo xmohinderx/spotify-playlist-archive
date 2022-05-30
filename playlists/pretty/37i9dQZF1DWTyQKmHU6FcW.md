@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 
 > Elvis Presley's most romantic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,673 likes - 36 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,797 likes - 36 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 | 18 | [Love Letters](https://open.spotify.com/track/4WrhD1kIZOmicPXHVSxbwC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The 50 Greatest Love Songs](https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS) | 2:49 |
 | 19 | [For Ol' Times Sake](https://open.spotify.com/track/7DSUykao1FtU4vfFReDsfd) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Raised On Rock](https://open.spotify.com/album/2ZRE01JESBDtXwXckqGZY6) | 3:36 |
 | 20 | [Have I Told You Lately That I Love You](https://open.spotify.com/track/788AeYEaCvfFmuIHhb64Wn) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 2:30 |
-| 21 | [I Can't Stop Loving You \- Live](https://open.spotify.com/track/27UvL4m5Si1QmlXdBIEaVt) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis: Close Up](https://open.spotify.com/album/3kBT5ef0KWAuZokS4IWV7C) | 2:25 |
+| 21 | [I Can't Stop Loving You \- Live at Convention Center Arena, San Antonio, TX \- April 18, 1972](https://open.spotify.com/track/27UvL4m5Si1QmlXdBIEaVt) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis: Close Up](https://open.spotify.com/album/3kBT5ef0KWAuZokS4IWV7C) | 2:25 |
 | 22 | [Loving You](https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 2:13 |
 | 23 | [There Goes My Everything](https://open.spotify.com/track/0BUPl8PH68Vjqp6WxQNRvD) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The 50 Greatest Love Songs](https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS) | 2:57 |
 | 24 | [I'll Remember You](https://open.spotify.com/track/4yt0DRCLWr1608bGXGcD5u) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Spinout](https://open.spotify.com/album/3ZxrkkUoGwgAJHxtsmYi8M) | 2:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La crème de la crème of Montréal's music scene\. Photo: Clay and Friends, Louis\-Jean Cormier
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,020 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,072 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 95 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 |
 | 96 | [Animal \(feat\. Geoffroy\)](https://open.spotify.com/track/19DnkdlcmVu9IKotPQ7KIz) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Animal](https://open.spotify.com/album/4ueHmbivLZuyx2aHmRy8kz) | 4:36 |
 | 97 | [East Angus 1998](https://open.spotify.com/track/7JJNsPiJyMNyRtZTx4qhMN) | [Lizzy & the Fanatics](https://open.spotify.com/artist/7l4sVkNSc4v6058rs4GnJr) | [East Angus 1998](https://open.spotify.com/album/7JsmNAXZRIncXqlvu1qkZx) | 3:54 |
-| 98 | [Tôt ou tard](https://open.spotify.com/track/0JYJz0PGXsAgxe5sOZfCSf) | [Valence](https://open.spotify.com/artist/3OhBIgB6m4ddX1tiDIaQoq) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 3:57 |
+| 98 | [Tôt ou tard](https://open.spotify.com/track/0JYJz0PGXsAgxe5sOZfCSf) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 3:57 |
 | 99 | [La vie ce n'est qu'un rêve](https://open.spotify.com/track/3PxTVq57d0XcGxM2xVRC3Q) | [Efy Hecks](https://open.spotify.com/artist/4wIYnRyhOUsYlfOyYgRFv5) | [Somnifère](https://open.spotify.com/album/4OgOjuzYRDMh2t9fWCISHy) | 4:40 |
 | 100 | [Amazone \(feat\. Laurence Camille\)](https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [Électro\-Vacances](https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5) | 3:06 |
 

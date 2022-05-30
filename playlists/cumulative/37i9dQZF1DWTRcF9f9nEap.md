@@ -4,21 +4,22 @@
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-55 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/1FcICrbevbT0gAXUKq6YSS)
+56 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/1FcICrbevbT0gAXUKq6YSS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 Cars](https://open.spotify.com/track/6InflvdGdVB2QOJQXIPPRu) | [Colin Linden](https://open.spotify.com/artist/6bFn0wonviH3NJmY1FSNkZ) | [4 Cars](https://open.spotify.com/album/02jDWz1Dyidvl6zV05SOJn) | 3:29 | 2022-05-19 |  |
-| [Ain't Got Nobody](https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 3:30 | 2022-05-19 |  |
+| [Ain't Got Nobody](https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 3:30 | 2022-05-19 | 2022-05-30 |
 | [Ain't No Easy Way](https://open.spotify.com/track/3mwYCSicojJnRCGEjFpCRf) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/4ThAx2fMZkAdaqHm1v34PP) | 2:36 | 2022-05-19 |  |
 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 | 2022-05-19 |  |
 | [Available Space](https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Ry Cooder](https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd) | 2:14 | 2022-05-19 |  |
 | [Bad Girl Blues](https://open.spotify.com/track/6ggPB95qGDTzT6orcg2d8r) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree](https://open.spotify.com/album/6dVzmBcjw1033jfE8erIH4) | 4:34 | 2022-05-19 |  |
+| [Bad To The Bone](https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [BAD TO THE BONE](https://open.spotify.com/album/2YeoeDa3soxjD4ANZGG1fj) | 4:52 | 2022-05-19 |  |
 | [Catch Hell Blues](https://open.spotify.com/track/064unATFKRpnOwL1Yfvp39) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:18 | 2022-05-19 |  |
 | [Congo Square](https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [South Of I\-10](https://open.spotify.com/album/3bmO15uks5XJehH4HVfjRO) | 6:20 | 2022-05-19 |  |
 | [Dark Was the Night, Cold Was the Ground](https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 3:18 | 2022-05-19 |  |
 | [Death Letter](https://open.spotify.com/track/7xMVMDMXoDUZfDP1zvDCMk) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/0vkb15L7oNuvVcznJRE7xc) | 4:29 | 2022-05-19 |  |
-| [Death Letter Blues](https://open.spotify.com/track/10Gk3art7qE7JKBe6jhN4E) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [The Roots](https://open.spotify.com/album/0qiFwGYof01onnlq0DhZUy) | 5:28 | 2022-05-19 | 2022-05-28 |
+| [Death Letter Blues](https://open.spotify.com/track/10Gk3art7qE7JKBe6jhN4E) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [The Roots](https://open.spotify.com/album/0qiFwGYof01onnlq0DhZUy) | 5:28 | 2022-05-19 |  |
 | [Death Letter Blues](https://open.spotify.com/track/5fO2jCKeCHRIduCq7X7O5e) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Martin Scorsese Presents The Blues: Son House](https://open.spotify.com/album/4HsEjPkFlM2XYST7SS73g4) | 4:19 | 2022-05-19 |  |
 | [Death Row](https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Gone to Texas](https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ) | 4:07 | 2022-05-19 |  |
 | [Devil's Slide](https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Don't Let The Bossman Get You Down!](https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb) | 2:56 | 2022-05-19 | 2022-05-29 |
@@ -62,6 +63,6 @@
 | [The Sky Is Crying](https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Moneymaker: The Best of the Fire Sessions](https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj) | 2:46 | 2022-05-19 |  |
 | [Walkin' Blues](https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Fight](https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK) | 4:22 | 2022-05-19 |  |
 | [Walkin' Blues](https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd) | [Roy Rogers](https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe) | [Prime Chops](https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy) | 4:35 | 2022-05-19 |  |
-| [You Got to Move](https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Steakbone Slide Guitar](https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn) | 2:59 | 2022-05-19 |  |
+| [You Got to Move](https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Steakbone Slide Guitar](https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn) | 2:59 | 2022-05-19 | 2022-05-30 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

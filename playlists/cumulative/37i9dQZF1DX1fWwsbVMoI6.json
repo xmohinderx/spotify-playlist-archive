@@ -27,7 +27,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 215344,
       "name": "Amor a Primera Vista",
       "url": "https://open.spotify.com/track/3HdmvjU85zNE1vgrzy3pPp"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 224313,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/4OeH2AOHW84cdsrK4PFbfG"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 219951,
       "name": "Cambio Mi Coraz\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/0C7Uv6gVlrdXTZTVi8Yal2"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 189730,
       "name": "Cerveza",
       "url": "https://open.spotify.com/track/33ek6CHUmrNH33hfYlUl7B"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 1203760,
       "name": "Cumbias Pegaditas Mix 1",
       "url": "https://open.spotify.com/track/1KZpDYhD4ke4QipSxp4mbP"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 223948,
       "name": "El Ritmo de Mi Corazon",
       "url": "https://open.spotify.com/track/2RFMVm8ox1fX27BJLFhvLz"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 246538,
       "name": "Falso Amor",
       "url": "https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 235105,
       "name": "He Sentido Amor",
       "url": "https://open.spotify.com/track/2omcZyahahtsgUkSLwbkdc"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 247082,
       "name": "J\u00farame",
       "url": "https://open.spotify.com/track/2jlvQG0RDIj5KgnM2xjlUk"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 218101,
       "name": "La Caballita",
       "url": "https://open.spotify.com/track/57njETyUk3WXYhXiPSa74P"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 239926,
       "name": "Lejos de ti",
       "url": "https://open.spotify.com/track/5swSEvh2lXYFpGWX0pS2Ki"
@@ -630,6 +630,24 @@
     },
     {
       "album": {
+        "name": "A Llorar a Otra Parte",
+        "url": "https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc"
+      },
+      "artists": [
+        {
+          "name": "Hnos Yaipen",
+          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233813,
+      "name": "L\u00e1rgate",
+      "url": "https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR"
+    },
+    {
+      "album": {
         "name": "Me Emborrachar\u00e9",
         "url": "https://open.spotify.com/album/3wXwoHLYaapEjLT7xJvSgR"
       },
@@ -641,7 +659,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 221360,
       "name": "Me Emborrachar\u00e9",
       "url": "https://open.spotify.com/track/0n4QVxj2AXGpdn1RhUSo9K"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 300016,
       "name": "Mix: Pimpinela",
       "url": "https://open.spotify.com/track/1PzXI9Gm4u1ktAhdWpMhLS"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 248053,
       "name": "No Te Creas Tan Importante",
       "url": "https://open.spotify.com/track/7jlbNMjcYOF89FWhi5Jqzb"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 219979,
       "name": "Pecadora 2020 - Versi\u00f3n Cumbia",
       "url": "https://open.spotify.com/track/1Y1FQQETtjQ6mGQPNSn4TS"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 185505,
       "name": "Por Qu\u00e9 Te Fuiste",
       "url": "https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 213577,
       "name": "Propiedad Privada",
       "url": "https://open.spotify.com/track/4ryB3aHkRLR6Dao9xf7bCh"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 277296,
       "name": "Te burlaste de mi",
       "url": "https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg"
@@ -1193,7 +1211,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 246549,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/7LCyetqC0dra5wnypug3gH"

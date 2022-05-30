@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 255638,
       "name": "Asteria",
       "url": "https://open.spotify.com/track/3vcmc3kheY2009Lt5p7giZ"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 184123,
       "name": "Carpe Diem",
       "url": "https://open.spotify.com/track/0IvtIcfo55vpv0OuG3akRm"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 274716,
       "name": "cielo",
       "url": "https://open.spotify.com/track/5vgp6EADwZ1gxHn2La8J0V"
@@ -400,6 +400,32 @@
     },
     {
       "album": {
+        "name": "Dancing On Dangerous",
+        "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Dancing On Dangerous",
+      "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
+    },
+    {
+      "album": {
         "name": "Deep Lies",
         "url": "https://open.spotify.com/album/48n5az0Eky1MyA3LQMNRLz"
       },
@@ -457,7 +483,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 185625,
       "name": "Deliciosa",
       "url": "https://open.spotify.com/track/4y3nepjBAX0GOz3gJ1wx3z"
@@ -573,7 +599,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 183870,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE"
@@ -791,7 +817,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 127026,
       "name": "Fake It Till You Make It",
       "url": "https://open.spotify.com/track/4kD4w6XFGxaABGiwOmqsXq"
@@ -813,7 +839,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 180918,
       "name": "Filosof\u00eda",
       "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
@@ -945,7 +971,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 424918,
       "name": "Hands On Your Knees",
       "url": "https://open.spotify.com/track/37fLAiTpfO04K91ciBndCV"
@@ -1017,7 +1043,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 369828,
       "name": "Highway - Original Mix",
       "url": "https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr"
@@ -1297,7 +1323,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 170666,
       "name": "La Rosa del Penal (Llamar)",
       "url": "https://open.spotify.com/track/0MyOKtPKUEgvMz7SHHwf45"
@@ -1319,7 +1345,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 327348,
       "name": "Le Dome",
       "url": "https://open.spotify.com/track/7uKKVNn2svkLSqZur9hnCO"
@@ -1359,7 +1385,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 243000,
       "name": "Levante la Mano (Tonga Conga Remix)",
       "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
@@ -1377,7 +1403,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 290763,
       "name": "Life Crashes",
       "url": "https://open.spotify.com/track/4OLqSZNBStY9H6LdtXu5Kz"
@@ -1495,7 +1521,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 203520,
       "name": "Location",
       "url": "https://open.spotify.com/track/5tzMYHFfYJksWb9AfFi93b"
@@ -1755,7 +1781,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 210967,
       "name": "Need You",
       "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
@@ -1965,7 +1991,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 184918,
       "name": "Only One",
       "url": "https://open.spotify.com/track/3w6JyzlT07ySZPpiWpbfne"
@@ -2115,7 +2141,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 204427,
       "name": "Petricor",
       "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
@@ -2155,7 +2181,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 208780,
       "name": "Play Da Funk",
       "url": "https://open.spotify.com/track/0SeJMpQozqVX8wB95n5a88"
@@ -2217,7 +2243,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 318085,
       "name": "Power",
       "url": "https://open.spotify.com/track/07Wk4bHfATSCf3IaQRTkVF"
@@ -2239,7 +2265,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 197419,
       "name": "Power Of Harmony",
       "url": "https://open.spotify.com/track/6d8ohU62b9EUQZnMS592Bq"
@@ -2580,6 +2606,28 @@
     },
     {
       "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/4KSw7LdRE05BtwuspdSzWM"
+      },
+      "artists": [
+        {
+          "name": "Mijangos",
+          "url": "https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf"
+        },
+        {
+          "name": "Lee Wilson",
+          "url": "https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354178,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/4abIT4XGykGVMWclOKTZC3"
+    },
+    {
+      "album": {
         "name": "T\u00e1ndem 003",
         "url": "https://open.spotify.com/album/71edUZkWDVsyQjUwC4Bb3d"
       },
@@ -2847,7 +2895,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 201230,
       "name": "Thousand Drums",
       "url": "https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr"
@@ -2965,7 +3013,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 217478,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/0UT4v8phNkia6bnZLX1ewM"
@@ -3049,7 +3097,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 252579,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
@@ -3089,7 +3137,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 216960,
       "name": "What U Doin' to Me",
       "url": "https://open.spotify.com/track/5BLIiXUCaGWoLduRdXMkbm"

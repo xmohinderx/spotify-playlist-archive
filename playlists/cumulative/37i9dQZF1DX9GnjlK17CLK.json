@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Shake Down",
+        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown",
+          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210106,
+      "name": "Ain't Superstitious",
+      "url": "https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK"
+    },
+    {
+      "album": {
         "name": "Al's Big Deal",
         "url": "https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn"
       },
@@ -265,7 +283,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 164773,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/00PHw50If2awJ3cbV9OVbD"
@@ -341,6 +359,28 @@
       "duration_ms": 231333,
       "name": "I'm A King Bee",
       "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
+    },
+    {
+      "album": {
+        "name": "Chicago Blues Session Volume 12",
+        "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        },
+        {
+          "name": "Pinetop Perkins",
+          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214053,
+      "name": "I'm gonna let you go",
+      "url": "https://open.spotify.com/track/21W05izeUBHiH5GCcxNCwt"
     },
     {
       "album": {
@@ -553,7 +593,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 207000,
       "name": "Nine Below Zero",
       "url": "https://open.spotify.com/track/1OOgibj50nhRqNqUVQWuoi"
@@ -897,7 +937,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 175200,
       "name": "The Super-Natural",
       "url": "https://open.spotify.com/track/5WralwF47zqlIgIzxYburB"
@@ -933,7 +973,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 221360,
       "name": "Things I Used to Do",
       "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"

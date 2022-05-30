@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, MK, Galantis, Alok, Alan Walker, KIDDO",
+  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, MK, Galantis, Kx5, deadmau5, Kaskade, Hayla",
   "name": "EDM Top 100",
   "published_playlist_ids": [
     "0Ntnl9seA6EX8wAm2l1oSO"
@@ -4483,7 +4483,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 169108,
       "name": "Come Around Again",
       "url": "https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA"
@@ -5979,7 +5979,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 210000,
       "name": "Don\u2019t Forget My Love - John Summit Remix",
       "url": "https://open.spotify.com/track/4HcOBdrcaCmh29ogaEiE5n"
@@ -9581,7 +9581,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 214071,
       "name": "Heaven Takes You Home (feat. Connie Constance)",
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
@@ -20433,7 +20433,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Sideline",
       "url": "https://open.spotify.com/track/0H3wnauakIIRxX51DkYtuc"
@@ -22421,7 +22421,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 275076,
       "name": "Talamanca - Carl Cox Remix",
       "url": "https://open.spotify.com/track/4aFUd8Kilk401OLNMugJDg"
@@ -22443,6 +22443,32 @@
       "duration_ms": 438723,
       "name": "Te amo",
       "url": "https://open.spotify.com/track/2CW2dYj1EvbQs35XufHkit"
+    },
+    {
+      "album": {
+        "name": "Teardrops (feat. Majid Jordan)",
+        "url": "https://open.spotify.com/album/3Bq8vA5rwJGfe8KgT4Qdxy"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170982,
+      "name": "Teardrops (feat. Majid Jordan)",
+      "url": "https://open.spotify.com/track/0pPpcDDIiVBeBS5jBecnSC"
     },
     {
       "album": {

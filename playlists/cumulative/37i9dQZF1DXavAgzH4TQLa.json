@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 134400,
       "name": "Alcen las Manos",
       "url": "https://open.spotify.com/track/0kV8yUTj65F1i2hQfBIlpT"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 152666,
       "name": "Como Te Lo Digo",
       "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 308337,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 186874,
       "name": "El Polvito del Amor",
       "url": "https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb"
@@ -556,6 +556,24 @@
     },
     {
       "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193080,
+      "name": "La colorada",
+      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2wmLRAy98OUv8l5OXFSE2L"
       },
@@ -603,7 +621,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 201346,
       "name": "La pata sucia",
       "url": "https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA"
@@ -643,7 +661,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 189106,
       "name": "La Pollera Amarilla",
       "url": "https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5"
@@ -957,7 +975,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 203493,
       "name": "No Puedo Olvidarla",
       "url": "https://open.spotify.com/track/6bNZuleg3RvzmXtVCbMTmc"
@@ -1141,7 +1159,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 225320,
       "name": "Que calor",
       "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 198253,
       "name": "Sentate en el pelado",
       "url": "https://open.spotify.com/track/4fqDmV6uRZtNgYg5h4FnGP"
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 155387,
       "name": "Una Wacha Piola",
       "url": "https://open.spotify.com/track/7D6KI3vUblWWhXgyPNMHVe"
@@ -1639,7 +1657,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 247144,
       "name": "Vos de Bebe",
       "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"

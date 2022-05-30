@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 213480,
       "name": "Bajito",
       "url": "https://open.spotify.com/track/0Xf523k63exwTTdRmlkiqn"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 215986,
       "name": "Chachach\u00e1",
       "url": "https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 241986,
       "name": "Comiendote a Besos",
       "url": "https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 244973,
       "name": "Disfruto",
       "url": "https://open.spotify.com/track/0zTSmiDzVkIPUPjsHcUWpe"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 207400,
       "name": "Fuentes de Ortiz",
       "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 221946,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 213133,
       "name": "Loco",
       "url": "https://open.spotify.com/track/5TDakCWQMtVYURFbs9XIRv"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 229933,
       "name": "Me Soltaste",
       "url": "https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
@@ -1109,7 +1109,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 241013,
       "name": "Por fin",
       "url": "https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 250836,
       "name": "Por Fin Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/2loiYuyYxHfplgLCxNwk8P"
@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 245360,
       "name": "Por Perro",
       "url": "https://open.spotify.com/track/5HI2GCzPYbLkkr5kXtjvTD"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Que Lloro (with Carla Morrison)",
       "url": "https://open.spotify.com/track/1XQYjTzZTKfvP69S5yJkaH"
@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 249253,
       "name": "Qui\u00e9n",
       "url": "https://open.spotify.com/track/5ZZuokF4h1FlfTlSQhLCmG"
@@ -1391,7 +1391,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 169247,
       "name": "Si Estuvi\u00e9semos Juntos",
       "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
@@ -1460,6 +1460,32 @@
     },
     {
       "album": {
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2021-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219520,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/0tJCo71s7HT9Mu5Z4juuLw"
+    },
+    {
+      "album": {
         "name": "El Hubiera No Existe",
         "url": "https://open.spotify.com/album/2G7dE9ucjqL4cecJPpJAiF"
       },
@@ -1489,7 +1515,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 223786,
       "name": "Te Fuiste de Aqu\u00ed",
       "url": "https://open.spotify.com/track/0832pFK9N12P1B0nuaUb2Z"
@@ -1685,7 +1711,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 225213,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3wGRfBDRNQb0nFDFrUPvq6"

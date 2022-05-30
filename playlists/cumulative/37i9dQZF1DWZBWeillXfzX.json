@@ -167,7 +167,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 428577,
       "name": "Chief's Blues",
       "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 180583,
       "name": "Cry for Me",
       "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 261812,
       "name": "Don't Bring Me Down",
       "url": "https://open.spotify.com/track/4T50jDAzjMQ8KDrhjoPCmf"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 352853,
       "name": "Found out the Hard Way",
       "url": "https://open.spotify.com/track/4USHtkju7lWv8YAhmcf3AV"
@@ -633,6 +633,24 @@
       "duration_ms": 388893,
       "name": "Pusher",
       "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
+    },
+    {
+      "album": {
+        "name": "Laurence Jones Band",
+        "url": "https://open.spotify.com/album/28xB2lFXPPOBKUDcdRUIMh"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jones",
+          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241804,
+      "name": "Quite Like You",
+      "url": "https://open.spotify.com/track/3ozWXI9fu58MCaxdCxaJEh"
     },
     {
       "album": {
@@ -1105,7 +1123,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 237240,
       "name": "Word",
       "url": "https://open.spotify.com/track/627ZKn3BoKHQ7BleTgt3UY"

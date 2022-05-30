@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Loredana, CÉLINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,593 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,314 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,12 +82,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 72 | [Nervous Baby](https://open.spotify.com/track/6r8QYOKuakZN4TvynGvfjP) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Nervous Baby](https://open.spotify.com/album/4HLH8OhPIA7EvYFhyqOXKG) | 3:05 |
 | 73 | [Va bene](https://open.spotify.com/track/5sFB7UmrAF5UZwh4a62xNS) | [Wanda](https://open.spotify.com/artist/6Kg9EvjSnEm5swmrvWCJyB) | [Va bene](https://open.spotify.com/album/1kUJjfROfAUz3TeH0RLbm4) | 3:40 |
 | 74 | [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 |
-| 75 | [Rauschen](https://open.spotify.com/track/1IZ5Dt8NbApOezHXxfjo7H) | [Julian le Play](https://open.spotify.com/artist/5xW9faV2hqlLG0rp7CTBof) | [Rauschen](https://open.spotify.com/album/6Lq2327RtRMPiNdwhHhsl3) | 2:44 |
+| 75 | [Rauschen](https://open.spotify.com/track/1IZ5Dt8NbApOezHXxfjo7H) | [Julian le Play](https://open.spotify.com/artist/5xW9faV2hqlLG0rp7CTBof) | [Rauschen](https://open.spotify.com/album/6Lq2327RtRMPiNdwhHhsl3) | 2:45 |
 | 76 | [Storm](https://open.spotify.com/track/6T2x1dbq6rhxEvHpJDwfpw) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Storm](https://open.spotify.com/album/23evqzymCn10rebdzzTlW9) | 3:37 |
 | 77 | [Campeona \(feat\. Nicky Jam\)](https://open.spotify.com/track/32igAB8n9KMEQkz6jEs5yq) | [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Iwaro](https://open.spotify.com/artist/1LUtdGHtTM1H84bU2wQg7H), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Campeona \(feat\. Nicky Jam\)](https://open.spotify.com/album/0Somt7nMoN8nsNXz0i3Xts) | 3:37 |
 | 78 | [GIB MIR MEHR](https://open.spotify.com/track/0vyG3UfldP6UBjIFhvfFQV) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2), [ThatGurlHanna](https://open.spotify.com/artist/48bqtQhilt5mDstY1HfgN5) | [GIB MIR MEHR](https://open.spotify.com/album/51AkdddTkhzmnnHQraLar7) | 2:36 |
 | 79 | [Spaghetti \(feat\. XATAR\)](https://open.spotify.com/track/6ja1pPQ6oSw9GdVYq3Dj13) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [XATAR](https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8) | [Spaghetti \(feat\. XATAR\)](https://open.spotify.com/album/73p1u1NqBIZRHGlOlcM6bt) | 2:33 |
-| 80 | [Back Again \(with Loote\)](https://open.spotify.com/track/4vztjHvge0Yg8HIJpIB3Q0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx) | [HELLRAISERS, Part 3](https://open.spotify.com/album/3BwgBDgdwqRnuU805FMu3N) | 3:01 |
+| 80 | [Back Again](https://open.spotify.com/track/4vztjHvge0Yg8HIJpIB3Q0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx) | [HELLRAISERS, Part 3](https://open.spotify.com/album/3BwgBDgdwqRnuU805FMu3N) | 3:01 |
 | 81 | [Jungle](https://open.spotify.com/track/6l2iFFMdbZplGsCWG3RK7m) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Jungle](https://open.spotify.com/album/3fubx29R2RGPiBQLwg5azN) | 3:39 |
 | 82 | [Dance For You](https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dance For You](https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W) | 3:21 |
 | 83 | [Golf](https://open.spotify.com/track/19E7t9yHSNqaWYLOtuQyoT) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h) | [Golf](https://open.spotify.com/album/1intzY4br19Yc4FFqm0OLt) | 3:16 |

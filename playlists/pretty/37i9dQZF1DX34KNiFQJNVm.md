@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Gustavo Mioto com Luan Santana, Israel & Rodolffo, Calvin Harris e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,753,208 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,753,378 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 23 | [ye](https://open.spotify.com/track/3IYHWJMzL4aftnp3ENWoXM) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA) | [ye](https://open.spotify.com/album/7MOwVvOQvt3ljxqzznrt2P) | 2:47 |
 | 24 | [Estaciona e Desce](https://open.spotify.com/track/5V4Dp1B0k5GOwOn951JG1P) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [DogDu BEAT$](https://open.spotify.com/artist/2Ce5qAualGsritIDCedjAO), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP) | [Estaciona e Desce](https://open.spotify.com/album/5Z5IlNgh8q7nXjEabOTqWx) | 3:20 |
 | 25 | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU) | 2:50 |
-| 26 | [Back Again \(with Loote\)](https://open.spotify.com/track/4vztjHvge0Yg8HIJpIB3Q0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx) | [HELLRAISERS, Part 3](https://open.spotify.com/album/3BwgBDgdwqRnuU805FMu3N) | 3:01 |
+| 26 | [Back Again](https://open.spotify.com/track/4vztjHvge0Yg8HIJpIB3Q0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx) | [HELLRAISERS, Part 3](https://open.spotify.com/album/3BwgBDgdwqRnuU805FMu3N) | 3:01 |
 | 27 | [The One](https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [The One](https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1) | 2:25 |
 | 28 | [Je ne sais quoi](https://open.spotify.com/track/789gHumetKnbAJhFMBjMWj) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND, PT\. 1](https://open.spotify.com/album/5ELO3riWbb2MbJyZYilN7D) | 2:18 |
 | 29 | [Sentimental](https://open.spotify.com/track/5wajkwpmyFoxArALmhFeDa) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Sentimental](https://open.spotify.com/album/43raMsCFPKLAvYiBesIYLm) | 2:04 |

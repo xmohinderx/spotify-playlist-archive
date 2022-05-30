@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-497 songs - 1 day 3 hr 6 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+498 songs - 1 day 3 hr 9 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Ohne Benzin](https://open.spotify.com/track/3a0F2N6rXJSibQTp77xH4f) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Ohne Benzin](https://open.spotify.com/album/44qXZ6KEzcKrp9E9jaxpH0) | 2:35 | 2022-05-28 |  |
 | [Oi, Como Ce Tá?](https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Oi, Como Ce Tá?](https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou) | 2:36 | 2022-03-15 | 2022-03-30 |
 | [Olhei Pra Ela Deu Match](https://open.spotify.com/track/0GESebPufL91nmnOYTGzWQ) | [Lacoste dos Fluxo](https://open.spotify.com/artist/7wN4nAbl83ZnhG6C5xZJkx) | [Olhei Pra Ela Deu Match](https://open.spotify.com/album/27t9Zjk68kHZjiB0NUgVFb) | 1:29 | 2022-01-23 | 2022-01-26 |
+| [Olmazlara İnat](https://open.spotify.com/track/11AkXmBdjwu4upt22GjJrG) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Olmazlara İnat](https://open.spotify.com/album/5IBpgY79AaRGIgAHFVr0fg) | 2:49 | 2022-05-29 |  |
 | [Oo Antava Oo Oo Antava](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Pushpa \- The Rise](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 | 2022-01-04 | 2022-02-03 |
 | [Oo Solriya Oo Oo Solriya](https://open.spotify.com/track/28fPIWqAfqoEEGSb0rA4LZ) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj) | [Pushpa \- The Rise](https://open.spotify.com/album/6mirm559XB8jiveF7ONuUx) | 3:43 | 2022-01-04 | 2022-01-25 |
 | [Over](https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:27 | 2022-03-27 | 2022-04-13 |
@@ -486,7 +487,7 @@
 | [Weg von mir](https://open.spotify.com/track/0h14I7cPYi1RZG6GmVpMso) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Weg von mir](https://open.spotify.com/album/2YZ136w4VENx6JTJ3cIoE6) | 2:16 | 2022-02-22 | 2022-03-23 |
 | [What Else Can I Do?](https://open.spotify.com/track/3XoYqtiWHhsk59frZupImG) | [Diane Guerrero](https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:59 | 2021-12-29 | 2022-02-02 |
 | [When Scars Become Art](https://open.spotify.com/track/2q3LzfknBzye3xXjgiJBjS) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Brooke Young](https://open.spotify.com/artist/0oFqrawlj2uVL2EPRLR08l) | [...When Scars Become Art](https://open.spotify.com/album/6R6z9djotDZUhI7psuSM6G) | 4:47 | 2022-02-17 | 2022-03-21 |
-| [Why Am I Like This?](https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6) | 3:32 | 2022-05-01 |  |
+| [Why Am I Like This?](https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6) | 3:32 | 2022-05-01 | 2022-05-30 |
 | [Wild as Her](https://open.spotify.com/track/7FEu6U2jXAs2URjx93AyTm) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/5E6Y21xdZI8Ein5d7wfqpI) | 3:21 | 2022-03-29 | 2022-04-22 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-05-17 |  |
 | [Wrecking Ball](https://open.spotify.com/track/0AhsYyKYi2J6w9rqP93DSe) | [Midnite String Quartet](https://open.spotify.com/artist/648dUUIlz7RSeg3O8CbTat) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 3:53 | 2022-04-19 | 2022-04-27 |

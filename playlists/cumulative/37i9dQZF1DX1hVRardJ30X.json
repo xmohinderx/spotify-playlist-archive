@@ -19046,6 +19046,24 @@
     },
     {
       "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/1Z1unOCT3lftwlgHUJqFjz"
+      },
+      "artists": [
+        {
+          "name": "Alevalen",
+          "url": "https://open.spotify.com/artist/1HhICZ4CIzbXKrd16k870U"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/7tOcwv1ENXKvqgYKKDqz2X"
+    },
+    {
+      "album": {
         "name": "Quiero (TDH's Version)",
         "url": "https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL"
       },

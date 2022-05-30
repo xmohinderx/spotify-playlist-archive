@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Tate McRae, Calvin Harris, Dua Lipa & Young Thug, blackbear, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,907,618 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,907,792 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 60 | [BREAKDOWN](https://open.spotify.com/track/5ab5TaUCeTXEyEopmq4pjM) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [BREAKDOWN](https://open.spotify.com/album/43TWpeulOdWVBsL8vpMdZi) | 3:38 |
 | 61 | [Legs](https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [My Friend Mica](https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8) | 2:53 |
 | 62 | [Candyfloss](https://open.spotify.com/track/5Sglaa4CqeCmpLLWFCvu3i) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/45lhLYfrPQZdCJ5kdgoKth) | 2:48 |
-| 63 | [Back Again \(with Loote\)](https://open.spotify.com/track/4vztjHvge0Yg8HIJpIB3Q0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx) | [HELLRAISERS, Part 3](https://open.spotify.com/album/3BwgBDgdwqRnuU805FMu3N) | 3:01 |
+| 63 | [Back Again](https://open.spotify.com/track/4vztjHvge0Yg8HIJpIB3Q0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx) | [HELLRAISERS, Part 3](https://open.spotify.com/album/3BwgBDgdwqRnuU805FMu3N) | 3:01 |
 | 64 | [Paragua](https://open.spotify.com/track/5ypGVAecji67Vu8O5rNGkS) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Haters y Fanáticos](https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb) | 2:39 |
 | 65 | [Brand New Rolex](https://open.spotify.com/track/0rOc6dyoDZENV8mJQ2gnQz) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Divine Timing](https://open.spotify.com/album/6fZkrQzH9f86D5Y0YLuLJu) | 2:27 |
 | 66 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 |

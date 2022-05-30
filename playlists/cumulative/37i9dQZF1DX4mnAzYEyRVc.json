@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Hard Band For Dead",
+        "url": "https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj"
+      },
+      "artists": [
+        {
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199560,
+      "name": "2-Tone Army",
+      "url": "https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw"
+    },
+    {
+      "album": {
         "name": "Reggae Legends",
         "url": "https://open.spotify.com/album/2LeR8Mq4rYPD2RTkAMgfRG"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 172600,
       "name": "A Message to You Rudy - 2002 Remastered Version",
       "url": "https://open.spotify.com/track/2EwEtZrsBpjLmwhe7GCGhs"
@@ -91,7 +109,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 123946,
       "name": "A Mis Amigos",
       "url": "https://open.spotify.com/track/7CdQJYe2qy1wrjfx0IBkOm"
@@ -109,7 +127,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 226533,
       "name": "A Night in Tunisia",
       "url": "https://open.spotify.com/track/3dRbWJXFJV1YA39PYmwbCq"
@@ -189,10 +207,32 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 224281,
       "name": "Adi\u00f3s Nonino",
       "url": "https://open.spotify.com/track/3H5rILNszBFSLKsE63RrEa"
+    },
+    {
+      "album": {
+        "name": "Rise up",
+        "url": "https://open.spotify.com/album/4UPbFl13khzurTeIbkIyFt"
+      },
+      "artists": [
+        {
+          "name": "NH3",
+          "url": "https://open.spotify.com/artist/0p4vANrXTK1NQ5DpBlfRgW"
+        },
+        {
+          "name": "Los Fastidios & Redska",
+          "url": "https://open.spotify.com/artist/0njQeBkWOFV0uwBGtTxovM"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184414,
+      "name": "Against racism (feat. Los Fastidios & Redska)",
+      "url": "https://open.spotify.com/track/6DaJ3YS5IJqfS2YwIfDZfF"
     },
     {
       "album": {
@@ -211,7 +251,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 170013,
       "name": "Al Fondo del Mar",
       "url": "https://open.spotify.com/track/46KrPzw2hZPICMO5zoqtyz"
@@ -247,7 +287,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 200477,
       "name": "Algo Especial",
       "url": "https://open.spotify.com/track/41OFzrPZNQwfOBNgrC2QY4"
@@ -363,7 +403,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 194615,
       "name": "Arazoak Dira",
       "url": "https://open.spotify.com/track/5Gf8XUnXmvJAPi5Osh45Lo"
@@ -475,7 +515,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 202106,
       "name": "Beer Goggles",
       "url": "https://open.spotify.com/track/4fhhNzvlMrYxP6PYbcaELR"
@@ -547,7 +587,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 195693,
       "name": "Bom Bom",
       "url": "https://open.spotify.com/track/2vbYkBshVZmnuLIgyCLkZs"
@@ -839,7 +879,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 208885,
       "name": "Cotidiano",
       "url": "https://open.spotify.com/track/51GP2QSHK7OvuBzOWKRgfc"
@@ -1009,7 +1049,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 252395,
       "name": "Dejame Entrar (Yajk T\u00e4jk\u00e4tzi)",
       "url": "https://open.spotify.com/track/54tIHkXiLWUNOlHapPmNm8"
@@ -1027,7 +1067,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 302813,
       "name": "Delfino",
       "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
@@ -1045,7 +1085,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 194840,
       "name": "Delinquent Song",
       "url": "https://open.spotify.com/track/44XOi657umNvDxNw8JvljD"
@@ -1099,7 +1139,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 216000,
       "name": "Demons in Control",
       "url": "https://open.spotify.com/track/6X0KwseWRxxArMgr35zGph"
@@ -1153,7 +1193,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 177800,
       "name": "Don't Worry, Be Happy",
       "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
@@ -1171,7 +1211,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 191706,
       "name": "Donde Qued\u00f3 el Amor",
       "url": "https://open.spotify.com/track/0ISnnP3lKhl7IJvtlpyzY9"
@@ -1261,7 +1301,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 163653,
       "name": "El Mi\u00f3n",
       "url": "https://open.spotify.com/track/6aHoNnabXZzxzsjZP2y8Rc"
@@ -1344,6 +1384,28 @@
     },
     {
       "album": {
+        "name": "El \u00daltimo Ska",
+        "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Dub Inc",
+          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274653,
+      "name": "El \u00daltimo Ska",
+      "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
+    },
+    {
+      "album": {
         "name": "Bailar\u00edn Apocal\u00edptico",
         "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
       },
@@ -1409,7 +1471,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 216133,
       "name": "Festa Al Local",
       "url": "https://open.spotify.com/track/72L9o8kk68xhLE8xBtQrR0"
@@ -1427,7 +1489,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 232800,
       "name": "Festuc Dance",
       "url": "https://open.spotify.com/track/5KDPg7eTUDhwtrgLcFTJuT"
@@ -1449,7 +1511,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 155485,
       "name": "For the Homies",
       "url": "https://open.spotify.com/track/3mK8AXf13ESrFGiHMIJnBp"
@@ -1525,7 +1587,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 181773,
       "name": "Free Time",
       "url": "https://open.spotify.com/track/5DAnKlgL5eVGQxoIkPOYHO"
@@ -1550,6 +1612,24 @@
     },
     {
       "album": {
+        "name": "Reggae Greats - Toots & The Maytals",
+        "url": "https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210333,
+      "name": "Funky Kingston",
+      "url": "https://open.spotify.com/track/6SggC2nKa8iucYETjO2KN1"
+    },
+    {
+      "album": {
         "name": "The Very Best of the Specials and Fun Boy Three",
         "url": "https://open.spotify.com/album/5ncEADfgacuIcZloy7rgQI"
       },
@@ -1565,6 +1645,24 @@
       "duration_ms": 198026,
       "name": "Gangsters",
       "url": "https://open.spotify.com/track/1tAzoawH1KwFX3ab17YH1K"
+    },
+    {
+      "album": {
+        "name": "All Spooned Up",
+        "url": "https://open.spotify.com/album/4zTEkJYU72NfI5fPTbpM0B"
+      },
+      "artists": [
+        {
+          "name": "Arthur & the Spooners",
+          "url": "https://open.spotify.com/artist/5mT8ttcIYXivDybnzKKOQN"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Gotta Ska",
+      "url": "https://open.spotify.com/track/11VkH9ZfSa2a9rukE3CdaK"
     },
     {
       "album": {
@@ -1597,7 +1695,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 167173,
       "name": "Hamburg, 8 Grad, Regen",
       "url": "https://open.spotify.com/track/58RHI0kERkxeuST40cZK6j"
@@ -1759,7 +1857,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 175960,
       "name": "Il cassetto dei sogni",
       "url": "https://open.spotify.com/track/4u4Nt8PiEI8RNSpzs3aEgl"
@@ -1813,7 +1911,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 221306,
       "name": "Jaia",
       "url": "https://open.spotify.com/track/3Hr4atc6R27a0tQtFSYab9"
@@ -1875,7 +1973,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 165173,
       "name": "Jaque Mate",
       "url": "https://open.spotify.com/track/1X3Ry0jCUS7oqH3WqedtOm"
@@ -1915,7 +2013,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 162440,
       "name": "Just Tell Me",
       "url": "https://open.spotify.com/track/39LglnawsbNgqF9BdT3wbp"
@@ -1933,7 +2031,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 205866,
       "name": "Kick the Can",
       "url": "https://open.spotify.com/track/1rIwEr6CdixeV6HwNI3c4o"
@@ -2023,7 +2121,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 213720,
       "name": "La Carencia",
       "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
@@ -2229,7 +2327,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 208146,
       "name": "Last Instrumental",
       "url": "https://open.spotify.com/track/6vsN18BMXvSlMtiOEcrcyG"
@@ -2247,7 +2345,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 194413,
       "name": "Latin Ska",
       "url": "https://open.spotify.com/track/3yhSzk3RVZ1BqIYAW8IFGf"
@@ -2265,7 +2363,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 218533,
       "name": "Llunatics",
       "url": "https://open.spotify.com/track/1Dlv3JnIWlciwTdqk94O4W"
@@ -2301,7 +2399,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 212781,
       "name": "Los Salvajes",
       "url": "https://open.spotify.com/track/12KToB0SxsA1VYNNZzw6ja"
@@ -2337,7 +2435,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 176813,
       "name": "Luchadora",
       "url": "https://open.spotify.com/track/1fMbKuoUklDvMear8SpfJa"
@@ -2485,7 +2583,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 243253,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
@@ -2597,7 +2695,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 185513,
       "name": "Mile High",
       "url": "https://open.spotify.com/track/2ftEtuT6zgVPEXgRPTgAtM"
@@ -2659,7 +2757,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 210866,
       "name": "Modo de Odio",
       "url": "https://open.spotify.com/track/18CI7MQbsxL9HDA2IclLOl"
@@ -2677,7 +2775,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 224462,
       "name": "Momentos",
       "url": "https://open.spotify.com/track/6eOGzlwf9yCOxTkRS0oW6Q"
@@ -2731,7 +2829,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 233320,
       "name": "Monopolistic",
       "url": "https://open.spotify.com/track/6xzNFkiYEirhR0XVVBNsSg"
@@ -2771,7 +2869,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 166040,
       "name": "Mr. Smiley",
       "url": "https://open.spotify.com/track/4pCZhwsn1mbN8fDYe42Hl5"
@@ -2789,7 +2887,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "Mueve Tus Pies",
       "url": "https://open.spotify.com/track/5EzR54EvrT5rPi92dFgDSD"
@@ -2807,7 +2905,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 184533,
       "name": "My Commanding Wife",
       "url": "https://open.spotify.com/track/1Yioe436ryeIRmiEzsrzVv"
@@ -2825,7 +2923,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 164453,
       "name": "My Little Girl",
       "url": "https://open.spotify.com/track/3ihEvw7w7TVmemnxpI27iW"
@@ -2879,7 +2977,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 132146,
       "name": "Nana Punk",
       "url": "https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ"
@@ -2933,7 +3031,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 143906,
       "name": "Night Train To Moscow",
       "url": "https://open.spotify.com/track/0sfKsl812lm4CwwyqPF9jm"
@@ -2951,7 +3049,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 163200,
       "name": "No More Politicians Alive",
       "url": "https://open.spotify.com/track/2wN7zvJXNUNmlSGtRgq2lk"
@@ -3163,7 +3261,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 173800,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/2d6CaL5eZWaplfSvPok5e8"
@@ -3225,7 +3323,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 212120,
       "name": "Otra noche m\u00e1s",
       "url": "https://open.spotify.com/track/0i3Zl8wlJ5naVgGelWCnoE"
@@ -3243,7 +3341,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 216894,
       "name": "Otro Dia Mas",
       "url": "https://open.spotify.com/track/2C6bSR9LAlA2czS44uHeZP"
@@ -3337,7 +3435,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 235133,
       "name": "Pick Yourself Up",
       "url": "https://open.spotify.com/track/50GLBNaae4U7hV2QADAqFh"
@@ -3445,7 +3543,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 159120,
       "name": "Porqu\u00e9 el Amor Me Duele Tanto?",
       "url": "https://open.spotify.com/track/3Soif6DiJxjLLMal3yL0vw"
@@ -3539,7 +3637,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 247800,
       "name": "P\u00e1rate Y Mira",
       "url": "https://open.spotify.com/track/0bhzdFuUaNH7QV3c2ZKGOK"
@@ -3593,7 +3691,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 178560,
       "name": "Que Pex!",
       "url": "https://open.spotify.com/track/3VKXddmjTLXEZIQbo7VQdR"
@@ -3665,7 +3763,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 228561,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/4mQ7XHNUwNGZkBN5vUXiik"
@@ -3745,6 +3843,24 @@
       "duration_ms": 171600,
       "name": "Robbery",
       "url": "https://open.spotify.com/track/2o7IXJqbrRESHwtGmzUq1Q"
+    },
+    {
+      "album": {
+        "name": "Rude Boy",
+        "url": "https://open.spotify.com/album/3r8bAbEVhzERSA197cd5dq"
+      },
+      "artists": [
+        {
+          "name": "The OzSkas",
+          "url": "https://open.spotify.com/artist/1ZL59Ge0pF8ZsooC2vEnsr"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214974,
+      "name": "Rude Boy (Vocal)",
+      "url": "https://open.spotify.com/track/1jym8HW0dg5yKiEqKCwgLY"
     },
     {
       "album": {
@@ -3839,7 +3955,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 219061,
       "name": "Runnin' Out Of Fools",
       "url": "https://open.spotify.com/track/0NujRGPKD4hlAerFgSzfUm"
@@ -3861,7 +3977,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 201642,
       "name": "R\u00e9szeg",
       "url": "https://open.spotify.com/track/21AWMfngLGi5gL8mrpMcJm"
@@ -3915,7 +4031,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 269400,
       "name": "Sally Brown",
       "url": "https://open.spotify.com/track/1uYFAXmaZUobMk7OixX53K"
@@ -4045,7 +4161,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 193134,
       "name": "Shame And Scandal In The Family",
       "url": "https://open.spotify.com/track/0Ykwt3uTRkAGkd0tDOnbhz"
@@ -4247,7 +4363,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 226480,
       "name": "Ska Mundo Ska",
       "url": "https://open.spotify.com/track/7Iwyf6xoHbLotyoIaUmKnr"
@@ -4265,7 +4381,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 131703,
       "name": "Ska Robot Army",
       "url": "https://open.spotify.com/track/3Pd6Z5opMzyB8GPbqSsitE"
@@ -4367,7 +4483,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 242133,
       "name": "Skazz (Work Song)",
       "url": "https://open.spotify.com/track/5V6NxnlpjWwc8KmdhMxBGK"
@@ -4439,7 +4555,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 156395,
       "name": "Som de l'oest",
       "url": "https://open.spotify.com/track/4uAO7c2fB3Xnpypuam9YF4"
@@ -4475,7 +4591,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 191093,
       "name": "Spacciatore di cacao",
       "url": "https://open.spotify.com/track/6T8BILchaPSARIuaOWK5dH"
@@ -4648,6 +4764,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Us For The Rest Of Us",
+        "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199253,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
+    },
+    {
+      "album": {
         "name": "De Ke Manera te Olvido... Chimol!!",
         "url": "https://open.spotify.com/album/5E85sgTBqIgUZLyFrLdbmS"
       },
@@ -4785,7 +4919,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 229773,
       "name": "Tiempos Rudos",
       "url": "https://open.spotify.com/track/5qht8RdY5udwYthby8sgGT"
@@ -4861,7 +4995,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 225020,
       "name": "Tocando Fondo",
       "url": "https://open.spotify.com/track/3p8EcRVUPb6y2P04ep5vag"
@@ -5023,7 +5157,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 239253,
       "name": "Tu Especialidad",
       "url": "https://open.spotify.com/track/1Sm9CTdh9zjU3OZ7laWbIn"
@@ -5131,7 +5265,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 194037,
       "name": "Via con me",
       "url": "https://open.spotify.com/track/6JXU6uQSOYHk0Jj5yvbwTs"
@@ -5287,6 +5421,24 @@
       "duration_ms": 173948,
       "name": "You're Gonna Find A Way Out",
       "url": "https://open.spotify.com/track/7u7u63BpXU2TBmjtvqbCYY"
+    },
+    {
+      "album": {
+        "name": "\u041a\u0430\u0431\u0430\u0447\u043a\u0438",
+        "url": "https://open.spotify.com/album/54FNufdOIbr0nE69tccIMp"
+      },
+      "artists": [
+        {
+          "name": "Cabernet Deneuve",
+          "url": "https://open.spotify.com/artist/6VwUNgejV1qMrNc1aM93V4"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202373,
+      "name": "\u0429\u0430\u0441\u0442\u044c\u0435",
+      "url": "https://open.spotify.com/track/06zAGNmYEeAjVqEF9TrB7p"
     },
     {
       "album": {

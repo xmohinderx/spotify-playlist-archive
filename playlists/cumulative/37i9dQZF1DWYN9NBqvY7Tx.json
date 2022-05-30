@@ -300,6 +300,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Energy",
+        "url": "https://open.spotify.com/album/2rS4O5WxOvB1d9oASsEKso"
+      },
+      "artists": [
+        {
+          "name": "Emre Kabak",
+          "url": "https://open.spotify.com/artist/1LIp77U8dWasEozNCGCuMa"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165011,
+      "name": "Cosmic Energy",
+      "url": "https://open.spotify.com/track/0Et3FlApsW8yTqHnbvsnTM"
+    },
+    {
+      "album": {
         "name": "Cradles",
         "url": "https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9"
       },
@@ -351,7 +369,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 160000,
       "name": "CyberVision",
       "url": "https://open.spotify.com/track/3C2dteh67QFxver3O8wIFm"
@@ -719,7 +737,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 212589,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/3Wj6N3ErZ34ditWlB7ETZV"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 194267,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/0hTrQoqDmFnA4S1PC265e1"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 203370,
       "name": "Heavenly Side - NGHTMRE Remix",
       "url": "https://open.spotify.com/track/4cU3Hs8L9JyN5m37jmIQx2"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 176000,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/5PEc50zuLdBpkC9bOQTG2D"
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 264568,
       "name": "Irish Waterfall",
       "url": "https://open.spotify.com/track/6cX3NRnRQaA1FNPMkTwEVy"
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 206400,
       "name": "Lost My Way",
       "url": "https://open.spotify.com/track/1RiJdChbp902jktp7mz7uV"
@@ -1879,7 +1897,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 233048,
       "name": "My Wicked",
       "url": "https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK"
@@ -1927,7 +1945,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 261658,
       "name": "Never Let You Go (feat. Sofia Reyes) - EVE Re-Imagination",
       "url": "https://open.spotify.com/track/03KkCDcl9URL2PBvFYHKnK"
@@ -2029,7 +2047,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 154687,
       "name": "Party Girl - VIZE Remix",
       "url": "https://open.spotify.com/track/64vgWvPf41BreVeNomZ3nv"
@@ -2065,7 +2083,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 183949,
       "name": "PLAY",
       "url": "https://open.spotify.com/track/1fRadkuwHEqwMuiY5ns15C"
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 245793,
       "name": "Rainbow Tears",
       "url": "https://open.spotify.com/track/61cuhk02W7Nd72FhAvBmJI"
@@ -2505,7 +2523,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 188800,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6b6HudhUkFIvlDjyuhiEBE"
@@ -2633,7 +2651,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 80080,
       "name": "SugarCrash!",
       "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
@@ -2703,7 +2721,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 182765,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ"
@@ -2871,7 +2889,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 282514,
       "name": "The Warehouse",
       "url": "https://open.spotify.com/track/5p3NCS0PiNSqXapxAcuQqi"
@@ -2907,7 +2925,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 295172,
       "name": "These Memories",
       "url": "https://open.spotify.com/track/2liDBJ6iJG2X4GRwgEHvwi"

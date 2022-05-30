@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Naomi Raine
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,382 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,486 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 11 | [Not Moved](https://open.spotify.com/track/6bvQPwpiGkvhwXq12f429q) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/11WIHYBbynfg1VwUlmHshG) | 4:33 |
 | 12 | [In Jesus Name \(God of Possible\) \- Live](https://open.spotify.com/track/5eBNg5nAy9fw3dq9UO389L) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1) | [In Jesus Name \(God of Possible\) \[Live\]](https://open.spotify.com/album/36UpsxvsA4iizloxTcYbE8) | 4:16 |
 | 13 | [Gracia Sobre Gracia \(feat\. Miel San Marcos\)](https://open.spotify.com/track/6Y5TIxbM7fsG5j9CqJqZDW) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Gracia Sobre Gracia \(feat\. Miel San Marcos\)](https://open.spotify.com/album/4qiy47VjgVtXbsP2Cg1USA) | 4:49 |
-| 14 | [This Far \- Live](https://open.spotify.com/track/7naZaNVIbUPphwCKLjlqIn) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [David Dennis](https://open.spotify.com/artist/3sahpwLWzC9rGKEM9BvFvJ) | [This Far \(Live\)](https://open.spotify.com/album/2LsdaBgQDpWujN729P5C3G) | 9:52 |
+| 14 | [This Far \- Live](https://open.spotify.com/track/7naZaNVIbUPphwCKLjlqIn) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [David Dennis](https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK) | [This Far \(Live\)](https://open.spotify.com/album/2LsdaBgQDpWujN729P5C3G) | 9:52 |
 | 15 | [Awestruck](https://open.spotify.com/track/4LN9bGelrxuvmAkEegYq9P) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Awestruck](https://open.spotify.com/album/2ErJp07SbdzPYxZHxGnXAc) | 4:52 |
 | 16 | [Jehovah Jireh](https://open.spotify.com/track/4uRMKXvgkdSEEpEz1jGQfG) | [JPCC Worship](https://open.spotify.com/artist/4GKPfwrzMoTyu7bYd4aqU1) | [Following Jesus \- The Truth](https://open.spotify.com/album/02Y7fxnKdSGfUyjj9Zz1YQ) | 6:51 |
 | 17 | [Jesus Name Above All Names \- Live Single Version](https://open.spotify.com/track/1qeoyqnztCpomPB2oC72Hk) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Keziah Joseph](https://open.spotify.com/artist/36sZYCd7AqpW7zfq7JCECd) | [Jesus Name Above All Names](https://open.spotify.com/album/37oZ6kIhr24jxGJyiwlpSO) | 4:30 |

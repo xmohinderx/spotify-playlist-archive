@@ -1,13 +1,33 @@
 {
   "description": "A cup of Joe and the raw blues.\n",
-  "num_followers": 24813,
+  "num_followers": 24868,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc4NjUwNiwwMDAwMDAwMGZlZmNiMGNiZTQyOWMwNjU4N2FkODFjZjY0YjZmNDFm",
+  "snapshot_id": "MTY1Mzg3MzI1MiwwMDAwMDAwMDQzZmVlZmRlZjc4NGQxZmM1YzAxZTRiNWU5ZTJjYTE2",
   "tracks": [
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Leftover Feelings",
+        "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 186429,
+      "name": "Mississippi Phone Booth",
+      "url": "https://open.spotify.com/track/4o344C2p7wwpWRmQIVsdkL"
+    },
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
@@ -23,22 +43,6 @@
       "duration_ms": 196040,
       "name": "Good Morning Little School Girl",
       "url": "https://open.spotify.com/track/2txRs0wxjGE1uzOhcBxN7L"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 354954,
-      "name": "Been Here Before",
-      "url": "https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF"
     },
     {
       "added_at": "2022-05-25 13:30:46",
@@ -59,18 +63,18 @@
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Lost & Lonesome",
-        "url": "https://open.spotify.com/album/3cvcf7LShmUGqjgjoV6rWk"
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
       "artists": [
         {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
         }
       ],
-      "duration_ms": 222853,
-      "name": "Lost & Lonesome",
-      "url": "https://open.spotify.com/track/6N2anXzYXeNcLoq101fFKz"
+      "duration_ms": 354954,
+      "name": "Been Here Before",
+      "url": "https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF"
     },
     {
       "added_at": "2022-05-25 13:30:46",
@@ -95,6 +99,22 @@
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
+        "name": "Lost & Lonesome",
+        "url": "https://open.spotify.com/album/3cvcf7LShmUGqjgjoV6rWk"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Lost & Lonesome",
+      "url": "https://open.spotify.com/track/6N2anXzYXeNcLoq101fFKz"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
       },
@@ -111,38 +131,6 @@
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Rediscovered",
-        "url": "https://open.spotify.com/album/7563JyVKfAPqonIxfTuU1p"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "Coffee Blues",
-      "url": "https://open.spotify.com/track/2azwzKd8xYex2PyJEyl8BX"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Love Me Like a Man - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -155,126 +143,6 @@
       "duration_ms": 383200,
       "name": "A Man And The Blues",
       "url": "https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Push The Blues Away",
-        "url": "https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC"
-      },
-      "artists": [
-        {
-          "name": "Josh Teskey",
-          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
-        },
-        {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        }
-      ],
-      "duration_ms": 218864,
-      "name": "Low Down Dog",
-      "url": "https://open.spotify.com/track/1vlQWHt9RoGXUuBqPp0drZ"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "My Home Is In The Delta",
-      "url": "https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Hangover Blues",
-        "url": "https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "Hangover Blues",
-      "url": "https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Unplugged (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Hey Hey - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/7d8L6hQ8VROqzjjjd35NcK"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "How To Love",
-        "url": "https://open.spotify.com/album/4MOG342gzrJ8AEagVhXjcg"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
-        }
-      ],
-      "duration_ms": 218357,
-      "name": "How To Love",
-      "url": "https://open.spotify.com/track/0g2i0wii2FZuBskWUta2SK"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Country Blues Guitar",
-        "url": "https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO"
-      },
-      "artists": [
-        {
-          "name": "Rory Block",
-          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
-        },
-        {
-          "name": "Stefan Grossman",
-          "url": "https://open.spotify.com/artist/0me2CHAdEKm5MTWHemzRk5"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Walking Blues",
-      "url": "https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH"
     },
     {
       "added_at": "2022-05-25 13:30:46",
@@ -303,186 +171,6 @@
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Ramblin' Man Blues",
-        "url": "https://open.spotify.com/album/7I2bdm0uQNyjb25zg1qssP"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 338333,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/4A0uddUBex0iolIxq1b0km"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Martin Scorsese Presents The Blues: Keb' Mo'",
-        "url": "https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "Perpetual Blues Machine",
-      "url": "https://open.spotify.com/track/2CgFNet99tzGTEIxYrYbuN"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "An Anthology",
-        "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Duane Allman",
-          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
-        }
-      ],
-      "duration_ms": 232507,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
-        "url": "https://open.spotify.com/album/6r1arc3ykrvuOfit3ezIoR"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        },
-        {
-          "name": "Kyshona Armstrong",
-          "url": "https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Jason Isbell",
-          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
-        }
-      ],
-      "duration_ms": 181546,
-      "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
-      "url": "https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Rough and Rowdy Ways",
-        "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 253853,
-      "name": "Goodbye Jimmy Reed",
-      "url": "https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "The Future Ain't What It Used to Be",
-        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
-      },
-      "artists": [
-        {
-          "name": "Seth Walker",
-          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
-        }
-      ],
-      "duration_ms": 200987,
-      "name": "The Future Ain't What It Used to Be",
-      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "I Ain't Blue - 2008 Remaster",
-      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Harlem Street Singer",
-        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "Death Don't Have No Mercy",
-      "url": "https://open.spotify.com/track/2uoOm55gLvLMALwXmKrwXc"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Martin Scorsese Presents The Blues: Keb' Mo'",
-        "url": "https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 138426,
-      "name": "Am I Wrong",
-      "url": "https://open.spotify.com/track/3xoMRK8egNvtjrCEQieLko"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Set Sail",
-        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        },
-        {
-          "name": "Lamar Williams Jr.",
-          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
-        }
-      ],
-      "duration_ms": 298293,
-      "name": "Outside (featuring Lamar Williams Jr.)",
-      "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
         "name": "My Feeling For the Blues",
         "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
       },
@@ -499,28 +187,24 @@
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Discover",
-        "url": "https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl"
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
       },
       "artists": [
         {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        },
-        {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 247496,
-      "name": "Natural Blues",
-      "url": "https://open.spotify.com/track/5zakPCpl4O2v1UEow7Qv29"
+      "duration_ms": 241000,
+      "name": "My Home Is In The Delta",
+      "url": "https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI"
     },
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Back on Top",
-        "url": "https://open.spotify.com/album/5tpqIo7C4bCdDKh4kZrjwW"
+        "name": "How To Love",
+        "url": "https://open.spotify.com/album/4MOG342gzrJ8AEagVhXjcg"
       },
       "artists": [
         {
@@ -528,119 +212,31 @@
           "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
         }
       ],
-      "duration_ms": 205201,
-      "name": "Back on Top",
-      "url": "https://open.spotify.com/track/0E1xWsxgrVR01fsfTQTXh4"
+      "duration_ms": 218357,
+      "name": "How To Love",
+      "url": "https://open.spotify.com/track/0g2i0wii2FZuBskWUta2SK"
     },
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "All Blues's Up: Songs of Led Zeppelin",
-        "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
+        "name": "Ramblin' Man Blues",
+        "url": "https://open.spotify.com/album/7I2bdm0uQNyjb25zg1qssP"
       },
       "artists": [
         {
-          "name": "Magic Slim",
-          "url": "https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x"
-        },
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Billy Branch",
-          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
         }
       ],
-      "duration_ms": 139146,
-      "name": "When The Levee Breaks (Part One)",
-      "url": "https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm"
+      "duration_ms": 338333,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/4A0uddUBex0iolIxq1b0km"
     },
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 261092,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Booker\u2019s Guitar",
-        "url": "https://open.spotify.com/album/6ds4XXPkWpPm1FkqYsA3xr"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "With My Maker I Am One",
-      "url": "https://open.spotify.com/track/7rphDmPtaLsPMLxxtc7nQY"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "T-Bone Blues",
-      "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Mississippi Blues",
-        "url": "https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 152076,
-      "name": "Jumper Hanging Out On the Line",
-      "url": "https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Candy Man Blues: Essential Recordings",
-        "url": "https://open.spotify.com/album/5QrttrAFJuldYaHVPPrv0L"
+        "name": "Rediscovered",
+        "url": "https://open.spotify.com/album/7563JyVKfAPqonIxfTuU1p"
       },
       "artists": [
         {
@@ -648,45 +244,93 @@
           "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
         }
       ],
-      "duration_ms": 175226,
-      "name": "Candy Man Blues",
-      "url": "https://open.spotify.com/track/2zWPKlfQgU4csG9gpPsYNY"
+      "duration_ms": 226226,
+      "name": "Coffee Blues",
+      "url": "https://open.spotify.com/track/2azwzKd8xYex2PyJEyl8BX"
     },
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "How Many Miles",
-        "url": "https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0"
+        "name": "Push The Blues Away",
+        "url": "https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC"
       },
       "artists": [
         {
-          "name": "Bo Ramsey",
-          "url": "https://open.spotify.com/artist/38qOf8V7eBUzxgFH9wTFYd"
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
         },
         {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
         }
       ],
-      "duration_ms": 238533,
-      "name": "Wounded Dog",
-      "url": "https://open.spotify.com/track/7fo6yqWRktquOz56JDsnco"
+      "duration_ms": 218864,
+      "name": "Low Down Dog",
+      "url": "https://open.spotify.com/track/1vlQWHt9RoGXUuBqPp0drZ"
     },
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Remastered from the Archives",
-        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
+        "name": "Hangover Blues",
+        "url": "https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
         }
       ],
-      "duration_ms": 145204,
-      "name": "This is Hip - Remastered",
-      "url": "https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI"
+      "duration_ms": 244746,
+      "name": "Hangover Blues",
+      "url": "https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Unplugged (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Hey Hey - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/7d8L6hQ8VROqzjjjd35NcK"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 216093,
+      "name": "I Ain't Blue - 2008 Remaster",
+      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
     },
     {
       "added_at": "2022-05-25 13:30:46",
@@ -723,42 +367,242 @@
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Get Up! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xu9bQjnB72GNFeH31UDX7"
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
       },
       "artists": [
         {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        },
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 261573,
-      "name": "You Found Another Lover (I Lost Another Friend) - The Machine Shop Session",
-      "url": "https://open.spotify.com/track/2ElTJmWJbuHT7owpTe3upS"
+      "duration_ms": 170000,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
     },
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Leftover Feelings",
-        "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
+        "name": "All Blues's Up: Songs of Led Zeppelin",
+        "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
       },
       "artists": [
         {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+          "name": "Magic Slim",
+          "url": "https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x"
         },
         {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Billy Branch",
+          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
         }
       ],
-      "duration_ms": 186429,
-      "name": "Mississippi Phone Booth",
-      "url": "https://open.spotify.com/track/4o344C2p7wwpWRmQIVsdkL"
+      "duration_ms": 139146,
+      "name": "When The Levee Breaks (Part One)",
+      "url": "https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Country Blues Guitar",
+        "url": "https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO"
+      },
+      "artists": [
+        {
+          "name": "Rory Block",
+          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
+        },
+        {
+          "name": "Stefan Grossman",
+          "url": "https://open.spotify.com/artist/0me2CHAdEKm5MTWHemzRk5"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Walking Blues",
+      "url": "https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "An Anthology",
+        "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Duane Allman",
+          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
+        }
+      ],
+      "duration_ms": 232507,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "T-Bone Blues",
+      "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
+        "url": "https://open.spotify.com/album/6r1arc3ykrvuOfit3ezIoR"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        },
+        {
+          "name": "Kyshona Armstrong",
+          "url": "https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "duration_ms": 181546,
+      "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
+      "url": "https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Booker\u2019s Guitar",
+        "url": "https://open.spotify.com/album/6ds4XXPkWpPm1FkqYsA3xr"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "With My Maker I Am One",
+      "url": "https://open.spotify.com/track/7rphDmPtaLsPMLxxtc7nQY"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        },
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+        }
+      ],
+      "duration_ms": 298293,
+      "name": "Outside (featuring Lamar Williams Jr.)",
+      "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 261092,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Martin Scorsese Presents The Blues: Keb' Mo'",
+        "url": "https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "Perpetual Blues Machine",
+      "url": "https://open.spotify.com/track/2CgFNet99tzGTEIxYrYbuN"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Rough and Rowdy Ways",
+        "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 253853,
+      "name": "Goodbye Jimmy Reed",
+      "url": "https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Back on Top",
+        "url": "https://open.spotify.com/album/5tpqIo7C4bCdDKh4kZrjwW"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "duration_ms": 205201,
+      "name": "Back on Top",
+      "url": "https://open.spotify.com/track/0E1xWsxgrVR01fsfTQTXh4"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Candy Man Blues: Essential Recordings",
+        "url": "https://open.spotify.com/album/5QrttrAFJuldYaHVPPrv0L"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 175226,
+      "name": "Candy Man Blues",
+      "url": "https://open.spotify.com/track/2zWPKlfQgU4csG9gpPsYNY"
     },
     {
       "added_at": "2022-05-25 13:30:46",
@@ -779,6 +623,110 @@
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
+        "name": "The Future Ain't What It Used to Be",
+        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
+      },
+      "artists": [
+        {
+          "name": "Seth Walker",
+          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+        }
+      ],
+      "duration_ms": 200987,
+      "name": "The Future Ain't What It Used to Be",
+      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Love Me Like a Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Martin Scorsese Presents The Blues: Keb' Mo'",
+        "url": "https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 138426,
+      "name": "Am I Wrong",
+      "url": "https://open.spotify.com/track/3xoMRK8egNvtjrCEQieLko"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Discover",
+        "url": "https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl"
+      },
+      "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        },
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        }
+      ],
+      "duration_ms": 247496,
+      "name": "Natural Blues",
+      "url": "https://open.spotify.com/track/5zakPCpl4O2v1UEow7Qv29"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Get Up! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xu9bQjnB72GNFeH31UDX7"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "You Found Another Lover (I Lost Another Friend) - The Machine Shop Session",
+      "url": "https://open.spotify.com/track/2ElTJmWJbuHT7owpTe3upS"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Remastered from the Archives",
+        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 145204,
+      "name": "This is Hip - Remastered",
+      "url": "https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
         "name": "Lone Star Blues",
         "url": "https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE"
       },
@@ -795,6 +743,106 @@
       "duration_ms": 237096,
       "name": "Lone Star Blues",
       "url": "https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "How Many Miles",
+        "url": "https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0"
+      },
+      "artists": [
+        {
+          "name": "Bo Ramsey",
+          "url": "https://open.spotify.com/artist/38qOf8V7eBUzxgFH9wTFYd"
+        },
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "Wounded Dog",
+      "url": "https://open.spotify.com/track/7fo6yqWRktquOz56JDsnco"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Mississippi Blues",
+        "url": "https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 152076,
+      "name": "Jumper Hanging Out On the Line",
+      "url": "https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "In Too Deep",
+        "url": "https://open.spotify.com/album/3ptdoPUdZaNSVAZSdEYeeZ"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "duration_ms": 183896,
+      "name": "Please Take My Hand",
+      "url": "https://open.spotify.com/track/2wWvmScZdELY3qBA4d22Kc"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Boneyard",
+        "url": "https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Boneyard - Edit",
+      "url": "https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "First McDonell's on the Moon",
+        "url": "https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4"
+      },
+      "artists": [
+        {
+          "name": "Jake La Botz",
+          "url": "https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "First McDonell's on the Moon",
+      "url": "https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "Tell Me Baby",
+      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
     },
     {
       "added_at": "2022-05-25 13:30:46",
@@ -831,66 +879,18 @@
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+        "name": "Harlem Street Singer",
+        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
       },
       "artists": [
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 135973,
-      "name": "Tell Me Baby",
-      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Boneyard",
-        "url": "https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU"
-      },
-      "artists": [
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Boneyard - Edit",
-      "url": "https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Don't Lose This",
-        "url": "https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1"
-      },
-      "artists": [
-        {
-          "name": "Pops Staples",
-          "url": "https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3"
-        }
-      ],
-      "duration_ms": 247293,
-      "name": "Somebody Was Watching",
-      "url": "https://open.spotify.com/track/4SmbQt4iFY5GTJQXGxz5Is"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Great God Almighty (Demo, Summer 2018)",
-        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
-      },
-      "artists": [
-        {
-          "name": "Mike Trask",
-          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
-        }
-      ],
-      "duration_ms": 178276,
-      "name": "Great God Almighty - Demo, Summer 2018",
-      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
+      "duration_ms": 283106,
+      "name": "Death Don't Have No Mercy",
+      "url": "https://open.spotify.com/track/2uoOm55gLvLMALwXmKrwXc"
     },
     {
       "added_at": "2022-05-25 13:30:46",
@@ -911,146 +911,34 @@
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "The Midnight Broadcast",
-        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
+        "name": "Great God Almighty (Demo, Summer 2018)",
+        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
       },
       "artists": [
         {
-          "name": "Peter Case",
-          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
+          "name": "Mike Trask",
+          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
         }
       ],
-      "duration_ms": 214933,
-      "name": "Bumble Bee",
-      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
+      "duration_ms": 178276,
+      "name": "Great God Almighty - Demo, Summer 2018",
+      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
     },
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Otis Spann Is The Blues",
-        "url": "https://open.spotify.com/album/1gOYJ8uvSBe021ieQL2z9f"
+        "name": "Don't Lose This",
+        "url": "https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1"
       },
       "artists": [
         {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+          "name": "Pops Staples",
+          "url": "https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3"
         }
       ],
-      "duration_ms": 209333,
-      "name": "Take A Little Walk With Me",
-      "url": "https://open.spotify.com/track/0GE8NTX8wh5TodHp85at1R"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Devil Got My Woman",
-        "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
-      },
-      "artists": [
-        {
-          "name": "Skip James",
-          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Devil Got My Woman",
-      "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 237769,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/7xy2SAiuKSfpUeUizXvmX7"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Blues Masters: The Greatest",
-        "url": "https://open.spotify.com/album/2eb3cUrLqyJrCCEOrH0QFe"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Driftin' Blues",
-      "url": "https://open.spotify.com/track/2GobDOqRDg3TZwM54xIBKX"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "The Devil Dancing",
-        "url": "https://open.spotify.com/album/674lfymYQKdcMA0kMy2dgO"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Danger and Dread",
-      "url": "https://open.spotify.com/track/2VUA9RXQluo3013YNhDeez"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "First McDonell's on the Moon",
-        "url": "https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4"
-      },
-      "artists": [
-        {
-          "name": "Jake La Botz",
-          "url": "https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX"
-        }
-      ],
-      "duration_ms": 231133,
-      "name": "First McDonell's on the Moon",
-      "url": "https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "Vanguard Visionaries",
-        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 335880,
-      "name": "Stagolee",
-      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "In Too Deep",
-        "url": "https://open.spotify.com/album/3ptdoPUdZaNSVAZSdEYeeZ"
-      },
-      "artists": [
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 183896,
-      "name": "Please Take My Hand",
-      "url": "https://open.spotify.com/track/2wWvmScZdELY3qBA4d22Kc"
+      "duration_ms": 247293,
+      "name": "Somebody Was Watching",
+      "url": "https://open.spotify.com/track/4SmbQt4iFY5GTJQXGxz5Is"
     },
     {
       "added_at": "2022-05-25 13:30:46",
@@ -1071,34 +959,50 @@
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Come to Find",
-        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
+        "name": "Devil Got My Woman",
+        "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
       },
       "artists": [
         {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+          "name": "Skip James",
+          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
         }
       ],
-      "duration_ms": 301733,
-      "name": "Mystery Woman",
-      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
+      "duration_ms": 315000,
+      "name": "Devil Got My Woman",
+      "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
     },
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Good Morning Mr. Blues",
-        "url": "https://open.spotify.com/album/2zb7HGV0Tme5sfLodL8Qmn"
+        "name": "Blues Masters: The Greatest",
+        "url": "https://open.spotify.com/album/2eb3cUrLqyJrCCEOrH0QFe"
       },
       "artists": [
         {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
         }
       ],
-      "duration_ms": 205360,
-      "name": "Good Morning Mr. Blues",
-      "url": "https://open.spotify.com/track/1T6DPowtT7hazkIVaiuoOW"
+      "duration_ms": 208840,
+      "name": "Driftin' Blues",
+      "url": "https://open.spotify.com/track/2GobDOqRDg3TZwM54xIBKX"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 335880,
+      "name": "Stagolee",
+      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
     },
     {
       "added_at": "2022-05-25 13:30:46",
@@ -1119,50 +1023,66 @@
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Man in the Ground",
-        "url": "https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF"
+        "name": "The Midnight Broadcast",
+        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
       },
       "artists": [
         {
-          "name": "Jack Barksdale",
-          "url": "https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt"
+          "name": "Peter Case",
+          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
         }
       ],
-      "duration_ms": 186920,
-      "name": "Man in the Ground",
-      "url": "https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf"
+      "duration_ms": 214933,
+      "name": "Bumble Bee",
+      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
     },
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "When Your Best Friend Turns Their Back On You",
-        "url": "https://open.spotify.com/album/3Ay1P99wYBVNKeQTF6z6M4"
+        "name": "Good Morning Mr. Blues",
+        "url": "https://open.spotify.com/album/2zb7HGV0Tme5sfLodL8Qmn"
       },
       "artists": [
         {
-          "name": "John Littlejohn",
-          "url": "https://open.spotify.com/artist/2HzWKvI04SaehwU6bM9GUn"
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
         }
       ],
-      "duration_ms": 361200,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/24iHvzbOM56UjDckloaz6o"
+      "duration_ms": 205360,
+      "name": "Good Morning Mr. Blues",
+      "url": "https://open.spotify.com/track/1T6DPowtT7hazkIVaiuoOW"
     },
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG"
       },
       "artists": [
         {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
         }
       ],
-      "duration_ms": 233226,
-      "name": "Keep Sinking",
-      "url": "https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif"
+      "duration_ms": 237769,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/7xy2SAiuKSfpUeUizXvmX7"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "The Devil Dancing",
+        "url": "https://open.spotify.com/album/674lfymYQKdcMA0kMy2dgO"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Danger and Dread",
+      "url": "https://open.spotify.com/track/2VUA9RXQluo3013YNhDeez"
     },
     {
       "added_at": "2022-05-25 13:30:46",
@@ -1187,6 +1107,54 @@
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
+        "name": "Man in the Ground",
+        "url": "https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF"
+      },
+      "artists": [
+        {
+          "name": "Jack Barksdale",
+          "url": "https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "Man in the Ground",
+      "url": "https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+      },
+      "artists": [
+        {
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+        }
+      ],
+      "duration_ms": 233226,
+      "name": "Keep Sinking",
+      "url": "https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Come to Find",
+        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 301733,
+      "name": "Mystery Woman",
+      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
         "name": "Shake Sugaree",
         "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
       },
@@ -1203,38 +1171,86 @@
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Mystery Man",
-        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
       },
       "artists": [
         {
-          "name": "Leon Redbone",
-          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
         }
       ],
-      "duration_ms": 291295,
-      "name": "T.B. Blues",
-      "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"
+      "duration_ms": 159360,
+      "name": "Blues Chase up a Rabbit",
+      "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
     },
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Newbury",
-        "url": "https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3"
+        "name": "Otis Spann Is The Blues",
+        "url": "https://open.spotify.com/album/1gOYJ8uvSBe021ieQL2z9f"
       },
       "artists": [
         {
-          "name": "Emiliano Savini",
-          "url": "https://open.spotify.com/artist/46GUtbDolQDzC9WU2gYIqv"
-        },
-        {
-          "name": "Liliana Richter",
-          "url": "https://open.spotify.com/artist/7BaNCwzekjzjD4aRrysKms"
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Newbury",
-      "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
+      "duration_ms": 209333,
+      "name": "Take A Little Walk With Me",
+      "url": "https://open.spotify.com/track/0GE8NTX8wh5TodHp85at1R"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Guitar Blues 101",
+        "url": "https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy & Junior Wells",
+          "url": "https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t"
+        }
+      ],
+      "duration_ms": 273573,
+      "name": "Rollin' and Tumblin'",
+      "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Steady Rollin' On",
+        "url": "https://open.spotify.com/album/1zTA6G1K1uWR4Bny4VDkjL"
+      },
+      "artists": [
+        {
+          "name": "Bob Margolin",
+          "url": "https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Steady Rollin' On",
+      "url": "https://open.spotify.com/track/4xIifILl8eoYdAItBvgjZ7"
+    },
+    {
+      "added_at": "2022-05-25 13:30:46",
+      "album": {
+        "name": "Got to Go Back Home",
+        "url": "https://open.spotify.com/album/47a2tTcWRCEOxQVEw12tvR"
+      },
+      "artists": [
+        {
+          "name": "Chris Kramer",
+          "url": "https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ"
+        },
+        {
+          "name": "Jens Filser",
+          "url": "https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp"
+        }
+      ],
+      "duration_ms": 234473,
+      "name": "Got to Go Back Home",
+      "url": "https://open.spotify.com/track/0Br4WpOz24iobkfvAEVsz6"
     },
     {
       "added_at": "2022-05-25 13:30:46",
@@ -1255,38 +1271,18 @@
     {
       "added_at": "2022-05-25 13:30:46",
       "album": {
-        "name": "Delta by the Beach",
-        "url": "https://open.spotify.com/album/2dKeBXScUH7RMIGs7uwqC6"
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
       },
       "artists": [
         {
-          "name": "Delta by the Beach",
-          "url": "https://open.spotify.com/artist/0OrJZ0NUZEcABLBLSBCiGg"
-        },
-        {
-          "name": "Flattop Tom",
-          "url": "https://open.spotify.com/artist/7383pq5vqDNdGvYepg5Li9"
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
         }
       ],
-      "duration_ms": 159250,
-      "name": "Delta by the Beach",
-      "url": "https://open.spotify.com/track/5grwVBDib4CwIcvPqAmexS"
-    },
-    {
-      "added_at": "2022-05-25 13:30:46",
-      "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
-      },
-      "artists": [
-        {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Blues Chase up a Rabbit",
-      "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
+      "duration_ms": 236182,
+      "name": "Money Talks",
+      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
     }
   ],
   "unique_name": "Black Coffee Blues",

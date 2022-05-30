@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,151 likes - 47 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,248 likes - 47 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 46 | [Heaven's Gate \(feat\. Lily Allen\)](https://open.spotify.com/track/6FccLTPgQd0vnrFqmtbD64) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:22 |
 | 47 | [Sponono](https://open.spotify.com/track/5T6wd1ScvJGSz17zMCugW0) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [I Am The King Of Amapiano: Sweet & Dust](https://open.spotify.com/album/5YiIm4cWzk8dDshWB179mE) | 6:35 |
 
-Snapshot ID: `Mjc1NjI1ODAsMDAwMDAwMDBmZTAwYTk4MjA3ZTVlOWFmYWM0ZDg0ODg2ZmM5MGQ1OQ==`
+Snapshot ID: `Mjc1NjM4NzMsMDAwMDAwMDAzMTcyNzc1YzI5ODlhMTNjMmQ5NTg2MzQ3YTcyNDhmYQ==`

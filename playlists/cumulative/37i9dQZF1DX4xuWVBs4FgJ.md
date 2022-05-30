@@ -4,7 +4,7 @@
 
 > Dinner with Friends? Here's the perfect playlist.
 
-158 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
+159 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [I Heard You From Afar](https://open.spotify.com/track/6lz4vzv0JlD73qeKW5qsUT) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Heaven Knows, Right?](https://open.spotify.com/album/4aSYt36QkZJP5fGV1rYt9C) | 2:20 | 2021-06-22 | 2022-05-18 |
 | [I Wish](https://open.spotify.com/track/1z49ktSkJvCSUlVmTs9rpZ) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [I Wish](https://open.spotify.com/album/3sq1PsjnTYJLmBqRH5x9IG) | 3:18 | 2021-06-22 |  |
 | [I'm on Fire](https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 3:12 | 2021-06-22 |  |
-| [If Not With You, For You](https://open.spotify.com/track/2Vp7ZK5wP51LYayV14ichq) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [If Not With You, For You](https://open.spotify.com/album/1TYQx1Ku35FXe4eatyAGeC) | 3:08 | 2021-06-22 |  |
+| [If Not With You, For You](https://open.spotify.com/track/2Vp7ZK5wP51LYayV14ichq) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [If Not With You, For You](https://open.spotify.com/album/1TYQx1Ku35FXe4eatyAGeC) | 3:08 | 2021-06-22 | 2022-05-30 |
 | [If That's Alright](https://open.spotify.com/track/1PZG9IBZMCY6HdK2v8kSYo) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [If That's Alright](https://open.spotify.com/album/0N45Hx7WHKubuoOVWUzgSH) | 3:55 | 2021-06-22 |  |
 | [It Must Have Been Love](https://open.spotify.com/track/78cPgtQsHjDfkZBGkKuugS) | [RÅNDA](https://open.spotify.com/artist/4id5VIPgURo2I3SYw1ApFa) | [It Must Have Been Love](https://open.spotify.com/album/03HdS1SaT04uHe7Rr185bp) | 3:12 | 2021-06-22 | 2022-05-18 |
 | [Jungle](https://open.spotify.com/track/2sFo4HAjQfBBaV22QRg75a) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Jungle](https://open.spotify.com/album/3weoFCQUyngxOP2Okdrfhc) | 2:40 | 2021-06-22 |  |
@@ -124,6 +124,7 @@
 | [Oceans \- Acoustic Version](https://open.spotify.com/track/5vZrslgryUYs5C4kpUnQoz) | [Barfalk](https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO), [Honey Belle Pears](https://open.spotify.com/artist/00ftJM3LBf1E5uoGPe5bz2) | [Oceans](https://open.spotify.com/album/0iF1j9nhAxi2yMw61iHtXc) | 4:01 | 2021-06-22 | 2022-05-18 |
 | [Oheja](https://open.spotify.com/track/5ACfk4NnDfQjcJ9fl3baZD) | [Sean Christopher](https://open.spotify.com/artist/0e4vnHBYwY6LQqrhutIcnj) | [Oheja](https://open.spotify.com/album/5wPS5gx8OMlWsYLwtVOnnT) | 3:39 | 2021-06-22 | 2022-05-28 |
 | [On The Bus](https://open.spotify.com/track/1c4dSupkZuIpr6YiEHZss4) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [On The Bus](https://open.spotify.com/album/6LvYOELLILL2LXUPm36JJu) | 2:46 | 2021-06-22 | 2022-05-28 |
+| [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 | 2022-05-27 |  |
 | [Ordinary People](https://open.spotify.com/track/0FrHyYxj92dg4qIu8BO30l) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Ordinary People](https://open.spotify.com/album/5ofUV5bkz4T0rWWwJdhoOR) | 4:13 | 2021-06-22 | 2022-05-18 |
 | [Perfectly Imperfect](https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Perfectly Imperfect](https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy) | 3:24 | 2021-06-22 |  |
 | [Picking Flowers](https://open.spotify.com/track/25DhGXCrAoGppWiU8beWqX) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [FRONTYARD EP](https://open.spotify.com/album/340CX8mw2SrcHE67JwonOB) | 3:00 | 2021-06-22 |  |
@@ -152,11 +153,11 @@
 | [Vincent](https://open.spotify.com/track/4FSUtZs7mH9V6eWB2EBXdH) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Vincent](https://open.spotify.com/album/1wfAzSF0uPCOu8yngdcKsY) | 3:43 | 2021-06-22 |  |
 | [Walls \- Naked Edition](https://open.spotify.com/track/4jIEgyvK3AbptWjps8IDXR) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Walls \(Naked Edition\)](https://open.spotify.com/album/2j7PeOrfX7XPhIwduGyK60) | 2:59 | 2021-06-22 | 2022-02-20 |
 | [Want You Back \- Acoustic](https://open.spotify.com/track/4twiC6FAkanyFLXMRoMhwf) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Want You Back \(Acoustic\)](https://open.spotify.com/album/6aKAnlTkHozKsnwwdWJIDZ) | 2:59 | 2022-05-17 |  |
-| [Warwick Avenue](https://open.spotify.com/track/5Og47k4AHrotP2QP36p5iO) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry \(intl Deluxe Edition\)](https://open.spotify.com/album/7HPrr0iy8FSvvCtfPWeKRA) | 3:46 | 2022-05-17 |  |
+| [Warwick Avenue](https://open.spotify.com/track/5Og47k4AHrotP2QP36p5iO) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry \(intl Deluxe Edition\)](https://open.spotify.com/album/7HPrr0iy8FSvvCtfPWeKRA) | 3:46 | 2022-05-17 | 2022-05-30 |
 | [Water Under The Bridge](https://open.spotify.com/track/7xfzwPasShmaPL7gB7va3J) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:00 | 2021-06-22 |  |
 | [What A Day](https://open.spotify.com/track/2cnuiYBSniFCbnVBw2vVXH) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [What A Day](https://open.spotify.com/album/66qrZ13E9AatdoK9DIVO5v) | 3:09 | 2021-06-22 | 2022-05-18 |
 | [What Other People Say](https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [What Other People Say](https://open.spotify.com/album/0VzqGKZQDQLSse6W0hgABW) | 3:14 | 2021-06-22 | 2022-05-28 |
-| [When We Were Young](https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:50 | 2022-05-27 | 2022-05-29 |
+| [When We Were Young](https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:50 | 2022-05-27 |  |
 | [Where Do You Go](https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Where Do You Go](https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL) | 3:57 | 2021-06-22 | 2022-05-28 |
 | [Whiskey To My Soul](https://open.spotify.com/track/0I4lY4YaaB9vGf1yzdcgFs) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Whiskey To My Soul](https://open.spotify.com/album/4sOkRZGkUaqkHSMRl1oMKm) | 3:45 | 2021-06-22 |  |
 | [Who You Lovin](https://open.spotify.com/track/4cMXF5AmiAoUL8JW0j2l9M) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Who You Lovin / In a Stranger's Arms](https://open.spotify.com/album/5qPyANB87pkul0IYJbJhwD) | 2:58 | 2021-06-22 |  |

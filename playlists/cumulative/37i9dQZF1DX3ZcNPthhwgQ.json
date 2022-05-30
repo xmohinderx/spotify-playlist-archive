@@ -106,6 +106,24 @@
     },
     {
       "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182106,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
+    },
+    {
+      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
@@ -251,7 +269,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 140954,
       "name": "Billetes Verdes",
       "url": "https://open.spotify.com/track/7GUvguaB0Ltzva87xgSpVv"
@@ -491,7 +509,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 172400,
       "name": "De Ti Me Enamor\u00e9",
       "url": "https://open.spotify.com/track/7LFmpZtneb6M1MMswWffwG"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 245376,
       "name": "El Comerciante",
       "url": "https://open.spotify.com/track/56YZft0whsresPdufFqwwS"
@@ -983,7 +1001,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 191996,
       "name": "El Envidioso",
       "url": "https://open.spotify.com/track/3cExeifTyKQSMLLwG70wIo"
@@ -1175,7 +1193,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 259402,
       "name": "Ella",
       "url": "https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq"
@@ -1545,7 +1563,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "La Escuela No Me Gust\u00f3",
       "url": "https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94"
@@ -1755,7 +1773,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 192390,
       "name": "Mente Positiva",
       "url": "https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY"
@@ -2197,7 +2215,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 213943,
       "name": "Porte Exuberante",
       "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
@@ -2277,7 +2295,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 194797,
       "name": "Que La Quieran (Que La Cuiden)",
       "url": "https://open.spotify.com/track/1axqKw987jqGeTfjm9tOuv"
@@ -2401,7 +2419,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 235858,
       "name": "Se Amerita",
       "url": "https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt"
@@ -2531,7 +2549,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 279359,
       "name": "Si Ma\u00f1ana Muero",
       "url": "https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7"
@@ -2625,7 +2643,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 203480,
       "name": "Simplemente Gracias",
       "url": "https://open.spotify.com/track/5TVpVYcU47B23onx6llnvv"
@@ -2719,7 +2737,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 220480,
       "name": "Soy Lo Que Ves",
       "url": "https://open.spotify.com/track/3Kl7sIgzMYQvxZxjEV9sC0"
@@ -3109,7 +3127,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 200146,
       "name": "Vuelve Por Favor",
       "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
@@ -3203,7 +3221,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 201400,
       "name": "Ya Se Fue",
       "url": "https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr"

@@ -4,14 +4,14 @@
 
 > When you want to be alone and the Blues is your soundtrack.
 
-55 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/7aLejfa10LatvlE9q0LFcJ)
+57 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/7aLejfa10LatvlE9q0LFcJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Fool No More](https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [Man of the World: The Anthology 1968\-1988](https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o) | 7:44 | 2022-05-13 |  |
 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 | 2022-05-13 |  |
 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 | 2022-05-13 |  |
-| [Blues On The Bay](https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [A Savage Life](https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B) | 2:47 | 2022-05-27 |  |
+| [Blues On The Bay](https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [A Savage Life](https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B) | 2:47 | 2022-05-27 | 2022-05-30 |
 | [Brand New](https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Brand New](https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q) | 6:59 | 2022-05-13 | 2022-05-29 |
 | [By The Water](https://open.spotify.com/track/2OWa4hkdlpxPrb2ZvOwWCv) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/7CrxQyz0pFkETwJFlXN7L8) | 2:39 | 2022-05-13 |  |
 | [Cold, Cold Feeling](https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:18 | 2022-05-13 |  |
@@ -35,6 +35,7 @@
 | [Lonely Bed](https://open.spotify.com/track/2glwN5raCeEn0EdjKrNw6i) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg), [Tommy Shannon](https://open.spotify.com/artist/4L81vlq3wCkssFBK1UpPDN) | [True To Yourself](https://open.spotify.com/album/6djxMkLPDJdk3N1bIExPNV) | 7:36 | 2022-05-13 |  |
 | [Lonely World](https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Blues](https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x) | 8:22 | 2022-05-13 |  |
 | [Lonesome In My Bedroom](https://open.spotify.com/track/4xu0LW34dFEoHG1x65tQPx) | [Luther Johnson](https://open.spotify.com/artist/1fgNJ5TmN4k8Kf1zdaSBoV) | [They Call Me the Popcorn Man \(France 1975\) \[Blues Reference\]](https://open.spotify.com/album/4crkm4DvH6Bn7B4oRMIetm) | 6:25 | 2022-05-13 |  |
+| [Lonesome Road Blues](https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 3:03 | 2022-05-27 |  |
 | [Long Distance](https://open.spotify.com/track/2yhLL9sVhNVQbD5lWFXlxd) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Folk Singer](https://open.spotify.com/album/5cLWh6nwcLUX2H4oGfW9Rx) | 3:33 | 2022-05-13 |  |
 | [Love Is Gone](https://open.spotify.com/track/72H7XGrB55Uh7IOxlPD6u6) | [Deb Ryder](https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3) | [Memphis Moonlight](https://open.spotify.com/album/190SoOYPW7oceXrstDTvp8) | 4:48 | 2022-05-13 |  |
 | [Love That Burns](https://open.spotify.com/track/5zdVcGENQQ5pXTXxFp9oCZ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful](https://open.spotify.com/album/2yBjm0Jb8d8Oaor7F6ivyN) | 5:02 | 2022-05-13 |  |
@@ -49,7 +50,8 @@
 | [She's Gone](https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Hound Dog Taylor & The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:51 | 2022-05-13 |  |
 | [Ships on the Ocean](https://open.spotify.com/track/5qZkTvK2yktEtZ1BxJeGCr) | [Junior Wells' Chicago Blues Band](https://open.spotify.com/artist/3qhyjnRYQ1YprGjhvGQ8GP) | [Hoodoo Man Blues](https://open.spotify.com/album/3TBecWtWPePxMvoqNAEuDt) | 4:07 | 2022-05-27 |  |
 | [Slow Burning Love](https://open.spotify.com/track/2JkHY8iEaClOCBneUNuD0a) | [Oscar LaDell](https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB), [Chris Armour](https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r) | [Slow Burning Love](https://open.spotify.com/album/2Zwtl70eaowopCHRsvuEa0) | 3:11 | 2022-05-13 |  |
-| [Someone Broke This Heart of Mine](https://open.spotify.com/track/1nAib0m89PRTuvauNATdOU) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Pretty Baby](https://open.spotify.com/album/1ck7nHDnXEfVJI1ee0IkuZ) | 2:15 | 2022-05-13 |  |
+| [Someone Broke This Heart of Mine](https://open.spotify.com/track/1nAib0m89PRTuvauNATdOU) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Pretty Baby](https://open.spotify.com/album/1ck7nHDnXEfVJI1ee0IkuZ) | 2:15 | 2022-05-13 | 2022-05-30 |
+| [Souled Out On You](https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:33 | 2022-05-27 |  |
 | [Still Here](https://open.spotify.com/track/48EXlenGFwcnZWdh6AqUW4) | [Ben Levin](https://open.spotify.com/artist/7JPxlItTC9DxZ7YwAOwLci) | [Still Here](https://open.spotify.com/album/5KhHtOUptVZINgVHuyIgDD) | 4:10 | 2022-05-13 |  |
 | [Sweet Little Angel](https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 | 2022-05-13 |  |
 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 | 2022-05-13 |  |

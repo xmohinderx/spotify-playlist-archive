@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,703 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,712 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 | 19 | [Screamin' at the Moon](https://open.spotify.com/track/7K9lnr4hGsGkx1OtrxUz8g) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:09 |
 | 20 | [Beautiful Man of Mine](https://open.spotify.com/track/35NPXOAZeNlu6WMRfJAA8m) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 6:58 |
 | 21 | [When You Get Right Down to It](https://open.spotify.com/track/0LlfOstih9quyorg6AzhpZ) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Prime Of My Life](https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f) | 4:21 |
-| 22 | [Souvenirs](https://open.spotify.com/track/3yNsxa2HKOrEwov5Ygk5Jt) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:26 |
+| 22 | [I Refuse to Be Lonely](https://open.spotify.com/track/7ExBN9mMlaGDymm6SIZDPz) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 3:58 |
 | 23 | [If You Want Me](https://open.spotify.com/track/1kU7W8P5aCIyK7Qk19VcfB) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:19 |
-| 24 | [I Refuse to Be Lonely](https://open.spotify.com/track/7ExBN9mMlaGDymm6SIZDPz) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 3:58 |
+| 24 | [Souvenirs](https://open.spotify.com/track/3yNsxa2HKOrEwov5Ygk5Jt) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:26 |
 | 25 | [I Found Love](https://open.spotify.com/track/5K3PneofTHEwyxmk3WBKW9) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Prime Of My Life](https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f) | 4:26 |
 | 26 | [Be One \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1EF7lcwgxH3Np3fcE3v81t) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 4:36 |
 | 27 | [Loving You \- Losing You](https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 7:30 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 | 47 | [Hurry up This Way Again](https://open.spotify.com/track/0ZO2hnswG8lteyIf6G4FFn) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:22 |
 | 48 | [Some Way](https://open.spotify.com/track/67WlLXB2CSnD56PTtEVa2K) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 5:10 |
 | 49 | [Give Me One Good Reason To Stay](https://open.spotify.com/track/5XRZsDzYzhxqsavBz2AghS) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:13 |
-| 50 | [Remember Who You Are \- Reprise](https://open.spotify.com/track/4dSzqYdNc4nz3knQp7wXAO) | [Norman Connors](https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Remember Who You Are](https://open.spotify.com/album/5yCGSEkSYJdLMa57czbpOa) | 1:13 |
+| 50 | [Your Move, My Heart](https://open.spotify.com/track/2hsYj0BZHBOj9aXTCEh13l) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Goddess of Love \(Expanded Edition\)](https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY) | 4:44 |
 
-Snapshot ID: `Mjc1NjI1NzksMDAwMDAwMDAxZjZmMDI0ZGVkZjk0NjQ0NDU2NTJiMDViMjFmMDhiZQ==`
+Snapshot ID: `Mjc1NjM4NzMsMDAwMDAwMDA2YjdjOWQ2NjM1ZjFhMWIzMjg1NGYyZjM5MzkzZWJmYg==`

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones Latinas de mayo 2022.",
-  "num_followers": 1467092,
+  "num_followers": 1467505,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc4NjM4NywwMDAwMDAwMDVjNDVhMTgzZDFlNTRmNjExZDhlZjFiNTVlYmJmZGM1",
+  "snapshot_id": "MTY1Mzg3MzEyMywwMDAwMDAwMDg0YTI0ZmViNGFhNjI3MDgxNDZhYmNiNWUxNTM2MDdi",
   "tracks": [
     {
       "added_at": "2022-05-27 14:56:26",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-05-27 14:56:26",
       "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
+    },
+    {
+      "added_at": "2022-05-27 14:56:26",
+      "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
       },
@@ -147,22 +163,6 @@
     {
       "added_at": "2022-05-27 14:56:26",
       "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 160733,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
-    },
-    {
-      "added_at": "2022-05-27 14:56:26",
-      "album": {
         "name": "Soy Yo",
         "url": "https://open.spotify.com/album/7JuLd58gOTogWvAwNyYggp"
       },
@@ -183,22 +183,6 @@
       "duration_ms": 218865,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/20Ca0pIyUwu9jIUJ2sr5cg"
-    },
-    {
-      "added_at": "2022-05-27 14:56:26",
-      "album": {
-        "name": "NO MIENTEN",
-        "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 147395,
-      "name": "NO MIENTEN",
-      "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
     },
     {
       "added_at": "2022-05-27 14:56:26",
@@ -247,22 +231,50 @@
     {
       "added_at": "2022-05-27 14:56:26",
       "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
+        "name": "La Equivocada",
+        "url": "https://open.spotify.com/album/4SFf9s5HXSycEG0zLgK11l"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
         }
       ],
-      "duration_ms": 188560,
-      "name": "Hasta Los Dientes",
-      "url": "https://open.spotify.com/track/2U0jWXrxJUzWVlLsHttAXJ"
+      "duration_ms": 198294,
+      "name": "La Equivocada",
+      "url": "https://open.spotify.com/track/4hM1rUoUrthsX8D4BH74MO"
+    },
+    {
+      "added_at": "2022-05-27 14:56:26",
+      "album": {
+        "name": "NO MIENTEN",
+        "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 147395,
+      "name": "NO MIENTEN",
+      "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
+    },
+    {
+      "added_at": "2022-05-27 14:56:26",
+      "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2022-05-27 14:56:26",
@@ -287,22 +299,6 @@
     {
       "added_at": "2022-05-27 14:56:26",
       "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
-    },
-    {
-      "added_at": "2022-05-27 14:56:26",
-      "album": {
         "name": "No Te Bast\u00f3, Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54"
       },
@@ -319,46 +315,22 @@
     {
       "added_at": "2022-05-27 14:56:26",
       "album": {
-        "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
-        "url": "https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2"
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
       },
       "artists": [
         {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 254920,
-      "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
-      "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
-    },
-    {
-      "added_at": "2022-05-27 14:56:26",
-      "album": {
-        "name": "La Equivocada",
-        "url": "https://open.spotify.com/album/4SFf9s5HXSycEG0zLgK11l"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 198294,
-      "name": "La Equivocada",
-      "url": "https://open.spotify.com/track/4hM1rUoUrthsX8D4BH74MO"
+      "duration_ms": 188560,
+      "name": "Hasta Los Dientes",
+      "url": "https://open.spotify.com/track/2U0jWXrxJUzWVlLsHttAXJ"
     },
     {
       "added_at": "2022-05-27 14:56:26",
@@ -399,18 +371,30 @@
     {
       "added_at": "2022-05-27 14:56:26",
       "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu"
+        "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
+        "url": "https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2"
       },
       "artists": [
         {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 200760,
-      "name": "Peligro",
-      "url": "https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5"
+      "duration_ms": 254920,
+      "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
+      "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
     },
     {
       "added_at": "2022-05-27 14:56:26",
@@ -427,6 +411,22 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2022-05-27 14:56:26",
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu"
+      },
+      "artists": [
+        {
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5"
     },
     {
       "added_at": "2022-05-27 14:56:26",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-05-27 14:56:26",
       "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/1yUx6Fn9wMxJX7pCvy1CCQ"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/7INDea2qgB7TlUgpux3hsg"
+    },
+    {
+      "added_at": "2022-05-27 14:56:26",
+      "album": {
         "name": "Quiero Decirte",
         "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
       },
@@ -475,18 +491,22 @@
     {
       "added_at": "2022-05-27 14:56:26",
       "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/1yUx6Fn9wMxJX7pCvy1CCQ"
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         }
       ],
-      "duration_ms": 178080,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/7INDea2qgB7TlUgpux3hsg"
+      "duration_ms": 174546,
+      "name": "TAJIN",
+      "url": "https://open.spotify.com/track/6stQ6SHIch2zT8yCUbsvWc"
     },
     {
       "added_at": "2022-05-27 14:56:26",
@@ -527,26 +547,6 @@
     {
       "added_at": "2022-05-27 14:56:26",
       "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 174546,
-      "name": "TAJIN",
-      "url": "https://open.spotify.com/track/6stQ6SHIch2zT8yCUbsvWc"
-    },
-    {
-      "added_at": "2022-05-27 14:56:26",
-      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 203910,
       "name": "???",
       "url": "https://open.spotify.com/track/6yng30OK3qqZWW2DJCiMCt"
+    },
+    {
+      "added_at": "2022-05-27 14:56:26",
+      "album": {
+        "name": "Guay",
+        "url": "https://open.spotify.com/album/0tqQ2CaKB7HMaWKWeQOnOR"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Guay",
+      "url": "https://open.spotify.com/track/3voNGqzixtoyzTBQd3tKXl"
     },
     {
       "added_at": "2022-05-27 14:56:26",
@@ -583,22 +599,6 @@
       "duration_ms": 249801,
       "name": "Llueve",
       "url": "https://open.spotify.com/track/5yDAnr9USNQTP6ojiWBCvv"
-    },
-    {
-      "added_at": "2022-05-27 14:56:26",
-      "album": {
-        "name": "Guay",
-        "url": "https://open.spotify.com/album/0tqQ2CaKB7HMaWKWeQOnOR"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Guay",
-      "url": "https://open.spotify.com/track/3voNGqzixtoyzTBQd3tKXl"
     },
     {
       "added_at": "2022-05-27 14:56:26",
@@ -639,6 +639,22 @@
       "duration_ms": 202003,
       "name": "Kong 2.0",
       "url": "https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN"
+    },
+    {
+      "added_at": "2022-05-27 14:56:26",
+      "album": {
+        "name": "\u00bfQu\u00e9 Nos Pas\u00f3?",
+        "url": "https://open.spotify.com/album/4q4kJrDt0OcTP2of4YUuHR"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 245738,
+      "name": "\u00bfQu\u00e9 Nos Pas\u00f3?",
+      "url": "https://open.spotify.com/track/7k3qWn8D43a5ISa3x8lJux"
     },
     {
       "added_at": "2022-05-27 14:56:26",
@@ -711,22 +727,6 @@
       "duration_ms": 186397,
       "name": "Puro Sentimiento",
       "url": "https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P"
-    },
-    {
-      "added_at": "2022-05-27 14:56:26",
-      "album": {
-        "name": "\u00bfQu\u00e9 Nos Pas\u00f3?",
-        "url": "https://open.spotify.com/album/4q4kJrDt0OcTP2of4YUuHR"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 245738,
-      "name": "\u00bfQu\u00e9 Nos Pas\u00f3?",
-      "url": "https://open.spotify.com/track/7k3qWn8D43a5ISa3x8lJux"
     },
     {
       "added_at": "2022-05-27 14:56:26",
@@ -807,6 +807,26 @@
     {
       "added_at": "2022-05-27 14:56:26",
       "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 227814,
+      "name": "SI SUPIERAS",
+      "url": "https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT"
+    },
+    {
+      "added_at": "2022-05-27 14:56:26",
+      "album": {
         "name": "No Hay Pretextos",
         "url": "https://open.spotify.com/album/16bDmxf5OK7AcGYTtr87RM"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 198181,
       "name": "No Hay Pretextos",
       "url": "https://open.spotify.com/track/0pnTtFxHkoKiWdLVVCFJxd"
-    },
-    {
-      "added_at": "2022-05-27 14:56:26",
-      "album": {
-        "name": "NOSTALGIA",
-        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 227814,
-      "name": "SI SUPIERAS",
-      "url": "https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT"
     },
     {
       "added_at": "2022-05-27 14:56:26",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-05-27 14:56:26",
       "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 184038,
-      "name": "Versions of Me",
-      "url": "https://open.spotify.com/track/2nkuIfizGlr456oUbGCBmZ"
-    },
-    {
-      "added_at": "2022-05-27 14:56:26",
-      "album": {
         "name": "La Dulce y Ruda Melod\u00eda",
         "url": "https://open.spotify.com/album/2cdK1Vrxe6zO9ZOsrmFhnB"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 161488,
       "name": "Nena De Casa",
       "url": "https://open.spotify.com/track/05MDFoOYSTe7IUIg4JZJeq"
+    },
+    {
+      "added_at": "2022-05-27 14:56:26",
+      "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 184038,
+      "name": "Versions of Me",
+      "url": "https://open.spotify.com/track/2nkuIfizGlr456oUbGCBmZ"
     },
     {
       "added_at": "2022-05-27 14:56:26",

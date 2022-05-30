@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Christian Nodal; Matisse; Calvin Harris, Dua Lipa y Young Thug; MC Davo y Santa Fe Klan; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,424 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,491 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,503 likes - 640 songs - 1 day 18 hr 59 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,505 likes - 642 songs - 1 day 19 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -648,5 +648,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 638 | [Blunderbuss](https://open.spotify.com/track/2bItWLPlRV0k38WVcNrLUS) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 3:05 |
 | 639 | [Live Without You](https://open.spotify.com/track/0c7mDfQ7tEV6IK5vGORefK) | [3rd Secret](https://open.spotify.com/artist/4atj4MLAMFKMwu4PG1zzb7) | [3rd Secret](https://open.spotify.com/album/6bhdV9FIncMze0E0ElvsTr) | 2:50 |
 | 640 | [I Choose Me](https://open.spotify.com/track/064I7lnHPQP68nbVZpS9K7) | [3rd Secret](https://open.spotify.com/artist/4atj4MLAMFKMwu4PG1zzb7) | [3rd Secret](https://open.spotify.com/album/6bhdV9FIncMze0E0ElvsTr) | 4:30 |
+| 641 | [A Hairdryer](https://open.spotify.com/track/5eGvUvIliCcmFqwC8kQSAw) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 5:17 |
+| 642 | [Free In The Knowledge](https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:12 |
 
-Snapshot ID: `MTY2MiwzZjgwYmUyY2JkOWI4OWY1N2Y4Mjk2Y2Y4ZjcwMjg5ZDY0Yzg3ODRk`
+Snapshot ID: `MTY2NCxkYmFmMmNmMzI2NDNiZmM0ZGJmNzAzZjM4MmRlNTg2Mzk2MWI0OWQ3`

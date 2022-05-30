@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 158106,
       "name": "BADMAN",
       "url": "https://open.spotify.com/track/4TIg48icSzqwThnahl0tR1"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 139500,
       "name": "Bom Tempo (Good Time)",
       "url": "https://open.spotify.com/track/2N32YQOuBOocvuvQdtKK2k"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 200168,
       "name": "Coming In Hot",
       "url": "https://open.spotify.com/track/1kVYXfxTWSftIZtmYr6yH8"
@@ -1001,7 +1001,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 190427,
       "name": "Creyendo",
       "url": "https://open.spotify.com/track/6l9QdiDUTZakMMe8co4ztr"
@@ -1095,7 +1095,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 231600,
       "name": "Do It Anyway (feat. Kadence)",
       "url": "https://open.spotify.com/track/25L031n0unw4IKDjabQuwN"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 266181,
       "name": "Energ\u00eda - Remix",
       "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
@@ -1639,7 +1639,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 232615,
       "name": "FYE FYE",
       "url": "https://open.spotify.com/track/08L5NUKHYS0RO32tz34G4A"
@@ -1869,7 +1869,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 163384,
       "name": "Going In",
       "url": "https://open.spotify.com/track/4Etj99LPAXHDOYOd1Z1EsD"
@@ -2007,7 +2007,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 217915,
       "name": "Hall of Fame",
       "url": "https://open.spotify.com/track/6vOrFSgl9uYHexljLl26E1"
@@ -2077,7 +2077,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "Help Me - Josh Ellis Remix",
       "url": "https://open.spotify.com/track/2KxYKAqHF02Tzi3ky7afRV"
@@ -2307,7 +2307,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 118386,
       "name": "Holy Steppin",
       "url": "https://open.spotify.com/track/2VxHNuJBR2AzVLLIHfVvV3"
@@ -2387,7 +2387,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 175359,
       "name": "Hunger Games",
       "url": "https://open.spotify.com/track/24kSxDyr1qpgulJIGJvt3k"
@@ -2645,10 +2645,54 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 174166,
       "name": "It's Not a Game",
       "url": "https://open.spotify.com/track/4ZldPUIhCbTdvGsMHN7Ubk"
+    },
+    {
+      "album": {
+        "name": "Jonah",
+        "url": "https://open.spotify.com/album/3dymiggXTLt85VuUagBcjH"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Jonah",
+      "url": "https://open.spotify.com/track/4cWDgGTClNmfdscTIjPUy8"
+    },
+    {
+      "album": {
+        "name": "Judgement",
+        "url": "https://open.spotify.com/album/6FrPawTmgqmj0taftHb1nM"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "Marko",
+          "url": "https://open.spotify.com/artist/3zMt8gpVjvdf9d7HXqpPU6"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136344,
+      "name": "Judgement",
+      "url": "https://open.spotify.com/track/07MtxcYnX3S7sdgkdZW20Y"
     },
     {
       "album": {
@@ -2755,7 +2799,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 195918,
       "name": "KING of 'kings\"",
       "url": "https://open.spotify.com/track/1LRjbSailfqUFnYUGZIinm"
@@ -3014,6 +3058,28 @@
     },
     {
       "album": {
+        "name": "Look at Me Now",
+        "url": "https://open.spotify.com/album/430Kd4ZOu31gytgHSIk4Jh"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        },
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238895,
+      "name": "Look at Me Now",
+      "url": "https://open.spotify.com/track/0D0cxJpnhijpr5QMmKmYDL"
+    },
+    {
+      "album": {
         "name": "One-Way Conversations",
         "url": "https://open.spotify.com/album/2iB2b6Vw1eOWJc4ZNQPLhW"
       },
@@ -3113,7 +3179,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 170357,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/22FlIBvzFuGIxls2m4teEG"
@@ -3225,7 +3291,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 200931,
       "name": "Need You",
       "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
@@ -3461,7 +3527,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 187692,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
@@ -3479,7 +3545,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 152938,
       "name": "Not A Monster",
       "url": "https://open.spotify.com/track/46eyVsonXTfTmLcUVYskUw"
@@ -3593,6 +3659,24 @@
       "duration_ms": 152310,
       "name": "On Point",
       "url": "https://open.spotify.com/track/0HzyRWnahxFFPpZtuJFSIU"
+    },
+    {
+      "album": {
+        "name": "ON THA SEAT",
+        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
+      },
+      "artists": [
+        {
+          "name": "adriansings",
+          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207068,
+      "name": "ON THA SEAT",
+      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
     },
     {
       "album": {
@@ -3907,7 +3991,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 238000,
       "name": "Push Thru",
       "url": "https://open.spotify.com/track/5bF0y9fkeEmf2ilhO3CCvr"
@@ -4027,6 +4111,24 @@
       "duration_ms": 127000,
       "name": "RECOGNIZE",
       "url": "https://open.spotify.com/track/6onsgnoCfzkrqxuN3wyLek"
+    },
+    {
+      "album": {
+        "name": "Relentless",
+        "url": "https://open.spotify.com/album/6BQiqwlml6MOOlHlxFknLl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Jackson",
+          "url": "https://open.spotify.com/artist/47QfiNHagnHh4A8B5Cm4Du"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "Relentless",
+      "url": "https://open.spotify.com/track/2EVqKVzyVDOkeZxy8lmvKx"
     },
     {
       "album": {
@@ -4245,7 +4347,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 205605,
       "name": "Siempre Me Encuentras (You Find Me)",
       "url": "https://open.spotify.com/track/6dpAWWgS2AzgAIkOtLH38k"
@@ -4901,7 +5003,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 254078,
       "name": "Undefeated (feat. Derek Minor)",
       "url": "https://open.spotify.com/track/3kBcLbGahUvd6NIHEXoHnq"
@@ -5355,7 +5457,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 128000,
       "name": "Wild Ride",
       "url": "https://open.spotify.com/track/2YRhrxszkLtNTMc0V3ysHV"
@@ -5465,7 +5567,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 171694,
       "name": "Wodie",
       "url": "https://open.spotify.com/track/4P7WAyTSleFGbCk0y4yLZM"

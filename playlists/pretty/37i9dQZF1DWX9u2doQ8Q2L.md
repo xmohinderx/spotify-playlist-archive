@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,730 likes - 71 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,768 likes - 71 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GHOST](https://open.spotify.com/track/5hMPL9uwIHTMzV3ASz9IpI) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [GHOST](https://open.spotify.com/album/6fU3bolaKlQff22zpWZ3lY) | 2:41 |
-| 2 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 |
+| 1 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 |
+| 2 | [GHOST](https://open.spotify.com/track/5hMPL9uwIHTMzV3ASz9IpI) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [GHOST](https://open.spotify.com/album/6fU3bolaKlQff22zpWZ3lY) | 2:41 |
 | 3 | [I MA](https://open.spotify.com/track/2mJxEj7p6hzkPYiCg3LUUf) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Tokyo State Of Mind](https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ) | 3:34 |
-| 4 | [卑弥呼](https://open.spotify.com/track/3TEVu2fI0WZJmug0xuY6PP) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:07 |
-| 5 | [On & On](https://open.spotify.com/track/4gDolFunOhVEfAPJRJTZwc) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [On & On](https://open.spotify.com/album/41HC7KwuNr5PxEtyYxgYQm) | 3:10 |
-| 6 | [M八七](https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK) | 4:23 |
-| 7 | [Playback](https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [TWO](https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO) | 3:07 |
-| 8 | [Candle Light](https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 |
-| 9 | [帰り路 \- MONJOE Remix](https://open.spotify.com/track/2dwK6HnOEGCVbVOjCQtQGG) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [帰り路 \(MONJOE Remix\)](https://open.spotify.com/album/4WlZLxlIrggvFJxZYDby6a) | 3:25 |
-| 10 | [WOO! GO!](https://open.spotify.com/track/4BfXAxcuOyPRWcUHCasVit) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [WOO! GO!](https://open.spotify.com/album/6TeEBQZuGMjY3cu7e6JjUX) | 3:19 |
-| 11 | [You Are Nobody \(feat\. ひかり\)](https://open.spotify.com/track/0L1gFquDz7MpLvlAH2J7KM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [You Are Nobody \(feat\. ひかり\)](https://open.spotify.com/album/5GSwcNsaqH3YfxvrjTkjTw) | 3:58 |
+| 4 | [Candle Light](https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 |
+| 5 | [You Are Nobody \(feat\. ひかり\)](https://open.spotify.com/track/0L1gFquDz7MpLvlAH2J7KM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [You Are Nobody \(feat\. ひかり\)](https://open.spotify.com/album/5GSwcNsaqH3YfxvrjTkjTw) | 3:58 |
+| 6 | [Playback](https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [TWO](https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO) | 3:07 |
+| 7 | [M八七](https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK) | 4:23 |
+| 8 | [卑弥呼](https://open.spotify.com/track/3TEVu2fI0WZJmug0xuY6PP) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:07 |
+| 9 | [On & On](https://open.spotify.com/track/4gDolFunOhVEfAPJRJTZwc) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [On & On](https://open.spotify.com/album/41HC7KwuNr5PxEtyYxgYQm) | 3:10 |
+| 10 | [帰り路 \- MONJOE Remix](https://open.spotify.com/track/2dwK6HnOEGCVbVOjCQtQGG) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [帰り路 \(MONJOE Remix\)](https://open.spotify.com/album/4WlZLxlIrggvFJxZYDby6a) | 3:25 |
+| 11 | [WOO! GO!](https://open.spotify.com/track/4BfXAxcuOyPRWcUHCasVit) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [WOO! GO!](https://open.spotify.com/album/6TeEBQZuGMjY3cu7e6JjUX) | 3:19 |
 | 12 | [まつり](https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [まつり](https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5) | 3:45 |
 | 13 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 |
 | 14 | [旅行](https://open.spotify.com/track/0psnaTdXFZvtCdmh2aRHr9) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [ぼちぼち銀河](https://open.spotify.com/album/0RRXWd6gJfKy34WF8RCkfs) | 3:36 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 70 | [rollin'](https://open.spotify.com/track/07K14kPnyJW9Gxj1F4Wzbn) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [rollin'](https://open.spotify.com/album/39CklsCqIBVvnsy7KU9wos) | 3:21 |
 | 71 | [Pixie](https://open.spotify.com/track/0cY7dMIDQEvJpm9QLhwUJ5) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Pixie](https://open.spotify.com/album/05uzTmVeUHezTbQ1TKLsCB) | 5:12 |
 
-Snapshot ID: `MTY1MzU3NzIwMCwwMDAwMDNjNjAwMDAwMTgxMDBlMWIyNTgwMDAwMDE3Y2VmMmFkYWFj`
+Snapshot ID: `MTY1Mzg2MzY5MiwwMDAwMDNjNzAwMDAwMTgxMTFmNTM5YWMwMDAwMDE3Y2VmMmFkYWFj`

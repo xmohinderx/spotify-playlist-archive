@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 252000,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/72p4bX3wUsqySOtUBvVIXp"
@@ -1533,6 +1533,24 @@
       "duration_ms": 176100,
       "name": "Did You Know",
       "url": "https://open.spotify.com/track/6ovG9hWIxh9t9hMjjeofLY"
+    },
+    {
+      "album": {
+        "name": "Die Young",
+        "url": "https://open.spotify.com/album/3zzHhpyraU6ZZPNyhXhHwM"
+      },
+      "artists": [
+        {
+          "name": "Jonas Schmidt",
+          "url": "https://open.spotify.com/artist/2iVI5g77D4FT62vErTSfLX"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/7vniVkC7TKvLVMpAKMZ6Zz"
     },
     {
       "album": {
@@ -4865,7 +4883,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 149000,
       "name": "Night Sky",
       "url": "https://open.spotify.com/track/29oU36Lm5HxVfiDW1aiQku"
@@ -7227,7 +7245,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 336774,
       "name": "The Sweetest Sin",
       "url": "https://open.spotify.com/track/57wbOuofBE6Cb3mMPuQ24i"

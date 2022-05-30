@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 193400,
       "name": "All for You",
       "url": "https://open.spotify.com/track/64aNdC3hF7DMptxVnf3LD7"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 220490,
       "name": "Calling",
       "url": "https://open.spotify.com/track/7IxrpgNvMEtRt5SO4UA4Bv"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
@@ -622,6 +622,28 @@
     },
     {
       "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/1zUzYX7BYqH8muXrAoCJVR"
+      },
+      "artists": [
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/51nIwSmhx4QH48MLjc0B5C"
+    },
+    {
+      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -659,7 +681,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 161311,
       "name": "Do Me Right",
       "url": "https://open.spotify.com/track/0WrDaPRMVmJbvds5YeHxKF"
@@ -871,7 +893,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 167102,
       "name": "Every Single Time (with Silky)",
       "url": "https://open.spotify.com/track/61drLfij7yoXMTYIY8088V"
@@ -952,6 +974,28 @@
     },
     {
       "album": {
+        "name": "Fake Friends (feat. Alex Hosking)",
+        "url": "https://open.spotify.com/album/0wmqUFbaNF1eVwTqs28zoc"
+      },
+      "artists": [
+        {
+          "name": "PS1",
+          "url": "https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj"
+        },
+        {
+          "name": "Alex Hosking",
+          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173663,
+      "name": "Fake Friends (feat. Alex Hosking)",
+      "url": "https://open.spotify.com/track/0UBjV0qdhBKQLnl8tNXb9e"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/4hgqGfVcXLabF9CVcGVD5q"
       },
@@ -1021,7 +1065,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 147987,
       "name": "Feels",
       "url": "https://open.spotify.com/track/1sX4ucOwEW4sKN8pKaZnT8"
@@ -1187,7 +1231,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 145511,
       "name": "Free Again",
       "url": "https://open.spotify.com/track/5n66lPIb8QuuIwRJlVjGgV"
@@ -1217,7 +1261,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -1239,7 +1283,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 235769,
       "name": "From the Start - Sonny Fodera Remix",
       "url": "https://open.spotify.com/track/1TwBpstXJvqY8KZ4Yk6rh1"
@@ -1293,7 +1337,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 161372,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/1rY5w6MvaNTpa6ZkXwCJgP"
@@ -1521,7 +1565,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 259539,
       "name": "Head & Heart (feat. MNEK) - Jack Back Remix",
       "url": "https://open.spotify.com/track/3mqaar0af7iZ7nxBBt9gtQ"
@@ -1831,7 +1875,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 144193,
       "name": "Is This Love?",
       "url": "https://open.spotify.com/track/2r2ZvX5PNP0MUfUN2HjEjl"
@@ -2043,7 +2087,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 210510,
       "name": "Little Love (feat. Grace Tither)",
       "url": "https://open.spotify.com/track/5FQUb9sBnjA2Cd0lujJ3hr"
@@ -2187,7 +2231,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 192453,
       "name": "Love Can't Turn Around (feat. Jules Buckley & The Heritage Orchestra)",
       "url": "https://open.spotify.com/track/5cNMmyCYu2noBXWEIASV3C"
@@ -2205,7 +2249,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 116554,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
@@ -2381,7 +2425,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 212093,
       "name": "Mega Chords - Edit",
       "url": "https://open.spotify.com/track/0nms4MMhjU9IJ3Fb2gE09e"
@@ -2627,7 +2671,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 176626,
       "name": "Never Let It Go",
       "url": "https://open.spotify.com/track/6rWQnz8mMm8iEr8xq1WoAR"
@@ -2649,7 +2693,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 185133,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/3AjzBL7fuEdboRnleIlPIw"
@@ -2781,7 +2825,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 163840,
       "name": "Night Ends",
       "url": "https://open.spotify.com/track/1jghJYP9CZ5tbkZXNFEq0i"
@@ -3037,7 +3081,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 228387,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/15w5T3xUU5hWsAJ07ibn5B"
@@ -3059,7 +3103,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 173861,
       "name": "Pretty Baby",
       "url": "https://open.spotify.com/track/4EJI2XGViSQp6WscLKgYDD"
@@ -3165,7 +3209,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 173104,
       "name": "Rely",
       "url": "https://open.spotify.com/track/2OmwAeV7OLkd6XkzHqVYeG"
@@ -3183,7 +3227,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 148500,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/73jq7211BkvN8sl3E9PZjM"
@@ -3245,7 +3289,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 191612,
       "name": "Sad Songs (feat. L Devine)",
       "url": "https://open.spotify.com/track/3JsmrruMp8AWcbEZ4342JY"
@@ -3299,7 +3343,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 168761,
       "name": "Searching",
       "url": "https://open.spotify.com/track/18NWFWxhITcw2s6SNfbRlJ"
@@ -3321,7 +3365,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 169009,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
@@ -3489,7 +3533,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 195330,
       "name": "Summer In Love",
       "url": "https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX"
@@ -3675,7 +3719,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 183870,
       "name": "Tell It To My Heart (feat. Hozier) - KVSH Remix",
       "url": "https://open.spotify.com/track/0AxvmNaxYKmO4xPptkKsnZ"
@@ -3737,7 +3781,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 155640,
       "name": "The Chant - Majestic Remix",
       "url": "https://open.spotify.com/track/53uh4ooi1x2Tcp2AdDZ7nq"
@@ -3759,7 +3803,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 146412,
       "name": "The Music",
       "url": "https://open.spotify.com/track/4xfYNH75F5Ji7CJ1v0OMM9"
@@ -3781,7 +3825,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 188180,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO"
@@ -3869,7 +3913,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 157440,
       "name": "Thunder In My Heart Again",
       "url": "https://open.spotify.com/track/7iBHE8RK2DmkVpwUfnCqYB"
@@ -4029,7 +4073,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 176065,
       "name": "Walk On Water",
       "url": "https://open.spotify.com/track/26OcKTbjJBj5Je0ohI61zu"
@@ -4157,7 +4201,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 171178,
       "name": "What You Do To Me",
       "url": "https://open.spotify.com/track/6fwosYHgw98fyKpNTV96vk"
@@ -4333,7 +4377,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Wish You Well - Benny Benassi Remix",
       "url": "https://open.spotify.com/track/49jQjsgh1bqjLW1UXGPIj2"
@@ -4545,7 +4589,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 188500,
       "name": "Yup - Radio Edit",
       "url": "https://open.spotify.com/track/5LJtg2pS5VbWaxKpCH1QQl"

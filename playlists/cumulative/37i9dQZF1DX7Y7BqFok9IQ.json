@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 318458,
       "name": "Be Your Own Invention",
       "url": "https://open.spotify.com/track/1AfZrLEQLftSm2HsvGat4s"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 295064,
       "name": "Can't Go Back",
       "url": "https://open.spotify.com/track/1UakN2FvjlCtktr5C7eKTU"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 212000,
       "name": "Catch Me If You Can (feat. Chris Robertson)",
       "url": "https://open.spotify.com/track/2Q7MG9T0kCEEJmDpaKP4be"
@@ -323,6 +323,24 @@
       "duration_ms": 375240,
       "name": "Go Away Satan",
       "url": "https://open.spotify.com/track/1mdLQR5E86HLziKr6gHV96"
+    },
+    {
+      "album": {
+        "name": "Love Like Machines",
+        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Eyes",
+          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169781,
+      "name": "God Damn Wolf Man",
+      "url": "https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU"
     },
     {
       "album": {
@@ -625,7 +643,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 208909,
       "name": "Off the Shelf",
       "url": "https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN"
@@ -679,7 +697,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 225093,
       "name": "Pick Your Poison",
       "url": "https://open.spotify.com/track/2oXl8o2g4iPAEZL1YbmYVH"
@@ -830,6 +848,24 @@
     },
     {
       "album": {
+        "name": "Skin 'n Bone",
+        "url": "https://open.spotify.com/album/2ZWSn4DgPq9jFuIj1wywPF"
+      },
+      "artists": [
+        {
+          "name": "Jared James Nichols",
+          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203224,
+      "name": "Skin 'n Bone",
+      "url": "https://open.spotify.com/track/6natqkD9pmwdr8Xr1VFliA"
+    },
+    {
+      "album": {
         "name": "Good for Sumthin'",
         "url": "https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk"
       },
@@ -953,7 +989,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon"
@@ -993,6 +1029,24 @@
       "duration_ms": 196843,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
+    },
+    {
+      "album": {
+        "name": "The Fighter",
+        "url": "https://open.spotify.com/album/1JMIEYKIxNWLqSKxGLKtxv"
+      },
+      "artists": [
+        {
+          "name": "Simon McBride",
+          "url": "https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260286,
+      "name": "The Fighter",
+      "url": "https://open.spotify.com/track/6P4peUgiAimtvhWWxLlDg3"
     },
     {
       "album": {
@@ -1061,7 +1115,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 284786,
       "name": "Too Bad",
       "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"

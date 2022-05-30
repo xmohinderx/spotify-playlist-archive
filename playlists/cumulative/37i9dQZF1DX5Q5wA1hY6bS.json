@@ -415,7 +415,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 182152,
       "name": "Backpush",
       "url": "https://open.spotify.com/track/7hvKZ3NHYhcM4wiNccX4EF"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 193240,
       "name": "Call Me In The Afternoon",
       "url": "https://open.spotify.com/track/2BBb3UMJBNlofpC25pbSp4"
@@ -1371,7 +1371,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 278373,
       "name": "Dirty Paws",
       "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
@@ -1551,7 +1551,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 212361,
       "name": "Drive All Night - Radio Edit",
       "url": "https://open.spotify.com/track/1QZGYQnSDLWUOOuvQnQmy0"
@@ -1587,7 +1587,7 @@
       ],
       "date_added": "2020-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 201936,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2020-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 245839,
       "name": "Everything Changed",
       "url": "https://open.spotify.com/track/75lG0mNxn3YH7MD4qcLkA6"
@@ -2235,7 +2235,7 @@
       ],
       "date_added": "2021-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 229960,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
@@ -2283,7 +2283,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 235883,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/0OITYpks3EGmXNRkDuN8kd"
@@ -2699,7 +2699,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 306200,
       "name": "Hold You in My Arms",
       "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
@@ -2825,7 +2825,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
@@ -3083,7 +3083,7 @@
       ],
       "date_added": "2020-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 296111,
       "name": "If Something Breaks",
       "url": "https://open.spotify.com/track/7DjrbcooF37ZDOLjOK33xN"
@@ -3105,7 +3105,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 165213,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/0uyzIps7qIdNKOVIvR6Ex0"
@@ -3249,7 +3249,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 261440,
       "name": "I\u2019m A Stranger Now",
       "url": "https://open.spotify.com/track/5hgSvHM38XZZWTok1Eh84o"
@@ -3379,6 +3379,24 @@
       "duration_ms": 210173,
       "name": "Kindness of Strangers",
       "url": "https://open.spotify.com/track/4pgHkl7iKEPDHQR1amlotA"
+    },
+    {
+      "album": {
+        "name": "Know Your Demons",
+        "url": "https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "Know Your Demons",
+      "url": "https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe"
     },
     {
       "album": {
@@ -3643,7 +3661,7 @@
       ],
       "date_added": "2020-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 142840,
       "name": "Loose Change",
       "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
@@ -4019,7 +4037,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 238426,
       "name": "Mountain Man",
       "url": "https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU"
@@ -4877,7 +4895,7 @@
       ],
       "date_added": "2020-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 238546,
       "name": "Rolling On",
       "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
@@ -5093,7 +5111,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 241706,
       "name": "Shake",
       "url": "https://open.spotify.com/track/5m1L3o7fOfLFyw6VwumROL"
@@ -5681,7 +5699,7 @@
       ],
       "date_added": "2019-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 162673,
       "name": "Take The Journey",
       "url": "https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0"
@@ -5859,7 +5877,7 @@
       ],
       "date_added": "2019-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 205948,
       "name": "The Long Way Home",
       "url": "https://open.spotify.com/track/1WyEIbcYvdHkovLGTGEQu7"
@@ -6483,7 +6501,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 199853,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/2cDx3NJJoxmWmtmi3o0nj9"
@@ -6681,7 +6699,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 225866,
       "name": "Won't Be Long",
       "url": "https://open.spotify.com/track/4oe1xMMvznxdsrSKx2jL6w"

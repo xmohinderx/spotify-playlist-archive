@@ -1,13 +1,29 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 328730,
+  "num_followers": 328768,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzU3NzIwMCwwMDAwMDNjNjAwMDAwMTgxMDBlMWIyNTgwMDAwMDE3Y2VmMmFkYWFj",
+  "snapshot_id": "MTY1Mzg2MzY5MiwwMDAwMDNjNzAwMDAwMTgxMTFmNTM5YWMwMDAwMDE3Y2VmMmFkYWFj",
   "tracks": [
+    {
+      "added_at": "2022-05-26 15:00:00",
+      "album": {
+        "name": "\u559c\u5287",
+        "url": "https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "\u559c\u5287",
+      "url": "https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL"
+    },
     {
       "added_at": "2022-05-26 15:00:00",
       "album": {
@@ -35,22 +51,6 @@
     {
       "added_at": "2022-05-26 15:00:00",
       "album": {
-        "name": "\u559c\u5287",
-        "url": "https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "\u559c\u5287",
-      "url": "https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL"
-    },
-    {
-      "added_at": "2022-05-26 15:00:00",
-      "album": {
         "name": "Tokyo State Of Mind",
         "url": "https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ"
       },
@@ -67,6 +67,78 @@
       "duration_ms": 214899,
       "name": "I MA",
       "url": "https://open.spotify.com/track/2mJxEj7p6hzkPYiCg3LUUf"
+    },
+    {
+      "added_at": "2022-05-26 15:00:00",
+      "album": {
+        "name": "Green Light",
+        "url": "https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        }
+      ],
+      "duration_ms": 229536,
+      "name": "Candle Light",
+      "url": "https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx"
+    },
+    {
+      "added_at": "2022-05-26 15:00:00",
+      "album": {
+        "name": "You Are Nobody (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/5GSwcNsaqH3YfxvrjTkjTw"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 238301,
+      "name": "You Are Nobody (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/0L1gFquDz7MpLvlAH2J7KM"
+    },
+    {
+      "added_at": "2022-05-26 15:00:00",
+      "album": {
+        "name": "TWO",
+        "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "duration_ms": 187606,
+      "name": "Playback",
+      "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
+    },
+    {
+      "added_at": "2022-05-26 15:00:00",
+      "album": {
+        "name": "M\u516b\u4e03",
+        "url": "https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "M\u516b\u4e03",
+      "url": "https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5"
     },
     {
       "added_at": "2022-05-26 15:00:00",
@@ -103,58 +175,6 @@
     {
       "added_at": "2022-05-26 15:00:00",
       "album": {
-        "name": "M\u516b\u4e03",
-        "url": "https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 263120,
-      "name": "M\u516b\u4e03",
-      "url": "https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5"
-    },
-    {
-      "added_at": "2022-05-26 15:00:00",
-      "album": {
-        "name": "TWO",
-        "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
-      },
-      "artists": [
-        {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
-        }
-      ],
-      "duration_ms": 187606,
-      "name": "Playback",
-      "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
-    },
-    {
-      "added_at": "2022-05-26 15:00:00",
-      "album": {
-        "name": "Green Light",
-        "url": "https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2"
-      },
-      "artists": [
-        {
-          "name": "Furui Riho",
-          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
-        },
-        {
-          "name": "A.G.O",
-          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
-        }
-      ],
-      "duration_ms": 229536,
-      "name": "Candle Light",
-      "url": "https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx"
-    },
-    {
-      "added_at": "2022-05-26 15:00:00",
-      "album": {
         "name": "\u5e30\u308a\u8def (MONJOE Remix)",
         "url": "https://open.spotify.com/album/4WlZLxlIrggvFJxZYDby6a"
       },
@@ -187,26 +207,6 @@
       "duration_ms": 199413,
       "name": "WOO! GO!",
       "url": "https://open.spotify.com/track/4BfXAxcuOyPRWcUHCasVit"
-    },
-    {
-      "added_at": "2022-05-26 15:00:00",
-      "album": {
-        "name": "You Are Nobody (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/5GSwcNsaqH3YfxvrjTkjTw"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        }
-      ],
-      "duration_ms": 238301,
-      "name": "You Are Nobody (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/0L1gFquDz7MpLvlAH2J7KM"
     },
     {
       "added_at": "2022-05-26 15:00:00",

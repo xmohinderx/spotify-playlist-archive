@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,670 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,673 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 49 | [Searching](https://open.spotify.com/track/6A6rSOYp5xAgyNELLBwdWH) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Bongos Ikwue](https://open.spotify.com/artist/4JSDqRrKYBFBjxS31YfWYK) | [Searching](https://open.spotify.com/album/34w5UK4AMarI8UU8G09ZOD) | 4:12 |
 | 50 | [Gobe](https://open.spotify.com/track/4WLIbmoXbHuxc6CNI8dD1V) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Gobe](https://open.spotify.com/album/3hTOBsaYYVsm26E0fEgO8v) | 3:33 |
 
-Snapshot ID: `Mjc1NjI1ODAsMDAwMDAwMDA0MmQ1NDJmNmUxZjQzNDkzOWUyNjA2MmVmNjdkZDg4NQ==`
+Snapshot ID: `Mjc1NjM4NzMsMDAwMDAwMDA4OWZhMTlhNTllOGVmZDQ1NTM1NjYyNjIwZGY0NTg5OQ==`
