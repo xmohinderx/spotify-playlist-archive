@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Don
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,884 likes - 57 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,979 likes - 57 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

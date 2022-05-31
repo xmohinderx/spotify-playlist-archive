@@ -2198,6 +2198,24 @@
     },
     {
       "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/7KOzP2GYtCfbxM0HERO5u0"
+      },
+      "artists": [
+        {
+          "name": "Juge Greenspun",
+          "url": "https://open.spotify.com/artist/5pOgmJGmfblQfeGWaGyihf"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351225,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/1Tc6EPKqgFC8QbAoxNI0Ql"
+    },
+    {
+      "album": {
         "name": "Bad Girl",
         "url": "https://open.spotify.com/album/4QLM3gl9yGUnTzYFqFuHf5"
       },

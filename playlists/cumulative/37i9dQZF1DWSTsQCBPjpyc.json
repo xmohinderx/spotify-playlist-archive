@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 243666,
       "name": "A Man's Got To Do What A Man's Got To Do",
       "url": "https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR"
@@ -254,6 +254,24 @@
     },
     {
       "album": {
+        "name": "Satisfaction Guaranteed",
+        "url": "https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Brooks",
+          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277293,
+      "name": "Family Curse",
+      "url": "https://open.spotify.com/track/2Bwj1i96TGj2Z2QQhOHy95"
+    },
+    {
+      "album": {
         "name": "Funky Bitch / Ball and Chain",
         "url": "https://open.spotify.com/album/6hruIYWB1piw5DLSX1RN2K"
       },
@@ -287,7 +305,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 279460,
       "name": "Give It Back",
       "url": "https://open.spotify.com/track/2gvv5ad4yRlJd9UqRgHGn8"
@@ -345,7 +363,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 356773,
       "name": "Greasy Man",
       "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
@@ -425,7 +443,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 200866,
       "name": "Heart of Saint Paul",
       "url": "https://open.spotify.com/track/6Rm50WcWlHBu0X0TQyLKnU"
@@ -537,7 +555,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 193010,
       "name": "I'm Not Havin' It",
       "url": "https://open.spotify.com/track/3iXMRHn9xcnl50C2WqmqHg"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 227880,
       "name": "Put That Back",
       "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
@@ -753,7 +771,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 244623,
       "name": "Same Ole Feeling",
       "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 246360,
       "name": "The Moon Is Full",
       "url": "https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 278840,
       "name": "We'll Always Be Together",
       "url": "https://open.spotify.com/track/35lJrhNHp5g0rTEsue06Wh"

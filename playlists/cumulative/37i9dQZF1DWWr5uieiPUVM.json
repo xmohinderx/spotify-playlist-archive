@@ -909,7 +909,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 192000,
       "name": "EU TE AVISEI",
       "url": "https://open.spotify.com/track/6tLqlcxP0AHSKsyvVKVHk0"
@@ -1364,6 +1364,24 @@
     },
     {
       "album": {
+        "name": "Malokeragem",
+        "url": "https://open.spotify.com/album/7AJ5F18Xp1EWst3lLu6eeR"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173383,
+      "name": "Malokeragem",
+      "url": "https://open.spotify.com/track/4xdMBPkevffdDNHv1VsiQo"
+    },
+    {
+      "album": {
         "name": "Maluca Surtada",
         "url": "https://open.spotify.com/album/61vY6i4ZCFKhIqynMI6SDy"
       },
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 251000,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/3iGRHR2keH35e9WoxOWmZu"
@@ -1749,7 +1767,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 167040,
       "name": "Outro Lugar",
       "url": "https://open.spotify.com/track/5PbOsgsouPpbfqbCj0QhiN"
@@ -2364,6 +2382,24 @@
     },
     {
       "album": {
+        "name": "Vegano",
+        "url": "https://open.spotify.com/album/3vU8uUnBiNOtE8Bhn6invy"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Vegano",
+      "url": "https://open.spotify.com/track/2MKAalcstfLiNiukSlBzCS"
+    },
+    {
+      "album": {
         "name": "Vestido da Fendi",
         "url": "https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y"
       },
@@ -2447,6 +2483,24 @@
       "duration_ms": 277685,
       "name": "Viz\u00e3o de Cria",
       "url": "https://open.spotify.com/track/0zmfFA2d0ZRZ2aFeE4E76b"
+    },
+    {
+      "album": {
+        "name": "ye",
+        "url": "https://open.spotify.com/album/7MOwVvOQvt3ljxqzznrt2P"
+      },
+      "artists": [
+        {
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167370,
+      "name": "ye",
+      "url": "https://open.spotify.com/track/3IYHWJMzL4aftnp3ENWoXM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWr5uieiPUVM"

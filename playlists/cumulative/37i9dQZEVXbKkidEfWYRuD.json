@@ -10126,6 +10126,24 @@
     },
     {
       "album": {
+        "name": "Cassette",
+        "url": "https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF"
+      },
+      "artists": [
+        {
+          "name": "SadSvit",
+          "url": "https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150384,
+      "name": "\u041c\u043e\u043b\u043e\u0434\u0456\u0441\u0442\u044c",
+      "url": "https://open.spotify.com/track/0wpkj8A7T1CjIul0XQtkqK"
+    },
+    {
+      "album": {
         "name": "2004",
         "url": "https://open.spotify.com/album/2XSjTk1Cs3tpKdYeUktZAt"
       },
@@ -10253,7 +10271,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 252533,
       "name": "\u041c\u0456\u0441\u0442\u043e \u0432\u0435\u0441\u043d\u0438",
       "url": "https://open.spotify.com/track/56wSomSllGESHGhcfHrvEw"
@@ -12661,7 +12679,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 125538,
       "name": "\u0422\u041e\u041b\u041f\u042b \u041a\u0420\u0418\u0427\u0410\u0422",
       "url": "https://open.spotify.com/track/3mcw4dkjfzj5B4Ago9NSmN"
@@ -12943,7 +12961,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 198428,
       "name": "\u0423 \u043c\u0435\u043d\u0435 \u043d\u0435\u043c\u0430\u0454 \u0434\u043e\u043c\u0443",
       "url": "https://open.spotify.com/track/4GC6tlXcAsyp4pNrlyo1pb"

@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-93 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+94 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Petra](https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Petra](https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp) | 4:36 | 2022-04-13 |  |
 | [Reciprocity \- Main Mix](https://open.spotify.com/track/6ZXwOcG6Fv8o5CqClFR4kw) | [Moon Rocket](https://open.spotify.com/artist/1kSsrlTgiil1smkT4Brc6P), [Paula](https://open.spotify.com/artist/0ONShQYbM9pQ4LaC7sLMHK) | [Reciprocity](https://open.spotify.com/album/31oNgHxGq2wuAK6GySc5xZ) | 6:43 | 2022-04-13 |  |
 | [Reshetka](https://open.spotify.com/track/5OOsTNjddctg0r1N1AtGSi) | [Jack Essek](https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [Aciga Vurma](https://open.spotify.com/album/5M4YENiQ2zMfMtxyHWVJV7) | 7:33 | 2022-04-13 |  |
+| [Sabali](https://open.spotify.com/track/0qGPPBNHicENPAfFKBxii2) | [Professor](https://open.spotify.com/artist/6CVlmc2tvzoff758MgvAT5) | [Aura](https://open.spotify.com/album/1J9KsdksTLNcUCj8xK8MAk) | 5:18 | 2022-05-30 |  |
 | [Sajanna](https://open.spotify.com/track/42lUfNanMpFhibe2lNGqpA) | [Jack Essek](https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [Nizami](https://open.spotify.com/album/5dHAWAY4CJ1MWYWjB25rVW) | 7:34 | 2022-04-13 |  |
 | [Salgir Boyu \- Bedouin Rework](https://open.spotify.com/track/4s5zbqVQebTLjloNLy3gpt) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [The Bedouin Reworks of DakhaBrakha](https://open.spotify.com/album/5fbYGyiRWLkzbbE69ikqZH) | 7:00 | 2022-04-13 |  |
 | [Sante](https://open.spotify.com/track/3GPDlvNptw7BwkpHP68DiJ) | [Ravestronauts](https://open.spotify.com/artist/2rfebeaV7VQdlnKrNbqtQu), [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Sante](https://open.spotify.com/album/3SxOdl5kq6RpdLsu4ufChm) | 4:08 | 2022-04-13 |  |

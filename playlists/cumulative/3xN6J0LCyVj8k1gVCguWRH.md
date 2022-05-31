@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,426 songs - 3 day 11 hr 3 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,427 songs - 3 day 11 hr 9 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Back Up](https://open.spotify.com/track/0wAK1EVuMhyz9QyEDDZ1GE) | [Freakonamics](https://open.spotify.com/artist/3Q3uTDE77tN1o0Mjpm7TAk) | [Back Up](https://open.spotify.com/album/4sXfkZc0cUvZ1iM01emOFu) | 2:46 | 2021-03-19 | 2021-04-04 |
 | [Bad Bad News](https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:27 | 2021-08-28 | 2021-09-11 |
 | [Bad Decision](https://open.spotify.com/track/7bcHQQ83eXyGwqh7qBFw9N) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [NIIVA](https://open.spotify.com/album/4DoVWd6Ak9O9Qo5dUs8KEx) | 2:59 | 2021-05-28 | 2021-06-13 |
+| [Bad Dreams](https://open.spotify.com/track/1Tc6EPKqgFC8QbAoxNI0Ql) | [Juge Greenspun](https://open.spotify.com/artist/5pOgmJGmfblQfeGWaGyihf) | [Bad Dreams](https://open.spotify.com/album/7KOzP2GYtCfbxM0HERO5u0) | 5:51 | 2022-05-30 |  |
 | [Bad Girl](https://open.spotify.com/track/4hNaM35MBW9HWyfoWwuCxE) | [Luego](https://open.spotify.com/artist/4BbSoSyv1hi5DUIQy8AdnL) | [Bad Girl](https://open.spotify.com/album/4QLM3gl9yGUnTzYFqFuHf5) | 3:03 | 2022-05-20 |  |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-07-05 | 2021-07-12 |
 | [Bad Things](https://open.spotify.com/track/2U1JR8iWX9Uwckt32tBTB3) | [Jasmine L'Chelle](https://open.spotify.com/artist/1lLZlT6WVx23sUfIC41Y3z) | [Bad Things](https://open.spotify.com/album/6GC28OVyjGWVnRTMXK1siz) | 3:19 | 2021-11-13 | 2021-11-28 |

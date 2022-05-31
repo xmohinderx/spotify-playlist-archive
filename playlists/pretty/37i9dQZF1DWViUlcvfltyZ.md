@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Chitarre più o meno distorte \(e, in cover, gli Elephant Brain\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,053 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,074 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,21 +13,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 3 | [Meravigliosa \(feat\. Ditonellapiaga\)](https://open.spotify.com/track/3Ji5zXZw7hDUgIp5IkLFiy) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Cari Fottutissimi Amici](https://open.spotify.com/album/43iU5QUL15hYLkbiZfk1aB) | 3:53 |
 | 4 | [Idea](https://open.spotify.com/track/0AI35B8TuEtmz5ayf4dQR0) | [La Superluna di Drone Kong](https://open.spotify.com/artist/2yrGOWgivuL3OubJfHj5Xt), [Nikki](https://open.spotify.com/artist/1y9wN6EknDQynEF6123dXJ) | [Idea](https://open.spotify.com/album/3jG7ZwprmZW0PDoImjUL0H) | 2:45 |
 | 5 | [Cristallo metallo](https://open.spotify.com/track/2GNllavhO7WsdE2yRuKWnO) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cristallo metallo](https://open.spotify.com/album/17KgId2ANISJqXZrb5fT6c) | 3:23 |
-| 6 | [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 |
-| 7 | [Occhi di Corvo](https://open.spotify.com/track/5qYNPhVUdQqo2PmUL3AKCO) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [YOGA, Pt\. 1](https://open.spotify.com/album/2yv4v0pLeWjIbeiKSDtFHe) | 3:21 |
-| 8 | [Strappati Lungo i Bordi](https://open.spotify.com/track/1tmxGSXmeKk5NjZh3hIG7v) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Strappati Lungo i Bordi \(Music from the Original TV Series “Strappare lungo i bordi”\)](https://open.spotify.com/album/18jzdWKRrSxdgDr9IRe0RM) | 3:19 |
-| 9 | [Tra chi fugge e chi resta](https://open.spotify.com/track/5YmJTaXU588pytZNYxVWew) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Tra chi fugge e chi resta](https://open.spotify.com/album/6hm4YB2ZEfO02LFQX1rx31) | 2:56 |
-| 10 | [Più mi odi più mi amo](https://open.spotify.com/track/0EWtLGf9X5zrVSfBDhsymi) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Più mi odi più mi amo](https://open.spotify.com/album/61YoRhVptt77M5XZigQOOT) | 4:14 |
-| 11 | [Identikit / PLOT TWIST](https://open.spotify.com/track/3J93fJVupbMEjlrspQ2fp5) | [Tropea](https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX) | [Identikit / PLOT TWIST](https://open.spotify.com/album/5nmYuCiGDIlZRFj8VpeFgx) | 2:46 |
-| 12 | [heavy\-hearted](https://open.spotify.com/track/0EpZxmxdI27Y6hMwO79pvy) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [heavy\-hearted](https://open.spotify.com/album/428oKi8Lpx377MJjLV1upq) | 2:39 |
-| 13 | [Horror](https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 3:39 |
-| 14 | [Coltello \(feat\. Piero Pelù\)](https://open.spotify.com/track/2jrRvvqAsLBxwAvonVVnvn) | [Manitoba](https://open.spotify.com/artist/5F3k6dasqoyURq6DxItmAZ), [Piero Pelù](https://open.spotify.com/artist/6gTrPTTb3XgiLt7GGcmf8j) | [Colla](https://open.spotify.com/album/5D5w8JApLuc02WQR6nEUSj) | 2:56 |
-| 15 | [Vita Sperduta](https://open.spotify.com/track/4s2JGsbchZ8fNiqhIPjCZq) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Vita Sperduta](https://open.spotify.com/album/0eeFAco3jtZzRFDD6cUl6q) | 3:36 |
-| 16 | [Imma Stunt](https://open.spotify.com/track/3vZmC8oq2B3mp9kVfIcXr1) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Imma Stunt](https://open.spotify.com/album/2JRIfmjUa8aU6MLLlahL52) | 2:11 |
-| 17 | [My Best](https://open.spotify.com/track/1UEWOpc2PUrzwPOP4X9UPd) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [This Is Light](https://open.spotify.com/album/2csk5nXDfK75W5NMNpGoQD) | 3:38 |
-| 18 | [Follow the Money](https://open.spotify.com/track/7dngVIjn3nbUmOHqiJhTRg) | [Pierpaolo Capovilla e i Cattivi Maestri](https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO) | [Follow the Money](https://open.spotify.com/album/5EmIHTygguJUWXPTACC10D) | 3:33 |
-| 19 | [ORBO](https://open.spotify.com/track/4VBCWRlrzDNxyjBEfuubST) | [I Le Lucertole](https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM) | [ORBO](https://open.spotify.com/album/6UYDYZNV39L4V138niJ2Pf) | 3:55 |
-| 20 | [Blu](https://open.spotify.com/track/1IkTSLdOm3yd2V7fRliXH8) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [Blu](https://open.spotify.com/album/7Jevt4v3RwRgpS8stYD9Hj) | 2:40 |
+| 6 | [Identikit / PLOT TWIST](https://open.spotify.com/track/3J93fJVupbMEjlrspQ2fp5) | [Tropea](https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX) | [Identikit / PLOT TWIST](https://open.spotify.com/album/5nmYuCiGDIlZRFj8VpeFgx) | 2:46 |
+| 7 | [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 |
+| 8 | [Blu](https://open.spotify.com/track/1IkTSLdOm3yd2V7fRliXH8) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [Blu](https://open.spotify.com/album/7Jevt4v3RwRgpS8stYD9Hj) | 2:40 |
+| 9 | [Occhi di Corvo](https://open.spotify.com/track/5qYNPhVUdQqo2PmUL3AKCO) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [YOGA, Pt\. 1](https://open.spotify.com/album/2yv4v0pLeWjIbeiKSDtFHe) | 3:21 |
+| 10 | [Strappati Lungo i Bordi](https://open.spotify.com/track/1tmxGSXmeKk5NjZh3hIG7v) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Strappati Lungo i Bordi \(Music from the Original TV Series “Strappare lungo i bordi”\)](https://open.spotify.com/album/18jzdWKRrSxdgDr9IRe0RM) | 3:19 |
+| 11 | [Tra chi fugge e chi resta](https://open.spotify.com/track/5YmJTaXU588pytZNYxVWew) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Tra chi fugge e chi resta](https://open.spotify.com/album/6hm4YB2ZEfO02LFQX1rx31) | 2:56 |
+| 12 | [Più mi odi più mi amo](https://open.spotify.com/track/0EWtLGf9X5zrVSfBDhsymi) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Più mi odi più mi amo](https://open.spotify.com/album/61YoRhVptt77M5XZigQOOT) | 4:14 |
+| 13 | [heavy\-hearted](https://open.spotify.com/track/0EpZxmxdI27Y6hMwO79pvy) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [heavy\-hearted](https://open.spotify.com/album/428oKi8Lpx377MJjLV1upq) | 2:39 |
+| 14 | [Horror](https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 3:39 |
+| 15 | [Coltello \(feat\. Piero Pelù\)](https://open.spotify.com/track/2jrRvvqAsLBxwAvonVVnvn) | [Manitoba](https://open.spotify.com/artist/5F3k6dasqoyURq6DxItmAZ), [Piero Pelù](https://open.spotify.com/artist/6gTrPTTb3XgiLt7GGcmf8j) | [Colla](https://open.spotify.com/album/5D5w8JApLuc02WQR6nEUSj) | 2:56 |
+| 16 | [Vita Sperduta](https://open.spotify.com/track/4s2JGsbchZ8fNiqhIPjCZq) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Vita Sperduta](https://open.spotify.com/album/0eeFAco3jtZzRFDD6cUl6q) | 3:36 |
+| 17 | [Imma Stunt](https://open.spotify.com/track/3vZmC8oq2B3mp9kVfIcXr1) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Imma Stunt](https://open.spotify.com/album/2JRIfmjUa8aU6MLLlahL52) | 2:11 |
+| 18 | [My Best](https://open.spotify.com/track/1UEWOpc2PUrzwPOP4X9UPd) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [This Is Light](https://open.spotify.com/album/2csk5nXDfK75W5NMNpGoQD) | 3:38 |
+| 19 | [Follow the Money](https://open.spotify.com/track/7dngVIjn3nbUmOHqiJhTRg) | [Pierpaolo Capovilla e i Cattivi Maestri](https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO) | [Follow the Money](https://open.spotify.com/album/5EmIHTygguJUWXPTACC10D) | 3:33 |
+| 20 | [ORBO](https://open.spotify.com/track/4VBCWRlrzDNxyjBEfuubST) | [I Le Lucertole](https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM) | [ORBO](https://open.spotify.com/album/6UYDYZNV39L4V138niJ2Pf) | 3:55 |
 | 21 | [High On Stress](https://open.spotify.com/track/1y2fS0kinayyO7Ih4vFrqT) | [The Manges](https://open.spotify.com/artist/5Uop1XjzGUDG3t4uoWXooc) | [High On Stress](https://open.spotify.com/album/4TTP6knd1uIUPK2NlFfSEX) | 2:38 |
 | 22 | [MolossA](https://open.spotify.com/track/2BsGzAlf0G1t9tx5IFULDL) | [Nudha](https://open.spotify.com/artist/0qW2PRyNIbZBtm6enEWjqE) | [NUDHA](https://open.spotify.com/album/1aYL5JopqGBtFtfBNB2gDr) | 3:06 |
 | 23 | [Dolphins Touch](https://open.spotify.com/track/0wHE1ogEilT39UUbtlAmvV) | [Go Hawaii](https://open.spotify.com/artist/4dMyueIDZEOSvuCaXnqYli) | [Trespass](https://open.spotify.com/album/74PcwnV8Ytl63PVfvYVMsE) | 5:36 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 54 | [SANTAMARIA](https://open.spotify.com/track/2JDmo9jCFLN1FOmHECNT3B) | [ULTIMA HAINE](https://open.spotify.com/artist/1MzzYW4rW9deiCRPS7Pjf9) | [SANTAMARIA](https://open.spotify.com/album/7CxULThaopyXFO8vfyn9oH) | 2:53 |
 | 55 | [Una festa](https://open.spotify.com/track/25aCtC19xMjjLdejTxJ0z3) | [Cara Calma](https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC) | [GOSSIP!](https://open.spotify.com/album/4oMB0omyxPz000ZHH4oesR) | 3:28 |
 
-Snapshot ID: `MTY1MzYwMjQ2MCwwMDAwMDA5ZTAwMDAwMTgxMDI2MzIxZmUwMDAwMDE4MGZjMDAwYmZl`
+Snapshot ID: `MTY1MzkyMDEzMiwwMDAwMDA5ZjAwMDAwMTgxMTU1MjZjNTEwMDAwMDE4MGZjMDAwYmZl`

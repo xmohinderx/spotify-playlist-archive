@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,544 likes - 88 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,628 likes - 88 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 87 | [Udupi Hotelu](https://open.spotify.com/track/5qHavAlDuoHxydQvcoYyHZ) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Badava Rascal](https://open.spotify.com/album/5ipfmQApCuvhI3tYuv3eLy) | 3:15 |
 | 88 | [Paatashaala](https://open.spotify.com/track/0PVm3fYGbyxh9qNB87pDvF) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Yuvarathnaa \(Kannada\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6uOjHHP5J7TfBAi3bHdHxQ) | 5:21 |
 
-Snapshot ID: `MTY1MzY2NDI5NywwMDAwMDE4NjAwMDAwMTgxMDYxMmIxODgwMDAwMDE3ZmFkNDkzNmEz`
+Snapshot ID: `MTY1Mzg4MzUzNCwwMDAwMDE4NzAwMDAwMTgxMTMyM2ZjM2YwMDAwMDE4MTEzMjM5YWY1`

@@ -240,6 +240,24 @@
     },
     {
       "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286293,
+      "name": "Analogue Bubblebath",
+      "url": "https://open.spotify.com/track/3EhTOTAvNAUgY6AIurVxT1"
+    },
+    {
+      "album": {
         "name": "Drukqs",
         "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
       },
@@ -323,7 +341,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 344666,
       "name": "Come On You Slags",
       "url": "https://open.spotify.com/track/1e3b0rN8vtP5q6ZCoLy5Ym"
@@ -341,7 +359,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 262533,
       "name": "Come To Daddy (Pappy Mix)",
       "url": "https://open.spotify.com/track/53T0V3jTJDs3kIqwvlgspI"
@@ -831,6 +849,24 @@
       "duration_ms": 291386,
       "name": "Vordhosbn",
       "url": "https://open.spotify.com/track/3tWiIOPBJjgjA6PpozJqNO"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258959,
+      "name": "Wax The Nip",
+      "url": "https://open.spotify.com/track/0c1b3R5dLgliHXXGLErT2O"
     },
     {
       "album": {

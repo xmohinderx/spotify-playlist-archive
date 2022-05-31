@@ -4,7 +4,7 @@
 
 > Los lanzamientos latinos más destacados con Wisin & Yandel, Sech y Jhay Cortez
 
-1,312 songs - 2 day 23 hr 46 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
+1,313 songs - 2 day 23 hr 49 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1125,6 +1125,7 @@
 | [Sunshine](https://open.spotify.com/track/1uGAEXll5wxXtyn681ahhH) | [Stailok](https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi) | [Recetas](https://open.spotify.com/album/36bNViDnYFDwn6JdsFx7GE) | 2:52 | 2022-02-25 | 2022-03-05 |
 | [Supongo Que Lo Sabes](https://open.spotify.com/track/4gRg5DpOcwXmXXzuGmMC10) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Supongo Que Lo Sabes](https://open.spotify.com/album/4wS8f8NJ6sWR7CmHEUDRZ4) | 3:46 | 2022-05-20 | 2022-05-28 |
 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 | 2022-02-18 | 2022-02-26 |
+| [Suéltame](https://open.spotify.com/track/2gChGZjncJenm7wtuyuvIt) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Suéltame](https://open.spotify.com/album/47Tem5uw8ayCTyhDv1oXOY) | 2:53 | 2022-05-27 |  |
 | [Switch It \- Tom & Collins Remix](https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Switch It \- Tom & Collins Remix](https://open.spotify.com/album/5GVgoMKCACSH24RkPuhlwk) | 3:14 | 2021-12-31 | 2022-01-15 |
 | [Sálvame](https://open.spotify.com/track/02oZFeiGtksRb37c7XsL6y) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Sálvame](https://open.spotify.com/album/1fsxHgbsE7L2AeYSZps2wG) | 3:44 | 2022-05-27 |  |
 | [Síganme los Buenos](https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Síganme los Buenos](https://open.spotify.com/album/2rW21cjOMIZYEneQKO74Gm) | 3:27 | 2022-03-18 | 2022-03-26 |

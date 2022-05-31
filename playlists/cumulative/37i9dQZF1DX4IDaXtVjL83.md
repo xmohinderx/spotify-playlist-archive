@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: Pink Sweat$, P1Harmony
 
-74 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/0DIHYFEqLdrnfdqObi2sJD)
+75 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/0DIHYFEqLdrnfdqObi2sJD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/track/2FWvKhxJsTA6wfuAF3k0Lo) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/album/2IlTlE29pgIKh74Jv63YGq) | 2:19 | 2022-04-14 |  |
 | [CRY FOR ME](https://open.spotify.com/track/0PoAZ7SLFpqpYR9LSCYAo8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/1Zk459EmzjRKMYbfxMY5CY) | 3:24 | 2021-12-20 |  |
 | [CWS](https://open.spotify.com/track/1fHb9GxwbYbPbVB5eqWzpe) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE) | [Genre](https://open.spotify.com/album/4Y3sawhAYuYvYvARXpsdCy) | 3:30 | 2021-12-20 |  |
+| [Darling](https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Darling](https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm) | 3:02 | 2022-05-30 |  |
 | [Day by day](https://open.spotify.com/track/7mvy2MRpKoyOjjEFRUp9CC) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Day by day](https://open.spotify.com/album/4eBOodfhDjoNCsPLzj3OHz) | 3:08 | 2021-12-20 | 2022-01-22 |
 | [Dreamers](https://open.spotify.com/track/3rpJA5YqsZKIh1Wb71pR20) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Dreamers](https://open.spotify.com/album/32xNTIA4avuQXwY9jLzIrH) | 3:33 | 2021-12-20 | 2022-02-24 |
 | [Dumb \(feat\. Sonnet\) \- Remix](https://open.spotify.com/track/3YWWj0sze9RqfHlhdYWg6Z) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B) | [Dumb \(feat\. Sonnet\) \[Remix\]](https://open.spotify.com/album/6A7Fi2YTBwaXAedyWpltOk) | 3:12 | 2021-12-20 | 2022-02-25 |

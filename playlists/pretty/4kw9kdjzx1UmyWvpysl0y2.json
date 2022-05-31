@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128394,
+  "num_followers": 128392,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQzMSxmODI4MDQ4ZjZmNWRkM2ExNjUxZTI4YjllZjUxZDgwZmNmZjJjOGZm",
+  "snapshot_id": "MzQzMyxhYzZiNTliNTA1MThiZDQyMWNjYzI3OGVmNGVhYTgzOTY1NzVkYzZh",
   "tracks": [
+    {
+      "added_at": "2022-05-30 18:08:48",
+      "album": {
+        "name": "505",
+        "url": "https://open.spotify.com/album/7o2wHfozPCR2KuIWE6q4at"
+      },
+      "artists": [
+        {
+          "name": "TYNAN",
+          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
+        },
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        },
+        {
+          "name": "Guilt Chip",
+          "url": "https://open.spotify.com/artist/1PWCOmvvW8kVMRvPDyLC2P"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "505",
+      "url": "https://open.spotify.com/track/3KHdPiJC74XETgP6lCce3S"
+    },
     {
       "added_at": "2022-05-27 18:47:05",
       "album": {
@@ -1063,26 +1087,6 @@
       "duration_ms": 195200,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8"
-    },
-    {
-      "added_at": "2022-03-18 16:32:28",
-      "album": {
-        "name": "Blossom",
-        "url": "https://open.spotify.com/album/6eWw2tFagx7hdeT7A9MfjE"
-      },
-      "artists": [
-        {
-          "name": "Banaati",
-          "url": "https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4"
-        },
-        {
-          "name": "Haen",
-          "url": "https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g"
-        }
-      ],
-      "duration_ms": 249500,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/77vrwV62LCLmun3GIcC4og"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

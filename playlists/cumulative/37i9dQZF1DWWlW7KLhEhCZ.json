@@ -1086,6 +1086,40 @@
     },
     {
       "album": {
+        "name": "Deixa eu Surfar",
+        "url": "https://open.spotify.com/album/5OBL36a1Sd2BD7sldSZU17"
+      },
+      "artists": [
+        {
+          "name": "Natu Rap",
+          "url": "https://open.spotify.com/artist/0PtLgb2wKQeuLHaNftz0mk"
+        },
+        {
+          "name": "\u00c9oCROSSS",
+          "url": "https://open.spotify.com/artist/48wUBdaDEv211RQW2OU9S0"
+        },
+        {
+          "name": "Oli Natu",
+          "url": "https://open.spotify.com/artist/0JEd9Uq6MbSfxm0fSVi0DC"
+        },
+        {
+          "name": "Dave Natu",
+          "url": "https://open.spotify.com/artist/5O8hHOA4QkxeEt5qMCesBR"
+        },
+        {
+          "name": "Jooj Natu",
+          "url": "https://open.spotify.com/artist/1FfZwqHkk6TjvnHVGMcYHq"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Deixa eu Surfar",
+      "url": "https://open.spotify.com/track/1o7vCHc8IPRWqfjwo46SOv"
+    },
+    {
+      "album": {
         "name": "Desce A\u00ed (Flow Drake)",
         "url": "https://open.spotify.com/album/2aYuVO6GqSpFokJTuWoSiI"
       },
@@ -1309,7 +1343,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 113319,
       "name": "Ego Banido",
       "url": "https://open.spotify.com/track/2LjoryYACPHRCZfyEOVBDM"

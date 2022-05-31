@@ -109,7 +109,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 141680,
       "name": "Banana Co.",
       "url": "https://open.spotify.com/track/0PNFruXOgV5Vsf3OjsiDYW"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 401101,
       "name": "Billy Liar - Live",
       "url": "https://open.spotify.com/track/5H84IgNRpdyqgCMLteZFfs"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 300306,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6B7HkOXoB3c0MoXk7C9i07"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 284008,
       "name": "Calypso - Live",
       "url": "https://open.spotify.com/track/10kv6ITXZNukjUE1GxJu8N"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 213973,
       "name": "Disturbance At The Heron House - Remastered",
       "url": "https://open.spotify.com/track/3kL3FV7NPNfzgVeiG753r6"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 191080,
       "name": "Eveline",
       "url": "https://open.spotify.com/track/5rbB234M0EaapxiDqOUyby"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 252026,
       "name": "Harold Bloom",
       "url": "https://open.spotify.com/track/0qQ2EKimGM7DHgrPEMCjK0"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 112386,
       "name": "Hate the Villanelle",
       "url": "https://open.spotify.com/track/3fPSVnmmq2nOWM4VOmiKww"
@@ -512,6 +512,28 @@
     },
     {
       "album": {
+        "name": "Live at Carnegie Hall - November 3, 1962 (with Tommy Makem)",
+        "url": "https://open.spotify.com/album/7nmpysxD16x9i9jaIcU0uX"
+      },
+      "artists": [
+        {
+          "name": "The Clancy Brothers",
+          "url": "https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz"
+        },
+        {
+          "name": "Tommy Makem",
+          "url": "https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96506,
+      "name": "Lady Chatterley (with Tommy Makem) - Live at Carnegie Hall, New York, NY - November 1962",
+      "url": "https://open.spotify.com/track/6A18KBp0ve9SfbTmCHf5UD"
+    },
+    {
+      "album": {
         "name": "Literature Lovers",
         "url": "https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW"
       },
@@ -541,7 +563,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 220040,
       "name": "Lolita",
       "url": "https://open.spotify.com/track/696cNqpF2NwRLzC7KqCurz"
@@ -685,7 +707,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 275080,
       "name": "No Poem",
       "url": "https://open.spotify.com/track/3FYKFB7FHN63hD3idN9kiO"
@@ -739,7 +761,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 295413,
       "name": "Orpheo Looks Back",
       "url": "https://open.spotify.com/track/33NsXvwapmDA93cHM73G6L"
@@ -937,7 +959,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 242000,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/6BxZ0Pio6d1OOaFATHVj7J"
@@ -973,7 +995,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 378239,
       "name": "Shakespeare",
       "url": "https://open.spotify.com/track/1Q9yJCrqDANqGMKai1gqBM"
@@ -1153,7 +1175,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 244312,
       "name": "The Joy of D.H. Lawrence",
       "url": "https://open.spotify.com/track/32NuTwiZpdX9ZrC7TNvn3w"
@@ -1409,7 +1431,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 162666,
       "name": "Who Wrote Holden Caulfield?",
       "url": "https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld"

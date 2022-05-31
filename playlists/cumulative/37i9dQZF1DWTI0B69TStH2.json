@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover: Tony Yoru | Playlista od\u015bwie\u017cana w ka\u017cdy wtorek. ",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover: Senny | Playlista od\u015bwie\u017cana w ka\u017cdy wtorek. ",
   "name": "Fresh Finds Polska",
   "published_playlist_ids": [],
   "tracks": [
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 129500,
       "name": "$WIAT",
       "url": "https://open.spotify.com/track/2GdSzgEzhRbS0TlCWB1UbW"
@@ -82,6 +82,24 @@
     },
     {
       "album": {
+        "name": "22 minuty",
+        "url": "https://open.spotify.com/album/5M3DrDXSh95bgtViMb5mhX"
+      },
+      "artists": [
+        {
+          "name": "Kacper Garncarz",
+          "url": "https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180645,
+      "name": "22 minuty",
+      "url": "https://open.spotify.com/track/4qrrx3UeItbRIFYb0JRzom"
+    },
+    {
+      "album": {
         "name": "A mo\u017ce to wszystko sen",
         "url": "https://open.spotify.com/album/4rQTxUKCY2MjTIvz2PH4KE"
       },
@@ -100,6 +118,28 @@
     },
     {
       "album": {
+        "name": "ALEJA GWIAZD",
+        "url": "https://open.spotify.com/album/7aIKRqPV9D6GcskLRJPNdM"
+      },
+      "artists": [
+        {
+          "name": "HVBBY",
+          "url": "https://open.spotify.com/artist/3AETwhMn1YHqX4RuukvyVC"
+        },
+        {
+          "name": "Kuba PO",
+          "url": "https://open.spotify.com/artist/6U3mSFbg3uaCaaYzIl5Nac"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "ALEJA GWIAZD",
+      "url": "https://open.spotify.com/track/0Jgdy2S6zVqQSddntl07En"
+    },
+    {
+      "album": {
         "name": "All Is Fine",
         "url": "https://open.spotify.com/album/0mXoZ37bEcSxqGq4kZFJRp"
       },
@@ -115,6 +155,28 @@
       "duration_ms": 184357,
       "name": "All Is Fine",
       "url": "https://open.spotify.com/track/5wWzUMyFFP8HVVBsdKatdO"
+    },
+    {
+      "album": {
+        "name": "AM 0527 rework",
+        "url": "https://open.spotify.com/album/07iRvSOQp0VPK23FfAbSIy"
+      },
+      "artists": [
+        {
+          "name": "t dot est",
+          "url": "https://open.spotify.com/artist/4ajEkrWEtGrj9tfWS4ZOda"
+        },
+        {
+          "name": "maga",
+          "url": "https://open.spotify.com/artist/1fKJoPLtOLs61HteC9GAU4"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203295,
+      "name": "AM 0527 rework",
+      "url": "https://open.spotify.com/track/5bDJKFvwU0YcLN7fcQVVGY"
     },
     {
       "album": {
@@ -191,7 +253,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 268571,
       "name": "Black Dice",
       "url": "https://open.spotify.com/track/7b76hkZdYjdxMfExMIoppE"
@@ -270,6 +332,28 @@
     },
     {
       "album": {
+        "name": "Co ja powiem",
+        "url": "https://open.spotify.com/album/4ag6sf8Sb6yLv5iQPZEBc6"
+      },
+      "artists": [
+        {
+          "name": "Slow Sunset",
+          "url": "https://open.spotify.com/artist/7zaq6mdZY2zeMTrvLOHkn2"
+        },
+        {
+          "name": "Ajda",
+          "url": "https://open.spotify.com/artist/0WiAprIs1igRFyLzi9yu7e"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229909,
+      "name": "Co ja powiem",
+      "url": "https://open.spotify.com/track/0Zm5TBM79wMRNDGPWRlyK0"
+    },
+    {
+      "album": {
         "name": "Czerwone twarze",
         "url": "https://open.spotify.com/album/5PjkahKTA8iIROy4LCbjBn"
       },
@@ -321,7 +405,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 216710,
       "name": "Dach",
       "url": "https://open.spotify.com/track/6QomAHo7hIkayrqpNbSeci"
@@ -343,7 +427,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 248000,
       "name": "Dajcie Nam Spok\u00f3j",
       "url": "https://open.spotify.com/track/2xnKnYyxeug9DtQmzXjmuo"
@@ -437,7 +521,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 219281,
       "name": "Epikantus",
       "url": "https://open.spotify.com/track/2K123wx5TWLruAhQZ4CrxI"
@@ -676,6 +760,24 @@
     },
     {
       "album": {
+        "name": "jeden dzie\u0144",
+        "url": "https://open.spotify.com/album/5dDvxBWWjPU2nP6lb0R5Ba"
+      },
+      "artists": [
+        {
+          "name": "Hearty",
+          "url": "https://open.spotify.com/artist/30A8Qt4ivuYHpvRXtv2qQ2"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191821,
+      "name": "jeden dzie\u0144",
+      "url": "https://open.spotify.com/track/3DKoOnXsaJQdGKXNbTyxYm"
+    },
+    {
+      "album": {
         "name": "Jeszcze raz",
         "url": "https://open.spotify.com/album/1XGwQQS1gnGxLaLxCkfyZT"
       },
@@ -741,7 +843,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 250318,
       "name": "Kilka dobrych \u017cy\u0107",
       "url": "https://open.spotify.com/track/5V81FIPlPViReBUeXgBy7D"
@@ -781,6 +883,24 @@
       "duration_ms": 156266,
       "name": "Klub 27",
       "url": "https://open.spotify.com/track/2LaU311u37v3eXSPI8lvx9"
+    },
+    {
+      "album": {
+        "name": "kosmos kosmos",
+        "url": "https://open.spotify.com/album/27xbyGT2kLA7Np1118fTii"
+      },
+      "artists": [
+        {
+          "name": "Senny",
+          "url": "https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206842,
+      "name": "kosmos kosmos",
+      "url": "https://open.spotify.com/track/32raB0nCvsC6xIKrSXJ2e9"
     },
     {
       "album": {
@@ -831,7 +951,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 228446,
       "name": "Kr\u00f3lowa Polski (live)",
       "url": "https://open.spotify.com/track/5gaYLxHTA5n1LUoyTuqgfC"
@@ -853,6 +973,24 @@
       "duration_ms": 240720,
       "name": "Long Legs",
       "url": "https://open.spotify.com/track/3yRbjaQLcyACy1EFWzFKw5"
+    },
+    {
+      "album": {
+        "name": "Mama (Radio Edit)",
+        "url": "https://open.spotify.com/album/4FTeOLL45xUnINz4x2og81"
+      },
+      "artists": [
+        {
+          "name": "Ta\u0144ka Szafraniec",
+          "url": "https://open.spotify.com/artist/2JmaYUD0TgTWiocdjnTYR2"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210489,
+      "name": "Mama - Radio Edit",
+      "url": "https://open.spotify.com/track/7iP80eWgkFqISYrHIcvYtD"
     },
     {
       "album": {
@@ -1008,6 +1146,24 @@
     },
     {
       "album": {
+        "name": "NO DAYS OFF",
+        "url": "https://open.spotify.com/album/2DryzzSwnUh2g1C4P2lNUi"
+      },
+      "artists": [
+        {
+          "name": "LILIANA",
+          "url": "https://open.spotify.com/artist/50EewbRwb8f1s9kuMAuCxm"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186264,
+      "name": "NO DAYS OFF",
+      "url": "https://open.spotify.com/track/5X5ZdU7SdxbNaaAgGSEJbo"
+    },
+    {
+      "album": {
         "name": "no problems",
         "url": "https://open.spotify.com/album/1FF291pogH8onqUZlybJEq"
       },
@@ -1160,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "Polecam",
+        "url": "https://open.spotify.com/album/4H1EHdOJRnUYm2mVLbNrFq"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "Polecam",
+      "url": "https://open.spotify.com/track/1niuNf2HkUmSjwzA3ZpKEx"
+    },
+    {
+      "album": {
         "name": "Pomocy!",
         "url": "https://open.spotify.com/album/2hJ54fdfdp2o1JvKbHxbG7"
       },
@@ -1229,7 +1403,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 236000,
       "name": "Pozna\u0107 Ciebie",
       "url": "https://open.spotify.com/track/58CxpXDA69Sx9frq9QaSjG"
@@ -1301,7 +1475,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 128104,
       "name": "P\u00f3ki co",
       "url": "https://open.spotify.com/track/6uY0gR5G1HvyxXTimSsKvk"
@@ -1319,7 +1493,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 226043,
       "name": "Realizm Magiczny",
       "url": "https://open.spotify.com/track/3QfDTQAoXT8Su0uNuKtuQY"
@@ -1377,7 +1551,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 205245,
       "name": "Samodbanie",
       "url": "https://open.spotify.com/track/4Ogn6oQWBeI4VbZ8C77lBZ"
@@ -1449,10 +1623,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 300508,
       "name": "Sny Kociumby",
       "url": "https://open.spotify.com/track/7Eq5TcY79D2aodbDRAtOLQ"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/3w1SlCU8weW93887YvhBuk"
+      },
+      "artists": [
+        {
+          "name": "SAMARA",
+          "url": "https://open.spotify.com/artist/0H96zZshfKV7mq25xuyAWD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203505,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/1S374DhOFaqeJPpyKi0Qby"
     },
     {
       "album": {
@@ -1493,6 +1685,24 @@
       "duration_ms": 271437,
       "name": "Spirits (I\u2019m Lost)",
       "url": "https://open.spotify.com/track/1zE0Ry1PLqIdDOVQsLwgVJ"
+    },
+    {
+      "album": {
+        "name": "Suicide",
+        "url": "https://open.spotify.com/album/3wMLuEbtVuWwFOhLERuWss"
+      },
+      "artists": [
+        {
+          "name": "VELKRATIUK",
+          "url": "https://open.spotify.com/artist/1NX5jyb39TJKiHqrn3HsRx"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200360,
+      "name": "Suicide",
+      "url": "https://open.spotify.com/track/4beM915ZzEzF0gfxPUMY3y"
     },
     {
       "album": {
@@ -1590,6 +1800,24 @@
     },
     {
       "album": {
+        "name": "Tlen",
+        "url": "https://open.spotify.com/album/5UAQeFpqKe31gJgbVZezzk"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192609,
+      "name": "Tlen",
+      "url": "https://open.spotify.com/track/6uZqWMccUwbaP3LqlaJDSh"
+    },
+    {
+      "album": {
         "name": "To samo",
         "url": "https://open.spotify.com/album/0LgWsU3tMdI0sTB0E8yx8U"
       },
@@ -1679,7 +1907,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 163125,
       "name": "Uczucia dwa",
       "url": "https://open.spotify.com/track/2978x04EC5KAEyqkImI5Gb"
@@ -1704,6 +1932,42 @@
     },
     {
       "album": {
+        "name": "Warszawski Spleen",
+        "url": "https://open.spotify.com/album/6ylXlkEsBessUzLyrKSZpl"
+      },
+      "artists": [
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202360,
+      "name": "Warszawski Spleen",
+      "url": "https://open.spotify.com/track/52xVXebOr5krcB18FLlOTU"
+    },
+    {
+      "album": {
+        "name": "Bardo",
+        "url": "https://open.spotify.com/album/3SDciZQHXOt663Afg9aq6T"
+      },
+      "artists": [
+        {
+          "name": "Maja Laura",
+          "url": "https://open.spotify.com/artist/6tBYHKep8nTeBfG8L6fiTa"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208226,
+      "name": "Wiatr",
+      "url": "https://open.spotify.com/track/0YLPZMmte4xyS7p4KbUXLf"
+    },
+    {
+      "album": {
         "name": "Wina (Szatt Remix)",
         "url": "https://open.spotify.com/album/293zxBqNASnuOE4FOKizFi"
       },
@@ -1719,7 +1983,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 217357,
       "name": "Wina - Szatt Remix",
       "url": "https://open.spotify.com/track/5Tu0SkuKX0OTw85CkNlOI0"
@@ -1795,7 +2059,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 237525,
       "name": "Wyblak\u0142e Fotografie",
       "url": "https://open.spotify.com/track/7gjmYRodRIcLPoi06Kkl4q"
@@ -1853,6 +2117,24 @@
       "duration_ms": 220341,
       "name": "Zatory",
       "url": "https://open.spotify.com/track/4adjffRHeoI5hziAGDBSXN"
+    },
+    {
+      "album": {
+        "name": "Zawsze",
+        "url": "https://open.spotify.com/album/5wYdAQgRs2vCpawb5L4uEP"
+      },
+      "artists": [
+        {
+          "name": "Klabi\u0144ski",
+          "url": "https://open.spotify.com/artist/63epGzUUDoo1MX6EkVpsh3"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182057,
+      "name": "Zawsze",
+      "url": "https://open.spotify.com/track/1EFBiZ9fW3hxw7ViXg1t7x"
     },
     {
       "album": {

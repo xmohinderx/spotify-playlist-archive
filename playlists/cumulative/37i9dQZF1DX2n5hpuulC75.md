@@ -4,7 +4,7 @@
 
 > Chill tunes for mellow moods.
 
-65 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
+66 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,15 +36,16 @@
 | [Free Form](https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave002](https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU) | 2:47 | 2018-12-11 |  |
 | [Frozen Away](https://open.spotify.com/track/4hboEacHpNTLg2xPmAfjR3) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [Blur // Frozen Away](https://open.spotify.com/album/2fqV2w0MSDUocsbpI0OSaa) | 2:48 | 2018-12-11 |  |
 | [Get Light](https://open.spotify.com/track/3VGqj3ZkIKE6dZCqXZQdIk) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Get Light](https://open.spotify.com/album/2PUSsWHPs1h48a7DaFYvY7) | 3:28 | 2018-12-11 |  |
-| [Glow](https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave001](https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk) | 3:02 | 2018-12-11 |  |
+| [Glow](https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave001](https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk) | 3:02 | 2018-12-11 | 2022-05-31 |
 | [Holiday \- Kyson Remix](https://open.spotify.com/track/3EsqrnNfJ9CgKtmqM8dJPN) | [Drinker](https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Holiday \(Kyson Remix\)](https://open.spotify.com/album/13suTnGeieJJA5mF9ivLH2) | 4:41 | 2019-05-24 |  |
 | [Home](https://open.spotify.com/track/0BgY4FS807k1sfs4ncUxJd) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s), [LEES](https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5) | [Home](https://open.spotify.com/album/5jGmagbLNTCg0PvFJxXkyC) | 3:18 | 2018-12-11 |  |
 | [I Don't Know](https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v) | 4:59 | 2018-12-11 |  |
+| [I would](https://open.spotify.com/track/1HsPRFQdULoSCBNDrlWbgb) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/0JkfS74A9BTW6tTQQkg0W9) | 3:25 | 2018-12-11 |  |
 | [I'm Right Here](https://open.spotify.com/track/1P6nShfHtDMPeX9ioSpuDB) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0), [E\. Mosseri](https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI) | [I'm Right Here](https://open.spotify.com/album/40FBsidorGc3bClqQAvXYe) | 4:41 | 2018-12-11 |  |
 | [In Silence](https://open.spotify.com/track/0BsFp2sJPOdtRg3oUVWuh8) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [In Silence](https://open.spotify.com/album/5rTCzfuf6vmgD08IQBJlsx) | 4:18 | 2018-12-11 |  |
 | [In Your Eyes \(feat\. Charlotte Day Wilson\) \- Nosaj Thing Remix](https://open.spotify.com/track/7rcbHVWq8rCgpC6dO93kyl) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [In Your Eyes \(feat\. Charlotte Day Wilson\) \[Nosaj Thing Remix\]](https://open.spotify.com/album/7fSFSItBNFLhjgH1c4F59R) | 3:20 | 2018-12-11 |  |
 | [INT.](https://open.spotify.com/track/0PkdPVAAf35WruJQsj9OSb) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone's EP](https://open.spotify.com/album/7nONNWbe5d7OrhVPzivguN) | 1:27 | 2018-12-11 |  |
-| [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 | 2018-12-11 | 2022-05-30 |
+| [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 | 2018-12-11 |  |
 | [Loss](https://open.spotify.com/track/1yZUxtk1VoMiYUnD1yOjo8) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [Loss](https://open.spotify.com/album/5p9mx2AX05jn6rzjzKUYNX) | 3:39 | 2018-12-11 |  |
 | [Mercury](https://open.spotify.com/track/7qIcIbwxgoELlu989d3paB) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Baby You Can Free Your Mind](https://open.spotify.com/album/7vajxfrenQypkMf4vXj5nI) | 5:35 | 2019-09-16 |  |
 | [Money](https://open.spotify.com/track/1Pvp3lLLxoc0qKBDUjHvvn) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Money](https://open.spotify.com/album/1o78NPweWzYF2cH9iWayZg) | 3:59 | 2018-12-11 |  |
@@ -67,7 +68,7 @@
 | [Where the Money Flows](https://open.spotify.com/track/2B7MsTiOgVN0S7LHaTrt9w) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Where the Money Flows](https://open.spotify.com/album/2I9KdP79osKWxAa5LZMupE) | 5:13 | 2019-09-16 |  |
 | [White Gemini](https://open.spotify.com/track/4PuTvnil6uy4m6DGSnxrHE) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [White Gemini](https://open.spotify.com/album/7IXVOxHTpOMXaMQivGKfuE) | 3:38 | 2019-05-24 |  |
 | [With You](https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus) | [Oddysseys](https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd) | [With You](https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu) | 2:25 | 2019-05-24 |  |
-| [Yellow Dust](https://open.spotify.com/track/7DxLN7gn6TNpgyaIYkQ6d1) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Yellow Dust](https://open.spotify.com/album/0GddXWFgGfX620dMxsh7K5) | 3:53 | 2018-12-11 |  |
+| [Yellow Dust](https://open.spotify.com/track/7DxLN7gn6TNpgyaIYkQ6d1) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Yellow Dust](https://open.spotify.com/album/0GddXWFgGfX620dMxsh7K5) | 3:53 | 2018-12-11 | 2022-05-31 |
 | [You](https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA) | [Only Emily](https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT) | [EP 2](https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4) | 2:50 | 2018-12-11 |  |
 | [You](https://open.spotify.com/track/4gRuC34ZpRcpVXxMXM1csQ) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [You](https://open.spotify.com/album/4Fzw1NdiDb9pGJPRAVlKXv) | 3:51 | 2018-12-11 |  |
 | [Young](https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 5:24 | 2018-12-11 |  |

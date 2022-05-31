@@ -274,6 +274,24 @@
     },
     {
       "album": {
+        "name": "Blue Acura",
+        "url": "https://open.spotify.com/album/4Zcql3YEZeRxV1ZVeFwiRI"
+      },
+      "artists": [
+        {
+          "name": "Sheldon Sabastian",
+          "url": "https://open.spotify.com/artist/3TVN22ppuxvrMtVOIGFYYn"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186566,
+      "name": "Blue Acura",
+      "url": "https://open.spotify.com/track/4fFDdEtnBEPLnCREHymXxX"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/4H4txT4dMDknveR0RjAw83"
       },
@@ -463,7 +481,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 206549,
       "name": "Children",
       "url": "https://open.spotify.com/track/0r5PcrvphHGO1LijkU4K4u"
@@ -587,7 +605,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 136216,
       "name": "COUPE",
       "url": "https://open.spotify.com/track/3PoxgiYoNlLLHACzM0uUep"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 158211,
       "name": "enough",
       "url": "https://open.spotify.com/track/4uoVYbhitSNdQoqnJneYTg"
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 183463,
       "name": "Flashy",
       "url": "https://open.spotify.com/track/2zvgnWPuyOudoBW64u2Pqj"
@@ -1229,7 +1247,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 153335,
       "name": "Fvck Dat",
       "url": "https://open.spotify.com/track/1NkdoERbj6QzO7XUr4RMPk"
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 147804,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/7LA92Cj5dvCKcJV9QKAfaL"
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 171500,
       "name": "GML",
       "url": "https://open.spotify.com/track/2KtOdyy1demXgavVpzs5ca"
@@ -1367,7 +1385,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 161076,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/33pkZ5JnVbzUGRdqWmpRef"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 189530,
       "name": "Last Sunday",
       "url": "https://open.spotify.com/track/22RtEG9lP1YxjMkJLsRhSh"
@@ -1805,7 +1823,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 186000,
       "name": "Lullabies",
       "url": "https://open.spotify.com/track/7fvAIIqAH1TzC5ohdv0w2m"
@@ -1995,7 +2013,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 254144,
       "name": "My Lady",
       "url": "https://open.spotify.com/track/7eXqO8kYOQZTvl0TlVD7fJ"
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 218709,
       "name": "NASCAR",
       "url": "https://open.spotify.com/track/02dK2GoARvsOTbqknpc0tn"
@@ -2093,7 +2111,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 187247,
       "name": "No Difference",
       "url": "https://open.spotify.com/track/7JyLTiAS8WLD9jmvMf87iw"
@@ -2431,7 +2449,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 166518,
       "name": "Positivity",
       "url": "https://open.spotify.com/track/5xUx4Zqi2FoLSHGmlNs7Gl"
@@ -2471,7 +2489,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 122343,
       "name": "PUSH TO START (Freestyle)",
       "url": "https://open.spotify.com/track/0xBo772kgQhitcPomUCegb"
@@ -2547,7 +2565,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 197260,
       "name": "Redo",
       "url": "https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas"
@@ -2667,7 +2685,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 168000,
       "name": "Shade of",
       "url": "https://open.spotify.com/track/4naqpH43qsh70sJRs4l7fd"
@@ -2761,7 +2779,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 167613,
       "name": "Smoke Hole - Edit",
       "url": "https://open.spotify.com/track/63ajBqgNVFVtkE7vhyBkny"
@@ -2783,7 +2801,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 160695,
       "name": "Smooth Boogie",
       "url": "https://open.spotify.com/track/6ioS9o6mALt95iHqEL1bZv"
@@ -2805,7 +2823,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 105000,
       "name": "ST NICK",
       "url": "https://open.spotify.com/track/5B7e3xE6N3c0fb8wrSgwKF"
@@ -2827,7 +2845,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 121500,
       "name": "Staring At J Dilla",
       "url": "https://open.spotify.com/track/0uSeqnV8EBPR73Et5IcMd4"
@@ -2881,7 +2899,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 130832,
       "name": "TAPPED IN",
       "url": "https://open.spotify.com/track/5j6KSYgp4qkhfy3xFe3l0X"
@@ -3143,7 +3161,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Troubles [Feat. T-Pain]",
       "url": "https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO"
@@ -3289,7 +3307,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 86582,
       "name": "Weird",
       "url": "https://open.spotify.com/track/7fPL4TiTLgjUZU0UKFR21Q"
@@ -3325,7 +3343,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 133968,
       "name": "WET",
       "url": "https://open.spotify.com/track/50k1Mr12b8UCjnVi8ujZis"
@@ -3409,7 +3427,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 159130,
       "name": "Wristbands",
       "url": "https://open.spotify.com/track/0nCX0RRS63xo9jWbG3ShwC"
@@ -3427,7 +3445,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 123270,
       "name": "Young Sylvan Back",
       "url": "https://open.spotify.com/track/5efVqaEXb0izCck7z9OLNc"

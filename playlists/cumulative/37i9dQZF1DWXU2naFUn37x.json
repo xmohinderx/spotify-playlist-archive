@@ -184,6 +184,36 @@
     },
     {
       "album": {
+        "name": "BALLAS RMX (feat. MamboLosco, Janga ODT)",
+        "url": "https://open.spotify.com/album/7EsYWxFYeTdJp2Ncf1HTHE"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        },
+        {
+          "name": "Janga ODT",
+          "url": "https://open.spotify.com/artist/3JHgtfIOYtS7US0NC0CRzZ"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154405,
+      "name": "BALLAS RMX (feat. MamboLosco, Janga ODT)",
+      "url": "https://open.spotify.com/track/61Tc6VFFrxANwYbKp9ZYWT"
+    },
+    {
+      "album": {
         "name": "COSA NOSTRA",
         "url": "https://open.spotify.com/album/0QNI86lT5srJbTLWTWOnFH"
       },
@@ -335,7 +365,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 144056,
       "name": "Braquages",
       "url": "https://open.spotify.com/track/2PBzppfFYOLhyNcuosCLF9"

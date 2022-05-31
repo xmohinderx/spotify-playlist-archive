@@ -151,7 +151,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 440547,
       "name": "Around the Stars",
       "url": "https://open.spotify.com/track/5zEkJhlypnzAjacqTemCea"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 480000,
       "name": "Believe - Bellatrix Remix",
       "url": "https://open.spotify.com/track/4Ju6x12fvx0nRxq4ZvWy6M"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 459428,
       "name": "Bhavani Ashtakam",
       "url": "https://open.spotify.com/track/4hBD1db3F4KkvigumOTDMD"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 331094,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5kCdc14ItHSF6N6rI7wGSX"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 252173,
       "name": "Buzzing",
       "url": "https://open.spotify.com/track/2OTiWzHcsCsRO9Ot3VdDmF"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 326000,
       "name": "Control Machine",
       "url": "https://open.spotify.com/track/71c8wiCCTK63JzK8pLDXGJ"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 450206,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/6HqR3zR0zfvMh7dUZypogW"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 494968,
       "name": "Dreamworld",
       "url": "https://open.spotify.com/track/3lGnnnYxNxDwH2XTWtAyxD"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 439190,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5dFXMKwmElFkdBXEII2HpR"
@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 214290,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6m8BCfpZIVikVsm5YKVQrC"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 377058,
       "name": "High Pressure",
       "url": "https://open.spotify.com/track/3RMouv8TGwWC1fVqehAIf7"
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 358945,
       "name": "NAMAHA",
       "url": "https://open.spotify.com/track/19vs5EKA0WfxAmjDLzLhnx"
@@ -1833,7 +1833,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 245357,
       "name": "Other Days",
       "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
@@ -1921,7 +1921,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 407382,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/6C9HiTTS0fNatgaxoDlS9X"
@@ -2168,6 +2168,32 @@
     },
     {
       "album": {
+        "name": "Shiva Lingam (S3N0 Remix)",
+        "url": "https://open.spotify.com/album/6POjkorUF5fPeDH4pg5qO7"
+      },
+      "artists": [
+        {
+          "name": "Shanti People",
+          "url": "https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt"
+        },
+        {
+          "name": "Asante Sana",
+          "url": "https://open.spotify.com/artist/6rI9AVUw0k5hX9viNM0ssc"
+        },
+        {
+          "name": "S3N0",
+          "url": "https://open.spotify.com/artist/5R1yd5y1Aap6x2iFiXjPj1"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "Shiva Lingam - S3N0 Remix",
+      "url": "https://open.spotify.com/track/2sxbKvKtJvYpqNo2nCCkqP"
+    },
+    {
+      "album": {
         "name": "Shores of The Subconscious",
         "url": "https://open.spotify.com/album/5zR9HjvUxWRcK6HinyWGxW"
       },
@@ -2351,7 +2377,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 270629,
       "name": "Stuck In My Head",
       "url": "https://open.spotify.com/track/3sHDHHKbdQPADaejmZp1oP"
@@ -2387,7 +2413,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 260571,
       "name": "Symbiosis",
       "url": "https://open.spotify.com/track/5wtUmDnAhBZ79Po5eaQUW3"
@@ -2835,7 +2861,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 390011,
       "name": "You Wanna Stay",
       "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-675 songs - 1 day 11 hr 34 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+676 songs - 1 day 11 hr 37 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Er Det For Sent? \(feat\. TopGunn\) \- Remix](https://open.spotify.com/track/1k7bDVNh318BxL8gFeLd8N) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [Er Det For Sent? \(feat\. TopGunn\) \- Remix](https://open.spotify.com/album/5gfJBCODehnpEB4lhfquUj) | 2:29 | 2022-05-21 |  |
 | [Er Her \(Artigeardit X KESI\)](https://open.spotify.com/track/63ODxpk6cCmFw8VvoeRD0O) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Er Her \(Artigeardit X KESI\)](https://open.spotify.com/album/3VZTddLxjfvzvfAADCvSjK) | 2:37 | 2021-05-16 | 2021-05-30 |
 | [Er Her \(Artigeardit, KESI\)](https://open.spotify.com/track/6BxGGPBdNexcy53euZsrga) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 2:37 | 2021-05-30 |  |
-| [ErruDumEllaHvad](https://open.spotify.com/track/5qaaQp6KvkEdB2q7SKQAcJ) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [ErruDumEllaHvad](https://open.spotify.com/album/6X1t3OqSHWM8zFEjGKHcyN) | 2:28 | 2021-04-02 |  |
+| [ErruDumEllaHvad](https://open.spotify.com/track/5qaaQp6KvkEdB2q7SKQAcJ) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [ErruDumEllaHvad](https://open.spotify.com/album/6X1t3OqSHWM8zFEjGKHcyN) | 2:28 | 2021-04-02 | 2022-05-31 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-14 |
 | [Europa Life](https://open.spotify.com/track/3susegzLFf54O38e3RiRqm) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Europa Life](https://open.spotify.com/album/5OOVJUnv5O0Lv8BIkUiHDu) | 2:21 | 2022-03-05 | 2022-03-30 |
 | [Extra \(feat\. Jimilian\)](https://open.spotify.com/track/1bcLhkdP0XV0DEgZi0cNd8) | [L.O.C.](https://open.spotify.com/artist/0VUVvNFIyMeIWguwhhImIc), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [FUCK L.O.C.](https://open.spotify.com/album/32Mpl3euo5CsU8oe4SYXE8) | 3:37 | 2021-08-22 | 2021-08-23 |
@@ -367,6 +367,7 @@
 | [KODA](https://open.spotify.com/track/3yx4OqEvFdkAts3WzCZdR4) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [10 YEARS](https://open.spotify.com/album/78t37LD6kbhLgnlCiG5nmU) | 2:16 | 2021-09-25 | 2021-10-10 |
 | [Koldt Udenfor](https://open.spotify.com/track/0rEwD7QVscNnz05ooEb0qB) | [Page Four](https://open.spotify.com/artist/7HhY2BesKCaNSBRigohHXj) | [Koldt Udenfor](https://open.spotify.com/album/0vo1GonIjpeo2GIVUobBaM) | 3:11 | 2021-11-30 | 2021-12-27 |
 | [KOMFORTABELT](https://open.spotify.com/track/3LbIf7PslxDzCtm9vP96oT) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [KOMFORTABELT](https://open.spotify.com/album/1SkYW8fY21r5KwLFkxjPmK) | 2:06 | 2021-08-29 | 2022-01-08 |
+| [Komplimenter \(feat\. Shooter Gang\)](https://open.spotify.com/track/3r9OFjS4faHR2h8ZjZqQZV) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Komplimenter \(feat\. Shooter Gang\)](https://open.spotify.com/album/0QGxDExBFtpCMaaOiHk2Ec) | 3:21 | 2022-05-30 |  |
 | [Kongespil \- Tinka og Kongespillet](https://open.spotify.com/track/0nQBmwUprs4LYyhECw44LH) | [Hjalmer](https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ) | [Midt I En Drøm Eller Noget Der Ligner](https://open.spotify.com/album/0Ac80GpaaAu8pUGfjO6Swb) | 2:50 | 2021-11-23 | 2021-12-29 |
 | [Krop Som En Sten](https://open.spotify.com/track/2yZK8pNpn1mp2942A3bmpB) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 3:08 | 2022-01-08 | 2022-04-15 |
 | [Krystalkuglen](https://open.spotify.com/track/0lVG3xhpjArK0F589JEjHV) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 0:38 | 2022-01-08 | 2022-01-12 |

@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Baby I'm Jealous",
       "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 209999,
       "name": "Kakyere Me",
       "url": "https://open.spotify.com/track/3EkGDrBnSviSUZpG8m4yGr"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 197972,
       "name": "Leg Over",
       "url": "https://open.spotify.com/track/0K3ESegCtpUnQ2XB2d3bHt"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 252134,
       "name": "Makoma",
       "url": "https://open.spotify.com/track/7eNjCnXceIhUpOSeVd3Yt5"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 284533,
       "name": "Miss U Die",
       "url": "https://open.spotify.com/track/4iGPZPPVnqgMBwKd3wsCYo"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 277447,
       "name": "Omoge Mi",
       "url": "https://open.spotify.com/track/3zIxgjPo9SJaynGuD2WNmQ"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 400960,
       "name": "Otoolege",
       "url": "https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 213028,
       "name": "San",
       "url": "https://open.spotify.com/track/0yYDvvZMeTqSUV5wLyP2Wm"
@@ -1021,6 +1021,24 @@
     {
       "album": {
         "name": "Understand",
+        "url": "https://open.spotify.com/album/6cfcb1dC5jsPE2WthrMmw3"
+      },
+      "artists": [
+        {
+          "name": "Niinety9",
+          "url": "https://open.spotify.com/artist/4orVoQC8pEAHqUBXCtYsn5"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166142,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/1sZUKPtbvWr7ciIXYdFek8"
+    },
+    {
+      "album": {
+        "name": "Understand",
         "url": "https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK"
       },
       "artists": [
@@ -1035,24 +1053,6 @@
       "duration_ms": 174545,
       "name": "Understand",
       "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
-    },
-    {
-      "album": {
-        "name": "Understand",
-        "url": "https://open.spotify.com/album/6cfcb1dC5jsPE2WthrMmw3"
-      },
-      "artists": [
-        {
-          "name": "Niinety9",
-          "url": "https://open.spotify.com/artist/4orVoQC8pEAHqUBXCtYsn5"
-        }
-      ],
-      "date_added": "2022-05-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166142,
-      "name": "Understand - live",
-      "url": "https://open.spotify.com/track/1sZUKPtbvWr7ciIXYdFek8"
     },
     {
       "album": {

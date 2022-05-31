@@ -349,7 +349,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 149266,
       "name": "Avenda\u00f1o as\u00ed Nom\u00e1s",
       "url": "https://open.spotify.com/track/1GcqGWMUWUrzWV1VuxuvKo"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 217750,
       "name": "Cada Quien",
       "url": "https://open.spotify.com/track/3Gohrh4yReDRDjOkpXy4WO"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 192913,
       "name": "Cuando Me Importabas",
       "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 230067,
       "name": "Destapen Otra",
       "url": "https://open.spotify.com/track/1PwJ1mDKBz7K3nQwxzw0Oh"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 165035,
       "name": "El Fracasado",
       "url": "https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 191751,
       "name": "El Que a Ti Te Gusta",
       "url": "https://open.spotify.com/track/5drpITkUIpFNfuP2eCWAz4"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 154978,
       "name": "El Seven",
       "url": "https://open.spotify.com/track/07y97kTaxDblALAqQyubsP"
@@ -1169,6 +1169,24 @@
       "duration_ms": 161194,
       "name": "Eres Mi Crush",
       "url": "https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi"
+    },
+    {
+      "album": {
+        "name": "Con M\u00e1s Pawer",
+        "url": "https://open.spotify.com/album/6Btf5qRQjRvQKPGFUAstvg"
+      },
+      "artists": [
+        {
+          "name": "Proyecto X",
+          "url": "https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162546,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/00d5xg90Mvl5bvK18oliSI"
     },
     {
       "album": {
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 197133,
       "name": "La Bala",
       "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 241484,
       "name": "Llama por Favor",
       "url": "https://open.spotify.com/track/6jpMzPfvWQkbWaURpGSIDM"
@@ -2965,7 +2983,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 155909,
       "name": "S\u00ed Como No",
       "url": "https://open.spotify.com/track/5TOathKIZl0EoGUKUoLpdx"
@@ -3073,7 +3091,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 178090,
       "name": "Virgencita de Mi Vida",
       "url": "https://open.spotify.com/track/1DWZ5RN9sDPX5itb8F31SR"

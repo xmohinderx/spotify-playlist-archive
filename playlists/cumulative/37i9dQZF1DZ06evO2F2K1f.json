@@ -137,7 +137,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 113997,
       "name": "Beauty Spot",
       "url": "https://open.spotify.com/track/2jJGtcvM6RKb8PDXmxKqjF"
@@ -278,6 +278,32 @@
     },
     {
       "album": {
+        "name": "Vintage Remix Boutique - Skeewiff vs Kpm",
+        "url": "https://open.spotify.com/album/0omBhh34SdDB0XYUwWRG7S"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Alessandro Rizzo",
+          "url": "https://open.spotify.com/artist/6E3g7aS7Tngha3AtNeuc44"
+        },
+        {
+          "name": "Elliot Ireland",
+          "url": "https://open.spotify.com/artist/3mDHOImVK3BjoclJQM8RXb"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232209,
+      "name": "Dave Is Not Here",
+      "url": "https://open.spotify.com/track/18LmkmkifrB5KQ9Wot8unF"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: Hot Wax",
         "url": "https://open.spotify.com/album/3PAWWGdigwDsVcfsMUu7mr"
       },
@@ -373,7 +399,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 137374,
       "name": "Gingerbread",
       "url": "https://open.spotify.com/track/4lIVwUYL7ZmTjXs8hUWiab"
@@ -409,7 +435,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 83226,
       "name": "Grange Hill",
       "url": "https://open.spotify.com/track/2FKrc7YAbpLeWD2G08IRvC"
@@ -529,10 +555,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 154173,
       "name": "Man on the Move",
       "url": "https://open.spotify.com/track/40QHBWHk8P25QWIzZXjs1x"
+    },
+    {
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Brian Bennett",
+          "url": "https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264352,
+      "name": "Marrakech",
+      "url": "https://open.spotify.com/track/5g8V7qpugfxt7rKyL7oEwB"
     },
     {
       "album": {
@@ -704,6 +752,36 @@
     },
     {
       "album": {
+        "name": "Bootleg Beats",
+        "url": "https://open.spotify.com/album/5VeLluSageWRYdDLnWKY22"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Keith Mansfield",
+          "url": "https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH"
+        },
+        {
+          "name": "Andrew Smith",
+          "url": "https://open.spotify.com/artist/2Ev37g5r1LebOhUikXBsB2"
+        },
+        {
+          "name": "Keith Lawrence",
+          "url": "https://open.spotify.com/artist/7d5SlLpPi78IOzO5J7poTq"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180384,
+      "name": "Original Mania",
+      "url": "https://open.spotify.com/track/6hfhkHbprP0sPgIRCsyfZh"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: Soul Organ Showcase",
         "url": "https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ"
       },
@@ -723,6 +801,24 @@
       "duration_ms": 113133,
       "name": "Piccadilly Night Ride",
       "url": "https://open.spotify.com/track/1zi8xWfni4JFoPbxp8dLKL"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Soul Organ Showcase",
+        "url": "https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80600,
+      "name": "Regent Street",
+      "url": "https://open.spotify.com/track/6jONUb62DB6QS22Lk06FmB"
     },
     {
       "album": {
@@ -763,6 +859,24 @@
       "duration_ms": 242125,
       "name": "Serengeti",
       "url": "https://open.spotify.com/track/06K7wmMQ4rBkOv3LRTuqiR"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: The Road Forward",
+        "url": "https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217218,
+      "name": "Sheer Elegance",
+      "url": "https://open.spotify.com/track/1grBclN9HxtPvCsPsQ69Dj"
     },
     {
       "album": {
@@ -991,7 +1105,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 177333,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/0kf25bZM9C8ejuDlYpg3eT"

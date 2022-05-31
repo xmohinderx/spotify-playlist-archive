@@ -456,6 +456,24 @@
     },
     {
       "album": {
+        "name": "Emenate / Regular",
+        "url": "https://open.spotify.com/album/4PgRsVMqMpf2oxr9Vi55nj"
+      },
+      "artists": [
+        {
+          "name": "Dark Cities",
+          "url": "https://open.spotify.com/artist/5Gq2kr5Hg7WCD4wUo8MF9y"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Emenate",
+      "url": "https://open.spotify.com/track/4U9TVvW37qLmNd9gAZjuXp"
+    },
+    {
+      "album": {
         "name": "Energy/Flashing Lights",
         "url": "https://open.spotify.com/album/1YEirokqhDyTsI2ROTBnqA"
       },

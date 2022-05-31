@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-370 songs - 19 hr 8 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
+371 songs - 19 hr 9 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [ESSE É LADRÃO](https://open.spotify.com/track/5rz7ZQkMpQHGDXC62P2Axw) | [DJ BRUNIN DA NT](https://open.spotify.com/artist/3ifiFpeJ4X5nYagCluflvg), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy) | [ESSE É LADRÃO](https://open.spotify.com/album/5RVAa6VkF8XRN9N6DLTtTF) | 3:33 | 2022-01-17 | 2022-03-02 |
 | [ESSÊNCIA DE CRIA](https://open.spotify.com/track/1iaPDgTbsKrlznVu13EWIf) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:12 | 2022-01-17 | 2022-02-16 |
 | [Estou Nervosa](https://open.spotify.com/track/4i8MoaTD2oqeviqAgMf0oD) | [Lara Suleiman](https://open.spotify.com/artist/7H7eEvuNoXAokBLPmzYEZO) | [Encanto \(Trilha Sonora Original em Português\)](https://open.spotify.com/album/0B9nvTbt9fXq7Y6oQEYwRe) | 3:22 | 2022-01-17 | 2022-02-16 |
-| [EU BEM QUE TE AVISEI \- TU EMPINOU ELE PEI](https://open.spotify.com/track/0E0OENqh3jaZ4VpDFTOLGj) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ ABDO](https://open.spotify.com/artist/5g1Ojx0MsvmNEjnVKGmHVw) | [EU BEM QUE TE AVISEI \- TU EMPINOU ELE PEI](https://open.spotify.com/album/3lPLg51Y7BDPRB4n8pLnNC) | 2:38 | 2022-05-26 |  |
+| [EU BEM QUE TE AVISEI \- TU EMPINOU ELE PEI](https://open.spotify.com/track/0E0OENqh3jaZ4VpDFTOLGj) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ ABDO](https://open.spotify.com/artist/5g1Ojx0MsvmNEjnVKGmHVw) | [EU BEM QUE TE AVISEI \- TU EMPINOU ELE PEI](https://open.spotify.com/album/3lPLg51Y7BDPRB4n8pLnNC) | 2:38 | 2022-05-26 | 2022-05-31 |
 | [Eu Bem Que Te Avisei \- Tu Empurrou Ele Pei](https://open.spotify.com/track/6pojmlhRI1fBUNg0pZSA9M) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ ABDO](https://open.spotify.com/artist/5g1Ojx0MsvmNEjnVKGmHVw) | [Eu Bem Que Te Avisei \- Tu Empurrou Ele Pei](https://open.spotify.com/album/3agQ7dEMi2JOATLApERs3N) | 2:38 | 2022-04-12 | 2022-05-27 |
 | [Eu Não Caio no Golpe](https://open.spotify.com/track/1XiZze5nCGABTSA37c4TbO) | [Stefany Martins](https://open.spotify.com/artist/0ocdFWFBnzpqS4lyLsWrX3), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth) | [Eu Não Caio no Golpe](https://open.spotify.com/album/7JRXsNtB0eN8rIGCPnlX9c) | 2:24 | 2022-01-17 | 2022-01-19 |
 | [Eu Te Amo](https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [Eu Te Amo](https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N) | 4:04 | 2022-05-24 |  |
@@ -138,6 +138,7 @@
 | [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 | 2022-05-17 | 2022-05-24 |
 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 | 2022-04-07 | 2022-04-13 |
 | [Gatilho \- Ao Vivo](https://open.spotify.com/track/42nZBOwXNdO24Ml032bLBS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Se Melhorar Estraga \(Ao Vivo\)](https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6) | 2:35 | 2022-04-12 | 2022-04-27 |
+| [Gimme Gimme / Baile Do Cinga](https://open.spotify.com/track/1SW1tFrjCleUYsi5De8bF2) | [Syon Trio](https://open.spotify.com/artist/5O3o9dCPHAVtnBrnwFri8j) | [Pack De Verão](https://open.spotify.com/album/2jbR7bg87ugges28tYtOEA) | 1:36 | 2022-05-30 |  |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-01-29 | 2022-03-09 |
 | [Good Looking](https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E) | 3:34 | 2022-05-24 |  |
 | [Good Looking](https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9) | 3:34 | 2022-05-16 | 2022-05-25 |

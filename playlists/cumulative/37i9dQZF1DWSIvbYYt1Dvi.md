@@ -4,7 +4,7 @@
 
 > costa gold, tz da coro e major rd é AULAS
 
-91 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/2GpYMlHQWhJaqR9gXTSMkt)
+92 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/2GpYMlHQWhJaqR9gXTSMkt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Ouro Branco](https://open.spotify.com/track/2BCTZ1hoXMrtoVWkAlSmlj) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [A Quadrilha](https://open.spotify.com/artist/0neNJWwLJ11bBi77uKu9MP), [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [X Sem Peita](https://open.spotify.com/artist/082vDMJAfkNZ3U13mjBYfY), [Bertiolli](https://open.spotify.com/artist/68RVK6jpOrblHL568LVW5F), [Dougnow](https://open.spotify.com/artist/6QgJ1fnTplY0ITGBrCsgtC), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [AQuadrilha](https://open.spotify.com/album/7G65OEvkYs7dWIBfUtNUph) | 4:05 | 2022-01-14 |  |
 | [Outro Patamar](https://open.spotify.com/track/2857Zdt1A03QnnkhGXC1hP) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc) | [Outro Patamar](https://open.spotify.com/album/7KH6ZeR3Iwnv9Uh9qIukBZ) | 3:45 | 2022-03-18 |  |
 | [Parabellum](https://open.spotify.com/track/3CPWSSuZpNlvIrQ4uFiBld) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH) | [Parabellum](https://open.spotify.com/album/1shheX7krP1YOK6KiMLcZe) | 2:13 | 2022-01-14 | 2022-02-24 |
-| [PERSONNALITE](https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [PERSONNALITE](https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj) | 3:28 | 2022-03-18 |  |
+| [Paraiso de Kant](https://open.spotify.com/track/2ftQdqY6Gk8dUyjM6haZpo) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Paraiso de Kant](https://open.spotify.com/album/41skTEmpcwMypcBhnlRKDJ) | 2:28 | 2022-05-30 |  |
+| [PERSONNALITE](https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [PERSONNALITE](https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj) | 3:28 | 2022-03-18 | 2022-05-31 |
 | [Pertence ao Crime](https://open.spotify.com/track/5pR3zRLe6o0NqHKWmcwWyN) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 2:45 | 2022-01-14 | 2022-01-22 |
 | [Pique Peaky Blinders](https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Pique Peaky Blinders](https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD) | 3:05 | 2022-02-24 |  |
 | [Pirâmide Social \- Ao Vivo](https://open.spotify.com/track/7LTg7mbOlKdMgJhkHMfgBt) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Mundão Girou \(Inéditas\) \[Ao Vivo\]](https://open.spotify.com/album/0RjQW3b9M864bJJrAjl310) | 3:33 | 2022-01-21 | 2022-02-10 |

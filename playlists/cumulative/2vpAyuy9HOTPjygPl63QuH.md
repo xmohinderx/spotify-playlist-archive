@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-101 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+102 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 | 2022-05-13 | 2022-05-30 |
 | [Deep State](https://open.spotify.com/track/5T1fza9F8TTuB1pGqDGziH) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Deep State](https://open.spotify.com/album/2GOLTHiwyNWYHQaBuIZASH) | 2:52 | 2022-04-29 | 2022-05-14 |
 | [East Coast](https://open.spotify.com/track/6KOh37HUNW3XLbDn3yIIk3) | [VEATZ](https://open.spotify.com/artist/6Dwa6UQghnEAJegF1v6wrl) | [East Coast](https://open.spotify.com/album/5jVbvbPAaQp0Um5XxvV7Un) | 3:21 | 2022-04-29 | 2022-05-14 |
+| [Emenate](https://open.spotify.com/track/4U9TVvW37qLmNd9gAZjuXp) | [Dark Cities](https://open.spotify.com/artist/5Gq2kr5Hg7WCD4wUo8MF9y) | [Emenate / Regular](https://open.spotify.com/album/4PgRsVMqMpf2oxr9Vi55nj) | 3:52 | 2022-05-30 |  |
 | [Energy](https://open.spotify.com/track/29RJGSjNyTmqpwYXsXHcg7) | [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI), [Chyra](https://open.spotify.com/artist/0O6GiRrnADewkp91ELz39s) | [Energy/Flashing Lights](https://open.spotify.com/album/1YEirokqhDyTsI2ROTBnqA) | 4:22 | 2022-05-29 |  |
 | [Eyes Low](https://open.spotify.com/track/20rRGFyrPEScaox2kr8sih) | [Kai Shibata](https://open.spotify.com/artist/5MEit6BA8WPnqzCEVHrSIl) | [Eyes Low](https://open.spotify.com/album/7AxgQwZtj6wBsPpyYwosHo) | 2:56 | 2022-05-29 |  |
 | [Falling](https://open.spotify.com/track/3GAlnDKQPrgMKcdGdkssSU) | [Shdws](https://open.spotify.com/artist/68yqVCDFykVIUWzVglAcEg) | [Falling](https://open.spotify.com/album/5H5KXYChlIn0V50hLoV9C7) | 3:37 | 2022-05-13 | 2022-05-30 |
