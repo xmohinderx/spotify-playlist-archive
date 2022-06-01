@@ -4,7 +4,7 @@
 
 > Blues favorites released in 2020\. Cover: Shemekia Copeland
 
-46 songs - 3 hr 3 min - not published yet
+46 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/2Gz9kC8AIgoXvxdfjIonf2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

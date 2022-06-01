@@ -4,7 +4,7 @@
 
 > ¡Yo digo R, tú dices BD! ¡RBD!
 
-48 songs - 2 hr 49 min - not published yet
+48 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/01xPC9jUAue1JMecJaJ3Dn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

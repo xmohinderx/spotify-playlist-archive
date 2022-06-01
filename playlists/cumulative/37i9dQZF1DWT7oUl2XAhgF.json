@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 187231,
       "name": "California Wine",
       "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 138223,
       "name": "Come On Through",
       "url": "https://open.spotify.com/track/2GMjU0QuHVOXjGI02ksGrw"
@@ -280,6 +280,28 @@
     },
     {
       "album": {
+        "name": "Inside Voice",
+        "url": "https://open.spotify.com/album/1dozAAM6CMyL2FAEUcHJKu"
+      },
+      "artists": [
+        {
+          "name": "Joey Dosik",
+          "url": "https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E"
+        },
+        {
+          "name": "Coco O.",
+          "url": "https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216900,
+      "name": "Don\u2019t Want It to Be Over (ft. Coco O.)",
+      "url": "https://open.spotify.com/track/7qZknx1i2TgMxOiPP1psEo"
+    },
+    {
+      "album": {
         "name": "American Love Call",
         "url": "https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY"
       },
@@ -399,7 +421,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 246120,
       "name": "Fire",
       "url": "https://open.spotify.com/track/18Hq4xHyecxySkoUPQyYV2"
@@ -461,7 +483,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 266350,
       "name": "Get Back To The Land",
       "url": "https://open.spotify.com/track/0bOzDaUYbUVWMLtl8DNt8L"
@@ -479,7 +501,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 187319,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/6hF1GWwmTAT0vKYuErguVj"
@@ -555,7 +577,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 143606,
       "name": "Groceries",
       "url": "https://open.spotify.com/track/2h6c3yoLPhiQKcuSW7pQDX"
@@ -747,7 +769,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 180061,
       "name": "I Do",
       "url": "https://open.spotify.com/track/2ROGRLF59VgUst8a6f6oez"
@@ -783,7 +805,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 267054,
       "name": "I Will",
       "url": "https://open.spotify.com/track/4ugagKi9JkkuuDP9X95phk"
@@ -1033,7 +1055,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
@@ -1373,7 +1395,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 182813,
       "name": "Sleep On It",
       "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
@@ -1427,7 +1449,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 335853,
       "name": "Soul to Blessed Soul",
       "url": "https://open.spotify.com/track/4UKQcBQ4JFZgsTkRMQzHT4"
@@ -1467,7 +1489,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 242640,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/6wq0YV1Mv8ybQi8FyZcHN7"
@@ -1503,7 +1525,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 205008,
       "name": "Sunny And Warm",
       "url": "https://open.spotify.com/track/12I7wlvWuPvMXHJxwfA68l"

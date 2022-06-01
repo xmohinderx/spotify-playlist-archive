@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 4EVE",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ATLAS",
   "name": "T-Pop Now",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "46jC5TDLIJijd5c6Z3EIRR"
+  ],
   "tracks": [
     {
       "album": {
@@ -75,7 +77,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 267391,
       "name": "Blurred",
       "url": "https://open.spotify.com/track/1wCAXionqFLLZPUNY2nd6c"
@@ -191,7 +193,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 225000,
       "name": "sit down (please)",
       "url": "https://open.spotify.com/track/6rdvnD6z1xJbTidt3Q9FJP"
@@ -1115,7 +1117,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 234500,
       "name": "\u0e25\u0e49\u0e19 (Overload)",
       "url": "https://open.spotify.com/track/50wPHjbH9CLpaaMGkVuMuY"

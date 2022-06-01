@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 226250,
       "name": "Car",
       "url": "https://open.spotify.com/track/0r04MG8C4jr7yCirWGi03Y"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 208066,
       "name": "Don't Wait Forever",
       "url": "https://open.spotify.com/track/3EoQSIQ91sDN2gYIcPXa5b"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 173920,
       "name": "Female Energy, Part 2",
       "url": "https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 278179,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
@@ -1467,7 +1467,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 183490,
       "name": "HOUSE OF CARDS",
       "url": "https://open.spotify.com/track/5pJsvdpvCOH4VUjKVthzG6"
@@ -1644,6 +1644,24 @@
     },
     {
       "album": {
+        "name": "Je te laisserai des mots",
+        "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160853,
+      "name": "Je te laisserai des mots",
+      "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
+    },
+    {
+      "album": {
         "name": "AT.LONG.LAST.A$AP",
         "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
       },
@@ -1663,7 +1681,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 323960,
       "name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
       "url": "https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 231680,
       "name": "Juno",
       "url": "https://open.spotify.com/track/6OpU3cvY19M2hFxTbLKy5L"
@@ -1753,7 +1771,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 176531,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/1NCWXbUyF88ee30OMAe7dO"
@@ -2057,7 +2075,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 208500,
       "name": "Mrs Magic",
       "url": "https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw"
@@ -2111,7 +2129,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 252733,
       "name": "New Romance",
       "url": "https://open.spotify.com/track/5ZhBx7W9rigl2vuRdT27rq"
@@ -2353,6 +2371,42 @@
       "duration_ms": 252293,
       "name": "Power Freaks",
       "url": "https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy"
+    },
+    {
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220893,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
+    },
+    {
+      "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178352,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l"
     },
     {
       "album": {
@@ -2755,7 +2809,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 145588,
       "name": "SKELETONS",
       "url": "https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl"
@@ -2773,7 +2827,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 214157,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB"
@@ -2917,7 +2971,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
@@ -3189,7 +3243,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 298369,
       "name": "The Wilhelm Scream - Quarantine Sessions",
       "url": "https://open.spotify.com/track/5RkIvhw8IZbeOZAYWvwBtJ"
@@ -3475,7 +3529,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 169319,
       "name": "Wild Irish Roses",
       "url": "https://open.spotify.com/track/6efkcs2aUBMFKxl0cl2JWQ"

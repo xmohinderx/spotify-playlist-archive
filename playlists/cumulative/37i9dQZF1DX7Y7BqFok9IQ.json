@@ -19,10 +19,28 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 229720,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
+    },
+    {
+      "album": {
+        "name": "All I've Got is You",
+        "url": "https://open.spotify.com/album/1ZsdIxjdTXmPS7QLWKRtBA"
+      },
+      "artists": [
+        {
+          "name": "J.D. Simo",
+          "url": "https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161728,
+      "name": "All I've Got is You",
+      "url": "https://open.spotify.com/track/0DdDbFj0v5UlXC8j2CxJg6"
     },
     {
       "album": {
@@ -55,7 +73,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 220466,
       "name": "Are You",
       "url": "https://open.spotify.com/track/32xYsLJbczsr2s4aR0Snft"
@@ -109,7 +127,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 188182,
       "name": "Between Me and the Devil",
       "url": "https://open.spotify.com/track/3psWJDKW0A50XiCdqg4HVK"
@@ -145,7 +163,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 190893,
       "name": "Boom Boom Boom",
       "url": "https://open.spotify.com/track/0ATlimBBLb05G6wiPOGwaw"
@@ -163,7 +181,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 295064,
       "name": "Can't Go Back",
       "url": "https://open.spotify.com/track/1UakN2FvjlCtktr5C7eKTU"
@@ -185,7 +203,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 212000,
       "name": "Catch Me If You Can (feat. Chris Robertson)",
       "url": "https://open.spotify.com/track/2Q7MG9T0kCEEJmDpaKP4be"
@@ -283,7 +301,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 221213,
       "name": "Creeper",
       "url": "https://open.spotify.com/track/3DI0Ko7hmK2uh8INSXFnkb"
@@ -319,7 +337,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 276560,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo"
@@ -337,7 +355,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 375240,
       "name": "Go Away Satan",
       "url": "https://open.spotify.com/track/1mdLQR5E86HLziKr6gHV96"
@@ -355,7 +373,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 169781,
       "name": "God Damn Wolf Man",
       "url": "https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU"
@@ -391,7 +409,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 200138,
       "name": "Half My Fault",
       "url": "https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P"
@@ -578,6 +596,24 @@
     },
     {
       "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/3zv68B02yNlKFqlIbRDY0o"
+      },
+      "artists": [
+        {
+          "name": "Jane Lee Hooker",
+          "url": "https://open.spotify.com/artist/1fFEQ9r3l2ApZ1EOEcwreH"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294546,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4bmA9Hd5F2u9MvnewudhjB"
+    },
+    {
+      "album": {
         "name": "Mojo Hand",
         "url": "https://open.spotify.com/album/1RKJoxtfx1GmCD3Mi1u31g"
       },
@@ -661,7 +697,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 208909,
       "name": "Off the Shelf",
       "url": "https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN"
@@ -769,7 +805,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 221733,
       "name": "Roll Bones",
       "url": "https://open.spotify.com/track/4YAcRalM7dHtbbSRHwF92p"
@@ -805,7 +841,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 218016,
       "name": "Rubberband",
       "url": "https://open.spotify.com/track/597NMs0QRqHKrkj5e8pvHH"
@@ -877,7 +913,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 203224,
       "name": "Skin 'n Bone",
       "url": "https://open.spotify.com/track/6natqkD9pmwdr8Xr1VFliA"
@@ -935,7 +971,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 217124,
       "name": "Still Alive and Well",
       "url": "https://open.spotify.com/track/72sihXI4EcZjbbnoo2yyHQ"
@@ -953,7 +989,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 181688,
       "name": "Strange Light",
       "url": "https://open.spotify.com/track/3cI6ybZ2Wo5Xriz396gSH7"
@@ -1025,7 +1061,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon"
@@ -1061,7 +1097,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 196843,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
@@ -1115,7 +1151,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 328093,
       "name": "The Waltz",
       "url": "https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4"
@@ -1187,7 +1223,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 215906,
       "name": "Waiting For Your Man",
       "url": "https://open.spotify.com/track/1WYzyPQIEAGd8pZU6RlGdK"
@@ -1205,7 +1241,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 132416,
       "name": "Westbound",
       "url": "https://open.spotify.com/track/5UJTAeX6bJC9lKi7kgLI6y"

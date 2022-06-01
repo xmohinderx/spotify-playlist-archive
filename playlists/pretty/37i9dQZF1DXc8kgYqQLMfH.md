@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 992,473 likes - 365 songs - 13 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 992,518 likes - 365 songs - 13 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 97 | [Night Walk](https://open.spotify.com/track/7xzikC3nNzN0NEM8M9oD8p) | [Kokomiko](https://open.spotify.com/artist/1Tl7kataLF4lZip5jfVd7D), [Kuba](https://open.spotify.com/artist/28WkyS3nwct2W3sHjPg4xo) | [Night Walk](https://open.spotify.com/album/3EC2kOMzMFAHL4TwSGIRjY) | 2:03 |
 | 98 | [moonchild](https://open.spotify.com/track/6Xbiu6Iu8miwwju12kf9mz) | [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [moonchild](https://open.spotify.com/album/2lh1IIUURyEev7O4P0LhGZ) | 2:11 |
 | 99 | [Faded](https://open.spotify.com/track/0pTB6vjZLmjxuD6kAARUV2) | [Tah.](https://open.spotify.com/artist/5tbllvHfDoHsDZuTnrs9Pb) | [Faded](https://open.spotify.com/album/2HtVPo0g5KvgVWdC1l09N2) | 2:52 |
-| 100 | [emotions](https://open.spotify.com/track/5vrv8kx1oXElzJhKEDmdZx) | [BluSummr](https://open.spotify.com/artist/14zmv1RDidod1M4EjoeIpj), [Esydia](https://open.spotify.com/artist/3UnKW2I4SWJMttZ44TfNGU) | [emotions](https://open.spotify.com/album/4SLMkcOf80LWXelSHbki80) | 2:43 |
+| 100 | [emotions](https://open.spotify.com/track/5vrv8kx1oXElzJhKEDmdZx) | [BluSummr](https://open.spotify.com/artist/14zmv1RDidod1M4EjoeIpj), [Esydia](https://open.spotify.com/artist/3UnKW2I4SWJMttZ44TfNGU), [natureboy.](https://open.spotify.com/artist/6O9U5o03ZCnqcaujspQF5f) | [emotions](https://open.spotify.com/album/4SLMkcOf80LWXelSHbki80) | 2:43 |
 | 101 | [flat](https://open.spotify.com/track/47pIMS4C39wmXQXrxHyV61) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [flat](https://open.spotify.com/album/1LTbILt5zhYfSDDUkNMVe9) | 2:33 |
 | 102 | [Tarde Da Noite](https://open.spotify.com/track/2LHq3ILYoERfMBXe6cdv83) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Tarde Da Noite](https://open.spotify.com/album/2styrIyXsgWOLUInOWOAe3) | 2:51 |
 | 103 | [Exploration](https://open.spotify.com/track/4ywkLKWKctyPjjHDnG8JgK) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Exploration](https://open.spotify.com/album/1LskKx2NR2ZcKintqhPMml) | 2:30 |

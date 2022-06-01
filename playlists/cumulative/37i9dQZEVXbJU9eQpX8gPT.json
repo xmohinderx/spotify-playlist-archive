@@ -2824,6 +2824,28 @@
     },
     {
       "album": {
+        "name": "D'Kover",
+        "url": "https://open.spotify.com/album/5jAZJlyawkAJarExM8HjKC"
+      },
+      "artists": [
+        {
+          "name": "DKB",
+          "url": "https://open.spotify.com/artist/4Ozq4urgB1jcYw0VzXpj2X"
+        },
+        {
+          "name": "Amine SEMMA",
+          "url": "https://open.spotify.com/artist/187xRinFfEj83kQ9KpgqKA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "D'Kover - Darja Darja - \u062f\u0631\u062c\u0629 \u062f\u0631\u062c\u0629",
+      "url": "https://open.spotify.com/track/6AqTrSMEkIN0jiRYWLnBlx"
+    },
+    {
+      "album": {
         "name": "Cagoul\u00e9",
         "url": "https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0"
       },
@@ -3447,7 +3469,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
@@ -7107,7 +7129,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 189219,
       "name": "Ma colombe - Moroccan Remix",
       "url": "https://open.spotify.com/track/1MbHeoSYFMKzkbybU9FQtF"
@@ -12145,7 +12167,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 177643,
       "name": "Virus",
       "url": "https://open.spotify.com/track/31l74FDLY1pYLd82MYDp8W"

@@ -4,7 +4,7 @@
 
 > Celebrating the Gold Gala this weekend with <a href ="https://goldhouse.org/">Gold House</a>\. Cover: Anik Khan, Ruby Ibarra & thuy.
 
-76 songs - 4 hr 7 min - not published yet
+76 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/2n58AkW0NzesqkPrbAAmqS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

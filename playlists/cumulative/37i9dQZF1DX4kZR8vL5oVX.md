@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Izïa
 
-280 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
+283 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bye\-Bye Baby](https://open.spotify.com/track/2nRcjVMtrSDMSqj4LFTjHt) | [PHILEMONE](https://open.spotify.com/artist/3LOWKRgEP5aPBmcLvaIqu4) | [Bye\-Bye Baby](https://open.spotify.com/album/3o4vcT39rDPfJPkFNtGQjD) | 2:57 | 2022-02-01 | 2022-03-08 |
 | [C'est mort](https://open.spotify.com/track/3QFUkZtiiFUNSOxsHBjf6r) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [C'est mort](https://open.spotify.com/album/2VXCxNQ2RX1v58C5o5x4OP) | 2:55 | 2022-03-07 | 2022-04-06 |
 | [C'est si bon](https://open.spotify.com/track/3PzUIxx0PqeuVFzaVzyio9) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [C'est si bon](https://open.spotify.com/album/3KqtqlxrGOsHrc0nkoVTVp) | 3:47 | 2022-01-05 | 2022-02-02 |
+| [Casino](https://open.spotify.com/track/002iojUpmYteKQ9iZ3nPPg) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [backrooms](https://open.spotify.com/album/0K5wytragV3Cp3Ow02aawS) | 3:18 | 2022-06-01 |  |
 | [Cauchemars](https://open.spotify.com/track/5pVuRzvyRiRq4oMGnU6WPl) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Cauchemars](https://open.spotify.com/album/3mKYIkjNT5rb6T8pwKPTGN) | 3:06 | 2022-05-31 |  |
 | [Chanteur](https://open.spotify.com/track/3HWjP56rjDgh37w6Y5rTgf) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [13 juin 2021](https://open.spotify.com/album/1ecFixXc3NkiBdVoTf8HOg) | 3:16 | 2022-05-03 | 2022-06-01 |
 | [CHUT !](https://open.spotify.com/track/271QBdNwMGqmnAjN1hNR3f) | [Julia](https://open.spotify.com/artist/3WDb4OeLq80kGg8BaJHHKR) | [CHUT !](https://open.spotify.com/album/3eYLmFzzw17R4FgwRJ1Q3F) | 3:03 | 2022-03-07 | 2022-04-06 |
@@ -120,6 +121,7 @@
 | [Joli garçon](https://open.spotify.com/track/3zrAAVYcZpN8ad9Jb0zTTC) | [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV) | [Joli garçon](https://open.spotify.com/album/4mnW1TSXosJqJ6BE04EbQo) | 3:09 | 2022-03-07 | 2022-04-06 |
 | [Joy Song](https://open.spotify.com/track/4NwkPwcmLEI9HwAgNRJamy) | [Fiona Monbet](https://open.spotify.com/artist/1xIOPl8xFpFNMVx6PGjc9W) | [Maelström](https://open.spotify.com/album/4SJUJTrkMvIl4E8tZqwxJz) | 4:50 | 2022-02-01 | 2022-03-08 |
 | [jtm de ouf](https://open.spotify.com/track/5RETH5olIVxF5otLezKqbh) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [jtm de ouf](https://open.spotify.com/album/4RspWUPtIKPBXU4WzwEho2) | 3:11 | 2022-05-03 | 2022-06-01 |
+| [L'appétit](https://open.spotify.com/track/1vOprAwZqZLHGt5H9ATza1) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [L'appétit](https://open.spotify.com/album/26PdACHB87VnkxaLEQitT2) | 2:57 | 2022-06-01 |  |
 | [L'exil](https://open.spotify.com/track/0mw25aHnLvnssYESKn1YMD) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [L'exil](https://open.spotify.com/album/2FCRPQX5o6CQkiB0jT1P78) | 3:42 | 2022-04-07 | 2022-05-04 |
 | [L'éclipse](https://open.spotify.com/track/49ZeB2EWC17mbBFa6jgbbD) | [Sophie Tapie](https://open.spotify.com/artist/4l7xxKksMSxsKFSVcs5mPg) | [1988 renait de ses cendres](https://open.spotify.com/album/0NeRgcgokXt0JzKl5mDbmo) | 2:47 | 2022-05-03 | 2022-06-01 |
 | [L'éternité](https://open.spotify.com/track/3HXsqFzc0FNHlUeixRwNbm) | [Maud Lübeck](https://open.spotify.com/artist/4IBVixLpdQQyQjvB1PIAoj) | [L'éternité](https://open.spotify.com/album/0mxOdzoS027e2UcAa4VAvR) | 3:03 | 2022-02-01 | 2022-03-08 |
@@ -173,7 +175,7 @@
 | [Mood](https://open.spotify.com/track/0sQusMMO2VFuNanDd6OEZi) | [Whitney](https://open.spotify.com/artist/5w5MVvOJSu0nGTFRkkc69W) | [Mood](https://open.spotify.com/album/0oezUGAZfVCJPN0rPKCqqS) | 2:59 | 2022-05-03 | 2022-06-01 |
 | [MOROSE](https://open.spotify.com/track/3bvarcfwqxlrB4xq0l59nH) | [Youena](https://open.spotify.com/artist/3DHRU0hg5vsZMizNysGJdg) | [MOROSE](https://open.spotify.com/album/7JUycA3jYjkNkIadJpeVEV) | 2:37 | 2022-01-05 | 2022-02-02 |
 | [MOUSSA](https://open.spotify.com/track/3SR56tkX5kFx4ZCr1nR79X) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [MOUSSA](https://open.spotify.com/album/1x6RvPd5kUdmxz0q8DaFR6) | 3:54 | 2022-03-07 | 2022-04-06 |
-| [Movie Star](https://open.spotify.com/track/4v8l0E113OJ7Vl0uborXcl) | [Cynthia Leone](https://open.spotify.com/artist/5DO6LrSCupTh0KjoN9JUUf) | [Movie Star](https://open.spotify.com/album/0Z7qZrgdvXEwyddaJCRt7h) | 2:27 | 2022-05-31 |  |
+| [Movie Star](https://open.spotify.com/track/4v8l0E113OJ7Vl0uborXcl) | [Cynthia Leone](https://open.spotify.com/artist/5DO6LrSCupTh0KjoN9JUUf) | [Movie Star](https://open.spotify.com/album/0Z7qZrgdvXEwyddaJCRt7h) | 2:19 | 2022-05-31 |  |
 | [Mythologie](https://open.spotify.com/track/28np0boOT7svs7oG9RNpxM) | [Eesah Yasuke](https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC) | [Mythologie](https://open.spotify.com/album/1E6limGMwvAC2k1i9hgwKZ) | 2:25 | 2022-05-31 |  |
 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 | 2022-02-01 | 2022-03-08 |
 | [Météo](https://open.spotify.com/track/0Ynw7RXjW3LMNN5niLnIBb) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Météo](https://open.spotify.com/album/4QTDFBSQCU6BLq5NHR3lXS) | 2:32 | 2022-05-03 | 2022-06-01 |
@@ -265,7 +267,7 @@
 | [Titanic](https://open.spotify.com/track/6jDjpymppH9NCctpXhqY5Q) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Titanic](https://open.spotify.com/album/2WBuGbz4Yow819X0fddhCy) | 3:10 | 2022-05-03 | 2022-06-01 |
 | [Top Time](https://open.spotify.com/track/4DKxXXwl5i274i4qLZhzqH) | [Jeany James](https://open.spotify.com/artist/33DZKGwNBrwndisSvzx5Jq) | [Top Time](https://open.spotify.com/album/6UIbSyEzE4IeGJhlCdcStM) | 3:24 | 2022-02-01 | 2022-03-08 |
 | [Total fiasco](https://open.spotify.com/track/5hEqfcgXY5SNRIhMcJSubw) | [Buridane](https://open.spotify.com/artist/3ndD9AltDMsxCTqZNuuYaX) | [Total fiasco](https://open.spotify.com/album/5Vc04ltPEq8bHfpWkxoZ8K) | 3:14 | 2022-04-05 | 2022-05-04 |
-| [Tout](https://open.spotify.com/track/2zMymKds3giK1baWHElaaW) | [ZAYD](https://open.spotify.com/artist/40b2Z1HyhqaBT2zNFQ38qm) | [Tout](https://open.spotify.com/album/1hEeP5uygkEuCc52yn3Vfg) | 2:42 | 2022-05-31 |  |
+| [Tout](https://open.spotify.com/track/2zMymKds3giK1baWHElaaW) | [ZAYD](https://open.spotify.com/artist/40b2Z1HyhqaBT2zNFQ38qm) | [Tout](https://open.spotify.com/album/1hEeP5uygkEuCc52yn3Vfg) | 2:42 | 2022-05-31 | 2022-06-01 |
 | [Tout de moi](https://open.spotify.com/track/61aGpgpevGAX5IPXlXwvqE) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Silence](https://open.spotify.com/album/00esBNkhpf9Mc17hc2JmMi) | 3:48 | 2022-02-01 | 2022-03-08 |
 | [Tout est dans la tête](https://open.spotify.com/track/4MKF41gmAtOsWPNCZG7j9X) | [Clair](https://open.spotify.com/artist/6Xu9PnUrdw9vJTeG3O1eAB) | [Tout est dans la tête](https://open.spotify.com/album/64JBHHIx8wi2qq2LziyKCj) | 2:38 | 2022-03-07 | 2022-04-06 |
 | [Toutes les filles du monde](https://open.spotify.com/track/2Q8mLwujr7bBIv8Tffyf2e) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Toutes les filles du monde](https://open.spotify.com/album/4TammVPdGukFclzoOpaBPz) | 4:17 | 2022-05-03 | 2022-06-01 |
@@ -278,6 +280,7 @@
 | [Va\-t'en](https://open.spotify.com/track/19OS2acFV7qpcjPKMlktdf) | [Irma](https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f) | [Va\-t'en](https://open.spotify.com/album/6iKVpux4lTXgtyGKgpl09f) | 2:50 | 2022-01-05 | 2022-02-02 |
 | [Vallée de Siddim](https://open.spotify.com/track/2kn06tH2KFbqUNQJL5gulk) | [The Rodeo](https://open.spotify.com/artist/66g3ybCzTYusaxjoARIBEw) | [Podium numéro un \(Une compilation Finalistes et La Souterraine\)](https://open.spotify.com/album/6QVjvOFL2Dp67aC6FPmJ0n) | 4:21 | 2022-01-05 | 2022-02-02 |
 | [Verre D'eau](https://open.spotify.com/track/5p8vq37UsDzRP0gyUuAUQz) | [SKIA](https://open.spotify.com/artist/1LWNlonORpAMLWHJCaCwtE) | [Sensible](https://open.spotify.com/album/4bEj8Pmu4i0oUY3ZukQcPg) | 3:08 | 2022-02-01 | 2022-03-08 |
+| [VVS](https://open.spotify.com/track/73KIBzwN3tP4QCrNxp6Yqk) | [Turtle White](https://open.spotify.com/artist/4F5LHjkVnCgcFF4I2W2i1A) | [VVS](https://open.spotify.com/album/1B6aJqd81UUiv26edYifDe) | 3:18 | 2022-06-01 |  |
 | [WAVES](https://open.spotify.com/track/0wC6rLtsUh6LgqCmN2ZGLw) | [Ekloz](https://open.spotify.com/artist/3FlxOuTKmjE9AV3SfMudyw) | [Résilience, Vol.3](https://open.spotify.com/album/0zMvYCTUdRTYKvpAsYCmvq) | 3:37 | 2022-05-03 | 2022-06-01 |
 | [Way Out](https://open.spotify.com/track/512BfP43SrXqz4lQ6GzuIu) | [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Way Out](https://open.spotify.com/album/63CM544lHUvy2DGxEe0BaC) | 3:25 | 2022-05-03 | 2022-06-01 |
 | [Ways of Dreaming](https://open.spotify.com/track/1jkD185V875tmtftU4iIGu) | [Romane](https://open.spotify.com/artist/0n4XFcBXIvCkXZdXQFMigW) | [Ways of Dreaming](https://open.spotify.com/album/7gXGdzmzPopXfwRwrOP2iQ) | 3:28 | 2022-05-03 | 2022-06-01 |

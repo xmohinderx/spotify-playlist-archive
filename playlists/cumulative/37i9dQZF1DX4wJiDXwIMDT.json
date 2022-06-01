@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-30",
   "description": "Please don\u2019t storm Area 51. But if you do, listen to this. \ud83d\udc7d",
   "name": "Let's See Them Aliens",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3mLF9PDN3bsrbfZsEL08cs"
+  ],
   "tracks": [
     {
       "album": {
@@ -313,7 +315,7 @@
       ],
       "date_added": "2019-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 244017,
       "name": "Naruto Theme Song",
       "url": "https://open.spotify.com/track/5r0U37eqDx25e0vtDQl4Tt"
@@ -403,7 +405,7 @@
       ],
       "date_added": "2019-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 318026,
       "name": "Space Oddity - 2015 Remaster",
       "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"

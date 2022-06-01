@@ -4,7 +4,7 @@
 
 > Best acoustic melodies from Bollywood
 
-48 songs - 3 hr 13 min - not published yet
+48 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/1ZkV0CfmGhvgxDrLrEpQmF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > It's Hits \- bästa och största hitsen just nu.
 
-172 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/5FW2JUcG1GBhEhBYMh9n3a)
+173 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/5FW2JUcG1GBhEhBYMh9n3a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-07 | 2022-04-15 |
 | [First aid kit](https://open.spotify.com/track/2yFyfHHGesFqs39fATQzQA) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [ANDRA SIDAN ÄR NI KLARA](https://open.spotify.com/album/2uRRdTqrjo0LdSS5WIrB1M) | 3:16 | 2021-12-16 | 2022-01-08 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-07 |  |
-| [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-14 |  |
+| [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-14 | 2022-06-01 |
 | [Flyg Fula Fluga Flyg](https://open.spotify.com/track/01fQ3xuWfYAHmUIiFC1JVP) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Flyg Fula Fluga Flyg \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/5xwu2ZxKFPk1wM1JBEO2Jf) | 2:39 | 2021-12-16 | 2022-03-12 |
 | [FUCK MITT EKS](https://open.spotify.com/track/4YGMqFWObIcl5RFrqghmOz) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [FUCK MITT EKS](https://open.spotify.com/album/2eY4rIMTU8UGFnCq1JFpZj) | 2:29 | 2022-01-13 | 2022-04-12 |
 | [Förför mig](https://open.spotify.com/track/5i8OzyvCnieyg5twoH0kMh) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Förför mig](https://open.spotify.com/album/4Ocv8AAKKEe9YaE7B6FtMe) | 2:39 | 2022-04-28 |  |
@@ -158,6 +158,7 @@
 | [TO THE MOON](https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn) | [TO THE MOON](https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt) | 2:32 | 2022-01-13 | 2022-01-25 |
 | [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON](https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6) | 2:32 | 2022-02-01 | 2022-04-08 |
 | [Tror du att jag bryr mig](https://open.spotify.com/track/1E2reoDjfG9W2LgeZE0wrJ) | [Niello](https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7), [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [Tror du att jag bryr mig](https://open.spotify.com/album/2pY1J0B58xa7ZcLWiFLIqD) | 2:55 | 2022-02-17 | 2022-03-12 |
+| [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-06-01 |  |
 | [Tusen gånger om \(feat\. Newkid\)](https://open.spotify.com/track/3EsUkO1XncklrPvQaabHaz) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Tusen gånger om \(feat\. Newkid\)](https://open.spotify.com/album/6MW4cZxYvBtl4ptt5cODZ2) | 3:16 | 2022-05-19 |  |
 | [Två steg från helvetet](https://open.spotify.com/track/2Rnovc1XuaXP1yc7X1AqbK) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Två steg från helvetet](https://open.spotify.com/album/6tdvSwpWnFTRkpnvX0CP76) | 3:18 | 2022-02-24 | 2022-05-18 |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-03-31 | 2022-04-15 |

@@ -4,7 +4,7 @@
 
 > Soft and swinging jazz in the background of your cocktail party.
 
-108 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
+109 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [I Could Write A Book](https://open.spotify.com/track/0MtzbTs2WXgOVyZl74pQT2) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Pal Joey](https://open.spotify.com/album/7n1TDAd9pEPui46oT4jaFU) | 4:40 | 2022-04-26 |  |
 | [I Cover the Waterfront](https://open.spotify.com/track/2gGerDB2Wi5BgPTUQiwYUJ) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [I Cover the Waterfront](https://open.spotify.com/album/2Xot33Eg7gVwDGGv7BS7Bz) | 2:28 | 2022-04-26 |  |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/3VW502fIs1JiMcj6xBvz3n) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [New York Notes](https://open.spotify.com/album/4usyxUVMIPVNqP4Lv7OlCA) | 7:11 | 2022-04-26 |  |
-| [I Remember You](https://open.spotify.com/track/3VXwui96yNtnBCNUWFQIO4) | [Elmo Hope Trio](https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft) | [Trio And Quintet](https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe) | 2:46 | 2022-04-26 |  |
+| [I Remember You](https://open.spotify.com/track/3VXwui96yNtnBCNUWFQIO4) | [Elmo Hope Trio](https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft) | [Trio And Quintet](https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe) | 2:46 | 2022-04-26 | 2022-06-01 |
 | [I Should Care](https://open.spotify.com/track/7gRa0lT64mARp2ccsk3tNN) | [Back Room Jazz Trio](https://open.spotify.com/artist/0QsYYreXejEBRLCOp8v6bP) | [If You Could See Me Now](https://open.spotify.com/album/4t6mWcSyJBwJw17VkCrFb1) | 4:10 | 2022-04-26 |  |
 | [I Thought About You](https://open.spotify.com/track/7bjeNg98SWzGugTks8mpQv) | [Denzel Sachs](https://open.spotify.com/artist/3SB6ICG4p7cvBEjSLNSBMw) | [I Thought About You](https://open.spotify.com/album/7B8lEaNZh5wxZythOv3tXL) | 4:31 | 2022-04-26 |  |
 | [I'll Know](https://open.spotify.com/track/6JOFJKSCpQNG3W3mECwSxd) | [Timothy Kay Band](https://open.spotify.com/artist/5cdHnLPT8wGWV0BDgQDw18) | [I Love Paris](https://open.spotify.com/album/7AtRYmWgcQzttwhYebfVZI) | 5:01 | 2022-04-26 |  |
@@ -69,7 +69,8 @@
 | [Lucky To Be Me](https://open.spotify.com/track/4mTBd1yNfpjivl5lHorkiw) | [Ten Thirty Trio](https://open.spotify.com/artist/5bMQvYFq5ic1QxUDaGPyeb) | [Lucky To Be Me](https://open.spotify.com/album/2SlisjeQUgoA3qCocBRzcp) | 3:43 | 2022-04-26 |  |
 | [Makin' Whoopee](https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Soulville](https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc) | 4:31 | 2022-04-26 |  |
 | [Manhattan](https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Brass/Trio](https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon) | 4:30 | 2022-04-26 |  |
-| [Monk's Mood](https://open.spotify.com/track/7ojUoFuu49TkZ8mvMEndt0) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Monk's Mood](https://open.spotify.com/album/67IUq1LOpEnPXlJfyvnY4C) | 5:00 | 2022-04-26 |  |
+| [Misty](https://open.spotify.com/track/78K54LEyjSttk9UTE8PR9r) | [Steve Blumenthal](https://open.spotify.com/artist/59z8p2IU8agbAddmgLVAXE) | [Misty](https://open.spotify.com/album/7vEoSNuCi4Hh899wvGY7Ct) | 4:12 | 2022-06-01 |  |
+| [Monk's Mood](https://open.spotify.com/track/7ojUoFuu49TkZ8mvMEndt0) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Monk's Mood](https://open.spotify.com/album/67IUq1LOpEnPXlJfyvnY4C) | 5:00 | 2022-04-26 | 2022-06-01 |
 | [Moonlight \(Claro de Luna\)](https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:33 | 2022-04-26 |  |
 | [Nearness of You](https://open.spotify.com/track/28hv3qok0P0nu4K7OsmDRG) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 6:42 | 2022-04-26 |  |
 | [Nobody Else But Me](https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Nobody Else But Me](https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC) | 4:11 | 2022-04-26 |  |
@@ -109,7 +110,7 @@
 | [The Old Country](https://open.spotify.com/track/4Ttz5EWZc9f7sxdsAUnDQp) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Somebody Like You](https://open.spotify.com/album/5mJN2sBu9QWJfwTM9YX6cR) | 3:38 | 2022-04-26 |  |
 | [The One I Love Belongs To Somebody Else](https://open.spotify.com/track/5NhuQJvgVRcZ0RgK9G2xoe) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 5:01 | 2022-04-26 |  |
 | [These Foolish Things](https://open.spotify.com/track/2GkEZi94MfDIxjp36MAFuj) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [These Foolish Things](https://open.spotify.com/album/5a7xDAK31J6a7T6ExUTDYn) | 3:32 | 2022-04-26 |  |
-| [They Didn't Believe Me](https://open.spotify.com/track/2FaUOm50kOFVAn388NGxAe) | [Bobby Timmons Trio](https://open.spotify.com/artist/47jpbb07933jSiHmir7yda) | [In Person](https://open.spotify.com/album/0lKhYEfTneqxxjLqs2jC24) | 6:47 | 2022-04-26 |  |
+| [They Didn't Believe Me](https://open.spotify.com/track/2FaUOm50kOFVAn388NGxAe) | [Bobby Timmons Trio](https://open.spotify.com/artist/47jpbb07933jSiHmir7yda) | [In Person](https://open.spotify.com/album/0lKhYEfTneqxxjLqs2jC24) | 6:47 | 2022-04-26 | 2022-06-01 |
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-04-26 |  |
 | [When I'm Here with You](https://open.spotify.com/track/4qiHe2LyWQ9Ih2chibBAwr) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Al Foster](https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6) | [The Time is Now](https://open.spotify.com/album/6rbxPC5MijiKjZo5C7VPtd) | 5:35 | 2022-04-26 |  |
 | [When You Are Around](https://open.spotify.com/track/3WUrXHDowLk25UtALiohVD) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [When You Are Around](https://open.spotify.com/album/3v6ovPPFtr6E6vpVuBw2bi) | 3:11 | 2022-04-26 |  |

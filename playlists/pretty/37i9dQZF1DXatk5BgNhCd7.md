@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Los Cumbia Stars en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,300 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,320 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 26 | [Hola Que Tal](https://open.spotify.com/track/5rTNQji7xv4NuXp34IWM3p) | [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa), [Rafael "Pollo" Brito](https://open.spotify.com/artist/0L3PoFZZQ0WyS7HgnOdd1o) | [Canciones Con Amigos \(Vol\. 2\)](https://open.spotify.com/album/4SzUh8DJlAHrKEkwKzbrq6) | 3:46 |
 | 27 | [Agüita de Manantial](https://open.spotify.com/track/5xXo6JSzEPaGjfnCWzg2ic) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Agüita de Manantial](https://open.spotify.com/album/1JN2arA8WlCoJ8NlTkJCb4) | 4:06 |
 | 28 | [No Messi](https://open.spotify.com/track/3NE1walySEwuUg6klpkRg7) | [Santiago Cañete](https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2) | [No Messi](https://open.spotify.com/album/5ghV7qic8HOIlrDgW9wBaT) | 2:30 |
-| 29 | [Debo Ser Fuerte](https://open.spotify.com/track/5maUHiboZwAQmo3jxBhKvR) | [Alex Martinez](https://open.spotify.com/artist/1mI8LQvP73Y5IMXN0KstBZ), [ELDER DAYAN DÍAZ](https://open.spotify.com/artist/0tLUCc2MyXqbiiZOBbaNpG) | [El Mensaje de Mi Voz](https://open.spotify.com/album/2ndigqMfVaq6CfUKHvf4BQ) | 3:49 |
+| 29 | [Debo Ser Fuerte](https://open.spotify.com/track/5maUHiboZwAQmo3jxBhKvR) | [Alex Martinez](https://open.spotify.com/artist/1mI8LQvP73Y5IMXN0KstBZ), [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K) | [El Mensaje de Mi Voz](https://open.spotify.com/album/2ndigqMfVaq6CfUKHvf4BQ) | 3:49 |
 | 30 | [Los Desmadrosos](https://open.spotify.com/track/4P9bwndbXBJiFKUmGI5g4a) | [SuenaTron](https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4) | [Santa Borrachera](https://open.spotify.com/album/55S9hto7bHXMYiACrb14la) | 2:54 |
 | 31 | [Nota](https://open.spotify.com/track/63ttGIZTcPc7yRKnGAXlAy) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Lucky 7](https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho) | 2:40 |
 | 32 | [Velorio](https://open.spotify.com/track/6voOwVQLYhlV7qHIiml13L) | [Cimarron](https://open.spotify.com/artist/5j1NzKToU6ZSzCkuINpFbj) | [La Recia](https://open.spotify.com/album/5hxr4yTkYxtofe2SLuP2sD) | 3:25 |

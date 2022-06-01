@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 227604,
       "name": "a car going nowhere",
       "url": "https://open.spotify.com/track/15iXRayrmpaA6QmtEKqpX4"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Beside",
       "url": "https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7"
@@ -1095,7 +1095,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 158408,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/2i4r6SnXUtGAqjHZ7nJHrB"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 215619,
       "name": "Daisy (with 969)",
       "url": "https://open.spotify.com/track/0cwQu6m9DQYmnzj8uG6F6W"
@@ -1521,7 +1521,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 210850,
       "name": "Don't be sad",
       "url": "https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8"
@@ -1695,9 +1695,9 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 263186,
-      "name": "Elena Coda",
+      "name": "Elena Coda (feat. Elaine)",
       "url": "https://open.spotify.com/track/2f7C47RCGc10UHfK1dsgun"
     },
     {
@@ -1739,6 +1739,24 @@
       "duration_ms": 194717,
       "name": "Epilogue (feat.Meego)",
       "url": "https://open.spotify.com/track/2JZStRToumDOLnGVD9uVq0"
+    },
+    {
+      "album": {
+        "name": "Take care",
+        "url": "https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB"
+      },
+      "artists": [
+        {
+          "name": "IMSEMO",
+          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215825,
+      "name": "Escape!",
+      "url": "https://open.spotify.com/track/5VsXPHSJvB0H4SBZHFiJyO"
     },
     {
       "album": {
@@ -1883,7 +1901,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 236440,
       "name": "Eyes on you",
       "url": "https://open.spotify.com/track/1sdCoReUzXPLDIJ2i9ConA"
@@ -1937,7 +1955,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 191560,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/1HshcipCZ4rEiNfKckNShW"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 130333,
       "name": "fool",
       "url": "https://open.spotify.com/track/41c8b3Nj6DCoaKrdaim47d"
@@ -2509,7 +2527,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 193558,
       "name": "Hanagae",
       "url": "https://open.spotify.com/track/4hnhipRrUg7yUCAqT9yvsR"
@@ -2563,7 +2581,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 205759,
       "name": "Hate Everything - Korean Version",
       "url": "https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3"
@@ -2745,7 +2763,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 331000,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/5FqGmuM9LxaZGOMKLsGL1U"
@@ -2915,7 +2933,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 160053,
       "name": "i",
       "url": "https://open.spotify.com/track/4h9jlv3tO0gm0i1mQ7o6hZ"
@@ -3149,7 +3167,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 227626,
       "name": "Ice Dance",
       "url": "https://open.spotify.com/track/326DIiir3XRRgRpJinCls9"
@@ -3167,7 +3185,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 218677,
       "name": "Idle Idle",
       "url": "https://open.spotify.com/track/17I6f6dlUmBQxHCBTWPBxT"
@@ -3385,7 +3403,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "Insomnia (feat. YAYYOUNG)",
       "url": "https://open.spotify.com/track/3PWgyj5ae8qTqSrVRxG19k"
@@ -3461,7 +3479,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 181697,
       "name": "Islet",
       "url": "https://open.spotify.com/track/1FsPpscUq0qFD9d8lM5FvR"
@@ -4137,7 +4155,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 176241,
       "name": "Maybe We Could Be a Thing",
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
@@ -4661,7 +4679,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 187500,
       "name": "Nobody (With Mac curly)",
       "url": "https://open.spotify.com/track/0mCOeuPYwQbEjReOmQhDhX"
@@ -4715,7 +4733,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 241451,
       "name": "Northern Light",
       "url": "https://open.spotify.com/track/1CRpDZ0XPU77yoJu2mJZir"
@@ -4787,7 +4805,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 206735,
       "name": "Old Notes",
       "url": "https://open.spotify.com/track/0m8MHpjuKKNvT19rvjHWAX"
@@ -4805,7 +4823,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 256799,
       "name": "One Another",
       "url": "https://open.spotify.com/track/189vi3KtFMw8bH2dKiXtD1"
@@ -4823,7 +4841,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 206146,
       "name": "One another - 2020",
       "url": "https://open.spotify.com/track/47XU3vkc7Y8Mx1qHDvh0hh"
@@ -4877,7 +4895,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 203776,
       "name": "Over and Over",
       "url": "https://open.spotify.com/track/2yMc8rJg9XROTMtfaTgHuw"
@@ -5141,7 +5159,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 235772,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/1wuZAvMhmqIecohHQYibED"
@@ -5893,7 +5911,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 132437,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/6YBR8tsZZjbZRATuFPNPVu"
@@ -5915,7 +5933,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 269722,
       "name": "Snow in Seoul",
       "url": "https://open.spotify.com/track/2k9Jahbon5h8gVHHgoetNI"
@@ -5969,7 +5987,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 238774,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/0XLORO8d7WV66y49E7bxrI"
@@ -6465,7 +6483,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 207850,
       "name": "Swan",
       "url": "https://open.spotify.com/track/6G0Kl2Fi4DalbsfbzuzMcD"
@@ -6613,7 +6631,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 217453,
       "name": "THE",
       "url": "https://open.spotify.com/track/1Ssehbv2YuNm1PlwHQlkQU"
@@ -6909,7 +6927,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 223278,
       "name": "Tree (Feat. Eily)",
       "url": "https://open.spotify.com/track/09M5Yrj4L4wnJsB2A57kiB"
@@ -6967,7 +6985,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 216510,
       "name": "Two Days",
       "url": "https://open.spotify.com/track/5cbSa8113mXCHqDkwfV6PQ"
@@ -7039,7 +7057,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 218544,
       "name": "Us",
       "url": "https://open.spotify.com/track/4xOxGzY6ctpO2prDbGJbIQ"

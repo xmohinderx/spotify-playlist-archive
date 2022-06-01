@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Alexander 23
 
-818 songs - 1 day 19 hr 6 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+819 songs - 1 day 19 hr 9 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 | 2021-10-30 | 2021-11-20 |
 | [Dominoes](https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Dominoes](https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8) | 3:43 | 2021-07-04 | 2021-08-14 |
 | [Don't Blame It On Love](https://open.spotify.com/track/2Z4kEzYRGKCKRv9QttvBrW) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Don't Blame It On Love](https://open.spotify.com/album/5RLZKkvBO2cJWJ7ZeiyqYv) | 3:17 | 2021-06-26 | 2021-08-14 |
+| [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-06-01 |  |
 | [Don't Forget About Me](https://open.spotify.com/track/3jHpysHZfu05A8NjzHCxjc) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Art of Overthinking](https://open.spotify.com/album/3QUvaJGV0GPdSTxjP5TjDH) | 3:26 | 2020-11-06 | 2021-05-08 |
 | [Don't Let The Neighbourhood Hear](https://open.spotify.com/track/44UlqXgZRcPke5vMebfzym) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Don’t Let The Neighbourhood Hear](https://open.spotify.com/album/57lKuhB7vBXhnDDucoYDNJ) | 4:21 | 2021-10-02 | 2021-10-16 |
 | [Don't Love Back](https://open.spotify.com/track/57q60y67hIuvS8NY1gilDg) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Don't Love Back](https://open.spotify.com/album/0YtOMjP8SZqk4X9IzoMLJH) | 3:20 | 2021-04-10 | 2021-05-22 |

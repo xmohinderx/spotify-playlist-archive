@@ -4,7 +4,7 @@
 
 > The official playlist for Sex Education\. Watch now on Netflix.
 
-65 songs - 4 hr 2 min - not published yet
+65 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/03Z90QqcWDw1OsFOAahdXg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

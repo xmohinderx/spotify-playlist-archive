@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Fabio Asher
 
-48 songs - 3 hr 10 min - not published yet
+49 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/track/7As3vd7OvJwyGUsZfNtHce) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/album/2EAkuKnERWRUnGBw1OTDZo) | 3:52 | 2022-05-25 |  |
 | [Belai](https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t), [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8) | [Belai](https://open.spotify.com/album/08vWdvWvob9YPnrr3Z3qAg) | 3:43 | 2022-05-25 |  |
 | [Belum Siap Kehilangan](https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Belum Siap Kehilangan](https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x) | 4:48 | 2022-05-25 |  |
-| [Berdamai](https://open.spotify.com/track/5MQPJBK0VdL99aLqSKuOTM) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 4:36 | 2022-05-25 |  |
+| [Berdamai](https://open.spotify.com/track/5MQPJBK0VdL99aLqSKuOTM) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 4:36 | 2022-05-25 | 2022-06-01 |
 | [Bertahan Terluka](https://open.spotify.com/track/3ajNIJJmIbFFJKZcTolYZO) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/1RgMS8KsAn6fTBw1maWpmo) | 4:00 | 2022-05-25 |  |
 | [BILA NANTI](https://open.spotify.com/track/4nAcExb3w5lk5LVGVULfcM) | [Nabila Maharani](https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW) | [BILA NANTI](https://open.spotify.com/album/6cMJGxJB6TGFIo4BmDSA8C) | 4:57 | 2022-05-25 |  |
 | [Bukan Milikmu](https://open.spotify.com/track/7ng6S2AgkeiTUQxqt144Oh) | [Han Byul](https://open.spotify.com/artist/4BGk8nswKSAE0bSuxA1uTP) | [Bukan Milikmu](https://open.spotify.com/album/4mvPsc8drKxg40vjva9y1d) | 4:00 | 2022-05-25 |  |
@@ -32,14 +32,14 @@
 | [Kisah Sempurna](https://open.spotify.com/track/6gB7kLGZNkf5tkvWkzSGKR) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Kisah Sempurna](https://open.spotify.com/album/39fz0raJs02USfEzd71c8b) | 4:36 | 2022-05-25 |  |
 | [Kukira Kau Rumah](https://open.spotify.com/track/1xdp8tXLTGbPeUSEODP9N7) | [Amigdala](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2) | [Kukira Kau Rumah](https://open.spotify.com/album/23eyS24eT0cGfKVt0UTFtT) | 3:26 | 2022-05-25 |  |
 | [Layu Di Hujung Mekar](https://open.spotify.com/track/3GxKGD4HE7YSPkVKqy445n) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Layu Di Hujung Mekar](https://open.spotify.com/album/0Kq0OS9rB8nhcICy9pnAxG) | 4:27 | 2022-05-25 |  |
-| [Lip Lap Raya](https://open.spotify.com/track/6HQEMPg896heLMLpcU4d9Z) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Lip Lap Raya](https://open.spotify.com/album/5Yc5oRuIzlUzcL9ZhG38mO) | 2:38 | 2022-05-25 |  |
+| [Lip Lap Raya](https://open.spotify.com/track/6HQEMPg896heLMLpcU4d9Z) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Lip Lap Raya](https://open.spotify.com/album/5Yc5oRuIzlUzcL9ZhG38mO) | 2:38 | 2022-05-25 | 2022-06-01 |
 | [LOTUS](https://open.spotify.com/track/4CdSVeRvrteDBAyHD4Cruc) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV) | [LOTUS](https://open.spotify.com/album/4KKqYg6lKN5AVI81JyJH5D) | 4:58 | 2022-05-25 |  |
 | [Mainan](https://open.spotify.com/track/22kK0vT2SplI4UhEaC828t) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO) | [Mainan](https://open.spotify.com/album/6dPgorGiH8T02YZfFoqvwm) | 3:54 | 2022-05-25 |  |
 | [Malam Semakin Dingin](https://open.spotify.com/track/5ChJqcOG8z9NgSlFwmfYql) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Malam Semakin Dingin](https://open.spotify.com/album/5f0mJV2GE6xbYVyRm3nowB) | 4:42 | 2022-05-25 |  |
 | [Menghapus Jejakmu](https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Menghapus Jejakmu](https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq) | 3:02 | 2022-05-25 |  |
 | [Merasa Indah](https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:40 | 2022-05-25 |  |
 | [Nang](https://open.spotify.com/track/7mDvcKlMxONKaDWgYNIKmX) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [Nang](https://open.spotify.com/album/0WwKzpFVUeGJoRFT8dfPmL) | 3:26 | 2022-05-25 |  |
-| [Nelangsa](https://open.spotify.com/track/0FqbrObTZcICnGO4zTWT3s) | [Suki Low](https://open.spotify.com/artist/5ZK1YCasWVI9DVQtxLRnYD) | [Nelangsa](https://open.spotify.com/album/5GJDWuQRphjqZwFq048ukk) | 3:59 | 2022-05-25 |  |
+| [Nelangsa](https://open.spotify.com/track/0FqbrObTZcICnGO4zTWT3s) | [Suki Low](https://open.spotify.com/artist/5ZK1YCasWVI9DVQtxLRnYD) | [Nelangsa](https://open.spotify.com/album/5GJDWuQRphjqZwFq048ukk) | 3:59 | 2022-05-25 | 2022-06-01 |
 | [Pelukan Angkasa](https://open.spotify.com/track/7fIy9XzcyuehISrxOarqT2) | [Sekumpulan Orang Gila](https://open.spotify.com/artist/0lsic3ZlNuapuwzbmD4imv), [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X) | [Pelukan Angkasa](https://open.spotify.com/album/3WORap8ygxl4A6qxjLEsiC) | 3:51 | 2022-05-25 |  |
 | [Pencarianku](https://open.spotify.com/track/7MajjFbtZq2ZfELVQ4Op3x) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Pencarianku](https://open.spotify.com/album/423zHeEaXrsN5yMQK133ID) | 3:58 | 2022-05-25 |  |
 | [Peri Cintaku](https://open.spotify.com/track/5cASSQjKWI5ox8LykUtJGL) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Peri Cintaku](https://open.spotify.com/album/5njf9tv5t5iF2VCGAIfIOx) | 4:19 | 2022-05-25 |  |
@@ -54,6 +54,7 @@
 | [Sisa Rasa](https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sisa Rasa](https://open.spotify.com/album/1HWELX1pBJxEArEKKoepuJ) | 4:14 | 2022-05-25 |  |
 | [Sudah](https://open.spotify.com/track/4QiDXOOZMepYFLnjGb3WxO) | [Nikki Palikat](https://open.spotify.com/artist/6EdlX521xMCxqlD9vUeQKa) | [Sudah](https://open.spotify.com/album/1ndWLa36vkw30BKdhgjHt9) | 3:41 | 2022-05-25 |  |
 | [SUSTENTO](https://open.spotify.com/track/2N2zdSWXytUAjziN6LJWFw) | [K\-Clique](https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh) | [SUSTENTO](https://open.spotify.com/album/0Agoz3tn21HjcaPo6gZmZW) | 3:00 | 2022-05-25 |  |
+| [Tak Ingin Usai](https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tak Ingin Usai](https://open.spotify.com/album/2DskseIWepQ89TxfXn3MtY) | 4:38 | 2022-06-01 |  |
 | [Terlukis Indah](https://open.spotify.com/track/5S8TtEVuFPY9XEjg2hNWHa) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Terlukis Indah](https://open.spotify.com/album/5Qk3VFJJ4CKS3zcBNp2YRs) | 3:47 | 2022-05-25 |  |
 | [Top Boi](https://open.spotify.com/track/49dHs04lUC9EmyhuXRFaJQ) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV) | [Top Boi](https://open.spotify.com/album/7hEtiUHiYMmtpH8qESglmT) | 3:44 | 2022-05-25 |  |
 

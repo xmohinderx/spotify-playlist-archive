@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : VTK
 
-57 songs - 3 hr 50 min - not published yet
+57 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

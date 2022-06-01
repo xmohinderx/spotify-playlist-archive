@@ -4,20 +4,20 @@
 
 > This is Gojira\. The essential tracks, all in one playlist.
 
-44 songs - 3 hr 39 min - not published yet
+44 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/4YbSkWZUmXTIcQHpQjN7lQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Amazonia](https://open.spotify.com/track/1GWtUkDQk7XC35r7kTPfqx) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 5:00 | 2022-05-30 |  |
 | [Another World](https://open.spotify.com/track/7cRGgrQ9eg8V8A4FsSj020) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 4:24 | 2022-05-30 |  |
 | [Backbone](https://open.spotify.com/track/2auGZBF35U0Hx18EzGSVOX) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs) | 4:18 | 2022-05-30 |  |
-| [Blow Me Away You \- Niverse](https://open.spotify.com/track/3FfsRhBRDE7yxQbRZuSzBM) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 5:09 | 2022-05-30 | 2022-06-01 |
+| [Blow Me Away You \- Niverse](https://open.spotify.com/track/3FfsRhBRDE7yxQbRZuSzBM) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 5:09 | 2022-05-30 |  |
 | [Born For One Thing](https://open.spotify.com/track/61GkJ0y15jxDyBrdcb6PqR) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 4:20 | 2022-05-30 |  |
 | [Born in Winter](https://open.spotify.com/track/1rDzUqMRA9VdGCIwzgfeh9) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage \(Special Edition\)](https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG) | 3:51 | 2022-05-30 |  |
 | [Clone](https://open.spotify.com/track/0tSE8quqeoqNqjRL55POSa) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:57 | 2022-05-30 |  |
 | [Death of me](https://open.spotify.com/track/1xgChyPxsSp3jgY61zmJyc) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 5:47 | 2022-05-30 |  |
-| [Deliverance](https://open.spotify.com/track/537CmK97BafGLCgelxK0fS) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:54 | 2022-05-30 |  |
-| [Drum Solo](https://open.spotify.com/track/4oYJDGfT4sLwJc8AvqkHCp) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The Link Alive](https://open.spotify.com/album/26e3IXitLWGcH0UrcAbW08) | 1:41 | 2022-05-31 |  |
+| [Deliverance](https://open.spotify.com/track/537CmK97BafGLCgelxK0fS) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:54 | 2022-05-30 | 2022-06-01 |
+| [Drum Solo](https://open.spotify.com/track/4oYJDGfT4sLwJc8AvqkHCp) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The Link Alive](https://open.spotify.com/album/26e3IXitLWGcH0UrcAbW08) | 1:41 | 2022-05-31 | 2022-06-01 |
 | [Embrace the world](https://open.spotify.com/track/6hM9jLX4jTNBG6FA7PQvOp) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 4:39 | 2022-05-30 |  |
 | [Esoteric surgery](https://open.spotify.com/track/7bUcTW0mHg4Ec0kgdXemEG) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 5:44 | 2022-05-30 |  |
 | [Flying Whales](https://open.spotify.com/track/5OjCsHeByDYEGxMrb1z8KQ) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs) | 7:44 | 2022-05-30 |  |

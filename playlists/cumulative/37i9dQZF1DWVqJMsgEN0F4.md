@@ -4,7 +4,7 @@
 
 > Bob Moses and the top Alternative songs today.
 
-118 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/6EMN1AhrUHWzoAMRYyK1Q6)
+119 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/6EMN1AhrUHWzoAMRYyK1Q6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Record Player \(with AJR\)](https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Record Player \(with AJR\)](https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5) | 2:29 | 2021-09-22 | 2022-04-23 |
 | [Ride or Die](https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [LP3](https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX) | 3:30 | 2022-03-11 | 2022-04-09 |
 | [Roman Candles](https://open.spotify.com/track/6jIrbJ5w2KfkLsk3LiGTOW) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Roman Candles](https://open.spotify.com/album/08RMceLc7dOM9mmdoFpPBM) | 2:10 | 2022-05-27 |  |
+| [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-06-01 |  |
 | [Same Team](https://open.spotify.com/track/4bKKc5wpLsdCPVj1QVUICf) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Same Team](https://open.spotify.com/album/54jXm087W12kSJyT6VmHdu) | 3:31 | 2022-05-06 |  |
 | [Serotonin](https://open.spotify.com/track/1q2Zb0v5ZGxKDktEz7wSPb) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Serotonin](https://open.spotify.com/album/7Dv5bbo8oZ0KTrXG6CkeUO) | 3:02 | 2021-06-03 | 2022-01-15 |
 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 | 2021-11-19 | 2022-04-29 |

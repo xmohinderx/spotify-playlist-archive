@@ -4,7 +4,7 @@
 
 > This is Rammstein\. The essential tracks, all in one playlist.
 
-49 songs - 3 hr 25 min - not published yet
+49 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/10l4h92hmnaN43FPdhOuHz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

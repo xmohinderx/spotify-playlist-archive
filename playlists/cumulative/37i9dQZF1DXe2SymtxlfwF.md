@@ -4,7 +4,7 @@
 
 > Your essential Max Richter, all in one collection.
 
-91 songs - 6 hr 7 min - not published yet
+91 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/0zsXEWNwhNine63JAckY5T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

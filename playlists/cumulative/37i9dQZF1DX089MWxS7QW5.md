@@ -2,9 +2,9 @@
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: LAS\(라스\)\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: oceanfromtheblue, Hookuo\)
 
-52 songs - 2 hr 59 min - not published yet
+53 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Swear](https://open.spotify.com/track/50X1UUiTcDjq0tTybkBSot) | [XAXA](https://open.spotify.com/artist/2Rtn7OFpkjyS5OXGaKzwW1) | [Remember](https://open.spotify.com/album/4yHWe2xBs5mk0wNHafCUVH) | 3:20 | 2022-05-28 |  |
 | [Take care](https://open.spotify.com/track/6TWHnpRwa1oFvGVb4HkyHd) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [Take care](https://open.spotify.com/album/64ZwScQEZDND6thh8Vfuz2) | 3:00 | 2022-05-28 |  |
 | [The Gift](https://open.spotify.com/track/2PTnOo4kxWsyTlRc3hwiBo) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [The Gift](https://open.spotify.com/album/5Bkjj4PGtK7078kTvQhvXS) | 3:46 | 2022-05-28 |  |
+| [Time](https://open.spotify.com/track/44FuYikbGrbue8BqiVbYks) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Hookuo](https://open.spotify.com/artist/6eBZRX3oKGthcmHWR8mpvf) | [Why](https://open.spotify.com/album/3NPRwip3fCgqzn6UCspufx) | 3:28 | 2022-06-01 |  |
 | [Today](https://open.spotify.com/track/4X45vj2AcrqfXWfvmVQQF2) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Ocean like me \(Original Web Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/0xLr70Id543bJ27W9hOmSM) | 3:39 | 2022-05-28 |  |
 | [Tonight](https://open.spotify.com/track/6z3MFmth66YuneBbyzVFGJ) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Tonight \(Single Edition 4\)](https://open.spotify.com/album/4NfZyYetKI0lgIDXTCs6mL) | 3:50 | 2022-05-28 |  |
 | [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 | 2022-05-28 |  |

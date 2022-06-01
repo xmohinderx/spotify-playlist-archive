@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 193674,
       "name": "Adio\u0301s Amor",
       "url": "https://open.spotify.com/track/2kA8HXXFHGu9Ml8TYrK2sx"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 243500,
       "name": "Alma Enamorada",
       "url": "https://open.spotify.com/track/475CRI2f2N51OgUuwO4svT"
@@ -298,6 +298,24 @@
     },
     {
       "album": {
+        "name": "Con Tus Besos",
+        "url": "https://open.spotify.com/album/2Axb9UEbrrWZuhZHGgEh8E"
+      },
+      "artists": [
+        {
+          "name": "Palladinos",
+          "url": "https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158996,
+      "name": "Con Tus Besos",
+      "url": "https://open.spotify.com/track/6cV5ZLSn6boxiNG2ZQAzB9"
+    },
+    {
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/4cDORfef1KJLnnlLvRQf11"
       },
@@ -309,7 +327,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 216520,
       "name": "Contigo - Spotify Sessions",
       "url": "https://open.spotify.com/track/3YucBaaVFM1Rksxn3EEv7B"
@@ -345,7 +363,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 202840,
       "name": "Corazon de Acero (Version Pop)",
       "url": "https://open.spotify.com/track/5aqKcpgiCe4pTxE5LoUAG6"
@@ -439,7 +457,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 169000,
       "name": "Desde Morro",
       "url": "https://open.spotify.com/track/6TwsRLgwejP77ylo34Vctk"
@@ -511,7 +529,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 249000,
       "name": "Duele",
       "url": "https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 190879,
       "name": "Lucha de Gigantes",
       "url": "https://open.spotify.com/track/5Mb2CDBDoo8PLgEACgGCUk"
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 156750,
       "name": "Me La Avente",
       "url": "https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 175360,
       "name": "Ni lo intentes",
       "url": "https://open.spotify.com/track/2FLYSIAcrXjwsGuE9W3sm9"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 200573,
       "name": "Ni\u00f1a De Mi Coraz\u00f3n - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/49y91R9Macp3pdS04Dsu1k"
@@ -1187,10 +1205,28 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 264250,
       "name": "No Es Pa Presumir",
       "url": "https://open.spotify.com/track/0VTPrUYq4wQCT9WoDBTqJ2"
+    },
+    {
+      "album": {
+        "name": "No Llega El Olvido",
+        "url": "https://open.spotify.com/album/7bagxAevbVdVOcRs3MMw7q"
+      },
+      "artists": [
+        {
+          "name": "Son De Durango",
+          "url": "https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180504,
+      "name": "No Llega El Olvido",
+      "url": "https://open.spotify.com/track/10bmWgJ6muXStXBclouwPV"
     },
     {
       "album": {
@@ -1249,7 +1285,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 230985,
       "name": "No Volver\u00e9",
       "url": "https://open.spotify.com/track/7i4rb7PY4IKJPxPrqMGbLJ"
@@ -1325,7 +1361,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 234923,
       "name": "Porqu\u00e9 La Enga\u00f1\u00e9 (Vers. Ac\u00fastica)",
       "url": "https://open.spotify.com/track/5mBctHoujGRMCnIjVODwLE"
@@ -1361,7 +1397,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Prometiste",
       "url": "https://open.spotify.com/track/2oKl1hb8wbIqs2a38mWy7g"
@@ -1431,7 +1467,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 125354,
       "name": "Qu\u00e9 Maldici\u00f3n",
       "url": "https://open.spotify.com/track/6yZ8UqhUoau9szXY8gjnUd"
@@ -1633,7 +1669,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 171454,
       "name": "Simplemente Gracias",
       "url": "https://open.spotify.com/track/7ebRw8NKRtmfmeOMpLeOYn"
@@ -1835,7 +1871,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Te Lo Pido Por Favor",
       "url": "https://open.spotify.com/track/4wqyyFpxior3cSQvub5aO3"
@@ -1983,7 +2019,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 194386,
       "name": "Tus Latidos - Spotify Sessions",
       "url": "https://open.spotify.com/track/3JLdioihOtbPZ0MEORQBV7"
@@ -2037,10 +2073,28 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 251294,
       "name": "Un Rinconcito En El Cielo",
       "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
+    },
+    {
+      "album": {
+        "name": "Una Vez Mas",
+        "url": "https://open.spotify.com/album/3J0EfavosSEhLq5BeZgtqw"
+      },
+      "artists": [
+        {
+          "name": "Aurelia Goldspark",
+          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230250,
+      "name": "Una Vez Mas",
+      "url": "https://open.spotify.com/track/7vXR4H9LE6bXMtwpb4iz46"
     },
     {
       "album": {

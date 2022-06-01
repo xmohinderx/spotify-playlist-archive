@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Beast
 
-51 songs - 3 hr 6 min - not published yet
+51 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

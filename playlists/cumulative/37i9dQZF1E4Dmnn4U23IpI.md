@@ -2,7 +2,7 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With LGHTNNG, Fractal Man, Thomas Barrandon and more
+> With Android Automatic, LGHTNNG, Thomas Barrandon and more
 
 790 songs - 2 day 8 hr 44 min - [published](https://open.spotify.com/playlist/2T4bEFEfvvK4qvB1iHmD1n)
 
@@ -414,7 +414,7 @@
 | [Los Angeles](https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Days of Thunder](https://open.spotify.com/album/54xM746igJkdPJenRhW1za) | 6:29 | 2021-12-01\* | 2022-05-08 |
 | [Lose You](https://open.spotify.com/track/5O6HNOevUadiW6diq2bLui) | [PRIZM](https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo) | [All Night \(Deluxe Edition\)](https://open.spotify.com/album/10XsGcPLT5yXbGQEpziLOR) | 3:18 | 2022-05-25 | 2022-05-26 |
 | [Losing Sleep](https://open.spotify.com/track/1pZvdgGtNGE15WaR9OFAfo) | [Freeweights](https://open.spotify.com/artist/1gYdjzLQVIKiyEzE1Ku5MQ) | [Losing Sleep](https://open.spotify.com/album/4IuhWip0aWwfNQreaG47wv) | 3:43 | 2022-04-28 | 2022-04-29 |
-| [Lost](https://open.spotify.com/track/00oSI5KQpdIvi1gxuMPF1D) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [Lost](https://open.spotify.com/album/2WpWTOPRjcOfOWUS8XSu6R) | 5:18 | 2022-03-25 |  |
+| [Lost](https://open.spotify.com/track/00oSI5KQpdIvi1gxuMPF1D) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [Lost](https://open.spotify.com/album/2WpWTOPRjcOfOWUS8XSu6R) | 5:18 | 2022-03-25 | 2022-06-01 |
 | [Lost & Found](https://open.spotify.com/track/18QnuOfBATMFLDxfYwSqbX) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Lost & Found](https://open.spotify.com/album/6vTjBvaHqYA32A6KtG0mh4) | 5:50 | 2021-12-01\* | 2022-05-24 |
 | [Lost Boy](https://open.spotify.com/track/0VzHwYlPuWHjyaq6HLB9UV) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/7DZuN9XYdWLa2l4huvH3jy) | 4:37 | 2021-12-04 | 2022-05-30 |
 | [Lost Boys](https://open.spotify.com/track/41REBtWxbay3YLScQQx1YR) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [Young Medicine](https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ) | [After Dark \(Deluxe Edition\)](https://open.spotify.com/album/7dszm1dxmXo1Tgw97QOPeA) | 3:40 | 2022-01-06 | 2022-02-24 |
@@ -715,7 +715,7 @@
 | [The Quiet Earth](https://open.spotify.com/track/4V0rrbFdfzLbcV3WOYjXXa) | [Thomas Barrandon](https://open.spotify.com/artist/5HaHjEOMBZBDiMXP7Wz1Zr) | [The Quiet Earth](https://open.spotify.com/album/09Rd5hfBdtOBIhLaRvm96M) | 5:30 | 2022-03-19 |  |
 | [The Return](https://open.spotify.com/track/3UD1b1KZFiMaGS9cuQTicv) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [The Return](https://open.spotify.com/album/7nTkU9kVq3OAwW5ckjqd8d) | 4:22 | 2021-12-14 | 2022-05-21 |
 | [The Ride \(Into the Midnight\)](https://open.spotify.com/track/414ljYjctNtquEeNmRGVw9) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY) | [Kalax](https://open.spotify.com/album/7voXS1czW5xne4u6vsuSKS) | 4:21 | 2021-12-03 | 2022-05-17 |
-| [The Ride Home](https://open.spotify.com/track/2T6Dl1CpTCw3qjUy8dBKLv) | [OSC](https://open.spotify.com/artist/2qBrIR0SrDbH4CQhVUFvvN) | [Girls on Bikes](https://open.spotify.com/album/1HpE1r7TLkCwIrOhGsKSNB) | 3:43 | 2022-04-14 | 2022-05-28 |
+| [The Ride Home](https://open.spotify.com/track/2T6Dl1CpTCw3qjUy8dBKLv) | [OSC](https://open.spotify.com/artist/2qBrIR0SrDbH4CQhVUFvvN) | [Girls on Bikes](https://open.spotify.com/album/1HpE1r7TLkCwIrOhGsKSNB) | 3:43 | 2022-04-14 |  |
 | [The Runner](https://open.spotify.com/track/2HG2iqJZrd7ved05JRcDF5) | [Yota](https://open.spotify.com/artist/4U3vYFeDgmRT6RETWVgTe0) | [Hazy Paradise](https://open.spotify.com/album/1QrTgpPG09MXIf9NvKENrx) | 3:48 | 2022-04-01 | 2022-05-28 |
 | [The Stranger](https://open.spotify.com/track/5pmJfTVQXpVXZEl1iZdgX2) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Horror Show](https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq) | 1:42 | 2021-12-04 | 2021-12-20 |
 | [The Sun Lasts Forever](https://open.spotify.com/track/7fKpVTzaXCI0DZJeyRgeMI) | [W O L F C L U B](https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX) | [Infinity](https://open.spotify.com/album/4ZZvoPh5Qk1ynqclUbl8G4) | 2:50 | 2022-03-30 | 2022-05-16 |

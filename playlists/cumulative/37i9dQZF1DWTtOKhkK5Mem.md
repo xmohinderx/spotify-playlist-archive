@@ -4,7 +4,7 @@
 
 > Male artists singing about love.
 
-170 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/5B8h6ibIDuEQNqnYk4TJRp)
+171 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/5B8h6ibIDuEQNqnYk4TJRp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Lay Me Down \- Single Version](https://open.spotify.com/track/7r4dwgu3hzR60pVulZ9IP9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Lay Me Down](https://open.spotify.com/album/3uRJWbCnuU4kCxHQWp009X) | 3:39 | 2021-11-23 | 2022-02-27 |
 | [Lean on Me \- Single Version](https://open.spotify.com/track/1oEAgyttglJYkh909Byp4B) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/5EClNCnI8hnAbelstFbiU9) | 4:17 | 2021-11-23 |  |
 | [Let's Get It On](https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Expanded Edition\)](https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy) | 4:50 | 2021-11-23 | 2022-05-29 |
-| [Let's Stay Together](https://open.spotify.com/track/13IDNoCfqSo5ixi2WO2oOk) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 3:18 | 2021-11-23 |  |
+| [Let's Stay Together](https://open.spotify.com/track/13IDNoCfqSo5ixi2WO2oOk) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 3:18 | 2021-11-23 | 2022-06-01 |
 | [Little Things](https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home: Yearbook Edition](https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF) | 3:39 | 2021-11-23 |  |
 | [Longer](https://open.spotify.com/track/6OKrPnWUC8FccKiLVpxQWQ) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Portrait: The Music Of Dan Fogelberg From 1972\-1997](https://open.spotify.com/album/3xzrUc5WHC8dv9UmiUWxH1) | 3:15 | 2021-11-23 |  |
 | [Love Is All Around \- From "Four Weddings And A Funeral"](https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Picture This \(20th Anniversary Edition\)](https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY) | 4:06 | 2021-11-23 |  |
@@ -121,7 +121,7 @@
 | [Please Keep Loving Me](https://open.spotify.com/track/1rp1lRbL41qnlw354j8iTp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/57nyAsOzQc642JTGwioDli) | 3:15 | 2021-11-23 |  |
 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 | 2021-11-23 |  |
 | [Said I Loved You...But I Lied](https://open.spotify.com/track/2nfMrwg3aRhSAv4HX7IzJL) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:04 | 2021-11-23 |  |
-| [Say You Won't Let Go](https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Say You Won't Let Go](https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC) | 3:31 | 2021-11-23 |  |
+| [Say You Won't Let Go](https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Say You Won't Let Go](https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC) | 3:31 | 2021-11-23 | 2022-06-01 |
 | [Say You, Say Me](https://open.spotify.com/track/0I9M3okWVRJXWT6G7cbIdx) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F) | 4:01 | 2021-11-23 |  |
 | [She Believes In Me](https://open.spotify.com/track/5ggOAMsJCAYDHnyoqJ0xAD) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Gambler](https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ) | 4:18 | 2021-11-23 |  |
 | [She Will Be Loved](https://open.spotify.com/track/5s5t0OFg9lIlBFaCI14K1i) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF) | 4:17 | 2021-11-23 |  |
@@ -132,6 +132,7 @@
 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 | 2021-11-23 |  |
 | [Stay](https://open.spotify.com/track/4tyrRF6QhW7muNqwwXzLfp) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Winter Songs](https://open.spotify.com/album/6AHKwe8On9u6oU3XWV3Sb3) | 4:36 | 2021-11-23 |  |
 | [Stay With Me](https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Deluxe Edition\)](https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp) | 2:52 | 2021-11-23 |  |
+| [Stop Loving You](https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [The Seventh One](https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3) | 4:29 | 2022-05-30 |  |
 | [Straight From The Heart](https://open.spotify.com/track/1mTW4qdqPxjxJMZvNr66Ek) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Anthology \(set \- UK\)](https://open.spotify.com/album/4cJi2jbJOy2TBYt7F46lcb) | 3:31 | 2021-11-23 |  |
 | [Straight From The Heart](https://open.spotify.com/track/7uBxi4jHZqgWAjqLEl1KcF) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/1hUiT5wFSraneBf4aNpbL3) | 3:31 | 2022-05-11 | 2022-05-28 |
 | [Stuck On You](https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 3:12 | 2021-11-23 |  |
@@ -155,7 +156,7 @@
 | [Watching The Wheels \- Remastered 2010](https://open.spotify.com/track/4fKhRRYn7F5shZItjJkPJU) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy Stripped Down](https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF) | 3:59 | 2021-11-23 | 2022-05-20 |
 | [When a Man Loves a Woman](https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm) | 3:51 | 2021-11-23 |  |
 | [When I Need You](https://open.spotify.com/track/2EmS1b64xEjUdvDcLE1AuX) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Journey – The Essential Leo Sayer](https://open.spotify.com/album/2qcpKdOFBiNMV7DNnTCW6x) | 4:12 | 2021-11-23 |  |
-| [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2021-11-23 | 2022-06-01 |
+| [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2021-11-23 |  |
 | [When I Was Your Man \- Acoustic](https://open.spotify.com/track/4KSv4WRp3tzidDistCPhhe) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [When I Was Your Man \(Acoustic\)](https://open.spotify.com/album/6mGOR0rhxlECjseK1wmUcQ) | 3:35 | 2021-11-23 |  |
 | [When You Love Someone](https://open.spotify.com/track/1o6YK7phnXgsljfWSQQfWc) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z) | 3:36 | 2021-11-23 | 2022-03-04 |
 | [When You Say Nothing At All](https://open.spotify.com/track/306LQdB2k5yBGsiIV2oeC3) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/1aYzN2EJMOgjFzuiDEiuEP) | 4:18 | 2021-11-23 |  |

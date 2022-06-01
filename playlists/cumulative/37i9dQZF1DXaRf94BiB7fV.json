@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Aarifah, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Utsavi Jha, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "published_playlist_ids": [
     "5ZxKEzYK5bckaAr3OIv47F"
@@ -582,6 +582,32 @@
     },
     {
       "album": {
+        "name": "Baarish",
+        "url": "https://open.spotify.com/album/6CW4ctVt1v7MmkIdly2I9U"
+      },
+      "artists": [
+        {
+          "name": "Anusufi",
+          "url": "https://open.spotify.com/artist/1JJhN0vW6ufuIotNiIJ61V"
+        },
+        {
+          "name": "Anamika",
+          "url": "https://open.spotify.com/artist/2BlQo84UomrTQeIAPZOKSa"
+        },
+        {
+          "name": "Vishal",
+          "url": "https://open.spotify.com/artist/5ZwgfvLDWDUZD3TUPGLKzA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84873,
+      "name": "Baarish",
+      "url": "https://open.spotify.com/track/2rcV22624b1qRUrKmUQFvT"
+    },
+    {
+      "album": {
         "name": "Baarish Ka Asar",
         "url": "https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj"
       },
@@ -651,7 +677,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 216000,
       "name": "Bad Trip (Sitam)",
       "url": "https://open.spotify.com/track/7zY0PVroTMRDz4G49I4yrD"
@@ -677,6 +703,28 @@
       "duration_ms": 224842,
       "name": "Badalon Se",
       "url": "https://open.spotify.com/track/1xoWAGAR6gmBF0G2NOssg4"
+    },
+    {
+      "album": {
+        "name": "Badariya",
+        "url": "https://open.spotify.com/album/1QZeDxNotV0dAOe7KjUSZm"
+      },
+      "artists": [
+        {
+          "name": "Reewa Rathod",
+          "url": "https://open.spotify.com/artist/0mzRkdWgrhQkFXs2ptJAch"
+        },
+        {
+          "name": "Swaransh Mishra",
+          "url": "https://open.spotify.com/artist/6k8KVEJqdcGiVni3c6WmhY"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247801,
+      "name": "Badariya",
+      "url": "https://open.spotify.com/track/5IwDxCbs651v8M1cjlWaWO"
     },
     {
       "album": {
@@ -1245,6 +1293,24 @@
       "duration_ms": 110000,
       "name": "Ciggy Fraud",
       "url": "https://open.spotify.com/track/5yFnnzlWpWvHUOuEx1MFQe"
+    },
+    {
+      "album": {
+        "name": "Cloud Burst",
+        "url": "https://open.spotify.com/album/6DYd6ep2qaIAuDsAUAaLQh"
+      },
+      "artists": [
+        {
+          "name": "the Vyakt",
+          "url": "https://open.spotify.com/artist/1jjcReDsyRtwyDtzPLJMkp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138482,
+      "name": "Cloud Burst",
+      "url": "https://open.spotify.com/track/196EOSSuHR7vfHd4aCLQ3U"
     },
     {
       "album": {
@@ -2245,7 +2311,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 219428,
       "name": "Have You?",
       "url": "https://open.spotify.com/track/5sMec58cM2TGrtUlkWFrMZ"
@@ -2267,6 +2333,32 @@
       "duration_ms": 250312,
       "name": "Hawaon Se",
       "url": "https://open.spotify.com/track/0WSZmFvdDDmy5caaHpiSJm"
+    },
+    {
+      "album": {
+        "name": "Heeriye",
+        "url": "https://open.spotify.com/album/680KENCtLqsml1P5OI7kCG"
+      },
+      "artists": [
+        {
+          "name": "Devin X Derayne",
+          "url": "https://open.spotify.com/artist/57wk7mdNMjh7pY7un4zksZ"
+        },
+        {
+          "name": "Raj Pandit",
+          "url": "https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908"
+        },
+        {
+          "name": "Manya Narang",
+          "url": "https://open.spotify.com/artist/2WZl1N4qrNuqiLpX74fcQY"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Heeriye",
+      "url": "https://open.spotify.com/track/5H9jcABAODkLsWcE3JTDWc"
     },
     {
       "album": {
@@ -2595,7 +2687,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 159000,
       "name": "I'm Not Complaining",
       "url": "https://open.spotify.com/track/0YCqq7bEuKjsxLGWcIWeSQ"
@@ -2923,6 +3015,28 @@
       "duration_ms": 132903,
       "name": "Jaane Doon",
       "url": "https://open.spotify.com/track/4kMcoYbunn1qd3uaSbuaCo"
+    },
+    {
+      "album": {
+        "name": "Jaane Kaise",
+        "url": "https://open.spotify.com/album/2bLlrBEKtutYSzPi1DCvjO"
+      },
+      "artists": [
+        {
+          "name": "Sanam Malik",
+          "url": "https://open.spotify.com/artist/39bDtXEgvPfW2adoyRi4kI"
+        },
+        {
+          "name": "ANA",
+          "url": "https://open.spotify.com/artist/4tqpVHY6GZqYwhNMFrhnkA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Jaane Kaise",
+      "url": "https://open.spotify.com/track/3kfq4RYXDjt2lS0004Uz0s"
     },
     {
       "album": {
@@ -4298,6 +4412,24 @@
     },
     {
       "album": {
+        "name": "Man Of The Hour",
+        "url": "https://open.spotify.com/album/4DZ2Rw2B2WYssrY1fTFiUX"
+      },
+      "artists": [
+        {
+          "name": "Peach!",
+          "url": "https://open.spotify.com/artist/1KR0Y8LCCXC18O52Hjcysd"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226025,
+      "name": "Man Of The Hour",
+      "url": "https://open.spotify.com/track/2MIlDMYnibzt1eYXg21EJ2"
+    },
+    {
+      "album": {
         "name": "Manmaani",
         "url": "https://open.spotify.com/album/4mwVHtg9FNMyu8mad3UCZa"
       },
@@ -5300,6 +5432,24 @@
     },
     {
       "album": {
+        "name": "Parda",
+        "url": "https://open.spotify.com/album/3H6MiF9RNRUUZPc0MDcItI"
+      },
+      "artists": [
+        {
+          "name": "Sampriti Sarkar",
+          "url": "https://open.spotify.com/artist/1dmx2ogHXr5W37graiRLuf"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171748,
+      "name": "Parda",
+      "url": "https://open.spotify.com/track/2vrBaGxAXVPxLjjdaBg75O"
+    },
+    {
+      "album": {
         "name": "Parinda",
         "url": "https://open.spotify.com/album/5loJUibV8A0TaY4c7apyFy"
       },
@@ -6001,7 +6151,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 167671,
       "name": "runaway",
       "url": "https://open.spotify.com/track/1lp3Ds70JUbbN1QD5q0VsH"
@@ -6093,6 +6243,24 @@
       "duration_ms": 216000,
       "name": "Saajna Ve",
       "url": "https://open.spotify.com/track/6YA395xiGWP3mRAQZ4ev21"
+    },
+    {
+      "album": {
+        "name": "Saanjh",
+        "url": "https://open.spotify.com/album/6lzFKrN8dJifMdpDBNuOw8"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282391,
+      "name": "Saanjh",
+      "url": "https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs"
     },
     {
       "album": {
@@ -6725,7 +6893,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 180263,
       "name": "Stupid Girl",
       "url": "https://open.spotify.com/track/55F5x3dA2ZM0pLwneBBNsR"
@@ -6893,7 +7061,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 205000,
       "name": "Sunday Bubble",
       "url": "https://open.spotify.com/track/2J9XYOShIxRPu7v7B8P7Zj"
@@ -7771,7 +7939,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 238434,
       "name": "When I See You",
       "url": "https://open.spotify.com/track/0m2CEpYBblmO1x7QN0Ovey"
@@ -7811,7 +7979,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 217241,
       "name": "White Clouds",
       "url": "https://open.spotify.com/track/1BxutrDFAcRmQbDblSljrn"

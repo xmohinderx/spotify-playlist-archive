@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى أغاني الراب المصري! غلاف: مروان بابلو
+> أقوى الأغاني الراب المصري! غلاف: مروان بابلو
 
-52 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
+53 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Ya Wa3dy](https://open.spotify.com/track/6j88kr0UP2Fof1HzhKbCA9) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Ya Wa3dy](https://open.spotify.com/album/4I8Wyq7R75sBcFSIoqytZ7) | 3:01 | 2022-05-10 |  |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-05-10 |  |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-05-10 |  |
+| [البوصلة ضاعت](https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [البوصلة ضاعت](https://open.spotify.com/album/17E04dwaT5vHAHsuviwYPB) | 3:29 | 2022-06-01 |  |
 | [بطل](https://open.spotify.com/track/3LxSKiIy0z4B9mEMHQZ77Q) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Lil baba](https://open.spotify.com/artist/3T8fVfMYRXW3RQNpxy80iw) | [بطل](https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX) | 3:27 | 2022-05-10 |  |
 | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/track/0P6gYLZnBuhZNq99NAUJe3) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/album/6bAqBBFbmNi3ixH2B1F7b8) | 3:11 | 2022-05-10 |  |
 | [بوغاتي](https://open.spotify.com/track/7hyO6hAXbu7tRjx78lsR2D) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [بوغاتي](https://open.spotify.com/album/4DpbKWBZKyvuSKDL33ija7) | 2:34 | 2022-05-10 |  |

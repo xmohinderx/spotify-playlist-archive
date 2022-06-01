@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Haico\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,556 likes - 61 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,559 likes - 61 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-723 songs - 1 day 15 hr 20 min - [published](https://open.spotify.com/playlist/0EEJK6TovvmWZyvip17xR6)
+724 songs - 1 day 15 hr 24 min - [published](https://open.spotify.com/playlist/0EEJK6TovvmWZyvip17xR6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:33 | 2021-12-24 | 2021-12-27 |
 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2021-12-25 | 2021-12-27 |
 | [Chuleria](https://open.spotify.com/track/1whZIUiQbL03vdtoZ7GiXD) | [Green Cookie](https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV) | [Chuleria](https://open.spotify.com/album/1YoKbAFzYF95Lh3ivL0SZn) | 3:23 | 2021-04-07 | 2021-04-08 |
-| [Cinema](https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:03 | 2022-05-21 |  |
+| [Cinema](https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:03 | 2022-05-21 | 2022-06-01 |
 | [Clap](https://open.spotify.com/track/1XM76EZ27n9zk8gb6oRUWO) | [Frankie Prada](https://open.spotify.com/artist/2WoXaS9p96qIo0g1kSL9Of) | [Clap](https://open.spotify.com/album/7yJknWOCZRp094ff9cLpx3) | 2:13 | 2021-03-27\* | 2021-04-03 |
 | [Close Eyes](https://open.spotify.com/track/7BNWWI6aZPLkYCfRat8HuD) | [Chego1963](https://open.spotify.com/artist/5UkiJi6aTQnJeqCrsGEAt7), [onurxt](https://open.spotify.com/artist/1Sl3NqTA49ay9Cb1ANXQog), [Rylixe](https://open.spotify.com/artist/57wNgV40K2oSH5KyzvVw1F) | [Close Eyes](https://open.spotify.com/album/6phw9EwZgc6h5tmiIRndVe) | 2:12 | 2022-04-10 | 2022-04-22 |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2021-10-05 | 2022-05-11 |
@@ -372,6 +372,7 @@
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-07 | 2021-11-11 |
 | [Make That Shake](https://open.spotify.com/track/3pVOQDkKssk9mbR9icLzRB) | [AhmedTheArab](https://open.spotify.com/artist/1MoZFJA1rpKHwBKkKLiULB) | [Make That Shake](https://open.spotify.com/album/0FsTf6jbAua1RTSA4hNWmy) | 3:13 | 2021-07-07 | 2021-07-09 |
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2021-10-10 | 2021-11-21 |
+| [Man Trūksta Dienų](https://open.spotify.com/track/0DvjNkf7BUG4tJFBz6N15s) | [Gabrielius Vagelis](https://open.spotify.com/artist/0dJJpF4ULA7xCU5xwHbCB3) | [Man Trūksta Dienų](https://open.spotify.com/album/4h5IJTc2fQZEbBeqrFjHtZ) | 3:04 | 2022-06-01 |  |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-03-20 | 2022-03-24 |
 | [MANIFESTO \(feat\. Domo Genesis\)](https://open.spotify.com/track/6qouBO0wJtYc3k7DfKRUBx) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:55 | 2021-06-27 | 2021-06-28 |
 | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 | 2021-06-23 | 2021-09-13 |

@@ -4,7 +4,7 @@
 
 > \*vibing in desi\*
 
-99 songs - 5 hr 46 min - not published yet
+99 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/2qnwnlVqwDzQeyJdfRGrMN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

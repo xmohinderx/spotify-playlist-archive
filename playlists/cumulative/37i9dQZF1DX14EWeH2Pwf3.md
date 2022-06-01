@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia\. Cover: Salmo
 
-71 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
+72 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Mamma Mia](https://open.spotify.com/track/7d7xucQmFY7PoESyJm2V9J) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Mamma Mia](https://open.spotify.com/album/4hPNVvtU3MXV6Oefi11Zx3) | 2:46 | 2022-05-09 |  |
 | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5) | 3:00 | 2022-05-12 |  |
 | [MOLOTOV](https://open.spotify.com/track/788C9y2A5GSzMZ3uRYStBl) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [MOLOTOV](https://open.spotify.com/album/0CX9SGqogc6UNWCe0tG3Hu) | 2:40 | 2022-05-09 | 2022-05-28 |
+| [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 | 2022-06-01 |  |
 | [NLFP \(feat\. tha Supreme\)](https://open.spotify.com/track/7AINlTLLzoduGA7Aw7iUwf) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [tha Supreme](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [TRAUMA](https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe) | 2:37 | 2022-05-12 |  |
 | [No Joke \(feat\. MadMan\)](https://open.spotify.com/track/3PFDJgtrBif1ORn5As2hly) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [AMBIZIONE](https://open.spotify.com/album/7ojtnqVHOa5Z5GvUHWqfzL) | 2:24 | 2022-05-09 | 2022-05-13 |
 | [No Love \(feat\. CoCo\)](https://open.spotify.com/track/3EtI6sLY2w2l4oCQ1JSI5m) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 3:47 | 2022-05-09 | 2022-05-28 |

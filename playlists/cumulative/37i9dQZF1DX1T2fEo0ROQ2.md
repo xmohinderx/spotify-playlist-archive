@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-302 songs - 15 hr 58 min - not published yet
+302 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

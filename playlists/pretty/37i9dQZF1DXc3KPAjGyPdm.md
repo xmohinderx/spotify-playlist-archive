@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,211 likes - 180 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,633 likes - 180 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 10 | [Pass the Dutchie](https://open.spotify.com/track/0Z5J7G9K6yeNUBiTJZ033b) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:22 |
 | 11 | [Wipeout](https://open.spotify.com/track/5yTGv2Mu2O2APZAjMjTRXr) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 2:14 |
 | 12 | [Object Of My Desire \- Single Version](https://open.spotify.com/track/7EeACxTQ2CxM8bLu7canMw) | [Starpoint](https://open.spotify.com/artist/6W9OZQ862LR0HM76QQJJY3) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:54 |
-| 13 | [Rock Me Amadeus \- The Gold Mix \- Rough](https://open.spotify.com/track/0CxCB2wrEiTOrjES0GmSdP) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:46 |
+| 13 | [Rock Me Amadeus \- The Gold Mix](https://open.spotify.com/track/0CxCB2wrEiTOrjES0GmSdP) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:46 |
 | 14 | [Travelin' Man](https://open.spotify.com/track/0ud4DLDefQPNjvVEydOJhJ) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 2:20 |
 | 15 | [Tarzan Boy](https://open.spotify.com/track/2FIzb9lZDUo2PWX4U4TSWZ) | [Baltimora](https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:49 |
 | 16 | [Dream a Little Dream of Me](https://open.spotify.com/track/1LqHJtbJ7TLxer59vF25Hc) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:06 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 179 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 |
 | 180 | [Eight Fifteen](https://open.spotify.com/track/7bocrcIvqXs0tBFM5VI6Rf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 1:25 |
 
-Snapshot ID: `MTY1NDA0NjQ0NiwwMDAwMDAwMGQ3NjY0ZDhjZTZjMWNjZTU4ZGE3MTY4M2VlMWQ5NTNm`
+Snapshot ID: `MTY1NDExOTI5MSwwMDAwMDAwMGQ3NjY0ZDhjZTZjMWNjZTU4ZGE3MTY4M2VlMWQ5NTNm`

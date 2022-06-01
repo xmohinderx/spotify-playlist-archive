@@ -2,7 +2,7 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Ella Langley
+> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Avery Anna
 
 186 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
@@ -26,7 +26,7 @@
 | [Break Itself](https://open.spotify.com/track/5OClt9eDq31Rtgo9vjjOyJ) | [Tristan Bushman](https://open.spotify.com/artist/6nonbnzKA6j3TXU8MMwxvI) | [Break Itself](https://open.spotify.com/album/2ihBIQ0Ut209dFVpccNtpD) | 3:39 | 2021-12-31 |  |
 | [Breakup Szn](https://open.spotify.com/track/5pQXzRh20OsQxMaTYhelm7) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Breakup Szn](https://open.spotify.com/album/2axveu3fM08fxnR361iNwn) | 2:33 | 2021-12-31 |  |
 | [Broke It Down \- Remastered](https://open.spotify.com/track/7g3XsZcztJW1i7pD3RacWt) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Broke It Down \(Remastered\)](https://open.spotify.com/album/4kb0SKbENUF550V4mMo1b3) | 3:21 | 2021-12-31 |  |
-| [Broke to Brand New](https://open.spotify.com/track/2IsL0pEJRbIrkSATMlMgv8) | [Shantaia](https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T) | [Broke to Brand New](https://open.spotify.com/album/0C6wWwlv0Oh6uYc1kJOhDT) | 3:07 | 2022-03-11 |  |
+| [Broke to Brand New](https://open.spotify.com/track/2IsL0pEJRbIrkSATMlMgv8) | [Shantaia](https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T) | [Broke to Brand New](https://open.spotify.com/album/0C6wWwlv0Oh6uYc1kJOhDT) | 3:07 | 2022-03-11 | 2022-06-01 |
 | [Buzzkilla](https://open.spotify.com/track/2mnHIT6zav3oCFqQ2nO9cz) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Let Love Be Love](https://open.spotify.com/album/4Pw17nZHXxHSux3kpl26l7) | 2:52 | 2021-12-31 |  |
 | [California](https://open.spotify.com/track/7nzqTlte0dXVzhCqYtFYCY) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [California](https://open.spotify.com/album/1psx0StZRNxtb6qu08sDip) | 3:37 | 2021-12-31 |  |
 | [Can't Miss You Anymore](https://open.spotify.com/track/5DumfXKfywbfbhKWU09BZh) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Can't Miss You Anymore](https://open.spotify.com/album/0BhxONDOnJESzV6x6Md7tx) | 2:52 | 2021-12-31 |  |
@@ -44,7 +44,7 @@
 | [Damn You](https://open.spotify.com/track/2ChfZlDoaI34ZoAVzzTQQE) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/6C5pn8Iv7yow2MZFhycH0s) | 3:03 | 2022-05-01 |  |
 | [Damsel in this Dress](https://open.spotify.com/track/7ArpFETe69QZq26EZ9R3Gy) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Damsel in this Dress](https://open.spotify.com/album/4XtrizZf5lVQchM3vAOd9M) | 2:58 | 2021-12-31 |  |
 | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo) | 2:35 | 2022-03-25 |  |
-| [Doctor](https://open.spotify.com/track/4Nor2AyPPlYeXysD5vHcPY) | [Kamryn Palmer](https://open.spotify.com/artist/0l8kaiWF1RdEZUiUXAIccL) | [Doctor](https://open.spotify.com/album/3l0pKQEEQQnkTCgqcDsVwM) | 3:23 | 2022-02-11 |  |
+| [Doctor](https://open.spotify.com/track/4Nor2AyPPlYeXysD5vHcPY) | [Kamryn Palmer](https://open.spotify.com/artist/0l8kaiWF1RdEZUiUXAIccL) | [Doctor](https://open.spotify.com/album/3l0pKQEEQQnkTCgqcDsVwM) | 3:23 | 2022-02-11 | 2022-06-01 |
 | [Elephant](https://open.spotify.com/track/0XQVTP037rHv3D4zrAJo4J) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey](https://open.spotify.com/album/2TP01rVGpfAYeAie5op5el) | 3:20 | 2021-12-31 | 2022-01-08 |
 | [Even the Stars](https://open.spotify.com/track/4VUI8ZaB2FxFvFYhG2XOO7) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Even the Stars](https://open.spotify.com/album/4GHwtO4PjPA3rNNuEkFRi4) | 3:35 | 2022-03-04 |  |
 | [Every Last Thing](https://open.spotify.com/track/5qQNPkFOoOPT4IAlmHX0yH) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Every Last Thing](https://open.spotify.com/album/4vsOyrjgHxAsxklWp9DJ0X) | 2:44 | 2021-12-31 | 2022-01-08 |
@@ -71,7 +71,7 @@
 | [Highway](https://open.spotify.com/track/4CsoPg1tLA8iuWq3bMAI0U) | [Steven Diaz](https://open.spotify.com/artist/0E0l8nOxyJNHSWIszabgVZ) | [Highway](https://open.spotify.com/album/2Cu2YAFNVFsvBVy3PZzYxD) | 2:45 | 2021-12-31 |  |
 | [Hold My Hand](https://open.spotify.com/track/62MunltjvuU5mItRLL71pR) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Hold My Hand](https://open.spotify.com/album/0tzhIlyqB0awQxSH5v0IGy) | 2:34 | 2021-12-31 | 2022-01-22 |
 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 | 2021-12-31 |  |
-| [Hometown Highway](https://open.spotify.com/track/4MOeoHurTJMd9HpMsO2flS) | [Jessi Pugh](https://open.spotify.com/artist/2ZHxXcyfeWRavwu5J9YsIk) | [Hometown Highway](https://open.spotify.com/album/464qbeF75hopqROBcbpOIR) | 3:53 | 2022-05-06 |  |
+| [Hometown Highway](https://open.spotify.com/track/4MOeoHurTJMd9HpMsO2flS) | [Jessi Pugh](https://open.spotify.com/artist/2ZHxXcyfeWRavwu5J9YsIk) | [Hometown Highway](https://open.spotify.com/album/464qbeF75hopqROBcbpOIR) | 3:53 | 2022-05-06 | 2022-06-01 |
 | [How Do We Go](https://open.spotify.com/track/3ojKXnza6KIPy2VqvF0ttr) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [How Do We Go](https://open.spotify.com/album/5S1UrS5lAVcZZGi2zKNLUm) | 3:28 | 2021-12-31 |  |
 | [How Many Hangovers](https://open.spotify.com/track/7gSrde7a8HByZovujKZGfi) | [Baker Grissom](https://open.spotify.com/artist/33oGwiMtijTES49M0gJAEG) | [How Many Hangovers](https://open.spotify.com/album/1x3VIAjZ4s9HAIvqyP5Kxk) | 2:45 | 2021-12-31 |  |
 | [I Go Back to You](https://open.spotify.com/track/4KJWXMMbapd4ZzEFJiV2kk) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [I Go Back to You](https://open.spotify.com/album/3zMThHPhNdD6dTNJLG6wL4) | 3:17 | 2021-12-31 | 2022-01-08 |

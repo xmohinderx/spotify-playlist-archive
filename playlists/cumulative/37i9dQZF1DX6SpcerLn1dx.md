@@ -4,7 +4,7 @@
 
 > Get spooky with these creepy classics
 
-60 songs - 4 hr 4 min - not published yet
+60 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/5elA8CmvlycmDF2P3OXkCU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

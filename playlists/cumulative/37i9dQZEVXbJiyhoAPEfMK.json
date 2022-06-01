@@ -4434,6 +4434,24 @@
     },
     {
       "album": {
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322339,
+      "name": "Deutschland",
+      "url": "https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0"
+    },
+    {
+      "album": {
         "name": "Zeit",
         "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
       },
@@ -4805,6 +4823,28 @@
       "duration_ms": 149573,
       "name": "Double Cup",
       "url": "https://open.spotify.com/track/182ygO5g4XVEdixmap1ccY"
+    },
+    {
+      "album": {
+        "name": "M.A.T.G.A.",
+        "url": "https://open.spotify.com/album/6gmHg3JVM6ChhaAFNLcHIp"
+      },
+      "artists": [
+        {
+          "name": "GRMV",
+          "url": "https://open.spotify.com/artist/5CytxM5GBfX3oxMW17FaOg"
+        },
+        {
+          "name": "Pronto",
+          "url": "https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3r8n4EYp7J5Z6g3dooASb3"
     },
     {
       "album": {
@@ -11455,7 +11495,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
@@ -19557,7 +19597,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"

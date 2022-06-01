@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Senny \| Playlista odświeżana w każdy wtorek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,052 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,060 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 24 | [Być morze](https://open.spotify.com/track/7LmxxcDMWfXsEglsasosHB) | [Iksy](https://open.spotify.com/artist/7BoxZhjxvf3CPFFJvN0M5R) | [Na ślepo](https://open.spotify.com/album/2SPbK8Y6TGEc9AtBkWnxWs) | 3:43 |
 | 25 | [Wysoko](https://open.spotify.com/track/72IiMzAuf5lcklpDrovp0S) | [Decent Elephant](https://open.spotify.com/artist/42pE4wsWlji6ljEsOXjsBb) | [Wysoko](https://open.spotify.com/album/2GmjL56h3WKbTvT40kESDd) | 3:23 |
 | 26 | [Essence](https://open.spotify.com/track/793i06OKyWbKtiEdzbGZFe) | [Mundinova](https://open.spotify.com/artist/3Vb6lmYUNPoC46aAdcXWqA) | [Essence](https://open.spotify.com/album/6k3d3IMNtfZhs48zV6DFb1) | 4:18 |
-| 27 | [Gdzie jesteś?](https://open.spotify.com/track/5gEKbndynO9wfdvAxjaBxe) | [Spajku/Dziunek](https://open.spotify.com/artist/59Rik4l7RgbGXu9YcTw8GH), [Sandra Mika](https://open.spotify.com/artist/1dMHer5zjPgHylBGcYVkB0), [Kajetan Borowski](https://open.spotify.com/artist/1x2UZpxGpI1u6zsP2BuDTP) | [Gdzie jesteś?](https://open.spotify.com/album/6J9kFJWEhSwxrbME22jg6N) | 3:24 |
+| 27 | [Gdzie jesteś?](https://open.spotify.com/track/5gEKbndynO9wfdvAxjaBxe) | [Spajku/Dziunek](https://open.spotify.com/artist/59Rik4l7RgbGXu9YcTw8GH), [Sandra Mika](https://open.spotify.com/artist/1dMHer5zjPgHylBGcYVkB0), [Kajetan Borowski](https://open.spotify.com/artist/3TTFIdrb9JttQKaSPyvLcu) | [Gdzie jesteś?](https://open.spotify.com/album/6J9kFJWEhSwxrbME22jg6N) | 3:24 |
 | 28 | [kill urself!!!](https://open.spotify.com/track/2SjR3dJLSlP3UznNbcboy2) | [levie](https://open.spotify.com/artist/2f8SMIZ9FwAohqtDNKWwh2) | [kill urself!!!](https://open.spotify.com/album/6tQqnHOwccLwep5SboEcjK) | 3:00 |
 | 29 | [Genius Loci](https://open.spotify.com/track/0qWeJhflaDVmUg7ymHP9nt) | [NOBO](https://open.spotify.com/artist/6wSHpGqWHcdUsGztGMy6iE) | [Genius Loci](https://open.spotify.com/album/0l3m9IsMn3tHG2nPjW56zq) | 3:26 |
 | 30 | [Wiosna](https://open.spotify.com/track/2207cwhdgBcsgrQfuMhk6d) | [po prostu Kajtek](https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3) | [Wiosna](https://open.spotify.com/album/4wpsPGtL2VwzqFaGBB7sFS) | 3:30 |

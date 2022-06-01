@@ -4,7 +4,7 @@
 
 > Workout music for hamsters.
 
-40 songs - 2 hr 10 min - not published yet
+40 songs - 2 hr 10 min - [published](https://open.spotify.com/playlist/7kWSdWcCJPk2TXY65mMg6G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

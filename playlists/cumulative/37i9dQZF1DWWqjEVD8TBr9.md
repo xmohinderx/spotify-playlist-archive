@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY\. Are you a MANIAC?
 
-99 songs - 5 hr 32 min - not published yet
+100 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/0Vxp66pxUmZYhcNuoMA3LI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Wow \(Lee Know, Hyunjin, Felix\)](https://open.spotify.com/track/2OU8SjA9462FhrfqssKJJn) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:13 | 2022-03-18 |  |
 | [YAYAYA](https://open.spotify.com/track/3TdDuTNDALwxyPSy8mqVWY) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:22 | 2022-03-18 |  |
 | [You Can STAY](https://open.spotify.com/track/5VoUJEP8CmWmHrsmcAaNSh) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR) | 3:28 | 2022-03-18 |  |
+| [Your Eyes](https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Your Eyes](https://open.spotify.com/album/6bzE9nsQ1rXWUCsRQ18toq) | 3:16 | 2022-06-01 |  |
 | [끝나지 않을 이야기](https://open.spotify.com/track/0KHCa8hM5Jff6Ji0JxQYMb) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Extraordinary You Pt.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/03A9VqGceT6tpVwHV0X8dn) | 4:04 | 2022-03-18 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

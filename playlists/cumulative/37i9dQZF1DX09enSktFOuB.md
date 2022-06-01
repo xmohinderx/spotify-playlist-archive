@@ -4,7 +4,7 @@
 
 > Check out these funky Tanglish Love Tracks!<br/>Cover : Don
 
-53 songs - 3 hr 46 min - not published yet
+53 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/7xedrfD7XNjPN7rkUrccs6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Hear all of ENHYPEN's biggest and best hits in one playlist.
 
-39 songs - 1 hr 47 min - not published yet
+39 songs - 1 hr 47 min - [published](https://open.spotify.com/playlist/1rT41aZqBZS8Y2fAOD9mlZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

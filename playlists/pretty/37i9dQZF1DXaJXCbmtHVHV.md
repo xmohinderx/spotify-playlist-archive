@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 ### [Big Country](https://open.spotify.com/playlist/37i9dQZF1DXaJXCbmtHVHV)
 
-> The top country hits of the week across America! Cover: Miranda Lambert
+> The top country hits of the week across America! Cover: Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,200 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,332 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 49 | [Son Of A](https://open.spotify.com/track/1rf3DRmwoWekv6iT30MXlR) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A](https://open.spotify.com/album/5krj7eQSqb08k9RVxujeJ3) | 3:13 |
 | 50 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 |
 
-Snapshot ID: `MTY1NDAxNDcwMiwwMDAwMDBiOTAwMDAwMTgxMWFmNTc1MDIwMDAwMDE4MDgwNmNiYTYz`
+Snapshot ID: `MTY1NDA1NjAwMCwwMDAwMDBiYTAwMDAwMTgxMWQ2YjliMTcwMDAwMDE4MTFiZmMzMTZk`

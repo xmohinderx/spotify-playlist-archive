@@ -2,7 +2,7 @@
 
 ### [Country by the Grace of God](https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv)
 
-> The country way of testifying\. Cover: Hillary Scott
+> The country way of testifying\. Cover: Anne Wilson
 
 112 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 

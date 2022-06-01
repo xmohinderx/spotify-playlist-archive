@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-66 songs - 3 hr 8 min - not published yet
+66 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

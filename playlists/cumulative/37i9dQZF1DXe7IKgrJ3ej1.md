@@ -4,7 +4,7 @@
 
 > Nick and Charlie's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-35 songs - 1 hr 54 min - not published yet
+35 songs - 1 hr 54 min - [published](https://open.spotify.com/playlist/4bUrxD9GxEYmFXldvKnbCp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

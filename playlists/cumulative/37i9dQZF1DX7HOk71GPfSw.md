@@ -4,7 +4,7 @@
 
 > Cover: ericdoa
 
-1,277 songs - 2 day 9 hr 57 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
+1,278 songs - 2 day 9 hr 59 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -995,6 +995,7 @@
 | [shut up i don't want to talk](https://open.spotify.com/track/6imdTlpE7MOkqu6i334BXb) | [miraie](https://open.spotify.com/artist/3U2oWd07HPgl60o8RBMG4P) | [shut up i don't want to talk](https://open.spotify.com/album/0NLQw3ulzQfswyyftmdrOY) | 2:31 | 2021-05-27 | 2022-01-13 |
 | [sick](https://open.spotify.com/track/4c9sDWdPn61U5gkwlu8zke) | [bleach](https://open.spotify.com/artist/3lQ7lf6EHZzz2EhFBhVdtp) | [sick](https://open.spotify.com/album/5hLP6G8OzuxMDUjMjn7McU) | 2:46 | 2021-12-03 | 2022-03-17 |
 | [Sick Duck](https://open.spotify.com/track/7AYm98xV9UJiQYlENdO2dq) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [Sick Duck](https://open.spotify.com/album/67MgQff67S1DB5diFOUUfk) | 3:58 | 2020-10-13\* | 2021-01-08 |
+| [sidelines](https://open.spotify.com/track/1fbcwjzzLTQKlMYxL3kNGb) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [sidelines](https://open.spotify.com/album/5VBEvVidTlMK2zdLUwZnny) | 2:03 | 2022-06-01 |  |
 | [Signals](https://open.spotify.com/track/1UfcbobljhHelPn8oS3TEG) | [Chonzu](https://open.spotify.com/artist/5pIYnFi67hfcXkYIsMJ3qt), [Eugene Deluxe](https://open.spotify.com/artist/7HfFZCRJO08hmr8zUKsRrf) | [Signals](https://open.spotify.com/album/2LbOoMc93pDIA4mgwvj9zu) | 2:24 | 2021-08-14 | 2021-09-24 |
 | [Signatune](https://open.spotify.com/track/1Fbup4lGb1trmwL5uyju9V) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Lucky Boy](https://open.spotify.com/album/4rxyrUQ0T5tzLG3CJdlLAK) | 1:04 | 2021-05-08 | 2021-05-15 |
 | [Silver](https://open.spotify.com/track/4zkau5yMAm8DublNrrbShN) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [7G](https://open.spotify.com/album/0PHVIdlkceOpjYgvUER4Nd) | 2:02 | 2020-10-23 | 2021-02-10 |

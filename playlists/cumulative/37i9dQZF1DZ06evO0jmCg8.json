@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-31",
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
   "name": "This Is Arch Enemy",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5SBFjzLYdFjuhwvf3Pcpzt"
+  ],
   "tracks": [
     {
       "album": {
@@ -53,7 +55,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 278666,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/5N9O4qRT4FJudc5m632T45"
@@ -849,6 +851,24 @@
       "duration_ms": 309613,
       "name": "Through the Eyes of a Raven",
       "url": "https://open.spotify.com/track/5f60khlT0IoDy2ontDl3aD"
+    },
+    {
+      "album": {
+        "name": "War Eternal",
+        "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323533,
+      "name": "Time Is Black",
+      "url": "https://open.spotify.com/track/5aMAkoRfoGSa245NPn15iw"
     },
     {
       "album": {

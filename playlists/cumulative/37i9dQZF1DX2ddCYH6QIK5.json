@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Es brennt, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: JISKA, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 183481,
       "name": "a hundred times",
       "url": "https://open.spotify.com/track/7HV4c3hlmGtlOoNTsKjELM"
@@ -434,6 +434,24 @@
     },
     {
       "album": {
+        "name": "Ballet",
+        "url": "https://open.spotify.com/album/2Re3ykYtXdXHtKdHqExWFr"
+      },
+      "artists": [
+        {
+          "name": "Daada",
+          "url": "https://open.spotify.com/artist/6IgM3LTBZqe39HgR9M3vXk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206980,
+      "name": "Ballet",
+      "url": "https://open.spotify.com/track/1HRLsCPOgE5iYoeNWBrAg5"
+    },
+    {
+      "album": {
         "name": "I Love U I Do",
         "url": "https://open.spotify.com/album/4sY3a70JfKiVW9W4mzwuuL"
       },
@@ -553,7 +571,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 180000,
       "name": "Blaue Blumen",
       "url": "https://open.spotify.com/track/4QU1xM1OlMNCyXbALNSXtl"
@@ -759,7 +777,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 161201,
       "name": "Brich mein Herz",
       "url": "https://open.spotify.com/track/34ekTuJitl8eg2hhdIXmxv"
@@ -781,6 +799,24 @@
       "duration_ms": 241603,
       "name": "Can I Go Back",
       "url": "https://open.spotify.com/track/1Gy7444slrmcr7yGZOcMGM"
+    },
+    {
+      "album": {
+        "name": "Can You Hear Me",
+        "url": "https://open.spotify.com/album/0nwqXnuXC9BdUlWg8evM8B"
+      },
+      "artists": [
+        {
+          "name": "The Esprits",
+          "url": "https://open.spotify.com/artist/22j4Y02Y479I2lep4toE80"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183530,
+      "name": "Can You Hear Me",
+      "url": "https://open.spotify.com/track/63vvhVUCFoJhUPRbP2lVuc"
     },
     {
       "album": {
@@ -961,7 +997,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 255100,
       "name": "Damaged Goods",
       "url": "https://open.spotify.com/track/73F9DkiAcspOheOXaPaOKE"
@@ -1181,7 +1217,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 156767,
       "name": "Dreamer Boy",
       "url": "https://open.spotify.com/track/3izH5KQFkciw72mICh3zqj"
@@ -1480,6 +1516,24 @@
     },
     {
       "album": {
+        "name": "Flatterndes Herz",
+        "url": "https://open.spotify.com/album/7wMRjqu90pwlGDMXijXOTp"
+      },
+      "artists": [
+        {
+          "name": "Violetta Parisini",
+          "url": "https://open.spotify.com/artist/3vp4D4tEbItPZDDP67eS6a"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229849,
+      "name": "Flatterndes Herz",
+      "url": "https://open.spotify.com/track/2rDS7a2uG66AKSb20wU6nu"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/2PT8sTaxlKnBCsfuBcM4Z7"
       },
@@ -1495,6 +1549,24 @@
       "duration_ms": 164272,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6owOP78lODxI05xYo1NX8V"
+    },
+    {
+      "album": {
+        "name": "Foolmoon",
+        "url": "https://open.spotify.com/album/7tJ5tXbC6n4Y2i0wmmf3vF"
+      },
+      "artists": [
+        {
+          "name": "MIBLU",
+          "url": "https://open.spotify.com/artist/3HoYVojQrcPcPHFiO26sJh"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176785,
+      "name": "Foolmoon",
+      "url": "https://open.spotify.com/track/6yOvkJyCbf96mSuAXd1TcD"
     },
     {
       "album": {
@@ -1610,6 +1682,24 @@
     },
     {
       "album": {
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH"
+      },
+      "artists": [
+        {
+          "name": "JISKA",
+          "url": "https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213973,
+      "name": "Girl Next Door",
+      "url": "https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA"
+    },
+    {
+      "album": {
         "name": "The Souloist",
         "url": "https://open.spotify.com/album/0sqrHGOyrnjgkOJd7AAKtN"
       },
@@ -1621,7 +1711,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 147152,
       "name": "Give This Love A Try",
       "url": "https://open.spotify.com/track/1eg0giS9y2TyjaJLREfUwB"
@@ -1705,6 +1795,24 @@
       "duration_ms": 181941,
       "name": "Gone",
       "url": "https://open.spotify.com/track/7pfNckwkJxO7Leu7zHSPoA"
+    },
+    {
+      "album": {
+        "name": "Gravedigger",
+        "url": "https://open.spotify.com/album/4K1j35D9tFWOJe0qI4LpKx"
+      },
+      "artists": [
+        {
+          "name": "SUCK",
+          "url": "https://open.spotify.com/artist/7MxmGisbEwkQfFGkTfpkWA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149253,
+      "name": "Gravedigger",
+      "url": "https://open.spotify.com/track/65pHyuLVSdpjJNhf27H0Rh"
     },
     {
       "album": {
@@ -2011,7 +2119,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 318720,
       "name": "I Am Alive - Original Mix",
       "url": "https://open.spotify.com/track/1CWItV1c3LYMxpbXQL9R22"
@@ -2559,7 +2667,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 167567,
       "name": "Kommst du mit?",
       "url": "https://open.spotify.com/track/0CdXC4Jg7ZBaDplObNSedz"
@@ -2765,7 +2873,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 155572,
       "name": "Let's Leave",
       "url": "https://open.spotify.com/track/7pgDx26ZSbadWvbBdGwLuv"
@@ -2999,10 +3107,28 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 159000,
       "name": "Management",
       "url": "https://open.spotify.com/track/7uaKuL5UU8DT1EN0OizNvK"
+    },
+    {
+      "album": {
+        "name": "May",
+        "url": "https://open.spotify.com/album/3ucWTNA4vVFOEAPcwptgJg"
+      },
+      "artists": [
+        {
+          "name": "Jules",
+          "url": "https://open.spotify.com/artist/1DLdX3be3V4Bna9F45FtSg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "May",
+      "url": "https://open.spotify.com/track/3EOjSINT1L4FXt6bT33yl8"
     },
     {
       "album": {
@@ -3410,6 +3536,24 @@
     },
     {
       "album": {
+        "name": "One Drip Two Drip",
+        "url": "https://open.spotify.com/album/3hzMytDAg3VY44vrnaFa1R"
+      },
+      "artists": [
+        {
+          "name": "Dornika",
+          "url": "https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172561,
+      "name": "One Drip Two Drip",
+      "url": "https://open.spotify.com/track/1Vf3A4TbzYfOKOoca2Tcsc"
+    },
+    {
+      "album": {
         "name": "Out for Something",
         "url": "https://open.spotify.com/album/7ASdskcy04ncFp1DiJMv5n"
       },
@@ -3505,6 +3649,24 @@
       "duration_ms": 223000,
       "name": "Perspectives",
       "url": "https://open.spotify.com/track/1GO5INaTsHxBZ77Mlk755E"
+    },
+    {
+      "album": {
+        "name": "Phase",
+        "url": "https://open.spotify.com/album/1UBQuDBgQJdmRv7h6PEBvN"
+      },
+      "artists": [
+        {
+          "name": "Lyyla",
+          "url": "https://open.spotify.com/artist/5H6OTpeIDxT93fhApAb1lp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130750,
+      "name": "Phase",
+      "url": "https://open.spotify.com/track/6PLVJHVt6PlQrIo09sAyut"
     },
     {
       "album": {
@@ -4725,7 +4887,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 172380,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/6MeMT5vw3NP25NdXUOi7nr"
@@ -4837,6 +4999,24 @@
       "duration_ms": 210953,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/3qtLQbYiB5qXIYQdbZxuDf"
+    },
+    {
+      "album": {
+        "name": "Unimpressed & Unaroused",
+        "url": "https://open.spotify.com/album/3c4OA86zUOIsIuUe8IrvTo"
+      },
+      "artists": [
+        {
+          "name": "Tom Allan & The Strangest",
+          "url": "https://open.spotify.com/artist/63Qfjo4nnHhHvqTdtxTkw8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231028,
+      "name": "Unimpressed & Unaroused",
+      "url": "https://open.spotify.com/track/7HVZMddCslWkuXtG4xq8ZO"
     },
     {
       "album": {
@@ -5143,6 +5323,28 @@
       "duration_ms": 207999,
       "name": "wohin",
       "url": "https://open.spotify.com/track/2sAp8fbeTgikm6dDVsEeiV"
+    },
+    {
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/1tF5l3I3rjr45xhZLJwA1q"
+      },
+      "artists": [
+        {
+          "name": "Sina Moonlake",
+          "url": "https://open.spotify.com/artist/1I5HCfvxIJZeFa3t2W5WFO"
+        },
+        {
+          "name": "welovemelodies",
+          "url": "https://open.spotify.com/artist/1W2ldmWudOEjJB9QB9IX5b"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185629,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/5SqsoQjt86sbayXcW5XCiD"
     },
     {
       "album": {

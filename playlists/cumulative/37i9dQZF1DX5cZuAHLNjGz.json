@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-30",
   "description": "Remembering Sidhu Moose Wala.",
   "name": "Punjabi 101",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "65mo2NWVu4B5tAS7KU5k4E"
+  ],
   "tracks": [
     {
       "album": {
@@ -456,6 +458,24 @@
     },
     {
       "album": {
+        "name": "No Name",
+        "url": "https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8"
+    },
+    {
+      "album": {
         "name": "Excuses",
         "url": "https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9"
       },
@@ -705,7 +725,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 162524,
       "name": "Heart Attack",
       "url": "https://open.spotify.com/track/2Ycj9XXWp6cASuSA5UJ2Wo"
@@ -993,7 +1013,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 204130,
       "name": "Khabbi Seat",
       "url": "https://open.spotify.com/track/4aK30RcFKxsiF1gjLlH5Gt"
@@ -1621,6 +1641,24 @@
       "duration_ms": 195699,
       "name": "Shinin'",
       "url": "https://open.spotify.com/track/1qrAgbcxQpeaDv4ptgjl9e"
+    },
+    {
+      "album": {
+        "name": "Moosetape",
+        "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147741,
+      "name": "Signed to God",
+      "url": "https://open.spotify.com/track/3lRzVvMNG1QJcHlhLXM0lA"
     },
     {
       "album": {

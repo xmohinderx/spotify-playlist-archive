@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> now featuring tracks picked by Wet Leg ;\)
+> chat w/ <a href="https://open.spotify.com/show/6ohzfnHlDGhODyfgpegfmB?si=deeaa9df2d834a9d">Ethel Cain TODAY @5pm eastern on Lorem Live</a> w/ hosts max & dev\. cover: wet leggies
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,328 likes - 120 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,284 likes - 120 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 119 | [Hush \- Still Woozy Remix](https://open.spotify.com/track/4dGuRldChjvboZktprNJFM) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Hush \(Still Woozy Remix\)](https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI) | 3:02 |
 | 120 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 |
 
-Snapshot ID: `MTY1NDAxNzE0OSwwMDAwMDM4NzAwMDAwMTgxMWIxYWM4OGYwMDAwMDE4MTAzODEzNzY2`
+Snapshot ID: `MTY1NDA5MTg5OSwwMDAwMDM4ODAwMDAwMTgxMWY4ZjYwN2EwMDAwMDE4MTAzODEzNzY2`

@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: LAS(\ub77c\uc2a4))",
+  "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: oceanfromtheblue, Hookuo)",
   "name": "K-Are & Be",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0kvpJtsvIoyFKt5gsRYiS9"
+  ],
   "tracks": [
     {
       "album": {
@@ -841,6 +843,28 @@
       "duration_ms": 226960,
       "name": "The Gift",
       "url": "https://open.spotify.com/track/2PTnOo4kxWsyTlRc3hwiBo"
+    },
+    {
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/3NPRwip3fCgqzn6UCspufx"
+      },
+      "artists": [
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        },
+        {
+          "name": "Hookuo",
+          "url": "https://open.spotify.com/artist/6eBZRX3oKGthcmHWR8mpvf"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208124,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/44FuYikbGrbue8BqiVbYks"
     },
     {
       "album": {

@@ -656,6 +656,24 @@
     },
     {
       "album": {
+        "name": "backrooms",
+        "url": "https://open.spotify.com/album/0K5wytragV3Cp3Ow02aawS"
+      },
+      "artists": [
+        {
+          "name": "CLOUD",
+          "url": "https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198309,
+      "name": "Casino",
+      "url": "https://open.spotify.com/track/002iojUpmYteKQ9iZ3nPPg"
+    },
+    {
+      "album": {
         "name": "Cauchemars",
         "url": "https://open.spotify.com/album/3mKYIkjNT5rb6T8pwKPTGN"
       },
@@ -2028,6 +2046,24 @@
     },
     {
       "album": {
+        "name": "L'app\u00e9tit",
+        "url": "https://open.spotify.com/album/26PdACHB87VnkxaLEQitT2"
+      },
+      "artists": [
+        {
+          "name": "Myra",
+          "url": "https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177389,
+      "name": "L'app\u00e9tit",
+      "url": "https://open.spotify.com/track/1vOprAwZqZLHGt5H9ATza1"
+    },
+    {
+      "album": {
         "name": "L'exil",
         "url": "https://open.spotify.com/album/2FCRPQX5o6CQkiB0jT1P78"
       },
@@ -3002,7 +3038,7 @@
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 147000,
+      "duration_ms": 139125,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/4v8l0E113OJ7Vl0uborXcl"
     },
@@ -4677,7 +4713,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 162807,
       "name": "Tout",
       "url": "https://open.spotify.com/track/2zMymKds3giK1baWHElaaW"
@@ -4897,6 +4933,24 @@
       "duration_ms": 188440,
       "name": "Verre D'eau",
       "url": "https://open.spotify.com/track/5p8vq37UsDzRP0gyUuAUQz"
+    },
+    {
+      "album": {
+        "name": "VVS",
+        "url": "https://open.spotify.com/album/1B6aJqd81UUiv26edYifDe"
+      },
+      "artists": [
+        {
+          "name": "Turtle White",
+          "url": "https://open.spotify.com/artist/4F5LHjkVnCgcFF4I2W2i1A"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198688,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/73KIBzwN3tP4QCrNxp6Yqk"
     },
     {
       "album": {

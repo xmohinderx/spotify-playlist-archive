@@ -4,7 +4,7 @@
 
 > Pop, rock, funk, R&B, psychedelia—the man from Minneapolis was a true original and earth\-shattering performer\. Hear <a href="spotify:artist:5a2EaR3hamoenG9rDuVn8j">Prince Rogers Nelson</a>'s best right now.
 
-76 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/7fAjUWCKdwM8RcnPSoDoRu)
+77 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/7fAjUWCKdwM8RcnPSoDoRu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [The Ballad of Dorothy Parker](https://open.spotify.com/track/13UqaNF8STsJSGKxd12rmy) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 3:55 | 2021-04-09 |  |
 | [The Beautiful Ones](https://open.spotify.com/track/1BNtFSws7fjbn9aVBPA79j) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:13 | 2021-04-09 |  |
 | [The Morning Papers](https://open.spotify.com/track/1Q52V3Lq3yxsYaeZrPdPJZ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [\[Love Symbol\]](https://open.spotify.com/album/03JxJZCOK54jmkrhlDczlA) | 3:57 | 2021-04-09 |  |
+| [The Most Beautiful Girl In the World](https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Gold Experience](https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks) | 4:25 | 2022-06-01 |  |
 | [Thieves in the Temple](https://open.spotify.com/track/403oiKw757eJnbDKPSjhHV) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Music from Graffiti Bridge](https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE) | 3:20 | 2021-04-09 |  |
 | [THIS COULD BE US](https://open.spotify.com/track/5FahqUmF2xPV5e0mUEAlxK) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [ART OFFICIAL AGE](https://open.spotify.com/album/1xRg9g9QCGjFp9poxLnU5M) | 5:12 | 2021-04-09 |  |
 | [U Got the Look](https://open.spotify.com/track/2X6okzhnNPSzh9yxDMHHe3) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 3:47 | 2021-04-09 |  |

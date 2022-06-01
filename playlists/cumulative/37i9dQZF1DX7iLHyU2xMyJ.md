@@ -4,7 +4,7 @@
 
 > From Annakili to Psycho \- all the Essential tracks of Isaignani!<br/>Cover : Ilaiyaraaja
 
-406 songs - 1 day 7 hr 55 min - not published yet
+406 songs - 1 day 7 hr 55 min - [published](https://open.spotify.com/playlist/6FQ0rq1Q8eD3XiIYB2CdgA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Jon Hassell. The essential tracks, all in one playlist.",
   "name": "This Is Jon Hassell",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5utu6NSDQOYS6yo7sj1Zvx"
+  ],
   "tracks": [
     {
       "album": {
@@ -39,6 +41,24 @@
       "duration_ms": 320266,
       "name": "Air",
       "url": "https://open.spotify.com/track/5ocNutZquWbyiajH4MJQ9s"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312666,
+      "name": "Al Kongo Udu",
+      "url": "https://open.spotify.com/track/10FHvZrlRbTxfInlNxzO7F"
     },
     {
       "album": {
@@ -234,6 +254,24 @@
     },
     {
       "album": {
+        "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
+        "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344093,
+      "name": "Courtrais - Live",
+      "url": "https://open.spotify.com/track/2UKP0Z8tMyjI7NprsS6GsB"
+    },
+    {
+      "album": {
         "name": "Maarifa Street",
         "url": "https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D"
       },
@@ -263,7 +301,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 832160,
       "name": "Darbari Extension I",
       "url": "https://open.spotify.com/track/0yIk6ZU9HgVjBFv0LEO7WO"
@@ -411,7 +449,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 220533,
       "name": "Empire V",
       "url": "https://open.spotify.com/track/0KB13CC3lwVUmO8B324xBF"
@@ -601,7 +639,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 479893,
       "name": "Light On Water - Live",
       "url": "https://open.spotify.com/track/6A3NOW4IW0NtAKavtXeu6W"
@@ -734,6 +772,24 @@
     },
     {
       "album": {
+        "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
+        "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403040,
+      "name": "Northline - Live",
+      "url": "https://open.spotify.com/track/1m3zsapoK5CGtujd680k4c"
+    },
+    {
+      "album": {
         "name": "Power Spot",
         "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
       },
@@ -763,7 +819,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 239706,
       "name": "Pastorale Vassant",
       "url": "https://open.spotify.com/track/7429GeBCGutDEUPy1L4Uv4"
@@ -803,6 +859,24 @@
       "duration_ms": 427533,
       "name": "Power Spot",
       "url": "https://open.spotify.com/track/2W01MVAo5hFT1ybtruRc5c"
+    },
+    {
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136826,
+      "name": "Reykjavik",
+      "url": "https://open.spotify.com/track/7GgsPMF25JBJtXdC50bhSc"
     },
     {
       "album": {
@@ -879,7 +953,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 409693,
       "name": "Solaire",
       "url": "https://open.spotify.com/track/7Le2FN7uEVuHdbaxvxMTH4"
@@ -897,7 +971,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 293373,
       "name": "Sundown Dance",
       "url": "https://open.spotify.com/track/2r8ZZIipWHs1cDJk5Ot2Fx"
@@ -915,7 +989,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 668840,
       "name": "The Elephant And The Orchid",
       "url": "https://open.spotify.com/track/5eVpu8sD59T14iFoXwTxR5"
@@ -941,7 +1015,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 242080,
       "name": "the nothing of roselight - edit",
       "url": "https://open.spotify.com/track/0qFmsIBGZnhS0qMFkof3YZ"
@@ -959,7 +1033,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 228146,
       "name": "Time And Place",
       "url": "https://open.spotify.com/track/4yV0BSDSa2rphekLPysCy5"
@@ -1097,7 +1171,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 263306,
       "name": "Warm Shift",
       "url": "https://open.spotify.com/track/148rRRlYecJVRehmVnY5yQ"

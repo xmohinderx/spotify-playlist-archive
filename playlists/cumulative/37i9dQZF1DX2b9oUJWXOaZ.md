@@ -4,7 +4,7 @@
 
 > A playlist celebrating the range of Asian and Pacific Islander talent from your favorite TV shows and movies, brought to you by CAPE \(Coalition of Asian Pacifics in Entertainment\)\. Cover: Auli'i Cravalho
 
-52 songs - 2 hr 54 min - not published yet
+52 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/3e04h7LMeTqDMd23GQD7Ie)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

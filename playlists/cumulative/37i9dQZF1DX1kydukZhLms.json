@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-31",
   "description": "A collection of the best metal ballads.",
   "name": "Metal Ballads",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2c4OCmgadzEHr3ZwZYA4VJ"
+  ],
   "tracks": [
     {
       "album": {
@@ -251,7 +253,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 342426,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA"
@@ -323,7 +325,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 211986,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/7FfE0EoQSsliADYgdxFChG"
@@ -413,7 +415,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 221466,
       "name": "Cries In The Night",
       "url": "https://open.spotify.com/track/2N5PoFlObCe4nTTtdLHe0k"
@@ -492,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354640,
+      "name": "Don't Know What You Got (Till It's Gone)",
+      "url": "https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW"
+    },
+    {
+      "album": {
         "name": "Quiet Riot",
         "url": "https://open.spotify.com/album/07Pd9jV84GGRyAO2RrQsSG"
       },
@@ -503,7 +523,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 301266,
       "name": "Don't Wanna Be Your Fool",
       "url": "https://open.spotify.com/track/0S5no2cN1esY74TYCsKbXG"
@@ -726,6 +746,24 @@
     },
     {
       "album": {
+        "name": "Rock And Roll Over (Remastered Version)",
+        "url": "https://open.spotify.com/album/0SnCUvff87FWw0m9Lxp51D"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "Hard Luck Woman",
+      "url": "https://open.spotify.com/track/0UBURW2bWwn8bSWtU53444"
+    },
+    {
+      "album": {
         "name": "Kings of Metal",
         "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
       },
@@ -881,10 +919,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 366106,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/04F7U1dwwtwaCRuXGQ50aB"
+    },
+    {
+      "album": {
+        "name": "Rage For Order (Remastered) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/4bcTrCj8wfKsFMv8O0NwDe"
+      },
+      "artists": [
+        {
+          "name": "Queensr\u00ffche",
+          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278200,
+      "name": "I Will Remember - Remastered",
+      "url": "https://open.spotify.com/track/2a3AywJ9UUwws73WLguDzd"
     },
     {
       "album": {
@@ -1050,6 +1106,24 @@
     },
     {
       "album": {
+        "name": "Animal Magnetism",
+        "url": "https://open.spotify.com/album/3OPlpf0FMNoSD6FtO3o7BE"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376920,
+      "name": "Lady Starlight - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4Ycq21agkBKnbcDlebi85v"
+    },
+    {
+      "album": {
         "name": "Monuments",
         "url": "https://open.spotify.com/album/0FqbEsI2QXEaDVGMxslJoa"
       },
@@ -1083,6 +1157,24 @@
       "duration_ms": 313533,
       "name": "Last Drop Falls",
       "url": "https://open.spotify.com/track/4bSetRYOPYAMlLc9mgEGr0"
+    },
+    {
+      "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167906,
+      "name": "Lonely Day",
+      "url": "https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX"
     },
     {
       "album": {
@@ -1205,7 +1297,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 326933,
       "name": "Master of the Wind",
       "url": "https://open.spotify.com/track/2rDIYysZGyx68TWlBdvjqk"
@@ -1223,7 +1315,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 428426,
       "name": "Might As Well Be On Mars",
       "url": "https://open.spotify.com/track/32Z3DgoryCdqcg9eaLTbnc"
@@ -1281,6 +1373,24 @@
       "duration_ms": 351760,
       "name": "Navigate The Seas Of The Sun",
       "url": "https://open.spotify.com/track/0zCiI3Jp5TRXAVqcCHBKr7"
+    },
+    {
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288933,
+      "name": "Never Say Goodbye",
+      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
     },
     {
       "album": {
@@ -1356,6 +1466,24 @@
     },
     {
       "album": {
+        "name": "REISE, REISE",
+        "url": "https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271173,
+      "name": "OHNE DICH",
+      "url": "https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen"
+    },
+    {
+      "album": {
         "name": "Trash",
         "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
       },
@@ -1403,7 +1531,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 290546,
       "name": "Our Loved Ones",
       "url": "https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1"
@@ -1475,7 +1603,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 430826,
       "name": "Prisoner of Your Eyes",
       "url": "https://open.spotify.com/track/2VLwPKY2gaBxGxwgmwRDUf"
@@ -1583,7 +1711,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 311600,
       "name": "Scarlet Rose",
       "url": "https://open.spotify.com/track/1I0oWAoXKhCp9VgLeuU9l0"
@@ -1673,7 +1801,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 276146,
       "name": "Snuff",
       "url": "https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi"
@@ -1727,7 +1855,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 320466,
       "name": "Tallulah",
       "url": "https://open.spotify.com/track/3G80CgLA7ziD8i40s6uKQN"
@@ -1803,6 +1931,24 @@
       "duration_ms": 262560,
       "name": "The Deeper the Love",
       "url": "https://open.spotify.com/track/2lESR3q3ZdMYKHYsdfK4rz"
+    },
+    {
+      "album": {
+        "name": "Legacy Of Kings",
+        "url": "https://open.spotify.com/album/0fUPza5cyHb9ZeAZzQInyN"
+      },
+      "artists": [
+        {
+          "name": "HammerFall",
+          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263666,
+      "name": "The Fallen One",
+      "url": "https://open.spotify.com/track/38YmhZ5WWpjAeYTYgOZ356"
     },
     {
       "album": {
@@ -1932,6 +2078,24 @@
     },
     {
       "album": {
+        "name": "Time for Deliverance",
+        "url": "https://open.spotify.com/album/3uGBO49QhpPEmL2qJyQq3F"
+      },
+      "artists": [
+        {
+          "name": "Gamma Ray",
+          "url": "https://open.spotify.com/artist/6LZE884lDIsCSLHuTplfGp"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310179,
+      "name": "Time for Deliverance",
+      "url": "https://open.spotify.com/track/0ER3L5gT383SSavs0oyUGh"
+    },
+    {
+      "album": {
         "name": "Forever Autumn",
         "url": "https://open.spotify.com/album/4xm57nNogd90JjICFA7npT"
       },
@@ -1943,7 +2107,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 495266,
       "name": "To Blossom Blue",
       "url": "https://open.spotify.com/track/3O4OXDnlSiPmUcK3nEMclw"
@@ -2023,7 +2187,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 268906,
       "name": "Watching over Me - Remixed & Remastered",
       "url": "https://open.spotify.com/track/07thLbY0eGli2xWWIPdrN2"
@@ -2221,7 +2385,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 333906,
       "name": "You Make Me Feel",
       "url": "https://open.spotify.com/track/2YHo1AiKXq1fMgWV2zxj8y"

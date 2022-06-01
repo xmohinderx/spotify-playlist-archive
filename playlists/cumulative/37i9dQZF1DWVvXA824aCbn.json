@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 339933,
       "name": "A Nightingale Sang in Berkeley Square",
       "url": "https://open.spotify.com/track/0qgA48HiqZZiCsfZxKuqRj"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 230192,
       "name": "Akaishi",
       "url": "https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 438600,
       "name": "As Times Goes By",
       "url": "https://open.spotify.com/track/3S7gPyRE9cjd5IXCh1WAWK"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 174500,
       "name": "Birds Down South",
       "url": "https://open.spotify.com/track/6wBo7Hme7JU3OCULiY72I6"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2021-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 377066,
       "name": "Blame It on My Youth",
       "url": "https://open.spotify.com/track/1i6PhtGyfiWmnDg6BBaigZ"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 222508,
       "name": "Comme Il Faut",
       "url": "https://open.spotify.com/track/575lRFJnR1wGYPN4r6qoi5"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 197352,
       "name": "Con Alba",
       "url": "https://open.spotify.com/track/0f0MxPmuo6W577AUYozNVr"
@@ -1195,7 +1195,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 742560,
       "name": "Free",
       "url": "https://open.spotify.com/track/6wYs5HI0HGlKnt6bJTu5ZA"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 248281,
       "name": "Going Our Separate Ways",
       "url": "https://open.spotify.com/track/5gk8Zfd0JaAEfSmxr57xdg"
@@ -1379,6 +1379,24 @@
       "duration_ms": 221200,
       "name": "Here's That Rainy Day",
       "url": "https://open.spotify.com/track/6KLKhehBgujRbKk4Y3RkfC"
+    },
+    {
+      "album": {
+        "name": "Honey, You Are My Everything",
+        "url": "https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID"
+      },
+      "artists": [
+        {
+          "name": "Danny Ryan Jazz Band",
+          "url": "https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259642,
+      "name": "Honey, You Are My Everything",
+      "url": "https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623"
     },
     {
       "album": {
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 326625,
       "name": "Ill Wind",
       "url": "https://open.spotify.com/track/1fGWnQDdV8CTQoB2Fdh7en"
@@ -2049,7 +2067,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 270614,
       "name": "In the Wee Small Hours of the Morning",
       "url": "https://open.spotify.com/track/6GqdOl9kasXJdzfcUboF1a"
@@ -2337,7 +2355,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 138727,
       "name": "je vivrai sans toi",
       "url": "https://open.spotify.com/track/1U7yoZQ8k0wFyyp43HU4Nf"
@@ -2661,7 +2679,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 220410,
       "name": "Love Walked In",
       "url": "https://open.spotify.com/track/1H460eor4CG8p8OAz7TGYM"
@@ -3227,7 +3245,7 @@
       ],
       "date_added": "2021-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 294933,
       "name": "Repetition",
       "url": "https://open.spotify.com/track/5110P5yc85WSckGmf47eA9"
@@ -3375,7 +3393,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 261090,
       "name": "September Song",
       "url": "https://open.spotify.com/track/5K9W2clr01zZZVu80avRLA"
@@ -3779,7 +3797,7 @@
       ],
       "date_added": "2021-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 635266,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/32pQP3XD7rIYraHKMVq9pu"
@@ -3797,7 +3815,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 158855,
       "name": "Sun Souls",
       "url": "https://open.spotify.com/track/38YetMSYVQW7jRN1CxaHpA"
@@ -4175,7 +4193,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 316000,
       "name": "Theme for Ernie",
       "url": "https://open.spotify.com/track/7BBjGMkN02GH8apJ7hobZp"
@@ -4391,7 +4409,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 226515,
       "name": "Very Early",
       "url": "https://open.spotify.com/track/7jkBFtRrtzVaWxD9akzRsH"
@@ -4427,7 +4445,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 287130,
       "name": "Wedgewood",
       "url": "https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4"
@@ -4661,7 +4679,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 227428,
       "name": "You Gets You",
       "url": "https://open.spotify.com/track/7iwkqiTANcoolkeTwZygcb"

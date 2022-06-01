@@ -4,7 +4,7 @@
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: Parkway Drive
 
-50 songs - 3 hr 14 min - not published yet
+50 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

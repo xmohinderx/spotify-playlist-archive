@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Rhove, Salmo, SEVEN 7oo e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,870 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,933 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 15 | [EGO](https://open.spotify.com/track/6i88tx7811AzFNDknwILat) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/0iJVjnO4uw4vTJImGTwyXb) | 2:51 |
 | 16 | [MI ANTHEM](https://open.spotify.com/track/3k4O2cb414A8GS6Tzk4tiN) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Verano](https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 2:09 |
 | 17 | [EURO](https://open.spotify.com/track/3rzEdUTRzNQym0aiexeSy7) | [LUCHITOS](https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX), [Draw Ice](https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG) | [EURO](https://open.spotify.com/album/5n6v2WO3aJLR8s7WJBeEru) | 2:48 |
-| 18 | [Lacoste 3](https://open.spotify.com/track/3yC4Kyj5a9VHGzxkXjJpqA) | [Laroi](https://open.spotify.com/artist/38ntwE6U0glm5X0Cg0Zhje), [Kalash247](https://open.spotify.com/artist/0uWqSeCUMHjnUwa3Ia3ZcL), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Lacoste 3](https://open.spotify.com/album/422FB0TYxeguMqC7pieW8i) | 2:37 |
+| 18 | [Lacoste 3](https://open.spotify.com/track/3yC4Kyj5a9VHGzxkXjJpqA) | [Laroi](https://open.spotify.com/artist/38ntwE6U0glm5X0Cg0Zhje), [Kalash247](https://open.spotify.com/artist/5Zibl7P09GPJUG1nK9unxD), [Kassimi](https://open.spotify.com/artist/2jv23mCQKTeRQpm1UHsl58) | [Lacoste 3](https://open.spotify.com/album/422FB0TYxeguMqC7pieW8i) | 2:37 |
 | 19 | [Silenzioso](https://open.spotify.com/track/6LwupnM2Cd5bvKcegSXBWF) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Tempoxso](https://open.spotify.com/artist/1iVTp6WbD6ajQlBHtGoOUq) | [Silenzioso](https://open.spotify.com/album/0wmn2eLaiFYf2qN57RcWgH) | 2:05 |
 | 20 | [NVNSNP \(feat\. Sacky, Neima Ezza, Kilimoney, Keta, Nko\)](https://open.spotify.com/track/125tb3apTnaopglXzXszi3) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 2:59 |
 | 21 | [L'ORGIA DI M.G\. \(feat\. Dargen D'Amico\)](https://open.spotify.com/track/19wovENEcugutVlegaHHfc) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 2:17 |

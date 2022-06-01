@@ -4,7 +4,7 @@
 
 > This is System Of A Down\. The essential tracks, all in one playlist.
 
-32 songs - 1 hr 47 min - not published yet
+32 songs - 1 hr 47 min - [published](https://open.spotify.com/playlist/5BgiztDyg4Q7hnRKYmtEji)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

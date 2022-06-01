@@ -2,12 +2,13 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\.  Artist: Kassi Ashton
+> Country gone wild! You never know what you're gonna get\. Artist: Tyler Hubbard
 
-218 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+219 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-06-01 |  |
 | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/track/0RNHYswDxxq1xooRh3PLza) | [Avila Brothers](https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/album/4xcTuorr2ywyrsnbzXqTbM) | 2:47 | 2022-04-01 |  |
 | [AA](https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [AA](https://open.spotify.com/album/7m5hJYb9a0sxNstIKm3PPz) | 3:09 | 2021-12-10 |  |
 | [Accidentally on Purpose](https://open.spotify.com/track/1aFf7UJwTpI5AV1xfLXlhJ) | [Love and Theft](https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t) | [Accidentally on Purpose](https://open.spotify.com/album/2s4FZW0AtYfV1PTrM2vjKm) | 3:04 | 2021-12-10 |  |

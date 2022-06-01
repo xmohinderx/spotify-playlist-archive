@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 275200,
       "name": "#tb",
       "url": "https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 182420,
       "name": "3 Months",
       "url": "https://open.spotify.com/track/2bm7HuBe4qhsVwwbm5rbWZ"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 212466,
       "name": "ACACIA",
       "url": "https://open.spotify.com/track/5skqcVEBZpXIEICB0yj3XI"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 173461,
       "name": "Allure",
       "url": "https://open.spotify.com/track/0SVv5Q6Z3Z0hC1Pq1dzdmP"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 199640,
       "name": "Better",
       "url": "https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 185796,
       "name": "BIRTHDAY",
       "url": "https://open.spotify.com/track/3jsWXhE5NuPWQ4IHplv2zt"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 212842,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3R8iyJpmhI9ABDmTpetV2D"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 209207,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 208022,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3cs3lGvmdiksYhEn8nnslm"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 221813,
       "name": "Gotta Go",
       "url": "https://open.spotify.com/track/0xq4ZTcmwBfkPGo4RRKmMe"
@@ -1339,7 +1339,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 318000,
       "name": "How Do You Feel \uc5b4\ub5a8 \uac83 \uac19\uc544",
       "url": "https://open.spotify.com/track/13TsBlKDFHcBrxCzAZv3qy"
@@ -1404,6 +1404,24 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195053,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH"
+    },
+    {
+      "album": {
         "name": "something special",
         "url": "https://open.spotify.com/album/3Ha8vvyu0uV6e7b3oFsuAc"
       },
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 197130,
       "name": "In Your Dreams",
       "url": "https://open.spotify.com/track/7CUhiFVEFhnmCoUM2NBfgs"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 197479,
       "name": "My Trouble",
       "url": "https://open.spotify.com/track/0OQQTmbThttTpDoF4t5DmP"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 189677,
       "name": "Need You - solo ver.",
       "url": "https://open.spotify.com/track/4xzpDr5XZoorumaEv178Od"
@@ -2267,7 +2285,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 248080,
       "name": "Pantomime",
       "url": "https://open.spotify.com/track/0mqHEMJdDzes00D9IToXPX"
@@ -2477,7 +2495,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 206960,
       "name": "Purr",
       "url": "https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx"
@@ -2549,7 +2567,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 201320,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/5jjTsBPfe6u9sD9u4CSvjr"
@@ -2589,7 +2607,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 187320,
       "name": "Red Lipstick (feat. Yoonmirae)",
       "url": "https://open.spotify.com/track/7nJc2Oxfn7xRX3eF4hltyl"
@@ -2607,7 +2625,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 255466,
       "name": "Red Sun - Remix",
       "url": "https://open.spotify.com/track/7bxYAZcTh7QJ3KpV4vOjte"
@@ -2625,7 +2643,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 253413,
       "name": "Red Sun!",
       "url": "https://open.spotify.com/track/5mxK8CuKCqxW7HlBjBtmRS"
@@ -2794,6 +2812,24 @@
     },
     {
       "album": {
+        "name": "<Queendom2> FANtastic QUEENDOM 1-2",
+        "url": "https://open.spotify.com/album/4WdZvIgh5ok6IrTKBx1UFA"
+      },
+      "artists": [
+        {
+          "name": "Hyolyn",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207906,
+      "name": "See Sea, BAE",
+      "url": "https://open.spotify.com/track/1FaFCInUMdizjVUKkMZxro"
+    },
+    {
+      "album": {
         "name": "Seiren",
         "url": "https://open.spotify.com/album/1j3OwiDesda3wbEvmtCzBq"
       },
@@ -2903,7 +2939,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 243346,
       "name": "So What",
       "url": "https://open.spotify.com/track/2O6xWo72i6URMHmWVu4zgy"
@@ -3069,7 +3105,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 198451,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/0T1OJqhF2ihqavFfxbiOO8"
@@ -3091,7 +3127,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 162880,
       "name": "Tell me now",
       "url": "https://open.spotify.com/track/2kIYgg1tOBTjs7XLZNwuSs"
@@ -3109,7 +3145,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "The Best Ending",
       "url": "https://open.spotify.com/track/2r8ndLpyDjYJo0q03AMo5s"
@@ -3229,7 +3265,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 186586,
       "name": "THINK",
       "url": "https://open.spotify.com/track/7upOvB292V6qszi7M3QqD9"
@@ -3425,7 +3461,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 244320,
       "name": "UNNATURAL",
       "url": "https://open.spotify.com/track/4WPzzmGai2WYDwLFI86RAh"
@@ -3541,7 +3577,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 191758,
       "name": "We'll be alright",
       "url": "https://open.spotify.com/track/28b6eAJ9TMthHN7BWylfnM"
@@ -3559,7 +3595,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 167746,
       "name": "What Do I Call You",
       "url": "https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr"
@@ -3653,7 +3689,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 236816,
       "name": "Wind flower",
       "url": "https://open.spotify.com/track/2qwyjoSsSr3M7HTt611Q5O"
@@ -3797,7 +3833,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 215399,
       "name": "You are crying",
       "url": "https://open.spotify.com/track/1RzGO4GqUocNck4l8iTD5r"

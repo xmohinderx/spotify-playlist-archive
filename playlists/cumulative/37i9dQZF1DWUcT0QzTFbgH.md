@@ -4,7 +4,7 @@
 
 > All the music from Michaela Coel’s new HBO series, I May Destroy You, now streaming on  <a href="https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ">HBO Max</a>
 
-80 songs - 5 hr 8 min - not published yet
+80 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/5Tbd4QpWdncHbWQkHUpL2F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

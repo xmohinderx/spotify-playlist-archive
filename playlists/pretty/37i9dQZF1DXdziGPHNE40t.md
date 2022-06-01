@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > Start your day with calm and cool jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,261 likes - 111 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,449 likes - 111 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

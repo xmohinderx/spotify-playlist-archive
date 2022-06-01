@@ -4,7 +4,7 @@
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music\. Cover: <a href="spotify:artist:69NjH5MsRLr0CX0zSlGmN3">Jake Shimabukuro</a>
 
-52 songs - 3 hr 16 min - not published yet
+52 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/1jo88XDGrRdHEAZh0fJEh3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

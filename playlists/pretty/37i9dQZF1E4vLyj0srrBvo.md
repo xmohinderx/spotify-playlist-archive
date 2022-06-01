@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Purity Ring, POLIÇA, Sky Ferreira and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,070 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,078 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [FMU \(feat\. Rico Nasty\)](https://open.spotify.com/track/5AD8DWoQa4NGe2WagH4YF2) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [SEXORCISM](https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL) | 2:58 |
 | 50 | [sea castle](https://open.spotify.com/track/5CBpq7vVKGHIer9BVbBaWD) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/5ydKh3bO3jF6oZWkBrzwpn) | 3:27 |
 
-Snapshot ID: `MTY1NDA0NjU0OSwwMDAwMDAwMDQ2YTEzYTZjZGQ1MzllYmUxMjY3MDRmNTY5YTA1MGNj`
+Snapshot ID: `MTY1NDExOTM4OCwwMDAwMDAwMDQ2YTEzYTZjZGQ1MzllYmUxMjY3MDRmNTY5YTA1MGNj`

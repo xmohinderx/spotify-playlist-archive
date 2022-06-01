@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-30",
   "description": "Background scores to help you sail through the day",
   "name": "Bollywood Themes",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5ffbZDKT29D992GCzH9rQa"
+  ],
   "tracks": [
     {
       "album": {
@@ -35,7 +37,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 255813,
       "name": "Andhadhun Theme 01",
       "url": "https://open.spotify.com/track/62KAX5PbRgblMOiHxGK4r4"
@@ -93,7 +95,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 178573,
       "name": "Bharat Humko Jaan Se Pyara Hai - Instrumental",
       "url": "https://open.spotify.com/track/4DvqMMVGLTYfDCAPGCt7hf"
@@ -119,7 +121,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 89721,
       "name": "Charminar",
       "url": "https://open.spotify.com/track/3fbM7XnAJOF5S4W3cqJhJd"
@@ -311,7 +313,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 81966,
       "name": "I'm On (Theme)",
       "url": "https://open.spotify.com/track/53smqbWww0YmOlRyRjZT1h"
@@ -329,7 +331,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 341611,
       "name": "Implosive Silence",
       "url": "https://open.spotify.com/track/4YNnOnlzDCWHujthPSPke8"
@@ -419,7 +421,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 188197,
       "name": "Latika's Theme",
       "url": "https://open.spotify.com/track/0SLE7g1g6V6zBm3alHrsCt"
@@ -455,7 +457,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 244626,
       "name": "Madras Cafe Theme",
       "url": "https://open.spotify.com/track/0cJDxizZXI4mXhAIv3StRm"
@@ -809,7 +811,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 208720,
       "name": "The Don Waltz",
       "url": "https://open.spotify.com/track/5XcOoA1V7bj4g2I49dOXbk"
@@ -863,7 +865,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 181920,
       "name": "The Oracle (From \"99 Songs\")",
       "url": "https://open.spotify.com/track/1bzq0AWObA7m4uJA7Lhn4y"
@@ -935,7 +937,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 288995,
       "name": "Theme Music",
       "url": "https://open.spotify.com/track/1iJuyhTHtRH7daVt9tRP7g"

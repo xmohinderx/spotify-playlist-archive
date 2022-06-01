@@ -4,7 +4,7 @@
 
 > A podcast playlist where women of all experiences share the stories that keep them going.
 
-0 song - 0 sec - not published yet
+0 song - 0 sec - [published](https://open.spotify.com/playlist/6BnXBdKDTMGwzEjooL87Wj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

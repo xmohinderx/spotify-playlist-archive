@@ -4,7 +4,7 @@
 
 > Lights on you.
 
-101 songs - 5 hr 43 min - not published yet
+101 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

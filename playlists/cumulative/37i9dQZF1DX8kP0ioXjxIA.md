@@ -4,7 +4,7 @@
 
 > BLACKPINK in our area!
 
-38 songs - 2 hr 5 min - not published yet
+38 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/4rpz4c4LPfQuPugTkBiX1N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

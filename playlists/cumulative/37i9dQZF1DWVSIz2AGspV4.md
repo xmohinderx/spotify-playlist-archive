@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: أصيل هميم
 
-123 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+124 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bip Bip](https://open.spotify.com/track/73XuHgCCWeG9xVQTGGfyxR) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Bip Bip](https://open.spotify.com/album/69bn20UloS5fQKpAzs4WL0) | 2:24 | 2021-12-23 | 2022-01-14 |
 | [Bs](https://open.spotify.com/track/0QgWg0PqHSZrXtbROjFKWZ) | [Oras Sattar](https://open.spotify.com/artist/7CZtgfwlF64ys2ilQfhrkT) | [Bs](https://open.spotify.com/album/0QqSaxWfGnlf1cEVhlv3QD) | 3:16 | 2021-12-23 | 2022-04-06 |
 | [Chanak Maie](https://open.spotify.com/track/295ovqtdTp6hfkm9vdoe6b) | [Asad AlFaris](https://open.spotify.com/artist/2Onv3ddpJN6BIpxpE4Drh3) | [Chanak Maie](https://open.spotify.com/album/06a1Roqbrkl7c6bfIBlZHF) | 3:01 | 2022-05-13 |  |
+| [Dabrole Dam3a](https://open.spotify.com/track/5k1u7jIpoKQSR90fbiJINY) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Dabrole Dam3a](https://open.spotify.com/album/64iTFqHAC2Ag4PGTV3AkZW) | 3:47 | 2022-06-01 |  |
 | [Dag El Galb](https://open.spotify.com/track/1YZwEiO1KyH9IFHwrMSl6u) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dag El Galb](https://open.spotify.com/album/69Ezh1ncGl5mV9C6Yj7NE3) | 3:10 | 2021-12-23 | 2022-02-10 |
 | [Dam Rasak](https://open.spotify.com/track/7p9XzKJgRVoFSclb4rtirn) | [Hasan Al Hayel](https://open.spotify.com/artist/0kFt9AEb81FjfcZYySEIit) | [Dam Rasak](https://open.spotify.com/album/6UDXOrXiBPyd1nO0hi5BsV) | 3:01 | 2021-12-23 | 2022-03-04 |
 | [Daqeqa w 3am](https://open.spotify.com/track/1XTbPVrq3N4xmviSRKLr1P) | [Humam Ibrahim](https://open.spotify.com/artist/5G8jeOHN04AHRt5Ln3kbX4) | [Daqeqa w 3am](https://open.spotify.com/album/0Y545sQM8fPudYGBAzlmuj) | 3:14 | 2022-02-17 |  |

@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ego apartment
 
-214 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+215 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [run.](https://open.spotify.com/track/7h0LrbAW3YQf7IIa3Bwzuc) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [run.](https://open.spotify.com/album/6czoxk1n3RVjncUIIP8S9B) | 3:56 | 2022-04-05 | 2022-05-25 |
 | [SAKURAドロップス](https://open.spotify.com/track/3bI8jTYxZxSX8u1lYAYBnh) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [SAKURAドロップス / 面影](https://open.spotify.com/album/6WpFtYm4xhwalELWPeAmNx) | 4:41 | 2022-02-17 | 2022-02-23 |
 | [sanagi](https://open.spotify.com/track/1Za4ziatjztmnabABlmqfe) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [sanagi](https://open.spotify.com/album/03slNGQYgZzvdeWvOKzZR3) | 3:18 | 2022-05-24 |  |
+| [Scent of home](https://open.spotify.com/track/1zWvRXh2Mn9aN9rstdelIP) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Scent of home](https://open.spotify.com/album/6iBoeNxGMFOTeX3ANDBjDR) | 3:26 | 2022-06-01 |  |
 | [small talk](https://open.spotify.com/track/0HoMxHkUCFEGpJ6IVML8XO) | [Misato Ono](https://open.spotify.com/artist/6ksgv4sgEwgX9IjBuWR4AZ) | [small talk](https://open.spotify.com/album/5bG9WMj67816n2pprdIgc0) | 4:25 | 2022-02-22 | 2022-03-30 |
 | [Small World](https://open.spotify.com/track/0wRayZpIP9rv3gGz3jQPlp) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Small World](https://open.spotify.com/album/1pPlX9beCj4fdbNYeqD7kH) | 4:42 | 2022-03-01 | 2022-05-11 |
 | [SOMEDAY \- Itsuka \(feat\. tonun\) \- 45s Edit](https://open.spotify.com/track/5reLsl2aIIjUdZgcNIMBWU) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [SOMEDAY \- Itsuka \(feat\. tonun\)](https://open.spotify.com/album/6yndqOxtCbFBpwy5Bz8D6Z) | 5:03 | 2022-03-29 | 2022-04-01 |
@@ -103,7 +104,7 @@
 | [Tangerine](https://open.spotify.com/track/5BM1h0qH0CVWMjw0RIQtbn) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Tangerine](https://open.spotify.com/album/7Jox1gthhLqTpzfswyMnk2) | 3:22 | 2022-05-19 |  |
 | [The Dawn](https://open.spotify.com/track/5NCfFFDLWN4hfgphPRaFpn) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [The Dawn](https://open.spotify.com/album/3pHBDWw0nnEPCoUrAutLej) | 3:49 | 2022-05-24 |  |
 | [the wire](https://open.spotify.com/track/3FKAW8AaZmFYthqHvGg1hT) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [the wire](https://open.spotify.com/album/653dQi5wRhgX38vQSOe96i) | 3:38 | 2022-04-27 | 2022-05-18 |
-| [toi et moi](https://open.spotify.com/track/24Hi2CcDwU5u8ft1tdaybX) | [Misato Ono](https://open.spotify.com/artist/6ksgv4sgEwgX9IjBuWR4AZ), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [something invisible](https://open.spotify.com/album/5wl4BNy1DLACFO0aE4S4oq) | 3:36 | 2022-05-10 |  |
+| [toi et moi](https://open.spotify.com/track/24Hi2CcDwU5u8ft1tdaybX) | [Misato Ono](https://open.spotify.com/artist/6ksgv4sgEwgX9IjBuWR4AZ), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [something invisible](https://open.spotify.com/album/5wl4BNy1DLACFO0aE4S4oq) | 3:36 | 2022-05-10 | 2022-06-01 |
 | [Tremolo](https://open.spotify.com/track/3kIFJsq83ecH3ingfUXVMZ) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Daydream](https://open.spotify.com/album/7djGvLAgTKtlV9s9MXAXkV) | 3:11 | 2022-03-01 | 2022-04-13 |
 | [U](https://open.spotify.com/track/729FKEauTfVhvHOspPcJUX) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [U](https://open.spotify.com/album/3XBZh0UYt02nctSy4tsKU3) | 2:57 | 2022-02-17 | 2022-03-23 |
 | [Weigh me down](https://open.spotify.com/track/2Q5dyUrJK5IpXZEVHdfELv) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Weigh me down](https://open.spotify.com/album/399zSYDYVqJbuSpuCy937C) | 3:24 | 2022-02-17 | 2022-03-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: POLYPLUS
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,953 likes - 51 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,967 likes - 51 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 10 | [Go! Sokudo\-kun \(Inst.Ver.\)](https://open.spotify.com/track/7doRvmkjNk51JQS9whzJ2K) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Kazemachizuki](https://open.spotify.com/album/0QZ2QvJqINt39NE5Kt7Zbx) | 2:23 |
 | 11 | [Ellingtonia](https://open.spotify.com/track/4DTR80jKQUFGA4GeGXuN6V) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Dedications](https://open.spotify.com/album/6KlJQ5wod5PvpeWN68AkQD) | 10:37 |
 | 12 | [Afro Feel](https://open.spotify.com/track/05EVAyelOObKMNwQXExLTY) | [Elegant People](https://open.spotify.com/artist/0nLfAz1vNeKkFVkt89hMyL), [Lo Greco Bros](https://open.spotify.com/artist/4S7V7SMXxUwFzhGuddiAiY) | [Afro Feel](https://open.spotify.com/album/3FEPgevx4aVEOzLrFyhSmv) | 5:28 |
-| 13 | [A Dance To The Music Of Time](https://open.spotify.com/track/1nSDpyOjFMSgTLBCfaWqqm) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [A Dance To The Music Of Time](https://open.spotify.com/album/4LzSeQEvsiIBL1iajGtuBe) | 6:14 |
+| 13 | [A Dance To The Music Of Time](https://open.spotify.com/track/1nSDpyOjFMSgTLBCfaWqqm) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR), [Mike Figgis](https://open.spotify.com/artist/0HdMYidcfZY3XvpxHpTz9F) | [A Dance To The Music Of Time](https://open.spotify.com/album/4LzSeQEvsiIBL1iajGtuBe) | 6:14 |
 | 14 | [Gemini](https://open.spotify.com/track/5emmDZi1bcN96zJ4kcfMhB) | [Jocelyn Gould](https://open.spotify.com/artist/0KOhfBkfEdH7cdjIgfQULJ) | [Gemini](https://open.spotify.com/album/5drE19pedhHwa8Tgkij5VR) | 6:34 |
 | 15 | [A Certain Surprise \- Masayoshi Fujita Remix](https://open.spotify.com/track/5E1CFQSRFYTa1Nk7f94XX6) | [Will Samson](https://open.spotify.com/artist/6VBJxxPZ84ty9nR1nFkNNx), [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [A Certain Surprise \(Masayoshi Fujita Remix\)](https://open.spotify.com/album/2fWbxCcwhDJE1cp6xTJAly) | 3:56 |
 | 16 | [Mama](https://open.spotify.com/track/32EOILWXWu3WGo56PmM9UG) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Omagugu](https://open.spotify.com/artist/3fOgc0hcEUZjOuhvGEise4) | [In The Spirit Of Ntu](https://open.spotify.com/album/3UnSb3V4gzrt2ofjYfsLDl) | 7:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,507 likes - 642 songs - 1 day 19 hr 9 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,507 likes - 643 songs - 1 day 19 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -650,5 +650,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 640 | [I Choose Me](https://open.spotify.com/track/064I7lnHPQP68nbVZpS9K7) | [3rd Secret](https://open.spotify.com/artist/4atj4MLAMFKMwu4PG1zzb7) | [3rd Secret](https://open.spotify.com/album/6bhdV9FIncMze0E0ElvsTr) | 4:30 |
 | 641 | [A Hairdryer](https://open.spotify.com/track/5eGvUvIliCcmFqwC8kQSAw) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 5:17 |
 | 642 | [Free In The Knowledge](https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:12 |
+| 643 | [Mighty Wings \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/32SckiFOYb8bwYewY51WA7) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 3:51 |
 
-Snapshot ID: `MTY2NCxkYmFmMmNmMzI2NDNiZmM0ZGJmNzAzZjM4MmRlNTg2Mzk2MWI0OWQ3`
+Snapshot ID: `MTY2NSw0MWU5ZjhlNjY2YmRhYzg0ZmFhOGRlYWRhYTM1YjZkNmE2OTNiYjI5`

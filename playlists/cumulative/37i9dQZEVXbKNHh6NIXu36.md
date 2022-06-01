@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-870 songs - 1 day 20 hr 29 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
+871 songs - 1 day 20 hr 31 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Adieu](https://open.spotify.com/track/56SLMIzWKrEOWIQ5LCzKXV) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:38 | 2022-04-30 | 2022-05-05 |
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2021-03-27\* | 2021-05-16 |
 | [Airbnb](https://open.spotify.com/track/4unbMZzQ28yrCQDcY4Xeb8) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Airbnb](https://open.spotify.com/album/4tsXBZyCcZN9sdCp67JeQM) | 2:47 | 2022-05-14 | 2022-05-24 |
-| [Airbnb](https://open.spotify.com/track/6NEOchaTtFcnUR4pqDBJVf) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Percocet Party](https://open.spotify.com/album/47nHXYjntjPhI7lf8lVCLH) | 2:47 | 2022-05-21 |  |
+| [Airbnb](https://open.spotify.com/track/6NEOchaTtFcnUR4pqDBJVf) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Percocet Party](https://open.spotify.com/album/47nHXYjntjPhI7lf8lVCLH) | 2:47 | 2022-05-21 | 2022-06-01 |
 | [Airwaves](https://open.spotify.com/track/5CqkgDH8QZjSqqI3HmYxDD) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Airwaves](https://open.spotify.com/album/4ZylcATH7a5JkgNNGXxwhJ) | 2:58 | 2021-07-05 | 2021-07-09 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-11-13 | 2021-12-30 |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-11-16 | 2021-11-26 |
@@ -156,6 +156,7 @@
 | [Cinema](https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:03 | 2022-05-21 | 2022-05-26 |
 | [CLOUD 7](https://open.spotify.com/track/7ksQkf6p0rF9CoDhxoePKn) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [CLOUD 7](https://open.spotify.com/album/2IsZ2Hz8ZZsBky21RDUkZE) | 2:27 | 2021-08-08 | 2021-08-27 |
 | [Clubhouse](https://open.spotify.com/track/0oSIYJiJNBXIMVCUEhsN1q) | [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2), [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1) | [Clubhouse](https://open.spotify.com/album/6gw3kFvzpJU0pUNGyYop32) | 3:20 | 2021-05-30 | 2021-05-31 |
+| [COACHELLA](https://open.spotify.com/track/3gyRaifTaAoQrwtYiQu9ur) | [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm), [Nullzweizwei](https://open.spotify.com/artist/0TVANDORspsd2X7Gg9rhcW) | [COACHELLA](https://open.spotify.com/album/3rKUse3bRNWC18dktsMnCX) | 2:46 | 2022-06-01 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC) | 3:22 | 2022-04-20 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2021-10-16 | 2021-10-23 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:22 | 2021-10-23 | 2022-04-21 |

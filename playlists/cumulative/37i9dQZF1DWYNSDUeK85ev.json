@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "12 de la Noche",
+        "url": "https://open.spotify.com/album/5fzdTW9vck4cdL1aUHMSF4"
+      },
+      "artists": [
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147080,
+      "name": "12 de la Noche",
+      "url": "https://open.spotify.com/track/2yz9i5hD0K7Jlo9nROP0b9"
+    },
+    {
+      "album": {
         "name": "2/Catorce",
         "url": "https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno"
       },
@@ -23,7 +41,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 212031,
       "name": "2/Catorce",
       "url": "https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t"
@@ -65,7 +83,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 366613,
       "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
@@ -113,7 +131,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 261334,
       "name": "AM Remix",
       "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
@@ -237,7 +255,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 141075,
       "name": "BLUNTED 5 - Remix",
       "url": "https://open.spotify.com/track/27t4JURZ1Tv7a3zMfPneAw"
@@ -383,7 +401,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 145152,
       "name": "Cerca de Ti",
       "url": "https://open.spotify.com/track/03T8X2bJOvBg5Dm9GH52uL"
@@ -517,7 +535,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 198667,
       "name": "Cucurucho",
       "url": "https://open.spotify.com/track/2jTRTdBgnXyzuYN5blC4Ay"
@@ -542,6 +560,28 @@
     },
     {
       "album": {
+        "name": "De Ah\u00ed",
+        "url": "https://open.spotify.com/album/6BKiolA3MKFhps2rfKecmd"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
+        {
+          "name": "Big Apple",
+          "url": "https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147418,
+      "name": "De Ah\u00ed",
+      "url": "https://open.spotify.com/track/59MN1aOpePepwrpmNdkVlA"
+    },
+    {
+      "album": {
         "name": "Deja de Llorar",
         "url": "https://open.spotify.com/album/0bSs0ly2sGFwLnokPatqRn"
       },
@@ -557,7 +597,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 85890,
       "name": "Deja de Llorar - Remix",
       "url": "https://open.spotify.com/track/06oYXNcaTwKAlDg1uqvnSR"
@@ -683,7 +723,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 200905,
       "name": "El Apache Ness: RKT SESSION #3",
       "url": "https://open.spotify.com/track/2fbEIhb7fwvavZQLiTLiAJ"
@@ -723,7 +763,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 264146,
       "name": "El Doctorado",
       "url": "https://open.spotify.com/track/2PUbdd0s68EfVKlBCUW9Vq"
@@ -997,7 +1037,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 221407,
       "name": "Ella",
       "url": "https://open.spotify.com/track/66S2z95FN3nUAr9S1gUIsp"
@@ -1019,10 +1059,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 267786,
       "name": "Ella Y Yo - Featuring Don Omar",
       "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
+    },
+    {
+      "album": {
+        "name": "Ellax No Es Tuya - Remix",
+        "url": "https://open.spotify.com/album/0yvGNSfikCWiV0XAmm3IsT"
+      },
+      "artists": [
+        {
+          "name": "Eme Sarav",
+          "url": "https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170839,
+      "name": "Ellax No Es Tuya - Remix",
+      "url": "https://open.spotify.com/track/0wRGkmQ3xNhHuWzPwJ03rS"
     },
     {
       "album": {
@@ -1059,7 +1117,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 197040,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x"
@@ -1294,6 +1352,32 @@
     },
     {
       "album": {
+        "name": "KrING",
+        "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
+      },
+      "artists": [
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229826,
+      "name": "Hasta Abajo",
+      "url": "https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw"
+    },
+    {
+      "album": {
         "name": "Haw\u00e1i",
         "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
       },
@@ -1305,7 +1389,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 200197,
       "name": "Haw\u00e1i",
       "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
@@ -1401,7 +1485,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 249520,
       "name": "Hola - Remix",
       "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
@@ -1471,7 +1555,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 160909,
       "name": "INDIQUEN | E3",
       "url": "https://open.spotify.com/track/0mrioCB3wq09Zz7YN3Q4C4"
@@ -1613,7 +1697,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 192347,
       "name": "L-Gante: Bzrp Music Sessions, Vol.38",
       "url": "https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof"
@@ -1657,7 +1741,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
@@ -1679,7 +1763,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 165340,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/2WRMzDyCVSIcT3DUTFYQC7"
@@ -1773,7 +1857,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 307435,
       "name": "La Forma en Que Me Miras",
       "url": "https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW"
@@ -1909,10 +1993,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 180520,
       "name": "La T\u00f3xica",
       "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"
+    },
+    {
+      "album": {
+        "name": "Talento de Barrio",
+        "url": "https://open.spotify.com/album/5fn6sCofBYgRn6OICMeDvr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239920,
+      "name": "Llamado de Emergencia",
+      "url": "https://open.spotify.com/track/3bkBVEmRJuJZNh5iVgJkWm"
     },
     {
       "album": {
@@ -2041,7 +2143,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 196315,
       "name": "Me Extra\u00f1aras",
       "url": "https://open.spotify.com/track/0Ky063B3IgHlrRnzwXzGpP"
@@ -2067,6 +2169,24 @@
       "duration_ms": 202320,
       "name": "Me Fije",
       "url": "https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw"
+    },
+    {
+      "album": {
+        "name": "Los Cotizados",
+        "url": "https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8"
+      },
+      "artists": [
+        {
+          "name": "Baby Rasta & Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201946,
+      "name": "Me Niegas",
+      "url": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA"
     },
     {
       "album": {
@@ -2295,7 +2415,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 158086,
       "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
       "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
@@ -2317,7 +2437,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 194690,
       "name": "No Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
@@ -2357,7 +2477,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 239760,
       "name": "No Te Creas Tan Importante - En Vivo",
       "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
@@ -2545,7 +2665,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 190850,
       "name": "Par-Tusa",
       "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
@@ -2567,7 +2687,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 243026,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/4JOcMuy5myeEaNCKlu5j19"
@@ -2685,7 +2805,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 202373,
       "name": "Ponte Pa' Mi",
       "url": "https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR"
@@ -2703,7 +2823,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 185118,
       "name": "Ponte Pa' Mix",
       "url": "https://open.spotify.com/track/27RbEsHY7OdniHk3sepP5k"
@@ -2897,7 +3017,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 152941,
       "name": "Que Locura - Remix",
       "url": "https://open.spotify.com/track/26BM4XehWGrp0MsmQenDA7"
@@ -3031,7 +3151,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 184254,
       "name": "Relaci\u00f3n",
       "url": "https://open.spotify.com/track/4lMOQR1rRW5hJgJXOtKraL"
@@ -3131,7 +3251,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 174158,
       "name": "Sabroson",
       "url": "https://open.spotify.com/track/7pGq27cyrWFh6chXvvFSLS"
@@ -3231,7 +3351,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 139430,
       "name": "Se Pic\u00f3",
       "url": "https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP"
@@ -3356,6 +3476,32 @@
     },
     {
       "album": {
+        "name": "Sigues Con El",
+        "url": "https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226532,
+      "name": "Sigues Con El",
+      "url": "https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3"
+    },
+    {
+      "album": {
         "name": "Sigues Con El (Remix)",
         "url": "https://open.spotify.com/album/0vPG06qvqmD1XL1uAFysKM"
       },
@@ -3409,7 +3555,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 307910,
       "name": "Sola",
       "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
@@ -3431,7 +3577,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 148259,
       "name": "Suavecito (Remix)",
       "url": "https://open.spotify.com/track/7qWvP8hBKbpxpJKNtPXR1P"
@@ -3469,7 +3615,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 197746,
       "name": "Suelta",
       "url": "https://open.spotify.com/track/6b8ssfeNotmNKa9AzS734T"
@@ -3517,7 +3663,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 212406,
       "name": "Tak Tiki Tak",
       "url": "https://open.spotify.com/track/6Hw21Z5CmEV78jrncFpMwz"
@@ -3663,7 +3809,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 149232,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/5QDFTP24z4dXNsk8FWHAMA"
@@ -3761,7 +3907,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 205520,
       "name": "Tu Pr\u00edncipe",
       "url": "https://open.spotify.com/track/0Q7ZM15J0cJA9rd7pQYdRq"
@@ -3937,7 +4083,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 220189,
       "name": "Una Vaina Loca - Remix",
       "url": "https://open.spotify.com/track/5C78BHMTheCdaWpXoGIOk4"

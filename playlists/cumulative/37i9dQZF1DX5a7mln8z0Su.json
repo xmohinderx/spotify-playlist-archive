@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-30",
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
   "name": "\uad1c\ud788 \uc13c\uce58\ud574",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1dl38p2i56KbW8JfxsXigk"
+  ],
   "tracks": [
     {
       "album": {
@@ -35,7 +37,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 322991,
       "name": "A Good Day",
       "url": "https://open.spotify.com/track/11tT1T2BSELuCaMHMLLIrw"
@@ -129,7 +131,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 189253,
       "name": "being friends suck",
       "url": "https://open.spotify.com/track/3ZheaNstMAwG3uTbAoaZCG"
@@ -147,7 +149,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 221369,
       "name": "BETTER (with MINO)",
       "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
@@ -205,7 +207,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 191226,
       "name": "Book",
       "url": "https://open.spotify.com/track/2nCJFTqCDjEYLJR151Fd5B"
@@ -267,7 +269,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 222173,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi"
@@ -325,7 +327,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 262602,
       "name": "Dead end street",
       "url": "https://open.spotify.com/track/493DKBNm3txw82eK4E9u95"
@@ -343,7 +345,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 219069,
       "name": "Dear. My Side",
       "url": "https://open.spotify.com/track/2F9SwgEESnCPpTug9icsHH"
@@ -361,7 +363,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 216512,
       "name": "Drop a sigh",
       "url": "https://open.spotify.com/track/6cOr1f7EQZaFuY9xg45Qc1"
@@ -379,7 +381,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 182651,
       "name": "Dry flower",
       "url": "https://open.spotify.com/track/3GZuiedCL6575Qzs9w0arF"
@@ -401,7 +403,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 184421,
       "name": "Emotional Waste (feat. D2ear)",
       "url": "https://open.spotify.com/track/7CdFsJYpskjCcIWjpwdycZ"
@@ -462,6 +464,28 @@
     },
     {
       "album": {
+        "name": "ROUGH",
+        "url": "https://open.spotify.com/album/1dV78Sya4zweF0hDuUoKS2"
+      },
+      "artists": [
+        {
+          "name": "Kim Eun Bi",
+          "url": "https://open.spotify.com/artist/38Pnu6vYUCKy9E9AWXa9Fh"
+        },
+        {
+          "name": "Lokid",
+          "url": "https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203640,
+      "name": "Feeling like this",
+      "url": "https://open.spotify.com/track/64QpazpW0wo2PjzGlCTo7r"
+    },
+    {
+      "album": {
         "name": "NUDUGI HEART RUNNER",
         "url": "https://open.spotify.com/album/35621MM1sYnfoiS9s8tCvp"
       },
@@ -495,7 +519,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 227592,
       "name": "Haebing",
       "url": "https://open.spotify.com/track/1xLNIO5zOTTT5PVp2hxrka"
@@ -531,10 +555,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 211533,
       "name": "Hawaiiya",
       "url": "https://open.spotify.com/track/6d1HS0a3QkOH82CWCc5h8f"
+    },
+    {
+      "album": {
+        "name": "Don't Know",
+        "url": "https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI"
+      },
+      "artists": [
+        {
+          "name": "\uae40\uc218\uc601 Kim Suyoung",
+          "url": "https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186696,
+      "name": "Hmm",
+      "url": "https://open.spotify.com/track/68G3FJrF1DAFhHnpM905QF"
     },
     {
       "album": {
@@ -629,7 +671,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 173320,
       "name": "I am love",
       "url": "https://open.spotify.com/track/5Ep4t2sMihbA3uyoKBAqLJ"
@@ -647,7 +689,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 229762,
       "name": "I don\u2019t want to",
       "url": "https://open.spotify.com/track/5BCbtI9gGtE0vD2btEgDha"
@@ -673,6 +715,24 @@
       "duration_ms": 166295,
       "name": "I had a dream",
       "url": "https://open.spotify.com/track/4XExkAorTzzT1SZbwtM1Ua"
+    },
+    {
+      "album": {
+        "name": "every flower you gave me",
+        "url": "https://open.spotify.com/album/3JRoq6nJRd2PyvKVhJj4TU"
+      },
+      "artists": [
+        {
+          "name": "Cherry Coke",
+          "url": "https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176017,
+      "name": "Ican'tfeelmaface",
+      "url": "https://open.spotify.com/track/4R6g9qPlM0eE0w5Awr8PXR"
     },
     {
       "album": {
@@ -705,10 +765,32 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 169586,
       "name": "In My Dream",
       "url": "https://open.spotify.com/track/7cqRIDtEEOTXbwoIzAK40z"
+    },
+    {
+      "album": {
+        "name": "In Paris",
+        "url": "https://open.spotify.com/album/0sJqLzZEf7T2H1sHImn61I"
+      },
+      "artists": [
+        {
+          "name": "CollaBoat",
+          "url": "https://open.spotify.com/artist/3aI3fKOhv39Yc8O3zfY4XM"
+        },
+        {
+          "name": "Kaya",
+          "url": "https://open.spotify.com/artist/0paoXjLBxGQ5F4tujUG0g5"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "In Paris (feat. Kaya)",
+      "url": "https://open.spotify.com/track/0Q0swUf6gyh1u8gocCTpFl"
     },
     {
       "album": {
@@ -745,7 +827,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 168498,
       "name": "kibun (feat. vntermude)",
       "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
@@ -770,6 +852,24 @@
     },
     {
       "album": {
+        "name": "Little Boat",
+        "url": "https://open.spotify.com/album/0JpWyLTohpLmCRBoNu5IgB"
+      },
+      "artists": [
+        {
+          "name": "Eunoh",
+          "url": "https://open.spotify.com/artist/0vU5xD3NXp5otVqMHtrnKa"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200670,
+      "name": "Little Boat",
+      "url": "https://open.spotify.com/track/3NNtMqe16WkaBoed1SjFdp"
+    },
+    {
+      "album": {
         "name": "Mermaid",
         "url": "https://open.spotify.com/album/0G7mGBC8pHJoEAYqy5o1Uy"
       },
@@ -781,7 +881,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 180386,
       "name": "Mermaid",
       "url": "https://open.spotify.com/track/2HpiCVq8cCc0T2YFf4nMiR"
@@ -821,7 +921,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 180750,
       "name": "My Monday",
       "url": "https://open.spotify.com/track/2aynDdyhQhR2LoBpXXEtBJ"
@@ -857,7 +957,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 201773,
       "name": "One minute later (23:59)",
       "url": "https://open.spotify.com/track/7GFQQOqyP8lcH553RaR7da"
@@ -893,7 +993,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 233059,
       "name": "Pearl",
       "url": "https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q"
@@ -911,7 +1011,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 177560,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/2Pt0qKuoUA3M82VJbvmqEv"
@@ -983,7 +1083,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 211000,
       "name": "Running to You",
       "url": "https://open.spotify.com/track/3UoHkXZkIZz7Lna8rwzYiy"
@@ -1001,7 +1101,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 184504,
       "name": "Saying Goodbye",
       "url": "https://open.spotify.com/track/2HAXwK6Zgh8ZWRnGidKd2m"
@@ -1055,7 +1155,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 197000,
       "name": "She lives in Paris",
       "url": "https://open.spotify.com/track/5PvMK77XUHP4EwdttBNX3o"
@@ -1116,6 +1216,24 @@
     },
     {
       "album": {
+        "name": "7 Moments (\uc138\uc0c1\uc758 \uc5b4\uca54 \uc218 \uc5c6\ub294 \uc77c\uacf1\uac00\uc9c0)",
+        "url": "https://open.spotify.com/album/1xKMtxHD24KhyTd7Y3Vd4J"
+      },
+      "artists": [
+        {
+          "name": "\ud30c\ub2c8\ud551\ud06c",
+          "url": "https://open.spotify.com/artist/5pgYYiTF595S5UpfGZq3UT"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237626,
+      "name": "Snowdrop",
+      "url": "https://open.spotify.com/track/5Eek7yaIklDl2tzciWI4gw"
+    },
+    {
+      "album": {
         "name": "Someone Like You",
         "url": "https://open.spotify.com/album/0qvJ0nfIEdUnlJ6bJPwN0M"
       },
@@ -1127,7 +1245,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 200066,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/1rLepxqnfZrw7qSTe9b311"
@@ -1185,7 +1303,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 193693,
       "name": "Still (Feat. Crush)",
       "url": "https://open.spotify.com/track/0PiRlZ1bf5nzeuCsAmjJnM"
@@ -1225,7 +1343,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 221146,
       "name": "Syndrome",
       "url": "https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO"
@@ -1381,7 +1499,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 250000,
       "name": "Waiting for Sunrise",
       "url": "https://open.spotify.com/track/4D6hwrueCKwbVNAGBjlhqO"
@@ -1403,7 +1521,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 162352,
       "name": "We",
       "url": "https://open.spotify.com/track/6QLcN3FczDN7VHzYhZaOxI"
@@ -1425,7 +1543,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 197640,
       "name": "What U Wanna Do",
       "url": "https://open.spotify.com/track/2rQaFBnhmQWML20DPtZy7u"
@@ -1443,7 +1561,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 205958,
       "name": "Why?",
       "url": "https://open.spotify.com/track/4DoXTkZjgjg3nmXqsgWa1a"
@@ -1461,7 +1579,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 217110,
       "name": "Window - Acoustic Version",
       "url": "https://open.spotify.com/track/5TeNDB5ppc8Ahtqbq6gfz7"
@@ -1497,10 +1615,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 137207,
       "name": "You don't know anything",
       "url": "https://open.spotify.com/track/2ggAuBMFt8d1fpyZiI8co8"
+    },
+    {
+      "album": {
+        "name": "\uaca8\uc6b8\ubc24",
+        "url": "https://open.spotify.com/album/5QOgLJm5qWxhjBlywukFg4"
+      },
+      "artists": [
+        {
+          "name": "Joo Yein",
+          "url": "https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "\uadf8\ub9ac\uc6cc\ud574\ubcfc\uae4c \ud574",
+      "url": "https://open.spotify.com/track/78P9d5a7XWAqTYrHImBWt8"
     },
     {
       "album": {

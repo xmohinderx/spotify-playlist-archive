@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 165373,
       "name": "All Over This World",
       "url": "https://open.spotify.com/track/5dfQvhkoG0ulO4gKAzHLyA"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 110270,
       "name": "Can't Sit Down - Live",
       "url": "https://open.spotify.com/track/2gghVdo9UnrCAf07hE8l4f"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 157652,
       "name": "Didn't It Rain",
       "url": "https://open.spotify.com/track/3MxAT7MRx7V0CL3tVtJby1"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 114681,
       "name": "He's Got the Whole World in His Hands - Live",
       "url": "https://open.spotify.com/track/1Vh3YDo7zs0dloAYuBpsfK"
@@ -421,6 +421,24 @@
       "duration_ms": 174492,
       "name": "How Far From God",
       "url": "https://open.spotify.com/track/3cN5ydsv1f5UVWIognMcRj"
+    },
+    {
+      "album": {
+        "name": "Gospel Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "I Can Hear The Angels",
+      "url": "https://open.spotify.com/track/7pqbyssPmrES38X02wTRVz"
     },
     {
       "album": {
@@ -493,7 +511,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 155360,
       "name": "I Want to Live So God Can Use Me",
       "url": "https://open.spotify.com/track/51i9LuYV4z2jjEzTKolDty"
@@ -547,7 +565,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 238800,
       "name": "Joshua Fit the Battle of Jericho",
       "url": "https://open.spotify.com/track/0dchRpophRSw64gxYtppmt"
@@ -699,7 +717,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 179426,
       "name": "Nobody's Fault But Mine",
       "url": "https://open.spotify.com/track/3z5JS5NmUSb8llmXl8QZiq"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 154459,
       "name": "Nothing Between",
       "url": "https://open.spotify.com/track/39mpH34jjRge3WmL7WWOzv"
@@ -735,7 +753,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 332706,
       "name": "Peace in the Valley",
       "url": "https://open.spotify.com/track/4IkBfxdaaAULEsdaJcXUMw"
@@ -807,7 +825,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 160731,
       "name": "Rock Daniel (VD129)",
       "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 160093,
       "name": "Rock Me",
       "url": "https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 200573,
       "name": "Sing and Shout - Remastered",
       "url": "https://open.spotify.com/track/4qNa7Uq1ev1NoNyLfaFNyE"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 214273,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq"
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 173688,
       "name": "The Devil Has Thrown Him Down",
       "url": "https://open.spotify.com/track/4kAlnTkUPazNX7rIq03Npw"
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 192725,
       "name": "The Natural Facts",
       "url": "https://open.spotify.com/track/1BiQpjLDTUikC99xsjzJTV"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 282813,
       "name": "This Train",
       "url": "https://open.spotify.com/track/4FgwdqCbpfv2AX17vbF8KN"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 152040,
       "name": "Up Above My Head I Hear Music In The Air",
       "url": "https://open.spotify.com/track/020Jue4CBDS0qn9gXVeouQ"

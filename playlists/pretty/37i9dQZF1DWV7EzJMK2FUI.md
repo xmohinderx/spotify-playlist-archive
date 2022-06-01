@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,626 likes - 260 songs - 16 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,451 likes - 260 songs - 16 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

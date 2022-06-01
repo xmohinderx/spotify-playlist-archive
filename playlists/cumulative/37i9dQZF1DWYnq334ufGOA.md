@@ -4,7 +4,7 @@
 
 > Celebrating the women who shaped electronic music to its current incarnation\. Cover: Wendy Carlos
 
-48 songs - 6 hr 3 min - not published yet
+48 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/0mF58AHVsyEjYfbQsQ6nFT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

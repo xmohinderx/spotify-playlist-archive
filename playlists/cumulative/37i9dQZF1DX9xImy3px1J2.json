@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 113127,
       "name": "Bongo Cha Cha Cha",
       "url": "https://open.spotify.com/track/7J4zszAZxAyowZp7gNUIUI"
@@ -659,7 +659,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 235428,
       "name": "HIT IT (feat. Saweetie & Lele Pons)",
       "url": "https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 190487,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
@@ -1190,6 +1190,32 @@
     },
     {
       "album": {
+        "name": "Shine Your Light (feat. Akon)",
+        "url": "https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9"
+      },
+      "artists": [
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189390,
+      "name": "Shine Your Light (feat. Akon)",
+      "url": "https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv"
+    },
+    {
+      "album": {
         "name": "Shivers (Ofenbach Remix)",
         "url": "https://open.spotify.com/album/3Dru9IyxnZXhmrNbSv56yl"
       },
@@ -1325,7 +1351,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 164160,
       "name": "Ti raggiunger\u00f2",
       "url": "https://open.spotify.com/track/3Ks12KDKwrT1anFMW0tevG"
@@ -1387,7 +1413,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 167719,
       "name": "Un altro ballo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0pmtvLQaPHx6nqZmi2KDbr"
@@ -1523,7 +1549,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 170022,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA"

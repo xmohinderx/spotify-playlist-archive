@@ -4,7 +4,7 @@
 
 > The official playlist for To All The Boys: Always and Forever\. Watch on Netflix.
 
-85 songs - 5 hr 4 min - not published yet
+85 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/7goobQ9e4xy8l1vfpiYXYS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

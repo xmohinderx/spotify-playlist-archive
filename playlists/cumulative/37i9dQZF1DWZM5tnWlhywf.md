@@ -4,7 +4,7 @@
 
 > Soundtrack your 2022 resolutions with Katie Austin.
 
-41 songs - 2 hr 21 min - not published yet
+41 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/5QsLBHG7dPsNHxFy6dj0Za)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

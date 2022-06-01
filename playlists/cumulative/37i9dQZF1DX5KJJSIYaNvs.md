@@ -2,9 +2,9 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to Indian women, at full volume\. Cover: Dhvani Bhanushali
+> Listen to Indian women, at full volume\. Cover: Baani Sandhu
 
-118 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/3rqRWyNJwvt55VCcOLZ5lE)
+119 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/3rqRWyNJwvt55VCcOLZ5lE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Shreaam Pagal](https://open.spotify.com/track/62cpYYBQua4OCT07FItvCR) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Shreaam Pagal](https://open.spotify.com/album/1kPmkdxQy0l7lqZAETqZLa) | 3:54 | 2022-01-04 | 2022-02-02 |
 | [Sona Lagda](https://open.spotify.com/track/7pef1s876Fl3KO2LH1eSFx) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ) | [Sona Lagda](https://open.spotify.com/album/7Aahwh6SP0FaZlt0fgc6EE) | 3:15 | 2022-02-01 | 2022-03-08 |
 | [Tenu Lehenga \(From "Satyameva Jayate 2"\)](https://open.spotify.com/track/2FlkFn2YRzTQ13Fu2tfHb0) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Tenu Lehenga \(From "Satyameva Jayate 2"\)](https://open.spotify.com/album/5tul86eaJyQKvgzoRemZtv) | 4:07 | 2021-12-10 | 2022-02-02 |
+| [Tere Piche Piche](https://open.spotify.com/track/3krr3rOsQe2ZowvTlByHpv) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Tere Piche Piche](https://open.spotify.com/album/6HcvxprkiYjBaRma5lkp0X) | 2:52 | 2022-06-01 |  |
 | [Teri Meri Ladayi](https://open.spotify.com/track/0IcwfJPrcJ2BWj22yOlZ2p) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Teri Meri Ladayi](https://open.spotify.com/album/5fMSE44XKtROd2X93mZCuJ) | 3:42 | 2022-04-05 |  |
 | [Thomkiya Thomkiya \(feat.Shaan\)](https://open.spotify.com/track/3peabNTcQoAA6ngWq5a6OT) | [Akriti Kakkar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Thomkiya Thomkiya \(feat.Shaan\)](https://open.spotify.com/album/0FMqqVFeAefpuMeTu9aI4k) | 3:58 | 2021-12-10 | 2022-02-02 |
 | [Tip Tip \(From "Sooryavanshi"\)](https://open.spotify.com/track/5zfRl79umXWvKoA7p4KEPa) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Tip Tip \(From "Sooryavanshi"\)](https://open.spotify.com/album/5xhnmuzC2RnvShBs631Q2y) | 4:10 | 2022-04-05 |  |

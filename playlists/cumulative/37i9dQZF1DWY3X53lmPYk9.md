@@ -4,7 +4,7 @@
 
 > Soft piano interpretations of jazz classics.
 
-113 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
+115 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Blue In Green](https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Blue In Green](https://open.spotify.com/album/3tTWhbuhhWWeh9dd30hwPW) | 3:47 | 2022-05-24 |  |
 | [Body And Soul](https://open.spotify.com/track/3u2Y2K3dlBY5QRIwdTnCHu) | [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI) | [Modernistic](https://open.spotify.com/album/7rPdZr6OPrShZWy3aob80V) | 3:46 | 2021-12-14 |  |
 | [But Beautiful](https://open.spotify.com/track/2HrJMEYnGTwBSKVOV2v7Ks) | [Margaret Shu](https://open.spotify.com/artist/2rXYYqYz9gNCletxt5R1M5) | [You Know I Care](https://open.spotify.com/album/6stS7pmTQEtTSN6Gfiroul) | 3:51 | 2021-12-14 |  |
+| [Central Park West](https://open.spotify.com/track/0AeEcNkwXLpPYyuoweLVta) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Central Park West](https://open.spotify.com/album/5eBqq6qEjLjjxw1TPAShYB) | 3:16 | 2022-06-01 |  |
 | [Come Rain Or Come Shine](https://open.spotify.com/track/2KaiRciXTCoGWvDUG6UyXy) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Come Rain Or Come Shine](https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH) | 3:40 | 2022-04-26 |  |
 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2022-05-10 |  |
 | [Cry Me A River](https://open.spotify.com/track/67iXiDkmgd5cy2Tfcowx1G) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Past Closing Time](https://open.spotify.com/album/1E9xMRwRNCkkIW1sCTZm9z) | 3:28 | 2022-01-13 |  |
@@ -50,6 +51,7 @@
 | [I Should Care](https://open.spotify.com/track/7N1MFr0xi5jt2KRwxitROp) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [I Should Care](https://open.spotify.com/album/0t76ZydmDChji48Ry6pvGN) | 4:24 | 2021-12-14 |  |
 | [I Thought About You](https://open.spotify.com/track/14wxDY2TOvVXXuWpRDDJ8f) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [I Thought About You](https://open.spotify.com/album/5SSTz0UA3HPFZxJVcmIlka) | 3:38 | 2021-12-14 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/1nDdCstJ1Mz8eRiyHhr5pS) | [Chuck Ingels](https://open.spotify.com/artist/4CzMpvvFF26btXNUocepwY) | [I'll Be Seeing You](https://open.spotify.com/album/1K1bl5LvmHA4KAIhev8p0R) | 3:30 | 2021-12-14 |  |
+| [I'm Afraid The Masquerade Is Over](https://open.spotify.com/track/3CSDvtLQExxVd5xoMAi8q8) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/album/2L1p6B26GF4vzr3QSQbmn7) | 2:27 | 2022-06-01 |  |
 | [I'm Glad There Is You](https://open.spotify.com/track/0wAqaMAcQhd9Jk78XgqHWs) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [I'm Glad There Is You](https://open.spotify.com/album/77MH1Wv80xJi7l26Ri1VaJ) | 4:46 | 2022-02-16 |  |
 | [I'm Through With Love](https://open.spotify.com/track/25CN9OMqfs6XwG89bpeemt) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [I'm Through With Love](https://open.spotify.com/album/6TSLFqTXi6miKoCwg3kyAN) | 4:19 | 2022-01-13 |  |
 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4UJTsC3tnszd4RnwKFtBkh) | [Jessica Albert](https://open.spotify.com/artist/7lI5xu3g1pfJ3zSkQjPflN) | [Stars Fell on Alabama](https://open.spotify.com/album/4udI8I069Mwb3lbzTBacpH) | 3:37 | 2021-12-14 |  |
@@ -118,7 +120,7 @@
 | [When I Fall In Love](https://open.spotify.com/track/3Ko863Oq3qXwXXyor9VNci) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [When I Fall In Love](https://open.spotify.com/album/6YfxosS29pThRt7j2ACrom) | 4:12 | 2021-12-14 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/4t85eFNgqV0nqtImOix3X5) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [You Are Too Beautiful](https://open.spotify.com/album/2uG5Jnbvge8kWBxar1TTad) | 3:32 | 2021-12-14 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/0QX4Wc3m1WlNxwEQqFmagK) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [You Don't Know What Love Is](https://open.spotify.com/album/3KdujtfsTqGw9eLtUDGnnz) | 3:42 | 2021-12-14 |  |
-| [You Go To My Head](https://open.spotify.com/track/459LZHA0yHx3SwF5t0UnDE) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [Memories Of You](https://open.spotify.com/album/7s8ph723NPqXXT8a1SIiY5) | 5:19 | 2021-12-14 |  |
+| [You Go To My Head](https://open.spotify.com/track/459LZHA0yHx3SwF5t0UnDE) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [Memories Of You](https://open.spotify.com/album/7s8ph723NPqXXT8a1SIiY5) | 5:19 | 2021-12-14 | 2022-06-01 |
 | [you must believe in spring](https://open.spotify.com/track/4PfwJAIyn4509emIeIHkGs) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [You must believe in spring](https://open.spotify.com/album/2K69h6JK7ZyinakSj3GYKf) | 3:30 | 2022-03-10 |  |
 | [You've Changed](https://open.spotify.com/track/6aNOZF4gBajxxwyUDipZHR) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [You’ve Changed](https://open.spotify.com/album/2PRzgBftdc0MsjSTdRo1la) | 4:31 | 2021-12-14 |  |
 

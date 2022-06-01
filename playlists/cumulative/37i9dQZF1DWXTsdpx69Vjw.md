@@ -4,7 +4,7 @@
 
 > The official playlist for The Pentaverate\. Watch now on Netflix.
 
-18 songs - 1 hr 24 min - not published yet
+18 songs - 1 hr 24 min - [published](https://open.spotify.com/playlist/2ejXzKudn1N4saUgHzbyKX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 141600,
       "name": "Bad Moon Rising",
       "url": "https://open.spotify.com/track/66FSV5dLK5sNLZ00IfHxfD"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 165426,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 155973,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 263040,
       "name": "Don't You (Forget About Me)",
       "url": "https://open.spotify.com/track/4aWn4NHlELpOehxsBaQeoe"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 206266,
       "name": "Dust in the Wind",
       "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 186960,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 218400,
       "name": "Go Your Own Way",
       "url": "https://open.spotify.com/track/0FeCO85RKW8fDRytwXof2x"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 160133,
       "name": "Have You Ever Seen The Rain",
       "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU"
@@ -693,6 +693,24 @@
       "duration_ms": 213013,
       "name": "Heroes - 1998 Remaster",
       "url": "https://open.spotify.com/track/2jDDiDPOBkNocJp1riU9a0"
+    },
+    {
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210160,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
     },
     {
       "album": {
@@ -743,7 +761,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 179386,
       "name": "Honky Tonk Women - Mono Version",
       "url": "https://open.spotify.com/track/3RZMzCvYsmJ0u2ioKTOsmJ"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 199453,
       "name": "Hungry Heart",
       "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 471160,
       "name": "L.A. Woman",
       "url": "https://open.spotify.com/track/6DmfWj5kOa1fX8AwN9byOn"
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 501213,
       "name": "Like a Hurricane - 2003 Remaster",
       "url": "https://open.spotify.com/track/4CqbJHZ6JtVM3MLh41y7JI"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 198866,
       "name": "My Generation - Mono Version",
       "url": "https://open.spotify.com/track/45s88Xopo6KvHc0PQ05aGg"
@@ -1323,7 +1341,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 180517,
       "name": "Need You Tonight",
       "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 268506,
       "name": "Owner of a Lonely Heart",
       "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
@@ -1467,7 +1485,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 236800,
       "name": "Relax",
       "url": "https://open.spotify.com/track/5VB2p0S9jlSXEUNT5wckIQ"
@@ -1637,7 +1655,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 434720,
       "name": "Riders on the Storm",
       "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
@@ -1835,7 +1853,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 121160,
       "name": "Song 2 - 2012 Remaster",
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
@@ -2051,7 +2069,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 247449,
       "name": "The Jean Genie - 2013 Remastered Version",
       "url": "https://open.spotify.com/track/3GGkKcUEC4xMxbJ9HEjWNg"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 190253,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
@@ -2275,7 +2293,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 314200,
       "name": "With A Little Help From My Friends",
       "url": "https://open.spotify.com/track/4pU7ed71DOZozQrBQzqkdw"
@@ -2311,7 +2329,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 511293,
       "name": "Won't Get Fooled Again - Original Album Version",
       "url": "https://open.spotify.com/track/0Rp4akmfqBTpbDM6EoqtNy"
@@ -2329,7 +2347,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 258732,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5wj4E6IsrVtn8IBJQOd0Cl"
@@ -2347,7 +2365,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 133933,
       "name": "You Really Got Me",
       "url": "https://open.spotify.com/track/1oG2vWELiGjIqxwqGcyqwF"
@@ -2383,7 +2401,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 306426,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF"

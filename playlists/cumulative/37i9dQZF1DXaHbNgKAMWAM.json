@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-30",
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
   "name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1EFWmjFnxGCvQODZkJc6C7"
+  ],
   "tracks": [
     {
       "album": {
@@ -51,7 +53,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 296832,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
@@ -146,6 +148,24 @@
     },
     {
       "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269616,
+      "name": "BEHIND YOU",
+      "url": "https://open.spotify.com/track/3KslL1oHw2JreJF9RBzuVt"
+    },
+    {
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
       },
@@ -157,7 +177,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 221081,
       "name": "best song",
       "url": "https://open.spotify.com/track/259vEYIeuiVqTcJsaaE696"
@@ -255,7 +275,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
@@ -410,6 +430,24 @@
     },
     {
       "album": {
+        "name": "Festival \ucd95\uc81c",
+        "url": "https://open.spotify.com/album/4lXOHA3pP937FCeGwtjpEA"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273453,
+      "name": "Festival \ucd95\uc81c",
+      "url": "https://open.spotify.com/track/0BTfcdQ402OBWD3Tx8ans5"
+    },
+    {
+      "album": {
         "name": "First Confession",
         "url": "https://open.spotify.com/album/42QP2KPf2IeWSJqDQ02BqD"
       },
@@ -421,7 +459,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 180275,
       "name": "First Confession",
       "url": "https://open.spotify.com/track/3vacBI1W3Ws6xX2KLsRfQi"
@@ -439,7 +477,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 228213,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6TtJ8RqkT729SKTzSdnZgH"
@@ -529,7 +567,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 243093,
       "name": "I Always Love You",
       "url": "https://open.spotify.com/track/1JbUf8ma0z1xrpQxnJKssz"
@@ -547,7 +585,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 251173,
       "name": "I love you more than me",
       "url": "https://open.spotify.com/track/44TKhC1koCNrslLPmGKu4A"
@@ -590,6 +628,24 @@
     },
     {
       "album": {
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218909,
+      "name": "inside",
+      "url": "https://open.spotify.com/track/0o90k4R7nOHeR0v8vQHZ1x"
+    },
+    {
+      "album": {
         "name": "It's ok not to be ok",
         "url": "https://open.spotify.com/album/7f42NHLfbFQzbCvRKJ3QT0"
       },
@@ -605,7 +661,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 205470,
       "name": "It's ok not to be ok (feat. LEE DAE HWI )",
       "url": "https://open.spotify.com/track/20PPqPcpr1r54Yy0ooUpme"
@@ -851,7 +907,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 189154,
       "name": "No Make Up",
       "url": "https://open.spotify.com/track/3PWyoYwI4iHLnLWltMt4gd"
@@ -876,6 +932,24 @@
     },
     {
       "album": {
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248078,
+      "name": "Our Love is Great",
+      "url": "https://open.spotify.com/track/6dO3kF1ZoKmybXyjSL3OmL"
+    },
+    {
+      "album": {
         "name": "Private Language",
         "url": "https://open.spotify.com/album/7z7fiojUks8WesV42xMf4r"
       },
@@ -887,7 +961,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 251441,
       "name": "Private Language",
       "url": "https://open.spotify.com/track/5PXbAtE5H3e3SkWXenu07T"
@@ -927,7 +1001,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 203906,
       "name": "Savior",
       "url": "https://open.spotify.com/track/4AQkhL8MzSguNeDS3vwu0G"
@@ -1151,7 +1225,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 239416,
       "name": "The Best Present (Prod. by PSY)",
       "url": "https://open.spotify.com/track/12nafIbZ2LAVfht3WMy33b"
@@ -1176,6 +1250,24 @@
     },
     {
       "album": {
+        "name": "Jang Beom June 1st Album",
+        "url": "https://open.spotify.com/album/107fG3CrNpvCVaFp9unNpG"
+      },
+      "artists": [
+        {
+          "name": "Jang Beom June",
+          "url": "https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281748,
+      "name": "The One I Love",
+      "url": "https://open.spotify.com/track/3yWyzP3pL3a0sd774Z63Lx"
+    },
+    {
+      "album": {
         "name": "Be Myself",
         "url": "https://open.spotify.com/album/2Ew3wpXdMGdw5FYVNQvm6L"
       },
@@ -1187,7 +1279,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 232880,
       "name": "The Only Star",
       "url": "https://open.spotify.com/track/4fNzkjJzuV3By2FRrl38yE"
@@ -1205,7 +1297,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 197066,
       "name": "Thermometer - ON Team Version",
       "url": "https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP"
@@ -1277,7 +1369,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 241413,
       "name": "Trust in Me (Piano by Cho Youngsoo)",
       "url": "https://open.spotify.com/track/7DULpHxJUhahQYxHGXmwcp"
@@ -1367,7 +1459,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 190522,
       "name": "Walking In The Memory",
       "url": "https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ"
@@ -1385,7 +1477,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 172245,
       "name": "WANT U",
       "url": "https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX"

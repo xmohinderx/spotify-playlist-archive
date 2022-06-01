@@ -4,7 +4,7 @@
 
 > Soft piano versions of jazz classics to lull your baby to sleep.
 
-74 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
+77 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,12 +12,14 @@
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 | 2022-04-12 |  |
 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 | 2022-04-12 |  |
 | [Alice In Wonderland](https://open.spotify.com/track/3KvvR3y5CZTt7Zef7y2Yc5) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Alice In Wonderland](https://open.spotify.com/album/7x5H2e51cujnBxayPva0C3) | 3:00 | 2022-05-10 | 2022-05-25 |
+| [Amazing Grace](https://open.spotify.com/track/1Ysn52DqNxhj2EWYIAvFWk) | [Esmee Price](https://open.spotify.com/artist/4Rl6N4VmQzqDlGKrG6YfgD) | [Amazing Grace](https://open.spotify.com/album/1Gw01tnxxPW9AKMgHE5Xmw) | 2:38 | 2022-06-01 |  |
 | [Autumn Leaves](https://open.spotify.com/track/4Rvzz7UMj2niJe83HgZx3Y) | [Jazz for Babies](https://open.spotify.com/artist/6HTqDlK6LS0Ju7P58XXW2T) | [The Piano Album](https://open.spotify.com/album/0eBs49NdPsqdca0VztAB4K) | 2:13 | 2022-04-12 | 2022-04-27 |
 | [Autumn Leaves](https://open.spotify.com/track/5sqvQARdZgWBHQbUmo1RCQ) | [Leo Doyle](https://open.spotify.com/artist/0iHePaUxXFl3dyJaCfbwbg) | [Moon River](https://open.spotify.com/album/42sPSx5wz9umkfdMf4XVCJ) | 2:07 | 2022-04-26 |  |
 | [Blue Moon](https://open.spotify.com/track/5rmh8KIWhqte8XIfaowQEf) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Jazz Standard Lullabies](https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb) | 2:20 | 2022-05-24 |  |
 | [Brahms Lullaby \- Reprise](https://open.spotify.com/track/2WzSx8Ns1IoGiGy9WHDACI) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Lullabies](https://open.spotify.com/album/3hq11SFFr5N1GiPUkx4xWZ) | 1:03 | 2022-04-12 |  |
 | [But Beautiful](https://open.spotify.com/track/2HrJMEYnGTwBSKVOV2v7Ks) | [Margaret Shu](https://open.spotify.com/artist/2rXYYqYz9gNCletxt5R1M5) | [You Know I Care](https://open.spotify.com/album/6stS7pmTQEtTSN6Gfiroul) | 3:51 | 2022-04-12 |  |
 | [Come Rain or Come Shine](https://open.spotify.com/track/0oVK8j9mHARdEf5IKX3r2s) | [John Paul Connor](https://open.spotify.com/artist/5tEfXL28fgpdT21o1yE7Zf) | [Embraceable You](https://open.spotify.com/album/1uyvwNjx3tPhpkvsinMZll) | 2:56 | 2022-04-12 |  |
+| [Con Alma](https://open.spotify.com/track/5iOP4mVVppHxNUwonMF1St) | [Stephani Scotty](https://open.spotify.com/artist/6OlnJtXfRsVPDUm8eQCWGH) | [Con Alma](https://open.spotify.com/album/4PB3kgtOFwssoItP8ZuDAI) | 2:35 | 2022-06-01 |  |
 | [Darn That Dream](https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Darn That Dream](https://open.spotify.com/album/1Hs8Ia3HjN1JzaXNEwJ6Y3) | 3:52 | 2022-04-12 |  |
 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 | 2022-04-12 |  |
 | [Dolphin Dance](https://open.spotify.com/track/1db8iPd7L5PMc7T2R1MOrR) | [Alfred Silverstein](https://open.spotify.com/artist/0n0lqiPhrNcf4uF5hjCkbW) | [The Nearness Of You](https://open.spotify.com/album/6ma76nnxJK36EugzKI3vPI) | 4:10 | 2022-04-12 |  |
@@ -36,7 +38,8 @@
 | [If You Could See Me Now](https://open.spotify.com/track/53BeSVY0mpmucCIr0pDkPp) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [If You Could See Me Now](https://open.spotify.com/album/1gtcWSvAdOvvJ9Ya82g5Mk) | 3:20 | 2022-04-12 |  |
 | [In Another Day](https://open.spotify.com/track/21uYfxqePi9cX2aHvsEGAI) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In Another Day](https://open.spotify.com/album/326l5lpeuTwSNNyZ9GpbHc) | 3:14 | 2022-04-12 |  |
 | [In Her Eyes](https://open.spotify.com/track/0PjTLWBueZwMxxEnGl9WAc) | [Gilbert Cox](https://open.spotify.com/artist/5k72AHmEdjc1CkZXnjfk1k) | [In Her Eyes](https://open.spotify.com/album/0pt2ss1BhksqkmuK0yagok) | 2:30 | 2022-04-12 | 2022-05-11 |
-| [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2022-04-12 |  |
+| [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2022-04-12 | 2022-06-01 |
+| [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/48hal9e9KiRKsqzO0DPDbr) | [Natalie Fall](https://open.spotify.com/artist/6YZdKBkkOEdojatkaX7rzE) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/71HFzTLemAiujFpkRd6mxd) | 2:48 | 2022-06-01 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [It Never Entered My Mind](https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd) | 4:46 | 2022-04-12 |  |
 | [It's Only A Paper Moon](https://open.spotify.com/track/7naIptuhLR1lTnnxx4Dx46) | [Maki Yuoma](https://open.spotify.com/artist/3VUflANX1g7LBvBXRZKatX) | [I Keep Clinging To Close](https://open.spotify.com/album/4rCMPGvTEERHD29NspCuC7) | 4:26 | 2022-04-12 |  |
 | [Just Friends](https://open.spotify.com/track/1f3DJiFqPSWaWoPvEsbFTp) | [Simon Parrish](https://open.spotify.com/artist/7CJ8E44Q0ShDRlMUojPQ3q) | [Just Friends](https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion) | 2:01 | 2022-04-12 |  |

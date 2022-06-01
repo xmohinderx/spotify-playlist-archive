@@ -4,7 +4,7 @@
 
 > 지금 국내에서 가장 핫한 노래들을 만나보세요! \(커버: IVE\(아이브\)\)
 
-50 songs - 2 hr 43 min - not published yet
+50 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/69FUGFsW4OBtls4BtdFXep)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

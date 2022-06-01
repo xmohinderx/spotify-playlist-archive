@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
@@ -3925,7 +3925,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 244780,
       "name": "Garmish",
       "url": "https://open.spotify.com/track/08M0nuLM2GDEf9YoxMLmjH"
@@ -6347,7 +6347,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 202093,
       "name": "Lost in the Fire (feat. The Weeknd)",
       "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
@@ -6851,7 +6851,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
@@ -12326,6 +12326,24 @@
     },
     {
       "album": {
+        "name": "Zabraven",
+        "url": "https://open.spotify.com/album/6YCZuwLaW7ImuwHnUe5BqI"
+      },
+      "artists": [
+        {
+          "name": "Alex Robov",
+          "url": "https://open.spotify.com/artist/3dUX6G8rrysXN3GVdfpOBA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221724,
+      "name": "Zabraven",
+      "url": "https://open.spotify.com/track/5MaFlpAHHxv7f3MMQLxF0Q"
+    },
+    {
+      "album": {
         "name": "FAKT. ZASLUJAVAM. SCENATA.",
         "url": "https://open.spotify.com/album/6h2R71xZWTPrILvEsaNBGo"
       },
@@ -13195,6 +13213,24 @@
       "duration_ms": 180025,
       "name": "\u041c\u043e\u0440\u044f\u043a",
       "url": "https://open.spotify.com/track/3DZMR7h7qm12wnPh7P4DqT"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0440. \u041f\u0435\u0440\u0444\u0435\u043a\u0442\u0435\u043d",
+        "url": "https://open.spotify.com/album/2uTHyf7CYQRLnWWNZoiVEk"
+      },
+      "artists": [
+        {
+          "name": "Papi Hans",
+          "url": "https://open.spotify.com/artist/27szsMQxZzAUJrm5BmhaNY"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "\u041c\u0440. \u041f\u0435\u0440\u0444\u0435\u043a\u0442\u0435\u043d",
+      "url": "https://open.spotify.com/track/3EafBu8bBdhrkLe84OgnNZ"
     },
     {
       "album": {

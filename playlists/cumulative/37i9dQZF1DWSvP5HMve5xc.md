@@ -4,7 +4,7 @@
 
 > Listen to Eric Nam's greatest hits, all in one place.
 
-58 songs - 3 hr 10 min - not published yet
+58 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/64ceLtYUlFs3VLXFCEHFFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

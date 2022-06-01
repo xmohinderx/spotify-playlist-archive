@@ -4,7 +4,7 @@
 
 > Reggae music for dogs that know what’s up.
 
-52 songs - 3 hr 13 min - not published yet
+52 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/2Fuyw5LCFsf6fNCZdyK7YB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

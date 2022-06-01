@@ -1,13 +1,29 @@
 {
   "description": "Stray Kids everywhere all around the world. You make Stray Kids STAY. Are you a MANIAC?",
-  "num_followers": 677951,
+  "num_followers": 678364,
   "original_name": "This Is Stray Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQwNDk2MSwwMDAwMDAzNzAwMDAwMTgwZjY5ZDhhOTcwMDAwMDE3ZjhiZWQ0NmIw",
+  "snapshot_id": "MTY1NDA0Nzk5NSwwMDAwMDAzODAwMDAwMTgxMWNmMTc3OWEwMDAwMDE3ZjhiZWQ0NmIw",
   "tracks": [
+    {
+      "added_at": "2022-06-01 01:46:35",
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/6bzE9nsQ1rXWUCsRQ18toq"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 196386,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t"
+    },
     {
       "added_at": "2022-05-24 15:09:21",
       "album": {

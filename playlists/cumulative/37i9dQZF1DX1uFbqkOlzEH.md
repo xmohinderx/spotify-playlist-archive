@@ -4,7 +4,7 @@
 
 > Crush on Crush's K\-R&B and musics.
 
-101 songs - 6 hr 6 min - not published yet
+101 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/0AgsqAvfHbdqkSc0aWP6fc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

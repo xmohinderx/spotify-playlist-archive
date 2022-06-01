@@ -4,7 +4,7 @@
 
 > Just chill...
 
-258 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+259 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Magia](https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Magia](https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7) | 3:19 | 2021-08-27 |  |
 | [Make Me Wanna](https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Make Me Wanna](https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs) | 3:22 | 2022-01-21 |  |
 | [Make You Feel](https://open.spotify.com/track/2aufjq2wqMFwGBunVLaxiE) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Make You Feel](https://open.spotify.com/album/79kIGfwT0BTsljM6eCBlff) | 4:52 | 2020-01-28 | 2022-05-12 |
-| [Me and Your Mama](https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:19 | 2022-05-02 |  |
+| [Me and Your Mama](https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:19 | 2022-05-02 | 2022-06-01 |
 | [Mean](https://open.spotify.com/track/7xrwlO7d0pINF403SwlqeK) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Mean](https://open.spotify.com/album/7kaexmU6w343tzO0lrutvS) | 3:45 | 2020-06-26 | 2022-01-22 |
 | [Montara](https://open.spotify.com/track/49VM3vCQBFr1wJJw7xByGf) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Montara](https://open.spotify.com/album/7aIvhwqFnvV3hFp0ocKwzO) | 3:45 | 2020-04-17 | 2022-01-22 |
 | [Moonboy](https://open.spotify.com/track/3j4P8ytkoDpBFePPrXHEbe) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Moonboy](https://open.spotify.com/album/2LhpR3TL7xqk8N4wJBTGIN) | 2:12 | 2020-08-21 |  |
@@ -172,6 +172,7 @@
 | [Ocean](https://open.spotify.com/track/7tqLWumGlP0N0ouyj49WLk) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Ocean](https://open.spotify.com/album/06Cmr5pNMEZ3zAQAjQYd8E) | 4:21 | 2021-01-15 | 2022-01-22 |
 | [Of The Age](https://open.spotify.com/track/7FoA4uLN2FnUnOcDfNlX0C) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/12p8Tpkhv5tbW99wzGjP4D) | 4:13 | 2020-07-31 | 2022-01-22 |
 | [Opiate](https://open.spotify.com/track/1iXho1Srl0akpZSSHfOFvP) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Opiate](https://open.spotify.com/album/76XZv1ULphDrrtWPR37XQ7) | 2:31 | 2020-11-20 |  |
+| [Orange Blood](https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice) | 3:46 | 2022-06-01 |  |
 | [peas](https://open.spotify.com/track/7afu0r3cro65yBIL2YWp00) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [gelato](https://open.spotify.com/album/4jA8mE55fT8Ae4wt51WB0y) | 3:46 | 2022-04-29 |  |
 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 | 2020-04-05 |  |
 | [peppermint](https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/556QP5oHeJuE4iuF8noifC) | 2:12 | 2020-08-03 |  |

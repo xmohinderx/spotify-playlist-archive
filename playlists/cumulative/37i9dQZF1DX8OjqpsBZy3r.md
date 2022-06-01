@@ -4,12 +4,13 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Mason Ramsey
 
-92 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
+93 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Beer Beer, Truck Truck"](https://open.spotify.com/track/5Vgfh5XyxNqcUG1sw9bj7k) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | ["Beer Beer, Truck Truck"](https://open.spotify.com/album/37UNLGhagCOwOKGkEEHqXV) | 2:26 | 2021-12-03 |  |
 | [2020](https://open.spotify.com/track/3OG2MwfPXYLvPMF4CK4Mo0) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [2020](https://open.spotify.com/album/0x4P3OHau9Y8JBYgt2lgCr) | 3:00 | 2021-12-03 | 2022-02-05 |
+| [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-06-01 |  |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-12-03 |  |
 | [Bad Things](https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Jace Everett](https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE) | 2:44 | 2022-02-09 |  |
 | [Before He Could](https://open.spotify.com/track/1RQ38vNdWlETjupj9IXdQm) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Finally](https://open.spotify.com/album/0HeTHWLmcrCShhRz79CKUe) | 3:30 | 2021-12-03 | 2022-02-05 |

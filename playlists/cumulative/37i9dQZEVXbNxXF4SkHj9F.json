@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 215026,
       "name": "AURA",
       "url": "https://open.spotify.com/track/4jP982FpZoDv729D0X8BiN"
@@ -7116,6 +7116,24 @@
     },
     {
       "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191293,
+      "name": "Love Station",
+      "url": "https://open.spotify.com/track/2LQCNmrPz6cIm1Y3sdwHO4"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -8276,6 +8294,24 @@
     },
     {
       "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172280,
+      "name": "Nest",
+      "url": "https://open.spotify.com/track/007S8LPHyug4UrgDWxiCxO"
+    },
+    {
+      "album": {
         "name": "Glitch Mode - The 2nd Album",
         "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
       },
@@ -9271,7 +9307,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 186586,
       "name": "POSE",
       "url": "https://open.spotify.com/track/6L22JhubMtyZNBEFuzeZKB"
@@ -10589,7 +10625,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
@@ -13135,7 +13171,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 223920,
       "name": "Whistle",
       "url": "https://open.spotify.com/track/7iKbV28gTF43LAeovwznXT"
@@ -13269,7 +13305,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 201487,
       "name": "With you - Instrumental",
       "url": "https://open.spotify.com/track/7M30L99pePlQ3wh8IxVUsD"

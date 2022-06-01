@@ -1,12 +1,12 @@
 {
-  "description": "With LGHTNNG, Fractal Man, Thomas Barrandon and more",
-  "num_followers": 11311,
+  "description": "With Android Automatic, LGHTNNG, Thomas Barrandon and more",
+  "num_followers": 11313,
   "original_name": "The Midnight Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDA0NjU0OCwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi",
+  "snapshot_id": "MTY1NDExOTM4OCwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mojave",
+        "url": "https://open.spotify.com/album/2XCd4YXwmphwn7twDPeH0o"
+      },
+      "artists": [
+        {
+          "name": "Android Automatic",
+          "url": "https://open.spotify.com/artist/314DqcJ4phYY7G4zhDKdKz"
+        }
+      ],
+      "duration_ms": 230807,
+      "name": "Sex in a Dream",
+      "url": "https://open.spotify.com/track/3bVCyM5RtJ2MSDB6XHdWOF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Keep It Together",
         "url": "https://open.spotify.com/album/02Brymd67Xo1Qlr3th1M0q"
       },
@@ -39,22 +55,6 @@
       "duration_ms": 219553,
       "name": "Keep It Together",
       "url": "https://open.spotify.com/track/3sWOKLWbe02RdNIQVb9sbv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Artifact",
-        "url": "https://open.spotify.com/album/11LhIIqtTtNMTD5NDiDYfo"
-      },
-      "artists": [
-        {
-          "name": "Fractal Man",
-          "url": "https://open.spotify.com/artist/28VMLZhrJILgl5WUAoG5Ke"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Artifact",
-      "url": "https://open.spotify.com/track/5ucZXugbbzRvVTLhqejnvv"
     },
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Artifact",
+        "url": "https://open.spotify.com/album/11LhIIqtTtNMTD5NDiDYfo"
+      },
+      "artists": [
+        {
+          "name": "Fractal Man",
+          "url": "https://open.spotify.com/artist/28VMLZhrJILgl5WUAoG5Ke"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Artifact",
+      "url": "https://open.spotify.com/track/5ucZXugbbzRvVTLhqejnvv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "City Hunter",
         "url": "https://open.spotify.com/album/6E5uRUjPHy4iikqyUDF8d7"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love N Hate",
-        "url": "https://open.spotify.com/album/58m1s4JMhAdFi6YYg4qJNA"
-      },
-      "artists": [
-        {
-          "name": "KUSH20",
-          "url": "https://open.spotify.com/artist/4V89zYBMdm07YRynxdcDUf"
-        }
-      ],
-      "duration_ms": 155306,
-      "name": "Love N Hate",
-      "url": "https://open.spotify.com/track/0VWkIUcOBzTcKPsvOaasUA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Quiet Earth",
         "url": "https://open.spotify.com/album/09Rd5hfBdtOBIhLaRvm96M"
       },
@@ -191,6 +191,22 @@
       "duration_ms": 268442,
       "name": "Deep Blue - Droid Bishop Remix",
       "url": "https://open.spotify.com/track/4w4tdTFijVgVvT3kujszX6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love N Hate",
+        "url": "https://open.spotify.com/album/58m1s4JMhAdFi6YYg4qJNA"
+      },
+      "artists": [
+        {
+          "name": "KUSH20",
+          "url": "https://open.spotify.com/artist/4V89zYBMdm07YRynxdcDUf"
+        }
+      ],
+      "duration_ms": 155306,
+      "name": "Love N Hate",
+      "url": "https://open.spotify.com/track/0VWkIUcOBzTcKPsvOaasUA"
     },
     {
       "added_at": null,
@@ -251,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juggaar",
-        "url": "https://open.spotify.com/album/6ET3bvBW3nlcQcQe0KKa5o"
-      },
-      "artists": [
-        {
-          "name": "McRocklin & Hutch",
-          "url": "https://open.spotify.com/artist/75Bfxp671skzkVfS7WzOAV"
-        }
-      ],
-      "duration_ms": 235033,
-      "name": "Juggaar",
-      "url": "https://open.spotify.com/track/1KwbYRY6sXhL279A8RFIOu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1987 EP",
         "url": "https://open.spotify.com/album/3UDVuWPt71dyZxu1eAUDSI"
       },
@@ -315,18 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mojave",
-        "url": "https://open.spotify.com/album/2XCd4YXwmphwn7twDPeH0o"
+        "name": "Juggaar",
+        "url": "https://open.spotify.com/album/6ET3bvBW3nlcQcQe0KKa5o"
       },
       "artists": [
         {
-          "name": "Android Automatic",
-          "url": "https://open.spotify.com/artist/314DqcJ4phYY7G4zhDKdKz"
+          "name": "McRocklin & Hutch",
+          "url": "https://open.spotify.com/artist/75Bfxp671skzkVfS7WzOAV"
         }
       ],
-      "duration_ms": 230807,
-      "name": "Sex in a Dream",
-      "url": "https://open.spotify.com/track/3bVCyM5RtJ2MSDB6XHdWOF"
+      "duration_ms": 235033,
+      "name": "Juggaar",
+      "url": "https://open.spotify.com/track/1KwbYRY6sXhL279A8RFIOu"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Girls on Bikes",
+        "url": "https://open.spotify.com/album/1HpE1r7TLkCwIrOhGsKSNB"
+      },
+      "artists": [
+        {
+          "name": "OSC",
+          "url": "https://open.spotify.com/artist/2qBrIR0SrDbH4CQhVUFvvN"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "The Ride Home",
+      "url": "https://open.spotify.com/track/2T6Dl1CpTCw3qjUy8dBKLv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost in Symmetry",
         "url": "https://open.spotify.com/album/1VqPBOaRAKYQExHI4h29qz"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 290390,
       "name": "Only the Brave",
       "url": "https://open.spotify.com/track/1tonKOjdtopJngxeOcCkPQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Landline",
-        "url": "https://open.spotify.com/album/2obSGg1FGBBOhYgSCeYgOZ"
-      },
-      "artists": [
-        {
-          "name": "Von Kaiser",
-          "url": "https://open.spotify.com/artist/51nqW8CQPJuau5vYVCLnds"
-        }
-      ],
-      "duration_ms": 352560,
-      "name": "Jetpacks",
-      "url": "https://open.spotify.com/track/4wM1e6S2jJrvxdK5qIYj5q"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Landline",
+        "url": "https://open.spotify.com/album/2obSGg1FGBBOhYgSCeYgOZ"
+      },
+      "artists": [
+        {
+          "name": "Von Kaiser",
+          "url": "https://open.spotify.com/artist/51nqW8CQPJuau5vYVCLnds"
+        }
+      ],
+      "duration_ms": 352560,
+      "name": "Jetpacks",
+      "url": "https://open.spotify.com/track/4wM1e6S2jJrvxdK5qIYj5q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turbulence",
         "url": "https://open.spotify.com/album/1sjg3emGXcOFStmqIUvFeU"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 234947,
       "name": "Reaction",
       "url": "https://open.spotify.com/track/5amLmA0GKkod442LeMjARW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Introspect",
-        "url": "https://open.spotify.com/album/1C49jimseChKEbLpIfpeJN"
-      },
-      "artists": [
-        {
-          "name": "Michael Oakley",
-          "url": "https://open.spotify.com/artist/7mxepENRg71jHuLHVeK07c"
-        }
-      ],
-      "duration_ms": 241981,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/1Z3W02BWJUtcLsecPaUNX2"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Introspect",
+        "url": "https://open.spotify.com/album/1C49jimseChKEbLpIfpeJN"
+      },
+      "artists": [
+        {
+          "name": "Michael Oakley",
+          "url": "https://open.spotify.com/artist/7mxepENRg71jHuLHVeK07c"
+        }
+      ],
+      "duration_ms": 241981,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/1Z3W02BWJUtcLsecPaUNX2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Parallels",
         "url": "https://open.spotify.com/album/6K59kbFzmxvH0pvoE4c4WA"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 261230,
       "name": "Sensual",
       "url": "https://open.spotify.com/track/6B03wZ2KC6XimN1BAWQMwC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2WpWTOPRjcOfOWUS8XSu6R"
-      },
-      "artists": [
-        {
-          "name": "PYLOT",
-          "url": "https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0"
-        }
-      ],
-      "duration_ms": 318000,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/00oSI5KQpdIvi1gxuMPF1D"
     }
   ],
   "unique_name": "The Midnight Radio",

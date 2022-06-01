@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Luna Is A Bep
 
-111 songs - 6 hr 37 min - not published yet
+111 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

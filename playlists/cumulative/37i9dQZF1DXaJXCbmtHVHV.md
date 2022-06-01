@@ -2,7 +2,7 @@
 
 ### [Big Country](https://open.spotify.com/playlist/37i9dQZF1DXaJXCbmtHVHV)
 
-> The top country hits of the week across America! Cover: Miranda Lambert
+> The top country hits of the week across America! Cover: Kane Brown
 
 88 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/78pqwl0BWOSiN7uMej6HJy)
 

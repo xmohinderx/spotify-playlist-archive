@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Once Upon A Time (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289453,
+      "name": "Alive And Kicking",
+      "url": "https://open.spotify.com/track/2x5IXUFOcvvBUtEpnCBNlp"
+    },
+    {
+      "album": {
         "name": "Wide Awake In Dreamland",
         "url": "https://open.spotify.com/album/1cglcD9iGtfheI7hmVdoUb"
       },
@@ -149,7 +167,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 219413,
       "name": "And She Was - 2005 Remaster",
       "url": "https://open.spotify.com/track/5nNZTUzinBDsnj3U76NJFC"
@@ -221,7 +239,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 185960,
       "name": "Brass in Pocket - 2006 Remaster",
       "url": "https://open.spotify.com/track/2hvOsGJc6qll4WzW8Ljqc3"
@@ -257,7 +275,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 237533,
       "name": "Chained To The Wheel",
       "url": "https://open.spotify.com/track/3OvlDKEAhtjnceGhbrwQOX"
@@ -293,7 +311,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 163373,
       "name": "Crazy Little Thing Called Love - Remastered 2011",
       "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 263680,
       "name": "Electric Blue",
       "url": "https://open.spotify.com/track/5aWvinQcbc1W1WdP0GQ6J1"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 245800,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/40QPoAAKKMwPms6I6FHJqy"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 222866,
       "name": "Heaven (Must Be There)",
       "url": "https://open.spotify.com/track/0mmshvONujbHTPmbchblbk"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 246520,
       "name": "Heaven Is a Place On Earth",
       "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
@@ -801,7 +819,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
@@ -855,7 +873,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 219466,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 243093,
       "name": "I'm Your Man",
       "url": "https://open.spotify.com/track/2gG7E5OZi5D5QLRIctv63z"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 226240,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 254200,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/0d4DyZYCiSH5fNnc0Hfz3L"
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 222866,
       "name": "One Summer",
       "url": "https://open.spotify.com/track/3cU8I44fRvC1b2MD8pClL9"
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 247333,
       "name": "She Has to Be Loved",
       "url": "https://open.spotify.com/track/7J170T0QGtd18ii8vHXk2e"
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 313533,
       "name": "Sledgehammer",
       "url": "https://open.spotify.com/track/029NqmIySn1kOY305AAhxT"
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 263106,
       "name": "Sussudio - 2016 Remaster",
       "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
@@ -1615,7 +1633,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 234333,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
@@ -1885,7 +1903,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 241400,
       "name": "You Win Again",
       "url": "https://open.spotify.com/track/19dL5Zj3Gxr6RGQHlAXxyF"

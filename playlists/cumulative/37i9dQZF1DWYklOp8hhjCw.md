@@ -4,7 +4,7 @@
 
 > Top Latin hits for the world’s most popular reptile pets.
 
-30 songs - 1 hr 47 min - not published yet
+30 songs - 1 hr 47 min - [published](https://open.spotify.com/playlist/1tI3AK78WjY1J2fVHK2elI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

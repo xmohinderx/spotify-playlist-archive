@@ -4,7 +4,7 @@
 
 > A perfect mix for your Mehendi evening.
 
-40 songs - 3 hr 26 min - not published yet
+40 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/7oiZrfdRzIQ2ploR2YcUiu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

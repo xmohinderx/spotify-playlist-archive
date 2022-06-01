@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 107200,
       "name": "Bomby",
       "url": "https://open.spotify.com/track/3LzcbcGFtBc1mfYJ8jvWbU"
@@ -3611,7 +3611,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 140624,
       "name": "Front 2 Back",
       "url": "https://open.spotify.com/track/21VhZw8GUbgWUD5SNwLPua"
@@ -5111,7 +5111,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 188000,
       "name": "KAM CESTY ZAVEDOU",
       "url": "https://open.spotify.com/track/3j9bp8CUDwtcDq8XEHqKRx"
@@ -7158,6 +7158,24 @@
     },
     {
       "album": {
+        "name": "Nejlep\u0161\u00ed stav",
+        "url": "https://open.spotify.com/album/45V088tZvRDHIozXXV0tkg"
+      },
+      "artists": [
+        {
+          "name": "Hasan",
+          "url": "https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197648,
+      "name": "Nejlep\u0161\u00ed stav",
+      "url": "https://open.spotify.com/track/1tRDwX7gApmpdSxeUaL3ar"
+    },
+    {
+      "album": {
         "name": "SUDETY SOLDIERZZ",
         "url": "https://open.spotify.com/album/1O1pd6MnZsOiDhxzmKjAdO"
       },
@@ -7739,6 +7757,28 @@
       "duration_ms": 122033,
       "name": "On Air",
       "url": "https://open.spotify.com/track/67cDtwqqP9GdTQ8tYQ2NpF"
+    },
+    {
+      "album": {
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
       "album": {
@@ -9097,7 +9137,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"

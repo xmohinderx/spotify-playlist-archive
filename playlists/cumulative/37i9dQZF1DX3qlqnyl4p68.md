@@ -4,7 +4,7 @@
 
 > Spooky sounds from your favorite horror features on Netflix.
 
-39 songs - 1 hr 44 min - not published yet
+39 songs - 1 hr 44 min - [published](https://open.spotify.com/playlist/4bN0zeSuBKVuYpNOMsD9q1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

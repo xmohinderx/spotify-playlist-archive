@@ -4,7 +4,7 @@
 
 > Blues with a lighter, up\-beat feel\. Cover: Taj Mahal & Keb' Mo'
 
-45 songs - 2 hr 55 min - not published yet
+45 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/4ymcSSyDhMzAQTgzdnWUwO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

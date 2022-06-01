@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 170794,
       "name": "All In",
       "url": "https://open.spotify.com/track/5NcMn3iIUNklw0hMFlUBAd"
@@ -1623,7 +1623,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 187013,
       "name": "Daft Pretty Boys",
       "url": "https://open.spotify.com/track/41d2Q6DHcM20OdzynkRtvf"
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 171243,
       "name": "Dance In Room Song",
       "url": "https://open.spotify.com/track/1gJNVpd713qDQd0kNS0uoF"
@@ -2113,7 +2113,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 136954,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
@@ -2531,7 +2531,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 246200,
       "name": "Funky Galileo",
       "url": "https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl"
@@ -2711,7 +2711,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 276764,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/4WsIARXwddxyLdL0kEnSvm"
@@ -4127,7 +4127,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 153959,
       "name": "MANY FACES",
       "url": "https://open.spotify.com/track/27cWalfVkjaY21WxHiR426"
@@ -4613,7 +4613,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 154841,
       "name": "New Girl",
       "url": "https://open.spotify.com/track/7xCsVk37Uom1L0v1YEjso0"
@@ -6027,7 +6027,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN"
@@ -6813,7 +6813,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
@@ -7037,7 +7037,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 181707,
       "name": "Uptight",
       "url": "https://open.spotify.com/track/222lvkVmQn5YrgGgykcrOk"
@@ -7055,10 +7055,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 196173,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1"
+    },
+    {
+      "album": {
+        "name": "Vickie",
+        "url": "https://open.spotify.com/album/526tAZMztvUDsuiSs4Z7Ml"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223944,
+      "name": "Vickie",
+      "url": "https://open.spotify.com/track/57U1PB3FAleLul5wMj5dEZ"
     },
     {
       "album": {
@@ -7361,7 +7379,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 205921,
       "name": "Yeah Yeah Yeah",
       "url": "https://open.spotify.com/track/32giR6EjJXyPBPS83p3o48"

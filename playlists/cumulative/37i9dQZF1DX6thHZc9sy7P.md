@@ -4,7 +4,7 @@
 
 > Guess who's back? Get into the Inner Circle with us!
 
-53 songs - 3 hr 3 min - not published yet
+53 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/4yXRq7PeOl3Nvb4y3CkIaE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

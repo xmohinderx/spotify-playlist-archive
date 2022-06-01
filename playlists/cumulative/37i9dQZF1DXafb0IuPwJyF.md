@@ -4,7 +4,7 @@
 
 > Hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: milet
 
-281 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
+282 songs - 17 hr 48 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [シャッターチャンス](https://open.spotify.com/track/3BOvX87QWTrfBRrwLsknTO) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [シャッターチャンス](https://open.spotify.com/album/3yQhrWT5kVTg1ME4oI043b) | 3:40 | 2022-03-06 | 2022-04-11 |
 | [ショック!](https://open.spotify.com/track/1eW2WQmmYbYe1MqxEh5tsV) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [ショック!](https://open.spotify.com/album/3kiNiNn5QbcFp5OOS5A6Q2) | 5:05 | 2022-01-30 | 2022-04-18 |
 | [ショック!](https://open.spotify.com/track/5JptX8WFwejyeb6OuKL7wG) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [アダプト](https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG) | 5:08 | 2022-04-17 | 2022-05-23 |
-| [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 | 2022-01-30 |  |
+| [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 | 2022-01-30 | 2022-06-01 |
 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 | 2022-01-23 | 2022-04-04 |
 | [スローモーション](https://open.spotify.com/track/0vBvzHyCIhghcqqQamSOZy) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [スローモーション](https://open.spotify.com/album/5wJFueegyDyd22s8EDgevS) | 3:40 | 2022-01-30 | 2022-03-07 |
 | [ダイナマイト](https://open.spotify.com/track/1fYp7sbbY8iiPVmkQ5R1RP) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [ダイナマイト](https://open.spotify.com/album/6FnpfHUAb6eca7168HPMw6) | 3:13 | 2022-05-29 |  |
@@ -211,6 +211,7 @@
 | [ローリア](https://open.spotify.com/track/52dyV2GHDKN6bvakUyoqKz) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [ローリア](https://open.spotify.com/album/76qgXZL5rOEtTlXv78oLim) | 4:04 | 2022-01-16 | 2022-01-24 |
 | [ワンルーム](https://open.spotify.com/track/2sBfhWqWDvPtkVTn1C3sef) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [ワンルーム](https://open.spotify.com/album/7CkrRPbmRr2zAgoSly512W) | 4:38 | 2021-12-19 | 2021-12-27 |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2021-12-19 | 2022-03-14 |
+| [優しさに溢れた世界で](https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [サニーボトル](https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew) | 4:18 | 2022-06-01 |  |
 | [光るとき](https://open.spotify.com/track/1MKAHjp9mxM80u8K3rROKf) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [光るとき](https://open.spotify.com/album/0xGnJth0EnzU8kupgRPZop) | 5:51 | 2022-01-16 | 2022-02-07 |
 | [初恋が泣いている](https://open.spotify.com/track/1vT6VdL9PrHOBziwubdt29) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [初恋が泣いている](https://open.spotify.com/album/3VEglNaW4ojsqUKftqryRf) | 3:59 | 2022-05-15 |  |
 | [北斗七星](https://open.spotify.com/track/2oPxMaCPeuNO6vNnqnvT7v) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [北斗七星](https://open.spotify.com/album/4sp1Czs2EWRdvyeZRcKSvV) | 5:30 | 2021-12-19 | 2021-12-27 |

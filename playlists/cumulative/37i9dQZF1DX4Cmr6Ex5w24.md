@@ -4,7 +4,7 @@
 
 > Revisit the retro Rahman
 
-94 songs - 8 hr 28 min - not published yet
+94 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/2m0rOYjqZBGwuIjvVWSPjN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,429 songs - 3 day 11 hr 17 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,430 songs - 3 day 11 hr 21 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1137,6 +1137,7 @@
 | [Soul Phazed](https://open.spotify.com/track/23L3C7CHo9NQR3uj62W28c) | [Jessica Hart](https://open.spotify.com/artist/41WPcAIdEkYBBn9lfiD6us) | [Soul Phazed](https://open.spotify.com/album/72fx005Eok1uET27uqssxq) | 4:17 | 2021-05-28 | 2021-06-13 |
 | [Soul Tie](https://open.spotify.com/track/2iVEGPTLFHNrTURqmt0lLW) | [Ninja Nai](https://open.spotify.com/artist/1HzJQa47y3chgBRun5Ur7n) | [Soul Tie](https://open.spotify.com/album/2rLFHdGKygEoV3BccXYrHx) | 3:14 | 2021-07-04 | 2021-07-18 |
 | [Souls Craving](https://open.spotify.com/track/6TwwOvtbI3SmzGjDeNBJl9) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Souls Craving](https://open.spotify.com/album/3Rzbg1Lg9U5Dhb9uAHPJoa) | 2:58 | 2022-04-08 | 2022-05-15 |
+| [Space & Time](https://open.spotify.com/track/5t7tS4mNmzSKVUjoEsvJUa) | [Palo Brea](https://open.spotify.com/artist/7iZVT9FeVAZA2oh5GRVjFY) | [Does Not Exist](https://open.spotify.com/album/13ZII4JeJBUTFUbxwZxXyu) | 4:12 | 2022-06-01 |  |
 | [Space+Space](https://open.spotify.com/track/2eT94a7Id3qQBw5PLl8GGx) | [Aroe Phoenix](https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO) | [Space+Space](https://open.spotify.com/album/53bsb7FeqEYNGtkVY8wquC) | 4:37 | 2022-05-15 |  |
 | [Spaceships](https://open.spotify.com/track/7fyU4Ce2YIkn3XCR1FKP05) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Green Balloon](https://open.spotify.com/album/4T9MbbBF5YuCU7T2bkOjTl) | 4:19 | 2020-08-20 |  |
 | [Speak Your Mind \(from the Netflix Series "We The People"\)](https://open.spotify.com/track/2w2nGYcTq7iP1Aj6AI8KIi) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Speak Your Mind \(from the Netflix Series "We The People"\)](https://open.spotify.com/album/0Xkq8tR6m6ofrw7Tq6cPZ8) | 3:13 | 2021-07-11 |  |

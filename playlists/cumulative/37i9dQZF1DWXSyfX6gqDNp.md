@@ -4,7 +4,7 @@
 
 > Slow jazz for evening listening pleasure.
 
-123 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
+127 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/3VSMYAVSnUHMgNonipRcsQ) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Close Your Eyes](https://open.spotify.com/album/2AKnOIZeclPvfNySSo7ANk) | 3:46 | 2022-04-12 |  |
 | [Comme Il Faut](https://open.spotify.com/track/575lRFJnR1wGYPN4r6qoi5) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Comme il faut](https://open.spotify.com/album/5xaDbiKgQA3kiGUKFvCgOz) | 3:42 | 2022-03-03 |  |
 | [Compassion](https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL) | [Jenny Jones](https://open.spotify.com/artist/0HFVyPMlIufaMqeLgnz8Ec) | [Compassion](https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv) | 4:11 | 2022-04-26 |  |
+| [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-06-01 |  |
 | [Cry Me a River](https://open.spotify.com/track/2fh1H49wUKXuIstqnVgkuz) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [Cry Me a River](https://open.spotify.com/album/7FdFjWnZPk76fC530goxrz) | 3:37 | 2022-05-10 |  |
 | [Danny Boy](https://open.spotify.com/track/0CS1pTW0N61b4yqHYWmsBQ) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:36 | 2022-02-03 |  |
 | [Danny´s Dream](https://open.spotify.com/track/5X7wI6LqZfnp6XGYRSktPo) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [If You Could See Me Now](https://open.spotify.com/album/6zyhwDtl3VvpjMUksJQMDl) | 3:34 | 2021-12-14 |  |
@@ -52,7 +53,7 @@
 | [Heyoke](https://open.spotify.com/track/00dxvvVllByEVaCnkLR1RL) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Heyoke](https://open.spotify.com/album/1qugT0donvhBonOVJIUjdy) | 4:09 | 2022-04-26 |  |
 | [Hill](https://open.spotify.com/track/6GFQLWVOpzCZIsvVk9jWQB) | [The Bourbon Trio](https://open.spotify.com/artist/6NwBJDTD73WjyAXoepnK4z) | [Head Start](https://open.spotify.com/album/1Nx0LA5GUp04wJU8tBlCQY) | 6:30 | 2021-12-14 | 2022-04-27 |
 | [Hirte](https://open.spotify.com/track/44GnQP1rFHn2BC7NJsQ183) | [Kilian Kemmer Trio](https://open.spotify.com/artist/6zmCAuOs8ughM18ryScvdm) | [Und Zarathustra Tanzte](https://open.spotify.com/album/0ZlritXzGMoiRAlFE9hU7i) | 5:23 | 2021-12-14 |  |
-| [How My Heart Sings](https://open.spotify.com/track/5liCciLu82rWull0PwMxBj) | [Dylan Lytle](https://open.spotify.com/artist/0mmQFz47dByQgYVEMqC8fF) | [How My Heart Sings](https://open.spotify.com/album/30wPThO6rsgeDJgvi17ZpP) | 3:05 | 2021-12-14 |  |
+| [How My Heart Sings](https://open.spotify.com/track/5liCciLu82rWull0PwMxBj) | [Dylan Lytle](https://open.spotify.com/artist/0mmQFz47dByQgYVEMqC8fF) | [How My Heart Sings](https://open.spotify.com/album/30wPThO6rsgeDJgvi17ZpP) | 3:05 | 2021-12-14 | 2022-06-01 |
 | [I Can't Give You Anything But Love](https://open.spotify.com/track/7sJOTQaJtgkqUviKXRmUQe) | [Harper Pepe](https://open.spotify.com/artist/5cSYeS27bdC8UZo83VY7GI) | [Days Of Wine And Roses](https://open.spotify.com/album/4yMvtwVj7GoKsYMt7FXxoc) | 2:52 | 2021-12-14 | 2022-04-27 |
 | [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2021-12-14 |  |
 | [I Got It Bad And That Ain't Good](https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 5:06 | 2021-12-14 |  |
@@ -74,11 +75,13 @@
 | [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2021-12-14 |  |
 | [Late Night Walk](https://open.spotify.com/track/2uSdRkfWEUU7kE9sDceU70) | [Henry Lindon](https://open.spotify.com/artist/6YFu93nQbZx5Nrt6Qjfj90) | [Late Night Walk](https://open.spotify.com/album/1IoNZGBuzPT37zMyRUHk1g) | 3:47 | 2021-12-14 |  |
 | [Laura](https://open.spotify.com/track/6nXrnq0lJpbowo1P84J2t7) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 4:50 | 2021-12-14 |  |
+| [Life In Paradise](https://open.spotify.com/track/7DhwU4DOhVLPI30Rj2X6e4) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [Life In Paradise](https://open.spotify.com/album/5TNHvnh6yY5FwDBqo3g59W) | 4:34 | 2022-06-01 |  |
 | [Lonely Woman \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 7:02 | 2021-12-14 |  |
 | [Lost in Orbit](https://open.spotify.com/track/7ijPIncR5k622S2j28ktCr) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Lost in Orbit](https://open.spotify.com/album/7L3O8woHpsgk4Us0PU7YdL) | 2:33 | 2021-12-14 |  |
 | [Love Is a Many\-Splendored Thing](https://open.spotify.com/track/23G8P94lKwgXNAKH2z5VP8) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 2:43 | 2021-12-14 |  |
 | [Lover For The Day](https://open.spotify.com/track/1IpTomdIM4HvZI2CnaPszo) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 3:31 | 2022-05-24 |  |
 | [Moment To Moment](https://open.spotify.com/track/5iUZ1247JyTUfjSoA4nVQl) | [Theo Rollins](https://open.spotify.com/artist/60QiTTvsk3chyatkaryUFL) | [Moment To Moment](https://open.spotify.com/album/3KeFD62A0IEmCOfn2CaC0K) | 2:57 | 2021-12-14 |  |
+| [Monk's Mood](https://open.spotify.com/track/5ypkP1XjtQTjVh77833W8J) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Monk's Mood](https://open.spotify.com/album/63znxspWv08GvBbaGCTJLp) | 4:00 | 2022-06-01 |  |
 | [Mood](https://open.spotify.com/track/1LS7O7v95kU5BbZny7ooni) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P.](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 8:50 | 2021-12-14 | 2022-05-18 |
 | [Moonbow](https://open.spotify.com/track/1l54HHTbA5ze9DnvBL93aw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Moonbow](https://open.spotify.com/album/3vAnUbVPNlM5HZzoYUFh4t) | 3:52 | 2022-04-26 |  |
 | [My Funny Valentine](https://open.spotify.com/track/4hCbA5XOPwCzNvUWKztpD9) | [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [Proof Positive](https://open.spotify.com/album/7dTSo2PZoS6W7aKny9I1hW) | 3:02 | 2021-12-14 | 2022-05-25 |
@@ -90,6 +93,7 @@
 | [Peace](https://open.spotify.com/track/2XbzKkjwyO7nVUThZSudGv) | [Winter Jazz Trio](https://open.spotify.com/artist/5qr5p04yN4FHmjJMuAq6Ne) | [Peace](https://open.spotify.com/album/1SR2WnYKiyvC2jTUcRhyIh) | 3:25 | 2021-12-14 |  |
 | [Postcards](https://open.spotify.com/track/1IxO95D87hSIyA20XTLCiU) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Postcards](https://open.spotify.com/album/6Oi5hnd7ZOiAlhv9AYTenT) | 3:05 | 2021-12-14 |  |
 | [Pretty Ballad](https://open.spotify.com/track/4T82mssmK8VpyjB6QVMlcI) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 3:26 | 2021-12-14 |  |
+| [Ruby, My Dear](https://open.spotify.com/track/4g3uehMazGScLiI42Xf9C4) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Ruby, My Dear](https://open.spotify.com/album/0rnHMooxC9N4V85h8dSuVp) | 2:48 | 2022-06-01 |  |
 | [Serenade In Blue](https://open.spotify.com/track/29nKWbQUYATHKzOGss2ssj) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Landslide](https://open.spotify.com/album/1cZifNyhDjtYokRPwLkqAB) | 5:02 | 2022-02-03 |  |
 | [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 | 2021-12-14 |  |
 | [Silhouette](https://open.spotify.com/track/1CcKHNpexFobMLQwN1MzKr) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 3:51 | 2021-12-14 |  |

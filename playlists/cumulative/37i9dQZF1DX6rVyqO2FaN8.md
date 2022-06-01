@@ -2,7 +2,7 @@
 
 ### [Still Hot](https://open.spotify.com/playlist/37i9dQZF1DX6rVyqO2FaN8)
 
-> Recent tracks from the Hot Country playlist that are still smokin'\. Cover: Luke Combs
+> Recent tracks from the Hot Country playlist that are still smokin'\. Cover: Midland
 
 117 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/0TBZn7zfejqBGy43W0aTCF)
 

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-30",
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
   "name": "\uc7ac\uc988\ub9db \ud799\ud569",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0JIQYIs8BcYEYxPxINEZdb"
+  ],
   "tracks": [
     {
       "album": {
@@ -25,6 +27,24 @@
       "duration_ms": 182868,
       "name": "010",
       "url": "https://open.spotify.com/track/6IIgIXUwRTY5wKfLYbJXqO"
+    },
+    {
+      "album": {
+        "name": "MALIK THE CACTUS FLOWER",
+        "url": "https://open.spotify.com/album/6LB9gCiUqrrHOZEoYZ730k"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163066,
+      "name": "20180222-20180930",
+      "url": "https://open.spotify.com/track/5918ji3b3679cnAjHFo9sU"
     },
     {
       "album": {
@@ -79,10 +99,50 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 197613,
       "name": "apple pie",
       "url": "https://open.spotify.com/track/1UVUQ1HwswnUm5SBbUbLm9"
+    },
+    {
+      "album": {
+        "name": "Chief Life",
+        "url": "https://open.spotify.com/album/6Ifmnvg316yXTFSyvIuT2o"
+      },
+      "artists": [
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227190,
+      "name": "Au Revoir",
+      "url": "https://open.spotify.com/track/76MukeJLzM1kLeXbPXDlec"
+    },
+    {
+      "album": {
+        "name": "Net,Trap,Launcher,Capture",
+        "url": "https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn"
+      },
+      "artists": [
+        {
+          "name": "unofficialboyy",
+          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
+        },
+        {
+          "name": "HAIFHAIF",
+          "url": "https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP"
     },
     {
       "album": {
@@ -101,7 +161,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 200607,
       "name": "BASS",
       "url": "https://open.spotify.com/track/25UCHfNEklg7Eqng7ErjFp"
@@ -225,7 +285,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 176680,
       "name": "Brown Eyes (Prod. The Quiett) - Bonus",
       "url": "https://open.spotify.com/track/1bPV6e7yWQcPeK5wAoe12A"
@@ -283,7 +343,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 186502,
       "name": "Cockroach",
       "url": "https://open.spotify.com/track/3zE0IW0EkOqKT0pk3LtLdn"
@@ -334,6 +394,32 @@
     },
     {
       "album": {
+        "name": "cozy",
+        "url": "https://open.spotify.com/album/5j4GRAoBEHy3XYlUUGsuD6"
+      },
+      "artists": [
+        {
+          "name": "wellcheeze",
+          "url": "https://open.spotify.com/artist/7mGMCe7cHcm1E6GtOo3jHi"
+        },
+        {
+          "name": "XINSAYNE",
+          "url": "https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS"
+        },
+        {
+          "name": "JP",
+          "url": "https://open.spotify.com/artist/6ype6OdT76l7252G7f1S2V"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181053,
+      "name": "cozy (Feat. Xinsayne, JP)",
+      "url": "https://open.spotify.com/track/1XzxTCasyQePyl4UyyBhTR"
+    },
+    {
+      "album": {
         "name": "00",
         "url": "https://open.spotify.com/album/6UT6I6PfNOmGh7sWdxMtS0"
       },
@@ -353,7 +439,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 256121,
       "name": "Cozy's Call Back (Feat. Kid milli, Duggshak)",
       "url": "https://open.spotify.com/track/6aFG12JZBAz2guN7TyghNk"
@@ -401,10 +487,54 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Ddanddara",
       "url": "https://open.spotify.com/track/52DuC06qxMPfRjYJsDApEE"
+    },
+    {
+      "album": {
+        "name": "Maze Garden",
+        "url": "https://open.spotify.com/album/2zoYQaGw1afawZD4nAoAjk"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        },
+        {
+          "name": "Sujin Park",
+          "url": "https://open.spotify.com/artist/2gkonIWljjR6P00qwvv1eq"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213741,
+      "name": "Direct Message",
+      "url": "https://open.spotify.com/track/1Utz8qNxA90sViCn9JwWOr"
+    },
+    {
+      "album": {
+        "name": "The Spoiled Child",
+        "url": "https://open.spotify.com/album/3W6pCwylFquhIXclKN1dic"
+      },
+      "artists": [
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317374,
+      "name": "Empty Spot",
+      "url": "https://open.spotify.com/track/13VuElqGiyeMzS6R7iVsY2"
     },
     {
       "album": {
@@ -419,7 +549,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 223636,
       "name": "Escape",
       "url": "https://open.spotify.com/track/4KWwu50PwXoTjzClhqz61h"
@@ -463,7 +593,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 235374,
       "name": "Flowers (feat.Justhis)",
       "url": "https://open.spotify.com/track/1S1nLBl7wUQUfIF9tfSEMR"
@@ -499,7 +629,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 240094,
       "name": "Girl in New York (jazz)",
       "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
@@ -539,7 +669,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 200186,
       "name": "gucci girl",
       "url": "https://open.spotify.com/track/1mqwUoKBZ0oci8NfA9czVG"
@@ -633,7 +763,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 93039,
       "name": "Human fever",
       "url": "https://open.spotify.com/track/7kLmCBlcTP2DR5lIiz22e3"
@@ -691,7 +821,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 173413,
       "name": "ice coffee",
       "url": "https://open.spotify.com/track/4aQJeAa6RUcM4iXrXRIjs4"
@@ -735,7 +865,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 178860,
       "name": "INSTANT (feat. SUMIN)",
       "url": "https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN"
@@ -753,7 +883,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 243000,
       "name": "Jazztext",
       "url": "https://open.spotify.com/track/770OKFkhuymVE3g2l9Ci3F"
@@ -793,7 +923,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 158100,
       "name": "Leica",
       "url": "https://open.spotify.com/track/5HGb06uR7zYFCADrkZ6ech"
@@ -859,7 +989,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 151000,
       "name": "Meantime (Feat. Fana, DJ 2BAE)",
       "url": "https://open.spotify.com/track/2rdNa1AvbBQeX76hd2ho9o"
@@ -921,7 +1051,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 220429,
       "name": "Money Serenade",
       "url": "https://open.spotify.com/track/6ihTPZHEJk83jNYr58dQL3"
@@ -947,7 +1077,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 230896,
       "name": "Moonstruck X Qim Isle & Oh Hyuk",
       "url": "https://open.spotify.com/track/4UZ9I1o0PEagsUucPpNWAX"
@@ -995,7 +1125,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 271508,
       "name": "Nike Shoes",
       "url": "https://open.spotify.com/track/6uyRhyW0IwG7yscIFNEnDg"
@@ -1051,7 +1181,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 265517,
       "name": "NUGS (with THAMA)",
       "url": "https://open.spotify.com/track/4HCbPGMKg61aZZ93SMEPpL"
@@ -1069,7 +1199,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 193494,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH"
@@ -1087,7 +1217,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 172225,
       "name": "paris and tokyo",
       "url": "https://open.spotify.com/track/6SMtaDw5xVGTPVexnw2eLM"
@@ -1131,7 +1261,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 193375,
       "name": "Piss On Me",
       "url": "https://open.spotify.com/track/4GJy4M67insCFuAUhluOza"
@@ -1157,10 +1287,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 221112,
       "name": "Price Tag (feat. Jessi, Ja Mezz)",
       "url": "https://open.spotify.com/track/3bOJ2oxgtl5XikXtdGVxUv"
+    },
+    {
+      "album": {
+        "name": "MALIK THE CACTUS FLOWER",
+        "url": "https://open.spotify.com/album/6LB9gCiUqrrHOZEoYZ730k"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/5iijK4TfFqwh3nZYapZ33V"
     },
     {
       "album": {
@@ -1190,6 +1338,28 @@
     },
     {
       "album": {
+        "name": "natural high",
+        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        },
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181469,
+      "name": "ride or die (feat. Chancellor)",
+      "url": "https://open.spotify.com/track/3GnutzFK2ijPUogERjEgBZ"
+    },
+    {
+      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -1205,7 +1375,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 155060,
       "name": "Room Service",
       "url": "https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W"
@@ -1245,7 +1415,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 179026,
       "name": "she like caffeine",
       "url": "https://open.spotify.com/track/5wC2fb5odceHwkQOBKI6Im"
@@ -1263,7 +1433,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 191489,
       "name": "shine freestyle",
       "url": "https://open.spotify.com/track/1X1BzVAgfH6iJYDW2nyLfn"
@@ -1281,7 +1451,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 168409,
       "name": "sip slow",
       "url": "https://open.spotify.com/track/1QP8PRugJUCVguelzD5v8a"
@@ -1299,7 +1469,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 203546,
       "name": "smile",
       "url": "https://open.spotify.com/track/2HwSgp64Nrmf1Ju7P9uAVr"
@@ -1369,7 +1539,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 205772,
       "name": "SS",
       "url": "https://open.spotify.com/track/2NlMwvRk38fLpC1AMRw7Lu"
@@ -1427,7 +1597,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 210337,
       "name": "Sunflower Dance (Feat. Kebee) (Prod. 216project)",
       "url": "https://open.spotify.com/track/526ORYv4twK8QIP18Z5156"
@@ -1445,7 +1615,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 172519,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3tUs4ckhlaxd5oBjfziABQ"
@@ -1481,7 +1651,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 154093,
       "name": "Today (Prod. The Quiett)",
       "url": "https://open.spotify.com/track/2ldKEIaeRhSz3UVrrIFace"
@@ -1507,7 +1677,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 248896,
       "name": "today also (feat. Paloalto & The Quiett)",
       "url": "https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X"
@@ -1580,6 +1750,24 @@
     },
     {
       "album": {
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155806,
+      "name": "Welcome to seoul",
+      "url": "https://open.spotify.com/track/5StHhl2yfuqvYT0TcYXuiW"
+    },
+    {
+      "album": {
         "name": "NEVERLAND",
         "url": "https://open.spotify.com/album/7s7MMsdOBtxCROI8WPbPCF"
       },
@@ -1602,6 +1790,28 @@
     },
     {
       "album": {
+        "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
+        "url": "https://open.spotify.com/album/7cndGLg8JUods3cbsLJvII"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272293,
+      "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/45R8aMTK1suFXTraQCzVRe"
+    },
+    {
+      "album": {
         "name": "Black & White Film",
         "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
       },
@@ -1617,7 +1827,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 272293,
       "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/5dhIalMumQFewgozEupkPi"
@@ -1701,7 +1911,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 190160,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/2sSMk1fkcz6rTKaQn711yz"

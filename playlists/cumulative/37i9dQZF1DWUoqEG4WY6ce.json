@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 285160,
       "name": "Blood Bank",
       "url": "https://open.spotify.com/track/7qUoDTmVj07qUf6ZBDhWKl"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 252960,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/4l9fOpDy6cqwaXSsl5l48v"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 247515,
       "name": "Furr",
       "url": "https://open.spotify.com/track/7yLfnmaMV6Hq0wuPPpC94i"
@@ -1817,7 +1817,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-13",
+      "date_removed": null,
       "duration_ms": 210093,
       "name": "Kamera",
       "url": "https://open.spotify.com/track/7xSUGewoItgxStLNXnoWkl"
@@ -1943,7 +1943,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
@@ -1961,7 +1961,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 185800,
       "name": "Let's Move To The Country",
       "url": "https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7"
@@ -1997,7 +1997,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 185451,
       "name": "Living Room",
       "url": "https://open.spotify.com/track/1Rg572m24H2cjrbzSYhW2g"
@@ -3129,7 +3129,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 230800,
       "name": "Sweet Disposition",
       "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
@@ -3623,7 +3623,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 201178,
       "name": "Unwind",
       "url": "https://open.spotify.com/track/3ET6DgEdRQZQiMmQenluWv"
@@ -3839,10 +3839,28 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 234800,
       "name": "Where'd All the Time Go?",
       "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
+    },
+    {
+      "album": {
+        "name": "Lucifer On The Sofa",
+        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193277,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
     },
     {
       "album": {
@@ -3875,7 +3893,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 139293,
       "name": "Window",
       "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
@@ -3965,7 +3983,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 287506,
       "name": "Yoshimi Battles the Pink Robots, Pt. 1",
       "url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
@@ -4001,7 +4019,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 279026,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/6M6UoxIPn4NOWW0x7JPRfv"

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
   "name": "This Is Brian Eno",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6sqVTJGS7SH6N8LENVKMbv"
+  ],
   "tracks": [
     {
       "album": {
@@ -465,7 +467,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 254000,
       "name": "Failing Light - Remastered 2004",
       "url": "https://open.spotify.com/track/6AlMwXm6QSGErCZU2rhtoi"
@@ -527,10 +529,32 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 240160,
       "name": "Golden Hours - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/0ikLV7zMypPFyLH57cKpRO"
+    },
+    {
+      "album": {
+        "name": "Cluster & Eno",
+        "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311600,
+      "name": "Ho Renomo",
+      "url": "https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH"
     },
     {
       "album": {
@@ -563,7 +587,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 151573,
       "name": "In Dark Trees - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/41RiTUEXw8uoCtLd8pcHVy"
@@ -816,6 +840,28 @@
     },
     {
       "album": {
+        "name": "Cluster & Eno",
+        "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185720,
+      "name": "Sch\u00f6ne H\u00e4nde",
+      "url": "https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv"
+    },
+    {
+      "album": {
         "name": "Brian Eno - Film Music 1976 ~ 2020",
         "url": "https://open.spotify.com/album/5DMrxqH65TaIJj7XFnxlFq"
       },
@@ -933,7 +979,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 247146,
       "name": "Spring Frost",
       "url": "https://open.spotify.com/track/0H2bToqKlvyx0K7dbPSlOb"
@@ -977,6 +1023,32 @@
       "duration_ms": 252346,
       "name": "Still Return - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/28KcS7Otucbm1uRQs8k21t"
+    },
+    {
+      "album": {
+        "name": "After the Heat",
+        "url": "https://open.spotify.com/album/0KsjHH3K0VIMuNOuvRWMBR"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Moebius",
+          "url": "https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC"
+        },
+        {
+          "name": "Roedelius",
+          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379066,
+      "name": "The Belldog",
+      "url": "https://open.spotify.com/track/0d2HX14emol25j4C8yL7SP"
     },
     {
       "album": {
@@ -1137,7 +1209,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 243306,
       "name": "Verdigris",
       "url": "https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp"

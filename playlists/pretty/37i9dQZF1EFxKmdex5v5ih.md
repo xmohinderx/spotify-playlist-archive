@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336 likes - 158 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,340 likes - 158 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,8 +158,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 148 | [The Other Side](https://open.spotify.com/track/0nHeGy8AW70D8sGlXQ40D6) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Chester See](https://open.spotify.com/artist/2iTiSaR023IikZDaOfEIRR) | [The Greatest Showman A Cappella](https://open.spotify.com/album/1jdS2Z2L7De7iyK68vLFeS) | 3:28 |
 | 149 | [All That Love](https://open.spotify.com/track/5rnGF6xiFwbXSL6IEELei8) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [All That Love \- SM STATION](https://open.spotify.com/album/4OJCJDqVmugtPC6iHCsdOZ) | 3:13 |
 | 150 | [Happy Sad Song Feat\. Symon](https://open.spotify.com/track/1IiWTBrfSe9oDbZvnLEavH) | [ChampionsLeak](https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4), [Symon](https://open.spotify.com/artist/0Yi8b2U9AemQbI0dj0jtRE) | [Championsleak \- Happy Sad Song](https://open.spotify.com/album/4n5vtJ81nC2br4fPmVRSwY) | 3:06 |
-| 151 | [RADAR](https://open.spotify.com/track/2a5eSTID3A3vRInGEe8cbL) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [LIGHT](https://open.spotify.com/album/0c7KtqXbSf6t2IPvAIaaxY) | 3:22 |
-| 152 | [Autopsy](https://open.spotify.com/track/4zotA5C9wM08d4vlXuioqb) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Identity \(Deluxe Edition\)](https://open.spotify.com/album/1LuX04eXLkZjPhgShQ6JNe) | 3:48 |
+| 151 | [Autopsy](https://open.spotify.com/track/4zotA5C9wM08d4vlXuioqb) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Identity \(Deluxe Edition\)](https://open.spotify.com/album/1LuX04eXLkZjPhgShQ6JNe) | 3:48 |
+| 152 | [RADAR](https://open.spotify.com/track/2a5eSTID3A3vRInGEe8cbL) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [LIGHT](https://open.spotify.com/album/0c7KtqXbSf6t2IPvAIaaxY) | 3:22 |
 | 153 | [Think of Me](https://open.spotify.com/track/2Wh9f0mW2IaJLgU4zj9bdM) | [HARIZ](https://open.spotify.com/artist/2bhndespnMFNIut7yIlThU) | [Reminisce](https://open.spotify.com/album/6PG9WY2lqwsESkwuvxr4Qo) | 3:07 |
 | 154 | [on my way](https://open.spotify.com/track/23MeW5kPmzySH9b8TY0gmD) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Songs From Tulip Drive](https://open.spotify.com/album/6MPHnKTSyVGgclUBl20W7W) | 2:57 |
 | 155 | [Sugar Daddy](https://open.spotify.com/track/2ZaXufYEd6MgPqh1alHWke) | [Malia Civetz](https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo) | [Heels in Hand](https://open.spotify.com/album/1U9H7bv1yLnbFafYTXnRBg) | 3:05 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 157 | [Alone](https://open.spotify.com/track/0Iy1TiQlp7wnvLz53NtILy) | [rnjmb](https://open.spotify.com/artist/0Hr6HyWdKgPN3P2VoZcy9v) | [Ends Meet](https://open.spotify.com/album/0R01Z4n7hg0M2zfMi08hbo) | 1:20 |
 | 158 | [On My Way](https://open.spotify.com/track/5FRkwf52xmTBh1qj97Q69d) | [Emma Constance](https://open.spotify.com/artist/2rzwqbsTmLEFXzjUYLPuhf) | [On My Way](https://open.spotify.com/album/6cd4NjWYIuzjje45zd2Unf) | 3:25 |
 
-Snapshot ID: `Mjc1Njc0MzAsMDAwMDAwMDAyMWRhNTQ3NDI4NTIyMGY5YjIzNTJhNmI3MDMzMTA2ZA==`
+Snapshot ID: `Mjc1Njg2MjksMDAwMDAwMDBiNDhlN2M4NzNjYWViMWY1YWU4YjFmYWQ1ODU2NjdmYQ==`

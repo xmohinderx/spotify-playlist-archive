@@ -4,7 +4,7 @@
 
 > All E.L.F's go to playlist! A brand new album is here! Listen to The Renaissance!
 
-128 songs - 7 hr 38 min - not published yet
+128 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/2UMJmYC8TKLWWGuzrB0lu5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

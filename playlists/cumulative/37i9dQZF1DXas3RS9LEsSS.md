@@ -4,7 +4,7 @@
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-58 songs - 3 hr 56 min - not published yet
+58 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/0qvevBr9lNKoCGGwYBd5uj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

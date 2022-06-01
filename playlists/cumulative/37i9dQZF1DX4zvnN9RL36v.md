@@ -4,7 +4,7 @@
 
 > 내 마음을 노랫말이 알아줄 때.
 
-71 songs - 4 hr 42 min - not published yet
+71 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/1ePLnJPdYrdhAdDDYNy420)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

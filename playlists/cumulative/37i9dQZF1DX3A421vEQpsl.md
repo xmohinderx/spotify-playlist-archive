@@ -4,7 +4,7 @@
 
 > Bollywood hits repackaged just for you\. Cover\- Ayushmann Khurrana, Vani kapoor, & Guru Randhawa
 
-70 songs - 4 hr 4 min - not published yet
+70 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/1RxcZY2SgLIUlL0fFKyBFg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

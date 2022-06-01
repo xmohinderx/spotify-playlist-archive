@@ -4,7 +4,7 @@
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-52 songs - 3 hr 49 min - not published yet
+52 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/1WLLFJuTnfNppcjxFVeBpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

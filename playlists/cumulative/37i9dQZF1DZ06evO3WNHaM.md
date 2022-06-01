@@ -4,7 +4,7 @@
 
 > This is Deftones\. The essential tracks, all in one playlist.
 
-48 songs - 3 hr 29 min - not published yet
+48 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/6DEt1huZc2mVFVWwUDL9jl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

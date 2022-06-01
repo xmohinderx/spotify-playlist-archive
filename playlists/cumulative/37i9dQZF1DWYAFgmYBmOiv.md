@@ -4,7 +4,7 @@
 
 > POV: you're a rockstar in the battle of the bands, curated by Jaeden Martell from Metal Lords\. Stay tuned for curation from other Netflix talent!
 
-21 songs - 1 hr 43 min - not published yet
+21 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/2G6quvBymHtG9ST7C2NhuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

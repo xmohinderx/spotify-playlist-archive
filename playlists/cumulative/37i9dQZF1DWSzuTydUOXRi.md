@@ -4,7 +4,7 @@
 
 > Songs by Asian Americans calling for self\-empowerment, self\-determination, solidarity, and fighting erasure\. Built in partnership with <a href="https://hateisavirus.org/">Hate Is A Virus</a> & <a href="https://www.traktivist.com/">TRAKTIVIST</a>.
 
-48 songs - 3 hr 4 min - not published yet
+48 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/2FvEkfftaPKO88puFMO8ny)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

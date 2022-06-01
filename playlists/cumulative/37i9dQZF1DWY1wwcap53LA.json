@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music making waves. Cover: Madeline Edwards",
+  "description": "Country music making waves. Cover: Darius Rucker",
   "name": "Country Frequency",
   "published_playlist_ids": [
     "2oo6Fd5OoiJz8X71tS41jA"
@@ -566,6 +566,24 @@
     },
     {
       "album": {
+        "name": "We Did",
+        "url": "https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164782,
+      "name": "If I Wanted Wine",
+      "url": "https://open.spotify.com/track/4cgwtyl8Ig2RxDTz0d0JyM"
+    },
+    {
+      "album": {
         "name": "Just Say I Love You",
         "url": "https://open.spotify.com/album/2HCLaqqb00O9PPNy4aYXx3"
       },
@@ -943,6 +961,24 @@
       "duration_ms": 216938,
       "name": "RUNNIN'",
       "url": "https://open.spotify.com/track/0oizb3QaqA45EQ7Isq85Ly"
+    },
+    {
+      "album": {
+        "name": "Same Beer Different Problem",
+        "url": "https://open.spotify.com/album/699sP9cMgoC77MayudRDkk"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180386,
+      "name": "Same Beer Different Problem",
+      "url": "https://open.spotify.com/track/2bLa8N2vtooX5Sc0r1NmzO"
     },
     {
       "album": {

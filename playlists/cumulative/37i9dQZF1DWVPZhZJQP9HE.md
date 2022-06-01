@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : OfRo
 
-95 songs - 5 hr 45 min - not published yet
+95 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Delia Derbyshire. The essential tracks, all in one playlist.",
   "name": "This Is Delia Derbyshire",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3wZZWTR0R8LBMRmKLWarQ2"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 41293,
       "name": "A New View of Politics",
       "url": "https://open.spotify.com/track/2tLBAVvLREIyKdHClrtXkK"
@@ -83,6 +85,32 @@
       "duration_ms": 625911,
       "name": "Circle of Light, Pt. 2",
       "url": "https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87200,
+      "name": "Depression",
+      "url": "https://open.spotify.com/track/0wYA5p0Px0APnNoV9M4lhK"
     },
     {
       "album": {
@@ -291,7 +319,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 122400,
       "name": "Effervescence",
       "url": "https://open.spotify.com/track/2JCDGlSg42vh0I246sX0Vu"
@@ -357,6 +385,24 @@
       "duration_ms": 126360,
       "name": "Frontier of Knowledge",
       "url": "https://open.spotify.com/track/3nHdx0RJhzQih0I21PnIju"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37186,
+      "name": "Great Zoos of the World",
+      "url": "https://open.spotify.com/track/39fgw4eQFh7AFDXNkchxrJ"
     },
     {
       "album": {
@@ -599,10 +645,36 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 119640,
       "name": "Nightwalker",
       "url": "https://open.spotify.com/track/0z3rbUCweRcD7g0i3Pbw4F"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110866,
+      "name": "Plodding Power",
+      "url": "https://open.spotify.com/track/5ameYEi5L28ecrqiu2necP"
     },
     {
       "album": {
@@ -713,7 +785,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 175733,
       "name": "The Pattern Emerges",
       "url": "https://open.spotify.com/track/1CG4YEEQpvYe8aEUXf1mvu"
@@ -739,7 +811,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 126200,
       "name": "The Wizard's Laboratory",
       "url": "https://open.spotify.com/track/0p40kpl217FFLVxBRevsAV"

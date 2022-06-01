@@ -1,37 +1,13 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 490869,
+  "num_followers": 490904,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDA0NjMzNywwMDAwMDAwMDU1OGY5NTg2NTE1MTk3M2RhMGVjZGRiMzk0YmQ3MTNh",
+  "snapshot_id": "MTY1NDExOTE4OCwwMDAwMDAwMDBhZmM1MjA1NjNiN2IzODYxZDhlYmYyNWVmNmViODM5",
   "tracks": [
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Runaway (with Sigala and JP Cooper)",
-        "url": "https://open.spotify.com/album/3ZdVOcrDeEyQt9UNPubYgo"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "Runaway (with Sigala and JP Cooper)",
-      "url": "https://open.spotify.com/track/6tS1Fm9z3UKuLSxrinY3pC"
-    },
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
@@ -55,6 +31,30 @@
       "duration_ms": 193548,
       "name": "Slow Dance (feat. Ava Max) - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/2wenGTypSYHXl1sN1pNC7X"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/2DUrw9sLe99AbZ8cRbsXk8"
+      },
+      "artists": [
+        {
+          "name": "Hot Shade",
+          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
+        },
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Chris James",
+          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
+        }
+      ],
+      "duration_ms": 164490,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0Npijoc6ZcUe1devUugKvI"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -103,6 +103,30 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "Runaway (with Sigala and JP Cooper)",
+        "url": "https://open.spotify.com/album/3ZdVOcrDeEyQt9UNPubYgo"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "Runaway (with Sigala and JP Cooper)",
+      "url": "https://open.spotify.com/track/6tS1Fm9z3UKuLSxrinY3pC"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "Get To Know You",
         "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
       },
@@ -115,6 +139,130 @@
       "duration_ms": 201666,
       "name": "Get To Know You",
       "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "I Don't Know Why",
+        "url": "https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 207667,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "BED",
+        "url": "https://open.spotify.com/album/2GgDZ0wSOWSD4916BWzbNX"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 178088,
+      "name": "BED",
+      "url": "https://open.spotify.com/track/7jXQUrVhEpXdymfFWNDnQW"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Bloodshot",
+        "url": "https://open.spotify.com/album/4WuiVI5VNSVok734IY2VJx"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "duration_ms": 195343,
+      "name": "Bloodshot",
+      "url": "https://open.spotify.com/track/3EZFmxil8IXOIL0De8etDN"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Lasting Lover",
+        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 218358,
+      "name": "Lasting Lover",
+      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Thinkin Bout You",
+        "url": "https://open.spotify.com/album/2NSafcBSIFQVzG16GR13Ni"
+      },
+      "artists": [
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        },
+        {
+          "name": "Jantine",
+          "url": "https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG"
+        }
+      ],
+      "duration_ms": 151626,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/2OEr2lzItRFTQvtzXT0wOm"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Be Okay (with HRVY)",
+        "url": "https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Be Okay (with HRVY)",
+      "url": "https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -143,46 +291,106 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/2DUrw9sLe99AbZ8cRbsXk8"
+        "name": "If You Wanna Be Loved (Remixes)",
+        "url": "https://open.spotify.com/album/5pUtajPrAxx9MrdR1epNUf"
       },
       "artists": [
         {
-          "name": "Hot Shade",
-          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
         },
         {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "Chris James",
-          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
+          "name": "John Gibbons",
+          "url": "https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo"
         }
       ],
-      "duration_ms": 164490,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/0Npijoc6ZcUe1devUugKvI"
+      "duration_ms": 211320,
+      "name": "If You Wanna Be Loved - John Gibbons Remix",
+      "url": "https://open.spotify.com/track/2p2GsIcE2GK25ysS0xDY6V"
     },
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Lasting Lover",
-        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
+        "name": "Everywhere (feat. Maya Avedis)",
+        "url": "https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "XO Cupid",
+          "url": "https://open.spotify.com/artist/1Fy4Vnoq3HspYLrgEs9VNc"
         },
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Maya Avedis",
+          "url": "https://open.spotify.com/artist/64msO0RZHKEtUsVvNtOrS4"
         }
       ],
-      "duration_ms": 218358,
-      "name": "Lasting Lover",
-      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
+      "duration_ms": 176129,
+      "name": "Everywhere (feat. Maya Avedis)",
+      "url": "https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
+        "url": "https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        }
+      ],
+      "duration_ms": 195924,
+      "name": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
+      "url": "https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Dancing in the Moonlight (feat. NEIMY)",
+        "url": "https://open.spotify.com/album/47hMwqG7KVLVzyMjgYUqxM"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 164009,
+      "name": "Dancing in the Moonlight (feat. NEIMY)",
+      "url": "https://open.spotify.com/track/5ow0sNF1zSqp71Ix5jEXWU"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Year of the Young",
+        "url": "https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Year of the Young",
+      "url": "https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -203,6 +411,130 @@
       "duration_ms": 180600,
       "name": "Summer Feeling",
       "url": "https://open.spotify.com/track/793OuR8rJ0zpVp708ONAxO"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Higher Power",
+        "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 211294,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Hold Me Close (feat. Ella Henderson)",
+        "url": "https://open.spotify.com/album/17S4c0rf1RXLZ0u4ez15E5"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Hold Me Close (feat. Ella Henderson)",
+      "url": "https://open.spotify.com/track/24aN8j7dBw0FxxKUBlCtd6"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Tick Tock (feat. 24kGoldn)",
+        "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "Tick Tock (feat. 24kGoldn)",
+      "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Only Want You (Martin Jensen Remix)",
+        "url": "https://open.spotify.com/album/1GwH97kX3Gxa2emwty0RTA"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "Only Want You - Martin Jensen Remix",
+      "url": "https://open.spotify.com/track/5dC3Cv6uGfyr16zJtr6n1n"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Lose Somebody",
+        "url": "https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 199549,
+      "name": "Lose Somebody",
+      "url": "https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
+        "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        }
+      ],
+      "duration_ms": 162081,
+      "name": "Beautiful People (feat. Khalid) - NOTD Remix",
+      "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -251,298 +583,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Bloodshot",
-        "url": "https://open.spotify.com/album/4WuiVI5VNSVok734IY2VJx"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "Charlotte Haining",
-          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
-        }
-      ],
-      "duration_ms": 195343,
-      "name": "Bloodshot",
-      "url": "https://open.spotify.com/track/3EZFmxil8IXOIL0De8etDN"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Year of the Young",
-        "url": "https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Year of the Young",
-      "url": "https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "I Don't Know Why",
-        "url": "https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 207667,
-      "name": "I Don't Know Why",
-      "url": "https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "If You Wanna Be Loved (Remixes)",
-        "url": "https://open.spotify.com/album/5pUtajPrAxx9MrdR1epNUf"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        },
-        {
-          "name": "John Gibbons",
-          "url": "https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "If You Wanna Be Loved - John Gibbons Remix",
-      "url": "https://open.spotify.com/track/2p2GsIcE2GK25ysS0xDY6V"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Lose Somebody",
-        "url": "https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 199549,
-      "name": "Lose Somebody",
-      "url": "https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "BED",
-        "url": "https://open.spotify.com/album/2GgDZ0wSOWSD4916BWzbNX"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 178088,
-      "name": "BED",
-      "url": "https://open.spotify.com/track/7jXQUrVhEpXdymfFWNDnQW"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Everywhere (feat. Maya Avedis)",
-        "url": "https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8"
-      },
-      "artists": [
-        {
-          "name": "XO Cupid",
-          "url": "https://open.spotify.com/artist/1Fy4Vnoq3HspYLrgEs9VNc"
-        },
-        {
-          "name": "Maya Avedis",
-          "url": "https://open.spotify.com/artist/64msO0RZHKEtUsVvNtOrS4"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Everywhere (feat. Maya Avedis)",
-      "url": "https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
-        "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        }
-      ],
-      "duration_ms": 162081,
-      "name": "Beautiful People (feat. Khalid) - NOTD Remix",
-      "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Dancing in the Moonlight (feat. NEIMY)",
-        "url": "https://open.spotify.com/album/47hMwqG7KVLVzyMjgYUqxM"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 164009,
-      "name": "Dancing in the Moonlight (feat. NEIMY)",
-      "url": "https://open.spotify.com/track/5ow0sNF1zSqp71Ix5jEXWU"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Lifestyle (feat. Adam Levine)",
-        "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
-        },
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 153865,
-      "name": "Lifestyle (feat. Adam Levine)",
-      "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Higher Power",
-        "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 211294,
-      "name": "Higher Power",
-      "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Rain On Me (with Ariana Grande)",
-        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Rain On Me (with Ariana Grande)",
-      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
-        "url": "https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        }
-      ],
-      "duration_ms": 195924,
-      "name": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
-      "url": "https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Body Back (feat. Maia Wright)",
-        "url": "https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 214634,
-      "name": "Body Back (feat. Maia Wright)",
-      "url": "https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/4w554Y1ts3lmzhn7hpfLBJ"
       },
@@ -559,6 +599,22 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/4wosxLl0mAqhneDzya2MfY"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Strawtown",
+        "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "duration_ms": 181101,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/68zNuCEl9UHTbcBltW2uDv"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -583,22 +639,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Be Okay (with HRVY)",
-        "url": "https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v"
+        "name": "Drown (feat. Clinton Kane)",
+        "url": "https://open.spotify.com/album/7rU4vsRIhRRfMt3qy6ADND"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
         }
       ],
-      "duration_ms": 141600,
-      "name": "Be Okay (with HRVY)",
-      "url": "https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW"
+      "duration_ms": 174062,
+      "name": "Drown (feat. Clinton Kane)",
+      "url": "https://open.spotify.com/track/4RVtBlHFKj51Ipvpfv5ER4"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -623,270 +679,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Tick Tock (feat. 24kGoldn)",
-        "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
+        "name": "Rain On Me (with Ariana Grande)",
+        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 178373,
-      "name": "Tick Tock (feat. 24kGoldn)",
-      "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Thinkin Bout You",
-        "url": "https://open.spotify.com/album/2NSafcBSIFQVzG16GR13Ni"
-      },
-      "artists": [
-        {
-          "name": "Jonasu",
-          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
-        },
-        {
-          "name": "Jantine",
-          "url": "https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG"
-        }
-      ],
-      "duration_ms": 151626,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/2OEr2lzItRFTQvtzXT0wOm"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "I'm Going Like",
-        "url": "https://open.spotify.com/album/0ltxBiyZK4kQ8NoGqRyIlA"
-      },
-      "artists": [
-        {
-          "name": "Hallman",
-          "url": "https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5"
-        }
-      ],
-      "duration_ms": 185681,
-      "name": "I'm Going Like",
-      "url": "https://open.spotify.com/track/4o7zeDjEoPALOH9ZN483Oj"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Drown (feat. Clinton Kane)",
-        "url": "https://open.spotify.com/album/7rU4vsRIhRRfMt3qy6ADND"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 174062,
-      "name": "Drown (feat. Clinton Kane)",
-      "url": "https://open.spotify.com/track/4RVtBlHFKj51Ipvpfv5ER4"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Hold Me Close (feat. Ella Henderson)",
-        "url": "https://open.spotify.com/album/17S4c0rf1RXLZ0u4ez15E5"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Hold Me Close (feat. Ella Henderson)",
-      "url": "https://open.spotify.com/track/24aN8j7dBw0FxxKUBlCtd6"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Never Really Over",
-        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Never Really Over",
-      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2ODO60s9DA3JW8uSUJbLOd"
-      },
-      "artists": [
-        {
-          "name": "Lance & Linton",
-          "url": "https://open.spotify.com/artist/6M3rUPqXzEcBsKFl0f9q8c"
-        },
-        {
-          "name": "NC Carson",
-          "url": "https://open.spotify.com/artist/4mmCU7zVOOUa384vOn7aKT"
-        }
-      ],
-      "duration_ms": 202908,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4SvgYftkBSTZJYleSA3psb"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Be Kind",
-        "url": "https://open.spotify.com/album/1mWXLzWQS9hleyqLwPGu8r"
-      },
-      "artists": [
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 181516,
-      "name": "Be Kind",
-      "url": "https://open.spotify.com/track/5pE4OLVJh5rjaLERbUgBB2"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Only Want You (Martin Jensen Remix)",
-        "url": "https://open.spotify.com/album/1GwH97kX3Gxa2emwty0RTA"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "Only Want You - Martin Jensen Remix",
-      "url": "https://open.spotify.com/track/5dC3Cv6uGfyr16zJtr6n1n"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Strawtown",
-        "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 181101,
-      "name": "Someone",
-      "url": "https://open.spotify.com/track/68zNuCEl9UHTbcBltW2uDv"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Heaven On My Mind (with Sigala)",
-        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "Heaven On My Mind (with Sigala)",
-      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Love Not War (The Tampa Beat)",
-        "url": "https://open.spotify.com/album/3CHys9v5aX1NS861o6r556"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Nuka",
-          "url": "https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z"
-        }
-      ],
-      "duration_ms": 192921,
-      "name": "Love Not War (The Tampa Beat)",
-      "url": "https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "Let It Be Me (feat. Ava Max)",
-      "url": "https://open.spotify.com/track/2F83FxNVkK6PPMHuYnwyVc"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Prisoner (feat. Dua Lipa)",
-        "url": "https://open.spotify.com/album/3hUh17FzYZwwZyNjU9B3vL"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Prisoner (feat. Dua Lipa)",
-      "url": "https://open.spotify.com/track/5JqZ3oqF00jkT81foAFvqg"
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -911,186 +719,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "New Love (feat. Ellie Goulding)",
-        "url": "https://open.spotify.com/album/6DFajhqhakGIy5A8gy0LcZ"
+        "name": "Body Back (feat. Maia Wright)",
+        "url": "https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF"
       },
       "artists": [
         {
-          "name": "Silk City",
-          "url": "https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
         }
       ],
-      "duration_ms": 190680,
-      "name": "New Love (feat. Ellie Goulding)",
-      "url": "https://open.spotify.com/track/3qcse1HvDQ1vGQo6Egtkom"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "if we never met (remix)",
-        "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 186594,
-      "name": "if we never met - remix",
-      "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "South of the Border (feat. Camila Cabello & Cardi B)",
-      "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Physical",
-        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Wildest Dream",
-        "url": "https://open.spotify.com/album/6ODxERtMHtA3HdaE1HRsMj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Gold",
-          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
-        },
-        {
-          "name": "Kosling",
-          "url": "https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD"
-        },
-        {
-          "name": "Matthew Steeper",
-          "url": "https://open.spotify.com/artist/5BCqO5LyLTOvo7etwfgQ7b"
-        }
-      ],
-      "duration_ms": 187510,
-      "name": "Wildest Dream",
-      "url": "https://open.spotify.com/track/0TgSQ4AWBShqMjYww6D8Yf"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Midnight Sky",
-        "url": "https://open.spotify.com/album/7z5fmW3FDD6jlpJtwMXV51"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 223279,
-      "name": "Midnight Sky",
-      "url": "https://open.spotify.com/track/27ycaQnQAxaPiyeg3nr2aB"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "We Got Love",
-        "url": "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "We Got Love",
-      "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Down The Line",
-        "url": "https://open.spotify.com/album/4yeJFk1UuwTByWxVPEOQul"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "TEN TIMES",
-          "url": "https://open.spotify.com/artist/3NccRg2H1XTSVekaTZZ3Xd"
-        }
-      ],
-      "duration_ms": 142913,
-      "name": "Down The Line",
-      "url": "https://open.spotify.com/track/1o8t0BCR9Jnmsq1o8MlvXe"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/4uJyrxM69IrTnjbISt72eU"
-      },
-      "artists": [
-        {
-          "name": "Walk Off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 169354,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/4jgCDh6JCkw2kEYuIyNxzI"
+      "duration_ms": 214634,
+      "name": "Body Back (feat. Maia Wright)",
+      "url": "https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1131,210 +775,198 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Crying In The Sun (Remixes)",
-        "url": "https://open.spotify.com/album/23d1NJtxGxLlsE6PWuJLYi"
+        "name": "7",
+        "url": "https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit"
       },
       "artists": [
         {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 195946,
-      "name": "Crying In The Sun",
-      "url": "https://open.spotify.com/track/0VQUyufAldw4Eitv71TPmg"
+      "duration_ms": 172933,
+      "name": "Let It Be Me (feat. Ava Max)",
+      "url": "https://open.spotify.com/track/2F83FxNVkK6PPMHuYnwyVc"
     },
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Hotel Walls",
-        "url": "https://open.spotify.com/album/3vo7F1U983bPR68ojP5aSj"
+        "name": "if we never met (remix)",
+        "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 206293,
-      "name": "Hotel Walls",
-      "url": "https://open.spotify.com/track/0IZoBFaTUG79KBfKlv8zmG"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Blue Jeans",
-        "url": "https://open.spotify.com/album/6MFTtmS3AZPsrZdi3nqJ80"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 170356,
-      "name": "Blue Jeans",
-      "url": "https://open.spotify.com/track/6KgZeNR9fab84NbLXa81cY"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "DANCE",
-        "url": "https://open.spotify.com/album/4YIOg7I2h6ISBGXijrVtLi"
-      },
-      "artists": [
-        {
-          "name": "CLMD",
-          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
         },
         {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         }
       ],
-      "duration_ms": 174448,
-      "name": "DANCE",
-      "url": "https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J"
+      "duration_ms": 186594,
+      "name": "if we never met - remix",
+      "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
     },
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0xpF1XxmYVSY6V9fiRiho2"
+        "name": "Love Not War (The Tampa Beat)",
+        "url": "https://open.spotify.com/album/3CHys9v5aX1NS861o6r556"
       },
       "artists": [
         {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 188166,
-      "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/5LKNumPGm1bEyVroDE4rcZ"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Sun Seeker",
-        "url": "https://open.spotify.com/album/5CsFIFM7KVWfHeB9pFRFNU"
-      },
-      "artists": [
-        {
-          "name": "Junge Junge",
-          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         },
         {
-          "name": "Redward Martin",
-          "url": "https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2"
+          "name": "Nuka",
+          "url": "https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z"
         }
       ],
-      "duration_ms": 173122,
-      "name": "Sun Seeker",
-      "url": "https://open.spotify.com/track/1Xt1WkY9gAtUJl8AaFWKzd"
+      "duration_ms": 192921,
+      "name": "Love Not War (The Tampa Beat)",
+      "url": "https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm"
     },
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Perfect (feat. Haris)",
-        "url": "https://open.spotify.com/album/3hOyUjdcI6wGuhk52tuH4g"
+        "name": "I'm Going Like",
+        "url": "https://open.spotify.com/album/0ltxBiyZK4kQ8NoGqRyIlA"
       },
       "artists": [
         {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Haris",
-          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
+          "name": "Hallman",
+          "url": "https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5"
         }
       ],
-      "duration_ms": 176517,
-      "name": "Perfect (feat. Haris)",
-      "url": "https://open.spotify.com/track/30cW9fD87IgbYFl8o0lUze"
+      "duration_ms": 185681,
+      "name": "I'm Going Like",
+      "url": "https://open.spotify.com/track/4o7zeDjEoPALOH9ZN483Oj"
     },
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/6oeqSsMiS8lxIi1L34ykXM"
+        "name": "Prisoner (feat. Dua Lipa)",
+        "url": "https://open.spotify.com/album/3hUh17FzYZwwZyNjU9B3vL"
       },
       "artists": [
         {
-          "name": "Drax Project",
-          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 169700,
-      "name": "Over It",
-      "url": "https://open.spotify.com/track/1I42QMyWviQKegiQRGim0S"
+      "duration_ms": 169333,
+      "name": "Prisoner (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/5JqZ3oqF00jkT81foAFvqg"
     },
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry"
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/4uJyrxM69IrTnjbISt72eU"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
         }
       ],
-      "duration_ms": 198995,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
+      "duration_ms": 169354,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/4jgCDh6JCkw2kEYuIyNxzI"
     },
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "The Truth (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/3eLaVXLiU0z1oguPxtNHLD"
+        "name": "Heaven On My Mind (with Sigala)",
+        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
       },
       "artists": [
         {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         }
       ],
-      "duration_ms": 220081,
-      "name": "The Truth - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/4ERDsm0YhyQuP32Qrvg2ne"
+      "duration_ms": 192573,
+      "name": "Heaven On My Mind (with Sigala)",
+      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     },
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Outta My Head",
-        "url": "https://open.spotify.com/album/10KFo28JgvBhgEDtSOzWFf"
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
       },
       "artists": [
         {
-          "name": "Love Harder",
-          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Julie Bergan",
-          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 156987,
-      "name": "Outta My Head",
-      "url": "https://open.spotify.com/track/2IaMy0anocqVCj9vMe8elL"
+      "duration_ms": 215360,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Easier (Seeb Remix)",
+        "url": "https://open.spotify.com/album/1N3m1ZId0DMGaCN83haJLs"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        }
+      ],
+      "duration_ms": 165767,
+      "name": "Easier - Seeb Remix",
+      "url": "https://open.spotify.com/track/6GIRtKNXokeu25nn7U6Hu8"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Lifestyle (feat. Adam Levine)",
+        "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        },
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 153865,
+      "name": "Lifestyle (feat. Adam Levine)",
+      "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1359,46 +991,50 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Crocodile Tears (feat. Jens Hult)",
-        "url": "https://open.spotify.com/album/1Dgk26akkLrvGSsGdm2jH4"
+        "name": "We Got Love",
+        "url": "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
         }
       ],
-      "duration_ms": 218800,
-      "name": "Crocodile Tears (feat. Jens Hult)",
-      "url": "https://open.spotify.com/track/2M7NfIlPjyGyepWVu3KVnY"
+      "duration_ms": 213040,
+      "name": "We Got Love",
+      "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
     },
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Keep It Simple (feat. Wilder Woods)",
-        "url": "https://open.spotify.com/album/1gJFQwSQ5VP9QodPiihPNA"
+        "name": "New Love (feat. Ellie Goulding)",
+        "url": "https://open.spotify.com/album/6DFajhqhakGIy5A8gy0LcZ"
       },
       "artists": [
         {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+          "name": "Silk City",
+          "url": "https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc"
         },
         {
-          "name": "Petey Martin",
-          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         },
         {
-          "name": "Wilder Woods",
-          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
         }
       ],
-      "duration_ms": 191578,
-      "name": "Keep It Simple (feat. Wilder Woods)",
-      "url": "https://open.spotify.com/track/58fGC7ZRlPhW1J7kLx1goK"
+      "duration_ms": 190680,
+      "name": "New Love (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/3qcse1HvDQ1vGQo6Egtkom"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1419,46 +1055,126 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Wasted Love (feat. Lagique)",
-        "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
+        "name": "Midnight Sky",
+        "url": "https://open.spotify.com/album/7z5fmW3FDD6jlpJtwMXV51"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Lagique",
-          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 139563,
-      "name": "Wasted Love (feat. Lagique)",
-      "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
+      "duration_ms": 223279,
+      "name": "Midnight Sky",
+      "url": "https://open.spotify.com/track/27ycaQnQAxaPiyeg3nr2aB"
     },
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Sweet & Sour (feat. Lauv & Tyga)",
-        "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/6oeqSsMiS8lxIi1L34ykXM"
       },
       "artists": [
         {
-          "name": "Jawsh 685",
-          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
-        },
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
         }
       ],
-      "duration_ms": 163228,
-      "name": "Sweet & Sour (feat. Lauv & Tyga)",
-      "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
+      "duration_ms": 169700,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/1I42QMyWviQKegiQRGim0S"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Crocodile Tears (feat. Jens Hult)",
+        "url": "https://open.spotify.com/album/1Dgk26akkLrvGSsGdm2jH4"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Crocodile Tears (feat. Jens Hult)",
+      "url": "https://open.spotify.com/track/2M7NfIlPjyGyepWVu3KVnY"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Starfields",
+        "url": "https://open.spotify.com/album/4DhKVJtLKZ2xsVGdOxxeqx"
+      },
+      "artists": [
+        {
+          "name": "Hallman",
+          "url": "https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5"
+        }
+      ],
+      "duration_ms": 161773,
+      "name": "Starfields",
+      "url": "https://open.spotify.com/track/7sGUv00CPJhdgKp7TmjRdG"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Be Kind",
+        "url": "https://open.spotify.com/album/1mWXLzWQS9hleyqLwPGu8r"
+      },
+      "artists": [
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 181516,
+      "name": "Be Kind",
+      "url": "https://open.spotify.com/track/5pE4OLVJh5rjaLERbUgBB2"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Never Really Over",
+        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223523,
+      "name": "Never Really Over",
+      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 204466,
+      "name": "South of the Border (feat. Camila Cabello & Cardi B)",
+      "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1483,22 +1199,86 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/3rlBLGrgdrneUIEpyWXovm"
+        "name": "Wildest Dream",
+        "url": "https://open.spotify.com/album/6ODxERtMHtA3HdaE1HRsMj"
       },
       "artists": [
         {
-          "name": "Erik Frank",
-          "url": "https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p"
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
         },
         {
-          "name": "Alex Parker",
-          "url": "https://open.spotify.com/artist/7oOfZSYouCcyk13dNrOpiX"
+          "name": "Kosling",
+          "url": "https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD"
+        },
+        {
+          "name": "Matthew Steeper",
+          "url": "https://open.spotify.com/artist/5BCqO5LyLTOvo7etwfgQ7b"
         }
       ],
-      "duration_ms": 215714,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/3PGYOWmCia5R4iLRnGHwyf"
+      "duration_ms": 187510,
+      "name": "Wildest Dream",
+      "url": "https://open.spotify.com/track/0TgSQ4AWBShqMjYww6D8Yf"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2ODO60s9DA3JW8uSUJbLOd"
+      },
+      "artists": [
+        {
+          "name": "Lance & Linton",
+          "url": "https://open.spotify.com/artist/6M3rUPqXzEcBsKFl0f9q8c"
+        },
+        {
+          "name": "NC Carson",
+          "url": "https://open.spotify.com/artist/4mmCU7zVOOUa384vOn7aKT"
+        }
+      ],
+      "duration_ms": 202908,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4SvgYftkBSTZJYleSA3psb"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 194720,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Don't Know Shit",
+        "url": "https://open.spotify.com/album/7jl621g56pgV9A0wd7YCty"
+      },
+      "artists": [
+        {
+          "name": "Dante Klein",
+          "url": "https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN"
+        },
+        {
+          "name": "Greff",
+          "url": "https://open.spotify.com/artist/1XPxbUBySuvGfUKvNaFiKl"
+        }
+      ],
+      "duration_ms": 155250,
+      "name": "Don't Know Shit",
+      "url": "https://open.spotify.com/track/0DUwcYoJl25u8YWMzfCtNH"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1527,6 +1307,146 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "Physical",
+        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Down The Line",
+        "url": "https://open.spotify.com/album/4yeJFk1UuwTByWxVPEOQul"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "TEN TIMES",
+          "url": "https://open.spotify.com/artist/3NccRg2H1XTSVekaTZZ3Xd"
+        }
+      ],
+      "duration_ms": 142913,
+      "name": "Down The Line",
+      "url": "https://open.spotify.com/track/1o8t0BCR9Jnmsq1o8MlvXe"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0xpF1XxmYVSY6V9fiRiho2"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 188166,
+      "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/5LKNumPGm1bEyVroDE4rcZ"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "I Got A Feeling",
+        "url": "https://open.spotify.com/album/1RQIpbfwNYLalU8PKNysqt"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 144136,
+      "name": "I Got A Feeling",
+      "url": "https://open.spotify.com/track/67khZBWjxlHg85xcwdySjS"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "My Bed (feat. RBVLN)",
+        "url": "https://open.spotify.com/album/5aUPakJYEkXMj4Mb6KX1DV"
+      },
+      "artists": [
+        {
+          "name": "Love Harder",
+          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tobtok",
+          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
+        },
+        {
+          "name": "RBVLN",
+          "url": "https://open.spotify.com/artist/224G27DUJ00ddLjId4mg68"
+        }
+      ],
+      "duration_ms": 166545,
+      "name": "My Bed (feat. RBVLN)",
+      "url": "https://open.spotify.com/track/75VwTAbn9byz537HEMlFvR"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Fake A Smile",
+        "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "duration_ms": 168118,
+      "name": "Fake A Smile",
+      "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "One Day Left",
+        "url": "https://open.spotify.com/album/03ZDIZy9LyQBKuDZDIrMeN"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "One Day Left",
+      "url": "https://open.spotify.com/track/52BgV5YV7PQ3u8DaM2amGP"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
       },
@@ -1551,78 +1471,158 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Don't Know Shit",
-        "url": "https://open.spotify.com/album/7jl621g56pgV9A0wd7YCty"
+        "name": "Sun Seeker",
+        "url": "https://open.spotify.com/album/5CsFIFM7KVWfHeB9pFRFNU"
       },
       "artists": [
         {
-          "name": "Dante Klein",
-          "url": "https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN"
+          "name": "Junge Junge",
+          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
         },
         {
-          "name": "Greff",
-          "url": "https://open.spotify.com/artist/1XPxbUBySuvGfUKvNaFiKl"
+          "name": "Redward Martin",
+          "url": "https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2"
         }
       ],
-      "duration_ms": 155250,
-      "name": "Don't Know Shit",
-      "url": "https://open.spotify.com/track/0DUwcYoJl25u8YWMzfCtNH"
+      "duration_ms": 173122,
+      "name": "Sun Seeker",
+      "url": "https://open.spotify.com/track/1Xt1WkY9gAtUJl8AaFWKzd"
     },
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Break My Heart",
-        "url": "https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs"
+        "name": "Blue Jeans",
+        "url": "https://open.spotify.com/album/6MFTtmS3AZPsrZdi3nqJ80"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
         }
       ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
+      "duration_ms": 170356,
+      "name": "Blue Jeans",
+      "url": "https://open.spotify.com/track/6KgZeNR9fab84NbLXa81cY"
     },
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Some Say (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
+        "name": "betterman",
+        "url": "https://open.spotify.com/album/5gYe1vPlS7yMRsGTgoByBP"
       },
       "artists": [
         {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+          "name": "Virginia To Vegas",
+          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
+        }
+      ],
+      "duration_ms": 188946,
+      "name": "betterman",
+      "url": "https://open.spotify.com/track/2mvGl0m5Pg87PJzKzssPdi"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Wasted Love (feat. Lagique)",
+        "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
         },
+        {
+          "name": "Lagique",
+          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
+        }
+      ],
+      "duration_ms": 139563,
+      "name": "Wasted Love (feat. Lagique)",
+      "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Perfect (feat. Haris)",
+        "url": "https://open.spotify.com/album/3hOyUjdcI6wGuhk52tuH4g"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Haris",
+          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
+        }
+      ],
+      "duration_ms": 176517,
+      "name": "Perfect (feat. Haris)",
+      "url": "https://open.spotify.com/track/30cW9fD87IgbYFl8o0lUze"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
+      },
+      "artists": [
         {
           "name": "Felix Jaehn",
           "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
         }
       ],
-      "duration_ms": 186878,
-      "name": "Some Say - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
+      "duration_ms": 160794,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
     },
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Fake A Smile",
-        "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 168118,
-      "name": "Fake A Smile",
-      "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
+      "duration_ms": 198995,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Hotel Walls",
+        "url": "https://open.spotify.com/album/3vo7F1U983bPR68ojP5aSj"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 206293,
+      "name": "Hotel Walls",
+      "url": "https://open.spotify.com/track/0IZoBFaTUG79KBfKlv8zmG"
     }
   ],
   "unique_name": "Powerwalk!",

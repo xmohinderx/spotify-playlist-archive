@@ -4,7 +4,7 @@
 
 > 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: CHANKA
 
-35 songs - 2 hr 5 min - not published yet
+35 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/2GxyEQrmuXvghh261BCyYI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

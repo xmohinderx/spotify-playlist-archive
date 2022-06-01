@@ -2,7 +2,7 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country Music that ROCKS!!  <br/>Cover: Whiskey Myers
+> Country Music that ROCKS!!  <br/>Cover: Bailey Zimmerman
 
 145 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 

@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Sadurn \| Visual Artist: Bailey Elder
 
-100 songs - 6 hr 1 min - not published yet
+100 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

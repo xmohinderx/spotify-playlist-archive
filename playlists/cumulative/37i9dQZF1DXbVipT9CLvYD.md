@@ -4,7 +4,7 @@
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Don
 
-57 songs - 3 hr 53 min - not published yet
+57 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/5ViJtyAwBRLu7fqFg9JMgY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

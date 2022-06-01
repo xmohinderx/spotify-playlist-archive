@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country gone wild! You never know what you're gonna get.  Artist: Kassi Ashton",
+  "description": "Country gone wild! You never know what you're gonna get. Artist: Tyler Hubbard",
   "name": "Wild Country",
   "published_playlist_ids": [
     "2NFX3fEEavFql8EoHSR8S8"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+    },
     {
       "album": {
         "name": "A Hard Working Man (feat. Billy Ray Cyrus & Snoop Dogg)",

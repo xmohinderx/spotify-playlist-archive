@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-363 songs - 16 hr 22 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+364 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,7 @@
 | [TBX](https://open.spotify.com/track/56pC18AuAtMsZ9v9Zvlawk) | [B.M.A](https://open.spotify.com/artist/7u4EK4hD90g4KfyVWzU6R3) | [TBX](https://open.spotify.com/album/5He2p8riLLP9baO38RqzFB) | 2:15 | 2022-03-10 | 2022-03-25 |
 | [The Town](https://open.spotify.com/track/0iHQD3mRm4QZMfLSZUQcwl) | [Moewgli](https://open.spotify.com/artist/2QQcLziAzX1VdysI6Mvsl0), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [The Town](https://open.spotify.com/album/0IVxLy1T3bsxSPDu9HAeuY) | 2:43 | 2022-01-25 | 2022-03-05 |
 | [THIS IS SWEDEN](https://open.spotify.com/track/3V3JLjSoFwiFpMLR4i2WoZ) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [THIS IS SWEDEN](https://open.spotify.com/album/2QMWHihNqo4gLIQQJc4YMF) | 2:36 | 2022-02-03 | 2022-03-21 |
-| [Thug Part 2](https://open.spotify.com/track/06kMUDNk8XfiTdc5GVqsER) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Thug Part 2](https://open.spotify.com/album/1L5PlhGUyk4ANyM3TmnYE5) | 3:08 | 2022-03-17 |  |
+| [Thug Part 2](https://open.spotify.com/track/06kMUDNk8XfiTdc5GVqsER) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Thug Part 2](https://open.spotify.com/album/1L5PlhGUyk4ANyM3TmnYE5) | 3:08 | 2022-03-17 | 2022-06-01 |
 | [Tillbaka](https://open.spotify.com/track/4a1JogEAJAOSvrCLKPqdHy) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Tillbaka](https://open.spotify.com/album/6zNgY4f0YcCSi2A05o75HQ) | 2:12 | 2022-05-05 |  |
 | [Tjejerna Tjejerna Tjejerna](https://open.spotify.com/track/0pQeJklkLoaVxj2xhdmSsZ) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Tjejerna Tjejerna Tjejerna](https://open.spotify.com/album/05276OHhCjgNlD97iKHdib) | 3:19 | 2022-04-28 |  |
 | [Tom & Jerry](https://open.spotify.com/track/5nmFhQ21POL6w05g8jyHr6) | [Knut](https://open.spotify.com/artist/7lBUy2Bz6FcZ0nEdCWI7it), [Alex Lopesz](https://open.spotify.com/artist/7nJ49RC4Z3AM1cC4hzavDH) | [Tom & Jerry](https://open.spotify.com/album/5AUPXNGEpAo9bczJjdQvoY) | 2:30 | 2022-05-26 |  |
@@ -362,6 +362,7 @@
 | [walalkey](https://open.spotify.com/track/3g5aTp8szeYDr8fNHlDgLp) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [E4an](https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi) | [ep med e4an](https://open.spotify.com/album/6twwDTYPvpwXonouvR4ltf) | 3:40 | 2022-05-20 |  |
 | [Wenak](https://open.spotify.com/track/30Tt419KEJc975scikyTU0) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Wow 2](https://open.spotify.com/album/4KXjjprbUmEVaQfw0OERWW) | 3:07 | 2021-12-16 | 2022-02-25 |
 | [What's The Plan? \(feat\. Naod\)](https://open.spotify.com/track/4Xwl2xxHppkhAgAEl4RY3X) | [Ice Csay](https://open.spotify.com/artist/4X1fbaUNw7K6pXP9WRQ7Dr), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [What's The Plan? \(feat\. Naod\)](https://open.spotify.com/album/0ENksSnSExIMzCT3jom4Ww) | 2:42 | 2022-03-04 | 2022-03-18 |
+| [Window Shopper](https://open.spotify.com/track/7IA61hZr2za83qAfeyC49u) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Window Shopper](https://open.spotify.com/album/1kUpXT3OAzoiy7l1KtsX9y) | 2:36 | 2022-06-01 |  |
 | [WINNER \(feat\. A36\)](https://open.spotify.com/track/0i0ZCP4Yh3kLl1Z0k9BhBX) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [WINNER \(feat\. A36\)](https://open.spotify.com/album/2NYYASJxQRlVDysDHjqL2z) | 2:37 | 2022-03-17 | 2022-05-06 |
 | [Woman – Spotify Studio 100 Recording](https://open.spotify.com/track/2NsStPAsAhgdVqFl67R56M) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Woman – Spotify Studio 100 Recording](https://open.spotify.com/album/4qGxMmnCtIluxut29qDVUy) | 2:18 | 2022-02-10 |  |
 | [Wrong](https://open.spotify.com/track/7v8xBtqysin09ZJydjvBrU) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Wrong](https://open.spotify.com/album/3EcMZZdQTERvCfqacWzDJY) | 2:22 | 2022-04-07 | 2022-05-13 |

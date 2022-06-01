@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados con Wisin & Yandel, Sech y Jhay Cortez
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,096 likes - 66 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,162 likes - 66 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 33 | [Party El Hp](https://open.spotify.com/track/0m3qQMXKBDHhakpggnmsW1) | [Flako Gallego](https://open.spotify.com/artist/2tNVW9A320DdMR2fQNGKuZ), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Party El Hp](https://open.spotify.com/album/2ObIly6QYNlovuJ2fPuJ6l) | 3:10 |
 | 34 | [La Prendo](https://open.spotify.com/track/6t48UVZvQWh5wWfWlCZfzY) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Prendo](https://open.spotify.com/album/4eCRi01qxklHWrG0sIra8x) | 3:01 |
 | 35 | [Flauta](https://open.spotify.com/track/0j57dN0pcYrnyaS3qPQUFn) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Deeper X \(Part 1\)](https://open.spotify.com/album/2UgN9DlIqhTRvKK6qhJSVW) | 3:09 |
-| 36 | [Sem Vestígios \- Ao Vivo No Rio De Janeiro / 2022](https://open.spotify.com/track/6Tcd0CzqwA9tz6bU1jijoY) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Resenha Do Mumu \(Ao Vivo No Rio De Janeiro / 2022\)](https://open.spotify.com/album/4IDqB3GfcED9rpqhR0Aizk) | 2:59 |
+| 36 | [Sem Vestígios \- Ao Vivo](https://open.spotify.com/track/6Tcd0CzqwA9tz6bU1jijoY) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Resenha Do Mumu \(Ao Vivo No Rio De Janeiro / 2022\)](https://open.spotify.com/album/4IDqB3GfcED9rpqhR0Aizk) | 2:59 |
 | 37 | [La Distancia](https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [La Distancia](https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi) | 3:47 |
 | 38 | [OBSESIONADO](https://open.spotify.com/track/7eA4ZQ0yiMkf2PfghMuhj7) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [OBSESIONADO](https://open.spotify.com/album/4H1FtloRiBPjl5hpHJWOX2) | 2:27 |
 | 39 | [No La Usan](https://open.spotify.com/track/3O7Ll2CxlfalalVnblygMy) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Rojas On The Beat](https://open.spotify.com/artist/48yQpzWYzshNnJ2bmruUS5) | [No La Usan](https://open.spotify.com/album/1MSSa1iaAitYGdLPS28qk7) | 3:31 |

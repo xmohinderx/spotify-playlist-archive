@@ -2,22 +2,22 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: 4EVE
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: ATLAS
 
-98 songs - 6 hr 3 min - not published yet
+98 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1001 \(You're Lovely\)](https://open.spotify.com/track/7ip4DUtdpLH4TkHfKgFbpf) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [1001 \(You're Lovely\)](https://open.spotify.com/album/034QxEQoDA2B6O8rtNglTe) | 3:14 | 2022-05-26 |  |
 | [17 นาที](https://open.spotify.com/track/1CfKHIQhgKrUMAkj4VwI4J) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [mints](https://open.spotify.com/artist/6mehI8OceoNGRHfevtc4l0) | [17 นาที](https://open.spotify.com/album/5SJUJTC3angIZd2p8kmBUR) | 3:35 | 2022-05-26 |  |
 | [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 | 2022-05-26 |  |
-| [Blurred](https://open.spotify.com/track/1wCAXionqFLLZPUNY2nd6c) | [FrameThanavuch](https://open.spotify.com/artist/0K44arrw4gdFLzifOQLORP) | [Blurred](https://open.spotify.com/album/6RCVDrIfZY3darb6ig8Vn9) | 4:27 | 2022-05-26 |  |
+| [Blurred](https://open.spotify.com/track/1wCAXionqFLLZPUNY2nd6c) | [FrameThanavuch](https://open.spotify.com/artist/0K44arrw4gdFLzifOQLORP) | [Blurred](https://open.spotify.com/album/6RCVDrIfZY3darb6ig8Vn9) | 4:27 | 2022-05-26 | 2022-06-01 |
 | [I DON'T MISS YOU](https://open.spotify.com/track/0Xv1iMu2DaRL7R7g7dhQIa) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [I DON'T MISS YOU](https://open.spotify.com/album/58Yq6ydlcwCNCmoHmyHxuC) | 3:27 | 2022-05-26 |  |
 | [I'll Do It How You Like It](https://open.spotify.com/track/0GEfa5zT6C6ryDExkiJ2Zh) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [I'll Do It How You Like It](https://open.spotify.com/album/5jJ39vXfSuJl5x13eh1Ne6) | 3:07 | 2022-05-26 |  |
 | [Lavender](https://open.spotify.com/track/3BV2YcwoVRxK4dXxyaHpZU) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Lavender](https://open.spotify.com/album/2rtLGvRaYgmrI3zbcIq5LM) | 4:13 | 2022-05-26 |  |
 | [Melbourne](https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [Melbourne](https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w) | 3:02 | 2022-05-26 |  |
 | [Sad Movie](https://open.spotify.com/track/1nenRWbemVvsxnxg296eFB) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bright Vachirawit](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [Sad Movie](https://open.spotify.com/album/4OKtFyWg0TeKYXK4v5Upw7) | 3:48 | 2022-05-26 |  |
-| [sit down \(please\)](https://open.spotify.com/track/6rdvnD6z1xJbTidt3Q9FJP) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [sit down \(please\)](https://open.spotify.com/album/5At3PVA5w5fTxoyd4USrkP) | 3:45 | 2022-05-26 |  |
+| [sit down \(please\)](https://open.spotify.com/track/6rdvnD6z1xJbTidt3Q9FJP) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [sit down \(please\)](https://open.spotify.com/album/5At3PVA5w5fTxoyd4USrkP) | 3:45 | 2022-05-26 | 2022-06-01 |
 | [Sunkissed](https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n) | [Urworld](https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN) | [Sunkissed](https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL) | 4:02 | 2022-05-26 |  |
 | [SuperCarCare](https://open.spotify.com/track/2qKXdSbREFW4Py3i7leW0r) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [SuperCarCare](https://open.spotify.com/album/0kXMZh2WQ9PjlGRXOSknC7) | 3:27 | 2022-05-26 |  |
 | [Wish](https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [You \(Are\) Mean a Lot to Me](https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq) | 4:31 | 2022-05-26 |  |
@@ -65,7 +65,7 @@
 | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \- From "แปลรักฉันด้วยใจเธอ Part 2"](https://open.spotify.com/track/24mB1soS8zLHLG1GK9Hvjd) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \[From "แปลรักฉันด้วยใจเธอ Part 2"\]](https://open.spotify.com/album/5Crvl5H8eEBKItvGi9W0Yi) | 3:19 | 2022-05-26 |  |
 | [รู้ตัวอีกที](https://open.spotify.com/track/6eAn3ifcCuuVDPwVhOyvDx) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [รู้ตัวอีกที](https://open.spotify.com/album/2CrWjZJNbi0sU4Xp2wpkxm) | 3:25 | 2022-05-26 |  |
 | [ลบไม่ได้ช่วยให้ลืม \(Erase\)](https://open.spotify.com/track/5AMYykC6sdveY7NfwHNUm4) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ลบไม่ได้ช่วยให้ลืม \(Erase\)](https://open.spotify.com/album/4eQhhdfCD27Z4Bqx3J8R23) | 3:44 | 2022-05-26 |  |
-| [ล้น \(Overload\)](https://open.spotify.com/track/50wPHjbH9CLpaaMGkVuMuY) | [PAM ANSHISA](https://open.spotify.com/artist/5Y84b3jX9aGpTr4F1CMNnP) | [ล้น \(Overload\)](https://open.spotify.com/album/50GNBFiyYpDoPgjGvVihYp) | 3:54 | 2022-05-26 |  |
+| [ล้น \(Overload\)](https://open.spotify.com/track/50wPHjbH9CLpaaMGkVuMuY) | [PAM ANSHISA](https://open.spotify.com/artist/5Y84b3jX9aGpTr4F1CMNnP) | [ล้น \(Overload\)](https://open.spotify.com/album/50GNBFiyYpDoPgjGvVihYp) | 3:54 | 2022-05-26 | 2022-06-01 |
 | [วังวน\(BOXX FROM HOME\)](https://open.spotify.com/track/3o4erj1cYrVQFUNcKAYZoH) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [วังวน\(BOXX FROM HOME\)](https://open.spotify.com/album/6FGIbgcEoo3V6nnMT6H0h8) | 4:40 | 2022-05-26 |  |
 | [วัดปะหล่ะ? \(Test Me\)](https://open.spotify.com/track/0gEewSHZqPiNQa9DqeeUXj) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [The First Album](https://open.spotify.com/album/5dqU6JzyweoetwSDtq2E8I) | 3:40 | 2022-05-26 |  |
 | [วันครบเลิก \- UNNIVERSARY](https://open.spotify.com/track/7vUrVGEoDUfxHZFK4lDTKR) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [วันครบเลิก \(UNNIVERSARY\)](https://open.spotify.com/album/1GtffmavEKtJaNYvsH5tK9) | 4:10 | 2022-05-26 |  |

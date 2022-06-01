@@ -1818,6 +1818,24 @@
     },
     {
       "album": {
+        "name": "California Sessions",
+        "url": "https://open.spotify.com/album/4JuvwXDh08DajGwNrvVoOH"
+      },
+      "artists": [
+        {
+          "name": "Manu Zain",
+          "url": "https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1uI5SfxcOTpnxjU3DGlJGM"
+    },
+    {
+      "album": {
         "name": "Maze",
         "url": "https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj"
       },

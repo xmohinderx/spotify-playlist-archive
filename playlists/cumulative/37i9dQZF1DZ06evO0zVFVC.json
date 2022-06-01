@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-31",
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
   "name": "This Is Parkway Drive",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6u2iDNee0h9mQQPZozV8gU"
+  ],
   "tracks": [
     {
       "album": {
@@ -262,6 +264,24 @@
     },
     {
       "album": {
+        "name": "Viva The Underdogs",
+        "url": "https://open.spotify.com/album/5wLd53vzbBM0TIa0NmwxGb"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233700,
+      "name": "Die Leere",
+      "url": "https://open.spotify.com/track/1c4c8iipyUGlCbpwDvomRD"
+    },
+    {
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
       },
@@ -295,6 +315,24 @@
       "duration_ms": 313120,
       "name": "Flesh, Bone and Weakness",
       "url": "https://open.spotify.com/track/0cu6AGJwPrVuwFn4Kub30A"
+    },
+    {
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248453,
+      "name": "Home Is For The Heartless",
+      "url": "https://open.spotify.com/track/2mvi7qtDNLuh25oOcHVEOk"
     },
     {
       "album": {
@@ -691,7 +729,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 139473,
       "name": "Unrest",
       "url": "https://open.spotify.com/track/79e7Mpm2SLGmlxpGgjoWKr"

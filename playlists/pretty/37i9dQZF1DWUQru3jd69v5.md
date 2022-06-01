@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione di rapper italiani\. Cover: Icy Subzero
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,553 likes - 56 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,571 likes - 56 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 23 | [LA LEGGE NON È UGUALE PER TUTTI](https://open.spotify.com/track/3kaKs57hDKwhN96DqIOgbF) | [ZiYou](https://open.spotify.com/artist/6RdaSvAxIod8j6aBm7cF4U) | [LA LEGGE NON È UGUALE PER TUTTI](https://open.spotify.com/album/4QTx2RJCk856MP5vQ4WkQy) | 2:39 |
 | 24 | [Kabuki](https://open.spotify.com/track/7kCVDY7Cq1ybLjLs7nwJTI) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Kabuki](https://open.spotify.com/album/7zv9IOwE1AVvnvxuQOw0Ye) | 3:00 |
 | 25 | [Silenzioso](https://open.spotify.com/track/6LwupnM2Cd5bvKcegSXBWF) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Tempoxso](https://open.spotify.com/artist/1iVTp6WbD6ajQlBHtGoOUq) | [Silenzioso](https://open.spotify.com/album/0wmn2eLaiFYf2qN57RcWgH) | 2:05 |
-| 26 | [Lacoste 3](https://open.spotify.com/track/3yC4Kyj5a9VHGzxkXjJpqA) | [Laroi](https://open.spotify.com/artist/38ntwE6U0glm5X0Cg0Zhje), [Kalash247](https://open.spotify.com/artist/0uWqSeCUMHjnUwa3Ia3ZcL), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Lacoste 3](https://open.spotify.com/album/422FB0TYxeguMqC7pieW8i) | 2:37 |
+| 26 | [Lacoste 3](https://open.spotify.com/track/3yC4Kyj5a9VHGzxkXjJpqA) | [Laroi](https://open.spotify.com/artist/38ntwE6U0glm5X0Cg0Zhje), [Kalash247](https://open.spotify.com/artist/5Zibl7P09GPJUG1nK9unxD), [Kassimi](https://open.spotify.com/artist/2jv23mCQKTeRQpm1UHsl58) | [Lacoste 3](https://open.spotify.com/album/422FB0TYxeguMqC7pieW8i) | 2:37 |
 | 27 | [Salto nel vuoto](https://open.spotify.com/track/6XTkT4PPwwbg8sWWWSH8Lu) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Xela Baby](https://open.spotify.com/artist/2lSvy0qRlHqyWxkHmflU7M) | [Salto nel vuoto](https://open.spotify.com/album/4fUTP5dYBbYd0lraO7wwjv) | 3:11 |
 | 28 | [My Baby](https://open.spotify.com/track/0RH6vkEKr67OKCnbqjR9p5) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [My Baby](https://open.spotify.com/album/7IkR16ZBkyfGP5uWg4WlAQ) | 2:33 |
 | 29 | [Integral](https://open.spotify.com/track/36mxFCZEaKKOmCbq9KAUNa) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP) | [Integral](https://open.spotify.com/album/4peGfycHpgQ8bMV7Yb7768) | 2:54 |

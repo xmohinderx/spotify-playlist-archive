@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 
 > The UK's biggest dance playlist! Cover: Oliver Heldens and Nile Rodgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,380 likes - 53 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260,573 likes - 53 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

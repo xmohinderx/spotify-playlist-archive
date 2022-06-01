@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-30",
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
   "name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "27DlrkUu7mHg49yKkX3G0c"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 205714,
       "name": "A Love Song",
       "url": "https://open.spotify.com/track/66is2tFkaji7lYMWt7KS1z"
@@ -35,7 +37,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 185250,
       "name": "Air Con \uc5d0\uc5b4\ucee8",
       "url": "https://open.spotify.com/track/2MgcZfdQun0WQvp1BIofHL"
@@ -151,7 +153,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 214596,
       "name": "Carsickness (feat. Kim Sawol)",
       "url": "https://open.spotify.com/track/5HeyiQZ9sHSsaJsj7OPyDp"
@@ -169,7 +171,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 191331,
       "name": "Cheer Up - Acoustic Version",
       "url": "https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ"
@@ -187,7 +189,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 184200,
       "name": "COLOR",
       "url": "https://open.spotify.com/track/1j7yH1RclkVPCcmV1p0RJj"
@@ -263,7 +265,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 374991,
       "name": "Dream",
       "url": "https://open.spotify.com/track/1xlFjLN4YvtwiFfsdsFJr1"
@@ -422,6 +424,24 @@
     },
     {
       "album": {
+        "name": "Bygones at night",
+        "url": "https://open.spotify.com/album/4sFVw84S0iMunYWJrcMUQA"
+      },
+      "artists": [
+        {
+          "name": "Coffeeboy",
+          "url": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190976,
+      "name": "It's strange",
+      "url": "https://open.spotify.com/track/5UUb6UXXjGhdO9gcyrjeCs"
+    },
+    {
+      "album": {
         "name": "It\u2032s You",
         "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
       },
@@ -451,10 +471,28 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 150226,
       "name": "I\u2019ll just smile",
       "url": "https://open.spotify.com/track/3yQDvoUWr6e3cY5R1dBzzG"
+    },
+    {
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225080,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
     },
     {
       "album": {
@@ -541,7 +579,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 236437,
       "name": "Meaning Of The Flower",
       "url": "https://open.spotify.com/track/28w2JkO4baObQWZzThI6wp"
@@ -577,7 +615,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 210210,
       "name": "Monologue",
       "url": "https://open.spotify.com/track/7fNmFxnGqipleYaNDnnVHj"
@@ -613,7 +651,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 210875,
       "name": "Moontanroad - solo version",
       "url": "https://open.spotify.com/track/2jmaU2iOeMaQ4cM9wYS1Cb"
@@ -649,7 +687,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 226612,
       "name": "My heart that has nowhere to go",
       "url": "https://open.spotify.com/track/3blKIvJIBkrxh04qk5FPWT"
@@ -685,10 +723,28 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 222880,
       "name": "Oh I Know",
       "url": "https://open.spotify.com/track/4MCLG9DIQnysCNbMkfmE5V"
+    },
+    {
+      "album": {
+        "name": "Our Endless Sea (All the way to you)",
+        "url": "https://open.spotify.com/album/0Z0gQleFzsGTfWQFWfq3mM"
+      },
+      "artists": [
+        {
+          "name": "Narae Lee",
+          "url": "https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204253,
+      "name": "Our Endless Sea (All the way to you)",
+      "url": "https://open.spotify.com/track/3LcdUoTKft3YWEtD0kZsLm"
     },
     {
       "album": {
@@ -703,7 +759,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 161533,
       "name": "poet",
       "url": "https://open.spotify.com/track/0lwTmD4lQHQMzTaUiwuZAw"
@@ -761,7 +817,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 224736,
       "name": "Sapporo \uc0bf\ud3ec\ub85c\uc5d0 \uac08\uae4c\uc694",
       "url": "https://open.spotify.com/track/6ru1W8qsMTLAvTrHC907A2"
@@ -960,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/3hBlDkaiR7KU5bFaJaT0t2"
+      },
+      "artists": [
+        {
+          "name": "cacophony",
+          "url": "https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261183,
+      "name": "Tahiti",
+      "url": "https://open.spotify.com/track/2Y6wXSfzN1rWB4Xdr5juE2"
+    },
+    {
+      "album": {
         "name": "The Blue Night Of Jeju Island",
         "url": "https://open.spotify.com/album/5N0DCNi28CDILaQZ7tYNfU"
       },
@@ -1061,7 +1135,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 193593,
       "name": "Transcendence",
       "url": "https://open.spotify.com/track/5EYZN2W4qk20IOQ9c3JZ6K"
@@ -1101,7 +1175,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 233706,
       "name": "Voice Of The Forest - Guitar Version",
       "url": "https://open.spotify.com/track/6NV58PolVIW1nEqXfbsPid"
@@ -1163,10 +1237,28 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "With All My Heart (with Hyunseo Park)",
       "url": "https://open.spotify.com/track/7w5kC3H1jdmKzna5YCSchk"
+    },
+    {
+      "album": {
+        "name": "\uacbd\uc758\uc120 \uc232\uae38",
+        "url": "https://open.spotify.com/album/2lb0AxSa5SjEvJ85YJSXCh"
+      },
+      "artists": [
+        {
+          "name": "Evenight",
+          "url": "https://open.spotify.com/artist/1iiDSmH3N5VBxqn36Ppia1"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201461,
+      "name": "\uacbd\uc758\uc120 \uc232\uae38",
+      "url": "https://open.spotify.com/track/0AfxZaAXwUaacv8QaWqHKf"
     },
     {
       "album": {

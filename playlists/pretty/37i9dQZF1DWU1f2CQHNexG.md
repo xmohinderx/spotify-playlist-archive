@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: Yazoo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,597 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,776 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 49 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
 | 50 | [Chains of Love](https://open.spotify.com/track/1I0qu4PsBjAHfJHy9wy5AA) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [The Innocents](https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd) | 3:35 |
 
-Snapshot ID: `MTY1NDA0NTczNywwMDAwMDAwMDRkNzEzZDM3N2E2ZTJjZDkwZWYzODU0Zjk2NmVmMWY0`
+Snapshot ID: `MTY1NDExODYzMSwwMDAwMDAwMDRkNzEzZDM3N2E2ZTJjZDkwZWYzODU0Zjk2NmVmMWY0`

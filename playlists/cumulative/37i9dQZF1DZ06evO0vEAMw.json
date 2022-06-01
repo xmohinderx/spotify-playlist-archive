@@ -335,7 +335,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 229013,
       "name": "Confirm (feat. Davido)",
       "url": "https://open.spotify.com/track/2J7gUMdczimfHm5gSDn3Hz"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 202222,
       "name": "FEM",
       "url": "https://open.spotify.com/track/2PxLuV3mcHbxB8K7Zci1GQ"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 172874,
       "name": "Green Light Riddim",
       "url": "https://open.spotify.com/track/32N5JyUQ6SzkapNGe2JOMi"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 182666,
       "name": "Killa (feat. DaVido)",
       "url": "https://open.spotify.com/track/46YL800EFmXBhOjab7MLsy"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 187586,
       "name": "La La (feat. Ckay)",
       "url": "https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR"
@@ -1275,6 +1275,28 @@
       },
       "artists": [
         {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "So Crazy (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/5h9n5J7SRLzqBx4PyzhAFs"
+    },
+    {
+      "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
           "name": "DaVido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
@@ -1495,7 +1517,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 208695,
       "name": "Tsunami (feat. Davido)",
       "url": "https://open.spotify.com/track/434baZo99jvOx6y6oFeQZQ"
@@ -1513,7 +1535,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 164102,
       "name": "Very Special",
       "url": "https://open.spotify.com/track/5n5bwxW0hfUIxESGoyY7s1"

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bold bops from Ludhiana to London\. Cover: Sidhu Moose Wala.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,370 likes - 48 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,424 likes - 48 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 |
-| 2 | [Diamond Koka](https://open.spotify.com/track/4J0CRtjn6qX0zjLjDt5RsT) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Diamond Koka](https://open.spotify.com/album/5ja8o2ldFyqmyqRJtr9RaD) | 2:52 |
-| 3 | [Gal Sun](https://open.spotify.com/track/7kUNwrzscc83PhP8mnOwz6) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Gal Sun](https://open.spotify.com/album/09FgdndDRPfUCq7mhwdt82) | 3:33 |
-| 4 | [Sharaab](https://open.spotify.com/track/5yAu5xEsC4eJvVL4B2Gjl4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 2:49 |
-| 5 | [Chandigarh](https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf) | [Chandigarh](https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto) | 2:17 |
-| 6 | [What Ve](https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [What Ve](https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi) | 3:08 |
-| 7 | [Youngest In Charge](https://open.spotify.com/track/2V52mICuJnWB3C4lrJZd7v) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY) | [Youngest In Charge](https://open.spotify.com/album/1vgjx6xmhIKGa5eiKeJvSB) | 3:18 |
+| 1 | [Youngest In Charge](https://open.spotify.com/track/2V52mICuJnWB3C4lrJZd7v) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY) | [Youngest In Charge](https://open.spotify.com/album/1vgjx6xmhIKGa5eiKeJvSB) | 3:18 |
+| 2 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 |
+| 3 | [Diamond Koka](https://open.spotify.com/track/4J0CRtjn6qX0zjLjDt5RsT) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Diamond Koka](https://open.spotify.com/album/5ja8o2ldFyqmyqRJtr9RaD) | 2:52 |
+| 4 | [Gal Sun](https://open.spotify.com/track/7kUNwrzscc83PhP8mnOwz6) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Gal Sun](https://open.spotify.com/album/09FgdndDRPfUCq7mhwdt82) | 3:33 |
+| 5 | [Sharaab](https://open.spotify.com/track/5yAu5xEsC4eJvVL4B2Gjl4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 2:49 |
+| 6 | [Chandigarh](https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf) | [Chandigarh](https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto) | 2:17 |
+| 7 | [What Ve](https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [What Ve](https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi) | 3:08 |
 | 8 | [Jagga](https://open.spotify.com/track/5XJGVtJcKHgWBo3fNwJWSl) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E) | [Bhangra Essential](https://open.spotify.com/album/7jdDevCoN03GtfGl9jn46p) | 4:08 |
 | 9 | [Jatt Flex](https://open.spotify.com/track/3b9H6i89wdDH2IKNcnXpt2) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Jatt Flex](https://open.spotify.com/album/2dhnvaPxxR2EUOtZpsWeWG) | 3:15 |
 | 10 | [C Walk](https://open.spotify.com/track/78SUtcXKU42oqnW105CUZS) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Way Maker](https://open.spotify.com/album/3LgutfrQ1qA1wt09i9JpB0) | 2:45 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 47 | [Old Skool](https://open.spotify.com/track/76IXpU3ve4gHmvcduUN88d) | [Prem Dhillon Ft\. Sidhu Moosewala](https://open.spotify.com/artist/4hXZlvo1FmotuwiO3XGdbk), [Naseeb](https://open.spotify.com/artist/68utQf42HeyJUbU8X9W0uf) | [Old Skool](https://open.spotify.com/album/43KOzJb3q0AHeUGzR8stIe) | 4:13 |
 | 48 | [Pyar Bolda](https://open.spotify.com/track/3RtR0XXNGtBHJkFgY6OvTQ) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Pyar Bolda](https://open.spotify.com/album/3ZcDbMWG4m26hPhQXFLFc8) | 2:42 |
 
-Snapshot ID: `MTY1MzQ3NTc5NSwwMDAwMDEzODAwMDAwMTgwZmFkNjYyNmYwMDAwMDE3YTEzYTNjYzI5`
+Snapshot ID: `MTY1NDA2NTM2MCwwMDAwMDEzOTAwMDAwMTgxMWRmYTZmOTUwMDAwMDE3YTEzYTNjYzI5`

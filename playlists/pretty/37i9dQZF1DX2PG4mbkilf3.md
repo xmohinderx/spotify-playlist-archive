@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura\. Cover: Emanuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,127 likes - 98 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,167 likes - 98 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 97 | [Break](https://open.spotify.com/track/7MAF260QrFoPLbcigPfRFp) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Break](https://open.spotify.com/album/5BnZ7N719nnVLX9TFSyCIt) | 2:57 |
 | 98 | [Pink Plant](https://open.spotify.com/track/0LQNGpCxdcgX5MXWuN0zKZ) | [julzzz](https://open.spotify.com/artist/5s6ML4YfMRUp54Elm8D4w8) | [Pink Plant](https://open.spotify.com/album/481wzxLsScQqamkWiRaJek) | 3:33 |
 
-Snapshot ID: `MTY1NDA0NjA3MSwwMDAwMDAwMDdjNzI3NTAwODI3ZDIxNGMxNGQwMTgxN2ZlMWI4NGZi`
+Snapshot ID: `MTY1NDExODkzOSwwMDAwMDAwMDdjNzI3NTAwODI3ZDIxNGMxNGQwMTgxN2ZlMWI4NGZi`

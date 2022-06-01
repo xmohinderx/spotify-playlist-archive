@@ -4,7 +4,7 @@
 
 > Dendang Dangdut teratas\. Cover: Via Vallen
 
-59 songs - 4 hr 30 min - not published yet
+59 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/1yAqlhTjbO2NhUlQfp8LqL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is The Orb. The essential tracks, all in one playlist.",
   "name": "This Is The Orb",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3KjCofDikLJ6vqcKXgLNBj"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 363413,
       "name": "4am Exhale (Chill Out World!)",
       "url": "https://open.spotify.com/track/7rzfUCGJIRV4fQ68T07x9A"
@@ -35,10 +37,28 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 315071,
       "name": "5th Dimensions",
       "url": "https://open.spotify.com/track/3Ntkr1qvo6UVMBuBtOeECM"
+    },
+    {
+      "album": {
+        "name": "COW / Chill Out, World!",
+        "url": "https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245451,
+      "name": "9 elms over river eno (channel 9)",
+      "url": "https://open.spotify.com/track/36BI2fXvlLxVoJKF9csjE9"
     },
     {
       "album": {
@@ -71,7 +91,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 371400,
       "name": "Afros, Afghans and Angels - Helg\u00f6 Treasure Chest",
       "url": "https://open.spotify.com/track/2bHXdca9yg6TfWikQGAAJS"
@@ -119,7 +139,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 221367,
       "name": "Assassin - 7\" Mix",
       "url": "https://open.spotify.com/track/5WEvbsbM847PuXY9rN2oXK"
@@ -177,10 +197,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 251057,
       "name": "Ball of Fire",
       "url": "https://open.spotify.com/track/41Dci0Gdz1RatEXwLEl8z9"
+    },
+    {
+      "album": {
+        "name": "Orblivion",
+        "url": "https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271333,
+      "name": "Bedouin",
+      "url": "https://open.spotify.com/track/0D657mUEeTbY2nmeNyU2Vq"
     },
     {
       "album": {
@@ -267,7 +305,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 420200,
       "name": "Delta Mk II",
       "url": "https://open.spotify.com/track/7dAkSURilbmrPTDf6UysJV"
@@ -409,7 +447,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 253544,
       "name": "H. O. O",
       "url": "https://open.spotify.com/track/1dcKekvRNoO7tP1KwowdUQ"
@@ -699,7 +737,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 451244,
       "name": "Pillow Fight @ Shag Mountain",
       "url": "https://open.spotify.com/track/76ZZNFBRTnnGH0Ye81SEnJ"
@@ -753,7 +791,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 332133,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/26G57zuEtPi7YuUsW5fQwP"
@@ -807,7 +845,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 168749,
       "name": "Siren 33 (Orphee Mirror)",
       "url": "https://open.spotify.com/track/4KM94c8EBLbggsN37T7gfp"
@@ -949,10 +987,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 238398,
       "name": "The 10 Sultans Of Rudyard (Moo Moo Mix)",
       "url": "https://open.spotify.com/track/1LAQpdO8e6MvPpN6lCK0zK"
+    },
+    {
+      "album": {
+        "name": "Metallic Spheres (feat. David Gilmour)",
+        "url": "https://open.spotify.com/album/7Kj5DZcW4jlqGjYnu0UTT7"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        },
+        {
+          "name": "David Gilmour",
+          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335866,
+      "name": "The Cult Of Youth Ambient Mix Parts 1 & 2 (feat. David Gilmour) - Edit",
+      "url": "https://open.spotify.com/track/4iPCa0uM1gkpDkkdP8VCdi"
     },
     {
       "album": {
@@ -985,7 +1045,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 305560,
       "name": "The Queen of Hearts - Princess of Clubs Mix",
       "url": "https://open.spotify.com/track/2xDbv8rllgzq8Be9XjetKE"
@@ -1097,7 +1157,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 456066,
       "name": "Valley",
       "url": "https://open.spotify.com/track/06iL7u9ZQPKeQf0kMKoPBE"

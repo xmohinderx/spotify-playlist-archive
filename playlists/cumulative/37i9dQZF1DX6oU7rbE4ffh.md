@@ -4,7 +4,7 @@
 
 > Take a deep breath and relax.
 
-103 songs - 5 hr 38 min - not published yet
+103 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/6gL2G2PqG3eJ4wI5j0BKO2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Vikram
 
-72 songs - 4 hr 26 min - not published yet
+72 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

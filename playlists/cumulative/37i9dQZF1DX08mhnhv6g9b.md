@@ -4,7 +4,7 @@
 
 > Celebrate BTS discography with members' Spotify Clips! \(New videos will be updated on every Friday\)\. A.R.M.Y is unbeatable💜
 
-174 songs - 10 hr 38 min - not published yet
+174 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/0H29pOOi9iH82uofXTdelu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

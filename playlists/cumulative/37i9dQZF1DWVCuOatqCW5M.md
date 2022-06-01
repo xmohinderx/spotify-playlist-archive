@@ -4,7 +4,7 @@
 
 > New music from popular Hindi artists\. Cover\- Shreya Ghoshal
 
-41 songs - 2 hr 23 min - not published yet
+41 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

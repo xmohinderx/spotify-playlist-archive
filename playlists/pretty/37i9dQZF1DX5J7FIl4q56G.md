@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Blind Guardian
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,942 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,044 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 17 | [I Want To Be Whole Again](https://open.spotify.com/track/7Kf4FZngKMIaYcmL5h6FPi) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [I Want To Be Whole Again](https://open.spotify.com/album/5M3yOu9OYo2CVaPWfVh0WL) | 4:04 |
 | 18 | [Get Faded](https://open.spotify.com/track/6gyZWCb7RKQkTL4rJHd9FA) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Get Faded](https://open.spotify.com/album/3V4UDOEI8kbhwXKrncWqqY) | 3:02 |
 | 19 | [Anomaly](https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Anomaly](https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv) | 3:43 |
-| 20 | [Blame The Dead](https://open.spotify.com/track/0J61oEMQf0BIu4ljZjhbVv) | [Ovtlier](https://open.spotify.com/artist/33EsLV9XuU86eBafBHYL0G) | [Blame The Dead](https://open.spotify.com/album/6GDvCkMizTUB3PKu3ncgUf) | 4:04 |
+| 20 | [Blame The Dead](https://open.spotify.com/track/0J61oEMQf0BIu4ljZjhbVv) | [Ovtlier](https://open.spotify.com/artist/33EsLV9XuU86eBafBHYL0G), [Justin Deblieck](https://open.spotify.com/artist/2CmMsTebsSkh2VGIB4XpSz) | [Blame The Dead](https://open.spotify.com/album/6GDvCkMizTUB3PKu3ncgUf) | 4:04 |
 | 21 | [Volhov](https://open.spotify.com/track/5aWvPbsFWYyNYTG1sP0S5X) | [Manntra](https://open.spotify.com/artist/5xKw7nNLyZ7UVvhaLC5kYd) | [Volhov](https://open.spotify.com/album/7Bwk7yA0Y6FBzjPUBxH54D) | 3:33 |
 | 22 | [Be Someone](https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Be Someone](https://open.spotify.com/album/3wHYbhls679gOOr45eAWZv) | 3:20 |
 | 23 | [Low](https://open.spotify.com/track/1HG4TOUb5ETGmd6mJAwQrZ) | [Cabin Boy Jumped Ship](https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S) | [Sentiments](https://open.spotify.com/album/7lMBWUI1LBTAEIY4RiKu6m) | 4:12 |

@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-102 songs - 8 hr 21 min - not published yet
+102 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

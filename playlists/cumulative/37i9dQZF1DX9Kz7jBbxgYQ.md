@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Abdul Hannan
 
-70 songs - 3 hr 56 min - not published yet
+70 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

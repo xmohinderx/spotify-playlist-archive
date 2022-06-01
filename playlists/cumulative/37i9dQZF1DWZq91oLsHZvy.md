@@ -19,7 +19,7 @@
 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 | 2022-01-21 |  |
 | [Balance](https://open.spotify.com/track/189gb58kHUdS5MdLBcz18f) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/14Ft0hbGJbcM9vYVW0RJTu) | 4:06 | 2022-01-21 |  |
 | [Banquet](https://open.spotify.com/track/172u95XX2JxIfBZi1v0vKN) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB) | 3:21 | 2022-01-21 |  |
-| [Blue Orchid](https://open.spotify.com/track/1PCA097woCMSDvZPUVeRI7) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/5dQCkDTTilKZBD8Fhlmxiw) | 2:38 | 2022-01-21 |  |
+| [Blue Orchid](https://open.spotify.com/track/1PCA097woCMSDvZPUVeRI7) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/5dQCkDTTilKZBD8Fhlmxiw) | 2:38 | 2022-01-21 | 2022-06-01 |
 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 | 2022-01-21 |  |
 | [Burning](https://open.spotify.com/track/6pc6BNY6rFvdmf9O3PQizQ) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 5:48 | 2022-01-21 |  |
 | [Burning](https://open.spotify.com/track/08HmtdAdRYiutP5WO02utw) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Dreams](https://open.spotify.com/album/63BiMHrNanPPTIcDArNX4E) | 3:11 | 2022-01-21 |  |
@@ -122,6 +122,6 @@
 | [What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 3:09 | 2022-01-21 |  |
 | [XOXO](https://open.spotify.com/track/1YzIe5I0UNPgPRPxYpe92f) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [MoM & DaD](https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ) | 4:51 | 2022-01-21 |  |
 | [You Stupid Bitch](https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:15 | 2022-01-21 |  |
-| [Young Boy](https://open.spotify.com/track/4HweRSn24gNSItPdWUCZoc) | [snny](https://open.spotify.com/artist/33QLeK0AvK6Cj5CQ0hp5sa) | [Learning to Swim](https://open.spotify.com/album/0FiMBiGhfrSu61WF68EMHx) | 2:18 | 2022-01-21 | 2022-06-01 |
+| [Young Boy](https://open.spotify.com/track/4HweRSn24gNSItPdWUCZoc) | [snny](https://open.spotify.com/artist/33QLeK0AvK6Cj5CQ0hp5sa) | [Learning to Swim](https://open.spotify.com/album/0FiMBiGhfrSu61WF68EMHx) | 2:18 | 2022-01-21 |  |
 
 \*This playlist was first scraped on 2022-01-24. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41ePM6C85zfhtOuTEfuooq">Charlene Meulenberg</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-48 songs - 2 hr 29 min - not published yet
+48 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/6em251h4Qy6i0PaiBqmC9I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

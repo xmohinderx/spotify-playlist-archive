@@ -4,7 +4,7 @@
 
 > Spend an afternoon jamming to this curated playlist of all Asian and Pacific Islander musicians across genres and geographies!
 
-40 songs - 2 hr 19 min - not published yet
+40 songs - 2 hr 19 min - [published](https://open.spotify.com/playlist/0wchqQtZZgd5ObhZrlv8DX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

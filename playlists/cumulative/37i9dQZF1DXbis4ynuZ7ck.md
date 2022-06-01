@@ -4,7 +4,7 @@
 
 > Two legendary voices, one playlist.
 
-53 songs - 4 hr 16 min - not published yet
+53 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/5HTD5HI9uMNwy5pRMkORQ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

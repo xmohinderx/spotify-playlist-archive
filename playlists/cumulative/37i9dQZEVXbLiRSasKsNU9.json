@@ -174,6 +174,24 @@
     },
     {
       "album": {
+        "name": "Moosetape",
+        "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "295",
+      "url": "https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT"
+    },
+    {
+      "album": {
         "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
       },
@@ -2115,7 +2133,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 153958,
       "name": "Dengo",
       "url": "https://open.spotify.com/track/6Ulh9GPYz6JKdv04qc3q2U"
@@ -2661,6 +2679,24 @@
       "duration_ms": 181795,
       "name": "Eat Your Salad",
       "url": "https://open.spotify.com/track/0rNIEBlBuo5108lnHyGbqJ"
+    },
+    {
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213061,
+      "name": "Efecto",
+      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
       "album": {
@@ -3457,7 +3493,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 171933,
       "name": "Give That Wolf A Banana",
       "url": "https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL"
@@ -3829,6 +3865,24 @@
       "duration_ms": 199426,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD"
+    },
+    {
+      "album": {
+        "name": "Top Gun: Maverick (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225280,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/1c2hJSwcCfoPEw1su83Sw0"
     },
     {
       "album": {
@@ -6726,6 +6780,24 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
+    },
+    {
+      "album": {
         "name": "Peri Cintaku",
         "url": "https://open.spotify.com/album/5njf9tv5t5iF2VCGAIfIOx"
       },
@@ -7707,7 +7779,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 111235,
       "name": "Sie Liebt Techno",
       "url": "https://open.spotify.com/track/3EngNejou3x0co3Ed68X7U"
@@ -9375,7 +9447,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 184895,
       "name": "Until I Found You - Piano Version",
       "url": "https://open.spotify.com/track/06vNG6CiV4k8oNA0wUUAO7"

@@ -4,7 +4,7 @@
 
 > Unforgettable songs from Iconic Arab women\. Cover: Umm Kulthum.
 
-53 songs - 10 hr 12 min - not published yet
+53 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/3qSlYMi2YCjaMpwGLF0PxY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-509 songs - 1 day 3 hr 29 min - [published](https://open.spotify.com/playlist/7wpwmjDxIyfeAPJQUP9XOc)
+510 songs - 1 day 3 hr 34 min - [published](https://open.spotify.com/playlist/7wpwmjDxIyfeAPJQUP9XOc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 | 2022-03-15 | 2022-03-30 |
 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 | 2022-04-19 | 2022-06-01 |
 | [1F2F](https://open.spotify.com/track/77sxAECGDQdMvNa82MVHGt) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [OGAQUAFINA](https://open.spotify.com/artist/07E0xIjCv2xkPCR7KCr9aK) | [1F2F](https://open.spotify.com/album/1FHvEp9a23CmefSGUrwsrs) | 2:55 | 2022-04-01 | 2022-04-17 |
+| [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2022-06-01 |  |
 | [30/90 \(from "tick, tick..\. BOOM!" Soundtrack from the Netflix Film\)](https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Robin de Jesus](https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32), [Alexandra Shipp](https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF), [MJ Rodriguez](https://open.spotify.com/artist/1fNy49puWuYTyLiKNHAcig) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 4:22 | 2021-12-31 | 2022-02-03 |
 | [556 \(Green Tip\)](https://open.spotify.com/track/34avwQb8IKQDlzbSwfktmv) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Virtuous](https://open.spotify.com/album/1TFaFAKNXMlIeU65RasS9a) | 1:57 | 2022-03-15 | 2022-04-06 |
 | [A Man Without Love](https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:23 | 2022-04-19 |  |
@@ -446,7 +447,7 @@
 | [There Is Something on Your Mind](https://open.spotify.com/track/1bSBbbH9KYzwsKosToLeAC) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Presenting Big Jay McNeely](https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A) | 3:22 | 2022-02-18 | 2022-03-08 |
 | [Thinking with My Dick \(feat\. Juicy J\)](https://open.spotify.com/track/1ojBtNRMzjL7ptLPZCzfRz) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Stranger Than Fiction](https://open.spotify.com/album/21mA8C6F0OS2MVUaDEMnia) | 2:45 | 2022-03-10 | 2022-04-20 |
 | [this is what heartbreak feels like](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 | 2022-04-26 | 2022-05-22 |
-| [Thought You Should Know](https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Thought You Should Know](https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i) | 3:35 | 2022-05-31 |  |
+| [Thought You Should Know](https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Thought You Should Know](https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i) | 3:35 | 2022-05-31 | 2022-06-01 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-05-17 | 2022-05-25 |
 | [Throw It Back \(Abow\)](https://open.spotify.com/track/23yxlmsXxljX6AVF2NlYP6) | [TarioP](https://open.spotify.com/artist/5N4ydSgV26FDMKuZcFsttp), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5) | [Throw It Back \(Abow\)](https://open.spotify.com/album/5mnNOn8Xg5oEXL0frscPIU) | 1:10 | 2022-02-04 | 2022-02-09 |
 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-05-31 |  |

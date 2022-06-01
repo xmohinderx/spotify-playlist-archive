@@ -4,7 +4,7 @@
 
 > The official playlist for After Life, curated by Ricky Gervais\. Watch on Netflix.
 
-50 songs - 3 hr 57 min - not published yet
+50 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/4inUUkb748ZVOhsVuP6XCq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

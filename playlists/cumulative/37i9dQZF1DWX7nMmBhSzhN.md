@@ -4,7 +4,7 @@
 
 > Old film songs full of suspense!
 
-40 songs - 3 hr 38 min - not published yet
+40 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/7m45ES1AYLSXkGpE1oVUXK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

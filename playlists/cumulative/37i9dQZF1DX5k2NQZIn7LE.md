@@ -4,7 +4,7 @@
 
 > Fusion hits of Coke Studio Pakistan\. Cover: Hadiqa Kiani
 
-65 songs - 7 hr 7 min - not published yet
+65 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/0XQM5ONk6GhW4OcFYlBuNy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -225,7 +225,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 291200,
       "name": "Badtimes",
       "url": "https://open.spotify.com/track/7k2TccnK4ngniT3UPT5j8Z"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 598706,
       "name": "Center of the Sun",
       "url": "https://open.spotify.com/track/1RMsdot8bVRgNzENfh9XcL"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 179506,
       "name": "Chun Li vs. Wah Wah Man",
       "url": "https://open.spotify.com/track/52vZ4NsPjq9LQMLwfushzh"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 319186,
       "name": "Climbing Up the Walls (Zero 7 Mix)",
       "url": "https://open.spotify.com/track/7GKz0H7kpekx07I5WCMDGJ"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 352000,
       "name": "Electric Lazyland",
       "url": "https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 238146,
       "name": "Finally Woken",
       "url": "https://open.spotify.com/track/2HOaA5gm7peSF67a0HJ14l"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 422000,
       "name": "Inside My Mind (Blue Skies) - Elephant Remix",
       "url": "https://open.spotify.com/track/2ZLfTG0D2CVl773CLfNGbO"
@@ -981,6 +981,24 @@
       "duration_ms": 316386,
       "name": "Melt - Remastered",
       "url": "https://open.spotify.com/track/3DazHj8UOY6ps8Ap5X5FIN"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse Operation",
+        "url": "https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk"
+      },
+      "artists": [
+        {
+          "name": "Little People",
+          "url": "https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227866,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/6QLp8WLQlkqSd9l5fEt36R"
     },
     {
       "album": {
@@ -1323,7 +1341,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 247040,
       "name": "Postales",
       "url": "https://open.spotify.com/track/2fjisFFeRhtW2hfO4gc7Rh"
@@ -1727,7 +1745,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 139226,
       "name": "The Cosmic Game",
       "url": "https://open.spotify.com/track/3tg1p03BlubeFZbCLzmNwF"

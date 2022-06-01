@@ -973,7 +973,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 176245,
       "name": "Locked Out",
       "url": "https://open.spotify.com/track/2gpqdIv5iZzssla3QhcS7X"
@@ -1346,6 +1346,24 @@
     },
     {
       "album": {
+        "name": "Rock n Roll is Back",
+        "url": "https://open.spotify.com/album/1W7YnTDk4JfR1R6UTEsFRK"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176449,
+      "name": "Rock n Roll is Back",
+      "url": "https://open.spotify.com/track/7CaTBKF53EAMjKfw5DpiOt"
+    },
+    {
+      "album": {
         "name": "Scarlette",
         "url": "https://open.spotify.com/album/5R48HkJTMQLaN3DthQCD7D"
       },
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 212173,
       "name": "STAND!",
       "url": "https://open.spotify.com/track/6Npzeh3XhIsyuM7tnBgexK"
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 233884,
       "name": "The Language Of My Heart",
       "url": "https://open.spotify.com/track/4anwYZI6i9l5xi8caRrbo3"

@@ -4,7 +4,7 @@
 
 > Soft, shimmering strings to help you relax.
 
-64 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/0b41CYN7TvxbbKquC8H1Qw)
+65 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/0b41CYN7TvxbbKquC8H1Qw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Lifetime Rolls By \- annasara Rework](https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu) | [BPMoore](https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP), [annasara](https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ) | [A Lifetime Rolls By \(annasara Rework\)](https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo) | 2:56 | 2022-02-18 |  |
 | [Après un rêve \- NIGHT SESSIONS](https://open.spotify.com/track/4wdRWXtt5SVGokz7ld4vGS) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Après un rêve \- NIGHT SESSIONS](https://open.spotify.com/album/5t9hQEaMm5KElJLXWL6rhy) | 3:30 | 2022-01-17 |  |
 | [Are You Still Somewhere?](https://open.spotify.com/track/4FAkhCKU2PrCJzoVFKlTUW) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Are You Still Somewhere?](https://open.spotify.com/album/59UI1UuanrS9An9sLhEFNw) | 3:10 | 2022-01-17 |  |
+| [Bachianas brasileiras No\. 5: I\. Aria \(Cantilena\): Adagio](https://open.spotify.com/track/1BpKbG3NkHgK5AypMtdUv9) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Bachianas brasileiras No\. 5: I\. Aria \(Cantilena\): Adagio](https://open.spotify.com/album/3sHvm5DrEOV6r2tsQNGlov) | 5:17 | 2022-06-01 |  |
 | [Ballantyne \- Movement 5 Your Shadow](https://open.spotify.com/track/6lcJu30W4lLZDJICLRjzPQ) | [Calum Martin](https://open.spotify.com/artist/6PVCEjWmAFpQwdHhVhBJIT), [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO), [Cecilia Weston](https://open.spotify.com/artist/7wDGcaDnFQX255UV92O8jt), [Scottish Ensemble](https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ), [Daniel Pioro](https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM) | [Ballantyne \(Movement 5 Your Shadow\)](https://open.spotify.com/album/6DLfVoOQupX8JFwnFxDdnS) | 2:32 | 2021-12-17 |  |
 | [Beau soir, L\. 6 \(Arranged for Violin and Piano by Jascha Heifetz\)](https://open.spotify.com/track/1DsqYVJjTCfYmxOnlDPQPr) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom) | [Voice of the Violin](https://open.spotify.com/album/1BXO57T2KEgCS6ca9tlmZ6) | 2:27 | 2021-12-17 |  |
 | [Bizet: Petite suite from "Jeux d'enfants", Op\. 22, WD 39: IV\. Duo "Petit mari, petite femme"](https://open.spotify.com/track/2TQ6uhtI3AJpfo1tJqDsxI) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Seiji Ozawa](https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo), [Orchestre National De France](https://open.spotify.com/artist/5UFYrc7bnGpaojNag3Bv8M) | [Bizet: Symphony in C Major, Petite suite from "Jeux d'enfants" & Patrie](https://open.spotify.com/album/3cbSTu7MaZtQdHBTp8v5V5) | 3:27 | 2021-12-17 |  |

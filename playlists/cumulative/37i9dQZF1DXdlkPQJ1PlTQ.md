@@ -4,7 +4,7 @@
 
 > May's must\-hear episodes, hand\-picked by Spotify editors
 
-0 song - 0 sec - not published yet
+0 song - 0 sec - [published](https://open.spotify.com/playlist/7w7aut3ZTA9lP1s1Ai9cfQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

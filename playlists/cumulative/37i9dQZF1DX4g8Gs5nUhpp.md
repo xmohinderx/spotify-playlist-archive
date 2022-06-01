@@ -4,7 +4,7 @@
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Hoàng Thùy Linh
 
-56 songs - 3 hr 37 min - not published yet
+56 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

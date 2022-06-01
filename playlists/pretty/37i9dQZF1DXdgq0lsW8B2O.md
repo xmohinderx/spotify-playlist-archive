@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 
 > Music from the early days of Ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,221 likes - 47 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,267 likes - 47 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 | 9 | [Toucan Ocean](https://open.spotify.com/track/7IAGZpMEBO143Y7zZ17KsH) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 3:49 |
 | 10 | [Oxygene, Pt\. 1](https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 7:40 |
 | 11 | [Upland](https://open.spotify.com/track/2p092sEjd3oSlgyMwqa6vb) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Aqua](https://open.spotify.com/album/53HKgtgBcAKkBvnIJYBpx7) | 6:41 |
-| 12 | [Old Land](https://open.spotify.com/track/7crAkwlQExlgVnomwIlYrd) | [Eno Moebius Roedelius](https://open.spotify.com/artist/6iEkIlk9Pc3vFThI7NX78B) | [After the Heat](https://open.spotify.com/album/0KsjHH3K0VIMuNOuvRWMBR) | 4:13 |
+| 12 | [Old Land](https://open.spotify.com/track/7crAkwlQExlgVnomwIlYrd) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Moebius](https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC), [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [After the Heat](https://open.spotify.com/album/0KsjHH3K0VIMuNOuvRWMBR) | 4:13 |
 | 13 | [Deep Distance](https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 5:49 |
-| 14 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Eno](https://open.spotify.com/artist/2yCbPUc3ofVEofx216xRaY) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 |
+| 14 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 |
 | 15 | [Ahoi](https://open.spotify.com/track/13CJ6xGmEhTyMkFBQVGimJ) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik Von Harmonia](https://open.spotify.com/album/4rfEDCRHa4TR9EtjHJpWge) | 5:13 |
 | 16 | [The Yellow Sound](https://open.spotify.com/track/5cHT8gs2bJdPP7QCe0FY0Z) | [Peter Michael Hamel](https://open.spotify.com/artist/4fzLlOozmMPyVBg5o2Sd1j), [Ulrich Kraus](https://open.spotify.com/artist/74mf19TUkc33tHTSL867ip) | [Hamel: Let It Play \- Selected Pieces 1979\-1983](https://open.spotify.com/album/4G8ThDaZc0Z06kivJO97Dd) | 5:26 |
 | 17 | [Ode to an African Violet](https://open.spotify.com/track/3Zrlem2yff4LUlcIz6TWvl) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG) | 4:02 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 | 24 | [Ecstasy](https://open.spotify.com/track/4s0itPf6pmVOv0tERWnKo1) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Ecstasy](https://open.spotify.com/album/7eUVATOftzWOtfIGKPvx8S) | 11:53 |
 | 25 | [Blues Nile](https://open.spotify.com/track/73HxsBZRsP955lFdxb7pQb) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 9:54 |
 | 26 | [Wind On Water](https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 5:29 |
-| 27 | [Für Luise](https://open.spotify.com/track/2LwDYNc1Jdr0YdGgCD9yZA) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Eno](https://open.spotify.com/artist/2yCbPUc3ofVEofx216xRaY) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:26 |
+| 27 | [Für Luise](https://open.spotify.com/track/2LwDYNc1Jdr0YdGgCD9yZA) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:26 |
 | 28 | [Turó Park](https://open.spotify.com/track/5zmFlMg8bb043U5GXEgTZR) | [Neuronium](https://open.spotify.com/artist/4rs4oFrQ8IvFWoLv1vGGkC) | [Quasar 2C361 / Ultimate edition](https://open.spotify.com/album/24KaFIYNqXoUdORaA03t7b) | 4:20 |
 | 29 | [Aries](https://open.spotify.com/track/33Y2YALzXqMQtBVSDcHOof) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 1:31 |
 | 30 | [Discreet Music \- Remastered 2004](https://open.spotify.com/track/69eD0IfAqEIUnKX63Npksy) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Discreet Music](https://open.spotify.com/album/7b67MKOwyj7mIcEVnoJSOG) | 31:34 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Pop country hits of today and tomorrow. Cover: Russell Dickerson and Jake Scott",
+  "description": "Pop country hits of today and tomorrow. Cover: Mickey Guyton",
   "name": "PopCo",
   "published_playlist_ids": [
     "1eoy2aa7pjLg69wzMB5JYu"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 169154,
       "name": "Anything She Says",
       "url": "https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 149332,
       "name": "Better On Me",
       "url": "https://open.spotify.com/track/3Gk75ziLzHNskYTW2MIG4p"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 225230,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/6wF6oModvfcuEKNdB0f0Er"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 165520,
       "name": "Dates In Pickup Trucks",
       "url": "https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 174557,
       "name": "Good Person",
       "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
@@ -979,7 +979,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 201653,
       "name": "Heart Shut (feat. Tenille Townes)",
       "url": "https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 187381,
       "name": "Heart's In Your Head",
       "url": "https://open.spotify.com/track/7ncr9iB2P4A2YZK46oNqmA"
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 152781,
       "name": "High Horse (feat. BRELAND and Blanco Brown)",
       "url": "https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7"
@@ -1327,7 +1327,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 158601,
       "name": "If You Wanted It Too",
       "url": "https://open.spotify.com/track/29789uQS1kfsZg1r9nRkPj"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 172720,
       "name": "Kiss Her",
       "url": "https://open.spotify.com/track/6qyHEaztEydyWCEOZjJSOv"
@@ -1443,6 +1443,24 @@
       "duration_ms": 174078,
       "name": "Know My Way Around",
       "url": "https://open.spotify.com/track/5CtXnj47Mr0ZXGjTbnd7Aj"
+    },
+    {
+      "album": {
+        "name": "Remember Her Name",
+        "url": "https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189720,
+      "name": "Lay It On Me",
+      "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
     },
     {
       "album": {
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 208186,
       "name": "Line By Line (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
@@ -1595,7 +1613,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 157213,
       "name": "Lost My Heartbreak",
       "url": "https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m"
@@ -1855,7 +1873,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 177266,
       "name": "on my way",
       "url": "https://open.spotify.com/track/23MeW5kPmzySH9b8TY0gmD"
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 187369,
       "name": "Push & Pull",
       "url": "https://open.spotify.com/track/4cMGt04mMdpCq7LyNuOYzr"
@@ -2055,7 +2073,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 198000,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/0O0wPMmw7d9RMsTkt9YiUq"
@@ -2311,7 +2329,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 222593,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4vEhv7jNjMFozzXWoJ3hve"
@@ -2373,7 +2391,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 189495,
       "name": "That\u2019s When (feat. Keith Urban) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P"
@@ -2445,7 +2463,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 185545,
       "name": "The One",
       "url": "https://open.spotify.com/track/1KniGMjv0XijAFK0MnBjZT"
@@ -2485,7 +2503,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 203384,
       "name": "Thirties",
       "url": "https://open.spotify.com/track/5VA8tNItVojrbxLVYxrhjJ"
@@ -2543,7 +2561,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 183189,
       "name": "Used To",
       "url": "https://open.spotify.com/track/3Hsym5x2F9hQ5ZJF6VXBN4"
@@ -2637,7 +2655,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 191866,
       "name": "What If We Did (feat. Carly Pearce)",
       "url": "https://open.spotify.com/track/3CTYETGqt6N4IW5p99Ctlp"
@@ -2735,7 +2753,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 178461,
       "name": "Who Cares",
       "url": "https://open.spotify.com/track/0AuyO2tufq60YvAFdVYhOn"
@@ -2753,7 +2771,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 180481,
       "name": "Why Don't We",
       "url": "https://open.spotify.com/track/2aRN0QN3BSUAd81TatzrMK"

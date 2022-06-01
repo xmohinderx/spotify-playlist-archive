@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Country](https://open.spotify.com/playlist/37i9dQZF1DWYUfsq4hxHWP)
 
-> Fresh country music by independent artists every Wednesday\. Cover: Leah Marie Mason, Artwork: Fanélie Muselier
+> Fresh country music by independent artists every Wednesday\. Cover: Rodell Duff, Artwork: Fanélie Muselier
 
-547 songs - 1 day 6 hr 2 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
+550 songs - 1 day 6 hr 12 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Are You Okay?](https://open.spotify.com/track/7wy3CSZogtwp6wCwSTeTew) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Are You Okay?](https://open.spotify.com/album/4UzlGKEB3pNb8zSLoAtARW) | 3:12 | 2022-02-16 | 2022-04-02 |
 | [As You Leave](https://open.spotify.com/track/218NK60dJvyf7mIsowogA3) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [As You Leave](https://open.spotify.com/album/10mMsHExUCFJEcILYH3wZt) | 2:06 | 2022-01-26 | 2022-03-10 |
 | [Ashes](https://open.spotify.com/track/26xr7bf7T1iOAreNKug5KV) | [Jessi Pugh](https://open.spotify.com/artist/2ZHxXcyfeWRavwu5J9YsIk) | [Ashes](https://open.spotify.com/album/21iUMG3unJz9w7HzUkopYL) | 3:36 | 2022-01-19 | 2022-03-03 |
+| [Asphalt](https://open.spotify.com/track/4kA1MuqiBUyQjl88WyfWRF) | [Presley Aaron](https://open.spotify.com/artist/0rF3t0JE3PGaQaMmG37j3i) | [Asphalt](https://open.spotify.com/album/12e7PnWWP0NUQU5FcIU2fw) | 3:04 | 2022-06-01 |  |
 | [Astronaut](https://open.spotify.com/track/1xMTryybLDviCRWPUy9zw6) | [Bri Fletcher](https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m) | [Astronaut](https://open.spotify.com/album/07redYeQNsVylDt4OGRG3Q) | 3:45 | 2022-02-09 | 2022-03-24 |
 | [At the End of the Day](https://open.spotify.com/track/1kIZKA2GTLnJhHy8YOUGkh) | [Nolan Sotillo](https://open.spotify.com/artist/4NcwaEQYKWvOiZF8XhyxBQ) | [At the End of the Day](https://open.spotify.com/album/3FuKhg4LsN73eVfzc6yNOK) | 3:38 | 2021-12-01 | 2022-01-20 |
 | [Austin](https://open.spotify.com/track/71Co3oubNs9gGTvt4qKjHR) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [Austin](https://open.spotify.com/album/48oI6xoKIzFcHgx0t7n1U9) | 3:36 | 2022-05-25 |  |
@@ -276,6 +277,7 @@
 | [If You Have To](https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL) | 3:19 | 2021-12-01 | 2022-01-13 |
 | [If You'd Stayed](https://open.spotify.com/track/7yZsEa6NycXRHoI8egGtk0) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [If You'd Stayed](https://open.spotify.com/album/1zua41eXLqSPK6YQOUlDxa) | 4:06 | 2022-02-23 | 2022-04-07 |
 | [In Common](https://open.spotify.com/track/53MwsVDMpKMagKQFrpan7h) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [In Common](https://open.spotify.com/album/0M88IClYS7PjgBTSgMZmMi) | 3:03 | 2022-03-16 | 2022-04-27 |
+| [In My Head](https://open.spotify.com/track/5VPgQIQDiSRfqa3rX4zvg1) | [Alison Elena](https://open.spotify.com/artist/7mWYxYewRAHcVWTe1WrTDD) | [In My Head](https://open.spotify.com/album/38bXot31vUu6q0iDAHdTUz) | 3:15 | 2022-06-01 |  |
 | [In My View](https://open.spotify.com/track/5Plrf4mh7q3w2rveiF7nU4) | [Joe Noto](https://open.spotify.com/artist/5LdcH2qfkgvOFBkwSSQWz3) | [In My View](https://open.spotify.com/album/29fQcsADyfMqrCn451zNLH) | 3:03 | 2022-01-12 | 2022-02-24 |
 | [Indio](https://open.spotify.com/track/0gwzq3iJbirSCmAnrfaCSS) | [Holiday State](https://open.spotify.com/artist/51yDa6ThQLeL4BOyQXFPOJ) | [Indio](https://open.spotify.com/album/1ix9xuH0JHsMQha5CYAbpF) | 3:17 | 2022-04-13 | 2022-05-26 |
 | [Influence](https://open.spotify.com/track/1Fm5W64ccdN74IWDY6vtrI) | [Megan Dawson](https://open.spotify.com/artist/3FuZQgYK8xR8diGiLTcGp4) | [Influence](https://open.spotify.com/album/1eVJxamChkUCQH5NHuZkG8) | 3:23 | 2022-01-19 | 2022-02-24 |
@@ -391,6 +393,7 @@
 | [PUTTIN' IT OUT THERE](https://open.spotify.com/track/5oyaXq8iP1g1pcj5QkbHyU) | [Joey Green](https://open.spotify.com/artist/4xlGJGo6v3IVOkJVYyskKa) | [PUTTIN' IT OUT THERE](https://open.spotify.com/album/596ic6SpeR2IzqJ0CIVP9q) | 3:16 | 2022-05-18 |  |
 | [RECKLESS](https://open.spotify.com/track/08a51R97SLj4lbrKtG6NCS) | [Clayton Shay](https://open.spotify.com/artist/70paYnUiMhlriyqsG4D0CR) | [RECKLESS](https://open.spotify.com/album/6rDkSeIBYwg0q7k048f7vM) | 2:58 | 2022-01-12 | 2022-02-10 |
 | [Reckless](https://open.spotify.com/track/4YkGibAhJwX7ZV7owEEOLj) | [Johnny Gates](https://open.spotify.com/artist/2qwlFTAV2LVhQ01ljAyWJz) | [East Music Row](https://open.spotify.com/album/5wsDMCiymR1Q1KIQ6JV5Ep) | 2:58 | 2021-12-01 | 2022-01-13 |
+| [Red Dirt Cursed](https://open.spotify.com/track/71UT0ooGTviqmCfpdClNoY) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Red Dirt Cursed](https://open.spotify.com/album/64evxUin5gboW74Ko8TFef) | 3:56 | 2022-06-01 |  |
 | [Remember That Song](https://open.spotify.com/track/3khpChsE7a9MFivJZ0H0h5) | [Dylan Wolfe](https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX), [Jesslee](https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1) | [Remember That Song](https://open.spotify.com/album/6IHjZ441aze8HFDVLb7cKg) | 2:49 | 2022-04-27 |  |
 | [Rent](https://open.spotify.com/track/4cPKXouHSHlzloUsu8pkFa) | [Jasmin Bade](https://open.spotify.com/artist/2ty6ck1MGd6mjMCadvpp5N) | [Rent](https://open.spotify.com/album/5jXKb367whCoEdSwANDym2) | 2:40 | 2022-02-23 | 2022-03-17 |
 | [Rest of Texas](https://open.spotify.com/track/6kyteAG65BjF6KH1eCht7r) | [Cian Pedersen](https://open.spotify.com/artist/55iTDt1OrQMIHMNKHUPAaQ) | [Rest of Texas](https://open.spotify.com/album/74WcvgHzoOcsU85iiAEl9a) | 3:28 | 2022-01-19 | 2022-03-03 |

@@ -699,7 +699,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 166066,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/3VXwui96yNtnBCNUWFQIO4"
@@ -1142,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/7vEoSNuCi4Hh899wvGY7Ct"
+      },
+      "artists": [
+        {
+          "name": "Steve Blumenthal",
+          "url": "https://open.spotify.com/artist/59z8p2IU8agbAddmgLVAXE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252786,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/78K54LEyjSttk9UTE8PR9r"
+    },
+    {
+      "album": {
         "name": "Monk's Mood",
         "url": "https://open.spotify.com/album/67IUq1LOpEnPXlJfyvnY4C"
       },
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 300473,
       "name": "Monk's Mood",
       "url": "https://open.spotify.com/track/7ojUoFuu49TkZ8mvMEndt0"
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 407306,
       "name": "They Didn't Believe Me",
       "url": "https://open.spotify.com/track/2FaUOm50kOFVAn388NGxAe"

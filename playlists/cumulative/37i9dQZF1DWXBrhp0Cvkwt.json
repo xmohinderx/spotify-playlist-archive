@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 213000,
       "name": "Alewife",
       "url": "https://open.spotify.com/track/3jgrNd3uPU1c2PFBKYsV9d"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 176471,
       "name": "bitches broken hearts",
       "url": "https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 231253,
       "name": "Broken Clocks",
       "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 186666,
       "name": "Call U Tomorrow",
       "url": "https://open.spotify.com/track/0i5w6z3hhpfVMkRUdv9jQ4"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 210285,
       "name": "Chanel",
       "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 197732,
       "name": "Dancing With Your Ghost",
       "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 185041,
       "name": "Did I Get It Wrong",
       "url": "https://open.spotify.com/track/3uL7D152nfGyHMbJn5reCy"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 223413,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 246750,
       "name": "Even is the Lie",
       "url": "https://open.spotify.com/track/06ROgKWslcLeQaHUUnxMsE"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 204314,
       "name": "feel like shit",
       "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 175182,
       "name": "FUCK YOU HEATHER",
       "url": "https://open.spotify.com/track/2nBLLZGVPxyWXM5sHiFbPa"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 215760,
       "name": "Heaven Knows I'm Miserable Now - 2011 Remaster",
       "url": "https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 291796,
       "name": "i love you",
       "url": "https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc"
@@ -1115,10 +1115,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 167538,
       "name": "I miss you, I\u2019m sorry",
       "url": "https://open.spotify.com/track/1tF7RL54zjHSy0N2qEQLDY"
+    },
+    {
+      "album": {
+        "name": "I Never Learn",
+        "url": "https://open.spotify.com/album/3AUVlIKnnnWZAcqzxTKx4G"
+      },
+      "artists": [
+        {
+          "name": "Ai Bendr",
+          "url": "https://open.spotify.com/artist/0Ari1vZqizhkV9Pa1uC8oE"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197472,
+      "name": "I Never Learn",
+      "url": "https://open.spotify.com/track/5XlnAIPiOSEODsogL9Doxz"
     },
     {
       "album": {
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 179074,
       "name": "If We Make It Through December",
       "url": "https://open.spotify.com/track/3a3q9YsTkgrG7dBF2ZdZfn"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 156106,
       "name": "July",
       "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 175122,
       "name": "Larabar",
       "url": "https://open.spotify.com/track/5wNVNjLNMX0jhefWFOqgT2"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 182678,
       "name": "like i need u",
       "url": "https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim"
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 149142,
       "name": "Love Me Low",
       "url": "https://open.spotify.com/track/0FOogWUS6y2pv3OjAcu6hO"
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 180028,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/2WharvxRQJWtEF8dcf7qkz"
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 169330,
       "name": "mutt",
       "url": "https://open.spotify.com/track/44Q2fSohgPmMQsNm0sec1P"
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 180269,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/7ufvTDIjfqAhYZLXUX0lrF"
@@ -1815,7 +1833,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 230200,
       "name": "String Lights",
       "url": "https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq"
@@ -1873,7 +1891,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 170413,
       "name": "Sweet & Spice",
       "url": "https://open.spotify.com/track/14KaviDbKTubxaPF0ADBL9"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 139805,
       "name": "Talk 2 Me",
       "url": "https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO"
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 221241,
       "name": "The Path",
       "url": "https://open.spotify.com/track/0jdbVCxHze7xkrdyac3Ksn"
@@ -2053,7 +2071,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 213478,
       "name": "Tommy",
       "url": "https://open.spotify.com/track/7w76n5UvwlGrjZsgFm8ZYl"
@@ -2089,7 +2107,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 196173,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1"
@@ -2107,7 +2125,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 153080,
       "name": "Walk Backwards",
       "url": "https://open.spotify.com/track/4DhyT4rKKJh8tGVVrjY77m"
@@ -2219,7 +2237,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 158617,
       "name": "Working for the Knife",
       "url": "https://open.spotify.com/track/46OaeacE8RjnE49MB5B2Lt"

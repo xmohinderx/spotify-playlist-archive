@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 161493,
       "name": "Casualidad",
       "url": "https://open.spotify.com/track/67ii9wXrKQpBjfKS3u1iw1"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 169465,
       "name": "Dile",
       "url": "https://open.spotify.com/track/3GBFnb6hEgUD5zy3zfOSlf"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 173858,
       "name": "Fantas\u00eda",
       "url": "https://open.spotify.com/track/14SBbAnAb9yLbVGnbFfra6"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 194755,
       "name": "Hora Loca Remix - Spotify Singles (with Piso 21)",
       "url": "https://open.spotify.com/track/2uvU0z0Asg969AiNLDIowC"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 208558,
       "name": "LA DESPEDIDA - Live - Spotify Singles",
       "url": "https://open.spotify.com/track/3RMigTAghPnfNXpmzqe1C7"
@@ -972,6 +972,28 @@
     },
     {
       "album": {
+        "name": "Los De Siempre",
+        "url": "https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205733,
+      "name": "Los De Siempre",
+      "url": "https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -1027,7 +1049,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 207580,
       "name": "Mi Negrita",
       "url": "https://open.spotify.com/track/4A0U6CTmhJYYvoZcTAIDli"
@@ -1071,7 +1093,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 214000,
       "name": "Millonario (Remix) [feat. Ozuna]",
       "url": "https://open.spotify.com/track/1KwMVzMArDnM5m2LNuzXAO"
@@ -1393,7 +1415,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 228360,
       "name": "Q'lona",
       "url": "https://open.spotify.com/track/18qAAYXV9LmnLgO81cscAQ"
@@ -1521,7 +1543,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 337841,
       "name": "Si Es Trucho Es Trucho",
       "url": "https://open.spotify.com/track/5FKWq8ppC9KeXZGwYTqsxS"
@@ -1565,7 +1587,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 169336,
       "name": "Si Tu Quieres",
       "url": "https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2"

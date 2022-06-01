@@ -4,7 +4,7 @@
 
 > This is Avenged Sevenfold\. The essential tracks, all in one playlist.
 
-41 songs - 3 hr 53 min - not published yet
+41 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/5hWIvCHya76yr7uVouaBly)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

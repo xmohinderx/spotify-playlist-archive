@@ -2,8 +2,28 @@
   "date_first_scraped": "2022-05-30",
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "\uc378",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2hMrDXlFlo12UdmYhIsIau"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "KILLA - MIRAE 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Hie8o9qZTYeiitXGmzI2V"
+      },
+      "artists": [
+        {
+          "name": "MIRAE",
+          "url": "https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183920,
+      "name": "1 Thing",
+      "url": "https://open.spotify.com/track/5ZUO1VRpF1VlMVjPotm1WB"
+    },
     {
       "album": {
         "name": "CYAN",
@@ -17,7 +37,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 195253,
       "name": "2U",
       "url": "https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy"
@@ -35,7 +55,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 224640,
       "name": "A Fairy Tale",
       "url": "https://open.spotify.com/track/6wiZ4T7wd5HtvMCjsZ9w4S"
@@ -75,10 +95,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 162382,
       "name": "About",
       "url": "https://open.spotify.com/track/1GDqEr1WJxWSTYfAbfa6af"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/6js0OoNg9GZleGi2B2QN3b"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230651,
+      "name": "At the Cinema",
+      "url": "https://open.spotify.com/track/1fVdYz0JuL3p2petdaDGkP"
     },
     {
       "album": {
@@ -111,7 +149,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 225125,
       "name": "busy guy",
       "url": "https://open.spotify.com/track/3OifMsSbPyon2tgApzijMH"
@@ -137,7 +175,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF"
@@ -275,7 +313,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 219210,
       "name": "Dream",
       "url": "https://open.spotify.com/track/2zhF54yxl0asFYGtMWavYC"
@@ -347,7 +385,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 181293,
       "name": "Fly to me",
       "url": "https://open.spotify.com/track/6KrDSC2vcLc2E6lajkGSw4"
@@ -369,7 +407,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 230661,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x"
@@ -391,7 +429,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 183413,
       "name": "For Her (feat. Kim Dae Hyeok)",
       "url": "https://open.spotify.com/track/1JeyvQnYfR7otuxrWKkhEC"
@@ -445,7 +483,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 227853,
       "name": "Heart in Motion",
       "url": "https://open.spotify.com/track/7p23qMHn32rwnIcGIFJxgK"
@@ -463,7 +501,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 186697,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/4dv1Ygd62DuZEjzqVivgKE"
@@ -503,10 +541,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 205693,
       "name": "How Do You Think",
       "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
+    },
+    {
+      "album": {
+        "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+        "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257666,
+      "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+      "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
     },
     {
       "album": {
@@ -557,7 +613,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 196128,
       "name": "I think I'm in love",
       "url": "https://open.spotify.com/track/395vU3XBsgKd5iRXT9x94P"
@@ -579,6 +635,28 @@
       "duration_ms": 198626,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/2MzPMAOhdAdAOFV6Cug4Tj"
+    },
+    {
+      "album": {
+        "name": "If I (with Yun DDanDDan)",
+        "url": "https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y"
+      },
+      "artists": [
+        {
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        },
+        {
+          "name": "Yun DDanDDan",
+          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229354,
+      "name": "If I (with Yun DDanDDan)",
+      "url": "https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U"
     },
     {
       "album": {
@@ -629,7 +707,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 161720,
       "name": "I\u2032ll tell you today",
       "url": "https://open.spotify.com/track/3mOQFlfQMDlJWp8AK4aTKj"
@@ -647,7 +725,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 197280,
       "name": "LOVE SONG",
       "url": "https://open.spotify.com/track/1ivQM7qQCPRfvisivqGIYJ"
@@ -719,7 +797,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 171560,
       "name": "Not In Public",
       "url": "https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD"
@@ -839,7 +917,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 180370,
       "name": "pounding trembling",
       "url": "https://open.spotify.com/track/1vkrW27KEye650Rf7AZfr0"
@@ -897,7 +975,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 191625,
       "name": "Secret",
       "url": "https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0"
@@ -915,7 +993,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 195125,
       "name": "see you",
       "url": "https://open.spotify.com/track/5qwogqCsf0RDUVzywwlfzI"
@@ -1005,7 +1083,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 223629,
       "name": "SOME",
       "url": "https://open.spotify.com/track/29fqZVcnBDxZZaM5qOcQmR"
@@ -1089,7 +1167,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 196109,
       "name": "Spoiler (feat. Limit)",
       "url": "https://open.spotify.com/track/1Peet7rqBIuwqdAOdOqKDz"
@@ -1151,7 +1229,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 170960,
       "name": "Surprise (Feat. Obze)",
       "url": "https://open.spotify.com/track/19dZbVguKTPMJDkk36S0D1"
@@ -1209,7 +1287,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 198626,
       "name": "To, Summer",
       "url": "https://open.spotify.com/track/5pwBvZSb3JboCWU9xxgSiT"
@@ -1287,7 +1365,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 239557,
       "name": "Ugly, Lovely (feat. INFP)",
       "url": "https://open.spotify.com/track/51N5xzPBGodwhO2cKlkT32"
@@ -1309,7 +1387,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 208690,
       "name": "What about (feat. PENOMECO)",
       "url": "https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd"
@@ -1327,7 +1405,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 215857,
       "name": "What are you thinking about?",
       "url": "https://open.spotify.com/track/1eimXRbiVMsqSvTLj8Tt41"
@@ -1421,7 +1499,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 225133,
       "name": "Your name",
       "url": "https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI"
@@ -1439,7 +1517,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 204615,
       "name": "\uae38\uc5b4\uc57c 5\ubd84 That 5 Minutes",
       "url": "https://open.spotify.com/track/2Yi4Zlcqmt3ibLeOoRnVuT"

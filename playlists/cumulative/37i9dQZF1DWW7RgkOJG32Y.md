@@ -2,9 +2,9 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending new and recent tracks from the last few months\. Cover: Zach Bryan
+> Top trending new and recent tracks from the last few months\. Cover: Jimmie Allen
 
-176 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
+177 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Don't It Sound Alright](https://open.spotify.com/track/58UvLeYJXtFkbkUP3lU6YK) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Don't It Sound Alright](https://open.spotify.com/album/3zLyedIJvUMz9V6iLeFPlv) | 3:38 | 2022-05-13 |  |
 | [Don't Think Jesus](https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Don't Think Jesus](https://open.spotify.com/album/6Lh4g6sKzuiuBCzEXgwCuz) | 3:46 | 2022-04-22 | 2022-05-28 |
 | [Don’t Come Lookin’](https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 3:07 | 2022-04-15 |  |
+| [down home](https://open.spotify.com/track/6iai8D40xiwuktWrxcInt1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [down home](https://open.spotify.com/album/1LpxV96m3HhCQ47zLK0FXf) | 3:21 | 2022-06-01 |  |
 | [Drink Had Me](https://open.spotify.com/track/4KOEQ1VPa1Ri5PWT1h84jt) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:36 | 2021-12-17 | 2022-05-28 |
 | [Drinkin' It Wrong](https://open.spotify.com/track/4DSVCVCTwLElQGgS1fr3ix) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Drinkin' It Wrong](https://open.spotify.com/album/53mdg0kzOIHfb2ez48NEUY) | 3:24 | 2022-02-11 | 2022-05-14 |
 | [Drinking to the Broken Hearts](https://open.spotify.com/track/58FFAwPYDGarcBP2hNHzUK) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Drinking to the Broken Hearts](https://open.spotify.com/album/1wGzChizEpSj0gZG2S5lRs) | 3:30 | 2022-02-04 |  |

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Alessandro Cortini. The essential tracks, all in one playlist.",
   "name": "This Is Alessandro Cortini",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7HqF9ziewtXXk9SfOV5veg"
+  ],
   "tracks": [
     {
       "album": {
@@ -25,6 +27,24 @@
       "duration_ms": 1363063,
       "name": "ACMA",
       "url": "https://open.spotify.com/track/1c7jZViK1RDHr9WOZzIvCV"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360072,
+      "name": "AMARO AMORE",
+      "url": "https://open.spotify.com/track/34aLJYyLaPXQoQEa2rls0a"
     },
     {
       "album": {
@@ -167,7 +187,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 601426,
       "name": "CMAA",
       "url": "https://open.spotify.com/track/4ThWypGQKfkB07EoT1HkaK"
@@ -475,7 +495,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 1019203,
       "name": "MAAC",
       "url": "https://open.spotify.com/track/4Bq7pjMWPLLyto3F1nfw46"
@@ -747,7 +767,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 302834,
       "name": "VERDE",
       "url": "https://open.spotify.com/track/5ktQ1ULTNMSHFktFzxuQcl"

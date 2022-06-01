@@ -2,7 +2,7 @@
 
 ### [Next Wave Neo\-Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
-> A blend of new songs and new artists in the neo\-soul space\. Cover: Syd
+> A blend of new songs and new artists in the neo\-soul space\. Cover: Pip Millett
 
 179 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 

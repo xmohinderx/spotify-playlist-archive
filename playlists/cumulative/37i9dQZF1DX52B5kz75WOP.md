@@ -4,7 +4,7 @@
 
 > Curated by <a href="spotify:artist:6ZLTlhejhndI4Rh53vYhrY>Ozzy Osbourne</a> for his beloved Pomeranian, Rocky.
 
-17 songs - 1 hr 6 min - not published yet
+17 songs - 1 hr 6 min - [published](https://open.spotify.com/playlist/6k8WGlZYaWDLte18htjfgp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

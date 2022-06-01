@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-59 songs - 4 hr 33 min - not published yet
+59 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/0Z5cpGwOQ6Tu0NXcqKQnWM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

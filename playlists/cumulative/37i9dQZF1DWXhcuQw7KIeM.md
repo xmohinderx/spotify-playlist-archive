@@ -4,7 +4,7 @@
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-80 songs - 7 hr 17 min - not published yet
+80 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/1mxT9VBVPBq4KOuVH5Aq5o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

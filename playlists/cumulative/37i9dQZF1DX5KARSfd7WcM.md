@@ -4,7 +4,7 @@
 
 > The official playlist for Heartstopper\. Watch now on Netflix!
 
-36 songs - 2 hr 5 min - not published yet
+36 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/0G1uVTUNlFPG93qLUAtTWg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

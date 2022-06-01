@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-173 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+174 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Love For You](https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Love For You](https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg) | 3:23 | 2022-01-14 | 2022-03-24 |
 | [Madness](https://open.spotify.com/track/3zsPz5ElM9EZZALNNN5gBy) | [Saxsquatch](https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t) | [Madness](https://open.spotify.com/album/7jyOHk3mdvqCpGWqsj7aPE) | 2:55 | 2022-03-11 | 2022-05-26 |
 | [Magma](https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Magma](https://open.spotify.com/album/3D3vEPEMF6ZuoDaHiLSyz5) | 3:21 | 2021-11-19 | 2022-02-03 |
+| [Malibu](https://open.spotify.com/track/1uI5SfxcOTpnxjU3DGlJGM) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [California Sessions](https://open.spotify.com/album/4JuvwXDh08DajGwNrvVoOH) | 3:44 | 2022-06-01 |  |
 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 | 2022-05-13 |  |
 | [Million Reasons](https://open.spotify.com/track/76LqoAbnaxhc9gaGnXluFy) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Gunnva](https://open.spotify.com/artist/7MVtZkqiCMOWchZpXPEMXh) | [Million Reasons](https://open.spotify.com/album/1shWfHagehxkIqbREDm5fx) | 3:25 | 2021-12-03 | 2022-03-09 |
 | [More To Give \- VIP](https://open.spotify.com/track/3PdwZoy7TJcPGw7GI8GI4u) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Rise & Fall \(VIPs\)](https://open.spotify.com/album/7vNlIGuuwVCwO4YhDojVdx) | 3:03 | 2022-01-25 | 2022-04-05 |

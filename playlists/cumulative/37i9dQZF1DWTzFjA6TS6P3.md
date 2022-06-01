@@ -4,7 +4,7 @@
 
 > All songs from South Korean survival hip\-hop TV show 'School Rapper\(고등래퍼\)\. Cover: TRADE L \(Season 4 Winner\)
 
-107 songs - 6 hr 26 min - not published yet
+107 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/1WZjPz86sRNUtEindfZ029)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

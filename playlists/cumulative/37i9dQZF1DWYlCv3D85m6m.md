@@ -4,7 +4,7 @@
 
 > One in a million!
 
-101 songs - 5 hr 38 min - not published yet
+101 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/5QvtyB5RVrIoS1lUVpkCdO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

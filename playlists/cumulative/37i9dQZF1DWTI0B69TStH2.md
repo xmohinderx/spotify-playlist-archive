@@ -4,7 +4,7 @@
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Senny \| Playlista odświeżana w każdy wtorek.
 
-115 songs - 6 hr 39 min - not published yet
+115 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/6wB7HHgPQjErlX5o34Jlnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Fast](https://open.spotify.com/track/4iqCERBBE6h3vpNc5gHrAb) | [3lackeye](https://open.spotify.com/artist/14iwf98QkAIBTorQGmOwhA) | [Fast](https://open.spotify.com/album/4xuCy3YCkOuXeTiKuq9WqE) | 3:40 | 2022-05-23 |  |
 | [Firefall](https://open.spotify.com/track/0qs8efXnciK191lwC35SUF) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Firefall](https://open.spotify.com/album/0SQLYPSBVohUWvSLb52spV) | 3:12 | 2022-05-23 |  |
 | [Francuski łącznik](https://open.spotify.com/track/3HvVaB8X4LQH4ZqFfTvm5H) | [Tropiki](https://open.spotify.com/artist/7ayr90eJXhw76dWqkHT9hw) | [Francuski Łącznik](https://open.spotify.com/album/3VCCriENI5U4upNwVoIJ0H) | 4:15 | 2022-05-23 |  |
-| [Gdzie jesteś?](https://open.spotify.com/track/5gEKbndynO9wfdvAxjaBxe) | [Spajku/Dziunek](https://open.spotify.com/artist/59Rik4l7RgbGXu9YcTw8GH), [Sandra Mika](https://open.spotify.com/artist/1dMHer5zjPgHylBGcYVkB0), [Kajetan Borowski](https://open.spotify.com/artist/1x2UZpxGpI1u6zsP2BuDTP) | [Gdzie jesteś?](https://open.spotify.com/album/6J9kFJWEhSwxrbME22jg6N) | 3:24 | 2022-05-23 |  |
+| [Gdzie jesteś?](https://open.spotify.com/track/5gEKbndynO9wfdvAxjaBxe) | [Spajku/Dziunek](https://open.spotify.com/artist/59Rik4l7RgbGXu9YcTw8GH), [Sandra Mika](https://open.spotify.com/artist/1dMHer5zjPgHylBGcYVkB0), [Kajetan Borowski](https://open.spotify.com/artist/3TTFIdrb9JttQKaSPyvLcu) | [Gdzie jesteś?](https://open.spotify.com/album/6J9kFJWEhSwxrbME22jg6N) | 3:24 | 2022-05-23 |  |
 | [Genius Loci](https://open.spotify.com/track/0qWeJhflaDVmUg7ymHP9nt) | [NOBO](https://open.spotify.com/artist/6wSHpGqWHcdUsGztGMy6iE) | [Genius Loci](https://open.spotify.com/album/0l3m9IsMn3tHG2nPjW56zq) | 3:26 | 2022-05-23 |  |
 | [Granie na czas](https://open.spotify.com/track/0VOMtIO3OeVOBfxfl0ZAOZ) | [Małgola, No](https://open.spotify.com/artist/0uzUmwzNGtiw8vzlUpWuRD) | [Granie na czas](https://open.spotify.com/album/3YsSe9X3k08T8DCAI53Mte) | 4:03 | 2022-05-23 |  |
 | [GŁĘBIEJ](https://open.spotify.com/track/5MHv5c0F4ASslUoMkigvI3) | [seith](https://open.spotify.com/artist/7dhAzW6cXT4GrxBaKIxM1J), [RYGOR](https://open.spotify.com/artist/0zqgLwEy8VaUR8UaxnuSpV), [Adzky](https://open.spotify.com/artist/3WehlyJLmktMlEXxePW5eT) | [GŁĘBIEJ](https://open.spotify.com/album/3qskWfp3zFBv0ln8lw3T3V) | 3:38 | 2022-05-23 |  |

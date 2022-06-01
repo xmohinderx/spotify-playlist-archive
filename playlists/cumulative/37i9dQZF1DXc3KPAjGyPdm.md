@@ -4,7 +4,7 @@
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-180 songs - 10 hr 31 min - not published yet
+180 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/46rHkOw5I8WIIcWUUhwmZN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Raise A Little Hell](https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc) | [Trooper](https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN) | [Thick As Thieves](https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0) | 3:42 | 2017-12-20 |  |
 | [Rats](https://open.spotify.com/track/5uTQMYC3iw13RBN0a1bNSL) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 4:35 | 2019-07-10 |  |
 | [Robinson's Grand Entry](https://open.spotify.com/track/4AIiYlvOXDO6AbEptCYjIs) | [1920's Wurlitzer Carousel Organ](https://open.spotify.com/artist/2cgIjAoqvR3HDr4pwPZDAX) | [Carousel Organ Varieties, Vol\. 1](https://open.spotify.com/album/2oWMIAfxYjz2dXDjOu0Mdn) | 3:32 | 2019-07-10 |  |
-| [Rock Me Amadeus \- The Gold Mix \- Rough](https://open.spotify.com/track/0CxCB2wrEiTOrjES0GmSdP) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:46 | 2022-05-27 |  |
+| [Rock Me Amadeus \- The Gold Mix](https://open.spotify.com/track/0CxCB2wrEiTOrjES0GmSdP) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:46 | 2022-05-27 |  |
 | [Rock This Town \- Single Edit/24 Bit Mastering/ Digital Remaster/1999](https://open.spotify.com/track/4jRWsQp0nJZsQ9EbjEO82g) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [The Brian Setzer Collection 1981\-1988 \(Remastered\)](https://open.spotify.com/album/5yeIWI4LK4TzTHvFM00Zii) | 2:39 | 2019-07-10 |  |
 | [Rock You Like a Hurricane](https://open.spotify.com/track/1QLyDdhB9gmxbGv0K1kFyT) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Stranger Things \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N) | 4:14 | 2017-12-20 |  |
 | [Ruins](https://open.spotify.com/track/1iC94VGBlci8FOyGyDwWIu) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 2:02 | 2019-07-10 |  |

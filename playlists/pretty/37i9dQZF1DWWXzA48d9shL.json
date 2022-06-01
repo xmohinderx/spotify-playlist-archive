@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 \ud83d\ude08 \ud83d\ude08 ",
-  "num_followers": 230490,
+  "num_followers": 230833,
   "original_name": "Tirade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDAyNTAxMSwwMDAwMDBhOTAwMDAwMTgxMWI5MmMyY2QwMDAwMDE4MTAxMDdiZDBk",
+  "snapshot_id": "MTY1NDA0NjM4NSwwMDAwMDBhYjAwMDAwMTgxMWNkOGU1NjcwMDAwMDE4MTAxMDdiZDBk",
   "tracks": [
     {
       "added_at": "2022-05-16 15:05:49",
@@ -147,6 +147,22 @@
     {
       "added_at": "2022-05-16 15:05:49",
       "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 101262,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/2zVgPURwEBzRhmvoO8GyO4"
+    },
+    {
+      "added_at": "2022-05-16 15:05:49",
+      "album": {
         "name": "IFeelLikeDirt",
         "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
       },
@@ -281,22 +297,6 @@
       "url": "https://open.spotify.com/track/717pWgqqsMUEgydhiINRO1"
     },
     {
-      "added_at": "2022-05-16 15:05:49",
-      "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 101262,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/2zVgPURwEBzRhmvoO8GyO4"
-    },
-    {
       "added_at": "2022-05-20 06:40:00",
       "album": {
         "name": "LIGHTNING",
@@ -331,26 +331,6 @@
       "duration_ms": 136140,
       "name": "Take The Field",
       "url": "https://open.spotify.com/track/2xBB1fbYBqfgPKwltPVibk"
-    },
-    {
-      "added_at": "2022-05-27 04:05:00",
-      "album": {
-        "name": "LOCKED IN",
-        "url": "https://open.spotify.com/album/7AiUnXzeuLqWtnppWa0SA8"
-      },
-      "artists": [
-        {
-          "name": "luvseat",
-          "url": "https://open.spotify.com/artist/7efjR9fsgGb2ZuhhEDYhqs"
-        },
-        {
-          "name": "BRUHMANEGOD",
-          "url": "https://open.spotify.com/artist/4jKJcl7HTKV6FXKizgJiaY"
-        }
-      ],
-      "duration_ms": 178508,
-      "name": "LOCKED IN",
-      "url": "https://open.spotify.com/track/2v3ZLttQotgS0GuSaJT6Kt"
     },
     {
       "added_at": "2022-05-16 15:05:49",
@@ -603,26 +583,6 @@
       "duration_ms": 113431,
       "name": "Skeletons In My Closet",
       "url": "https://open.spotify.com/track/3OMfco4bEsfCOTc4tKG26F"
-    },
-    {
-      "added_at": "2022-05-16 15:05:49",
-      "album": {
-        "name": "DOG BOY",
-        "url": "https://open.spotify.com/album/5RongMpRt5jcdZ7gpAKtWn"
-      },
-      "artists": [
-        {
-          "name": "ZillaKami",
-          "url": "https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Bleach (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/09QvHJHDHbuptkaalGchss"
     },
     {
       "added_at": "2022-05-16 15:05:49",
@@ -911,26 +871,6 @@
       "duration_ms": 122647,
       "name": "Wig Split",
       "url": "https://open.spotify.com/track/3hbUwKl4G1I9s2HOSMUFLT"
-    },
-    {
-      "added_at": "2022-05-16 15:05:49",
-      "album": {
-        "name": "SCRAPS",
-        "url": "https://open.spotify.com/album/0DezD1oqJZMt5b793b1SCx"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        },
-        {
-          "name": "Lyson",
-          "url": "https://open.spotify.com/artist/5qSqbVmHM1dtIazNNyTP7c"
-        }
-      ],
-      "duration_ms": 139493,
-      "name": "CousinEddie",
-      "url": "https://open.spotify.com/track/7zaeTWU2pJU0OgGTPtfpEE"
     },
     {
       "added_at": "2022-05-16 15:05:49",
@@ -1299,22 +1239,6 @@
       "duration_ms": 109595,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/0IGxkEgMeF1dwOSIj2IUrT"
-    },
-    {
-      "added_at": "2022-05-16 15:05:49",
-      "album": {
-        "name": "SPIDERBLOOD",
-        "url": "https://open.spotify.com/album/4dmFTJ8TSyXxj7EyHf4Uee"
-      },
-      "artists": [
-        {
-          "name": "Witchouse 40k",
-          "url": "https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J"
-        }
-      ],
-      "duration_ms": 211288,
-      "name": "SPIDERBLOOD",
-      "url": "https://open.spotify.com/track/0kx1cK3Lhr7yaJ47uvG36X"
     },
     {
       "added_at": "2022-05-16 15:05:49",

@@ -4,7 +4,7 @@
 
 > Hear all of MINO's biggest and best hits in one playlist.
 
-44 songs - 2 hr 28 min - not published yet
+44 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/5aTBggNT0zxnDLXYFfyPCw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Music from the Tall Girl films\. Watch Tall Girl 2 now on Netflix.
 
-39 songs - 2 hr 10 min - not published yet
+39 songs - 2 hr 10 min - [published](https://open.spotify.com/playlist/7j6ZRuX0artzn2fcS33kVv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-30",
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
   "name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4XvItJuMKSSQUCN3RPO6uN"
+  ],
   "tracks": [
     {
       "album": {
@@ -57,6 +59,24 @@
       "duration_ms": 233064,
       "name": "Answer",
       "url": "https://open.spotify.com/track/3DgHBtEuX3Tg8NrE0d2LEj"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 2",
+        "url": "https://open.spotify.com/album/6w9xkNdDMGzBHC4owKXFsk"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226351,
+      "name": "As If It's Your Last",
+      "url": "https://open.spotify.com/track/5GHrRt43EsRmS3f4AcyeR0"
     },
     {
       "album": {
@@ -241,7 +261,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 359522,
       "name": "BLUE - Piano Version",
       "url": "https://open.spotify.com/track/5Kk2wLYQ6MfbrIG3Yaxeyj"
@@ -259,7 +279,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 240335,
       "name": "Boy With Luv",
       "url": "https://open.spotify.com/track/0TWshEbDM3ELQQQ7UvMYhb"
@@ -313,7 +333,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 269423,
       "name": "BUBBLE POP - Piano Version",
       "url": "https://open.spotify.com/track/6YYUgIvpMo7xGhue0i04C9"
@@ -349,7 +369,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 318360,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/3gK5DTi0FY2rkG5CX937hl"
@@ -367,7 +387,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 227904,
       "name": "Can't You See Me?",
       "url": "https://open.spotify.com/track/4VpRot0lXWRwRyOAt5CpNL"
@@ -385,7 +405,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 464504,
       "name": "CANDY POP - Piano Version",
       "url": "https://open.spotify.com/track/1Z3d3LRmpKmcRCYf3MvWQO"
@@ -403,7 +423,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 198802,
       "name": "DALLA DALLA - Piano Version",
       "url": "https://open.spotify.com/track/4nGXFvAlJAv7CFoPvbYyj5"
@@ -421,7 +441,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 210504,
       "name": "DDU-DU DDU-DU",
       "url": "https://open.spotify.com/track/0lVsRvqr3KM8Z1gT7VefGT"
@@ -457,7 +477,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 211539,
       "name": "Don't Wanna Cry",
       "url": "https://open.spotify.com/track/6GSJnyahmtMg8YVZqZY1W3"
@@ -475,10 +495,28 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 258292,
       "name": "DON'T WANNA CRY - Piano Version",
       "url": "https://open.spotify.com/track/1hPmXto0JEfqIDDLstzNIM"
+    },
+    {
+      "album": {
+        "name": "Dynamite (Piano Cover)",
+        "url": "https://open.spotify.com/album/19bz1U5D3ZXrNqWNqCj35D"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204648,
+      "name": "Dynamite - Piano Cover",
+      "url": "https://open.spotify.com/track/0NP0ZjMqO65wzH1vCXwr4o"
     },
     {
       "album": {
@@ -493,7 +531,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 176495,
       "name": "Eight",
       "url": "https://open.spotify.com/track/5DdFfttrCKUeOqsooKfQss"
@@ -547,7 +585,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 250224,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/0Gtv8Azl1fHywcbRE6VjaE"
@@ -655,7 +693,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 321424,
       "name": "GEE - Piano Version",
       "url": "https://open.spotify.com/track/1vuauy43oLCN0mNT2tmFc2"
@@ -716,6 +754,24 @@
     },
     {
       "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214848,
+      "name": "Heart Shaker",
+      "url": "https://open.spotify.com/track/0JRR7q8OgWnNm0CdMk4NCq"
+    },
+    {
+      "album": {
         "name": "K-POP PIANO BEST",
         "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
       },
@@ -745,7 +801,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 229512,
       "name": "I Can't Stop Me",
       "url": "https://open.spotify.com/track/5fiRGGKjrjSW7qR1RKkjbX"
@@ -940,6 +996,24 @@
     },
     {
       "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/5j1bpAnNEgW7em8x8Sqh05"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229415,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/6W5onaafTW9qWIAxgg3oo4"
+    },
+    {
+      "album": {
         "name": "KPOP Piano Collection, Vol. 1",
         "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
       },
@@ -951,7 +1025,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 300840,
       "name": "Into The New World",
       "url": "https://open.spotify.com/track/2iIyTzkrcaGzHtwav1SCnF"
@@ -1059,7 +1133,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 236495,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/4A63WkIqSbhpZtDY9WeNf0"
@@ -1077,7 +1151,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 311855,
       "name": "Lights",
       "url": "https://open.spotify.com/track/2bLGmRo9SF1CRPLIRymoJy"
@@ -1113,7 +1187,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 230328,
       "name": "Likey",
       "url": "https://open.spotify.com/track/7thIPd8m5M1Dkur164SN8v"
@@ -1210,6 +1284,24 @@
     },
     {
       "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314345,
+      "name": "LOVE SCENARIO - Piano Version",
+      "url": "https://open.spotify.com/track/1ppUu8SFXpY9ulzvu4KtA2"
+    },
+    {
+      "album": {
         "name": "Lovesick Girls",
         "url": "https://open.spotify.com/album/73HYFSLXh4g4YnSts7sKGx"
       },
@@ -1221,7 +1313,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 207960,
       "name": "Lovesick Girls",
       "url": "https://open.spotify.com/track/1PzHoeGjx1ccdV6usWNfW0"
@@ -1463,7 +1555,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 273480,
       "name": "One Of These Nights",
       "url": "https://open.spotify.com/track/4Ce0YuZtxOcjTArxSeeQrD"
@@ -1499,7 +1591,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 299483,
       "name": "PALETTE - Piano Version",
       "url": "https://open.spotify.com/track/1bBjmLUDIlKJShMjc0lVRR"
@@ -1625,10 +1717,28 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 320268,
       "name": "REALLY REALLY - Piano Version",
       "url": "https://open.spotify.com/track/0oA3qDJW0FkMditO2wAHxb"
+    },
+    {
+      "album": {
+        "name": "The Best of Red Velvet",
+        "url": "https://open.spotify.com/album/1okhqEBDj97vIc6oyOx6pP"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217704,
+      "name": "Red Flavor (Sad Ver.)",
+      "url": "https://open.spotify.com/track/5pdlm9DRVLfAgbTRywyG9U"
     },
     {
       "album": {
@@ -1737,7 +1847,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 254088,
       "name": "Secret Garden",
       "url": "https://open.spotify.com/track/2mVNxrD2DufhTFBmHDoJLE"
@@ -1813,7 +1923,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 333098,
       "name": "SHORT HAIR/DAN BAL MEO RI - Piano Version",
       "url": "https://open.spotify.com/track/0p9W0tkizI6eaEMXdeMFE1"
@@ -1831,7 +1941,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 186888,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/4BR71tg3LgCGnWHjPLjXAP"
@@ -1867,7 +1977,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 368452,
       "name": "SORRY SORRY - Piano Version",
       "url": "https://open.spotify.com/track/6NyG7zyGc6zfPz5Lq7pLVE"
@@ -1921,7 +2031,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 241200,
       "name": "Stay",
       "url": "https://open.spotify.com/track/13iPImxjPpebfDtJXEMON7"
@@ -1993,7 +2103,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 223440,
       "name": "The Best Thing I Ever Did",
       "url": "https://open.spotify.com/track/2xCHm9bo2LGgwhhrso4qEG"
@@ -2054,6 +2164,24 @@
     },
     {
       "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230160,
+      "name": "TT",
+      "url": "https://open.spotify.com/track/79iiAZS06LhdkwZYDQgYKe"
+    },
+    {
+      "album": {
         "name": "K-POP PIANO BEST",
         "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
       },
@@ -2065,7 +2193,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 374567,
       "name": "TT - Piano Version",
       "url": "https://open.spotify.com/track/1MDbO3y4nym9ZqEHm6YNOl"

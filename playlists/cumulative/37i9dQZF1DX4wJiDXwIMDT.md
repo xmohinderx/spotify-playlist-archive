@@ -4,7 +4,7 @@
 
 > Please don’t storm Area 51\. But if you do, listen to this\. 👽
 
-31 songs - 2 hr 11 min - not published yet
+31 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/3mLF9PDN3bsrbfZsEL08cs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,12 +24,12 @@
 | [Intergalactic \- Remastered 2009](https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Hello Nasty \(Deluxe Version/Remastered 2009\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 3:51 | 2019-07-15 |  |
 | [Interstellar Overdrive](https://open.spotify.com/track/3xyTufSSGLP3oZnomceAVW) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Piper at the Gates of Dawn](https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC) | 9:40 | 2019-07-15 |  |
 | [It Came Out Of The Sky](https://open.spotify.com/track/3bgTFCt5CTfasvpigHAdL0) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:55 | 2019-07-15 |  |
-| [Naruto Theme Song](https://open.spotify.com/track/5r0U37eqDx25e0vtDQl4Tt) | [Typhillosion](https://open.spotify.com/artist/3DvDYQx7kUpb3sz5njRC8p) | [Naruto Theme Song](https://open.spotify.com/album/0FkNvZZuqmrLpydpDkjXxV) | 4:04 | 2019-07-15 |  |
+| [Naruto Theme Song](https://open.spotify.com/track/5r0U37eqDx25e0vtDQl4Tt) | [Typhillosion](https://open.spotify.com/artist/3DvDYQx7kUpb3sz5njRC8p) | [Naruto Theme Song](https://open.spotify.com/album/0FkNvZZuqmrLpydpDkjXxV) | 4:04 | 2019-07-15 | 2022-06-01 |
 | [Oh, What A World](https://open.spotify.com/track/5ToJzoVfLYyF7ohMOBNObi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:01 | 2021-06-30 |  |
 | [Run Away With Me](https://open.spotify.com/track/5e0vgBWfwToyphURwynSXa) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion](https://open.spotify.com/album/6UjZgFbK6CQptu8aOobzPV) | 4:11 | 2019-07-15 |  |
 | [Space Age Love Song](https://open.spotify.com/track/4FMsajq8hKiOmcJ7UzOhag) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Playlist: The Very Best of A Flock of Seagulls](https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb) | 3:46 | 2019-07-15 |  |
 | [Space Jam](https://open.spotify.com/track/683hRieVmYdAhVA1DkjSAk) | [Quad City DJ's](https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS) | [Space Jam \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5qdsq5YryqAynT65vpaumI) | 5:04 | 2019-07-15 |  |
-| [Space Oddity \- 2015 Remaster](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [David Bowie \(aka Space Oddity\) \[2015 Remaster\]](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) | 5:18 | 2019-07-15 | 2022-06-01 |
+| [Space Oddity \- 2015 Remaster](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [David Bowie \(aka Space Oddity\) \[2015 Remaster\]](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) | 5:18 | 2019-07-15 |  |
 | [Space Truckin'](https://open.spotify.com/track/44lAQJzaUI6hcpHEFqp2mJ) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 4:34 | 2019-07-15 |  |
 | [Spaceman](https://open.spotify.com/track/1A8SxnqRK3qabmuN2qxIpa) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:44 | 2019-07-15 |  |
 | [Starlight](https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:00 | 2019-07-15 |  |

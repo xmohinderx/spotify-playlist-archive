@@ -4,7 +4,7 @@
 
 > 
 
-642 songs - 1 day 19 hr 9 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+643 songs - 1 day 19 hr 13 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Memphisto \- 2006 Remaster](https://open.spotify.com/track/1QpwjJmuow6GhUJGw6W74P) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 4:01 | 2020-08-18 |  |
 | [Mermaid Smiled \- Remastered 2001](https://open.spotify.com/track/0KXus3z8nOrnT0XoUAkyLp) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 2:26 | 2019-01-30 |  |
 | [Mexican Seafood](https://open.spotify.com/track/6x20PMZz6zDTODupdLxJUZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 1:55 | 2020-02-21 |  |
+| [Mighty Wings \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/32SckiFOYb8bwYewY51WA7) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 3:51 | 2022-06-01 |  |
 | [Milk It](https://open.spotify.com/track/4rtZtLpriBscg7zta3TZxp) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:54 | 2019-05-29 |  |
 | [Mind Games \- Remastered 2010](https://open.spotify.com/track/3QmUhaY5KZiOuaUH8H71LG) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Mind Games](https://open.spotify.com/album/2GoiwFkRtErx0CHn6zaFJu) | 4:13 | 2019-08-01 |  |
 | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/track/5zZWKugaE2ZmnZN77HVfUH) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Slaves](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/album/1QwJwcvJ9wiYfGxwk6YZOy) | 3:41 | 2020-01-31 |  |

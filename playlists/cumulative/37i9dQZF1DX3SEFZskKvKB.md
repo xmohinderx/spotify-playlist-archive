@@ -4,7 +4,7 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-78 songs - 4 hr 40 min - not published yet
+78 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/7HkZZGF1Y6JqmNQTbDBEZq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

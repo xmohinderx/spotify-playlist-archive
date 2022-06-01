@@ -4,7 +4,7 @@
 
 > The official playlist for Outer Banks now\. Watch now only on Netflix.
 
-81 songs - 4 hr 52 min - not published yet
+81 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/42hRPo9Ei0Ev8ulb9zaxKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

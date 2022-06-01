@@ -4,7 +4,7 @@
 
 > Soundtrack your 2022 resolutions with Mia Lind.
 
-86 songs - 5 hr 10 min - not published yet
+86 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/0EZ10vaXi6e4DT5iiN3ZcO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

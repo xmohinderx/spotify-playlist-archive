@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 ### [Next Wave Neo\-Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
-> A blend of new songs and new artists in the neo\-soul space\. Cover: Syd
+> A blend of new songs and new artists in the neo\-soul space\. Cover: Pip Millett
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,090 likes - 96 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,250 likes - 96 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 95 | [Time \(Remix\) \[feat\. KIRBY\]](https://open.spotify.com/track/2zkZLLgRH6nrJYNlYhK47N) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Time \(Remix\) \[feat\. KIRBY\]](https://open.spotify.com/album/6W3vlNqiYjKE5BEAKTmlpP) | 3:33 |
 | 96 | [Alone In Kenzo](https://open.spotify.com/track/39QWEcx4aFKyx7mCQYD2Pv) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Alone In Kenzo](https://open.spotify.com/album/74g3j5vCv02I7TBn8FLgt1) | 3:18 |
 
-Snapshot ID: `MTY1Mjk5NzYwMCwwMDAwMDBhNDAwMDAwMTgwZGU1NWIzZTcwMDAwMDE4MGRkYTZmOTU5`
+Snapshot ID: `MTY1NDA3NTU2NywwMDAwMDBhNTAwMDAwMTgxMWU5NjJlYjcwMDAwMDE4MGRkYTZmOTU5`

@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> now featuring tracks picked by Wet Leg ;\)
+> chat w/ <a href="https://open.spotify.com/show/6ohzfnHlDGhODyfgpegfmB?si=deeaa9df2d834a9d">Ethel Cain TODAY @5pm eastern on Lorem Live</a> w/ hosts max & dev\. cover: wet leggies
 
 1,645 songs - 3 day 16 hr 5 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 

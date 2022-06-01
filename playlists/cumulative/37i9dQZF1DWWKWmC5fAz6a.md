@@ -4,7 +4,7 @@
 
 > Elle and Tao's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-32 songs - 1 hr 44 min - not published yet
+32 songs - 1 hr 44 min - [published](https://open.spotify.com/playlist/7nLx1ZfBO8wpD4fuVZKNMF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

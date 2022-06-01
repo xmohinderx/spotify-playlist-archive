@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: Mónica Naranjo
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,817 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,869 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 3 | [Llévame](https://open.spotify.com/track/1zBfAa6SiSgK58WTAFDdGe) | [Nya de la Rubia](https://open.spotify.com/artist/3rE5nDLmkOn4tmdvnCj8py), [Lamari](https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK) | [Llévame](https://open.spotify.com/album/15WRsbzIq2yBw9f3XBnluw) | 3:54 |
 | 4 | [La Prendo](https://open.spotify.com/track/6t48UVZvQWh5wWfWlCZfzY) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Prendo](https://open.spotify.com/album/4eCRi01qxklHWrG0sIra8x) | 3:01 |
 | 5 | [Peligro de Extinción](https://open.spotify.com/track/6vyuIIYUNHo4Xq02w9RGsQ) | [Sabela](https://open.spotify.com/artist/78fi6hiTjEQH8KQLzDqVRg) | [Peligro de Extinción](https://open.spotify.com/album/0sJvBiHuOprcehZDB39cSu) | 3:29 |
-| 6 | [La Hiedra](https://open.spotify.com/track/3psFB3XwPnNBVZ0j5SwN5W) | [Laura Sam y Juan Escribano](https://open.spotify.com/artist/1Imm6uBAs5LqoaNABXET9k) | [La Voz en Contra](https://open.spotify.com/album/7MwMsneiF1yO4j8EleKtps) | 2:17 |
+| 6 | [La hiedra](https://open.spotify.com/track/3psFB3XwPnNBVZ0j5SwN5W) | [Laura Sam y Juan Escribano](https://open.spotify.com/artist/1Imm6uBAs5LqoaNABXET9k) | [La voz en contra](https://open.spotify.com/album/7MwMsneiF1yO4j8EleKtps) | 2:17 |
 | 7 | [Sociedad Supermercado](https://open.spotify.com/track/0cveqc1ClellcKtRKMO3Y1) | [Victoria Lerma](https://open.spotify.com/artist/0k6LayErsqG0p2pgWUmBsF) | [Sociedad Supermercado](https://open.spotify.com/album/06Ijb3jtwAc7qiegcHbbW4) | 4:29 |
 | 8 | [Eres para Mí](https://open.spotify.com/track/6HL8Z8I1k9aZbaj9KPGiHC) | [Sila Lua](https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR) | [Eres para Mí](https://open.spotify.com/album/7kdPZT7HdoY4mSS3lYeoJJ) | 2:53 |
 | 9 | [Todo Va A Cambiar](https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [Todo Va A Cambiar](https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg) | 2:27 |

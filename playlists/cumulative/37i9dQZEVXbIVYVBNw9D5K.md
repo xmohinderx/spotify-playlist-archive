@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-438 songs - 22 hr 39 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+439 songs - 22 hr 44 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Forsa](https://open.spotify.com/track/0hItWVe3JLff1yDdfJaIRq) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Forsa](https://open.spotify.com/album/1fAHRAftczSdXs0u62jEWY) | 3:50 | 2021-12-12 | 2021-12-14 |
 | [Gamzedeyim Deva Bulmam](https://open.spotify.com/track/6glvSyTo1y4WLtX0mnDq83) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Çağrı Çelik](https://open.spotify.com/artist/7wqnPyXma7EKSYt4CVzNjq) | [Gamzedeyim Deva Bulmam](https://open.spotify.com/album/3Tltrhd0u9g6cFjJiB0k8E) | 5:16 | 2021-11-16 | 2022-04-03 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-10 |
-| [Gayrimeşru](https://open.spotify.com/track/0CqQx2dcNFmtYM4oTSECSt) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Gayrimeşru](https://open.spotify.com/album/4HAjpThNI0MV2jQwcT56nX) | 1:58 | 2022-05-28 |  |
+| [Gayrimeşru](https://open.spotify.com/track/0CqQx2dcNFmtYM4oTSECSt) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Gayrimeşru](https://open.spotify.com/album/4HAjpThNI0MV2jQwcT56nX) | 1:58 | 2022-05-28 | 2022-06-01 |
 | [Gece Gündüz](https://open.spotify.com/track/032ncNwownsax2RsiC5iCN) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Gece Gündüz](https://open.spotify.com/album/1QGVemNszLYbrqYqsdcqRH) | 3:02 | 2021-04-04 | 2021-08-01 |
 | [Gece Gündüz](https://open.spotify.com/track/4jq1WK3fiUU2SOhZ0iaMP1) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Gece Gündüz](https://open.spotify.com/album/1SjloVgg3bj1Khi6l8U1ls) | 3:02 | 2021-03-27\* | 2021-04-04 |
 | [GECELERİN DERDİ](https://open.spotify.com/track/4Y19WBq90SiLFQc6wK3LDJ) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [BEGEFENDİ](https://open.spotify.com/album/4uzkcFaD6X2zpojuI0Y1IT) | 2:37 | 2022-01-26 | 2022-02-27 |
@@ -342,6 +342,7 @@
 | [Peşimde Kara Geceler](https://open.spotify.com/track/0kb45bLkER1V0gcu2rnw69) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Peşimde Kara Geceler](https://open.spotify.com/album/2o7SQ9Prx0iwQy73EZxaPT) | 3:05 | 2021-03-27 | 2021-04-04 |
 | [Piç Ettim](https://open.spotify.com/track/4APPiwxp3kcrchK36JIrkg) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 3:00 | 2021-05-30 | 2021-05-31 |
 | [PİŞMAN](https://open.spotify.com/track/72y2nRWQqjXNqlq5vASeKt) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PİŞMAN](https://open.spotify.com/album/2Lljdvhyiw9Bh6Vhvap8Fm) | 2:29 | 2021-09-15 | 2021-09-18 |
+| [Porselen Kalbim](https://open.spotify.com/track/7z5rmdisSV8GmWCnrOd1HU) | [Sena Şener](https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM) | [Porselen Kalbim](https://open.spotify.com/album/2TYt9I16VcjqPaSxJXYTLD) | 5:15 | 2022-06-01 |  |
 | [Puşt](https://open.spotify.com/track/0jTT901BlxBFF86h6W6pbZ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Puşt](https://open.spotify.com/album/0T8UhoxD9S7LfMfWpRIkLS) | 1:53 | 2021-03-27\* | 2021-05-09 |
 | [ralli](https://open.spotify.com/track/7JFlVFtzAQQKXcgYRRhoKA) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [ralli](https://open.spotify.com/album/69VPGZvmt9ocr8NUPCw2Mn) | 2:19 | 2021-07-10 | 2022-04-30 |
 | [RARI](https://open.spotify.com/track/0sHrwnldYfygnxdvu0OsvH) | [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [RARI](https://open.spotify.com/album/3vMhlXmxgGIOrbJ96F4GnD) | 2:44 | 2021-06-16 | 2021-06-27 |

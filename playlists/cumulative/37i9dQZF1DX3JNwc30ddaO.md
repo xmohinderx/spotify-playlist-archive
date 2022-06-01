@@ -4,7 +4,7 @@
 
 > Meditative crystal and Tibetan tones for clarity and healing.
 
-68 songs - 5 hr 6 min - not published yet
+68 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/1wcoY7hOzprWoSsRPIyjVD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

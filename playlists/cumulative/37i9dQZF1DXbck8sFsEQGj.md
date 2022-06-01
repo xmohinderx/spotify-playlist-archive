@@ -4,7 +4,7 @@
 
 > Hottest tracks from Coke Studio Pakistan\. Cover: Ali Sethi
 
-41 songs - 4 hr 8 min - not published yet
+41 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/25Ovt7A1WpKPIueoxWe07x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Music from the early days of Ambient. ",
-  "num_followers": 30221,
+  "num_followers": 30267,
   "original_name": "Ambient 1970s",
   "owner": {
     "name": "Spotify",
@@ -200,8 +200,16 @@
       },
       "artists": [
         {
-          "name": "Eno Moebius Roedelius",
-          "url": "https://open.spotify.com/artist/6iEkIlk9Pc3vFThI7NX78B"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Moebius",
+          "url": "https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC"
+        },
+        {
+          "name": "Roedelius",
+          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
         }
       ],
       "duration_ms": 253118,
@@ -236,8 +244,8 @@
           "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         },
         {
-          "name": "Eno",
-          "url": "https://open.spotify.com/artist/2yCbPUc3ofVEofx216xRaY"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
       "duration_ms": 185720,
@@ -456,8 +464,8 @@
           "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         },
         {
-          "name": "Eno",
-          "url": "https://open.spotify.com/artist/2yCbPUc3ofVEofx216xRaY"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
       "duration_ms": 206600,

@@ -2,9 +2,9 @@
 
 ### [Indipop Nostalgia](https://open.spotify.com/playlist/37i9dQZF1DX0Uo5pVktwNd)
 
-> Down the memory lane with pop from 90s and 2000s.
+> Remembering KK
 
-43 songs - 3 hr 30 min - not published yet
+43 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/4ODPXyj8cy195cx7i4XcMg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

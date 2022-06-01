@@ -2,8 +2,28 @@
   "date_first_scraped": "2022-05-30",
   "description": "Enjoy your happy eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
   "name": "Dalkom Mukbang (\ub2ec\ucf64\uba39\ubc29)",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4JM95H8vsjsz2KMA6pkYt7"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "\"WINTER\" Etoile page 1. Rosie waltz!",
+        "url": "https://open.spotify.com/album/094xMYgKnPpgpXzEpk9V9N"
+      },
+      "artists": [
+        {
+          "name": "Seol Kyung",
+          "url": "https://open.spotify.com/artist/3PgHUNgvyVrM1c2S93dRTY"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242239,
+      "name": "\"WINTER\" Etoile page 1. Rosie waltz!",
+      "url": "https://open.spotify.com/track/0CZ57CN9Ol3fCetsUg5OAB"
+    },
     {
       "album": {
         "name": "Piece Of Love",
@@ -71,7 +91,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 238093,
       "name": "All That Jazz",
       "url": "https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR"
@@ -257,7 +277,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 222400,
       "name": "Carpet",
       "url": "https://open.spotify.com/track/40LSUaUobukeVXmb3mJ79t"
@@ -311,7 +331,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 275400,
       "name": "Don't be sad",
       "url": "https://open.spotify.com/track/6w6lBuPSEwyv2i5x5eu8On"
@@ -369,7 +389,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 212080,
       "name": "Dreamy Alarm",
       "url": "https://open.spotify.com/track/7unbE46iO68VyMnVXXrVrB"
@@ -445,7 +465,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 196986,
       "name": "Fairy tale",
       "url": "https://open.spotify.com/track/2djuO3oMpJ5YcTxNkFMT5E"
@@ -467,6 +487,24 @@
       "duration_ms": 151310,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/6jTU74YlUivxwUJBXQ7TN3"
+    },
+    {
+      "album": {
+        "name": "CAKE",
+        "url": "https://open.spotify.com/album/7IiNYHOhWZaEUD10z1iGFP"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250906,
+      "name": "Farewell \ud0c0\uc778\uc774 \ub418\uc5b4",
+      "url": "https://open.spotify.com/track/3kBajXxD5kLRnL9bBHitlk"
     },
     {
       "album": {
@@ -897,7 +935,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 260879,
       "name": "No place to retreat (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0KaYLNGkiQ0IeEia3SIm9x"
@@ -937,10 +975,28 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 174856,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
+    },
+    {
+      "album": {
+        "name": "Nosso Samba",
+        "url": "https://open.spotify.com/album/0nKwnNCcAKx5fEMO3pghor"
+      },
+      "artists": [
+        {
+          "name": "PRIMAVERA",
+          "url": "https://open.spotify.com/artist/2dWal20OMFlgWaEMZ3tH3i"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211434,
+      "name": "Nosso Samba",
+      "url": "https://open.spotify.com/track/67gT8rrjkmHtp8ZyORgnna"
     },
     {
       "album": {
@@ -955,10 +1011,28 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 193186,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4GyHQOpfrElhvKjIfXSEf3"
+    },
+    {
+      "album": {
+        "name": "THE FAN 2ROUND Part.2",
+        "url": "https://open.spotify.com/album/5e5G38kHDIZvygpIoOnbLf"
+      },
+      "artists": [
+        {
+          "name": "YONGZOO",
+          "url": "https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249120,
+      "name": "Only we know",
+      "url": "https://open.spotify.com/track/4LHIbkYLKKdyprbcnISj6m"
     },
     {
       "album": {
@@ -1017,7 +1091,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 229878,
       "name": "Precious Love",
       "url": "https://open.spotify.com/track/01ZTDb5OetwkYVR3BwKgKY"
@@ -1053,7 +1127,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 187306,
       "name": "Privacy",
       "url": "https://open.spotify.com/track/4WxthDZgaQqmj5tIuneDNX"
@@ -1089,7 +1163,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 251020,
       "name": "Purple Breeze",
       "url": "https://open.spotify.com/track/20NLPjMKvWxEkqT04T1HDD"
@@ -1151,7 +1225,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 178886,
       "name": "ROSE",
       "url": "https://open.spotify.com/track/0OGI8Mqjdy9BM9kuxCfyUg"
@@ -1169,7 +1243,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 255891,
       "name": "Sea Of Love",
       "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
@@ -1187,7 +1261,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 273265,
       "name": "Shower duty",
       "url": "https://open.spotify.com/track/3vCbwbAIRB1vkQAGbNXO3F"
@@ -1263,7 +1337,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 247672,
       "name": "Snow, You, Flower",
       "url": "https://open.spotify.com/track/0r4oRG61m7d5UW0fR04OTm"
@@ -1321,7 +1395,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 186613,
       "name": "Starry - Minimal Version",
       "url": "https://open.spotify.com/track/6sUtXeujC7uH57dISpkih6"
@@ -1379,7 +1453,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 196773,
       "name": "SuperMoon",
       "url": "https://open.spotify.com/track/25xBsASRnYwryM5Ftb7pZQ"
@@ -1397,7 +1471,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 226203,
       "name": "Sweet(Brand New Mix) (feat.Verbal Jint)",
       "url": "https://open.spotify.com/track/12YVdrlWZONFqxr7MrTwsO"
@@ -1415,7 +1489,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 239880,
       "name": "The Season Of You",
       "url": "https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG"
@@ -1433,7 +1507,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 197066,
       "name": "Thermometer - ON Team Version",
       "url": "https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP"
@@ -1480,6 +1554,24 @@
     },
     {
       "album": {
+        "name": "Kenzasburg",
+        "url": "https://open.spotify.com/album/3cXTLtoW54LGPtDk3Ylw07"
+      },
+      "artists": [
+        {
+          "name": "AshRock",
+          "url": "https://open.spotify.com/artist/08AdANE6bANzhwZ5LB6KN8"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224749,
+      "name": "Trippin' Time",
+      "url": "https://open.spotify.com/track/2XCVJTZ9wyEb1YXr3Ir8cv"
+    },
+    {
+      "album": {
         "name": "vacation",
         "url": "https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV"
       },
@@ -1495,6 +1587,24 @@
       "duration_ms": 215353,
       "name": "vacation",
       "url": "https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr"
+    },
+    {
+      "album": {
+        "name": "Piece Of Love",
+        "url": "https://open.spotify.com/album/69A1ez7jfXMcLGOWRCk7lf"
+      },
+      "artists": [
+        {
+          "name": "NEUL",
+          "url": "https://open.spotify.com/artist/5SaYHywNAcLUqIFcel7xwn"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231086,
+      "name": "Walking with you",
+      "url": "https://open.spotify.com/track/7cvu0T8jjJTk2RpzKsmn8t"
     },
     {
       "album": {
@@ -1527,7 +1637,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 254600,
       "name": "Watercolour",
       "url": "https://open.spotify.com/track/272cbvi62JUEhBKrsGIbdJ"
@@ -1549,7 +1659,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 217774,
       "name": "Waters of March",
       "url": "https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS"
@@ -1589,7 +1699,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 239086,
       "name": "Wish \ubc14\ub78c",
       "url": "https://open.spotify.com/track/6Bp3075Pu73PpyCYRhHQbB"
@@ -1697,7 +1807,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 177922,
       "name": "\uc548\ub155\uc774\ub77c\ub294 \ud754\ud55c \uc778\uc0ac Ordinary Goodbye",
       "url": "https://open.spotify.com/track/3uA7fLIyM0HgRoRiR9R3A3"
@@ -1715,7 +1825,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 217666,
       "name": "\uc7a0\ub4e4\uace0 \uc2f6\uc5b4(zZ)",
       "url": "https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z"
@@ -1733,7 +1843,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 235129,
       "name": "\uccad\ucd98\uc77c\uae30 Our Time",
       "url": "https://open.spotify.com/track/5hjqgWCsHtmCI3KRcQpsuP"

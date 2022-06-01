@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 184028,
       "name": "Alright!",
       "url": "https://open.spotify.com/track/667jaqJRDzuPxumZyNhOwu"
@@ -143,6 +143,28 @@
       "duration_ms": 264052,
       "name": "Angel",
       "url": "https://open.spotify.com/track/6O5mgpq2xv3ZQGXnL3TNVW"
+    },
+    {
+      "album": {
+        "name": "BARABOM",
+        "url": "https://open.spotify.com/album/7rOrDGrQzK0iY4PdNGcD2i"
+      },
+      "artists": [
+        {
+          "name": "OuiOui",
+          "url": "https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8"
+        },
+        {
+          "name": "Jaehee",
+          "url": "https://open.spotify.com/artist/3x6kdr5qAfzrfPBLj7a9pO"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196678,
+      "name": "BARABOM (feat. Jaehee of MIND U)",
+      "url": "https://open.spotify.com/track/39qmiUuzjdCnn9FGAutekp"
     },
     {
       "album": {
@@ -259,7 +281,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/6P2x7vn7m1Ywp3dYKRM45Q"
@@ -383,7 +405,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 182266,
       "name": "Can you stay",
       "url": "https://open.spotify.com/track/3tSvYzpDRQI9uYPrB8W6tj"
@@ -441,7 +463,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 187659,
       "name": "cocoa",
       "url": "https://open.spotify.com/track/4PtG12oVoSFfJnkQ6jjRiC"
@@ -477,7 +499,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 194108,
       "name": "Cold Hands",
       "url": "https://open.spotify.com/track/5gNwUVmtSSxrM1TyvGJ9kn"
@@ -601,7 +623,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 223933,
       "name": "DAYDREAM",
       "url": "https://open.spotify.com/track/3CMrYymwyfZ2RSvbpKKMNE"
@@ -623,7 +645,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 194111,
       "name": "Daydream (feat. LeeHi)",
       "url": "https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5"
@@ -761,7 +783,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 130333,
       "name": "fool",
       "url": "https://open.spotify.com/track/41c8b3Nj6DCoaKrdaim47d"
@@ -783,7 +805,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "FRIDAY NIGHTS (with bottle gods)",
       "url": "https://open.spotify.com/track/1GreV6Av42dDCL3HZogPwy"
@@ -849,6 +871,24 @@
       "duration_ms": 187089,
       "name": "Gloomy Star (feat. 1ho & Chan)",
       "url": "https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI"
+    },
+    {
+      "album": {
+        "name": "Happy New Year",
+        "url": "https://open.spotify.com/album/2OPxnNNxWaSmTWxQVsIWz6"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168491,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/4eNbLN9Hara5j8WgE6SOo3"
     },
     {
       "album": {
@@ -921,7 +961,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 215493,
       "name": "I",
       "url": "https://open.spotify.com/track/0IH4sgZpBfmu8HIP0t0uFA"
@@ -939,7 +979,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 211640,
       "name": "I Am Yours",
       "url": "https://open.spotify.com/track/7kt9DWBdhxw9pABN5M3NjE"
@@ -979,7 +1019,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 230769,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/2dp0SokB0wxNlLcR0J547q"
@@ -1041,7 +1081,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 245533,
       "name": "I wanna go out",
       "url": "https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y"
@@ -1247,7 +1287,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 187665,
       "name": "Knight",
       "url": "https://open.spotify.com/track/3pA9XDBXDbcuXXn8CfqZcx"
@@ -1357,7 +1397,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 157607,
       "name": "Like a Joke",
       "url": "https://open.spotify.com/track/2VCGMQgReG4YAX7EQhHPIe"
@@ -1567,7 +1607,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 237795,
       "name": "MORE AND MORE",
       "url": "https://open.spotify.com/track/6Ze55CYuGtXSipKLejspyf"
@@ -1603,7 +1643,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 202853,
       "name": "Moving",
       "url": "https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7"
@@ -1643,7 +1683,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 194143,
       "name": "My Violet and My Blue",
       "url": "https://open.spotify.com/track/1WoNUbJc0wZ7NKcwzI5lgg"
@@ -1701,7 +1741,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 201183,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/0iBh2ZfirDzFDkqrvkvoiW"
@@ -2095,7 +2135,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 166022,
       "name": "Secret love (Feat. Ashley Alisha, Jae luna)",
       "url": "https://open.spotify.com/track/3D5tJv3dKwIBW0eBxoauR1"
@@ -2259,6 +2299,24 @@
       "duration_ms": 250986,
       "name": "Starry",
       "url": "https://open.spotify.com/track/3eL9Wg5EORwn6ceGzBU7gL"
+    },
+    {
+      "album": {
+        "name": "Straw",
+        "url": "https://open.spotify.com/album/0FXuaEkGVWeUMO3bOKEhxz"
+      },
+      "artists": [
+        {
+          "name": "EZ Kim",
+          "url": "https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225024,
+      "name": "Straw",
+      "url": "https://open.spotify.com/track/3R3y9Omg0UOdPBulCkQVYY"
     },
     {
       "album": {
@@ -2453,7 +2511,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 217453,
       "name": "THE",
       "url": "https://open.spotify.com/track/1Ssehbv2YuNm1PlwHQlkQU"
@@ -2835,7 +2893,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 175714,
       "name": "When I See You (feat. Jimmy Brown)",
       "url": "https://open.spotify.com/track/1pqPzcxmGr25rZJvy74YjC"
@@ -2989,7 +3047,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 230849,
       "name": "\ub208\uce58",
       "url": "https://open.spotify.com/track/4oXcPuN8yEpVBs6o8s6sRR"
@@ -3007,7 +3065,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 188196,
       "name": "\ubb3c\uac10 Paint",
       "url": "https://open.spotify.com/track/1HbRmJsM1oi7zTlKZtMVGS"
@@ -3061,7 +3119,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 247173,
       "name": "\uc6b0\uc8fc\ub97c \uac74\ub108 Across the universe",
       "url": "https://open.spotify.com/track/48kGawOjwMzRqltSVL88es"

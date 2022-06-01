@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Izïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,285 likes - 32 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,514 likes - 34 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 13 | [qu'il en soit ainsi](https://open.spotify.com/track/7bPbBoyykFSbU3P7Fo3LFL) | [TESSÆ](https://open.spotify.com/artist/4Rc4ZjE8dK1b794tfc3BIt) | [Sérendipité](https://open.spotify.com/album/6nAkD2bMAExLR5WxVS7Qo5) | 2:59 |
 | 14 | [Cauchemars](https://open.spotify.com/track/5pVuRzvyRiRq4oMGnU6WPl) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Cauchemars](https://open.spotify.com/album/3mKYIkjNT5rb6T8pwKPTGN) | 3:06 |
 | 15 | [On prend tout](https://open.spotify.com/track/6WheAWK0iOK2Zo81u40YVK) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [On prend tout](https://open.spotify.com/album/3jGasbW6iJN83czkvpskh8) | 2:49 |
-| 16 | [Movie Star](https://open.spotify.com/track/4v8l0E113OJ7Vl0uborXcl) | [Cynthia Leone](https://open.spotify.com/artist/5DO6LrSCupTh0KjoN9JUUf) | [Movie Star](https://open.spotify.com/album/0Z7qZrgdvXEwyddaJCRt7h) | 2:27 |
+| 16 | [Movie Star](https://open.spotify.com/track/4v8l0E113OJ7Vl0uborXcl) | [Cynthia Leone](https://open.spotify.com/artist/5DO6LrSCupTh0KjoN9JUUf) | [Movie Star](https://open.spotify.com/album/0Z7qZrgdvXEwyddaJCRt7h) | 2:19 |
 | 17 | [Billie](https://open.spotify.com/track/46ZZ1Y1WFR8fQ3Tr9S0fBC) | [Eliott Jane](https://open.spotify.com/artist/4EBgkZ6DyqNwWETWgwBZ8U) | [Billie](https://open.spotify.com/album/4jAYsl0mtg496Y9iAHNNK0) | 3:42 |
 | 18 | [J'me sens pas belle](https://open.spotify.com/track/35LsKa6rC5IlaFaIUEcKeQ) | [Manon Vuoko](https://open.spotify.com/artist/7G3puIh677BWnpbYrk63LO) | [J'me sens pas belle](https://open.spotify.com/album/2VqImnOZwmlfBBLgWEsFqv) | 2:42 |
 | 19 | [Une fenêtre ouverte](https://open.spotify.com/track/4od4PjXv3hr7HSdmU8KkWe) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Une fenêtre ouverte](https://open.spotify.com/album/43mdcdf7facc52LHVxAdap) | 3:34 |
@@ -34,11 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 24 | [Ici et Maintenant](https://open.spotify.com/track/4yC4zbyEKEuJG3KVmsRN14) | [REB](https://open.spotify.com/artist/6wAoRA0lIGIzF1SmduUg32) | [Ici et Maintenant](https://open.spotify.com/album/5dgHNk1VRI6YHKmcLjRyea) | 2:55 |
 | 25 | [Abyssal](https://open.spotify.com/track/7mUdUu75AfRWoxthhBJFkt) | [Julia Pertuy](https://open.spotify.com/artist/5kG7vNPBANAzHPWIuHwZ4D) | [Abyssal](https://open.spotify.com/album/2v8brQYnFf5pODegprhom7) | 4:36 |
 | 26 | [Phases](https://open.spotify.com/track/2wqm6lPEiPKPPDeTTba9dg) | [Yorina](https://open.spotify.com/artist/3zrsuumoPW6KbZmBX2X7qC) | [Phases](https://open.spotify.com/album/1S85j7hvVxvmdYzC7KXbNp) | 4:18 |
-| 27 | [Tout](https://open.spotify.com/track/2zMymKds3giK1baWHElaaW) | [ZAYD](https://open.spotify.com/artist/40b2Z1HyhqaBT2zNFQ38qm) | [Tout](https://open.spotify.com/album/1hEeP5uygkEuCc52yn3Vfg) | 2:42 |
-| 28 | [Dis\-moi oui](https://open.spotify.com/track/2rD8n0QH7ugRyFPQm9hUrD) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Dis\-moi oui](https://open.spotify.com/album/2Pq8jqWjWB4VwMgcFGfjQp) | 3:27 |
-| 29 | [Mythologie](https://open.spotify.com/track/28np0boOT7svs7oG9RNpxM) | [Eesah Yasuke](https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC) | [Mythologie](https://open.spotify.com/album/1E6limGMwvAC2k1i9hgwKZ) | 2:25 |
-| 30 | [Une Tempête](https://open.spotify.com/track/0WaCGTemkdb1uNDEoo39Az) | [La Pietà](https://open.spotify.com/artist/5P0atd21WQems5FDKnBysF) | [Une Tempête](https://open.spotify.com/album/4u8ptsviIbe84QCowfkGzQ) | 3:56 |
-| 31 | [Fever](https://open.spotify.com/track/06mMTF6cqtiEptM8FdVhv6) | [Arielle Dombasle](https://open.spotify.com/artist/7I2zgbIGfAd3w1CktlJUbI) | [Fever](https://open.spotify.com/album/5LAT4jfX64Epy05Y3blREP) | 3:40 |
-| 32 | [Mon homme est un gangster \- Extrait du spectacle musical Al Capone](https://open.spotify.com/track/13YIhpbt35twU7artHy6v4) | [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Mon homme est un gangster \(Extrait du spectacle musical Al Capone\)](https://open.spotify.com/album/7s3rPgbWOw58gweDPsVvit) | 2:10 |
+| 27 | [VVS](https://open.spotify.com/track/73KIBzwN3tP4QCrNxp6Yqk) | [Turtle White](https://open.spotify.com/artist/4F5LHjkVnCgcFF4I2W2i1A) | [VVS](https://open.spotify.com/album/1B6aJqd81UUiv26edYifDe) | 3:18 |
+| 28 | [Casino](https://open.spotify.com/track/002iojUpmYteKQ9iZ3nPPg) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [backrooms](https://open.spotify.com/album/0K5wytragV3Cp3Ow02aawS) | 3:18 |
+| 29 | [L'appétit](https://open.spotify.com/track/1vOprAwZqZLHGt5H9ATza1) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [L'appétit](https://open.spotify.com/album/26PdACHB87VnkxaLEQitT2) | 2:57 |
+| 30 | [Dis\-moi oui](https://open.spotify.com/track/2rD8n0QH7ugRyFPQm9hUrD) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Dis\-moi oui](https://open.spotify.com/album/2Pq8jqWjWB4VwMgcFGfjQp) | 3:27 |
+| 31 | [Mythologie](https://open.spotify.com/track/28np0boOT7svs7oG9RNpxM) | [Eesah Yasuke](https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC) | [Mythologie](https://open.spotify.com/album/1E6limGMwvAC2k1i9hgwKZ) | 2:25 |
+| 32 | [Une Tempête](https://open.spotify.com/track/0WaCGTemkdb1uNDEoo39Az) | [La Pietà](https://open.spotify.com/artist/5P0atd21WQems5FDKnBysF) | [Une Tempête](https://open.spotify.com/album/4u8ptsviIbe84QCowfkGzQ) | 3:56 |
+| 33 | [Fever](https://open.spotify.com/track/06mMTF6cqtiEptM8FdVhv6) | [Arielle Dombasle](https://open.spotify.com/artist/7I2zgbIGfAd3w1CktlJUbI) | [Fever](https://open.spotify.com/album/5LAT4jfX64Epy05Y3blREP) | 3:40 |
+| 34 | [Mon homme est un gangster \- Extrait du spectacle musical Al Capone](https://open.spotify.com/track/13YIhpbt35twU7artHy6v4) | [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Mon homme est un gangster \(Extrait du spectacle musical Al Capone\)](https://open.spotify.com/album/7s3rPgbWOw58gweDPsVvit) | 2:10 |
 
-Snapshot ID: `MTY1NDAzNDQwMCwwMDAwMDA3NzAwMDAwMTgxMWMyMjAzOWEwMDAwMDE4MTFiZWE3YjUw`
+Snapshot ID: `MTY1NDA5MDI0OCwwMDAwMDA3ODAwMDAwMTgxMWY3NjMwMjIwMDAwMDE4MTFiZWE3YjUw`

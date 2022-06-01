@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-672 songs - 1 day 12 hr 58 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+673 songs - 1 day 13 hr 0 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Crystal](https://open.spotify.com/track/2xmuGjiqJELjA9H5kyDHbx) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 2:26 | 2021-05-09 | 2021-05-23 |
 | [Crystal Snow](https://open.spotify.com/track/6NbfFVZ01Ttvvqmcok8DxL) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [FACE YOURSELF](https://open.spotify.com/album/66J1OXSaS3hBZASOV3el8t) | 5:23 | 2022-01-01 | 2022-01-03 |
 | [D'accord](https://open.spotify.com/track/5oCWr6I9ikLYpx2p2Kcwh7) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv), [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [D'accord](https://open.spotify.com/album/3McL8hCiVzqdGliRxidhRL) | 2:59 | 2021-03-27\* | 2021-04-16 |
+| [D'Kover \- Darja Darja \- درجة درجة](https://open.spotify.com/track/6AqTrSMEkIN0jiRYWLnBlx) | [DKB](https://open.spotify.com/artist/4Ozq4urgB1jcYw0VzXpj2X), [Amine SEMMA](https://open.spotify.com/artist/187xRinFfEj83kQ9KpgqKA) | [D'Kover](https://open.spotify.com/album/5jAZJlyawkAJarExM8HjKC) | 2:24 | 2022-06-01 |  |
 | [Daliyou](https://open.spotify.com/track/7nrCax5vsQsQGt59NiW1S2) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:56 | 2022-05-28 |  |
 | [Dancefloor](https://open.spotify.com/track/00RNbgdVedLwwP9kXKc6Vh) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 1:25 | 2021-05-08 | 2021-05-15 |
 | [Darja](https://open.spotify.com/track/3QqKJXiqBkgMM2prOdByeC) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Darja](https://open.spotify.com/album/5oJb0Ei8LzkAbAJBT9S8iq) | 2:14 | 2021-03-27\* | 2021-03-27 |
@@ -186,7 +187,7 @@
 | [Dope](https://open.spotify.com/track/32gvR8ySw32FThelwi9yWQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 4:02 | 2022-03-12 | 2022-03-15 |
 | [Drakula](https://open.spotify.com/track/0n7PAKyFVip3Zq9a8tkgHF) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 3:08 | 2021-05-08 | 2021-05-31 |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-04-03 | 2021-11-23 |
-| [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-04-02 |  |
+| [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-04-02 | 2022-06-01 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2022-01-08 |
 | [ElGRANDE TOTO Leo](https://open.spotify.com/track/5PZ6LUihzGRfztkLib7K91) | [Anass Marbouh](https://open.spotify.com/artist/1rNCHLdAWPEmXSVAghhslN) | [ElGRANDE TOTO Leo](https://open.spotify.com/album/5WLbRmbbRcusSZljU55u8V) | 2:58 | 2021-08-07 | 2021-08-09 |
@@ -370,7 +371,7 @@
 | [L’enfer](https://open.spotify.com/track/7bp3zmEvpHLa0h32nhDUkB) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [L’enfer](https://open.spotify.com/album/7bSSz8KnOpZaJor6Cs3GkM) | 3:09 | 2022-01-11 | 2022-01-26 |
 | [m y \. l i f e \(with 21 Savage & Morray\)](https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-18 |
 | [Ma colombe](https://open.spotify.com/track/0JKTwc3hkjyklHTs2j97kt) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Sos \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:09 | 2021-11-25 | 2021-11-27 |
-| [Ma colombe \- Moroccan Remix](https://open.spotify.com/track/1MbHeoSYFMKzkbybU9FQtF) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Ma colombe \(Moroccan Remix\)](https://open.spotify.com/album/3Wrj1ika3KdChgr8UZFN09) | 3:09 | 2021-12-01 | 2022-06-01 |
+| [Ma colombe \- Moroccan Remix](https://open.spotify.com/track/1MbHeoSYFMKzkbybU9FQtF) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Ma colombe \(Moroccan Remix\)](https://open.spotify.com/album/3Wrj1ika3KdChgr8UZFN09) | 3:09 | 2021-12-01 |  |
 | [Ma Jolie](https://open.spotify.com/track/7pktxOiANdgQnzJmp7vwON) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:24 | 2022-05-28 |  |
 | [Ma Nabni](https://open.spotify.com/track/09L0R9oOyNyC6X8c2aKLtW) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Ma Nabni](https://open.spotify.com/album/0TlqqkCP5JzdgFHCJzuXwO) | 3:35 | 2021-12-13 | 2022-01-23 |
 | [MAAK](https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAAK](https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y) | 3:24 | 2022-02-13 |  |
@@ -627,7 +628,7 @@
 | [Var](https://open.spotify.com/track/4qdg8iDHc9XVOYL9wVEuBn) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Var](https://open.spotify.com/album/2jDxFXYwjf4HXjZDo4ZBsL) | 2:27 | 2022-03-23 | 2022-03-28 |
 | [Vargas \(Rs3\)](https://open.spotify.com/track/77F2FBcaCALJCYmV2Wb4jW) | [LillMusic](https://open.spotify.com/artist/1Ye3or2SkD5hXZZJCIYEyZ) | [Vargas \(Rs3\)](https://open.spotify.com/album/26xz4aA5tjYCwhXuizIhXg) | 3:52 | 2021-09-26 | 2021-09-27 |
 | [Veto](https://open.spotify.com/track/5ABwojICrV4CA1aqregfRJ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Veto](https://open.spotify.com/album/2o1OuK1aOsjjRHG79pKMdm) | 3:32 | 2022-05-07 | 2022-05-08 |
-| [Virus](https://open.spotify.com/track/31l74FDLY1pYLd82MYDp8W) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:57 | 2022-05-28 |  |
+| [Virus](https://open.spotify.com/track/31l74FDLY1pYLd82MYDp8W) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:57 | 2022-05-28 | 2022-06-01 |
 | [VOIR LE MONDE BRÛLER](https://open.spotify.com/track/4r0U3YkeJvKNsCRSdCs9lx) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 5:15 | 2021-07-18 | 2021-07-19 |
 | [Voxel](https://open.spotify.com/track/238Ar8E2HGtRAYfM6Jh82y) | [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Ether](https://open.spotify.com/album/0CXnqKIYcABtBBortguwXI) | 3:02 | 2021-03-29 | 2021-04-02 |
 | [VVS](https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:07 | 2021-12-05 | 2022-01-17 |

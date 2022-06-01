@@ -4,7 +4,7 @@
 
 > Dinner with Friends? Here's the perfect playlist.
 
-161 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
+162 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Blackbird](https://open.spotify.com/track/0c9Vl4iBLhsmzttG0X4XhY) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Blackbird](https://open.spotify.com/album/1bRwDTGgn9UrTW4neDEWs4) | 3:03 | 2021-06-22 |  |
 | [Blame](https://open.spotify.com/track/1Q9QB2I96Yj5gO3oNgfh8q) | [Wilder Gray](https://open.spotify.com/artist/74RlyWfSIpHWsObpkuc0KC) | [Blame](https://open.spotify.com/album/50M2Qdh5WzzhVWhIH2htx6) | 2:36 | 2021-06-22 | 2022-01-07 |
 | [Born To Be Yours \- Acoustic Version](https://open.spotify.com/track/3rgrJySBLhVrDjJ2OXRtbB) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Born To Be Yours](https://open.spotify.com/album/32lW61YuLJwXTJOGeCKxjm) | 4:09 | 2021-06-22 | 2022-05-18 |
-| [Boy You're Good](https://open.spotify.com/track/2FW8zqglrcLTWKKnmDUoi0) | [Micky Skeel](https://open.spotify.com/artist/3ml6MvdCLzBBhK2zT9AhOl) | [Boy You're Good](https://open.spotify.com/album/0pVWMiCthCpbU0BOMONFoh) | 2:36 | 2021-06-22 | 2022-06-01 |
+| [Boy You're Good](https://open.spotify.com/track/2FW8zqglrcLTWKKnmDUoi0) | [Micky Skeel](https://open.spotify.com/artist/3ml6MvdCLzBBhK2zT9AhOl) | [Boy You're Good](https://open.spotify.com/album/0pVWMiCthCpbU0BOMONFoh) | 2:36 | 2021-06-22 |  |
 | [Bright Eyes](https://open.spotify.com/track/3aEx5VvdgQsKy6vbOqpmEO) | [Deportees](https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4) | [Bright Eyes](https://open.spotify.com/album/2CtaWkXvIZOsox1acC9IyC) | 4:40 | 2021-06-22 |  |
 | [Broken](https://open.spotify.com/track/0FerZPepEX2Q1UaVeMOlMx) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Broken](https://open.spotify.com/album/24BRafI99TuTMGHUOWdXEE) | 3:15 | 2021-06-22 |  |
 | [Bulletproof](https://open.spotify.com/track/0X3Csp5UBxXNqfnzkngOvN) | [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Bulletproof](https://open.spotify.com/album/6Q00Gzzny7qxgppvHiIEX9) | 3:31 | 2021-06-22 | 2022-05-28 |
@@ -106,9 +106,9 @@
 | [Life as It Is](https://open.spotify.com/track/0ZTtKgd8j5DoFLPwie8bRk) | [Windy Isle](https://open.spotify.com/artist/34MzgHgM1EZNW6lKmKm8wb) | [Life as It Is](https://open.spotify.com/album/0YYKKFiOg50FXNz4Az1g3z) | 3:45 | 2021-06-22 | 2022-05-18 |
 | [Long Way Down](https://open.spotify.com/track/25Caem6cbUveFkgPSXtGXe) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/5IxfsBZbu9tnPQRgTjwOyc) | 4:17 | 2021-06-22 |  |
 | [Lost](https://open.spotify.com/track/2Pph0CUJ8uksCBzV6iyuQF) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Lost](https://open.spotify.com/album/16A6HpMW9UMCB3GNA0Es7a) | 3:54 | 2021-06-22 |  |
-| [Lost Without You](https://open.spotify.com/track/26z6V1SijQq6J3gPIu1H7t) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Lost Without You](https://open.spotify.com/album/4wvckIYLIsYQQ5ES3H9Pzn) | 3:45 | 2021-06-22 |  |
+| [Lost Without You](https://open.spotify.com/track/26z6V1SijQq6J3gPIu1H7t) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Lost Without You](https://open.spotify.com/album/4wvckIYLIsYQQ5ES3H9Pzn) | 3:45 | 2021-06-22 | 2022-06-01 |
 | [Lovely](https://open.spotify.com/track/3zjw3EZfvgjuR4AQhVlNq7) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Lovely](https://open.spotify.com/album/61PhrZ1QgJCsQSYxlh87RZ) | 2:56 | 2021-06-22 | 2022-05-18 |
-| [Lover](https://open.spotify.com/track/0bzbvANY6oETSJLc0wlVGY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/3rYkgtFOo9AlPaeKTtn6pM) | 3:41 | 2021-06-22 |  |
+| [Lover](https://open.spotify.com/track/0bzbvANY6oETSJLc0wlVGY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/3rYkgtFOo9AlPaeKTtn6pM) | 3:41 | 2021-06-22 | 2022-06-01 |
 | [Macadamian](https://open.spotify.com/track/2sOwLI2gzNmBop0emWZQuf) | [Jimmy Smash](https://open.spotify.com/artist/3ziswS6VSBGwPzIlvEV2zQ) | [Macadamian](https://open.spotify.com/album/50LxIKOBbT4jPIsKL7A1dE) | 3:26 | 2021-06-22 |  |
 | [Make You](https://open.spotify.com/track/1SPUmDMhbzHOsizroAypLi) | [Famous Yesterday](https://open.spotify.com/artist/6SQu8AZw8mjUFT6GFxBJ7h) | [Make You](https://open.spotify.com/album/71K55CCV4inStm0uoLJZF8) | 2:50 | 2021-06-22 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/0mqTcM8kuu2IYPotMt7AzS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:32 | 2021-06-22 | 2022-03-21 |
@@ -118,7 +118,7 @@
 | [Mirou](https://open.spotify.com/track/6tYjeVpoBagQoXWIcEaAzP) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Mirou](https://open.spotify.com/album/54CEHp4lRYwCajjs74k14p) | 4:12 | 2021-06-22 | 2022-05-18 |
 | [Moonlight](https://open.spotify.com/track/6Lx8iWqYzIT5hnuriaGCY9) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Moonlight](https://open.spotify.com/album/7xe4K8R3RaC5405EABFdTM) | 3:31 | 2021-06-22 |  |
 | [Most Times](https://open.spotify.com/track/3ySxFBVXkrrRJ9v1AWR9Yu) | [Shoos Off](https://open.spotify.com/artist/6hS6xIhVWdR6BBTMPYSAvQ) | [Most Times EP](https://open.spotify.com/album/3lEIshh1F5T3XR71jVGdqV) | 5:01 | 2022-05-17 |  |
-| [Nervous](https://open.spotify.com/track/6Y9x1HQGZU0SY7tgv9xtCt) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Nervous](https://open.spotify.com/album/5caUaq7Sdp4B1UkJiSFrLB) | 3:58 | 2022-05-27 | 2022-06-01 |
+| [Nervous](https://open.spotify.com/track/6Y9x1HQGZU0SY7tgv9xtCt) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Nervous](https://open.spotify.com/album/5caUaq7Sdp4B1UkJiSFrLB) | 3:58 | 2022-05-27 |  |
 | [No Ending](https://open.spotify.com/track/1wId84Uc14XIEIKfcSYAE0) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [No Ending](https://open.spotify.com/album/0XoSMRAH1gvIb0c3n5jLET) | 3:53 | 2021-06-22 |  |
 | [No Letting Go](https://open.spotify.com/track/1ElliR0IsEPKoaWUmY71y2) | [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [No Letting Go](https://open.spotify.com/album/5pIztVNFISnTNc6poeREQH) | 3:20 | 2021-06-22 | 2022-05-28 |
 | [No One's Gonna Love You](https://open.spotify.com/track/2an7S0pfafUr6YNabYXIl0) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [No One's Gonna Love You](https://open.spotify.com/album/1VOlQsvshuMrW7y8r6JGOY) | 3:52 | 2021-06-22 | 2022-05-18 |
@@ -159,7 +159,7 @@
 | [Water Under The Bridge](https://open.spotify.com/track/7xfzwPasShmaPL7gB7va3J) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:00 | 2021-06-22 |  |
 | [What A Day](https://open.spotify.com/track/2cnuiYBSniFCbnVBw2vVXH) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [What A Day](https://open.spotify.com/album/66qrZ13E9AatdoK9DIVO5v) | 3:09 | 2021-06-22 | 2022-05-18 |
 | [What Other People Say](https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [What Other People Say](https://open.spotify.com/album/0VzqGKZQDQLSse6W0hgABW) | 3:14 | 2021-06-22 | 2022-05-28 |
-| [When We Were Young](https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:50 | 2022-05-27 |  |
+| [When We Were Young](https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:50 | 2022-05-27 | 2022-06-01 |
 | [Where Do You Go](https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Where Do You Go](https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL) | 3:57 | 2021-06-22 | 2022-05-28 |
 | [Whiskey To My Soul](https://open.spotify.com/track/0I4lY4YaaB9vGf1yzdcgFs) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Whiskey To My Soul](https://open.spotify.com/album/4sOkRZGkUaqkHSMRl1oMKm) | 3:45 | 2021-06-22 |  |
 | [Who You Lovin](https://open.spotify.com/track/4cMXF5AmiAoUL8JW0j2l9M) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Who You Lovin / In a Stranger's Arms](https://open.spotify.com/album/5qPyANB87pkul0IYJbJhwD) | 2:58 | 2021-06-22 |  |
@@ -168,6 +168,7 @@
 | [You & Me](https://open.spotify.com/track/5g45gvxgaYVuhkDACPnvfh) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [You & Me](https://open.spotify.com/album/4fZk4ATcsp1hC6WKuh6Y9K) | 3:51 | 2021-06-22 |  |
 | [You And I](https://open.spotify.com/track/67H8U1DqJMTv9vCg7P95uR) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [You And I](https://open.spotify.com/album/1c1hJ610qZdUBs0eSavbB4) | 3:44 | 2021-06-22 |  |
 | [You and I](https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [You and I](https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X) | 3:13 | 2022-05-17 |  |
+| [You Are The Reason \- Duet Version](https://open.spotify.com/track/4gJAWJnE5cvAAWyTMTxgdY) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [You Are The Reason \(Duet Version\)](https://open.spotify.com/album/3SMV4ooENmCNDQHXa23gRa) | 3:10 | 2022-05-27 |  |
 | [Your Song](https://open.spotify.com/track/0P2j7ogCRvGMK4Pdw2K5ZQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rocket Man \(Deluxe Edition\)](https://open.spotify.com/album/1vsWzNT3lzLt7RNLUdUVZB) | 4:00 | 2021-06-22 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

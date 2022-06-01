@@ -4,7 +4,7 @@
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-50 songs - 5 hr 5 min - not published yet
+50 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/2UDQg6CBJ0wKx3atlNxXRx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

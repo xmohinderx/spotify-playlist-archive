@@ -4,7 +4,7 @@
 
 > "Absolute Six" and also "Above BrandNew Six".
 
-78 songs - 4 hr 29 min - not published yet
+78 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/0IcP0dCuoCBPPVkleOjySZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

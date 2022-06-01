@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 215026,
       "name": "AURA",
       "url": "https://open.spotify.com/track/4jP982FpZoDv729D0X8BiN"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 145298,
       "name": "confidence",
       "url": "https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 206690,
       "name": "Gotta Go!",
       "url": "https://open.spotify.com/track/3F16iie73VyKgN63z6YyZH"
@@ -4340,6 +4340,24 @@
     },
     {
       "album": {
+        "name": "Learning Curve",
+        "url": "https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223627,
+      "name": "\u4e3b\u89d2\u5149\u74b0",
+      "url": "https://open.spotify.com/track/3CsYuAe0Oi7t9w1jxWfHob"
+    },
+    {
+      "album": {
         "name": "\u4e3b\u89d2\u5149\u74b0",
         "url": "https://open.spotify.com/album/23bgyxECT7zGsiVpSgqkOx"
       },
@@ -4755,10 +4773,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 234177,
       "name": "\u53ca\u6642\u884c\u6a02",
       "url": "https://open.spotify.com/track/3i5pZUWXYvDaZfQO5UDjPa"
+    },
+    {
+      "album": {
+        "name": "Learning Curve",
+        "url": "https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234177,
+      "name": "\u53ca\u6642\u884c\u6a02",
+      "url": "https://open.spotify.com/track/4co81zh3xm4y6ZcyLj4eTz"
     },
     {
       "album": {

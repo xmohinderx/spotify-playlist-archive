@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-30",
   "description": "100% Pinoy hits from your favorite artists!",
   "name": "OPM Favorites",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2aC5BPUM0MsoTBT2ZjgARC"
+  ],
   "tracks": [
     {
       "album": {
@@ -179,7 +181,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 261866,
       "name": "Hanggang Kailan - Umuwi Ka Na Baby",
       "url": "https://open.spotify.com/track/5UhpceEr5XmbVwyoIUIRnh"
@@ -525,7 +527,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 236705,
       "name": "Magkabilang Mundo",
       "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
@@ -543,7 +545,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 320320,
       "name": "Malaya",
       "url": "https://open.spotify.com/track/70bc7AZ8MN5niphOXyHpsD"
@@ -597,7 +599,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 267960,
       "name": "Migraine",
       "url": "https://open.spotify.com/track/7zzZmpw8L66ZPjH1M6qmOs"
@@ -799,7 +801,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 253360,
       "name": "Sa'yo",
       "url": "https://open.spotify.com/track/29xs643Q96uQLD8f7SxYYw"
@@ -871,7 +873,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 246813,
       "name": "Starting over Again",
       "url": "https://open.spotify.com/track/7DpfL3u92JKKTys5w7jfY7"
@@ -889,7 +891,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 222446,
       "name": "Tadhana",
       "url": "https://open.spotify.com/track/6NFKf8vBApSvtzkapYmnVR"
@@ -1055,7 +1057,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 264413,
       "name": "With a Smile (feat. Kelly Badon)",
       "url": "https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi"

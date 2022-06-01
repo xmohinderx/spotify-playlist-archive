@@ -4,7 +4,7 @@
 
 > Hang ten.
 
-161 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
+162 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,13 +88,14 @@
 | [Last Train Home](https://open.spotify.com/track/1fzf9Aad4y1RWrmwosAK5y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Last Train Home](https://open.spotify.com/album/0N81gHRK0RnJY0vMAOKVyi) | 3:07 | 2021-08-27 | 2022-04-21 |
 | [Lemurian Promenade](https://open.spotify.com/track/1TJbIX80eZSkVCtrcU57Ja) | [Shane Tyler](https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS) | [Lemurian Promenade](https://open.spotify.com/album/0GVRN6mAUoizZ1zSozX9wY) | 3:57 | 2021-02-05 |  |
 | [Let the Sun In](https://open.spotify.com/track/6qMiZK4mGuCRkVwRFds4Sm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:43 | 2021-02-05 | 2022-05-30 |
-| [Life's So Good \(feat\. Cherry Surf\)](https://open.spotify.com/track/6wpYutp0e5dtaV2kCDv12O) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb), [Cherry Surf](https://open.spotify.com/artist/35j9UeFevD5ajbybRznTPx) | [Life's So Good \(feat\. Cherry Surf\)](https://open.spotify.com/album/6jJDDnkqqtxbWIqap2SNxL) | 3:36 | 2021-11-19 |  |
+| [Life's So Good \(feat\. Cherry Surf\)](https://open.spotify.com/track/6wpYutp0e5dtaV2kCDv12O) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb), [Cherry Surf](https://open.spotify.com/artist/35j9UeFevD5ajbybRznTPx) | [Life's So Good \(feat\. Cherry Surf\)](https://open.spotify.com/album/6jJDDnkqqtxbWIqap2SNxL) | 3:36 | 2021-11-19 | 2022-06-01 |
 | [Lucky](https://open.spotify.com/track/4r7cKo2Lp5sD6VcK1Gu3r4) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Lucky](https://open.spotify.com/album/0ChQSvv5Af1BJhm8tQ7Aeu) | 2:33 | 2021-02-05 |  |
 | [Marcel](https://open.spotify.com/track/7BttFWHvQk5LCj2yOTDf8E) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Marcel](https://open.spotify.com/album/0rK9HP4j66B4BxH1XRDb3E) | 3:07 | 2021-02-05 |  |
+| [Miserlou](https://open.spotify.com/track/6CpYgr1lWHTmPHhNzMIQnW) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [King of the Surf Guitar](https://open.spotify.com/album/1nZdm2NWYjweOEXNzct84A) | 2:15 | 2022-06-01 |  |
 | [Miserlou](https://open.spotify.com/track/11KrkGG4k0URkEe5NNKx55) | [Dick Dale & His Del\-Tones](https://open.spotify.com/artist/7J77vP6EbI63lB3snZeRj4) | [Surfer's Choice](https://open.spotify.com/album/3WE8DHBf6fDJpZWcdTsWAx) | 2:17 | 2021-02-05 | 2022-04-20 |
 | [Miss It Still](https://open.spotify.com/track/3YLadskq6NQpeMaDR1zoVn) | [Plastic Picnic](https://open.spotify.com/artist/0oiS9wyrwFOAvNhYhP3udG) | [Miss It Still](https://open.spotify.com/album/3BhrsD4j66uuz10FXvQkUU) | 4:06 | 2021-02-05 | 2022-04-21 |
 | [Mixed Up and Confused](https://open.spotify.com/track/1bFgm9PdCQeKsEpqOWn1II) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [Lizard Tears](https://open.spotify.com/album/0JiJX1L6MNNqH4614orKV5) | 3:14 | 2021-02-05 |  |
-| [Mushroom Man](https://open.spotify.com/track/0Rp0O14KUjmH0CgWL9leIk) | [Pretty](https://open.spotify.com/artist/2yELTtrWMPiGkZWk01kwBg) | [Mushroom Man](https://open.spotify.com/album/2lLErk6jleYHaGJMopl6wT) | 5:27 | 2021-02-05 |  |
+| [Mushroom Man](https://open.spotify.com/track/0Rp0O14KUjmH0CgWL9leIk) | [Pretty](https://open.spotify.com/artist/2yELTtrWMPiGkZWk01kwBg) | [Mushroom Man](https://open.spotify.com/album/2lLErk6jleYHaGJMopl6wT) | 5:27 | 2021-02-05 | 2022-06-01 |
 | [My Kind of Woman](https://open.spotify.com/track/2OFrAsP5Vrcb0DtsPNsm54) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q) | 3:10 | 2021-02-05 | 2022-04-26 |
 | [My Old Man](https://open.spotify.com/track/4c7k0jGOFR1OraHvE3BszV) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR) | 3:41 | 2021-02-05 | 2022-06-01 |
 | [Never Going Home](https://open.spotify.com/track/4iq4RFWmQc3zFgBgyrpahF) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/4tKnS9Q0lgN3i7SmXi4mGI) | 3:56 | 2021-02-05 |  |
@@ -150,7 +151,7 @@
 | [Tidal Wave](https://open.spotify.com/track/1cZDkuHwMgjR9KhZnrW4s2) | [Tempesst](https://open.spotify.com/artist/6yYoIxAvtAgGPSSring5SB) | [Adult Wonderland](https://open.spotify.com/album/147kz4US4B9uEiqq1Lk4qf) | 3:44 | 2021-02-05 | 2022-04-20 |
 | [Too Young to Burn](https://open.spotify.com/track/2wygBuUWMXrQujBBlwhDCL) | [Sonny & The Sunsets](https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog) | [Tomorrow Is Alright](https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh) | 3:19 | 2021-02-05 | 2022-04-21 |
 | [Try Hard Fool](https://open.spotify.com/track/2HMTLM3uA0NsOU1IkNufSj) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Try Hard Fool](https://open.spotify.com/album/7Mpq98LzwU04b1u69x61uf) | 3:10 | 2021-02-05 |  |
-| [Under the Sun](https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:46 | 2021-02-05 | 2022-04-16 |
+| [Under the Sun](https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:46 | 2021-02-05 |  |
 | [Veni Vidi Vici](https://open.spotify.com/track/5Z5YEyR5i8V8Ui2e5jGAAm) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/5xyf2bbQjF0yONbosNl53M) | 2:28 | 2021-02-05 | 2022-04-21 |
 | [Waiting on Summer](https://open.spotify.com/track/4OhTbBrGmuUzMImkJrzGjC) | [Stuck in Vacation](https://open.spotify.com/artist/5EHeaLUHACalZ0bNp1MCQD) | [Waiting on Summer](https://open.spotify.com/album/7LKQyGMMUkgQfzysQxQd0Z) | 2:45 | 2021-08-27 | 2022-04-20 |
 | [Walk, Don't Run \- Stereo](https://open.spotify.com/track/7B2pUwzvlbNG9D855r9ugf) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Walk Don't Run](https://open.spotify.com/album/63nMHrHgu1xVuaWMT9eEap) | 2:02 | 2021-02-05 | 2022-04-20 |
