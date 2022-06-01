@@ -6,6 +6,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313680,
+      "name": "A Lie",
+      "url": "https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO"
+    },
+    {
+      "album": {
         "name": "Inca Ore / Grouper",
         "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
       },
@@ -57,6 +75,24 @@
       "duration_ms": 295826,
       "name": "Atone",
       "url": "https://open.spotify.com/track/1hKjbUkgAJUerYuE4XhsoU"
+    },
+    {
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317749,
+      "name": "Basement Mix",
+      "url": "https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd"
     },
     {
       "album": {
@@ -251,7 +287,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 274999,
       "name": "Disordered Minds",
       "url": "https://open.spotify.com/track/4vI3Dngn2KjBZmEVzfHVDb"
@@ -539,7 +575,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 684360,
       "name": "Made of Air",
       "url": "https://open.spotify.com/track/6PI2CNvpsv3k2ofK6cq42N"
@@ -593,7 +629,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 310351,
       "name": "Moving Machine",
       "url": "https://open.spotify.com/track/2K1CarKyRcBNV47HSPAnZV"
@@ -611,7 +647,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 226493,
       "name": "No Other",
       "url": "https://open.spotify.com/track/2zmNpl4DSTf388swxiV7F3"

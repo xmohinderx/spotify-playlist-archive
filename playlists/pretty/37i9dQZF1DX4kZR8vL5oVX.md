@@ -2,60 +2,43 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 ### [EQUAL France](https://open.spotify.com/playlist/37i9dQZF1DX4kZR8vL5oVX)
 
-> Les femmes montent le son\. Photo : Ibeyi
+> Les femmes montent le son\. Photo : Izïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,287 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,285 likes - 32 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sangoma](https://open.spotify.com/track/729WnoXA7mkkO2prQoXSvI) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 2:45 |
-| 2 | [Clit Is Good](https://open.spotify.com/track/162VxrGfWcY4uE0LW6jbeQ) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Clit Is Good](https://open.spotify.com/album/1MzcGJruvNRVX49q5ZR9wt) | 3:01 |
-| 3 | [Ways of Dreaming](https://open.spotify.com/track/1jkD185V875tmtftU4iIGu) | [Romane](https://open.spotify.com/artist/0n4XFcBXIvCkXZdXQFMigW) | [Ways of Dreaming](https://open.spotify.com/album/7gXGdzmzPopXfwRwrOP2iQ) | 3:28 |
-| 4 | [Horizon](https://open.spotify.com/track/0IhP65g9X82qPRb2bYGunO) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Horizon](https://open.spotify.com/album/3J9bxDC6kdRXJDopIvb9cQ) | 3:18 |
-| 5 | [Le goût de la fête](https://open.spotify.com/track/4fvU90Xl749WNKHpfw4X28) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Folle Machine](https://open.spotify.com/album/2fsg4GacNJr2f4PNfrvjJV) | 3:32 |
-| 6 | [Rappelle\-toi](https://open.spotify.com/track/6UPqTbjum0HtiaJyar0tJi) | [Les Frangines](https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4) | [Rappelle\-toi](https://open.spotify.com/album/2TAvJPs4E1kYFndE2Nq49t) | 3:07 |
-| 7 | [Je sais qu'il est tard](https://open.spotify.com/track/15ZsveLyDAOTbw1kK7ldsI) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Je sais qu'il est tard](https://open.spotify.com/album/3L9zRjwao0Nag74lX7fdkc) | 3:40 |
-| 8 | [Titanic](https://open.spotify.com/track/6jDjpymppH9NCctpXhqY5Q) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Titanic](https://open.spotify.com/album/2WBuGbz4Yow819X0fddhCy) | 3:10 |
-| 9 | [Focus](https://open.spotify.com/track/64PU8rTy4xLgOVaea3U7bq) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [Focus](https://open.spotify.com/album/70IMg0I6RndR161BsTJvrJ) | 2:48 |
-| 10 | [Tandem](https://open.spotify.com/track/6EpXkYDIjzUnJlXzJuQIXE) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Tandem](https://open.spotify.com/album/0xW35d2VzLZaCiIeG4BLRs) | 3:19 |
-| 11 | [Misunderstood](https://open.spotify.com/track/4cd2bB36S1dcP88xNZnY3p) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Misunderstood](https://open.spotify.com/album/6ju1O90njqELb8iVbc2bOh) | 2:33 |
-| 12 | [dead end](https://open.spotify.com/track/1lnjoZ0B7L2qNpqqt9O7DN) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [dead end](https://open.spotify.com/album/0J5ZEh8YWFejDZISf9xeWY) | 3:06 |
-| 13 | [Where the Water Clears the Illusion](https://open.spotify.com/track/2EBJTMHxHv5YqX6Q7SA1Hg) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Emotional Eternal](https://open.spotify.com/album/0GXQpIFaT0uAi4y59t4nKg) | 3:03 |
-| 14 | [Give Me a Kiss](https://open.spotify.com/track/4KACV2cI5E9qOn6POkKR0p) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Give Me a Kiss](https://open.spotify.com/album/4CgxcL3TNmZhrkSxkytcOU) | 3:04 |
-| 15 | [Météo](https://open.spotify.com/track/0Ynw7RXjW3LMNN5niLnIBb) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Météo](https://open.spotify.com/album/4QTDFBSQCU6BLq5NHR3lXS) | 2:32 |
-| 16 | [Blue](https://open.spotify.com/track/0zMSLABV6KfnWvczaflsce) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Blue](https://open.spotify.com/album/6ITvMudbZkQWn9BqfypNl2) | 3:47 |
-| 17 | [Douala Paris](https://open.spotify.com/track/42kh2WdmWOoMGeWNpBz9n2) | [Irma](https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f) | [Douala Paris](https://open.spotify.com/album/2zHI3b0XsOELUcXhUNdMly) | 4:39 |
-| 18 | [star](https://open.spotify.com/track/0S3kfGBwGxLVltuzHgeaRY) | [Mélodie Lauret](https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4) | [star](https://open.spotify.com/album/7LfjbYGdktCKW8cJ7yOR2p) | 2:59 |
-| 19 | [Toutes les filles du monde](https://open.spotify.com/track/2Q8mLwujr7bBIv8Tffyf2e) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Toutes les filles du monde](https://open.spotify.com/album/4TammVPdGukFclzoOpaBPz) | 4:17 |
-| 20 | [Humains après tout](https://open.spotify.com/track/1SddnrGqOScznWZNnhWnv8) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Humains après tout](https://open.spotify.com/album/32C0qziCh9lCnOujTtF3gd) | 2:22 |
-| 21 | [Ex](https://open.spotify.com/track/5rgnTnbWJs6SDx1WUgVOA2) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Ex](https://open.spotify.com/album/6fu6Z2fzfkKjorhj9b0rHT) | 3:05 |
-| 22 | [No lo sé](https://open.spotify.com/track/6pPB7jt4eQ0mL7rqfIWYtq) | [Õ C'EST NOUS](https://open.spotify.com/artist/0IzB1ub5ovEuxkmUErYxVI) | [No lo sé](https://open.spotify.com/album/2uGpAuBptaw8QoWxLKDmKy) | 3:03 |
-| 23 | [Maquiller](https://open.spotify.com/track/0kSlKM6oCLbpmpHXf3JCAT) | [Sola](https://open.spotify.com/artist/0UTolPLHS3Il6Pz2DrnXVV) | [Maquiller](https://open.spotify.com/album/0Ii2tDoeGbMmzSnbBF9yv0) | 2:33 |
-| 24 | [LISSE](https://open.spotify.com/track/3775FoxtqFWzF6b2l2SOUH) | [Rose Kid](https://open.spotify.com/artist/58ax9rY6aq0Tu6UZLcUfPC) | [LISSE](https://open.spotify.com/album/353NSC7MnUdGjl8WhW2xGh) | 2:59 |
-| 25 | [L'éclipse](https://open.spotify.com/track/49ZeB2EWC17mbBFa6jgbbD) | [Sophie Tapie](https://open.spotify.com/artist/4l7xxKksMSxsKFSVcs5mPg) | [1988 renait de ses cendres](https://open.spotify.com/album/0NeRgcgokXt0JzKl5mDbmo) | 2:47 |
-| 26 | [Real Dawgz](https://open.spotify.com/track/5zpTf2sn6BGjPVLi1pEOvo) | [Goldn.B](https://open.spotify.com/artist/4gGacdwZmUxzVWDOoGMomn) | [Or\(née\)](https://open.spotify.com/album/66i0k01MnJRSOALLcsu99J) | 3:09 |
-| 27 | [Ohlala](https://open.spotify.com/track/5uecTmnXKJlN6BfKUPCMpj) | [Mona](https://open.spotify.com/artist/2HiHS5or1fkg5mK355YGZj) | [Ohlala](https://open.spotify.com/album/6Ag2gD0bir2FPITJkXb4st) | 2:43 |
-| 28 | [Double Je](https://open.spotify.com/track/3vBcdfej8lkq8ngbyZgaFT) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Double Je](https://open.spotify.com/album/7em472fNWAFqr7hEbrKcG8) | 2:56 |
-| 29 | [Avalanche](https://open.spotify.com/track/03xPGqhzSxcTGtWQYdE0RG) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [Avalanche](https://open.spotify.com/album/78D5bJfpIQi6bEUM0ev4Nw) | 3:26 |
-| 30 | [Soleil](https://open.spotify.com/track/5VtPuwaNoq7gxHYcCWgQtZ) | [Anabel](https://open.spotify.com/artist/50L9hhqxqvBX5FjcBV5t8P) | [Soleil](https://open.spotify.com/album/452Q4zRAxyQrXqsdVkTOYb) | 2:28 |
-| 31 | [Pray](https://open.spotify.com/track/5fmvEa7HzgGvPZLhw1xUW0) | [Crenoka](https://open.spotify.com/artist/3OOzuCj2DqT9SsgLVjuknP) | [Pray](https://open.spotify.com/album/2WEhybgGVCvV6rke37bTj8) | 4:11 |
-| 32 | [Mood](https://open.spotify.com/track/0sQusMMO2VFuNanDd6OEZi) | [Whitney](https://open.spotify.com/artist/5w5MVvOJSu0nGTFRkkc69W) | [Mood](https://open.spotify.com/album/0oezUGAZfVCJPN0rPKCqqS) | 2:59 |
-| 33 | [Way Out](https://open.spotify.com/track/512BfP43SrXqz4lQ6GzuIu) | [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Way Out](https://open.spotify.com/album/63CM544lHUvy2DGxEe0BaC) | 3:25 |
-| 34 | [Les hommes qui pleurent](https://open.spotify.com/track/7n8Hc3LcckhlYSmMBoIPPL) | [Julie Pietri](https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG) | [Les hommes qui pleurent](https://open.spotify.com/album/4wKUfMOqhqoUuYYoc9092p) | 3:38 |
-| 35 | [Quand tu seras prêt](https://open.spotify.com/track/5iC10KhW2TH1P3YtqzAzb7) | [Ambre Sls](https://open.spotify.com/artist/3cMsbhJUy9mujVSPtMzxe9) | [Quand tu seras prêt](https://open.spotify.com/album/5MiMWYWsMk3KVn1o4m2Byf) | 2:59 |
-| 36 | [Chanteur](https://open.spotify.com/track/3HWjP56rjDgh37w6Y5rTgf) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [13 juin 2021](https://open.spotify.com/album/1ecFixXc3NkiBdVoTf8HOg) | 3:16 |
-| 37 | [T'IRAS OÙ](https://open.spotify.com/track/5Xcpr8Dkat1vI4MUdIm4KV) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [T'IRAS OÙ](https://open.spotify.com/album/3LxUUZBaAfoKpDSXWppLbk) | 2:58 |
-| 38 | [En vrai](https://open.spotify.com/track/7xSSggcH3eyq3drcXLm7IL) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [En vrai](https://open.spotify.com/album/4YMqcQqGuONqWkXpNahXLe) | 2:51 |
-| 39 | [Pay the Rent](https://open.spotify.com/track/4ZmU90qeI1vRuUoGAcmfu4) | [La Battue](https://open.spotify.com/artist/1beQgGMe1g3tnaTa2lwMnL) | [In the Attic](https://open.spotify.com/album/5lOUNMITlbR9GzOqWiMLOM) | 2:55 |
-| 40 | [A Place Where I Belong](https://open.spotify.com/track/7ai5SN91E6X2ps4VeZaVMu) | [Norma](https://open.spotify.com/artist/64W7eG9PeOeb07AsgllbZV) | [A Place Where I Belong](https://open.spotify.com/album/0Eu6w71fErIA4zNcNBztrX) | 2:16 |
-| 41 | [All about You](https://open.spotify.com/track/4VaHgBmYEJbOjbdUGq2irJ) | [Bonnie Li](https://open.spotify.com/artist/1mswgtBZE0xMQkJU4NhWpH) | [Le Bleu du Rouge](https://open.spotify.com/album/4GhxCRcuL82Y0SOyrhLjB8) | 3:16 |
-| 42 | [Libre](https://open.spotify.com/track/1d8NqBBBxXeaNMJ7XTOdCY) | [DÉLINQUANTE](https://open.spotify.com/artist/4uygGiozRtFse8xVXZTDwM) | [Libre](https://open.spotify.com/album/4m9jgGzDEXgF3jl75N9MoD) | 2:46 |
-| 43 | [B.N.D](https://open.spotify.com/track/1gFdkINI7LAJbMIibJEU90) | [Thaïs Lona](https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S) | [B.N.D](https://open.spotify.com/album/5ICarjTirws8nlQEHSNoE8) | 4:17 |
-| 44 | [WAVES](https://open.spotify.com/track/0wC6rLtsUh6LgqCmN2ZGLw) | [Ekloz](https://open.spotify.com/artist/3FlxOuTKmjE9AV3SfMudyw) | [Résilience, Vol.3](https://open.spotify.com/album/0zMvYCTUdRTYKvpAsYCmvq) | 3:37 |
-| 45 | [Quiproquo](https://open.spotify.com/track/3qLnoHeoYuBI8279bsbN0x) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [Quiproquo](https://open.spotify.com/album/0MuO5NKm5kU9INX9tKEJAr) | 2:41 |
-| 46 | [jtm de ouf](https://open.spotify.com/track/5RETH5olIVxF5otLezKqbh) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [jtm de ouf](https://open.spotify.com/album/4RspWUPtIKPBXU4WzwEho2) | 3:11 |
-| 47 | [Like A Mantra](https://open.spotify.com/track/1oi4YveFA1R1rzpg3PjMrr) | [Romane Santarelli](https://open.spotify.com/artist/0yQ9z8ic7T2OpRCtJVFyEN) | [Like A Mantra](https://open.spotify.com/album/7634WuMZaOeHKmj7AlKThD) | 4:15 |
-| 48 | [Sister 2 Sister](https://open.spotify.com/track/4In5YLF0CjSRIvTqD7k0Mg) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Sister 2 Sister](https://open.spotify.com/album/05laAXb0YBC13y2z375EZj) | 3:15 |
-| 49 | [Belle pour une renoie](https://open.spotify.com/track/14UChneY1Dj9AqlhaxGxh6) | [Awa Imani](https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i) | [Belle pour une renoie](https://open.spotify.com/album/3jOKcUX2Bi1R2kKD5tURNB) | 2:27 |
+| 1 | [La vitesse](https://open.spotify.com/track/48tqvAldUfdiQSk7WL3twJ) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse / Nos rêves / Mon cœur](https://open.spotify.com/album/0d2dN6lnMwbCoW0l3EEItC) | 4:00 |
+| 2 | [Two Years](https://open.spotify.com/track/6a2z6P7iSN9CTnR3NYyCKV) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Two Years](https://open.spotify.com/album/4UckwDR1GDGS6DN1YsTqql) | 2:48 |
+| 3 | [Destination l'amour](https://open.spotify.com/track/0Iol63wVJyT2kaRhYix6iH) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Seule sous ma frange](https://open.spotify.com/album/2mu9cesnOqR7w5otGmRYgS) | 3:15 |
+| 4 | [On m'a dit](https://open.spotify.com/track/0vg9919pYOV7mkiEZZDCHo) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [On m'a dit](https://open.spotify.com/album/0BP73xAURu61RwUrQvPyMu) | 3:28 |
+| 5 | [Sensible](https://open.spotify.com/track/4lmIe09Uj7Cw6k245pKVDl) | [Al.Hy](https://open.spotify.com/artist/0srSsrvpoaTJUUxha38C4H) | [Sensible](https://open.spotify.com/album/5Mnr6fqtAyGynkwdgHix3E) | 2:36 |
+| 6 | [Au bout du monde](https://open.spotify.com/track/0g7USBi1Du9VLwNyK6q12A) | [Marghe](https://open.spotify.com/artist/0fmiJKQkjcX69wVNArGZtk) | [Au bout du monde](https://open.spotify.com/album/6XhK7VRd8RlYClw56kVLfX) | 3:23 |
+| 7 | [La mer](https://open.spotify.com/track/3E61yKJuxYg9WSmlFKoEXE) | [La Grande Sophie](https://open.spotify.com/artist/76IqDKTydgWzyIuNpUD3Jg) | [La mer](https://open.spotify.com/album/58ibBBEca9hAyPQEUTaDtW) | 3:25 |
+| 8 | [Dingue](https://open.spotify.com/track/7IS3LFvp8mQ2ixwn1Crjwy) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Dingue](https://open.spotify.com/album/1oDrFvXX4mkj5g39vA03NL) | 3:07 |
+| 9 | [Construire un feu](https://open.spotify.com/track/06fPgubILYvUlNHW9MzBuS) | [Vickie Cherie](https://open.spotify.com/artist/7mUVdIwwAN5YJlMMir29Up) | [Construire un feu](https://open.spotify.com/album/5ohn4rsXCl5TyIOKT6vxW6) | 3:59 |
+| 10 | [Tears for Breakfast](https://open.spotify.com/track/2uN5St1CwzuDOasc833jHd) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Tears for Breakfast](https://open.spotify.com/album/2GkLSiLPblsCvB5BpFCRcp) | 2:49 |
+| 11 | [Snake](https://open.spotify.com/track/2btl8sJ35sBFSH4sMik5tq) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Source](https://open.spotify.com/album/3LSV8Trerwu3kaqc2dcZGS) | 2:41 |
+| 12 | [Soleil Mort](https://open.spotify.com/track/7ziSNSAMNDvWBHuSqbGy08) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Pyrale](https://open.spotify.com/album/3fiBUejWxczE7f8ITf4ad1) | 3:15 |
+| 13 | [qu'il en soit ainsi](https://open.spotify.com/track/7bPbBoyykFSbU3P7Fo3LFL) | [TESSÆ](https://open.spotify.com/artist/4Rc4ZjE8dK1b794tfc3BIt) | [Sérendipité](https://open.spotify.com/album/6nAkD2bMAExLR5WxVS7Qo5) | 2:59 |
+| 14 | [Cauchemars](https://open.spotify.com/track/5pVuRzvyRiRq4oMGnU6WPl) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Cauchemars](https://open.spotify.com/album/3mKYIkjNT5rb6T8pwKPTGN) | 3:06 |
+| 15 | [On prend tout](https://open.spotify.com/track/6WheAWK0iOK2Zo81u40YVK) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [On prend tout](https://open.spotify.com/album/3jGasbW6iJN83czkvpskh8) | 2:49 |
+| 16 | [Movie Star](https://open.spotify.com/track/4v8l0E113OJ7Vl0uborXcl) | [Cynthia Leone](https://open.spotify.com/artist/5DO6LrSCupTh0KjoN9JUUf) | [Movie Star](https://open.spotify.com/album/0Z7qZrgdvXEwyddaJCRt7h) | 2:27 |
+| 17 | [Billie](https://open.spotify.com/track/46ZZ1Y1WFR8fQ3Tr9S0fBC) | [Eliott Jane](https://open.spotify.com/artist/4EBgkZ6DyqNwWETWgwBZ8U) | [Billie](https://open.spotify.com/album/4jAYsl0mtg496Y9iAHNNK0) | 3:42 |
+| 18 | [J'me sens pas belle](https://open.spotify.com/track/35LsKa6rC5IlaFaIUEcKeQ) | [Manon Vuoko](https://open.spotify.com/artist/7G3puIh677BWnpbYrk63LO) | [J'me sens pas belle](https://open.spotify.com/album/2VqImnOZwmlfBBLgWEsFqv) | 2:42 |
+| 19 | [Une fenêtre ouverte](https://open.spotify.com/track/4od4PjXv3hr7HSdmU8KkWe) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Une fenêtre ouverte](https://open.spotify.com/album/43mdcdf7facc52LHVxAdap) | 3:34 |
+| 20 | [Everybody's Been Dumped Before](https://open.spotify.com/track/1XyvVG9Nv9jGRhXjrwO8nZ) | [Norma](https://open.spotify.com/artist/64W7eG9PeOeb07AsgllbZV) | [HELL.O.V.E.](https://open.spotify.com/album/2z2QrS9RvtEwTfZ6Jc5ilE) | 2:53 |
+| 21 | [Corps & âme](https://open.spotify.com/track/65gN23dDtNfa7YWoxOCu6N) | [Edwige](https://open.spotify.com/artist/4XVi33TsEFgWfZPCpLOcNx) | [Corps & âme](https://open.spotify.com/album/0HvRonPYTaVuawTLu5Of0r) | 3:27 |
+| 22 | [Tempo](https://open.spotify.com/track/5q8L8ALraz7i0JO7zwFhtr) | [Koline](https://open.spotify.com/artist/5rD5SSVbX4lbhwGd2tfqkD) | [Tempo](https://open.spotify.com/album/26VxaGbWvByid1TAMNL5tQ) | 2:52 |
+| 23 | [say shit!](https://open.spotify.com/track/3GfJThQ3eIlPeA5maxWa6r) | [Dirtsa](https://open.spotify.com/artist/07vBWTE9FecUEhHfziRM9j) | [say shit!](https://open.spotify.com/album/7gm5BecZPZgbFb6gN9hZit) | 2:38 |
+| 24 | [Ici et Maintenant](https://open.spotify.com/track/4yC4zbyEKEuJG3KVmsRN14) | [REB](https://open.spotify.com/artist/6wAoRA0lIGIzF1SmduUg32) | [Ici et Maintenant](https://open.spotify.com/album/5dgHNk1VRI6YHKmcLjRyea) | 2:55 |
+| 25 | [Abyssal](https://open.spotify.com/track/7mUdUu75AfRWoxthhBJFkt) | [Julia Pertuy](https://open.spotify.com/artist/5kG7vNPBANAzHPWIuHwZ4D) | [Abyssal](https://open.spotify.com/album/2v8brQYnFf5pODegprhom7) | 4:36 |
+| 26 | [Phases](https://open.spotify.com/track/2wqm6lPEiPKPPDeTTba9dg) | [Yorina](https://open.spotify.com/artist/3zrsuumoPW6KbZmBX2X7qC) | [Phases](https://open.spotify.com/album/1S85j7hvVxvmdYzC7KXbNp) | 4:18 |
+| 27 | [Tout](https://open.spotify.com/track/2zMymKds3giK1baWHElaaW) | [ZAYD](https://open.spotify.com/artist/40b2Z1HyhqaBT2zNFQ38qm) | [Tout](https://open.spotify.com/album/1hEeP5uygkEuCc52yn3Vfg) | 2:42 |
+| 28 | [Dis\-moi oui](https://open.spotify.com/track/2rD8n0QH7ugRyFPQm9hUrD) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Dis\-moi oui](https://open.spotify.com/album/2Pq8jqWjWB4VwMgcFGfjQp) | 3:27 |
+| 29 | [Mythologie](https://open.spotify.com/track/28np0boOT7svs7oG9RNpxM) | [Eesah Yasuke](https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC) | [Mythologie](https://open.spotify.com/album/1E6limGMwvAC2k1i9hgwKZ) | 2:25 |
+| 30 | [Une Tempête](https://open.spotify.com/track/0WaCGTemkdb1uNDEoo39Az) | [La Pietà](https://open.spotify.com/artist/5P0atd21WQems5FDKnBysF) | [Une Tempête](https://open.spotify.com/album/4u8ptsviIbe84QCowfkGzQ) | 3:56 |
+| 31 | [Fever](https://open.spotify.com/track/06mMTF6cqtiEptM8FdVhv6) | [Arielle Dombasle](https://open.spotify.com/artist/7I2zgbIGfAd3w1CktlJUbI) | [Fever](https://open.spotify.com/album/5LAT4jfX64Epy05Y3blREP) | 3:40 |
+| 32 | [Mon homme est un gangster \- Extrait du spectacle musical Al Capone](https://open.spotify.com/track/13YIhpbt35twU7artHy6v4) | [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Mon homme est un gangster \(Extrait du spectacle musical Al Capone\)](https://open.spotify.com/album/7s3rPgbWOw58gweDPsVvit) | 2:10 |
 
-Snapshot ID: `MTY1MTc4ODA2MCwwMDAwMDA3NjAwMDAwMTgwOTYzZDk1ZmEwMDAwMDE4MDVmZTJmYzBi`
+Snapshot ID: `MTY1NDAzNDQwMCwwMDAwMDA3NzAwMDAwMTgxMWMyMjAzOWEwMDAwMDE4MTFiZWE3YjUw`

@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 234560,
       "name": "Club Can't Handle Me (feat. David Guetta)",
       "url": "https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "Diamonds - The Bimbo Jones Vocal Edit",
       "url": "https://open.spotify.com/track/5VlyxtjCKSk2ETp1D3W0GX"
@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 235893,
       "name": "Don't Leave - Gryffin Remix",
       "url": "https://open.spotify.com/track/2ygxpFIvfVzti5zcpkSmue"
@@ -1784,6 +1784,28 @@
     },
     {
       "album": {
+        "name": "Good as Hell (Remixes)",
+        "url": "https://open.spotify.com/album/5he2uY9FUCphvypNBx4FuL"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Bad Royale",
+          "url": "https://open.spotify.com/artist/7kHe4uFK1KQFqMRP7td4mS"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Good as Hell - Bad Royale Remix",
+      "url": "https://open.spotify.com/track/55EvroOzt6eieudauqAC6s"
+    },
+    {
+      "album": {
         "name": "Goodbye (feat. Nicki Minaj & Willy William) [R3HAB Remix]",
         "url": "https://open.spotify.com/album/2wQ0lt6KGU2xd9B5P8OQzd"
       },
@@ -2065,7 +2087,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 215238,
       "name": "Heaven - David Guetta & MORTEN Remix",
       "url": "https://open.spotify.com/track/4QAUGy6k7c3IOAhgWz52r7"
@@ -3493,7 +3515,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 223090,
       "name": "Miss You - Major Lazer & Alvaro Remix",
       "url": "https://open.spotify.com/track/03FUQjwgCIfnprBZqVFvgh"
@@ -3791,7 +3813,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 184714,
       "name": "Now Or Never - R3hab Remix",
       "url": "https://open.spotify.com/track/34mowgpYk8cnLLiIvEzWBm"
@@ -3995,7 +4017,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 192380,
       "name": "One Thing Right - Firebeatz Remix",
       "url": "https://open.spotify.com/track/2M9GeaCQXrV12J0wzBxIwi"
@@ -4187,7 +4209,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 179250,
       "name": "Praying - Frank Walker Remix",
       "url": "https://open.spotify.com/track/00L5zl0hO6lO069lzRWNkW"
@@ -4265,7 +4287,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 190416,
       "name": "Promises (with Sam Smith) - David Guetta Remix",
       "url": "https://open.spotify.com/track/3Lv3frZVXU7Q0JEFvLIzWW"
@@ -4383,7 +4405,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 349464,
       "name": "Red Lights - twoloud Remix",
       "url": "https://open.spotify.com/track/4CLgcmdfbPvDn63WiNPRga"
@@ -5491,7 +5513,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 247560,
       "name": "Talk Dirty (feat. 2 Chainz) - TJR Remix",
       "url": "https://open.spotify.com/track/22r0HoAyCPma3BhIA8NDj4"
@@ -5659,7 +5681,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 258746,
       "name": "This Is What You Came For (feat. Rihanna) - R3hab vs Henry Fong Remix",
       "url": "https://open.spotify.com/track/5SkdlJ2J6jc5M0tYlcG4vf"
@@ -5929,7 +5951,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 167381,
       "name": "Waste It On Me - Cheat Codes Remix",
       "url": "https://open.spotify.com/track/0ld1ZvjtGHQFGjzelGuD2G"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > Lights on you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,050 likes - 101 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,828 likes - 101 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-75 songs - 4 hr 52 min - not published yet
+76 songs - 4 hr 57 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [dawn of infinity](https://open.spotify.com/track/6XGW8WSZ2ZFmvR2rUg2aAZ) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [dawn of infinity](https://open.spotify.com/album/5uhmrzAYZGmiIxXSClQ9Mk) | 4:53 | 2022-05-28 |  |
 | [Dried Up Youthful Fame \- Version:Free](https://open.spotify.com/track/1p4caO5oJVVFjwtpuQep7N) | [OLDCODEX](https://open.spotify.com/artist/7CdQSdjEWtSQ5DQEeaikUq) | [『劇場版 Free!\-the Final Stroke\-』後編オリジナルサウンドトラック「Never Ending Blue」](https://open.spotify.com/album/3dysUUTUGwxrzMJAZ9AHMi) | 3:37 | 2022-05-28 |  |
 | [Eternal Light](https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 4:06 | 2022-05-28 |  |
-| [Everlasting Guilty Crown \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/track/0rE5MtnYOHxWWWp23i6w1p) | [SACRA BLUE BEATS](https://open.spotify.com/artist/7JFAWhsI7NNXmSo38Rk1Yn) | [Everlasting Guilty Crown \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/album/7fC91TTDBD5rMtJHfsHNoT) | 5:24 | 2022-05-28 |  |
+| [Everlasting Guilty Crown \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/track/0rE5MtnYOHxWWWp23i6w1p) | [SACRA BLUE BEATS](https://open.spotify.com/artist/7JFAWhsI7NNXmSo38Rk1Yn) | [Everlasting Guilty Crown \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/album/7fC91TTDBD5rMtJHfsHNoT) | 5:24 | 2022-05-28 | 2022-06-01 |
 | [Find the truth](https://open.spotify.com/track/11kTme3riMq4bEgawgtGT6) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [Find the truth](https://open.spotify.com/album/3LfcO5kUpQBwGFwT4DkM6o) | 3:50 | 2022-05-28 |  |
 | [GIRI GIRI](https://open.spotify.com/track/5RtsmtLsEnwa96TEf56tJQ) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [すぅ](https://open.spotify.com/artist/149u0vuCHOv84BU0PfhDXR) | [GIRI GIRI](https://open.spotify.com/album/25IInwsJmKOSgXib6cSYgN) | 4:18 | 2022-05-28 |  |
 | [Gold](https://open.spotify.com/track/2tpiDrtRmRq5ZdQLQVaDmz) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Gold](https://open.spotify.com/album/0AMQOXe131J5SlkABq1ass) | 2:56 | 2022-05-28 |  |
@@ -65,6 +65,7 @@
 | [僕らが愚かだなんて誰が言った](https://open.spotify.com/track/1iXdAh0ctEUnzfr307V3mB) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [僕らが愚かだなんて誰が言った](https://open.spotify.com/album/7tVIIansxs3RkgIGhrLBZk) | 4:26 | 2022-05-28 |  |
 | [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 | 2022-05-28 |  |
 | [可愛くなりたい](https://open.spotify.com/track/2gnAKLPBO3Z8Le28LR2wI6) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [涼海ひより（CV：水瀬いのり）](https://open.spotify.com/artist/5M0mn4erXCP6tSuakm8yuI), [瀬戸口雛（CV：麻倉もも）](https://open.spotify.com/artist/2YBlQwDHazL6jCrjIKgb1r) | [可愛くなりたい](https://open.spotify.com/album/29yNNZx29gnMcJaJZdYkLI) | 4:12 | 2022-05-28 |  |
+| [君の知らない物語 \- from CrosSing](https://open.spotify.com/track/3pSJglKtcxEpbmoVP3Q7jX) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [君の知らない物語 \- from CrosSing](https://open.spotify.com/album/3GTdxviF6BBIIF7VbRtDca) | 5:42 | 2022-05-31 |  |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-05-28 |  |
 | [嗚呼、我が浪漫の道よ](https://open.spotify.com/track/2lZfyjf1naSGWu4CPErpqb) | [PelleK](https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3) | [嗚呼、我が浪漫の道よ](https://open.spotify.com/album/0EtgVOllCh5y9boWZZIoBg) | 3:42 | 2022-05-28 |  |
 | [四角運命](https://open.spotify.com/track/004jQqW1CdYt5d6wZJX3Gn) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [四角運命](https://open.spotify.com/album/4z7WKUveJzhx19jG4G1EWK) | 3:40 | 2022-05-28 |  |

@@ -1,13 +1,29 @@
 {
   "description": "Music from and inspired by Stranger Things. Watch Season 4 now on Netflix.",
-  "num_followers": 555202,
+  "num_followers": 585211,
   "original_name": "Stranger Things Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzk1OTY1NywwMDAwMDAwMGVmZmI5OGUxNGFkNzAyMGU5YjljYTk2MTBlMzMyOGEw",
+  "snapshot_id": "MTY1NDA0NjQ0NiwwMDAwMDAwMGQ3NjY0ZDhjZTZjMWNjZTU4ZGE3MTY4M2VlMWQ5NTNm",
   "tracks": [
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
+        "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 300062,
+      "name": "Running Up That Hill (A Deal with God)",
+      "url": "https://open.spotify.com/track/6VfKhnmbqCj14zcjZNjZTk"
+    },
     {
       "added_at": "2022-04-12 14:33:13",
       "album": {
@@ -55,22 +71,6 @@
       "duration_ms": 258874,
       "name": "Psycho Killer",
       "url": "https://open.spotify.com/track/5uG1n1fvJVJEJuHwHgW1yQ"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
-        "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 300062,
-      "name": "Running Up That Hill (A Deal with God)",
-      "url": "https://open.spotify.com/track/6VfKhnmbqCj14zcjZNjZTk"
     },
     {
       "added_at": "2022-05-27 04:01:00",

@@ -1126,6 +1126,32 @@
     },
     {
       "album": {
+        "name": "Beautiful You (Danny Krivit's Edit of Hex Hector's Lush Mix)",
+        "url": "https://open.spotify.com/album/4JPSshMzdfADmta2MnOnQo"
+      },
+      "artists": [
+        {
+          "name": "AK Akemi Kakihara",
+          "url": "https://open.spotify.com/artist/5apbo7p8o1eX4x94TBHUGh"
+        },
+        {
+          "name": "Hex Hector",
+          "url": "https://open.spotify.com/artist/1jLOGxY81S3FNq29X3qvmj"
+        },
+        {
+          "name": "Danny Krivit",
+          "url": "https://open.spotify.com/artist/0Y5z4slenWMoTz3sg8N6xD"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 647727,
+      "name": "Beautiful You - Danny Krivit's Edit of Hex Hector's Lush Mix",
+      "url": "https://open.spotify.com/track/5qytcPloGQ0pteCcGihTyM"
+    },
+    {
+      "album": {
         "name": "Beetle",
         "url": "https://open.spotify.com/album/0aylAz9IGSeUrLma0mYMZ1"
       },
@@ -9719,8 +9745,8 @@
           "url": "https://open.spotify.com/artist/0ItDUkyJTCrl0sfGIM76ms"
         },
         {
-          "name": "\u83c5\u539f\u572d",
-          "url": "https://open.spotify.com/artist/6QOnk7zoSFeg8ysHCUAOA8"
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
         }
       ],
       "date_added": "2022-05-30",
@@ -20027,6 +20053,10 @@
           "url": "https://open.spotify.com/artist/2MsmOuarlQw1AYEhbDhwUv"
         },
         {
+          "name": "\u30dd\u30bb\u30a4\u30c9\u30f3\u30fb\u77f3\u5ddd",
+          "url": "https://open.spotify.com/artist/4LGHcV1MMN8gOTUZKS5uoQ"
+        },
+        {
           "name": "\u6c38\u5c71\u96c4\u4e00",
           "url": "https://open.spotify.com/artist/40TYPMhtw5HAhVcIMqwjMx"
         }
@@ -24061,7 +24091,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 264826,
       "name": "\u96e8\u3088\u964d\u3089\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/3C0f8iEjegCRCmLc0eXR50"

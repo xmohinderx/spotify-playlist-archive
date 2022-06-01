@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 220413,
       "name": "Ashtray",
       "url": "https://open.spotify.com/track/0PU3efcpu4rp0dTbt28sgS"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 213053,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 187350,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6zgIrAa5fKNLlL6Vli3PzD"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 180960,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2s4pzQWSxqfOcMauQ2dMcW"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 203409,
       "name": "Bye bye my blue",
       "url": "https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7"
@@ -1109,6 +1109,24 @@
       "duration_ms": 186250,
       "name": "Drunk at this night (With noovv)",
       "url": "https://open.spotify.com/track/5AcA1vakbQzFXq4HgbIsi9"
+    },
+    {
+      "album": {
+        "name": "ECHO",
+        "url": "https://open.spotify.com/album/5KAcFgmvcwii4tQM0RxDfo"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198269,
+      "name": "ECHO",
+      "url": "https://open.spotify.com/track/6OSFO9R4wCNxksLMSzNEQx"
     },
     {
       "album": {
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 211026,
       "name": "haPPiness",
       "url": "https://open.spotify.com/track/6PZTv0EvVzo6fhgW5ROdHU"
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 235666,
       "name": "Last",
       "url": "https://open.spotify.com/track/1soyZAqoYDKzfEq3xiOKuN"
@@ -2277,7 +2295,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 211346,
       "name": "Let Me Go (with TAEYEON)",
       "url": "https://open.spotify.com/track/23y3tFEhkTzBT46gRU6tjv"
@@ -2343,7 +2361,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 185241,
       "name": "Lonely Hearts Club",
       "url": "https://open.spotify.com/track/3JiWxOZHyAaSqYBxIBO9C6"
@@ -2485,7 +2503,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "Love song",
       "url": "https://open.spotify.com/track/1jzrBDpLgKPx3eZDzmixai"
@@ -2667,7 +2685,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 199266,
       "name": "Mayday (Feat. Joy)",
       "url": "https://open.spotify.com/track/3k7ikTNf1Ms0ZfTsoe9Blk"
@@ -2707,7 +2725,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 166546,
       "name": "Mm Mm",
       "url": "https://open.spotify.com/track/1eXBDCUxn41AwVgVIRbeWz"
@@ -2827,7 +2845,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 195013,
       "name": "Nerves",
       "url": "https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw"
@@ -2959,7 +2977,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 176413,
       "name": "No Numbers (feat. JMIN)",
       "url": "https://open.spotify.com/track/3n2GHYGyQOkMw5LTFQgjy0"
@@ -3003,7 +3021,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/5Qjsh4Xp6YQJIFSPWTdyAC"
@@ -3141,7 +3159,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 162917,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/7zbuLxauVIXbIGx14PxAWJ"
@@ -3367,7 +3385,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "Perfect day (Feat. Ashley Alisha, nobody likes you pat)",
       "url": "https://open.spotify.com/track/4VIvga2PV99JWUPg8bJ0Do"
@@ -3558,6 +3576,28 @@
     },
     {
       "album": {
+        "name": "Lucky Charms!",
+        "url": "https://open.spotify.com/album/6bwVdSQ3xOtkSgNIzhqiaa"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "Tabber",
+          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206413,
+      "name": "Right Back (Feat. Tabber)",
+      "url": "https://open.spotify.com/track/5w0UlB7OxmoBF5kpT6uFKw"
+    },
+    {
+      "album": {
         "name": "?depacse ohw",
         "url": "https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca"
       },
@@ -3677,7 +3717,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 208294,
       "name": "sherlock",
       "url": "https://open.spotify.com/track/1tcRQkZyqzRSlQ3xUseeL1"
@@ -3717,7 +3757,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 183626,
       "name": "Slow Dance",
       "url": "https://open.spotify.com/track/3ASYo6ur6gT6d6sqosWub9"
@@ -3885,7 +3925,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 203269,
       "name": "SUNSET WITH YOU",
       "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
@@ -3973,7 +4013,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 162365,
       "name": "The Moon (Feat. TAEIL of NCT)",
       "url": "https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK"
@@ -3991,7 +4031,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 199999,
       "name": "The Museum",
       "url": "https://open.spotify.com/track/7rJCvHKPS1ASSu8noeUsfN"
@@ -4031,7 +4071,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 220106,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/6WoloXr2PXu8FRYZFtzbij"
@@ -4057,7 +4097,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 215213,
       "name": "This Night",
       "url": "https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf"
@@ -4257,7 +4297,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 185601,
       "name": "Walk In The Night (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK"
@@ -4359,7 +4399,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 167746,
       "name": "What Do I Call You",
       "url": "https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr"
@@ -4605,7 +4645,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 221218,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/0ck9OBdibazBRrYqIwqEJk"
@@ -4747,7 +4787,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 114380,
       "name": "zombie pop",
       "url": "https://open.spotify.com/track/5zhMMVw097YOSvT0oDGgDV"

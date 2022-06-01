@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 155720,
       "name": "Blasteroid",
       "url": "https://open.spotify.com/track/5Z1dxiIrZGvnViXtY7N8g9"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 265133,
       "name": "Capillarian Crest",
       "url": "https://open.spotify.com/track/4GZ3qSMYlQODUdxAzM1S1E"
@@ -249,9 +249,27 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "date_added": "2022-05-30",
+      "date_added": "2022-05-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 299066,
+      "name": "Ember City",
+      "url": "https://open.spotify.com/track/6rjuwrocj624fmnVvPTzAP"
+    },
+    {
+      "album": {
+        "name": "Once More 'Round the Sun",
+        "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
       "duration_ms": 203933,
       "name": "Feast Your Eyes",
       "url": "https://open.spotify.com/track/3qwRA8Q3e77HVNnBqMoRko"
@@ -309,6 +327,24 @@
       "duration_ms": 325577,
       "name": "Had It All",
       "url": "https://open.spotify.com/track/5yOoY69sRaLWyQLkmwhGLi"
+    },
+    {
+      "album": {
+        "name": "Leviathan",
+        "url": "https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 819800,
+      "name": "Hearts Alive",
+      "url": "https://open.spotify.com/track/5ZwXpxkFA2qW0nGCXwpIx4"
     },
     {
       "album": {
@@ -395,7 +431,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 213026,
       "name": "Joseph Merrick - Instrumental",
       "url": "https://open.spotify.com/track/10DrDEatayhTM9dx9FIHSF"
@@ -510,6 +546,24 @@
     },
     {
       "album": {
+        "name": "Medium Rarities",
+        "url": "https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495591,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/1tvr1RopO3KsVQwP8etKA5"
+    },
+    {
+      "album": {
         "name": "Hushed and Grim",
         "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
       },
@@ -525,6 +579,24 @@
       "duration_ms": 301778,
       "name": "Pain with an Anchor",
       "url": "https://open.spotify.com/track/4rFC258Osi9vYljhOU0r6u"
+    },
+    {
+      "album": {
+        "name": "Blood Mountain",
+        "url": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Pendulous Skin",
+      "url": "https://open.spotify.com/track/5uF9aihxBSiESSz2AeLqD7"
     },
     {
       "album": {

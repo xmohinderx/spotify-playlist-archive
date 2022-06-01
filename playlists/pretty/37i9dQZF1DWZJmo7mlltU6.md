@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 ### [borderless](https://open.spotify.com/playlist/37i9dQZF1DWZJmo7mlltU6)
 
-> Beyond genre, beyond language, beyond borders\. Cover: Nu Genea
+> Beyond genre, beyond language, beyond borders\. Cover: HYBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,812 likes - 104 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,937 likes - 104 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 2 | [Mad Doctor](https://open.spotify.com/track/0wJHFF3NJ09G7sWEs5bDIA) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [MAD DOCTOR](https://open.spotify.com/album/2W8ZRl6rcEgiYVyGEis3uO) | 2:33 |
 | 3 | [Cherry Wine](https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J) | 2:53 |
 | 4 | [Ruby](https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Ruby](https://open.spotify.com/album/2DCczRf9UGm6zbZoAMJUAf) | 3:03 |
-| 5 | [Tienaté](https://open.spotify.com/track/3SrL1Q0AvVYe04AZgZMlYg) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Tienaté](https://open.spotify.com/album/1Ot8U0UlsLPk8XPKCT4ocE) | 4:38 |
+| 5 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
 | 6 | [Me lo kiero imaginar](https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Belicemanu](https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv) | [Mientras Ando](https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN) | 3:18 |
-| 7 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
+| 7 | [Tienaté](https://open.spotify.com/track/3SrL1Q0AvVYe04AZgZMlYg) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Tienaté](https://open.spotify.com/album/1Ot8U0UlsLPk8XPKCT4ocE) | 4:38 |
 | 8 | [Friends \(with Pamungkas\)](https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Friends \(with Pamungkas\)](https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm) | 3:19 |
 | 9 | [La Novela](https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [La Novela](https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY) | 4:51 |
 | 10 | [Monopolio de la Tristeza](https://open.spotify.com/track/3P1mmP1Y3rGw0YdNBSqh6N) | [Malamute](https://open.spotify.com/artist/45XwF5VuCj7FqtlvjxWGaF) | [Una Gran Decepción](https://open.spotify.com/album/3ajsC7V1eThE9y2Jg3FHTa) | 3:25 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 103 | [Ultraviolet](https://open.spotify.com/track/6DxfWDdfSKYYrCTaqEFF20) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Ultraviolet](https://open.spotify.com/album/7oOXwpYyXLLvfhEF4zvLaY) | 2:51 |
 | 104 | [Ponerme Triste](https://open.spotify.com/track/77gjyozSjFxWdRhk2CouPU) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [Ponerme Triste](https://open.spotify.com/album/1WXxYGzolOLQ1mLDAECUVy) | 2:51 |
 
-Snapshot ID: `MTY1MzkyMTE5OSwwMDAwMDA4ZDAwMDAwMTgxMTU2MmI1M2EwMDAwMDE4MGI4ZmQyMGZm`
+Snapshot ID: `MTY1NDAxMzcwMiwwMDAwMDA4ZTAwMDAwMTgxMWFlNjMyM2YwMDAwMDE4MTFhZTU3MDIy`

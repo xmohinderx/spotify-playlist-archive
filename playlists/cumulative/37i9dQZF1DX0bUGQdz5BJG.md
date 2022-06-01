@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Carter Faith
 
-570 songs - 1 day 6 hr 43 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
+571 songs - 1 day 6 hr 47 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Confetti](https://open.spotify.com/track/5avVT8FvGTcVfjO0B9pvVl) | [Jessica Sevier](https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2) | [Confetti](https://open.spotify.com/album/7GH8JO6KGEzYtPDsn5a6ce) | 3:22 | 2022-05-06 |  |
 | [Couldn't Care Less](https://open.spotify.com/track/2wz6AeBog3TfuqQY9NXVII) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Couldn't Care Less](https://open.spotify.com/album/50gHenRfrlNVQ6nSYELygE) | 3:08 | 2022-04-01 |  |
 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 | 2022-02-18 | 2022-03-26 |
-| [Country in My Soul](https://open.spotify.com/track/1bZ0I87TDwvI9CjhJkAic8) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Country in My Soul](https://open.spotify.com/album/4P0ve6MxThOB4gDnVRptqY) | 3:06 | 2022-04-08 |  |
+| [Country in My Soul](https://open.spotify.com/track/1bZ0I87TDwvI9CjhJkAic8) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Country in My Soul](https://open.spotify.com/album/4P0ve6MxThOB4gDnVRptqY) | 3:06 | 2022-04-08 | 2022-06-01 |
 | [Country Kids Do](https://open.spotify.com/track/0LAndkMX4Qt9tPypNQUVDA) | [Styles Haury](https://open.spotify.com/artist/57sVUbHm2z4eBvAnexnZEG) | [Music From One Life Ain't Enough](https://open.spotify.com/album/2KeqnKBUOrYDf8eVRnI9C6) | 3:42 | 2021-12-31 | 2022-01-29 |
 | [Country Music, Girls & Trucks](https://open.spotify.com/track/0dRk0106XGkXC9KVrrhVrM) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN), [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [Country Music, Girls & Trucks](https://open.spotify.com/album/04pktfYd1ueQnQmuAznv0d) | 2:49 | 2022-04-22 |  |
 | [Country Outta My Girl \- feat\. Rivers Cuomo of Weezer](https://open.spotify.com/track/5QEx5uZ94115GzJGVMgQrz) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS), [Rivers Cuomo of Weezer](https://open.spotify.com/artist/5K404F5PzpYByZj3Q7s7Gd) | [Country Outta My Girl \(feat\. Rivers Cuomo of Weezer\)](https://open.spotify.com/album/1Irnr8Z5DeWywVVxXDHnn9) | 3:22 | 2022-03-04 | 2022-03-18 |
@@ -373,6 +373,7 @@
 | [Nothin' I Don't Love About You](https://open.spotify.com/track/3bpUoxpGoJkEQIHmMaUYPl) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [The Demos](https://open.spotify.com/album/0u5178s4Tdo1FboVzXSQUl) | 2:46 | 2022-01-21 | 2022-03-12 |
 | [Nothin' Like That Girl](https://open.spotify.com/track/5TvYQaenSEb3i2SduPItcC) | [Luke and Kaylee](https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf) | [Nothin' Like That Girl](https://open.spotify.com/album/2g79suOMRlrvqjfC11TiJo) | 3:01 | 2022-05-13 | 2022-05-28 |
 | [Nothing Like That](https://open.spotify.com/track/5KGGENJdaj09PtopoWgbMF) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Nothing Like That](https://open.spotify.com/album/5J5q95UZZ8CzoOVHhFS0x7) | 3:17 | 2022-04-08 |  |
+| [Nothing More Beautiful](https://open.spotify.com/track/4hISZEs3N1AoFomalASNdx) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Nothing More Beautiful](https://open.spotify.com/album/5JlayWrxGWtDN7n25y0NVr) | 3:15 | 2022-05-31 |  |
 | [Nothing With You](https://open.spotify.com/track/7FqCz4O6B7YGAyktlp5PpJ) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T), [Grace Leer](https://open.spotify.com/artist/2zaXxMpZKyNK075LXZ3wDG) | [Nothing With You](https://open.spotify.com/album/7IqrqtlOGGPeBMRjBaRlWj) | 3:36 | 2022-04-08 |  |
 | [Nothing's New](https://open.spotify.com/track/0YBgxXh6I0X8jnTzybUiTx) | [Garrett Jacobs](https://open.spotify.com/artist/3kmcskeWk7KtY0iryNLt1f) | [Nothing's New](https://open.spotify.com/album/3xjLvcj8lK1KwaiDxPArZf) | 3:02 | 2022-05-13 |  |
 | [NVM](https://open.spotify.com/track/5yMxjnzk9Ki0OQEpPtUA7V) | [Kali Arcaris](https://open.spotify.com/artist/6GLZpLl64nlqfxnnP1Czjg) | [NVM](https://open.spotify.com/album/6IYSNUWFltw0jPPDepSjwA) | 3:24 | 2021-12-31 | 2022-03-12 |

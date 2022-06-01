@@ -2,9 +2,9 @@
 
 ### [Club Resistance](https://open.spotify.com/playlist/37i9dQZF1DWTLrNDPW5co2)
 
-> Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: India Jordan
+> Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: TAAHLIAH
 
-60 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/5vZl4HOsHwZbAbRX9ClTqT)
+61 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/5vZl4HOsHwZbAbRX9ClTqT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Between The Lines \- The Blessed Madonna Remix / Edit](https://open.spotify.com/track/7FEIfd9agzVp7RMhNuLdHv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Between The Lines \(The Blessed Madonna Remix\)](https://open.spotify.com/album/3C2OTd8tzJeMH0g8KGoDkR) | 3:52 | 2021-10-15 |  |
 | [Black](https://open.spotify.com/track/1MyTViq9p2q2OsOa5a7z70) | [Grove](https://open.spotify.com/artist/1ymLBAEb4VHg1sObM20pQ3), [Griz\-O](https://open.spotify.com/artist/11FUGhExWgQVPjgTvblbHQ) | [Queer + Black](https://open.spotify.com/album/2OVoVT9YqJeUWSquhDp1pk) | 3:29 | 2021-10-15 |  |
 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 | 2021-10-15 |  |
+| [Bodies](https://open.spotify.com/track/7mK6uyVj6zhU4nPgY1VjN0) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz) | [Bodies](https://open.spotify.com/album/6ZyK0TDgMxRoBQ1jJwa4d6) | 3:49 | 2022-05-31 |  |
 | [Born Yesterday](https://open.spotify.com/track/0M6kxde1FdGI95X0XPuru6) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Born Yesterday](https://open.spotify.com/album/7mjYTOjmcH4UHnCdct2xZi) | 3:18 | 2021-10-15 |  |
 | [Brave](https://open.spotify.com/track/6pVWyzDnj5gazL2QpZN9Qv) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Angelica](https://open.spotify.com/album/2FRhqyhCl2pz7Bx7IiugOI) | 3:04 | 2021-10-15 |  |
 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 | 2021-10-15 |  |

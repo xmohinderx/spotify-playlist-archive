@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 381013,
       "name": "A Prayer",
       "url": "https://open.spotify.com/track/1Zmqt3nkQutv5X8ANO6YUE"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 313453,
       "name": "I Swear, I Love No One But You",
       "url": "https://open.spotify.com/track/0nbq5U1czg0RyHqmOwskR1"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 269320,
       "name": "Let Life Flow",
       "url": "https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9"
@@ -701,7 +701,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 247066,
       "name": "Put Your Hands Together",
       "url": "https://open.spotify.com/track/57yGqjGKJUIzgKWdIZo9aR"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 249229,
       "name": "Start Stoppin'",
       "url": "https://open.spotify.com/track/49x3dOAz0FTHm4zWr9c3NW"
@@ -816,6 +816,24 @@
     },
     {
       "album": {
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "This Air I Breathe",
+      "url": "https://open.spotify.com/track/7tVyJAzdKekmH0ChZxHhxB"
+    },
+    {
+      "album": {
         "name": "So Full Of Love",
         "url": "https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4"
       },
@@ -827,7 +845,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 264266,
       "name": "This Time Baby",
       "url": "https://open.spotify.com/track/4rrvpJUUWEtdjuwrcRO2i9"
@@ -953,7 +971,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 268240,
       "name": "Work on Me",
       "url": "https://open.spotify.com/track/3IlG5BCaW8OYvX2B6SDSSt"

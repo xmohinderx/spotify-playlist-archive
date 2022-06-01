@@ -148,6 +148,28 @@
     },
     {
       "album": {
+        "name": "No Saints on Knight Street",
+        "url": "https://open.spotify.com/album/4NcVOJfCpGq5BFEhhvjge4"
+      },
+      "artists": [
+        {
+          "name": "MANILA GREY",
+          "url": "https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd"
+        },
+        {
+          "name": "James Reid",
+          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216226,
+      "name": "Backhouse Ballin' (feat. James Reid)",
+      "url": "https://open.spotify.com/track/24yMI9O8GEdADu3hj4axGS"
+    },
+    {
+      "album": {
         "name": "BAD DECISIONS",
         "url": "https://open.spotify.com/album/61WyYQC1peEOTLBFlCC1I9"
       },
@@ -159,7 +181,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 204117,
       "name": "BAD DECISIONS",
       "url": "https://open.spotify.com/track/6DukD7rUREAMZV05R4QJj3"
@@ -493,7 +515,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 159906,
       "name": "cold these days",
       "url": "https://open.spotify.com/track/2DuEsvRGpecluVnVcTYSlo"
@@ -529,7 +551,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 254305,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/4uiv2t9iLd5nSdtB7GS7dN"
@@ -635,7 +657,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 205386,
       "name": "Don't (feat. RM)",
       "url": "https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC"
@@ -715,10 +737,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 213637,
       "name": "Dream About You",
       "url": "https://open.spotify.com/track/7ImKTptfTfSsr6YzLSUdPi"
+    },
+    {
+      "album": {
+        "name": "Hope In Chaos",
+        "url": "https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193457,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K"
     },
     {
       "album": {
@@ -933,6 +973,24 @@
       "duration_ms": 201786,
       "name": "Fire In The Sky",
       "url": "https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474"
+    },
+    {
+      "album": {
+        "name": "Freaky (RGB)",
+        "url": "https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109296,
+      "name": "Freaky (RGB)",
+      "url": "https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS"
     },
     {
       "album": {
@@ -1305,7 +1363,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 199396,
       "name": "Honest",
       "url": "https://open.spotify.com/track/7D43qtE2NSNZOZ9NTYWM0X"
@@ -1371,7 +1429,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 176445,
       "name": "Hot One",
       "url": "https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL"
@@ -1705,7 +1763,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 197250,
       "name": "KITTY WITH A KNIFE",
       "url": "https://open.spotify.com/track/4EBnJYRKV44yoJPn6Vy1vh"
@@ -1843,7 +1901,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2"
@@ -1941,7 +1999,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 193500,
       "name": "Make A Move",
       "url": "https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId"
@@ -2003,7 +2061,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 142040,
       "name": "Mercury (feat. \u00d8ZI)",
       "url": "https://open.spotify.com/track/3uxThTbkNafNIFS8nIDlfM"
@@ -2211,7 +2269,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 228406,
       "name": "OOP! - Dipha Barus Remix",
       "url": "https://open.spotify.com/track/10w72K7l0yeR6gqyUX3mj8"
@@ -2247,7 +2305,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 164070,
       "name": "people i love (hurt me)",
       "url": "https://open.spotify.com/track/2GqbmGCGPEpkM0x2QAwhsh"
@@ -2265,7 +2323,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 211337,
       "name": "Picture Myself",
       "url": "https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel"
@@ -2301,7 +2359,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 211666,
       "name": "Please Baby Please",
       "url": "https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD"
@@ -2392,6 +2450,24 @@
     },
     {
       "album": {
+        "name": "SCARLET",
+        "url": "https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k"
+      },
+      "artists": [
+        {
+          "name": "Benita",
+          "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123421,
+      "name": "RIP",
+      "url": "https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29"
+    },
+    {
+      "album": {
         "name": "R\u00c9SUM\u00c9",
         "url": "https://open.spotify.com/album/29ibhzG3YXJMgqWqFfM3iQ"
       },
@@ -2479,7 +2555,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 145173,
       "name": "Shapeshift",
       "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
@@ -2515,7 +2591,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 145986,
       "name": "Siamese",
       "url": "https://open.spotify.com/track/5An220qZmv5fNeKJmaahWJ"
@@ -2537,7 +2613,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 201869,
       "name": "Silver Into Rain",
       "url": "https://open.spotify.com/track/7IBI2S33PMaIM9pARvpIJY"
@@ -2671,7 +2747,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 194526,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/60T49w6pqDRRVJQ2hWUd1c"
@@ -2881,7 +2957,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 206373,
       "name": "The King",
       "url": "https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6"
@@ -2947,6 +3023,28 @@
       "duration_ms": 190946,
       "name": "Thinking Bout You",
       "url": "https://open.spotify.com/track/0J8TS2cS0IWff5DPLJJQi8"
+    },
+    {
+      "album": {
+        "name": "Ladies In The City",
+        "url": "https://open.spotify.com/album/4aq2qIVPFSS5mkKKKKKSO7"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Maki Nomiya",
+          "url": "https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223066,
+      "name": "Tokyo Rouge",
+      "url": "https://open.spotify.com/track/2mM4gR1CITXWMx5eRp0oem"
     },
     {
       "album": {
@@ -3110,6 +3208,24 @@
     },
     {
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215300,
+      "name": "Wild Jasmine",
+      "url": "https://open.spotify.com/track/02AtJRkWiLd5rl0oFjSxhR"
+    },
+    {
+      "album": {
         "name": "Wishful Thinking",
         "url": "https://open.spotify.com/album/4q6HSxSGsjT8jEah5Kyyie"
       },
@@ -3143,7 +3259,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 164723,
       "name": "Wonderland (From \u201cAmerican Song Contest\u201d)",
       "url": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO"
@@ -3161,7 +3277,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 188569,
       "name": "worth it",
       "url": "https://open.spotify.com/track/6cBcNlf0IXnS1TXnwRtBsO"

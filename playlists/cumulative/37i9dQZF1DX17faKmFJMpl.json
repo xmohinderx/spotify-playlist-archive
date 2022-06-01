@@ -21,7 +21,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 242826,
       "name": "4 Life (Feat. Yuri)",
       "url": "https://open.spotify.com/track/7sFUq6W4gdE4xUwA2bBy0m"
@@ -43,7 +43,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 238133,
       "name": "A Long Time Ago (feat. Heritage)",
       "url": "https://open.spotify.com/track/6bLu24iP5lJZoCe8mONpXL"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 316944,
       "name": "AEAO",
       "url": "https://open.spotify.com/track/7hrlGlLnzusciZyzxwhkn9"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 297586,
       "name": "B.L.K. (feat. New Champ, Wutan, Carry Diamond, CeeJay, Swings, Okasian, Rocky L & Vasco) [Bonus Track]",
       "url": "https://open.spotify.com/track/5Aa65H6ueFTucHVZcSV4Bf"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 259160,
       "name": "Be Free (Feat. Verbal Jint, Sean2slow)",
       "url": "https://open.spotify.com/track/4koNRyOUDNkwkr7AUNOHY1"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 259160,
       "name": "Be Free (feat. Verbal Jint, Sean2Slow)",
       "url": "https://open.spotify.com/track/7cBNp79z2hlEV0YfaaZtDA"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 230765,
       "name": "Black Diamond",
       "url": "https://open.spotify.com/track/6ilrRtcSp8IIW48ZPnwDqr"
@@ -336,6 +336,28 @@
     },
     {
       "album": {
+        "name": "Last Days",
+        "url": "https://open.spotify.com/album/4UocQzxqD7TsnvFw7JEBiA"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Sean2Slow",
+          "url": "https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239333,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/2Kx3PncAXwpq8ELDYmcTvn"
+    },
+    {
+      "album": {
         "name": "Fanatic",
         "url": "https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO"
       },
@@ -351,7 +373,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 258506,
       "name": "Brutal Treatment (Part. 1) [feat. Kebee & The Quiett]",
       "url": "https://open.spotify.com/track/4HJZszQCz2viSCi0qlHSIR"
@@ -369,7 +391,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 204800,
       "name": "Bulldozer",
       "url": "https://open.spotify.com/track/1rsiw9PsbKWSb1O2QGXMHy"
@@ -409,7 +431,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 201066,
       "name": "But I Go (Feat. Juvie Train Of Buga Kingz)",
       "url": "https://open.spotify.com/track/1xxnt98uxXi956Acu3Kx2g"
@@ -431,7 +453,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 231386,
       "name": "Chool Check",
       "url": "https://open.spotify.com/track/77mttAnPVyYOUQTJvthL0y"
@@ -471,7 +493,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 202500,
       "name": "Classic",
       "url": "https://open.spotify.com/track/47HqV1n42wfuOBlbCODwX8"
@@ -497,7 +519,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 264733,
       "name": "Climb High",
       "url": "https://open.spotify.com/track/6t5aUI9PC1NWSaWlUquNTw"
@@ -523,7 +545,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 264733,
       "name": "Climb High (Feat. Bobby Kim, Sean 2 Slow)",
       "url": "https://open.spotify.com/track/6iu4HSvjSoimPCtrHu20U1"
@@ -611,7 +633,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 276120,
       "name": "Don Quixote \ub3c8\ud0a4\ud638\ud14c (feat. Simo) - 2006 Remix",
       "url": "https://open.spotify.com/track/4JphvFx65fbQxXrWJ5qDTU"
@@ -677,7 +699,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 213173,
       "name": "Favorite (feat. Dynamic Duo)",
       "url": "https://open.spotify.com/track/6cgLCX2AH23zs4UOf7peRF"
@@ -735,7 +757,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 201226,
       "name": "Fly",
       "url": "https://open.spotify.com/track/0AUOSdTLIjXrjFVLpoYn3p"
@@ -753,7 +775,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 76560,
       "name": "Giant",
       "url": "https://open.spotify.com/track/4sFtjz0D7BYTFwwdqGEnkq"
@@ -793,7 +815,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 254866,
       "name": "Give It to H.E.R. (feat. Leo Kekoa, Dok2 & Simon Dominic)",
       "url": "https://open.spotify.com/track/1O9ISbgA6X0XnasYehWRtS"
@@ -855,7 +877,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 216821,
       "name": "Handalas",
       "url": "https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme"
@@ -927,7 +949,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 333946,
       "name": "Hip Hop For Respect (Feat. Verbal Jint, Gaknakunae, TBNY, BILL STAX, Simon Dominc, Garion, Dok2, sean2slow, MC Sungchun)",
       "url": "https://open.spotify.com/track/0TFErHfIltss1TxHZcgDWn"
@@ -949,7 +971,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 258466,
       "name": "Hiphop Beginner Class (4 Beginners)",
       "url": "https://open.spotify.com/track/4rZ652DdqI6n3mRqNwoScD"
@@ -989,7 +1011,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 222315,
       "name": "History In The Making - 2021 Remaster",
       "url": "https://open.spotify.com/track/4wZMRcybEBblgIIwlupPbP"
@@ -1037,7 +1059,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 84925,
       "name": "Interlude (feat. Mad Clown)",
       "url": "https://open.spotify.com/track/7pLOLSicKZhYp0OFXX1aiN"
@@ -1055,10 +1077,32 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 32210,
       "name": "Interlude - 2021 Remaster",
       "url": "https://open.spotify.com/track/3L0p9O4EUOaZ4RfbHXWOfg"
+    },
+    {
+      "album": {
+        "name": "Thunderground",
+        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Epik High & MYK",
+          "url": "https://open.spotify.com/artist/5VmssimbA6MDuNUPRGtFhs"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255866,
+      "name": "It\u2019s Me (feat. Epik High & MYK)",
+      "url": "https://open.spotify.com/track/3zM41c5Tkxh0vVJnJDEPts"
     },
     {
       "album": {
@@ -1131,7 +1175,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 266066,
       "name": "Little Thug Kid 2 \uaf2c\ub9c8 \ub2ec\uac74\uc774 2",
       "url": "https://open.spotify.com/track/1zEY6NpfK4AXxUUxko2rfJ"
@@ -1153,7 +1197,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 240840,
       "name": "Little Thug Kid \uaf2c\ub9c8 \ub2ec\uac74\uc774",
       "url": "https://open.spotify.com/track/5ehFulZ9GRYjv4nqWMGaRT"
@@ -1175,7 +1219,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 241263,
       "name": "Love & Hip-Hop (Feat. Whee Sung) - 2021 Remaster",
       "url": "https://open.spotify.com/track/6hA73cIYwRLL0LDI95B9FL"
@@ -1249,7 +1293,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 256574,
       "name": "Never Give Up \u2161 (Feat. \uc190\ubc15\uc0ac, \uc624\uc804\ub3c4\uc0ac, DJ Uzi, Rich)",
       "url": "https://open.spotify.com/track/2E84dE2xWHEMKIBofKogIE"
@@ -1275,6 +1319,28 @@
       "duration_ms": 237333,
       "name": "No. 3 (feat. Sol Flower)",
       "url": "https://open.spotify.com/track/3LPwlRVAOg0ipAvlCW59Eo"
+    },
+    {
+      "album": {
+        "name": "We Are Music",
+        "url": "https://open.spotify.com/album/2v1fOBNXcyA2cBnlHXRcqx"
+      },
+      "artists": [
+        {
+          "name": "Infinite Flow (I.F)",
+          "url": "https://open.spotify.com/artist/3AoHwyG0A5hOD0EywkjsSc"
+        },
+        {
+          "name": "BILL STAX",
+          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204906,
+      "name": "Nu Music (Feat. BILL STAX)",
+      "url": "https://open.spotify.com/track/5HEuwQuYvy32udLGexhBL8"
     },
     {
       "album": {
@@ -1368,6 +1434,24 @@
     },
     {
       "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223578,
+      "name": "Overclass - 2021 Remaster",
+      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
+    },
+    {
+      "album": {
         "name": "HEAVY BASS",
         "url": "https://open.spotify.com/album/2hu45G5eFtK74ZSAHk9u2i"
       },
@@ -1379,7 +1463,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 187466,
       "name": "P-TYPE the Big Cat",
       "url": "https://open.spotify.com/track/2FflRL84EvaQcvPezVKpJV"
@@ -1448,6 +1532,24 @@
     },
     {
       "album": {
+        "name": "MP Hip Hop 2001 \ub300\ubc15",
+        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
+      },
+      "artists": [
+        {
+          "name": "Side B",
+          "url": "https://open.spotify.com/artist/2RYBJ332TJNMmPoh0JiXMy"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263186,
+      "name": "Platonic",
+      "url": "https://open.spotify.com/track/0fNcOzC0pEqanUltpHsoD4"
+    },
+    {
+      "album": {
         "name": "Modern Rhymes XX",
         "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
       },
@@ -1481,7 +1583,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 181603,
       "name": "Rare Breed (feat. YDG)",
       "url": "https://open.spotify.com/track/74ekozDXglWjvhaQU7NbNp"
@@ -1506,6 +1608,42 @@
     },
     {
       "album": {
+        "name": "Enlightened",
+        "url": "https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279146,
+      "name": "Resume pt.2",
+      "url": "https://open.spotify.com/track/5sA1HmiHPAUpAC5blsGeDp"
+    },
+    {
+      "album": {
+        "name": "Mirror (28 Look at Youth)",
+        "url": "https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299470,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/7a34Q612JcJIiuBoDvMX8W"
+    },
+    {
+      "album": {
         "name": "HEAVY BASS",
         "url": "https://open.spotify.com/album/2hu45G5eFtK74ZSAHk9u2i"
       },
@@ -1521,7 +1659,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 189933,
       "name": "So U Wanna Be Hardcore (feat. MC META)",
       "url": "https://open.spotify.com/track/0A2C8BMm8lvL19OAvkV6tm"
@@ -1630,6 +1768,28 @@
     },
     {
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/0iId2qa493w4lk0LEWhy35"
+      },
+      "artists": [
+        {
+          "name": "Eluphant",
+          "url": "https://open.spotify.com/artist/59YukrTVTiGNpuhyw3v4dB"
+        },
+        {
+          "name": "Celma",
+          "url": "https://open.spotify.com/artist/3dipS6uWlgqk3r4Ddeb9Oo"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222697,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6VmLjAp3u7v3jFSSWpF4qC"
+    },
+    {
+      "album": {
         "name": "Q Train (Remaster)",
         "url": "https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX"
       },
@@ -1667,7 +1827,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 254400,
       "name": "Three Dopeboyz",
       "url": "https://open.spotify.com/track/6TWlfF0NDu8fJoBIgZCr0w"
@@ -1689,7 +1849,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 272213,
       "name": "Three Pirates",
       "url": "https://open.spotify.com/track/4L5QNNZkFH9x7GTj5MV7uA"
@@ -1711,7 +1871,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 272213,
       "name": "Three Pirates (Feat. YDG)",
       "url": "https://open.spotify.com/track/3SpidEKQSR7EqL6qA0ueny"
@@ -1733,7 +1893,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 281160,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/5hSZpTD84gXexPuIoqswaz"
@@ -1759,7 +1919,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 230506,
       "name": "Twisted Words (feat. Zito & E-Sens)",
       "url": "https://open.spotify.com/track/2rmA0ngHRdMr0kLtjhNxjE"
@@ -1807,7 +1967,7 @@
     {
       "album": {
         "name": "Map of the Human Soul",
-        "url": "https://open.spotify.com/album/0HOb3ypZrAVbuGYLiMhC7z"
+        "url": "https://open.spotify.com/album/3Cy8E6WV1jtsVuE4dB1uuA"
       },
       "artists": [
         {
@@ -1832,7 +1992,55 @@
       "date_removed": null,
       "duration_ms": 270933,
       "name": "Watch Ya Self",
+      "url": "https://open.spotify.com/track/0FPOEJv9DsKtXTSXBGnUhs"
+    },
+    {
+      "album": {
+        "name": "Map of the Human Soul",
+        "url": "https://open.spotify.com/album/0HOb3ypZrAVbuGYLiMhC7z"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Digiri",
+          "url": "https://open.spotify.com/artist/5AkXQoXgGrx1J1zkiyRATG"
+        },
+        {
+          "name": "yankie",
+          "url": "https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a"
+        },
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
+      "duration_ms": 270933,
+      "name": "Watch Ya Self",
       "url": "https://open.spotify.com/track/7GA9RRaJrIvmT48a376CHo"
+    },
+    {
+      "album": {
+        "name": "but I \ub4dc\ub824",
+        "url": "https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110106,
+      "name": "We Ain't Fuck Ed Up",
+      "url": "https://open.spotify.com/track/2uVxOp8PkpuVQYEcVTEb6h"
     },
     {
       "album": {
@@ -1855,7 +2063,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 172421,
       "name": "What U Write 4 (Feat. P-Type & The Illest I.L.L.S.) - 2021 Remaster",
       "url": "https://open.spotify.com/track/2tZ3CBO9HMzi6bVDUutpuN"
@@ -1873,7 +2081,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 237906,
       "name": "Windbag Three Brothers and Spinner Park",
       "url": "https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ"
@@ -1927,7 +2135,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 249400,
       "name": "\uac00\uba74 \ubb34\ub3c4\ud68c The Masquerade",
       "url": "https://open.spotify.com/track/2Hi8362chY7CZhyjX15ELG"
@@ -2039,7 +2247,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 233966,
       "name": "\ub09c \ub110 \uc6d0\ud574",
       "url": "https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK"
@@ -2267,7 +2475,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 235960,
       "name": "\ub6f0\uc5b4\uac00 Run (feat. Tiger JK & Jinbo)",
       "url": "https://open.spotify.com/track/7mQgW2TCcLEiJvKmnSKCjH"
@@ -2307,7 +2515,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 224973,
       "name": "\ub9c8\ubd80 Horseman (feat. The Quiett)",
       "url": "https://open.spotify.com/track/2nR0PsyF1tzy6fqEz84ACg"
@@ -2332,6 +2540,36 @@
     },
     {
       "album": {
+        "name": "Q Train (Remaster)",
+        "url": "https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Notorious Kid",
+          "url": "https://open.spotify.com/artist/34jRpqNgQ6oIRmWSRTYjbF"
+        },
+        {
+          "name": "Friz",
+          "url": "https://open.spotify.com/artist/4PuEvEs294YAZWIbWojzDo"
+        },
+        {
+          "name": "Pumkin",
+          "url": "https://open.spotify.com/artist/4Kk6ZkqWkDHVywRCtX20XD"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218265,
+      "name": "\ubb50 (feat. Notorious Kid, Friz & Pumkin)",
+      "url": "https://open.spotify.com/track/3qgm6blx9hXtZZysC9Yrbm"
+    },
+    {
+      "album": {
         "name": "Giant",
         "url": "https://open.spotify.com/album/4gCdwl8jqPWNBB4L96ugFK"
       },
@@ -2347,7 +2585,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 226373,
       "name": "\ubc18\uac11\uc2b5\ub2c8\ub2e4 (feat. AG)",
       "url": "https://open.spotify.com/track/2WXdxJC5ccIdqaEkT6IkPi"
@@ -2372,6 +2610,36 @@
     },
     {
       "album": {
+        "name": "\uc808\ucda9 3 : \ubd88\ud55c\ub2f9\ub4e4\uc758 \uc9c4\uc785\uacfc \uc804\ud22c Pt. 1",
+        "url": "https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz"
+      },
+      "artists": [
+        {
+          "name": "NUCK",
+          "url": "https://open.spotify.com/artist/7hdPhJPPkVZc5sJNVjLMGu"
+        },
+        {
+          "name": "Nachal",
+          "url": "https://open.spotify.com/artist/2c1eCH3EjDdOuCdMv2goXQ"
+        },
+        {
+          "name": "P-Type",
+          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
+        },
+        {
+          "name": "MC Meta",
+          "url": "https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263079,
+      "name": "\ubd88\ud55c\ub2f9\uac00 (with \ub098\ucc30, \ud53c\ud0c0\uc785 & MC \uba54\ud0c0)",
+      "url": "https://open.spotify.com/track/7a733QhzAN4jdckPKCbD82"
+    },
+    {
+      "album": {
         "name": "Drunken Tiger Best",
         "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
       },
@@ -2383,10 +2651,28 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 235821,
       "name": "\ubf55\uc9dd\uc774\uc57c\uae30",
       "url": "https://open.spotify.com/track/4dDETFzyd7iCbiev3Ct29J"
+    },
+    {
+      "album": {
+        "name": "Garion \uac00\ub9ac\uc628",
+        "url": "https://open.spotify.com/album/0NAGKYjre0MgNYdUtcBuDp"
+      },
+      "artists": [
+        {
+          "name": "Garion",
+          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331426,
+      "name": "\ubfcc\ub9ac\uae4a\uc740 \ub098\ubb34",
+      "url": "https://open.spotify.com/track/2W7KlM3CkB65v2P5pBwkqh"
     },
     {
       "album": {
@@ -2427,7 +2713,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 243621,
       "name": "\uc120\ubb38\ub2f5",
       "url": "https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw"
@@ -2482,6 +2768,24 @@
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 295186,
+      "name": "\uc544\uc5d0\uc774\uc624\uc6b0 \uc5b4 ?!",
+      "url": "https://open.spotify.com/track/579cWJAuA8z2pC0iw3660T"
+    },
+    {
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/0iId2qa493w4lk0LEWhy35"
+      },
+      "artists": [
+        {
+          "name": "Soul Company",
+          "url": "https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
       "duration_ms": 279643,
       "name": "\uc544\uc5d0\uc774\uc624\uc6b0 \uc5b4 ?! Pt. 2",
       "url": "https://open.spotify.com/track/4YA9h4ADqXp8xcQ4VUHETX"
@@ -2517,7 +2821,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 192896,
       "name": "\uc5b8\uc5b4\uc7a5\ubcbd",
       "url": "https://open.spotify.com/track/74Fe9CWBifXamDQ8FTbETs"
@@ -2615,7 +2919,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 231993,
       "name": "\uc774 \uad6c\uc5ed\uc5d0 \ubbf8\uce5c\ub188\uc740 \ub098\uc57c (feat. Geegooin & New Champ)",
       "url": "https://open.spotify.com/track/3diybLrU4zkdF4Ka1ICrEa"
@@ -2681,7 +2985,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 233853,
       "name": "\uc8fd\uc74c\uc758 \uc608\uc220 (feat. MC Meta)",
       "url": "https://open.spotify.com/track/3ynP72sQ4W9m43cn8DkVnG"
@@ -2699,7 +3003,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 231235,
       "name": "\uc990\uac70\uc6b4 \uc0dd\ud65c",
       "url": "https://open.spotify.com/track/1497gstQL5iceFZJ5vb2ti"
@@ -2725,7 +3029,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 298870,
       "name": "\uc9c4\ud759 \uc18d\uc5d0\uc11c \ud53c\ub294 \uaf43",
       "url": "https://open.spotify.com/track/1vlSyTeLdjluMaIZGSa0UR"
@@ -2805,7 +3109,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 236706,
       "name": "\ud53c\ud574\ub9dd\uc0c1 Pt.3 (with TBNY)",
       "url": "https://open.spotify.com/track/1AfSN86MB3ZUEQpGya3PRU"
@@ -2823,7 +3127,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 307487,
       "name": "\ud55c\uad6d\uc778",
       "url": "https://open.spotify.com/track/0PMCOifKyHiOzlZjLLg0gF"
@@ -2877,7 +3181,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 506070,
       "name": "\ud55c\uae38\uc744 \uac78\uc5b4\uac00\ub77c (with \ud53c\ud0c0\uc785, \ub77c\uc784\uc5b4\ud0dd, \ub9c8\uc774\ub178\uc2a4, \ub300\ud314, \ub098\ucc30, \ub10b\uc5c5\uc0e8, MC \uba54\ud0c0, Wimpy & Sean2slow) - Remix Version",
       "url": "https://open.spotify.com/track/4orjqC4JPPjNFy1oVnArEP"
@@ -2895,10 +3199,32 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 273960,
       "name": "\ud55c\ubc88\ubfd0\uc778 \uc778\uc0dd One Life to Live",
       "url": "https://open.spotify.com/track/2MvehWGMkCeHZclsQo9kCJ"
+    },
+    {
+      "album": {
+        "name": "Thunderground",
+        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222693,
+      "name": "\ud6d4\uccd0 Rob It (feat. Double K)",
+      "url": "https://open.spotify.com/track/5UaGldAL222nOHnIS78vfO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX17faKmFJMpl"

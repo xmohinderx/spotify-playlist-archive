@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 233280,
       "name": "Arco Iris",
       "url": "https://open.spotify.com/track/1oTHZaQXBcga9tgpFX2qV7"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 258905,
       "name": "C\u00f3mo Imaginar",
       "url": "https://open.spotify.com/track/7w8h1IvnQHhe4oduF1EQJW"
@@ -422,6 +422,24 @@
     },
     {
       "album": {
+        "name": "La Naturaleza",
+        "url": "https://open.spotify.com/album/11gf4bxcj3Fkx6xhkZZ7Rw"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410562,
+      "name": "La Naturaleza",
+      "url": "https://open.spotify.com/track/0OtycdXDc8Q8UBNKwX21J7"
+    },
+    {
+      "album": {
         "name": "25 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
       },
@@ -433,7 +451,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 159426,
       "name": "La Receta - Versi\u00f3n 25 A\u00f1os [Live]",
       "url": "https://open.spotify.com/track/4dzDPsRrI8VWFgFbUqAcsS"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 267013,
       "name": "Listo",
       "url": "https://open.spotify.com/track/4qzyzNMkDKITsgcm5Q1JS6"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 205055,
       "name": "Qued\u00e1ndote O Y\u00e9ndote",
       "url": "https://open.spotify.com/track/2zH2SJsU74xiNq14SuhRKz"
@@ -818,6 +836,24 @@
     },
     {
       "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311533,
+      "name": "S\u00e9 Q' el Mar",
+      "url": "https://open.spotify.com/track/5kKtxKJpSH1iaUlYRFZKBi"
+    },
+    {
+      "album": {
         "name": "25 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
       },
@@ -905,6 +941,24 @@
       "duration_ms": 254865,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280040,
+      "name": "Una Perla en Mi Vida - Versi\u00f3n 25 A\u00f1os",
+      "url": "https://open.spotify.com/track/3yoT4Lsk5dwmM95lAWTiWL"
     },
     {
       "album": {

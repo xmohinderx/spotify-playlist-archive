@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto: LIT killah & Lil Mosey.
 
-157 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/0YPZzz15ohQLZmTK6LnsaM)
+158 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/0YPZzz15ohQLZmTK6LnsaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Cómo Te Explico?](https://open.spotify.com/track/2ouBjgKseCiYoGBAJm3S7B) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Cómo Te Explico?](https://open.spotify.com/album/5LaLUUh2nUdBK8DoNSgX1n) | 2:42 | 2022-04-04 |  |
 | [De Museo](https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [De Museo](https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR) | 3:29 | 2021-12-06 |  |
 | [Dejar Atrás / Rompe Corazones](https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 4:05 | 2021-12-06 |  |
-| [Desahogo](https://open.spotify.com/track/1ILgMB4ggj3jEUGgeFRs9K) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Desahogo](https://open.spotify.com/album/2YtJX0cvKYb15qco5fmkBn) | 3:28 | 2021-12-06 |  |
+| [Desahogo](https://open.spotify.com/track/1ILgMB4ggj3jEUGgeFRs9K) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Desahogo](https://open.spotify.com/album/2YtJX0cvKYb15qco5fmkBn) | 3:28 | 2021-12-06 | 2022-06-01 |
 | [Diles](https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Diles](https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex) | 4:46 | 2022-01-17 |  |
 | [Dinero Digital](https://open.spotify.com/track/5nggFqmrxKwOpmTS7sS48F) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Badguychapo](https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 4:05 | 2022-05-06 |  |
 | [Dos Mil 16](https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:28 | 2022-05-06 |  |
@@ -137,6 +137,7 @@
 | [Roto](https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Roto](https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3) | 3:28 | 2022-03-04 |  |
 | [Sauce Boy Freestyle 4](https://open.spotify.com/track/2YxtTwXQ9tPwaYnJv75L5D) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boy Freestyle 4](https://open.spotify.com/album/6nC2XJQzEnjN6ZJj1Hjhsk) | 1:59 | 2021-12-06 | 2022-04-16 |
 | [Se Que No](https://open.spotify.com/track/5f9nATgIwnc5YVVeTo8H3m) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:33 | 2022-04-15 |  |
+| [She Don't Give a Fo](https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [She Don't Give a Fo](https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM) | 3:29 | 2022-05-31 |  |
 | [SHISHIBROKE](https://open.spotify.com/track/6y4mDVEMke0cnfdTCApqlv) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [SHISHI Mixtape](https://open.spotify.com/album/3OOWyNrYPawBa9GJxbrwJY) | 3:04 | 2021-12-06 |  |
 | [Sicaria](https://open.spotify.com/track/54LJrBDBnR0ey6ggMFQycr) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Sicaria](https://open.spotify.com/album/4n0UgGMEt3tP7YsiQ9y6t4) | 4:19 | 2022-01-14 |  |
 | [SIENTA BIEN \(feat\. Laylow\)](https://open.spotify.com/track/5JO1TPAa7N23AAS82C3EER) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [SIENTA BIEN \(feat\. Laylow\)](https://open.spotify.com/album/6ayBfDc8QHTQaZZHn7P3wX) | 3:13 | 2022-04-22 |  |

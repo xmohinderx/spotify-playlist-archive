@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 209862,
       "name": "All For You",
       "url": "https://open.spotify.com/track/42Ay3l6BZVrViTWKjkrDHm"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
@@ -2309,7 +2309,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 206626,
       "name": "Oort Cloud",
       "url": "https://open.spotify.com/track/7bKcCs0Lvg00wFNkq3EPIx"
@@ -3010,6 +3010,24 @@
     },
     {
       "album": {
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO"
+      },
+      "artists": [
+        {
+          "name": "VICTON",
+          "url": "https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185093,
+      "name": "Stupid O'clock",
+      "url": "https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb"
+    },
+    {
+      "album": {
         "name": "suit dance (Japanese ver.)",
         "url": "https://open.spotify.com/album/4QyK8SwKJ34D1OalInnzqb"
       },
@@ -3412,6 +3430,24 @@
     },
     {
       "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/0YnjMov6t4vfn9MXA5A6KS"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205626,
+      "name": "VIVID",
+      "url": "https://open.spotify.com/track/24OueqbY3eTiKT5dHhL5WQ"
+    },
+    {
+      "album": {
         "name": "Voltage",
         "url": "https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D"
       },
@@ -3705,6 +3741,24 @@
       "duration_ms": 199209,
       "name": "You Problem",
       "url": "https://open.spotify.com/track/2rCPeuzBY9NEX9VNshkjmH"
+    },
+    {
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/6bzE9nsQ1rXWUCsRQ18toq"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196386,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t"
     },
     {
       "album": {

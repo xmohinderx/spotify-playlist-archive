@@ -2,7 +2,7 @@
 
 ### [Tirade](https://open.spotify.com/playlist/37i9dQZF1DWWXzA48d9shL)
 
-> 😈 😈 😈   new Freddie Dredd
+> 😈 😈 😈
 
 238 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 

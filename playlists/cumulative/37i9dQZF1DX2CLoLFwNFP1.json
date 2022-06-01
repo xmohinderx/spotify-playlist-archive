@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 261533,
       "name": "Abandoned",
       "url": "https://open.spotify.com/track/6J7mW499G85jploVoWC6Sr"
@@ -65,6 +65,28 @@
       "duration_ms": 219053,
       "name": "All Day (Flex)",
       "url": "https://open.spotify.com/track/0iNXcid1Ro7OLe4L6fFfLG"
+    },
+    {
+      "album": {
+        "name": "[Vol.65] You Hee yul's Sketchbook : 40th Voice 'Sketchbook X Jay Park (Feat. KIRIN))'",
+        "url": "https://open.spotify.com/album/01RCwPhFlKiGxRrZ4WpesT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Kirin",
+          "url": "https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183480,
+      "name": "All for you (Feat. KIRIN)",
+      "url": "https://open.spotify.com/track/2VO8V0IXfRrtDDx1gQIYOw"
     },
     {
       "album": {
@@ -263,7 +285,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 212613,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/6rcVWyTpx3BfTLEnvZcpPG"
@@ -355,7 +377,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 154573,
       "name": "Call You Bae",
       "url": "https://open.spotify.com/track/0pdKEjHWRpjnRD6jV9ztNf"
@@ -603,7 +625,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 410964,
       "name": "DNA Remix",
       "url": "https://open.spotify.com/track/64m44h2nTKmBczXoDkbErt"
@@ -753,7 +775,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 230414,
       "name": "Feature (feat. Cha Cha Malone)",
       "url": "https://open.spotify.com/track/5m86qdISRdAeksZ1pSzI5h"
@@ -813,7 +835,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 311548,
       "name": "Finish Line (feat. pH-1, Woodie Gochild, HAON, Avatar Darko & Sik-K) [Remix]",
       "url": "https://open.spotify.com/track/3gh8rXLkaid0YMZ1ou83gU"
@@ -879,7 +901,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 187200,
       "name": "Forget About Tomorrow",
       "url": "https://open.spotify.com/track/7yeEBr76JleM2dmp8gptXZ"
@@ -1016,6 +1038,28 @@
     },
     {
       "album": {
+        "name": "The Road Less Traveled",
+        "url": "https://open.spotify.com/album/7uIX1VIj6lQTjYuWfjCQ59"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Cha Cha Malone",
+          "url": "https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198413,
+      "name": "Get It All",
+      "url": "https://open.spotify.com/track/0zeHatOFpc0fmq7iKAUYkR"
+    },
+    {
+      "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/5cM3mwkY2LtliHAxEpErpf"
       },
@@ -1069,6 +1113,52 @@
       "duration_ms": 194120,
       "name": "Gotta Go",
       "url": "https://open.spotify.com/track/4ksXIRaFrV0HoH5sQvTs5z"
+    },
+    {
+      "album": {
+        "name": "The Road Less Traveled",
+        "url": "https://open.spotify.com/album/7uIX1VIj6lQTjYuWfjCQ59"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "King Leez",
+          "url": "https://open.spotify.com/artist/7LAMGzXAlzJNoiOPCeLwFh"
+        },
+        {
+          "name": "Anthony Danza",
+          "url": "https://open.spotify.com/artist/1iv5auxidV7z54WSyBsZzD"
+        },
+        {
+          "name": "Keem Hyo-Eun",
+          "url": "https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Geo",
+          "url": "https://open.spotify.com/artist/2Zz7w7kamAqqzkRTGOwkl0"
+        },
+        {
+          "name": "Chaboom",
+          "url": "https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG"
+        },
+        {
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432026,
+      "name": "GRAYGROUND Cypher",
+      "url": "https://open.spotify.com/track/6Onwr6vf4pPU2GnaYh0ygf"
     },
     {
       "album": {
@@ -1196,6 +1286,24 @@
     },
     {
       "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226156,
+      "name": "I Got This",
+      "url": "https://open.spotify.com/track/2sEdXujgc14Ievi5PYtnwG"
+    },
+    {
+      "album": {
         "name": "Dingo X H1GHR MUSIC",
         "url": "https://open.spotify.com/album/2t5fdLTQu0xX89rDf4NMNX"
       },
@@ -1274,6 +1382,28 @@
     },
     {
       "album": {
+        "name": "K-TOWN",
+        "url": "https://open.spotify.com/album/0djg1pfwluHDX41m0NLmdF"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123280,
+      "name": "K-TOWN",
+      "url": "https://open.spotify.com/track/4PBYhNbFFXPcwXYUCMUTeF"
+    },
+    {
+      "album": {
         "name": "This Wasn\u2019t Supposed To Happen",
         "url": "https://open.spotify.com/album/5OAxXcMZYsAxfTagsZ63vO"
       },
@@ -1289,7 +1419,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 123280,
       "name": "K-TOWN",
       "url": "https://open.spotify.com/track/4z1F9hBvsxIoHX2OREpM6w"
@@ -1315,7 +1445,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 211426,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/0hJjJg3JBczHIVNpyJxa28"
@@ -1337,7 +1467,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 243593,
       "name": "Limousine (feat. KRNFX)",
       "url": "https://open.spotify.com/track/0UpNm3c46jesrYrek1W3Qj"
@@ -1359,7 +1489,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 205384,
       "name": "Love My Life (feat. pH-1)",
       "url": "https://open.spotify.com/track/7l6FarN22mNhwRuFZAycQE"
@@ -1519,7 +1649,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 225266,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1VskUaJ6ZTU5aq8ss5zuSL"
@@ -1605,6 +1735,24 @@
       "duration_ms": 174374,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/7J0V5Ked9a4xBcjfnmA5kc"
+    },
+    {
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/6ZOOniV66m11wsEYkHQMoP"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201333,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/4kMXS2XB68eehCZjraNHaD"
     },
     {
       "album": {
@@ -1738,6 +1886,28 @@
     },
     {
       "album": {
+        "name": "Scene Stealers",
+        "url": "https://open.spotify.com/album/6eqexjjzD9jIMheYt4p5qP"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193224,
+      "name": "Put\u2019em Up",
+      "url": "https://open.spotify.com/track/3DJB6zXEvtACgqVFmCtiSX"
+    },
+    {
+      "album": {
         "name": "REBORN",
         "url": "https://open.spotify.com/album/2hDjVKHLLiCgkqe6unmyHm"
       },
@@ -1779,7 +1949,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 162440,
       "name": "Renaissance Man",
       "url": "https://open.spotify.com/track/66xP1tdDlyiJxSP3SffC5k"
@@ -1797,7 +1967,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 163531,
       "name": "Replay",
       "url": "https://open.spotify.com/track/6y4QxuBZiFSX8iKphnK3gt"
@@ -2179,7 +2349,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 214374,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3q7IOUrYa0hQZkhC1ZVFTS"
@@ -2197,7 +2367,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 216226,
       "name": "Touch the Sky (feat. The Quiett)",
       "url": "https://open.spotify.com/track/061TDKHDcaoDIRT3tt1uOx"
@@ -2271,7 +2441,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 221066,
       "name": "Twisted Dreams",
       "url": "https://open.spotify.com/track/3v6y9tirXfx6oGaPvn0qMh"
@@ -2621,7 +2791,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 274840,
       "name": "\ub108 \uc5c6\uc774 \uc548\ub3fc Without You",
       "url": "https://open.spotify.com/track/53XzliWxg6xdyoNdiVHcnx"
@@ -2749,7 +2919,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 240759,
       "name": "\uc62c\ub77c\ud0c0 Ride Me",
       "url": "https://open.spotify.com/track/4ZQD73SRpHdL2e1HM146ib"

@@ -430,6 +430,24 @@
     },
     {
       "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5HYN8soZop2qOtyuUnTobz"
+      },
+      "artists": [
+        {
+          "name": "LIGHTSUM",
+          "url": "https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "ALIVE",
+      "url": "https://open.spotify.com/track/1tjDKrtdCKtVCGEG35jqdI"
+    },
+    {
+      "album": {
         "name": "Point Of View: U",
         "url": "https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM"
       },
@@ -1283,6 +1301,32 @@
       "duration_ms": 204026,
       "name": "Broken Me",
       "url": "https://open.spotify.com/track/6PiOBvjLSb1UD9wtqwplUG"
+    },
+    {
+      "album": {
+        "name": "BTBT",
+        "url": "https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219549,
+      "name": "BTBT",
+      "url": "https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98"
     },
     {
       "album": {
@@ -6379,7 +6423,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 195893,
       "name": "O",
       "url": "https://open.spotify.com/track/7nsquDHI132iE793dXYNeW"
@@ -9111,7 +9155,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 196560,
       "name": "Too Bad",
       "url": "https://open.spotify.com/track/4Xv8foqi6HXnQURBR0FdAZ"

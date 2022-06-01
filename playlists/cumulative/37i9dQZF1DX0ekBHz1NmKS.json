@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 169697,
       "name": "30 personer",
       "url": "https://open.spotify.com/track/5w12yvSOPnFE3uD7IKN2ug"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 177713,
       "name": "94an",
       "url": "https://open.spotify.com/track/4E0SqGrKjIqlgzTEZU0Zbw"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 191980,
       "name": "Allt \u00e4r som det ska",
       "url": "https://open.spotify.com/track/37sOZJZ6K2OTwI2IWfEHKw"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 205933,
       "name": "Amazon",
       "url": "https://open.spotify.com/track/30QJyAyoVxj63NSr4zGXNg"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 155520,
       "name": "Belly Shots",
       "url": "https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 151210,
       "name": "Bergs slussar",
       "url": "https://open.spotify.com/track/41hvvom2OTDhkJXm66bWuj"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 179603,
       "name": "Bluffin",
       "url": "https://open.spotify.com/track/2Cyow8nZDqP9tolduIf2KX"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 209653,
       "name": "Boys We Chased",
       "url": "https://open.spotify.com/track/3pVSRJ6HUxdk9GFl4FTvmg"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 172086,
       "name": "B\u00e4sta Vi Gjort",
       "url": "https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO"
@@ -1884,6 +1884,24 @@
     },
     {
       "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/7uJvNL8aDRFMy4RX5tzkF4"
+      },
+      "artists": [
+        {
+          "name": "Victor Crone",
+          "url": "https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158115,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/7wMQv4MPz5WYqEbO4HWovW"
+    },
+    {
+      "album": {
         "name": "Dyrt",
         "url": "https://open.spotify.com/album/6qpmFXPgdrTnpqHPu6zj21"
       },
@@ -1913,7 +1931,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 161641,
       "name": "D\u00d6 F\u00d6R",
       "url": "https://open.spotify.com/track/35eTqDv5rQDQmBWePtbVf3"
@@ -2303,7 +2321,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 170040,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2kt6eZpklbhOPxAqkcNHYz"
@@ -2375,7 +2393,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 196506,
       "name": "F\u00e4rger",
       "url": "https://open.spotify.com/track/3l6vQCLlMS2Ljjf8FlVOZX"
@@ -2581,7 +2599,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 192626,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/12cm3pn2krN7RgN0pLlwtY"
@@ -2635,7 +2653,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 276110,
       "name": "Glittret",
       "url": "https://open.spotify.com/track/1flHUFk0tmQxAgCFcgg5NK"
@@ -2967,7 +2985,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 195173,
       "name": "Helan g\u00e5r",
       "url": "https://open.spotify.com/track/3VJHbBZSvktGfRIAW2aXch"
@@ -3249,7 +3267,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 219014,
       "name": "Hundratusen (feat. GAMMAL)",
       "url": "https://open.spotify.com/track/6cla7irIr3I99T63MGaPBR"
@@ -3311,7 +3329,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 192625,
       "name": "I don't talk about you",
       "url": "https://open.spotify.com/track/3hcvy3cCArM6NuU4iPTnLO"
@@ -3514,6 +3532,24 @@
     },
     {
       "album": {
+        "name": "OMR",
+        "url": "https://open.spotify.com/album/5U3yzxL13Rvj8uydja4ncH"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140613,
+      "name": "In The Sunrise",
+      "url": "https://open.spotify.com/track/23fsXHpRPkozkePmm8h3vG"
+    },
+    {
+      "album": {
         "name": "Ingen luft mellan oss",
         "url": "https://open.spotify.com/album/50pmFuV7ABGcA6cZz0Cqmt"
       },
@@ -3709,7 +3745,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 140470,
       "name": "Jag t\u00e4nker p\u00e5 dig",
       "url": "https://open.spotify.com/track/7E0J8zqH5QuPPpdhIUJM9X"
@@ -3965,7 +4001,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 174720,
       "name": "Konstig (F\u00f6rst\u00e5r mig inte p\u00e5 dig)",
       "url": "https://open.spotify.com/track/23CTXfKqXyz4QkEwCGONhz"
@@ -5023,7 +5059,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 202972,
       "name": "Notre-Dame",
       "url": "https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2"
@@ -5117,7 +5153,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 157124,
       "name": "N\u00e4r vinden bl\u00e5ser kallt",
       "url": "https://open.spotify.com/track/6YWDey7OfpF1UE6FD9aywI"
@@ -5237,7 +5273,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 221831,
       "name": "Old Bad Habit",
       "url": "https://open.spotify.com/track/5T3vJQMbv9q3NTdhJGzjdL"
@@ -5357,7 +5393,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 160385,
       "name": "Out of Love",
       "url": "https://open.spotify.com/track/5yHP1bh80YwdDX3fvKGVKA"
@@ -5411,7 +5447,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 173919,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/2CGSIAkgrchoFLl4YWS4ob"
@@ -5595,7 +5631,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 232682,
       "name": "Pyramids",
       "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
@@ -5649,7 +5685,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 189333,
       "name": "P\u00e5 L\u00e5tsas",
       "url": "https://open.spotify.com/track/6tmYCYP4Pszgn8gn03jMTj"
@@ -5801,6 +5837,24 @@
       "duration_ms": 184250,
       "name": "Rude Girl",
       "url": "https://open.spotify.com/track/5BIKxh0EVJnEQdP7Cn7XH6"
+    },
+    {
+      "album": {
+        "name": "Babydolls",
+        "url": "https://open.spotify.com/album/6HORbSOngRfgyMEqkBkqCi"
+      },
+      "artists": [
+        {
+          "name": "MOR",
+          "url": "https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187591,
+      "name": "Ruff Tuff",
+      "url": "https://open.spotify.com/track/7i3MKC9GHUqpnbM4DLhRGp"
     },
     {
       "album": {
@@ -5959,7 +6013,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 158750,
       "name": "Saknar inte dig",
       "url": "https://open.spotify.com/track/41YY53HdPEnmqu7qlDEp0Y"
@@ -6035,7 +6089,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 163000,
       "name": "Samma s\u00e4ng",
       "url": "https://open.spotify.com/track/5yFdISVlABQqdLHOuJ0CpN"
@@ -6053,7 +6107,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 178526,
       "name": "Santiago",
       "url": "https://open.spotify.com/track/2H4wjqbzWgCKEPPdk9tPqQ"
@@ -6251,7 +6305,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 222097,
       "name": "Shouldn't I Just Let You Know?",
       "url": "https://open.spotify.com/track/2GZLf3DXx22bnYA5nwSgCW"
@@ -7053,7 +7107,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 208608,
       "name": "S\u00e4g vad du vill",
       "url": "https://open.spotify.com/track/6YpOcenS6bCTx7JG1OBY7X"
@@ -7089,7 +7143,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 207142,
       "name": "Tar det som det kommer",
       "url": "https://open.spotify.com/track/1Di5aUgV5pLRQhn9w1rQSx"
@@ -7197,7 +7251,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 185458,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/7MYNQvmkh1tbXKKoZ20XG7"
@@ -7439,7 +7493,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 214062,
       "name": "Tilt",
       "url": "https://open.spotify.com/track/0eQadZfhWLntMvsEjYDRLk"
@@ -7649,7 +7703,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 152678,
       "name": "Used To",
       "url": "https://open.spotify.com/track/70QyATpmT1mt7JMeDzrInv"
@@ -7931,6 +7985,24 @@
       "duration_ms": 237013,
       "name": "Vill Ha Dig",
       "url": "https://open.spotify.com/track/4hMgZHTuFA6TJHIXTvU6A1"
+    },
+    {
+      "album": {
+        "name": "VINCENT VAN GOGH",
+        "url": "https://open.spotify.com/album/40HVvl2Bk1XoeN8kH2dmVL"
+      },
+      "artists": [
+        {
+          "name": "Neville",
+          "url": "https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153718,
+      "name": "VINCENT VAN GOGH",
+      "url": "https://open.spotify.com/track/6OX0wJBp76vVHprJhpwOCl"
     },
     {
       "album": {
@@ -8415,7 +8487,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 165405,
       "name": "Your Number",
       "url": "https://open.spotify.com/track/7FxCwTyHGx7zLXx92Nomj9"
@@ -8433,7 +8505,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 204880,
       "name": "Yours",
       "url": "https://open.spotify.com/track/1Ibc9R9cQTESTZjGorWtRT"
@@ -8487,7 +8559,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 170970,
       "name": "\u00c5h maj",
       "url": "https://open.spotify.com/track/5ybpiXNHx0H2FqAEOeUrwU"

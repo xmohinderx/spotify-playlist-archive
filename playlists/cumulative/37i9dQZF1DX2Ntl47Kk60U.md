@@ -4,14 +4,15 @@
 
 > Tara and Darcy's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-30 songs - 1 hr 36 min - not published yet
+31 songs - 1 hr 37 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Loving Feeling](https://open.spotify.com/track/7rWGO6nfsDwHTqYrHP9eSh) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB) | 1:32 | 2022-05-31 |  |
 | [Bang Bang Bang](https://open.spotify.com/track/62Tbkc4dhrraGN9tWrlssr) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Bang Bang Bang](https://open.spotify.com/album/7CgGvRhJBdcQDrCqAXLlyJ) | 2:22 | 2022-05-26 |  |
 | [Be By Your Side](https://open.spotify.com/track/2Om9dYuAMsw8jnCLpwVMhx) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Leave The Light On](https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY) | 4:54 | 2022-05-26 |  |
 | [Clearest Blue](https://open.spotify.com/track/0eozuFNutbnEbWKOvf4W86) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye \(Special Edition\)](https://open.spotify.com/album/6pcfjrxlkf7fk9irlvJUzG) | 3:53 | 2022-05-26 |  |
-| [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 | 2022-05-26 |  |
+| [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 | 2022-05-26 | 2022-06-01 |
 | [Encore](https://open.spotify.com/track/2tcnmgYdXZoTpCJGhWFTwf) | [Adiescar Chase](https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk) | [Heartstopper \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/2o3leUqps0lLmKlqfqzRW3) | 0:57 | 2022-05-26 |  |
 | [Flirting with Her](https://open.spotify.com/track/2kDTgtrBqoEWNrdYte9hSo) | [Sir Babygirl](https://open.spotify.com/artist/3Z9b1MnVKbJw8LpgQclsls) | [Crush on Me](https://open.spotify.com/album/2Nr6Y9RNI7eehIi4YeSZDu) | 3:50 | 2022-05-26 |  |
 | [Girlfriends](https://open.spotify.com/track/1cPNHoDgXMXajqgogNiWxa) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Tales From The Backseat](https://open.spotify.com/album/4lLoFuJDRHphqhX6FD2kTc) | 3:31 | 2022-05-26 |  |

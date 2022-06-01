@@ -114,6 +114,24 @@
     },
     {
       "album": {
+        "name": "Countdown To Extinction",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254773,
+      "name": "Captive Honour",
+      "url": "https://open.spotify.com/track/3hUTwUiS7H79Po2hnErd8H"
+    },
+    {
+      "album": {
         "name": "Killing Is My Business...And Business Is Good!",
         "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
       },
@@ -586,6 +604,24 @@
     },
     {
       "album": {
+        "name": "The World Needs a Hero",
+        "url": "https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239413,
+      "name": "Return to Hangar",
+      "url": "https://open.spotify.com/track/5ZpiBt0UnGmGT5sF0LjF7G"
+    },
+    {
+      "album": {
         "name": "Rust In Peace (Expanded Edition)",
         "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
       },
@@ -651,7 +687,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 195826,
       "name": "Skin O' My Teeth - Remastered",
       "url": "https://open.spotify.com/track/7EFho37SrizYaQ2NVxLejd"
@@ -885,7 +921,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 269933,
       "name": "Victory - Remastered 2004",
       "url": "https://open.spotify.com/track/4kPF8KNfCkQQkL22YoOJir"

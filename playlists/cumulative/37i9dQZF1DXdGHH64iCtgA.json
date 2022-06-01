@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 319493,
       "name": "1982",
       "url": "https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1"
@@ -85,6 +85,24 @@
       "duration_ms": 486760,
       "name": "Animosity - SOPHIE Remix",
       "url": "https://open.spotify.com/track/3fvl0xzlAeO52HpNUwtSsC"
+    },
+    {
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
     },
     {
       "album": {
@@ -169,7 +187,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 471123,
       "name": "Be Loved - Daniel Avery's'Divided Love'Remix",
       "url": "https://open.spotify.com/track/1POFzL0A1tDFkYgSNgcGUi"
@@ -549,7 +567,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 188600,
       "name": "Eat The Runway",
       "url": "https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf"
@@ -643,7 +661,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 362267,
       "name": "Fierce",
       "url": "https://open.spotify.com/track/6xbSap2nySRGj1XEptt4Tn"
@@ -759,7 +777,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 276960,
       "name": "Helix - Gesaffelstein Vision Remix",
       "url": "https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 319458,
       "name": "Italove",
       "url": "https://open.spotify.com/track/2upjPXCYscwhOgazz6Remz"
@@ -1245,10 +1263,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 233613,
       "name": "Lune est l'autre",
       "url": "https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ"
+    },
+    {
+      "album": {
+        "name": "Mount Everest",
+        "url": "https://open.spotify.com/album/0nkyBztSulCRM2vlPR2GF1"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157476,
+      "name": "Mount Everest",
+      "url": "https://open.spotify.com/track/18wCJcoFmXZ0jfrFhF6cYS"
     },
     {
       "album": {
@@ -1419,7 +1455,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 262327,
       "name": "Orvnge",
       "url": "https://open.spotify.com/track/0rG5nqOJMU8uEqq4RGC7oN"
@@ -1437,7 +1473,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 439490,
       "name": "Pain",
       "url": "https://open.spotify.com/track/13HYthybjhM3iyWcfl8VcN"
@@ -1673,7 +1709,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 512000,
       "name": "Sensation - (Rrose Remix)",
       "url": "https://open.spotify.com/track/6mXZitYdWnNeNx9t8waEc7"
@@ -1727,7 +1763,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 642653,
       "name": "Silhouettes (I, II, III)",
       "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
@@ -1785,7 +1821,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 187593,
       "name": "Sol",
       "url": "https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD"
@@ -1877,7 +1913,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 185625,
       "name": "Strut",
       "url": "https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD"
@@ -2087,7 +2123,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 317986,
       "name": "Traffic",
       "url": "https://open.spotify.com/track/7IUckluwamoou1fey8fVFj"
@@ -2135,7 +2171,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "U. - Junior Sanchez Remix",
       "url": "https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg"
@@ -2321,7 +2357,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 286080,
       "name": "Work It - Soulwax Remix",
       "url": "https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P"

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > Exciting artists on the RADAR from the Benelux and beyond\. Cover: MEAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,858 likes - 54 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,866 likes - 54 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Als Jij Maar Bij Me Bent](https://open.spotify.com/track/5AimUqVfhUXe1jCRanTK72) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Jij Maar Bij Me Bent](https://open.spotify.com/album/5feJik71vEqH5bSdktYTjq) | 2:40 |
+| 1 | [Tegen De Klippen Op](https://open.spotify.com/track/4mfJi6sHY0LjLARpYSLel3) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Tegen De Klippen Op](https://open.spotify.com/album/5GlSAiTCsD7DF8OUSN34tE) | 2:50 |
 | 2 | [chameleons](https://open.spotify.com/track/344QBfyJrOAKfDgZ8JkRvs) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [chameleons](https://open.spotify.com/album/0qVtwRqe3IYlKAVKf9TO6T) | 2:45 |
 | 3 | [Yuh \(Symphony In D Minor\)](https://open.spotify.com/track/3lUzn12RioxpKrRhsdUZwt) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 2](https://open.spotify.com/album/5CEj9bjGd1fAp2DRUcljmm) | 2:56 |
 | 4 | [Ten Onder](https://open.spotify.com/track/5BND52vo95M97WRJ4o7Jat) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ten Onder](https://open.spotify.com/album/3SlyGq2hf3mGf6kV1oU5CC) | 3:43 |
 | 5 | [Lost Souls](https://open.spotify.com/track/2rOYki5z6g9vuhz4vUQZgj) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Bully](https://open.spotify.com/artist/29ntaqCLHlZZ4X6KiW7mLm) | [Lost Souls](https://open.spotify.com/album/7mm4yycxxcymV0aIf9vlxH) | 2:37 |
 | 6 | [Zonder Gezicht](https://open.spotify.com/track/0KAqcZyd6eiKjyneZRmePT) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Uitzinnig](https://open.spotify.com/album/1uAimajt3zW6EGLIE83jnc) | 2:44 |
-| 7 | [Divide](https://open.spotify.com/track/6xAt3TGyEhAkWJsJggwA27) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV), [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [Divide](https://open.spotify.com/album/06Fh29APHSqF8pQvbxYy0W) | 3:34 |
+| 7 | [Divide \(feat\. Promis3\)](https://open.spotify.com/track/6xAt3TGyEhAkWJsJggwA27) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV), [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [Divide \(feat\. Promis3\)](https://open.spotify.com/album/06Fh29APHSqF8pQvbxYy0W) | 3:34 |
 | 8 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 |
 | 9 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 |
 | 10 | [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 53 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 |
 | 54 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
 
-Snapshot ID: `MTY1MzI1NjgwMCwwMDAwMDA0MjAwMDAwMTgwZWRjOGM3YTQwMDAwMDE4MGUxNWEzNWEz`
+Snapshot ID: `MTY1Mzk4NjU4NSwwMDAwMDA0MzAwMDAwMTgxMTk0ODZiMTgwMDAwMDE4MGUxNWEzNWEz`

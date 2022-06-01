@@ -6,6 +6,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92089,
+      "name": "A Loving Feeling",
+      "url": "https://open.spotify.com/track/7rWGO6nfsDwHTqYrHP9eSh"
+    },
+    {
+      "album": {
         "name": "Bang Bang Bang",
         "url": "https://open.spotify.com/album/7CgGvRhJBdcQDrCqAXLlyJ"
       },
@@ -71,7 +89,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 218053,
       "name": "Dover Beach",
       "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"

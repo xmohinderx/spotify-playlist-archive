@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 165853,
       "name": "Bangene",
       "url": "https://open.spotify.com/track/5zOPtrHceMJO6ydtLPvObb"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 173445,
       "name": "Can't Get Away from You",
       "url": "https://open.spotify.com/track/0s4Y8phoPkgGpDe6nFSMyA"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 173214,
       "name": "Caught Up (with Olivia O'Brien)",
       "url": "https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 142424,
       "name": "Come & Go (feat. Noa Angell)",
       "url": "https://open.spotify.com/track/7padHjTk36kNh0bFbpsJDf"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 138733,
       "name": "Don't You Wanna Play?",
       "url": "https://open.spotify.com/track/15hhlasuVIxEZ3O0PxlRkT"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 145609,
       "name": "Drunk On You",
       "url": "https://open.spotify.com/track/0myKfeH41EQVICDh5WThhl"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 188577,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/1MOalcOOazOcBdRuteCgIm"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 151935,
       "name": "Got You For Life",
       "url": "https://open.spotify.com/track/4kln9ecLNpOwjIiueHy7Yq"
@@ -1031,10 +1031,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 208505,
       "name": "Hallucinate",
       "url": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg"
+    },
+    {
+      "album": {
+        "name": "Happy Kids",
+        "url": "https://open.spotify.com/album/792bNRtVnNsqWfKSabIwgz"
+      },
+      "artists": [
+        {
+          "name": "John De Sohn",
+          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177209,
+      "name": "Happy Kids",
+      "url": "https://open.spotify.com/track/3nVJ4tGeLFR6HUiz3e7qAe"
     },
     {
       "album": {
@@ -1141,7 +1159,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
@@ -1383,7 +1401,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 208657,
       "name": "Is It Love",
       "url": "https://open.spotify.com/track/303r6bmyBvf5lpaR3CbaLm"
@@ -1559,7 +1577,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 160174,
       "name": "Knew That Second",
       "url": "https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt"
@@ -1775,7 +1793,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 176551,
       "name": "Love You Again (feat. Akua)",
       "url": "https://open.spotify.com/track/6DB1uu3VcQqV6rae4lWze8"
@@ -1937,7 +1955,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 169779,
       "name": "Nah (feat. Sinead Harnett)",
       "url": "https://open.spotify.com/track/1xaOhiFM7q5Yi2H1v5WUS2"
@@ -2253,7 +2271,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 173547,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/4PHDxMwPsCCb3FqbZW65qv"
@@ -2337,7 +2355,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 134584,
       "name": "Reaching Out",
       "url": "https://open.spotify.com/track/7KTcpv7wPJ4r6lR5SLzurh"
@@ -2701,7 +2719,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 145920,
       "name": "Steady for You",
       "url": "https://open.spotify.com/track/4d1itg8OaWVQ2e1xTnqGVy"
@@ -2829,7 +2847,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 204375,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/1I4gjXM9E0foe5szjxZRFf"
@@ -2873,7 +2891,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 158354,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"
@@ -3133,7 +3151,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 177653,
       "name": "Wild Ones - Nightcall Remix",
       "url": "https://open.spotify.com/track/5rUTxVxfvEA4wdEecWm7el"

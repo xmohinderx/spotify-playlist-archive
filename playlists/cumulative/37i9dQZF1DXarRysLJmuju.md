@@ -4,7 +4,7 @@
 
 > Keep up with all the latest pop hits\. Cover: Tate McRae
 
-321 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
+322 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [roses](https://open.spotify.com/track/3PmaqkHQLWpxKhSpo6yJip) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [roses](https://open.spotify.com/album/3UqQa5s6XDUlTxnM1wlGFd) | 3:09 | 2022-02-11 | 2022-05-07 |
 | [Run Away to Mars](https://open.spotify.com/track/6aPG4u5M2yzBbwABa6uGbo) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Talk to Me](https://open.spotify.com/album/01wqtcP9Kxgor1VDxTs0D1) | 3:33 | 2021-12-31 |  |
 | [Run to You](https://open.spotify.com/track/38LpvbIp9It4wkOYL9SVHM) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:36 | 2022-03-25 | 2022-04-29 |
+| [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-05-31 |  |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-07 | 2022-04-09 |
 | [Salt and Vinegar](https://open.spotify.com/track/1GsKftiCfhs00hbulNPHV1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Salt and Vinegar](https://open.spotify.com/album/3WvRrly2MB7uk6oEFzcA9E) | 3:15 | 2022-02-04 | 2022-04-02 |
 | [Same Place](https://open.spotify.com/track/67OFPtLYDiUqYVBihtfTUN) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Same Place](https://open.spotify.com/album/6qet6MfndKK4w0pBVsLduU) | 3:41 | 2022-03-04 | 2022-04-09 |

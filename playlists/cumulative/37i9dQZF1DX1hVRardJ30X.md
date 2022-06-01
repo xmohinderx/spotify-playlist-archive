@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Anuel AA
 
-1,264 songs - 2 day 19 hr 24 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+1,265 songs - 2 day 19 hr 27 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [El día menos pensado](https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [El día menos pensado](https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu) | 3:44 | 2022-01-07 | 2022-01-15 |
 | [El día pasa y no sé qué me pasa](https://open.spotify.com/track/5ttGYMAvTBB40U0hWdCrM7) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [El día pasa y no sé qué me pasa](https://open.spotify.com/album/2kZEEt8e3MXmIvK2VzGo5u) | 3:29 | 2022-04-01 | 2022-04-09 |
 | [El Día Que Me Quieras](https://open.spotify.com/track/2tYXqOwmOs1Lx6lUQaM2Mc) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [El Día Que Me Quieras](https://open.spotify.com/album/1QycfiMI1YAEorcLQImADn) | 4:11 | 2022-04-01 | 2022-04-09 |
-| [El Día Que Me Quieras](https://open.spotify.com/track/6Z35p0HLlziegfovv9KkT4) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Tango](https://open.spotify.com/album/1itx6yO99rGL8cYJGcxAMY) | 4:11 | 2022-05-27 |  |
+| [El Día Que Me Quieras](https://open.spotify.com/track/6Z35p0HLlziegfovv9KkT4) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Tango](https://open.spotify.com/album/1itx6yO99rGL8cYJGcxAMY) | 4:11 | 2022-05-27 | 2022-06-01 |
 | [El Fantasma](https://open.spotify.com/track/4Gqr2byRpTkarcyQ9Pye1h) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [El Fantasma](https://open.spotify.com/album/4gerOtayb9FjpowEUQgvz9) | 3:59 | 2022-05-06 | 2022-05-14 |
 | [El Fucking MVP](https://open.spotify.com/track/4bZe10GGfnMktu6OZlgnub) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [El Fucking MVP](https://open.spotify.com/album/5nrTy8lrAvz3a0f96CxEH4) | 3:00 | 2022-05-20 | 2022-05-28 |
 | [El Guayabera](https://open.spotify.com/track/4giNT87Q9HPykcT15UahLR) | [Los Shadows](https://open.spotify.com/artist/5TjnbTySBh5AUk66H9JQN3) | [El Guayabera](https://open.spotify.com/album/50OMFbA25GUCKetmOVbNaL) | 2:51 | 2022-05-13 | 2022-05-20 |
@@ -753,6 +753,7 @@
 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 | 2022-05-06 | 2022-05-14 |
 | [Nací Para Amarte](https://open.spotify.com/track/6EPVLVH60HAutxzxV4Tb6y) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Nací Para Amarte](https://open.spotify.com/album/01GhHCQsul9FkChZCfyW8V) | 4:32 | 2021-12-24 | 2022-01-08 |
 | [Nada](https://open.spotify.com/track/4ruyGzUmYFy0tanBBLCxHW) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Nada](https://open.spotify.com/album/6W5khuVvk083kMoTxM7GGY) | 3:53 | 2022-03-11 | 2022-03-18 |
+| [Nada](https://open.spotify.com/track/1RnvVS4OV3nbNxQ9uOnbTu) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Tango](https://open.spotify.com/album/1itx6yO99rGL8cYJGcxAMY) | 3:34 | 2022-05-31 |  |
 | [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 | 2022-03-04 | 2022-03-12 |
 | [Nada Tuyo](https://open.spotify.com/track/5KyC2wlH7acp95IFTQ2yLN) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Nada Tuyo](https://open.spotify.com/album/2XqvAoaxho6Ls0SyvRHxY8) | 3:26 | 2022-04-22 | 2022-04-29 |
 | [Nadie](https://open.spotify.com/track/5idykJt11B56B8XdeDg3Tj) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Nadie](https://open.spotify.com/album/3X4XwTnwuaxVKs0T2ZHi9D) | 3:32 | 2022-03-18 | 2022-03-26 |

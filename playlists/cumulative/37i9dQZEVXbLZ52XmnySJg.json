@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 108493,
       "name": "0 to 100",
       "url": "https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 199407,
       "name": "Atak Gaya - Arijit Singh",
       "url": "https://open.spotify.com/track/5WzfGg2ueNoOS5aIkaR9qX"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 254412,
       "name": "Brown Munde",
       "url": "https://open.spotify.com/track/1AueyZtYgEluDu54CfCSKy"
@@ -2341,7 +2341,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8"
@@ -2711,7 +2711,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 190153,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH"
@@ -4637,7 +4637,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 232258,
       "name": "Love Sick (feat. AR Paisley)",
       "url": "https://open.spotify.com/track/1skGwRjc7wYY70PJCAkKMr"
@@ -6983,7 +6983,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 247941,
       "name": "Shayad",
       "url": "https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL"
@@ -7156,6 +7156,24 @@
     },
     {
       "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/1p2HziuxqItJYONt8krJbF"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/1W1dS4VnIrYnllQJ3CAcZy"
+    },
+    {
+      "album": {
         "name": "Soch Liya (From \"Radhe Shyam\")",
         "url": "https://open.spotify.com/album/0WtqXJA0EiOtn2fEVOQAxq"
       },
@@ -7249,7 +7267,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 224072,
       "name": "Srivalli (From \"Pushpa The Rise Part - 01\")",
       "url": "https://open.spotify.com/track/7sVEoPc5ZUUQerRkgTypUZ"
@@ -7875,7 +7893,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-08-11",
+      "date_removed": null,
       "duration_ms": 209230,
       "name": "These Days (feat. Bohemia)",
       "url": "https://open.spotify.com/track/2zQE8TE5BQDJA11ggnope9"

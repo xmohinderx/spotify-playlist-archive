@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/6goMNKPoqFMhx8TkWz2475"
+      },
+      "artists": [
+        {
+          "name": "FERG",
+          "url": "https://open.spotify.com/artist/4WUnl8sNbzqlJPZkX3Psnl"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179512,
+      "name": "123",
+      "url": "https://open.spotify.com/track/3sdLbza2Dux2AIp3BXjSZL"
+    },
+    {
+      "album": {
         "name": "1990",
         "url": "https://open.spotify.com/album/6VajMzqk8hPSRupmSa4E7P"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 275500,
       "name": "BH",
       "url": "https://open.spotify.com/track/3PhFcC1MNjYnjrWKgtk4HX"
@@ -145,7 +163,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 185979,
       "name": "Blind Eye",
       "url": "https://open.spotify.com/track/2w0zUD1DqNNznSirUyOFlB"
@@ -163,7 +181,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 370779,
       "name": "Brotherhood",
       "url": "https://open.spotify.com/track/035qofHWoDag0pg1e8gY73"
@@ -235,7 +253,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 352947,
       "name": "Creation Dub",
       "url": "https://open.spotify.com/track/3jWZXDktZVgDelnDJx9DtO"
@@ -307,7 +325,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 348000,
       "name": "Don't You Forget About Me",
       "url": "https://open.spotify.com/track/1Dl0E86yorhNRMYZ20RIfY"
@@ -413,6 +431,24 @@
       "duration_ms": 420000,
       "name": "El Azul del Cielo - Mente Org\u00e1nica Remix",
       "url": "https://open.spotify.com/track/0J6AcQFq8RnR4jWYYZNPbm"
+    },
+    {
+      "album": {
+        "name": "Envelopes",
+        "url": "https://open.spotify.com/album/1A6VtF2OjVmEKErfTrNZYJ"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241346,
+      "name": "Envelopes (Chapter VI) - Edit",
+      "url": "https://open.spotify.com/track/3JDsYB8UxGbMQNnNlAeDL0"
     },
     {
       "album": {
@@ -605,7 +641,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 337736,
       "name": "Liquid",
       "url": "https://open.spotify.com/track/5PB690PLg0KTUTTqFExQkb"
@@ -689,7 +725,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 303706,
       "name": "Meo - Jacques Greene Remix",
       "url": "https://open.spotify.com/track/4xoQ8jM9JvjWNNC6bk3VZC"
@@ -837,7 +873,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 188750,
       "name": "Orange",
       "url": "https://open.spotify.com/track/0JIsc98iJvP4ySokSFFRY8"
@@ -909,7 +945,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 332379,
       "name": "Ry",
       "url": "https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB"
@@ -945,7 +981,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 332459,
       "name": "Silver - Original Mix",
       "url": "https://open.spotify.com/track/1Sitb65qvjW8eGNeUAgVqN"
@@ -1007,7 +1043,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 225506,
       "name": "Soft Yellow",
       "url": "https://open.spotify.com/track/7hwZbuE6lr35OLMqATaAUw"
@@ -1051,7 +1087,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 296304,
       "name": "Think About What You Love",
       "url": "https://open.spotify.com/track/6pSzOFRKPabWwBq0B3NgJ7"
@@ -1105,7 +1141,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 254864,
       "name": "Untethered",
       "url": "https://open.spotify.com/track/377mv3pv1Nday6pjadqEwr"
@@ -1123,7 +1159,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 355097,
       "name": "Walking In Circles",
       "url": "https://open.spotify.com/track/40m7Ext5J4Nxaky0rlXkNm"

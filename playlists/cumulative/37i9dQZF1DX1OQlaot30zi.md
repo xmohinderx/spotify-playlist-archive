@@ -2,9 +2,9 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Rhove, della Seven 7oo, di Salmo e tanti altri.
+> Sempre aggiornata\. Con nuovi brani di Rhove, Salmo, SEVEN 7oo e tanti altri.
 
-193 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
+194 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [G CLASS](https://open.spotify.com/track/2s2slPHRcUQSYsOrlNhN5c) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [G CLASS](https://open.spotify.com/album/5i8sSSUmC6NMJd70gLS4Hn) | 2:25 | 2022-05-19 |  |
 | [Game Over](https://open.spotify.com/track/6nEr0j277KIyZ6qDNny3zS) | [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5) | [Game Over](https://open.spotify.com/album/2IPSwV1oZ2V1mdZq157BiY) | 2:25 | 2022-05-26 |  |
 | [Gioco Sporco](https://open.spotify.com/track/3ft17pItgeF1wFt92GVI28) | [Lil Fabris](https://open.spotify.com/artist/6Pdf29AAm1uzY3ad2v546s), [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Dirty Mafia : Gioco Sporco](https://open.spotify.com/album/3TQPrDgjHHl5ErJCji6f5z) | 3:37 | 2022-05-10 | 2022-05-13 |
-| [Gioielleria Colombo](https://open.spotify.com/track/1ikGn3FDQFst0ZwSdjcSyn) | [MxRxGxA](https://open.spotify.com/artist/0mWyVQ7sv9hxOYcStan62M), [Montenero](https://open.spotify.com/artist/5oGHd7AZ8Sr05S5MP5SnYC), [Gionni Gioielli](https://open.spotify.com/artist/3mYX7vBPyawVDzf3ORen1z) | [Ligera Memories](https://open.spotify.com/album/5EZixxM0YWkKptyfMrnwlK) | 2:23 | 2022-05-19 |  |
+| [Gioielleria Colombo](https://open.spotify.com/track/1ikGn3FDQFst0ZwSdjcSyn) | [MxRxGxA](https://open.spotify.com/artist/0mWyVQ7sv9hxOYcStan62M), [Montenero](https://open.spotify.com/artist/5oGHd7AZ8Sr05S5MP5SnYC), [Gionni Gioielli](https://open.spotify.com/artist/3mYX7vBPyawVDzf3ORen1z) | [Ligera Memories](https://open.spotify.com/album/5EZixxM0YWkKptyfMrnwlK) | 2:23 | 2022-05-19 | 2022-06-01 |
 | [GIORNI VUOTI \(feat\. Tredici Pietro\)](https://open.spotify.com/track/6bmdpmDvAsgqzgdAUl8toi) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 3:28 | 2022-05-26 |  |
 | [GLORIA](https://open.spotify.com/track/4HoCHskLaChG5WQEYbjUew) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [GLORIA](https://open.spotify.com/album/1bHMxxRXGzttc6ClsSPBYH) | 2:46 | 2022-05-19 |  |
 | [GOODFELLAS](https://open.spotify.com/track/6NgmTL3J16M4Pd6dYzXFlh) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf), [Arden](https://open.spotify.com/artist/38PbHju77F8TBo3ByW4HiI) | [PAIN PARTY](https://open.spotify.com/album/72k7j2fiUIHpB8qCWbm75J) | 3:16 | 2022-05-12 | 2022-05-27 |
@@ -115,6 +115,7 @@
 | [LASCIAMI QUA](https://open.spotify.com/track/0MfBIsShZrcOmzj54jULh4) | [IVAN](https://open.spotify.com/artist/4aDeEL0SUzJZBZbNcVIt3l) | [LASCIAMI QUA](https://open.spotify.com/album/7kdAVeUJZIiluovsq1Bq54) | 2:12 | 2022-05-26 |  |
 | [Le Ultime Lacrime](https://open.spotify.com/track/4oX4byHbImE4WAM85RGUWN) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Dafa](https://open.spotify.com/artist/0XL3wakjeNxxacLlnGAqXv), [Ape](https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM) | [Le Ultime Lacrime](https://open.spotify.com/album/02cHJg3HsKxWID0dAXpy8m) | 3:30 | 2022-05-10 | 2022-05-13 |
 | [Lettera](https://open.spotify.com/track/6gleaLyaGxgCEJqu10ksXr) | [Samy](https://open.spotify.com/artist/1Cf2hOIUGwQ3INfXlfZkaD) | [Lettera](https://open.spotify.com/album/11qC4TTRIBWTLJVq1CdhyV) | 2:12 | 2022-05-19 | 2022-05-28 |
+| [LOCO](https://open.spotify.com/track/3lN2jXIlpMJETk3zzFkoAy) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sixpm](https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 2:17 | 2022-05-31 |  |
 | [MALA \(feat\. Lazza, Tony Effe, JVLI\)](https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [PLC tape 1](https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF) | 2:58 | 2022-05-10 | 2022-05-27 |
 | [Mamma](https://open.spotify.com/track/6vcAB2194y9j8iydtVORaa) | [Daxter](https://open.spotify.com/artist/7ml77C26I1LupIH1R4pEYa) | [Mamma](https://open.spotify.com/album/7fdVZZe4cWnexgBroWKfu7) | 3:12 | 2022-05-10 | 2022-05-13 |
 | [MAMMA](https://open.spotify.com/track/1RmZG2YcuNvxIjDXUvBKme) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [COSA NOSTRA](https://open.spotify.com/album/0QNI86lT5srJbTLWTWOnFH) | 2:30 | 2022-05-10 | 2022-05-20 |

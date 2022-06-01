@@ -119,7 +119,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 183724,
       "name": "25 ore RMX (feat. Ernia & Shablo)",
       "url": "https://open.spotify.com/track/0Q7Y2E8cj8uvNXI3hs9Mvc"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 170078,
       "name": "Allenamento #4",
       "url": "https://open.spotify.com/track/2CX0oyET6hQ6UfbtCZhTv7"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 183027,
       "name": "ALYX (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/5ifarM7jfplX1EqkqMHlDq"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 189867,
       "name": "Bottiglie Priv\u00e8",
       "url": "https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 205458,
       "name": "Calling My Phone",
       "url": "https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 165953,
       "name": "Chillin' Rmx (feat. Zano)",
       "url": "https://open.spotify.com/track/4bTMumc74NDYaiA6xx6sVv"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 220896,
       "name": "ELEGANTE (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/7qADAhkEs9vv3ll4hP8ybC"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 149610,
       "name": "ESCAPE PLAN",
       "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 243776,
       "name": "Eurovision (feat. Rondodasosa, Baby Gang, A2 Anti, Morad, Beny Jr, Ashe 22 & Freeze corleone)",
       "url": "https://open.spotify.com/track/4f5TKGvkD4TkTjr61GKNAG"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 154997,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 194053,
       "name": "Je ne sais pas (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0AGOXOfcDIRXwZtny26RDd"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 119492,
       "name": "LA CHIAVE - feat. Marracash",
       "url": "https://open.spotify.com/track/20Op27p3aV0WiaP7qOTlWP"
@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 116669,
       "name": "LAPROVINCE #2",
       "url": "https://open.spotify.com/track/3eBjQXQ5CuRaUbKXj9WIVJ"
@@ -1327,7 +1327,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 158117,
       "name": "Latest Trends",
       "url": "https://open.spotify.com/track/7pnQ23WgZca9jEfMts9qsR"
@@ -1401,10 +1401,36 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 129625,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/20XT7TO32dN1s9xtowLPuR"
+    },
+    {
+      "album": {
+        "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Sixpm",
+          "url": "https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137514,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/3lN2jXIlpMJETk3zzFkoAy"
     },
     {
       "album": {
@@ -1423,7 +1449,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 225541,
       "name": "Look Back at It (feat. CAPO PLAZA)",
       "url": "https://open.spotify.com/track/34Jnbbi34tPtYdutY5Pd6G"
@@ -1489,7 +1515,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "M' Manc (con Geolier & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9"
@@ -1785,7 +1811,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 122373,
       "name": "No wallet (feat. Marracash)",
       "url": "https://open.spotify.com/track/4vU79ET0F49d3bepSr0Aee"
@@ -1979,7 +2005,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 216827,
       "name": "Pelele",
       "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
@@ -2045,7 +2071,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 226652,
       "name": "Praise God",
       "url": "https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK"
@@ -2063,7 +2089,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 165925,
       "name": "RAPSTAR",
       "url": "https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6"
@@ -2245,7 +2271,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 130434,
       "name": "Smith & Wesson Freestyle (feat. Marracash)",
       "url": "https://open.spotify.com/track/596fQREtpVHWRl3xCmVhEM"
@@ -2323,6 +2349,28 @@
       "duration_ms": 211660,
       "name": "SOLITE PARE (feat. tha Supreme & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3NbehQmQsyuN17EP7dW5mJ"
+    },
+    {
+      "album": {
+        "name": "Spicy (feat. Post Malone)",
+        "url": "https://open.spotify.com/album/6FQ0GEiGndu9fXvW4FQvo0"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144027,
+      "name": "Spicy (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/5nWVyZaCwtfAkBnwDuXjBh"
     },
     {
       "album": {
@@ -2489,7 +2537,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 176000,
       "name": "Ti Levo Le Collane (feat. Paky)",
       "url": "https://open.spotify.com/track/48NEryJWd2W3T6V6yKHzz6"
@@ -2515,7 +2563,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 230388,
       "name": "Tik Tok (feat. Marracash & Gu\u00e8 Pequeno)",
       "url": "https://open.spotify.com/track/11jGgkrtDbYaKlN0y1nPbC"
@@ -2617,7 +2665,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 182473,
       "name": "Veleno 8 (feat. Gemitaiz)",
       "url": "https://open.spotify.com/track/06OBAy97uVyHCZvonvgfE2"
@@ -2639,6 +2687,32 @@
       "duration_ms": 133776,
       "name": "WALLAH",
       "url": "https://open.spotify.com/track/39CXkMn8AAFu3qwnZHJCNo"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257604,
+      "name": "Way 2 Sexy (with Future & Young Thug)",
+      "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
     },
     {
       "album": {

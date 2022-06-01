@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 146557,
       "name": "All Over Again - Radio-Edit",
       "url": "https://open.spotify.com/track/49MzBQ3UnIZNrF3fvcWOCm"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 183092,
       "name": "Bora",
       "url": "https://open.spotify.com/track/5HzFIsnKHQzt7hkIxGDy1D"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 194288,
       "name": "Feels Like Paradise",
       "url": "https://open.spotify.com/track/1kUoZXVgTMT9TakkZY6DZf"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 170322,
       "name": "Forever Young (feat. Emie)",
       "url": "https://open.spotify.com/track/15QfGsEb0CRfMl0L2EYHwk"
@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 208355,
       "name": "Hold U (feat. James Tone)",
       "url": "https://open.spotify.com/track/77iqZEJZEMZLt07rtpAnUw"
@@ -1463,7 +1463,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 160174,
       "name": "Knew That Second",
       "url": "https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt"
@@ -2363,7 +2363,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 178512,
       "name": "Rum & Cola",
       "url": "https://open.spotify.com/track/4YHhfMPAkYFiaIUcScCGnE"
@@ -2543,7 +2543,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 140902,
       "name": "September",
       "url": "https://open.spotify.com/track/2KDIFU4O8qjgydU5K33HUW"
@@ -2780,6 +2780,32 @@
     },
     {
       "album": {
+        "name": "The Best Part",
+        "url": "https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU"
+      },
+      "artists": [
+        {
+          "name": "gardenstate",
+          "url": "https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A"
+        },
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "The Best Part",
+      "url": "https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP"
+    },
+    {
+      "album": {
         "name": "The Girl From Ipanema",
         "url": "https://open.spotify.com/album/5SWdwrXdY8JeyxtnamN7mL"
       },
@@ -2897,7 +2923,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 154874,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/61CmIx1hiRH7VRcNb5cCY8"
@@ -3053,7 +3079,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 324063,
       "name": "Tschaka",
       "url": "https://open.spotify.com/track/7c5pAtAI2doDnsDD4SqMHG"
@@ -3140,6 +3166,28 @@
     },
     {
       "album": {
+        "name": "Wasteland (Ryan Riback Remix)",
+        "url": "https://open.spotify.com/album/3b7Wf8bUA2c3EsehrWLten"
+      },
+      "artists": [
+        {
+          "name": "Thunder Bae",
+          "url": "https://open.spotify.com/artist/2urVnN3dqfvm7e5z1jADT6"
+        },
+        {
+          "name": "Ryan Riback",
+          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155792,
+      "name": "Wasteland - Ryan Riback Remix",
+      "url": "https://open.spotify.com/track/0V31Yrhdhgz8styU838LAE"
+    },
+    {
+      "album": {
         "name": "Waves (feat. Grace Tither)",
         "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
       },
@@ -3191,7 +3239,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 192125,
       "name": "We\u2019re Good",
       "url": "https://open.spotify.com/track/0i5Cko9s2HbUq6KCNPAq13"
@@ -3261,7 +3309,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 170229,
       "name": "Without Your Love - sunsets & sandals Remix",
       "url": "https://open.spotify.com/track/78KQ0GVdHsDbv2ilNYSIBf"

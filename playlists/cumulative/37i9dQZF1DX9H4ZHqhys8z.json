@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 174720,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5QLUskZ5ufEH6HTcnHgOvB"
@@ -345,6 +345,24 @@
       "duration_ms": 223195,
       "name": "Eleni Ek Syrou",
       "url": "https://open.spotify.com/track/5BWPeGFyKhT0h8k3VHK2U6"
+    },
+    {
+      "album": {
+        "name": "Ta Pedika",
+        "url": "https://open.spotify.com/album/7fjGrTh2sNnjUApW5r5qVl"
+      },
+      "artists": [
+        {
+          "name": "Dimitra Galani",
+          "url": "https://open.spotify.com/artist/3nV0kq59WJOJRLNWpFR1m6"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112200,
+      "name": "Enas Ilios Me Gialia",
+      "url": "https://open.spotify.com/track/0fIoF5oDuhU0l0giW7jPU0"
     },
     {
       "album": {
@@ -602,6 +620,24 @@
     },
     {
       "album": {
+        "name": "I Monaksia Tou Enos Stous Dio",
+        "url": "https://open.spotify.com/album/3MrOP8hqDnQPkbuSSTDcMJ"
+      },
+      "artists": [
+        {
+          "name": "Despina Olympiou",
+          "url": "https://open.spotify.com/artist/30hCtgi8aveay3j5jdN5bI"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242200,
+      "name": "I Monaksia Tou Enos Stous Dio",
+      "url": "https://open.spotify.com/track/152AmfOxV8Vot03ePnNjSL"
+    },
+    {
+      "album": {
         "name": "Balancers",
         "url": "https://open.spotify.com/album/7MJzuIGTzYreNvfCEhZfWS"
       },
@@ -765,7 +801,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 194605,
       "name": "Koita Me",
       "url": "https://open.spotify.com/track/4CjX0qOTvodVLdeiHIyD0Q"
@@ -827,6 +863,24 @@
       "duration_ms": 197210,
       "name": "Korniza",
       "url": "https://open.spotify.com/track/3gZdHhpjrBtv3rKJ0d3zjJ"
+    },
+    {
+      "album": {
+        "name": "Kyma Mou",
+        "url": "https://open.spotify.com/album/1xdI1H6JvnVrSL1cEHCXTw"
+      },
+      "artists": [
+        {
+          "name": "Josephine",
+          "url": "https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187346,
+      "name": "Kyma Mou",
+      "url": "https://open.spotify.com/track/32X7TpNTqkDU5FcJpUCCMG"
     },
     {
       "album": {
@@ -902,6 +956,28 @@
     },
     {
       "album": {
+        "name": "Les Amants de Teruel",
+        "url": "https://open.spotify.com/album/51W23ChtyCU62GB0GFAEW7"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Koniak",
+          "url": "https://open.spotify.com/artist/7sjcFcVPtQ1Oi4j3g7VP30"
+        },
+        {
+          "name": "Mikis Theodorakis",
+          "url": "https://open.spotify.com/artist/58EvYFzDGAQOmBpIOxujnj"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194056,
+      "name": "Les Amants de Teruel",
+      "url": "https://open.spotify.com/track/3ut0zXxhXciVx6WKiGa2vq"
+    },
+    {
+      "album": {
         "name": "Loulaki",
         "url": "https://open.spotify.com/album/2AOsWsylidQFWKNds7eSnp"
       },
@@ -913,7 +989,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 314944,
       "name": "Loulaki",
       "url": "https://open.spotify.com/track/0Ef2p9uLJoKRIzq6khz70s"
@@ -1072,6 +1148,24 @@
     },
     {
       "album": {
+        "name": "Mykonos Kai Santorini",
+        "url": "https://open.spotify.com/album/7yrgtsgGeueaYZCagG8Xpx"
+      },
+      "artists": [
+        {
+          "name": "Elena Tsagrinou",
+          "url": "https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207490,
+      "name": "Mykonos Kai Santorini",
+      "url": "https://open.spotify.com/track/5NIe8MCNByrSM9Oi9Uoaqh"
+    },
+    {
+      "album": {
         "name": "Taxidi Astriko",
         "url": "https://open.spotify.com/album/2hIcrz91mewNvDufxl5y6r"
       },
@@ -1195,6 +1289,24 @@
       "duration_ms": 178280,
       "name": "Otan Sou Horevo",
       "url": "https://open.spotify.com/track/5yDKBJeLoBdRFcSClgSwiR"
+    },
+    {
+      "album": {
+        "name": "Otan Telionei Alli Mia Mera",
+        "url": "https://open.spotify.com/album/01VY1QMDQga4s7qZ5mCTVJ"
+      },
+      "artists": [
+        {
+          "name": "Melina Kana",
+          "url": "https://open.spotify.com/artist/77Guu62HL3rXrjqYJKhyVT"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244173,
+      "name": "Otan Telionei Alli Mia Mera",
+      "url": "https://open.spotify.com/track/5Lzbq6im0qoQu3f7vdCoKa"
     },
     {
       "album": {
@@ -1361,7 +1473,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 200593,
       "name": "Petalouda",
       "url": "https://open.spotify.com/track/0zrNr0xiEkxSpfIECYMkjy"
@@ -1426,6 +1538,24 @@
     },
     {
       "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/2IyGBIdgIsgcm9dyCcfiXS"
+      },
+      "artists": [
+        {
+          "name": "Amanda Tenfjord",
+          "url": "https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156837,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/0jPho2LunkMsoHerGdK9wX"
+    },
+    {
+      "album": {
         "name": "Poion Timoreis",
         "url": "https://open.spotify.com/album/4WQfBFhP3LAZZ3boRrgrQN"
       },
@@ -1473,7 +1603,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 183164,
       "name": "Savvatovrada",
       "url": "https://open.spotify.com/track/3xBhplDzLDMJxxmUrIJgjb"
@@ -1495,6 +1625,24 @@
       "duration_ms": 172812,
       "name": "Siga",
       "url": "https://open.spotify.com/track/62DTRjyInw978MmEsz2CuG"
+    },
+    {
+      "album": {
+        "name": "YENNA",
+        "url": "https://open.spotify.com/album/0rO6uiPCtDL4m6CMS0Y4X9"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182606,
+      "name": "SPIRTO KE VENZINI",
+      "url": "https://open.spotify.com/track/2CVq7d4qmSXAEBOiTrfUF5"
     },
     {
       "album": {
@@ -1725,7 +1873,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 137624,
       "name": "To tragoudi tou Vageli",
       "url": "https://open.spotify.com/track/7gXHDD6FqwUVsybycAbyJB"
@@ -1783,6 +1931,24 @@
       "duration_ms": 186335,
       "name": "Trelainomai",
       "url": "https://open.spotify.com/track/3FemPq9cpQEdTgGrXjV2aU"
+    },
+    {
+      "album": {
+        "name": "Tremo Olokliri",
+        "url": "https://open.spotify.com/album/0xhysb1Fg7TY09C9TMAoU1"
+      },
+      "artists": [
+        {
+          "name": "Eleni Hatzidou",
+          "url": "https://open.spotify.com/artist/6P6FzomDMeM5mwj5AHBaWl"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204047,
+      "name": "Tremo Olokliri",
+      "url": "https://open.spotify.com/track/7c0A3q1BpadCiA7ECdy8CO"
     },
     {
       "album": {
@@ -1855,7 +2021,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 233069,
       "name": "Vodka Vissino",
       "url": "https://open.spotify.com/track/32pGx4BcNxv16Xtj2vHMsV"
@@ -1873,7 +2039,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 144543,
       "name": "Wait No More",
       "url": "https://open.spotify.com/track/2RL7cyEnYih7ijPyFKrvOu"
@@ -1891,7 +2057,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 242624,
       "name": "Who Are They",
       "url": "https://open.spotify.com/track/5R4ByJnuX8FqBEnH7zq4rD"
@@ -1952,6 +2118,24 @@
     },
     {
       "album": {
+        "name": "You lost me",
+        "url": "https://open.spotify.com/album/1jvWYW3idKseTj9PzOoVI0"
+      },
+      "artists": [
+        {
+          "name": "Stefania",
+          "url": "https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192972,
+      "name": "You lost me",
+      "url": "https://open.spotify.com/track/7m0lZUGiKHlY6yhFyK1xc7"
+    },
+    {
+      "album": {
         "name": "Zo Ti Zoi",
         "url": "https://open.spotify.com/album/1irjXrOMLE9E7dlozwAq1K"
       },
@@ -1967,7 +2151,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 202140,
       "name": "Zo Ti Zoi",
       "url": "https://open.spotify.com/track/0qwTFZQJ6W1V2PeUTcNVIY"

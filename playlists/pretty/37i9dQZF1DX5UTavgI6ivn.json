@@ -1,12 +1,12 @@
 {
-  "description": "Este mensaje se lee \u201con repeat\u201d: Vota, vota, vota. \u00a1Dale play a tu voto!",
-  "num_followers": 469977,
-  "original_name": "Dale play a tu voto",
+  "description": "Representando la cultura con orgullo. \u00a1Celebramos los 20 a\u00f1os del legado de \"Un D\u00eda Normal\" de Juanes!",
+  "num_followers": 470056,
+  "original_name": "Made in Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NDU1NywwMDAwMDA5MDAwMDAwMTgxMGMwYzg5OGEwMDAwMDE4MTAyYjYwZWZh",
+  "snapshot_id": "MTY1NDAzNjg3NCwwMDAwMDA5MTAwMDAwMTgxMWM0N2M1MWMwMDAwMDE4MTFjNDcxMWVh",
   "tracks": [
     {
       "added_at": "2022-05-28 19:02:37",
@@ -23,6 +23,22 @@
       "duration_ms": 210200,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "added_at": "2022-05-28 19:02:37",
+      "album": {
+        "name": "Un D\u00eda Normal (20th Anniversary Remastered)",
+        "url": "https://open.spotify.com/album/1u6LVowYLLPQVSS2o67YyW"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 250680,
+      "name": "Es Por Ti - Remastered 2022",
+      "url": "https://open.spotify.com/track/3TfuiALDQLKQqqTirOLu4q"
     },
     {
       "added_at": "2022-05-28 19:02:37",
@@ -183,22 +199,6 @@
       "duration_ms": 207580,
       "name": "S\u00edganme los Buenos",
       "url": "https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD"
-    },
-    {
-      "added_at": "2022-05-28 19:02:37",
-      "album": {
-        "name": "Un D\u00eda Normal (20th Anniversary Remastered)",
-        "url": "https://open.spotify.com/album/1u6LVowYLLPQVSS2o67YyW"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 250680,
-      "name": "Es Por Ti - Remastered 2022",
-      "url": "https://open.spotify.com/track/3TfuiALDQLKQqqTirOLu4q"
     },
     {
       "added_at": "2022-05-28 19:02:37",
@@ -1769,6 +1769,6 @@
       "url": "https://open.spotify.com/track/1KqbEgwOZrAI36yBnGkZ94"
     }
   ],
-  "unique_name": "Dale play a tu voto",
+  "unique_name": "Made in Colombia",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5UTavgI6ivn"
 }

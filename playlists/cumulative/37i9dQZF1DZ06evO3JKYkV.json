@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 531426,
       "name": "#7",
       "url": "https://open.spotify.com/track/4Rjz6GjnEtG9upOBj6vGKK"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 318333,
       "name": "Cock/ver10",
       "url": "https://open.spotify.com/track/1ppw4aUaKKiY43tRMJD05h"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 262533,
       "name": "Come To Daddy (Pappy Mix)",
       "url": "https://open.spotify.com/track/53T0V3jTJDs3kIqwvlgspI"
@@ -582,6 +582,24 @@
     },
     {
       "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367053,
+      "name": "Icct Hedral",
+      "url": "https://open.spotify.com/track/74i6T5ax1LB1gBVhLg6q9d"
+    },
+    {
+      "album": {
         "name": "Come To Daddy",
         "url": "https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp"
       },
@@ -669,6 +687,24 @@
       "duration_ms": 255773,
       "name": "Nannou",
       "url": "https://open.spotify.com/track/3sUVNEHBQJSb4qRyQ4ahwK"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205186,
+      "name": "Nanou2",
+      "url": "https://open.spotify.com/track/6Wei2NUSG66WzLiqSuQAy5"
     },
     {
       "album": {
@@ -863,7 +899,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 258959,
       "name": "Wax The Nip",
       "url": "https://open.spotify.com/track/0c1b3R5dLgliHXXGLErT2O"

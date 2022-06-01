@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sempre aggiornata. Con nuovi brani di Rhove, della Seven 7oo, di Salmo e tanti altri.",
+  "description": "Sempre aggiornata. Con nuovi brani di Rhove, Salmo, SEVEN 7oo e tanti altri.",
   "name": "Novit\u00e0 Rap Italiano",
   "published_playlist_ids": [
     "7sfA9EX1ungjA32R4YoNij"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 143700,
       "name": "Gioielleria Colombo",
       "url": "https://open.spotify.com/track/1ikGn3FDQFst0ZwSdjcSyn"
@@ -2383,6 +2383,32 @@
       "duration_ms": 132371,
       "name": "Lettera",
       "url": "https://open.spotify.com/track/6gleaLyaGxgCEJqu10ksXr"
+    },
+    {
+      "album": {
+        "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Sixpm",
+          "url": "https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137514,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/3lN2jXIlpMJETk3zzFkoAy"
     },
     {
       "album": {

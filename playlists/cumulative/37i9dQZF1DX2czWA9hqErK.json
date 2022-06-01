@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 160500,
       "name": "10 Summers",
       "url": "https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo"
@@ -260,6 +260,24 @@
     },
     {
       "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/6OYva1symTcQGU5bPLtx5I"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185184,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/3oYuIcMNiEgy3HMX2BPUb2"
+    },
+    {
+      "album": {
         "name": "Worst Ways",
         "url": "https://open.spotify.com/album/7h5tazd3LMN0ApQUfzmYS7"
       },
@@ -361,7 +379,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 173470,
       "name": "Always Could",
       "url": "https://open.spotify.com/track/3RnsFAHevKdYMxGCFSyGsA"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 194282,
       "name": "Better Run",
       "url": "https://open.spotify.com/track/6EJURYbcv8JoFZ0yqnHkjQ"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 209533,
       "name": "Bring It On Home To Me",
       "url": "https://open.spotify.com/track/4cK40JCXX6jx1d1jlRuqjK"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 195790,
       "name": "By Now",
       "url": "https://open.spotify.com/track/04FvHQz6oc5RKmM6jcUrSU"
@@ -1245,7 +1263,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 199041,
       "name": "Crescent Moon",
       "url": "https://open.spotify.com/track/3mx9EbDkSUHiwn6ifsgwf8"
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 150320,
       "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 214306,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/2jA0WVcVDWXfbTdZeI0GsN"
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 211906,
       "name": "First Man On The Moon",
       "url": "https://open.spotify.com/track/25MnjM4TgUIaOEgDULq5H8"
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 212230,
       "name": "Fixing Me Breaking You",
       "url": "https://open.spotify.com/track/13ynOu7fZjOGBXBXPVmNjH"
@@ -2265,7 +2283,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 366004,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF"
@@ -2777,7 +2795,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 194047,
       "name": "Into The Fire",
       "url": "https://open.spotify.com/track/7BPNnaH7sze0E9U6iy1jNp"
@@ -3087,7 +3105,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 226116,
       "name": "Lies & Cheats",
       "url": "https://open.spotify.com/track/5CpAElXaFax1RVC8AU8dA4"
@@ -3213,7 +3231,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 238641,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/1iur4z7GfEuZjjo9MvKKkA"
@@ -3361,7 +3379,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 224278,
       "name": "Love is Pain",
       "url": "https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8"
@@ -3379,7 +3397,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 153373,
       "name": "Love on the Side",
       "url": "https://open.spotify.com/track/442gGJvRUQaUzl36zTNWEU"
@@ -3481,6 +3499,24 @@
       "duration_ms": 175240,
       "name": "Me & God",
       "url": "https://open.spotify.com/track/1WD6aPY8CH9ymhKFrySD5K"
+    },
+    {
+      "album": {
+        "name": "MEAN!",
+        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
+      },
+      "artists": [
+        {
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143957,
+      "name": "MEAN!",
+      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
     },
     {
       "album": {
@@ -3597,7 +3633,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 232991,
       "name": "Miserable Man",
       "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
@@ -3723,7 +3759,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 132122,
       "name": "my dear",
       "url": "https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni"
@@ -3867,7 +3903,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 189690,
       "name": "No Words",
       "url": "https://open.spotify.com/track/11Q0l1bZkmXJk3LStYGuAy"
@@ -4765,7 +4801,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Sober",
       "url": "https://open.spotify.com/track/1wKPXYDPDSO4czPZlyZffn"
@@ -5039,7 +5075,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 218920,
       "name": "Sugar Pink Moon",
       "url": "https://open.spotify.com/track/2XppuUtmSsMUx7eIQpbR5i"
@@ -5349,7 +5385,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 174194,
       "name": "Thorn",
       "url": "https://open.spotify.com/track/2Z4EHnGSbrOKvl2oKbNBot"
@@ -5367,7 +5403,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 232933,
       "name": "till you brought me home - demo",
       "url": "https://open.spotify.com/track/5YZXx9yMJKEEDAzmTJIIpm"
@@ -5533,7 +5569,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 251650,
       "name": "Uppercut",
       "url": "https://open.spotify.com/track/1haUfbbRNpakcYWnZ4o5sg"
@@ -5969,7 +6005,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 201264,
       "name": "Worst Ways",
       "url": "https://open.spotify.com/track/3Vyg7aVSl2vOMSSw5X11pD"
@@ -6113,7 +6149,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 186154,
       "name": "You Make Me Mad",
       "url": "https://open.spotify.com/track/5WyBmMS2qDyOz8O0OIQUY5"

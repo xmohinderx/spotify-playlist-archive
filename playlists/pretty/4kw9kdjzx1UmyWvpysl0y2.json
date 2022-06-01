@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128392,
+  "num_followers": 128393,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQzMyxhYzZiNTliNTA1MThiZDQyMWNjYzI3OGVmNGVhYTgzOTY1NzVkYzZh",
+  "snapshot_id": "MzQzNSxiNmQyYWRkNWE4OWUxMzcwNDc4ZmY0YjkwY2YzOTMwMTgwNzM1NDYx",
   "tracks": [
+    {
+      "added_at": "2022-05-31 16:19:53",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0cww0SjtI5q55VIb4QfUab"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1PkPBwTS8gyQJ5tjvsN1Vh"
+    },
     {
       "added_at": "2022-05-30 18:08:48",
       "album": {
@@ -1071,22 +1087,6 @@
       "duration_ms": 168073,
       "name": "Deja Reve",
       "url": "https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct"
-    },
-    {
-      "added_at": "2022-03-18 16:32:40",
-      "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/3xfdjH3nHygrPDO1TlVIOK"
-      },
-      "artists": [
-        {
-          "name": "Candyland",
-          "url": "https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

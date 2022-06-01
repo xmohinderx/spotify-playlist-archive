@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 116573,
       "name": "Action Replay",
       "url": "https://open.spotify.com/track/5So0Gqy5hxb82PuNzFBn6o"
@@ -144,6 +144,24 @@
     },
     {
       "album": {
+        "name": "TV Tunes",
+        "url": "https://open.spotify.com/album/0U9IU6jBVJec7PHQyM90QZ"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32821,
+      "name": "Best Endeavours (Channel 4 News Theme)",
+      "url": "https://open.spotify.com/track/068aXSL1gRfeVZoAEZ3Dzz"
+    },
+    {
+      "album": {
         "name": "Contemporary Contrasts",
         "url": "https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv"
       },
@@ -242,6 +260,28 @@
     },
     {
       "album": {
+        "name": "Contemporary Contrasts",
+        "url": "https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv"
+      },
+      "artists": [
+        {
+          "name": "Alan Parker",
+          "url": "https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214"
+        },
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181977,
+      "name": "Cool Cruiser",
+      "url": "https://open.spotify.com/track/5STTE3rxT5B8GpqoxBhmTO"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: The Road Forward",
         "url": "https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp"
       },
@@ -297,7 +337,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 232209,
       "name": "Dave Is Not Here",
       "url": "https://open.spotify.com/track/18LmkmkifrB5KQ9Wot8unF"
@@ -435,7 +475,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 83226,
       "name": "Grange Hill",
       "url": "https://open.spotify.com/track/2FKrc7YAbpLeWD2G08IRvC"
@@ -555,7 +595,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 154173,
       "name": "Man on the Move",
       "url": "https://open.spotify.com/track/40QHBWHk8P25QWIzZXjs1x"
@@ -577,7 +617,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 264352,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/5g8V7qpugfxt7rKyL7oEwB"
@@ -775,7 +815,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 180384,
       "name": "Original Mania",
       "url": "https://open.spotify.com/track/6hfhkHbprP0sPgIRCsyfZh"
@@ -815,7 +855,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 80600,
       "name": "Regent Street",
       "url": "https://open.spotify.com/track/6jONUb62DB6QS22Lk06FmB"
@@ -913,6 +953,46 @@
       "duration_ms": 179863,
       "name": "Soft Throttle",
       "url": "https://open.spotify.com/track/5US39IzkxO8nRi4wK9NHOV"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Soul Organ Showcase",
+        "url": "https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177426,
+      "name": "Soul Organ Impromptu",
+      "url": "https://open.spotify.com/track/7wRok4fwH4ygKr1AtrVFTF"
+    },
+    {
+      "album": {
+        "name": "The Kpm 1000 Series - Volume 1",
+        "url": "https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H"
+      },
+      "artists": [
+        {
+          "name": "Alan Parker",
+          "url": "https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214"
+        },
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77733,
+      "name": "Speed Speed Speed",
+      "url": "https://open.spotify.com/track/6KequWeuLVnMMf1engpVTa"
     },
     {
       "album": {
@@ -1043,7 +1123,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 169026,
       "name": "The Speed of Sound",
       "url": "https://open.spotify.com/track/5yXMM4OEaGIbrAXFmrYx9s"

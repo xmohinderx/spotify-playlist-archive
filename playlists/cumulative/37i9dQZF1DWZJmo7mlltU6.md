@@ -2,7 +2,7 @@
 
 ### [borderless](https://open.spotify.com/playlist/37i9dQZF1DWZJmo7mlltU6)
 
-> Beyond genre, beyond language, beyond borders\. Cover: Nu Genea
+> Beyond genre, beyond language, beyond borders\. Cover: HYBS
 
 256 songs - 14 hr 12 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
 

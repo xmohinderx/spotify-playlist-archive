@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u017deny v pln\u00e9 s\u00edle. Poslouchej EQUAL CZ&SK. Cover: Tereza Balonov\u00e1 ",
+  "description": "\u017deny v pln\u00e9 s\u00edle. Poslouchej EQUAL CZ&SK. Cover: Tea Sofia",
   "name": "EQUAL CZ&SK",
   "published_playlist_ids": [
     "0SBZE5WqIPIEhAB3YQXr14"
@@ -59,6 +59,24 @@
       "duration_ms": 203242,
       "name": "400 Miles",
       "url": "https://open.spotify.com/track/5CREOJS7dM2XYrHR9CLlyY"
+    },
+    {
+      "album": {
+        "name": "All My Pain",
+        "url": "https://open.spotify.com/album/6JAqDVVNtOybUte31lYIoy"
+      },
+      "artists": [
+        {
+          "name": "Sofie",
+          "url": "https://open.spotify.com/artist/04PFwMAplZyzOerV1UcDMw"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240129,
+      "name": "All My Pain",
+      "url": "https://open.spotify.com/track/0vmWpF1eBbIIGivF6Bj0cY"
     },
     {
       "album": {
@@ -131,6 +149,28 @@
       "duration_ms": 158403,
       "name": "Babi\u010dka",
       "url": "https://open.spotify.com/track/6brcN6QHs2PJTbXNbKZ92H"
+    },
+    {
+      "album": {
+        "name": "Baggy",
+        "url": "https://open.spotify.com/album/4B0DunLLWMPrBzVshSFCcM"
+      },
+      "artists": [
+        {
+          "name": "Sawsane",
+          "url": "https://open.spotify.com/artist/4RqCdNHpABy3V9tfKsf5QG"
+        },
+        {
+          "name": "Hoodini",
+          "url": "https://open.spotify.com/artist/44yW8xgEVHLSHJRePqLIhw"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Baggy",
+      "url": "https://open.spotify.com/track/4EzbWeK6oI75PfoWFBB3tB"
     },
     {
       "album": {
@@ -268,6 +308,24 @@
     },
     {
       "album": {
+        "name": "Different Kind",
+        "url": "https://open.spotify.com/album/3eAjTqG1LTOQMsJxQezFmh"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kingston",
+          "url": "https://open.spotify.com/artist/3AQCll40tEdIjzCdEOQHXQ"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192270,
+      "name": "Different Kind",
+      "url": "https://open.spotify.com/track/6pUQYrkUf9G8MXdEMOW4pr"
+    },
+    {
+      "album": {
         "name": "Dw About Me",
         "url": "https://open.spotify.com/album/5dg7kVLoiLciidyIkrT2yD"
       },
@@ -304,6 +362,24 @@
     },
     {
       "album": {
+        "name": "D\u00edvej se na m\u011b",
+        "url": "https://open.spotify.com/album/00jRIMoRhtotG3VXTUyKxy"
+      },
+      "artists": [
+        {
+          "name": "Tereza Ma\u0161kov\u00e1",
+          "url": "https://open.spotify.com/artist/4m4vkJiLg3nbmwdxySeIVC"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173658,
+      "name": "D\u00edvej se na m\u011b",
+      "url": "https://open.spotify.com/track/6OKl82jaG9474QrMrcyKJ4"
+    },
+    {
+      "album": {
         "name": "D\u00fdchej",
         "url": "https://open.spotify.com/album/26l9zfmunPEcfiiwYoznfd"
       },
@@ -333,10 +409,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 201500,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/5aCbxCgeHSNYn4LvhgKY6i"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/0BSuUv2ALCsR9qRuezKBta"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/1LibaIG9U6IplTTf9XMeNV"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181717,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2IM4jGJBmbyG5CpxxYLupg"
     },
     {
       "album": {
@@ -431,7 +525,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 156831,
       "name": "Hlavolamy",
       "url": "https://open.spotify.com/track/0mZaxziywLliqJQ0rp6uXG"
@@ -467,7 +561,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 180866,
       "name": "Hv\u011bzdy",
       "url": "https://open.spotify.com/track/5aLbBRryiQMXIS2ynsPeVE"
@@ -503,7 +597,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 133745,
       "name": "I'll See You In The Next Life",
       "url": "https://open.spotify.com/track/2cWiSlDby0VTldzK7j6wwP"
@@ -539,7 +633,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 168000,
       "name": "IMMA BE",
       "url": "https://open.spotify.com/track/64GCdK3N6zXabQjYDJ1cWy"
@@ -579,7 +673,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 176000,
       "name": "Jazero",
       "url": "https://open.spotify.com/track/2NLTNNTLrlIunoHr8KsnUb"
@@ -597,7 +691,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 179500,
       "name": "Jezinky (acapela)",
       "url": "https://open.spotify.com/track/4XGxWLRQWGfsW3IA1ggJf3"
@@ -676,6 +770,24 @@
     },
     {
       "album": {
+        "name": "Kancel\u00e1\u0159",
+        "url": "https://open.spotify.com/album/7GhVvSQAUYJblb40MZzD4w"
+      },
+      "artists": [
+        {
+          "name": "Annie",
+          "url": "https://open.spotify.com/artist/67IQhB57JST5EyO2UrLssN"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168934,
+      "name": "Kancel\u00e1\u0159",
+      "url": "https://open.spotify.com/track/6IuzpgMwwyRXhUJgiVGZmu"
+    },
+    {
+      "album": {
         "name": "Ka\u017ed\u00e1 z n\u00e1s",
         "url": "https://open.spotify.com/album/2LnOCuZCOMnmIKuqp5BCNd"
       },
@@ -687,7 +799,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 187200,
       "name": "Ka\u017ed\u00e1 z n\u00e1s",
       "url": "https://open.spotify.com/track/5vdAfclJ9hvFP2AYgmBlQT"
@@ -753,7 +865,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 222598,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/4aNNkD2DuKkq2xT074awc6"
@@ -836,6 +948,24 @@
     },
     {
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/4Pen6SsIm16MyloWxz8sVa"
+      },
+      "artists": [
+        {
+          "name": "Vesna",
+          "url": "https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208813,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6NIuXestFEmZo0BhK0Sfeb"
+    },
+    {
+      "album": {
         "name": "Lust For Desire",
         "url": "https://open.spotify.com/album/1mo8FbKEzqEOFahYHXH2sk"
       },
@@ -873,6 +1003,24 @@
       "duration_ms": 173133,
       "name": "MAJSA",
       "url": "https://open.spotify.com/track/6iSuFJfbMvQ6rqFPuD2KsQ"
+    },
+    {
+      "album": {
+        "name": "MAYDAY",
+        "url": "https://open.spotify.com/album/1eIrksNTkaNohbkh8kNuCh"
+      },
+      "artists": [
+        {
+          "name": "Jasmin",
+          "url": "https://open.spotify.com/artist/5m53CoCQ0bkn6L4vHvtn80"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163520,
+      "name": "MAYDAY",
+      "url": "https://open.spotify.com/track/4JX0m4HeEP7J8S1x3WgtkD"
     },
     {
       "album": {
@@ -1075,7 +1223,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 211941,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/3lsBhGXCLlNaoN4j1addpV"
@@ -1093,7 +1241,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 205000,
       "name": "O\u010di",
       "url": "https://open.spotify.com/track/3Mqmll2zjEj2vArurOtewp"
@@ -1140,6 +1288,24 @@
     },
     {
       "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/0bjJx4LVb3aTNZJ983FeeN"
+      },
+      "artists": [
+        {
+          "name": "Elly",
+          "url": "https://open.spotify.com/artist/58SiiPGMtAPMaQyNkn9Fbs"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "People",
+      "url": "https://open.spotify.com/track/5L0eYOxlLlXXWtHMk6IPyR"
+    },
+    {
+      "album": {
         "name": "Personal Darkness",
         "url": "https://open.spotify.com/album/3LJVId1DQcgbYO3u2lMZws"
       },
@@ -1155,6 +1321,42 @@
       "duration_ms": 154670,
       "name": "Personal Darkness",
       "url": "https://open.spotify.com/track/5GuX8sMyN1VvUJnkPQ21VP"
+    },
+    {
+      "album": {
+        "name": "Pohoda jazz",
+        "url": "https://open.spotify.com/album/3IrYmzYAiUT9C6JkzdDmp3"
+      },
+      "artists": [
+        {
+          "name": "Naty Hrychov\u00e1",
+          "url": "https://open.spotify.com/artist/3IdBTyWXb31wzm0OYIZVP3"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Pohoda jazz",
+      "url": "https://open.spotify.com/track/76FKtbVayqE0BXUCm2j0rm"
+    },
+    {
+      "album": {
+        "name": "poison apple",
+        "url": "https://open.spotify.com/album/0503sn6ndSGtlyFMAgV1VX"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169076,
+      "name": "poison apple",
+      "url": "https://open.spotify.com/track/2ywOgBurj2fsaRBMkFKVYp"
     },
     {
       "album": {
@@ -1227,6 +1429,28 @@
       "duration_ms": 196513,
       "name": "P\u016flnoc",
       "url": "https://open.spotify.com/track/4A9L4HX1otUuiE6ZX1eJuu"
+    },
+    {
+      "album": {
+        "name": "Ri\u0165",
+        "url": "https://open.spotify.com/album/6sTXyVWd5op4bDeWiXhn0K"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        },
+        {
+          "name": "Tina",
+          "url": "https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179649,
+      "name": "Ri\u0165",
+      "url": "https://open.spotify.com/track/7kwdDoDDM9yon6fA7PqToJ"
     },
     {
       "album": {
@@ -1379,7 +1603,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 215000,
       "name": "Slobodn\u00e1",
       "url": "https://open.spotify.com/track/2bMZhixpG9IWJsKiQjN4Fb"
@@ -1401,6 +1625,24 @@
       "duration_ms": 338079,
       "name": "Slow",
       "url": "https://open.spotify.com/track/73hWEDICEG0qtXFt8tvHYq"
+    },
+    {
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/75djwwayaWWclbockwD90I"
+      },
+      "artists": [
+        {
+          "name": "Maella",
+          "url": "https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166268,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/5EpD11MggncJ9ktRIpfEp4"
     },
     {
       "album": {
@@ -1495,7 +1737,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 284124,
       "name": "THINGS",
       "url": "https://open.spotify.com/track/2htyExlBInYjE6vp4dnM9P"
@@ -1531,7 +1773,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 135000,
       "name": "TWICE",
       "url": "https://open.spotify.com/track/1uKzDQGOo1NHHlgJex5T3X"
@@ -1643,7 +1885,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 180973,
       "name": "visions",
       "url": "https://open.spotify.com/track/4mOaNoSyocxfaWKvC2b1oU"
@@ -1741,6 +1983,24 @@
       "duration_ms": 154628,
       "name": "worms",
       "url": "https://open.spotify.com/track/2gZPnIg5c7lZ5EcPgIqMLB"
+    },
+    {
+      "album": {
+        "name": "Z dver\u00ed do dver\u00ed",
+        "url": "https://open.spotify.com/album/3YQQVE5fSKrCvhr5B5cd4y"
+      },
+      "artists": [
+        {
+          "name": "JANA A JA",
+          "url": "https://open.spotify.com/artist/5FecktDzLZJ73dHCG5MNWc"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236969,
+      "name": "Z dver\u00ed do dver\u00ed",
+      "url": "https://open.spotify.com/track/0B3dHQwqwIroUXaUbAICsW"
     },
     {
       "album": {
@@ -1885,7 +2145,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 152405,
       "name": "\u010casy se m\u011bn\u00ed",
       "url": "https://open.spotify.com/track/4atsam3P3ITpW0gkb6ogX4"

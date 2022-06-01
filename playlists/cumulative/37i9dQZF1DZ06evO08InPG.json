@@ -222,6 +222,24 @@
     },
     {
       "album": {
+        "name": "Civil Unrest",
+        "url": "https://open.spotify.com/album/42eklVVP8Eosdti7osH01B"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299180,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/3niNvr5rU58SPKdtGeMSJD"
+    },
+    {
+      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
       },
@@ -359,7 +377,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 322493,
       "name": "Days Turn Blue to Gray",
       "url": "https://open.spotify.com/track/5vcJjOhRZvSQ3w06CXNpqS"

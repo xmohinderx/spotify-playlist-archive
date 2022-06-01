@@ -322,6 +322,28 @@
     },
     {
       "album": {
+        "name": "GHIR BLACH",
+        "url": "https://open.spotify.com/album/41BXgKi4Ad4ZZ6dgYB5yG0"
+      },
+      "artists": [
+        {
+          "name": "Ayoub Hattab",
+          "url": "https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3"
+        },
+        {
+          "name": "Cameleon",
+          "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230171,
+      "name": "GHIR BLACH",
+      "url": "https://open.spotify.com/track/0R3Y8nj4PvdAAOcxEkBaPE"
+    },
+    {
+      "album": {
         "name": "GRAND CASABLANCA",
         "url": "https://open.spotify.com/album/7eKFo8B2iSBV9KMZ7rqKsY"
       },

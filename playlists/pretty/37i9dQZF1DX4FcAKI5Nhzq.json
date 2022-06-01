@@ -1,13 +1,37 @@
 {
   "description": "Future K-Pop hits! Cover: KANGDANIEL",
-  "num_followers": 680430,
+  "num_followers": 680640,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzM4NjcyNiwwMDAwMDI2MzAwMDAwMTgwZjU4NzRjNWUwMDAwMDE4MGY1ODZlOGI5",
+  "snapshot_id": "MTY1Mzk4MTcyMywwMDAwMDI2NDAwMDAwMTgxMThmZTNjNGQwMDAwMDE4MGY1ODZlOGI5",
   "tracks": [
+    {
+      "added_at": "2022-05-31 07:22:03",
+      "album": {
+        "name": "BTBT",
+        "url": "https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 219549,
+      "name": "BTBT",
+      "url": "https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98"
+    },
     {
       "added_at": "2022-05-24 10:05:26",
       "album": {
@@ -57,20 +81,36 @@
       "url": "https://open.spotify.com/track/2afNmSvxjRvXw3Fqm9qWfK"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-05-31 07:22:03",
       "album": {
-        "name": "BASEMENT BOY",
-        "url": "https://open.spotify.com/album/2YrodBLR3JJF6EUh88yZVf"
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5HYN8soZop2qOtyuUnTobz"
       },
       "artists": [
         {
-          "name": "DEMIAN",
-          "url": "https://open.spotify.com/artist/6DNTezBmjBm68oYPCENCcA"
+          "name": "LIGHTSUM",
+          "url": "https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t"
         }
       ],
-      "duration_ms": 188360,
-      "name": "BASEMENT BOY",
-      "url": "https://open.spotify.com/track/6y8Q8DMl5HLi16tTyh4aDt"
+      "duration_ms": 186240,
+      "name": "ALIVE",
+      "url": "https://open.spotify.com/track/1tjDKrtdCKtVCGEG35jqdI"
+    },
+    {
+      "added_at": "2022-05-24 10:05:26",
+      "album": {
+        "name": "Drive to the Starry Road",
+        "url": "https://open.spotify.com/album/5yFMVUSwNR0qAtEW78nDj0"
+      },
+      "artists": [
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
+        }
+      ],
+      "duration_ms": 169253,
+      "name": "Candy Sugar Pop",
+      "url": "https://open.spotify.com/track/767gRjedAWnbUer6ARRS8d"
     },
     {
       "added_at": "2022-05-24 10:05:26",
@@ -91,18 +131,18 @@
     {
       "added_at": "2022-05-24 10:05:26",
       "album": {
-        "name": "Drive to the Starry Road",
-        "url": "https://open.spotify.com/album/5yFMVUSwNR0qAtEW78nDj0"
+        "name": "BASEMENT BOY",
+        "url": "https://open.spotify.com/album/2YrodBLR3JJF6EUh88yZVf"
       },
       "artists": [
         {
-          "name": "ASTRO",
-          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
+          "name": "DEMIAN",
+          "url": "https://open.spotify.com/artist/6DNTezBmjBm68oYPCENCcA"
         }
       ],
-      "duration_ms": 169253,
-      "name": "Candy Sugar Pop",
-      "url": "https://open.spotify.com/track/767gRjedAWnbUer6ARRS8d"
+      "duration_ms": 188360,
+      "name": "BASEMENT BOY",
+      "url": "https://open.spotify.com/track/6y8Q8DMl5HLi16tTyh4aDt"
     },
     {
       "added_at": "2022-05-24 10:05:26",
@@ -679,22 +719,6 @@
     {
       "added_at": "2022-05-24 10:05:26",
       "album": {
-        "name": "SERIES 'O' [ROUND 0 : WHO]",
-        "url": "https://open.spotify.com/album/34GI950XouNDFSO7BpEfzk"
-      },
-      "artists": [
-        {
-          "name": "VERIVERY",
-          "url": "https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc"
-        }
-      ],
-      "duration_ms": 195893,
-      "name": "O",
-      "url": "https://open.spotify.com/track/7nsquDHI132iE793dXYNeW"
-    },
-    {
-      "added_at": "2022-05-24 10:05:26",
-      "album": {
         "name": "Midnight Guest",
         "url": "https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR"
       },
@@ -807,22 +831,6 @@
       "duration_ms": 222849,
       "name": "Can't Stop This Party",
       "url": "https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc"
-    },
-    {
-      "added_at": "2022-05-24 10:05:26",
-      "album": {
-        "name": "Love Pt.1 : First Love",
-        "url": "https://open.spotify.com/album/77eiNb82HouMWEiK2xe3sp"
-      },
-      "artists": [
-        {
-          "name": "WEi",
-          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/4Xv8foqi6HXnQURBR0FdAZ"
     },
     {
       "added_at": "2022-05-24 10:05:26",

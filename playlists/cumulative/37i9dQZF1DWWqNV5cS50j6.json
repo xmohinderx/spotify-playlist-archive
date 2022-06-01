@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 181995,
       "name": "AGAIN.",
       "url": "https://open.spotify.com/track/2knqxjt5zHq0So8l619O88"
@@ -1081,7 +1081,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 211668,
       "name": "Baby Boy",
       "url": "https://open.spotify.com/track/5K7dEG6yDQ981HO7kFMVqm"
@@ -5871,7 +5871,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 124000,
       "name": "FWM2",
       "url": "https://open.spotify.com/track/3eNwP64oXiB9xXIZMCFQ8v"
@@ -6273,7 +6273,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 313935,
       "name": "Going Thru",
       "url": "https://open.spotify.com/track/1G1zhTPT7ZlgZHsyjelcQg"
@@ -7843,7 +7843,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 183941,
       "name": "I'm Just A Fan",
       "url": "https://open.spotify.com/track/53yFY7gXPnSk05ME87QL5D"
@@ -9051,7 +9051,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 106500,
       "name": "LIGHTSABER",
       "url": "https://open.spotify.com/track/7n82szIF7Eh2kNQoOATAhG"
@@ -9785,7 +9785,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 202000,
       "name": "MARINE",
       "url": "https://open.spotify.com/track/5O6890xm1qwbbmg2pTn5V6"
@@ -10753,7 +10753,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 164925,
       "name": "Nevermind It To Hell",
       "url": "https://open.spotify.com/track/60m9qQoMAu3KfPg3YxqyHG"
@@ -12693,7 +12693,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 152803,
       "name": "Purple Hair Dye",
       "url": "https://open.spotify.com/track/63zZajPo4ziWBwQ4utUZpW"
@@ -15822,6 +15822,24 @@
     },
     {
       "album": {
+        "name": "THANKFUL",
+        "url": "https://open.spotify.com/album/60DhTSI5wDl9jbNCQcIPqU"
+      },
+      "artists": [
+        {
+          "name": "454",
+          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181133,
+      "name": "THANKFUL",
+      "url": "https://open.spotify.com/track/37jO4vIbJe4tmsPb38UnAC"
+    },
+    {
+      "album": {
         "name": "That's How It Goes",
         "url": "https://open.spotify.com/album/1iD5mzAZinCQdO5PEokzzw"
       },
@@ -17283,7 +17301,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 177064,
       "name": "Vest & Boxers",
       "url": "https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o"

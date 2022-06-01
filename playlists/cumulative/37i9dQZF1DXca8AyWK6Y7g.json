@@ -1391,7 +1391,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 174088,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/3MJSu8SbYVcRRfi5faaMQd"
@@ -2025,7 +2025,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 163504,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/4f0HrumuDOiNdzXRGKq5yB"
@@ -2383,7 +2383,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 140733,
       "name": "boomerang",
       "url": "https://open.spotify.com/track/4EHeLkvI4zxD0lcsM2s4b6"
@@ -2545,7 +2545,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 184789,
       "name": "breakup song",
       "url": "https://open.spotify.com/track/0UzEXxCeUvdARQhCpbR3EI"
@@ -2727,7 +2727,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 169866,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/6fv3KtQp4WKtUfgPCGsqwb"
@@ -2877,6 +2877,24 @@
       "duration_ms": 164154,
       "name": "Callgirl",
       "url": "https://open.spotify.com/track/7ALLv4wodJgAT8cnuBSzhL"
+    },
+    {
+      "album": {
+        "name": "Love Letters From Houston",
+        "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195151,
+      "name": "Can You Love Me Tonight?",
+      "url": "https://open.spotify.com/track/38ZK4BFDqxUrEsjuC6DA5X"
     },
     {
       "album": {
@@ -3999,7 +4017,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 178378,
       "name": "Coulda Been A Phone Call",
       "url": "https://open.spotify.com/track/4zzAg9A6pye8TqdvLvuBuh"
@@ -4151,7 +4169,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 186760,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/5SNZ7Iv54NzJgpb1hFxgXl"
@@ -5453,7 +5471,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 133706,
       "name": "edamame (feat. Rich Brian)",
       "url": "https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV"
@@ -5735,7 +5753,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 155382,
       "name": "Ew",
       "url": "https://open.spotify.com/track/5uucqkAbfZCxwdTWolFyju"
@@ -6803,7 +6821,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 191076,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/1krkdhVVnJWMVJPgsSod8H"
@@ -7193,7 +7211,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 186275,
       "name": "golden retriever boy",
       "url": "https://open.spotify.com/track/20M00steJbkD9bCIUCuHPI"
@@ -9505,7 +9523,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 173637,
       "name": "In The Honey",
       "url": "https://open.spotify.com/track/5xpj4aOhZwCpnFQiqxQbFb"
@@ -11927,7 +11945,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 163584,
       "name": "Million Dollar Smoothies (From \u201cAmerican Song Contest\u201d)",
       "url": "https://open.spotify.com/track/2fvBdEhqqpWKRbxsr3fUC6"
@@ -13829,7 +13847,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 189520,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/1FsxkwFz98EN7BufWfTemM"
@@ -14901,7 +14919,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 217297,
       "name": "REHAB?",
       "url": "https://open.spotify.com/track/3r886NNQL7iOK1CXEKH2lx"
@@ -15107,7 +15125,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 196533,
       "name": "Run",
       "url": "https://open.spotify.com/track/7x6KLLjsxpR9zVfzUEGfX4"
@@ -15479,7 +15497,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 86749,
       "name": "say goodbye",
       "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
@@ -15537,7 +15555,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 128770,
       "name": "Scooter",
       "url": "https://open.spotify.com/track/1RBIzko2PMY5CP0d3MIkwl"
@@ -16083,7 +16101,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 177400,
       "name": "Shut Up And Kiss Me",
       "url": "https://open.spotify.com/track/2qg2TSSsquBluOPeUubLw3"
@@ -17865,7 +17883,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 214323,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/7zvpy4zhp5594U635c3SFL"
@@ -17905,7 +17923,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 187116,
       "name": "Superstitious",
       "url": "https://open.spotify.com/track/1wizHJqbqe0YsAkRWN1QBP"
@@ -18305,7 +18323,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 180903,
       "name": "that friend",
       "url": "https://open.spotify.com/track/0jI7t8dSBRQU8EOlicWTmL"
@@ -18673,7 +18691,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 175950,
       "name": "The Way You Are",
       "url": "https://open.spotify.com/track/52GPw706N71AnEaa1oPBtU"
@@ -18919,7 +18937,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 228823,
       "name": "Time On",
       "url": "https://open.spotify.com/track/6hwlAQ9DSZlXOWqdIEtevQ"
@@ -20569,7 +20587,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 139293,
       "name": "Window",
       "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"

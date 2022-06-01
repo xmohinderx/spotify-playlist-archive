@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Czech Republic.",
-  "num_followers": 66298,
+  "num_followers": 66299,
   "original_name": "Top 50 - Czech Republic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA3MjI2MDAyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA3MzE4MTE4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2sXnat46y10FtAbW2A0ira"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "TRAPPIN LONELY",
         "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2wPph50bF6qHnXgruVKHm8"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -61,127 +61,7 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "TRAPPIN LONELY",
-        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "TRAPPIN LONELY",
-      "url": "https://open.spotify.com/track/2wzELRaOAvUjhJoSkcJTKT"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "POPSTAR",
-        "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Praha/V\u00edde\u0148",
-      "url": "https://open.spotify.com/track/163UXyyrFlAIQapVN3DqIp"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "POPSTAR*",
-        "url": "https://open.spotify.com/album/1G83eVFNZ4uptZ72WJC69X"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        }
-      ],
-      "duration_ms": 143414,
-      "name": "Hannah Montana VIP",
-      "url": "https://open.spotify.com/track/1TLdCwhyeVjSXjn5OSvML8"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "TRAPPIN LONELY",
-        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        },
-        {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "CESTUJU NA BEATECH",
-      "url": "https://open.spotify.com/track/6BWcNnHZ5etPRMC3y3hhbf"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "TRAPPIN LONELY",
-        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        },
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        }
-      ],
-      "duration_ms": 177744,
-      "name": "KILO NA M\u016eJ KRK",
-      "url": "https://open.spotify.com/track/0AamjWumJHD4zFA0G6NaQQ"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "P\u0159\u00edb\u011bhy a sny",
-        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 172540,
-      "name": "St\u00edny",
-      "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
@@ -197,7 +77,55 @@
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Praha/V\u00edde\u0148",
+      "url": "https://open.spotify.com/track/163UXyyrFlAIQapVN3DqIp"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "POPSTAR*",
+        "url": "https://open.spotify.com/album/1G83eVFNZ4uptZ72WJC69X"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "duration_ms": 143414,
+      "name": "Hannah Montana VIP",
+      "url": "https://open.spotify.com/track/1TLdCwhyeVjSXjn5OSvML8"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "P\u0159\u00edb\u011bhy a sny",
+        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 172540,
+      "name": "St\u00edny",
+      "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "TRAPPIN LONELY",
         "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
@@ -208,12 +136,36 @@
           "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
         }
       ],
-      "duration_ms": 216000,
-      "name": "GET DAT BAG",
-      "url": "https://open.spotify.com/track/2Isk5aJjmyxgc3X0oAPpS5"
+      "duration_ms": 146000,
+      "name": "TRAPPIN LONELY",
+      "url": "https://open.spotify.com/track/2wzELRaOAvUjhJoSkcJTKT"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "M\u00e1m Na Tebe Chu\u0165",
+        "url": "https://open.spotify.com/album/0WLODpjnYX7AXt1VnDAd0x"
+      },
+      "artists": [
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        },
+        {
+          "name": "Lucie Vondrackova",
+          "url": "https://open.spotify.com/artist/7Fh934KVdTC7ekW6Rqangw"
+        },
+        {
+          "name": "Raego",
+          "url": "https://open.spotify.com/artist/69d4grOtW9ADc7jih2GOuI"
+        }
+      ],
+      "duration_ms": 175471,
+      "name": "M\u00e1m Na Tebe Chu\u0165",
+      "url": "https://open.spotify.com/track/6QD94oKHf19S9lrRPbJTFk"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
@@ -233,7 +185,7 @@
       "url": "https://open.spotify.com/track/705U2GkmMiEPrqRWMPmabr"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "TRAPPIN LONELY",
         "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
@@ -242,14 +194,54 @@
         {
           "name": "P T K",
           "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
         }
       ],
-      "duration_ms": 184000,
-      "name": "V8",
-      "url": "https://open.spotify.com/track/6TnvglVsRKF6drgUpMffsC"
+      "duration_ms": 224000,
+      "name": "CESTUJU NA BEATECH",
+      "url": "https://open.spotify.com/track/6BWcNnHZ5etPRMC3y3hhbf"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "TRAPPIN LONELY",
+        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        },
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "duration_ms": 177744,
+      "name": "KILO NA M\u016eJ KRK",
+      "url": "https://open.spotify.com/track/0AamjWumJHD4zFA0G6NaQQ"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
@@ -265,23 +257,7 @@
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "TRAPPIN LONELY",
-        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "CO MAM J\u00c1",
-      "url": "https://open.spotify.com/track/1FqQ5cCoz2Pvl9yUxSjP6Y"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
@@ -309,7 +285,23 @@
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "Chimera Pt. 3: Snake",
+        "url": "https://open.spotify.com/album/2gMs1AxH9RnzJ5UzgOtnQD"
+      },
+      "artists": [
+        {
+          "name": "Smack",
+          "url": "https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7"
+        }
+      ],
+      "duration_ms": 266078,
+      "name": "Dal\u0161\u00ed rok",
+      "url": "https://open.spotify.com/track/5S1aHYFgkXbYTi0vDNuzZ0"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "Death of a Bachelor",
         "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
@@ -325,7 +317,23 @@
       "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "TRAPPIN LONELY",
+        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "GET DAT BAG",
+      "url": "https://open.spotify.com/track/2Isk5aJjmyxgc3X0oAPpS5"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "\u010cernob\u00edlej sv\u011bt",
         "url": "https://open.spotify.com/album/09YHBplLJ8UR90lOdCzXfx"
@@ -353,7 +361,7 @@
       "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "TRAPPIN LONELY",
         "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
@@ -364,76 +372,12 @@
           "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
         }
       ],
-      "duration_ms": 160000,
-      "name": "D\u011aL\u00c1M TO PRO",
-      "url": "https://open.spotify.com/track/2G35xNkg2HJ2K9utWEDq36"
+      "duration_ms": 184000,
+      "name": "V8",
+      "url": "https://open.spotify.com/track/6TnvglVsRKF6drgUpMffsC"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "TRAPPIN LONELY",
-        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "ZN\u00c1TE TY DNY",
-      "url": "https://open.spotify.com/track/65tjouMWSBVFjNA9kyFGVG"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "TRAPPIN LONELY",
-        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "STACK NA STACK",
-      "url": "https://open.spotify.com/track/2M9Orro8SJ6nu7q6wTItXu"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "Chimera Pt. 3: Snake",
-        "url": "https://open.spotify.com/album/2gMs1AxH9RnzJ5UzgOtnQD"
-      },
-      "artists": [
-        {
-          "name": "Smack",
-          "url": "https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7"
-        }
-      ],
-      "duration_ms": 266078,
-      "name": "Dal\u0161\u00ed rok",
-      "url": "https://open.spotify.com/track/5S1aHYFgkXbYTi0vDNuzZ0"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -453,59 +397,7 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "TRAPPIN LONELY",
-        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        },
-        {
-          "name": "Slugerr",
-          "url": "https://open.spotify.com/artist/3qpf78vyjEyzkBfI6c3GNw"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "KAM CESTY ZAVEDOU",
-      "url": "https://open.spotify.com/track/3j9bp8CUDwtcDq8XEHqKRx"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "Pr\u00e1zdnej II / Safe",
-        "url": "https://open.spotify.com/album/2NCrt2cyBjDLM9Gbh4fcjh"
-      },
-      "artists": [
-        {
-          "name": "Grey256",
-          "url": "https://open.spotify.com/artist/66bgEhG3GXDBGNZEJKs8bM"
-        }
-      ],
-      "duration_ms": 130659,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/6wP50fRwzHUluLhwr2CVJe"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
@@ -533,7 +425,7 @@
       "url": "https://open.spotify.com/track/422I38B6wM8mWDUVwCn28f"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
@@ -549,7 +441,55 @@
       "url": "https://open.spotify.com/track/4ERjIDbLvQYSxVT3cRu2LK"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "Pr\u00e1zdnej II / Safe",
+        "url": "https://open.spotify.com/album/2NCrt2cyBjDLM9Gbh4fcjh"
+      },
+      "artists": [
+        {
+          "name": "Grey256",
+          "url": "https://open.spotify.com/artist/66bgEhG3GXDBGNZEJKs8bM"
+        }
+      ],
+      "duration_ms": 130659,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/6wP50fRwzHUluLhwr2CVJe"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "P\u0159\u00edb\u011bhy a sny",
+        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 181192,
+      "name": "S\u00e9rum",
+      "url": "https://open.spotify.com/track/3AExPJ7KcjzpJWY2k8UAZO"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -569,23 +509,55 @@
       "url": "https://open.spotify.com/track/7E8LK4R9gAkSG4CD1kqvsX"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
-        "name": "P\u0159\u00edb\u011bhy a sny",
-        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+        "name": "TRAPPIN LONELY",
+        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
       },
       "artists": [
         {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
         }
       ],
-      "duration_ms": 181192,
-      "name": "S\u00e9rum",
-      "url": "https://open.spotify.com/track/3AExPJ7KcjzpJWY2k8UAZO"
+      "duration_ms": 196000,
+      "name": "ZN\u00c1TE TY DNY",
+      "url": "https://open.spotify.com/track/65tjouMWSBVFjNA9kyFGVG"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "TRAPPIN LONELY",
+        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "CO MAM J\u00c1",
+      "url": "https://open.spotify.com/track/1FqQ5cCoz2Pvl9yUxSjP6Y"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -605,7 +577,147 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "TRAPPIN LONELY",
+        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "D\u011aL\u00c1M TO PRO",
+      "url": "https://open.spotify.com/track/2G35xNkg2HJ2K9utWEDq36"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Don\u2019t Blame Me",
+      "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "BACK 2 RAVE",
+        "url": "https://open.spotify.com/album/70H5FZsAnpWZfLwZpJvogc"
+      },
+      "artists": [
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        },
+        {
+          "name": "Manene",
+          "url": "https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "Front 2 Back",
+      "url": "https://open.spotify.com/track/21VhZw8GUbgWUD5SNwLPua"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "TRAPPIN LONELY",
+        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "STACK NA STACK",
+      "url": "https://open.spotify.com/track/2M9Orro8SJ6nu7q6wTItXu"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "Bomby",
+        "url": "https://open.spotify.com/album/0kSJOtAS5ARAxgHB5ZKOYI"
+      },
+      "artists": [
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        },
+        {
+          "name": "Sergei Barracuda",
+          "url": "https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko"
+        }
+      ],
+      "duration_ms": 107200,
+      "name": "Bomby",
+      "url": "https://open.spotify.com/track/3LzcbcGFtBc1mfYJ8jvWbU"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "TRAPPIN LONELY",
+        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        },
+        {
+          "name": "Slugerr",
+          "url": "https://open.spotify.com/artist/3qpf78vyjEyzkBfI6c3GNw"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "KAM CESTY ZAVEDOU",
+      "url": "https://open.spotify.com/track/3j9bp8CUDwtcDq8XEHqKRx"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -625,39 +737,7 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Don\u2019t Blame Me",
-      "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
@@ -677,23 +757,23 @@
       "url": "https://open.spotify.com/track/7fvEeoOaFOBiPafnfaRnG0"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+        "name": "Je M'appelle",
+        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Benzz",
+          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
         }
       ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+      "duration_ms": 139574,
+      "name": "Je M'appelle",
+      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -709,23 +789,7 @@
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
@@ -741,23 +805,7 @@
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 245964,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
@@ -781,91 +829,23 @@
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
-        "name": "Je M'appelle",
-        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
       "artists": [
         {
-          "name": "Benzz",
-          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 139574,
-      "name": "Je M'appelle",
-      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "Barvy",
-        "url": "https://open.spotify.com/album/1GYwv5rK5Bs1CemsKiXEBj"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 211891,
-      "name": "Rozd\u011blen\u00fd sv\u011bty",
-      "url": "https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -881,7 +861,39 @@
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
-      "added_at": "2022-05-30 11:40:02",
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
+      "album": {
+        "name": "Barvy",
+        "url": "https://open.spotify.com/album/1GYwv5rK5Bs1CemsKiXEBj"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 211891,
+      "name": "Rozd\u011blen\u00fd sv\u011bty",
+      "url": "https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt"
+    },
+    {
+      "added_at": "2022-05-31 13:15:18",
       "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"

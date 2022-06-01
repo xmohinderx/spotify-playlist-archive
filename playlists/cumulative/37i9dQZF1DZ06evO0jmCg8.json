@@ -42,6 +42,24 @@
     },
     {
       "album": {
+        "name": "War Eternal",
+        "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278666,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/5N9O4qRT4FJudc5m632T45"
+    },
+    {
+      "album": {
         "name": "The Root of All Evil",
         "url": "https://open.spotify.com/album/3lPgwuzDBUYL5eDb4n0w41"
       },
@@ -147,6 +165,24 @@
       "duration_ms": 252053,
       "name": "Carry the Cross",
       "url": "https://open.spotify.com/track/5GnJy3HRwswXKX3rmffErf"
+    },
+    {
+      "album": {
+        "name": "Khaos Legions",
+        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272880,
+      "name": "City of the Dead",
+      "url": "https://open.spotify.com/track/3KTUAqTNYTeZBXcnAJdB1A"
     },
     {
       "album": {
@@ -449,7 +485,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 223760,
       "name": "Never Forgive, Never Forget",
       "url": "https://open.spotify.com/track/7gdqAiz2VMq0cybotZzls6"
@@ -683,7 +719,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 242813,
       "name": "Symphony of Destruction - cover version",
       "url": "https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa"

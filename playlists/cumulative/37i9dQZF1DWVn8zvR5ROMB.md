@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist!
 
-908 songs - 2 day 1 hr 43 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
+910 songs - 2 day 1 hr 50 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,6 +606,7 @@
 | [Nothing Like Me](https://open.spotify.com/track/2wpdpOHaiqqoMT2ddHsF76) | [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt) | [Nothing Like Me](https://open.spotify.com/album/3GgLkZ8vv4ilEmgVCjlm4e) | 3:42 | 2022-03-25 | 2022-05-20 |
 | [Nothing Like New York](https://open.spotify.com/track/7yPYX2jcgKYCU6X2yI0NfE) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [Nothing Like New York](https://open.spotify.com/album/2FhW709jxBwymQEUYFgvav) | 3:19 | 2022-02-25 | 2022-04-09 |
 | [Nothing Like That](https://open.spotify.com/track/5KGGENJdaj09PtopoWgbMF) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Nothing Like That](https://open.spotify.com/album/5J5q95UZZ8CzoOVHhFS0x7) | 3:17 | 2022-02-18 | 2022-03-05 |
+| [Nothing More Beautiful](https://open.spotify.com/track/4hISZEs3N1AoFomalASNdx) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Nothing More Beautiful](https://open.spotify.com/album/5JlayWrxGWtDN7n25y0NVr) | 3:15 | 2022-05-31 |  |
 | [Nothing With You](https://open.spotify.com/track/7FqCz4O6B7YGAyktlp5PpJ) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T), [Grace Leer](https://open.spotify.com/artist/2zaXxMpZKyNK075LXZ3wDG) | [Nothing With You](https://open.spotify.com/album/7IqrqtlOGGPeBMRjBaRlWj) | 3:36 | 2022-04-08 | 2022-04-16 |
 | [Nothing's New](https://open.spotify.com/track/0YBgxXh6I0X8jnTzybUiTx) | [Garrett Jacobs](https://open.spotify.com/artist/3kmcskeWk7KtY0iryNLt1f) | [Nothing's New](https://open.spotify.com/album/3xjLvcj8lK1KwaiDxPArZf) | 3:02 | 2022-03-25 | 2022-04-09 |
 | [Oklahoma](https://open.spotify.com/track/2DaWiGv8z0VDgN5KQI0sfS) | [Hunter Jordan](https://open.spotify.com/artist/1jXNRIUmYp5nKQ96Szehou) | [Oklahoma](https://open.spotify.com/album/03b1aXzdfCjdtcUrFrep6o) | 3:15 | 2022-04-15 | 2022-04-29 |
@@ -880,6 +881,7 @@
 | [Whole Lotta Heaven](https://open.spotify.com/track/0qXhqE3uvLWL3cs2HpQaug) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Whole Lotta Heaven](https://open.spotify.com/album/7cRUHxfuLWHl0VMe7imioy) | 3:09 | 2022-01-21 | 2022-01-29 |
 | [Whole World Gone Crazy](https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Whole World Gone Crazy](https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur) | 3:04 | 2022-04-29 | 2022-05-07 |
 | [Why Can't You](https://open.spotify.com/track/35tF9YJnXqZqX0MFlGxKoN) | [Chance Tomke](https://open.spotify.com/artist/2wysL0FCBKVYBXk9seETxb) | [Why Can't You](https://open.spotify.com/album/4MTKjn8evMgQ6aSlUV2gOf) | 3:29 | 2022-01-14 | 2022-02-26 |
+| [Wide Open](https://open.spotify.com/track/2JoGraDho4b8WILvncpp5n) | [Clayton Smalley](https://open.spotify.com/artist/2RtlR6GBuvXVzDgAOS0qmK) | [Wide Open Compilation](https://open.spotify.com/album/57zFXHLBIeOY0aCMYY9FLN) | 3:47 | 2022-05-31 |  |
 | [Wild](https://open.spotify.com/track/3xCdiCwU2ykBtNpg4gyhR7) | [Kendra Kay](https://open.spotify.com/artist/55wvuImkFMHjZ1nYmhdXYJ) | [Wild](https://open.spotify.com/album/4dZPYxnJViNKKLJG4Dw7Na) | 3:10 | 2022-01-28 | 2022-03-26 |
 | [Wild as Her](https://open.spotify.com/track/7FEu6U2jXAs2URjx93AyTm) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/5E6Y21xdZI8Ein5d7wfqpI) | 3:21 | 2022-03-04 | 2022-03-12 |
 | [Wild As Her](https://open.spotify.com/track/5ncSiIwRVHv4td9sPerF6N) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Wild As Her](https://open.spotify.com/album/41LtoOHnF2zNu5YYOxInv9) | 3:01 | 2022-02-11 | 2022-02-26 |

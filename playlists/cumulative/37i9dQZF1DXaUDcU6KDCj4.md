@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Lord Huron
 
-525 songs - 1 day 8 hr 7 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
+526 songs - 1 day 8 hr 14 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [Way I Go](https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Way I Go](https://open.spotify.com/album/5YqVZuseoRLBTC5xoYVvFj) | 4:07 | 2022-05-27 |  |
 | [We Can't Be Tamed](https://open.spotify.com/track/2GygOAZfu7hG7WULOP0bCq) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:03 | 2021-11-12 | 2022-01-08 |
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2022-03-25 |  |
+| [Weather Alive](https://open.spotify.com/track/3OrhnPCD8HDTVSmp3FI9cY) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Weather Alive](https://open.spotify.com/album/1GlvLDvrCrUNFeNEQoyimx) | 7:04 | 2022-05-31 |  |
 | [What A Strange Time To Be Alive](https://open.spotify.com/track/0mmapJXijQcLERMo1t747B) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [What A Strange Time To Be Alive](https://open.spotify.com/album/3ffWzQw4topJ8i2UruRqtp) | 3:06 | 2022-05-20 |  |
 | [What If I Miss It All](https://open.spotify.com/track/13dp59ps2G8Ek8NGB3zfPo) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Debris](https://open.spotify.com/album/2uo4yb7M4zxUWlJg0NVGcj) | 3:37 | 2022-04-08 | 2022-05-14 |
 | [What if You](https://open.spotify.com/track/0nKimWXdewT5XCaL5wOstA) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [What if You](https://open.spotify.com/album/65TC3N9kNHYeLFt7hqaW5M) | 3:22 | 2022-04-15 |  |

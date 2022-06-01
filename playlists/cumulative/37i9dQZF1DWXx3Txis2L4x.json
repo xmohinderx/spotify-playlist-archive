@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Finelines",
+        "url": "https://open.spotify.com/album/4c2WjXHuK2BbKapEeAX10R"
+      },
+      "artists": [
+        {
+          "name": "My Vitriol",
+          "url": "https://open.spotify.com/artist/75SjeTpGbsxZDpwPeVGERn"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229120,
+      "name": "Always: Your Way",
+      "url": "https://open.spotify.com/track/3CxozMCXI2BBT58uQYXK7q"
+    },
+    {
+      "album": {
         "name": "Broken Machine (Deluxe)",
         "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
       },
@@ -721,7 +739,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 245573,
       "name": "Find Me",
       "url": "https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 208974,
       "name": "Journey of the Prairie King",
       "url": "https://open.spotify.com/track/6tzuQuosgeRizkqLzfOXzr"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 219399,
       "name": "Lazaretto",
       "url": "https://open.spotify.com/track/1ySdjlU5Vc24w81xam2MHR"
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 235400,
       "name": "My God Is The Sun",
       "url": "https://open.spotify.com/track/1Pc3gTtQG4Cq1x81NcXtCN"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 260293,
       "name": "One Armed Scissor",
       "url": "https://open.spotify.com/track/3T1YjH72qs6L6tDscZFZL5"
@@ -1715,7 +1733,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 219266,
       "name": "The Artist In The Ambulance",
       "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 332413,
       "name": "The Borders",
       "url": "https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU"
@@ -1967,7 +1985,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 143080,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW"
@@ -2003,7 +2021,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 184597,
       "name": "Walls",
       "url": "https://open.spotify.com/track/2wCDbkO7n9njUd6RJb6Fmt"

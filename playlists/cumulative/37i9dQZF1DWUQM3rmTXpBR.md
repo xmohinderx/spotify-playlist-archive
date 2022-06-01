@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: ŸUMA.
 
-76 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/5Kcna48CrV8fuYA6mNyZOZ)
+77 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/5Kcna48CrV8fuYA6mNyZOZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Estana Shway \- أخرس \- استنى شوي](https://open.spotify.com/track/3TabrhNZICePlryYNcw4C9) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Estana Shway \(أخرس \- استنى شوي\)](https://open.spotify.com/album/46o2uznwnj6kiw4NYa2rtc) | 3:51 | 2022-02-09 |  |
 | [Etnaset](https://open.spotify.com/track/5hiQSNo6jQbQ2m2gBZs7bU) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Etnaset](https://open.spotify.com/album/5nE6ovXOMjYZ1UG695iIkU) | 3:15 | 2021-12-23 |  |
 | [Galbi](https://open.spotify.com/track/2XuqFsSXzQQ5VIVnxJsYuQ) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Galbi](https://open.spotify.com/album/3INMinVy8sVP4MBZmUfhCH) | 2:16 | 2022-03-21 |  |
+| [GHIR BLACH](https://open.spotify.com/track/0R3Y8nj4PvdAAOcxEkBaPE) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3), [Cameleon](https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9) | [GHIR BLACH](https://open.spotify.com/album/41BXgKi4Ad4ZZ6dgYB5yG0) | 3:50 | 2022-05-31 |  |
 | [GRAND CASABLANCA](https://open.spotify.com/track/0XSH8YUaehYghWI5Mw2FYC) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3) | [GRAND CASABLANCA](https://open.spotify.com/album/7eKFo8B2iSBV9KMZ7rqKsY) | 3:08 | 2021-12-23 |  |
 | [Ha'oud \(I Will Return\)](https://open.spotify.com/track/1OExzy9fGc3TGP5zFvp0AH) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Mashrou' Leila](https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m), [Narcy](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg) | [Ha'oud \(I Will Return\)](https://open.spotify.com/album/2sp15C7t9ATNj3TuJKDtWF) | 3:45 | 2021-12-23 |  |
 | [Hada Ghareeb](https://open.spotify.com/track/4N4NLZ6gUbevHiMekc8VoP) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Hada Ghareeb](https://open.spotify.com/album/0QAiD3TEsWoaVE0NZCnEdS) | 3:00 | 2021-12-23 | 2022-03-11 |

@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5iOzR7HQRJ47iJ6BTRhBEi"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168293,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA"
+    },
+    {
+      "album": {
         "name": "Balafon (Instrumental)",
         "url": "https://open.spotify.com/album/4eCkTbLKzj4i3yULucs277"
       },
@@ -131,7 +149,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 208974,
       "name": "Burning Out",
       "url": "https://open.spotify.com/track/5abyTR9t1SuyS8YAQZd6xA"
@@ -243,7 +261,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 178333,
       "name": "Coming Back",
       "url": "https://open.spotify.com/track/7dGJME1DMcRLnx3mn0NIKU"
@@ -261,7 +279,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 339000,
       "name": "Corporation",
       "url": "https://open.spotify.com/track/4J5YIM08RZ9SJCcCJeEv9z"
@@ -333,7 +351,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 180583,
       "name": "Cry for Me",
       "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
@@ -629,7 +647,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 388893,
       "name": "Pusher",
       "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
@@ -831,7 +849,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 218088,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF"
@@ -871,7 +889,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 165687,
       "name": "Surfing",
       "url": "https://open.spotify.com/track/4tyx5KvHtEyADgxo5N9o5h"

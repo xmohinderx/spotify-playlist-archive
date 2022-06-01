@@ -6,6 +6,42 @@
   "tracks": [
     {
       "album": {
+        "name": "CYAN",
+        "url": "https://open.spotify.com/album/54mKbSh20yke318bPZMsjb"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195253,
+      "name": "2U",
+      "url": "https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy"
+    },
+    {
+      "album": {
+        "name": "Start Dating (Original Drama Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/0xr15tO4uvjXlrNTxCFLIP"
+      },
+      "artists": [
+        {
+          "name": "Kei",
+          "url": "https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "A Fairy Tale",
+      "url": "https://open.spotify.com/track/6wiZ4T7wd5HtvMCjsZ9w4S"
+    },
+    {
+      "album": {
         "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
         "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
@@ -28,6 +64,24 @@
     },
     {
       "album": {
+        "name": "MBTIng (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/66pnxv8pCPQR9dLQYBVJFY"
+      },
+      "artists": [
+        {
+          "name": "SoKuen",
+          "url": "https://open.spotify.com/artist/2Tgcxy7vxvGdplDC8P93ZG"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162382,
+      "name": "About",
+      "url": "https://open.spotify.com/track/1GDqEr1WJxWSTYfAbfa6af"
+    },
+    {
+      "album": {
         "name": "BEST FRIEND",
         "url": "https://open.spotify.com/album/0ZJdSkSum5efhLKm8QUKZa"
       },
@@ -39,7 +93,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 189893,
       "name": "BEST FRIEND",
       "url": "https://open.spotify.com/track/1j0BU9IWKxfWKX0ajT2jBe"
@@ -57,7 +111,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 225125,
       "name": "busy guy",
       "url": "https://open.spotify.com/track/3OifMsSbPyon2tgApzijMH"
@@ -127,7 +181,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 157777,
       "name": "Confuse",
       "url": "https://open.spotify.com/track/3utUtdNPkBhuX3JIHSKC72"
@@ -264,6 +318,24 @@
     },
     {
       "album": {
+        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
+        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207773,
+      "name": "First Love Story",
+      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
+    },
+    {
+      "album": {
         "name": "Fly to me",
         "url": "https://open.spotify.com/album/2Jo2mvplm5HgWP81gsXsSc"
       },
@@ -275,7 +347,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 181293,
       "name": "Fly to me",
       "url": "https://open.spotify.com/track/6KrDSC2vcLc2E6lajkGSw4"
@@ -297,10 +369,32 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 230661,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x"
+    },
+    {
+      "album": {
+        "name": "For Her",
+        "url": "https://open.spotify.com/album/1nSHlzM1eHfjBKzYn5jC3R"
+      },
+      "artists": [
+        {
+          "name": "J.BASS",
+          "url": "https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln"
+        },
+        {
+          "name": "Kim Dae Hyeok \uae40\ub300\ud601",
+          "url": "https://open.spotify.com/artist/5Idmwqf7qWP3IBo3ayAgmG"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183413,
+      "name": "For Her (feat. Kim Dae Hyeok)",
+      "url": "https://open.spotify.com/track/1JeyvQnYfR7otuxrWKkhEC"
     },
     {
       "album": {
@@ -337,6 +431,24 @@
       "duration_ms": 280000,
       "name": "Good Person (2022)",
       "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "album": {
+        "name": "Heart in Motion",
+        "url": "https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15"
+      },
+      "artists": [
+        {
+          "name": "The Green Tea",
+          "url": "https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227853,
+      "name": "Heart in Motion",
+      "url": "https://open.spotify.com/track/7p23qMHn32rwnIcGIFJxgK"
     },
     {
       "album": {
@@ -391,7 +503,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 205693,
       "name": "How Do You Think",
       "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
@@ -409,7 +521,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 227936,
       "name": "I pray",
       "url": "https://open.spotify.com/track/0LBG7GmTBRPRfDPXaG3VzS"
@@ -445,7 +557,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 196128,
       "name": "I think I'm in love",
       "url": "https://open.spotify.com/track/395vU3XBsgKd5iRXT9x94P"
@@ -467,6 +579,24 @@
       "duration_ms": 198626,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/2MzPMAOhdAdAOFV6Cug4Tj"
+    },
+    {
+      "album": {
+        "name": "Adult Trainee, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0q5ZHEqTgIgiSbyl1chayB"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191126,
+      "name": "Imagine Love",
+      "url": "https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy"
     },
     {
       "album": {
@@ -578,6 +708,24 @@
     },
     {
       "album": {
+        "name": "3rd Digital Single 'Not In Public'",
+        "url": "https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy"
+      },
+      "artists": [
+        {
+          "name": "SUMMER CAKE",
+          "url": "https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171560,
+      "name": "Not In Public",
+      "url": "https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD"
+    },
+    {
+      "album": {
         "name": "Ordinary Love",
         "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
       },
@@ -673,7 +821,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 185542,
       "name": "POONGDUNG (Feat. HAMMA)",
       "url": "https://open.spotify.com/track/5vZoNfxXDdZfBQ2vXfeLsd"
@@ -753,6 +901,24 @@
       "duration_ms": 191625,
       "name": "Secret",
       "url": "https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0"
+    },
+    {
+      "album": {
+        "name": "DA DA!",
+        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195125,
+      "name": "see you",
+      "url": "https://open.spotify.com/track/5qwogqCsf0RDUVzywwlfzI"
     },
     {
       "album": {
@@ -839,7 +1005,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 223629,
       "name": "SOME",
       "url": "https://open.spotify.com/track/29fqZVcnBDxZZaM5qOcQmR"
@@ -883,7 +1049,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 209866,
       "name": "Something Precious",
       "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
@@ -923,7 +1089,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 196109,
       "name": "Spoiler (feat. Limit)",
       "url": "https://open.spotify.com/track/1Peet7rqBIuwqdAOdOqKDz"
@@ -1043,7 +1209,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 198626,
       "name": "To, Summer",
       "url": "https://open.spotify.com/track/5pwBvZSb3JboCWU9xxgSiT"
@@ -1069,7 +1235,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 230249,
       "name": "Type & Delete",
       "url": "https://open.spotify.com/track/0jrc18dt5N6fOJtRUIH9Dv"
@@ -1150,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "Someone's playlist #2",
+        "url": "https://open.spotify.com/album/2mvcfZb6tMU4iJheHHhdYM"
+      },
+      "artists": [
+        {
+          "name": "Chamsom",
+          "url": "https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215857,
+      "name": "What are you thinking about?",
+      "url": "https://open.spotify.com/track/1eimXRbiVMsqSvTLj8Tt41"
+    },
+    {
+      "album": {
         "name": "What Shall I Do?",
         "url": "https://open.spotify.com/album/32QOWg3l9smEZU2VUtJlFp"
       },
@@ -1161,7 +1345,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 221786,
       "name": "What Shall I Do?",
       "url": "https://open.spotify.com/track/5EifmUIMkCqnayTDAWwTfx"
@@ -1179,7 +1363,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 183320,
       "name": "Where Is Dream",
       "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
@@ -1237,7 +1421,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 225133,
       "name": "Your name",
       "url": "https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI"
@@ -1255,7 +1439,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 204615,
       "name": "\uae38\uc5b4\uc57c 5\ubd84 That 5 Minutes",
       "url": "https://open.spotify.com/track/2Yi4Zlcqmt3ibLeOoRnVuT"

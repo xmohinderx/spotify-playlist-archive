@@ -78,6 +78,32 @@
     },
     {
       "album": {
+        "name": "Black Blood",
+        "url": "https://open.spotify.com/album/1455tyjIuvboNbV6mAYSiZ"
+      },
+      "artists": [
+        {
+          "name": "R3YAN",
+          "url": "https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel"
+        },
+        {
+          "name": "Lukasoprom",
+          "url": "https://open.spotify.com/artist/3d8NwLM2U7JYt2H97W5ls1"
+        },
+        {
+          "name": "Like Lions",
+          "url": "https://open.spotify.com/artist/5E8xNHdbVoxGqLd4SAMgKo"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146468,
+      "name": "Black Blood",
+      "url": "https://open.spotify.com/track/3xQSVngL4OJu5RXAchFQPm"
+    },
+    {
+      "album": {
         "name": "A Different Beat",
         "url": "https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx"
       },
@@ -133,6 +159,24 @@
       "duration_ms": 253000,
       "name": "Code Name Loppsi - My Lowd demo",
       "url": "https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh"
+    },
+    {
+      "album": {
+        "name": "Dark Days In Paradise",
+        "url": "https://open.spotify.com/album/5rWM4lXXxij6N9jmZsUolC"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329733,
+      "name": "Cold Wind Blows",
+      "url": "https://open.spotify.com/track/5O61SnNgvNtA7NIJFQaDIi"
     },
     {
       "album": {
@@ -482,6 +526,24 @@
     },
     {
       "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
+      },
+      "artists": [
+        {
+          "name": "Scarecrow",
+          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/5gSHmVV30dqKESS4nYGpXg"
+    },
+    {
+      "album": {
         "name": "High Vibe Remixes, Vol. 1",
         "url": "https://open.spotify.com/album/3NlmTWejiSpfgnxD7CiVzt"
       },
@@ -551,7 +613,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 197013,
       "name": "Multiball",
       "url": "https://open.spotify.com/track/22MiGH2lQBET7dtLo5Iua8"
@@ -851,7 +913,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 222000,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM"
@@ -927,7 +989,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 175653,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu"

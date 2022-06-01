@@ -232,6 +232,28 @@
     },
     {
       "album": {
+        "name": "2AM (feat. Carla Monroe)",
+        "url": "https://open.spotify.com/album/4CAvGuvYg9frLJFbPPHLmB"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "2AM (feat. Carla Monroe)",
+      "url": "https://open.spotify.com/track/2dh6Pnl5egc1FrQS6EsW4n"
+    },
+    {
+      "album": {
         "name": "2U",
         "url": "https://open.spotify.com/album/0EYVu7ginQ5nPsQj3woBAQ"
       },
@@ -835,6 +857,28 @@
       "duration_ms": 142500,
       "name": "Alive (It Feels Like)",
       "url": "https://open.spotify.com/track/4fB85IhVASxXMWgoke5WVJ"
+    },
+    {
+      "album": {
+        "name": "Alive (with Calle Lehmann)",
+        "url": "https://open.spotify.com/album/5JqV9qFpXtCtQkbUrzJ3ws"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Calle Lehmann",
+          "url": "https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222830,
+      "name": "Alive (with Calle Lehmann)",
+      "url": "https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB"
     },
     {
       "album": {
@@ -1791,7 +1835,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 164842,
       "name": "Bang Harder",
       "url": "https://open.spotify.com/track/6TokZjKiCwAFSmA7pdWTaK"
@@ -3723,7 +3767,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 195118,
       "name": "Carnaval de Paris",
       "url": "https://open.spotify.com/track/1QVS1EhzeXlK8QbFa5BFQq"
@@ -3797,6 +3841,28 @@
       "duration_ms": 148571,
       "name": "Catch My Love",
       "url": "https://open.spotify.com/track/0C0LsZeUyAG50xJKEIpBgY"
+    },
+    {
+      "album": {
+        "name": "Caught Up (with Olivia O'Brien)",
+        "url": "https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173214,
+      "name": "Caught Up (with Olivia O'Brien)",
+      "url": "https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1"
     },
     {
       "album": {
@@ -6901,7 +6967,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 250226,
       "name": "Faded - Tiesto's Northern Lights Remix",
       "url": "https://open.spotify.com/track/4jvJPG5YNwenlOmyLWSqaq"
@@ -11081,7 +11147,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 215360,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
@@ -11863,7 +11929,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 238125,
       "name": "INTO THE UNKNOWN",
       "url": "https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB"
@@ -11965,7 +12031,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 159010,
       "name": "Is It You",
       "url": "https://open.spotify.com/track/4jlS72eGLijzfr7PymxDYi"
@@ -16285,7 +16351,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 186018,
       "name": "No One Dies From Love",
       "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
@@ -19615,7 +19681,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 187320,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs"
@@ -20433,7 +20499,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 200000,
       "name": "Sideline",
       "url": "https://open.spotify.com/track/0H3wnauakIIRxX51DkYtuc"
@@ -22421,7 +22487,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 275076,
       "name": "Talamanca - Carl Cox Remix",
       "url": "https://open.spotify.com/track/4aFUd8Kilk401OLNMugJDg"
@@ -22601,6 +22667,32 @@
       "duration_ms": 159425,
       "name": "Tell Me I'm Pretty - Icona Pop Remix",
       "url": "https://open.spotify.com/track/1mvIcYU3FXLiXIHyX0QqP5"
+    },
+    {
+      "album": {
+        "name": "Tell Me Secrets",
+        "url": "https://open.spotify.com/album/3HWre2IiyyqUclVbnd6PlW"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        },
+        {
+          "name": "Joker Bra",
+          "url": "https://open.spotify.com/artist/325L7kby6bkG5qSXXAFEWM"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136299,
+      "name": "Tell Me Secrets",
+      "url": "https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq"
     },
     {
       "album": {
@@ -22831,6 +22923,28 @@
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "album": {
+        "name": "The Calling",
+        "url": "https://open.spotify.com/album/0Zq4pT3WEPhlGjaerScLLY"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "The Calling",
+      "url": "https://open.spotify.com/track/4ANmPUsA3LAvOSP8xen6Vt"
     },
     {
       "album": {
@@ -26357,7 +26471,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 185896,
       "name": "You Give Me A Feeling",
       "url": "https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8"

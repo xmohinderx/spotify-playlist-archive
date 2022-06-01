@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 156548,
       "name": "Albur De Amor",
       "url": "https://open.spotify.com/track/2Hi3gHdIpgSqr4jdEtWOJB"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 169413,
       "name": "Ella",
       "url": "https://open.spotify.com/track/2STwUtOKrzqmNF23NSS0ey"
@@ -585,6 +585,24 @@
       "duration_ms": 156866,
       "name": "Hermoso Cari\u00f1o",
       "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
+    },
+    {
+      "album": {
+        "name": "Amigo Organillero",
+        "url": "https://open.spotify.com/album/2Rv1ejNPg23IdQQhlZxdOQ"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169920,
+      "name": "Jam\u00e1s, Jam\u00e1s",
+      "url": "https://open.spotify.com/track/2GUB96lR5LWCbAhfLxEQU0"
     },
     {
       "album": {
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 172533,
       "name": "Retirada",
       "url": "https://open.spotify.com/track/6kYxWFXzSkvwYBcdrHSFSD"

@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 206690,
       "name": "Gotta Go!",
       "url": "https://open.spotify.com/track/3F16iie73VyKgN63z6YyZH"
@@ -4387,7 +4387,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 346247,
       "name": "\u4eba\u985e\u7fa4\u661f\u9583\u8000\u6642",
       "url": "https://open.spotify.com/track/10nbKFoqDjsauhJQTHWfkg"
@@ -4647,7 +4647,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 209000,
       "name": "\u521d\u6200",
       "url": "https://open.spotify.com/track/5XihvL3MlNcj6yPwAKsgFw"
@@ -7043,6 +7043,24 @@
       "duration_ms": 296006,
       "name": "\u98de\u9e1f\u548c\u8749",
       "url": "https://open.spotify.com/track/0O7O4sssbFxoNoB4QRGra1"
+    },
+    {
+      "album": {
+        "name": "\u7b11\u5fd8\u66f8",
+        "url": "https://open.spotify.com/album/1p7eFSD6iJI0RqtpYXjKbT"
+      },
+      "artists": [
+        {
+          "name": "Hins Cheung",
+          "url": "https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249293,
+      "name": "\u9a37\u9748\u60c5\u6b4c",
+      "url": "https://open.spotify.com/track/5MH9JHCKH1Hm3ih9m9ljy8"
     },
     {
       "album": {

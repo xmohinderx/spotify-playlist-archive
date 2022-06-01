@@ -2,7 +2,7 @@
 
 ### [RADAR US](https://open.spotify.com/playlist/37i9dQZF1DWY0DyDKedRYY)
 
-> RADAR pick Zach Bryan tops our list of artists to watch right now.
+> Ethel Cain is our new RADAR Artist to Watch.
 
 184 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
 
@@ -118,7 +118,7 @@
 | [My Everything](https://open.spotify.com/track/6jFfziQ3596GTUE3cZ9v8b) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [My Everything](https://open.spotify.com/album/2GMyMIIHbOadksG3YYaIC8) | 1:40 | 2021-12-01 | 2022-04-09 |
 | [MY GOD](https://open.spotify.com/track/3krb5j9ZsU8DDNKu3FvfKR) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [MY GOD](https://open.spotify.com/album/3MeHz4YLJCt5aNhbAQxK86) | 3:01 | 2021-12-01 | 2022-04-09 |
 | [Need](https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Need](https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR) | 3:22 | 2021-12-01 | 2022-04-09 |
-| [No Lie](https://open.spotify.com/track/02BBBmB5NZUrsjrm7Janc5) | [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Back & Forth](https://open.spotify.com/album/0oJzHZMh9yO3PaDRgD23G4) | 3:17 | 2022-05-17 |  |
+| [No Lie](https://open.spotify.com/track/02BBBmB5NZUrsjrm7Janc5) | [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Back & Forth](https://open.spotify.com/album/0oJzHZMh9yO3PaDRgD23G4) | 3:17 | 2022-05-17 | 2022-06-01 |
 | [Nobody Like You](https://open.spotify.com/track/10HqYPk8krVdDYQCgYh3z7) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:03 | 2022-05-17 |  |
 | [Not Your Girl](https://open.spotify.com/track/3fNtMICThoBErNIeXjLfRw) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Not Your Girl](https://open.spotify.com/album/0hamC3quwYAwO6pKvQB4cf) | 3:20 | 2021-12-01 | 2022-04-09 |
 | [NUEVE \(Intro\)](https://open.spotify.com/track/3wQmfMVbq6VM5QVt2470ch) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE \(Intro\)](https://open.spotify.com/album/3bkn35vgb3b4IR4WrDGaJn) | 4:04 | 2021-12-01 | 2022-04-09 |
@@ -182,7 +182,7 @@
 | [VACAXIONES](https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VACAXIONES](https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7) | 3:06 | 2021-12-01 | 2022-04-09 |
 | [Waddup \(feat\. Polo G\)](https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Waddup \(feat\. Polo G\)](https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9) | 3:01 | 2022-05-17 |  |
 | [Wasteland](https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Wasteland](https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be) | 3:03 | 2022-05-20 |  |
-| [Wat U Need](https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0G3gjrxHd6QIbiSGxNBJ2h) | 2:01 | 2022-05-17 |  |
+| [Wat U Need](https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0G3gjrxHd6QIbiSGxNBJ2h) | 2:01 | 2022-05-17 | 2022-06-01 |
 | [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 | 2021-12-01 | 2022-04-09 |
 | [Whateva U Need](https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Body \(EP\)](https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p) | 3:57 | 2021-12-01 | 2022-04-09 |
 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 | 2022-05-17 |  |

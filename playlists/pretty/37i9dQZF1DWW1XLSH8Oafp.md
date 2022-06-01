@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,139 likes - 139 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,366 likes - 139 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

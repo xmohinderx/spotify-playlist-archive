@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-423 songs - 23 hr 42 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
+424 songs - 23 hr 45 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@
 | [זוגות כאלה](https://open.spotify.com/track/2e33MYvTvmpUPTgOZJbRHf) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [זוגות כאלה](https://open.spotify.com/album/244Rb7ISEMuJ4yWbOd2ZCs) | 3:20 | 2021-07-22 | 2022-01-08 |
 | [חג פורים](https://open.spotify.com/track/5rAq5A04MbvQYDWKJsKsTy) | [Dorit Reuveni](https://open.spotify.com/artist/1C0v00zfutIDcsVm4ZOJPO) | [שירי פורים](https://open.spotify.com/album/1w9xbILauVplO0HuE1Qg3y) | 1:29 | 2022-03-16 | 2022-03-18 |
 | [חדוז'ה](https://open.spotify.com/track/3eq8LeiHeLe1nTtQobQpTo) | [Lehakat Sfataim](https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R) | [חגיגה מרוקאית](https://open.spotify.com/album/2zCCZGoHnjyu4jmh0INAMD) | 3:51 | 2022-04-24 | 2022-04-26 |
-| [חוץ ממך](https://open.spotify.com/track/3ZT2YK7nfPXq3xCrlWkgt7) | [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [חוץ ממך](https://open.spotify.com/album/74SFMWyTlkp0Oxd4AQJ0xP) | 3:11 | 2022-01-25 |  |
+| [חוץ ממך](https://open.spotify.com/track/3ZT2YK7nfPXq3xCrlWkgt7) | [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [חוץ ממך](https://open.spotify.com/album/74SFMWyTlkp0Oxd4AQJ0xP) | 3:11 | 2022-01-25 | 2022-06-01 |
 | [חורף באוטו](https://open.spotify.com/track/5STI4AAzr3uMvdpx4wUSGr) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חורף באוטו](https://open.spotify.com/album/0U8YMNhvvpbDi5G5i8oYz6) | 4:11 | 2021-11-02 | 2022-04-10 |
 | [חיים מאושרים](https://open.spotify.com/track/5bfyO9R6raJctlhVpXzPG4) | [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [חיים מאושרים](https://open.spotify.com/album/2FtWmySJ08u2O3lA6Xbm9C) | 3:23 | 2021-03-27\* | 2021-08-06 |
 | [חמישי שישי](https://open.spotify.com/track/57BFhpG4Iq4Zgnoz2X6zbT) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [חמישי שישי](https://open.spotify.com/album/53nQ4JcS0sLdyI5F7t6yiZ) | 3:25 | 2022-05-19 |  |
@@ -381,6 +381,7 @@
 | [סחרחורת & בדד](https://open.spotify.com/track/7lwBfnN8IVlP6WW702pGH0) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [סחרחורת & בדד](https://open.spotify.com/album/0C18PN7xHyX9IVbn49CDKz) | 6:01 | 2021-09-24 | 2022-01-15 |
 | [סיבובים](https://open.spotify.com/track/21qCzrANOK7gB0KPoNE1zP) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [סיבובים](https://open.spotify.com/album/2XvWTVqWWjPXnkAjeH19pK) | 3:05 | 2021-03-27\* | 2021-10-17 |
 | [סיבת הסיבות](https://open.spotify.com/track/6sADtPKtORAMZP3GQhOsHv) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [סיבת הסיבות](https://open.spotify.com/album/7ASExNRuCOLSdRhZukGhl3) | 3:19 | 2021-03-27\* | 2022-05-22 |
+| [ספרי להם הכל](https://open.spotify.com/track/2O1af1DbXF7paOr7O5CRst) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [ספרי להם הכל](https://open.spotify.com/album/6sKxDJudUsYnswoXSJmJb6) | 3:00 | 2022-05-31 |  |
 | [סתלבט בקיבוץ](https://open.spotify.com/track/2G1o9Mq8KpamOwJPZLuJc7) | [Full Trunk](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k), [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) | [ממותה](https://open.spotify.com/album/0F59OTwMP1IRvvX3CzeO9G) | 3:36 | 2022-05-22 |  |
 | [עד מחר](https://open.spotify.com/track/1ttOlVyZvmnozD2muIxulw) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [לילה כיום יאיר](https://open.spotify.com/album/6MTaG6ouyHqSauq4Xks8E7) | 4:27 | 2022-05-05 | 2022-05-07 |
 | [עד מחר](https://open.spotify.com/track/5dlEgrCOjy9FTcQM1vrrh5) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [לילה כיום יאיר](https://open.spotify.com/album/77bDIhnMVW0L4mcJckkOzN) | 4:27 | 2021-04-16 | 2021-04-17 |

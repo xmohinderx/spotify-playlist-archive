@@ -4,7 +4,7 @@
 
 > canzoni da gridare e in copertina ci sono i bnkr44 🔥
 
-118 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+119 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Skategirl](https://open.spotify.com/track/2fIRWwwbtW21031Bv1tCKT) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd), [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC) | [Skategirl](https://open.spotify.com/album/7bN95XmbIS6HZxlAbA0onY) | 2:44 | 2022-05-06 |  |
 | [SO CHI SEI](https://open.spotify.com/track/3uNwqefXvTVJROzoGzOMCj) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [SO CHI SEI](https://open.spotify.com/album/7H4olKm9KSm2stKpSkih6N) | 3:41 | 2022-05-06 |  |
 | [Sottosopra](https://open.spotify.com/track/1b65pnfClHLMDFEEhrcLJP) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [Sottosopra](https://open.spotify.com/album/2wl48fvKt0jNKC5y6Z53Dr) | 2:39 | 2022-05-06 |  |
+| [Specchio Riflesso](https://open.spotify.com/track/63cI08KGEjjV6OqveeTWPS) | [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Specchio Riflesso](https://open.spotify.com/album/4azjxCDmT7raj2ytymz9bG) | 2:47 | 2022-05-31 |  |
 | [Stanotte](https://open.spotify.com/track/5TUMkiGR2gyObPiOOdblD5) | [OEL](https://open.spotify.com/artist/6ReRo5S4R7Wu4ZmHYgA7j8), [Luca Vita](https://open.spotify.com/artist/4vWXB1YlW647ptnuwwjaiJ) | [Stanotte](https://open.spotify.com/album/2FtZxurKu7EIEbATUNoZEe) | 2:31 | 2022-05-19 | 2022-05-27 |
 | [STOP ALL'ANSIA](https://open.spotify.com/track/6n1iwxVdNHnKPGZ73lfVnF) | [DIEL](https://open.spotify.com/artist/2HN0Mo4CzsT9puxAGdTZrX) | [STOP ALL'ANSIA](https://open.spotify.com/album/1mtdm8gxrfQo6K7IKXmav7) | 2:24 | 2022-05-06 |  |
 | [strappami la pelle a morsi](https://open.spotify.com/track/6q8se4AGDOyU6hsnDTpWE9) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [strappami la pelle a morsi](https://open.spotify.com/album/5QF6qF4rFdxpwpSoj8HANB) | 2:19 | 2022-05-06 |  |

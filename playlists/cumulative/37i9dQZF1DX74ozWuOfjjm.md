@@ -2,7 +2,7 @@
 
 ### [EQUAL AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX74ozWuOfjjm)
 
-> Listen to the women of AU & NZ at full volume\. Cover: Alison Wonderland
+> Listen to the women of AU & NZ at full volume\. Cover: Sampa the Great
 
 193 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
 

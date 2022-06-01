@@ -61,7 +61,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 202466,
       "name": "29",
       "url": "https://open.spotify.com/track/1GbKnUDZo8b0UDggBjEgWe"
@@ -119,7 +119,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 222898,
       "name": "Bar Code (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/08aurbdx6Lh5dhNYAXYiBa"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 246400,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 241333,
       "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
       "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 252258,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/2lEzKOtt7q64jQZ5meZsY8"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 209019,
       "name": "Day Day",
       "url": "https://open.spotify.com/track/4RVnBOCRhSg9acr4LjrSe5"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 202640,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/1hOahzGzbUO28mcIfHWhOE"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 159999,
       "name": "Dream",
       "url": "https://open.spotify.com/track/0f8V4uTi9NQYArBTeXZjGx"
@@ -393,10 +393,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 234004,
       "name": "Drought (feat. Beenzino)",
       "url": "https://open.spotify.com/track/4E8HMRt5QwBngZKUlyDWJh"
+    },
+    {
+      "album": {
+        "name": "Excuse",
+        "url": "https://open.spotify.com/album/5E0CwTZGaTBcy3wcRRH3vw"
+      },
+      "artists": [
+        {
+          "name": "Around",
+          "url": "https://open.spotify.com/artist/30imnk1KS3eh6441SlwbGt"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210075,
+      "name": "Excuse",
+      "url": "https://open.spotify.com/track/3Hha6HvhvBm9k2ux8OLAGt"
     },
     {
       "album": {
@@ -429,7 +447,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 199827,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/5eRLhvJZaOeRfC7H3Zk3cd"
@@ -476,6 +494,32 @@
     },
     {
       "album": {
+        "name": "Show Me the Money 5 Episode 2",
+        "url": "https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t"
+      },
+      "artists": [
+        {
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+        },
+        {
+          "name": "Gun",
+          "url": "https://open.spotify.com/artist/5X2qBbPoIF30jC9XZU2QU6"
+        },
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238965,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4eZRWCGNDv0AJAIb5douAe"
+    },
+    {
+      "album": {
         "name": "Show Me the Money 777 (Episode 1)",
         "url": "https://open.spotify.com/album/3Heh3t93xHF918mqcIi0QB"
       },
@@ -517,7 +561,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 225000,
       "name": "HALYANG DREAM (feat.John Park)",
       "url": "https://open.spotify.com/track/2zppBnacbinj3UheY5S0pM"
@@ -561,10 +605,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 229467,
       "name": "HERE",
       "url": "https://open.spotify.com/track/7gniWoEvKjnrBgVm8IEbnG"
+    },
+    {
+      "album": {
+        "name": "Piece of mine",
+        "url": "https://open.spotify.com/album/3UJRHoUkXc5Gt1Ej6qMwJ4"
+      },
+      "artists": [
+        {
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Hide And Seek (feat.Jooyoung)",
+      "url": "https://open.spotify.com/track/2tlW09YJNTVs1OU0bjR4UN"
     },
     {
       "album": {
@@ -615,7 +677,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "I'm not fine",
       "url": "https://open.spotify.com/track/1NtQo6lwlWEIohiXAw2SKY"
@@ -665,7 +727,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 345620,
       "name": "I'MMA DO \uc544\ub9c8\ub450 (feat.Woo, Keem Hyoeun, Nucksal, Huckleberry P)",
       "url": "https://open.spotify.com/track/12u4NCbED8sXWUoBh9KEpA"
@@ -713,7 +775,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 235186,
       "name": "iii (Feat. Basick, Kid Milli & Paloalto) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP"
@@ -731,10 +793,32 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 205003,
       "name": "illa illa",
       "url": "https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb"
+    },
+    {
+      "album": {
+        "name": "School Rapper4 Final",
+        "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
+      },
+      "artists": [
+        {
+          "name": "PARKHYUNJIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213532,
+      "name": "INTRO (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
     },
     {
       "album": {
@@ -761,7 +845,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 197734,
       "name": "I\u2019m fine (With Sleepy, LOCO, Hoody)",
       "url": "https://open.spotify.com/track/4pthvdNd1EypeNic7l5ngz"
@@ -849,7 +933,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 200533,
       "name": "Let's Adventure To Find A Cat",
       "url": "https://open.spotify.com/track/2k1LyGqDqXtsDa6F1T6tfP"
@@ -875,7 +959,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 290400,
       "name": "Line No3 maebong station",
       "url": "https://open.spotify.com/track/1GWAuOd7yJs1r3KtyFl5XH"
@@ -999,10 +1083,36 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 329487,
       "name": "NoNo",
       "url": "https://open.spotify.com/track/2MFDkQrPQsQh1cWPtUuf7s"
+    },
+    {
+      "album": {
+        "name": "GAROSAWK",
+        "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
+      },
+      "artists": [
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "Don Sign.",
+          "url": "https://open.spotify.com/artist/3WYUaBrhM99nc6JAb3xeN2"
+        },
+        {
+          "name": "Noogi",
+          "url": "https://open.spotify.com/artist/0qTiUGFdEu8yRwmwHvMizq"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243832,
+      "name": "Paperolls (Feat. Noogi, Don Sign.)",
+      "url": "https://open.spotify.com/track/0DOcxoQgVHBzbqhWSTuoX0"
     },
     {
       "album": {
@@ -1028,6 +1138,76 @@
     },
     {
       "album": {
+        "name": "Kang's Kitchen3",
+        "url": "https://open.spotify.com/album/0HZyxYjfes2LXNtSCAzoFJ"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "P.O",
+          "url": "https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY"
+        },
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182671,
+      "name": "Pat Pat",
+      "url": "https://open.spotify.com/track/1JgGRf2zKk5R2lnI7SBptA"
+    },
+    {
+      "album": {
+        "name": "Primary and the Messengers LP",
+        "url": "https://open.spotify.com/album/31zxWs4ufiKxLiOE6aczru"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "E-Sens of Supreme Team",
+          "url": "https://open.spotify.com/artist/5FpJX9tfgg1j49VUTpt76a"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235240,
+      "name": "poison",
+      "url": "https://open.spotify.com/track/4G8pMn9Ecjf02BsnB2vXzQ"
+    },
+    {
+      "album": {
+        "name": "Show Me the Money 8 Episode 4",
+        "url": "https://open.spotify.com/album/1BfyVADByjeX8o6eI1u5Et"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228607,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/55zkUZwetPlxAav8xqWLSG"
+    },
+    {
+      "album": {
         "name": "Dingo X Bassagong \ubc43\uc0ac\uacf5",
         "url": "https://open.spotify.com/album/4iqWCYGWCUYQozrjWNhkVs"
       },
@@ -1050,6 +1230,28 @@
     },
     {
       "album": {
+        "name": "RAMIRANI",
+        "url": "https://open.spotify.com/album/05HL7hYaZKHiazEGzpPoAX"
+      },
+      "artists": [
+        {
+          "name": "Ra Mi Ran",
+          "url": "https://open.spotify.com/artist/72siRfnwioeRM5Szwha1TX"
+        },
+        {
+          "name": "Mirani",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183773,
+      "name": "RAMIRANI",
+      "url": "https://open.spotify.com/track/3xuqOPMe5k9HGbQJzP6GQT"
+    },
+    {
+      "album": {
         "name": "WATERFALL",
         "url": "https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t"
       },
@@ -1065,6 +1267,40 @@
       "duration_ms": 203615,
       "name": "Re-Birth",
       "url": "https://open.spotify.com/track/4zxR6NyxosZF1j8nlRmIN3"
+    },
+    {
+      "album": {
+        "name": "Dingo X DAMOIM (Part 4)",
+        "url": "https://open.spotify.com/album/4sU8qDqzopHhySQ8O0bNiv"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        },
+        {
+          "name": "DEEPFLOW",
+          "url": "https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231023,
+      "name": "RUN DAMOIM \ub2ec\ub824",
+      "url": "https://open.spotify.com/track/1b4FM2UG8kxlz63ugvfZR5"
     },
     {
       "album": {
@@ -1101,10 +1337,32 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 229463,
       "name": "sleep tight",
       "url": "https://open.spotify.com/track/3W2PPFdSBQeK96qQwKBnhH"
+    },
+    {
+      "album": {
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185808,
+      "name": "Sleepless (feat. Heize)",
+      "url": "https://open.spotify.com/track/0ifztmwdgzbJe8RU9tXBFk"
     },
     {
       "album": {
@@ -1123,7 +1381,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 132930,
       "name": "Someday (Feat. punchnello)",
       "url": "https://open.spotify.com/track/4LEdagnvxfsTontaUYLIMl"
@@ -1174,6 +1432,24 @@
     },
     {
       "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/1hn2ZGbHCcJE8AsAVph2QI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276612,
+      "name": "Still (feat.Crush)",
+      "url": "https://open.spotify.com/track/6z7gU9SBoBdqEaMi4jPKc2"
+    },
+    {
+      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/3YrUSNZmq6kPs3GmQg9ZxD"
       },
@@ -1185,7 +1461,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 225645,
       "name": "The Cure (for smiling grand daddy)",
       "url": "https://open.spotify.com/track/1rBo5ap4A7n7E5PrEztq3y"
@@ -1211,7 +1487,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 164035,
       "name": "The Little Prince (Prod. Godic)",
       "url": "https://open.spotify.com/track/7rJaRkfLLhOBkdyJ8OCPSq"
@@ -1229,7 +1505,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 261648,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/1J79ooMKKT8yK0rjPy1yZO"
@@ -1277,7 +1553,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 229575,
       "name": "Time limit (Feat. Leellamarz, Loco)",
       "url": "https://open.spotify.com/track/1jQg7ImfH2OVpp9lu9mOj0"
@@ -1325,7 +1601,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 227941,
       "name": "Universe (feat. Lee Juck)",
       "url": "https://open.spotify.com/track/68duJkvrmsHi0nR44nUXZc"
@@ -1369,6 +1645,28 @@
       "duration_ms": 172177,
       "name": "WHISTLE",
       "url": "https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut"
+    },
+    {
+      "album": {
+        "name": "Polodared",
+        "url": "https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR"
+      },
+      "artists": [
+        {
+          "name": "Polodared",
+          "url": "https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131180,
+      "name": "winter night (Feat. DUT2)",
+      "url": "https://open.spotify.com/track/6gIFRFKWuwF0J8maUzh54d"
     },
     {
       "album": {
@@ -1419,7 +1717,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 218526,
       "name": "Writer's Block",
       "url": "https://open.spotify.com/track/5GcokZlosL9XeWnSn0zugo"
@@ -1545,7 +1843,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 225694,
       "name": "You Can Stay",
       "url": "https://open.spotify.com/track/5xqnnQCmadTfdamDI4wl2s"

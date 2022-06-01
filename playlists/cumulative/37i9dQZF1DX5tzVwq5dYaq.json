@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 186986,
       "name": "2002",
       "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 211728,
       "name": "Call Me Maybe",
       "url": "https://open.spotify.com/track/6pDfipCmDcftSSylg3BXj7"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 219133,
       "name": "June, After Dark",
       "url": "https://open.spotify.com/track/1nSWQ5Y7OcuGiWGdA1UYlr"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 214430,
       "name": "Learn To Let Go",
       "url": "https://open.spotify.com/track/6Lqqc9jcrXUSxiDA5jle1j"
@@ -947,7 +947,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 207500,
       "name": "Lights in the City",
       "url": "https://open.spotify.com/track/2Vi6Ar8PteV4HmwY5SJj3Y"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 224169,
       "name": "My Lighthouse",
       "url": "https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 194285,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
@@ -1432,6 +1432,24 @@
     },
     {
       "album": {
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/3qTI8CIJDToCd3TTKmaI5X"
+      },
+      "artists": [
+        {
+          "name": "ARLO",
+          "url": "https://open.spotify.com/artist/0p5H44Hufi4BrG8PyaH7rK"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196354,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/3uvzyrLREMRMGWCBQfR8Ut"
+    },
+    {
+      "album": {
         "name": "Some Kind Of Purpose",
         "url": "https://open.spotify.com/album/0Og3biqAPjphY1IJvZvX13"
       },
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 211466,
       "name": "Say You Won't Let Go",
       "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
@@ -1823,7 +1841,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 143368,
       "name": "TG4M - Spotify Studios Recording",
       "url": "https://open.spotify.com/track/3QcwAf0IUy3DWn8xW3xUlq"
@@ -1845,7 +1863,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 223680,
       "name": "The Sound Of Sunshine",
       "url": "https://open.spotify.com/track/3L0lMJRRiW7ZA7r6WOwo6T"
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 182066,
       "name": "Ticket To Ride",
       "url": "https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P"

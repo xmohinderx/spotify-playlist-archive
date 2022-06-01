@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50YO169g6dw.md) - [plain]
 
 > The best of Within Temptation, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,351 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,470 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Faster](https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
 | 2 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 |
-| 3 | [Shed My Skin \(feat\. Annisokay\)](https://open.spotify.com/track/0lx2eqqsCRaTHlUU0PPZ5O) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Shed My Skin](https://open.spotify.com/album/5wQ5wKjbpHrjAITDl3LIVA) | 4:30 |
-| 4 | [The Purge](https://open.spotify.com/track/6pR3NxgHtficTizsYVRRmX) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Purge](https://open.spotify.com/album/3niQnbWWHiZqnqOHdM9N0U) | 4:16 |
-| 5 | [The Reckoning](https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Reckoning](https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj) | 4:11 |
+| 3 | [The Reckoning](https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Reckoning](https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj) | 4:11 |
+| 4 | [Shed My Skin \(feat\. Annisokay\)](https://open.spotify.com/track/0lx2eqqsCRaTHlUU0PPZ5O) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Shed My Skin](https://open.spotify.com/album/5wQ5wKjbpHrjAITDl3LIVA) | 4:30 |
+| 5 | [The Purge](https://open.spotify.com/track/6pR3NxgHtficTizsYVRRmX) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Purge](https://open.spotify.com/album/3niQnbWWHiZqnqOHdM9N0U) | 4:16 |
 | 6 | [Ice Queen \- Radio Edit](https://open.spotify.com/track/5oT4to1dCek4Sq9dl4cASv) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Ice Queen](https://open.spotify.com/album/5pot223TLoYd8liAUQN2PE) | 3:48 |
 | 7 | [All I Need](https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 4:50 |
 | 8 | [Angels](https://open.spotify.com/track/4QWLhGVitrCCysR3ugX9Xw) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50YO169g6dw.md) - [plain]
 | 49 | [Aquarius](https://open.spotify.com/track/0cnwPYPg1o7t5tJRC1kQgh) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:46 |
 | 50 | [Restless](https://open.spotify.com/track/3BwU2MOfODibVdFDjOW63r) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Enter](https://open.spotify.com/album/6epfHWA72uYzQbTLZ5Lot3) | 6:08 |
 
-Snapshot ID: `MTY0Njc0ODA3OCwwMDAwMDAxMjAwMDAwMTdmNjlkNTkxYjgwMDAwMDE3YWE5Yjg4M2Mz`
+Snapshot ID: `MTY1NDAwMTY2NywwMDAwMDAxMzAwMDAwMTgxMWEyZThmNWQwMDAwMDE3YWE5Yjg4M2Mz`

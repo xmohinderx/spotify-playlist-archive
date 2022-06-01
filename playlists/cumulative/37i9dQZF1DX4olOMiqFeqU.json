@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 289266,
       "name": "Before I Let You Go",
       "url": "https://open.spotify.com/track/5T8bLnWG8sg9ER8RKNZbCB"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 261866,
       "name": "Hanggang Kailan - Umuwi Ka Na Baby",
       "url": "https://open.spotify.com/track/5UhpceEr5XmbVwyoIUIRnh"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 246680,
       "name": "If We Fall in Love",
       "url": "https://open.spotify.com/track/7D4rSZoga8hqJqNOVcPde1"
@@ -496,6 +496,60 @@
     },
     {
       "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
+    },
+    {
+      "album": {
+        "name": "Love And Soul",
+        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
+      },
+      "artists": [
+        {
+          "name": "Jireh Lim",
+          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236705,
+      "name": "Magkabilang Mundo",
+      "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
+    },
+    {
+      "album": {
+        "name": "Malaya",
+        "url": "https://open.spotify.com/album/05rQadwAVYTpNNnBoeTuj0"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320320,
+      "name": "Malaya",
+      "url": "https://open.spotify.com/track/70bc7AZ8MN5niphOXyHpsD"
+    },
+    {
+      "album": {
         "name": "Maybe The Night",
         "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
       },
@@ -547,6 +601,24 @@
       "duration_ms": 267960,
       "name": "Migraine",
       "url": "https://open.spotify.com/track/7zzZmpw8L66ZPjH1M6qmOs"
+    },
+    {
+      "album": {
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV"
+      },
+      "artists": [
+        {
+          "name": "IV Of Spades",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349713,
+      "name": "Mundo",
+      "url": "https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8"
     },
     {
       "album": {
@@ -727,7 +799,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 253360,
       "name": "Sa'yo",
       "url": "https://open.spotify.com/track/29xs643Q96uQLD8f7SxYYw"
@@ -817,7 +889,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 222446,
       "name": "Tadhana",
       "url": "https://open.spotify.com/track/6NFKf8vBApSvtzkapYmnVR"
@@ -925,7 +997,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 220933,
       "name": "Tulad Mo",
       "url": "https://open.spotify.com/track/1YDHJAVkG1Z6mnzu1Orpap"

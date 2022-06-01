@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-676 songs - 1 day 11 hr 37 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+677 songs - 1 day 11 hr 42 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2021-08-27 | 2021-09-26 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-28 | 2022-01-01 |
 | [I Heard You’re Married \(feat\. Lil Wayne\)](https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 4:23 | 2022-01-08 | 2022-01-10 |
-| [i morgen er der også en dag](https://open.spotify.com/track/1zTLgT9jFwTuwrFFcOqXNw) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [hjem fra fabrikken](https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd) | 3:18 | 2022-03-05 |  |
+| [i morgen er der også en dag](https://open.spotify.com/track/1zTLgT9jFwTuwrFFcOqXNw) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [hjem fra fabrikken](https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd) | 3:18 | 2022-03-05 | 2022-06-01 |
 | [i morgen er der også en dag](https://open.spotify.com/track/06h2UnXLG2B0d3gRubMGNI) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [i morgen er der også en dag](https://open.spotify.com/album/5XofcmugnKHnyCsFBI9nDl) | 3:19 | 2021-04-24 | 2022-03-06 |
 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 | 2021-05-16 | 2021-05-21 |
 | [I Still Have Faith In You](https://open.spotify.com/track/3ddxe0WYUpNPtSnHgQOad5) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [I Still Have Faith In You / Don't Shut Me Down](https://open.spotify.com/album/02hUNciNYPRn4Fk5tY4toP) | 5:10 | 2021-09-05 | 2021-09-09 |
@@ -533,6 +533,7 @@
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/5gpImN0eqlucE3a3r121SF) | [Mel & Kim](https://open.spotify.com/artist/5XnIjshjqYVE2eDVgSt9Ro) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/73V5nh5BvwqITIDTz3PSzU) | 3:43 | 2021-11-28 | 2021-12-29 |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2022-01-01 | 2022-01-03 |
 | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy) | 2:52 | 2021-08-15 | 2021-08-22 |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-31 |  |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-02-16 |
 | [Samma gamla vanliga \(feat\. Branco & Kamelen\) \- Remix](https://open.spotify.com/track/6BrXK35IO466yYtq7iGqVh) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Samma gamla vanliga \(feat\. Branco & Kamelen\) \[Remix\]](https://open.spotify.com/album/0Yo9nhxBBW3vpl6HCfscS4) | 2:53 | 2021-08-22 | 2022-02-20 |
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/5Ber68jZ7ytegr2UISEdb7) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 2:51 | 2021-11-30 | 2021-12-27 |

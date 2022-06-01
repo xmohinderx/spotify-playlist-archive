@@ -2,7 +2,7 @@
 
 ### [Fuego](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
 
-> turn up with Mora 🔥🔥🔥
+> welcome to mixtape \#001\. turn up with Mora 🔥🔥🔥
 
 186 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/0hSeYoVweORyDdvXeDmbIS)
 

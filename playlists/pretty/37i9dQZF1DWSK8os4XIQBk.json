@@ -1,12 +1,12 @@
 {
   "description": "Nothing but the best modern country music. Cover: Jordan Davis",
-  "num_followers": 488280,
+  "num_followers": 488362,
   "original_name": "All About Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzk1ODkwNCwwMDAwMDAwMDBlN2VkMGE3ZjA4MmIxMTNiNDIwNjI1ZjU1YzgyNmUz",
+  "snapshot_id": "MTY1NDA0NTY2NCwwMDAwMDAwMGNmY2NkMThkMDUwYTUxZDg3ZDFkYmRjZDA0MGVlNjMw",
   "tracks": [
     {
       "added_at": "2022-05-27 05:40:59",
@@ -751,6 +751,22 @@
       "duration_ms": 213706,
       "name": "Do About Her",
       "url": "https://open.spotify.com/track/71ALgRSQ1neaZmRT2Ivj0P"
+    },
+    {
+      "added_at": "2022-05-27 05:40:59",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/53kNGz1qGKuHNOFYxGPZVs"
+      },
+      "artists": [
+        {
+          "name": "Hunter Brothers",
+          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
+        }
+      ],
+      "duration_ms": 172475,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/54dEctyawPXA7WsakKPrNL"
     },
     {
       "added_at": "2022-05-27 05:40:59",
@@ -1535,22 +1551,6 @@
       "duration_ms": 183597,
       "name": "Up",
       "url": "https://open.spotify.com/track/1GOMHxclGDvkcODCfYuuje"
-    },
-    {
-      "added_at": "2022-05-27 05:40:59",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/53kNGz1qGKuHNOFYxGPZVs"
-      },
-      "artists": [
-        {
-          "name": "Hunter Brothers",
-          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
-        }
-      ],
-      "duration_ms": 172475,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/54dEctyawPXA7WsakKPrNL"
     },
     {
       "added_at": "2022-05-27 05:40:59",

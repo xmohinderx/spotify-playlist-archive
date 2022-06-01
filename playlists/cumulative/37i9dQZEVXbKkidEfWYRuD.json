@@ -371,7 +371,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 159100,
       "name": "99 Problems",
       "url": "https://open.spotify.com/track/0r9fpWPI6z3V3YZXIiVaNC"
@@ -4347,7 +4347,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 186000,
       "name": "Oy U Luzi Chervona Kalyna - Army Remix",
       "url": "https://open.spotify.com/track/6nl2T8YjOdFFnQ4xBHXfdm"
@@ -4681,7 +4681,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 145918,
       "name": "Putin",
       "url": "https://open.spotify.com/track/3lCZxajTCSYR5OnHPEfa2v"
@@ -12419,6 +12419,24 @@
       "duration_ms": 147821,
       "name": "\u0421\u0422\u041e\u041c\u0410\u0422\u041e\u041b\u041e\u0413\u0418\u0427\u041a\u0410",
       "url": "https://open.spotify.com/track/1GAQCGqNVPWbM7Qm1cbi62"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/4yyHZ3BwUVbPrimJffzkxE"
+      },
+      "artists": [
+        {
+          "name": "V $ X V PRiNCE",
+          "url": "https://open.spotify.com/artist/43cTNOHTq4t7YzHyttQxNf"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182807,
+      "name": "\u0421\u0443\u0435\u0442\u0430",
+      "url": "https://open.spotify.com/track/5oDzu4mpi13XnbBteabhYF"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 ### [Tirade](https://open.spotify.com/playlist/37i9dQZF1DWWXzA48d9shL)
 
-> 😈 😈 😈   new Freddie Dredd
+> 😈 😈 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,053 likes - 119 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,490 likes - 119 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 118 | [Off the Leash](https://open.spotify.com/track/1JgQeigk5XdpxGLwgWCJlG) | [Bearded Legend](https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe), [Burgos](https://open.spotify.com/artist/3chqU15yLP7B3XRQpILQY2), [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Off the Leash](https://open.spotify.com/album/6UkwTJMCVJuIqkHwJ7NTME) | 3:04 |
 | 119 | [VOIDED](https://open.spotify.com/track/2P80oFW7fkxf4IlJn3tU9D) | [Dawsxn](https://open.spotify.com/artist/3uPpIPF3bXMyQYCglS7dZL), [Wasteland Doctor](https://open.spotify.com/artist/6k9QRlQGgtlSZiJhnvKVqC) | [VOIDED](https://open.spotify.com/album/1qVjnfZmTU80xGD1VxTVZE) | 3:03 |
 
-Snapshot ID: `MTY1MzYyNDMwMCwwMDAwMDBhODAwMDAwMTgxMDNiMDYyNGMwMDAwMDE4MTAxMDdiZDBk`
+Snapshot ID: `MTY1NDAyNTAxMSwwMDAwMDBhOTAwMDAwMTgxMWI5MmMyY2QwMDAwMDE4MTAxMDdiZDBk`

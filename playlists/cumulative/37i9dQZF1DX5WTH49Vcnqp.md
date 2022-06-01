@@ -4,7 +4,7 @@
 
 > music that's hard to define but easy to love feat\. Alfie Templeman
 
-357 songs - 20 hr 25 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+358 songs - 20 hr 28 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Breakfast With You](https://open.spotify.com/track/7BmSy7lf9pPK1X1y0xfgzo) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [Breakfast With You](https://open.spotify.com/album/64jYA3DliGLlsFdx7Yiv57) | 4:02 | 2022-03-14 | 2022-05-20 |
 | [Breathe Deeper \- Lil Yachty Remix](https://open.spotify.com/track/6GtOsEzNUhJghrIf6UTbRV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Breathe Deeper \(Lil Yachty Remix\)](https://open.spotify.com/album/3Gl28UI0f8xU2DAhaXWz04) | 4:48 | 2021-12-28 | 2022-01-25 |
 | [Broken](https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Broken](https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12) | 3:12 | 2022-02-03 | 2022-04-01 |
+| [Bull Breed](https://open.spotify.com/track/6wndWnjI4UxLDBBu1XeHsC) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bull Breed](https://open.spotify.com/album/1mee0IS1v4ushnhl91NdHC) | 2:52 | 2022-05-31 |  |
 | [Buttercup](https://open.spotify.com/track/72dgu4KCdzOBYJP7YvqCkM) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Meadow](https://open.spotify.com/album/4FDZdAYlV11jeR3kjb1wWh) | 2:58 | 2021-12-28 | 2022-02-04 |
 | [Butterfly Wings](https://open.spotify.com/track/6ztyTVTG3R8PPHLaFSA3VR) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Butterfly Wings](https://open.spotify.com/album/6yiwj0mGVdZzzzytu5OUiP) | 3:32 | 2022-02-28 | 2022-04-01 |
 | [Call A Friend](https://open.spotify.com/track/2JoNqjOOEn1VsiDMS3BQ85) | [Lukae](https://open.spotify.com/artist/0nr5bZCgtf6iFnxuqax6hf) | [Call A Friend](https://open.spotify.com/album/0Jbje8lsvFcHUhXSovEQn2) | 2:52 | 2022-02-24 | 2022-04-01 |
@@ -199,7 +200,7 @@
 | [Manny](https://open.spotify.com/track/77v21IlaoE3NXVvC8TT2Xo) | [Ball Park Music](https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH) | [Manny](https://open.spotify.com/album/13wLmWNHhHvu4KpCEwHdQG) | 3:32 | 2022-05-09 |  |
 | [Margot Robbie](https://open.spotify.com/track/2761D6z19ksxVMO1JKvkYW) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Eluera](https://open.spotify.com/artist/7kvqbETQGxrUmRBEl6l10Q) | [Margot Robbie](https://open.spotify.com/album/1cQaIKC5MFjbvaZfySiUh8) | 2:56 | 2022-05-12 |  |
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2022-02-21 | 2022-05-13 |
-| [Marry Myself](https://open.spotify.com/track/0JbISF5Bbv2RFU06L8IPgq) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK) | 3:02 | 2022-03-03 |  |
+| [Marry Myself](https://open.spotify.com/track/0JbISF5Bbv2RFU06L8IPgq) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK) | 3:02 | 2022-03-03 | 2022-06-01 |
 | [Marvelous](https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 2:22 | 2022-03-24 | 2022-05-27 |
 | [mathematics](https://open.spotify.com/track/14wlnbFSJj5VTK5c1cDQMQ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [mathematics](https://open.spotify.com/album/0YoJg9rGP5vZI7sMC3vwhm) | 2:27 | 2022-04-07 | 2022-05-13 |
 | [Meet U Again](https://open.spotify.com/track/5olHyFqKwYuX4UNE1bHeBO) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Meet U Again](https://open.spotify.com/album/3Wf8JA1DpgNWqFLJEItImP) | 2:35 | 2022-03-10 |  |

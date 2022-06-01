@@ -137,7 +137,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 172500,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 139404,
       "name": "Boom",
       "url": "https://open.spotify.com/track/0YwlHzRYRU2LV2gtWklmD5"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 168515,
       "name": "Cross My Heart",
       "url": "https://open.spotify.com/track/4RxTUxyNf3NFE4eqZqIfcf"
@@ -1701,7 +1701,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 201204,
       "name": "Flames",
       "url": "https://open.spotify.com/track/4BEsc7EIzOYFiClFnV8weP"
@@ -3567,7 +3567,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 154017,
       "name": "Need U - Spotify Singles",
       "url": "https://open.spotify.com/track/6Ww581O9pklqs42MN4Da6q"
@@ -4141,7 +4141,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 231290,
       "name": "Permanence",
       "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
@@ -4273,7 +4273,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 141931,
       "name": "Rain In Ibiza",
       "url": "https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4"
@@ -5447,6 +5447,28 @@
       "duration_ms": 198754,
       "name": "Turn Off The Lights - Cloonee Remix",
       "url": "https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA"
+    },
+    {
+      "album": {
+        "name": "Turn The Lights Down Low (with R3HAB)",
+        "url": "https://open.spotify.com/album/1usPxiJgVaGlHimpLVMgox"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Turn The Lights Down Low (with R3HAB)",
+      "url": "https://open.spotify.com/track/6k330QxFV5VXZSDj5wTUNR"
     },
     {
       "album": {

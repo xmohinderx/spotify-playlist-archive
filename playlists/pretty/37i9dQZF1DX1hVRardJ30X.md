@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Anuel AA
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,551 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,602 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 9 | [Q´Hubo Bebé](https://open.spotify.com/track/2TPWn36SvcFXT2lEfEvm0p) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Q´Hubo Bebé](https://open.spotify.com/album/5mENGsx78U8fn1xigykmwj) | 3:00 |
 | 10 | [LA QUE ME HIZO LLORAR](https://open.spotify.com/track/7yyUsqAbI09cq7K7uqgyAU) | [Dimelo Siru](https://open.spotify.com/artist/43qI3XmeUHEEH7wzGzpGNk), [Yeziell Yeziell](https://open.spotify.com/artist/1ZpejZEeZNKmelol7PdeIc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [LA QUE ME HIZO LLORAR](https://open.spotify.com/album/1UoyxMjFrxcgrSiT5K62bY) | 3:20 |
 | 11 | [Location](https://open.spotify.com/track/0tvrucEjmw7aNS9qBSHO4l) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Location](https://open.spotify.com/album/1GrXGufWR0SpirLdB3fIMj) | 2:05 |
-| 12 | [El Día Que Me Quieras](https://open.spotify.com/track/6Z35p0HLlziegfovv9KkT4) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Tango](https://open.spotify.com/album/1itx6yO99rGL8cYJGcxAMY) | 4:11 |
+| 12 | [Nada](https://open.spotify.com/track/1RnvVS4OV3nbNxQ9uOnbTu) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Tango](https://open.spotify.com/album/1itx6yO99rGL8cYJGcxAMY) | 3:34 |
 | 13 | [La Despedida](https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Despedida](https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5) | 2:59 |
 | 14 | [La Prendo](https://open.spotify.com/track/6t48UVZvQWh5wWfWlCZfzY) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Prendo](https://open.spotify.com/album/4eCRi01qxklHWrG0sIra8x) | 3:01 |
 | 15 | [El Cielo Se Me Cayó](https://open.spotify.com/track/7q72vajxaywdWMdena6o54) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [El Cielo Se Me Cayó](https://open.spotify.com/album/49E0S14vGXYJSMrloi57sn) | 2:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 59 | [Recuerdos](https://open.spotify.com/track/6O2d7tBZq2CMyNXVuwmvpM) | [Yoryi One](https://open.spotify.com/artist/5zs1gJhToaxfV8pEmeIKqX), [Zaeed](https://open.spotify.com/artist/6oKe9ykerZRf9ghCORfjbQ) | [Esto es Música para el Mundo](https://open.spotify.com/album/7mFSAGhh93NvztMVDKq4q8) | 3:05 |
 | 60 | [Los Desmadrosos](https://open.spotify.com/track/4P9bwndbXBJiFKUmGI5g4a) | [SuenaTron](https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4) | [Santa Borrachera](https://open.spotify.com/album/55S9hto7bHXMYiACrb14la) | 2:54 |
 
-Snapshot ID: `MTY1Mzc4ODY2NCwwMDAwMDM5NTAwMDAwMTgxMGQ3YzYyOWQwMDAwMDE4MGZiYjZkMzIz`
+Snapshot ID: `MTY1NDAwMzcyNywwMDAwMDM5NjAwMDAwMTgxMWE0ZGZjYzYwMDAwMDE4MGZiYjZkMzIz`

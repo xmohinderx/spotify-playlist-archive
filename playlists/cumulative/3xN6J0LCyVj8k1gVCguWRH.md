@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,427 songs - 3 day 11 hr 9 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,429 songs - 3 day 11 hr 17 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [Do I Do](https://open.spotify.com/track/4P91jW5QmEkhoLgdMujp82) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2) | 5:03 | 2020-08-20 |  |
 | [Do Not Grill Inside \- Original Mix](https://open.spotify.com/track/0kbUD0WNZDKeObJrlgvzXr) | [Gab Rhome](https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI) | [Rêveries Éphémères](https://open.spotify.com/album/5H3DwYzlv34fAyGn5AEtk2) | 6:53 | 2021-04-03 | 2021-04-18 |
 | [Do This To Me](https://open.spotify.com/track/3SsDNoQIPbvi72S83zqLES) | [Love Level](https://open.spotify.com/artist/5rvUlI4cK6csRpgrOEeuRb) | [Love Level](https://open.spotify.com/album/4kICkffmL9wkUmIkKyuHit) | 3:50 | 2021-08-26 | 2021-09-11 |
-| [Do You Know What I Mean](https://open.spotify.com/track/25ESdAEdfA6fPM222g1Rxg) | [Sol Y Motion](https://open.spotify.com/artist/24AY9nmcbCmv0EHlXmE01o) | [Do You Know What I Mean](https://open.spotify.com/album/5yFbic3Mwt73OdJJKuQGF5) | 3:37 | 2022-05-11 |  |
+| [Do You Know What I Mean](https://open.spotify.com/track/25ESdAEdfA6fPM222g1Rxg) | [Sol Y Motion](https://open.spotify.com/artist/24AY9nmcbCmv0EHlXmE01o) | [Do You Know What I Mean](https://open.spotify.com/album/5yFbic3Mwt73OdJJKuQGF5) | 3:37 | 2022-05-11 | 2022-06-01 |
 | [Do You Wanna Know](https://open.spotify.com/track/2X85h0gD3Tx1lpOXktZ18N) | [Lujza](https://open.spotify.com/artist/14lUC6NbE64ObCIHsy5jQ6) | [Do You Wanna Know](https://open.spotify.com/album/3DmhSYhozucyVWtKclydrs) | 3:45 | 2022-05-25 |  |
 | [Does Anybody Really Know What Time It Is?](https://open.spotify.com/track/6Q6YqGj1Ku1CUGHWSFwSHY) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago IX: Chicago's Greatest Hits](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) | 3:22 | 2021-07-11 |  |
 | [Doll Factory](https://open.spotify.com/track/7cXFncxJjkWKNHvtsYR0k3) | [Naïma Quartet](https://open.spotify.com/artist/6zCEghwVwgyVaE5ZoledHB) | [Zephyr](https://open.spotify.com/album/6H2CRXsBQjjEzjBe7PPseE) | 6:04 | 2021-04-03 | 2021-04-18 |
@@ -362,6 +362,7 @@
 | [Down for You](https://open.spotify.com/track/5OpGC0PD5w1xafJWwWajw2) | [Daisy Gray](https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th) | [Down for You](https://open.spotify.com/album/1UoDpKmBLkCocCqOVhdy2C) | 3:07 | 2020-12-26 | 2021-01-30 |
 | [Down For You](https://open.spotify.com/track/65RTQ3pubRxKvdBlPxENbw) | [Suzanne Sheer](https://open.spotify.com/artist/5qVm0R7H2e4scFgPNzLuxb) | [Down For You](https://open.spotify.com/album/2WabZqiW18szqtpySyU6yp) | 2:53 | 2022-04-10 | 2022-04-27 |
 | [Down to the Wire](https://open.spotify.com/track/1cGMOg4ZW3lVl6LObmouoP) | [Will Buck](https://open.spotify.com/artist/509OV27uMsKgVry3SaNjSR) | [Epicurus](https://open.spotify.com/album/4uIPKANn5rXLXy2cqbVsgF) | 3:54 | 2021-02-09 | 2021-02-23 |
+| [Dream](https://open.spotify.com/track/37CdCdasQ8YPSzs0tAWqeQ) | [st\. art](https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH) | [Dream](https://open.spotify.com/album/5EjNnUjVvOjijI81s37aUh) | 4:23 | 2022-05-31 |  |
 | [Dream Song](https://open.spotify.com/track/7J6bBnnykhiGvw6zjBP423) | [telco](https://open.spotify.com/artist/6M6obxInga7XUzdpC7irmd) | [Please, Come Home](https://open.spotify.com/album/4NrIGbAQCnlkpA8GtalM5T) | 4:31 | 2021-10-23 | 2021-11-07 |
 | [Dreams](https://open.spotify.com/track/0GZgpLTjtWNeTLasSGRXl1) | [Yon Idy](https://open.spotify.com/artist/4D92NZA9x3RLim0Ap6p8hr) | [Dreams](https://open.spotify.com/album/3pNWwKyRTMLTUc7LxyVN9k) | 3:02 | 2022-04-29 | 2022-05-15 |
 | [Drift Away](https://open.spotify.com/track/11YWR8tzDTR2P4KZ3lAySj) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Throwback Tunes: 70s](https://open.spotify.com/album/5DJHtJpuoj7VidJ447oD8s) | 3:54 | 2019-09-29\* | 2021-11-19 |
@@ -495,6 +496,7 @@
 | [Gifted](https://open.spotify.com/track/2IXrj11KciARdoHi6wwaAj) | [Abigail Bleu](https://open.spotify.com/artist/4G3gNfESu3cyJDQhTvIrDh) | [Gifted](https://open.spotify.com/album/68BgaM4bcC4meOwDl0iwyz) | 2:34 | 2021-02-23 | 2021-03-24 |
 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 | 2021-08-28 | 2021-09-11 |
 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 | 2020-07-04 | 2020-08-20 |
+| [Girl Next Door](https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Girl Next Door](https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH) | 3:33 | 2022-05-31 |  |
 | [Give It To Me](https://open.spotify.com/track/7rxfBEkP1isdJ5YzdoM1Ts) | [Eila](https://open.spotify.com/artist/3QgHVqOGDEvvWFr5fI2DTW) | [Give It To Me](https://open.spotify.com/album/7dvjFjjlTFQ0sDsLNufUBf) | 3:18 | 2021-06-12 | 2021-06-27 |
 | [Give Me Something](https://open.spotify.com/track/0mkrs3mGLly21zjvShjc85) | [Hollysiz](https://open.spotify.com/artist/6SLddo53tvP0cJdocEutfV) | [Thank You All I'm Fine](https://open.spotify.com/album/4q6QZqsrFloS4QT7WmYqKP) | 3:19 | 2021-09-14 | 2021-09-30 |
 | [Give My Soul](https://open.spotify.com/track/7KAeVZatzn04AYqGwLefMX) | [Norly Joy](https://open.spotify.com/artist/16LoRYLcKV99W10da1ygbw) | [Give My Soul](https://open.spotify.com/album/6HQ8KL4v0qPpIhj8oeeskM) | 4:27 | 2020-09-01 | 2020-09-16 |
@@ -988,7 +990,7 @@
 | [Promises](https://open.spotify.com/track/1odu54XH3moZFuZScdZ92D) | [Lujza](https://open.spotify.com/artist/14lUC6NbE64ObCIHsy5jQ6) | [Promises](https://open.spotify.com/album/6G0qB1NM36mVSSW20R4xgX) | 3:38 | 2022-02-10 | 2022-02-27 |
 | [Promises \- Radio Edit](https://open.spotify.com/track/04rVVz0D8JkqxUY13mW3A5) | [Jayloid](https://open.spotify.com/artist/4PmT0Z7ZBsJXA6kCyMsiHM) | [Promises \(Radio Edit\)](https://open.spotify.com/album/4nMewslQ0942XkLZ8uHVnW) | 4:16 | 2022-04-08 | 2022-04-24 |
 | [Pronto](https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Pronto](https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ) | 3:48 | 2021-02-12 | 2021-02-27 |
-| [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-05-07 |  |
+| [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-05-07 | 2022-06-01 |
 | [Pull Me Under](https://open.spotify.com/track/0zn3fYJWDNQSeczvT8YdIp) | [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Pull Me Under](https://open.spotify.com/album/1GCQ1N8wLN4zgo8sntuBFR) | 5:59 | 2020-05-22 | 2020-06-01 |
 | [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2020-03-11 | 2020-04-09 |
 | [Purple Lights](https://open.spotify.com/track/27LbOnQDsuVCj45XTcfnGZ) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Purple Lights](https://open.spotify.com/album/58nnWXMNP6rMVyN4EazeFR) | 3:25 | 2019-12-03 | 2019-12-11 |

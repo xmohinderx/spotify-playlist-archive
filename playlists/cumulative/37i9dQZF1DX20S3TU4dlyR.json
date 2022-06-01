@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 229533,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/2azYY9f1jGswkxs2nfO9E9"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 254085,
       "name": "Aroma de Caf\u00e9",
       "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 331833,
       "name": "Blues for Robin",
       "url": "https://open.spotify.com/track/1amEsAgR9loL4QfCogIfrN"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 219293,
       "name": "Buen D\u00eda",
       "url": "https://open.spotify.com/track/4pyVpSIVTjtqbm8YczHvea"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 221912,
       "name": "Camino",
       "url": "https://open.spotify.com/track/6xubp8IMFJZa4xZylMXwYo"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 256880,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1zjbYt5OsR2WpvrigMrpid"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 208596,
       "name": "Cuanto Heredamos",
       "url": "https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 189453,
       "name": "De la Tierra Crece",
       "url": "https://open.spotify.com/track/2um53B5wdoATS9GbrWf5Vo"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 243391,
       "name": "Desinformation",
       "url": "https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 230986,
       "name": "Diablito",
       "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
@@ -607,6 +607,24 @@
       "duration_ms": 253760,
       "name": "El Brillo de los Dos",
       "url": "https://open.spotify.com/track/0KveNvbIovj7O7bgzrr0ED"
+    },
+    {
+      "album": {
+        "name": "El Cuento",
+        "url": "https://open.spotify.com/album/2qselQbY8QZncTIS9Aenn2"
+      },
+      "artists": [
+        {
+          "name": "Kameleba",
+          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190127,
+      "name": "El Cuento",
+      "url": "https://open.spotify.com/track/6Z64rcX4toR740wFD9PCvT"
     },
     {
       "album": {
@@ -765,7 +783,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 183214,
       "name": "Escucha",
       "url": "https://open.spotify.com/track/2ee0MvrSY21olco3ClSD39"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 444584,
       "name": "Espera",
       "url": "https://open.spotify.com/track/46YAvb4Ns6X6cODHCmZS8P"
@@ -975,7 +993,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 235120,
       "name": "Jamaica Reggae (En Vivo)",
       "url": "https://open.spotify.com/track/6D3MOX8hJfilSYUpLzvCBg"
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 219936,
       "name": "La Alegr\u00eda Manda",
       "url": "https://open.spotify.com/track/0xlJjSgFvffjl78AE5003Q"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 267666,
       "name": "Lo Que Dicta El Tiempo",
       "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 189806,
       "name": "Mi Dulce Amor",
       "url": "https://open.spotify.com/track/5IMiNgnJHMzSva0maocFXB"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 376800,
       "name": "Misterio",
       "url": "https://open.spotify.com/track/3xKXKFjtT24Z6RDNXPF4au"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 202306,
       "name": "M\u00e1s Libre",
       "url": "https://open.spotify.com/track/20HhIBf0Gd4U7KhOr2dcC4"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 206766,
       "name": "No Insistas",
       "url": "https://open.spotify.com/track/4SdoaFB9giKlapsCBwja6c"
@@ -1496,6 +1514,28 @@
     },
     {
       "album": {
+        "name": "Olv\u00eddate de Todo",
+        "url": "https://open.spotify.com/album/6OvDunTn5gcFKslC7Jr16x"
+      },
+      "artists": [
+        {
+          "name": "Hermano L",
+          "url": "https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1"
+        },
+        {
+          "name": "The Golden Travellers",
+          "url": "https://open.spotify.com/artist/5FQLtptVnc5LPSRBaRTlKh"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Olv\u00eddate de Todo",
+      "url": "https://open.spotify.com/track/32SyyTykqugl87twT0ss5L"
+    },
+    {
+      "album": {
         "name": "Bahiano BH+",
         "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
       },
@@ -1543,7 +1583,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 170976,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/3uS5lBNjkk8DD8CSzy1gq6"
@@ -1891,7 +1931,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 203568,
       "name": "Sisters",
       "url": "https://open.spotify.com/track/64javozcRkMoxYdbhIiUXo"
@@ -1909,7 +1949,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 205113,
       "name": "Slogan",
       "url": "https://open.spotify.com/track/4E5D8hsCn2PXgSsLuOoBiE"
@@ -1957,6 +1997,28 @@
       "duration_ms": 233467,
       "name": "Soy Latino",
       "url": "https://open.spotify.com/track/5dPfAVG0W9klx9k0AnRFrT"
+    },
+    {
+      "album": {
+        "name": "Su Gal\u00e1n",
+        "url": "https://open.spotify.com/album/5o2w80GzEIwynrfs0VxFTX"
+      },
+      "artists": [
+        {
+          "name": "Afrodisiaco",
+          "url": "https://open.spotify.com/artist/184bX1ApmIMyWU3TcpTy93"
+        },
+        {
+          "name": "Fabio Zambrana",
+          "url": "https://open.spotify.com/artist/1oE7Qu3oJjxsCMKGauY7rp"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Su Gal\u00e1n",
+      "url": "https://open.spotify.com/track/0ZVUDB9PwvaeZLQbBc7bz2"
     },
     {
       "album": {
@@ -2025,7 +2087,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 230132,
       "name": "Todo Es As\u00ed",
       "url": "https://open.spotify.com/track/0KXw3dbbDFx75viq9HtMT4"
@@ -2245,7 +2307,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 211373,
       "name": "Voc\u00ea Me Encantou Demais - Ao Vivo",
       "url": "https://open.spotify.com/track/5iI2yN0RGxzFgdzlcQsTHi"
@@ -2395,7 +2457,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 211748,
       "name": "We Are The Lions - Spanish Version",
       "url": "https://open.spotify.com/track/0CBqh4H4lijAh735YZSLrs"

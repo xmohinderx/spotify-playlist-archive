@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 264413,
       "name": "Aces High - cover version",
       "url": "https://open.spotify.com/track/0C54uocegt2AqgdJkrFNqo"
@@ -53,10 +53,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 182337,
       "name": "Animals",
       "url": "https://open.spotify.com/track/6656ZMxIGQewFwQt5x4GvR"
+    },
+    {
+      "album": {
+        "name": "The Best of Voivod",
+        "url": "https://open.spotify.com/album/0TJzcxxTif2yPcgdn1EKdj"
+      },
+      "artists": [
+        {
+          "name": "Voivod",
+          "url": "https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330306,
+      "name": "Astronomy Domine",
+      "url": "https://open.spotify.com/track/4gHNdbRBmLgMmZFBG99Hje"
     },
     {
       "album": {
@@ -215,7 +233,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 248333,
       "name": "Cinnamon Girl",
       "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
@@ -255,6 +273,24 @@
       "duration_ms": 314357,
       "name": "Devil Inside",
       "url": "https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo"
+    },
+    {
+      "album": {
+        "name": "Punk Goes Classic Rock",
+        "url": "https://open.spotify.com/album/64RLAKcWXgTpahzJbgEqZz"
+      },
+      "artists": [
+        {
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292426,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/5sIHNMVLSH976hIf2X6SwX"
     },
     {
       "album": {
@@ -538,6 +574,24 @@
     },
     {
       "album": {
+        "name": "Hunting High and Low",
+        "url": "https://open.spotify.com/album/6Q564q0CmThXMx6rGrqPEf"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277040,
+      "name": "Hunting High and Low",
+      "url": "https://open.spotify.com/track/15W0PcvB3DWsgbvWLsYU5A"
+    },
+    {
+      "album": {
         "name": "The Blood of Gods",
         "url": "https://open.spotify.com/album/4Ps3txaybLW14aDROZ48sL"
       },
@@ -661,7 +715,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 232173,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7nCfQgMxKhFd4bnFZi9fqN"
@@ -884,6 +938,24 @@
     },
     {
       "album": {
+        "name": "The New Order",
+        "url": "https://open.spotify.com/album/1i0xUSNR8hWBIeaDSnN569"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235506,
+      "name": "Nobody's Fault",
+      "url": "https://open.spotify.com/track/4Og5wfzHWBF46vKYwD7h9B"
+    },
+    {
+      "album": {
         "name": "Only for the Weak",
         "url": "https://open.spotify.com/album/0LGDnOKdzUM9QtXTFvOWQu"
       },
@@ -996,6 +1068,42 @@
     },
     {
       "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/3Vxu0NBOsh2CIOJFvPrcmF"
+      },
+      "artists": [
+        {
+          "name": "Inter Arma",
+          "url": "https://open.spotify.com/artist/5ZG7r3Jg0Y1hGQRMQ8hdRs"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473000,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/1GphXtlFS2rhVpLxbDCSsK"
+    },
+    {
+      "album": {
+        "name": "Raven's Flight",
+        "url": "https://open.spotify.com/album/3qjk9aZ92i9bDJCon9Xmlz"
+      },
+      "artists": [
+        {
+          "name": "Mob Rules",
+          "url": "https://open.spotify.com/artist/13dxEWLoiRvGU1MK4nVUj4"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314875,
+      "name": "Raven's Flight",
+      "url": "https://open.spotify.com/track/1Kjt2A5PjTSQO8n9wR7Nr9"
+    },
+    {
+      "album": {
         "name": "My Arms, Your Hearse",
         "url": "https://open.spotify.com/album/4b7oroZfX3w5vaRaotvr6p"
       },
@@ -1079,7 +1187,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 243520,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/1jRJ6mZwtu6mBU0FK2LfjH"
@@ -1173,7 +1281,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 282978,
       "name": "Supernaut",
       "url": "https://open.spotify.com/track/3J9wENBvJiAv2YNtPRlKDf"
@@ -1238,6 +1346,24 @@
     },
     {
       "album": {
+        "name": "Graveyard Classics",
+        "url": "https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV"
+      },
+      "artists": [
+        {
+          "name": "Six Feet Under",
+          "url": "https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208533,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP"
+    },
+    {
+      "album": {
         "name": "Black Clouds & Silver Linings (Special Edition)",
         "url": "https://open.spotify.com/album/2qMujQgkbogm4owxpt8aVP"
       },
@@ -1249,7 +1375,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 435853,
       "name": "To Tame a Land",
       "url": "https://open.spotify.com/track/0OfFgbRGM8qMxDofN3lpdM"

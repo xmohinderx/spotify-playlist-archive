@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: SpendyMily
 
-1,299 songs - 3 day 7 hr 55 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
+1,300 songs - 3 day 8 hr 6 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Be Alright](https://open.spotify.com/track/3fgGEuyQfCo0jFnvWqLxdE) | [Harumi](https://open.spotify.com/artist/01AnOmJCFPom13jKelxk8D) | [My Heartbeat](https://open.spotify.com/album/02JXft9Jo1IZNA9SLGlKs7) | 3:18 | 2022-01-31 | 2022-02-15 |
 | [BEAT UP](https://open.spotify.com/track/7CYrMbklWbW2QetWK3VcTZ) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [ima](https://open.spotify.com/album/1vbWoPSxWkOuiRf72XLNOa) | 2:32 | 2022-03-01 | 2022-03-15 |
 | [Beautiful You](https://open.spotify.com/track/3rTr1qTpL9HxTPS0zNd69a) | [AK Akemi Kakihara](https://open.spotify.com/artist/5apbo7p8o1eX4x94TBHUGh) | [Beautiful You](https://open.spotify.com/album/1RMuPiu7slfCg6p2rl4v8t) | 4:37 | 2022-04-25 | 2022-05-25 |
+| [Beautiful You \- Danny Krivit's Edit of Hex Hector's Lush Mix](https://open.spotify.com/track/5qytcPloGQ0pteCcGihTyM) | [AK Akemi Kakihara](https://open.spotify.com/artist/5apbo7p8o1eX4x94TBHUGh), [Hex Hector](https://open.spotify.com/artist/1jLOGxY81S3FNq29X3qvmj), [Danny Krivit](https://open.spotify.com/artist/0Y5z4slenWMoTz3sg8N6xD) | [Beautiful You \(Danny Krivit's Edit of Hex Hector's Lush Mix\)](https://open.spotify.com/album/4JPSshMzdfADmta2MnOnQo) | 10:47 | 2022-05-31 |  |
 | [Beetle](https://open.spotify.com/track/5hMboF4gioM1euXxpfaQpM) | [Nyarons](https://open.spotify.com/artist/4L5K9BR3qaZQw8QAoMBUta) | [Beetle](https://open.spotify.com/album/0aylAz9IGSeUrLma0mYMZ1) | 2:46 | 2022-01-17 | 2022-01-25 |
 | [BEST FRIEND!](https://open.spotify.com/track/2ONrRVG2HqZXjAKJB4PTdM) | [sooogood!](https://open.spotify.com/artist/72C5vNpdDKj70D3NU1P5fB) | [BEST FRIEND!](https://open.spotify.com/album/23enEXwnwMQW39yKB4f2nj) | 2:27 | 2022-05-30 |  |
 | [Beyond META](https://open.spotify.com/track/7rwzL2Zz03dD8kXpO8ESRh) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Beyond META](https://open.spotify.com/album/2IBFqa929w1GvPSCmNbMZ7) | 3:37 | 2022-05-16 |  |
@@ -513,7 +514,7 @@
 | [Stupid!!](https://open.spotify.com/track/4sWWmy5AKtN8isxqv6crsT) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Smoke!!](https://open.spotify.com/album/7vFJI5E9v7jFfxhCCXsIX2) | 2:11 | 2021-12-14 | 2021-12-21 |
 | [Stupid, Careless, Dumb](https://open.spotify.com/track/4mUDOrgzVx133cTKWPHIPH) | [AKINA](https://open.spotify.com/artist/2TZ7ekdDqO8AaRC6YTsTcC) | [Stupid, Careless, Dumb](https://open.spotify.com/album/64h1zK4KpDtkORonCdanhC) | 3:53 | 2021-10-20 | 2021-10-27 |
 | [Style](https://open.spotify.com/track/18j4xNgs8UayO9uhtkpsSL) | [cute girls doing cute things](https://open.spotify.com/artist/7a0SE5n7aPUDD3OlAg0hly) | [Style](https://open.spotify.com/album/7puhZiIqUDqc4DOZxTHTZC) | 4:15 | 2021-10-27 | 2021-11-03 |
-| [Sugar](https://open.spotify.com/track/3zyq4nGYgTYNHcp3vXP58R) | [biz](https://open.spotify.com/artist/0ItDUkyJTCrl0sfGIM76ms), [菅原圭](https://open.spotify.com/artist/6QOnk7zoSFeg8ysHCUAOA8) | [Sugar](https://open.spotify.com/album/3f2Odv10uR5PgTLvDBdn5v) | 1:31 | 2022-05-30 |  |
+| [Sugar](https://open.spotify.com/track/3zyq4nGYgTYNHcp3vXP58R) | [biz](https://open.spotify.com/artist/0ItDUkyJTCrl0sfGIM76ms), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [Sugar](https://open.spotify.com/album/3f2Odv10uR5PgTLvDBdn5v) | 1:31 | 2022-05-30 |  |
 | [Sugar \-Constant Duality\-](https://open.spotify.com/track/1tIIBCygllMxLbRu6YfAV6) | [A.Y.A](https://open.spotify.com/artist/4OZ4FDPU8MWXKAZgmijgML) | [Sugar \-Constant Duality\-](https://open.spotify.com/album/3FFv3ORfMvG8dBrsIg1ZlF) | 2:58 | 2022-04-19 | 2022-05-25 |
 | [Sugar Swing Sorbet](https://open.spotify.com/track/4v3DfUo8IYqvuAyA9xlb78) | [Aice room](https://open.spotify.com/artist/1ALuROjCqY0flaCOTKJ1OR) | [Sugar Swing Sorbet](https://open.spotify.com/album/48vZTm3M0hKFUAmg40M2mp) | 3:17 | 2021-11-10 | 2021-12-01 |
 | [summer night's dream](https://open.spotify.com/track/0uQbC5fTSdDQb99nsAKYhg) | [aymk](https://open.spotify.com/artist/1fP8eVkrKyDKjBnjSGoxTb) | [summer night's dream](https://open.spotify.com/album/7nw0FqoDzU0nT22qQN9bzv) | 2:16 | 2021-11-16 | 2021-12-08 |
@@ -1063,7 +1064,7 @@
 | [天](https://open.spotify.com/track/78CPHceEr0rBCn77s488zq) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [開花](https://open.spotify.com/album/58ukL9MEaiWkD4QYL1s4Iz) | 3:36 | 2021-11-03 | 2021-11-10 |
 | [天使](https://open.spotify.com/track/4DUGFp2Psn92CCCZTZGSES) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ANTI BLUE](https://open.spotify.com/album/2GMgfddCOMg5kioJOUth2C) | 4:07 | 2022-01-24 | 2022-02-08 |
 | [天国の改札](https://open.spotify.com/track/7dIvHqdCVZGukFm7t5pCDm) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [天国の改札](https://open.spotify.com/album/2zsjn8Uim7Av20vNKJCLQn) | 0:53 | 2021-11-24 | 2021-12-01 |
-| [女、深夜の麺屋にて](https://open.spotify.com/track/3MVqcD8Jil1ksouMJtNTMV) | [近視のサエ子](https://open.spotify.com/artist/2MsmOuarlQw1AYEhbDhwUv), [永山雄一](https://open.spotify.com/artist/40TYPMhtw5HAhVcIMqwjMx) | [女、深夜の麺屋にて](https://open.spotify.com/album/06kswcEKFy0iaBG9yzA7h2) | 4:09 | 2022-05-30 |  |
+| [女、深夜の麺屋にて](https://open.spotify.com/track/3MVqcD8Jil1ksouMJtNTMV) | [近視のサエ子](https://open.spotify.com/artist/2MsmOuarlQw1AYEhbDhwUv), [ポセイドン・石川](https://open.spotify.com/artist/4LGHcV1MMN8gOTUZKS5uoQ), [永山雄一](https://open.spotify.com/artist/40TYPMhtw5HAhVcIMqwjMx) | [女、深夜の麺屋にて](https://open.spotify.com/album/06kswcEKFy0iaBG9yzA7h2) | 4:09 | 2022-05-30 |  |
 | [女神](https://open.spotify.com/track/22d4gC3i2VwcTg4YDDwJh5) | [globe](https://open.spotify.com/artist/5O6t6gb6MeNqzOBAq1oLad) | [Lights](https://open.spotify.com/album/2P9xOvJAJbQjoFdxZbl8ax) | 3:56 | 2022-01-24 | 2022-02-01 |
 | [嫉妬](https://open.spotify.com/track/2ogRJWm2xGV4gr0PrYHrXu) | [\(yoru to\)SAMPO](https://open.spotify.com/artist/3LAWK80zCJtDxXGBa0BB1n) | [嫉妬](https://open.spotify.com/album/6bGhHe6Z6wBRasPrBCS0Wm) | 3:02 | 2022-05-10 | 2022-05-17 |
 | [嫌だって](https://open.spotify.com/track/3bPMwduxM73e8Wb1jZMGOW) | [NANASI](https://open.spotify.com/artist/6tUBLncgFjsKrSAFpzGxyy) | [嫌だって](https://open.spotify.com/album/6kVxKgkKLi8u5o5RkNpZ9f) | 2:53 | 2022-02-14 | 2022-02-23 |
@@ -1281,7 +1282,7 @@
 | [雑感](https://open.spotify.com/track/2Jv3WTa9TtAiPn4GjmCXWa) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [雑感](https://open.spotify.com/album/5qBuGNU9Npzhanwx4iC5AE) | 4:48 | 2021-10-13 | 2021-10-20 |
 | [雨にキッスの花束を](https://open.spotify.com/track/4ydvnLC5X6YVibRcjp40j1) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [retour](https://open.spotify.com/album/4E81A7gM3qGwAK9cWFgWda) | 4:38 | 2022-05-24 | 2022-05-31 |
 | [雨のリズム](https://open.spotify.com/track/45mxfJqrMXYqUz0WAriWSc) | [SpendyMily](https://open.spotify.com/artist/5yJWbZhLyZZa6u3yi0mcY0) | [雨のリズム](https://open.spotify.com/album/021YTv44aaDQPze9pz78Rp) | 4:14 | 2021-10-20 | 2021-11-16 |
-| [雨よ降らないで](https://open.spotify.com/track/3C0f8iEjegCRCmLc0eXR50) | [Misato Watanabe](https://open.spotify.com/artist/3ySOHOGVeGm9qQuEmWDa1k) | [Long Night](https://open.spotify.com/album/3dwKgRPK0wSitH96jzj191) | 4:24 | 2022-05-30 |  |
+| [雨よ降らないで](https://open.spotify.com/track/3C0f8iEjegCRCmLc0eXR50) | [Misato Watanabe](https://open.spotify.com/artist/3ySOHOGVeGm9qQuEmWDa1k) | [Long Night](https://open.spotify.com/album/3dwKgRPK0wSitH96jzj191) | 4:24 | 2022-05-30 | 2022-06-01 |
 | [雨燕](https://open.spotify.com/track/1FR4IZ1BAx7JNUKxAsfRS2) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [ニュイ](https://open.spotify.com/album/0ISKCYMYySvmaUxXdwfPH6) | 3:07 | 2021-12-14 | 2021-12-21 |
 | [雪景 feat.原田珠々華](https://open.spotify.com/track/7z7nru6sNIF8rgxi7SNM7L) | [fishbowl](https://open.spotify.com/artist/1nyeiKFHnbe9QsI8bOjGK5) | [雪景 feat.原田珠々華](https://open.spotify.com/album/74PciLH7c0oBx5JRNc3TRk) | 3:44 | 2021-12-08 | 2021-12-21 |
 | [零れる光](https://open.spotify.com/track/3Af9iAVUqA49yNuK7uSA7X) | [美根](https://open.spotify.com/artist/5NDtujcf6hBmjyLI89Y11g) | [零れる光](https://open.spotify.com/album/6kD1Hsn1qid5FaEB69vdWD) | 4:11 | 2022-05-30 |  |
