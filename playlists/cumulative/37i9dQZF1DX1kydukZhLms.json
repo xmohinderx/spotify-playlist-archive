@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 478360,
       "name": "Anybody Listening? - Remastered 2003",
       "url": "https://open.spotify.com/track/6ObS155m8kMHPAnrAjlO2U"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 211986,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/7FfE0EoQSsliADYgdxFChG"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 221466,
       "name": "Cries In The Night",
       "url": "https://open.spotify.com/track/2N5PoFlObCe4nTTtdLHe0k"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 354640,
       "name": "Don't Know What You Got (Till It's Gone)",
       "url": "https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 301266,
       "name": "Don't Wanna Be Your Fool",
       "url": "https://open.spotify.com/track/0S5no2cN1esY74TYCsKbXG"
@@ -545,6 +545,24 @@
       "duration_ms": 284906,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
+    },
+    {
+      "album": {
+        "name": "Classic Rock",
+        "url": "https://open.spotify.com/album/4m0tVQEuO296yPLtRQBOV2"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261160,
+      "name": "Every Rose Has Its Thorn",
+      "url": "https://open.spotify.com/track/6Gml48n88YBzYkuosKIXIX"
     },
     {
       "album": {
@@ -775,7 +793,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 310733,
       "name": "Heart of Steel",
       "url": "https://open.spotify.com/track/4YXhOackOMOlQTMAwsDHo6"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 366106,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/04F7U1dwwtwaCRuXGQ50aB"
@@ -1196,6 +1214,24 @@
     },
     {
       "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346960,
+      "name": "Love Bites - Remastered 2017",
+      "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
+    },
+    {
+      "album": {
         "name": "Hair of the Dog",
         "url": "https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP"
       },
@@ -1351,7 +1387,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 284133,
       "name": "Mourn",
       "url": "https://open.spotify.com/track/4KcNupwVIuM2AOoiKdgpRf"
@@ -1477,7 +1513,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 271173,
       "name": "OHNE DICH",
       "url": "https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen"
@@ -1589,6 +1625,24 @@
       "duration_ms": 270080,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
+    },
+    {
+      "album": {
+        "name": "Heart of Steel",
+        "url": "https://open.spotify.com/album/4XkVW6NkWCLD3OYlBUxpHE"
+      },
+      "artists": [
+        {
+          "name": "At Vance",
+          "url": "https://open.spotify.com/artist/4alZ73UZp90icEjdKjSIxw"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383933,
+      "name": "Princess of the Night",
+      "url": "https://open.spotify.com/track/0ZvTvX3V1gE6i0hNnN7zJs"
     },
     {
       "album": {
@@ -1729,7 +1783,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 329266,
       "name": "Scene Five: Through Her Eyes",
       "url": "https://open.spotify.com/track/19CegINw7X0pqHaY7YOaz8"
@@ -1945,7 +1999,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 263666,
       "name": "The Fallen One",
       "url": "https://open.spotify.com/track/38YmhZ5WWpjAeYTYgOZ356"
@@ -2089,7 +2143,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 310179,
       "name": "Time for Deliverance",
       "url": "https://open.spotify.com/track/0ER3L5gT383SSavs0oyUGh"
@@ -2241,7 +2295,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 257161,
       "name": "When Love And Hate Collide",
       "url": "https://open.spotify.com/track/1ailMHu2DGaPR8kDSJ0XAE"

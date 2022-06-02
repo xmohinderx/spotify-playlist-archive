@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 427960,
       "name": "Angola Penitentiary Blues",
       "url": "https://open.spotify.com/track/4tj55qA2H2NqDOyPwFWHVa"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "Boppin' The Rock",
       "url": "https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R"
@@ -260,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Let's Talk It Over",
+        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Brooks",
+          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356773,
+      "name": "Greasy Man",
+      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
+    },
+    {
+      "album": {
         "name": "Alligator",
         "url": "https://open.spotify.com/album/7bWzWGdmK5QepRg00IoKDV"
       },
@@ -361,7 +379,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 167373,
       "name": "I've Grown So Ugly",
       "url": "https://open.spotify.com/track/0PvKsGeztxZYy4bpeAASHM"
@@ -535,7 +553,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 277933,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ"
@@ -571,7 +589,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 255946,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"

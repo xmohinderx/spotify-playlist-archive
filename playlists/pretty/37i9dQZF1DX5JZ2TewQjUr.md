@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Luna Is A Bep
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,260 likes - 111 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,262 likes - 111 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

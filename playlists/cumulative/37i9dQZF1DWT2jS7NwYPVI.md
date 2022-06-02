@@ -4,7 +4,7 @@
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Chappaqua Wrestling
 
-501 songs - 1 day 2 hr 59 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+502 songs - 1 day 3 hr 2 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Appetite](https://open.spotify.com/track/34O6gpg1ljVP1NNvAJIOJQ) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Appetite](https://open.spotify.com/album/3OrNjBTvDML7u22UGc5MMc) | 2:41 | 2021-11-19 | 2022-01-08 |
 | [Apple Juice](https://open.spotify.com/track/15cNyPj2P1ohuM2rMJiMUb) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Apple Juice](https://open.spotify.com/album/6xnJlESwo26qOCBlZbBDdO) | 3:02 | 2022-04-29 |  |
 | [Are You Lonely?](https://open.spotify.com/track/4oyowbAtXD12i99ovZXgFP) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Are You Lonely?](https://open.spotify.com/album/72IA9MZ8t7uBZMnibR0nOa) | 3:36 | 2021-11-19 | 2022-01-22 |
+| [Assassin](https://open.spotify.com/track/6e9rjIDM1bDeWNdro7hLce) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Assassin](https://open.spotify.com/album/2Pm4dNCkvZRVMZhVvCPeaw) | 3:09 | 2022-06-01 |  |
 | [Audrey](https://open.spotify.com/track/4tRQZioCVlJSJQbyMr5kko) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 2:47 | 2022-04-08 | 2022-05-07 |
 | [Baby Blackout](https://open.spotify.com/track/6hMjfF1z1DpkPVUWxbHp5Q) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Baby Blackout](https://open.spotify.com/album/5mEQH6RoSrubrXrRj4lKen) | 3:05 | 2022-03-25 | 2022-04-23 |
 | [Babysitter](https://open.spotify.com/track/37UXxmaBPQWSPZ13Pe8cXa) | [Hallie](https://open.spotify.com/artist/0I0VahDFplPkGInkRvoXPW) | [Babysitter](https://open.spotify.com/album/7qBHkSXqErEPGGzKsz5k6N) | 3:20 | 2021-11-26 | 2022-02-05 |

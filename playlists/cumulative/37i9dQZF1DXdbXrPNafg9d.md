@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Alex G
 
-3,654 songs - 8 day 23 hr 27 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+3,655 songs - 8 day 23 hr 31 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -927,6 +927,7 @@
 | [End of The Road \(feat\. Rachel Chinouriri\)](https://open.spotify.com/track/5gtStGNhvKlbrjXQK0TuEt) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [End of The Road \(feat\. Rachel Chinouriri\)](https://open.spotify.com/album/5Nd9ZY87t6DvgAMXoXOmuj) | 3:41 | 2022-05-06 |  |
 | [End Of The World](https://open.spotify.com/track/08CQNIi20pWkYtp2Cd4t3o) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [End Of The World](https://open.spotify.com/album/7K6WpKqY0jElSM2DWvrixK) | 3:12 | 2022-01-28 | 2022-03-05 |
 | [End Song \- from "We're All Going to the World's Fair" Soundtrack](https://open.spotify.com/track/0xCsRGow1LUIlnR84bYI0z) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [End Song \(from "We're All Going to the World's Fair" Soundtrack\)](https://open.spotify.com/album/0s2HbBBEjjBNPZ9jDwKGSL) | 3:24 | 2022-03-18 | 2022-04-16 |
+| [Endless Afternoon](https://open.spotify.com/track/43qnFgYuN5YMfLoghgTVws) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Endless Afternoon](https://open.spotify.com/album/5Cx0Q4bHaAxNZ7xKaNYmuJ) | 4:35 | 2022-06-01 |  |
 | [Enfant](https://open.spotify.com/track/6Db5Hpwzfvpf5xvuJjGRv4) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [The Shacks](https://open.spotify.com/artist/6vqxTQz5ZOfRSQZWfes7mR) | [Enfant](https://open.spotify.com/album/0Ax9y40UXFjo0sTB71u4ZK) | 3:39 | 2020-03-20 | 2020-04-18 |
 | [Enough for Now \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/2xnS2wpPCtZPvylO6eWykP) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Enough for Now \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/7djt04wREsMCM2mRa4l9uX) | 3:16 | 2020-01-10 | 2020-02-14 |
 | [entertnmnt](https://open.spotify.com/track/03QOVCgeoLk34Yb70fDTTz) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [entertnmnt](https://open.spotify.com/album/3YYBX5IjwUGlzb7kXD0Hzg) | 3:14 | 2020-02-21 | 2020-04-03 |

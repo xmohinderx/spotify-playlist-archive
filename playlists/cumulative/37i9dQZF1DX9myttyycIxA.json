@@ -2482,6 +2482,24 @@
     },
     {
       "album": {
+        "name": "Endless Afternoon",
+        "url": "https://open.spotify.com/album/5Cx0Q4bHaAxNZ7xKaNYmuJ"
+      },
+      "artists": [
+        {
+          "name": "La Luz",
+          "url": "https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275780,
+      "name": "Endless Afternoon",
+      "url": "https://open.spotify.com/track/43qnFgYuN5YMfLoghgTVws"
+    },
+    {
+      "album": {
         "name": "Dream Punk",
         "url": "https://open.spotify.com/album/6vZVc2ApISADXou1bVzhF2"
       },

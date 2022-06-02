@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 61665,
+  "num_followers": 61717,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDExOTAwOCwwMDAwMDAwMGE4MzliZGFlMmQyZjEzNWQ5NjBhNDA2YjRhZGE5Yzlk",
+  "snapshot_id": "MTY1NDEzMjQwMSwwMDAwMDAwMDAxZmZjMmNhZmMxZjVmMzFjMWE3NGVlNmQyNzg4NTBm",
   "tracks": [
     {
       "added_at": "2022-05-06 22:32:09",
@@ -83,6 +83,26 @@
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
+        "name": "El Sueno",
+        "url": "https://open.spotify.com/album/67oNtjg4DE8CMeOtqcEwV7"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "El Sueno",
+      "url": "https://open.spotify.com/track/4DndSKZKWXbbBxi5lO4QUP"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -107,26 +127,6 @@
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "El Sueno",
-        "url": "https://open.spotify.com/album/67oNtjg4DE8CMeOtqcEwV7"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "El Sueno",
-      "url": "https://open.spotify.com/track/4DndSKZKWXbbBxi5lO4QUP"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
       },
@@ -143,38 +143,6 @@
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
-        "name": "Won't Forget You",
-        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Won't Forget You - Edit",
-      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
-        "name": "Bum Bum Tam Tam",
-        "url": "https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
-        }
-      ],
-      "duration_ms": 170564,
-      "name": "Bum Bum Tam Tam",
-      "url": "https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL"
     },
     {
       "added_at": "2022-05-06 22:32:09",
@@ -211,6 +179,58 @@
       "duration_ms": 167619,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5otdjL2CJnNLbY3WqHJzMD"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
+        "name": "We Love The Sun (Edit)",
+        "url": "https://open.spotify.com/album/06gDDBE93L3Wrbm4ALVVCt"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Jo.Ke",
+          "url": "https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7"
+        }
+      ],
+      "duration_ms": 256995,
+      "name": "Who Loves The Sun feat. Jo.Ke - Edit",
+      "url": "https://open.spotify.com/track/5ObMLQkrprMky3fuOCnFmW"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Won't Forget You - Edit",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
+        "name": "Bum Bum Tam Tam",
+        "url": "https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        }
+      ],
+      "duration_ms": 170564,
+      "name": "Bum Bum Tam Tam",
+      "url": "https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL"
     },
     {
       "added_at": "2022-05-06 22:32:09",
@@ -263,46 +283,6 @@
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "In the Dark",
-        "url": "https://open.spotify.com/album/64d2NALUX5nTqpG1Vu3l7x"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 185564,
-      "name": "In the Dark",
-      "url": "https://open.spotify.com/track/2lGzRg9ccRTa2gllTvy2w7"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
-        "name": "We Love The Sun (Edit)",
-        "url": "https://open.spotify.com/album/06gDDBE93L3Wrbm4ALVVCt"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Jo.Ke",
-          "url": "https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7"
-        }
-      ],
-      "duration_ms": 256995,
-      "name": "Who Loves The Sun feat. Jo.Ke - Edit",
-      "url": "https://open.spotify.com/track/5ObMLQkrprMky3fuOCnFmW"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
         "name": "The Business",
         "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
       },
@@ -319,46 +299,26 @@
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "Conga Rock",
-        "url": "https://open.spotify.com/album/3rnrgH0bOWn4nQDF8EuKu5"
+        "name": "It Don't Matter - Spotify Singles",
+        "url": "https://open.spotify.com/album/1y8GQ99W2OOIKGnedOqbC8"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Mat.Joe",
-          "url": "https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         },
         {
-          "name": "Toto Bona Lokua",
-          "url": "https://open.spotify.com/artist/5y4XN2SJVH1eWbXhRS7lbK"
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
         }
       ],
-      "duration_ms": 270541,
-      "name": "Conga Rock",
-      "url": "https://open.spotify.com/track/28nynuyo2jMTzMyT146Bvu"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/1p3Tbckk09MaXRz3Tf4dRK"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "Laura Korinth",
-          "url": "https://open.spotify.com/artist/060duYsbrXFx0FDnlhs72T"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1eV81a6H4xDdpi8r2C4tQT"
+      "duration_ms": 173742,
+      "name": "It Don't Matter - Spotify Singles",
+      "url": "https://open.spotify.com/track/3GMsSOhn712MhnWa1KEmaD"
     },
     {
       "added_at": "2022-05-06 22:32:09",
@@ -391,146 +351,42 @@
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "It Don't Matter - Spotify Singles",
-        "url": "https://open.spotify.com/album/1y8GQ99W2OOIKGnedOqbC8"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/1p3Tbckk09MaXRz3Tf4dRK"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
         },
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          "name": "Laura Korinth",
+          "url": "https://open.spotify.com/artist/060duYsbrXFx0FDnlhs72T"
         }
       ],
-      "duration_ms": 173742,
-      "name": "It Don't Matter - Spotify Singles",
-      "url": "https://open.spotify.com/track/3GMsSOhn712MhnWa1KEmaD"
+      "duration_ms": 216000,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1eV81a6H4xDdpi8r2C4tQT"
     },
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/5QSSdvdhsIm2nUnISXpNuS"
+        "name": "In the Dark",
+        "url": "https://open.spotify.com/album/64d2NALUX5nTqpG1Vu3l7x"
       },
       "artists": [
         {
-          "name": "The Prince Karma",
-          "url": "https://open.spotify.com/artist/6ew7qRw24oov125Oly8pFD"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         },
         {
-          "name": "Dawty Music",
-          "url": "https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe"
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
         }
       ],
-      "duration_ms": 184719,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/1pMlrIbhp66MV2TJMz9vm2"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
-        "name": "En Mi Cuarto",
-        "url": "https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h"
-      },
-      "artists": [
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "En Mi Cuarto",
-      "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
-        "name": "The Last Goodbye (feat. Bettye LaVette)",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye (feat. Bettye LaVette)",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
-        "name": "Belly Dancer",
-        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Belly Dancer",
-      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
-        "name": "Charmer",
-        "url": "https://open.spotify.com/album/0OOjsSNzKmfzo1j6Z82PNG"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 329537,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/68Q6c22JNyLUlZYX4dE2tn"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
-        "name": "Don't Forget My Love",
-        "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Don't Forget My Love",
-      "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
+      "duration_ms": 185564,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/2lGzRg9ccRTa2gllTvy2w7"
     },
     {
       "added_at": "2022-05-06 22:32:09",
@@ -555,70 +411,106 @@
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "Nieve",
-        "url": "https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C"
+        "name": "Conga Rock",
+        "url": "https://open.spotify.com/album/3rnrgH0bOWn4nQDF8EuKu5"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Nieve",
-      "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
-        "name": "Roda",
-        "url": "https://open.spotify.com/album/2R2VAtvhljTHh0sZ54xip1"
-      },
-      "artists": [
-        {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        }
-      ],
-      "duration_ms": 285123,
-      "name": "Roda",
-      "url": "https://open.spotify.com/track/1lBaMqhhJIRNqiNSn1EUMc"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
-        "name": "Soulmatic",
-        "url": "https://open.spotify.com/album/2xmmPaeB99mkJUTWDm30xi"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 256598,
-      "name": "Body Funk",
-      "url": "https://open.spotify.com/track/3XTWrhdYlqXlWgbnS7FfRi"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
-        "name": "Kuar (FNX Omar Remix)",
-        "url": "https://open.spotify.com/album/5zJNZeDGkoSirEIu2R1B5W"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Jal",
-          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "FNX OMAR",
-          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
+          "name": "Mat.Joe",
+          "url": "https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ"
+        },
+        {
+          "name": "Toto Bona Lokua",
+          "url": "https://open.spotify.com/artist/5y4XN2SJVH1eWbXhRS7lbK"
         }
       ],
-      "duration_ms": 400321,
-      "name": "Kuar - FNX Omar Remix",
-      "url": "https://open.spotify.com/track/3HFFBfoTdd0TOlvMgq3Lzc"
+      "duration_ms": 270541,
+      "name": "Conga Rock",
+      "url": "https://open.spotify.com/track/28nynuyo2jMTzMyT146Bvu"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
+        "name": "Belly Dancer",
+        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Belly Dancer",
+      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/5QSSdvdhsIm2nUnISXpNuS"
+      },
+      "artists": [
+        {
+          "name": "The Prince Karma",
+          "url": "https://open.spotify.com/artist/6ew7qRw24oov125Oly8pFD"
+        },
+        {
+          "name": "Dawty Music",
+          "url": "https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe"
+        }
+      ],
+      "duration_ms": 184719,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/1pMlrIbhp66MV2TJMz9vm2"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
+        "name": "The Last Goodbye (feat. Bettye LaVette)",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 358983,
+      "name": "The Last Goodbye (feat. Bettye LaVette)",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
+        "name": "En Mi Cuarto",
+        "url": "https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h"
+      },
+      "artists": [
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "En Mi Cuarto",
+      "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
     },
     {
       "added_at": "2022-05-06 22:32:09",
@@ -639,28 +531,56 @@
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "Queimar",
-        "url": "https://open.spotify.com/album/1lj13pAZcobQXlbSgir2EP"
+        "name": "Soulmatic",
+        "url": "https://open.spotify.com/album/2xmmPaeB99mkJUTWDm30xi"
       },
       "artists": [
         {
-          "name": "OVEOUS",
-          "url": "https://open.spotify.com/artist/5AnuYnFCVs0mK7rbcvIiBc"
-        },
-        {
-          "name": "QVLN",
-          "url": "https://open.spotify.com/artist/6QucHfdHaS4tLsKKT2vv2j"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 537839,
-      "name": "Queimar",
-      "url": "https://open.spotify.com/track/1WOzaWVIPE3z2gaBu1yQtk"
+      "duration_ms": 256598,
+      "name": "Body Funk",
+      "url": "https://open.spotify.com/track/3XTWrhdYlqXlWgbnS7FfRi"
     },
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq"
+        "name": "Roda",
+        "url": "https://open.spotify.com/album/2R2VAtvhljTHh0sZ54xip1"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        }
+      ],
+      "duration_ms": 285123,
+      "name": "Roda",
+      "url": "https://open.spotify.com/track/1lBaMqhhJIRNqiNSn1EUMc"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
+        "name": "Nieve",
+        "url": "https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Nieve",
+      "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
+        "name": "Don't Forget My Love",
+        "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
       },
       "artists": [
         {
@@ -668,33 +588,33 @@
           "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 189268,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
+      "duration_ms": 199090,
+      "name": "Don't Forget My Love",
+      "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
     },
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "Return to Oz (ARTBAT Remix)",
-        "url": "https://open.spotify.com/album/4gzaCyT20sk6Xu6WzBlkpd"
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/0OOjsSNzKmfzo1j6Z82PNG"
       },
       "artists": [
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         },
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
         }
       ],
-      "duration_ms": 480000,
-      "name": "Return to Oz - ARTBAT Remix",
-      "url": "https://open.spotify.com/track/0gwNGHcBRYtF7mvgUczVo1"
+      "duration_ms": 329537,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/68Q6c22JNyLUlZYX4dE2tn"
     },
     {
       "added_at": "2022-05-06 22:32:09",
@@ -723,62 +643,58 @@
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "What Would You Do?",
-        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
+        "name": "Return to Oz (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/4gzaCyT20sk6Xu6WzBlkpd"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         }
       ],
-      "duration_ms": 174215,
-      "name": "What Would You Do?",
-      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
+      "duration_ms": 480000,
+      "name": "Return to Oz - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/0gwNGHcBRYtF7mvgUczVo1"
     },
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "Stiff Little Spinners, Vol. 4",
-        "url": "https://open.spotify.com/album/7zuqXEbXgEKCKcUXWCFY5V"
+        "name": "WAYU Various Artists, Vol. 2",
+        "url": "https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL"
       },
       "artists": [
         {
-          "name": "Rampue",
-          "url": "https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv"
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
         }
       ],
-      "duration_ms": 438857,
-      "name": "Una Bluna",
-      "url": "https://open.spotify.com/track/5w751wHxeQVDLuC5EfjGRv"
+      "duration_ms": 328089,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge"
     },
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "Praise You (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/0Zw6ZJaKDTfbDG8jVj8IC3"
+        "name": "Queimar",
+        "url": "https://open.spotify.com/album/1lj13pAZcobQXlbSgir2EP"
       },
       "artists": [
         {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+          "name": "OVEOUS",
+          "url": "https://open.spotify.com/artist/5AnuYnFCVs0mK7rbcvIiBc"
         },
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "QVLN",
+          "url": "https://open.spotify.com/artist/6QucHfdHaS4tLsKKT2vv2j"
         }
       ],
-      "duration_ms": 230162,
-      "name": "Praise You (Purple Disco Machine Remix) - Radio Edit",
-      "url": "https://open.spotify.com/track/6LCrqs85q61pfZCXYvW63B"
+      "duration_ms": 537839,
+      "name": "Queimar",
+      "url": "https://open.spotify.com/track/1WOzaWVIPE3z2gaBu1yQtk"
     },
     {
       "added_at": "2022-05-06 22:32:09",
@@ -803,18 +719,58 @@
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "L\u00e1zaro",
-        "url": "https://open.spotify.com/album/3Q6ZXvv9FJib9cNkKBoyVN"
+        "name": "Praise You (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/0Zw6ZJaKDTfbDG8jVj8IC3"
       },
       "artists": [
         {
-          "name": "Casta",
-          "url": "https://open.spotify.com/artist/5v304q5NLS1WXeIE6iWziJ"
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 256551,
-      "name": "Pandemia",
-      "url": "https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8"
+      "duration_ms": 230162,
+      "name": "Praise You (Purple Disco Machine Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/6LCrqs85q61pfZCXYvW63B"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
+        "name": "Stiff Little Spinners, Vol. 4",
+        "url": "https://open.spotify.com/album/7zuqXEbXgEKCKcUXWCFY5V"
+      },
+      "artists": [
+        {
+          "name": "Rampue",
+          "url": "https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv"
+        }
+      ],
+      "duration_ms": 438857,
+      "name": "Una Bluna",
+      "url": "https://open.spotify.com/track/5w751wHxeQVDLuC5EfjGRv"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 189268,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
     },
     {
       "added_at": "2022-05-06 22:32:09",
@@ -835,94 +791,62 @@
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "Forgive Me",
-        "url": "https://open.spotify.com/album/27JlVMNrOc1aaHmnaWmCRW"
+        "name": "Kuar (FNX Omar Remix)",
+        "url": "https://open.spotify.com/album/5zJNZeDGkoSirEIu2R1B5W"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
         },
         {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+          "name": "FNX OMAR",
+          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
         }
       ],
-      "duration_ms": 225437,
-      "name": "Forgive Me",
-      "url": "https://open.spotify.com/track/4XjTvY0x7RR7cy8inojCkO"
+      "duration_ms": 400321,
+      "name": "Kuar - FNX Omar Remix",
+      "url": "https://open.spotify.com/track/3HFFBfoTdd0TOlvMgq3Lzc"
     },
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "WAYU Various Artists, Vol. 2",
-        "url": "https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL"
+        "name": "What Would You Do?",
+        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
       },
       "artists": [
         {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 328089,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
-        "name": "Rockport Espacial",
-        "url": "https://open.spotify.com/album/1RHKamkIrSEQAIUfsbYXvB"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "Yay",
-          "url": "https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l"
-        }
-      ],
-      "duration_ms": 233300,
-      "name": "Ma Vie (feat. Yay)",
-      "url": "https://open.spotify.com/track/6UU24wuWgGwuSBAxDH866Z"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
-        "name": "Phara Oh Away",
-        "url": "https://open.spotify.com/album/15qqhB5L0g5xb8sFVaVEul"
-      },
-      "artists": [
-        {
-          "name": "Dole & Kom",
-          "url": "https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT"
-        }
-      ],
-      "duration_ms": 527134,
-      "name": "Phara Oh",
-      "url": "https://open.spotify.com/track/5TrkFfJgrGa1PdAkJO5QAs"
-    },
-    {
-      "added_at": "2022-05-06 22:32:09",
-      "album": {
-        "name": "So Fine",
-        "url": "https://open.spotify.com/album/7tcQHmLF5xdqM93umRMdt5"
-      },
-      "artists": [
-        {
-          "name": "Pat Lok",
-          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Party Pupils",
-          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 216000,
-      "name": "So Fine",
-      "url": "https://open.spotify.com/track/14qkKbAfG7tYYrgtlZXZFr"
+      "duration_ms": 174215,
+      "name": "What Would You Do?",
+      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
+        "name": "Los Hermanos Del Alma EP",
+        "url": "https://open.spotify.com/album/0BgsWj02pAVDFvTTeSsuFB"
+      },
+      "artists": [
+        {
+          "name": "The Soul Brothers",
+          "url": "https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn"
+        }
+      ],
+      "duration_ms": 352000,
+      "name": "La Mentira",
+      "url": "https://open.spotify.com/track/6oso9qoKGgH8PmuLJ0jaV8"
     },
     {
       "added_at": "2022-05-06 22:32:09",
@@ -951,18 +875,22 @@
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "Juraso",
-        "url": "https://open.spotify.com/album/2ZgKgTaOnUsaN93so3soS7"
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/27JlVMNrOc1aaHmnaWmCRW"
       },
       "artists": [
         {
-          "name": "Turu Anasi",
-          "url": "https://open.spotify.com/artist/1HKyZXQv90cYQtoZQDya0d"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
         }
       ],
-      "duration_ms": 435276,
-      "name": "Juraso",
-      "url": "https://open.spotify.com/track/7nSoJenDGnEy02etOHgax1"
+      "duration_ms": 225437,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/4XjTvY0x7RR7cy8inojCkO"
     },
     {
       "added_at": "2022-05-06 22:32:09",
@@ -987,18 +915,74 @@
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "Skywalking",
-        "url": "https://open.spotify.com/album/0UbrZBSsBlWSNiUW9bRw5o"
+        "name": "So Fine",
+        "url": "https://open.spotify.com/album/7tcQHmLF5xdqM93umRMdt5"
       },
       "artists": [
         {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+          "name": "Pat Lok",
+          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
+        },
+        {
+          "name": "Party Pupils",
+          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
         }
       ],
-      "duration_ms": 374721,
-      "name": "Skywalking",
-      "url": "https://open.spotify.com/track/0so587BGO1K3OU3fMqF25I"
+      "duration_ms": 216000,
+      "name": "So Fine",
+      "url": "https://open.spotify.com/track/14qkKbAfG7tYYrgtlZXZFr"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
+        "name": "L\u00e1zaro",
+        "url": "https://open.spotify.com/album/3Q6ZXvv9FJib9cNkKBoyVN"
+      },
+      "artists": [
+        {
+          "name": "Casta",
+          "url": "https://open.spotify.com/artist/5v304q5NLS1WXeIE6iWziJ"
+        }
+      ],
+      "duration_ms": 256551,
+      "name": "Pandemia",
+      "url": "https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
+        "name": "Juraso",
+        "url": "https://open.spotify.com/album/2ZgKgTaOnUsaN93so3soS7"
+      },
+      "artists": [
+        {
+          "name": "Turu Anasi",
+          "url": "https://open.spotify.com/artist/1HKyZXQv90cYQtoZQDya0d"
+        }
+      ],
+      "duration_ms": 435276,
+      "name": "Juraso",
+      "url": "https://open.spotify.com/track/7nSoJenDGnEy02etOHgax1"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
+        "name": "Rockport Espacial",
+        "url": "https://open.spotify.com/album/1RHKamkIrSEQAIUfsbYXvB"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        },
+        {
+          "name": "Yay",
+          "url": "https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l"
+        }
+      ],
+      "duration_ms": 233300,
+      "name": "Ma Vie (feat. Yay)",
+      "url": "https://open.spotify.com/track/6UU24wuWgGwuSBAxDH866Z"
     },
     {
       "added_at": "2022-05-06 22:32:09",
@@ -1019,22 +1003,18 @@
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "TULUM",
-        "url": "https://open.spotify.com/album/6U69FDRdNrQAtuEu2XwIiA"
+        "name": "Huwa",
+        "url": "https://open.spotify.com/album/4nTvcJCQfzSiZdqrlPdS9P"
       },
       "artists": [
         {
-          "name": "Pllws",
-          "url": "https://open.spotify.com/artist/1MFhgehbIObqmgnONpXeFq"
-        },
-        {
-          "name": "Las Prez",
-          "url": "https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl"
+          "name": "Dzhef",
+          "url": "https://open.spotify.com/artist/6ULoCtOuU8QQ2sS6r88Mg9"
         }
       ],
-      "duration_ms": 206533,
-      "name": "TULUM",
-      "url": "https://open.spotify.com/track/5M78hc4mehGI2p8HEcgkrk"
+      "duration_ms": 423428,
+      "name": "Huwa",
+      "url": "https://open.spotify.com/track/3n8f72Abjl4dDzL56JdktV"
     },
     {
       "added_at": "2022-05-06 22:32:09",
@@ -1059,26 +1039,38 @@
     {
       "added_at": "2022-05-06 22:32:09",
       "album": {
-        "name": "Closer (Erick T Remix)",
-        "url": "https://open.spotify.com/album/2CsgK10ycscnJNzf9KQs2D"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS"
       },
       "artists": [
         {
-          "name": "Broz Rodriguez",
-          "url": "https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln"
+          "name": "Lemon & Herb",
+          "url": "https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w"
         },
         {
-          "name": "Dennis Cartier",
-          "url": "https://open.spotify.com/artist/0Iyc9gAnfeZEwZntRBD4IS"
-        },
-        {
-          "name": "Erick T",
-          "url": "https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0"
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 180008,
-      "name": "Closer - Erick T Remix",
-      "url": "https://open.spotify.com/track/3W09dhuCx6kktI7pwo2BZj"
+      "duration_ms": 288880,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/5aFD0QPy4BQqUq39l0o5HD"
+    },
+    {
+      "added_at": "2022-05-06 22:32:09",
+      "album": {
+        "name": "Sacr\u00e9 Coeur",
+        "url": "https://open.spotify.com/album/745eonJCDAf4cP87X8zXf8"
+      },
+      "artists": [
+        {
+          "name": "Raw Main",
+          "url": "https://open.spotify.com/artist/65E9rTNIH8GfUwyLyiLQfg"
+        }
+      ],
+      "duration_ms": 438021,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/6tQvy7dRyfRhqTf3M2xGqc"
     }
   ],
   "unique_name": "Tulum Party",

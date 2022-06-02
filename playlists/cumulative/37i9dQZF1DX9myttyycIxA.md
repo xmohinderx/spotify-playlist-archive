@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: boyish
 
-475 songs - 1 day 3 hr 1 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+476 songs - 1 day 3 hr 6 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Empty in My Mind](https://open.spotify.com/track/7oqpMyBrfVsk5QBjDMhqOZ) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Empty in My Mind](https://open.spotify.com/album/345yVSKKqobwMLX3Is8Lmz) | 2:52 | 2022-04-29 |  |
 | [end of my street](https://open.spotify.com/track/2MtvVsQcdNvTIFKicaOwLr) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [once the edge has worn off](https://open.spotify.com/album/1HzHGZQVUwJeBBExUQuhPg) | 2:42 | 2021-11-12 | 2022-01-29 |
 | [End Song \- from "We're All Going to the World's Fair" Soundtrack](https://open.spotify.com/track/0xCsRGow1LUIlnR84bYI0z) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [End Song \(from "We're All Going to the World's Fair" Soundtrack\)](https://open.spotify.com/album/0s2HbBBEjjBNPZ9jDwKGSL) | 3:24 | 2022-03-26 |  |
+| [Endless Afternoon](https://open.spotify.com/track/43qnFgYuN5YMfLoghgTVws) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Endless Afternoon](https://open.spotify.com/album/5Cx0Q4bHaAxNZ7xKaNYmuJ) | 4:35 | 2022-06-01 |  |
 | [Entitled To](https://open.spotify.com/track/4a3AosNrplvGuvnOODh2WP) | [Mr Floyd Larry](https://open.spotify.com/artist/1k8ck5j4cuHYuzy3nPHDrM) | [Dream Punk](https://open.spotify.com/album/6vZVc2ApISADXou1bVzhF2) | 3:00 | 2022-02-25 | 2022-04-16 |
 | [Every Once In A While](https://open.spotify.com/track/02J8r68LSYS8MuxI5rEzaO) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Every Once In A While](https://open.spotify.com/album/3MDfSodOC8B0eF6HFrySvH) | 4:37 | 2021-03-05 | 2022-04-29 |
 | [Everybody's Birthday](https://open.spotify.com/track/32JZLH23FvupI5jvzKrahn) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Everybody's Birthday](https://open.spotify.com/album/3B4J9TUXP9AMwU5ltYHErn) | 2:48 | 2021-08-27 | 2022-04-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, MK, Galantis, Kx5, deadmau5, Kaskade, Hayla
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,490 likes - 100 songs - 4 hr 56 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,491 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

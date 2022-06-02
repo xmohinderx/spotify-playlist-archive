@@ -4,7 +4,7 @@
 
 > Not not not pop\. Cover: Johan Lenox
 
-957 songs - 1 day 22 hr 37 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+958 songs - 1 day 22 hr 40 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,7 +451,7 @@
 | [Jimmy Jimmy \(feat\. AJ Tracey\)](https://open.spotify.com/track/4Iv2jOCKQakC3YWhijrRKK) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Meanwhile EP](https://open.spotify.com/album/0q19TmDISPRbmRIZJyrEz6) | 3:03 | 2021-08-27 | 2022-03-01 |
 | [JOY FOR YOUTH \(with Sir Chloe\)](https://open.spotify.com/track/7L6dDZgxFunFf7MlK96wXl) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V), [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [JOY FOR YOUTH \(with Sir Chloe\)](https://open.spotify.com/album/7DHLsED15ZC6RoCLIWIwmN) | 3:33 | 2021-08-11 | 2022-02-26 |
 | [JUNKIE 4 U](https://open.spotify.com/track/2gj7EsEvWFn5gik7htgZVm) | [Max Armfield](https://open.spotify.com/artist/1W8tDkSW5WnB38vW6nqrQN) | [JUNKIE 4 U](https://open.spotify.com/album/6m0IdfT0kyIVAZee6nNnkf) | 2:02 | 2021-05-08 | 2021-10-16 |
-| [Juno](https://open.spotify.com/track/6OpU3cvY19M2hFxTbLKy5L) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Honeybloom](https://open.spotify.com/album/6CwBR2GHX84xyA8T95HTM3) | 3:51 | 2022-05-09 |  |
+| [Juno](https://open.spotify.com/track/6OpU3cvY19M2hFxTbLKy5L) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Honeybloom](https://open.spotify.com/album/6CwBR2GHX84xyA8T95HTM3) | 3:51 | 2022-05-09 | 2022-06-02 |
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-09-11 | 2021-09-28 |
 | [Just Sayin' Shit](https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE) | [Flower in Bloom](https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA) | [Just Sayin' Shit](https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa) | 1:01 | 2021-03-23 | 2021-10-14 |
 | [Keto](https://open.spotify.com/track/7bNjxTrAG2DuF3rmP7aFl7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [USEE4YOURSELF](https://open.spotify.com/album/49BwECfeABwoB9DPAmTmwz) | 2:21 | 2021-10-12 | 2021-10-13 |
@@ -576,6 +576,7 @@
 | [New Miss America](https://open.spotify.com/track/0NLYcYQzBNZF6FEEOT9HPh) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [New Miss America](https://open.spotify.com/album/27X74ztJTTyJ1GSXtgEFou) | 1:44 | 2021-08-14 | 2021-10-16 |
 | [Next To Me](https://open.spotify.com/track/25B37PuDwZCLof9uOtlVww) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Next To Me](https://open.spotify.com/album/7KVCSOYFXS42GI7zsu9z84) | 2:33 | 2022-02-04 |  |
 | [nhs](https://open.spotify.com/track/2y7an0zD7jCNw2MiM2u6OQ) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [nhs](https://open.spotify.com/album/4Cejj7X43FU8YD9gUROeam) | 3:26 | 2020-11-20 | 2021-05-03 |
+| [Nicotine](https://open.spotify.com/track/73CLiwzz9AopgAv3jnngyA) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Nicotine](https://open.spotify.com/album/7mUy0fH5Ad2Fg5KnCKRp9N) | 2:50 | 2022-06-01 |  |
 | [Night Like This](https://open.spotify.com/track/54kwgaNYb7EzcMd8za1cam) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [Night Like This](https://open.spotify.com/album/0tYyC1yyUj1tMHWaf8Im2t) | 3:03 | 2021-01-23 | 2021-10-16 |
 | [NO APOLOGY!](https://open.spotify.com/track/49E15Um7t41rbIn0bevrER) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [NO APOLOGY!](https://open.spotify.com/album/4sTu8JyOz0yRMTHsUNc7TC) | 3:15 | 2022-02-25 | 2022-03-01 |
 | [No Bus](https://open.spotify.com/track/0a8iHqEqV1FAcRGyDTKFym) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [No Bus](https://open.spotify.com/album/0tBwgaezW7QUFPSlobYAqi) | 3:04 | 2020-10-13\* | 2021-05-03 |

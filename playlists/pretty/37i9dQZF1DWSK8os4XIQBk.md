@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Jordan Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,433 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,462 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 99 | [Devil in a Bottle](https://open.spotify.com/track/3mRZwLlMZ3H5Sohg4O2zqG) | [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [Time Traveller \- Side A](https://open.spotify.com/album/1doWfJeIMlRSvRbpx5iVRl) | 3:47 |
 | 100 | [Grandfather](https://open.spotify.com/track/6Mf7qSGGEDuxV95aQpf9Ty) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Grandfather](https://open.spotify.com/album/4FcEruvFCCjxQ4GyikOUFX) | 4:24 |
 
-Snapshot ID: `MTY1NDExODU2MywwMDAwMDAwMGNmY2NkMThkMDUwYTUxZDg3ZDFkYmRjZDA0MGVlNjMw`
+Snapshot ID: `MTY1NDEzMTkyMiwwMDAwMDAwMGNmY2NkMThkMDUwYTUxZDg3ZDFkYmRjZDA0MGVlNjMw`

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "A Contratiempo",
       "url": "https://open.spotify.com/track/5tDfbfJCQyXuCOft8hbRIg"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 229533,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/2azYY9f1jGswkxs2nfO9E9"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 219293,
       "name": "Buen D\u00eda",
       "url": "https://open.spotify.com/track/4pyVpSIVTjtqbm8YczHvea"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 190127,
       "name": "El Cuento",
       "url": "https://open.spotify.com/track/6Z64rcX4toR740wFD9PCvT"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 256810,
       "name": "Esclavo",
       "url": "https://open.spotify.com/track/760amZp34Hu7t5cH9QB3BB"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 183214,
       "name": "Escucha",
       "url": "https://open.spotify.com/track/2ee0MvrSY21olco3ClSD39"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 235120,
       "name": "Jamaica Reggae (En Vivo)",
       "url": "https://open.spotify.com/track/6D3MOX8hJfilSYUpLzvCBg"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 219936,
       "name": "La Alegr\u00eda Manda",
       "url": "https://open.spotify.com/track/0xlJjSgFvffjl78AE5003Q"
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 203341,
       "name": "La Espera Esperanza",
       "url": "https://open.spotify.com/track/2PziwNR4xkNXGc7JltI6HS"
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 198946,
       "name": "Meu Reggae \u00e9 Roots - Ao Vivo",
       "url": "https://open.spotify.com/track/1r7BRiLgM288W76CaiocEN"
@@ -1355,7 +1355,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 376800,
       "name": "Misterio",
       "url": "https://open.spotify.com/track/3xKXKFjtT24Z6RDNXPF4au"
@@ -1845,7 +1845,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 219061,
       "name": "Runnin' out of Fools",
       "url": "https://open.spotify.com/track/6kvm98YbESolyOzhUDSLRG"
@@ -1881,7 +1881,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 218439,
       "name": "Si No Fuera",
       "url": "https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM"
@@ -1953,7 +1953,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 203568,
       "name": "Sisters",
       "url": "https://open.spotify.com/track/64javozcRkMoxYdbhIiUXo"
@@ -2059,6 +2059,24 @@
       "duration_ms": 278626,
       "name": "Tan Distante",
       "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
+    },
+    {
+      "album": {
+        "name": "Tenia Tanto Para Darte",
+        "url": "https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B"
+      },
+      "artists": [
+        {
+          "name": "Matamba",
+          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263144,
+      "name": "Tenia Tanto Para Darte",
+      "url": "https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb"
     },
     {
       "album": {
@@ -2457,7 +2475,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 214000,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo"
@@ -2483,6 +2501,40 @@
       "duration_ms": 211748,
       "name": "We Are The Lions - Spanish Version",
       "url": "https://open.spotify.com/track/0CBqh4H4lijAh735YZSLrs"
+    },
+    {
+      "album": {
+        "name": "Stay Rude! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/068Pf0ihfr8BsRskccV0FQ"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        },
+        {
+          "name": "Humberto Schenone",
+          "url": "https://open.spotify.com/artist/7pLz9MlCt36ETTrGabX3Jf"
+        },
+        {
+          "name": "Baltazar Avila",
+          "url": "https://open.spotify.com/artist/2idrqGAAzysAp3nrSs9wDh"
+        },
+        {
+          "name": "Gonzalo \"Chalo\" Parma",
+          "url": "https://open.spotify.com/artist/1OzIOab1v0HAwcy3bSjCB1"
+        },
+        {
+          "name": "Mariano Goldenstein",
+          "url": "https://open.spotify.com/artist/7Jz9b9l6UlZHwnqq7NZ4cT"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262556,
+      "name": "Where We Are Still",
+      "url": "https://open.spotify.com/track/676l36XE27E4DxvrCKZbJn"
     },
     {
       "album": {
