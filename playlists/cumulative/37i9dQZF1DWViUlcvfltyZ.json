@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Chitarre pi\u00f9 o meno distorte (e, in cover, gli Elephant Brain)",
+  "description": "Chitarre pi\u00f9 o meno distorte (e, in cover, i Tropea)",
   "name": "Rock Italia",
   "published_playlist_ids": [
     "1ygHfNTT8YmP8RXH0ojm4P"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 224253,
       "name": "Agata",
       "url": "https://open.spotify.com/track/4C2Bpn24iZZHWUSfpQvLiv"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 177642,
       "name": "AIP",
       "url": "https://open.spotify.com/track/1VLxvPzn2q95NsDQaqOwCM"
@@ -470,6 +470,24 @@
     },
     {
       "album": {
+        "name": "Estate di Merda",
+        "url": "https://open.spotify.com/album/77Lhio4DcfwZ8PRhNzquc5"
+      },
+      "artists": [
+        {
+          "name": "NAMIDA",
+          "url": "https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171688,
+      "name": "Estate di Merda",
+      "url": "https://open.spotify.com/track/2tKDMOvBIIP47ngRpHQsDl"
+    },
+    {
+      "album": {
         "name": "Fiji",
         "url": "https://open.spotify.com/album/0ezUmnkksJ9BP768tqg1UI"
       },
@@ -553,7 +571,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 144986,
       "name": "Hail the Proper Karl",
       "url": "https://open.spotify.com/track/2KdBqtc2PFm0ptkGcEvbKk"
@@ -800,6 +818,24 @@
     },
     {
       "album": {
+        "name": "L'abisso",
+        "url": "https://open.spotify.com/album/3MA9uoKQBKPx7aNuYVGJX3"
+      },
+      "artists": [
+        {
+          "name": "Labissodeigiorniavenire",
+          "url": "https://open.spotify.com/artist/6mSVh5QjIeIt1FajKzINZd"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134973,
+      "name": "L'abisso",
+      "url": "https://open.spotify.com/track/0ttpILKiL7nkg9fCZlYsDs"
+    },
+    {
+      "album": {
         "name": "Ragazzina",
         "url": "https://open.spotify.com/album/3dKuOfQT48iqlWxEDPzMh6"
       },
@@ -912,6 +948,24 @@
     },
     {
       "album": {
+        "name": "Per sempre, comunque",
+        "url": "https://open.spotify.com/album/1ATg2FitwLGxoJyaqlNxk2"
+      },
+      "artists": [
+        {
+          "name": "Leita",
+          "url": "https://open.spotify.com/artist/5uZSi8TsRkUiPOcBZyPXZO"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281976,
+      "name": "Naufragio con spettatore",
+      "url": "https://open.spotify.com/track/1aoUuolpBbnefrX7u5xFjk"
+    },
+    {
+      "album": {
         "name": "La Grande Evasione",
         "url": "https://open.spotify.com/album/5Rl0BkcT5nNOqijZycnzXk"
       },
@@ -985,6 +1039,24 @@
       "duration_ms": 235065,
       "name": "ORBO",
       "url": "https://open.spotify.com/track/4VBCWRlrzDNxyjBEfuubST"
+    },
+    {
+      "album": {
+        "name": "Papaveri",
+        "url": "https://open.spotify.com/album/4ZhvB9BXSTWoaCGrnzjeVx"
+      },
+      "artists": [
+        {
+          "name": "Aida",
+          "url": "https://open.spotify.com/artist/5uyVp3NFeumolvASoIWWXp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166326,
+      "name": "Papaveri",
+      "url": "https://open.spotify.com/track/78ZTkpYWq7YdLSfkPlhdgW"
     },
     {
       "album": {
@@ -1071,7 +1143,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 196614,
       "name": "POVERI DIAVOLI",
       "url": "https://open.spotify.com/track/7Kr5XGDiO1jytPSyVxb1yv"
@@ -1114,6 +1186,24 @@
     },
     {
       "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/1LykpuCRBeWXB9KnFYcYL8"
+      },
+      "artists": [
+        {
+          "name": "Emma Nolde",
+          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213950,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/0bL0U4dxXlSNKgtJfVEgDL"
+    },
+    {
+      "album": {
         "name": "Rincorretevi",
         "url": "https://open.spotify.com/album/6mPLQCRlvvFyWFW8A3Rd8K"
       },
@@ -1132,6 +1222,28 @@
     },
     {
       "album": {
+        "name": "rotten",
+        "url": "https://open.spotify.com/album/04Jz6N7SeKqALkWIkVXCSL"
+      },
+      "artists": [
+        {
+          "name": "grungelo",
+          "url": "https://open.spotify.com/artist/6P6GEHeCnE88477yIshOMy"
+        },
+        {
+          "name": "The Steiner",
+          "url": "https://open.spotify.com/artist/0E0656VNBS8nCeuLyjRFjp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "rotten",
+      "url": "https://open.spotify.com/track/4nU6o0IqVjUFjoqODuJBQl"
+    },
+    {
+      "album": {
         "name": "SANTAMARIA",
         "url": "https://open.spotify.com/album/7CxULThaopyXFO8vfyn9oH"
       },
@@ -1143,7 +1255,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 173194,
       "name": "SANTAMARIA",
       "url": "https://open.spotify.com/track/2JDmo9jCFLN1FOmHECNT3B"
@@ -1197,7 +1309,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 139706,
       "name": "Silos",
       "url": "https://open.spotify.com/track/6N3eJ5VbK7wNpfDZNNJFuE"

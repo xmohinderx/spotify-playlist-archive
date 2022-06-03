@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 401371,
       "name": "B\u1ed9i B\u1ea1c",
       "url": "https://open.spotify.com/track/1a2eBg5oLKa9t32clhLUbW"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 228691,
       "name": "Chi\u1ec1u H\u1ea1 V\u00e0ng",
       "url": "https://open.spotify.com/track/17x93IpQN82ZdDgC4EZPuj"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 305349,
       "name": "Chuy\u00ea\u0323n he\u0323n ho\u0300",
       "url": "https://open.spotify.com/track/4HpG7NZnDsWSKKyBLfEzYt"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 336255,
       "name": "Chuy\u1ebfn t\u00e0u ho\u00e0ng h\u00f4n",
       "url": "https://open.spotify.com/track/1Cx6Fu7TJGFUlly9wLGgwN"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 285827,
       "name": "Chuy\u1ec7n T\u00ecnh Kh\u00f4ng D\u0129 V\u00e3ng",
       "url": "https://open.spotify.com/track/4MoW6zhYoCABj2dGcep01s"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 325328,
       "name": "C\u00e2u H\u1eb9n C\u00e2u Th\u1ec1",
       "url": "https://open.spotify.com/track/1l2O6oQQtaexyYc96pCLWS"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 275565,
       "name": "Duy\u00ean Ki\u1ebfp",
       "url": "https://open.spotify.com/track/2HMMspzKdqtU6JyOP5G2Sd"
@@ -290,6 +290,24 @@
     },
     {
       "album": {
+        "name": "Xin Tr\u1ea3 T\u00f4i V\u1ec1",
+        "url": "https://open.spotify.com/album/6kdSqWIpa70QrM9eojYdVS"
+      },
+      "artists": [
+        {
+          "name": "H\u00e0 V\u00e2n",
+          "url": "https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308013,
+      "name": "Em V\u1ec1 V\u1edbi Ng\u01b0\u1eddi",
+      "url": "https://open.spotify.com/track/7hyoJ4h19L6q5SUPRZ5WHB"
+    },
+    {
+      "album": {
         "name": "Ng\u01b0\u1eddi Ph\u1ee5 T\u00ecnh T\u00f4i",
         "url": "https://open.spotify.com/album/30NR2qhdstcERTNSbfH8P7"
       },
@@ -319,7 +337,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 294011,
       "name": "Gi\u1ecdt L\u1ec7 \u0110\u00e0i Trang",
       "url": "https://open.spotify.com/track/0jGYKoCUYMGoOQOyYfRaHu"
@@ -385,7 +403,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 358321,
       "name": "Hoa M\u01b0\u1eddi Gi\u1edd",
       "url": "https://open.spotify.com/track/5kV1lCH5ehwnA9KUH8HXc4"
@@ -421,7 +439,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 265356,
       "name": "Hoa Su Nha Nang",
       "url": "https://open.spotify.com/track/3wkJe0YwbaAWwnKIqAWMUR"
@@ -493,7 +511,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 377200,
       "name": "Hoa Trinh N\u1eef",
       "url": "https://open.spotify.com/track/10Zelr7nNZECVLeB9aNz2o"
@@ -569,7 +587,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 277707,
       "name": "Kh\u00f4ng Gi\u1edd R\u1ed3i",
       "url": "https://open.spotify.com/track/0AXJI72yrYKt5XMgu8zYFn"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 423949,
       "name": "Lk Nh\u1edb Nhau Ho\u00e0i & Cho Ng\u01b0\u1eddi V\u00e0o Cu\u1ed9c Chi\u1ebfn",
       "url": "https://open.spotify.com/track/3r44NJyoz9b489j0Vx8nm8"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 373170,
       "name": "L\u01b0u B\u00fat Ng\u00e0y Xanh",
       "url": "https://open.spotify.com/track/56tR6AWgDT46ZAhHb6uJb3"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 289199,
       "name": "L\u1ea1i Nh\u1edb Ng\u01b0\u1eddi Y\u00eau",
       "url": "https://open.spotify.com/track/6zJMd6pK2dPB5wFkWRh8Rl"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 275453,
       "name": "M\u00f9a xu\u00e2n \u0111\u00f3 c\u00f3 em",
       "url": "https://open.spotify.com/track/6Nv1ftXQQxQrgwTgUioXg8"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 286693,
       "name": "M\u1ea5t Nhau R\u1ed3i",
       "url": "https://open.spotify.com/track/0rq2SM2nVvdolLewa4AOBK"
@@ -895,7 +913,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 321760,
       "name": "M\u1ed9t ng\u01b0\u1eddi \u0111i",
       "url": "https://open.spotify.com/track/5l2aK6ogZ7qHDrxZDOqm0V"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 318028,
       "name": "Neu Anh Dung Hen",
       "url": "https://open.spotify.com/track/07ihRGZNfZLY3dkKQGJaC7"
@@ -949,7 +967,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 264237,
       "name": "Ng\u01b0\u1eddi Th\u01b0\u01a1ng K\u1ebb Nh\u1edb",
       "url": "https://open.spotify.com/track/0uN3MEs0l5wgER0LKmjfLT"
@@ -967,7 +985,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 302466,
       "name": "Nh\u00e0 Anh Nh\u00e0 Em",
       "url": "https://open.spotify.com/track/7xsNkxqEmqfmd9cP9OdqSB"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 329402,
       "name": "Nh\u1edb Ng\u01b0\u1eddi Y\u00eau",
       "url": "https://open.spotify.com/track/0ete2gsPNMsqLXTj3Lhcwf"
@@ -1051,7 +1069,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 330511,
       "name": "Nh\u1eefng Ng\u00e0y X\u01b0a Th\u00e2n \u00c1i",
       "url": "https://open.spotify.com/track/4EO5Dh3UflMbse5zkrEY4V"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 311743,
       "name": "N\u00f3i V\u1edbi Ng\u01b0\u1eddi T\u00ecnh",
       "url": "https://open.spotify.com/track/3SDHmSCv27O4IPAYLvOQ7i"
@@ -1138,6 +1156,24 @@
     },
     {
       "album": {
+        "name": "Ng\u01b0\u1eddi Ph\u1ee5 T\u00ecnh T\u00f4i",
+        "url": "https://open.spotify.com/album/30NR2qhdstcERTNSbfH8P7"
+      },
+      "artists": [
+        {
+          "name": "Nhu Quynh",
+          "url": "https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286213,
+      "name": "N\u1ed7i Bu\u1ed3n G\u00e1c Tr\u1ecd",
+      "url": "https://open.spotify.com/track/48IfOqYiOgztYqaLk0ZUQA"
+    },
+    {
+      "album": {
         "name": "N\u1ed7i Bu\u1ed3n G\u00e1c Tr\u1ecd (Version Lofi)",
         "url": "https://open.spotify.com/album/5RiWfZNluUklLApntD9oRG"
       },
@@ -1149,7 +1185,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 173684,
       "name": "N\u1ed7i Bu\u1ed3n G\u00e1c Tr\u1ecd (Version Lofi)",
       "url": "https://open.spotify.com/track/0dnXeBSlnqLpHkJ5g5o2eY"
@@ -1189,7 +1225,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 281142,
       "name": "N\u1ed7i Bu\u1ed3n Hoa Ph\u01b0\u1ee3ng",
       "url": "https://open.spotify.com/track/5cDq8Lb6jRYeWQMUwxxzrF"
@@ -1207,7 +1243,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 296106,
       "name": "N\u1eeda \u0110\u00eam Ngo\u00e0i Ph\u1ed1",
       "url": "https://open.spotify.com/track/6qjb96osNEbJR5cFgLuLNi"
@@ -1225,7 +1261,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 286812,
       "name": "Phie\u0302n Ga\u0301c \u0110e\u0302m Xua\u0302n",
       "url": "https://open.spotify.com/track/35Qhuhehq4bUIvphGdj6sC"
@@ -1243,7 +1279,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 251480,
       "name": "Qua c\u01a1n m\u00ea",
       "url": "https://open.spotify.com/track/1NVYZCxEwpfniJ8Pi3zuZH"
@@ -1279,7 +1315,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 308866,
       "name": "Rao B\u00e1n V\u1ea7n Th\u01a1 Say",
       "url": "https://open.spotify.com/track/3Ggyzr0mygtpLHgrnQpgOr"
@@ -1301,7 +1337,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 250264,
       "name": "Sao Anh N\u1ee1 \u0110\u00e0nh Qu\u00ean",
       "url": "https://open.spotify.com/track/1TKXDNKrUOV21b19jfXiSO"
@@ -1391,7 +1427,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 308906,
       "name": "Th\u00f3i \u0111\u1eddi",
       "url": "https://open.spotify.com/track/283pZAMU2awKhsGFWHep0e"
@@ -1431,7 +1467,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 264290,
       "name": "Trang Nh\u1eadt K\u00fd",
       "url": "https://open.spotify.com/track/0tyLYxdMSTuvhDmnJZtmsX"
@@ -1449,7 +1485,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 328666,
       "name": "Trom Nhin Nhau",
       "url": "https://open.spotify.com/track/2YnaiSCpOhyn77VAwTY7SA"
@@ -1503,7 +1539,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 442026,
       "name": "T\u00e1m \u0111i\u1ec7p kh\u00fac",
       "url": "https://open.spotify.com/track/393cams1jFGjbh8ONysvNN"
@@ -1565,7 +1601,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 277246,
       "name": "T\u1ea1 t\u1eeb trong \u0111\u00eam",
       "url": "https://open.spotify.com/track/5zCjoKAQHtJa2ptwGuxj6Y"
@@ -1623,7 +1659,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 319973,
       "name": "V\u00f9ng L\u00e1 Me Bay",
       "url": "https://open.spotify.com/track/6FGmCnAfdtRxXvvD7MLBN1"
@@ -1659,7 +1695,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 283515,
       "name": "V\u1ec1 \u0111\u00e2u m\u00e1i t\u00f3c ng\u01b0\u1eddi th\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/7k6LqKjAXIZCB25smEGjpK"
@@ -1677,7 +1713,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 317333,
       "name": "V\u1ec1 \u0111\u00e2u m\u00e1i t\u00f3c ng\u01b0\u1eddi th\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58"
@@ -1721,7 +1757,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 307653,
       "name": "Xin Go\u0323i Nhau La\u0300 Co\u0302\u0301 Nha\u0302n",
       "url": "https://open.spotify.com/track/7wcquJ59FWYUYX0xa8ujHJ"
@@ -1775,7 +1811,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 309466,
       "name": "Xin Th\u1eddi Gian Qua Mau",
       "url": "https://open.spotify.com/track/1cFQ97xPMbOqlH8V7B9Ytn"
@@ -1793,7 +1829,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 288925,
       "name": "Xu\u00e2n N\u00e0y Con V\u1ec1 M\u1eb9 \u1ede \u0110\u00e2u?",
       "url": "https://open.spotify.com/track/4WTxlwgBTqJ5dilU8zhfbj"
@@ -1811,7 +1847,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 298560,
       "name": "X\u00f3t Xa",
       "url": "https://open.spotify.com/track/1DgAqO1ZHP6YleeFWVB9QF"
@@ -1953,7 +1989,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 320332,
       "name": "\u0110\u1eb9p L\u00f2ng Ng\u01b0\u1eddi Y\u00eau",
       "url": "https://open.spotify.com/track/065eHkIhhNoGHJE7Juxfvr"

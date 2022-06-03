@@ -4,7 +4,7 @@
 
 > Gazo au top de la première playlist de rap français !
 
-65 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
+67 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Beretta](https://open.spotify.com/track/3K1H0IDdVpvwEbKicv0vfk) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a) | 3:36 | 2022-05-19 |  |
 | [Big Meech](https://open.spotify.com/track/66OTw5q1Ut9KqdFgzMRrhp) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Big Meech](https://open.spotify.com/album/04XeEmlFNHjXX2UU9s9RHz) | 3:40 | 2022-01-06 |  |
 | [Bitume](https://open.spotify.com/track/6Bz3XzPurBj5poPqSHXHZB) | [L2B Gang](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [94 bois, vol\. 2](https://open.spotify.com/album/6WELqgG0dapTfZXNUnOHKC) | 3:12 | 2022-03-17 |  |
-| [Bruce Wayne](https://open.spotify.com/track/57QiLC5coJ0WDt0oY7fXqz) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Arès](https://open.spotify.com/album/0xs4XLhKpleNSEhDCUhKoD) | 3:07 | 2022-01-06 |  |
+| [Bruce Wayne](https://open.spotify.com/track/57QiLC5coJ0WDt0oY7fXqz) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Arès](https://open.spotify.com/album/0xs4XLhKpleNSEhDCUhKoD) | 3:07 | 2022-01-06 | 2022-06-03 |
 | [Brûle](https://open.spotify.com/track/4SsSjoHtxj70UG5W88i0Dy) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [M.A.N \(Black Roses & Lost Feelings\)](https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE) | 3:31 | 2022-03-24 |  |
 | [CANADA](https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE ! \(Vol.2\)](https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy) | 2:59 | 2022-01-20 |  |
 | [CELINE 3X](https://open.spotify.com/track/2APwDsIavDeJRJFcz6s8Ow) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [CELINE 3X](https://open.spotify.com/album/41kuLdSoezApusMB9AIZCT) | 2:38 | 2022-05-26 |  |
@@ -34,6 +34,7 @@
 | [Full black](https://open.spotify.com/track/3GdWREHnpwt24gHOxqKbOo) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xNkM6KOf8SQqeNOHTYlzD) | 2:29 | 2022-01-13 |  |
 | [FUM22 NOCIVE](https://open.spotify.com/track/3v9eCrcYmTjYjy68TWHj5b) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [MELANCHOLIA 999](https://open.spotify.com/album/0bybjX3wEDFCqYe65E9q1a) | 2:11 | 2022-01-06 |  |
 | [Gasolina \(feat\. Ninho\)](https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Toujours nous\-mêmes](https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP) | 2:33 | 2022-01-06 |  |
+| [Gasolina \(feat\. Rsko\)](https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:03 | 2022-06-02 |  |
 | [GROKUWA](https://open.spotify.com/track/0RnWcpTwUpfzPWGDjajX0o) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [GROKUWA](https://open.spotify.com/album/4F6wVoSnaBQTW6DJzkJ8oH) | 3:02 | 2022-01-06 | 2022-05-27 |
 | [HAINE&SEX](https://open.spotify.com/track/6Vcxzw4ifKqYxVrp3ckpVF) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [DRILL FR](https://open.spotify.com/album/31H0KWvM2hCC3p8jkctCWN) | 3:21 | 2022-01-06 |  |
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2022-01-06 |  |
@@ -42,6 +43,7 @@
 | [Kongolais mauvais \(feat\. Ninho\)](https://open.spotify.com/track/5HdOXndzIyhcLTMhAJQkUs) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Le chemin des braves](https://open.spotify.com/album/6oGOmTaJ6dKUPK1TvdcAzo) | 3:49 | 2022-04-07 |  |
 | [L'odeur de l'essence](https://open.spotify.com/track/4c3TC1eWvz6BgOqSlOAKdT) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 4:42 | 2022-01-06 | 2022-04-01 |
 | [La 14](https://open.spotify.com/track/3wWrlpzyqUjE47DkR39O7l) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [La 14](https://open.spotify.com/album/0DSaOBR0QbYpz3d0l9ksvM) | 2:51 | 2022-01-06 | 2022-01-21 |
+| [La 15 \(GSXR\)](https://open.spotify.com/track/5KANzscJcnk2n4CvtTOiZU) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [La 15 \(GSXR\)](https://open.spotify.com/album/41LI7y7bznXzeAZj6Wup5n) | 2:50 | 2022-06-02 |  |
 | [Leo Messi](https://open.spotify.com/track/3YZdPvENFPytMyrnkRWm1B) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Leo Messi](https://open.spotify.com/album/4bsIuKDMHdl0MbCI9QMwml) | 1:45 | 2022-01-06 | 2022-03-04 |
 | [Les gentils bandits](https://open.spotify.com/track/3Xw6c0oby7C6d7eAjyb1oD) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Les gentils bandits / Focus](https://open.spotify.com/album/1NceKqfVz9ruY8YxMcknlv) | 3:40 | 2022-03-10 |  |
 | [Loi de la calle](https://open.spotify.com/track/4Fp9Nwi6lTpMC63igc9U0Z) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [UZI](https://open.spotify.com/artist/0C4ExMgzd77NOPH8lwtEG1), [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw), [Le Rat Luciano](https://open.spotify.com/artist/5QuZ9HdvnXcX8kEG782Phv), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Le classico organisé](https://open.spotify.com/artist/791x09Ix1mNc1hGhbD7IOW) | [Loi de la calle](https://open.spotify.com/album/6GQE5lnK5ghizdk7WKENSA) | 5:44 | 2022-01-06 |  |
@@ -72,6 +74,6 @@
 | [Vengeance !](https://open.spotify.com/track/6R7Efh28yqv5a21h3G7Qbg) | [menace Santana](https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR) | [!](https://open.spotify.com/album/3n0nvH5owR2tGHLWL4s4Au) | 1:55 | 2022-01-13 | 2022-04-29 |
 | [VVS](https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:07 | 2022-01-06 |  |
 | [Ça canarde](https://open.spotify.com/track/7r9KkTYiFYMuNcGR4aySxh) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Anarchiste](https://open.spotify.com/album/0fx7GAAhnZT3gFe7mskNBg) | 3:18 | 2022-01-06 | 2022-01-28 |
-| [Étincelle \- Maradona](https://open.spotify.com/track/2PZTDaakPcvII5QJJP7SDO) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Étincelle \(Maradona\)](https://open.spotify.com/album/19ZrUrjD6DTq9jRbYEOsma) | 3:32 | 2022-01-06 |  |
+| [Étincelle \- Maradona](https://open.spotify.com/track/2PZTDaakPcvII5QJJP7SDO) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Étincelle \(Maradona\)](https://open.spotify.com/album/19ZrUrjD6DTq9jRbYEOsma) | 3:32 | 2022-01-06 | 2022-06-03 |
 
 \*This playlist was first scraped on 2022-01-10. Prior content cannot be recovered.

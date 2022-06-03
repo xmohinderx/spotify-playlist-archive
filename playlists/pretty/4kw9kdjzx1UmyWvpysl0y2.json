@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128397,
+  "num_followers": 128401,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQzNiwwNTZlNzk2NjAzMWMzMDcyNGYwMzA5ZTZkZmI5ZDgzMzNkMzlhNmUw",
+  "snapshot_id": "MzQzOSwyNmJlNzg3NWY1NWJkYjE1YjFlMzQ0ZDQ5MmI3NjA5ZDY1N2VkNDZm",
   "tracks": [
+    {
+      "added_at": "2022-06-02 16:15:19",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge"
+      },
+      "artists": [
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai"
+    },
     {
       "added_at": "2022-06-01 16:31:51",
       "album": {
@@ -1071,38 +1095,6 @@
       "duration_ms": 233320,
       "name": "begin again",
       "url": "https://open.spotify.com/track/2HzjHQ9QEZnYl3sDbWmhQo"
-    },
-    {
-      "added_at": "2022-03-23 16:09:26",
-      "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/7klufynHglkdPiPu82O4wB"
-      },
-      "artists": [
-        {
-          "name": "Leah Culver",
-          "url": "https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts"
-        }
-      ],
-      "duration_ms": 183300,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/2RTSOgbEyShCnvxsHbCC7D"
-    },
-    {
-      "added_at": "2022-03-21 16:26:47",
-      "album": {
-        "name": "Deja Reve",
-        "url": "https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 168073,
-      "name": "Deja Reve",
-      "url": "https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 
 > The calming and pensive side of electric guitar\. Instrumental only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,982 likes - 76 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,015 likes - 77 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 | 70 | [Sunset Blvd](https://open.spotify.com/track/7B6GIld7XdXdkOcziTsCHi) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Open Fields](https://open.spotify.com/album/6AUdvWLCptSVA1g8k7tMKD) | 3:27 |
 | 71 | [The Journey](https://open.spotify.com/track/1XcOci00g6G98QaDipUiPb) | [Jimmie Stills](https://open.spotify.com/artist/64FYFlv9Z4qfU4rXS6Ri5E) | [The Actress](https://open.spotify.com/album/2VOcYwupehwQHrQieOWbCH) | 3:12 |
 | 72 | [White Ferrari](https://open.spotify.com/track/3peYvBrl7CyE0zXUujPGnN) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Favorites 2](https://open.spotify.com/album/1wCB84h6r1T0nv9ZQDcM3e) | 4:54 |
-| 73 | [Sunbreak](https://open.spotify.com/track/4cmBIVqMmvd48ISF6FHdtq) | [Matthew Harvey](https://open.spotify.com/artist/30LkldJYxQgtaQBIGwzgMQ) | [Malibu](https://open.spotify.com/album/3kM89PKkU3cDQXTMIYDWxo) | 2:37 |
-| 74 | [Roll](https://open.spotify.com/track/45hrCYJ27wKJEDW8DKh2Ko) | [Bluetoon](https://open.spotify.com/artist/135WbQvbKp0SnPHy80df1X) | [The Skies Above](https://open.spotify.com/album/65BZVVODmw9gxRu13MHG49) | 2:50 |
-| 75 | [Flatiron](https://open.spotify.com/track/4a8njLGIK0meARLqzvysDn) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 7:00 |
-| 76 | [On Satie](https://open.spotify.com/track/4FLaCrEr1DnVyprizWg3XF) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [In No Particular Order](https://open.spotify.com/album/6Il6mppb7MylqEi5S3S3mK) | 3:48 |
+| 73 | [Sigulda](https://open.spotify.com/track/46WRSVjU9OwepvlCcBLvFa) | [Revolutions](https://open.spotify.com/artist/0RjqXCIIlAUNd0APK0cE8T) | [Sigulda](https://open.spotify.com/album/4ftPJ2WTzpMa4Lb4ckUqIS) | 4:26 |
+| 74 | [Sunbreak](https://open.spotify.com/track/4cmBIVqMmvd48ISF6FHdtq) | [Matthew Harvey](https://open.spotify.com/artist/30LkldJYxQgtaQBIGwzgMQ) | [Malibu](https://open.spotify.com/album/3kM89PKkU3cDQXTMIYDWxo) | 2:37 |
+| 75 | [Roll](https://open.spotify.com/track/45hrCYJ27wKJEDW8DKh2Ko) | [Bluetoon](https://open.spotify.com/artist/135WbQvbKp0SnPHy80df1X) | [The Skies Above](https://open.spotify.com/album/65BZVVODmw9gxRu13MHG49) | 2:50 |
+| 76 | [Flatiron](https://open.spotify.com/track/4a8njLGIK0meARLqzvysDn) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 7:00 |
+| 77 | [On Satie](https://open.spotify.com/track/4FLaCrEr1DnVyprizWg3XF) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [In No Particular Order](https://open.spotify.com/album/6Il6mppb7MylqEi5S3S3mK) | 3:48 |
 
-Snapshot ID: `MTY1MjQ1NDgyMywwMDAwMDAyODAwMDAwMTgwYmRmYjk2NjEwMDAwMDE3MGM0OTU2Njg3`
+Snapshot ID: `MTY1NDIxNDQwMCwwMDAwMDAyOTAwMDAwMTgxMjZkYzk4Y2EwMDAwMDE3MGM0OTU2Njg3`

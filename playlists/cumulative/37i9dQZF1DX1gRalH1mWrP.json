@@ -2551,7 +2551,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 208626,
       "name": "Can't Give It Up (feat. Tyler Shaw)",
       "url": "https://open.spotify.com/track/4SWV9mKtdhjbYotmm5ELCT"
@@ -3785,7 +3785,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 150241,
       "name": "Detonate",
       "url": "https://open.spotify.com/track/2bhWunYI6eZe9fvt5QrRST"
@@ -6049,7 +6049,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 279204,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
@@ -11203,7 +11203,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 200747,
       "name": "Mine",
       "url": "https://open.spotify.com/track/0lPZ8UNB5bmvhn7ba8faJi"
@@ -11469,7 +11469,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 225862,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/6FE9EXi8TYg09hR4xv5PWJ"
@@ -12315,7 +12315,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 174344,
       "name": "Nothing Good Comes Easy",
       "url": "https://open.spotify.com/track/1m66iYSRv0qEQBo0RqyPaw"
@@ -14697,7 +14697,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "seaside_demo",
       "url": "https://open.spotify.com/track/73M0rMVx5CWE8M4uATSsto"
@@ -15339,7 +15339,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 192621,
       "name": "Solar Power",
       "url": "https://open.spotify.com/track/5VmpLtRycwbA54XsTffKq4"
@@ -17025,7 +17025,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 176842,
       "name": "The Old Me",
       "url": "https://open.spotify.com/track/2dW8FQL3XdiMd08FGCz6OE"
@@ -18019,6 +18019,24 @@
       "duration_ms": 170085,
       "name": "Used to You",
       "url": "https://open.spotify.com/track/520eu4nFIEgHUZAgQrsOof"
+    },
+    {
+      "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
       "album": {

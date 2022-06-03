@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
 
-232 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+233 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Namgella Yar Beelthare](https://open.spotify.com/track/67NDyz7ex7Bbq9ofvGRyk1) | [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx) | [SriKrishna@gmail.com](https://open.spotify.com/album/5Pe0nvyRMVE4Nxcppzg9Iw) | 3:48 | 2021-12-06 | 2022-05-19 |
 | [Namm Area Haadu \(From "Balepet"\)](https://open.spotify.com/track/0IhOYwM80AP2js03qO4wnf) | [Utham Kumar](https://open.spotify.com/artist/2BkKd4mHNJvkQKBsdOj2ab), [Lohit Naik](https://open.spotify.com/artist/0iQnTOGQNUqUOQSSZjWcF7), [Shruthi](https://open.spotify.com/artist/768BP8EDf20zlqOi0triRU), [Anita Bhat](https://open.spotify.com/artist/1fvZkjYqCxu0VOynessO7S) | [Namm Area Haadu \(From "Balepet"\)](https://open.spotify.com/album/5Hxju1oMbJvVljv3mOzZtz) | 3:18 | 2022-03-16 | 2022-04-20 |
 | [Namma Bengaluru](https://open.spotify.com/track/4rYpYHz93BnVJYhQvZtrgS) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Yellow Board](https://open.spotify.com/album/4qQpigRTRclbioW2FYuiyM) | 3:41 | 2021-12-06 | 2022-02-03 |
+| [Nammooralli Aralo Hoovella \(From "Wheel Chair Romeo"\)](https://open.spotify.com/track/62bvfMVEApjjgvFFS1cCu5) | [Sangeetha Katti](https://open.spotify.com/artist/2genLozNAnNjTlyJyMKc7j), [Bharath B J](https://open.spotify.com/artist/5aC35gTD6yYxnKmRtbgR3d) | [Nammooralli Aralo Hoovella \(From "Wheel Chair Romeo"\)](https://open.spotify.com/album/6hmbRIzfzJ1GFW5pM6Sw9n) | 4:48 | 2022-06-02 |  |
 | [Nanga Hucchu Hedadeti \(From "School Days"\)](https://open.spotify.com/track/1JVy7JorTpM8yJHLfRqw4M) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Chaitra H\. G.](https://open.spotify.com/artist/5NZ2P8KBgZX2ZjSGU17EOA), [Balasubramanya](https://open.spotify.com/artist/1EaDx31aJ5BtanB1wKEhsT) | [Nanga Hucchu Hedadeti \(From "School Days"\)](https://open.spotify.com/album/6Z2SXr6qfk0VsGfQ2TOmlL) | 4:40 | 2022-05-23 |  |
 | [Nannalli Neeneega \(From "Nirmuktha"\)](https://open.spotify.com/track/5un4Op2UjXZqx8aE1eTpDT) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY), [Samrat](https://open.spotify.com/artist/5RwriSLPFn4NLfH0ln4wT2) | [Nannalli Neeneega \(From "Nirmuktha"\)](https://open.spotify.com/album/3mSgNq2P5HIl8oGSIJCNL6) | 4:29 | 2022-05-18 |  |
 | [Nee Kotiyali Obbane](https://open.spotify.com/track/5c3Ftg5MvltJWORB1Fl5qO) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Kotigobba 3](https://open.spotify.com/album/5euJTTpvZwTNojhGoUqYQb) | 3:43 | 2021-12-06 | 2022-03-14 |

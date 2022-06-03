@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 212031,
       "name": "2/Catorce",
       "url": "https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t"
@@ -112,6 +112,28 @@
     },
     {
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Flow La Movie",
+          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182496,
+      "name": "AM",
+      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
+    },
+    {
+      "album": {
         "name": "AM Remix",
         "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },
@@ -167,7 +189,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 252386,
       "name": "Ayer La Vi",
       "url": "https://open.spotify.com/track/3gvGnkmg8zVZdBAx4B7Cvq"
@@ -255,7 +277,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 141075,
       "name": "BLUNTED 5 - Remix",
       "url": "https://open.spotify.com/track/27t4JURZ1Tv7a3zMfPneAw"
@@ -281,7 +303,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 154624,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz"
@@ -299,7 +321,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 148629,
       "name": "Borracha Pero Buena Muchacha",
       "url": "https://open.spotify.com/track/470w3z3ArDVDRylciIxFqF"
@@ -401,7 +423,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 145152,
       "name": "Cerca de Ti",
       "url": "https://open.spotify.com/track/03T8X2bJOvBg5Dm9GH52uL"
@@ -419,7 +441,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 349231,
       "name": "Chinax",
       "url": "https://open.spotify.com/track/6CRs2uNFau0JRFOYzK7BKt"
@@ -597,7 +619,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 85890,
       "name": "Deja de Llorar - Remix",
       "url": "https://open.spotify.com/track/06oYXNcaTwKAlDg1uqvnSR"
@@ -723,7 +745,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 200905,
       "name": "El Apache Ness: RKT SESSION #3",
       "url": "https://open.spotify.com/track/2fbEIhb7fwvavZQLiTLiAJ"
@@ -763,7 +785,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 264146,
       "name": "El Doctorado",
       "url": "https://open.spotify.com/track/2PUbdd0s68EfVKlBCUW9Vq"
@@ -785,7 +807,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 217142,
       "name": "El Efecto",
       "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
@@ -919,7 +941,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 209414,
       "name": "El Mismo Aire",
       "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
@@ -989,7 +1011,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 143529,
       "name": "El Trato - Remix",
       "url": "https://open.spotify.com/track/3jq37NOBQax11fx51F4z4w"
@@ -1019,7 +1041,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 197721,
       "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
       "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
@@ -1077,7 +1099,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 170839,
       "name": "Ellax No Es Tuya - Remix",
       "url": "https://open.spotify.com/track/0wRGkmQ3xNhHuWzPwJ03rS"
@@ -1231,7 +1253,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 349546,
       "name": "Fiel - Remix",
       "url": "https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7"
@@ -1371,7 +1393,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 229826,
       "name": "Hasta Abajo",
       "url": "https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw"
@@ -1411,7 +1433,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 217058,
       "name": "Hecha Pa Mi - Remix",
       "url": "https://open.spotify.com/track/0Po55fcsks8ZGkOPybOWXB"
@@ -1492,6 +1514,24 @@
     },
     {
       "album": {
+        "name": "Viva el Perreo",
+        "url": "https://open.spotify.com/album/0Oe2Bh74rFWrYSvJVCeF8j"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154398,
+      "name": "Hoy Se Chicha",
+      "url": "https://open.spotify.com/track/4SE7wJ6HNrxGf7RpAVyTwm"
+    },
+    {
+      "album": {
         "name": "Hoy Te Vi (Remix)",
         "url": "https://open.spotify.com/album/5cnFYDcLeohdBbGStNsWCV"
       },
@@ -1555,7 +1595,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 160909,
       "name": "INDIQUEN | E3",
       "url": "https://open.spotify.com/track/0mrioCB3wq09Zz7YN3Q4C4"
@@ -1573,7 +1613,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 242406,
       "name": "Jangueox",
       "url": "https://open.spotify.com/track/5Zxq7UC7Iqv9pfZdq3rAcQ"
@@ -1660,6 +1700,24 @@
     },
     {
       "album": {
+        "name": "Keii",
+        "url": "https://open.spotify.com/album/30FZign4ARPElEZ23nU0ns"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Keii",
+      "url": "https://open.spotify.com/track/5eEQCfq7MXQr6aHLNRUZLs"
+    },
+    {
+      "album": {
         "name": "L-Gante Rkt",
         "url": "https://open.spotify.com/album/5GTDPMYQ2mqLwJLlS6iRub"
       },
@@ -1697,7 +1755,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 192347,
       "name": "L-Gante: Bzrp Music Sessions, Vol.38",
       "url": "https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof"
@@ -1715,7 +1773,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 169250,
       "name": "La Cola",
       "url": "https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii"
@@ -1741,7 +1799,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
@@ -1805,7 +1863,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 382555,
       "name": "La Curiosidad (feat. Dj Nelson, Jhay Cortez, Lunay & Kendo Kaponi) - Blue Grand Prix Remix",
       "url": "https://open.spotify.com/track/7LE1K0lZyRFZjSlrnm7lfD"
@@ -1857,7 +1915,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 307435,
       "name": "La Forma en Que Me Miras",
       "url": "https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW"
@@ -2015,7 +2073,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 263253,
       "name": "Ley Seca",
       "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
@@ -2055,7 +2113,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 208875,
       "name": "Llora Me Llama - Remix",
       "url": "https://open.spotify.com/track/6U4VSEIR6N63JBpbCQfyEh"
@@ -2103,7 +2161,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 249680,
       "name": "Mayor que yo",
       "url": "https://open.spotify.com/track/4n4CBlQVxxnU0MHGO5Mqv3"
@@ -2165,7 +2223,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 196315,
       "name": "Me Extra\u00f1aras",
       "url": "https://open.spotify.com/track/0Ky063B3IgHlrRnzwXzGpP"
@@ -2235,7 +2293,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 187492,
       "name": "Me Reclama",
       "url": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
@@ -2257,7 +2315,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 238528,
       "name": "Me Vas a Extra\u00f1ar - En Vivo",
       "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
@@ -2367,7 +2425,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 240733,
       "name": "More",
       "url": "https://open.spotify.com/track/0AAl3LtvIhEilWXZmYHeh5"
@@ -2427,7 +2485,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 377580,
       "name": "M\u00edrame - Remix",
       "url": "https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS"
@@ -2445,7 +2503,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 182581,
       "name": "Nathy Peluso: Bzrp Music Sessions, Vol. 36 - Remix",
       "url": "https://open.spotify.com/track/2SlnGa8canDRw66rMLm0Bf"
@@ -2489,7 +2547,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 194690,
       "name": "No Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
@@ -2529,7 +2587,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 239760,
       "name": "No Te Creas Tan Importante - En Vivo",
       "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
@@ -2563,7 +2621,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 263293,
       "name": "Noche De Entierro",
       "url": "https://open.spotify.com/track/6ksWMnPcHNyNoNf3y1BQCO"
@@ -2581,7 +2639,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 354626,
       "name": "Ocho Cuarenta",
       "url": "https://open.spotify.com/track/6jDx3MNG0yJdrvEBZohKBE"
@@ -2751,7 +2809,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 190850,
       "name": "Par-Tusa",
       "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
@@ -2773,7 +2831,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 243026,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/4JOcMuy5myeEaNCKlu5j19"
@@ -2855,7 +2913,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 201596,
       "name": "Poblado",
       "url": "https://open.spotify.com/track/7xT1n5JKpB0bMPh6FL589e"
@@ -2909,7 +2967,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 185118,
       "name": "Ponte Pa' Mix",
       "url": "https://open.spotify.com/track/27RbEsHY7OdniHk3sepP5k"
@@ -3077,7 +3135,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 172666,
       "name": "Que Desgracia",
       "url": "https://open.spotify.com/track/0foaB0y1mzD4eCeXbZqZI6"
@@ -3337,7 +3395,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 174158,
       "name": "Sabroson",
       "url": "https://open.spotify.com/track/7pGq27cyrWFh6chXvvFSLS"
@@ -3581,7 +3639,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 226532,
       "name": "Sigues Con El",
       "url": "https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3"
@@ -3641,7 +3699,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 307910,
       "name": "Sola",
       "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
@@ -3701,7 +3759,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 197746,
       "name": "Suelta",
       "url": "https://open.spotify.com/track/6b8ssfeNotmNKa9AzS734T"
@@ -3847,7 +3905,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 157675,
       "name": "Te Robo",
       "url": "https://open.spotify.com/track/2vi23luhEYDrtUnNHAqF6q"
@@ -3971,7 +4029,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 241461,
       "name": "Tu Estas Dura Sin Ir al Gym (Fiel)",
       "url": "https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft"
@@ -3993,7 +4051,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 205520,
       "name": "Tu Pr\u00edncipe",
       "url": "https://open.spotify.com/track/0Q7ZM15J0cJA9rd7pQYdRq"
@@ -4209,7 +4267,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 255164,
       "name": "Vienes y Te Vas",
       "url": "https://open.spotify.com/track/6O3RT6e1dyN3Bm7Iy7xgj9"

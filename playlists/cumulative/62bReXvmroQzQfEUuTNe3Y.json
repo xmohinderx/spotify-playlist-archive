@@ -4256,6 +4256,28 @@
     },
     {
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI"
+      },
+      "artists": [
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187620,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr"
+    },
+    {
+      "album": {
         "name": "Sad in Scandinavia",
         "url": "https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA"
       },

@@ -4,7 +4,7 @@
 
 > Music from Future, Moneybagg Yo and Kanye West with XXXTENTACION.
 
-1,229 songs - 2 day 15 hr 10 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,230 songs - 2 day 15 hr 16 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1103,6 +1103,7 @@
 | [trademark usa](https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:30 | 2021-09-25 | 2022-04-29 |
 | [Trap or Cap](https://open.spotify.com/track/04WcxfTz7qwm2DZ1F3bTTt) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 3:21 | 2020-05-22 | 2020-07-02 |
 | [Trillionaire \(feat\. Youngboy Never Broke Again\)](https://open.spotify.com/track/740kQ8xwSGloumdiKR5Cwz) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 2:47 | 2020-05-15 | 2020-06-20 |
+| [Triumph \(feat\. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U\-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon\)](https://open.spotify.com/track/3glqlA5qY3bbo8UaUDGPnw) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR), [U\-God](https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO), [Masta Killa](https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Wu\-Tang Forever](https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43) | 5:38 | 2022-06-02 |  |
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-27 |  |
 | [Trust Nothing \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 3:05 | 2022-03-04 | 2022-05-21 |
 | [Try Me](https://open.spotify.com/track/0tIHHwV2eL10rpQ1fiyDjz) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Try Me](https://open.spotify.com/album/71ziNzfuk5VLPwiAvQaC1X) | 2:21 | 2021-03-19 | 2021-04-24 |

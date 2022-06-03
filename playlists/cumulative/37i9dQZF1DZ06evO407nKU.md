@@ -4,12 +4,13 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 50 min - not published yet
+51 songs - 2 hr 52 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Amar Sin Pensarlo \- En Vivo](https://open.spotify.com/track/0KgLontgLrWfnnF6k61GUS) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 2:58 | 2022-06-01 |  |
 | [Amor Distante](https://open.spotify.com/track/4O9jkAZbeMxYQMORIcjbtC) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ya Duele Menos](https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW) | 3:23 | 2022-06-01 |  |
+| [Carta Abierta \- En Vivo](https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:28 | 2022-06-02 |  |
 | [Como Te Olvido](https://open.spotify.com/track/2gmX1m68Py0uWJdWDNlHnC) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Vas](https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR) | 4:13 | 2022-06-01 |  |
 | [Corazon](https://open.spotify.com/track/6b1zoFU3bZ9FLTHiAwAjfe) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Un Desengaño](https://open.spotify.com/album/6t6J1zjatRRoidnm8MZ9n1) | 3:19 | 2022-06-01 |  |
 | [Culpable Soy Yo](https://open.spotify.com/track/2FQhPnrRp2SkWjxnTizuc7) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Cuarta Vision](https://open.spotify.com/artist/2AI2jdLFdlak4XJmIjRMkb) | [Culpable Soy Yo](https://open.spotify.com/album/7vp8vcm4A7WTjVK7QeiBNC) | 3:39 | 2022-06-01 |  |
@@ -45,7 +46,7 @@
 | [Quisiera](https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Quisiera](https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ) | 2:09 | 2022-06-01 |  |
 | [Si Tu Quieres](https://open.spotify.com/track/2TbeBA72jmvoAXnBvnezKB) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:57 | 2022-06-01 |  |
 | [Siempre Trabajando](https://open.spotify.com/track/7nK9RJn7XNg5RaRE6v2eQm) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 2:11 | 2022-06-01 |  |
-| [Sigo de pie](https://open.spotify.com/track/67VgUmWzx04XMSXTf9CZqn) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl), [El Yaki](https://open.spotify.com/artist/4toIblSAfEe7buSwNPRmaF) | [Duetos Del Rancho Para El Mundo](https://open.spotify.com/album/4uSjeugGREYKbTB5Z5Elg0) | 3:40 | 2022-06-01 |  |
+| [Sigo de pie](https://open.spotify.com/track/67VgUmWzx04XMSXTf9CZqn) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl), [El Yaki](https://open.spotify.com/artist/4toIblSAfEe7buSwNPRmaF) | [Duetos Del Rancho Para El Mundo](https://open.spotify.com/album/4uSjeugGREYKbTB5Z5Elg0) | 3:40 | 2022-06-01 | 2022-06-03 |
 | [Te soñé](https://open.spotify.com/track/3T3EadqiRyyD093zct9HGV) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9) | [Duetos Del Rancho Para El Mundo](https://open.spotify.com/album/4uSjeugGREYKbTB5Z5Elg0) | 3:55 | 2022-06-01 |  |
 | [Te Vas](https://open.spotify.com/track/6E5PU4i61dEahmW37mTtk9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 3:39 | 2022-06-01 |  |
 | [Te Voy a Borrar](https://open.spotify.com/track/14YBw9TqXQLouHQ2Axf4XD) | [Los Bisnietos](https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Voy a Borrar](https://open.spotify.com/album/5BF6wa9keGK6lCmDputl45) | 3:01 | 2022-06-01 |  |

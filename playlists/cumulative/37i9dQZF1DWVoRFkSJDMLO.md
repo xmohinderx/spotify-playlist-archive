@@ -4,7 +4,7 @@
 
 > Inspired by African drums\. Cover: Nonso Amadi
 
-100 songs - 5 hr 15 min - not published yet
+100 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/3Nva1foeKA4kN9RYANT1NX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

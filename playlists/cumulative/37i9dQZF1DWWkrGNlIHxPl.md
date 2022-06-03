@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Anees.
 
-137 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+138 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Dance Alone](https://open.spotify.com/track/6oKrqdkszicFfmZ7gT55zM) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [pre kai ro](https://open.spotify.com/artist/0oXFTo5u9yH1zht6gIt4wY) | [Dance Alone](https://open.spotify.com/album/2gw0OZjHyvvwMODWy9fovU) | 2:58 | 2021-12-16 |  |
 | [Deep End](https://open.spotify.com/track/1tBGCQUfN4d7iUJC7xMsJE) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Deep End](https://open.spotify.com/album/3sgMt6ZHu0nANSXV19zdsU) | 3:23 | 2021-12-16 |  |
 | [deeper me](https://open.spotify.com/track/5UbiMFkaDzjQeqDDOft4uD) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [deeper me](https://open.spotify.com/album/5FyVNEJKiwCNiw9xuFIQWC) | 3:15 | 2021-12-16 |  |
+| [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 | 2022-06-02 |  |
 | [Do You Remember](https://open.spotify.com/track/61xP63UNZyc4RIuotBRo9c) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Do Your Remember](https://open.spotify.com/album/1LFS3RAcAcx6zH0xl8MFnI) | 3:00 | 2021-12-16 |  |
 | [Doo Doo Doo](https://open.spotify.com/track/37c5GgK7f8QXCwOayKl2Da) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Doo Doo Doo](https://open.spotify.com/album/64pLqJV6zOaBh8jAwBorFV) | 2:46 | 2021-12-16 |  |
 | [Drunk Calling](https://open.spotify.com/track/3U6YCUCPJ5CxQWx1psJ4Ga) | [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Drunk Calling](https://open.spotify.com/album/7eGSM40pIFMOEVofCb0r0n) | 2:32 | 2021-12-16 | 2022-03-19 |

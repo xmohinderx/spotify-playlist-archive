@@ -2,13 +2,14 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. cassyette
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. maggie lindemann
 
-220 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+222 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2much](https://open.spotify.com/track/3Cy5Dua2zVvH8YvJ5ORILo) | [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [2much](https://open.spotify.com/album/5OJZzfiSO8qZ7KM5A7U3F6) | 3:58 | 2022-04-19 | 2022-04-29 |
+| [AGAIN.](https://open.spotify.com/track/2knqxjt5zHq0So8l619O88) | [KDVSGOLIATH](https://open.spotify.com/artist/1fxSfIUHcYGuFkPY7kOCkQ) | [AGAIN.](https://open.spotify.com/album/0VEOmqs7veZkwAQwV88NgF) | 3:01 | 2022-06-02 |  |
 | [ALL COPS ARE BASTARDS\*](https://open.spotify.com/track/6Bike9oqxqToe0XPwtVIhD) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [ALL COPS ARE BASTARDS\*](https://open.spotify.com/album/22GzbmGV3Uw6honxKUDSYr) | 3:04 | 2021-12-27 | 2022-01-19 |
 | [Amygdala](https://open.spotify.com/track/46hnqCPtSB5Hz6P3Hh642v) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Amygdala](https://open.spotify.com/album/0mH4AehT1gftVuf8NBYIP6) | 2:10 | 2022-04-19 | 2022-04-29 |
 | [anatomy](https://open.spotify.com/track/4qYSf300bVsKqFJBO4BVE1) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [needle pit](https://open.spotify.com/album/4iuu04DtIfLzlMcCBlEl9E) | 2:43 | 2022-04-28 |  |
@@ -30,6 +31,7 @@
 | [BMTH shxw](https://open.spotify.com/track/277ocfhxIxwtnyKZiRTzqv) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z), [Elle Lapointe](https://open.spotify.com/artist/0uyshtcmdpvY91d8QSBR2w) | [nx future](https://open.spotify.com/album/0V6z9eQZ3gHe7ivNgKuifF) | 2:45 | 2022-04-19 | 2022-04-29 |
 | [BORED](https://open.spotify.com/track/3CaCddaop8aqxQp6MRP4SF) | [LUzA CULT](https://open.spotify.com/artist/3PNeM7iJ589do6dmOP26IT), [SAVE Az](https://open.spotify.com/artist/41zUkY4aPJbXRPGdDH25y7) | [BORED](https://open.spotify.com/album/5r8GfaEZnFZp7uwMSsm4ut) | 2:02 | 2021-12-27 | 2022-01-06 |
 | [braindead!](https://open.spotify.com/track/4GYRVROTrMnOnMzOlWizzO) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [HI! NICE TO MEET YA](https://open.spotify.com/album/4HM4CTkJrx5x2pK0sgNALM) | 2:43 | 2022-05-12 | 2022-05-18 |
+| [break me!](https://open.spotify.com/track/4kAtlOHiKnGFfJVPfLyHo1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [break me!](https://open.spotify.com/album/3mV2ebkKgbEaEjnTbi0sJD) | 2:33 | 2022-06-02 |  |
 | [buckshot boy](https://open.spotify.com/track/0UDKAvVtuX8oxvpuUjsBbR) | [Onlyfriend](https://open.spotify.com/artist/03zKAbmkkWhUzjUSmJZGVE) | [buckshot boy](https://open.spotify.com/album/6eB0sUv4yuNNWzXFv11A8J) | 2:18 | 2021-12-27 | 2022-01-19 |
 | [Butterflies](https://open.spotify.com/track/7yF8jMKIjgHRcwduu0fzWc) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp), [Suzi Wu](https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi), [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Butterflies](https://open.spotify.com/album/4ob92gI2nIurZosVJqttdA) | 3:43 | 2022-02-18 | 2022-04-01 |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-28 |  |

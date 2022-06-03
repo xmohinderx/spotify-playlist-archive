@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: AVIWKILA
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Endank Soekamti, Ndarboy Genk
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,766 likes - 86 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,837 likes - 86 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tewas Tertimbun Masa Lalu \(TTM\)](https://open.spotify.com/track/1ohxeVZ0pg6PJThlvgUAVN) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [NDX A.K.A\. Familia](https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc) | 4:04 |
 | 2 | [Satru 2](https://open.spotify.com/track/1lYE7sWxl6fBUJejyubpSv) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Satru 2](https://open.spotify.com/album/2tqDHQURR2zMy5Pb6eOQRN) | 4:48 |
-| 3 | [Yang](https://open.spotify.com/track/3v7OoIuqKeR2cm1UraZAGn) | [AVIWKILA](https://open.spotify.com/artist/5wZoqr9DBLE7BYXUC1PhSs) | [Yang](https://open.spotify.com/album/7fexpNRf6OG0n9MfL75j5y) | 4:34 |
-| 4 | [Wayahe Hiling](https://open.spotify.com/track/5DO6h6YjA9531IA8B0ahBa) | [Endank Soekamti](https://open.spotify.com/artist/0sde8hCXe4RhPihKuFmxhk), [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Wayahe Hiling](https://open.spotify.com/album/2jwNOfR7Jv9UcmozbFrvib) | 4:34 |
+| 3 | [Wayahe Hiling](https://open.spotify.com/track/5DO6h6YjA9531IA8B0ahBa) | [Endank Soekamti](https://open.spotify.com/artist/0sde8hCXe4RhPihKuFmxhk), [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Wayahe Hiling](https://open.spotify.com/album/2jwNOfR7Jv9UcmozbFrvib) | 4:34 |
+| 4 | [Yang](https://open.spotify.com/track/3v7OoIuqKeR2cm1UraZAGn) | [AVIWKILA](https://open.spotify.com/artist/5wZoqr9DBLE7BYXUC1PhSs) | [Yang](https://open.spotify.com/album/7fexpNRf6OG0n9MfL75j5y) | 4:34 |
 | 5 | [Akhire Lungo](https://open.spotify.com/track/2LbtLp004yRHORSdL1uTwF) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Akhire Lungo](https://open.spotify.com/album/7wMhXRZvERrbp1MBpzcjK4) | 5:13 |
 | 6 | [Damar Opo Lilin](https://open.spotify.com/track/7mbw5J7jSrcUJnWF5QCCeu) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Damar Opo Lilin](https://open.spotify.com/album/7zgynxvALxYEkXDEvvWvEl) | 4:42 |
 | 7 | [Kelangan 3](https://open.spotify.com/track/4sKISuQb1KssjLUu1BagA1) | [Wandra Restusiyan](https://open.spotify.com/artist/2ix5PZ8KfESpQbuaWxSK65) | [Kelangan 3](https://open.spotify.com/album/1vf8SZEJNP0SBArwBW32pd) | 6:52 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 85 | [Prei Kanan Kiri](https://open.spotify.com/track/6P8sNmw5rUZaSrcF3SUTFT) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Prei Kanan Kiri](https://open.spotify.com/album/64EKhd4vAGVqGy4an2MKoC) | 5:20 |
 | 86 | [Ambyar](https://open.spotify.com/track/0JBnBZ53RRDsWnjtrhG6YB) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Ambyar](https://open.spotify.com/album/0cMPXAVMsdmq5SaVVyUH5e) | 4:42 |
 
-Snapshot ID: `MTY1MzU4NDQwMCwwMDAwMDA1NjAwMDAwMTgxMDE0ZjhmMDEwMDAwMDE4MTAwODc1ZmQ1`
+Snapshot ID: `MTY1NDE4OTIwMCwwMDAwMDA1NzAwMDAwMTgxMjU1YzEzNDIwMDAwMDE4MTI0NDAzNzE2`

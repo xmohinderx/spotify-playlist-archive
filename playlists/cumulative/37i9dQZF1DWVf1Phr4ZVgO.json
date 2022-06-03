@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 299213,
       "name": "A Time For Love",
       "url": "https://open.spotify.com/track/6kkYQ0DI1ZMQyuqNGCcZ09"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 140360,
       "name": "A Woman in Love (with Percy Faith & His Orchestra)",
       "url": "https://open.spotify.com/track/428F8FMidC2u1ZHXNaeMuK"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 123840,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/4Zu8o8Xt141AkYMS7iOrXB"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 172480,
       "name": "Beyond the Sea",
       "url": "https://open.spotify.com/track/2EIaO5knwUA3F2qnf9LV3S"
@@ -474,6 +474,24 @@
     },
     {
       "album": {
+        "name": "The Essential Glenn Miller",
+        "url": "https://open.spotify.com/album/6dVUKIxSRafCpEGZ5prYlG"
+      },
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190160,
+      "name": "Don't Sit Under The Apple Tree (With Anyone Else But Me)",
+      "url": "https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp"
+    },
+    {
+      "album": {
         "name": "Harlem On My Mind",
         "url": "https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd"
       },
@@ -543,7 +561,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 234320,
       "name": "Fever",
       "url": "https://open.spotify.com/track/17Syv0SV6ThWwgZM3umr1E"
@@ -662,7 +680,7 @@
     },
     {
       "album": {
-        "name": "Modern Jazz Classics",
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
         "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
       "artists": [
@@ -673,7 +691,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 178533,
       "name": "Four Brothers",
       "url": "https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG"
@@ -709,7 +727,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 305520,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/3CmK6pngGPK0F4GlzE7VxH"
@@ -817,7 +835,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 132466,
       "name": "I've Got The World On A String",
       "url": "https://open.spotify.com/track/2bksvLO7cIYbVxe6HcSS8Q"
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 117053,
       "name": "Let's Fall in Love",
       "url": "https://open.spotify.com/track/0tr9uiYlchva9CatdXRGE9"
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 170626,
       "name": "Mad About The Boy",
       "url": "https://open.spotify.com/track/4eByri8JfhjBK25aCnwSNF"
@@ -1264,6 +1282,24 @@
     },
     {
       "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145866,
+      "name": "On An Evening In Roma",
+      "url": "https://open.spotify.com/track/6ROVCVeTh27M57FDyBesxS"
+    },
+    {
+      "album": {
         "name": "Crooners and Champagne",
         "url": "https://open.spotify.com/album/1elk2gnwJWxL4nvKWmE1Eb"
       },
@@ -1297,7 +1333,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 149986,
       "name": "Perhaps",
       "url": "https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb"
@@ -1373,7 +1409,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 187453,
       "name": "Rusty Dusty Blues",
       "url": "https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG"
@@ -1557,7 +1593,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 141640,
       "name": "Sweet Pea",
       "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
@@ -1575,10 +1611,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 173693,
       "name": "Swinging On A Star",
       "url": "https://open.spotify.com/track/7DhjBWlWMv0Lsspq7KLvIz"
+    },
+    {
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324133,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP"
     },
     {
       "album": {
@@ -1915,7 +1969,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 179493,
       "name": "You Make Me Feel So Young",
       "url": "https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3"
@@ -1951,7 +2005,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 177400,
       "name": "You Make Me Feel So Young - Remastered 1998",
       "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
@@ -1969,7 +2023,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 133933,
       "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
       "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,071 likes - 83 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,106 likes - 84 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 79 | [Treehouse](https://open.spotify.com/track/4Bi8KdG2aQqjWgQwx6iXvD) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Treehouse](https://open.spotify.com/album/1JUIco9C3DSFdLXA28qWTj) | 2:24 |
 | 80 | [Grassland](https://open.spotify.com/track/4DnnJ4E8uee5Fzf111ZGot) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Hello Spring 2022](https://open.spotify.com/album/5La7QOCmV0pnFQ1leIGAfi) | 2:11 |
 | 81 | [cloud and fries](https://open.spotify.com/track/2KuLh0UbhXpFLCutKIe9Zt) | [Hicut Lopass](https://open.spotify.com/artist/1sS4XmaU4vzA2TQ2PbKqJX) | [cloud and fries](https://open.spotify.com/album/1vGZxMWmMtA0lVlhkXFOqi) | 2:09 |
-| 82 | [Fieldwalk](https://open.spotify.com/track/7F3QLGh33XVtIVptpJBs10) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Fieldwalk](https://open.spotify.com/album/18OvjPfEg6wOHSQ7K7kpT0) | 2:46 |
-| 83 | [Tsubaki](https://open.spotify.com/track/2mm78t3rBH3p79BfH6EeH8) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Kyoto Flowers](https://open.spotify.com/album/3YkUpg1qPfz63MkBZOqp3Z) | 1:19 |
+| 82 | [My greenhouse](https://open.spotify.com/track/6X0XSp7bFsgUwvkx5Qlix9) | [Cumulus Clouds](https://open.spotify.com/artist/2fDTMkLhW2WqPDobcohAZC) | [My greenhouse](https://open.spotify.com/album/6lQfts5lYwKlmnh1uQvJoT) | 2:10 |
+| 83 | [Fieldwalk](https://open.spotify.com/track/7F3QLGh33XVtIVptpJBs10) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Fieldwalk](https://open.spotify.com/album/18OvjPfEg6wOHSQ7K7kpT0) | 2:46 |
+| 84 | [Tsubaki](https://open.spotify.com/track/2mm78t3rBH3p79BfH6EeH8) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Kyoto Flowers](https://open.spotify.com/album/3YkUpg1qPfz63MkBZOqp3Z) | 1:19 |
 
-Snapshot ID: `MTY1MzYwOTYwMCwwMDAwMDAyNjAwMDAwMTgxMDJkMDE1MjYwMDAwMDE2ZDAwYjhlMjI4`
+Snapshot ID: `MTY1NDIxNDQwMCwwMDAwMDAyNzAwMDAwMTgxMjZkYzk4YWUwMDAwMDE2ZDAwYjhlMjI4`

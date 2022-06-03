@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-446 songs - 1 day 2 hr 22 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+448 songs - 1 day 2 hr 29 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-03-22 | 2022-04-13 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-12-25 | 2021-12-27 |
 | [Film out](https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Film out](https://open.spotify.com/album/2jae5Jx8Yh1WjP1K4wTFUa) | 3:34 | 2021-04-03 | 2021-05-28 |
-| [Filter](https://open.spotify.com/track/4bZZVcgWWMWPBwzTTp642w) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:00 | 2022-01-10 |  |
+| [Filter](https://open.spotify.com/track/4bZZVcgWWMWPBwzTTp642w) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:00 | 2022-01-10 | 2022-06-03 |
 | [Fire](https://open.spotify.com/track/6bYJAOHKCvy9cSEAUR8NvG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:26 | 2022-01-02 | 2022-01-04 |
 | [First Love](https://open.spotify.com/track/1UeVC9gDeHxwlWOQyQJerj) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:09 | 2021-12-28 | 2022-03-11 |
 | [Fly To My Room](https://open.spotify.com/track/3QH8rQGNFX8VLbCgZ7uPTS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:42 | 2021-11-22 | 2021-11-23 |
@@ -169,7 +169,8 @@
 | [Gặp Gỡ, Yêu Đương Và Được Bên Em](https://open.spotify.com/track/6HE6jZ7J0T6Rry0lcGTZYv) | [Phan Mạnh Quỳnh](https://open.spotify.com/artist/0aNyWetkjBvIdZvJY00yEa) | [Gặp Gỡ, Yêu Đương Và Được Bên Em](https://open.spotify.com/album/1J4bW6pgXcXoCAHSHUqoi2) | 4:00 | 2021-08-12 | 2021-09-01 |
 | [Gặp May](https://open.spotify.com/track/08RDjwmSMLc6QPmxrxXDq0) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Gặp May](https://open.spotify.com/album/6OeUMdUTxnYEEdftkwemi9) | 3:06 | 2022-01-21 | 2022-01-30 |
 | [Gặp Nhưng Không Ở Lại](https://open.spotify.com/track/3pyHABNUu0QxeyH1x8p7yf) | [Hiền Hồ](https://open.spotify.com/artist/6ZmHJcmCcc9X2sAyz6cHng), [Vuong Anh Tu](https://open.spotify.com/artist/3OeYidiG0MAcGmiSwTHZf6) | [Gặp Nhưng Không Ở Lại](https://open.spotify.com/album/3fAy66dEycL2DFH0oqzBHU) | 4:36 | 2021-03-27\* | 2021-10-23 |
-| [hai mươi hai \(22\)](https://open.spotify.com/track/6K2RhGsliOVLgj7iUaayuD) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [hai mươi hai \(22\)](https://open.spotify.com/album/11eMyrE2NYK8q0W43GbR5v) | 3:58 | 2022-05-27 |  |
+| [hai mươi hai \(22\)](https://open.spotify.com/track/6K2RhGsliOVLgj7iUaayuD) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [hai mươi hai \(22\)](https://open.spotify.com/album/11eMyrE2NYK8q0W43GbR5v) | 3:58 | 2022-05-27 | 2022-06-03 |
+| [hai mươi hai \(22\) \[feat\. Amee\]](https://open.spotify.com/track/0dHUKYXP9PJMN0RpR9dpFR) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [COLOURS](https://open.spotify.com/album/2eIFX7bSus6CHnQ6Ts5mCh) | 3:58 | 2022-06-02 |  |
 | [Hanh Phuc Xuan Ngoi](https://open.spotify.com/track/2bCmM1oT89JOpA8EdDJ51g) | [Noo Phước Thịnh](https://open.spotify.com/artist/3mibIJiduF0MVLLAvHZAxw) | [Hanh Phuc Xuan Ngoi](https://open.spotify.com/album/0IepIa89MUjamb63yJ17kI) | 3:54 | 2022-02-02 | 2022-02-04 |
 | [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 | 2021-06-25 | 2021-08-03 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-08-24 |
@@ -191,6 +192,7 @@
 | [Hồ Điệp Hoa Niên](https://open.spotify.com/track/7wxxk3WQhBERNIhkYg5adk) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq), [Long Nón Lá](https://open.spotify.com/artist/4XPmkusoYLS1cvgpHgQjiB) | [Hồ Điệp Hoa Niên](https://open.spotify.com/album/5H1HpTTzAdfiiCgcR59otX) | 3:41 | 2022-04-20 | 2022-04-22 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2021-11-21 | 2021-11-25 |
 | [I Need U \- Remix](https://open.spotify.com/track/4pzjU0AnZa6Vfphk292e9Q) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:43 | 2022-03-02 | 2022-03-04 |
+| [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-02 |  |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-05-03 | 2021-05-16 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-07-28 | 2021-09-19 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 | 2021-12-12 |

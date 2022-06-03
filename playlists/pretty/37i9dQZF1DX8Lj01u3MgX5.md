@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,300 likes - 69 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,363 likes - 69 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 | 64 | [Jump](https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Best of Volume 1](https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St) | 3:59 |
 | 65 | [Just a Touch of Love](https://open.spotify.com/track/1abbmCW62dP7ag10VjQBz4) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Just A Touch Of Love](https://open.spotify.com/album/1KGJvJwBNbDpMW29QdW7qg) | 6:32 |
 | 66 | [My Philosophy](https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [By All Means Necessary \(Expanded Edition\)](https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB) | 5:40 |
-| 67 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL Cool J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 |
+| 67 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 |
 | 68 | [Sucker M.C.'s \(Krush\-Groove 1\)](https://open.spotify.com/track/3hx5R8nOKu5zvhlfDNSIQC) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 3:09 |
 | 69 | [The Show](https://open.spotify.com/track/3umJExJml0XrE3BcGtAoCU) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Doug E\. Fresh](https://open.spotify.com/artist/7xN8vFwslE67EC3DhgB9Ip) | [Dame Dash Presents Paid In Full / Dream Team](https://open.spotify.com/album/6cea3Mk3rvbeqZFqSt7TEy) | 4:26 |
 

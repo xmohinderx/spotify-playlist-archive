@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: boyish
 
-476 songs - 1 day 3 hr 6 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+477 songs - 1 day 3 hr 10 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Daisy](https://open.spotify.com/track/3RKKtDHhTdMQAJZbfbKsVC) | [Television Blonde](https://open.spotify.com/artist/5HRh5YLBU1AHJFOeUgvzDc) | [Daisy](https://open.spotify.com/album/6o9Xqf9aaVQ3kJCTMC2FCR) | 3:17 | 2021-10-02 | 2022-03-15 |
 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 | 2022-04-29 |  |
 | [Darcy](https://open.spotify.com/track/0GS5GAoxVPeTWa8fV8j1mq) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Darcy](https://open.spotify.com/album/3QfHn3nLiI8UQyqGjfFDYL) | 3:24 | 2021-03-05 | 2022-04-19 |
-| [Dark Star](https://open.spotify.com/track/4AwX0i4DC8buTFbFsHpqzs) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Dark Star b/w Pastel Sunrise](https://open.spotify.com/album/5Em1Nym2EEFoJpQzSgt908) | 3:08 | 2022-04-29 |  |
+| [Dark Star](https://open.spotify.com/track/4AwX0i4DC8buTFbFsHpqzs) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Dark Star b/w Pastel Sunrise](https://open.spotify.com/album/5Em1Nym2EEFoJpQzSgt908) | 3:08 | 2022-04-29 | 2022-06-03 |
 | [David](https://open.spotify.com/track/0VHS1bzjUYPQUUdsveukVU) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [David](https://open.spotify.com/album/2IE0DyI3VpGaW9JsgdLL4f) | 3:05 | 2021-05-14 | 2022-04-29 |
 | [Dawning](https://open.spotify.com/track/6kD2M35ioMIe77cAaL8RzY) | [THEM PARENTS](https://open.spotify.com/artist/0zBu6Ne0tm3kArvljuazCj) | [Dawning](https://open.spotify.com/album/7E8hpPJPfnldSLj41mHHoI) | 3:50 | 2022-03-04 | 2022-04-14 |
 | [DEATHBLOW](https://open.spotify.com/track/0UyDaW1aWaXAUReRul1sQw) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [ur not real](https://open.spotify.com/album/60PCJO6t6GxHI5MFacb1q3) | 2:56 | 2022-05-13 |  |
@@ -142,7 +142,7 @@
 | [Eggshell](https://open.spotify.com/track/3FVBclNMrglEl6qnquLwYp) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Eggshell](https://open.spotify.com/album/2SW5ToU0ODNlsTMifq2p2A) | 3:24 | 2021-06-02 | 2022-04-29 |
 | [Empty in My Mind](https://open.spotify.com/track/7oqpMyBrfVsk5QBjDMhqOZ) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Empty in My Mind](https://open.spotify.com/album/345yVSKKqobwMLX3Is8Lmz) | 2:52 | 2022-04-29 |  |
 | [end of my street](https://open.spotify.com/track/2MtvVsQcdNvTIFKicaOwLr) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [once the edge has worn off](https://open.spotify.com/album/1HzHGZQVUwJeBBExUQuhPg) | 2:42 | 2021-11-12 | 2022-01-29 |
-| [End Song \- from "We're All Going to the World's Fair" Soundtrack](https://open.spotify.com/track/0xCsRGow1LUIlnR84bYI0z) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [End Song \(from "We're All Going to the World's Fair" Soundtrack\)](https://open.spotify.com/album/0s2HbBBEjjBNPZ9jDwKGSL) | 3:24 | 2022-03-26 |  |
+| [End Song \- from "We're All Going to the World's Fair" Soundtrack](https://open.spotify.com/track/0xCsRGow1LUIlnR84bYI0z) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [End Song \(from "We're All Going to the World's Fair" Soundtrack\)](https://open.spotify.com/album/0s2HbBBEjjBNPZ9jDwKGSL) | 3:24 | 2022-03-26 | 2022-06-03 |
 | [Endless Afternoon](https://open.spotify.com/track/43qnFgYuN5YMfLoghgTVws) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Endless Afternoon](https://open.spotify.com/album/5Cx0Q4bHaAxNZ7xKaNYmuJ) | 4:35 | 2022-06-01 |  |
 | [Entitled To](https://open.spotify.com/track/4a3AosNrplvGuvnOODh2WP) | [Mr Floyd Larry](https://open.spotify.com/artist/1k8ck5j4cuHYuzy3nPHDrM) | [Dream Punk](https://open.spotify.com/album/6vZVc2ApISADXou1bVzhF2) | 3:00 | 2022-02-25 | 2022-04-16 |
 | [Every Once In A While](https://open.spotify.com/track/02J8r68LSYS8MuxI5rEzaO) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Every Once In A While](https://open.spotify.com/album/3MDfSodOC8B0eF6HFrySvH) | 4:37 | 2021-03-05 | 2022-04-29 |
@@ -285,6 +285,7 @@
 | [Love Is Yours](https://open.spotify.com/track/6C2iCgLA9oMrY4mmZjxjrn) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Love Is Yours](https://open.spotify.com/album/6OdHR7gaFBioS9JJKdHlv3) | 3:02 | 2022-04-29 | 2022-05-19 |
 | [Love Song for the Haters](https://open.spotify.com/track/5PNmLOkhsm69IfOdHknhmR) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Love Song for the Haters](https://open.spotify.com/album/7bU1jffvaKgQ7QKtzoph3Q) | 4:38 | 2021-03-05 | 2022-04-29 |
 | [Love333](https://open.spotify.com/track/0wAQl7JsYX4PgX3YCBf8RN) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Forgiveness](https://open.spotify.com/album/1rkbaI9xnf7yi70SyGNKi2) | 3:09 | 2022-04-29 | 2022-05-17 |
+| [Low Era](https://open.spotify.com/track/1GKdMtwcB3oi0uwr4M1B5G) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 4:14 | 2022-06-02 |  |
 | [Make It Right](https://open.spotify.com/track/3YIo8llthdNC8Si3W2CIPP) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Make It Right](https://open.spotify.com/album/0v9yjEYZpMSHh7DAtfNwy7) | 2:33 | 2022-03-04 | 2022-04-20 |
 | [MANGO](https://open.spotify.com/track/0a5szJBZfMo2ijE68r5oAR) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [MANGO](https://open.spotify.com/album/16xXUwfYa80OKyuLpqD5Pp) | 3:05 | 2021-04-02 | 2022-02-09 |
 | [MANY FACES](https://open.spotify.com/track/27cWalfVkjaY21WxHiR426) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [MANY FACES](https://open.spotify.com/album/5wYDGLWfZKFt11XSqtbKxc) | 2:33 | 2021-03-19 | 2022-03-27 |
@@ -388,7 +389,7 @@
 | [Spitting Image](https://open.spotify.com/track/34FB1jk6Tq4q8cto3JlF8O) | [Sharon Silva](https://open.spotify.com/artist/6I55n82pFxEj4D3zMdnR9S) | [Spitting Image](https://open.spotify.com/album/0EqJ4c61p88qmPbjRx8Zlb) | 4:19 | 2021-06-25 | 2022-04-11 |
 | [Ssx](https://open.spotify.com/track/1eCImHqurFCsE6du2nF6jh) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Vol\. 1](https://open.spotify.com/album/5HanfTZtL71gW1KGgg1HMA) | 3:36 | 2022-05-13 |  |
 | [Stacking Chairs](https://open.spotify.com/track/32H8YnMqJVD7OXwJZh7fIj) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Stacking Chairs](https://open.spotify.com/album/0rzgO44IxONae6AEPpww41) | 3:08 | 2021-03-05 | 2022-04-29 |
-| [Stars](https://open.spotify.com/track/5jZBhZi5ZrE3EDOdEJdHrn) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Stars](https://open.spotify.com/album/3OTRR5C4VpcZttyfQz5ouG) | 2:43 | 2022-03-26 |  |
+| [Stars](https://open.spotify.com/track/5jZBhZi5ZrE3EDOdEJdHrn) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Stars](https://open.spotify.com/album/3OTRR5C4VpcZttyfQz5ouG) | 2:43 | 2022-03-26 | 2022-06-03 |
 | [Stars](https://open.spotify.com/track/3do76ccIVCbR4iEASg5HLm) | [Famous](https://open.spotify.com/artist/76pvNo3GAo5aeXBZ4jVz0k) | [The Valley](https://open.spotify.com/album/3KzOZ0ixGxaJ3VDgZMz7Io) | 3:52 | 2022-03-26 | 2022-05-20 |
 | [stay](https://open.spotify.com/track/23uag9bcLig9W06gC4U8XD) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [dead2me](https://open.spotify.com/album/6N4nVJcTKMRIvYSLoL5Tx2) | 2:38 | 2021-11-12 | 2021-12-28 |
 | [Stay in the Car](https://open.spotify.com/track/4RDUdLtOyGcxSIJ2MsR9oF) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Stay in the Car](https://open.spotify.com/album/67wUtTP9XdkhzlpF2px95V) | 2:44 | 2021-04-02 | 2022-04-29 |

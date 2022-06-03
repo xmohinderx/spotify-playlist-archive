@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 ### [Fresh Finds Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> New Hip\-Hop from independent artists & labels every Wednesday\. Cover: TyFontaine
+> New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Joony
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,136 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,213 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 49 | [Casamigos](https://open.spotify.com/track/3T3sbWTQHi4UW94RLd5Woo) | [Noah](https://open.spotify.com/artist/5yx3y811Re6brWMGIxo0Qe), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [Mirrors In A Mausoleum](https://open.spotify.com/album/2gTkZrjyFquglk0gFcUJnu) | 2:21 |
 | 50 | [Get It In](https://open.spotify.com/track/6kHIKzSB4XSdIQvVI8lx2h) | [Gee Pop](https://open.spotify.com/artist/0HfJYSzCZEkD9XtO35OjO3), [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU) | [Get It In](https://open.spotify.com/album/03qK71zDUTcC3a1yHMbXlH) | 2:29 |
 
-Snapshot ID: `MTY1NDA5OTc0MCwwMDAwMDExMjAwMDAwMTgxMjAwNzA2MzQwMDAwMDE4MGZjYWQzYzlh`
+Snapshot ID: `MTY1NDE4NzQ5NSwwMDAwMDExMzAwMDAwMTgxMjU0MjBmMjEwMDAwMDE4MTI1NDFlOTU5`

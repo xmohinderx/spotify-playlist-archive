@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,048 songs - 2 day 4 hr 29 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+1,049 songs - 2 day 4 hr 32 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Favourite Artist](https://open.spotify.com/track/6z7fOAKMA2CcnVzRrNR2T3) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Favourite Artist](https://open.spotify.com/album/2GgKLMSlkAhSpFfDJIzpau) | 2:10 | 2021-05-23 | 2021-05-31 |
 | [Fehler](https://open.spotify.com/track/64lZscoj6ZaR43UASnJNyz) | [Mike Singer](https://open.spotify.com/artist/1LRpAVWq5z6VZMG3tTdZKU), [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Fehler](https://open.spotify.com/album/5odkESmAgY1c828kLwcgX4) | 2:07 | 2022-03-05 | 2022-03-07 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-11-28 | 2021-12-29 |
+| [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-06-02 |  |
 | [Feuer](https://open.spotify.com/track/6ael3WYGBlAi2IdVPdGNyc) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Feuer](https://open.spotify.com/album/3oo37C8cXWZDukRUrLKcNO) | 2:32 | 2021-10-03 | 2021-10-04 |
 | [Filet Mignon](https://open.spotify.com/track/2ppyU1JWnDDYd6jV98swkI) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Filet Mignon](https://open.spotify.com/album/26RHnjJLKbsMhRlFZS8V7e) | 2:22 | 2021-08-08 | 2021-08-16 |
 | [Filmriss](https://open.spotify.com/track/1b3thE0t0BxzLqCuRkqKZE) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Rap über Hass](https://open.spotify.com/album/12MOBAZ9tzCaJpJbFYhqiy) | 2:35 | 2021-05-30 | 2021-06-01 |
@@ -773,7 +774,7 @@
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-11 | 2021-05-30 |
 | [Rapstars \(feat\. Jamule\)](https://open.spotify.com/track/6Q2cC3r8j2hasFAf1g00d3) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Rapstars \(feat\. Jamule\)](https://open.spotify.com/album/6vVtUeMoS2jlEiXyGht3ed) | 2:30 | 2022-03-05 | 2022-03-27 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-05-09 | 2022-01-04 |
-| [RATCHET](https://open.spotify.com/track/1YLA2jrLroXemGxfiFsvoa) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [RATCHET](https://open.spotify.com/album/3ALbecApKIu8QUPmSsMFGf) | 2:29 | 2022-05-28 |  |
+| [RATCHET](https://open.spotify.com/track/1YLA2jrLroXemGxfiFsvoa) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [RATCHET](https://open.spotify.com/album/3ALbecApKIu8QUPmSsMFGf) | 2:29 | 2022-05-28 | 2022-06-03 |
 | [Rave Witchers](https://open.spotify.com/track/5Z8EOLwSK1Qyn9VfQtOAcR) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Rave Witchers](https://open.spotify.com/album/0CAwvAj9ZhMliaXZhgJ9eD) | 2:59 | 2021-10-31 | 2021-10-31 |
 | [READY](https://open.spotify.com/track/5QuFo1KkBS188f11OVrlxl) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [STAY HIGH](https://open.spotify.com/album/1d9hCDQ4QOwm88ZwUrSC2a) | 2:20 | 2021-05-03 | 2021-05-07 |
 | [Realität](https://open.spotify.com/track/4aCtiux4NfWF0Kx88YAA5e) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 3:04 | 2021-07-18 | 2021-07-25 |

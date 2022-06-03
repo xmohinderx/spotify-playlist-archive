@@ -2,9 +2,9 @@
 
 ### [la pop\~wave](https://open.spotify.com/playlist/37i9dQZF1DWYEIx04mlcFR)
 
-> La nueva\-nueva ola de artistas y creadorxs mexas: presentamos a Marco Mares\. 🌊✨
+> La nueva\-nueva ola de artistas y creadorxs mexas: presentamos a urbøi\. 🌊✨
 
-142 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
+145 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [mis ganas de olvidarte](https://open.spotify.com/track/5k3512jmJrYl0YbROyhRTg) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Mati Santos](https://open.spotify.com/artist/3HUARSMWhPTw9D6HD1vAGF) | [mis ganas de olvidarte](https://open.spotify.com/album/6UMBgFkBumahYu0LONohfo) | 3:58 | 2021-12-10 | 2022-02-26 |
 | [Mitos](https://open.spotify.com/track/3dkXRCYTbrzq9MUInZovMR) | [Donovan](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Gerovlx](https://open.spotify.com/artist/3SLm6dj35PvlOq9mg7XU3F) | [Mitos](https://open.spotify.com/album/38EvErBX2Euno5Y4ITpEft) | 3:28 | 2021-12-10 | 2022-04-14 |
 | [Mon Amour](https://open.spotify.com/track/5liJEcanWV112vEe9uT8iP) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Mon Amour](https://open.spotify.com/album/0cfuik2m7JwN1DSnYgYY2J) | 2:53 | 2021-12-10 | 2022-05-17 |
+| [Monstruos \(está bn estar mal\)](https://open.spotify.com/track/3vy6XKN0Tn07cldEYEyA5Z) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/7oLzFFlnvINd5OZmmZXu8L) | 3:23 | 2022-06-02 |  |
 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 | 2022-04-13 |  |
 | [mucho texto](https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:21 | 2021-12-10 | 2022-03-12 |
 | [MÍO](https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [MÍO](https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP) | 3:37 | 2021-12-10 | 2022-03-05 |
@@ -132,6 +133,7 @@
 | [TQB](https://open.spotify.com/track/4C6844tUibAL9cSObEEukn) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [TQB](https://open.spotify.com/album/678s8RjRxY6cXhbPmdRurI) | 2:46 | 2021-12-10 | 2022-03-05 |
 | [Tu Story](https://open.spotify.com/track/6Zfe19c1eJgj6mpsLEeOzW) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [Tu Story](https://open.spotify.com/album/0YnQShjAX656vTWI9T2KuP) | 3:00 | 2021-12-10 | 2022-04-14 |
 | [tú vales la pena](https://open.spotify.com/track/1ewVg7ZtI4rliY9kAaNQWt) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [tú vales la pena](https://open.spotify.com/album/5WjmPd7foWYVCiyxpJnk4r) | 2:27 | 2021-12-10 | 2022-03-05 |
+| [Uhh](https://open.spotify.com/track/2GHHK3hWifjsUeclBJQztl) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [Uhh](https://open.spotify.com/album/1yJxGmisZygFEcaLSHxfl3) | 2:55 | 2022-06-02 |  |
 | [un día perfecto](https://open.spotify.com/track/4cK0cDb8RSBRIaC0kr7lOx) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [un día perfecto](https://open.spotify.com/album/5DMYsl9natEMzLM4ApZiqh) | 2:33 | 2021-12-10 | 2022-04-14 |
 | [un rato](https://open.spotify.com/track/22BWBU9Pwgz3M7fP1mahfk) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [un rato](https://open.spotify.com/album/0LigoTHlglv2GPl0nb2O0F) | 2:48 | 2022-02-04 |  |
 | [un sueño raro](https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fosis Met Amor](https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3) | 3:12 | 2022-04-22 |  |
@@ -140,6 +142,7 @@
 | [Valiente](https://open.spotify.com/track/49cYxSsg3dUciAQzXuqO8g) | [Franklynn](https://open.spotify.com/artist/5s5bDMYmlwgWhaQKDBzDAA), [Solebrije](https://open.spotify.com/artist/2hyXbp6JRjLvGVERODNEcA) | [Valiente](https://open.spotify.com/album/0ThpF190vEM6IuCpvUTUch) | 3:56 | 2022-02-25 | 2022-05-20 |
 | [Ven](https://open.spotify.com/track/2tgJbpATqLIAjGpnLS71f1) | [Luisa Ferss](https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K) | [Ven](https://open.spotify.com/album/2H9tKoacyYJ0wrQvVLijzK) | 3:18 | 2022-02-18 |  |
 | [Veo, Veo](https://open.spotify.com/track/2gtf19UFW3XLNsEnbfdBVb) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Veo, Veo](https://open.spotify.com/album/059eZpWBrNGHJ95xr9Ent5) | 2:40 | 2022-05-20 |  |
+| [Vienen Y Van](https://open.spotify.com/track/5oWh8d5vckVbBuO7Udcgo8) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Vienen Y Van](https://open.spotify.com/album/4mItIB7t3BKjoSUXx9odyS) | 3:01 | 2022-06-02 |  |
 | [Walking Dogs](https://open.spotify.com/track/2CWoyl5VCiVwxuUwfFow8R) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Walking Dogs](https://open.spotify.com/album/1w3f0ze9K1SCsmRcO5tKsg) | 2:20 | 2022-05-06 |  |
 | [Ya Casi Te Olvido](https://open.spotify.com/track/4GBx2b88twICiMHVgmkRl9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ya Casi Te Olvido](https://open.spotify.com/album/0vTenUdY3FK08gAmq1qZ4T) | 2:14 | 2022-03-11 |  |
 | [yo x3](https://open.spotify.com/track/4RGpNXCSbRSKjvctTXmppw) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [yo x3](https://open.spotify.com/album/4sVjp0ucdVB0H7mGex3J4A) | 3:42 | 2021-12-10 | 2022-04-14 |

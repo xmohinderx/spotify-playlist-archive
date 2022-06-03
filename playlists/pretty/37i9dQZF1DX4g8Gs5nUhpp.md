@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Hoàng Thùy Linh
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,355 likes - 56 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,444 likes - 54 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chìm Sâu](https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Chìm Sâu](https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs) | 2:36 |
+| 1 | [Thanh Xuan](https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thanh Xuan](https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw) | 3:40 |
 | 2 | [Tháng Năm](https://open.spotify.com/track/0SmQ0UWeiHKQtxUej4Rem6) | [Soobin Hoang Son](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh) | [The Playah](https://open.spotify.com/album/5xduxfrnEQpYdH54ilWMAN) | 3:45 |
 | 3 | [có hẹn với thanh xuân](https://open.spotify.com/track/0zCGKGZB5aySnQQSHWRGIT) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8) | [có hẹn với thanh xuân](https://open.spotify.com/album/6nhbul7dYBCe9NS0eGwN6L) | 3:38 |
-| 4 | [Thanh Xuan](https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thanh Xuan](https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw) | 3:40 |
+| 4 | [Chìm Sâu](https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Chìm Sâu](https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs) | 2:36 |
 | 5 | [Em Day Chang Phai Thuy Kieu](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 |
 | 6 | [Cứ Chill Thôi](https://open.spotify.com/track/014DA3BdnmD3kI5pBogH7c) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Cứ Chill Thôi](https://open.spotify.com/album/7FEh6eJumH2tqhXKfQ5Tul) | 4:30 |
 | 7 | [hai mươi hai \(22\)](https://open.spotify.com/track/6K2RhGsliOVLgj7iUaayuD) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [hai mươi hai \(22\)](https://open.spotify.com/album/11eMyrE2NYK8q0W43GbR5v) | 3:58 |
@@ -55,14 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 45 | [Khi Em Lớn](https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Khi Em Lớn](https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU) | 3:48 |
 | 46 | [Tháng Mấy Em Nhớ Anh?](https://open.spotify.com/track/6Fbsn9471Xd0vVsMWwhePh) | [Ha Anh Tuan](https://open.spotify.com/artist/3FwYnbtGNt8hJfjNuOfpeG) | [Tháng Mấy Em Nhớ Anh?](https://open.spotify.com/album/2abWPWzlhV9ROpN6EggZPR) | 5:00 |
 | 47 | [Cà Phê](https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:10 |
-| 48 | [một ngày tôi quên hết](https://open.spotify.com/track/2bxVMMRP6AHvUVXHQrIBy9) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [Cẩm Vân](https://open.spotify.com/artist/4sB7Byv9cAeaPbR05YSQFR), [CeCe Trương](https://open.spotify.com/artist/0We6FybaRNC3InZwnhiH2J) | [một ngày tôi quên hết](https://open.spotify.com/album/0XhltjKp7yErYaQhtt8h7x) | 4:22 |
-| 49 | [Lạ Lùng](https://open.spotify.com/track/5Bti0azlFhMattVY76qFr9) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Lạ Lùng](https://open.spotify.com/album/3Snqkoi7IXxtDxx71z1lWR) | 4:21 |
-| 50 | [2AM](https://open.spotify.com/track/3IlRBIOd0MsAqPQo2711ne) | [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO), [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6) | [2AM](https://open.spotify.com/album/7nB59ijKokvdKH3JlnTArx) | 4:18 |
-| 51 | [Có Không Giữ Mất Đừng Tìm](https://open.spotify.com/track/04bm7NsIhRfTlLGDoKMEw8) | [Truc Nhan](https://open.spotify.com/artist/1dmaHHd1Xbd85cT1egYb4w) | [Có Không Giữ Mất Đừng Tìm](https://open.spotify.com/album/5f6SOjdAP8O6PPAPKwn8IX) | 3:35 |
-| 52 | [Thói Quen \(25 Mét Vuông\) \[feat\. Gducky\]](https://open.spotify.com/track/1Dyf0sRNi4bns4TeWgKpVY) | [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW) | [Thói Quen \(25 mét vuông\) \[feat\. Gducky\]](https://open.spotify.com/album/4SklM9raXlTECzXLjwTAlR) | 4:39 |
-| 53 | [Không Cần Phải Nói Nhiều](https://open.spotify.com/track/1DmMJL7KrTEC5MDTvYpfLD) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Hoang Ton](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f) | [Không Cần Phải Nói Nhiều](https://open.spotify.com/album/0cGa9mtCxVQwgzPrOyoLES) | 4:06 |
-| 54 | [Đau Nhất Là Lặng Im](https://open.spotify.com/track/5H7UgZQk2p5x4nmeuDjmE4) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Đau Nhất Là Lặng Im](https://open.spotify.com/album/7eKrlj1Iv6T1jBSRppsFFD) | 4:46 |
-| 55 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 |
-| 56 | [See Tình](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [See Tình](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) | 3:05 |
+| 48 | [Lạ Lùng](https://open.spotify.com/track/5Bti0azlFhMattVY76qFr9) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Lạ Lùng](https://open.spotify.com/album/3Snqkoi7IXxtDxx71z1lWR) | 4:21 |
+| 49 | [2AM](https://open.spotify.com/track/3IlRBIOd0MsAqPQo2711ne) | [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO), [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6) | [2AM](https://open.spotify.com/album/7nB59ijKokvdKH3JlnTArx) | 4:18 |
+| 50 | [Có Không Giữ Mất Đừng Tìm](https://open.spotify.com/track/04bm7NsIhRfTlLGDoKMEw8) | [Truc Nhan](https://open.spotify.com/artist/1dmaHHd1Xbd85cT1egYb4w) | [Có Không Giữ Mất Đừng Tìm](https://open.spotify.com/album/5f6SOjdAP8O6PPAPKwn8IX) | 3:35 |
+| 51 | [Thói Quen \(25 Mét Vuông\) \[feat\. Gducky\]](https://open.spotify.com/track/1Dyf0sRNi4bns4TeWgKpVY) | [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW) | [Thói Quen \(25 mét vuông\) \[feat\. Gducky\]](https://open.spotify.com/album/4SklM9raXlTECzXLjwTAlR) | 4:39 |
+| 52 | [Đau Nhất Là Lặng Im](https://open.spotify.com/track/5H7UgZQk2p5x4nmeuDjmE4) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Đau Nhất Là Lặng Im](https://open.spotify.com/album/7eKrlj1Iv6T1jBSRppsFFD) | 4:46 |
+| 53 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 |
+| 54 | [See Tình](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [See Tình](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) | 3:05 |
 
-Snapshot ID: `MTY1MzY0MTA5MywwMDAwMDIwNDAwMDAwMTgxMDRiMGEyMDcwMDAwMDE4MGQ1NTlhOTUy`
+Snapshot ID: `MTY1NDEzNzg5NCwwMDAwMDIwNTAwMDAwMTgxMjI0ZDM0YzQwMDAwMDE4MGQ1NTlhOTUy`

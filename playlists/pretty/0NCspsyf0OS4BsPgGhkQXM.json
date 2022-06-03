@@ -1,13 +1,29 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2041958,
+  "num_followers": 2041873,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTE3MjgsMTdiMThkMjZkM2JhYzllMTUxOTU5MGU4NDFmMjkzOTg5ZDI5NDc5MA==",
+  "snapshot_id": "MTE3MzEsZmUxNDgyNjQxMGQ3MmU2NzE4NmZkYTI4NmQ1MDFkZGIyZmI3ZDQ2Yw==",
   "tracks": [
+    {
+      "added_at": "2022-06-02 21:35:51",
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/0QCWRcBWvAqXjAHh0tFQkP"
+      },
+      "artists": [
+        {
+          "name": "Aekae",
+          "url": "https://open.spotify.com/artist/2YXVRXrYHVJrC5P1eTGYSu"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/00QctTgvparNNWBckHPy6b"
+    },
     {
       "added_at": "2022-05-20 21:40:35",
       "album": {
@@ -355,6 +371,26 @@
       "duration_ms": 230344,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
+    },
+    {
+      "added_at": "2022-06-02 15:00:49",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/3R27t5an8HndAwUelfpGqE"
+      },
+      "artists": [
+        {
+          "name": "Ericovich",
+          "url": "https://open.spotify.com/artist/49X1BHaXBIqVjMkkV2w1qI"
+        },
+        {
+          "name": "IAN SIZE",
+          "url": "https://open.spotify.com/artist/5xIYTb3LUDOlTOnZ2CQlEW"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/7MIlZUzjRs4i5zvkAWgukg"
     },
     {
       "added_at": "2022-05-26 20:13:17",

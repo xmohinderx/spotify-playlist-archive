@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 247800,
       "name": "Ain't No Doubt",
       "url": "https://open.spotify.com/track/5qbrpQ5ac44s48PU1ouUVC"
@@ -353,10 +353,36 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 284480,
       "name": "California Love - Original Version",
       "url": "https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm"
+    },
+    {
+      "album": {
+        "name": "2Pac Greatest Hits (Explicit Version)",
+        "url": "https://open.spotify.com/album/4N35JBVRFMrHiOz76vy9vv"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284906,
+      "name": "California Love - Original Version (Explicit)",
+      "url": "https://open.spotify.com/track/0DfqzZnW2KhiyXjVQiFioT"
     },
     {
       "album": {
@@ -678,6 +704,24 @@
     },
     {
       "album": {
+        "name": "Rhino Hi-Five: Color Me Badd",
+        "url": "https://open.spotify.com/album/2cvWdf4DRETYWWibcjQuue"
+      },
+      "artists": [
+        {
+          "name": "Color Me Badd",
+          "url": "https://open.spotify.com/artist/1QtIfAa6y7w2JhxYJhYeUG"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240200,
+      "name": "I Wanna Sex You Up",
+      "url": "https://open.spotify.com/track/07efOAoPwcRdd4W6gi8BRF"
+    },
+    {
+      "album": {
         "name": "C.M.B.",
         "url": "https://open.spotify.com/album/17mrdLXkhmlY36jRm9cUbw"
       },
@@ -689,7 +733,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 236946,
       "name": "I Wanna Sex You Up - Single Mix",
       "url": "https://open.spotify.com/track/1kPBHRXyXdrtYfUfeRwBko"
@@ -1149,6 +1193,24 @@
       "duration_ms": 206040,
       "name": "Picture Of You",
       "url": "https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2"
+    },
+    {
+      "album": {
+        "name": "Take That Greatest Hits",
+        "url": "https://open.spotify.com/album/0Roig21lheelthCcmLyjYO"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223893,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/6Ln76fIfkdmL6UHbuYR756"
     },
     {
       "album": {

@@ -4,12 +4,12 @@
 
 > ¡También de dolor se canta!
 
-99 songs - 4 hr 56 min - not published yet
+100 songs - 4 hr 58 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Quién Vas a Amar Más Que a Mí](https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:47 | 2021-12-29 |  |
-| [Acá Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 | 2021-12-29 |  |
+| [Acá Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 | 2021-12-29 | 2022-06-03 |
 | [Acá Entre Nos](https://open.spotify.com/track/7jGzWIfDZLVyLYEWaX3oTR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Qué De Raro Tiene](https://open.spotify.com/album/5N1xXRWtsVFU5exJhdYZdd) | 3:15 | 2021-12-29 |  |
 | [Aquí Abajo](https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Aquí Abajo](https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H) | 2:24 | 2021-12-29 |  |
 | [Ases y Tercia de Reyes](https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 1:54 | 2021-12-29 |  |
@@ -67,6 +67,7 @@
 | [No](https://open.spotify.com/track/60tK9PZkMuCb5Uwv28oIJM) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Grandes Exitos A La Manera De Alejandro Fernandez](https://open.spotify.com/album/3PEIsRKWPx5w1RSoOnrOoh) | 3:15 | 2021-12-29 |  |
 | [No Discutamos](https://open.spotify.com/track/1kEWmwBPNkG1LtMb1H0xtZ) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 2:16 | 2021-12-29 |  |
 | [No me amenaces](https://open.spotify.com/track/7FaDBpQuCQxWL0nAYTg8n1) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:28 | 2021-12-29 |  |
+| [No Sigas Llorando \(No Te Dejaré\)](https://open.spotify.com/track/6keQFqp8UuXfwgteQvds8W) | [Hermanas Huerta](https://open.spotify.com/artist/1hU5wdiWeIWv4fBklDgta1) | [50 Años De Exitos](https://open.spotify.com/album/57WL06JjgLNLbqt9cVPmib) | 2:20 | 2021-12-29 |  |
 | [No volvere](https://open.spotify.com/track/6csbpu0WY20pjNfRALEoBx) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera \- Pedro Infante](https://open.spotify.com/album/18D7PLKVrWsls3JKP6iPxH) | 4:26 | 2021-12-29 |  |
 | [Nomás Por Tu Culpa](https://open.spotify.com/track/17mpNHcEbIn0IxNoQL8FLS) | [Juan Valentin](https://open.spotify.com/artist/2yKmxk6HYQNEr93j9VFJbK) | [El Triunfador](https://open.spotify.com/album/5ZJGizTYkU56jpwZpn89T6) | 3:22 | 2021-12-29 |  |
 | [Nube Viajera](https://open.spotify.com/track/7qOjjzbvSsdHcAU31va4rz) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Muy Dentro De Mi Corazon](https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj) | 4:04 | 2021-12-29 |  |

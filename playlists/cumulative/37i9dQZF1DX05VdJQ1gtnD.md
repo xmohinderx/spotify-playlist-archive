@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-154 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
+155 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Brudmarsch efter Larshöga Jonte](https://open.spotify.com/track/3QWBP15zIN6pwEbYOyevEr) | [Billy Nordberg](https://open.spotify.com/artist/68GhczlP11DFCcwhwaINMy) | [Brudmarsch efter Larshöga Jonte](https://open.spotify.com/album/2kivPmQpmuOyKCjyyNsSPf) | 2:03 | 2022-05-13 |  |
 | [Bryggen](https://open.spotify.com/track/6yCBCG8UJGfcyk70Fdau8j) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Bryggen](https://open.spotify.com/album/2dKG2i568Thxq3kFgwHiEF) | 2:54 | 2022-05-13 |  |
 | [Caleidoscope](https://open.spotify.com/track/2G8m3fBQ4piCvfXsHoz2cj) | [Maxime La Pierre](https://open.spotify.com/artist/2cEK29tjbvZltwtXcXhq8w) | [Caleidoscope](https://open.spotify.com/album/1X5bu0XoGfIZGOlWhkbxam) | 3:47 | 2022-05-13 |  |
+| [Candle](https://open.spotify.com/track/5nYu8VUjyA2sqsi0o48VQc) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Swaying](https://open.spotify.com/album/0uh0YgMWqpewFHCNy4yqtY) | 3:07 | 2022-06-03 |  |
 | [Cherry Blossom](https://open.spotify.com/track/3Eg6NOSgAuaA3wmTcvDFUI) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q), [Sam Blakelock](https://open.spotify.com/artist/4f11jn3jO1VfqCaRPvqfsR) | [Cherry Blossom](https://open.spotify.com/album/2lIfecqavjn0OLbc1YCapM) | 1:50 | 2022-05-13 |  |
 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 | 2022-05-13 |  |
 | [Clouds of Gold](https://open.spotify.com/track/747EeV81arxhDn1Zv0x46S) | [Chris Nordlinger](https://open.spotify.com/artist/7jxfHriBt8rNxGMvvUfJKy) | [Clouds of Gold](https://open.spotify.com/album/5a67xZZcda2yxZLARnrRoc) | 2:18 | 2022-05-13 |  |

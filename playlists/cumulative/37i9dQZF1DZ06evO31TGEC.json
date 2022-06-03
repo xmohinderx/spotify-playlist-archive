@@ -294,6 +294,24 @@
     },
     {
       "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "Ella (Me Cans\u00e9 De Rogarle)",
+      "url": "https://open.spotify.com/track/3pwWfa8pqHCoDJrFwwQCkk"
+    },
+    {
+      "album": {
         "name": "Embrujado - Single",
         "url": "https://open.spotify.com/album/18ncEHNMcIJd4tBScFZrYo"
       },
@@ -529,7 +547,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 191796,
       "name": "Le Dire Que Me Gusta",
       "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"

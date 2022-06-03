@@ -1934,6 +1934,24 @@
     },
     {
       "album": {
+        "name": "no huzzle",
+        "url": "https://open.spotify.com/album/4NmEIXPqrMQpSLzUmczLAR"
+      },
+      "artists": [
+        {
+          "name": "lucy m",
+          "url": "https://open.spotify.com/artist/2gUhsjLB0SjWry8Kh4CMsA"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "no huzzle",
+      "url": "https://open.spotify.com/track/4c43CIhFGCCTf65VTafmYo"
+    },
+    {
+      "album": {
         "name": "Pinkland",
         "url": "https://open.spotify.com/album/2uEEJf58UChxAoZWm7YGat"
       },
@@ -2457,7 +2475,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 354000,
       "name": "Second Sun - Monkey Safari Remix",
       "url": "https://open.spotify.com/track/41u3muwkaXL1o2wHMaKwkV"
@@ -2565,7 +2583,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 177000,
       "name": "Skin Deep",
       "url": "https://open.spotify.com/track/1CAozfu6bPDxaKe39x030x"

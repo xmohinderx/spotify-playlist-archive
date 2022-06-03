@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-117 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
+118 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All The Time](https://open.spotify.com/track/7areG6AVvNYVYevmKCfPui) | [Viceboi](https://open.spotify.com/artist/3pQXV6Tz29Jx2b1BDKLfis) | [All The Time](https://open.spotify.com/album/2OFQvKiPxpGGPn6xAOSCvv) | 3:14 | 2021-11-11 |  |
 | [Amalfi](https://open.spotify.com/track/19QYUIYkUEyIixnSbVej4W) | [Lagoa Verde](https://open.spotify.com/artist/2rj97Navn2jTJOZdsrwvWr) | [Amalfi](https://open.spotify.com/album/3GUtE7Dy2XpyOdg1V8uTuF) | 2:45 | 2021-11-11 |  |
 | [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 | 2021-11-11 |  |
+| [Azucena](https://open.spotify.com/track/0BZofsSA03xAkBeEwNYzH3) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Azucena](https://open.spotify.com/album/2pdFKzzSIDrff7uo6Z20pi) | 3:05 | 2022-06-03 |  |
 | [Backyard Stories](https://open.spotify.com/track/1CbkCuHtCVfLSdvztsQVVJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Backyard Stories — Summer Forever](https://open.spotify.com/album/2H4326zTOaXXdJ5h61biES) | 3:06 | 2021-11-11 |  |
 | [Be Here My Heart](https://open.spotify.com/track/5W5KIPpuHfxV9ShftysZ5A) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [They Don't Tell](https://open.spotify.com/album/5kq3QA1lkg3J8TypQyEaQS) | 3:36 | 2022-04-15 |  |
 | [Beatin' Hearts](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS) | [David Kuro](https://open.spotify.com/artist/0QRp71KIOsY5GrXpOw3JMj) | [Beatin' Hearts](https://open.spotify.com/album/2Ik5fCmCS3OX6MdOBD7Ciw) | 2:28 | 2021-11-11 |  |

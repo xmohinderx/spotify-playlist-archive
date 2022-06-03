@@ -1158,6 +1158,24 @@
     },
     {
       "album": {
+        "name": "Incertitude",
+        "url": "https://open.spotify.com/album/53elzr5NkdrMtMI38TSjcP"
+      },
+      "artists": [
+        {
+          "name": "Kyradeen",
+          "url": "https://open.spotify.com/artist/30vDwD43Sj0SGHkXtSPSKo"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386725,
+      "name": "Incertitude",
+      "url": "https://open.spotify.com/track/690k3qQfcpTMb8HemNWMeJ"
+    },
+    {
+      "album": {
         "name": "The Sacred Self",
         "url": "https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm"
       },
@@ -1591,6 +1609,42 @@
       "duration_ms": 194250,
       "name": "Moving Towards Fine",
       "url": "https://open.spotify.com/track/2apnPHVAbn0ny2K8RowbpN"
+    },
+    {
+      "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/0L51mBkDmhgzIUvRtogtGw"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334506,
+      "name": "Music For Growing Flowers - Pt. 4",
+      "url": "https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW"
+    },
+    {
+      "album": {
+        "name": "My Son",
+        "url": "https://open.spotify.com/album/2adunymdxS0IP1zEhYzLXr"
+      },
+      "artists": [
+        {
+          "name": "Vuelto Ciego",
+          "url": "https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118250,
+      "name": "My Son",
+      "url": "https://open.spotify.com/track/3wtpKMUkSiZPDRH5vxYLmz"
     },
     {
       "album": {

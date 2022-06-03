@@ -316,6 +316,24 @@
     },
     {
       "album": {
+        "name": "Spirits (Live 1972)",
+        "url": "https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343643,
+      "name": "In The Eye Of The Sun - Live 1972",
+      "url": "https://open.spotify.com/track/5BGonwlaXEj4OhWm7jc1fm"
+    },
+    {
+      "album": {
         "name": "Morrison Hotel",
         "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },

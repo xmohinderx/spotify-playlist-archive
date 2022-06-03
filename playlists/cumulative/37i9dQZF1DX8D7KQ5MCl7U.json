@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-01",
   "description": "All Coke Studio Pakistan tracks in one place. ",
   "name": "This is: Coke Studio Pakistan",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0C0nv6asf53A0jjwO8omOf"
+  ],
   "tracks": [
     {
       "album": {
@@ -87,7 +89,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 507000,
       "name": "Aaqa",
       "url": "https://open.spotify.com/track/57NE6qOSPxGVRy5B4ZL6SK"
@@ -135,7 +137,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 432000,
       "name": "Aaya Laariye",
       "url": "https://open.spotify.com/track/3AwPmvABmAc0iVuH49UOi8"
@@ -157,6 +159,32 @@
       "duration_ms": 419006,
       "name": "Aaye Kuch Abr",
       "url": "https://open.spotify.com/track/5hyOxEwLAoeIBMtMkOyQE5"
+    },
+    {
+      "album": {
+        "name": "Adam",
+        "url": "https://open.spotify.com/album/2deIHXwcBLdZYMfUD6PoVs"
+      },
+      "artists": [
+        {
+          "name": "Fareed Ayaz",
+          "url": "https://open.spotify.com/artist/5lIl1FQ31sT1c3ddy21AK2"
+        },
+        {
+          "name": "Abu Muhammad",
+          "url": "https://open.spotify.com/artist/0aJXsjLXlFqvT1vvB6xDYf"
+        },
+        {
+          "name": "Humnawa",
+          "url": "https://open.spotify.com/artist/4SvX6wv1EaF7d9dSHCCICQ"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 715984,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/6IlgL3ebWCHoYiTqYqkpBB"
     },
     {
       "album": {
@@ -380,6 +408,28 @@
     },
     {
       "album": {
+        "name": "Coke Studio: Season 1",
+        "url": "https://open.spotify.com/album/61RMEU4YQreHmbWY43cJIm"
+      },
+      "artists": [
+        {
+          "name": "Strings",
+          "url": "https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318562,
+      "name": "Anjane - Live",
+      "url": "https://open.spotify.com/track/05G6BvXNDCEfcrgiA6Ysgt"
+    },
+    {
+      "album": {
         "name": "Coke Studio: Season 9",
         "url": "https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL"
       },
@@ -399,7 +449,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 437875,
       "name": "Anokha Laadla",
       "url": "https://open.spotify.com/track/57kqPTa2fHYKV7BYkbHuMB"
@@ -421,7 +471,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 242553,
       "name": "Apna Gham",
       "url": "https://open.spotify.com/track/6q2wKRSjvmQtpDyrwnHAxn"
@@ -443,10 +493,28 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 393903,
       "name": "Armaan",
       "url": "https://open.spotify.com/track/6PAODRF1Rd0loq1KMknu8a"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 11 (Sound of The Nation)",
+        "url": "https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri"
+      },
+      "artists": [
+        {
+          "name": "Mughal-E-Funk",
+          "url": "https://open.spotify.com/artist/0FMFfSdbjQi08hUB2KqUyx"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Aurangzeb",
+      "url": "https://open.spotify.com/track/48wMVinMbKbym6Ql6eSJx7"
     },
     {
       "album": {
@@ -630,6 +698,24 @@
     },
     {
       "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Meesha Shafi",
+          "url": "https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318006,
+      "name": "Balori",
+      "url": "https://open.spotify.com/track/1DjecRqECVI64GRoNzNisD"
+    },
+    {
+      "album": {
         "name": "Coke Studio Sessions: Season 2",
         "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
       },
@@ -667,7 +753,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 341839,
       "name": "Beero Binjaaro",
       "url": "https://open.spotify.com/track/7BqjJ7Br1WnPtmY67Ltz6W"
@@ -725,7 +811,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 402000,
       "name": "Bholay Bhalay",
       "url": "https://open.spotify.com/track/0t3iSgsJGGTmBRjd6U4doi"
@@ -787,7 +873,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 342438,
       "name": "Bo Giyam",
       "url": "https://open.spotify.com/track/55PHSwqN1Nt3Xww2VPE8DL"
@@ -827,7 +913,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 458481,
       "name": "Chaa Rahi Kali Ghata",
       "url": "https://open.spotify.com/track/78xcub4FzranFU5SmRPg8j"
@@ -889,7 +975,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 322443,
       "name": "Chal Raha Hoon",
       "url": "https://open.spotify.com/track/3SygqndXLpTR4k27cT7bME"
@@ -929,7 +1015,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 401380,
       "name": "Charkha",
       "url": "https://open.spotify.com/track/2G91arznljxk6VonGl0s2i"
@@ -955,7 +1041,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 402000,
       "name": "Charkha Nolakha",
       "url": "https://open.spotify.com/track/0GKo5LtZM9SvqxZvnxz8hk"
@@ -995,7 +1081,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 530384,
       "name": "Chiryan da Chamba",
       "url": "https://open.spotify.com/track/4hrFaKJ13XCVAp2w9LuqSf"
@@ -1109,7 +1195,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 406746,
       "name": "Dasht-E-Tanhai",
       "url": "https://open.spotify.com/track/2QACCmKVClu32zGri1hEGj"
@@ -1135,7 +1221,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 611368,
       "name": "Dastaan-e-Moomal Rano",
       "url": "https://open.spotify.com/track/253ISN2sxDJwIfSl1aQIQz"
@@ -1161,6 +1247,46 @@
       "duration_ms": 372000,
       "name": "Deewana - Live",
       "url": "https://open.spotify.com/track/0CvztXW1rMgnqS5rt9dVGT"
+    },
+    {
+      "album": {
+        "name": "Coke Studio: Season 1",
+        "url": "https://open.spotify.com/album/61RMEU4YQreHmbWY43cJIm"
+      },
+      "artists": [
+        {
+          "name": "Strings",
+          "url": "https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425124,
+      "name": "Dhaani - Live",
+      "url": "https://open.spotify.com/track/7sYGa8ZjfrSCcn3JnQB7nx"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Zoheb Hassan",
+          "url": "https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301272,
+      "name": "Dheeray Dheeray",
+      "url": "https://open.spotify.com/track/5a48YvIU36YSbUgmWw03xD"
     },
     {
       "album": {
@@ -1209,7 +1335,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 516486,
       "name": "Dil Hai Pakistani",
       "url": "https://open.spotify.com/track/4vrFgeYJ0MBVCkAwS3bWVY"
@@ -1227,7 +1353,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 371692,
       "name": "Dil Jale",
       "url": "https://open.spotify.com/track/4ccf0IcShhKOIyrBAgp716"
@@ -1245,7 +1371,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 204000,
       "name": "Dil Khirki",
       "url": "https://open.spotify.com/track/6YrKCcOXiZQHHU6YxWUHZj"
@@ -1267,7 +1393,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 393392,
       "name": "Dil Tarpe",
       "url": "https://open.spotify.com/track/63zwG1gDxuUbd8DRcVv8lO"
@@ -1289,7 +1415,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 320000,
       "name": "Dildar Sadqay",
       "url": "https://open.spotify.com/track/6Pq9BT7LfoFqE3EqhBX5Ok"
@@ -1311,7 +1437,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 398449,
       "name": "Dohla",
       "url": "https://open.spotify.com/track/7iEHgkMJea4Sv1vi46jE1b"
@@ -1413,7 +1539,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 398215,
       "name": "Gal Sunn",
       "url": "https://open.spotify.com/track/1phj6T3DxXAf1luwNP7PqQ"
@@ -1435,7 +1561,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 266000,
       "name": "Gallan - Live",
       "url": "https://open.spotify.com/track/2oNQFGWfUvOCoDLsL5iYfT"
@@ -1461,7 +1587,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 465624,
       "name": "Garaj Baras - Live",
       "url": "https://open.spotify.com/track/6AtKfYDHipY2MxCQfYXhEZ"
@@ -1483,7 +1609,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 480958,
       "name": "Ghoom Charakhra",
       "url": "https://open.spotify.com/track/3F9fGqIKa0QP2JuGem1OHI"
@@ -1541,7 +1667,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 598497,
       "name": "Hairaan Hua",
       "url": "https://open.spotify.com/track/11v6Q3rcylqZoesjs8OUP9"
@@ -1566,6 +1692,28 @@
     },
     {
       "album": {
+        "name": "Coke Studio Sessions: Season 3",
+        "url": "https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY"
+      },
+      "artists": [
+        {
+          "name": "Amanat Ali & Sanam Marvi",
+          "url": "https://open.spotify.com/artist/1P4ubBPUrhkW8h9j8Cp2jd"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427791,
+      "name": "Haq Maujood",
+      "url": "https://open.spotify.com/track/3CRJLOEZ1xJjiYoDTfttGk"
+    },
+    {
+      "album": {
         "name": "Har Funn Maula",
         "url": "https://open.spotify.com/album/2YCOyu8SsrIu0qB3XaxZTj"
       },
@@ -1581,7 +1729,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 366250,
       "name": "Har Funn Maula",
       "url": "https://open.spotify.com/track/6TAgLk1hY89as3X36xdwtv"
@@ -1607,7 +1755,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 514721,
       "name": "Hare Hare Baans",
       "url": "https://open.spotify.com/track/0IRK0L3C0wlu6udhSY9Z21"
@@ -1713,7 +1861,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 573461,
       "name": "Ilallah",
       "url": "https://open.spotify.com/track/6SWvKdouOwgg6miQrnBGPR"
@@ -1797,7 +1945,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 361544,
       "name": "Jaag Rahi",
       "url": "https://open.spotify.com/track/36pThMLl9NPkjd4V7kg6T9"
@@ -1841,6 +1989,50 @@
       "duration_ms": 340986,
       "name": "Jaana",
       "url": "https://open.spotify.com/track/70iL1GeEpTTwuTflTpcSwY"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Sessions: Season 2",
+        "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
+      },
+      "artists": [
+        {
+          "name": "Josh",
+          "url": "https://open.spotify.com/artist/7inbx3OpLVuQ4vv9XZO11I"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358000,
+      "name": "Jaanay Do",
+      "url": "https://open.spotify.com/track/11W7unrc7m7trkV5AKNvJ0"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Sessions: Season 2",
+        "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424505,
+      "name": "Jal Pari",
+      "url": "https://open.spotify.com/track/3O3txttHVdh3sNEDt2yANj"
     },
     {
       "album": {
@@ -1889,7 +2081,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 431000,
       "name": "Jhalliya",
       "url": "https://open.spotify.com/track/57YKVDpOcbB2KHdlqMJlRX"
@@ -1933,6 +2125,28 @@
       "duration_ms": 237500,
       "name": "Jind Mahiya",
       "url": "https://open.spotify.com/track/5e2SajlpiF93w5tsjDv0RL"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 8",
+        "url": "https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7"
+      },
+      "artists": [
+        {
+          "name": "Sara Raza",
+          "url": "https://open.spotify.com/artist/3rdQR5do6o3piXTzXEdlOM"
+        },
+        {
+          "name": "Ali Haider",
+          "url": "https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232726,
+      "name": "Jiya Karay",
+      "url": "https://open.spotify.com/track/1B0g9HuxZ1HLzlpSWrdV4y"
     },
     {
       "album": {
@@ -2109,7 +2323,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 339681,
       "name": "Khamaaj",
       "url": "https://open.spotify.com/track/1yOzcnB0kIli8JttbJFMEK"
@@ -2127,7 +2341,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 376920,
       "name": "Khari Neem",
       "url": "https://open.spotify.com/track/3zE3NcjxURnAzUhvm8dhD9"
@@ -2207,7 +2421,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 217090,
       "name": "Ko Ko Korina",
       "url": "https://open.spotify.com/track/2czlMEVauz8zW15bhDAs2H"
@@ -2233,7 +2447,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 357853,
       "name": "Koi Labda",
       "url": "https://open.spotify.com/track/6HsiVpc4l6IWTikwuY2ary"
@@ -2255,7 +2469,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 485441,
       "name": "Kuch Hai",
       "url": "https://open.spotify.com/track/1oktFEQrSU8sj17NkmOQaP"
@@ -2277,7 +2491,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 266727,
       "name": "Laage Re Nain",
       "url": "https://open.spotify.com/track/6XR4E5qlv0q4NhFavQEUe9"
@@ -2336,6 +2550,46 @@
     },
     {
       "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Niazi Brothers",
+          "url": "https://open.spotify.com/artist/6EZ4uVu8oBRwuqt2K38TWl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408525,
+      "name": "Lai Beqadaraan Naal Yaari",
+      "url": "https://open.spotify.com/track/0ro6SFrYsMWnLaI9vBjhra"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 6",
+        "url": "https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky"
+      },
+      "artists": [
+        {
+          "name": "Rostam Mirlashari",
+          "url": "https://open.spotify.com/artist/5zlHJ38vwLDvO6sf1lneZz"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269620,
+      "name": "Laila O Laila",
+      "url": "https://open.spotify.com/track/65GexggyAOfTLMWLKQS4eb"
+    },
+    {
+      "album": {
         "name": "Coke Studio Sessions (Season 4)",
         "url": "https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs"
       },
@@ -2351,7 +2605,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 364753,
       "name": "Lambi Judaai",
       "url": "https://open.spotify.com/track/6gXuetJiQ00vPIy6zs3SGR"
@@ -2373,7 +2627,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 336000,
       "name": "Lamha",
       "url": "https://open.spotify.com/track/0NuoB84JsUKFav95rKnSO6"
@@ -2395,7 +2649,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 378653,
       "name": "Larho Mujhey",
       "url": "https://open.spotify.com/track/56yOrOvkFxvkkX7wEPLu4n"
@@ -2446,6 +2700,28 @@
     },
     {
       "album": {
+        "name": "Coke Studio Sessions : Season 5",
+        "url": "https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK"
+      },
+      "artists": [
+        {
+          "name": "Overload",
+          "url": "https://open.spotify.com/artist/05PcXrC9rDpaibKcUQFQMb"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335440,
+      "name": "Mahi",
+      "url": "https://open.spotify.com/track/7DSSiCjh5jxNx1MO5ctPTj"
+    },
+    {
+      "album": {
         "name": "Coke Studio Season 11 (Sound of The Nation)",
         "url": "https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri"
       },
@@ -2483,10 +2759,32 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 266000,
       "name": "Mahi Ve",
       "url": "https://open.spotify.com/track/115hRY1suqgzrw5IUfspTW"
+    },
+    {
+      "album": {
+        "name": "Coke Studio: Season 1",
+        "url": "https://open.spotify.com/album/61RMEU4YQreHmbWY43cJIm"
+      },
+      "artists": [
+        {
+          "name": "Ali Azmat",
+          "url": "https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332374,
+      "name": "Main Challa - Live",
+      "url": "https://open.spotify.com/track/1TqOAZmUo9LT78tN0rRYQM"
     },
     {
       "album": {
@@ -2517,7 +2815,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 386181,
       "name": "Main Irada",
       "url": "https://open.spotify.com/track/3UwsvBotQnUMV8RQFCe6wZ"
@@ -2613,7 +2911,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 568000,
       "name": "Man Kunto Maula",
       "url": "https://open.spotify.com/track/5kVjlBudgNx2D98tNwOzCK"
@@ -2653,7 +2951,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 508627,
       "name": "Maula Tera Noor",
       "url": "https://open.spotify.com/track/43MM7jOLwi9QQRbGXcz6Tx"
@@ -2679,6 +2977,24 @@
       "duration_ms": 592000,
       "name": "Maula-E-Kull",
       "url": "https://open.spotify.com/track/3zNiOIeRHP8Ag6ILRndRpo"
+    },
+    {
+      "album": {
+        "name": "Megh",
+        "url": "https://open.spotify.com/album/4HNKEChltGdtE3cmlB9Io9"
+      },
+      "artists": [
+        {
+          "name": "Aizaz Sohail",
+          "url": "https://open.spotify.com/artist/69jbAALzkYxF5CgdADXfVM"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 550000,
+      "name": "Megh",
+      "url": "https://open.spotify.com/track/1g1nOuT0bhjE4pYTLGWSUN"
     },
     {
       "album": {
@@ -2719,7 +3035,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 619174,
       "name": "Mein Sufi Hoon",
       "url": "https://open.spotify.com/track/0dhamF0vASy4g1gEpC1OKI"
@@ -2803,7 +3119,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 404163,
       "name": "Mram Mram",
       "url": "https://open.spotify.com/track/6OZYd4D0MLxci7Uq5z7ipN"
@@ -2825,7 +3141,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 281186,
       "name": "Muaziz Saarif",
       "url": "https://open.spotify.com/track/3tDoe3YGIltxR9zv5AkWqi"
@@ -2869,7 +3185,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 352048,
       "name": "Mujh Se Pehli Si Mohabbat",
       "url": "https://open.spotify.com/track/57ZmErb34SoAnV1mr9JL8U"
@@ -2938,6 +3254,28 @@
     },
     {
       "album": {
+        "name": "Coke Studio Sessions: Season 3",
+        "url": "https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY"
+      },
+      "artists": [
+        {
+          "name": "Arieb Azhar",
+          "url": "https://open.spotify.com/artist/0IuKvmIDo3KrY937MVh08P"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327170,
+      "name": "Na Raindee Hai",
+      "url": "https://open.spotify.com/track/0pftCayPrMmj0fr9nJy8Ke"
+    },
+    {
+      "album": {
         "name": "Na Tutteya Ve",
         "url": "https://open.spotify.com/album/4mi1P1ua8oKlPol0ZoTplD"
       },
@@ -2969,7 +3307,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 287000,
       "name": "Na Tutteya Ve",
       "url": "https://open.spotify.com/track/5pUGGNddp1nA7dejIvN6mD"
@@ -3013,7 +3351,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 306000,
       "name": "Nahi Ray Nahi",
       "url": "https://open.spotify.com/track/3nA1pWtTyd9zSnFTgvWXxA"
@@ -3057,7 +3395,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 281020,
       "name": "Nami Danam",
       "url": "https://open.spotify.com/track/4htgwlmNa91TZr3ZTM68Ws"
@@ -3079,7 +3417,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 369319,
       "name": "Nar Bait",
       "url": "https://open.spotify.com/track/1Gk3WtGXBMpF0mA7IaR3ht"
@@ -3167,7 +3505,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 436309,
       "name": "Neun La Leya",
       "url": "https://open.spotify.com/track/5D40N8eVvzlzZE19FikJ2A"
@@ -3189,7 +3527,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 394600,
       "name": "Ni Oothaan Waale",
       "url": "https://open.spotify.com/track/1b5pkU2sSryk0clhqzWkdM"
@@ -3277,7 +3615,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 301000,
       "name": "Nindiya Re",
       "url": "https://open.spotify.com/track/2lu2I74iWYw4ikUYP5a6PE"
@@ -3299,7 +3637,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 283833,
       "name": "Paimona",
       "url": "https://open.spotify.com/track/1k8K8Bzicj42Y109zIWKGv"
@@ -3347,7 +3685,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 270000,
       "name": "Panchi",
       "url": "https://open.spotify.com/track/1ZTHUULFDfSHuyBIk1uB6i"
@@ -3365,7 +3703,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 265662,
       "name": "Pani da Bulbula",
       "url": "https://open.spotify.com/track/6GilNJ7SOCtyculJkKhGkA"
@@ -3409,7 +3747,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 522280,
       "name": "Pardesiya",
       "url": "https://open.spotify.com/track/4yiPORt9JZGtYlsd22p8So"
@@ -3461,6 +3799,24 @@
       "duration_ms": 225892,
       "name": "Peechay Hutt",
       "url": "https://open.spotify.com/track/6ePcfMCQ7uUKwAamUiVtXL"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Khan",
+          "url": "https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224843,
+      "name": "Pehla Pyar",
+      "url": "https://open.spotify.com/track/2zNMNUnxo96xQ8SJEAr0Tu"
     },
     {
       "album": {
@@ -3523,7 +3879,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 380272,
       "name": "Phool Banro",
       "url": "https://open.spotify.com/track/2obmpv5y7Ny6fHwWv7fqxX"
@@ -3545,7 +3901,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 391911,
       "name": "Piya Dehkan Ko",
       "url": "https://open.spotify.com/track/1frGW887ZzFysJHMdq2Mmj"
@@ -3570,6 +3926,28 @@
     },
     {
       "album": {
+        "name": "Coke Studio Sessions (Season 4)",
+        "url": "https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs"
+      },
+      "artists": [
+        {
+          "name": "Attaullah Essakhelvi",
+          "url": "https://open.spotify.com/artist/07oN5jQWxaqqkB5IKvZ4Ea"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438519,
+      "name": "Pyaar Naal",
+      "url": "https://open.spotify.com/track/6Lqfmvr2SeTfffxD5bf3C0"
+    },
+    {
+      "album": {
         "name": "Coke Studio Season 6",
         "url": "https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky"
       },
@@ -3585,7 +3963,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 308789,
       "name": "Raat Gaey",
       "url": "https://open.spotify.com/track/54m3clSi5WDzpVJIydmdv1"
@@ -3607,6 +3985,28 @@
       "duration_ms": 387399,
       "name": "Rabba Ho",
       "url": "https://open.spotify.com/track/21TUkZlJV8Z5viGmSuqL7r"
+    },
+    {
+      "album": {
+        "name": "Ram Pam",
+        "url": "https://open.spotify.com/album/0M7n04XdXiCOgcUfNZnYCA"
+      },
+      "artists": [
+        {
+          "name": "Zoe Viccaji",
+          "url": "https://open.spotify.com/artist/4CSlFJu7OMFb6hcOL2fElL"
+        },
+        {
+          "name": "Shahab Hussain",
+          "url": "https://open.spotify.com/artist/7ymVr1v5z0MP6rcohSM5up"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285046,
+      "name": "Ram Pam",
+      "url": "https://open.spotify.com/track/0UI1h4zH2D7Os5OZEiqvOF"
     },
     {
       "album": {
@@ -3651,7 +4051,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 717190,
       "name": "Rang",
       "url": "https://open.spotify.com/track/3WD0NZnFJMtEREz2uCwBSN"
@@ -3765,6 +4165,28 @@
       },
       "artists": [
         {
+          "name": "Young Desi",
+          "url": "https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5"
+        },
+        {
+          "name": "Lyari Underground Band",
+          "url": "https://open.spotify.com/artist/3mXxdjkqh76TYabKyiSYlc"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355000,
+      "name": "Rap Hai Saara",
+      "url": "https://open.spotify.com/track/6eUfoflTvynmNtgQxTSUFg"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 11 (Sound of The Nation)",
+        "url": "https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri"
+      },
+      "artists": [
+        {
           "name": "Zarsanga",
           "url": "https://open.spotify.com/artist/0UfzbfdzuAk54Q1KSFIdiO"
         },
@@ -3801,6 +4223,28 @@
       "duration_ms": 404174,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/1VRf5mWXYHhOy0IwDhGeyf"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Sessions: Season 2",
+        "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
+      },
+      "artists": [
+        {
+          "name": "Zeb, Haniya & Javed Bashir",
+          "url": "https://open.spotify.com/artist/1f4iMSEs6INRJOf87jpn0C"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268624,
+      "name": "Rona Chor Diya",
+      "url": "https://open.spotify.com/track/1FSm1qNtuT0d033DG4jZG7"
     },
     {
       "album": {
@@ -3907,10 +4351,36 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 540600,
       "name": "Rung",
       "url": "https://open.spotify.com/track/12QnL5u5wnMNkL9KqiDsNX"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Sessions : Season 5",
+        "url": "https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK"
+      },
+      "artists": [
+        {
+          "name": "Fareed Ayaz",
+          "url": "https://open.spotify.com/artist/3CCUSweQDSNLPXi7ayw3VO"
+        },
+        {
+          "name": "Abu Muhammad",
+          "url": "https://open.spotify.com/artist/0aJXsjLXlFqvT1vvB6xDYf"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 825760,
+      "name": "Rung 2",
+      "url": "https://open.spotify.com/track/6nw7TxJxt4mngfZX8cuSxt"
     },
     {
       "album": {
@@ -3925,7 +4395,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 360266,
       "name": "Rung Jindri",
       "url": "https://open.spotify.com/track/714jbRo5GFOuQJW7fRBmtb"
@@ -3965,7 +4435,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 444000,
       "name": "Saari Raat",
       "url": "https://open.spotify.com/track/3mYsmSJruBRGkaw0VGRqhJ"
@@ -3983,7 +4453,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 357579,
       "name": "Sab Aakho Ali Ali",
       "url": "https://open.spotify.com/track/68KDUiU15BzPLbZwpqVCw5"
@@ -4009,10 +4479,32 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 366000,
       "name": "Sab Jag Soye",
       "url": "https://open.spotify.com/track/6WQpJRfXZlaOQrYVxCWLvY"
+    },
+    {
+      "album": {
+        "name": "Coke Studio: Season 9",
+        "url": "https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422000,
+      "name": "Sadaa",
+      "url": "https://open.spotify.com/track/7balXXIAulX39NZ7zDe3DH"
     },
     {
       "album": {
@@ -4075,7 +4567,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 406711,
       "name": "Sakal Ban",
       "url": "https://open.spotify.com/track/4Fd7FkdzHIJv781MXnv0lY"
@@ -4104,6 +4596,32 @@
     },
     {
       "album": {
+        "name": "Coke Studio: Season 9",
+        "url": "https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL"
+      },
+      "artists": [
+        {
+          "name": "Naseebo Laal",
+          "url": "https://open.spotify.com/artist/0hNvLR8hkMDt1YGdV3EzDM"
+        },
+        {
+          "name": "Umair Jaswal",
+          "url": "https://open.spotify.com/artist/4mAh3WtOUBhBvVHIkAHSCz"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404000,
+      "name": "Sasu Mangay",
+      "url": "https://open.spotify.com/track/6sIVxBoS93sjVyxpofOBQo"
+    },
+    {
+      "album": {
         "name": "Coke Studio Season 8",
         "url": "https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7"
       },
@@ -4115,7 +4633,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 290826,
       "name": "Sayon",
       "url": "https://open.spotify.com/track/0RaHjIluOnJYJIL1lzPS5S"
@@ -4148,6 +4666,24 @@
     },
     {
       "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Asrar",
+          "url": "https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353900,
+      "name": "Shakar Wandaan Re",
+      "url": "https://open.spotify.com/track/6nodKUGJaIO0fBtKZOuc93"
+    },
+    {
+      "album": {
         "name": "Coke Studio: Season 9",
         "url": "https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL"
       },
@@ -4171,6 +4707,28 @@
       "duration_ms": 390500,
       "name": "Shamaan Pai Gaiyaan / Kee Dam da Bharosa",
       "url": "https://open.spotify.com/track/2ghir479Xrk0B7iASVgyCb"
+    },
+    {
+      "album": {
+        "name": "Coke Studio: Season 1",
+        "url": "https://open.spotify.com/album/61RMEU4YQreHmbWY43cJIm"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362604,
+      "name": "Shaman Payian - Live",
+      "url": "https://open.spotify.com/track/5WD0oZrUyK2VbmQqOI8iz9"
     },
     {
       "album": {
@@ -4211,6 +4769,50 @@
       "duration_ms": 146891,
       "name": "Shuru Karein",
       "url": "https://open.spotify.com/track/19DH8oyJuWXX8RAWS8QK0z"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Sessions (Season 4)",
+        "url": "https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs"
+      },
+      "artists": [
+        {
+          "name": "Sanam Marvi",
+          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 632000,
+      "name": "Sighra Aaween Saanwal Yaar",
+      "url": "https://open.spotify.com/track/561wlKRoEyEhasAa6rO1hI"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Sessions: Season 3",
+        "url": "https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY"
+      },
+      "artists": [
+        {
+          "name": "Adp",
+          "url": "https://open.spotify.com/artist/3eBnDwP8sfBq7RSDgu40se"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285381,
+      "name": "Sultanat",
+      "url": "https://open.spotify.com/track/3nxcN4HN2WqIFFc1oiu57m"
     },
     {
       "album": {
@@ -4287,7 +4889,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 425000,
       "name": "Tera Woh Pyar (Nawazishein Karam)",
       "url": "https://open.spotify.com/track/35XOutkHJChtKfO4kG6CED"
@@ -4361,7 +4963,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 352579,
       "name": "Tinak Dhin",
       "url": "https://open.spotify.com/track/4mwptr3AR1inr9QzBHVQLC"
@@ -4379,7 +4981,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 350178,
       "name": "Tiri Pawanda",
       "url": "https://open.spotify.com/track/3C32IEBz2x2R5hxX8w3Jtn"
@@ -4401,7 +5003,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 420000,
       "name": "Titiliyaan",
       "url": "https://open.spotify.com/track/16ezFHxwr8629Q4rNsI89Q"
@@ -4497,7 +5099,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 290000,
       "name": "Tum Kaho",
       "url": "https://open.spotify.com/track/2U2Ykgve6GAP5dbfGrb6mf"
@@ -4519,6 +5121,28 @@
       "duration_ms": 355441,
       "name": "Tum Naraz Ho",
       "url": "https://open.spotify.com/track/7od22pmztVH9YfpzZ0205R"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 10: Episode 5",
+        "url": "https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0"
+      },
+      "artists": [
+        {
+          "name": "Faraz Anwar",
+          "url": "https://open.spotify.com/artist/4WFQS1bqSok87rLhlWb8Ep"
+        },
+        {
+          "name": "Faiza Mujahid",
+          "url": "https://open.spotify.com/artist/3EHt8CyaFjaukCZVjhlv8Z"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428196,
+      "name": "Ujaalon Mein",
+      "url": "https://open.spotify.com/track/1h5mPXw1Ln2JE4UkLAey6J"
     },
     {
       "album": {
@@ -4611,7 +5235,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 303040,
       "name": "Wah Wah Jhulara",
       "url": "https://open.spotify.com/track/5CazE1e4JYNIVtRe4O2Kgu"
@@ -4637,7 +5261,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 374187,
       "name": "Washmallay",
       "url": "https://open.spotify.com/track/7MnG9O1elO5CgovlcPFDha"
@@ -4691,7 +5315,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 377539,
       "name": "Yaad",
       "url": "https://open.spotify.com/track/0q01Ld9BTonX8rbvB8fgcq"
@@ -4713,10 +5337,28 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 455038,
       "name": "Yaar Vekho",
       "url": "https://open.spotify.com/track/2JQ2KeB3lBw15QuuV5zvUy"
+    },
+    {
+      "album": {
+        "name": "Yaqeen",
+        "url": "https://open.spotify.com/album/1eXBya9F6lnGUwyCrzzmYm"
+      },
+      "artists": [
+        {
+          "name": "Wajiha Naqvi",
+          "url": "https://open.spotify.com/artist/2JEQT9Ov8j9zNO7lHXWjCk"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398181,
+      "name": "Yaqeen",
+      "url": "https://open.spotify.com/track/0gjN42h7it1r8M8bVhCFQc"
     },
     {
       "album": {
@@ -4779,7 +5421,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 367945,
       "name": "Za Sta Pashan Na Yam",
       "url": "https://open.spotify.com/track/1OARBt5sueOaX2WxGAY31Y"

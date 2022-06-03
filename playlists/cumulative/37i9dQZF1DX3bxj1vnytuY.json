@@ -1538,6 +1538,24 @@
     },
     {
       "album": {
+        "name": "Sidi",
+        "url": "https://open.spotify.com/album/3Jki9ZN510lqYxRrvw9eDp"
+      },
+      "artists": [
+        {
+          "name": "Herrer",
+          "url": "https://open.spotify.com/artist/4GBv8rfeHjPDvklx9mvYuz"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300824,
+      "name": "Sidi",
+      "url": "https://open.spotify.com/track/1I5CUoUVsoFD33CXsUM91Z"
+    },
+    {
+      "album": {
         "name": "Son Mansour",
         "url": "https://open.spotify.com/album/5nUNmXQJPXLXTMYDU56zQP"
       },

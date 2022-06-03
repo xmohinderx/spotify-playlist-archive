@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Alana Kane",
+        "url": "https://open.spotify.com/album/1tsjznN93sGCO8veCY0GC7"
+      },
+      "artists": [
+        {
+          "name": "Sepia Tapes",
+          "url": "https://open.spotify.com/artist/3PuHZwsr0txnw9NMq6b1kT"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115443,
+      "name": "Alana Kane",
+      "url": "https://open.spotify.com/track/3ppjtvIsZZKhpqE9Kum87O"
+    },
+    {
+      "album": {
         "name": "Alone In Town",
         "url": "https://open.spotify.com/album/1cXiG685Ny0feXVwplO4XI"
       },
@@ -225,6 +243,24 @@
       "duration_ms": 129882,
       "name": "Be Great",
       "url": "https://open.spotify.com/track/4N9h6vHzovo7YvInYRxgqt"
+    },
+    {
+      "album": {
+        "name": "before we forget",
+        "url": "https://open.spotify.com/album/20gxWCGcFDTS6y0YHJhzi7"
+      },
+      "artists": [
+        {
+          "name": "slowseventeen",
+          "url": "https://open.spotify.com/artist/09h6Xfv6UuvH9rIjAASA2X"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158018,
+      "name": "before we forget",
+      "url": "https://open.spotify.com/track/1U4S2ywNnieNw8rWVCBA2p"
     },
     {
       "album": {
@@ -351,6 +387,24 @@
       "duration_ms": 137250,
       "name": "Circular",
       "url": "https://open.spotify.com/track/25ARgyzXiYLjCq9K1gY5oL"
+    },
+    {
+      "album": {
+        "name": "City Bay",
+        "url": "https://open.spotify.com/album/1dhDrI75BqHuigJzDsbaaX"
+      },
+      "artists": [
+        {
+          "name": "Samenoise",
+          "url": "https://open.spotify.com/artist/56RZezyHNErwmoGug3V3Xc"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "City Bay",
+      "url": "https://open.spotify.com/track/5G2aoK7fQ8XEIEgsRiRq01"
     },
     {
       "album": {
@@ -675,10 +729,28 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 317560,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/1x6fQ08Smj58AYlSchDMVV"
+    },
+    {
+      "album": {
+        "name": "Downturn",
+        "url": "https://open.spotify.com/album/2fq7DPLA5S05SnpW3T03G5"
+      },
+      "artists": [
+        {
+          "name": "Minosour",
+          "url": "https://open.spotify.com/artist/1cwzQoxtRJWvTDNQc6lc7a"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Downturn",
+      "url": "https://open.spotify.com/track/4V4VKo1dpRECsFeZdmQ1m9"
     },
     {
       "album": {
@@ -880,6 +952,24 @@
     },
     {
       "album": {
+        "name": "Feedback Loop",
+        "url": "https://open.spotify.com/album/313KqTMx8BzQMsf1wK1LSt"
+      },
+      "artists": [
+        {
+          "name": "hoodeeny",
+          "url": "https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197961,
+      "name": "Feedback Loop",
+      "url": "https://open.spotify.com/track/5zlcNIbJAbRtCFFmQQi6Qe"
+    },
+    {
+      "album": {
         "name": "Roughly Human",
         "url": "https://open.spotify.com/album/3LU9iCseQ6hsGwBFLOdj2P"
       },
@@ -1006,6 +1096,24 @@
     },
     {
       "album": {
+        "name": "power to flow",
+        "url": "https://open.spotify.com/album/5C8StkM3ZYGtkDAEqmV5ll"
+      },
+      "artists": [
+        {
+          "name": "meadowzz",
+          "url": "https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "fusions",
+      "url": "https://open.spotify.com/track/505vdK8fP7XVkNmK3zicyC"
+    },
+    {
+      "album": {
         "name": "Ganges",
         "url": "https://open.spotify.com/album/2Lm2ZsJm7htVuUtiD0j08z"
       },
@@ -1039,6 +1147,24 @@
       "duration_ms": 123124,
       "name": "happy valley",
       "url": "https://open.spotify.com/track/4diBqnT3w2ScFWTOes4q54"
+    },
+    {
+      "album": {
+        "name": "Hatching a Dragon",
+        "url": "https://open.spotify.com/album/4ZaPUMuADwnfJLZKEXbPix"
+      },
+      "artists": [
+        {
+          "name": "Mean Dartin",
+          "url": "https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166274,
+      "name": "Hatching a Dragon",
+      "url": "https://open.spotify.com/track/4l6cRJ99ytW8NUqelWn5IL"
     },
     {
       "album": {
@@ -1078,6 +1204,24 @@
     },
     {
       "album": {
+        "name": "Hojas Secas",
+        "url": "https://open.spotify.com/album/1jngVxcmAseCKTOA6I3OHR"
+      },
+      "artists": [
+        {
+          "name": "Cielomoto",
+          "url": "https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Hojas Secas",
+      "url": "https://open.spotify.com/track/1GU8SNqu49z9lay861Rby1"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2ZFRC28tWKrAIQtbTIaWAC"
       },
@@ -1096,6 +1240,42 @@
     },
     {
       "album": {
+        "name": "honestly",
+        "url": "https://open.spotify.com/album/4zIdz6orD5zDjyknExQwxk"
+      },
+      "artists": [
+        {
+          "name": "dirtybirdie",
+          "url": "https://open.spotify.com/artist/757oyVLql8wYqYzOEz7BIT"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98181,
+      "name": "honestly",
+      "url": "https://open.spotify.com/track/5zCa75jnSOrgap5EaAW7zI"
+    },
+    {
+      "album": {
+        "name": "Hope even more",
+        "url": "https://open.spotify.com/album/6gxoN7Y7FGLPgWxyAN01LP"
+      },
+      "artists": [
+        {
+          "name": "Wavy Naps",
+          "url": "https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129285,
+      "name": "Hope even more",
+      "url": "https://open.spotify.com/track/5qLlEaKLP4FI09QqDYVFCL"
+    },
+    {
+      "album": {
         "name": "hymn",
         "url": "https://open.spotify.com/album/6gyrxxudYoLOll7qWRWWHM"
       },
@@ -1111,6 +1291,24 @@
       "duration_ms": 104800,
       "name": "hymn",
       "url": "https://open.spotify.com/track/2fstidjX52u0PGrvEf00Ox"
+    },
+    {
+      "album": {
+        "name": "i'm just being quiet",
+        "url": "https://open.spotify.com/album/4e7YtgvNMO1VnHjdb0KuQW"
+      },
+      "artists": [
+        {
+          "name": "densitydrive",
+          "url": "https://open.spotify.com/artist/6J05YtZ0cTSqqTm5W7Ar2e"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "i'm just being quiet",
+      "url": "https://open.spotify.com/track/39glAnnq8bpaNf7GUuvcio"
     },
     {
       "album": {
@@ -1237,6 +1435,24 @@
       "duration_ms": 127235,
       "name": "Joseph's Well",
       "url": "https://open.spotify.com/track/1qfKWLhAOL9PBvZ5wsOhsU"
+    },
+    {
+      "album": {
+        "name": "Keep It Calm",
+        "url": "https://open.spotify.com/album/0sSxZTHWKC6Cx8llgdP8zN"
+      },
+      "artists": [
+        {
+          "name": "Flaminguez",
+          "url": "https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132446,
+      "name": "Keep It Calm",
+      "url": "https://open.spotify.com/track/7Lk97jmCy6NLGoMOCliR25"
     },
     {
       "album": {
@@ -1435,7 +1651,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 120546,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/7d4FIpU0LNQkz6itBidv3m"
@@ -1478,6 +1694,24 @@
     },
     {
       "album": {
+        "name": "Love Is The Way",
+        "url": "https://open.spotify.com/album/5DMBh7ShLfPG02Nji6G3Lt"
+      },
+      "artists": [
+        {
+          "name": "Trippy Park",
+          "url": "https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103400,
+      "name": "Love Is The Way",
+      "url": "https://open.spotify.com/track/0RNPDddo8zB84QRtAJGMvz"
+    },
+    {
+      "album": {
         "name": "love triangles",
         "url": "https://open.spotify.com/album/1dIrPgFSe5PM08NJrWDpZD"
       },
@@ -1493,6 +1727,24 @@
       "duration_ms": 100975,
       "name": "love triangles",
       "url": "https://open.spotify.com/track/0WJj3kLVjvHCB5Pf2bkgXE"
+    },
+    {
+      "album": {
+        "name": "Lungo Start",
+        "url": "https://open.spotify.com/album/6F9DQYe3s8uKBjhr1Mfd5R"
+      },
+      "artists": [
+        {
+          "name": "White Noise Clarity",
+          "url": "https://open.spotify.com/artist/0J1noINVBJiSL51wHiTvkg"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Lungo Start",
+      "url": "https://open.spotify.com/track/1isTKmXhobWZShYmsSmc9X"
     },
     {
       "album": {
@@ -1626,6 +1878,24 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/55Ctbx0cQWtzd0vflIP1al"
+      },
+      "artists": [
+        {
+          "name": "Robomani",
+          "url": "https://open.spotify.com/artist/2iXcdZRffRnlBjzqcWEXKA"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138882,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/3CoaPoaxpeQbBg5xFMLvIt"
+    },
+    {
+      "album": {
         "name": "Mereya",
         "url": "https://open.spotify.com/album/4GvbUJO6wPX6d5yD2rInya"
       },
@@ -1677,6 +1947,24 @@
       "duration_ms": 108007,
       "name": "millions",
       "url": "https://open.spotify.com/track/5I20Xa98Zm3YQlSfRQgwxt"
+    },
+    {
+      "album": {
+        "name": "Mind Massage",
+        "url": "https://open.spotify.com/album/3qhrSaDI24kXJhIcBS1K3a"
+      },
+      "artists": [
+        {
+          "name": "Phlo X",
+          "url": "https://open.spotify.com/artist/7wpjhdiboISbPKE8SBwCet"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144031,
+      "name": "Mind Massage",
+      "url": "https://open.spotify.com/track/1vFAE2GL7YqPalMDan8BN4"
     },
     {
       "album": {
@@ -1745,10 +2033,28 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 163394,
       "name": "Morning in Waiting",
       "url": "https://open.spotify.com/track/1SPZyItfOihSvFvVbk0jlX"
+    },
+    {
+      "album": {
+        "name": "Necklace",
+        "url": "https://open.spotify.com/album/5Bl50pCXxV6cRISd7uNcFu"
+      },
+      "artists": [
+        {
+          "name": "Azurenity",
+          "url": "https://open.spotify.com/artist/670tCQfj3LeVsUqb2SY4Rs"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154180,
+      "name": "Necklace - Coffe Ambience",
+      "url": "https://open.spotify.com/track/6UbEwbpoVMUDNG94ART8qm"
     },
     {
       "album": {
@@ -1835,7 +2141,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 116344,
       "name": "Nuevo Lunes",
       "url": "https://open.spotify.com/track/3QBVR8rJjNlooPqtjEYHjv"
@@ -1932,6 +2238,24 @@
     },
     {
       "album": {
+        "name": "The Cat's Meow",
+        "url": "https://open.spotify.com/album/6S5Saal4XqDxBcTXQd1EoT"
+      },
+      "artists": [
+        {
+          "name": "Crate Diggers",
+          "url": "https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86000,
+      "name": "Payday",
+      "url": "https://open.spotify.com/track/1YZkYaFUeA03AESAKkctld"
+    },
+    {
+      "album": {
         "name": "Pearl Beach",
         "url": "https://open.spotify.com/album/1h5CRaGDGIRu5UBtYqH5uK"
       },
@@ -1947,6 +2271,24 @@
       "duration_ms": 216457,
       "name": "Pearl Beach",
       "url": "https://open.spotify.com/track/7elsLIoa52wnR9bhG6QL7A"
+    },
+    {
+      "album": {
+        "name": "Peeter Skeeter",
+        "url": "https://open.spotify.com/album/5lVaT8a2QE8nayhdrz79Jm"
+      },
+      "artists": [
+        {
+          "name": "With All Respect",
+          "url": "https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105302,
+      "name": "Peeter Skeeter",
+      "url": "https://open.spotify.com/track/1diQndJIjHScnOZtBj3404"
     },
     {
       "album": {
@@ -2098,6 +2440,24 @@
     },
     {
       "album": {
+        "name": "Resting bull face",
+        "url": "https://open.spotify.com/album/0lUn82bsrNOJkOXqI5AnVd"
+      },
+      "artists": [
+        {
+          "name": "Catch ze Bull",
+          "url": "https://open.spotify.com/artist/2FtYPL4cwgV84Z1xoJaM4S"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "Resting bull face",
+      "url": "https://open.spotify.com/track/1YWebNgNeLzNqybFQsoXn4"
+    },
+    {
+      "album": {
         "name": "Resume",
         "url": "https://open.spotify.com/album/5qrTkSXwubgrbgdNKfiKG8"
       },
@@ -2203,10 +2563,28 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 189784,
       "name": "Ruby (Edapollo Remix)",
       "url": "https://open.spotify.com/track/2hIm6P4DsTIjAmGxVp97vP"
+    },
+    {
+      "album": {
+        "name": "running into dreams",
+        "url": "https://open.spotify.com/album/4vdzrl8ZbHfP6wcldcaV7D"
+      },
+      "artists": [
+        {
+          "name": "anayys",
+          "url": "https://open.spotify.com/artist/2TcmGbzQcGwhauOyGwxPEB"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160062,
+      "name": "running into dreams",
+      "url": "https://open.spotify.com/track/3q7nuBN4kAmqFGiP6dGUSH"
     },
     {
       "album": {
@@ -2448,6 +2826,24 @@
     },
     {
       "album": {
+        "name": "Patagonia",
+        "url": "https://open.spotify.com/album/4FMUZ2ZmbVgb9m9xJJQzeg"
+      },
+      "artists": [
+        {
+          "name": "X84",
+          "url": "https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185606,
+      "name": "Special Moment",
+      "url": "https://open.spotify.com/track/3WUYyDhbATJbWl2jBUC3Ep"
+    },
+    {
+      "album": {
         "name": "Tabla Yoga Healing",
         "url": "https://open.spotify.com/album/1X0MXAy0e7W7lIvv4CJeBB"
       },
@@ -2571,6 +2967,24 @@
       "duration_ms": 139531,
       "name": "Summer Daze",
       "url": "https://open.spotify.com/track/6IicRTrwqlLmP0d3s5cFra"
+    },
+    {
+      "album": {
+        "name": "Sun o'clock",
+        "url": "https://open.spotify.com/album/4AxgTe4ALkZ41Eu0DKI2H9"
+      },
+      "artists": [
+        {
+          "name": "Idris Kelly",
+          "url": "https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "Sun o'clock",
+      "url": "https://open.spotify.com/track/3mLe9QMhMCcPvlkJgQbEi8"
     },
     {
       "album": {
@@ -2783,10 +3197,28 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 156000,
       "name": "Tsega",
       "url": "https://open.spotify.com/track/0z3JbwNCfq6wwuONwZH1pg"
+    },
+    {
+      "album": {
+        "name": "Turnin'",
+        "url": "https://open.spotify.com/album/2gceX5SfUJzI3bjS4BjzGo"
+      },
+      "artists": [
+        {
+          "name": "Chill Collusion",
+          "url": "https://open.spotify.com/artist/1TtW6tuwl4p3aUWydX2kMj"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140829,
+      "name": "Turnin'",
+      "url": "https://open.spotify.com/track/1FPITXegY60iam6bYx4p5w"
     },
     {
       "album": {

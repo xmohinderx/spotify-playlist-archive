@@ -4,7 +4,7 @@
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-70 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/6I9zKrFBIVKUckprWsUFLc)
+71 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/6I9zKrFBIVKUckprWsUFLc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Love U](https://open.spotify.com/track/2FOfZMaqsuKxetBLUyvjm8) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Love U](https://open.spotify.com/album/3YwdsyrPOFPUxhGKiTQNEm) | 3:30 | 2021-08-19 |  |
 | [Lovers](https://open.spotify.com/track/3CQt4XAgI8i3cZYlgkLfza) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/27OLRsypRNOsLlP5BsVpUJ) | 3:35 | 2021-08-19 |  |
 | [Lust for Life \(with The Weeknd\)](https://open.spotify.com/track/5LYQSNHZxEA880URXFHg6h) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Lust for Life \(with The Weeknd\)](https://open.spotify.com/album/36HlMFtb9FiBpglTJqZUmZ) | 4:24 | 2021-08-19 |  |
+| [moonlight](https://open.spotify.com/track/6xCB26Dg9hVNE76hJ774aU) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [moonlight](https://open.spotify.com/album/66VclcKcfP5LZzoC4Su0eA) | 3:23 | 2022-06-01 |  |
 | [Neptune's Tune](https://open.spotify.com/track/591gRuB2AE1D60uGKwnR7g) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Naoe](https://open.spotify.com/artist/6kTBUVd2O5KmwemgbOxiyc) | [Neptune's Tune](https://open.spotify.com/album/0x718KpPnXYjWVU0HWtw1r) | 3:41 | 2021-08-19 |  |
 | [Nomad \(feat\. Luna May\)](https://open.spotify.com/track/3UWQaemSnvQ8XdERYWcZuF) | [Oriental Cravings](https://open.spotify.com/artist/51N35pGBBHm3u1uFtNhE8b), [Luna May](https://open.spotify.com/artist/7zmqghli56G0HN7CJePsdb) | [Nomad \(feat\. Luna May\)](https://open.spotify.com/album/1YbbcZ8ybBvZcJWMZ5zxUu) | 3:12 | 2021-08-19 |  |
 | [Oblivion](https://open.spotify.com/track/7y5Epl5axmVOZY2MmpxmtJ) | [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [Pillar](https://open.spotify.com/album/4KeaAueVERsbmdJJCixuNG) | 3:41 | 2021-08-19 |  |

@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 113339,
       "name": "Alley Cats",
       "url": "https://open.spotify.com/track/532t3PDm0DCgFBtoM3Z7rH"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 192004,
       "name": "Dazzle",
       "url": "https://open.spotify.com/track/7wivunAmLKAfZ9j2fQrt31"
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 157500,
       "name": "Drizzle",
       "url": "https://open.spotify.com/track/7IZhsHj5WNHZXb036INzSe"
@@ -1888,6 +1888,24 @@
     },
     {
       "album": {
+        "name": "Hide Me",
+        "url": "https://open.spotify.com/album/6StMIiLIF66coXCGXZIWok"
+      },
+      "artists": [
+        {
+          "name": "Qommodity",
+          "url": "https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154568,
+      "name": "Hide Me",
+      "url": "https://open.spotify.com/track/3rH00yyUuY5QaCmr7TEimq"
+    },
+    {
+      "album": {
         "name": "High Places",
         "url": "https://open.spotify.com/album/0JdVqgqpgqsJEI2kaRF2ui"
       },
@@ -1957,6 +1975,24 @@
       "duration_ms": 194727,
       "name": "Honesty (remix)",
       "url": "https://open.spotify.com/track/4ee5oGHZjUw3vzr9vWaeJp"
+    },
+    {
+      "album": {
+        "name": "Household",
+        "url": "https://open.spotify.com/album/1My5RrUvVBgYMTdlDVCarf"
+      },
+      "artists": [
+        {
+          "name": "Pete LaCroix",
+          "url": "https://open.spotify.com/artist/02oVnpIPcBnM3aLWynbqpo"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Household",
+      "url": "https://open.spotify.com/track/3yLH7wNlK2iBrGWzMyvHvC"
     },
     {
       "album": {
@@ -2793,7 +2829,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 127714,
       "name": "Mellow Workday",
       "url": "https://open.spotify.com/track/0ykidTEReV77x9cUYoEUEt"
@@ -2919,10 +2955,28 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 164001,
       "name": "Mighty Might",
       "url": "https://open.spotify.com/track/2iDYpYIRq62fxZe9ELa7GV"
+    },
+    {
+      "album": {
+        "name": "Mind Massage",
+        "url": "https://open.spotify.com/album/3qhrSaDI24kXJhIcBS1K3a"
+      },
+      "artists": [
+        {
+          "name": "Phlo X",
+          "url": "https://open.spotify.com/artist/7wpjhdiboISbPKE8SBwCet"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144031,
+      "name": "Mind Massage",
+      "url": "https://open.spotify.com/track/1vFAE2GL7YqPalMDan8BN4"
     },
     {
       "album": {
@@ -3223,6 +3277,24 @@
       "duration_ms": 233294,
       "name": "Ocean Avenue",
       "url": "https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz"
+    },
+    {
+      "album": {
+        "name": "Ocean Waves",
+        "url": "https://open.spotify.com/album/3gkDYbiHQFES7zAdI2gbpV"
+      },
+      "artists": [
+        {
+          "name": "Ocean Waves",
+          "url": "https://open.spotify.com/artist/3iIXOS6cHowvBms5msvdJf"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139434,
+      "name": "Ocean Waves",
+      "url": "https://open.spotify.com/track/6Z8BFdxpHomsS388wpif8M"
     },
     {
       "album": {
@@ -3651,7 +3723,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 119914,
       "name": "Real space",
       "url": "https://open.spotify.com/track/5vaFORH4cfFX5z3qerjAVk"
@@ -3727,6 +3799,24 @@
       "duration_ms": 228484,
       "name": "Rhodes",
       "url": "https://open.spotify.com/track/2EFTZJN5orePrHn2k6Lsxe"
+    },
+    {
+      "album": {
+        "name": "Poolside",
+        "url": "https://open.spotify.com/album/5tkPyaVRCTnUwXozgKpvB8"
+      },
+      "artists": [
+        {
+          "name": "Gold Coast Microscopes",
+          "url": "https://open.spotify.com/artist/1cp4bfGnJTQ2JImmeBCzMu"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131973,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/36XEBgGn2zTURfa3yvKpNV"
     },
     {
       "album": {
@@ -4411,6 +4501,24 @@
       "duration_ms": 143406,
       "name": "spring",
       "url": "https://open.spotify.com/track/6mpcfOpE6QGqRKHlaJuRkP"
+    },
+    {
+      "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/7EWq0eegyBShBKHtAgFBak"
+      },
+      "artists": [
+        {
+          "name": "The Hooder",
+          "url": "https://open.spotify.com/artist/2GwSswDcepZ97m3Oa3onEI"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/62aTQ3i94Ho3xlB3sQzouy"
     },
     {
       "album": {
@@ -5243,6 +5351,24 @@
       "duration_ms": 114473,
       "name": "Venus Vacuum",
       "url": "https://open.spotify.com/track/0HymQuVijWULNPUvTgZmbx"
+    },
+    {
+      "album": {
+        "name": "views",
+        "url": "https://open.spotify.com/album/6tWK51CJJbUAsf1GZufE1R"
+      },
+      "artists": [
+        {
+          "name": "riddim bound",
+          "url": "https://open.spotify.com/artist/6XUR7Q1okdrm17EvNv9NKe"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132027,
+      "name": "views",
+      "url": "https://open.spotify.com/track/08mTqFMEMurVe2oEHOvLlo"
     },
     {
       "album": {

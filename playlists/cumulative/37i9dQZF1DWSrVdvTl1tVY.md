@@ -2,9 +2,9 @@
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> The biggest house bangers popping off in the UK, let's go! Cover: LF SYSTEM
+> The biggest house bangers popping off in the UK, let's go! Cover: Maur + Goodboys
 
-218 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
+222 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bring The Noise](https://open.spotify.com/track/4RqPqt3d3WfooOB0ZTW27h) | [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [Bring The Noise](https://open.spotify.com/album/2SkNReQaZLjRhsETr5POso) | 3:27 | 2022-02-07 | 2022-05-06 |
 | [Buccho Ni Ba Bhai \(Grindin'\)](https://open.spotify.com/track/6l4YeeXa8ptLDG1pFTialk) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Buccho Ni Ba Bhai \(Grindin’\)](https://open.spotify.com/album/1pymXwecUkhfq2alX9bCmS) | 2:36 | 2022-04-15 | 2022-05-06 |
 | [Bugging](https://open.spotify.com/track/0kg06i2G3b4NQIiXi8GEIA) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [FABER](https://open.spotify.com/artist/3flURQ5mXBE6GW0HsVwLH0) | [Bugging](https://open.spotify.com/album/4EQ3ZgKNrfaJVq2D3uOM98) | 3:09 | 2022-03-25 |  |
+| [Bumpin'](https://open.spotify.com/track/2JSRHxHfbteGcueRhfKtm7) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Bumpin'](https://open.spotify.com/album/4BtfgqdJz0qKvr7hHXAAmo) | 2:50 | 2022-06-02 |  |
 | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/track/54Yr0BPkVQ378IeCWnG91Q) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/album/6sWssLrwhCrk3kGjzwJ9ZV) | 3:06 | 2022-03-08 | 2022-03-10 |
 | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [High Jinx](https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64) | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW) | 3:16 | 2021-12-17 | 2022-02-08 |
 | [Calling](https://open.spotify.com/track/5NrecJDB0DefSkXKERjTFF) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Calling EP](https://open.spotify.com/album/0dDkU7N5EdbL9cernFdnKi) | 4:07 | 2021-12-17 | 2022-04-08 |
@@ -60,6 +61,7 @@
 | [Down \(feat\. Akua\)](https://open.spotify.com/track/7G1l8cG18odMvuDFczh1WH) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Akua](https://open.spotify.com/artist/3Y4VaqWeDWuLEHqB0s4Vmi) | [Down \(feat\. Akua\)](https://open.spotify.com/album/1c14Z3NLNcsPmU8P5xg4OO) | 2:38 | 2021-12-17 | 2022-01-07 |
 | [El Bombo](https://open.spotify.com/track/0Rv3tutzgSak1pTMXiV9p8) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [El Bombo](https://open.spotify.com/album/6mQ6RwM8fZTzzl9wgTr3sm) | 4:00 | 2022-04-01 |  |
 | [Eros](https://open.spotify.com/track/3HJr6Bql5OLIqMfg2qm990) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Eros](https://open.spotify.com/album/5JbjrwkXD1x8OWzaeONVXM) | 4:44 | 2021-12-17 | 2022-01-21 |
+| [Eventide in Orbit](https://open.spotify.com/track/3m1Z6IK6pCXs5jOydBlUAT) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Eventide in Orbit](https://open.spotify.com/album/0ZEzDscqxvp1Kp02aEtK8p) | 6:46 | 2022-06-02 |  |
 | [Everyday](https://open.spotify.com/track/3sxFCndpoAarDKjcrqfn9z) | [Ali Story](https://open.spotify.com/artist/4ek5ExkJLsIHouFsiQyPpx) | [Everyday](https://open.spotify.com/album/5GcplJMyNgTHCi0VV6v6xp) | 2:23 | 2022-04-29 |  |
 | [Everything Is Going To Be Alright](https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Everything Is Going To Be Alright](https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148) | 3:46 | 2021-12-17 | 2022-04-08 |
 | [Falling](https://open.spotify.com/track/6FYiUGWk4P8mDKUCj5m7ID) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Falling](https://open.spotify.com/album/4hgqGfVcXLabF9CVcGVD5q) | 3:44 | 2021-12-17 | 2022-01-21 |
@@ -150,6 +152,7 @@
 | [No Hoes](https://open.spotify.com/track/6TKBHKMYhBJwW49WhSPtQw) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [No Hoes](https://open.spotify.com/album/4VUGZUyBM3cLhUhtUdJmNn) | 6:43 | 2021-12-17 | 2022-01-21 |
 | [Off Limits](https://open.spotify.com/track/4rbprhajs0YAoGNKefuS77) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8) | [Off Limits](https://open.spotify.com/album/53L1l0dtLblkuQZ7KaQAEF) | 2:37 | 2021-12-17 | 2022-01-21 |
 | [Off My Mind](https://open.spotify.com/track/4tCY8lh8ocqqfac1sjXwvk) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Off My Mind](https://open.spotify.com/album/4xG8qqDIdxaqSzfeE2jG34) | 2:56 | 2021-12-17 | 2022-01-28 |
+| [Osmo](https://open.spotify.com/track/0a5BDMp06R0SVwH2WyQdnP) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [Can't Help U](https://open.spotify.com/album/6AGOWIKeILE1B7qEDM3yVz) | 3:42 | 2022-06-02 |  |
 | [Out The Door](https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Out The Door](https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y) | 3:06 | 2022-04-22 |  |
 | [Overtime](https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy) | [Jaded](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Overtime / Physically](https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED) | 2:48 | 2021-12-17 | 2022-03-12 |
 | [Papped \- Original Mix](https://open.spotify.com/track/0LuvHgMvXnGAqywivMEl0p) | [Cousn](https://open.spotify.com/artist/5Q13wCN8sU8MaboNCmBrbl) | [Papped](https://open.spotify.com/album/450aToqu3yrB55gotHDj7T) | 3:57 | 2021-12-17 | 2022-02-25 |
@@ -200,6 +203,7 @@
 | [The Lover That You Are](https://open.spotify.com/track/4B16mNWfuTPQ6aA72Vu3CL) | [APEXAPE](https://open.spotify.com/artist/5F9PcM3OP6dnHPGJ94t43L) | [The Lover That You Are](https://open.spotify.com/album/41oac0G3a2oqthosHQ3U1o) | 2:29 | 2021-12-17 | 2022-01-07 |
 | [The North Quarter](https://open.spotify.com/track/4PP6odxZOgVpqOsrMRDT9f) | [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [The North Quarter](https://open.spotify.com/album/3HZEsauqRQghvlO5RBf242) | 4:01 | 2021-12-17 | 2022-04-02 |
 | [The Sequel](https://open.spotify.com/track/3f0C4VBTbLlEsCyybHELPW) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [The Sequel](https://open.spotify.com/album/2tvps9wX8kLJebdFgvFVST) | 3:09 | 2022-03-08 | 2022-03-10 |
+| [This Beat](https://open.spotify.com/track/4onagusNvGUXp4OWSs13OM) | [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [This Beat EP](https://open.spotify.com/album/4SrNCRDDdBrzXI5ggewHcJ) | 2:56 | 2022-06-02 |  |
 | [This Feeling](https://open.spotify.com/track/6lQw8YVh9sXbzcOBzyQPmK) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [This Feeling](https://open.spotify.com/album/48tb5NDXMlVci0v01LyRus) | 3:14 | 2022-01-28 | 2022-03-25 |
 | [Tighter \(feat\. Jalja\) \- CamelPhat Remix](https://open.spotify.com/track/3PGvcGU10IzjiSA96A2GcO) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs), [Jalja](https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Tighter \(feat\. Jalja\) \[CamelPhat Remix\]](https://open.spotify.com/album/7Kv9Cpvd2BWwMkiGqMxfUI) | 3:54 | 2021-12-17 | 2022-01-07 |
 | [To Be Heard \- Edit](https://open.spotify.com/track/1VKJM0sZThLrMoBcbqnPy1) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [To Be Heard \(Edit\)](https://open.spotify.com/album/2Yb8bZElygyed6glkg58vD) | 3:49 | 2022-05-27 |  |

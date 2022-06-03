@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> New Hip\-Hop from independent artists & labels every Wednesday\. Cover: TyFontaine
+> New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Joony
 
 361 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
 

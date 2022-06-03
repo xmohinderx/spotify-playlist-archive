@@ -4,7 +4,7 @@
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-284 songs - 16 hr 22 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+285 songs - 16 hr 25 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Runaway](https://open.spotify.com/track/1tGp9fmzBiKO2gd6t9Z10u) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Joseph Feinstein](https://open.spotify.com/artist/7ahEpNiwqIG5GJ3NkfHt1L) | [Runaway](https://open.spotify.com/album/5cQ4Evvj4ayOGlLMh6afF0) | 2:33 | 2021-01-19 | 2021-03-06 |
 | [Running Away](https://open.spotify.com/track/4w9VvLlJlJ1ZBGXOkBu0UC) | [Sonnengruss](https://open.spotify.com/artist/1ZhvuoFAmQ93bqmF4UKNTR) | [Running Away](https://open.spotify.com/album/1JTWhRbwhjA7CT7q5QfrOe) | 3:03 | 2020-12-01 | 2021-03-06 |
 | [Running the Way I Do](https://open.spotify.com/track/4pL05Dz5YkxNAGDU2vqn9Q) | [Arpad](https://open.spotify.com/artist/5GBl1D2wTdYnNbmOVBfl87), [CLOSR](https://open.spotify.com/artist/1QIjx8SUfvxycTLJGoxww3) | [Running the Way I Do](https://open.spotify.com/album/5grTgNNGc5pKtcNSkMz5vG) | 2:14 | 2021-08-14 |  |
+| [Rush](https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Rush](https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI) | 3:07 | 2022-06-02 |  |
 | [Sad in Scandinavia](https://open.spotify.com/track/5e3bm51VAf4zGf6Y6LaFy0) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Sad in Scandinavia](https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA) | 3:24 | 2021-03-06 | 2021-06-26 |
 | [Same Things \(feat\. Gabrielle Current\)](https://open.spotify.com/track/4PhYoXDqSjAKYw4aSfIBJJ) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Gabrielle Current](https://open.spotify.com/artist/7efkoQb7dW8884GCnykYKW) | [Same Things \(feat\. Gabrielle Current\)](https://open.spotify.com/album/0TqzLl5tg7lsMrgwHl1g0x) | 3:54 | 2020-09-13\* | 2021-03-06 |
 | [Saturday Night](https://open.spotify.com/track/1SWC2QO7JQJdRH7QqFy3vl) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Saturday Night](https://open.spotify.com/album/6DcRUK41ymZ8yTNuzZJ8NV) | 2:40 | 2021-03-26 |  |

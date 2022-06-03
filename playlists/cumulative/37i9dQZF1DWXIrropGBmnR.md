@@ -4,7 +4,7 @@
 
 > Calm and soothing strings for sleeping.
 
-75 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/3Z0IuotzjWfeTQs2UgGRVV)
+77 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/3Z0IuotzjWfeTQs2UgGRVV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Monograph](https://open.spotify.com/track/1BwRS8CwrK6UDegEmG1p3K) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Echoes](https://open.spotify.com/album/0UfVxKV6IKokR2drwFMDii) | 2:27 | 2022-01-06 |  |
 | [Mountain Air](https://open.spotify.com/track/54LsIqgJOq467bsDXbiWmQ) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Inertia](https://open.spotify.com/album/3xndhuJEb6m6IkSMMJ6myo) | 3:33 | 2022-01-06 |  |
 | [Moviente](https://open.spotify.com/track/350a3WXUZomHtuJE7CZE5n) | [Cuarteto El Huenoa](https://open.spotify.com/artist/5xDfmx38ewoEqGS9Yqg0fh) | [Moviente](https://open.spotify.com/album/2zeMdNMdmCJieRB9EOUYzA) | 1:58 | 2022-01-06 |  |
+| [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/0L51mBkDmhgzIUvRtogtGw) | 5:34 | 2022-06-03 |  |
 | [Nine Times around the Heart](https://open.spotify.com/track/5KEhwMi5xD7HxfoXe0iPM7) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Nocturne in Green](https://open.spotify.com/album/7KqJAgIwlqINIVJzeg00KN) | 2:57 | 2022-01-06 |  |
 | [Nueva Palmira](https://open.spotify.com/track/0tIAcKnDwJCR1Miow9mqPM) | [Slowdonia](https://open.spotify.com/artist/5YItXypIuZXhnxRE7MRePn) | [Slowdonia EP](https://open.spotify.com/album/5umKaMh59FuSvZi2FFtK4s) | 1:28 | 2022-01-06 |  |
 | [Placid Minds](https://open.spotify.com/track/62NuL99XSrl7IC1lEAAtKi) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Placid Minds](https://open.spotify.com/album/0SGfPPdJ7Azwx3rSDv6Z1f) | 2:42 | 2022-01-06 |  |
@@ -79,6 +80,7 @@
 | [The Distance](https://open.spotify.com/track/0Dz5F370dENsaTc8TL9fK2) | [John Henriksson](https://open.spotify.com/artist/0vd7h6G1xC8QyRvj7oJjij) | [Study Music \(The Piano Collection\)](https://open.spotify.com/album/1mQwDf7pyR3htQD1GaICrg) | 2:35 | 2022-01-06 |  |
 | [The Joys And Sorrows Of Life](https://open.spotify.com/track/35YpO013e4j2ysgIsBpf6N) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Echoes](https://open.spotify.com/album/0UfVxKV6IKokR2drwFMDii) | 2:47 | 2022-01-06 |  |
 | [The Second Moon](https://open.spotify.com/track/4sX9jVZrUiYAJmzKsezBpu) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Cumulus Motion](https://open.spotify.com/album/7iEuYy67Zb83EwSTZcWS7O) | 3:29 | 2022-01-06 |  |
+| [The Waiting Room](https://open.spotify.com/track/4NlKazw9AJdSWSBOPIXWEk) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Daisuke Tanabe](https://open.spotify.com/artist/2xQI5A9WmqrOPYdfl23MCM) | [The Waiting Room](https://open.spotify.com/album/3nSD3Cuw5po5hz0hqPhBp1) | 2:18 | 2022-06-03 |  |
 | [To Capture The Infinite](https://open.spotify.com/track/0hrTFLbtNvhe5X8b40DVOC) | [5th Dimension String Quartet](https://open.spotify.com/artist/0fd2h7Ve7ZDxWFW00AjxqL) | [To Capture The Infinite](https://open.spotify.com/album/1d8nHTu03NrgdX7KtwmNHk) | 2:47 | 2022-01-06 |  |
 | [Torn Apart](https://open.spotify.com/track/0v7PpG98TDickF5DL15Dj5) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 3:00 | 2022-01-06 |  |
 | [Transition](https://open.spotify.com/track/00Jh6031MKpE5nunLJzvyM) | [Elora Bonilla](https://open.spotify.com/artist/5ytoulK1Bp6GLoU6VWs0Nr) | [Transition](https://open.spotify.com/album/0P61A45wt4xVVneycMqdyp) | 2:55 | 2022-01-06 |  |

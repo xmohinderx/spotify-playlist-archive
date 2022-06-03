@@ -4,16 +4,18 @@
 
 > The perfect score to accompany your literary quest.
 
-75 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+79 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [41 clicks from the sun](https://open.spotify.com/track/4Xyad4CWpgBh2jxzeNeqte) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Behind the Moon](https://open.spotify.com/album/7GuaIT8ZRZ5e2vmvxIzRv7) | 3:21 | 2022-03-09 |  |
 | [A Time for us \- From "Romeo and Juliet"](https://open.spotify.com/track/6ptRBpwCgFApJ4wUl7FJm3) | [La Brea String Section](https://open.spotify.com/artist/5lmdoRvaahCuAxehsBDpH4) | [Chi Mai](https://open.spotify.com/album/2h1nRHyChouLMvQhHgykK6) | 3:35 | 2022-03-09 |  |
+| [Abendruhe](https://open.spotify.com/track/78rnp2gjXUMTxTCL546pWY) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Zauchensee](https://open.spotify.com/album/4G5j00B5FgozGgqpgyA0Ay) | 2:48 | 2022-06-03 |  |
 | [Adam and Meshell](https://open.spotify.com/track/2lkuN8OSDJ1EnVPPsHdMOc) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Adam and Meshell](https://open.spotify.com/album/1idAqCkBhL5Ijhp76BEwfX) | 2:47 | 2022-05-20 |  |
 | [After the Storm](https://open.spotify.com/track/5NOfvyC7EmTHLlM8jCnDYr) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Echo](https://open.spotify.com/album/4B2lXu2ZUFvgzJt6s7hPY1) | 2:56 | 2022-03-09 |  |
 | [Aléatoire](https://open.spotify.com/track/2eHtBGvfD7PD7SiTl52Vxr) | [Darker In Vine](https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg) | [Aléatoire](https://open.spotify.com/album/7KA3DTbG22n9hPSSV3YruJ) | 2:58 | 2022-03-09 |  |
 | [Are We Safe Here?](https://open.spotify.com/track/5OeLXyhjckLq6w8l6skNcP) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/45vmEN7UhIUPAYAXoPJzlW) | 2:31 | 2022-03-09 |  |
+| [Awakened Dream](https://open.spotify.com/track/7LojpF7q06ijTdp1I4Bwvh) | [Franki Love](https://open.spotify.com/artist/5mDUumCBWXr3v5EXqTYwpY) | [The Moon](https://open.spotify.com/album/0oCRWE9MmAu1lLXtVP4rZi) | 3:02 | 2022-06-03 |  |
 | [Bathsheba and Oak Unite](https://open.spotify.com/track/5EdYF3AG4xOETuvBHukWZn) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 1:35 | 2022-03-09 |  |
 | [Berlin in the Spring](https://open.spotify.com/track/4NENWUAP1fsHXox2icF2nh) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [My Head In The Clouds](https://open.spotify.com/album/0udR5qJBKSa1JdHtqWueN7) | 2:48 | 2022-05-27 |  |
 | [Bonnie at Morn \- Amy's](https://open.spotify.com/track/7AOd1tPuzk4OixBPGJFp9k) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Jackie Moran](https://open.spotify.com/artist/7n7z1ZyAvXU0Hzy5Afawri), [Ensemble Galilei](https://open.spotify.com/artist/38xsbLMXenDwkPP8SPAAV6) | [From Whence We Came](https://open.spotify.com/album/21XKiwC8lWeMl58vLKf8NP) | 6:49 | 2022-03-09 |  |
@@ -52,7 +54,9 @@
 | [Moon Runes \- Extended Version](https://open.spotify.com/track/0EUpzQP8Ni647J0hPXAclB) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit: An Unexpected Journey \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/78al1cFOvo6eGowGidkRG5) | 3:39 | 2022-03-09 |  |
 | [Moonlight Prayer \- Piano & Strings](https://open.spotify.com/track/1CqSw1Rynu35M4EhqCh4xE) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN), [Francois Mathian](https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX) | [Moonlight Prayer](https://open.spotify.com/album/2xZAp8HYapMLx6HtA2i31r) | 3:03 | 2022-05-20 |  |
 | [My Head In The Clouds](https://open.spotify.com/track/11dmZhwlQtVxuIN6qp0i7G) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [My Head In The Clouds](https://open.spotify.com/album/0udR5qJBKSa1JdHtqWueN7) | 2:30 | 2022-05-27 |  |
+| [My Son](https://open.spotify.com/track/3wtpKMUkSiZPDRH5vxYLmz) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [My Son](https://open.spotify.com/album/2adunymdxS0IP1zEhYzLXr) | 1:58 | 2022-06-03 |  |
 | [Now Is The Time To Leave](https://open.spotify.com/track/2RbeJPjEW9kcoFVmiQabnU) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/45vmEN7UhIUPAYAXoPJzlW) | 2:08 | 2022-03-09 |  |
+| [Okinawa River](https://open.spotify.com/track/5XWOjKm9uFZC5dpUXMhi26) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [Okinawa River](https://open.spotify.com/album/5P43AVNHUMn67YpTJi42ZY) | 2:23 | 2022-06-03 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/00BHa28nUX4B9U8BGeacqx) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Once in a Lifetime](https://open.spotify.com/album/5oFBExdi3Xlfy4eMTdO9QE) | 2:37 | 2022-03-09 |  |
 | [Ondulante](https://open.spotify.com/track/0eDBnFUrIsOq7wf2d7vvr0) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Ambientalismo](https://open.spotify.com/album/150OGcG307oqzZadHxUcQH) | 3:00 | 2022-03-09 |  |
 | [Papuk](https://open.spotify.com/track/54eSAFrT7YqBxitvqZJIgc) | [Julian Luger](https://open.spotify.com/artist/6PxHwSZFaidQkagrCE3LlA) | [Pool of Thoughts](https://open.spotify.com/album/082ENN7CJl15GNseXv8B2F) | 2:06 | 2022-03-09 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-872 songs - 2 day 0 hr 37 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
+873 songs - 2 day 0 hr 40 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-05-28 | 2022-02-01 |
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-08-31 | 2021-09-04 |
 | [Believers](https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Believers](https://open.spotify.com/album/74KEYV3bI7VYVw8rZbITEB) | 2:39 | 2021-05-16 | 2021-05-23 |
+| [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-06-02 |  |
 | [Belly, The Weeknd \- Die For It \(ft\. Nas\)](https://open.spotify.com/track/2Nc1v8I86FUGorwjXKo0in) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [See You Next Wednesday](https://open.spotify.com/album/7jJsNB4u538DpyZckBEKsB) | 3:19 | 2021-08-29 | 2021-08-30 |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-13 |
 | [Bezos I](https://open.spotify.com/track/0Kdj7nwaYQmvhxnqZaIQuW) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 0:58 | 2021-07-22 | 2021-08-08 |
@@ -359,7 +360,7 @@
 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 | 2022-05-21 | 2022-05-25 |
 | [Keep My Spirit Alive](https://open.spotify.com/track/4IlOyxGATYUp7YVy5zrSW8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:41 | 2021-08-31 | 2021-09-02 |
 | [Kelle mä soitan](https://open.spotify.com/track/0JaJLSes2LpFGit36B7tzm) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Kelle mä soitan](https://open.spotify.com/album/3R7nm9NVIywVa00oOyIFo3) | 3:05 | 2021-03-27\* | 2021-05-23 |
-| [Kendo Anthem](https://open.spotify.com/track/0UMyH8Nd9kQI6UbMgmFgGj) | [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M) | [Isänpäivä](https://open.spotify.com/album/44wWP2jqL8yNuuqAm9TdJT) | 3:38 | 2022-05-30 |  |
+| [Kendo Anthem](https://open.spotify.com/track/0UMyH8Nd9kQI6UbMgmFgGj) | [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M) | [Isänpäivä](https://open.spotify.com/album/44wWP2jqL8yNuuqAm9TdJT) | 3:38 | 2022-05-30 | 2022-06-03 |
 | [Kerran elämässä](https://open.spotify.com/track/0IXxz2S0xirSulyCCkmMdU) | [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Kerran elämässä](https://open.spotify.com/album/4wuuqlmxNh9Aicg2uNuzkD) | 3:51 | 2021-05-09 | 2021-05-15 |
 | [Kerran kuussa](https://open.spotify.com/track/124RMhpaLnIUpRqYZDYwGx) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Älä pelkää elämää](https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo) | 4:25 | 2021-09-12 | 2021-09-20 |
 | [Kesken](https://open.spotify.com/track/1rv6MexjciSFCGVbLNxrHh) | [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Kesken](https://open.spotify.com/album/0MsTy2l9S3AWFAqaDMe1t8) | 3:34 | 2021-10-10 | 2021-11-28 |

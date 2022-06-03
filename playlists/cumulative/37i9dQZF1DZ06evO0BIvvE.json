@@ -488,6 +488,24 @@
     },
     {
       "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/7C5aOmsPLgSPGdmy0kpS2I"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243973,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/1Wi8nthUJS4cXyXpMnauyH"
+    },
+    {
+      "album": {
         "name": "Let 'Em In",
         "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
       },
@@ -607,7 +625,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 319240,
       "name": "Magic Carpet Ride",
       "url": "https://open.spotify.com/track/160J6uDzOUJpDRGWUgHhsm"
@@ -809,7 +827,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 283640,
       "name": "So Glad To See You Again",
       "url": "https://open.spotify.com/track/62GCvbMTDVwEdJ6W5T1ubs"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 267626,
       "name": "There's A Small Hotel",
       "url": "https://open.spotify.com/track/7FGt4gse7OaulLWaxcIoBe"

@@ -4,7 +4,7 @@
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Chappaqua Wrestling
 
-502 songs - 1 day 3 hr 2 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+503 songs - 1 day 3 hr 5 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-01-28 | 2022-04-02 |
 | [Share Ur Feelings](https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Share Ur Feelings](https://open.spotify.com/album/7g7rYAQQ0qMQNarD8fMh7X) | 3:00 | 2022-05-06 | 2022-05-28 |
 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2021-11-19 | 2022-03-12 |
+| [She's Got A Gun](https://open.spotify.com/track/5MwfXcLUoVrPqpkPGw0Heb) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [She's Got A Gun](https://open.spotify.com/album/1xpaj8z0Fu1C3U5pZvp0Kl) | 3:03 | 2022-05-27 |  |
 | [She’s So Precious](https://open.spotify.com/track/44ljRebaWb3A4jVeTGlx3U) | [Thom Southern](https://open.spotify.com/artist/3YGkI2PubCC6INbbtcpglJ) | [She’s So Precious](https://open.spotify.com/album/224T0FX77GpuQah5b49Yya) | 3:09 | 2022-01-07 | 2022-03-18 |
 | [Shockwave](https://open.spotify.com/track/19xegamOXWHUg3YdibYfRi) | [Gurldoll](https://open.spotify.com/artist/5Z7kHNbidvMGfdngueATFE) | [Shockwave](https://open.spotify.com/album/39YL5TUKANLWh4s5QtuSU0) | 3:17 | 2022-01-07 | 2022-02-12 |
 | [Shooting Star \(feat\. Sum 41\)](https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Last Day On Earth](https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1) | 2:18 | 2022-04-08 |  |

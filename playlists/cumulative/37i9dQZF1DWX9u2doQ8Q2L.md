@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-75 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+76 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [bag on you](https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [bag on you](https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg) | 2:24 | 2022-05-26 |  |
 | [BLUEMOON](https://open.spotify.com/track/37kvXE6pY1XzSW74q7yWdT) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [empath](https://open.spotify.com/album/7vNnPAKcr9QyuVDRdxrXz8) | 3:40 | 2022-05-26 |  |
 | [Candle Light](https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 | 2022-05-26 |  |
+| [comedy](https://open.spotify.com/track/3eLopqgxulNGjdgBVPCmvW) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0WAltRUelTPVhbvhJCIF6d) | 3:36 | 2022-06-02 |  |
 | [Cooking](https://open.spotify.com/track/2FwuFgWAR33gH8P2TlYFT6) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [artless](https://open.spotify.com/album/5Hz2EK3klZBI9sjh1j65Jx) | 4:10 | 2022-05-26 |  |
 | [Draw Me \(feat\. VivaOla\)](https://open.spotify.com/track/7kuuBMGV8Y4BLmjF5LLAV1) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Draw Me \(feat\. VivaOla\)](https://open.spotify.com/album/1D5JPBryEXZFilbWtSbnS8) | 2:33 | 2022-05-26 |  |
 | [Dreamland](https://open.spotify.com/track/3ORCCabyenbxmsV0QacO8M) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [Dreamland](https://open.spotify.com/album/4vNdN9jMsAr8VIyLh8OYde) | 3:10 | 2022-05-26 |  |
@@ -61,7 +62,7 @@
 | [まつり](https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [まつり](https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5) | 3:45 | 2022-05-26 |  |
 | [パラドックス](https://open.spotify.com/track/1hgVGz9OOckTZSWLBECAHx) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/53VEqiQkkbIbRXr6JfLGW9) | 3:24 | 2022-05-26 |  |
 | [プレ・ロマンス](https://open.spotify.com/track/1NLajpAmlLrh5OlnJpA2W4) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [SASUKE](https://open.spotify.com/artist/7jwE5FqGmCoX2l5HYaLfkP) | [プレ・ロマンス](https://open.spotify.com/album/6G4IcMO9mMKRMFP0Y5XIYj) | 3:36 | 2022-05-26 |  |
-| [メニュウ](https://open.spotify.com/track/7aW0GKhmgHV6S0wFdpSqOc) | [田中タリラ](https://open.spotify.com/artist/1xQC7gNhUDSY1IfQvF8fou) | [メニュウ](https://open.spotify.com/album/1vpa6YULMwOolLTOvrfbQC) | 2:10 | 2022-05-26 |  |
+| [メニュウ](https://open.spotify.com/track/7aW0GKhmgHV6S0wFdpSqOc) | [田中タリラ](https://open.spotify.com/artist/1xQC7gNhUDSY1IfQvF8fou) | [メニュウ](https://open.spotify.com/album/1vpa6YULMwOolLTOvrfbQC) | 2:10 | 2022-05-26 | 2022-06-03 |
 | [卑弥呼](https://open.spotify.com/track/3TEVu2fI0WZJmug0xuY6PP) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:07 | 2022-05-26 |  |
 | [君のFlavor feat\. 磯野くん \(YONA YONA WEEKENDERS\)](https://open.spotify.com/track/02efWP5LqFY0FvzxoZ14VJ) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [磯野くん](https://open.spotify.com/artist/48UwOs44kquyWN7FoUZCTG) | [君のFlavor feat\. 磯野くん \(YONA YONA WEEKENDERS\)](https://open.spotify.com/album/69oBKwavCpQBOGiuHDYzZY) | 3:26 | 2022-05-26 |  |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-05-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4aaDnIu6X4bZwMQ2yc4YAg">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 48 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 28 | [Mean To Me](https://open.spotify.com/track/0UzuBW8HXoez3hmI1AoN3J) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:01 |
 | 29 | [Same Team](https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Same Team](https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs) | 2:54 |
 | 30 | [Power Suit](https://open.spotify.com/track/09dlKExc85wtU719kpctK4) | [Caroline Romano](https://open.spotify.com/artist/1MgbE6bu4MzbVLfAesPRol) | [Power Suit](https://open.spotify.com/album/58od0srS1llhodqjGlFup8) | 2:18 |
-| 31 | [I'm Sorry](https://open.spotify.com/track/3TOIDYFbn2NJYZhUHW4Q6j) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:43 |
-| 32 | [8 Months](https://open.spotify.com/track/34FV8dxL8QyrVgRPzB6Qzf) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [8 Months](https://open.spotify.com/album/78e0sWg0gWKZ9UaQmb6ZlT) | 2:40 |
+| 31 | [8 Months](https://open.spotify.com/track/34FV8dxL8QyrVgRPzB6Qzf) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [8 Months](https://open.spotify.com/album/78e0sWg0gWKZ9UaQmb6ZlT) | 2:40 |
+| 32 | [I'm Sorry](https://open.spotify.com/track/3TOIDYFbn2NJYZhUHW4Q6j) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:43 |
 | 33 | [Never Now](https://open.spotify.com/track/2gSFr15E0Mv4cI6dhZJLWs) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Never Now](https://open.spotify.com/album/4k7wUy1wwoaIRvkMbbekNu) | 3:32 |
 | 34 | [Outdoor Voices](https://open.spotify.com/track/57JCpf5iUwSLpdQxe9ORWb) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:00 |
 | 35 | [Trust Issues](https://open.spotify.com/track/0MdlrWJAGxGXEC4qQCEZHP) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Thank you for your patience.](https://open.spotify.com/album/2OkKCOuivjuzskcq7kqDNB) | 3:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 59 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 60 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `Mjc1Njg4MjUsMDAwMDAwMDBlNzJkY2ExNzU0ZmI5MDY2M2M5ZmQ1MmQyYWRlNjgzYg==`
+Snapshot ID: `Mjc1NzAyNjQsMDAwMDAwMDA5ZDgwNzRkN2M4ODc3MzFkYTFhYWVmMDEzOGY3ZmQ4Yg==`

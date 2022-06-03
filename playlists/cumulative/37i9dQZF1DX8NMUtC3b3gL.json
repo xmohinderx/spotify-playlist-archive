@@ -584,6 +584,24 @@
     },
     {
       "album": {
+        "name": "Libraries",
+        "url": "https://open.spotify.com/album/60Xk6zBOW5pyniet9nzjQ3"
+      },
+      "artists": [
+        {
+          "name": "Somebodi",
+          "url": "https://open.spotify.com/artist/3JxE7ivtgjlIeuU5Hz2Oyt"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/1MigtSyEza4JpqoIUyGOjr"
+    },
+    {
+      "album": {
         "name": "Essence",
         "url": "https://open.spotify.com/album/0ufT8iY30Fvqvr5DAU8LOw"
       },
@@ -683,6 +701,24 @@
       "duration_ms": 112500,
       "name": "Frankie",
       "url": "https://open.spotify.com/track/6t6FeY6tESJeedpgsYS6jD"
+    },
+    {
+      "album": {
+        "name": "FREEDOM",
+        "url": "https://open.spotify.com/album/3sJMcTNveJofYUhPNE8YEn"
+      },
+      "artists": [
+        {
+          "name": "Jazzy James",
+          "url": "https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152695,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/0c6ZSEvZYzj8MfBdzeDYn0"
     },
     {
       "album": {
@@ -928,6 +964,28 @@
     },
     {
       "album": {
+        "name": "Melrose",
+        "url": "https://open.spotify.com/album/3tFXWxrKuIJFYu9iTTywXa"
+      },
+      "artists": [
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        },
+        {
+          "name": "Deauxnuts",
+          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102857,
+      "name": "Melrose",
+      "url": "https://open.spotify.com/track/0Rgl3ZlwYRIqBXnlpswWTM"
+    },
+    {
+      "album": {
         "name": "modernity",
         "url": "https://open.spotify.com/album/1a097dX7Qga2xW0hQuYeXi"
       },
@@ -957,7 +1015,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 97824,
       "name": "Morning Glow",
       "url": "https://open.spotify.com/track/03UKH7unkeOer6mbroB56Q"
@@ -1495,7 +1553,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 162666,
       "name": "Stop Flexing",
       "url": "https://open.spotify.com/track/4a3joydfGpY44IWuu9QU6D"
@@ -1669,7 +1727,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 132260,
       "name": "tomorrow, 2 am",
       "url": "https://open.spotify.com/track/1AjIq7D644IjbeekXoe64u"
@@ -1745,6 +1803,24 @@
       "duration_ms": 137047,
       "name": "Vivid Awake",
       "url": "https://open.spotify.com/track/1b1hS6FnAx5rJE0i17S187"
+    },
+    {
+      "album": {
+        "name": "Why not",
+        "url": "https://open.spotify.com/album/5j19PHYXoycyjhMWLzeSoI"
+      },
+      "artists": [
+        {
+          "name": "Lunatic Sad",
+          "url": "https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123902,
+      "name": "Why not",
+      "url": "https://open.spotify.com/track/26L3JrgqwhpEYS3PYZBEjw"
     },
     {
       "album": {

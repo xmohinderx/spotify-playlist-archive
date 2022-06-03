@@ -1965,8 +1965,8 @@
       },
       "artists": [
         {
-          "name": "sean",
-          "url": "https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C"
+          "name": "Sean",
+          "url": "https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz"
         },
         {
           "name": "L\u1eeda",
@@ -2015,6 +2015,24 @@
       "duration_ms": 173130,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/1CUcTgpZKuqTmnQmzkigdd"
+    },
+    {
+      "album": {
+        "name": "FAM",
+        "url": "https://open.spotify.com/album/3LOzSBVZ966wWiOoqa5XFY"
+      },
+      "artists": [
+        {
+          "name": "LOPE PHAM",
+          "url": "https://open.spotify.com/artist/3n56g8JEOhO9CwLHpfWgie"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124806,
+      "name": "FAM",
+      "url": "https://open.spotify.com/track/5Tsd2blCKV8rw3QiAzXqSD"
     },
     {
       "album": {
@@ -3349,7 +3367,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 160000,
       "name": "L\u01b0\u1edbt",
       "url": "https://open.spotify.com/track/1lRej5GYb8SahBRQBCyizC"
@@ -3371,7 +3389,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 248371,
       "name": "L\u1ea1c Ki\u1ebfp",
       "url": "https://open.spotify.com/track/2Do24GpN5xVFr9I3gtCzuT"
@@ -5211,7 +5229,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 210219,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/5gR2JRytrOByeK46j6htig"
@@ -5748,6 +5766,32 @@
     },
     {
       "album": {
+        "name": "Th\u1eddi Ni\u00ean Thi\u1ebfu Ta \u0110\u00e3 T\u1eebng",
+        "url": "https://open.spotify.com/album/6KXiWoMJsuw1eYiDfenMQi"
+      },
+      "artists": [
+        {
+          "name": "Sean",
+          "url": "https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz"
+        },
+        {
+          "name": "X\u00e1m",
+          "url": "https://open.spotify.com/artist/0RidbITP912tB7Nm85bebv"
+        },
+        {
+          "name": "LUNY",
+          "url": "https://open.spotify.com/artist/7oqfBry2GPU5vnXNH2f5Sd"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223840,
+      "name": "Th\u1eddi Ni\u00ean Thi\u1ebfu Ta \u0110\u00e3 T\u1eebng",
+      "url": "https://open.spotify.com/track/6RzUouT4JGK3qqpsxAWyIL"
+    },
+    {
+      "album": {
         "name": "Th\u1ee7 Ng\u1eef",
         "url": "https://open.spotify.com/album/56Drw3ouXaBFH4obIdVovh"
       },
@@ -6187,7 +6231,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 235866,
       "name": "Versace Girl",
       "url": "https://open.spotify.com/track/3u9ToBmpg69G5jKwaP2azm"
@@ -6495,6 +6539,28 @@
       "duration_ms": 192533,
       "name": "Y\u00eau Hay Y\u00eau",
       "url": "https://open.spotify.com/track/1uFeJgZPCifyJjW9CCXrXh"
+    },
+    {
+      "album": {
+        "name": "Y\u00eau M\u1ed7i Em",
+        "url": "https://open.spotify.com/album/1LV63vZb1VkJ9ngbCnCIKt"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3c N\u00e2u",
+          "url": "https://open.spotify.com/artist/3bFCDFiTz8uVUhdaepE5Mo"
+        },
+        {
+          "name": "Freaky",
+          "url": "https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192258,
+      "name": "Y\u00eau M\u1ed7i Em (feat. Freaky)",
+      "url": "https://open.spotify.com/track/6aYqImJRj7acWqmiMv4iAn"
     },
     {
       "album": {
@@ -6949,6 +7015,28 @@
       "duration_ms": 216561,
       "name": "\u0110\u01b0\u1eddng V\u1eabn C\u00f2n D\u00e0i",
       "url": "https://open.spotify.com/track/5dkMPrtwjnRzAtE6gMnwK6"
+    },
+    {
+      "album": {
+        "name": "\u0110\u1ea7u To",
+        "url": "https://open.spotify.com/album/6ECnLHuvUXhu331tIyD1eS"
+      },
+      "artists": [
+        {
+          "name": "Linh Th\u1ed9n",
+          "url": "https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq"
+        },
+        {
+          "name": "A.C Xu\u00e2n T\u00e0i",
+          "url": "https://open.spotify.com/artist/4cXmPRr3FNM39g79G2IovE"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183092,
+      "name": "\u0110\u1ea7u To",
+      "url": "https://open.spotify.com/track/31HwayLskRLAbNRISnylKt"
     },
     {
       "album": {

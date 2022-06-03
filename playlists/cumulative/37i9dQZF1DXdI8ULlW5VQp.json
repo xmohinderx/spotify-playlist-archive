@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. En portada: Jorge Drexler.",
+  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Lauri Garc\u00eda en portada.",
   "name": "Cantamores",
   "published_playlist_ids": [
     "7uQBD2uEj9JYWsbOq2NLVj"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 211300,
       "name": "Antagonista",
       "url": "https://open.spotify.com/track/3ctIQ7ZOSwMtejlOKtGMbU"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 145897,
       "name": "Como una Obra de Arte",
       "url": "https://open.spotify.com/track/4oqfGsqaAhxk0ZnWKTO4Ug"
@@ -399,6 +399,24 @@
       "duration_ms": 220073,
       "name": "creo que todo estar\u00e1 bien",
       "url": "https://open.spotify.com/track/1s85LXbICacrdeMlFAG8st"
+    },
+    {
+      "album": {
+        "name": "CTM",
+        "url": "https://open.spotify.com/album/2uPSSgrnh2KDGsfhxUWzJC"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "CTM",
+      "url": "https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO"
     },
     {
       "album": {
@@ -1276,6 +1294,28 @@
     },
     {
       "album": {
+        "name": "Esencial (En Vivo)",
+        "url": "https://open.spotify.com/album/6KpqTOBOSlypz3j3ZsP3zu"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Karin B.",
+          "url": "https://open.spotify.com/artist/0bjRjeUe0JxWX6s8sxnZsc"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219265,
+      "name": "Ojos Tristes (feat. Karin B.) - Sesi\u00f3n En Vivo",
+      "url": "https://open.spotify.com/track/3wASVtmroZS4SKosTe06s1"
+    },
+    {
+      "album": {
         "name": "Otra Noche en L.A.",
         "url": "https://open.spotify.com/album/7aUBwzyc4bnGBDD3elUh3U"
       },
@@ -1421,7 +1461,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 175000,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/2HmUSWGHTsSFg8vGfJ9Y3V"
@@ -1450,6 +1490,24 @@
     },
     {
       "album": {
+        "name": "Recuerdo",
+        "url": "https://open.spotify.com/album/0Yyill6hXJgajirOCDuGrT"
+      },
+      "artists": [
+        {
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209200,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/5nv8yhA2ySKUxofQ3Ei1er"
+    },
+    {
+      "album": {
         "name": "Respirar",
         "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
       },
@@ -1465,6 +1523,24 @@
       "duration_ms": 199080,
       "name": "Respirar",
       "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
+    },
+    {
+      "album": {
+        "name": "Retrato",
+        "url": "https://open.spotify.com/album/7eI2NAvOwa8O8CtnBARs3A"
+      },
+      "artists": [
+        {
+          "name": "Lezlie",
+          "url": "https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161981,
+      "name": "Retrato",
+      "url": "https://open.spotify.com/track/0SYLZU1RhHaVBZO2cv9SQ3"
     },
     {
       "album": {
@@ -1831,6 +1907,24 @@
       "duration_ms": 242416,
       "name": "Vidas Pasadas",
       "url": "https://open.spotify.com/track/3Suw3wnyl5lMOVQchSqcCp"
+    },
+    {
+      "album": {
+        "name": "Vienen Y Van",
+        "url": "https://open.spotify.com/album/4mItIB7t3BKjoSUXx9odyS"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181808,
+      "name": "Vienen Y Van",
+      "url": "https://open.spotify.com/track/5oWh8d5vckVbBuO7Udcgo8"
     },
     {
       "album": {

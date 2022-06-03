@@ -4,7 +4,7 @@
 
 > Songs to make your Zumba workout extra fun.
 
-51 songs - 3 hr 15 min - not published yet
+51 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/2C6B2vVS9AIjUempbtKvKk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

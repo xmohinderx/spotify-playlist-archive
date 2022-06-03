@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kevni",
+  "description": "Les hits dancehall du moment. Photo : Bamby",
   "name": "Dancehall Station",
   "published_playlist_ids": [
     "5EUHHXJOLrkgmRGE7o9Fvs"
@@ -236,6 +236,28 @@
     },
     {
       "album": {
+        "name": "Buss Out",
+        "url": "https://open.spotify.com/album/5EDfw383RolFVbzUXCAVSm"
+      },
+      "artists": [
+        {
+          "name": "CRAAZY",
+          "url": "https://open.spotify.com/artist/7zBL53SPAeG7OObxZH6Lxd"
+        },
+        {
+          "name": "WAH WAAH",
+          "url": "https://open.spotify.com/artist/6Xv9wB1rxazucdkzKMcHMG"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164787,
+      "name": "Buss Out",
+      "url": "https://open.spotify.com/track/2zr3g8dwrsRc30SXAYJjnv"
+    },
+    {
+      "album": {
         "name": "Buzz",
         "url": "https://open.spotify.com/album/2ByFERdFOCwLIyxXfz1an5"
       },
@@ -403,7 +425,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 196318,
       "name": "Enticin",
       "url": "https://open.spotify.com/track/6qZKouYXciYShBNLXDrV8z"
@@ -1328,6 +1350,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9t\u00e9 Kow",
+        "url": "https://open.spotify.com/album/6BuJa09mSXh6yx9QpH55Ab"
+      },
+      "artists": [
+        {
+          "name": "Lagess",
+          "url": "https://open.spotify.com/artist/5brOruoItuGUMISGRDOzNq"
+        },
+        {
+          "name": "DJ Digital",
+          "url": "https://open.spotify.com/artist/66aQVAZJUg9c4ZNOQaxjvN"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "M\u00e9t\u00e9 Kow",
+      "url": "https://open.spotify.com/track/7BwfjietX7YEXECGi49z5M"
+    },
+    {
+      "album": {
         "name": "No Fear (feat. Damian Marley & Nicky Jam)",
         "url": "https://open.spotify.com/album/5iNZBIAKC2ohCuxiZwuevw"
       },
@@ -1549,7 +1593,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 152470,
       "name": "PVDV",
       "url": "https://open.spotify.com/track/5Bnh17R2tIfcNCwQ0HR1RD"
@@ -1755,6 +1799,32 @@
       "duration_ms": 135600,
       "name": "Suffering Days",
       "url": "https://open.spotify.com/track/72dpxZuTHoyVqt6CUBgSog"
+    },
+    {
+      "album": {
+        "name": "Sunday to Sunday",
+        "url": "https://open.spotify.com/album/3EKp2KBJynvkjkUd8horSE"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        },
+        {
+          "name": "Crawba Genius",
+          "url": "https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf"
+        },
+        {
+          "name": "Its Dia",
+          "url": "https://open.spotify.com/artist/5NQ8igGIiurScVJNqy9l7Y"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Sunday to Sunday",
+      "url": "https://open.spotify.com/track/2gk44xsMpggnkPY3TgvY19"
     },
     {
       "album": {
@@ -1985,7 +2055,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 190952,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/5WMGYicc8RIo80wdcbiLTx"

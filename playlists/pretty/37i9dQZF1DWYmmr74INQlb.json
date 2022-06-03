@@ -1,12 +1,12 @@
 {
   "description": "Check out these throwback R&B jams from the first decade of the 21st century. Cover: Mary J Blige ",
-  "num_followers": 3908479,
+  "num_followers": 3909528,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDEzMjE3OCwwMDAwMDAwMGFlNjNkZTcyNjViODk3YWZjY2ZkNTlmZDE1MzMzOGRh",
+  "snapshot_id": "MTY1NDIxNzg3NywwMDAwMDAwMDZlMDQ4NWMxYWNmZjE1ZjQ1ZmZmZWZmMDM5YzI2MmI4",
   "tracks": [
     {
       "added_at": "2022-02-11 05:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 246333,
       "name": "Be Without You - Kendu Mix",
       "url": "https://open.spotify.com/track/6Y3WvyUG9iE5bQYg38SPtQ"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "When I See U",
+      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -47,18 +63,34 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
       },
       "artists": [
         {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 217346,
-      "name": "When I See U",
-      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
+      "duration_ms": 201400,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -83,22 +115,6 @@
       "duration_ms": 238333,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/2RqZFOLOnzVmHUX7ZMcaES"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "No More Drama",
-        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -139,22 +155,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/7EXstuWka51pNFzEAidEol"
       },
@@ -191,50 +191,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
+        "name": "Jagged Little Thrill",
+        "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
       },
       "artists": [
         {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "The Life",
-        "url": "https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt"
-      },
-      "artists": [
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        },
         {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
         }
       ],
-      "duration_ms": 265533,
-      "name": "Differences",
-      "url": "https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 224146,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
+      "duration_ms": 232573,
+      "name": "Where the Party At (feat. Nelly)",
+      "url": "https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -255,6 +227,38 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
+        "name": "The Life",
+        "url": "https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt"
+      },
+      "artists": [
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Differences",
+      "url": "https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
         "name": "No More Drama",
         "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
       },
@@ -267,6 +271,22 @@
       "duration_ms": 326240,
       "name": "No More Drama",
       "url": "https://open.spotify.com/track/7nWsh14AHpnTzq1Xejz90U"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 301133,
+      "name": "Me, Myself and I",
+      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -339,22 +359,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "Me, Myself and I",
-      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "The Breakthrough",
         "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
       },
@@ -367,22 +371,6 @@
       "duration_ms": 237493,
       "name": "Take Me As I Am",
       "url": "https://open.spotify.com/track/4gGYiGsxhPYpsGIttWLwlT"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Marques Houston",
-        "url": "https://open.spotify.com/album/4sAouJxcSwPIoT5dd6Qgj7"
-      },
-      "artists": [
-        {
-          "name": "Marques Houston",
-          "url": "https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt"
-        }
-      ],
-      "duration_ms": 215960,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/08fhbfRSg7eEH0IZT7pB6a"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -403,70 +391,18 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
       },
       "artists": [
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 261800,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Disturbing Tha Peace Presents Bobby Valentino",
-        "url": "https://open.spotify.com/album/5D7khI4iB1RseZNgoBQPLi"
-      },
-      "artists": [
-        {
-          "name": "Bobby V.",
-          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
-        }
-      ],
-      "duration_ms": 258666,
-      "name": "Slow Down - 12\" Version",
-      "url": "https://open.spotify.com/track/3SfZpKjMwvUQKGCty1dJ0T"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Ms. Kelly",
-        "url": "https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW"
-      },
-      "artists": [
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        },
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Like This (feat. Eve)",
-      "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "The Breakthrough",
-        "url": "https://open.spotify.com/album/5cnNuunPepqlcT0VoFdLOh"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Be Without You - Kendu Mix",
-      "url": "https://open.spotify.com/track/2YegxR5As7BeQuVp2U6pek"
+      "duration_ms": 224146,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -487,18 +423,34 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Jennifer Hudson",
-        "url": "https://open.spotify.com/album/6RCEPR3vf58GQTK2sT1cQP"
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
       "artists": [
         {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 250106,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/02QQXgeAghpU4smdM7l7We"
+      "duration_ms": 266893,
+      "name": "U Remind Me",
+      "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Disturbing Tha Peace Presents Bobby Valentino",
+        "url": "https://open.spotify.com/album/5D7khI4iB1RseZNgoBQPLi"
+      },
+      "artists": [
+        {
+          "name": "Bobby V.",
+          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
+        }
+      ],
+      "duration_ms": 258666,
+      "name": "Slow Down - 12\" Version",
+      "url": "https://open.spotify.com/track/3SfZpKjMwvUQKGCty1dJ0T"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -519,18 +471,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+        "name": "Ms. Kelly",
+        "url": "https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW"
       },
       "artists": [
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
         }
       ],
-      "duration_ms": 266893,
-      "name": "U Remind Me",
-      "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
+      "duration_ms": 215853,
+      "name": "Like This (feat. Eve)",
+      "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -559,22 +515,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP"
-      },
-      "artists": [
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 242466,
-      "name": "Officially Missing You",
-      "url": "https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Ashanti",
         "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
       },
@@ -591,58 +531,18 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/36BtNkS3gaPXlxSxzWcnLJ"
+        "name": "Marques Houston",
+        "url": "https://open.spotify.com/album/4sAouJxcSwPIoT5dd6Qgj7"
       },
       "artists": [
         {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Marques Houston",
+          "url": "https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt"
         }
       ],
-      "duration_ms": 231173,
-      "name": "Motivation",
-      "url": "https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "J.E. Heartbreak",
-        "url": "https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3"
-      },
-      "artists": [
-        {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
-        }
-      ],
-      "duration_ms": 244053,
-      "name": "He Can't Love U",
-      "url": "https://open.spotify.com/track/3VEZvzr84WVnoorZ4tlBSw"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "From The Bottom To The Top",
-        "url": "https://open.spotify.com/album/5q8AaOLpjlUQTn9KaQnI0f"
-      },
-      "artists": [
-        {
-          "name": "Sammie",
-          "url": "https://open.spotify.com/artist/4p07QU02SrLsaORo25h2Lg"
-        },
-        {
-          "name": "JT Money",
-          "url": "https://open.spotify.com/artist/1pJhCUTEZhR4nYeemYlkVz"
-        }
-      ],
-      "duration_ms": 251040,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/0IvTGWbNnCiUi9IOF7ye3F"
+      "duration_ms": 215960,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/08fhbfRSg7eEH0IZT7pB6a"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -683,18 +583,34 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+        "name": "More",
+        "url": "https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP"
       },
       "artists": [
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
         }
       ],
-      "duration_ms": 228266,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl"
+      "duration_ms": 242466,
+      "name": "Officially Missing You",
+      "url": "https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 261800,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -711,6 +627,94 @@
       "duration_ms": 245933,
       "name": "Take You Down",
       "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Jennifer Hudson",
+        "url": "https://open.spotify.com/album/6RCEPR3vf58GQTK2sT1cQP"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/02QQXgeAghpU4smdM7l7We"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/36BtNkS3gaPXlxSxzWcnLJ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Moodring",
+        "url": "https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H"
+      },
+      "artists": [
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "From The Bottom To The Top",
+        "url": "https://open.spotify.com/album/5q8AaOLpjlUQTn9KaQnI0f"
+      },
+      "artists": [
+        {
+          "name": "Sammie",
+          "url": "https://open.spotify.com/artist/4p07QU02SrLsaORo25h2Lg"
+        },
+        {
+          "name": "JT Money",
+          "url": "https://open.spotify.com/artist/1pJhCUTEZhR4nYeemYlkVz"
+        }
+      ],
+      "duration_ms": 251040,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/0IvTGWbNnCiUi9IOF7ye3F"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl"
     }
   ],
   "unique_name": "I Love My '00s R&B",

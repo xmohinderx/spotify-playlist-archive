@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 234202,
       "name": "3 GUINEAS",
       "url": "https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 197613,
       "name": "apple pie",
       "url": "https://open.spotify.com/track/1UVUQ1HwswnUm5SBbUbLm9"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 147428,
       "name": "Bad",
       "url": "https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 193013,
       "name": "been",
       "url": "https://open.spotify.com/track/07sIlvEYyot9HZ4BoDqg6Z"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 176680,
       "name": "Brown Eyes (Prod. The Quiett) - Bonus",
       "url": "https://open.spotify.com/track/1bPV6e7yWQcPeK5wAoe12A"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 186502,
       "name": "Cockroach",
       "url": "https://open.spotify.com/track/3zE0IW0EkOqKT0pk3LtLdn"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 181053,
       "name": "cozy (Feat. Xinsayne, JP)",
       "url": "https://open.spotify.com/track/1XzxTCasyQePyl4UyyBhTR"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 240520,
       "name": "Daydreamin (Feat. sogumm & Woo) (Prod. Yosi & CODE KUNST)",
       "url": "https://open.spotify.com/track/28xScSqQQDOHQKo4khhxcn"
@@ -516,6 +516,24 @@
     },
     {
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/7hpzO9yIO5XGilLvosf566"
+      },
+      "artists": [
+        {
+          "name": "Bizzy",
+          "url": "https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/3VArv6ytEMbiubvL067Mou"
+    },
+    {
+      "album": {
         "name": "The Spoiled Child",
         "url": "https://open.spotify.com/album/3W6pCwylFquhIXclKN1dic"
       },
@@ -531,7 +549,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 317374,
       "name": "Empty Spot",
       "url": "https://open.spotify.com/track/13VuElqGiyeMzS6R7iVsY2"
@@ -549,7 +567,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 223636,
       "name": "Escape",
       "url": "https://open.spotify.com/track/4KWwu50PwXoTjzClhqz61h"
@@ -593,7 +611,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 235374,
       "name": "Flowers (feat.Justhis)",
       "url": "https://open.spotify.com/track/1S1nLBl7wUQUfIF9tfSEMR"
@@ -636,6 +654,28 @@
     },
     {
       "album": {
+        "name": "TRAVEL: NOAH",
+        "url": "https://open.spotify.com/album/7paPIIEBNYB1Mtnshg6kvB"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "B-Free",
+          "url": "https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215857,
+      "name": "GOOD NIGHT",
+      "url": "https://open.spotify.com/track/0CxMRR6CxLboQdmMPUWoPm"
+    },
+    {
+      "album": {
         "name": "PAID IN SEOUL",
         "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
@@ -669,7 +709,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 200186,
       "name": "gucci girl",
       "url": "https://open.spotify.com/track/1mqwUoKBZ0oci8NfA9czVG"
@@ -687,7 +727,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 194360,
       "name": "Gwichanist",
       "url": "https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw"
@@ -705,7 +745,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 185204,
       "name": "Gyeongsan-si",
       "url": "https://open.spotify.com/track/2Vjwz8mExrUU2A2YV5DvI7"
@@ -763,7 +803,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 93039,
       "name": "Human fever",
       "url": "https://open.spotify.com/track/7kLmCBlcTP2DR5lIiz22e3"
@@ -789,6 +829,24 @@
       "duration_ms": 175160,
       "name": "i (Feat. Jung Yup) (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3"
+    },
+    {
+      "album": {
+        "name": "WALKIN', Vol. 1",
+        "url": "https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E"
+      },
+      "artists": [
+        {
+          "name": "PEEJAY",
+          "url": "https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257687,
+      "name": "I Get Lifted X Beenzino",
+      "url": "https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB"
     },
     {
       "album": {
@@ -861,7 +919,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 195083,
       "name": "In The Morning (Feat. Bryn)",
       "url": "https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo"
@@ -883,7 +941,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 223392,
       "name": "Insta Crush",
       "url": "https://open.spotify.com/track/2l5FvesT4vjxSPNrBXQ2nE"
@@ -923,7 +981,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 243000,
       "name": "Jazztext",
       "url": "https://open.spotify.com/track/770OKFkhuymVE3g2l9Ci3F"
@@ -1021,7 +1079,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 212261,
       "name": "Matiz",
       "url": "https://open.spotify.com/track/1jJiTQO8coDycv92O2viOp"
@@ -1047,7 +1105,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "Meantime (Feat. Fana, DJ 2BAE)",
       "url": "https://open.spotify.com/track/2rdNa1AvbBQeX76hd2ho9o"
@@ -1065,7 +1123,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 185013,
       "name": "merlot",
       "url": "https://open.spotify.com/track/41f3dRuhkSuXHSA3MuVjLh"
@@ -1261,7 +1319,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 243083,
       "name": "On My Wave",
       "url": "https://open.spotify.com/track/01ZOslmYuRTjSymRHjbPVE"
@@ -1279,7 +1337,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 193494,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH"
@@ -1297,7 +1355,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 172225,
       "name": "paris and tokyo",
       "url": "https://open.spotify.com/track/6SMtaDw5xVGTPVexnw2eLM"
@@ -1341,7 +1399,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 193375,
       "name": "Piss On Me",
       "url": "https://open.spotify.com/track/4GJy4M67insCFuAUhluOza"
@@ -1385,7 +1443,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 178933,
       "name": "Rainy Day",
       "url": "https://open.spotify.com/track/5iijK4TfFqwh3nZYapZ33V"
@@ -1433,7 +1491,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 181469,
       "name": "ride or die (feat. Chancellor)",
       "url": "https://open.spotify.com/track/3GnutzFK2ijPUogERjEgBZ"
@@ -1531,7 +1589,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 168409,
       "name": "sip slow",
       "url": "https://open.spotify.com/track/1QP8PRugJUCVguelzD5v8a"
@@ -1553,6 +1611,28 @@
       "duration_ms": 203546,
       "name": "smile",
       "url": "https://open.spotify.com/track/2HwSgp64Nrmf1Ju7P9uAVr"
+    },
+    {
+      "album": {
+        "name": "The Angel Wakes Hell's Morning",
+        "url": "https://open.spotify.com/album/6jBp4T0NBQwJ9cnp1yXrgb"
+      },
+      "artists": [
+        {
+          "name": "JJK",
+          "url": "https://open.spotify.com/artist/1tN10ObeLZVfnzfpSaT73O"
+        },
+        {
+          "name": "ACACY",
+          "url": "https://open.spotify.com/artist/6Tq7WO50paeRxWXFExZkhM"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232750,
+      "name": "smile!",
+      "url": "https://open.spotify.com/track/20VdbqK1qJJWbo5JFCutHq"
     },
     {
       "album": {
@@ -1823,7 +1903,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 222120,
       "name": "under the ground",
       "url": "https://open.spotify.com/track/3916BVDlNYrxllaSbWcC4h"
@@ -1863,7 +1943,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 222520,
       "name": "Whee",
       "url": "https://open.spotify.com/track/39rTd2GWPsulnGmmCMsYuh"
@@ -1885,7 +1965,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 272293,
       "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/45R8aMTK1suFXTraQCzVRe"
@@ -1991,7 +2071,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 190160,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/2sSMk1fkcz6rTKaQn711yz"

@@ -2,7 +2,7 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: AVIWKILA
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Endank Soekamti, Ndarboy Genk
 
 86 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
 

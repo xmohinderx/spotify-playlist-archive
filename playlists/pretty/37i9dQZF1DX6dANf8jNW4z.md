@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: Mónica Naranjo
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,875 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,903 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 42 | [Marisol](https://open.spotify.com/track/4eGgtcKMoL45YN55eXzD24) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Marisol](https://open.spotify.com/album/3mbuvr5Onv2U39DA2Cq7jD) | 2:52 |
 | 43 | [Monopolio de la Tristeza](https://open.spotify.com/track/3P1mmP1Y3rGw0YdNBSqh6N) | [Malamute](https://open.spotify.com/artist/45XwF5VuCj7FqtlvjxWGaF) | [Una Gran Decepción](https://open.spotify.com/album/3ajsC7V1eThE9y2Jg3FHTa) | 3:25 |
 | 44 | [What Dreams Are Made Of](https://open.spotify.com/track/6Du14BXBpi3gHeaGQQFGpT) | [Pipiolas](https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI) | [What Dreams Are Made Of](https://open.spotify.com/album/5D8NHE5xY9lx767ERJllau) | 2:57 |
-| 45 | [A Veces Sueño](https://open.spotify.com/track/69grMGcH6vXnqxLgGFjwA3) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [A Veces Sueño](https://open.spotify.com/album/7IvCMNBs2NN0K6VGrfcn7R) | 3:40 |
-| 46 | [Secretaria](https://open.spotify.com/track/7oDOlxNXC68XUM8cMjL0JX) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Infinito \- Duets](https://open.spotify.com/album/1tzdSyR2Q8CzWG3kEGwiy9) | 2:56 |
-| 47 | [Fama](https://open.spotify.com/track/6wuYSOcP2HxtvH6giNxSfR) | [Natalia](https://open.spotify.com/artist/5eKi0BjYYAf86O6vp4fFN0) | [Fama](https://open.spotify.com/album/4rEbPRxldoiRiwOg3Vxy8x) | 3:17 |
-| 48 | [Línea 7](https://open.spotify.com/track/7dKqJB09t92xID0Hw4ycMt) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Línea 7](https://open.spotify.com/album/27lhcWFcNtAPhlxgkzsSmG) | 2:55 |
-| 49 | [Valentía](https://open.spotify.com/track/4X9NSSDXUfFslWjIyMRjef) | [Vera Noor](https://open.spotify.com/artist/1nirixcK3111OAkn0b4V7F) | [Valentía](https://open.spotify.com/album/6829MyoBk5Gr2taxTC2wuB) | 3:05 |
+| 45 | [I Hate Dancing](https://open.spotify.com/track/2WDkiVkrnaSYJrOgEJeUgp) | [Marta Knight](https://open.spotify.com/artist/1bTVf9uk7d4iU9rcWfWj5S) | [Strange Times Forever](https://open.spotify.com/album/7zYyE3fwGkP5TNCkTmue48) | 3:35 |
+| 46 | [A Veces Sueño](https://open.spotify.com/track/69grMGcH6vXnqxLgGFjwA3) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [A Veces Sueño](https://open.spotify.com/album/7IvCMNBs2NN0K6VGrfcn7R) | 3:40 |
+| 47 | [Secretaria](https://open.spotify.com/track/7oDOlxNXC68XUM8cMjL0JX) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Infinito \- Duets](https://open.spotify.com/album/1tzdSyR2Q8CzWG3kEGwiy9) | 2:56 |
+| 48 | [Fama](https://open.spotify.com/track/6wuYSOcP2HxtvH6giNxSfR) | [Natalia](https://open.spotify.com/artist/5eKi0BjYYAf86O6vp4fFN0) | [Fama](https://open.spotify.com/album/4rEbPRxldoiRiwOg3Vxy8x) | 3:17 |
+| 49 | [Línea 7](https://open.spotify.com/track/7dKqJB09t92xID0Hw4ycMt) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Línea 7](https://open.spotify.com/album/27lhcWFcNtAPhlxgkzsSmG) | 2:55 |
+| 50 | [Valentía](https://open.spotify.com/track/4X9NSSDXUfFslWjIyMRjef) | [Vera Noor](https://open.spotify.com/artist/1nirixcK3111OAkn0b4V7F) | [Valentía](https://open.spotify.com/album/6829MyoBk5Gr2taxTC2wuB) | 3:05 |
 
 Snapshot ID: `MTY1NDAzNDQwMCwwMDAwMDAxYjAwMDAwMTgxMWMyMjAzOTUwMDAwMDE4MTE5NjhjMzdk`

@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-109 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+110 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Chill](https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Chill](https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8) | 2:57 | 2021-12-25 | 2022-03-03 |
 | [Chokran](https://open.spotify.com/track/77JDzVjytmCZH8xIWmCY3l) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Chokran](https://open.spotify.com/album/09wY9vArfB6xzsNaRfwuZ1) | 3:34 | 2021-12-25 | 2022-02-15 |
 | [De9at l9elb](https://open.spotify.com/track/3WzncgOidVpqkak5Ee4b1n) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [De9at l9elb](https://open.spotify.com/album/4AqUJTIVVpHmoGonhlp7Gr) | 2:34 | 2022-01-15 |  |
+| [Dime Porque](https://open.spotify.com/track/6yd5mN94Oi7OOZ4mGA7Co1) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Dime Porque](https://open.spotify.com/album/4F52Ar98sgSN12heKH3e7v) | 3:01 | 2022-06-02 |  |
 | [Douka](https://open.spotify.com/track/4XLGewxYfYfvaajEtRgDVy) | [Adil Assil](https://open.spotify.com/artist/5idudw3rFRe9uVUCus4Kp1) | [Douka](https://open.spotify.com/album/6FDpxxCHJwACZIzmtnRRch) | 3:12 | 2022-02-22 |  |
 | [Dounya](https://open.spotify.com/track/76MO9sT4OIQkEeRndLHveG) | [othmanouilki](https://open.spotify.com/artist/5tA7M2xqrIPJ0ax87b19w5) | [Dounya](https://open.spotify.com/album/7wPcqrlsQuPXO15iysENkm) | 3:35 | 2022-05-19 |  |
 | [Dowara](https://open.spotify.com/track/7f5S0zYuv6Ou0xEPwLXUDU) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Dowara](https://open.spotify.com/album/12ZhO91Amzo0mYJOP1eP1t) | 3:15 | 2021-12-25 |  |

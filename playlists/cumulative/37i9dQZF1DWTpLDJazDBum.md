@@ -4,10 +4,11 @@
 
 > Find your flow with these instrumental trap and lofi beats.
 
-183 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+186 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [35mm](https://open.spotify.com/track/0NkKveHqLQXKDXJ2FO0p1d) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [In the Dash](https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z) | 1:55 | 2022-06-03 |  |
 | [A Trip for You](https://open.spotify.com/track/67ZzZ5axS4vv3HKb4052Ju) | [Roboflex](https://open.spotify.com/artist/4EoR3Th3E98nSMzwPPeZZg) | [A Trip for You](https://open.spotify.com/album/0QKQialdrr80S3EMFupxHR) | 2:14 | 2022-04-08 |  |
 | [Afterglow](https://open.spotify.com/track/6dHozDVKUUc7fm26EgrP2E) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O) | [Afterglow](https://open.spotify.com/album/77uGdp712E0p0nGkrQx35L) | 2:29 | 2022-04-08 | 2022-05-27 |
 | [Amber](https://open.spotify.com/track/1evwA28dL7t3r5eG3DOmmj) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [Amber](https://open.spotify.com/album/5Ugj8cXqKSZ1YLNQ5dLTZT) | 2:48 | 2022-04-08 |  |
@@ -62,9 +63,9 @@
 | [Favela Blast](https://open.spotify.com/track/5lh5FpuqYBsnHUxmSY8SaD) | [Azucares](https://open.spotify.com/artist/4nBe4luXcnZ8QqpoyZq4OC) | [Scorpio](https://open.spotify.com/album/0UI9wErplZRJ4Xj0N5rx63) | 3:16 | 2022-05-26 |  |
 | [Feel the Same](https://open.spotify.com/track/36LKO32SaXOkakBfSrBdaB) | [STRLGHT](https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx) | [In Reality EP](https://open.spotify.com/album/2CVfoYkNBWJ8FwczUuein4) | 3:35 | 2022-04-08 | 2022-05-27 |
 | [Fish Fry](https://open.spotify.com/track/3X3BewGLYG3qc5fsMmskZb) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Highway Robbery](https://open.spotify.com/album/6Vf6C3rTyuIYE8BGKbaKKz) | 2:09 | 2022-04-08 | 2022-05-27 |
-| [Flavor](https://open.spotify.com/track/2P58o9JbLYOV5adMOrh4WH) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Bad Sign](https://open.spotify.com/album/1kmLwJZxVRqG2ntTzZYD22) | 2:09 | 2022-04-08 |  |
+| [Flavor](https://open.spotify.com/track/2P58o9JbLYOV5adMOrh4WH) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Bad Sign](https://open.spotify.com/album/1kmLwJZxVRqG2ntTzZYD22) | 2:09 | 2022-04-08 | 2022-06-03 |
 | [Flip Around](https://open.spotify.com/track/2nQqrEnAZgyP3GcT7tMIdz) | [Eli Stewart](https://open.spotify.com/artist/2cyxeWKnrm59EavSUK4h7O) | [Flip Around](https://open.spotify.com/album/4LZgxPGON2n2BTm3njiVcE) | 2:37 | 2022-04-08 | 2022-05-27 |
-| [Fly by Night](https://open.spotify.com/track/5u3vpXS3p1NEPGpK87MfTO) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Fly By Night](https://open.spotify.com/album/3XDxXhJUcii0AcwIiqkIsm) | 2:09 | 2022-05-26 |  |
+| [Fly by Night](https://open.spotify.com/track/5u3vpXS3p1NEPGpK87MfTO) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Fly By Night](https://open.spotify.com/album/3XDxXhJUcii0AcwIiqkIsm) | 2:09 | 2022-05-26 | 2022-06-03 |
 | [Fortunes](https://open.spotify.com/track/4gVvbn4m0xkLYdMujbuPsq) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Hold](https://open.spotify.com/album/0bbK5yLVZaXlboM8hq3DoV) | 3:43 | 2022-04-08 | 2022-05-27 |
 | [Fromage Frais](https://open.spotify.com/track/6VhMdls0mTxYlMj62ZVGK8) | [Damien Thorpe](https://open.spotify.com/artist/2gWKTDvpiP3BHKAU07jBYW) | [Fromage Frais](https://open.spotify.com/album/4r833ilfTlysiJbHPxN79J) | 2:31 | 2022-05-26 |  |
 | [Fruitpunch](https://open.spotify.com/track/5JFsFwrrCb5tM9qQBRxHUD) | [Salmon Says](https://open.spotify.com/artist/0YeNo7aSvFyaMdqxzM55UD) | [ALC](https://open.spotify.com/album/2puyA8AignmOqBnQkhzPXz) | 3:50 | 2022-05-26 |  |
@@ -74,10 +75,12 @@
 | [Goodbye Jungle](https://open.spotify.com/track/6grPUbMbj1v8tM0aelZlrl) | [Stronk](https://open.spotify.com/artist/5ZxlK0rUSMMiFFR7JyYQT1) | [Goodbye Jungle](https://open.spotify.com/album/1u34cpiwyqWzRWCfUH9fGF) | 2:13 | 2022-04-08 | 2022-05-27 |
 | [Harvest](https://open.spotify.com/track/0GhNhefIBbZpoe3FQmVz2I) | [Minosour](https://open.spotify.com/artist/1cwzQoxtRJWvTDNQc6lc7a) | [Harvest](https://open.spotify.com/album/4NtVGPx6IoLyovOXtdjvHE) | 1:47 | 2022-04-08 |  |
 | [Hats Off](https://open.spotify.com/track/7M44Mj5Csy4IBWbWZUHaHV) | [Elias Riots](https://open.spotify.com/artist/3qEtWl4Gv3BvU2a6s2bJNy) | [Hats Off](https://open.spotify.com/album/0M46HmldM8GjIqW5ZHpYsv) | 3:05 | 2022-05-26 |  |
+| [Have Your Fun](https://open.spotify.com/track/5CLTIJXyJ6xbK5lt7feH5y) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [In the Dash](https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z) | 2:17 | 2022-06-03 |  |
 | [Hontoni Tasukete](https://open.spotify.com/track/4Fq3pTVdkofsmLhCRnfgZN) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Hontoni Tasukete](https://open.spotify.com/album/772KGx3CGT2gAI7y4MiGpE) | 1:42 | 2022-05-26 |  |
 | [How Does It Feel](https://open.spotify.com/track/0xmPtIIpkzi0sqBXTqPYwj) | [iGirl](https://open.spotify.com/artist/2wz3S9QQx5NnuU0UOEMd70) | [How Does It Feel](https://open.spotify.com/album/7iBIMGsXdqSKVQHG7UPLwU) | 2:25 | 2022-04-08 |  |
 | [Hypocrisy](https://open.spotify.com/track/34Fimf5dcnJeuX8OfCTIZz) | [Amro Daly](https://open.spotify.com/artist/2fZLqmy1qsTrcQEeVmm0qj) | [Dark Catharsis](https://open.spotify.com/album/6FVhPiKboFptJyXNt7LBaR) | 3:05 | 2022-04-08 | 2022-05-27 |
 | [In Reality](https://open.spotify.com/track/5cuq5rEehD4lyRSTXrac0l) | [STRLGHT](https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx) | [In Reality EP](https://open.spotify.com/album/2CVfoYkNBWJ8FwczUuein4) | 3:19 | 2022-04-08 | 2022-05-27 |
+| [In the Dash](https://open.spotify.com/track/1aY48DLfF9XM4jwZHeEIjj) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [In the Dash](https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z) | 2:01 | 2022-06-03 |  |
 | [Incredulous](https://open.spotify.com/track/3tsHNJMRKVMIGe4hxCiVLN) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93), [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Incredulous](https://open.spotify.com/album/7yWfqhExEhTHRnpNWNy7bY) | 2:11 | 2022-04-08 | 2022-05-27 |
 | [Jaxxon](https://open.spotify.com/track/0AhsGBXcirKOnkoOnATDuI) | [Hillside Reds](https://open.spotify.com/artist/2UPmPftzM6G8utXa3RQ2MB) | [Jaxxon](https://open.spotify.com/album/2uQPnSPTSyBx4uOd7UyFQY) | 2:57 | 2022-04-08 |  |
 | [Joker](https://open.spotify.com/track/7CAwp6JcKR1aIZc6unYpOV) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Joker](https://open.spotify.com/album/2VoCKMm05uZR0Rxu7Pk28P) | 3:28 | 2022-05-26 |  |
@@ -151,7 +154,7 @@
 | [Somehow](https://open.spotify.com/track/07eNGKDQ9eMuZETnO3B3IW) | [Xilo Xaxo](https://open.spotify.com/artist/2K4dC388oTw9qfuGhsK0ba) | [Old Life](https://open.spotify.com/album/5xwUo1oCtRrzKZECwFGL9X) | 4:29 | 2022-05-26 |  |
 | [Somnambulist](https://open.spotify.com/track/3QD6Cj39Bfs4O2wZ5yLmOC) | [BleuBleu](https://open.spotify.com/artist/3qYIBPbFBzEWiQDsI6ILVh) | [Somnambulist](https://open.spotify.com/album/3nJGZuHslUMI4Lcjnoh3Xm) | 2:19 | 2022-04-08 | 2022-05-27 |
 | [Sorrow](https://open.spotify.com/track/7GJQGSD9r681721nvXGAAx) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Sorrow](https://open.spotify.com/album/3u9L5MdB8Q16LWDyABClMO) | 2:34 | 2022-05-26 |  |
-| [Spiderweb](https://open.spotify.com/track/7rQvmg0QWCtF8FHEsS9WTV) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Spiderweb](https://open.spotify.com/album/4Y1pdVWhJp634aCRW9nG7i) | 2:18 | 2022-04-08 |  |
+| [Spiderweb](https://open.spotify.com/track/7rQvmg0QWCtF8FHEsS9WTV) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Spiderweb](https://open.spotify.com/album/4Y1pdVWhJp634aCRW9nG7i) | 2:18 | 2022-04-08 | 2022-06-03 |
 | [Stardust Memories](https://open.spotify.com/track/671VGl3HosCEVLui9huFJ3) | [Polysnare](https://open.spotify.com/artist/2WVsFp9FmA3hjNCYJM9ooC) | [Renegade Hardware](https://open.spotify.com/album/1UvPyyNBvZDkCRc001AB06) | 1:48 | 2022-04-08 | 2022-05-27 |
 | [Start to End](https://open.spotify.com/track/3tGEZc7yJkzVN5NUKPl1Jc) | [Youthful Lovers](https://open.spotify.com/artist/6ASqq2vhsnh5g8h96C6CNO) | [Feeling Good](https://open.spotify.com/album/7EYRNajKXA68FQ6Yx6ZBRU) | 3:23 | 2022-04-08 | 2022-05-27 |
 | [Strawberry Swing](https://open.spotify.com/track/7cUHQEWPtf0aB4CfLpzA75) | [jellykat](https://open.spotify.com/artist/33iusmfTCVj9fhVpCspl6X) | [Strawberry Swing](https://open.spotify.com/album/47LjTTsbVhApvM3iv1Tdpm) | 2:00 | 2022-04-08 | 2022-05-27 |
@@ -173,7 +176,7 @@
 | [Tratoria](https://open.spotify.com/track/3IX30GXLumSoisqM3qUHAZ) | [DunE](https://open.spotify.com/artist/4MWcljkqkBsrfiZu2CA88k) | [Tratoria](https://open.spotify.com/album/45xdMa03XY6auauofA1ESG) | 1:49 | 2022-05-26 |  |
 | [Trippy](https://open.spotify.com/track/5ptaiocEr3tO4jk4HGEm7E) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Trippy](https://open.spotify.com/album/7LDh5wRNAFQK8UkE61z0fn) | 2:54 | 2022-04-08 |  |
 | [Twin](https://open.spotify.com/track/7o4seAlZSoVPjsJMFPrSq8) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Sara](https://open.spotify.com/album/5GYqYnm3SSY3GDAoRDCrAX) | 3:01 | 2022-04-08 |  |
-| [Ukkers](https://open.spotify.com/track/3tvofOS8e3AyahESsDHGyo) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Land of the Lotus](https://open.spotify.com/album/7x9evXYxD8kQjneL4fVTba) | 2:05 | 2022-04-08 |  |
+| [Ukkers](https://open.spotify.com/track/3tvofOS8e3AyahESsDHGyo) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Land of the Lotus](https://open.spotify.com/album/7x9evXYxD8kQjneL4fVTba) | 2:05 | 2022-04-08 | 2022-06-03 |
 | [ultraviolet blue](https://open.spotify.com/track/2x3ttVsyPRpohqMaeykLSs) | [run faster billy](https://open.spotify.com/artist/4J7qzoBzykXq6d8ZcHpN28) | [ultraviolet blue](https://open.spotify.com/album/6ryUZTJvVX0SMnCxm3gbFD) | 2:04 | 2022-04-08 | 2022-05-20 |
 | [Unbuttoned](https://open.spotify.com/track/1FU5fnmyjmf2zEPmnMqWaI) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Pajamas](https://open.spotify.com/album/0OFcSExDd2DVi2K8l9V5gh) | 2:23 | 2022-04-08 | 2022-05-27 |
 | [Untitled 73](https://open.spotify.com/track/2w2QF8Gw2WDsv5qgMAcRLA) | [RecDubCircuitry](https://open.spotify.com/artist/7s8aUjF0Cjhr4Tt8vwojL7) | [Untitled 73](https://open.spotify.com/album/5d2uMeSLuESzeyaxBiYZlo) | 2:31 | 2022-04-08 | 2022-05-27 |

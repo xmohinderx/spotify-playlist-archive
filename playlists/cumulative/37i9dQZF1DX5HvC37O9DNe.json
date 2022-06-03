@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 186853,
       "name": "ALTALENE (feat. Mara Sattei & Coez)",
       "url": "https://open.spotify.com/track/2zqxUV6h5y6Y9WhyH0FVvX"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 200733,
       "name": "Amare",
       "url": "https://open.spotify.com/track/4oeFVHLTmTRbvWOk68cetc"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 231041,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 166602,
       "name": "Cuore Nero - prod. Frenetik&Orang3",
       "url": "https://open.spotify.com/track/0ROJX4yr64AlknCaX71JDQ"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 124065,
       "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 145462,
       "name": "Domani ci passa",
       "url": "https://open.spotify.com/track/3elLXGwE5zaREuOzWdlRJ2"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 159989,
       "name": "Drippin' in Milano",
       "url": "https://open.spotify.com/track/1TrjxEcRPHvaLF3saKCSs4"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 175611,
       "name": "Fiori di Chernobyl",
       "url": "https://open.spotify.com/track/54PxYcGpSUCmlpGdFGTaYR"
@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 161426,
       "name": "Lalalalalalalalalala",
       "url": "https://open.spotify.com/track/1vJPGeapiTW4KRPjK65JpV"
@@ -1415,7 +1415,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 250830,
       "name": "MARIL\u00d9",
       "url": "https://open.spotify.com/track/7JlPKH9G2KLUzJlfFFAxEO"
@@ -1589,7 +1589,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 236720,
       "name": "Musica leggerissima",
       "url": "https://open.spotify.com/track/67qxSUoyng1ohzvfyOyNWW"
@@ -1713,10 +1713,32 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 141062,
       "name": "Paloma (feat. Anitta)",
       "url": "https://open.spotify.com/track/0HFkCSXRTUHCYJ148PdD0v"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167903,
+      "name": "Paradise (feat. Dermot Kennedy)",
+      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
     },
     {
       "album": {
@@ -1909,7 +1931,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 227678,
       "name": "Pezzo Di Cuore (con Alessandra Amoroso)",
       "url": "https://open.spotify.com/track/0BNaXcSSUeuARA4W8iB18E"
@@ -2003,7 +2025,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 183870,
       "name": "Ritmo",
       "url": "https://open.spotify.com/track/6cl8QDkk4dwykg7XwXvNET"
@@ -2043,7 +2065,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 169010,
       "name": "Run",
       "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
@@ -2134,7 +2156,7 @@
     },
     {
       "album": {
-        "name": "Scusa (prod. tha Supreme)",
+        "name": "Scusa (prod. thasup)",
         "url": "https://open.spotify.com/album/0gLbuRK9otcxCNaDyDLfbA"
       },
       "artists": [
@@ -2145,9 +2167,9 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 182726,
-      "name": "Scusa - prod. tha Supreme",
+      "name": "Scusa - prod. thasup",
       "url": "https://open.spotify.com/track/7uBlznv2TJpvjHCzY7K8wO"
     },
     {
@@ -2404,6 +2426,24 @@
     },
     {
       "album": {
+        "name": "Un milione di cose da dirti",
+        "url": "https://open.spotify.com/album/0yt2jc1ck4L119SQKsm0Ef"
+      },
+      "artists": [
+        {
+          "name": "Ermal Meta",
+          "url": "https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211973,
+      "name": "Un milione di cose da dirti",
+      "url": "https://open.spotify.com/track/5kYheNyo7xHKPsUWAFzXr3"
+    },
+    {
+      "album": {
         "name": "Un'altra volta",
         "url": "https://open.spotify.com/album/1ZCjKIKZFIO3V62Yx6mkTr"
       },
@@ -2525,7 +2565,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 172568,
       "name": "VIENIMI (a ballare)",
       "url": "https://open.spotify.com/track/3VZfK5GR6tN3WH3WsBNMYq"
@@ -2543,7 +2583,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 211410,
       "name": "VOCE",
       "url": "https://open.spotify.com/track/1eIS75JS5rfbJpSu6ZC9EO"

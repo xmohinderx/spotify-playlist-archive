@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-179 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
+181 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bar Batula](https://open.spotify.com/track/1Me4qHgHYSefiTPtOyMu02) | [Barbatula](https://open.spotify.com/artist/7hn07YGWIDqLjXljHGI6t9) | [Bar Batula](https://open.spotify.com/album/72DdVjIBSNJ6Qnk3BTSCMP) | 3:13 | 2022-05-20 |  |
 | [Beatin' Hearts](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS) | [David Kuro](https://open.spotify.com/artist/0QRp71KIOsY5GrXpOw3JMj) | [Beatin' Hearts](https://open.spotify.com/album/2Ik5fCmCS3OX6MdOBD7Ciw) | 2:28 | 2022-05-20 |  |
 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 | 2022-05-20 |  |
+| [beautiful/sad](https://open.spotify.com/track/0YnNUpfCzBLRkFcNCheIkE) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [beautiful/sad](https://open.spotify.com/album/2rI68f5SMdUUv8KyxpyU0U) | 2:56 | 2022-06-03 |  |
 | [Below Surface](https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [Below Surface](https://open.spotify.com/album/1MiaH6pbnmXy8kQQ8SK6cg) | 3:02 | 2022-05-20 |  |
 | [Bermuda](https://open.spotify.com/track/0g41bwAXfDCDbo0h0syFs9) | [Lenny Braam](https://open.spotify.com/artist/2gU6uUfseONHGxhEUmemej) | [Bermuda](https://open.spotify.com/album/6wQiu3oJP4kVoWoBNh3lK0) | 3:48 | 2022-05-20 |  |
 | [Better Vibes](https://open.spotify.com/track/0o7EZM7Pjx1h5fe4rjL3UU) | [Summer Sunset Sessions](https://open.spotify.com/artist/1c8FCf2M8heL4Blc9RYZuh) | [Better Vibes](https://open.spotify.com/album/5K7yAtX3yp0ijNeMjI14BQ) | 3:33 | 2022-05-20 |  |
@@ -35,7 +36,7 @@
 | [Chapterhouse](https://open.spotify.com/track/4PyHOh7vsuyus2Wbs6YPiv) | [Haze Doe](https://open.spotify.com/artist/3Dnz1jt5f6SvtnxTsW9qKe) | [Chapterhouse](https://open.spotify.com/album/22loNe3xQRDMAbzp3KDNrJ) | 2:50 | 2022-05-20 |  |
 | [cirtuiterie](https://open.spotify.com/track/5MJe58AhGXxAXtLaizo9dC) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [cirtuiterie](https://open.spotify.com/album/37b3HiCSU1CJzfYYrNOeAs) | 3:54 | 2022-05-20 |  |
 | [Clear Skies](https://open.spotify.com/track/1WROw8DEFXlD3aMJygdOAs) | [Neon Mountains](https://open.spotify.com/artist/722pzglIWbUCG4b4GuP99O) | [Clear Skies](https://open.spotify.com/album/6lmVRs75eLVbQq40HQK1bq) | 2:30 | 2022-05-20 |  |
-| [Clockwork](https://open.spotify.com/track/2XaoehLFfuswYzdjfANE9J) | [Lazlo Riley](https://open.spotify.com/artist/0SKJJiRiC2fxhAynpKlb1p) | [Clockwork](https://open.spotify.com/album/3kfYpsAS78knrzUheZ0IIS) | 3:45 | 2022-05-20 |  |
+| [Clockwork](https://open.spotify.com/track/2XaoehLFfuswYzdjfANE9J) | [Lazlo Riley](https://open.spotify.com/artist/0SKJJiRiC2fxhAynpKlb1p) | [Clockwork](https://open.spotify.com/album/3kfYpsAS78knrzUheZ0IIS) | 3:45 | 2022-05-20 | 2022-06-03 |
 | [Coalesced](https://open.spotify.com/track/3yH4WIf5umBgIzgsyajkWH) | [Second Service](https://open.spotify.com/artist/6aWs9S4SEEXw4ZRLkcYliz) | [Coalesced](https://open.spotify.com/album/4nafINuhYshm1Npb3Wqamt) | 2:58 | 2022-05-20 |  |
 | [Coastline](https://open.spotify.com/track/1uaM53HQVyWcim7agCjB15) | [Urban Curls](https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI) | [Coastline](https://open.spotify.com/album/34E1TXm0e68uT476tkZxsk) | 3:20 | 2022-05-20 |  |
 | [Cobolt](https://open.spotify.com/track/5RWPlLSHtYpNFLcFOBgVmD) | [Lady Mas](https://open.spotify.com/artist/1dLFAvqPp134vW4ZpZzUYJ) | [Cobolt](https://open.spotify.com/album/2BLfxGmUEWrIOD97xNVEQY) | 3:00 | 2022-05-20 |  |
@@ -43,7 +44,7 @@
 | [Coral Beach](https://open.spotify.com/track/0aymtzpvO3QufAK2MbSBHd) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Coral Beach](https://open.spotify.com/album/6aR9tPyi2VE3f1rQo9dy2j) | 2:45 | 2022-05-20 |  |
 | [Cosmopolitan](https://open.spotify.com/track/5tIBc0L66MVZ1tNUApYV8f) | [Beach Villa](https://open.spotify.com/artist/6419utRWf7KXDJun7kpFmo) | [Cosmopolitan](https://open.spotify.com/album/0tim8AlkIqLinWNnGqv2yf) | 2:23 | 2022-05-20 |  |
 | [Cradle Beach](https://open.spotify.com/track/7rB5yo66bLtgPopOiht49F) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Cradle Beach](https://open.spotify.com/album/6cYWvOK87fNQkvgrevG8UV) | 2:52 | 2022-05-20 |  |
-| [Des Moments](https://open.spotify.com/track/6u7aoEs8qCeiQh80c94d73) | [OYOANNE](https://open.spotify.com/artist/54SxhcvIgW6e7A4R2UKNrL) | [Des Moments](https://open.spotify.com/album/0yCHMROpPtyxWYBgXF7rln) | 2:58 | 2022-05-27 |  |
+| [Des Moments](https://open.spotify.com/track/6u7aoEs8qCeiQh80c94d73) | [OYOANNE](https://open.spotify.com/artist/54SxhcvIgW6e7A4R2UKNrL) | [Des Moments](https://open.spotify.com/album/0yCHMROpPtyxWYBgXF7rln) | 2:58 | 2022-05-27 | 2022-06-03 |
 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 | 2022-05-20 |  |
 | [Dream Repeat](https://open.spotify.com/track/04evXU0FfGzNOQR8WLdhPw) | [Hiro Lam](https://open.spotify.com/artist/2mZ6IwBhZqvfxcCtAwz25L) | [Dream Repeat](https://open.spotify.com/album/1fUGc9LxW52P90f49TYT0o) | 3:57 | 2022-05-20 |  |
 | [Ebullience](https://open.spotify.com/track/5F9JKU4bZwtsWRs3R3kk1A) | [Kalizé](https://open.spotify.com/artist/1RucQs51dYwiXQbDKIpaKS) | [Ebullience](https://open.spotify.com/album/7c0CC4Tx5h6fem5482f4tE) | 2:31 | 2022-05-20 |  |
@@ -108,7 +109,7 @@
 | [Make It Count](https://open.spotify.com/track/70EPJbHlSO1Dkkmil1IP6b) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Make It Count](https://open.spotify.com/album/2cRKaFS1CgsSizxPQC6ca6) | 3:03 | 2022-05-20 |  |
 | [Mannequin](https://open.spotify.com/track/36Uz12ctE58QztkK67Doya) | [Chewy WO](https://open.spotify.com/artist/3pa7MdSYqgFazXfYIQehhV) | [Mannequin](https://open.spotify.com/album/4k3gJQHthd1Vcs90viihk1) | 3:09 | 2022-05-20 |  |
 | [Mellow Flow](https://open.spotify.com/track/71mNlLD1Aq01GOkyR2besV) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Mellow Flow](https://open.spotify.com/album/3Kpo78HLS8dxwSqrdH7gzS) | 3:33 | 2022-05-20 |  |
-| [Meridian](https://open.spotify.com/track/6g2qNlGpizqh0K05nxLNqf) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Meridian](https://open.spotify.com/album/6YEdcoWIiIjzUcqr11W2C0) | 3:42 | 2022-05-20 |  |
+| [Meridian](https://open.spotify.com/track/6g2qNlGpizqh0K05nxLNqf) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Meridian](https://open.spotify.com/album/6YEdcoWIiIjzUcqr11W2C0) | 3:42 | 2022-05-20 | 2022-06-03 |
 | [Miami Haze](https://open.spotify.com/track/3YqeefMfmwnYaWVezGn8lq) | [Dekance](https://open.spotify.com/artist/44KGRSo2bpi5LUlIw52lvD) | [Miami Haze](https://open.spotify.com/album/6HBSaCYkpxvnFi6PlGQ8xF) | 4:04 | 2022-05-20 |  |
 | [milanaze](https://open.spotify.com/track/54vcW7KBQULivUu32NZ7ot) | [qorfu](https://open.spotify.com/artist/4RThihZi1QaMBUHyFpu3pY) | [milanaze](https://open.spotify.com/album/1ahaxm7I0wNWesi6fwvaS3) | 2:56 | 2022-05-20 |  |
 | [Monday Beat](https://open.spotify.com/track/4LmN2h64LJHhN8ZiiwiwOY) | [Carl & Calitto](https://open.spotify.com/artist/4tMgaZrsUhfgvphSrUDEiD) | [Monday Beat](https://open.spotify.com/album/6eQDuOdTk1UOXNRdQ0cHNX) | 2:55 | 2022-05-20 |  |
@@ -160,12 +161,13 @@
 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 | 2022-05-20 |  |
 | [Still Need People](https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Still Need People](https://open.spotify.com/album/1GuBF595o35XrCVMdXvEP9) | 3:02 | 2022-05-20 |  |
 | [Strobe Alley](https://open.spotify.com/track/5d2xWaXb7Wyu0T9fSUPwJa) | [Thirsty Ear](https://open.spotify.com/artist/6RqaxUVExoKE01pPo39A2e) | [Strobe Alley](https://open.spotify.com/album/0eigUdryKClncsWngNi64B) | 4:20 | 2022-05-20 |  |
+| [Suamalie](https://open.spotify.com/track/6OIRXuSjisW4P186yxV1En) | [Slashio](https://open.spotify.com/artist/47tNKltwmA9PtSyeuGvhHe) | [Suamalie](https://open.spotify.com/album/5B8Nc7nSk7UW8Zu3ZIa4yB) | 2:47 | 2022-06-03 |  |
 | [Summertime Love](https://open.spotify.com/track/2h1OAlUkaqGlUdiCsfWy0P) | [Lady Mas](https://open.spotify.com/artist/1dLFAvqPp134vW4ZpZzUYJ) | [Summertime Love](https://open.spotify.com/album/0LcN6YlgfKqBqvdpB29JNM) | 3:20 | 2022-05-20 |  |
 | [Sundown](https://open.spotify.com/track/09PSpnj9hH0kpoRDRWucVW) | [Coconut & Palm Trees](https://open.spotify.com/artist/5BLqpPJJkxoP3M03obHi1K) | [Sundown](https://open.spotify.com/album/26X1IbQSHXNSFmRCZTuz03) | 2:57 | 2022-05-20 |  |
 | [sunique](https://open.spotify.com/track/7a44ttV7Dp0nxJTXduqgSb) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [sunique](https://open.spotify.com/album/60t2NsIUvRFZ6kMTMIg7SH) | 3:08 | 2022-05-20 |  |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2022-05-20 |  |
 | [Surface](https://open.spotify.com/track/3cYoFTvBceHnBJrepK9zoC) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Alike / Surface](https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk) | 3:49 | 2022-05-20 |  |
-| [The Fire](https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [The Fire](https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH) | 2:42 | 2022-05-20 |  |
+| [The Fire](https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [The Fire](https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH) | 2:42 | 2022-05-20 | 2022-06-03 |
 | [The Heavens](https://open.spotify.com/track/2BQPwEDYM8KLUaKncKQiZA) | [Ely Lite](https://open.spotify.com/artist/33OqIEJdwN1tqfJeRap2QY) | [The Heavens](https://open.spotify.com/album/4SfOQIO0DjTwSYAzMGlyC1) | 3:36 | 2022-05-20 |  |
 | [The Lighthouse](https://open.spotify.com/track/4C8vDZVeXTs4coyFq914Wh) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [The Lighthouse](https://open.spotify.com/album/5jVus1wCuzCbYKI8VFA9IN) | 2:12 | 2022-05-20 |  |
 | [The Propeller \- Chill out Mix](https://open.spotify.com/track/10ydbGi9AazOlYGrr1MgHU) | [Deep Diggaz](https://open.spotify.com/artist/5cYytmWSIOZxcTcid2FQ7c) | [The Propeller \(Chill out Mix\)](https://open.spotify.com/album/4CP3pAgRpDrPRa6QhufeSu) | 2:48 | 2022-05-20 |  |

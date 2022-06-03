@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "New R&B/Soul from independent artists & labels every Wednesday. Cover: Mychelle",
+  "description": "New R&B/Soul from independent artists & labels every Wednesday. Cover: Reggie Becton",
   "name": "Fresh Finds R&B",
   "published_playlist_ids": [
     "1joOFBFfrfPA6SUyTqQm6o"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 150122,
       "name": "April Showers",
       "url": "https://open.spotify.com/track/3prFyUfgOtdOQByDUkeuIX"
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 200000,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/6YIXb5R1nJ6DbSucyvAXYg"
@@ -1105,7 +1105,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 152750,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1o1bEFROirftkoCx4x7hbc"
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 229821,
       "name": "Bouquets",
       "url": "https://open.spotify.com/track/7IEXIiFwSv3KU5dDHSEUaC"
@@ -1387,6 +1387,28 @@
       "duration_ms": 179696,
       "name": "C.L.O.U.D.S",
       "url": "https://open.spotify.com/track/080R3EkXAvys9GD2aLf3wB"
+    },
+    {
+      "album": {
+        "name": "CALL",
+        "url": "https://open.spotify.com/album/7gKlFyYvBQDPrq5lrarUuJ"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        },
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176701,
+      "name": "CALL",
+      "url": "https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP"
     },
     {
       "album": {
@@ -2424,6 +2446,28 @@
     },
     {
       "album": {
+        "name": "Most Wanted (Deluxe)",
+        "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
+      },
+      "artists": [
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Ease Up",
+      "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/1rPv254umKfCuZwyWUoFBl"
       },
@@ -2453,7 +2497,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 159473,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/17YoMAb5cKrsCNuptxfEAA"
@@ -3076,6 +3120,24 @@
     },
     {
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/5i8Yd6aBBLXluRugSLTlhb"
+      },
+      "artists": [
+        {
+          "name": "Jaylon Ashaun",
+          "url": "https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120106,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/25ivNqkoHQ3zv4LWRe1oef"
+    },
+    {
+      "album": {
         "name": "FOOL AROUND",
         "url": "https://open.spotify.com/album/1PTgXvs5I3NwEofd3QvV5n"
       },
@@ -3203,6 +3265,24 @@
       "duration_ms": 135970,
       "name": "fxck it then",
       "url": "https://open.spotify.com/track/6C6CivPw9ew0qPgvvbSloL"
+    },
+    {
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/2AZjeSF9UHQkPhyjMXP9aa"
+      },
+      "artists": [
+        {
+          "name": "Jay Isaiah",
+          "url": "https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148608,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/7tqncrBGsGJQqc24e5Ffiv"
     },
     {
       "album": {
@@ -4611,7 +4691,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 175524,
       "name": "keisha",
       "url": "https://open.spotify.com/track/0ICoAzphnJ3i5I9KHcBLdo"
@@ -4651,6 +4731,24 @@
       "duration_ms": 174000,
       "name": "Kinda Love",
       "url": "https://open.spotify.com/track/548cTdHVWvO8YTcqW7FzS9"
+    },
+    {
+      "album": {
+        "name": "Know It's Wrong",
+        "url": "https://open.spotify.com/album/39K9QGEVT1iQnTgf5czaZ8"
+      },
+      "artists": [
+        {
+          "name": "Skylar Stecker",
+          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203274,
+      "name": "Know It's Wrong",
+      "url": "https://open.spotify.com/track/4QEtedNdEUJSusAF0m1NOu"
     },
     {
       "album": {
@@ -4795,7 +4893,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 189651,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV"
@@ -5953,7 +6051,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 160208,
       "name": "One Man Woman",
       "url": "https://open.spotify.com/track/5kPvNnodG7lDpM5K0iyI5Y"
@@ -7426,6 +7524,24 @@
     },
     {
       "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/0OQemNEYUbfJgHPlwzIsPL"
+      },
+      "artists": [
+        {
+          "name": "Swavie",
+          "url": "https://open.spotify.com/artist/0BMO9ZRBkHEyBelg4kjqvb"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251578,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/5kR2jakBwovQ60EQOefY6Y"
+    },
+    {
+      "album": {
         "name": "So Sick Of Love (SSOL)",
         "url": "https://open.spotify.com/album/3cKr8bGta6CsD6u8HFL0aY"
       },
@@ -7749,7 +7865,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 198095,
       "name": "Still Up",
       "url": "https://open.spotify.com/track/6MpLbssRNTsyVazMxha70w"
@@ -8021,6 +8137,24 @@
       "duration_ms": 222005,
       "name": "TBU",
       "url": "https://open.spotify.com/track/0fNqBczzVUvBy4MSjZXXZK"
+    },
+    {
+      "album": {
+        "name": "Tease",
+        "url": "https://open.spotify.com/album/1SCKl3Yaa9g3wd8G1I9pzo"
+      },
+      "artists": [
+        {
+          "name": "Neela",
+          "url": "https://open.spotify.com/artist/1lz7G1MhES1Bb0toy0tluz"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200275,
+      "name": "Tease",
+      "url": "https://open.spotify.com/track/5ttmYDw7JUPeBFV9I2DdbS"
     },
     {
       "album": {

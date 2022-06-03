@@ -2663,7 +2663,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 180220,
       "name": "Filter",
       "url": "https://open.spotify.com/track/4bZZVcgWWMWPBwzTTp642w"
@@ -3173,10 +3173,32 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 238986,
       "name": "hai m\u01b0\u01a1i hai (22)",
       "url": "https://open.spotify.com/track/6K2RhGsliOVLgj7iUaayuD"
+    },
+    {
+      "album": {
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/2eIFX7bSus6CHnQ6Ts5mCh"
+      },
+      "artists": [
+        {
+          "name": "H\u1ee9a Kim Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP"
+        },
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "hai m\u01b0\u01a1i hai (22) [feat. Amee]",
+      "url": "https://open.spotify.com/track/0dHUKYXP9PJMN0RpR9dpFR"
     },
     {
       "album": {
@@ -3579,6 +3601,24 @@
       "duration_ms": 223012,
       "name": "I Need U - Remix",
       "url": "https://open.spotify.com/track/4pzjU0AnZa6Vfphk292e9Q"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195053,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH"
     },
     {
       "album": {

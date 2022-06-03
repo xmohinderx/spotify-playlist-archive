@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: 42 Dugg & EST Gee
 
-172 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/41V1Pq5RMClkd6MJCSDWfC)
+173 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/41V1Pq5RMClkd6MJCSDWfC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Crash Out](https://open.spotify.com/track/5jVMF4xmwfdwWZNUhHdX27) | [Fastmoney Ant](https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL) | [Crash Out](https://open.spotify.com/album/2C1OiqSN5IXX9BQyojVT6Z) | 2:53 | 2022-04-01 |  |
 | [Crocs & Wock'](https://open.spotify.com/track/2BSyX4weGuITcvl5r2lLCC) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Megatron](https://open.spotify.com/album/02OJapNdO1Dd4sGCbKVSiX) | 2:09 | 2022-03-04 | 2022-03-18 |
 | [Dancing With The Devil](https://open.spotify.com/track/1siBeqPJIFu48T8ZihxeuN) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Dancing With The Devil](https://open.spotify.com/album/3GQZZxIdXi7ZLr63tdhDxM) | 2:49 | 2022-01-14 | 2022-01-29 |
+| [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 | 2022-05-27 |  |
 | [Don't Play That](https://open.spotify.com/track/6BczFLHW9aIf9aWn5NFuNL) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Don't Play That](https://open.spotify.com/album/3g34Pygt0svsSHv19XI4gx) | 2:13 | 2022-02-04 | 2022-03-26 |
 | [Don’t Play \(with Lil Baby\)](https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 2:36 | 2021-12-10 | 2022-03-18 |
 | [Dope Fein Friday](https://open.spotify.com/track/1pJxOKrXG97RSEwpOt9Lrt) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Fiend Lives Matter](https://open.spotify.com/album/4DLkkaYLEiVV6xaVYsDfFn) | 2:20 | 2022-02-11 |  |

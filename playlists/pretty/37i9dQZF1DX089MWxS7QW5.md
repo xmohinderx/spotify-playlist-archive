@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: oceanfromtheblue, Hookuo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,143 likes - 53 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,167 likes - 53 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

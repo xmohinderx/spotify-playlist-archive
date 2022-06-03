@@ -4,7 +4,7 @@
 
 > This is The Doors\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/1fD6zI3WGBApfAdrNZPIor)
+56 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/1fD6zI3WGBApfAdrNZPIor)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Horse Latitudes](https://open.spotify.com/track/6vcqR6rCL2k4EDhqH8gzeO) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 1:35 | 2022-05-01 | 2022-05-29 |
 | [I Can't See Your Face in My Mind](https://open.spotify.com/track/6wov6IWJkisFG6rUZIESsB) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 3:23 | 2022-01-25 | 2022-05-24 |
 | [I'm Horny, I'm Stoned](https://open.spotify.com/track/7fku2DCfY0oUUDUYXB6Q7m) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Other Voices](https://open.spotify.com/album/6uhwVoXKDMzdXXjhTCH6Nk) | 3:57 | 2022-01-15 | 2022-01-31 |
+| [In The Eye Of The Sun \- Live 1972](https://open.spotify.com/track/5BGonwlaXEj4OhWm7jc1fm) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Spirits \(Live 1972\)](https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw) | 5:43 | 2022-06-02 |  |
 | [Indian Summer](https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 2:34 | 2022-01-11 |  |
 | [L.A\. Woman](https://open.spotify.com/track/6DmfWj5kOa1fX8AwN9byOn) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 7:51 | 2022-01-11 |  |
 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 | 2022-01-11 |  |

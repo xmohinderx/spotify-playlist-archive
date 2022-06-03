@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU?si=02y5SKxZQHiCGb5DxrymuA\" > Nissi </a> ",
+  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon?si=8QS7DZ_8TXOBAtT0ntN4nQ\" > Kamo Mphela </a> ",
   "name": "African Heat",
   "published_playlist_ids": [
     "6CGfDwBbFDC5qx0eVHKRnz"
@@ -113,6 +113,32 @@
       "duration_ms": 159130,
       "name": "Abeg",
       "url": "https://open.spotify.com/track/62cC7k1opRIS9sdviJnVj5"
+    },
+    {
+      "album": {
+        "name": "Abo Mvelo (feat. Mellow & Sleazy & M.J)",
+        "url": "https://open.spotify.com/album/437dkJZjTY2KPRtZAVleKs"
+      },
+      "artists": [
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "M.J",
+          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480000,
+      "name": "Abo Mvelo (feat. Mellow & Sleazy & M.J)",
+      "url": "https://open.spotify.com/track/0Ek5bneviajgSzZGonWfds"
     },
     {
       "album": {
@@ -406,6 +432,32 @@
     },
     {
       "album": {
+        "name": "Bathini (feat. Young Stunna & Artwork Sounds)",
+        "url": "https://open.spotify.com/album/0io0I1tNzck5wHgmBMPcUU"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477328,
+      "name": "Bathini (feat. Young Stunna & Artwork Sounds)",
+      "url": "https://open.spotify.com/track/1rdeLjtCukMRFVW5GgZgHu"
+    },
+    {
+      "album": {
         "name": "Big Thug Boys",
         "url": "https://open.spotify.com/album/33XnJkxrpCyni7MnbnZPCj"
       },
@@ -635,7 +687,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 179884,
       "name": "D O D O - Adekunle Gold Version",
       "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
@@ -920,6 +972,32 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1cuzlgF3KQzQOMiuWfNYox"
+      },
+      "artists": [
+        {
+          "name": "Kamo Mphela",
+          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377142,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1HNDRSH8IPUc58fXrKHpP6"
+    },
+    {
+      "album": {
         "name": "Gidi",
         "url": "https://open.spotify.com/album/5sN7Aqocqc5gQ3p3vYVYQt"
       },
@@ -931,7 +1009,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 167666,
       "name": "Gidi",
       "url": "https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F"
@@ -1067,7 +1145,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 234384,
       "name": "H\u00e1 Luxo",
       "url": "https://open.spotify.com/track/19jAxcK2gT4Fs5xVpVVIMG"
@@ -1417,7 +1495,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 212975,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
@@ -2069,6 +2147,24 @@
       "duration_ms": 251286,
       "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
       "url": "https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6"
+    },
+    {
+      "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/1YhiuotdL8FFbsKh5RADg8"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179417,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/7tzOeM0LbXJYMzjny2D45r"
     },
     {
       "album": {

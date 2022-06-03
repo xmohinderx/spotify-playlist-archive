@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 169240,
       "name": "All My Fault",
       "url": "https://open.spotify.com/track/0ddf9avsMIU4KrKDWB9SRv"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 221093,
       "name": "Beer (Song)",
       "url": "https://open.spotify.com/track/51o1raerznDJWU1rEGqGPn"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 209626,
       "name": "City Of Angels",
       "url": "https://open.spotify.com/track/4D7sweC53ikn2HrABdrvdm"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 178573,
       "name": "Dinosaurs Will Die",
       "url": "https://open.spotify.com/track/4kRDPODRnN9Cbyrcg9qTkE"
@@ -757,10 +757,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 200786,
       "name": "Lean On Sheena",
       "url": "https://open.spotify.com/track/7IR7GUO0dUyUsBp7BfQ3vJ"
+    },
+    {
+      "album": {
+        "name": "MxPx",
+        "url": "https://open.spotify.com/album/3BzXDW6hEFVmHQWN7Hjozs"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204307,
+      "name": "Let's Ride",
+      "url": "https://open.spotify.com/track/0fS39bIa0jM3NfywM5cb4h"
     },
     {
       "album": {
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 227493,
       "name": "Sell Out",
       "url": "https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ"
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 150293,
       "name": "True Believers",
       "url": "https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8"

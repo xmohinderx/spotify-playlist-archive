@@ -3024,6 +3024,24 @@
     },
     {
       "album": {
+        "name": "La ultima Vez",
+        "url": "https://open.spotify.com/album/4ewqNo6Tw80CRVuP5fNGEx"
+      },
+      "artists": [
+        {
+          "name": "B. BC Music",
+          "url": "https://open.spotify.com/artist/4NlbzjHlSyEbBvYLyjKn3r"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299493,
+      "name": "La ultima Vez",
+      "url": "https://open.spotify.com/track/2r7TasjSuMmBixVvTJuzuF"
+    },
+    {
+      "album": {
         "name": "All The Little Lights",
         "url": "https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF"
       },
@@ -3035,7 +3053,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 252866,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm"
@@ -4255,6 +4273,24 @@
       "duration_ms": 227628,
       "name": "Party",
       "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
+    },
+    {
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
     },
     {
       "album": {
@@ -5503,7 +5539,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 181960,
       "name": "The Other Woman",
       "url": "https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4"
@@ -5521,7 +5557,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 194423,
       "name": "The Perfect Girl",
       "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
@@ -5623,6 +5659,28 @@
       "duration_ms": 120308,
       "name": "this is what falling in love feels like",
       "url": "https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx"
+    },
+    {
+      "album": {
+        "name": "this is what falling in love feels like (Leon Leiden Remix)",
+        "url": "https://open.spotify.com/album/50BDVumZIQ0zmO6TpOR956"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120157,
+      "name": "this is what falling in love feels like - Leon Leiden Remix",
+      "url": "https://open.spotify.com/track/60DkG4mCA52rUUXz0F0wNi"
     },
     {
       "album": {

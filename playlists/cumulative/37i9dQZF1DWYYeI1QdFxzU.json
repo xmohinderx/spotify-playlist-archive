@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 190022,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/0fULKQl6s5xzZvxbRswkWG"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 275500,
       "name": "BH",
       "url": "https://open.spotify.com/track/3PhFcC1MNjYnjrWKgtk4HX"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 432941,
       "name": "Birds",
       "url": "https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 185979,
       "name": "Blind Eye",
       "url": "https://open.spotify.com/track/2w0zUD1DqNNznSirUyOFlB"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 370779,
       "name": "Brotherhood",
       "url": "https://open.spotify.com/track/035qofHWoDag0pg1e8gY73"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 352947,
       "name": "Creation Dub",
       "url": "https://open.spotify.com/track/3jWZXDktZVgDelnDJx9DtO"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 348000,
       "name": "Don't You Forget About Me",
       "url": "https://open.spotify.com/track/1Dl0E86yorhNRMYZ20RIfY"
@@ -659,7 +659,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 337736,
       "name": "Liquid",
       "url": "https://open.spotify.com/track/5PB690PLg0KTUTTqFExQkb"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 303706,
       "name": "Meo - Jacques Greene Remix",
       "url": "https://open.spotify.com/track/4xoQ8jM9JvjWNNC6bk3VZC"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 188750,
       "name": "Orange",
       "url": "https://open.spotify.com/track/0JIsc98iJvP4ySokSFFRY8"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 259165,
       "name": "Pink & Blue",
       "url": "https://open.spotify.com/track/2XjRIFpALuD2lgQVxVUKwS"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 460222,
       "name": "Pulsar",
       "url": "https://open.spotify.com/track/2sgPuP6ZKso5wwIR055k3k"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 332379,
       "name": "Ry",
       "url": "https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 332459,
       "name": "Silver - Original Mix",
       "url": "https://open.spotify.com/track/1Sitb65qvjW8eGNeUAgVqN"
@@ -1116,6 +1116,24 @@
     },
     {
       "album": {
+        "name": "Temple Deadbeat",
+        "url": "https://open.spotify.com/album/2Bn0eO0ziBsiQsRcUCnW1s"
+      },
+      "artists": [
+        {
+          "name": "Bit Cloudy",
+          "url": "https://open.spotify.com/artist/7hNjsQs0YPZVgdjkFRGCJX"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Temple Deadbeat",
+      "url": "https://open.spotify.com/track/4HayGBr8v4oLrS4bd22iWW"
+    },
+    {
+      "album": {
         "name": "Song For Alpha (B-Sides & Remixes)",
         "url": "https://open.spotify.com/album/3TmEZZRORnWbgpeFKRO6QU"
       },
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 254864,
       "name": "Untethered",
       "url": "https://open.spotify.com/track/377mv3pv1Nday6pjadqEwr"
@@ -1217,7 +1235,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 163500,
       "name": "Wash",
       "url": "https://open.spotify.com/track/3J8t0fiePfXwQhgOGU3wtA"
@@ -1261,6 +1279,24 @@
       "duration_ms": 270252,
       "name": "Would You Believe",
       "url": "https://open.spotify.com/track/58wKAW4alMU8WDg7aql5Jl"
+    },
+    {
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/7L3MIEJygvjr0ovJXBUvW1"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243946,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/5IBdGT5kl3wNblGeCpVYrH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYYeI1QdFxzU"

@@ -186,6 +186,24 @@
     },
     {
       "album": {
+        "name": "Cheek To Cheek (Live)",
+        "url": "https://open.spotify.com/album/4mSrOP60dblgo0HJlDgr9b"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206291,
+      "name": "Cheek To Cheek - Live",
+      "url": "https://open.spotify.com/track/2La0saPUOcHbSuiF8ubrkx"
+    },
+    {
+      "album": {
         "name": "Rhoda Scott Lady All Stars",
         "url": "https://open.spotify.com/album/5BBCsoP9qM5UEWv32uokPu"
       },
@@ -372,6 +390,56 @@
     },
     {
       "album": {
+        "name": "El Jonito",
+        "url": "https://open.spotify.com/album/6ssT3ZX7pn4Ud0V1JWeHuW"
+      },
+      "artists": [
+        {
+          "name": "Laurent Coulondre",
+          "url": "https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV"
+        },
+        {
+          "name": "Martin Wangerm\u00e9e",
+          "url": "https://open.spotify.com/artist/6Cko0OY4MlDWb57nLFMV4q"
+        },
+        {
+          "name": "Alexis Bourguignon",
+          "url": "https://open.spotify.com/artist/3KbkoymkBIQF812bJQYPPE"
+        },
+        {
+          "name": "Robinson Khoury",
+          "url": "https://open.spotify.com/artist/1L0xfJpihhDB3N8GEbmV6J"
+        },
+        {
+          "name": "St\u00e9phane Guillaume",
+          "url": "https://open.spotify.com/artist/2JmUauyONacBoIcYvSggJr"
+        },
+        {
+          "name": "Lucas Saint-Cricq",
+          "url": "https://open.spotify.com/artist/7AB1iv55p57sSmfa9d7GsI"
+        },
+        {
+          "name": "Nicolas Folmer",
+          "url": "https://open.spotify.com/artist/42oVkAbF0mIgvyFEIfeUUQ"
+        },
+        {
+          "name": "Adriano Dos Santos Tenorio",
+          "url": "https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS"
+        },
+        {
+          "name": "Jeremy Bruyere",
+          "url": "https://open.spotify.com/artist/27B9cx6PSADN8csmFRU0Tj"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221173,
+      "name": "El Jonito",
+      "url": "https://open.spotify.com/track/4LvpjpTB9SJEVNINopueyX"
+    },
+    {
+      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/0wfWEejlAeco0LVkpjt4fR"
       },
@@ -485,7 +553,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 215863,
       "name": "Home",
       "url": "https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg"
@@ -507,6 +575,24 @@
       "duration_ms": 189186,
       "name": "I Feel Foolish",
       "url": "https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0"
+    },
+    {
+      "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/470Kz5BJ7kw59izc0Kn4p9"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222853,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/61A6308e5tKhzjux8izA0m"
     },
     {
       "album": {
@@ -1243,7 +1329,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 339640,
       "name": "Textures",
       "url": "https://open.spotify.com/track/2QRQlpdtB9muofjlirBBaR"
@@ -1477,7 +1563,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 167000,
       "name": "Uteki",
       "url": "https://open.spotify.com/track/2tyHRytoAC1YVwiqLcREQX"
@@ -1525,7 +1611,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 294776,
       "name": "Walton St",
       "url": "https://open.spotify.com/track/37vqYc0prYUPrH4sPRWxlV"
@@ -1613,6 +1699,32 @@
       "duration_ms": 241000,
       "name": "When I First Saw Your Face",
       "url": "https://open.spotify.com/track/78EF8TCHy2rDm19i7SXqhq"
+    },
+    {
+      "album": {
+        "name": "Why Not? / Montara",
+        "url": "https://open.spotify.com/album/7DKRJTdgGHoTedH7F9z50G"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "Luke Titus",
+          "url": "https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2"
+        },
+        {
+          "name": "Pera Krstajic",
+          "url": "https://open.spotify.com/artist/3kNkllh7QAhy7282M8f1mW"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330088,
+      "name": "Why Not?",
+      "url": "https://open.spotify.com/track/0mhDVzQgnwtrY1JnDqz7KQ"
     },
     {
       "album": {

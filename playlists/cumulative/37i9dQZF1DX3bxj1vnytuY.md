@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-94 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+95 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Season](https://open.spotify.com/track/6plrjFbPuHZIUXZdh1bavs) | [Monojoke](https://open.spotify.com/artist/6WtncXp78N12hQFMe0e2fm) | [Cadillac Red](https://open.spotify.com/album/3MqLUGCgQADNvWCnsamcVS) | 7:07 | 2022-04-13 |  |
 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-04-28 |  |
 | [Sian \- David Mayer Remix](https://open.spotify.com/track/6QPsEsb8PnTeKN1YAbS4jh) | [ulises](https://open.spotify.com/artist/0YQKl0V9vgk6HeFttX1aTv), [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf) | [Más Allá](https://open.spotify.com/album/31AgEt2RKn5CTgrzgL948A) | 7:10 | 2022-04-13 |  |
+| [Sidi](https://open.spotify.com/track/1I5CUoUVsoFD33CXsUM91Z) | [Herrer](https://open.spotify.com/artist/4GBv8rfeHjPDvklx9mvYuz) | [Sidi](https://open.spotify.com/album/3Jki9ZN510lqYxRrvw9eDp) | 5:00 | 2022-06-02 |  |
 | [Son Mansour](https://open.spotify.com/track/1oS4FFInuBOkj92do6lsU3) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV) | [Son Mansour](https://open.spotify.com/album/5nUNmXQJPXLXTMYDU56zQP) | 5:44 | 2022-04-13 |  |
 | [Sunday Showers \- Original Mix](https://open.spotify.com/track/2B2VCQULbAItuMzrS2O6Nn) | [Kentphonik](https://open.spotify.com/artist/5WvbWfo8umWyqSrmB8DviH) | [Hiya Kaya EP](https://open.spotify.com/album/41ai9POiSflKh3DVyyq6V8) | 7:01 | 2022-04-13 |  |
 | [Sunny Street](https://open.spotify.com/track/7FSxMDMfkL58IKUHvDKRxk) | [Holy Moly](https://open.spotify.com/artist/4TglMZiWpNknCUIEQwBeRY) | [Sunny Street](https://open.spotify.com/album/68O4P4A7mJeHEfKdza0cif) | 5:36 | 2022-04-13 |  |

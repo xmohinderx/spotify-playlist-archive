@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Music from Future, Moneybagg Yo and Kanye West with XXXTENTACION.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,494,452 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,496,200 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 48 | [SOON \(feat\. Arabian\)](https://open.spotify.com/track/312YwRTzTE526nmuCaONji) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Arabian](https://open.spotify.com/artist/3CVIomosotXKy9Zrc7S6YB) | [SOON \(feat\. Arabian\)](https://open.spotify.com/album/3k4S1TseIIgV3X1KE3GeDw) | 2:39 |
 | 49 | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [Bory300](https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH) | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z) | 1:58 |
 | 50 | [We Go Up \(feat\. Fivio Foreign\)](https://open.spotify.com/track/3zQ61IRdlSbEyYQlwQZZxS) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [We Go Up](https://open.spotify.com/album/5IfknrZnkcbBcT7KQuDZXI) | 4:15 |
+| 51 | [Triumph \(feat\. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U\-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon\)](https://open.spotify.com/track/3glqlA5qY3bbo8UaUDGPnw) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR), [U\-God](https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO), [Masta Killa](https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Wu\-Tang Forever](https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43) | 5:38 |
 
-Snapshot ID: `MTY1MzYyNTU5OSwwMDAwMDY2ODAwMDAwMTgxMDNjNDM3MzAwMDAwMDE4MGZjYjY2NjYy`
+Snapshot ID: `MTY1NDE3MDg2NywwMDAwMDY2OTAwMDAwMTgxMjQ0NDU1YTIwMDAwMDE4MGZjYjY2NjYy`

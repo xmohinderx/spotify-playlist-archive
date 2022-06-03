@@ -1,13 +1,49 @@
 {
-  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. En portada: Jorge Drexler.",
-  "num_followers": 30962,
+  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Lauri Garc\u00eda en portada.",
+  "num_followers": 30990,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTA4NzM0NCwwMDAwMDAzMjAwMDAwMTgwNmM3OTg0MDgwMDAwMDE4MDZjNzk1MTdl",
+  "snapshot_id": "MTY1NDIwMTY3NSwwMDAwMDAzNDAwMDAwMTgxMjYxYTZlYjAwMDAwMDE4MTI1NzBkOTFj",
   "tracks": [
+    {
+      "added_at": "2022-06-02 17:22:55",
+      "album": {
+        "name": "CTM",
+        "url": "https://open.spotify.com/album/2uPSSgrnh2KDGsfhxUWzJC"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "CTM",
+      "url": "https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO"
+    },
+    {
+      "added_at": "2022-06-02 17:22:55",
+      "album": {
+        "name": "Esencial (En Vivo)",
+        "url": "https://open.spotify.com/album/6KpqTOBOSlypz3j3ZsP3zu"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Karin B.",
+          "url": "https://open.spotify.com/artist/0bjRjeUe0JxWX6s8sxnZsc"
+        }
+      ],
+      "duration_ms": 219265,
+      "name": "Ojos Tristes (feat. Karin B.) - Sesi\u00f3n En Vivo",
+      "url": "https://open.spotify.com/track/3wASVtmroZS4SKosTe06s1"
+    },
     {
       "added_at": "2022-04-27 19:22:24",
       "album": {
@@ -65,20 +101,36 @@
       "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
     },
     {
-      "added_at": "2022-04-18 13:03:10",
+      "added_at": "2022-06-02 17:22:55",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
+        "name": "Recuerdo",
+        "url": "https://open.spotify.com/album/0Yyill6hXJgajirOCDuGrT"
       },
       "artists": [
         {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
         }
       ],
-      "duration_ms": 148370,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
+      "duration_ms": 209200,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/5nv8yhA2ySKUxofQ3Ei1er"
+    },
+    {
+      "added_at": "2022-06-02 20:27:55",
+      "album": {
+        "name": "Vienen Y Van",
+        "url": "https://open.spotify.com/album/4mItIB7t3BKjoSUXx9odyS"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 181808,
+      "name": "Vienen Y Van",
+      "url": "https://open.spotify.com/track/5oWh8d5vckVbBuO7Udcgo8"
     },
     {
       "added_at": "2022-04-18 13:03:10",
@@ -131,6 +183,22 @@
       "duration_ms": 199080,
       "name": "Respirar",
       "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
+    },
+    {
+      "added_at": "2022-04-18 13:03:10",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 148370,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
     },
     {
       "added_at": "2022-04-18 13:03:10",
@@ -207,6 +275,22 @@
       "duration_ms": 134470,
       "name": "Ya Casi Te Olvido",
       "url": "https://open.spotify.com/track/4GBx2b88twICiMHVgmkRl9"
+    },
+    {
+      "added_at": "2022-06-02 17:22:55",
+      "album": {
+        "name": "Retrato",
+        "url": "https://open.spotify.com/album/7eI2NAvOwa8O8CtnBARs3A"
+      },
+      "artists": [
+        {
+          "name": "Lezlie",
+          "url": "https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg"
+        }
+      ],
+      "duration_ms": 161981,
+      "name": "Retrato",
+      "url": "https://open.spotify.com/track/0SYLZU1RhHaVBZO2cv9SQ3"
     },
     {
       "added_at": "2022-04-18 13:03:10",
@@ -999,22 +1083,6 @@
     {
       "added_at": "2022-04-18 13:03:10",
       "album": {
-        "name": "Antagonista",
-        "url": "https://open.spotify.com/album/2bDC3o0SBYH0c4gRinjIxd"
-      },
-      "artists": [
-        {
-          "name": "Paulina Goto",
-          "url": "https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y"
-        }
-      ],
-      "duration_ms": 211300,
-      "name": "Antagonista",
-      "url": "https://open.spotify.com/track/3ctIQ7ZOSwMtejlOKtGMbU"
-    },
-    {
-      "added_at": "2022-04-18 13:03:10",
-      "album": {
         "name": "Luis Miguel la Serie Temporada Final",
         "url": "https://open.spotify.com/album/6HhpzEOsGl0a0v2ybCaSIh"
       },
@@ -1079,22 +1147,6 @@
       "duration_ms": 235600,
       "name": "Sayonara",
       "url": "https://open.spotify.com/track/3mbRkOQDQZSJobcvhYpvdT"
-    },
-    {
-      "added_at": "2022-04-18 13:03:10",
-      "album": {
-        "name": "Qu\u00e9 Bonito",
-        "url": "https://open.spotify.com/album/3GzkCSuUd3WyC18P0Bbrxj"
-      },
-      "artists": [
-        {
-          "name": "Johan Sotelo",
-          "url": "https://open.spotify.com/artist/4EgDDojMyrVB4MxP7nAevd"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Qu\u00e9 Bonito",
-      "url": "https://open.spotify.com/track/2HmUSWGHTsSFg8vGfJ9Y3V"
     },
     {
       "added_at": "2022-04-18 13:03:10",
@@ -1247,22 +1299,6 @@
       "duration_ms": 168125,
       "name": "So\u00f1ar Contigo",
       "url": "https://open.spotify.com/track/0GYS14rwcsMXhYMP57W164"
-    },
-    {
-      "added_at": "2022-04-18 13:03:10",
-      "album": {
-        "name": "Como una Obra de Arte",
-        "url": "https://open.spotify.com/album/4OYib3Ll3sRKvwerkHG95S"
-      },
-      "artists": [
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        }
-      ],
-      "duration_ms": 145897,
-      "name": "Como una Obra de Arte",
-      "url": "https://open.spotify.com/track/4oqfGsqaAhxk0ZnWKTO4Ug"
     },
     {
       "added_at": "2022-04-18 13:03:10",

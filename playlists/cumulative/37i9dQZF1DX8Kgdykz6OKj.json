@@ -129,7 +129,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 220400,
       "name": "A Little Of This",
       "url": "https://open.spotify.com/track/47vzQk78oRe1g9vpT5663T"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 193362,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 355720,
       "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
       "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 238666,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/4sdP88Ei3DfoJ5necptBsA"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 287320,
       "name": "Chapter 7 (feat. Ty)",
       "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
@@ -1160,6 +1160,28 @@
     },
     {
       "album": {
+        "name": "Donny In Valdez (PJ's Flip)",
+        "url": "https://open.spotify.com/album/3FIC8oblGMKDC7Y3nLPA4Z"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113747,
+      "name": "Donny In Valdez - PJ's Flip",
+      "url": "https://open.spotify.com/track/2GDzymJClRxEhhDYGwQZz6"
+    },
+    {
+      "album": {
         "name": "DOOM",
         "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
       },
@@ -1307,7 +1329,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 145008,
       "name": "Dusty",
       "url": "https://open.spotify.com/track/6giunaOFjNFLVFh8KgidHL"
@@ -1395,7 +1417,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 222200,
       "name": "Elusive",
       "url": "https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf"
@@ -1667,7 +1689,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 212546,
       "name": "First Law of Nature Rock Day (feat. Denmark Vessey)",
       "url": "https://open.spotify.com/track/7Fgau8g1vPWm9cIVcG3JU9"
@@ -1819,7 +1841,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 248982,
       "name": "Gently",
       "url": "https://open.spotify.com/track/6PJH0gps7eVqjz3FtSN5pd"
@@ -1963,7 +1985,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 313623,
       "name": "God",
       "url": "https://open.spotify.com/track/4OupVhrfJq1Bz6Wj5WjgSn"
@@ -2129,7 +2151,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 155346,
       "name": "Head Highs",
       "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
@@ -2255,7 +2277,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 185138,
       "name": "How It Go",
       "url": "https://open.spotify.com/track/1ZSuYbi13mmzRe2CxqfJyk"
@@ -2567,7 +2589,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 135529,
       "name": "It's Nice Outside",
       "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
@@ -2589,7 +2611,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 117675,
       "name": "Jay-Z in 1995",
       "url": "https://open.spotify.com/track/3Sr6QO0oaR0LXAbSNDIU6l"
@@ -2655,7 +2677,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 279373,
       "name": "Jettin'",
       "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
@@ -3191,7 +3213,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 193450,
       "name": "Morning Walk",
       "url": "https://open.spotify.com/track/4C2y1aKylM9BcA0qrk0ABY"
@@ -3287,7 +3309,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 213947,
       "name": "No Gangster",
       "url": "https://open.spotify.com/track/2QVD1WfdzJGWOaXQontw3S"
@@ -3639,7 +3661,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 150370,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6cmViVLv84w4xcPLGWUcqS"
@@ -3705,7 +3727,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 158033,
       "name": "Peruggia",
       "url": "https://open.spotify.com/track/2n4NDSTmtO4JyrX6dzeqoH"
@@ -3903,7 +3925,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 204703,
       "name": "Royalty",
       "url": "https://open.spotify.com/track/3Eb9pkDAqguoj7Wc5e6Nmp"
@@ -3921,7 +3943,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 195066,
       "name": "Running Shoes",
       "url": "https://open.spotify.com/track/5hbJkZlwu9Ine1C7U2uRDO"
@@ -4021,7 +4043,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 162813,
       "name": "Sensitive",
       "url": "https://open.spotify.com/track/4pvwoXc9ylYSfqHCHoPpfj"
@@ -4147,7 +4169,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 172626,
       "name": "Sonday",
       "url": "https://open.spotify.com/track/5O9TkXgi9y4UlmBGfQnZO8"
@@ -4213,7 +4235,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 216124,
       "name": "SRS",
       "url": "https://open.spotify.com/track/6eARmBRQqt4BkuRsDt87zZ"
@@ -4495,7 +4517,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 173181,
       "name": "Terrapin",
       "url": "https://open.spotify.com/track/5LvQxdpf7SPx0ZkpkftwwN"
@@ -4513,7 +4535,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 188764,
       "name": "That Jazz",
       "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
@@ -4561,7 +4583,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 209613,
       "name": "The Circle",
       "url": "https://open.spotify.com/track/60DLWXwghcL7vBZmanhLtU"
@@ -4645,7 +4667,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 197066,
       "name": "The LP",
       "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
@@ -5121,7 +5143,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 190123,
       "name": "WHATEVER!",
       "url": "https://open.spotify.com/track/4MsY9XRxDLQvGm5dq6S9rK"
@@ -5139,7 +5161,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 275342,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
@@ -5161,7 +5183,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 230404,
       "name": "Who's on the Playlist",
       "url": "https://open.spotify.com/track/0Bjm2IaLuaY6ttrj9Bv1Dz"

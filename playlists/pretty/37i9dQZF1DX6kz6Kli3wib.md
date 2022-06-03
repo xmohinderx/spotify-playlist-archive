@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 
 > Soft electronic music for your dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,055 likes - 125 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,091 likes - 127 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,30 +108,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 | 98 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 |
 | 99 | [Little Miss Universe](https://open.spotify.com/track/1Ec6Duf5AmAmPGFwEzJkv4) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Little Miss Universe](https://open.spotify.com/album/5IHkFNd44rqOD7cF4jMid1) | 3:23 |
 | 100 | [Overtime](https://open.spotify.com/track/20po3c7qSftUPQpBrmDpX1) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Overtime](https://open.spotify.com/album/4XQpK5sCgogkGf6fCiK3QN) | 2:55 |
-| 101 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 |
-| 102 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 |
-| 103 | [Elysian Breeze](https://open.spotify.com/track/0XmKh6wAF5RGyBTB9R1lTM) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Elysian Breeze](https://open.spotify.com/album/1mxEZKsPn8dzvzIcK1wgO1) | 2:31 |
-| 104 | [wild tales](https://open.spotify.com/track/5Q7WJVOQdOyr03DnkULrLm) | [incovent](https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd) | [wild tales](https://open.spotify.com/album/5Yrb1fhHEmgNeZo608FNF2) | 2:28 |
-| 105 | [Torches to the Sky](https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4) | [Lighter Days](https://open.spotify.com/artist/2ruDLZUYhNG7PMwQWEt0Pn) | [Torches to the Sky](https://open.spotify.com/album/0lHKzPVZAFbn3LXmtmcp6C) | 3:21 |
-| 106 | [See You There](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Pink T\-Shirt](https://open.spotify.com/album/3V9EAFoBD2wHdj18E320lQ) | 3:27 |
-| 107 | [Chillity](https://open.spotify.com/track/4aR5l7Ry6NqflPVgxzxLfH) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Chillity](https://open.spotify.com/album/4dbLYtRaYIZCLountdyt4I) | 2:36 |
-| 108 | [cirtuiterie](https://open.spotify.com/track/5MJe58AhGXxAXtLaizo9dC) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [cirtuiterie](https://open.spotify.com/album/37b3HiCSU1CJzfYYrNOeAs) | 3:54 |
-| 109 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 |
-| 110 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 |
-| 111 | [bottle spin](https://open.spotify.com/track/2ZGlPFelg3I5iSyZsAHRBP) | [fxhash](https://open.spotify.com/artist/0p1FUiIp2oM3aFekQZYR6j) | [bottle spin](https://open.spotify.com/album/11stcaN7WgXH8ULLWmnGCF) | 2:24 |
-| 112 | [Citylights](https://open.spotify.com/track/6Sv69V6WY4k3Hx1SRipIaQ) | [Fred Jayson](https://open.spotify.com/artist/7pt8uu5aZjCWmDtR23Bb60) | [Citylights](https://open.spotify.com/album/7ofNEjZd1bFVHL7yBmOdXF) | 3:12 |
-| 113 | [Spectrum](https://open.spotify.com/track/3IDdpuIzrtWQqP2kT5r1Iq) | [Wael](https://open.spotify.com/artist/5yLU77HGlLwIOkuqsxctrp) | [Spectrum](https://open.spotify.com/album/32qSgni58sL6LGoELPUia1) | 3:04 |
-| 114 | [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 |
-| 115 | [Blinders](https://open.spotify.com/track/08G0wuFm4k0UjklJ05ePBg) | [Pimmo](https://open.spotify.com/artist/6Oe4ufKNdUJ2JnpbmEvRh9) | [Blinders](https://open.spotify.com/album/63htBYCdBMxsnlh5Y81LY6) | 3:48 |
-| 116 | [Elusive Language](https://open.spotify.com/track/5LZGCkGCiZJfiNO7PWdFZ1) | [Ealot](https://open.spotify.com/artist/6sJse0O3SfTxVeFiG1D4Mq) | [Comfortable Right Here](https://open.spotify.com/album/1zncEXQRslpxk9ZffXsx1c) | 4:12 |
-| 117 | [Remember](https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH) | [Hocus Faux](https://open.spotify.com/artist/0ADrSx3KCkJ9AKDYYi3OBp) | [Remember](https://open.spotify.com/album/5wJNNjEBRNwGtY6LJqHEAt) | 3:33 |
-| 118 | [Feelings](https://open.spotify.com/track/6BfSu2jmPD8qk4tl3Wre3u) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Feelings](https://open.spotify.com/album/4XhTYWqq6hs3uWBdYDXdyw) | 2:31 |
-| 119 | [Punt](https://open.spotify.com/track/6ZqRspECTUuHwKbtagUaNh) | [Steve Residence](https://open.spotify.com/artist/3PGuQmihozoJRR9SeY7ldd) | [Punt](https://open.spotify.com/album/0nV0Z5sT5iAk3kG5BtUCM9) | 2:59 |
-| 120 | [Saltwater](https://open.spotify.com/track/2yKuBIhdZNhIB4V8VpITqm) | [Bejnou](https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k) | [Saltwater](https://open.spotify.com/album/5sPsJOKPYyPNwRScvaOxn0) | 2:27 |
-| 121 | [Wave Machine](https://open.spotify.com/track/2BaPjgVI7EidIAo6fajVr3) | [Florem Ipsum](https://open.spotify.com/artist/594PMnBcYcEU1sTCC75Iir) | [Wave Machine](https://open.spotify.com/album/3Gkho3YVfoF6t2sE9yWGic) | 2:41 |
-| 122 | [Miami Haze](https://open.spotify.com/track/3YqeefMfmwnYaWVezGn8lq) | [Dekance](https://open.spotify.com/artist/44KGRSo2bpi5LUlIw52lvD) | [Miami Haze](https://open.spotify.com/album/6HBSaCYkpxvnFi6PlGQ8xF) | 4:04 |
-| 123 | [Mellow Flow](https://open.spotify.com/track/71mNlLD1Aq01GOkyR2besV) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Mellow Flow](https://open.spotify.com/album/3Kpo78HLS8dxwSqrdH7gzS) | 3:33 |
-| 124 | [Pineapple Mist](https://open.spotify.com/track/4ndh3toTLQ5E3BSAFN2ohZ) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Pineapple Mist](https://open.spotify.com/album/5twCNvcGLOYE8JtLnndxnb) | 3:31 |
-| 125 | [noice](https://open.spotify.com/track/5ZUbGn8uO1vLCQv8ijvbl6) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [noice](https://open.spotify.com/album/4HSeaIj5gON2LOdILxHzIT) | 1:48 |
+| 101 | [no huzzle](https://open.spotify.com/track/4c43CIhFGCCTf65VTafmYo) | [lucy m](https://open.spotify.com/artist/2gUhsjLB0SjWry8Kh4CMsA) | [no huzzle](https://open.spotify.com/album/4NmEIXPqrMQpSLzUmczLAR) | 2:32 |
+| 102 | [Numberless](https://open.spotify.com/track/5ZDSl9sx8sDxzrrcAddsJm) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Numberless](https://open.spotify.com/album/4u2RN3NRm5qXEkI7eE0E24) | 2:46 |
+| 103 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 |
+| 104 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 |
+| 105 | [Elysian Breeze](https://open.spotify.com/track/0XmKh6wAF5RGyBTB9R1lTM) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Elysian Breeze](https://open.spotify.com/album/1mxEZKsPn8dzvzIcK1wgO1) | 2:31 |
+| 106 | [wild tales](https://open.spotify.com/track/5Q7WJVOQdOyr03DnkULrLm) | [incovent](https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd) | [wild tales](https://open.spotify.com/album/5Yrb1fhHEmgNeZo608FNF2) | 2:28 |
+| 107 | [Torches to the Sky](https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4) | [Lighter Days](https://open.spotify.com/artist/2ruDLZUYhNG7PMwQWEt0Pn) | [Torches to the Sky](https://open.spotify.com/album/0lHKzPVZAFbn3LXmtmcp6C) | 3:21 |
+| 108 | [See You There](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Pink T\-Shirt](https://open.spotify.com/album/3V9EAFoBD2wHdj18E320lQ) | 3:27 |
+| 109 | [Chillity](https://open.spotify.com/track/4aR5l7Ry6NqflPVgxzxLfH) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Chillity](https://open.spotify.com/album/4dbLYtRaYIZCLountdyt4I) | 2:36 |
+| 110 | [cirtuiterie](https://open.spotify.com/track/5MJe58AhGXxAXtLaizo9dC) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [cirtuiterie](https://open.spotify.com/album/37b3HiCSU1CJzfYYrNOeAs) | 3:54 |
+| 111 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 |
+| 112 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 |
+| 113 | [bottle spin](https://open.spotify.com/track/2ZGlPFelg3I5iSyZsAHRBP) | [fxhash](https://open.spotify.com/artist/0p1FUiIp2oM3aFekQZYR6j) | [bottle spin](https://open.spotify.com/album/11stcaN7WgXH8ULLWmnGCF) | 2:24 |
+| 114 | [Citylights](https://open.spotify.com/track/6Sv69V6WY4k3Hx1SRipIaQ) | [Fred Jayson](https://open.spotify.com/artist/7pt8uu5aZjCWmDtR23Bb60) | [Citylights](https://open.spotify.com/album/7ofNEjZd1bFVHL7yBmOdXF) | 3:12 |
+| 115 | [Spectrum](https://open.spotify.com/track/3IDdpuIzrtWQqP2kT5r1Iq) | [Wael](https://open.spotify.com/artist/5yLU77HGlLwIOkuqsxctrp) | [Spectrum](https://open.spotify.com/album/32qSgni58sL6LGoELPUia1) | 3:04 |
+| 116 | [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 |
+| 117 | [Blinders](https://open.spotify.com/track/08G0wuFm4k0UjklJ05ePBg) | [Pimmo](https://open.spotify.com/artist/6Oe4ufKNdUJ2JnpbmEvRh9) | [Blinders](https://open.spotify.com/album/63htBYCdBMxsnlh5Y81LY6) | 3:48 |
+| 118 | [Elusive Language](https://open.spotify.com/track/5LZGCkGCiZJfiNO7PWdFZ1) | [Ealot](https://open.spotify.com/artist/6sJse0O3SfTxVeFiG1D4Mq) | [Comfortable Right Here](https://open.spotify.com/album/1zncEXQRslpxk9ZffXsx1c) | 4:12 |
+| 119 | [Remember](https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH) | [Hocus Faux](https://open.spotify.com/artist/0ADrSx3KCkJ9AKDYYi3OBp) | [Remember](https://open.spotify.com/album/5wJNNjEBRNwGtY6LJqHEAt) | 3:33 |
+| 120 | [Feelings](https://open.spotify.com/track/6BfSu2jmPD8qk4tl3Wre3u) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Feelings](https://open.spotify.com/album/4XhTYWqq6hs3uWBdYDXdyw) | 2:31 |
+| 121 | [Punt](https://open.spotify.com/track/6ZqRspECTUuHwKbtagUaNh) | [Steve Residence](https://open.spotify.com/artist/3PGuQmihozoJRR9SeY7ldd) | [Punt](https://open.spotify.com/album/0nV0Z5sT5iAk3kG5BtUCM9) | 2:59 |
+| 122 | [Saltwater](https://open.spotify.com/track/2yKuBIhdZNhIB4V8VpITqm) | [Bejnou](https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k) | [Saltwater](https://open.spotify.com/album/5sPsJOKPYyPNwRScvaOxn0) | 2:27 |
+| 123 | [Wave Machine](https://open.spotify.com/track/2BaPjgVI7EidIAo6fajVr3) | [Florem Ipsum](https://open.spotify.com/artist/594PMnBcYcEU1sTCC75Iir) | [Wave Machine](https://open.spotify.com/album/3Gkho3YVfoF6t2sE9yWGic) | 2:41 |
+| 124 | [Miami Haze](https://open.spotify.com/track/3YqeefMfmwnYaWVezGn8lq) | [Dekance](https://open.spotify.com/artist/44KGRSo2bpi5LUlIw52lvD) | [Miami Haze](https://open.spotify.com/album/6HBSaCYkpxvnFi6PlGQ8xF) | 4:04 |
+| 125 | [Mellow Flow](https://open.spotify.com/track/71mNlLD1Aq01GOkyR2besV) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Mellow Flow](https://open.spotify.com/album/3Kpo78HLS8dxwSqrdH7gzS) | 3:33 |
+| 126 | [Pineapple Mist](https://open.spotify.com/track/4ndh3toTLQ5E3BSAFN2ohZ) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Pineapple Mist](https://open.spotify.com/album/5twCNvcGLOYE8JtLnndxnb) | 3:31 |
+| 127 | [noice](https://open.spotify.com/track/5ZUbGn8uO1vLCQv8ijvbl6) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [noice](https://open.spotify.com/album/4HSeaIj5gON2LOdILxHzIT) | 1:48 |
 
-Snapshot ID: `MTY1MzYwOTYwMCwwMDAwMDA4MzAwMDAwMTgxMDJkMDE0ZTIwMDAwMDE3NzFhNzIzZTg3`
+Snapshot ID: `MTY1NDIxNDQwMCwwMDAwMDA4NDAwMDAwMTgxMjZkYzk4YjgwMDAwMDE3NzFhNzIzZTg3`

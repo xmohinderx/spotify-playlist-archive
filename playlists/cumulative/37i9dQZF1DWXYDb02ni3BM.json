@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 185573,
       "name": "100 A\u00f1os",
       "url": "https://open.spotify.com/track/4gJzpOMYyOpVnbDXlT5aWL"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 227733,
       "name": "Desesperada",
       "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 242640,
       "name": "Dime Que Me Amas",
       "url": "https://open.spotify.com/track/6lw6wpPswfGHOZkzMzKgh7"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 245400,
       "name": "Mi Peor Error - Primera Fila [En Vivo]",
       "url": "https://open.spotify.com/track/4eRSrpFOgXugLRH0odKDej"
@@ -979,7 +979,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
@@ -1109,7 +1109,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 201600,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
@@ -1313,10 +1313,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 211466,
       "name": "Ser O Parecer",
       "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Bipolar",
+        "url": "https://open.spotify.com/album/4xQqWQQIjubEOi45R5pRDq"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184293,
+      "name": "Suerte",
+      "url": "https://open.spotify.com/track/1JAv5OTUlOFgA2XPmA5vzd"
     },
     {
       "album": {
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 204906,
       "name": "Todos Me Miran",
       "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
@@ -1581,7 +1599,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 219306,
       "name": "Vive",
       "url": "https://open.spotify.com/track/7bIqHgSt30kIpqiqmvE0iZ"

@@ -3742,6 +3742,24 @@
     },
     {
       "album": {
+        "name": "Head To Toe",
+        "url": "https://open.spotify.com/album/7x74c14JgIh10ZUXyHNGJc"
+      },
+      "artists": [
+        {
+          "name": "Lara Andallo",
+          "url": "https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184427,
+      "name": "Head To Toe",
+      "url": "https://open.spotify.com/track/22vVXX39APvqsmNlNPOXtt"
+    },
+    {
+      "album": {
         "name": "Bad At Love (Acoustic EP)",
         "url": "https://open.spotify.com/album/51jgDkeQPnZiZ8eayzwsUA"
       },

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: The Filters\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: Athalia\. Artwork: Isu Kim.
 
-206 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
+209 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Hard To Love](https://open.spotify.com/track/4mYU1lSo0jgIxzH8iofmM3) | [Karazey](https://open.spotify.com/artist/2sA7JXgexSOAcvqTBveRNf), [Airinna Namara](https://open.spotify.com/artist/144bztZE6ImAnYLiYuVdEU) | [Hard To Love](https://open.spotify.com/album/1WyOsHwTY8Jn6rGZ2PPetC) | 3:04 | 2022-02-17 |  |
 | [He'll Never Love You \(The Way I Did\)](https://open.spotify.com/track/2GkRcyxXrcK1N69fTvh41V) | [Qastalani](https://open.spotify.com/artist/66WdsOJqSYj93d2tDRygaj) | [He'll Never Love You \(The Way I Did\)](https://open.spotify.com/album/12tStuD8cBgyYlLGuNt1un) | 3:08 | 2021-12-01 | 2022-01-14 |
 | [Heart On Fire](https://open.spotify.com/track/6tvl88OEmUpw4uAh9nNI9S) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Heart On Fire](https://open.spotify.com/album/178NsqOrpIbqpOQtJparp5) | 3:46 | 2022-02-10 |  |
+| [HICCUP](https://open.spotify.com/track/5Os4PkEIabbek8GjbUKnIn) | [Carla D](https://open.spotify.com/artist/3heuUvsVe9yRoFcul0A5vX) | [HICCUP](https://open.spotify.com/album/7fQPuVRQENuUUbwj3i5TTc) | 2:42 | 2022-06-02 |  |
 | [Hindsight](https://open.spotify.com/track/6vONY8IwDRU4WWEGrfYf43) | [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Hindsight](https://open.spotify.com/album/4WVj2eFk774aULiDEefviT) | 3:03 | 2022-05-05 |  |
 | [Hold Me](https://open.spotify.com/track/22UneO4S3Num3CIsFsX3BR) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH) | [Hold Me](https://open.spotify.com/album/2F3wq0941ab4XPnfNapWTH) | 2:34 | 2021-12-01 | 2022-01-14 |
 | [home.](https://open.spotify.com/track/6x6i7ky72K8OgytVjmDPpJ) | [Lincoln Lim](https://open.spotify.com/artist/6SWt2vc0oCLKFQKy5OB253) | [home.](https://open.spotify.com/album/78qhhu1f0mzaBHHnH5e3Ev) | 5:31 | 2022-01-20 |  |
@@ -174,6 +175,7 @@
 | [Status Quo](https://open.spotify.com/track/5107u4MtCdGnGT6Ba7yq9z) | [Abigail](https://open.spotify.com/artist/11yfGLGb5HMw3iGo0MN1rB) | [Status Quo](https://open.spotify.com/album/6Lkz9M52QoztCc7h9y55Xx) | 2:59 | 2021-12-01 | 2022-01-14 |
 | [STAY.GO.](https://open.spotify.com/track/13jsHnIl8hKkjN7x4KcSe5) | [Ultra Mega Cat Attack](https://open.spotify.com/artist/72GN0dgKapv61MGo3jubDg) | [STAY.GO.](https://open.spotify.com/album/6UfXSilQp4SnwMcZYCwloN) | 2:59 | 2022-03-03 |  |
 | [Sunscreen](https://open.spotify.com/track/0j7W0n2R5CfrLsUazKcIvW) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/7G7qhm9LVPD0qo3V5ed1OR) | 2:49 | 2021-12-01 | 2022-01-14 |
+| [sweet girl](https://open.spotify.com/track/6R0YOHfWscZ5RDmkgHLInC) | [Tyas Iglesias](https://open.spotify.com/artist/7BWkc2qgMWZWVbP2vUTob1) | [sweet girl](https://open.spotify.com/album/1KIN0eKn4uiVvNNNGltm4n) | 3:10 | 2022-06-02 |  |
 | [Tarifa](https://open.spotify.com/track/7CeeE95qlhwAWbu7XTh5xN) | [dylan chan](https://open.spotify.com/artist/3mKBWcBH58qiZXLs4ojPdK) | [Funerals by a Nightstand](https://open.spotify.com/album/2vBBsK12wQ4G6W1tHzWZ1K) | 2:25 | 2022-04-21 |  |
 | [Tears](https://open.spotify.com/track/7GHKD3WZblivGmUu5Kn47T) | [Ki Zikry](https://open.spotify.com/artist/28dh27mbtc24Yy62PPpm8t), [Hairi Eyes](https://open.spotify.com/artist/6QSX3GMSIRB7N6NBr28rvH) | [Tears Leave Stains](https://open.spotify.com/album/5sPoxVV66b2nWg9a9vHEqQ) | 3:29 | 2022-01-13 |  |
 | [Television](https://open.spotify.com/track/01yV1k9qfzNhElFCih2REv) | [SATINA](https://open.spotify.com/artist/2XyAeS3sKheHLul4sxHzt0) | [Television](https://open.spotify.com/album/2EESzMfEC9fFOkaufAfBUR) | 2:40 | 2022-01-13 | 2022-03-25 |
@@ -196,6 +198,7 @@
 | [Want You](https://open.spotify.com/track/1zX6oy2xSjbcfFVgnjXCcy) | [Dudes in Parachutes](https://open.spotify.com/artist/2L2In1jbYcXVTLSg94Kjre), [GO TOMMY](https://open.spotify.com/artist/1OTICqOxLa5iI9efh8rnTn), [Nic Soze](https://open.spotify.com/artist/51nOpomnHBXvNeWe11ImuE) | [Want You](https://open.spotify.com/album/5gfO3IjaHhkcozPeDvWeLK) | 3:07 | 2022-01-13 |  |
 | [wanted you so bad](https://open.spotify.com/track/4knbHVPBSyVBzJz5Br0aGt) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ) | [wanted you so bad](https://open.spotify.com/album/7d8mFneh61PQSyjIHErXL3) | 3:28 | 2022-01-13 |  |
 | [WAX](https://open.spotify.com/track/1gZjZaB1BAYB3Y1u7z2Ahe) | [Opus Renegade](https://open.spotify.com/artist/28M9xINIoXsjRHNRHPWckr), [jimmy\_thegoat](https://open.spotify.com/artist/47guwsdQUnnKYOEInCv42p) | [WAX](https://open.spotify.com/album/76ru3A54fpOk0TrCUt5VLn) | 3:40 | 2022-01-13 |  |
+| [We Go Up](https://open.spotify.com/track/0hs8RVXULjZT1J6zUleFY7) | [Athalia](https://open.spotify.com/artist/6aUdnZx15EMag2kqCMA4JY) | [We Go Up](https://open.spotify.com/album/60CJ9rniWbwLLYZidRynR9) | 3:41 | 2022-06-02 |  |
 | [We Might Never Meet Again](https://open.spotify.com/track/5UaGOJ90MCcMXoxMClpPJA) | [Jonny Ong](https://open.spotify.com/artist/1mIf4tLRj9nww55KZwBEYm), [Rachma Lim](https://open.spotify.com/artist/64x2dv2UztJeBB2vbTHsrt) | [Isolation](https://open.spotify.com/album/56tfCDnuPqmpw6gJ5B2l7s) | 4:26 | 2022-01-13 |  |
 | [What Fools Do](https://open.spotify.com/track/24KTfG74Z4brtfRxhGr2qV) | [Sarsa Kailas](https://open.spotify.com/artist/5kouM0z5Ne4bUuHpvBStjP) | [What Fools Do](https://open.spotify.com/album/5cHDJlYEpKfFpiYNrowkMS) | 3:34 | 2021-12-01 | 2022-01-14 |
 | [What Is Love](https://open.spotify.com/track/0E5M9OnCcCO2O02iBbej1Z) | [Airii](https://open.spotify.com/artist/0PGpHU7ykfVuBw819Gbd18) | [What Is Love](https://open.spotify.com/album/5secPVs9MUO1cpVpFjLGMr) | 3:01 | 2022-01-13 |  |

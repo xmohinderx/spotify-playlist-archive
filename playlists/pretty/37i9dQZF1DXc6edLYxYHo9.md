@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6edLYxYHo9.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Corey Calliet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,173 likes - 59 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175 likes - 59 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6edLYxYHo9.md) - [plain]
 | 36 | [too easy](https://open.spotify.com/track/4eL3XeuGaEoVT8ttDh3hwY) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [too easy](https://open.spotify.com/album/1hbRXvB0m34uUqNU8EbZzc) | 2:18 |
 | 37 | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/track/0wi5NYT0upjIHOG4FWSqdH) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:03 |
 | 38 | [Wockesha \(with Lil Wayne & Ashanti\) \- Remix](https://open.spotify.com/track/6ZIR3HiLbpy5xPAShl2a7u) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 3:37 |
-| 39 | [Mama Said Knock You Out](https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw) | [LL Cool J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out](https://open.spotify.com/album/7p7kcsrdoJ8DKQIMouujcb) | 4:49 |
+| 39 | [Mama Said Knock You Out](https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out](https://open.spotify.com/album/7p7kcsrdoJ8DKQIMouujcb) | 4:49 |
 | 40 | [My Moment \(feat\. 2 Chainz, Meek Mill and Jeremih\)](https://open.spotify.com/track/6JVroX8e45PFqUKuVkLgPs) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Quality Street Music](https://open.spotify.com/album/7dRun7qvnfPxrC41bgI0WH) | 3:18 |
 | 41 | [Slum Anthem](https://open.spotify.com/track/6225vlQNgif1W5dE5KN6Y6) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Slum Anthem](https://open.spotify.com/album/1CE7PVOYrG97ENpHpgTpLb) | 2:51 |
 | 42 | [The Best Part of Life](https://open.spotify.com/track/0kUz4NuENHYVUChlthlNaB) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [The Best Part of Life](https://open.spotify.com/album/3TrtHC3Pq5wtbbiGspOxWq) | 3:16 |

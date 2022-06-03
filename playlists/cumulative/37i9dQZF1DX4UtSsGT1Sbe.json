@@ -265,7 +265,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 209333,
       "name": "A Groovy Kind Of Love",
       "url": "https://open.spotify.com/track/5huh0htdiJDatAtbHLtpfz"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 307360,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/0fnTADkpDxvjA3v0Ss5bpb"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2019-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 253653,
       "name": "All Right",
       "url": "https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 201693,
       "name": "Any Way You Want It",
       "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 255680,
       "name": "Beds Are Burning - Remastered",
       "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
@@ -1467,6 +1467,24 @@
       "duration_ms": 216533,
       "name": "Centerfold",
       "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
+    },
+    {
+      "album": {
+        "name": "Love and Life: The Very Best of Diana Ross",
+        "url": "https://open.spotify.com/album/6syCFYImxKPSf6G8Oh3bIq"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230533,
+      "name": "Chain Reaction",
+      "url": "https://open.spotify.com/track/2S9lDlH0ZLVwpJiRQUdLJE"
     },
     {
       "album": {
@@ -2909,7 +2927,7 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 238026,
       "name": "Eternal Flame",
       "url": "https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi"
@@ -3215,7 +3233,7 @@
       ],
       "date_added": "2019-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 316066,
       "name": "Fame",
       "url": "https://open.spotify.com/track/7yBl8YmvcgwwYlazJcvowE"
@@ -3701,7 +3719,7 @@
       ],
       "date_added": "2019-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
@@ -3993,7 +4011,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 243360,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
@@ -4379,7 +4397,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2020-06-12",
+      "date_removed": null,
       "duration_ms": 248266,
       "name": "Hungry Eyes",
       "url": "https://open.spotify.com/track/25BxqC9Yo7TQ175DLAyMJs"
@@ -4397,7 +4415,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 251066,
       "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq"
@@ -4773,6 +4791,24 @@
       "duration_ms": 226520,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/0n1NI4TnEw0SeXSS4DNhhb"
+    },
+    {
+      "album": {
+        "name": "Tiffany",
+        "url": "https://open.spotify.com/album/298E55DESLiYPECZUKXd7I"
+      },
+      "artists": [
+        {
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228840,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/2dO88mixgzqmgy56wFUVSY"
     },
     {
       "album": {
@@ -6963,7 +6999,7 @@
       ],
       "date_added": "2021-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 302693,
       "name": "Mony Mony",
       "url": "https://open.spotify.com/track/0Ya8H9JmT4ewIx9cyejwqW"
@@ -7701,7 +7737,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 434373,
       "name": "Private Dancer - 2015 Remaster",
       "url": "https://open.spotify.com/track/5JjdJK0uGRUk4skRTuQdUZ"
@@ -8133,7 +8169,7 @@
       ],
       "date_added": "2021-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-11",
+      "date_removed": null,
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
@@ -8899,7 +8935,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 269226,
       "name": "Stop Loving You",
       "url": "https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"
@@ -9061,7 +9097,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 252853,
       "name": "Super Trouper",
       "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
@@ -9097,7 +9133,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 263106,
       "name": "Sussudio - 2016 Remaster",
       "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
@@ -9373,7 +9409,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 257360,
       "name": "That's What Friends Are For (with Elton John, Gladys Knight & Stevie Wonder)",
       "url": "https://open.spotify.com/track/1cx2NcSnJYdr3kvHWmX7fF"
@@ -11433,7 +11469,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 190626,
       "name": "You Make My Dreams (Come True)",
       "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
@@ -11473,6 +11509,24 @@
       "duration_ms": 254813,
       "name": "You Might Need Somebody",
       "url": "https://open.spotify.com/track/57nTGfnZJSytMCCVpM18ND"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "album": {

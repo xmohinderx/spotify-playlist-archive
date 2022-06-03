@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: Salmo",
+  "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: Capo Plaza",
   "name": "Plus Ultra",
   "published_playlist_ids": [
     "7z4B5G5t7icaq70XD3Gf3S"
@@ -78,6 +78,32 @@
     },
     {
       "album": {
+        "name": "Armageddon",
+        "url": "https://open.spotify.com/album/1EIX7SM9G5apJAPLAyjiAq"
+      },
+      "artists": [
+        {
+          "name": "Ketama126",
+          "url": "https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157866,
+      "name": "ANIMALE (feat. Noyz Narcos & The Whispers)",
+      "url": "https://open.spotify.com/track/0xZ2VIJQlVOY0SlMoQMzfD"
+    },
+    {
+      "album": {
         "name": "ARMAGEDDON",
         "url": "https://open.spotify.com/album/0cTvIkr8DgCyEFRYfzHfyd"
       },
@@ -89,7 +115,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 153520,
       "name": "ARMAGEDDON",
       "url": "https://open.spotify.com/track/3hCEneoWEdtkYfiWPgbhzr"
@@ -299,6 +325,24 @@
       "duration_ms": 179653,
       "name": "Caos",
       "url": "https://open.spotify.com/track/5ychvxJuts6RyjQz2aoXqY"
+    },
+    {
+      "album": {
+        "name": "Hustle Mixtape",
+        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "Capri Sun",
+      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
     },
     {
       "album": {
@@ -565,6 +609,42 @@
       "duration_ms": 153693,
       "name": "FREE SOLO (feat. Marracash)",
       "url": "https://open.spotify.com/track/0CuOlrm9gmvMUlRxBLHp0o"
+    },
+    {
+      "album": {
+        "name": "GASOLINA",
+        "url": "https://open.spotify.com/album/3ZBJbeVGumukG3EFsUN8ch"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "GASOLINA",
+      "url": "https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn"
+    },
+    {
+      "album": {
+        "name": "Hustle Mixtape",
+        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140010,
+      "name": "Giungla",
+      "url": "https://open.spotify.com/track/1W5uxws5Pwf5ujQZFgZyPS"
     },
     {
       "album": {
@@ -870,6 +950,24 @@
     },
     {
       "album": {
+        "name": "FAIV",
+        "url": "https://open.spotify.com/album/4xpmdTSoa2iKkBnxrsTWzK"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161843,
+      "name": "MAYDAY",
+      "url": "https://open.spotify.com/track/37qvUP2uVefoziYGywQwur"
+    },
+    {
+      "album": {
         "name": "Michelle Pfeiffer (feat. Tony Effe)",
         "url": "https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5"
       },
@@ -943,7 +1041,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 157826,
       "name": "NLFP (feat. tha Supreme)",
       "url": "https://open.spotify.com/track/7AINlTLLzoduGA7Aw7iUwf"
@@ -1184,6 +1282,28 @@
     },
     {
       "album": {
+        "name": "POLKA 3",
+        "url": "https://open.spotify.com/album/01FptTpR6L414vPn4r6FKn"
+      },
+      "artists": [
+        {
+          "name": "Rosa Chemical",
+          "url": "https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH"
+        },
+        {
+          "name": "Bdope",
+          "url": "https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "POLKA 3",
+      "url": "https://open.spotify.com/track/2vAyFmd5LfkSCIHA8uuya1"
+    },
+    {
+      "album": {
         "name": "Eclissi",
         "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
       },
@@ -1281,7 +1401,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 149638,
       "name": "Samba",
       "url": "https://open.spotify.com/track/2xZOxK1Emq85FfnJGVR21a"
@@ -1325,7 +1445,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 245707,
       "name": "Sensazioni Momentanee (feat. Lil Kvneki)",
       "url": "https://open.spotify.com/track/7B7MnH2GI5A9NfXdVQSmKh"
@@ -1343,7 +1463,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 195555,
       "name": "Shakerando",
       "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
@@ -1409,7 +1529,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 177625,
       "name": "Sola (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/5LK1zfpswTVPO588AAw6bq"
@@ -1467,7 +1587,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 181266,
       "name": "Star (feat. Shiva)",
       "url": "https://open.spotify.com/track/4LC3IJxi0FnvPALxJ8k6zw"
@@ -1489,7 +1609,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 237632,
       "name": "STURDY",
       "url": "https://open.spotify.com/track/5KYHtcY0dtXkSxZwtVMjgp"
@@ -1607,6 +1727,28 @@
       "duration_ms": 194106,
       "name": "Veleno",
       "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
+    },
+    {
+      "album": {
+        "name": "FAIV",
+        "url": "https://open.spotify.com/album/4xpmdTSoa2iKkBnxrsTWzK"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193876,
+      "name": "WEED, SOLDI, SESSO (feat. Gemitaiz)",
+      "url": "https://open.spotify.com/track/0WBYASmM4kt2hRv02zQCyJ"
     },
     {
       "album": {

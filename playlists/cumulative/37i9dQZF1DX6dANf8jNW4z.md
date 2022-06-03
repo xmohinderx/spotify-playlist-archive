@@ -4,7 +4,7 @@
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: Mónica Naranjo
 
-279 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
+280 songs - 15 hr 3 min - [published](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Home](https://open.spotify.com/track/0eojFASB20UILwu3GpIonO) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Home](https://open.spotify.com/album/51DaIhepBEDn4yXm2lJGJ1) | 2:55 | 2022-01-04 | 2022-03-08 |
 | [Hoy Es Hoy](https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hoy Es Hoy](https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF) | 2:54 | 2022-01-04 | 2022-02-02 |
 | [Hoy Que No Estás](https://open.spotify.com/track/6bOwMcT674402cVAVVFSiZ) | [AMANDA](https://open.spotify.com/artist/4JvL8ZzqJ6vtIbk3Wvu3mf) | [Hoy Que No Estás](https://open.spotify.com/album/0GLyBJymZrorb1C3ITs5Qp) | 3:40 | 2022-04-06 | 2022-05-04 |
+| [I Hate Dancing](https://open.spotify.com/track/2WDkiVkrnaSYJrOgEJeUgp) | [Marta Knight](https://open.spotify.com/artist/1bTVf9uk7d4iU9rcWfWj5S) | [Strange Times Forever](https://open.spotify.com/album/7zYyE3fwGkP5TNCkTmue48) | 3:35 | 2022-05-31 |  |
 | [IM PRESS](https://open.spotify.com/track/3Nk3YpFPkKzkqN9aU3F3yx) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [IM PRESS](https://open.spotify.com/album/7AcOp96wcmoB1p8Vu3AvND) | 4:11 | 2022-04-06 | 2022-05-04 |
 | [Imagina](https://open.spotify.com/track/36YLNt1sPqaFJw2LXyXHZH) | [María Guadaña](https://open.spotify.com/artist/5ezTH7JwnAAy8t6LOnwR5p) | [Latidos y Culebras](https://open.spotify.com/album/3AP47uH2hSqW7k1xeJcEFF) | 3:11 | 2022-02-01 | 2022-03-08 |
 | [Juntos](https://open.spotify.com/track/5qbWNWQhsNC4qOCJdNHKCL) | [Indara](https://open.spotify.com/artist/41HE2dQNySxOJNb2TorVBr) | [Juntos](https://open.spotify.com/album/0Uk23sv0YyaL6oo5cor1Xh) | 3:09 | 2022-05-03 | 2022-06-01 |

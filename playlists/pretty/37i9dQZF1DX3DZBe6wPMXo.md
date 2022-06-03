@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DZBe6wPMXo.md) - [plain]
 
 > Gentle instrumental music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,549 likes - 47 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,670 likes - 47 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

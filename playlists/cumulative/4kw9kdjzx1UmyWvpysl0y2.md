@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-174 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+175 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Blossom](https://open.spotify.com/track/77vrwV62LCLmun3GIcC4og) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Haen](https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g) | [Blossom](https://open.spotify.com/album/6eWw2tFagx7hdeT7A9MfjE) | 4:09 | 2022-03-18 | 2022-05-31 |
 | [Blue](https://open.spotify.com/track/1PkPBwTS8gyQJ5tjvsN1Vh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Blue](https://open.spotify.com/album/0cww0SjtI5q55VIb4QfUab) | 2:57 | 2022-05-31 |  |
 | [Cage](https://open.spotify.com/track/0KQ80se6Ppe4BRygTmhRcZ) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:45 | 2022-04-11 |  |
-| [Call My Name](https://open.spotify.com/track/2RTSOgbEyShCnvxsHbCC7D) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Call My Name](https://open.spotify.com/album/7klufynHglkdPiPu82O4wB) | 3:03 | 2022-03-23 |  |
+| [Call My Name](https://open.spotify.com/track/2RTSOgbEyShCnvxsHbCC7D) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Call My Name](https://open.spotify.com/album/7klufynHglkdPiPu82O4wB) | 3:03 | 2022-03-23 | 2022-06-03 |
 | [Carbonara](https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Carbonara](https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8) | 2:52 | 2021-11-19 | 2022-02-22 |
 | [Carousel](https://open.spotify.com/track/2vP8axvS6mqgnPwwxMARPs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [E.L.E \(Extinction Level Event\)](https://open.spotify.com/album/6dwrAsvDJ3qpogoK1jxzAE) | 2:46 | 2022-03-03 | 2022-05-14 |
 | [Catharsis X](https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Catharsis X](https://open.spotify.com/album/3ryV1s0kjVYKwRR4Is6Dqs) | 4:04 | 2022-02-03 | 2022-04-14 |
@@ -48,7 +48,7 @@
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-10 | 2022-05-21 |
 | [D.E.A.L](https://open.spotify.com/track/4NC86WqrkTKQjs4JqXpyml) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [D.E.A.L](https://open.spotify.com/album/38aBdx79uHAy2Wn9aNw2Y9) | 3:20 | 2021-11-19 | 2022-02-11 |
 | [Dance](https://open.spotify.com/track/2CJ3C71X04uLmbRGkyOThc) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV) | [Dance](https://open.spotify.com/album/0CySejF1LV9VLTwvLR39F4) | 3:46 | 2022-05-16 |  |
-| [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-21 |  |
+| [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-21 | 2022-06-03 |
 | [do it](https://open.spotify.com/track/3CQBzi1hvykznrFbZOGqnO) | [Enjac](https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f) | [do it](https://open.spotify.com/album/7IRCq5EPsHeuG3kSIu67X9) | 2:07 | 2022-03-09 | 2022-05-21 |
 | [Do It All Again](https://open.spotify.com/track/6BwPstqf4RoRMbDidFWNxE) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Do It All Again](https://open.spotify.com/album/1WIy38HHVBg8KG3hVkCE2V) | 2:17 | 2022-02-11 | 2022-04-23 |
 | [Don't Need You](https://open.spotify.com/track/3DyQ8iVs0kfsgbugsPQfT8) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Don't Need You](https://open.spotify.com/album/6IVig4iThZNVK8Fz7xtRTz) | 3:27 | 2022-02-08 | 2022-04-19 |
@@ -114,6 +114,7 @@
 | [No Control](https://open.spotify.com/track/57OlQTDHonsUTAAC75H76e) | [Ghost](https://open.spotify.com/artist/53b5NwFZLCZySuNmbRvR0l), [MADREX](https://open.spotify.com/artist/4hI1zpze5eNa4V2MwkpLAr), [DAINA](https://open.spotify.com/artist/1dS4Jq6et9it9hW9Xj1QRX) | [No Control](https://open.spotify.com/album/1tfTOFgCNCObyeKhlyHatu) | 2:58 | 2021-11-26 | 2022-03-03 |
 | [Nocturnal](https://open.spotify.com/track/64jRAmk99vinM9WgvGSNch) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Nocturnal](https://open.spotify.com/album/2DZvctY5zi4s5RyyiwPFxT) | 3:43 | 2022-04-28 |  |
 | [Numb](https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Numb](https://open.spotify.com/album/2C1eeI6heXSrCmtkGOV2FT) | 3:45 | 2022-05-02 |  |
+| [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-06-02 |  |
 | [Only You](https://open.spotify.com/track/4L6ZciTfXvf4XWzIch8sw9) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Only You](https://open.spotify.com/album/2MVqhgj8svqG19mBA0olva) | 4:16 | 2021-11-19 | 2022-01-29 |
 | [Other Side](https://open.spotify.com/track/5kj5GVUyYb5yXXtsbUeqpw) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Other Side](https://open.spotify.com/album/3luBggRjXhNlC2O3wQACop) | 2:30 | 2021-11-19 | 2022-01-27 |
 | [Outlines](https://open.spotify.com/track/6u09isfip6hiPkOl0uobwy) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo), [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Outlines](https://open.spotify.com/album/1GKcEcDtOBsRRgJxNx765a) | 3:28 | 2022-05-04 |  |

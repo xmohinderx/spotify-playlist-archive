@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Sara James
 
-468 songs - 1 day 1 hr 42 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+470 songs - 1 day 1 hr 48 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Free](https://open.spotify.com/track/6k7vblX4M4TgEjPt6jLoHZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Free](https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ) | 3:54 | 2022-05-04 | 2022-06-01 |
 | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/track/3UPfHl6IoVopUu6wVHek4s) | [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO) | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/album/3uYvCGaqN8HgwYs4aM0nwb) | 4:20 | 2022-06-01 |  |
 | [Garçon manqué](https://open.spotify.com/track/6XXXWiYJTPPVHxHewxGeY5) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Tête brûlée](https://open.spotify.com/album/6bdnYaYOkqDq9aXNgXNx3f) | 3:31 | 2022-02-02 | 2022-03-09 |
+| [GASOLINA](https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [GASOLINA](https://open.spotify.com/album/3ZBJbeVGumukG3EFsUN8ch) | 2:25 | 2022-06-01 |  |
 | [GEN](https://open.spotify.com/track/2SQtEwz7gLybXPbrekmv2G) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [GEN](https://open.spotify.com/album/0vqpmFUe2js5qYQIXtcYIa) | 2:38 | 2022-05-04 | 2022-06-01 |
 | [Gentle](https://open.spotify.com/track/3Ct7xzXkaaS36XX2BuoSJh) | [Tolstoys](https://open.spotify.com/artist/19eCt7jL2g5BAktLU1KI2J) | [Gentle](https://open.spotify.com/album/3fiZkPky4bC9GSmEaDY5yp) | 2:53 | 2022-02-02 | 2022-03-09 |
 | [Ghost](https://open.spotify.com/track/4A5QkBp4h8ju0WCdShljgX) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ghost](https://open.spotify.com/album/0MJY6eEe0lCmMkONLSg7YX) | 4:13 | 2021-12-11 | 2022-01-06 |
@@ -333,6 +334,7 @@
 | [RUNNIN’ OUT OF F\* TIME](https://open.spotify.com/track/55pQMGSGWHu9eQ4QVOkkws) | [ANNABELLE](https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm) | [RUNNIN’ OUT OF F\* TIME](https://open.spotify.com/album/5g9cJGBVdKJvLmyp6247b7) | 2:57 | 2022-04-06 | 2022-05-05 |
 | [S'il vous plait](https://open.spotify.com/track/6NeSiZokIiQwJaqAID41Vy) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [ITEKOMA HITS](https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4) | 2:15 | 2022-03-08 | 2022-04-07 |
 | [Saamna](https://open.spotify.com/track/0lhk4r9QgUs4prcgnKdatB) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Saamna](https://open.spotify.com/album/3OnWdkTf2gg6DaZWsSSoOA) | 3:53 | 2022-04-06 | 2022-05-05 |
+| [Sabroso](https://open.spotify.com/track/4NwiP2dtcaPNrKoLXgsKEg) | [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7) | [Sabroso](https://open.spotify.com/album/0LC35PYZfBapRkOQWLEiXp) | 3:13 | 2022-06-01 |  |
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 | 2022-01-05 | 2022-02-03 |
 | [Saiyaan](https://open.spotify.com/track/4Fr6W4zj9Kn89icJ72KciB) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8), [The Nasha Experience](https://open.spotify.com/artist/4yV3dIe7WGZdajYw5fw8XO) | [Saiyaan](https://open.spotify.com/album/5pvLts1zzusUmJ5kFob63C) | 4:15 | 2022-04-06 | 2022-05-05 |
 | [Sana Doyamıyorum](https://open.spotify.com/track/6xXhb03k3pUHqftl9L6HOJ) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [Sana Doyamıyorum](https://open.spotify.com/album/4GQDiaqYA0Ly2Xnm7Mp48c) | 3:01 | 2022-03-08 | 2022-04-07 |

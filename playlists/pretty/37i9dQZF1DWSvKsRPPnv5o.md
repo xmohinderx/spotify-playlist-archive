@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Blxst
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,926 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,034 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 43 | [Wait Too Long \(feat\. Blxst\)](https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Wait Too Long \(feat\. Blxst\)](https://open.spotify.com/album/3fBKA3NfQWJ81eBtGardm6) | 3:06 |
 | 44 | [Half A Bird](https://open.spotify.com/track/7zCgLfeoQqSMcRD1yCy2f2) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Half A Bird](https://open.spotify.com/album/3nqy0kf2d2tYGDASrSR8xM) | 2:44 |
 | 45 | [DRIP \(feat\. E\-40 & OHGEESY\)](https://open.spotify.com/track/6b6jyIRJra0eLwy7NnAo3u) | [D3szn](https://open.spotify.com/artist/3XUSSPMccIhcVTQ2kOHJPn), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [DRIP \(feat\. E\-40 & OHGEESY\)](https://open.spotify.com/album/55jywlPHXDY7BPQtEL2tbZ) | 2:57 |
-| 46 | [Keep Goin](https://open.spotify.com/track/5q2fIPZsejV2VdA3UeKSh2) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [BABYST5XNE GORILLAS](https://open.spotify.com/album/63ypakNyLDCYERVQz17caO) | 2:59 |
+| 46 | [Keep Goin](https://open.spotify.com/track/5q2fIPZsejV2VdA3UeKSh2) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs) | [BABYST5XNE GORILLAS](https://open.spotify.com/album/63ypakNyLDCYERVQz17caO) | 2:59 |
 | 47 | [With The Villains](https://open.spotify.com/track/0zkOra5e9BZHIdK91pgKXP) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [With The Villains / Lucky](https://open.spotify.com/album/50KiZ0amgdlobUzEnriTTl) | 2:23 |
 | 48 | [PROBLEMS](https://open.spotify.com/track/049jORKYoPsyLsLnDhlthU) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [THE PRICE EP](https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS) | 3:10 |
 | 49 | [Okay](https://open.spotify.com/track/1QKG0n4AawYX4K8SkvjxtS) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Dawgybone](https://open.spotify.com/album/4Q4TR9gcpJjm3xtm8uHNQX) | 2:04 |

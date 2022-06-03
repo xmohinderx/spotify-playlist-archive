@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-426 songs - 23 hr 53 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
+427 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [I.M](https://open.spotify.com/track/20Sn6oqyImTPlzXANLxtie) | [Michael Ben David](https://open.spotify.com/artist/3ZOg74Rm98FXI86cSo0nIk) | [I.M](https://open.spotify.com/album/3o1NoTy2SpIVmIre5w6rAG) | 3:00 | 2022-02-09 | 2022-02-15 |
 | [In The Bible \(with Lil Durk & Giveon\)](https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:56 | 2021-09-05 | 2021-09-06 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-07-25 | 2021-09-19 |
-| [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 |  |
+| [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 | 2022-06-03 |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2022-01-05 | 2022-05-06 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-03 |
 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 | 2022-05-21 | 2022-05-24 |
@@ -414,6 +414,7 @@
 | [שחור תלתן](https://open.spotify.com/track/4FBLscRO2QkJMad1k8l8bb) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [אין קונספט](https://open.spotify.com/album/0W9tb7Bq97k1W2mgtJx15a) | 3:04 | 2022-02-12 | 2022-03-06 |
 | [שימי](https://open.spotify.com/track/6LQrKdsZiC74rCjvQ4qiUf) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 3:04 | 2021-12-18 | 2021-12-29 |
 | [שימי פס](https://open.spotify.com/track/30NVqoPHBnHVmAdwv1CjBr) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4), [Ella Lee](https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo) | [שימי פס](https://open.spotify.com/album/2DfecxAH9IYiLrHgqfjHXp) | 3:11 | 2021-06-20 | 2021-08-21 |
+| [שלושה בנות](https://open.spotify.com/track/63TUZWEmunvQnAdLUD61yY) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Gitit Fisher](https://open.spotify.com/artist/1dhPws7AA939zNL1Fb7Nz0) | [שלושה בנות](https://open.spotify.com/album/6pUQfBq9yXndShYxbpi84y) | 3:37 | 2022-06-02 |  |
 | [שלחי אותו](https://open.spotify.com/track/7jlmMlAJr9sEnBzChegzeH) | [Roni Dalumi](https://open.spotify.com/artist/5yjmxaLSoZEnkIWJRAmhQe) | [תחזיקו](https://open.spotify.com/album/1hmxYh0NCD8V3zrJLDeyqH) | 2:58 | 2022-05-05 | 2022-05-07 |
 | [שלמים](https://open.spotify.com/track/72W6xVQGdKHQl348KYgwg2) | [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW) | [שלמים](https://open.spotify.com/album/5rnmY7Z9ADlfFDiaCmvGKo) | 3:41 | 2021-03-27\* | 2021-12-13 |
 | [שלמים \- מתוך חזרות למופע NEXT](https://open.spotify.com/track/3OiFlrXqZtDybOmfAvixcu) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW) | [שלמים \(מתוך חזרות למופע NEXT\)](https://open.spotify.com/album/6edgc57nzPbTO30fLP2duc) | 4:11 | 2021-11-11 | 2021-11-21 |

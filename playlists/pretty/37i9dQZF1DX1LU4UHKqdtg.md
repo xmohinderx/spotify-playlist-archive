@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: THE BOYZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,648 likes - 81 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,862 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Toxic Love](https://open.spotify.com/track/0lGl77mJatnsuNv3BBspR9) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [SHE'S THE BOSS](https://open.spotify.com/album/4YI3GMUel8jwoC1RiYHd6h) | 3:45 |
 | 2 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 |
-| 3 | [Your Eyes](https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Your Eyes](https://open.spotify.com/album/6bzE9nsQ1rXWUCsRQ18toq) | 3:16 |
-| 4 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 |
-| 5 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 |
-| 6 | [ROCKY \- Boxers Ver.](https://open.spotify.com/track/3Gjdf1Na2LhR6X7tkc4buH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ROCKY \(Boxers Ver.\)](https://open.spotify.com/album/0wJ3JKlcgsAXfzIBkJoYsN) | 3:09 |
-| 7 | [SHE'S THE BOSS](https://open.spotify.com/track/1C2P1QRhkrAQHTq3j1YfM1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [SHE'S THE BOSS](https://open.spotify.com/album/6kPf5szTsKC6OMX3YPuxcS) | 3:47 |
-| 8 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 |
-| 9 | [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 |
-| 10 | [How Come](https://open.spotify.com/track/7uGuwtEGapMzkiRRl4O32a) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [How Come](https://open.spotify.com/album/47auHySKFWcInG4hDJTWAi) | 3:37 |
-| 11 | [Deja Vu \- Japanese Ver.](https://open.spotify.com/track/2Mv8lQxFrpmDxulzBU0PTu) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [BEYOND : ZERO](https://open.spotify.com/album/4k7ECCNLLIukf1rwPaOxoY) | 3:17 |
-| 12 | [ALIVE](https://open.spotify.com/track/2G7qOmZGufZXTrDziq5QIs) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Into The Light](https://open.spotify.com/album/6EgsISsasLUQcy0e8CbAXQ) | 3:06 |
+| 3 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 |
+| 4 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 |
+| 5 | [ROCKY \- Boxers Ver.](https://open.spotify.com/track/3Gjdf1Na2LhR6X7tkc4buH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ROCKY \(Boxers Ver.\)](https://open.spotify.com/album/0wJ3JKlcgsAXfzIBkJoYsN) | 3:09 |
+| 6 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 |
+| 7 | [ALIVE](https://open.spotify.com/track/2G7qOmZGufZXTrDziq5QIs) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Into The Light](https://open.spotify.com/album/6EgsISsasLUQcy0e8CbAXQ) | 3:06 |
+| 8 | [SHE'S THE BOSS](https://open.spotify.com/track/1C2P1QRhkrAQHTq3j1YfM1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [SHE'S THE BOSS](https://open.spotify.com/album/6kPf5szTsKC6OMX3YPuxcS) | 3:47 |
+| 9 | [Your Eyes](https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Your Eyes](https://open.spotify.com/album/6bzE9nsQ1rXWUCsRQ18toq) | 3:16 |
+| 10 | [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 |
+| 11 | [How Come](https://open.spotify.com/track/7uGuwtEGapMzkiRRl4O32a) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [How Come](https://open.spotify.com/album/47auHySKFWcInG4hDJTWAi) | 3:37 |
+| 12 | [Deja Vu \- Japanese Ver.](https://open.spotify.com/track/2Mv8lQxFrpmDxulzBU0PTu) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [BEYOND : ZERO](https://open.spotify.com/album/4k7ECCNLLIukf1rwPaOxoY) | 3:17 |
 | 13 | [鱗\(うろこ\)](https://open.spotify.com/track/6mveYt3qyAnjLUxdhVd8gG) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [鱗\(うろこ\)](https://open.spotify.com/album/4fdFOYbuQJrQgUMLGLiqE0) | 5:17 |
 | 14 | [MANIAC \-Japanese ver.\-](https://open.spotify.com/track/6X5yUYQz3bKq0EZ0n82rqP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MANIAC \-Japanese ver.\-](https://open.spotify.com/album/4E7HNkLoKfcZlBxpjwBzMa) | 3:04 |
 | 15 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 41 | [O](https://open.spotify.com/track/7je54vTlkPbe80PSj5PUOb) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 3 : WHOLE\]](https://open.spotify.com/album/4EdWz8Lb77wi5UjPD9wqd6) | 3:15 |
 | 42 | [Hiding Words](https://open.spotify.com/track/7b6KnSrleI0lSZseL9GE50) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [A Wild Rose \- The 3rd Mini Album](https://open.spotify.com/album/6LjFZETsA9xj5mctbgLeW5) | 3:36 |
 | 43 | [WHO WE ARE](https://open.spotify.com/track/1pffMzj3YtanzjAJrlrKym) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [WHO WE ARE](https://open.spotify.com/album/6MPzEK36QIcH3bVcko4Lf4) | 3:03 |
-| 44 | [suit dance \(Japanese ver.\)](https://open.spotify.com/track/2aEaANMWZTYDzg8wdz2e0m) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [suit dance \(Japanese ver.\)](https://open.spotify.com/album/0xsdoBSLMROCUzZLit3W01) | 3:12 |
-| 45 | [SO GOOD](https://open.spotify.com/track/0fasNMnIi1u8tNMV9r5IEh) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [SO GOOD](https://open.spotify.com/album/09lXzBFEEydz06FInbZ6ub) | 3:27 |
-| 46 | [I want you to be happy](https://open.spotify.com/track/3VaPpNx6tSFotl2NywDpiy) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [I want you to be happy](https://open.spotify.com/album/3G6X4oBhIf8Xqgg8vxirjv) | 3:47 |
-| 47 | [Ready to ride](https://open.spotify.com/track/1qwdkBDK21HGFYpQPAnMyJ) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Ready to ride](https://open.spotify.com/album/3UtWwqV8nUxO94J65hpnrX) | 3:37 |
-| 48 | [BE MY BABY \(KwangSoo Cover\) \[feat\. AIR OUCCI\]](https://open.spotify.com/track/4Nltlmj5YPZO1CWZmfmox1) | [KwangSoo](https://open.spotify.com/artist/5mxnis3jwujdkkXv9DO0hz) | [BE MY BABY \(KwangSoo Cover\) \[feat\. AIR OUCCI\]](https://open.spotify.com/album/4yoAVAdfpYjFQR7Kb40IS3) | 4:03 |
-| 49 | [TOMBOY](https://open.spotify.com/track/6WYsZJDfUOftGVji74yYSU) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/2dVrXV8hgovfKK7nPZkYFi) | 2:54 |
+| 44 | [SO GOOD](https://open.spotify.com/track/0fasNMnIi1u8tNMV9r5IEh) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [SO GOOD](https://open.spotify.com/album/09lXzBFEEydz06FInbZ6ub) | 3:27 |
+| 45 | [I want you to be happy](https://open.spotify.com/track/3VaPpNx6tSFotl2NywDpiy) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [I want you to be happy](https://open.spotify.com/album/3G6X4oBhIf8Xqgg8vxirjv) | 3:47 |
+| 46 | [Ready to ride](https://open.spotify.com/track/1qwdkBDK21HGFYpQPAnMyJ) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Ready to ride](https://open.spotify.com/album/3UtWwqV8nUxO94J65hpnrX) | 3:37 |
+| 47 | [BE MY BABY \(KwangSoo Cover\) \[feat\. AIR OUCCI\]](https://open.spotify.com/track/4Nltlmj5YPZO1CWZmfmox1) | [KwangSoo](https://open.spotify.com/artist/5mxnis3jwujdkkXv9DO0hz) | [BE MY BABY \(KwangSoo Cover\) \[feat\. AIR OUCCI\]](https://open.spotify.com/album/4yoAVAdfpYjFQR7Kb40IS3) | 4:03 |
+| 48 | [TOMBOY](https://open.spotify.com/track/6WYsZJDfUOftGVji74yYSU) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/2dVrXV8hgovfKK7nPZkYFi) | 2:54 |
+| 49 | [Tippy Toes](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Tippy Toes](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) | 3:08 |
 | 50 | [DICE](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:06 |
 | 51 | [Blow](https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Blow](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX) | 2:43 |
 | 52 | [Still Life](https://open.spotify.com/track/4ba6mmxFtg8kRyqQ4PaAi4) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/0StZAtafrYrNtHULz4n3iS) | 3:08 |
@@ -88,6 +88,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 78 | [make a secret \- The Greatest Ver.](https://open.spotify.com/track/0Vnvga0n2hceutBl4SuZug) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [make a secret \(The Greatest Ver.\)](https://open.spotify.com/album/4vX6w6HrQ79R7uwU24vasz) | 4:34 |
 | 79 | [lonely](https://open.spotify.com/track/6tHHDLX1jZNzlT4vZmqm5n) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [lonely](https://open.spotify.com/album/2Ay01bZKWRqWUrRWydeSsC) | 3:33 |
 | 80 | [WHO](https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [REFUGE](https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9) | 2:54 |
-| 81 | [Tippy Toes](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Tippy Toes](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) | 3:08 |
 
-Snapshot ID: `MTY1NDEzMjI4NSwwMDAwMDAwMGE0NzM0MzVhNGYzODIyMWNjNGI4YzYyMTljZTk1OTE5`
+Snapshot ID: `MTY1NDIxNzk4NSwwMDAwMDAwMGIyNDBmMjc2NWZkMDVjODQxNjRiOTk4ODExN2U5Nzdk`

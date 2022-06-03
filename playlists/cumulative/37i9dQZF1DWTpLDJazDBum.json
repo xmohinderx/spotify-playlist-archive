@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "In the Dash",
+        "url": "https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z"
+      },
+      "artists": [
+        {
+          "name": "Ballpoint",
+          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115065,
+      "name": "35mm",
+      "url": "https://open.spotify.com/track/0NkKveHqLQXKDXJ2FO0p1d"
+    },
+    {
+      "album": {
         "name": "A Trip for You",
         "url": "https://open.spotify.com/album/0QKQialdrr80S3EMFupxHR"
       },
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 129824,
       "name": "Flavor",
       "url": "https://open.spotify.com/track/2P58o9JbLYOV5adMOrh4WH"
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 129916,
       "name": "Fly by Night",
       "url": "https://open.spotify.com/track/5u3vpXS3p1NEPGpK87MfTO"
@@ -1212,6 +1230,24 @@
     },
     {
       "album": {
+        "name": "In the Dash",
+        "url": "https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z"
+      },
+      "artists": [
+        {
+          "name": "Ballpoint",
+          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137433,
+      "name": "Have Your Fun",
+      "url": "https://open.spotify.com/track/5CLTIJXyJ6xbK5lt7feH5y"
+    },
+    {
+      "album": {
         "name": "Hontoni Tasukete",
         "url": "https://open.spotify.com/album/772KGx3CGT2gAI7y4MiGpE"
       },
@@ -1281,6 +1317,24 @@
       "duration_ms": 199111,
       "name": "In Reality",
       "url": "https://open.spotify.com/track/5cuq5rEehD4lyRSTXrac0l"
+    },
+    {
+      "album": {
+        "name": "In the Dash",
+        "url": "https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z"
+      },
+      "artists": [
+        {
+          "name": "Ballpoint",
+          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121874,
+      "name": "In the Dash",
+      "url": "https://open.spotify.com/track/1aY48DLfF9XM4jwZHeEIjj"
     },
     {
       "album": {
@@ -2621,7 +2675,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 138624,
       "name": "Spiderweb",
       "url": "https://open.spotify.com/track/7rQvmg0QWCtF8FHEsS9WTV"
@@ -3017,7 +3071,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 125070,
       "name": "Ukkers",
       "url": "https://open.spotify.com/track/3tvofOS8e3AyahESsDHGyo"

@@ -2096,6 +2096,24 @@
     },
     {
       "album": {
+        "name": "no huzzle",
+        "url": "https://open.spotify.com/album/4NmEIXPqrMQpSLzUmczLAR"
+      },
+      "artists": [
+        {
+          "name": "lucy m",
+          "url": "https://open.spotify.com/artist/2gUhsjLB0SjWry8Kh4CMsA"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "no huzzle",
+      "url": "https://open.spotify.com/track/4c43CIhFGCCTf65VTafmYo"
+    },
+    {
+      "album": {
         "name": "noice",
         "url": "https://open.spotify.com/album/4HSeaIj5gON2LOdILxHzIT"
       },
@@ -2111,6 +2129,24 @@
       "duration_ms": 108000,
       "name": "noice",
       "url": "https://open.spotify.com/track/5ZUbGn8uO1vLCQv8ijvbl6"
+    },
+    {
+      "album": {
+        "name": "Numberless",
+        "url": "https://open.spotify.com/album/4u2RN3NRm5qXEkI7eE0E24"
+      },
+      "artists": [
+        {
+          "name": "Himari Aoki",
+          "url": "https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166180,
+      "name": "Numberless",
+      "url": "https://open.spotify.com/track/5ZDSl9sx8sDxzrrcAddsJm"
     },
     {
       "album": {

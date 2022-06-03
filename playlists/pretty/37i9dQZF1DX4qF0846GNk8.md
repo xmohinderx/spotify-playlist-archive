@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر\. الغلاف: حوده بندق
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,976 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,116 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [الباشا](https://open.spotify.com/track/1qh5fjEI0AwX2QikxLwZLi) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [الباشا](https://open.spotify.com/album/5f8WADVIGDIr3nrlVATVJl) | 2:44 |
-| 2 | [خصمي بكيفه مكتفه \- انا مش بتكسف يا ابلتي](https://open.spotify.com/track/3Kroxt7mnIUfSDFGpWF5yJ) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [خصمي بكيفه مكتفه \(انا مش بتكسف يا ابلتي\)](https://open.spotify.com/album/369scONG77YROb5sy7AnTt) | 4:33 |
+| 2 | [مظبوط](https://open.spotify.com/track/7o0hlHMqHRDytYnYF7wYIa) | [3ab3az](https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [مظبوط](https://open.spotify.com/album/0DXCelQ2rGcnuZjWPAOil6) | 3:45 |
 | 3 | [يا اصفر](https://open.spotify.com/track/4zYPnTQw16Ep4dEEgvjQTu) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [يا اصفر](https://open.spotify.com/album/4enUdXXUFYoWg5I6TlKWE6) | 3:41 |
 | 4 | [اخرس عمك جالك](https://open.spotify.com/track/7xY05LQHDQJFxvZrEzStsY) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [اخرس عمك جالك](https://open.spotify.com/album/6FaNLCBZEMml6pu9shmRPc) | 5:44 |
 | 5 | [فتش فتش](https://open.spotify.com/track/6xT8RMc5S88Rfs82YZwmXm) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA) | [فتش فتش](https://open.spotify.com/album/78b0ANL8qcCLnUr39MK2bt) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 49 | [Weyyak](https://open.spotify.com/track/1hCT1bsFmcuqi9HRP1ilf0) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [Weyyak](https://open.spotify.com/album/4Hy7xGPu9rQ3qSv6dWNrym) | 2:54 |
 | 50 | [Falatet Meny](https://open.spotify.com/track/0MMxozXjLBkQFqOPuUEPwG) | [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm), [Dina Elsherbiny](https://open.spotify.com/artist/6QYfR1A8MLd3ZsqRz6y2Kd) | [Falatet Meny](https://open.spotify.com/album/1agL1E9aXaPcwxDnI6oe5x) | 2:22 |
 
-Snapshot ID: `MTY0ODY2NTc1OCwwMDAwMDE2NjAwMDAwMTdmZGMyMzBjZTEwMDAwMDE3ZjJkNjc2YTVh`
+Snapshot ID: `MTY1NDE3NDU4MSwwMDAwMDE2NzAwMDAwMTgxMjQ3ZDA0NDkwMDAwMDE3ZjJkNjc2YTVh`

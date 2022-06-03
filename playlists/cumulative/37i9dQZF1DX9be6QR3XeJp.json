@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists. Cover: Debbie",
+  "description": "Discover your new favourite artists. Cover: Lauran Hibberd",
   "name": "RADAR: First Listen",
   "published_playlist_ids": [
     "6qn9QC3gawWvZcEMTsuVpt"
@@ -847,6 +847,24 @@
       "duration_ms": 157447,
       "name": "I Need You To Hate Me",
       "url": "https://open.spotify.com/track/1zY6ekSJ8VI6tZ6nBqoo7g"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Insecure",
+        "url": "https://open.spotify.com/album/0DyvaVIRS4rdXtTcIu5QQi"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "I'm Insecure",
+      "url": "https://open.spotify.com/track/6kHnHk0jlAdYWktT0FQrSN"
     },
     {
       "album": {

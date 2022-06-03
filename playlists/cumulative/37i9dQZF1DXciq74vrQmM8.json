@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. cassyette",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. maggie lindemann",
   "name": "misfits 2.0",
   "published_playlist_ids": [
     "7v4i1kizdUXc9HxDt7gAmG"
@@ -23,6 +23,24 @@
       "duration_ms": 238285,
       "name": "2much",
       "url": "https://open.spotify.com/track/3Cy5Dua2zVvH8YvJ5ORILo"
+    },
+    {
+      "album": {
+        "name": "AGAIN.",
+        "url": "https://open.spotify.com/album/0VEOmqs7veZkwAQwV88NgF"
+      },
+      "artists": [
+        {
+          "name": "KDVSGOLIATH",
+          "url": "https://open.spotify.com/artist/1fxSfIUHcYGuFkPY7kOCkQ"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181995,
+      "name": "AGAIN.",
+      "url": "https://open.spotify.com/track/2knqxjt5zHq0So8l619O88"
     },
     {
       "album": {
@@ -425,6 +443,28 @@
       "duration_ms": 163293,
       "name": "braindead!",
       "url": "https://open.spotify.com/track/4GYRVROTrMnOnMzOlWizzO"
+    },
+    {
+      "album": {
+        "name": "break me!",
+        "url": "https://open.spotify.com/album/3mV2ebkKgbEaEjnTbi0sJD"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        },
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153899,
+      "name": "break me!",
+      "url": "https://open.spotify.com/track/4kAtlOHiKnGFfJVPfLyHo1"
     },
     {
       "album": {

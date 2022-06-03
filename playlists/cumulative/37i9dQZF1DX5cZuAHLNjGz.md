@@ -4,7 +4,7 @@
 
 > Remembering Sidhu Moose Wala.
 
-103 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
+104 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Lover](https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 | 2022-05-29 |  |
 | [Luna](https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:06 | 2022-05-29 |  |
 | [Ma Belle](https://open.spotify.com/track/3D0pmiK3zyF9PudyJ8mkor) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [Ma Belle](https://open.spotify.com/album/0q6ZMd3ScXa3Uql600gmcA) | 2:40 | 2022-05-29 |  |
-| [Majha Block](https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Majha Block](https://open.spotify.com/album/284tuekFOZ6066Schm1gE7) | 4:09 | 2022-05-29 |  |
+| [Majha Block](https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Majha Block](https://open.spotify.com/album/284tuekFOZ6066Schm1gE7) | 4:09 | 2022-05-29 | 2022-06-03 |
 | [Majhail](https://open.spotify.com/track/0cpyy8xLYRt1OdlnqPmMnm) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Majhail](https://open.spotify.com/album/3l9zX9nHVRjYLbx5ya77ha) | 2:55 | 2022-05-29 |  |
 | [MAJHE AALE](https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:50 | 2022-05-29 |  |
 | [Moonlight](https://open.spotify.com/track/5FTcLPsQFX2NZaBQHbTz06) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Moonlight](https://open.spotify.com/album/2SuM7r0dc3cpegQeGyJcWZ) | 3:18 | 2022-05-29 |  |
@@ -104,6 +104,7 @@
 | [Umbrella](https://open.spotify.com/track/7fBeejW1BoZFTd4hTP6JvV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [Umbrella](https://open.spotify.com/album/3S3ekcemSjVZ6Pi3ojBEhq) | 3:13 | 2022-05-29 |  |
 | [Unforgettable](https://open.spotify.com/track/7HWMIRSmUrhlbveXerIEWk) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [Unforgettable](https://open.spotify.com/album/5Yl8tuE1kBsLK4PaSN8Vfm) | 3:32 | 2022-05-29 |  |
 | [Untouchable](https://open.spotify.com/track/2hDMBVN3P47GEhH5VtmA6m) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Untouchable](https://open.spotify.com/album/0Ib0QsGyuoGpVIPZaUwHL6) | 2:33 | 2022-05-29 |  |
+| [US \(feat\. Raja Kumari\)](https://open.spotify.com/track/36cqlmc53NqlEUqPJdgUOx) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2022-06-02 |  |
 | [Vail](https://open.spotify.com/track/1bqAnuqlgbQ55AByEp0SmM) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Vail](https://open.spotify.com/album/0SUKbK4r6wQS0t9gdMsIdm) | 3:20 | 2022-05-29 |  |
 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 | 2022-05-29 |  |
 | [VIP](https://open.spotify.com/track/0QFNQvIkLYghHHRXfHEPbk) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [VIP](https://open.spotify.com/album/5XPqTCH8VrxIGfvajsjadT) | 2:47 | 2022-05-29 |  |

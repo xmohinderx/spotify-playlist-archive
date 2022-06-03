@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1625,7 +1625,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 154960,
       "name": "Bisous",
       "url": "https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn"
@@ -4933,7 +4933,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 140595,
       "name": "EZ",
       "url": "https://open.spotify.com/track/6jMDzJpF4ULB0gKvJV0Hji"
@@ -9043,7 +9043,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 182568,
       "name": "M.S.O.M.",
       "url": "https://open.spotify.com/track/4tC2tHKt8xZfm36rqXSQxJ"
@@ -10752,6 +10752,24 @@
     },
     {
       "album": {
+        "name": "Niente da perdere",
+        "url": "https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166214,
+      "name": "Niente da perdere",
+      "url": "https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5"
+    },
+    {
+      "album": {
         "name": "MM Vol. 4",
         "url": "https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce"
       },
@@ -11041,7 +11059,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 164657,
       "name": "Non \u00e8 Easy",
       "url": "https://open.spotify.com/track/2SdYuBGvuX0L7KbWiFhLzg"

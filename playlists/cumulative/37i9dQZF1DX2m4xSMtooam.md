@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-105 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/3aH3sMKMrDaZCgEOtCiFCf)
+106 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/3aH3sMKMrDaZCgEOtCiFCf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Embarcadero](https://open.spotify.com/track/3zDRToKAQvpvyIbb06b4RD) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Greatest Hits Series\-\-Paul Desmond](https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b) | 4:00 | 2022-05-13 |  |
 | [Essa é Pro João](https://open.spotify.com/track/26S40PKjEz1FZZJabKRVch) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 3:01 | 2022-05-13 |  |
 | [Estate](https://open.spotify.com/track/55mCj2LMr3csP88djkFpPN) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 6:27 | 2022-05-13 |  |
-| [Este Seu Olhar](https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Pure Bossa Nova](https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt) | 2:32 | 2022-05-13 |  |
+| [Este Seu Olhar](https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Pure Bossa Nova](https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt) | 2:32 | 2022-05-13 | 2022-06-03 |
 | [Every Breath You Take](https://open.spotify.com/track/4u2b3QdJ6FkyaaTK0TrRQR) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 2:47 | 2022-05-13 |  |
 | [Favela](https://open.spotify.com/track/4TtDDJT3b9ardn5stlCc2u) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba](https://open.spotify.com/album/1cHjqGzxfwssPgyD6IYW28) | 4:00 | 2022-05-13 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Shadow Of Your Smile](https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9) | 2:22 | 2022-05-13 |  |
@@ -64,6 +64,7 @@
 | [Les eaux de mars](https://open.spotify.com/track/32FfL5hpFQdweMkxg8Z55o) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Graham Harvey](https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Jeremy Brown](https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v) | [Raconte\-moi..\. \(Bonus Edition\)](https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb) | 3:38 | 2022-05-13 |  |
 | [Lá Vem a Baiana](https://open.spotify.com/track/1n441XV55b21VveSUSA1SA) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Canções de Caymmi](https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX) | 4:02 | 2022-05-13 |  |
 | [Manha de Carnaval](https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 3:09 | 2022-05-13 |  |
+| [Meditação](https://open.spotify.com/track/4XUjJAMQ0sYoyOQJZf2AS0) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Ultimate Guitar Classics 1951\-1961](https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito) | 1:47 | 2022-05-13 |  |
 | [Meditação](https://open.spotify.com/track/1KcrfXWVdStS6UtSxmzGps) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara Dez Anos Depois](https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd) | 2:17 | 2022-05-13 |  |
 | [Night and Day](https://open.spotify.com/track/73LhDgmupOzN8RPljjgzie) | [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [Momento](https://open.spotify.com/album/1DLInOTT0GPK7hUhJ8uIUn) | 4:55 | 2022-05-13 |  |
 | [O Barquinho](https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [From Paris To Rio](https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk) | 4:29 | 2022-05-13 |  |

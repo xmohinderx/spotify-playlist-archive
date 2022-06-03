@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Carpe Noctem",
+        "url": "https://open.spotify.com/album/3RWHxYCW7Db0eJmf0vJLcb"
+      },
+      "artists": [
+        {
+          "name": "jelaquest",
+          "url": "https://open.spotify.com/artist/2vkUei6EdRcTOJtsH5hJeX"
+        },
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134634,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/1H8Zh82eofXSZPn7hVxH5R"
+    },
+    {
+      "album": {
         "name": "2 more minutes",
         "url": "https://open.spotify.com/album/1g1rQ5quiQhB2A3YEjtEke"
       },
@@ -1365,6 +1387,24 @@
       "duration_ms": 109616,
       "name": "ephemeral",
       "url": "https://open.spotify.com/track/7cR6m3PDXpE3x6UfXhuLkK"
+    },
+    {
+      "album": {
+        "name": "Savage Hearts",
+        "url": "https://open.spotify.com/album/719kSTPTYUbFa2ovAq0igN"
+      },
+      "artists": [
+        {
+          "name": "Madbank",
+          "url": "https://open.spotify.com/artist/0PWa4U2yMdW9jOhrKv6SzI"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Fascinations of Style",
+      "url": "https://open.spotify.com/track/1oHZim30tpQXfZks6sgRrd"
     },
     {
       "album": {
@@ -3126,6 +3166,24 @@
     },
     {
       "album": {
+        "name": "Once There",
+        "url": "https://open.spotify.com/album/6hYaa2cFCMKvv9pfeKNodV"
+      },
+      "artists": [
+        {
+          "name": "ENRA",
+          "url": "https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138383,
+      "name": "Once There",
+      "url": "https://open.spotify.com/track/69PdAAgrIKX9wY7k35D23o"
+    },
+    {
+      "album": {
         "name": "Ophelia",
         "url": "https://open.spotify.com/album/7F5LJTqpYbuaxgmbORaJmc"
       },
@@ -4268,6 +4326,24 @@
     },
     {
       "album": {
+        "name": "The Summit Point (Lofi Minecraft Music)",
+        "url": "https://open.spotify.com/album/4148Pe35Y8ywo2HLcgvsM7"
+      },
+      "artists": [
+        {
+          "name": "LoCraft",
+          "url": "https://open.spotify.com/artist/4RftachrjrKoRHUWPElfUJ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "The Summit Point - Lofi Minecraft Music",
+      "url": "https://open.spotify.com/track/4Z7AKTdfeqfzJQuVJsEL0U"
+    },
+    {
+      "album": {
         "name": "tight squeeze",
         "url": "https://open.spotify.com/album/5kfL0ZyNYQxthQK3pj5WOh"
       },
@@ -4421,6 +4497,24 @@
       "duration_ms": 129054,
       "name": "Ups and Downs",
       "url": "https://open.spotify.com/track/6yffhtipWCT2gWOXiVbCcU"
+    },
+    {
+      "album": {
+        "name": "Uzak",
+        "url": "https://open.spotify.com/album/2Kx0ZeUqRZnVM7nUWvYVcS"
+      },
+      "artists": [
+        {
+          "name": "HVMZA XI",
+          "url": "https://open.spotify.com/artist/5mHaC40O8DtkjUmHBQCjeZ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149647,
+      "name": "Uzak",
+      "url": "https://open.spotify.com/track/442yQKLo9FM12Qgv7AoZT3"
     },
     {
       "album": {
@@ -4579,7 +4673,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 90375,
       "name": "zero to none",
       "url": "https://open.spotify.com/track/0wb7JvyyHS34Hy7o6NQDBA"

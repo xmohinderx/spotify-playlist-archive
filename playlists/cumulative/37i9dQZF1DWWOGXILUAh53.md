@@ -4,7 +4,7 @@
 
 > The hottest new pop with the all the drops\. Cover: Empress Of
 
-244 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/0Wt1WNhsHEp62QHeiMAcMq)
+245 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/0Wt1WNhsHEp62QHeiMAcMq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-02-25 | 2022-05-28 |
 | [Deja Vu](https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Deja Vu](https://open.spotify.com/album/1RDus4fqaHwhQzqRiidAEY) | 3:18 | 2021-12-03 | 2022-03-05 |
 | [Detonate](https://open.spotify.com/track/2bhWunYI6eZe9fvt5QrRST) | [Dan Talevski](https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH) | [Detonate](https://open.spotify.com/album/4ts84rZXqpLhCchaBabtOM) | 2:30 | 2022-02-18 | 2022-04-23 |
+| [Diamonds \(feat\. Aleyna Tilki\)](https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Diamonds \(feat\. Aleyna Tilki\)](https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o) | 2:48 | 2022-05-27 |  |
 | [Discoteca](https://open.spotify.com/track/7hmebsI3sCMzANWFcNiCMh) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Discoteca](https://open.spotify.com/album/7r6a9NnWydms4uIjf9bH5C) | 3:45 | 2021-12-31 | 2022-05-20 |
 | [Do It Anyway \(with Icona Pop\)](https://open.spotify.com/track/4JlbNN3jRVy0agVxF2K5DA) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [SLEEP](https://open.spotify.com/album/5mzCJJA5kAQRgHZIUIpR0t) | 2:38 | 2021-11-05 | 2022-01-15 |
 | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU) | 2:50 | 2022-05-27 |  |

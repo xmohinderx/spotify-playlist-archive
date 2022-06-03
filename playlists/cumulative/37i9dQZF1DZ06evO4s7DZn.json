@@ -276,6 +276,24 @@
     },
     {
       "album": {
+        "name": "Soy de Carne y Hueso",
+        "url": "https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181274,
+      "name": "El Brinquito de la Perra Ro\u00f1osa",
+      "url": "https://open.spotify.com/track/5t1g30K4DhRSkiIgichk5f"
+    },
+    {
+      "album": {
         "name": "No Le Digas a Nadie",
         "url": "https://open.spotify.com/album/7BCtUlBeAMEfqUnQayCSSO"
       },
@@ -395,7 +413,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 203103,
       "name": "La Guitarra de Lolo",
       "url": "https://open.spotify.com/track/3Jw3jrSecqtTkc8F4uPvV4"
@@ -420,6 +438,24 @@
     },
     {
       "album": {
+        "name": "Banda Rafaga En Vivo! Vol. 1",
+        "url": "https://open.spotify.com/album/2qUPiJ1BajcT1xtC3fdO4a"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "La Otra Espa\u00f1a (En Vivo)",
+      "url": "https://open.spotify.com/track/78ZsuXjwAzs0hezu9LYQ5B"
+    },
+    {
+      "album": {
         "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
         "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
       },
@@ -431,7 +467,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 151000,
       "name": "Las Medias Negras - En Vivo",
       "url": "https://open.spotify.com/track/4yPlCcF26zH7EqXHZ9k6xD"
@@ -573,6 +609,24 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Mi Ultima Parranda (En Vivo)",
+      "url": "https://open.spotify.com/track/7n9VbJdI8uT7Wh3qi0eWdd"
+    },
+    {
+      "album": {
+        "name": "En Vivo! Desde Pico Rivera, Ca",
+        "url": "https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -611,7 +665,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 167020,
       "name": "Morenita (En Vivo)",
       "url": "https://open.spotify.com/track/0AHH8XJjFXeIaRQu8i1T1w"
@@ -773,10 +827,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 248036,
       "name": "Que Le Vaya Bien",
       "url": "https://open.spotify.com/track/7cVpSomkGnX5IpQbeP1vXB"
+    },
+    {
+      "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177160,
+      "name": "Qui\u00e9reme \u00c1mame",
+      "url": "https://open.spotify.com/track/6cFIyDNYKW4nCog6YoFz6V"
     },
     {
       "album": {

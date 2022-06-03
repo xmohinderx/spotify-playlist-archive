@@ -1010,6 +1010,24 @@
     },
     {
       "album": {
+        "name": "Sigulda",
+        "url": "https://open.spotify.com/album/4ftPJ2WTzpMa4Lb4ckUqIS"
+      },
+      "artists": [
+        {
+          "name": "Revolutions",
+          "url": "https://open.spotify.com/artist/0RjqXCIIlAUNd0APK0cE8T"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266153,
+      "name": "Sigulda",
+      "url": "https://open.spotify.com/track/46WRSVjU9OwepvlCcBLvFa"
+    },
+    {
+      "album": {
         "name": "Solus",
         "url": "https://open.spotify.com/album/1egYUj4A6rCalOq90beuGw"
       },

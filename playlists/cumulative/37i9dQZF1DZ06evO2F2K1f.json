@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 113997,
       "name": "Beauty Spot",
       "url": "https://open.spotify.com/track/2jJGtcvM6RKb8PDXmxKqjF"
@@ -346,6 +346,24 @@
     },
     {
       "album": {
+        "name": "Kpm 1000 Series: The Big Beat",
+        "url": "https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Delivery Date",
+      "url": "https://open.spotify.com/track/1EPiKxltYOTINNNqmvNOw0"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: Hot Wax",
         "url": "https://open.spotify.com/album/3PAWWGdigwDsVcfsMUu7mr"
       },
@@ -477,10 +495,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 83226,
       "name": "Grange Hill",
       "url": "https://open.spotify.com/track/2FKrc7YAbpLeWD2G08IRvC"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Friendly Faces",
+        "url": "https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132570,
+      "name": "Hastle",
+      "url": "https://open.spotify.com/track/5mEMZUryDazoP7uY6ZXgWC"
     },
     {
       "album": {
@@ -495,7 +531,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 222247,
       "name": "High Diver",
       "url": "https://open.spotify.com/track/5YHOWugv9OFLaog6Cst2CS"
@@ -875,7 +911,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 91840,
       "name": "Powerboat",
       "url": "https://open.spotify.com/track/2T7So0EKMcfsIVlNsSV4TS"
@@ -1143,7 +1179,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 187428,
       "name": "The Millionairess",
       "url": "https://open.spotify.com/track/1iqulavsMHGtmCXF57YbLU"
@@ -1183,7 +1219,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 146214,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/40JxNRnTUrSsWqs2mRM4TS"

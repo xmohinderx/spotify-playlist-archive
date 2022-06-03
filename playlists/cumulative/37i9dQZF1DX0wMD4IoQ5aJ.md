@@ -4,7 +4,7 @@
 
 > Focus to the sound of soft electronic music.
 
-171 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
+172 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [New Frontier](https://open.spotify.com/track/6hkZ974ZJcWY6NorsnIFIV) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [New Frontier](https://open.spotify.com/album/3cSuL271dmIfPhrzwbcCvE) | 3:30 | 2022-04-15 |  |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2022-04-15 |  |
 | [Night Visions](https://open.spotify.com/track/3kIaZnczSu1uoCQ78P7TxD) | [Thirsty Ear](https://open.spotify.com/artist/6RqaxUVExoKE01pPo39A2e) | [Night Visions](https://open.spotify.com/album/37VCmWXI1SMZO3vsbp4Ecc) | 3:55 | 2022-04-15 | 2022-05-11 |
+| [no huzzle](https://open.spotify.com/track/4c43CIhFGCCTf65VTafmYo) | [lucy m](https://open.spotify.com/artist/2gUhsjLB0SjWry8Kh4CMsA) | [no huzzle](https://open.spotify.com/album/4NmEIXPqrMQpSLzUmczLAR) | 2:32 | 2022-06-03 |  |
 | [No Trip](https://open.spotify.com/track/2EeloLo4CTPRnhLDzSVuyc) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [Pinkland](https://open.spotify.com/album/2uEEJf58UChxAoZWm7YGat) | 4:03 | 2022-04-15 |  |
 | [Oh Baby...](https://open.spotify.com/track/6vB1aSBFevopVN93x8AKsX) | [DJ Madrigal](https://open.spotify.com/artist/5pVBan726Z1RmlJjXSySk8) | [Oh Baby...](https://open.spotify.com/album/3Hqr0o6QjM6dOUYM40k9Zp) | 3:37 | 2022-04-15 |  |
 | [On My Way](https://open.spotify.com/track/28H2eFbLiKPfJ44ZvGWPax) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [On My Way](https://open.spotify.com/album/62gm87KgQEdnTeZNJ129os) | 1:56 | 2022-04-15 |  |
@@ -143,13 +144,13 @@
 | [Sapphire](https://open.spotify.com/track/7cghQABsKucvYVeIqUzvNi) | [DJ Plaze](https://open.spotify.com/artist/7pv0fydirVojof7Bs78qMj) | [Sapphire](https://open.spotify.com/album/2vHfkFEiulvbOSBu3XQ9Y4) | 2:28 | 2022-04-15 |  |
 | [Screensaver Fractals](https://open.spotify.com/track/6mMHIARU9ghCV4pnLk7TGz) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Low blood sugar? enable cookies](https://open.spotify.com/album/1ZXrj4cZXMGgdE3mGTnoFp) | 3:38 | 2022-04-15 |  |
 | [Seadrift](https://open.spotify.com/track/3L3Zugtoy4iSpky2oiOjDI) | [Joshua Kimiko](https://open.spotify.com/artist/0rseV1mtdhrtR6FEHuvOIm) | [Seadrift](https://open.spotify.com/album/6EQYRA1zDcrhK0N9faGKbe) | 2:46 | 2022-04-15 |  |
-| [Second Sun \- Monkey Safari Remix](https://open.spotify.com/track/41u3muwkaXL1o2wHMaKwkV) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Once in a Blue Moon \(Remixes\)](https://open.spotify.com/album/2eghyUE7oGVnvdlHZhcbN6) | 5:54 | 2022-04-15 |  |
+| [Second Sun \- Monkey Safari Remix](https://open.spotify.com/track/41u3muwkaXL1o2wHMaKwkV) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Once in a Blue Moon \(Remixes\)](https://open.spotify.com/album/2eghyUE7oGVnvdlHZhcbN6) | 5:54 | 2022-04-15 | 2022-06-03 |
 | [Secrets Calling](https://open.spotify.com/track/2AzFsaFKGr6aXRulWTawJ4) | [My Ocean](https://open.spotify.com/artist/3QHeux68acRCH1mNlBrdoP) | [Secrets Calling](https://open.spotify.com/album/3EL9UURXVfZFDzJE2ls3l5) | 3:23 | 2022-04-15 |  |
 | [Serenity](https://open.spotify.com/track/6BrefcF8TggvpBQwhOeSCT) | [dim figure](https://open.spotify.com/artist/73aCJRcmbFDz9Z8hlt1Oq9) | [Serenity](https://open.spotify.com/album/1u4oOmnTTUjiVhs7FNubgy) | 2:47 | 2022-04-15 |  |
 | [Serpent](https://open.spotify.com/track/21e5TcrNrF04HBcc3dalpB) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [Serpent](https://open.spotify.com/album/3dFxy73ajfYdf8CJdIhA8D) | 1:53 | 2022-04-15 |  |
 | [Shimmer](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Shimmer](https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean) | 2:24 | 2022-04-15 |  |
 | [Sidebar Sally](https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Sidebar Sally](https://open.spotify.com/album/6fnD0mBt9kdNagaR2oBvmu) | 2:55 | 2022-04-15 |  |
-| [Skin Deep](https://open.spotify.com/track/1CAozfu6bPDxaKe39x030x) | [Jay FM](https://open.spotify.com/artist/0XHQV1DM8cqEJrB4gRuogs) | [Skin Deep](https://open.spotify.com/album/3pejPyeMAWaEasm6SzmURn) | 2:57 | 2022-04-15 |  |
+| [Skin Deep](https://open.spotify.com/track/1CAozfu6bPDxaKe39x030x) | [Jay FM](https://open.spotify.com/artist/0XHQV1DM8cqEJrB4gRuogs) | [Skin Deep](https://open.spotify.com/album/3pejPyeMAWaEasm6SzmURn) | 2:57 | 2022-04-15 | 2022-06-03 |
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2022-04-15 |  |
 | [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 | 2022-04-15 |  |
 | [So Solar](https://open.spotify.com/track/1El70dxYc3YFC4QsXkxpbp) | [SunnX](https://open.spotify.com/artist/1d1QrP53Eak9McNiwCDMpE) | [So Solar](https://open.spotify.com/album/4vwYFBcuYQEJ4HdxkVc66t) | 2:02 | 2022-04-15 |  |

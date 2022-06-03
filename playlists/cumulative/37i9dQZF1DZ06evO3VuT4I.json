@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234200,
+      "name": "'til Time and Times Are Done",
+      "url": "https://open.spotify.com/track/26TmZWLTQdcMhYjbSBmVG4"
+    },
+    {
+      "album": {
         "name": "Pianissimo",
         "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 123666,
       "name": "Bel Canto",
       "url": "https://open.spotify.com/track/2AoTWMO8PyX6kyUHVcIxxH"
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 213706,
       "name": "Capri",
       "url": "https://open.spotify.com/track/2M5QxNMs83xjGeKba51o4w"
@@ -221,7 +239,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 191866,
       "name": "Dentecane",
       "url": "https://open.spotify.com/track/0XJWHhigCRsq1JPmULi1ws"
@@ -239,7 +257,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 247960,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/5qSxp12DHTXYyqeDlOnMr9"
@@ -311,7 +329,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 306680,
       "name": "Full Moon Sonata",
       "url": "https://open.spotify.com/track/1EOVZetVBUEfMFV8g0hsRv"
@@ -383,7 +401,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 243773,
       "name": "I Believe In Love",
       "url": "https://open.spotify.com/track/2a7jVjRzqSSWG3HbylzHrY"
@@ -491,7 +509,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 295266,
       "name": "Lumiere",
       "url": "https://open.spotify.com/track/1KnxOiS6IdrYyWY708m7Tf"
@@ -606,6 +624,24 @@
     },
     {
       "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158533,
+      "name": "Mother's Song",
+      "url": "https://open.spotify.com/track/6W4j8iooBlnZGKxYziaJT5"
+    },
+    {
+      "album": {
         "name": "Pianissimo",
         "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
       },
@@ -653,7 +689,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 254600,
       "name": "Ocean Avenue",
       "url": "https://open.spotify.com/track/3bqA2pghklVzvAn4U04qLO"
@@ -707,7 +743,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 79702,
       "name": "Part Eight",
       "url": "https://open.spotify.com/track/4Ug32kdtEa1Jy8gJmFK8JU"
@@ -747,6 +783,24 @@
       "duration_ms": 264493,
       "name": "Princess",
       "url": "https://open.spotify.com/track/70vOVnKnIbS5Z1weX918jL"
+    },
+    {
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154973,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/4mfLfODYehwVfHnXMlIArx"
     },
     {
       "album": {
@@ -815,7 +869,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 229080,
       "name": "Silver Ship",
       "url": "https://open.spotify.com/track/3sWBvGaYnq0cDN6lNNNAIt"
@@ -1121,7 +1175,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 255866,
       "name": "Wine Dark Sea",
       "url": "https://open.spotify.com/track/6fx3pLWTbmyaCo8z64LrPI"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Jos\u00e9 Madero en portada.",
+  "description": "Sangre fresca en las escenas del indie y el rock. Kevin Kaarl en portada.",
   "name": "EL ROCK NO HA MUERTO",
   "published_playlist_ids": [
     "1V1OHh2gBqHE70WTxIG68y"
@@ -98,6 +98,28 @@
     },
     {
       "album": {
+        "name": "Aprendiendo A Amar",
+        "url": "https://open.spotify.com/album/0d1q9kYWLh4GzB97LqZC9d"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184213,
+      "name": "Aprendiendo A Amar",
+      "url": "https://open.spotify.com/track/4UMqfxC6oXIC5V4OSZZhlX"
+    },
+    {
+      "album": {
         "name": "Aroma A Nostalgia",
         "url": "https://open.spotify.com/album/6cneFPJP1wgyZ26tjiOeJL"
       },
@@ -145,7 +167,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 225936,
       "name": "A\u00f1os Luz",
       "url": "https://open.spotify.com/track/2HtmGWcpIJBgO8GVpjfbl2"
@@ -250,6 +272,24 @@
     },
     {
       "album": {
+        "name": "como me encanta",
+        "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321662,
+      "name": "como me encanta",
+      "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
+    },
+    {
+      "album": {
         "name": "Solstis - De Le\u00f3n Larregui",
         "url": "https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R"
       },
@@ -319,7 +359,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 244418,
       "name": "Cuenta Conmigo",
       "url": "https://open.spotify.com/track/1Gid2J2k7NAP2SE5N7a2Zs"
@@ -683,7 +723,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 153065,
       "name": "Huracanes",
       "url": "https://open.spotify.com/track/1yZgpMuX3epcV1U6hjDAI1"
@@ -1051,7 +1091,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 188181,
       "name": "Mi Canci\u00f3n",
       "url": "https://open.spotify.com/track/2EeJ3n3I0EZaa3YQUvap72"
@@ -1145,7 +1185,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 224999,
       "name": "No",
       "url": "https://open.spotify.com/track/5WtamSoWfV3Zj2NKMSTGhy"
@@ -1387,7 +1427,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 193239,
       "name": "Punk",
       "url": "https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt"
@@ -1489,7 +1529,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 230725,
       "name": "Sin Condiciones",
       "url": "https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG"
@@ -1529,6 +1569,24 @@
       "duration_ms": 177800,
       "name": "Sol@",
       "url": "https://open.spotify.com/track/6VtARaI3I2MMINgcP7wuxJ"
+    },
+    {
+      "album": {
+        "name": "Fierrro",
+        "url": "https://open.spotify.com/album/0ATTBGNon1S8UvXOAyll9i"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234199,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3oA2dvG9iNJY865qSHWekF"
     },
     {
       "album": {
@@ -1651,7 +1709,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 182506,
       "name": "Tauro Con Leo",
       "url": "https://open.spotify.com/track/0Ni7oJho2vvZhDTDi5Ixm3"
@@ -1673,7 +1731,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 300500,
       "name": "Tecolotes",
       "url": "https://open.spotify.com/track/3kGEAWMgqQn78pcktXz2uB"
@@ -1771,7 +1829,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 209160,
       "name": "Venados Que Empujan el Sol",
       "url": "https://open.spotify.com/track/2rQ8b8VHjtPQYkSGkef4cL"
@@ -1829,7 +1887,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 195317,
       "name": "vitaminas",
       "url": "https://open.spotify.com/track/1uQTZD3fC0WJJW9mogGS13"

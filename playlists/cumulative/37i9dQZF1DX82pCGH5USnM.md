@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-501 songs - 1 day 6 hr 24 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
+503 songs - 1 day 6 hr 32 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Clearance](https://open.spotify.com/track/2rgLD7uyW4vmHsWptsALZx) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clearance](https://open.spotify.com/album/2lr8LMPGi0bBjonBfjYbfW) | 2:47 | 2021-04-21 |  |
 | [Clouds & Rainbows](https://open.spotify.com/track/6srEPAMJQ8JaVK9IvXmlCS) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Sunflower](https://open.spotify.com/album/2Go9N5bAStoeqNEzPs7845) | 3:09 | 2021-07-08 |  |
 | [Cloudy Day](https://open.spotify.com/track/13teDpR5PDCELyacIqneXd) | [Elvira Sand](https://open.spotify.com/artist/1YOpKHmFAyC2IV7xGCgEyZ) | [Cloudy Day](https://open.spotify.com/album/68vJq1SyBGQUPqNAyxdct3) | 2:37 | 2021-07-08 | 2021-08-20 |
+| [Clu \- Colorjaxx Remix](https://open.spotify.com/track/2UkJDXn3pnoeilLBdBqczV) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [ColorJaxx](https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm) | [Clu \(Colorjaxx Remix\)](https://open.spotify.com/album/1QH51wnvdSIgUTgLpE18mH) | 5:22 | 2022-06-03 |  |
 | [Coastline](https://open.spotify.com/track/1uaM53HQVyWcim7agCjB15) | [Urban Curls](https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI) | [Coastline](https://open.spotify.com/album/34E1TXm0e68uT476tkZxsk) | 3:20 | 2021-02-19 |  |
 | [Cobolt](https://open.spotify.com/track/5RWPlLSHtYpNFLcFOBgVmD) | [Lady Mas](https://open.spotify.com/artist/1dLFAvqPp134vW4ZpZzUYJ) | [Cobolt](https://open.spotify.com/album/2BLfxGmUEWrIOD97xNVEQY) | 3:00 | 2021-04-15 |  |
 | [Color Code](https://open.spotify.com/track/2hPUPT84eEvIxxDvdN0n0R) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Color Code](https://open.spotify.com/album/6vVBfItLBRgeK0pRTjXgkY) | 3:20 | 2020-04-03\* | 2021-03-18 |
@@ -215,6 +216,7 @@
 | [In This Together](https://open.spotify.com/track/6I7lRMp9DcBxWQkUVY7kRW) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [In This Together](https://open.spotify.com/album/3HZMaVLmEIXqSNjhsTjrmD) | 2:49 | 2020-04-03\* | 2022-04-06 |
 | [INFINITE](https://open.spotify.com/track/3soQNBnujuHVriffjZJ6jU) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Voyage](https://open.spotify.com/album/6tEXhsto6ziBVo7OLHUfPn) | 4:02 | 2020-04-03\* | 2021-03-06 |
 | [Inga\-lill \- Edit](https://open.spotify.com/track/2nw0tw9i8BCEwGQyQkXcT6) | [Gabriel Minguez](https://open.spotify.com/artist/5JPB9dyLZWIsWZAubEn4YM) | [Inga\-lill](https://open.spotify.com/album/42LrBaAf5xLDvMpFA1mqQJ) | 4:50 | 2020-04-03\* | 2020-12-09 |
+| [Inner Sphere](https://open.spotify.com/track/02qZutrIVgi1MaxeWUKUR0) | [Kiyola](https://open.spotify.com/artist/6HJrC3CzHGz4oTUBDhD7ex) | [Inner Sphere](https://open.spotify.com/album/229QaIgoOgjBrjdQbqxkjE) | 2:26 | 2022-06-03 |  |
 | [Intentions](https://open.spotify.com/track/2sx7gcC76pDDu5tCirfNfl) | [Casper Colt](https://open.spotify.com/artist/0V4QYaFxLQ8pDxps9FNMRB) | [Intentions](https://open.spotify.com/album/2oilUosz5CfBac5DAtHuUm) | 3:10 | 2020-12-09 |  |
 | [Interaction](https://open.spotify.com/track/1Ra2hIk4IGryWC4bnXnxIs) | [Ilya Orange](https://open.spotify.com/artist/3GWnzwTAnzpZYIbNhRNhtz) | [Interaction/Dropout](https://open.spotify.com/album/0vDrGG5FwL5wWYxWloJN0f) | 6:27 | 2021-02-10 | 2021-03-18 |
 | [Intimo](https://open.spotify.com/track/3b28aZzvppPBqaa9JNPpZC) | [Sardelli](https://open.spotify.com/artist/5g1CI7OVvOrk6UfKcx0AYD) | [Intimo](https://open.spotify.com/album/4w4fHtSBXtGNGWrqxYp3j9) | 2:34 | 2021-03-06 |  |

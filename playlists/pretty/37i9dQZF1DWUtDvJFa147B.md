@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 
 > The official playlist of JTBC Begin Again, which contains the busking live soundtracks of the best musicians in Korea\. \(국내 최정상 뮤지션들의 버스킹 라이브 음원들이 담긴 JTBC 비긴어게인의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,903 likes - 113 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,925 likes - 113 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 | 9 | [Begin Again Open MIC EPISODE\. 13 \- Cactus](https://open.spotify.com/track/7HyFV9XyVMu8ZbbOMvMPgO) | [CAR, THE GARDEN](https://open.spotify.com/artist/0gqEtTORPrOqWJWElLvDQ3) | [Begin Again Open MIC EPISODE\. 13 \- Cactus](https://open.spotify.com/album/3QdHo5KB3EKyc0uapPsPJ0) | 3:19 |
 | 10 | [idontwannabeyouanymore](https://open.spotify.com/track/7CGavzZt9IbPA89xdY7B1n) | [Soyou](https://open.spotify.com/artist/7Eu1Td5FeUk2mNfcpCOfch) | [idontwannabeyouanymore](https://open.spotify.com/album/77pctl0ZYGmSN5QkY10JVX) | 3:25 |
 | 11 | [To You Who Do Not Love Me](https://open.spotify.com/track/3czNGYLbyQgeZjnxswTR6D) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [To You Who Do Not Love Me](https://open.spotify.com/album/4uEGUuQ4qTgYVcl6weU8yl) | 5:06 |
-| 12 | [I Knew I Love](https://open.spotify.com/track/32VnPpKDBhCUWMtgEQoT9m) | [Soyou](https://open.spotify.com/artist/7Eu1Td5FeUk2mNfcpCOfch) | [Begin Again Open MIC EPISODE\. 10](https://open.spotify.com/album/31IifJ41QTRCAdjkonrTnV) | 4:25 |
+| 12 | [I Knew I Love](https://open.spotify.com/track/32VnPpKDBhCUWMtgEQoT9m) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Begin Again Open MIC EPISODE\. 10](https://open.spotify.com/album/31IifJ41QTRCAdjkonrTnV) | 4:25 |
 | 13 | [I AM A HAPPY MAN](https://open.spotify.com/track/6vzmXnL25txhj1XiCaYgV4) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Begin Again Open MIC EPISODE\. 10](https://open.spotify.com/album/31IifJ41QTRCAdjkonrTnV) | 3:10 |
 | 14 | [Lonely Night](https://open.spotify.com/track/58wq06JKbSTl30Rpy4Nf5E) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Begin Again Open MIC EPISODE\. 9](https://open.spotify.com/album/6LE1Wgr8ilqPGSqoH3wBJQ) | 4:00 |
 | 15 | [Stalker](https://open.spotify.com/track/1vMgXmBtc6RIjR90coA9iZ) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Begin Again Open MIC EPISODE\. 9](https://open.spotify.com/album/6LE1Wgr8ilqPGSqoH3wBJQ) | 4:19 |

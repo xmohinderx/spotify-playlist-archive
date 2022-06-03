@@ -2025,7 +2025,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 188840,
       "name": "Dark Star",
       "url": "https://open.spotify.com/track/4AwX0i4DC8buTFbFsHpqzs"
@@ -2475,7 +2475,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 204064,
       "name": "End Song - from \"We're All Going to the World's Fair\" Soundtrack",
       "url": "https://open.spotify.com/track/0xCsRGow1LUIlnR84bYI0z"
@@ -5078,6 +5078,24 @@
     },
     {
       "album": {
+        "name": "Projector",
+        "url": "https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254886,
+      "name": "Low Era",
+      "url": "https://open.spotify.com/track/1GKdMtwcB3oi0uwr4M1B5G"
+    },
+    {
+      "album": {
         "name": "Make It Right",
         "url": "https://open.spotify.com/album/0v9yjEYZpMSHh7DAtfNwy7"
       },
@@ -6987,7 +7005,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 163670,
       "name": "Stars",
       "url": "https://open.spotify.com/track/5jZBhZi5ZrE3EDOdEJdHrn"

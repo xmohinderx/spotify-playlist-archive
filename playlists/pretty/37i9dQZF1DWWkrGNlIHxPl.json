@@ -1,13 +1,29 @@
 {
   "description": "Global crossovers by/with Arab artists. Cover: Anees.",
-  "num_followers": 117658,
+  "num_followers": 117685,
   "original_name": "Arab X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzYzNjQzMSwwMDAwMDI4ZTAwMDAwMTgxMDQ2OTdkZDUwMDAwMDE4MDNjMjg4OWE2",
+  "snapshot_id": "MTY1NDE1NTMwNiwwMDAwMDI4ZjAwMDAwMTgxMjM1NmU0ZWMwMDAwMDE4MDNjMjg4OWE2",
   "tracks": [
+    {
+      "added_at": "2022-06-02 07:35:06",
+      "album": {
+        "name": "Disco Maghreb",
+        "url": "https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 184799,
+      "name": "Disco Maghreb",
+      "url": "https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va"
+    },
     {
       "added_at": "2022-05-13 08:01:54",
       "album": {

@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "A Real Hero EP",
+        "url": "https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI"
+      },
+      "artists": [
+        {
+          "name": "College & Electric Youth",
+          "url": "https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH"
+        }
+      ],
+      "date_added": "2018-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267859,
+      "name": "A Real Hero",
+      "url": "https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J"
+    },
+    {
+      "album": {
         "name": "Chariots Of Fire",
         "url": "https://open.spotify.com/album/5Ute8c6J4epFluaZ4rcj6Q"
       },
@@ -242,6 +260,24 @@
     },
     {
       "album": {
+        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2018-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315253,
+      "name": "Bass Trap",
+      "url": "https://open.spotify.com/track/1iQUAU65qUim1q3bFIel4O"
+    },
+    {
+      "album": {
         "name": "Jeff Beck's Guitar Shop With Terry Bozzio And Tony Hymas (with Terry Bozzio & Tony Hymas)",
         "url": "https://open.spotify.com/album/1JJtA0AmTd6N72qzbPOAjA"
       },
@@ -279,7 +315,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 251493,
       "name": "Beside",
       "url": "https://open.spotify.com/track/0uUcARJtUGVtf6w35FSoPs"
@@ -409,7 +445,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 289906,
       "name": "English Landscape Tradition",
       "url": "https://open.spotify.com/track/61lWbBQqGoM9daRCuEGBtJ"
@@ -575,7 +611,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 239986,
       "name": "From a Late Night Train",
       "url": "https://open.spotify.com/track/4znmS37IK3AXquWWZ4tBrZ"
@@ -611,7 +647,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 279413,
       "name": "Has Anyone Ever Written Anything for You",
       "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
@@ -629,7 +665,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 350293,
       "name": "Haunt Me",
       "url": "https://open.spotify.com/track/647Fewb7o3mtM9qUTT9l2r"
@@ -683,7 +719,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 295102,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/0rIIq1SWIWDen4PvfCIVyg"
@@ -899,7 +935,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 134293,
       "name": "Is This The World We Created...? - Remastered 2011",
       "url": "https://open.spotify.com/track/78BjB6GC1JPt4LgA8O0sys"
@@ -917,7 +953,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 243026,
       "name": "It's a Mystery",
       "url": "https://open.spotify.com/track/15fdjzKpxFAQcFpmwbsB9a"
@@ -1259,7 +1295,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 291466,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3YrCaV9Sv2K2QToEmOB81u"
@@ -1295,7 +1331,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 326533,
       "name": "Polonaise",
       "url": "https://open.spotify.com/track/00g0LMstYkA0WyzDYmseXj"
@@ -1331,7 +1367,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "Progress - Live From The Factory, UK / 1978 / 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/2VdQrgzOATJ2AvEkh50mAX"
@@ -1367,7 +1403,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 382266,
       "name": "Renee - 1997 Remaster",
       "url": "https://open.spotify.com/track/5UUk3itO5nvah4Ngd9CW5X"
@@ -1695,7 +1731,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 221466,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/2XJSffmoBCW6Q2HAQTdTUL"
@@ -1767,7 +1803,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 431133,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/5D657FICdgHhEd1i3I5Xp6"

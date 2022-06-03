@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "The UK's biggest dance playlist! Cover: Oliver Heldens and Nile Rodgers",
+  "description": "The UK's biggest dance playlist! Cover: Jax Jones, Martin Solveig & GRACEY",
   "name": "Massive Dance Hits",
   "published_playlist_ids": [
     "5fVCEeL6B4wf7pLEe8QzL4"
@@ -921,6 +921,28 @@
       "duration_ms": 194523,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
+    },
+    {
+      "album": {
+        "name": "Do It Better (feat. Zoe Wees)",
+        "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170045,
+      "name": "Do It Better (feat. Zoe Wees)",
+      "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
     },
     {
       "album": {
@@ -2282,6 +2304,36 @@
     },
     {
       "album": {
+        "name": "Lonely Heart",
+        "url": "https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        },
+        {
+          "name": "Europa",
+          "url": "https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167526,
+      "name": "Lonely Heart",
+      "url": "https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1"
+    },
+    {
+      "album": {
         "name": "Looking at Your Pager",
         "url": "https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz"
       },
@@ -2513,6 +2565,28 @@
       "duration_ms": 197472,
       "name": "Make Me Feel Good",
       "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
+    },
+    {
+      "album": {
+        "name": "Mash up the Dance",
+        "url": "https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv"
+      },
+      "artists": [
+        {
+          "name": "Watch the Ride",
+          "url": "https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189207,
+      "name": "Mash up the Dance",
+      "url": "https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22"
     },
     {
       "album": {
@@ -3279,7 +3353,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 238357,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY"

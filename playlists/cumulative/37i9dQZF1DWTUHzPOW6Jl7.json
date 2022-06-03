@@ -1718,6 +1718,28 @@
     },
     {
       "album": {
+        "name": "Same Boy",
+        "url": "https://open.spotify.com/album/6GTO7LUnHVKHkPyZuwsrHs"
+      },
+      "artists": [
+        {
+          "name": "Haile'",
+          "url": "https://open.spotify.com/artist/2UORkYKnac3CtxpJQTho5P"
+        },
+        {
+          "name": "Nijah Deziree",
+          "url": "https://open.spotify.com/artist/2TlLX6Wfwt36IaW1uQT7Sk"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "Same Boy",
+      "url": "https://open.spotify.com/track/3Tc21qhQKUmr2Zm07TVrsu"
+    },
+    {
+      "album": {
         "name": "Go Get It",
         "url": "https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9"
       },

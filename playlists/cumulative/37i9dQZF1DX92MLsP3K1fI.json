@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! En portada: Aleks Syntek, Playa Limbo",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! LAGOS en portada.",
   "name": "Oye Pop",
   "published_playlist_ids": [
     "4deShREhcI0g0uTRXQGiPo"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 182696,
       "name": "1+",
       "url": "https://open.spotify.com/track/40hdo41xz7pE47DKRbgpVN"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 163960,
       "name": "180 km/h",
       "url": "https://open.spotify.com/track/2HPpMmhV0pekb9FnH7VnAY"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 137333,
       "name": "Arrebatada",
       "url": "https://open.spotify.com/track/2NPrK3MXPjgoZgXqgjWDKA"
@@ -356,6 +356,24 @@
     },
     {
       "album": {
+        "name": "Bailando al Amanecer",
+        "url": "https://open.spotify.com/album/6fKK4ABu0NTbpnkknjO3l5"
+      },
+      "artists": [
+        {
+          "name": "Motel",
+          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236613,
+      "name": "Bailando al Amanecer",
+      "url": "https://open.spotify.com/track/2cqBQjsnfRpZhqqEULcjWG"
+    },
+    {
+      "album": {
         "name": "Blanco Y Negro",
         "url": "https://open.spotify.com/album/2M2ao83OAsIDW7uDAf4UHp"
       },
@@ -411,7 +429,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 200483,
       "name": "Buena Suerte",
       "url": "https://open.spotify.com/track/45lw7issmJHMkPrrm2voTA"
@@ -429,7 +447,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 201148,
       "name": "Cafe\u00edna",
       "url": "https://open.spotify.com/track/2JqCcsDlOpnKSvSlFKNgMN"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 160513,
       "name": "Casita de Playa",
       "url": "https://open.spotify.com/track/1c7GIhlw4PW1jTrw8k9nXf"
@@ -853,7 +871,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 185345,
       "name": "Feelin\u2019 U",
       "url": "https://open.spotify.com/track/2CHnGGcS7pO8SnaprKdjog"
@@ -871,7 +889,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 170253,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 233456,
       "name": "Hora y Cuarto - Single Version",
       "url": "https://open.spotify.com/track/2pqRUZyX7LOC2FgoawYtG8"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 173778,
       "name": "Lero Lero",
       "url": "https://open.spotify.com/track/1cWFqqulhCa9AwJ4JLkKxo"
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 201496,
       "name": "Mal Acompa\u00f1ada",
       "url": "https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI"
@@ -1141,7 +1159,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 166036,
       "name": "Marea (feat. legallyrxx)",
       "url": "https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1"
@@ -1195,7 +1213,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 195918,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/3SlUJrM7v1hzfibzbu0eM7"
@@ -1235,7 +1253,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 190666,
       "name": "Menta",
       "url": "https://open.spotify.com/track/1a7BzukLRIIsOvJGozrFja"
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 176042,
       "name": "NTDDP",
       "url": "https://open.spotify.com/track/2qcwhO9GA5CgOtgtvWW0Wa"
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 183493,
       "name": "PAPACITO",
       "url": "https://open.spotify.com/track/4ZhaXqKoJS8pImREt0PfmZ"
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 185307,
       "name": "Pase Lo Que Pase",
       "url": "https://open.spotify.com/track/3oVkYxmpw1VZcLumrMNywZ"
@@ -1855,7 +1873,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 172266,
       "name": "Si Ella Se Va",
       "url": "https://open.spotify.com/track/2GvFANHYc9Nckxu4OQHDOf"
@@ -1953,7 +1971,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 190080,
       "name": "Solita En La Playa",
       "url": "https://open.spotify.com/track/1UHDeQzIBBiAMXFWuUTq1X"
@@ -2055,7 +2073,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 180600,
       "name": "T.A.C.O.",
       "url": "https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M"
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 194323,
       "name": "TE PIENSO A CADA HORA",
       "url": "https://open.spotify.com/track/1J9wWlo3oI3HjPnp48L3XL"
@@ -2131,7 +2149,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 216077,
       "name": "Te Quieres Ir",
       "url": "https://open.spotify.com/track/5stGwgzM6HeOya3FrXrA5V"
@@ -2156,6 +2174,24 @@
     },
     {
       "album": {
+        "name": "Tengamos Pasado",
+        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180648,
+      "name": "Tengamos Pasado",
+      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
+    },
+    {
+      "album": {
         "name": "TERMINAMOS",
         "url": "https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu"
       },
@@ -2167,7 +2203,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 157927,
       "name": "TERMINAMOS",
       "url": "https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL"
@@ -2203,7 +2239,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 163840,
       "name": "The Bleachers",
       "url": "https://open.spotify.com/track/2nZHZE1XRh4SDJLMCbvoEF"
@@ -2273,7 +2309,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 177506,
       "name": "Todo Pasa",
       "url": "https://open.spotify.com/track/2EUBBnxhFBYEvu9cpGQYLU"
@@ -2309,7 +2345,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 182994,
       "name": "Tus Besos",
       "url": "https://open.spotify.com/track/7DKWBbMHCnf7l3j1ujHRNN"
@@ -2349,7 +2385,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 207448,
       "name": "T\u00fa Me Pones a Pecar",
       "url": "https://open.spotify.com/track/1UHr7qxB7kZvpc6WqQKOrF"
@@ -2371,7 +2407,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 184440,
       "name": "Vamos A Mi Ritmo",
       "url": "https://open.spotify.com/track/4ySt3gOb6ioa2R8C9hlojC"
@@ -2389,7 +2425,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 179164,
       "name": "Vas A Querer",
       "url": "https://open.spotify.com/track/4ioNX7DDXjwVXeX0gxIcHo"

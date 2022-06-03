@@ -182,6 +182,24 @@
     },
     {
       "album": {
+        "name": "Las Vueltas de la Vida",
+        "url": "https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "El Blue",
+      "url": "https://open.spotify.com/track/3CfSS20rhCGYdjJSbt5qCz"
+    },
+    {
+      "album": {
         "name": "Album De Mi Puno Y Letra",
         "url": "https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai"
       },
@@ -215,7 +233,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 128039,
       "name": "El Centenario (En Vivo)",
       "url": "https://open.spotify.com/track/0eUb4yGTMT4WFiElWuTH5N"

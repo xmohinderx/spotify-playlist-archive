@@ -542,6 +542,24 @@
     },
     {
       "album": {
+        "name": "Disco Maghreb",
+        "url": "https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184799,
+      "name": "Disco Maghreb",
+      "url": "https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va"
+    },
+    {
+      "album": {
         "name": "Do Your Remember",
         "url": "https://open.spotify.com/album/1LFS3RAcAcx6zH0xl8MFnI"
       },

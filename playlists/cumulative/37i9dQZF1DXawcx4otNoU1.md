@@ -4,7 +4,7 @@
 
 > This is the perfect playlist for those cozy moments.
 
-151 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/18y1K7szva4ApQnZGnbzQT)
+155 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/18y1K7szva4ApQnZGnbzQT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 | 2022-01-05 | 2022-05-12 |
 | [Beautiful](https://open.spotify.com/track/0Ri6sPso4CNTnHn7RroCt4) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera/Stripped](https://open.spotify.com/album/4hpmO3kS2S4wd8XQR8DFe0) | 3:58 | 2021-11-17 |  |
 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 | 2021-10-26 | 2022-01-19 |
+| [Beautiful](https://open.spotify.com/track/4tEOsrXMgqMbBOGQ91FRvT) | [Tony Michael](https://open.spotify.com/artist/5DVMoEqGsSj3jFCIR2inf8) | [Trill RNB](https://open.spotify.com/album/2gMRm8weTdryJsOJGxCpvi) | 3:42 | 2022-06-02 |  |
 | [Beautiful Lies](https://open.spotify.com/track/5FEURlJJerhVZqQT43aKFj) | [CokeCarl](https://open.spotify.com/artist/4la2pVycKuAABaLuWNnYCU) | [Beautiful Lies](https://open.spotify.com/album/2MmBJ72Yh8qfH8tIWEkhID) | 3:02 | 2022-03-08 |  |
 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 | 2021-10-26 |  |
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2021-10-26 |  |
@@ -83,7 +84,7 @@
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 | 2021-10-26 |  |
 | [Lion](https://open.spotify.com/track/4fKoPEg9NPmILcMiQmK1nW) | [Samuel Gajicki](https://open.spotify.com/artist/0lXF2cCg1bzrguJVr4GhqO) | [Lion](https://open.spotify.com/album/4AAmVyzb47RcTYgiW00DqM) | 3:42 | 2021-10-26 |  |
 | [Lips On You](https://open.spotify.com/track/0BjJ8vSAHdJhlQd3Ih6nGK) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1qvLKCq4Xh355Fq0VswCpH) | 3:36 | 2021-10-26 |  |
-| [Lips On You](https://open.spotify.com/track/6SEBdRAW54AFwa8spgf0Ws) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:36 | 2022-05-23 |  |
+| [Lips On You](https://open.spotify.com/track/6SEBdRAW54AFwa8spgf0Ws) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:36 | 2022-05-23 | 2022-06-03 |
 | [Long Way Down](https://open.spotify.com/track/25Caem6cbUveFkgPSXtGXe) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/5IxfsBZbu9tnPQRgTjwOyc) | 4:17 | 2021-10-26 |  |
 | [Lost Without You](https://open.spotify.com/track/26z6V1SijQq6J3gPIu1H7t) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Lost Without You](https://open.spotify.com/album/4wvckIYLIsYQQ5ES3H9Pzn) | 3:45 | 2021-10-26 |  |
 | [Love Like This](https://open.spotify.com/track/2FCckttvtgRkQHkeWHer6J) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Like This](https://open.spotify.com/album/4ZxgR8Pmmvdjy7J8fmTMLp) | 4:10 | 2021-10-26 |  |
@@ -102,6 +103,7 @@
 | [My Forever](https://open.spotify.com/track/227G6rcO65LFq39h8yKBqS) | [Ajuki](https://open.spotify.com/artist/04Og4FnZhjF2p1kCwkUnIe) | [My Forever](https://open.spotify.com/album/3ZaJWZD6PWBwamO1m2Gfkb) | 3:37 | 2022-03-28 |  |
 | [Need Luv](https://open.spotify.com/track/3Jiwk6k8VfEyVreUDIJYre) | [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n) | [Need Luv](https://open.spotify.com/album/4s2lpY7AB9lsOFCPPdEbWz) | 2:36 | 2022-05-11 |  |
 | [Need You Now \- Acoustic](https://open.spotify.com/track/5whjxzYUc8eXlfrvlh9Y9B) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Need You Now \(Acoustic\)](https://open.spotify.com/album/13LpVxAm6NZ3uaCYgPwi2M) | 3:23 | 2021-10-26 |  |
+| [Nice and Slow](https://open.spotify.com/track/3EfqfnRqI4Tq2RZVRHvgoM) | [Tony Michael](https://open.spotify.com/artist/5DVMoEqGsSj3jFCIR2inf8) | [Trill RNB](https://open.spotify.com/album/2gMRm8weTdryJsOJGxCpvi) | 3:33 | 2022-06-02 |  |
 | [Night](https://open.spotify.com/track/24DijqYX42rkMGuHYKF0nc) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Night](https://open.spotify.com/album/7o87JfkKQnw0Z9u4AKhYkj) | 3:21 | 2022-03-18 |  |
 | [no ill](https://open.spotify.com/track/76wOHtbMpZpSmfsSyAHzlZ) | [deadmen](https://open.spotify.com/artist/1kH6sqipWrJUF1AAeSskjl), [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [No Ill](https://open.spotify.com/album/0t2ZDNsrg9DbGT0TfhtPEK) | 2:59 | 2022-05-16 |  |
 | [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 | 2021-11-17 |  |
@@ -111,6 +113,7 @@
 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 | 2021-10-26 |  |
 | [Palace](https://open.spotify.com/track/3zesxb7sOGbeSwUrzLUP0f) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:07 | 2021-10-26 |  |
 | [Parade](https://open.spotify.com/track/5M0VNxtJnBfROF0wYRWeWr) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Parade](https://open.spotify.com/album/10nSCyhBcT3murrVJ6rpAg) | 3:51 | 2021-10-26 |  |
+| [Part Time Lover \- Radio Edit](https://open.spotify.com/track/3RT0FdCEeCTTPbFY5Qk5pk) | [ELIAS](https://open.spotify.com/artist/5w3XaqHR4hMMy1MWyO26TY) | [Part Time Lover \(Radio Edit\)](https://open.spotify.com/album/0FXr7SgdUgSXzEBE0JxLWf) | 2:48 | 2022-06-02 |  |
 | [People Change](https://open.spotify.com/track/3Ed55g8hCz1GmqRTelIPIW) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [People Change](https://open.spotify.com/album/0ynSa86jw1PqCHRBcWYskU) | 3:32 | 2021-10-26 |  |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2021-10-26 |  |
 | [Perfect To Me \- Acoustic](https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Perfect to Me \(Acoustic\)](https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v) | 3:33 | 2021-10-26 |  |
@@ -118,10 +121,10 @@
 | [Place We Were Made](https://open.spotify.com/track/0xKGPkn1RLsVifjDs4183v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/1lFHYunIYd9r5R3dNVpTOT) | 3:05 | 2021-10-26 |  |
 | [Please Keep Loving Me](https://open.spotify.com/track/1rp1lRbL41qnlw354j8iTp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/57nyAsOzQc642JTGwioDli) | 3:15 | 2021-10-26 |  |
 | [Put D'Angelo On](https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s) | 3:07 | 2022-04-11 |  |
-| [Radio](https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Radio](https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0) | 3:10 | 2022-04-12 | 2022-06-02 |
+| [Radio](https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Radio](https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0) | 3:10 | 2022-04-12 |  |
 | [Read All About It, Pt\. III](https://open.spotify.com/track/1NrDot6zcivIjCVMFoe7uV) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe) | 4:43 | 2021-10-26 |  |
 | [Rebekah](https://open.spotify.com/track/6jQrNF9HMOkCDw7b2qt24V) | [Jack Vallier](https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN) | [Rebekah](https://open.spotify.com/album/0vHBJcj4fMbQVzpKmK5Gs3) | 3:20 | 2021-10-26 |  |
-| [reverie](https://open.spotify.com/track/5je0dMvhEUMOqeo1G4hOyu) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [reverie](https://open.spotify.com/album/5Eu9JtA0MIl4rk39Vysfep) | 5:43 | 2021-10-26 |  |
+| [reverie](https://open.spotify.com/track/5je0dMvhEUMOqeo1G4hOyu) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [reverie](https://open.spotify.com/album/5Eu9JtA0MIl4rk39Vysfep) | 5:43 | 2021-10-26 | 2022-06-03 |
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-03-18 |  |
 | [Sam](https://open.spotify.com/track/7986f2lG0GDtADQ8IgMFuz) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse](https://open.spotify.com/album/4dCYurAtpYbC77cBWt2uIH) | 5:15 | 2021-10-26 |  |
 | [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 | 2021-10-26 |  |
@@ -131,6 +134,7 @@
 | [She Will Be Loved](https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 4:17 | 2021-10-26 |  |
 | [Shelter](https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc) | [David Ryan Harris](https://open.spotify.com/artist/3wnsAakCkhyU3yKQYMZmGo) | [Lightyears](https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9) | 4:10 | 2021-10-26 |  |
 | [So Close To Magic](https://open.spotify.com/track/4YvPR47qCiXBdVbcKXp24r) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [So Close To Magic](https://open.spotify.com/album/4TBOy4iyBHKF7fLQQKucWL) | 3:22 | 2021-10-26 |  |
+| [Something Like This](https://open.spotify.com/track/71RHfbbUVoYNKNFtRomycM) | [Carley Bearden](https://open.spotify.com/artist/3c8xof9mx6WTi7UHyJ2WhZ), [Taka$](https://open.spotify.com/artist/3nkQI11P6Ukhe3LClNZxNs) | [Something Like This](https://open.spotify.com/album/4NXuzbjVQkBzDXMrbb2rfv) | 3:14 | 2022-06-02 |  |
 | [Song For A Friend](https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Song For A Friend](https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I) | 3:56 | 2021-10-26 |  |
 | [Song for Zula](https://open.spotify.com/track/6h4V0fuWElsTFaPg2tQIoL) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/1lCaYGVwy25AGVzuNUU1rD) | 6:10 | 2021-10-26 |  |
 | [Stay With Me](https://open.spotify.com/track/62NVyyEBiRxGae3SeB97nl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV) | 2:52 | 2021-10-26 |  |

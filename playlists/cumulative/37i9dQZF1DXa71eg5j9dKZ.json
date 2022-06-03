@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: HAAi",
+  "description": "The home for alternative electronic music. Cover: Jungle",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
@@ -517,6 +517,24 @@
       "duration_ms": 230730,
       "name": "Another Sketch",
       "url": "https://open.spotify.com/track/2IVmt96IvSP10bMHCIsmRs"
+    },
+    {
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/3AwaHIkIHRW92foxOPOcJ7"
+      },
+      "artists": [
+        {
+          "name": "ELLES",
+          "url": "https://open.spotify.com/artist/6EbSbVKlRuKxfIfr8H7mCo"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254600,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/3gmmSF7pX9XyjgbjvXwmeq"
     },
     {
       "album": {
@@ -1688,6 +1706,24 @@
     },
     {
       "album": {
+        "name": "Eventide in Orbit",
+        "url": "https://open.spotify.com/album/0ZEzDscqxvp1Kp02aEtK8p"
+      },
+      "artists": [
+        {
+          "name": "Manami",
+          "url": "https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406441,
+      "name": "Eventide in Orbit",
+      "url": "https://open.spotify.com/track/3m1Z6IK6pCXs5jOydBlUAT"
+    },
+    {
+      "album": {
         "name": "Everything Is Alright",
         "url": "https://open.spotify.com/album/54bCllHo5qzcVFzskPEiT1"
       },
@@ -1847,7 +1883,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 396875,
       "name": "For Friends",
       "url": "https://open.spotify.com/track/7KJTx0xHTJwA6kqyLV19E2"
@@ -1985,6 +2021,24 @@
       "duration_ms": 429361,
       "name": "Give it to Me",
       "url": "https://open.spotify.com/track/6H2pxSiSTzSheYZydk7VZw"
+    },
+    {
+      "album": {
+        "name": "GOOD TIMES / PROBLEMZ",
+        "url": "https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181312,
+      "name": "GOOD TIMES",
+      "url": "https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5"
     },
     {
       "album": {
@@ -2380,6 +2434,24 @@
     },
     {
       "album": {
+        "name": "I Need",
+        "url": "https://open.spotify.com/album/4RxfapVMHZdEpEB4g1D9If"
+      },
+      "artists": [
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251538,
+      "name": "I Need",
+      "url": "https://open.spotify.com/track/0ME6uNAGe22wEovyNvdKr8"
+    },
+    {
+      "album": {
         "name": "I'm Still Mellow",
         "url": "https://open.spotify.com/album/5IAaBoJHLrJoqXvtADweM7"
       },
@@ -2615,7 +2687,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 225333,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/0wVRGzdbEwKGomyficzJV7"
@@ -3025,6 +3097,24 @@
       "duration_ms": 296344,
       "name": "Make It",
       "url": "https://open.spotify.com/track/2EpLUT80X1FVKLN1hqiB6o"
+    },
+    {
+      "album": {
+        "name": "Make You Scream",
+        "url": "https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163909,
+      "name": "Make You Scream",
+      "url": "https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH"
     },
     {
       "album": {
@@ -5267,6 +5357,32 @@
       "duration_ms": 222253,
       "name": "Walking With Ur Smile",
       "url": "https://open.spotify.com/track/469tf6NgOf4nscrty0G9Us"
+    },
+    {
+      "album": {
+        "name": "Way Back When",
+        "url": "https://open.spotify.com/album/4TEbliVmeDXuNK59ICN6Yi"
+      },
+      "artists": [
+        {
+          "name": "Daffy",
+          "url": "https://open.spotify.com/artist/5zEIBKFTSWVmzLcDiCUlZF"
+        },
+        {
+          "name": "PJ Bridger",
+          "url": "https://open.spotify.com/artist/3qVbqMOyXN5vbE2933VvWW"
+        },
+        {
+          "name": "Ollie Rant",
+          "url": "https://open.spotify.com/artist/0nm5wdHMtiCN3mRBHxn4K3"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308370,
+      "name": "Way Back When - Ollie Rant Remix",
+      "url": "https://open.spotify.com/track/2ycdOIAytDaaXg9gN2luzA"
     },
     {
       "album": {

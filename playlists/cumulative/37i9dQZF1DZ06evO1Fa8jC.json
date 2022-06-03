@@ -26,6 +26,36 @@
     },
     {
       "album": {
+        "name": "Acho Pu\u00f1eta (feat. Los Cafres) (Reggae Remix)",
+        "url": "https://open.spotify.com/album/7bstRDc2A1L8ugU4OpxtrT"
+      },
+      "artists": [
+        {
+          "name": "Gomba Jahbari",
+          "url": "https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Acho Pun\u0303eta - Reggae Remix",
+      "url": "https://open.spotify.com/track/3wTF8x41fGiusgpQGBEBVW"
+    },
+    {
+      "album": {
         "name": "Espejitos",
         "url": "https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ"
       },
@@ -134,6 +164,24 @@
     },
     {
       "album": {
+        "name": "Suena la Alarma",
+        "url": "https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247066,
+      "name": "Capit\u00e1n Pelusa",
+      "url": "https://open.spotify.com/track/7uLQUpJG2soXfZXq7FDNSx"
+    },
+    {
+      "album": {
         "name": "El Paso Gigante",
         "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
       },
@@ -181,7 +229,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 258905,
       "name": "C\u00f3mo Imaginar",
       "url": "https://open.spotify.com/track/7w8h1IvnQHhe4oduF1EQJW"
@@ -217,7 +265,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 259959,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/3iHSXnpo93gvNp3yZCBfcK"
@@ -253,7 +301,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 223346,
       "name": "El Silencio",
       "url": "https://open.spotify.com/track/490zFllTSVutzmCeB12226"
@@ -271,7 +319,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 233557,
       "name": "El \u00e1ngel",
       "url": "https://open.spotify.com/track/0g5Fx2wKdyyF3DZIJXSUG4"
@@ -343,7 +391,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 231264,
       "name": "Flor del Potrero",
       "url": "https://open.spotify.com/track/3OLZc8KQSTfpc7zcGrqKyM"
@@ -451,7 +499,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 159426,
       "name": "La Receta - Versi\u00f3n 25 A\u00f1os [Live]",
       "url": "https://open.spotify.com/track/4dzDPsRrI8VWFgFbUqAcsS"
@@ -649,7 +697,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 236666,
       "name": "Pimper's Paradise",
       "url": "https://open.spotify.com/track/2snrBjjv1hGoP0RUtCUroH"
@@ -685,7 +733,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 205055,
       "name": "Qued\u00e1ndote O Y\u00e9ndote",
       "url": "https://open.spotify.com/track/2zH2SJsU74xiNq14SuhRKz"
@@ -703,7 +751,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 225786,
       "name": "Revelaci\u00f3n",
       "url": "https://open.spotify.com/track/5ajEyAFPp4udppS39qa0a9"
@@ -847,7 +895,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 311533,
       "name": "S\u00e9 Q' el Mar",
       "url": "https://open.spotify.com/track/5kKtxKJpSH1iaUlYRFZKBi"
@@ -955,7 +1003,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 280040,
       "name": "Una Perla en Mi Vida - Versi\u00f3n 25 A\u00f1os",
       "url": "https://open.spotify.com/track/3yoT4Lsk5dwmM95lAWTiWL"
@@ -1057,6 +1105,24 @@
       "duration_ms": 298199,
       "name": "Waiting en Vano",
       "url": "https://open.spotify.com/track/5sAK5JZrlRF0QMY6AL0Ygl"
+    },
+    {
+      "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284893,
+      "name": "\u00d3rbita",
+      "url": "https://open.spotify.com/track/3Ki4G6890ziJUHEV8aOaWn"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Fa8jC"

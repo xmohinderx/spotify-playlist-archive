@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 207058,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/4ERr1kebAuB9DrleARjrux"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 307278,
       "name": "Inhliziyo",
       "url": "https://open.spotify.com/track/4MU9Zpx9xu9D8zJBCYUqPF"
@@ -1269,7 +1269,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 188991,
       "name": "kutheni na, (feat. Kwesta)",
       "url": "https://open.spotify.com/track/12hMZGLnLlK3OEE2tdMop4"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 149400,
       "name": "Kuyobanini",
       "url": "https://open.spotify.com/track/7Db4g90Shps8AvEnjkypsn"
@@ -1720,6 +1720,28 @@
     },
     {
       "album": {
+        "name": "Mjolo (feat. Zanda Zakuza)",
+        "url": "https://open.spotify.com/album/79Wiv0uEy74k08IaofFcsJ"
+      },
+      "artists": [
+        {
+          "name": "Roki",
+          "url": "https://open.spotify.com/artist/1jfWbG9JIlSJys68G8tLVE"
+        },
+        {
+          "name": "Zanda Zakuza",
+          "url": "https://open.spotify.com/artist/1TTc432YhEO75fRcVKerPe"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194553,
+      "name": "Mjolo (feat. Zanda Zakuza)",
+      "url": "https://open.spotify.com/track/6abcUHJLRUgXmb44S8icTh"
+    },
+    {
+      "album": {
         "name": "Before Slakes",
         "url": "https://open.spotify.com/album/6ohaQAwMQvU9lQQicuagep"
       },
@@ -1735,6 +1757,24 @@
       "duration_ms": 188237,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/5hkXUrhSgwkAdQGGxFQtGJ"
+    },
+    {
+      "album": {
+        "name": "My Dali",
+        "url": "https://open.spotify.com/album/6XRmYFcpuhvzu5zUqyF7Bi"
+      },
+      "artists": [
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242840,
+      "name": "My Dali",
+      "url": "https://open.spotify.com/track/0162umcwk7g36RxucZnMPV"
     },
     {
       "album": {
@@ -1948,6 +1988,24 @@
     },
     {
       "album": {
+        "name": "Ngikhathele",
+        "url": "https://open.spotify.com/album/15kzAx0NLMjHxBbQxgjk9Y"
+      },
+      "artists": [
+        {
+          "name": "Filipo",
+          "url": "https://open.spotify.com/artist/3NhTyn2Veg6o9yaolJzv0t"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292351,
+      "name": "Ngikhathele",
+      "url": "https://open.spotify.com/track/6GkVUZwouenrP5icNbRxfh"
+    },
+    {
+      "album": {
         "name": "Ngimtholile",
         "url": "https://open.spotify.com/album/0Aqwt3quGqHhm5nQYZeUDD"
       },
@@ -1985,6 +2043,28 @@
       "duration_ms": 276660,
       "name": "Nginjena",
       "url": "https://open.spotify.com/track/5SuyPgnvNqJJz6v8NDreBq"
+    },
+    {
+      "album": {
+        "name": "Ngiyaku'Khumbula",
+        "url": "https://open.spotify.com/album/23w1acZtpgmgFGKyuf1o3L"
+      },
+      "artists": [
+        {
+          "name": "Sa$e",
+          "url": "https://open.spotify.com/artist/2ZmGITxawxVKp63ZDWGrQH"
+        },
+        {
+          "name": "Thulaganyo",
+          "url": "https://open.spotify.com/artist/3zZdBfdYUqIqOpLwC0nXce"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237525,
+      "name": "Ngiyaku'Khumbula",
+      "url": "https://open.spotify.com/track/5uHBDl7C5F7NxrxBP3Gx2b"
     },
     {
       "album": {
@@ -2159,7 +2239,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 233456,
       "name": "Ntliziyo ndise",
       "url": "https://open.spotify.com/track/69nXSKjJvSmWryRxR7Bchn"
@@ -2516,6 +2596,28 @@
     },
     {
       "album": {
+        "name": "Sis'Undenzani",
+        "url": "https://open.spotify.com/album/39VO1hwswv8QlwZmQHwGhK"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Brothers",
+          "url": "https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs"
+        },
+        {
+          "name": "Bongani Nchang",
+          "url": "https://open.spotify.com/artist/2uBMNWP51MKd2o6a3PtTP0"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222352,
+      "name": "Sis'Undenzani",
+      "url": "https://open.spotify.com/track/4V1HTyyhbpzzBOKBhvDqx8"
+    },
+    {
+      "album": {
         "name": "Sithembile (feat. Beyond Vocal)",
         "url": "https://open.spotify.com/album/1yN9YYUm1XdUtFXJZpXjFG"
       },
@@ -2635,6 +2737,24 @@
       "duration_ms": 416327,
       "name": "Sofa Silahlane",
       "url": "https://open.spotify.com/track/67SKXlAbYNG5nAtadBfPm0"
+    },
+    {
+      "album": {
+        "name": "Sondela",
+        "url": "https://open.spotify.com/album/4YpgSQZCYVdDxC6hcUcWWi"
+      },
+      "artists": [
+        {
+          "name": "Thesis ZA",
+          "url": "https://open.spotify.com/artist/1WWnGqSNzDgePBza5THZHm"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146703,
+      "name": "Sondela",
+      "url": "https://open.spotify.com/track/62zPjW7LXGWj290EvQjreU"
     },
     {
       "album": {
@@ -2821,10 +2941,32 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 189333,
       "name": "Umdanso",
       "url": "https://open.spotify.com/track/0Oz3p5UYinbodtyw7dRndb"
+    },
+    {
+      "album": {
+        "name": "spy_da_man",
+        "url": "https://open.spotify.com/album/5lXb8z5UIVu0usiRFgxhbQ"
+      },
+      "artists": [
+        {
+          "name": "SouthSideblueprint",
+          "url": "https://open.spotify.com/artist/4hiA5BZLtNc8W5Jv1As1vv"
+        },
+        {
+          "name": "XiKamakazi",
+          "url": "https://open.spotify.com/artist/5FTpKlIyNZxecEd2xT8FRL"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138756,
+      "name": "uMfazi_omuhle",
+      "url": "https://open.spotify.com/track/21ihgUfLmtxXwACVarO6EY"
     },
     {
       "album": {
@@ -2949,10 +3091,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 321071,
       "name": "VN 2 MY EX",
       "url": "https://open.spotify.com/track/2ObtcbTdH53xGEAhIYOGvY"
+    },
+    {
+      "album": {
+        "name": "Wela (Unplugged)",
+        "url": "https://open.spotify.com/album/2uM4vgqnUgypsZOzFTQg52"
+      },
+      "artists": [
+        {
+          "name": "Lady X",
+          "url": "https://open.spotify.com/artist/649qBoYcGe7w66qRD0xKum"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Wela (Unplugged)",
+      "url": "https://open.spotify.com/track/4i5k9oYKeGW6L2FFOfnd1D"
     },
     {
       "album": {

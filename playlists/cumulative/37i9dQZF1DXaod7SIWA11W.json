@@ -200,6 +200,28 @@
     },
     {
       "album": {
+        "name": "Bless Me",
+        "url": "https://open.spotify.com/album/6f19JEkhgyhpGnwZjedANL"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272348,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o"
+    },
+    {
+      "album": {
         "name": "Blessed Mode",
         "url": "https://open.spotify.com/album/15x3jykJeOXdE43DommQlB"
       },
@@ -829,7 +851,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 281880,
       "name": "I Was Loved",
       "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
@@ -1649,7 +1671,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 106794,
       "name": "The Offering",
       "url": "https://open.spotify.com/track/2t2T8tPFnwZm8UmwsUqsLB"
@@ -1825,6 +1847,24 @@
       "duration_ms": 211540,
       "name": "Who?",
       "url": "https://open.spotify.com/track/0L5eYwDd5OwRmoRkeMrkbL"
+    },
+    {
+      "album": {
+        "name": "Whole World In His Hands (Radio Edit)",
+        "url": "https://open.spotify.com/album/7oCXdcThzsGBimJDimAyKw"
+      },
+      "artists": [
+        {
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219065,
+      "name": "Whole World In His Hands - Radio Edit",
+      "url": "https://open.spotify.com/track/0rjbJ8JndyEfNt1CpG3Axo"
     },
     {
       "album": {

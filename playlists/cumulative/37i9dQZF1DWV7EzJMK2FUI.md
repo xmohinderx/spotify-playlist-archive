@@ -2,7 +2,7 @@
 
 ### [Jazz in the Background](https://open.spotify.com/playlist/37i9dQZF1DWV7EzJMK2FUI)
 
-> Soft jazz for all your activities.
+> Soft Jazz for all your activities.
 
 284 songs - 18 hr 34 min - [published](https://open.spotify.com/playlist/3hbeRaU9aWtabNnfOymGvN)
 

@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 236640,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/03Qlgtvz9ux6lmzlv40BEZ"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 252786,
       "name": "Break Me",
       "url": "https://open.spotify.com/track/03XDjkWj7ME04UpDyAjg8Q"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 192854,
       "name": "Breakfast - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4pXaDCpq459IkaUp84VM5m"
@@ -361,6 +361,28 @@
       "duration_ms": 189700,
       "name": "Comin' Outta The Rain",
       "url": "https://open.spotify.com/track/6ywHoZIp9DheKskjpDEiSa"
+    },
+    {
+      "album": {
+        "name": "Sol Empowered",
+        "url": "https://open.spotify.com/album/1WwEkTUvTxhvAg624GhW62"
+      },
+      "artists": [
+        {
+          "name": "Chantae Cann",
+          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250427,
+      "name": "Craters",
+      "url": "https://open.spotify.com/track/5Y0BNdiSJMGMcQK95bxm1M"
     },
     {
       "album": {
@@ -647,7 +669,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 335731,
       "name": "Last Request",
       "url": "https://open.spotify.com/track/3t3jjmmEisYLguDIgpVj53"
@@ -789,7 +811,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 255109,
       "name": "Need You",
       "url": "https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS"

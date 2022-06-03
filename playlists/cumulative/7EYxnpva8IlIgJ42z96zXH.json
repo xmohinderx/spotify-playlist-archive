@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 142031,
       "name": "Back and Forth",
       "url": "https://open.spotify.com/track/0ghwYfLQQnJsjoVZJ1tWeh"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 232380,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5WLOrfMyifyQZjPYWwQvyC"
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 258750,
       "name": "Chase the Sun (Odd Mob Remix)",
       "url": "https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i"
@@ -1481,7 +1481,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 174857,
       "name": "Dance With Somebody - Teddy Cream Remix",
       "url": "https://open.spotify.com/track/3NpXHV4C0HNHY64kAZffF7"
@@ -2135,7 +2135,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 205459,
       "name": "Everynite",
       "url": "https://open.spotify.com/track/3tDNKlWliGATa0LAh0GvVM"
@@ -3497,7 +3497,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 151088,
       "name": "I Want You Around",
       "url": "https://open.spotify.com/track/4vswbhNPKavZJqpXzJI4wd"
@@ -3589,7 +3589,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 236129,
       "name": "If I Could Be Loved",
       "url": "https://open.spotify.com/track/3jV9OFo98VEwi7iMUr7boJ"
@@ -4035,7 +4035,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 243582,
       "name": "Let's Roll",
       "url": "https://open.spotify.com/track/1Omx6NSsJxBUghMsWr7EZB"
@@ -4223,6 +4223,36 @@
       "duration_ms": 170325,
       "name": "Lonely (feat. Sananda Maitreya)",
       "url": "https://open.spotify.com/track/2tZaIi32T3Fwn6GqD8Jcii"
+    },
+    {
+      "album": {
+        "name": "Lonely Heart (Jax Jones & Martin Solveig Present Europa)",
+        "url": "https://open.spotify.com/album/6EJSlNXxO8CzE0aziKpHp0"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        },
+        {
+          "name": "Europa",
+          "url": "https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167526,
+      "name": "Lonely Heart (Jax Jones & Martin Solveig Present Europa)",
+      "url": "https://open.spotify.com/track/0on1FiyTQnBlYQPVQYD2Us"
     },
     {
       "album": {
@@ -4881,7 +4911,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 294375,
       "name": "New Generation - Nisim Remix",
       "url": "https://open.spotify.com/track/369yauIjRQfmy9qLnrwRp4"
@@ -5806,6 +5836,28 @@
     },
     {
       "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177156,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA"
+    },
+    {
+      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -5847,6 +5899,24 @@
       "duration_ms": 134584,
       "name": "Reaching Out (feat. Bow Anderson)",
       "url": "https://open.spotify.com/track/4X3gp6mVY0GHEVuyLZAUWE"
+    },
+    {
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/0n6dUiHzlhaxiA59uYUWQP"
+      },
+      "artists": [
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168624,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/69kVpPTfo3XH5hOk7FAKf4"
     },
     {
       "album": {
@@ -6427,7 +6497,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 179008,
       "name": "Slip",
       "url": "https://open.spotify.com/track/0E3sFTJ9GFhRbq3HKxV3f9"
@@ -6489,7 +6559,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 207360,
       "name": "So Alive - Donatachi Remix",
       "url": "https://open.spotify.com/track/4Ljq7JjMRxJjVqaxbG4o8f"
@@ -7415,7 +7485,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 192468,
       "name": "Torn",
       "url": "https://open.spotify.com/track/6xIGET3Ix35Cf7DfevP8pV"
@@ -7621,7 +7691,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 151008,
       "name": "Under One Sun",
       "url": "https://open.spotify.com/track/04ZyYizLIW7we8pLavOdCo"

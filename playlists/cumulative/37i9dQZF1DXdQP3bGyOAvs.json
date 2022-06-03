@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "beautiful/sad",
+        "url": "https://open.spotify.com/album/2rI68f5SMdUUv8KyxpyU0U"
+      },
+      "artists": [
+        {
+          "name": "it's me.",
+          "url": "https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176409,
+      "name": "beautiful/sad",
+      "url": "https://open.spotify.com/track/0YnNUpfCzBLRkFcNCheIkE"
+    },
+    {
+      "album": {
         "name": "Below Surface",
         "url": "https://open.spotify.com/album/1MiaH6pbnmXy8kQQ8SK6cg"
       },
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 225600,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/2XaoehLFfuswYzdjfANE9J"
@@ -649,7 +667,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 178363,
       "name": "Des Moments",
       "url": "https://open.spotify.com/track/6u7aoEs8qCeiQh80c94d73"
@@ -1823,7 +1841,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 222315,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/6g2qNlGpizqh0K05nxLNqf"
@@ -2756,6 +2774,24 @@
     },
     {
       "album": {
+        "name": "Suamalie",
+        "url": "https://open.spotify.com/album/5B8Nc7nSk7UW8Zu3ZIa4yB"
+      },
+      "artists": [
+        {
+          "name": "Slashio",
+          "url": "https://open.spotify.com/artist/47tNKltwmA9PtSyeuGvhHe"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167586,
+      "name": "Suamalie",
+      "url": "https://open.spotify.com/track/6OIRXuSjisW4P186yxV1En"
+    },
+    {
+      "album": {
         "name": "Summertime Love",
         "url": "https://open.spotify.com/album/0LcN6YlgfKqBqvdpB29JNM"
       },
@@ -2857,7 +2893,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 162613,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl"

@@ -4,7 +4,7 @@
 
 > Dinner with Friends? Here's the perfect playlist.
 
-162 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
+163 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Life as It Is](https://open.spotify.com/track/0ZTtKgd8j5DoFLPwie8bRk) | [Windy Isle](https://open.spotify.com/artist/34MzgHgM1EZNW6lKmKm8wb) | [Life as It Is](https://open.spotify.com/album/0YYKKFiOg50FXNz4Az1g3z) | 3:45 | 2021-06-22 | 2022-05-18 |
 | [Long Way Down](https://open.spotify.com/track/25Caem6cbUveFkgPSXtGXe) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/5IxfsBZbu9tnPQRgTjwOyc) | 4:17 | 2021-06-22 |  |
 | [Lost](https://open.spotify.com/track/2Pph0CUJ8uksCBzV6iyuQF) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Lost](https://open.spotify.com/album/16A6HpMW9UMCB3GNA0Es7a) | 3:54 | 2021-06-22 |  |
-| [Lost Without You](https://open.spotify.com/track/26z6V1SijQq6J3gPIu1H7t) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Lost Without You](https://open.spotify.com/album/4wvckIYLIsYQQ5ES3H9Pzn) | 3:45 | 2021-06-22 |  |
+| [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 | 2022-05-27 |  |
+| [Lost Without You](https://open.spotify.com/track/26z6V1SijQq6J3gPIu1H7t) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Lost Without You](https://open.spotify.com/album/4wvckIYLIsYQQ5ES3H9Pzn) | 3:45 | 2021-06-22 | 2022-06-03 |
 | [Lovely](https://open.spotify.com/track/3zjw3EZfvgjuR4AQhVlNq7) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Lovely](https://open.spotify.com/album/61PhrZ1QgJCsQSYxlh87RZ) | 2:56 | 2021-06-22 | 2022-05-18 |
 | [Lover](https://open.spotify.com/track/0bzbvANY6oETSJLc0wlVGY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/3rYkgtFOo9AlPaeKTtn6pM) | 3:41 | 2021-06-22 |  |
 | [Macadamian](https://open.spotify.com/track/2sOwLI2gzNmBop0emWZQuf) | [Jimmy Smash](https://open.spotify.com/artist/3ziswS6VSBGwPzIlvEV2zQ) | [Macadamian](https://open.spotify.com/album/50LxIKOBbT4jPIsKL7A1dE) | 3:26 | 2021-06-22 |  |
@@ -118,7 +119,7 @@
 | [Mirou](https://open.spotify.com/track/6tYjeVpoBagQoXWIcEaAzP) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Mirou](https://open.spotify.com/album/54CEHp4lRYwCajjs74k14p) | 4:12 | 2021-06-22 | 2022-05-18 |
 | [Moonlight](https://open.spotify.com/track/6Lx8iWqYzIT5hnuriaGCY9) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Moonlight](https://open.spotify.com/album/7xe4K8R3RaC5405EABFdTM) | 3:31 | 2021-06-22 |  |
 | [Most Times](https://open.spotify.com/track/3ySxFBVXkrrRJ9v1AWR9Yu) | [Shoos Off](https://open.spotify.com/artist/6hS6xIhVWdR6BBTMPYSAvQ) | [Most Times EP](https://open.spotify.com/album/3lEIshh1F5T3XR71jVGdqV) | 5:01 | 2022-05-17 |  |
-| [Nervous](https://open.spotify.com/track/6Y9x1HQGZU0SY7tgv9xtCt) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Nervous](https://open.spotify.com/album/5caUaq7Sdp4B1UkJiSFrLB) | 3:58 | 2022-05-27 |  |
+| [Nervous](https://open.spotify.com/track/6Y9x1HQGZU0SY7tgv9xtCt) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Nervous](https://open.spotify.com/album/5caUaq7Sdp4B1UkJiSFrLB) | 3:58 | 2022-05-27 | 2022-06-03 |
 | [No Ending](https://open.spotify.com/track/1wId84Uc14XIEIKfcSYAE0) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [No Ending](https://open.spotify.com/album/0XoSMRAH1gvIb0c3n5jLET) | 3:53 | 2021-06-22 |  |
 | [No Letting Go](https://open.spotify.com/track/1ElliR0IsEPKoaWUmY71y2) | [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [No Letting Go](https://open.spotify.com/album/5pIztVNFISnTNc6poeREQH) | 3:20 | 2021-06-22 | 2022-05-28 |
 | [No One's Gonna Love You](https://open.spotify.com/track/2an7S0pfafUr6YNabYXIl0) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [No One's Gonna Love You](https://open.spotify.com/album/1VOlQsvshuMrW7y8r6JGOY) | 3:52 | 2021-06-22 | 2022-05-18 |
@@ -135,7 +136,7 @@
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2021-06-22 |  |
 | [Real?](https://open.spotify.com/track/1r0bORzz4Ooi8EpFGC6rxe) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I'm Lost](https://open.spotify.com/album/0JRlJXlfXSdUknklZQjTv2) | 4:36 | 2021-06-22 | 2022-05-18 |
 | [Slow](https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Slow](https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6) | 2:43 | 2021-06-22 |  |
-| [Smoke](https://open.spotify.com/track/1WVTi93gt1EofX4H7pmxTP) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Smoke](https://open.spotify.com/album/6iglrA3fJHVvRdXqQExRZx) | 3:35 | 2022-05-27 | 2022-05-29 |
+| [Smoke](https://open.spotify.com/track/1WVTi93gt1EofX4H7pmxTP) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Smoke](https://open.spotify.com/album/6iglrA3fJHVvRdXqQExRZx) | 3:35 | 2022-05-27 |  |
 | [So Beautiful](https://open.spotify.com/track/1g9EdqVk89cz27yERaxSK2) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [You're Stronger Than You Know](https://open.spotify.com/album/5MSaKdet5kiMdSczHYxEmg) | 4:03 | 2021-06-22 |  |
 | [Sorrow](https://open.spotify.com/track/33ry67NZycIR011igWIFD3) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/377tGSk9SCvV34DAhTqb0P) | 3:12 | 2021-06-22 | 2022-05-18 |
 | [Stand Your Ground](https://open.spotify.com/track/5nhptWSQJ8WRqHGJDJXrPM) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/5IxfsBZbu9tnPQRgTjwOyc) | 3:23 | 2021-06-22 |  |

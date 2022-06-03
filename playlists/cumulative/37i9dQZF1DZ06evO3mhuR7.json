@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 315071,
       "name": "5th Dimensions",
       "url": "https://open.spotify.com/track/3Ntkr1qvo6UVMBuBtOeECM"
@@ -55,10 +55,36 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 245451,
       "name": "9 elms over river eno (channel 9)",
       "url": "https://open.spotify.com/track/36BI2fXvlLxVoJKF9csjE9"
+    },
+    {
+      "album": {
+        "name": "The Orb - History Of The Future (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7cUZK5ii1GJqR4rYoVflfi"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        },
+        {
+          "name": "Jimmy Cauty",
+          "url": "https://open.spotify.com/artist/325AAuwgKwl8CKKm6w33yR"
+        },
+        {
+          "name": "Alex Paterson",
+          "url": "https://open.spotify.com/artist/0Xz8JZqrvS1ArSRlyBSMIT"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442217,
+      "name": "A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld : Loving You - Aubrey Mix Mk 11 By Jimmy Cauty & Dr. Alex Paterson",
+      "url": "https://open.spotify.com/track/5JN6YQJWXMrwaDt43DNKXw"
     },
     {
       "album": {
@@ -157,7 +183,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 319533,
       "name": "Asylum",
       "url": "https://open.spotify.com/track/07QwYSsx6bKV5Ye5OgHUJJ"
@@ -197,7 +223,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 251057,
       "name": "Ball of Fire",
       "url": "https://open.spotify.com/track/41Dci0Gdz1RatEXwLEl8z9"
@@ -469,10 +495,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 261141,
       "name": "Hold Me Upsetter",
       "url": "https://open.spotify.com/track/3bMR9NyBHxt1pZadTvGbRs"
+    },
+    {
+      "album": {
+        "name": "Adventures Beyond The Ultraworld",
+        "url": "https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 555906,
+      "name": "Into The Fourth Dimension",
+      "url": "https://open.spotify.com/track/6vsFXXLsb83fM0QtlXQm0r"
     },
     {
       "album": {
@@ -589,7 +633,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 641533,
       "name": "Montagne D'Or (Der Gute Berg)",
       "url": "https://open.spotify.com/track/5DRapdJgelwzIP7wWcXWj1"
@@ -625,7 +669,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 834533,
       "name": "Occidental",
       "url": "https://open.spotify.com/track/7cTPTSaSWMpeL2Ea8gdAuF"
@@ -780,6 +824,28 @@
     },
     {
       "album": {
+        "name": "No Sounds Are Out of Bounds (Deluxe)",
+        "url": "https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        },
+        {
+          "name": "Hollie Cook",
+          "url": "https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355088,
+      "name": "Rush Hill Road",
+      "url": "https://open.spotify.com/track/0pk2tbLN4rVB0fKTTW9VYL"
+    },
+    {
+      "album": {
         "name": "Orblivion",
         "url": "https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn"
       },
@@ -791,7 +857,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 332133,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/26G57zuEtPi7YuUsW5fQwP"
@@ -845,7 +911,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 168749,
       "name": "Siren 33 (Orphee Mirror)",
       "url": "https://open.spotify.com/track/4KM94c8EBLbggsN37T7gfp"
@@ -914,6 +980,24 @@
     },
     {
       "album": {
+        "name": "U.F.Orb",
+        "url": "https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50400,
+      "name": "Sticky End",
+      "url": "https://open.spotify.com/track/5OSSD6jXQBMnvjMuGyp0UC"
+    },
+    {
+      "album": {
         "name": "Enter the Kettle",
         "url": "https://open.spotify.com/album/6ijPm9fn5hVPo5II2IZOod"
       },
@@ -947,7 +1031,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 716733,
       "name": "Super Nova At The End Of The Universe",
       "url": "https://open.spotify.com/track/1QOIvqLUacNvxOBAoA1cDJ"
@@ -987,7 +1071,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 238398,
       "name": "The 10 Sultans Of Rudyard (Moo Moo Mix)",
       "url": "https://open.spotify.com/track/1LAQpdO8e6MvPpN6lCK0zK"
@@ -1009,7 +1093,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 335866,
       "name": "The Cult Of Youth Ambient Mix Parts 1 & 2 (feat. David Gilmour) - Edit",
       "url": "https://open.spotify.com/track/4iPCa0uM1gkpDkkdP8VCdi"
@@ -1175,7 +1259,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 576600,
       "name": "White River Junction",
       "url": "https://open.spotify.com/track/1Cy8r0ylCPuFiljj7V7hMQ"
@@ -1193,7 +1277,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 341254,
       "name": "Wireless MK2",
       "url": "https://open.spotify.com/track/7xF48L0fjSDWAlZxsY5Et6"

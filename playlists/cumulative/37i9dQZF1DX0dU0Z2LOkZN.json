@@ -760,6 +760,28 @@
     },
     {
       "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/3wxNK2VhWjnShCORfssCdy"
+      },
+      "artists": [
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        },
+        {
+          "name": "Ornithology",
+          "url": "https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187951,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/4QeyBi2HQ9tGYdEJzwuNVl"
+    },
+    {
+      "album": {
         "name": "Gold Plated",
         "url": "https://open.spotify.com/album/1rOtwbR2qwBhi8k5OSXLVd"
       },

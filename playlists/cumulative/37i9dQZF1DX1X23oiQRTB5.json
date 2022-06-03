@@ -183,7 +183,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 187560,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/57QiLC5coJ0WDt0oY7fXqz"
@@ -536,6 +536,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9lo",
+        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183053,
+      "name": "Gasolina (feat. Rsko)",
+      "url": "https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr"
+    },
+    {
+      "album": {
         "name": "GROKUWA",
         "url": "https://open.spotify.com/album/4F6wVoSnaBQTW6DJzkJ8oH"
       },
@@ -689,6 +711,24 @@
       "duration_ms": 171066,
       "name": "La 14",
       "url": "https://open.spotify.com/track/3wWrlpzyqUjE47DkR39O7l"
+    },
+    {
+      "album": {
+        "name": "La 15 (GSXR)",
+        "url": "https://open.spotify.com/album/41LI7y7bznXzeAZj6Wup5n"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170078,
+      "name": "La 15 (GSXR)",
+      "url": "https://open.spotify.com/track/5KANzscJcnk2n4CvtTOiZU"
     },
     {
       "album": {
@@ -1347,7 +1387,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 212946,
       "name": "\u00c9tincelle - Maradona",
       "url": "https://open.spotify.com/track/2PZTDaakPcvII5QJJP7SDO"

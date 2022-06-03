@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-126 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
+127 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [elevation](https://open.spotify.com/track/7spTNUW2VouHtkboiO30sF) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [elevation](https://open.spotify.com/album/6bfqiDky9JqXxkfs6VCKst) | 2:10 | 2022-05-20 |  |
 | [ether](https://open.spotify.com/track/4zrOqot4vi27IPPQ7u1B2l) | [kyoshi](https://open.spotify.com/artist/3f07ZRsXK7XDJfccmAJNi1) | [drifting off](https://open.spotify.com/album/7g0HJ1tAmHfR28Bg5hQKVU) | 2:58 | 2022-05-20 |  |
 | [Evening Glow](https://open.spotify.com/track/5YmgGYuvTRawhddL0tesXV) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Evening Glow](https://open.spotify.com/album/7GnD0GoF9I8gMiHJTLgAtD) | 2:29 | 2022-05-27 |  |
+| [evergreen](https://open.spotify.com/track/2SCLWAhvc18f3NPNdfeoTi) | [prospr.](https://open.spotify.com/artist/5BAnm1BkaWpBtvfABJvSzf), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [evergreen](https://open.spotify.com/album/35YDouLHRLwcSu89MBAotr) | 2:22 | 2022-06-03 |  |
 | [Exhale](https://open.spotify.com/track/4kbjW7PdqSvKwKhe9NBVuD) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Exhale](https://open.spotify.com/album/3K5P8toBo5aA71JfIDcIKe) | 2:14 | 2022-05-20 |  |
 | [Explorer](https://open.spotify.com/track/18G5ecvEtqgqQ0lpu7WPda) | [Embien](https://open.spotify.com/artist/4KACX9SaKjjSY3qP8XNKPs) | [Explorer](https://open.spotify.com/album/0DUZH51kKZR7SEJazT7hME) | 2:33 | 2022-05-20 |  |
 | [first look](https://open.spotify.com/track/4fhwddTpcG2yxv26BFVLDd) | [jacob klev](https://open.spotify.com/artist/3XV2xVPuckMYpUbguXZ57D) | [first look](https://open.spotify.com/album/3yZU9nbHQenBDDdgiDIEKt) | 2:04 | 2022-05-20 |  |

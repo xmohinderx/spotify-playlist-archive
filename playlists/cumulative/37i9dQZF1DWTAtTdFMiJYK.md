@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Vismay Patel
 
-147 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
+148 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [i'll find my way to you tomorrow](https://open.spotify.com/track/4zTg4g1gKpxWTShLFDEill) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [i'll find my way to you tomorrow](https://open.spotify.com/album/4KIpuP4MsEiGLbyiGR9BNS) | 3:45 | 2022-01-10 | 2022-03-22 |
 | [I'm On Holiday](https://open.spotify.com/track/1o80HBoapHZKj4DfiEAvE2) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [I'm On Holiday](https://open.spotify.com/album/2qUiZUyvXbvqyDXEUrkPIC) | 3:32 | 2022-01-10 | 2022-02-01 |
 | [I'm On Holiday](https://open.spotify.com/track/7ywG4HmmsUCoM2g88z1D0f) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [I'm On Holiday](https://open.spotify.com/album/618dFbVK7B8HN1dLHuj8Nw) | 3:32 | 2021-12-06 | 2022-01-11 |
+| [idk](https://open.spotify.com/track/6EPAW0VyoXqJBEmgQXnFfV) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [idk](https://open.spotify.com/album/0tO2P9QpZ0QeVTojBuQ9Yw) | 2:45 | 2022-06-02 |  |
 | [Ilm Na Mujhe Ishq Ki](https://open.spotify.com/track/50UEBQ956XJj1tEYU11Q29) | [Iram](https://open.spotify.com/artist/03vOPjk4buG4luOCylcWVh) | [Ilm Na Mujhe Ishq Ki](https://open.spotify.com/album/1qJfNKu5Iazzgfc1PwMX9T) | 4:23 | 2021-12-06 | 2022-01-11 |
 | [internet friends](https://open.spotify.com/track/7eGJxi6rL5Z0p7yQKJD8ID) | [sunflower tape machine](https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf) | [internet friends](https://open.spotify.com/album/7h2qB3e507wkDaa3syS7l5) | 3:14 | 2022-02-08 | 2022-02-25 |
 | [Ishq Ke Sheher Mein](https://open.spotify.com/track/79IhwHGuF3XLbzZQuGPmWs) | [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN), [Soham Mallick](https://open.spotify.com/artist/0xEem18avGCL5Bacbup8Ue) | [Ishq Ke Sheher Mein](https://open.spotify.com/album/14LTcY8KKrT8VZTC5KkUK0) | 3:01 | 2022-03-21 |  |

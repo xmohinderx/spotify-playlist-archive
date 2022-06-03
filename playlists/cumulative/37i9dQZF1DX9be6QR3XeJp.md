@@ -2,9 +2,9 @@
 
 ### [RADAR: First Listen](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists\. Cover: Debbie
+> Discover your new favourite artists\. Cover: Lauran Hibberd
 
-110 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+111 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [I Like Me](https://open.spotify.com/track/6Sxu7v5cVU36u4pSFc4QGs) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Like Me](https://open.spotify.com/album/0XFnNV4tAhhN5HdIoi2OEq) | 2:30 | 2022-02-18 |  |
 | [I must apologise](https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [I must apologise](https://open.spotify.com/album/0m1wwIx9Eoa7fWb9KYh7pt) | 1:48 | 2022-02-18 |  |
 | [I Need You To Hate Me](https://open.spotify.com/track/1zY6ekSJ8VI6tZ6nBqoo7g) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [I Need You To Hate Me](https://open.spotify.com/album/1iTfzcKZxr2SEgNCIDyhol) | 2:37 | 2022-02-18 |  |
+| [I'm Insecure](https://open.spotify.com/track/6kHnHk0jlAdYWktT0FQrSN) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [I’m Insecure](https://open.spotify.com/album/0DyvaVIRS4rdXtTcIu5QQi) | 3:42 | 2022-06-02 |  |
 | [In My Head](https://open.spotify.com/track/1dlDzw8OCpS3TnPdw3nP2H) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/3XmQyh6RPXqg8QCILKQvag) | 4:18 | 2022-02-18 |  |
 | [Into You](https://open.spotify.com/track/38gXTVJbL0PuLu2D5TsnDp) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Into You](https://open.spotify.com/album/5k9tVBLPmASFALptyHgbhW) | 2:48 | 2022-02-18 |  |
 | [Introduce Myself \(feat\. JADA\)](https://open.spotify.com/track/3R0r72bfIxXfg9fEu1Eydr) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61), [KWN](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 2:30 | 2022-02-18 |  |

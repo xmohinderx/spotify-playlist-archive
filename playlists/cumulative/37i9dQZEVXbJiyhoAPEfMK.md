@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-1,015 songs - 2 day 5 hr 48 min - [published](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
+1,016 songs - 2 day 5 hr 52 min - [published](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Donda Chant](https://open.spotify.com/track/3VlW71ZRJPEjd17W0bW28D) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 0:52 | 2021-08-31 | 2021-09-01 |
 | [DOTY](https://open.spotify.com/track/00xokWYvcFqbgr239GArbe) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z) | [DOTY](https://open.spotify.com/album/434ID1i06csub38icDWwrt) | 2:53 | 2022-05-21 | 2022-05-23 |
 | [Double Cup](https://open.spotify.com/track/182ygO5g4XVEdixmap1ccY) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Double Cup](https://open.spotify.com/album/4nJHlPOFhGykGPwIHqFcE6) | 2:29 | 2021-11-28 | 2021-11-30 |
-| [Down](https://open.spotify.com/track/3r8n4EYp7J5Z6g3dooASb3) | [GRMV](https://open.spotify.com/artist/5CytxM5GBfX3oxMW17FaOg), [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [M.A.T.G.A.](https://open.spotify.com/album/6gmHg3JVM6ChhaAFNLcHIp) | 3:30 | 2022-06-01 |  |
+| [Down](https://open.spotify.com/track/3r8n4EYp7J5Z6g3dooASb3) | [GRMV](https://open.spotify.com/artist/5CytxM5GBfX3oxMW17FaOg), [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [M.A.T.G.A.](https://open.spotify.com/album/6gmHg3JVM6ChhaAFNLcHIp) | 3:30 | 2022-06-01 | 2022-06-03 |
 | [DOWN](https://open.spotify.com/track/0dtmf5crBXbjBtveo8ggJA) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [DOWN](https://open.spotify.com/album/6DDUnsJPuaLsnTfruIp9Ks) | 3:39 | 2022-02-26 | 2022-02-28 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/3Oww84xrmgjyr5J1ilOmAf) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/6jwTcGQIb9PZaZinJGqgVX) | 2:38 | 2022-02-06 | 2022-03-13 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/53O5nAlq04RKmSBqW0SFvG) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/52L8AnUkPWl7FGDlZjNAnJ) | 2:38 | 2022-02-02 | 2022-02-07 |
@@ -387,6 +387,7 @@
 | [High](https://open.spotify.com/track/4jd831r8j3V5yI6tIOFuYP) | [187 Strassenbande](https://open.spotify.com/artist/2j2rh3oQh4QEUnNTDKYSJD), [LX](https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC) | [Sampler 5](https://open.spotify.com/album/6vxv7hGXgjaUmMt9UyXFpG) | 3:16 | 2021-05-16 | 2021-05-17 |
 | [HIGH](https://open.spotify.com/track/2PDM9Byxz5crB2IXuh2Oal) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [HIGH](https://open.spotify.com/album/2t7zoWWyeHcZRu4oLDl7K5) | 3:03 | 2021-11-14 | 2021-12-05 |
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2021-05-09 | 2021-05-16 |
+| [Hold My Hand](https://open.spotify.com/track/1c2hJSwcCfoPEw1su83Sw0) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 3:45 | 2022-06-02 |  |
 | [Hold On](https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:06 | 2021-11-21 | 2021-11-25 |
 | [Hold On](https://open.spotify.com/track/1nahzW3kfMuwReTka28tH5) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:50 | 2021-03-27\* | 2021-05-03 |
 | [HOLIDAY](https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOLIDAY](https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu) | 2:34 | 2021-04-05 | 2021-04-10 |

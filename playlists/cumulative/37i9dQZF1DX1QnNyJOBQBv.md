@@ -4,7 +4,7 @@
 
 > The hottest Latin pop hits right now\. Cover: Morat, Duki
 
-130 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/1C2XqxMOTFW3XGWn44uwXh)
+131 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/1C2XqxMOTFW3XGWn44uwXh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 | 2022-03-22 |  |
 | [cara :\)](https://open.spotify.com/track/5q4ZSDqJotpZfucKsUJFx4) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [cara :\)](https://open.spotify.com/album/1QjlXkEbUtyxeKg3AcVkq5) | 3:23 | 2021-12-16 | 2022-01-29 |
 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 | 2021-12-16 | 2022-02-26 |
-| [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-04-15 |  |
+| [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-04-15 | 2022-06-03 |
 | [Cinco A Cero](https://open.spotify.com/track/1ZULiEu2jHLr65ChXaF2Mo) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Cinco A Cero](https://open.spotify.com/album/2oY4Hw8IXeAGiZ772nSa2L) | 2:30 | 2021-12-16 | 2022-01-11 |
 | [Cobardes](https://open.spotify.com/track/19MrGoBqSf0fMq3ez53ILU) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:50 | 2022-05-10 |  |
 | [Coldplay](https://open.spotify.com/track/1aaACV8X5g9coHgXLlEfIX) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Coldplay](https://open.spotify.com/album/10rK1UDegx1LEDnbswIkTk) | 3:03 | 2021-12-16 | 2022-01-15 |
@@ -47,6 +47,7 @@
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-12-16 | 2022-04-21 |
 | [DPM \(De Pxta Madre\)](https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [DPM \(De Pxta Madre\)](https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ) | 3:01 | 2021-12-16 |  |
 | [Eazt](https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Mi Para Ti](https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK) | 3:36 | 2022-01-28 |  |
+| [El Cielo Se Me Cayó](https://open.spotify.com/track/7q72vajxaywdWMdena6o54) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [El Cielo Se Me Cayó](https://open.spotify.com/album/49E0S14vGXYJSMrloi57sn) | 2:03 | 2022-06-02 |  |
 | [EL LOBBY](https://open.spotify.com/track/14gKV9ddDCAhm21tUngnY0) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [EL LOBBY](https://open.spotify.com/album/0ihbQj0DqoCTxtuAc4ggJS) | 3:28 | 2021-12-16 |  |
 | [En El Coche](https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En El Coche](https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp) | 2:05 | 2022-04-01 |  |
 | [Enchulao](https://open.spotify.com/track/3HaTdgWD41zkYPHZMNuQ0V) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Enchulao](https://open.spotify.com/album/2HUndIVv8uHBOaoyAMhdrn) | 3:35 | 2022-02-10 | 2022-04-09 |

@@ -4,7 +4,7 @@
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 28 min - not published yet
+51 songs - 2 hr 32 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,11 +42,12 @@
 | [Me Va Y Me Viene](https://open.spotify.com/track/03AwEUNvTXg0f0fwyCgr1I) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Recordando](https://open.spotify.com/album/6dOXeCoGargfF3rc3n4slP) | 2:51 | 2022-06-01 |  |
 | [Ni Tu Amigo Ni Tu Amante](https://open.spotify.com/track/2SeZ4jqXC5gFGaMrIDJOr2) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Ni Tu Amigo Ni Tu Amante](https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ) | 2:39 | 2022-06-01 |  |
 | [No Hay Problema](https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Te Sigo Amando](https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4) | 3:35 | 2022-06-01 |  |
-| [No Le Hace Que Le Aunque](https://open.spotify.com/track/0ve58bCVhU6a1BDwsJOEvg) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Las Más Pedidas, Vol\. 1](https://open.spotify.com/album/1mCM2OJg5uXplzjs9cDTGK) | 2:41 | 2022-06-01 |  |
+| [No Le Hace Que Le Aunque](https://open.spotify.com/track/0ve58bCVhU6a1BDwsJOEvg) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Las Más Pedidas, Vol\. 1](https://open.spotify.com/album/1mCM2OJg5uXplzjs9cDTGK) | 2:41 | 2022-06-01 | 2022-06-03 |
 | [No Sabes Amar](https://open.spotify.com/track/6kxAZkr8hABBkG7dGWkkOX) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Íconos 25 Éxitos](https://open.spotify.com/album/13xXOOKo0SiaD2Tc6iPUFP) | 2:43 | 2022-06-01 |  |
 | [No Te Paniquees](https://open.spotify.com/track/43fnr1Cv19VCF8YKrU6Wsv) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor Brutal](https://open.spotify.com/album/6SLPmv0FnxBJppKBWHbLI4) | 3:08 | 2022-06-01 |  |
 | [Palabras Tristes](https://open.spotify.com/track/0mrX7N28wFzFpkkeCGLCix) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 2:49 | 2022-06-01 |  |
 | [Paloma Negra](https://open.spotify.com/track/6xg5luJD50QQdwNZunIlCa) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Mas Mexicanos Que Nunca](https://open.spotify.com/album/0WmU0vKZo2Cj84Ri0J7L0M) | 3:34 | 2022-06-01 |  |
+| [Por Motivos de Salud](https://open.spotify.com/track/21fwsNalbCexxQKxgTY4eR) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [El Adiós](https://open.spotify.com/album/4zzIZntIdoZ0bKy4GOqmjQ) | 3:30 | 2022-06-02 |  |
 | [Que Sepan Todos](https://open.spotify.com/track/3SCSuJUWcMkUOuxnvhzVP6) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Mas Mexicanos Que Nunca](https://open.spotify.com/album/0WmU0vKZo2Cj84Ri0J7L0M) | 3:14 | 2022-06-01 |  |
 | [Quisiera Ser Una Lágrima](https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:58 | 2022-06-01 |  |
 | [Rosas Blancas](https://open.spotify.com/track/5TJaE686PQ1CA1qvQuo8Fn) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8) | 2:44 | 2022-06-01 |  |

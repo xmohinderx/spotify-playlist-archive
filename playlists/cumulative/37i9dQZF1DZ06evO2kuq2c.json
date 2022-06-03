@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 260191,
       "name": "All Love is Lost",
       "url": "https://open.spotify.com/track/7mVy5TK92iX36crfo0hSWH"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 247664,
       "name": "An Ordinary Extinction",
       "url": "https://open.spotify.com/track/1a3ght71qSYa6wBFmmmTE2"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 244614,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/00qcVGqRxXM74x98mB6VXy"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 217080,
       "name": "Heartburn",
       "url": "https://open.spotify.com/track/7zWpt2cSbTHyjTdWY805Vz"
@@ -563,6 +563,24 @@
       "duration_ms": 241493,
       "name": "Learn to Live",
       "url": "https://open.spotify.com/track/65a0TZb4oPjLeeuD1BAK1L"
+    },
+    {
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241034,
+      "name": "Meteor",
+      "url": "https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4"
     },
     {
       "album": {

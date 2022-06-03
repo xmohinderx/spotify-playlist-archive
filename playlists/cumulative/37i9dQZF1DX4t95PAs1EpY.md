@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-174 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+178 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Anemone](https://open.spotify.com/track/7eNGBTOkvmEJqh7ylI2Kfu) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Anemone](https://open.spotify.com/album/7ek1qAaWiRo87eyr6vmbsE) | 2:30 | 2022-05-13 |  |
 | [Aphrodite](https://open.spotify.com/track/0yZ11M8p1uSTz1H4rwICSs) | [KojimaBeats](https://open.spotify.com/artist/5S61jcmSfM4Hg6s8bJ16BN) | [Aphrodite](https://open.spotify.com/album/4iO4ZqgrW7EMgJcWcAswa4) | 2:42 | 2022-05-13 |  |
 | [Artwork](https://open.spotify.com/track/5J5NcN1lGvb3Yo794ohu8f) | [Push & Play](https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng) | [Artwork](https://open.spotify.com/album/1S2pNdwEk83jQrPJlPqbmS) | 2:20 | 2022-02-28 |  |
+| [Bamboo](https://open.spotify.com/track/1Eds8oDDD5wYBGNgp8GpjF) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Two Piece](https://open.spotify.com/album/4WUWDPlKnLRNTv7AIS2TO3) | 2:02 | 2022-06-03 |  |
 | [Bay Leaves](https://open.spotify.com/track/7LKRVeyuMdIxLFhr49n7sT) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Bay Leaves](https://open.spotify.com/album/5ktazOzcMJcyaEg2lcYlKS) | 2:04 | 2021-12-07 |  |
 | [Better Life](https://open.spotify.com/track/32jgxWTiEcXChtfT4BdFyK) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Better Life](https://open.spotify.com/album/43SGwBqaSpuOA5D9stfmLy) | 2:40 | 2021-12-07 |  |
 | [Big Wave Surfing](https://open.spotify.com/track/2UoP5BNB4tOW6BchOLMgbu) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Big Wave Surfing](https://open.spotify.com/album/5UGRz4ydUaly6KyHea5J8U) | 2:21 | 2021-12-07 |  |
@@ -43,7 +44,7 @@
 | [dead reckoning](https://open.spotify.com/track/1HPRFECUZyvqlTsVcnVQqL) | [exogon](https://open.spotify.com/artist/2IJJALo5Ey8JvuJYzKnzvO) | [abstract mapping](https://open.spotify.com/album/3wnY9D1Dl69OohA8MtkU2z) | 1:48 | 2021-12-07 |  |
 | [Don Lemon](https://open.spotify.com/track/3MZM6vRRO8f459kxgEULg8) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Don Lemon](https://open.spotify.com/album/2Mcpr3klMbn0OOC5sslBUc) | 1:44 | 2022-05-27 |  |
 | [Dreaming](https://open.spotify.com/track/2sAueBql5AeZv5lbgIoCmw) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Dreaming](https://open.spotify.com/album/0OFCOApz7zlibihMfLmnyf) | 2:31 | 2021-12-07 | 2022-05-20 |
-| [Eden Garden](https://open.spotify.com/track/3DWCpXGvN3HdNdyl6pidSO) | [Dilai](https://open.spotify.com/artist/5vczEix1wnWLZ3FeFA6uX4) | [Eden Garden](https://open.spotify.com/album/1ISWQe58Is94DhLVmRZtJG) | 3:48 | 2022-05-20 |  |
+| [Eden Garden](https://open.spotify.com/track/3DWCpXGvN3HdNdyl6pidSO) | [Dilai](https://open.spotify.com/artist/5vczEix1wnWLZ3FeFA6uX4) | [Eden Garden](https://open.spotify.com/album/1ISWQe58Is94DhLVmRZtJG) | 3:48 | 2022-05-20 | 2022-06-03 |
 | [efímero](https://open.spotify.com/track/5SRg6ipwt6uYyAur2HARPe) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [efímero](https://open.spotify.com/album/4nZISHOozkmb87YDkpe5eO) | 3:18 | 2021-12-07 |  |
 | [Electro Lofi](https://open.spotify.com/track/6fZgKfjI7TSVrjm3LPYnWB) | [´Goule](https://open.spotify.com/artist/2phpbwxQb0xbtDKXYP5VDu) | [Electro Lofi](https://open.spotify.com/album/2aq1w0HlCGB8hMf3nr2sPG) | 1:55 | 2022-04-15 |  |
 | [Ender](https://open.spotify.com/track/0mE3vnX3Jl8lPrw616n3qY) | [1ga](https://open.spotify.com/artist/34NTA1C1HZCG5v0szAB5Fu) | [Goblin](https://open.spotify.com/album/5HuYg16CS7wK0qDa6Y1K7V) | 2:44 | 2021-12-07 | 2022-05-20 |
@@ -73,6 +74,7 @@
 | [Happy Floating](https://open.spotify.com/track/2tbNmBfUatF57h4t3XdFP2) | [Bah Linn](https://open.spotify.com/artist/3gy6Hphc2dgZcIKDi9VOvV) | [Happy Floating](https://open.spotify.com/album/6Jkbx0oLMUaPC0gNXIATUh) | 1:59 | 2022-04-15 |  |
 | [Harpazo](https://open.spotify.com/track/2CJExqrBLTlUZS973gS4aQ) | [Blu Crown](https://open.spotify.com/artist/3ep6h6m1oYrtEKiF60g19K) | [Harpazo](https://open.spotify.com/album/3M9FaUP4gZ4xNHJ0HrFTd8) | 2:18 | 2021-12-07 |  |
 | [Headache](https://open.spotify.com/track/22ECnbNX6WlUzr7gZelnlW) | [Bokki](https://open.spotify.com/artist/1gmAvUNIqrPSGklxtoj514) | [Headache](https://open.spotify.com/album/1GTBhTkHMVf6eRvn1K4Ipk) | 2:26 | 2021-12-07 | 2022-05-27 |
+| [Heaven](https://open.spotify.com/track/0yYipx9nc0mE2ZdEqbUFwa) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [After Life](https://open.spotify.com/album/6tAnYBib3ol7bjjqwI4d2u) | 2:06 | 2022-06-03 |  |
 | [helluva](https://open.spotify.com/track/41hOiG9rbP9VbNFZkGkNQf) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [helluva & hummingbird](https://open.spotify.com/album/4PDJXXbhESvvr9i7PjKeyy) | 2:39 | 2021-12-07 |  |
 | [Highway One](https://open.spotify.com/track/5GwIRA5zkwWuH0f4Fz9euR) | [Road Spark](https://open.spotify.com/artist/325XO54l2sek2v5fOyG3RG) | [Highway One](https://open.spotify.com/album/2hCb9q5ug3wVbOrL0RkknA) | 2:10 | 2021-12-07 | 2022-05-20 |
 | [hollows](https://open.spotify.com/track/1LsBuFMHgiUlXYcH4PT2nv) | [ding m](https://open.spotify.com/artist/3YpyfRGmyOjU5Sdx6xMwBn) | [hollows](https://open.spotify.com/album/2S50kPdsCPHNGvUiUeW7A4) | 2:50 | 2021-12-07 |  |
@@ -96,6 +98,7 @@
 | [Lonely Horseman](https://open.spotify.com/track/3VDiKLJhDIRktINkdoIfUC) | [Smuff Tha Quiz](https://open.spotify.com/artist/3RoPCko9qLmfQiDg8mHaZn), [Walterwarm](https://open.spotify.com/artist/07kiOUGRiofjbQZbEPH8yk) | [Lonely Horseman](https://open.spotify.com/album/5cGGSO12FCm088hdzmcMN8) | 2:00 | 2021-12-07 |  |
 | [Lunaris](https://open.spotify.com/track/3XMCfc2CUciBE7DLrjdFz6) | [Lumen](https://open.spotify.com/artist/14Dt2vDIbAR28uyDzohVlK) | [Lunaris](https://open.spotify.com/album/4fpYpc9phR63kfZOlYiznG) | 1:33 | 2021-12-07 | 2022-05-27 |
 | [Lune](https://open.spotify.com/track/2boNzMHyWWrDWpgL5ddkP3) | [Fallen Shores](https://open.spotify.com/artist/054Pqx7Nqx2Wcpxv5rylcc) | [Lune](https://open.spotify.com/album/3vDGGpJoyA01CTa0QUFlj1) | 3:12 | 2021-12-07 | 2022-05-20 |
+| [Lusette \- Garden Lofi Mix](https://open.spotify.com/track/7EXdaAjjY3WutDTmpqyb18) | [Mad Chronic](https://open.spotify.com/artist/6EZ4ixvQRudMRAcxGGH3Dt) | [Lusette \- Lofi Ambience](https://open.spotify.com/album/6Jqb6VM5XseparH4RjuVw9) | 2:00 | 2022-06-03 |  |
 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 | 2022-03-08 |  |
 | [Mario Lopez](https://open.spotify.com/track/5BEOEB4JQmvOLrhHp3T9Jl) | [Ceelen](https://open.spotify.com/artist/2KOGdGOCUsZeoU6FsyuDzc) | [Mario Lopez](https://open.spotify.com/album/7d8M8gyeUImR6rm9YkwO3V) | 1:55 | 2022-04-15 |  |
 | [Maybe Tomorrow?](https://open.spotify.com/track/5SeMmi8XpLcWGHQ1PqpsZn) | [Waxing Moods](https://open.spotify.com/artist/2v125JM156kVhtBO3TjOMN) | [Maybe Tomorrow?](https://open.spotify.com/album/3wS0pPrQENgREfs4IEZ9bP) | 2:38 | 2021-12-07 | 2022-04-08 |
@@ -158,6 +161,7 @@
 | [Some Say](https://open.spotify.com/track/0gSBc2xe2FvZXZpsloYAwu) | [Kathy Catchy](https://open.spotify.com/artist/3zDLVQgvm6DRcPgN1ypIBt) | [Some Say](https://open.spotify.com/album/1tHutlUmxF12xjp5sN81iN) | 2:38 | 2021-12-07 |  |
 | [Some Things Don't Change](https://open.spotify.com/track/7zSOXHtoFlF1nnEKZSHCzn) | [Convoy Gold](https://open.spotify.com/artist/5ZEKAN1x3N50gFfs6VXTXC) | [My Computer](https://open.spotify.com/album/2qmNkqhC8vw2L0tq5qA12R) | 2:42 | 2021-12-07 | 2022-05-20 |
 | [sonar zone](https://open.spotify.com/track/3GGVT0QnHgcVzc3svCFzsd) | [Larid](https://open.spotify.com/artist/6sOC5JvEbDHGkQClRxWP49) | [sonar zone](https://open.spotify.com/album/2UoqAhmWLsEp8HJUeWe5mw) | 3:06 | 2022-01-28 |  |
+| [spaceportaladventure](https://open.spotify.com/track/5Z42EcS4orw1I8BeXufWQZ) | [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [spaceportaladventure](https://open.spotify.com/album/47lrbncLyR4j9MrSFysoia) | 1:48 | 2022-06-03 |  |
 | [Springy](https://open.spotify.com/track/6UY5JTrwgI5ID9ddc3DdgB) | [Pantone](https://open.spotify.com/artist/3LgulNXWnXp7Tre4Col8RP) | [Springy](https://open.spotify.com/album/1r1R6osLbyOEkwyyh8ZgTp) | 2:14 | 2021-12-07 |  |
 | [Steady Somewhere](https://open.spotify.com/track/7J0jAsnZ1VKTizaSaOYtLM) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:36 | 2021-12-07 |  |
 | [String Theori](https://open.spotify.com/track/6hOVJidj6yGlS3sNdhGtNi) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [String Theori](https://open.spotify.com/album/5SQJKy1u9FTIvBZUNqGZrJ) | 3:44 | 2021-12-07 |  |

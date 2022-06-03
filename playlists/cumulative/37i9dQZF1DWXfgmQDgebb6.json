@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 228872,
       "name": "29",
       "url": "https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 144631,
       "name": "?",
       "url": "https://open.spotify.com/track/6kfwGHY3NnomOV3H9V4Fod"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 149318,
       "name": "ALL RIGHT - Remix",
       "url": "https://open.spotify.com/track/0njAAvNO3XYddlosJSZEgx"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 108226,
       "name": "Amoo-rae-do",
       "url": "https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "Bang Bus",
       "url": "https://open.spotify.com/track/6icnkKxcpcXTinKYC1k1Sl"
@@ -183,6 +183,46 @@
       "duration_ms": 197795,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/2r7FeGOELjIHKIpPjLeXvd"
+    },
+    {
+      "album": {
+        "name": "Before 12 o'clock",
+        "url": "https://open.spotify.com/album/2QsHZ9YZesFSpwb8f67fvu"
+      },
+      "artists": [
+        {
+          "name": "LQMC",
+          "url": "https://open.spotify.com/artist/1gQdzJ75h4L7e38xJhoczx"
+        },
+        {
+          "name": "Honey Apple",
+          "url": "https://open.spotify.com/artist/7h7sOqNmc6mzSQuDRHmyev"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211600,
+      "name": "Before 12 o'clock",
+      "url": "https://open.spotify.com/track/5jYJzEEMCJE98cM41rwt98"
+    },
+    {
+      "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/2GIJXudMpFp9ql5s6joZwX"
+      },
+      "artists": [
+        {
+          "name": "Festy Wxs",
+          "url": "https://open.spotify.com/artist/21HMWviztlB3LNqP0nE4nu"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/0xOBqBL9Gy68Dc8ZA3fAIE"
     },
     {
       "album": {
@@ -223,7 +263,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 213453,
       "name": "Bright (feat. sogumm & BewhY)",
       "url": "https://open.spotify.com/track/0VqsjJaNYLTYi1WOGvUNN6"
@@ -301,7 +341,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 215740,
       "name": "Bug",
       "url": "https://open.spotify.com/track/3lP5mlfDjH9m8chCPul7Us"
@@ -319,7 +359,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 143625,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4BPPlp8kSra6g35qR7hjEm"
@@ -425,7 +465,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 188920,
       "name": "Dance (feat. B JYUN.)",
       "url": "https://open.spotify.com/track/1yMn6tOy8jLhmKabfZFz6Z"
@@ -531,7 +571,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 109969,
       "name": "demons",
       "url": "https://open.spotify.com/track/7e7q3q6vVJpquuKQghF73N"
@@ -593,7 +633,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 161437,
       "name": "Electric Animal",
       "url": "https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R"
@@ -611,7 +651,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 160453,
       "name": "ELEVATOR FLOW",
       "url": "https://open.spotify.com/track/0OlADwDq7CuXr4vBRSe9Ii"
@@ -647,7 +687,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 195989,
       "name": "FACETIME",
       "url": "https://open.spotify.com/track/3lLrm5upuIxhYpQ5pupm3w"
@@ -709,10 +749,32 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 185306,
       "name": "Float (feat. Shelhiel, B\u00c9BE YANA)",
       "url": "https://open.spotify.com/track/1fjmOwYpFYoCma7tJCaTDu"
+    },
+    {
+      "album": {
+        "name": "Fort (feat. So!YoON!)",
+        "url": "https://open.spotify.com/album/1jIH9KeCzSSnfge1KEtb45"
+      },
+      "artists": [
+        {
+          "name": "Kim Doeon",
+          "url": "https://open.spotify.com/artist/0TGFTWpeT8b9vj6Fy7UaKg"
+        },
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192669,
+      "name": "Fort (feat. So!YoON!)",
+      "url": "https://open.spotify.com/track/1qj9iKSLJ8MPHKcmn4B0YS"
     },
     {
       "album": {
@@ -753,7 +815,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 232078,
       "name": "Free (Feat. WOON)",
       "url": "https://open.spotify.com/track/51YuW2dBQscc0RkmKyizFN"
@@ -793,7 +855,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 212466,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/0w4jvWIBX6GAqslYvV7XgO"
@@ -859,6 +921,36 @@
       "duration_ms": 145714,
       "name": "Gonna out!",
       "url": "https://open.spotify.com/track/38LSMDRn5FSH7tY9VWCbRt"
+    },
+    {
+      "album": {
+        "name": "Parents (Feat. Kid Milli)",
+        "url": "https://open.spotify.com/album/01HcaVOVBDK2gCXqPr4hGj"
+      },
+      "artists": [
+        {
+          "name": "dress",
+          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
+        },
+        {
+          "name": "Meego",
+          "url": "https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy"
+        },
+        {
+          "name": "Han Yo Han",
+          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231626,
+      "name": "Gossip (Feat. Kid Milli, Han Yo Han)",
+      "url": "https://open.spotify.com/track/7cv7ZK2JgGi135mxeOJATM"
     },
     {
       "album": {
@@ -1139,7 +1231,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 256706,
       "name": "It Was All a Dream",
       "url": "https://open.spotify.com/track/7GzefGaB1o5MpjDj811ISL"
@@ -1179,7 +1271,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 245330,
       "name": "Kirari - Daul Remix",
       "url": "https://open.spotify.com/track/1zzJfOdraIBJtCAatSYzCt"
@@ -1215,7 +1307,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 186013,
       "name": "LAST NIGHT",
       "url": "https://open.spotify.com/track/6SLz0d8qOwxDGsVz1D6cMw"
@@ -1241,7 +1333,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 235888,
       "name": "Liquor",
       "url": "https://open.spotify.com/track/4ouWk35JipdUIXfnvqg57U"
@@ -1259,7 +1351,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 185282,
       "name": "love machine",
       "url": "https://open.spotify.com/track/1fSJP4kju7ptpwefeW4gbY"
@@ -1295,7 +1387,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 129255,
       "name": "MAGO",
       "url": "https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu"
@@ -1331,7 +1423,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 166625,
       "name": "Moon",
       "url": "https://open.spotify.com/track/1Fi5OIs8sB3WABpWZAYbJG"
@@ -1385,7 +1477,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 190627,
       "name": "Noonchi",
       "url": "https://open.spotify.com/track/5sAIzrNI2ZETnUugLgWfTH"
@@ -1407,10 +1499,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 217435,
       "name": "Not Okay",
       "url": "https://open.spotify.com/track/0bn0LA1mR6hjqsiEnDZDLp"
+    },
+    {
+      "album": {
+        "name": "onoff",
+        "url": "https://open.spotify.com/album/7eybExNKuF4kSsdHauDmBF"
+      },
+      "artists": [
+        {
+          "name": "bobae",
+          "url": "https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172417,
+      "name": "onoff",
+      "url": "https://open.spotify.com/track/0Irane2MDLNYyoU5qC7phF"
     },
     {
       "album": {
@@ -1443,7 +1553,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 239867,
       "name": "Over U",
       "url": "https://open.spotify.com/track/73fUH9vcrYWTbMfXQ7VZSO"
@@ -1461,7 +1571,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 241280,
       "name": "pit-a-pet",
       "url": "https://open.spotify.com/track/4HoSUhgerbk17KXkduPFFV"
@@ -1541,7 +1651,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 189268,
       "name": "RECEiVE",
       "url": "https://open.spotify.com/track/73psAxgppCkcJl476p9UU3"
@@ -1559,7 +1669,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "Ringer",
       "url": "https://open.spotify.com/track/68p04jkbhAPjGvshurj9q6"
@@ -1685,7 +1795,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 267533,
       "name": "Sad Pain",
       "url": "https://open.spotify.com/track/3T7oPtt1IL0vS1ZtNhfiHc"
@@ -1707,7 +1817,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 197750,
       "name": "SAYx3 ft. Dbo",
       "url": "https://open.spotify.com/track/1dNmiMBjO9qt7X6e3AxVzb"
@@ -1725,7 +1835,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 275210,
       "name": "Sea of Love",
       "url": "https://open.spotify.com/track/5niSEAzP4pRaCBmzJ2slZd"
@@ -1743,7 +1853,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 185889,
       "name": "Serenade for Mrs.Jeon",
       "url": "https://open.spotify.com/track/0p7bBO5ohB47GIpjI9a8BZ"
@@ -1765,7 +1875,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 173293,
       "name": "SLEEP (feat. SUMIN)",
       "url": "https://open.spotify.com/track/0zeR5HBBsxtabc3qy78EYI"
@@ -1837,7 +1947,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 155750,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/20KwX3AhF7BhGHJyaN9Q1M"
@@ -1891,7 +2001,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 142530,
       "name": "Tallgrass",
       "url": "https://open.spotify.com/track/3ejKDgWyYihU4hKlzjgwlm"
@@ -2025,7 +2135,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 175066,
       "name": "We all want to go back \ubc14\ub2e4\ub85c \uac00\ub294 \uafc8\uc744 \uafd4 - Aquarium Ver.",
       "url": "https://open.spotify.com/track/4BC60RJaDwBZp6PpPXNnek"
@@ -2043,7 +2153,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 207999,
       "name": "We will be alright",
       "url": "https://open.spotify.com/track/75alK8vHbnOuAIeHpAdNeN"
@@ -2117,7 +2227,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 246946,
       "name": "WHY",
       "url": "https://open.spotify.com/track/7AxCm8ICBBQ5IUXao5ZtHw"
@@ -2179,7 +2289,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 230753,
       "name": "Yeonhui-dong",
       "url": "https://open.spotify.com/track/0HfHDDmgKzZRwTgTpj9eky"
@@ -2233,7 +2343,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 249599,
       "name": "Zizazu",
       "url": "https://open.spotify.com/track/0Fejc35mgnOla2Ptw9Vzry"

@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom
 
-98 songs - 6 hr 23 min - not published yet
+99 songs - 6 hr 27 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Kingdom \(feat\. Naomi Raine & Chandler Moore\)](https://open.spotify.com/track/61NMxrIZ0OYXHxG9lsl82z) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom \(feat\. Naomi Raine & Chandler Moore\)](https://open.spotify.com/album/4KdsGYinvqc6quBfbTChHz) | 9:25 | 2022-05-27 |  |
 | [Landslide](https://open.spotify.com/track/0LidfYMs8GTkrOIEzjpLSV) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Landslide](https://open.spotify.com/album/6n4SLfwVKjSiSrmUdL16iL) | 4:53 | 2022-05-27 |  |
 | [Landslide](https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Landslide](https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF) | 3:04 | 2022-05-27 |  |
+| [Lean on the Lord](https://open.spotify.com/track/1YEShExhORN9sq3CmGMDJ3) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Lean on the Lord](https://open.spotify.com/album/4Q2apaYoaJfqEz0aFep7xl) | 3:34 | 2022-05-27 |  |
 | [Let Me In](https://open.spotify.com/track/28yR8znzFWGvvTGa5bgD6D) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Let Me In](https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3) | 3:29 | 2022-05-27 |  |
 | [Long Way Home \- From The Motion Picture “Father Stu”](https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Long Way Home \(From The Motion Picture “Father Stu”\)](https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi) | 3:26 | 2022-05-27 |  |
 | [Love Won’t Let Go](https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Love Won’t Let Go](https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ) | 3:18 | 2022-05-27 |  |

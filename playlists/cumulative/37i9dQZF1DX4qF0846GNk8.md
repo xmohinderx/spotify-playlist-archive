@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر\. الغلاف: حوده بندق
 
-66 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
+67 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [بوم طخ طخ](https://open.spotify.com/track/5vIONI8kvsS4S6ogssrCNG) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [بوم طخ طخ](https://open.spotify.com/album/0vvArbnHsNg0TfVDzqNJyu) | 4:27 | 2021-12-16 |  |
 | [تعالي شوف في ايه يا صديق](https://open.spotify.com/track/189eXZnM4jAIVST0ESW7UC) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hamo El Tikha](https://open.spotify.com/artist/4sdlH0LsKi46VZpApChqZM) | [تعالي شوف في ايه يا صديق](https://open.spotify.com/album/3CO40kFO1xDPRxnBq3416a) | 4:23 | 2022-02-01 |  |
 | [جامد](https://open.spotify.com/track/7dhkgivsendkxVgtB9zZo6) | [Mido Gad](https://open.spotify.com/artist/6ZcugQ1o2uf7lkFEage28f) | [جامد](https://open.spotify.com/album/50Bc0tbgEIIQ1imsPKeZkO) | 3:00 | 2021-12-16 |  |
-| [خصمي بكيفه مكتفه \- انا مش بتكسف يا ابلتي](https://open.spotify.com/track/3Kroxt7mnIUfSDFGpWF5yJ) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [خصمي بكيفه مكتفه \(انا مش بتكسف يا ابلتي\)](https://open.spotify.com/album/369scONG77YROb5sy7AnTt) | 4:33 | 2022-03-30 |  |
+| [خصمي بكيفه مكتفه \- انا مش بتكسف يا ابلتي](https://open.spotify.com/track/3Kroxt7mnIUfSDFGpWF5yJ) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [خصمي بكيفه مكتفه \(انا مش بتكسف يا ابلتي\)](https://open.spotify.com/album/369scONG77YROb5sy7AnTt) | 4:33 | 2022-03-30 | 2022-06-03 |
 | [خطر \(ياللي سيرتي تعباك\)](https://open.spotify.com/track/1C6pNXiVfcKO49JttTv0xJ) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [خطر \(ياللي سيرتي تعباك\)](https://open.spotify.com/album/6nXBRUkDo8ttEm2DItn3sY) | 4:00 | 2021-12-16 |  |
 | [شقطت منك حبيبتك ياعم](https://open.spotify.com/track/1BApx7glGPbKRZ4Tqomd2f) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [شقطت منك حبيبتك ياعم](https://open.spotify.com/album/7qWys684xM31U3iRKfQKyl) | 6:02 | 2021-12-16 |  |
 | [شيماء](https://open.spotify.com/track/4neYwcLQvLZ6kEdgF0cicX) | [يوسف سوسته](https://open.spotify.com/artist/5jpOJNLKX0WO5HD5Ku8FiD) | [شيماء](https://open.spotify.com/album/1iyn88en2SMsBTW6JEUMmf) | 2:04 | 2021-12-16 |  |
@@ -60,6 +60,7 @@
 | [متغاظ عارفك يلا مننا متغاظ](https://open.spotify.com/track/0sRMA5RMTncLpfZ6Uk9Wi1) | [Mostafa el Degwy](https://open.spotify.com/artist/58Aady92Ax4EADOATwDJWC), [Mohamed Zizo](https://open.spotify.com/artist/3h9YTec0GeWBcIFCFJRDgG) | [متغاظ عارفك يلا مننا متغاظ](https://open.spotify.com/album/5SQGV3iWGYOKzxLNay9jad) | 2:48 | 2021-12-16 | 2022-02-02 |
 | [محدش يقولي يا خويا](https://open.spotify.com/track/5WMk2uxBimKwASfmSLW4v6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [محدش يقولي يا خويا](https://open.spotify.com/album/4mE3FVSR0PDqA7rodta9Sk) | 3:20 | 2022-02-16 |  |
 | [مسجون حزين](https://open.spotify.com/track/0TxEBrs9Py9uOxwOSYBROV) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مسجون حزين](https://open.spotify.com/album/5bCHHycTY8di9iZoGO6hYI) | 4:24 | 2021-12-16 |  |
+| [مظبوط](https://open.spotify.com/track/7o0hlHMqHRDytYnYF7wYIa) | [3ab3az](https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [مظبوط](https://open.spotify.com/album/0DXCelQ2rGcnuZjWPAOil6) | 3:45 | 2022-06-02 |  |
 | [ملقتش حد قالي مالك](https://open.spotify.com/track/2rJ6FZ0LQjHCxg0Pi8B4Vl) | [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [ملقتش حد قالي مالك](https://open.spotify.com/album/6DTMAHdk6AOs4sdKLLOyNi) | 3:41 | 2022-01-10 |  |
 | [ممنوع حد يقرب منك](https://open.spotify.com/track/746Q5YMgrPz2tLACl93ZPl) | [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG), [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [ممنوع حد يقرب منك](https://open.spotify.com/album/2gNEIBS4gLkGKlZuzDDwZx) | 4:15 | 2021-12-16 |  |
 | [مهرجان اخواتى](https://open.spotify.com/track/44p2pP4M0J6ZlEEyIpQu6R) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Zoka](https://open.spotify.com/artist/18foZksTwFHJIDFX9mBO2H), [Shehta Karika](https://open.spotify.com/artist/5D9oikZ4ncJETBXgLhXSdv) | [مهرجان اخواتى](https://open.spotify.com/album/2kUP4HUqHWNslusZ6Ly5w4) | 2:39 | 2021-12-16 | 2022-01-11 |

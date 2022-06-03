@@ -2444,6 +2444,24 @@
     },
     {
       "album": {
+        "name": "GASOLINA",
+        "url": "https://open.spotify.com/album/3ZBJbeVGumukG3EFsUN8ch"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "GASOLINA",
+      "url": "https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn"
+    },
+    {
+      "album": {
         "name": "GEN",
         "url": "https://open.spotify.com/album/0vqpmFUe2js5qYQIXtcYIa"
       },
@@ -6187,6 +6205,24 @@
       "duration_ms": 233641,
       "name": "Saamna",
       "url": "https://open.spotify.com/track/0lhk4r9QgUs4prcgnKdatB"
+    },
+    {
+      "album": {
+        "name": "Sabroso",
+        "url": "https://open.spotify.com/album/0LC35PYZfBapRkOQWLEiXp"
+      },
+      "artists": [
+        {
+          "name": "Ana del Castillo",
+          "url": "https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193280,
+      "name": "Sabroso",
+      "url": "https://open.spotify.com/track/4NwiP2dtcaPNrKoLXgsKEg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best new alternative rock tracks.
 
-135 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
+138 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,15 +60,16 @@
 | [Eleven the Fair](https://open.spotify.com/track/1LffL6iYYSPCwKzbX9tRId) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [HLA\-11TF](https://open.spotify.com/album/5dX2zMk3Uxw7HNnqFTaVEj) | 4:16 | 2022-04-14 |  |
 | [Fall From Grace](https://open.spotify.com/track/5MIHYD2WUOjCNkqOzB7Vi0) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Fall From Grace](https://open.spotify.com/album/5hdLUzCRY0TJ9tEzVWtjuG) | 3:48 | 2021-12-16 | 2022-04-29 |
 | [Feeling Real](https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Thank You For Being Here](https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C) | 5:13 | 2021-12-16 | 2022-03-04 |
-| [Fuct](https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Money](https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy) | 3:27 | 2022-01-20 |  |
+| [Front Line](https://open.spotify.com/track/5Vj0T5H3DgBYeFZtfMfJTH) | [Broken Hands](https://open.spotify.com/artist/3YOhTvIIQgGkcSEXUfu7HE) | [Front Line](https://open.spotify.com/album/7sKhbFYxVkFPTjFduWSbhk) | 3:38 | 2022-06-02 |  |
+| [Fuct](https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Money](https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy) | 3:27 | 2022-01-20 | 2022-06-03 |
 | [Full Heart](https://open.spotify.com/track/1grGsuX1el4X4f0R0M20AF) | [Columbus](https://open.spotify.com/artist/3hyTRrdgrNuAExA3tNS8CA) | [Full Heart](https://open.spotify.com/album/38R1HaSF9323iJt6h1lb7b) | 3:29 | 2022-03-03 |  |
 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 | 2022-05-26 |  |
-| [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 | 2022-01-13 |  |
+| [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 | 2022-01-13 | 2022-06-03 |
 | [Get in the Car](https://open.spotify.com/track/2CWJDVIBBIFQlJvesGdxvP) | [Semantics](https://open.spotify.com/artist/3ulcHuTU6eBcORZBJDhG6m) | [Get in the Car](https://open.spotify.com/album/0wuVKMqNcc5Dzsvs8oNtqM) | 3:28 | 2022-03-24 |  |
 | [Ghost of Me](https://open.spotify.com/track/13h4nnoCFSoViZg6qkbB06) | [Whatever, Forever](https://open.spotify.com/artist/7cSHROK79syPPup9vExJrJ) | [Ghost of Me](https://open.spotify.com/album/6t57vk4AnlqKEKVReNSund) | 3:47 | 2021-12-16 | 2022-03-22 |
 | [Girl Named Place](https://open.spotify.com/track/7fg9CRzSF4oaLrYe6Oqe1c) | [Bad Honey](https://open.spotify.com/artist/5F8BrlUsXFFAAFU2dFkmXQ) | [Help Yourself](https://open.spotify.com/album/2DvRU5pgxrcixphF4MKEXy) | 5:17 | 2021-12-16 | 2022-03-25 |
 | [Glisten](https://open.spotify.com/track/6Ua1Ox0jb0O15ZIqPQinDG) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Glisten](https://open.spotify.com/album/5Ho2TJzVuNogqaUOpWhKH3) | 3:54 | 2021-12-16 | 2022-02-18 |
-| [God Mode](https://open.spotify.com/track/3fKImW78YPG0o8lHYYo21l) | [Y!KES](https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm) | [God Mode](https://open.spotify.com/album/1GvslqXT34VyeA5kyHN9yK) | 4:22 | 2022-01-27 |  |
+| [God Mode](https://open.spotify.com/track/3fKImW78YPG0o8lHYYo21l) | [Y!KES](https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm) | [God Mode](https://open.spotify.com/album/1GvslqXT34VyeA5kyHN9yK) | 4:22 | 2022-01-27 | 2022-06-03 |
 | [Gotta Let It Go](https://open.spotify.com/track/4UOXsWNP7J2xFT9HvhgwVP) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Gotta Let It Go](https://open.spotify.com/album/1DbUmnPCXKJSimJw4FoFgb) | 1:56 | 2022-04-05 |  |
 | [Great Mass of Color](https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Great Mass of Color](https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp) | 6:00 | 2021-12-16 | 2022-02-11 |
 | [Growing Up](https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa) | 3:06 | 2022-02-03 | 2022-05-20 |
@@ -109,6 +110,7 @@
 | [Pull a Little Closer](https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR) | [Bleach](https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW) | [Pull a Little Closer](https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw) | 4:02 | 2021-12-16 |  |
 | [Pushin' Thru It](https://open.spotify.com/track/2zdl37IauOeAFxgJsEFVMo) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Pushin' Thru It](https://open.spotify.com/album/3ND0sWPefAXkbLUa80Ntdg) | 4:18 | 2021-12-16 | 2022-04-06 |
 | [Queen](https://open.spotify.com/track/6FoB7cNbQ28gsKhh24YI4I) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Queen](https://open.spotify.com/album/3ZTodB8gVsIWAzYb6znSl7) | 3:13 | 2022-03-10 |  |
+| [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 | 2022-06-02 |  |
 | [Reckoning](https://open.spotify.com/track/3qAqVQU4bf1ycHQvgqTzYm) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Reckoning](https://open.spotify.com/album/6qaCXwtvRmnz3xuU0dLzzt) | 4:33 | 2022-05-12 |  |
 | [Rinse and Repeat](https://open.spotify.com/track/5TFCatIcfeNVhoUpqHIlHg) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [Rinse and Repeat](https://open.spotify.com/album/59LnOVTUi3AkP948nZ54BS) | 4:31 | 2022-03-24 | 2022-04-22 |
 | [Roses](https://open.spotify.com/track/3lG1KQ70mUNVbYoOF21oUl) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [Roses](https://open.spotify.com/album/0GBaXfDNx3iAuOLsw9szJ6) | 3:15 | 2022-02-03 | 2022-03-11 |
@@ -124,6 +126,7 @@
 | [Swan Song](https://open.spotify.com/track/4j8K6zdYmmWGOojP3QEoHO) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [With a Rotting Heart](https://open.spotify.com/album/1TENIZOVFTerspCdF6WSrB) | 4:14 | 2021-12-16 | 2022-02-11 |
 | [Sway](https://open.spotify.com/track/4pW0Z7cIfzKglcD5aBJMbC) | [SHEER](https://open.spotify.com/artist/1t1MZaxu6GhHdWTkZwx8W4) | [Sway](https://open.spotify.com/album/2qgWb4WmKxAe9xZp6l5DzV) | 3:58 | 2022-05-19 |  |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-10 | 2022-05-20 |
+| [Take the Wheel](https://open.spotify.com/track/3skgT62fQ0MZ2LL3pb59nu) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Take the Wheel](https://open.spotify.com/album/5UnohJ1su4dg8awfeHuKHy) | 3:15 | 2022-06-02 |  |
 | [talking to the drugs](https://open.spotify.com/track/3Lz6teL5yOL4pp30hKj9LT) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [talking to the drugs](https://open.spotify.com/album/2XwXXhDUuX7SDqsQpgEwHU) | 2:56 | 2022-04-21 |  |
 | [That Dress](https://open.spotify.com/track/2Ymkbl3dvodVlGeGOnCSYU) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress](https://open.spotify.com/album/5Fbw95kqHBu32sv9Y8ghWi) | 3:20 | 2021-12-16 | 2022-02-04 |
 | [The Dreamer](https://open.spotify.com/track/0llc2RbbO9ncQfhcQX5ydh) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Horizons / East](https://open.spotify.com/album/6JLTZPPzQDKjv6zkenbZnc) | 3:56 | 2021-12-16 | 2022-02-25 |

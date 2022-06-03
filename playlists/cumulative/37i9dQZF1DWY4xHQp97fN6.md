@@ -4,7 +4,7 @@
 
 > Mode: Turnt
 
-248 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/4kpao04ICD5V1vC3V1tB9I)
+249 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/4kpao04ICD5V1vC3V1tB9I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Dancing Queen](https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Dancing Queen / Yasss Queen](https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff) | 3:13 | 2022-04-29 |  |
 | [Day Day N Craig \(with Tay Keith\)](https://open.spotify.com/track/5hgDSQNG4R8NsC4KqsAVxq) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Day Day N Craig \(with Tay Keith\)](https://open.spotify.com/album/4q2CfQMtCCeTZFSmYW5rLO) | 2:17 | 2021-10-29 | 2022-03-26 |
 | [Dear God \(feat\. Kevin Gates\)](https://open.spotify.com/track/1oPdIqXhjswpTnA5PPQs0K) | [FL Dusa](https://open.spotify.com/artist/1l39BupEDqsioWGVDXluVG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Dear God \(feat\. Kevin Gates\)](https://open.spotify.com/album/3AocIGXpIRlNgd2BSoETUH) | 3:01 | 2021-12-10 | 2022-05-14 |
+| [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 | 2022-05-27 |  |
 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 | 2022-02-04 |  |
 | [Dolla Fo' Dolla](https://open.spotify.com/track/3jygqNqsSwvuICQMU65bEW) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [10Percent](https://open.spotify.com/artist/3taVPHqiHmPFwAK7hlfGpj) | [CM10: Free Game](https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT) | 3:05 | 2022-02-07 |  |
 | [DOLLA SIGN SLIME \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:25 | 2021-11-03\* | 2021-12-11 |

@@ -778,6 +778,28 @@
     },
     {
       "album": {
+        "name": "evergreen",
+        "url": "https://open.spotify.com/album/35YDouLHRLwcSu89MBAotr"
+      },
+      "artists": [
+        {
+          "name": "prospr.",
+          "url": "https://open.spotify.com/artist/5BAnm1BkaWpBtvfABJvSzf"
+        },
+        {
+          "name": "Lifted LoFi",
+          "url": "https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142121,
+      "name": "evergreen",
+      "url": "https://open.spotify.com/track/2SCLWAhvc18f3NPNdfeoTi"
+    },
+    {
+      "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/3K5P8toBo5aA71JfIDcIKe"
       },

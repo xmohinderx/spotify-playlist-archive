@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 248506,
       "name": "Fuego Bendito",
       "url": "https://open.spotify.com/track/1K93QCRJlYigCeTG5SsfvY"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 238546,
       "name": "Hasta Que Salga el Sol",
       "url": "https://open.spotify.com/track/6sBTM191Y2Y9EIQnOGv7bf"
@@ -419,6 +419,24 @@
       "duration_ms": 270560,
       "name": "La Barca",
       "url": "https://open.spotify.com/track/7LTXQnitAcwSdZdl2t7E13"
+    },
+    {
+      "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223173,
+      "name": "La Puerta Sigue Abierta",
+      "url": "https://open.spotify.com/track/59dzgc60efoAOFx0bywbi2"
     },
     {
       "album": {
@@ -913,7 +931,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 230773,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/7bWoTRcz0lZoXbI5dtJ5dM"

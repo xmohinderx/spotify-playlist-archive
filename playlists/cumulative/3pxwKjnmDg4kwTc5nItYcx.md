@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Budjerah
 
-574 songs - 1 day 6 hr 58 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+575 songs - 1 day 7 hr 1 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Have You Had Enough Wine?](https://open.spotify.com/track/0HYbvIaLKFmIcyYYhtnWZE) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Have You Had Enough Wine?](https://open.spotify.com/album/1rkoHNhJ9n0ZCRa3cspddw) | 2:36 | 2019-08-27\* | 2019-11-11 |
 | [Hazel](https://open.spotify.com/track/5HG8in1JeRSmGCJPz0Sa7E) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Junk](https://open.spotify.com/album/6sid9RN71tWaLOSkmQ2x3d) | 3:21 | 2019-08-27\* | 2020-02-12 |
 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 | 2022-01-21 |  |
+| [Head To Toe](https://open.spotify.com/track/22vVXX39APvqsmNlNPOXtt) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Head To Toe](https://open.spotify.com/album/7x74c14JgIh10ZUXyHNGJc) | 3:04 | 2022-06-02 |  |
 | [Hearts Too Big \- Acoustic](https://open.spotify.com/track/4DtIPkAIeyRM2flxx3fHdI) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [Bad At Love \(Acoustic EP\)](https://open.spotify.com/album/51jgDkeQPnZiZ8eayzwsUA) | 3:15 | 2020-09-11 | 2021-01-29 |
 | [Heaven](https://open.spotify.com/track/4ejQlM2w2X2AJqWYcMyNVm) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:49 | 2021-02-12 |  |
 | [Helicopter](https://open.spotify.com/track/5TdTYpjLQv25ImZAX6s4Db) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Trying: Season 2 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/7cN9u8Azjoy5ifAXmW0KCw) | 3:04 | 2021-05-22 |  |

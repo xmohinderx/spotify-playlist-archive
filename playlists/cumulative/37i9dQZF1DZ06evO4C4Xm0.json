@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 189466,
       "name": "Drift - Remastered 2005",
       "url": "https://open.spotify.com/track/4WLDFjesbUHfZpf2xvnQyK"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 254000,
       "name": "Failing Light - Remastered 2004",
       "url": "https://open.spotify.com/track/6AlMwXm6QSGErCZU2rhtoi"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 232440,
       "name": "Foreshadowed - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/6vo5a9n1HWYroioj7k6gZS"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 261560,
       "name": "Lost In The Humming Air - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 230853,
       "name": "Not Yet Remembered - Remastered 2004",
       "url": "https://open.spotify.com/track/1kxf6rOZTJh2rVMIqkMpFm"
@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 133706,
       "name": "The Chill Air - Remastered 2004",
       "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 194453,
       "name": "The Pearl - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm"
@@ -1151,10 +1151,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 263373,
       "name": "The River",
       "url": "https://open.spotify.com/track/13dUXhm17eA1KWTpLp61pJ"
+    },
+    {
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211253,
+      "name": "The Silver Ball - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/2FA6ZLzJ2f5ZhX1qzoGfWA"
     },
     {
       "album": {
@@ -1187,7 +1209,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 270280,
       "name": "Under Stars - 2005 Mix",
       "url": "https://open.spotify.com/track/4bBs07tSkVLzETwbgPlxdl"

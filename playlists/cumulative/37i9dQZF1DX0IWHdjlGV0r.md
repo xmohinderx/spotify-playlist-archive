@@ -2,9 +2,9 @@
 
 ### [Arsenico](https://open.spotify.com/playlist/37i9dQZF1DX0IWHdjlGV0r)
 
-> Certi amori bruciano più di altri\. Cover: Marracash
+> Certi amori bruciano più di altri\. Cover: Gemitaiz
 
-63 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/0ub8fLPq50x7iJHKg2Rrfv)
+64 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/0ub8fLPq50x7iJHKg2Rrfv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Male](https://open.spotify.com/track/3PBBak16foXdHh0trdc8Hd) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/27EhxNeyTwvnuo0TcWMDZf) | 2:41 | 2022-05-03 |  |
 | [Mamacita \(feat\. Vins\)](https://open.spotify.com/track/6avNpKZk1xxyRD0Gv14RFS) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Boss Doms](https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j), [Vins](https://open.spotify.com/artist/0gU09DXqjhggdfhLZVvhRc) | [Pour l'amour](https://open.spotify.com/album/7248m1lfoXH1fmy61NujXg) | 3:25 | 2022-05-03 |  |
 | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H) | 2:25 | 2022-05-03 |  |
+| [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 | 2022-06-02 |  |
 | [Non Abbiamo Età](https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Potere](https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM) | 3:01 | 2022-05-03 |  |
 | [Non Fare Così](https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 3:12 | 2022-05-03 |  |
 | [Non mi chiami mai](https://open.spotify.com/track/5EpObrDHnggPuYUVl7IiJ0) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH) | [Lacrime](https://open.spotify.com/album/15c6QehX6DCG353ITVkqTn) | 4:07 | 2022-05-03 |  |
@@ -53,7 +54,7 @@
 | [Pensando a lei](https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Pensando a lei](https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn) | 2:56 | 2022-05-03 |  |
 | [Prometto \(feat\. Rkomi & Luchè\)](https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mattoni](https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf) | 3:14 | 2022-05-03 |  |
 | [Purple](https://open.spotify.com/track/6L2omWeSyC8TLGzSRdwCvn) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [Vita Vera \- Mixtape, aspettando la Divina Commedia](https://open.spotify.com/album/3VcvEJUFZn6md3wW8kVaJS) | 3:10 | 2022-05-03 |  |
-| [Quando Sto Con Te](https://open.spotify.com/track/2FLuWGIR4WwxWbdwZ0GHwd) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:01 | 2022-05-12 |  |
+| [Quando Sto Con Te](https://open.spotify.com/track/2FLuWGIR4WwxWbdwZ0GHwd) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:01 | 2022-05-12 | 2022-06-03 |
 | [Quando tu mi baci](https://open.spotify.com/track/1SPbN6ppUSIcOTZAO2HoCf) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Powv\_fsk](https://open.spotify.com/artist/0IPhGUowAYS8nr7nT9synf) | [Quando tu mi baci](https://open.spotify.com/album/3i8BJ5YnNat8a8zzUiM8gd) | 3:18 | 2022-05-03 |  |
 | [Rose Nere](https://open.spotify.com/track/1PhB6n0TlYLSHn29v2vDXC) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Bravo Ragazzo \(Royal Edition\)](https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW) | 4:32 | 2022-05-03 |  |
 | [Si Baciano Tutti \(feat\. CoCo\)](https://open.spotify.com/track/7g0dmj4mrpVxa6rkm8gqYl) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Neverland](https://open.spotify.com/album/6dgoz9DGFVg97vGr0260sP) | 2:50 | 2022-05-03 |  |

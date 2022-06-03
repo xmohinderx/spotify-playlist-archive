@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 204408,
       "name": "Adi\u00f3s amor",
       "url": "https://open.spotify.com/track/0SmuhjrqMSEOXc6NGjAeh3"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Aguanta Coraz\u00f3n",
       "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 243500,
       "name": "Alma Enamorada",
       "url": "https://open.spotify.com/track/475CRI2f2N51OgUuwO4svT"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 265913,
       "name": "Ayer Ped\u00ed",
       "url": "https://open.spotify.com/track/3E665uWyS30wGSFfqNxNFH"
@@ -1151,7 +1151,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 175360,
       "name": "Ni lo intentes",
       "url": "https://open.spotify.com/track/2FLYSIAcrXjwsGuE9W3sm9"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Ni\u00f1a De Mi Coraz\u00f3n - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/49y91R9Macp3pdS04Dsu1k"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 180504,
       "name": "No Llega El Olvido",
       "url": "https://open.spotify.com/track/10bmWgJ6muXStXBclouwPV"
@@ -1397,7 +1397,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 236000,
       "name": "Prometiste",
       "url": "https://open.spotify.com/track/2oKl1hb8wbIqs2a38mWy7g"
@@ -1669,7 +1669,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 171454,
       "name": "Simplemente Gracias",
       "url": "https://open.spotify.com/track/7ebRw8NKRtmfmeOMpLeOYn"
@@ -1900,6 +1900,24 @@
     },
     {
       "album": {
+        "name": "Te Metiste",
+        "url": "https://open.spotify.com/album/3Fz8XZqbet1yo8oywUZJY4"
+      },
+      "artists": [
+        {
+          "name": "Emperatr\u00edz Solar",
+          "url": "https://open.spotify.com/artist/5IIMx7uVAVO9peaDJF4wh2"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251239,
+      "name": "Te Metiste",
+      "url": "https://open.spotify.com/track/7APAifNtYhdDDRalqc6Qvo"
+    },
+    {
+      "album": {
         "name": "Somos Octubre Doce",
         "url": "https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk"
       },
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 230250,
       "name": "Una Vez Mas",
       "url": "https://open.spotify.com/track/7vXR4H9LE6bXMtwpb4iz46"
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 231176,
       "name": "V\u00edveme",
       "url": "https://open.spotify.com/track/7BrYlhhQZl0vKt2EezbU5b"

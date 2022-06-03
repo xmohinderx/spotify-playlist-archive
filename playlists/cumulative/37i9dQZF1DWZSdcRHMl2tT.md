@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-218 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
+222 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,11 +32,14 @@
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2022-04-05 |  |
 | [Campion](https://open.spotify.com/track/5gIlVzuuMjv95PSZ9lnXTi) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Campion / Geimfar](https://open.spotify.com/album/552e1oUOvaktE907WmfQPR) | 3:29 | 2022-04-05 |  |
 | [Captive](https://open.spotify.com/track/4XvGvqSRNM6eemk17RdHuL) | [Tracy Kelli](https://open.spotify.com/artist/2IfgKThwT8TgHMatgOze2v) | [Captive](https://open.spotify.com/album/581ZGUHLRkzzGH03MOnxVs) | 2:40 | 2022-04-05 |  |
+| [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2022-06-03 |  |
 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2022-04-05 |  |
 | [Castles in The Air](https://open.spotify.com/track/3XSr3AQ6smXdcDGlkslcER) | [Luke Lavelle](https://open.spotify.com/artist/4MbsAtsT8KlRa27ATT0YQ3) | [Castles in the Air](https://open.spotify.com/album/443uJl497U7M7fYWhw1Lpg) | 3:49 | 2022-04-05 |  |
+| [Catch You](https://open.spotify.com/track/2Pv7YbMUjKW0lIgmh23gPe) | [Moonlight Giorgio](https://open.spotify.com/artist/2Vy6FkZX3t0J94BAojjUmB) | [Catch You](https://open.spotify.com/album/0F4SOdr9OcdJPOUJxy3IiO) | 2:14 | 2022-06-03 |  |
 | [Ceylon Drift](https://open.spotify.com/track/2McO8RedAPw2H7BnlfdIHk) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Ceylon Drift / Vindby](https://open.spotify.com/album/7vF85ASpc9O6Wq2h7vDadA) | 2:51 | 2022-04-15 |  |
 | [Clarity](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clarity](https://open.spotify.com/album/1H4cEBIvngQaCi2ZNJoYd6) | 2:59 | 2022-05-27 |  |
 | [Clockwork](https://open.spotify.com/track/2XaoehLFfuswYzdjfANE9J) | [Lazlo Riley](https://open.spotify.com/artist/0SKJJiRiC2fxhAynpKlb1p) | [Clockwork](https://open.spotify.com/album/3kfYpsAS78knrzUheZ0IIS) | 3:45 | 2022-04-05 |  |
+| [Clu \- Colorjaxx Remix](https://open.spotify.com/track/2UkJDXn3pnoeilLBdBqczV) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [ColorJaxx](https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm) | [Clu \(Colorjaxx Remix\)](https://open.spotify.com/album/1QH51wnvdSIgUTgLpE18mH) | 5:22 | 2022-06-03 |  |
 | [Coastline](https://open.spotify.com/track/1uaM53HQVyWcim7agCjB15) | [Urban Curls](https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI) | [Coastline](https://open.spotify.com/album/34E1TXm0e68uT476tkZxsk) | 3:20 | 2022-04-05 | 2022-05-20 |
 | [Come With Me](https://open.spotify.com/track/2778ucz8lkSP0Efmol7VO0) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Come With Me](https://open.spotify.com/album/5DqD3yuOiuaWyArTzCErwl) | 3:02 | 2022-05-27 |  |
 | [Cosmopolitan](https://open.spotify.com/track/5tIBc0L66MVZ1tNUApYV8f) | [Beach Villa](https://open.spotify.com/artist/6419utRWf7KXDJun7kpFmo) | [Cosmopolitan](https://open.spotify.com/album/0tim8AlkIqLinWNnGqv2yf) | 2:23 | 2022-04-05 |  |
@@ -97,6 +100,7 @@
 | [In This Together](https://open.spotify.com/track/6I7lRMp9DcBxWQkUVY7kRW) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [In This Together](https://open.spotify.com/album/3HZMaVLmEIXqSNjhsTjrmD) | 2:49 | 2022-04-05 | 2022-05-11 |
 | [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 | 2022-04-05 |  |
 | [Intimo](https://open.spotify.com/track/3b28aZzvppPBqaa9JNPpZC) | [Sardelli](https://open.spotify.com/artist/5g1CI7OVvOrk6UfKcx0AYD) | [Intimo](https://open.spotify.com/album/4w4fHtSBXtGNGWrqxYp3j9) | 2:34 | 2022-04-05 |  |
+| [It's Sun Time](https://open.spotify.com/track/1iRAoE5MQWa2pnWgWTqgH3) | [Zoo Pool](https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I) | [It's Sun Time](https://open.spotify.com/album/5ARc55vlt112JrwGiAC57s) | 2:28 | 2022-06-03 |  |
 | [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 | 2022-05-20 |  |
 | [Keep On](https://open.spotify.com/track/3Y0JuvIIA3mzhmM2G00kE9) | [Amaraldo](https://open.spotify.com/artist/6Q3A8LnHLfN97wg2VXC5bf) | [Keep On](https://open.spotify.com/album/1n5BqxHBlAkN7HhyHWi6oc) | 3:47 | 2022-04-05 | 2022-05-11 |
 | [KIKAROO](https://open.spotify.com/track/375YSQ8nHPLupqnb7EdTK3) | [2GO](https://open.spotify.com/artist/3H2aSFzZR5u415cYbqijBJ) | [KIKAROO](https://open.spotify.com/album/4TS4nD7m4S25mZhDDFJNXv) | 2:33 | 2022-04-05 |  |
@@ -134,7 +138,7 @@
 | [NiteGlow](https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ) | [Zev Lyso](https://open.spotify.com/artist/3GzxMwoPimZI714GHHrCsy) | [NiteGlow](https://open.spotify.com/album/4F4aUag4mbxyT1TSAT5hj8) | 2:12 | 2022-04-05 |  |
 | [No Stampede](https://open.spotify.com/track/45Hz6R4BU9C0gc4Dee48Eg) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Bitter Move](https://open.spotify.com/album/0g3AJoh2B1iUhmO30POzLz) | 4:02 | 2022-04-05 |  |
 | [Oh Baby...](https://open.spotify.com/track/6vB1aSBFevopVN93x8AKsX) | [DJ Madrigal](https://open.spotify.com/artist/5pVBan726Z1RmlJjXSySk8) | [Oh Baby...](https://open.spotify.com/album/3Hqr0o6QjM6dOUYM40k9Zp) | 3:37 | 2022-04-05 |  |
-| [On The Rhode](https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn) | [Milton Keys](https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h) | [On The Rhode](https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6) | 3:47 | 2022-04-05 |  |
+| [On The Rhode](https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn) | [Milton Keys](https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h) | [On The Rhode](https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6) | 3:47 | 2022-04-05 | 2022-06-03 |
 | [One for Babushka](https://open.spotify.com/track/6YfQRaPuHSNcNSyMQ3DXno) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Claptrap](https://open.spotify.com/album/7j1jLxax94o0cRXF7bf81A) | 3:17 | 2022-04-05 | 2022-05-11 |
 | [outbreak](https://open.spotify.com/track/6FHLM8mwBRGFzQluP0bWHq) | [Amaraldo](https://open.spotify.com/artist/6Q3A8LnHLfN97wg2VXC5bf) | [outbreak](https://open.spotify.com/album/3YMnlqCbuVVeEVUmRlylUI) | 2:43 | 2022-04-05 |  |
 | [Overtime](https://open.spotify.com/track/20po3c7qSftUPQpBrmDpX1) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Overtime](https://open.spotify.com/album/4XQpK5sCgogkGf6fCiK3QN) | 2:55 | 2022-04-05 |  |

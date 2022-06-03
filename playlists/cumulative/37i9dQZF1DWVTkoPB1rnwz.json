@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 105500,
       "name": "2013",
       "url": "https://open.spotify.com/track/3PJIKoSgXBohYJ4qTwRzyd"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 236800,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/0sjRtGeytCniumI769pDM2"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 193734,
       "name": "An Observation of Antimatter at Hotel Kabiki",
       "url": "https://open.spotify.com/track/4KgSkI0Xh9WBGJDD7NjabS"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 135971,
       "name": "blinding tunnel",
       "url": "https://open.spotify.com/track/14AP7MGqCLnJfLGsrwzrKR"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 205458,
       "name": "Burnet Moth",
       "url": "https://open.spotify.com/track/6kSYWuonprvsCJjg5VjTBz"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 88000,
       "name": "Candy's Crush",
       "url": "https://open.spotify.com/track/55WE5pNVNYwZ7k2eaJW43C"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 156923,
       "name": "Carvings",
       "url": "https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 152290,
       "name": "Columbus Park",
       "url": "https://open.spotify.com/track/18nfdd8jk4iiCUf5tLBLWZ"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 378857,
       "name": "Constant\u0326a Beach",
       "url": "https://open.spotify.com/track/6XYYjo5M4r7YWkX4DR8llF"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 86292,
       "name": "conversations with grandma",
       "url": "https://open.spotify.com/track/5GgoR6lurqxLpfMjNOMUmG"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 143132,
       "name": "Crescent",
       "url": "https://open.spotify.com/track/78pD8Ejib9BtCKWeXqDr3t"
@@ -713,10 +713,32 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 258461,
       "name": "Dream #1 [Arrival]",
       "url": "https://open.spotify.com/track/5p43429jmHAHtrImgqlNpE"
+    },
+    {
+      "album": {
+        "name": "Field Works: Ultrasonic",
+        "url": "https://open.spotify.com/album/5pJLTSGYfTkCnXdcz9Dfyt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Deupree",
+          "url": "https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T"
+        },
+        {
+          "name": "Field Works",
+          "url": "https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337265,
+      "name": "Echo Affinity",
+      "url": "https://open.spotify.com/track/42cbG4Op4sjhFEHagNsWqT"
     },
     {
       "album": {
@@ -963,7 +985,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 346364,
       "name": "Forest Trails",
       "url": "https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4"
@@ -999,10 +1021,32 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "forged by the water",
       "url": "https://open.spotify.com/track/3PaPtDDaqFKphKZNupca3K"
+    },
+    {
+      "album": {
+        "name": "Four Glass Steps",
+        "url": "https://open.spotify.com/album/3mfGzMbRtYHYt2eU9BblDX"
+      },
+      "artists": [
+        {
+          "name": "J Foerster",
+          "url": "https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i"
+        },
+        {
+          "name": "N KRAMER",
+          "url": "https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254324,
+      "name": "Four Glass Steps",
+      "url": "https://open.spotify.com/track/34Jlc2jWDf7CogIa8driCU"
     },
     {
       "album": {
@@ -1057,7 +1101,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 122500,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/4UOwkSAq6Ox2Wl3kUecHcH"
@@ -1369,7 +1413,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 104470,
       "name": "Life Tools",
       "url": "https://open.spotify.com/track/1UnID8JHQyfGHZhX8mTkOz"
@@ -1477,7 +1521,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 151302,
       "name": "memorial park",
       "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
@@ -1549,7 +1593,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 343586,
       "name": "Murmer Double",
       "url": "https://open.spotify.com/track/7kj7ZqCPVeAl103iUrOi11"
@@ -1585,7 +1629,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 228001,
       "name": "Nacreous (Spa)",
       "url": "https://open.spotify.com/track/5yCbSmcG2awddmzYgHZUAs"
@@ -1669,7 +1713,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 135250,
       "name": "Orbital",
       "url": "https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK"
@@ -1687,7 +1731,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "P a r a l l a x",
       "url": "https://open.spotify.com/track/5cWpQKs9O72HG4cYYZyiv9"
@@ -1705,7 +1749,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 435070,
       "name": "Parallel 9",
       "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
@@ -1777,7 +1821,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 117317,
       "name": "Powers Out",
       "url": "https://open.spotify.com/track/3Ln2gSxZ0WUDUEUprF5RJa"
@@ -1975,7 +2019,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 138773,
       "name": "Seals",
       "url": "https://open.spotify.com/track/5yBwN4BHv5WUvch6MR5L68"
@@ -2163,7 +2207,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 328000,
       "name": "Soft Meadow",
       "url": "https://open.spotify.com/track/3cW5fe127MVGuCxuN7skCy"
@@ -2217,7 +2261,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
@@ -2369,7 +2413,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 244773,
       "name": "The Last Retention",
       "url": "https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l"
@@ -2427,7 +2471,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 259075,
       "name": "Tomato Day",
       "url": "https://open.spotify.com/track/7zXTb9cnYZruPZzLM7MrA8"
@@ -2521,7 +2565,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 240000,
       "name": "Under the Loquat Tree (feat. Goldmund)",
       "url": "https://open.spotify.com/track/5IhVMVpcjSwHLPxA2MnRY6"
@@ -2583,7 +2627,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 133120,
       "name": "Unmo",
       "url": "https://open.spotify.com/track/2wQpl8D5EExuyARWBaoH1M"
@@ -2637,7 +2681,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 155200,
       "name": "We",
       "url": "https://open.spotify.com/track/22SzEhlJaen0MCdlOJ2aLe"
@@ -2662,6 +2706,24 @@
     },
     {
       "album": {
+        "name": "Nurture",
+        "url": "https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364114,
+      "name": "Wind Tempos",
+      "url": "https://open.spotify.com/track/4GKSQD4lm08ORPorzi2wOb"
+    },
+    {
+      "album": {
         "name": "ROOM7",
         "url": "https://open.spotify.com/album/4v6m1ay44BiT0DBFBGljgu"
       },
@@ -2673,7 +2735,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 123000,
       "name": "Window Camping",
       "url": "https://open.spotify.com/track/5WexdSeiaYKjHkPy1lcos9"
@@ -2709,7 +2771,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 336000,
       "name": "Zorza",
       "url": "https://open.spotify.com/track/1KRAvMxcvm62rAHUzs9n00"

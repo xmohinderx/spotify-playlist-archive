@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-189 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
+191 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,9 @@
 | [My Guitar Gently Beeps](https://open.spotify.com/track/5cCU1vF7kwZDveCsSeEFSO) | [Leandi](https://open.spotify.com/artist/6s4kY85iUHP3nFjmuMbxUH) | [Paradise Sub](https://open.spotify.com/album/2KdzvnbDgx3hAfHpk2UJAn) | 1:36 | 2021-11-11 | 2022-04-15 |
 | [Nanimoshinai](https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Yukkuri](https://open.spotify.com/album/3UsJZDdh685GcDK7a0bdTp) | 3:13 | 2021-11-11 |  |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2021-11-11 |  |
+| [no huzzle](https://open.spotify.com/track/4c43CIhFGCCTf65VTafmYo) | [lucy m](https://open.spotify.com/artist/2gUhsjLB0SjWry8Kh4CMsA) | [no huzzle](https://open.spotify.com/album/4NmEIXPqrMQpSLzUmczLAR) | 2:32 | 2022-06-03 |  |
 | [noice](https://open.spotify.com/track/5ZUbGn8uO1vLCQv8ijvbl6) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [noice](https://open.spotify.com/album/4HSeaIj5gON2LOdILxHzIT) | 1:48 | 2021-11-11 |  |
+| [Numberless](https://open.spotify.com/track/5ZDSl9sx8sDxzrrcAddsJm) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Numberless](https://open.spotify.com/album/4u2RN3NRm5qXEkI7eE0E24) | 2:46 | 2022-06-03 |  |
 | [Once More](https://open.spotify.com/track/1IV1l4rbdAFBOHBJTr1icq) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Once More](https://open.spotify.com/album/5S6sjt5S3sVJyUD9JR35Z9) | 2:22 | 2021-11-11 | 2022-04-15 |
 | [One for Babushka](https://open.spotify.com/track/6YfQRaPuHSNcNSyMQ3DXno) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Claptrap](https://open.spotify.com/album/7j1jLxax94o0cRXF7bf81A) | 3:17 | 2021-11-11 |  |
 | [Otra Vez](https://open.spotify.com/track/2o14tGWwxb5aM4V9hFSx9f) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Olivo](https://open.spotify.com/album/4fcDiqGPdWJdZjyXJDmZu1) | 2:51 | 2022-04-15 |  |

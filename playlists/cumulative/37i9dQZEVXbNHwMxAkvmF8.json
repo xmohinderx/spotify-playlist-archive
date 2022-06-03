@@ -1724,6 +1724,24 @@
     },
     {
       "album": {
+        "name": "Don't Pain",
+        "url": "https://open.spotify.com/album/7F0aLncs2eeXuAR6SPauCS"
+      },
+      "artists": [
+        {
+          "name": "Novak808",
+          "url": "https://open.spotify.com/artist/3ompyAtAro1wOR6C3BNv3d"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246363,
+      "name": "Don't Pain",
+      "url": "https://open.spotify.com/track/0JoGSZqLC6kVYTtsdiPa9b"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 178714,
       "name": "El Barto",
       "url": "https://open.spotify.com/track/5HiMjc8jz0OeTnUQgp15FP"
@@ -5531,7 +5549,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 147164,
       "name": "N\u00e9ztek",
       "url": "https://open.spotify.com/track/2RvZC77XsiE9x434T6o1S2"
@@ -6073,7 +6091,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"

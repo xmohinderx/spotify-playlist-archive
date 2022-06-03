@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-267 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
+270 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Drive So Well](https://open.spotify.com/track/2vde9odrAwABY7w6IAzCFB) | [Kirsi Aimée](https://open.spotify.com/artist/74RWlGT8fQPqVvXSLuxL4j) | [Drive So Well](https://open.spotify.com/album/5Rfo2PeHtIHzVs8eP9v5RX) | 2:38 | 2022-05-10 |  |
 | [Eagle](https://open.spotify.com/track/2gHawVp05GgRFsghwuJasb) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Eagle](https://open.spotify.com/album/6sehfPAmRF7aCZfnX8nSNM) | 2:51 | 2021-11-10 |  |
 | [Earth Echos](https://open.spotify.com/track/5jymR5eXOTcIieZenxJwCX) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [The Afternoon Breeze](https://open.spotify.com/album/06FNY9stCHsUBU5ZGcN5YU) | 2:52 | 2021-11-10 | 2022-05-20 |
-| [Easter 21](https://open.spotify.com/track/7JXtkW4LnNqPkTCULCm1bk) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [Easter 21](https://open.spotify.com/album/3agydje4ZdZuBpYu8WBYQb) | 3:50 | 2021-11-10 |  |
+| [Easter 21](https://open.spotify.com/track/7JXtkW4LnNqPkTCULCm1bk) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [Easter 21](https://open.spotify.com/album/3agydje4ZdZuBpYu8WBYQb) | 3:50 | 2021-11-10 | 2022-06-03 |
 | [Ebullience](https://open.spotify.com/track/5F9JKU4bZwtsWRs3R3kk1A) | [Kalizé](https://open.spotify.com/artist/1RucQs51dYwiXQbDKIpaKS) | [Ebullience](https://open.spotify.com/album/7c0CC4Tx5h6fem5482f4tE) | 2:31 | 2021-11-10 |  |
 | [Elements](https://open.spotify.com/track/2QW3U3MpayM3QMk67Ut99J) | [Bat Bilger](https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon) | [Elements](https://open.spotify.com/album/5OXc7jNILuDvrrt5JrNgLH) | 3:12 | 2021-11-10 |  |
 | [Elysian Breeze](https://open.spotify.com/track/0XmKh6wAF5RGyBTB9R1lTM) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Elysian Breeze](https://open.spotify.com/album/1mxEZKsPn8dzvzIcK1wgO1) | 2:31 | 2021-11-10 |  |
@@ -83,6 +83,7 @@
 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 | 2021-11-10 |  |
 | [Falling Again](https://open.spotify.com/track/7rBWL83LuXHYCv5ZenKTVU) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Close Call](https://open.spotify.com/album/7Id0c14GxNXDkz38Io070t) | 3:05 | 2021-11-10 | 2022-05-20 |
 | [Family](https://open.spotify.com/track/1QrcomVagx1mGbtibRpiGt) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Family](https://open.spotify.com/album/0wfWEejlAeco0LVkpjt4fR) | 2:53 | 2022-05-10 |  |
+| [Feedback Loop](https://open.spotify.com/track/5zlcNIbJAbRtCFFmQQi6Qe) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [Feedback Loop](https://open.spotify.com/album/313KqTMx8BzQMsf1wK1LSt) | 3:17 | 2022-06-03 |  |
 | [Feel Di Pulse](https://open.spotify.com/track/62cI9iC267K3nx3yYr7oCG) | [Cascaix](https://open.spotify.com/artist/7cVHoN5a6NjZ2LC8v0sFvJ) | [Feel Di Pulse](https://open.spotify.com/album/34vjADdXvNHFi71V0j6fPr) | 2:07 | 2021-11-10 |  |
 | [Feel Free](https://open.spotify.com/track/6L8gNflQsaNQv7uY8IVjE4) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Feel Free](https://open.spotify.com/album/2rMoeNbx0m4q9dhVDfxgBF) | 2:19 | 2022-05-10 |  |
 | [Feuilles](https://open.spotify.com/track/26BeLmiiIvwMzU4dJbpitV) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Feuilles](https://open.spotify.com/album/739JpDz78mPc7hTX0zLvhN) | 2:33 | 2021-11-10 |  |
@@ -117,7 +118,7 @@
 | [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2021-11-10 | 2022-01-22 |
 | [In Her Mind](https://open.spotify.com/track/0TvJASLNEqBuPOpzsVNNMA) | [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH), [vlows](https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt) | [In Her Mind](https://open.spotify.com/album/0fgANIRVPHa8zDIGOCBXXK) | 1:42 | 2022-04-15 |  |
 | [in solitude](https://open.spotify.com/track/0AObwfIRlQauAl0GgRB0vk) | [réel vie](https://open.spotify.com/artist/6o4jkladkbsym75YLbCDB6) | [in solitude](https://open.spotify.com/album/5GXDZ4lnQfcxdvMQfGCRGx) | 3:23 | 2021-11-10 | 2022-05-20 |
-| [intheshadow](https://open.spotify.com/track/7uuuKH7gERcMn0DZzehIzi) | [Ai Bolako](https://open.spotify.com/artist/1uPqipOxJdAWqWaoVGywSV) | [intheshadow](https://open.spotify.com/album/6nvk51yGLV7Q54S3coE0Ue) | 2:06 | 2021-11-10 |  |
+| [intheshadow](https://open.spotify.com/track/7uuuKH7gERcMn0DZzehIzi) | [Ai Bolako](https://open.spotify.com/artist/1uPqipOxJdAWqWaoVGywSV) | [intheshadow](https://open.spotify.com/album/6nvk51yGLV7Q54S3coE0Ue) | 2:06 | 2021-11-10 | 2022-06-03 |
 | [Isotropic](https://open.spotify.com/track/65akmuRiBnvX9qQoEwUT4f) | [Sonalis](https://open.spotify.com/artist/3n6RFRevPSBR62Ae3LgPlY) | [Isotropic](https://open.spotify.com/album/45Ou3IRgSS28SjPGvScIw0) | 2:52 | 2021-11-10 |  |
 | [JEXX](https://open.spotify.com/track/6YpDv0MdrR39AQBy8qwn9g) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [JEXX](https://open.spotify.com/album/4DW0MR2Cas3wyZ7gXfzb5Y) | 2:12 | 2021-11-10 |  |
 | [Joseph's Well](https://open.spotify.com/track/1qfKWLhAOL9PBvZ5wsOhsU) | [Orange Roundabout](https://open.spotify.com/artist/5MLibyV1Zt03HCKOvJCHnB) | [Joseph's Well](https://open.spotify.com/album/7EZfQDTuKmTGircFR8XA9A) | 2:07 | 2021-11-10 |  |
@@ -133,6 +134,7 @@
 | [Let It Out](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r) | [\[felt&key\]](https://open.spotify.com/artist/5B6ReZ8oYtiTDVWkEjkx3z) | [Let It Out](https://open.spotify.com/album/2YQ8x9l7eZM7EfhL6oZgKF) | 2:44 | 2021-11-10 | 2022-02-11 |
 | [lipshells](https://open.spotify.com/track/2nfYoMN2329hAlwbPhVJuf) | [cowa cowa](https://open.spotify.com/artist/0OslD5KMKoNQvrXv7DR5VC) | [lipshells](https://open.spotify.com/album/5noCjiE5k92zUycUGD0QVq) | 2:52 | 2021-11-10 |  |
 | [lofiology](https://open.spotify.com/track/4eAY8ptmb2Nx9YNIK9PZss) | [Trixpot](https://open.spotify.com/artist/3XPQh0KgwDXTCHDV4LtSeK) | [lofiology](https://open.spotify.com/album/02GmJmun9UOWAeHKcjCKbd) | 2:19 | 2021-11-10 |  |
+| [Lonely and I like it](https://open.spotify.com/track/2aL54CY3OQEjTQ73Yj6DDK) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Lonely and I like it](https://open.spotify.com/album/1nPKqBuxMHZd8nO2L6WHG1) | 2:43 | 2022-06-03 |  |
 | [Loots](https://open.spotify.com/track/50B7sKPkRb87QoaQ5wqkJN) | [John Da Lemon](https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Loots](https://open.spotify.com/album/0RCDLXoP6dNmJ9EWdHzZ8l) | 1:41 | 2022-04-15 |  |
 | [Lost In Translation, The Saga](https://open.spotify.com/track/6A5bkBm5kT35mubo9TUk0Y) | [Pausa Psi](https://open.spotify.com/artist/43Ojd4Mv19doUZziYeCs2S) | [Lost In Translation, The Saga](https://open.spotify.com/album/5x9pmUiSJ1opkM2aom3egS) | 2:35 | 2022-04-05 |  |
 | [Lounges](https://open.spotify.com/track/1eJ6VriKLzktGdph6f06jT) | [HollyDave](https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ) | [Lounges](https://open.spotify.com/album/2n8ETq2ybdSzRi15mGm4bt) | 1:56 | 2021-11-10 |  |
@@ -198,9 +200,10 @@
 | [Reflect](https://open.spotify.com/track/6KoJqqoM9nwU9Gpo0mMPA9) | [Goudo J](https://open.spotify.com/artist/59xol4VJ5T58RiIgiMFKR8) | [Reflect](https://open.spotify.com/album/35Ho0LxFGqmkEfuiLVYHkp) | 3:09 | 2021-11-10 | 2022-02-11 |
 | [Remember](https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH) | [Hocus Faux](https://open.spotify.com/artist/0ADrSx3KCkJ9AKDYYi3OBp) | [Remember](https://open.spotify.com/album/5wJNNjEBRNwGtY6LJqHEAt) | 3:33 | 2021-11-10 |  |
 | [Remember that Thing?](https://open.spotify.com/track/6qrWKbbY97z18o3nGiquGn) | [HEH](https://open.spotify.com/artist/0TPeimMKCuW9cVVu4DUOz0) | [Heroes in Heartbreak](https://open.spotify.com/album/2GKm63re8wsbsaJKUihCmO) | 2:29 | 2021-11-10 |  |
-| [Retrogress](https://open.spotify.com/track/6TGruVWFTGiEduDrQ5bY8I) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Flakes](https://open.spotify.com/album/45WTdqbH4bvvR8yZm5ykWL) | 2:42 | 2021-11-10 |  |
+| [Retrogress](https://open.spotify.com/track/6TGruVWFTGiEduDrQ5bY8I) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Flakes](https://open.spotify.com/album/45WTdqbH4bvvR8yZm5ykWL) | 2:42 | 2021-11-10 | 2022-06-03 |
 | [Retronym](https://open.spotify.com/track/3jqzty9EQ5TRe3UzhrtwVU) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls) | [Retronym](https://open.spotify.com/album/5Id8sNwJkrUZdj7Jx2JR4K) | 4:21 | 2022-04-15 |  |
 | [Rhodes](https://open.spotify.com/track/2EFTZJN5orePrHn2k6Lsxe) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Rhodes](https://open.spotify.com/album/3ib4ZrpTSLEEqPIt49BnGs) | 3:48 | 2021-11-10 |  |
+| [Rise](https://open.spotify.com/track/36XEBgGn2zTURfa3yvKpNV) | [Gold Coast Microscopes](https://open.spotify.com/artist/1cp4bfGnJTQ2JImmeBCzMu) | [Poolside](https://open.spotify.com/album/5tkPyaVRCTnUwXozgKpvB8) | 2:11 | 2022-06-03 |  |
 | [Rolling Waves](https://open.spotify.com/track/5Z7UJUFFqFUeoH4kI1rBQu) | [Calvio](https://open.spotify.com/artist/0ERiQMnG5wKxqgyUtJjcM8) | [Rolling Waves](https://open.spotify.com/album/6xxZBlJhExbVHs3qJvTkJm) | 2:22 | 2021-11-10 |  |
 | [Rooftop Grill](https://open.spotify.com/track/61MsjQN0Q7KahSXROkTuCT) | [My Ol' Man](https://open.spotify.com/artist/37j2MNjIAKO9lXKTXlhxJM) | [Rooftop Grill](https://open.spotify.com/album/15zZne87pgRocffEgZX7CO) | 2:22 | 2021-11-10 |  |
 | [Rose](https://open.spotify.com/track/0bEixfuWUAwzt6Khi1ccgn) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Rose](https://open.spotify.com/album/6O3C5aOvvsqxAVfcyL1nvV) | 2:59 | 2021-11-10 |  |

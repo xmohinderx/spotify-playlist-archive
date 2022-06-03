@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> chat w/ <a href="https://open.spotify.com/show/6ohzfnHlDGhODyfgpegfmB?si=deeaa9df2d834a9d">Ethel Cain TODAY @5pm eastern on Lorem Live</a> w/ hosts max & dev\. cover: wet leggies
+> wtfigo! cover: wet leggies
 
-1,645 songs - 3 day 16 hr 5 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,648 songs - 3 day 16 hr 12 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Cashmere](https://open.spotify.com/track/6xszMomofJTQMICSVVNNDL) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/7x32TKnMbuS6pALWFn4DFW) | 3:03 | 2021-06-11 | 2022-04-09 |
 | [Casino](https://open.spotify.com/track/0J1HfFtmbQVbXWFWYuTiPb) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Casino](https://open.spotify.com/album/0SXVfNysvX1XhXYRvXduwP) | 4:19 | 2020-01-17 | 2020-02-20 |
 | [Castaway](https://open.spotify.com/track/1wkM7sPVAucG10x0McMDPa) | [Jackii Kennedy](https://open.spotify.com/artist/5sprC3BOlpim8l6tyepfg7) | [Castaway](https://open.spotify.com/album/35GyURhzt6S11sEMx4sBkl) | 2:33 | 2021-07-31 | 2021-11-13 |
-| [Castles](https://open.spotify.com/track/7pbDDgeQjKt3fOrjePnwFu) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Castles](https://open.spotify.com/album/5FwmwXbnU9thmvR0WrnO53) | 3:03 | 2022-04-15 |  |
+| [Castles](https://open.spotify.com/track/7pbDDgeQjKt3fOrjePnwFu) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Castles](https://open.spotify.com/album/5FwmwXbnU9thmvR0WrnO53) | 3:03 | 2022-04-15 | 2022-06-03 |
 | [Cause and Effect](https://open.spotify.com/track/5nrod69NCUKOru6iMfqIyz) | [Tony22](https://open.spotify.com/artist/72WtJOdm9BlSXYm1Xd0Drm), [Brian Austin](https://open.spotify.com/artist/460LpXD2aDD0WHZhwpiymj) | [Earth Boy](https://open.spotify.com/album/0kR7MqklL8vFXV7v3LqCrb) | 3:24 | 2019-08-10 | 2019-10-10 |
 | [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-04-18 | 2022-05-13 |
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-04-09 | 2022-04-29 |
@@ -588,6 +588,7 @@
 | [GONE, GONE / THANK YOU](https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 6:15 | 2020-12-12 | 2021-01-12 |
 | [Gonna Bleach My Eyebrows](https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Gonna Bleach My Eyebrows](https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy) | 2:14 | 2022-04-27 | 2022-05-21 |
 | [Good Advice](https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Good Advice](https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy) | 2:44 | 2020-11-27 | 2020-12-31 |
+| [Good Buy My Old Life](https://open.spotify.com/track/1nmMm95AnGwZWIbxeJVio9) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Good Buy My Old Life](https://open.spotify.com/album/2X18O3Jbj1xmXlyOKFdWnu) | 3:30 | 2022-06-02 |  |
 | [Good Day](https://open.spotify.com/track/7iTwzSe2fg5xYwCgXXFkEe) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Good Day](https://open.spotify.com/album/1HPmeTZ2Mgx0NvynTKpWOj) | 3:01 | 2019-10-04 | 2020-02-05 |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2020-12-31 | 2022-01-08 |
 | [Good Grief](https://open.spotify.com/track/7rUytGRv5slfSodhCQQaKf) | [Mad Honey](https://open.spotify.com/artist/1ChYxmoAiT0FOTA0MPJ7DV) | [Good Grief](https://open.spotify.com/album/10pyN4NN0zIgFs18vYupTW) | 3:47 | 2021-07-17 | 2021-08-14 |
@@ -941,7 +942,7 @@
 | [megan fox](https://open.spotify.com/track/1ZO1oxKK88xOhvJnA1QDPM) | [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [megan fox](https://open.spotify.com/album/2adAlemQTvmOKs5PHY0ugx) | 2:29 | 2020-11-20 | 2021-03-19 |
 | [Melocotón](https://open.spotify.com/track/1qW32mkxIEhRkerlabQVOd) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [135](https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR) | 2:27 | 2020-07-24 | 2020-11-11 |
 | [memories](https://open.spotify.com/track/7i3I0XokKjoLS8wEU1PThw) | [Julius](https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs) | [memories](https://open.spotify.com/album/6YeFOv4WPmzPYwGDCj0zDv) | 1:53 | 2020-11-20 | 2020-12-31 |
-| [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-10-28 |  |
+| [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-10-28 | 2022-06-03 |
 | [Messed Up](https://open.spotify.com/track/4WHmafrJ0ANeLFf7UlXjiM) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Messed Up](https://open.spotify.com/album/5Bzq6KT7Xvqv6qsMDJpyi5) | 3:53 | 2020-10-24 | 2021-01-12 |
 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 | 2022-05-12 |  |
 | [Mice On Venus](https://open.spotify.com/track/5fqjfiMOFapIb8uFcxBStH) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 4:41 | 2021-06-05 | 2021-11-13 |
@@ -1190,7 +1191,7 @@
 | [reel](https://open.spotify.com/track/6Z53T7w8pY8MM8HxKMOvLO) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [reel](https://open.spotify.com/album/2kpAgM8bcOmEy61adSUmm9) | 2:56 | 2022-04-01 |  |
 | [Reinvent](https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0) | 4:03 | 2020-07-31 | 2020-09-17 |
 | [Remember Me](https://open.spotify.com/track/630Ug0XtmhhFvAKo0PNuEI) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Remember Me](https://open.spotify.com/album/4iLi0ZWdcYtCZvsXZHTRLx) | 3:19 | 2019-09-20 | 2020-02-20 |
-| [remnants](https://open.spotify.com/track/1yIMBMFSVy637rAHGf0tM7) | [Ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [sometimes](https://open.spotify.com/album/5TGVnDO9D5D4OnAykbymj8) | 2:06 | 2022-05-20 |  |
+| [remnants](https://open.spotify.com/track/1yIMBMFSVy637rAHGf0tM7) | [Ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [sometimes](https://open.spotify.com/album/5TGVnDO9D5D4OnAykbymj8) | 2:06 | 2022-05-20 | 2022-06-03 |
 | [Renaissance](https://open.spotify.com/track/6ND87faCM9Xb5J5rDGtBPM) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Renaissance](https://open.spotify.com/album/6irTwsK0mf7OXoPBddnoD5) | 2:54 | 2019-11-22 | 2019-12-12 |
 | [Renee](https://open.spotify.com/track/5MeUMSRreLHYLhw8ZTyqpk) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Renee](https://open.spotify.com/album/4qR0co1PeeQSsqHF9xTeGn) | 2:59 | 2020-06-30 | 2022-03-18 |
 | [Resale](https://open.spotify.com/track/0bOtCEAC896V7Zq1usRIKu) | [The Aubreys](https://open.spotify.com/artist/7ijkc3O3uxDdAmSuQUg2f2) | [Resale](https://open.spotify.com/album/6prjDU0P65HlZT3pAkPfJU) | 3:11 | 2021-10-20 | 2021-12-02 |
@@ -1552,6 +1553,7 @@
 | [Want Me Back](https://open.spotify.com/track/7IoV5eGR85wUOXjninlmNu) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:54 | 2019-08-10 | 2020-11-27 |
 | [Want To](https://open.spotify.com/track/1HFFkBC80X2eHzhtHwjpg9) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Want To](https://open.spotify.com/album/0vuxBG7PlEL28N4x9NhjHF) | 2:43 | 2019-10-04 | 2019-10-29 |
 | [Want U Back](https://open.spotify.com/track/7afpDI6k8fFpRuqEYFMxqR) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Want U Back](https://open.spotify.com/album/3TlH0am1m85oTah0V5MjWR) | 3:09 | 2021-01-15 | 2021-02-06 |
+| [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 | 2022-06-02 |  |
 | [Warm](https://open.spotify.com/track/40Otjn8rGe8T5tbjK0eTbo) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Warm](https://open.spotify.com/album/1eik3ReaI8dJzF8piumicP) | 3:05 | 2019-11-07 | 2020-02-05 |
 | [Was It Something I Said](https://open.spotify.com/track/2YEnGQwfXZokCfRbTykYbo) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/038iHedcafxMeEWtzsrvye) | 3:42 | 2019-08-23 | 2020-02-21 |
 | [Was It Something I Said \(feat\. Cavetown\)](https://open.spotify.com/track/4pCKJ8NFjBHSk1wGn13cab) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Was It Something I Said \(feat\. Cavetown\)](https://open.spotify.com/album/7r62ILwEeOZH9dJzvaU4vf) | 3:51 | 2020-05-15 | 2020-08-20 |
@@ -1620,6 +1622,7 @@
 | [Worth It](https://open.spotify.com/track/4oecUEFtf9m5x8YQFfE1em) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Worth It](https://open.spotify.com/album/1i1VUVcZdZBU8U87QMOCii) | 3:14 | 2020-09-12 | 2020-10-13 |
 | [Wounded/Surrounded](https://open.spotify.com/track/5SJ6mSr6m0Qcxtqw3U8inr) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Wounded/Surrounded](https://open.spotify.com/album/542erJVZuoJ5z0G8Oj4zch) | 3:23 | 2020-05-15 | 2020-11-11 |
 | [Wreck \- Remix](https://open.spotify.com/track/1bHf3NNiJLk7EsksXGCftL) | [Samica](https://open.spotify.com/artist/6ueMf7NpSrxj4b0g3YTlnW), [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Wreck \(Remix\)](https://open.spotify.com/album/4kFdzEVteEvIQpqBOp0I9S) | 2:51 | 2020-04-18 | 2020-05-28 |
+| [WTFIGO](https://open.spotify.com/track/7jVJppRaym9PQUARLdCsej) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 0:54 | 2022-06-02 |  |
 | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/track/2JerYQPEZWTiTEIFgfUEoV) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/album/4VkgVNf0yIMLkwfls1J83u) | 4:04 | 2022-03-04 |  |
 | [Wurli](https://open.spotify.com/track/5MSshyHGM9ajWSEoBcR0jv) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:30 | 2020-07-31 | 2020-08-20 |
 | [Y U Gotta B Like That](https://open.spotify.com/track/45StvejYUdIsyUwqdZ7iJM) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Y U Gotta B Like That](https://open.spotify.com/album/7ErSfjONTrLqmvrJanrtcK) | 2:34 | 2020-01-10 | 2020-05-05 |

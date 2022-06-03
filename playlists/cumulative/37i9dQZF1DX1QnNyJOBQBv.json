@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 204003,
       "name": "Chance",
       "url": "https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa"
@@ -811,6 +811,24 @@
       "duration_ms": 216000,
       "name": "Eazt",
       "url": "https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc"
+    },
+    {
+      "album": {
+        "name": "El Cielo Se Me Cay\u00f3",
+        "url": "https://open.spotify.com/album/49E0S14vGXYJSMrloi57sn"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123041,
+      "name": "El Cielo Se Me Cay\u00f3",
+      "url": "https://open.spotify.com/track/7q72vajxaywdWMdena6o54"
     },
     {
       "album": {

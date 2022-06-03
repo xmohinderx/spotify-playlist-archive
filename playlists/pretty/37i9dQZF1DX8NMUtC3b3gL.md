@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,369 likes - 97 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,392 likes - 98 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,19 +91,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 81 | [180 Gram](https://open.spotify.com/track/3mpF3RIt6EfMnQPuFqcTwI) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [180 Gram](https://open.spotify.com/album/2ejjB1ZMhxYv88ydHXYdxE) | 2:28 |
 | 82 | [High Harbor](https://open.spotify.com/track/5W9nhHNbT23Qh0FHXjerp6) | [Foghouse](https://open.spotify.com/artist/5y6OTJwOgLR1dJu2Er9hBB) | [The Great Flood](https://open.spotify.com/album/0gQibi4N8OULtM8112b5sU) | 3:01 |
 | 83 | [Sunrise Citi](https://open.spotify.com/track/7yBBeYGkFgASRI6LxKiLgJ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 1:58 |
-| 84 | [tomorrow, 2 am](https://open.spotify.com/track/1AjIq7D644IjbeekXoe64u) | [class e](https://open.spotify.com/artist/0HfmQce99SOzQR5dBgURe1) | [tomorrow, 2 am](https://open.spotify.com/album/3XfmT2opeZqXNMEq1dLbgE) | 2:12 |
-| 85 | [Golden Gardens](https://open.spotify.com/track/3k7afHN7Gc9vdIFJovkv8G) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Golden Gardens](https://open.spotify.com/album/3MnvFHRNCoyHnoagZq48qt) | 3:16 |
-| 86 | [Mr Lightfoot](https://open.spotify.com/track/2ZLLtVcPYlM9PE2IE96JFf) | [Riverside Park](https://open.spotify.com/artist/5GlkBEHK6cAVD23p4YE2gP) | [Let's Take a Walk](https://open.spotify.com/album/6Rm1HkijkfXiBAJdnkGqR6) | 2:43 |
-| 87 | [play’n rewind](https://open.spotify.com/track/4mQok4Y3Dvma1vB8cEdzP3) | [Mint Tape](https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn) | [play’n rewind](https://open.spotify.com/album/0Vra4cB3PZ6sjKbr19BQGO) | 1:21 |
-| 88 | [Cloud Base](https://open.spotify.com/track/3l4Sut89BnuWk7Ndn250DM) | [Timestreet](https://open.spotify.com/artist/1ZUmSYkOlZf9weqimkmtC6) | [Waterfalls](https://open.spotify.com/album/3NKUeD45OF8kHbL2zWNytO) | 2:37 |
-| 89 | [Frankie](https://open.spotify.com/track/6t6FeY6tESJeedpgsYS6jD) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU), [SoBe](https://open.spotify.com/artist/7qgI5zbn2SzcXP0sKOWS9M) | [Verdant](https://open.spotify.com/album/6fIz7iouU5xhVUPB4cTfy0) | 1:52 |
-| 90 | [a warm breeze](https://open.spotify.com/track/3xtFXpqq5OJ4NdlJVxpgRr) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [ode to summer](https://open.spotify.com/album/7gzLMwWkiNiaVVEeMxLcpM) | 2:07 |
-| 91 | [modernity](https://open.spotify.com/track/2Gwx7C7INLa5Ze2OwOPs8O) | [lonely call](https://open.spotify.com/artist/6Ssd20G0tbMif25RpIjxXM) | [modernity](https://open.spotify.com/album/1a097dX7Qga2xW0hQuYeXi) | 1:56 |
-| 92 | [LoFicious](https://open.spotify.com/track/1gH2c0errw3UWdcGUND49e) | [Ingolf](https://open.spotify.com/artist/39O4aZTj38oxLHIAeBuyE7) | [Moninho](https://open.spotify.com/album/3Sx8Ez6VvMbm0plgydVqEi) | 1:41 |
-| 93 | [dunes](https://open.spotify.com/track/6olrZxU7zlcIPtOhnSx3Qa) | [home grown](https://open.spotify.com/artist/3HItQVgl9wuiGIluHnIfTS) | [dunes](https://open.spotify.com/album/6jBmrVhC902zy5p5dUTiTb) | 1:51 |
-| 94 | [Morning Glow](https://open.spotify.com/track/03UKH7unkeOer6mbroB56Q) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Morning Glow](https://open.spotify.com/album/2f4wtOv1lnMBQ09OY97sDJ) | 1:37 |
-| 95 | [Stop Flexing](https://open.spotify.com/track/4a3joydfGpY44IWuu9QU6D) | [Smokestack](https://open.spotify.com/artist/4fCYV8QWYzc8BDm1M2lhrz) | [Long Past](https://open.spotify.com/album/2AWtwPczp5lU3SgZIl2unc) | 2:42 |
-| 96 | [Stockholm, 8AM](https://open.spotify.com/track/6h2UJl7TLX8Vb6WOZTeLBE) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Stockholm, 8AM](https://open.spotify.com/album/3URnKw9tQ8wzNKbGaMk8ZT) | 1:25 |
-| 97 | [Reflect](https://open.spotify.com/track/2FUIdzhQtFixAuxpcjwhTP) | [Dimmer Signal](https://open.spotify.com/artist/0DnCXK4n3Ug9zpNWKGAD6Y) | [Reflect](https://open.spotify.com/album/0YJKBHgaTNxqTXWUrNZcCt) | 1:32 |
+| 84 | [Golden Gardens](https://open.spotify.com/track/3k7afHN7Gc9vdIFJovkv8G) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Golden Gardens](https://open.spotify.com/album/3MnvFHRNCoyHnoagZq48qt) | 3:16 |
+| 85 | [Mr Lightfoot](https://open.spotify.com/track/2ZLLtVcPYlM9PE2IE96JFf) | [Riverside Park](https://open.spotify.com/artist/5GlkBEHK6cAVD23p4YE2gP) | [Let's Take a Walk](https://open.spotify.com/album/6Rm1HkijkfXiBAJdnkGqR6) | 2:43 |
+| 86 | [play’n rewind](https://open.spotify.com/track/4mQok4Y3Dvma1vB8cEdzP3) | [Mint Tape](https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn) | [play’n rewind](https://open.spotify.com/album/0Vra4cB3PZ6sjKbr19BQGO) | 1:21 |
+| 87 | [Cloud Base](https://open.spotify.com/track/3l4Sut89BnuWk7Ndn250DM) | [Timestreet](https://open.spotify.com/artist/1ZUmSYkOlZf9weqimkmtC6) | [Waterfalls](https://open.spotify.com/album/3NKUeD45OF8kHbL2zWNytO) | 2:37 |
+| 88 | [Frankie](https://open.spotify.com/track/6t6FeY6tESJeedpgsYS6jD) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU), [SoBe](https://open.spotify.com/artist/7qgI5zbn2SzcXP0sKOWS9M) | [Verdant](https://open.spotify.com/album/6fIz7iouU5xhVUPB4cTfy0) | 1:52 |
+| 89 | [a warm breeze](https://open.spotify.com/track/3xtFXpqq5OJ4NdlJVxpgRr) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [ode to summer](https://open.spotify.com/album/7gzLMwWkiNiaVVEeMxLcpM) | 2:07 |
+| 90 | [modernity](https://open.spotify.com/track/2Gwx7C7INLa5Ze2OwOPs8O) | [lonely call](https://open.spotify.com/artist/6Ssd20G0tbMif25RpIjxXM) | [modernity](https://open.spotify.com/album/1a097dX7Qga2xW0hQuYeXi) | 1:56 |
+| 91 | [LoFicious](https://open.spotify.com/track/1gH2c0errw3UWdcGUND49e) | [Ingolf](https://open.spotify.com/artist/39O4aZTj38oxLHIAeBuyE7) | [Moninho](https://open.spotify.com/album/3Sx8Ez6VvMbm0plgydVqEi) | 1:41 |
+| 92 | [FREEDOM](https://open.spotify.com/track/0c6ZSEvZYzj8MfBdzeDYn0) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [FREEDOM](https://open.spotify.com/album/3sJMcTNveJofYUhPNE8YEn) | 2:32 |
+| 93 | [Why not](https://open.spotify.com/track/26L3JrgqwhpEYS3PYZBEjw) | [Lunatic Sad](https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp) | [Why not](https://open.spotify.com/album/5j19PHYXoycyjhMWLzeSoI) | 2:03 |
+| 94 | [Melrose](https://open.spotify.com/track/0Rgl3ZlwYRIqBXnlpswWTM) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Melrose](https://open.spotify.com/album/3tFXWxrKuIJFYu9iTTywXa) | 1:42 |
+| 95 | [Equinox](https://open.spotify.com/track/1MigtSyEza4JpqoIUyGOjr) | [Somebodi](https://open.spotify.com/artist/3JxE7ivtgjlIeuU5Hz2Oyt) | [Libraries](https://open.spotify.com/album/60Xk6zBOW5pyniet9nzjQ3) | 3:02 |
+| 96 | [dunes](https://open.spotify.com/track/6olrZxU7zlcIPtOhnSx3Qa) | [home grown](https://open.spotify.com/artist/3HItQVgl9wuiGIluHnIfTS) | [dunes](https://open.spotify.com/album/6jBmrVhC902zy5p5dUTiTb) | 1:51 |
+| 97 | [Stockholm, 8AM](https://open.spotify.com/track/6h2UJl7TLX8Vb6WOZTeLBE) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Stockholm, 8AM](https://open.spotify.com/album/3URnKw9tQ8wzNKbGaMk8ZT) | 1:25 |
+| 98 | [Reflect](https://open.spotify.com/track/2FUIdzhQtFixAuxpcjwhTP) | [Dimmer Signal](https://open.spotify.com/artist/0DnCXK4n3Ug9zpNWKGAD6Y) | [Reflect](https://open.spotify.com/album/0YJKBHgaTNxqTXWUrNZcCt) | 1:32 |
 
-Snapshot ID: `MTY1MzYwOTYwMCwwMDAwMDAxMTAwMDAwMTgxMDJkMDE1ZDAwMDAwMDE3OWMyN2Y0MjQw`
+Snapshot ID: `MTY1NDIxNDQwMCwwMDAwMDAxMjAwMDAwMTgxMjZkYzk4YjAwMDAwMDE3OWMyN2Y0MjQw`

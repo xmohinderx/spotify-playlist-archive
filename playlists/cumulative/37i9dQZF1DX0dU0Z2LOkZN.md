@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-120 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+121 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [For U](https://open.spotify.com/track/2ytZZ2S64YvE9G5SgYEPkB) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [For U](https://open.spotify.com/album/1wAMBFJ7WkhMNlTiZpcfEa) | 1:46 | 2022-04-22 |  |
 | [Fresh Pour Over Jam](https://open.spotify.com/track/0T7gCTRVrjm7fKJcIciXm7) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Fresh Pour Over Jam](https://open.spotify.com/album/3mhufOmozF6GbopHw1JFmW) | 2:01 | 2022-02-17 |  |
 | [Full Level](https://open.spotify.com/track/1CN7QqI6Cd9qsCjS1qXlRo) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Full Level](https://open.spotify.com/album/3waKYqHMvt2N6ipFRBsuTk) | 1:33 | 2022-04-15 |  |
+| [Glory](https://open.spotify.com/track/4QeyBi2HQ9tGYdEJzwuNVl) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Glory](https://open.spotify.com/album/3wxNK2VhWjnShCORfssCdy) | 3:07 | 2022-06-03 |  |
 | [Gold Plated](https://open.spotify.com/track/1p0vYiUriWNU5mKQnOFJWI) | [Stratotune](https://open.spotify.com/artist/4jj5GyEzbV9KzXTu5nXyi0) | [Gold Plated](https://open.spotify.com/album/1rOtwbR2qwBhi8k5OSXLVd) | 2:13 | 2022-05-20 |  |
 | [Goodies](https://open.spotify.com/track/034s5MPRbS4Ii8lpZoWNY2) | [Psychedelicatessen](https://open.spotify.com/artist/1Aqsr5edFoWGrBBjdKvUk9) | [Goodies](https://open.spotify.com/album/1tRfhMX6FsiPaBgKoAndBt) | 1:24 | 2021-11-11 |  |
 | [High Blossom](https://open.spotify.com/track/3P9nPdI80qLU6i4PCu9utx) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [High Blossom](https://open.spotify.com/album/39ugvLGxxkcuJxlDJutvU9) | 2:29 | 2021-11-11 |  |

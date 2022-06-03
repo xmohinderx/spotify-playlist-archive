@@ -4,7 +4,7 @@
 
 > Need to get your energy level up? This will help!
 
-114 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/38ow5EP0p7zXkIBNd5gW6R)
+115 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/38ow5EP0p7zXkIBNd5gW6R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Right Here \- Human Nature Radio Mix](https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Right Here](https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj) | 3:46 | 2021-12-17 |  |
 | [Run It! \(feat\. Juelz Santana\)](https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:49 | 2021-12-17 |  |
 | [Run the World \(Girls\)](https://open.spotify.com/track/3oOWBUNbwHZkWF2WND4kK2) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/6sUoihv7EBflLLP4VriHUe) | 3:56 | 2021-12-17 |  |
+| [Same Boy](https://open.spotify.com/track/3Tc21qhQKUmr2Zm07TVrsu) | [Haile'](https://open.spotify.com/artist/2UORkYKnac3CtxpJQTho5P), [Nijah Deziree](https://open.spotify.com/artist/2TlLX6Wfwt36IaW1uQT7Sk) | [Same Boy](https://open.spotify.com/album/6GTO7LUnHVKHkPyZuwsrHs) | 3:10 | 2022-06-02 |  |
 | [Shackles \(Praise You\)](https://open.spotify.com/track/7JKEA8xYDoFp4q0QBW2PGg) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Go Get It](https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9) | 3:18 | 2021-12-17 |  |
 | [Show Me \(feat\. Chris Brown\)](https://open.spotify.com/track/4q6dqyGM25sKFU8nYAGRe4) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [My Own Lane \(Expanded Edition\)](https://open.spotify.com/album/6qBNm8dkdowRUUrN7uwR11) | 3:37 | 2021-12-17 |  |
 | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 2:47 | 2021-12-17 |  |

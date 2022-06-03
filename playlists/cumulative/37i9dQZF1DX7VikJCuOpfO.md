@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: El Bebeto
 
-231 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/4lIbpCJ2pbV6798FY5z8fP)
+232 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/4lIbpCJ2pbV6798FY5z8fP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Se Me Olvidó Otra Vez \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/10o700fPQOCPZFrzFssSof) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [La Historia Del Divo](https://open.spotify.com/album/0I23whq0YCOR8Z7eDTZJFv) | 2:56 | 2022-05-13 | 2022-05-28 |
 | [Se Olvidó \- Versión Mariachi](https://open.spotify.com/track/3fLCCuQPA7kO2ZMIoB3bp1) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Se Olvidó \(Versión Mariachi\)](https://open.spotify.com/album/0SoeOj7WfmVbqtw8jir9Ys) | 3:11 | 2022-05-13 | 2022-06-01 |
 | [Se Te Nota](https://open.spotify.com/track/74jl7R6kG4lfiHY85ay9O1) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Se Te Nota](https://open.spotify.com/album/6tlScITlYfHc5raKEydO1F) | 3:05 | 2022-05-13 | 2022-06-01 |
-| [Se Te Olvidó](https://open.spotify.com/track/3iFlXPKEoIKgQJtryXvL28) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Invasión De Éxitos](https://open.spotify.com/album/6qsI958YYa8aS6KY8E7MEe) | 2:56 | 2022-05-13 |  |
+| [Se Te Olvidó](https://open.spotify.com/track/3iFlXPKEoIKgQJtryXvL28) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Invasión De Éxitos](https://open.spotify.com/album/6qsI958YYa8aS6KY8E7MEe) | 2:56 | 2022-05-13 | 2022-06-03 |
 | [Se Veía Venir](https://open.spotify.com/track/13id1MDO0sh4k3Gf9tNHMi) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Se Veía Venir](https://open.spotify.com/album/5NPYJpOYIFV1cx0suyWsTi) | 3:32 | 2022-05-13 | 2022-05-31 |
 | [Se Veía Venir](https://open.spotify.com/track/5G8a9zruEYp0QbU1lEcMcY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Se Veía Venir](https://open.spotify.com/album/0vB3SngZl9CBJWY3E0H8Qy) | 2:32 | 2022-06-01 |  |
 | [Se Veía Venir](https://open.spotify.com/track/02XcUD6ZlwrI4nRNXYwIgo) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Qué Ganas De Verte](https://open.spotify.com/album/1F0OQrdweimPVk3119NKVM) | 3:32 | 2022-05-13 | 2022-05-30 |
@@ -238,6 +238,7 @@
 | [Ya No Me Importa](https://open.spotify.com/track/1uVQ9tclCufSbqpaOHgfU4) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Ya No Me Importa](https://open.spotify.com/album/7sZubnxahx4tIddCErjwFR) | 2:25 | 2022-06-01 |  |
 | [Ya no me importa](https://open.spotify.com/track/71ATzRONbggfWE2KJ0L6XN) | [Sebas Estrada](https://open.spotify.com/artist/2zRwtBlZ7NdX5M1YeFVQnx) | [Ya no me importa](https://open.spotify.com/album/5EWW8ZwEEPJmREjOhqUHyf) | 2:54 | 2022-06-01 |  |
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2022-05-13 |  |
+| [Ya No Somos Ni Seremos](https://open.spotify.com/track/7CnmrsgrDklemSrdq8tuzL) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 3:05 | 2022-06-01 |  |
 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 | 2022-05-13 | 2022-06-01 |
 
 \*This playlist was first scraped on 2022-05-23. Prior content cannot be recovered.

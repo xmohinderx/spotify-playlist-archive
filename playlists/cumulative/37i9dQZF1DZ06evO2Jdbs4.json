@@ -168,6 +168,24 @@
     },
     {
       "album": {
+        "name": "Llegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "Dime Qu\u00e9 Debo Hacer",
+      "url": "https://open.spotify.com/track/4JdXfOJ344Cbf55yzfOZow"
+    },
+    {
+      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm"
       },
@@ -255,7 +273,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 189618,
       "name": "Inesperadamente",
       "url": "https://open.spotify.com/track/4GAqqobic0kTtK3mfAP6Am"
@@ -291,7 +309,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 200169,
       "name": "La Pregunta del Millon",
       "url": "https://open.spotify.com/track/12qn6tXr90rVnctiC9jODD"
@@ -702,6 +720,28 @@
     },
     {
       "album": {
+        "name": "Buen Pez",
+        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "Separarnos",
+      "url": "https://open.spotify.com/track/5A4j5H2BchA1SqYOvQ8I4I"
+    },
+    {
+      "album": {
         "name": "Si No Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/6cxGEtFscvOD8xNYIMncQY"
       },
@@ -717,6 +757,24 @@
       "duration_ms": 194021,
       "name": "Si No Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/2XCYJ9eUSpPPNhgaGpKYP5"
+    },
+    {
+      "album": {
+        "name": "Siempre Pensando en Ti",
+        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218226,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/2RgBInbB7gq3ewMVkqYIPr"
     },
     {
       "album": {
@@ -753,7 +811,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 162680,
       "name": "Tarjeta Roja",
       "url": "https://open.spotify.com/track/5qthAx863ljpv5HLiX9mFj"

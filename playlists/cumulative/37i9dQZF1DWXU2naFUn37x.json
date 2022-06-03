@@ -159,7 +159,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 168000,
       "name": "Aston Martin (feat. Headie One)",
       "url": "https://open.spotify.com/track/5yIVCbjYf85Ixuc8ybba6s"
@@ -177,7 +177,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 142496,
       "name": "Bagage",
       "url": "https://open.spotify.com/track/7634keaijcnpeX1jzPrNQV"
@@ -229,10 +229,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 135328,
       "name": "BAMBA",
       "url": "https://open.spotify.com/track/0QJHIiPs1UTgJ3ZURHIBMw"
+    },
+    {
+      "album": {
+        "name": "Armageddon",
+        "url": "https://open.spotify.com/album/1EIX7SM9G5apJAPLAyjiAq"
+      },
+      "artists": [
+        {
+          "name": "Ketama126",
+          "url": "https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150484,
+      "name": "BENEDIZIONE",
+      "url": "https://open.spotify.com/track/7ycYIqsUC3obgi5BnHM8VM"
     },
     {
       "album": {
@@ -269,7 +287,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 181621,
       "name": "BIRKIN (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/7eA4sopBqbiwCfMvrU0504"
@@ -413,7 +431,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 173906,
       "name": "CADILLAC (feat. MV Killa, Geolier, Tony Effe)",
       "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
@@ -553,7 +571,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 158630,
       "name": "DREAM TEAM (feat. Pyrex, Capo Plaza, Tedua & Shiva)",
       "url": "https://open.spotify.com/track/1QlqHpITeEHB4EWFGqks9J"
@@ -571,7 +589,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 158896,
       "name": "Drillin'",
       "url": "https://open.spotify.com/track/5yMYtbypj4UNornVo4zwGf"
@@ -647,6 +665,62 @@
       "duration_ms": 243776,
       "name": "Eurovision (feat. Rondodasosa, Baby Gang, A2 Anti, Morad, Beny Jr, Ashe 22 & Freeze corleone)",
       "url": "https://open.spotify.com/track/4f5TKGvkD4TkTjr61GKNAG"
+    },
+    {
+      "album": {
+        "name": "Hustle Mixtape",
+        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244536,
+      "name": "Everyday Everynight (feat. Gazo, Russ Millions)",
+      "url": "https://open.spotify.com/track/21VIZmEptg8NOr3M0g2slT"
+    },
+    {
+      "album": {
+        "name": "SEVEN 7oo Mixtape",
+        "url": "https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG"
+      },
+      "artists": [
+        {
+          "name": "SEVEN 7oo",
+          "url": "https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188213,
+      "name": "FUCK THE INDUSTRY (feat. Rondodasosa, Central Cee, Nko)",
+      "url": "https://open.spotify.com/track/0lWbTtEZCeej46pYi4LJMu"
     },
     {
       "album": {
@@ -745,6 +819,24 @@
       "duration_ms": 164908,
       "name": "HOUMA",
       "url": "https://open.spotify.com/track/6HYJLFIqcRzL7uwcnq2JKC"
+    },
+    {
+      "album": {
+        "name": "Hustle Mixtape",
+        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216606,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/5p9uRbOaI8YwMa9n3QP4BZ"
     },
     {
       "album": {
@@ -1379,7 +1471,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 166880,
       "name": "SPACCIATORE (feat. Gazo, Vale Pain, Keta, Nko)",
       "url": "https://open.spotify.com/track/61CX76RLIHI1RELTfVT0mM"
@@ -1581,7 +1673,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 136502,
       "name": "WAKANDA",
       "url": "https://open.spotify.com/track/4ApTJO5GLmci7uNivte6mE"

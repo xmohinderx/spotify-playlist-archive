@@ -1,15 +1,63 @@
 {
-  "description": "Future K-Pop hits! Cover: KANGDANIEL",
-  "num_followers": 680845,
+  "description": "Future K-Pop hits! Cover: JO YURI",
+  "num_followers": 681136,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzk4MTcyMywwMDAwMDI2NDAwMDAwMTgxMThmZTNjNGQwMDAwMDE4MGY1ODZlOGI5",
+  "snapshot_id": "MTY1NDE2MDQwMCwwMDAwMDI2NTAwMDAwMTgxMjNhNDlmMzEwMDAwMDE4MTIzOTAyNjFi",
   "tracks": [
     {
-      "added_at": "2022-05-31 07:22:03",
+      "added_at": "2022-06-02 09:00:00",
+      "album": {
+        "name": "Op.22 Y-Waltz : in Major",
+        "url": "https://open.spotify.com/album/1EAzLUzatSBIs8tA047f5f"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "duration_ms": 199066,
+      "name": "Love Shhh!",
+      "url": "https://open.spotify.com/track/00vy9aiFjxMfnKniQAYzrC"
+    },
+    {
+      "added_at": "2022-06-02 09:00:00",
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 195893,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh"
+    },
+    {
+      "added_at": "2022-06-02 09:00:00",
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/0YnjMov6t4vfn9MXA5A6KS"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "VIVID",
+      "url": "https://open.spotify.com/track/24OueqbY3eTiKT5dHhL5WQ"
+    },
+    {
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "BTBT",
         "url": "https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO"
@@ -33,23 +81,23 @@
       "url": "https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
-        "name": "The Story",
-        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO"
       },
       "artists": [
         {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+          "name": "VICTON",
+          "url": "https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3"
         }
       ],
-      "duration_ms": 195893,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh"
+      "duration_ms": 185093,
+      "name": "Stupid O'clock",
+      "url": "https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "WAY UP",
         "url": "https://open.spotify.com/album/1TgcRUSvCC0QyuMsaiF3M4"
@@ -65,7 +113,7 @@
       "url": "https://open.spotify.com/track/5QzjOeD7eXFZpVVyVC7ls2"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "DEEP - The 1st Mini Album",
         "url": "https://open.spotify.com/album/2qa6E3bEJ5OqwVgbfWOeF4"
@@ -81,7 +129,7 @@
       "url": "https://open.spotify.com/track/2afNmSvxjRvXw3Fqm9qWfK"
     },
     {
-      "added_at": "2022-05-31 07:22:03",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "Into The Light",
         "url": "https://open.spotify.com/album/5HYN8soZop2qOtyuUnTobz"
@@ -97,7 +145,7 @@
       "url": "https://open.spotify.com/track/1tjDKrtdCKtVCGEG35jqdI"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "Drive to the Starry Road",
         "url": "https://open.spotify.com/album/5yFMVUSwNR0qAtEW78nDj0"
@@ -113,7 +161,7 @@
       "url": "https://open.spotify.com/track/767gRjedAWnbUer6ARRS8d"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "TRICKSTER",
         "url": "https://open.spotify.com/album/3SexPtGPRSuzvjawaByl2G"
@@ -129,7 +177,7 @@
       "url": "https://open.spotify.com/track/6w4nlTYyrzB5kYhiABzBsQ"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "BASEMENT BOY",
         "url": "https://open.spotify.com/album/2YrodBLR3JJF6EUh88yZVf"
@@ -145,7 +193,7 @@
       "url": "https://open.spotify.com/track/6y8Q8DMl5HLi16tTyh4aDt"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "A to B",
         "url": "https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch"
@@ -161,7 +209,7 @@
       "url": "https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "THE CODE",
         "url": "https://open.spotify.com/album/7wr8UMXYQw5191b48WfR4Y"
@@ -177,7 +225,7 @@
       "url": "https://open.spotify.com/track/3y0uHBnK2O4N9lt6KpRv6i"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -193,7 +241,7 @@
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "the collective soul and unconscious: chapter one",
         "url": "https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw"
@@ -209,7 +257,7 @@
       "url": "https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "Seoul",
         "url": "https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF"
@@ -225,7 +273,7 @@
       "url": "https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "I NEVER DIE",
         "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
@@ -241,7 +289,7 @@
       "url": "https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "Where is my Garden!",
         "url": "https://open.spotify.com/album/5A0G6El208bcSxPfNw0CrR"
@@ -257,7 +305,7 @@
       "url": "https://open.spotify.com/track/6Y8iUOQbIwQaYzEYs0r9ZV"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "C.I.T.T (Cheese in the Trap)",
         "url": "https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf"
@@ -273,7 +321,7 @@
       "url": "https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "MY",
         "url": "https://open.spotify.com/album/3Z3fQ47AXd0WfDPiDvMecl"
@@ -289,7 +337,7 @@
       "url": "https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "Love Theory - SM STATION",
         "url": "https://open.spotify.com/album/2i27IzG4jFQjX7pS5L6TIu"
@@ -309,7 +357,7 @@
       "url": "https://open.spotify.com/track/1dmi9lVthTKjuemmO8ucWm"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "THE SECOND STEP : CHAPTER ONE",
         "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
@@ -325,7 +373,7 @@
       "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "memeM",
         "url": "https://open.spotify.com/album/4nhtnBY8owIQnOsnGQGqW9"
@@ -341,7 +389,7 @@
       "url": "https://open.spotify.com/track/0qr3qIT7OrhzT33sW1syLI"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "\u5bb9 : FACE",
         "url": "https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT"
@@ -357,7 +405,7 @@
       "url": "https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "Color",
         "url": "https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03"
@@ -373,7 +421,7 @@
       "url": "https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "AD MARE",
         "url": "https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH"
@@ -389,7 +437,7 @@
       "url": "https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "The 1st Mini Album 'Day & Night'",
         "url": "https://open.spotify.com/album/2j89XpqZbDCa41WZeN7sNz"
@@ -409,7 +457,7 @@
       "url": "https://open.spotify.com/track/1mWyVj0quMfOcwFSDPkQuD"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "SERIES 'O' [ROUND 3 : WHOLE]",
         "url": "https://open.spotify.com/album/5b2HT9dEEZptUsusV1Klc5"
@@ -425,7 +473,7 @@
       "url": "https://open.spotify.com/track/25hPY8NCwcvXr21YdWmPns"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "AD MARE",
         "url": "https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH"
@@ -441,7 +489,7 @@
       "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "DKZ 6th Single Album 'CHASE EPISODE 2. MAUM'",
         "url": "https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe"
@@ -457,7 +505,7 @@
       "url": "https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "[Apocalypse : Save us]",
         "url": "https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5"
@@ -473,7 +521,7 @@
       "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "THE SECOND STEP : CHAPTER ONE",
         "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
@@ -489,7 +537,7 @@
       "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "YOUNG-LUV.COM",
         "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
@@ -505,7 +553,7 @@
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "Take You Down",
         "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
@@ -525,7 +573,7 @@
       "url": "https://open.spotify.com/track/4BJoCk9oiInkkAMqgjiRek"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "LOVE me",
         "url": "https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK"
@@ -541,39 +589,7 @@
       "url": "https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
-      "album": {
-        "name": "2021 Winter SMTOWN : SMCU EXPRESS",
-        "url": "https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ"
-      },
-      "artists": [
-        {
-          "name": "TAEYONG",
-          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
-        },
-        {
-          "name": "JENO",
-          "url": "https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V"
-        },
-        {
-          "name": "HENDERY",
-          "url": "https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs"
-        },
-        {
-          "name": "YANGYANG",
-          "url": "https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L"
-        },
-        {
-          "name": "GISELLE",
-          "url": "https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "ZOO",
-      "url": "https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF"
-    },
-    {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "INVU - The 3rd Album",
         "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/0at0j5nXz7gxEBiz2Goh6s"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/5jjTsBPfe6u9sD9u4CSvjr"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "DIMENSION : ANSWER",
         "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "Grey Suit - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "CRAVITY 1ST ALBUM PART 2 [LIBERTY : IN OUR COSMOS]",
         "url": "https://open.spotify.com/album/0fQl58pOwJpkTfVUZudzpY"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/5SbVAjEbm6YS9qF8m8EYGD"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "The 1st Mini Album 'Beam Of Prism'",
         "url": "https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2"
@@ -669,39 +685,7 @@
       "url": "https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
-      "album": {
-        "name": "HORN",
-        "url": "https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 209207,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3"
-    },
-    {
-      "added_at": "2022-05-24 10:05:26",
-      "album": {
-        "name": "Stay Alive (Prod. SUGA of BTS)",
-        "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 210928,
-      "name": "Stay Alive (Prod. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
-    },
-    {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "Play Game : AWAKE",
         "url": "https://open.spotify.com/album/6ACwt54tvpe4XrMbxXzXXb"
@@ -717,7 +701,7 @@
       "url": "https://open.spotify.com/track/3kwr2hlIDwmwVAjKC7zshR"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "Midnight Guest",
         "url": "https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR"
@@ -733,7 +717,7 @@
       "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "FLYIN' PART1",
         "url": "https://open.spotify.com/album/0etZxsWdhonXX7O6bKi04N"
@@ -753,7 +737,7 @@
       "url": "https://open.spotify.com/track/1ng5jtfyr1MaEfmKvsXw48"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "DAYDREAM",
         "url": "https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu"
@@ -769,7 +753,7 @@
       "url": "https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "Echo [From \"Solo Leveling\" (Original Soundtrack)]",
         "url": "https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y"
@@ -785,7 +769,7 @@
       "url": "https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "It\u2019s ME, It's WE",
         "url": "https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB"
@@ -801,7 +785,7 @@
       "url": "https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "3RD DESIRE [Reve]",
         "url": "https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY"
@@ -817,7 +801,7 @@
       "url": "https://open.spotify.com/track/2muZNT1f0eVDC6qbCto2Ma"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "Can't Stop This Party",
         "url": "https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI"
@@ -833,7 +817,7 @@
       "url": "https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc"
     },
     {
-      "added_at": "2022-05-24 10:05:26",
+      "added_at": "2022-06-02 09:00:00",
       "album": {
         "name": "REFUGE",
         "url": "https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9"

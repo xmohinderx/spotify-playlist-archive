@@ -4,7 +4,7 @@
 
 > The calming and pensive side of electric guitar\. Instrumental only.
 
-76 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
+77 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Seeds](https://open.spotify.com/track/7DxsjZaR9m4Nx1wHRd2CSw) | [Blinkoat](https://open.spotify.com/artist/33euSsALBQFfAp6s5gp5U4) | [Flare](https://open.spotify.com/album/1LsixZKwwIbeeWyrHHT6cR) | 2:41 | 2022-05-13 |  |
 | [Self Control](https://open.spotify.com/track/5UmjHuYRItemped2xd3Qx4) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Favorites](https://open.spotify.com/album/5wc1XEogSJeFO37RtAGaAc) | 3:40 | 2022-05-13 |  |
 | [Shiosai](https://open.spotify.com/track/16OeJvn6s38iUCNniIU4WQ) | [Isao Tsukamoto](https://open.spotify.com/artist/7pLs9v2GtcnQPBO5Jg8FQy) | [ARCHES](https://open.spotify.com/album/5mvZLtMuUS2H0ygEdjNyrt) | 2:32 | 2022-05-13 |  |
+| [Sigulda](https://open.spotify.com/track/46WRSVjU9OwepvlCcBLvFa) | [Revolutions](https://open.spotify.com/artist/0RjqXCIIlAUNd0APK0cE8T) | [Sigulda](https://open.spotify.com/album/4ftPJ2WTzpMa4Lb4ckUqIS) | 4:26 | 2022-06-03 |  |
 | [So Smooth](https://open.spotify.com/track/4v0UsJ0beNVxLwml6yod9m) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Solus](https://open.spotify.com/album/1egYUj4A6rCalOq90beuGw) | 2:13 | 2022-05-13 |  |
 | [Sonder](https://open.spotify.com/track/6jjmxiR8Yb8Nli4BQhk9e5) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [Sonder, Vol\. 1](https://open.spotify.com/album/4EMuzrkru4Lx2cD3yu663Q) | 2:32 | 2022-05-13 |  |
 | [Strong Kinds of Emotions](https://open.spotify.com/track/4IAuHbRSyRYfBWMPIFprRj) | [Bluetoon](https://open.spotify.com/artist/135WbQvbKp0SnPHy80df1X) | [The Skies Above](https://open.spotify.com/album/65BZVVODmw9gxRu13MHG49) | 3:36 | 2022-05-13 |  |

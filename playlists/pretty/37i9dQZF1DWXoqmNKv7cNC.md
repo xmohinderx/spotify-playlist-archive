@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > Mujeres a todo volumen\. En portada: Valentina Moretti
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,403 likes - 40 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,414 likes - 40 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [cielo](https://open.spotify.com/track/5vgp6EADwZ1gxHn2La8J0V) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [cielo](https://open.spotify.com/album/1afFi1Z66mROoFltGIkHj3) | 4:34 |
-| 2 | [Locura Por Ti](https://open.spotify.com/track/4JfE73XGKx0IRpP56sEVzt) | [Andrea Franz](https://open.spotify.com/artist/50O6F9ntYmI2tUDY0dxr4G) | [Wild Idea](https://open.spotify.com/album/1ToPusrmJdTth68L0ZRQBU) | 3:58 |
+| 2 | [Locura Por Ti](https://open.spotify.com/track/4JfE73XGKx0IRpP56sEVzt) | [Andrea Franz](https://open.spotify.com/artist/50O6F9ntYmI2tUDY0dxr4G) | [Wild Idea](https://open.spotify.com/album/1ToPusrmJdTth68L0ZRQBU) | 3:57 |
 | 3 | [Sentir](https://open.spotify.com/track/61HelT0vaeXuAuDzEhTuca) | [Adryanna Cauduro](https://open.spotify.com/artist/0eesQ8fqOKzv8DbP3mvnyR) | [Sentir](https://open.spotify.com/album/1xmXqPLYcPrAHYwxxcT2pz) | 3:57 |
 | 4 | [Viaje](https://open.spotify.com/track/0CJetNWEsldnXmTYGvyJx9) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Viaje](https://open.spotify.com/album/6hEX5JkPwUb8d4acSgiYTC) | 2:52 |
 | 5 | [killed love](https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [killed love](https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP) | 3:52 |

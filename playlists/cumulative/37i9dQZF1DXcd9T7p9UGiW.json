@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV?si=VUZ6JT32TSWUEHgciPxO1A\" > Nonso Amadi </a> and <a href=\"https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk?si=JAedgucyRgO1t2lnUIdo5A\" > Majid Jordan </a> ",
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk?si=vqbTd2YgSHe0cXRc1Cl1dQ\" > Arrdee </a> and <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=kBJ2YLi9SO2jkADHAwHlXw\" > Black Sherif </a> ",
   "name": "Gone Abroad ",
   "published_playlist_ids": [
     "3Y8M6G8CEpUSth190sL4SQ"
@@ -598,6 +598,28 @@
     },
     {
       "album": {
+        "name": "Come & Go (Black Sherif Remix)",
+        "url": "https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179580,
+      "name": "Come & Go - Black Sherif Remix",
+      "url": "https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh"
+    },
+    {
+      "album": {
         "name": "Sounds From The Other Side",
         "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
       },
@@ -775,6 +797,28 @@
       "duration_ms": 180000,
       "name": "DO ME JEJE",
       "url": "https://open.spotify.com/track/761wgf2fyosAixTxmR5dpZ"
+    },
+    {
+      "album": {
+        "name": "Drag Me Out (Billen Ted Remix)",
+        "url": "https://open.spotify.com/album/3rP2LWicn4jS7tEaDELl0r"
+      },
+      "artists": [
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Drag Me Out - Billen Ted Remix",
+      "url": "https://open.spotify.com/track/1NIUA61esLSpL9Yp4wRtkc"
     },
     {
       "album": {
@@ -1191,7 +1235,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 249956,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/1Jk54APscblRSShOVjrYxS"
@@ -1579,7 +1623,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 164397,
       "name": "Like This",
       "url": "https://open.spotify.com/track/3NPhVitPBsJnXkJeMvjNb2"
@@ -1990,6 +2034,32 @@
     },
     {
       "album": {
+        "name": "No Isolation (Part 2)",
+        "url": "https://open.spotify.com/album/1fD113EtQRN4PBASz9N5F6"
+      },
+      "artists": [
+        {
+          "name": "B-Fela",
+          "url": "https://open.spotify.com/artist/1oMLS8mxtxSDjBira08J0I"
+        },
+        {
+          "name": "Curtis J",
+          "url": "https://open.spotify.com/artist/1myX1TbX6OkGrelfyeRwxd"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179417,
+      "name": "No Isolation (Part 2)",
+      "url": "https://open.spotify.com/track/6IW0JN8TIUeKeslPPjH8P2"
+    },
+    {
+      "album": {
         "name": "No Wahala (Latin Remix)",
         "url": "https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz"
       },
@@ -2397,7 +2467,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 183929,
       "name": "Punani",
       "url": "https://open.spotify.com/track/0iaf6ZLuvg1sgqQ0UQZf3a"
@@ -2701,7 +2771,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 175590,
       "name": "Sidung Pun It",
       "url": "https://open.spotify.com/track/2708ppz0oLzi7tF3VxN5f0"
@@ -3203,6 +3273,32 @@
       "duration_ms": 153992,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/5dl2O9ACpsfplIikHO0p6y"
+    },
+    {
+      "album": {
+        "name": "Too Hot (Maxi Single)",
+        "url": "https://open.spotify.com/album/69GtT9BY795ZqWrKnSbY2d"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "!llmind",
+          "url": "https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179013,
+      "name": "Too Hot (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/51XLYXUO7WaEsXf9sUHt6a"
     },
     {
       "album": {

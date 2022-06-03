@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-231 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+232 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Misty Wind](https://open.spotify.com/track/403UeCOjakaDLU8e23YeNa) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Last Bus Home](https://open.spotify.com/album/2GStqcXt37gERXM8ZpRw8c) | 4:06 | 2021-08-10 | 2022-03-17 |
 | [Moments Of A Dream](https://open.spotify.com/track/7oEJzwoxETOxypcgJWPCLV) | [The Upstairs](https://open.spotify.com/artist/0bqFiEQI5oNIuvdk4l6PYC) | [Winter in F Minor](https://open.spotify.com/album/386WFPpPokfSmfpCSQx9sM) | 4:59 | 2021-08-10 | 2022-03-14 |
 | [Moody Café](https://open.spotify.com/track/1P1xOcWnRrekSVO7xbTB9M) | [Capricorn](https://open.spotify.com/artist/1QS2jqjyvvulJg7jOIFxDe) | [Coffeehouse Lounge Best Of 2014\-2016](https://open.spotify.com/album/2MoD7geq9dkPM7qW00hnLA) | 3:51 | 2021-08-10 | 2022-01-13 |
+| [My greenhouse](https://open.spotify.com/track/6X0XSp7bFsgUwvkx5Qlix9) | [Cumulus Clouds](https://open.spotify.com/artist/2fDTMkLhW2WqPDobcohAZC) | [My greenhouse](https://open.spotify.com/album/6lQfts5lYwKlmnh1uQvJoT) | 2:10 | 2022-06-03 |  |
 | [Napoli Back Alleys](https://open.spotify.com/track/6NZMz8XyEGKmVc7ngRBlkt) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Napoli Back Alleys](https://open.spotify.com/album/7JhraTphMLQA2lSzEnWvrd) | 1:49 | 2022-03-16 |  |
 | [Needless to Say](https://open.spotify.com/track/2L564Gg8T5QvE3I9qc4Okr) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Needless to Say](https://open.spotify.com/album/7ooLEVtJYscAdXs1dZGHJz) | 3:07 | 2021-08-10 | 2022-03-17 |
 | [Never End](https://open.spotify.com/track/5avEbkeRChZjdwQ7hbcWWk) | [Deep Divers](https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL) | [Dolphin Dreams](https://open.spotify.com/album/0SPZhWzHjidjBSVzywdhp5) | 4:03 | 2021-08-10 | 2022-03-17 |

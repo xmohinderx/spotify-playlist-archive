@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "La scena italiana indipendente, senza etichette di genere. Cover: Hanami",
+  "description": "La scena italiana indipendente, senza etichette di genere. Cover: specchiopaura, SANO",
   "name": "Fresh Finds Italia",
   "published_playlist_ids": [
     "7DW4xNQc4jVEAVd25UPTmP"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 260584,
       "name": "Altar of Love",
       "url": "https://open.spotify.com/track/3cBrcj7y4bxf28L248hchQ"
@@ -618,6 +618,28 @@
     },
     {
       "album": {
+        "name": "baobab",
+        "url": "https://open.spotify.com/album/69M24IhGU4DWskgw7hVNiR"
+      },
+      "artists": [
+        {
+          "name": "Foreverboymush",
+          "url": "https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE"
+        },
+        {
+          "name": "fenoaltea",
+          "url": "https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133684,
+      "name": "baobab",
+      "url": "https://open.spotify.com/track/3u7xYZM188HCbHX9chFHU4"
+    },
+    {
+      "album": {
         "name": "Batto i piedi",
         "url": "https://open.spotify.com/album/29ugj5LiZDBKuCbu7vm8Y7"
       },
@@ -856,6 +878,42 @@
     },
     {
       "album": {
+        "name": "Cerchi Imperfetti",
+        "url": "https://open.spotify.com/album/47P6Xu4PL5CNBnjNniTWgX"
+      },
+      "artists": [
+        {
+          "name": "Blue Mora",
+          "url": "https://open.spotify.com/artist/31kQwvaTauJPYSdvVBvxD1"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331627,
+      "name": "Cerchi Imperfetti",
+      "url": "https://open.spotify.com/track/3Vg207l2hvuEPrOJK0aa4f"
+    },
+    {
+      "album": {
+        "name": "Cerotti",
+        "url": "https://open.spotify.com/album/2xDSDvgKMQQNjo8rslU8S3"
+      },
+      "artists": [
+        {
+          "name": "Delga",
+          "url": "https://open.spotify.com/artist/2EC0g1sISmBe22q1bhZ2Sx"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183266,
+      "name": "Cerotti",
+      "url": "https://open.spotify.com/track/5zXMq5QbTkJarQ4GT3kknQ"
+    },
+    {
+      "album": {
         "name": "che ci vuoi fare?",
         "url": "https://open.spotify.com/album/7H5bgp5mtygQ1pFSk6VqkR"
       },
@@ -969,6 +1027,24 @@
       "duration_ms": 218766,
       "name": "Come vorrei",
       "url": "https://open.spotify.com/track/7tsODSyklruhthzaXOczUq"
+    },
+    {
+      "album": {
+        "name": "CON ME",
+        "url": "https://open.spotify.com/album/6pJVbP082P7fzdyJzVoayc"
+      },
+      "artists": [
+        {
+          "name": "Saintess",
+          "url": "https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "CON ME",
+      "url": "https://open.spotify.com/track/1vB0YCAiB0ZZN79FIss39w"
     },
     {
       "album": {
@@ -1244,6 +1320,24 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2tIsEywEdtGcrt5vj8hF8C"
+      },
+      "artists": [
+        {
+          "name": "Anna Carol",
+          "url": "https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195282,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/5Tr0ol7vcovoGqotDfvkwB"
+    },
+    {
+      "album": {
         "name": "eCooltra",
         "url": "https://open.spotify.com/album/2QezV8f0vA8mkSBoglGa2v"
       },
@@ -1277,7 +1371,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 210989,
       "name": "ESAGERO EMOZIONI",
       "url": "https://open.spotify.com/track/4LwFRgfMW5LCStueaVtGh8"
@@ -1313,7 +1407,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 169846,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/1hEsQqngL8iq7IwsoTjB9O"
@@ -1331,7 +1425,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 209552,
       "name": "Fantasma quattro",
       "url": "https://open.spotify.com/track/5av6NKEUJksROjH1AayoEw"
@@ -1487,6 +1581,24 @@
       "duration_ms": 178669,
       "name": "Giovani Vecchi",
       "url": "https://open.spotify.com/track/78SvGNqbA2GQa8kiwvkKKi"
+    },
+    {
+      "album": {
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7v3R44AkhsnpCuZiIS1qVY"
+      },
+      "artists": [
+        {
+          "name": "ehm.carbo",
+          "url": "https://open.spotify.com/artist/1olvNHZrWoIy6uszZGrUGB"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166358,
+      "name": "Gi\u00f9",
+      "url": "https://open.spotify.com/track/3ctMkJzFcEgNbN2CBYJ5sx"
     },
     {
       "album": {
@@ -1947,7 +2059,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 187376,
       "name": "Lucido",
       "url": "https://open.spotify.com/track/0wWHA2fRW21xXpPprVWxdc"
@@ -2009,7 +2121,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 180086,
       "name": "LUNES",
       "url": "https://open.spotify.com/track/3ux6HhWQNXS4fjTGuyZcru"
@@ -2053,10 +2165,28 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 114782,
       "name": "Mandostai",
       "url": "https://open.spotify.com/track/3tkNO7r9FKCqNfQUTmDbnO"
+    },
+    {
+      "album": {
+        "name": "MARE",
+        "url": "https://open.spotify.com/album/61kXE5CFFjp7pvWKy35yKu"
+      },
+      "artists": [
+        {
+          "name": "Bobby Wanna",
+          "url": "https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191052,
+      "name": "MARE",
+      "url": "https://open.spotify.com/track/0yhryPsrbTLvFgrZuImvvo"
     },
     {
       "album": {
@@ -2249,6 +2379,32 @@
       "duration_ms": 142650,
       "name": "Naftalina",
       "url": "https://open.spotify.com/track/3U34wBWXo8copEoDwyrgtz"
+    },
+    {
+      "album": {
+        "name": "Napoli Undercore",
+        "url": "https://open.spotify.com/album/3lfqJSqIGoRI81dIJHbqGa"
+      },
+      "artists": [
+        {
+          "name": "specchiopaura",
+          "url": "https://open.spotify.com/artist/15OZuHjUnj9YAmwn5EXzrM"
+        },
+        {
+          "name": "SANO",
+          "url": "https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3"
+        },
+        {
+          "name": "Aaron Rumore",
+          "url": "https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Napoli Undercore",
+      "url": "https://open.spotify.com/track/4BiLwnOorWyeP75oDsVO3v"
     },
     {
       "album": {
@@ -2599,6 +2755,28 @@
       "duration_ms": 135326,
       "name": "NON TORNO + INDIETRO",
       "url": "https://open.spotify.com/track/7KGLXBqsrWV8BSENQSHmau"
+    },
+    {
+      "album": {
+        "name": "non \u00e8 giusto x me",
+        "url": "https://open.spotify.com/album/6yj68pJiY2jiGUDlA1DVaq"
+      },
+      "artists": [
+        {
+          "name": "Marco444",
+          "url": "https://open.spotify.com/artist/5wOm0bGomUCwtrXipTu0KQ"
+        },
+        {
+          "name": "Narcolessia",
+          "url": "https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159081,
+      "name": "non \u00e8 giusto x me",
+      "url": "https://open.spotify.com/track/53AQEs95pYSoBeOJXkvvvU"
     },
     {
       "album": {
@@ -3288,6 +3466,24 @@
     },
     {
       "album": {
+        "name": "Sidney / Roads",
+        "url": "https://open.spotify.com/album/5Uv53x3YST6xXOLRFrQ2bK"
+      },
+      "artists": [
+        {
+          "name": "Biemsix",
+          "url": "https://open.spotify.com/artist/1akamESwYotC264hdUKCzY"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376000,
+      "name": "Roads",
+      "url": "https://open.spotify.com/track/1RsvHHDe5Pr7nhHBhm6xXt"
+    },
+    {
+      "album": {
         "name": "Roma&Milano",
         "url": "https://open.spotify.com/album/2H4fq1mHOupRy9okiFfCqz"
       },
@@ -3321,7 +3517,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 197282,
       "name": "Rotterdam",
       "url": "https://open.spotify.com/track/0zyw45b8liedkjfjOUbPnQ"
@@ -3854,6 +4050,24 @@
     },
     {
       "album": {
+        "name": "Sui sedili della metro",
+        "url": "https://open.spotify.com/album/1Zp0SNFItqjRJxuyRD0ors"
+      },
+      "artists": [
+        {
+          "name": "NIVEO",
+          "url": "https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175807,
+      "name": "Sui sedili della metro",
+      "url": "https://open.spotify.com/track/0KlAZX612EFzgAfojYvN3L"
+    },
+    {
+      "album": {
         "name": "sumikko gurashi",
         "url": "https://open.spotify.com/album/6G9I4Zx3jbGzkMXW8wBviE"
       },
@@ -4293,7 +4507,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 163053,
       "name": "Universo",
       "url": "https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x"
@@ -4373,7 +4587,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 162765,
       "name": "Verso il sole",
       "url": "https://open.spotify.com/track/6vGGKNQnH91ZvSo1rVIAQv"

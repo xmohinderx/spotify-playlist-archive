@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: أصيل هميم
 
-124 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+126 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Dag El Galb](https://open.spotify.com/track/1YZwEiO1KyH9IFHwrMSl6u) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dag El Galb](https://open.spotify.com/album/69Ezh1ncGl5mV9C6Yj7NE3) | 3:10 | 2021-12-23 | 2022-02-10 |
 | [Dam Rasak](https://open.spotify.com/track/7p9XzKJgRVoFSclb4rtirn) | [Hasan Al Hayel](https://open.spotify.com/artist/0kFt9AEb81FjfcZYySEIit) | [Dam Rasak](https://open.spotify.com/album/6UDXOrXiBPyd1nO0hi5BsV) | 3:01 | 2021-12-23 | 2022-03-04 |
 | [Daqeqa w 3am](https://open.spotify.com/track/1XTbPVrq3N4xmviSRKLr1P) | [Humam Ibrahim](https://open.spotify.com/artist/5G8jeOHN04AHRt5Ln3kbX4) | [Daqeqa w 3am](https://open.spotify.com/album/0Y545sQM8fPudYGBAzlmuj) | 3:14 | 2022-02-17 |  |
-| [Eii Enta](https://open.spotify.com/track/2IUrw2RUKWwxP71q5GwmJL) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Eii Enta](https://open.spotify.com/album/1G3NhiDpVHLKvQZdwZeIiO) | 5:08 | 2022-02-11 |  |
+| [Eii Enta](https://open.spotify.com/track/2IUrw2RUKWwxP71q5GwmJL) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Eii Enta](https://open.spotify.com/album/1G3NhiDpVHLKvQZdwZeIiO) | 5:08 | 2022-02-11 | 2022-06-03 |
 | [Ekhtalafna](https://open.spotify.com/track/1YIHmuC6XZRZuLIblrCv0F) | [Qusai Hatem](https://open.spotify.com/artist/0FXMhCXO21QJNYSU9ZJOLO) | [Ekhtalafna](https://open.spotify.com/album/5dymvl1IGkANKYZkAMTbJT) | 3:43 | 2021-12-23 | 2022-03-12 |
 | [El Barha](https://open.spotify.com/track/2vyRQqSjCIfODAyqntNjlG) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [El Barha](https://open.spotify.com/album/5N18SA94PoeUQTeNfZ8eeN) | 4:02 | 2022-05-31 |  |
 | [El Danbos](https://open.spotify.com/track/7qrklTq7meUEtxoWvQ4Szo) | [Jalal Al Zain](https://open.spotify.com/artist/2FJoZRKDb3AokC3SITAV8E), [Ali El Sheekh](https://open.spotify.com/artist/18m9MbROBNKMf8Ux9nBvew) | [El Danbos](https://open.spotify.com/album/2Mw0drSusWl1evvmIXutX3) | 3:36 | 2021-12-23 | 2022-02-26 |
@@ -112,6 +112,7 @@
 | [Shqed Ahtajlk](https://open.spotify.com/track/4y5RoSOGGB9XS54cO1No8o) | [Ahmed Jawad](https://open.spotify.com/artist/4ZOVwS1XAGOXCKAqTFmsBP) | [Shqed Ahtajlk](https://open.spotify.com/album/6k6itTk9EeV5yddkYUIpIc) | 3:18 | 2022-01-14 | 2022-05-20 |
 | [Sit Wojooh](https://open.spotify.com/track/1yjah9rjkjHM9zorRJ7oEi) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Sit Wojooh](https://open.spotify.com/album/5lapnHKZ01fTIP2doKGWUM) | 3:07 | 2022-03-25 |  |
 | [Taal Nteer](https://open.spotify.com/track/6Zry9g2l8WFpoX83Lky6sq) | [Sattar Saad](https://open.spotify.com/artist/2XwGAWUjz9JYas4QTq0lQN), [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Taal Nteer](https://open.spotify.com/album/75rhxEVGf6zhVpWV8tZ7JE) | 4:20 | 2022-02-11 |  |
+| [Takheth Al Aqel](https://open.spotify.com/track/19lnl3mSePtp1ic4SLCGwe) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Takheth Al Aqel](https://open.spotify.com/album/48sJulWc8sXuzgL5aTbOH9) | 3:40 | 2022-06-02 |  |
 | [Tareekh El Aeshq](https://open.spotify.com/track/4D5WPY40ZlT8zfvC2xBHRp) | [Youssef Al Hanin](https://open.spotify.com/artist/1KWTTrDrafD1zHPpo0Tkwc) | [Tareekh El Aeshq](https://open.spotify.com/album/4va0YWP9VmX3XgcpMbtCC5) | 3:26 | 2021-12-23 | 2022-03-15 |
 | [Taztafzene](https://open.spotify.com/track/1bd28jYLaKNuuGfrtbbgCj) | [Mossa Elias](https://open.spotify.com/artist/4D5c9fsSG4qt0JEyJNZ269) | [Taztafzene](https://open.spotify.com/album/0G3beLDgPS6HdC0CCfQIPC) | 2:42 | 2021-12-23 | 2022-03-12 |
 | [Teba](https://open.spotify.com/track/0uBPeDdplbSOmp12hlLYO4) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Teba](https://open.spotify.com/album/1bS2s5HzuoKbHflXpWcsUS) | 4:10 | 2022-04-05 |  |
@@ -125,6 +126,7 @@
 | [Ya Ghality](https://open.spotify.com/track/59RLZGo87dYKyPOCcAAgSL) | [Ali Alsalem](https://open.spotify.com/artist/1YH6doLlnZd6Vjd4ylnBjP) | [Ya Ghality](https://open.spotify.com/album/2lNTAtqI85Bl1NVhu4RQp9) | 3:20 | 2022-01-14 | 2022-05-25 |
 | [Ya Satar](https://open.spotify.com/track/6wCx5p6IG0dmAbTU3zjSz9) | [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu), [Parwaz Hussein](https://open.spotify.com/artist/2qOj66Y9xT3dLPaVq8Thr1) | [Ya Satar](https://open.spotify.com/album/4IsPE2UDmvczVVRrBxtuXE) | 2:41 | 2021-12-23 | 2022-04-06 |
 | [Ya Teer](https://open.spotify.com/track/4WptRRUO1CVz1YPbgDEHTX) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Ya Teer](https://open.spotify.com/album/6xORNTTMhrmAeDX0WFdyBC) | 3:56 | 2021-12-23 | 2022-02-11 |
+| [Yazid Alhama](https://open.spotify.com/track/59ZuKOZER5zP4dCUe1U6wM) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [يزيد الهم](https://open.spotify.com/album/29D1k5ambOiIO7J9KuQzCf) | 4:40 | 2022-06-02 |  |
 | [Yekhnog](https://open.spotify.com/track/2h9VSz8bhwaVXaSFdRrUXM) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq), [Methaq](https://open.spotify.com/artist/55c0fnBF1EYaA941Z7srCZ) | [Yekhnog](https://open.spotify.com/album/1lvh7PSgMY6Lqt0qNOc9U5) | 4:45 | 2022-02-11 |  |
 | [اسوي الزين](https://open.spotify.com/track/5vrGaDTo4S60i4LcUW8mSV) | [Nasrat Albader](https://open.spotify.com/artist/0pepBeoErqYbqiCEMqFoKu), [غصين سبيروس](https://open.spotify.com/artist/4QncRPuvQ9vOuiJAxUEGHx) | [اسوي الزين](https://open.spotify.com/album/3ueyzP9c69TE1GPVui9c9i) | 3:49 | 2021-12-23 | 2022-03-26 |
 | [تبسي](https://open.spotify.com/track/1fdwrQdInEatnElvOZVuEL) | [KHALIFA OG](https://open.spotify.com/artist/0dNsEdHWYo7jFACFABQOWs) | [تبسي](https://open.spotify.com/album/3oMSpM04MvEJPbrBCjbpRT) | 2:57 | 2022-01-05 | 2022-05-14 |

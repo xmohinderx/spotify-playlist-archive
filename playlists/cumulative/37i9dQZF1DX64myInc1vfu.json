@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 240495,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 156371,
       "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 222766,
       "name": "Can't Take My Eyes Off You",
       "url": "https://open.spotify.com/track/5BN2Ce9azbw7FDR0vYkln6"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "Copa Rota",
       "url": "https://open.spotify.com/track/4YGgCgMivD5LUgxNEO2SpY"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 110526,
       "name": "la luna enamorada",
       "url": "https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 265086,
       "name": "Mi \u00daltimo Fracaso",
       "url": "https://open.spotify.com/track/33j8pvz67cQFfKX6PshhXH"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 172363,
       "name": "Salvavidas",
       "url": "https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 262634,
       "name": "Secreto de Amor",
       "url": "https://open.spotify.com/track/6O8i8TjMRlXdCH6JnotpKL"
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 210013,
       "name": "Sola",
       "url": "https://open.spotify.com/track/3doK7YkkgMtfD6qoXCkTWh"
@@ -1173,6 +1173,24 @@
       "duration_ms": 234128,
       "name": "Somos Algo",
       "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
+    },
+    {
+      "album": {
+        "name": "Imagina Ser",
+        "url": "https://open.spotify.com/album/1UI1aIgqOUBTOHZUzo71Av"
+      },
+      "artists": [
+        {
+          "name": "M\u00eda Rizzo",
+          "url": "https://open.spotify.com/artist/5LvJ9CM92axGdZuOQ55H10"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "sue\u00f1o",
+      "url": "https://open.spotify.com/track/1u7nvSknNQCsAATOictM7Z"
     },
     {
       "album": {
