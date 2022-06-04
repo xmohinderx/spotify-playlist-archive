@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Muse
 
-1,130 songs - 2 day 17 hr 18 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+1,131 songs - 2 day 17 hr 22 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1058,6 +1058,7 @@
 | [Video Games](https://open.spotify.com/track/4ROZ2M8GyBS58JjoQ3QCb9) | [Chapter and Verse](https://open.spotify.com/artist/0a3LMT0Jtt91cH7dhhyC78) | [Love & Error](https://open.spotify.com/album/1HVBh5hj3qkwmlkNYtP4nO) | 3:19 | 2022-03-31 | 2022-04-08 |
 | [Villains](https://open.spotify.com/track/0Ae8Zw70GtCGX1HqWXi1ay) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Villains](https://open.spotify.com/album/5Jz10OOCyxhk9yAKKQQGSN) | 4:03 | 2022-05-05 | 2022-05-13 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-06-02 |  |
+| [Voices In My Head](https://open.spotify.com/track/5XUuldRjPXcP5QxyEN4IXT) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Voices In My Head](https://open.spotify.com/album/7r9WVGq5YRQ4eeYUYzmk8b) | 3:11 | 2022-06-03 |  |
 | [Vortice](https://open.spotify.com/track/6RA1qE9WbVXmWdLWmjN8Z3) | [Raniss](https://open.spotify.com/artist/5V0f1RKm4X0Lh6HBLSps3V) | [Credere Di Pensare](https://open.spotify.com/album/74zRzOFTdEjTGycktwGa0Q) | 3:40 | 2022-04-14 | 2022-04-22 |
 | [Waiting For The Sunrise](https://open.spotify.com/track/2fVwrrimgW54kXfXoQvvXX) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Waiting For The Sunrise](https://open.spotify.com/album/755B3B6jLTBWoR1ELSnaIi) | 2:59 | 2022-02-17 | 2022-02-25 |
 | [Waiting On You](https://open.spotify.com/track/71f22NnyQgS5r0Ekyfrxrm) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Waiting On You](https://open.spotify.com/album/6I10Qzb2BTNRs6pftG2q54) | 3:16 | 2022-05-12 | 2022-05-20 |

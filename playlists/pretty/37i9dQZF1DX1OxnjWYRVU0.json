@@ -1,12 +1,12 @@
 {
   "description": "New takes on old classics!",
-  "num_followers": 318028,
+  "num_followers": 318302,
   "original_name": "Dance Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzYwMjUyMCwwMDAwMDBhZjAwMDAwMTgxMDI2NDBjNGMwMDAwMDE2ZWY0NTYzNzI0",
+  "snapshot_id": "MTY1NDI0Mjk0NywwMDAwMDBiMDAwMDAwMTgxMjg5MDMzMTQwMDAwMDE2ZWY0NTYzNzI0",
   "tracks": [
     {
       "added_at": "2022-05-26 22:02:00",
@@ -167,6 +167,26 @@
     {
       "added_at": "2022-05-26 22:02:00",
       "album": {
+        "name": "Because the Night",
+        "url": "https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 201330,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ"
+    },
+    {
+      "added_at": "2022-05-26 22:02:00",
+      "album": {
         "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
         "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
       },
@@ -229,6 +249,62 @@
       "url": "https://open.spotify.com/track/7zKaYgEl0ywPF3zUOw2BKg"
     },
     {
+      "added_at": "2022-06-03 07:55:47",
+      "album": {
+        "name": "From Paris to Berlin",
+        "url": "https://open.spotify.com/album/1R1EmM9vtg3zMk2udHeHfa"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        }
+      ],
+      "duration_ms": 155982,
+      "name": "From Paris to Berlin",
+      "url": "https://open.spotify.com/track/5Iyd7OK9tNJmglvVUqfc3g"
+    },
+    {
+      "added_at": "2022-06-03 07:55:47",
+      "album": {
+        "name": "My Worst",
+        "url": "https://open.spotify.com/album/55camwNumwyN984TLRcOx9"
+      },
+      "artists": [
+        {
+          "name": "Engstrom",
+          "url": "https://open.spotify.com/artist/2hOVY1S19pEzVBt9rhRCM7"
+        },
+        {
+          "name": "Luc Rushmere",
+          "url": "https://open.spotify.com/artist/7IfsuGH0v0gCTz4e5ZSD1p"
+        }
+      ],
+      "duration_ms": 131497,
+      "name": "My Worst",
+      "url": "https://open.spotify.com/track/7xOwLFwcF1HVbSU19ykco8"
+    },
+    {
+      "added_at": "2022-06-03 07:55:47",
+      "album": {
+        "name": "Counting Stars",
+        "url": "https://open.spotify.com/album/6pP0obntRYDlVM2kUu6q1t"
+      },
+      "artists": [
+        {
+          "name": "JANFRY",
+          "url": "https://open.spotify.com/artist/7xPwus0kL5smgbZkwKcvw8"
+        },
+        {
+          "name": "Strownlex",
+          "url": "https://open.spotify.com/artist/5VPm8zCi9khmmWLAD8W0SI"
+        }
+      ],
+      "duration_ms": 163204,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/3Ibj9W84ge1mFktsH5k5jB"
+    },
+    {
       "added_at": "2022-05-26 22:02:00",
       "album": {
         "name": "I Wanna Dance With Somebody",
@@ -267,26 +343,6 @@
       "duration_ms": 235488,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/3EpPHoe7GTQoN4Y38DNFye"
-    },
-    {
-      "added_at": "2022-05-26 22:02:00",
-      "album": {
-        "name": "Because the Night",
-        "url": "https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 201330,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ"
     },
     {
       "added_at": "2022-05-26 22:02:00",

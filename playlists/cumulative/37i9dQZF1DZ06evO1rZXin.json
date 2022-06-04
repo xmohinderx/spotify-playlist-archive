@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
   "name": "This Is Banda Vallarta Show",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2jDVG4jC8ZtuQapoLqA6dk"
+  ],
   "tracks": [
     {
       "album": {
@@ -363,7 +365,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 219240,
       "name": "El Pobre Caminante",
       "url": "https://open.spotify.com/track/7jYexhqsm6ZpasdPFVn4rO"
@@ -421,7 +423,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 194026,
       "name": "El Ultimo Rodeo",
       "url": "https://open.spotify.com/track/41BavIqhW0j16R7w6QCYEg"
@@ -511,7 +513,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 159653,
       "name": "La Negra Colora",
       "url": "https://open.spotify.com/track/723g6T7oEsGQiDQ5AQZ5Vq"
@@ -529,7 +531,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 145293,
       "name": "La Primera Caricia",
       "url": "https://open.spotify.com/track/2aLJvoRq7TvOqw02j3yfZ2"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-427 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
+428 songs - 1 day 0 hr 0 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-25 | 2021-06-13 |
 | [אבות ובנים](https://open.spotify.com/track/0LAPb9g7pvLmHgiVVmzyME) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/3b7OPwVWZgm4ifO1iRW5Nk) | 4:20 | 2022-05-05 | 2022-05-07 |
 | [אבות ובנים](https://open.spotify.com/track/1Nq92xyQrCzhHGuZSRtAcO) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/1uiw4JLkam9MJiHN7U12Z2) | 4:20 | 2021-04-16 | 2021-04-17 |
+| [אהובי לב אדום](https://open.spotify.com/track/2ICsg0MAobTLg4VVjW2iE5) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אהובי לב אדום](https://open.spotify.com/album/4OY25L91SZ7PPDiCgIHZDV) | 3:24 | 2022-06-03 |  |
 | [אהלן וסהלן](https://open.spotify.com/track/5paLSZ9sF5jc3aSOSjQf3b) | [Lehakat Sfataim](https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R) | [חגיגה מרוקאית](https://open.spotify.com/album/2zCCZGoHnjyu4jmh0INAMD) | 5:48 | 2021-04-05 | 2022-04-26 |
 | [אוחילה](https://open.spotify.com/track/07uIhNfeg1X7QZBl5BRxUK) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 3:50 | 2021-09-17 | 2021-09-18 |
 | [אור הירח](https://open.spotify.com/track/1B6qAMPiD7sv3WNI90ELMz) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [צו השעה \- צו שני](https://open.spotify.com/album/3pWGjr7mI83VwbBvYhzuhT) | 3:28 | 2021-03-27\* | 2021-04-01 |
@@ -269,7 +270,7 @@
 | [בזמן האחרון](https://open.spotify.com/track/5ezFz6Jwn7l40kIGAP4zmL) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [קצת שמח קצת עצוב](https://open.spotify.com/album/3J0HUIjrnO6O3laWJm9Xp9) | 3:19 | 2022-04-06 | 2022-05-05 |
 | [ביחד](https://open.spotify.com/track/3yyHRwblo5kk0fH9pfMP6M) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp), [Guy Mentesh](https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ) | [ביחד](https://open.spotify.com/album/0w2JUD94m7ZQ2o3uTMU4Y0) | 2:31 | 2021-08-26 |  |
 | [ביחד](https://open.spotify.com/track/4NJbK9op9ixBJVOXEwNK4R) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp), [Guy Mentesh](https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ) | [ביחד](https://open.spotify.com/album/5oC80Ft440Tc0cyRRefKsi) | 2:31 | 2021-03-27\* | 2021-08-26 |
-| [בית משוגעים](https://open.spotify.com/track/66iaD8MCoVnBtqUhuzdglT) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [בית משוגעים](https://open.spotify.com/album/569icpNOeFw5zZDePlrwJR) | 2:49 | 2021-03-27\* |  |
+| [בית משוגעים](https://open.spotify.com/track/66iaD8MCoVnBtqUhuzdglT) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [בית משוגעים](https://open.spotify.com/album/569icpNOeFw5zZDePlrwJR) | 2:49 | 2021-03-27\* | 2022-06-04 |
 | [בלילה](https://open.spotify.com/track/5gZHvM9bgp1bZP7bnatmXd) | [Moti Taka](https://open.spotify.com/artist/3kEhFsAwYboTCzo6Z0wjTN) | [בלילה](https://open.spotify.com/album/6tCZpprjuO5inKC5JaQEdL) | 3:18 | 2021-10-10 | 2021-11-21 |
 | [בראש השנה](https://open.spotify.com/track/336bQZpuJyMAYOxeXDGZy7) | [Naomi Shemer](https://open.spotify.com/artist/4V6wf2ynZAUYlG8WnyQrIz) | [כיצד שוברים חמסין](https://open.spotify.com/album/0vz5XZBx8h8MaLOFaGHkNQ) | 2:15 | 2021-09-08 | 2021-09-09 |
 | [ברחובות של תל אביב](https://open.spotify.com/track/4JSUFLR3Uo7FPCfNDRxIrx) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [מועבט](https://open.spotify.com/album/2ZgkEHTdjFkDHgM1yBpVf0) | 3:01 | 2021-05-21 | 2021-11-25 |

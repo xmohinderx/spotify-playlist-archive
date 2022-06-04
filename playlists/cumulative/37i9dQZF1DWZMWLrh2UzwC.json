@@ -13209,6 +13209,24 @@
     {
       "album": {
         "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/4ATg7M4n35AokS3748RFFO"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/0fElururinZektfZMpFFdN"
+    },
+    {
+      "album": {
+        "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/53boDLnPMdarcMa8JAD0DG"
       },
       "artists": [

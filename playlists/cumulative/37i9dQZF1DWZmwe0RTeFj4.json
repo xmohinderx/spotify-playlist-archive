@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 171613,
       "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
       "url": "https://open.spotify.com/track/1rjoK1uBEVZjOPGzxZbWDJ"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 206208,
       "name": "Aqui Seguimos",
       "url": "https://open.spotify.com/track/0JeMF25cnyvmt0K1fEztIf"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 178586,
       "name": "Creo Estar So\u00f1ando",
       "url": "https://open.spotify.com/track/5ASmmjwYwbDOraM1FDJQhM"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 230067,
       "name": "Destapen Otra",
       "url": "https://open.spotify.com/track/1PwJ1mDKBz7K3nQwxzw0Oh"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 191751,
       "name": "El Que a Ti Te Gusta",
       "url": "https://open.spotify.com/track/5drpITkUIpFNfuP2eCWAz4"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 154978,
       "name": "El Seven",
       "url": "https://open.spotify.com/track/07y97kTaxDblALAqQyubsP"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 183347,
       "name": "El Yoyo",
       "url": "https://open.spotify.com/track/53lyBENuC5Y1V9OPUSiFPH"
@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 175293,
       "name": "La Ley Del Monte",
       "url": "https://open.spotify.com/track/28Te0vpH7Ef9Qvd0s8mNkP"
@@ -1609,7 +1609,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 186120,
       "name": "La Super Del Barril",
       "url": "https://open.spotify.com/track/660F2s421In55amf3bkFMU"
@@ -1645,7 +1645,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 124749,
       "name": "La Vida Ruina (En Vivo Desde La Perla Tapatia)",
       "url": "https://open.spotify.com/track/6CaJzPuQFqwZ2AAj5jET3y"
@@ -2528,6 +2528,24 @@
     },
     {
       "album": {
+        "name": "Que Me Extra\u00f1as",
+        "url": "https://open.spotify.com/album/49DD02Il1gwX61heeVgou8"
+      },
+      "artists": [
+        {
+          "name": "Gera Demara",
+          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194133,
+      "name": "Que Me Extra\u00f1as",
+      "url": "https://open.spotify.com/track/43MeRoZnKTXoLQlORolyNC"
+    },
+    {
+      "album": {
         "name": "Que Sea",
         "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
       },
@@ -3091,7 +3109,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 222586,
       "name": "Vagos y Carajos",
       "url": "https://open.spotify.com/track/2mPqMSZeUHBV4Kme6jmCDN"

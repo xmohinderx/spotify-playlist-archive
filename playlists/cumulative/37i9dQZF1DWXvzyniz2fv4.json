@@ -774,6 +774,28 @@
     },
     {
       "album": {
+        "name": "Marshmallow",
+        "url": "https://open.spotify.com/album/24O2Emosddo9pRVxZcAwAT"
+      },
+      "artists": [
+        {
+          "name": "RAMON",
+          "url": "https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl"
+        },
+        {
+          "name": "Tchello",
+          "url": "https://open.spotify.com/artist/7m7zHLfw3T0SAZxYVRrE5h"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Marshmallow",
+      "url": "https://open.spotify.com/track/6Vgcv9xcSMztBg3Z3Z77kG"
+    },
+    {
+      "album": {
         "name": "Mar\u00edlia Mendon\u00e7a",
         "url": "https://open.spotify.com/album/46SOz1ZyHOohm8ADANNKGs"
       },
@@ -1495,7 +1517,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 298901,
       "name": "Vai Gostosa",
       "url": "https://open.spotify.com/track/0a1a1u80SpD9heQ2ZbZ3vb"

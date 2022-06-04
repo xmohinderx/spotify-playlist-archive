@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/6o3JqgH3dgXLgEeE6fS9EF"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/6Ih1CtkPRpZaVNFnFdxbNZ"
+    },
+    {
+      "album": {
         "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
       },
@@ -950,6 +968,28 @@
     },
     {
       "album": {
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3g5F6Ckn3UmjUg8RLtI3jr"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243462,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/1bOmrCiSsjC5FZLErHP3V6"
+    },
+    {
+      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc"
       },
@@ -983,7 +1023,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 166437,
       "name": "Perfecta en Mis Ojos",
       "url": "https://open.spotify.com/track/2an1crKGNWXdviPTzWyH0I"
@@ -1131,7 +1171,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 201066,
       "name": "Rep\u00edtelo",
       "url": "https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX"
@@ -1250,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208988,
+      "name": "Te Busque",
+      "url": "https://open.spotify.com/track/4RNBrR5tmuZKSAdNo9w5ht"
+    },
+    {
+      "album": {
         "name": "Sin Corte",
         "url": "https://open.spotify.com/album/6u1jmCdZsZTaLQywoAdVsZ"
       },
@@ -1261,7 +1319,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 173466,
       "name": "Te Voy a Amar",
       "url": "https://open.spotify.com/track/1rmVmQOzV8k93cKhUcEcfr"

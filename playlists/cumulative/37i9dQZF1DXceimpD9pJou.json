@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones cristianas.  Foto: Damaris Guerra & CRYS",
+  "description": "Las mejores nuevas canciones cristianas.  Foto: Redimi2",
   "name": "Novedades Cristianas",
   "published_playlist_ids": [
     "1KUPUNIHlkycouwTjzbQCF"
@@ -146,6 +146,24 @@
     },
     {
       "album": {
+        "name": "A \u00c9l La Gloria (Live)",
+        "url": "https://open.spotify.com/album/3XQywfUJ7IxOaP802oMyT4"
+      },
+      "artists": [
+        {
+          "name": "Kabed",
+          "url": "https://open.spotify.com/artist/5SF3bDnF19ZbOnrR1l6p3g"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 607898,
+      "name": "A \u00c9l La Gloria - Live",
+      "url": "https://open.spotify.com/track/1fwGOVIrKDOtB2CdJ74Zaf"
+    },
+    {
+      "album": {
         "name": "Abba",
         "url": "https://open.spotify.com/album/4eZ6JwW8bnsZRnNVUV3IJ4"
       },
@@ -157,7 +175,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 213340,
       "name": "Abba",
       "url": "https://open.spotify.com/track/5weYrPdlyU60nNnaxebYL2"
@@ -323,7 +341,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 310574,
       "name": "Amor de Hermano",
       "url": "https://open.spotify.com/track/3E1ThoX0j8BvY09CmjlEsO"
@@ -613,6 +631,24 @@
       "duration_ms": 423893,
       "name": "Bendita Esperanza - Live",
       "url": "https://open.spotify.com/track/1zadQBdLuwX58zNfMTqCjW"
+    },
+    {
+      "album": {
+        "name": "Bendito Amor",
+        "url": "https://open.spotify.com/album/55YEkVmbGvPoefXkH61QhL"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148030,
+      "name": "Bendito Amor",
+      "url": "https://open.spotify.com/track/76lCr666St0dE5DXbhdTL6"
     },
     {
       "album": {
@@ -963,7 +999,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 221879,
       "name": "Coraz\u00f3n de Piedra",
       "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
@@ -1503,7 +1539,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 225930,
       "name": "El Dise\u00f1ador",
       "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
@@ -1695,7 +1731,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 205060,
       "name": "En Ti",
       "url": "https://open.spotify.com/track/6qSm8izuz8ANZ17rvLH3jJ"
@@ -2334,6 +2370,24 @@
     },
     {
       "album": {
+        "name": "Gu\u00edame",
+        "url": "https://open.spotify.com/album/6OVSRwTmVqFaYZyqsNgklT"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203790,
+      "name": "Gu\u00edame",
+      "url": "https://open.spotify.com/track/11iSxK5GHFhq2mgKMJStGs"
+    },
+    {
+      "album": {
         "name": "Dios, Familia & Rap",
         "url": "https://open.spotify.com/album/1lue6TfOPJ4qL1EXkQ2Kne"
       },
@@ -2367,6 +2421,28 @@
       "duration_ms": 111111,
       "name": "His Will > Mine",
       "url": "https://open.spotify.com/track/6bDQdwXEsVXX72kOiUSEKA"
+    },
+    {
+      "album": {
+        "name": "Relevantes",
+        "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        },
+        {
+          "name": "Onell D\u00edaz",
+          "url": "https://open.spotify.com/artist/7vXVqEONMbFtv1hvqjrRjV"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210370,
+      "name": "Humillado Feat. Onell Diaz",
+      "url": "https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863"
     },
     {
       "album": {
@@ -2429,7 +2505,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 214373,
       "name": "Incapaz",
       "url": "https://open.spotify.com/track/61YCTayGinpVgiQa3w4POa"
@@ -2545,6 +2621,24 @@
       "duration_ms": 205555,
       "name": "La Bella & El Feo",
       "url": "https://open.spotify.com/track/1VLwJI7cglBG3q14aSiFEa"
+    },
+    {
+      "album": {
+        "name": "La Compasi\u00f3n",
+        "url": "https://open.spotify.com/album/7eKBf1EiVHwximTcFK0yIt"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230201,
+      "name": "La Compasi\u00f3n",
+      "url": "https://open.spotify.com/track/09V1KoqxrO0H6cQDPgkxOh"
     },
     {
       "album": {
@@ -2665,7 +2759,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 396842,
       "name": "Levantar\u00e9 (Live)",
       "url": "https://open.spotify.com/track/420RhVNyDVv8iQhlDhZwxr"
@@ -3249,7 +3343,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 436304,
       "name": "Medley de Adoraci\u00f3n",
       "url": "https://open.spotify.com/track/0Ec2Ia4AeynPUcMqKjEVkq"
@@ -3479,7 +3573,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 293833,
       "name": "Mi Milagro",
       "url": "https://open.spotify.com/track/5Cftis8Wls5oTBC1IVuOkB"
@@ -3515,7 +3609,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 231012,
       "name": "Mi Prioridad",
       "url": "https://open.spotify.com/track/5Jo5gSZLBs52YeQGFiGr2t"
@@ -3867,6 +3961,24 @@
       "duration_ms": 588837,
       "name": "No Hay Nada Imposible",
       "url": "https://open.spotify.com/track/40lu3hXRB2fJhDKuPGrnGL"
+    },
+    {
+      "album": {
+        "name": "QNSATL (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5tpJYx4tgz0tnDznxAEDtc"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170426,
+      "name": "No Me Fallar\u00e1s (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1i8YP4CIkubWytqlsql2Vf"
     },
     {
       "album": {
@@ -4339,7 +4451,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 244506,
       "name": "Que Es La Que Hay",
       "url": "https://open.spotify.com/track/4jfyliVzYqgRnNYWUpqQFH"
@@ -4626,6 +4738,24 @@
     },
     {
       "album": {
+        "name": "Rompiendo",
+        "url": "https://open.spotify.com/album/0ikfluHlNd2jx7kLJ01Mtp"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253746,
+      "name": "Rompiendo",
+      "url": "https://open.spotify.com/track/67Ykm1OX2dKXh5W9jwPB8a"
+    },
+    {
+      "album": {
         "name": "Sala 23",
         "url": "https://open.spotify.com/album/5Vj8916FPNAkL0aAYcUZyA"
       },
@@ -4893,6 +5023,32 @@
       "duration_ms": 173118,
       "name": "Siempre Ha Estado Aqui",
       "url": "https://open.spotify.com/track/09GnpJ8bUqNfdW8CxnkoQa"
+    },
+    {
+      "album": {
+        "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
+        "url": "https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy"
+      },
+      "artists": [
+        {
+          "name": "Despinal",
+          "url": "https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe"
+        },
+        {
+          "name": "JMV",
+          "url": "https://open.spotify.com/artist/41RExBzz44kVRp7C2FsjgR"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185361,
+      "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
+      "url": "https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo"
     },
     {
       "album": {
@@ -5388,6 +5544,24 @@
     },
     {
       "album": {
+        "name": "Alumbras Mi Vida",
+        "url": "https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH"
+      },
+      "artists": [
+        {
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197217,
+      "name": "Tienes Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5fW9gpZJLeXiKLuO2Mhs7L"
+    },
+    {
+      "album": {
         "name": "Tierra Prometida",
         "url": "https://open.spotify.com/album/2X2TKIVD411wzu9uWcERLR"
       },
@@ -5439,7 +5613,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 197000,
       "name": "Tres Tazas",
       "url": "https://open.spotify.com/track/1QfWCkCKjpcZCq1IWSiBL9"
@@ -5667,10 +5841,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 417777,
       "name": "T\u00fa Tienes Nuestro S\u00ed",
       "url": "https://open.spotify.com/track/6OJNoz1IsEnnptVqQDJFSa"
+    },
+    {
+      "album": {
+        "name": "U Love Me",
+        "url": "https://open.spotify.com/album/2Ic1m1L0BNJ1SnqpOXaYQd"
+      },
+      "artists": [
+        {
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216365,
+      "name": "U Love Me",
+      "url": "https://open.spotify.com/track/13zloswXBqSlWz7ZNhzKBc"
     },
     {
       "album": {
@@ -6015,6 +6207,24 @@
       "duration_ms": 290702,
       "name": "YHWH",
       "url": "https://open.spotify.com/track/6jJ6bAj2kEblJNMKoq1TU1"
+    },
+    {
+      "album": {
+        "name": "Yo Conf\u00edo en Ti",
+        "url": "https://open.spotify.com/album/2B1tpJPB2JScSteKirIlAv"
+      },
+      "artists": [
+        {
+          "name": "Pablo Martinez",
+          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238418,
+      "name": "Yo Conf\u00edo en Ti",
+      "url": "https://open.spotify.com/track/2G4u7xYMbEVFcwH2pv7nYc"
     },
     {
       "album": {

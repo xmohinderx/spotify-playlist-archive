@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 240039,
       "name": "Afterburner",
       "url": "https://open.spotify.com/track/3zeS75ZBNbUoAZW9eKUk4f"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 420000,
       "name": "Atmosfer - Dr. Parnassus Remix",
       "url": "https://open.spotify.com/track/38B8FogBbXu8sIkZK9NFmt"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 216774,
       "name": "Beta Girl Lost in Forever",
       "url": "https://open.spotify.com/track/0UnklwphmoX6I0kZJK8Gg7"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 228196,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1wdLaeNn73zbpYVqw8mlYz"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 304402,
       "name": "Continuous Wave",
       "url": "https://open.spotify.com/track/1N2P27RuYcD1yCN5z0aGjg"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 245750,
       "name": "Credits Where Credit's Due",
       "url": "https://open.spotify.com/track/6w7JSjk9UbA9LwEHPWsoPF"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 303750,
       "name": "Crossing Over",
       "url": "https://open.spotify.com/track/4JkUUMeMgzuPlLvytFv5Cz"
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 198545,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/1i3F8GA8NrSkvUi7LSkacK"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 272173,
       "name": "Failed Star",
       "url": "https://open.spotify.com/track/39wuQ4m4GBzrGfivIjjL22"
@@ -1437,7 +1437,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 235862,
       "name": "Fractal Forms",
       "url": "https://open.spotify.com/track/63ad26ATXX70Ra2GxCPvvx"
@@ -1629,7 +1629,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 259591,
       "name": "Ghost Ship",
       "url": "https://open.spotify.com/track/56N8p428pdGMvLHRWmklzH"
@@ -1647,7 +1647,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 345473,
       "name": "Golden Taurus",
       "url": "https://open.spotify.com/track/4yR6KeaGWGEDpVRiDFXeR7"
@@ -2059,7 +2059,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "Karpen Island",
       "url": "https://open.spotify.com/track/09U5UJaUJM9PPVGLtJpfBo"
@@ -2077,7 +2077,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 155227,
       "name": "keep on",
       "url": "https://open.spotify.com/track/4Jnvo8mfZjXl911b9gFxZO"
@@ -2366,6 +2366,24 @@
     },
     {
       "album": {
+        "name": "Lost Island",
+        "url": "https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273844,
+      "name": "Lost Island",
+      "url": "https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr"
+    },
+    {
+      "album": {
         "name": "Legend of Synthwave",
         "url": "https://open.spotify.com/album/4TeZZfbu3rbifAjwiAAEq8"
       },
@@ -2457,7 +2475,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 231533,
       "name": "Maximum Performance",
       "url": "https://open.spotify.com/track/0VpFKLQP6Deh6sHETGCzrp"
@@ -2635,7 +2653,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 339999,
       "name": "Montrose",
       "url": "https://open.spotify.com/track/1AOgtzDke3CphmxVKqUQbO"
@@ -2827,7 +2845,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 252121,
       "name": "Nightride (Revisited)",
       "url": "https://open.spotify.com/track/52xsz9WmVwCXiRFOvMh5yQ"
@@ -2979,7 +2997,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 278130,
       "name": "October",
       "url": "https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2"
@@ -3051,7 +3069,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 253714,
       "name": "Oort",
       "url": "https://open.spotify.com/track/28uuISsg3eTxJsa4yFP5Mm"
@@ -3167,7 +3185,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 249836,
       "name": "Outrun This!",
       "url": "https://open.spotify.com/track/0VxIcxjv4XaJvq8dBR49iT"
@@ -3369,7 +3387,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 235650,
       "name": "Prime Operator",
       "url": "https://open.spotify.com/track/2jwc7czRortvzSg9HSKdKB"
@@ -3495,7 +3513,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 344347,
       "name": "Remoteness",
       "url": "https://open.spotify.com/track/5P2n0uDcFJdlWEXmT0JPgx"
@@ -3687,7 +3705,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 221928,
       "name": "Shout - The Forgotten Remix",
       "url": "https://open.spotify.com/track/5aa8TV2mnOYHhHl0t9ymMu"
@@ -3795,7 +3813,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 239360,
       "name": "Space Between Us",
       "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
@@ -4001,7 +4019,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 196124,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/0boFCbuZjHFMRBbueUaXXz"
@@ -4023,7 +4041,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 235514,
       "name": "Summer Is Over - Fury Weekend Remix",
       "url": "https://open.spotify.com/track/3YN9eeNlFB4zEStaV9RBlo"
@@ -4175,7 +4193,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 202494,
       "name": "Territory",
       "url": "https://open.spotify.com/track/0HWFz9sKXuXlIZgVUvOKPU"
@@ -4269,7 +4287,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "The Getaway",
       "url": "https://open.spotify.com/track/0zHgzptlVUBsgExpIDsrFQ"
@@ -4305,7 +4323,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 134666,
       "name": "The Mansion",
       "url": "https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD"
@@ -4485,7 +4503,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 186947,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg"
@@ -4623,7 +4641,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 374400,
       "name": "Visitors",
       "url": "https://open.spotify.com/track/3zT42LxWW5YUFEZDukGp5x"
@@ -4721,7 +4739,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 270720,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4QnTtQJnAxK61zOibTJpYT"
@@ -4845,7 +4863,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 150289,
       "name": "Years and Elements",
       "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"

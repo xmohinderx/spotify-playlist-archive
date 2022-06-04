@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Mason Ramsey
 
-94 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
+95 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [International Harvester](https://open.spotify.com/track/0Ta3jOf8m9yCSWMVwd8Qlf) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Little Bit Of Life](https://open.spotify.com/album/1xG8gT4MixyJTNlvvXbU4F) | 3:48 | 2021-12-03 |  |
 | [Jealous Of The Sky](https://open.spotify.com/track/2mB9977U7jcJGiYDVQeS7B) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Jealous Of The Sky](https://open.spotify.com/album/5olugkWtxs5ZXqJnCUntRY) | 3:23 | 2021-12-03 |  |
 | [Just About Over You](https://open.spotify.com/track/4Ec0q0j8hRTCX4QQ5MiHSX) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You](https://open.spotify.com/album/6re9IhLwe8c8pauqj1Fgma) | 2:59 | 2021-12-03 |  |
+| [Keith](https://open.spotify.com/track/5xl3kGoK3namYGZX46Vt0S) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Keith](https://open.spotify.com/album/5vhfSn7rFEfy8jxuoI1PGE) | 2:51 | 2022-06-03 |  |
 | [Kiss Tomorrow Goodbye](https://open.spotify.com/track/3loYYWdPlLiUCq1jiSPfT6) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe) | 3:23 | 2022-06-01 |  |
 | [Lady May](https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:03 | 2021-12-03 |  |
 | [Like A Boy](https://open.spotify.com/track/4PogesCtj51SnEM2ZqLp6r) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Like A Boy](https://open.spotify.com/album/57IFh9v1WO3rBi7NVO7gR3) | 2:44 | 2021-12-03 |  |

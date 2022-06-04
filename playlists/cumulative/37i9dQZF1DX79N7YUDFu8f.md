@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-108 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
+109 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Chateau](https://open.spotify.com/track/2eKTPiHsDLaVV5aJpjW7Y3) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Chateau](https://open.spotify.com/album/08cceZ2uTJGPx6lsHDAaiU) | 4:33 | 2021-11-24 |  |
 | [Close To You](https://open.spotify.com/track/0ptKXVvF6qrNAjm9HGG0Rw) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [De Beste Singer Songwriter van Nederland 2](https://open.spotify.com/album/5rWkw0mK0WGSWtZnfKE8DV) | 4:50 | 2021-11-24 |  |
 | [Closer To The Sun](https://open.spotify.com/track/5qQ7HmA57BxMfHEOtWuPCF) | [Frank Rensen](https://open.spotify.com/artist/4nahdbp2YzcisSOrGyVBAP) | [Closer To The Sun](https://open.spotify.com/album/7tCbZ4Kx4ksIKqRTnoM3Eo) | 3:47 | 2021-11-24 |  |
-| [Cruel Heart](https://open.spotify.com/track/4D7tOyEvUdzNvkDXuD0PQW) | [Novastar](https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1) | [In The Cold Light of Monday](https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i) | 2:51 | 2021-11-24 |  |
+| [Cruel Heart](https://open.spotify.com/track/4D7tOyEvUdzNvkDXuD0PQW) | [Novastar](https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1) | [In The Cold Light of Monday](https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i) | 2:51 | 2021-11-24 | 2022-06-04 |
 | [Daisy Dukes](https://open.spotify.com/track/5FDiYtSHAao9GnAgm2dcST) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Daisy Dukes](https://open.spotify.com/album/23DLPcGwO0tQWz6VomUQry) | 3:41 | 2021-11-24 |  |
 | [Days of Old](https://open.spotify.com/track/7EUoHpKl506IJQlpYQUBsc) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Days of Old](https://open.spotify.com/album/6WUfZhaL11rvcFlgLtvQJP) | 3:15 | 2021-11-24 |  |
 | [Don't Forget About Me](https://open.spotify.com/track/04eXDIDkXFrfZQeJtLERVh) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68pBVLvF14n0d3c6BYlOTk) | 4:28 | 2021-11-24 |  |
@@ -112,6 +112,7 @@
 | [Walk the Line](https://open.spotify.com/track/1FkdHaOhueTnCiyC5jDzVs) | [Reuben de Melo](https://open.spotify.com/artist/267x7yH33pbgo6NcO9YQEZ) | [Walk the Line](https://open.spotify.com/album/5v1xQI24LD63dspgqTU283) | 4:28 | 2021-11-24 |  |
 | [Wasn't Expecting That](https://open.spotify.com/track/7nm68uKwGwMqznlOSBxhps) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Wasn't Expecting That](https://open.spotify.com/album/5XqxTXtO3W4bDntGmNBc9q) | 3:21 | 2021-11-24 |  |
 | [We Watched It All Come Down](https://open.spotify.com/track/0y9Pp4kymVGpIclcc1bKBC) | [Nina June](https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ) | [We Watched It All Come Down](https://open.spotify.com/album/0CVNw1pe7Zry9CBQfdOls3) | 3:52 | 2021-11-24 | 2022-03-25 |
+| [When Times Get Rough](https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [When Times Get Rough](https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui) | 2:16 | 2022-06-03 |  |
 | [Where's My Love](https://open.spotify.com/track/3XRDrBtoCJAMDQJgSzJ9WT) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/79eTuxHrv8BNv6yPosXC9J) | 3:22 | 2021-11-24 |  |
 | [Wishes](https://open.spotify.com/track/1kSBUhFBZT6z62eTTjeJLi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 | 2022-01-27 |  |
 | [You Let Me Walk Alone](https://open.spotify.com/track/2VE2Ys42iJr9q9rVucRJT4) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [You Let Me Walk Alone](https://open.spotify.com/album/2zxvzQeDY4lmXsJnS6Hxun) | 2:57 | 2021-11-24 |  |

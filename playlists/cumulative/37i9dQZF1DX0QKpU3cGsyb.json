@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 189226,
       "name": "Bl\u00fc Moon",
       "url": "https://open.spotify.com/track/3fZYsBgwG8TUI53S14V0HD"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 231547,
       "name": "Decide",
       "url": "https://open.spotify.com/track/7kgkHtqxN1es6hHW6SQJPG"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 207551,
       "name": "everything",
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 139271,
       "name": "EVERYTHING I WANT",
       "url": "https://open.spotify.com/track/7xaVK8LCtFkig2HKTrukwg"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 248250,
       "name": "Feel",
       "url": "https://open.spotify.com/track/3a8vuQ21AzGHP82BmrMV0H"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 209493,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 206226,
       "name": "Free Like Me",
       "url": "https://open.spotify.com/track/0grbhFgGDSVcPeWRXehe8U"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 168751,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/2ZS9p6DEd54quGRhUk4zaH"
@@ -977,6 +977,24 @@
       "duration_ms": 209777,
       "name": "Here We Go\u2026 Again (feat. Tyler, the Creator)",
       "url": "https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf"
+    },
+    {
+      "album": {
+        "name": "Hello Poison",
+        "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199401,
+      "name": "Hideout",
+      "url": "https://open.spotify.com/track/0oMOKD8pgXhibcjO9abzEB"
     },
     {
       "album": {
@@ -1245,7 +1263,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 225680,
       "name": "Lost in You",
       "url": "https://open.spotify.com/track/0IMN5gKigig38WmRozfxr4"
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 164565,
       "name": "Memories",
       "url": "https://open.spotify.com/track/3S4gq91XRuohTTfJZAiGVK"
@@ -1383,7 +1401,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 216160,
       "name": "Moon",
       "url": "https://open.spotify.com/track/4u5sbHIPXsL3ixbOVOow3M"
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 165132,
       "name": "O.M.L. (feat. DESTIN CONRAD)",
       "url": "https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S"
@@ -1537,7 +1555,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 197074,
       "name": "OMW",
       "url": "https://open.spotify.com/track/0fSdTWC36g1Y44tpKzp7f2"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 154634,
       "name": "Rebel (feat. Jeremih)",
       "url": "https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR"
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 219686,
       "name": "Red Lights (feat. Wale)",
       "url": "https://open.spotify.com/track/0nzqv2KS3q7SMA2s18RbAJ"
@@ -1853,7 +1871,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 225919,
       "name": "Situations",
       "url": "https://open.spotify.com/track/0w9PgFcTJOlUiadfPVefxs"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 176640,
       "name": "Situationship",
       "url": "https://open.spotify.com/track/2e0bYXa7BRXqPilw9Qj49f"
@@ -2089,7 +2107,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 220151,
       "name": "Try Peace...",
       "url": "https://open.spotify.com/track/26H5U6YRMbzunMgCe89r0s"
@@ -2221,7 +2239,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 301304,
       "name": "Wasting Time ( feat. Drake & The Neptunes )",
       "url": "https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c"

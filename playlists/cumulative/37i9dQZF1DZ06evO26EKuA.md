@@ -4,7 +4,7 @@
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 53 min - not published yet
+52 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/6BOH8BsKezQ5TxHeOKr4t0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

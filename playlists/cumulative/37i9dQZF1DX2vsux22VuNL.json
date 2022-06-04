@@ -57,7 +57,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 288222,
       "name": "916LOVE",
       "url": "https://open.spotify.com/track/5kx9HlOAWhWbn1OzDOm7OM"
@@ -75,7 +75,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 192644,
       "name": "A Noite Toda",
       "url": "https://open.spotify.com/track/0bjMyBjIg4uEc3zTetGva8"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 204885,
       "name": "Angra (Ao Vivo)",
       "url": "https://open.spotify.com/track/1KyRQRnsaXa1is8P1CByWP"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 163468,
       "name": "Cart\u00e3o Postal",
       "url": "https://open.spotify.com/track/0PURZY6U06lMfqvwnvLWPs"
@@ -666,6 +666,36 @@
     },
     {
       "album": {
+        "name": "At\u00e9 o Pr\u00f3ximo Carnaval",
+        "url": "https://open.spotify.com/album/7eKjbCk2rSfN4qIo1gCFAK"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        },
+        {
+          "name": "Vertigo",
+          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Encaixa",
+      "url": "https://open.spotify.com/track/0ktKLa4sJ9Jc7AVUXeBvkd"
+    },
+    {
+      "album": {
         "name": "Esqueminha (Hit Label Sessions #3)",
         "url": "https://open.spotify.com/album/1rzqRTPF0kbAObzFe6VngB"
       },
@@ -689,7 +719,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 214736,
       "name": "Esqueminha - Hit Label Sessions #3",
       "url": "https://open.spotify.com/track/7m83wo6XbJ9YJ0mS1EeiYb"
@@ -766,6 +796,36 @@
     },
     {
       "album": {
+        "name": "Fora de contexto",
+        "url": "https://open.spotify.com/album/2qWZTDrMZaYJOkYHssLIWN"
+      },
+      "artists": [
+        {
+          "name": "Trist\u00e3o",
+          "url": "https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH"
+        },
+        {
+          "name": "Camargo",
+          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
+        },
+        {
+          "name": "RalphTheKiD",
+          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
+        },
+        {
+          "name": "Joab Beats",
+          "url": "https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125969,
+      "name": "Fora de contexto",
+      "url": "https://open.spotify.com/track/6pyEoSCvWdCvl0EAkVdpDp"
+    },
+    {
+      "album": {
         "name": "Fui Eu",
         "url": "https://open.spotify.com/album/3qwj0K7CI3VH6j27jOukK4"
       },
@@ -781,7 +841,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 101052,
       "name": "Fui Eu",
       "url": "https://open.spotify.com/track/1fleF67U8sTqrCgbt58ujl"
@@ -945,6 +1005,24 @@
       "duration_ms": 203520,
       "name": "Luz da Lua",
       "url": "https://open.spotify.com/track/71i1attKK5wZKNPUYOHRB0"
+    },
+    {
+      "album": {
+        "name": "Madrugadas",
+        "url": "https://open.spotify.com/album/1CzjD6xN2QkFQwW0YfqAm2"
+      },
+      "artists": [
+        {
+          "name": "PZR",
+          "url": "https://open.spotify.com/artist/0aZU7G0Z9CxSwMyRZRefMa"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168260,
+      "name": "Madrugadas",
+      "url": "https://open.spotify.com/track/3WO8zBeGsmFiOkcLgXl1kb"
     },
     {
       "album": {
@@ -1262,6 +1340,44 @@
     },
     {
       "album": {
+        "name": "On\u00e7a Sessions #2 - Sobe Adrenalina",
+        "url": "https://open.spotify.com/album/5gVDwlM3V4T8Qzxt1fX2vG"
+      },
+      "artists": [
+        {
+          "name": "On\u00e7a Sessions",
+          "url": "https://open.spotify.com/artist/1xVwlSBWBrYAuwIBKIKUbr"
+        },
+        {
+          "name": "Raffa Mogi",
+          "url": "https://open.spotify.com/artist/1GzNbVSgVruCtWjQAHVKYF"
+        },
+        {
+          "name": "Ronan Romma",
+          "url": "https://open.spotify.com/artist/5Qq4LMkTlirnIjO16ZRdvt"
+        },
+        {
+          "name": "Bean",
+          "url": "https://open.spotify.com/artist/5YgYMgQNJZPXatzG24aIhj"
+        },
+        {
+          "name": "Milani",
+          "url": "https://open.spotify.com/artist/5huxN96K0OcuxIwuxVSI9e"
+        },
+        {
+          "name": "Mc Arthur",
+          "url": "https://open.spotify.com/artist/69IZAnKubpzMZlUG602sBN"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325750,
+      "name": "On\u00e7a Sessions #2 - Sobe Adrenalina",
+      "url": "https://open.spotify.com/track/4ohl1Edvlp5BNF03lAwGO7"
+    },
+    {
+      "album": {
         "name": "Peda\u00e7o de Mim",
         "url": "https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B"
       },
@@ -1340,6 +1456,24 @@
     },
     {
       "album": {
+        "name": "Periferia",
+        "url": "https://open.spotify.com/album/3RELpLOZYzEOalB4O1MZGd"
+      },
+      "artists": [
+        {
+          "name": "WD",
+          "url": "https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163725,
+      "name": "Periferia",
+      "url": "https://open.spotify.com/track/3tEdTu6qhlIqgqu261plPu"
+    },
+    {
+      "album": {
         "name": "Pimenta",
         "url": "https://open.spotify.com/album/4uNMPFLGmrvLhMWGgT8fT7"
       },
@@ -1359,7 +1493,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 164839,
       "name": "Pimenta",
       "url": "https://open.spotify.com/track/12LpEgxl7XLiuvv0PXj1DT"
@@ -1582,6 +1716,28 @@
     },
     {
       "album": {
+        "name": "Saturno",
+        "url": "https://open.spotify.com/album/1bUwo2rcqeWHbH1mRPHgmj"
+      },
+      "artists": [
+        {
+          "name": "Priscila Tossan",
+          "url": "https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181877,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/0NhspKUShMWkPz1RnFyNeX"
+    },
+    {
+      "album": {
         "name": "jovemCARLOS",
         "url": "https://open.spotify.com/album/0YAr9017bY6ojo4GGk7ijC"
       },
@@ -1675,6 +1831,36 @@
       "duration_ms": 206451,
       "name": "Sentir Saudade",
       "url": "https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n"
+    },
+    {
+      "album": {
+        "name": "Session 2000 #1 - Nosso Caso",
+        "url": "https://open.spotify.com/album/1LOQ4gimnWelmCgwGJDMNR"
+      },
+      "artists": [
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Matheus Muniz",
+          "url": "https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170668,
+      "name": "Session 2000 #1 - Nosso Caso",
+      "url": "https://open.spotify.com/track/4QjEVs35MCprEmPO3zZS7K"
     },
     {
       "album": {

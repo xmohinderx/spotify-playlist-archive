@@ -4,7 +4,7 @@
 
 > Well known songs in a soft Bossa landscape.
 
-104 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/25GUqW5JgOJRI76d5fMAD3)
+107 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/25GUqW5JgOJRI76d5fMAD3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [It's a Shame \- Bossa Version](https://open.spotify.com/track/1bnKFexAdGeEIrdeD6DqzL) | [Rachelle Spring](https://open.spotify.com/artist/3LPPGZrVd6moExHlmR7zLr) | [Relaxing Bossa Lounge, Vol\. 16](https://open.spotify.com/album/0xZcDtdHBHWvp9xzeFqhq9) | 3:26 | 2022-03-10 |  |
 | [Just the Two of Us](https://open.spotify.com/track/40xfrgYXqDTF7bxzcjD3cN) | [Cris Delanno](https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd) | [Relaxing Bossa Lounge Vol\. 12](https://open.spotify.com/album/6yN6qpyhq5LBTQg2gOcxBK) | 3:55 | 2022-03-10 |  |
 | [Kashmir](https://open.spotify.com/track/3e68uPImGtXMsWh7ixigu7) | [Tranquil Twilight](https://open.spotify.com/artist/7gpmEGB1G4wg9JO4PhQe9m) | [New Love](https://open.spotify.com/album/0QSj0UZIulXsTfvFK2lT6w) | 5:08 | 2022-03-10 |  |
+| [Killing Me Softly \(Bossa version\)](https://open.spotify.com/track/5TNHOFeNKPU1uwYlIetsjO) | [Goergeana Bonow](https://open.spotify.com/artist/25VivtV8vqrjP0HoCXZGKr) | [Relaxing Bossa Lounge 5](https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ) | 3:21 | 2022-06-03 |  |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/1gmfA9UeAKWEgS9qQx8OSZ) | [Bossa Nova Project](https://open.spotify.com/artist/7GQVeFa14DLGmqM3KsABNq) | [Killing Me Softly With His Song](https://open.spotify.com/album/31WwS1pEqFxCAv0m3clOiM) | 4:14 | 2022-03-10 |  |
 | [Lá Vem o Brasil Descendo a Ladeira](https://open.spotify.com/track/6s1ctvxbpVBvazIrdOCO7l) | [Levitação](https://open.spotify.com/artist/3UN99pD6bZtalFMfjSBBTJ), [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [Lá Vem o Brasil Descendo a Ladeira](https://open.spotify.com/album/1GWeorh1seabsvYkqXE6lD) | 3:18 | 2022-03-10 |  |
 | [Let Her Go](https://open.spotify.com/track/5PYR8kczV8VG6H3V6hlu5N) | [Rio Branco](https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D), [Bossanova Covers](https://open.spotify.com/artist/11FyPK488W0qoA3jpUj4oq) | [Bossa Nova Covers](https://open.spotify.com/album/4WWtF9vuBBzIcIITcynYNY) | 4:07 | 2022-03-10 |  |
@@ -97,6 +98,7 @@
 | [Somewhere Over The Rainbow \- Bossa Version](https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K) | [Olga Chung](https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 3:24 | 2022-03-10 |  |
 | [Stand by Me](https://open.spotify.com/track/5JagoCyaJWBriQfGdhTAVs) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Stand by Me](https://open.spotify.com/album/6VWQ5Fx6Cra41j3zSDBvVE) | 3:06 | 2022-03-10 |  |
 | [Standing Outside in the Rain](https://open.spotify.com/track/6MmUiXsyqAehKtQrTOp9JH) | [Groove Da Praia](https://open.spotify.com/artist/0wf8Rn6bjZgEkKp0eV9omw), [Luca Giacco](https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC) | [Standing Outside in the Rain](https://open.spotify.com/album/7nnDMT5mu5FjjKpKjzRKFF) | 2:28 | 2022-03-10 |  |
+| [Stayin’ Alive](https://open.spotify.com/track/5KgnB166PJ24Oypfe8petC) | [Margaux de Fouchier](https://open.spotify.com/artist/1f8f6hYKM3spjGBUB6RkCx) | [Stayin' Alive](https://open.spotify.com/album/3plUh4cu5YpQJRHY61QHBN) | 3:37 | 2022-06-03 |  |
 | [Summertime Sadness \(Bossa Nova Version\) \[Originally Performed By Lana Del Rey\]](https://open.spotify.com/track/7fu2faNjkEZWrHxpBdHJw6) | [The Bossa Nova All Stars](https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box) | [Relaxing Bossa Nova Cover Hits](https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO) | 4:32 | 2022-03-10 |  |
 | [Sunday Best](https://open.spotify.com/track/5RrY34g0sNf76ynA3SEarW) | [Hot Spot Band](https://open.spotify.com/artist/280Ye8CB89v9PCZE1b2H8s), [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Sunday Best](https://open.spotify.com/album/4K3x2c6Juuuq5nTHR56TYr) | 2:36 | 2022-03-10 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/2DHoF695nEPtbWMiqFeDTy) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Sweet Child O' Mine](https://open.spotify.com/album/7k2tdsIiuaQY0fLXiO7V1a) | 3:24 | 2022-05-04 |  |
@@ -106,6 +108,7 @@
 | [The Rhythm of the Night \- Bossa Nova](https://open.spotify.com/track/7DozSLsVUbTWHupPiyYb3T) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [The Rhythm of the Night \(Bossa Nova\)](https://open.spotify.com/album/0w6iLHWXpRE3nDOUZOVzpF) | 3:12 | 2022-03-10 |  |
 | [Toxic \- Bossa Nova Version](https://open.spotify.com/track/7mxTlJ34gOUeJ2s9h74c61) | [Tea Lundgren](https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc) | [Toxic](https://open.spotify.com/album/4KnWqJs0550TX6VglRNCjk) | 2:55 | 2022-03-10 |  |
 | [Under My Thumb](https://open.spotify.com/track/3a3WkFkamEZsGsjnymi3hy) | [Anakelly](https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9) | [Bossa n' Stones \(Limited Edition\)](https://open.spotify.com/album/6fpDCF0v1qTzONOmBhqhRO) | 2:46 | 2022-03-10 |  |
+| [Viva La Vida \- Bossa Version](https://open.spotify.com/track/2RHTYieGCulnGxOmyl7tl3) | [Scubba](https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV) | [Vintage Café \- Lounge & Jazz Blends \(Special Selection\), Pt\. 9](https://open.spotify.com/album/3bRhpBXLNhVGSjY31jrraJ) | 4:09 | 2022-06-03 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/1Rj6CJd8ZFH5oz4SUm0LD5) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf), [Daniela Maia](https://open.spotify.com/artist/3ajvG2YMqaRBAO6qOMHnNT) | [Best of Bossa Lounge \(Millenium Edition\)](https://open.spotify.com/album/1jP8363d7EK6QHKYq8eZhX) | 3:21 | 2022-05-04 |  |
 | [We Found Love \(Bossa Nova Style\) \[Originally Performed By Rihanna and Calvin Harris\]](https://open.spotify.com/track/0YJRmdHf7PJKqBq564BKLW) | [The Bossa Nova All Stars](https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box) | [Relaxing Bossa Nova Cover Hits](https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO) | 3:47 | 2022-03-10 |  |
 | [Weak](https://open.spotify.com/track/24mJZpO5vC4weHpATNQXef) | [La Cabana Reyo](https://open.spotify.com/artist/2OULNPMNW4thsI4HFAm0y3) | [Weak](https://open.spotify.com/album/0KrngwmfWFAvlwbaWI25Nb) | 3:23 | 2022-03-10 |  |

@@ -6788,7 +6788,7 @@
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 200611,
+      "duration_ms": 202253,
       "name": "Brustna hj\u00e4rtans klubb",
       "url": "https://open.spotify.com/track/5UdQaGNx7gEuTPpViyn9th"
     },
@@ -10857,9 +10857,27 @@
           "url": "https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx"
         }
       ],
-      "date_added": "2022-06-02",
+      "date_added": "2022-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201812,
+      "name": "Din hund",
+      "url": "https://open.spotify.com/track/7KLYgRHHB1cMGc8HWs7M5L"
+    },
+    {
+      "album": {
+        "name": "Din hund",
+        "url": "https://open.spotify.com/album/6O8OVKPzKVRb3p1ccns3qy"
+      },
+      "artists": [
+        {
+          "name": "bob hund",
+          "url": "https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
       "duration_ms": 201812,
       "name": "Din instrumental",
       "url": "https://open.spotify.com/track/7ejSlflastIKy33adx44SJ"
@@ -19281,6 +19299,24 @@
       "duration_ms": 197976,
       "name": "Highlights",
       "url": "https://open.spotify.com/track/661aQVzf9b72TVokFEcWsc"
+    },
+    {
+      "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/1FUt5mvfCu2xChvr9PdUNG"
+      },
+      "artists": [
+        {
+          "name": "Julius",
+          "url": "https://open.spotify.com/artist/0z3L14pVgawbyez74SLf1U"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210676,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/2YauDO4935sBGnV5C7M7r7"
     },
     {
       "album": {

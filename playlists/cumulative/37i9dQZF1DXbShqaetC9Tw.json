@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 177680,
       "name": "11:59 (feat. Goopy)",
       "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 165184,
       "name": "blur",
       "url": "https://open.spotify.com/track/2BCCYSCBiejFyNwwCayyf6"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 119401,
       "name": "but I'll wait for you",
       "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 210461,
       "name": "Close to the end",
       "url": "https://open.spotify.com/track/534of4xXNHXK9DOk0BRIK9"
@@ -530,6 +530,28 @@
     },
     {
       "album": {
+        "name": "ARIA II : Vendetta",
+        "url": "https://open.spotify.com/album/0mNJrHxXLpCvBmPfvWSLTf"
+      },
+      "artists": [
+        {
+          "name": "gamma",
+          "url": "https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3"
+        },
+        {
+          "name": "unofficialboyy",
+          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "ddu-du-du (feat. unofficialboyy)",
+      "url": "https://open.spotify.com/track/2vqBAbjsed0GYFlTTYYcyt"
+    },
+    {
+      "album": {
         "name": "DENIAL (Radio Edit)",
         "url": "https://open.spotify.com/album/5NkizpSqO2AGCM6uKF035c"
       },
@@ -577,7 +599,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 183296,
       "name": "Don't Be Blue",
       "url": "https://open.spotify.com/track/4vV9ew8qqO8hPUy7CWN6j5"
@@ -747,7 +769,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 161029,
       "name": "Fall",
       "url": "https://open.spotify.com/track/7svclK1SQzNAmClGHXkEMy"
@@ -773,7 +795,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Far Away (Feat. H:SEAN, SWRY) (Prod. Liam K)",
       "url": "https://open.spotify.com/track/4y3zwYdCDCRUnRsXP9gBLI"
@@ -937,7 +959,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 183896,
       "name": "Hate this love",
       "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
@@ -995,7 +1017,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 190000,
       "name": "I`m not ready yet",
       "url": "https://open.spotify.com/track/1jbUZJlpPejvs6QAe31rNu"
@@ -1147,7 +1169,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 172013,
       "name": "Lights",
       "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
@@ -1183,7 +1205,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Lonley Night",
       "url": "https://open.spotify.com/track/1z74DqFEFLL1ZBSu0ef6Lq"
@@ -1219,7 +1241,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 184026,
       "name": "lullaby",
       "url": "https://open.spotify.com/track/6sKXC3X5tw2jQ3IUFp4DWt"
@@ -1397,6 +1419,28 @@
       "duration_ms": 226000,
       "name": "Night after night (Feat. Hauzee)",
       "url": "https://open.spotify.com/track/4ix7WeS3DYGa9wfexshzJ7"
+    },
+    {
+      "album": {
+        "name": "New Edition 41",
+        "url": "https://open.spotify.com/album/1XI748LrBjy0ui2wEPqpEM"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Dawon",
+          "url": "https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195187,
+      "name": "Not Bad (feat. Dawon)",
+      "url": "https://open.spotify.com/track/5Qjsh4Xp6YQJIFSPWTdyAC"
     },
     {
       "album": {
@@ -1683,7 +1727,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 181211,
       "name": "sad love song",
       "url": "https://open.spotify.com/track/3JySL9qlm77KxpKueHH5Cp"
@@ -1741,7 +1785,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 265329,
       "name": "Something in my",
       "url": "https://open.spotify.com/track/214AR4TslH7qdFSWQecM7R"
@@ -1915,7 +1959,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 124913,
       "name": "the day we first met",
       "url": "https://open.spotify.com/track/5gCLED9Td32I3QAwRTFpeg"
@@ -2133,7 +2177,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 153720,
       "name": "when i was your man (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/6XKKfWOUqyx3HpEKvIF6Vy"

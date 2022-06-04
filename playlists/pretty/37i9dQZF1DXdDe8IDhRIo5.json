@@ -1,13 +1,41 @@
 {
   "description": "Django and beyond.",
-  "num_followers": 256775,
+  "num_followers": 256811,
   "original_name": "Hot Club Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzYyNDEyMCwwMDAwMDAzNjAwMDAwMTgxMDNhZGEzMWQwMDAwMDE3NzZlNzBjNGJl",
+  "snapshot_id": "MTY1NDIyODkyMCwwMDAwMDAzNzAwMDAwMTgxMjdiYTI3MTEwMDAwMDE3NzZlNzBjNGJl",
   "tracks": [
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Manh\u00e3 De Carnaval",
+        "url": "https://open.spotify.com/album/1jUp60E71hj9TfKDzmA9ZA"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+        },
+        {
+          "name": "R\u00e9mi Oswald",
+          "url": "https://open.spotify.com/artist/6KUtGQ6FEjH493OF67v40v"
+        },
+        {
+          "name": "\u00c9douard Pennes",
+          "url": "https://open.spotify.com/artist/0sy0hPMUdzFlHYbGkgwxr2"
+        },
+        {
+          "name": "French Connection",
+          "url": "https://open.spotify.com/artist/6KeMArvyYyLT7d8FYg5uze"
+        }
+      ],
+      "duration_ms": 223293,
+      "name": "Manh\u00e3 de Carnaval",
+      "url": "https://open.spotify.com/track/6QM1knKdwTPjiqOR9TfwnQ"
+    },
     {
       "added_at": "2022-05-27 04:02:00",
       "album": {

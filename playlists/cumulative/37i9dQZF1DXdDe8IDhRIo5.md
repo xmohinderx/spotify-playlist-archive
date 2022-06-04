@@ -4,7 +4,7 @@
 
 > Django and beyond.
 
-69 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
+70 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Lito's Place](https://open.spotify.com/track/3DvGrsZ5SO9ylp6CMApa3k) | [Alfonso Ponticelli](https://open.spotify.com/artist/7yKXHHnqgpUHCNRhc0kbVs) | [Alfonso Ponticelli & Swing Gitan](https://open.spotify.com/album/2zterfAy7NEHc8O1nEkcmY) | 4:26 | 2021-02-04 |  |
 | [Love Me Tender \- Live](https://open.spotify.com/track/5cQSyGA79OctwjxXycj2Bu) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG), [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Love Me Tender \(Live\)](https://open.spotify.com/album/2dWnnnESq6l0egIfNe3J7x) | 6:26 | 2022-04-01 |  |
 | [Manha de Carnaval](https://open.spotify.com/track/06jmkrbrUZ7HEh2eEzPJZh) | [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu), [Mozes](https://open.spotify.com/artist/4uRpFQ2D51xyz2O4V9pqon), [Johnny Rosenberg](https://open.spotify.com/artist/4Vmy9w1GyZZ0qId7ZKmkB6) | [La Familia](https://open.spotify.com/album/6ZUxCJngtDjEGevpeyHuTd) | 5:11 | 2021-02-04 |  |
+| [Manhã de Carnaval](https://open.spotify.com/track/6QM1knKdwTPjiqOR9TfwnQ) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Rémi Oswald](https://open.spotify.com/artist/6KUtGQ6FEjH493OF67v40v), [Édouard Pennes](https://open.spotify.com/artist/0sy0hPMUdzFlHYbGkgwxr2), [French Connection](https://open.spotify.com/artist/6KeMArvyYyLT7d8FYg5uze) | [Manhã De Carnaval](https://open.spotify.com/album/1jUp60E71hj9TfKDzmA9ZA) | 3:43 | 2022-06-03 |  |
 | [Manoir de mes rêves](https://open.spotify.com/track/4NZRU7uEZEL4nH29wAXtCg) | [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu) | [Roots](https://open.spotify.com/album/0vN2kv5uBDKL6BYkjQ4GUn) | 5:49 | 2021-02-04 |  |
 | [Manéa](https://open.spotify.com/track/0eH6ScCAEPzUS080uH5OHW) | [Florin Niculescu](https://open.spotify.com/artist/2HdcSFjH7Q29VYf89WIHLs), [Corneliu Niculescu](https://open.spotify.com/artist/3P09Y4zaLlwrNCmVWRHbII) | [Florilège \(L'Esprit Roumain\)](https://open.spotify.com/album/56QU1JJKq21GSapXj5MeLG) | 8:03 | 2021-02-04 |  |
 | [Minor Swing](https://open.spotify.com/track/0NDjQezJaEC1KX9TfwEfzf) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Djangologie Vol6 / 1937](https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf) | 3:16 | 2021-02-04 |  |

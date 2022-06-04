@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-03",
-  "description": "De la douceur pour accompagner votre journ\u00e9e. Photo: Jeffrey Piton",
+  "description": "De la douceur pour accompagner votre journ\u00e9e. Photo: Peter Peter",
   "name": "Caf\u00e9 montr\u00e9alais",
   "published_playlist_ids": [
     "17ts8jbTOK4YpL5tyLJ1kX"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 217560,
       "name": "1, 2, 3, 4",
       "url": "https://open.spotify.com/track/4vJGPuwAEtR9xmRZHdWOqm"
@@ -408,6 +408,24 @@
     },
     {
       "album": {
+        "name": "SESSION LIVE H2T",
+        "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211002,
+      "name": "Beaut\u00e9 baroque - Session live H2T",
+      "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
+    },
+    {
+      "album": {
         "name": "Nameless",
         "url": "https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU"
       },
@@ -419,7 +437,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 221824,
       "name": "Birds",
       "url": "https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2021-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 216000,
       "name": "Bloc appartement",
       "url": "https://open.spotify.com/track/7cHDCbp1I6oZVwox0fEFcG"
@@ -513,7 +531,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 166306,
       "name": "C'est Plus Comme Avant - Version Acoustique",
       "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 245426,
       "name": "Derri\u00e8re le bruit",
       "url": "https://open.spotify.com/track/4sF6AeNfYOEbTOWuhfix7a"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 247880,
       "name": "Doux",
       "url": "https://open.spotify.com/track/1ShsVA7nrhUVGFWXWU3M8T"
@@ -1245,7 +1263,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 222186,
       "name": "En attendant l'aube",
       "url": "https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 179426,
       "name": "Entre deux montagnes",
       "url": "https://open.spotify.com/track/7CmCroVZ8z3c2UtwK2XiXi"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 176536,
       "name": "Fables - The Garden Version",
       "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
@@ -1851,7 +1869,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 207493,
       "name": "Insensible",
       "url": "https://open.spotify.com/track/2DrmNQXCBchAPlraQe6szZ"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 235960,
       "name": "J'ai tout oubli\u00e9",
       "url": "https://open.spotify.com/track/1k1WXy8A5NjSMaTB5ibcO3"
@@ -1999,7 +2017,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 206386,
       "name": "J'trouve \u00e7a beau",
       "url": "https://open.spotify.com/track/33gIRI0EOFISryPJtSVCqJ"
@@ -2173,7 +2191,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 244893,
       "name": "Kil",
       "url": "https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD"
@@ -2317,7 +2335,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 214075,
       "name": "L'oeil de la temp\u00eate",
       "url": "https://open.spotify.com/track/6hqZ7Gse9RLqbLl8SItu0s"
@@ -2461,7 +2479,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 234593,
       "name": "La flamme",
       "url": "https://open.spotify.com/track/2ZGHA6poKjdYF53JdhJfMl"
@@ -2479,7 +2497,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 204649,
       "name": "La lettre",
       "url": "https://open.spotify.com/track/5T0pz4KYzXrOBWxrBvpZ8W"
@@ -2677,7 +2695,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 215291,
       "name": "Laissez-Moi",
       "url": "https://open.spotify.com/track/7KEPFYAiLCen71RTOMUzup"
@@ -3163,7 +3181,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 158480,
       "name": "Les \u00e9pousailles",
       "url": "https://open.spotify.com/track/3YBtUOXgW8FwxkAzphFAzx"
@@ -3301,7 +3319,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 197728,
       "name": "Lubie",
       "url": "https://open.spotify.com/track/3WoduPYTnBKYKnawyMzrJE"
@@ -3553,7 +3571,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 191108,
       "name": "Merci de rien",
       "url": "https://open.spotify.com/track/1HULX1oWsUEA39EGptA3fh"
@@ -3571,7 +3589,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 214720,
       "name": "Mille et un",
       "url": "https://open.spotify.com/track/4zxigPiHkizg6tHTDkC8GW"
@@ -3867,7 +3885,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 231906,
       "name": "Nos corps",
       "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
@@ -3885,7 +3903,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 236026,
       "name": "Nos corps qui se longent",
       "url": "https://open.spotify.com/track/239bGYtMgOU7OqFlt5LJPb"
@@ -3939,7 +3957,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 219344,
       "name": "Nos visages",
       "url": "https://open.spotify.com/track/4lLctkMLQJAlg8sTzfBFGY"
@@ -4413,7 +4431,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 257838,
       "name": "Pleure pas pour moi",
       "url": "https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ"
@@ -4721,7 +4739,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 208746,
       "name": "Quelque chose de beau",
       "url": "https://open.spotify.com/track/2SAAhzhAr2zntNxLIvD0wf"
@@ -4739,7 +4757,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 171546,
       "name": "Qui a mis le feu",
       "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
@@ -4815,7 +4833,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 187893,
       "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
       "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
@@ -5129,7 +5147,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 213000,
       "name": "Swimmer",
       "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
@@ -5273,7 +5291,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 301853,
       "name": "Tes yeux",
       "url": "https://open.spotify.com/track/2dlWYj35UwwhCFRgsemKMN"
@@ -5309,7 +5327,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 187373,
       "name": "The Great Escape",
       "url": "https://open.spotify.com/track/1GIPP103zfsythULEpsmdw"

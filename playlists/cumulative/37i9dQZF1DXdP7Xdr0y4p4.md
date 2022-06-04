@@ -4,7 +4,7 @@
 
 > An essential list of recent hits of SoGo\.  Cover: 11th Hour
 
-70 songs - 4 hr 21 min - not published yet
+70 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/0cTu18H5FuoqEK3v4T9BcB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -258,6 +258,28 @@
     },
     {
       "album": {
+        "name": "B.O",
+        "url": "https://open.spotify.com/album/4VWuoQ8w7QS9E2enXbx7px"
+      },
+      "artists": [
+        {
+          "name": "A2",
+          "url": "https://open.spotify.com/artist/39frOJcRmHQYo8QXgVbOG9"
+        },
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192080,
+      "name": "B.O",
+      "url": "https://open.spotify.com/track/3P5LT1wpHz8jAC9MDkRJei"
+    },
+    {
+      "album": {
         "name": "Coisas Que Realmente Importam",
         "url": "https://open.spotify.com/album/6HKNugkYvEyYRBGfI5Esbc"
       },
@@ -631,7 +653,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 150519,
       "name": "C\u00e2mera Lenta",
       "url": "https://open.spotify.com/track/4LHU1wrSyY92roSuDefnMY"
@@ -804,6 +826,28 @@
     },
     {
       "album": {
+        "name": "Dmj",
+        "url": "https://open.spotify.com/album/7pnXjIyWeqZL70VRMNzVmP"
+      },
+      "artists": [
+        {
+          "name": "Bressan",
+          "url": "https://open.spotify.com/artist/4bIljUi6cWDE72NslXxEAA"
+        },
+        {
+          "name": "Saint",
+          "url": "https://open.spotify.com/artist/4v3ACiWUD7fo3qhxydxvbz"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156685,
+      "name": "Dmj",
+      "url": "https://open.spotify.com/track/0OfBhMZ8806UXNT6Cdtkgq"
+    },
+    {
+      "album": {
         "name": "Dona da Vibe",
         "url": "https://open.spotify.com/album/6gaR9YishjVc1XiLLsbYFr"
       },
@@ -823,7 +867,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 157521,
       "name": "Dona da Vibe",
       "url": "https://open.spotify.com/track/6ITuu0hykVCxiH5ubRl86O"
@@ -1117,7 +1161,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 156800,
       "name": "Hoje Eu N\u00e3o Vou",
       "url": "https://open.spotify.com/track/5fU1UfLS2fIepqeI3xofZx"
@@ -1277,6 +1321,28 @@
       "duration_ms": 157894,
       "name": "Maria",
       "url": "https://open.spotify.com/track/4hn0vyRTJ7TRmtKi9VJA3Y"
+    },
+    {
+      "album": {
+        "name": "Marra de Artista",
+        "url": "https://open.spotify.com/album/3V3T1pR3bRGSelBDSjAInI"
+      },
+      "artists": [
+        {
+          "name": "Choji",
+          "url": "https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB"
+        },
+        {
+          "name": "Kloe",
+          "url": "https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153062,
+      "name": "Marra de Artista",
+      "url": "https://open.spotify.com/track/0O4uL4Q3EYgWvbaxDC8qSz"
     },
     {
       "album": {
@@ -1487,6 +1553,10 @@
         {
           "name": "Original Quality",
           "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        },
+        {
+          "name": "lWally",
+          "url": "https://open.spotify.com/artist/2r6Kehsh7Isrp0ofpaPSko"
         }
       ],
       "date_added": "2022-05-27",

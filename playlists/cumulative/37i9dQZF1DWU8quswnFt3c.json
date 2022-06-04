@@ -2136,6 +2136,24 @@
     },
     {
       "album": {
+        "name": "La vitesse",
+        "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
+      },
+      "artists": [
+        {
+          "name": "Iz\u00efa",
+          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197520,
+      "name": "Etoile noire",
+      "url": "https://open.spotify.com/track/7D8lO8l8QLSKahYnuKK9ls"
+    },
+    {
+      "album": {
         "name": "Eva+Eva (feat. Rose Villain)",
         "url": "https://open.spotify.com/album/7JAbbByzQ8jd8QPXlJlnfX"
       },
@@ -4341,7 +4359,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 140423,
       "name": "Mesero",
       "url": "https://open.spotify.com/track/21CrqHsZwx6RJKShoYOvJf"

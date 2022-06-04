@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-120 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+121 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [History](https://open.spotify.com/track/17PRPgnKH4flrbnZmgSGzJ) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [In the Waiting](https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd) | 3:44 | 2021-04-19 | 2022-04-29 |
 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 | 2021-08-06 |  |
 | [I Can't \(Acoustic\)](https://open.spotify.com/track/7jjeVkCrL7K9ej9Pxt76bb) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova Acoustic](https://open.spotify.com/album/6osrioku931TjO8ybo7oGX) | 3:32 | 2021-04-19 |  |
+| [I Don't Know \(w/ ELIO\)](https://open.spotify.com/track/79MW6Qm22GDnUJ3i2vttxp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/album/6DtyHq5JfijIBqWvDdPtKw) | 2:26 | 2022-06-03 |  |
 | [I Don't Wanna See You Cryin' Anymore](https://open.spotify.com/track/75GzLKzGuCPSayNucAoSC6) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Plan On You](https://open.spotify.com/album/4W9M5fDfBHAPbq9ee8VLcW) | 3:43 | 2021-04-19 | 2022-04-29 |
 | [I Remember Everything](https://open.spotify.com/track/1eZAhlXyK6XMIQbrfgiGd5) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [I Remember Everything](https://open.spotify.com/album/4tpKYRzS2AZIB0N7s0Woms) | 2:41 | 2021-04-19 |  |
 | [I Will Stay](https://open.spotify.com/track/4Y0qZxIXZrb2CKonEwCDzf) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [What It Is](https://open.spotify.com/album/440AzTicFLovCInQhORffL) | 2:34 | 2021-04-19 |  |
@@ -72,7 +73,7 @@
 | [phase of me](https://open.spotify.com/track/7n8W0rzwYi0Z8PW84tqrr7) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [phase of me](https://open.spotify.com/album/7p7RgglpB7caGq30EHubrm) | 2:55 | 2021-04-19 | 2022-04-29 |
 | [Pick up Our Boots](https://open.spotify.com/track/4Smq0MN0zQWg2fjUE54evF) | [100 mile house](https://open.spotify.com/artist/5t7Du7mr4SuO68pIFCdCVc) | [Hiraeth](https://open.spotify.com/album/4mwUeQptlQ9im6Vdv3QPDu) | 3:08 | 2021-04-19 | 2022-04-29 |
 | [Place We Were Made](https://open.spotify.com/track/0xKGPkn1RLsVifjDs4183v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/1lFHYunIYd9r5R3dNVpTOT) | 3:05 | 2021-04-19 |  |
-| [Pluto](https://open.spotify.com/track/5AtD5ZcZee93yu2hocKRE5) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Pluto](https://open.spotify.com/album/3fGpT8efoOvPY2ruWiH58b) | 4:05 | 2021-05-07 |  |
+| [Pluto](https://open.spotify.com/track/5AtD5ZcZee93yu2hocKRE5) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Pluto](https://open.spotify.com/album/3fGpT8efoOvPY2ruWiH58b) | 4:05 | 2021-05-07 | 2022-06-04 |
 | [Pretty Blue View](https://open.spotify.com/track/5t9f0NGMiwHKF3D8mTWEyW) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Pretty Blue View \(Acoustic\)](https://open.spotify.com/album/61hocUPG68jPN1jDNHZ7mu) | 3:39 | 2021-04-19 |  |
 | [Pretty Shiny Things](https://open.spotify.com/track/1VJwwtODVYNjgk1O7J16m0) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Pretty Shiny Things](https://open.spotify.com/album/1sQsBkSzUDRZOGh3WlYmKS) | 3:08 | 2021-04-19 |  |
 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 | 2021-04-19 |  |
@@ -86,7 +87,7 @@
 | [Salvation Bound](https://open.spotify.com/track/2oiOrBjI5jCAHzxsk94Tne) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | ['87](https://open.spotify.com/album/55gCIl2LqtXopTZHUtMqp3) | 4:18 | 2021-04-19 | 2022-04-29 |
 | [Secrets](https://open.spotify.com/track/09JkoxugEb7f647ZOYJWKr) | [Holly Auna](https://open.spotify.com/artist/2aefoxhYo07rsDSSWgPUO1) | [Love Shouldn't Be so Hard](https://open.spotify.com/album/5LT7V0tguPUv9AWIjXZ8E1) | 3:45 | 2021-04-19 |  |
 | [Shadows](https://open.spotify.com/track/1YQqDS69c6OhMMeEZ2PbQY) | [Johnson Crook](https://open.spotify.com/artist/56oIzWywvNu41cJQVc6ico) | [The Album](https://open.spotify.com/album/0L4UdA9Ik2aGpDIHJEwCU3) | 4:59 | 2021-04-19 |  |
-| [Sing Along](https://open.spotify.com/track/1zb4ZZelw0x6HSlAElN2VR) | [Corey Smith](https://open.spotify.com/artist/2Da6v0shOpKrOG07ZxonXo) | [Sing Along](https://open.spotify.com/album/1SVQFBoPhymTt2uTkEUY9H) | 3:06 | 2021-04-19 |  |
+| [Sing Along](https://open.spotify.com/track/1zb4ZZelw0x6HSlAElN2VR) | [Corey Smith](https://open.spotify.com/artist/2Da6v0shOpKrOG07ZxonXo) | [Sing Along](https://open.spotify.com/album/1SVQFBoPhymTt2uTkEUY9H) | 3:06 | 2021-04-19 | 2022-06-04 |
 | [Sit Here And Love Me](https://open.spotify.com/track/3HNmRvdUy8Ms0iefdvM0nk) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Sit Here And Love Me](https://open.spotify.com/album/1uxkoe2SMjfBabPr6MWSJP) | 3:25 | 2021-04-19 |  |
 | [Someday](https://open.spotify.com/track/7lzN9YCOgAWSJpyfCnoLeN) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Someday](https://open.spotify.com/album/3RmRr6DvjdZlnC4Wl1fTAC) | 3:12 | 2021-10-01 |  |
 | [Stand Like an Oak](https://open.spotify.com/track/6VXHUPu7zooSbuu8ZyKu9M) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Stand Like an Oak](https://open.spotify.com/album/3hMbzAsZb8Wl78Ob7aGhGO) | 3:01 | 2021-04-19 |  |

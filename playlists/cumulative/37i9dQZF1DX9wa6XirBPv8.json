@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 202573,
       "name": "All over You",
       "url": "https://open.spotify.com/track/4b9jRNwMUvABxTD1amyfA6"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 151911,
       "name": "Fucked up Kids",
       "url": "https://open.spotify.com/track/0X0Sce0TWkuYnT8PdNgcB1"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 186866,
       "name": "Hands Down",
       "url": "https://open.spotify.com/track/6I1HRAkeErdwrOJIfRrfIO"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 209906,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/5bSud2NmPvQgMGXOE9vsPi"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 257399,
       "name": "Only One",
       "url": "https://open.spotify.com/track/0gZp88SA5OcujHLDGkxtI3"
@@ -1142,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281040,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3VVstQ0fpj4pdSPe2QZT5z"
+    },
+    {
+      "album": {
         "name": "Now You See Inside",
         "url": "https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z"
       },
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 167200,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 187880,
       "name": "Situations",
       "url": "https://open.spotify.com/track/1Fu9o08qEKVEwzU8siVcig"
@@ -1801,7 +1819,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 205706,
       "name": "We Own The Night",
       "url": "https://open.spotify.com/track/4rc2WNOt2w8BHfQjBC8PO0"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 374973,
       "name": "Welcome Home",
       "url": "https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"
@@ -1873,7 +1891,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 177760,
       "name": "You And I",
       "url": "https://open.spotify.com/track/2iIxheqTYiaRm1Xn2hJlY8"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 238053,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"

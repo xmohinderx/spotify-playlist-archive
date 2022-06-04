@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 186243,
       "name": "D(Emo)",
       "url": "https://open.spotify.com/track/2NMjPUdU1Ljw8wVUdoHDkD"
@@ -299,6 +299,24 @@
       "duration_ms": 174814,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT"
+    },
+    {
+      "album": {
+        "name": "Demoni",
+        "url": "https://open.spotify.com/album/10rP3kY9xGjYXhxJkXEvD7"
+      },
+      "artists": [
+        {
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173095,
+      "name": "Demoni",
+      "url": "https://open.spotify.com/track/6bGA83YmfsO3SpFq4VCNiJ"
     },
     {
       "album": {
@@ -713,10 +731,32 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 146181,
       "name": "hai paura,,?",
       "url": "https://open.spotify.com/track/3ZF6D1Ye3WQhONihK75dIA"
+    },
+    {
+      "album": {
+        "name": "HAPPILY EVER AFTER",
+        "url": "https://open.spotify.com/album/1G9ntbAXm8uYI1KRPRfNUg"
+      },
+      "artists": [
+        {
+          "name": "maxwell da costa",
+          "url": "https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT"
+        },
+        {
+          "name": "fil ricchiardi",
+          "url": "https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "HAPPILY EVER AFTER",
+      "url": "https://open.spotify.com/track/3A6wzTVEokDiEgDmAtd2gm"
     },
     {
       "album": {
@@ -880,6 +920,28 @@
     },
     {
       "album": {
+        "name": "Moriresti per vivere con me?",
+        "url": "https://open.spotify.com/album/61eM5wzEw3GQyN1X1yV4ut"
+      },
+      "artists": [
+        {
+          "name": "Fasma",
+          "url": "https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120533,
+      "name": "Marylin M.",
+      "url": "https://open.spotify.com/track/6uw8FVNAFNNpdXtd0AZl6m"
+    },
+    {
+      "album": {
         "name": "ME & YOU",
         "url": "https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H"
       },
@@ -953,10 +1015,32 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 157662,
       "name": "Non far\u00e0 mai bel tempo",
       "url": "https://open.spotify.com/track/5pWYWGu1JPZ3eR4HZ4LLy9"
+    },
+    {
+      "album": {
+        "name": "NON PIANGERE",
+        "url": "https://open.spotify.com/album/60rupYxX1cyqiXYltdInJl"
+      },
+      "artists": [
+        {
+          "name": "Venz",
+          "url": "https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5"
+        },
+        {
+          "name": "Thierry",
+          "url": "https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165685,
+      "name": "NON PIANGERE",
+      "url": "https://open.spotify.com/track/0IVsYyzXsH5QZNMNxO8LfT"
     },
     {
       "album": {
@@ -1029,7 +1113,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 149600,
       "name": "OPPOSTI",
       "url": "https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv"
@@ -1123,7 +1207,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 122589,
       "name": "Parole al vento",
       "url": "https://open.spotify.com/track/64xBkN33zcDvijtU7X0pkN"
@@ -1149,6 +1233,24 @@
       "duration_ms": 151858,
       "name": "pensieri brutti",
       "url": "https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA"
+    },
+    {
+      "album": {
+        "name": "Per il mio bene",
+        "url": "https://open.spotify.com/album/1Z8F4vFqjLEYOBqpgHBqto"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155679,
+      "name": "Per il mio bene",
+      "url": "https://open.spotify.com/track/1j4rTqIygJuZsmfO04UqFT"
     },
     {
       "album": {
@@ -1181,7 +1283,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 171203,
       "name": "Piano",
       "url": "https://open.spotify.com/track/5A27QGKlNBa9Uzr2XEaThl"
@@ -1287,7 +1389,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 160434,
       "name": "sai che...",
       "url": "https://open.spotify.com/track/1SIyOWhf9qKSWKqPhH1eDd"
@@ -1591,7 +1693,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 150222,
       "name": "vivere solo",
       "url": "https://open.spotify.com/track/66k8poNSX1SutjV9of9gHm"
@@ -1634,6 +1736,24 @@
     },
     {
       "album": {
+        "name": "x dimenticarti",
+        "url": "https://open.spotify.com/album/4Yqn5A7LPALVKi4rOcPXMu"
+      },
+      "artists": [
+        {
+          "name": "Dasplan",
+          "url": "https://open.spotify.com/artist/3NTgDjVbLSiv0d7NW6MGhP"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136806,
+      "name": "x dimenticarti",
+      "url": "https://open.spotify.com/track/36yVUCU4BXMPTlZKXTLNAS"
+    },
+    {
+      "album": {
         "name": "TauroTape3",
         "url": "https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp"
       },
@@ -1649,7 +1769,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 177777,
       "name": "Xelisa2 (feat. ARIETE)",
       "url": "https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7"

@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Dolly Parton and Destructo
 
-115 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/2qjkli2L9nRlyk9PRGesSw)
+116 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/2qjkli2L9nRlyk9PRGesSw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Someday](https://open.spotify.com/track/73h6Ma5QhBFrshEN2CTevS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:43 | 2021-12-10 |  |
 | [Somethin' Bad \(with Carrie Underwood\) \- Duet with Carrie Underwood \[Album\]](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 | 2021-12-10 |  |
 | [Something We Can Dance To](https://open.spotify.com/track/7cqKuP1rIweEEkEgyC8rqe) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Something We Can Dance To](https://open.spotify.com/album/4bPVuBubfJc35rNwrSZQ7v) | 2:49 | 2021-12-10 |  |
+| [Soul \(R3HAB Remix\)](https://open.spotify.com/track/32d8sQk2Q6zttnj80nBFMM) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Soul \(R3HAB Remix\)](https://open.spotify.com/album/2BiotTS8ZOBFKLQAnJ0JVN) | 2:28 | 2022-06-03 |  |
 | [Sun Don't Let Me Down](https://open.spotify.com/track/3TiOpwAlLf0kqa6EeN4YrO) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:23 | 2021-12-10 |  |
 | [Sun Turns Cold](https://open.spotify.com/track/0i6XijpG0r3DwoO0LEf5uk) | [Gazzo](https://open.spotify.com/artist/5st4KKihmnSMLRsxWOs2x3), [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Sun Turns Cold](https://open.spotify.com/album/0LbK7vz0cjdE11KtCWNfGY) | 4:38 | 2021-12-10 |  |
 | [Take It From Me \- Brandon Day Remix](https://open.spotify.com/track/06PQ8Qrv66zvNyc2KIahb0) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Brandon Day](https://open.spotify.com/artist/5ncSLebQanfj8LGTlIoEv7) | [Take It From Me \(Brandon Day Remix\)](https://open.spotify.com/album/0C3VwaIpGqxhc7A45tHYwg) | 3:00 | 2021-12-10 |  |

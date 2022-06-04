@@ -262,6 +262,28 @@
     },
     {
       "album": {
+        "name": "Down The Road",
+        "url": "https://open.spotify.com/album/6TmzDsVkEq3j3xNdkDahCM"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        },
+        {
+          "name": "The Buckleys",
+          "url": "https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178946,
+      "name": "Down The Road",
+      "url": "https://open.spotify.com/track/5kdajqHHMPDsFEQEY7YstN"
+    },
+    {
+      "album": {
         "name": "Drinkin' Problem (Brindemos)",
         "url": "https://open.spotify.com/album/6X84FPyedv5spo1tdQxLuQ"
       },

@@ -4,7 +4,7 @@
 
 > Mientras la gente no deje de aplaudir, Chente no deja de cantar\. Por siempre, Vicente Fernández.
 
-50 songs - 2 hr 34 min - not published yet
+50 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/7kVEfmeORaxBgSpds26hfl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

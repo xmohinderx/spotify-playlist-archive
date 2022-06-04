@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
   "name": "This Is El Potro De Sinaloa",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0XHNiJHCrhXtyllBBKiZGi"
+  ],
   "tracks": [
     {
       "album": {
@@ -35,7 +37,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 162240,
       "name": "Carinito de Mi Vida",
       "url": "https://open.spotify.com/track/7niNLsYJFkdh1VoZlWLlVH"
@@ -89,7 +91,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 210626,
       "name": "Cien Por Uno",
       "url": "https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ"
@@ -132,6 +134,28 @@
     },
     {
       "album": {
+        "name": "Dejame",
+        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Sinaloense",
+          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145402,
+      "name": "Dejame",
+      "url": "https://open.spotify.com/track/6rLYzSPsrs95tamhZ6oGrf"
+    },
+    {
+      "album": {
         "name": "El Comandante Fuentes",
         "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
       },
@@ -143,7 +167,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 159880,
       "name": "Dos Amores",
       "url": "https://open.spotify.com/track/51dxwf0wAkeDYnPgQteiGF"
@@ -179,7 +203,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 254800,
       "name": "El Avi\u00f3n De La Muerte",
       "url": "https://open.spotify.com/track/1D1iVySlRJhOwygJDQRaqk"
@@ -287,7 +311,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 169469,
       "name": "El de Arriva Me Bendice",
       "url": "https://open.spotify.com/track/65ARD3G7j5Q3eU3Jzd13Xn"
@@ -403,7 +427,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 173638,
       "name": "El M.P.",
       "url": "https://open.spotify.com/track/2ZThthZbJ4QwHmenUQIJcG"
@@ -551,7 +575,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 142093,
       "name": "Gente del Macho",
       "url": "https://open.spotify.com/track/5genkMFK6tqWI8I57ZdIic"
@@ -758,6 +782,24 @@
     },
     {
       "album": {
+        "name": "Los Mejores Corridos",
+        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193520,
+      "name": "La Rubia del Mo\u00f1o Negro",
+      "url": "https://open.spotify.com/track/1cwcDWVIwnjGQrQkLyto28"
+    },
+    {
+      "album": {
         "name": "El Peinado",
         "url": "https://open.spotify.com/album/4ahaeAiuNqijZzN1BqPDN9"
       },
@@ -773,7 +815,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 214533,
       "name": "La Vida Marca los Rumbos",
       "url": "https://open.spotify.com/track/2jRgDq88GVkM0wJH1ygASp"
@@ -799,6 +841,28 @@
       "duration_ms": 189033,
       "name": "La Vida Prestada - En Vivo",
       "url": "https://open.spotify.com/track/4LrBqsCyeLFmI1KIzcp2r6"
+    },
+    {
+      "album": {
+        "name": "Hombre de 14 A\u00f1os",
+        "url": "https://open.spotify.com/album/3BLUTvavXdcEmRfo52xCPy"
+      },
+      "artists": [
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239381,
+      "name": "Las Tempestades",
+      "url": "https://open.spotify.com/track/28ylzCdO95jHk2gjTcD02P"
     },
     {
       "album": {
@@ -853,7 +917,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 172960,
       "name": "Los Juniors De Culiac\u00e1n",
       "url": "https://open.spotify.com/track/1clZn8cuLBj6OkKVXj7VIb"
@@ -937,7 +1001,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 149973,
       "name": "Por Que No Vienes",
       "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
@@ -991,7 +1055,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 152383,
       "name": "Tiro de Gracia",
       "url": "https://open.spotify.com/track/57SQ2W3VEQ0PMcUKrcMY2H"

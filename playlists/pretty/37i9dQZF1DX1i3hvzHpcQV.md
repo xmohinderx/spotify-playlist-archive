@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Kamal Haasan
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,993 likes - 53 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,815 likes - 53 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

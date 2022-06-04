@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 188565,
+  "num_followers": 188726,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDIwNzIwMCwwMDAwMDM5MTAwMDAwMTgxMjY2ZWJiZWYwMDAwMDE4MTIzYjYwOWJl",
+  "snapshot_id": "MTY1NDI2NDYzNCwwMDAwMDM5NDAwMDAwMTgxMjlkYjFkNjcwMDAwMDE4MTIzYjYwOWJl",
   "tracks": [
     {
       "added_at": "2022-06-02 22:00:00",
@@ -392,9 +392,25 @@
           "url": "https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0"
         }
       ],
-      "duration_ms": 200611,
+      "duration_ms": 202253,
       "name": "Brustna hj\u00e4rtans klubb",
       "url": "https://open.spotify.com/track/5UdQaGNx7gEuTPpViyn9th"
+    },
+    {
+      "added_at": "2022-06-03 07:18:01",
+      "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/1FUt5mvfCu2xChvr9PdUNG"
+      },
+      "artists": [
+        {
+          "name": "Julius",
+          "url": "https://open.spotify.com/artist/0z3L14pVgawbyez74SLf1U"
+        }
+      ],
+      "duration_ms": 210676,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/2YauDO4935sBGnV5C7M7r7"
     },
     {
       "added_at": "2022-06-02 22:00:00",
@@ -915,26 +931,6 @@
     {
       "added_at": "2022-06-02 22:00:00",
       "album": {
-        "name": "Keep Dissing 2 (with Lil Durk)",
-        "url": "https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 174131,
-      "name": "Keep Dissing 2 (with Lil Durk)",
-      "url": "https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh"
-    },
-    {
-      "added_at": "2022-06-02 22:00:00",
-      "album": {
         "name": "IGEN & IGEN",
         "url": "https://open.spotify.com/album/4qTTiQ893IOSguI46Ux61f"
       },
@@ -955,6 +951,26 @@
       "duration_ms": 161095,
       "name": "IGEN & IGEN",
       "url": "https://open.spotify.com/track/21YhWvUd6TRPPnkXAP5LGn"
+    },
+    {
+      "added_at": "2022-06-02 22:00:00",
+      "album": {
+        "name": "Keep Dissing 2 (with Lil Durk)",
+        "url": "https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 174131,
+      "name": "Keep Dissing 2 (with Lil Durk)",
+      "url": "https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh"
     },
     {
       "added_at": "2022-06-02 22:00:00",
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2022-06-02 22:00:00",
       "album": {
-        "name": "Mrs. Davis",
-        "url": "https://open.spotify.com/album/6FVfrVKa2otpLyn5bVvHhR"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 237904,
-      "name": "Mrs. Davis",
-      "url": "https://open.spotify.com/track/3LKd2tQ7VdOf1cENAKZCz0"
-    },
-    {
-      "added_at": "2022-06-02 22:00:00",
-      "album": {
         "name": "chump change",
         "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 132826,
       "name": "sardines",
       "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
+    },
+    {
+      "added_at": "2022-06-02 22:00:00",
+      "album": {
+        "name": "Mrs. Davis",
+        "url": "https://open.spotify.com/album/6FVfrVKa2otpLyn5bVvHhR"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 237904,
+      "name": "Mrs. Davis",
+      "url": "https://open.spotify.com/track/3LKd2tQ7VdOf1cENAKZCz0"
     },
     {
       "added_at": "2022-06-02 22:00:00",
@@ -1521,7 +1537,7 @@
       "url": "https://open.spotify.com/track/4Y8a0CsrFv4ZcabX8DeP7s"
     },
     {
-      "added_at": "2022-06-02 22:00:00",
+      "added_at": "2022-06-03 07:37:27",
       "album": {
         "name": "Din hund",
         "url": "https://open.spotify.com/album/6O8OVKPzKVRb3p1ccns3qy"
@@ -1533,8 +1549,8 @@
         }
       ],
       "duration_ms": 201812,
-      "name": "Din instrumental",
-      "url": "https://open.spotify.com/track/7ejSlflastIKy33adx44SJ"
+      "name": "Din hund",
+      "url": "https://open.spotify.com/track/7KLYgRHHB1cMGc8HWs7M5L"
     },
     {
       "added_at": "2022-06-02 22:00:00",

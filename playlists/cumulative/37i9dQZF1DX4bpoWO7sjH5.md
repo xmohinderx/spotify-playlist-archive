@@ -4,7 +4,7 @@
 
 > Los sonidos de Belén.
 
-95 songs - 6 hr 18 min - not published yet
+95 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

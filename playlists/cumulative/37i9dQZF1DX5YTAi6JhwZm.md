@@ -2,7 +2,7 @@
 
 ### [Happy Jazz!](https://open.spotify.com/playlist/37i9dQZF1DX5YTAi6JhwZm)
 
-> Happy and swinging jazz.
+> Uplifting and happy jazz to get you in a good mood.
 
 124 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/4R45R96b2S3hona44q5p1v)
 

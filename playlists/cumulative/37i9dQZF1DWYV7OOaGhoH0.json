@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore the ever-evolving folk & roots scene. Cover: Rosie Carney",
+  "description": "Explore the ever-evolving folk & roots scene. Cover: S.G. Goodman",
   "name": "Roots Rising",
   "published_playlist_ids": [
     "253UejjPPflLcat0bb66LZ"
@@ -149,10 +149,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 209126,
       "name": "All My Love Is Coming Back To Me",
       "url": "https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi"
+    },
+    {
+      "album": {
+        "name": "Teeth Marks",
+        "url": "https://open.spotify.com/album/5fXIv2d6FP5hSTYThKREZH"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209126,
+      "name": "All My Love Is Coming Back To Me",
+      "url": "https://open.spotify.com/track/3fJiva7a51oL1HfZ11gLiW"
     },
     {
       "album": {
@@ -445,7 +463,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 201626,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
@@ -756,6 +774,24 @@
     },
     {
       "album": {
+        "name": "Collecting Dust",
+        "url": "https://open.spotify.com/album/5rICmJCVw98Yuu3cA7ItA4"
+      },
+      "artists": [
+        {
+          "name": "Bo Armstrong",
+          "url": "https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178786,
+      "name": "Collecting Dust",
+      "url": "https://open.spotify.com/track/0Tm0JeMRDBd4AZr13eDclx"
+    },
+    {
+      "album": {
         "name": "Colorado Blues",
         "url": "https://open.spotify.com/album/13KX0b4NxsVYMWg1akI80F"
       },
@@ -771,6 +807,28 @@
       "duration_ms": 157080,
       "name": "Colorado Blues",
       "url": "https://open.spotify.com/track/2a1YnK5daxSlKjfYEdTveh"
+    },
+    {
+      "album": {
+        "name": "Consolation Prize",
+        "url": "https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        },
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240787,
+      "name": "Consolation Prize",
+      "url": "https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06"
     },
     {
       "album": {
@@ -1017,7 +1075,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 158208,
       "name": "Dyan",
       "url": "https://open.spotify.com/track/24VL42SyykfEQGYIdyAg1H"
@@ -1451,7 +1509,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 295133,
       "name": "Help Me Remember",
       "url": "https://open.spotify.com/track/0u0MIKwM1AfCU8UAjnJ6aH"
@@ -1905,6 +1963,24 @@
       "duration_ms": 209546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
+    },
+    {
+      "album": {
+        "name": "Inside Problems",
+        "url": "https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205560,
+      "name": "Make a Picture",
+      "url": "https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz"
     },
     {
       "album": {
@@ -3047,7 +3123,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 167400,
       "name": "The Blues Have Blown Away",
       "url": "https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o"
@@ -3477,7 +3553,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 375813,
       "name": "Underlands",
       "url": "https://open.spotify.com/track/1qhjnS2Z8W9xYextJvUdrA"
@@ -3629,6 +3705,24 @@
       "duration_ms": 217133,
       "name": "Water in the Barrel",
       "url": "https://open.spotify.com/track/7elXaVsrVrwczas2crAE0U"
+    },
+    {
+      "album": {
+        "name": "Way I Go",
+        "url": "https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247829,
+      "name": "Way I Go",
+      "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > good vibes only.
 
-149 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
+151 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,8 +62,9 @@
 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 | 2021-03-24 |  |
 | [Girlfriend](https://open.spotify.com/track/0xeW4sis1G7eWOVgSVCnOo) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj) | [Girlfriend](https://open.spotify.com/album/2uGa7gKhYd9DKrRD1pbnZu) | 4:16 | 2022-02-04 |  |
 | [Golden Age](https://open.spotify.com/track/1bFjZtKMLAd63AILwrGl5l) | [Late Night Episode](https://open.spotify.com/artist/3ZvruFeycdpcMPS4EfESRk) | [Golden Age](https://open.spotify.com/album/0CJ1sH1T6SsJS6tFEr3M3Z) | 2:52 | 2021-03-24 |  |
+| [Good Day for a Good Day](https://open.spotify.com/track/0WZ5paMR4zJAdjkBgCVAYN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:10 | 2022-06-03 |  |
 | [Good Feeling](https://open.spotify.com/track/69mUNSadIZmIlrpAqss2oB) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Don't You Worry / Good Feeling](https://open.spotify.com/album/74ULHyuYbRNDVhLzp81L76) | 3:23 | 2021-03-24 |  |
-| [Good Morning](https://open.spotify.com/track/6Mj7VQqAgDttaxt63bQj4F) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Big Mess](https://open.spotify.com/album/5gZHghY3oAmBRYXx7LUbaK) | 3:39 | 2021-03-24 |  |
+| [Good Morning](https://open.spotify.com/track/6Mj7VQqAgDttaxt63bQj4F) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Big Mess](https://open.spotify.com/album/5gZHghY3oAmBRYXx7LUbaK) | 3:39 | 2021-03-24 | 2022-06-04 |
 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 | 2021-03-24 |  |
 | [Got To My Head](https://open.spotify.com/track/0jzlfI8DL7Uph1ojvUTbJp) | [WATERS](https://open.spotify.com/artist/4KKQvsAWZWMkS1QCuPnajG) | [Got To My Head](https://open.spotify.com/album/6JS9D5bKdwo7G8mL8a3epa) | 3:06 | 2021-03-24 |  |
 | [Guitar Beat](https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME) | [Prelow](https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn) | [Guitar Beat](https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw) | 3:25 | 2021-03-24 |  |
@@ -78,7 +79,7 @@
 | [Inside Out](https://open.spotify.com/track/4BNs4huwF1Vmdin9lEPOOS) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:28 | 2021-03-24 |  |
 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 | 2021-03-24 |  |
 | [Jungle \(Radio Edit\)](https://open.spotify.com/track/5GI8QlM6RlyZjegB9CFk7U) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle \(Radio Edit\)](https://open.spotify.com/album/2peYRO0S43aoxn8N3E4qAU) | 3:57 | 2021-03-24 | 2022-04-28 |
-| [Levitate](https://open.spotify.com/track/6nlA3j4n3KAY8AgEGmos2o) | [The Palms](https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X) | [Levitate](https://open.spotify.com/album/3K8q99Bi8C6OYQbmUEaeR2) | 3:50 | 2021-03-24 |  |
+| [Levitate](https://open.spotify.com/track/6nlA3j4n3KAY8AgEGmos2o) | [The Palms](https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X) | [Levitate](https://open.spotify.com/album/3K8q99Bi8C6OYQbmUEaeR2) | 3:50 | 2021-03-24 | 2022-06-04 |
 | [Life Itself](https://open.spotify.com/track/2cKBRXAja8JIgF2gSmrMke) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Life Itself](https://open.spotify.com/album/3YXqLvGQKBu2gCqx8WaUas) | 4:40 | 2021-03-24 | 2022-04-27 |
 | [Life's 2 Short](https://open.spotify.com/track/1wVklb85pKYaoCGx9jybqm) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [Slum Beach Denny](https://open.spotify.com/album/0MgiASaKPnKqEYQiobt7ix) | 4:00 | 2021-05-14 |  |
 | [Lift Me Up](https://open.spotify.com/track/4ARoMobdw8Pv6idjmbQUjJ) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Lift Me Up](https://open.spotify.com/album/1aN1BvqkohdINxEHf83z3u) | 2:33 | 2021-03-24 |  |
@@ -126,6 +127,7 @@
 | [Stone Love](https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Kona Town](https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4) | 4:14 | 2021-03-24 | 2022-05-10 |
 | [Straight Jacket](https://open.spotify.com/track/2ENsMXM68ytMHhRVjltrOj) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Fountain Tropical EP](https://open.spotify.com/album/7tH4qakdmRWHEeYhU6FSbe) | 3:25 | 2021-03-24 |  |
 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-04-26 |  |
+| [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 | 2022-06-03 |  |
 | [Sunburn](https://open.spotify.com/track/6Fn7on22IiSxsCzSps3eQo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Sunburn](https://open.spotify.com/album/6JsLFPRu7sFRRCJWZiKLaD) | 1:53 | 2022-04-26 |  |
 | [Sunday Vibe](https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Sunday Vibe](https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc) | 3:06 | 2021-03-24 | 2022-04-27 |
 | [Sunshine Time](https://open.spotify.com/track/08ag3RWt1LlRWDFU44XSss) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Going Mainstream](https://open.spotify.com/album/2K2u7usRIF03pywk6qxGlM) | 3:31 | 2021-07-30 |  |

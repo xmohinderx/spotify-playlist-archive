@@ -2,7 +2,7 @@
 
 ### [Thara Local](https://open.spotify.com/playlist/37i9dQZF1DXbVipT9CLvYD)
 
-> Pakka Folk beats from Kollywood!<br/>Cover : Don
+> Pakka Folk beats from Kollywood!<br/>Cover : Vikram
 
 57 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/5ViJtyAwBRLu7fqFg9JMgY)
 

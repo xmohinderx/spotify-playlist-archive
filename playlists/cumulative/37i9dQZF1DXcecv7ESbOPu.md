@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-2,610 songs - 5 day 17 hr 17 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
+2,612 songs - 5 day 17 hr 24 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 | [Brotherhood](https://open.spotify.com/track/60OEwYYxh51E7wQzMNOHIk) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Brotherhood](https://open.spotify.com/album/0tFXj7mWuoomJn6VuP7hGG) | 4:40 | 2022-02-24 | 2022-03-04 |
 | [Bruises](https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0) | 4:26 | 2022-02-11 | 2022-02-18 |
 | [Brun sprit](https://open.spotify.com/track/2xVU57RJNwDpiE1xjngOJB) | [KAINOABEL](https://open.spotify.com/artist/4C5BlNc1vRCnDrOgxIImJF) | [Brun sprit](https://open.spotify.com/album/6f4bBPOuwhGLL3l4NRYguC) | 3:25 | 2022-03-03 | 2022-03-11 |
-| [Brustna hjärtans klubb](https://open.spotify.com/track/5UdQaGNx7gEuTPpViyn9th) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Brustna hjärtans klubb](https://open.spotify.com/album/30pBO1wwfi8xVAm5D2nXBR) | 3:20 | 2022-06-02 |  |
+| [Brustna hjärtans klubb](https://open.spotify.com/track/5UdQaGNx7gEuTPpViyn9th) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Brustna hjärtans klubb](https://open.spotify.com/album/30pBO1wwfi8xVAm5D2nXBR) | 3:22 | 2022-06-02 |  |
 | [Brutal](https://open.spotify.com/track/5bRYA6MVHD4uioMc402Mow) | [Rainsford](https://open.spotify.com/artist/4XxCuxkBeoJUdzaVRGJjrJ), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Brutal](https://open.spotify.com/album/3FxFEZQqhxLPadxejyLY6H) | 3:03 | 2022-01-27 | 2022-02-04 |
 | [BUFFALO](https://open.spotify.com/track/7xktrlYKeeKhJ45NEPmpo6) | [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [BUFFALO](https://open.spotify.com/album/6OWZVYWSJJnZpYOeW14XbV) | 2:15 | 2022-04-21 | 2022-04-29 |
 | [Buffalo Stance](https://open.spotify.com/track/1cz1jiZlsUlKbHAkJZ2Pec) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Buffalo Stance](https://open.spotify.com/album/2PgI6x9bRitaXcU2Omh1HQ) | 5:07 | 2022-03-03 | 2022-03-11 |
@@ -560,7 +560,8 @@
 | [Dikembe Mutombo](https://open.spotify.com/track/0XTatUuWCV9Cjfue2Y3PiP) | [ISON](https://open.spotify.com/artist/7zJdWmVoGsqxaEl09XOvM5) | [Dikembe Mutombo](https://open.spotify.com/album/4bSVtE8StstXg8BhEZpwQf) | 2:35 | 2022-02-24 | 2022-03-04 |
 | [Dimma \(feat\. Melissa Horn\)](https://open.spotify.com/track/2X94Z8BENasOvxnxG8o1Tk) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns), [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Dimma \(feat\. Melissa Horn\)](https://open.spotify.com/album/5s24uGyzWvj1LctNGGhaff) | 2:51 | 2022-01-06 | 2022-01-14 |
 | [Din](https://open.spotify.com/track/4GBE6OejhRrAUGOSODooCC) | [Oskar Häggström](https://open.spotify.com/artist/69ZOZoebEshyscvb3HktEf) | [Din](https://open.spotify.com/album/3iCGEdkCos1v90KEnFZuOD) | 2:28 | 2022-02-11 | 2022-02-18 |
-| [Din instrumental](https://open.spotify.com/track/7ejSlflastIKy33adx44SJ) | [bob hund](https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx) | [Din hund](https://open.spotify.com/album/6O8OVKPzKVRb3p1ccns3qy) | 3:21 | 2022-06-02 |  |
+| [Din hund](https://open.spotify.com/track/7KLYgRHHB1cMGc8HWs7M5L) | [bob hund](https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx) | [Din hund](https://open.spotify.com/album/6O8OVKPzKVRb3p1ccns3qy) | 3:21 | 2022-06-03 |  |
+| [Din instrumental](https://open.spotify.com/track/7ejSlflastIKy33adx44SJ) | [bob hund](https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx) | [Din hund](https://open.spotify.com/album/6O8OVKPzKVRb3p1ccns3qy) | 3:21 | 2022-06-02 | 2022-06-04 |
 | [Ding Dong](https://open.spotify.com/track/2PJz76tFFPytFnK1SecClb) | [Lika Morgan](https://open.spotify.com/artist/61StZOWgYff2AxDUejw4UI) | [Ding Dong](https://open.spotify.com/album/2l0Zi6xZ6kpp8lPKJSJuiP) | 2:29 | 2021-12-23 | 2021-12-31 |
 | [Dinner Table](https://open.spotify.com/track/1tB3qub1zWVNQHNBibsEhK) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Dinner Table](https://open.spotify.com/album/3vchonSakoZOHdblX8GZoj) | 3:29 | 2022-04-21 | 2022-04-29 |
 | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd) | 2:22 | 2022-03-24 | 2022-04-01 |
@@ -984,6 +985,7 @@
 | [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 | 2022-05-19 | 2022-05-27 |
 | [Highlight Of My Night](https://open.spotify.com/track/3hCbXd1y1uAl3tUpaQD0yr) | [Two Year Vacation](https://open.spotify.com/artist/32pDhOhptrPf8qiTFG8VPZ) | [Highlight Of My Night](https://open.spotify.com/album/3APnJR0neobRmr5ITJ8Dng) | 3:39 | 2022-04-21 | 2022-04-29 |
 | [Highlights](https://open.spotify.com/track/661aQVzf9b72TVokFEcWsc) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Highlights](https://open.spotify.com/album/6BCFC34AFa6lWFcDPBpNQF) | 3:17 | 2022-03-24 | 2022-04-01 |
+| [Highway](https://open.spotify.com/track/2YauDO4935sBGnV5C7M7r7) | [Julius](https://open.spotify.com/artist/0z3L14pVgawbyez74SLf1U) | [Highway](https://open.spotify.com/album/1FUt5mvfCu2xChvr9PdUNG) | 3:30 | 2022-06-03 |  |
 | [HIGHWAY TO YOUR HEART](https://open.spotify.com/track/1ejiXFwhoCVvM1z0uh32fr) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [HIGHWAY TO YOUR HEART](https://open.spotify.com/album/5Ribl5MGlDtgUfWKQI10Ew) | 3:59 | 2022-04-21 | 2022-04-29 |
 | [Himlablå](https://open.spotify.com/track/218nR5sdQ62IBMqb2PrsXQ) | [Caspar Camitz](https://open.spotify.com/artist/7Mymyw9vEuRvJKD9Fy919Q), [Katmanlo](https://open.spotify.com/artist/1jXMfZgRIg0JlqF5MMst97) | [Himlablå](https://open.spotify.com/album/4Qng7FzlzjW6DhZTqI6K8c) | 3:23 | 2022-06-02 |  |
 | [Himlen kan vänta](https://open.spotify.com/track/49YQrm6c4eOrYfzmbYS3jG) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Himlen kan vänta](https://open.spotify.com/album/2kS8HnTbJCr6AtCYUCJZyO) | 3:16 | 2022-04-07 | 2022-04-15 |

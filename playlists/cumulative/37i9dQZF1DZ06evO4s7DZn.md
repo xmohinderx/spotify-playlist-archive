@@ -4,7 +4,7 @@
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 2 min - not published yet
+55 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/4JIi4bjPGxzuez5Wn9lhj6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,9 +30,9 @@
 | [Hoja en Blanco](https://open.spotify.com/track/4uOfm8oGMeY0oagM3IHZGI) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 3:37 | 2022-06-01 |  |
 | [Juan Colorado](https://open.spotify.com/track/2ddBgXnu6BB9pQNTbf0v5t) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 2:39 | 2022-06-01 |  |
 | [La Danza Del Coyote](https://open.spotify.com/track/2mIy6LxmVeUS0WKSclC81G) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:03 | 2022-06-01 |  |
-| [La Guitarra de Lolo](https://open.spotify.com/track/3Jw3jrSecqtTkc8F4uPvV4) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne y Hueso](https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq) | 3:23 | 2022-06-01 | 2022-06-03 |
+| [La Guitarra de Lolo](https://open.spotify.com/track/3Jw3jrSecqtTkc8F4uPvV4) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne y Hueso](https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq) | 3:23 | 2022-06-01 |  |
 | [La Niña Bonita](https://open.spotify.com/track/1d7fUmpDbiG9YFyDWh7991) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne y Hueso](https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq) | 2:36 | 2022-06-01 |  |
-| [La Otra España \(En Vivo\)](https://open.spotify.com/track/78ZsuXjwAzs0hezu9LYQ5B) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! Vol\. 1](https://open.spotify.com/album/2qUPiJ1BajcT1xtC3fdO4a) | 2:44 | 2022-06-02 |  |
+| [La Otra España \(En Vivo\)](https://open.spotify.com/track/78ZsuXjwAzs0hezu9LYQ5B) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! Vol\. 1](https://open.spotify.com/album/2qUPiJ1BajcT1xtC3fdO4a) | 2:44 | 2022-06-02 | 2022-06-04 |
 | [Las Medias Negras \- En Vivo](https://open.spotify.com/track/4yPlCcF26zH7EqXHZ9k6xD) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 2:31 | 2022-06-01 | 2022-06-03 |
 | [Lágrimas Del Corazón](https://open.spotify.com/track/3QGhTa9qbJbTqrNdYJMF0z) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:53 | 2022-06-01 |  |
 | [Llegaste A Mi Vida](https://open.spotify.com/track/029iHUnTzyQntyEuWzpnVX) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:58 | 2022-06-01 |  |
@@ -42,7 +42,7 @@
 | [Mi Amor Bendito](https://open.spotify.com/track/5gIPwxhkCDameLVPiykU8n) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 3:04 | 2022-06-01 |  |
 | [Mi Primer Amor](https://open.spotify.com/track/0yJqmBLDWBGsCqjTR26B2V) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne y Hueso](https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq) | 3:30 | 2022-06-01 |  |
 | [Mi Ultima Parranda \(En Vivo\)](https://open.spotify.com/track/7n9VbJdI8uT7Wh3qi0eWdd) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [En Vivo! Desde Pico Rivera, Ca](https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd) | 3:33 | 2022-06-02 |  |
-| [Miel Amarga / Amigo \(En Vivo\)](https://open.spotify.com/track/5wKMMywmELffQUw61t3jhx) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [En Vivo! Desde Pico Rivera, Ca](https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd) | 4:46 | 2022-06-01 |  |
+| [Miel Amarga / Amigo \(En Vivo\)](https://open.spotify.com/track/5wKMMywmELffQUw61t3jhx) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [En Vivo! Desde Pico Rivera, Ca](https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd) | 4:46 | 2022-06-01 | 2022-06-04 |
 | [Mil Cartas \(En Vivo\)](https://open.spotify.com/track/2STXme6kGlOn40oJwgpZH4) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [En Vivo! Desde Pico Rivera, Ca](https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd) | 3:45 | 2022-06-01 |  |
 | [Morenita \(En Vivo\)](https://open.spotify.com/track/0AHH8XJjFXeIaRQu8i1T1w) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! Vol\. 2](https://open.spotify.com/album/3FEiGlYvGOUMf4w0HA0EDr) | 2:47 | 2022-06-01 | 2022-06-03 |
 | [Muchacha Triste](https://open.spotify.com/track/6c8cEuIVJWZ251jfCunb0T) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:42 | 2022-06-01 |  |
@@ -53,8 +53,9 @@
 | [Para Ellas](https://open.spotify.com/track/0NB5GkAROV33z5pDY7GGpu) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 3:13 | 2022-06-01 |  |
 | [Popotitos \- En Vivo](https://open.spotify.com/track/0Pgt6d2p8pc53Qg7iwaqDg) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:43 | 2022-06-01 |  |
 | [Por las Parrandas](https://open.spotify.com/track/7gi9iHWtxeFMTTq3LUo9Up) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [No Le Digas a Nadie](https://open.spotify.com/album/7BCtUlBeAMEfqUnQayCSSO) | 3:17 | 2022-06-01 |  |
-| [Que Le Vaya Bien](https://open.spotify.com/track/7cVpSomkGnX5IpQbeP1vXB) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne y Hueso](https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq) | 4:08 | 2022-06-01 | 2022-06-03 |
-| [Quiéreme Ámame](https://open.spotify.com/track/6cFIyDNYKW4nCog6YoFz6V) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Llévame Contigo](https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv) | 2:57 | 2022-06-02 |  |
+| [Que Le Vaya Bien](https://open.spotify.com/track/7cVpSomkGnX5IpQbeP1vXB) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne y Hueso](https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq) | 4:08 | 2022-06-01 |  |
+| [Quiero Que Me Vuelas Queder \- En Vivo](https://open.spotify.com/track/2DooiJlsHLN4pUnxHgAkqK) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 2:55 | 2022-06-03 |  |
+| [Quiéreme Ámame](https://open.spotify.com/track/6cFIyDNYKW4nCog6YoFz6V) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Llévame Contigo](https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv) | 2:57 | 2022-06-02 | 2022-06-04 |
 | [Recuerdos](https://open.spotify.com/track/4FTYTe4HEV7K7mcRLC1MlC) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF) | 2:52 | 2022-06-01 |  |
 | [Se Terminó Lo Nuestro](https://open.spotify.com/track/4i3HvUEFP36nhC0jw6aOr7) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:25 | 2022-06-01 |  |
 | [Signo Libra](https://open.spotify.com/track/5KwNLf671dgPXwECPw9glC) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:47 | 2022-06-01 |  |

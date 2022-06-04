@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Les hits Maghr\u00e9bins du moment sont ici. Cover : Marwa Loud & Moha K.",
+  "description": "Les hits Maghr\u00e9bins du moment sont ici. Cover : Kouz1.",
   "name": "Hot Hits Maghreb",
   "published_playlist_ids": [
     "5fjwJv8oqkWtmz8CqfcbMQ"
@@ -45,6 +45,24 @@
       "duration_ms": 186858,
       "name": "Adios",
       "url": "https://open.spotify.com/track/1vKJzr4lZVR0Mc8tAjov7g"
+    },
+    {
+      "album": {
+        "name": "Allo (\u0627\u0644\u0648)",
+        "url": "https://open.spotify.com/album/5sw19c2WnCbMacw9OzubzT"
+      },
+      "artists": [
+        {
+          "name": "Balti",
+          "url": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259591,
+      "name": "Allo - \u0627\u0644\u0648",
+      "url": "https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV"
     },
     {
       "album": {
@@ -125,7 +143,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 153360,
       "name": "Bladi",
       "url": "https://open.spotify.com/track/0HtuHmuGLRzvAWN3WXj9Tb"

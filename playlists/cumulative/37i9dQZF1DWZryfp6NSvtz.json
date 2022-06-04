@@ -19448,6 +19448,24 @@
     },
     {
       "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/7r9WVGq5YRQ4eeYUYzmk8b"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191414,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/5XUuldRjPXcP5QxyEN4IXT"
+    },
+    {
+      "album": {
         "name": "Credere Di Pensare",
         "url": "https://open.spotify.com/album/74zRzOFTdEjTGycktwGa0Q"
       },

@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 250358,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/4FruIj8XF7TVGD2eiZEFMS"
@@ -164,6 +164,24 @@
     },
     {
       "album": {
+        "name": "Another Day In Paradise",
+        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275680,
+      "name": "Another Day In Paradise",
+      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
+    },
+    {
+      "album": {
         "name": "Human Nature (feat. Rick Braun, Kirk Whalum, Norman Brown)",
         "url": "https://open.spotify.com/album/1nDD5iqCemA5KDe7pJZnSi"
       },
@@ -187,7 +205,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 310480,
       "name": "Another Part of Me",
       "url": "https://open.spotify.com/track/2uroSt9vhH1KFV9g4s0MOS"
@@ -353,7 +371,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 243146,
       "name": "Cachaca",
       "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
@@ -813,7 +831,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 296875,
       "name": "Fonk In The City - Live Performance",
       "url": "https://open.spotify.com/track/5E2LE2CWlbEc4kcttbmVfn"
@@ -853,7 +871,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 222533,
       "name": "Fresh Air",
       "url": "https://open.spotify.com/track/2MWz9FOWmyvLYqhUsHtLOW"
@@ -943,7 +961,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 263608,
       "name": "Give Me the Heat",
       "url": "https://open.spotify.com/track/1xRC0Faz1UbR9Rq8ElEvxZ"
@@ -961,7 +979,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 300240,
       "name": "Givin' In",
       "url": "https://open.spotify.com/track/6VCestCaLejnlqdw8Pan9k"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 259165,
       "name": "Homebrew - Radio Mix",
       "url": "https://open.spotify.com/track/021RV4e0gnjDuUB5KxJ6Ck"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 241240,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/5JjpJpnQRjYjlRh1FJCkVm"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 288731,
       "name": "I Wish I Wasn't",
       "url": "https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 240136,
       "name": "Just a Taste",
       "url": "https://open.spotify.com/track/7JGBzcii3TqDSv1JQOtui6"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 258138,
       "name": "L.I.T.",
       "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
@@ -1537,7 +1555,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 227920,
       "name": "Livin' The Life",
       "url": "https://open.spotify.com/track/2VIqaZxvr3VujsbSjbrl43"
@@ -1613,7 +1631,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 240553,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/1ebtnoXkPEF1wIUythB6ee"
@@ -1737,7 +1755,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 241146,
       "name": "On the Uptown",
       "url": "https://open.spotify.com/track/7063cn4EtVAdrnMP4RzpDT"
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 247746,
       "name": "Outside the Box",
       "url": "https://open.spotify.com/track/4l4dodgipavIzeo1H1YYCj"
@@ -1885,7 +1903,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 301853,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/02IFnwB9sOwXYNm3z4NBRN"
@@ -2000,6 +2018,24 @@
     },
     {
       "album": {
+        "name": "Say What",
+        "url": "https://open.spotify.com/album/4Sv7jKSOmNE0Lhagi9DKlo"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227077,
+      "name": "Say What",
+      "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
+    },
+    {
+      "album": {
         "name": "Say You Will",
         "url": "https://open.spotify.com/album/6ecDlIabqvgoTIn90WUBYa"
       },
@@ -2033,7 +2069,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 209727,
       "name": "Set Sail",
       "url": "https://open.spotify.com/track/1GAX53Nnul0CQx3GawFpSS"
@@ -2087,7 +2123,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 251142,
       "name": "Sharon's Groove",
       "url": "https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ"
@@ -2279,7 +2315,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 296360,
       "name": "Speak Easy",
       "url": "https://open.spotify.com/track/64iI0xWTsFNb647B6suOmv"
@@ -2547,7 +2583,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 246458,
       "name": "The Goddess",
       "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
@@ -2641,7 +2677,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 185340,
       "name": "Today",
       "url": "https://open.spotify.com/track/2q31jbhT4UKTd0hD79yPJQ"
@@ -2731,7 +2767,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 217843,
       "name": "Una Mas",
       "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
@@ -2901,7 +2937,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 255266,
       "name": "Work Wit' It",
       "url": "https://open.spotify.com/track/4ZdYGB7R1exGvLbhmyhMO9"

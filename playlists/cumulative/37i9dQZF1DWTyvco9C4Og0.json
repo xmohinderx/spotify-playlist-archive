@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-02",
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed. Pepe Aguilar en portada.",
   "name": "\u00cddolos del Mariachi",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2V0PHZyuVaI8QUBHcbfV2Z"
+  ],
   "tracks": [
     {
       "album": {
@@ -491,7 +493,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 177194,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/1qNvE50pMBAB11VtaGGkFD"
@@ -1001,7 +1003,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 131226,
       "name": "Media Vuelta",
       "url": "https://open.spotify.com/track/7EBPCQxZEK3eODDpKIlTni"
@@ -1849,7 +1851,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 203520,
       "name": "Ya Lo S\u00e9",
       "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
@@ -1921,7 +1923,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 224573,
       "name": "\u00bfPor Qu\u00e9 Dejaste Que Te Amara?",
       "url": "https://open.spotify.com/track/4v54y645UMsIsbHP1kzkvi"

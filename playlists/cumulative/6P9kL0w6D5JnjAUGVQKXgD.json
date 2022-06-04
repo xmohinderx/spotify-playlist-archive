@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 182400,
       "name": "2AM (feat. Carla Monroe)",
       "url": "https://open.spotify.com/track/2dh6Pnl5egc1FrQS6EsW4n"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 205466,
       "name": "400",
       "url": "https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz"
@@ -624,6 +624,24 @@
     },
     {
       "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+    },
+    {
+      "album": {
         "name": "After You (feat. Calle Lehmann)",
         "url": "https://open.spotify.com/album/1RDosPV9LVUjxUxpzyXHB6"
       },
@@ -875,7 +893,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 222830,
       "name": "Alive (with Calle Lehmann)",
       "url": "https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB"
@@ -1996,6 +2014,32 @@
     },
     {
       "album": {
+        "name": "Be My Lover",
+        "url": "https://open.spotify.com/album/4qQv3MvheYqaEX35BbswQV"
+      },
+      "artists": [
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "Danimal",
+          "url": "https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj"
+        },
+        {
+          "name": "Influencerz",
+          "url": "https://open.spotify.com/artist/163A7vg111FgP21NQSD6dN"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/1QQwe5cwWqYxEwnncg1QBM"
+    },
+    {
+      "album": {
         "name": "Be the One (feat. MORGAN, Digga D & TIKE)",
         "url": "https://open.spotify.com/album/7r5CwbVuzJNhDe5eHviDj5"
       },
@@ -2461,7 +2505,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 221028,
       "name": "BITCH",
       "url": "https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W"
@@ -4219,7 +4263,7 @@
       ],
       "date_added": "2020-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 307986,
       "name": "Cinema (feat. Gary Go) - Skrillex Remix",
       "url": "https://open.spotify.com/track/6jNM6fKx3WnyHbWBI9hs2r"
@@ -4674,6 +4718,28 @@
     },
     {
       "album": {
+        "name": "Consciousness",
+        "url": "https://open.spotify.com/album/3PXBTfh5elG5YjbNM3QWAP"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274551,
+      "name": "Consciousness",
+      "url": "https://open.spotify.com/track/1DOuZaf52j4O1zlyQpxSQx"
+    },
+    {
+      "album": {
         "name": "Convo",
         "url": "https://open.spotify.com/album/5XiY8TBrVuKs7u3moYyJus"
       },
@@ -4883,6 +4949,24 @@
       "duration_ms": 126655,
       "name": "Crooked (VAANCE & Herrin Remix)",
       "url": "https://open.spotify.com/track/3HcKOzkBdZaOnmOJCFZ0gv"
+    },
+    {
+      "album": {
+        "name": "Crossed Our Hearts",
+        "url": "https://open.spotify.com/album/1rdWSzcZSimmLjNQZQGO1o"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170511,
+      "name": "Crossed Our Hearts",
+      "url": "https://open.spotify.com/track/6ZI7dfjX2IlxaXsFw5LIdf"
     },
     {
       "album": {
@@ -5763,7 +5847,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
@@ -6967,7 +7051,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 250226,
       "name": "Faded - Tiesto's Northern Lights Remix",
       "url": "https://open.spotify.com/track/4jvJPG5YNwenlOmyLWSqaq"
@@ -7776,6 +7860,24 @@
     },
     {
       "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198625,
+      "name": "Firefly",
+      "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
+    },
+    {
+      "album": {
         "name": "Firestone",
         "url": "https://open.spotify.com/album/4JVCsRgCU1j17JcNGdwXNw"
       },
@@ -8457,7 +8559,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 238285,
       "name": "Gassed Up",
       "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
@@ -8647,6 +8749,24 @@
       "duration_ms": 159250,
       "name": "Girl",
       "url": "https://open.spotify.com/track/0WAgwdyjTwx2TT55W8z8lu"
+    },
+    {
+      "album": {
+        "name": "Give It to Me",
+        "url": "https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186239,
+      "name": "Give It to Me",
+      "url": "https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG"
     },
     {
       "album": {
@@ -10392,6 +10512,32 @@
     },
     {
       "album": {
+        "name": "Human Sound",
+        "url": "https://open.spotify.com/album/5J06rqfuFDWHsPvU6OrES6"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        },
+        {
+          "name": "Kai-Isaiah Jamal",
+          "url": "https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw"
+        },
+        {
+          "name": "Obi Franky",
+          "url": "https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326146,
+      "name": "Human Sound",
+      "url": "https://open.spotify.com/track/7INfFJ0S1a6ZnIxtxDJlwq"
+    },
+    {
+      "album": {
         "name": "Human Touch",
         "url": "https://open.spotify.com/album/2SY4apBowOVRSG3WtrALWm"
       },
@@ -10517,6 +10663,28 @@
       "duration_ms": 174000,
       "name": "I Blame You",
       "url": "https://open.spotify.com/track/6hftWP9fZ7oloY4xTIuDYA"
+    },
+    {
+      "album": {
+        "name": "I Confess (feat. ROM\u00c9O)",
+        "url": "https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "ROM\u00c9O",
+          "url": "https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157875,
+      "name": "I Confess (feat. ROM\u00c9O)",
+      "url": "https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f"
     },
     {
       "album": {
@@ -11383,6 +11551,24 @@
       "duration_ms": 188437,
       "name": "Impossible (feat. John Martin)",
       "url": "https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y"
+    },
+    {
+      "album": {
+        "name": "In Chicago",
+        "url": "https://open.spotify.com/album/755VRbBa1ZCNyKTc05SJp1"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186686,
+      "name": "In Chicago",
+      "url": "https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG"
     },
     {
       "album": {
@@ -13225,7 +13411,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 199903,
       "name": "Levels - Radio Edit",
       "url": "https://open.spotify.com/track/0JhKJg5ejeQ8jq89UQtnw8"
@@ -14696,6 +14882,28 @@
     },
     {
       "album": {
+        "name": "Mash up the Dance",
+        "url": "https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv"
+      },
+      "artists": [
+        {
+          "name": "Watch the Ride",
+          "url": "https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189207,
+      "name": "Mash up the Dance",
+      "url": "https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22"
+    },
+    {
+      "album": {
         "name": "Maze",
         "url": "https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj"
       },
@@ -15675,7 +15883,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 153414,
       "name": "My Pony",
       "url": "https://open.spotify.com/track/7e1pVaWqwd2W1KEeTBodCy"
@@ -19681,7 +19889,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 187320,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs"
@@ -20389,7 +20597,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 300916,
       "name": "Shivering (feat. Spiritbox)",
       "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
@@ -20499,7 +20707,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Sideline",
       "url": "https://open.spotify.com/track/0H3wnauakIIRxX51DkYtuc"
@@ -21614,6 +21822,24 @@
     },
     {
       "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/123ztuDo7QJpwNbYMRGsRP"
+      },
+      "artists": [
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141290,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/4ArMwaJAUT2xC7vIETjqdU"
+    },
+    {
+      "album": {
         "name": "Stay Low",
         "url": "https://open.spotify.com/album/3x8OSzqWBVrbanU1Fr6IkX"
       },
@@ -21673,7 +21899,7 @@
       ],
       "date_added": "2020-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 146190,
       "name": "Stereo Love",
       "url": "https://open.spotify.com/track/4Ef3ODp0REOFXMgDL4S5fM"
@@ -22031,7 +22257,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 158549,
       "name": "Summer In New York",
       "url": "https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q"
@@ -22487,7 +22713,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 275076,
       "name": "Talamanca - Carl Cox Remix",
       "url": "https://open.spotify.com/track/4aFUd8Kilk401OLNMugJDg"
@@ -22689,7 +22915,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 136299,
       "name": "Tell Me Secrets",
       "url": "https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq"
@@ -24222,6 +24448,28 @@
     },
     {
       "album": {
+        "name": "Under The Sun",
+        "url": "https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208374,
+      "name": "Under The Sun",
+      "url": "https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc"
+    },
+    {
+      "album": {
         "name": "Under Your Control",
         "url": "https://open.spotify.com/album/4uphluEdMqWLl8ALua6QHZ"
       },
@@ -24667,6 +24915,24 @@
       "duration_ms": 161076,
       "name": "Wait For Me (feat. Goody Grace & Tory Lanez)",
       "url": "https://open.spotify.com/track/7oEll6CiWAejF2oFXH4j9e"
+    },
+    {
+      "album": {
+        "name": "Walk Of Shame",
+        "url": "https://open.spotify.com/album/4MvEp6RWL0RdVXIgbmqiSi"
+      },
+      "artists": [
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148080,
+      "name": "Walk Of Shame",
+      "url": "https://open.spotify.com/track/3zVanl4mB1GgGWwlhdM0Yo"
     },
     {
       "album": {
@@ -25895,7 +26161,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 230945,
       "name": "Won't Forget You - Edit",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
@@ -26493,6 +26759,40 @@
       "duration_ms": 174595,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/3BnftOY6ylyaDHC6pcnETG"
+    },
+    {
+      "album": {
+        "name": "You Got The Love (feat. Jules Buckley & The Heritage Orchestra) [Ti\u00ebsto Remix]",
+        "url": "https://open.spotify.com/album/1zlYl1OYOvf79RWXEc6NZb"
+      },
+      "artists": [
+        {
+          "name": "Pete Tong",
+          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        },
+        {
+          "name": "The Heritage Orchestra",
+          "url": "https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186190,
+      "name": "You Got The Love (feat. Jules Buckley & The Heritage Orchestra) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/3N50cZLMLohd9DcGA4LIMp"
     },
     {
       "album": {

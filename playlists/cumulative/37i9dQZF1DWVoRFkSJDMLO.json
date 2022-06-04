@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 416321,
       "name": "Abalele",
       "url": "https://open.spotify.com/track/2qxgejJTaZIHNSHDD22Uhl"
@@ -177,7 +177,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 140521,
       "name": "Bad Chargie",
       "url": "https://open.spotify.com/track/1n1IsZ2qpSG13H2HdKEl8o"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 396434,
       "name": "Bambelela",
       "url": "https://open.spotify.com/track/4X4NsxuVdB1ygIMbHuctBz"
@@ -812,6 +812,24 @@
     },
     {
       "album": {
+        "name": "Hit This",
+        "url": "https://open.spotify.com/album/4rBMt5cmyuF3m3gWslSFYX"
+      },
+      "artists": [
+        {
+          "name": "Ebhoni",
+          "url": "https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230671,
+      "name": "Hit This",
+      "url": "https://open.spotify.com/track/07AMcxHstpAsZ3SoFGl5wB"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/1jjaXArAhSIBEEBCBljX1B"
       },
@@ -853,6 +871,24 @@
       "duration_ms": 337028,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/7CrIYL4F8zpXm7bwhXUkxM"
+    },
+    {
+      "album": {
+        "name": "Hunter",
+        "url": "https://open.spotify.com/album/5u64PWOWjEEuNkb4NzOgix"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193776,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/0OMK8Lo0cp3ZY0INXlRL3o"
     },
     {
       "album": {
@@ -1100,6 +1136,24 @@
     },
     {
       "album": {
+        "name": "Look Hot",
+        "url": "https://open.spotify.com/album/0pcaGZ0HNUBILlKfF6AiIc"
+      },
+      "artists": [
+        {
+          "name": "Ynw stretch",
+          "url": "https://open.spotify.com/artist/5gin56SfA0tondRKFzruZb"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123898,
+      "name": "Look Hot",
+      "url": "https://open.spotify.com/track/3TRSgpAwEKhLxfdcMYXYGL"
+    },
+    {
+      "album": {
         "name": "FIXTAPE",
         "url": "https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8"
       },
@@ -1129,7 +1183,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 184440,
       "name": "Mash Up",
       "url": "https://open.spotify.com/track/3mjcA6BYyvTgieoaoEtJxn"
@@ -1147,7 +1201,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 184873,
       "name": "MI PAPER",
       "url": "https://open.spotify.com/track/7ABS8CmDKujkYK9zF5sdCn"
@@ -1235,7 +1289,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 361528,
       "name": "Nkao Tempela",
       "url": "https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K"
@@ -1261,6 +1315,80 @@
       "duration_ms": 169562,
       "name": "Nunca Me Dejo",
       "url": "https://open.spotify.com/track/6MTDwyQcgTRU85jogjrUWW"
+    },
+    {
+      "album": {
+        "name": "God\u2019s Timing\u2019s the Best",
+        "url": "https://open.spotify.com/album/24dNVB3ThSVZWsTO5KhBc7"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155014,
+      "name": "o'dun",
+      "url": "https://open.spotify.com/track/5e6Em24aptMFZaDCsvBJpu"
+    },
+    {
+      "album": {
+        "name": "Obomi Nga",
+        "url": "https://open.spotify.com/album/52dGCyEMkAX9f2QVTUPdx0"
+      },
+      "artists": [
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX"
+        },
+        {
+          "name": "MC RedBul",
+          "url": "https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7"
+        },
+        {
+          "name": "Uproot Andy",
+          "url": "https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc"
+        },
+        {
+          "name": "MC Azas",
+          "url": "https://open.spotify.com/artist/4NoFJgUGH2LMOt2MtC6Vhx"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374767,
+      "name": "Obomi Nga",
+      "url": "https://open.spotify.com/track/1YthsroKCm3ebScYHHjoEo"
+    },
+    {
+      "album": {
+        "name": "Ogwula",
+        "url": "https://open.spotify.com/album/29AiXhlu8kioHxwd3NHZNw"
+      },
+      "artists": [
+        {
+          "name": "4Korners",
+          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
+        },
+        {
+          "name": "EverythingOShauN",
+          "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152842,
+      "name": "Ogwula",
+      "url": "https://open.spotify.com/track/3cfuJGjmekuoJzyIbPSZTE"
     },
     {
       "album": {
@@ -1309,6 +1437,24 @@
       "duration_ms": 160799,
       "name": "One Woman",
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+    },
+    {
+      "album": {
+        "name": "Overboard",
+        "url": "https://open.spotify.com/album/0jgpTqKanz1cyT6GjodXxK"
+      },
+      "artists": [
+        {
+          "name": "Mardeee",
+          "url": "https://open.spotify.com/artist/7AftxH1xcqlkMXzq74mgnn"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200005,
+      "name": "Overboard",
+      "url": "https://open.spotify.com/track/0CRX1d6Kg7eSSvkupJAgXL"
     },
     {
       "album": {
@@ -1363,7 +1509,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 230133,
       "name": "Papa Wemba",
       "url": "https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc"
@@ -1447,7 +1593,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 168150,
       "name": "Psychopathic",
       "url": "https://open.spotify.com/track/21tFdW9hlRf1yNoJf3dRVU"
@@ -1513,6 +1659,28 @@
       "duration_ms": 151218,
       "name": "Real Dolly",
       "url": "https://open.spotify.com/track/2Z6uPpc8jFx0xADZx3B6Xt"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/2MZ7ieG2mufgiMZ9ehmRQ8"
+      },
+      "artists": [
+        {
+          "name": "Laa Lee",
+          "url": "https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS"
+        },
+        {
+          "name": "A-Akeem876 Records",
+          "url": "https://open.spotify.com/artist/48Zu8KPsI60W5KbHPhNhTi"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222480,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/4ii7s7CHzkzjnIPd7PCCF9"
     },
     {
       "album": {
@@ -1735,7 +1903,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 169743,
       "name": "Take Bamboo",
       "url": "https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s"
@@ -2011,10 +2179,36 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 181115,
       "name": "Whap Whap (feat. F.S.)",
       "url": "https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr"
+    },
+    {
+      "album": {
+        "name": "Whap Whap (feat. Fivio Foreign & French Montana)",
+        "url": "https://open.spotify.com/album/7oiCF1Nw8pNFHkA8TS2bwV"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161495,
+      "name": "Whap Whap (feat. Fivio Foreign & French Montana)",
+      "url": "https://open.spotify.com/track/0Mg5cbRrpU5VF3tV90hmvk"
     },
     {
       "album": {
@@ -2041,6 +2235,24 @@
       "duration_ms": 216013,
       "name": "Who's True",
       "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
+    },
+    {
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/110dQE3KW6kfgTZdeugVRm"
+      },
+      "artists": [
+        {
+          "name": "BADDA GENERAL",
+          "url": "https://open.spotify.com/artist/5JfefD2FuAWBB2gDSyfGUf"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191608,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5CvL7NVENZIbuCIt4vRvcA"
     },
     {
       "album": {

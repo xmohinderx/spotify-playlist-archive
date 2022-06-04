@@ -2786,6 +2786,24 @@
     },
     {
       "album": {
+        "name": "Song For Katie",
+        "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jacqu\u00e9s",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146960,
+      "name": "Song For Katie",
+      "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
+    },
+    {
+      "album": {
         "name": "Kate Moore: Dances And Canons",
         "url": "https://open.spotify.com/album/1gvWUgtDjlNVDnSNR3PrLg"
       },

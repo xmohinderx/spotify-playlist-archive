@@ -4,11 +4,11 @@
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Hoàng Thùy Linh
 
-56 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
+58 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2AM](https://open.spotify.com/track/3IlRBIOd0MsAqPQo2711ne) | [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO), [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6) | [2AM](https://open.spotify.com/album/7nB59ijKokvdKH3JlnTArx) | 4:18 | 2022-05-27 |  |
+| [2AM](https://open.spotify.com/track/3IlRBIOd0MsAqPQo2711ne) | [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO), [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6) | [2AM](https://open.spotify.com/album/7nB59ijKokvdKH3JlnTArx) | 4:18 | 2022-05-27 | 2022-06-04 |
 | [3107 3](https://open.spotify.com/track/1EmMFSLRVkOszCa4ul9z0F) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [Nau](https://open.spotify.com/artist/38QautgC2LNYKiu10BB0sF), [titie](https://open.spotify.com/artist/2I8garg5B5BsdmetbsXsjG) | [3107 3 \(feat\. Nâu, titie, Dươngg\)](https://open.spotify.com/album/5fvs6ZOlCkfOa6zZ9jvXAb) | 4:00 | 2022-05-27 |  |
 | [Ai Đưa Em Về](https://open.spotify.com/track/4iDyFW4a7iCJh2VqSpwGQz) | [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt), [Le Thien Hieu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ai Đưa Em Về](https://open.spotify.com/album/3g4UhKs9pmkiJiLytUv9nB) | 3:53 | 2022-05-27 |  |
 | [Blue Tequila](https://open.spotify.com/track/4Ba99csVDlRFQILO5cSi7I) | [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Blue Tequila](https://open.spotify.com/album/26jN76TbwKh8wHd7DY27hf) | 3:22 | 2022-05-27 |  |
@@ -61,8 +61,10 @@
 | [Tình Ca Tình Ta](https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4) | [kis](https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9) | [Tình Ca Tình Ta](https://open.spotify.com/album/3qdtvJBOprlT6VK2j0eest) | 2:55 | 2022-05-27 |  |
 | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/track/4JPJhbWVL1yWTU8DpYP2Vc) | [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc), [nân](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB) | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/album/0gmt66kHSJzBQI4qpQmkci) | 3:35 | 2022-05-27 |  |
 | [từ thích thích thành thương thương](https://open.spotify.com/track/56JyO6Cav1GwtayPU7PXEx) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [dreAMEE \(acoustic\)](https://open.spotify.com/album/6YfaCqg9ImLOCb5sD0Q158) | 3:24 | 2022-05-27 |  |
+| [Tự Sự \- Original Soundtrack from "Qua Bển Làm Chi"](https://open.spotify.com/track/5Fx8zxEEaPMkwzM00JFr3N) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Thuan Nguyen](https://open.spotify.com/artist/0Tz9NpLMEwsdPcBurGdQh4) | [Tự Sự \(Original Soundtrack from "Qua Bển Làm Chi"\)](https://open.spotify.com/album/13x14kY27CueHj9F3OV6Mz) | 4:17 | 2022-06-03 |  |
 | [Ánh Sao Và Bầu Trời](https://open.spotify.com/track/5iZHnufFUgATzrpGgH1K0W) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ánh Sao Và Bầu Trời](https://open.spotify.com/album/1JLUfM3IFpFyBSyhNQWkYw) | 4:20 | 2022-05-27 |  |
-| [Đau Nhất Là Lặng Im](https://open.spotify.com/track/5H7UgZQk2p5x4nmeuDjmE4) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Đau Nhất Là Lặng Im](https://open.spotify.com/album/7eKrlj1Iv6T1jBSRppsFFD) | 4:46 | 2022-05-27 |  |
+| [Đau Nhất Là Lặng Im](https://open.spotify.com/track/5H7UgZQk2p5x4nmeuDjmE4) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Đau Nhất Là Lặng Im](https://open.spotify.com/album/7eKrlj1Iv6T1jBSRppsFFD) | 4:46 | 2022-05-27 | 2022-06-04 |
+| [Đánh Đố \(feat\. Thanh Lam & Tung Duong\)](https://open.spotify.com/track/6XSRHPboYUSCSqbKfl2Iv7) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Thanh Lam](https://open.spotify.com/artist/5kG9gxVkkdrskVLhfblCjT), [Tùng Dương](https://open.spotify.com/artist/4rBvN6UImNzcY5abMKdAuw) | [Đánh Đố \(feat\. Thanh Lam & Tung Duong\)](https://open.spotify.com/album/3zi1RVCY8qSVwKBogN62AD) | 4:28 | 2022-06-03 |  |
 | [Đường Tôi Chở Em Về](https://open.spotify.com/track/27F22WcGDyl4Z2KylVJkXL) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Đường Tôi Chở Em Về](https://open.spotify.com/album/11usBN9oLbxkDegtx4ilUW) | 4:26 | 2022-05-27 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

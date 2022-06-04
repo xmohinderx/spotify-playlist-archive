@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Los Rieleros Del Norte",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0sYa4z4Qbp5n9iE99g3wrJ"
+  ],
   "tracks": [
     {
       "album": {
@@ -215,7 +217,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 219533,
       "name": "Desprecios Y Mentiras",
       "url": "https://open.spotify.com/track/2WXZzMxOFESxUETXSgPpoM"
@@ -273,7 +275,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 188880,
       "name": "El Columpio",
       "url": "https://open.spotify.com/track/6W4HG5QGnDy4NYbveYjtKt"
@@ -453,7 +455,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 218400,
       "name": "La Loba del Mal",
       "url": "https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV"
@@ -471,7 +473,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 224373,
       "name": "La Ruleta",
       "url": "https://open.spotify.com/track/3mK4Zv1oitX7LyUsKsVhwh"
@@ -680,6 +682,24 @@
     },
     {
       "album": {
+        "name": "La Moraleja",
+        "url": "https://open.spotify.com/album/3l5CzjCkJqSBhvbwtrtATL"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194933,
+      "name": "Reina De Reyes",
+      "url": "https://open.spotify.com/track/2Ey4ALvSymgKNQTXgnITHo"
+    },
+    {
+      "album": {
         "name": "De Lo Bueno Lo Mejor",
         "url": "https://open.spotify.com/album/3GpaL6ZqUdaCxaGrGYOA54"
       },
@@ -789,6 +809,24 @@
       "duration_ms": 203853,
       "name": "Te Quiero Mucho",
       "url": "https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu"
+    },
+    {
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "Ten\u00eda Raz\u00f3n Mi 'Am\u00e1",
+      "url": "https://open.spotify.com/track/7fuPZGzcmnE6mio5Rsb9lM"
     },
     {
       "album": {

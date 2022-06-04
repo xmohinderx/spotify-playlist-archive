@@ -1250,6 +1250,24 @@
     },
     {
       "album": {
+        "name": "Te Volver\u00eda A Elegir",
+        "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180400,
+      "name": "Te Volver\u00eda A Elegir",
+      "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
+    },
+    {
+      "album": {
         "name": "Las N\u00famero 1 De",
         "url": "https://open.spotify.com/album/6oplBB55aomIn5O6NSz3cd"
       },
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 180680,
       "name": "Te Volver\u00eda A Elegir",
       "url": "https://open.spotify.com/track/7e8uUH6bOLxpXDm9lARsbI"

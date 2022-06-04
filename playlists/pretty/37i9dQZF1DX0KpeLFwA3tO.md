@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Big Joanie
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,680 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,815 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 30 | [Losing My Mind](https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Losing My Mind](https://open.spotify.com/album/4cVwNDeIhkhkBItY85YgVf) | 3:52 |
 | 31 | [Unexplainabletitlesleavingyouwonderingwhy \(Welcome In\)](https://open.spotify.com/track/47qjXoKOXDiIZT5jSoydD2) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [Rouge Carpet Disaster](https://open.spotify.com/album/1mIKtxf39TuoDhurzIijt3) | 1:45 |
 | 32 | [Teenage Runaways](https://open.spotify.com/track/2XnXc7VrwyQzy5ddfKe5Qo) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Teenage Runaways](https://open.spotify.com/album/58FSurGGBFmANZssX5QhEw) | 2:59 |
-| 33 | [Hallucinate](https://open.spotify.com/track/13Tx6UXab7USWVm3logTKh) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Hallucinate](https://open.spotify.com/album/3veRLhukp1m3SdpCiWcUlQ) | 3:31 |
+| 33 | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/track/13Tx6UXab7USWVm3logTKh) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/album/3veRLhukp1m3SdpCiWcUlQ) | 3:31 |
 | 34 | [Breakup On The Weekend](https://open.spotify.com/track/6YmN4J2HoGJSLtrsicU7ow) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Red In Revenge \- EP](https://open.spotify.com/album/0K2XD1DvekT47y3o6MtCr3) | 2:35 |
 | 35 | [U 2](https://open.spotify.com/track/25akoaDy47WRQSHccLHzMf) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [U 2](https://open.spotify.com/album/67hXDTDFQJQFnG9BXtnOLW) | 3:31 |
 | 36 | [BREAKFAST IN SPACE](https://open.spotify.com/track/0p23x26aIZJs0bROjthbLl) | [Destructo Disk](https://open.spotify.com/artist/2kc0DEfYci8CKkvQmnivj9) | [BAD GRAVITY](https://open.spotify.com/album/2DbYairkSUm4YbVXd0sHwa) | 2:40 |

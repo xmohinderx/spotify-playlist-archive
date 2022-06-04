@@ -4,7 +4,7 @@
 
 > This is Sergio Vega "El Shaka"\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 42 min - not published yet
+50 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/6P64O74qQIrVvYijmQxnFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

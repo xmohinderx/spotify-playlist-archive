@@ -11323,7 +11323,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 143132,
       "name": "Crescent",
       "url": "https://open.spotify.com/track/78pD8Ejib9BtCKWeXqDr3t"
@@ -19571,7 +19571,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 132668,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/7mEuH7PjHnmIYHs4b2PBMp"
@@ -19589,7 +19589,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 132668,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/7oQJxv8k3cNsCOS9fd4bXs"
@@ -29793,6 +29793,10 @@
         {
           "name": "Nick Mosh",
           "url": "https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx"
+        },
+        {
+          "name": "Lownas",
+          "url": "https://open.spotify.com/artist/73eOFkJoiXKFsXIBE9Wwuv"
         }
       ],
       "date_added": "2022-05-27",
@@ -39613,7 +39617,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 147235,
       "name": "rain on us",
       "url": "https://open.spotify.com/track/479kmYiQl2QL7SVeRAS3TO"

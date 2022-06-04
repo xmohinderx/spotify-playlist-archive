@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Surusinghe\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,678 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,686 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 49 | [Ambulance](https://open.spotify.com/track/6aLP2L4Y8BJRx5AJ9Z8Xj2) | [LAIIKA](https://open.spotify.com/artist/3LhehWn3j3rM6IO5FTrJe6) | [LAIIKA](https://open.spotify.com/album/5GeHjWwfQwUfFmWqMrtE9N) | 4:11 |
 | 50 | [Hideaway](https://open.spotify.com/track/5DwfndYXkTltYl2ydQL4KN) | [IV DANTE](https://open.spotify.com/artist/7bxQC10WSLjd0nyN08QSAq) | [Hideaway](https://open.spotify.com/album/51x5kkwbK0GD5EKbeYwCuR) | 2:37 |
 | 51 | [criminals](https://open.spotify.com/track/0TaxnxKdYMSF5vRgP68mA6) | [bazio](https://open.spotify.com/artist/2KYT4DQu6acXx31TddY9S6) | [criminals](https://open.spotify.com/album/3YrLhEqAhafHAtuV5OV3QA) | 2:27 |
-| 52 | [Gotham Freestyle](https://open.spotify.com/track/371GgaepBxrnUaOlpfCnUD) | [Southside Denny](https://open.spotify.com/artist/1dcmr3lCJ0rE2lwB2uIOb8), [Caleb.Therapper](https://open.spotify.com/artist/55ulsw55iCWlY2b0rW8mxp) | [Gotham Freestyle](https://open.spotify.com/album/1JdtQmIpWh3Q5ih5gjBySK) | 2:28 |
+| 52 | [Gotham Freestyle](https://open.spotify.com/track/371GgaepBxrnUaOlpfCnUD) | [Southside Denny](https://open.spotify.com/artist/1dcmr3lCJ0rE2lwB2uIOb8), [Caleb.TheRapper](https://open.spotify.com/artist/3Zrxt2T27D14NOTpmpHE30) | [Gotham Freestyle](https://open.spotify.com/album/1JdtQmIpWh3Q5ih5gjBySK) | 2:28 |
 | 53 | [What?!](https://open.spotify.com/track/2mkeHdmVM71FiLSoCewTPV) | [Lemaire](https://open.spotify.com/artist/2WpjuACPRA7LOz3CD4NjPg), [L33ze](https://open.spotify.com/artist/4X0u0PQb6shc0udD5aDNy0) | [What Did You Expect?](https://open.spotify.com/album/0sDG4VwVSPVI5mKHUZdnKT) | 3:09 |
 | 54 | [Apple Tree](https://open.spotify.com/track/2AFRPkdCpULyeRRMN5JN2N) | [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [Apple Tree](https://open.spotify.com/album/0lxLoHlnBq6g0siBph7LQ3) | 2:46 |
 | 55 | [BREATHE](https://open.spotify.com/track/5EsObTqylW24tVeGCks4T6) | [YAAK](https://open.spotify.com/artist/0UDt4k4FaJ2NAyK7O1Pp1I), [MIZUKI](https://open.spotify.com/artist/5W4qFWZPn8boKQH0z5CpsD) | [BREATHE](https://open.spotify.com/album/7dhdVNSunwkavXbLCcVxXF) | 3:03 |

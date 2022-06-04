@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-161 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+162 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [It's Time To Worship](https://open.spotify.com/track/5sxApl9TQHzRtBQEMdn9Qw) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Speak To The Mountains](https://open.spotify.com/album/3qOxAclcKVsOHKLCiqEutQ) | 4:19 | 2022-02-17 | 2022-03-16 |
 | [Jesus Is Risen](https://open.spotify.com/track/7Myw8gqNvdLPxrAh5IDvS9) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Ileia Sharaé](https://open.spotify.com/artist/4jt2b9I1RDXCiZujdiXaQr) | [Jesus Is Risen](https://open.spotify.com/album/6FPkFnU8YSzUozYf2DKl22) | 4:14 | 2022-02-25 |  |
 | [Jesus Over Everything \- Live](https://open.spotify.com/track/7CU31fAxkaKbxU8u2jvBcT) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [See The Light \(Live\)](https://open.spotify.com/album/0ufsdvAfWMEgQi1dDvXJ9v) | 5:13 | 2022-02-17 | 2022-03-16 |
+| [Just The Mention Of His Name \- Live](https://open.spotify.com/track/2C9FM0zZmWp4au1kWwiqZ3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Now \(Live\)](https://open.spotify.com/album/7yRZsYRLvroRSwMfqaYEOA) | 5:10 | 2022-06-03 |  |
 | [King Of Kings](https://open.spotify.com/track/0b8hSEwhZKE59lSaT4ZqsA) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake \(Deluxe\)](https://open.spotify.com/album/3845kDbcFRDDUHI0yVd8Km) | 4:25 | 2022-02-17 |  |
 | [Know You Will](https://open.spotify.com/track/758pVpyAPaFWlZQAoB0UYt) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [Know You Will](https://open.spotify.com/album/1rTs1PbPBCoKPC7PWklo5H) | 3:37 | 2022-02-17 | 2022-04-02 |
 | [Let The Light In \- Live](https://open.spotify.com/track/7uEho9WLsvWHQyd3jwqI2Q) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Blessing \(Live\)](https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b) | 7:29 | 2022-02-17 | 2022-04-05 |

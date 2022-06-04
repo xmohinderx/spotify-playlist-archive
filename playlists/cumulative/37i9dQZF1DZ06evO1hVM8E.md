@@ -4,7 +4,7 @@
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 50 min - not published yet
+53 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/0ulNF6RkSGdPCKS5FTmAzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Macario Leyva](https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:19 | 2022-06-01 |  |
 | [Mayor de Edad](https://open.spotify.com/track/5P4FXbpd632sEdxCHAhBnU) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Mayor de Edad](https://open.spotify.com/album/24wgUlFCUqnyaZzjZAxbic) | 3:59 | 2022-06-01 |  |
 | [Me Esta Doliendo el Alma](https://open.spotify.com/track/45OPKIF7clW1z8cMGi31jW) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Esta Doliendo el Alma](https://open.spotify.com/album/1K3TqiWrJRWN6QuB2uVg3I) | 3:19 | 2022-06-01 |  |
-| [Me Lo Contaron Ayer](https://open.spotify.com/track/2rfwtM9C88E3WO282eoU9L) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 2:34 | 2022-06-01 | 2022-06-03 |
+| [Me Lo Contaron Ayer](https://open.spotify.com/track/2rfwtM9C88E3WO282eoU9L) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 2:34 | 2022-06-01 |  |
 | [Me Pongo en Tu Lugar](https://open.spotify.com/track/6tanSQtzUgIZ8L7us6vLvz) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Presente Es Lo Que Cuenta](https://open.spotify.com/album/0O80BGAcwn10G27PDx8qLl) | 3:06 | 2022-06-01 |  |
 | [Me Sigue Doliendo](https://open.spotify.com/track/5Mqqd14WL7mmJMLESWYNtX) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Sigue Doliendo](https://open.spotify.com/album/1AB47h7dTdCTlO0i2GtiGi) | 3:47 | 2022-06-01 |  |
 | [No Me Dolió](https://open.spotify.com/track/6VFi3gg9YZYt9MBa2EiRgP) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Fin de Semana](https://open.spotify.com/album/4o0obEAe45w9aMgAx6fXqs) | 3:05 | 2022-06-01 |  |
@@ -57,7 +57,7 @@
 | [Si por Casualidad](https://open.spotify.com/track/6kbB6X2qqS0XkAPkk7TLee) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 2:39 | 2022-06-01 |  |
 | [Si Pudiera](https://open.spotify.com/track/6zwpRMJHf3DQupj1NFyxrD) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Soy Tu Maestro](https://open.spotify.com/album/0GdHeCV6ThHAEhBUJIDlN9) | 3:30 | 2022-06-01 |  |
 | [Sin Pensar Yo Te Engañé](https://open.spotify.com/track/2TPOVXCnOQtJSY6GmHYA1z) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Derecho De Antigüedad](https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT) | 3:40 | 2022-06-01 |  |
-| [Te Sigo Amando](https://open.spotify.com/track/3JpCeYH4ecOATz52uaIKO4) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Mayor de Mis Antojos](https://open.spotify.com/album/1MMHNFKunsbtbGc0NLTxEN) | 2:41 | 2022-06-02 |  |
+| [Te Sigo Amando](https://open.spotify.com/track/3JpCeYH4ecOATz52uaIKO4) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Mayor de Mis Antojos](https://open.spotify.com/album/1MMHNFKunsbtbGc0NLTxEN) | 2:41 | 2022-06-02 | 2022-06-04 |
 | [Vida Prestada](https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 2:54 | 2022-06-01 |  |
 | [Vuela Paloma](https://open.spotify.com/track/2n1cZHde59WHCHG4aaN94w) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Dos Gotas de Agua](https://open.spotify.com/album/1Kosuz65EekRnT8zsAcoQj) | 2:36 | 2022-06-01 |  |
 | [Y Ahora Te Vas](https://open.spotify.com/track/1uMJkxQipn0Mm0cAoctX82) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Y Ahora Te Vas](https://open.spotify.com/album/1RnKnR16T9sWJlxCgWla1i) | 3:12 | 2022-06-01 |  |

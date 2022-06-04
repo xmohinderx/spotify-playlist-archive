@@ -390,6 +390,24 @@
     },
     {
       "album": {
+        "name": "Eleventh Wave",
+        "url": "https://open.spotify.com/album/1oFWND9JlKsHBJc5fNfg3S"
+      },
+      "artists": [
+        {
+          "name": "Weska",
+          "url": "https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386042,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/5s2lyz1qrRbrMQB9vIejn2"
+    },
+    {
+      "album": {
         "name": "Amigdala",
         "url": "https://open.spotify.com/album/1pT0i5maf1yNOLrDhfUfR9"
       },
@@ -593,6 +611,24 @@
       "duration_ms": 357227,
       "name": "Attention",
       "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/2G1zDCzWRHxouEiscYuz6D"
+      },
+      "artists": [
+        {
+          "name": "Horisone",
+          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412498,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/1fg0Cj0VYuMue9IWcEKtVP"
     },
     {
       "album": {
@@ -1507,7 +1543,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 290008,
       "name": "Dirty Lagoon",
       "url": "https://open.spotify.com/track/4JvutGrckEHMwqvezbMRwB"
@@ -1565,7 +1601,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 374236,
       "name": "Divine",
       "url": "https://open.spotify.com/track/26MH4z7yzxzbyIXASQzgcE"
@@ -1710,6 +1746,24 @@
     },
     {
       "album": {
+        "name": "Dust2",
+        "url": "https://open.spotify.com/album/0JMayIqWFUZbGsNBPj3XvW"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386363,
+      "name": "Dust2",
+      "url": "https://open.spotify.com/track/73TeOQxZq4VMxooPmZ4KEr"
+    },
+    {
+      "album": {
         "name": "Earthrise",
         "url": "https://open.spotify.com/album/6K8I4BJ1CLxmaC6k2JP5jk"
       },
@@ -1761,6 +1815,24 @@
       "duration_ms": 263816,
       "name": "Eating Concrete",
       "url": "https://open.spotify.com/track/48jCzxsRfT2J9TKPFG0yA5"
+    },
+    {
+      "album": {
+        "name": "Electric Acid",
+        "url": "https://open.spotify.com/album/470I5Tw4LgAe5ah3kUQBSq"
+      },
+      "artists": [
+        {
+          "name": "Mark Dekoda",
+          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343880,
+      "name": "Electric Acid",
+      "url": "https://open.spotify.com/track/10OXHKcZZA1KBWbPYB1x90"
     },
     {
       "album": {
@@ -1963,6 +2035,24 @@
       "duration_ms": 461738,
       "name": "Fahrenheit",
       "url": "https://open.spotify.com/track/6m5ALRlpoPhhYGPeRayDpO"
+    },
+    {
+      "album": {
+        "name": "False Love",
+        "url": "https://open.spotify.com/album/1s02WyF3oGtWQtlZtsfbLW"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Spiteri",
+          "url": "https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "False Love",
+      "url": "https://open.spotify.com/track/5VOlgrZaSeoGPAZxOjmHiO"
     },
     {
       "album": {
@@ -2611,7 +2701,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 289928,
       "name": "Hypnos",
       "url": "https://open.spotify.com/track/347YMNFo0pJ43u0joTb8ww"
@@ -3693,7 +3783,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 353390,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/3Tp8XjgKqCpdQHS5OG6qQi"
@@ -4174,6 +4264,28 @@
     },
     {
       "album": {
+        "name": "Rave the Planet: Supporter Series, Vol. 009",
+        "url": "https://open.spotify.com/album/6grK3BlB8R5rUPQ4027YH8"
+      },
+      "artists": [
+        {
+          "name": "A*S*Y*S",
+          "url": "https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq"
+        },
+        {
+          "name": "Kai Tracid",
+          "url": "https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407819,
+      "name": "Rave The Planet",
+      "url": "https://open.spotify.com/track/3w5ugWaYMy17jjyUXNA7yq"
+    },
+    {
+      "album": {
         "name": "Raver's Heart EP",
         "url": "https://open.spotify.com/album/0RIG2BzZFToEUuJtZPZrWB"
       },
@@ -4225,7 +4337,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 400172,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq"
@@ -4732,6 +4844,24 @@
     },
     {
       "album": {
+        "name": "Speed",
+        "url": "https://open.spotify.com/album/7HFeb1OonbWxKEEBgiIHwG"
+      },
+      "artists": [
+        {
+          "name": "Justus",
+          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223384,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/2djrfJoMcMkeclcALeYHit"
+    },
+    {
+      "album": {
         "name": "Speed of Light",
         "url": "https://open.spotify.com/album/5WV3j5PoBLPfVu1RTIrFpX"
       },
@@ -5097,7 +5227,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 489480,
       "name": "The Age Of Love - Charlotte de Witte & Enrico Sangiuliano Remix",
       "url": "https://open.spotify.com/track/6X6Ow0iioCrYQSK1QDHQbC"
@@ -5159,7 +5289,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 249375,
       "name": "The Arrival",
       "url": "https://open.spotify.com/track/4OP9HNd8yYK6pyQjApRPoX"
@@ -5369,6 +5499,24 @@
       "duration_ms": 408056,
       "name": "The Known Universe",
       "url": "https://open.spotify.com/track/4ssKfm1dqsr1cZm2ds8CNs"
+    },
+    {
+      "album": {
+        "name": "The Past, The Future, The Present",
+        "url": "https://open.spotify.com/album/03bQP5zPOc0vPNu42hvrOZ"
+      },
+      "artists": [
+        {
+          "name": "Juliet Fox",
+          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372173,
+      "name": "The Past, The Future, The Present",
+      "url": "https://open.spotify.com/track/3rObXMVDtPqJAw49GTcbxc"
     },
     {
       "album": {
@@ -5785,7 +5933,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 424406,
       "name": "Vibrant",
       "url": "https://open.spotify.com/track/3PZ3wXifsjAhcsbNimcmUW"

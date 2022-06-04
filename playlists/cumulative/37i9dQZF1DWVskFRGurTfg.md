@@ -2,7 +2,7 @@
 
 ### [Hits Urbanos](https://open.spotify.com/playlist/37i9dQZF1DWVskFRGurTfg)
 
-> Éxitos urbanos de Latinoamérica: Foto: MC Davo & Santa Fe Klan
+> Éxitos urbanos de Latinoamérica: Foto: Polimá Westcoast & Pailita.
 
 243 songs - 13 hr 56 min - [published](https://open.spotify.com/playlist/2GQMqIHn6mzjfv4YUbCfpS)
 

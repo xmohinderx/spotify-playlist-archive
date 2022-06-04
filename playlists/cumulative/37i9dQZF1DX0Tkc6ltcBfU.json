@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the south. Cover: Future",
+  "description": "The hottest out the south. Cover: Moneybagg Yo",
   "name": "No Cap",
   "published_playlist_ids": [
     "2CHiCkE2iALYQLydnfqfDa"
@@ -240,6 +240,24 @@
     },
     {
       "album": {
+        "name": "Bang Dat Heat",
+        "url": "https://open.spotify.com/album/1j4BhHdFCZ76LVcG9QyFvm"
+      },
+      "artists": [
+        {
+          "name": "GMK",
+          "url": "https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113386,
+      "name": "Bang Dat Heat",
+      "url": "https://open.spotify.com/track/4QhBPXSDf20rc3EbkaNLbp"
+    },
+    {
+      "album": {
         "name": "Banking On Me",
         "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
       },
@@ -375,6 +393,40 @@
       "duration_ms": 138318,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT"
+    },
+    {
+      "album": {
+        "name": "Big League (with Yo Gotti, Moneybagg Yo, CMG The Label feat. Mozzy & Lil Poppa)",
+        "url": "https://open.spotify.com/album/0F7yQR5SY5IJ9G8xUg15h6"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163876,
+      "name": "Big League (with Yo Gotti, Moneybagg Yo, CMG The Label feat. Mozzy & Lil Poppa)",
+      "url": "https://open.spotify.com/track/4i32zrLpygBg5Ruy1uqN78"
     },
     {
       "album": {
@@ -637,7 +689,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 197680,
       "name": "Callin' (feat. Big K.R.I.T. & WESTSIDE BOOGIE)",
       "url": "https://open.spotify.com/track/3zQwqYVqMOOGddjx1eQsDs"
@@ -1219,7 +1271,7 @@
       },
       "artists": [
         {
-          "name": "lil Darius",
+          "name": "Lil Darius",
           "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
         }
       ],
@@ -1459,7 +1511,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 124800,
       "name": "Free The Shiners",
       "url": "https://open.spotify.com/track/5NMWPokmUZIX1ySu7YLF74"
@@ -1533,7 +1585,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 153994,
       "name": "Gang Baby (Never Broke Again, YoungBoy Never Broke Again, P Yungin feat. Rojay MLP & Rjae)",
       "url": "https://open.spotify.com/track/4lDwjby6qNJP9Zdhi3Vg0a"
@@ -1759,6 +1811,24 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "album": {
+        "name": "Houston",
+        "url": "https://open.spotify.com/album/74CvpjIheYmmwEqHO9b7kV"
+      },
+      "artists": [
+        {
+          "name": "Cico P",
+          "url": "https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Houston",
+      "url": "https://open.spotify.com/track/5754CiPkCAMNcu9DjkVPlb"
     },
     {
       "album": {
@@ -2031,10 +2101,32 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 166283,
       "name": "Keep Dissing",
       "url": "https://open.spotify.com/track/3NfCU6PjlnNkswTrdxeprJ"
+    },
+    {
+      "album": {
+        "name": "Keep Dissing 2 (with Lil Durk)",
+        "url": "https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174131,
+      "name": "Keep Dissing 2 (with Lil Durk)",
+      "url": "https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh"
     },
     {
       "album": {
@@ -2516,6 +2608,46 @@
     },
     {
       "album": {
+        "name": "Lost Souls",
+        "url": "https://open.spotify.com/album/6aCunyx3egIaHn64wd4dA2"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217218,
+      "name": "Mind Games",
+      "url": "https://open.spotify.com/track/7Itze7sYhdjEQ4yD1qS1Ox"
+    },
+    {
+      "album": {
+        "name": "Mind Yo Business (Feat. Latto)",
+        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122266,
+      "name": "Mind Yo Business (Feat. Latto)",
+      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
+    },
+    {
+      "album": {
         "name": "Bigger Than Life Or Death Part 2",
         "url": "https://open.spotify.com/album/50590zy2jXipuPgHomTXgv"
       },
@@ -2614,6 +2746,24 @@
     },
     {
       "album": {
+        "name": "Mrs. Davis",
+        "url": "https://open.spotify.com/album/6FVfrVKa2otpLyn5bVvHhR"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237904,
+      "name": "Mrs. Davis",
+      "url": "https://open.spotify.com/track/3LKd2tQ7VdOf1cENAKZCz0"
+    },
+    {
+      "album": {
         "name": "Mud Baby",
         "url": "https://open.spotify.com/album/4LxpOCez3cFyGXLqJKDiYv"
       },
@@ -2705,7 +2855,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 114261,
       "name": "New 50's",
       "url": "https://open.spotify.com/track/1E2ukB8wWsO5BFVrhpgg99"
@@ -2749,6 +2899,24 @@
       "duration_ms": 164571,
       "name": "No Love (feat. Sleepy Hallow)",
       "url": "https://open.spotify.com/track/23lerLvvPlJqcFB8ZEDkov"
+    },
+    {
+      "album": {
+        "name": "No Panties",
+        "url": "https://open.spotify.com/album/3CnXWlwLHgv4E1PaUnla28"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142998,
+      "name": "No Panties",
+      "url": "https://open.spotify.com/track/65aGF0Q6hLvlbIyuY2OXwX"
     },
     {
       "album": {
@@ -3159,7 +3327,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 133182,
       "name": "Pickin\u2019 Sides (feat. Icewear Vezzo)",
       "url": "https://open.spotify.com/track/0uX7dGC07Dd8mpvnCcWzH0"
@@ -3687,7 +3855,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 195864,
       "name": "Sad Song (with Spinabenz)",
       "url": "https://open.spotify.com/track/4aPRR0I9gIDJGJxlez3WE0"
@@ -4734,6 +4902,28 @@
     },
     {
       "album": {
+        "name": "Walkin (Key Glock remix)",
+        "url": "https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226115,
+      "name": "Walkin - Key Glock remix",
+      "url": "https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ"
+    },
+    {
+      "album": {
         "name": "Want Me",
         "url": "https://open.spotify.com/album/48QabKYCn7iLJuZy8oDS8k"
       },
@@ -4815,7 +5005,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 170270,
       "name": "Wheelie (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"

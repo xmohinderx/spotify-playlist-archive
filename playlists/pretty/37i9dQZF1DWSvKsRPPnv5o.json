@@ -1,33 +1,13 @@
 {
-  "description": "Holdin' it down for the westside. Cover: Blxst",
-  "num_followers": 690034,
+  "description": "Holdin' it down for the westside. Cover: Kendrick Lamar",
+  "num_followers": 690136,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzYyNDA2MCwwMDAwMDUxZjAwMDAwMTgxMDNhY2I5MTcwMDAwMDE4MDczNTBiODk3",
+  "snapshot_id": "MTY1NDIyODgwMCwwMDAwMDUyMDAwMDAwMTgxMjdiODUyYmYwMDAwMDE4MTI1NTMyZTY2",
   "tracks": [
-    {
-      "added_at": "2022-05-13 04:01:00",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 220779,
-      "name": "Silent Hill",
-      "url": "https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi"
-    },
     {
       "added_at": "2022-04-08 04:00:00",
       "album": {
@@ -47,6 +27,30 @@
       "duration_ms": 179674,
       "name": "LEMONADE",
       "url": "https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Die Hard",
+      "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -69,22 +73,6 @@
       "url": "https://open.spotify.com/track/4Q5qDYtCM3W9IlU64OTRAh"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "STUCK",
-        "url": "https://open.spotify.com/album/5s2NhE08ze83Su2TkgK065"
-      },
-      "artists": [
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        }
-      ],
-      "duration_ms": 217271,
-      "name": "STUCK",
-      "url": "https://open.spotify.com/track/1RvukJ9jo0u13zuq8wM4dg"
-    },
-    {
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "Divine Timing",
@@ -99,6 +87,42 @@
       "duration_ms": 147789,
       "name": "Brand New Rolex",
       "url": "https://open.spotify.com/track/0rOc6dyoDZENV8mJQ2gnQz"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 220779,
+      "name": "Silent Hill",
+      "url": "https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "STUCK",
+        "url": "https://open.spotify.com/album/5s2NhE08ze83Su2TkgK065"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 217271,
+      "name": "STUCK",
+      "url": "https://open.spotify.com/track/1RvukJ9jo0u13zuq8wM4dg"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -181,30 +205,6 @@
       "url": "https://open.spotify.com/track/4Kar4KNY0ov2vXdNzgl1LJ"
     },
     {
-      "added_at": "2022-05-13 04:01:00",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Amanda Reifer",
-          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Die Hard",
-      "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
-    },
-    {
       "added_at": "2022-05-21 00:43:03",
       "album": {
         "name": "GOAT",
@@ -255,6 +255,50 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
+        "name": "Read The Room",
+        "url": "https://open.spotify.com/album/1roM4M7RDOX7Oa3Nq1ND80"
+      },
+      "artists": [
+        {
+          "name": "Jayson Cash",
+          "url": "https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "Landstrip Chip",
+          "url": "https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a"
+        }
+      ],
+      "duration_ms": 138205,
+      "name": "Pull Up (feat. Symba & Landstrip Chip)",
+      "url": "https://open.spotify.com/track/4i8FAI8ddhgIanrdNZqP26"
+    },
+    {
+      "added_at": "2022-06-03 04:00:00",
+      "album": {
+        "name": "Good (feat. Larry June)",
+        "url": "https://open.spotify.com/album/3vn1BdA7R1tlONtrImfuAO"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 120948,
+      "name": "Good (feat. Larry June)",
+      "url": "https://open.spotify.com/track/0eDh4TtyNQHy4JlRAy08KT"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
         "name": "El Perro 2",
         "url": "https://open.spotify.com/album/7iYz8Ja9mVsdBddU8Oqmzu"
       },
@@ -293,30 +337,6 @@
       "url": "https://open.spotify.com/track/671qYsHx1DL1pNn3qxYg60"
     },
     {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Read The Room",
-        "url": "https://open.spotify.com/album/1roM4M7RDOX7Oa3Nq1ND80"
-      },
-      "artists": [
-        {
-          "name": "Jayson Cash",
-          "url": "https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E"
-        },
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
-        },
-        {
-          "name": "Landstrip Chip",
-          "url": "https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a"
-        }
-      ],
-      "duration_ms": 138205,
-      "name": "Pull Up (feat. Symba & Landstrip Chip)",
-      "url": "https://open.spotify.com/track/4i8FAI8ddhgIanrdNZqP26"
-    },
-    {
       "added_at": "2022-04-22 04:00:00",
       "album": {
         "name": "Before You Go",
@@ -331,6 +351,26 @@
       "duration_ms": 176850,
       "name": "Every Good Girl",
       "url": "https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet"
+    },
+    {
+      "added_at": "2022-06-03 04:00:00",
+      "album": {
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/50euaJScnQPyUSbh1Wy9TY"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 154536,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/7agBfdnarV5mFCouvfIVVj"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -425,22 +465,6 @@
       "url": "https://open.spotify.com/track/3qVGGk6cIJOvIMQhIXl7sE"
     },
     {
-      "added_at": "2022-05-09 00:00:00",
-      "album": {
-        "name": "The Heart Part 5",
-        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 332228,
-      "name": "The Heart Part 5",
-      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
-    },
-    {
       "added_at": "2022-04-29 04:00:00",
       "album": {
         "name": "Black Iverson",
@@ -505,6 +529,22 @@
       "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
     },
     {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "See The Difference",
+        "url": "https://open.spotify.com/album/1vejaBrMl3UnnCYeXFnqSN"
+      },
+      "artists": [
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        }
+      ],
+      "duration_ms": 178671,
+      "name": "See The Difference",
+      "url": "https://open.spotify.com/track/4a2Npv3ZNqZRumOMHQc0fu"
+    },
+    {
       "added_at": "2022-05-06 04:00:00",
       "album": {
         "name": "Couldn't Be Me",
@@ -545,26 +585,6 @@
       "url": "https://open.spotify.com/track/72LYxJqGTHVJamtyRQohre"
     },
     {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 222225,
-      "name": "moved to miami (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/3rjwafyisDpLdoJ4RecHp6"
-    },
-    {
       "added_at": "2022-04-29 04:00:00",
       "album": {
         "name": "Since Y'all Forgot",
@@ -595,22 +615,6 @@
       "duration_ms": 150028,
       "name": "B's Up",
       "url": "https://open.spotify.com/track/7LzDAUdS3NHUS2gkFUX5a5"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "See The Difference",
-        "url": "https://open.spotify.com/album/1vejaBrMl3UnnCYeXFnqSN"
-      },
-      "artists": [
-        {
-          "name": "BlueBucksClan",
-          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
-        }
-      ],
-      "duration_ms": 178671,
-      "name": "See The Difference",
-      "url": "https://open.spotify.com/track/4a2Npv3ZNqZRumOMHQc0fu"
     },
     {
       "added_at": "2022-04-29 04:00:00",

@@ -2,7 +2,7 @@
 
 ### [Summer Jazz](https://open.spotify.com/playlist/37i9dQZF1DWTKxc7ZObqeH)
 
-> Sunny jazz for sunny days.
+> Relaxing jazz on a warm summer day.
 
 129 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
 

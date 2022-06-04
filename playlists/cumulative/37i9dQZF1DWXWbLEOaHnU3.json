@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 480000,
       "name": "Believe - Bellatrix Remix",
       "url": "https://open.spotify.com/track/4Ju6x12fvx0nRxq4ZvWy6M"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 331094,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5kCdc14ItHSF6N6rI7wGSX"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 144347,
       "name": "Braveheart",
       "url": "https://open.spotify.com/track/417FBXmll2tCYcXI6CLt9g"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 419130,
       "name": "Famous",
       "url": "https://open.spotify.com/track/08rE1xda98LCbl4wpO0bY0"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 303428,
       "name": "Foresight",
       "url": "https://open.spotify.com/track/3Gu3dF2xLaOI3fVPlJmMxw"
@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 214290,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6m8BCfpZIVikVsm5YKVQrC"
@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 408000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/7xKVXX3cAq5TWskeCB0Oan"
@@ -1525,7 +1525,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 254896,
       "name": "look into the mirror",
       "url": "https://open.spotify.com/track/1CN9SDbF4slNTJPVAcWzJa"
@@ -1595,10 +1595,36 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 389370,
       "name": "Main Computer",
       "url": "https://open.spotify.com/track/6ut3Xc9Yn5tp9ki4Bg78rl"
+    },
+    {
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/5bTj4TS8SQsL4t2ID7Gglr"
+      },
+      "artists": [
+        {
+          "name": "Alchimyst",
+          "url": "https://open.spotify.com/artist/2yrruLNIgKetksilWBdJHy"
+        },
+        {
+          "name": "Coexist",
+          "url": "https://open.spotify.com/artist/7I08DUDSBedSy10Pctjpjf"
+        },
+        {
+          "name": "Jasmine Knight",
+          "url": "https://open.spotify.com/artist/62dzcTsEV21nYVDa3ViUEh"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/1V6KX61KpHJ9Z4mtGeroUO"
     },
     {
       "album": {
@@ -1683,10 +1709,36 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 358945,
       "name": "NAMAHA",
       "url": "https://open.spotify.com/track/19vs5EKA0WfxAmjDLzLhnx"
+    },
+    {
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/2YIxJt6k9uC6ep6krFNuJG"
+      },
+      "artists": [
+        {
+          "name": "Memento Mori",
+          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
+        },
+        {
+          "name": "Massivebass",
+          "url": "https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI"
+        },
+        {
+          "name": "Max Tase",
+          "url": "https://open.spotify.com/artist/1TciVq9gxOXxCUKcR05O8m"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219310,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/74fwN6K31SM39qanJOfDxd"
     },
     {
       "album": {
@@ -1793,6 +1845,28 @@
       "duration_ms": 417391,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/0FDGlQi6bwXJWEzJAeCnSv"
+    },
+    {
+      "album": {
+        "name": "Rave Ready",
+        "url": "https://open.spotify.com/album/6hjWdzIR83zajbykdXZqoH"
+      },
+      "artists": [
+        {
+          "name": "Simon Patterson",
+          "url": "https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M"
+        },
+        {
+          "name": "Ilai",
+          "url": "https://open.spotify.com/artist/11wZf9Pps7qYf5xYlLu2Ku"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474857,
+      "name": "Opulence - Ilai Extended Remix",
+      "url": "https://open.spotify.com/track/45l0y9dwxfvWgZzvjvnvWu"
     },
     {
       "album": {
@@ -2063,10 +2137,28 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 446197,
       "name": "Sacred Space - Original mix",
       "url": "https://open.spotify.com/track/4WgAzEQpYRXn7oyWG3Iu0H"
+    },
+    {
+      "album": {
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/4RUTUNXzckpNmi2GCiTv1s"
+      },
+      "artists": [
+        {
+          "name": "Mou5ZyZZ",
+          "url": "https://open.spotify.com/artist/6H2LGB5CAdk0wlV0ehb0B2"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136392,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/7J1TYqJ7CcEV5I9GlOZvbU"
     },
     {
       "album": {
@@ -2293,7 +2385,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 501971,
       "name": "Snap",
       "url": "https://open.spotify.com/track/7aj4xtdZhFZW1kJ2TygT0C"
@@ -2329,7 +2421,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 272350,
       "name": "Space",
       "url": "https://open.spotify.com/track/60P4NFoheamHGCvC1lDU2G"
@@ -2377,7 +2469,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 270629,
       "name": "Stuck In My Head",
       "url": "https://open.spotify.com/track/3sHDHHKbdQPADaejmZp1oP"
@@ -2588,6 +2680,32 @@
     },
     {
       "album": {
+        "name": "Transparent",
+        "url": "https://open.spotify.com/album/2OKDQOcsc2yOWFjHqjcPdk"
+      },
+      "artists": [
+        {
+          "name": "Jason Nawty",
+          "url": "https://open.spotify.com/artist/1nbB8VrSF57apiVkD91VIA"
+        },
+        {
+          "name": "NG Rezonance",
+          "url": "https://open.spotify.com/artist/4S3uwi4VXgUQNrLLetTBV5"
+        },
+        {
+          "name": "Avaxx",
+          "url": "https://open.spotify.com/artist/52HUx45BazsC0Ie5cjTwlJ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "Transparent",
+      "url": "https://open.spotify.com/track/4MRwMKUwl3ognSdlzQyZ9f"
+    },
+    {
+      "album": {
         "name": "Under the Surface",
         "url": "https://open.spotify.com/album/6Z1ZXaERxUl15NXFAOwXlI"
       },
@@ -2617,7 +2735,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 220285,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/0mYB0z3lSNiaMqBpSFoUPd"
@@ -2675,7 +2793,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "War of the Gods",
       "url": "https://open.spotify.com/track/2fSuULcE8VMeOHxBsXIy0d"
@@ -2799,7 +2917,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 358285,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2hXlub5ZvPv7lUiQao52I5"
@@ -2861,7 +2979,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 390011,
       "name": "You Wanna Stay",
       "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
@@ -2879,7 +2997,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 406750,
       "name": "Yuma",
       "url": "https://open.spotify.com/track/45gdJm5UPBR1zQWVuK50eJ"

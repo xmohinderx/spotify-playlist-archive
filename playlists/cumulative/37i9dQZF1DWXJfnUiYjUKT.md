@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Post Malone
 
-2,279 songs - 4 day 23 hr 29 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
+2,280 songs - 4 day 23 hr 31 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1326,6 +1326,7 @@
 | [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 | 2022-04-28 | 2022-05-06 |
 | [Million Dollars Worth of Game \(feat\. 42 Dugg\)](https://open.spotify.com/track/3IZWCcD1FYpyeY3ki2VUmL) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Million Dollars Worth of Game \(feat\. 42 Dugg\)](https://open.spotify.com/album/0eIUsIe0Bo1gH7gld8lFbg) | 2:39 | 2022-01-07 | 2022-01-14 |
 | [Million Little Problems](https://open.spotify.com/track/1nccRXlgqIuC8WiAuTieBo) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Million Little Problems](https://open.spotify.com/album/3YDmWON2aVb6IayCjQwkj5) | 2:27 | 2022-04-14 | 2022-04-22 |
+| [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk) | 2:02 | 2022-06-02 |  |
 | [Mine](https://open.spotify.com/track/4nb1IKpcYekqY4enXOdNzm) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Mine](https://open.spotify.com/album/19VC3wBEzuvT9K73l0Jkan) | 3:29 | 2021-12-30 | 2022-01-07 |
 | [Mine O' Mine](https://open.spotify.com/track/6nATiM03z9hZ5aPF8pswNe) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/3d1goOl1kD29hQPHRtywS9) | 3:13 | 2022-04-28 | 2022-05-06 |
 | [Mirage](https://open.spotify.com/track/4nVqAzqBNNTA28majHbIqZ) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Mirage](https://open.spotify.com/album/03GVz1bOYQQbQI9pCLXbU3) | 3:51 | 2022-02-11 | 2022-02-18 |

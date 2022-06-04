@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 158426,
       "name": "All My Friends Are Dead",
       "url": "https://open.spotify.com/track/6iDnezR8vmo7aF7k2BsMzD"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 221093,
       "name": "Beer (Song)",
       "url": "https://open.spotify.com/track/51o1raerznDJWU1rEGqGPn"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 180893,
       "name": "Bro Hymn",
       "url": "https://open.spotify.com/track/4ksd5zvWtM0CHCyK1brHWL"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 209626,
       "name": "City Of Angels",
       "url": "https://open.spotify.com/track/4D7sweC53ikn2HrABdrvdm"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 133293,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/2XTggG0CO00DkQy3U9rj1e"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 190493,
       "name": "Girl's Not Grey",
       "url": "https://open.spotify.com/track/6YjciGk65aCrZAXjaQVG6C"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 197786,
       "name": "I Won't Lie Down",
       "url": "https://open.spotify.com/track/5sEmIMKfc3Y75rDHc6dnOb"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 206080,
       "name": "Kemp",
       "url": "https://open.spotify.com/track/6hhXVmXQBECK7Z0DXrFb2U"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 204307,
       "name": "Let's Ride",
       "url": "https://open.spotify.com/track/0fS39bIa0jM3NfywM5cb4h"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 173493,
       "name": "Mexican Radio",
       "url": "https://open.spotify.com/track/6mFRfprP5OTvr82GzGhHXJ"
@@ -890,6 +890,24 @@
     },
     {
       "album": {
+        "name": "Big Daddy Multitude",
+        "url": "https://open.spotify.com/album/2uvJMoMuk7mxOqHaU5PTEN"
+      },
+      "artists": [
+        {
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166040,
+      "name": "Mr. Smiley",
+      "url": "https://open.spotify.com/track/4pCZhwsn1mbN8fDYe42Hl5"
+    },
+    {
+      "album": {
         "name": "Sticks and Stones",
         "url": "https://open.spotify.com/album/0BfBwxymSFgSgHf9XH13AK"
       },
@@ -919,7 +937,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 160893,
       "name": "My Girlfriend's Dead",
       "url": "https://open.spotify.com/track/2JzI278tX8YUCelGMZjPO8"
@@ -955,7 +973,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 149506,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/2gAJ6xYuJ2N6DdtDOhsL3y"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 161800,
       "name": "She's Got The Look",
       "url": "https://open.spotify.com/track/0IPpDL2ZVlARtmACSzsXlc"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 158733,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/0jqK7sGTLsHPkQrrcrGuKD"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 130133,
       "name": "Turncoat",
       "url": "https://open.spotify.com/track/3fL2RGr1SAZT3wJObAEiDG"

@@ -597,7 +597,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 121822,
       "name": "Fofoqueira",
       "url": "https://open.spotify.com/track/6lEfI6QvsdZyQKhDW9FYmB"
@@ -965,6 +965,24 @@
       "duration_ms": 123750,
       "name": "Meu Lugar de Fala",
       "url": "https://open.spotify.com/track/0ckL8UjwoAYIOJ8hwQ8ASt"
+    },
+    {
+      "album": {
+        "name": "Moreno",
+        "url": "https://open.spotify.com/album/2s7D5gKh8Nvn1Euy1KsZh5"
+      },
+      "artists": [
+        {
+          "name": "Samantha Machado",
+          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Moreno",
+      "url": "https://open.spotify.com/track/7BA05JWlf0qQjtKF9stcWD"
     },
     {
       "album": {

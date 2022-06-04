@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-118 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+119 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Tempo](https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Tempo](https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh) | 2:58 | 2022-02-17 |  |
 | [That's The Power \- Studio](https://open.spotify.com/track/2YNehyJ62hvQtlFfutN3tT) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [These Same Skies \(Studio\)](https://open.spotify.com/album/72875wC7QpXtC9dd8jUzDk) | 4:01 | 2022-03-11 |  |
 | [The Best Is Yet To Come](https://open.spotify.com/track/0x2lQoO0pbXxBmJztRieR5) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [The Best Is Yet To Come](https://open.spotify.com/album/6NWTU6KMXWN0nc0LdJ3lMZ) | 4:18 | 2022-02-17 |  |
+| [The Goodness \(feat\. Blessing Offor\)](https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Goodness](https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR) | 3:45 | 2022-06-03 |  |
 | [The Greatest](https://open.spotify.com/track/7egaSn0ILHiB2ULah0i0UW) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [The Greatest](https://open.spotify.com/album/7xXyEzdawnwduIZDPw4Bxh) | 2:52 | 2022-02-17 |  |
 | [The Table](https://open.spotify.com/track/6YkYoeZXZUK5SP8EReOOQI) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [The Table](https://open.spotify.com/album/5V23DdCgKh1j2fNP340qdB) | 4:20 | 2022-02-17 |  |
 | [This Is How I Thank The Lord](https://open.spotify.com/track/2XrI8fJ93XibAXDtlAWZpl) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [This Is How I Thank The Lord](https://open.spotify.com/album/2vbbNQNBVcUAO2X9H7aeU9) | 3:10 | 2022-04-08 |  |

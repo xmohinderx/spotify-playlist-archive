@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Killua
 
-80 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
+81 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [FDP EU TE AMO](https://open.spotify.com/track/7oRU2MX5XxLVe53Zh5uZN5) | [NATH](https://open.spotify.com/artist/6dAUWqdIfuQKFV9i2kMiFx), [AKhali](https://open.spotify.com/artist/0ldnjk0MOqCCqu7RkMb3Ku) | [BRAZA](https://open.spotify.com/album/0hNutyZHAMMxDZqTskpIOZ) | 2:38 | 2022-03-18 |  |
 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 | 2022-03-18 |  |
 | [Flow Tinashe](https://open.spotify.com/track/3aPYt5NlSKHQ1QoJ8rgfHi) | [Bruna Liz](https://open.spotify.com/artist/1Y4WZDXADQZRLwOopgt37V) | [Flow Tinashe](https://open.spotify.com/album/1EDMseF4GmY9exe5iZU14o) | 2:37 | 2022-03-18 |  |
-| [Fofoqueira](https://open.spotify.com/track/6lEfI6QvsdZyQKhDW9FYmB) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Luka G](https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9) | [Fofoqueira](https://open.spotify.com/album/6flPMDm8S9h2s3bCMaWA6e) | 2:01 | 2022-04-08 |  |
+| [Fofoqueira](https://open.spotify.com/track/6lEfI6QvsdZyQKhDW9FYmB) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Luka G](https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9) | [Fofoqueira](https://open.spotify.com/album/6flPMDm8S9h2s3bCMaWA6e) | 2:01 | 2022-04-08 | 2022-06-04 |
 | [Força Feminina](https://open.spotify.com/track/5YAeh6eIl9MoTOvLF2k2WZ) | [DeaaZ](https://open.spotify.com/artist/6qwsKQVKf0xfhUYBObyfQc), [AmandesNoBeat](https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6) | [Histórias Primas](https://open.spotify.com/album/5ymgayaqTQxiUOJ7kOHlSC) | 3:04 | 2022-04-22 |  |
 | [Futuro](https://open.spotify.com/track/0JqeNZ9naWlaojoueuwBQg) | [Mc Lucy](https://open.spotify.com/artist/44bzWn6GQs6zVXvnYtqIMa), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c) | [Poder](https://open.spotify.com/album/2Avjohr3TQNOdMaCbw3dOd) | 2:23 | 2022-03-18 |  |
 | [geada](https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [geada](https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5) | 2:34 | 2022-03-18 |  |
@@ -54,6 +54,7 @@
 | [MEDITO E ME ACALMO](https://open.spotify.com/track/1qFKnOalXyNsfeABFGGQCi) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [DO LADO DE FLORA](https://open.spotify.com/album/0HyNbYtVf6qXJRqbdqO9Uk) | 2:43 | 2022-03-18 |  |
 | [Medusa](https://open.spotify.com/track/2ycdoQS6a9dC33o0v3c1sx) | [Inked Mari](https://open.spotify.com/artist/2bQLU0aXvd4PY08qdTpeUJ) | [Medusa](https://open.spotify.com/album/2k5xtl0YyJVFomryO8MGBp) | 2:19 | 2022-03-18 |  |
 | [Meu Lugar de Fala](https://open.spotify.com/track/0ckL8UjwoAYIOJ8hwQ8ASt) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Meu Lugar de Fala](https://open.spotify.com/album/6Z24Hr0ndBCzkExWgb7RNV) | 2:03 | 2022-03-18 |  |
+| [Moreno](https://open.spotify.com/track/7BA05JWlf0qQjtKF9stcWD) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Moreno](https://open.spotify.com/album/2s7D5gKh8Nvn1Euy1KsZh5) | 2:34 | 2022-06-03 |  |
 | [N.S.D.P](https://open.spotify.com/track/4O4NvDr8ppUzTUcWv9ksnR) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [N.S.D.P](https://open.spotify.com/album/2wv99EMmienicc3M3fXeol) | 2:35 | 2022-03-18 |  |
 | [Nem Quero Saber](https://open.spotify.com/track/1BMSRjqjt2INiJ4PuEyWmv) | [Ikinya](https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU) | [M\. E\. T\. A.](https://open.spotify.com/album/4I6FSM59W2S3umPPxBukLW) | 2:41 | 2022-03-18 |  |
 | [No Feelings](https://open.spotify.com/track/14e36462Mej9BbWFkO42T2) | [Scarlett Wolf](https://open.spotify.com/artist/5hiwoYrfML1abtDBW5EG2p) | [NO FEELINGS](https://open.spotify.com/album/5MWp3ROrxT3rAA85S5Zplb) | 2:21 | 2022-03-18 |  |

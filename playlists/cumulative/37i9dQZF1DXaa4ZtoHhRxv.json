@@ -1924,6 +1924,32 @@
     },
     {
       "album": {
+        "name": "Soul (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/2BiotTS8ZOBFKLQAnJ0JVN"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        },
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148440,
+      "name": "Soul (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/32d8sQk2Q6zttnj80nBFMM"
+    },
+    {
+      "album": {
         "name": "Ripcord",
         "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },

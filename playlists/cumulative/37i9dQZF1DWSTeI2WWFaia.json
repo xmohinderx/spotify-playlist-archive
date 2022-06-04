@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Kendrick Lamar",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Denzel Curry",
   "name": "Spilled Ink",
   "published_playlist_ids": [
     "263ylGzX2g8MfE4QemXHet"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 187416,
       "name": "505",
       "url": "https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i"
@@ -574,6 +574,24 @@
     },
     {
       "album": {
+        "name": "Bleed It",
+        "url": "https://open.spotify.com/album/4jbjMs0rSuwQl7Jk5JFyYb"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151423,
+      "name": "Bleed It",
+      "url": "https://open.spotify.com/track/1D2gtAC32GhkOlGvGJ7hxk"
+    },
+    {
+      "album": {
         "name": "Blood Roses (feat. Jae Skeese)",
         "url": "https://open.spotify.com/album/4Ouk5ecSxkKmcVTzNfxQLj"
       },
@@ -663,7 +681,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 169453,
       "name": "BOZOS",
       "url": "https://open.spotify.com/track/6SD90udaKP3jfdz0c9p8Om"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 162680,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/5UldJxuMst4yL1ONpNUylD"
@@ -1408,6 +1426,28 @@
     },
     {
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
+    },
+    {
+      "album": {
         "name": "Pyrex Picasso",
         "url": "https://open.spotify.com/album/4SHWCpbJJU2npNxrjrsj8e"
       },
@@ -1445,7 +1485,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 185306,
       "name": "For Real (feat. Kemba)",
       "url": "https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg"
@@ -1821,7 +1861,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 230156,
       "name": "Hans Zimmer",
       "url": "https://open.spotify.com/track/6LJW7Yu0P0wvO4mieoRzcn"
@@ -1927,6 +1967,24 @@
       "duration_ms": 229802,
       "name": "Heaven's Sky (feat. Rae Khalil)",
       "url": "https://open.spotify.com/track/55RLuYa5urfohvcAc0jtsb"
+    },
+    {
+      "album": {
+        "name": "EGOT the EP",
+        "url": "https://open.spotify.com/album/4ZzmOGM0viirRaZVeQAgBJ"
+      },
+      "artists": [
+        {
+          "name": "CyHi",
+          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312653,
+      "name": "Help Me God",
+      "url": "https://open.spotify.com/track/4bboBH2tBue5ANUrURizjV"
     },
     {
       "album": {
@@ -2679,7 +2737,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 166775,
       "name": "Lifestyle (with Bas feat. A$AP Ferg)",
       "url": "https://open.spotify.com/track/0URbdJpIV9B54W2d9yeMwt"
@@ -2735,6 +2793,28 @@
       "duration_ms": 216230,
       "name": "Live from the Methlab",
       "url": "https://open.spotify.com/track/0tx6qeeCxqG2H5xdCblIRB"
+    },
+    {
+      "album": {
+        "name": "$hook",
+        "url": "https://open.spotify.com/album/40a2ZAxxlBBxwP6wCNrAfM"
+      },
+      "artists": [
+        {
+          "name": "Tre' Amani",
+          "url": "https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0"
+        },
+        {
+          "name": "Rodney Hollywood",
+          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148118,
+      "name": "lo$t kid.",
+      "url": "https://open.spotify.com/track/6vQK5arrwdS2rrpNJWJ3EI"
     },
     {
       "album": {
@@ -3059,7 +3139,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 172524,
       "name": "Myself (feat. DEVN)",
       "url": "https://open.spotify.com/track/7mlOsqmNcuZK9c43W1p2hD"
@@ -3835,7 +3915,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 178536,
       "name": "RUN THE WORLD",
       "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
@@ -4077,7 +4157,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 170353,
       "name": "Slip",
       "url": "https://open.spotify.com/track/6TH7vmxNibiSynNVMZU5bW"
@@ -4273,7 +4353,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 270044,
       "name": "Starting 5 (with Lute, Cozz & Omen)",
       "url": "https://open.spotify.com/track/2OSsmzINPSwQ1hLoMH70Rj"
@@ -4473,7 +4553,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 180493,
       "name": "Subzero",
       "url": "https://open.spotify.com/track/1OmGrbjzEZXeC4HAiYWwmN"
@@ -4565,7 +4645,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 162528,
       "name": "Talkin' Back (feat. Fat Joe)",
       "url": "https://open.spotify.com/track/0Bj62CkpsaMZJwgqZ0UbPc"
@@ -4609,7 +4689,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 253125,
       "name": "Tear Gas (feat. Rick Ross & Lil Wayne)",
       "url": "https://open.spotify.com/track/5UHGymgm6Okr0oSQOuFNiF"
@@ -4729,7 +4809,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 332228,
       "name": "The Heart Part 5",
       "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
@@ -4959,7 +5039,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 116829,
       "name": "Theme For The People",
       "url": "https://open.spotify.com/track/08dXaiP8qdpvQqGKv5rUqE"
@@ -5065,7 +5145,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 182940,
       "name": "Trap Gods",
       "url": "https://open.spotify.com/track/0rWAegGm4B4c5myyTNGi3k"
@@ -5087,7 +5167,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 134674,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/09AnQUhsPhrCKTAjaKowpR"
@@ -5293,6 +5373,28 @@
       "duration_ms": 267120,
       "name": "Vlad TV (feat. Stove God Cooks, Symba & Major Myjah)",
       "url": "https://open.spotify.com/track/1X1a1NKvRjNA7U0jlGTHbL"
+    },
+    {
+      "album": {
+        "name": "Walkin (Key Glock remix)",
+        "url": "https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226115,
+      "name": "Walkin - Key Glock remix",
+      "url": "https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ"
     },
     {
       "album": {

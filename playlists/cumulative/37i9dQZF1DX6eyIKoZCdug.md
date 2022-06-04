@@ -4,7 +4,7 @@
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-70 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/7FfYgPlgGkKYkTqIwLeLMg)
+71 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/7FfYgPlgGkKYkTqIwLeLMg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Apollo](https://open.spotify.com/track/2RNQtNViN1cvRUcOSKm8S2) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu), [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Apollo](https://open.spotify.com/album/30A5Iby53Ue93FHWJgJlUn) | 7:24 | 2021-10-21 |  |
 | [Back Home](https://open.spotify.com/track/1Rr3WLmgVMqfMuPE6OG28l) | [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w), [Miči](https://open.spotify.com/artist/1aJGoykRBEjrMcNWOhV5am) | [Lemon & Herb presents Miči: The Sound Of Light](https://open.spotify.com/album/7n9cIaFh9rUFDj2r2Kxaxr) | 3:42 | 2021-12-30 |  |
 | [Bestfriend](https://open.spotify.com/track/3hKwgPKqfjeHrHHawdYVgs) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [African Electronic Dance Music](https://open.spotify.com/album/57Mr4RJ20788Q1n2URHEuI) | 5:50 | 2021-10-29 |  |
-| [Better Days](https://open.spotify.com/track/2qQHhFuxRb3FL3wDfsi35O) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Better Days](https://open.spotify.com/album/0Lh1cfF3HY82AHQtJCJxMj) | 6:12 | 2021-10-21 |  |
+| [Better Days](https://open.spotify.com/track/2qQHhFuxRb3FL3wDfsi35O) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Better Days](https://open.spotify.com/album/0Lh1cfF3HY82AHQtJCJxMj) | 6:12 | 2021-10-21 | 2022-06-04 |
 | [Break Through](https://open.spotify.com/track/19mFJSm6EbG0CqP5WbYIBT) | [UNLIMITED SOUL](https://open.spotify.com/artist/1YKPUOZchJZDIwoU7SZiZg), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l) | [Break Through](https://open.spotify.com/album/746kHitSjl4A6lKrTvN1lu) | 6:52 | 2022-01-27 |  |
 | [Breakfast In Soweto](https://open.spotify.com/track/3aYv0tyHlIYUwCq2SwZDlT) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq), [Mandlin Beams](https://open.spotify.com/artist/7nR1JD6ljztZrEuxTNijpk) | [Breakfast In Soweto](https://open.spotify.com/album/3NfgQFaqUzxBCrvUME1iu7) | 7:14 | 2022-03-24 |  |
 | [Closer](https://open.spotify.com/track/7G4v7DqAAJTOu8PBtE1qsS) | [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Closer / Ma Vie Celeste](https://open.spotify.com/album/3mRuix6vGc5tDkZCao3LiJ) | 6:32 | 2021-10-14 |  |
@@ -68,6 +68,7 @@
 | [Sun Spot](https://open.spotify.com/track/2PFzW2TmpRuMkIRcwdb0hK) | [Gina Jeanz](https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu), [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Sun Spot](https://open.spotify.com/album/0dMANuJKGeHXJ6BsXd60jy) | 3:51 | 2021-10-28 |  |
 | [Synchronicity](https://open.spotify.com/track/17Pezlk1xLdBdKjgS7q7qi) | [Sensei Lo](https://open.spotify.com/artist/6l2l0ZGMU1Mhh9N7cl8QC2), [Paul Word](https://open.spotify.com/artist/5qU0uKIxlsZbHdcOIflXHT) | [Pisces Moon](https://open.spotify.com/album/68Zbda9pJAjlrmczzWUlAp) | 4:53 | 2022-02-10 |  |
 | [Too Sweet \(O Dun\)](https://open.spotify.com/track/2mfWkv1pXb95OtgGDufSSR) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Too Sweet \(O Dun\)](https://open.spotify.com/album/6nFnihntbchDVH2ZkjNB7S) | 3:36 | 2021-08-05 |  |
+| [Trip Session](https://open.spotify.com/track/7rUIoOYx3ati9dCRWQdufx) | [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi) | [Trip Session](https://open.spotify.com/album/3WQzxeVf6BkspkAR8FKkMA) | 6:56 | 2022-06-03 |  |
 | [Uthando Lwami](https://open.spotify.com/track/4va1DJfcQelri4b11uvefM) | [AmaSiblings](https://open.spotify.com/artist/15SCanfgk9ZxMx1NvRDKcY), [DJ Mngadi](https://open.spotify.com/artist/5xrwtKX2rGJDeInQ5XMyDj) | [Emhlabeni](https://open.spotify.com/album/013H9rU704fFGVsAM84vkV) | 4:12 | 2021-10-14 |  |
 | [Uvalo](https://open.spotify.com/track/6AWG94PiLOenHLjrBcctqE) | [Afro Brotherz](https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN), [Pixie L](https://open.spotify.com/artist/0JVP5fFbuXFm9e3YWWDcGk) | [The Lands, Pt\. 2](https://open.spotify.com/album/0k1iai1zN0id193FscCo70) | 6:36 | 2021-12-30 |  |
 | [Uzalo](https://open.spotify.com/track/2Iy2zGCf7ZC0SXJqZqrqiQ) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Nomkhosi](https://open.spotify.com/artist/1PCVXstDGerB9ibPW8Ut4B), [Olefied Khetha](https://open.spotify.com/artist/7encSKpRGCkRR4yF13Shr9) | [Ghetto King](https://open.spotify.com/album/3q8v4F3zabaHlG5IVECT6r) | 6:45 | 2021-12-30 |  |

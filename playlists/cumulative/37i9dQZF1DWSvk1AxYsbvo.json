@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "A Love Song",
       "url": "https://open.spotify.com/track/66is2tFkaji7lYMWt7KS1z"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 233520,
       "name": "Call me now",
       "url": "https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 191331,
       "name": "Cheer Up - Acoustic Version",
       "url": "https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ"
@@ -406,6 +406,24 @@
     },
     {
       "album": {
+        "name": "Can you hear my heart",
+        "url": "https://open.spotify.com/album/40KoO74KTCRxeegC2q78y2"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uce35\ubc84\uc2a4",
+          "url": "https://open.spotify.com/artist/7wF8XnangErTa3w9hILf13"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "I'm not drunken",
+      "url": "https://open.spotify.com/track/1MP9FZTsFYapBGdgJWVcNO"
+    },
+    {
+      "album": {
         "name": "Is you",
         "url": "https://open.spotify.com/album/7y8QDramTNvHWnbFANijH1"
       },
@@ -435,7 +453,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 190976,
       "name": "It's strange",
       "url": "https://open.spotify.com/track/5UUb6UXXjGhdO9gcyrjeCs"
@@ -489,7 +507,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 225080,
       "name": "Just You",
       "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
@@ -633,7 +651,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 193667,
       "name": "moon river (2021)",
       "url": "https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp"
@@ -651,7 +669,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 210875,
       "name": "Moontanroad - solo version",
       "url": "https://open.spotify.com/track/2jmaU2iOeMaQ4cM9wYS1Cb"
@@ -687,7 +705,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 226612,
       "name": "My heart that has nowhere to go",
       "url": "https://open.spotify.com/track/3blKIvJIBkrxh04qk5FPWT"
@@ -705,7 +723,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 286422,
       "name": "neighborhood bookstore",
       "url": "https://open.spotify.com/track/2EKT56VMK218rRW6X2nEqY"
@@ -799,7 +817,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 254691,
       "name": "River Flows In You",
       "url": "https://open.spotify.com/track/2V05KB0icP3LeekILjSqhR"
@@ -839,7 +857,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 198040,
       "name": "SHE",
       "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
@@ -951,7 +969,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 247422,
       "name": "Summer Holiday",
       "url": "https://open.spotify.com/track/6JssFto40uuzKpsyKOOPt2"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 276185,
       "name": "The Elephant",
       "url": "https://open.spotify.com/track/6WbNIhdOsC0rngXTXm2cXv"
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 193039,
       "name": "To You",
       "url": "https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m"
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 193593,
       "name": "Transcendence",
       "url": "https://open.spotify.com/track/5EYZN2W4qk20IOQ9c3JZ6K"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "With All My Heart (with Hyunseo Park)",
       "url": "https://open.spotify.com/track/7w5kC3H1jdmKzna5YCSchk"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 214000,
       "name": "\uac00\uc744\uacfc \uaca8\uc6b8 \uc0ac\uc774 - New Version",
       "url": "https://open.spotify.com/track/55TblT0IIaJYUenOCqOzRM"

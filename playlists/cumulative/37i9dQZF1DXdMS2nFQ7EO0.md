@@ -4,7 +4,7 @@
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-122 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/1ZF0pbGIatnjdQmWjkzz9Q)
+124 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/1ZF0pbGIatnjdQmWjkzz9Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Qué Chimba](https://open.spotify.com/track/0rIZ49wxDf8H2LXOKmAMW5) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Qué Chimba](https://open.spotify.com/album/3bCabsApM2gTY3KYRKMsw6) | 2:49 | 2022-05-11 |  |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2022-04-07 |  |
 | [Real Love \- Sak Noel, Salvi & Franklin Dam Remix](https://open.spotify.com/track/21LO2b29sLEypeJFXWqEQl) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat), [Franklin Dam](https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY) | [Real Love \(Sak Noel, Salvi & Franklin Dam Remix\)](https://open.spotify.com/album/762BWVMk6By89MAXZNCM20) | 2:32 | 2022-05-11 |  |
+| [Requinto](https://open.spotify.com/track/6LdiTcs37ol9wfleUsEh2b) | [Dj Drew](https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD) | [Requinto](https://open.spotify.com/album/4gHHFDzIWVzuKrpw1uEXD3) | 3:38 | 2022-06-03 |  |
 | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB) | 3:18 | 2022-04-07 | 2022-05-12 |
 | [Revolution](https://open.spotify.com/track/1e8g8Zypak1hTK8l12olYd) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Revolution](https://open.spotify.com/album/1LfYvibIWM1oqBIzO7XY3c) | 4:23 | 2022-04-07 | 2022-05-12 |
 | [Ridin](https://open.spotify.com/track/2v7STN06CYz4hLNvPXelUX) | [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [BASE](https://open.spotify.com/artist/3BLMGeDCKEvxuiuEUag9xf) | [Ridin](https://open.spotify.com/album/0hHLb17NBPkyvR9MlDgOei) | 2:22 | 2022-04-07 | 2022-05-12 |
@@ -130,5 +131,6 @@
 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 | 2022-05-11 |  |
 | [Wild \- MEDUZA Remix](https://open.spotify.com/track/0eHT54ehADNQkSypa0YGgp) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Wild \(MEDUZA Remix\)](https://open.spotify.com/album/6ROmcFlXlAAZqInWfUIj3t) | 3:05 | 2022-04-07 | 2022-05-12 |
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2022-05-11 |  |
+| [Zumbido](https://open.spotify.com/track/7pn7x47Cj9NCQg9vZxBuGQ) | [Dj Fredy Fresco](https://open.spotify.com/artist/7v5hVOTXEjeW6jJZ94iKzV) | [Fresco En La Casa](https://open.spotify.com/album/73gT0panzzjGJjpBeLRkfK) | 2:22 | 2022-06-03 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

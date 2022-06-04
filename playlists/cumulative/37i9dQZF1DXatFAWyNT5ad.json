@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 150015,
       "name": "18",
       "url": "https://open.spotify.com/track/4h7CVH9xtHoYSlEV5Dpamk"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 158973,
       "name": "Again",
       "url": "https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 171033,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/0zu5YEA4jVLa36NtZHS6SO"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 179363,
       "name": "Betterman",
       "url": "https://open.spotify.com/track/1OJX5Rkvu0NfzIywy4Re9U"
@@ -1391,7 +1391,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 158081,
       "name": "CASUALTY",
       "url": "https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc"
@@ -1625,7 +1625,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 167365,
       "name": "cotton candy",
       "url": "https://open.spotify.com/track/3foWaxM2tcZD91WcOLFqch"
@@ -1665,7 +1665,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 152649,
       "name": "Couldn't Help Myself",
       "url": "https://open.spotify.com/track/77zvSNmIShZWtLllpF1hI0"
@@ -1719,7 +1719,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 183252,
       "name": "Crazy Devotion",
       "url": "https://open.spotify.com/track/2OODxPE3suTBpTHQbV9kDG"
@@ -1863,7 +1863,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 197301,
       "name": "death wish",
       "url": "https://open.spotify.com/track/5YOPTy4ENCgM0JZnJrkXXF"
@@ -2085,7 +2085,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 168384,
       "name": "Down (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/5mkjZ6EciJaZrRXUL5eDfH"
@@ -2263,7 +2263,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 165681,
       "name": "e-z (feat. UPSAHL & Blu DeTiger)",
       "url": "https://open.spotify.com/track/2FsHjcNkT4usTdV2b407Iq"
@@ -2469,7 +2469,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 169450,
       "name": "fake friend",
       "url": "https://open.spotify.com/track/574469CWNKsxl4D7RF1fJt"
@@ -2509,7 +2509,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 155274,
       "name": "fall apart (with glaive)",
       "url": "https://open.spotify.com/track/6RYlGPwrNuwG8CqIRDYes6"
@@ -2987,7 +2987,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 217510,
       "name": "god save me, but don't drown me out",
       "url": "https://open.spotify.com/track/0rUTQPibpskoXRrKjbGZjo"
@@ -3371,6 +3371,24 @@
       "duration_ms": 233176,
       "name": "High Alone",
       "url": "https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd"
+    },
+    {
+      "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/1FUt5mvfCu2xChvr9PdUNG"
+      },
+      "artists": [
+        {
+          "name": "Julius",
+          "url": "https://open.spotify.com/artist/0z3L14pVgawbyez74SLf1U"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210676,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/2YauDO4935sBGnV5C7M7r7"
     },
     {
       "album": {
@@ -3787,7 +3805,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 169213,
       "name": "If You Ever Leave, I'm Coming with You",
       "url": "https://open.spotify.com/track/1BiRaCcUqWpLLb4LZpvRMF"
@@ -3849,7 +3867,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 188786,
       "name": "In My Head (ft. Josh Dun)",
       "url": "https://open.spotify.com/track/06EkBgJuvf0zIPCeYwx3vP"
@@ -3867,7 +3885,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 130979,
       "name": "Insomniac",
       "url": "https://open.spotify.com/track/5TdbSCRdrZDC8yK19l7fou"
@@ -4011,7 +4029,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 242266,
       "name": "I\u2019M RIGHT BACK IN IT",
       "url": "https://open.spotify.com/track/3RmFS9kyv3fdiQErbOdnwu"
@@ -4163,7 +4181,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 177149,
       "name": "KULT (feat. Jasiah)",
       "url": "https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS"
@@ -4623,7 +4641,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 195880,
       "name": "Low Key In Love (with paris jackson)",
       "url": "https://open.spotify.com/track/41kxBQJuRpuvqlfR0Rh8fJ"
@@ -4659,7 +4677,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 160809,
       "name": "luv starved",
       "url": "https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv"
@@ -4793,7 +4811,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 181837,
       "name": "mars",
       "url": "https://open.spotify.com/track/4ZSGp4CmOIeNSpuLLEGumA"
@@ -4999,7 +5017,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 176727,
       "name": "Misfits",
       "url": "https://open.spotify.com/track/2aBODYcXrwMts927r0z66g"
@@ -5385,7 +5403,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 146897,
       "name": "Numb",
       "url": "https://open.spotify.com/track/1FbnjqePXaxqCUxUgEUhFl"
@@ -5761,7 +5779,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 180370,
       "name": "papercuts",
       "url": "https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX"
@@ -6111,7 +6129,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 168927,
       "name": "Revolver",
       "url": "https://open.spotify.com/track/3alJBylWqwz6zFDhzT9xO3"
@@ -6245,7 +6263,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 196500,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4X9CqRzX2KIebTU59QHxDc"
@@ -6595,7 +6613,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 160426,
       "name": "Single At 40",
       "url": "https://open.spotify.com/track/1Hkfx9v6M0A2E7gbgYneQo"
@@ -7203,7 +7221,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 183361,
       "name": "The Eulogy of You and Me",
       "url": "https://open.spotify.com/track/6yGsqEtwfrS2tktEYcuPKd"
@@ -7401,7 +7419,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 204855,
       "name": "THINK ABOUT ME",
       "url": "https://open.spotify.com/track/1gEUlsUL6inLvOSAxbzrsY"
@@ -7481,7 +7499,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 172600,
       "name": "thought it was",
       "url": "https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa"
@@ -7499,7 +7517,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 195760,
       "name": "Tides",
       "url": "https://open.spotify.com/track/2JiHR4gCDjXwYVRDmwdk95"
@@ -7597,7 +7615,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 141029,
       "name": "TRAVIS",
       "url": "https://open.spotify.com/track/7or0qYep2EYHNYOtMugkJq"
@@ -7825,7 +7843,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 161249,
       "name": "virtual reality",
       "url": "https://open.spotify.com/track/7wWqAGY1k2cr1ntffgBBH1"
@@ -7919,7 +7937,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 158021,
       "name": "WANNA BE (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN"
@@ -7937,7 +7955,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 152469,
       "name": "wannabe",
       "url": "https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw"
@@ -8269,7 +8287,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 226293,
       "name": "You",
       "url": "https://open.spotify.com/track/6OW9DM0XwDzdiIlKcTuPD3"

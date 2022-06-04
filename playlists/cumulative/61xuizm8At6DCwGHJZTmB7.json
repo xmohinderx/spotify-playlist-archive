@@ -1750,6 +1750,32 @@
     },
     {
       "album": {
+        "name": "Now (Live)",
+        "url": "https://open.spotify.com/album/7yRZsYRLvroRSwMfqaYEOA"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Andrew Holt",
+          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310333,
+      "name": "Just The Mention Of His Name - Live",
+      "url": "https://open.spotify.com/track/2C9FM0zZmWp4au1kWwiqZ3"
+    },
+    {
+      "album": {
         "name": "Awake (Deluxe)",
         "url": "https://open.spotify.com/album/3845kDbcFRDDUHI0yVd8Km"
       },

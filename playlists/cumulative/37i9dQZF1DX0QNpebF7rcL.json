@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Ghost Hounds",
+  "description": "The best in blues right now. Cover: Fantastic Negrito",
   "name": "Got Blues",
   "published_playlist_ids": [
     "6WXBnoSHTaV1fXgP91Rwcb"
@@ -666,6 +666,46 @@
     },
     {
       "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186493,
+      "name": "Drifting From Town To Town",
+      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
+    },
+    {
+      "album": {
+        "name": "Feel Like Going Home",
+        "url": "https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275054,
+      "name": "Feel Like Going Home",
+      "url": "https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB"
+    },
+    {
+      "album": {
         "name": "Fire It Up",
         "url": "https://open.spotify.com/album/3C44xpr836MfZSVu7cwpel"
       },
@@ -983,7 +1023,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 214054,
       "name": "Highest Bidder",
       "url": "https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp"
@@ -1663,7 +1703,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 223706,
       "name": "Make Me Feel Alright",
       "url": "https://open.spotify.com/track/6m8QC3Gs7MAQJDQdFGjdme"
@@ -1876,6 +1916,24 @@
     },
     {
       "album": {
+        "name": "White Jesus Black Problems",
+        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227274,
+      "name": "Nibbadip",
+      "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
+    },
+    {
+      "album": {
         "name": "No More Worlds to Conquer",
         "url": "https://open.spotify.com/album/3kMKDFdC0FV6s8rwPmRRrR"
       },
@@ -1905,7 +1963,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 236219,
       "name": "Oh Betty",
       "url": "https://open.spotify.com/track/6ciaC5vY31PR1fZJqZwAJ0"
@@ -2698,6 +2756,24 @@
     },
     {
       "album": {
+        "name": "Bitches Blues",
+        "url": "https://open.spotify.com/album/1Dm1iro6Z5Hjv6USdF2NXY"
+      },
+      "artists": [
+        {
+          "name": "Sass Jordan",
+          "url": "https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241480,
+      "name": "Still The World Goes Round",
+      "url": "https://open.spotify.com/track/6NC8TahwAZKURe6EolCBOv"
+    },
+    {
+      "album": {
         "name": "Stones",
         "url": "https://open.spotify.com/album/1kcBgQaYOSCO8G2D6Kk8KT"
       },
@@ -3267,6 +3343,24 @@
       "duration_ms": 303920,
       "name": "Up and Rolling",
       "url": "https://open.spotify.com/track/1Wg6dLYXgqxs0YtQS6ifco"
+    },
+    {
+      "album": {
+        "name": "White Jesus Black Problems",
+        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190436,
+      "name": "Virginia Soil",
+      "url": "https://open.spotify.com/track/2BabLfYnJvdWrDvgzNVYqE"
     },
     {
       "album": {

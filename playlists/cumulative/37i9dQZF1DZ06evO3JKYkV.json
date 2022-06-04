@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 268813,
       "name": "4 bit 9d api+e+6 [126.26]",
       "url": "https://open.spotify.com/track/3NK7KFnTh3rKCgUvsKIDfi"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 286293,
       "name": "Analogue Bubblebath",
       "url": "https://open.spotify.com/track/3EhTOTAvNAUgY6AIurVxT1"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 367053,
       "name": "Icct Hedral",
       "url": "https://open.spotify.com/track/74i6T5ax1LB1gBVhLg6q9d"
@@ -653,6 +653,24 @@
       "duration_ms": 143880,
       "name": "Jynweythek",
       "url": "https://open.spotify.com/track/7etelDpVxaPTzmeZrYo8Qy"
+    },
+    {
+      "album": {
+        "name": "Girl/Boy EP",
+        "url": "https://open.spotify.com/album/2Y34XFg6QPoAmbM1ClS3Hk"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248933,
+      "name": "Milk Man",
+      "url": "https://open.spotify.com/track/5b1uULGkmUg8M6pFvQIUlO"
     },
     {
       "album": {
@@ -775,7 +793,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 258973,
       "name": "PAPAT4 [155][pineal mix]",
       "url": "https://open.spotify.com/track/2MmI2fOFAYnOJcMyWkn1js"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 258959,
       "name": "Wax The Nip",
       "url": "https://open.spotify.com/track/0c1b3R5dLgliHXXGLErT2O"

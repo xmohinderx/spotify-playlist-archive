@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,438 songs - 3 day 11 hr 46 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,439 songs - 3 day 11 hr 50 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [Get Me, Got You](https://open.spotify.com/track/44G528nX0cALLmXZFWv7j8) | [Julia Goodwin](https://open.spotify.com/artist/0eUv8y68onLgHdBfO7jvYe) | [Get Me, Got You](https://open.spotify.com/album/5uJ5vV6I6f2OgAgoL36TM9) | 4:03 | 2021-03-06 | 2021-03-20 |
 | [Get Over It](https://open.spotify.com/track/3QisuX77pvDVHwvsZYbwyS) | [Doze](https://open.spotify.com/artist/7BKKfrkL6LMcEoNsXlz0MG) | [Get Over It](https://open.spotify.com/album/6xDi5kzwdAc0F2IREl1gsd) | 2:55 | 2019-11-18 | 2019-12-04 |
 | [Get Together](https://open.spotify.com/track/7CQXyFX44CXmnuq8Bi9Dyc) | [The Youngbloods](https://open.spotify.com/artist/5I6MzhNEMk27cZsCqGAIYo) | [The Youngbloods](https://open.spotify.com/album/5s0VNKqar5MPHpL5atfTFG) | 4:39 | 2019-09-29\* | 2021-11-19 |
+| [gets me down](https://open.spotify.com/track/5849tNiWebnwX3zJfk86da) | [smythy](https://open.spotify.com/artist/0VbunCzHQjZW1JfkA9smBp) | [gets me down](https://open.spotify.com/album/237oJQsxLOA6LWBBRYtqGx) | 3:58 | 2022-06-03 |  |
 | [Gholame Chëshm](https://open.spotify.com/track/2rNamr9pCceZgby2qPS6dM) | [5urati](https://open.spotify.com/artist/6J7Awu6ho0iwisvF9sUQBR), [Mohammadreza Shajarian](https://open.spotify.com/artist/45EXJ1cQAEt8k2zIYHyLBm) | [Gholame Chëshm](https://open.spotify.com/album/4HDIJIvDg88VjqSX4qQvkj) | 2:33 | 2022-06-03 |  |
 | [Ghost Mirror](https://open.spotify.com/track/3qzyzCjH2e3OaMtgIx6wMe) | [Aux Send](https://open.spotify.com/artist/74oXVUfYgcpwMXRm1NvXL7) | [Ghost Mirror](https://open.spotify.com/album/2MCtmtXQbEhntiZIah9FlS) | 4:07 | 2021-07-10 | 2021-07-25 |
 | [Ghosts](https://open.spotify.com/track/13L9jEt1IfmZQx77bzAxBp) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Ghosts](https://open.spotify.com/album/40SVItMLcT8suI5pSSaf5I) | 5:54 | 2020-12-20 | 2021-11-19 |

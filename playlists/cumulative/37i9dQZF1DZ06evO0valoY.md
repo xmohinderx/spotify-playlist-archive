@@ -4,7 +4,7 @@
 
 > This is Eslabon Armado\. The essential tracks, all in one playlist.
 
-33 songs - 2 hr 5 min - not published yet
+33 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/0gCYVMF4UwHBNdMozlWKLc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

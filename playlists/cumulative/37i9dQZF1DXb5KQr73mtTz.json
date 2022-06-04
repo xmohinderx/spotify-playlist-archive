@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 229187,
       "name": "180 Degree",
       "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 130088,
       "name": "Bird - Demo",
       "url": "https://open.spotify.com/track/7bstJcLT7H9yfsEvuqr7rM"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 228453,
       "name": "BRUISE",
       "url": "https://open.spotify.com/track/7DgDHuou85vdzLTWGYa5hA"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 268936,
       "name": "Burden",
       "url": "https://open.spotify.com/track/35wAnH3OfMXvPgJq6urVkG"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 211999,
       "name": "Can't Go",
       "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 257026,
       "name": "Common Regret",
       "url": "https://open.spotify.com/track/56guunK8Kb6rtwTiYZAxwJ"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 281520,
       "name": "Emptiness in Memory",
       "url": "https://open.spotify.com/track/1YZLHAjxsXujbeQj6DkvgR"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 231085,
       "name": "Far away",
       "url": "https://open.spotify.com/track/2luEd7QfSRI7TsQKkziFuH"
@@ -578,6 +578,42 @@
     },
     {
       "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/1VgqjntRzWONoGoa0M1dxR"
+      },
+      "artists": [
+        {
+          "name": "Woo Ye Rin",
+          "url": "https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197933,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/4x1FlPvty9bk1j73gkyYaK"
+    },
+    {
+      "album": {
+        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192430,
+      "name": "Forgetting You",
+      "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
+    },
+    {
+      "album": {
         "name": "My fuxxxxx romance 01",
         "url": "https://open.spotify.com/album/6QEoy9NgTE3tpCoHgb4crc"
       },
@@ -589,10 +625,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 246074,
       "name": "fuxx, that, shit",
       "url": "https://open.spotify.com/track/2TCZu4rVZBeu12rTjiBhz6"
+    },
+    {
+      "album": {
+        "name": "Good to love",
+        "url": "https://open.spotify.com/album/7E9IUx9DJNCRavqWjGi9nH"
+      },
+      "artists": [
+        {
+          "name": "The Brothers",
+          "url": "https://open.spotify.com/artist/4cca1jneSmmm9K1uXTQaUc"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236776,
+      "name": "Good to love",
+      "url": "https://open.spotify.com/track/2gEgyhriipvqBJYR9ha68i"
     },
     {
       "album": {
@@ -661,7 +715,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 261850,
       "name": "How about you",
       "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
@@ -705,6 +759,24 @@
       "duration_ms": 178666,
       "name": "How You Been",
       "url": "https://open.spotify.com/track/3tKplzefIgmzzjYvQPIORB"
+    },
+    {
+      "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P"
+      },
+      "artists": [
+        {
+          "name": "Hansol",
+          "url": "https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB"
     },
     {
       "album": {
@@ -755,7 +827,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 249013,
       "name": "I tried",
       "url": "https://open.spotify.com/track/1De62ouShM3pTfYsHlbFf7"
@@ -780,6 +852,24 @@
     },
     {
       "album": {
+        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.5",
+        "url": "https://open.spotify.com/album/6pLAT3n9iBxlY1DJSUdV5C"
+      },
+      "artists": [
+        {
+          "name": "Lee A Young",
+          "url": "https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223423,
+      "name": "I`ll Say You Goodbye Before You",
+      "url": "https://open.spotify.com/track/2JEpy6fTmDFpK7tMVia8Bb"
+    },
+    {
+      "album": {
         "name": "In your heart",
         "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
       },
@@ -791,7 +881,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 221720,
       "name": "In your heart",
       "url": "https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR"
@@ -845,7 +935,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 199577,
       "name": "Into My Heart",
       "url": "https://open.spotify.com/track/2aBMGd6oEI08yAgMn6wOEM"
@@ -889,7 +979,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 296426,
       "name": "It\u2019s a different thing to love her and make her happy \uadf8\ub140\ub97c \uc0ac\ub791\ud558\ub294 \uac83\uacfc \ud589\ubcf5\ud558\uac8c \ud574\uc8fc\ub294 \uac83\uc740 \ubcc4\uac1c\uc57c (feat. jeebanoff)",
       "url": "https://open.spotify.com/track/6evTmpmB0QwV7jOfw8VMdD"
@@ -925,7 +1015,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 240532,
       "name": "Just Friends \uc695\uc2ec",
       "url": "https://open.spotify.com/track/7qJ7KO2ClL5EHZyITBZBl1"
@@ -1001,7 +1091,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 250480,
       "name": "Living in the same time",
       "url": "https://open.spotify.com/track/2fujIDkywop19a4IZ2zfQK"
@@ -1019,7 +1109,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 189773,
       "name": "Lonely Flower",
       "url": "https://open.spotify.com/track/1TtiJUMGRTMLIFzaMirRKS"
@@ -1113,7 +1203,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 250867,
       "name": "My fuxxxxx romance",
       "url": "https://open.spotify.com/track/3DU46dO3PAjWJ7KSKfYUJ0"
@@ -1250,6 +1340,24 @@
     },
     {
       "album": {
+        "name": "NOV3L",
+        "url": "https://open.spotify.com/album/4hngFrSqcd2P7zgwKmooh9"
+      },
+      "artists": [
+        {
+          "name": "Bangminhyeok",
+          "url": "https://open.spotify.com/artist/1yjrug46OJhKhVB5brwaIm"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151900,
+      "name": "Photo album",
+      "url": "https://open.spotify.com/track/66ah8lyaZrf7Yol7iuf5D0"
+    },
+    {
+      "album": {
         "name": "Regret (Emotions : Gummy)",
         "url": "https://open.spotify.com/album/5szwIys3wT08homn7ED5hx"
       },
@@ -1261,7 +1369,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 248360,
       "name": "Regret",
       "url": "https://open.spotify.com/track/3xAWMzJepYvpalL66VmuVq"
@@ -1279,7 +1387,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 261146,
       "name": "Regret of sigh",
       "url": "https://open.spotify.com/track/3MrEZH39g8BiIAkFo3FkQj"
@@ -1315,7 +1423,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 237666,
       "name": "Run from you",
       "url": "https://open.spotify.com/track/71p6LjYrskpmZa7hvWKHtn"
@@ -1373,6 +1481,24 @@
       "duration_ms": 224586,
       "name": "sigh",
       "url": "https://open.spotify.com/track/2fJ38mbJNnRtHwfQ1cgyjy"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/3X76n6xJw1e18AUp96SFa2"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258533,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/37ftzk7n72Ptu9GCaGJvjV"
     },
     {
       "album": {
@@ -1496,6 +1622,24 @@
     },
     {
       "album": {
+        "name": "The day it raineded",
+        "url": "https://open.spotify.com/album/45VFPh5qH7s0GMMO14IeAF"
+      },
+      "artists": [
+        {
+          "name": "\uc6d0\uc885\ud601",
+          "url": "https://open.spotify.com/artist/73zQMIVSjWRopbzmvfq26V"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254533,
+      "name": "The day it rained",
+      "url": "https://open.spotify.com/track/5h0hHh69n5unMxpEczoGYW"
+    },
+    {
+      "album": {
         "name": "The day was beautiful",
         "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
       },
@@ -1507,10 +1651,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 235392,
       "name": "The day was beautiful",
       "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
+    },
+    {
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/1kjaqaxbXPiLuFNTCIdJCa"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258322,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/6m2mG267Dck8xcEmUPrEAt"
     },
     {
       "album": {
@@ -1547,7 +1709,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 255373,
       "name": "The Road",
       "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
@@ -1623,7 +1785,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 225171,
       "name": "This Love",
       "url": "https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW"
@@ -1659,7 +1821,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 216026,
       "name": "Try (Journey Epilogue)",
       "url": "https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ"
@@ -1713,7 +1875,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 224702,
       "name": "You're Free",
       "url": "https://open.spotify.com/track/19BiyAamzm9lGzz7LXuCbb"
@@ -1821,7 +1983,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 258873,
       "name": "\uc81c\ubc1c",
       "url": "https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz"
@@ -1864,6 +2026,24 @@
     },
     {
       "album": {
+        "name": "\ucde8\uae30",
+        "url": "https://open.spotify.com/album/4PZjczOxZW2Zsu7vN89ZDE"
+      },
+      "artists": [
+        {
+          "name": "\uc815\ub2e4\uc6b4",
+          "url": "https://open.spotify.com/artist/5XvEu36zfsb5fQfLTlCsJa"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244088,
+      "name": "\ucde8\uae30",
+      "url": "https://open.spotify.com/track/7f45ujO3uhVNMuJsCilHdT"
+    },
+    {
+      "album": {
         "name": "Original Television Soundtrack BEST",
         "url": "https://open.spotify.com/album/3I3bk770MRm5PJCL8BONKz"
       },
@@ -1875,7 +2055,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 200974,
       "name": "\ud55c\ucc38 \uc9c0\ub098\uc11c",
       "url": "https://open.spotify.com/track/04N4Wfxd7nB3dLV2amKdc0"

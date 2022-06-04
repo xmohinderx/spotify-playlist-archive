@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Red Hot Chilli Peppers
 
-295 songs - 17 hr 49 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+297 songs - 17 hr 56 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [The Garden of Eden](https://open.spotify.com/track/2iDnZkKM40F9u9b44Y6Zc7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Spring](https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6) | 3:15 | 2022-03-25 |  |
 | [The Girls Are Fighting \- Edit](https://open.spotify.com/track/7F1dxj9sEAHy4SsGIHARGq) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The Girls Are Fighting](https://open.spotify.com/album/3xt9SJ3g3ieRV3C2Om8Mws) | 3:01 | 2022-02-04 |  |
 | [The Knack](https://open.spotify.com/track/46NgqjSNoXMZEtmJyoeA97) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside](https://open.spotify.com/album/4v0i8VJOxYxngmADCFvi6o) | 2:59 | 2021-07-01 |  |
+| [The Loneliest Girl In The World](https://open.spotify.com/track/4KllPRafNDAYc3c3UHzj0u) | [PG Roxette](https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg), [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK) | [The Loneliest Girl In The World](https://open.spotify.com/album/7mxXN1jc04KAdUiGEU3l1E) | 3:01 | 2022-06-03 |  |
 | [The Pot](https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 6:21 | 2020-10-10\* | 2021-02-25 |
 | [The Runaround](https://open.spotify.com/track/4UT9eu8tFiRyi7wVz0vVcZ) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [The Runaround](https://open.spotify.com/album/6sKafsuY83tNWqqqnL4k9n) | 3:43 | 2021-02-26 | 2022-03-18 |
 | [The Runner](https://open.spotify.com/track/0AWYvdcS6N463VlsbrzijH) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [The Runner](https://open.spotify.com/album/7CwnnH6mZCAKwKLgwrLWRU) | 4:21 | 2020-10-10\* | 2021-05-13 |
@@ -292,6 +293,7 @@
 | [What Do You Say?](https://open.spotify.com/track/049uE7zpFZXEKmEKnwfBei) | [DUAL](https://open.spotify.com/artist/4fgzUG6sFpomNM6sf4xOIV) | [Lately I Don't Know](https://open.spotify.com/album/6J8EUP1OEo2wDPmJ8gb7Wu) | 3:08 | 2021-02-25 | 2022-03-18 |
 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 | 2022-02-11 |  |
 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-10 |  |
+| [Will Of The People](https://open.spotify.com/track/3EDKy3jIiw1OJqqZcdOCxm) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/68J2rIUZze8X3hAa8ali4k) | 3:18 | 2022-06-03 |  |
 | [Will You Return / When You Come Down](https://open.spotify.com/track/5cqpQ09fCDFz0YnEA8AwMo) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Will You Return / When You Come Down](https://open.spotify.com/album/4r5FnNurDlX2iVW1cunE7I) | 5:21 | 2020-10-10\* | 2022-03-18 |
 | [Winning Hand](https://open.spotify.com/track/6vNbyb90Mo87d46ht9Fb6s) | [Tim Hart](https://open.spotify.com/artist/1XUmEGWZ7MpBZ5jkb0l4iP) | [Winning Hand](https://open.spotify.com/album/5IOgnKAgpT35nn4g7mntpy) | 3:16 | 2021-02-19 | 2022-03-18 |
 | [Wired](https://open.spotify.com/track/6nHF7jsK6CdynJokdLK4Pe) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM) | 3:11 | 2020-10-10\* | 2021-05-13 |

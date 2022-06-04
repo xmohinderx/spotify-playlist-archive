@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3o4Z9XwrdzrNGWVZanB7aT"
+  ],
   "tracks": [
     {
       "album": {
@@ -89,7 +91,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 174692,
       "name": "Carino Mio",
       "url": "https://open.spotify.com/track/0jobOWmn5t5VmSXkld0SWi"
@@ -165,6 +167,24 @@
       "duration_ms": 201440,
       "name": "Chito Cano",
       "url": "https://open.spotify.com/track/0rbIlYG7SYNXL8cwE1keGA"
+    },
+    {
+      "album": {
+        "name": "Como el Topo",
+        "url": "https://open.spotify.com/album/76MCJSsUiEBdqkPUHSTas6"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208240,
+      "name": "Copa Tras Copa",
+      "url": "https://open.spotify.com/track/27Rg03fybbYtpqddr7RhAx"
     },
     {
       "album": {
@@ -399,6 +419,24 @@
       "duration_ms": 180880,
       "name": "Hay Unos Ojos",
       "url": "https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF"
+    },
+    {
+      "album": {
+        "name": "CELEBRANDO CINCO DE MAYO",
+        "url": "https://open.spotify.com/album/2rETwAEuv7UBSkbvBJL1ag"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198973,
+      "name": "Juramos Amarnos",
+      "url": "https://open.spotify.com/track/0SQOdZUCfqKk8j3xBWMW2A"
     },
     {
       "album": {
@@ -665,7 +703,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 172306,
       "name": "Pero Ya No Puedo M\u00e1s",
       "url": "https://open.spotify.com/track/5FOUvS4T19gUE0wHrWO5sd"
@@ -852,6 +890,24 @@
     },
     {
       "album": {
+        "name": "FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES",
+        "url": "https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167133,
+      "name": "Te Traigo Estas Flores A Dueto Con Freddie Martinez",
+      "url": "https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO"
+    },
+    {
+      "album": {
         "name": "Tragos Amargos",
         "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
       },
@@ -953,7 +1009,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 189506,
       "name": "Volv\u00ed A Mi Finca De Adobe",
       "url": "https://open.spotify.com/track/7CJSiAMo8EUdQde8Tv1wJp"

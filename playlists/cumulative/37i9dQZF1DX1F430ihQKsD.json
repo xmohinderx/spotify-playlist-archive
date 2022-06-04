@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Clay and Friends, Louis-Jean Cormier",
+  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Bibi Club",
   "name": "Montr\u00e9al Chill",
   "published_playlist_ids": [
     "4x7dCsK0Zzpdb88Niig3QN"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 177413,
       "name": "Amy",
       "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 174368,
       "name": "Drama - Isabella Lovestory and Chicken Remix",
       "url": "https://open.spotify.com/track/6OOgOELe0u3gDCxuYv36D9"
@@ -1434,6 +1434,46 @@
     },
     {
       "album": {
+        "name": "Jaune",
+        "url": "https://open.spotify.com/album/3rChcXBXEiIULMsBZYXGdi"
+      },
+      "artists": [
+        {
+          "name": "Baladeur",
+          "url": "https://open.spotify.com/artist/2MnBL1e3Gf1pHK0mXokTST"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197663,
+      "name": "Jaune",
+      "url": "https://open.spotify.com/track/14QJlmd5ulzXXRbjRaS45z"
+    },
+    {
+      "album": {
+        "name": "JE RESPIRE",
+        "url": "https://open.spotify.com/album/7MyrxRdDBg56H8TXlgUjRs"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        },
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191941,
+      "name": "JE RESPIRE",
+      "url": "https://open.spotify.com/track/204PfCzQ6FbveeJH7RoxgU"
+    },
+    {
+      "album": {
         "name": "Entre mes insomnies",
         "url": "https://open.spotify.com/album/1Uj24O9gW9E8Sm5qGlTiC4"
       },
@@ -1449,6 +1489,24 @@
       "duration_ms": 209043,
       "name": "La faute",
       "url": "https://open.spotify.com/track/6UKQBUkXOe2ifFhJgOVpto"
+    },
+    {
+      "album": {
+        "name": "La nuit",
+        "url": "https://open.spotify.com/album/5FGyf0eRWDMEQ22dxUKwVP"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221120,
+      "name": "La nuit",
+      "url": "https://open.spotify.com/track/5qMGT6jepsNyROTcf3LpFu"
     },
     {
       "album": {
@@ -1665,7 +1723,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 246464,
       "name": "Love Alone",
       "url": "https://open.spotify.com/track/1qBOFi4RL3dPOgoQMQ8tkY"
@@ -1839,6 +1897,24 @@
       "duration_ms": 253788,
       "name": "NHFN",
       "url": "https://open.spotify.com/track/2ktmOeCr1RVJaZ6a6LN9mq"
+    },
+    {
+      "album": {
+        "name": "Nice Try",
+        "url": "https://open.spotify.com/album/7CHVlF6ujKzqyOptogNiOV"
+      },
+      "artists": [
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202384,
+      "name": "Nice Try",
+      "url": "https://open.spotify.com/track/1GpO5QsqiygENVH6BsaBKd"
     },
     {
       "album": {
@@ -2809,7 +2885,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 150080,
       "name": "You Lie, You Die",
       "url": "https://open.spotify.com/track/0rqvHoUAiHo3Kq5VNSkw6I"

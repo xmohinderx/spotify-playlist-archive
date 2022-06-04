@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: JO YURI
 
-567 songs - 1 day 7 hr 45 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+568 songs - 1 day 7 hr 47 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Paradise](https://open.spotify.com/track/1cnGF3udnO8fscbBYY6k1X) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 3:26 | 2020-10-13\* | 2021-01-21 |
 | [PARANOIA](https://open.spotify.com/track/1Q6lzzQHM5dvtTCwcfeKDy) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [PARANOIA](https://open.spotify.com/album/6vxwhImvm7xkbIMk0e1LVv) | 3:15 | 2021-02-16 | 2021-05-18 |
 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 | 2021-12-01 | 2022-02-18 |
+| [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 | 2022-06-03 |  |
 | [PING PONG](https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18) | [HyunA&DAWN](https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4) | [1+1=1](https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf) | 2:38 | 2021-09-11 | 2022-01-04 |
 | [Pirate](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Return of The Girl](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) | 3:30 | 2021-12-02 | 2022-02-24 |
 | [Pit A Pat](https://open.spotify.com/track/4khvnIc1bYDFqzXH0aqdnt) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Pit A Pat](https://open.spotify.com/album/4xvalgKtLmHXbBy8vLhUlE) | 3:28 | 2020-11-11 | 2021-02-15 |

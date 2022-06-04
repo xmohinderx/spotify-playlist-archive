@@ -740,6 +740,24 @@
     },
     {
       "album": {
+        "name": "Dois Gumes",
+        "url": "https://open.spotify.com/album/6VNvo85fJVH9uM2C1rBnfp"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178045,
+      "name": "Dois Gumes",
+      "url": "https://open.spotify.com/track/4sTvkSCc5tmVhECVOcM37h"
+    },
+    {
+      "album": {
         "name": "Driblando Igual Ronaldo",
         "url": "https://open.spotify.com/album/2GVpBPB1ffJkXFDbv9ZVa5"
       },
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 195520,
       "name": "Guerra Fria",
       "url": "https://open.spotify.com/track/1RnCESf8Q5VhetZiADD64W"
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 174084,
       "name": "Monstr\u00e3o",
       "url": "https://open.spotify.com/track/21aAGYAINWqlJo2YIXiXJH"
@@ -1473,6 +1491,44 @@
       "duration_ms": 126080,
       "name": "Porrada Seca",
       "url": "https://open.spotify.com/track/4tZVhQJnWy8mJud24h0X0g"
+    },
+    {
+      "album": {
+        "name": "Pra Baixo da Terra",
+        "url": "https://open.spotify.com/album/1Q7c618K5PX25WgMikn5oG"
+      },
+      "artists": [
+        {
+          "name": "IssoQue\u00c9SomDeRap",
+          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        },
+        {
+          "name": "Santorvi",
+          "url": "https://open.spotify.com/artist/4TpMk5ru2rOKeezPBKsu4w"
+        },
+        {
+          "name": "EZE ODT",
+          "url": "https://open.spotify.com/artist/3bblo79bAUwY3qKupiP3xf"
+        },
+        {
+          "name": "JMONEY",
+          "url": "https://open.spotify.com/artist/3E3c0sPxAVTNrc104CicWC"
+        },
+        {
+          "name": "Pugli",
+          "url": "https://open.spotify.com/artist/2IXnOvK1O0L4PzfyYanJkM"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157762,
+      "name": "Pra Baixo da Terra",
+      "url": "https://open.spotify.com/track/0P69PdIN7osL5ML2uWeQ2K"
     },
     {
       "album": {
@@ -1700,6 +1756,32 @@
     },
     {
       "album": {
+        "name": "Rico no Rio",
+        "url": "https://open.spotify.com/album/7mXrQh7smoIFCbHfUMJGa0"
+      },
+      "artists": [
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Dj DM",
+          "url": "https://open.spotify.com/artist/686Cz1vrD1XO5CPJC0ZiAt"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187366,
+      "name": "Rico no Rio",
+      "url": "https://open.spotify.com/track/6NXMEsY4Ivqm722zmI5kgG"
+    },
+    {
+      "album": {
         "name": "Ruas",
         "url": "https://open.spotify.com/album/1vcvP2HPCZY0xq0FuEzCEz"
       },
@@ -1863,7 +1945,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 189659,
       "name": "Tipo Mbapp\u00e9 2",
       "url": "https://open.spotify.com/track/02bH8CBSXzquAIGXLLDOdq"

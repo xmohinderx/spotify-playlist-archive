@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-846 songs - 1 day 21 hr 7 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+847 songs - 1 day 21 hr 10 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,7 +490,7 @@
 | [Marbella](https://open.spotify.com/track/6PWTqk0c1L5ehd3tG3Zpf2) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Marbella](https://open.spotify.com/album/4UN3LjhJSTQWHqEKUTPd7Y) | 2:50 | 2021-06-20 | 2021-10-17 |
 | [Mata Hari](https://open.spotify.com/track/3wuvVwA5RaifHz1uqKac8P) | [Efendi](https://open.spotify.com/artist/4oe1qp9xGSFxMYH4X9AXtl) | [Mata Hari](https://open.spotify.com/album/2qAJL1ffzMUKu3quKRoMwi) | 2:40 | 2021-05-25 | 2021-05-29 |
 | [MATADOR](https://open.spotify.com/track/64s0ZmTEwVhztlrEP6Xt9J) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [MATADOR](https://open.spotify.com/album/35f2RCaqMqxU5dNv5v8n7U) | 3:16 | 2022-04-25 |  |
-| [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-22 |  |
+| [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-22 | 2022-06-04 |
 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2022-04-30 | 2022-05-03 |
 | [Mbappé](https://open.spotify.com/track/3zaPZ9VE9epvFhnqcwJLyO) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy) | [Tusen Flows](https://open.spotify.com/album/4KhN0zzgJPurSoGKUI7TSA) | 2:50 | 2021-05-05 | 2021-05-06 |
 | [MEDVETSLÖS](https://open.spotify.com/track/12ZMZtAr3WGZTU37e5EaN5) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [MEDVETSLÖS](https://open.spotify.com/album/2AW7qz4ktTtKCKfCfzCsdP) | 3:23 | 2021-10-18 | 2021-11-23 |
@@ -833,6 +833,7 @@
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2021-08-23 |  |
 | [White Christmas](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 | 2021-11-28 | 2021-12-29 |
 | [WHO](https://open.spotify.com/track/5cdJVXKF2Ti7tEOPo5djaU) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [WHO](https://open.spotify.com/album/65FLgSgmzml4N3PI2wlBd0) | 2:29 | 2021-07-04 | 2021-07-10 |
+| [Window Shopper](https://open.spotify.com/track/7IA61hZr2za83qAfeyC49u) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Window Shopper](https://open.spotify.com/album/1kUpXT3OAzoiy7l1KtsX9y) | 2:36 | 2022-06-03 |  |
 | [WINNER \(feat\. A36\)](https://open.spotify.com/track/0i0ZCP4Yh3kLl1Z0k9BhBX) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [WINNER \(feat\. A36\)](https://open.spotify.com/album/2NYYASJxQRlVDysDHjqL2z) | 2:37 | 2022-03-20 | 2022-04-25 |
 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 | 2021-03-27\* | 2021-05-09 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-08-24 | 2021-10-17 |

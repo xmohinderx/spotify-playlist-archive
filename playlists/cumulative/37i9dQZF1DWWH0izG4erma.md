@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!!  <br/>Cover: Bailey Zimmerman
 
-145 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
+148 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Devil's Den](https://open.spotify.com/track/3lBvbmPoXdmlDZrHYxxnu0) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Devil's Den](https://open.spotify.com/album/5y65PMxRxf3VIgrC0BBViv) | 3:52 | 2022-02-04 |  |
 | [Did It To Myself](https://open.spotify.com/track/2iJnmQ9dB4CUqQSoeFlX57) | [Bobby McClendon](https://open.spotify.com/artist/24ZSRZ25gSFAx2bCl1aM66) | [Did It To Myself](https://open.spotify.com/album/4rMdm6bJ4Ud3aUMuUwsLY7) | 2:47 | 2021-11-19 |  |
 | [Die Rockin](https://open.spotify.com/track/6TIBQ6xqAEbcTDcnXJqgVT) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Die Rockin](https://open.spotify.com/album/67oVAfnRY3Qw1B4285CAOR) | 3:24 | 2021-11-01 | 2022-04-29 |
+| [Die Too Young](https://open.spotify.com/track/2VhtuodYYG5YZCWRMKWk5o) | [Kenton Bryant](https://open.spotify.com/artist/2RAufxLZxgdARBDirloCoB) | [Die Too Young](https://open.spotify.com/album/6VmV8giZGESZ25E0mZrKFU) | 3:46 | 2022-06-03 |  |
 | [DLTGYD](https://open.spotify.com/track/474bbaCVDM80WEg9iSvkYb) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [DLTGYD](https://open.spotify.com/album/7FnG6OJfxnWf3YdYqt4jv9) | 4:30 | 2021-11-01 | 2022-01-29 |
 | [Doghouse](https://open.spotify.com/track/2BqlDDr1IykiGe6JvlMCd5) | [Highway Natives](https://open.spotify.com/artist/4iVEbYjSOR58bq1BTYZnJ3) | [Doghouse](https://open.spotify.com/album/5FsoKIJS8g2erLSvmRQrnb) | 3:15 | 2022-03-25 |  |
 | [Doin' Fine](https://open.spotify.com/track/4N16l8wn8N29P8mbTwjix3) | [Manny Blu](https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA) | [Doin' Fine](https://open.spotify.com/album/1MZVeLNshWOFIuz8VLv7Vn) | 2:58 | 2021-11-01 | 2022-01-22 |
@@ -72,6 +73,7 @@
 | [Heaven Down Here](https://open.spotify.com/track/1cpixaTbEEkzxdbrlbFVll) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg) | 3:58 | 2022-01-28 |  |
 | [Highway Like Me \(feat\. Marcus King\)](https://open.spotify.com/track/51PuIBYfGsXVFmnsv70Vr3) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Travelin' Kind](https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI) | 4:30 | 2021-11-01 |  |
 | [Highway Will](https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Highway Will](https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe) | 3:13 | 2021-11-01 |  |
+| [Hold My Horses](https://open.spotify.com/track/5QYiLeppgdyv2cPyrHbpSk) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/12AadhpVQyHQTDiZ0UWbPd) | 3:00 | 2022-06-03 |  |
 | [Holler from the Holler](https://open.spotify.com/track/0X53A7SoG39zG7LwqAOczv) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Holler from the Holler](https://open.spotify.com/album/079CM1HQF4TeSlg8DrT36W) | 4:58 | 2022-04-29 |  |
 | [Huckleberry](https://open.spotify.com/track/5sRNw5nGGirWXvxECIxpSX) | [Daniel Lee](https://open.spotify.com/artist/6l3pNvLTkJiDE3V1SLSGCj) | [Huckleberry](https://open.spotify.com/album/1iaC7rKb2xgcf0ZpuPRsdJ) | 3:50 | 2021-11-01 |  |
 | [I Need You \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [All of Your Stones](https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy) | 7:09 | 2021-11-01 |  |
@@ -102,6 +104,7 @@
 | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/track/5wuOWOnmXlH5mc3wTRfsx7) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/album/5fdFTuBT5KV1JzXPtweiBx) | 3:21 | 2021-11-01 |  |
 | [Places To Run](https://open.spotify.com/track/4XXXLj4SKynrgyIEwibD9x) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [Places To Run](https://open.spotify.com/album/7cA953EqbwfrTJ3DYy5Zc6) | 2:58 | 2021-11-01 |  |
 | [Pull Me Under](https://open.spotify.com/track/6diaA6bkHgXuhlkmIYVAkf) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Pull Me Under](https://open.spotify.com/album/75aqS5tQ46UH4dsynit10p) | 4:28 | 2021-11-12 |  |
+| [Put It in the Plate](https://open.spotify.com/track/11t73HjNMUYPcpaTFzdbzo) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Put It in the Plate](https://open.spotify.com/album/6jHIwtGXABMsY3SI56YV6k) | 2:43 | 2022-06-03 |  |
 | [Rambler \- Bonus Track](https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:30 | 2021-11-01 |  |
 | [Red Handed](https://open.spotify.com/track/62jzdCEsnubKdOSIEOLx7L) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Red Handed](https://open.spotify.com/album/0eSxk8QnMLkDt5DQ43kxfZ) | 2:42 | 2021-11-01 |  |
 | [Rich Man's Game](https://open.spotify.com/track/2muHNimwAwlBbfdYf6yH5W) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Rich Man's Game](https://open.spotify.com/album/0r5fTsObknKZkwDQbOjRuO) | 3:50 | 2021-11-01 |  |

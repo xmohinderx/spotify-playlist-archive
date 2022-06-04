@@ -4,7 +4,7 @@
 
 > The soundtrack to the Internet\. Check out <a href="spotify:show:3oTlNRRUyazgdUpWZYdvd5">Internet People Live</a> on Tuesdays at 8pm EST\. Cover: Armani White
 
-294 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+295 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [I feel it](https://open.spotify.com/track/2JddvCwB2cnFwUU8JE8Xy9) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [I feel it](https://open.spotify.com/album/77EQnCprOOLzzBVw8hhGpD) | 2:07 | 2022-04-26 |  |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-03 | 2022-02-23 |
 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 | 2022-02-25 |  |
+| [I Like Him](https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything Sucks](https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF) | 2:12 | 2022-06-03 |  |
 | [I Look Good](https://open.spotify.com/track/79aQX5Uq6t8apowFe5uueL) | [O.T\. Genasis](https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o) | [I Look Good](https://open.spotify.com/album/2AqcOLyhqhrNMLCawOsMpo) | 1:41 | 2022-02-01 | 2022-02-23 |
 | [I Love It](https://open.spotify.com/track/13jvtLuv8vRg2fmvClhWP1) | [Jaah SLT](https://open.spotify.com/artist/6oUVQSkgFOPuv5g2hRCONc), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [I Love It](https://open.spotify.com/album/3h4aKAY35vJTr0GFpbB03r) | 2:51 | 2021-12-03 | 2022-04-29 |
 | [I Love You](https://open.spotify.com/track/5yfMsbJda8sXVfnJHgm8Ke) | [Young Slo\-Be](https://open.spotify.com/artist/1pWm8RcyiWZehSnb38i4fM) | [Slo\-Be Bryant 3](https://open.spotify.com/album/1PAmNh4VorpJrt4QgfEaHS) | 2:03 | 2022-01-21 | 2022-05-21 |

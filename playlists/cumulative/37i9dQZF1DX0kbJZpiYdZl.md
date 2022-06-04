@@ -2,7 +2,7 @@
 
 ### [Hot Hits USA](https://open.spotify.com/playlist/37i9dQZF1DX0kbJZpiYdZl)
 
-> The hottest tracks in the United States\. Cover: Harry Styles
+> The hottest tracks in the United States\. Cover: Latto
 
 109 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/2brDS0QQWX5e1U2TwG3JDB)
 

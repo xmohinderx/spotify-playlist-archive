@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "Adiye - From \"Bachelor\"",
       "url": "https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 341054,
       "name": "Agar Tum Saath Ho (From \"Tamasha\")",
       "url": "https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu"
@@ -237,10 +237,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 241668,
       "name": "Ajab Si",
       "url": "https://open.spotify.com/track/5FXMRdJjKq1BIX4e8Eg9mK"
+    },
+    {
+      "album": {
+        "name": "Zindagi Do Pal Ki - K.K. All Time Hits",
+        "url": "https://open.spotify.com/album/1YP4bDwnjgv6dFRzy8Jpsm"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241668,
+      "name": "Ajab Si (From \"Om Shanti Om\")",
+      "url": "https://open.spotify.com/track/2RgvvnMwtP0R2OkVZmFvnV"
     },
     {
       "album": {
@@ -255,7 +273,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 191868,
       "name": "Akhiyaan",
       "url": "https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz"
@@ -295,7 +313,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 338586,
       "name": "Alvida",
       "url": "https://open.spotify.com/track/7EjatvVN2Y2GjpvKSyWJR4"
@@ -863,10 +881,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 298271,
       "name": "Beete Lamhein",
       "url": "https://open.spotify.com/track/0zQa7QXLpUZfrrsWbgDZll"
+    },
+    {
+      "album": {
+        "name": "Zindagi Do Pal Ki - K.K. All Time Hits",
+        "url": "https://open.spotify.com/album/1YP4bDwnjgv6dFRzy8Jpsm"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298271,
+      "name": "Beete Lamhein (From \"The Train\")",
+      "url": "https://open.spotify.com/track/0dJacN6K3mSGLE9p7QE0lO"
     },
     {
       "album": {
@@ -962,6 +998,32 @@
     },
     {
       "album": {
+        "name": "Bhool Bhulaiyaa 2",
+        "url": "https://open.spotify.com/album/4NFcyneOarb6TDWul6jgcB"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Bhool Bhulaiyaa 2 Title Track",
+      "url": "https://open.spotify.com/track/2FZDNh6tm9mkZ9vTphuAh8"
+    },
+    {
+      "album": {
         "name": "Bhool Bhulaiyaa 2 Title Track (From \"Bhool Bhulaiyaa 2\")",
         "url": "https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq"
       },
@@ -981,7 +1043,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 211666,
       "name": "Bhool Bhulaiyaa 2 Title Track (From \"Bhool Bhulaiyaa 2\")",
       "url": "https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET"
@@ -2053,10 +2115,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 333200,
       "name": "Dil Kyun Yeh Mera",
       "url": "https://open.spotify.com/track/5nHwX7e5XHnie22nuTFgda"
+    },
+    {
+      "album": {
+        "name": "Zindagi Do Pal Ki - K.K. All Time Hits",
+        "url": "https://open.spotify.com/album/1YP4bDwnjgv6dFRzy8Jpsm"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333200,
+      "name": "Dil Kyun Yeh Mera (From \"Kites\")",
+      "url": "https://open.spotify.com/track/4yXLSeG6KtNKOhKrvEWH87"
     },
     {
       "album": {
@@ -2809,7 +2889,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 190153,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH"
@@ -3133,7 +3213,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 324880,
       "name": "Haan Tu Hain",
       "url": "https://open.spotify.com/track/4vgCpNUUcpEIBifidhQOnR"
@@ -3377,6 +3457,32 @@
       "duration_ms": 182956,
       "name": "How You Like That",
       "url": "https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o"
+    },
+    {
+      "album": {
+        "name": "Bhool Bhulaiyaa 2",
+        "url": "https://open.spotify.com/album/4NFcyneOarb6TDWul6jgcB"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238252,
+      "name": "Hum Nashe Mein Toh Nahin",
+      "url": "https://open.spotify.com/track/5L70RGPJEdooqtrgR7vd6U"
     },
     {
       "album": {
@@ -4233,7 +4339,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 44698,
       "name": "Kesariya Audio Teaser (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/46NYX9zIml71qtfYYjakTI"
@@ -4427,10 +4533,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 266653,
       "name": "Kya Mujhe Pyar Hai",
       "url": "https://open.spotify.com/track/3HFjh7QljnUCBLsoTwMuTj"
+    },
+    {
+      "album": {
+        "name": "Evergreen Hits Of K.K.",
+        "url": "https://open.spotify.com/album/1dG5jJAa3ZiSWnpVd2uPao"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266653,
+      "name": "Kya Mujhe Pyar Hai (From \"Woh Lamhe\")",
+      "url": "https://open.spotify.com/track/7fW9J3EpVWVN1ouv0slAs0"
     },
     {
       "album": {
@@ -5259,7 +5383,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 251480,
       "name": "Mat Aazma Re",
       "url": "https://open.spotify.com/track/0mh4VutnDyBn1sqcp05MZD"
@@ -6651,7 +6775,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 359373,
       "name": "Pyaar Ke Pal",
       "url": "https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V"
@@ -6997,7 +7121,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 305583,
       "name": "Sajde",
       "url": "https://open.spotify.com/track/4N66qcycDiFLJGjnXiKbKX"
@@ -7643,7 +7767,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 328880,
       "name": "Such Keh Raha Hai",
       "url": "https://open.spotify.com/track/6CoEiaHC5OLIJGG9R0A0jp"
@@ -8185,7 +8309,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 209230,
       "name": "These Days (feat. Bohemia)",
       "url": "https://open.spotify.com/track/2zQE8TE5BQDJA11ggnope9"
@@ -8523,7 +8647,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 242864,
       "name": "Tu Jo Mila",
       "url": "https://open.spotify.com/track/7txLCGOXyDlDXTjtR1Sk4v"
@@ -8567,7 +8691,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 313933,
       "name": "Tujhe Sochta Hoon",
       "url": "https://open.spotify.com/track/47l2Dd3XPBLio3kjbEMyDJ"
@@ -8821,7 +8945,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 218823,
       "name": "Vikram - Title Track",
       "url": "https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1"
@@ -9097,10 +9221,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 253200,
       "name": "Zindagi Do Pal Ki",
       "url": "https://open.spotify.com/track/3s6H6UW7yPu2rsF8CGki60"
+    },
+    {
+      "album": {
+        "name": "Zindagi Do Pal Ki - K.K. All Time Hits",
+        "url": "https://open.spotify.com/album/1YP4bDwnjgv6dFRzy8Jpsm"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253200,
+      "name": "Zindagi Do Pal Ki (From \"Kites\")",
+      "url": "https://open.spotify.com/track/29kwMwn3NpHxNGHFAIT7yo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbLZ52XmnySJg"

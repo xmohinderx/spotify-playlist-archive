@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie. Cover: REYNA",
-  "name": "Latin Indie Rising",
+  "description": "Fresh Latin Indie. Cover: Kevin Kaarl",
+  "name": "el nuevo indie",
   "published_playlist_ids": [
     "7MnJ2IoUwoMwkesw4ELHCy"
   ],
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 269730,
       "name": "A carta cabal",
       "url": "https://open.spotify.com/track/3asOJIkC0NT24zR2S20azY"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 205716,
       "name": "Amapolas",
       "url": "https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 242066,
       "name": "Break My Own Rules",
       "url": "https://open.spotify.com/track/1kPAvCpVeVnDqcauWic5oU"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 289396,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/1wyc9pjAAtIaBceqts184d"
@@ -395,10 +395,28 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 171125,
       "name": "Common Places, Common Faces",
       "url": "https://open.spotify.com/track/418eTc9b78KdTeF8g3IDXP"
+    },
+    {
+      "album": {
+        "name": "como me encanta",
+        "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321662,
+      "name": "como me encanta",
+      "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
     },
     {
       "album": {
@@ -431,7 +449,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 260399,
       "name": "Cul De Sac",
       "url": "https://open.spotify.com/track/0LPhD0LxOeR5O6LIwFrQqd"
@@ -583,7 +601,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 176776,
       "name": "Empty",
       "url": "https://open.spotify.com/track/3MWjUNewqvMhd0Djv3tPdk"
@@ -601,7 +619,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 151418,
       "name": "eres t\u00fa",
       "url": "https://open.spotify.com/track/5KCFS6c5GhzM1TgyO6d7sA"
@@ -655,7 +673,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 238946,
       "name": "Everybody Wants to Rule the World",
       "url": "https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx"
@@ -709,7 +727,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 174622,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 134500,
       "name": "Girasol",
       "url": "https://open.spotify.com/track/0BizsPV9e8BDWoKS3hPk3M"
@@ -749,7 +767,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 218400,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1Dj3xVHKPQIxh1nRX1lN75"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 216844,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 208954,
       "name": "In the Abstract",
       "url": "https://open.spotify.com/track/5v2yWi4mmtY8GZn1M6hUke"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 193933,
       "name": "Insomnio",
       "url": "https://open.spotify.com/track/5LHQUyptPDRFp0kmNvJbiC"
@@ -981,7 +999,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 232056,
       "name": "Junto a Ti",
       "url": "https://open.spotify.com/track/7aF0TCs1HeKfu56uN8aqIo"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 240509,
       "name": "Life",
       "url": "https://open.spotify.com/track/6mGhjylKtwyqiyaEhO5CB3"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 143893,
       "name": "LUV",
       "url": "https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz"
@@ -1367,7 +1385,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 215013,
       "name": "Musa introvertida",
       "url": "https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt"
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 221716,
       "name": "Summer Girl",
       "url": "https://open.spotify.com/track/5BYQQYhWq4iaffGzKanVwW"
@@ -1957,7 +1975,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 298250,
       "name": "te alejas",
       "url": "https://open.spotify.com/track/3ZUNkZgE697qrnRCBZZOBz"
@@ -1975,7 +1993,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 202519,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
@@ -2000,6 +2018,24 @@
     },
     {
       "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/4jAN28tuuWdvDsX5HzPXbv"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219632,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/4Fkf0tYc8tD0BeS7k20AAa"
+    },
+    {
+      "album": {
         "name": "tus ojos",
         "url": "https://open.spotify.com/album/4Gf3X9qjiQMjkzFJHn6Wie"
       },
@@ -2015,6 +2051,24 @@
       "duration_ms": 142921,
       "name": "tus ojos",
       "url": "https://open.spotify.com/track/3VWpfOSxv0h8W98iyHbc8E"
+    },
+    {
+      "album": {
+        "name": "un poco m\u00e1s",
+        "url": "https://open.spotify.com/album/4EZwSUtUU2l136RiMYkAO0"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138741,
+      "name": "un poco m\u00e1s",
+      "url": "https://open.spotify.com/track/5MRRGF2Si2Aql4TobjfGGf"
     },
     {
       "album": {
@@ -2073,7 +2127,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 165882,
       "name": "Where We Can't See",
       "url": "https://open.spotify.com/track/612UlRjogF7bkGgVamQhKT"

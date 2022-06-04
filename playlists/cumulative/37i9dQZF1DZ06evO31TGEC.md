@@ -4,7 +4,7 @@
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 37 min - not published yet
+51 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/3E5efmvJV1r2DEf7VgrTDd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

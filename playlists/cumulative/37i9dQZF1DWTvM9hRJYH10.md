@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Avery Anna
 
-186 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+188 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Running With Scissors](https://open.spotify.com/track/5FGrZwdOQCzg3eRZra9js9) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Lena Stone](https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi) | 2:51 | 2022-04-29 |  |
 | [Same Team](https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Same Team](https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs) | 2:54 | 2022-01-14 |  |
 | [saw ur mom at the grocery store](https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [saw ur mom at the grocery store](https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP) | 4:13 | 2021-12-31 |  |
+| [Say It](https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Say It](https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS) | 3:05 | 2022-06-03 |  |
 | [Secret](https://open.spotify.com/track/5ZOy8RnkCaTRFAhLxJDBql) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Secret](https://open.spotify.com/album/40cTaPb1jF6KiiykwR0fEO) | 2:46 | 2021-12-31 |  |
 | [She Broke My Heart](https://open.spotify.com/track/5lyyBTTdB9tlNKvni9VwvZ) | [Noah Schnacky](https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx) | [She Broke My Heart](https://open.spotify.com/album/2FP7BFxp5nnCf8dkkvTJ2k) | 3:00 | 2021-12-31 | 2022-02-12 |
 | [She's a Fire](https://open.spotify.com/track/6DUl9xe5xmSJsqu1XdyiJs) | [JT Harker](https://open.spotify.com/artist/32uxYRmt38L7lp9VyAn3bJ) | [She's a Fire](https://open.spotify.com/album/7sytcojuGjBcPv8C7AN7md) | 3:14 | 2021-12-31 |  |
@@ -155,6 +156,7 @@
 | [Somebody with a Broken Heart](https://open.spotify.com/track/7yQJUfSF801AAMjcJcFbvh) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Somebody with a Broken Heart](https://open.spotify.com/album/5c8V1funhYDhiuKVajsXa4) | 3:32 | 2021-12-31 | 2022-01-08 |
 | [Somethin' in the Sunshine](https://open.spotify.com/track/1JDRyKJkKgmm8F4m9QSTnk) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Somethin' in the Sunshine](https://open.spotify.com/album/2vZKaE4y1UoVuJboLV0ZHE) | 2:52 | 2021-12-31 | 2022-02-12 |
 | [Something Good To Miss](https://open.spotify.com/track/7sFn9QneuaujkjFOiumatu) | [Juna N Joey](https://open.spotify.com/artist/7sFEaRrD84U9n0GHI4CmO8) | [Something Good To Miss](https://open.spotify.com/album/1li3OPa9nsQHeR0SmtYk3I) | 3:23 | 2021-12-31 |  |
+| [Sounds Like Something](https://open.spotify.com/track/2VCIP4lMIUjZLYvEzWUbvu) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [Something I Would Do](https://open.spotify.com/album/0oZMOm5cukJFzRzE03XUyM) | 3:16 | 2022-06-03 |  |
 | [South of Forever](https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [South of Forever](https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9) | 4:07 | 2022-05-06 |  |
 | [Speed Limit](https://open.spotify.com/track/6fNDFwpFaWodIX2MYqPbdn) | [Savannah Harmon](https://open.spotify.com/artist/5ohZt1uNprmtf0EkzIQxnU) | [Speed Limit](https://open.spotify.com/album/3WwJuG2JSLkS86vsTOIq3Q) | 4:09 | 2021-12-31 |  |
 | [Started Right Here](https://open.spotify.com/track/6g1hr3hkvJPopynA633RvQ) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here](https://open.spotify.com/album/5Np7Ek9CPromitJthQCLfO) | 2:44 | 2021-12-31 |  |

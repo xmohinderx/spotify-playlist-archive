@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide.  Cover:  TAYA",
+  "description": "The best mix of today's Christian music, all genres, worldwide.  Cover:  MercyMe",
   "name": "Top Christian & Gospel",
   "published_playlist_ids": [
     "3IGSOKftgGE885pvp0BADM"
@@ -1996,6 +1996,24 @@
     },
     {
       "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/02agWXzHUBYG9YBeyJV0Cl"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200200,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/02spa6OzWWL8tludrb8hPg"
+    },
+    {
+      "album": {
         "name": "In Jesus Name (God Of Possible) [Piano Version]",
         "url": "https://open.spotify.com/album/7JIK7T3f1r89w0MNhSPB9r"
       },
@@ -2249,6 +2267,32 @@
       "duration_ms": 230382,
       "name": "Jump Ship - Live",
       "url": "https://open.spotify.com/track/5tfxw0QXyytTKAUAtxVG57"
+    },
+    {
+      "album": {
+        "name": "Now (Live)",
+        "url": "https://open.spotify.com/album/7yRZsYRLvroRSwMfqaYEOA"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Andrew Holt",
+          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310333,
+      "name": "Just The Mention Of His Name - Live",
+      "url": "https://open.spotify.com/track/2C9FM0zZmWp4au1kWwiqZ3"
     },
     {
       "album": {
@@ -3272,6 +3316,32 @@
     },
     {
       "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        },
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242564,
+      "name": "Red Light Green Light",
+      "url": "https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x"
+    },
+    {
+      "album": {
         "name": "Refuge",
         "url": "https://open.spotify.com/album/2E5y6uKNGkwk4BxpqsfV27"
       },
@@ -3435,7 +3505,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 561041,
       "name": "Rise And Shine - Live",
       "url": "https://open.spotify.com/track/1hUPaZqEBm2w5G64GLtHSH"
@@ -4048,6 +4118,28 @@
     },
     {
       "album": {
+        "name": "The Goodness",
+        "url": "https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225228,
+      "name": "The Goodness (feat. Blessing Offor)",
+      "url": "https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7"
+    },
+    {
+      "album": {
         "name": "The Healing",
         "url": "https://open.spotify.com/album/2rp4zkcLtJfaet6Yhc6YpZ"
       },
@@ -4121,6 +4213,24 @@
       "duration_ms": 260021,
       "name": "The Table",
       "url": "https://open.spotify.com/track/6YkYoeZXZUK5SP8EReOOQI"
+    },
+    {
+      "album": {
+        "name": "Then Christ Came",
+        "url": "https://open.spotify.com/album/7wLT25KAkHaDjZAxALxUl4"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223586,
+      "name": "Then Christ Came",
+      "url": "https://open.spotify.com/track/4XRoPS75FwMAI5zajoLerC"
     },
     {
       "album": {
@@ -4331,6 +4441,24 @@
       "duration_ms": 201489,
       "name": "Walking Free - Radio Edit",
       "url": "https://open.spotify.com/track/3oItOJkj0iNQfvVsNexSE6"
+    },
+    {
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL"
+      },
+      "artists": [
+        {
+          "name": "Courtnie Ramirez",
+          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254099,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT"
     },
     {
       "album": {
@@ -4707,7 +4835,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 162332,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/0fZrPbrELvooERHd4r6ZQj"

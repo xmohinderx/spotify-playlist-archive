@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 198365,
       "name": "1-2-3",
       "url": "https://open.spotify.com/track/1JIlQRg9f8Rsx18AemZRch"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 213405,
       "name": "Amor Enfermo",
       "url": "https://open.spotify.com/track/0ka4JDj506HNhszdG7C2QR"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 212893,
       "name": "Contrabando y Traici\u00f3n - Resmasterizado",
       "url": "https://open.spotify.com/track/0ZZM4pHDubnhLsEiBVZtq4"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 198560,
       "name": "De Mis Pasos",
       "url": "https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 218866,
       "name": "El Loco",
       "url": "https://open.spotify.com/track/5y1Oro1appc8YWwgCsPXGx"
@@ -1183,7 +1183,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 227600,
       "name": "Horror Amor",
       "url": "https://open.spotify.com/track/4yG7J0NdjBVsM77nw24WIz"
@@ -1237,7 +1237,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 293247,
       "name": "Infiernos",
       "url": "https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e"
@@ -1453,7 +1453,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 241840,
       "name": "La Locomotora - MTV Unplugged",
       "url": "https://open.spotify.com/track/0cbHsNNZ1Cne4G4U9Bhwyc"
@@ -1724,6 +1724,24 @@
     },
     {
       "album": {
+        "name": "En vivo y a todo calor (En el Hollywood Palladium)",
+        "url": "https://open.spotify.com/album/30XSCjeJiHkWqEUrWvx6o3"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321626,
+      "name": "Metro balderas - En vivo",
+      "url": "https://open.spotify.com/track/7fJuuFCaUb6rSeZ2G1fIHr"
+    },
+    {
+      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -1825,7 +1843,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 254160,
       "name": "Nalguita",
       "url": "https://open.spotify.com/track/3vEkB7InOc5P7Vs3CNkCB2"
@@ -1843,7 +1861,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 322040,
       "name": "Nasty Sex",
       "url": "https://open.spotify.com/track/1XoFXjGDhvFrIy6xT7WlcR"
@@ -2009,7 +2027,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 223920,
       "name": "Olvidate De M\u00ed",
       "url": "https://open.spotify.com/track/46x002U6UOIsvzLjSUqnh7"
@@ -2153,7 +2171,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 216600,
       "name": "Peligroso Pop",
       "url": "https://open.spotify.com/track/5lwPvoxq9H3eAawY4236zP"
@@ -2297,7 +2315,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 178946,
       "name": "Que Grosero",
       "url": "https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp"
@@ -2399,7 +2417,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 230173,
       "name": "Santo y Lunave",
       "url": "https://open.spotify.com/track/2vgEo9N4GLVpFBHkTHFA2I"
@@ -2529,7 +2547,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 191066,
       "name": "Sol\u00edn",
       "url": "https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS"
@@ -2749,7 +2767,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 255746,
       "name": "Vaquero Rockanrolero",
       "url": "https://open.spotify.com/track/6imxKxbwy0GI2nU5tfIs27"
@@ -2821,7 +2839,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 178333,
       "name": "Voto Latino",
       "url": "https://open.spotify.com/track/6InAFCfwjgsUtDoaOCwwZL"

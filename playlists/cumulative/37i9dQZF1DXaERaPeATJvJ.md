@@ -2,9 +2,9 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia\. Cover: Rock N Roll Mafia
+> Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia\. Cover: Blossom Diary
 
-80 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
+83 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Rasuna](https://open.spotify.com/track/53osj6QMqLcS0hri9bcrsz) | [The Sastro](https://open.spotify.com/artist/4RcRA0H94M5m9D97A5jLD0) | [Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3fw17ulJYKEQkDbWV3LTE0) | 5:22 | 2021-11-25 |  |
 | [Rindu](https://open.spotify.com/track/3bgzKtiWqtUkzTQvvX7QQf) | [Planetbumi](https://open.spotify.com/artist/6Gowlt8jc4QjTj8bhDSbPI) | [The Rest of Planet Bumi](https://open.spotify.com/album/4nsL12Cl2TIugB7O9RAZjk) | 4:42 | 2021-11-25 |  |
 | [Rocket Ship Goes By](https://open.spotify.com/track/4t3xYJuEtE62BnjpkIlzdz) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love and Turbo Action](https://open.spotify.com/album/1ecP2zCsQt5tnXQjtT3Snd) | 4:08 | 2021-11-25 |  |
+| [Romansick](https://open.spotify.com/track/3vm6t3eFKsfpTEWTHrHeGT) | [Amazing in Bed](https://open.spotify.com/artist/2jVZ9hbmiAlkPMF2KsO66k) | [Self Titled](https://open.spotify.com/album/706VukfkZprTpoyO6RPE3P) | 4:10 | 2022-06-03 |  |
 | [Romantic Purple \- Let Me Begin Album](https://open.spotify.com/track/6JjYT1lxRn254qiQWrRXaJ) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS) | [Romantic Purple \- EP](https://open.spotify.com/album/2RJrXpRa29oFThJT95I0OO) | 6:04 | 2022-04-08 |  |
 | [Romantic Purple \- Remix by Homogenic](https://open.spotify.com/track/0C46prnZtnlbCRiAoE9rXf) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS), [Homogenic](https://open.spotify.com/artist/1MqptwxFPHFg3RwJryKono) | [Romantic Purple \- EP](https://open.spotify.com/album/2RJrXpRa29oFThJT95I0OO) | 5:43 | 2022-04-08 |  |
 | [Rules and Policy](https://open.spotify.com/track/0pJAkqb1ZHCdxohhD7M5w8) | [Monkey to Millionaire](https://open.spotify.com/artist/3CvmuoTHGPRoQLO4N64C98) | [Monkey to Millionaire](https://open.spotify.com/album/4pNR7Opym7bbZdBcDgf8DY) | 3:14 | 2021-11-25 | 2022-05-13 |
@@ -75,6 +76,7 @@
 | [Sepasang Kekasih Yang Pertama Bercinta Di Luar Angkasa](https://open.spotify.com/track/7pXbfo5RqiKu8ojg6qJCpX) | [Frau](https://open.spotify.com/artist/57aIUWdoh4cKqfr78UksRS), [Ugoran Prasad](https://open.spotify.com/artist/0pLLozVOEXjYuEu4c4vuE8) | [Starlit Carousel](https://open.spotify.com/album/7xqaytUNMT0NZ14KMYAI1M) | 6:27 | 2021-11-25 |  |
 | [She Pretends](https://open.spotify.com/track/7EBjzSq8dyhwZvNsDtdOjY) | [cscd](https://open.spotify.com/artist/7bKRgEFmYuAzF3xSbI5ftZ) | [Pieces Of The World](https://open.spotify.com/album/6tDKVE1hkmrXUD87JJe0F7) | 4:23 | 2021-11-25 |  |
 | [Sinar](https://open.spotify.com/track/3cMF1tldglDmE2udf39mDe) | [Piknik](https://open.spotify.com/artist/74AhmSuxlU6ydRZwlyr9we) | [Sinar](https://open.spotify.com/album/1MvTs8cmhLpF22hsYkUjqs) | 4:20 | 2022-05-12 |  |
+| [Something Like Your Smile](https://open.spotify.com/track/2DX71CNkwE5WssGevAbbxZ) | [Blossom Diary](https://open.spotify.com/artist/4wHBQaI9R90O4bhl71Sppp) | [About The Poor Boy](https://open.spotify.com/album/3p3u7UdtVzii1F5HfX1q3w) | 4:39 | 2022-06-03 |  |
 | [Spoken](https://open.spotify.com/track/208KDxFGSAbH5ZYA1ktBuk) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 5:17 | 2021-11-25 |  |
 | [Strange Is the Song in Our Conversation](https://open.spotify.com/track/10s8XK7vzEIfDP1fSIVzst) | [Monkey to Millionaire](https://open.spotify.com/artist/3CvmuoTHGPRoQLO4N64C98), [Marsha Suryawinata](https://open.spotify.com/artist/74ImuWk6U363Ktn4QbQjsL) | [Lantai Merah](https://open.spotify.com/album/51pYHM3rQTWuN1wvIyknsi) | 4:48 | 2022-05-04 |  |
 | [Suburban Love](https://open.spotify.com/track/5idywMLoczcnF9P3w26bTq) | [Lipstik Lipsing](https://open.spotify.com/artist/4TjOT7gITmHkn7X0NUEPhc) | [Room for Outside](https://open.spotify.com/album/6Zt1SG67JijuskYbTSwxDs) | 5:10 | 2022-04-14 |  |
@@ -86,6 +88,7 @@
 | [The Rain Always Had an Answer](https://open.spotify.com/track/4jYTgqXhW7aqdWE2VTVfaZ) | [Blossom Diary](https://open.spotify.com/artist/4wHBQaI9R90O4bhl71Sppp) | [Blossom Diary](https://open.spotify.com/album/2FbbUH7vKIV5vWcD6BXQjl) | 4:31 | 2022-05-12 |  |
 | [Train Song](https://open.spotify.com/track/7oEEo9d9ajxiwOyMnWnE67) | [LAIN](https://open.spotify.com/artist/7jl1uHLFhjyTBm7VhEJkfc) | [Djakarta Goodbye](https://open.spotify.com/album/1yBGzjyYGCLkPs9VwQh1qo) | 3:16 | 2021-11-25 |  |
 | [Tribute for you](https://open.spotify.com/track/6DyR1o2aSYZhvJPwAVkjVX) | [Pestolaer](https://open.spotify.com/artist/1gpfHCNfV3ODeF7f6YfsSF) | [Best of the Best](https://open.spotify.com/album/0ywMYhZ1UwaSMvuIO2HiMI) | 3:53 | 2022-04-14 |  |
+| [Waking Hour](https://open.spotify.com/track/0cs8SUKFfyO9yUPlVCY6oh) | [Hightime Rebellion](https://open.spotify.com/artist/6pdlU4FPMqLG74BWDxcTEO) | [Neurobic](https://open.spotify.com/album/6qwfwz47DEnXUQw6MD2dc6) | 4:43 | 2022-06-03 |  |
 | [Winter Holiday](https://open.spotify.com/track/0IxXRtwQGRBZTEYPmG00Ag) | [Olivetree](https://open.spotify.com/artist/0YrrDoXzukjGeE16uxqQft) | [Return of Strawberry Rock](https://open.spotify.com/album/5PsgYpiJfgCwkbfRUL97B2) | 3:15 | 2022-04-14 |  |
 | [Zsa Zsa Zsu](https://open.spotify.com/track/2243TCbg4yVQmWyS98rAUw) | [Rock N Roll Mafia](https://open.spotify.com/artist/6EK3t5PY9iBCzjujQFwYVc) | [Outbox](https://open.spotify.com/album/6p8FUn9K25XtrrlsMrbZ0P) | 4:41 | 2022-05-12 |  |
 

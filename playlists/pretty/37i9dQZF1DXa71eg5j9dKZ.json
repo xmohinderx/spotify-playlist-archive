@@ -1,12 +1,12 @@
 {
   "description": "The home for alternative electronic music. Cover: Jungle",
-  "num_followers": 397966,
+  "num_followers": 398148,
   "original_name": "Altar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDIxMDgwMCwwMDAwMDFkNjAwMDAwMTgxMjZhNWFhNGYwMDAwMDE4MTFjZDk0YTg0",
+  "snapshot_id": "MTY1NDIzNDc2NCwwMDAwMDFkNzAwMDAwMTgxMjgxMzU1NGQwMDAwMDE4MTFjZDk0YTg0",
   "tracks": [
     {
       "added_at": "2022-06-02 23:00:00",
@@ -59,6 +59,22 @@
     {
       "added_at": "2022-06-02 23:00:00",
       "album": {
+        "name": "I Need",
+        "url": "https://open.spotify.com/album/4RxfapVMHZdEpEB4g1D9If"
+      },
+      "artists": [
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        }
+      ],
+      "duration_ms": 251538,
+      "name": "I Need",
+      "url": "https://open.spotify.com/track/0ME6uNAGe22wEovyNvdKr8"
+    },
+    {
+      "added_at": "2022-06-02 23:00:00",
+      "album": {
         "name": "Fiorucci Made Me Hardcore",
         "url": "https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 252805,
       "name": "Baby, We're Ascending - Edit",
       "url": "https://open.spotify.com/track/1L6Jpr2nBdKkgs8CQWheNT"
-    },
-    {
-      "added_at": "2022-06-02 23:00:00",
-      "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/3AwaHIkIHRW92foxOPOcJ7"
-      },
-      "artists": [
-        {
-          "name": "ELLES",
-          "url": "https://open.spotify.com/artist/6EbSbVKlRuKxfIfr8H7mCo"
-        }
-      ],
-      "duration_ms": 254600,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/3gmmSF7pX9XyjgbjvXwmeq"
     },
     {
       "added_at": "2022-06-02 23:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-06-02 23:00:00",
       "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/3AwaHIkIHRW92foxOPOcJ7"
+      },
+      "artists": [
+        {
+          "name": "ELLES",
+          "url": "https://open.spotify.com/artist/6EbSbVKlRuKxfIfr8H7mCo"
+        }
+      ],
+      "duration_ms": 254600,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/3gmmSF7pX9XyjgbjvXwmeq"
+    },
+    {
+      "added_at": "2022-06-02 23:00:00",
+      "album": {
         "name": "Lost Island",
         "url": "https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 342000,
       "name": "Nova",
       "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
-    },
-    {
-      "added_at": "2022-06-02 23:00:00",
-      "album": {
-        "name": "I Need",
-        "url": "https://open.spotify.com/album/4RxfapVMHZdEpEB4g1D9If"
-      },
-      "artists": [
-        {
-          "name": "MJ Cole",
-          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
-        }
-      ],
-      "duration_ms": 251538,
-      "name": "I Need",
-      "url": "https://open.spotify.com/track/0ME6uNAGe22wEovyNvdKr8"
     },
     {
       "added_at": "2022-06-02 23:00:00",

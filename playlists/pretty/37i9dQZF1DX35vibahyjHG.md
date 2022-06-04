@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK?si=6hFnOof0RnqlRK0DrtZL0Q"> Moliy </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,617 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,625 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 22 | [E Choke](https://open.spotify.com/track/0dfhS0eJu5a3OB6TVMdYlA) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [E Choke](https://open.spotify.com/album/0bBL9agqk6xyPy88LWuS1b) | 3:03 |
 | 23 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |
 | 24 | [Mine](https://open.spotify.com/track/1nzmbzGyRa3X8n3s0AAubj) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa), [TAIO](https://open.spotify.com/artist/6WuZ1saWkFrczv6G1inkOp) | [Lisa Oduor\-Noah](https://open.spotify.com/album/01OpRABjuFQgRtj4DdT55m) | 2:55 |
-| 25 | [Khuza Gogo](https://open.spotify.com/track/7zJYbquljYLkTShkGhiBTX) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Blaqnick](https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF), [MasterBlaq](https://open.spotify.com/artist/2YaMctZMRwW4wYlkvwLKA9), [Mpura](https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA), [Ama Avenger](https://open.spotify.com/artist/0WY9mEje7cFCoFiEM61QxK), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P) | [Khuza Gogo](https://open.spotify.com/album/0MsgO41XUWYMHJmByMOUxr) | 6:20 |
+| 25 | [Khuza Gogo](https://open.spotify.com/track/7zJYbquljYLkTShkGhiBTX) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Blaqnick & MasterBlaq](https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF), [Mpura](https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA), [Ama Avenger](https://open.spotify.com/artist/0WY9mEje7cFCoFiEM61QxK), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P) | [Khuza Gogo](https://open.spotify.com/album/0MsgO41XUWYMHJmByMOUxr) | 6:20 |
 | 26 | [My Man](https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [My Man](https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA) | 3:38 |
 | 27 | [New Couple](https://open.spotify.com/track/6NChxvMJDAVr9Ze4pNQTNv) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Taste EP](https://open.spotify.com/album/426BOK5jx01hEploQorAb7) | 2:45 |
 | 28 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2) | 3:24 |

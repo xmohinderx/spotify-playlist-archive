@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 165890,
       "name": "Diaba",
       "url": "https://open.spotify.com/track/1Wj0h3MIeATuBNnxnbAmEu"
@@ -657,6 +657,24 @@
       "duration_ms": 126857,
       "name": "Perdeu",
       "url": "https://open.spotify.com/track/5Y3tgOf8Dbp5ja44Qh5vhw"
+    },
+    {
+      "album": {
+        "name": "Periferia",
+        "url": "https://open.spotify.com/album/3RELpLOZYzEOalB4O1MZGd"
+      },
+      "artists": [
+        {
+          "name": "WD",
+          "url": "https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163725,
+      "name": "Periferia",
+      "url": "https://open.spotify.com/track/3tEdTu6qhlIqgqu261plPu"
     },
     {
       "album": {

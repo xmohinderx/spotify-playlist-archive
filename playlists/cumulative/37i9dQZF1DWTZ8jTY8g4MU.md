@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: غريب ال مخلص
 
-50 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/6tQmExXg8DxfrZtMJYW4IZ)
+51 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/6tQmExXg8DxfrZtMJYW4IZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [مسموح](https://open.spotify.com/track/7dRbhjIlIaAiEtjuDZvfWM) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [مسموح](https://open.spotify.com/album/6fnM67wDQXsnTIIW4afDhA) | 3:21 | 2022-03-30 |  |
 | [مع الأسف](https://open.spotify.com/track/7yZoCbugaNaR3Ewwgr19y4) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [مع الأسف](https://open.spotify.com/album/7t3fiFizoUlCgSKdHTWCrC) | 4:40 | 2022-03-30 |  |
 | [من وين لك](https://open.spotify.com/track/2TJq4MQ7PLwI8d46hwNCIX) | [شبل الدواسر](https://open.spotify.com/artist/2Nr9HFrird38vSsf663IR3) | [من وين لك](https://open.spotify.com/album/7gUZK1rsPBpZuWIU5trWdv) | 4:28 | 2022-03-30 |  |
+| [مندمر قلبي](https://open.spotify.com/track/0GfnJEBAEzRUHbNH4E8X7b) | [فالح بن فصلا](https://open.spotify.com/artist/1DHRyIdhWKNu1nQzLP1A1T) | [مندمر قلبي](https://open.spotify.com/album/6pG0skRFKWygGIH4OuikYt) | 2:56 | 2022-06-03 |  |
 | [ناس غداره](https://open.spotify.com/track/5bPtrvFUxWFIjpxvlvB7mH) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ناس غداره](https://open.spotify.com/album/56uwlCTBtL3laF34jUmiOh) | 4:08 | 2022-03-30 |  |
 | [هويتك](https://open.spotify.com/track/6U7cxsbmsvF0NRssvWBWid) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep), [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [هويتك](https://open.spotify.com/album/5YCf0zGLkiAv7vE13eP859) | 3:37 | 2022-03-30 |  |
 | [واحشني صوتك](https://open.spotify.com/track/7v7Ec9YkD7pScPDVk3v5zV) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [واحشني صوتك](https://open.spotify.com/album/4mnBpLN40p7kdwhP5uixr5) | 3:24 | 2022-03-30 |  |

@@ -4,7 +4,7 @@
 
 > Somehow, heartbreak feels good in a place like this\. Cover: Conan Gray
 
-253 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
+254 songs - 14 hr 18 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-12-17 |  |
 | [heartbreak honeymoon](https://open.spotify.com/track/58QZNN5P9UC8moU8mWVzNy) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [heartbreak honeymoon](https://open.spotify.com/album/0BBy35QpH4SqoAbwxLZypl) | 2:50 | 2022-01-21 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2021-12-17 |  |
-| [Her](https://open.spotify.com/track/5czDKqPioLGfqZUERYxVZC) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [Sad Bird](https://open.spotify.com/album/38YnlQciGtGudiPFp3GCDT) | 3:00 | 2022-05-13 |  |
+| [Her](https://open.spotify.com/track/5czDKqPioLGfqZUERYxVZC) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [Sad Bird](https://open.spotify.com/album/38YnlQciGtGudiPFp3GCDT) | 3:00 | 2022-05-13 | 2022-06-04 |
 | [Here's Your Perfect](https://open.spotify.com/track/7ranmtPVs7Ckg2WLHO2L0m) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect \(Acoustic\)](https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN) | 2:38 | 2021-12-17 |  |
 | [History](https://open.spotify.com/track/5mWv4ybQXGJ2YmYhOsqImT) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [History](https://open.spotify.com/album/3VGf64WCcsgeQwLJPxl3om) | 2:19 | 2022-05-06 | 2022-05-28 |
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2022-01-07 | 2022-04-20 |
@@ -134,7 +134,7 @@
 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 | 2021-12-17 |  |
 | [Keep Hoping](https://open.spotify.com/track/4RhK5GQfBDhrJfkHImoBS0) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Keep Hoping](https://open.spotify.com/album/61GIbNflbuWH1DWUoHxI8Q) | 3:26 | 2022-03-18 | 2022-04-16 |
 | [Keep Your Head Up Princess](https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Keep Your Head Up Princess](https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK) | 3:18 | 2021-12-17 |  |
-| [Kid In My 20s](https://open.spotify.com/track/2iX3bxR6xPAvtfJLfTXPyo) | [Reagan Beem](https://open.spotify.com/artist/5tPTpbUqEfk2JU979vtzzM) | [Kid In My 20s](https://open.spotify.com/album/5b2guCeEmfG2N4Jo7Y5ojb) | 2:46 | 2022-04-29 | 2022-06-03 |
+| [Kid In My 20s](https://open.spotify.com/track/2iX3bxR6xPAvtfJLfTXPyo) | [Reagan Beem](https://open.spotify.com/artist/5tPTpbUqEfk2JU979vtzzM) | [Kid In My 20s](https://open.spotify.com/album/5b2guCeEmfG2N4Jo7Y5ojb) | 2:46 | 2022-04-29 |  |
 | [Learning To Live Without You](https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Learning To Live Without You](https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB) | 3:13 | 2021-12-17 |  |
 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2022-01-07 | 2022-04-21 |
 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 | 2021-12-17 |  |
@@ -186,6 +186,7 @@
 | [Nurture](https://open.spotify.com/track/68QtZJviwUVuDl7GS1pxDh) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp) | [Nurture](https://open.spotify.com/album/0muWT8ba5rnVAFzZuQ7zUW) | 4:12 | 2022-01-21 | 2022-01-29 |
 | [Oh Love](https://open.spotify.com/track/28Obqqr7EtnSNul1TJiQcX) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Oh Love](https://open.spotify.com/album/3LnydTYoQ2XGDZCCC6cOcn) | 2:44 | 2022-04-29 | 2022-05-03 |
 | [Older](https://open.spotify.com/track/3kywzyEr7V106Un5cDyh12) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Loser](https://open.spotify.com/album/7qUpf1A0w5hh4Do5SLRYjP) | 3:04 | 2021-12-17 |  |
+| [Over For Real](https://open.spotify.com/track/3VmY28meB22GwWl0L5BxyG) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Over For Real](https://open.spotify.com/album/4B4ozTRKVP1bVQJjsmJaDH) | 2:54 | 2022-06-03 |  |
 | [Overplayed](https://open.spotify.com/track/650A0ErUKCd1d8Imckr7qV) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Overplayed](https://open.spotify.com/album/7C2ZsCHmkGtHlXb2xCHgWr) | 3:02 | 2021-12-17 |  |
 | [Pain](https://open.spotify.com/track/1vwTCUJxmGlTuClU5YLfJA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Pain](https://open.spotify.com/album/1gNekazz4PqtPKSkCAORqp) | 3:39 | 2021-12-24 |  |
 | [Panic Attacks in Paradise](https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Panic Attacks in Paradise / Maggots](https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH) | 3:04 | 2021-12-17 | 2022-05-20 |
@@ -208,7 +209,7 @@
 | [Single in September \- Acoustic](https://open.spotify.com/track/4Q0HFo67Jq6ySobJooMpOJ) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single in September \(Acoustic\)](https://open.spotify.com/album/1n450BAtvB1tYqdBo5wnWj) | 3:20 | 2022-03-25 | 2022-04-21 |
 | [Skinny Dipping \- Acoustic](https://open.spotify.com/track/5pIjrMZ0B7hmuQBIG1hNQP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Skinny Dipping \(Acoustic\)](https://open.spotify.com/album/6QKqTHMTvzHbePp5yCizRK) | 3:12 | 2021-12-17 | 2022-01-22 |
 | [Slide Away](https://open.spotify.com/track/44ADyYoY5liaRa3EOAl4uf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Slide Away](https://open.spotify.com/album/0SHGFAL8WZUvpWb5iLPp6E) | 3:53 | 2022-01-07 | 2022-04-21 |
-| [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0UyljEbX9dqI1K0sqdv6B6) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SLOW DANCING IN THE DARK](https://open.spotify.com/album/2XlHWtxKbJyl0Fiw3e7Vvl) | 3:29 | 2022-01-07 |  |
+| [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0UyljEbX9dqI1K0sqdv6B6) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SLOW DANCING IN THE DARK](https://open.spotify.com/album/2XlHWtxKbJyl0Fiw3e7Vvl) | 3:29 | 2022-01-07 | 2022-06-04 |
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-12-17 |  |
 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 | 2022-04-22 |  |
 | [South Dakota](https://open.spotify.com/track/2s3CzgeeA7NpLP87ZDbmC8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [South Dakota](https://open.spotify.com/album/7pXsFVBKdJdyLEXUJ3j3oV) | 3:11 | 2022-01-07 |  |

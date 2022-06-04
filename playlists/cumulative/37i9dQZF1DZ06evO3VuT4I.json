@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 234200,
       "name": "'til Time and Times Are Done",
       "url": "https://open.spotify.com/track/26TmZWLTQdcMhYjbSBmVG4"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 273000,
       "name": "Celtic Nights",
       "url": "https://open.spotify.com/track/2xMUE2MRptR7uc8r8i2brq"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 324709,
       "name": "Closed Circuit",
       "url": "https://open.spotify.com/track/3boYC8PtVEiSCBsAfw7hah"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 247960,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/5qSxp12DHTXYyqeDlOnMr9"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 295266,
       "name": "Lumiere",
       "url": "https://open.spotify.com/track/1KnxOiS6IdrYyWY708m7Tf"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 218973,
       "name": "Megan's Dream",
       "url": "https://open.spotify.com/track/3ALDShaf3QEX1OcfvwLURW"
@@ -768,6 +768,24 @@
     },
     {
       "album": {
+        "name": "Pianissimo III",
+        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/7rXifdGnx7Lfe40VE5TTwT"
+    },
+    {
+      "album": {
         "name": "Pianissimo II",
         "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
       },
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 342760,
       "name": "Sailing To Byzantium - (New)",
       "url": "https://open.spotify.com/track/4VujPCSGU7lUU6QOIpxAs8"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 229080,
       "name": "Silver Ship",
       "url": "https://open.spotify.com/track/3sWBvGaYnq0cDN6lNNNAIt"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 217533,
       "name": "Snow Crystals",
       "url": "https://open.spotify.com/track/6HX7BkAHystUyxunvavwmx"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 252333,
       "name": "Time Stops",
       "url": "https://open.spotify.com/track/3r3nBeuWpbhrA0UyROJ5VS"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 215360,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/5voa2qWyVFrcjihOdFq4hF"

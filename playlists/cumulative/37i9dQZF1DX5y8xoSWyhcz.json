@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-29",
-  "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f) cover: Claudia Bouvette",
+  "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f) cover: Kid Bloom",
   "name": "indie pop & chill",
   "published_playlist_ids": [
     "4lgMQu4P2ziouf8Qz9MR8Q"
@@ -1570,6 +1570,24 @@
     },
     {
       "album": {
+        "name": "Borders",
+        "url": "https://open.spotify.com/album/32Bhy8Nr7QJHhL0dvvOSqs"
+      },
+      "artists": [
+        {
+          "name": "Milk & Bone",
+          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Borders",
+      "url": "https://open.spotify.com/track/1b6QfSPa8s05XgiTiPriVi"
+    },
+    {
+      "album": {
         "name": "Bored",
         "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
       },
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 211533,
       "name": "Broke Mine",
       "url": "https://open.spotify.com/track/3MWQIH5B6TSqxOT4mTYzJk"
@@ -1899,6 +1917,24 @@
       "duration_ms": 195000,
       "name": "C'mon Be Cool",
       "url": "https://open.spotify.com/track/5WEvpHhaLnH1ScM4A1nDzC"
+    },
+    {
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/7E8Enrh5avrFvW3FS5j0da"
+      },
+      "artists": [
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143360,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/3UVBkOTod3wOadZL6y32zE"
     },
     {
       "album": {
@@ -2763,6 +2799,24 @@
       "duration_ms": 146875,
       "name": "Cotton Candy Lemonade",
       "url": "https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S"
+    },
+    {
+      "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/0HBa1OFWRAcDhpZ1CrodtB"
+      },
+      "artists": [
+        {
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/3Zq52I2dhRokrKJW88yQPe"
     },
     {
       "album": {
@@ -4559,7 +4613,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 200000,
       "name": "Field Day",
       "url": "https://open.spotify.com/track/1fWJzUz6vBcNeSw9eiEAXj"
@@ -5155,7 +5209,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 182401,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/5RI58cbtkIOnqv13H1Khgq"
@@ -6621,6 +6675,28 @@
       "duration_ms": 225454,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/3qR417vBrNd4Lf01eMVwWB"
+    },
+    {
+      "album": {
+        "name": "I Don't Know (w/ ELIO)",
+        "url": "https://open.spotify.com/album/6DtyHq5JfijIBqWvDdPtKw"
+      },
+      "artists": [
+        {
+          "name": "Peter Fenn",
+          "url": "https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP"
+        },
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146579,
+      "name": "I Don't Know (w/ ELIO)",
+      "url": "https://open.spotify.com/track/79MW6Qm22GDnUJ3i2vttxp"
     },
     {
       "album": {
@@ -9603,7 +9679,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 163082,
       "name": "nice pup",
       "url": "https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE"
@@ -10551,7 +10627,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 232973,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/4xE387zm0EBPQy9NWBk6Sg"
@@ -11689,7 +11765,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 221989,
       "name": "Same Place",
       "url": "https://open.spotify.com/track/67OFPtLYDiUqYVBihtfTUN"
@@ -12159,6 +12235,24 @@
       "duration_ms": 206586,
       "name": "Silk Chiffon (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX"
+    },
+    {
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/2OieKLUZmHUcwMqtLpHoBg"
+      },
+      "artists": [
+        {
+          "name": "Angus Maude",
+          "url": "https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/1yLYOqEaafdA6LzWpfzFIL"
     },
     {
       "album": {
@@ -13267,7 +13361,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 158414,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/42c7aUxtj89o7CxXO6bJo5"
@@ -14743,6 +14837,24 @@
       "duration_ms": 224747,
       "name": "Two Moons",
       "url": "https://open.spotify.com/track/5GxUKIEkMXXZo1Tif0IzfC"
+    },
+    {
+      "album": {
+        "name": "Uncall It",
+        "url": "https://open.spotify.com/album/5JdqxFr49wq2SnOCObPYA4"
+      },
+      "artists": [
+        {
+          "name": "Devon Cole",
+          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156180,
+      "name": "Uncall It",
+      "url": "https://open.spotify.com/track/6dJC1unKk2kWnaA5goiXly"
     },
     {
       "album": {

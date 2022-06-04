@@ -1219,7 +1219,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 194693,
       "name": "Fiz 18",
       "url": "https://open.spotify.com/track/5n1AS1Oea32B0HyXrEGArz"
@@ -1277,7 +1277,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 276144,
       "name": "Fogo e N\u00e3o Fagulha",
       "url": "https://open.spotify.com/track/4h6GdLcFT8JvmUMUrfaCsr"
@@ -1375,7 +1375,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 222917,
       "name": "Hey, Babe",
       "url": "https://open.spotify.com/track/1TUv8ap6Kr4ilS1nKBAH4l"
@@ -1606,6 +1606,28 @@
     },
     {
       "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/1jMipAeLotyZINktvtkvWq"
+      },
+      "artists": [
+        {
+          "name": "Edu K",
+          "url": "https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK"
+        },
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159381,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/4ummgQbLMei458Pqv3d3H2"
+    },
+    {
+      "album": {
         "name": "Sonho Escaldante de Magia Azul",
         "url": "https://open.spotify.com/album/1Wrxh1nyH4GXVQQvoITL8d"
       },
@@ -1812,6 +1834,24 @@
     },
     {
       "album": {
+        "name": "Meninas M\u00e1s",
+        "url": "https://open.spotify.com/album/58wbbnZvMAKM1aVwT8RME5"
+      },
+      "artists": [
+        {
+          "name": "SATURNINA",
+          "url": "https://open.spotify.com/artist/2GEY6XAAi3IAdh49K6oE5z"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188999,
+      "name": "Meninas M\u00e1s",
+      "url": "https://open.spotify.com/track/52N4tStHw0W4ghxJJK6pbp"
+    },
+    {
+      "album": {
         "name": "Mente Blindada",
         "url": "https://open.spotify.com/album/2OpV6iAAIBcwDrLh8bAGlf"
       },
@@ -1902,6 +1942,24 @@
     },
     {
       "album": {
+        "name": "Namorade",
+        "url": "https://open.spotify.com/album/0bm7sKgv6UxeAoYGlS3LtS"
+      },
+      "artists": [
+        {
+          "name": "Velhas Virgens",
+          "url": "https://open.spotify.com/artist/1NG0y4OWAFilBtNB2Ey9jK"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132810,
+      "name": "Namorade",
+      "url": "https://open.spotify.com/track/41kJiYsXVP6po4yrkfbc3K"
+    },
+    {
+      "album": {
         "name": "O Futuro Pertence \u00c0...Jovem Guarda",
         "url": "https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb"
       },
@@ -1971,6 +2029,24 @@
       "duration_ms": 162895,
       "name": "No Dope",
       "url": "https://open.spotify.com/track/6hK9ZwfGFXChenmoRMA3QO"
+    },
+    {
+      "album": {
+        "name": "Nome do Amor",
+        "url": "https://open.spotify.com/album/1HGtq3UpIAIxsRmFSW3xlL"
+      },
+      "artists": [
+        {
+          "name": "Gus Nascimento",
+          "url": "https://open.spotify.com/artist/2WeX0MjSzcLnqnZbbskV9q"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210236,
+      "name": "Nome do Amor",
+      "url": "https://open.spotify.com/track/0OvaGYo2WMvl9F9YvbG52H"
     },
     {
       "album": {
@@ -2587,7 +2663,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 235640,
       "name": "Sangue Sujo",
       "url": "https://open.spotify.com/track/5dQw3OmCf8HaTtsom1DavG"

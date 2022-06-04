@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: NIKI
 
-11,657 songs - 27 day 22 hr 28 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
+11,658 songs - 27 day 22 hr 32 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3931,6 +3931,7 @@
 | [Happiness In Liquid Form](https://open.spotify.com/track/5KRyn0z6znMxUUojq0NzuQ) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness In Liquid Form](https://open.spotify.com/album/6BMG6KHqfPfw0oZaxNMmym) | 3:32 | 2020-04-10 | 2020-04-16 |
 | [Happiness Under Your Nose](https://open.spotify.com/track/3cxqcj0XuIbvpGV4DEIcjp) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Benny Benack III](https://open.spotify.com/artist/5mtbuVQt7ioJYcuSTvSgW9) | [Happiness Under Your Nose](https://open.spotify.com/album/6MSGlsygEdI8FxRcem99Pt) | 5:18 | 2020-05-22 | 2020-05-29 |
 | [Happy](https://open.spotify.com/track/459mRPsscVLMvVL59gr7EM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Happy](https://open.spotify.com/album/1nPB6o7EjGvUORXlnioEPk) | 3:41 | 2020-05-08 | 2020-05-15 |
+| [Happy Birthday](https://open.spotify.com/track/0fElururinZektfZMpFFdN) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Happy Birthday](https://open.spotify.com/album/4ATg7M4n35AokS3748RFFO) | 3:54 | 2022-06-02 |  |
 | [Happy Birthday](https://open.spotify.com/track/6LSXEnRRdbEN4IbRTOBQDP) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Happy Birthday](https://open.spotify.com/album/53boDLnPMdarcMa8JAD0DG) | 3:11 | 2022-05-26 | 2022-06-03 |
 | [Happy Birthday](https://open.spotify.com/track/1bzxCO4Iv05Pjn3C5EhhpA) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Happy Birthday](https://open.spotify.com/album/2RMMsFGbqEQfb3iTHdSQ8U) | 2:28 | 2021-11-05 | 2021-11-12 |
 | [Happy Birthday](https://open.spotify.com/track/5WBC8Ymk4UsMecQgLpwfqQ) | [WOO JIN YOUNG](https://open.spotify.com/artist/1vpeQFhw90qhSRmzBd1ivl) | [\[3\-2=A\]](https://open.spotify.com/album/12f7MPJxreN85KhapL4Ayz) | 3:05 | 2021-06-11 | 2021-06-18 |

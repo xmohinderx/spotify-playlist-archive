@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
   "name": "This Is Bobby Pulido",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1xjrOFeEw74VbZbRn49c5D"
+  ],
   "tracks": [
     {
       "album": {
@@ -53,7 +55,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 197920,
       "name": "Ayer Y Hoy",
       "url": "https://open.spotify.com/track/2WTLKHXAKQPmAvoi1A3bA5"
@@ -125,10 +127,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 196040,
       "name": "Cumbia Vallenata",
       "url": "https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH"
+    },
+    {
+      "album": {
+        "name": "Enfermo",
+        "url": "https://open.spotify.com/album/6YPqIlrOLgXeOqCVe8yYtH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224173,
+      "name": "Desn\u00fadame Con La Boca",
+      "url": "https://open.spotify.com/track/44iTkje2BHNMm4DZfa3rf5"
     },
     {
       "album": {
@@ -183,6 +203,24 @@
       "duration_ms": 186906,
       "name": "Dime Qu\u00e9 Debo Hacer",
       "url": "https://open.spotify.com/track/4JdXfOJ344Cbf55yzfOZow"
+    },
+    {
+      "album": {
+        "name": "Llegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "Donde Est\u00e9s",
+      "url": "https://open.spotify.com/track/1hnwKfd41RHPru8zZraOQY"
     },
     {
       "album": {
@@ -244,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Llegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "Estoy S\u00f3lo",
+      "url": "https://open.spotify.com/track/2ga3yCVSylyMyff8kvbfeC"
+    },
+    {
+      "album": {
         "name": "Siempre Pensando en Ti",
         "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
       },
@@ -273,7 +329,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 189618,
       "name": "Inesperadamente",
       "url": "https://open.spotify.com/track/4GAqqobic0kTtK3mfAP6Am"
@@ -623,7 +679,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 223240,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/72GdSXUOtE6AdBUlNFO9NW"
@@ -771,10 +827,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 218226,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/2RgBInbB7gq3ewMVkqYIPr"
+    },
+    {
+      "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201560,
+      "name": "Sustancia",
+      "url": "https://open.spotify.com/track/7M3hiMMj3jNkPLj7dzd9sp"
     },
     {
       "album": {
@@ -789,7 +863,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 222266,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/7MxuCuT5SiVYlOKhSIXN6i"

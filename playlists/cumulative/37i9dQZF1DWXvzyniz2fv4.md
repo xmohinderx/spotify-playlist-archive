@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-67 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
+68 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Mais um Som de Amor](https://open.spotify.com/track/1LUXuBHT3gaB6KiPxCdN8h) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [Bella Mattar](https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3) | [Mais um Som de Amor](https://open.spotify.com/album/4PPjHHz5ISLG7lhLiF4Orn) | 3:34 | 2021-11-12 |  |
 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalunga](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 | 2021-11-12 |  |
 | [Mapa Astral](https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7) | [Zoli](https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Mapa Astral](https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF) | 3:13 | 2021-11-12 |  |
+| [Marshmallow](https://open.spotify.com/track/6Vgcv9xcSMztBg3Z3Z77kG) | [RAMON](https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl), [Tchello](https://open.spotify.com/artist/7m7zHLfw3T0SAZxYVRrE5h) | [Marshmallow](https://open.spotify.com/album/24O2Emosddo9pRVxZcAwAT) | 2:22 | 2022-06-03 |  |
 | [Marília Mendonça](https://open.spotify.com/track/1CBjYXLotHrkiykMbI7EaU) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Marília Mendonça](https://open.spotify.com/album/46SOz1ZyHOohm8ADANNKGs) | 1:53 | 2021-11-12 |  |
 | [Meia Hora](https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ) | [Gabriel Henriques](https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [NOX](https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO) | [Meia Hora](https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV) | 3:17 | 2021-11-12 |  |
 | [Meia Noite e Pouca](https://open.spotify.com/track/12sxunAocKmrn8AzPVn8hU) | [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q) | [Fases](https://open.spotify.com/album/03Xtrk1TYuWG8249nRdPfa) | 2:38 | 2021-11-12 |  |
@@ -72,7 +73,7 @@
 | [Te Ver De Novo](https://open.spotify.com/track/71BEEPY7pGaNUXZdu9xIYd) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny) | [Te Ver De Novo](https://open.spotify.com/album/1fkSMux23otinTEAs2eJCI) | 2:48 | 2021-11-12 |  |
 | [Todas as Cidades](https://open.spotify.com/track/2XQQNpvvGwIVWei7Deg9o9) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Todas as Cidades](https://open.spotify.com/album/12zQoI9qCsnBo6t9Qe176A) | 2:15 | 2021-11-12 |  |
 | [Tudo de bom](https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Tudo de bom](https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO) | 2:44 | 2021-11-12 |  |
-| [Vai Gostosa](https://open.spotify.com/track/0a1a1u80SpD9heQ2ZbZ3vb) | [Muzi](https://open.spotify.com/artist/7kkXeEaUHfVkdUM7JUMtMk), [Rafa Martins](https://open.spotify.com/artist/5R7eRcOsRZhnTkkCJ69wet), [Dolla](https://open.spotify.com/artist/1lzCig630ASEZm9vI4COE3) | [Vai Gostosa](https://open.spotify.com/album/1Vuo97td00zwKJQpuDpwzn) | 4:58 | 2021-11-12 |  |
+| [Vai Gostosa](https://open.spotify.com/track/0a1a1u80SpD9heQ2ZbZ3vb) | [Muzi](https://open.spotify.com/artist/7kkXeEaUHfVkdUM7JUMtMk), [Rafa Martins](https://open.spotify.com/artist/5R7eRcOsRZhnTkkCJ69wet), [Dolla](https://open.spotify.com/artist/1lzCig630ASEZm9vI4COE3) | [Vai Gostosa](https://open.spotify.com/album/1Vuo97td00zwKJQpuDpwzn) | 4:58 | 2021-11-12 | 2022-06-04 |
 | [Vento Bom](https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2) | [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ), [Mc Tekáda\-B](https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU) | [Vento Bom](https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l) | 2:49 | 2021-11-12 |  |
 | [É Você](https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Mc Chagas](https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj), [Mc Rei Delas](https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i) | [É Você](https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa) | 3:17 | 2021-11-12 |  |
 

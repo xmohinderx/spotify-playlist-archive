@@ -4,13 +4,14 @@
 
 > Ease into these recent hits and new songs from your favorite artists\. Cover: Lady Gaga
 
-846 songs - 1 day 22 hr 40 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
+849 songs - 1 day 22 hr 49 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1+1](https://open.spotify.com/track/71Taskl2O73XfpQtJciJCD) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 2:58 | 2021-02-12 | 2021-03-27 |
 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 | 2019-10-04 | 2020-04-10 |
 | [123456](https://open.spotify.com/track/6XD28jsvrkE2XZg4btfcIg) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [123456 / I Need Help! / Don't Ever Let Em](https://open.spotify.com/album/1qmkBYXtUz1fCdaMTP5MFN) | 3:04 | 2019-06-28 | 2019-10-18 |
+| [14](https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [14](https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe) | 2:21 | 2022-06-03 |  |
 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 | 2021-09-11 |  |
 | [24 Hours](https://open.spotify.com/track/7dDtjTlMhLhkuugxXrcJz1) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [24 Hours](https://open.spotify.com/album/5UNe2eNrwKNHeczcVpgRZi) | 3:18 | 2021-08-21 | 2021-09-25 |
 | [24/5](https://open.spotify.com/track/1A6gT680oQr98VtDkNzys7) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [24/5](https://open.spotify.com/album/263g4l4u6u115I2ISnMkQP) | 2:38 | 2021-09-11 | 2021-10-23 |
@@ -134,6 +135,7 @@
 | [Can You Handle My Love??](https://open.spotify.com/track/7GKMstqz3UYkFvlX93qCyz) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Can You Handle My Love??](https://open.spotify.com/album/5HuxJH43h3FTR8W258lhps) | 4:16 | 2021-11-13 | 2022-02-05 |
 | [Can't Sleep](https://open.spotify.com/track/4bv8RzIP87Mn34fsTvtL0O) | [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [Kathleen II](https://open.spotify.com/album/53i39sp8XOhqNPZ9q7reFG) | 3:20 | 2020-10-18 | 2020-11-10 |
 | [Can't Stop Us Now](https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Can't Stop Us Now](https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf) | 3:22 | 2022-04-29 |  |
+| [Cannonball](https://open.spotify.com/track/4YOAzHBhNgRYdZ1d6y0Mhf) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Cannonball](https://open.spotify.com/album/0kbea7FLhporH5drZqrevb) | 2:43 | 2022-06-03 |  |
 | [captain's dance with the devil](https://open.spotify.com/track/5S7rqoAt14NRdZxfVNFtNf) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [captain's dance with the devil](https://open.spotify.com/album/53ZUMxyPB12MuCBkcRN5ig) | 2:26 | 2021-08-14 | 2021-09-18 |
 | [Carry Me Away](https://open.spotify.com/track/6TL3MOcVW8i1UiJkvhpDbR) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Carry Me Away](https://open.spotify.com/album/5KvmuOTWNRFPAQdz0KRPcf) | 2:39 | 2019-09-06 | 2020-02-28 |
 | [Castles](https://open.spotify.com/track/23zzZpPotrX7adSotiOvtP) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Castles](https://open.spotify.com/album/7jWoG1j20gL7p51DFyhPXb) | 3:31 | 2019-06-07 | 2019-11-15 |
@@ -359,6 +361,7 @@
 | [I Should Probably Go To Bed](https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed](https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj) | 2:51 | 2020-08-07 | 2020-10-23 |
 | [I Told You](https://open.spotify.com/track/46frPLWZuQlMLyelCLYpL0) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [I Told You](https://open.spotify.com/album/50jh9JaOKYIxjRnmeUkpvY) | 2:31 | 2019-10-11 | 2020-02-28 |
 | [I Warned Myself](https://open.spotify.com/track/3707IBa4HnS3zDDoWfeUBl) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [I Warned Myself](https://open.spotify.com/album/3TDyDrYb9qx7DtGWXqvLfW) | 2:39 | 2019-08-23 | 2019-09-20 |
+| [I Went Hunting](https://open.spotify.com/track/2X0B89nchlocmZ12zyYd7H) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [I Went Hunting](https://open.spotify.com/album/1P1G2eyoP4UphHDjRiol6T) | 3:45 | 2022-06-03 |  |
 | [i will always be there](https://open.spotify.com/track/19g0tmfAigmmJltb5cC5hO) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [i will always be there](https://open.spotify.com/album/3w3YwckovrrthsXyHbZaua) | 3:26 | 2020-04-04 | 2020-04-18 |
 | [I'll Never Not Love You](https://open.spotify.com/track/3tKggonCKJgCG7nroEH2np) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [I'll Never Not Love You](https://open.spotify.com/album/40Ud7EvNeSxYcpNibD0Qhu) | 3:38 | 2022-01-28 | 2022-05-07 |
 | [I'll Wait](https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I'll Wait](https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC) | 3:35 | 2020-04-04 | 2021-01-15 |

@@ -4,7 +4,7 @@
 
 > Voz de la guitarra mía, al despertar la mañana, quiere cantar su alegría a mi tierra mexicana.
 
-50 songs - 2 hr 49 min - not published yet
+50 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/4vYTIdDxuuSPgpW7kakjdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

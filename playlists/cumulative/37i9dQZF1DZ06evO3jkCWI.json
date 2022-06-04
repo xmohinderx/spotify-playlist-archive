@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
   "name": "This Is Los Invasores De Nuevo Le\u00f3n",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4fMUj7mAN5J355FNck9WHZ"
+  ],
   "tracks": [
     {
       "album": {
@@ -273,7 +275,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 181386,
       "name": "El Preso de Nuevo Le\u00f3n",
       "url": "https://open.spotify.com/track/6wxe34W9Vy8PWwlkIy0Bf4"
@@ -291,7 +293,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 164133,
       "name": "El Profugo De Tijuana",
       "url": "https://open.spotify.com/track/48tDkYg8Ih9b7YuPKyufEl"
@@ -385,7 +387,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 181720,
       "name": "Es Demasiado Tarde",
       "url": "https://open.spotify.com/track/70YMp6bVrVHMhgevfAbf63"
@@ -443,6 +445,24 @@
       "duration_ms": 152293,
       "name": "La Fuga Del Rojo",
       "url": "https://open.spotify.com/track/2cyH9j4rvR9Q6Zg5LZNvPZ"
+    },
+    {
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159533,
+      "name": "La Novia De Mi Hermano",
+      "url": "https://open.spotify.com/track/7vD3N2EHqv8GfQa8zi9u3J"
     },
     {
       "album": {
@@ -533,7 +553,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 174893,
       "name": "Me Sobra Llanto",
       "url": "https://open.spotify.com/track/5XmPFF0iUdWt5rbnIpZNIW"
@@ -605,7 +625,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 151333,
       "name": "Mi Flor De Naranjo",
       "url": "https://open.spotify.com/track/7ddmuD2oPlMXJHzgUQMnOf"
@@ -785,7 +805,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 188413,
       "name": "Porque No Le Calas - En Vivo",
       "url": "https://open.spotify.com/track/00nl5adFlB8bVbR3UM5BmZ"
@@ -915,6 +935,24 @@
       "duration_ms": 208893,
       "name": "Se Acab\u00f3",
       "url": "https://open.spotify.com/track/2Tq1NVRQwWSZ0CUSxU0cFA"
+    },
+    {
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140333,
+      "name": "Te Sorprend\u00ed Llorando",
+      "url": "https://open.spotify.com/track/4rqLedkzIcDNbSo8bnRGZY"
     },
     {
       "album": {

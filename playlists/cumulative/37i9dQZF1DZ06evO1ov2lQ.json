@@ -19,10 +19,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 111129,
       "name": "Adagiati",
       "url": "https://open.spotify.com/track/7sGGstyG6WbJGQnvIEI47g"
+    },
+    {
+      "album": {
+        "name": "Cirque",
+        "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317834,
+      "name": "Algae and Fungi part 2",
+      "url": "https://open.spotify.com/track/0qveDw5Qx1zn1StsX81HvJ"
     },
     {
       "album": {
@@ -145,7 +163,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 234440,
       "name": "As Weird as the Elfin Lights",
       "url": "https://open.spotify.com/track/4phMb8e5oT4WMQImLQyUWD"
@@ -308,6 +326,24 @@
     },
     {
       "album": {
+        "name": "Shenzhou [Reissue]",
+        "url": "https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158939,
+      "name": "Dover Ferryport",
+      "url": "https://open.spotify.com/track/6AHAQBVo1ibwYptoLoo5LC"
+    },
+    {
+      "album": {
         "name": "The Petrified Forest",
         "url": "https://open.spotify.com/album/2eTsX0BF5V0seyKkBgG8vc"
       },
@@ -427,7 +463,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 48111,
       "name": "Grandiflora",
       "url": "https://open.spotify.com/track/0XG0jUpQ4ubOz9hzqbygOq"
@@ -535,7 +571,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 350528,
       "name": "In Triple Time",
       "url": "https://open.spotify.com/track/3ErEIn3vPI9PqwhRdtgGjm"
@@ -615,7 +651,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 410506,
       "name": "Katedra Botaniki",
       "url": "https://open.spotify.com/track/79QCazp5Yy0bmPx908uqbz"
@@ -655,7 +691,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 558013,
       "name": "Meltwater",
       "url": "https://open.spotify.com/track/2PzavCFlTr6ord6gRuDmT3"
@@ -745,7 +781,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 237893,
       "name": "Monju-2",
       "url": "https://open.spotify.com/track/5tHbDap6SZw6Ml49hJBmBt"
@@ -835,7 +871,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 639546,
       "name": "People Are Friends",
       "url": "https://open.spotify.com/track/7CYNZgGuWr2lhkeQh1yurD"
@@ -853,7 +889,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 251066,
       "name": "Poa Alpina",
       "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
@@ -965,7 +1001,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 347640,
       "name": "Sphere of No Form",
       "url": "https://open.spotify.com/track/1sTEwlABqphttrrXoUUeqE"
@@ -1109,7 +1145,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 291828,
       "name": "Too Fragile to Walk On",
       "url": "https://open.spotify.com/track/7K7DeIN0qZvNVrc2Skyoks"
@@ -1127,7 +1163,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 498021,
       "name": "Tranquillizer",
       "url": "https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ"

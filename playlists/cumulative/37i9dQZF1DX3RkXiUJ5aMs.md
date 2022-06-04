@@ -4,7 +4,7 @@
 
 > A collection of inspired songs and familiar tunes about life and the love of the father.
 
-58 songs - 3 hr 59 min - not published yet
+58 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/1OfuIj9JDUDFUa2nDU3Lxc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

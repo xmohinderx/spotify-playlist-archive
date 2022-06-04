@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
   "name": "This Is Banda Machos",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7wKymSLTXiTtr2AI2MpiU9"
+  ],
   "tracks": [
     {
       "album": {
@@ -107,7 +109,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 107426,
       "name": "Chaparra de mi amor",
       "url": "https://open.spotify.com/track/5TCIAhvrZHb99R3ZtmKP3M"
@@ -143,7 +145,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 178173,
       "name": "Corrido de la Hermana",
       "url": "https://open.spotify.com/track/5X9rrWWiacx19R8iIovft7"
@@ -345,6 +347,24 @@
       "duration_ms": 174493,
       "name": "Esta tristeza m\u00eda",
       "url": "https://open.spotify.com/track/1OR4HEV1aNbxJiEZuGUd3H"
+    },
+    {
+      "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174866,
+      "name": "Gracias mujer",
+      "url": "https://open.spotify.com/track/6ky62QbRkQK6zYNuHexica"
     },
     {
       "album": {
@@ -917,7 +937,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 231453,
       "name": "Vivir sin ella",
       "url": "https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G"

@@ -1,13 +1,41 @@
 {
   "description": "Keeping the party going where ever you are w/ Moonshine",
-  "num_followers": 25705,
+  "num_followers": 25734,
   "original_name": "House Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzYyNDAwMCwwMDAwMDAwYjAwMDAwMTgxMDNhYmNlZTUwMDAwMDE4MGUwOTI5OTJh",
+  "snapshot_id": "MTY1NDIyODgwMCwwMDAwMDAwYzAwMDAwMTgxMjdiODUyYzUwMDAwMDE4MGUwOTI5OTJh",
   "tracks": [
+    {
+      "added_at": "2022-06-03 04:00:00",
+      "album": {
+        "name": "Obomi Nga",
+        "url": "https://open.spotify.com/album/52dGCyEMkAX9f2QVTUPdx0"
+      },
+      "artists": [
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX"
+        },
+        {
+          "name": "MC RedBul",
+          "url": "https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7"
+        },
+        {
+          "name": "Uproot Andy",
+          "url": "https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc"
+        },
+        {
+          "name": "MC Azas",
+          "url": "https://open.spotify.com/artist/4NoFJgUGH2LMOt2MtC6Vhx"
+        }
+      ],
+      "duration_ms": 374767,
+      "name": "Obomi Nga",
+      "url": "https://open.spotify.com/track/1YthsroKCm3ebScYHHjoEo"
+    },
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {

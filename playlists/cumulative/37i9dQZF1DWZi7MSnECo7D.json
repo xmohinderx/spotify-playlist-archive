@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: PLUMA, Boogarins",
+  "description": "Novidades e destaques do indie nacional. Foto: Viratempo",
   "name": "Indie Brasil",
   "published_playlist_ids": [
     "6JgS0nFYvZfSw5mDRlDbjL"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 186063,
       "name": "20 Anos e Meio",
       "url": "https://open.spotify.com/track/3QMQqmpesGqVcHuV0vMv2m"
@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Acordei",
+        "url": "https://open.spotify.com/album/7Awks75QKXipZmTWMjTeeP"
+      },
+      "artists": [
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182958,
+      "name": "Acordei",
+      "url": "https://open.spotify.com/track/7omGS2EKCcWM6oNBkN4ryV"
+    },
+    {
+      "album": {
         "name": "Albatroz Azul",
         "url": "https://open.spotify.com/album/4wYBRx8hOzUQiSysTDihpn"
       },
@@ -171,6 +189,24 @@
       "duration_ms": 192625,
       "name": "Algum Lugar",
       "url": "https://open.spotify.com/track/3yEXRZC6m1M9XtAwijENfx"
+    },
+    {
+      "album": {
+        "name": "Alice (S\u00f3 Que Sem as Maravilhas)",
+        "url": "https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg"
+      },
+      "artists": [
+        {
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "Alice (S\u00f3 Que Sem as Maravilhas)",
+      "url": "https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY"
     },
     {
       "album": {
@@ -283,7 +319,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 254868,
       "name": "Aulus",
       "url": "https://open.spotify.com/track/7KtPb4RSS9YCDsBE8WTbl8"
@@ -475,7 +511,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 212040,
       "name": "Bruta",
       "url": "https://open.spotify.com/track/4dSZ4PCRQio4IvIza6IAMb"
@@ -645,7 +681,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 183216,
       "name": "Chamo Minhas Ancestrais",
       "url": "https://open.spotify.com/track/2jGnAJXpglKWiuVmtEV3xP"
@@ -819,7 +855,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 188250,
       "name": "C\u00ea me viu ontem",
       "url": "https://open.spotify.com/track/6Iprd2vrpBI06WoN73BMVO"
@@ -1711,7 +1747,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 194351,
       "name": "Me chama pra dan\u00e7ar",
       "url": "https://open.spotify.com/track/5hDaaCG21ULMZ6Ar4vjm2X"
@@ -1777,10 +1813,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 130000,
       "name": "Meu Caminho",
       "url": "https://open.spotify.com/track/5t1ivpNTSgYRFjZfBSyGzA"
+    },
+    {
+      "album": {
+        "name": "Meu Filh\u00e3o",
+        "url": "https://open.spotify.com/album/7944QdTNV7BiObfn2R4JzF"
+      },
+      "artists": [
+        {
+          "name": "Do Amor",
+          "url": "https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228356,
+      "name": "Meu Filh\u00e3o",
+      "url": "https://open.spotify.com/track/06qUwbw9evHFYk7Vy1sUrW"
     },
     {
       "album": {
@@ -1807,6 +1861,24 @@
       "duration_ms": 167916,
       "name": "MIRO",
       "url": "https://open.spotify.com/track/1bv5RhJDGTjjM2qKN0HaKl"
+    },
+    {
+      "album": {
+        "name": "Mistificar",
+        "url": "https://open.spotify.com/album/4mvVkLGZeUGm0D6C8zZuiZ"
+      },
+      "artists": [
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187628,
+      "name": "Mistificar",
+      "url": "https://open.spotify.com/track/63cd1HLiFFWrelMezvFyBO"
     },
     {
       "album": {
@@ -1931,6 +2003,24 @@
       "duration_ms": 113178,
       "name": "Nascer, Viver, Morrer",
       "url": "https://open.spotify.com/track/188u45zEKJJFaeIO0aMlpF"
+    },
+    {
+      "album": {
+        "name": "nem sempre foi assim",
+        "url": "https://open.spotify.com/album/6qJ4djzuo97V866oqDnkUn"
+      },
+      "artists": [
+        {
+          "name": "Gorduratrans",
+          "url": "https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212767,
+      "name": "nem sempre foi assim",
+      "url": "https://open.spotify.com/track/00SaOQz2IJCWaxik1UM05P"
     },
     {
       "album": {
@@ -2416,6 +2506,24 @@
     },
     {
       "album": {
+        "name": "PRAZER",
+        "url": "https://open.spotify.com/album/6F1skja7UE5VvAC1DQQgll"
+      },
+      "artists": [
+        {
+          "name": "Viratempo",
+          "url": "https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228668,
+      "name": "PRAZER",
+      "url": "https://open.spotify.com/track/4yn9IyH77LOTESnOIq43WU"
+    },
+    {
+      "album": {
         "name": "Primeira Pessoa",
         "url": "https://open.spotify.com/album/3oAyKdq4UMS094SH61ky5V"
       },
@@ -2601,7 +2709,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 174000,
       "name": "Resqu\u00edcio",
       "url": "https://open.spotify.com/track/5rsTzSbUgJjnWjN30UUnVZ"
@@ -2729,6 +2837,24 @@
       "duration_ms": 189057,
       "name": "Se Entrega!",
       "url": "https://open.spotify.com/track/1p4W2Ib2xZm04ouaIrDcWn"
+    },
+    {
+      "album": {
+        "name": "Se Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/0XC9oH16ALFjo5QpXweevZ"
+      },
+      "artists": [
+        {
+          "name": "Lupa",
+          "url": "https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175326,
+      "name": "Se Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/6GinDJJ5NGdbrkSUrivGkz"
     },
     {
       "album": {
@@ -2874,6 +3000,24 @@
     },
     {
       "album": {
+        "name": "Soledad",
+        "url": "https://open.spotify.com/album/49VnxelSl3bPhaGrzVPFVX"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204353,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/1y4HEthKJISXod18LjIR3F"
+    },
+    {
+      "album": {
         "name": "Somos S\u00f3",
         "url": "https://open.spotify.com/album/5Cw0fuWecAhIsSoWbugI65"
       },
@@ -3001,7 +3145,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 228000,
       "name": "S\u00f3",
       "url": "https://open.spotify.com/track/0b80V1R6f0RM80kdbVnnv4"
@@ -3019,7 +3163,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 224360,
       "name": "Tempo Presente",
       "url": "https://open.spotify.com/track/6EcOfscBzI1HIEHTp25ysT"
@@ -3178,6 +3322,24 @@
     },
     {
       "album": {
+        "name": "Todo Dia",
+        "url": "https://open.spotify.com/album/13Y4BalYZL0tvk5I8dlqJP"
+      },
+      "artists": [
+        {
+          "name": "Vincy",
+          "url": "https://open.spotify.com/artist/6HlGGZw4VFdkPIFkWQnVzm"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156156,
+      "name": "Todo Dia",
+      "url": "https://open.spotify.com/track/5XVCGWWidSp3Of6o3AKCBh"
+    },
+    {
+      "album": {
         "name": "Transtornos",
         "url": "https://open.spotify.com/album/2abVnlYhTgRubzTKcEOvHa"
       },
@@ -3287,7 +3449,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 187187,
       "name": "Um Milh\u00e3o de Coisas",
       "url": "https://open.spotify.com/track/0nRiU5YRgqDMqueJIKc3PS"
@@ -3349,6 +3511,24 @@
       "duration_ms": 281573,
       "name": "vai/fica",
       "url": "https://open.spotify.com/track/5J0d2UZQqY2tArK3i2HJzT"
+    },
+    {
+      "album": {
+        "name": "Vale",
+        "url": "https://open.spotify.com/album/2mkkUx8L4pbKO3RqI4tAzx"
+      },
+      "artists": [
+        {
+          "name": "Festa Tempestade",
+          "url": "https://open.spotify.com/artist/708vDP7cL5EXTGmLudtzR0"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229369,
+      "name": "Vale",
+      "url": "https://open.spotify.com/track/3RsbQPOPalz26UnLQqBf3v"
     },
     {
       "album": {

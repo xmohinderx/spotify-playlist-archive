@@ -4,7 +4,7 @@
 
 > El pulso de la Gran Tenochtitlán sigue vivo en la música que evoca su mundo místico.
 
-30 songs - 1 hr 44 min - not published yet
+30 songs - 1 hr 44 min - [published](https://open.spotify.com/playlist/062xynYqytaEbtEBXiHCJb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

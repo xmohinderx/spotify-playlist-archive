@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: 42 Dugg & EST Gee",
+  "description": "The Midwest is always on time. Cover: Polo G",
   "name": "CST",
   "published_playlist_ids": [
     "41V1Pq5RMClkd6MJCSDWfC"
@@ -23,6 +23,28 @@
       "duration_ms": 166435,
       "name": "100 Chicagos",
       "url": "https://open.spotify.com/track/2zg04XrOXZLIZGjDo2Z9qH"
+    },
+    {
+      "album": {
+        "name": "2 Freaks (feat. Snoop Dogg)",
+        "url": "https://open.spotify.com/album/1IUHCNX0sOEYnpfzo1vgBk"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175499,
+      "name": "2 Freaks (feat. Snoop Dogg)",
+      "url": "https://open.spotify.com/track/0bZoGGitOSSriBDfjT5g5J"
     },
     {
       "album": {
@@ -129,6 +151,54 @@
       "duration_ms": 65480,
       "name": "A Bar About a Bar",
       "url": "https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ"
+    },
+    {
+      "album": {
+        "name": "FACE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4GZSso90oXNVv0OdzXGjth"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185666,
+      "name": "A1 Since Day 1",
+      "url": "https://open.spotify.com/track/3nVp8DQIQU9ow8W0kg6OmO"
+    },
+    {
+      "album": {
+        "name": "ABOW",
+        "url": "https://open.spotify.com/album/6ZfGwuyfS3jUQpZ2L0sx7b"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+        },
+        {
+          "name": "DreamDoll",
+          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
+        },
+        {
+          "name": "ShantiiP",
+          "url": "https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134184,
+      "name": "ABOW",
+      "url": "https://open.spotify.com/track/5KEpflyct0AqX7H7GVlQVj"
     },
     {
       "album": {
@@ -445,7 +515,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 169012,
       "name": "Beyond Turnt",
       "url": "https://open.spotify.com/track/6MkzFs2M02zeQMc5L2HHCF"
@@ -659,7 +729,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 191358,
       "name": "Chi-York (feat. B-Lovee)",
       "url": "https://open.spotify.com/track/0Em7qvCUj6nKF6aI7g7KWA"
@@ -750,6 +820,32 @@
     },
     {
       "album": {
+        "name": "Young, Wild & Free",
+        "url": "https://open.spotify.com/album/10syTIgOdfsEfpERcLG89Y"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        },
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        },
+        {
+          "name": "Louie Ray",
+          "url": "https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162314,
+      "name": "Coochie Flow (feat. Rio Da Yung OG & Louie Ray)",
+      "url": "https://open.spotify.com/track/6CM1Y2Zk3LkqysmhnA5ij9"
+    },
+    {
+      "album": {
         "name": "Coochie Island (feat. BabyFace Ray)",
         "url": "https://open.spotify.com/album/7hmpedYwsCE4zTAmNHEj8U"
       },
@@ -765,7 +861,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 214662,
       "name": "Coochie Island (feat. BabyFace Ray)",
       "url": "https://open.spotify.com/track/3aOLLV3XSpIJK5NqJkYwX5"
@@ -783,7 +879,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 173782,
       "name": "Crash Out",
       "url": "https://open.spotify.com/track/5jVMF4xmwfdwWZNUhHdX27"
@@ -907,7 +1003,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 140068,
       "name": "Dope Fein Friday",
       "url": "https://open.spotify.com/track/1pJxOKrXG97RSEwpOt9Lrt"
@@ -955,6 +1051,24 @@
       "duration_ms": 205758,
       "name": "Elon Musk (feat. Gunna)",
       "url": "https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/1rcfyqKvelfVshHW9FF0Sa"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176039,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6uICPMloDR1xq3EEbxKXOn"
     },
     {
       "album": {
@@ -1123,6 +1237,28 @@
       "duration_ms": 197455,
       "name": "Forever Been Steppin'",
       "url": "https://open.spotify.com/track/6D38sSnlEtRmH7H7yhvI47"
+    },
+    {
+      "album": {
+        "name": "Time Will Tell",
+        "url": "https://open.spotify.com/album/4Zrsu6hm5rkp0WFBdJbTCr"
+      },
+      "artists": [
+        {
+          "name": "TOB Duke",
+          "url": "https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157198,
+      "name": "Forgive Me (feat. NoCap)",
+      "url": "https://open.spotify.com/track/1bKBEDDJ61aHiMkR9HLBTR"
     },
     {
       "album": {
@@ -1333,7 +1469,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 127268,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/2nJrAVup6kKHbuiZcdTK08"
@@ -1738,6 +1874,28 @@
     },
     {
       "album": {
+        "name": "Keep Dissing 2 (with Lil Durk)",
+        "url": "https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174131,
+      "name": "Keep Dissing 2 (with Lil Durk)",
+      "url": "https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh"
+    },
+    {
+      "album": {
         "name": "Know the Difference (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4Y0J4NwCJRiu8jSz98aQKz"
       },
@@ -2036,6 +2194,28 @@
     },
     {
       "album": {
+        "name": "Mind Yo Business (Feat. Latto)",
+        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122266,
+      "name": "Mind Yo Business (Feat. Latto)",
+      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
+    },
+    {
+      "album": {
         "name": "Misfit",
         "url": "https://open.spotify.com/album/5DxK2C3rMlXURlUyf8PvTq"
       },
@@ -2109,6 +2289,28 @@
       "duration_ms": 219971,
       "name": "My Thoughts 3 / Pop's Prayer",
       "url": "https://open.spotify.com/track/2jmvTtAdFIZcPxpX4dxuF9"
+    },
+    {
+      "album": {
+        "name": "Need U",
+        "url": "https://open.spotify.com/album/0U6vgQuv20Vfhov0MZHsgB"
+      },
+      "artists": [
+        {
+          "name": "KB Mike",
+          "url": "https://open.spotify.com/artist/6dGMlf9UbIdCyLvUiAS4yY"
+        },
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204255,
+      "name": "Need U (with Scorey)",
+      "url": "https://open.spotify.com/track/3bl8n8PNsAj1CkGDeWZvqd"
     },
     {
       "album": {
@@ -2303,6 +2505,28 @@
       "duration_ms": 114264,
       "name": "Opps Block",
       "url": "https://open.spotify.com/track/7yDzPmFZ356mCmahvNZXHD"
+    },
+    {
+      "album": {
+        "name": "Outta Nowhere (with Shoebox Baby)",
+        "url": "https://open.spotify.com/album/0YNe9m96bAPIgjG1edWYMS"
+      },
+      "artists": [
+        {
+          "name": "BigKayBeezy",
+          "url": "https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50"
+        },
+        {
+          "name": "Shoebox Baby",
+          "url": "https://open.spotify.com/artist/3GXyMzBhozW9CaHPg54y9f"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177430,
+      "name": "Outta Nowhere (with Shoebox Baby)",
+      "url": "https://open.spotify.com/track/1syOiaKgtLTLEJ9WrITZ2S"
     },
     {
       "album": {
@@ -2613,7 +2837,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 151144,
       "name": "Shake That A$$ Baby",
       "url": "https://open.spotify.com/track/19FFPF7lBVOomxN59L7UUK"
@@ -2653,7 +2877,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 113502,
       "name": "Showstopper",
       "url": "https://open.spotify.com/track/2jgvCXn0M81JnYRM5CkKju"
@@ -2827,7 +3051,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 180868,
       "name": "Southside",
       "url": "https://open.spotify.com/track/4BUMcEpRWknEDimircdT7G"
@@ -2893,7 +3117,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 225546,
       "name": "Still (feat. 6LACK and Smino)",
       "url": "https://open.spotify.com/track/0L2G8Khc96e6yLcLyLklzS"
@@ -2923,7 +3147,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 217325,
       "name": "Stomp (feat. G Herbo)",
       "url": "https://open.spotify.com/track/2EE0PQ2Lb8MX3cIPtkr4GC"
@@ -3097,7 +3321,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 128078,
       "name": "The Biggest Dookie",
       "url": "https://open.spotify.com/track/4EbVMIPdmOl7q14twrYF5H"
@@ -3352,6 +3576,24 @@
     },
     {
       "album": {
+        "name": "War Cries",
+        "url": "https://open.spotify.com/album/30slXEZQTucfmq8bWQaWk6"
+      },
+      "artists": [
+        {
+          "name": "Fastmoney Ant",
+          "url": "https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149461,
+      "name": "War Cries",
+      "url": "https://open.spotify.com/track/5K04xQn30QaNp4WyT8DDic"
+    },
+    {
+      "album": {
         "name": "What A Life",
         "url": "https://open.spotify.com/album/32OzT7FCnSUIqGZLTxJCzF"
       },
@@ -3433,7 +3675,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 134400,
       "name": "Who Not Turnt",
       "url": "https://open.spotify.com/track/6bf6EucSDjeVSez8eTm49M"

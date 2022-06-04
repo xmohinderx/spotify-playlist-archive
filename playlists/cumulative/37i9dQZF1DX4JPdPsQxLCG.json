@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-02",
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
   "name": "Canadian Weekend",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "53dtueIOJq1n4EVVrLjqp4"
+  ],
   "tracks": [
     {
       "album": {
@@ -161,7 +163,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 309973,
       "name": "Bad Timing - 2012 Remaster",
       "url": "https://open.spotify.com/track/1DXCKvUwlBAZJf9TuQweQb"
@@ -179,7 +181,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 248293,
       "name": "Basement Apt.",
       "url": "https://open.spotify.com/track/4l2ZwGfd6ugIZViw7dtV8K"
@@ -197,7 +199,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 277906,
       "name": "Big League",
       "url": "https://open.spotify.com/track/3lrFKF0vj5dK5EEtMVSDBZ"
@@ -215,7 +217,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 134800,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
@@ -276,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Bud The Spud",
+        "url": "https://open.spotify.com/album/3vWHdiM0ymGxZpNWSBYUWU"
+      },
+      "artists": [
+        {
+          "name": "Stompin' Tom Connors",
+          "url": "https://open.spotify.com/artist/1rOI6HUtD1IR5lbXSbpwQH"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147093,
+      "name": "Bud The Spud",
+      "url": "https://open.spotify.com/track/78pWxcnSexMjZ1n3sHW9lX"
+    },
+    {
+      "album": {
         "name": "A Farewell To Kings",
         "url": "https://open.spotify.com/album/6pMUUpDYKdHkEs0RpHl1Sl"
       },
@@ -305,7 +325,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 231200,
       "name": "Closer Together",
       "url": "https://open.spotify.com/track/3xsZZhP8Q1JZ4btwadfurT"
@@ -417,7 +437,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 319800,
       "name": "Cuts Like A Knife",
       "url": "https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR"
@@ -435,7 +455,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 337600,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/4cg24ri2Qov4CiPccp7Szn"
@@ -453,7 +473,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 323440,
       "name": "Diggin' A Hole",
       "url": "https://open.spotify.com/track/6c4RIQcixWsXmhHtfMWPRY"
@@ -489,7 +509,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 266093,
       "name": "Don't Tell Me How to Live",
       "url": "https://open.spotify.com/track/3vvNbg3Z5fQYk4FKkDK6V7"
@@ -525,7 +545,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 266400,
       "name": "Eat My Brain",
       "url": "https://open.spotify.com/track/2oUASWffEKd5cfoqTpQK86"
@@ -543,7 +563,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 244666,
       "name": "Enough Is Enough",
       "url": "https://open.spotify.com/track/2N6UO8dx5jlTJSZqHXowFy"
@@ -561,7 +581,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 193325,
       "name": "Everything Is Alright",
       "url": "https://open.spotify.com/track/2FkDBXDnG3obndc10AF8x0"
@@ -579,7 +599,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 298040,
       "name": "Eyes Of A Stranger",
       "url": "https://open.spotify.com/track/7D241eUcI43whoQZxLIY2I"
@@ -597,7 +617,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 190133,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6"
@@ -615,7 +635,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 193600,
       "name": "Fine State Of Affairs",
       "url": "https://open.spotify.com/track/53SaQ3h6q5LuBbkUmhc1by"
@@ -687,7 +707,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 159760,
       "name": "Hard To Laugh",
       "url": "https://open.spotify.com/track/5U5KjKI1zudxGTv7WVODO6"
@@ -709,6 +729,24 @@
       "duration_ms": 313920,
       "name": "Hasn't Hit Me Yet - 2012 Remaster",
       "url": "https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz"
+    },
+    {
+      "album": {
+        "name": "Beautiful Midnight",
+        "url": "https://open.spotify.com/album/5ISNKUHRn9zX5vM7Z6Khka"
+      },
+      "artists": [
+        {
+          "name": "Matthew Good Band",
+          "url": "https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238266,
+      "name": "Hello Time Bomb",
+      "url": "https://open.spotify.com/track/60VbLbx7B1ST4zYJBatjne"
     },
     {
       "album": {
@@ -741,7 +779,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 365866,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0d2j2cgwLjzhYsnm4TMxEE"
@@ -759,7 +797,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 265133,
       "name": "I Am A Wild Party - Live",
       "url": "https://open.spotify.com/track/7wXgWUpMhPyUEBR8heuwxb"
@@ -795,7 +833,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 191266,
       "name": "I Hear You Calling",
       "url": "https://open.spotify.com/track/1MQEUAGuWlnZGrpXmCqJDU"
@@ -813,7 +851,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 210364,
       "name": "I Love Myself Today",
       "url": "https://open.spotify.com/track/7APZDX9M4xdlM6CCwfVrvs"
@@ -867,7 +905,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 228840,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
@@ -903,10 +941,28 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 255893,
       "name": "Insensitive",
       "url": "https://open.spotify.com/track/0yx00RNuvZY5Vn8nlpUnMk"
+    },
+    {
+      "album": {
+        "name": "The Collection (Standard Edition)",
+        "url": "https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228573,
+      "name": "Ironic",
+      "url": "https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx"
     },
     {
       "album": {
@@ -975,7 +1031,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 246026,
       "name": "Lay It on the Line",
       "url": "https://open.spotify.com/track/4QwcuKjGjtl5fZe7kDdULV"
@@ -1011,7 +1067,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 271960,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/3iXaV9yTFnAnZAoVbY8AuT"
@@ -1033,6 +1089,24 @@
       "duration_ms": 266080,
       "name": "Life Is A Highway",
       "url": "https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh"
+    },
+    {
+      "album": {
+        "name": "Beautiful Midnight",
+        "url": "https://open.spotify.com/album/5ISNKUHRn9zX5vM7Z6Khka"
+      },
+      "artists": [
+        {
+          "name": "Matthew Good Band",
+          "url": "https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220573,
+      "name": "Load Me Up",
+      "url": "https://open.spotify.com/track/63PN42ugudZf4DDhXeWQ2M"
     },
     {
       "album": {
@@ -1155,7 +1229,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 233916,
       "name": "Money City Maniacs",
       "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"
@@ -1191,7 +1265,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 228066,
       "name": "My Old Self",
       "url": "https://open.spotify.com/track/0doqW4qT48jk1KfKbJA3Xh"
@@ -1263,7 +1337,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 351133,
       "name": "Night To Remember",
       "url": "https://open.spotify.com/track/0BJgFxiNchIhnvPCY3h2bv"
@@ -1353,7 +1427,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 267000,
       "name": "O Siem",
       "url": "https://open.spotify.com/track/7JGI5J2oETERIyYdSbIoUt"
@@ -1371,7 +1445,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 207666,
       "name": "Ocean Pearl",
       "url": "https://open.spotify.com/track/6mJsaJ0U6abpPVPPAcAF2r"
@@ -1479,7 +1553,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 171466,
       "name": "Push + Pull",
       "url": "https://open.spotify.com/track/2mtydMx5aKuBk22E9a8cUQ"
@@ -1504,6 +1578,42 @@
     },
     {
       "album": {
+        "name": "Rock Me Gently",
+        "url": "https://open.spotify.com/album/4MoQtWZUqWosLsDWddjBgQ"
+      },
+      "artists": [
+        {
+          "name": "Andy Kim",
+          "url": "https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238320,
+      "name": "Rock Me Gently",
+      "url": "https://open.spotify.com/track/5ge31VkFC1tpyehS4XQnNd"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3uOOKcr91I3Br0Rtmu4zdT"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281853,
+      "name": "Rockin' in the Free World",
+      "url": "https://open.spotify.com/track/4Y7fEQ4PAzhlLnLviRw2P4"
+    },
+    {
+      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -1515,7 +1625,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 233270,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
@@ -1533,7 +1643,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 235600,
       "name": "Share the Land",
       "url": "https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z"
@@ -1587,7 +1697,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 248960,
       "name": "She-La",
       "url": "https://open.spotify.com/track/3DiLy3nFyiVLoh7weZ6EhR"
@@ -1630,6 +1740,24 @@
     },
     {
       "album": {
+        "name": "Mad Mad World",
+        "url": "https://open.spotify.com/album/5PMU9v49i3qHuJEb9RVSmU"
+      },
+      "artists": [
+        {
+          "name": "Tom Cochrane",
+          "url": "https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346533,
+      "name": "Sinking Like A Sunset",
+      "url": "https://open.spotify.com/track/25uc621mjv2Qh02hwYxUvM"
+    },
+    {
+      "album": {
         "name": "Bring Me Your Love (Special Edition)",
         "url": "https://open.spotify.com/album/0zS5ngmIaTbvNL1PnM0D9f"
       },
@@ -1648,6 +1776,24 @@
     },
     {
       "album": {
+        "name": "Smile And Wave",
+        "url": "https://open.spotify.com/album/3Om67mhzyElGs4kUfwmM13"
+      },
+      "artists": [
+        {
+          "name": "Headstones",
+          "url": "https://open.spotify.com/artist/3yfNNHn865Z5J05WhWLa00"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247733,
+      "name": "Smile & Wave",
+      "url": "https://open.spotify.com/track/7MSyM30ogofEgnXT4Bv6nv"
+    },
+    {
+      "album": {
         "name": "Dig",
         "url": "https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy"
       },
@@ -1659,7 +1805,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 424733,
       "name": "So Gently We Go",
       "url": "https://open.spotify.com/track/4JVVfuSEJLPzmLiWlw8oo5"
@@ -1706,6 +1852,24 @@
     },
     {
       "album": {
+        "name": "Naveed",
+        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244040,
+      "name": "Starseed",
+      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
+    },
+    {
+      "album": {
         "name": "You Can't Stop The Bum Rush",
         "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
       },
@@ -1735,7 +1899,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 143240,
       "name": "Sudbury Saturday Night",
       "url": "https://open.spotify.com/track/4u0dd6dDgbmsrq19dNFC60"
@@ -1753,7 +1917,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
@@ -1771,7 +1935,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 240400,
       "name": "Sun in an Empty Room",
       "url": "https://open.spotify.com/track/4r1AS456lSXXXv6aVpDT4e"
@@ -1793,6 +1957,24 @@
       "duration_ms": 213400,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k"
+    },
+    {
+      "album": {
+        "name": "Clumsy",
+        "url": "https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255400,
+      "name": "Superman's Dead",
+      "url": "https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY"
     },
     {
       "album": {
@@ -1825,7 +2007,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 266895,
       "name": "Take It On Faith",
       "url": "https://open.spotify.com/track/4ZimkIYHB032BXtoZWXVD6"
@@ -1987,7 +2169,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 337933,
       "name": "Turn Me Loose",
       "url": "https://open.spotify.com/track/2Z81PDDYNMTxZKiU2XIuFx"
@@ -2041,7 +2223,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 327733,
       "name": "Used To Be Alright",
       "url": "https://open.spotify.com/track/28OXBKOTUbO90C5Pb8rs3U"
@@ -2095,7 +2277,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 220093,
       "name": "What I Wouldn't Do",
       "url": "https://open.spotify.com/track/5khBbADRwG8TD1z3GiW6vs"
@@ -2225,6 +2407,24 @@
       "duration_ms": 234866,
       "name": "You Ain't Seen Nothing Yet",
       "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
+    },
+    {
+      "album": {
+        "name": "You Can't Always Be 21",
+        "url": "https://open.spotify.com/album/6UEYZwFNpzLMkHwCTBpEye"
+      },
+      "artists": [
+        {
+          "name": "Don Amero",
+          "url": "https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211710,
+      "name": "You Can't Always Be 21",
+      "url": "https://open.spotify.com/track/4hbyUELvhridy2Fyj9Kpj0"
     },
     {
       "album": {

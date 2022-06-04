@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,921 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,303 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 54 | [Star Child](https://open.spotify.com/track/7snaljgkXTmXVjDH1IbaR4) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [The Gaze](https://open.spotify.com/album/7Cd4KJlQfeCEATCK92SswJ) | 2:39 |
 | 55 | [rollin'](https://open.spotify.com/track/07K14kPnyJW9Gxj1F4Wzbn) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [rollin'](https://open.spotify.com/album/39CklsCqIBVvnsy7KU9wos) | 3:21 |
 | 56 | [Airride](https://open.spotify.com/track/0EacIYze2OP47UWmOBAmVB) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Airride](https://open.spotify.com/album/7MTn4tE9aED70gybfxYMBg) | 3:48 |
-| 57 | [Ritual](https://open.spotify.com/track/5pMQGKuEEmSg7VwFsELYAa) | [古川麦](https://open.spotify.com/artist/4jZvacIN7fBsLsQJd6A6s7) | [Ritual](https://open.spotify.com/album/1RU7uZlku0Sc2PjiwL4atQ) | 4:39 |
+| 57 | [Ritual](https://open.spotify.com/track/5pMQGKuEEmSg7VwFsELYAa) | [Baku Furukawa](https://open.spotify.com/artist/2em1oRhLgRPKX9yBh9HjR9) | [Ritual](https://open.spotify.com/album/1RU7uZlku0Sc2PjiwL4atQ) | 4:39 |
 | 58 | [Dreamland](https://open.spotify.com/track/3ORCCabyenbxmsV0QacO8M) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [Dreamland](https://open.spotify.com/album/4vNdN9jMsAr8VIyLh8OYde) | 3:10 |
 | 59 | [君のFlavor feat\. 磯野くん \(YONA YONA WEEKENDERS\)](https://open.spotify.com/track/02efWP5LqFY0FvzxoZ14VJ) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [磯野くん](https://open.spotify.com/artist/48UwOs44kquyWN7FoUZCTG) | [君のFlavor feat\. 磯野くん \(YONA YONA WEEKENDERS\)](https://open.spotify.com/album/69oBKwavCpQBOGiuHDYzZY) | 3:26 |
 | 60 | [Cooking](https://open.spotify.com/track/2FwuFgWAR33gH8P2TlYFT6) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [artless](https://open.spotify.com/album/5Hz2EK3klZBI9sjh1j65Jx) | 4:10 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 65 | [bag on you](https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [bag on you](https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg) | 2:24 |
 | 66 | [Haze \(feat\. ZIN\)](https://open.spotify.com/track/0kAvxscFHuKuri23Y0mmXF) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Haze \(feat\. ZIN\)](https://open.spotify.com/album/7ECgPOTif7XpNIgKlK7kVf) | 4:05 |
 | 67 | [帰り路 \- MONJOE Remix](https://open.spotify.com/track/2dwK6HnOEGCVbVOjCQtQGG) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [帰り路 \(MONJOE Remix\)](https://open.spotify.com/album/4WlZLxlIrggvFJxZYDby6a) | 3:25 |
-| 68 | [Trash into the Sea \- re\-arranged by JunIzawa](https://open.spotify.com/track/6hou4tFkkHdzWqVpYyKL1z) | [JunIzawa](https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I), [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [Trash into The Sea \(re\-arranged by JunIzawa\)](https://open.spotify.com/album/0jYL5BHGkwG5nss3ajyTO9) | 4:20 |
+| 68 | [Trash into the Sea \- re\-arranged by JunIzawa](https://open.spotify.com/track/6hou4tFkkHdzWqVpYyKL1z) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX), [JunIzawa](https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I) | [Trash into The Sea \(re\-arranged by JunIzawa\)](https://open.spotify.com/album/0jYL5BHGkwG5nss3ajyTO9) | 4:20 |
 | 69 | [Your Next](https://open.spotify.com/track/7aj8CY9wmj9RFDjQKeWvJL) | [EMMA WAHLIN](https://open.spotify.com/artist/5vLM0jSwj4TMVhnWuocoaD) | [Your Next](https://open.spotify.com/album/3O5ElEKrcZgpCqPrNZXUl2) | 3:38 |
 | 70 | [Higher](https://open.spotify.com/track/5fvVRGba4CPOHRMnBRMqBQ) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [Higher](https://open.spotify.com/album/33puTLfeTdH7qtYckm305L) | 3:54 |
 

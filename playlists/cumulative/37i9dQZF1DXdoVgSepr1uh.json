@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Argentina en la casa! Foto: El Osito Wito \ud83d\ude97",
+  "description": "Argentina en la casa! Foto: MYA.",
   "name": "Reggaet\u00f3n Argentino",
   "published_playlist_ids": [
     "6tDUGVVPmoQw2RkVQfmtJk"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 203687,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0mnp9pNxEm4PF7cNOzSyhI"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 161060,
       "name": "Ella Dice",
       "url": "https://open.spotify.com/track/5UKBbglwH7gZEkzfuWGn5J"
@@ -1307,7 +1307,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 196239,
       "name": "No Soy Yo",
       "url": "https://open.spotify.com/track/67OKX8DNYygddabwIjExsp"
@@ -1333,6 +1333,28 @@
       "duration_ms": 196363,
       "name": "Normal",
       "url": "https://open.spotify.com/track/2KrbWZZfh0mK7XEwv1FBpx"
+    },
+    {
+      "album": {
+        "name": "Nos Comemos (feat. Ozuna)",
+        "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191086,
+      "name": "Nos Comemos (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
     },
     {
       "album": {
@@ -1373,6 +1395,24 @@
       "duration_ms": 164000,
       "name": "Numero 1",
       "url": "https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3"
+    },
+    {
+      "album": {
+        "name": "OJAL\u00c1",
+        "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160482,
+      "name": "OJAL\u00c1",
+      "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
     },
     {
       "album": {
@@ -1853,6 +1893,24 @@
       "duration_ms": 149929,
       "name": "Suelta, Sola y Tranquila (feat. MYA)",
       "url": "https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi"
+    },
+    {
+      "album": {
+        "name": "TAZA TAZA",
+        "url": "https://open.spotify.com/album/6W3BGeXevLnWTBXndzF8IS"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158522,
+      "name": "TAZA TAZA",
+      "url": "https://open.spotify.com/track/6IJYQVYMKo0BX3unxcszSn"
     },
     {
       "album": {

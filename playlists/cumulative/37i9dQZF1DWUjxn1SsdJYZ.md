@@ -4,7 +4,7 @@
 
 > The best Hip Hop coming out of Australia\. Cover: Sydney Yungins, Jaecy
 
-153 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+154 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [U Want More Sir?](https://open.spotify.com/track/236EkzpQgRh15KqngqKarG) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [U Want More Sir?](https://open.spotify.com/album/0wMJWCTt9NbJlSYhgFISDw) | 2:09 | 2022-05-05 | 2022-06-03 |
 | [Very Good Very Nice](https://open.spotify.com/track/59VgQMi1QU0HjIX29BsCa9) | [lil golo](https://open.spotify.com/artist/6afabx0UIdhKSFeUbVKfhJ), [Cult Shφtta](https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P), [Stee Ferrer](https://open.spotify.com/artist/7o3RhMH0YSp1pP8t3dY2X8), [Tanboymiguel](https://open.spotify.com/artist/2jH4mrsnpTYtggAeVH9Vwc), [Vinsins](https://open.spotify.com/artist/2KKeJajlN1qX34ckCUNnmw) | [Very Good Very Nice](https://open.spotify.com/album/6a4f1rJOPr53EI3RC69Uw3) | 2:24 | 2022-05-12 |  |
 | [Visions](https://open.spotify.com/track/1SwqVZLAsK0iIQUy00Vz4z) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 3:18 | 2022-03-21 | 2022-03-25 |
+| [Volume](https://open.spotify.com/track/3VS0zLSoa2ucmYCeIsA7kj) | [Kiddo](https://open.spotify.com/artist/0t3f4RCQfQLLa3WNANQYj4), [Johnny Narcotics](https://open.spotify.com/artist/6GBTukZn3btgHr1hq7ZGuP) | [Volume](https://open.spotify.com/album/06UM7wBFSKeTmns7c7UUCV) | 2:46 | 2022-06-03 |  |
 | [Wasted](https://open.spotify.com/track/0KwwVrNjGqXzHswSeJsrx7) | [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR) | [Wasted](https://open.spotify.com/album/6zhiAQmpFZwE9FxSCMJLGO) | 2:27 | 2022-03-31 |  |
 | [We Ain't The Same](https://open.spotify.com/track/239x84VQ0LsmOHTxkaGb33) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Nter](https://open.spotify.com/artist/4DIp9TFBq2eh9sQbD5YT9I) | [We Ain't The Same](https://open.spotify.com/album/2A8uUoN1jbn0ATMSo035GD) | 3:15 | 2022-03-21 |  |
 | [We Them Boyz \(feat\. Jaecy\)](https://open.spotify.com/track/05jey8nJnyBzV6FBtn4MIq) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [We Them Boyz \(feat\. Jaecy\)](https://open.spotify.com/album/0qn4k950Hux9jAGQGrkRX7) | 2:47 | 2022-03-21 | 2022-03-25 |

@@ -806,6 +806,36 @@
     },
     {
       "album": {
+        "name": "Manh\u00e3 De Carnaval",
+        "url": "https://open.spotify.com/album/1jUp60E71hj9TfKDzmA9ZA"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+        },
+        {
+          "name": "R\u00e9mi Oswald",
+          "url": "https://open.spotify.com/artist/6KUtGQ6FEjH493OF67v40v"
+        },
+        {
+          "name": "\u00c9douard Pennes",
+          "url": "https://open.spotify.com/artist/0sy0hPMUdzFlHYbGkgwxr2"
+        },
+        {
+          "name": "French Connection",
+          "url": "https://open.spotify.com/artist/6KeMArvyYyLT7d8FYg5uze"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223293,
+      "name": "Manh\u00e3 de Carnaval",
+      "url": "https://open.spotify.com/track/6QM1knKdwTPjiqOR9TfwnQ"
+    },
+    {
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/0vN2kv5uBDKL6BYkjQ4GUn"
       },

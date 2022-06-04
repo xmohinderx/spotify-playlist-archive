@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Morocco.",
-  "num_followers": 130261,
+  "num_followers": 130374,
   "original_name": "Morocco Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE5NDA2NywwMDAwMDIxNzAwMDAwMTgxMjVhNjU3MGEwMDAwMDE3MGE0ZjQyMDMw",
+  "snapshot_id": "MTY1NDI4MTkyOSwwMDAwMDIxODAwMDAwMTgxMmFlMzAzYTUwMDAwMDE3MGE0ZjQyMDMw",
   "tracks": [
     {
       "added_at": "2022-06-02 18:21:07",
@@ -343,6 +343,26 @@
       "duration_ms": 204081,
       "name": "MAAK",
       "url": "https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3"
+    },
+    {
+      "added_at": "2022-06-03 18:45:29",
+      "album": {
+        "name": "Ghorba",
+        "url": "https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc"
+      },
+      "artists": [
+        {
+          "name": "Flomine",
+          "url": "https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs"
+        },
+        {
+          "name": "Mr Casablanca",
+          "url": "https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY"
+        }
+      ],
+      "duration_ms": 244363,
+      "name": "Ghorba",
+      "url": "https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw"
     },
     {
       "added_at": "2022-06-02 18:21:07",

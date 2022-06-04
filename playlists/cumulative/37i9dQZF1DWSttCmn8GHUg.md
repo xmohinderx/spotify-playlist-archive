@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-109 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/2OfGSsRQrmUhNpqr9RXiRv)
+110 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/2OfGSsRQrmUhNpqr9RXiRv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/59xdsxc0QGW6TDA3ZuQ9tS) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [half of my hometown](https://open.spotify.com/album/1wvacL4ghUHvi6PODfvbGN) | 3:51 | 2021-11-12 |  |
 | [Have You Forgotten?](https://open.spotify.com/track/5JWuz7zukN8z9JLNm29U5K) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Have You Forgotten?](https://open.spotify.com/album/0prhHOpBsrLRtf1fvv5dEg) | 4:02 | 2021-11-12 |  |
 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [JoDee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:29 | 2021-11-12 |  |
+| [Heart Of A Small Town](https://open.spotify.com/track/60pLGEx3J9wCqgFA3vrw5y) | [Tim Dugger](https://open.spotify.com/artist/4H5rgUb0jilQ5sVsLFK4bj) | [Heart Of A Small Town](https://open.spotify.com/album/4KVtANgNjZNcudrOea5YM5) | 3:17 | 2022-06-03 |  |
 | [Heartland \- Pure Country/Soundtrack Version](https://open.spotify.com/track/0U4R6UqrJo43TmImPku9H8) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Pure Country](https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX) | 2:18 | 2021-11-12 |  |
 | [Heroes](https://open.spotify.com/track/2ZqAZ0AcpHoy8VDhknlmdA) | [CreatiVets](https://open.spotify.com/artist/5IvR5LShfLCBvBMt2KPaBc), [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Heroes](https://open.spotify.com/album/5VqDoau8rREO2OPaJUOrMc) | 3:13 | 2021-11-12 | 2022-04-04 |
 | [Home](https://open.spotify.com/track/6q5nAr2JniAHj1gKheejE0) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Home](https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv) | 3:58 | 2021-11-12 |  |

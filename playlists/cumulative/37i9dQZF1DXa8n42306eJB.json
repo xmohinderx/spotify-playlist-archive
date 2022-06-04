@@ -128,6 +128,24 @@
     },
     {
       "album": {
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1"
+      },
+      "artists": [
+        {
+          "name": "Kolohe Kai",
+          "url": "https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204333,
+      "name": "Circus Slave",
+      "url": "https://open.spotify.com/track/3nGPtleu2jIeCG0mxv2pRT"
+    },
+    {
+      "album": {
         "name": "Paua",
         "url": "https://open.spotify.com/album/4M6mGR7ZhUu6y7zTgjTWs2"
       },

@@ -2,9 +2,9 @@
 
 ### [Volando con Reggae](https://open.spotify.com/playlist/37i9dQZF1DX4Ux6OGNoFON)
 
-> Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Luz Pinos
+> Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Dread Mar I
 
-60 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/3JQCn0U5J7gjZIqJmCR5xX)
+61 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/3JQCn0U5J7gjZIqJmCR5xX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Sube El Humo](https://open.spotify.com/track/7u6a1GgYKhHAmJzkgf3Z9O) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M.O.T.a.](https://open.spotify.com/album/7LF63ySuhryyEIs69iNnDv) | 4:41 | 2022-05-13 |  |
 | [Things You Can't Control](https://open.spotify.com/track/7Ll4gdgKSLGayN7BGhyuSh) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Trevor Young](https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ) | [Things You Can’t Control](https://open.spotify.com/album/1kykxJG3NLwarnxrt7hb2K) | 4:04 | 2022-05-13 |  |
 | [Three Little Birds](https://open.spotify.com/track/6A9mKXlFRPMPem6ygQSt7z) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:00 | 2022-05-13 |  |
+| [Tierra de Jaguares](https://open.spotify.com/track/3MRTSZkWkTG4SJi7QNXPmF) | [Delasierra](https://open.spotify.com/artist/5fe8FJ3C3lkMkSKiOZkopk), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Tierra de Jaguares](https://open.spotify.com/album/1f3bD7mMnjIXgNcKbCk9KF) | 3:47 | 2022-06-03 |  |
 | [Todo Lo Que Se Fue](https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Todo Lo Que Se Fue](https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r) | 3:21 | 2022-05-13 |  |
 | [Tranquiliboy](https://open.spotify.com/track/3IyiIBDEQmWP9Y17ueWWMB) | [La Merfi](https://open.spotify.com/artist/5TXJa9XiARe5SWqn8m5J9R) | [Tranquiliboy](https://open.spotify.com/album/6rHuYjxs5Oyu8Dqs0Jtbr7) | 2:46 | 2022-05-13 |  |
 | [Verde, Amarillo Y Rojo](https://open.spotify.com/track/4Q0y0SOAJ84PvR2Uu6tGXv) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:06 | 2022-05-13 |  |

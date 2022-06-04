@@ -4,7 +4,7 @@
 
 > Soft piano music to accompany your reading.
 
-149 songs - 6 hr 31 min - not published yet
+149 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/4Uv2pvKPGCfzL9ALUABEi4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

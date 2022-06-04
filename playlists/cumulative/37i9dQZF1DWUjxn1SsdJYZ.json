@@ -2986,6 +2986,28 @@
     },
     {
       "album": {
+        "name": "Volume",
+        "url": "https://open.spotify.com/album/06UM7wBFSKeTmns7c7UUCV"
+      },
+      "artists": [
+        {
+          "name": "Kiddo",
+          "url": "https://open.spotify.com/artist/0t3f4RCQfQLLa3WNANQYj4"
+        },
+        {
+          "name": "Johnny Narcotics",
+          "url": "https://open.spotify.com/artist/6GBTukZn3btgHr1hq7ZGuP"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166382,
+      "name": "Volume",
+      "url": "https://open.spotify.com/track/3VS0zLSoa2ucmYCeIsA7kj"
+    },
+    {
+      "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/6zhiAQmpFZwE9FxSCMJLGO"
       },

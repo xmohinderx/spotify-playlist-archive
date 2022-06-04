@@ -2530,6 +2530,24 @@
     },
     {
       "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185427,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o"
+    },
+    {
+      "album": {
         "name": "Secret",
         "url": "https://open.spotify.com/album/40cTaPb1jF6KiiykwR0fEO"
       },
@@ -2675,6 +2693,24 @@
       "duration_ms": 203727,
       "name": "Something Good To Miss",
       "url": "https://open.spotify.com/track/7sFn9QneuaujkjFOiumatu"
+    },
+    {
+      "album": {
+        "name": "Something I Would Do",
+        "url": "https://open.spotify.com/album/0oZMOm5cukJFzRzE03XUyM"
+      },
+      "artists": [
+        {
+          "name": "MaRynn Taylor",
+          "url": "https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196053,
+      "name": "Sounds Like Something",
+      "url": "https://open.spotify.com/track/2VCIP4lMIUjZLYvEzWUbvu"
     },
     {
       "album": {

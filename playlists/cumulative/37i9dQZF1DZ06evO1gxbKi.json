@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 204959,
       "name": "Beams Of Heaven",
       "url": "https://open.spotify.com/track/4NuXIH3TvC2RehKx5SoxYT"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 164311,
       "name": "Cain't No Grave Hold My Body Down",
       "url": "https://open.spotify.com/track/2O89VddEOv4BywX9bad9Vm"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 110270,
       "name": "Can't Sit Down - Live",
       "url": "https://open.spotify.com/track/2gghVdo9UnrCAf07hE8l4f"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 171333,
       "name": "Down by the Riverside",
       "url": "https://open.spotify.com/track/2tk6nL1NqqRkjNtOLzwlnl"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 144040,
       "name": "God Don't Like It",
       "url": "https://open.spotify.com/track/5jz86OQYMMXfo8XNZGogT4"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 114681,
       "name": "He's Got the Whole World in His Hands - Live",
       "url": "https://open.spotify.com/track/1Vh3YDo7zs0dloAYuBpsfK"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 174492,
       "name": "How Far From God",
       "url": "https://open.spotify.com/track/3cN5ydsv1f5UVWIognMcRj"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 178560,
       "name": "I Can Hear The Angels",
       "url": "https://open.spotify.com/track/7pqbyssPmrES38X02wTRVz"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 173427,
       "name": "I Want A Tall Skinny Papa",
       "url": "https://open.spotify.com/track/52crr5e6WUxJhtktaeTMjy"
@@ -500,6 +500,24 @@
     },
     {
       "album": {
+        "name": "Sister Rosetta Tharpe Vol. 2 1942-1944",
+        "url": "https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160993,
+      "name": "I Want Jesus To Walk Around My Bedside",
+      "url": "https://open.spotify.com/track/6KIr1UWjOocEljbQTAVlny"
+    },
+    {
+      "album": {
         "name": "Trouble in Mind",
         "url": "https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG"
       },
@@ -511,7 +529,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 155360,
       "name": "I Want to Live So God Can Use Me",
       "url": "https://open.spotify.com/track/51i9LuYV4z2jjEzTKolDty"
@@ -547,10 +565,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 122946,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/5m7sUVVbJoPYcWysXT4NcS"
+    },
+    {
+      "album": {
+        "name": "The Authorized Sister Rosetta Tharpe Collection",
+        "url": "https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167400,
+      "name": "Jesus Is Everywhere",
+      "url": "https://open.spotify.com/track/1kWjNTXRYHJFQq1d2HdJHR"
     },
     {
       "album": {
@@ -601,7 +637,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 150760,
       "name": "Lay Down Your Soul",
       "url": "https://open.spotify.com/track/0LyW55gCzG9NTIdWr5dr3X"
@@ -735,7 +771,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 154459,
       "name": "Nothing Between",
       "url": "https://open.spotify.com/track/39mpH34jjRge3WmL7WWOzv"
@@ -753,7 +789,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 332706,
       "name": "Peace in the Valley",
       "url": "https://open.spotify.com/track/4IkBfxdaaAULEsdaJcXUMw"
@@ -825,7 +861,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 160731,
       "name": "Rock Daniel (VD129)",
       "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
@@ -959,7 +995,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 185973,
       "name": "Sleep on Darling Mother",
       "url": "https://open.spotify.com/track/5zwea1dgarGWUuCxOZfDvc"
@@ -1021,7 +1057,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 214273,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq"
@@ -1057,7 +1093,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 167367,
       "name": "Strange Things Happening Every Day",
       "url": "https://open.spotify.com/track/0uUBfmp0ulkpf6EJzsZJZl"
@@ -1075,7 +1111,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 132413,
       "name": "That's All",
       "url": "https://open.spotify.com/track/4fWjzZen5kGxuRUqjJCYR5"
@@ -1187,7 +1223,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 282813,
       "name": "This Train",
       "url": "https://open.spotify.com/track/4FgwdqCbpfv2AX17vbF8KN"

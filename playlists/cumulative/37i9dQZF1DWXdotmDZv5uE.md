@@ -4,7 +4,7 @@
 
 > ¡Lleva el folclore de México a donde sea!
 
-100 songs - 5 hr 54 min - not published yet
+100 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/4WoULPjWWXufLJvGEhZhCb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

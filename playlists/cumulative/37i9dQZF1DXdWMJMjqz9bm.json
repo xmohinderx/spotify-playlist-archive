@@ -392,6 +392,24 @@
     },
     {
       "album": {
+        "name": "age tape 5",
+        "url": "https://open.spotify.com/album/3FmZtgNMtXeaDlPOlgwB84"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121690,
+      "name": "bedroom floor",
+      "url": "https://open.spotify.com/track/2Xbvn1LoF0FpsW66SWieyZ"
+    },
+    {
+      "album": {
         "name": "best friends",
         "url": "https://open.spotify.com/album/2moiRsCEdQveKnCLL3EtYG"
       },
@@ -458,6 +476,24 @@
     },
     {
       "album": {
+        "name": "Bleed It",
+        "url": "https://open.spotify.com/album/4jbjMs0rSuwQl7Jk5JFyYb"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151423,
+      "name": "Bleed It",
+      "url": "https://open.spotify.com/track/1D2gtAC32GhkOlGvGJ7hxk"
+    },
+    {
+      "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/29FYm9EmlZJ77BNOOq43pi"
       },
@@ -505,7 +541,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 142980,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/07ubAt43hun1eLEacA47Ew"
@@ -846,6 +882,24 @@
     },
     {
       "album": {
+        "name": "clean my mess up",
+        "url": "https://open.spotify.com/album/0XYR8nrUZRXVJ3ccsrnjPw"
+      },
+      "artists": [
+        {
+          "name": "Astrus*",
+          "url": "https://open.spotify.com/artist/1CyAtnOmpHpo7OcTqkLMnR"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169286,
+      "name": "clean my mess up",
+      "url": "https://open.spotify.com/track/6LqQZF2TkWVMYFq7JovaNO"
+    },
+    {
+      "album": {
         "name": "Clich\u00e9",
         "url": "https://open.spotify.com/album/70stJrgmEDWyj2nzzbzLpR"
       },
@@ -949,7 +1003,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 129473,
       "name": "Coming Off (w/ Brevin Kim)",
       "url": "https://open.spotify.com/track/5VVwf9cFRB54BwuRTTUzk5"
@@ -1840,6 +1894,28 @@
     },
     {
       "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/0fGaL3TZgjzCsBZRl9Abxr"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        },
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103235,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/4sFzAOD1uiP2Ww5XA1OHJf"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -1873,10 +1949,32 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 211306,
       "name": "Getcho Mans",
       "url": "https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj"
+    },
+    {
+      "album": {
+        "name": "gfy (with Machine Gun Kelly)",
+        "url": "https://open.spotify.com/album/43tasPwPisjAgGgde0yy7F"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172821,
+      "name": "gfy (with Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/3MTm8eZ2wCEtpyZqqhP6Dn"
     },
     {
       "album": {
@@ -2324,6 +2422,32 @@
     },
     {
       "album": {
+        "name": "I Just Called",
+        "url": "https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150560,
+      "name": "I Just Called",
+      "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"
+    },
+    {
+      "album": {
         "name": "I Love My Homies",
         "url": "https://open.spotify.com/album/61jOjOHe0hjphb3K1KuQXi"
       },
@@ -2551,7 +2675,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 172186,
       "name": "Keys",
       "url": "https://open.spotify.com/track/1kCI0UC3E0gwtOVdgyukFD"
@@ -2613,6 +2737,28 @@
       "duration_ms": 88163,
       "name": "la di da - acoustic",
       "url": "https://open.spotify.com/track/5bNjrg9hIcDqb2OLttzxlN"
+    },
+    {
+      "album": {
+        "name": "Latency",
+        "url": "https://open.spotify.com/album/4cOomZu7ZP0IZdcuSy15sh"
+      },
+      "artists": [
+        {
+          "name": "KNOWN.",
+          "url": "https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot"
+        },
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172075,
+      "name": "Latency",
+      "url": "https://open.spotify.com/track/24bcu7IGNipuid5nU7oqgU"
     },
     {
       "album": {
@@ -2823,7 +2969,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 172337,
       "name": "lovers only singalong",
       "url": "https://open.spotify.com/track/59YDPNC3aWgN4shZQ07R4n"
@@ -2863,7 +3009,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 224000,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/6GvMQIbZJLv7DczrwXTv43"
@@ -3367,7 +3513,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 170666,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/4OY3LbPQOaKeYsrDXw7zFD"
@@ -3421,7 +3567,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 129882,
       "name": "ORANGE SODA",
       "url": "https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD"
@@ -3635,7 +3781,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 117080,
       "name": "Pretty Faces",
       "url": "https://open.spotify.com/track/426AYnTtUOmX7Km14Ghvsd"
@@ -3755,6 +3901,24 @@
       "duration_ms": 143529,
       "name": "Real Life Sux",
       "url": "https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6"
+    },
+    {
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/05ce3g0KL8Q9zWFBHBvhx0"
+      },
+      "artists": [
+        {
+          "name": "Blake and Miles",
+          "url": "https://open.spotify.com/artist/1vq0ZWY33ZutMpMbQSxAEv"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158210,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/7Kq8I68J8fJkQEEZwfrK18"
     },
     {
       "album": {
@@ -3983,6 +4147,24 @@
       "duration_ms": 174000,
       "name": "Runnin' the Road",
       "url": "https://open.spotify.com/track/1vK0W3jWBR44lEh2dDWvSF"
+    },
+    {
+      "album": {
+        "name": "Seen It All",
+        "url": "https://open.spotify.com/album/3AoGIwd7pMu3mio3YiVjhQ"
+      },
+      "artists": [
+        {
+          "name": "Bazanji",
+          "url": "https://open.spotify.com/artist/3L8FZaw2Rg1oUw3vB4gUME"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162162,
+      "name": "Seen It All",
+      "url": "https://open.spotify.com/track/6hB0cABPuWsH26D7nsVvCr"
     },
     {
       "album": {
@@ -4412,6 +4594,24 @@
     },
     {
       "album": {
+        "name": "sun keeps on shining",
+        "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167200,
+      "name": "sun keeps on shining",
+      "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
+    },
+    {
+      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/6WKLcyxc89SFBuHWNPVky4"
       },
@@ -4449,6 +4649,28 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt"
+    },
+    {
+      "album": {
+        "name": "Sunroof",
+        "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
     },
     {
       "album": {
@@ -4543,7 +4765,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 154823,
       "name": "Talkin Like",
       "url": "https://open.spotify.com/track/6atDGm94dfeC7qwmL3TFoq"
@@ -4825,7 +5047,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 195173,
       "name": "Tom Holland",
       "url": "https://open.spotify.com/track/1Ovf6VdhqNnM9eOd1ZJQgd"
@@ -4843,7 +5065,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 134857,
       "name": "toxic crush",
       "url": "https://open.spotify.com/track/4jx3OhzeLknPoF52To841h"
@@ -4996,6 +5218,28 @@
     },
     {
       "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243158,
+      "name": "Wasting Angels (with The Kid LAROI)",
+      "url": "https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ"
+    },
+    {
+      "album": {
         "name": "way back 2 you",
         "url": "https://open.spotify.com/album/0ZKlsBdvVS0vGbLZF8DBZ9"
       },
@@ -5123,6 +5367,24 @@
       "duration_ms": 110344,
       "name": "YESSIR!",
       "url": "https://open.spotify.com/track/2exdDhuNjyxtmJIKkbSWbo"
+    },
+    {
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/2AMsS7LgT4DAgMfRTTo7r0"
+      },
+      "artists": [
+        {
+          "name": "J-Wright",
+          "url": "https://open.spotify.com/artist/4ZwarqrZFCfYgb3F4KS6gr"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178076,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/0rXaoCJbmIUdMIKQwinA0k"
     },
     {
       "album": {

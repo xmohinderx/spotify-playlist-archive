@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
   "name": "This Is Pancho Barraza",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3m1eVXIEKnqdyvtXd0P2zf"
+  ],
   "tracks": [
     {
       "album": {
@@ -87,7 +89,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 220533,
       "name": "Con El Alma En La Mano",
       "url": "https://open.spotify.com/track/1f9qcAI1Kv4FS6Nk6MkpQb"
@@ -308,6 +310,24 @@
     },
     {
       "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241359,
+      "name": "Inventame Un Amor",
+      "url": "https://open.spotify.com/track/6Nd55mIC9CFul1mVagPtFa"
+    },
+    {
+      "album": {
         "name": "La Fuerza Del Amor",
         "url": "https://open.spotify.com/album/2B4Ry5xyWtrJeIj8JiqCmo"
       },
@@ -377,7 +397,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 218360,
       "name": "Me Haces Falta Pap\u00e1",
       "url": "https://open.spotify.com/track/4pnJfqCFduVTCKveD7VCCq"
@@ -619,7 +639,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 251994,
       "name": "No Llores Mis Recuerdos",
       "url": "https://open.spotify.com/track/0rUYYUjhjxQDE2Zc6tDK5A"
@@ -681,6 +701,24 @@
       "duration_ms": 157175,
       "name": "Nunca Cambies",
       "url": "https://open.spotify.com/track/2GV9Q5prIUhhIfnlQG0VzL"
+    },
+    {
+      "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218012,
+      "name": "Pasion de Amor",
+      "url": "https://open.spotify.com/track/7p5sJ5TGAip4705FHdm6KB"
     },
     {
       "album": {
@@ -1015,7 +1053,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 218493,
       "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
       "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"

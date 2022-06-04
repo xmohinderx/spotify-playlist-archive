@@ -4,7 +4,7 @@
 
 > Soothing water sounds from lakes and rivers
 
-93 songs - 4 hr 25 min - not published yet
+93 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/6IxMgm3Cmj6134xqBls034)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

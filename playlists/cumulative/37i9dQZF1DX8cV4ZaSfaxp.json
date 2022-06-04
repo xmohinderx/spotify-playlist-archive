@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 235293,
       "name": "A song from the past",
       "url": "https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 294700,
       "name": "A train to chuncheon (Monthly Project 2019 May Yoon Jong Shin with TAEYEON)",
       "url": "https://open.spotify.com/track/5GWpomGXGJC4JIVaDN1467"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 262658,
       "name": "After this night",
       "url": "https://open.spotify.com/track/243eZR6OEAl0AKFAOWH6lK"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 252208,
       "name": "Afterlife (Feat. OOHYO) - Voradory Ver.",
       "url": "https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 92546,
       "name": "All flights are delayed",
       "url": "https://open.spotify.com/track/65Rgsz3Q3kfumqAJaVqJca"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 210042,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 203270,
       "name": "Awake But Dreaming (Feat. KIMMUSEUM)",
       "url": "https://open.spotify.com/track/0fWD1NsspeuahId2EktTBG"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 197249,
       "name": "Behind",
       "url": "https://open.spotify.com/track/02KHlieWDNBk11vnq3Re9p"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 213150,
       "name": "Black H\u25cfle",
       "url": "https://open.spotify.com/track/3HCcSPUq31qt1R48GiLEri"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 243040,
       "name": "Button",
       "url": "https://open.spotify.com/track/0eUXChSlgsNLiJRa0LMyVJ"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 222185,
       "name": "City Girl City Boy",
       "url": "https://open.spotify.com/track/6mWRDboiaEyDHFehyjEAPX"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 199200,
       "name": "City Light",
       "url": "https://open.spotify.com/track/4pVqvBttw55NmUSqishQXH"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 200500,
       "name": "Dilemma - Remastered",
       "url": "https://open.spotify.com/track/1N6UrLYVbLsGKv1xuqbgYk"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 221875,
       "name": "Dive",
       "url": "https://open.spotify.com/track/71YHNeT3TMUnV1165mgRbO"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 206497,
       "name": "Dolls",
       "url": "https://open.spotify.com/track/1XxT5GxDa5GD8hnhTK2AD6"
@@ -1182,6 +1182,24 @@
     },
     {
       "album": {
+        "name": "Find me",
+        "url": "https://open.spotify.com/album/39TnHfqboN2tNkKpXG0oTp"
+      },
+      "artists": [
+        {
+          "name": "Soppy",
+          "url": "https://open.spotify.com/artist/6hH5LLQUCxSckZ5EEmcVJm"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200719,
+      "name": "Find me",
+      "url": "https://open.spotify.com/track/7xRrS3FHDkUiDvhFXceyhZ"
+    },
+    {
+      "album": {
         "name": "Beautiful Night - The 4th Mini Album",
         "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
       },
@@ -1193,7 +1211,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 214560,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 228240,
       "name": "Gwangalli \uad11\uc548\ub9ac",
       "url": "https://open.spotify.com/track/5vakmnmH8tXgOidOG0WGdS"
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 233540,
       "name": "HANGANG Remix",
       "url": "https://open.spotify.com/track/0hUuSsc5Ej4yVbxd7khYFY"
@@ -1787,7 +1805,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 235409,
       "name": "Line",
       "url": "https://open.spotify.com/track/0HCc9B56Z2Ocn7iiEdlG9Q"
@@ -1859,7 +1877,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 291013,
       "name": "Lonesome",
       "url": "https://open.spotify.com/track/0QSVJ6VrjlEY7iw6jOEnBv"
@@ -1985,7 +2003,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 187653,
       "name": "Loveholic",
       "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
@@ -2065,7 +2083,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 168939,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/04ZbJ3nKanJwvsrZQNVEWL"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 275507,
       "name": "Melody",
       "url": "https://open.spotify.com/track/4DBNbpEVlj4BbL2gN6GXWW"
@@ -2123,7 +2141,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 283493,
       "name": "Memories of Summer",
       "url": "https://open.spotify.com/track/0g0xDwm7qx1zqV0KDQCjr4"
@@ -2323,7 +2341,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 251146,
       "name": "My Type",
       "url": "https://open.spotify.com/track/3uG44uhCBsJEsw73HIR9BP"
@@ -2359,7 +2377,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 216106,
       "name": "Myspace",
       "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
@@ -2457,7 +2475,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 234375,
       "name": "Night in Seoul \uc11c\uc6b8\uc758 \ubc24",
       "url": "https://open.spotify.com/track/7B60bTjpCvzBrtjk6K9pgU"
@@ -2475,7 +2493,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 202946,
       "name": "Number 1",
       "url": "https://open.spotify.com/track/2GGzUBEJE1dN2PHrf7neS7"
@@ -2617,7 +2635,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 206616,
       "name": "pporappippam \ubcf4\ub77c\ube5b \ubc24",
       "url": "https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU"
@@ -2635,7 +2653,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 201409,
       "name": "Rain 51db",
       "url": "https://open.spotify.com/track/5n7igdr3vMrBA8tUTEqDyd"
@@ -2743,7 +2761,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 222500,
       "name": "Seaside \uae4a\uc740 \ubc24 \uae4a\uc740 \ubc14\ub2e4",
       "url": "https://open.spotify.com/track/4n7cF3CwbFpW4m3HwS9kEO"
@@ -2761,7 +2779,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 202218,
       "name": "SEOUL CITY POP",
       "url": "https://open.spotify.com/track/3CtGzaZ6XGzDDRQi3QbaoC"
@@ -2783,7 +2801,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 220693,
       "name": "Seven Breeze (Feat. Ldy)",
       "url": "https://open.spotify.com/track/6WHEV4TkWE2XlMC0ZoByoi"
@@ -2895,7 +2913,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 231294,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
@@ -2953,7 +2971,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 208813,
       "name": "summer blossom",
       "url": "https://open.spotify.com/track/3ORowtJPiXrdd42trQVnAH"
@@ -3041,7 +3059,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 248986,
       "name": "Sweet Girl",
       "url": "https://open.spotify.com/track/5s8LRqSsm28ScVuaTCvvpX"
@@ -3295,7 +3313,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 253255,
       "name": "Upgrader",
       "url": "https://open.spotify.com/track/2kB1R4QcWMQFeElVzOHvTO"
@@ -3371,7 +3389,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 220526,
       "name": "Where Are You?",
       "url": "https://open.spotify.com/track/5zgsqAVaBehgQWJ7LUXXI5"
@@ -3519,7 +3537,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 187703,
       "name": "You and Me Together",
       "url": "https://open.spotify.com/track/7lME1HAj79J8TwdryIV7DF"
@@ -3537,7 +3555,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 214847,
       "name": "You Got",
       "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
@@ -3595,7 +3613,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 200011,
       "name": "\ubb34\uc131\uc601\ud654 Silent Movie",
       "url": "https://open.spotify.com/track/1Uw4C5ytMpTT5CNXTtULdI"
@@ -3649,7 +3667,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 233306,
       "name": "\uc0ac\ub791\uc774 \ub5a0\ub098\ub824 \ud560 \ub54c Faded Love",
       "url": "https://open.spotify.com/track/6c1PYAfNfZ6rWUwFNciOMw"
@@ -3685,7 +3703,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 196092,
       "name": "\uc219\ub140 (\u6dd1\u5973) Lady",
       "url": "https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB"
@@ -3703,7 +3721,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 200863,
       "name": "\uc2dc\uadf8\ub110 (Signal)",
       "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
@@ -3765,7 +3783,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 217500,
       "name": "\uc624\ub298 \ub108\uc758 \ub450 \uc190\uc744 \uc7a1\uace0",
       "url": "https://open.spotify.com/track/5gOyLqY1Y9qQ768QSwMPI0"

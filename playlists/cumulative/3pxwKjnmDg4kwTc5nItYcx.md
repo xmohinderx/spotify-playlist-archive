@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Budjerah
 
-575 songs - 1 day 7 hr 1 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+577 songs - 1 day 7 hr 8 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Beauty Marks](https://open.spotify.com/track/2cWC0R1ShnLaJEYRMAD8dj) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 3:36 | 2019-08-27\* | 2019-11-11 |
 | [Bed on Fire](https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bed on Fire](https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg) | 3:48 | 2021-04-24 |  |
 | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/track/1U6aNzlYxoCGGm7K6Nu9EE) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Like You Do](https://open.spotify.com/album/2jxyIfyUY0yhPANWWrwnca) | 3:23 | 2021-04-24 |  |
+| [Before](https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Before](https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY) | 3:54 | 2022-06-03 |  |
 | [Before It Started](https://open.spotify.com/track/5gWSR9TZ6txeyTzENxOq0O) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [Before It Started](https://open.spotify.com/album/2S05xv4jp1GyRdeCvcze8r) | 2:51 | 2022-05-06 |  |
 | [Best Friend](https://open.spotify.com/track/61KP2LeOc3xFonfrEezl13) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [2Sides \(Side 1\)](https://open.spotify.com/album/1RaqQTAjpuj7N5GEIA87OC) | 2:58 | 2019-11-08 | 2020-04-06 |
 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 | 2019-08-27\* | 2019-11-11 |
@@ -194,6 +195,7 @@
 | [Good Things](https://open.spotify.com/track/2XabyO1YcTW7BZ8wfKLB1X) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Good Things \(R3HAB Remix\)](https://open.spotify.com/album/38flhAaxVeSTNa4l0fKCZd) | 3:01 | 2020-09-04 |  |
 | [Good Time](https://open.spotify.com/track/01LFSOTwPRskznMGJxtSA6) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ) | [Good Time](https://open.spotify.com/album/1xNccVAe2xBZmwq8GKPDRy) | 3:27 | 2019-08-27\* | 2020-02-12 |
 | [Good To Goodbye \(feat\. Clara Mae\)](https://open.spotify.com/track/04YCVAIGdCqquDHPnRkqC4) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Good To Goodbye \(feat\. Clara Mae\)](https://open.spotify.com/album/08FgBLa30uwYhrLM88BjIu) | 3:04 | 2021-01-08 |  |
+| [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/track/5760o7vIytByWNmmf115wj) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO) | 2:59 | 2022-06-03 |  |
 | [Green Lights](https://open.spotify.com/track/6uMKj7sKjHkq6XorfAe3f1) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There EP](https://open.spotify.com/album/1ujdCeZ7tE7MP3xnQX3ZuP) | 3:49 | 2021-05-08 |  |
 | [Grey](https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [The Good Times and The Bad Ones](https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2) | 4:37 | 2021-01-18 |  |
 | [Grind \(feat\. Yoshi Flower\)](https://open.spotify.com/track/1EOfAIDwTq1CXHllp45V44) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM), [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [Powerslide](https://open.spotify.com/album/2ge7NcJyzQGzHDtLHJ8MV3) | 2:43 | 2020-03-13 | 2021-05-12 |

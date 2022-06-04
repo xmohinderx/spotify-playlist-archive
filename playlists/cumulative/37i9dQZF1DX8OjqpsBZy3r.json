@@ -776,6 +776,24 @@
     },
     {
       "album": {
+        "name": "Keith",
+        "url": "https://open.spotify.com/album/5vhfSn7rFEfy8jxuoI1PGE"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171537,
+      "name": "Keith",
+      "url": "https://open.spotify.com/track/5xl3kGoK3namYGZX46Vt0S"
+    },
+    {
+      "album": {
         "name": "Tailgates & Tanlines",
         "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
       },

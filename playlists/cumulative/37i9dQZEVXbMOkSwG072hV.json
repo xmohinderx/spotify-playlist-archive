@@ -1256,6 +1256,24 @@
     },
     {
       "album": {
+        "name": "The Warmth Of The Sun",
+        "url": "https://open.spotify.com/album/2dZC8JN4oGdw4BrRzmvS4m"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204373,
+      "name": "California Dreamin' - 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/4MHzXgBy7hexDe2Bto11hP"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -1434,6 +1452,24 @@
     },
     {
       "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310160,
+      "name": "Cloudbusting",
+      "url": "https://open.spotify.com/track/5atQ2haKP5LT65WM0KUts3"
+    },
+    {
+      "album": {
         "name": "Codinome",
         "url": "https://open.spotify.com/album/55pQ5LfBEgTcIti8XvfdwM"
       },
@@ -1525,6 +1561,24 @@
     {
       "album": {
         "name": "Olha os Vaqueiros Chegando Ai - Ao Vivo",
+        "url": "https://open.spotify.com/album/3oYPsAOCWLnW39FuQi2fqD"
+      },
+      "artists": [
+        {
+          "name": "Iguinho & Lulinha",
+          "url": "https://open.spotify.com/artist/5Z7NId4MlN7w3ZXjzS7YTg"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138241,
+      "name": "Cora\u00e7\u00e3o Acelera",
+      "url": "https://open.spotify.com/track/7BeUHuLpYbJP6Q6OmfcplA"
+    },
+    {
+      "album": {
+        "name": "Olha os Vaqueiros Chegando Ai - Ao Vivo",
         "url": "https://open.spotify.com/album/6JOuQSMpGL40OHx0uYhvC8"
       },
       "artists": [
@@ -1535,7 +1589,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 138241,
       "name": "Cora\u00e7\u00e3o Acelera - Ao Vivo",
       "url": "https://open.spotify.com/track/3w4CHxKLiVw9H4ICobQEQK"
@@ -3423,7 +3477,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 136640,
       "name": "J\u00e1 Peguei, Quero Pegar",
       "url": "https://open.spotify.com/track/6DRNWF5mQ9CiN6P5pOZe4V"
@@ -4369,7 +4423,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 208007,
       "name": "Meu N\u00famero - Ao Vivo",
       "url": "https://open.spotify.com/track/3XF598RmEUF3XW4XKo1lyP"
@@ -6923,7 +6977,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 170880,
       "name": "Tchuco Nela",
       "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND"
@@ -7423,6 +7477,24 @@
       "duration_ms": 168048,
       "name": "TREM MAIS CARO",
       "url": "https://open.spotify.com/track/6qu6s6uwdVdGewHpi6Cdo7"
+    },
+    {
+      "album": {
+        "name": "Tropa do Lobo Mal",
+        "url": "https://open.spotify.com/album/0xHTxQ0MoUrPXPebE5ngs3"
+      },
+      "artists": [
+        {
+          "name": "MC RYAN DA PEN",
+          "url": "https://open.spotify.com/artist/4UICVSnDEfVRMJtsbZTWd6"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129933,
+      "name": "Tropa do Lobo Mal",
+      "url": "https://open.spotify.com/track/6r6fMLTwGySsJSvGovYR0L"
     },
     {
       "album": {

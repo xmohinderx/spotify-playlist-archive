@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128401,
+  "num_followers": 128412,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQzOSwyNmJlNzg3NWY1NWJkYjE1YjFlMzQ0ZDQ5MmI3NjA5ZDY1N2VkNDZm",
+  "snapshot_id": "MzQ0OCw4NGE3NzBlNmZhMzkxM2MxZWU2YTRjMGQ3YzQyNTMyMDlmOWU4YTA1",
   "tracks": [
+    {
+      "added_at": "2022-06-03 16:17:10",
+      "album": {
+        "name": "Your Heart",
+        "url": "https://open.spotify.com/album/543ni1eZzOpFEMWjYifIJ9"
+      },
+      "artists": [
+        {
+          "name": "Maliboux",
+          "url": "https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7"
+        }
+      ],
+      "duration_ms": 155625,
+      "name": "Your Heart",
+      "url": "https://open.spotify.com/track/6KbV2Dp0Bb4ZbRp2Wa2jxN"
+    },
+    {
+      "added_at": "2022-06-03 16:19:20",
+      "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/29OJjQm5SnnJqguRFVVvwi"
+      },
+      "artists": [
+        {
+          "name": "Melchi",
+          "url": "https://open.spotify.com/artist/7LG5EbBmbQORP6SG9BDzSA"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/1bI70ChgVQeRFWPlcf8Mjz"
+    },
     {
       "added_at": "2022-06-02 16:15:19",
       "album": {
@@ -1075,26 +1107,6 @@
       "duration_ms": 205714,
       "name": "All In",
       "url": "https://open.spotify.com/track/32hXXUEV1w8DaGnklg1NrP"
-    },
-    {
-      "added_at": "2022-03-23 16:09:40",
-      "album": {
-        "name": "wonder years pt. 1",
-        "url": "https://open.spotify.com/album/4TAy3EjqjNvl5LtVWAH4gM"
-      },
-      "artists": [
-        {
-          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
-          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
-        },
-        {
-          "name": "Mr. Hilroy",
-          "url": "https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "begin again",
-      "url": "https://open.spotify.com/track/2HzjHQ9QEZnYl3sDbWmhQo"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

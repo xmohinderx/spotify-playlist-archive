@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: Stars",
+  "description": "Home to all the latest indie jams. Cover: Purity Ring",
   "name": "Indie All Stars",
   "published_playlist_ids": [
     "4hpfeoyJCUxj1W1YZOVAqm"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 173124,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3OEzp4UBS6xWHsyMHyKD6r"
@@ -265,6 +265,24 @@
       "duration_ms": 222888,
       "name": "All Fucking Weekend",
       "url": "https://open.spotify.com/track/6qfwBFEZnmakt7GGXdsYzb"
+    },
+    {
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170386,
+      "name": "Alpha Zulu",
+      "url": "https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F"
     },
     {
       "album": {
@@ -521,7 +539,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 185626,
       "name": "Behind Your Eyes",
       "url": "https://open.spotify.com/track/1cXSG1J5JlAEzRhnI0PjUT"
@@ -1367,6 +1385,24 @@
       "duration_ms": 183112,
       "name": "Cruel World",
       "url": "https://open.spotify.com/track/4RtLJdGrUDDf6o7EhQtcas"
+    },
+    {
+      "album": {
+        "name": "Cry 2 Sleep",
+        "url": "https://open.spotify.com/album/70puKzZCk0Z61KHhZFEn9H"
+      },
+      "artists": [
+        {
+          "name": "Young Guv",
+          "url": "https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214493,
+      "name": "Cry 2 Sleep",
+      "url": "https://open.spotify.com/track/0ciHB7VOueRYywqeFrovEJ"
     },
     {
       "album": {
@@ -2377,7 +2413,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 221221,
       "name": "Frank",
       "url": "https://open.spotify.com/track/5MX7hLZTQw8VoR5CMJID8x"
@@ -2612,6 +2648,24 @@
     },
     {
       "album": {
+        "name": "GOOD TIMES / PROBLEMZ",
+        "url": "https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181312,
+      "name": "GOOD TIMES",
+      "url": "https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5"
+    },
+    {
+      "album": {
         "name": "Gr8 Timing!",
         "url": "https://open.spotify.com/album/3WVOknczJMFhzYahdBbbAd"
       },
@@ -2649,6 +2703,24 @@
     {
       "album": {
         "name": "graves",
+        "url": "https://open.spotify.com/album/3XwnekVtkLvo7Xh7OHBBjB"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213445,
+      "name": "graves",
+      "url": "https://open.spotify.com/track/3qDFQJ66ZnaUCPrS2SXz1S"
+    },
+    {
+      "album": {
+        "name": "graves",
         "url": "https://open.spotify.com/album/1uIZQWfhNqQpehJZhdPvAk"
       },
       "artists": [
@@ -2659,10 +2731,28 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 213445,
       "name": "graves",
       "url": "https://open.spotify.com/track/640VqmPmQyA4IoyzPxvUyA"
+    },
+    {
+      "album": {
+        "name": "Great Race",
+        "url": "https://open.spotify.com/album/2hISBkwZFVsdBKoPUkVILp"
+      },
+      "artists": [
+        {
+          "name": "Marko",
+          "url": "https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95730,
+      "name": "Great Race",
+      "url": "https://open.spotify.com/track/1UoCw5QpZ0LrAnSD49JQP2"
     },
     {
       "album": {
@@ -3335,6 +3425,24 @@
       "duration_ms": 245760,
       "name": "I Feel Your Pull",
       "url": "https://open.spotify.com/track/4Jappfe1FvwAZaEOSjEtRF"
+    },
+    {
+      "album": {
+        "name": "I GAVE YOU EVERYTHING",
+        "url": "https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158480,
+      "name": "I GAVE YOU EVERYTHING",
+      "url": "https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b"
     },
     {
       "album": {
@@ -4155,7 +4263,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 274026,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/5osZESD7WPwkmbUHFpx1XU"
@@ -5060,6 +5168,24 @@
     },
     {
       "album": {
+        "name": "Nice Try",
+        "url": "https://open.spotify.com/album/7CHVlF6ujKzqyOptogNiOV"
+      },
+      "artists": [
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202384,
+      "name": "Nice Try",
+      "url": "https://open.spotify.com/track/1GpO5QsqiygENVH6BsaBKd"
+    },
+    {
+      "album": {
         "name": "Night Vision",
         "url": "https://open.spotify.com/album/5GLio6tmJhyY7GzrHe8x2w"
       },
@@ -5251,7 +5377,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 181910,
       "name": "Nowhere At All",
       "url": "https://open.spotify.com/track/2dYrKdS5IcrYguv9dFxtH0"
@@ -5471,7 +5597,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 269006,
       "name": "Pass Me By",
       "url": "https://open.spotify.com/track/1LKdyynvVEjSEhbspe0Dxr"
@@ -6481,7 +6607,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 248444,
       "name": "Sinister Bell",
       "url": "https://open.spotify.com/track/0nk1knaCkAkiWkpVVjNoQ6"
@@ -6669,6 +6795,28 @@
       "duration_ms": 179815,
       "name": "Spiracle",
       "url": "https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI"
+    },
+    {
+      "album": {
+        "name": "Spitting Off the Edge of the World",
+        "url": "https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257746,
+      "name": "Spitting Off the Edge of the World",
+      "url": "https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr"
     },
     {
       "album": {
@@ -6972,6 +7120,24 @@
     },
     {
       "album": {
+        "name": "Taking Care",
+        "url": "https://open.spotify.com/album/0BsBKyEWnX2pwTVrMlnMaT"
+      },
+      "artists": [
+        {
+          "name": "Oscar Louis",
+          "url": "https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149188,
+      "name": "Taking Care",
+      "url": "https://open.spotify.com/track/2vMIRRYXaDoGNxoTYymgyr"
+    },
+    {
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV"
       },
@@ -7145,7 +7311,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 218640,
       "name": "the dealer",
       "url": "https://open.spotify.com/track/0wVIuUDDqemXEU30I9XIWn"
@@ -7848,6 +8014,24 @@
     },
     {
       "album": {
+        "name": "Want Want",
+        "url": "https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188520,
+      "name": "Want Want",
+      "url": "https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L"
+    },
+    {
+      "album": {
         "name": "Watercolor Eyes (From \u201cEuphoria\u201d An HBO Original Series)",
         "url": "https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF"
       },
@@ -7913,7 +8097,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 259794,
       "name": "We're in It Together",
       "url": "https://open.spotify.com/track/22z9TbhxpNanefA1dyNk40"

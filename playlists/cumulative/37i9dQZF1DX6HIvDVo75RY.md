@@ -4,7 +4,7 @@
 
 > In Nashville for CMA Music Fest? Come visit Spotify House at Ole Red on Broadway\. We've curated an entire week of live music and artists just for you! If you can't be there, let this be your soundtrack to Music Fest week\. Enjoy!
 
-102 songs - 5 hr 30 min - not published yet
+102 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/5GjLmu8QKhVmTUHDZY1gTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

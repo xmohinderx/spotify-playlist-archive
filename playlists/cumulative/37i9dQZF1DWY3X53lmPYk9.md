@@ -2,7 +2,7 @@
 
 ### [Peaceful Jazz Piano](https://open.spotify.com/playlist/37i9dQZF1DWY3X53lmPYk9)
 
-> Soft piano interpretations of jazz classics.
+> Soft and gentle piano interpretations of jazz classics.
 
 115 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
 

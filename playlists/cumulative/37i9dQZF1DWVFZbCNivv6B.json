@@ -768,6 +768,28 @@
     },
     {
       "album": {
+        "name": "De Por Vida",
+        "url": "https://open.spotify.com/album/7ASBDgsoGpAge4byZaRPzj"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195121,
+      "name": "De Por Vida",
+      "url": "https://open.spotify.com/track/6T9LqHQOWTbkZomzvyUL3h"
+    },
+    {
+      "album": {
         "name": "De Roll",
         "url": "https://open.spotify.com/album/1j7jCLsAyoWIQvhtB7dByg"
       },
@@ -955,7 +977,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 177524,
       "name": "El Hood de los 27",
       "url": "https://open.spotify.com/track/1cXMm24SEr2PzJkq5uairg"
@@ -1179,7 +1201,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 121657,
       "name": "Eyeliner de Katana",
       "url": "https://open.spotify.com/track/1qXBSGhndWVt7RnOWBS78J"
@@ -1956,6 +1978,24 @@
     },
     {
       "album": {
+        "name": "Muero",
+        "url": "https://open.spotify.com/album/0S0AgQdXnkT47Ig8ADDjbF"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/5ZVf2dn3T3EqwolwoIb8xt"
+    },
+    {
+      "album": {
         "name": "M\u00e1quina de escribir",
         "url": "https://open.spotify.com/album/2ZYhsp6pHt41mEZYccc0B5"
       },
@@ -2235,6 +2275,32 @@
       "duration_ms": 226056,
       "name": "Perro Solitario",
       "url": "https://open.spotify.com/track/6bLgUetWwTnFniNOjKCks5"
+    },
+    {
+      "album": {
+        "name": "Ojo de Gato",
+        "url": "https://open.spotify.com/album/73g5DF1QgfFEMrBwZ5c9ET"
+      },
+      "artists": [
+        {
+          "name": "Dee",
+          "url": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
+        },
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Mof",
+          "url": "https://open.spotify.com/artist/492bMXjPCRwZs27PrPpJeL"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274961,
+      "name": "Perros",
+      "url": "https://open.spotify.com/track/35wgcrs0S8H2h2wmMnK7AP"
     },
     {
       "album": {
@@ -2524,6 +2590,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/5PQ6Wuj8cc5FLh9Lk7RZ4o"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200741,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/5RBSfEU71gXJ7jxfqSbYiR"
+    },
+    {
+      "album": {
         "name": "Rafa M\u00e1rquez",
         "url": "https://open.spotify.com/album/6KCQC0hco7Uho3fvGR9kjU"
       },
@@ -2711,7 +2795,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 220300,
       "name": "Se Me Olvid\u00f3",
       "url": "https://open.spotify.com/track/7xLYLM5K6S1TwiSdfuhZQg"

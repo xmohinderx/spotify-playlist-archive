@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
   "name": "This Is Los Cadetes De Linares",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0WK1R7cOtc6ojpQbtQbUnD"
+  ],
   "tracks": [
     {
       "album": {
@@ -111,7 +113,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 209506,
       "name": "Corridos de los Perez",
       "url": "https://open.spotify.com/track/4vzCg8pdKm9b6IzVnUbIIa"
@@ -165,7 +167,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 160200,
       "name": "Desprecio",
       "url": "https://open.spotify.com/track/7uCGYSsVLXWQpfGb26QSfq"
@@ -201,7 +203,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 168746,
       "name": "Donde Estara Mi Caballo",
       "url": "https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch"
@@ -439,7 +441,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 190466,
       "name": "Eleazar del Fierro",
       "url": "https://open.spotify.com/track/1sil71b3xI44UP2wHkmWjV"
@@ -493,7 +495,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 183440,
       "name": "Flor De Capomo",
       "url": "https://open.spotify.com/track/6nZWx1svsdUedHNwsrrkOi"
@@ -511,7 +513,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 166800,
       "name": "Generoso y Carmelita",
       "url": "https://open.spotify.com/track/1xlgtF686KI0a3JfQwPcbl"
@@ -652,6 +654,24 @@
     },
     {
       "album": {
+        "name": "Corridos Divinos",
+        "url": "https://open.spotify.com/album/35GToiXQVKvGORvuPluFKn"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216720,
+      "name": "Laurita Garza",
+      "url": "https://open.spotify.com/track/6T7yJ6ptjuHDQP8cXaiu2R"
+    },
+    {
+      "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
@@ -699,14 +719,6 @@
         {
           "name": "Los Cadetes De Linares",
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        },
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        },
-        {
-          "name": "Luis y Julian",
-          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
         }
       ],
       "date_added": "2022-06-01",
@@ -729,7 +741,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 163746,
       "name": "Mi Amigo",
       "url": "https://open.spotify.com/track/2L1Z29nDdQdU85JVMqUI96"
@@ -751,7 +763,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 197133,
       "name": "Nave 727",
       "url": "https://open.spotify.com/track/7DffTGNIGuDdpNiPy766Es"
@@ -776,6 +788,24 @@
     },
     {
       "album": {
+        "name": "4 Decadas 20 Corridos",
+        "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188933,
+      "name": "Nomas Las Mujeres Quedan",
+      "url": "https://open.spotify.com/track/4bSadmBSBEBuddAwqbHJvW"
+    },
+    {
+      "album": {
         "name": "Pescadores de Ensenada",
         "url": "https://open.spotify.com/album/5yPptrMx2qRG9dweqE7aD1"
       },
@@ -787,7 +817,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 174546,
       "name": "Pescadores de Ensenada",
       "url": "https://open.spotify.com/track/2QLYBaZhH2uCkxTfGgG0u7"
@@ -859,7 +889,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 149480,
       "name": "Que Seas Dichosa",
       "url": "https://open.spotify.com/track/1sy7BYZT2GReFukI4YnYpl"
@@ -935,7 +965,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 145360,
       "name": "Sucedio en el Aguaje",
       "url": "https://open.spotify.com/track/6tyNlDonoU3GnU6fqnjCWD"
@@ -953,7 +983,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 162280,
       "name": "Tengo Un Amor Escondido",
       "url": "https://open.spotify.com/track/0jRHGnHLCS0d0uIEmwvfqN"

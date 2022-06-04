@@ -838,6 +838,24 @@
     },
     {
       "album": {
+        "name": "Heart Of A Small Town",
+        "url": "https://open.spotify.com/album/4KVtANgNjZNcudrOea5YM5"
+      },
+      "artists": [
+        {
+          "name": "Tim Dugger",
+          "url": "https://open.spotify.com/artist/4H5rgUb0jilQ5sVsLFK4bj"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197041,
+      "name": "Heart Of A Small Town",
+      "url": "https://open.spotify.com/track/60pLGEx3J9wCqgFA3vrw5y"
+    },
+    {
+      "album": {
         "name": "Pure Country",
         "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
       },

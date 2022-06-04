@@ -4,7 +4,7 @@
 
 > This is Ariel Camacho y Los Plebes Del Rancho\. The essential tracks, all in one playlist.
 
-35 songs - 2 hr 3 min - not published yet
+35 songs - 2 hr 3 min - [published](https://open.spotify.com/playlist/3Di30CIGdOBo3P7Zx2TUCT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

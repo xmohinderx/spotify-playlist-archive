@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 163703,
       "name": "A Decirme Que",
       "url": "https://open.spotify.com/track/4jPhSHPch4lho5b7q93JcS"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 206346,
       "name": "Boquita de Caramelo",
       "url": "https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 235767,
       "name": "Coraz\u00f3n, Corazoncito",
       "url": "https://open.spotify.com/track/4CpaWEOZCa4RA8ow8B75O2"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 196304,
       "name": "De los Besos Que Te Di",
       "url": "https://open.spotify.com/track/1mnwYmoL5vZeBqPyUwrVCs"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 197474,
       "name": "En Una de Esas",
       "url": "https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ"
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 215067,
       "name": "Es Mi Culpa",
       "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
@@ -1489,7 +1489,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 196120,
       "name": "Fabricando Fantas\u00edas",
       "url": "https://open.spotify.com/track/1R6ug43KqWcVVOnKqKqcRN"
@@ -1619,7 +1619,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 192482,
       "name": "Hawai",
       "url": "https://open.spotify.com/track/3VDUQW8SQ9L6DNjyNsUW71"
@@ -1703,7 +1703,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 146834,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5"
@@ -1887,7 +1887,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 209066,
       "name": "Lloraras mas de diez veces",
       "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
@@ -2199,7 +2199,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 341607,
       "name": "Mientes / Te Fuiste de Aqui / Me Duele Amarte",
       "url": "https://open.spotify.com/track/0OMfOqr4eQOvpJRJoLcrdC"
@@ -2311,7 +2311,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Ninguno De Los Dos",
       "url": "https://open.spotify.com/track/2MT5elnRC2PWo7o0S1VcGF"
@@ -2467,7 +2467,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 158600,
       "name": "No Me Digas Adios",
       "url": "https://open.spotify.com/track/3Q4WdLlnbft9r8RW4dR5Xs"
@@ -2532,6 +2532,24 @@
     },
     {
       "album": {
+        "name": "No Quiero Dinero",
+        "url": "https://open.spotify.com/album/51s2yUCDhWFxIjJU5bcpwv"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182274,
+      "name": "No Quiero Dinero",
+      "url": "https://open.spotify.com/track/7ddkLfySvrxyzExSnPp1Jw"
+    },
+    {
+      "album": {
         "name": "No Te Olvidare",
         "url": "https://open.spotify.com/album/0KJYWPNO23a2BuBUR9lOD9"
       },
@@ -2561,7 +2579,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 250760,
       "name": "Nunca me Faltes",
       "url": "https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW"
@@ -2767,7 +2785,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 251000,
       "name": "Que Bello",
       "url": "https://open.spotify.com/track/7cSaRsCIekpL1auJQU4V4T"
@@ -3023,7 +3041,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 218128,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/6n3Cv9PsZ4d12Pz6IXnvPz"
@@ -3705,7 +3723,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 188966,
       "name": "Vengo de la Casa de Ella",
       "url": "https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: The Franklin Electric",
+  "description": "A laid-back trip in the folk scene. Cover: Mt. Joy",
   "name": "Folk & Friends",
   "published_playlist_ids": [
     "5U0EeaLNxWf1VoBuo6txNc"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 205920,
       "name": "All Dressed Up",
       "url": "https://open.spotify.com/track/16h6xRMuKHYA2cisxfhKSg"
@@ -95,6 +95,24 @@
       "duration_ms": 167732,
       "name": "Answers",
       "url": "https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch"
+    },
+    {
+      "album": {
+        "name": "Bathroom Light",
+        "url": "https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188266,
+      "name": "Bathroom Light",
+      "url": "https://open.spotify.com/track/71glNHT4FultOqlau4zrFf"
     },
     {
       "album": {
@@ -423,7 +441,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 260941,
       "name": "Endless Time",
       "url": "https://open.spotify.com/track/1JS1QZwFXKVCdJPxoUAwrl"
@@ -535,7 +553,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 175200,
       "name": "fetishizing struggle",
       "url": "https://open.spotify.com/track/24cn0KF3x38uSQ9NOMSuPQ"
@@ -578,6 +596,24 @@
     },
     {
       "album": {
+        "name": "That Was You and Me",
+        "url": "https://open.spotify.com/album/02erdeh5796mUBRQLIi6qH"
+      },
+      "artists": [
+        {
+          "name": "Fortunate Ones",
+          "url": "https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Heavy Heart",
+      "url": "https://open.spotify.com/track/0OmapDIHy05UtpIf4eG60E"
+    },
+    {
+      "album": {
         "name": "Heavy Stone",
         "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
       },
@@ -589,7 +625,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 188027,
       "name": "Heavy Stone",
       "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
@@ -1854,6 +1890,24 @@
     },
     {
       "album": {
+        "name": "La cascade",
+        "url": "https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231600,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7nxSKNyLHaGcBgvVJw3Nhk"
+    },
+    {
+      "album": {
         "name": "Westward",
         "url": "https://open.spotify.com/album/262WDpIo6R8eiVSAzD5ztb"
       },
@@ -1999,6 +2053,24 @@
       "duration_ms": 243908,
       "name": "You",
       "url": "https://open.spotify.com/track/1eB1b1MGiCrFWn8JFkL0ZC"
+    },
+    {
+      "album": {
+        "name": "You'll Never Get to Heaven With That Attitude",
+        "url": "https://open.spotify.com/album/57WeEXLDRuasGenvl7ljv8"
+      },
+      "artists": [
+        {
+          "name": "Scott Orr",
+          "url": "https://open.spotify.com/artist/12vInSu21rqLXfH6QKTLl1"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221034,
+      "name": "You'll Never Get To Heaven With That Attitude",
+      "url": "https://open.spotify.com/track/69ayK3fANIcCgiiF05xRsr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi"

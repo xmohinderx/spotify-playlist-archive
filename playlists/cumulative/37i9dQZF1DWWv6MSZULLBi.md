@@ -2,17 +2,18 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: The Franklin Electric
+> A laid\-back trip in the folk scene\. Cover: Mt\. Joy
 
-107 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+111 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 | 2022-05-13 |  |
-| [All Dressed Up](https://open.spotify.com/track/16h6xRMuKHYA2cisxfhKSg) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time](https://open.spotify.com/album/5j3jNzAU44DXD91QpIFF8u) | 3:25 | 2022-05-13 |  |
+| [All Dressed Up](https://open.spotify.com/track/16h6xRMuKHYA2cisxfhKSg) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time](https://open.spotify.com/album/5j3jNzAU44DXD91QpIFF8u) | 3:25 | 2022-05-13 | 2022-06-04 |
 | [All This Time Running](https://open.spotify.com/track/0s7MLG3lt8mzq9SDfsYRcu) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [All This Time Running](https://open.spotify.com/album/6PF9U9H1F7NNTYEd4kRuhc) | 3:05 | 2022-05-13 | 2022-05-20 |
 | [Annie](https://open.spotify.com/track/4cbwJEhIBM7WSn73X63Vgj) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Years](https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx) | 3:07 | 2022-05-13 |  |
 | [Answers](https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Answers](https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a) | 2:47 | 2022-05-13 |  |
+| [Bathroom Light](https://open.spotify.com/track/71glNHT4FultOqlau4zrFf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Bathroom Light](https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu) | 3:08 | 2022-06-03 |  |
 | [Beautifully Black](https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Beautifully Black](https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG) | 3:05 | 2022-05-13 |  |
 | [Begin Again](https://open.spotify.com/track/02TKEQYD6jLEB0cYpBflFE) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Begin Again](https://open.spotify.com/album/5XSgaLPBoAAno2FwKhaIHl) | 3:19 | 2022-05-13 |  |
 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 | 2022-05-13 | 2022-05-28 |
@@ -30,16 +31,17 @@
 | [Don't Fade \- Single Version](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 | 2022-05-13 |  |
 | [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 | 2022-05-13 |  |
 | [EMPATHY 4 BETHANY](https://open.spotify.com/track/6Ly65M250uqDVZfj2Z0LdH) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [EMPATHY 4 BETHANY / GREEN APPLE \(EVERY NIGHT I RIDE NIGHT MARES\)](https://open.spotify.com/album/6sQW60NQvtOAjWhysIEO8q) | 4:54 | 2022-05-27 |  |
-| [Endless Time](https://open.spotify.com/track/1JS1QZwFXKVCdJPxoUAwrl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [How Is It That I Should Look At The Stars](https://open.spotify.com/album/6GgHy26g1ILOtU9hkrHbLb) | 4:20 | 2022-05-13 |  |
+| [Endless Time](https://open.spotify.com/track/1JS1QZwFXKVCdJPxoUAwrl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [How Is It That I Should Look At The Stars](https://open.spotify.com/album/6GgHy26g1ILOtU9hkrHbLb) | 4:20 | 2022-05-13 | 2022-06-04 |
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-05-13 |  |
 | [Fables \- The Garden Version](https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Fables \(The Garden Version\)](https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s) | 2:56 | 2022-05-13 |  |
 | [Fast Car](https://open.spotify.com/track/6oSkiBsy0ruE8uhdBLybNB) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Fast Car](https://open.spotify.com/album/7tCmNKU1tMnDLNCqcfMvTD) | 2:15 | 2022-05-13 |  |
 | [Fatal Line](https://open.spotify.com/track/6JAQKyDivpPVulL0K6J6zo) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:01 | 2022-05-13 |  |
 | [Fault Lines](https://open.spotify.com/track/0IWAEtB2BD50eC874I9rHm) | [Colyn Cameron](https://open.spotify.com/artist/0I9HepF8rMt7q4csPxg47t) | [Fault Lines](https://open.spotify.com/album/7odRJxbB9XE3zHt009Errk) | 3:50 | 2022-05-13 |  |
-| [fetishizing struggle](https://open.spotify.com/track/24cn0KF3x38uSQ9NOMSuPQ) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [fetishizing struggle](https://open.spotify.com/album/4eTyK0eoBFOF86ItFBKCtV) | 2:55 | 2022-05-13 |  |
+| [fetishizing struggle](https://open.spotify.com/track/24cn0KF3x38uSQ9NOMSuPQ) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [fetishizing struggle](https://open.spotify.com/album/4eTyK0eoBFOF86ItFBKCtV) | 2:55 | 2022-05-13 | 2022-06-04 |
 | [flowers in the garden](https://open.spotify.com/track/1HModMENiKhlpB1P16bKMk) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [flowers in the garden](https://open.spotify.com/album/1KQvHodSIwDWG6R2Oevl5L) | 2:54 | 2022-05-13 |  |
 | [Friends Are Miracles](https://open.spotify.com/track/0q2HapDSEvu9paa4xtabf4) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 3:17 | 2022-05-13 |  |
-| [Heavy Stone](https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Heavy Stone](https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb) | 3:08 | 2022-05-13 |  |
+| [Heavy Heart](https://open.spotify.com/track/0OmapDIHy05UtpIf4eG60E) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [That Was You and Me](https://open.spotify.com/album/02erdeh5796mUBRQLIi6qH) | 3:10 | 2022-06-03 |  |
+| [Heavy Stone](https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Heavy Stone](https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb) | 3:08 | 2022-05-13 | 2022-06-04 |
 | [Height of the Feeling](https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [Height of the Feeling](https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW) | 3:59 | 2022-05-13 |  |
 | [Honest Light](https://open.spotify.com/track/4Zldc9Kg9ybat4F2jIxiie) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Caroline Marie Brooks](https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe) | [Honest Light](https://open.spotify.com/album/529ski7usNNFkKb4lQVnZO) | 3:38 | 2022-05-13 |  |
 | [How I See It](https://open.spotify.com/track/4WDsdKXDfKRVvPEq4sGJvj) | [Andrew Allen](https://open.spotify.com/artist/1mAp4DKDRBkEn272c014zU) | [12:34](https://open.spotify.com/album/142mjhHKGwh7LuV6e9ggI2) | 4:36 | 2022-05-13 |  |
@@ -107,6 +109,7 @@
 | [Until You](https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:18 | 2022-05-13 |  |
 | [Valhalla Dancer](https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Valhalla Dancer](https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da) | 3:43 | 2022-05-13 |  |
 | [Violet](https://open.spotify.com/track/5CG8CTkZMnwGhJs1zHITOq) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Violet](https://open.spotify.com/album/2ogDDAPSPKeOpH2OcLEdoN) | 3:04 | 2022-05-13 |  |
+| [Waterfall](https://open.spotify.com/track/7nxSKNyLHaGcBgvVJw3Nhk) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [La cascade](https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo) | 3:51 | 2022-06-03 |  |
 | [Westward](https://open.spotify.com/track/1P0IOG572jMDIXR4K0EGwX) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Westward](https://open.spotify.com/album/262WDpIo6R8eiVSAzD5ztb) | 3:22 | 2022-05-13 |  |
 | [What In The World](https://open.spotify.com/track/2tnP8nZxy6lx3qow73IZ7A) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [What In The World](https://open.spotify.com/album/36t9kuw9Y14nkK8aOceiFY) | 3:42 | 2022-05-13 |  |
 | [When I Fly](https://open.spotify.com/track/3OKoCqjPpCJUYQAlnCS2dV) | [Jadea Kelly](https://open.spotify.com/artist/3ro4f3VnPO6PiAah0POgwD) | [Roses](https://open.spotify.com/album/0t2iOdlsZEn4DmXMkRKBIe) | 3:25 | 2022-05-13 |  |
@@ -115,5 +118,6 @@
 | [With You](https://open.spotify.com/track/56sDeGLrCYgn6ErQt9XWfr) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [With You](https://open.spotify.com/album/75yM5cCqKUclZgoZ6qkNMT) | 3:51 | 2022-05-13 |  |
 | [would you call me up?](https://open.spotify.com/track/5HGQR6WBelocGIuDKTNCxM) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [would you call me up?](https://open.spotify.com/album/6sq8d7ejYstY6hhWByEIXs) | 4:11 | 2022-05-13 |  |
 | [You](https://open.spotify.com/track/1eB1b1MGiCrFWn8JFkL0ZC) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [You](https://open.spotify.com/album/6NSPHXtgNOP1nUiSP5d9NS) | 4:03 | 2022-05-13 |  |
+| [You'll Never Get To Heaven With That Attitude](https://open.spotify.com/track/69ayK3fANIcCgiiF05xRsr) | [Scott Orr](https://open.spotify.com/artist/12vInSu21rqLXfH6QKTLl1) | [You'll Never Get to Heaven With That Attitude](https://open.spotify.com/album/57WeEXLDRuasGenvl7ljv8) | 3:41 | 2022-06-03 |  |
 
 \*This playlist was first scraped on 2022-05-14. Prior content cannot be recovered.

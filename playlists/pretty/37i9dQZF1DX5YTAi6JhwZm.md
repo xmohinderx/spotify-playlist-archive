@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 ### [Happy Jazz!](https://open.spotify.com/playlist/37i9dQZF1DX5YTAi6JhwZm)
 
-> Happy and swinging jazz.
+> Uplifting and happy jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,511 likes - 109 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,566 likes - 109 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 108 | [Jakob’s Happy Song](https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW) | [Simon Westman Trio](https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw) | [Stay a While](https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE) | 5:32 |
 | 109 | [The People In Nassau](https://open.spotify.com/track/1x217IcZCRrvizzbwgPg6H) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Heads Up!](https://open.spotify.com/album/3pWwmaoyEy42Oac3pW3IPC) | 5:39 |
 
-Snapshot ID: `MTY1NDA3MDA4MywwMDAwMDA3NDAwMDAwMTgxMWU0MjdlYjMwMDAwMDE3OGNiNGU4ZDky`
+Snapshot ID: `MTY1NDI2MzU3MSwwMDAwMDA3NTAwMDAwMTgxMjljYWU0YjMwMDAwMDE3OGNiNGU4ZDky`

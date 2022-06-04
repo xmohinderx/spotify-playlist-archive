@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Singer-songwriters who colour outside the lines. Cover: Caamp",
+  "description": "Singer-songwriters who colour outside the lines. Cover: Mariel Buckley",
   "name": "Renegade Folk",
   "published_playlist_ids": [
     "5h0SoEEkn4gAx7xRIlcPhO"
@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Ain't Too Late",
+        "url": "https://open.spotify.com/album/4WfruWmBQU43RZMPPUGVWK"
+      },
+      "artists": [
+        {
+          "name": "Meredith Lazowski",
+          "url": "https://open.spotify.com/artist/2ArYHxQyNMtWFI7YpkQWPP"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215893,
+      "name": "Ain't Too Late",
+      "url": "https://open.spotify.com/track/4fOJHNZoFxck91tsFf16i5"
+    },
+    {
+      "album": {
         "name": "All Of The Women [Feat. Sa-Roc] (dim star remix)",
         "url": "https://open.spotify.com/album/6hX7DmBnsNpvQXc6eQ3AWK"
       },
@@ -81,7 +99,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 279504,
       "name": "All Of The Women [Feat. Sa-Roc] - dim star remix",
       "url": "https://open.spotify.com/track/2YRj7gSXG4lq2jrtuW34i0"
@@ -189,7 +207,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 278591,
       "name": "Bad Omen",
       "url": "https://open.spotify.com/track/3F0e0A7yNrwneqaLHUpY2I"
@@ -406,6 +424,24 @@
     },
     {
       "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/5cGQ4683Wr2nkJeaj1lSzW"
+      },
+      "artists": [
+        {
+          "name": "Vicki Brittle",
+          "url": "https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212878,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/3qNBjyA8TTF9e71oNNUdOK"
+    },
+    {
+      "album": {
         "name": "Crucified",
         "url": "https://open.spotify.com/album/1LJqHpDylPidxHHunS58Se"
       },
@@ -417,7 +453,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 183680,
       "name": "Crucified",
       "url": "https://open.spotify.com/track/6kclw9en3fBEUTjZOjio7c"
@@ -911,7 +947,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 162608,
       "name": "Just A Little While",
       "url": "https://open.spotify.com/track/4o8w2detJfT45mdxIJ6hVb"
@@ -1401,7 +1437,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 299534,
       "name": "Prairie",
       "url": "https://open.spotify.com/track/0LGUqza1L9nPakX9UXi5B4"
@@ -1462,6 +1498,42 @@
     },
     {
       "album": {
+        "name": "Rise from the Wreck",
+        "url": "https://open.spotify.com/album/13v4v7CGKvH6Iap0p2d5SF"
+      },
+      "artists": [
+        {
+          "name": "Mentana",
+          "url": "https://open.spotify.com/artist/7s1t2dwRy92CkE8IrCwC6u"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281853,
+      "name": "Rise from the Wreck",
+      "url": "https://open.spotify.com/track/2KkMtNzP3d0nlz9wgglYmt"
+    },
+    {
+      "album": {
+        "name": "Shooting at the Moon",
+        "url": "https://open.spotify.com/album/1WoVKktys2ml21iQ7nPFum"
+      },
+      "artists": [
+        {
+          "name": "Mariel Buckley",
+          "url": "https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199227,
+      "name": "Shooting at the Moon",
+      "url": "https://open.spotify.com/track/6BiT0rQrxNTbglW7jBPd5D"
+    },
+    {
+      "album": {
         "name": "Shreveport to L.A.",
         "url": "https://open.spotify.com/album/0O6x0qmrGiS0FGYavcaCQH"
       },
@@ -1513,6 +1585,24 @@
       "duration_ms": 203690,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/0DZM7vZBFKRkXnPpq17siT"
+    },
+    {
+      "album": {
+        "name": "Summer Wine",
+        "url": "https://open.spotify.com/album/171i564OD81tTVFvBxUEIh"
+      },
+      "artists": [
+        {
+          "name": "Whitehorse",
+          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281186,
+      "name": "Summer Wine",
+      "url": "https://open.spotify.com/track/35j22HqMiHRVFz6aMSYlAd"
     },
     {
       "album": {

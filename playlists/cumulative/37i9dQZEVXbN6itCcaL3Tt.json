@@ -5799,7 +5799,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 217315,
       "name": "Jest tylko teraz",
       "url": "https://open.spotify.com/track/5dPw2tijsvrIfDKHzXYe2m"
@@ -10248,6 +10248,24 @@
     },
     {
       "album": {
+        "name": "Pieni\u0105dze, Dziewczyny, Zwrotki",
+        "url": "https://open.spotify.com/album/6I15CUN214bjchqrB35lIs"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184477,
+      "name": "Pieni\u0105dze, Dziewczyny, Zwrotki",
+      "url": "https://open.spotify.com/track/4opJMB2zYbRF24WF2tMSLB"
+    },
+    {
+      "album": {
         "name": "Diamentowy Las",
         "url": "https://open.spotify.com/album/6g3muQtUCpAByNLWl4eFRs"
       },
@@ -12113,7 +12131,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 188566,
       "name": "SKUTE BOBO",
       "url": "https://open.spotify.com/track/4dOkS135hpWHeSP0GSmHb4"
@@ -14543,6 +14561,24 @@
       "duration_ms": 245992,
       "name": "ZAEBY\u015aCIE",
       "url": "https://open.spotify.com/track/5X8MHjwopQGyf0ZRM6nPix"
+    },
+    {
+      "album": {
+        "name": "Zapalimy blanta",
+        "url": "https://open.spotify.com/album/0mM7JXAA8vvQ1YMg3362cn"
+      },
+      "artists": [
+        {
+          "name": "Kumi",
+          "url": "https://open.spotify.com/artist/0RprDFOPQg38NEJXqnwxUn"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195350,
+      "name": "Zapalimy blanta",
+      "url": "https://open.spotify.com/track/5Y60b8DmqpvAgB41hW7Nac"
     },
     {
       "album": {

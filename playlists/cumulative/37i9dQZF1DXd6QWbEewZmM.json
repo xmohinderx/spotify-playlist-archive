@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 163126,
       "name": "Amor De Cuentos",
       "url": "https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 173476,
       "name": "Cinderella de Mis Noches",
       "url": "https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 179727,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/6hank0u6D9dlLjVyy9swnT"
@@ -763,7 +763,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 149074,
       "name": "El Humillado",
       "url": "https://open.spotify.com/track/5zLsSLY0cwfX80nf9R0BhA"
@@ -1330,6 +1330,24 @@
     },
     {
       "album": {
+        "name": "Da\u00f1ado",
+        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234613,
+      "name": "J.",
+      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
+    },
+    {
+      "album": {
         "name": "Corta Venas",
         "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
       },
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 202012,
       "name": "La Derrota - En vivo",
       "url": "https://open.spotify.com/track/3boNG45cqjWLaSH684lsyx"
@@ -1678,6 +1696,24 @@
     },
     {
       "album": {
+        "name": "Loco y Enamorado",
+        "url": "https://open.spotify.com/album/6LdEvPHHmTenzOEJqwZsq5"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126771,
+      "name": "Loco y Enamorado",
+      "url": "https://open.spotify.com/track/5iAqV54YrGxX0t7ks3CMqQ"
+    },
+    {
+      "album": {
         "name": "Los Secretos",
         "url": "https://open.spotify.com/album/1nl0d3DqkFynDrU0ia7jJn"
       },
@@ -1707,7 +1743,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 162013,
       "name": "L\u00e1grimas De Cristal",
       "url": "https://open.spotify.com/track/1nv63vipZ2KlVmeuQaA86h"
@@ -1747,7 +1783,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 179066,
       "name": "Marc\u00e1ndote",
       "url": "https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe"
@@ -1805,6 +1841,24 @@
       "duration_ms": 173663,
       "name": "Me Estoy Enamorando - en Vivo",
       "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
+    },
+    {
+      "album": {
+        "name": "me olvidaste",
+        "url": "https://open.spotify.com/album/4qoeo1Oc7rWrHxpUoIhpke"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135069,
+      "name": "me olvidaste",
+      "url": "https://open.spotify.com/track/72nuzO5wkGs5S7qq6dddtH"
     },
     {
       "album": {
@@ -2003,7 +2057,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 164989,
       "name": "Mil Rosas",
       "url": "https://open.spotify.com/track/606i1vgi5zH7BDJ8QA1zdg"
@@ -2129,7 +2183,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "No Me Buscas",
       "url": "https://open.spotify.com/track/7Jgh8una8MqHfVe0qGpYZX"
@@ -2259,7 +2313,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 200156,
       "name": "Ojos Avellana",
       "url": "https://open.spotify.com/track/0zn4NLvBxAxhpfvRwL6WEY"
@@ -2616,6 +2670,24 @@
     },
     {
       "album": {
+        "name": "Que Salga De Ti",
+        "url": "https://open.spotify.com/album/3WiG7Qdw9f0bsFgywnrrrJ"
+      },
+      "artists": [
+        {
+          "name": "Gvano",
+          "url": "https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196146,
+      "name": "Que Salga De Ti",
+      "url": "https://open.spotify.com/track/4GtnM2wxYSeHtoiwKQwTuf"
+    },
+    {
+      "album": {
         "name": "Querido San Valentin",
         "url": "https://open.spotify.com/album/7DXYF70y6fJvXd3HC0qahu"
       },
@@ -2631,6 +2703,24 @@
       "duration_ms": 261910,
       "name": "Querido San Valentin",
       "url": "https://open.spotify.com/track/57HGscNGYhq3wPuanfOsCY"
+    },
+    {
+      "album": {
+        "name": "Quiero Estar Contigo",
+        "url": "https://open.spotify.com/album/0dMiI3roMGiGxCTlopNjmu"
+      },
+      "artists": [
+        {
+          "name": "Ekipo Inicial",
+          "url": "https://open.spotify.com/artist/0zykJcUDLHRS0nZEoG5slZ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271922,
+      "name": "Quiero Estar Contigo",
+      "url": "https://open.spotify.com/track/7aaW2FiJ3bGELNtGp6PUo7"
     },
     {
       "album": {
@@ -2915,7 +3005,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 160000,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/0hYRO2jvFLoNFMeBcw6Ju9"
@@ -3128,6 +3218,24 @@
     },
     {
       "album": {
+        "name": "Te Fuiste Mi Amor",
+        "url": "https://open.spotify.com/album/5v0XaehEwwxMO1XCDDneLg"
+      },
+      "artists": [
+        {
+          "name": "Plan Exclusivo",
+          "url": "https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Te Fuiste Mi Amor",
+      "url": "https://open.spotify.com/track/4p081voOnOQ9bj8hQEHAaz"
+    },
+    {
+      "album": {
         "name": "Las Romanticas Favoritas de Fuerza Regida",
         "url": "https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj"
       },
@@ -3323,7 +3431,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 166182,
       "name": "Tengo Que Olvidarla",
       "url": "https://open.spotify.com/track/5tVsT5NHj96fBlJksV7CpE"
@@ -3439,7 +3547,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 267813,
       "name": "Tu y La Luna",
       "url": "https://open.spotify.com/track/51BNLmU6HnsVKnJSczJ5Ha"
@@ -3482,6 +3590,24 @@
     },
     {
       "album": {
+        "name": "Due\u00f1a De Mi Amor",
+        "url": "https://open.spotify.com/album/7w3P9BTyusulTDX5Xi020x"
+      },
+      "artists": [
+        {
+          "name": "Jesus Dimas",
+          "url": "https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167525,
+      "name": "Una En Un Millon",
+      "url": "https://open.spotify.com/track/4PymbhZd20OgKINlAktJ7z"
+    },
+    {
+      "album": {
         "name": "Vamonos",
         "url": "https://open.spotify.com/album/0tDRWqbDos1mDb9hxOsZb0"
       },
@@ -3497,7 +3623,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 199237,
       "name": "Vamonos",
       "url": "https://open.spotify.com/track/43jJLJrnFzYdYZOn618RTs"
@@ -3537,6 +3663,24 @@
       "duration_ms": 210280,
       "name": "Vas A Llorar Por M\u00ed",
       "url": "https://open.spotify.com/track/0Ndim92MYsrFSseD9gbBcg"
+    },
+    {
+      "album": {
+        "name": "Vete A La :)",
+        "url": "https://open.spotify.com/album/6UOkpv7AhnnmOfK2fRhi1E"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198206,
+      "name": "Vete A La :)",
+      "url": "https://open.spotify.com/track/5aJUIm3JeJ7BnRlAkOiY2V"
     },
     {
       "album": {
@@ -3605,7 +3749,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 185637,
       "name": "Y Cambi\u00f3 Mi Suerte",
       "url": "https://open.spotify.com/track/2OBX8tIXkbnRG82Hdm7OmT"
@@ -3645,7 +3789,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 367407,
       "name": "Ya No Puedo",
       "url": "https://open.spotify.com/track/4d9aNnhP67nti6DyOOjRP0"
@@ -3663,7 +3807,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 205838,
       "name": "Ya No Quiero",
       "url": "https://open.spotify.com/track/6ftypMzhY6uRLp7Fk4IoXv"
@@ -3765,6 +3909,24 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "album": {
+        "name": "Beyond The Limit",
+        "url": "https://open.spotify.com/album/5KwiZ0Ly7gpV8t7uvX7ZvT"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187250,
+      "name": "Zaguf Roma",
+      "url": "https://open.spotify.com/track/6q2afTIs8vAZTgpgcFctK1"
     },
     {
       "album": {

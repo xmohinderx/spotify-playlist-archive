@@ -4,7 +4,7 @@
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 36 min - not published yet
+50 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/2kkSEsHAzAQ1p3kVQ4SJCU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

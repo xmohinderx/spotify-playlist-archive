@@ -4,7 +4,7 @@
 
 > Disfruta con los dulces y tradicionales sonidos de la marimba.
 
-100 songs - 5 hr 41 min - not published yet
+100 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/3g6tuaCUYCP2ig5xt8LISI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Amanda Shires",
+  "description": "Keep your finger on the pulse of Americana. Cover: Mary Gauthier",
   "name": "The Pulse of Americana",
   "published_playlist_ids": [
     "1H5Sok0MEuwSOB35Thab6M"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 242896,
       "name": "7:28",
       "url": "https://open.spotify.com/track/4vN75DSxzy9YPrYkd4gorU"
@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "All My Love Is Coming Back To Me",
+        "url": "https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209126,
+      "name": "All My Love Is Coming Back To Me",
+      "url": "https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi"
+    },
+    {
+      "album": {
         "name": "All The Good Times",
         "url": "https://open.spotify.com/album/1UjZW6c0fdVo5dYMbeuyq3"
       },
@@ -373,7 +391,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 220026,
       "name": "Better Be Lonely",
       "url": "https://open.spotify.com/track/0QOOR1Dpib5VImvZxQHewE"
@@ -821,7 +839,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 153327,
       "name": "Church Street Blues",
       "url": "https://open.spotify.com/track/6OOVB3awfnJNb4MbVO0q39"
@@ -1216,6 +1234,24 @@
     },
     {
       "album": {
+        "name": "Dark Enough to See the Stars",
+        "url": "https://open.spotify.com/album/0sYjIkRscDMGA8x663vWnZ"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277223,
+      "name": "Fall Apart World",
+      "url": "https://open.spotify.com/track/4iT2uyC9Kw9BRPuixEqZxS"
+    },
+    {
+      "album": {
         "name": "Falling Apart (Right Now)",
         "url": "https://open.spotify.com/album/51UsMKHDATAfvVvxozppqI"
       },
@@ -1292,6 +1328,24 @@
     },
     {
       "album": {
+        "name": "First High",
+        "url": "https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187867,
+      "name": "First High",
+      "url": "https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ"
+    },
+    {
+      "album": {
         "name": "First Place I Go",
         "url": "https://open.spotify.com/album/7ID0hsBm86RCHMaba71BT9"
       },
@@ -1361,6 +1415,50 @@
       "duration_ms": 231506,
       "name": "For Your Consideration",
       "url": "https://open.spotify.com/track/0DgwphlY2xms3N6x9OnSvL"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Club XIII",
+        "url": "https://open.spotify.com/album/36KLZL4EDBBiEkLdl1BEJ7"
+      },
+      "artists": [
+        {
+          "name": "Drive-By Truckers",
+          "url": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285866,
+      "name": "Forged in Hell and Heaven Sent",
+      "url": "https://open.spotify.com/track/7BI77Zk4GyY88tB3SJyx8p"
+    },
+    {
+      "album": {
+        "name": "Avondale Drive",
+        "url": "https://open.spotify.com/album/1mzDiIXe1aZEpEMTpHuVGo"
+      },
+      "artists": [
+        {
+          "name": "Nicki Bluhm",
+          "url": "https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh"
+        },
+        {
+          "name": "Oliver Wood",
+          "url": "https://open.spotify.com/artist/7AJNTCR4NEQFQdiC4JIEod"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214181,
+      "name": "Friends (How To Do It)",
+      "url": "https://open.spotify.com/track/0JYYCDbiTr9xgrdS0F3S1A"
     },
     {
       "album": {
@@ -1696,6 +1794,24 @@
     },
     {
       "album": {
+        "name": "I Am The Moon: I. Crescent",
+        "url": "https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334600,
+      "name": "Hear My Dear",
+      "url": "https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT"
+    },
+    {
+      "album": {
         "name": "Hellbent For Leather",
         "url": "https://open.spotify.com/album/6Bx6xAWeQLPPnfMP9tiE3z"
       },
@@ -1950,6 +2066,24 @@
     },
     {
       "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285525,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy"
+    },
+    {
+      "album": {
         "name": "I Just Came Home To Count The Memories",
         "url": "https://open.spotify.com/album/7rHnORf4k6tS3G8uJcPqT5"
       },
@@ -2085,7 +2219,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 294135,
       "name": "It's Your Fault",
       "url": "https://open.spotify.com/track/3krCWFkCXoLz7cDpElKp1I"
@@ -2566,6 +2700,24 @@
     },
     {
       "album": {
+        "name": "Life and Life Only",
+        "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220961,
+      "name": "Miles And Miles - Single Version",
+      "url": "https://open.spotify.com/track/6xG16hC00oaRLRIY28PnGr"
+    },
+    {
+      "album": {
         "name": "Modern Man",
         "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
       },
@@ -2653,7 +2805,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 200035,
       "name": "My Cleveland Heart",
       "url": "https://open.spotify.com/track/5V0XUXOFHrNckBWd0W43ii"
@@ -3551,7 +3703,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 241540,
       "name": "Something Has to Change",
       "url": "https://open.spotify.com/track/3UYk55HdmtGfWQMggK5ie4"
@@ -3656,6 +3808,24 @@
     },
     {
       "album": {
+        "name": "To Die For",
+        "url": "https://open.spotify.com/album/06WmNWTuEwCWHQaP0XZaiV"
+      },
+      "artists": [
+        {
+          "name": "Arlo McKinley",
+          "url": "https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287165,
+      "name": "Stealing Dark from the Night Sky",
+      "url": "https://open.spotify.com/track/11srUJtGRAudXAKhnjeSRS"
+    },
+    {
+      "album": {
         "name": "Step In",
         "url": "https://open.spotify.com/album/3Ia0YigWnUyqgjoLgSnFCg"
       },
@@ -3739,7 +3909,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 225317,
       "name": "Sunk Like a Stone",
       "url": "https://open.spotify.com/track/0caJNYdZLdahG4qWza2QyT"
@@ -4369,7 +4539,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 216004,
       "name": "Waste Your Time",
       "url": "https://open.spotify.com/track/0sBRVZYkvO1m9sndONbhg5"
@@ -4481,7 +4651,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 202693,
       "name": "Welcome 2 Club XIII",
       "url": "https://open.spotify.com/track/0CqQEFDDgVBj4VZAH5C43S"

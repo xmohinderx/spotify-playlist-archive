@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>
 
-173 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+176 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bunker Buster](https://open.spotify.com/track/4sIb34wgeE5G0XXGTrpERP) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Bunker Buster](https://open.spotify.com/album/41mKx6GIJU5WuxO6ucgvRa) | 3:53 | 2021-12-17 | 2022-03-12 |
 | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/track/7e9hK7EA6ErF1FfARROJQE) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk), [JV Rhymes](https://open.spotify.com/artist/3ZaDHRjorwqXosRgVoCYUG) | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/album/1RVaWpU0bqwfPazcEjWacX) | 3:33 | 2022-03-04 |  |
 | [busy](https://open.spotify.com/track/6r8qsydGDCWTdyYPAgqHrw) | [eugene](https://open.spotify.com/artist/32B4m0OTNUKzhgYGCCvTZw) | [Boost Pressure](https://open.spotify.com/album/0vERS1FOdhMkunGyGAsdog) | 3:23 | 2022-05-06 |  |
+| [CAKE SHAKE](https://open.spotify.com/track/317KO2y39CAzDjpP8djR0k) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [DIABOLICAL](https://open.spotify.com/album/29atnC5DakNorflRaMOOGQ) | 2:36 | 2022-06-03 |  |
 | [Carbonara](https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Carbonara](https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8) | 2:52 | 2021-12-17 |  |
 | [Carousel](https://open.spotify.com/track/2vP8axvS6mqgnPwwxMARPs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [E.L.E \(Extinction Level Event\)](https://open.spotify.com/album/6dwrAsvDJ3qpogoK1jxzAE) | 2:46 | 2022-03-04 |  |
 | [Casablanca](https://open.spotify.com/track/0NWnuJORMBiSpZLKcb5FLV) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [Anti\-Shave EP](https://open.spotify.com/album/6RzKKjfYIvlDPjeMMQLWDB) | 2:06 | 2021-12-17 | 2022-03-12 |
@@ -113,10 +114,12 @@
 | [No Cap](https://open.spotify.com/track/4T8OzVj1mcE5LNC3deHs4l) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Cap](https://open.spotify.com/album/1ZyE0svTRVJRACo7uDRnjK) | 2:40 | 2021-12-17 | 2022-03-12 |
 | [NO LOVE](https://open.spotify.com/track/3x9RokAqos6LqGni4E0TyB) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [NO LOVE](https://open.spotify.com/album/5T2DMQH1Ru2R9FMgpklg4h) | 3:22 | 2021-12-17 |  |
 | [NOSEBLEED](https://open.spotify.com/track/6qxOL5Opjw8rVp3xMsR9os) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [NOSEBLEED](https://open.spotify.com/album/0Q0mqU937illf7v7rMI8wz) | 3:46 | 2021-12-17 |  |
+| [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-06-03 |  |
 | [Oldskool](https://open.spotify.com/track/3x34JXZdyZdkfEgkHT3eNC) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Mechanized Mayhem Vol\. 2](https://open.spotify.com/album/5JZXWPiy5bwrkJng3gYJcr) | 3:39 | 2022-01-21 |  |
 | [Ominous](https://open.spotify.com/track/0bmmFj68HfhxsBoPbuSU1q) | [GUERRO](https://open.spotify.com/artist/6zgXDX1gGCrq6U8RXKGn0h) | [Ominous](https://open.spotify.com/album/4ZyuhMJtWSoh1mc9vTvtSu) | 3:29 | 2022-05-06 |  |
 | [Our Fire](https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Onyx](https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97) | 4:19 | 2022-01-14 |  |
 | [Own The Night](https://open.spotify.com/track/73yiAXig9qPlUYYAQGTT8F) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Own The Night](https://open.spotify.com/album/7C5kxq9EAe1TeyT0fMiOB3) | 3:00 | 2022-04-22 |  |
+| [Parachute](https://open.spotify.com/track/4rGJKqbPpn5HUhMKeZMFhe) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Parachute](https://open.spotify.com/album/5g9FEdY7SHc21AD2duTgac) | 3:52 | 2022-06-03 |  |
 | [Pling Plong](https://open.spotify.com/track/1sMhsd4r7NkgGzAR3Ug87q) | [Plsma](https://open.spotify.com/artist/5d1nm4nMdbbwYMg3NHvJkc), [VLCN](https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW) | [Pling Plong](https://open.spotify.com/album/0rEB0YX6lXpcEbQzne8uaV) | 2:55 | 2021-12-17 |  |
 | [POP DAT](https://open.spotify.com/track/0QlBuSVxXyYw7HGNC2PAtd) | [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [MATT DOE](https://open.spotify.com/artist/5p2AgyBv3S7CkWelQWBZ0R) | [POP DAT](https://open.spotify.com/album/1rPYKy7MvAeEPOmNc2OZvF) | 2:14 | 2021-12-17 | 2022-03-12 |
 | [Power Alliance](https://open.spotify.com/track/7jbpjSAkXw829j8zGcTL2M) | [Barely Alive](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Power Alliance](https://open.spotify.com/album/4VMxvlL7OhoHeXxH15887h) | 3:06 | 2022-03-11 |  |

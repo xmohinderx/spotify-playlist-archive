@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Music inspired by, made by, and made for gamers. ",
+  "description": "The latest in gamer music.",
   "name": "Now Loading",
   "published_playlist_ids": [
     "2JpGV57sJHq5GKNwF0vuUD"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 201290,
       "name": "A Teen",
       "url": "https://open.spotify.com/track/3N23avLnmgSKQEfMPub95G"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 198626,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/36Ajx3OHw1qOAjS4tJs38V"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2021-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 181655,
       "name": "ACTUP (with JAHMED)",
       "url": "https://open.spotify.com/track/2bJTE2bZpNeTayNbRRfp5w"
@@ -1689,7 +1689,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
@@ -2373,7 +2373,7 @@
       ],
       "date_added": "2021-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 217500,
       "name": "Chasing Clouds",
       "url": "https://open.spotify.com/track/4Iw6e5hL3ynmUNV2tgClHL"
@@ -2529,10 +2529,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 132469,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/7BNWWI6aZPLkYCfRat8HuD"
+    },
+    {
+      "album": {
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132346,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
       "album": {
@@ -2623,7 +2641,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 174545,
       "name": "CODES",
       "url": "https://open.spotify.com/track/6byz4ge1TeXplb8aXTUhKN"
@@ -2981,7 +2999,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 146523,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx"
@@ -3191,7 +3209,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 226666,
       "name": "Demons on the Side of My Bed",
       "url": "https://open.spotify.com/track/7gYh5gtrTe88mGvIieU1mk"
@@ -3335,7 +3353,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 224840,
       "name": "Do You Remember The Times",
       "url": "https://open.spotify.com/track/54MoFn8dZpwraIs6k4gqtR"
@@ -3353,7 +3371,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "DOMINO (Inspired by \"Arcane League of Legends\")",
       "url": "https://open.spotify.com/track/1dJ0yTqdEAN34XsiJH3i24"
@@ -3461,7 +3479,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 238026,
       "name": "Down By The River",
       "url": "https://open.spotify.com/track/7l8SsHb1SX5edK0cyFFR9u"
@@ -3631,7 +3649,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 173809,
       "name": "Drums Drums Drums",
       "url": "https://open.spotify.com/track/6SDNbGIe9f09Rb3diob8Ii"
@@ -4483,7 +4501,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 165831,
       "name": "Five Nights at Freddy's",
       "url": "https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE"
@@ -4585,7 +4603,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 194267,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/0hTrQoqDmFnA4S1PC265e1"
@@ -4633,7 +4651,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 177206,
       "name": "Followers",
       "url": "https://open.spotify.com/track/5sPoju3oZHg9Wq5KXxBH3a"
@@ -4801,7 +4819,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 139636,
       "name": "Frozen (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC"
@@ -5083,7 +5101,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 130500,
       "name": "Get It, Get It",
       "url": "https://open.spotify.com/track/2Aq2yNSQU02PpMUJp86JFz"
@@ -5425,7 +5443,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 210027,
       "name": "Gospel (with Eminem)",
       "url": "https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL"
@@ -5451,7 +5469,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 179800,
       "name": "Gr4ves (feat. Johnny Gr4ves)",
       "url": "https://open.spotify.com/track/7C8nA84nqtzdTZdKq9YVGF"
@@ -6077,7 +6095,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 185739,
       "name": "How's It Supposed to Feel",
       "url": "https://open.spotify.com/track/7ctMmVLgNKHY7qzku2q6CA"
@@ -6099,7 +6117,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 204549,
       "name": "Howling",
       "url": "https://open.spotify.com/track/1FUbkX4ySdsOHoUOkyOJte"
@@ -6241,7 +6259,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 190848,
       "name": "I See a Dreamer",
       "url": "https://open.spotify.com/track/4yZEX3NsnXfobmZ0m8ZO4Y"
@@ -6471,7 +6489,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 254815,
       "name": "Industry E.T.",
       "url": "https://open.spotify.com/track/0nQnKhRw2QQGzZWld3Urav"
@@ -6877,7 +6895,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 187812,
       "name": "Knee Deep at ATP",
       "url": "https://open.spotify.com/track/7GdIvzFCC3ZGS4sGsCuR9W"
@@ -7277,6 +7295,24 @@
       "duration_ms": 204173,
       "name": "Life Of A Mack",
       "url": "https://open.spotify.com/track/3fdJ9nl07hgawCiJUwTnCP"
+    },
+    {
+      "album": {
+        "name": "life waster",
+        "url": "https://open.spotify.com/album/3v3XnEkDxBDcRQhXy02e2Q"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "life waster",
+      "url": "https://open.spotify.com/track/6TCKkbyGVo5uvTEfJvkcE3"
     },
     {
       "album": {
@@ -7879,7 +7915,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 174936,
       "name": "Mask",
       "url": "https://open.spotify.com/track/3IxMaULfjq4IT2IN6v54PB"
@@ -8179,7 +8215,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 209576,
       "name": "Motion",
       "url": "https://open.spotify.com/track/7lOlKhTXmv4sMxyhjsWwn8"
@@ -8407,7 +8443,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 207500,
       "name": "My World",
       "url": "https://open.spotify.com/track/1OUtRMoOn662g0KZacJKm7"
@@ -8585,7 +8621,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 172515,
       "name": "NO MIND",
       "url": "https://open.spotify.com/track/11TC5EbqUIyQSA0utzM3eI"
@@ -9009,7 +9045,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 144616,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0IUprcNjE2hDtlvY8rq2W9"
@@ -9959,7 +9995,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 133661,
       "name": "Roadtrip",
       "url": "https://open.spotify.com/track/4Agtk2MrapdZAVN7v6PuFO"
@@ -10889,7 +10925,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 185250,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/6h9x4FupskFhtNkfNt2YiH"
@@ -11225,7 +11261,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 307199,
       "name": "Star Glide",
       "url": "https://open.spotify.com/track/5bbNH85pbTNcwFcWMffmx4"
@@ -11309,7 +11345,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 181068,
       "name": "Stay Calm (feat. Jeff Burgess)",
       "url": "https://open.spotify.com/track/1uEirYIgTtCnojbufoer37"
@@ -11747,6 +11783,28 @@
       "duration_ms": 169221,
       "name": "Talk to Me Nice",
       "url": "https://open.spotify.com/track/3TMC8yrWnyEwo2gcagyI91"
+    },
+    {
+      "album": {
+        "name": "Tarantino",
+        "url": "https://open.spotify.com/album/4YFETS96ebbE1JzttOofco"
+      },
+      "artists": [
+        {
+          "name": "Teflon Sega",
+          "url": "https://open.spotify.com/artist/0JFKmdLuTj0yZi9P05a85X"
+        },
+        {
+          "name": "OZZIE",
+          "url": "https://open.spotify.com/artist/1ZyteyKrx7qwKMwFYLAB1p"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221860,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/4JfaAGQUBwFU886lRnPQIQ"
     },
     {
       "album": {
@@ -12471,7 +12529,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 193787,
       "name": "The Spectre",
       "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
@@ -12907,7 +12965,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 208800,
       "name": "Total Insecurity (FNAF Security Breach)",
       "url": "https://open.spotify.com/track/1Jw6U7RwZPIVTB3nqTIPbJ"
@@ -13445,7 +13503,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 237983,
       "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d"

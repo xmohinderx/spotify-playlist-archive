@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 227080,
       "name": "Breezeblocks",
       "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 140000,
       "name": "dead end",
       "url": "https://open.spotify.com/track/2KyS4sFuKvNYerKxHPyawL"
@@ -1833,7 +1833,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 222640,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
@@ -3577,7 +3577,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 146586,
       "name": "Million Little Problems",
       "url": "https://open.spotify.com/track/42kkoFjVaKgSeAYqkAXPXA"
@@ -3952,6 +3952,24 @@
     },
     {
       "album": {
+        "name": "Nicotine",
+        "url": "https://open.spotify.com/album/7mUy0fH5Ad2Fg5KnCKRp9N"
+      },
+      "artists": [
+        {
+          "name": "Jany Green",
+          "url": "https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170341,
+      "name": "Nicotine",
+      "url": "https://open.spotify.com/track/73CLiwzz9AopgAv3jnngyA"
+    },
+    {
+      "album": {
         "name": "Nightcrawler",
         "url": "https://open.spotify.com/album/27cBacBiyauBUk0z6kQuCn"
       },
@@ -4169,6 +4187,24 @@
       "duration_ms": 209386,
       "name": "Out of My League",
       "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
+    },
+    {
+      "album": {
+        "name": "out of the blue",
+        "url": "https://open.spotify.com/album/5OagZb7d6hBfIqfVji39wD"
+      },
+      "artists": [
+        {
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "out of the blue",
+      "url": "https://open.spotify.com/track/1L6Pp0BJ5fuSUOpQOoFE5a"
     },
     {
       "album": {
@@ -4585,7 +4621,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 289560,
       "name": "Rosyln",
       "url": "https://open.spotify.com/track/1vsFzbhQXTqKJ3YSWxWxmJ"
@@ -4731,7 +4767,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/04wODYKrbLNe7LTOaOPX3i"

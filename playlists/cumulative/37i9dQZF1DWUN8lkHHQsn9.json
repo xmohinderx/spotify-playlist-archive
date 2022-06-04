@@ -446,6 +446,24 @@
     },
     {
       "album": {
+        "name": "J\u0119zyk",
+        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186468,
+      "name": "J\u0119zyk",
+      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
+    },
+    {
+      "album": {
         "name": "GEJSZA",
         "url": "https://open.spotify.com/album/6KsYGi1glRMS3AsAvSAJNl"
       },
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 168298,
       "name": "San Marino",
       "url": "https://open.spotify.com/track/0S7mUSGHPGmzHvFraY4X9B"

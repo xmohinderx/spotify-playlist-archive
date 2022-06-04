@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 249813,
       "name": "A to Z",
       "url": "https://open.spotify.com/track/6sJwnAnUD18u9MysrfzY0g"
@@ -146,6 +146,24 @@
     },
     {
       "album": {
+        "name": "Amalfi",
+        "url": "https://open.spotify.com/album/7Dj9allhfF0tvNel3UtS7U"
+      },
+      "artists": [
+        {
+          "name": "Mattari",
+          "url": "https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231285,
+      "name": "Amalfi",
+      "url": "https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5"
+    },
+    {
+      "album": {
         "name": "Amends",
         "url": "https://open.spotify.com/album/0TZJiX50StX60yEIld5Qe2"
       },
@@ -205,6 +223,24 @@
       "duration_ms": 220366,
       "name": "Anema e core",
       "url": "https://open.spotify.com/track/6qXe4mxwjEHQ7tt1IiZ4XU"
+    },
+    {
+      "album": {
+        "name": "Another Day In Paradise",
+        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275680,
+      "name": "Another Day In Paradise",
+      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
     },
     {
       "album": {
@@ -633,7 +669,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 274096,
       "name": "Busta Move",
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
@@ -1309,7 +1345,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 241986,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/3N80JYpUbyZd90H5a4F9Zk"
@@ -1773,7 +1809,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 232751,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/5YTTAwPC8NkT67yx7MLZS7"
@@ -1791,7 +1827,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 251432,
       "name": "Good On You",
       "url": "https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6"
@@ -1889,7 +1925,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 208445,
       "name": "Hrs and Hrs",
       "url": "https://open.spotify.com/track/4R8bxjmbyHYv7PoZzV5ptn"
@@ -1919,6 +1955,24 @@
       "duration_ms": 230524,
       "name": "I Can Let Go Now - Instrumental Version",
       "url": "https://open.spotify.com/track/24UVZM3ETZsEKCLfkQ5INR"
+    },
+    {
+      "album": {
+        "name": "I Wanna Be Down",
+        "url": "https://open.spotify.com/album/1yaQNIXtz4BhOMzwKBS5IQ"
+      },
+      "artists": [
+        {
+          "name": "Nathan Allen",
+          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294252,
+      "name": "I Wanna Be Down",
+      "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
     },
     {
       "album": {
@@ -2075,7 +2129,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 247500,
       "name": "Islands In The Sea",
       "url": "https://open.spotify.com/track/7s5bLr1Wi5URSor1lkxyAN"
@@ -2581,7 +2635,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 231773,
       "name": "Meet Me In Manhattan",
       "url": "https://open.spotify.com/track/6Is07gX8pH39ajL7PBm67R"
@@ -2679,7 +2733,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 254734,
       "name": "Monday",
       "url": "https://open.spotify.com/track/0rviXYk3XxKRrQgBmAxNIm"
@@ -2745,7 +2799,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 222253,
       "name": "Mystical Moment",
       "url": "https://open.spotify.com/track/2MZPzcULtHa17kQaM0OGmT"
@@ -2779,7 +2833,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 187818,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP"
@@ -3103,7 +3157,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 251621,
       "name": "Planet Smooth",
       "url": "https://open.spotify.com/track/4DNJiQa3gRSzItuC5vdR4Z"
@@ -3263,7 +3317,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 249262,
       "name": "Relentless",
       "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
@@ -3285,7 +3339,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 179706,
       "name": "Ride It",
       "url": "https://open.spotify.com/track/2aojkARgqmwIon4lC9DIWK"
@@ -3369,7 +3423,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 248712,
       "name": "Safe and Sound",
       "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
@@ -3757,7 +3811,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 228102,
       "name": "Soul to Soul - 2022 Version",
       "url": "https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7"
@@ -4087,7 +4141,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 200050,
       "name": "Summer Solstice",
       "url": "https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY"
@@ -4429,7 +4483,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 251076,
       "name": "Think Critically",
       "url": "https://open.spotify.com/track/7td9QhTIGCmNMP1UCNIWdp"
@@ -4637,7 +4691,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 230386,
       "name": "Wait! - Smooth Jazz Mix",
       "url": "https://open.spotify.com/track/5R7wrZ2QIHMFzNX76WDgCv"

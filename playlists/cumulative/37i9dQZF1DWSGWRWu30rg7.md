@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: dilasarah Artwork: Isu Kim.
 
-737 songs - 1 day 21 hr 12 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+739 songs - 1 day 21 hr 20 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Reason](https://open.spotify.com/track/4RYw0HiXqTYZ6PWF5cs6Wl) | [Yudis Dwiko](https://open.spotify.com/artist/5Ud9VCmLavle5o180t45fZ), [Nineteen](https://open.spotify.com/artist/4F9Wgzx9DgOE3dnUZcIki5) | [Reason](https://open.spotify.com/album/446TIyCnZNWty8eeRJOmT7) | 3:25 | 2022-02-03 | 2022-02-18 |
 | [Reckless](https://open.spotify.com/track/7kn1GeTVxxJrl6gPaXrx5E) | [Red Phobics](https://open.spotify.com/artist/3gi9WaOvNkHgUA8dCJMRkm) | [Reckless](https://open.spotify.com/album/0YDXp4tKqSMHfEKf9nUGSz) | 2:53 | 2022-03-04 | 2022-03-18 |
 | [Redam \(Remastered\)](https://open.spotify.com/track/0immbD1AOVF3ZvI8zoMJFs) | [Carrom Club](https://open.spotify.com/artist/0Z39RwS02Q2m673hrfd4In) | [Not Too Bad to Being Sad](https://open.spotify.com/album/5auCPe9jyc2ES9TPlgdyph) | 4:42 | 2022-05-05 | 2022-05-20 |
+| [Remember Me](https://open.spotify.com/track/1dgKQaLvYQSp0b9u8CAH7O) | [Chairia](https://open.spotify.com/artist/1f7fbIE0jO9dDldozZ3Gps) | [Remember Me](https://open.spotify.com/album/5uFEcyolJagiIVLRVPZFat) | 3:33 | 2022-06-02 |  |
 | [remember when](https://open.spotify.com/track/4oKbGERlZPPbgUj7eeEefT) | [Luccas Wooden](https://open.spotify.com/artist/7iVibpALRKwTt5R97hFDKi) | [remember when](https://open.spotify.com/album/3gYTQ45u6GAA4jUP7xGtT2) | 3:45 | 2022-04-14 | 2022-05-06 |
 | [Renegade](https://open.spotify.com/track/6AOdiz4LVFjdBc7foFXwaE) | [Kai Mata](https://open.spotify.com/artist/0RlMEX4BhqLPcZFg1SHRny) | [Renegade](https://open.spotify.com/album/4LdMLjo5ODxQyDUGBjNpAU) | 4:14 | 2022-04-07 | 2022-04-22 |
 | [Resentment](https://open.spotify.com/track/5E5vuBwJcieyS41jRRI3Ke) | [Fallen Wolves](https://open.spotify.com/artist/1jBSX7hBRWOZcHmPveHRkj) | [Resentment](https://open.spotify.com/album/6HFQItGyacdpjDKpKK6UhD) | 3:10 | 2022-02-17 | 2022-03-05 |
@@ -547,6 +548,7 @@
 | [Sanubariku](https://open.spotify.com/track/18EIPeEcYF8manN6sgfJ3M) | [Canti Tachril](https://open.spotify.com/artist/58T2knDTjuxgJkxHH0mllQ) | [Sanubariku](https://open.spotify.com/album/0Z666oiqhiNtIgBYyafT7S) | 3:57 | 2022-01-13 | 2022-01-28 |
 | [Saranghaeyo](https://open.spotify.com/track/0NxWOqwKEmSGBr7NdorA6W) | [Restu](https://open.spotify.com/artist/2gMmi7vPvdivhlvnNb4dGz) | [Saranghaeyo](https://open.spotify.com/album/3hzzT5cZmjcH5GLaX2FA7Z) | 4:40 | 2022-03-24 | 2022-04-15 |
 | [Sarwa Merah Muda](https://open.spotify.com/track/4hzPUuVrhQyNxASdBMDLdf) | [Askarweda](https://open.spotify.com/artist/163ndsbxF86uSzbmwA9Je4) | [Berlayar](https://open.spotify.com/album/4Q3fJ8dXOWDersWw9OnBhw) | 3:40 | 2022-04-28 | 2022-05-13 |
+| [Satu Tahun Cahaya](https://open.spotify.com/track/5alx827A7lvvJ0HSwca6gd) | [Suara Lima](https://open.spotify.com/artist/3b20SopLWIzoAeE3WW4QDA), [Carla Vania](https://open.spotify.com/artist/1DApabURVjotLcHbWka1S2) | [Satu Tahun Cahaya](https://open.spotify.com/album/4AzsnehZMJ8FAYkFZk26aO) | 4:18 | 2022-06-02 |  |
 | [Save Me](https://open.spotify.com/track/7yKld3qK1s2cTBlrvhIKVn) | [Fraqtion](https://open.spotify.com/artist/3dgWzqWwzldCWo9i84SLE7) | [Save Me](https://open.spotify.com/album/4zA8K6EXG722S685P5Mhzn) | 3:09 | 2022-02-24 | 2022-03-11 |
 | [Say Your Grace](https://open.spotify.com/track/55W1PHzb9OlSh2rxWbpyxa) | [JOSUA](https://open.spotify.com/artist/2QMEyW4sU9nxyxemnzTLzW) | [Say Your Grace](https://open.spotify.com/album/3n9S0AWe5QL7mvY242uUVE) | 3:00 | 2022-02-03 | 2022-02-18 |
 | [Sebatas Kata](https://open.spotify.com/track/5FuLoUVIpaz3sk1lgHzbbd) | [Flo](https://open.spotify.com/artist/7aoj0oPaCmH8MUIMzP5rkP), [Reginalda Merika](https://open.spotify.com/artist/6lQX8YIeFs1PPgramKloBz) | [Sebatas Kata](https://open.spotify.com/album/3b4hxUIFHoMdy26cVNDQPo) | 3:46 | 2022-01-06 | 2022-01-14 |

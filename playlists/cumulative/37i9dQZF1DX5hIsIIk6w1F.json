@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: El Jordan 23.",
+  "description": "Este Flow tiene otro Flow. Foto: Pailita.",
   "name": "Reggaet\u00f3n Chileno",
   "published_playlist_ids": [
     "2FMJDC0qJwnjZnSiGHmfDy"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 206000,
       "name": "De Finales Contigo",
       "url": "https://open.spotify.com/track/7bp2UeOrP5wV0nQcfZwogh"
@@ -1417,6 +1417,24 @@
       "duration_ms": 273408,
       "name": "Muevete",
       "url": "https://open.spotify.com/track/3e0EYgl4lQYB6k4pYqg9Pl"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s de una Vez",
+        "url": "https://open.spotify.com/album/2bJFkkB4RK579xlXykWHkN"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197802,
+      "name": "M\u00e1s de una Vez",
+      "url": "https://open.spotify.com/track/3gHAXAgFq66HuSmveJk8J5"
     },
     {
       "album": {

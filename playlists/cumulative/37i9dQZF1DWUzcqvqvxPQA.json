@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-02",
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
   "name": "Rejoice for Summer",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0QMKGi3rb83XR2pAjP4UYj"
+  ],
   "tracks": [
     {
       "album": {
@@ -43,7 +45,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 204897,
       "name": "All Good",
       "url": "https://open.spotify.com/track/2DRk66DsTtDrUsCEOmvQaq"
@@ -97,7 +99,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 196960,
       "name": "Better For It",
       "url": "https://open.spotify.com/track/6R7zrNJLHMX7XqTsODGqih"
@@ -123,6 +125,24 @@
       "duration_ms": 224494,
       "name": "Between U And Me",
       "url": "https://open.spotify.com/track/47EB5UKcMRu1A5NCgzv6Sr"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/4Mw4r1cRUOBo4fREvBeBr8"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2020-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311466,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/32QjsWVmD27U1NrVjcP7rj"
     },
     {
       "album": {
@@ -545,7 +565,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 228564,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/6O8Q77DLdXZTdciVeU2Aak"
@@ -567,6 +587,28 @@
       "duration_ms": 318874,
       "name": "Fountain (I Am Good) - Live",
       "url": "https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7rWe7veYh3Nrirj5kP0iZf"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2020-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184613,
+      "name": "Give It All",
+      "url": "https://open.spotify.com/track/5XMru1ivE88ruyO5H9AmKX"
     },
     {
       "album": {
@@ -679,7 +721,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 171653,
       "name": "Happy Dance",
       "url": "https://open.spotify.com/track/1vABXHS6jUrX4gae0MuniF"
@@ -697,7 +739,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 213706,
       "name": "He Still Does (Miracles)",
       "url": "https://open.spotify.com/track/1rlPCKXTsb6DKt2tPAULXm"
@@ -751,7 +793,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 181560,
       "name": "i don't know if we can be friends",
       "url": "https://open.spotify.com/track/5ldNf0PbjXkxadKws2Rgkt"
@@ -769,7 +811,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 226120,
       "name": "I just need U.",
       "url": "https://open.spotify.com/track/7uvDJFly0TCWWsK48NI1fx"
@@ -823,7 +865,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 193148,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7"
@@ -961,7 +1003,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 231280,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/0R8tMSvCvkHpiz7DjnBsAw"
@@ -1031,7 +1073,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 194367,
       "name": "Look At Me Now (feat. JUICEBANGERS, nobigdyl. & Steve Malcolm) - Remix",
       "url": "https://open.spotify.com/track/3XEgNWVG2r6vxYfNLrI1by"
@@ -1111,7 +1153,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 210920,
       "name": "Love With Your Life",
       "url": "https://open.spotify.com/track/3YVsYrddp7lbej2cXniN3Q"
@@ -1133,7 +1175,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 257399,
       "name": "Mercy's Tree",
       "url": "https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw"
@@ -1281,7 +1323,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 179857,
       "name": "neverfade",
       "url": "https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ"
@@ -1347,7 +1389,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 245008,
       "name": "Not To Us / Good Love",
       "url": "https://open.spotify.com/track/1SAep47i5GDQobeYN1KCPg"
@@ -1695,7 +1737,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 311091,
       "name": "Shining Down",
       "url": "https://open.spotify.com/track/32xXj2TeK1vrtFDUfFFXEW"
@@ -1789,7 +1831,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 208866,
       "name": "Stand Firm",
       "url": "https://open.spotify.com/track/2S4vZbC5zdTd7tURXvpVnd"
@@ -1992,6 +2034,24 @@
     },
     {
       "album": {
+        "name": "Warren Park",
+        "url": "https://open.spotify.com/album/2fb8dzWQRVIZRzGZidNIbO"
+      },
+      "artists": [
+        {
+          "name": "Jet Trouble",
+          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
+        }
+      ],
+      "date_added": "2020-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Walking Out",
+      "url": "https://open.spotify.com/track/1FA4KLVSKttNIo0liD14zV"
+    },
+    {
+      "album": {
         "name": "WaveWalker",
         "url": "https://open.spotify.com/album/6CViRKQjb2VqUGnNCWo9X1"
       },
@@ -2065,7 +2125,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 178773,
       "name": "Wherever I Go",
       "url": "https://open.spotify.com/track/05wFnzwWSyuSRwddvKkrdd"

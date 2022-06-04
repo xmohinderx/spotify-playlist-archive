@@ -4,7 +4,7 @@
 
 > Tejano's new wave, co\-curated with <a href="https://tejanonation.net/">Tejano Nation</a>! La nueva ola de la música tejana\. Cover: Stefani Montiel
 
-50 songs - 2 hr 46 min - not published yet
+50 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/1DP7NGrjVhNrBARNSXYxLf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

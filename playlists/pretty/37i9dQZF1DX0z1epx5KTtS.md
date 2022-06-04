@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain](/playlists/plain/37i9dQZF1DX0z1epx5KTtS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0z1epx5KTtS)
 
-### [Coupé Decalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
+### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
 > African dance party music from Paris to Abidjan\. Photo : Fior 2 Bior
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,518 likes - 40 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,590 likes - 40 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Caprices de Grossesse](https://open.spotify.com/track/6BgeBCh0vWweiQOvYVVKIc) | [Rocky Gold](https://open.spotify.com/artist/0pagPxNrVGh9Qxjh7gn5t7) | [Caprices de Grossesse](https://open.spotify.com/album/20hqf8Bugd8BuK0AkHGHuG) | 4:00 |
 | 40 | [Supporteurs Maso](https://open.spotify.com/track/5AmaKQXErLGa23mtFwI5lj) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Debordo Leekunfa](https://open.spotify.com/artist/7L6fUPhKqRJGYVB1hnrkfJ) | [Supporteurs Maso](https://open.spotify.com/album/6ySLqOgsAeIoT3PUm7Bk0k) | 3:33 |
 
-Snapshot ID: `MTY1NDIwNzI2MCwwMDAwMDAyOTAwMDAwMTgxMjY2ZmE1ZmYwMDAwMDE4MTFmOWYyNTMw`
+Snapshot ID: `MTY1NDI2NTk4OSwwMDAwMDAyYTAwMDAwMTgxMjllZmM5ZjUwMDAwMDE4MTI5ZWY2M2U4`

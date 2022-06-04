@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Los Relampagos Del Norte",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7G8o4dvFn1kxELCECehqiI"
+  ],
   "tracks": [
     {
       "album": {
@@ -101,6 +103,24 @@
       "duration_ms": 212560,
       "name": "Amargando la vida",
       "url": "https://open.spotify.com/track/2kzPpR2KtWBlSsvMkYEeyE"
+    },
+    {
+      "album": {
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/4L5987PRJ0lgS1J2BmwMB7"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149373,
+      "name": "Aunque Tenga Otros Amores",
+      "url": "https://open.spotify.com/track/22CbCQZij6Q9HBOD8mllsa"
     },
     {
       "album": {
@@ -285,7 +305,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 234382,
       "name": "Con La Tinta De Mi Sangre",
       "url": "https://open.spotify.com/track/0a8yGyvn2l0Tl80LJ8e6Y7"
@@ -473,7 +493,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 181042,
       "name": "Mandato Divino",
       "url": "https://open.spotify.com/track/6aAz6vKrqgnakvmzhwjQ6C"
@@ -491,7 +511,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 184560,
       "name": "Me Cai De La Nube",
       "url": "https://open.spotify.com/track/5duBpK9vaRenDIdXZP5EMq"
@@ -581,7 +601,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 177818,
       "name": "Mi Tesoro",
       "url": "https://open.spotify.com/track/57rH2ju0NCA5K1m4GxmIfU"
@@ -643,7 +663,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 120680,
       "name": "No Quiero Sobras",
       "url": "https://open.spotify.com/track/7tjpXxiYqQKeY0wV52T8Fc"
@@ -751,7 +771,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 146088,
       "name": "Qu\u00e9 Mala Suerte",
       "url": "https://open.spotify.com/track/37sNG4P8zEvnfm07CtKn55"
@@ -805,7 +825,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 150333,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/2ttAibrVYNXdMoQBK0VEs5"

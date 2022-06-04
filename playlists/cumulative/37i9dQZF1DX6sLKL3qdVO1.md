@@ -2,7 +2,7 @@
 
 ### [Dale Flow](https://open.spotify.com/playlist/37i9dQZF1DX6sLKL3qdVO1)
 
-> Lo mejor del reggaetón y flow actual, y lo que vendrá\. Portada: Wisin & Yandel, Jhay Cortez, Sech
+> Lo mejor del reggaetón y flow actual, y lo que vendrá\. Portada: KAROL G
 
 165 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/4t8Cynw1OATHYvs7BoEBpr)
 

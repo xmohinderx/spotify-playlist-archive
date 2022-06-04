@@ -4,7 +4,7 @@
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Kika Boom
 
-53 songs - 2 hr 15 min - [published](https://open.spotify.com/playlist/5WRCap7Po4seHkP0oCl5pD)
+54 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/5WRCap7Po4seHkP0oCl5pD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Bumbum Check](https://open.spotify.com/track/07q51cMw9IyDfZ7Jk08S6z) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [VILLA](https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD) | [Bumbum Check](https://open.spotify.com/album/6MDj1MOMSs5N34VtAyxzjy) | 2:21 | 2022-04-29 |  |
 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu) | 3:01 | 2022-04-29 |  |
 | [Cavalona](https://open.spotify.com/track/6rgyzu6AxYyx7Fa9qAxN8W) | [Blogueirinha](https://open.spotify.com/artist/7C9PDbLk94PbL45y8qeavR) | [Quem Me Conhece Sabe](https://open.spotify.com/album/4zu11ms7NSVOfTqmMGWz26) | 1:41 | 2022-04-29 |  |
-| [Diaba](https://open.spotify.com/track/1Wj0h3MIeATuBNnxnbAmEu) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Diaba](https://open.spotify.com/album/7xC3hSIL2joMNxIXxKQa0h) | 2:45 | 2022-04-29 |  |
+| [Diaba](https://open.spotify.com/track/1Wj0h3MIeATuBNnxnbAmEu) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Diaba](https://open.spotify.com/album/7xC3hSIL2joMNxIXxKQa0h) | 2:45 | 2022-04-29 | 2022-06-04 |
 | [Eu Viciei](https://open.spotify.com/track/6eu0ufYZ5k4HkZqnceFsoc) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Eu Viciei](https://open.spotify.com/album/4GoAldSUHoIefEbIkY0aXF) | 2:14 | 2022-04-29 |  |
 | [Explícito](https://open.spotify.com/track/0rjoEhu8GFQubGx7dg1KLS) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:53 | 2022-04-29 |  |
 | [FAZ FUMAÇA](https://open.spotify.com/track/2lbg5KCFm2n6hQHMlMdy63) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [FAZ FUMAÇA](https://open.spotify.com/album/7v3bymuI67SlsdARJ90VrG) | 2:33 | 2022-04-29 |  |
@@ -40,6 +40,7 @@
 | [Party Everyday](https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Party Everyday](https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L) | 2:17 | 2022-04-29 |  |
 | [Peligrosa](https://open.spotify.com/track/1aZLYlrxEvqhaUoNTimiDQ) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA PT1](https://open.spotify.com/album/3vd866Wmu5RHmtuKk0YoCZ) | 2:29 | 2022-04-29 |  |
 | [Perdeu](https://open.spotify.com/track/5Y3tgOf8Dbp5ja44Qh5vhw) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa) | [Perdeu](https://open.spotify.com/album/2hG7gG84BDPGy98WjZKjBX) | 2:06 | 2022-04-29 |  |
+| [Periferia](https://open.spotify.com/track/3tEdTu6qhlIqgqu261plPu) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [Periferia](https://open.spotify.com/album/3RELpLOZYzEOalB4O1MZGd) | 2:43 | 2022-06-03 |  |
 | [PODE DALE](https://open.spotify.com/track/0M7NT1s4Ne6wRjPzSfPxsC) | [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe), [Batooke Native](https://open.spotify.com/artist/4ndInxAXKQ9fT571SOPkJt) | [PODE DALE](https://open.spotify.com/album/1hvyiV92xrJUiJHiJmmqTf) | 2:47 | 2022-04-29 |  |
 | [Provocar](https://open.spotify.com/track/28SWsF1IQxfc9bP5yua35K) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Provocar](https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO) | 2:48 | 2022-04-29 |  |
 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 | 2022-04-29 |  |

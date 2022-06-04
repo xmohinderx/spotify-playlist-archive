@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Seven Lions.
 
-263 songs - 15 hr 44 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
+265 songs - 15 hr 51 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Back To Back](https://open.spotify.com/track/0hvKdjFlKowmHaAr6RJWBh) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [UBUR](https://open.spotify.com/artist/2m8lZUuPm2BLQ2c8gtIAV6), [Armanni Reign](https://open.spotify.com/artist/7eLk4SsrtZtCANV4X713uI) | [Back To Back](https://open.spotify.com/album/3Scp9GrDoeAKbNfvX8vVRM) | 2:53 | 2021-12-17 | 2022-02-19 |
 | [Back To The Top](https://open.spotify.com/track/5Jyk55gbmaRXAmcQyPvcFX) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Back To The Top](https://open.spotify.com/album/00lI4kcdbVJyX62fe1HHuw) | 3:18 | 2022-05-27 |  |
 | [Bad](https://open.spotify.com/track/3t7Zhr4y9osHilpdq6OHTQ) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Bad](https://open.spotify.com/album/5OEGVD1H1td8HGMBNS3EAW) | 3:31 | 2021-12-17 | 2022-03-12 |
+| [Badman](https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [Badman](https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT) | 4:33 | 2022-06-03 |  |
 | [Bang Harder](https://open.spotify.com/track/6TokZjKiCwAFSmA7pdWTaK) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Bang Harder](https://open.spotify.com/album/244J1SCEVhFlmilwONiEL4) | 2:44 | 2022-04-15 |  |
 | [Bastille](https://open.spotify.com/track/48S8uCvM4Oii7SJiVrhYh6) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [Bastille](https://open.spotify.com/album/2wQT8QMeqnfA3XTjbx0SH6) | 4:24 | 2022-02-18 |  |
 | [Better Without You](https://open.spotify.com/track/4YG0PU5Vz1niAxS8OM2Fii) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Better Without You](https://open.spotify.com/album/44xSYPvPXTzkT7kOdwDqYR) | 4:11 | 2021-12-17 | 2022-02-19 |
@@ -55,6 +56,7 @@
 | [demolition \(Ruined by Glass Petals\)](https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [demolition \(Ruined by Glass Petals\)](https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo) | 3:46 | 2021-12-17 | 2022-05-07 |
 | [Desecrate](https://open.spotify.com/track/570FKlNY5Rw3oBYObR90je) | [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL) | [Desecrate EP](https://open.spotify.com/album/3SGeq0w2IngcxPkj7adHVD) | 2:30 | 2021-12-17 | 2022-02-10 |
 | [Destiny](https://open.spotify.com/track/1Z6tfLB21XhdZZnS9xaBLs) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Destiny](https://open.spotify.com/album/2Z2FA1PG9oa7LpxBZRXGBm) | 4:28 | 2021-12-17 | 2022-03-12 |
+| [Dibby Dibby DJ](https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 2:31 | 2022-06-03 |  |
 | [Different Worlds](https://open.spotify.com/track/240IKl4yYUPjffy6x8Ym6z) | [Tripp St.](https://open.spotify.com/artist/6IuIhkCK8SjoSJskiCZdp0) | [Different Worlds](https://open.spotify.com/album/1pXRDHqHGVaVYyTIIvOq2g) | 3:25 | 2021-12-17 | 2022-02-18 |
 | [Dimension](https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Dimension](https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4) | 2:39 | 2022-03-18 |  |
 | [Do Over](https://open.spotify.com/track/5w2BeuJogvcGbSdc07DdJl) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV) | [Do Over](https://open.spotify.com/album/5BuOTw8w1ZefJ8j3qaQsgU) | 2:57 | 2022-02-18 |  |

@@ -4,10 +4,11 @@
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-72 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
+74 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Abismo](https://open.spotify.com/track/30yWCNCHDq8cepVoSfzS7i) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [Socorro \(Deluxe\)](https://open.spotify.com/album/5BShh2lxtKeMTCqbLs2M22) | 3:17 | 2022-06-03 |  |
 | [Abre a porta](https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Abre a porta](https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd) | 2:22 | 2022-03-07 |  |
 | [Amor e Amor](https://open.spotify.com/track/7ipamaL0uwje5dSNejTwPb) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Amor e Amor](https://open.spotify.com/album/3BnaBNbNVXpRv6sO1lpQIe) | 4:21 | 2022-03-07 |  |
 | [Amor Espacial](https://open.spotify.com/track/0wcUKYS8PIpaYIVsQZsmmf) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6) | [Amor Espacial](https://open.spotify.com/album/5XZhBHLbBp1xUwmz5A86rJ) | 3:43 | 2022-03-07 |  |
@@ -61,7 +62,7 @@
 | [O Que Você Faz](https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Que Você Faz](https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd) | 3:01 | 2022-03-07 |  |
 | [O Show Tem Que Continuar](https://open.spotify.com/track/6W3tS3wFIPNFj8Rz6T3tdx) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [O Show Tem Que Continuar](https://open.spotify.com/album/6fcG7akg1cJhlMgYCqfoRT) | 2:39 | 2022-03-07 |  |
 | [Outro Dia](https://open.spotify.com/track/1lTsRXDMWFbsFjQGkbL5TX) | [A Banca Records, Lourena, Azzy, Mazin, Black](https://open.spotify.com/artist/29Tpb9NIA4RIZ6knnYXGDR) | [Outro Dia](https://open.spotify.com/album/1o2PIIFg4d09qZDRGDNfdo) | 3:52 | 2022-03-07 |  |
-| [Paga pra Ver](https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD) | [Barretin](https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw) | [Paga pra Ver](https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8) | 2:12 | 2022-03-07 |  |
+| [Paga pra Ver](https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD) | [Barretin](https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw) | [Paga pra Ver](https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8) | 2:12 | 2022-03-07 | 2022-06-04 |
 | [Paradoxo Mítico](https://open.spotify.com/track/6DlsL19K0YdOzV3AEY1YWo) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/4sVXU4DLGhhzhOsevlh5Gk) | 3:39 | 2022-03-07 |  |
 | [Planos](https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Arit](https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 3:39 | 2022-03-07 |  |
 | [Privê](https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Privê](https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO) | 3:06 | 2022-03-07 |  |
@@ -77,7 +78,8 @@
 | [Te Amo Disgraça](https://open.spotify.com/track/5B4611SCn4puXahrf7rqkj) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Esú](https://open.spotify.com/album/11KgjDEaT1YjNUphDDTOzc) | 4:50 | 2022-03-07 |  |
 | [Te Observando](https://open.spotify.com/track/2gJT3axX6u8nekLSkkryZt) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Te Observando](https://open.spotify.com/album/0AqeHHrJOsFpMkqID7Iy4i) | 3:33 | 2022-03-07 |  |
 | [TIPO](https://open.spotify.com/track/78qClcxizF1otoEWRi2OBb) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx) | [Ladrão](https://open.spotify.com/album/2Qz6gIPZbP5rNiITj2aFjl) | 3:49 | 2022-03-07 |  |
-| [Vai Vai](https://open.spotify.com/track/6BGTyTmiKSUDnNcxJCAfh7) | [Celo Dut](https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV) | [Vai Vai](https://open.spotify.com/album/3iLJmhqL41TddX9Tij7UJs) | 2:18 | 2022-05-27 |  |
+| [Tipo VMZ](https://open.spotify.com/track/0ScgXvIRAfE7FuaqrM96cU) | [Naka mrl](https://open.spotify.com/artist/1FIxVemJI8prZLU2bo4Crk), [Will Bueno](https://open.spotify.com/artist/1F9BbGwGzfC9vzfOge3izB), [Sadzone](https://open.spotify.com/artist/0nvS15lDq1di8JKroZN4jV) | [Tipo VMZ](https://open.spotify.com/album/6QSoMChYrZTnslfMrMDdj8) | 2:11 | 2022-06-03 |  |
+| [Vai Vai](https://open.spotify.com/track/6BGTyTmiKSUDnNcxJCAfh7) | [Celo Dut](https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV) | [Vai Vai](https://open.spotify.com/album/3iLJmhqL41TddX9Tij7UJs) | 2:18 | 2022-05-27 | 2022-06-04 |
 | [Viciado 2.0](https://open.spotify.com/track/3fNOuAYr2W1EliK0KFFkJf) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [OWL](https://open.spotify.com/album/3xYT4lwBqrfi0W9s7BSYAS) | 2:53 | 2022-04-29 |  |
 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 | 2022-03-07 |  |
 

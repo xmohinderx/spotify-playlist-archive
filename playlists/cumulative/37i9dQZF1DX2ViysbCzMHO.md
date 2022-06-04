@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-152 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+153 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [She's Mine \(Acoustic\)](https://open.spotify.com/track/1hFQtqqucaLg96GiK4zQLI) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [She's Mine \(Acoustic\)](https://open.spotify.com/album/4Xb4L0bd5tEFwDMjoK1nwQ) | 3:09 | 2021-12-17 |  |
 | [Simple Things \- Piano Version](https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Simple Things \(Piano Version\)](https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz) | 3:06 | 2021-12-17 |  |
 | [Slow Dance In A Parking Lot \- Acoustic](https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Slow Dance In A Parking Lot \(Acoustic\)](https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo) | 2:58 | 2021-12-17 |  |
-| [Slower \(Acoustic\)](https://open.spotify.com/track/7sNR6KGuw8OXs6nNeiHxjq) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Slower \(Acoustic\)](https://open.spotify.com/album/2dp3XAdUdbzZ39jyfeLn8n) | 2:50 | 2021-12-17 |  |
+| [Slower \(Acoustic\)](https://open.spotify.com/track/7sNR6KGuw8OXs6nNeiHxjq) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Slower \(Acoustic\)](https://open.spotify.com/album/2dp3XAdUdbzZ39jyfeLn8n) | 2:50 | 2021-12-17 | 2022-06-04 |
 | [Sober & Skinny](https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sober & Skinny](https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0) | 3:18 | 2021-12-17 |  |
 | [Some Girls \- Acoustic](https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Some Girls \(Acoustic\)](https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz) | 3:11 | 2021-12-17 |  |
 | [Some Summers Never End](https://open.spotify.com/track/4HS53HbN380PhcTsb9Yitg) | [Radio Romance](https://open.spotify.com/artist/3zpay2Ds6IoLxC70N1H1vW) | [Some Summers Never End](https://open.spotify.com/album/13bcxmKc5RHriqLRGdAYYG) | 4:02 | 2021-12-17 | 2022-04-16 |
@@ -130,6 +130,7 @@
 | [Sunrise Tells The Story \- Acoustic](https://open.spotify.com/track/4IXILY7BOCehZjc5axsn1C) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story \(Acoustic\)](https://open.spotify.com/album/5jrgfI0K2Z8jllFP84V40z) | 3:25 | 2022-01-14 |  |
 | [Take My Name \- Wedding Version](https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Take My Name \(Wedding Version\)](https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z) | 2:54 | 2022-05-20 |  |
 | [Tell You Everything \- Not Put Together](https://open.spotify.com/track/3cbc8QVHpx4gSHAXNbXPRc) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [The I’m Not Always Put Together EP](https://open.spotify.com/album/4cCjYpkMsvEVpw5kLBlugQ) | 3:08 | 2022-01-07 |  |
+| [Thank God We Broke Up \- Acoustic](https://open.spotify.com/track/3RJIISr228jsDUnhEDRp5S) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Thank God We Broke Up \(Acoustic\)](https://open.spotify.com/album/2X2MMSk8fG4LRmEKy4dyNp) | 2:35 | 2022-06-03 |  |
 | [Thank You Card \- Acoustic](https://open.spotify.com/track/7CJUFgc3I0kfsYVxIPQwVo) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Thank You Card \(Acoustic\)](https://open.spotify.com/album/79hs6GLFL7XrCHuMWjNLEb) | 3:07 | 2022-03-25 |  |
 | [The Bullet \- Acoustic Version](https://open.spotify.com/track/6h8eR0E639sq08smLG7SYb) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ), [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [The Bullet \(Acoustic Version\)](https://open.spotify.com/album/6yrE8ZQkXM0h8Xhy9MKEpT) | 3:21 | 2022-01-21 |  |
 | [The Cowboy In Me \- Yellowstone Edition](https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [The Cowboy In Me \(Yellowstone Edition\)](https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR) | 3:37 | 2021-12-17 |  |

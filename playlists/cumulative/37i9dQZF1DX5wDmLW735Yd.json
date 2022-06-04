@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Watch The Ride & Nia Archives",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Alcemist + Coco + DnB Allstars",
   "name": "Massive Drum & Bass",
   "published_playlist_ids": [
     "5ouec8j4Own6wmunVKxeH3"
@@ -75,6 +75,32 @@
       "duration_ms": 168457,
       "name": "All 4 U",
       "url": "https://open.spotify.com/track/2mPeYGo1y7vwkz6vU5dVbI"
+    },
+    {
+      "album": {
+        "name": "Allstars MIC (feat. DnB Allstars)",
+        "url": "https://open.spotify.com/album/5HTD3yCkiyvuMKzSc5vOL3"
+      },
+      "artists": [
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+        },
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "DnB Allstars",
+          "url": "https://open.spotify.com/artist/6BZteNwG1mxgEFJvBaAGLx"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135771,
+      "name": "Allstars MIC (feat. DnB Allstars)",
+      "url": "https://open.spotify.com/track/0FeFdREOOdb8ihdWXn5RZH"
     },
     {
       "album": {
@@ -251,7 +277,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 255172,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/2nQyEHecmmt0WE43mOsScr"
@@ -647,7 +673,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 226046,
       "name": "Change",
       "url": "https://open.spotify.com/track/71VtkrwSJ5cCz3vlTpnYza"
@@ -943,7 +969,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 319620,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/474XwXdXLuQRxXxLRVr1YP"
@@ -1291,7 +1317,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 203669,
       "name": "Foreign Things - High Contrast Remix",
       "url": "https://open.spotify.com/track/7bFQIe9eSrg3iQlwjmoTcY"
@@ -1335,7 +1361,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 192000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1kP8aDUnowfDgH1y1xLNVf"
@@ -1495,7 +1521,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 204137,
       "name": "Gone Sleep",
       "url": "https://open.spotify.com/track/5T7OpBrCobyQSQQpcFF33j"
@@ -1681,7 +1707,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 270171,
       "name": "Higher",
       "url": "https://open.spotify.com/track/5qDvsmyX6iK5QId4pNePB1"
@@ -2061,7 +2087,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 246896,
       "name": "Long as You Can",
       "url": "https://open.spotify.com/track/4DP59Vpv73jNlpGiWOV8m8"
@@ -2127,7 +2153,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 235000,
       "name": "Louder Than Words",
       "url": "https://open.spotify.com/track/3AXmSZIHOho1ylePzcTBto"
@@ -2149,7 +2175,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 251134,
       "name": "Love Drunk",
       "url": "https://open.spotify.com/track/0fpSLtAZyzwz8e57jjZme6"
@@ -2295,7 +2321,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 291655,
       "name": "Music Is Everything - Pola & Bryson Remix",
       "url": "https://open.spotify.com/track/75Ei2KoBHbJxQLv0RcGYOM"
@@ -2321,7 +2347,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 188813,
       "name": "Never Let You Down (feat. Penny Ivy)",
       "url": "https://open.spotify.com/track/21Wm6Hm4dkYb7NKUMr4T8G"
@@ -2545,7 +2571,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 312685,
       "name": "Overture",
       "url": "https://open.spotify.com/track/4AjiA5HkJVy59369f0Jjlk"
@@ -2567,7 +2593,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 198620,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0yqU5tPByI1uLX5vIB7XO7"
@@ -2637,7 +2663,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 257259,
       "name": "Radiate",
       "url": "https://open.spotify.com/track/7ml9LpCXsH88Ez1mJnFzTg"
@@ -2911,7 +2937,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 240344,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/6ea7W4icINIl04UyRG2YLk"
@@ -2991,7 +3017,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 226259,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/0f16GKHRLEklrzdlG4EpV7"
@@ -3291,7 +3317,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 235000,
       "name": "Stan Smith",
       "url": "https://open.spotify.com/track/6brzImyRC7tYwWKIvumozI"
@@ -3455,7 +3481,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 213793,
       "name": "Sweet Music",
       "url": "https://open.spotify.com/track/02vLJCXHFoncAydzqqXnOp"
@@ -3473,7 +3499,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 226895,
       "name": "Take It Away",
       "url": "https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq"
@@ -3767,7 +3793,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 159942,
       "name": "Unshakeable",
       "url": "https://open.spotify.com/track/5rcqDubyKKsGpX80PKEpNl"
@@ -3891,7 +3917,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 226916,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
@@ -3961,7 +3987,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 250101,
       "name": "Want U There - Logistics Remix",
       "url": "https://open.spotify.com/track/7xzfAzZ2jOf7XNOt85D4py"
@@ -3983,7 +4009,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 204214,
       "name": "Waveline",
       "url": "https://open.spotify.com/track/1LLspq9VAcSAfuaitaDZhm"
@@ -4165,7 +4191,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 326750,
       "name": "Yeah Ya Kno",
       "url": "https://open.spotify.com/track/45xYxgfapnCZ1aacoxE73b"

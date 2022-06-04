@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Sara James
 
-470 songs - 1 day 1 hr 48 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+471 songs - 1 day 1 hr 51 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Esta Noche](https://open.spotify.com/track/3ZPbwLRggZ9JneiD5Rmvzc) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Esta Noche](https://open.spotify.com/album/0E9a76DH1w2WuSwdu6Be9E) | 2:15 | 2022-04-06 | 2022-05-05 |
 | [Está Cabrón](https://open.spotify.com/track/4MDNY9gZdhmk6YEjslxhgI) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [Putilandia](https://open.spotify.com/album/1vKI3h0ERKvGgZqP3dsBNa) | 3:13 | 2022-04-06 | 2022-05-05 |
 | [Et Bam](https://open.spotify.com/track/3qYfcGBdH6Nqe18QTGgfXz) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8) | 3:39 | 2022-01-05 | 2022-02-03 |
+| [Etoile noire](https://open.spotify.com/track/7D8lO8l8QLSKahYnuKK9ls) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:17 | 2022-06-01 |  |
 | [Eva+Eva \(feat\. Rose Villain\)](https://open.spotify.com/track/471zaA6Hax2HkKJTfR4yE1) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Eva+Eva \(feat\. Rose Villain\)](https://open.spotify.com/album/7JAbbByzQ8jd8QPXlJlnfX) | 3:09 | 2022-01-05 | 2022-02-03 |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 | 2022-03-08 | 2022-04-07 |
 | [ex's hate me, Pt\. 2](https://open.spotify.com/track/0Rx4GFPy8ISxPhRwkjl64b) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 3:36 | 2022-02-02 | 2022-03-09 |
@@ -235,7 +236,7 @@
 | [Mehabooba](https://open.spotify.com/track/4hcIkSjuNMYd2bREG38xgH) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [KGF Chapter 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qOmNuXm9SoGIaTb6px0j1) | 3:33 | 2022-06-01 |  |
 | [Meisjes Van Honing](https://open.spotify.com/track/66dGbMxzOVbhv2CwnfA3MJ) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Meisjes Van Honing](https://open.spotify.com/album/3UObXg8uHcVOWPH5nM523V) | 3:06 | 2021-12-11 | 2022-01-06 |
 | [Mera Yaar](https://open.spotify.com/track/64jOyhiu4UPPnkSbG0t489) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Mera Yaar](https://open.spotify.com/album/3d01wHpz2Wvm9sJ1qwZGG2) | 3:12 | 2021-12-11 | 2022-01-06 |
-| [Mesero](https://open.spotify.com/track/21CrqHsZwx6RJKShoYOvJf) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mesero](https://open.spotify.com/album/3xM0T3G0a4aQI0HUHnmZ79) | 2:20 | 2022-06-01 |  |
+| [Mesero](https://open.spotify.com/track/21CrqHsZwx6RJKShoYOvJf) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mesero](https://open.spotify.com/album/3xM0T3G0a4aQI0HUHnmZ79) | 2:20 | 2022-06-01 | 2022-06-04 |
 | [Meu Guri](https://open.spotify.com/track/7v55rfDU0GdYkfcqGF77ks) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Meu Guri](https://open.spotify.com/album/7DDRi1Dqg5EdB5pZgHc9zR) | 3:04 | 2022-05-04 | 2022-06-01 |
 | [Mienteme](https://open.spotify.com/track/1FRXYqJfNWcNCsuvsAPtHa) | [Katie Angel](https://open.spotify.com/artist/0yLrby88zlSxFax5EMnTGf) | [Game Over](https://open.spotify.com/album/1WI4WQY8cAYwofWkmqyZm9) | 2:24 | 2022-02-02 | 2022-03-09 |
 | [Mine O' Mine](https://open.spotify.com/track/5zyxYOyV7Bt4srefSOfJN8) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/23NpTRdC0H3XJbRoVZ7ZHB) | 3:13 | 2022-06-01 |  |

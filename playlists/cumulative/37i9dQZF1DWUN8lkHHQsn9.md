@@ -4,7 +4,7 @@
 
 > Posłuchaj głosu polskich artystów LGBTQ+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: Shady Lady
 
-68 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/5XlG8Doc1gwzAGNsy2t9Pq)
+69 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/5XlG8Doc1gwzAGNsy2t9Pq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Ikarius](https://open.spotify.com/track/7wPHioxNnxMLopWg6TYOKR) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Ikarius](https://open.spotify.com/album/60rkXmk61sVrD3MVq2fqxS) | 3:20 | 2021-06-22 | 2022-06-01 |
 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 | 2022-06-01 |  |
 | [JOY](https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [JOY](https://open.spotify.com/album/4rYwfcRtfdG95A0kBVH9Oj) | 5:59 | 2021-06-22 |  |
+| [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 | 2022-06-03 |  |
 | [KOŁYSANKA](https://open.spotify.com/track/2kmLfIZzgWmizrH7RRpWEG) | [RUSKIEFAJKI](https://open.spotify.com/artist/5YRNJ1S5R6pJIeb7PHkyna), [Kartky](https://open.spotify.com/artist/7mC8Nb2rN3hM0v0bpxaMzL) | [GEJSZA](https://open.spotify.com/album/6KsYGi1glRMS3AsAvSAJNl) | 3:37 | 2022-06-01 |  |
 | [Krzykiem](https://open.spotify.com/track/0Ca5dBpD3Ga8FUrceVDcLq) | [Caville](https://open.spotify.com/artist/3K6TVqpz0sfuRtKVo6tYBZ) | [Krzykiem](https://open.spotify.com/album/1vy7FZQzS62O06E6emhVyk) | 3:37 | 2021-06-22 | 2022-06-01 |
 | [Lont](https://open.spotify.com/track/0MoOrK9oPDCDhj3qz0iIR5) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Lont](https://open.spotify.com/album/59UAE7TDoS7iiBqiIa6LmX) | 3:48 | 2022-06-01 |  |
@@ -58,7 +59,7 @@
 | [Red Flag](https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Red Flag](https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u) | 2:48 | 2022-06-01 |  |
 | [Rojava](https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Rojava](https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L) | 4:27 | 2022-06-01 |  |
 | [Ręce w udręce](https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Dla nas dom](https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf) | 4:10 | 2021-06-22 |  |
-| [San Marino](https://open.spotify.com/track/0S7mUSGHPGmzHvFraY4X9B) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [San Marino](https://open.spotify.com/album/2G9kR3HTdrhZ62yI7WVsFQ) | 2:48 | 2022-06-01 |  |
+| [San Marino](https://open.spotify.com/track/0S7mUSGHPGmzHvFraY4X9B) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [San Marino](https://open.spotify.com/album/2G9kR3HTdrhZ62yI7WVsFQ) | 2:48 | 2022-06-01 | 2022-06-04 |
 | [Sen](https://open.spotify.com/track/0LEPsgHnSSUtMxNDY03GGa) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Who the F\*\*\* is Dawid Grzelak?](https://open.spotify.com/album/38qGUVS5YFVqArJRocg0b4) | 4:40 | 2021-06-22 | 2022-06-01 |
 | [Stalker](https://open.spotify.com/track/3BdtOK2oTUSLcwgHAQ6aIi) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Stalker](https://open.spotify.com/album/6EPLw3UyM9oCzbBatzdWkz) | 3:30 | 2021-06-22 | 2022-06-01 |
 | [Stalker](https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Shyness!](https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto) | 3:30 | 2022-06-01 |  |

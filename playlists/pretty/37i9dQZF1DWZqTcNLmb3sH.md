@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,919 likes - 91 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,031 likes - 91 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

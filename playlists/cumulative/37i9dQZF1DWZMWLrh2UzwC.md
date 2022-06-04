@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: NIKI
 
-1,908 songs - 4 day 8 hr 26 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
+1,909 songs - 4 day 8 hr 30 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,6 +682,7 @@
 | [Hanging On](https://open.spotify.com/track/4Bk9XgBiO13Ba3mRjXBq0Z) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [The Silence in Between](https://open.spotify.com/album/0qC7OBo3dCONK0fgHbySdU) | 3:55 | 2022-03-03 | 2022-03-11 |
 | [Hanging Out with All the Wrong People](https://open.spotify.com/track/3sHlpMbDjgGPedrNnBd5Xb) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Crisis of Faith](https://open.spotify.com/album/5SHCyDKUS2SWdR9FJlRFvN) | 3:46 | 2022-01-20 | 2022-01-28 |
 | [Happier in Hell](https://open.spotify.com/track/10f37GwVRBjLor95DnQuwo) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happier in Hell](https://open.spotify.com/album/4eVkcMh1PhQIbLYrkjoBvn) | 2:53 | 2022-04-07 | 2022-04-15 |
+| [Happy Birthday](https://open.spotify.com/track/0fElururinZektfZMpFFdN) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Happy Birthday](https://open.spotify.com/album/4ATg7M4n35AokS3748RFFO) | 3:54 | 2022-06-02 |  |
 | [Happy Birthday](https://open.spotify.com/track/6LSXEnRRdbEN4IbRTOBQDP) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Happy Birthday](https://open.spotify.com/album/53boDLnPMdarcMa8JAD0DG) | 3:11 | 2022-05-26 | 2022-06-03 |
 | [Happy Birthday To You](https://open.spotify.com/track/1061gO0IGQ3NTkVqiEKsyj) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Happy Birthday To You](https://open.spotify.com/album/4DHCtUBWdE9IIiKjSSouI8) | 2:19 | 2022-04-14 | 2022-04-22 |
 | [Happy Christmas My Dear](https://open.spotify.com/track/3z0GfQCW7MAyoqfGbuymvD) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Happy Christmas My Dear](https://open.spotify.com/album/3CxBiwmyE6h2lMGevQqXNV) | 2:54 | 2021-12-23 | 2021-12-31 |

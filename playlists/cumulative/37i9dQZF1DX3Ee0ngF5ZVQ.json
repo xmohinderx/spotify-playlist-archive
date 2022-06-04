@@ -134,6 +134,28 @@
     },
     {
       "album": {
+        "name": "A Song Can't Fix Everything (feat. Paul Cauthen)",
+        "url": "https://open.spotify.com/album/6Pkjx1PBynwE3VzKXLbDgg"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        },
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227226,
+      "name": "A Song Can't Fix Everything (feat. Paul Cauthen)",
+      "url": "https://open.spotify.com/track/77nza5LdjuD35bjguHP0le"
+    },
+    {
+      "album": {
         "name": "Accidents",
         "url": "https://open.spotify.com/album/3x7823xnyS1GX9n8GEtVRx"
       },
@@ -1100,6 +1122,28 @@
     },
     {
       "album": {
+        "name": "Cold Beer Time",
+        "url": "https://open.spotify.com/album/3LFp3s7t5JLAqP2jnJ0FhP"
+      },
+      "artists": [
+        {
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+        },
+        {
+          "name": "Jenee Fleenor",
+          "url": "https://open.spotify.com/artist/1XpgQ1ihWLqiWuH7GioYd9"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197401,
+      "name": "Cold Beer Time",
+      "url": "https://open.spotify.com/track/0LhOghHV90jLGJIwnRPT8x"
+    },
+    {
+      "album": {
         "name": "Come and Take It",
         "url": "https://open.spotify.com/album/6cwdWlBUgSWGVRho3ZqWx3"
       },
@@ -1541,6 +1585,24 @@
       "duration_ms": 216751,
       "name": "Even If My Wheels Fall Off",
       "url": "https://open.spotify.com/track/6346eATna5w8XOQy6dJSfJ"
+    },
+    {
+      "album": {
+        "name": "Everything Has Your Memory",
+        "url": "https://open.spotify.com/album/26z3oFclQMKjKXn686cATB"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225800,
+      "name": "Everything Has Your Memory",
+      "url": "https://open.spotify.com/track/0KYC7enraB6AVZ5k7cdfKk"
     },
     {
       "album": {
@@ -2350,6 +2412,24 @@
     },
     {
       "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285525,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy"
+    },
+    {
+      "album": {
         "name": "I Can't Even Drink Straight",
         "url": "https://open.spotify.com/album/3HAnMO7pzNRKMuTU2U99VD"
       },
@@ -2812,6 +2892,24 @@
     },
     {
       "album": {
+        "name": "Livin' Like This",
+        "url": "https://open.spotify.com/album/26XfDbVRwETxRhziXChzdC"
+      },
+      "artists": [
+        {
+          "name": "Chris Colston",
+          "url": "https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183624,
+      "name": "Livin' Like This",
+      "url": "https://open.spotify.com/track/39k6k6fJmP1PSU6crfVuyl"
+    },
+    {
+      "album": {
         "name": "Long Gone",
         "url": "https://open.spotify.com/album/6yXet43BmB7VaNsNop2X2F"
       },
@@ -2953,6 +3051,24 @@
       "duration_ms": 203580,
       "name": "Love Goes",
       "url": "https://open.spotify.com/track/6AlLssdGnCKgXtJTCmdZB5"
+    },
+    {
+      "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/7EKy3gRfGX6iEaQmrZUirP"
+      },
+      "artists": [
+        {
+          "name": "Palmer Anthony",
+          "url": "https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199296,
+      "name": "Love Me Forever",
+      "url": "https://open.spotify.com/track/2fH6pITIMsKT763RWFLEXF"
     },
     {
       "album": {
@@ -3998,6 +4114,24 @@
     },
     {
       "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/2usrETNCWm7wx56mNkQ168"
+      },
+      "artists": [
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227360,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/3o0MDTv8SNnkbX09k7Ae8R"
+    },
+    {
+      "album": {
         "name": "Sticks and Stones",
         "url": "https://open.spotify.com/album/5ZkeHDmi5q2FBdQfcsZClF"
       },
@@ -4165,6 +4299,24 @@
       "duration_ms": 228352,
       "name": "Sweet Irene",
       "url": "https://open.spotify.com/track/1E8oXata1MPMC78MAPWyLS"
+    },
+    {
+      "album": {
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Tell Me It Is",
+      "url": "https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj"
     },
     {
       "album": {

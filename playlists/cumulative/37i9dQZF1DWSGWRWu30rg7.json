@@ -9496,6 +9496,24 @@
     },
     {
       "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/5uFEcyolJagiIVLRVPZFat"
+      },
+      "artists": [
+        {
+          "name": "Chairia",
+          "url": "https://open.spotify.com/artist/1f7fbIE0jO9dDldozZ3Gps"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213992,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/1dgKQaLvYQSp0b9u8CAH7O"
+    },
+    {
+      "album": {
         "name": "remember when",
         "url": "https://open.spotify.com/album/3gYTQ45u6GAA4jUP7xGtT2"
       },
@@ -10063,6 +10081,28 @@
       "duration_ms": 220513,
       "name": "Sarwa Merah Muda",
       "url": "https://open.spotify.com/track/4hzPUuVrhQyNxASdBMDLdf"
+    },
+    {
+      "album": {
+        "name": "Satu Tahun Cahaya",
+        "url": "https://open.spotify.com/album/4AzsnehZMJ8FAYkFZk26aO"
+      },
+      "artists": [
+        {
+          "name": "Suara Lima",
+          "url": "https://open.spotify.com/artist/3b20SopLWIzoAeE3WW4QDA"
+        },
+        {
+          "name": "Carla Vania",
+          "url": "https://open.spotify.com/artist/1DApabURVjotLcHbWka1S2"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258230,
+      "name": "Satu Tahun Cahaya",
+      "url": "https://open.spotify.com/track/5alx827A7lvvJ0HSwca6gd"
     },
     {
       "album": {

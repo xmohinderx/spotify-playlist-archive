@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Banda Peque\u00f1os Musical. The essential tracks, all in one playlist.",
   "name": "This Is Banda Peque\u00f1os Musical",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "30uI2gYAvX6tKERzCH9fFc"
+  ],
   "tracks": [
     {
       "album": {
@@ -46,6 +48,24 @@
     },
     {
       "album": {
+        "name": "No Te Pedir\u00e9 Perd\u00f3n",
+        "url": "https://open.spotify.com/album/007n6PgM8fVRXBPbxw8dmh"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193867,
+      "name": "Amor Compartido",
+      "url": "https://open.spotify.com/track/0pyuUsxcuBPBEw6x8pAiXt"
+    },
+    {
+      "album": {
         "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
       },
@@ -83,6 +103,24 @@
       "duration_ms": 190856,
       "name": "Bola de Cristal",
       "url": "https://open.spotify.com/track/4pyyICMmeUBNxFQFEZDlni"
+    },
+    {
+      "album": {
+        "name": "En grande",
+        "url": "https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142106,
+      "name": "Chiquilina",
+      "url": "https://open.spotify.com/track/3DiBjgOxP26LVm9BcosS7P"
     },
     {
       "album": {
@@ -205,7 +243,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 225173,
       "name": "El retrato de mam\u00e1",
       "url": "https://open.spotify.com/track/2L8uzQnGf2UUWeKHPbsv8F"
@@ -223,7 +261,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 175400,
       "name": "Eso no, no, no",
       "url": "https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om"

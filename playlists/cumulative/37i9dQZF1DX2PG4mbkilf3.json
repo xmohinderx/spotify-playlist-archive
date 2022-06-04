@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura. Cover: Emanuel",
+  "description": "This is R&B in Canada, elevate your aura. Cover: Skiifall",
   "name": "Mood Ring",
   "published_playlist_ids": [
     "5Scr3kl4jdyMwylCsvsI3D"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 153403,
       "name": "ARENA Y MAR",
       "url": "https://open.spotify.com/track/5j42bMuCeQHfQHC61QZEDO"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 180563,
       "name": "Attention",
       "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 187951,
       "name": "Benchmark",
       "url": "https://open.spotify.com/track/17Ct6PmsR5laPdylW8cRms"
@@ -323,6 +323,24 @@
       "duration_ms": 163691,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/2CZjjlYWasiqbCOors8pAC"
+    },
+    {
+      "album": {
+        "name": "bloodclarrt business - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4zn2LKXzRBh4CSpbq1v1Y5"
+      },
+      "artists": [
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148615,
+      "name": "bloodclarrt business - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3BVfeLF80yhuMTSB7rN24w"
     },
     {
       "album": {
@@ -782,6 +800,24 @@
     },
     {
       "album": {
+        "name": "Don't Walk Away",
+        "url": "https://open.spotify.com/album/6pjgZeaZ44JQ7fkRCODDHh"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142269,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/52CFxHZxBbiZ1l9eTFpFxJ"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Care",
         "url": "https://open.spotify.com/album/357Hn4FjCTrrhwY0rohrol"
       },
@@ -1055,6 +1091,24 @@
       "duration_ms": 233195,
       "name": "Favours",
       "url": "https://open.spotify.com/track/4r3KSUUR5ISWWCjr2wEdRL"
+    },
+    {
+      "album": {
+        "name": "Waves Of Love Vol 2",
+        "url": "https://open.spotify.com/album/0nF6Edna9j21yUmCqAHotI"
+      },
+      "artists": [
+        {
+          "name": "Kennedy Rd.",
+          "url": "https://open.spotify.com/artist/1ZtRTibAPAEbO8iydpyzWu"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243750,
+      "name": "Feel Everything",
+      "url": "https://open.spotify.com/track/3cXOJWxmfKenN3fvpRMhS6"
     },
     {
       "album": {
@@ -1488,6 +1542,24 @@
     },
     {
       "album": {
+        "name": "High Love",
+        "url": "https://open.spotify.com/album/3zejMcwsnBD93chmhV0bfI"
+      },
+      "artists": [
+        {
+          "name": "Makadi",
+          "url": "https://open.spotify.com/artist/1rEQ6P5WQcRxmHkH9d43Ld"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238064,
+      "name": "High Love",
+      "url": "https://open.spotify.com/track/4kGNRJ1yFiYAbPuUADhigH"
+    },
+    {
+      "album": {
         "name": "High with Me",
         "url": "https://open.spotify.com/album/3u9oXr7VWoLd9eTllucHHd"
       },
@@ -1587,7 +1659,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 187625,
       "name": "Hola",
       "url": "https://open.spotify.com/track/6pAhpSpxJ7HKNv24rTL8vb"
@@ -1609,7 +1681,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 201153,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/3xEnD1OBAP2AyGIwmzyNPI"
@@ -2113,7 +2185,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 159810,
       "name": "Lajan",
       "url": "https://open.spotify.com/track/1xH4bzkXRMsLJ3OyYflr0w"
@@ -2193,6 +2265,24 @@
       "duration_ms": 199008,
       "name": "Let's Be Dead Together",
       "url": "https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV"
+    },
+    {
+      "album": {
+        "name": "LIFE LINE",
+        "url": "https://open.spotify.com/album/0047wQlw6eUsYhOoNmWQa6"
+      },
+      "artists": [
+        {
+          "name": "MANILA GREY",
+          "url": "https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197860,
+      "name": "LIFE LINE",
+      "url": "https://open.spotify.com/track/7EN2BcGqnFQnWe4tPOGAJN"
     },
     {
       "album": {
@@ -2345,7 +2435,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 207546,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
@@ -2651,7 +2741,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 173098,
       "name": "Na Pa Ti (feat. Kofi)",
       "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
@@ -2727,7 +2817,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 190111,
       "name": "No Fuss",
       "url": "https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl"
@@ -2865,7 +2955,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 152842,
       "name": "Ogwula",
       "url": "https://open.spotify.com/track/3cfuJGjmekuoJzyIbPSZTE"
@@ -2982,6 +3072,24 @@
     },
     {
       "album": {
+        "name": "ON VENUS",
+        "url": "https://open.spotify.com/album/5PI4hnyqYDTyTTlwDLqvVA"
+      },
+      "artists": [
+        {
+          "name": "NADUH",
+          "url": "https://open.spotify.com/artist/5voTUw1S7gRACJXVp3slwh"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219672,
+      "name": "ON VENUS",
+      "url": "https://open.spotify.com/track/3y5DngFE3QJEc6TSuW0hSv"
+    },
+    {
+      "album": {
         "name": "One Plus One",
         "url": "https://open.spotify.com/album/10gGLGbjwOaOwGnDPN6RV2"
       },
@@ -3015,6 +3123,24 @@
       "duration_ms": 306059,
       "name": "Only With Time",
       "url": "https://open.spotify.com/track/0xTZ5PCUersxLyUiLgNp2U"
+    },
+    {
+      "album": {
+        "name": "Only With Time - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2m68gpBt70o4bo4NJxkl78"
+      },
+      "artists": [
+        {
+          "name": "Adria Kain",
+          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304411,
+      "name": "Only With Time - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/17fEBNv11IqWe4O9592GvU"
     },
     {
       "album": {
@@ -3510,6 +3636,28 @@
     },
     {
       "album": {
+        "name": "Risking It All",
+        "url": "https://open.spotify.com/album/4ZeKP8mcR8tkpiKcIqIgeB"
+      },
+      "artists": [
+        {
+          "name": "Romeyo Wilson",
+          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
+        },
+        {
+          "name": "Kiki Rowe",
+          "url": "https://open.spotify.com/artist/3FHeKI9kIuqPffmhyrcHuP"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Risking It All",
+      "url": "https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN"
+    },
+    {
+      "album": {
         "name": "Same Old Mistake",
         "url": "https://open.spotify.com/album/6vjaaocW1oiMF3DYwV0CRQ"
       },
@@ -3880,6 +4028,28 @@
     },
     {
       "album": {
+        "name": "Sucr\u00e9",
+        "url": "https://open.spotify.com/album/6zt4y1B8i4TnSvxtcXrEwY"
+      },
+      "artists": [
+        {
+          "name": "noiir",
+          "url": "https://open.spotify.com/artist/4fajmnCbACvqKxvd2jXyxz"
+        },
+        {
+          "name": "Juic3Boy",
+          "url": "https://open.spotify.com/artist/5wb69ju4N9tnD2Po57xNs5"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156664,
+      "name": "Sucr\u00e9",
+      "url": "https://open.spotify.com/track/1nPqHhpCGBVj9FE7m7zgiy"
+    },
+    {
+      "album": {
         "name": "ALIEN",
         "url": "https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv"
       },
@@ -4153,6 +4323,32 @@
       "duration_ms": 172173,
       "name": "Too Deep",
       "url": "https://open.spotify.com/track/3qOYmmCabW28q5QQJvac42"
+    },
+    {
+      "album": {
+        "name": "Too Hot (Maxi Single)",
+        "url": "https://open.spotify.com/album/69GtT9BY795ZqWrKnSbY2d"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "!llmind",
+          "url": "https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179013,
+      "name": "Too Hot (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/51XLYXUO7WaEsXf9sUHt6a"
     },
     {
       "album": {

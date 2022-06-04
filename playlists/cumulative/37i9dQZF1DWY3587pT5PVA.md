@@ -4,7 +4,7 @@
 
 > Your favorite songs from Netflix movie musicals all in one playlist.
 
-29 songs - 1 hr 24 min - not published yet
+29 songs - 1 hr 24 min - [published](https://open.spotify.com/playlist/1ZDaUf6YIkjsIdmZKcFPrx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

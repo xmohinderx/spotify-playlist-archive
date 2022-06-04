@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Phoenix
 
-354 songs - 21 hr 1 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+355 songs - 21 hr 6 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Good News](https://open.spotify.com/track/1yxfzybmAemgfZfBXMly2v) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc), [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Familiarise Yourself with Your Closest Exit](https://open.spotify.com/album/3o4Z0ilAUhqBdqby9lJftF) | 4:05 | 2022-03-10 | 2022-04-23 |
 | [Grow Old](https://open.spotify.com/track/5gqGkNBmDIEhEPAlCIkZVf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Grow Old](https://open.spotify.com/album/7Lj9tkBDBjhXURrWanx2Xb) | 3:04 | 2021-12-16 | 2022-01-29 |
 | [Guess I'll Leave](https://open.spotify.com/track/49bCaCAiNNtJUgkfUjKKOt) | [Funny Death](https://open.spotify.com/artist/0eNACJMzyrU7OO31POSvIV) | [Funny Death](https://open.spotify.com/album/3Z7tXmTbhWS7JrPMqFcVT6) | 4:26 | 2022-01-13 | 2022-03-11 |
+| [Guitar Song \- Demo](https://open.spotify.com/track/70A6C2nGJM45ZHKScagcsm) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [Guitar Song \(Demo\)](https://open.spotify.com/album/0sOti4y2vOKs2nqZAMUFWW) | 5:09 | 2022-06-03 |  |
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-04-07 | 2022-05-21 |
 | [Headache](https://open.spotify.com/track/02tlmMFNIOIu07eEZymNsN) | [Asahi](https://open.spotify.com/artist/05pDmDKsBRuMprwAqAgxXw) | [Headache](https://open.spotify.com/album/7rMboYblSqzm1t5n3mrRFf) | 3:13 | 2022-01-20 | 2022-02-18 |
 | [Heartbreak](https://open.spotify.com/track/1ERMgnNgM2oWcmG2ZVuLx5) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Heartbreak](https://open.spotify.com/album/1I6INBRN8GU7VecaGJeaLk) | 3:06 | 2021-12-16 | 2021-12-31 |

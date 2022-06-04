@@ -4,7 +4,7 @@
 
 > Certi amori bruciano più di altri\. Cover: Gemitaiz
 
-64 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/0ub8fLPq50x7iJHKg2Rrfv)
+65 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/0ub8fLPq50x7iJHKg2Rrfv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Brivido](https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Bravo Ragazzo \(Royal Edition\)](https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW) | 3:47 | 2022-05-03 |  |
 | [Bugie Diverse](https://open.spotify.com/track/5F5vop7HZv4BjauPiUYY7R) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Bugie Diverse](https://open.spotify.com/album/4TMLaBQUFGzS7lfdJVs8bi) | 3:20 | 2022-05-03 |  |
 | [Caffè](https://open.spotify.com/track/4V5gmy8imyB0TJwdIYuGRv) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Caffè](https://open.spotify.com/album/3NdDhj6QzpL3PB61C9i7m7) | 3:09 | 2022-05-03 |  |
+| [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 | 2022-06-03 |  |
 | [Cenere](https://open.spotify.com/track/45xyKCey4BM3fMeFEsF1Hp) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Cenere](https://open.spotify.com/album/1lrhX79POrz4wSmgD4aeGg) | 2:50 | 2022-05-03 |  |
 | [Centro \(feat\. Coez\)](https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Back Home](https://open.spotify.com/album/5b64UDoCcx1v1MSeAAz5We) | 3:04 | 2022-05-03 |  |
 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 | 2022-05-03 |  |
@@ -29,7 +30,7 @@
 | [CRAZY LOVE](https://open.spotify.com/track/3HYK8FMGNQu1Whl8DdtsRC) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:12 | 2022-05-03 |  |
 | [CRUDELIA \- I nervi](https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:50 | 2022-05-03 |  |
 | [Diamanti \(feat\. Heartman & VillaBanks\) \- Remix](https://open.spotify.com/track/2XhvzUs8rnF71FBadXRaCK) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Wave Deluxe](https://open.spotify.com/album/7lHPDAKjXWGliwyaNHK4fj) | 2:38 | 2022-05-03 |  |
-| [Faraway](https://open.spotify.com/track/0wUgl8594IkO3YtjHM1nd4) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Midnite \(Deluxe Version\)](https://open.spotify.com/album/0d0xhfyP9VIZ8V9IsyvUdg) | 3:19 | 2022-05-03 |  |
+| [Faraway](https://open.spotify.com/track/0wUgl8594IkO3YtjHM1nd4) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Midnite \(Deluxe Version\)](https://open.spotify.com/album/0d0xhfyP9VIZ8V9IsyvUdg) | 3:19 | 2022-05-03 | 2022-06-04 |
 | [Ferma A Guardare](https://open.spotify.com/track/1zVUP6UPrzxZEYLXOl1AV1) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/2hHDTcf1MzvkDdFm0CEujn) | 3:13 | 2022-05-03 |  |
 | [FINCHÉ FA GIORNO](https://open.spotify.com/track/5yYsbDBAflTr31aksx8BHS) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [FINCHÉ FA GIORNO](https://open.spotify.com/album/5o7p3GN41Aak9jgKTtaX73) | 3:02 | 2022-05-03 |  |
 | [Forte](https://open.spotify.com/track/5G6jHSoLrzhtPBhS2gMvfW) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Nonostante Tutto](https://open.spotify.com/album/0q62V6NN0EWwRTEtyFCsGQ) | 3:27 | 2022-05-03 |  |
