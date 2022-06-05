@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Moore Kismet.
 
-1,451 songs - 3 day 10 hr 47 min - [published](https://open.spotify.com/playlist/2pLFymjcvaRi3S7CfLfDqz)
+1,451 songs - 3 day 10 hr 48 min - [published](https://open.spotify.com/playlist/2pLFymjcvaRi3S7CfLfDqz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Devotion \- 2020 Remix](https://open.spotify.com/track/039VxfSo5FErqE65169VZL) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V) | [Devotion \(2020 Remix\)](https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk) | 2:32 | 2020-11-06 | 2020-12-18 |
 | [DGAF](https://open.spotify.com/track/6UAodkGIEdkzewjthnFC3U) | [Glockwork](https://open.spotify.com/artist/64JtMrxllmq5s1gCDgthQM), [Introspect](https://open.spotify.com/artist/1djvMvweeHz8McQhWINpgW) | [DGAF](https://open.spotify.com/album/27iIPKiqPp4Ra9C3867DHy) | 3:42 | 2020-10-13\* | 2020-10-16 |
 | [Di Nobo](https://open.spotify.com/track/4KCs5QWk6YBcIMqSfSqAiJ) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Di Nobo / Shonuff](https://open.spotify.com/album/6wMSTM3o8peez0H1RSTfKI) | 3:15 | 2021-08-21 | 2021-10-09 |
-| [Dibby Dibby DJ](https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 2:31 | 2022-06-03 |  |
+| [Dibby Dibby DJ](https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 3:04 | 2022-06-03 |  |
 | [Disco Body Parts \(feat\. AWOLNATION\)](https://open.spotify.com/track/1n0roMNZNxclnLraBmA7tl) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Disco Body Parts \(feat\. AWOLNATION\)](https://open.spotify.com/album/0nqsJtrW8MbEuRfNJmHTKC) | 2:54 | 2021-02-26 | 2021-05-29 |
 | [Disco Hearts](https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Disco Hearts](https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg) | 3:01 | 2021-01-08 | 2021-02-26 |
 | [Disco Tool](https://open.spotify.com/track/4IWDjlopNrVsznQfp2s8M4) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Disco Tool](https://open.spotify.com/album/6QPIfuphvZoojeZOSmZTCr) | 2:57 | 2021-05-22 | 2021-07-10 |

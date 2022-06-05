@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-60 songs - 3 hr 35 min - not published yet
+60 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/4Ype6nCuECr0BMyLCT7KVD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

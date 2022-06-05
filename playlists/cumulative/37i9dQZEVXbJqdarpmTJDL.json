@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 164536,
       "name": "Aftoktonia",
       "url": "https://open.spotify.com/track/7IokpTW54OgzPu6Q3fkVHn"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 243446,
       "name": "Alliws",
       "url": "https://open.spotify.com/track/5ZO9U3FzXx19dhrJRyNPYK"
@@ -1397,6 +1397,28 @@
       "duration_ms": 190062,
       "name": "Athens City",
       "url": "https://open.spotify.com/track/1dJ8YWLJQjxShRx6Fscc1m"
+    },
+    {
+      "album": {
+        "name": "Poli_Ploki",
+        "url": "https://open.spotify.com/album/79cEtUvXntL05SIK3YJiH8"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        },
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201521,
+      "name": "Aya",
+      "url": "https://open.spotify.com/track/1oa2VjfQHY3jOMhr4INBOf"
     },
     {
       "album": {
@@ -4324,6 +4346,32 @@
     },
     {
       "album": {
+        "name": "Poli_Ploki",
+        "url": "https://open.spotify.com/album/79cEtUvXntL05SIK3YJiH8"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        },
+        {
+          "name": "Bobito",
+          "url": "https://open.spotify.com/artist/7Ktyjh9YMAD3YZYF7pyHdm"
+        },
+        {
+          "name": "Ayman",
+          "url": "https://open.spotify.com/artist/6ONMIIeGOgkflffHvKLe0M"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170550,
+      "name": "El Telephone",
+      "url": "https://open.spotify.com/track/1zB8iM97STLlKaweWhtasO"
+    },
+    {
+      "album": {
         "name": "Ela",
         "url": "https://open.spotify.com/album/6yLTAu9P2FW7uwTzchu1Xx"
       },
@@ -5993,7 +6041,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 122517,
       "name": "Holdem",
       "url": "https://open.spotify.com/track/5cfpzLdRk0o8acJNU6aQSY"
@@ -6657,7 +6705,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 184782,
       "name": "Intro (Apo Tous Yponomous)",
       "url": "https://open.spotify.com/track/60YhDtk1pz5MI3boHGMN37"
@@ -7356,6 +7404,28 @@
     },
     {
       "album": {
+        "name": "Koala",
+        "url": "https://open.spotify.com/album/6BoQha7B01JMYRCyytTHQF"
+      },
+      "artists": [
+        {
+          "name": "Jims",
+          "url": "https://open.spotify.com/artist/06jHkKDkgO3OnF1XTok0CM"
+        },
+        {
+          "name": "Chico Beatz",
+          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150683,
+      "name": "Koala",
+      "url": "https://open.spotify.com/track/1JbxABWzusKkMdr1QYsGsi"
+    },
+    {
+      "album": {
         "name": "1987",
         "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
       },
@@ -7889,7 +7959,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 276480,
       "name": "Lenon",
       "url": "https://open.spotify.com/track/6jUHmbuKjYbHnNoPUaVPUz"
@@ -8065,7 +8135,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 181117,
       "name": "LIBERTA",
       "url": "https://open.spotify.com/track/1jPC3jZtayUUmS5x6B4OKT"
@@ -8109,6 +8179,24 @@
       "duration_ms": 154769,
       "name": "Ligi",
       "url": "https://open.spotify.com/track/4iWDvVZZgRVgVnTtHOkHXp"
+    },
+    {
+      "album": {
+        "name": "Ligo Ligo",
+        "url": "https://open.spotify.com/album/1vRQu7kPciIGfVhWABjTnN"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Ligo Ligo",
+      "url": "https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ"
     },
     {
       "album": {
@@ -9716,6 +9804,28 @@
     },
     {
       "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/6OqLxDFzcx4KrOsxZxG3VC"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        },
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190774,
+      "name": "Mono Esy Kai Ego - (Part 2 - Fos)",
+      "url": "https://open.spotify.com/track/6erUTCZRR941FL6D01QtPu"
+    },
+    {
+      "album": {
         "name": "Interrail",
         "url": "https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34"
       },
@@ -10045,7 +10155,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 211188,
       "name": "Mporei",
       "url": "https://open.spotify.com/track/7raprblR3NfeuiV72Lz5Il"
@@ -10213,7 +10323,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 197938,
       "name": "NANA",
       "url": "https://open.spotify.com/track/7hVXZVcmpcHq1DJ05dnFZK"
@@ -11269,7 +11379,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 182257,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7jmkuBZeH5lezHZ3iu3YH1"
@@ -11547,7 +11657,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 233007,
       "name": "Pes Tou - Remix",
       "url": "https://open.spotify.com/track/3yYiWonAKTa1W0cYlEPjRj"
@@ -11777,6 +11887,24 @@
       "duration_ms": 169583,
       "name": "Point Blank",
       "url": "https://open.spotify.com/track/5809RxXNGAC3D3Pmiayf22"
+    },
+    {
+      "album": {
+        "name": "Poli_Ploki",
+        "url": "https://open.spotify.com/album/79cEtUvXntL05SIK3YJiH8"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148812,
+      "name": "Poli_Ploki",
+      "url": "https://open.spotify.com/track/3fbqm4zHNglj93260dL7ZM"
     },
     {
       "album": {
@@ -13023,6 +13151,24 @@
       "duration_ms": 172675,
       "name": "SHUM",
       "url": "https://open.spotify.com/track/7mEDVrAHDnQJStDo8jKJJm"
+    },
+    {
+      "album": {
+        "name": "Poli_Ploki",
+        "url": "https://open.spotify.com/album/79cEtUvXntL05SIK3YJiH8"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180153,
+      "name": "Sigkinitika 'Sigkinithika'",
+      "url": "https://open.spotify.com/track/7iHWWcSOylkOvPQdgvaCXA"
     },
     {
       "album": {
@@ -15891,6 +16037,24 @@
       "duration_ms": 232835,
       "name": "Xeirovomvides",
       "url": "https://open.spotify.com/track/5uoTfU6MsQMkhcIgrf8IlT"
+    },
+    {
+      "album": {
+        "name": "Poli_Ploki",
+        "url": "https://open.spotify.com/album/79cEtUvXntL05SIK3YJiH8"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176598,
+      "name": "Xereis I Eleni",
+      "url": "https://open.spotify.com/track/0Ywo7XSIm3MrKssLIenprW"
     },
     {
       "album": {

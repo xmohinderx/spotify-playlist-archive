@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,726 likes - 105 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,746 likes - 105 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 42 | [Will Of The People](https://open.spotify.com/track/1bbyikfBqLFAMxzrAuGreh) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/3nJtclmCvKVlXMDV4uM5hV) | 3:18 |
 | 43 | [The Loneliest Girl In The World](https://open.spotify.com/track/4KllPRafNDAYc3c3UHzj0u) | [PG Roxette](https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg), [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK) | [The Loneliest Girl In The World](https://open.spotify.com/album/7mxXN1jc04KAdUiGEU3l1E) | 3:01 |
 | 44 | [Suéltame](https://open.spotify.com/track/2gChGZjncJenm7wtuyuvIt) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Suéltame](https://open.spotify.com/album/47Tem5uw8ayCTyhDv1oXOY) | 2:53 |
-| 45 | [Talk](https://open.spotify.com/track/5CeJEAymOXlcuTMeV0tGW8) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Inna](https://open.spotify.com/artist/4f7LdSHbb9VPN04b3rHM3R) | [Talk](https://open.spotify.com/album/1UbFg8AzX8omvIxlQEMKUO) | 2:54 |
+| 45 | [Talk](https://open.spotify.com/track/5CeJEAymOXlcuTMeV0tGW8) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Talk](https://open.spotify.com/album/1UbFg8AzX8omvIxlQEMKUO) | 2:54 |
 | 46 | [HBD 2 My Ex](https://open.spotify.com/track/4K0uP25FCs01ntRBizEPUY) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [HBD 2 My Ex](https://open.spotify.com/album/2vVCELHMfxTZlmkeGaCkjG) | 2:10 |
-| 47 | [I Love It \(feat\. Charli XCX\) \- I Don’t Care 2022 Re\-Edit](https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [I Love It \(feat\. Charli XCX\) \[I Don’t Care 2022 Re\-Edit\]](https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq) | 2:32 |
+| 47 | [I Love It \(feat\. Charli XCX\) \- I Don’t Care 2022 Re\-Edit](https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [I Love It \(feat\. Charli XCX\) \[I Don’t Care 2022 Re\-Edit\]](https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq) | 2:32 |
 | 48 | [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 |
 | 49 | [Brightsider](https://open.spotify.com/track/45r6xQhf7hKsefH0FEUPVH) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Brightsider](https://open.spotify.com/album/025bhDcJFx2CWiYVXOUZvA) | 3:16 |
 | 50 | [26](https://open.spotify.com/track/0zKy4AWNNcQkeb8z15tixl) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [26](https://open.spotify.com/album/02zFvHEB9r68XIMpGdKjZv) | 3:08 |

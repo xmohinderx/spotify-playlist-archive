@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,737,658 likes - 234 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,737,788 likes - 234 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 103 | [Wandering](https://open.spotify.com/track/3DSmKmCgRH7vSmdZXBbH4P) | [Jars Of Bees](https://open.spotify.com/artist/3Ni9BAJnZMfBG74X6Osx9N) | [An Opening](https://open.spotify.com/album/5n0dpiHtn11yPUbyBQY5Ak) | 3:15 |
 | 104 | [Floating](https://open.spotify.com/track/06m4j7MuQSWGfquM7qCH89) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Floating](https://open.spotify.com/album/2VlM9YQulwLBFXIwAwGnVk) | 3:28 |
 | 105 | [Adrift in Time](https://open.spotify.com/track/41GSq7PxoKXyXNsYNRDSkT) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Something Beautiful](https://open.spotify.com/album/1hom2yJ8gLUvbvSoIWEL1S) | 2:54 |
-| 106 | [Septima](https://open.spotify.com/track/4NtT9mMjIcNVOlxkzCkHc2) | [Hema](https://open.spotify.com/artist/3EdWuMAKdq0z0OF5YEek5L) | [Septima](https://open.spotify.com/album/1MS5ZvgvQxHAG9YohwuAvr) | 2:23 |
+| 106 | [Septima](https://open.spotify.com/track/4NtT9mMjIcNVOlxkzCkHc2) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Septima](https://open.spotify.com/album/1MS5ZvgvQxHAG9YohwuAvr) | 2:23 |
 | 107 | [Reasons For Being](https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Reasons For Being](https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS) | 2:56 |
 | 108 | [Rhysa](https://open.spotify.com/track/7mmLy3ZdlYTzHZ1o4CzHuc) | [Felix Vidal](https://open.spotify.com/artist/4VyiaHiDw8tZ2RB8gLW51A) | [Rhysa](https://open.spotify.com/album/0CiLlSQGmYTTq4n87gI10v) | 2:42 |
 | 109 | [These Steady Hands](https://open.spotify.com/track/3IIJBXhYKDDRk5UAaSSacY) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 2:45 |

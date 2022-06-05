@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-400 songs - 1 day 0 hr 35 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+401 songs - 1 day 0 hr 38 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Cold \(feat\. Goater\)](https://open.spotify.com/track/4dL8Yvr8PQDwItlyVQuZRk) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe) | [Cold \(feat\. Goater\)](https://open.spotify.com/album/3dCOPA0BmltHe3m9HRG0Gu) | 3:12 | 2021-05-20 | 2021-06-05 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:22 | 2021-11-14 | 2021-12-09 |
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2022-04-25 |  |
+| [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:05 | 2022-06-04 |  |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-19 | 2022-06-01 |
 | [Crush On](https://open.spotify.com/track/4LSPhOVHew694KG2IAA6Ap) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Diamond In The Rough](https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ) | 3:01 | 2021-10-07 | 2021-10-20 |
 | [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-04-16 | 2022-04-27 |
@@ -199,7 +200,7 @@
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-15 | 2022-03-30 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-09-03 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-09 | 2021-08-18 |
-| [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-07 |  |
+| [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-07 | 2022-06-05 |
 | [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:26 | 2022-04-14 | 2022-05-29 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-21 | 2021-10-28 |
 | [The Feels](https://open.spotify.com/track/1XyzcGhmO7iUamSS94XfqY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Feels](https://open.spotify.com/album/6bk3KlQjiXsRmGrzrNcS53) | 3:18 | 2021-10-03 | 2021-10-04 |

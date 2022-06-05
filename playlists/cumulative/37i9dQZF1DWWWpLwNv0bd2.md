@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : VTK
 
-57 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+58 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/track/6rJhjykEkCqm3H64uALhhf) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/album/3jTx8LYOYIO0cRZDlS1uPx) | 4:27 | 2021-11-29 |  |
 | [Bullet Song](https://open.spotify.com/track/78g1KU3zvKQLS5emtG9Xiu) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [The Warriorr \(Tamil\)](https://open.spotify.com/album/6Q5BlmKZZMqkilmi40Sta2) | 3:57 | 2022-04-22 |  |
 | [Cute Ponnu](https://open.spotify.com/track/1Bpvh9xYlcxHkWJMQuiNiA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek Siva](https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD) | [Cute Ponnu \(From "Enna Solla Pogirai"\)](https://open.spotify.com/album/7fVDf5Unepx5UYSruu3xWw) | 4:35 | 2021-11-29 |  |
+| [Dhada Dhada](https://open.spotify.com/track/0hvh7UTvtucrG3GE7Hz2AF) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [The Warriorr \(Tamil\)](https://open.spotify.com/album/6T16NSY4Djby3ggU3zd2vE) | 4:06 | 2022-06-04 |  |
 | [Edho Solla \(From "Murungakkai Chips"\)](https://open.spotify.com/track/61cO5mTOB2RQ5Kp03sNm3E) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Edho Solla \(From "Murungakkai Chips"\)](https://open.spotify.com/album/6IY7I0TUaDMbrGxlm55Vpf) | 5:02 | 2021-11-29 |  |
 | [Eppa Paarthaalum](https://open.spotify.com/track/544aJ5szBIJQPTslMwpJ5W) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Aalambana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39KQ4Vr4myL0VV1c9IFUCR) | 3:29 | 2022-03-29 |  |
 | [Gaandu Kannamma](https://open.spotify.com/track/7eS07q4Ft2ySmiH7NalStq) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Gaandu Kannamma](https://open.spotify.com/album/2yZXnhQoiiQN6PMNoGcQ4r) | 3:25 | 2021-11-29 |  |

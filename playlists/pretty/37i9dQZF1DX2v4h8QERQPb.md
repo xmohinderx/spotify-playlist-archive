@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,870 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,939 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 70 | [Fuertardo](https://open.spotify.com/track/0QgnR0LKbx6HrsWPwAMUaC) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Fuertardo](https://open.spotify.com/album/6kfwfB9zJyBlex1uTBQX88) | 2:10 |
 | 71 | [Argentina](https://open.spotify.com/track/3vvl9RFAVG43JZhFXKA8G1) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Argentina](https://open.spotify.com/album/5K3tUyAIPLbZTs8EHOzosw) | 2:56 |
 | 72 | [Real Shit](https://open.spotify.com/track/3QgeHmKgZyVDB3JKchCNaW) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o) | [Libres](https://open.spotify.com/album/0Wq9RaiQE9MbdSmHY0YE1r) | 3:16 |
-| 73 | [Jueves 15](https://open.spotify.com/track/3iho8kP4fRLItE4brZVJ3E) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [Fiucher](https://open.spotify.com/artist/6txlBT165HMOl0ADNhT8zj), [Naiky](https://open.spotify.com/artist/39zOu0sPTpTFV7Ztks5UBB) | [Jueves 15](https://open.spotify.com/album/2dXEj7OPS6s3hLBLzEsT6x) | 3:18 |
+| 73 | [Jueves 15](https://open.spotify.com/track/3iho8kP4fRLItE4brZVJ3E) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [Fiucher](https://open.spotify.com/artist/6txlBT165HMOl0ADNhT8zj), [Naiky](https://open.spotify.com/artist/5wvXhHO0YuY1GeDMivQJVs) | [Jueves 15](https://open.spotify.com/album/2dXEj7OPS6s3hLBLzEsT6x) | 3:18 |
 | 74 | [Asuntos Del Barrio](https://open.spotify.com/track/784Wfl4a786mzPSIgPXWjj) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Me Sueltan Los Ángeles](https://open.spotify.com/album/3FU4rjLstPLwFS6ZxEWY0F) | 2:16 |
 | 75 | [Mi Verdad](https://open.spotify.com/track/1aSkg4ktmneEIpb7Km5JoO) | [Dtoke](https://open.spotify.com/artist/2KeSIMXQoTUxvWOIecCOun) | [Mi Verdad](https://open.spotify.com/album/1dSYCNvuuGMzTWaZKVPWWz) | 2:05 |
 | 76 | [THROW UP SESSION \#1](https://open.spotify.com/track/4AmkflbQtBjOjNwSt92P1u) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [THROW UP SESSION \#1](https://open.spotify.com/album/0fpnN5zwByW6DeHbQ2hnY7) | 2:31 |

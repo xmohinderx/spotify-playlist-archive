@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats, twenty four seven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,619 likes - 487 songs - 18 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,975 likes - 487 songs - 18 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,7 +175,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 165 | [Life Infused](https://open.spotify.com/track/07jYVSEixqlToIhKP9rCIE) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Life Infused](https://open.spotify.com/album/5k7yWaGvobUD475PeQMIE7) | 3:31 |
 | 166 | [Sungold](https://open.spotify.com/track/3Q572SCyptN5irJMQQvjLK) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm) | [Sungold](https://open.spotify.com/album/1NbREtZqFQekpdFQWF0HIF) | 2:43 |
 | 167 | [Off The Grid](https://open.spotify.com/track/3B4wGXQkx61yhCfqBo7zGO) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Off The Grid](https://open.spotify.com/album/759Pe8v4HcPjnOpcn8yJ4p) | 1:43 |
-| 168 | [Copa De Mare](https://open.spotify.com/track/2IaHq4eqO6VmlUELqFGmnv) | [Papi Churro](https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [The Breed](https://open.spotify.com/artist/6kPVWK2JzP9JdJNkDIEUaP) | [Copa De Mare](https://open.spotify.com/album/5vJsFUAlPxU9IRD58vRDup) | 2:28 |
+| 168 | [Copa De Mare](https://open.spotify.com/track/2IaHq4eqO6VmlUELqFGmnv) | [Papi Churro](https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Copa De Mare](https://open.spotify.com/album/5vJsFUAlPxU9IRD58vRDup) | 2:28 |
 | 169 | [Early Bird](https://open.spotify.com/track/3HAZRPavpVr16nian6BTDg) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Early Bird](https://open.spotify.com/album/0Vg86xOE6SCKi9zVkVj3RB) | 1:46 |
 | 170 | [Pass the salt](https://open.spotify.com/track/4SXsq4BLWnnQZeYYVy8Eub) | [Eclips3](https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9) | [Pass the salt](https://open.spotify.com/album/725SX9hC4DguSckhXbDzmL) | 2:08 |
 | 171 | [Scratch and Sniff](https://open.spotify.com/track/0fnBFV0cLqTXwueVyNxCfV) | [Jorge and the Homies](https://open.spotify.com/artist/4G7T4kiobBHfAdTZ1YBQLI) | [The Historic](https://open.spotify.com/album/1Zw1lBWIR5YPqktU1TzzYr) | 2:50 |

@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-131 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+133 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Core](https://open.spotify.com/track/1MixxR1r47McDJSccegs2Q) | [FOOLiE](https://open.spotify.com/artist/5X3h4PwWZi0RkCyFd6gs0P) | [Core](https://open.spotify.com/album/4C8VuicYQmsCMMpWzpdpZF) | 5:08 | 2022-05-29 | 2022-06-04 |
 | [Crowd Go](https://open.spotify.com/track/1qUEgs5vGGo6Ak9yesBSci) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [Crowd Go](https://open.spotify.com/album/7EKASa7zCI7lyVVBnzuwBc) | 3:31 | 2022-05-13 | 2022-05-30 |
 | [Damegon](https://open.spotify.com/track/6DuxDYMnkCn0E4bbmwHLEf) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Damegon](https://open.spotify.com/album/0mQGDkwYMzKgTWFLBIq2QV) | 3:25 | 2022-06-03 |  |
+| [Dancing In The Dark](https://open.spotify.com/track/5gpRsnKyHiP3UbA6gc0we8) | [Reverbate](https://open.spotify.com/artist/28mV8D13MSDEvlzCwTnqLS) | [Dancing In The Dark](https://open.spotify.com/album/4vbuMK0F24xZ6H7pvxcHmO) | 3:38 | 2022-06-04 |  |
 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 | 2022-05-13 | 2022-05-30 |
 | [Deep State](https://open.spotify.com/track/5T1fza9F8TTuB1pGqDGziH) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Deep State](https://open.spotify.com/album/2GOLTHiwyNWYHQaBuIZASH) | 2:52 | 2022-04-29 | 2022-05-14 |
 | [Drop It](https://open.spotify.com/track/4h9RxRzTdbJlV8gFyOIdv0) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Damegon](https://open.spotify.com/album/0mQGDkwYMzKgTWFLBIq2QV) | 3:25 | 2022-06-03 |  |
@@ -110,6 +111,7 @@
 | [Sideline](https://open.spotify.com/track/0H3wnauakIIRxX51DkYtuc) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Sideline](https://open.spotify.com/album/21F97euPUgafnMNEiqlS3T) | 3:20 | 2022-05-13 | 2022-05-30 |
 | [Silent](https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Silent](https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs) | 3:10 | 2022-05-13 | 2022-05-30 |
 | [Skandal](https://open.spotify.com/track/5bPi6LAI7JfyjIIFzNA56d) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Skandal](https://open.spotify.com/album/7rhdGC3zlyzgANmxuSqY1y) | 2:49 | 2022-04-28 | 2022-05-14 |
+| [Small Talk](https://open.spotify.com/track/5GzeX965D5kEuCMT35sQqb) | [Poolhaus](https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH), [Beni Hana](https://open.spotify.com/artist/44rxbtF6zmfO67zyCwN3xU) | [Small Talk](https://open.spotify.com/album/4vLom1oyQf1Hcxsb1XGqKX) | 2:50 | 2022-06-04 |  |
 | [Some Drgs](https://open.spotify.com/track/6LuV4xozGqbPuJb3BrSoq1) | [Jargen](https://open.spotify.com/artist/7eNmYIb1F1EUjKBc4UIJBl) | [Some Drgs](https://open.spotify.com/album/2VxrkaWgSnH4gPXIwg0OrL) | 4:28 | 2022-04-28 | 2022-05-14 |
 | [String Theory](https://open.spotify.com/track/5VVfyoNTTsFyJSXnoRH9gd) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [String Theory](https://open.spotify.com/album/5fek0WffLqXW6Grw64q5r0) | 3:04 | 2022-04-28 | 2022-05-14 |
 | [Surdose](https://open.spotify.com/track/4LC69zHD4ErGxZZBzHpThq) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Joey Valence](https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu) | [Surdose](https://open.spotify.com/album/6ky2LQD22BcQtCeqyxRmfr) | 4:00 | 2022-04-28 | 2022-05-14 |

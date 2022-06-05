@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,513 likes - 51 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,346 likes - 51 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

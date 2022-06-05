@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: George Ezra
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,530 likes - 79 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,603 likes - 79 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 19 | [1989](https://open.spotify.com/track/5LgopqF6Rqfp8cWdj9XzCM) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [1989](https://open.spotify.com/album/5L6AKgaJyex0tb5TfdsF6S) | 2:17 |
 | 20 | [what would you do?](https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [what would you do?](https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs) | 2:46 |
 | 21 | [Skank All Night \(You Wot, You Wot\)](https://open.spotify.com/track/0gAHzuT4ekkbMAfscfCQXB) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Skank All Night \(You Wot, You Wot\)](https://open.spotify.com/album/328mrxymT5lIZ74ls25Ze6) | 2:44 |
-| 22 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 2:54 |
+| 22 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 |
 | 23 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
 | 24 | [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 |
 | 25 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 
 > A collection of inspired songs and familiar tunes about life and the love of the father.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,128 likes - 58 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,129 likes - 58 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

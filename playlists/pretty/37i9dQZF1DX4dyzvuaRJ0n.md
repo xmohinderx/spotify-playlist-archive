@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Featuring music from HoneyLuv, Jax Jones, Martin Solveig & GRACEY, Lost Frequencies & James Arthur, Jungle, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,916,834 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,917,205 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 73 | [You Got The Love \(feat\. Jules Buckley & The Heritage Orchestra\) \- Tiësto Remix](https://open.spotify.com/track/3N50cZLMLohd9DcGA4LIMp) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx) | [You Got The Love \(feat\. Jules Buckley & The Heritage Orchestra\) \[Tiësto Remix\]](https://open.spotify.com/album/1zlYl1OYOvf79RWXEc6NZb) | 3:06 |
 | 74 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 |
 | 75 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 |
-| 76 | [We Don’t Need \- Club Edit](https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7) | 2:38 |
+| 76 | [We Don’t Need \- Club Edit](https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need \(Club Edit\)](https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7) | 2:38 |
 | 77 | [Good Luck](https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Good Luck](https://open.spotify.com/album/51QKtoBoHMU2dcOrRzeYBg) | 3:55 |
 | 78 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 |
 | 79 | [Sinner](https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Sinner](https://open.spotify.com/album/0r0BHXYjOcX5vviQJbdpaT) | 3:58 |

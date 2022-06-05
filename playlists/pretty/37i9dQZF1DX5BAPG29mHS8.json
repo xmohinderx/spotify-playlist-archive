@@ -1,12 +1,12 @@
 {
   "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico, con Shakira y Rauw Alejandro.",
-  "num_followers": 4338382,
+  "num_followers": 4340107,
   "original_name": "\u00c9xitos M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE4MzEyOSwwMDAwMDIwMzAwMDAwMTgxMjRmZjczM2EwMDAwMDE4MTI0ZjhlMWJh",
+  "snapshot_id": "MTY1NDM0ODI0NCwwMDAwMDIwNDAwMDAwMTgxMmVkNmU2MjcwMDAwMDE4MTI0ZjhlMWJh",
   "tracks": [
     {
       "added_at": "2022-04-22 00:00:00",
@@ -111,6 +111,22 @@
       "duration_ms": 247196,
       "name": "San Lucas",
       "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+    },
+    {
+      "added_at": "2022-06-04 13:10:44",
+      "album": {
+        "name": "Girasol",
+        "url": "https://open.spotify.com/album/0HUYIjnn7ttam9r0AUHDmq"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 341269,
+      "name": "Girasol",
+      "url": "https://open.spotify.com/track/1EAzCHtS45JvyXNSposHCY"
     },
     {
       "added_at": "2022-05-16 14:49:42",
@@ -911,22 +927,6 @@
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
-    },
-    {
-      "added_at": "2022-04-22 00:00:00",
-      "album": {
-        "name": "Aguardiente",
-        "url": "https://open.spotify.com/album/6OSCKBZsN0mw3jZdLKpsga"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 142758,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/7lFpX8kcAFe1Jv9MmKIdMV"
     }
   ],
   "unique_name": "\u00c9xitos M\u00e9xico",

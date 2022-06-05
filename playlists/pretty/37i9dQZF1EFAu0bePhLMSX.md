@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348 likes - 135 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 349 likes - 135 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 17 | [In My Arms](https://open.spotify.com/track/45TyDwIRFFSib4HMkRmBPx) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55) | 3:30 |
 | 18 | [These Four Walls](https://open.spotify.com/track/3pofJEjOp6m9e6kYNmGhxa) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Salute \(Expanded Edition\)](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) | 3:28 |
 | 19 | [If Ya Gettin' Down](https://open.spotify.com/track/6UespeVK9gGMnEyeMktQhU) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW) | 3:00 |
-| 20 | [Got the Feelin' \- Radio Edit](https://open.spotify.com/track/0E7dgYApjRrO2WqlyoHKVy) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [5ive](https://open.spotify.com/album/1GJlrr97zfdxa3l4jpP47A) | 3:28 |
-| 21 | [A Second to Midnight](https://open.spotify.com/track/3WYqZhwammjFtFLfZfT38u) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [DISCO: Guest List Edition](https://open.spotify.com/album/48ausuYzcDZAqD7ML9sPcU) | 3:27 |
+| 20 | [A Second to Midnight](https://open.spotify.com/track/3WYqZhwammjFtFLfZfT38u) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [DISCO: Guest List Edition](https://open.spotify.com/album/48ausuYzcDZAqD7ML9sPcU) | 3:27 |
+| 21 | [Got the Feelin' \- Radio Edit](https://open.spotify.com/track/0E7dgYApjRrO2WqlyoHKVy) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [5ive](https://open.spotify.com/album/1GJlrr97zfdxa3l4jpP47A) | 3:28 |
 | 22 | [Try Hard](https://open.spotify.com/track/6Zh0i2K4q8uubCRvc6lL3s) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/5hVsQ9MdhzoPAxDB8ohTCr) | 3:41 |
 | 23 | [Goodbye](https://open.spotify.com/track/6ZNw9Cnc85OeHZrjMAZJfY) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:35 |
 | 24 | [What Took You So Long?](https://open.spotify.com/track/6WJtzSaXumGZ7pIa0z7QIP) | [Emma Bunton](https://open.spotify.com/artist/2AEEnr6Le5zHzBwpnlZSmq) | [A Girl Like Me](https://open.spotify.com/album/5E6op11XOQa3ErVR4oLKss) | 4:01 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 85 | [Give And Take](https://open.spotify.com/track/33exaNQmkBIgcDh8hlYmHk) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 3:52 |
 | 86 | [Lullaby](https://open.spotify.com/track/3hKUw3ZS76pmqAH0LATmpD) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [Hot](https://open.spotify.com/album/5nQBpgNce3qxwawV3BMAS2) | 3:26 |
 | 87 | [C'Mon C'Mon](https://open.spotify.com/track/3Qk4KuCEABEX99TcxI9hmI) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Kingsize](https://open.spotify.com/album/2gY7wANdIC3BOpBJJCiDCH) | 4:49 |
-| 88 | [Chess](https://open.spotify.com/track/5z7sBjVWCuW6HFiN8UdKjc) | [Alphabeat](https://open.spotify.com/artist/7Defmv25Kj9knpobhHIghm) | [The Spell](https://open.spotify.com/album/29BaKszledT9qmq97Xa7wx) | 3:33 |
-| 89 | [Places](https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:59 |
+| 88 | [Places](https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:59 |
+| 89 | [Chess](https://open.spotify.com/track/5z7sBjVWCuW6HFiN8UdKjc) | [Alphabeat](https://open.spotify.com/artist/7Defmv25Kj9knpobhHIghm) | [The Spell](https://open.spotify.com/album/29BaKszledT9qmq97Xa7wx) | 3:33 |
 | 90 | [Take Your Chances On Me](https://open.spotify.com/track/75I4uu5Jas0T6r6qpc6G3Y) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:02 |
 | 91 | [Lay Down for Love](https://open.spotify.com/track/6MfLM5PHg22PrtIridHfHQ) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [Open Road](https://open.spotify.com/album/5Gw7fOOrsnB0ZeKyghATAX) | 5:32 |
 | 92 | [When I Fall In Love \- Radio Edit](https://open.spotify.com/track/6PGK8YY5d0wqaJ8b7g3sIf) | [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ), [PJ & Duncan](https://open.spotify.com/artist/6x9DlX8BIJFFXMLScv0KDB) | [The Cult Of Ant & Dec](https://open.spotify.com/album/5m8lVfGTkYBRt07g9HUEH7) | 3:53 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 134 | [If You're Not the One](https://open.spotify.com/track/6Pe6hM9vri1ulCLGfp21xI) | [ELLE](https://open.spotify.com/artist/5Vd00Fe9ZNC4S7ataOQg32) | [If You're Not the One](https://open.spotify.com/album/67DkViPYaVxMaisDuLFbyz) | 3:40 |
 | 135 | [Don't Let Me Down](https://open.spotify.com/track/17my6iBMd8qwYN2AZkTM5B) | [PJ & Duncan](https://open.spotify.com/artist/6x9DlX8BIJFFXMLScv0KDB), [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ) | [B Sides](https://open.spotify.com/album/6t4FKATeqkOSX5p6CKz7gX) | 4:17 |
 
-Snapshot ID: `Mjc1NzE2OTUsMDAwMDAwMDA0ZWYzODU5MWQzM2Y4MmYyZGRjMDY2Y2YyMmYwMGFiOA==`
+Snapshot ID: `Mjc1NzMxOTUsMDAwMDAwMDAxNDQxNjQwOTk3MzVmYTdkMWFmZThhNmFkY2U5NTUyNw==`

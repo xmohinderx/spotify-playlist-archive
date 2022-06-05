@@ -4,11 +4,12 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-379 songs - 22 hr 56 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
+380 songs - 23 hr 0 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12](https://open.spotify.com/track/4pSSP0w8orZuCZJcxgugGT) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [12](https://open.spotify.com/album/5Ijo5yPwsUqTqkheob9y7u) | 3:21 | 2021-12-23 | 2022-04-06 |
+| [1973的軌跡](https://open.spotify.com/track/5Z75p2CZda3ofl2umIJBmc) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy) | [1973的軌跡](https://open.spotify.com/album/1s7oeSTjV48oXW3DlFrp3T) | 3:09 | 2022-06-04 |  |
 | [2084](https://open.spotify.com/track/6pJT4f6S8GPQ7hWCDvygrN) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [2084](https://open.spotify.com/album/2j3mX8c4hex5NmMlL4x7g4) | 5:16 | 2021-03-27\* | 2021-10-03 |
 | [20GB](https://open.spotify.com/track/7rdj6TWqy9HOLS0suvco5R) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:57 | 2021-09-01 | 2021-09-02 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-06 | 2022-04-19 |
@@ -83,7 +84,7 @@
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-16 | 2021-05-23 |
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-11 | 2022-05-13 |
 | [Got U](https://open.spotify.com/track/2pFkBa11TZLwI4t4uzIWdi) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Got U](https://open.spotify.com/album/7uVe30iLgYZNzjExBxRVN0) | 2:52 | 2022-05-06 |  |
-| [Gotta Go!](https://open.spotify.com/track/3F16iie73VyKgN63z6YyZH) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Gotta Go!](https://open.spotify.com/album/5QMViZsyLMd5pJJc3l9BEO) | 3:26 | 2022-05-01 |  |
+| [Gotta Go!](https://open.spotify.com/track/3F16iie73VyKgN63z6YyZH) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Gotta Go!](https://open.spotify.com/album/5QMViZsyLMd5pJJc3l9BEO) | 3:26 | 2022-05-01 | 2022-06-05 |
 | [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 | 2021-05-25 | 2021-05-26 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-08-18 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2021-12-25 | 2021-12-27 |
@@ -344,7 +345,7 @@
 | [神奇之路 \(電影《媽媽的神奇小子》主題曲\)](https://open.spotify.com/track/3Kdlue3eVr9jf0Ns5wNPMj) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY), [香港兒童合唱團](https://open.spotify.com/artist/20GdoyuHyDOzJe7T2EcFqI) | [神奇之路 \(電影《媽媽的神奇小子》主題曲\)](https://open.spotify.com/album/3cQ4veFZMYoako464UeqXV) | 5:32 | 2021-08-08 | 2021-10-18 |
 | [神奇的糊塗魔藥](https://open.spotify.com/track/2Mpuy9fsafkQxX3DSow9xw) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [神奇的糊塗魔藥](https://open.spotify.com/album/4XXxhfDeaJggNFqZ9BOaS4) | 3:23 | 2021-03-27 | 2021-12-05 |
 | [神奇的糊塗魔藥](https://open.spotify.com/track/7MresghYfws5S4JG5Fcl4e) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:23 | 2021-12-05 | 2022-03-10 |
-| [神隊友](https://open.spotify.com/track/05hC0bzyZaqn4mxUNAdKNc) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [神隊友](https://open.spotify.com/album/5kvb0Qz63Spmtv4Yw58clb) | 3:01 | 2021-07-19 | 2022-05-26 |
+| [神隊友](https://open.spotify.com/track/05hC0bzyZaqn4mxUNAdKNc) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [神隊友](https://open.spotify.com/album/5kvb0Qz63Spmtv4Yw58clb) | 3:01 | 2021-07-19 |  |
 | [突如其來的心跳感覺 \(ViuTv 劇集 \[大叔的愛\] 主題曲\)](https://open.spotify.com/track/596MqWmYLojkoFvgygAteu) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [突如其來的心跳感覺 \(ViuTv 劇集 \[大叔的愛\] 主題曲\)](https://open.spotify.com/album/1GtTUDJrBUbRACKrBmmVTC) | 3:17 | 2021-07-02 | 2021-11-16 |
 | [網絡安全隱患](https://open.spotify.com/track/4J3xGcdeTondAni5xd9kmm) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7), [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [網絡安全隱患](https://open.spotify.com/album/2U0RPpcvALJOyO7daXdGU4) | 3:01 | 2021-04-21 | 2021-05-03 |
 | [聖誕很忙](https://open.spotify.com/track/3Tp3NMKc3zX2Yi1WfUecmF) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [聖誕很忙](https://open.spotify.com/album/5FjHZIzF8XJS5xDk2ti8Uh) | 3:57 | 2021-12-21 | 2022-03-13 |
@@ -385,7 +386,7 @@
 | [風繼續吹](https://open.spotify.com/track/5RLv04XXxe0Nc4W7DTBJGT) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [風繼續吹](https://open.spotify.com/album/5wqxExrvXYQquHfwD9UtWu) | 5:08 | 2021-04-03 | 2022-04-04 |
 | [風靈物語](https://open.spotify.com/track/1SqvBGCkvXVFDAQf2ZJa02) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [風靈物語](https://open.spotify.com/album/6TYkKQdnTNnw5E1OQWZZ1m) | 4:09 | 2021-07-23 | 2021-07-24 |
 | [飞鸟和蝉](https://open.spotify.com/track/0O7O4sssbFxoNoB4QRGra1) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [飞鸟和蝉](https://open.spotify.com/album/4LGp83hqpcHOAk50c7IQeK) | 4:56 | 2021-03-27\* | 2021-04-26 |
-| [騷靈情歌](https://open.spotify.com/track/5MH9JHCKH1Hm3ih9m9ljy8) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [笑忘書](https://open.spotify.com/album/1p7eFSD6iJI0RqtpYXjKbT) | 4:09 | 2022-05-31 |  |
+| [騷靈情歌](https://open.spotify.com/track/5MH9JHCKH1Hm3ih9m9ljy8) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [笑忘書](https://open.spotify.com/album/1p7eFSD6iJI0RqtpYXjKbT) | 4:09 | 2022-05-31 | 2022-06-05 |
 | [鯨落](https://open.spotify.com/track/1rTnGbIahUmq6fK8RWAXfd) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [鯨落](https://open.spotify.com/album/6TNTfqsjHvxcrzjaO3fvWC) | 4:02 | 2021-03-27\* |  |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

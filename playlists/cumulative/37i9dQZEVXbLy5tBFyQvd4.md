@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Guatemala.
 
-341 songs - 19 hr 56 min - [published](https://open.spotify.com/playlist/4IDWvFyBzZfAJ3pkT7fy9U)
+342 songs - 20 hr 2 min - [published](https://open.spotify.com/playlist/4IDWvFyBzZfAJ3pkT7fy9U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Chica Ideal](https://open.spotify.com/track/21N4Buj4xsyLb218lYle61) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chica Ideal](https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct) | 3:03 | 2021-03-27\* | 2021-09-05 |
 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 | 2022-03-22 |  |
 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 | 2021-10-12 | 2021-11-24 |
+| [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 | 2022-06-04 |  |
 | [Cuidando El Territorio](https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Cuidando El Territorio](https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb) | 3:06 | 2021-12-07 | 2021-12-08 |
 | [CÓMO SE SIENTE \- Remix](https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [CÓMO SE SIENTE \(Remix\)](https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI) | 3:47 | 2021-03-27\* | 2022-02-28 |
 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/1hxyzHlH7qS3AZdOj6GmIO) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [20 Kilates](https://open.spotify.com/album/4CRo2RGyrA06iTD9sTpKhZ) | 4:30 | 2021-12-26 | 2022-01-04 |
@@ -269,7 +270,7 @@
 | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj) | 8:39 | 2022-03-05 | 2022-03-26 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-26 | 2021-12-27 |
 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 | 2022-03-26 | 2022-04-26 |
-| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-03 |  |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-03 | 2022-06-05 |
 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 | 2021-05-16 | 2021-10-06 |
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2022-04-12 |  |
 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 | 2021-06-02 | 2021-09-12 |

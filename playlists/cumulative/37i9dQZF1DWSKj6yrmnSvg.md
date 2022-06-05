@@ -4,7 +4,7 @@
 
 > ¿Cuándo te veré otra vez, mi vida, cuándo?
 
-50 songs - 2 hr 54 min - not published yet
+50 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/0XSAjxkrdo0AUBMhkZnDmQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

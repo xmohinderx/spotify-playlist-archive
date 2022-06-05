@@ -4,7 +4,7 @@
 
 > Los hits de ahora en la playlist más grande de México, con Shakira y Rauw Alejandro.
 
-143 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/63poUoUtwzQDsNKgrO1ZRT)
+144 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/63poUoUtwzQDsNKgrO1ZRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Tu Merced](https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:55 | 2022-01-28 | 2022-05-07 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-09 | 2022-03-18 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-12 |  |
-| [Aguardiente](https://open.spotify.com/track/7lFpX8kcAFe1Jv9MmKIdMV) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Aguardiente](https://open.spotify.com/album/6OSCKBZsN0mw3jZdLKpsga) | 2:22 | 2022-04-22 |  |
+| [Aguardiente](https://open.spotify.com/track/7lFpX8kcAFe1Jv9MmKIdMV) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Aguardiente](https://open.spotify.com/album/6OSCKBZsN0mw3jZdLKpsga) | 2:22 | 2022-04-22 | 2022-06-05 |
 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2021-12-09 | 2022-04-01 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-03-31 |  |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-12-09 | 2022-01-14 |
@@ -54,6 +54,7 @@
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-03-04 |  |
 | [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 | 2022-02-24 |  |
 | [Fumando Mota](https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Desde la Raíz](https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y) | 3:21 | 2022-02-10 | 2022-03-25 |
+| [Girasol](https://open.spotify.com/track/1EAzCHtS45JvyXNSposHCY) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Girasol](https://open.spotify.com/album/0HUYIjnn7ttam9r0AUHDmq) | 5:41 | 2022-06-04 |  |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2022-01-20 | 2022-05-10 |
 | [JGL](https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [JGL](https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW) | 2:38 | 2022-05-06 |  |
 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 | 2022-02-09 | 2022-02-25 |

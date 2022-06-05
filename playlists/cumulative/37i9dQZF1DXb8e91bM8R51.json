@@ -213,7 +213,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 147204,
       "name": "Ain\u2019t No Fun",
       "url": "https://open.spotify.com/track/7hUpFUXJsDXMKopFz3Q2AP"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 307595,
       "name": "Bed-Stuy is Burning",
       "url": "https://open.spotify.com/track/25m9STwUOibOP20tzgW646"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 288200,
       "name": "Bitch Please II",
       "url": "https://open.spotify.com/track/0NWtAf6HtnfA5KFCaX6Wtz"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 118032,
       "name": "Boom Boom (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0ccUI8Zs25jqWr6vhRGfeQ"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 181724,
       "name": "Cake",
       "url": "https://open.spotify.com/track/2ChAypXrj4P5YKwxPZjfr2"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 315000,
       "name": "Concourse P - Remix",
       "url": "https://open.spotify.com/track/3B7eC6ucWdf6P4GA2c8Bnm"
@@ -1121,7 +1121,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 214434,
       "name": "EPMD 2 (feat. Eminem & EPMD)",
       "url": "https://open.spotify.com/track/4bRPecD9suGW8CfNZhzjS1"
@@ -1289,7 +1289,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 205545,
       "name": "Fate of the World",
       "url": "https://open.spotify.com/track/2VO7busbw6lWkIxJ65vw0J"
@@ -1493,7 +1493,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 211132,
       "name": "Get Dis Money",
       "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
@@ -1940,6 +1940,28 @@
     },
     {
       "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192840,
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "album": {
         "name": "I Won",
         "url": "https://open.spotify.com/album/3N1PEaBrpL1B3TIbUa69lB"
       },
@@ -1981,7 +2003,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 105714,
       "name": "I'm the Man",
       "url": "https://open.spotify.com/track/2gvBPA9OjjoXbxHeYA0MeF"
@@ -2131,7 +2153,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 162462,
       "name": "Lane",
       "url": "https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG"
@@ -2927,7 +2949,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 168666,
       "name": "No Effort",
       "url": "https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg"
@@ -3141,7 +3163,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 115333,
       "name": "Paid my Dues",
       "url": "https://open.spotify.com/track/3fpAclMxGElhrXh8S3fyFc"
@@ -3177,7 +3199,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 251480,
       "name": "Pick It Up",
       "url": "https://open.spotify.com/track/7l3ZNXBVVdhBz13Vo0kbLz"
@@ -3269,7 +3291,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 125373,
       "name": "Pop Music (feat. Moneybagg Yo & Beatking)",
       "url": "https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour"
@@ -3367,7 +3389,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 153957,
       "name": "Razor's Edge (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/73smAdAEYK9xl8BbTjH1rg"
@@ -3389,7 +3411,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 212520,
       "name": "Recognize My Car",
       "url": "https://open.spotify.com/track/12JB83J6gWSZ3akzcqr64x"
@@ -3821,7 +3843,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 111498,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/44aip3NiojpXMaSOTyZ1UO"
@@ -3989,7 +4011,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 223904,
       "name": "Sucka Free (feat. Killer Mike)",
       "url": "https://open.spotify.com/track/4BsT04mOym0M60CbG6uMf3"
@@ -4275,7 +4297,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 156404,
       "name": "The Recipe",
       "url": "https://open.spotify.com/track/07D2IULzPNePTwnBzDnudX"
@@ -4355,7 +4377,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 224638,
       "name": "Tommy Lee (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5QZKcQDp0tCcvMdyqEciBV"
@@ -4653,7 +4675,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 283648,
       "name": "VOYE DLO",
       "url": "https://open.spotify.com/track/6hiVu08uKEKnt7EAkR7dMM"
@@ -4741,7 +4763,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 226115,
       "name": "Walkin - Key Glock remix",
       "url": "https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ"

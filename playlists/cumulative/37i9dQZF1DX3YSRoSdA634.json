@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 173194,
       "name": "Beautiful Birds - Acoustic",
       "url": "https://open.spotify.com/track/0LenfZSOzFiUB6sLmbB8pS"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 196288,
       "name": "Broken Armour",
       "url": "https://open.spotify.com/track/008AopHIv4BkKGOXjy94IL"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 155841,
       "name": "Called You Out",
       "url": "https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 202623,
       "name": "can't hate you yet",
       "url": "https://open.spotify.com/track/17fVCW5DPU4NEu2Vi3tZgs"
@@ -1136,6 +1136,28 @@
     },
     {
       "album": {
+        "name": "death bed (coffee for your head)",
+        "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "death bed (coffee for your head)",
+      "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
+    },
+    {
+      "album": {
         "name": "Deeper Meaning",
         "url": "https://open.spotify.com/album/0e8jEms3WUtEbS48ongYAR"
       },
@@ -1183,7 +1205,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 164129,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8"
@@ -1709,7 +1731,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 185213,
       "name": "guy friends",
       "url": "https://open.spotify.com/track/65ADzGXf5dSdiH5s1uy7RZ"
@@ -1799,7 +1821,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 132201,
       "name": "Half of Me - Acoustic",
       "url": "https://open.spotify.com/track/3qbzLMM4YTDXoFTSsxFQgE"
@@ -1889,7 +1911,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 220850,
       "name": "Head Above Water",
       "url": "https://open.spotify.com/track/1N7YeVU0ZwAFbOhwM61ef6"
@@ -1979,7 +2001,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 230266,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS"
@@ -2033,7 +2055,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 183379,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/2tCL2T0TTIOS0s70HCJP3L"
@@ -2235,6 +2257,24 @@
       "duration_ms": 180244,
       "name": "I Hate Love",
       "url": "https://open.spotify.com/track/6bky0BZwgaEwmqbNB5BLbV"
+    },
+    {
+      "album": {
+        "name": "i hate u",
+        "url": "https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169767,
+      "name": "i hate u",
+      "url": "https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM"
     },
     {
       "album": {
@@ -2462,6 +2502,24 @@
     },
     {
       "album": {
+        "name": "deadroses",
+        "url": "https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245172,
+      "name": "idfc",
+      "url": "https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr"
+    },
+    {
+      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -2621,7 +2679,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 257720,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
@@ -2639,7 +2697,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 257720,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C"
@@ -2675,7 +2733,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 246587,
       "name": "Jar of Hearts",
       "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
@@ -2989,7 +3047,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 286250,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/38YUiPZdeg1DDX8d6eV5Gi"
@@ -3133,7 +3191,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 197178,
       "name": "Lost On You",
       "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
@@ -3151,7 +3209,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 225076,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/26z6V1SijQq6J3gPIu1H7t"
@@ -3649,7 +3707,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 229960,
       "name": "No Right To Love You - Acoustic",
       "url": "https://open.spotify.com/track/4xFKrhQIvPDIpmFvqlr0sQ"
@@ -3703,7 +3761,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 196346,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/7u5YIl9C1ijghg46PVVdh9"
@@ -3887,7 +3945,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 198918,
       "name": "Passing Through",
       "url": "https://open.spotify.com/track/1rYw2u6CrQRfyhiOVE4MyS"
@@ -3963,7 +4021,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 185864,
       "name": "Prism of Love (Piano Acoustic)",
       "url": "https://open.spotify.com/track/6gPTlMJWFcjmY6FGjRWwYK"
@@ -4443,7 +4501,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 242000,
       "name": "Slow Dancing in a Burning Room",
       "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
@@ -4623,7 +4681,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 154514,
       "name": "sorry",
       "url": "https://open.spotify.com/track/7EcUaKyjR0WlujOxkpUxh1"
@@ -4641,7 +4699,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 241288,
       "name": "Space",
       "url": "https://open.spotify.com/track/46FOIntFjFivFUKtdfCtW4"
@@ -4767,7 +4825,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 204205,
       "name": "Summer's Gone",
       "url": "https://open.spotify.com/track/6PmhCEPMjhSo9j8hz767xy"
@@ -4893,7 +4951,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 268360,
       "name": "Talk",
       "url": "https://open.spotify.com/track/5Kwi8hF3UyV8FfmzrdkDqE"
@@ -5319,7 +5377,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 224996,
       "name": "Tourist",
       "url": "https://open.spotify.com/track/6ynqpQIQ1kGtJILbxnCIQ8"
@@ -5829,7 +5887,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 202346,
       "name": "Worst In Me",
       "url": "https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce"

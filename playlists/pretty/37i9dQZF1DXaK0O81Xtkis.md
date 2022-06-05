@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > Isaac Dunbar takes over Soda! Isaac's picks at the top.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,852 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,867 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ecuador.
 
-333 songs - 19 hr 9 min - [published](https://open.spotify.com/playlist/2nfraeUpUcnlrxcwWo1re5)
+334 songs - 19 hr 12 min - [published](https://open.spotify.com/playlist/2nfraeUpUcnlrxcwWo1re5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Fan de Tus Fotos](https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fan de Tus Fotos](https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T) | 3:17 | 2021-03-27\* | 2021-06-23 |
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2021-10-28 | 2021-12-19 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-12-26 | 2021-12-27 |
+| [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2022-06-04 |  |
 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 | 2021-03-27\* | 2021-10-13 |
 | [Fiel \- Remix](https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Fiel \(Remix\)](https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c) | 5:49 | 2021-06-18 | 2021-10-19 |
 | [Film out](https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Film out](https://open.spotify.com/album/2jae5Jx8Yh1WjP1K4wTFUa) | 3:34 | 2021-04-03 | 2021-04-05 |
@@ -262,7 +263,7 @@
 | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj) | 8:39 | 2022-03-05 | 2022-03-27 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-26 | 2021-12-27 |
 | [Ropa Cara](https://open.spotify.com/track/2zY1iTaEgs8ROkkWtWLe7l) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:42 | 2021-03-27\* | 2021-04-11 |
-| [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 | 2022-03-26 |  |
+| [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 | 2022-03-26 | 2022-06-05 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-02 |  |
 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 | 2021-05-09 | 2021-11-05 |
 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 | 2021-11-06 | 2022-02-13 |

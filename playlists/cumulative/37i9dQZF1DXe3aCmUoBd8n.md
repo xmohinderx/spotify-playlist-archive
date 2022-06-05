@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: Ziad Bourji.
 
-51 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/3kBNibb2D8hX0xnC695807)
+52 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/3kBNibb2D8hX0xnC695807)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 | 2022-05-04 |  |
 | [El Hob El Hob](https://open.spotify.com/track/4q1zwkAWuwTvJe10jxWuif) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [El Hob El Hob](https://open.spotify.com/album/1z65J61oSJOskywPbemr1y) | 3:38 | 2022-05-04 |  |
 | [Elli Baana](https://open.spotify.com/track/28bdcUznUDPjJEujZCABes) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Elli Baana](https://open.spotify.com/album/23Khcpq38kMe3FsIiV8Mbu) | 4:24 | 2022-05-04 |  |
+| [Enta Eli](https://open.spotify.com/track/3J7sclIMiseZABX8RedFoh) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL), [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [Enta Eli](https://open.spotify.com/album/4si6u0GkICCUzzthCzSkzq) | 2:34 | 2022-06-04 |  |
 | [Enta Wala Shi](https://open.spotify.com/track/4gxANSjG77cE2f8yLNdg4Q) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [Enta Wala Shi](https://open.spotify.com/album/32SyguSDB4FWRPdp86TkvD) | 3:23 | 2022-05-04 |  |
 | [Enta Zaalan Meni](https://open.spotify.com/track/2AGHWbmR6YAgJJ8fXy4o3G) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [Enta Zaalan Meni](https://open.spotify.com/album/0Uynztqh75HbmBU9obrLh7) | 3:38 | 2022-05-04 |  |
 | [Enti W Ana](https://open.spotify.com/track/4uVwxyBzFXXIy0iPUMExIc) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Enti W Ana](https://open.spotify.com/album/3aN1sOJg4kCaVpJbNfq3Cw) | 3:28 | 2022-05-04 |  |
@@ -42,7 +43,7 @@
 | [Hadal Ahbek](https://open.spotify.com/track/0ymn3NBfT1W2QW0d7U5kHS) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Hadal Ahbek](https://open.spotify.com/album/5NUgTQnW5TqzsqzDVEVITx) | 3:29 | 2022-05-04 | 2022-05-18 |
 | [Haydi Habibit Albi](https://open.spotify.com/track/5Avczi9dhLQDx8JHrlkJZp) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Haydi Habibit Albi](https://open.spotify.com/album/4WGeGLGs0o0Uc9fnrlREfZ) | 3:42 | 2022-05-04 |  |
 | [Kelna Mnenjar](https://open.spotify.com/track/0KGZNoR5kZ1aUw83pfunng) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kelna Mnenjar](https://open.spotify.com/album/3cPQv8RJQYIShkRDMhaO2R) | 3:10 | 2022-05-04 |  |
-| [La Ouyounak El Helwin](https://open.spotify.com/track/38qtGskHRVnyGyqWzFMfnG) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [La Ouyounak El Helwin](https://open.spotify.com/album/2ImEgj0cbjbbi5JR3mAsKA) | 3:42 | 2022-05-04 |  |
+| [La Ouyounak El Helwin](https://open.spotify.com/track/38qtGskHRVnyGyqWzFMfnG) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [La Ouyounak El Helwin](https://open.spotify.com/album/2ImEgj0cbjbbi5JR3mAsKA) | 3:42 | 2022-05-04 | 2022-06-05 |
 | [Lesatni Janbi](https://open.spotify.com/track/2bzUNpvOeOKMZqPI6B3sns) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Lesatni Janbi](https://open.spotify.com/album/01MxqvhWMbLvIi3OLtSNYj) | 4:18 | 2022-05-04 |  |
 | [Ma B7ebak](https://open.spotify.com/track/3dl5HjZ7kdsvibYRTozyjE) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ma B7ebak](https://open.spotify.com/album/7jzYoKIXN4FSjA1GZCafAS) | 4:05 | 2022-05-04 |  |
 | [Madi Aswad](https://open.spotify.com/track/24IyeYzwIGXWBtqqxQ5Kde) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Madi Aswad](https://open.spotify.com/album/2ZiZGls3VjAKzK7Ga1ZBtw) | 3:17 | 2022-05-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > From the Dance Halls and Honky Tonks across America to the World! Cover: Grace Tyler
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,495 likes - 198 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,585 likes - 198 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 82 | [Can't Put the Bottle Down](https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Can't Put the Bottle Down](https://open.spotify.com/album/1sp7u3WV7sjHYxLPjBHGlm) | 3:23 |
 | 83 | [35](https://open.spotify.com/track/6MdpKIS3SN51LsCYzZt0VE) | [Hill Country Revival](https://open.spotify.com/artist/46xdywMCy9lk3K4wN9SkvE) | [35](https://open.spotify.com/album/15IVUnrz2FvsgT7IN4LFYE) | 4:07 |
 | 84 | [If You Want It That Much](https://open.spotify.com/track/6h6uTeYywawEahrjFs2gYz) | [Cody Canada & The Departed](https://open.spotify.com/artist/0sNgjo2IC4YgJr6MF1bFS0) | [If You Want It That Much](https://open.spotify.com/album/5t1em5qrINtpfYgX9y7Qc8) | 3:34 |
-| 85 | [Cold Beer Time](https://open.spotify.com/track/0LhOghHV90jLGJIwnRPT8x) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU), [Jenee Fleenor](https://open.spotify.com/artist/1XpgQ1ihWLqiWuH7GioYd9) | [Cold Beer Time](https://open.spotify.com/album/3LFp3s7t5JLAqP2jnJ0FhP) | 3:17 |
+| 85 | [Cold Beer Time](https://open.spotify.com/track/0LhOghHV90jLGJIwnRPT8x) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Cold Beer Time](https://open.spotify.com/album/3LFp3s7t5JLAqP2jnJ0FhP) | 3:17 |
 | 86 | [Miles and Miles of You](https://open.spotify.com/track/4pkdRtBzxstB8Li7iuLZtz) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Miles and Miles of You](https://open.spotify.com/album/5G5NGWji2d6bSjnNzpxr90) | 4:01 |
 | 87 | [Build Your Wings](https://open.spotify.com/track/7DvJPzzF30oE4k6YI2tDrf) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [The Wilder Blue](https://open.spotify.com/album/3JjqwFaU3kZhVXA3ABuSvg) | 3:42 |
 | 88 | [Get It Right](https://open.spotify.com/track/0ve68szQnWDaBxmXcW9JgY) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Get It Right](https://open.spotify.com/album/08WN5lGg3mobJaIzFCDoTQ) | 3:32 |

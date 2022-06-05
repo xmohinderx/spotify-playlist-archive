@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "No Name",
+        "url": "https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108493,
+      "name": "0 to 100",
+      "url": "https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70"
+    },
+    {
+      "album": {
         "name": "079",
         "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
       },
@@ -4337,7 +4355,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 165600,
       "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
       "url": "https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS"
@@ -6683,7 +6701,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 224146,
       "name": "Pasoori",
       "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
@@ -7323,6 +7341,24 @@
       "duration_ms": 213426,
       "name": "RUN2U",
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
+    },
+    {
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/42LvsxgKnHYVu7PQRXmURw"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297320,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/6RHHbAbyIcPpvS1dP3KUGq"
     },
     {
       "album": {

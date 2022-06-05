@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. maggie lindemann
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,772 likes - 86 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,127 likes - 86 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

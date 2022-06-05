@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Fior 2 Bior
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,590 likes - 40 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,675 likes - 40 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

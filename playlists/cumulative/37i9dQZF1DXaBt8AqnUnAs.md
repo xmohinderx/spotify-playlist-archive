@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abismo](https://open.spotify.com/track/30yWCNCHDq8cepVoSfzS7i) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [Socorro \(Deluxe\)](https://open.spotify.com/album/5BShh2lxtKeMTCqbLs2M22) | 3:17 | 2022-06-03 |  |
+| [Abismo](https://open.spotify.com/track/30yWCNCHDq8cepVoSfzS7i) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [SOCORRO \(Deluxe\)](https://open.spotify.com/album/5BShh2lxtKeMTCqbLs2M22) | 3:17 | 2022-06-03 |  |
 | [Abre a porta](https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Abre a porta](https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd) | 2:22 | 2022-03-07 |  |
 | [Amor e Amor](https://open.spotify.com/track/7ipamaL0uwje5dSNejTwPb) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Amor e Amor](https://open.spotify.com/album/3BnaBNbNVXpRv6sO1lpQIe) | 4:21 | 2022-03-07 |  |
 | [Amor Espacial](https://open.spotify.com/track/0wcUKYS8PIpaYIVsQZsmmf) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6) | [Amor Espacial](https://open.spotify.com/album/5XZhBHLbBp1xUwmz5A86rJ) | 3:43 | 2022-03-07 |  |

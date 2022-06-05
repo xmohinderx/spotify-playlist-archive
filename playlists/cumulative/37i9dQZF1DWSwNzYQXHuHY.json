@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 162382,
       "name": "About",
       "url": "https://open.spotify.com/track/1GDqEr1WJxWSTYfAbfa6af"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 189893,
       "name": "BEST FRIEND",
       "url": "https://open.spotify.com/track/1j0BU9IWKxfWKX0ajT2jBe"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 187733,
       "name": "Dear my X",
       "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 219210,
       "name": "Dream",
       "url": "https://open.spotify.com/track/2zhF54yxl0asFYGtMWavYC"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 267099,
       "name": "Fairy of Shampoo",
       "url": "https://open.spotify.com/track/5IFCL8jUbhv1nP3cPuda7n"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 256661,
       "name": "First \ucc98\uc74c",
       "url": "https://open.spotify.com/track/4X7jxAG8hVhL6VGoFZfD9A"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 230661,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 186697,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/4dv1Ygd62DuZEjzqVivgKE"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 257666,
       "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
       "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 196128,
       "name": "I think I'm in love",
       "url": "https://open.spotify.com/track/395vU3XBsgKd5iRXT9x94P"
@@ -689,10 +689,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 198626,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/2MzPMAOhdAdAOFV6Cug4Tj"
+    },
+    {
+      "album": {
+        "name": "I'm busy",
+        "url": "https://open.spotify.com/album/3Oj5jVbZ57FS5waEWgAf0K"
+      },
+      "artists": [
+        {
+          "name": "IGWI",
+          "url": "https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "I'm busy",
+      "url": "https://open.spotify.com/track/21QltCzKyoezfGmgjHhXcM"
     },
     {
       "album": {
@@ -729,7 +747,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 191126,
       "name": "Imagine Love",
       "url": "https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 216600,
       "name": "Line",
       "url": "https://open.spotify.com/track/2n4NuLpGCLp7dnICjvCgAy"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 244363,
       "name": "Maudie",
       "url": "https://open.spotify.com/track/7qcdtKc7dflDG35ieESgo9"
@@ -891,10 +909,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 171560,
       "name": "Not In Public",
       "url": "https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD"
+    },
+    {
+      "album": {
+        "name": "Only You Don't Know (The Spies Who Loved Me OST Part.2)",
+        "url": "https://open.spotify.com/album/1IDZhuzclqbwEk5zxo1d30"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199946,
+      "name": "Only You Don't Know",
+      "url": "https://open.spotify.com/track/135WOs0CpjMrYcMKomk1pk"
     },
     {
       "album": {
@@ -949,7 +985,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 204253,
       "name": "Our Endless Sea (All the way to you)",
       "url": "https://open.spotify.com/track/48xrTqWpSozdxyoQDL7Kjt"
@@ -1123,7 +1159,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 219813,
       "name": "Should Not Love You",
       "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
@@ -1301,7 +1337,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 167800,
       "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
       "url": "https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb"
@@ -1399,7 +1435,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 198626,
       "name": "To, Summer",
       "url": "https://open.spotify.com/track/5pwBvZSb3JboCWU9xxgSiT"
@@ -1455,7 +1491,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 221813,
       "name": "U (feat. ARIAZ, \uc2dc\ud604 & ESON)",
       "url": "https://open.spotify.com/track/6ezxrPOjX6mOspfdKelSfY"
@@ -1477,7 +1513,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 239557,
       "name": "Ugly, Lovely (feat. INFP)",
       "url": "https://open.spotify.com/track/51N5xzPBGodwhO2cKlkT32"
@@ -1611,7 +1647,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 225133,
       "name": "Your name",
       "url": "https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI"
@@ -1647,7 +1683,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 251356,
       "name": "\uc0ac\uc2e4\uc740 The Truth Is",
       "url": "https://open.spotify.com/track/2EGmEj8EkRgNqvSRJHJYqJ"
@@ -1687,7 +1723,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 201944,
       "name": "\uc798\uc0dd\uae30\uc9c8 \ub9d0\ub358\uac00",
       "url": "https://open.spotify.com/track/33mgkPtgDH20O8tC0ywqYU"

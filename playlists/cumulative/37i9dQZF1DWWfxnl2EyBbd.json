@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 298120,
       "name": "A Fainter Scent",
       "url": "https://open.spotify.com/track/7i8DqSgFKo099i4IC0uCPN"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 523466,
       "name": "At Night",
       "url": "https://open.spotify.com/track/24U3tHtsmkqzdYGQUcBH5J"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 607733,
       "name": "Baby Plays Around",
       "url": "https://open.spotify.com/track/4yOHkrkJHqE7sruMEgDJBb"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 396320,
       "name": "Based On Gustav",
       "url": "https://open.spotify.com/track/03CuJU4nQBANkiHpRrazC9"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 384813,
       "name": "Brigas nunca mais",
       "url": "https://open.spotify.com/track/0BznBDSocQlKKja9oOer64"
@@ -498,6 +498,32 @@
     },
     {
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6QFy0zMnOL1Y5oacJYP2RE"
+      },
+      "artists": [
+        {
+          "name": "Juan Ortiz",
+          "url": "https://open.spotify.com/artist/72wv4vWevdN2V78wvxj44U"
+        },
+        {
+          "name": "Gene Jackson",
+          "url": "https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8"
+        },
+        {
+          "name": "Hiroshi Takase",
+          "url": "https://open.spotify.com/artist/5wdKbfjSsOpldsBV3GBg9H"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401533,
+      "name": "Christmas in Bilbao",
+      "url": "https://open.spotify.com/track/4yEV9RgUepXeLCdSFG3ohP"
+    },
+    {
+      "album": {
         "name": "Come Sunday",
         "url": "https://open.spotify.com/album/2ntGI3niS9mmoSvTdt4BtS"
       },
@@ -513,7 +539,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 209946,
       "name": "Come Sunday",
       "url": "https://open.spotify.com/track/3Nctgma8nqUtYcfOUbmSLn"
@@ -767,7 +793,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 262000,
       "name": "Eleventh Hour",
       "url": "https://open.spotify.com/track/5CKi0wTee5YOleBVAQd2B1"
@@ -855,7 +881,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 413374,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/7Lz3Iy3sUv0fNq0crfhDGA"
@@ -899,7 +925,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 204040,
       "name": "Falsa Balada",
       "url": "https://open.spotify.com/track/3xSPYYsmwXaSnN9e8gxFqC"
@@ -1085,7 +1111,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 140895,
       "name": "Hesitation",
       "url": "https://open.spotify.com/track/79DycP44xL69ZNfkH3Kqnd"
@@ -1103,7 +1129,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 312080,
       "name": "Hush - Nikki Iles",
       "url": "https://open.spotify.com/track/2kkgAsYTi28uYl7KM0BJCr"
@@ -1139,7 +1165,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 241133,
       "name": "I Remember Clifford - Live At Philharmonie, Munich / 1986",
       "url": "https://open.spotify.com/track/1Q69Gb6Atyr6gLHj5Rkd3B"
@@ -1365,7 +1391,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 338786,
       "name": "In the Days of Our Love",
       "url": "https://open.spotify.com/track/3UXWECtFUy4QyQzXeuxAK0"
@@ -1559,10 +1585,6 @@
         {
           "name": "Carl Winther Trio",
           "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
-        },
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
         }
       ],
       "date_added": "2022-06-03",
@@ -1769,7 +1791,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 371165,
       "name": "Liten Jazzballong Revisited",
       "url": "https://open.spotify.com/track/3Q8mDlDBHw5lPNvMcXgBoe"
@@ -1849,7 +1871,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 263285,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/1g0jjb4pvsGBxGbM5OxvYT"
@@ -2147,7 +2169,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 344206,
       "name": "On a Misty Night",
       "url": "https://open.spotify.com/track/5ehmctMo8g8GbqQXlxP43W"
@@ -2261,7 +2283,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 351440,
       "name": "Plaza Real",
       "url": "https://open.spotify.com/track/5NNyy2Fn4qsZ79lEzKFrM9"
@@ -2297,7 +2319,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 241320,
       "name": "Pray",
       "url": "https://open.spotify.com/track/6niHY50qraFaCfJ8azjMQ4"
@@ -2337,7 +2359,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 464733,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/1lsPBTvqs1zQPtNWcP15b5"
@@ -2523,7 +2545,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 199466,
       "name": "Resilience",
       "url": "https://open.spotify.com/track/5f5I2cWttKiqXPCwu1bLTr"
@@ -2665,7 +2687,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 608533,
       "name": "Secret Love - Live",
       "url": "https://open.spotify.com/track/4E4P5vhVNbfsd109TTNSbL"
@@ -2770,6 +2792,32 @@
     },
     {
       "album": {
+        "name": "Golden Treasures",
+        "url": "https://open.spotify.com/album/6HVVdncUSlgCkRh5qQaTV4"
+      },
+      "artists": [
+        {
+          "name": "Ari Hoenig",
+          "url": "https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz"
+        },
+        {
+          "name": "Gadi Lehavi",
+          "url": "https://open.spotify.com/artist/01FRXq3Es0z4crmTkjkR7o"
+        },
+        {
+          "name": "Ben Tiberio",
+          "url": "https://open.spotify.com/artist/4HF9chz1OmDunHzUD3ZIos"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377733,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/2Zx7yE2yykRkjhqU8blE1s"
+    },
+    {
+      "album": {
         "name": "Soft Summer Breeze",
         "url": "https://open.spotify.com/album/4943XSKD7cXKrUQIs1FdNL"
       },
@@ -2781,7 +2829,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 411613,
       "name": "Soul Train",
       "url": "https://open.spotify.com/track/6gbgvmLYZ3Ms3yXfZU3YtS"
@@ -2851,7 +2899,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 499386,
       "name": "Stairway to the Stars",
       "url": "https://open.spotify.com/track/2YaDljVAZoDt5WDZCmWflN"
@@ -3047,10 +3095,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 172541,
       "name": "Terrassed\u00f8r",
       "url": "https://open.spotify.com/track/57tJTC6pmYgKWmc4Jo9Mz0"
+    },
+    {
+      "album": {
+        "name": "The Art of Flying (Edit)",
+        "url": "https://open.spotify.com/album/63PWCBZVpIcVFJkH3godc5"
+      },
+      "artists": [
+        {
+          "name": "Peter Nordahl Trio",
+          "url": "https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248917,
+      "name": "The Art of Flying - Edit",
+      "url": "https://open.spotify.com/track/38j4V8qkda6o4ta0BCJvKJ"
     },
     {
       "album": {
@@ -3375,7 +3441,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 439133,
       "name": "Transparence",
       "url": "https://open.spotify.com/track/5ab8HwacbJDpquK57MRhH2"
@@ -3393,7 +3459,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 295466,
       "name": "Triste Ba\u00eda da Guanabara",
       "url": "https://open.spotify.com/track/5lfDj6Vix80pnherzmrI0I"
@@ -3687,7 +3753,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 494040,
       "name": "You Must Believe In Spring/ Spring Is Here - Michel Legrand/Rogers and Hart",
       "url": "https://open.spotify.com/track/4Dx0AKBoRszLOK33LlTAXu"

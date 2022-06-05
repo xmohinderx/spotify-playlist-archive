@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Bad Bunny tiene el ritmo que mueve Latinoamérica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,786 likes - 101 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,146 likes - 101 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

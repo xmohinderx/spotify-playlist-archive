@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 183092,
       "name": "Bora",
       "url": "https://open.spotify.com/track/5HzFIsnKHQzt7hkIxGDy1D"
@@ -516,6 +516,28 @@
     },
     {
       "album": {
+        "name": "Daydreamer",
+        "url": "https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160403,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy"
+    },
+    {
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/2T874FXcRt9kwIags5Zckc"
       },
@@ -557,7 +579,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 199090,
       "name": "Don\u2019t Forget My Love",
       "url": "https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S"
@@ -825,7 +847,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 170322,
       "name": "Forever Young (feat. Emie)",
       "url": "https://open.spotify.com/track/15QfGsEb0CRfMl0L2EYHwk"
@@ -1927,7 +1949,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 166357,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/5I7P6BcKa3CLI5tC91Ee5p"
@@ -2187,7 +2209,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 156428,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/6fSwN09SuOX7nnkOXyUvH7"
@@ -2297,7 +2319,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 154731,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C"
@@ -3079,7 +3101,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 324063,
       "name": "Tschaka",
       "url": "https://open.spotify.com/track/7c5pAtAI2doDnsDD4SqMHG"
@@ -3239,7 +3261,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 192125,
       "name": "We\u2019re Good",
       "url": "https://open.spotify.com/track/0i5Cko9s2HbUq6KCNPAq13"
@@ -3309,7 +3331,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 170229,
       "name": "Without Your Love - sunsets & sandals Remix",
       "url": "https://open.spotify.com/track/78KQ0GVdHsDbv2ilNYSIBf"

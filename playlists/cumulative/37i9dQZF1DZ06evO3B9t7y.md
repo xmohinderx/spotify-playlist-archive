@@ -4,7 +4,7 @@
 
 > This is Carin Leon\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/3T4GDcQQHsN5wLXYdod9rv)
+51 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/3T4GDcQQHsN5wLXYdod9rv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Alguien Mejor](https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 2:39 | 2022-06-01 |  |
 | [Amor Borrachito](https://open.spotify.com/track/2yzM8Nq2ykj03M6OGhgLTW) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Amor Borrachito](https://open.spotify.com/album/4V7LGD03uKHxCJrIy6gjOK) | 2:55 | 2022-06-01 |  |
 | [Amorcito Mío \- Live](https://open.spotify.com/track/0iOZvZee49EgTNJEBm1VbC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 3:23 | 2022-06-01 |  |
-| [CAMBIA!](https://open.spotify.com/track/5cNJO43VKHxD0XGbkhboZu) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:08 | 2022-06-01 |  |
+| [CAMBIA!](https://open.spotify.com/track/5cNJO43VKHxD0XGbkhboZu) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:08 | 2022-06-01 | 2022-06-05 |
 | [Como Duele Equivocarse](https://open.spotify.com/track/01Bb7kIu9BRyWE0G5A7AmI) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como Duele Equivocarse](https://open.spotify.com/album/7uPgz1Q8wMcX95PwxUH3tU) | 3:46 | 2022-06-01 |  |
 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 | 2022-06-01 |  |
 | [Como Que Me Enamoro \- En Vivo](https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 2:57 | 2022-06-01 |  |
@@ -38,6 +38,7 @@
 | [More Than Words \- Spotify Singles](https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:33 | 2022-06-01 |  |
 | [Ni En El Mundo Te Hago \- Live](https://open.spotify.com/track/6sAidHY1UtgnlTqp74vsSt) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:23 | 2022-06-01 |  |
 | [Ni Parientes Somos \- Live](https://open.spotify.com/track/6nrHrM3pr6yBS2bLtxDKNR) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 2:48 | 2022-06-01 |  |
+| [Niña Bonita \- Live](https://open.spotify.com/track/3aXqUguKdsD0nfsQybiq6i) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 3:05 | 2022-06-04 |  |
 | [Ojos Cerrados](https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ojos Cerrados](https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0) | 3:00 | 2022-06-01 |  |
 | [Que Es Pa' Mi](https://open.spotify.com/track/2HdkLQkwXWT6yyZJYySAPf) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 3:36 | 2022-06-01 |  |
 | [Que Mas Puedo Pedir \(Bonus Track\)](https://open.spotify.com/track/3Y1Xr5Hfie9SDXPxIHSgbz) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 3:17 | 2022-06-01 |  |

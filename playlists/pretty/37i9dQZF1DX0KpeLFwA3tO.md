@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Big Joanie
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,815 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,923 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 41 | [Finger My Heart](https://open.spotify.com/track/4P2dzCa69sLHk1QmlAVayX) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Finger My Heart](https://open.spotify.com/album/0S7mEp3sUtWTU4GXIcrDQt) | 3:13 |
 | 42 | [Leaving Candyland](https://open.spotify.com/track/19zYVOWm7HBRxylA1nJrCS) | [Handheld](https://open.spotify.com/artist/1RSIxRoxSc8mdUgtjtgIHX) | [Leaving Candyland](https://open.spotify.com/album/27CrBBpILjfIQxgnkwg9S6) | 2:40 |
 | 43 | [Rituals](https://open.spotify.com/track/2vmRmhMs0hq1uZ5eA1AFvq) | [Tunic](https://open.spotify.com/artist/51M2l9r2xX31tNp0SA4WZf) | [Rituals](https://open.spotify.com/album/1QdOWZwkFlhorkyuaTarf4) | 2:14 |
-| 44 | [What I Can Get](https://open.spotify.com/track/3KO6tANGHypcSMi3TOVzEF) | [Basement Gary](https://open.spotify.com/artist/7zse5STLZ5qD4mJEUU4tX5) | [As Bg as They Wanna Be](https://open.spotify.com/album/1y3rE2ZfOeO3cCwc8qGGXD) | 2:22 |
+| 44 | [What I Can Get](https://open.spotify.com/track/3KO6tANGHypcSMi3TOVzEF) | [Basement Gary](https://open.spotify.com/artist/7zse5STLZ5qD4mJEUU4tX5) | [As BG as They Wanna Be](https://open.spotify.com/album/1y3rE2ZfOeO3cCwc8qGGXD) | 2:22 |
 | 45 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 |
 | 46 | [Troglodyte](https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Troglodyte](https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG) | 3:19 |
 | 47 | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/track/6QDS3BSyRGSaTUY4MhJUir) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/album/62q3iA3E0gLSeezRa2stGU) | 2:54 |

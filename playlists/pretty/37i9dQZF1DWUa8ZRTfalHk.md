@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > The hits of tomorrow \(...and yesterday\) are on Spotify today\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,530,417 likes - 84 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,531,532 likes - 84 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wasting Angels \(with The Kid LAROI\)](https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:03 |
-| 2 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 |
+| 1 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 |
+| 2 | [Wasting Angels \(with The Kid LAROI\)](https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:03 |
 | 3 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 |
 | 4 | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/track/3MTm8eZ2wCEtpyZqqhP6Dn) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/album/43tasPwPisjAgGgde0yy7F) | 2:52 |
 | 5 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 83 | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY) | 3:41 |
 | 84 | [Move](https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Move](https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial) | 2:36 |
 
-Snapshot ID: `MTY1NDIyODgwMCwwMDAwMDVkMDAwMDAwMTgxMjdiODUyZWMwMDAwMDE4MTI1N2UzZDhm`
+Snapshot ID: `MTY1NDM2MDkxNCwwMDAwMDVkMjAwMDAwMTgxMmY5ODNhYmQwMDAwMDE4MTI1N2UzZDhm`

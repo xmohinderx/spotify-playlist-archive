@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 > Disfrutemos del amor en los tiempos del rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,766 likes - 111 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,871 likes - 111 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 23 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 |
 | 24 | [Departamento](https://open.spotify.com/track/2RGk67GArzQcQa3AWSulJb) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Departamento](https://open.spotify.com/album/2ye38S3VSsbseIzQgtTP40) | 3:54 |
 | 25 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
-| 26 | [Años Luz](https://open.spotify.com/track/2HtmGWcpIJBgO8GVpjfbl2) | [Rock And Lovers](https://open.spotify.com/artist/18f0fAWI5vioFhhwzz3UEF) | [Años Luz](https://open.spotify.com/album/1FELRgnG6G1igkp59ooXEe) | 3:45 |
+| 26 | [En Años Luz](https://open.spotify.com/track/2HtmGWcpIJBgO8GVpjfbl2) | [Rock And Lovers](https://open.spotify.com/artist/18f0fAWI5vioFhhwzz3UEF) | [En Años Luz](https://open.spotify.com/album/1FELRgnG6G1igkp59ooXEe) | 3:45 |
 | 27 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 |
 | 28 | [Murasaki](https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Murasaki](https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj) | 3:33 |
 | 29 | [Nunca Es Tarde](https://open.spotify.com/track/4FHBc6Z61kNSrXVYFYDEwb) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Querer Querer](https://open.spotify.com/album/60DFkAltGtzAmoSgfyU9J3) | 3:03 |

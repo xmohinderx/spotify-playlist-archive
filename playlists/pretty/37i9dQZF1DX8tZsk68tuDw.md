@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Moore Kismet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,982,057 likes - 101 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,982,245 likes - 101 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 26 | [Feel Again](https://open.spotify.com/track/4I6JwM7pS6Uo705qqyM2su) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Feel Again](https://open.spotify.com/album/0TTJ1Qk8jND6NF4TlSAJNA) | 2:58 |
 | 27 | [Let's Freak](https://open.spotify.com/track/5DbvVp3W55HN5igEic72Xs) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Let's Freak](https://open.spotify.com/album/681OCAwzVaNg6yPgMQ3uJx) | 2:34 |
 | 28 | [Climax](https://open.spotify.com/track/5kV4UK6QYYOvBDe3nH0Djs) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Climax](https://open.spotify.com/album/75F1ELRXCrRGAPwavt9PNC) | 3:18 |
-| 29 | [Dibby Dibby DJ](https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 2:31 |
+| 29 | [Dibby Dibby DJ](https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 3:04 |
 | 30 | [Essa Mina](https://open.spotify.com/track/1D7rwwv3n4ChKvS3CyMiGL) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Essa Mina](https://open.spotify.com/album/3eaQmIHdcfnwCq68lJzKYH) | 6:10 |
 | 31 | [Talamanca \- Carl Cox Remix](https://open.spotify.com/track/4aFUd8Kilk401OLNMugJDg) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Talamanca \(Carl Cox Remix\)](https://open.spotify.com/album/4UWvyZcVY2xOzXoWOetaSA) | 4:35 |
 | 32 | [Let Me In](https://open.spotify.com/track/63TnIai4KFF6E2D2PNvyWo) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W), [Shania](https://open.spotify.com/artist/23kMR41KbDiyLWUKrp8ZVG) | [Let Me In](https://open.spotify.com/album/5K9O0DctnDZLUuAexCpccK) | 3:01 |

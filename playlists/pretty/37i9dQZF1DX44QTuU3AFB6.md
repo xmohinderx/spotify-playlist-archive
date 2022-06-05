@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 
 > ¡Rolas pa' pistear con Los Tigres Del Norte!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,346 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,391 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 36 | [Que Te Ruegue Quien Te Quiera](https://open.spotify.com/track/6CMUbdue9apkMR5RvIuA3H) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:05 |
 | 37 | [Dos Coronas a Mi Madre](https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 2:26 |
 | 38 | [Por Debajo Del Agua](https://open.spotify.com/track/4nJPAEl70w6VjOfetvZGQn) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jefe De Jefes](https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH) | 3:17 |
-| 39 | [Un Fin en Culiacán](https://open.spotify.com/track/2NRFCNwTDT4uReqyyQrovU) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Un Fin en Culiacán](https://open.spotify.com/album/4x9Oz3RqyQfDslpHrLBXBl) | 2:34 |
-| 40 | [Enhorabuena](https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Te Voy A Amar](https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC) | 3:14 |
-| 41 | [El Tiempo Que Me Quede](https://open.spotify.com/track/5pDkz9SvcPvFvC21EunbMQ) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [El Tiempo Que Me Quede](https://open.spotify.com/album/5un67SoPaoD1gsoMVyuzG4) | 3:36 |
-| 42 | [Duele](https://open.spotify.com/track/3qZ4beZNwiXKqGoopSzYBe) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Hecho En México \(Edición Especial\)](https://open.spotify.com/album/5VRiykfzXrzfY84WE1rRxj) | 3:13 |
-| 43 | [Arrancame El Corazon](https://open.spotify.com/track/2ujUDOUTM7Wt11uhMolOIY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Antología De Un Rey \- 30 Joyas Musicales](https://open.spotify.com/album/22zGSXwVHPmZqSrMXaZkNk) | 3:53 |
-| 44 | [Lloro? O No Lloro?](https://open.spotify.com/track/6rTKBvuGuq076GQfPIPb4B) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Lloro? O No Lloro?](https://open.spotify.com/album/5IO8CJjeiZswNZW1Zg7uMJ) | 2:59 |
-| 45 | [Suena La Banda](https://open.spotify.com/track/5IsIBQ58FTGKxCHOkWOqio) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Perdoname Mi Amor](https://open.spotify.com/album/4KgOvpbyQyjBOovq69Hfs2) | 2:54 |
-| 46 | [Ya Me Enteré](https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [El Ahijado Consentido](https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP) | 3:09 |
-| 47 | [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 |
-| 48 | [Golpes En El Corazón](https://open.spotify.com/track/1572xa7GAP413ZEuyTmh9g) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Las Mas Pedidas](https://open.spotify.com/album/1VUSNZkUxzZwKDm98Rsr0D) | 3:50 |
-| 49 | [Qué Se Te Olvidó](https://open.spotify.com/track/2ThbhSqcxWoptGa0D33L0K) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 3:27 |
-| 50 | [El Karma](https://open.spotify.com/track/44wMgGTT8vyFNUugq6UkcM) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap) | 3:15 |
+| 39 | [Palabra de Hombre](https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Guárdame Esta Noche](https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ) | 3:16 |
+| 40 | [2 Veces](https://open.spotify.com/track/4cV6ld7uIs906zOwNscoBM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:11 |
+| 41 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 |
+| 42 | [Ignoraste Mis Lágrimas](https://open.spotify.com/track/12M4PzpcGsn49aJvxkaadh) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV) | 2:54 |
+| 43 | [El Tiempo Que Me Quede](https://open.spotify.com/track/5pDkz9SvcPvFvC21EunbMQ) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [El Tiempo Que Me Quede](https://open.spotify.com/album/5un67SoPaoD1gsoMVyuzG4) | 3:36 |
+| 44 | [Ebrio De Amor](https://open.spotify.com/track/4yDTg9PkshhDpmUIVFoYI5) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [15 Exitos](https://open.spotify.com/album/6xLX5b3LhCdmqiu78iHfQd) | 2:45 |
+| 45 | [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 |
+| 46 | [Una Pagina Mas](https://open.spotify.com/track/6a2gIzBos0wc6yBJmrh1aY) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Pagina Mas](https://open.spotify.com/album/6Taf668GQt3vKonOZCxXpq) | 2:42 |
+| 47 | [Ya Lo Sé](https://open.spotify.com/track/1Squ9MGqzmYZ2u0KyKU5YA) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/78I27AxTxuvAEWRfQLfcma) | 3:21 |
+| 48 | [Se Me Sigue Notando](https://open.spotify.com/track/6CUtPSVBdwRLzSfALQqM4T) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Hombre De Rancho](https://open.spotify.com/album/37vmImrA5Kbl0kPbCN68y1) | 3:34 |
+| 49 | [Todos Hablan, Nada Saben](https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Todos Hablan, Nada Saben](https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK) | 2:43 |
+| 50 | [El Gato De Chihuahua](https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 3:21 |
 
-Snapshot ID: `MTY1NDMwNDY5MSwwMDAwMDAwMGE0ODBjZmI0YTA5YjQ3MzlmYjBlN2E2N2NmYWY0YjZj`
+Snapshot ID: `MTY1NDM5MTUzNCwwMDAwMDAwMDJiY2E4MzEwM2RiNmY3N2E4NTg4YTExZmRiMTBiZTRj`

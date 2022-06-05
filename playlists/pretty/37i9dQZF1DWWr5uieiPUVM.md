@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > 🚂  Aqui é só o trem caro do trap! Foto: Orochi, MC Poze do Rodo, Filipe Ret, Bielzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,695 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,509 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 11 | [Iphone Branco](https://open.spotify.com/track/6jxE4XjFVSKF18kfo7FCl9) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Iphone Branco](https://open.spotify.com/album/6hp21aFf4l4auKtNfgKmU2) | 2:17 |
 | 12 | [Filho do Dono](https://open.spotify.com/track/0EuRZKWzNptC1ZuIMFKLxz) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Filho do Dono](https://open.spotify.com/album/6DKYGWP4vYcYnMIPHRaMAe) | 3:30 |
 | 13 | [Sem Dó](https://open.spotify.com/track/2AQJRDfQJbfgmTf5e62Czl) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Sem Dó](https://open.spotify.com/album/3sQwZ1Bu0Qhzn2XeJwQW9E) | 4:27 |
-| 14 | [Vegano](https://open.spotify.com/track/2MKAalcstfLiNiukSlBzCS) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Vegano](https://open.spotify.com/album/3vU8uUnBiNOtE8Bhn6invy) | 3:19 |
+| 14 | [Vegano](https://open.spotify.com/track/2MKAalcstfLiNiukSlBzCS) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Vegano](https://open.spotify.com/album/3vU8uUnBiNOtE8Bhn6invy) | 3:26 |
 | 15 | [Aliança](https://open.spotify.com/track/0UbpJ2jRYTSHRy61viIC61) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Coração Terra de Ninguém](https://open.spotify.com/album/5BTYBHPfdhnD6Ez307JTyy) | 5:18 |
 | 16 | [Oi, Como Ce Tá?](https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Oi, Como Ce Tá?](https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou) | 2:36 |
 | 17 | [12 Chivas](https://open.spotify.com/track/0WwhC11l4afABOd1rSntp3) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [12 CHIVAS](https://open.spotify.com/album/6vfL9pYdrNR5HHNxYeGXqo) | 2:55 |

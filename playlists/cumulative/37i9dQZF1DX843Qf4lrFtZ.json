@@ -515,7 +515,7 @@
       ],
       "date_added": "2020-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 185486,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2019-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 167780,
       "name": "All Good",
       "url": "https://open.spotify.com/track/72BD25yh1nZAsTHbDG2LAU"
@@ -2445,7 +2445,7 @@
       ],
       "date_added": "2020-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 208013,
       "name": "Bigger Than",
       "url": "https://open.spotify.com/track/5X73AYzzEE5Di0JwcQKt9N"
@@ -3589,7 +3589,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 182653,
       "name": "Carried Away (Love To Love) (with Madison Beer)",
       "url": "https://open.spotify.com/track/4IvuPZogXbY7LODs7qzr0W"
@@ -5167,7 +5167,7 @@
       ],
       "date_added": "2020-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 155769,
       "name": "Don't Cry For Me (with Jason Derulo)",
       "url": "https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX"
@@ -5541,7 +5541,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 182276,
       "name": "Dream On Me",
       "url": "https://open.spotify.com/track/6vHE5zEPYdb0HUKRaIQ6tI"
@@ -9711,7 +9711,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 185522,
       "name": "I Love U",
       "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
@@ -12777,7 +12777,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 174600,
       "name": "Maybe Don't (feat. JP Saxe)",
       "url": "https://open.spotify.com/track/7ksYNhalX8IWKku513n8QG"
@@ -12853,7 +12853,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 167142,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
@@ -17907,7 +17907,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 172398,
       "name": "Share That Love (feat. G-Eazy)",
       "url": "https://open.spotify.com/track/44l9nnCVvOQBbWG6tDViKl"
@@ -19487,6 +19487,28 @@
       "duration_ms": 158571,
       "name": "Sunday Best",
       "url": "https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo"
+    },
+    {
+      "album": {
+        "name": "Sunroof",
+        "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
     },
     {
       "album": {
@@ -22015,7 +22037,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 213842,
       "name": "Wave of You",
       "url": "https://open.spotify.com/track/5Ne1q9Hv3l2NHBA3Agt8WT"

@@ -1104,6 +1104,24 @@
     },
     {
       "album": {
+        "name": "Men Twadaana",
+        "url": "https://open.spotify.com/album/34XzgcFeoIZ2h3cMjpFQLQ"
+      },
+      "artists": [
+        {
+          "name": "Marwan Fagi",
+          "url": "https://open.spotify.com/artist/6jX88gTjWQ2vmswdN1n5TH"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471071,
+      "name": "Men Twadaana",
+      "url": "https://open.spotify.com/track/32PvqSteo1Soty0xd4Ojkk"
+    },
+    {
+      "album": {
         "name": "150",
         "url": "https://open.spotify.com/album/2x0sdVHs0nCq3Pr4Tm4Sr1"
       },
@@ -1209,6 +1227,28 @@
       "duration_ms": 305057,
       "name": "My People And My World",
       "url": "https://open.spotify.com/track/0xPWpqWvI3KSj1kv3SnPjG"
+    },
+    {
+      "album": {
+        "name": "Ohbak Men Alsefr",
+        "url": "https://open.spotify.com/album/7siwoCTPM0vqvG6yEr5Q5v"
+      },
+      "artists": [
+        {
+          "name": "Ismail Mubarak",
+          "url": "https://open.spotify.com/artist/3zALKJh4vPkvTq8VsbChkB"
+        },
+        {
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237525,
+      "name": "Ohbak Men Alsefr",
+      "url": "https://open.spotify.com/track/0TnZyPBrljwrLbDcTPV2sm"
     },
     {
       "album": {

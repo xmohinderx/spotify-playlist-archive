@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Cesar MC, Lourena
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,406 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,725 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

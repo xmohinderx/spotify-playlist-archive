@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-470 songs - 1 day 3 hr 4 min - [published](https://open.spotify.com/playlist/4xe8JQ3qRY56mBF02olXgZ)
+471 songs - 1 day 3 hr 7 min - [published](https://open.spotify.com/playlist/4xe8JQ3qRY56mBF02olXgZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK) | 3:49 | 2021-05-23 | 2021-07-14 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-21 | 2022-04-07 |
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2021-05-23 | 2021-06-10 |
-| [BTBT \(feat\. DeVita\)](https://open.spotify.com/track/0FOBJ5PbwOe5XBY9y0bnhi) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT \(feat\. DeVita\)](https://open.spotify.com/album/76o5y6Sh7t8kiTERbDWNc3) | 3:39 | 2022-05-30 |  |
+| [BTBT \(feat\. DeVita\)](https://open.spotify.com/track/0FOBJ5PbwOe5XBY9y0bnhi) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT \(feat\. DeVita\)](https://open.spotify.com/album/76o5y6Sh7t8kiTERbDWNc3) | 3:39 | 2022-05-30 | 2022-06-05 |
 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 | 2021-05-16 | 2021-09-29 |
 | [Butter](https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP) | 2:44 | 2021-12-18 | 2021-12-26 |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-12-18 |
@@ -103,6 +103,7 @@
 | [Cinta Sampai Mati](https://open.spotify.com/track/4ah1WecOnFDKwnfdFpFtCT) | [Raffa Affar](https://open.spotify.com/artist/7JqV001XBrSr1Iyt66VPGk) | [Cinta Sampai Mati](https://open.spotify.com/album/03h6liT9iY9StqkVYPOhIh) | 3:46 | 2022-02-10 | 2022-02-17 |
 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 | 2021-04-10 | 2021-05-03 |
 | [Coin](https://open.spotify.com/track/7CZRguMolNqIobnXxpV735) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:13 | 2021-03-27 | 2021-03-29 |
+| [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:05 | 2022-06-04 |  |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-20 | 2022-05-31 |
 | [Crush](https://open.spotify.com/track/68kHuoBxtNcWZWxBu1V007) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 2:49 | 2021-10-23 | 2021-10-24 |
 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 | 2021-11-21 | 2021-11-22 |

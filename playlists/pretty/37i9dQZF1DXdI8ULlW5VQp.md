@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Lauri García en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,015 likes - 78 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,043 likes - 78 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

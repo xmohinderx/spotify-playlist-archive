@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Avery Anna
 
-188 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+189 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Lonely Peace](https://open.spotify.com/track/6qmgGaI4PbCAbCKtW8g6pU) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [Lonely Peace](https://open.spotify.com/album/4MJtZsmjt5OmpXgLRFdq8m) | 3:09 | 2021-12-31 | 2022-01-22 |
 | [Lost My Heartbreak](https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4) | 2:37 | 2021-12-31 |  |
 | [Love Child](https://open.spotify.com/track/2IRZm2pbQYoA5Q2gbwE6nU) | [Kalie Shorr](https://open.spotify.com/artist/5l2O3KSyCkTtjwcTLixHi5) | [Love Child](https://open.spotify.com/album/0hSp25ZPUeHmbSeldUqVoR) | 3:04 | 2021-12-31 |  |
+| [Love Takes Time](https://open.spotify.com/track/01YA6z2H4vYzQ9XLlrE3Qt) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Jonathan Hutcherson](https://open.spotify.com/album/2H4lPoj1CgW9dK3DukPdGh) | 2:39 | 2022-06-04 |  |
 | [Love You Now, Love You Later](https://open.spotify.com/track/5IE9hrw4ToKfw2pO08If5j) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Love You Now, Love You Later](https://open.spotify.com/album/7hAYEzQB22bvzQjRZPvxSe) | 2:26 | 2021-12-31 |  |
 | [LOVERBOY](https://open.spotify.com/track/2QRUzQzXQ7GEZRe9rA9WbL) | [Jody Chappell](https://open.spotify.com/artist/7C3byYIVDoWA1JExCcwQMK) | [LOVERBOY](https://open.spotify.com/album/2NbqvUAyCV2KaQeE32M41m) | 3:19 | 2021-12-31 | 2022-02-12 |
 | [Lucky Me](https://open.spotify.com/track/6dkKeMSmezjgacxO4SaxuZ) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Lucky Me](https://open.spotify.com/album/1LfLPB9XWHNwksW1r0JjhU) | 3:27 | 2021-12-31 |  |

@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 178546,
       "name": "All Of It All",
       "url": "https://open.spotify.com/track/4vMvD08D53LSWRZZJni1zp"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 181516,
       "name": "Be Kind",
       "url": "https://open.spotify.com/track/5pE4OLVJh5rjaLERbUgBB2"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 194680,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5yv6tEdYkY3EfWXGSMSnWj"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 227395,
       "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/6fRxMU4LWwyaSSowV441IU"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 221748,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/7HcaM7gc9YB2JAwxq1sfjT"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 169538,
       "name": "Chucks",
       "url": "https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6"
@@ -601,10 +601,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 164009,
       "name": "Dancing in the Moonlight (feat. NEIMY)",
       "url": "https://open.spotify.com/track/5ow0sNF1zSqp71Ix5jEXWU"
+    },
+    {
+      "album": {
+        "name": "Diamonds (feat. Aleyna Tilki)",
+        "url": "https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168196,
+      "name": "Diamonds (feat. Aleyna Tilki)",
+      "url": "https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI"
     },
     {
       "album": {
@@ -759,7 +781,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 158994,
       "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz"
@@ -2567,7 +2589,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 151000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1HPJpgceRg6KPO11nMhWlt"

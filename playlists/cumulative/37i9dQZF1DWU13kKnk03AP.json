@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 179720,
       "name": "23",
       "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
@@ -1882,6 +1882,24 @@
     },
     {
       "album": {
+        "name": "How Do You Love Somebody",
+        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180065,
+      "name": "How Do You Love Somebody",
+      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
+    },
+    {
+      "album": {
         "name": "If I Can\u2019t Have Love, I Want Power",
         "url": "https://open.spotify.com/album/2smUD3MgTAgWjLjRe8wVnC"
       },
@@ -3475,7 +3493,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 169333,
       "name": "Prisoner (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/5JqZ3oqF00jkT81foAFvqg"
@@ -3675,7 +3693,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 215626,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
@@ -4249,7 +4267,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 190306,
       "name": "Take You Dancing",
       "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
@@ -4695,7 +4713,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 196906,
       "name": "Wild (feat. Gary Clark Jr.)",
       "url": "https://open.spotify.com/track/4rVW6XqAsSaf5vOwc8FREW"

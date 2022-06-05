@@ -4,7 +4,7 @@
 
 > La esencia ranchera del mariachi se une al romanticismo de tus artistas pop favoritos\. María León en portada.
 
-50 songs - 2 hr 46 min - not published yet
+50 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/05bV0yx12rW3D31bBqo9ap)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 279339,
       "name": "anymore",
       "url": "https://open.spotify.com/track/7AJZthxqKgdpNmoeo0QSwV"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 126385,
       "name": "Elastic",
       "url": "https://open.spotify.com/track/4MAADpR6MjelkaZqe3Mgnv"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 121398,
       "name": "Grin On Me",
       "url": "https://open.spotify.com/track/3rnjpapU250ztdS4N2e3aS"
@@ -1237,7 +1237,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 162135,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/6fvNZQoTK4eOfNg8MGzoiY"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 183366,
       "name": "Immortalized",
       "url": "https://open.spotify.com/track/6Y2mmfzPHzI7DekT5iviyT"
@@ -1447,7 +1447,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 156666,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/65TiEAGo8U7RFXQwlsjjxh"
@@ -1675,7 +1675,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 200500,
       "name": "Make U Stay",
       "url": "https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb"
@@ -1747,7 +1747,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 160243,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
@@ -2062,6 +2062,24 @@
     },
     {
       "album": {
+        "name": "Pretty Face",
+        "url": "https://open.spotify.com/album/3mjjWk8njHR1KqYmWnRUUU"
+      },
+      "artists": [
+        {
+          "name": "Worry Club",
+          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179533,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/3Iid1bzzTHFY9bXoVs7SiJ"
+    },
+    {
+      "album": {
         "name": "Floating Head",
         "url": "https://open.spotify.com/album/4neSleLeckCi30cdozC6U7"
       },
@@ -2167,7 +2185,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 168175,
       "name": "Run",
       "url": "https://open.spotify.com/track/76lafwcCY9Vlbo2sKzcZfq"
@@ -2207,6 +2225,24 @@
       "duration_ms": 130714,
       "name": "Sea Sick",
       "url": "https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh"
+    },
+    {
+      "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
       "album": {
@@ -2265,7 +2301,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 177538,
       "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
       "url": "https://open.spotify.com/track/1QVTgEwKTkuKkA3UDyxGDX"
@@ -2355,7 +2391,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 306000,
       "name": "Sneak Away With Me",
       "url": "https://open.spotify.com/track/0DnMu0Q9X3yCPMUD5PP3P9"
@@ -2427,7 +2463,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 216406,
       "name": "Something to Say",
       "url": "https://open.spotify.com/track/62M5gj2bau54bPysumOjXp"
@@ -2463,7 +2499,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 117187,
       "name": "SUMMER",
       "url": "https://open.spotify.com/track/5Skth9SmIvbaZUTPaLm5v3"
@@ -2571,7 +2607,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 142500,
       "name": "The Outsiders",
       "url": "https://open.spotify.com/track/7ikfWiyZgjwCFi8Wq88oCk"
@@ -2607,7 +2643,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
@@ -2723,7 +2759,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 202920,
       "name": "VOCES",
       "url": "https://open.spotify.com/track/2PODONHWxMJ2nwWQvzXM6T"

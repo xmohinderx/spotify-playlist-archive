@@ -303,7 +303,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 176699,
       "name": "60 De Zile",
       "url": "https://open.spotify.com/track/6sOyrZvYjDeZ781vZomWXT"
@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 183745,
       "name": "Biliard",
       "url": "https://open.spotify.com/track/5AE0pXOUeBM4HfTb3Bqk3p"
@@ -2680,6 +2680,28 @@
     },
     {
       "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185857,
+      "name": "Cooped Up (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d"
+    },
+    {
+      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -3643,7 +3665,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 174130,
       "name": "Doua Lumi",
       "url": "https://open.spotify.com/track/3w0zgo6MI4BQUQBlKn258R"
@@ -3755,6 +3777,28 @@
       "duration_ms": 135053,
       "name": "Dua Lipa",
       "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+    },
+    {
+      "album": {
+        "name": "Dung\u0103",
+        "url": "https://open.spotify.com/album/6rr7GlJlnOmaI4YVl6cMo8"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Alduts Sherdley",
+          "url": "https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Dung\u0103",
+      "url": "https://open.spotify.com/track/6KJ9V4Veqlc46xQK5GmyRY"
     },
     {
       "album": {
@@ -5749,7 +5793,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 208706,
       "name": "House of Memories",
       "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
@@ -5965,6 +6009,28 @@
       "duration_ms": 263641,
       "name": "I Heard You\u2019re Married (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D"
+    },
+    {
+      "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192840,
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
       "album": {
@@ -9376,6 +9442,24 @@
     },
     {
       "album": {
+        "name": "OTZL GLTZ",
+        "url": "https://open.spotify.com/album/4ABHw6wnGxXx91zYciRooV"
+      },
+      "artists": [
+        {
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "OTZL GLTZ",
+      "url": "https://open.spotify.com/track/1OgsCWlfs6rNHpmQGq5fkz"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -11745,7 +11829,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -12171,6 +12255,28 @@
       "duration_ms": 148064,
       "name": "SUPERMODEL",
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "album": {
+        "name": "Supertare",
+        "url": "https://open.spotify.com/album/05tg5R3p16Ij6FKmRxBqq3"
+      },
+      "artists": [
+        {
+          "name": "Alina Eremia",
+          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
+        },
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184430,
+      "name": "Supertare",
+      "url": "https://open.spotify.com/track/3OB4p09aI3QvXreC8WSIfx"
     },
     {
       "album": {

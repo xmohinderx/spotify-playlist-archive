@@ -4,7 +4,7 @@
 
 > cada que te mando al Diablo me quiero ir contigo 💔
 
-75 songs - 4 hr 21 min - not published yet
+75 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/2JYYQFaZkrXZ0QulPBCtwz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,888,476 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,888,811 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 12 | [Non Judgmental](https://open.spotify.com/track/64b14VPe2ScA1l9jEbFNqB) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Non Judgmental](https://open.spotify.com/album/2uGbuQOjYFe03bOXUCcLKj) | 3:02 |
 | 13 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 |
 | 14 | [Chronicles \(feat\. H.E.R\. & Lil Durk\)](https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 3:32 |
-| 15 | [Demon](https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Demon](https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z) | 2:02 |
+| 15 | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z) | 2:02 |
 | 16 | [In Touch](https://open.spotify.com/track/0ZiEInpnUrUD0T3WIFMIW9) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [HITGIRL](https://open.spotify.com/album/2J9CZL9gMrruzFq3SnIlMm) | 2:44 |
 | 17 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 |
 | 18 | [We Cry Together](https://open.spotify.com/track/0RAvy97QRPzO2AfK5Dw6j3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Taylour Paige](https://open.spotify.com/artist/7nkr1fevjIVmgx5biwAWVo) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 5:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 
 > Los corridos más alterados y arremangados\. Régulo Caro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,159 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,321 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-718 songs - 1 day 9 hr 47 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+720 songs - 1 day 9 hr 52 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Andrew Story](https://open.spotify.com/track/0VVa11kcXBGm99NgSiF8Rx) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 3:12 | 2021-10-23 | 2021-12-03 |
 | [Animals](https://open.spotify.com/track/7LkTLR34uSq0CJsDyqJSXH) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 6:38 | 2021-12-18 | 2021-12-19 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-03-07 |  |
-| [Aomine Daiki](https://open.spotify.com/track/5X1FYw7MXEgnPmQAYwAa0q) | [quiizzzmeow](https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW) | [Aomine Daiki](https://open.spotify.com/album/47JA7w64AWwtd38x8hvCJz) | 2:47 | 2021-10-06 |  |
+| [Aomine Daiki](https://open.spotify.com/track/5X1FYw7MXEgnPmQAYwAa0q) | [quiizzzmeow](https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW) | [Aomine Daiki](https://open.spotify.com/album/47JA7w64AWwtd38x8hvCJz) | 2:47 | 2021-10-06 | 2022-06-05 |
 | [ARISTOCRAT](https://open.spotify.com/track/0si4hbWQ2OwdxKLF6x5xEX) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:06 | 2021-05-29 | 2021-09-19 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-17 |
@@ -324,6 +324,7 @@
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-03-27\* | 2021-04-26 |
 | [URUS](https://open.spotify.com/track/3uGqVBcu3vBPLzpyGWNEmt) | [Eldzhey](https://open.spotify.com/artist/0Cm90jv892OeEegB3ELmvN), [Rakhim](https://open.spotify.com/artist/78G8FdUykcn02tsgMLi3q0) | [URUS](https://open.spotify.com/album/3B9YZoB4arpnD8IBvOThbw) | 2:16 | 2021-10-03 | 2021-10-04 |
 | [VAMPIR \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [VAMPIR](https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW) | 2:23 | 2022-01-03 | 2022-01-06 |
+| [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-06-04 |  |
 | [VENT'ANNI](https://open.spotify.com/track/6Vfo6O3hk38vDcSpazNo3p) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 4:13 | 2021-05-26 | 2021-06-03 |
 | [Voilà](https://open.spotify.com/track/1uAOCTevGnyKIDbgZdOCnE) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Voilà](https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE) | 2:56 | 2021-05-25 | 2021-05-26 |
 | [WARLORD](https://open.spotify.com/track/2BuT8Njor0vbZul2TfCoSP) | [Dzhizus](https://open.spotify.com/artist/7kB4F3PktJEy9jbwI6ujjZ) | [WARLORD](https://open.spotify.com/album/0NiO0NJTCfoVvJAyxeKzE6) | 2:02 | 2022-01-29 | 2022-01-31 |
@@ -361,6 +362,7 @@
 | [Балконы](https://open.spotify.com/track/6GQFqCYz9zVWCg0pDdSSP1) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 4:39 | 2021-12-18 | 2021-12-24 |
 | [баночка с окурками](https://open.spotify.com/track/7j6eSKC2Hv3lcElPyR1bP3) | [КОСМОНАВТОВ НЕТ](https://open.spotify.com/artist/2rRyviUwWAHYmzyVzmXWpZ) | [1+1=11](https://open.spotify.com/album/2MjE1xXSjJQVbqOusXdRQI) | 2:42 | 2022-01-06 | 2022-03-25 |
 | [Барбисайз](https://open.spotify.com/track/1AMf9lmFOmLmb0e57QB78e) | [Дора](https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL), [MAYBE BABY](https://open.spotify.com/artist/2u3ZpvdeLOLg3mIvQg0jZh) | [Барбисайз](https://open.spotify.com/album/3ONBhOKlsQ6MTyaWlM7EJE) | 3:04 | 2021-12-16 | 2022-03-14 |
+| [Барбисайз](https://open.spotify.com/track/2qsXes5vZabYIFqqYCP1Hs) | [Дора](https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL), [MAYBE BABY](https://open.spotify.com/artist/2u3ZpvdeLOLg3mIvQg0jZh) | [MISS](https://open.spotify.com/album/2umHPKn2Mggn9RUqT8beQy) | 3:04 | 2022-06-04 |  |
 | [Башня](https://open.spotify.com/track/7gPyGGhy2cVVVOq5V5jUt4) | [Даня Милохин](https://open.spotify.com/artist/5E8WmPx3HcFqAA2PLVFk3R), [Mumiy Troll](https://open.spotify.com/artist/6rY1h3kpqbTquyR3qYWo08) | [Башня](https://open.spotify.com/album/1tGmsxVyVK1yLmWTHqTyO7) | 3:20 | 2021-11-28 | 2022-01-28 |
 | [БЕБЕБЕ](https://open.spotify.com/track/1BXPogWDVAYnHmTpCu4PxB) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 2:07 | 2021-05-22 | 2021-06-06 |
 | [Без бою](https://open.spotify.com/track/0Y5i43d7YtHWyYulOojDXP) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Gloria](https://open.spotify.com/album/53GqKgF0wipcbZsacXJTMR) | 4:19 | 2022-02-25 | 2022-03-07 |
@@ -467,7 +469,7 @@
 | [звонки](https://open.spotify.com/track/7yvUK5GuHHvkR5tSQxZvnS) | [quiizzzmeow](https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW) | [звонки](https://open.spotify.com/album/7EbX1gKyUHbqBZhK6xGpj8) | 2:34 | 2021-09-17 | 2021-09-22 |
 | [ЗДРАВСТВУЙТЕ \(feat\. OG Buda\)](https://open.spotify.com/track/4G4Nxu6AtSSEP68n3yUksh) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [PUSSY BOY](https://open.spotify.com/album/43RGWSAgcUh3ytWu26mdGH) | 2:16 | 2021-07-18 | 2021-09-26 |
 | [ЗДРАВСТВУЙТЕ \(feat\. OG Buda\)](https://open.spotify.com/track/5BfJXirR4xGajr0vqLpRbn) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [ЗДРАВСТВУЙТЕ \(feat\. OG Buda\)](https://open.spotify.com/album/5HMLlpsqi8Ka1YyHjujrsq) | 2:16 | 2021-06-27 | 2021-07-18 |
-| [Зелёный глаз](https://open.spotify.com/track/4ZOjdqmXLuwHDQUn9WWoFR) | [Минин](https://open.spotify.com/artist/78DVZhmskTStTuRbTMHO7A) | [Зелёный глаз](https://open.spotify.com/album/4wbNkwxPTMDNBD9DmcBZLS) | 1:54 | 2022-02-12 |  |
+| [Зелёный глаз](https://open.spotify.com/track/4ZOjdqmXLuwHDQUn9WWoFR) | [Минин](https://open.spotify.com/artist/78DVZhmskTStTuRbTMHO7A) | [Зелёный глаз](https://open.spotify.com/album/4wbNkwxPTMDNBD9DmcBZLS) | 1:54 | 2022-02-12 | 2022-06-05 |
 | [зима](https://open.spotify.com/track/0cOftxEWGyu4XAqEsqmdWS) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:28 | 2021-06-27 | 2021-08-31 |
 | [зима](https://open.spotify.com/track/3y1fkvCTbBhNXQpR56KXYC) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [зима](https://open.spotify.com/album/0uf1pLGBYv0IG1tFusaueA) | 2:28 | 2021-05-11 | 2021-06-27 |
 | [Зоопарк](https://open.spotify.com/track/777TceiGuC1kjvAiVAHvTo) | [10AGE](https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt) | [Зоопарк](https://open.spotify.com/album/7boVn0Y3wxQDfmxQFO6FXG) | 3:00 | 2021-09-19 | 2021-10-23 |

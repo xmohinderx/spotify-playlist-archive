@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 233826,
       "name": "Flecha",
       "url": "https://open.spotify.com/track/6XtOM0xVBmhjX8mRkrWo9z"
@@ -1034,6 +1034,24 @@
     },
     {
       "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160733,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
+    },
+    {
+      "album": {
         "name": "Porfa no te vayas",
         "url": "https://open.spotify.com/album/5m71js7NkNRQNtS1wmfH7s"
       },
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r"
@@ -1361,6 +1379,24 @@
       "duration_ms": 197317,
       "name": "Una Sensaci\u00f3n",
       "url": "https://open.spotify.com/track/3Udtj9kHnijyybRCefZF2z"
+    },
+    {
+      "album": {
+        "name": "No, No Vuelve",
+        "url": "https://open.spotify.com/album/5Kcur0mxf34Q4BKTdeBBQj"
+      },
+      "artists": [
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239200,
+      "name": "Volver\u00e1 - 2021",
+      "url": "https://open.spotify.com/track/1t0iDaXutz0LrGzSBbWGu5"
     },
     {
       "album": {

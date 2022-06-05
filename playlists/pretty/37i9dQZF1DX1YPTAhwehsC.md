@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lobby Boyz
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,699 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,802 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 6 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 |
 | 7 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 |
 | 8 | [Break From It](https://open.spotify.com/track/3wjD1rkZVPjXAlNtYhJNEB) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Break From It](https://open.spotify.com/album/4654ASXiNBc76nPGlSMIQm) | 1:56 |
-| 9 | [Demon](https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Demon](https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z) | 2:02 |
+| 9 | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z) | 2:02 |
 | 10 | [They Don't Know](https://open.spotify.com/track/2grbjy3hdw9ucfG3zJ4pCm) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [They Don't Know](https://open.spotify.com/album/7m9YSsj7bOyKOqd4Etu5LO) | 2:27 |
 | 11 | [What’s My Name \(with Queen Naija & Coi Leray\)](https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 3:21 |
 | 12 | [Neck & Wrist \(feat\. JAY\-Z & Pharrell\)](https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Neck & Wrist](https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3) | 3:29 |

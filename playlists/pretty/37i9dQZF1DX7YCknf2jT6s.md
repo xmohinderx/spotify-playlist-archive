@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Kiefer
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,151 likes - 84 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,347 likes - 84 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 43 | [The Avenues](https://open.spotify.com/track/4OWFijqelfGi2ooBcDl88K) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Katalyst](https://open.spotify.com/artist/4B0nwBQwFMfwa3esy6E3qM) | [The Avenues](https://open.spotify.com/album/2UFYbuQl5FSYae42onHWde) | 4:17 |
 | 44 | [Torino](https://open.spotify.com/track/6cEtprCmXLwljz6Kl3J9Tc) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/19IM6CveZ3jfng86RG1pbD) | 3:42 |
 | 45 | [Table Talk](https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Table Talk](https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH) | 2:57 |
-| 46 | [Falling](https://open.spotify.com/track/6reALukxIDs69vv9V6VCDp) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Falling](https://open.spotify.com/album/307bEMZhweuozTprnDpCoy) | 3:28 |
+| 46 | [Falling](https://open.spotify.com/track/6reALukxIDs69vv9V6VCDp) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Falling](https://open.spotify.com/album/307bEMZhweuozTprnDpCoy) | 3:28 |
 | 47 | [Hybrid Balance](https://open.spotify.com/track/44Kgum0iwsrPWfr2wWM6ts) | [Nils Wülker](https://open.spotify.com/artist/0GvUvYAa4rXdQt217NuE7o), [Munich Radio Orchestra](https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX), [Patrick Hahn](https://open.spotify.com/artist/31BzMXuwWSXeEDfmr8KKnK) | [Continuum](https://open.spotify.com/album/2InF1KxvccHM6xOdfJ7aT6) | 5:57 |
 | 48 | [Joy Road](https://open.spotify.com/track/0Bh4RCRlTcWUDNCu3CPgW6) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T) | [Strata Records \- the Sound of Detroit \- Reimagined by Jazzanova](https://open.spotify.com/album/4YLG5PwYbMJQeQe3NyVUP3) | 3:53 |
 | 49 | [Walk Cycle](https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/58uCPPl15ukrCdhukm45hi) | 3:12 |

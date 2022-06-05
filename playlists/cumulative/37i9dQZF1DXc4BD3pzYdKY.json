@@ -49,7 +49,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 153043,
       "name": "/kroun/",
       "url": "https://open.spotify.com/track/2e1HiZFrtlkyNxP5uu8dGj"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 259375,
       "name": "Alone",
       "url": "https://open.spotify.com/track/71Sjke4TVQxDYAkdR8jA2D"
@@ -1707,7 +1707,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 168500,
       "name": "Broken",
       "url": "https://open.spotify.com/track/5amww1Uz58ySe8JB67tgiU"
@@ -1769,7 +1769,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 132786,
       "name": "Busta Bussin",
       "url": "https://open.spotify.com/track/1nUHJkTaHZXwaMF6NNoo3f"
@@ -2461,7 +2461,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 124080,
       "name": "Crown",
       "url": "https://open.spotify.com/track/59DnReCyRq55fJUBXhNaMy"
@@ -3310,6 +3310,24 @@
     },
     {
       "album": {
+        "name": "Fight Of Your Life",
+        "url": "https://open.spotify.com/album/5NvLQlP11h3vpyCDJP3BJL"
+      },
+      "artists": [
+        {
+          "name": "Angie Rose",
+          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189664,
+      "name": "Fight Of Your Life",
+      "url": "https://open.spotify.com/track/75nrUKvEyi6NUP4SJC1wit"
+    },
+    {
+      "album": {
         "name": "Both Sides of the Blessing",
         "url": "https://open.spotify.com/album/5bNyxZapPsghiCtX9kvmkJ"
       },
@@ -3413,7 +3431,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 114172,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/07yw8zM7JYRXTJmJ3Qm3wQ"
@@ -3815,7 +3833,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 187058,
       "name": "God Keep Us",
       "url": "https://open.spotify.com/track/5BDGWkNfrS7g1R6KwKS5dr"
@@ -3851,7 +3869,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 145262,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/2A4gRO5i9fZvmS5rRyVRhF"
@@ -3989,7 +4007,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 178517,
       "name": "hands in the sky",
       "url": "https://open.spotify.com/track/09gYvizeUBuxfu6AvUUU54"
@@ -4179,6 +4197,28 @@
       "duration_ms": 111111,
       "name": "His Will > Mine",
       "url": "https://open.spotify.com/track/6bDQdwXEsVXX72kOiUSEKA"
+    },
+    {
+      "album": {
+        "name": "Hit My Line",
+        "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        },
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147492,
+      "name": "Hit My Line",
+      "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
     },
     {
       "album": {
@@ -4485,7 +4525,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 165629,
       "name": "I GET THIS?",
       "url": "https://open.spotify.com/track/5eFvHwmGYSPuJogHddWqKI"
@@ -4769,7 +4809,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "In the Garden",
       "url": "https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT"
@@ -4911,7 +4951,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Jonah",
       "url": "https://open.spotify.com/track/4cWDgGTClNmfdscTIjPUy8"
@@ -5583,7 +5623,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 238895,
       "name": "Look at Me Now",
       "url": "https://open.spotify.com/track/0D0cxJpnhijpr5QMmKmYDL"
@@ -5841,7 +5881,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 170357,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/22FlIBvzFuGIxls2m4teEG"
@@ -6063,7 +6103,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 174811,
       "name": "Muzzle",
       "url": "https://open.spotify.com/track/205gltq1f8eo49aii55f81"
@@ -6429,7 +6469,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 159000,
       "name": "No One's Gonna Save Me",
       "url": "https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV"
@@ -6759,7 +6799,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 147705,
       "name": "On Gang",
       "url": "https://open.spotify.com/track/7n1WvbVPyDlqHy5ts67S4W"
@@ -6877,7 +6917,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 239999,
       "name": "On The Go (feat. Bryann T)",
       "url": "https://open.spotify.com/track/2WBLES2aiTe2lK9A6yAyoK"
@@ -7143,7 +7183,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 205008,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/46D2mvIxmuEL5YhdBHsQ4L"
@@ -7393,7 +7433,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 185500,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0q52LXX8XHQdSrm0nbKHxd"
@@ -8173,7 +8213,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 165692,
       "name": "Rolled the Stone Away",
       "url": "https://open.spotify.com/track/5YHUVyxICPbJEAWLAfHyyC"
@@ -8403,7 +8443,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 149200,
       "name": "shadows",
       "url": "https://open.spotify.com/track/0gRbSSByq75AHyZKfyldZc"
@@ -8777,7 +8817,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 88294,
       "name": "STILL GOING",
       "url": "https://open.spotify.com/track/5yDlFQ285jpfAS8uYQcQqq"
@@ -9927,7 +9967,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 197064,
       "name": "Underdogs",
       "url": "https://open.spotify.com/track/218cnoqyQzKOxxwG3H9XAO"
@@ -10969,7 +11009,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 284466,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/7zTN5XcEXUHOI3m3jk0iZF"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: kidsai; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,920 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,951 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 33 | [Đầu To](https://open.spotify.com/track/31HwayLskRLAbNRISnylKt) | [Linh Thộn](https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq), [A.C Xuân Tài](https://open.spotify.com/artist/4cXmPRr3FNM39g79G2IovE) | [Đầu To](https://open.spotify.com/album/6ECnLHuvUXhu331tIyD1eS) | 3:03 |
 | 34 | [Ta Đâu Làm Được Gì](https://open.spotify.com/track/2jLGVYTBjA8vv7idZTtDMy) | [Lil Ce](https://open.spotify.com/artist/0iwaeyoF7NzZmTlcB1BdU6), [Chanee](https://open.spotify.com/artist/30bXZMmnKhXfmk2zPwaPIH) | [Ta Đâu Làm Được Gì](https://open.spotify.com/album/3Vlylhq0Hm8fo0pnrI0rz3) | 3:30 |
 | 35 | [Anh Sẽ Đón Em \- Cukak Remix](https://open.spotify.com/track/6TAwLpBmMXQbLs8vgZ43xS) | [Nguyên](https://open.spotify.com/artist/0axAywC6N1oXIqe4HQL2Gw), [TRANG](https://open.spotify.com/artist/2qfqUJvy3vika8WG6kOJ71) | [Anh Sẽ Đón Em \(Cukak Remix\)](https://open.spotify.com/album/5qQ39q9my2FoeiqUYnh0Tz) | 3:52 |
-| 36 | [Ngọt Ngào Đến Mấy Cũng Tan Thành Drill](https://open.spotify.com/track/6R9Yg7BF6JlN9pnUYokDoN) | [Hazel](https://open.spotify.com/artist/22OldkM9MvTQgkozI6Scae) | [Ngọt Ngào Đến Mấy Cũng Tan Thành Drill](https://open.spotify.com/album/1gJrMp4jKmEQdkELTJTAbI) | 2:40 |
+| 36 | [Ngọt Ngào Đến Mấy Cũng Tan Thành Drill](https://open.spotify.com/track/6R9Yg7BF6JlN9pnUYokDoN) | [Hazel](https://open.spotify.com/artist/4ZFRJP4p2Ul4kGnKrEn5W2) | [Ngọt Ngào Đến Mấy Cũng Tan Thành Drill](https://open.spotify.com/album/1gJrMp4jKmEQdkELTJTAbI) | 2:40 |
 | 37 | [Hình Như](https://open.spotify.com/track/62hVXugrWHfIUoTyqbGddp) | [GUA](https://open.spotify.com/artist/5Q5ZsD33P3z5ZiVmOC5WMx), [Tranc](https://open.spotify.com/artist/61xZPq6m9D1pmKc68G1YPR) | [Hình Như](https://open.spotify.com/album/4VAkf7hl69kMbpJv2sZVo8) | 3:01 |
 | 38 | [Yêu Mỗi Em \(feat\. Freaky\)](https://open.spotify.com/track/6aYqImJRj7acWqmiMv4iAn) | [Sóc Nâu](https://open.spotify.com/artist/3bFCDFiTz8uVUhdaepE5Mo), [Freaky](https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm) | [Yêu Mỗi Em](https://open.spotify.com/album/1LV63vZb1VkJ9ngbCnCIKt) | 3:12 |
 | 39 | [Anh Dau](https://open.spotify.com/track/4cBAsuUvc3eE4aZRBzW5h9) | [younghao](https://open.spotify.com/artist/6frv7MElqCBhpktzJvGoxs), [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [Anh Dau](https://open.spotify.com/album/2vGt13zTh4TBEnHX7FMTQd) | 3:25 |

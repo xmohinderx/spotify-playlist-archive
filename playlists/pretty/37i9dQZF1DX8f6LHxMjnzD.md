@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: NEIKED, Anne\-Marie & Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,286 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,377 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 34 | [Midnight Sun](https://open.spotify.com/track/0rY4VH4Gztiwi6uLGaQcdP) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Midnight Sun](https://open.spotify.com/album/15PdggN6xD2mtIE9odL5y2) | 3:18 |
 | 35 | [Scars](https://open.spotify.com/track/54u5CIDhcd3zBXi62gnFwA) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Scars](https://open.spotify.com/album/7KvLrCyO9gxRpks8p8PWB1) | 3:18 |
 | 36 | [The Hardest Part](https://open.spotify.com/track/3OYUuT8iujKMFUoeKrnhwe) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [The Hardest Part](https://open.spotify.com/album/1URmuEjZuBuXuLegkhvQr0) | 3:23 |
-| 37 | [Back Again](https://open.spotify.com/track/4vztjHvge0Yg8HIJpIB3Q0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx) | [HELLRAISERS, Part 3](https://open.spotify.com/album/3BwgBDgdwqRnuU805FMu3N) | 3:01 |
+| 37 | [Back Again \(with Loote\)](https://open.spotify.com/track/4vztjHvge0Yg8HIJpIB3Q0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx) | [HELLRAISERS, Part 3](https://open.spotify.com/album/3BwgBDgdwqRnuU805FMu3N) | 3:01 |
 | 38 | [Turn Up](https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [The Futuristics](https://open.spotify.com/artist/0qiu2HDyU3u01mZXg5zS7t) | [Turn Up](https://open.spotify.com/album/0LPcMt88koQMtVEhy3aS85) | 2:21 |
 | 39 | [Lovesong](https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lovesong](https://open.spotify.com/album/6grV1LAfe5fUZ04vSexZtb) | 4:05 |
 | 40 | [Dance For You](https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dance For You](https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W) | 3:21 |

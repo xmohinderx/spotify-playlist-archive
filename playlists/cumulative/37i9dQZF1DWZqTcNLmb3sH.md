@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
 
-233 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+234 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Kannada Ke Modala Gourava \(From "Khadak Halli Hudugaru"\)](https://open.spotify.com/track/2l4B2zHDI6WosM0xaB64E7) | [Sudheer shastri](https://open.spotify.com/artist/11f6WCy4YaiRYb7jN7cctZ), [Raghavendra Rajkumar](https://open.spotify.com/artist/2QOPALwP57t5d09IVOsrMI) | [Kannada Ke Modala Gourava \(From "Khadak Halli Hudugaru"\)](https://open.spotify.com/album/2eh2HxARpXCOwr8FENhuXz) | 4:07 | 2022-02-01 | 2022-02-16 |
 | [Kannadadha Mathu Chenna 2.0 \- Remix](https://open.spotify.com/track/4KPNWB3c3SDVn8vWAV5A2H) | [Rajkumar](https://open.spotify.com/artist/55tGpbDsnI47HStMSXmWV5) | [Kannadadha Mathu Chenna 2.0 \(Remix\)](https://open.spotify.com/album/7jJHH7ZihAXWyfQ8VodKsA) | 4:41 | 2021-12-06 | 2022-02-03 |
 | [Kannadiye \(From "Kshamisi Nimma Khaatheyalli Hanavilla"\)](https://open.spotify.com/track/4LubAzoKEK1QLplvYC5aM5) | [Prajwal Pai](https://open.spotify.com/artist/5tCoxq4T37P4D3f4kCFNi8), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Kannadiye \(From "Kshamisi Nimma Khaatheyalli Hanavilla"\)](https://open.spotify.com/album/7GTxAex1eBm22MMT8aM1uu) | 3:25 | 2022-03-02 |  |
+| [Kannamunde \(From "Nirmuktha"\)](https://open.spotify.com/track/3QDib1JLI8sHdHFsYiDQ0G) | [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc), [Samrat](https://open.spotify.com/artist/5RwriSLPFn4NLfH0ln4wT2), [Kabeer Sabharwal](https://open.spotify.com/artist/0el4saLJWKULxoqeKNsAU7), [Sachin Araballi](https://open.spotify.com/artist/06Xt8RZPqsPgKDrU954ZFo) | [Kannamunde \(From "Nirmuktha"\)](https://open.spotify.com/album/6a3uNNSCd5Z9rLer4cAQ8E) | 4:09 | 2022-06-04 |  |
 | [Kanninda Jaari](https://open.spotify.com/track/55VTMOvoXdOw3GdEGQuLOP) | [Hithan Hassan](https://open.spotify.com/artist/2MZXYynfCx4eRuQB2hh9jn), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Govinda Govinda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6LylQW2rFaRUHwqJe17JNX) | 4:13 | 2021-12-06 | 2022-05-19 |
 | [Kannu Hodiyaka](https://open.spotify.com/track/39QcVzIRlj76OqT6l5N8Ra) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Roberrt](https://open.spotify.com/album/2wWJ2mzYpYxcmGkf6ziidG) | 3:46 | 2021-12-06 | 2022-03-14 |
 | [Khali Khali Agide \- From "Puksatte Lifu"](https://open.spotify.com/track/5Ty8cIug6a2wo5RkAKP7vZ) | [Shilpa Mudbi](https://open.spotify.com/artist/6ZlQidX01vhLzUBWZMrLoE), [Vasu Dixit](https://open.spotify.com/artist/5jF2q5B73UBoXNSbyQijPH) | [Khali Khali Agide \(From "Puksatte Lifu"\)](https://open.spotify.com/album/7hkXwKL0OPgUilKIktagFN) | 4:10 | 2021-12-06 | 2022-05-19 |

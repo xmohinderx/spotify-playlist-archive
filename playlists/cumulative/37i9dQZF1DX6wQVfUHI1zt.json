@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 181533,
       "name": "\"Ojal\u00e1 Y Te Animes\" Adaptaci\u00f3n: Ojal\u00e1 Y Te Animes - Versi\u00f3n Rayados",
       "url": "https://open.spotify.com/track/4DzFGxj3vGIOTagYO1j7D6"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 245160,
       "name": "Aire",
       "url": "https://open.spotify.com/track/3xvl7xQiICvrTJolyPKvMF"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 194013,
       "name": "Al Partir",
       "url": "https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 164120,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To"
@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210626,
+      "name": "Bidi Bidi Bom Bom - 1994 Version",
+      "url": "https://open.spotify.com/track/7bZtI85x9Vw2t6EkvILqkr"
+    },
+    {
+      "album": {
         "name": "Puro Tejano",
         "url": "https://open.spotify.com/album/4BtAAu0k6eU8P6HLRrWYjr"
       },
@@ -275,7 +293,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 184066,
       "name": "Como La Flor - Remastered",
       "url": "https://open.spotify.com/track/1W35GFblfAKr7TpHPXfSjk"
@@ -311,10 +329,28 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 278920,
       "name": "Como Te Extrano",
       "url": "https://open.spotify.com/track/1FAubvFODC0G1hRfBGMqp1"
+    },
+    {
+      "album": {
+        "name": "Con un Nudo en la Garganta",
+        "url": "https://open.spotify.com/album/0S5NBCcSyYQlHRijkiCldk"
+      },
+      "artists": [
+        {
+          "name": "Joe Bravo",
+          "url": "https://open.spotify.com/artist/2OVwFpzZV7P8GJWVFF7n1Y"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223506,
+      "name": "Con un Nudo en la Garganta",
+      "url": "https://open.spotify.com/track/0tWVo41LuScCrbfZjYDz6u"
     },
     {
       "album": {
@@ -369,6 +405,24 @@
       "duration_ms": 224506,
       "name": "Di Algo featuring Edgar Ramirez of Zeri",
       "url": "https://open.spotify.com/track/65othLo1tpzoD8LUT16GTu"
+    },
+    {
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464466,
+      "name": "Disco Medley - Live From Astrodome",
+      "url": "https://open.spotify.com/track/6p3FDqyALPpkVptF8q5bRw"
     },
     {
       "album": {
@@ -459,7 +513,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 253610,
       "name": "El Mariachi Loco",
       "url": "https://open.spotify.com/track/7E4zThdgqCQO3WCPY0C3r5"
@@ -513,7 +567,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 189440,
       "name": "Ens\u00e9\u00f1ame",
       "url": "https://open.spotify.com/track/0IHrQNuGVj2c3dBwyw2lNC"
@@ -531,7 +585,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 202360,
       "name": "Ens\u00e9\u00f1ame A Olvidarte",
       "url": "https://open.spotify.com/track/0shtd9B4bdC8Nf4hw5Ii7k"
@@ -603,7 +657,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 196973,
       "name": "Eso Duele",
       "url": "https://open.spotify.com/track/4r1UX2U2tHi639B4TwE5Vb"
@@ -701,7 +755,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 544800,
       "name": "Jimmy's and Jay's Mazz Medley: Vuelvo, Ven Dev\u00f3rame Otra Vez, Qu\u00e9 Esperabas featuring Jay Perez",
       "url": "https://open.spotify.com/track/1yyuvKMFwBzIw8xu9rq6Dv"
@@ -773,7 +827,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 278493,
       "name": "La Mancha",
       "url": "https://open.spotify.com/track/4Sftcc8OWNsF6jyszaOwC6"
@@ -827,7 +881,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 190906,
       "name": "Las Cadenas",
       "url": "https://open.spotify.com/track/6VJYwVo6MDV4h8mNfTb61Q"
@@ -899,7 +953,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 209826,
       "name": "Lo Que Yo Tengo",
       "url": "https://open.spotify.com/track/77YM8eY4U7AKeJSQUc2OqF"
@@ -1104,6 +1158,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3lo Hits (20 \u00c9xitos)",
+        "url": "https://open.spotify.com/album/4QJdlvI2J7NwkoDPzidFbp"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225026,
+      "name": "Perd\u00f3name - Cumbia",
+      "url": "https://open.spotify.com/track/3iDPRvbrSqq6JV0fu9xtAF"
+    },
+    {
+      "album": {
         "name": "Yo S\u00e9 Que Te Acordar\u00e1s Texano (Vol.2 / 20 Temas Originales)",
         "url": "https://open.spotify.com/album/356kgwdvily1RQ2sDdMcj9"
       },
@@ -1115,7 +1187,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 223946,
       "name": "Por Favor Corazon",
       "url": "https://open.spotify.com/track/5g5abUvf0ldvD7AAvGj1Oe"
@@ -1137,6 +1209,24 @@
       "duration_ms": 248271,
       "name": "Porque Todav\u00eda Te Quiero",
       "url": "https://open.spotify.com/track/6cDh2RUe0AFbt2XJZd3R0J"
+    },
+    {
+      "album": {
+        "name": "Gran Encuentro (20 \u00c9xitos Originales)",
+        "url": "https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6"
+      },
+      "artists": [
+        {
+          "name": "David Lee Garza",
+          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223960,
+      "name": "Preciosa",
+      "url": "https://open.spotify.com/track/6lruDosJz30DwXkz1hxytg"
     },
     {
       "album": {
@@ -1277,7 +1367,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 193800,
       "name": "Siempre Hace Frio",
       "url": "https://open.spotify.com/track/3KVzV6YRMIWkaH5QsMXwuV"
@@ -1317,6 +1407,24 @@
       "duration_ms": 228333,
       "name": "Soy Como Soy",
       "url": "https://open.spotify.com/track/7lW0rxqtEuDPtAa6jVPJqE"
+    },
+    {
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195293,
+      "name": "Soy Un Novato",
+      "url": "https://open.spotify.com/track/5akdgRJMR9kwrrpOY2KUHg"
     },
     {
       "album": {
@@ -1421,7 +1529,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 226226,
       "name": "Techno Cumbia",
       "url": "https://open.spotify.com/track/6M9FEVLhh9wQrsq2CUk6QR"
@@ -1535,7 +1643,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 218640,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/7bHkADmhokpM5nIwkZYkbo"
@@ -1589,7 +1697,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 191564,
       "name": "T\u00fa, Solo T\u00fa",
       "url": "https://open.spotify.com/track/29WGydilDyujOwFpi8Ivr1"
@@ -1661,7 +1769,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 146720,
       "name": "Ven Conmigo",
       "url": "https://open.spotify.com/track/5neqwbGxk0u6OgiTqXmd57"

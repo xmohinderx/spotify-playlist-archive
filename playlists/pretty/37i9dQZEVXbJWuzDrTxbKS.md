@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJWuzDrTxbKS.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Latvia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,707 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,712 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJWuzDrTxbKS.md) - [plain]
 | 49 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 50 | [Easy Come Easy Go](https://open.spotify.com/track/6Qk3FR2CorkugmJyWoyusf) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:59 |
 
-Snapshot ID: `NzA3NTc0ODE5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzA3NjU5MDA4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

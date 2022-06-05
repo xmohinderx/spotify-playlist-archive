@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > احدث الاغاني العراقية\. غلاف: حسام الرسام
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,545 likes - 57 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,564 likes - 57 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

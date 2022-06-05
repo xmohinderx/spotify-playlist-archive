@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  The Belonging Co
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,478 likes - 103 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,516 likes - 103 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 32 | [Standing Tall \- Live](https://open.spotify.com/track/2VxFZR1nr0RkX8idbsVXPN) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Standing Tall \(Live\)](https://open.spotify.com/album/0o3AaPZnjrzXjWtmVvtqs3) | 4:17 |
 | 33 | [Always So Good \- Live](https://open.spotify.com/track/134HXcot9jJGRA7F6nbrtv) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Pour Your Spirit Out \(Live\)](https://open.spotify.com/album/0JkxjZEwrZxODIbQ1j5kGs) | 5:53 |
 | 34 | [Nail Scarred Hands](https://open.spotify.com/track/4lUzMhab7SAAQBOCxyG1qo) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nail Scarred Hands](https://open.spotify.com/album/04sRnc4zX3NEI2Raqfx8JD) | 3:12 |
-| 35 | [Heart Cry](https://open.spotify.com/track/7sj3foHbvvf33iGlhx2Rma) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Daniel Rivera](https://open.spotify.com/artist/3L54wEQJUcJg3JS4t53f7x) | [Heart Cry](https://open.spotify.com/album/1mXWDLikomDEHcv5cYornP) | 7:05 |
+| 35 | [Heart Cry](https://open.spotify.com/track/7sj3foHbvvf33iGlhx2Rma) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Dan Rivera](https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31) | [Heart Cry](https://open.spotify.com/album/1mXWDLikomDEHcv5cYornP) | 7:05 |
 | 36 | [Revive Us](https://open.spotify.com/track/482JokR9fmFzeaJfMTdvzr) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Revive Us](https://open.spotify.com/album/17oIxNONWHkpyohJKlpHDZ) | 5:26 |
 | 37 | [Behold Him Now \- Live](https://open.spotify.com/track/1YoIKoJR1QkLTS7grOAdCo) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Anna Byrd](https://open.spotify.com/artist/1kuo3vRooBFar6swkV54PY) | [Behold Him Now \(Live\)](https://open.spotify.com/album/4H1Qo4hUvTFedkYPPbpjmh) | 10:36 |
 | 38 | [Who You Are](https://open.spotify.com/track/7CLoo7Oy4DUdAn9mIBpUtY) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [All Honor](https://open.spotify.com/album/2yxSzzf7wQu9LYVLE6viE9) | 6:41 |

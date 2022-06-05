@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMJJi3wgRbAy.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,018 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,034 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMJJi3wgRbAy.md) - [plain]
 | 49 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 |
 | 50 | [Maléfica](https://open.spotify.com/track/0U9OZFbn82oICL2jNbpNHy) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 3:03 |
 
-Snapshot ID: `NzA3NTc0ODExLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzA3NjU5MDA4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

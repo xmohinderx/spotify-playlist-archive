@@ -4,7 +4,7 @@
 
 > ¡Buen provecho!
 
-104 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/5OZbOI9nZrBk2zCBjyRU30)
+105 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/5OZbOI9nZrBk2zCBjyRU30)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Girls Just Wanna Have Fun \- Acoustic](https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY) | 2:52 | 2022-03-28 |  |
 | [Hasta La Raiz](https://open.spotify.com/track/7xke3tSdPhIekPZh6ZoOfJ) | [Marcol](https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP) | [Hasta La Raíz](https://open.spotify.com/album/3T4Tkh71yxMKEpd84nt0DT) | 2:44 | 2022-03-28 |  |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2022-03-28 |  |
+| [Havana/Attention](https://open.spotify.com/track/2LoRKuH9DWBqJJJ8IKGqG9) | [The Lidls](https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE) | [Covers EP](https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q) | 2:33 | 2022-03-28 |  |
 | [Historia De Un Amor](https://open.spotify.com/track/3BKyXRrsIuWJDdWrYhklzk) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi), [Guillermo Gonzáles Camejo](https://open.spotify.com/artist/2rWlRhP4UoYmNm91PXI63j), [Yelsi Heredia](https://open.spotify.com/artist/0VaXsDScyn9Vb8h5vKTwpC), [Federico Aristides](https://open.spotify.com/artist/5UrqDZBxoHatLrblsdeI7h), [Jose Luis Changuito Quintana](https://open.spotify.com/artist/0cLPGopElDqI5viYslpksJ), [Sabu Suarez Escobar](https://open.spotify.com/artist/2l0tyCQ26SGRWuWT0YIzlG) | [Dos lágrimas](https://open.spotify.com/album/2jk65RIuKDR9gw8KtyPA3m) | 3:15 | 2022-03-28 |  |
 | [Hoy No](https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Hoy No](https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A) | 4:02 | 2022-03-28 |  |
 | [It Aint me \- Acoustic](https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [It Aint me \(Acoustic\)](https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV) | 3:12 | 2022-03-28 |  |
@@ -71,7 +72,7 @@
 | [me haces bien](https://open.spotify.com/track/4I31qeJXdtVgG7a7RIxPTj) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [MALOS Y BUENOS RECUERDOS](https://open.spotify.com/album/3rwYRSMbEuUiuxqDmgZUhJ) | 2:52 | 2022-03-28 |  |
 | [Me Voy a Valparaíso](https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Me Voy a Valparaíso](https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c) | 4:00 | 2022-03-28 |  |
 | [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 | 2022-03-28 |  |
-| [My Girl](https://open.spotify.com/track/6LMjjcvtlWp1Dtj19yiIvT) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Let Yourself In](https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy) | 3:29 | 2022-03-28 |  |
+| [My Girl](https://open.spotify.com/track/6LMjjcvtlWp1Dtj19yiIvT) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Let Yourself In](https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy) | 3:29 | 2022-03-28 | 2022-06-05 |
 | [Nada Me Falta \(Welcome To Tijuana\)](https://open.spotify.com/track/22tGC8xKORmlKcmpKHqdMA) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Nada Me Falta \(Welcome To Tijuana\)](https://open.spotify.com/album/1p4nM45VgvTK3XUc4u6YOO) | 3:01 | 2022-03-28 |  |
 | [Nena](https://open.spotify.com/track/47jv81dOwBzrAbYgQfs5u0) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:39 | 2022-03-28 |  |
 | [No Ha Parado De Llover \(with Sebastián Yatra\)](https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Ha Parado De Llover](https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU) | 4:05 | 2022-03-28 |  |

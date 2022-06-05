@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,326 likes - 93 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,443 likes - 93 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 21 | [Nena Trampa](https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 2:27 |
 | 22 | [Big League \(with Yo Gotti, Moneybagg Yo, CMG The Label feat\. Mozzy & Lil Poppa\)](https://open.spotify.com/track/4i32zrLpygBg5Ruy1uqN78) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Big League \(with Yo Gotti, Moneybagg Yo, CMG The Label feat\. Mozzy & Lil Poppa\)](https://open.spotify.com/album/0F7yQR5SY5IJ9G8xUg15h6) | 2:43 |
 | 23 | [Bleed It](https://open.spotify.com/track/1D2gtAC32GhkOlGvGJ7hxk) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bleed It](https://open.spotify.com/album/4jbjMs0rSuwQl7Jk5JFyYb) | 2:31 |
-| 24 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 2:54 |
+| 24 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 |
 | 25 | [We Could Be Together \(feat\. Daddy DJ\)](https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Daddy DJ](https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL) | [We Could Be Together \(feat\. Daddy DJ\)](https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn) | 2:29 |
 | 26 | [Suéltame](https://open.spotify.com/track/2gChGZjncJenm7wtuyuvIt) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Suéltame](https://open.spotify.com/album/47Tem5uw8ayCTyhDv1oXOY) | 2:53 |
 | 27 | [Illusion](https://open.spotify.com/track/3FoEPhXvZYkRY5W8pvof6c) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [도깨비불 \(Illusion\)](https://open.spotify.com/album/7BoM3XcwaBLJYRuJKiYaep) | 3:15 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 44 | [Before](https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Before](https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY) | 3:54 |
 | 45 | [sidelines](https://open.spotify.com/track/1fbcwjzzLTQKlMYxL3kNGb) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [sidelines](https://open.spotify.com/album/5VBEvVidTlMK2zdLUwZnny) | 2:03 |
 | 46 | [I GAVE YOU EVERYTHING](https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [I GAVE YOU EVERYTHING](https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ) | 2:38 |
-| 47 | [Demon](https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Demon](https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z) | 2:02 |
+| 47 | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z) | 2:02 |
 | 48 | [unlucky](https://open.spotify.com/track/1mMAmnslV5tCn1ldEghNpi) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [graves](https://open.spotify.com/album/3XwnekVtkLvo7Xh7OHBBjB) | 2:26 |
 | 49 | [Hi\-Fidelity](https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7) | 3:19 |
 | 50 | [Ghost On](https://open.spotify.com/track/512vqW0xDLcWjWD2tc46xd) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:20 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 92 | [First High](https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [First High](https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs) | 3:07 |
 | 93 | [Knight in Shining Armor](https://open.spotify.com/track/19Bbo6pDB5AdMFIl9UpxlV) | [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Knight in Shining Armor](https://open.spotify.com/album/6anwom4cs5kruajxIqjveO) | 2:20 |
 
-Snapshot ID: `MTY1NDIwNzIwMCwwMDAwMDM3OTAwMDAwMTgxMjY2ZWJiZTcwMDAwMDE4MTI2NGYyMWE3`
+Snapshot ID: `MTY1NDM2MDc5OCwwMDAwMDM3YTAwMDAwMTgxMmY5Njc0NjgwMDAwMDE4MTI2NGYyMWE3`

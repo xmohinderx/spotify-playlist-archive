@@ -333,7 +333,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 199384,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 279680,
       "name": "Elijah - Acoustic Version",
       "url": "https://open.spotify.com/track/5USnlTd40L2fKioMeNMOBJ"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 304226,
       "name": "Emmylou - Spotify Sessions",
       "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 230520,
       "name": "Even The Darkness Has Arms",
       "url": "https://open.spotify.com/track/1NCAKlp1bFHYbSSDQxfbJ1"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 199333,
       "name": "Glass",
       "url": "https://open.spotify.com/track/67n7BReUXzA0A499f2wEoh"
@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 264150,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/2RmH5VLkfdILc6wTK1LWkH"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 263133,
       "name": "Hold Me - Alternate Version",
       "url": "https://open.spotify.com/track/3JiqfgX20NPxT070KqaQV7"
@@ -1555,7 +1555,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 170864,
       "name": "How I Miss You",
       "url": "https://open.spotify.com/track/5QNxAH2pQLs8i7w6M9wH2x"
@@ -1573,7 +1573,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 234194,
       "name": "Human",
       "url": "https://open.spotify.com/track/4uBiUTHSuuRT4CtEoZHz2f"
@@ -1653,7 +1653,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 144946,
       "name": "I'll Be Gone",
       "url": "https://open.spotify.com/track/7ejUNmLIkfpdVe3gySTdPN"
@@ -1715,7 +1715,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 269500,
       "name": "If I Could Only Fly",
       "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
@@ -1997,7 +1997,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 246413,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
@@ -2055,7 +2055,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 264452,
       "name": "Motion Sickness (Demo - Bonus Track)",
       "url": "https://open.spotify.com/track/2JxSX1MtCIAxHGlas7ysJs"
@@ -3223,10 +3223,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 152320,
       "name": "Smoke - Acoustic",
       "url": "https://open.spotify.com/track/4WkXg0OeMYPY7oM9ZRq6mm"
+    },
+    {
+      "album": {
+        "name": "Without/Within",
+        "url": "https://open.spotify.com/album/6EzQDWzLzd7eYAW1hfJxSM"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305001,
+      "name": "Sophie",
+      "url": "https://open.spotify.com/track/2v162mDpVPU2tUhKZtgjpV"
     },
     {
       "album": {
@@ -3335,7 +3353,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 236276,
       "name": "Surprise, Surprise",
       "url": "https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA"
@@ -3353,7 +3371,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 252413,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/69cm7J1zKMbS9z4oYObomm"
@@ -3443,7 +3461,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 264866,
       "name": "The Bear (Trio)",
       "url": "https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV"
@@ -3833,7 +3851,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 252816,
       "name": "Used",
       "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
@@ -3945,7 +3963,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 237866,
       "name": "Waterbound (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/6hm3iR9TjDa5FCfPhXrnXY"
@@ -4241,7 +4259,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 259798,
       "name": "You\u2019re Free Now (feat. Sarah Jarosz)",
       "url": "https://open.spotify.com/track/0n5BiC98D3E0EZimzsboGW"

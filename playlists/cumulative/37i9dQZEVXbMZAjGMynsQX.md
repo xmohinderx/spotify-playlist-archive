@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Costa Rica.
 
-400 songs - 23 hr 47 min - [published](https://open.spotify.com/playlist/4ZZ76LbmUi9lBAiiZYLWQu)
+401 songs - 23 hr 50 min - [published](https://open.spotify.com/playlist/4ZZ76LbmUi9lBAiiZYLWQu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 | 2021-05-26 | 2021-06-12 |
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2021-10-13 | 2022-01-25 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-12-25 | 2021-12-27 |
+| [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2022-06-04 |  |
 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 | 2021-03-27\* | 2021-12-05 |
 | [Fiel \- Remix](https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Fiel \(Remix\)](https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c) | 5:49 | 2021-06-18 | 2021-09-26 |
 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 | 2021-10-16 | 2022-03-27 |
@@ -287,7 +288,7 @@
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2021-07-27 | 2021-10-03 |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-11 | 2021-07-25 |
 | [Permission to Dance](https://open.spotify.com/track/5eXBXreN3d1zdj6Sa8dS0u) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/6oLwgqPJrxnTibrzawDGqY) | 3:07 | 2021-07-25 | 2021-07-26 |
-| [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-03-24 |  |
+| [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-03-24 | 2022-06-05 |
 | [Poblado](https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Poblado](https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR) | 3:21 | 2021-07-02 | 2021-07-04 |
 | [Poblado](https://open.spotify.com/track/7xT1n5JKpB0bMPh6FL589e) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Poblado](https://open.spotify.com/album/4VZz15JGgc4DT0TTI9pPaz) | 3:21 | 2021-05-12 | 2021-07-02 |
 | [Poblado \- Remix](https://open.spotify.com/track/2K1CQMoG2Dy5nmeOYnhoi8) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 6:32 | 2021-09-12 | 2021-11-12 |

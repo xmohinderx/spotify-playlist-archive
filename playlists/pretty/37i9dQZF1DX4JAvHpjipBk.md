@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Post Malone, Polo G, Panic! At The Disco, 070 Shake, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,910,042 likes - 98 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,910,628 likes - 98 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 34 | [I GAVE YOU EVERYTHING](https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [I GAVE YOU EVERYTHING](https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ) | 2:38 |
 | 35 | [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 |
 | 36 | [Bleed It](https://open.spotify.com/track/1D2gtAC32GhkOlGvGJ7hxk) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bleed It](https://open.spotify.com/album/4jbjMs0rSuwQl7Jk5JFyYb) | 2:31 |
-| 37 | [Demon](https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Demon](https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z) | 2:02 |
+| 37 | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z) | 2:02 |
 | 38 | [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 |
-| 39 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 2:54 |
+| 39 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 |
 | 40 | [Will Of The People](https://open.spotify.com/track/1bbyikfBqLFAMxzrAuGreh) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/3nJtclmCvKVlXMDV4uM5hV) | 3:18 |
 | 41 | [Tell Me It Is](https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs) | 3:05 |
 | 42 | [2 Freaks \(feat\. Snoop Dogg\)](https://open.spotify.com/track/0bZoGGitOSSriBDfjT5g5J) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2 Freaks \(feat\. Snoop Dogg\)](https://open.spotify.com/album/1IUHCNX0sOEYnpfzo1vgBk) | 2:55 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 97 | [I Would Probably Hate You](https://open.spotify.com/track/6cZRlGzpks6vcWAidMAb88) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [I Would Probably Hate You](https://open.spotify.com/album/7iM4xNI1QxQP3MuCLGQDCA) | 3:00 |
 | 98 | [break the curse](https://open.spotify.com/track/3tO2uomNS80bwIzfYA0fZA) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 4:22 |
 
-Snapshot ID: `MTY1NDIyODgwMCwwMDAwMDNhZTAwMDAwMTgxMjdiODUyYzIwMDAwMDE4MTI1NTQ2ZjA4`
+Snapshot ID: `MTY1NDM2MTMzMSwwMDAwMDNiMDAwMDAwMTgxMmY5ZTk3NGYwMDAwMDE4MTI1NTQ2ZjA4`

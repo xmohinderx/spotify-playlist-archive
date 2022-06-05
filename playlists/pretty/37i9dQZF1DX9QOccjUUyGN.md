@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Krawk, ANNA, Jorge Bask
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,321 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,333 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 5 | [Cabeça Vazia](https://open.spotify.com/track/1KHllb7gWMErdYqt5ISFuw) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS), [CP no Beat](https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW), [SÓ AS BRABA Records](https://open.spotify.com/artist/1vzqipvBH39GBswAMRgRgM) | [Cabeça Vazia](https://open.spotify.com/album/6Z7bWx7g1WbY5ohoE7XvQ2) | 2:50 |
 | 6 | [Marra de Artista](https://open.spotify.com/track/0O4uL4Q3EYgWvbaxDC8qSz) | [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB), [Kloe](https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5) | [Marra de Artista](https://open.spotify.com/album/3V3T1pR3bRGSelBDSjAInI) | 2:33 |
 | 7 | [Nada Sério](https://open.spotify.com/track/4vdiQFF7p9GxeM08YB1Mym) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Errijorge](https://open.spotify.com/artist/5qIaSdndIosiPsZOmkHipG), [Maquiny](https://open.spotify.com/artist/0ixIqccVXNU45qPhq3kWex) | [Nada Sério](https://open.spotify.com/album/795iA4zmp650r0Bc5LgdtB) | 3:09 |
-| 8 | [Muchacha](https://open.spotify.com/track/6Nlu7yW7lkGnwIZmPIb96z) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Apollo](https://open.spotify.com/artist/0C2PcyYwXHcPgQpqMdx3O6), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [lWally](https://open.spotify.com/artist/2r6Kehsh7Isrp0ofpaPSko) | [Muchacha](https://open.spotify.com/album/2VwcfI392C4cU9U3LF35zj) | 2:56 |
+| 8 | [Muchacha](https://open.spotify.com/track/6Nlu7yW7lkGnwIZmPIb96z) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Apollo](https://open.spotify.com/artist/0C2PcyYwXHcPgQpqMdx3O6), [lWally](https://open.spotify.com/artist/2r6Kehsh7Isrp0ofpaPSko), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Muchacha](https://open.spotify.com/album/2VwcfI392C4cU9U3LF35zj) | 2:56 |
 | 9 | [Coração Bandido](https://open.spotify.com/track/7uP52LD0IufCPe49CVolqh) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Coração Bandido](https://open.spotify.com/album/00h6Vs7uMmKu96V9X4FeG1) | 2:09 |
 | 10 | [B.O](https://open.spotify.com/track/3P5LT1wpHz8jAC9MDkRJei) | [A2](https://open.spotify.com/artist/39frOJcRmHQYo8QXgVbOG9), [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [B.O](https://open.spotify.com/album/4VWuoQ8w7QS9E2enXbx7px) | 3:12 |
 | 11 | [Vida Amargurada](https://open.spotify.com/track/3D8BPqDGi5gdvfYVWpBA8x) | [AkashI.san](https://open.spotify.com/artist/2eP0me2qk84GZ68T6A0uBW), [klouvz](https://open.spotify.com/artist/3eQkISnjBygT8p2YD1AqJ3), [pluglip](https://open.spotify.com/artist/2U0pxQZXxuKh6zKZ9t4uXV) | [Vida Amargurada](https://open.spotify.com/album/5GJO9L8mkTQHn7XYRGHA88) | 2:26 |

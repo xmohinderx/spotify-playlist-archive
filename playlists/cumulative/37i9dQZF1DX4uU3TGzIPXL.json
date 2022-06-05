@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 212693,
       "name": "Bailamos - From \"Wild Wild West\"",
       "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 284906,
       "name": "California Love - Original Version (Explicit)",
       "url": "https://open.spotify.com/track/0DfqzZnW2KhiyXjVQiFioT"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 197591,
       "name": "Don't Give Me Your Life - Radio Version",
       "url": "https://open.spotify.com/track/6zTUlTbwdSVC61yrNY0SfS"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 281613,
       "name": "My Lovin' (You're Never Gonna Get It)",
       "url": "https://open.spotify.com/track/4ppoXM2a41IfC9YvfIdpgA"
@@ -1747,10 +1747,32 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 224933,
       "name": "Too Funky - Single Edit",
       "url": "https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi"
+    },
+    {
+      "album": {
+        "name": "Turn Around - Single",
+        "url": "https://open.spotify.com/album/0ekbBXoxN1AsU6dMJxpyzJ"
+      },
+      "artists": [
+        {
+          "name": "Phats & Small",
+          "url": "https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6"
+        },
+        {
+          "name": "Toney Lee",
+          "url": "https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212146,
+      "name": "Turn Around - Radio Edit",
+      "url": "https://open.spotify.com/track/2nx86MrPkXWQctveAEFJBf"
     },
     {
       "album": {

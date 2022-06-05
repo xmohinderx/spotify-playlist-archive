@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 
 > Soothing classical music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,279 likes - 69 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,432 likes - 69 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

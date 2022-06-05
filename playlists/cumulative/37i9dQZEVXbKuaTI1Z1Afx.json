@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 157138,
       "name": "10 Things I Hate About You",
       "url": "https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH"
@@ -4193,7 +4193,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 165600,
       "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
       "url": "https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS"
@@ -5881,7 +5881,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 245939,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
@@ -7095,6 +7095,24 @@
       "duration_ms": 213426,
       "name": "RUN2U",
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
+    },
+    {
+      "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
+      },
+      "artists": [
+        {
+          "name": "Meg Myers",
+          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263716,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC"
     },
     {
       "album": {
@@ -8560,6 +8578,24 @@
     },
     {
       "album": {
+        "name": "The Race Freestyle",
+        "url": "https://open.spotify.com/album/2Z9UHGOdtOroR9Liyu2Y2L"
+      },
+      "artists": [
+        {
+          "name": "Quandale Dingle",
+          "url": "https://open.spotify.com/artist/0yNWMfKE4IB7XboYGR0YK1"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114451,
+      "name": "The Race Freestyle",
+      "url": "https://open.spotify.com/track/7J31Lvi451GXq9HxdfIEOR"
+    },
+    {
+      "album": {
         "name": "The Road",
         "url": "https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq"
       },
@@ -9343,7 +9379,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 158666,
       "name": "VooDoo - Original Mix",
       "url": "https://open.spotify.com/track/4unr5Fdon9ADjCW4irnRxf"

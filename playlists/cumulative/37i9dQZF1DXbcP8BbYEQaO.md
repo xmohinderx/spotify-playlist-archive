@@ -4,7 +4,7 @@
 
 > in the evening the real me comes alive
 
-395 songs - 22 hr 37 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
+396 songs - 22 hr 41 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Black & Blue](https://open.spotify.com/track/1Y59TyltHoDl4YK2R3nCRm) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Black & Blue](https://open.spotify.com/album/6UEjnGUIcJjL2uBZJGD3tt) | 3:11 | 2020-10-13\* | 2021-06-26 |
 | [Black Coffee](https://open.spotify.com/track/4ZeIo1UFQoroC5kYXXxpwq) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Talk You Down](https://open.spotify.com/album/5dVlE2fykYq1VbfMV4WYeR) | 3:47 | 2020-10-13\* | 2020-11-18 |
 | [Black Hole](https://open.spotify.com/track/1N8S0zxZFT4OBdvtK2iS4Q) | [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Black Hole](https://open.spotify.com/album/4LuctFz5ZmuGWKhIetADRr) | 3:43 | 2020-10-13\* | 2021-11-09 |
+| [Blitz](https://open.spotify.com/track/3YpRE5024OrZ0lgk5zrxeZ) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Better Days](https://open.spotify.com/album/2RCjADfHIGgOAxrTtBoEpt) | 3:28 | 2022-06-03 |  |
 | [Bloodshot](https://open.spotify.com/track/6njoUYmj7kjQVYTG22K33r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Bloodshot / Waste](https://open.spotify.com/album/2GkFw24RAab0MJNexdE43z) | 2:59 | 2020-10-13\* | 2020-11-18 |
 | [Blue Escape](https://open.spotify.com/track/2HdJ8CcFR52iKnvoUm2I7I) | [BEA](https://open.spotify.com/artist/3Z3GDBp8qms6GCTWZlBA3M) | [Blue Escape](https://open.spotify.com/album/0RsioaII4X4rhcDGtpdM45) | 3:52 | 2021-08-05 | 2022-04-09 |
 | [Bodies](https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bodies](https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS) | 3:29 | 2021-06-26 | 2022-04-16 |
@@ -60,7 +61,7 @@
 | [Bruxelles je t’aime](https://open.spotify.com/track/4sOjKbpa7RLZVRNxcO26eb) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Bruxelles je t'aime](https://open.spotify.com/album/72XwipnC6NWfEd5BIWAXMp) | 3:48 | 2021-10-23 | 2022-04-17 |
 | [Bubble](https://open.spotify.com/track/4vb7jSp8SjP6dHVZ1m3Yhv) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Bubble](https://open.spotify.com/album/7iBpoxvtEN2wVV4bOh4yoc) | 3:45 | 2021-11-13 | 2022-04-17 |
 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 | 2021-06-19 | 2021-07-04 |
-| [Burn Again](https://open.spotify.com/track/1n0R7zfIgTGKeJOnr6P4uQ) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Burn Again](https://open.spotify.com/album/002riN5oRTYuhXmc89gvgp) | 3:25 | 2022-03-25 |  |
+| [Burn Again](https://open.spotify.com/track/1n0R7zfIgTGKeJOnr6P4uQ) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Burn Again](https://open.spotify.com/album/002riN5oRTYuhXmc89gvgp) | 3:25 | 2022-03-25 | 2022-06-05 |
 | [Burning Bridges \- Initial Talk Remix](https://open.spotify.com/track/2Na24Q9TJRfhtV5Un8AY5d) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Initial Talk](https://open.spotify.com/artist/0YQmcNgfnoqxBMJ8dcw3Eh) | [Burning Bridges \(Initial Talk Remix\)](https://open.spotify.com/album/7dVmmOtkUkNFY2WjvTXrMN) | 2:47 | 2021-10-02 | 2022-03-18 |
 | [By Now](https://open.spotify.com/track/10d5yjvKxiSG8mi8xITDLi) | [Ferdinand Schwartz](https://open.spotify.com/artist/1LOUv4mycFtm2iiRHh9I9X) | [By Now](https://open.spotify.com/album/1S0UmhfXiQBTHNdNhYlNVD) | 5:22 | 2020-10-13\* | 2021-07-17 |
 | [By Your Side](https://open.spotify.com/track/1ifz0b6vvbWJCJeAKaWMej) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Lady for Sale](https://open.spotify.com/album/3t0A9s7LtUGzVcXUJZc05U) | 3:58 | 2022-05-06 | 2022-05-11 |
@@ -295,7 +296,7 @@
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2021-07-10 | 2022-03-09 |
 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2021-06-19 | 2021-07-17 |
 | [Roses](https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Roses](https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC) | 3:46 | 2021-06-26 | 2021-07-17 |
-| [Rude Girl](https://open.spotify.com/track/4aaFbuneAqTpAxSDzlwf5g) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [The Duality In Me](https://open.spotify.com/album/2yFvAXTjCAsfQ5PRZIrAZR) | 3:04 | 2022-05-13 | 2022-06-01 |
+| [Rude Girl](https://open.spotify.com/track/4aaFbuneAqTpAxSDzlwf5g) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [The Duality In Me](https://open.spotify.com/album/2yFvAXTjCAsfQ5PRZIrAZR) | 3:04 | 2022-05-13 |  |
 | [Runaway W\. You](https://open.spotify.com/track/2WiVYRKQ6fnAjhcSa4pNwi) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Runaway W\. You](https://open.spotify.com/album/23w8EXSl95kLzNJaAqeaQO) | 3:19 | 2020-10-13\* | 2021-07-04 |
 | [Ruthless](https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Ruthless](https://open.spotify.com/album/6cQT58l4HEG57VzaqsGIOC) | 3:25 | 2021-10-23 | 2022-04-17 |
 | [Sad Song](https://open.spotify.com/track/2ksxz0To79bB3LBBndQVhQ) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Fragile](https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG) | 3:34 | 2021-10-16 | 2022-03-18 |
@@ -374,7 +375,7 @@
 | [too much](https://open.spotify.com/track/6hDxf753cNz33rKFE4Nmiv) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [too much](https://open.spotify.com/album/1JmCP78ceHPTehcxcRYFPY) | 2:56 | 2021-06-26 | 2022-01-15 |
 | [Traffic Lights](https://open.spotify.com/track/6CRMSbYypKAf9XubEsmvkN) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Traffic Lights](https://open.spotify.com/album/374RbvDWAdosSKBLYOjh5z) | 3:24 | 2021-08-28 | 2022-03-09 |
 | [Traitor](https://open.spotify.com/track/13AxsHppGvU1LsftFSuAJV) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Traitor](https://open.spotify.com/album/3pCnOxJezgI4KmcKMznAE7) | 2:57 | 2021-06-26 | 2022-01-08 |
-| [Treat Me Right](https://open.spotify.com/track/6NkOdTkgyQk5fSEtwGYpE6) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/03hafzXxELqD67fD1siVhS) | 3:08 | 2022-03-31 |  |
+| [Treat Me Right](https://open.spotify.com/track/6NkOdTkgyQk5fSEtwGYpE6) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/03hafzXxELqD67fD1siVhS) | 3:08 | 2022-03-31 | 2022-06-05 |
 | [Twenty Something](https://open.spotify.com/track/6tn96Btxy5ysJADC6cXGz8) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Twenty Something](https://open.spotify.com/album/51WevfxIZpP81UzN8t3h72) | 4:36 | 2020-10-13\* | 2021-11-20 |
 | [Twisted Mind](https://open.spotify.com/track/3Ofr27P70Y5D1dG9iwqFPD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Exotica \(Deluxe\)](https://open.spotify.com/album/4lPKHjh6OjSKP4SsIxXIsv) | 5:20 | 2022-03-11 | 2022-04-21 |
 | [V.C.R.](https://open.spotify.com/track/5PbgSubIzKFLBCI7Jp9ilH) | [Chey Rose](https://open.spotify.com/artist/1FLo8t5Xtr2OOWob1rXcOa) | [Even the Moon Goes Through Phases](https://open.spotify.com/album/31n7OYKnEojZZS9KIzLGIx) | 2:55 | 2021-07-20 | 2022-02-05 |

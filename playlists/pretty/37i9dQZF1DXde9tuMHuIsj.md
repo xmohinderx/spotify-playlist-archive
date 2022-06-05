@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > Lo mejor del Trap en Español\. The best of Latin Trap\. Cover: Chanell
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,503,916 likes - 87 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,503,922 likes - 87 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

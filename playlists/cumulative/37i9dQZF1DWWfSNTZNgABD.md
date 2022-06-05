@@ -4,7 +4,7 @@
 
 > The Latin soundtrack of the 2000s! Cover: Shakira
 
-83 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/3xPg9unhVGV9zYLGDICGVm)
+84 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/3xPg9unhVGV9zYLGDICGVm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [I Want You](https://open.spotify.com/track/1HCPjfa02m5JwcO37LHfYb) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Thalia](https://open.spotify.com/album/2RthEMVWkTLv6n9xPJZPCi) | 3:46 | 2022-01-01 |  |
 | [Imagíname Sin Ti](https://open.spotify.com/track/0LwCtv2JW5yTl5qd91e4tL) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Eterno](https://open.spotify.com/album/6x2BA9N3GLT21K7q3DWi5c) | 4:07 | 2022-01-01 |  |
 | [La Botella](https://open.spotify.com/track/1IlJpEiMt4nuLr3cWFQUxa) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/0yno13qSZ1kSJnWpAC5XBy) | 2:59 | 2022-01-01 |  |
-| [La Camisa Negra](https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:36 | 2022-01-01 |  |
+| [La Camisa Negra](https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:36 | 2022-01-01 | 2022-06-05 |
 | [La Descarada](https://open.spotify.com/track/0GXGsFQeB1x5H21xjTF2j5) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 3:23 | 2022-01-01 |  |
 | [La Tortura \(feat\. Alejandro Sanz\)](https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:32 | 2022-01-01 |  |
 | [Labios Compartidos](https://open.spotify.com/track/1TKg3TNK8AN6WSoETpnNnI) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar es Combatir](https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga) | 5:17 | 2022-01-01 |  |
@@ -87,6 +87,7 @@
 | [Un Siglo Sin Ti](https://open.spotify.com/track/145YOwjGncJQZPKbfol7Xr) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Sincero](https://open.spotify.com/album/03dnIimGspec4sucffQWLO) | 4:40 | 2022-01-01 |  |
 | [Vivo Y Muero En Tu Piel](https://open.spotify.com/track/3sVL2IQcU1HNKiHRzpjTD1) | [Jennifer Peña](https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf) | [Vivo Y Muero En Tu Piel](https://open.spotify.com/album/6gtbrUSehSDp2FlpVOGmMF) | 3:18 | 2022-01-01 |  |
 | [Volverte A Ver](https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:37 | 2022-01-01 |  |
+| [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 | 2022-01-01 |  |
 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 | 2022-01-01 |  |
 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 | 2022-01-01 |  |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2022-01-01 |  |

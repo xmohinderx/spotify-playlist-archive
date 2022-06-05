@@ -509,7 +509,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 212440,
       "name": "Are You Ready For Love? - Remastered",
       "url": "https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 147853,
       "name": "Children of the Revolution - Remaster",
       "url": "https://open.spotify.com/track/7as3y0Z9c0LH4sZDhFw9uU"
@@ -1431,7 +1431,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 266533,
       "name": "Cosmic Dancer",
       "url": "https://open.spotify.com/track/5gOnivVq0hLxPvIPC00ZhF"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 178045,
       "name": "Dancing In The Moonlight",
       "url": "https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR"
@@ -2069,7 +2069,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -2231,7 +2231,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 261373,
       "name": "Fame - 2016 Remaster",
       "url": "https://open.spotify.com/track/1PehfITh0TTRx3LkDdV4h3"
@@ -2699,7 +2699,7 @@
       ],
       "date_added": "2020-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2020-12-24",
+      "date_removed": null,
       "duration_ms": 205733,
       "name": "Grease - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV"
@@ -2869,7 +2869,7 @@
       ],
       "date_added": "2020-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 187013,
       "name": "Heart of Gold - 2009 Remaster",
       "url": "https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw"
@@ -2887,7 +2887,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 389760,
       "name": "Heaven Must Be Missing An Angel - Pt. 1",
       "url": "https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu"
@@ -3575,7 +3575,7 @@
       ],
       "date_added": "2019-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 158146,
       "name": "I'd Really Love to See You Tonight - 2012 Remaster",
       "url": "https://open.spotify.com/track/0ywn1mAGr0E8N5p32JwuHB"
@@ -3849,7 +3849,7 @@
       ],
       "date_added": "2019-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 394266,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
@@ -4209,7 +4209,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 149880,
       "name": "Knockin' On Heaven's Door",
       "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
@@ -4335,7 +4335,7 @@
       ],
       "date_added": "2021-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 170066,
       "name": "Laughter In The Rain",
       "url": "https://open.spotify.com/track/2ozTcQyZQmm9tSmc4VZfwU"
@@ -4537,6 +4537,24 @@
       "duration_ms": 227266,
       "name": "Listen to the Music",
       "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
+    },
+    {
+      "album": {
+        "name": "Wings Greatest",
+        "url": "https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193840,
+      "name": "Live And Let Die",
+      "url": "https://open.spotify.com/track/6AbaUu4XtHu7pGkPE94Tat"
     },
     {
       "album": {
@@ -5480,6 +5498,24 @@
     },
     {
       "album": {
+        "name": "No Dice (Remastered 2010 / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2k5XYJN31jQz577blA1Xod"
+      },
+      "artists": [
+        {
+          "name": "Badfinger",
+          "url": "https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180546,
+      "name": "No Matter What - Remastered 2010",
+      "url": "https://open.spotify.com/track/0zK545STj6P7qbFSpCK9pp"
+    },
+    {
+      "album": {
         "name": "Legend - The Best Of Bob Marley And The Wailers",
         "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
       },
@@ -5693,7 +5729,7 @@
       ],
       "date_added": "2020-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 291685,
       "name": "One of These Nights - 2013 Remaster",
       "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
@@ -5729,7 +5765,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 235560,
       "name": "Only the Good Die Young",
       "url": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
@@ -5927,7 +5963,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 172733,
       "name": "Please Mr. Postman",
       "url": "https://open.spotify.com/track/6RMo3zv9VjmcGi4V5O3cOL"
@@ -6003,6 +6039,24 @@
       "duration_ms": 200506,
       "name": "Queen Bitch - 2015 Remaster",
       "url": "https://open.spotify.com/track/2RDXq7AwoEpvrjsXe4zlUc"
+    },
+    {
+      "album": {
+        "name": "Carpenters",
+        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218893,
+      "name": "Rainy Days And Mondays",
+      "url": "https://open.spotify.com/track/5cbZDpFu1hTwaU7hDQpf13"
     },
     {
       "album": {
@@ -6197,7 +6251,7 @@
       ],
       "date_added": "2019-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 188746,
       "name": "Rock the Boat",
       "url": "https://open.spotify.com/track/0w4s0d8Qtu0K8dyMcB2tw1"
@@ -6863,7 +6917,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 348400,
       "name": "Sultans Of Swing",
       "url": "https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj"
@@ -7263,7 +7317,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 219906,
       "name": "The Harder They Come - From \"The Harder They Come\" Soundtrack",
       "url": "https://open.spotify.com/track/6XitzIBDSAbU9gU9lhouQa"
@@ -7299,7 +7353,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 264503,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
@@ -8417,7 +8471,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 158893,
       "name": "You Can Get It If You Really Want",
       "url": "https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW"
@@ -8648,6 +8702,24 @@
     },
     {
       "album": {
+        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268866,
+      "name": "You've Got a Friend - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
+    },
+    {
+      "album": {
         "name": "The Essential James Taylor",
         "url": "https://open.spotify.com/album/69BraN93YbUqOGH1URqGka"
       },
@@ -8659,7 +8731,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 164920,
       "name": "Your Smiling Face",
       "url": "https://open.spotify.com/track/0z1MCtPlHy0x1g0XojaduR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\) cover: Kid Bloom
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,534 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,558 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

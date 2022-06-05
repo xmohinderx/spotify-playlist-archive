@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 414000,
       "name": "Abele Dance",
       "url": "https://open.spotify.com/track/1tTUxQPN19BkCv5Qk9FFSx"
@@ -95,6 +95,24 @@
       "duration_ms": 180960,
       "name": "African Battle",
       "url": "https://open.spotify.com/track/3rmkciW9XNLfeGmAmso4fm"
+    },
+    {
+      "album": {
+        "name": "Africadelic",
+        "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196546,
+      "name": "African Carnaval",
+      "url": "https://open.spotify.com/track/28G0EJfxMf0pp72ZPxAM9R"
     },
     {
       "album": {
@@ -353,7 +371,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 350733,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/1XWDjQkOEUvgKuWRPxZOMO"
@@ -411,7 +429,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 309800,
       "name": "Ceddo End Title",
       "url": "https://open.spotify.com/track/5P65x0PDpXSM3pC8V9EqsP"
@@ -517,7 +535,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 186200,
       "name": "Cosita Linda",
       "url": "https://open.spotify.com/track/2bBirdcBLswvtKiQojNFHR"
@@ -535,7 +553,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 245600,
       "name": "Dasiko",
       "url": "https://open.spotify.com/track/16tLBvLCBclgLVyFzAWwEm"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 263320,
       "name": "Hot Chicken",
       "url": "https://open.spotify.com/track/4k01r3CsuWbjrWbmKTSwsv"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 218945,
       "name": "In the midnight hour",
       "url": "https://open.spotify.com/track/7nHddSyD2K6DBxiIyrEM30"
@@ -1001,7 +1019,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 251573,
       "name": "Lily",
       "url": "https://open.spotify.com/track/5cMFjZAoxCWqgUO7VQcunF"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 276133,
       "name": "Mimbo",
       "url": "https://open.spotify.com/track/6OTdmZJPR1gGCGVwjl3nrd"
@@ -1415,7 +1433,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 276666,
       "name": "Rumba Makossa",
       "url": "https://open.spotify.com/track/3IBDRtyRDiyj6ZjbyPHWdF"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 149346,
       "name": "The Panther",
       "url": "https://open.spotify.com/track/0TO438ElpElpdtY9s4aNjv"

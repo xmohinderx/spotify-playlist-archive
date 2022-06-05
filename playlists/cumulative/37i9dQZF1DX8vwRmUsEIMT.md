@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: George Ezra
 
-97 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/4Q4OtTCCZtc7DTYLeNoedL)
+97 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/4Q4OtTCCZtc7DTYLeNoedL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-05-26 | 2022-06-03 |
 | [The Game](https://open.spotify.com/track/06GiNZKCqFfR8YMEbtUCj9) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Game](https://open.spotify.com/album/00CaleppRhwLyiE6GYpINo) | 2:50 | 2022-05-26 |  |
 | [The One](https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [The One](https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1) | 2:25 | 2022-05-26 |  |
-| [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 2:54 | 2022-06-02 |  |
+| [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 | 2022-06-02 |  |
 | [This Hell](https://open.spotify.com/track/6A6yKpsgFr4gIKd7gsfHhm) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [This Hell](https://open.spotify.com/album/0U4egSSjgOOcAO7Qmj189E) | 3:56 | 2022-05-26 |  |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-05-26 | 2022-06-03 |
 | [Through The Echoes](https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Through The Echoes / Lose It](https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC) | 3:41 | 2022-05-26 |  |

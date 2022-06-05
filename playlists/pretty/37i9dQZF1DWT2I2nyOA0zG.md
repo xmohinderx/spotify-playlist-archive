@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,034 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,035 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 25 | [The Calling](https://open.spotify.com/track/6GeJhsWvyRghhVha88TCNG) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [The Calling](https://open.spotify.com/album/2ridtCRegwAWPogc0howcY) | 3:13 |
 | 26 | [Mjolo \(feat\. Zanda Zakuza\)](https://open.spotify.com/track/6abcUHJLRUgXmb44S8icTh) | [Roki](https://open.spotify.com/artist/1jfWbG9JIlSJys68G8tLVE), [Zanda Zakuza](https://open.spotify.com/artist/1TTc432YhEO75fRcVKerPe) | [Mjolo \(feat\. Zanda Zakuza\)](https://open.spotify.com/album/79Wiv0uEy74k08IaofFcsJ) | 3:14 |
 | 27 | [Blow My Mind](https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Blow My Mind](https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp) | 3:19 |
-| 28 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 2:54 |
+| 28 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 |
 | 29 | [Waiting](https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Waiting](https://open.spotify.com/album/4bRnHj1ApFBEVMbvEw4H7E) | 2:44 |
 | 30 | [No Pressure](https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Pressure](https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8) | 2:57 |
 | 31 | [Ye](https://open.spotify.com/track/2lEl1iNGpz9r2B7R5BqXSD) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/5SCK5p3Rqgg0FwTmAurrcp) | 3:51 |

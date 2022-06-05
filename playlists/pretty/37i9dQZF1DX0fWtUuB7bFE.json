@@ -1,6 +1,6 @@
 {
   "description": "New music from all-time greats! Cover: Pink Floyd",
-  "num_followers": 122277,
+  "num_followers": 122354,
   "original_name": "Classic Rock Now",
   "owner": {
     "name": "Spotify",
@@ -487,7 +487,7 @@
     {
       "added_at": "2022-05-20 07:36:16",
       "album": {
-        "name": "Emergency",
+        "name": "Emergency (feat. Ronnie Romero, Barry Sparks & Simon Phillips)",
         "url": "https://open.spotify.com/album/2O3nyTQwb5eg9PwYi5Ft0X"
       },
       "artists": [
@@ -500,12 +500,16 @@
           "url": "https://open.spotify.com/artist/4Rl5skbePa3vdyXRr9muro"
         },
         {
+          "name": "Ronnie Romero",
+          "url": "https://open.spotify.com/artist/5uURCTdE7ztucOBpi5PmY2"
+        },
+        {
           "name": "Simon Phillips",
           "url": "https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy"
         }
       ],
       "duration_ms": 229329,
-      "name": "Emergency (feat. Barry Sparks & Simon Phillips)",
+      "name": "Emergency (feat. Ronnie Romero, Barry Sparks & Simon Phillips)",
       "url": "https://open.spotify.com/track/1r4TvZ1NDSGsJxmFOcXrqb"
     },
     {

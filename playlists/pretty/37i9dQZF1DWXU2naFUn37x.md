@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La nuova casa dello street rap italiano\. Cover: SEVEN 7oo
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,853 likes - 45 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,032 likes - 45 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

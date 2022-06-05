@@ -195,7 +195,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 204871,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/6damJkZsW0f3eNNAABd0NI"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 258678,
       "name": "Control",
       "url": "https://open.spotify.com/track/6lYZ5UWuPbXLX357pPONa7"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 270400,
       "name": "Crush - VIP",
       "url": "https://open.spotify.com/track/4BiF66d4NFyRBCSFAwTucJ"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 169291,
       "name": "Dethroned",
       "url": "https://open.spotify.com/track/0qm0sW5CC0yO5rdaJ9qPIZ"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 146000,
       "name": "Do It To It - Andrew Rayel Remix",
       "url": "https://open.spotify.com/track/47FkgO7LWJD8rBovCn41oI"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 254400,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/5ieyP4fDwxueOeQ6kwUnwm"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 236769,
       "name": "Drift",
       "url": "https://open.spotify.com/track/5g70Mc3Bj80XyAAphzoMps"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 212589,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/3Wj6N3ErZ34ditWlB7ETZV"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 136875,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/5QigdMkimi4NnfTmiOQEfS"
@@ -1213,7 +1213,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Holding On - Kompany Remix",
       "url": "https://open.spotify.com/track/4kbzXzMXEjPYVqpnRsE4Xk"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 292524,
       "name": "Hypnocurrency",
       "url": "https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 232968,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2ywx0zy4Nj7aQ9jXZL3Mlh"
@@ -1393,7 +1393,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 161904,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/1SYznEzeOiYEduZtqez1mL"
@@ -1437,7 +1437,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 220000,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/7Ji2sHw2oScKQ14W956LUL"
@@ -1535,7 +1535,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 174736,
       "name": "Kill Me With Your Love",
       "url": "https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q"
@@ -1868,6 +1868,24 @@
     },
     {
       "album": {
+        "name": "01953",
+        "url": "https://open.spotify.com/album/6IcTEQmazY57A2WAQ2O3xW"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "MADE 4 THIS",
+      "url": "https://open.spotify.com/track/5KCgiQKyrpqldADnutzaj6"
+    },
+    {
+      "album": {
         "name": "Where It All Began",
         "url": "https://open.spotify.com/album/0F48IWOiRVqr2bBV4J8c1H"
       },
@@ -1883,7 +1901,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 169379,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4OZ7Xw6sxt4sMpmstB3qHS"
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 154687,
       "name": "Party Girl - VIZE Remix",
       "url": "https://open.spotify.com/track/64vgWvPf41BreVeNomZ3nv"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 212210,
       "name": "Puzzle Box",
       "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
@@ -2225,7 +2243,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 245793,
       "name": "Rainbow Tears",
       "url": "https://open.spotify.com/track/61cuhk02W7Nd72FhAvBmJI"
@@ -2279,7 +2297,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 211071,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/6rLNDssC5bnJ2l7N1aRAgu"
@@ -2541,7 +2559,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 217787,
       "name": "Shiawase",
       "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
@@ -2720,6 +2738,32 @@
     },
     {
       "album": {
+        "name": "Stop the Time",
+        "url": "https://open.spotify.com/album/2f9rP0BpJjnp8lCWvxvQse"
+      },
+      "artists": [
+        {
+          "name": "Friendz By Chance",
+          "url": "https://open.spotify.com/artist/2MhwZ9lBlMCnrH3qpmxOlE"
+        },
+        {
+          "name": "BCMP",
+          "url": "https://open.spotify.com/artist/21LJD2uYWRm9v5Klx1qDRR"
+        },
+        {
+          "name": "MWRS",
+          "url": "https://open.spotify.com/artist/20SvQRPT5Ly4I0mZtpCslm"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150141,
+      "name": "Stop the Time",
+      "url": "https://open.spotify.com/track/5I6ARqVcjdoWZOLIv89I0Q"
+    },
+    {
+      "album": {
         "name": "SugarCrash!",
         "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
       },
@@ -2801,7 +2845,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 182765,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ"
@@ -2841,7 +2885,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 184629,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/7D3KNbOAbyR7dYLX0BZuyU"
@@ -3145,7 +3189,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 158464,
       "name": "Too Bizarre (with Swae Lee & Siiickbrain)",
       "url": "https://open.spotify.com/track/5YRcIZnrTmdXgZJwmT0LJS"
@@ -3171,7 +3215,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 228950,
       "name": "Turning Down",
       "url": "https://open.spotify.com/track/0QOOmrlptVOHQht9PCRank"
@@ -3189,7 +3233,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 289749,
       "name": "Unify",
       "url": "https://open.spotify.com/track/5CmO3jOPVD7RaPERcA4xA1"
@@ -3335,7 +3379,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "Watch Me Now",
       "url": "https://open.spotify.com/track/6TNYnPaDeANzSX2nkyiifC"
@@ -3379,7 +3423,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 178666,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/3Bi5Rw7VoxyfXPBDGQKObV"
@@ -3401,7 +3445,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 194516,
       "name": "What If",
       "url": "https://open.spotify.com/track/0yPVQddK8S6ocwHyZv43Nf"

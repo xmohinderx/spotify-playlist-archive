@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fWtUuB7bFE.md) - [plain]
 
 > New music from all\-time greats! Cover: Pink Floyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,277 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,354 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fWtUuB7bFE.md) - [plain]
 | 25 | [Starfish and Unicorns](https://open.spotify.com/track/5ionbAyQ1qbfop0JVH2QEP) | [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Now and the Evermore](https://open.spotify.com/album/4bKmuNQz120fc0PBNKEbF4) | 3:29 |
 | 26 | [Actions Speak Louder Than Words \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [4 \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ) | 4:01 |
 | 27 | [Here Comes the Feeling \- \(Asia In Asia: MTV Satellite Telecast To America, Budokan Arena, Tokyo, Japan, 6 December 1983\) \[USA Time\] \[2022 Remix\]](https://open.spotify.com/track/5AYQNmQWX7XcslxsLnwqSR) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Here Comes the Feeling \[\(Asia In Asia: MTV Satellite Telecast To America, Budokan Arena, Tokyo, Japan, 6 December 1983\) \[USA Time\] \[2022 Remix\]\]](https://open.spotify.com/album/3Vlz3sXZq1q2lSfZn2pjTB) | 5:30 |
-| 28 | [Emergency \(feat\. Barry Sparks & Simon Phillips\)](https://open.spotify.com/track/1r4TvZ1NDSGsJxmFOcXrqb) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi), [Barry Sparks](https://open.spotify.com/artist/4Rl5skbePa3vdyXRr9muro), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Emergency](https://open.spotify.com/album/2O3nyTQwb5eg9PwYi5Ft0X) | 3:49 |
+| 28 | [Emergency \(feat\. Ronnie Romero, Barry Sparks & Simon Phillips\)](https://open.spotify.com/track/1r4TvZ1NDSGsJxmFOcXrqb) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi), [Barry Sparks](https://open.spotify.com/artist/4Rl5skbePa3vdyXRr9muro), [Ronnie Romero](https://open.spotify.com/artist/5uURCTdE7ztucOBpi5PmY2), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Emergency \(feat\. Ronnie Romero, Barry Sparks & Simon Phillips\)](https://open.spotify.com/album/2O3nyTQwb5eg9PwYi5Ft0X) | 3:49 |
 | 29 | [Invincible](https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/7woWmF7vNQwAVNymD0UkbY) | 4:46 |
 | 30 | [Shining Of Your Soul](https://open.spotify.com/track/6iY8jvCS0BfiXwQcs2pMSW) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Shining Of Your Soul](https://open.spotify.com/album/4OOXkvlCwMuvj6tzyCezzA) | 3:57 |
 | 31 | [Everything](https://open.spotify.com/track/58dsrGyrV1WbwgNi17cwFS) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Everything](https://open.spotify.com/album/0ERARO1W5w5vt4wXYeORws) | 4:35 |

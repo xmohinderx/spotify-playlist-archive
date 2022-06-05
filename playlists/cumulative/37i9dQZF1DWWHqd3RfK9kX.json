@@ -221,7 +221,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 166360,
       "name": "Around the World - Intro",
       "url": "https://open.spotify.com/track/6jZ9e4WTosdjlu1RoNEtiW"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 155493,
       "name": "Bebete V\u00e3obora",
       "url": "https://open.spotify.com/track/3vST7tho4iT90949PEtM7i"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 184093,
       "name": "Chove Chuva",
       "url": "https://open.spotify.com/track/6mTfOxORhYlpnTvm7VrL6b"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 218373,
       "name": "Com qualquer dois mil r\u00e9is",
       "url": "https://open.spotify.com/track/7x4RlD4cgBUUnxh6k35kaE"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 197426,
       "name": "De Noite Na Cama",
       "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 274893,
       "name": "Deixa A Vida Me Levar",
       "url": "https://open.spotify.com/track/3IGssOQU1XqizfaLUro3iE"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 220080,
       "name": "Elsa",
       "url": "https://open.spotify.com/track/5NKsz3ZklHNHbCVxMHiFU7"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 151106,
       "name": "Guardei Minha Viola",
       "url": "https://open.spotify.com/track/1YwIo9Rs7ptTQHQyWDKdfS"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 174266,
       "name": "It's Time To Sing",
       "url": "https://open.spotify.com/track/23LF8upBOTnL0LxOhFtE3q"
@@ -933,6 +933,28 @@
       "duration_ms": 275253,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
+    },
+    {
+      "album": {
+        "name": "Historia M\u00fasical - 30 \u00c9xitos",
+        "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        },
+        {
+          "name": "Piper Pimienta Diaz",
+          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
+        }
+      ],
+      "date_added": "2020-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237253,
+      "name": "Las Cale\u00f1as Son Como las Flores",
+      "url": "https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF"
     },
     {
       "album": {
@@ -1389,7 +1411,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 167066,
       "name": "Por Causa De Voc\u00ea, Menina",
       "url": "https://open.spotify.com/track/51f61zJRO9fzhrOfuZwH9p"
@@ -1407,7 +1429,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 198466,
       "name": "Quando voc\u00ea chegar",
       "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
@@ -1425,7 +1447,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 208573,
       "name": "Que Beleza",
       "url": "https://open.spotify.com/track/420zub6oHvl246UpV2gN7H"
@@ -1447,7 +1469,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 219426,
       "name": "Que No Quede Huella",
       "url": "https://open.spotify.com/track/28EWM0qJ09oupIAhNEeLlK"
@@ -1505,7 +1527,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 196440,
       "name": "Rapaz Do Viol\u00e3o",
       "url": "https://open.spotify.com/track/1BIxpdpbOgELhYOoBYael5"
@@ -1549,7 +1571,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 206471,
       "name": "Rio da Bossa Nova",
       "url": "https://open.spotify.com/track/0i3K9hHc945WIYQZsyc8P0"
@@ -1929,7 +1951,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 235128,
       "name": "Voc\u00ea N\u00e3o Presta",
       "url": "https://open.spotify.com/track/253rM8bzLuRZSH8N5Z3yox"
@@ -1969,7 +1991,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 219493,
       "name": "Zazueira (with Stanley Turrentine)",
       "url": "https://open.spotify.com/track/4Asm2SGig47qpAePl8Wj8r"

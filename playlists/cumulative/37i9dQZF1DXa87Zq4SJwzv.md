@@ -4,7 +4,7 @@
 
 > Celebra el amor igualitario con una fina selección hecha por MANCANDY.
 
-40 songs - 2 hr 31 min - not published yet
+40 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/2lenEe7u2WrzaIYeSm569B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

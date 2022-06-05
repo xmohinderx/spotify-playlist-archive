@@ -661,7 +661,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 147367,
       "name": "Don't Ever Wonder",
       "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 186146,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx"
@@ -1913,7 +1913,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 170165,
       "name": "Make You",
       "url": "https://open.spotify.com/track/1SPUmDMhbzHOsizroAypLi"
@@ -2039,7 +2039,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 301591,
       "name": "Most Times",
       "url": "https://open.spotify.com/track/3ySxFBVXkrrRJ9v1AWR9Yu"
@@ -2057,7 +2057,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 238083,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/6Y9x1HQGZU0SY7tgv9xtCt"
@@ -2371,7 +2371,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 215683,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/1WVTi93gt1EofX4H7pmxTP"
@@ -2447,6 +2447,24 @@
       "duration_ms": 177152,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
+    },
+    {
+      "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192066,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB"
     },
     {
       "album": {
@@ -2703,7 +2721,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 179097,
       "name": "Walls - Naked Edition",
       "url": "https://open.spotify.com/track/4jIEgyvK3AbptWjps8IDXR"
@@ -2819,7 +2837,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 290900,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl"
@@ -2989,7 +3007,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 190299,
       "name": "You Are The Reason - Duet Version",
       "url": "https://open.spotify.com/track/4gJAWJnE5cvAAWyTMTxgdY"

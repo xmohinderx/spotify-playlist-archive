@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 128530,
       "name": "3:45/buslane",
       "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
@@ -323,6 +323,24 @@
       "duration_ms": 237000,
       "name": "ACOUSCOUS",
       "url": "https://open.spotify.com/track/64lmE7hixqSVxMsk5nvG8e"
+    },
+    {
+      "album": {
+        "name": "Adore You",
+        "url": "https://open.spotify.com/album/2LdHQ2qDEVMexB8vJINNYK"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/6YwYkz0z6tftrTO7Qwe5A5"
     },
     {
       "album": {
@@ -597,7 +615,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 266721,
       "name": "Another Lover",
       "url": "https://open.spotify.com/track/5duZe3kHUqNENd97WYqmYL"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 233417,
       "name": "Blue Sea, Red Sea",
       "url": "https://open.spotify.com/track/1TNIPwsB6knLXdlfjjnPTX"
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 141932,
       "name": "Build Me a Way - Single Version",
       "url": "https://open.spotify.com/track/123UKU5C3VGi3vrJTwtjQ1"
@@ -1375,7 +1393,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 212417,
       "name": "Butterfly Wings",
       "url": "https://open.spotify.com/track/6ztyTVTG3R8PPHLaFSA3VR"
@@ -2233,7 +2251,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 194222,
       "name": "Darkness Of The Night",
       "url": "https://open.spotify.com/track/7uewMG4oKBNpCeso1KiI1i"
@@ -2345,7 +2363,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 264607,
       "name": "Deep Down - Blood Orange Remix",
       "url": "https://open.spotify.com/track/1qDXiACY4IrRsQ6mfTXrqA"
@@ -2461,7 +2479,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 228200,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/33sOtnSvolKA5lDbvBtiSs"
@@ -2887,7 +2905,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 250327,
       "name": "Fall Again",
       "url": "https://open.spotify.com/track/60vMLy9tlMQ3pjQsLPn5m8"
@@ -3213,7 +3231,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 201960,
       "name": "Get Closer",
       "url": "https://open.spotify.com/track/4roBcHq6JZq6FBfbf0k6uF"
@@ -3231,7 +3249,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 222936,
       "name": "Get High",
       "url": "https://open.spotify.com/track/1lfKSD8h3GeCx1VGJ2IyZM"
@@ -3375,7 +3393,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 171977,
       "name": "Glass House",
       "url": "https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8"
@@ -3393,7 +3411,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 223966,
       "name": "Go Around",
       "url": "https://open.spotify.com/track/4XW24tqU4OG940MdepSQHB"
@@ -3451,7 +3469,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 264407,
       "name": "Golden (The Wait)",
       "url": "https://open.spotify.com/track/7rvFzUECVmST7Y2lVuw6g5"
@@ -3769,7 +3787,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 210853,
       "name": "High Beams",
       "url": "https://open.spotify.com/track/33aO3exOKzz0EtN1Web9oN"
@@ -3907,7 +3925,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 180181,
       "name": "honey",
       "url": "https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt"
@@ -4237,7 +4255,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 281306,
       "name": "In The Flowers",
       "url": "https://open.spotify.com/track/3MYwtTSyvNuHDc1VwUIubg"
@@ -4367,7 +4385,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-13",
+      "date_removed": null,
       "duration_ms": 156400,
       "name": "It's You",
       "url": "https://open.spotify.com/track/30lYnXiqlYelX6TCXVLhjg"
@@ -4645,7 +4663,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 189382,
       "name": "Laurelhurst",
       "url": "https://open.spotify.com/track/16gvCSeJMZRtdt89BIqiNg"
@@ -4779,7 +4797,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 173856,
       "name": "Letters",
       "url": "https://open.spotify.com/track/6YQcXeLou3k4rpubfxZ1s6"
@@ -6115,7 +6133,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 234645,
       "name": "peas",
       "url": "https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53"
@@ -6133,7 +6151,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 186575,
       "name": "Pfizer",
       "url": "https://open.spotify.com/track/4T1pEFUMRcp383kBMkrEv8"
@@ -6403,7 +6421,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 232053,
       "name": "Red Room",
       "url": "https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J"
@@ -6667,7 +6685,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 148461,
       "name": "Saturday Yawning",
       "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
@@ -6793,7 +6811,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 157616,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO"
@@ -6977,7 +6995,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 241168,
       "name": "Sorry I Am",
       "url": "https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3"
@@ -7049,7 +7067,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 176315,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m"
@@ -7215,7 +7233,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 213025,
       "name": "Talk Words",
       "url": "https://open.spotify.com/track/1QloOO4c5p6DkvnjcHDSSb"
@@ -7457,7 +7475,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 290106,
       "name": "There Must Be a Song Like You",
       "url": "https://open.spotify.com/track/1rwzTr6y9yOPzNlO92AnUc"
@@ -8135,7 +8153,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 265758,
       "name": "We Stayed Up All Night",
       "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
@@ -8261,7 +8279,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 182857,
       "name": "What's Enough pt.2",
       "url": "https://open.spotify.com/track/38lANCGNjZV7zBfkjrqrO3"

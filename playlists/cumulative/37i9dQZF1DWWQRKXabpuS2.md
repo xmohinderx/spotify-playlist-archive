@@ -4,7 +4,7 @@
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: عايض
 
-115 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+117 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,12 +68,14 @@
 | [Ma Anah Sdood](https://open.spotify.com/track/6IT8O67TCo3OKHaYTD4pKc) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Ma Anah Sdood](https://open.spotify.com/album/332L1H9wptriEuWQ2Zl7Fm) | 3:45 | 2021-12-23 | 2022-02-25 |
 | [Maey Solef](https://open.spotify.com/track/2w9rtSDzKPD2ONLCG6f39o) | [Nariman](https://open.spotify.com/artist/4PGqbi1DtCzG4itqf4UcSh) | [Maey Solef](https://open.spotify.com/album/129Uvupg3zkSumY6XQuoLv) | 5:47 | 2021-12-23 | 2022-03-12 |
 | [Mawsem Maha](https://open.spotify.com/track/45IA9bg8QtbaqL6m7oaKAp) | [Abass Ibrahim](https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T) | [Mawsem Maha](https://open.spotify.com/album/4eeA89peS2KWfn7zJqe4O3) | 8:25 | 2022-06-02 |  |
+| [Men Twadaana](https://open.spotify.com/track/32PvqSteo1Soty0xd4Ojkk) | [Marwan Fagi](https://open.spotify.com/artist/6jX88gTjWQ2vmswdN1n5TH) | [Men Twadaana](https://open.spotify.com/album/34XzgcFeoIZ2h3cMjpFQLQ) | 7:51 | 2022-06-04 |  |
 | [Min Taht](https://open.spotify.com/track/3bHSpc1Aq5K9NFYLeKAIPX) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [150](https://open.spotify.com/album/2x0sdVHs0nCq3Pr4Tm4Sr1) | 2:30 | 2022-02-04 | 2022-05-31 |
 | [Mo 3ebek](https://open.spotify.com/track/0R3oaHOHLAPOvL5JJdjGk7) | [Saad Ramadan](https://open.spotify.com/artist/3TQIvMCVNOLxytHD4FWm9a) | [Mo 3ebek](https://open.spotify.com/album/1Wn8mbAWjJyWOdwNdiJ0sB) | 3:13 | 2021-12-23 | 2022-06-04 |
 | [Mo Eisha Haya](https://open.spotify.com/track/1oaD9qOBx3jQPlmOJamnWN) | [Hamza Al Aseel](https://open.spotify.com/artist/7nQ1aN8DVGPMH6y80w7FU3) | [Mo Eisha Haya](https://open.spotify.com/album/7r0vk5ltcqqRUsOg6r8HQF) | 3:24 | 2021-12-23 | 2022-02-15 |
 | [Mo Mn Sejek](https://open.spotify.com/track/2sCK3QOOYu1PnOpkvBKfcw) | [Radooy](https://open.spotify.com/artist/266QTh2K8sujlqyPAnQuol) | [Mo Mn Sejek](https://open.spotify.com/album/0CUt165jWKrUjaWoa3Cyfm) | 3:04 | 2021-12-23 | 2022-03-12 |
 | [Mokhtasr Alkalam](https://open.spotify.com/track/0aKVdGAShM0qDuQ0yXCfkR) | [Yousef Al Omani](https://open.spotify.com/artist/4a6lP1L1uUaoOpOVkA7dQX) | [Mokhtasr Alkalam](https://open.spotify.com/album/2ZZhDchQl1nUU8uRLOqqIH) | 3:44 | 2022-02-11 |  |
 | [My People And My World](https://open.spotify.com/track/0xPWpqWvI3KSj1kv3SnPjG) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [My People And My World](https://open.spotify.com/album/2npyzyawAdH8O2nghXZRbX) | 5:05 | 2021-12-23 | 2022-06-04 |
+| [Ohbak Men Alsefr](https://open.spotify.com/track/0TnZyPBrljwrLbDcTPV2sm) | [Ismail Mubarak](https://open.spotify.com/artist/3zALKJh4vPkvTq8VsbChkB), [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Ohbak Men Alsefr](https://open.spotify.com/album/7siwoCTPM0vqvG6yEr5Q5v) | 3:57 | 2022-06-04 |  |
 | [Qader](https://open.spotify.com/track/6QhdBvdu5zWZMsRuEvvpJi) | [Hmdan Elbloshi](https://open.spotify.com/artist/7bmRXgbkkJvLTNyNZf1viv), [Abdulaziz Alfailakawi](https://open.spotify.com/artist/2ZoToOFm6PdlzsJrQk6zLp) | [Qader](https://open.spotify.com/album/6SMPpT6rFWhjVj36x8xcTC) | 3:30 | 2021-12-23 | 2022-02-05 |
 | [Rahbiti](https://open.spotify.com/track/54GHePYbjSDoP1gBd76r0Y) | [Ayman Alatar](https://open.spotify.com/artist/30JNu4EdBVY0rVTiLveZ9f) | [Rahbiti](https://open.spotify.com/album/0Nykl37ld13jwj8xv0lj4u) | 3:43 | 2022-03-01 |  |
 | [Redo Alsalam](https://open.spotify.com/track/5tbwMTGixAHdlKtjL1eJqq) | [Yousef Al Omani](https://open.spotify.com/artist/4a6lP1L1uUaoOpOVkA7dQX) | [Redo Alsalam](https://open.spotify.com/album/2ONlOnlJ51lPGEg0jpB5dV) | 3:50 | 2021-12-23 | 2022-06-04 |

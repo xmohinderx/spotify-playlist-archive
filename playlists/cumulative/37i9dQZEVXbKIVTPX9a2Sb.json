@@ -295,7 +295,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 208695,
       "name": "A\u017e na m\u011bs\u00edc",
       "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
@@ -2486,6 +2486,28 @@
     },
     {
       "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185857,
+      "name": "Cooped Up (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d"
+    },
+    {
+      "album": {
         "name": "Cooped Up",
         "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
       },
@@ -3197,7 +3219,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 236413,
       "name": "Don\u2019t Blame Me",
       "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
@@ -3295,7 +3317,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 177311,
       "name": "Dr. Jekyll vs Mr. Hyde",
       "url": "https://open.spotify.com/track/7zX1q9nRpYaw3W6TaLKC88"
@@ -3317,6 +3339,28 @@
       "duration_ms": 172068,
       "name": "Dravec",
       "url": "https://open.spotify.com/track/6ffLjdrshUfooRmiTvKUa0"
+    },
+    {
+      "album": {
+        "name": "Dravec",
+        "url": "https://open.spotify.com/album/6VhVtJ7L8YUrB1kSOaF156"
+      },
+      "artists": [
+        {
+          "name": "Momo",
+          "url": "https://open.spotify.com/artist/48dz8C2SNCkNCy7DkU9tZE"
+        },
+        {
+          "name": "Hoodini",
+          "url": "https://open.spotify.com/artist/44yW8xgEVHLSHJRePqLIhw"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172068,
+      "name": "Dravec",
+      "url": "https://open.spotify.com/track/7pwzHVdzZ8Uzc93xzzxLHi"
     },
     {
       "album": {
@@ -3921,7 +3965,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 140624,
       "name": "Front 2 Back",
       "url": "https://open.spotify.com/track/21VhZw8GUbgWUD5SNwLPua"
@@ -4829,7 +4873,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 261659,
       "name": "Hodv\u00e1b",
       "url": "https://open.spotify.com/track/2dEfBNseTkNtx73nO599Tp"
@@ -5113,6 +5157,28 @@
       "duration_ms": 263641,
       "name": "I Heard You\u2019re Married (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D"
+    },
+    {
+      "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192840,
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
       "album": {
@@ -6002,6 +6068,32 @@
     },
     {
       "album": {
+        "name": "Dravec",
+        "url": "https://open.spotify.com/album/6VhVtJ7L8YUrB1kSOaF156"
+      },
+      "artists": [
+        {
+          "name": "Momo",
+          "url": "https://open.spotify.com/artist/48dz8C2SNCkNCy7DkU9tZE"
+        },
+        {
+          "name": "Hoodini",
+          "url": "https://open.spotify.com/artist/44yW8xgEVHLSHJRePqLIhw"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168700,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/0hibkjAgE28SPcWdHHqbdB"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/4SjTU2qZfi9RtS1R1zY4DQ"
       },
@@ -6017,7 +6109,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 168700,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7kyvm3Rxckfj977vyaZXHw"
@@ -6553,6 +6645,24 @@
       "duration_ms": 204387,
       "name": "LEITO",
       "url": "https://open.spotify.com/track/7kW2cuKp5FII9hqMmohANR"
+    },
+    {
+      "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243486,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/1NvpO1o8SpkdH3txtJQQc7"
     },
     {
       "album": {
@@ -7443,7 +7553,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
@@ -7584,7 +7694,7 @@
       "artists": [
         {
           "name": "Adam Bros",
-          "url": "https://open.spotify.com/artist/1Wm5dGh0LET4tpQeTIdMe1"
+          "url": "https://open.spotify.com/artist/7wn3illXj7bX1suFqQx7Xz"
         },
         {
           "name": "Phil Phauler",
@@ -7593,7 +7703,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 178337,
       "name": "Miami Vice",
       "url": "https://open.spotify.com/track/0Jkjh1DIVYmljderQnW9N3"
@@ -9200,6 +9310,28 @@
     },
     {
       "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192721,
+      "name": "One Right Now (with The Weeknd)",
+      "url": "https://open.spotify.com/track/1nltpRhEiXikwDlVn4UADk"
+    },
+    {
+      "album": {
         "name": "One Right Now",
         "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
       },
@@ -9713,7 +9845,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 176561,
       "name": "Pivko",
       "url": "https://open.spotify.com/track/0SkXruhPA5gTI6AS9NR2aN"
@@ -9779,7 +9911,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
@@ -10477,6 +10609,24 @@
       "duration_ms": 198613,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN"
+    },
+    {
+      "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248177,
+      "name": "Reputation",
+      "url": "https://open.spotify.com/track/67dU06KGaJHLLlo5Y5bkD2"
     },
     {
       "album": {
@@ -12027,7 +12177,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -12135,7 +12285,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 181192,
       "name": "S\u00e9rum",
       "url": "https://open.spotify.com/track/3AExPJ7KcjzpJWY2k8UAZO"
@@ -12309,7 +12459,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 185400,
       "name": "Tanec s Diablom",
       "url": "https://open.spotify.com/track/22D2cfbPie1SXstcD8yaRe"
@@ -14175,6 +14325,24 @@
       "duration_ms": 203367,
       "name": "Worldwide Steppers",
       "url": "https://open.spotify.com/track/5p56JT5F9a1z9pwXnqTg7d"
+    },
+    {
+      "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193565,
+      "name": "Wrapped Around Your Finger",
+      "url": "https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX"
     },
     {
       "album": {

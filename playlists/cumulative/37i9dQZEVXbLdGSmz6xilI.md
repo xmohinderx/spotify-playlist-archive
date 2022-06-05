@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-448 songs - 1 day 2 hr 29 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+449 songs - 1 day 2 hr 33 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Hồ Điệp Hoa Niên](https://open.spotify.com/track/7wxxk3WQhBERNIhkYg5adk) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq), [Long Nón Lá](https://open.spotify.com/artist/4XPmkusoYLS1cvgpHgQjiB) | [Hồ Điệp Hoa Niên](https://open.spotify.com/album/5H1HpTTzAdfiiCgcR59otX) | 3:41 | 2022-04-20 | 2022-04-22 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2021-11-21 | 2021-11-25 |
 | [I Need U \- Remix](https://open.spotify.com/track/4pzjU0AnZa6Vfphk292e9Q) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:43 | 2022-03-02 | 2022-03-04 |
-| [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-02 |  |
+| [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-02 | 2022-06-05 |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-05-03 | 2021-05-16 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-07-28 | 2021-09-19 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 | 2021-12-12 |
@@ -331,6 +331,7 @@
 | [Qua Khung Cửa Sổ](https://open.spotify.com/track/5tuggdTrO21Wi9ydcyUXlX) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Qua Khung Cửa Sổ](https://open.spotify.com/album/7FbJRg2IYkVJioqMayEukG) | 4:59 | 2021-05-08 | 2021-05-15 |
 | [Qua Khung Cửa Sổ](https://open.spotify.com/track/6jOP08e9PHDnoF3reZcePE) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Qua Khung Cửa Sổ](https://open.spotify.com/album/7Kmjgg0UXtZyZQdgTuSg1d) | 4:59 | 2021-03-27\* | 2021-05-08 |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-08-18 | 2021-08-28 |
+| [Querry](https://open.spotify.com/track/6OcOCgmPa1a57xAAF7qKkW) | [QNT](https://open.spotify.com/artist/4LuFOXq87Tg0JSl5U7yxFZ), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Querry](https://open.spotify.com/album/2Q4OkyBdAr8dBlhPSMDbBw) | 3:50 | 2022-06-04 |  |
 | [Real Love \- The Heroes Version](https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [Khắc Hưng](https://open.spotify.com/artist/2mx5AAdmlMxMcrcd7AQh1j) | [Real Love \(The Heroes Version\)](https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb) | 4:03 | 2021-07-29 | 2021-09-04 |
 | [Red \(Taylor's Version\)](https://open.spotify.com/track/4OAuvHryIVv4kMDNSLuPt6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:43 | 2021-11-14 | 2021-11-16 |
 | [Respect](https://open.spotify.com/track/2yKBnKOmPXePrbHqRv42r4) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:57 | 2022-03-02 | 2022-03-04 |

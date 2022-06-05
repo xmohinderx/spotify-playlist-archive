@@ -355,7 +355,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 307360,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/0fnTADkpDxvjA3v0Ss5bpb"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2019-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 343933,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
@@ -2057,7 +2057,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 247293,
       "name": "De Do Do Do, De Da Da Da",
       "url": "https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG"
@@ -2757,7 +2757,7 @@
       ],
       "date_added": "2019-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 209520,
       "name": "End Of The Line",
       "url": "https://open.spotify.com/track/4HA2jo7wkMdN1lmLO6ryzE"
@@ -2945,7 +2945,7 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 238026,
       "name": "Eternal Flame",
       "url": "https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi"
@@ -3107,7 +3107,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 251488,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
@@ -3287,7 +3287,7 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
@@ -3737,7 +3737,7 @@
       ],
       "date_added": "2019-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
@@ -5519,7 +5519,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 194618,
       "name": "It's Only Love",
       "url": "https://open.spotify.com/track/5xGsNXXTu545MWoeuFfjxT"
@@ -6657,7 +6657,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 318680,
       "name": "Man in the Mirror - 2012 Remaster",
       "url": "https://open.spotify.com/track/1kiNatIrwDusOZfR29W0LJ"
@@ -7755,7 +7755,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 434373,
       "name": "Private Dancer - 2015 Remaster",
       "url": "https://open.spotify.com/track/5JjdJK0uGRUk4skRTuQdUZ"
@@ -9213,7 +9213,7 @@
       ],
       "date_added": "2020-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 224933,
       "name": "Sweet Little Mystery",
       "url": "https://open.spotify.com/track/58qBa4R0T7u0ZiuRvMJRUN"
@@ -9889,7 +9889,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 280360,
       "name": "There Must Be an Angel (Playing With My Heart)",
       "url": "https://open.spotify.com/track/1YJ4vpxPL6Wgo8gmRnvqSp"
@@ -10341,7 +10341,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 233240,
       "name": "Up Where We Belong",
       "url": "https://open.spotify.com/track/5NoUgO4Kr93QymQGQlBC7b"
@@ -10893,6 +10893,28 @@
       "duration_ms": 244533,
       "name": "What A Feeling",
       "url": "https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx"
+    },
+    {
+      "album": {
+        "name": "Actually: Further Listening 1987 - 1988 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7ae4SfR2B1wEXX5EwS2Cg7"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263240,
+      "name": "What Have I Done to Deserve This? (with Dusty Springfield) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0en6SFmN4eaErErH126wbJ"
     },
     {
       "album": {
@@ -11559,7 +11581,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 210173,
       "name": "You Shook Me All Night Long",
       "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"

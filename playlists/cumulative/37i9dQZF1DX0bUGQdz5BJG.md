@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Sacha
 
-589 songs - 1 day 7 hr 41 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
+590 songs - 1 day 7 hr 44 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Love Like That](https://open.spotify.com/track/4RTWDgydEjOqA4wKWCxmxp) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love Like That](https://open.spotify.com/album/5jI2VJwargNYFtnYXknf2R) | 3:06 | 2021-12-31 | 2022-02-12 |
 | [Love Like We're Drunk](https://open.spotify.com/track/3LyU3vaPoWgLry9iKl16HM) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love Like We're Drunk](https://open.spotify.com/album/697830vakXB4vkwlGQm8la) | 2:34 | 2022-05-06 |  |
 | [Love Me When I'm Leavin'](https://open.spotify.com/track/7reuV9C5aw7OLQnjA7L6hc) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Love Me When I'm Leavin'](https://open.spotify.com/album/5qnSXznshj3uLjxUzMyftG) | 2:32 | 2022-02-25 | 2022-04-16 |
+| [Love Takes Time](https://open.spotify.com/track/01YA6z2H4vYzQ9XLlrE3Qt) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Jonathan Hutcherson](https://open.spotify.com/album/2H4lPoj1CgW9dK3DukPdGh) | 2:39 | 2022-06-04 |  |
 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 | 2022-01-07 | 2022-02-05 |
 | [Love You Too \(feat\. Ashley Cooke\)](https://open.spotify.com/track/5lLfoISXBHCOdiOCNgS49Z) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO) | [I Can Tell You're Small Town](https://open.spotify.com/album/1U3MZN9pyVBDjQSJRrWxJJ) | 2:48 | 2022-04-15 |  |
 | [LOVERBOY](https://open.spotify.com/track/2QRUzQzXQ7GEZRe9rA9WbL) | [Jody Chappell](https://open.spotify.com/artist/7C3byYIVDoWA1JExCcwQMK) | [LOVERBOY](https://open.spotify.com/album/2NbqvUAyCV2KaQeE32M41m) | 3:19 | 2021-12-31 | 2022-01-08 |

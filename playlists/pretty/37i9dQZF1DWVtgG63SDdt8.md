@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: MAJOR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,042 likes - 98 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,132 likes - 98 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 23 | [Walls](https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW) | [Walls](https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL) | 4:14 |
 | 24 | [Thy Mercy, My God](https://open.spotify.com/track/5WcYQscO7oLg2ClscH7K4V) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Thy Mercy, My God](https://open.spotify.com/album/27fdDyRYikh3uGMWI7qXrS) | 3:15 |
 | 25 | [Just The Mention Of His Name \- Live](https://open.spotify.com/track/2C9FM0zZmWp4au1kWwiqZ3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Now \(Live\)](https://open.spotify.com/album/7yRZsYRLvroRSwMfqaYEOA) | 5:10 |
-| 26 | [Heart Cry](https://open.spotify.com/track/7sj3foHbvvf33iGlhx2Rma) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Daniel Rivera](https://open.spotify.com/artist/3L54wEQJUcJg3JS4t53f7x) | [Heart Cry](https://open.spotify.com/album/1mXWDLikomDEHcv5cYornP) | 7:05 |
+| 26 | [Heart Cry](https://open.spotify.com/track/7sj3foHbvvf33iGlhx2Rma) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Dan Rivera](https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31) | [Heart Cry](https://open.spotify.com/album/1mXWDLikomDEHcv5cYornP) | 7:05 |
 | 27 | [Plans](https://open.spotify.com/track/0XRBOG71jFxR8ygkkVcPrf) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Plans](https://open.spotify.com/album/0kMwokkiRTrwI3JL1QamlE) | 4:29 |
 | 28 | [God Really Loves Us \- Radio Version](https://open.spotify.com/track/1MUvduWBFLja3z8Itooyf3) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV) | [God Really Loves Us \(Radio Version\)](https://open.spotify.com/album/3oHa5uSjT3eLuD4eSPclDR) | 4:21 |
 | 29 | [God Really Loves Us](https://open.spotify.com/track/6SoXCKgKyM8sAn246k1m6E) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW), [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [The Kindness Of The Cross](https://open.spotify.com/album/1ry4KqnjXvicjKN5pjN7Pm) | 4:46 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 79 | [Carry Me Home](https://open.spotify.com/track/12GtqVYqedEHYnyRZt91ZQ) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [TAYA](https://open.spotify.com/album/5N03zjLUSu0iqsTitN5tt3) | 3:33 |
 | 80 | [When The World Is Changing](https://open.spotify.com/track/5pfNUsrxG2LScu2mqGFvr8) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Here's To The One We Love \(Live\)](https://open.spotify.com/album/13U8Hs01res7D4CDmnhay2) | 4:13 |
 | 81 | [Catch Me \(Neon Feather Remix\)](https://open.spotify.com/track/3cgVhwQMTver7XZHWXKEjn) | [FRM!](https://open.spotify.com/artist/42pbBgGBC1jibo42r6Td6f), [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Catch Me \(Neon Feather Remix\)](https://open.spotify.com/album/6HUA9ag7DJBEs5ZTxKOS1R) | 2:44 |
-| 82 | [This Is the Love](https://open.spotify.com/track/2LS7Ww44t936USz0gg4k1w) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [This Is the Love](https://open.spotify.com/album/3qJbjQzqUv8AOQBlOEXlNr) | 2:46 |
+| 82 | [This Is The Love](https://open.spotify.com/track/2LS7Ww44t936USz0gg4k1w) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [This Is The Love](https://open.spotify.com/album/3qJbjQzqUv8AOQBlOEXlNr) | 2:46 |
 | 83 | [Come Home \- Warehouse Mix](https://open.spotify.com/track/6sHJtegAtVzFNdzFVp5rLN) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Come Home \(Warehouse Mix\)](https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr) | 2:38 |
 | 84 | [Altar Call](https://open.spotify.com/track/1diIrKCBbXs4PYVIDcnlDz) | [Anthony Hall](https://open.spotify.com/artist/27elv8wzGLeFd2hamGxyfS) | [Roosevelt](https://open.spotify.com/album/4fx7IHSeEE6vsvmxMcLwox) | 3:58 |
 | 85 | [New](https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [New](https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE) | 3:15 |

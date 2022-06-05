@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,799 likes - 227 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,852 likes - 227 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 52 | [Polar](https://open.spotify.com/track/4p2zBVUNYxVabtmOHLkPar) | [Mo Fiera](https://open.spotify.com/artist/3L536wLE8wGiLp3ttXomqz) | [Polar](https://open.spotify.com/album/4lJuAXe7pnwJZ55pkAn2gq) | 2:35 |
 | 53 | [Freeform](https://open.spotify.com/track/3YrLrT0dfvY3biwPDkecAq) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Freeform](https://open.spotify.com/album/6yahW3mslf0k9LRWEDfc7J) | 3:36 |
 | 54 | [inner control](https://open.spotify.com/track/7GHq0JDaVoTZRgI3pUgYSv) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [inner control](https://open.spotify.com/album/7fumsg5ND8NqNh8gZent5X) | 2:54 |
-| 55 | [Septima](https://open.spotify.com/track/4NtT9mMjIcNVOlxkzCkHc2) | [Hema](https://open.spotify.com/artist/3EdWuMAKdq0z0OF5YEek5L) | [Septima](https://open.spotify.com/album/1MS5ZvgvQxHAG9YohwuAvr) | 2:23 |
+| 55 | [Septima](https://open.spotify.com/track/4NtT9mMjIcNVOlxkzCkHc2) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Septima](https://open.spotify.com/album/1MS5ZvgvQxHAG9YohwuAvr) | 2:23 |
 | 56 | [Light Rest](https://open.spotify.com/track/58QLCa2HJxU4U2MnpNopLj) | [Spring Euphemia](https://open.spotify.com/artist/2LTLJd4VIsqMpaoh9dn1ik) | [Light Rest](https://open.spotify.com/album/1Jmn0i1SjtVnj2IsC05vd8) | 2:49 |
 | 57 | [Just Breathe](https://open.spotify.com/track/3EnyFtygU4ttiEnyjV4FZd) | [Edmund’s Oasis](https://open.spotify.com/artist/2iR51m8sjXwFULuJkterrJ) | [Just Breathe](https://open.spotify.com/album/7uU4GMQIYTWkmJ7sstbqFN) | 2:43 |
 | 58 | [Body & Soul](https://open.spotify.com/track/2reANGLp6a9iZvh1Q6qIS7) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Body & Soul](https://open.spotify.com/album/57SxIpC8RwW3ztJ3Rn4kIb) | 2:55 |

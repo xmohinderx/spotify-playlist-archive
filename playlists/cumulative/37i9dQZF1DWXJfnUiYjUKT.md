@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Post Malone
 
-2,280 songs - 4 day 23 hr 31 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
+2,280 songs - 4 day 23 hr 32 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,8 +503,8 @@
 | [Dejalo Ir](https://open.spotify.com/track/2f1u0yTIYN95nmScvQmZiQ) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed](https://open.spotify.com/album/1r0GC7OLM12sPncbIMWiUC) | 2:57 | 2022-04-21 | 2022-04-29 |
 | [dejavu](https://open.spotify.com/track/4GwIJFFipIzqF6ZvQ9vZd7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 2:56 | 2022-01-21 | 2022-01-28 |
 | [Delorean](https://open.spotify.com/track/4K6KyAOSkhGKgLO0SalQET) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:39 | 2022-01-21 | 2022-01-28 |
-| [Demon](https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Demon](https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z) | 2:02 | 2022-06-02 |  |
 | [Demon](https://open.spotify.com/track/2LnQSUceWUnowlkQTfOMVy) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Demon](https://open.spotify.com/album/7fpY1iDm5Ow3r1YE8eqy7R) | 2:45 | 2022-04-28 | 2022-05-06 |
+| [Demon \(feat\. Coi Leray\)](https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z) | 2:02 | 2022-06-02 |  |
 | [Denim & Rhinestones](https://open.spotify.com/track/4eTogc6gceI3O6AxwwP7oo) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/1OgqlCnE4CasUeYODzIMSs) | 2:48 | 2022-04-07 | 2022-04-15 |
 | [Deprimida](https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Deprimida](https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3) | 3:37 | 2022-02-18 | 2022-02-25 |
 | [Deserve It](https://open.spotify.com/track/0rLfMI04PHRfoaGLcCh816) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Deserve It](https://open.spotify.com/album/3nWY1AeTNK5WvAhVcQYvSO) | 3:13 | 2022-03-03 | 2022-03-11 |
@@ -1996,7 +1996,7 @@
 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 | 2022-05-05 | 2022-05-14 |
 | [Therapy](https://open.spotify.com/track/2BbGj7yCa7qks7coH0YhCY) | [Yvng Ev](https://open.spotify.com/artist/2fm64bFy2cks8y7SEMyTXN) | [Therapy](https://open.spotify.com/album/76u3zQBY2oivqY5PYVCoPS) | 2:08 | 2022-02-18 | 2022-02-25 |
 | [Therapy Music \(feat\. Russ\)](https://open.spotify.com/track/3WRT8uD7wYPzIJagtFRVjF) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Therapy Music](https://open.spotify.com/album/0umXnJRqobrCwHOlWlHZc9) | 4:22 | 2022-05-05 | 2022-05-14 |
-| [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 2:54 | 2022-06-02 |  |
+| [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 | 2022-06-02 |  |
 | [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 | 2021-12-30 | 2022-01-07 |
 | [These Are the Ways](https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:56 | 2022-03-31 | 2022-04-08 |
 | [THEY DON'T KNOW](https://open.spotify.com/track/3ydusC725etWQ7QlAjmIi4) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [THEY DON'T KNOW](https://open.spotify.com/album/2xAgOtruwnkJarTLexy2DS) | 1:43 | 2022-05-05 | 2022-05-14 |

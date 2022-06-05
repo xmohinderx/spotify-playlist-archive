@@ -4,7 +4,7 @@
 
 > Hasta allá donde tú te encuentres te ha de llegar mi olvido.
 
-50 songs - 2 hr 32 min - not published yet
+50 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/2BaZ95RVlGdhSZvXT2egiK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

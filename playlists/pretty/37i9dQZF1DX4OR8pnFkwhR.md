@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ego apartment
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,294 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,304 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [mayonnaise](https://open.spotify.com/track/4lErKE9FjE7pbqY85t3nn5) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:46 |
 | 2 | [comedy](https://open.spotify.com/track/3eLopqgxulNGjdgBVPCmvW) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0WAltRUelTPVhbvhJCIF6d) | 3:36 |
-| 3 | [garden.](https://open.spotify.com/track/2aDshEBdWAyUo4H8z9AHbO) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [garden.](https://open.spotify.com/album/1l1s0fAZcrYEkJ6thwDFZk) | 3:35 |
-| 4 | [Restart?](https://open.spotify.com/track/64INceHue7dl31QMDLLirn) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Restart?](https://open.spotify.com/album/5fdozRgnGyNfx9PQz5wu3h) | 3:24 |
-| 5 | [恋標](https://open.spotify.com/track/1KjHPv0YOx8YgxV8nkChtk) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [恋標](https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3) | 3:32 |
-| 6 | [ふたり計画](https://open.spotify.com/track/316xoUi91q0TZQjFoZbSPX) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ふたり計画](https://open.spotify.com/album/22YTXwYEfHp9f0pb4c7dTG) | 2:32 |
+| 3 | [ふたり計画](https://open.spotify.com/track/316xoUi91q0TZQjFoZbSPX) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ふたり計画](https://open.spotify.com/album/22YTXwYEfHp9f0pb4c7dTG) | 2:32 |
+| 4 | [garden.](https://open.spotify.com/track/2aDshEBdWAyUo4H8z9AHbO) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [garden.](https://open.spotify.com/album/1l1s0fAZcrYEkJ6thwDFZk) | 3:35 |
+| 5 | [Restart?](https://open.spotify.com/track/64INceHue7dl31QMDLLirn) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Restart?](https://open.spotify.com/album/5fdozRgnGyNfx9PQz5wu3h) | 3:24 |
+| 6 | [恋標](https://open.spotify.com/track/1KjHPv0YOx8YgxV8nkChtk) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [恋標](https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3) | 3:32 |
 | 7 | [YOUNG TOWN](https://open.spotify.com/track/5FjI7MuKuPUQD6PPntmD3m) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [YOUNG TOWN](https://open.spotify.com/album/2ZrZNBjZKpBlXWwxYmEra9) | 2:50 |
 | 8 | [Tangerine](https://open.spotify.com/track/5BM1h0qH0CVWMjw0RIQtbn) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Tangerine](https://open.spotify.com/album/7Jox1gthhLqTpzfswyMnk2) | 3:22 |
 | 9 | [Scent of home](https://open.spotify.com/track/1zWvRXh2Mn9aN9rstdelIP) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Scent of home](https://open.spotify.com/album/6iBoeNxGMFOTeX3ANDBjDR) | 3:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [Pages \(feat\. Xin\)](https://open.spotify.com/track/29eyvdeqiue1vHQg2uprMB) | [LodiLodi](https://open.spotify.com/artist/2mvDRTAF1tLXniM3L2iwvb), [Xin](https://open.spotify.com/artist/3iMKRpTz1tnL15FaSV5XOd) | [Pages \(feat\. Xin\)](https://open.spotify.com/album/74c2vG8p3OUy9Peyd3V6f8) | 3:06 |
 | 60 | [おやすみパパママ](https://open.spotify.com/track/3Qge3YHUBXMueWRIhn0XxV) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:37 |
 
-Snapshot ID: `MTY1NDA1NTk2NiwwMDAwMDRhYTAwMDAwMTgxMWQ2YjE2ODEwMDAwMDE4MTE3NTEwODhk`
+Snapshot ID: `MTY1NDM4MTcwMywwMDAwMDRhYjAwMDAwMTgxMzBkNTZmOTIwMDAwMDE4MTE3NTEwODhk`

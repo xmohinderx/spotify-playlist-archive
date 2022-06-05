@@ -1676,6 +1676,24 @@
     },
     {
       "album": {
+        "name": "Jonathan Hutcherson",
+        "url": "https://open.spotify.com/album/2H4lPoj1CgW9dK3DukPdGh"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Hutcherson",
+          "url": "https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159141,
+      "name": "Love Takes Time",
+      "url": "https://open.spotify.com/track/01YA6z2H4vYzQ9XLlrE3Qt"
+    },
+    {
+      "album": {
         "name": "Love You Now, Love You Later",
         "url": "https://open.spotify.com/album/7hAYEzQB22bvzQjRZPvxSe"
       },

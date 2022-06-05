@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Izïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,586 likes - 48 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,594 likes - 48 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 41 | [Dis\-moi oui](https://open.spotify.com/track/2rD8n0QH7ugRyFPQm9hUrD) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Dis\-moi oui](https://open.spotify.com/album/2Pq8jqWjWB4VwMgcFGfjQp) | 3:27 |
 | 42 | [Mythologie](https://open.spotify.com/track/28np0boOT7svs7oG9RNpxM) | [Eesah Yasuke](https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC) | [Mythologie](https://open.spotify.com/album/1E6limGMwvAC2k1i9hgwKZ) | 2:25 |
 | 43 | [Une Tempête](https://open.spotify.com/track/0WaCGTemkdb1uNDEoo39Az) | [La Pietà](https://open.spotify.com/artist/5P0atd21WQems5FDKnBysF) | [Une Tempête](https://open.spotify.com/album/4u8ptsviIbe84QCowfkGzQ) | 3:56 |
-| 44 | [Ymca](https://open.spotify.com/track/0Xi4HqP1vScctluzHuHBdC) | [Margaux de Fouchier](https://open.spotify.com/artist/1f8f6hYKM3spjGBUB6RkCx) | [Disconova](https://open.spotify.com/album/3zU7kBtBW0yTdOPzkwt9I3) | 4:22 |
+| 44 | [YMCA](https://open.spotify.com/track/0Xi4HqP1vScctluzHuHBdC) | [Margaux de Fouchier](https://open.spotify.com/artist/1f8f6hYKM3spjGBUB6RkCx) | [Disconova](https://open.spotify.com/album/3zU7kBtBW0yTdOPzkwt9I3) | 4:22 |
 | 45 | [Strip Rock](https://open.spotify.com/track/5GIx58N55cBgBiCku7hGXM) | [Carmen Maria Vega](https://open.spotify.com/artist/4BeUJGT638jeAuAvtm51oE) | [Strip Rock](https://open.spotify.com/album/1QyZXcmu5BY3LV9wky47aZ) | 3:36 |
 | 46 | [Les signes indiens](https://open.spotify.com/track/4Z0H83AIGuK6D2N1mX9rNL) | [Julie Pietri](https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG) | [Origami](https://open.spotify.com/album/0Fo4LhqtZOWLWi3FKPZgjj) | 3:14 |
 | 47 | [Fever](https://open.spotify.com/track/06mMTF6cqtiEptM8FdVhv6) | [Arielle Dombasle](https://open.spotify.com/artist/7I2zgbIGfAd3w1CktlJUbI) | [Fever](https://open.spotify.com/album/5LAT4jfX64Epy05Y3blREP) | 3:40 |

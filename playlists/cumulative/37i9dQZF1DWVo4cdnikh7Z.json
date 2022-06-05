@@ -272,6 +272,28 @@
     },
     {
       "album": {
+        "name": "The Warriorr (Tamil)",
+        "url": "https://open.spotify.com/album/6T16NSY4Djby3ggU3zd2vE"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246683,
+      "name": "Dhada Dhada",
+      "url": "https://open.spotify.com/track/0hvh7UTvtucrG3GE7Hz2AF"
+    },
+    {
+      "album": {
         "name": "Kaathuvaakula Rendu Kaadhal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2bRyFTzMb2iz6yIlcon1uz"
       },
@@ -1490,7 +1512,7 @@
     },
     {
       "album": {
-        "name": "Title Song - Ganster Gangaraju",
+        "name": "Title Song (From \"Gangster Gangaraju\")",
         "url": "https://open.spotify.com/album/0wtXE53MfEq9gvCG79Qd3G"
       },
       "artists": [

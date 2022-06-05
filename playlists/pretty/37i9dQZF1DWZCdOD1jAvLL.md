@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Smalltown DJs
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,718 likes - 99 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,966 likes - 99 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

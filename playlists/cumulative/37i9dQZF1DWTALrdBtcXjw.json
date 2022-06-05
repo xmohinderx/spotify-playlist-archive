@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 331853,
       "name": "Ask Me Now",
       "url": "https://open.spotify.com/track/2BgD1WUT45SDvAqyNAzR3S"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 607733,
       "name": "Baby Plays Around",
       "url": "https://open.spotify.com/track/4yOHkrkJHqE7sruMEgDJBb"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 329653,
       "name": "Blues for Sharpie",
       "url": "https://open.spotify.com/track/3gPr9tbx4jSM0nS6O9J5UZ"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 423520,
       "name": "Cambridge Place",
       "url": "https://open.spotify.com/track/6geba7EiMvkWk7h2XWzjb8"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 504456,
       "name": "Ham Hocks and Cabbage",
       "url": "https://open.spotify.com/track/4WCZalosPdTXmwZ5ZUOarr"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 258226,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/4Hus6AQNHezUdbBKuo1aE8"
@@ -2388,6 +2388,32 @@
     },
     {
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6QFy0zMnOL1Y5oacJYP2RE"
+      },
+      "artists": [
+        {
+          "name": "Juan Ortiz",
+          "url": "https://open.spotify.com/artist/72wv4vWevdN2V78wvxj44U"
+        },
+        {
+          "name": "Gene Jackson",
+          "url": "https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8"
+        },
+        {
+          "name": "Hiroshi Takase",
+          "url": "https://open.spotify.com/artist/5wdKbfjSsOpldsBV3GBg9H"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324133,
+      "name": "Song for Selene (I'll Meet You in My Dreams)",
+      "url": "https://open.spotify.com/track/7667MFk3EPtbJJrXpPPmAg"
+    },
+    {
+      "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/1NupgPFqRhoYih5dYdInac"
       },
@@ -2453,7 +2479,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 347773,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K"
@@ -2705,7 +2731,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 485133,
       "name": "The Sequel",
       "url": "https://open.spotify.com/track/4iCOzZYiSCljWB7D7t87JT"
@@ -2957,6 +2983,24 @@
       "duration_ms": 476992,
       "name": "What Are You Doing the Rest of Your Life?",
       "url": "https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9"
+    },
+    {
+      "album": {
+        "name": "Relaxin'",
+        "url": "https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278906,
+      "name": "What's Up",
+      "url": "https://open.spotify.com/track/3TdiCaHISm2x7waIHKC9Ms"
     },
     {
       "album": {

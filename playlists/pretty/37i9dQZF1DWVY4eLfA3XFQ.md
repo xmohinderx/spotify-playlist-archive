@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring SIDEPIECE & Lee Foss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,485 likes - 120 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,605 likes - 120 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 59 | [Heavyweight](https://open.spotify.com/track/6DgKCYTAQno5ITP7WvE6XW) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Heavyweight EP](https://open.spotify.com/album/547CbSjzlR6u0hZyQDMN5C) | 3:31 |
 | 60 | [Manizer](https://open.spotify.com/track/32MHis9ga5UmCo2hivlkEs) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Manizer](https://open.spotify.com/album/0OY87u7mQKYk8nJ96Br0QM) | 4:04 |
 | 61 | [All Over U](https://open.spotify.com/track/6hmwiviuIfeDy5MwWMVCQw) | [Mason Maynard](https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3) | [All Over U](https://open.spotify.com/album/1fORBKzArhL3rMlkJqHKor) | 3:03 |
-| 62 | [We Don’t Need \- Club Edit](https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7) | 2:38 |
+| 62 | [We Don’t Need \- Club Edit](https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need \(Club Edit\)](https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7) | 2:38 |
 | 63 | [Never Ever](https://open.spotify.com/track/7pXtDwdYtjILjN5cK7UonH) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Never Ever](https://open.spotify.com/album/5gYdpQEHqsfd8y0rvakbw6) | 2:48 |
 | 64 | [Boots 'N' Cats](https://open.spotify.com/track/3fDE4ufBMRpVBIxulH7KoM) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [NBLM](https://open.spotify.com/artist/3y03cacOqPS9hc4UN2U9rc), [MVRT](https://open.spotify.com/artist/4o6dSaEQPjuz9CgVomOekK) | [Boots 'N' Cats](https://open.spotify.com/album/21ad01B7nsTGlFcWyFBAwX) | 3:06 |
 | 65 | [The Judge](https://open.spotify.com/track/6r6hSnqlIvtpPFZMiM0LEy) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [The Judge](https://open.spotify.com/album/7BNYEXizheSk1HuD8GYmg9) | 3:40 |

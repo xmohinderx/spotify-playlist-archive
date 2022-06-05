@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Japa
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,853 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,949 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 7 | [Mini Game](https://open.spotify.com/track/4IVbbHg8tOBMx0ltNwGXFQ) | [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [DJ BRUNO PRADO](https://open.spotify.com/artist/5kLUQ7J1U7CqxjW0hu8rr3) | [Mini Game](https://open.spotify.com/album/3rPXGZCsZjknW2TnaRtMKh) | 2:18 |
 | 8 | [Fumaça no Studio](https://open.spotify.com/track/4Yimh4Ut4dskqAJtuuTu0l) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [Nova Moda](https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN) | 2:27 |
 | 9 | [Maluca Surtada](https://open.spotify.com/track/1OeI3e0dz9qX2dkaM8fxTY) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Maluca Surtada](https://open.spotify.com/album/61vY6i4ZCFKhIqynMI6SDy) | 2:59 |
-| 10 | [Ouro Rosé](https://open.spotify.com/track/22K3jhzhPwH3TatxENt49A) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [JP Diazz](https://open.spotify.com/artist/6Snp5SYFsKpAuLotVX0oIr), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Ouro Rosé](https://open.spotify.com/album/6dXEiMtumxmNwb7I01SvVe) | 2:26 |
-| 11 | [Vegano](https://open.spotify.com/track/2MKAalcstfLiNiukSlBzCS) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Vegano](https://open.spotify.com/album/3vU8uUnBiNOtE8Bhn6invy) | 3:19 |
+| 10 | [Ouro Rosé](https://open.spotify.com/track/22K3jhzhPwH3TatxENt49A) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Ouro Rosé](https://open.spotify.com/album/6dXEiMtumxmNwb7I01SvVe) | 2:26 |
+| 11 | [Vegano](https://open.spotify.com/track/2MKAalcstfLiNiukSlBzCS) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Vegano](https://open.spotify.com/album/3vU8uUnBiNOtE8Bhn6invy) | 3:26 |
 | 12 | [Nois faz a moda](https://open.spotify.com/track/29cJDWOBQqeDPdYbu4kwki) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [Nois faz a moda](https://open.spotify.com/album/35PHjpGIk3ICMNWOJ1GcXv) | 3:03 |
 | 13 | [Cerol Finin](https://open.spotify.com/track/1NaUCNLXO584ukPzd2tV8m) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Cerol Finin](https://open.spotify.com/album/1rchMhG8kD2PCzsE3nB1Gv) | 4:20 |
 | 14 | [Uma Só](https://open.spotify.com/track/3bRiytKQYlqMNGh0cFAPR2) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Uma Só](https://open.spotify.com/album/7KKJu8M7o9GtrF8gAm7Zca) | 2:50 |

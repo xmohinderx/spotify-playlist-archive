@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jmeFyIwFPhhxgjAAJJIrU">Leland</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 697 likes - 135 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 700 likes - 135 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 88 | [Lights](https://open.spotify.com/track/3DEM3WifNrig0sVrFb22ac) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:02 |
 | 89 | [Wingman](https://open.spotify.com/track/6VitRC30kO0TKoDcEeQHCU) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Wingman](https://open.spotify.com/album/1be3Mn77VbYlBtltlAOIDO) | 3:27 |
 | 90 | [Warmer](https://open.spotify.com/track/0J1dghZvW89xWai1COnPdT) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [How They Remember You](https://open.spotify.com/album/1XwToQelPUXtUKSYUApT9G) | 3:05 |
-| 91 | [God, This Feels Good](https://open.spotify.com/track/3pPuIUNXQR6Vx8GNn6CFsU) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Songs from "Love, Victor" \(Original Soundtrack\)](https://open.spotify.com/album/1Ne1Q5DkeiivL9qBtoFwAW) | 3:18 |
-| 92 | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/track/5MYsn6ZeNgax3SFoqUlqz0) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Tough Boy](https://open.spotify.com/album/7cHOGdyjoxS0Ou57ax4Fws) | 2:31 |
+| 91 | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/track/5MYsn6ZeNgax3SFoqUlqz0) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Tough Boy](https://open.spotify.com/album/7cHOGdyjoxS0Ou57ax4Fws) | 2:31 |
+| 92 | [God, This Feels Good](https://open.spotify.com/track/3pPuIUNXQR6Vx8GNn6CFsU) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Songs from "Love, Victor" \(Original Soundtrack\)](https://open.spotify.com/album/1Ne1Q5DkeiivL9qBtoFwAW) | 3:18 |
 | 93 | [Mood](https://open.spotify.com/track/5Z4O3TSZu69elcy61uTKWC) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Mood](https://open.spotify.com/album/67h8coitqvalWbijNr6z7a) | 3:09 |
 | 94 | [Weekend](https://open.spotify.com/track/3APdNGA9kaoF1xB9URocBP) | [Adam Sample](https://open.spotify.com/artist/4ljG1jvAMItCY45vzI5k0G) | [Weekend](https://open.spotify.com/album/7xc55UnH6f3F1KM51YdVrH) | 3:13 |
 | 95 | [Latitude](https://open.spotify.com/track/6fjT2ujTDleTLCDWR5ja0f) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 4:05 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 134 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 135 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `Mjc1NzE2OTcsMDAwMDAwMDAxNjU4NjcwNWQ3OTJhYTllZTNlNzI0MmVhMDU3OGRhMw==`
+Snapshot ID: `Mjc1NzMxOTcsMDAwMDAwMDBjNzIxNGNmZjdjYjJmNGJjM2MxMDlkM2YwOTBkNTVjZA==`

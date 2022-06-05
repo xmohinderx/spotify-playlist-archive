@@ -4,7 +4,7 @@
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 58 min - [published](https://open.spotify.com/playlist/07aplnR92uNzWfsvMemABa)
+55 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/07aplnR92uNzWfsvMemABa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,9 @@
 | [El Dia Que Me Vaya](https://open.spotify.com/track/315dRf7ewuvsGN0RORRsya) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Dia Que Me Vaya](https://open.spotify.com/album/5rQlz3Jw0MWSfbzsTRvHZG) | 3:25 | 2022-06-01 |  |
 | [El Federal De Caminos](https://open.spotify.com/track/0vttfYDZ6uLi6kStSxkTrB) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Amo](https://open.spotify.com/album/4YblOZueMvUtw52G7DETSj) | 2:26 | 2022-06-01 |  |
 | [El Muchacho Alegre](https://open.spotify.com/track/4PWIUiEdobHkrKoZjoKRI4) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Más Completa Colección \(Componente 1\)](https://open.spotify.com/album/7mxr7LJxTrvFV49FkjmEpI) | 3:18 | 2022-06-01 |  |
-| [Encerrado](https://open.spotify.com/track/1n0ECnVy1rs3WTTKIt60s5) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Levanta Tu Vuelo](https://open.spotify.com/album/1XnWk7t7nYnJjLkBVPCnbr) | 3:28 | 2022-06-01 |  |
+| [Encerrado](https://open.spotify.com/track/1n0ECnVy1rs3WTTKIt60s5) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Levanta Tu Vuelo](https://open.spotify.com/album/1XnWk7t7nYnJjLkBVPCnbr) | 3:28 | 2022-06-01 | 2022-06-05 |
 | [Eres Mi Paz](https://open.spotify.com/track/0awSrFzOvDRklXhZSuRnMe) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Rancho Grande](https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e) | 3:02 | 2022-06-01 |  |
-| [Esta Tristeza Mía](https://open.spotify.com/track/3JaqxH3f3lGBXYQkhdRPRY) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:40 | 2022-06-01 | 2022-06-03 |
+| [Esta Tristeza Mía](https://open.spotify.com/track/3JaqxH3f3lGBXYQkhdRPRY) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:40 | 2022-06-01 |  |
 | [Gabino Barrera](https://open.spotify.com/track/4tAEa8PCDCdGJxmDnyjguB) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 3:25 | 2022-06-01 |  |
 | [Hablando Claro](https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 2:16 | 2022-06-01 |  |
 | [Juan Ramos](https://open.spotify.com/track/1UbzmkVajS4YyoJLuGP7q9) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Amo](https://open.spotify.com/album/4YblOZueMvUtw52G7DETSj) | 2:57 | 2022-06-01 |  |
@@ -47,6 +47,7 @@
 | [Pase Y Pase](https://open.spotify.com/track/5sK1Tz6eqakvg6qpOtJxMg) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:29 | 2022-06-01 |  |
 | [Pedro Avilés](https://open.spotify.com/track/2O5PXvFcz0MrjLYdcDmyJS) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Amor No Tiene Edad](https://open.spotify.com/album/5ld9ikvXhVrDJ0D3OwPY5K) | 3:09 | 2022-06-01 |  |
 | [Piquetes De Hormiga](https://open.spotify.com/track/5kvKKNzwXv9fpACJZ4bX9E) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Mera Buenas](https://open.spotify.com/album/246B5dU5Ai5guXS6UAER7b) | 2:25 | 2022-06-01 |  |
+| [Profundamente](https://open.spotify.com/track/2J3BdzcJlWoH5JqL4jxuMY) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 3:14 | 2022-06-04 |  |
 | [Prohibido](https://open.spotify.com/track/48bf7pvc1nlsSjnHkoz0VY) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Prohibido](https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT) | 2:56 | 2022-06-01 |  |
 | [Puño De Tierra](https://open.spotify.com/track/6nAwNfJ1kxO5r2EWClqW1b) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Evolucion De Una Estrella](https://open.spotify.com/album/6k7d21DElnpqLJJZ9f1TEl) | 2:59 | 2022-06-01 |  |
 | [Qué Casualidad](https://open.spotify.com/track/0AFkOMz5UWiDQUMswNqT42) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Grandes Exitos](https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA) | 2:22 | 2022-06-01 |  |
@@ -61,6 +62,6 @@
 | [Vuelve Por Favor](https://open.spotify.com/track/7f6C5WsOj6ElA8jltRRO4H) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Banda 89](https://open.spotify.com/artist/6obOm55X77MaT63vvPielg) | [Vuelve Por Favor](https://open.spotify.com/album/1zpIxfxGOIscfiAzHR39mD) | 3:30 | 2022-06-01 |  |
 | [Y por Esa Calle](https://open.spotify.com/track/64htZlvc8Dx9jzKLR1tSL7) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Porque Te Amé \(Vol\. 1\)](https://open.spotify.com/album/11RxvUuFr3iNGo6b3V7wi8) | 2:49 | 2022-06-01 |  |
 | [Y Que Paso](https://open.spotify.com/track/2gOOKb53hbXZCtKODq6B6Y) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Exitos En Vivo Vol\. 1](https://open.spotify.com/album/2yfdhZqHLZXOgQeAThSr4B) | 2:18 | 2022-06-01 |  |
-| [¿Y Si Te Robo?](https://open.spotify.com/track/7Fh5uHFDYDJPlJn1bfyNMs) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Carretera del Amor](https://open.spotify.com/album/7LFlT5hf0AzCNXV1HNMTnd) | 2:46 | 2022-06-01 |  |
+| [¿Y Si Te Robo?](https://open.spotify.com/track/7Fh5uHFDYDJPlJn1bfyNMs) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Carretera del Amor](https://open.spotify.com/album/7LFlT5hf0AzCNXV1HNMTnd) | 2:46 | 2022-06-01 | 2022-06-05 |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

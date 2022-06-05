@@ -4,7 +4,7 @@
 
 > ¿Qué se siente ser feliz? :\(
 
-82 songs - 4 hr 49 min - not published yet
+82 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/6FjY8fSm5oyFyTaugquQ2D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

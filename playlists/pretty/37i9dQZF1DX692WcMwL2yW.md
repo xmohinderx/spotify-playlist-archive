@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,702 likes - 134 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,690 likes - 134 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

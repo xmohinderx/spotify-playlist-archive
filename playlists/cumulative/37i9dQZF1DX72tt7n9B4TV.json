@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 275960,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/0nOLvRmUDmpX5VHUtq71Ck"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 201696,
       "name": "Bells",
       "url": "https://open.spotify.com/track/3kKlJ7zSvU8MfAoTPONZKj"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 195990,
       "name": "Burn With Me",
       "url": "https://open.spotify.com/track/4iBf5GuLgVzfMypmOEEiFC"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 256506,
       "name": "Complete You",
       "url": "https://open.spotify.com/track/5jNPu9QRIe8X7LP2Q2HTd0"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 197493,
       "name": "Crushed Velvet",
       "url": "https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm"
@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Surface Sounds",
+        "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284798,
+      "name": "Hey Gringo",
+      "url": "https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169"
+    },
+    {
+      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/6qIh2hDyrE8Y0DSYwQK0pf"
       },
@@ -693,7 +711,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 237581,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/3mXLYl93QbW6fxnU9sQOj6"
@@ -755,7 +773,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 193565,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/23unqAilZgKoYIcmqCLlUL"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 159880,
       "name": "I Want to Believe",
       "url": "https://open.spotify.com/track/65GhsC6Dg96hLgXUr615li"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 127306,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/3sBkphRoIfQEgQiUxu1b7v"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 133678,
       "name": "Loser",
       "url": "https://open.spotify.com/track/01VbCa15MmvNg3KMOfoHa2"
@@ -1083,7 +1101,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 197283,
       "name": "Peach",
       "url": "https://open.spotify.com/track/6egPp2V3UVRJlPI8GtD9bF"
@@ -1127,7 +1145,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 190261,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/4aageOBWTUR5qwIhq7cvfB"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 223070,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6XZ8SzOsrIPce5JdgMeJFF"
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 212853,
       "name": "Rose-Colored Boy",
       "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 222936,
       "name": "Shakin' Off The Rust",
       "url": "https://open.spotify.com/track/5PUlGG3xO8PUuDcYKuaeZH"
@@ -1289,7 +1307,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 207010,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/23qa4Zh6BFUlkR8Bz7sDMO"
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 169600,
       "name": "SOS (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/38X7LavheHbSg0UwjRUNcf"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 155533,
       "name": "The Feel",
       "url": "https://open.spotify.com/track/2w9bvFZOHo6I1ZWEkNKSpa"
@@ -1625,7 +1643,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 195853,
       "name": "Tiny Indoor Fireworks",
       "url": "https://open.spotify.com/track/1ZUsnvMUqF0uJkhhjZlvcY"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 252169,
       "name": "Violet",
       "url": "https://open.spotify.com/track/1mqNkQCIJygHXKCyCybUwM"
@@ -1809,7 +1827,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 205093,
       "name": "Young Dumb",
       "url": "https://open.spotify.com/track/2aR3eKxV0x7VEh6ZMJlduS"

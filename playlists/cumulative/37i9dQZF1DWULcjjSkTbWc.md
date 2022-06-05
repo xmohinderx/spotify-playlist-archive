@@ -4,17 +4,18 @@
 
 > Unos buenos riffs de guitarra para acompañarte en el camino.
 
-83 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/3dNlFSKAMmmQ2dlm3T7kwR)
+84 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/3dNlFSKAMmmQ2dlm3T7kwR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 | 2021-11-26 |  |
 | [About A Girl](https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 2:46 | 2021-11-26 |  |
-| [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2021-11-26 |  |
+| [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2021-11-26 | 2022-06-05 |
 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 | 2021-11-26 |  |
 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 | 2021-11-26 |  |
 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:34 | 2021-11-26 |  |
 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 | 2021-11-26 | 2022-05-25 |
+| [Band On The Run \- Remastered 2010](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 | 2021-11-26 |  |
 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 | 2021-11-26 |  |
 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 | 2021-11-26 |  |
 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 | 2021-11-26 |  |
@@ -28,7 +29,7 @@
 | [Dirty Harry](https://open.spotify.com/track/2bfGNzdiRa1jXZRdfssSzR) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:50 | 2021-11-26 | 2022-06-01 |
 | [Do You Want To](https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [You Could Have It So Much Better](https://open.spotify.com/album/3GNG4NPXfTeIGYjZ2FpS6P) | 3:35 | 2021-11-26 |  |
 | [Dormir Soñando](https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Libres Y Locos](https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E) | 3:07 | 2021-11-26 |  |
-| [Drive My Car \- Remastered 2009](https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:28 | 2021-11-26 |  |
+| [Drive My Car \- Remastered 2009](https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:28 | 2021-11-26 | 2022-06-05 |
 | [El Son del Dolor](https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [La Invasion De Los Blatidos](https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE) | 4:00 | 2021-11-26 |  |
 | [Fantasma](https://open.spotify.com/track/5lHTn6FuRalBBQZMUJt1xH) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [CARIBE 4 LIFE](https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK) | 3:26 | 2021-11-26 |  |
 | [Fluorescent Adolescent](https://open.spotify.com/track/2x8evxqUlF0eRabbW2JBJd) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 3:03 | 2021-11-26 |  |
@@ -85,7 +86,7 @@
 | [Vendaval De Cristal](https://open.spotify.com/track/1aSt45gruUPowYTAnmTHcw) | [GENTE IMPROBABLE](https://open.spotify.com/artist/3hYNnh9hNnCKiQK4onMEJr) | [Vendaval De Cristal](https://open.spotify.com/album/7wQAo1qIV4da91vQkOIid8) | 4:06 | 2022-04-01 |  |
 | [Venezia](https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:30 | 2021-11-26 |  |
 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 | 2021-11-26 |  |
-| [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 | 2021-11-26 | 2022-06-04 |
+| [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 | 2021-11-26 |  |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 | 2021-11-26 |  |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-04-06 |  |
 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/6jvCkDnEIqIi6NWDejE4dj) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Jaibol](https://open.spotify.com/album/1iLGWwqCD5NVbI81y5xFPM) | 3:35 | 2021-11-26 |  |

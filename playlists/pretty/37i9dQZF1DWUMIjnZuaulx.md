@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  Group Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,953 likes - 103 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,043 likes - 103 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

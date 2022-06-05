@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,524 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,585 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 5 | [Outro Dia](https://open.spotify.com/track/1lTsRXDMWFbsFjQGkbL5TX) | [A Banca Records, Lourena, Azzy, Mazin, Black](https://open.spotify.com/artist/29Tpb9NIA4RIZ6knnYXGDR) | [Outro Dia](https://open.spotify.com/album/1o2PIIFg4d09qZDRGDNfdo) | 3:52 |
 | 6 | [GEMINI](https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [GEMINI](https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2) | 3:20 |
 | 7 | [Antes](https://open.spotify.com/track/2XymTaHTrQWDEuSyhfZvqF) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:49 |
-| 8 | [Abismo](https://open.spotify.com/track/30yWCNCHDq8cepVoSfzS7i) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [Socorro \(Deluxe\)](https://open.spotify.com/album/5BShh2lxtKeMTCqbLs2M22) | 3:17 |
+| 8 | [Abismo](https://open.spotify.com/track/30yWCNCHDq8cepVoSfzS7i) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [SOCORRO \(Deluxe\)](https://open.spotify.com/album/5BShh2lxtKeMTCqbLs2M22) | 3:17 |
 | 9 | [Dióne](https://open.spotify.com/track/3btFitgDyAmqRpsnTVW8sR) | [Doreán](https://open.spotify.com/artist/5jvgFY84QwazP4ljpQqcvg), [Djow](https://open.spotify.com/artist/4dfW6aGgqWwU6juV63C0ZR), [DaSeca](https://open.spotify.com/artist/0PkEzIQnkKxgZYzXNoY8aJ) | [Dióne](https://open.spotify.com/album/1S3TwRRwWYohy9wwH2EsQ4) | 3:51 |
 | 10 | [Anos Luz](https://open.spotify.com/track/0GYPcKDlsb8WEtJkkKdtgH) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Anos Luz](https://open.spotify.com/album/2NtkW7FT1VdKVjGXhLKp9k) | 4:24 |
 | 11 | [Tipo VMZ](https://open.spotify.com/track/0ScgXvIRAfE7FuaqrM96cU) | [Naka mrl](https://open.spotify.com/artist/1FIxVemJI8prZLU2bo4Crk), [Will Bueno](https://open.spotify.com/artist/1F9BbGwGzfC9vzfOge3izB), [Sadzone](https://open.spotify.com/artist/0nvS15lDq1di8JKroZN4jV) | [Tipo VMZ](https://open.spotify.com/album/6QSoMChYrZTnslfMrMDdj8) | 2:11 |

@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 172879,
       "name": "El Chuko",
       "url": "https://open.spotify.com/track/5omrXpkdGMI539unfxFfRS"
@@ -383,10 +383,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 148344,
       "name": "La Fiesta Ya Empezo",
       "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149350,
+      "name": "La Gente Del Toro",
+      "url": "https://open.spotify.com/track/6ZLaLbmUGycFj1aNjlx2Ul"
     },
     {
       "album": {
@@ -574,6 +592,28 @@
     },
     {
       "album": {
+        "name": "Sue\u00f1os y Metas",
+        "url": "https://open.spotify.com/album/5xznQhaDmG3QocS1i5KfUE"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Rub\u00e9n Miranda Y Los De La J",
+          "url": "https://open.spotify.com/artist/4A6lttDRrPRN2lb5SvyI9t"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "Sue\u00f1os y Metas",
+      "url": "https://open.spotify.com/track/2IAz40IUjp8A2OdtOo9DUO"
+    },
+    {
+      "album": {
         "name": "Lo Prometido Es Deuda Vol.1",
         "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
       },
@@ -589,6 +629,24 @@
       "duration_ms": 193744,
       "name": "Tinta y Plomo",
       "url": "https://open.spotify.com/track/1CJoATnCszv00FT1CEnLPx"
+    },
+    {
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172471,
+      "name": "Todo A Su Tiempo",
+      "url": "https://open.spotify.com/track/0eh9ZrTOVClUh7lhBv1pLt"
     },
     {
       "album": {

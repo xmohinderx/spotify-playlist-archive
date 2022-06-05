@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,739 likes - 103 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,744 likes - 103 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 24 | [you & i](https://open.spotify.com/track/4UXFXCosErTtqThJacF229) | [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [you & i](https://open.spotify.com/album/0RubG3LiW3gxR07amjrIOo) | 2:54 |
 | 25 | [I Cannot Be \(A Sadder Song\) \(with Gunna\)](https://open.spotify.com/track/4IxeKzzxUSEgivgtbSbyIK) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 2:49 |
 | 26 | [BANDITA \(feat\. Noizy\)](https://open.spotify.com/track/1wIMizXipAjB2ppMHnlBSo) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [BANDITA \(feat\. Noizy\)](https://open.spotify.com/album/0TaB7abwiiDuxiQdmAJBaQ) | 3:07 |
-| 27 | [Talk](https://open.spotify.com/track/5CeJEAymOXlcuTMeV0tGW8) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Inna](https://open.spotify.com/artist/4f7LdSHbb9VPN04b3rHM3R) | [Talk](https://open.spotify.com/album/1UbFg8AzX8omvIxlQEMKUO) | 2:54 |
+| 27 | [Talk](https://open.spotify.com/track/5CeJEAymOXlcuTMeV0tGW8) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Talk](https://open.spotify.com/album/1UbFg8AzX8omvIxlQEMKUO) | 2:54 |
 | 28 | [BERETTA](https://open.spotify.com/track/5T8d11vkU2b3bIRSMIBrCC) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [BERETTA](https://open.spotify.com/album/01Vdj2RKaAShfenS7e9wvh) | 3:32 |
 | 29 | [14](https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [14](https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe) | 2:21 |
 | 30 | [MAYDAY](https://open.spotify.com/track/37qvUP2uVefoziYGywQwur) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ) | [FAIV](https://open.spotify.com/album/4xpmdTSoa2iKkBnxrsTWzK) | 2:41 |

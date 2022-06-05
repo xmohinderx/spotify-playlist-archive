@@ -1,6 +1,6 @@
 {
   "description": "All the best new tracks this week, all in one place. Cover: Post Malone",
-  "num_followers": 327871,
+  "num_followers": 327933,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
@@ -807,7 +807,7 @@
     {
       "added_at": "2022-06-03 04:00:00",
       "album": {
-        "name": "Demon",
+        "name": "Demon (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z"
       },
       "artists": [
@@ -821,7 +821,7 @@
         }
       ],
       "duration_ms": 122141,
-      "name": "Demon",
+      "name": "Demon (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG"
     },
     {
@@ -888,12 +888,12 @@
           "url": "https://open.spotify.com/artist/1MGdLAHg2Wq4mSE6OEqXqg"
         },
         {
-          "name": "Axtrom",
-          "url": "https://open.spotify.com/artist/01KwNpa5jLeGOWkAXrQJ4Q"
-        },
-        {
           "name": "Oleyada",
           "url": "https://open.spotify.com/artist/0QBfpW13sJhHqEITjHB0lC"
+        },
+        {
+          "name": "Axtrom",
+          "url": "https://open.spotify.com/artist/01KwNpa5jLeGOWkAXrQJ4Q"
         }
       ],
       "duration_ms": 165368,

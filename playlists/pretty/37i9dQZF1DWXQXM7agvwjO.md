@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: The Kopycat \(Thailand\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,019 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,053 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

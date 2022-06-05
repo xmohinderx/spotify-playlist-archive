@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Danimal, Zombic, Influencerz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,598,789 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,599,199 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 12 | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU) | 2:50 |
 | 13 | [Samba](https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Samba](https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt) | 2:27 |
 | 14 | [Light Up](https://open.spotify.com/track/319XgEPeEfhMw276p5wzg3) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Light Up](https://open.spotify.com/album/3lpliBOg303cNhbNCeDMZm) | 2:41 |
-| 15 | [Because the Night](https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Because the Night](https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G) | 3:21 |
+| 15 | [Because The Night](https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Because The Night](https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G) | 3:21 |
 | 16 | [I'm Okay](https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [I'm Okay](https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En) | 2:31 |
 | 17 | [Tell Me Secrets](https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW), [Joker Bra](https://open.spotify.com/artist/325L7kby6bkG5qSXXAFEWM) | [Tell Me Secrets](https://open.spotify.com/album/3HWre2IiyyqUclVbnd6PlW) | 2:16 |
 | 18 | [Raindrop \(feat\. Shibui\)](https://open.spotify.com/track/7AZHmKLqMIpjvt0nxReVlz) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Raindrop \(feat\. Shibui\)](https://open.spotify.com/album/3vI8rJQBebnZfCsuGODsAe) | 2:26 |

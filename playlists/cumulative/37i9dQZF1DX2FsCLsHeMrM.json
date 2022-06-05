@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "2min (feat. Vera)",
+        "url": "https://open.spotify.com/album/3NOlM0XnOTwILHjYtfx88m"
+      },
+      "artists": [
+        {
+          "name": "Phlake",
+          "url": "https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay"
+        },
+        {
+          "name": "Vera",
+          "url": "https://open.spotify.com/artist/0Nj6EN5mur7EJHl0aZuGP7"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160227,
+      "name": "2min (feat. Vera)",
+      "url": "https://open.spotify.com/track/61D6L6hbo9E3xyU7nbtVeb"
+    },
+    {
+      "album": {
         "name": "Rewind - The Collection",
         "url": "https://open.spotify.com/album/1YI5yNJkzhBpN0BoK9AO4B"
       },
@@ -193,7 +215,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 281866,
       "name": "As",
       "url": "https://open.spotify.com/track/1aRfAE3q4TjJuG3mNwEJkt"
@@ -229,7 +251,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 257040,
       "name": "B.N.D",
       "url": "https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K"
@@ -1248,6 +1270,24 @@
     },
     {
       "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/69bgbAILh3pnvCe7W9AZ5q"
+      },
+      "artists": [
+        {
+          "name": "Joseph Lawrence",
+          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191135,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/0Bc3PSRh7mZP0jgjMMG4zW"
+    },
+    {
+      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -1317,7 +1357,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 254800,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/5GIp3XwoMW9bbdUvGB2ydO"
@@ -3219,7 +3259,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 256946,
       "name": "You Know I'm No Good",
       "url": "https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2"

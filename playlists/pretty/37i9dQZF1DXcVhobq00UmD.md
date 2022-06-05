@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcVhobq00UmD.md) - [plain]
 
 > Welcome to the LOOΠΔverse\. Are you making an 'Orbit' around LOOΠΔ?
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,683 likes - 104 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,749 likes - 104 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcVhobq00UmD.md) - [plain]
 | 56 | [Fairy Tale](https://open.spotify.com/track/0AH0dkzF93dcHFnmeBOTbE) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Live](https://open.spotify.com/album/02QYjN9V9rlnXAtQvAX0rW) | 3:07 |
 | 57 | [OOPS!](https://open.spotify.com/track/1PI5Nlv1bJESN0H1wBa7Pe) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[12:00\]](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) | 2:42 |
 | 58 | [Valentine Girl](https://open.spotify.com/track/54aMoZIU4kF8o4MbIEObls) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Live](https://open.spotify.com/album/02QYjN9V9rlnXAtQvAX0rW) | 3:10 |
-| 59 | [Everyday I Love You \(feat\. HaSeul\)](https://open.spotify.com/track/5e6Tii9571q3uKOC6wn8XU) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7), [HaSeul](https://open.spotify.com/artist/3B5BfaOYvKERhknUgnGYCf) | [ViVi](https://open.spotify.com/album/00MxrNWr9xmxrqhcK4tqtK) | 3:28 |
+| 59 | [Everyday I Love You \(feat\. HaSeul\)](https://open.spotify.com/track/5e6Tii9571q3uKOC6wn8XU) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7), [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [ViVi](https://open.spotify.com/album/00MxrNWr9xmxrqhcK4tqtK) | 3:28 |
 | 60 | [Everyday I Need You \(feat\. JinSoul\)](https://open.spotify.com/track/6y0g4cJTSABiaaKECOISiI) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7), [JinSoul](https://open.spotify.com/artist/1rAZr0bwMTcobwrOFHhfJr) | [ViVi](https://open.spotify.com/album/00MxrNWr9xmxrqhcK4tqtK) | 3:07 |
 | 61 | [Love & Evil](https://open.spotify.com/track/6XAca0QIiTvMaWfTnjjwrn) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/35DjTZIwcC0Vfg2w7ICHUg) | 1:02 |
 | 62 | [Sonatine](https://open.spotify.com/track/6RMFRrVjtcvpyyBs6cM0xd) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/35DjTZIwcC0Vfg2w7ICHUg) | 3:17 |

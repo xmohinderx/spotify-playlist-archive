@@ -4,7 +4,7 @@
 
 > Pop en inglés para apapachar a tu corazón herido 💔
 
-50 songs - 3 hr 22 min - not published yet
+50 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/10dOy7ussxv3SPnsuowUMH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

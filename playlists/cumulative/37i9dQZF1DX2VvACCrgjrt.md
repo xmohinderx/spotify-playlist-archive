@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Capozzi
 
-283 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+283 songs - 15 hr 11 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Deja Vu](https://open.spotify.com/track/4jRXoqeqFNxUI25ugusDyI) | [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Deja Vu](https://open.spotify.com/album/6DX55O0G1V5RJVTCeO91ZX) | 3:05 | 2022-04-01 |  |
 | [Diamonds](https://open.spotify.com/track/3lP4T0m8KHEiHP4DnbL8My) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Diamonds](https://open.spotify.com/album/5hUSbbJj0G26FMHIzsnNTU) | 3:23 | 2022-03-18 |  |
 | [Diamonds](https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Diamonds](https://open.spotify.com/album/3P5KroUlTCQ6ZGViQpCixc) | 3:25 | 2022-03-18 |  |
-| [Dibby Dibby DJ](https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 2:31 | 2022-06-03 |  |
+| [Dibby Dibby DJ](https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 3:04 | 2022-06-03 |  |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-10-29 | 2022-04-23 |
 | [Do Me Right](https://open.spotify.com/track/6mLJ7zIYSd0UU4clzjKjMC) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Do Me Right](https://open.spotify.com/album/67FSPQuOEYIU4vqtcg0Fxm) | 3:01 | 2021-10-29 | 2022-01-22 |
 | [Downstairs \(feat\. Jaquell\) \- AC Slater Remix](https://open.spotify.com/track/4mJE8x9qBYJXtsbgCabL4R) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Jaquell](https://open.spotify.com/artist/1VMWb2Dj2XqtR3xsArTlUh), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [Downstairs \(feat\. Jaquell\) \[Remixes\]](https://open.spotify.com/album/6H2fT3UlOqvPog8j9xHnu6) | 3:20 | 2021-10-29 | 2022-01-22 |

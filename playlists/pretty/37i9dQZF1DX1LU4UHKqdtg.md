@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: THE BOYZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,067 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,220 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [lonely](https://open.spotify.com/track/6tHHDLX1jZNzlT4vZmqm5n) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [lonely](https://open.spotify.com/album/2Ay01bZKWRqWUrRWydeSsC) | 3:33 |
 | 80 | [WHO](https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [REFUGE](https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9) | 2:54 |
 
-Snapshot ID: `MTY1NDMwNDU3NCwwMDAwMDAwMGIyNDBmMjc2NWZkMDVjODQxNjRiOTk4ODExN2U5Nzdk`
+Snapshot ID: `MTY1NDM5MTQxMCwwMDAwMDAwMGIyNDBmMjc2NWZkMDVjODQxNjRiOTk4ODExN2U5Nzdk`

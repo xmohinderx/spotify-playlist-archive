@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 210989,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI"
@@ -383,6 +383,24 @@
       "duration_ms": 203687,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3OXxCquI8i14EigwILaLx9"
+    },
+    {
+      "album": {
+        "name": "Antes de Perderte",
+        "url": "https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Antes de Perderte",
+      "url": "https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm"
     },
     {
       "album": {
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 173052,
       "name": "como si no importara",
       "url": "https://open.spotify.com/track/7M0mBls29IohQIPGqegcyE"
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 230400,
       "name": "Despu\u00e9s de la Playa",
       "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
@@ -2297,7 +2315,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 159849,
       "name": "Fuera del mercado",
       "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
@@ -4260,6 +4278,28 @@
     },
     {
       "album": {
+        "name": "Nos Comemos (feat. Ozuna)",
+        "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191086,
+      "name": "Nos Comemos (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
+    },
+    {
+      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -5905,7 +5945,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 112507,
       "name": "Tamo Chelo",
       "url": "https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T"
@@ -7293,7 +7333,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 211875,
       "name": "Yendo No, Llegando",
       "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"

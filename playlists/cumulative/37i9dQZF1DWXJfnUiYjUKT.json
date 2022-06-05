@@ -9631,6 +9631,24 @@
     {
       "album": {
         "name": "Demon",
+        "url": "https://open.spotify.com/album/7fpY1iDm5Ow3r1YE8eqy7R"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-06",
+      "duration_ms": 165676,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/2LnQSUceWUnowlkQTfOMVy"
+    },
+    {
+      "album": {
+        "name": "Demon (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z"
       },
       "artists": [
@@ -9647,26 +9665,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 122141,
-      "name": "Demon",
+      "name": "Demon (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG"
-    },
-    {
-      "album": {
-        "name": "Demon",
-        "url": "https://open.spotify.com/album/7fpY1iDm5Ow3r1YE8eqy7R"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "date_added": "2022-04-28",
-      "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
-      "duration_ms": 165676,
-      "name": "Demon",
-      "url": "https://open.spotify.com/track/2LnQSUceWUnowlkQTfOMVy"
     },
     {
       "album": {
@@ -38756,7 +38756,7 @@
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 174000,
+      "duration_ms": 191532,
       "name": "There She Go (Jack Sparrow) [feat. Mayorkun]",
       "url": "https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr"
     },

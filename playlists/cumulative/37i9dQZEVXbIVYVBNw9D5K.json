@@ -1666,6 +1666,28 @@
     },
     {
       "album": {
+        "name": "Ka\u011f\u0131t Kesikleri",
+        "url": "https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af"
+      },
+      "artists": [
+        {
+          "name": "Sagopa Kajmer",
+          "url": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+        },
+        {
+          "name": "\u015eehin\u015fah",
+          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279215,
+      "name": "Bla Bla Bla Bla",
+      "url": "https://open.spotify.com/track/6fhcwrfGQCBT0VpbtjMRIm"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ"
       },
@@ -2237,6 +2259,24 @@
       "duration_ms": 223950,
       "name": "Dip",
       "url": "https://open.spotify.com/track/17MzeMBa6mWeY30BWYW8dd"
+    },
+    {
+      "album": {
+        "name": "Ka\u011f\u0131t Kesikleri",
+        "url": "https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af"
+      },
+      "artists": [
+        {
+          "name": "Sagopa Kajmer",
+          "url": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247250,
+      "name": "Dokunan Yanar",
+      "url": "https://open.spotify.com/track/7LDAa5ZNwnEnLqheWiHatr"
     },
     {
       "album": {
@@ -3503,7 +3543,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 144159,
       "name": "G\u00f6zler",
       "url": "https://open.spotify.com/track/3Hvn1ASL6A9m921Y99Hdm4"
@@ -3623,6 +3663,28 @@
       "duration_ms": 167500,
       "name": "Hakim Bey",
       "url": "https://open.spotify.com/track/1U162pMcwl6Ssq5kk1Sso3"
+    },
+    {
+      "album": {
+        "name": "Ka\u011f\u0131t Kesikleri",
+        "url": "https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af"
+      },
+      "artists": [
+        {
+          "name": "Sagopa Kajmer",
+          "url": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+        },
+        {
+          "name": "Dr. Fuchs",
+          "url": "https://open.spotify.com/artist/51o6QF11Nswx5jMlp6rAL8"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232672,
+      "name": "Halen",
+      "url": "https://open.spotify.com/track/7KiJY7W8c5cNXE9YwuVqlW"
     },
     {
       "album": {
@@ -6623,7 +6685,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 121999,
       "name": "Riv Riv Riv",
       "url": "https://open.spotify.com/track/3HEv9gY3n9Fj2H5E2IoOKF"
@@ -7389,10 +7451,28 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 171894,
       "name": "Su\u00e7lar\u0131mdan Biri",
       "url": "https://open.spotify.com/track/5S0Q8i6RTwekXnE2WU3vQi"
+    },
+    {
+      "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171894,
+      "name": "Su\u00e7lar\u0131mdan Biri",
+      "url": "https://open.spotify.com/track/65tIJClJx8fHo6YW4wVDhi"
     },
     {
       "album": {
@@ -7991,7 +8071,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 238355,
       "name": "Yaralar\u0131n\u0131 Ben Saray\u0131m",
       "url": "https://open.spotify.com/track/2pTwhAbZHkM1CyDYe1k8hl"

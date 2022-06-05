@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,082,869 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,083,389 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 28 | [Bang Dat Heat](https://open.spotify.com/track/4QhBPXSDf20rc3EbkaNLbp) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj) | [Bang Dat Heat](https://open.spotify.com/album/1j4BhHdFCZ76LVcG9QyFvm) | 1:53 |
 | 29 | [Don’t Rate Me \(feat\. Quavo\)](https://open.spotify.com/track/74UTFKAhNIqAwBIb6EYHw1) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Don’t Rate Me \(feat\. Quavo\)](https://open.spotify.com/album/5OTdpCb5T1EOoiM2jLrhG9) | 2:33 |
 | 30 | [Tell The Truth \(with Shordie Shordie\)](https://open.spotify.com/track/4Q5qDYtCM3W9IlU64OTRAh) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Tell The Truth \(with Shordie Shordie\)](https://open.spotify.com/album/7DNdz17UKZ3b6wxU8mHJAz) | 3:22 |
-| 31 | [Hustler's Anthem V2 \(with Birdman feat\. Kevin Gates\)](https://open.spotify.com/track/2jqebWPNRxKiLyMKxKyOhU) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Hustler's Anthem V2 \(with Birdman feat\. Kevin Gates\)](https://open.spotify.com/album/6gGj7WtC3PxstpTn9VkdDm) | 3:15 |
+| 31 | [Hustler's Anthem V2 \(with Birdman feat\. Kevin Gates\)](https://open.spotify.com/track/2jqebWPNRxKiLyMKxKyOhU) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Hustler's Anthem V2 \(with Birdman feat\. Kevin Gates\)](https://open.spotify.com/album/6gGj7WtC3PxstpTn9VkdDm) | 2:50 |
 | 32 | [5 Years](https://open.spotify.com/track/55JPb1FVudHjZnFTvB8LPG) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY) | [5 Years](https://open.spotify.com/album/7gFrVtLi2Oy0EMYaHtNDQM) | 2:47 |
 | 33 | [Add A K \- Part 2](https://open.spotify.com/track/3XSLBRHVGRlcmkCjDy74rJ) | [Whoppa Wit Da Choppa](https://open.spotify.com/artist/482lFlWgAXTKFGC8C6imWq), [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ), [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Add A K \(Part 2\)](https://open.spotify.com/album/310KcDvru9J7ixZeSZLdbl) | 2:37 |
 | 34 | [Paper Route \(ft\. Young Dolph\)](https://open.spotify.com/track/5A5XZ49RusDpRHlltXB4f5) | [Tafia](https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Mention My Name](https://open.spotify.com/album/2yepLQw2fOxkEMfU3gbsWB) | 3:23 |

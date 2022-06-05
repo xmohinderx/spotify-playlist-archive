@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKOefHPXPMyf.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,025 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,024 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKOefHPXPMyf.md) - [plain]
 | 49 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 |
 | 50 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 |
 
-Snapshot ID: `NzA3NTc5NDMzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzA3NjY0NjMyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

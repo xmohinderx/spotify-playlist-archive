@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > Crossing over like Allen I\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,892,218 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,892,392 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 12 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 |
 | 13 | [Oh Oh](https://open.spotify.com/track/0aA3U4en3uNGEE3lQX3gfu) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Oh Oh](https://open.spotify.com/album/4U1sRhF0AsJxgazR8yZfMW) | 2:52 |
 | 14 | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/album/5AviR59jAHiYp4Up3hj0bw) | 3:25 |
-| 15 | [Demon](https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Demon](https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z) | 2:02 |
+| 15 | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z) | 2:02 |
 | 16 | [Purple Hearts](https://open.spotify.com/track/401160izncPtca3CmX3dvM) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 5:29 |
 | 17 | [\[Admire Her\] \(with Gunna\)](https://open.spotify.com/track/4wJKTG3bAleqUXmylh83Id) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [\[BUMP\] Pick Me Up](https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM) | 2:37 |
 | 18 | [Insecure](https://open.spotify.com/track/5ChrCVSERccPyn3p2Clsum) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Insecure](https://open.spotify.com/album/6x4dhOka4HVr9hmXgQhWA9) | 3:08 |

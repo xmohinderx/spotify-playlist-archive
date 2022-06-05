@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS!!  <br/>Cover: Bailey Zimmerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,734 likes - 133 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,896 likes - 133 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

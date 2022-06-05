@@ -4,7 +4,7 @@
 
 > This is Deuter\. The essential tracks, all in one playlist.
 
-52 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/6WpgJsRrnIclDGauq0sCwS)
+53 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/6WpgJsRrnIclDGauq0sCwS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,12 +13,13 @@
 | [Cinque](https://open.spotify.com/track/0RDAF6UAfX2Yg6CVd9kI3p) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 6:56 | 2022-05-29 |  |
 | [Cloud Surfing](https://open.spotify.com/track/1HuFkAl8FJnL83syXSPnUb) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 4:58 | 2022-05-29 |  |
 | [Coucher de Lune](https://open.spotify.com/track/7lGuSZj1abRWIJ2JDsiCxe) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Illumination of the Heart](https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90) | 4:45 | 2022-05-29 |  |
+| [Deeper than the Sky](https://open.spotify.com/track/27sKMZ5NDmoriIbRmMZn5q) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 4:57 | 2022-06-04 |  |
 | [Deux](https://open.spotify.com/track/0qcnvg2hjGZpQlE33d8COA) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 6:23 | 2022-05-29 |  |
 | [Drei](https://open.spotify.com/track/0mK2VcykSMfiX3lsHMwsph) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 6:34 | 2022-05-29 |  |
 | [East of the Full Moon](https://open.spotify.com/track/0eYaVwb5vYMBUvlxrS4C5u) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [East of the Full Moon](https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon) | 8:33 | 2022-05-29 |  |
 | [Endless Horizon](https://open.spotify.com/track/0dKDjp06BhgGzlwwhis1t3) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Space](https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx) | 18:45 | 2022-05-29 |  |
 | [Escape from Gravity](https://open.spotify.com/track/7MiXBG25ozczXh5e472Hia) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 8:20 | 2022-05-29 |  |
-| [Felsen im Licht](https://open.spotify.com/track/114goyp7beFWnmtoOsYtJo) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 5:27 | 2022-05-31 | 2022-06-04 |
+| [Felsen im Licht](https://open.spotify.com/track/114goyp7beFWnmtoOsYtJo) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 5:27 | 2022-05-31 |  |
 | [Four](https://open.spotify.com/track/07kJszAySuuMhJ8UqXS8PS) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 7:00 | 2022-05-29 |  |
 | [Free Forever](https://open.spotify.com/track/7tu8BZz19o4D1zQhLsWSRE) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 8:08 | 2022-05-29 |  |
 | [Gaia Dreaming Herself Awake](https://open.spotify.com/track/7lQ6P6agn49OUCedmJSw5q) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 7:44 | 2022-05-29 |  |
@@ -48,14 +49,14 @@
 | [Silent Wave](https://open.spotify.com/track/27F6TPCUQ9eI2gXwO8Ngr1) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spa Lounge](https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK) | 7:15 | 2022-05-29 |  |
 | [Song of a Dream](https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Healing](https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP) | 5:42 | 2022-05-29 |  |
 | [Sound of Invisible Waters](https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 9:32 | 2022-05-29 |  |
-| [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 | 2022-05-29 |  |
+| [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 | 2022-05-29 | 2022-06-05 |
 | [Still Stones of Silence](https://open.spotify.com/track/7zUPTyOUvO41OBtA5BTwMr) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 8:06 | 2022-05-29 |  |
 | [Surfing the Clouds](https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Empty Sky](https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn) | 6:26 | 2022-05-29 |  |
 | [Temple of Silence](https://open.spotify.com/track/5RVcMhbIaIfekTjo7zL8ij) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 9:16 | 2022-05-29 |  |
 | [The Source](https://open.spotify.com/track/7z1DKo3h5CH80LmmSMjZHC) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Earth Blue](https://open.spotify.com/album/1v1v5JNGwKKcVkj9TAP4i5) | 6:21 | 2022-05-29 |  |
 | [Tonglen](https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Illumination of the Heart](https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90) | 7:38 | 2022-05-29 |  |
 | [Traveling the Stars](https://open.spotify.com/track/6RqAsTGE7uw6BKlUN2Gpln) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Empty Sky](https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn) | 8:55 | 2022-05-29 |  |
-| [Unknown Doors](https://open.spotify.com/track/1xYzlYdAQeHUdyJKbb6Vt5) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 5:49 | 2022-05-29 |  |
+| [Unknown Doors](https://open.spotify.com/track/1xYzlYdAQeHUdyJKbb6Vt5) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 5:49 | 2022-05-29 | 2022-06-05 |
 | [Uno](https://open.spotify.com/track/6VoYnLiXIpKLg7j2Tnq95x) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 5:54 | 2022-05-29 |  |
 | [Venus Rising](https://open.spotify.com/track/2Ugv31yiymtA9NnbJU3igD) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 8:33 | 2022-05-29 |  |
 | [Waves of Light](https://open.spotify.com/track/4DKQvhGkiY5UpG7aXF4IHb) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 10:50 | 2022-05-29 |  |
