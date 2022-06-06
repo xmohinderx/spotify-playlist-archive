@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: حسين الجسمي
 
-154 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+155 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Manstghnash](https://open.spotify.com/track/6tiAvjptfjuV1itslVeR5K) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Manstghnash](https://open.spotify.com/album/6YgGZaFXO9BSoK5MTE9Q24) | 3:52 | 2021-12-23 | 2022-02-18 |
 | [Maqbalsh Aayesh](https://open.spotify.com/track/02NfyEEdo2gLpGg7VVRdtC) | [Maged Essam](https://open.spotify.com/artist/40NLZmnX0Yrgi5ZjGcO578) | [Maqbalsh Aayesh](https://open.spotify.com/album/3WqkEixa5RwzlP9AcPhdhK) | 4:15 | 2021-12-23 | 2021-12-31 |
 | [Meen Et3allem Bebalash](https://open.spotify.com/track/6RwlInFRtVO7eFjaBytGz7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:07 | 2022-01-27 | 2022-04-23 |
+| [Meen Kan Sabab](https://open.spotify.com/track/5v9jwJsiS768F1YgNtUg1W) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Meen Kan Sabab](https://open.spotify.com/album/5GfHGQ6L6QN4PEL3pwtAPK) | 4:28 | 2022-06-05 |  |
 | [Mehtag L Wogodk](https://open.spotify.com/track/4XIaNcYyKQC3uipgLSKE1e) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Mehtag L Wogodk](https://open.spotify.com/album/7KTZ8xngdzDldsNugnDGqN) | 2:59 | 2021-12-29 | 2022-03-12 |
 | [Melkak Hayaty](https://open.spotify.com/track/4ld5JwlPAYzqw4Hl276tgB) | [Mostafa Mahfouz](https://open.spotify.com/artist/35AynhLyzo0RqoOK3z0knn) | [Melkak Hayaty](https://open.spotify.com/album/5u21VlCnmDiYXz4Nzj3SqH) | 4:43 | 2021-12-23 | 2022-01-24 |
 | [Men Wara Albi](https://open.spotify.com/track/48FJYiS6TNaowp08T8Q5fr) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Men Wara Albi](https://open.spotify.com/album/5iv1nz7NCOvTkVfbaIKkvQ) | 3:29 | 2022-01-20 | 2022-04-08 |
@@ -125,7 +126,7 @@
 | [Romansiya](https://open.spotify.com/track/6N9pppnJ6R4ctOAf2XRxg6) | [Jana Rouhana](https://open.spotify.com/artist/6AhEmp51A77u9mhS2NQfkn) | [Romansiya](https://open.spotify.com/album/2QVGKT995oqS7roo29KHza) | 3:14 | 2022-02-22 | 2022-06-03 |
 | [Saheb Elgmal](https://open.spotify.com/track/7mVS4YxLT7IT2Ao4K7iIEo) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [صاحب الجمال](https://open.spotify.com/album/2eHo5yU1pR9oRmAbS6Ql41) | 3:35 | 2021-12-23 | 2022-01-21 |
 | [Salam](https://open.spotify.com/track/3FqMnmjsk4KDSdDC279tUS) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [Salam](https://open.spotify.com/album/4GZe5xoQhego59080gUcqM) | 4:00 | 2021-12-23 | 2022-01-11 |
-| [Samah Samah](https://open.spotify.com/track/4F3lDfJCmn1WuZatqMgxiG) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 5:03 | 2022-02-17 |  |
+| [Samah Samah](https://open.spotify.com/track/4F3lDfJCmn1WuZatqMgxiG) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 5:03 | 2022-02-17 | 2022-06-06 |
 | [Sayrena Ya Donia](https://open.spotify.com/track/7o6OBdhiwn3RX9BOa5JjMc) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Sayrena Ya Donia](https://open.spotify.com/album/77ybZ6FgVwUJihzcZoCg3K) | 4:20 | 2022-01-26 | 2022-05-02 |
 | [Senara](https://open.spotify.com/track/0nYNOK8uum8GicinHF1jfw) | [Mousa](https://open.spotify.com/artist/474tE69oXkn2YGBJhK81Kh) | [Senara](https://open.spotify.com/album/5oaz2190CAIz2DLMOWt1ka) | 3:08 | 2022-01-20 | 2022-04-08 |
 | [Seneen](https://open.spotify.com/track/78aKU80XVAIVX9L0Xur3PC) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Seneen](https://open.spotify.com/album/762Ih6Q3P5rhDn99oSCEbe) | 3:23 | 2022-02-17 | 2022-05-19 |

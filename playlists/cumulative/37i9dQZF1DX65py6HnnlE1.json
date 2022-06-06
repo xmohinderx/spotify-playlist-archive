@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Directo Al Corazon",
+        "url": "https://open.spotify.com/album/6pxW8JeqkH4wo8JJqICWBh"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221080,
+      "name": "Bailando Con El",
+      "url": "https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO"
+    },
+    {
+      "album": {
         "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
       },
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 252173,
       "name": "Ceniza fria",
       "url": "https://open.spotify.com/track/1EQf1pDlHfgWgt7H9UXXRc"
@@ -149,7 +167,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 307933,
       "name": "Ciego De Amor - Featuring Anthony Santos",
       "url": "https://open.spotify.com/track/1IdSPagRNE4i6cr6I8QBYD"
@@ -167,7 +185,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 211453,
       "name": "Corazon Sin Cara",
       "url": "https://open.spotify.com/track/0u4N6w5lBw5xMrzJitRWUo"
@@ -395,7 +413,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 299885,
       "name": "D\u00f3nde Estar\u00e1",
       "url": "https://open.spotify.com/track/2t0QgKam1SfPNqQCfXx8ek"
@@ -705,7 +723,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 252557,
       "name": "Hoy Te Vi Pasar",
       "url": "https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566"
@@ -795,7 +813,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 260386,
       "name": "Llora Alma M\u00eda",
       "url": "https://open.spotify.com/track/05XwC0A5ZfyMJbwtO4yngG"
@@ -889,7 +907,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 344893,
       "name": "Me Voy De Ti",
       "url": "https://open.spotify.com/track/14GdMa2E0pU7TG0ShI69mO"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 245866,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/18tS6OYnEJfHWokX62T322"
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 246853,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/6Wxa8i0xhEqvbqqoxjSQwW"
@@ -1235,7 +1253,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 255026,
       "name": "Por un Segundo",
       "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
@@ -1397,7 +1415,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 256333,
       "name": "Se Fue Mi Amor Bonito",
       "url": "https://open.spotify.com/track/309M0MPexbrLYbGpqKstYa"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 174573,
       "name": "Shorty, Shorty",
       "url": "https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl"
@@ -1487,7 +1505,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 252466,
       "name": "Si Tu Cari\u00f1o No Esta",
       "url": "https://open.spotify.com/track/5xZPOd1s09Kr5VUXRwRKuI"
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 301920,
       "name": "Siento Que Te Quiero",
       "url": "https://open.spotify.com/track/14tdzjrC0rHExDaosbJlfJ"
@@ -1775,7 +1793,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 228624,
       "name": "Voy Pa Alla",
       "url": "https://open.spotify.com/track/5VC9MOMTd5SvjIEnHTHewV"

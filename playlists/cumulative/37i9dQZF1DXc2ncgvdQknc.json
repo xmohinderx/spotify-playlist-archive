@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 269209,
       "name": "A Safe Place to Land (feat. John Legend)",
       "url": "https://open.spotify.com/track/55fyE9Q754QhXpmcLtmmam"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 278746,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 227426,
       "name": "Die A Happy Man",
       "url": "https://open.spotify.com/track/6uTb5oNK9RkTjxmh73W7MG"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 224213,
       "name": "I Don't Think About You",
       "url": "https://open.spotify.com/track/0LV7IsFZF2rm2CI52uSWra"
@@ -597,6 +597,24 @@
       "duration_ms": 247160,
       "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
       "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
+    },
+    {
+      "album": {
+        "name": "Alive (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7duJuFUm0IlZW4ppyWSXu5"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238413,
+      "name": "I Miss Her",
+      "url": "https://open.spotify.com/track/44QA78rOl2Zx4NJFBlCDbO"
     },
     {
       "album": {
@@ -633,7 +651,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 281235,
       "name": "I'll Never Love Again - Film Version - Radio Edit",
       "url": "https://open.spotify.com/track/3DKpA54hrFIdPN6AtL9HXa"
@@ -807,7 +825,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 260533,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 276066,
       "name": "Lost Boy",
       "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 202360,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/1qcJdr8TYuGjFhjRoYNC3e"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 202360,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2ZHH9aoZjrqtFk1SX1dXy7"
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 275493,
       "name": "Move Together",
       "url": "https://open.spotify.com/track/0GDQXt7qRJIDDUmcufomrU"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 230266,
       "name": "Praying",
       "url": "https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA"
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 229400,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 194706,
       "name": "Tattooed Heart",
       "url": "https://open.spotify.com/track/5yxghrFKJbU7pcaUFEv1Sg"
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 224573,
       "name": "Try",
       "url": "https://open.spotify.com/track/6buXDkw3Gv4fQC1OZKUhnR"

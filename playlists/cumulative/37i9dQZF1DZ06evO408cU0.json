@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 166586,
       "name": "El Becerro - En Vivo",
       "url": "https://open.spotify.com/track/5afvrWUik1xfcvUrItN7Xm"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 354240,
       "name": "El Coyotito Medley - En Vivo/Medley",
       "url": "https://open.spotify.com/track/0dmv8pv7JhxIJtaukiBeGJ"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 176066,
       "name": "El Herradero - En Vivo Desde El Rancho",
       "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
@@ -643,6 +643,24 @@
       "duration_ms": 230440,
       "name": "Olvidarte, \u00bfC\u00f3mo?",
       "url": "https://open.spotify.com/track/483UWv27S4xr8fWZlQ5bnN"
+    },
+    {
+      "album": {
+        "name": "La Historia De Mis Manos",
+        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191640,
+      "name": "Por Si No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/1ZHeQ45MzbjfN2mz1l375g"
     },
     {
       "album": {

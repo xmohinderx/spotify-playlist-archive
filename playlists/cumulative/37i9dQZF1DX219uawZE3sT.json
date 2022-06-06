@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 215560,
       "name": "Abre Tu Corazon",
       "url": "https://open.spotify.com/track/5iTWIAADwgr8kY6TLK4Q7p"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 192533,
       "name": "Alcanzar Una Estrella",
       "url": "https://open.spotify.com/track/5h8h62vqFevND86N4OSYrA"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 207226,
       "name": "Amantes Prohibidos",
       "url": "https://open.spotify.com/track/21WYyyjovbDtf8Sa2DSdfZ"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 293573,
       "name": "El Rey Tibur\u00f3n",
       "url": "https://open.spotify.com/track/4i8JlTedcMA31X5CanXke0"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 212066,
       "name": "Esto Es Lo Que Soy",
       "url": "https://open.spotify.com/track/1CKuenidvmGFUuakoN67YZ"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 271000,
       "name": "La Fuerza Del Destino (with Marc Anthony)",
       "url": "https://open.spotify.com/track/28L9MeoW3DabVhjZYZjJ95"
@@ -1059,7 +1059,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 230440,
       "name": "Mundo De Caramelo",
       "url": "https://open.spotify.com/track/2VBGG7IiTHvfE3JfYlUyQk"
@@ -1139,6 +1139,24 @@
       "duration_ms": 221093,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/68dyhT3QFybWKDSRBDgKof"
+    },
+    {
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
     },
     {
       "album": {

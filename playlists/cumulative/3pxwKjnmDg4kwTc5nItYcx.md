@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Budjerah
 
-577 songs - 1 day 7 hr 8 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+578 songs - 1 day 7 hr 10 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Before](https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Before](https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY) | 3:54 | 2022-06-03 |  |
 | [Before It Started](https://open.spotify.com/track/5gWSR9TZ6txeyTzENxOq0O) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [Before It Started](https://open.spotify.com/album/2S05xv4jp1GyRdeCvcze8r) | 2:51 | 2022-05-06 |  |
 | [Best Friend](https://open.spotify.com/track/61KP2LeOc3xFonfrEezl13) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [2Sides \(Side 1\)](https://open.spotify.com/album/1RaqQTAjpuj7N5GEIA87OC) | 2:58 | 2019-11-08 | 2020-04-06 |
+| [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 | 2022-06-05 |  |
 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 | 2019-08-27\* | 2019-11-11 |
 | [Better in Blak](https://open.spotify.com/track/1yaXuPp5FJZgeNVKJdOpAP) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/7khLwE7EOmg5YBPTOvJPm4) | 3:12 | 2019-08-27\* | 2019-11-11 |
 | [Better Off \(feat\. Lucy Lucy\)](https://open.spotify.com/track/19WAbosxcUuVyb5bHDHAcl) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [Better Off \(feat\. Lucy Lucy\)](https://open.spotify.com/album/0J0Axo3oLE8dvGBK0tD9ZG) | 2:53 | 2021-10-02 |  |

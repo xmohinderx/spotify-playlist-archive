@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 161728,
       "name": "All I've Got is You",
       "url": "https://open.spotify.com/track/0DdDbFj0v5UlXC8j2CxJg6"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 221213,
       "name": "Creeper",
       "url": "https://open.spotify.com/track/3DI0Ko7hmK2uh8INSXFnkb"
@@ -434,6 +434,24 @@
     },
     {
       "album": {
+        "name": "Higher Power",
+        "url": "https://open.spotify.com/album/1IUvobngXGOyJ4BdtlYILD"
+      },
+      "artists": [
+        {
+          "name": "Cody Jasper",
+          "url": "https://open.spotify.com/artist/5TUeTFpidqbyGqXeOj5I1H"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254133,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/0u70IdyL5XsnryWI99Haqr"
+    },
+    {
+      "album": {
         "name": "Holy Ghost Fire",
         "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
       },
@@ -449,6 +467,24 @@
       "duration_ms": 202917,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
+    },
+    {
+      "album": {
+        "name": "Hounds Loose",
+        "url": "https://open.spotify.com/album/3QmIoMDXgmOIMj9oCPnjlO"
+      },
+      "artists": [
+        {
+          "name": "Dan Patlansky",
+          "url": "https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224266,
+      "name": "Hounds Loose",
+      "url": "https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9"
     },
     {
       "album": {
@@ -575,7 +611,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 193986,
       "name": "Light Of The Moon",
       "url": "https://open.spotify.com/track/2TpeHwzSGTdy3WSqEzmLwd"
@@ -683,7 +719,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 288256,
       "name": "Muddy Water",
       "url": "https://open.spotify.com/track/7u4iSaTwibK4RlptP5mdnY"
@@ -755,7 +791,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 208909,
       "name": "Off the Shelf",
       "url": "https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN"
@@ -989,7 +1025,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 203224,
       "name": "Skin 'n Bone",
       "url": "https://open.spotify.com/track/6natqkD9pmwdr8Xr1VFliA"
@@ -1073,7 +1109,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 217124,
       "name": "Still Alive and Well",
       "url": "https://open.spotify.com/track/72sihXI4EcZjbbnoo2yyHQ"
@@ -1181,7 +1217,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon"
@@ -1217,7 +1253,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 196843,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
@@ -1235,7 +1271,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 260286,
       "name": "The Fighter",
       "url": "https://open.spotify.com/track/6P4peUgiAimtvhWWxLlDg3"
@@ -1289,7 +1325,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 328093,
       "name": "The Waltz",
       "url": "https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4"
@@ -1383,7 +1419,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 215906,
       "name": "Waiting For Your Man",
       "url": "https://open.spotify.com/track/1WYzyPQIEAGd8pZU6RlGdK"

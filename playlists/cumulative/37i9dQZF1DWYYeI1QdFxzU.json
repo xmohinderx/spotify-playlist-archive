@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 210682,
       "name": "1990 - Edit",
       "url": "https://open.spotify.com/track/2tRnuEZU70qgyrmAEtzPx0"
@@ -77,6 +77,24 @@
       "duration_ms": 203270,
       "name": "Adrift",
       "url": "https://open.spotify.com/track/5yB7BgBbemoIBpfDSWtcBc"
+    },
+    {
+      "album": {
+        "name": "All Armed",
+        "url": "https://open.spotify.com/album/6flex5uD7IKBXiNDNvUWwA"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 699397,
+      "name": "All Armed",
+      "url": "https://open.spotify.com/track/0ah4k1jXcRFprzr9MhLrI2"
     },
     {
       "album": {
@@ -623,7 +641,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 314833,
       "name": "Joyfulness - Elkka Remix",
       "url": "https://open.spotify.com/track/5fNtRyUHsHo3MxOJjLbUZy"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 303706,
       "name": "Meo - Jacques Greene Remix",
       "url": "https://open.spotify.com/track/4xoQ8jM9JvjWNNC6bk3VZC"
@@ -1083,10 +1101,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 225506,
       "name": "Soft Yellow",
       "url": "https://open.spotify.com/track/7hwZbuE6lr35OLMqATaAUw"
+    },
+    {
+      "album": {
+        "name": "Spiracles",
+        "url": "https://open.spotify.com/album/7apU0CMwcNfZ0i5HiJAT43"
+      },
+      "artists": [
+        {
+          "name": "COMA",
+          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285572,
+      "name": "Spiracles",
+      "url": "https://open.spotify.com/track/2rOEnrtPIhfmNqqiSXXypK"
     },
     {
       "album": {
@@ -1235,7 +1271,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 163500,
       "name": "Wash",
       "url": "https://open.spotify.com/track/3J8t0fiePfXwQhgOGU3wtA"
@@ -1293,7 +1329,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 243946,
       "name": "You and I",
       "url": "https://open.spotify.com/track/5IBdGT5kl3wNblGeCpVYrH"

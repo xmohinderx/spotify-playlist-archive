@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 164536,
       "name": "Aftoktonia",
       "url": "https://open.spotify.com/track/7IokpTW54OgzPu6Q3fkVHn"
@@ -9819,7 +9819,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 190774,
       "name": "Mono Esy Kai Ego - (Part 2 - Fos)",
       "url": "https://open.spotify.com/track/6erUTCZRR941FL6D01QtPu"
@@ -10411,7 +10411,7 @@
       ],
       "date_added": "2021-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 196271,
       "name": "NASA",
       "url": "https://open.spotify.com/track/0hVl1Eb02SNnTHSgrlhBm7"
@@ -13490,6 +13490,24 @@
     },
     {
       "album": {
+        "name": "YENNA",
+        "url": "https://open.spotify.com/album/0rO6uiPCtDL4m6CMS0Y4X9"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182606,
+      "name": "SPIRTO KE VENZINI",
+      "url": "https://open.spotify.com/track/2CVq7d4qmSXAEBOiTrfUF5"
+    },
+    {
+      "album": {
         "name": "Sport Billy",
         "url": "https://open.spotify.com/album/232sfkEh50rws6LORPORne"
       },
@@ -13575,7 +13593,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 268000,
       "name": "Standby",
       "url": "https://open.spotify.com/track/6Tupow7GT1XnVSOUUnG8Gd"
@@ -16051,7 +16069,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 176598,
       "name": "Xereis I Eleni",
       "url": "https://open.spotify.com/track/0Ywo7XSIm3MrKssLIenprW"

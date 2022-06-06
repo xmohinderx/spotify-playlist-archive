@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 162982,
       "name": "2 TIRI (feat. tha Supreme)",
       "url": "https://open.spotify.com/track/3TwMhXQ6O1KGPfiYV5mxGN"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 220235,
       "name": "AIRFORCE (feat. Madame)",
       "url": "https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 186853,
       "name": "ALTALENE (feat. Mara Sattei & Coez)",
       "url": "https://open.spotify.com/track/2zqxUV6h5y6Y9WhyH0FVvX"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 194266,
       "name": "Attentat",
       "url": "https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 150967,
       "name": "Capo",
       "url": "https://open.spotify.com/track/7A9lnmpkWR2tPkcPWGbMqo"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 199680,
       "name": "Capri Sun",
       "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 201931,
       "name": "Chico (feat. Rose Villain & Luch\u00e8)",
       "url": "https://open.spotify.com/track/3Xhl7OqWAFgVxQKrWhyVVO"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 192688,
       "name": "CRAZY LOVE",
       "url": "https://open.spotify.com/track/3HYK8FMGNQu1Whl8DdtsRC"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 190666,
       "name": "Demonio (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6jawrhd9Ad5td8mIvEZkjm"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 216386,
       "name": "Dior",
       "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 160457,
       "name": "Eclissi (feat. Neffa)",
       "url": "https://open.spotify.com/track/1lV5bvVyZdeWuetLyX9BLH"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 243776,
       "name": "Eurovision (feat. Rondodasosa, Baby Gang, A2 Anti, Morad, Beny Jr, Ashe 22 & Freeze corleone)",
       "url": "https://open.spotify.com/track/4f5TKGvkD4TkTjr61GKNAG"
@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 190476,
       "name": "For The Night (feat. Lil Baby & DaBaby)",
       "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 183526,
       "name": "Gelosi",
       "url": "https://open.spotify.com/track/3yWJjpK6maOcqfO8bmPIzy"
@@ -1089,6 +1089,24 @@
       "duration_ms": 243836,
       "name": "goosebumps",
       "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
+    },
+    {
+      "album": {
+        "name": "Goyard",
+        "url": "https://open.spotify.com/album/0CuTFVpBoXLYDy1Rvaa0JA"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164087,
+      "name": "Goyard",
+      "url": "https://open.spotify.com/track/3e9L7P1Cu91OWiak39QUkH"
     },
     {
       "album": {
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 154997,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 129625,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/20XT7TO32dN1s9xtowLPuR"
@@ -1635,7 +1653,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 132832,
       "name": "Martin & Gina",
       "url": "https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ"
@@ -2023,7 +2041,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 216827,
       "name": "Pelele",
       "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
@@ -2071,7 +2089,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 207761,
       "name": "polka 2 :-/",
       "url": "https://open.spotify.com/track/3nSIfipKhCaeo2Iu2YRi3H"
@@ -2129,7 +2147,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 190344,
       "name": "REPEAT IT (with Gunna)",
       "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
@@ -2197,7 +2215,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 209565,
       "name": "SEVEN 7oo (feat. Rondodasosa, Sacky, Vale Pain, Neima Ezza, Kilimoney, Keta, Nko)",
       "url": "https://open.spotify.com/track/2KYLg9El0wzvX4S13CDoZf"
@@ -2263,7 +2281,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 208233,
       "name": "SLIME (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/13Iu4OXlnP5vUQ0rgXR6e3"
@@ -2289,7 +2307,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 130434,
       "name": "Smith & Wesson Freestyle (feat. Marracash)",
       "url": "https://open.spotify.com/track/596fQREtpVHWRl3xCmVhEM"
@@ -2469,7 +2487,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 184968,
       "name": "Te lo prometto",
       "url": "https://open.spotify.com/track/72aqCNAdOo6H4nrPyAivSV"
@@ -2555,7 +2573,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 176000,
       "name": "Ti Levo Le Collane (feat. Paky)",
       "url": "https://open.spotify.com/track/48NEryJWd2W3T6V6yKHzz6"
@@ -2603,7 +2621,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
@@ -2625,7 +2643,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 206493,
       "name": "TOPBOY (feat. Noyz Narcos)",
       "url": "https://open.spotify.com/track/0FvfjiQZ5vEO4XLGX5Uubk"

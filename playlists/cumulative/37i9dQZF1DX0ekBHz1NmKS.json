@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 169697,
       "name": "30 personer",
       "url": "https://open.spotify.com/track/5w12yvSOPnFE3uD7IKN2ug"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 177713,
       "name": "94an",
       "url": "https://open.spotify.com/track/4E0SqGrKjIqlgzTEZU0Zbw"
@@ -574,6 +574,24 @@
     },
     {
       "album": {
+        "name": "Jag forts\u00e4tter gl\u00f6mma",
+        "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
+      },
+      "artists": [
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233413,
+      "name": "Barn av v\u00e5r tid",
+      "url": "https://open.spotify.com/track/76xREBiIGi4YK4S3KGFpdG"
+    },
+    {
+      "album": {
         "name": "Barnasinnet (2022)",
         "url": "https://open.spotify.com/album/3RadEdS8IIlHlE1aEHVPIZ"
       },
@@ -657,7 +675,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 151210,
       "name": "Bergs slussar",
       "url": "https://open.spotify.com/track/41hvvom2OTDhkJXm66bWuj"
@@ -1069,7 +1087,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 156355,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/6oYf0YzUrchNMmrWQKm3pT"
@@ -1949,7 +1967,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 161641,
       "name": "D\u00d6 F\u00d6R",
       "url": "https://open.spotify.com/track/35eTqDv5rQDQmBWePtbVf3"
@@ -2213,7 +2231,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 158961,
       "name": "Fast med dig",
       "url": "https://open.spotify.com/track/2KIzBv4vFeLtO50WBbHGKk"
@@ -2267,7 +2285,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 214293,
       "name": "Fire Burns You Cold",
       "url": "https://open.spotify.com/track/25ffJRgALd9ZCr22nHl8OJ"
@@ -2393,7 +2411,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 134006,
       "name": "Friends, Right?",
       "url": "https://open.spotify.com/track/7Hxdp3Pdo8EgE7Qq1sCsHE"
@@ -3003,7 +3021,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 195173,
       "name": "Helan g\u00e5r",
       "url": "https://open.spotify.com/track/3VJHbBZSvktGfRIAW2aXch"
@@ -3187,7 +3205,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 221730,
       "name": "Hollow Woods",
       "url": "https://open.spotify.com/track/2ate2zkgChme3nCh6AhtNS"
@@ -3997,7 +4015,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 158452,
       "name": "Knallpulver",
       "url": "https://open.spotify.com/track/4KFTbuGudoMnSKwFlK4yrO"
@@ -4695,7 +4713,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 168798,
       "name": "MANO",
       "url": "https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh"
@@ -4987,7 +5005,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 196000,
       "name": "Naked Love",
       "url": "https://open.spotify.com/track/0tBKRyjgUWvU7zNjYqnoDz"
@@ -5045,6 +5063,24 @@
       "duration_ms": 152736,
       "name": "Nightwalker",
       "url": "https://open.spotify.com/track/7eSoFXUfgb7QKPGcAHQ5IH"
+    },
+    {
+      "album": {
+        "name": "Nine Minutes",
+        "url": "https://open.spotify.com/album/6IXocBzWyc3zqMBX63rOlQ"
+      },
+      "artists": [
+        {
+          "name": "Clara Malby",
+          "url": "https://open.spotify.com/artist/5xeHlqLDzUkefkg2hqGiRH"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188030,
+      "name": "Nine Minutes",
+      "url": "https://open.spotify.com/track/6LtAO6yClMpD5rDpKl6D0p"
     },
     {
       "album": {
@@ -5135,7 +5171,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 202972,
       "name": "Notre-Dame",
       "url": "https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2"
@@ -5229,7 +5265,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 157124,
       "name": "N\u00e4r vinden bl\u00e5ser kallt",
       "url": "https://open.spotify.com/track/6YWDey7OfpF1UE6FD9aywI"
@@ -5349,7 +5385,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 221831,
       "name": "Old Bad Habit",
       "url": "https://open.spotify.com/track/5T3vJQMbv9q3NTdhJGzjdL"
@@ -5725,7 +5761,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 232682,
       "name": "Pyramids",
       "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
@@ -6125,7 +6161,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 188541,
       "name": "SAKNAR ORD",
       "url": "https://open.spotify.com/track/6qtoQiHn7V6F54s90dcSzL"
@@ -6237,7 +6273,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 203039,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/29jS36CANsKdfrlYzwbbJL"
@@ -6655,7 +6691,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 242260,
       "name": "Solnedg\u00e5ngar",
       "url": "https://open.spotify.com/track/6Wl89b1QP2VujIZQvlbz9F"
@@ -6995,7 +7031,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 185120,
       "name": "sugar",
       "url": "https://open.spotify.com/track/2d6CmdLPd1rOi7zdQK6kBg"
@@ -7071,7 +7107,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 159966,
       "name": "Superhero ideal (Pantamera)",
       "url": "https://open.spotify.com/track/2wxY4U8FtNGHE6fAq6ZY3c"
@@ -7089,7 +7125,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 201201,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek"
@@ -7183,7 +7219,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 178223,
       "name": "Synd om dig",
       "url": "https://open.spotify.com/track/0CbWynA3BNPIwapjEdqXu5"
@@ -7219,7 +7255,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 208608,
       "name": "S\u00e4g vad du vill",
       "url": "https://open.spotify.com/track/6YpOcenS6bCTx7JG1OBY7X"
@@ -7327,7 +7363,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 190693,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/02688X3Oo6uDQptLZDiqqp"
@@ -7363,7 +7399,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 185458,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/7MYNQvmkh1tbXKKoZ20XG7"
@@ -7529,7 +7565,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 236624,
       "name": "The Voice Within",
       "url": "https://open.spotify.com/track/1VmGd9Gw2sKXCT27x5IvwJ"
@@ -7837,7 +7873,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 152678,
       "name": "Used To",
       "url": "https://open.spotify.com/track/70QyATpmT1mt7JMeDzrInv"
@@ -7953,7 +7989,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 201480,
       "name": "Vart Jag Varit (Je Viens De Rien) [feat. Maxida M\u00e4rak]",
       "url": "https://open.spotify.com/track/5KuZCxniWptnXpmxR3asrA"
@@ -8007,7 +8043,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 183483,
       "name": "VERTIGO",
       "url": "https://open.spotify.com/track/4V82PgRDvzQwppU72Aapel"
@@ -8661,7 +8697,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 204880,
       "name": "Yours",
       "url": "https://open.spotify.com/track/1Ibc9R9cQTESTZjGorWtRT"

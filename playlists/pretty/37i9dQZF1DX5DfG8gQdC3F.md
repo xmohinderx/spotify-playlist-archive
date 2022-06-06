@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,933 likes - 101 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,945 likes - 101 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 46 | [Vraiment](https://open.spotify.com/track/7J3cONRfk18KhNX08k8Ydk) | [Olivier Dion](https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em) | [Vraiment](https://open.spotify.com/album/6H4NS2GCkvTMRQNUdtj8bY) | 2:47 |
 | 47 | [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 |
 | 48 | [Diamonds \(feat\. Aleyna Tilki\)](https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Diamonds \(feat\. Aleyna Tilki\)](https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o) | 2:48 |
-| 49 | [Late Nights](https://open.spotify.com/track/6ZY3K8L95DXqisyFTxTqjN) | [Te Pai](https://open.spotify.com/artist/1MGdLAHg2Wq4mSE6OEqXqg), [Oleyada](https://open.spotify.com/artist/0QBfpW13sJhHqEITjHB0lC), [Axtrom](https://open.spotify.com/artist/01KwNpa5jLeGOWkAXrQJ4Q) | [Late Nights](https://open.spotify.com/album/2lX6oMCQOVSPi1TXEsntue) | 2:45 |
+| 49 | [Late Nights](https://open.spotify.com/track/6ZY3K8L95DXqisyFTxTqjN) | [Te Pai](https://open.spotify.com/artist/1MGdLAHg2Wq4mSE6OEqXqg), [Oleyada](https://open.spotify.com/artist/0QBfpW13sJhHqEITjHB0lC), [AXTROM](https://open.spotify.com/artist/7ldSGe7LBux7huR0GOKg8w) | [Late Nights](https://open.spotify.com/album/2lX6oMCQOVSPi1TXEsntue) | 2:45 |
 | 50 | [Alpha Zulu](https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV) | 2:50 |
 | 51 | [Get Down](https://open.spotify.com/track/3pNDrxaAjBV0ODWKFEtZ9J) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Get Down](https://open.spotify.com/album/3uf3OLzDT97Vtz2eD3GHTp) | 3:02 |
 | 52 | [life waster](https://open.spotify.com/track/6TCKkbyGVo5uvTEfJvkcE3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [life waster](https://open.spotify.com/album/3v3XnEkDxBDcRQhXy02e2Q) | 2:21 |

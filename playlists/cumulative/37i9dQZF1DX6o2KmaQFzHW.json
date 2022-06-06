@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "A Fin de Cuentas (En Vivo)",
+        "url": "https://open.spotify.com/album/3buGJYfhuXJo2SIeAs2aGu"
+      },
+      "artists": [
+        {
+          "name": "Facundo Saravia",
+          "url": "https://open.spotify.com/artist/7c8SVvHiXiEY6f3H7M6BcW"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175080,
+      "name": "A Fin de Cuentas (En Vivo)",
+      "url": "https://open.spotify.com/track/3O21zW7GYNId7st8FeWYT5"
+    },
+    {
+      "album": {
         "name": "A Tucum\u00e1n - La Tucumanita y Zamba del regreso",
         "url": "https://open.spotify.com/album/4XWdckYf2UFETP6vmcJLGA"
       },
@@ -173,7 +191,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 279413,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/7aQUylpLZdnsSBDNFPXPyY"
@@ -195,7 +213,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 156866,
       "name": "Alma Guaran\u00ed",
       "url": "https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT"
@@ -249,7 +267,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 254397,
       "name": "Angelitos Negros",
       "url": "https://open.spotify.com/track/1Qat6Mf8sXwGwtu40wdzrt"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 218600,
       "name": "Bajo la Sombra de un \u00c1rbol",
       "url": "https://open.spotify.com/track/0XIwh9vtNbnXEhmRMcfMGa"
@@ -361,7 +379,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 255680,
       "name": "Balderrama",
       "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
@@ -515,7 +533,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 216733,
       "name": "Canci\u00f3n para una Mentira",
       "url": "https://open.spotify.com/track/3OeSLQkkbUF5hfDHrmFThs"
@@ -569,7 +587,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 178186,
       "name": "Candombe para Jose",
       "url": "https://open.spotify.com/track/5DWCoojpitiZmqvmfbIMVl"
@@ -627,7 +645,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 202053,
       "name": "Canto Nochero",
       "url": "https://open.spotify.com/track/0omW2uqEb73K7uvzNFzRDm"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 128893,
       "name": "Chacarera del Olvido",
       "url": "https://open.spotify.com/track/3umAXc7lFcIw9YdfWJjNBH"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 182200,
       "name": "Criollita Santiague\u00f1a",
       "url": "https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 228666,
       "name": "Cuando Me Abandone el Alma",
       "url": "https://open.spotify.com/track/7bDlnoDZMnOZeS9caKawpd"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 178693,
       "name": "Cuando Ya Nadie Te Nombre",
       "url": "https://open.spotify.com/track/7ryu06ohNTICM1Txt5JRXs"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 214893,
       "name": "De Alberdi - Zamba",
       "url": "https://open.spotify.com/track/0TY0g0YvayB5r6mJ3nUT9U"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 364226,
       "name": "Dios a la Una",
       "url": "https://open.spotify.com/track/4yioHSOUbNFggQSlFCg6HE"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 229264,
       "name": "El Alazan",
       "url": "https://open.spotify.com/track/6BUxDhJHSAZsLdqsMb51WQ"
@@ -1175,7 +1193,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 210400,
       "name": "El Arriero",
       "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 163004,
       "name": "El Que Toca Nunca Baila",
       "url": "https://open.spotify.com/track/0AKvW2NHJ2B5QaRlm45tap"
@@ -1373,7 +1391,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 207826,
       "name": "El Seclante\u00f1o",
       "url": "https://open.spotify.com/track/5KG1MI9BG8xzk2kQqR4cmJ"
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 179722,
       "name": "Entre A Mi Pago Sin Golpear",
       "url": "https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 164127,
       "name": "Gato de mate",
       "url": "https://open.spotify.com/track/5hVBYheKoBQfGIzMIhQk61"
@@ -1571,7 +1589,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 196773,
       "name": "Guitarra de Medianoche",
       "url": "https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt"
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 231400,
       "name": "La atardecida",
       "url": "https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O"
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 130106,
       "name": "La Chicharra Cantora",
       "url": "https://open.spotify.com/track/3wlP4yvynVOq292A1C7jq1"
@@ -1737,7 +1755,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 188400,
       "name": "La Enga\u00f1era",
       "url": "https://open.spotify.com/track/4CW7J5XQGm24KMXD6euxfM"
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 244794,
       "name": "La L\u00f3pez Pereira",
       "url": "https://open.spotify.com/track/2DeqxMwUvnrzmSznRnCICh"
@@ -1975,7 +1993,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 145453,
       "name": "La Telesita",
       "url": "https://open.spotify.com/track/12trwJSceWl2bec01AHu4T"
@@ -2239,7 +2257,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 214493,
       "name": "Luna Tucumana - Remastered 2003",
       "url": "https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC"
@@ -2257,7 +2275,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 192480,
       "name": "L\u00f3pez Pereyra",
       "url": "https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf"
@@ -2293,7 +2311,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 195266,
       "name": "Mama Vieja",
       "url": "https://open.spotify.com/track/7GxW2uJnZEkDeDiO74hanI"
@@ -2383,7 +2401,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 206853,
       "name": "Para Cantar He Nacido",
       "url": "https://open.spotify.com/track/447ORDEfYxu77edFodcfr6"
@@ -2507,7 +2525,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 213733,
       "name": "Purmamarca",
       "url": "https://open.spotify.com/track/1x7hWGwMKKLGTxPueCbuPV"
@@ -2579,7 +2597,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 161773,
       "name": "Recuerdo Salte\u00f1o",
       "url": "https://open.spotify.com/track/3esSMzPYxYBnW6ARIgr4Oo"
@@ -2775,7 +2793,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 233275,
       "name": "Sol Nocturno",
       "url": "https://open.spotify.com/track/4t38rSXR39gjVi5E7NwoLR"
@@ -2891,7 +2909,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 279933,
       "name": "S\u00f3lo Le Pido A Dios",
       "url": "https://open.spotify.com/track/6R6xjvqFWRPoSf6fu5Bh6G"
@@ -3015,7 +3033,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 236813,
       "name": "Viejo Pescador del Paran\u00e1 (with Teresa Parodi & Chango Spasiuk)",
       "url": "https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6"
@@ -3073,7 +3091,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 147786,
       "name": "Volver\u00e9 a Salavina",
       "url": "https://open.spotify.com/track/78fIapn9oUUBk1B2wCdBJd"
@@ -3131,7 +3149,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 220133,
       "name": "Y Va Pasando la Vida",
       "url": "https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0"
@@ -3185,7 +3203,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 231733,
       "name": "Zamba de Abril",
       "url": "https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH"
@@ -3261,7 +3279,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 183600,
       "name": "Zamba Del Negro Alegre",
       "url": "https://open.spotify.com/track/7surOH29RMSvRAdInzGhLU"
@@ -3279,7 +3297,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 230906,
       "name": "Zamba Del Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/2zFqghbK2LNyZrINn1gLhk"
@@ -3297,7 +3315,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 213440,
       "name": "Zamba para Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: Andrew Bird
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,162 likes - 115 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,240 likes - 115 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

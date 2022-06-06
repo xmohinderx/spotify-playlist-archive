@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 289040,
       "name": "Between the Hammer & the Anvil",
       "url": "https://open.spotify.com/track/3DfE7Ysl7H40yDbGFSuzPU"
@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274866,
+      "name": "Desert Plains",
+      "url": "https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV"
+    },
+    {
+      "album": {
         "name": "Sin After Sin",
         "url": "https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv"
       },
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 203533,
       "name": "Diamonds and Rust",
       "url": "https://open.spotify.com/track/2Z17Q91PB11tzkDh0QQtd6"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 215560,
       "name": "Eat Me Alive",
       "url": "https://open.spotify.com/track/4dB5JlDpDT4WLUvX5xIXON"
@@ -307,7 +325,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 263040,
       "name": "Evil Never Dies",
       "url": "https://open.spotify.com/track/1I4bh7GClCeUW4uORsZhTs"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 264360,
       "name": "Freewheel Burning",
       "url": "https://open.spotify.com/track/6aQBzaeOIajIPGAMzqa23J"
@@ -433,7 +451,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 160866,
       "name": "Hell Bent for Leather",
       "url": "https://open.spotify.com/track/0SEd8AUWG3j4YFsFEVmGjW"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 206333,
       "name": "Jawbreaker",
       "url": "https://open.spotify.com/track/3T1k6b4zMzA2bW8klvKCcX"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 214933,
       "name": "Leather Rebel",
       "url": "https://open.spotify.com/track/7jKqBoo7SCSQnYd8xRW6AV"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 323266,
       "name": "Rising From Ruins",
       "url": "https://open.spotify.com/track/1f2qbSrsGznurodPtpfjV2"

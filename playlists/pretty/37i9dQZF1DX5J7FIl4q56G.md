@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Blind Guardian
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,268 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,311 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 10 | [Thick As Blood](https://open.spotify.com/track/1ALVr49q6IjFtzMajHvaU9) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Price Of Dreaming](https://open.spotify.com/album/7y1KzLYE9ws4vN3vP6OZh4) | 4:40 |
 | 11 | [Final Light](https://open.spotify.com/track/41eoOsgYEVndbRd9msk3qd) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8), [Johannes Persson](https://open.spotify.com/artist/3xV1nzks756iynRSEAN2ux), [Final Light](https://open.spotify.com/artist/4Uiua0tWypGcttzUkddFMH) | [Final Light](https://open.spotify.com/album/3VuPP5jCAcuZh0PWIVVeZm) | 8:33 |
 | 12 | [What Is War](https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [What Is War](https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9) | 3:59 |
-| 13 | [Under Attack](https://open.spotify.com/track/1DnGvoDr1k8BNiMKBPoH2d) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [Universal](https://open.spotify.com/album/03iscjjvHoP6JWfTjUoPAj) | 4:37 |
+| 13 | [Under Attack \(feat\. Ronnie Romero\)](https://open.spotify.com/track/1DnGvoDr1k8BNiMKBPoH2d) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi), [Ronnie Romero](https://open.spotify.com/artist/5uURCTdE7ztucOBpi5PmY2) | [Universal](https://open.spotify.com/album/03iscjjvHoP6JWfTjUoPAj) | 4:37 |
 | 14 | [Reborn](https://open.spotify.com/track/2rrA5aGSHeye6rrLwOALyL) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [Reborn](https://open.spotify.com/album/0zh2lUNCj933FBJ4xJwk8J) | 5:13 |
 | 15 | [Porcelain](https://open.spotify.com/track/2S4sNFFyqPZohLgygtNM8T) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Porcelain](https://open.spotify.com/album/2XRu29TAf9vGLubqsg2aIb) | 8:09 |
 | 16 | [Virtus Asinaria \- Prayer](https://open.spotify.com/track/6xzzWEFp3AWVkZLXx9HKDh) | [Belphegor](https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM) | [Virtus Asinaria \- Prayer](https://open.spotify.com/album/1JmXAptKVqcQm4BrqsQcQZ) | 5:18 |

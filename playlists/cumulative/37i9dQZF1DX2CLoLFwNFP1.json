@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 219053,
       "name": "All Day (Flex)",
       "url": "https://open.spotify.com/track/0iNXcid1Ro7OLe4L6fFfLG"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 212613,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/6rcVWyTpx3BfTLEnvZcpPG"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 154573,
       "name": "Call You Bae",
       "url": "https://open.spotify.com/track/0pdKEjHWRpjnRD6jV9ztNf"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 220717,
       "name": "ENGINE",
       "url": "https://open.spotify.com/track/7m0AVCxRcpR8Q5j1tUICVT"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 133266,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/5CDkXFsN0t2RloFhVqZJ3k"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 256047,
       "name": "Finish Line (feat. SUPERBEE & Jvcki Wai)",
       "url": "https://open.spotify.com/track/40rRulLNB13Pwq1Br6pH6u"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 187200,
       "name": "Forget About Tomorrow",
       "url": "https://open.spotify.com/track/7yeEBr76JleM2dmp8gptXZ"
@@ -1475,7 +1475,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 226156,
       "name": "I Got This",
       "url": "https://open.spotify.com/track/2sEdXujgc14Ievi5PYtnwG"
@@ -1623,7 +1623,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 211426,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/0hJjJg3JBczHIVNpyJxa28"
@@ -1823,7 +1823,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 268066,
       "name": "Million",
       "url": "https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq"
@@ -2145,7 +2145,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 162440,
       "name": "Renaissance Man",
       "url": "https://open.spotify.com/track/66xP1tdDlyiJxSP3SffC5k"
@@ -2196,6 +2196,24 @@
     },
     {
       "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/4k4OS1SotBwPAD9LeCPgaH"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165543,
+      "name": "Seattle 2 Seoul",
+      "url": "https://open.spotify.com/track/2MWcTQ9Y6ICVjRQnQkysVy"
+    },
+    {
+      "album": {
         "name": "\ubab8\ub9e4 Mommae",
         "url": "https://open.spotify.com/album/6aKXNMIx0aGjV21fiPyom7"
       },
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 226278,
       "name": "Sex Trip",
       "url": "https://open.spotify.com/track/3DnTUScRmTqeNkkgBW6kpA"
@@ -2277,7 +2295,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 160000,
       "name": "SHOWDOWN (Feat. lIlBOI)",
       "url": "https://open.spotify.com/track/3lH41KJxd4mFvTNzndIrNU"
@@ -2377,6 +2395,28 @@
       "duration_ms": 148640,
       "name": "Son Malas",
       "url": "https://open.spotify.com/track/1nBA795YhyTO5992WmhEzW"
+    },
+    {
+      "album": {
+        "name": "The Road Less Traveled",
+        "url": "https://open.spotify.com/album/7uIX1VIj6lQTjYuWfjCQ59"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Ted Park",
+          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Stutter",
+      "url": "https://open.spotify.com/track/18rhghl3pUhKKGAHmU9Vzv"
     },
     {
       "album": {
@@ -2659,7 +2699,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 237440,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/1irf5BD6Hz57O8cuDARLbn"
@@ -2959,7 +2999,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 255360,
       "name": "What up!",
       "url": "https://open.spotify.com/track/4vcauRiAj4RswgYZ7ebIvL"
@@ -3239,7 +3279,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 244153,
       "name": "\ubed4\ud558\uc796\uc544 You Know (feat. Okasian)",
       "url": "https://open.spotify.com/track/0YJjugu2dbpcxY3ChD6AkK"
@@ -3257,7 +3297,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 236919,
       "name": "\uc0ac\uc2e4\uc740 The Truth Is",
       "url": "https://open.spotify.com/track/12WXS7SwLIRXJEbi3gFy1E"
@@ -3275,7 +3315,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 201776,
       "name": "\uc57d\uc18d\ud574 The Promise",
       "url": "https://open.spotify.com/track/3PrcKr7ICzqowzpolLUjRF"

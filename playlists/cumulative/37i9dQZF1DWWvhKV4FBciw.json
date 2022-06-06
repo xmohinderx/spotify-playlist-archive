@@ -153,7 +153,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 160466,
       "name": "Baby Please Don't Go",
       "url": "https://open.spotify.com/track/6ukrO2umOpIDKLOWkJAG4h"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 188973,
       "name": "Everything I Do Gohn Be Funky (From Now On)",
       "url": "https://open.spotify.com/track/4VTf5dPyBntcYFwW9b3fto"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 144320,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/4la9jiqXYHQlEwbRhqYsd7"
@@ -956,6 +956,24 @@
     },
     {
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "date_added": "2020-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344546,
+      "name": "Keep the Fire Burning",
+      "url": "https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c"
+    },
+    {
+      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 207066,
       "name": "Let's Wade In The Water",
       "url": "https://open.spotify.com/track/43PvU1RM6B0EKkZGf7rBLi"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 142186,
       "name": "Respect - 2003 Remaster",
       "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
@@ -1381,7 +1399,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 167426,
       "name": "Something's Got A Hold On Me",
       "url": "https://open.spotify.com/track/5QC07jdKdQrH1cW7Ag3OJ2"
@@ -1637,7 +1655,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 194866,
       "name": "The Boss",
       "url": "https://open.spotify.com/track/4Lv1bzAvoAeroCGiUUGZ9w"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 280160,
       "name": "Theme From Shaft",
       "url": "https://open.spotify.com/track/1VLLADzAWGr1IoeMPDLNDL"
@@ -1727,7 +1745,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 194920,
       "name": "Time Is Tight",
       "url": "https://open.spotify.com/track/2Bfk3vFoMmbAUqpJbA3N06"

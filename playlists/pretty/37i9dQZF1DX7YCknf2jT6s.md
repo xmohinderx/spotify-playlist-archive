@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Kiefer
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,347 likes - 84 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,517 likes - 84 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Why Not?](https://open.spotify.com/track/0mhDVzQgnwtrY1JnDqz7KQ) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Pera Krstajic](https://open.spotify.com/artist/3kNkllh7QAhy7282M8f1mW) | [Why Not? / Montara](https://open.spotify.com/album/7DKRJTdgGHoTedH7F9z50G) | 5:30 |
-| 2 | [Juneteenth](https://open.spotify.com/track/0A5bqGbPxnzT5A6Ytzn22l) | [Katalyst](https://open.spotify.com/artist/5yAyZa2e9KTHLsxSOMDmrC), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Juneteenth](https://open.spotify.com/album/3MlKaVcAPRY4dnKZ0oRcyy) | 4:06 |
+| 2 | [Juneteenth](https://open.spotify.com/track/0A5bqGbPxnzT5A6Ytzn22l) | [Katalyst](https://open.spotify.com/artist/4B0nwBQwFMfwa3esy6E3qM), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Juneteenth](https://open.spotify.com/album/3MlKaVcAPRY4dnKZ0oRcyy) | 4:06 |
 | 3 | [おだやかに](https://open.spotify.com/track/2k9Q8xPZqPedHecwjOob6S) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [おだやかに](https://open.spotify.com/album/1T0SNc2d2rs2G5orX4X3Ed) | 5:19 |
 | 4 | [Mama](https://open.spotify.com/track/32EOILWXWu3WGo56PmM9UG) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Omagugu](https://open.spotify.com/artist/3fOgc0hcEUZjOuhvGEise4) | [In The Spirit Of Ntu](https://open.spotify.com/album/3UnSb3V4gzrt2ofjYfsLDl) | 7:01 |
 | 5 | [The Last Song \(feat\. Eric Harland, Mark Lettieri, Jonathan Maron & Justin Stanton\)](https://open.spotify.com/track/6cAQCcRC7HeIxxQ5EdxI9k) | [Zach Brock](https://open.spotify.com/artist/2gP7EdtXx1CWc3gLco3B1C), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Jonathan Maron](https://open.spotify.com/artist/5c2waqtgYO4U0hSvVzxSXe), [Justin Stanton](https://open.spotify.com/artist/51SBwyi6EsedCxohTMWQN5) | [Dirty Mindz](https://open.spotify.com/album/3BSfTSY5q7tNeZgWw7nC6H) | 9:18 |

@@ -1,12 +1,12 @@
 {
   "description": "The latest hits from your favourite festival legends. Peace, love, unity, respect. \ud83d\udc97",
-  "num_followers": 84796,
+  "num_followers": 84926,
   "original_name": "EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDM5MTQyNywwMDAwMDAwMDBlNTJiZDgyM2JkZDAyMjE1NTEzNTU1ZTFjN2Y1MTU2",
+  "snapshot_id": "MTY1NDQ3NzU1NywwMDAwMDAwMDRlOWRlNDM0MWIwYjM4ZmM3MTkyZDJhY2FkZTAyMTRh",
   "tracks": [
     {
       "added_at": "2022-04-15 04:01:00",
@@ -29,20 +29,24 @@
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
+      "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Learn To Love Again",
-        "url": "https://open.spotify.com/album/442Ed4spkcuDL5gSFPwAjY"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
       },
       "artists": [
         {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
         }
       ],
-      "duration_ms": 224285,
-      "name": "Learn To Love Again",
-      "url": "https://open.spotify.com/track/4548LyFomXQmDAINcFizEq"
+      "duration_ms": 145174,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -73,20 +77,20 @@
       "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
+      "added_at": "2022-04-15 04:01:00",
       "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0"
+        "name": "So Good To Me",
+        "url": "https://open.spotify.com/album/3qFfusBUAlH5hfZfm5Kq38"
       },
       "artists": [
         {
-          "name": "Andrew Rayel",
-          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
         }
       ],
-      "duration_ms": 177745,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y"
+      "duration_ms": 216257,
+      "name": "So Good To Me",
+      "url": "https://open.spotify.com/track/3Qt4d1IoO5yhQFAUFsTXSK"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -111,22 +115,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Superhuman",
-        "url": "https://open.spotify.com/album/7vmsD5McUhD0U0Msyz3tOj"
+        "name": "Wish It Was You",
+        "url": "https://open.spotify.com/album/75wWmFkPXHTTbw47RRvuvb"
       },
       "artists": [
         {
-          "name": "Tritonal",
-          "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
         },
         {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+          "name": "Cate Downey",
+          "url": "https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn"
         }
       ],
-      "duration_ms": 251250,
-      "name": "Superhuman",
-      "url": "https://open.spotify.com/track/2TlhOVwPyMJ0CbdgHS34JQ"
+      "duration_ms": 192000,
+      "name": "Wish It Was You",
+      "url": "https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -151,26 +155,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "You Got The Love",
-        "url": "https://open.spotify.com/album/2kNfpqN1fT9lRc1cYuAhWt"
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/0OS7ve0wMwbUSyVGvcthMf"
       },
       "artists": [
         {
-          "name": "Never Sleeps",
-          "url": "https://open.spotify.com/artist/7BUaQCq7sFUMJqkWPqApXE"
+          "name": "Tritonal",
+          "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
         },
         {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
         }
       ],
-      "duration_ms": 196684,
-      "name": "You Got The Love",
-      "url": "https://open.spotify.com/track/1O3Jlr6ksM6meUe1atDAxY"
+      "duration_ms": 386250,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/3DKWSWJsNtRQil4FsytGHD"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -199,26 +199,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Love Is Gone (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/5geXlgVIkQ2TemF4rmmNWt"
+        "name": "SLEEP",
+        "url": "https://open.spotify.com/album/5mzCJJA5kAQRgHZIUIpR0t"
       },
       "artists": [
         {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
         },
         {
-          "name": "Dylan Matthew",
-          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
         }
       ],
-      "duration_ms": 169846,
-      "name": "Love Is Gone (Ti\u00ebsto Remix)",
-      "url": "https://open.spotify.com/track/4AoUdMZGoPZZQxVFnoVQEl"
+      "duration_ms": 165916,
+      "name": "Set Me Free (feat. Aloe Blacc)",
+      "url": "https://open.spotify.com/track/1uGsxm2hkpBHiPvn8g2zwH"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -243,22 +239,26 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Wish It Was You",
-        "url": "https://open.spotify.com/album/75wWmFkPXHTTbw47RRvuvb"
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/5NQMRc7B6CvjhCcjYzSErM"
       },
       "artists": [
         {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
         },
         {
-          "name": "Cate Downey",
-          "url": "https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn"
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Julia Ross",
+          "url": "https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Wish It Was You",
-      "url": "https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd"
+      "duration_ms": 225000,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1gs7LWmkKWpJ8M6cnWkK5e"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -283,26 +283,26 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Returning To You (feat. Alison May)",
-        "url": "https://open.spotify.com/album/1kgjUVyQE2RmvsT6hRLCHG"
+        "name": "Love Is Gone (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/5geXlgVIkQ2TemF4rmmNWt"
       },
       "artists": [
         {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
         },
         {
-          "name": "Andrew Bayer",
-          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+          "name": "Dylan Matthew",
+          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
         },
         {
-          "name": "Alison May",
-          "url": "https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 301090,
-      "name": "Returning To You (feat. Alison May)",
-      "url": "https://open.spotify.com/track/6IzwNz9jjHpvEqWmyLYUXa"
+      "duration_ms": 169846,
+      "name": "Love Is Gone (Ti\u00ebsto Remix)",
+      "url": "https://open.spotify.com/track/4AoUdMZGoPZZQxVFnoVQEl"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Watch This",
-        "url": "https://open.spotify.com/album/1HmvRHd6ZXi1PLy95Slzvf"
+        "name": "Learn To Love Again",
+        "url": "https://open.spotify.com/album/442Ed4spkcuDL5gSFPwAjY"
       },
       "artists": [
         {
-          "name": "Borgeous",
-          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
         }
       ],
-      "duration_ms": 214400,
-      "name": "Watch This",
-      "url": "https://open.spotify.com/track/2H46j706JVshMJ9ZaAS1fJ"
+      "duration_ms": 224285,
+      "name": "Learn To Love Again",
+      "url": "https://open.spotify.com/track/4548LyFomXQmDAINcFizEq"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -385,28 +385,24 @@
       "url": "https://open.spotify.com/track/5pF92bDyufEHqAOEf2Dtuu"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
+      "added_at": "2022-04-08 04:01:00",
       "album": {
-        "name": "That Feeling (feat. Hayley May)",
-        "url": "https://open.spotify.com/album/02w7N6Z1cgDLw2DJTWCCsn"
+        "name": "Quantum",
+        "url": "https://open.spotify.com/album/35xmlcqBI4rtJZXiDAI9Xo"
       },
       "artists": [
         {
-          "name": "Danny Quest",
-          "url": "https://open.spotify.com/artist/3F3uRvVluLsFqBrGaeJP3p"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
         }
       ],
-      "duration_ms": 134442,
-      "name": "That Feeling (feat. Hayley May)",
-      "url": "https://open.spotify.com/track/7clsGP3ea7rhBaEK9ga898"
+      "duration_ms": 178593,
+      "name": "Quantum",
+      "url": "https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -435,26 +431,38 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Safe & Sound",
-        "url": "https://open.spotify.com/album/4jVNpfwJ31athD8jR5Mg1x"
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0"
       },
       "artists": [
         {
-          "name": "Tritonal",
-          "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
-        },
-        {
-          "name": "Last Heroes",
-          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
         }
       ],
-      "duration_ms": 208800,
-      "name": "Safe & Sound",
-      "url": "https://open.spotify.com/track/7yfnNGWg10OgBjpGx1G2M7"
+      "duration_ms": 177745,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0n1BagGDuJad065Qjb7enT"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Catello",
+          "url": "https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE"
+        }
+      ],
+      "duration_ms": 143952,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/7GiozRoMk95aFl1WbrDdjX"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -483,106 +491,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2EbGQOhrYnc6oAOIKh4mUl"
-      },
-      "artists": [
-        {
-          "name": "Hook N Sling",
-          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 158354,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "See You Again EP",
-        "url": "https://open.spotify.com/album/4rmeoGTOMbpZ8WBzfWEKzC"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
-        },
-        {
-          "name": "Fiora",
-          "url": "https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM"
-        }
-      ],
-      "duration_ms": 263200,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/4pXG8Q82L8WvypAm5Wo86y"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "So Good To Me",
-        "url": "https://open.spotify.com/album/3qFfusBUAlH5hfZfm5Kq38"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        }
-      ],
-      "duration_ms": 216257,
-      "name": "So Good To Me",
-      "url": "https://open.spotify.com/track/3Qt4d1IoO5yhQFAUFsTXSK"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Best Is Yet To Come (with Kyle Reynolds)",
-        "url": "https://open.spotify.com/album/2YNA1Y8T91S15TPTzMCaFx"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Kyle Reynolds",
-          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
-        }
-      ],
-      "duration_ms": 215201,
-      "name": "Best Is Yet To Come (with Kyle Reynolds)",
-      "url": "https://open.spotify.com/track/2gZwBmkSmsVfEPFWGuWTDk"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "IRIDESCENT",
-        "url": "https://open.spotify.com/album/4NvtV3UnbutVbneI5x7h8F"
-      },
-      "artists": [
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Flux",
-      "url": "https://open.spotify.com/track/6b3O3pQAIbDbdOI2axKHob"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Problems",
         "url": "https://open.spotify.com/album/6L2C3wz8KVARtC4wqrDJTG"
       },
@@ -607,136 +515,8 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Fallen Embers",
-        "url": "https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 230571,
-      "name": "Blame Myself",
-      "url": "https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/5NQMRc7B6CvjhCcjYzSErM"
-      },
-      "artists": [
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        },
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Julia Ross",
-          "url": "https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/1gs7LWmkKWpJ8M6cnWkK5e"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Losing My Religion (feat. MKLA)",
-        "url": "https://open.spotify.com/album/2jS5seVFSTaXWGJTi2Zz48"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
-        },
-        {
-          "name": "Aukoustics",
-          "url": "https://open.spotify.com/artist/3o8z3AHOZOxmmb2IKqRxiT"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Losing My Religion (feat. MKLA)",
-      "url": "https://open.spotify.com/track/7u6EvUNJUmycM4IHEiHasm"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Take Your Time",
-        "url": "https://open.spotify.com/album/6HBagEXptqThTlMQnxSchh"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        }
-      ],
-      "duration_ms": 186141,
-      "name": "Take Your Time",
-      "url": "https://open.spotify.com/track/3AygCrAj6TZZ6mGkcvD9To"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Breathe (feat. kaspara)",
-        "url": "https://open.spotify.com/album/5MYFonEyI51lu0JHBpSRfK"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        },
-        {
-          "name": "Kaspara",
-          "url": "https://open.spotify.com/artist/4DTvSNQv43222tg1K7C8k2"
-        }
-      ],
-      "duration_ms": 175081,
-      "name": "Breathe (feat. kaspara)",
-      "url": "https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Losing My Mind",
-        "url": "https://open.spotify.com/album/0OS7ve0wMwbUSyVGvcthMf"
+        "name": "Safe & Sound",
+        "url": "https://open.spotify.com/album/4jVNpfwJ31athD8jR5Mg1x"
       },
       "artists": [
         {
@@ -744,113 +524,57 @@
           "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
         },
         {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
         }
       ],
-      "duration_ms": 386250,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/3DKWSWJsNtRQil4FsytGHD"
+      "duration_ms": 208800,
+      "name": "Safe & Sound",
+      "url": "https://open.spotify.com/track/7yfnNGWg10OgBjpGx1G2M7"
     },
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "SLEEP",
-        "url": "https://open.spotify.com/album/5mzCJJA5kAQRgHZIUIpR0t"
+        "name": "Live For",
+        "url": "https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7"
       },
       "artists": [
         {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
         }
       ],
-      "duration_ms": 165916,
-      "name": "Set Me Free (feat. Aloe Blacc)",
-      "url": "https://open.spotify.com/track/1uGsxm2hkpBHiPvn8g2zwH"
+      "duration_ms": 171433,
+      "name": "Live For",
+      "url": "https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS"
     },
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Love Is Gone - Kaskade Remix",
-        "url": "https://open.spotify.com/album/3DZ8e5ZJ8vN2jUBpLVgceZ"
+        "name": "Very Important Music",
+        "url": "https://open.spotify.com/album/1hSyRaCKfMvbiTXXtlHW46"
       },
       "artists": [
         {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Dylan Matthew",
-          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+          "name": "James Hersey",
+          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
         }
       ],
-      "duration_ms": 243428,
-      "name": "Love Is Gone - Kaskade Remix",
-      "url": "https://open.spotify.com/track/6UMbXtJQL8dRQfiLdFh63O"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Saving Lives",
-        "url": "https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
-        }
-      ],
-      "duration_ms": 267676,
-      "name": "Saving Lives",
-      "url": "https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0n1BagGDuJad065Qjb7enT"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Catello",
-          "url": "https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE"
-        }
-      ],
-      "duration_ms": 143952,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/7GiozRoMk95aFl1WbrDdjX"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Ready To Love",
-        "url": "https://open.spotify.com/album/2DZEdOT8Y9knkZAUjpG7mT"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "Ready To Love",
-      "url": "https://open.spotify.com/track/0cvMWzztDy1wNQkBqae8w4"
+      "duration_ms": 200000,
+      "name": "Coming Over - VIP",
+      "url": "https://open.spotify.com/track/1p04Tm0c2tnIdgOYIpcioh"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -875,54 +599,42 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Revolving (feat. Marc E. Bassy) [MOTi Remix]",
-        "url": "https://open.spotify.com/album/0AhejjpMgoOxOX1zQOEZTz"
+        "name": "Fallen Embers",
+        "url": "https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V"
       },
       "artists": [
         {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
         },
         {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
         }
       ],
-      "duration_ms": 184761,
-      "name": "Revolving (feat. Marc E. Bassy) [MOTi Remix]",
-      "url": "https://open.spotify.com/track/7Jhhj33A2qNRpLuo51Aqwt"
+      "duration_ms": 230571,
+      "name": "Blame Myself",
+      "url": "https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4"
     },
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Shadows (Remixes)",
-        "url": "https://open.spotify.com/album/1R7Zd3GuovbQrWBvpPuR81"
+        "name": "Gotta Be You",
+        "url": "https://open.spotify.com/album/2zzcyknjN9v95n0OYg8paf"
       },
       "artists": [
         {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
         },
         {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Amidy",
-          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
-        },
-        {
-          "name": "Maor Levi",
-          "url": "https://open.spotify.com/artist/7iVuXpgNEl87BwdwV1L6he"
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
         }
       ],
-      "duration_ms": 212529,
-      "name": "Shadows - Maor Levi Remix",
-      "url": "https://open.spotify.com/track/2Nnh8xWKthWo6R8Kh5ZmHx"
+      "duration_ms": 149032,
+      "name": "Gotta Be You",
+      "url": "https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -951,32 +663,56 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/4hgIw8ZpU1rkGbEEwkNajV"
+        "name": "We're Still Young",
+        "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
       },
       "artists": [
         {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Funkin Matt",
-          "url": "https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1"
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         },
         {
-          "name": "Frawley",
-          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
+          "name": "Olivia Penalva",
+          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/2cGnOx17iac6m7R5YDUZac"
+      "duration_ms": 195000,
+      "name": "We're Still Young",
+      "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
     },
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live For",
-        "url": "https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7"
+        "name": "Love Is Gone - Kaskade Remix",
+        "url": "https://open.spotify.com/album/3DZ8e5ZJ8vN2jUBpLVgceZ"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Dylan Matthew",
+          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        }
+      ],
+      "duration_ms": 243428,
+      "name": "Love Is Gone - Kaskade Remix",
+      "url": "https://open.spotify.com/track/6UMbXtJQL8dRQfiLdFh63O"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Take Your Time",
+        "url": "https://open.spotify.com/album/6HBagEXptqThTlMQnxSchh"
       },
       "artists": [
         {
@@ -984,29 +720,73 @@
           "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
         }
       ],
-      "duration_ms": 171433,
-      "name": "Live For",
-      "url": "https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS"
+      "duration_ms": 186141,
+      "name": "Take Your Time",
+      "url": "https://open.spotify.com/track/3AygCrAj6TZZ6mGkcvD9To"
     },
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Stay Mine",
-        "url": "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/1ZGdHVWwoIvBTDuYz4gG7g"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Viiq",
+          "url": "https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ"
         },
         {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
         }
       ],
-      "duration_ms": 178010,
-      "name": "Stay Mine",
-      "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
+      "duration_ms": 178960,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/3S2ArNKZEcb9JiBX9WAv4z"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2EbGQOhrYnc6oAOIKh4mUl"
+      },
+      "artists": [
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 158354,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/4kBZ0roH4f66urmysH0DnK"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+        }
+      ],
+      "duration_ms": 197779,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -1033,24 +813,232 @@
       "url": "https://open.spotify.com/track/45CwQAnBujkKzbDKX5wJmv"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
+      "added_at": "2022-04-15 04:01:00",
       "album": {
-        "name": "Fallen Embers (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0KgcBsDY5uFt4EaG3roI3x"
+        "name": "Reason For Fighting (feat. ERV ELLO)",
+        "url": "https://open.spotify.com/album/1Cauh0pJOIIMFZU7eCOALc"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
         },
         {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        {
+          "name": "ERV ELLO",
+          "url": "https://open.spotify.com/artist/6uCQQAHmh8iINfwg98z6zn"
         }
       ],
-      "duration_ms": 238095,
-      "name": "Hurts Like This",
-      "url": "https://open.spotify.com/track/0jitsmziKMI9MpzENnB0Tc"
+      "duration_ms": 238285,
+      "name": "Reason For Fighting (feat. ERV ELLO)",
+      "url": "https://open.spotify.com/track/2L2rzhnx1Xr6LiGuaYMepY"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Best Is Yet To Come (with Kyle Reynolds)",
+        "url": "https://open.spotify.com/album/2YNA1Y8T91S15TPTzMCaFx"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+        }
+      ],
+      "duration_ms": 215201,
+      "name": "Best Is Yet To Come (with Kyle Reynolds)",
+      "url": "https://open.spotify.com/track/2gZwBmkSmsVfEPFWGuWTDk"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/4hgIw8ZpU1rkGbEEwkNajV"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        },
+        {
+          "name": "Funkin Matt",
+          "url": "https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1"
+        },
+        {
+          "name": "Frawley",
+          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/2cGnOx17iac6m7R5YDUZac"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Forget It",
+        "url": "https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 173694,
+      "name": "Forget It",
+      "url": "https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Ready To Love",
+        "url": "https://open.spotify.com/album/2DZEdOT8Y9knkZAUjpG7mT"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "Ready To Love",
+      "url": "https://open.spotify.com/track/0cvMWzztDy1wNQkBqae8w4"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        },
+        {
+          "name": "Jared Lee",
+          "url": "https://open.spotify.com/artist/7cBPcPEdhDWIoFX6BDvw1b"
+        }
+      ],
+      "duration_ms": 221428,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Breathe (feat. kaspara)",
+        "url": "https://open.spotify.com/album/5MYFonEyI51lu0JHBpSRfK"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Kaspara",
+          "url": "https://open.spotify.com/artist/4DTvSNQv43222tg1K7C8k2"
+        }
+      ],
+      "duration_ms": 175081,
+      "name": "Breathe (feat. kaspara)",
+      "url": "https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Superhuman",
+        "url": "https://open.spotify.com/album/7vmsD5McUhD0U0Msyz3tOj"
+      },
+      "artists": [
+        {
+          "name": "Tritonal",
+          "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
+        },
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        }
+      ],
+      "duration_ms": 251250,
+      "name": "Superhuman",
+      "url": "https://open.spotify.com/track/2TlhOVwPyMJ0CbdgHS34JQ"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Hardwell's Revealed Radio - Week 15",
+        "url": "https://open.spotify.com/album/3GNp9XvxuLUOctqr0roYCF"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "Ekko",
+          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
+        }
+      ],
+      "duration_ms": 171208,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/46BhtWkz8zKHdABv0yzxV7"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Friendly Fires",
+        "url": "https://open.spotify.com/album/5DSqWQweJZuWicITrNXwOA"
+      },
+      "artists": [
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
+        {
+          "name": "Dani Poppitt",
+          "url": "https://open.spotify.com/artist/2fSGqh4BJpl0T1LHtd9TQ8"
+        }
+      ],
+      "duration_ms": 292026,
+      "name": "Friendly Fires",
+      "url": "https://open.spotify.com/track/7mY5rHx11vyazThG8xIBzO"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "See You Again EP",
+        "url": "https://open.spotify.com/album/4rmeoGTOMbpZ8WBzfWEKzC"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "Fiora",
+          "url": "https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM"
+        }
+      ],
+      "duration_ms": 263200,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/4pXG8Q82L8WvypAm5Wo86y"
     }
   ],
   "unique_name": "EDM",

@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 315448,
       "name": "BATTICUORE",
       "url": "https://open.spotify.com/track/3mg0MOrXktHGEKhnNOT4h2"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 177720,
       "name": "Behind Enemy Lines",
       "url": "https://open.spotify.com/track/259aWf01uewSao9r9oBYP6"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 203866,
       "name": "Panther",
       "url": "https://open.spotify.com/track/4EeoyH0Uh9VEkUn6dqVtCw"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 219133,
       "name": "Resist and Protect",
       "url": "https://open.spotify.com/track/2BQWKfwYxK27HYmmcXQVTf"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 515693,
       "name": "SEMPRE",
       "url": "https://open.spotify.com/track/7MJPlPyGxMsEehq3BgJsRE"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 102826,
       "name": "Space Channel",
       "url": "https://open.spotify.com/track/0iNQjPzuYEexBAsPSsKvnO"
@@ -891,10 +891,36 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 527120,
       "name": "Water",
       "url": "https://open.spotify.com/track/42V1mTUau3OIFKrBCMTrjV"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73960,
+      "name": "Winds in the Misty Ridge",
+      "url": "https://open.spotify.com/track/3RmhZyWCQHnHBM2itlcMF4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F09JR"

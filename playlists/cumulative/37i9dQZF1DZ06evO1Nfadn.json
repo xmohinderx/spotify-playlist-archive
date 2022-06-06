@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 154333,
       "name": "A Mis Padres",
       "url": "https://open.spotify.com/track/39fu6sQOQip2OC5JEbl209"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 194666,
       "name": "Brinca Brita",
       "url": "https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 140960,
       "name": "Cumbia Cusinela",
       "url": "https://open.spotify.com/track/2mDmVHxoKuy9S0GUE1GeiW"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 185751,
       "name": "El",
       "url": "https://open.spotify.com/track/5BVdLm5h0alj7oGfacbxy4"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 166900,
       "name": "El Toca Toca",
       "url": "https://open.spotify.com/track/48eyqkxVkl5nKOdHp5WIxv"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 141720,
       "name": "Gr\u00edtenme Piedras del Campo",
       "url": "https://open.spotify.com/track/0duYLzWicDpeFY1km3tSI2"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 149920,
       "name": "La Ranchera Pajona",
       "url": "https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 160306,
       "name": "Madrecita Querida",
       "url": "https://open.spotify.com/track/4un4Y5oRumyvaUZHcXXvXd"
@@ -815,6 +815,24 @@
       "duration_ms": 264013,
       "name": "Pero Te Amo - Live Version",
       "url": "https://open.spotify.com/track/61xuXpyNQ8VGTqNcI2JxV1"
+    },
+    {
+      "album": {
+        "name": "Los 15 Para Coleccionar",
+        "url": "https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158066,
+      "name": "Por Una L\u00e1grima",
+      "url": "https://open.spotify.com/track/5XtoPh8NZ8L309wg60p1RE"
     },
     {
       "album": {
@@ -995,6 +1013,24 @@
       "duration_ms": 220000,
       "name": "Tu Eterno Enamorado",
       "url": "https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P"
+    },
+    {
+      "album": {
+        "name": "Tumbando Ca\u00f1a",
+        "url": "https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172133,
+      "name": "Tu Precio",
+      "url": "https://open.spotify.com/track/1N7iPUvDor2HA8wOlS5LIB"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Radar Africa](https://open.spotify.com/playlist/37i9dQZF1DWYc8Z858eGwP)
 
-> The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU?si=YIRwLwrgQi\-Q924V95rtxA">BURUKLYN BOYZ</a>
+> The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=HTEo\-itKTDGnVTBvdIeKlA">Ayra Starr</a>
 
 98 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
 
@@ -89,7 +89,7 @@
 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:33 | 2021-10-08 | 2022-05-06 |
 | [SKYDREAM](https://open.spotify.com/track/772XP90scR680RusnAgQtE) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Green](https://open.spotify.com/album/5Qz1TL6338YnS6cnT9Z8GG) | 2:23 | 2022-05-05 |  |
 | [Slenderman V2](https://open.spotify.com/track/3935qFYNFdI0sUMrBBB4Hc) | [burningforestboy](https://open.spotify.com/artist/44JiNZ7Zxi7IDh6njqD55M) | [Slenderman V2](https://open.spotify.com/album/60VrmwPoE7WZ0d6fgMH6yX) | 2:15 | 2021-05-03 | 2022-05-06 |
-| [SOIL](https://open.spotify.com/track/460bEh4KXHVoV7PSiP4IBT) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [SOIL](https://open.spotify.com/album/4lgTdYVL7YB5aIWeqE8yRh) | 3:05 | 2022-05-05 |  |
+| [SOIL](https://open.spotify.com/track/460bEh4KXHVoV7PSiP4IBT) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [SOIL](https://open.spotify.com/album/4lgTdYVL7YB5aIWeqE8yRh) | 3:05 | 2022-05-05 | 2022-06-06 |
 | [Sore \- Remix](https://open.spotify.com/track/3qqpV4EqQ3TPSYPHOom3I6) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Sore \(Remix\)](https://open.spotify.com/album/3duGoq617U2FfeRi7U1Nkc) | 4:26 | 2021-05-03 | 2022-05-06 |
 | [Sugarcane \(Remix\) \[feat\. King Promise, Mayorkun & Darkoo\]](https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sugarcane \(Remix\) \[feat\. King Promise, Mayorkun & Darkoo\]](https://open.spotify.com/album/5dFQsLF9BvkgmgMONO8imD) | 4:11 | 2022-05-05 |  |
 | [Summeryomuthi](https://open.spotify.com/track/3pLUJWBRx9PBdphuNxn3Ka) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Summeryomuthi](https://open.spotify.com/album/23qbw9oHWVJWpBE9X02dMl) | 4:33 | 2020-12-10 | 2022-05-06 |

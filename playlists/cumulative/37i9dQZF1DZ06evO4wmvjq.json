@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 703946,
       "name": "Arica",
       "url": "https://open.spotify.com/track/5YWt5swsMPRm99XRCSY8U0"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 162785,
       "name": "Dwarf",
       "url": "https://open.spotify.com/track/0r3u5kfZhNaIDOYEtcYhul"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 448026,
       "name": "Innocencia - Se Aparace La Muerte Inocentmente Por La Tarde",
       "url": "https://open.spotify.com/track/5QqUqGPrxtgjT6AEWYJu70"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 1441491,
       "name": "Keyboard Study 2 - Remastered 2021",
       "url": "https://open.spotify.com/track/58qqLWy7sAix9wTtS8kEIb"
@@ -547,10 +547,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 365306,
       "name": "La Muerte en Medias Caladas Negras",
       "url": "https://open.spotify.com/track/5JA6S6rXT6GkSu64nSeqtg"
+    },
+    {
+      "album": {
+        "name": "Lazy Afternoon Among the Crocodiles",
+        "url": "https://open.spotify.com/album/44v2lLaQf819TbPzYRpPgs"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Stefano Scodanibbio",
+          "url": "https://open.spotify.com/artist/6UDoms7Gb8Ej8prwwGBAl3"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352973,
+      "name": "Lazy Afternoon Among the Crocodiles",
+      "url": "https://open.spotify.com/track/11OopoutzfE1yieQAe5KX3"
     },
     {
       "album": {
@@ -659,7 +681,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 344840,
       "name": "Music for the Gift: Part 1",
       "url": "https://open.spotify.com/track/01IsLx4pZcpD9nuRgFeQLg"
@@ -677,7 +699,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 363706,
       "name": "Music for the Gift: Part 5",
       "url": "https://open.spotify.com/track/7mm5eNJ6sLom3KXDmO9nuO"
@@ -695,7 +717,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 367426,
       "name": "Only A Day",
       "url": "https://open.spotify.com/track/3l2b6VxY68bD0Dw6qKI6pj"
@@ -839,7 +861,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 273746,
       "name": "Quijote",
       "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
@@ -967,7 +989,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 456066,
       "name": "Spirit of Peace: Part II.",
       "url": "https://open.spotify.com/track/49jlgHpsuZEeQxgo8xxYKP"
@@ -1003,7 +1025,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 207746,
       "name": "Tango Ladeado",
       "url": "https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV"
@@ -1083,7 +1105,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 1000000,
       "name": "The Harp of New Albion: III. Riding the Westerleys",
       "url": "https://open.spotify.com/track/5Wk6E15Rgb1MDIeLneuwK4"
@@ -1181,7 +1203,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 1230506,
       "name": "You're Nogood",
       "url": "https://open.spotify.com/track/5hViDivhqQcDso9cFahbnw"

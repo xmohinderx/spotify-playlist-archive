@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Purity Ring
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,333 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,360 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [graves](https://open.spotify.com/track/3qDFQJ66ZnaUCPrS2SXz1S) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [graves](https://open.spotify.com/album/3XwnekVtkLvo7Xh7OHBBjB) | 3:33 |
+| 1 | [unlucky](https://open.spotify.com/track/1mMAmnslV5tCn1ldEghNpi) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [graves](https://open.spotify.com/album/3XwnekVtkLvo7Xh7OHBBjB) | 2:26 |
 | 2 | [Dream Girl Evil](https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:47 |
 | 3 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 |
 | 4 | [Don't Fight The Feeling](https://open.spotify.com/track/6a94gSINCcIhFs6QM3ivmx) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Don't Fight The Feeling](https://open.spotify.com/album/0F9BfPKfqHWVqFdnm8RJZ5) | 5:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Finite](https://open.spotify.com/track/2iJMgdzLUxYxi2SNO6e1P3) | [ginla](https://open.spotify.com/artist/0MSkKbBpmyJg8KLu75aGXa) | [Everything](https://open.spotify.com/album/2Nh59NRviJ0twKM2zIoPyj) | 3:21 |
 | 100 | [Blond October](https://open.spotify.com/track/2oeJQ1hcqENUnZWLOPPrBY) | [Jay Feelbender](https://open.spotify.com/artist/0Ty4IlR2mjFlt3dBdvlHlI) | [Enter the Mirror](https://open.spotify.com/album/2qWNPd8ticSF4JXrMZGqk0) | 3:42 |
 
-Snapshot ID: `MTY1NDIzNjExMCwwMDAwMDZkMDAwMDAwMTgxMjgyN2RlNTAwMDAwMDE4MTI2ODFjNGFl`
+Snapshot ID: `MTY1NDQ1OTA2NSwwMDAwMDZkMTAwMDAwMTgxMzU3MWUzMjkwMDAwMDE4MTI2ODFjNGFl`

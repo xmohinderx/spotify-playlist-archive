@@ -4,7 +4,7 @@
 
 > Timeless tunes served over easy for all your brunching needs!
 
-103 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/6oBsdW7bJwBzmYuFyvjA6b)
+104 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/6oBsdW7bJwBzmYuFyvjA6b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(What A\) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 | 2022-03-07 |  |
 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 | 2022-03-07 |  |
 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 | 2022-03-07 |  |
+| [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 | 2022-03-07 |  |
 | [Ahead By A Century](https://open.spotify.com/track/20QnPVTFe3GbDhO1gAcj6d) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Trouble At The Henhouse \(International Version\)](https://open.spotify.com/album/1QVUMGcxGBUrel61pubBIe) | 3:43 | 2022-03-07 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 | 2022-03-07 |  |
 | [All I Do](https://open.spotify.com/track/5Y4T4O5xy63BbgUfUkNPxA) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July \(Digipak\)](https://open.spotify.com/album/0qdxOwxupH4fh5aWi02s76) | 5:06 | 2022-03-07 |  |
@@ -79,7 +80,7 @@
 | [Rich Girl](https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Essential Daryl Hall & John Oates](https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI) | 2:24 | 2022-03-07 |  |
 | [Right As Rain](https://open.spotify.com/track/2Q2SougPFYpLWVZVx1dRNK) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/5VN0zLpsF5QD62XYuvXOio) | 3:17 | 2022-03-07 |  |
 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 | 2022-03-07 |  |
-| [Rock Your Baby](https://open.spotify.com/track/1lmfsSEuxU4PpT739Kihno) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [The Very Best Of George McCrae](https://open.spotify.com/album/1CLu46lCKx33IIzPganjtk) | 3:20 | 2022-03-07 |  |
+| [Rock Your Baby](https://open.spotify.com/track/1lmfsSEuxU4PpT739Kihno) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [The Very Best Of George McCrae](https://open.spotify.com/album/1CLu46lCKx33IIzPganjtk) | 3:20 | 2022-03-07 | 2022-06-06 |
 | [Sir Duke](https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:52 | 2022-03-07 |  |
 | [Slow Burn](https://open.spotify.com/track/1JgSGfLxgwJ76ht70nWNuu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/0bGwtulR9pGiuo7vES9dqp) | 4:06 | 2022-03-07 |  |
 | [Solsbury Hill](https://open.spotify.com/track/1CM1wOqD2AIjt2MWd31LV2) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 1: Car \(Remastered Version\)](https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M) | 4:21 | 2022-03-07 |  |

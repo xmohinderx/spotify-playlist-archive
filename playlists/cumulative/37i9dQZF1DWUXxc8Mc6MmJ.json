@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 205284,
       "name": "ALWAYS",
       "url": "https://open.spotify.com/track/7BfQtUagX8OMgYSKotIV5Q"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 238862,
       "name": "Beautiful Moment",
       "url": "https://open.spotify.com/track/3SXg7A9M3pY2aWYdzQ0BMW"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 216578,
       "name": "Dear My Star",
       "url": "https://open.spotify.com/track/1obDXbMHopdGEJGcjRMP8S"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 252133,
       "name": "Flower",
       "url": "https://open.spotify.com/track/0GVKkD74xcixRYYG3zv1NL"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 196549,
       "name": "For You",
       "url": "https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 238004,
       "name": "Here I am",
       "url": "https://open.spotify.com/track/0RDu8QpQwZMtzRjmjL6fp2"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 284186,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/3Xksp5RxM8ozB7LawqAqDT"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 264538,
       "name": "I Love You Boy",
       "url": "https://open.spotify.com/track/5XXJnC5TvcL2QsAZ3Nxgku"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 266378,
       "name": "I miss You",
       "url": "https://open.spotify.com/track/4yfnuzAl0CxxHarW6L7gYC"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 267120,
       "name": "IF",
       "url": "https://open.spotify.com/track/2cFHTpYafyQ6VpiHF80fd2"
@@ -921,10 +921,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 212130,
       "name": "Just stay",
       "url": "https://open.spotify.com/track/6zoRfHnv1ohgmCkmkwtZg9"
+    },
+    {
+      "album": {
+        "name": "She Would Never Know (Original Television Soundtrack) Pt. 7",
+        "url": "https://open.spotify.com/album/2GQyG3pwnp8a16BQkJcT07"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254800,
+      "name": "Leave Me",
+      "url": "https://open.spotify.com/track/0A4TOaLlewmKuhl10Hwf2V"
     },
     {
       "album": {
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 252253,
       "name": "Love Sight",
       "url": "https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI"
@@ -1083,7 +1101,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 222853,
       "name": "Me to You, You to Me",
       "url": "https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ"
@@ -1191,7 +1209,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 220929,
       "name": "MY LOVE",
       "url": "https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc"
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 245493,
       "name": "One Day",
       "url": "https://open.spotify.com/track/7KxN7XkeoOZVHZReGEeO7y"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 283666,
       "name": "Our Souls at Night",
       "url": "https://open.spotify.com/track/5ROchU8ANsBfStFVsTB3r2"
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 235293,
       "name": "Please Don't Cry",
       "url": "https://open.spotify.com/track/5pmhDbaeNG5Y31mCGK07JE"
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 287813,
       "name": "Someday, The Boy",
       "url": "https://open.spotify.com/track/1N0vwih6TUIb9kYtynvlRc"
@@ -1443,7 +1461,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 225817,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa"
@@ -1573,7 +1591,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 216000,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6"
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 220996,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 263870,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/3fnhqgNnzE3eALxismWcpv"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 214851,
       "name": "Very, Slowly",
       "url": "https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H"
@@ -1717,7 +1735,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 238266,
       "name": "We're Already",
       "url": "https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI"
@@ -1843,7 +1861,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 264840,
       "name": "Yours",
       "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Grupo Firme, Banda El Recodo
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,869 likes - 56 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,947 likes - 56 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

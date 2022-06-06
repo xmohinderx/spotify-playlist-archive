@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 224173,
       "name": "Desn\u00fadame Con La Boca",
       "url": "https://open.spotify.com/track/44iTkje2BHNMm4DZfa3rf5"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 186906,
       "name": "Dime Qu\u00e9 Debo Hacer",
       "url": "https://open.spotify.com/track/4JdXfOJ344Cbf55yzfOZow"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 186973,
       "name": "Donde Est\u00e9s",
       "url": "https://open.spotify.com/track/1hnwKfd41RHPru8zZraOQY"
@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212893,
+      "name": "La Plancha",
+      "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
+    },
+    {
+      "album": {
         "name": "La Pregunta del Millon",
         "url": "https://open.spotify.com/album/3CQRNYHTwLm8C8oXRqQtYz"
       },
@@ -365,7 +383,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 200169,
       "name": "La Pregunta del Millon",
       "url": "https://open.spotify.com/track/12qn6tXr90rVnctiC9jODD"
@@ -484,6 +502,28 @@
     },
     {
       "album": {
+        "name": "Los \u00c1ngeles Existen",
+        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170426,
+      "name": "Me Derrito (feat. Bobby Pulido)",
+      "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
+    },
+    {
+      "album": {
         "name": "Siempre Pensando en Ti",
         "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
       },
@@ -513,7 +553,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 229826,
       "name": "Mi Alma Esta Enamorada",
       "url": "https://open.spotify.com/track/4wzym8wGWWsI2BHSItMmzH"
@@ -679,7 +719,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 223240,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/72GdSXUOtE6AdBUlNFO9NW"
@@ -827,7 +867,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 218226,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/2RgBInbB7gq3ewMVkqYIPr"
@@ -863,7 +903,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 222266,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/7MxuCuT5SiVYlOKhSIXN6i"

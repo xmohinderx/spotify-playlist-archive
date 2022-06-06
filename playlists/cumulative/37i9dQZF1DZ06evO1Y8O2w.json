@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 418120,
       "name": "Beautiful Man of Mine",
       "url": "https://open.spotify.com/track/35NPXOAZeNlu6WMRfJAA8m"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 350613,
       "name": "Goddess Of Love",
       "url": "https://open.spotify.com/track/3eceLA8MwVvbM9cjeTsOQr"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 242320,
       "name": "I Ain't Asking",
       "url": "https://open.spotify.com/track/4T5FdL1wOaydngJjPLHyBb"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 266040,
       "name": "I Found Love",
       "url": "https://open.spotify.com/track/5K3PneofTHEwyxmk3WBKW9"
@@ -547,6 +547,24 @@
       "duration_ms": 225080,
       "name": "In Between the Heartaches",
       "url": "https://open.spotify.com/track/16pids01DZBwCLo1JAQvjY"
+    },
+    {
+      "album": {
+        "name": "I Refuse To Be Lonely",
+        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314626,
+      "name": "It's Not About You (It's About Me)",
+      "url": "https://open.spotify.com/track/6UXYjqgQvV6JYIJjoxG5Vc"
     },
     {
       "album": {
@@ -673,7 +691,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 282693,
       "name": "Love Is Here (feat. Phyllis Hyman)",
       "url": "https://open.spotify.com/track/41jJAf0D3oMABIvdS3BsBM"
@@ -839,7 +857,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 200213,
       "name": "Sleep On It",
       "url": "https://open.spotify.com/track/3pAmGIMw7jjf85vraM5mnA"
@@ -965,7 +983,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 223986,
       "name": "This Feeling Must Be Love",
       "url": "https://open.spotify.com/track/6RGu9NzuNh4yotd7ThcZV3"
@@ -983,7 +1001,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 322773,
       "name": "Tonight You and Me - Disco Version",
       "url": "https://open.spotify.com/track/78A2I3CESWSwj7oflgfLli"
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 250826,
       "name": "Waiting For The Last Tear To Fall",
       "url": "https://open.spotify.com/track/5KRXfGjx3lJnP2dvqu63xJ"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 246893,
       "name": "What Ever Happened To Our Love",
       "url": "https://open.spotify.com/track/5guRhSosc8jWFmqVFDtdwj"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 284853,
       "name": "Your Move, My Heart",
       "url": "https://open.spotify.com/track/2hsYj0BZHBOj9aXTCEh13l"

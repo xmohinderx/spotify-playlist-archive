@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: moon tang
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,284 likes - 120 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,297 likes - 120 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

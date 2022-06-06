@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 198653,
       "name": "24",
       "url": "https://open.spotify.com/track/1LndCu88RsOgzZXnZXxnUj"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 267048,
       "name": "Antiriver",
       "url": "https://open.spotify.com/track/0RTWQfSE1s4E2eYbqnidEM"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 210572,
       "name": "Balenciaga (feat. Zuka)",
       "url": "https://open.spotify.com/track/6D18H9C7LoQGKnkwLjeLmv"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 261705,
       "name": "bath",
       "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 257142,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/4G2tzcxg0ctBk2Papi7j6C"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 119401,
       "name": "but I'll wait for you",
       "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 160800,
       "name": "ddu-du-du (feat. unofficialboyy)",
       "url": "https://open.spotify.com/track/2vqBAbjsed0GYFlTTYYcyt"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 139800,
       "name": "Empty Cup",
       "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 183333,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/4tK8Ye9n2CMdLNLGObntax"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "First time",
       "url": "https://open.spotify.com/track/3c6G3VkE3TbHdUYrDaATOS"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 188630,
       "name": "Frank Ocean",
       "url": "https://open.spotify.com/track/5GIYyKQCiNobtNpU3IGgxn"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 183896,
       "name": "Hate this love",
       "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 296000,
       "name": "If You Didn\u2019t Know (With. Peej)",
       "url": "https://open.spotify.com/track/1e7SDFFex4hsV5uZCyH6QW"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 172013,
       "name": "Lights",
       "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
@@ -1306,6 +1306,24 @@
     },
     {
       "album": {
+        "name": "NOV3L",
+        "url": "https://open.spotify.com/album/4hngFrSqcd2P7zgwKmooh9"
+      },
+      "artists": [
+        {
+          "name": "Bangminhyeok",
+          "url": "https://open.spotify.com/artist/1yjrug46OJhKhVB5brwaIm"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Midnight, spring",
+      "url": "https://open.spotify.com/track/7xFx14KbvPwgP7Luce2Bsl"
+    },
+    {
+      "album": {
         "name": "Do monsters love too?",
         "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
       },
@@ -1415,7 +1433,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "Night after night (Feat. Hauzee)",
       "url": "https://open.spotify.com/track/4ix7WeS3DYGa9wfexshzJ7"
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Patient (Prod. By bcalm)",
       "url": "https://open.spotify.com/track/74CneYBSEO1FUT6rxsOGTF"
@@ -1727,7 +1745,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 181211,
       "name": "sad love song",
       "url": "https://open.spotify.com/track/3JySL9qlm77KxpKueHH5Cp"
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 147607,
       "name": "Sorry That I Love You Still",
       "url": "https://open.spotify.com/track/3LFmXXj0rErybNgbmlx5lL"
@@ -1905,7 +1923,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 198000,
       "name": "Sunrise (Feat. EunBii)",
       "url": "https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN"
@@ -2013,7 +2031,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 156666,
       "name": "To City",
       "url": "https://open.spotify.com/track/6T2HNmda12do6JE7kANspP"
@@ -2329,7 +2347,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 284711,
       "name": "Zone",
       "url": "https://open.spotify.com/track/2BP2fJ2kEYNIvQeLKrd0a0"

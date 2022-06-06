@@ -936,6 +936,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Dance Classics](/playlists/pretty/37i9dQZF1DX8a1tdzq5tbM.md)
 - [Dance Covers](/playlists/pretty/37i9dQZF1DX1OxnjWYRVU0.md)
 - [Dance Duets](/playlists/pretty/37i9dQZF1DWTt3gMo0DLxA.md)
+- [Dance Favourites](/playlists/pretty/37i9dQZF1DWU2jh5S7FvXl.md)
 - [Dance Hits](/playlists/pretty/37i9dQZF1DX0BcQWzuB7ZO.md)
 - [Dance Party](/playlists/pretty/37i9dQZF1DXaXB8fQg7xif.md)
 - [Dance Pop Hits](/playlists/pretty/37i9dQZF1DWZQaaqNMbbXa.md)

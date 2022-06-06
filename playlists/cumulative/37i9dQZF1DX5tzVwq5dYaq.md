@@ -4,7 +4,7 @@
 
 > Musica che, come la primavera, rende tutto più bello.
 
-115 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/5nIh8bGzt7jwZTza0Wud1L)
+116 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/5nIh8bGzt7jwZTza0Wud1L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Home](https://open.spotify.com/track/6kj2eBA1uHUrv977D84Xra) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/28eq2IhCisTvOj8m2aoXpc) | 4:28 | 2021-06-25 |  |
 | [Home](https://open.spotify.com/track/10ViidwjGLCfVtGPfdcszR) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below](https://open.spotify.com/album/3yfisavFdGTrjFf9Ecpbio) | 5:06 | 2021-06-25 |  |
 | [Home Alone](https://open.spotify.com/track/4YkQnt0L3Zz8brw3Z9WElf) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Home Alone](https://open.spotify.com/album/3JoVfhCMSOFo0zYG8ouSrw) | 2:57 | 2021-06-25 |  |
-| [I Keep Ticking On](https://open.spotify.com/track/3SIeDnfrXhYvsskASZXyaP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/4jRQQN5yl7SgGD3eF0P6gE) | 2:36 | 2021-06-25 |  |
+| [I Keep Ticking On](https://open.spotify.com/track/3SIeDnfrXhYvsskASZXyaP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/4jRQQN5yl7SgGD3eF0P6gE) | 2:36 | 2021-06-25 | 2022-06-06 |
 | [i love you baby](https://open.spotify.com/track/124lzQbZK2jQZqwTq8jt2n) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [i love you baby](https://open.spotify.com/album/1VAVgRanSscfwdCot27ePc) | 3:34 | 2021-06-25 | 2022-06-05 |
 | [I Told You](https://open.spotify.com/track/46frPLWZuQlMLyelCLYpL0) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [I Told You](https://open.spotify.com/album/50jh9JaOKYIxjRnmeUkpvY) | 2:31 | 2021-06-25 |  |
 | [If You Need Me](https://open.spotify.com/track/3dqcHUPGMQD5baOC5Ylp7L) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If You Need Me](https://open.spotify.com/album/4eeHl4rHfVSo0IDTSZ2ECq) | 3:36 | 2021-06-25 |  |
@@ -74,6 +74,7 @@
 | [My Way Up](https://open.spotify.com/track/31CCLN4eTCFoFazNpKaOK0) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [My Way Up](https://open.spotify.com/album/0diKSkYoeWAPyRLcVRkP7L) | 3:15 | 2021-06-25 | 2022-05-10 |
 | [Never Seen the Rain](https://open.spotify.com/track/2grAr8pWMuLWn8ZYEE9wDV) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Never Seen the Rain](https://open.spotify.com/album/1BYByciKxjYwhRSrWlEjWu) | 3:20 | 2021-06-25 |  |
 | [New Rules](https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [New Rules](https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA) | 3:14 | 2021-06-25 |  |
+| [Nobody's Fault](https://open.spotify.com/track/0ribL5IffcrNLjJ2Xy5PFp) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Nobody's Fault](https://open.spotify.com/album/7MXiNnljNmXyGNcGgKgpOZ) | 3:22 | 2021-06-25 |  |
 | [Off](https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Off](https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8) | 2:45 | 2021-06-25 |  |
 | [On Top Of The World](https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS) | 3:12 | 2021-06-25 |  |
 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 | 2021-06-25 |  |
@@ -110,7 +111,7 @@
 | [The Sound Of Sunshine](https://open.spotify.com/track/3L0lMJRRiW7ZA7r6WOwo6T) | [Michael Franti](https://open.spotify.com/artist/4vCYwGCNg2XUsdi9IVMzwo), [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [The Sound of Sunshine](https://open.spotify.com/album/0XSUD9PMHXxzbDDxR5hv37) | 3:43 | 2021-06-25 |  |
 | [The Way That I Love You \- single version](https://open.spotify.com/track/7DZ8n63a46dU6iUyN9OeRl) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Way That I Love You](https://open.spotify.com/album/2brd4GZO66lqqlAWgNiIkK) | 2:39 | 2021-06-25 |  |
 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 | 2021-06-25 |  |
-| [Ticket To Ride](https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Ticket To Ride](https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq) | 3:02 | 2021-06-25 | 2022-06-05 |
+| [Ticket To Ride](https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Ticket To Ride](https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq) | 3:02 | 2021-06-25 |  |
 | [Up&Up](https://open.spotify.com/track/31L9yLXSj6LpCFupyMV6CR) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 6:45 | 2021-06-25 |  |
 | [Upside Down](https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Upside Down](https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU) | 3:29 | 2021-06-25 |  |
 | [Vivere Tutte Le Vite \- con Carl Brave](https://open.spotify.com/track/7l56nY7NMP1QDdWvRdJmmg) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [Diari Aperti](https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae) | 3:40 | 2021-06-25 |  |
@@ -120,7 +121,7 @@
 | [What A Time To Be Alive](https://open.spotify.com/track/3JoQRs8V7dq38TUEbzgTGk) | [George Pelham](https://open.spotify.com/artist/76Vy0VBFDdQSJT4pQxLDjT) | [What A Time To Be Alive](https://open.spotify.com/album/5s7AiA7CG6SQ5UAUE3HBia) | 3:09 | 2021-06-25 |  |
 | [When You Love Someone](https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:36 | 2021-06-25 |  |
 | [Wherever You Are](https://open.spotify.com/track/1b3nlcP6hogIzYRVK2Ui7K) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Wherever You Are](https://open.spotify.com/album/7MGBQrzuC41v7jmMVyPQwd) | 3:05 | 2021-06-25 |  |
-| [Wild Roses](https://open.spotify.com/track/0HTgKWcWxaxDnjBelfB8bR) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Wild Roses](https://open.spotify.com/album/44YsHguNWMiuOwrWcSxftj) | 4:02 | 2021-06-25 |  |
+| [Wild Roses](https://open.spotify.com/track/0HTgKWcWxaxDnjBelfB8bR) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Wild Roses](https://open.spotify.com/album/44YsHguNWMiuOwrWcSxftj) | 4:02 | 2021-06-25 | 2022-06-06 |
 | [Wild Stare](https://open.spotify.com/track/2SClPoLfPJmwrr3EyfgRTS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Wild Stare](https://open.spotify.com/album/1dNicYsMG4Beogrx8blBYZ) | 3:14 | 2021-06-25 |  |
 | [Wildfire](https://open.spotify.com/track/2Ro9FLIVhPwIQopSr48oJT) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:44 | 2021-06-25 |  |
 

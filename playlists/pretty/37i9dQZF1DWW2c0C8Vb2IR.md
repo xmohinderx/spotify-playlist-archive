@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Harish Raghavan
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,106 likes - 52 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,137 likes - 52 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 7 | [Circadian](https://open.spotify.com/track/2H2t8HCFkE2TIN8xik7wGE) | [pantology](https://open.spotify.com/artist/6BmJQyuJW3ghQ8qLROaOt0) | [Circadian](https://open.spotify.com/album/4dehc9Rahv4v6Fd3YvXaSb) | 2:41 |
 | 8 | [Why Not?](https://open.spotify.com/track/0mhDVzQgnwtrY1JnDqz7KQ) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Pera Krstajic](https://open.spotify.com/artist/3kNkllh7QAhy7282M8f1mW) | [Why Not? / Montara](https://open.spotify.com/album/7DKRJTdgGHoTedH7F9z50G) | 5:30 |
 | 9 | [Solaris](https://open.spotify.com/track/37z6ECZ6ZVkRsGbEq7vVUv) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y), [D.D\. Jackson](https://open.spotify.com/artist/01u7BVdgU7EmjtBPHVvQSV) | [Solaris](https://open.spotify.com/album/2Z0TStkaT9jIAqFpOeIxAI) | 2:26 |
-| 10 | [Juneteenth](https://open.spotify.com/track/0A5bqGbPxnzT5A6Ytzn22l) | [Katalyst](https://open.spotify.com/artist/5yAyZa2e9KTHLsxSOMDmrC), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Juneteenth](https://open.spotify.com/album/3MlKaVcAPRY4dnKZ0oRcyy) | 4:06 |
+| 10 | [Juneteenth](https://open.spotify.com/track/0A5bqGbPxnzT5A6Ytzn22l) | [Katalyst](https://open.spotify.com/artist/4B0nwBQwFMfwa3esy6E3qM), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Juneteenth](https://open.spotify.com/album/3MlKaVcAPRY4dnKZ0oRcyy) | 4:06 |
 | 11 | [Supernova](https://open.spotify.com/track/2v0P0yIfsVKbpAz5NjwgK2) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [Supernova](https://open.spotify.com/album/79mcWGUwKCvhTD3N1qMSBp) | 2:18 |
 | 12 | [おだやかに](https://open.spotify.com/track/2k9Q8xPZqPedHecwjOob6S) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [おだやかに](https://open.spotify.com/album/1T0SNc2d2rs2G5orX4X3Ed) | 5:19 |
 | 13 | [The Neighbour](https://open.spotify.com/track/5H7dpWtIXkxITSAc9UH20N) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [The Neighbour](https://open.spotify.com/album/5xCOldDNM4aNaPg73LuMrf) | 7:03 |

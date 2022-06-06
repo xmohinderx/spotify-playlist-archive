@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 184028,
       "name": "Alright!",
       "url": "https://open.spotify.com/track/667jaqJRDzuPxumZyNhOwu"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 223933,
       "name": "DAYDREAM",
       "url": "https://open.spotify.com/track/3CMrYymwyfZ2RSvbpKKMNE"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 194111,
       "name": "Daydream (feat. LeeHi)",
       "url": "https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 205306,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/6RFFcuwXQwmxF1djh4xTuH"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 230769,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/2dp0SokB0wxNlLcR0J547q"
@@ -1451,7 +1451,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 214400,
       "name": "Love Like That",
       "url": "https://open.spotify.com/track/7pnBMz4MiFIwFXSa4nSJcJ"
@@ -1571,7 +1571,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 176241,
       "name": "Maybe We Could Be a Thing",
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
@@ -1607,7 +1607,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 237795,
       "name": "MORE AND MORE",
       "url": "https://open.spotify.com/track/6Ze55CYuGtXSipKLejspyf"
@@ -1643,7 +1643,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 202853,
       "name": "Moving",
       "url": "https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7"
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 194143,
       "name": "My Violet and My Blue",
       "url": "https://open.spotify.com/track/1WoNUbJc0wZ7NKcwzI5lgg"
@@ -2135,7 +2135,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 166022,
       "name": "Secret love (Feat. Ashley Alisha, Jae luna)",
       "url": "https://open.spotify.com/track/3D5tJv3dKwIBW0eBxoauR1"
@@ -2241,6 +2241,28 @@
       "duration_ms": 166000,
       "name": "Someday (Feat. SOLE) (Prod. Padi)",
       "url": "https://open.spotify.com/track/6NfUyAbEcC2Le5KSeXRZ7G"
+    },
+    {
+      "album": {
+        "name": "something (feat. Kim Dae Hyeok)",
+        "url": "https://open.spotify.com/album/5yIT1t84GqnXcka5hXh693"
+      },
+      "artists": [
+        {
+          "name": "J.BASS",
+          "url": "https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln"
+        },
+        {
+          "name": "Kim Dae Hyeok",
+          "url": "https://open.spotify.com/artist/0E3MlC8rOiLtWxUsHsamOB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162200,
+      "name": "something (feat. Kim Dae Hyeok)",
+      "url": "https://open.spotify.com/track/6MV1Ycz6BZEqOyjvymHlYz"
     },
     {
       "album": {
@@ -2511,7 +2533,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 217453,
       "name": "THE",
       "url": "https://open.spotify.com/track/1Ssehbv2YuNm1PlwHQlkQU"
@@ -2777,7 +2799,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 254133,
       "name": "WAITING",
       "url": "https://open.spotify.com/track/6CgqbaPJVedaZpeZsYEHSt"

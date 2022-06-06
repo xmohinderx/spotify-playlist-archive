@@ -692,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285613,
+      "name": "Until the End",
+      "url": "https://open.spotify.com/track/5NJTJElk0ArSxQtYjA0rYR"
+    },
+    {
+      "album": {
         "name": "Sounding The Seventh Trumpet",
         "url": "https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q"
       },

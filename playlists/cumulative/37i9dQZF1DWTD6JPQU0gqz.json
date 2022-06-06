@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 217546,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 161739,
       "name": "Dormir Sola",
       "url": "https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 180853,
       "name": "Fettuccine",
       "url": "https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB"
@@ -1493,7 +1493,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 438480,
       "name": "La Chiflera",
       "url": "https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP"
@@ -1665,7 +1665,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 256551,
       "name": "La Modelo",
       "url": "https://open.spotify.com/track/2m2ZGfJcs3lHWNPzhWH3XH"
@@ -1903,7 +1903,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 190173,
       "name": "Loiza",
       "url": "https://open.spotify.com/track/6iJa6ly8IIwuOzoOZtnXfw"
@@ -2089,7 +2089,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 198000,
       "name": "MIA BEACH",
       "url": "https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A"
@@ -2155,7 +2155,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 235462,
       "name": "Mismo De Antes",
       "url": "https://open.spotify.com/track/0e3pNr8A7NEAb9ItjHLlfb"
@@ -2217,7 +2217,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 187897,
       "name": "M\u00cdRENME AHORA",
       "url": "https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev"
@@ -2311,7 +2311,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 190102,
       "name": "NO TE VAYAS",
       "url": "https://open.spotify.com/track/6265pP7vOElddtF32MJmts"
@@ -2540,6 +2540,24 @@
     },
     {
       "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217411,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
+    },
+    {
+      "album": {
         "name": "Peaches (Spanish Version)",
         "url": "https://open.spotify.com/album/2BtIZr7suRdwZIZB5KdI6m"
       },
@@ -2591,7 +2609,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 159572,
       "name": "PIN PIN",
       "url": "https://open.spotify.com/track/51tMYALx6Lkrte41DoWIPq"
@@ -2685,7 +2703,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 194402,
       "name": "P\u00e1rrafo 8",
       "url": "https://open.spotify.com/track/3RGOpwcyaMvgiuRyFrfVtc"
@@ -3045,7 +3063,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Sin Aire",
       "url": "https://open.spotify.com/track/4m93OTJad26zWgEFprZICX"
@@ -3147,6 +3165,24 @@
       "duration_ms": 222226,
       "name": "Somos los Prietos (feat. Alexis Play)",
       "url": "https://open.spotify.com/track/5jHAD4oQJN0P4j5KIKTaYs"
+    },
+    {
+      "album": {
+        "name": "Lucky 7",
+        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
+      },
+      "artists": [
+        {
+          "name": "Luchy DR",
+          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
     },
     {
       "album": {
@@ -3329,6 +3365,24 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/5RwV8BvLfX5injfqYodke9"
+    },
+    {
+      "album": {
+        "name": "They Love Us",
+        "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174013,
+      "name": "Triple H",
+      "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
     },
     {
       "album": {

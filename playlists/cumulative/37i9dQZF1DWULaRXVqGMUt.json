@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 181093,
       "name": "Blue Lamp",
       "url": "https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 162600,
       "name": "Boogie Woogie Man",
       "url": "https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 217260,
       "name": "C-Jam Boogie",
       "url": "https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 156733,
       "name": "Cadillac Boogie",
       "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 201066,
       "name": "Caroline's Boogie",
       "url": "https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP"
@@ -836,6 +836,24 @@
     },
     {
       "album": {
+        "name": "Yancey Special",
+        "url": "https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Yancey",
+          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185861,
+      "name": "La Salle Street Breakdown",
+      "url": "https://open.spotify.com/track/3BqTjVgE1Yno4SoEuw7KEc"
+    },
+    {
+      "album": {
         "name": "New Way",
         "url": "https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8"
       },
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 332400,
       "name": "Laci's Boogie",
       "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 150973,
       "name": "Marie",
       "url": "https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id"
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 248226,
       "name": "Piggly Wiggly Blues",
       "url": "https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5"
@@ -1145,7 +1163,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 188360,
       "name": "Slider",
       "url": "https://open.spotify.com/track/4CTpTImixJkWNI9gUIMz8J"
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 123626,
       "name": "Sue's Boogie",
       "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 144226,
       "name": "Tutti Frutti",
       "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"

@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Kamal Haasan
 
-53 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/08qCykpFzLPE8OJvwnUnl8)
+55 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/08qCykpFzLPE8OJvwnUnl8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Oo Solriya Oo Oo Solriya](https://open.spotify.com/track/28fPIWqAfqoEEGSb0rA4LZ) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj) | [Pushpa \- The Rise](https://open.spotify.com/album/6mirm559XB8jiveF7ONuUx) | 3:43 | 2021-12-20 |  |
 | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/track/5WWplXimzIjlJiN2N7T9Q3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/album/4ngv1dF4dr1Hz37qanw0IO) | 3:31 | 2022-05-11 |  |
 | [Per Vachaalum Vaikkaama](https://open.spotify.com/track/21r0QnhYxsxYUsoov5o0IF) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Malaysia Vasudevan](https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Dikkiloona \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/31MR3zKN2y1tEwPpI9i5j7) | 4:28 | 2021-11-15 |  |
+| [Porkanda Singam](https://open.spotify.com/track/3yqkV2Vd0u4l9lUnlaFNZT) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:18 | 2022-06-05 |  |
 | [Private Party](https://open.spotify.com/track/5OotwkHgMpNYfsCwAOs4jP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Don \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kNAeOCtoLHlxTsokhiR1u) | 3:36 | 2022-05-25 |  |
 | [Rakita Rakita Rakita \(From "Jagame Thandhiram"\)](https://open.spotify.com/track/2oNRoniEFnPdaCfkOQ9m0C) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Rakita Rakita Rakita \(From "Jagame Thandhiram"\)](https://open.spotify.com/album/3YSoAYHmI70SD6Wb7f4k1q) | 4:07 | 2021-11-15 |  |
 | [Saami Saami](https://open.spotify.com/track/397k2vS0xPDxKKVXV46KtV) | [Rajalakshmi Senthiganesh](https://open.spotify.com/artist/1JIPdCqj5nSYLwHHD4vS5v) | [Pushpa \- The Rise](https://open.spotify.com/album/602rAkHAZiAsKB8BcxEiCM) | 3:44 | 2022-01-04 |  |
@@ -61,5 +62,6 @@
 | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/track/4dJrjWtAhEkW7VdPYSL1Ip) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/album/0SOw7gw33kUZHgyZpLY1Jh) | 3:48 | 2021-11-15 |  |
 | [Vaathi Raid](https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:29 | 2021-11-15 |  |
 | [Vikram \- Title Track](https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:38 | 2022-05-15 |  |
+| [Wasted](https://open.spotify.com/track/2dpMdklbSc5CmZ3ijhknZ5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:02 | 2022-06-05 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

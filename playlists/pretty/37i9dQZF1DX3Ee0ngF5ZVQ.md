@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > From the Dance Halls and Honky Tonks across America to the World! Cover: Grace Tyler
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,585 likes - 198 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,680 likes - 198 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

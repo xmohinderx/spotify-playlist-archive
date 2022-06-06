@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 202703,
       "name": "All My Favorite Songs",
       "url": "https://open.spotify.com/track/0HOvlNv2ClRN4Gb6Y40dxc"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 176346,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 143744,
       "name": "Battered & Bruised",
       "url": "https://open.spotify.com/track/0aMTOwMg93ZJlM1xCZy0ia"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 271560,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/243b3t0P416vtdmxRllHEV"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 205158,
       "name": "bloody valentine",
       "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 214703,
       "name": "Glass Spiders",
       "url": "https://open.spotify.com/track/4BCfr5vZpZDqHG9oNJo2Qx"
@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 143952,
       "name": "Lightning Field",
       "url": "https://open.spotify.com/track/76EZdckv7V2EIyvSu6hpx8"
@@ -1403,7 +1403,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 174067,
       "name": "Monsters (feat. blackbear)",
       "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
@@ -1671,7 +1671,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 297933,
       "name": "Seventeen Going Under",
       "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
@@ -1779,7 +1779,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 246554,
       "name": "Sinners Hymn",
       "url": "https://open.spotify.com/track/7dUaX05uxCNK5lC3329O0E"
@@ -1887,7 +1887,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 229466,
       "name": "Superblood Wolfmoon",
       "url": "https://open.spotify.com/track/2PETsovNFRjQOSMWj8gNii"
@@ -1959,10 +1959,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 160340,
       "name": "The Champion",
       "url": "https://open.spotify.com/track/5vNazwnNST2AcdSt4RE07z"
+    },
+    {
+      "album": {
+        "name": "the ground below (feat. Royal Blood) [Royal Jewels Mix]",
+        "url": "https://open.spotify.com/album/5eV8MufOSCcvwS9oCPN4aX"
+      },
+      "artists": [
+        {
+          "name": "Run The Jewels",
+          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173132,
+      "name": "the ground below (feat. Royal Blood) - Royal Jewels Mix",
+      "url": "https://open.spotify.com/track/0ZihFuThMaeARjmxTsoNFe"
     },
     {
       "album": {
@@ -2031,7 +2053,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 195853,
       "name": "Tiny Indoor Fireworks",
       "url": "https://open.spotify.com/track/1ZUsnvMUqF0uJkhhjZlvcY"
@@ -2085,7 +2107,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 241856,
       "name": "Twisted Tongues",
       "url": "https://open.spotify.com/track/3WEerYUbUTVFCWE3gcADiz"
@@ -2313,7 +2335,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 173304,
       "name": "{ The Dreamer\u2019s Hotel }",
       "url": "https://open.spotify.com/track/2xdkdWe99CkSXWbP13BVqL"

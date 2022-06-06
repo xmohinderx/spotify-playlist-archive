@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 250371,
       "name": "A Sonic Womb Pt. 6",
       "url": "https://open.spotify.com/track/3kQvR0w9RRE2cnsvokyaca"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 261800,
       "name": "Andalusian Dream",
       "url": "https://open.spotify.com/track/0xAe35lAnTKENUi5VgO2Hk"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 123666,
       "name": "Bel Canto",
       "url": "https://open.spotify.com/track/2AoTWMO8PyX6kyUHVcIxxH"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Hotel Luna",
       "url": "https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 254800,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/6ZeJG2I9SmUzTtE0zY5Iwx"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 254600,
       "name": "Ocean Avenue",
       "url": "https://open.spotify.com/track/3bqA2pghklVzvAn4U04qLO"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 225000,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/7rXifdGnx7Lfe40VE5TTwT"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 342760,
       "name": "Sailing To Byzantium - (New)",
       "url": "https://open.spotify.com/track/4VujPCSGU7lUU6QOIpxAs8"
@@ -912,6 +912,24 @@
     },
     {
       "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195093,
+      "name": "Simple Song - Live",
+      "url": "https://open.spotify.com/track/6M64D6EyQPPkQLuLH1EGfs"
+    },
+    {
+      "album": {
         "name": "Silver Ship",
         "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
       },
@@ -941,7 +959,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 246293,
       "name": "Stromboli",
       "url": "https://open.spotify.com/track/7ijPcZ54DGNPRfu5DXQBc5"
@@ -1065,9 +1083,27 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "date_added": "2022-05-29",
+      "date_added": "2022-06-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 396826,
+      "name": "The Seventh Wave - Sailing Away",
+      "url": "https://open.spotify.com/track/3mIudsQ5RoTpT6FgGMKhfj"
+    },
+    {
+      "album": {
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-06",
       "duration_ms": 424973,
       "name": "The Sixth Wave - Deep In The Sea",
       "url": "https://open.spotify.com/track/2ctoTMoMSToFFu9PRRAVrK"
@@ -1139,7 +1175,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 252333,
       "name": "Time Stops",
       "url": "https://open.spotify.com/track/3r3nBeuWpbhrA0UyROJ5VS"
@@ -1211,7 +1247,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 255866,
       "name": "Wine Dark Sea",
       "url": "https://open.spotify.com/track/6fx3pLWTbmyaCo8z64LrPI"

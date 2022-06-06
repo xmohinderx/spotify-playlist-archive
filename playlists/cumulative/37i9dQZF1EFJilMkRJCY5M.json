@@ -854,6 +854,24 @@
     },
     {
       "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185427,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o"
+    },
+    {
+      "album": {
         "name": "Drinkin' Songs: The Collection",
         "url": "https://open.spotify.com/album/1NrOk9xRbIjuo17XiPOIuq"
       },

@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Purity Ring
 
-447 songs - 1 day 2 hr 47 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+448 songs - 1 day 2 hr 50 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [GOOD TIMES](https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME) | 3:01 | 2022-06-03 |  |
 | [Gr8 Timing!](https://open.spotify.com/track/0R5RnMzKGJLLwlS8FAnDp3) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Gr8 Timing!](https://open.spotify.com/album/3WVOknczJMFhzYahdBbbAd) | 2:37 | 2022-03-04 | 2022-04-16 |
 | [Grab Your Guts](https://open.spotify.com/track/4CmhofthdXpRM1M2R9C2ce) | [Maylee Todd](https://open.spotify.com/artist/1fJYXB9ZFQbNduuZX4jyFl) | [Maloo](https://open.spotify.com/album/3yEjOZEqS72I0ykBEQ5YcO) | 3:02 | 2022-03-04 | 2022-04-09 |
-| [graves](https://open.spotify.com/track/3qDFQJ66ZnaUCPrS2SXz1S) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [graves](https://open.spotify.com/album/3XwnekVtkLvo7Xh7OHBBjB) | 3:33 | 2022-06-03 |  |
+| [graves](https://open.spotify.com/track/3qDFQJ66ZnaUCPrS2SXz1S) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [graves](https://open.spotify.com/album/3XwnekVtkLvo7Xh7OHBBjB) | 3:33 | 2022-06-03 | 2022-06-06 |
 | [graves](https://open.spotify.com/track/640VqmPmQyA4IoyzPxvUyA) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [graves](https://open.spotify.com/album/1uIZQWfhNqQpehJZhdPvAk) | 3:33 | 2022-04-22 | 2022-06-04 |
 | [Great Race](https://open.spotify.com/track/1UoCw5QpZ0LrAnSD49JQP2) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [Great Race](https://open.spotify.com/album/2hISBkwZFVsdBKoPUkVILp) | 1:35 | 2022-06-03 |  |
 | [Gruesome](https://open.spotify.com/track/6WYucxGmsKo2lqWvUjA894) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [To Leave and Come Back](https://open.spotify.com/album/7ABzcHjyKit0ZJAmvWIk2e) | 4:26 | 2022-05-20 |  |
@@ -427,6 +427,7 @@
 | [Under the Sky](https://open.spotify.com/track/3vCION5OSgukv4ibRSCBuA) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [Under the Sky](https://open.spotify.com/album/5tzZzpDfCh0kaculCYzXPo) | 4:18 | 2022-03-04 | 2022-04-09 |
 | [Underworld](https://open.spotify.com/track/6R7jCmKhrnqeLl9fZyQ9Ej) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Child's Play](https://open.spotify.com/album/7knAeUf3ijalqC8jt5WZ4v) | 2:46 | 2021-12-31 | 2022-02-05 |
 | [Unhate](https://open.spotify.com/track/2nvJomohzemNPkKDVaQr2o) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Unhate / I'll Be Seeing You](https://open.spotify.com/album/22YnWfrYbfMVZLUMtg57JM) | 2:44 | 2021-12-31 | 2022-01-15 |
+| [unlucky](https://open.spotify.com/track/1mMAmnslV5tCn1ldEghNpi) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [graves](https://open.spotify.com/album/3XwnekVtkLvo7Xh7OHBBjB) | 2:26 | 2022-06-05 |  |
 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 | 2021-12-31 | 2022-01-15 |
 | [Up the Mountain](https://open.spotify.com/track/2ZvnNPBAlUzwXmlMkJxWDZ) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Up the Mountain](https://open.spotify.com/album/2ibegr2wvTr7o98U1exlNw) | 4:40 | 2022-04-29 |  |
 | [Uzumaki](https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Snake](https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE) | 3:31 | 2022-02-04 | 2022-04-29 |

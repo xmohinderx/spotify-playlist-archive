@@ -2713,7 +2713,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 213445,
       "name": "graves",
       "url": "https://open.spotify.com/track/3qDFQJ66ZnaUCPrS2SXz1S"
@@ -7755,6 +7755,24 @@
       "duration_ms": 164320,
       "name": "Unhate",
       "url": "https://open.spotify.com/track/2nvJomohzemNPkKDVaQr2o"
+    },
+    {
+      "album": {
+        "name": "graves",
+        "url": "https://open.spotify.com/album/3XwnekVtkLvo7Xh7OHBBjB"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146226,
+      "name": "unlucky",
+      "url": "https://open.spotify.com/track/1mMAmnslV5tCn1ldEghNpi"
     },
     {
       "album": {

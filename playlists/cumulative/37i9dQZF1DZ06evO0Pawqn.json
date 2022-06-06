@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 202631,
       "name": "Crei",
       "url": "https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz"
@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196075,
+      "name": "El Libro de los Dioses",
+      "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"
+    },
+    {
+      "album": {
         "name": "30 Exitos",
         "url": "https://open.spotify.com/album/5z9l5t8x9UDOWOMKWSBXz9"
       },
@@ -293,7 +311,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 168489,
       "name": "En Tu Dia Mi Amor",
       "url": "https://open.spotify.com/track/5LbIiAoIKLBOFSvj3WdqV8"
@@ -315,6 +333,24 @@
       "duration_ms": 214693,
       "name": "Enfermo de Amor",
       "url": "https://open.spotify.com/track/4V7PEffhhn8bUwS8HUkPdQ"
+    },
+    {
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211253,
+      "name": "Ensenate a Vivir",
+      "url": "https://open.spotify.com/track/3XeXcokpubHCoNwASX7amI"
     },
     {
       "album": {
@@ -423,7 +459,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 335313,
       "name": "Hasta La Miel Amarga & Extra\u00f1a Manera",
       "url": "https://open.spotify.com/track/6a6LOgQFM0O4exGSr5uDHX"
@@ -495,7 +531,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 122984,
       "name": "La Huella de Mis Besos",
       "url": "https://open.spotify.com/track/0I6sTG0nOH92inb6TmXqgw"

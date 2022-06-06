@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Peace Sells...But Who's Buying?",
+        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243426,
+      "name": "Bad Omen - Remastered",
+      "url": "https://open.spotify.com/track/1IbxJ3jbvSLmaecRamvtui"
+    },
+    {
+      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
@@ -307,7 +325,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 234400,
       "name": "Duke Nukem",
       "url": "https://open.spotify.com/track/3VowFZMqNlHzSIa2MA2kwM"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 202866,
       "name": "Into The Lungs Of Hell - Remastered",
       "url": "https://open.spotify.com/track/7hriWWyB26C1mgdnn6pbgm"
@@ -509,7 +527,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 281626,
       "name": "Last Rites / Loved to Deth",
       "url": "https://open.spotify.com/track/4uAcTDOyAy9T0T5Yw2Z3CC"
