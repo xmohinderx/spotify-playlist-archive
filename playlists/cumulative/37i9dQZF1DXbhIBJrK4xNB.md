@@ -4,7 +4,7 @@
 
 > A collection of Motown classics for the whole family.
 
-59 songs - 3 hr 12 min - not published yet
+59 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/0la4NIXzJwCAFXOJTs9Tbe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

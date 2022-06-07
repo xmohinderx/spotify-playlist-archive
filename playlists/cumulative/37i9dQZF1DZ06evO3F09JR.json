@@ -49,6 +49,24 @@
     {
       "album": {
         "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302923,
+      "name": "AMORE AMARO",
+      "url": "https://open.spotify.com/track/2XkS3JibKUeLfIHzZm3ALd"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
         "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
       },
       "artists": [
@@ -59,7 +77,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 302923,
       "name": "AMORE AMARO",
       "url": "https://open.spotify.com/track/6fiijXOYS8H4e3klBNBVxX"
@@ -147,7 +165,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 177720,
       "name": "Behind Enemy Lines",
       "url": "https://open.spotify.com/track/259aWf01uewSao9r9oBYP6"
@@ -235,6 +253,24 @@
       "duration_ms": 601426,
       "name": "CMAA",
       "url": "https://open.spotify.com/track/4ThWypGQKfkB07EoT1HkaK"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257897,
+      "name": "CORRI",
+      "url": "https://open.spotify.com/track/1HfGfzqzd0zhXuIntkqqAq"
     },
     {
       "album": {
@@ -539,7 +575,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 1019203,
       "name": "MAAC",
       "url": "https://open.spotify.com/track/4Bq7pjMWPLLyto3F1nfw46"
@@ -605,7 +641,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 203866,
       "name": "Panther",
       "url": "https://open.spotify.com/track/4EeoyH0Uh9VEkUn6dqVtCw"
@@ -649,7 +685,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 219133,
       "name": "Resist and Protect",
       "url": "https://open.spotify.com/track/2BQWKfwYxK27HYmmcXQVTf"
@@ -917,7 +953,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 73960,
       "name": "Winds in the Misty Ridge",
       "url": "https://open.spotify.com/track/3RmhZyWCQHnHBM2itlcMF4"

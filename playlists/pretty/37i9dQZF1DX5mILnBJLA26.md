@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=KWWiSlzmR6m\_\-oGmWFZ7MA">Kabza De Small</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,354 likes - 80 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,700 likes - 80 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

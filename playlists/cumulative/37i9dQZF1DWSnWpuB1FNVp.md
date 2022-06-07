@@ -4,7 +4,7 @@
 
 > Barack and Michelle Obama's favorite songs from summer 2019!
 
-44 songs - 2 hr 50 min - not published yet
+44 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/2eoQ1O6IruCvyuk6r16gQw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

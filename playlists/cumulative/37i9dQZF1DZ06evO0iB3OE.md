@@ -4,7 +4,7 @@
 
 > This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/0XHNiJHCrhXtyllBBKiZGi)
+59 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/0XHNiJHCrhXtyllBBKiZGi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [Como en la Revolución](https://open.spotify.com/track/3BrZrZ62yBViYCnKnDp5mh) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 2:09 | 2022-06-01 |  |
 | [Con Que Me Pagas](https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:14 | 2022-06-01 |  |
 | [Dejame](https://open.spotify.com/track/6rLYzSPsrs95tamhZ6oGrf) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Sinaloense](https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq) | [Dejame](https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn) | 2:25 | 2022-06-03 |  |
-| [Dos Amores](https://open.spotify.com/track/51dxwf0wAkeDYnPgQteiGF) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Comandante Fuentes](https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn) | 2:39 | 2022-06-01 |  |
-| [Déjame Vacío](https://open.spotify.com/track/42XVojXanKowQL0mGqMxls) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Super Estrellas Idolos](https://open.spotify.com/album/3Gb84B3Zwo9RFh8xQgCTzQ) | 3:18 | 2022-06-01 |  |
+| [Dos Amores](https://open.spotify.com/track/51dxwf0wAkeDYnPgQteiGF) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Comandante Fuentes](https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn) | 2:39 | 2022-06-01 | 2022-06-07 |
+| [Déjame Vacío](https://open.spotify.com/track/42XVojXanKowQL0mGqMxls) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Super Estrellas Idolos](https://open.spotify.com/album/3Gb84B3Zwo9RFh8xQgCTzQ) | 3:18 | 2022-06-01 | 2022-06-07 |
+| [Déjame Vacío](https://open.spotify.com/track/5A4ZBuH15Sm6Ys2EWnqXrV) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [20 Kilates](https://open.spotify.com/album/6hbJtpFQ3bE1VA0cOXAghB) | 3:18 | 2022-06-06 |  |
 | [El Avión De La Muerte](https://open.spotify.com/track/1D1iVySlRJhOwygJDQRaqk) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 4:14 | 2022-06-01 |  |
 | [El Cargamento Del Diablo](https://open.spotify.com/track/7sGWaqVuPGvfmXtnF71frT) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:51 | 2022-06-01 |  |
 | [El Chamaco](https://open.spotify.com/track/3UEXMuRz6Gt6D6mn54HF1x) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Y Sigue la Mata Dando](https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb) | 2:53 | 2022-06-01 |  |
@@ -51,7 +52,7 @@
 | [La Puerta Del Infierno](https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Enemigo Público](https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53) | 2:48 | 2022-06-01 |  |
 | [La Que Se Fue](https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:59 | 2022-06-01 |  |
 | [La Rubia del Moño Negro](https://open.spotify.com/track/1cwcDWVIwnjGQrQkLyto28) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 3:13 | 2022-06-03 | 2022-06-05 |
-| [La Vida Marca los Rumbos](https://open.spotify.com/track/2jRgDq88GVkM0wJH1ygASp) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [El Peinado](https://open.spotify.com/album/4ahaeAiuNqijZzN1BqPDN9) | 3:34 | 2022-06-01 | 2022-06-04 |
+| [La Vida Marca los Rumbos](https://open.spotify.com/track/2jRgDq88GVkM0wJH1ygASp) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [El Peinado](https://open.spotify.com/album/4ahaeAiuNqijZzN1BqPDN9) | 3:34 | 2022-06-01 |  |
 | [La Vida Prestada \- En Vivo](https://open.spotify.com/track/4LrBqsCyeLFmI1KIzcp2r6) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:09 | 2022-06-01 |  |
 | [Las Tempestades](https://open.spotify.com/track/28ylzCdO95jHk2gjTcD02P) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Hombre de 14 Años](https://open.spotify.com/album/3BLUTvavXdcEmRfo52xCPy) | 3:59 | 2022-06-03 | 2022-06-05 |
 | [Los 3 Gallos \- En Vivo](https://open.spotify.com/track/3lTc0IeRqlcbZIARKyVrvZ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:20 | 2022-06-01 |  |

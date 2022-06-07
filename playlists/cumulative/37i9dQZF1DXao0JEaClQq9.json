@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 241941,
       "name": "5.17",
       "url": "https://open.spotify.com/track/7i8wAKUOcb9BWK50mFOOHU"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 203880,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/2zSOKTYjqEFfJEsUrMkmKs"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 223746,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Call U Tomorrow",
       "url": "https://open.spotify.com/track/0i5w6z3hhpfVMkRUdv9jQ4"
@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 369879,
       "name": "Concrete Over Water",
       "url": "https://open.spotify.com/track/4EGMLBvaIIHNYuTQ3vyJmd"
@@ -1381,7 +1381,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 207106,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/3z1DQOsda6thjUHkbJTelA"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 542732,
       "name": "Creep - Very 2021 Rmx",
       "url": "https://open.spotify.com/track/2KwRMzefAHziMwQabFpKz4"
@@ -1666,6 +1666,24 @@
     },
     {
       "album": {
+        "name": "Do I Make You Nervous",
+        "url": "https://open.spotify.com/album/3XH2ZEUh3l7OYkIZVnLc17"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Do I Make You Nervous",
+      "url": "https://open.spotify.com/track/1LsGcCJQcB9fTjjf4nOb0P"
+    },
+    {
+      "album": {
         "name": "Do U Mind? (Leave the Light On)",
         "url": "https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi"
       },
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 167395,
       "name": "Down By The Water",
       "url": "https://open.spotify.com/track/3kllktLUTSTC1nnXdb21G1"
@@ -1855,7 +1873,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 228817,
       "name": "Drama",
       "url": "https://open.spotify.com/track/6xpS4wROa1os8dkn5amKbv"
@@ -2065,7 +2083,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 165790,
       "name": "Fall Right Out Of Love",
       "url": "https://open.spotify.com/track/34UvSlQb9KwCXp4VICGhFC"
@@ -2319,7 +2337,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 190129,
       "name": "Get My Shit Together",
       "url": "https://open.spotify.com/track/1Z6zf9Wo5OOi0rXnN8VwTs"
@@ -2431,7 +2449,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 177922,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
@@ -2561,7 +2579,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 165539,
       "name": "hangar",
       "url": "https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ"
@@ -2735,7 +2753,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 239706,
       "name": "HIGHWAY TO YOUR HEART",
       "url": "https://open.spotify.com/track/1ejiXFwhoCVvM1z0uh32fr"
@@ -2905,7 +2923,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 176173,
       "name": "I Met God Online",
       "url": "https://open.spotify.com/track/3shB8ksTOqgJ6fj0L09FT9"
@@ -3201,7 +3219,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 230624,
       "name": "It's Okay To Cry",
       "url": "https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO"
@@ -3219,7 +3237,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 185826,
       "name": "Jason",
       "url": "https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz"
@@ -3321,7 +3339,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 278074,
       "name": "Killshot - Slowed + Reverb",
       "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
@@ -3828,6 +3846,24 @@
     },
     {
       "album": {
+        "name": "You Can\u2019t Kill Me",
+        "url": "https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195470,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/72cHkdabMo2Oy0MtnlHIES"
+    },
+    {
+      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },
@@ -4017,7 +4053,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 156091,
       "name": "Moon",
       "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn"
@@ -4035,7 +4071,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 274610,
       "name": "Morning Dew",
       "url": "https://open.spotify.com/track/4IU9uyvBToh2mtFEyiAdGk"
@@ -4143,7 +4179,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 189320,
       "name": "Mystery Boy",
       "url": "https://open.spotify.com/track/6ku5XgDT9HCf9s8Hw0nC66"
@@ -4237,7 +4273,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 179802,
       "name": "No Butterflies, No Nothing",
       "url": "https://open.spotify.com/track/3ZILqwsgKxsjrBLBjrOaSF"
@@ -4407,7 +4443,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 204918,
       "name": "Ocean of Tears",
       "url": "https://open.spotify.com/track/4RqBss578GNj4u9VYZK5u0"
@@ -4953,7 +4989,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 278316,
       "name": "Rare to Wake",
       "url": "https://open.spotify.com/track/77xwqK3T1aPiuyhUUYubVs"
@@ -5171,7 +5207,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 262222,
       "name": "Rosyln",
       "url": "https://open.spotify.com/track/0GmvJ42jViP2XSRxIqmC3x"
@@ -5189,7 +5225,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 216960,
       "name": "Runner",
       "url": "https://open.spotify.com/track/2FLW1FnWZxGUuiDgsLDGOG"
@@ -5547,7 +5583,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 373426,
       "name": "So Heavy I Fell Through the Earth - Art Mix",
       "url": "https://open.spotify.com/track/5pZf7ekhpd3kJbDJPIxYyT"
@@ -6053,7 +6089,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 180821,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/08WoFlGwyAB7ckXoJPDoqY"
@@ -6245,7 +6281,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 286960,
       "name": "The First Taste",
       "url": "https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB"
@@ -6393,7 +6429,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 219727,
       "name": "The Smoke",
       "url": "https://open.spotify.com/track/2WXelEIMTkDX8VENGdbHfk"
@@ -6415,7 +6451,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 194946,
       "name": "The Warning",
       "url": "https://open.spotify.com/track/5uMVAjcLqCzeqdXp8zT4Tu"
@@ -6653,7 +6689,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 124954,
       "name": "Unbothered",
       "url": "https://open.spotify.com/track/3PoKFnMD0zAVtQrkJ4e8XH"
@@ -6671,7 +6707,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 255893,
       "name": "Ungodly Hour",
       "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
@@ -6783,7 +6819,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 279552,
       "name": "Wake Me When It's Over",
       "url": "https://open.spotify.com/track/3O8NWZbe8d0BL39RjThOkp"
@@ -6989,7 +7025,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 233773,
       "name": "Where The Rocks Are",
       "url": "https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R"
@@ -7083,7 +7119,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 185800,
       "name": "Witchking / Angmar",
       "url": "https://open.spotify.com/track/0oxWZLwx7pujk7Tg6koysG"

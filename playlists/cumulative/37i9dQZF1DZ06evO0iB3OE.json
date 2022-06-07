@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 159880,
       "name": "Dos Amores",
       "url": "https://open.spotify.com/track/51dxwf0wAkeDYnPgQteiGF"
@@ -203,10 +203,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 198080,
       "name": "D\u00e9jame Vac\u00edo",
       "url": "https://open.spotify.com/track/42XVojXanKowQL0mGqMxls"
+    },
+    {
+      "album": {
+        "name": "20 Kilates",
+        "url": "https://open.spotify.com/album/6hbJtpFQ3bE1VA0cOXAghB"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198293,
+      "name": "D\u00e9jame Vac\u00edo",
+      "url": "https://open.spotify.com/track/5A4ZBuH15Sm6Ys2EWnqXrV"
     },
     {
       "album": {
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 214533,
       "name": "La Vida Marca los Rumbos",
       "url": "https://open.spotify.com/track/2jRgDq88GVkM0wJH1ygASp"

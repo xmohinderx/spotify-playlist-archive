@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Endank Soekamti, Ndarboy Genk
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,072 likes - 86 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,194 likes - 86 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

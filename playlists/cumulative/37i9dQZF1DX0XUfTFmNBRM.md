@@ -4,7 +4,7 @@
 
 > Hottest Hindi music served here\. Cover\- Bhool Bhulaiyaa 2
 
-182 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
+183 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Tere Naal](https://open.spotify.com/track/2Vw94w6FxCyaYwyCivi9Py) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Tere Naal](https://open.spotify.com/album/28NpsSwjrzxoA4Tr7rH1aT) | 3:18 | 2021-01-25\* | 2022-01-17 |
 | [Tere Naina](https://open.spotify.com/track/7u5B4ptccyg8T7NPfByhE7) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Chandni Chowk To China](https://open.spotify.com/album/2Bec9URBfEhyVjrDu6ZIaN) | 4:15 | 2021-04-06 | 2021-04-12 |
 | [Teri Aankhon Mein](https://open.spotify.com/track/3wmI2n0Whs6kg4MT8jFRU1) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Teri Aankhon Mein](https://open.spotify.com/album/77dwEKk1JI2JN9L5tg8d7t) | 4:21 | 2021-01-25\* | 2021-12-08 |
+| [The Punjaabban Song \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/1XSSm7oKOzNE8oUapjIRWV) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [The Punjaabban Song \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/6mIfxHJVpWhYXKPjHgn80M) | 3:19 | 2022-06-06 |  |
 | [Thoda Thoda Pyaar](https://open.spotify.com/track/5nsET7aVWXu017lsQjRFCV) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Nilesh Ahuja](https://open.spotify.com/artist/7BTWFChvstLB6ZCvuiUaZV), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Thoda Thoda Pyaar](https://open.spotify.com/album/5UXmAl22CAOQCxk19q1xjG) | 4:04 | 2021-04-12 |  |
 | [Thode Kam Ajnabi \- Reprise Version](https://open.spotify.com/track/59daovQqk9HTyn0itgWInN) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur) | [Pagglait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3k1WMGUrn1raJVWoGrNPww) | 5:01 | 2021-04-06 | 2021-10-12 |
 | [Tip Tip \(From "Sooryavanshi"\)](https://open.spotify.com/track/5zfRl79umXWvKoA7p4KEPa) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Tip Tip \(From "Sooryavanshi"\)](https://open.spotify.com/album/5xhnmuzC2RnvShBs631Q2y) | 4:10 | 2021-11-16 |  |

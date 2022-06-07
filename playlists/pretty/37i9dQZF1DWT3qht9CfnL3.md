@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 
 > Canciones de despecho para cantarle a quien te rompió el corazón, con un takeover por Feid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,887 likes - 71 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,915 likes - 71 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

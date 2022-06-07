@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 209838,
       "name": "Copo D'\u00e1gua",
       "url": "https://open.spotify.com/track/02LvP0Z0oaSIyX2XgqBOys"
@@ -1048,6 +1048,40 @@
     },
     {
       "album": {
+        "name": "Nova Moda",
+        "url": "https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147088,
+      "name": "Fuma\u00e7a no Studio",
+      "url": "https://open.spotify.com/track/4Yimh4Ut4dskqAJtuuTu0l"
+    },
+    {
+      "album": {
         "name": "Groupies",
         "url": "https://open.spotify.com/album/6GyknQiPJF4HKS85cxB5Wi"
       },
@@ -1071,6 +1105,28 @@
       "duration_ms": 164571,
       "name": "Groupies",
       "url": "https://open.spotify.com/track/3ua3rqwBNmeGeQfcKnA3bT"
+    },
+    {
+      "album": {
+        "name": "Historinha",
+        "url": "https://open.spotify.com/album/1uYOEODOSLvUkdKB1VZTjU"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139574,
+      "name": "Historinha",
+      "url": "https://open.spotify.com/track/7byTUdupcQ5dSRd3D9jAQo"
     },
     {
       "album": {
@@ -1375,7 +1431,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 173383,
       "name": "Malokeragem",
       "url": "https://open.spotify.com/track/4xdMBPkevffdDNHv1VsiQo"
@@ -1487,6 +1543,44 @@
       "duration_ms": 214235,
       "name": "Me Sinto Aben\u00e7oado",
       "url": "https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR"
+    },
+    {
+      "album": {
+        "name": "Melhor Dia 8: Confia",
+        "url": "https://open.spotify.com/album/2XvscC4yr3gfdHFwfngGSZ"
+      },
+      "artists": [
+        {
+          "name": "Marcos Baroni",
+          "url": "https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Lil Whind",
+          "url": "https://open.spotify.com/artist/3r3YJUzNBJc9y703QG8zkr"
+        },
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275312,
+      "name": "Melhor Dia 8: Confia",
+      "url": "https://open.spotify.com/track/3Qt1QuJ9lmKaY5zBpbrIAV"
     },
     {
       "album": {
@@ -1711,6 +1805,32 @@
       "duration_ms": 246875,
       "name": "Oi, Sumido",
       "url": "https://open.spotify.com/track/4LDBpSuwAw8jLP6s6GI45I"
+    },
+    {
+      "album": {
+        "name": "Ouro Ros\u00e9",
+        "url": "https://open.spotify.com/album/6dXEiMtumxmNwb7I01SvVe"
+      },
+      "artists": [
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146822,
+      "name": "Ouro Ros\u00e9",
+      "url": "https://open.spotify.com/track/22K3jhzhPwH3TatxENt49A"
     },
     {
       "album": {
@@ -1941,7 +2061,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 161311,
       "name": "Progresso",
       "url": "https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm"
@@ -2273,10 +2393,32 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 327529,
       "name": "Tempos de Escola (feat. Ponto De Equil\u00edbrio, Dimme Roots & Hash Produ\u00e7\u00f5es)",
       "url": "https://open.spotify.com/track/1XrYudR4oBTKGj4pqtb2lZ"
+    },
+    {
+      "album": {
+        "name": "Tentando Sair do Gueto",
+        "url": "https://open.spotify.com/album/5QG1ynxFfgPjdx69zByIJB"
+      },
+      "artists": [
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        },
+        {
+          "name": "Yung Lince",
+          "url": "https://open.spotify.com/artist/0rD7ftcckBSkfRyJWvyhuT"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109933,
+      "name": "Tentando Sair do Gueto",
+      "url": "https://open.spotify.com/track/7LrfFu83W7yP0EzY1ct9Jf"
     },
     {
       "album": {
@@ -2393,7 +2535,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 206783,
       "name": "Vegano",
       "url": "https://open.spotify.com/track/2MKAalcstfLiNiukSlBzCS"

@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 170586,
       "name": "El 24 de Junio",
       "url": "https://open.spotify.com/track/195mKbKWXbSbjQjxmGhuiL"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 201831,
       "name": "Le\u00f1a De Pirul",
       "url": "https://open.spotify.com/track/6U6mYBBhdVnz1PiXyRLPNi"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 274314,
       "name": "No Dejes Que",
       "url": "https://open.spotify.com/track/729wxTN5RenV8HLAjXZhTo"
@@ -871,6 +871,24 @@
       "duration_ms": 231426,
       "name": "Sal de Mi Vida",
       "url": "https://open.spotify.com/track/2hConPP7C5qyOG069xQVKo"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/6aTyqTryxFbbFAfdOvZBOb"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165040,
+      "name": "Se Me Hizo Vicio",
+      "url": "https://open.spotify.com/track/5ojaAFtMvJuDzN2hCFy1aX"
     },
     {
       "album": {

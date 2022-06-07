@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-50 songs - 4 hr 52 min - not published yet
+50 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

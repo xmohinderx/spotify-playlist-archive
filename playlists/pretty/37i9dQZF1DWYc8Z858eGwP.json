@@ -1,6 +1,6 @@
 {
   "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=HTEo-itKTDGnVTBvdIeKlA\">Ayra Starr</a>",
-  "num_followers": 54365,
+  "num_followers": 54482,
   "original_name": "Radar Africa",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "MTY1NDQ3MDAwMCwwMDAwMDA0YTAwMDAwMTgxMzYxOGJlMjcwMDAwMDE4MTM0ZWUxYTIy",
   "tracks": [
+    {
+      "added_at": "2022-06-05 23:00:00",
+      "album": {
+        "name": "ASE - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "ASE - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
+    },
     {
       "added_at": "2022-05-05 23:00:00",
       "album": {

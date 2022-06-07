@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 117106,
       "name": "Beach Buggy (A)",
       "url": "https://open.spotify.com/track/1zLiRIhQoqLRpmRFC5t4kp"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 83226,
       "name": "Grange Hill",
       "url": "https://open.spotify.com/track/2FKrc7YAbpLeWD2G08IRvC"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 154173,
       "name": "Man on the Move",
       "url": "https://open.spotify.com/track/40QHBWHk8P25QWIzZXjs1x"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 264352,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/5g8V7qpugfxt7rKyL7oEwB"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 180384,
       "name": "Original Mania",
       "url": "https://open.spotify.com/track/6hfhkHbprP0sPgIRCsyfZh"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 91840,
       "name": "Powerboat",
       "url": "https://open.spotify.com/track/2T7So0EKMcfsIVlNsSV4TS"
@@ -973,6 +973,24 @@
       "duration_ms": 80600,
       "name": "Regent Street",
       "url": "https://open.spotify.com/track/6jONUb62DB6QS22Lk06FmB"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: The Big Beat",
+        "url": "https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100666,
+      "name": "Roving Reporter",
+      "url": "https://open.spotify.com/track/70ilfw7o4EekgZt3P8EgDz"
     },
     {
       "album": {
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 217218,
       "name": "Sheer Elegance",
       "url": "https://open.spotify.com/track/1grBclN9HxtPvCsPsQ69Dj"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 100306,
       "name": "Tap Footer",
       "url": "https://open.spotify.com/track/2360JvZBIuCjy0NqUw5b1V"
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 187428,
       "name": "The Millionairess",
       "url": "https://open.spotify.com/track/1iqulavsMHGtmCXF57YbLU"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 169026,
       "name": "The Speed of Sound",
       "url": "https://open.spotify.com/track/5yXMM4OEaGIbrAXFmrYx9s"
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 146214,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/40JxNRnTUrSsWqs2mRM4TS"

@@ -1,32 +1,28 @@
 {
-  "description": "A little bit of pop and a little bit of rap. Cover: anees",
-  "num_followers": 155044,
+  "description": "A little bit of pop and a little bit of rap. Cover: Arden Jones",
+  "num_followers": 155246,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDI2Mzk3OCwwMDAwMDEyNTAwMDAwMTgxMjlkMTFhNGYwMDAwMDE4MDFhNWZhZTNi",
+  "snapshot_id": "MTY1NDU0MjE1MywwMDAwMDEyNjAwMDAwMTgxM2E2NWI4OTUwMDAwMDE4MTNhNjU2ZTVj",
   "tracks": [
     {
       "added_at": "2022-06-03 13:38:55",
       "album": {
-        "name": "Twelve Carat Toothache",
-        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+        "name": "age tape 5",
+        "url": "https://open.spotify.com/album/3FmZtgNMtXeaDlPOlgwB84"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
         }
       ],
-      "duration_ms": 243158,
-      "name": "Wasting Angels (with The Kid LAROI)",
-      "url": "https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ"
+      "duration_ms": 121690,
+      "name": "bedroom floor",
+      "url": "https://open.spotify.com/track/2Xbvn1LoF0FpsW66SWieyZ"
     },
     {
       "added_at": "2022-04-04 15:24:43",
@@ -47,18 +43,22 @@
     {
       "added_at": "2022-06-03 13:38:55",
       "album": {
-        "name": "age tape 5",
-        "url": "https://open.spotify.com/album/3FmZtgNMtXeaDlPOlgwB84"
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
       "artists": [
         {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 121690,
-      "name": "bedroom floor",
-      "url": "https://open.spotify.com/track/2Xbvn1LoF0FpsW66SWieyZ"
+      "duration_ms": 243158,
+      "name": "Wasting Angels (with The Kid LAROI)",
+      "url": "https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ"
     },
     {
       "added_at": "2022-06-03 13:46:18",

@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 312789,
       "name": "Awake Me - Acoustic",
       "url": "https://open.spotify.com/track/5XrJkrEfUx0UeTWzQeqO1k"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 212816,
       "name": "Call the Days",
       "url": "https://open.spotify.com/track/55UTk4jy0ep5B3zLoGcaTc"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 212026,
       "name": "Dream in Blue",
       "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 199764,
       "name": "Fat Funny Friend",
       "url": "https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 148101,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/4sMYfHAXlPOUzdHcjG5aRh"
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 198048,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/1wiw9ZdiSm3PZfdZqCzb0A"
@@ -1289,7 +1289,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 280986,
       "name": "Putting on Airs",
       "url": "https://open.spotify.com/track/08HL66o1xVAxrQkdUkMb7D"
@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 238546,
       "name": "Rolling On",
       "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
@@ -1505,7 +1505,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 182346,
       "name": "Sober",
       "url": "https://open.spotify.com/track/3fTokbLfwqwi5cMZmGcI4b"
@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 145361,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv"
@@ -1737,7 +1737,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 203973,
       "name": "Turn Out the Lights",
       "url": "https://open.spotify.com/track/53z0nEZgRnavzH7QbSrO2a"
@@ -1755,7 +1755,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 231841,
       "name": "Unsteady Ground",
       "url": "https://open.spotify.com/track/5aU5EVIbdKn6Xg4ujLTrll"
@@ -1907,7 +1907,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 286114,
       "name": "Woman - Acoustic",
       "url": "https://open.spotify.com/track/1SUcWLKoSDGBGK7ywEddi6"
@@ -1947,6 +1947,24 @@
       "duration_ms": 257532,
       "name": "Yellow Bed",
       "url": "https://open.spotify.com/track/1zQoOFTtwlEZjUCfRCagm8"
+    },
+    {
+      "album": {
+        "name": "Cusp",
+        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+      },
+      "artists": [
+        {
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "\u00c9migr\u00e9",
+      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7XF2hFaHoss"

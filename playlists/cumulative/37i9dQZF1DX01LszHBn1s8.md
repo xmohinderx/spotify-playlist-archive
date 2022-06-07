@@ -4,7 +4,7 @@
 
 > no stranger things spoilers please!!
 
-414 songs - 22 hr 3 min - not published yet
+414 songs - 22 hr 3 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

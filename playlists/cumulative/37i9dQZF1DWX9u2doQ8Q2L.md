@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-76 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+78 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Candle Light](https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 | 2022-05-26 |  |
 | [comedy](https://open.spotify.com/track/3eLopqgxulNGjdgBVPCmvW) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0WAltRUelTPVhbvhJCIF6d) | 3:36 | 2022-06-02 |  |
 | [Cooking](https://open.spotify.com/track/2FwuFgWAR33gH8P2TlYFT6) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [artless](https://open.spotify.com/album/5Hz2EK3klZBI9sjh1j65Jx) | 4:10 | 2022-05-26 |  |
+| [damn](https://open.spotify.com/track/7dNxxkapvf5eRkw24PHSpy) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 4:19 | 2022-06-06 |  |
 | [Draw Me \(feat\. VivaOla\)](https://open.spotify.com/track/7kuuBMGV8Y4BLmjF5LLAV1) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Draw Me \(feat\. VivaOla\)](https://open.spotify.com/album/1D5JPBryEXZFilbWtSbnS8) | 2:33 | 2022-05-26 |  |
 | [Dreamland](https://open.spotify.com/track/3ORCCabyenbxmsV0QacO8M) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [Dreamland](https://open.spotify.com/album/4vNdN9jMsAr8VIyLh8OYde) | 3:10 | 2022-05-26 |  |
 | [Fire and Gold](https://open.spotify.com/track/4QBs4j1pzocVbVmsnw2jCA) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Fire and Gold](https://open.spotify.com/album/7AgDuTh3DKHTie5WqQB1b7) | 3:02 | 2022-05-26 | 2022-06-01 |
@@ -59,11 +60,12 @@
 | [You Are Nobody \(feat\. ひかり\)](https://open.spotify.com/track/0L1gFquDz7MpLvlAH2J7KM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [You Are Nobody \(feat\. ひかり\)](https://open.spotify.com/album/5GSwcNsaqH3YfxvrjTkjTw) | 3:58 | 2022-05-26 | 2022-06-01 |
 | [Your Next](https://open.spotify.com/track/7aj8CY9wmj9RFDjQKeWvJL) | [EMMA WAHLIN](https://open.spotify.com/artist/5vLM0jSwj4TMVhnWuocoaD) | [Your Next](https://open.spotify.com/album/3O5ElEKrcZgpCqPrNZXUl2) | 3:38 | 2022-05-26 |  |
 | [たぶんMaybe明治 feat\. あ、たぎれんたろう](https://open.spotify.com/track/4XdSe3t6dLv4wm38EzztCc) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [あ、たぎれんたろう](https://open.spotify.com/artist/5HT55SPkrxr8N49KCsDrFC) | [レキシチ](https://open.spotify.com/album/11ZNUUORgFEH7S8ZHF0sH4) | 3:31 | 2022-05-26 |  |
-| [まつり](https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [まつり](https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5) | 3:45 | 2022-05-26 |  |
+| [まつり](https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [まつり](https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5) | 3:45 | 2022-05-26 | 2022-06-07 |
+| [エジソン](https://open.spotify.com/track/2wRKOmpe6I7q6k69bkjuFU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:13 | 2022-06-06 |  |
 | [パラドックス](https://open.spotify.com/track/1hgVGz9OOckTZSWLBECAHx) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/53VEqiQkkbIbRXr6JfLGW9) | 3:24 | 2022-05-26 |  |
 | [プレ・ロマンス](https://open.spotify.com/track/1NLajpAmlLrh5OlnJpA2W4) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [SASUKE](https://open.spotify.com/artist/7jwE5FqGmCoX2l5HYaLfkP) | [プレ・ロマンス](https://open.spotify.com/album/6G4IcMO9mMKRMFP0Y5XIYj) | 3:36 | 2022-05-26 |  |
 | [メニュウ](https://open.spotify.com/track/7aW0GKhmgHV6S0wFdpSqOc) | [田中タリラ](https://open.spotify.com/artist/1xQC7gNhUDSY1IfQvF8fou) | [メニュウ](https://open.spotify.com/album/1vpa6YULMwOolLTOvrfbQC) | 2:10 | 2022-05-26 | 2022-06-03 |
-| [卑弥呼](https://open.spotify.com/track/3TEVu2fI0WZJmug0xuY6PP) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:07 | 2022-05-26 |  |
+| [卑弥呼](https://open.spotify.com/track/3TEVu2fI0WZJmug0xuY6PP) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:07 | 2022-05-26 | 2022-06-07 |
 | [君のFlavor feat\. 磯野くん \(YONA YONA WEEKENDERS\)](https://open.spotify.com/track/02efWP5LqFY0FvzxoZ14VJ) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [磯野くん](https://open.spotify.com/artist/48UwOs44kquyWN7FoUZCTG) | [君のFlavor feat\. 磯野くん \(YONA YONA WEEKENDERS\)](https://open.spotify.com/album/69oBKwavCpQBOGiuHDYzZY) | 3:26 | 2022-05-26 |  |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-05-26 |  |
 | [夢中](https://open.spotify.com/track/4Gtnu9xFjyznf1za92wHqH) | [Ochunism](https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS) | [夢中](https://open.spotify.com/album/0YPwMGNvyNwXlp1W3Ug6T1) | 3:59 | 2022-05-26 |  |

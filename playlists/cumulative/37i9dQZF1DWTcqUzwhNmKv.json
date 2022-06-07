@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Miss May I on top of the biggest Metal playlist!",
+  "description": "Falling In Reverse on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 217160,
       "name": "Days Of The Lost",
       "url": "https://open.spotify.com/track/34JGsiDkpgQ9KtjKNOO3h4"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 250333,
       "name": "Flesh And Stone",
       "url": "https://open.spotify.com/track/3wyVcK3etnz24JX8K62b6O"
@@ -2384,6 +2384,24 @@
     },
     {
       "album": {
+        "name": "Shrine",
+        "url": "https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246282,
+      "name": "Stand Down",
+      "url": "https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa"
+    },
+    {
+      "album": {
         "name": "Stand Down",
         "url": "https://open.spotify.com/album/3YmIQSVKDgvDkDAdU03vEs"
       },
@@ -2654,6 +2672,24 @@
     },
     {
       "album": {
+        "name": "The Needless End",
+        "url": "https://open.spotify.com/album/1j92r9irbE3Sqb6MFzBUkJ"
+      },
+      "artists": [
+        {
+          "name": "The Halo Effect",
+          "url": "https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244186,
+      "name": "The Needless End",
+      "url": "https://open.spotify.com/track/5xwl73peQHvNesc12UVNwC"
+    },
+    {
+      "album": {
         "name": "The Rain",
         "url": "https://open.spotify.com/album/6b6ub6gxztDNnzFyQag5sS"
       },
@@ -2907,6 +2943,24 @@
       "duration_ms": 228130,
       "name": "Views From Halfway Down",
       "url": "https://open.spotify.com/track/6K2VQLJfexhkn3teQeAwkd"
+    },
+    {
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/7r9WVGq5YRQ4eeYUYzmk8b"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191414,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/5XUuldRjPXcP5QxyEN4IXT"
     },
     {
       "album": {
@@ -3235,7 +3289,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 218520,
       "name": "ZOMBIFIED",
       "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"

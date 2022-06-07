@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 Degrees](https://open.spotify.com/track/2FsseXANzQHyqOProO6h6O) | [LolaBunz](https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa) | [100 Degrees](https://open.spotify.com/album/3VFR32laZ7wVSpSdt0nowX) | 2:57 | 2022-06-01 |  |
+| [100 Degrees](https://open.spotify.com/track/2FsseXANzQHyqOProO6h6O) | [LolaBunz](https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa) | [100 Degrees](https://open.spotify.com/album/3VFR32laZ7wVSpSdt0nowX) | 2:57 | 2022-06-01 | 2022-06-07 |
 | [24hrs](https://open.spotify.com/track/23S3Ec0TsHifidDXWL0hzR) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [24hrs](https://open.spotify.com/album/4h3Eyvv9Bu4L9seooUcdiz) | 3:22 | 2022-02-02 | 2022-03-09 |
 | [A Collage for Jake and Emilie](https://open.spotify.com/track/7y63H3pvIqgwXiZZloPESs) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [All We Have Is Each Other](https://open.spotify.com/album/7kZ62OCO66vFsiDMzlbw7J) | 4:38 | 2021-12-08 | 2022-01-06 |
 | [AANNGIQ](https://open.spotify.com/track/1YLx7QBLLEy8e8c8eqszSX) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [SHIFTING](https://open.spotify.com/album/10v5r1u4kwiIpdbakONaps) | 2:05 | 2022-01-05 | 2022-02-03 |

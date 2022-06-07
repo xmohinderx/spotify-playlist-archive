@@ -780,6 +780,28 @@
     },
     {
       "album": {
+        "name": "Sonseyat",
+        "url": "https://open.spotify.com/album/5tkqvkC0bmgC6qm1L46HpL"
+      },
+      "artists": [
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        },
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161541,
+      "name": "Stop - Magnolia",
+      "url": "https://open.spotify.com/track/641KAqGlHS7CH0wCrhh0Ir"
+    },
+    {
+      "album": {
         "name": "TEENA",
         "url": "https://open.spotify.com/album/7I91H8tRd87f94rpb8cdcr"
       },

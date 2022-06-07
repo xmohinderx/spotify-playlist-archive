@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 177306,
       "name": "En Eso No Quedamos",
       "url": "https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 194146,
       "name": "En Mil Pedazos",
       "url": "https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 182815,
       "name": "LST",
       "url": "https://open.spotify.com/track/5JG6WYVJ1tAS9xBB7e0dOK"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 193893,
       "name": "Me Refiero A Ti",
       "url": "https://open.spotify.com/track/7ImEnjGpUS77pquZ1IeZnH"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 196385,
       "name": "Se Vale Llorar",
       "url": "https://open.spotify.com/track/18OIUIhJegQ6KiMcekvBLo"
@@ -1031,6 +1031,24 @@
       "duration_ms": 161840,
       "name": "Trono Ca\u00eddo",
       "url": "https://open.spotify.com/track/5viFunfUBvCz96uXWy2wTn"
+    },
+    {
+      "album": {
+        "name": "El Hombre Que M\u00e1s Ama a Su P\u00fablico (En Vivo)",
+        "url": "https://open.spotify.com/album/41u7D6sCeN75276OJs8FgM"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252213,
+      "name": "Valente Quintero - En Vivo",
+      "url": "https://open.spotify.com/track/7uVMBqe030IswozmKmEG1Q"
     },
     {
       "album": {

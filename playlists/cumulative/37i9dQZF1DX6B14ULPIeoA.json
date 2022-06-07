@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 127068,
       "name": "Brisas",
       "url": "https://open.spotify.com/track/2fnzfTG0Cg1nkI0tboLzzx"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 230576,
       "name": "Disfruto Lo Malo",
       "url": "https://open.spotify.com/track/5HvaVlVPH3xx3dWIJ48ISI"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 127162,
       "name": "Donde Me Lleve La Luna",
       "url": "https://open.spotify.com/track/1x2mu6UzJr0SPNR6UFaHQx"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 323164,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/6ekN22D0Amt0tqd2DAeKq4"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "El Paciente",
       "url": "https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 202750,
       "name": "Ella",
       "url": "https://open.spotify.com/track/5A56SGZWiN3utcGa8OXnWK"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 123653,
       "name": "Escucha Mi Voz",
       "url": "https://open.spotify.com/track/735Q2UQdQ8s4JbTnkXpoWq"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 282077,
       "name": "Hoy Te Pierdo",
       "url": "https://open.spotify.com/track/09ZRyTD8bOhdGnl7K5H4uD"
@@ -1347,7 +1347,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 186200,
       "name": "La feria de las flores (Arr. R. Jonas)",
       "url": "https://open.spotify.com/track/3UpBtWoZJgJQWUYWjs51LY"
@@ -1365,7 +1365,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 171600,
       "name": "La hiedra (Arr. R. Jonas)",
       "url": "https://open.spotify.com/track/6nrmaEzad0hHGN6PPGlyH6"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 138426,
       "name": "La Media Vuelta",
       "url": "https://open.spotify.com/track/4FQXVZUo1SfWaI7faSgmHb"
@@ -1463,7 +1463,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 147250,
       "name": "La Puerta Negra",
       "url": "https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7"
@@ -1499,7 +1499,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 164500,
       "name": "Llorando Estoy Por Ti",
       "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 156750,
       "name": "Me La Avente",
       "url": "https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg"
@@ -1750,6 +1750,24 @@
     },
     {
       "album": {
+        "name": "No Es Pa Presumir",
+        "url": "https://open.spotify.com/album/1GKghImopTCi6bX7mDEFaZ"
+      },
+      "artists": [
+        {
+          "name": "Aurelia Goldspark",
+          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264250,
+      "name": "No Es Pa Presumir",
+      "url": "https://open.spotify.com/track/0VTPrUYq4wQCT9WoDBTqJ2"
+    },
+    {
+      "album": {
         "name": "No Llega El Olvido",
         "url": "https://open.spotify.com/album/7bagxAevbVdVOcRs3MMw7q"
       },
@@ -1779,7 +1797,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 230000,
       "name": "No Me Conoces Aun",
       "url": "https://open.spotify.com/track/6HcczuR38XM8B5Mf0SnQdw"
@@ -1913,7 +1931,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 140874,
       "name": "Para Cuando Regreses",
       "url": "https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL"
@@ -1931,7 +1949,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 168250,
       "name": "Parece Que Fue Ayer",
       "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
@@ -2003,7 +2021,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 266582,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS"
@@ -2141,7 +2159,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 193670,
       "name": "Querida",
       "url": "https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO"
@@ -2419,7 +2437,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 289565,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE"
@@ -2437,7 +2455,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 149750,
       "name": "Siempre Te Amare",
       "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
@@ -2491,7 +2509,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 201004,
       "name": "Solo Vine A Despedirme",
       "url": "https://open.spotify.com/track/6JKesuqLu8ZTtRgxNTzbdu"
@@ -2545,7 +2563,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 152874,
       "name": "Te Extran\u0303o",
       "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
@@ -2603,7 +2621,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 129177,
       "name": "Te Vi Y Te Am\u00e9",
       "url": "https://open.spotify.com/track/5sEyifmj8O5JGohq8PxFSn"
@@ -2639,7 +2657,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 165569,
       "name": "Tragos Amargos",
       "url": "https://open.spotify.com/track/1jhaFZpN6grqcweo0kUElQ"
@@ -2697,7 +2715,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 179250,
       "name": "Un Millon De Rosas",
       "url": "https://open.spotify.com/track/50NES9jC00ahT1JEhHgIjS"
@@ -2737,7 +2755,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 290426,
       "name": "Una Flor En La Laguna",
       "url": "https://open.spotify.com/track/0WvT3GRKi55mz5sZr9qVg9"
@@ -2755,7 +2773,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 230250,
       "name": "Una Vez Mas",
       "url": "https://open.spotify.com/track/7vXR4H9LE6bXMtwpb4iz46"
@@ -2861,7 +2879,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 152372,
       "name": "Y Todo Para Que",
       "url": "https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT"
@@ -2879,7 +2897,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 174000,
       "name": "Ya Acabo",
       "url": "https://open.spotify.com/track/07NnD0MqN5lesPhy3faZkj"
@@ -2915,7 +2933,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 232727,
       "name": "Yo Ya No Vuelvo Contigo",
       "url": "https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf"

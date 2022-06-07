@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 468 likes - 66 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 469 likes - 66 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 19 | [Give It All](https://open.spotify.com/track/53g2iXyDr5wAaQifpNsZCf) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Give It All](https://open.spotify.com/album/6dCdUkSiLM2H6zsWzu0wUa) | 3:12 |
 | 20 | [stockholm's a ghost town](https://open.spotify.com/track/7cdXnczyweF4F6v7lfB8xh) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [stockholm's a ghost town](https://open.spotify.com/album/7yv0GU6bkJGMBxI0C4H6W1) | 2:50 |
 | 21 | [Red Sangria](https://open.spotify.com/track/0rvBpvSy3on3VR1oDJ46sG) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Red Sangria](https://open.spotify.com/album/3bNtHQhVXWiBq2lX07D7m1) | 3:05 |
-| 22 | [Diamonds](https://open.spotify.com/track/1wfUGpVX8ufoTJpKOVctFt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lord Quest](https://open.spotify.com/artist/1ckwRTxh0ESM12gYEUHf89), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [The Kelly Rowland Edition](https://open.spotify.com/album/0yVRzvvD1Wes1p4ffeZhhC) | 3:11 |
-| 23 | [until](https://open.spotify.com/track/7BNrGVWTLp7eoUfHGc9pT7) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:35 |
+| 22 | [until](https://open.spotify.com/track/7BNrGVWTLp7eoUfHGc9pT7) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:35 |
+| 23 | [Diamonds](https://open.spotify.com/track/1wfUGpVX8ufoTJpKOVctFt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lord Quest](https://open.spotify.com/artist/1ckwRTxh0ESM12gYEUHf89), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [The Kelly Rowland Edition](https://open.spotify.com/album/0yVRzvvD1Wes1p4ffeZhhC) | 3:11 |
 | 24 | [rearview](https://open.spotify.com/track/2KOpyptIp3aPMTiS2GCfiK) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [rearview](https://open.spotify.com/album/3uwNVGu8WutCf6wRarOUbj) | 3:37 |
 | 25 | [We Never Know Anymore](https://open.spotify.com/track/1pGvJsyMFGB5jZmUblTe8x) | [Hamster](https://open.spotify.com/artist/0XfWtCWAgbbYP899ssoZSo), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [White Lie](https://open.spotify.com/album/4jrmj4Eqot3PzjjRL8HNyc) | 3:24 |
 | 26 | [dear whatever](https://open.spotify.com/track/3Coe9AsyM4NvTBdcfcPL7f) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [dear whatever](https://open.spotify.com/album/2X4tEDW6xTXp27ddHAQn9k) | 2:29 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 65 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 66 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `Mjc1NzQ1ODMsMDAwMDAwMDBmNmZjOTgyYjlkN2RlZmMxNjNkMmQ2ZDRhNTY3NWZkNg==`
+Snapshot ID: `Mjc1NzYwMjIsMDAwMDAwMDBkY2JkZDNjZjJjZDgwYjFmZTIxOTk2YzlhY2JlNGQ4Mg==`

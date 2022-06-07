@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "From Taiwan to all the mandarin-speaking regions, young generation is looking to hip-hop for expression. Cover: \u79ae\u97cbTHEHOPEND",
+  "description": "From Taiwan to all the mandarin-speaking regions, young generation is looking to hip-hop for expression. Cover: \u9ad8\u723e\u5ba3 OSN",
   "name": "Chinese Hip Hop Stars",
   "published_playlist_ids": [
     "291lRyJLRS6L2qu4DuC54F"
@@ -27,7 +27,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 221679,
       "name": "#MONDAY",
       "url": "https://open.spotify.com/track/2xFtsbTvsYXfT0ASKP3HTa"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 164659,
       "name": "Circles",
       "url": "https://open.spotify.com/track/3xC5OBxn7XK8BNJVnfP1A0"
@@ -510,6 +510,24 @@
     },
     {
       "album": {
+        "name": "CX330",
+        "url": "https://open.spotify.com/album/58BVtYsndEwBs3vw2RJlSh"
+      },
+      "artists": [
+        {
+          "name": "VaVa",
+          "url": "https://open.spotify.com/artist/1apmSb6aeHZyr9zUsy1Z9q"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231183,
+      "name": "CX330",
+      "url": "https://open.spotify.com/track/2m0wEisXymtmP4Lfcymw82"
+    },
+    {
+      "album": {
         "name": "Devil",
         "url": "https://open.spotify.com/album/237Dxn8cAiUnSE6c4bc6m9"
       },
@@ -543,7 +561,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 205000,
       "name": "DILIDALADA:\u51b7\u51b7\u51b0\u96e8 - \u5206\u624b\u7248",
       "url": "https://open.spotify.com/track/0rQUTPdChH6urMaVBX0gu0"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 193500,
       "name": "Face to Face",
       "url": "https://open.spotify.com/track/6HjlJvdC1LtkwApzmfp8kU"
@@ -1026,6 +1044,24 @@
     },
     {
       "album": {
+        "name": "It's On",
+        "url": "https://open.spotify.com/album/5ZG2jqmq2hvUqjhY6jEmSZ"
+      },
+      "artists": [
+        {
+          "name": "Van Ness Wu",
+          "url": "https://open.spotify.com/artist/2Lcyl3luks1H4TDORlJIUW"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "It's On",
+      "url": "https://open.spotify.com/track/7HxvsQv8iaf70hqqMwF2ew"
+    },
+    {
+      "album": {
         "name": "Keep Up",
         "url": "https://open.spotify.com/album/0Cz4M6d0VmPIShBHxqs5zD"
       },
@@ -1048,6 +1084,24 @@
     },
     {
       "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/4d7qm8wE16afNino6ltE9E"
+      },
+      "artists": [
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193348,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/4iqhH7wp2z9rdxUUfsWS2J"
+    },
+    {
+      "album": {
         "name": "!NTO",
         "url": "https://open.spotify.com/album/3W4T7867lQuPCCZnTvdglU"
       },
@@ -1063,6 +1117,28 @@
       "duration_ms": 134086,
       "name": "Last Summer",
       "url": "https://open.spotify.com/track/0dlsXsg8Ch0a8yXlwkbE6T"
+    },
+    {
+      "album": {
+        "name": "Lights Camera Action",
+        "url": "https://open.spotify.com/album/5sZg0L4un96F5ed8x2g3XG"
+      },
+      "artists": [
+        {
+          "name": "Haysen Cheng",
+          "url": "https://open.spotify.com/artist/0nh7l4AluXpKHvqx1f3biK"
+        },
+        {
+          "name": "Harikiri",
+          "url": "https://open.spotify.com/artist/6l8D5mZvv6wusxpawsw1t6"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134166,
+      "name": "Lights Camera Action",
+      "url": "https://open.spotify.com/track/0AnwtaDOeEOGfG5WPA3H8Y"
     },
     {
       "album": {
@@ -1143,7 +1219,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 250666,
       "name": "Love?",
       "url": "https://open.spotify.com/track/1kEddX5EQVIDq2qOUO3pxb"
@@ -1183,6 +1259,24 @@
       "duration_ms": 184897,
       "name": "Married To The Game",
       "url": "https://open.spotify.com/track/1GwDAVUc6MMPeVjCCitUEX"
+    },
+    {
+      "album": {
+        "name": "Matters",
+        "url": "https://open.spotify.com/album/0rLL1nI6vFUxkp03DmpWre"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u723e\u5ba3 OSN",
+          "url": "https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160893,
+      "name": "Matters",
+      "url": "https://open.spotify.com/track/2IGM8jCcofLS21rb470Dx3"
     },
     {
       "album": {
@@ -1227,6 +1321,24 @@
       "duration_ms": 185692,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0U89UMbHG9vNnFL6C8jg83"
+    },
+    {
+      "album": {
+        "name": "NFT",
+        "url": "https://open.spotify.com/album/6cArwyqwTDxtB356C0Yqxx"
+      },
+      "artists": [
+        {
+          "name": "MC HotDog",
+          "url": "https://open.spotify.com/artist/4maR8o69pil8CrclOiFVVW"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189631,
+      "name": "NFT",
+      "url": "https://open.spotify.com/track/5xlKFvRWeWECMHDbblKC9W"
     },
     {
       "album": {
@@ -1461,7 +1573,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 168440,
       "name": "Small Town Love",
       "url": "https://open.spotify.com/track/7n5x0KmDfJJ3BRVs0Dkk7S"
@@ -1661,7 +1773,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 132923,
       "name": "Tears and Rain",
       "url": "https://open.spotify.com/track/4gzsUn5fAd068VRCen6CN5"
@@ -1683,6 +1795,28 @@
       "duration_ms": 168207,
       "name": "That Guy",
       "url": "https://open.spotify.com/track/4UkZekZxjzovQ3ErAQadFq"
+    },
+    {
+      "album": {
+        "name": "Through The Night",
+        "url": "https://open.spotify.com/album/1C9RdQieUsv3B1L5NUjYjv"
+      },
+      "artists": [
+        {
+          "name": "Keev",
+          "url": "https://open.spotify.com/artist/2KS5HYsDqrlhrMDLcxWoAK"
+        },
+        {
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166997,
+      "name": "Through The Night",
+      "url": "https://open.spotify.com/track/3vnPw6ErvNgjYpwaEACaex"
     },
     {
       "album": {
@@ -1785,7 +1919,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 206400,
       "name": "Transmit",
       "url": "https://open.spotify.com/track/6wfDvTvLPTdQrNiflzjY73"
@@ -1807,6 +1941,28 @@
       "duration_ms": 170078,
       "name": "UP&DOWN",
       "url": "https://open.spotify.com/track/5H8NcZ1TrMzRZRBB7yKcaj"
+    },
+    {
+      "album": {
+        "name": "WANT TOO",
+        "url": "https://open.spotify.com/album/76c574QgbdN4As2a8yvspS"
+      },
+      "artists": [
+        {
+          "name": "Ben Wu",
+          "url": "https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM"
+        },
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163882,
+      "name": "WANT TOO",
+      "url": "https://open.spotify.com/track/1xBLUezHIborqtET1vkfcY"
     },
     {
       "album": {
@@ -1891,7 +2047,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 208209,
       "name": "WOW \u7121\u6cd5\u8a00\u55bb",
       "url": "https://open.spotify.com/track/52Z5Cl9r0x0IEvK0DnzKrt"
@@ -2127,7 +2283,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 226516,
       "name": "\u4f60\u628a\u9748\u9b42\u5f04\u54ea\u5152\u53bb\u5566 | from \u8a69\u4eba\u9673\u5947\u96f2 \u2014\u300a\u6efe\u52d5\u7684\u8a69\u300b\u97f3\u6a02\u7d00\u5be6",
       "url": "https://open.spotify.com/track/6LxIf45hpCvYhzTV0s9I3P"
@@ -2287,7 +2443,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 171413,
       "name": "\u59b9\u59b9",
       "url": "https://open.spotify.com/track/0aue1Pz7kyJ1vLRlaCMxTx"
@@ -2866,6 +3022,46 @@
     },
     {
       "album": {
+        "name": "\u540c\u7406",
+        "url": "https://open.spotify.com/album/4nT7s21AuoufYR4FcLqvKR"
+      },
+      "artists": [
+        {
+          "name": "\u540c\u7406 Zunya",
+          "url": "https://open.spotify.com/artist/3tsoImRDSW4JEcL2CdIUmo"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178965,
+      "name": "\u70cf\u6709",
+      "url": "https://open.spotify.com/track/1jKJOUckSjJxQYf8Fdhxrf"
+    },
+    {
+      "album": {
+        "name": "\u70ed\u7231 (Time To Shine)",
+        "url": "https://open.spotify.com/album/3skmtSmmmpFBpMY9CAAB47"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        },
+        {
+          "name": "\u5c3c\u514b\u00b7\u6768 Nick Young",
+          "url": "https://open.spotify.com/artist/5YmfP5A5BU22KFuriFRy0S"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174615,
+      "name": "\u70ed\u7231 - Time To Shine",
+      "url": "https://open.spotify.com/track/1jXbfYowSA3RZrQIMW1klF"
+    },
+    {
+      "album": {
         "name": "\u7149\u4e73",
         "url": "https://open.spotify.com/album/47LhR3PYIsVaOUVPCpU8mX"
       },
@@ -3223,6 +3419,50 @@
       "duration_ms": 210941,
       "name": "\u89ba Ft. \u5927\u652f (Prod. Huangfu)",
       "url": "https://open.spotify.com/track/663jMP0u7pzqbcO6Widk9H"
+    },
+    {
+      "album": {
+        "name": "\u8aaa\u8d70\u5c31\u8d70",
+        "url": "https://open.spotify.com/album/2bM8neOD7vfiTdh3NPT6Bt"
+      },
+      "artists": [
+        {
+          "name": "MC\u8000\u5b97",
+          "url": "https://open.spotify.com/artist/0P5VW67DISdcNKmRs18ldO"
+        },
+        {
+          "name": "\u827e\u745e",
+          "url": "https://open.spotify.com/artist/7pYoJ7Feoy97o7MHFx6qV1"
+        },
+        {
+          "name": "Zephyr Wu",
+          "url": "https://open.spotify.com/artist/5eTBl95OAM2pdfOcTxrVYk"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226516,
+      "name": "\u8aaa\u8d70\u5c31\u8d70",
+      "url": "https://open.spotify.com/track/4u2ZKOTSirSvlnEuY9KpWj"
+    },
+    {
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5btVlzBS32W1k3EZnLDaYo"
+      },
+      "artists": [
+        {
+          "name": "Yappy",
+          "url": "https://open.spotify.com/artist/28G5rtbvCmWsjyp5G6LwMe"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144413,
+      "name": "\u8b77\u7167",
+      "url": "https://open.spotify.com/track/2aUyM6gdYD0HaL0zcVBlXC"
     },
     {
       "album": {
@@ -3669,7 +3909,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 112340,
       "name": "\u9ed1\u7684\u767d\u7684",
       "url": "https://open.spotify.com/track/2VqAYyCG868GFJxXjyBhhb"

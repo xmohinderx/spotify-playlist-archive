@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128422,
+  "num_followers": 128421,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQ0OCw4NGE3NzBlNmZhMzkxM2MxZWU2YTRjMGQ3YzQyNTMyMDlmOWU4YTA1",
+  "snapshot_id": "MzQ0OSxlMTM4MWI1YmNhYzQ0MzMxNGQwMDUzNDI2Y2FhMmVmZmI3OTI0MGE1",
   "tracks": [
+    {
+      "added_at": "2022-06-06 05:24:54",
+      "album": {
+        "name": "Grit",
+        "url": "https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "duration_ms": 283125,
+      "name": "Grit",
+      "url": "https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl"
+    },
     {
       "added_at": "2022-06-03 16:17:10",
       "album": {

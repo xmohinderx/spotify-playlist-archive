@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382 likes - 219 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 384 likes - 219 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,8 +215,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 205 | [Older and Far Away](https://open.spotify.com/track/2F3MQjcHIlkwiPkYTgePiI) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 2:50 |
 | 206 | [Dead Things](https://open.spotify.com/track/4ExJ0E2A5uyMTcakCFA4vr) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 3:38 |
 | 207 | [Normal Again](https://open.spotify.com/track/5J7LWXbPHWibFIP2xP63Pf) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 2:35 |
-| 208 | [Hell's Bells](https://open.spotify.com/track/2qcdSOytptCu0TB3IWl6CS) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 2:43 |
-| 209 | [Grave](https://open.spotify.com/track/7wk4SvMZYbxY9SaimMg29x) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 3:24 |
+| 208 | [Grave](https://open.spotify.com/track/7wk4SvMZYbxY9SaimMg29x) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 3:24 |
+| 209 | [Hell's Bells](https://open.spotify.com/track/2qcdSOytptCu0TB3IWl6CS) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 2:43 |
 | 210 | [Got A Lot To Give](https://open.spotify.com/track/6bCNnqOrvzzRSE3gmLgaAN) | [Obvious Choice](https://open.spotify.com/artist/4HqDCO1kaGIPOi0KnkSgGt) | [An Obvious Christmas](https://open.spotify.com/album/154K6f4mYHXynxjQHDzWTu) | 2:41 |
 | 211 | [Still Life](https://open.spotify.com/track/1a2vU3uStDJKQDmvi9k5ju) | [Bell Horses](https://open.spotify.com/artist/2AdoTCFp76OEjtdSM1NZvC) | [This Loves Last Time](https://open.spotify.com/album/5ZPOnEFbI3BgWS1vHair0O) | 3:33 |
 | 212 | [The Storm](https://open.spotify.com/track/2M4PMLkDNllrEsf7MeWBB3) | [Bell Horses](https://open.spotify.com/artist/2AdoTCFp76OEjtdSM1NZvC) | [This Loves Last Time](https://open.spotify.com/album/5ZPOnEFbI3BgWS1vHair0O) | 2:32 |
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 218 | [Wow Wow Wow](https://open.spotify.com/track/1LexMbAap7y77uKFMtRr53) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:22 |
 | 219 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `Mjc1NzQ2MzAsMDAwMDAwMDBkNmEyMDNmNDVjMWIwYzJiNDgxMDQzMWQxOWY2Y2U5Yg==`
+Snapshot ID: `Mjc1NzYwNzAsMDAwMDAwMDBjODg1MmVkOGFkM2VjNDYxMmJjMGExMWM5ZDdjOTA1NQ==`

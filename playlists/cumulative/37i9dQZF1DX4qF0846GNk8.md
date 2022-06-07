@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر\. الغلاف: حوده بندق
 
-67 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
+68 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Tarsh](https://open.spotify.com/track/5iuZ87tYtYAfd4VkuzN4Zl) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Ordne](https://open.spotify.com/artist/6eEgtjJ64JAlgjqyBPzkqH) | [Tarsh](https://open.spotify.com/album/30watsIksrxiSzUcTLC1FE) | 2:43 | 2021-12-16 |  |
 | [Weyyak](https://open.spotify.com/track/1hCT1bsFmcuqi9HRP1ilf0) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [Weyyak](https://open.spotify.com/album/4Hy7xGPu9rQ3qSv6dWNrym) | 2:54 | 2021-12-16 |  |
 | [اخرس عمك جالك](https://open.spotify.com/track/7xY05LQHDQJFxvZrEzStsY) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [اخرس عمك جالك](https://open.spotify.com/album/6FaNLCBZEMml6pu9shmRPc) | 5:44 | 2022-02-01 |  |
-| [البارتي ديرتي](https://open.spotify.com/track/0NAM1l5YnUEJvKqC8pZDF4) | [Abdo Sytra](https://open.spotify.com/artist/5MeN7kXMYIcFgmP1yZdKIz) | [البارتي ديرتي](https://open.spotify.com/album/3BOUO7WfdhslWwmxX8wZ8A) | 2:38 | 2021-12-16 |  |
+| [البارتي ديرتي](https://open.spotify.com/track/0NAM1l5YnUEJvKqC8pZDF4) | [Abdo Sytra](https://open.spotify.com/artist/5MeN7kXMYIcFgmP1yZdKIz) | [البارتي ديرتي](https://open.spotify.com/album/3BOUO7WfdhslWwmxX8wZ8A) | 2:38 | 2021-12-16 | 2022-06-07 |
 | [الباشا](https://open.spotify.com/track/1qh5fjEI0AwX2QikxLwZLi) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [الباشا](https://open.spotify.com/album/5f8WADVIGDIr3nrlVATVJl) | 2:44 | 2022-03-30 |  |
 | [اللي باعو بالسلامة \- Back Catalog](https://open.spotify.com/track/4UMvvZ7769yVSV7U0t8idv) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [شارع 3 \- ST3](https://open.spotify.com/artist/6ho7BWPqO3FmLyfJw3rnbo) | [اللي باعو بالسلامة](https://open.spotify.com/album/5CSZhvBiT1PXnbp0xxV4V8) | 3:15 | 2021-12-16 |  |
 | [امبابه خط احمر](https://open.spotify.com/track/3tHO4bS7JzQmvQ5oRkb9NG) | [Mido Gad](https://open.spotify.com/artist/6ZcugQ1o2uf7lkFEage28f), [Biano](https://open.spotify.com/artist/574o3MQdD1Elms1LrN7KKC) | [امبابه خط احمر](https://open.spotify.com/album/0IT9G5uKu2dJcxRRABWGo0) | 3:25 | 2021-12-16 | 2022-01-11 |
@@ -38,6 +38,7 @@
 | [جامد](https://open.spotify.com/track/7dhkgivsendkxVgtB9zZo6) | [Mido Gad](https://open.spotify.com/artist/6ZcugQ1o2uf7lkFEage28f) | [جامد](https://open.spotify.com/album/50Bc0tbgEIIQ1imsPKeZkO) | 3:00 | 2021-12-16 |  |
 | [خصمي بكيفه مكتفه \- انا مش بتكسف يا ابلتي](https://open.spotify.com/track/3Kroxt7mnIUfSDFGpWF5yJ) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [خصمي بكيفه مكتفه \(انا مش بتكسف يا ابلتي\)](https://open.spotify.com/album/369scONG77YROb5sy7AnTt) | 4:33 | 2022-03-30 | 2022-06-03 |
 | [خطر \(ياللي سيرتي تعباك\)](https://open.spotify.com/track/1C6pNXiVfcKO49JttTv0xJ) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [خطر \(ياللي سيرتي تعباك\)](https://open.spotify.com/album/6nXBRUkDo8ttEm2DItn3sY) | 4:00 | 2021-12-16 |  |
+| [خطوة اجباري](https://open.spotify.com/track/06h6dQDVdXjnIOXGXabW02) | [نور النبوي](https://open.spotify.com/artist/2lvyyBvz0mMzl57uxbzQ15), [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [خطوة اجباري](https://open.spotify.com/album/74il7VqlKq7JEM1oiTrIm5) | 1:50 | 2022-06-06 |  |
 | [شقطت منك حبيبتك ياعم](https://open.spotify.com/track/1BApx7glGPbKRZ4Tqomd2f) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [شقطت منك حبيبتك ياعم](https://open.spotify.com/album/7qWys684xM31U3iRKfQKyl) | 6:02 | 2021-12-16 |  |
 | [شيماء](https://open.spotify.com/track/4neYwcLQvLZ6kEdgF0cicX) | [يوسف سوسته](https://open.spotify.com/artist/5jpOJNLKX0WO5HD5Ku8FiD) | [شيماء](https://open.spotify.com/album/1iyn88en2SMsBTW6JEUMmf) | 2:04 | 2021-12-16 |  |
 | [صاحبي من غبائه](https://open.spotify.com/track/3RLpfYSIQlW1YI6bIexpUy) | [Mody Amin](https://open.spotify.com/artist/65PQtmRWkjiL4TrRyLo2Gx), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [صاحبي من غبائه](https://open.spotify.com/album/1K9oCdpNQGZfDGDvHzLEbb) | 4:09 | 2021-12-16 | 2022-02-17 |

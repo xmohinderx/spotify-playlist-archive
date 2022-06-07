@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 151200,
       "name": "Baddest",
       "url": "https://open.spotify.com/track/65ffWlQCk6XeKX50CDYgib"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 313548,
       "name": "Breng",
       "url": "https://open.spotify.com/track/6vzqgrHOThby3HvNfSRLwY"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 128444,
       "name": "Can't Get You out of My Head",
       "url": "https://open.spotify.com/track/2Vld4tt2tCLlTI86owjykK"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 181050,
       "name": "Dive Deep",
       "url": "https://open.spotify.com/track/44tD1vxOZZil91wOnaAxVh"
@@ -1203,7 +1203,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 124321,
       "name": "DUTTY WINE",
       "url": "https://open.spotify.com/track/4YNvXOA0AERBT5ZCNylYLU"
@@ -1579,7 +1579,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 186080,
       "name": "Gaz",
       "url": "https://open.spotify.com/track/0Lg5AjgoXg3HchcYypa86h"
@@ -1623,7 +1623,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 155714,
       "name": "Get in Trouble (So What) - Lilo Remix",
       "url": "https://open.spotify.com/track/0dmUBjkwsT8aQg1qlbkLso"
@@ -1693,7 +1693,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 174248,
       "name": "Glowing Up (feat. Tudor & TUSO)",
       "url": "https://open.spotify.com/track/4JR7hMybbPl8jjJxXDxRXd"
@@ -1813,7 +1813,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 208840,
       "name": "Hashish de blaa",
       "url": "https://open.spotify.com/track/3xBwIEVxgGCjDSKMpUnwTK"
@@ -1861,7 +1861,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/4il7cillEo8yKHdlBOP0Qy"
@@ -2027,7 +2027,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 161760,
       "name": "Hypnotize (feat. Gia Koka)",
       "url": "https://open.spotify.com/track/3AznR0jUusYPFmgERW8mwd"
@@ -2119,7 +2119,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 121846,
       "name": "IN I DIMMAN",
       "url": "https://open.spotify.com/track/0gMzdZiPujscbcFS8iTbzN"
@@ -2141,6 +2141,40 @@
       "duration_ms": 173692,
       "name": "In i dimman",
       "url": "https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs"
+    },
+    {
+      "album": {
+        "name": "Invisible Friend (feat. Paradigm & Sarah De Warren) [Da Tweekaz Remix]",
+        "url": "https://open.spotify.com/album/15OzE1VcJVTq4KF48nbIuQ"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Max + Johann",
+          "url": "https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow"
+        },
+        {
+          "name": "Paradigm",
+          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174227,
+      "name": "Invisible Friend (feat. Sarah De Warren) - Da Tweekaz Remix",
+      "url": "https://open.spotify.com/track/2vtRszBTi8F6wRbPaXFaEU"
     },
     {
       "album": {
@@ -2225,7 +2259,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 163832,
       "name": "Just In Case",
       "url": "https://open.spotify.com/track/2AAMkITmFcCL9MtTKFui2k"
@@ -2335,7 +2369,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 179092,
       "name": "Leave The World Behind (feat. Alida)",
       "url": "https://open.spotify.com/track/7iVcAvK53hv3l2lHFzCyhW"
@@ -2515,7 +2549,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 164516,
       "name": "Like That",
       "url": "https://open.spotify.com/track/6PJyds9wetrvAY5ymoY0yJ"
@@ -2769,7 +2803,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2ImJRXPtx4meYZ4DkhSU89"
@@ -2787,7 +2821,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 156013,
       "name": "Mon fr\u00e9re",
       "url": "https://open.spotify.com/track/1TzDpGGfnd5MfoFQCnySZF"
@@ -2887,7 +2921,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 219000,
       "name": "My Feelings",
       "url": "https://open.spotify.com/track/7DIXoZRRwog4KbDTIN7fgN"
@@ -3063,7 +3097,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
@@ -3239,7 +3273,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 220082,
       "name": "Patience (feat. Kayla Rose)",
       "url": "https://open.spotify.com/track/4SiaZNahXQ9oTzPPTxZaox"
@@ -3261,6 +3295,28 @@
       "duration_ms": 219310,
       "name": "PCP",
       "url": "https://open.spotify.com/track/72H8hxvjqEzfsb3uB4gzvo"
+    },
+    {
+      "album": {
+        "name": "Peppelinos bar (EPA Remix)",
+        "url": "https://open.spotify.com/album/5x6C3HmJh4XsUiWiM7W9wT"
+      },
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+        },
+        {
+          "name": "N!NE",
+          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170560,
+      "name": "Peppelinos bar - N!NE EPA Remix",
+      "url": "https://open.spotify.com/track/2E9kAui8OwLU50kCvLQtiE"
     },
     {
       "album": {
@@ -3337,7 +3393,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 123821,
       "name": "pSyKoSeN",
       "url": "https://open.spotify.com/track/6X7t9Do69hFpUKbpgpMrBy"
@@ -4009,7 +4065,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 180588,
       "name": "SKOGSREJV",
       "url": "https://open.spotify.com/track/3DJKeDQuJirUgKfKPNWZIQ"
@@ -4031,7 +4087,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 149822,
       "name": "SK\u00c5L",
       "url": "https://open.spotify.com/track/0H7EEBVrmoupdLzj22cXDp"
@@ -4141,7 +4197,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/65tQ1ZL4Q5uKsghVoj1O8o"
@@ -4233,7 +4289,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 157619,
       "name": "Spectrum (Say My Name)",
       "url": "https://open.spotify.com/track/2DRJ8zX1cHBr2DyVJNcQhu"
@@ -4521,7 +4577,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 220653,
       "name": "Svensson Style",
       "url": "https://open.spotify.com/track/6u68dQ1oJYFCX4KOUkrZt0"
@@ -4565,7 +4621,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/0uIwEMEjZDGrZ3NvxK3T9F"
@@ -4591,6 +4647,28 @@
       "duration_ms": 136190,
       "name": "Sweet Harmony",
       "url": "https://open.spotify.com/track/6kZBa2wVfTaGAdoLa3dVAP"
+    },
+    {
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/03kqKRC47wMheyn9GEpWqB"
+      },
+      "artists": [
+        {
+          "name": "Quickdrop",
+          "url": "https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa"
+        },
+        {
+          "name": "Axel Oliver",
+          "url": "https://open.spotify.com/artist/32TdmnKAhRkuXvBmUX6dcE"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153003,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/2PKvcWsT8pQVI11zgooNbB"
     },
     {
       "album": {
@@ -5153,7 +5231,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Turn The Lights Down Low (with R3HAB)",
       "url": "https://open.spotify.com/track/6k330QxFV5VXZSDj5wTUNR"
@@ -5517,7 +5595,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 179600,
       "name": "Who U Gonna Love (feat. Amber Van Day)",
       "url": "https://open.spotify.com/track/7HKwY4vWe6W5TjSdIG4w8d"

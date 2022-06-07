@@ -3180,6 +3180,28 @@
     },
     {
       "album": {
+        "name": "Marvel House Ep",
+        "url": "https://open.spotify.com/album/415c3UtX7HeTkMi20QEYxc"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Thurman",
+          "url": "https://open.spotify.com/artist/7cyIjesBT6mLJcJ5RRsjeM"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383647,
+      "name": "Marvel House",
+      "url": "https://open.spotify.com/track/4LFZaQ5QZqY0QSNcUpWbPx"
+    },
+    {
+      "album": {
         "name": "Mash up the Dance",
         "url": "https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv"
       },

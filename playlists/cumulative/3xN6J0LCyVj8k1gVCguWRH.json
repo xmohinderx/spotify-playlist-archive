@@ -3232,6 +3232,24 @@
     },
     {
       "album": {
+        "name": "Blue, Baby",
+        "url": "https://open.spotify.com/album/2aUZQH93kb1NC7iYtp4n5b"
+      },
+      "artists": [
+        {
+          "name": "Botaii",
+          "url": "https://open.spotify.com/artist/0FsuDCPtrx3MQka05c0rWv"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176489,
+      "name": "Blue, Baby",
+      "url": "https://open.spotify.com/track/186NWFVx7nXJX66eFgCY36"
+    },
+    {
+      "album": {
         "name": "Boardwalk",
         "url": "https://open.spotify.com/album/6X4pmVkbNI859VJbY0E8r0"
       },

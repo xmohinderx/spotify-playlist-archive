@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 148500,
       "name": "ANSIA NO",
       "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 152764,
       "name": "BABY",
       "url": "https://open.spotify.com/track/4rAXvF3Bh1MZlHAVsmI890"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 240245,
       "name": "Bimbi",
       "url": "https://open.spotify.com/track/7uPI3Q0Ke3Thl0z1xzvXFn"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 208853,
       "name": "BUONANOTTE \u2748 (con NOYZ NARCOS, FRANCO126 & SIDE BABY)",
       "url": "https://open.spotify.com/track/05Wr6HJmrXiK42rE7Gu8FB"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 228975,
       "name": "Cambiare Adesso",
       "url": "https://open.spotify.com/track/01MJgnPL3AuwmYQ4EbHzD7"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 142718,
       "name": "Candy",
       "url": "https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 200146,
       "name": "Catrame (feat. Tedua)",
       "url": "https://open.spotify.com/track/5qbVso0dAtoI2gFhj7V8oG"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 188145,
       "name": "Fiori del male (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/7J4P2IKh5pCBpSfGs5gaGy"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 176000,
       "name": "Fuego (with Geolier & Lele Blade) - Prod. Poison Beatz, Tom Trigger",
       "url": "https://open.spotify.com/track/6XPYGFacwZAtmoSVi9m4eT"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 177036,
       "name": "HO PAURA DI USCIRE 2 - prod. Mace",
       "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 209791,
       "name": "Keanu Reeves (feat. Achille Lauro)",
       "url": "https://open.spotify.com/track/1MGXWglFoINJdrcp2W0U0w"
@@ -1467,7 +1467,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 196000,
       "name": "Narcos",
       "url": "https://open.spotify.com/track/1BdmcsFAODQR4x7eiOuRVf"
@@ -1620,6 +1620,28 @@
     },
     {
       "album": {
+        "name": "23 6451",
+        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
+      },
+      "artists": [
+        {
+          "name": "tha Supreme",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204467,
+      "name": "oh 9od - feat. Nayt",
+      "url": "https://open.spotify.com/track/5Qy9jtZdxUnFXmgPp3u5VZ"
+    },
+    {
+      "album": {
         "name": "On Gang",
         "url": "https://open.spotify.com/album/4ahEyuk0XCJ3tdQZLWKZsD"
       },
@@ -1713,7 +1735,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 203414,
       "name": "PAROLA - feat. Lazza, Emis Killa",
       "url": "https://open.spotify.com/track/4XxQOwmNM0DF3bKafSJBNw"
@@ -1953,7 +1975,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 245197,
       "name": "Salvador Dal\u00ec",
       "url": "https://open.spotify.com/track/4Dub4JaxFLCeb2NqFsLiZ2"
@@ -2065,7 +2087,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 209565,
       "name": "SEVEN 7oo (feat. Rondodasosa, Sacky, Vale Pain, Neima Ezza, Kilimoney, Keta, Nko)",
       "url": "https://open.spotify.com/track/2KYLg9El0wzvX4S13CDoZf"
@@ -2083,7 +2105,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 199000,
       "name": "Simba",
       "url": "https://open.spotify.com/track/69d3X2Nv5AWHUeTktfOqpV"
@@ -2127,7 +2149,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 208233,
       "name": "SLIME (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/13Iu4OXlnP5vUQ0rgXR6e3"
@@ -2171,7 +2193,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 183797,
       "name": "Soldi in Nero - feat. Sfera Ebbasta",
       "url": "https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7"
@@ -2197,7 +2219,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 186066,
       "name": "Solletico (feat. Tedua & The Night Skinny)",
       "url": "https://open.spotify.com/track/6gan8nbS78t2sUy0M9UpAX"
@@ -2341,7 +2363,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 223045,
       "name": "SUPREME - L'ego (feat. tha Supreme & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/5EpBEqf5bnKeJ3p4zA1Sod"
@@ -2385,7 +2407,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 185146,
       "name": "Tesla (feat. Sfera Ebbasta & DrefGold)",
       "url": "https://open.spotify.com/track/093RgZ7RXHZwIrxZhZYX4Q"
@@ -2443,7 +2465,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Trankilo",
       "url": "https://open.spotify.com/track/4hwwDxMDxwNbCyUJuI5sLa"
@@ -2553,7 +2575,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 203040,
       "name": "Vertigini",
       "url": "https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU"
@@ -2571,7 +2593,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 187573,
       "name": "Visiera A Becco",
       "url": "https://open.spotify.com/track/0nB7VgMGBTeOIO6LXwOvEJ"
@@ -2657,7 +2679,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 293590,
       "name": "YOSHI (feat. thasup, Fabri Fibra & Capo Plaza) - prod. Strage [Remix]",
       "url": "https://open.spotify.com/track/0VU34EBWTAlHVIZE3aWlZA"

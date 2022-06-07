@@ -4,7 +4,7 @@
 
 > Let the music flow through you...
 
-88 songs - 5 hr 24 min - not published yet
+88 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/1ARK1a9pdFLy7LDb3sdMHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

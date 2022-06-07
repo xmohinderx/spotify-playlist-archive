@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Would Be\) Grateful](https://open.spotify.com/track/4XzrcuI4PKbuQU1E347ed2) | [Kitt](https://open.spotify.com/artist/1hsAuVzLaC3fM5xk2PpdSy) | [\(I Would Be\) Grateful](https://open.spotify.com/album/3lKECaEhm6tDUaTCGucJvW) | 4:16 | 2022-04-01 | 2022-05-07 |
-| [100 Degrees](https://open.spotify.com/track/2FsseXANzQHyqOProO6h6O) | [LolaBunz](https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa) | [100 Degrees](https://open.spotify.com/album/3VFR32laZ7wVSpSdt0nowX) | 2:57 | 2022-06-03 |  |
+| [100 Degrees](https://open.spotify.com/track/2FsseXANzQHyqOProO6h6O) | [LolaBunz](https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa) | [100 Degrees](https://open.spotify.com/album/3VFR32laZ7wVSpSdt0nowX) | 2:57 | 2022-06-03 | 2022-06-07 |
 | [100 MILLION NO SETTLE](https://open.spotify.com/track/1AddChNyfYn0wpyxRsflYW) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [100 MILLION NO SETTLE](https://open.spotify.com/album/7AlGSjBZMCRyYDTrjG1Xrx) | 3:27 | 2022-01-07 | 2022-02-05 |
 | [2AM \(And I Did It Again\)](https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [2AM \(And I Did It Again\)](https://open.spotify.com/album/2SAQ4W2EiZFbcZNEhubkLG) | 3:15 | 2021-12-06 | 2022-01-08 |
 | [300](https://open.spotify.com/track/7r5grL8qyyy0lmujA3pneU) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [300](https://open.spotify.com/album/3Z3fXpDs9XqGrHKlbLeAZp) | 2:47 | 2022-02-04 | 2022-03-05 |

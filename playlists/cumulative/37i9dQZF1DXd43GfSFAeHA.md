@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: Wegz
 
-100 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
+101 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [عفاريت الأسفلت](https://open.spotify.com/track/4uNc5GMR6a5az5U3Ghdyf8) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عفاريت الأسفلت](https://open.spotify.com/album/1fwFqGqTUEwm4n1m8vX9J1) | 3:24 | 2022-05-08 |  |
 | [فودكا وسيريلاك \- Prod\. By Zoog](https://open.spotify.com/track/7FgYvRDkqMWlUVcIScg40p) | [El Rass](https://open.spotify.com/artist/70JnprmV5bM5nyZ8YeZbDc) | [فودكا وسيريلاك \(Prod\. By Zoog\)](https://open.spotify.com/album/12RwT1BYaegG69bMhGlYfj) | 3:00 | 2022-05-08 |  |
 | [قيود](https://open.spotify.com/track/3jaY0nkYO9qFBjA4XNEZtI) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [قيود](https://open.spotify.com/album/3ipg4bP7o5IWZP44gtWX0W) | 2:56 | 2022-05-08 |  |
+| [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 | 2022-06-06 |  |
 | [كِخ](https://open.spotify.com/track/4DR2qwQubTm9GpRodqYvis) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [كِخ](https://open.spotify.com/album/44FvX2fCYGeRX2iRKzmYeM) | 3:05 | 2022-05-08 | 2022-05-27 |
 | [مش فير](https://open.spotify.com/track/1JdRPaDFswfqCpAhBPKqUw) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [مش فير](https://open.spotify.com/album/3CIm2qnP74RIoein82TmMs) | 3:50 | 2022-05-08 |  |
 | [مكاني](https://open.spotify.com/track/5fCPssqX4KCPXclpq08BU0) | [Skinnyg](https://open.spotify.com/artist/7xMzHcQVj9mPV6W5fTq6go) | [مكاني](https://open.spotify.com/album/6VAAvWMaGOlREg2owEvsKE) | 3:32 | 2022-05-08 |  |

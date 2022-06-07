@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: boyish
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,889 likes - 110 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,147 likes - 110 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

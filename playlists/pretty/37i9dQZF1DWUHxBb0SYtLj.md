@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: ANNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,079 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,087 likes - 47 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 35 | [nnsnqua](https://open.spotify.com/track/4ASkj4KXGmPq919CutP8nw) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [nnsnqua](https://open.spotify.com/album/0Z7c6sUnJ4TmWFauNWOGmX) | 2:18 |
 | 36 | [Cimitero acattolico](https://open.spotify.com/track/3CZi9dtAQ6GocbpkrEqAIh) | [PRISCILLA](https://open.spotify.com/artist/0eVN4q9aIBkLZe4FtETm5D) | [Cimitero acattolico](https://open.spotify.com/album/1aWLaXgW70zYGNMtgeSIYZ) | 2:54 |
 | 37 | [Riviera Rivoli](https://open.spotify.com/track/7Li82T0gHeyBCXmh1wnG3D) | [clauscalmo](https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR) | [Riviera Rivoli](https://open.spotify.com/album/7zzOGDqB22Ln2i763ZGJxZ) | 2:51 |
-| 38 | [Pareti Azzurre](https://open.spotify.com/track/4xMdC91l1BJukWYa6zV8Ul) | [Ofelia](https://open.spotify.com/artist/4AMX8kNDeM0GF5X9IK7ENV), [Blue Jeans](https://open.spotify.com/artist/1s7cfaISyGC1cPTzkT0HD1) | [Pareti Azzurre](https://open.spotify.com/album/0ypk5PGw36fQr94werHbVn) | 2:40 |
-| 39 | [Marmellata](https://open.spotify.com/track/0XKcKoDQtBKZMymi3aNkpT) | [Hello Mimmi](https://open.spotify.com/artist/3IifAvWIrEkwQlXr5e97w7), [Aegeminus](https://open.spotify.com/artist/2UJLlfZSc3wzkT5PVG8zRN) | [MIMMIMANIA \(Vol\. 1\)](https://open.spotify.com/album/0Nj1Y7WvUP8WpyxUbDK1Ip) | 4:06 |
-| 40 | [Lo\-Fi Love](https://open.spotify.com/track/6CYmeURWTreGKriMFHcPiV) | [giuliettacome](https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR) | [Lo\-Fi Love](https://open.spotify.com/album/7wABqEPQRQxxIpc5Ng3i4r) | 3:40 |
-| 41 | [Bad Habits](https://open.spotify.com/track/7yrarQCL87CIAmiqm85DG0) | [Bianca Ventura](https://open.spotify.com/artist/5WTGO25DQgKOWnQtSvoNbR) | [Bad Habits](https://open.spotify.com/album/3ZfBvSBao0yS0MDU2vCOyZ) | 3:03 |
-| 42 | [Hot Thing](https://open.spotify.com/track/1HigmdWZNe4G1K7KklpsDp) | [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [Hot Thing](https://open.spotify.com/album/6h0asJFNiWmM0tNapbJKyF) | 2:56 |
-| 43 | [At Your Gamut](https://open.spotify.com/track/43L6jRPsQnoCq2cEL7dHoj) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [At Your Gamut](https://open.spotify.com/album/6r4Bsy49xNkQlBr3UpUqNW) | 7:06 |
-| 44 | [Presomale](https://open.spotify.com/track/1yTL9myg713kZwj1RdrfAE) | [Marta Tenaglia](https://open.spotify.com/artist/0WqwCCw0Rn6Egu9rFFPQNi) | [Guarda Dove Vai](https://open.spotify.com/album/7rDPX4SkNh8XrUBNdLLZkA) | 2:56 |
-| 45 | [ANSIA](https://open.spotify.com/track/3lokS66vRCUis4mEjF5KBu) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [ANSIA](https://open.spotify.com/album/4m0F5qV5tyn31UMUpjdYRy) | 2:52 |
-| 46 | [.cenere](https://open.spotify.com/track/4VhfCuUVbNOS9zpLMCUv7Y) | [.ANAMIRTA](https://open.spotify.com/artist/152NNCTZGUSRhS2geGSN4n) | [.cenere](https://open.spotify.com/album/4J1KwARJ9A7sioJiQyXBiO) | 2:47 |
-| 47 | [Buonanotte](https://open.spotify.com/track/1RystKYUYk8PxMLIbINfp2) | [Rosita Brucoli](https://open.spotify.com/artist/54NpXfCoi3rF521bElu2zQ) | [Camminare e Correre](https://open.spotify.com/album/4dupgjh7vhIVialwrPBWms) | 3:10 |
-| 48 | [LONTANO](https://open.spotify.com/track/6Sm75ZYTB4KVWfMixQ3QhB) | [REA](https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev) | [LONTANO](https://open.spotify.com/album/05nTooGaJx8ctPmHmRmxOn) | 2:59 |
-| 49 | [Un giorno al mare](https://open.spotify.com/track/05LIT8zExPFkV9HofkvJjq) | [Tarsia](https://open.spotify.com/artist/0GxuYc2fmF18sLmWU53zH5) | [Un giorno al mare](https://open.spotify.com/album/6dI6lvfcGdcYjTiCixDaFK) | 2:55 |
-| 50 | [Chiedimi](https://open.spotify.com/track/1EnonD74cHsJtqrNZDpvT8) | [Nudha](https://open.spotify.com/artist/0qW2PRyNIbZBtm6enEWjqE) | [NUDHA](https://open.spotify.com/album/1aYL5JopqGBtFtfBNB2gDr) | 3:30 |
+| 38 | [Marmellata](https://open.spotify.com/track/0XKcKoDQtBKZMymi3aNkpT) | [Hello Mimmi](https://open.spotify.com/artist/3IifAvWIrEkwQlXr5e97w7), [Aegeminus](https://open.spotify.com/artist/2UJLlfZSc3wzkT5PVG8zRN) | [MIMMIMANIA \(Vol\. 1\)](https://open.spotify.com/album/0Nj1Y7WvUP8WpyxUbDK1Ip) | 4:06 |
+| 39 | [Lo\-Fi Love](https://open.spotify.com/track/6CYmeURWTreGKriMFHcPiV) | [giuliettacome](https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR) | [Lo\-Fi Love](https://open.spotify.com/album/7wABqEPQRQxxIpc5Ng3i4r) | 3:40 |
+| 40 | [Hot Thing](https://open.spotify.com/track/1HigmdWZNe4G1K7KklpsDp) | [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [Hot Thing](https://open.spotify.com/album/6h0asJFNiWmM0tNapbJKyF) | 2:56 |
+| 41 | [At Your Gamut](https://open.spotify.com/track/43L6jRPsQnoCq2cEL7dHoj) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [At Your Gamut](https://open.spotify.com/album/6r4Bsy49xNkQlBr3UpUqNW) | 7:06 |
+| 42 | [ANSIA](https://open.spotify.com/track/3lokS66vRCUis4mEjF5KBu) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [ANSIA](https://open.spotify.com/album/4m0F5qV5tyn31UMUpjdYRy) | 2:52 |
+| 43 | [.cenere](https://open.spotify.com/track/4VhfCuUVbNOS9zpLMCUv7Y) | [.ANAMIRTA](https://open.spotify.com/artist/152NNCTZGUSRhS2geGSN4n) | [.cenere](https://open.spotify.com/album/4J1KwARJ9A7sioJiQyXBiO) | 2:47 |
+| 44 | [Buonanotte](https://open.spotify.com/track/1RystKYUYk8PxMLIbINfp2) | [Rosita Brucoli](https://open.spotify.com/artist/54NpXfCoi3rF521bElu2zQ) | [Camminare e Correre](https://open.spotify.com/album/4dupgjh7vhIVialwrPBWms) | 3:10 |
+| 45 | [LONTANO](https://open.spotify.com/track/6Sm75ZYTB4KVWfMixQ3QhB) | [REA](https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev) | [LONTANO](https://open.spotify.com/album/05nTooGaJx8ctPmHmRmxOn) | 2:59 |
+| 46 | [Un giorno al mare](https://open.spotify.com/track/05LIT8zExPFkV9HofkvJjq) | [Tarsia](https://open.spotify.com/artist/0GxuYc2fmF18sLmWU53zH5) | [Un giorno al mare](https://open.spotify.com/album/6dI6lvfcGdcYjTiCixDaFK) | 2:55 |
+| 47 | [Chiedimi](https://open.spotify.com/track/1EnonD74cHsJtqrNZDpvT8) | [Nudha](https://open.spotify.com/artist/0qW2PRyNIbZBtm6enEWjqE) | [NUDHA](https://open.spotify.com/album/1aYL5JopqGBtFtfBNB2gDr) | 3:30 |
 
-Snapshot ID: `MTY1NDIwNzMyMCwwMDAwMDAyNDAwMDAwMTgxMjY3MDkwMTQwMDAwMDE4MTE0NTE4YmE5`
+Snapshot ID: `MTY1NDU0ODQ3MSwwMDAwMDAyNTAwMDAwMTgxM2FjNjIwNWYwMDAwMDE4MTE0NTE4YmE5`

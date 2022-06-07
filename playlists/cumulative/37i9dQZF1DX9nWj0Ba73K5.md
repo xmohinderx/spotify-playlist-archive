@@ -2,9 +2,9 @@
 
 ### [Country Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5)
 
-> Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Aaron Raitiere
+> Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Nicolle Galyon
 
-193 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
+194 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Rocking Chair](https://open.spotify.com/track/2trulLYIXb48yr8KlTYpKd) | [Yesterday's Wine](https://open.spotify.com/artist/0tRBFOqzDBDH8XP3VC9kZN), [Wyatt Durrette](https://open.spotify.com/artist/3VZsRkLj2QtJBcYoHojb0k), [Levi Lowrey](https://open.spotify.com/artist/0nMJIZIXTK8H6f3fS1OlZ7) | [Rocking Chair](https://open.spotify.com/album/3tw58VPAIjS7IHMD9eAisS) | 3:59 | 2022-01-01 |  |
 | [Same Team](https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Same Team](https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs) | 2:54 | 2022-01-21 |  |
 | [Sangria](https://open.spotify.com/track/0kCKUX3wgd6c6da5I4vJIR) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:25 | 2022-01-01 |  |
-| [Say You Do](https://open.spotify.com/track/5Ru3FrpXdk3pJcdfvDzs5d) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Matthew Ramsey](https://open.spotify.com/artist/75Cucz3gHpGaJbD9yia27H) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:19 | 2022-01-01 |  |
+| [Say You Do](https://open.spotify.com/track/5Ru3FrpXdk3pJcdfvDzs5d) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Matthew Ramsey](https://open.spotify.com/artist/75Cucz3gHpGaJbD9yia27H) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:19 | 2022-01-01 | 2022-06-07 |
 | [Say You Do \(feat\. Matthew Ramsey\)](https://open.spotify.com/track/7hFrXzKRJkRNXa6575wCJZ) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C), [Matthew Ramsey](https://open.spotify.com/artist/75Cucz3gHpGaJbD9yia27H) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:27 | 2022-01-01 |  |
 | [See You Again](https://open.spotify.com/track/28nO80586CILwu5kNXj3NI) | [Jessi Alexander](https://open.spotify.com/artist/0reoezffSStQ3LSDaF15AS) | [Keeping It Original for Alive: A Celebration of Songwriters Benefiting Alive Hospice, Vol\. 1](https://open.spotify.com/album/1kwMPmio6OJkwHRYWK6q8p) | 3:24 | 2022-01-01 |  |
 | [Setting the World on Fire \(feat\. Josh Osborne\)](https://open.spotify.com/track/0no4JGUGADpduYExUgiizp) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 3:17 | 2022-01-01 |  |
@@ -201,5 +201,6 @@
 | [Wichita Lineman](https://open.spotify.com/track/4LKUWvk6kQDJSTkxP6TUYN) | [Jimmy Webb](https://open.spotify.com/artist/0YJUdunUDA1pTDxJ8AJlyB) | [Ten Easy Pieces](https://open.spotify.com/album/1ofvptZMmnekEQddIbdySL) | 4:15 | 2022-01-01 |  |
 | [Wild](https://open.spotify.com/track/0b1lMyBxI1KmBkROLwDz05) | [Marla Cannon\-Goodman](https://open.spotify.com/artist/74uAZmRdVsXyRNOPAS2Zxj) | [Perfect Imperfections](https://open.spotify.com/album/2JOhuGsvdV1Xkwpv4yWuxp) | 3:32 | 2022-01-01 |  |
 | [Wink](https://open.spotify.com/track/3npzejFbPBy7sJIbkvTuZl) | [Bob DiPiero](https://open.spotify.com/artist/3zqhEeEHP3dgmWuWUyJgRP) | [American Made](https://open.spotify.com/album/2kj7dIlQHGTU7QWi8etf6m) | 2:52 | 2022-01-01 |  |
+| [winner.](https://open.spotify.com/track/0nac6fGT0ROzUgG56c9RMZ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [winner.](https://open.spotify.com/album/1kWyKD40f10OOX1w68su1O) | 2:58 | 2022-06-06 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

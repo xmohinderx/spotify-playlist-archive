@@ -4,7 +4,7 @@
 
 > 🩹 \(in cover, shama 24k\)
 
-91 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+92 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Coma](https://open.spotify.com/track/3IDhVUhLK887aXrMPqqABm) | [Kiira](https://open.spotify.com/artist/0kagys5czAPiNwJcRvasF3) | [Coma](https://open.spotify.com/album/2oXhkdZy6gKV0OYrIEAQLN) | 2:29 | 2022-04-21 |  |
 | [Come noi](https://open.spotify.com/track/7zmqrn1vES0c7sTKXEl3P0) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Come noi](https://open.spotify.com/album/0SB9emzbP6YHcagKLZbabG) | 2:09 | 2022-04-21 |  |
 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 | 2022-04-21 |  |
-| [D\(Emo\)](https://open.spotify.com/track/2NMjPUdU1Ljw8wVUdoHDkD) | [nothx.](https://open.spotify.com/artist/1i8WJECAPI5Je4SgVuQLEX) | [D\(Emo\)](https://open.spotify.com/album/0uvZyTWqNWArdU6dEaUsk5) | 3:06 | 2022-05-13 | 2022-06-06 |
+| [D\(Emo\)](https://open.spotify.com/track/2NMjPUdU1Ljw8wVUdoHDkD) | [nothx.](https://open.spotify.com/artist/1i8WJECAPI5Je4SgVuQLEX) | [D\(Emo\)](https://open.spotify.com/album/0uvZyTWqNWArdU6dEaUsk5) | 3:06 | 2022-05-13 |  |
 | [Darkness](https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Darkness](https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7) | 2:54 | 2022-04-21 |  |
 | [Demoni](https://open.spotify.com/track/6bGA83YmfsO3SpFq4VCNiJ) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [Demoni](https://open.spotify.com/album/10rP3kY9xGjYXhxJkXEvD7) | 2:53 | 2022-06-02 |  |
 | [Dentro di Te](https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Profondo Rosa](https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE) | 2:51 | 2022-04-21 |  |
@@ -40,7 +40,7 @@
 | [Forse Dio](https://open.spotify.com/track/0aeQSTW65FQr7N6uV6zk1n) | [Emit](https://open.spotify.com/artist/4SLnd4pMUfLJd502s60Zpk) | [Forse Dio](https://open.spotify.com/album/3SfrCKr0YMTucKcLtUrgt6) | 3:20 | 2022-05-24 |  |
 | [Fragili](https://open.spotify.com/track/6Y1wgVdi0sJ6JVM9rnL26K) | [Hoomor](https://open.spotify.com/artist/4cNN5QXGRFL9VBGGpO85O8), [Nidya](https://open.spotify.com/artist/0lgeMbRvndhRe5ViRT1h3S) | [Fragili](https://open.spotify.com/album/6ixktzZ4cFQkeewHAY8fjY) | 2:47 | 2022-04-21 |  |
 | [Fuori dal buio](https://open.spotify.com/track/0w3gxWeayVvR3ATYCAX5nj) | [Sele](https://open.spotify.com/artist/1DUg0y2Y3aL0O2CyFmzXu7) | [Fuori dal buio](https://open.spotify.com/album/3qiii8vPBYSFKHungGcARx) | 3:08 | 2022-05-26 |  |
-| [Futuro](https://open.spotify.com/track/73dvpFQXtONS3r2YjvRYxM) | [GiovaneRoyce](https://open.spotify.com/artist/2pLKg64jV4OpTtx95KhMDL) | [Futuro](https://open.spotify.com/album/5yZc4Yg7MEWRyLrXm2CUoW) | 2:17 | 2022-04-21 |  |
+| [Futuro](https://open.spotify.com/track/73dvpFQXtONS3r2YjvRYxM) | [GiovaneRoyce](https://open.spotify.com/artist/2pLKg64jV4OpTtx95KhMDL) | [Futuro](https://open.spotify.com/album/5yZc4Yg7MEWRyLrXm2CUoW) | 2:17 | 2022-04-21 | 2022-06-07 |
 | [Giovane e triste](https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Giovane e triste](https://open.spotify.com/album/0ZfMM8FzMhHGffOGdew5R1) | 3:06 | 2022-04-21 |  |
 | [gusto,, paranoia !](https://open.spotify.com/track/5hO7SFzboofb2rKNtA5QHg) | [Kid Vice](https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo), [Jack Sapienza](https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K) | [gusto,, paranoia !](https://open.spotify.com/album/2s5apPv6vDludn70FLeIu3) | 2:38 | 2022-04-21 |  |
 | [Hai fatto tardi](https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Hai fatto tardi](https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m) | 2:52 | 2022-04-21 |  |
@@ -77,6 +77,7 @@
 | [Polmoni](https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Polmoni](https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV) | 2:03 | 2022-04-21 |  |
 | [poster](https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [poster](https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge) | 2:49 | 2022-04-21 |  |
 | [Resta Vivo](https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Resta Vivo](https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp) | 2:56 | 2022-05-26 |  |
+| [SadBoy](https://open.spotify.com/track/2DmvxboSu3mTzH3EAuH4Qb) | [GiorniTristi](https://open.spotify.com/artist/0KjmZKo6Rhw4m4MaFlVVUa) | [GiorniTristi](https://open.spotify.com/album/6YnvedyyHCeeS25arKSZo2) | 2:41 | 2022-06-02 |  |
 | [sai che...](https://open.spotify.com/track/1SIyOWhf9qKSWKqPhH1eDd) | [Kid Vice](https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo), [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [sai che...](https://open.spotify.com/album/5bPdHI6oH0MCokMEYsYtsD) | 2:40 | 2022-04-21 |  |
 | [Scusa ma](https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Scusa ma](https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY) | 1:41 | 2022-04-21 |  |
 | [Sei stata la canzone più bella del mondo](https://open.spotify.com/track/5wQQrl0Mk6QhcATNZqypux) | [Incubo](https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm) | [Sei stata la canzone più bella del mondo](https://open.spotify.com/album/4gKDciM57bbYTRYa9DHaU2) | 3:04 | 2022-04-21 |  |
@@ -86,7 +87,7 @@
 | [Sotto lo zero](https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Sotto lo zero](https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE) | 3:00 | 2022-04-21 |  |
 | [Spalla Destra](https://open.spotify.com/track/6dEDitKtQNG6GQzwBN2vvb) | [deca ydf](https://open.spotify.com/artist/13Il0NL1QiQEVvWhK6ZZ5a) | [Spalla Destra](https://open.spotify.com/album/1u5GTFReIuhmN8tBp7T0KD) | 2:57 | 2022-04-21 |  |
 | [sto bene, a volte](https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [cloud love](https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk) | 1:29 | 2022-04-21 |  |
-| [Ti Sposo](https://open.spotify.com/track/2C0tlqwcvVGuNox39uQgpC) | [Avoia](https://open.spotify.com/artist/2AOUNkpPPnWNXIU2NafS8I), [Candle Lights](https://open.spotify.com/artist/4ei52BXEiHeAYGVczk43vI) | [Ti Sposo](https://open.spotify.com/album/7zToEpET8GvtBkJQbafNsI) | 2:24 | 2022-04-21 |  |
+| [Ti Sposo](https://open.spotify.com/track/2C0tlqwcvVGuNox39uQgpC) | [Avoia](https://open.spotify.com/artist/2AOUNkpPPnWNXIU2NafS8I), [Candle Lights](https://open.spotify.com/artist/4ei52BXEiHeAYGVczk43vI) | [Ti Sposo](https://open.spotify.com/album/7zToEpET8GvtBkJQbafNsI) | 2:24 | 2022-04-21 | 2022-06-07 |
 | [Tornerò](https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tornerò](https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz) | 2:26 | 2022-05-26 |  |
 | [TUTTO BENE](https://open.spotify.com/track/2GwkOhcx2lkJRZbz8oHcc0) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [TRAUMA](https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe) | 3:19 | 2022-05-30 |  |
 | [Tutto o niente 2](https://open.spotify.com/track/2VPm4NZZKroOssZ9TReJ6d) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Tutto o niente 2](https://open.spotify.com/album/4F8Tln7lzrOD992Ft8tK7d) | 2:23 | 2022-04-21 |  |

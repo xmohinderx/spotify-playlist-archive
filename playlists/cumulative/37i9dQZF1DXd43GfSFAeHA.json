@@ -1976,6 +1976,28 @@
     },
     {
       "album": {
+        "name": "\u0643\u0646\u0642 \u0627\u0644\u062d\u0644\u0628\u0629",
+        "url": "https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92"
+      },
+      "artists": [
+        {
+          "name": "Omar Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
+        },
+        {
+          "name": "Khayyat",
+          "url": "https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164959,
+      "name": "\u0643\u0646\u0642 \u0627\u0644\u062d\u0644\u0628\u0629",
+      "url": "https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW"
+    },
+    {
+      "album": {
         "name": "\u0643\u0650\u062e",
         "url": "https://open.spotify.com/album/44FvX2fCYGeRX2iRKzmYeM"
       },

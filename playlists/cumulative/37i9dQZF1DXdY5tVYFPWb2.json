@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "1+1\u22602",
+        "url": "https://open.spotify.com/album/5qZCpwcoCOOEk4o15YOmoK"
+      },
+      "artists": [
+        {
+          "name": "Nassy Island",
+          "url": "https://open.spotify.com/artist/3a9rF1FkfczEyVV3xNEgsK"
+        },
+        {
+          "name": "\u7dbe\u702c\u306a\u308a\u3055",
+          "url": "https://open.spotify.com/artist/4J31KiLWmVhHlpIXaeTcb4"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258790,
+      "name": "1+1\u22602",
+      "url": "https://open.spotify.com/track/1dQtG3jqtsyeFboEel5SK5"
+    },
+    {
+      "album": {
         "name": "1989's",
         "url": "https://open.spotify.com/album/14984DgT52EAK32llFN3w6"
       },
@@ -95,7 +117,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 272233,
       "name": "A. me too",
       "url": "https://open.spotify.com/track/29LFzfre93VpcGjj3BGvu3"
@@ -279,7 +301,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 218186,
       "name": "DRIP DRY",
       "url": "https://open.spotify.com/track/6NWT3AGvf6lBP9rH1W1d7o"
@@ -363,7 +385,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 207006,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR"
@@ -399,7 +421,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 227215,
       "name": "FLOWERS",
       "url": "https://open.spotify.com/track/2EiA587apVmlS9wbch4vti"
@@ -497,7 +519,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 270000,
       "name": "Highway Flyer",
       "url": "https://open.spotify.com/track/33sk4kPKBJ33h9f3VyCnuG"
@@ -653,7 +675,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 347096,
       "name": "Midnight Pretenders (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/5fHDSR4DixHSS93sPW1tWL"
@@ -823,7 +845,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 209285,
       "name": "Rainy Talk",
       "url": "https://open.spotify.com/track/0ttL7VeLEqQYVhimPKlqZM"
@@ -917,7 +939,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 275560,
       "name": "SEPTEMBER",
       "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
@@ -935,7 +957,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 204973,
       "name": "SOSOGU",
       "url": "https://open.spotify.com/track/54x8nltyUeJxylMzAev90H"
@@ -1149,7 +1171,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 171500,
       "name": "YOU+ME=",
       "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
@@ -1167,7 +1189,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 251600,
       "name": "\u3042\u306a\u305f\u3086\u305a\u308a",
       "url": "https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3"
@@ -1189,7 +1211,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 303673,
       "name": "\u3044\u3064\u304b - SOMEDAY (feat. tonun) - 45s Edit",
       "url": "https://open.spotify.com/track/3rFpK78Cw2WmpQL1X18Pag"
@@ -1787,7 +1809,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 239300,
       "name": "\u697d\u5712",
       "url": "https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W"
@@ -1911,7 +1933,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 265040,
       "name": "\u8584\u660e",
       "url": "https://open.spotify.com/track/1Omq8yA8pYXeB8sQ9LnFyZ"
@@ -1929,7 +1951,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 213856,
       "name": "\u8a93\u3044",
       "url": "https://open.spotify.com/track/0qk9PyviJnLL2rzHikQ4Oy"

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > احدث الاغاني العراقية\. غلاف: حسام الرسام
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,591 likes - 57 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,624 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Housat Al\-Ased](https://open.spotify.com/track/0nBNzq38wLMVAh91bC5Eyl) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Housat Al\-Ased](https://open.spotify.com/album/2aSjEA9gC5J08NtTlKGRqG) | 4:04 |
-| 2 | [Yazid Alhama](https://open.spotify.com/track/59ZuKOZER5zP4dCUe1U6wM) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [يزيد الهم](https://open.spotify.com/album/29D1k5ambOiIO7J9KuQzCf) | 4:40 |
-| 3 | [Dabrole Dam3a](https://open.spotify.com/track/5k1u7jIpoKQSR90fbiJINY) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Dabrole Dam3a](https://open.spotify.com/album/64iTFqHAC2Ag4PGTV3AkZW) | 3:47 |
-| 4 | [El Barha](https://open.spotify.com/track/2vyRQqSjCIfODAyqntNjlG) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [El Barha](https://open.spotify.com/album/5N18SA94PoeUQTeNfZ8eeN) | 4:02 |
+| 1 | [Yazid Alhama](https://open.spotify.com/track/59ZuKOZER5zP4dCUe1U6wM) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [يزيد الهم](https://open.spotify.com/album/29D1k5ambOiIO7J9KuQzCf) | 4:40 |
+| 2 | [Dabrole Dam3a](https://open.spotify.com/track/5k1u7jIpoKQSR90fbiJINY) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Dabrole Dam3a](https://open.spotify.com/album/64iTFqHAC2Ag4PGTV3AkZW) | 3:47 |
+| 3 | [El Barha](https://open.spotify.com/track/2vyRQqSjCIfODAyqntNjlG) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [El Barha](https://open.spotify.com/album/5N18SA94PoeUQTeNfZ8eeN) | 4:02 |
+| 4 | [Housat Al\-Ased](https://open.spotify.com/track/0nBNzq38wLMVAh91bC5Eyl) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Housat Al\-Ased](https://open.spotify.com/album/2aSjEA9gC5J08NtTlKGRqG) | 4:04 |
 | 5 | [Kolshy Ma Bayha](https://open.spotify.com/track/17bI0GhEjP59OHu4yuYjst) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Kolshy Ma Bayha](https://open.spotify.com/album/58XqFD7G0i5cMDbFqnkqmH) | 3:24 |
 | 6 | [Raah Anam](https://open.spotify.com/track/7zxuNEe1gUJGnCN4p30UMf) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Raah Anam](https://open.spotify.com/album/2i7RxBm480Zc6g6FHYc2SE) | 3:15 |
 | 7 | [Kemt Akrahak](https://open.spotify.com/track/6dUcVMzyhHtc53fIEKbzOf) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Kemt Akrahak](https://open.spotify.com/album/5E2oPXxKJgutwwKQrwQftZ) | 3:58 |
@@ -58,12 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 48 | [Yekhnog](https://open.spotify.com/track/2h9VSz8bhwaVXaSFdRrUXM) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq), [Methaq](https://open.spotify.com/artist/55c0fnBF1EYaA941Z7srCZ) | [Yekhnog](https://open.spotify.com/album/1lvh7PSgMY6Lqt0qNOc9U5) | 4:45 |
 | 49 | [Kilshi Madayim](https://open.spotify.com/track/2d5ZY8RmnfKpjt9p60rrzH) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Kilshi Madayim](https://open.spotify.com/album/4CTIHJlVjVlR34FGTySUDh) | 3:38 |
 | 50 | [Al Hob Ihtmam](https://open.spotify.com/track/7qj9jTyc59xB1JmhsFohA0) | [Adnan Braysem](https://open.spotify.com/artist/6tCa22NbsZWw3dmQF0Ac08) | [Al Hob Ihtmam](https://open.spotify.com/album/2q7wM4nFdJAGK2Yxv5pm9E) | 3:03 |
-| 51 | [Mo Wafi \- مو وفي](https://open.spotify.com/track/3eetE1j3t8zX4XFPV0lmPD) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe), [Hamza Al Muhmdawi](https://open.spotify.com/artist/2UgjvFvfz7rQ5Vmu3HeEN5), [Ali Riyadh](https://open.spotify.com/artist/35pMeblJsAHj7ZzQrw4aX9) | [Mo Wafi \(مو وفي\)](https://open.spotify.com/album/2LJBbAAvWPt4ai0H2Cuf9r) | 3:44 |
-| 52 | [Alqitar](https://open.spotify.com/track/22ENQINiZBUVm6j6VbnAqv) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Alqitar](https://open.spotify.com/album/5oH5G4Sper19QXy0jY0UUB) | 4:08 |
-| 53 | [Rah Teshoofni](https://open.spotify.com/track/7cp9tzF6U2s4HVq0ehiki2) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Rah Teshoofni](https://open.spotify.com/album/56AYOsPwukW0TSGTpobwxM) | 3:43 |
-| 54 | [La Yalbukht](https://open.spotify.com/track/3q6f7xBrpHwt8PvmWCMuXZ) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [La Yalbukht](https://open.spotify.com/album/4hWmhWJk8VZeoIfl8nesys) | 3:23 |
-| 55 | [Feal Madey](https://open.spotify.com/track/6cSa8DLoUgXAIsQnqqad8H) | [Tayseer Al Safeer](https://open.spotify.com/artist/4PQeohrT8GInzKC3wJFGLa) | [Feal Madey](https://open.spotify.com/album/58QqYgmn1ZWQvkpAsWF7zn) | 3:02 |
-| 56 | [Madim Aleak](https://open.spotify.com/track/7x3OeqioqJIZD5y0yFEeir) | [Mahmoud Al Gayath](https://open.spotify.com/artist/0vlrGHoVOpmG8ufhbgcJe9) | [Madim Aleak](https://open.spotify.com/album/7tGZPVKKgrV3aJ1fRQUjIj) | 3:25 |
-| 57 | [Heyya Ala Allah](https://open.spotify.com/track/2TW62JI3FoBG6NUrMH83cg) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Heyya Ala Allah](https://open.spotify.com/album/1Soc8OCAxYycuELmaLibGV) | 3:16 |
 
-Snapshot ID: `MTY1NDI2MDA1MSwwMDAwMDExZDAwMDAwMTgxMjk5NTJlNGQwMDAwMDE4MTI5OGY1YTYy`
+Snapshot ID: `MTY1NDUzOTk4NiwwMDAwMDExZTAwMDAwMTgxM2E0NGE0YWMwMDAwMDE4MTI5OGY1YTYy`

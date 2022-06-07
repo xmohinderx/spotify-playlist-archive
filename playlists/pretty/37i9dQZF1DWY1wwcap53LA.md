@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Darius Rucker
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,881 likes - 76 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,948 likes - 76 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 75 | [Whiskey River](https://open.spotify.com/track/3lIaJQ9U0l6Bae86e1cZQs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Whiskey River](https://open.spotify.com/album/2Bq8jup1tjO1rxo7YTauaU) | 4:31 |
 | 76 | [Take Me As I Am](https://open.spotify.com/track/6SDwDQ6p0pBs6W00qt3Zix) | [Chuck Adams](https://open.spotify.com/artist/6GLO5F72p0eTCcumR6Ac5a) | [Take Me As I Am](https://open.spotify.com/album/78WF3uDO2YnUTar5ujTsDO) | 3:40 |
 
-Snapshot ID: `MTY1NDQ3NzQxOCwwMDAwMDAwMGM3NjY2YjM1NmE0OTc0ODNmY2U3Njc5OTFmYzdmNTQz`
+Snapshot ID: `MTY1NDIyODgwMCwwMDAwMDAzMTAwMDAwMTgxMjdiODUzMGEwMDAwMDE4MTFjNDI4ZjYx`

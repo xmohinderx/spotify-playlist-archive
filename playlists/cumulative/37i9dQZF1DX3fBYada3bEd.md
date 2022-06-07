@@ -4,7 +4,7 @@
 
 > Sing along to these tunes about everything you can find on the farm.
 
-58 songs - 2 hr 18 min - not published yet
+58 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/5uvSbxeDW7jtSCQFDcy7oO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

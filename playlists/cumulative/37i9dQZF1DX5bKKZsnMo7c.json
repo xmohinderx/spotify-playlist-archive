@@ -1206,6 +1206,24 @@
     },
     {
       "album": {
+        "name": "My R",
+        "url": "https://open.spotify.com/album/7HbKsuGxSH4WsAK3vIaPec"
+      },
+      "artists": [
+        {
+          "name": "Lollia",
+          "url": "https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214916,
+      "name": "My R",
+      "url": "https://open.spotify.com/track/4Li4x03VzGLRZW5B6hv0Xt"
+    },
+    {
+      "album": {
         "name": "Pale Machine",
         "url": "https://open.spotify.com/album/1a2UnYDnfK25QJKfgHNHnu"
       },
@@ -1253,7 +1271,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 121852,
       "name": "Nights Like These",
       "url": "https://open.spotify.com/track/7s7KOxwTHHnVBmtphJKWRk"
@@ -1461,6 +1479,24 @@
       "duration_ms": 256625,
       "name": "putting a spin on somebody that i used to know",
       "url": "https://open.spotify.com/track/7oG6YAqkuBHBZ0qgtDhOAm"
+    },
+    {
+      "album": {
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+      },
+      "artists": [
+        {
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "Ruler of Everything",
+      "url": "https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X"
     },
     {
       "album": {
@@ -1803,7 +1839,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 169850,
       "name": "Too Precious",
       "url": "https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover: Senny | Playlista od\u015bwie\u017cana w ka\u017cdy wtorek. ",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover: The Party Is Over | Playlista od\u015bwie\u017cana w ka\u017cdy wtorek. ",
   "name": "Fresh Finds Polska",
   "published_playlist_ids": [
     "6wB7HHgPQjErlX5o34Jlnm"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 128000,
       "name": "101 texts",
       "url": "https://open.spotify.com/track/2XXFo5dG2roaFg12qs5HRi"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 207519,
       "name": "Burze",
       "url": "https://open.spotify.com/track/6uSU5N69iej3oGQyXDubWO"
@@ -295,6 +295,42 @@
       "duration_ms": 223024,
       "name": "By\u0107 morze",
       "url": "https://open.spotify.com/track/7LmxxcDMWfXsEglsasosHB"
+    },
+    {
+      "album": {
+        "name": "Kontrola",
+        "url": "https://open.spotify.com/album/2teFszicbrLoUynpd4eoga"
+      },
+      "artists": [
+        {
+          "name": "The Bobo",
+          "url": "https://open.spotify.com/artist/1dhQg6urYCnTQhYWG8tsvE"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204480,
+      "name": "By\u0142o mi\u0142o",
+      "url": "https://open.spotify.com/track/0Ats8UjkpH6HEP4k2Gt0rY"
+    },
+    {
+      "album": {
+        "name": "Chc\u0119 ca\u0142ego",
+        "url": "https://open.spotify.com/album/0Rr97CJKcLL3n5jSNnYVP0"
+      },
+      "artists": [
+        {
+          "name": "Panilas",
+          "url": "https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199315,
+      "name": "Chc\u0119 ca\u0142ego",
+      "url": "https://open.spotify.com/track/5KybbhtZCChwect1OMsmWo"
     },
     {
       "album": {
@@ -327,7 +363,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 184369,
       "name": "CHOD\u0179",
       "url": "https://open.spotify.com/track/4UbFIfZz8yrNZpapO6fx21"
@@ -396,6 +432,28 @@
     },
     {
       "album": {
+        "name": "Cz\u0142owiek i zdrowie",
+        "url": "https://open.spotify.com/album/5wVfM2PIFXPsU6xyCDepyt"
+      },
+      "artists": [
+        {
+          "name": "GRALIRYKA",
+          "url": "https://open.spotify.com/artist/2n4AGfHkzwXOLZhY5rxXLd"
+        },
+        {
+          "name": "Alicja Dziurdziak",
+          "url": "https://open.spotify.com/artist/5sGZTLhUGR6wHR6e6gr9nf"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150453,
+      "name": "Cz\u0142owiek i zdrowie",
+      "url": "https://open.spotify.com/track/0FP22xaphDMnSdphuzpNz1"
+    },
+    {
+      "album": {
         "name": "Dach",
         "url": "https://open.spotify.com/album/4xRgkkbWWvXRtX0k1zxu7R"
       },
@@ -454,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Drugie Primo",
+        "url": "https://open.spotify.com/album/1cFo5izKOJ0PkEFQBxYaHd"
+      },
+      "artists": [
+        {
+          "name": "Ladaco",
+          "url": "https://open.spotify.com/artist/6smrG6QLzHOOBeIOzHx351"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212783,
+      "name": "Do przodu",
+      "url": "https://open.spotify.com/track/2vTdMQbjhpCzkZuTX4y9iW"
+    },
+    {
+      "album": {
         "name": "Dom w Bernie",
         "url": "https://open.spotify.com/album/5OgOdXCJaHcJJ3ldr6fUNK"
       },
@@ -483,7 +559,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 200000,
       "name": "Elderflower",
       "url": "https://open.spotify.com/track/1U9rmsH0LcgbVTIZ7IPZ3Z"
@@ -501,7 +577,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 196226,
       "name": "Endogenne Morfiny",
       "url": "https://open.spotify.com/track/6KtqiqJsaA5jCaTCzbnBtC"
@@ -620,6 +696,24 @@
     },
     {
       "album": {
+        "name": "Gasn\u0119",
+        "url": "https://open.spotify.com/album/1vG77iPxcQtOWy8E35IBj2"
+      },
+      "artists": [
+        {
+          "name": "The Party Is Over",
+          "url": "https://open.spotify.com/artist/69znI1kRhRjS9pFHP03urW"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241846,
+      "name": "Gasn\u0119",
+      "url": "https://open.spotify.com/track/2sG7E5K76wQgnQz5f6oWZr"
+    },
+    {
+      "album": {
         "name": "Gdzie jeste\u015b?",
         "url": "https://open.spotify.com/album/6J9kFJWEhSwxrbME22jg6N"
       },
@@ -719,7 +813,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 205909,
       "name": "HALKO",
       "url": "https://open.spotify.com/track/2rtnSjm26SkONQRcSPJ6li"
@@ -777,6 +871,24 @@
       "duration_ms": 191821,
       "name": "jeden dzie\u0144",
       "url": "https://open.spotify.com/track/3DKoOnXsaJQdGKXNbTyxYm"
+    },
+    {
+      "album": {
+        "name": "Jednocze\u015bnie",
+        "url": "https://open.spotify.com/album/5HpCRFIiUWPAYGdHHdgzvr"
+      },
+      "artists": [
+        {
+          "name": "Ja\u015bmin",
+          "url": "https://open.spotify.com/artist/1bSK6IBlQyE2wLOHonkr80"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196041,
+      "name": "Jednocze\u015bnie",
+      "url": "https://open.spotify.com/track/23HT44mkpgwsg18scrwgtM"
     },
     {
       "album": {
@@ -888,6 +1000,24 @@
     },
     {
       "album": {
+        "name": "Klub samotnych serc",
+        "url": "https://open.spotify.com/album/0wOkoMgFmu3IetkuIFWlzO"
+      },
+      "artists": [
+        {
+          "name": "Raindow",
+          "url": "https://open.spotify.com/artist/4ajombin2svShTCmEmbHfE"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186717,
+      "name": "Klub samotnych serc",
+      "url": "https://open.spotify.com/track/2njSm84vuvRAqfMd9IPnXn"
+    },
+    {
+      "album": {
         "name": "kosmos kosmos",
         "url": "https://open.spotify.com/album/27xbyGT2kLA7Np1118fTii"
       },
@@ -960,6 +1090,28 @@
     },
     {
       "album": {
+        "name": "Kwiat\u00f3w staw",
+        "url": "https://open.spotify.com/album/38BcEwLM9gFBDmCYxr22AU"
+      },
+      "artists": [
+        {
+          "name": "KRM",
+          "url": "https://open.spotify.com/artist/4g1uT59bJ7eyUUv3WBt5vw"
+        },
+        {
+          "name": "Akio",
+          "url": "https://open.spotify.com/artist/50qQ2L1YLO0xNJlEru1EoD"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132588,
+      "name": "Kwiat\u00f3w staw",
+      "url": "https://open.spotify.com/track/0HbEv3DGawL5azPUpFhnj9"
+    },
+    {
+      "album": {
         "name": "Long Legs",
         "url": "https://open.spotify.com/album/2psJFaH0mKCbtEavxvPZTd"
       },
@@ -1007,7 +1159,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 151060,
       "name": "Matko dnia i nocy",
       "url": "https://open.spotify.com/track/1WsckvAgxHbjjVkflhDTnF"
@@ -1069,7 +1221,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 159375,
       "name": "melt",
       "url": "https://open.spotify.com/track/4OMuax6rJU7iwaYksevSHM"
@@ -1145,6 +1297,32 @@
       "duration_ms": 213257,
       "name": "Neony",
       "url": "https://open.spotify.com/track/2Nan3Hf9IygBBiTaWxHnhZ"
+    },
+    {
+      "album": {
+        "name": "Nie lubi\u0119 si\u0119 k\u0142a\u015b\u0107 / w nocy",
+        "url": "https://open.spotify.com/album/13lERACDVnjplqyhzQGlLM"
+      },
+      "artists": [
+        {
+          "name": "OUTPOST",
+          "url": "https://open.spotify.com/artist/7cS6COG2pifHvvQR2VUNJl"
+        },
+        {
+          "name": "Bia\u0142y Falochron",
+          "url": "https://open.spotify.com/artist/7cBzCHNcMBGPXSkdhZZTul"
+        },
+        {
+          "name": "Kopi",
+          "url": "https://open.spotify.com/artist/3vQToitmV1wt8ZMPFAZFEG"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205935,
+      "name": "Nie lubi\u0119 si\u0119 k\u0142a\u015b\u0107 / w nocy",
+      "url": "https://open.spotify.com/track/4UwEQE7khjmmRdzCK46uab"
     },
     {
       "album": {
@@ -1239,6 +1417,24 @@
       "duration_ms": 175444,
       "name": "Obcy l\u0105d",
       "url": "https://open.spotify.com/track/4ZDIa6Dk0nWjEmdhIbqBQ4"
+    },
+    {
+      "album": {
+        "name": "Od wschodu do zachodu",
+        "url": "https://open.spotify.com/album/0OhWM7MH86qI9Y51THob4G"
+      },
+      "artists": [
+        {
+          "name": "JET PACK",
+          "url": "https://open.spotify.com/artist/0JDCaL8f3ou4j54pizsaVW"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "Od wschodu do zachodu",
+      "url": "https://open.spotify.com/track/3nXK7R1FWQuX37Q5zErMcT"
     },
     {
       "album": {
@@ -1409,6 +1605,42 @@
       "duration_ms": 236000,
       "name": "Pozna\u0107 Ciebie",
       "url": "https://open.spotify.com/track/58CxpXDA69Sx9frq9QaSjG"
+    },
+    {
+      "album": {
+        "name": "Po\u0142\u0105czenia",
+        "url": "https://open.spotify.com/album/0od7GVo1EEAtaLRgwwOlRS"
+      },
+      "artists": [
+        {
+          "name": "Ala|Zastary",
+          "url": "https://open.spotify.com/artist/3QmNltluzWxV1Pi1foWdqw"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "Po\u0142\u0105czenia",
+      "url": "https://open.spotify.com/track/03RSChvZPul8kav1LlgS9D"
+    },
+    {
+      "album": {
+        "name": "Prego",
+        "url": "https://open.spotify.com/album/4xdfClw7EqYM8itMfJwUZK"
+      },
+      "artists": [
+        {
+          "name": "Zbyszek Adamek",
+          "url": "https://open.spotify.com/artist/5KcQw9igsxHzHPGjpc3Gbn"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212657,
+      "name": "Prego",
+      "url": "https://open.spotify.com/track/2XgilBBmtqVYkTbQe1psUk"
     },
     {
       "album": {
@@ -1589,7 +1821,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 232968,
       "name": "Sen",
       "url": "https://open.spotify.com/track/7nUSTthpVHvt0pC6o3w4fM"
@@ -1607,7 +1839,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 214593,
       "name": "Serca Miast",
       "url": "https://open.spotify.com/track/6YwuD7c1uwhB8UNa6zCJmP"
@@ -1643,7 +1875,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 203505,
       "name": "SOS",
       "url": "https://open.spotify.com/track/1S374DhOFaqeJPpyKi0Qby"
@@ -1687,6 +1919,24 @@
       "duration_ms": 271437,
       "name": "Spirits (I\u2019m Lost)",
       "url": "https://open.spotify.com/track/1zE0Ry1PLqIdDOVQsLwgVJ"
+    },
+    {
+      "album": {
+        "name": "Spok\u00f3j",
+        "url": "https://open.spotify.com/album/7bHOiQWzxW8ODacLyxbWZ0"
+      },
+      "artists": [
+        {
+          "name": "Jeszcze",
+          "url": "https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Spok\u00f3j",
+      "url": "https://open.spotify.com/track/2LWiCS9jq8x1y9fetW7bS0"
     },
     {
       "album": {
@@ -1970,6 +2220,24 @@
     },
     {
       "album": {
+        "name": "Wiem \u017ce Ty nigdy",
+        "url": "https://open.spotify.com/album/4NMcY5ZPq4kdIO7TJ2xGAe"
+      },
+      "artists": [
+        {
+          "name": "sallypocalujko",
+          "url": "https://open.spotify.com/artist/6UGUIOyibm8kA96ClpbF1A"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193810,
+      "name": "Wiem \u017ce Ty nigdy",
+      "url": "https://open.spotify.com/track/4AMq1ugO3r332nqYA8kAvI"
+    },
+    {
+      "album": {
         "name": "Wina (Szatt Remix)",
         "url": "https://open.spotify.com/album/293zxBqNASnuOE4FOKizFi"
       },
@@ -2043,7 +2311,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 138536,
       "name": "Wszystko jest odwo\u0142ane",
       "url": "https://open.spotify.com/track/74iN6EEdol4gwGAW1zfdsP"
@@ -2155,7 +2423,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 155763,
       "name": "Znikasz",
       "url": "https://open.spotify.com/track/0QLe2sWej2ExBOaawX7GOQ"
@@ -2191,7 +2459,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 298947,
       "name": "\u015awieci si\u0119 niebo",
       "url": "https://open.spotify.com/track/4X9nAcdPZkUQzM4aJ9BFIM"

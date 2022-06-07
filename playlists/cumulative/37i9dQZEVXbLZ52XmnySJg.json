@@ -917,7 +917,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 298271,
       "name": "Beete Lamhein (From \"The Train\")",
       "url": "https://open.spotify.com/track/0dJacN6K3mSGLE9p7QE0lO"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 168450,
       "name": "Bijlee Bijlee",
       "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
@@ -2019,7 +2019,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "DESIRES",
       "url": "https://open.spotify.com/track/5pcmtf1lwrMqmAWWm248fY"
@@ -2089,7 +2089,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 329386,
       "name": "Dil Ibaadat",
       "url": "https://open.spotify.com/track/3Kl8p2PxVf8eAayLwTxOIm"
@@ -2115,7 +2115,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 231486,
       "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
       "url": "https://open.spotify.com/track/5urYiIXu1ZhfMAOsp7WDTc"
@@ -2151,7 +2151,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 333200,
       "name": "Dil Kyun Yeh Mera (From \"Kites\")",
       "url": "https://open.spotify.com/track/4yXLSeG6KtNKOhKrvEWH87"
@@ -2451,7 +2451,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 200658,
       "name": "ELEVATED",
       "url": "https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi"
@@ -3735,7 +3735,7 @@
       ],
       "date_added": "2021-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 206060,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2"
@@ -4261,7 +4261,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 281611,
       "name": "Kaise Bataaoon",
       "url": "https://open.spotify.com/track/2jMsqX0TfKTi24dZSSPjbo"
@@ -4645,7 +4645,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 341027,
       "name": "Labon Ko",
       "url": "https://open.spotify.com/track/5WncH5iZ5GFlnXm7jKEXVP"
@@ -4769,7 +4769,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 228705,
       "name": "Levels",
       "url": "https://open.spotify.com/track/60YICjIPdL7LDBcCMK0tAk"
@@ -6289,7 +6289,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 143709,
       "name": "Once Upon a Time",
       "url": "https://open.spotify.com/track/4wCy7erulqUfFQNVaZBD9b"
@@ -7619,7 +7619,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 218666,
       "name": "So High",
       "url": "https://open.spotify.com/track/1W1dS4VnIrYnllQJ3CAcZy"
@@ -8653,7 +8653,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 387947,
       "name": "Tu Hi Meri Shab Hai",
       "url": "https://open.spotify.com/track/4IGfpRPTnhzZyL74Ilubrb"
@@ -9042,6 +9042,24 @@
     },
     {
       "album": {
+        "name": "Vikram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/2dpMdklbSc5CmZ3ijhknZ5"
+    },
+    {
+      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -9293,7 +9311,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 253200,
       "name": "Zindagi Do Pal Ki (From \"Kites\")",
       "url": "https://open.spotify.com/track/29kwMwn3NpHxNGHFAIT7yo"

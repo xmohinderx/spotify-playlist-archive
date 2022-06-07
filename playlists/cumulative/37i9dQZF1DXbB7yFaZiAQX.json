@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Black Celebration (Deluxe)",
+        "url": "https://open.spotify.com/album/2xEeSf4j9XsAAI15co5cNh"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263146,
+      "name": "A Question of Lust",
+      "url": "https://open.spotify.com/track/3eN5LFnqtfPAR7Jr8i2QuE"
+    },
+    {
+      "album": {
         "name": "Absolute",
         "url": "https://open.spotify.com/album/3vT8KeOCTzceJbGBFO7KUE"
       },
@@ -441,7 +459,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 234040,
       "name": "Being Boiled - Fast Version / 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/2xN8RYKg69sdfoqtvYnwwM"
@@ -459,7 +477,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 577226,
       "name": "Bela Lugosi's Dead",
       "url": "https://open.spotify.com/track/1cPf2khrcp6iRfTGFisSoS"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 381880,
       "name": "Blasphemous Rumours",
       "url": "https://open.spotify.com/track/7oQX82XgUBDhSbpMSksG12"
@@ -639,7 +657,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 221053,
       "name": "Brilliant Mind",
       "url": "https://open.spotify.com/track/6lN2rz6C3XTq6RauOl8J3a"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2020-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 206333,
       "name": "Christine",
       "url": "https://open.spotify.com/track/768hALxoNaIj1R01VHyg5z"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 209039,
       "name": "Disorder - 2007 Remaster",
       "url": "https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA"
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 149426,
       "name": "Duchess",
       "url": "https://open.spotify.com/track/3FgEerIxXNMRhY2KV5Kl44"
@@ -1507,7 +1525,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 239359,
       "name": "Fade To Grey",
       "url": "https://open.spotify.com/track/6rvXznPVt21K7Adhw9zKEJ"
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 176693,
       "name": "Heartache Avenue",
       "url": "https://open.spotify.com/track/4sUsKsKD56QEixq7wyeMHN"
@@ -2199,7 +2217,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 288733,
       "name": "Infected",
       "url": "https://open.spotify.com/track/7mqRfGV4RarfX8Pgl5BIqT"
@@ -2217,7 +2235,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 186773,
       "name": "Is Vic There?",
       "url": "https://open.spotify.com/track/4brFeNicHZlzvFqbNR0XGx"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 175093,
       "name": "Isolation - 2007 Remaster",
       "url": "https://open.spotify.com/track/3KN1A4XVt5lYudW7M6gD9T"
@@ -2365,7 +2383,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 186533,
       "name": "Kid - 2006 Remaster",
       "url": "https://open.spotify.com/track/56aPHyy70SdIBYWEdV0cEi"
@@ -2617,7 +2635,7 @@
       ],
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 200533,
       "name": "Love & Pride",
       "url": "https://open.spotify.com/track/7s9MPp6IbrZa39gE0zpiVH"
@@ -2697,7 +2715,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 253600,
       "name": "Love is a Wonderful Colour",
       "url": "https://open.spotify.com/track/4OeQU7mkWYN9zGJZAa8YuL"
@@ -3021,7 +3039,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 241693,
       "name": "My Spine Is The Bassline",
       "url": "https://open.spotify.com/track/3VxFd7SnACXpFR2LBROrsR"
@@ -3129,7 +3147,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 408293,
       "name": "Nightporter",
       "url": "https://open.spotify.com/track/2KMu1C3jtaTQ8z4CC5ucUK"
@@ -3165,7 +3183,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 272293,
       "name": "Nobody's Diary - 2008 Remaster",
       "url": "https://open.spotify.com/track/12uZzPLGpbjC64huvqynp3"
@@ -3597,7 +3615,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 288506,
       "name": "Quiet Life",
       "url": "https://open.spotify.com/track/3vyzp6lqJbpZlDfwXan61J"
@@ -3651,7 +3669,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 391426,
       "name": "Rapture - Remastered 2001",
       "url": "https://open.spotify.com/track/0D6qZlc6vNR7PDW2RKGPsV"
@@ -3745,7 +3763,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 162266,
       "name": "Reward",
       "url": "https://open.spotify.com/track/2vULfNEAOjjRyjj6hs0kBm"
@@ -4257,7 +4275,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 295373,
       "name": "Somewhere Down The Crazy River",
       "url": "https://open.spotify.com/track/4RiC0i1VIybdCtTIVhqVVH"
@@ -4553,7 +4571,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 238906,
       "name": "The Lady Don't Mind - 2005 Remaster",
       "url": "https://open.spotify.com/track/6xaYStR8hIimvEmKLwv4Gh"
@@ -4571,7 +4589,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 304906,
       "name": "The Lebanon",
       "url": "https://open.spotify.com/track/5d4ZCmvSLvjMOSdIKkCyQ5"
@@ -5349,7 +5367,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 245653,
       "name": "When Love Breaks Down",
       "url": "https://open.spotify.com/track/1wU3ZXm4bost8WD55WcsDM"
@@ -5457,7 +5475,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 247973,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/7w76loirJapdVKMf6sFrJo"
@@ -5555,7 +5573,7 @@
       ],
       "date_added": "2020-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 268240,
       "name": "Would I Lie to You? - Remastered Version",
       "url": "https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8"

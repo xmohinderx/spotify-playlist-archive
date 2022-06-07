@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,149 likes - 121 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,195 likes - 121 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

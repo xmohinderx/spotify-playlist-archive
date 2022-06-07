@@ -4,7 +4,7 @@
 
 > Don't stress out\. Stay relaxed with these easy, upbeat songs.
 
-289 songs - 17 hr 31 min - [published](https://open.spotify.com/playlist/37RWAGQot1VZ0VVt7JhYiV)
+290 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/37RWAGQot1VZ0VVt7JhYiV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2019-07-29\* | 2022-04-21 |
 | [Get Down](https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Get Down](https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ) | 2:31 | 2021-08-07 |  |
 | [Getting Ready to Get Down](https://open.spotify.com/track/1gDJei64d4Kl4S1ObDCmEu) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Getting Ready to Get Down](https://open.spotify.com/album/1UBBJFhQa6pUpdegxfbo0M) | 3:16 | 2019-07-29\* | 2022-04-20 |
-| [Gloria](https://open.spotify.com/track/75ZZuV6Y954ONtyoQboey1) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Gloria Sparks](https://open.spotify.com/album/7FsCFNZmtYmEJMEGnhaboR) | 3:36 | 2019-08-21 | 2022-06-04 |
+| [Gloria](https://open.spotify.com/track/75ZZuV6Y954ONtyoQboey1) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Gloria Sparks](https://open.spotify.com/album/7FsCFNZmtYmEJMEGnhaboR) | 3:36 | 2019-08-21 |  |
 | [Go Easy](https://open.spotify.com/track/4yoMMiRT5sXtIbSHKQfRqi) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Bank On The Funeral](https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL) | 3:47 | 2020-02-23 | 2021-10-10 |
 | [Gone](https://open.spotify.com/track/3mxMrdo3fJjDbb64nagoXR) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [JR JR](https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS) | 3:47 | 2019-07-29\* | 2022-04-21 |
 | [Good News](https://open.spotify.com/track/1dXCXb006YbPSAajh6qhaF) | [Ocean Park Standoff](https://open.spotify.com/artist/1qGohIp3a4kh1Euymx0pyL) | [Ocean Park Standoff](https://open.spotify.com/album/3RLGxqyxJbe9wFro2TQp4T) | 3:08 | 2019-07-29\* | 2021-10-14 |
@@ -153,12 +153,13 @@
 | [Love Is Real](https://open.spotify.com/track/0eoBkpMZuo2GzBzM9Vwn77) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Love Is Real b/w Heart Shape](https://open.spotify.com/album/7kKKozYknjwDR0AoG7RwHu) | 2:28 | 2022-04-14 | 2022-04-29 |
 | [Love Someone](https://open.spotify.com/track/7mQruvaJWb7U18LX7p3m5r) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [YES!](https://open.spotify.com/album/4mV8o8hl6v3u0Gzv0DfrXt) | 4:16 | 2019-07-29\* | 2021-03-19 |
 | [Love You For A Long Time](https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Love You For A Long Time](https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI) | 3:43 | 2019-12-15 |  |
+| [Made Up Mind](https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 3:40 | 2022-05-27 |  |
 | [Making Do](https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Making Do](https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC) | 3:34 | 2020-10-07 |  |
 | [Marinade](https://open.spotify.com/track/2N60TAtXaCbmi7zqdUoW61) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Honey Bones](https://open.spotify.com/album/3diCjjzTaCODKwH1OOmrWf) | 3:57 | 2019-08-13 | 2021-03-22 |
 | [McKenzie](https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:14 | 2021-11-12 |  |
 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 | 2019-07-29\* | 2021-03-23 |
-| [Mess](https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:33 | 2019-08-21 |  |
-| [Mighty Soul](https://open.spotify.com/track/2wzoFtHi2oX6FXr9EtBizB) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Mighty Soul](https://open.spotify.com/album/6T7wqhIl7v7jj5yMIZXozN) | 1:57 | 2020-11-04 | 2022-06-05 |
+| [Mess](https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:33 | 2019-08-21 | 2022-06-07 |
+| [Mighty Soul](https://open.spotify.com/track/2wzoFtHi2oX6FXr9EtBizB) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Mighty Soul](https://open.spotify.com/album/6T7wqhIl7v7jj5yMIZXozN) | 1:57 | 2020-11-04 |  |
 | [Missing Home](https://open.spotify.com/track/29j2Y1N3vpyvm385G4TFSS) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Missing Home](https://open.spotify.com/album/7mb7CpPeL9DJCQGAEIbkHS) | 3:39 | 2020-02-21 | 2022-04-20 |
 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2021-07-11 |  |
 | [Mockingbird](https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 4:37 | 2019-08-20 |  |
@@ -215,7 +216,7 @@
 | [Slowly](https://open.spotify.com/track/0T4SSmBlTtKAvcqZo8LT6i) | [Josh Gilligan](https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899) | [Slowly](https://open.spotify.com/album/7MMCqgxXaZkGvmSYSl4hp7) | 3:37 | 2019-12-23 |  |
 | [Smile](https://open.spotify.com/track/2HbmLbfMj0m3gMd9E5c9iu) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Smile](https://open.spotify.com/album/1iyGwlFIadFR5N9NuQj60d) | 2:42 | 2020-06-12 | 2021-03-23 |
 | [Some Things Happen](https://open.spotify.com/track/25IU8KLCfdDuTTdf6XzIhO) | [Luke Dick](https://open.spotify.com/artist/5QPfnUFtAHVNdqmJHpJmTg) | [Some Things Happen](https://open.spotify.com/album/6ZWd7y6e7u5zLZmf61SOtU) | 2:48 | 2021-11-12 | 2021-12-21 |
-| [Someone New](https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:42 | 2019-07-29\* |  |
+| [Someone New](https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:42 | 2019-07-29\* | 2022-06-07 |
 | [Something Tells Me](https://open.spotify.com/track/6yWn9RKfL1il1b4hFe6H1i) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Thrilled To Be Here](https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ) | 4:01 | 2019-08-21 |  |
 | [Sometimes Love Takes So Long](https://open.spotify.com/track/0WH1FwH09z2iJ84dRFODcm) | [Illiterate Light](https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J) | [Sometimes Love Takes So Long](https://open.spotify.com/album/54MM8pLcgnDSIWYtt2ikPK) | 3:40 | 2019-08-30 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2020-11-04 | 2021-03-21 |
@@ -246,7 +247,7 @@
 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-05-27 |  |
 | [The A Team](https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7) | 4:18 | 2019-07-29\* | 2019-08-20 |
 | [The Spark](https://open.spotify.com/track/1QXcCFKg64K5Hp6Is3OXzh) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Spark](https://open.spotify.com/album/1PxohJSvOEXVKtcFbxf3VQ) | 3:59 | 2020-02-21 |  |
-| [The Stable Song](https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 6:00 | 2019-07-29\* |  |
+| [The Stable Song](https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 6:00 | 2019-07-29\* | 2022-06-07 |
 | [The Walk](https://open.spotify.com/track/7tBZa65xUKMMan9tIMPqbi) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [How Do You Do](https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V) | 3:38 | 2019-10-25 | 2022-04-19 |
 | [The Wonder Years](https://open.spotify.com/track/1FmPCNnnds4GVMlU25T7OE) | [Melody Federer](https://open.spotify.com/artist/1bPTsrS42w3Gfg2Rk5eZki) | [The Wonder Years](https://open.spotify.com/album/3yMCGsze7eYxCJKy3rPK6y) | 4:00 | 2020-10-07 | 2020-11-04 |
 | [Thinking 'Bout Love](https://open.spotify.com/track/3d3LHam2Lc5ADEyJxG3fXE) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/7cbcg2z1LuCJ2rxAtBRxHt) | 3:19 | 2021-10-02 |  |

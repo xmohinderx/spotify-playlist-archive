@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-133 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+134 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Never Ever](https://open.spotify.com/track/7pXtDwdYtjILjN5cK7UonH) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Never Ever](https://open.spotify.com/album/5gYdpQEHqsfd8y0rvakbw6) | 2:48 | 2022-05-13 | 2022-05-30 |
 | [Nightmares](https://open.spotify.com/track/5xARo31Sdr6Kmk2g9j4t3x) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Nightmares](https://open.spotify.com/album/3FcSS6YhR6HiGx8T0RZ7qy) | 2:45 | 2022-05-13 | 2022-05-30 |
 | [No Drama](https://open.spotify.com/track/1MZmduhi0sK3RbF4cN3dbv) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Sophiegrophy](https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE) | [No Drama](https://open.spotify.com/album/7HNvH4UVOMxMITfeXxu6ch) | 3:47 | 2022-05-29 | 2022-06-04 |
+| [No Numbers](https://open.spotify.com/track/5An03wGKSV1nHmxMhC1ARC) | [Golf Clap](https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN), [owie](https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai) | [No Numbers](https://open.spotify.com/album/0ipcJsuCFXFn1EkH4As0JN) | 3:50 | 2022-06-06 |  |
 | [No Option](https://open.spotify.com/track/4dFuxpnBVz4K5wXw6Qq6mQ) | [Ice X Diaz](https://open.spotify.com/artist/7LjMN8V8JnMOjSQEC9X5EW) | [No Option](https://open.spotify.com/album/7s9zD2VTjtHTRmzuMnuzNJ) | 2:35 | 2022-05-18 | 2022-05-22 |
 | [Nothing More To Say \(feat\. Marlhy\)](https://open.spotify.com/track/0mdXv5Ync5xuX1bTQ6iWt0) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Nothing More To Say \(feat\. Marlhy\)](https://open.spotify.com/album/3lJAE6zPsbNmllojvZaHqG) | 3:27 | 2022-05-13 | 2022-05-30 |
 | [On The Mind](https://open.spotify.com/track/5hWH3qZjiEkuAdy4wjnN7n) | [Pirate Snake](https://open.spotify.com/artist/6GC33IJFo0PDw5bsazEzpj), [Rettake](https://open.spotify.com/artist/2sa3ArlnMSXJNuJDf84THa) | [On The Mind](https://open.spotify.com/album/1bI5Fq35DbaD8d7NGIfx2l) | 2:53 | 2022-05-13 | 2022-05-30 |

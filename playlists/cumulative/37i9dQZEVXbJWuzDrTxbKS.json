@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -6359,7 +6359,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 202497,
       "name": "It's Ok",
       "url": "https://open.spotify.com/track/6lLIDooqwg3xxlbG5P92RP"
@@ -8037,7 +8037,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 180320,
       "name": "L\u012bgava",
       "url": "https://open.spotify.com/track/3sLSl451Qxl6YQgx2YqJl3"
@@ -10353,6 +10353,24 @@
       "duration_ms": 268866,
       "name": "Party Up",
       "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
+    },
+    {
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
     },
     {
       "album": {
@@ -16549,6 +16567,24 @@
       "duration_ms": 205800,
       "name": "\u0421\u0430\u043c\u043e\u043b\u0451\u0442",
       "url": "https://open.spotify.com/track/0pvVSh9uxMraDtdeM3zg5e"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0432\u043e\u0439 \u0434\u043e\u043c",
+        "url": "https://open.spotify.com/album/5ZSMRpbTRGNmsOBxLrtE5V"
+      },
+      "artists": [
+        {
+          "name": "Max Korzh",
+          "url": "https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211583,
+      "name": "\u0421\u0432\u043e\u0439 \u0434\u043e\u043c",
+      "url": "https://open.spotify.com/track/6ovBMbqpAA8N1FtN1fa0Vq"
     },
     {
       "album": {

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "7 and 7 Is",
+        "url": "https://open.spotify.com/album/1L6Hd2oWsT5wJwFfNPBfJY"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148666,
+      "name": "7 and 7 Is",
+      "url": "https://open.spotify.com/track/5lodWqWRbnrWxKIRfzGMVO"
+    },
+    {
+      "album": {
         "name": "The Stiff Years",
         "url": "https://open.spotify.com/album/6l1MVVl2MktecfPNNt829J"
       },
@@ -167,7 +185,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 325200,
       "name": "Are 'Friends' Electric?",
       "url": "https://open.spotify.com/track/4YMjssjl6JWPF4ZIcvcwkg"
@@ -333,7 +351,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 357266,
       "name": "Bitter Sweet Symphony",
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
@@ -423,7 +441,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 227346,
       "name": "Broken Moments",
       "url": "https://open.spotify.com/track/4DuJ3mgi1EtY2HflhJtW1N"
@@ -445,7 +463,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 294506,
       "name": "C'mon People (We're Making It Now) [feat. Liam Gallagher]",
       "url": "https://open.spotify.com/track/3ZGOhkbH5bQqorcBvB26pP"
@@ -463,7 +481,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 205478,
       "name": "Can't Help Thinking About Me",
       "url": "https://open.spotify.com/track/2MZykOE6SZ4uWxKrgdGoq8"
@@ -539,7 +557,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 379213,
       "name": "Comfortably Numb - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/7Fg4jpwpkdkGCvq1rrXnvx"
@@ -611,7 +629,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 262826,
       "name": "Do You Remember The First Time?",
       "url": "https://open.spotify.com/track/0txLC5NA64M8siGn3mnET0"
@@ -669,7 +687,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 264507,
       "name": "Dustland (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/6F3AStga2KRSJVZvVA5L3c"
@@ -893,7 +911,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 172173,
       "name": "How Long Will I Love You 2021",
       "url": "https://open.spotify.com/track/4YbcwXlpp49lLHf9fMChMc"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 245573,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/5DA2AKGBLh6F37BEo217r0"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 276666,
       "name": "Live Forever - Remastered",
       "url": "https://open.spotify.com/track/0nOF9ewQlwzVU0qKPR2DTq"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 260026,
       "name": "My Hero",
       "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
@@ -1513,10 +1531,32 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 229297,
       "name": "Need a Little Love",
       "url": "https://open.spotify.com/track/6XNSmhOrXmuje5Ee6S5RMM"
+    },
+    {
+      "album": {
+        "name": "No Flag (Chant\u00e9)",
+        "url": "https://open.spotify.com/album/19jP21VimKUmdJqUkioPy1"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236602,
+      "name": "No Flag - Chant\u00e9",
+      "url": "https://open.spotify.com/track/4AuKMQ9uLqxp1MBqp61fcQ"
     },
     {
       "album": {
@@ -1585,7 +1625,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 229026,
       "name": "Orwellian",
       "url": "https://open.spotify.com/track/5D651d3YNq4kqWG8YdO29n"
@@ -1639,7 +1679,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 187040,
       "name": "Parklife",
       "url": "https://open.spotify.com/track/3mqRLlD9j92BBv1ueFhJ1l"
@@ -1729,7 +1769,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
@@ -1747,7 +1787,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 197808,
       "name": "Rushing Water",
       "url": "https://open.spotify.com/track/5WbDz2wejq1YgdwFaJAipD"
@@ -1823,7 +1863,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 393666,
       "name": "Shout",
       "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
@@ -1841,7 +1881,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 292720,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/1t6iqwiBtWXRrZZqZsud56"
@@ -1917,7 +1957,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 482830,
       "name": "Stairway to Heaven - Remaster",
       "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
@@ -2007,7 +2047,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 419240,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa"
@@ -2155,7 +2195,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 253226,
       "name": "The Tipping Point",
       "url": "https://open.spotify.com/track/3TVAzlsAyk0thTcwRMEIm2"
@@ -2235,7 +2275,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 245946,
       "name": "Trash",
       "url": "https://open.spotify.com/track/5sVPOuJJAmidyxU8LjJBVu"
@@ -2315,7 +2355,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
@@ -2405,7 +2445,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 248000,
       "name": "We're On Our Way Now",
       "url": "https://open.spotify.com/track/2ySHAi6CPwpGYdsomsezWg"
@@ -2441,7 +2481,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 232746,
       "name": "You Should Be Dancing",
       "url": "https://open.spotify.com/track/1Iu66OVgb8wioY6tpesoQS"

@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 146065,
       "name": "All Night & Every Day",
       "url": "https://open.spotify.com/track/6uMw8SDp0npgOKO0pbmmPZ"
@@ -1001,7 +1001,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 401951,
       "name": "Back To My Love",
       "url": "https://open.spotify.com/track/0onLNYV4aYuSQb8wPxR0O0"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 176039,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/6ZCPLvXEuf5z9Wgq7EbGS8"
@@ -1491,7 +1491,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 245624,
       "name": "BLACK MAGIC",
       "url": "https://open.spotify.com/track/0MAmBZVV9a6bdeiBPZXSW9"
@@ -2187,7 +2187,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 160475,
       "name": "Can't Believe",
       "url": "https://open.spotify.com/track/6mLyj5lvyd3m8AvMkIGIvv"
@@ -2253,7 +2253,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 202204,
       "name": "Can't You See - Radio Edit",
       "url": "https://open.spotify.com/track/6zRBMIDHnuuvWyaumNNcQF"
@@ -3831,7 +3831,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 139615,
       "name": "Drag Me Out",
       "url": "https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V"
@@ -4409,7 +4409,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 279374,
       "name": "F*CKING SOCIETY",
       "url": "https://open.spotify.com/track/45857Pj90KZO6U0hzjfLfT"
@@ -5201,7 +5201,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 168000,
       "name": "Funky Town",
       "url": "https://open.spotify.com/track/4A7aOnpjE4yytIbXTg6BxT"
@@ -6991,6 +6991,24 @@
       "duration_ms": 184390,
       "name": "If You Really Love Me (How Will I Know)",
       "url": "https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA"
+    },
+    {
+      "album": {
+        "name": "Ikaris",
+        "url": "https://open.spotify.com/album/07QnnCloPz1zc9MwYUErox"
+      },
+      "artists": [
+        {
+          "name": "Leonard A",
+          "url": "https://open.spotify.com/artist/5B96LwVo1fnVehzyyxCzYC"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225858,
+      "name": "Ikaris",
+      "url": "https://open.spotify.com/track/3VIALHoZjuV0aFvENmn413"
     },
     {
       "album": {
@@ -8929,7 +8947,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 142677,
       "name": "Monday Kind of Tuesday",
       "url": "https://open.spotify.com/track/6V8UEh7aSmuh1qxe1HnNnE"
@@ -9267,6 +9285,32 @@
       "duration_ms": 130175,
       "name": "Music Sounds Better with You",
       "url": "https://open.spotify.com/track/1djIwYoEhJj8xvcFeq2mWz"
+    },
+    {
+      "album": {
+        "name": "My Feelings For You (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/32jpJfXBTiNcdVHSLib498"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "My Feelings For You - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms"
     },
     {
       "album": {
@@ -10361,7 +10405,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 180047,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/2wSudk1Z9HMdPNrWnwu6mc"
@@ -13881,7 +13925,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 190975,
       "name": "Strangers (with Mansionair) - Nora En Pure Remix",
       "url": "https://open.spotify.com/track/4XWwO9fZnrDhXZrMBMGesE"
@@ -14553,7 +14597,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 170982,
       "name": "Teardrops (feat. Majid Jordan)",
       "url": "https://open.spotify.com/track/0pPpcDDIiVBeBS5jBecnSC"
@@ -15683,6 +15727,24 @@
       "duration_ms": 244000,
       "name": "Trancist",
       "url": "https://open.spotify.com/track/3NAasXSj7PKt3it8dluxcT"
+    },
+    {
+      "album": {
+        "name": "Trust Fall",
+        "url": "https://open.spotify.com/album/5rXnIb1ogWzXaVnfzkxht2"
+      },
+      "artists": [
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218250,
+      "name": "Trust Fall",
+      "url": "https://open.spotify.com/track/4jQZkLxVApMh4NPRWVSuP9"
     },
     {
       "album": {

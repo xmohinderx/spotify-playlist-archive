@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Jungle
 
-287 songs - 21 hr 36 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
+288 songs - 21 hr 43 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 | 2022-02-04 | 2022-05-06 |
 | [Mandé](https://open.spotify.com/track/3ydhof4E7ANkc33BdTIkLZ) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Dopa La Vita / Mandé](https://open.spotify.com/album/7FESkU8kbkDSGaGhXUjWHu) | 6:03 | 2022-01-14 | 2022-05-20 |
 | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2021-12-28 | 2022-01-14 |
+| [Marvel House](https://open.spotify.com/track/4LFZaQ5QZqY0QSNcUpWbPx) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Thurman](https://open.spotify.com/artist/7cyIjesBT6mLJcJ5RRsjeM) | [Marvel House Ep](https://open.spotify.com/album/415c3UtX7HeTkMi20QEYxc) | 6:23 | 2022-06-06 |  |
 | [Mash up the Dance](https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv) | 3:09 | 2022-05-18 |  |
 | [MDS \(with Theophilus London\)](https://open.spotify.com/track/0U2fb4cYZyTAFe998npOqh) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [MDS \(with Theophilus London\)](https://open.spotify.com/album/3Npf53owvoQ2jvnLjPCauy) | 2:56 | 2021-11-24\* | 2021-12-03 |
 | [Metaphysical](https://open.spotify.com/track/308mW3tmRmWG5K3g6HVyl3) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Metaphysical](https://open.spotify.com/album/14yXH9auX3hfPGt2l7b7rS) | 5:03 | 2022-03-04 |  |

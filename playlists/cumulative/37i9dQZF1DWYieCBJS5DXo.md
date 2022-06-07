@@ -4,7 +4,7 @@
 
 > Serving up your favorite songs about snacks!
 
-35 songs - 1 hr 18 min - not published yet
+35 songs - 1 hr 18 min - [published](https://open.spotify.com/playlist/13MRTFFYUMBnQ24Jf2e69H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

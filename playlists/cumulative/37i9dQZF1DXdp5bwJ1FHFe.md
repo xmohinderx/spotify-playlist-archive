@@ -4,7 +4,7 @@
 
 > Relaxing rain sounds for sleepy babies.
 
-235 songs - 11 hr 7 min - not published yet
+235 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/1CixQdDdegNM9gkFeoMyAJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

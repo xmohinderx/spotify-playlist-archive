@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Miss May I on top of the biggest Metal playlist!
+> Falling In Reverse on top of the biggest Metal playlist!
 
-174 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
+177 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Daggers](https://open.spotify.com/track/7yhN7C46ts8tAKHoNRrBL6) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Daggers](https://open.spotify.com/album/3RC2BMP1bYDgext5fX0w6w) | 3:14 | 2021-12-20 | 2022-04-22 |
 | [Dancing with the Dead](https://open.spotify.com/track/2wRwogyIPvVRAJWEdqbBwB) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Dancing with the Dead](https://open.spotify.com/album/1KBFqITCyMhonkokYPluHD) | 2:49 | 2021-12-20 | 2022-02-11 |
 | [Darkbloom](https://open.spotify.com/track/5eqB8FjyujwxBGfdibWEuL) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Darkbloom](https://open.spotify.com/album/5HiOzuBPohbCkMl7vidboI) | 3:44 | 2022-04-22 |  |
-| [Days Of The Lost](https://open.spotify.com/track/34JGsiDkpgQ9KtjKNOO3h4) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Days Of The Lost](https://open.spotify.com/album/7hFCSY0JLmWyeNT8NkBkm7) | 3:37 | 2022-04-15 |  |
+| [Days Of The Lost](https://open.spotify.com/track/34JGsiDkpgQ9KtjKNOO3h4) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Days Of The Lost](https://open.spotify.com/album/7hFCSY0JLmWyeNT8NkBkm7) | 3:37 | 2022-04-15 | 2022-06-07 |
 | [Dead Inside](https://open.spotify.com/track/47xrDjgTsXiSczuZENqUoH) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1), [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Dead Inside \(feat\. David Draiman of Disturbed\)](https://open.spotify.com/album/3iWO24LnOzcDaqA7UNgG6w) | 4:00 | 2021-12-20 | 2022-05-13 |
 | [Deadman](https://open.spotify.com/track/06OJVnoWmumCvMhAgi1zga) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Deadman](https://open.spotify.com/album/5UyRUec6G8ArrTXgIkfDGs) | 3:29 | 2022-01-28 | 2022-04-08 |
 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 | 2022-02-24 | 2022-05-20 |
@@ -58,7 +58,7 @@
 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 | 2022-05-20 |  |
 | [False Providence \(feat\. Mick Gordon\)](https://open.spotify.com/track/3G5oOfICsWYVeONbtB7vRJ) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [False Providence \(feat\. Mick Gordon\)](https://open.spotify.com/album/7hMm40HVdj5nViNO7PruJf) | 5:01 | 2022-03-24 |  |
 | [Feel What I Believe](https://open.spotify.com/track/1a1c2RbKhs6ozVLdrlWXJQ) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Feel What I Believe](https://open.spotify.com/album/5iEKR8ZWRqcVXlQ5qgLWHr) | 4:00 | 2022-01-21 | 2022-04-15 |
-| [Flesh And Stone](https://open.spotify.com/track/3wyVcK3etnz24JX8K62b6O) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Flesh And Stone](https://open.spotify.com/album/51oXFQ9EJjYzdS09zCxmjj) | 4:10 | 2022-05-13 |  |
+| [Flesh And Stone](https://open.spotify.com/track/3wyVcK3etnz24JX8K62b6O) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Flesh And Stone](https://open.spotify.com/album/51oXFQ9EJjYzdS09zCxmjj) | 4:10 | 2022-05-13 | 2022-06-07 |
 | [Flood](https://open.spotify.com/track/2N4qPl1Nuq1xVopkvJmf7m) | [Outrun the Fall](https://open.spotify.com/artist/6U70wG368rrDhQXmAfa4lP) | [Flood](https://open.spotify.com/album/5tUFQmv76ZpirBKax54jrw) | 3:09 | 2021-12-20 | 2022-03-18 |
 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 | 2022-01-14 | 2022-05-06 |
 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 | 2021-12-20 | 2022-03-04 |
@@ -134,6 +134,7 @@
 | [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 | 2021-12-20 |  |
 | [Soldier of Heaven](https://open.spotify.com/track/3E03jj3nVNtFoMYQIweVdG) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Soldier Of Heaven](https://open.spotify.com/album/7u1ih7nlNGFE9sAkM4ac8C) | 3:38 | 2022-01-07 | 2022-02-11 |
 | [Spaceman \(feat\. FiNCH\)](https://open.spotify.com/track/6OXlb1FnbySxMPPhbwiXic) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Spaceman \(feat\. FiNCH\)](https://open.spotify.com/album/5bbrawfeXG2MHOYw0OSTyK) | 3:10 | 2022-04-08 | 2022-05-13 |
+| [Stand Down](https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Shrine](https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg) | 4:06 | 2022-06-06 |  |
 | [Stand Down](https://open.spotify.com/track/2ugULOhXNVpIvksyagm9Qr) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Stand Down](https://open.spotify.com/album/3YmIQSVKDgvDkDAdU03vEs) | 4:06 | 2022-04-15 | 2022-05-13 |
 | [Standing My Ground](https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Standing My Ground](https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs) | 2:48 | 2022-01-14 | 2022-04-08 |
 | [Start The Healing](https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Start The Healing](https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH) | 3:28 | 2021-12-20 | 2022-01-21 |
@@ -149,6 +150,7 @@
 | [The Chapeltown Rag](https://open.spotify.com/track/4DQEhtFcX9nK0zWNjb1xBw) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Chapeltown Rag](https://open.spotify.com/album/4I3hdRt7CVofGcgbheQ2fk) | 4:51 | 2021-12-20 | 2022-03-25 |
 | [The Hunt](https://open.spotify.com/track/4RYg7V9NzIfXOhYx5xbxff) | [Dagoba](https://open.spotify.com/artist/1iZlQG09PwkMVMumsvgFj4) | [By Night](https://open.spotify.com/album/0GHtyfgjNanp1kheoy8MOu) | 4:26 | 2022-02-24 | 2022-03-04 |
 | [The Moon](https://open.spotify.com/track/3j3QVCJXXZXfgB5sjN1TEY) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [The Moon](https://open.spotify.com/album/2iYLHZ81SJa5MY9BDjCek9) | 5:57 | 2021-12-20 | 2022-01-28 |
+| [The Needless End](https://open.spotify.com/track/5xwl73peQHvNesc12UVNwC) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [The Needless End](https://open.spotify.com/album/1j92r9irbE3Sqb6MFzBUkJ) | 4:04 | 2022-06-06 |  |
 | [The Rain](https://open.spotify.com/track/3VfLjiVTnB7VQnzK0gUr0d) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [The Rain](https://open.spotify.com/album/6b6ub6gxztDNnzFyQag5sS) | 3:06 | 2021-12-20 | 2022-04-08 |
 | [The Steeple](https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Steeple](https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o) | 3:27 | 2022-02-04 | 2022-04-22 |
 | [The Unkillable Soldier](https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Unkillable Soldier](https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte) | 4:11 | 2022-02-11 | 2022-04-01 |
@@ -163,6 +165,7 @@
 | [Under Your Skin](https://open.spotify.com/track/4A0lu7ZxNwGFia8AzY8ZXy) | [Shaman's Harvest](https://open.spotify.com/artist/3pigXV2QUatr3szcb3MacR) | [Under Your Skin](https://open.spotify.com/album/5yh12susUWiXc4kRRfKH5o) | 3:23 | 2021-12-20 | 2022-01-28 |
 | [Unstoppable](https://open.spotify.com/track/294Abb02j2OpQSHFRGNPSc) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Unstoppable](https://open.spotify.com/album/5KQP4GU3vUJvcqDDnsxcGC) | 3:07 | 2021-12-20 | 2022-01-14 |
 | [Views From Halfway Down](https://open.spotify.com/track/6K2VQLJfexhkn3teQeAwkd) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Views From Halfway Down](https://open.spotify.com/album/5Ws6SfeRSLUZWlW3tPAOtM) | 3:48 | 2021-12-20 | 2022-04-01 |
+| [Voices In My Head](https://open.spotify.com/track/5XUuldRjPXcP5QxyEN4IXT) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Voices In My Head](https://open.spotify.com/album/7r9WVGq5YRQ4eeYUYzmk8b) | 3:11 | 2022-06-06 |  |
 | [Wait For Me \(feat\. Trevor McNevan of Thousand Foot Krutch\)](https://open.spotify.com/track/5CGfdX7fVUbDVHZSIk7loe) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Quarantine Chronicles Vol\. 3](https://open.spotify.com/album/6IYKwZgZd6FhTpnbnWZJ3C) | 3:09 | 2021-12-20 | 2022-01-14 |
 | [Wake Up Dead](https://open.spotify.com/track/4cj9oqXwEDaXOADJw9clMc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake Up Dead](https://open.spotify.com/album/6P0dS26zzxkYkxDFiLSrre) | 3:43 | 2022-04-01 | 2022-05-13 |
 | [Watcher In The Sky](https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:48 | 2022-03-11 |  |
@@ -180,7 +183,7 @@
 | [Your Turn](https://open.spotify.com/track/75AZlyIs97sFPiQ1MJGaf8) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Your Turn](https://open.spotify.com/album/7wFj6fW3MRC9dQeumu2qeK) | 3:21 | 2022-04-29 |  |
 | [Zeit](https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu) | 5:21 | 2022-03-11 | 2022-04-08 |
 | [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 | 2022-04-08 | 2022-04-29 |
-| [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 | 2022-01-07 |  |
+| [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 | 2022-01-07 | 2022-06-07 |
 | [Övergivenheten \- Single Edit](https://open.spotify.com/track/4N7F0yJ3IqPJbsqB3z0huv) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Övergivenheten](https://open.spotify.com/album/0m5Myw8279H3fmmhSd5XdT) | 3:52 | 2022-05-13 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

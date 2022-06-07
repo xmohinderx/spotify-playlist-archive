@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,440 songs - 3 day 11 hr 53 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,441 songs - 3 day 11 hr 56 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Blue Moon \- Dorian Remix](https://open.spotify.com/track/2ux9N6Y4H4U9GIjs0i3LEW) | [Sean Kool](https://open.spotify.com/artist/7L3wTnkJU2jSzeOyX30nKR) | [Blue Moon \(Dorian Remix\)](https://open.spotify.com/album/1dCvElMRXbrj8TyT5b0TEM) | 3:15 | 2021-02-26 | 2021-07-25 |
 | [Blue Summer](https://open.spotify.com/track/3xKqJA2Qy0QboulKbztFUO) | [Natalie K](https://open.spotify.com/artist/2B2JJHFfdtp2H10DPMypwB) | [Blue Summer](https://open.spotify.com/album/2IVRvZcfdk3RpVPtfarSQd) | 3:59 | 2021-07-10 | 2021-07-25 |
 | [Blue World](https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 3:29 | 2020-08-20 |  |
+| [Blue, Baby](https://open.spotify.com/track/186NWFVx7nXJX66eFgCY36) | [Botaii](https://open.spotify.com/artist/0FsuDCPtrx3MQka05c0rWv) | [Blue, Baby](https://open.spotify.com/album/2aUZQH93kb1NC7iYtp4n5b) | 2:56 | 2022-06-06 |  |
 | [Boardwalk](https://open.spotify.com/track/1XOkBd2q1NOjsQ1oSOBjnn) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Boardwalk](https://open.spotify.com/album/6X4pmVkbNI859VJbY0E8r0) | 2:31 | 2022-02-26 | 2022-03-19 |
 | [Boat On The Water](https://open.spotify.com/track/7ikcxWanR5beCgGYBPJytv) | [Skinny Dippers](https://open.spotify.com/artist/0Dob2W5r4Uxwa1WIJRt67Y) | [Boat On The Water](https://open.spotify.com/album/6ARNAIAPVO5CgBMRQgba9j) | 4:17 | 2022-05-17 |  |
 | [Body Double](https://open.spotify.com/track/4V7yVMtfa4dHlnhCgU3TQC) | [Dance Yourself Clean](https://open.spotify.com/artist/6Cj1snEd81rwhRQgFormQc), [Van Bobbi](https://open.spotify.com/artist/4nU2SDiR8P7j6hzzI0JVHi) | [Body Double](https://open.spotify.com/album/5kWEJWoBifGdhMip0yBLkB) | 3:02 | 2019-12-17 | 2019-12-27 |

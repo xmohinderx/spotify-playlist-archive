@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u062d\u0633\u064a\u0646 \u0627\u0644\u062c\u0633\u0645\u064a",
+  "description": "\u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u0627\u0645\u064a \u0635\u0628\u0631\u064a",
   "name": "\u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a",
   "published_playlist_ids": [
     "7rd0UNTK9BBzffp6c0LMpx"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 188800,
       "name": "Baseeta",
       "url": "https://open.spotify.com/track/0SL61SAE5LKt2ktmG3tdWA"
@@ -1179,6 +1179,24 @@
       "duration_ms": 252609,
       "name": "Hayfout Alek",
       "url": "https://open.spotify.com/track/7hRVdE7Ta0wNiYHIySnUOZ"
+    },
+    {
+      "album": {
+        "name": "Heya",
+        "url": "https://open.spotify.com/album/24O4GnTk1ns6Ok5g2fwv2v"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239512,
+      "name": "Heya",
+      "url": "https://open.spotify.com/track/1FRiynLmE6uEsDayYZflEU"
     },
     {
       "album": {

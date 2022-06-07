@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Concedeme",
+        "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146533,
+      "name": "Amargo Dolor",
+      "url": "https://open.spotify.com/track/40Xi96Q11Z05FmQJCLqH2G"
+    },
+    {
+      "album": {
         "name": "Las Bandas Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 187266,
       "name": "Atrapado",
       "url": "https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff"
@@ -181,7 +199,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 171781,
       "name": "Cuando Me Vi En Tus Ojos",
       "url": "https://open.spotify.com/track/6LVnqu9o1XKTV03tBgiEsR"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 216586,
       "name": "La Manuelita",
       "url": "https://open.spotify.com/track/4mSRvEUd338ZSDGR4ApCOR"
@@ -509,6 +527,24 @@
       "duration_ms": 150493,
       "name": "Las Morenas",
       "url": "https://open.spotify.com/track/5JmEjPobY0W4JN8F20yeeh"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n (Componente 1)",
+        "url": "https://open.spotify.com/album/7mxr7LJxTrvFV49FkjmEpI"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178964,
+      "name": "Macario Leyva",
+      "url": "https://open.spotify.com/track/7k2RA1k38FbvVnenGGdrhD"
     },
     {
       "album": {
@@ -749,7 +785,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 194853,
       "name": "Profundamente",
       "url": "https://open.spotify.com/track/2J3BdzcJlWoH5JqL4jxuMY"

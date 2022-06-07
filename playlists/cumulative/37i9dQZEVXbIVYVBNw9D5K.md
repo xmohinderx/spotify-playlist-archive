@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-444 songs - 23 hr 3 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+445 songs - 23 hr 6 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [AMCAS RMX](https://open.spotify.com/track/6w55Qrt9626sXuYs01trjl) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [AMCAS RMX](https://open.spotify.com/album/5z0IefAAQPkTshW861JWCu) | 2:29 | 2021-05-16 | 2021-11-22 |
 | [Andale](https://open.spotify.com/track/2V64fb2d4QiLDJggvQ96oP) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Andale](https://open.spotify.com/album/23Au9Guf2G0eJfYnHLO1Pw) | 2:44 | 2021-05-09 | 2021-05-10 |
 | [Anla](https://open.spotify.com/track/5SFBaOi2ELB2P5tFzmcD73) | [Diyar Pala](https://open.spotify.com/artist/23Q5T7JtqekFJMbC0XKxnh) | [Yeni Bir Flow](https://open.spotify.com/album/04WsTZt99MiX7jqrEeVTI2) | 4:29 | 2022-03-07 |  |
-| [Anlayamazsın](https://open.spotify.com/track/39DenhkBkmDsYBpl1rAchr) | [Seksendört](https://open.spotify.com/artist/7IgzsWd4tWIn70uh6dAq8d) | [Anlayamazsın](https://open.spotify.com/album/2wvOjQFpSeiG1nETlPZEHA) | 4:02 | 2022-05-11 |  |
+| [Anlayamazsın](https://open.spotify.com/track/39DenhkBkmDsYBpl1rAchr) | [Seksendört](https://open.spotify.com/artist/7IgzsWd4tWIn70uh6dAq8d) | [Anlayamazsın](https://open.spotify.com/album/2wvOjQFpSeiG1nETlPZEHA) | 4:02 | 2022-05-11 | 2022-06-07 |
 | [ANNEM](https://open.spotify.com/track/0sV8aF2nsRakm2p8czHQ2i) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:26 | 2022-03-20 | 2022-03-22 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-11-11 |  |
 | [ANTEN FREESTYLE \(PLA4 INTRO\)](https://open.spotify.com/track/6BEMX2p0T54cQlI8k33drI) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [ANTEN FREESTYLE \(PLA4 INTRO\)](https://open.spotify.com/album/5Mf7XUKnYNRfNe7Yhzufuu) | 2:28 | 2021-08-15 | 2021-08-17 |
@@ -316,6 +316,7 @@
 | [NERDESİN](https://open.spotify.com/track/3JQCETql5pwrFFG5y2CrLC) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:45 | 2021-06-13 | 2021-06-14 |
 | [NERDESİN](https://open.spotify.com/track/3YHvDD4kOmU0aNyq9QH5tW) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [NERDESİN](https://open.spotify.com/album/0fE1B7BGyBGXQsKUKXmlcV) | 3:45 | 2021-04-26 | 2021-05-10 |
 | [Neyse Ne](https://open.spotify.com/track/1sLJtaMAbXGdvHDiPjg0eq) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Neyse Ne](https://open.spotify.com/album/395nlaZJns6xnreX5HdExs) | 2:56 | 2021-04-04 | 2021-04-11 |
+| [NKBİ](https://open.spotify.com/track/7lkqbdBKrsyNNq3xi0LeaY) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:57 | 2022-06-06 |  |
 | [O LA LA](https://open.spotify.com/track/1qi3oAU3QDe3dPdGEY09dr) | [GOKO!](https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [O LA LA](https://open.spotify.com/album/0uBZmFQB35RUrwevBBc9dM) | 3:35 | 2021-10-10 | 2021-10-17 |
 | [OHA Remix \(feat\. Luciano\)](https://open.spotify.com/track/6XxDxfDeSl1IPlt1h77ZlY) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [OHA Remix \(feat\. Luciano\)](https://open.spotify.com/album/4Bf4YbkcmXRxMlELeoJVzz) | 3:15 | 2021-09-14 | 2021-10-04 |
 | [OKYANUS](https://open.spotify.com/track/3MVFApkSoJ2v3q86f0FYlQ) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [OKYANUS](https://open.spotify.com/album/42dc5NUDn98uL08HK6ig9E) | 2:58 | 2022-02-19 | 2022-02-25 |
