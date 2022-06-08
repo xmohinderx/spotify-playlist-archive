@@ -598,6 +598,28 @@
     },
     {
       "album": {
+        "name": "Axexan, espreitan",
+        "url": "https://open.spotify.com/album/7ESdKLT2LfrMzBF5tUzzbK"
+      },
+      "artists": [
+        {
+          "name": "Moura",
+          "url": "https://open.spotify.com/artist/0gUTcqiogophrLtO9UNPYW"
+        },
+        {
+          "name": "Bel\u00e9m Tajes",
+          "url": "https://open.spotify.com/artist/2KYofC3oMxJFy5LHKw58a0"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Alborada do al\u00e9n",
+      "url": "https://open.spotify.com/track/5vxqhMfBHfKy4uOMnlGgsy"
+    },
+    {
+      "album": {
         "name": "Alien 3",
         "url": "https://open.spotify.com/album/1oiHh5cTcLLZBbYXa2Oht8"
       },
@@ -1868,6 +1890,28 @@
     },
     {
       "album": {
+        "name": "For the Birds: The Birdsong Project, Vol. I",
+        "url": "https://open.spotify.com/album/6c8aHa89kWTsrcz0iw7fgS"
+      },
+      "artists": [
+        {
+          "name": "Darius Christian",
+          "url": "https://open.spotify.com/artist/66jXqW0BTJEH14cra11OtM"
+        },
+        {
+          "name": "Reginald Chapman",
+          "url": "https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296720,
+      "name": "Bone's Lament",
+      "url": "https://open.spotify.com/track/6hccw206CF0HoPHWIGX55W"
+    },
+    {
+      "album": {
         "name": "Orrery",
         "url": "https://open.spotify.com/album/2iYGCxK8yrOIFmGXHPMyf4"
       },
@@ -2056,6 +2100,24 @@
     },
     {
       "album": {
+        "name": "NON-BACKGROUND MUSIC",
+        "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
+      },
+      "artists": [
+        {
+          "name": "72-HOUR POST FIGHT",
+          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296543,
+      "name": "BUG",
+      "url": "https://open.spotify.com/track/06XaxwXwSFobXivqcLW3Mw"
+    },
+    {
+      "album": {
         "name": "howwouldyoufeelwithoutthatthought",
         "url": "https://open.spotify.com/album/5VNb2OirG8V1pNLvXhg9VK"
       },
@@ -2107,6 +2169,24 @@
       "duration_ms": 216000,
       "name": "C Tactile Afferent",
       "url": "https://open.spotify.com/track/0ofnaWYCsOls6vzFNQ07SU"
+    },
+    {
+      "album": {
+        "name": "C Tactile Afferent",
+        "url": "https://open.spotify.com/album/5krbsO1rn41ZxoepTT1Se2"
+      },
+      "artists": [
+        {
+          "name": "Ola Szmidt",
+          "url": "https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216102,
+      "name": "C Tactile Afferent",
+      "url": "https://open.spotify.com/track/5dSqT8JFlqCWMoFKQrUJHa"
     },
     {
       "album": {
@@ -2323,6 +2403,36 @@
       "duration_ms": 257026,
       "name": "Changing",
       "url": "https://open.spotify.com/track/4nv5Jm6m84zvf8W5RavLop"
+    },
+    {
+      "album": {
+        "name": "Chapter 2 (feat. Laurel Halo) [Peverelist Remix]",
+        "url": "https://open.spotify.com/album/3eYMNn2QC4k8hGSSnk3yUX"
+      },
+      "artists": [
+        {
+          "name": "Moritz Von Oswald Trio",
+          "url": "https://open.spotify.com/artist/2yRfLXpz7uqOPvmpMdBqL2"
+        },
+        {
+          "name": "Heinrich Kobberling",
+          "url": "https://open.spotify.com/artist/1SSqI0bXEMPNpjPb5iQQx6"
+        },
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        },
+        {
+          "name": "Peverelist",
+          "url": "https://open.spotify.com/artist/0UrA452V5vJpCW5ezx0YMP"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298151,
+      "name": "Chapter 2 (feat. Laurel Halo) - Peverelist Remix",
+      "url": "https://open.spotify.com/track/1xNjNoGC0SbQBkMvPxQWe1"
     },
     {
       "album": {
@@ -3371,7 +3481,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 184000,
       "name": "Diamond Beach",
       "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
@@ -3487,6 +3597,28 @@
       "duration_ms": 394386,
       "name": "Discrete (The Market)",
       "url": "https://open.spotify.com/track/2h0tsulVU8hOZzHog4mLk0"
+    },
+    {
+      "album": {
+        "name": "echoes of happenstance 4",
+        "url": "https://open.spotify.com/album/12DbY0GKMmUD3yBmiCpaSm"
+      },
+      "artists": [
+        {
+          "name": "Siwa",
+          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
+        },
+        {
+          "name": "KIRARA",
+          "url": "https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "distance to breathe - KIRARA rework",
+      "url": "https://open.spotify.com/track/7bKJ8YQ2TGBGA37Q6KMN22"
     },
     {
       "album": {
@@ -4405,6 +4537,24 @@
       "duration_ms": 282578,
       "name": "Falling on Earth",
       "url": "https://open.spotify.com/track/1Vm1i8vLOiRK2Ok1sCkvGD"
+    },
+    {
+      "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/4P0Svos3rBkH5RCYOpzlt9"
+      },
+      "artists": [
+        {
+          "name": "Wytchings",
+          "url": "https://open.spotify.com/artist/08wkL5BJixMdK3uk6GQ1ay"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365528,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/1OJNUEqrNlQqiBywcol8dZ"
     },
     {
       "album": {
@@ -6289,7 +6439,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 267099,
       "name": "I'm Not Dead",
       "url": "https://open.spotify.com/track/6l5HMw7YAXld3qC7qc4BMA"
@@ -7331,7 +7481,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 218533,
       "name": "Kids are electric",
       "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
@@ -7643,6 +7793,28 @@
       "duration_ms": 2579826,
       "name": "LBM III {One Track}",
       "url": "https://open.spotify.com/track/1khiyryBzDCxqOtbZbxeuk"
+    },
+    {
+      "album": {
+        "name": "Learn Nothing",
+        "url": "https://open.spotify.com/album/2qUkNW996EOxmEUhFXNPER"
+      },
+      "artists": [
+        {
+          "name": "Logic Lost",
+          "url": "https://open.spotify.com/artist/5lp3vcEKa04pzONHOZJ7Td"
+        },
+        {
+          "name": "Rully Shabara",
+          "url": "https://open.spotify.com/artist/2NZpxwQJewjRKkW3bDBWgu"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238001,
+      "name": "Learn Nothing",
+      "url": "https://open.spotify.com/track/62bdRTsoCLqWKuURUCqdDK"
     },
     {
       "album": {
@@ -8667,7 +8839,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 306676,
       "name": "Melting Hazard",
       "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
@@ -9690,6 +9862,32 @@
     },
     {
       "album": {
+        "name": "Nie lubi\u0119 si\u0119 k\u0142a\u015b\u0107 / w nocy",
+        "url": "https://open.spotify.com/album/13lERACDVnjplqyhzQGlLM"
+      },
+      "artists": [
+        {
+          "name": "OUTPOST",
+          "url": "https://open.spotify.com/artist/7cS6COG2pifHvvQR2VUNJl"
+        },
+        {
+          "name": "Bia\u0142y Falochron",
+          "url": "https://open.spotify.com/artist/7cBzCHNcMBGPXSkdhZZTul"
+        },
+        {
+          "name": "Kopi",
+          "url": "https://open.spotify.com/artist/3vQToitmV1wt8ZMPFAZFEG"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205935,
+      "name": "Nie lubi\u0119 si\u0119 k\u0142a\u015b\u0107 / w nocy",
+      "url": "https://open.spotify.com/track/4UwEQE7khjmmRdzCK46uab"
+    },
+    {
+      "album": {
         "name": "Suddenly I Am Falling",
         "url": "https://open.spotify.com/album/2BordD7HRLKpTukyPxetBN"
       },
@@ -9723,7 +9921,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 186600,
       "name": "Night Journeys I",
       "url": "https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq"
@@ -10791,7 +10989,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 236571,
       "name": "Places",
       "url": "https://open.spotify.com/track/0W19yFYTuqrgTAE1p19uGA"
@@ -11145,7 +11343,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 279601,
       "name": "Quakenbr\u00fcck - version",
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
@@ -11329,7 +11527,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 224435,
       "name": "Refractions",
       "url": "https://open.spotify.com/track/0aMlFZh0kcbGDknlQTRCE3"
@@ -12869,7 +13067,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 178933,
       "name": "Songlines",
       "url": "https://open.spotify.com/track/3fvZywYoedWs64wlQp9tee"
@@ -14279,7 +14477,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 216758,
       "name": "These Are Heavy Things",
       "url": "https://open.spotify.com/track/4pupPSHAUxLmgN0s2hiEAj"
@@ -14871,6 +15069,24 @@
       "duration_ms": 204000,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/2dn2bFwpIaRB1CRu0V9ZVl"
+    },
+    {
+      "album": {
+        "name": "Umbra",
+        "url": "https://open.spotify.com/album/4JJ56IJQdwUNfcexYgJf3n"
+      },
+      "artists": [
+        {
+          "name": "Monica Hapsari",
+          "url": "https://open.spotify.com/artist/20A3XzYQEOFjheUWIfOK6j"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437634,
+      "name": "Umbra",
+      "url": "https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO"
     },
     {
       "album": {

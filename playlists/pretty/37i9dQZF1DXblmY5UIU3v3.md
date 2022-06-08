@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,811 likes - 51 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,719 likes - 51 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 32 | [Dune](https://open.spotify.com/track/3DYl0qnXwMYMKcXHn95i7d) | [Infraction](https://open.spotify.com/artist/7qlhXQA7QMXRwHtfTcQoyJ), [Alexi Action](https://open.spotify.com/artist/5Q3fDuVVQh3Bn8SVcIdqKw) | [Dune](https://open.spotify.com/album/6IzhSilCIno7FCwaj74CmD) | 2:23 |
 | 33 | [Are You Ready](https://open.spotify.com/track/5jCBYOK6Suute7842zfYx5) | [BAD NINJA](https://open.spotify.com/artist/1e9y7soHWYgqQzdM6tWrsU) | [Tai Sabaki](https://open.spotify.com/album/6kdkeLnHlMbpupnohChqhO) | 2:59 |
 | 34 | [Temptation](https://open.spotify.com/track/7vuWtneKztDK57TAUlCynR) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [Temptation](https://open.spotify.com/album/4P3CtBPS8woTHS9YnjDD57) | 2:36 |
-| 35 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3FcseYxP7eeE7ihwgz2U2c) | [YES YES](https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus), [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [CRISIS](https://open.spotify.com/artist/5vAwat9fYIMvxFyMqae12d) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/1Sy6Ns0eUfzS3xJWgRN00v) | 2:07 |
+| 35 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3FcseYxP7eeE7ihwgz2U2c) | [YES YES](https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus), [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/1Sy6Ns0eUfzS3xJWgRN00v) | 2:07 |
 | 36 | [Oley Oley](https://open.spotify.com/track/54lZaPBQceXNLv3wvYH69c) | [Tunahan Turhan](https://open.spotify.com/artist/63P7e8ftWqGLOOmaGhrOEz), [Barış Çakır](https://open.spotify.com/artist/4UXic6o2WzSQJwgMzAP32J) | [Oley Oley](https://open.spotify.com/album/6rYvSUUkK6wRpgfih4kOEc) | 3:19 |
 | 37 | [Mama I\`m A Criminal](https://open.spotify.com/track/7fTp06COFtWGAypdljZpJR) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o) | [Mama I\`m A Criminal](https://open.spotify.com/album/5nOu1y6ZdRDYhPQj7GBW3x) | 3:14 |
 | 38 | [Ammon](https://open.spotify.com/track/06M8pGtRccwdOXMXsXxHg8) | [VOLB3X](https://open.spotify.com/artist/29nkqEfPr4KzAnoDcKriTu), [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ammon](https://open.spotify.com/album/78Ak3yfjvOqEEQmZFnigGh) | 3:14 |

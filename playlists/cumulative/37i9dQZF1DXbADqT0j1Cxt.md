@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-330 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/0QYwaZb9tNnA0EzmNKC1Pf)
+334 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/0QYwaZb9tNnA0EzmNKC1Pf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Back Home](https://open.spotify.com/track/1pgSiIvNXVQAKlMvjvqL0r) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [Gaze](https://open.spotify.com/album/3EP4Mrb7MevuHiA2btSpNC) | 2:40 | 2021-10-07 | 2022-05-14 |
 | [Bambino](https://open.spotify.com/track/4tuoaXBjV4VZXCWndpZza0) | [Andrea Piazzo](https://open.spotify.com/artist/2Hh5OmjynnsLv3s4HUTAP3) | [Bambino](https://open.spotify.com/album/2s5ZkT6Dh59dDiHDpWIBoa) | 3:01 | 2021-10-07 |  |
 | [Beautiful Dreamer](https://open.spotify.com/track/77m5CTzSoJAsW4HtgT0DfN) | [Cedric Long](https://open.spotify.com/artist/25FXbqN8RwLSvA7L9pF4uJ) | [Beautiful Dreamer](https://open.spotify.com/album/1HKLVkj1iPPmP55dtlFA51) | 1:44 | 2021-10-07 |  |
-| [Because You're Mine](https://open.spotify.com/track/6kA2HrTnJcs3echAN4XqWb) | [Ralph Kaler](https://open.spotify.com/artist/3dEll0BP1PiI63znH6CMUx) | [Because You're Mine](https://open.spotify.com/album/3u2IIOGw924h1a31tyJ5hC) | 1:40 | 2021-10-07 |  |
+| [Because You're Mine](https://open.spotify.com/track/6kA2HrTnJcs3echAN4XqWb) | [Ralph Kaler](https://open.spotify.com/artist/3dEll0BP1PiI63znH6CMUx) | [Because You're Mine](https://open.spotify.com/album/3u2IIOGw924h1a31tyJ5hC) | 1:40 | 2021-10-07 | 2022-06-08 |
 | [Bedtime Blues](https://open.spotify.com/track/6ygPQ8DEEUGvZAoTyDhQo7) | [Esmee Price](https://open.spotify.com/artist/4Rl6N4VmQzqDlGKrG6YfgD) | [Bedtime Blues](https://open.spotify.com/album/41IcLkOgEahIzJQz40dNFj) | 2:15 | 2022-04-19 |  |
 | [Before I Go To Sleep](https://open.spotify.com/track/5Y4ng1a6gsHCt55hDWIi9O) | [Kay Lozano](https://open.spotify.com/artist/4aneGgQXJW7ufSTcjHLXDw) | [Before I Go To Sleep](https://open.spotify.com/album/4RFKhar3rtwEXtKWGV44pi) | 1:20 | 2021-10-07 |  |
 | [Beneath a Summer Sky](https://open.spotify.com/track/3jqgSCeCfn179Gu9gVHFOL) | [Stan Curley](https://open.spotify.com/artist/2FjuSwXleCYb93E7k8NE2d) | [Beneath a Summer Sky](https://open.spotify.com/album/4qj5YJf1p4Qf0SA7Kxi5Jg) | 1:47 | 2021-10-07 |  |
@@ -215,6 +215,7 @@
 | [Når solen går ned](https://open.spotify.com/track/3tVLb1LdtL9kQ53v4tsPzr) | [Annelise Jeppesen](https://open.spotify.com/artist/6qrLlITCSuQojxy22qXUIp) | [Når solen går ned](https://open.spotify.com/album/0lK4DwN9p0wl7twTfOrGRN) | 1:37 | 2021-10-07 |  |
 | [Night Boy](https://open.spotify.com/track/3GNI4cnUTmdVwuRZ7KInoz) | [Gregory Bevill](https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY) | [Night Boy](https://open.spotify.com/album/3dYfPUkzN5rbaP7A65Uilz) | 1:36 | 2021-10-07 |  |
 | [Night Comfort \- Piano](https://open.spotify.com/track/3fPOBNNlM8cD2zzqpZNdN7) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Night Comfort \(Piano\)](https://open.spotify.com/album/3pFMjiYRLoPcVir6Ipf9qR) | 3:14 | 2022-01-21 |  |
+| [Når du holder hånden min](https://open.spotify.com/track/6N5gzMlSWIbGNLDJoMWph9) | [Saga Solheim](https://open.spotify.com/artist/7uy9xQDLs9vJXNotUs2eVQ) | [Når du holder hånden min](https://open.spotify.com/album/2jN7REU2ZfHTpmehtJWoRB) | 2:05 | 2022-06-07 |  |
 | [Ocean Lullaby](https://open.spotify.com/track/0n1Q3owF4MjejYHI95LjHU) | [Myrna Maguire](https://open.spotify.com/artist/0Hfs99lRGuzu8SRwQ0qWrB) | [Ocean Lullaby](https://open.spotify.com/album/1adRvl9STHysdmmtpGMxPN) | 1:53 | 2021-10-07 |  |
 | [Oh! Susanna](https://open.spotify.com/track/4BTJpnBQdOVcILo8LdPAdj) | [Mary Robertson](https://open.spotify.com/artist/7HR9rPFMZJ63cm01ia7QRW) | [This Land Is Your Land](https://open.spotify.com/album/1RFf5nn2xOnP9DWszeHHWr) | 2:18 | 2021-10-07 |  |
 | [Old MacDonald Had a Farm](https://open.spotify.com/track/3FbKnCRNzHwIudovtaKa7x) | [Lenox Martin](https://open.spotify.com/artist/472Cau4ZzDrfQR8Xwm4arw) | [You Are My Sunshine](https://open.spotify.com/album/30rgKeVh7lKTgCv2HNP0fC) | 3:04 | 2021-10-07 |  |
@@ -260,6 +261,7 @@
 | [Sleep Tight](https://open.spotify.com/track/7MfRBacWFWDgX7ETHRVbyJ) | [Gina Welper](https://open.spotify.com/artist/0t4QhpN4QfxhPTj0Qy7NNn) | [Sleep Tight](https://open.spotify.com/album/3hqm4R4yQxcZC53bbR9x4A) | 2:05 | 2021-10-07 |  |
 | [Sleeping](https://open.spotify.com/track/1TTria4qf94N8PlCJ5kD38) | [Rowen Macey](https://open.spotify.com/artist/5ZFLDtCcoVaTyAfLu297U4) | [Sleeping](https://open.spotify.com/album/0DaXkvO7MJWewh6qpAhNpf) | 1:31 | 2021-10-07 |  |
 | [Sleeping through the Night](https://open.spotify.com/track/7eRsay6jbPHigkTnPAC9Aq) | [Kayden Roydon](https://open.spotify.com/artist/33lopRkxhpLfc268jbtTxS) | [Sleeping through the Night](https://open.spotify.com/album/3rYZPKvnCpYsO6xpGqwXDb) | 1:16 | 2021-10-07 |  |
+| [Sleepy Ballad](https://open.spotify.com/track/3lTPY5wxck9tBvuROCct7c) | [Maynerd Lindsey](https://open.spotify.com/artist/3lLK73yQJcNWwW3dGbC2v3) | [Sleepy Ballad](https://open.spotify.com/album/1MgCzFQ6F6qNjlBzG1zzCO) | 1:08 | 2022-06-07 |  |
 | [Sleepy Eyes](https://open.spotify.com/track/2WPQXLUNLV0MpnLsXq216q) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [Sleepy Eyes](https://open.spotify.com/album/4ORkajLhJ0JkLFom7hSBkf) | 2:21 | 2022-01-21 |  |
 | [Sleepy Eyes](https://open.spotify.com/track/02jrNnw7QK6vw3Lh4AHnQc) | [Little Penguin](https://open.spotify.com/artist/6WIlTEo0N852kQSPXsCU8Y) | [Sleepy Eyes](https://open.spotify.com/album/17Y1MU2PaCHr2Tyr1tljXn) | 2:07 | 2021-10-07 |  |
 | [Sleepy Land](https://open.spotify.com/track/5uLDHN6Lbh7fDbFDxDyCSv) | [Elias Ståhle](https://open.spotify.com/artist/5w0kV4jCLLthNvZqe78yCV) | [Sleepy Land](https://open.spotify.com/album/3aEQQidga93YN6RBxHmt1W) | 1:56 | 2022-04-19 |  |
@@ -288,6 +290,7 @@
 | [The Dollhouse Sleeps](https://open.spotify.com/track/774AtBbCtOjcMI9qLPEbFM) | [Amelia Caan](https://open.spotify.com/artist/7EIBRUAZQh8IQzssDoiv4Y) | [The Dollhouse Sleeps](https://open.spotify.com/album/72H3uFskLSX1mB5p7Hv3Ji) | 1:09 | 2021-10-07 |  |
 | [The farmer in the dell](https://open.spotify.com/track/47dfnROFpFJJDD6oCWWbSj) | [Sophie Eichmann](https://open.spotify.com/artist/2kzsfr4PAIwyoSPrBq9Xdx) | [The farmer in the dell](https://open.spotify.com/album/6odz7oeiLNgklTnDTx0psg) | 1:00 | 2021-10-07 |  |
 | [The Grand Old Duke Of York](https://open.spotify.com/track/5haTOyj3fd2iVNwDpidiIi) | [Luana Dias Araujo](https://open.spotify.com/artist/7s8KvVp5I0zZ48PSCxjwVF) | [Polly Wolly Doodle](https://open.spotify.com/album/5hufQfj3W5nMwpmmQjG8t6) | 1:35 | 2021-10-07 |  |
+| [The Moon Looks Like A Cake](https://open.spotify.com/track/2plQn19ZnV5cquaAPu3NZc) | [Denise Boyette](https://open.spotify.com/artist/7Ic0m7rS8gwZQSDiOmLJxc) | [The Moon Looks Like A Cake](https://open.spotify.com/album/4bsuR68E2sJNY6fvFOVQzN) | 1:43 | 2022-06-07 |  |
 | [The More We Get Together](https://open.spotify.com/track/1SGEkhOnL90QTGbH0hmKyK) | [Felix Scott](https://open.spotify.com/artist/52P6o31sXSSZBcTHwveYx8) | [The More We Get Together](https://open.spotify.com/album/4l5Olw1FvBLTDNv64hXJKD) | 2:15 | 2021-10-07 |  |
 | [The Most Wonderful Dream](https://open.spotify.com/track/5otf2Hr3mDUakyHUyn4J6H) | [Evelina Krueger](https://open.spotify.com/artist/5GlrFOukoWnBdZ7wIYfjcw) | [The Most Wonderful Dream](https://open.spotify.com/album/750aQGpUStTIzdmSCOoBsS) | 2:43 | 2021-10-07 |  |
 | [The Muffin Man](https://open.spotify.com/track/5BhTxumZ4l4JEn1xOxVRKY) | [William Borne](https://open.spotify.com/artist/2vIJ2ofUVabbzvdJoLM5X9) | [Hungry Lullabies](https://open.spotify.com/album/40yKj9kDMPXtqscBzsZCcs) | 2:26 | 2021-10-07 |  |
@@ -298,6 +301,7 @@
 | [The Sweetest Dream](https://open.spotify.com/track/67Vd6Jkvz7xzAfqqjw1Fvy) | [Mirela Rubio](https://open.spotify.com/artist/5IQ0vabudI7APVrHXfEsCA) | [The Sweetest Dream](https://open.spotify.com/album/2HW02tpcHyD9OoNoG3Up1t) | 1:57 | 2021-10-07 |  |
 | [The wheels on the bus](https://open.spotify.com/track/2ViaQwX9HaThUSHkmbWxg6) | [Jascha van Nuenen](https://open.spotify.com/artist/0wxmGu7bfQkix7ZeK8A0mz) | [My Bonnie lies over the ocean](https://open.spotify.com/album/2oF4b0hzO8kR2uAFHRlFji) | 0:54 | 2021-10-07 | 2022-04-20 |
 | [The Wind And The Sun](https://open.spotify.com/track/6HjtHicRY2u51t0phzjuDb) | [Milly Fitzpatrick](https://open.spotify.com/artist/0FQNq8baxg56GoRl1QH6z9) | [The Wind And The Sun](https://open.spotify.com/album/4gMsViIbKUgBib6mRwRVfF) | 1:31 | 2021-10-07 |  |
+| [The Winter Baby](https://open.spotify.com/track/3wqVMY63RfSWuXVBsppr77) | [Monroe Hershey](https://open.spotify.com/artist/3DKrRxq6WNjqIxwENVSepm) | [The Winter Baby](https://open.spotify.com/album/41ug8UYrj7eCfcUBdVZEFu) | 1:32 | 2022-06-07 |  |
 | [The Yellow Rose](https://open.spotify.com/track/4Qn4wCKYnDJkAvQ6m8FP6e) | [Cosy Cat](https://open.spotify.com/artist/1hBpKFAxzX85r39gdoln3g) | [The Yellow Rose](https://open.spotify.com/album/1iypmahNGAJ415h9FN3oUo) | 2:20 | 2021-10-07 |  |
 | [There's a Hole In My Pants](https://open.spotify.com/track/4OxSiT6RAFsL2ezRFL1rAP) | [Olivia Frederickson](https://open.spotify.com/artist/3wn7ua143T3ZoIwzP8UCXK) | [There's a Hole In My Pants](https://open.spotify.com/album/3PmOrL92yXD6gWwHfOLnGi) | 1:53 | 2021-10-07 |  |
 | [This Is The Way](https://open.spotify.com/track/5r4OlQ86NhqM4kedvlFMws) | [Arya Dylan](https://open.spotify.com/artist/4M7zKy7koNuxlPdhZHfWA7) | [This Is The Way](https://open.spotify.com/album/6gU5ZfrxEmN868dQG7y0xa) | 1:14 | 2021-10-07 |  |

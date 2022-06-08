@@ -127,10 +127,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 196040,
       "name": "Cumbia Vallenata",
       "url": "https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH"
+    },
+    {
+      "album": {
+        "name": "Para Que Baile Mi Pueblo",
+        "url": "https://open.spotify.com/album/6m0s7o4LG4nnAbElx9QwIr"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Cu\u00e1ntas Mentiras",
+      "url": "https://open.spotify.com/track/3tvk1SzPEbdvjtWMWQuXLD"
     },
     {
       "album": {
@@ -199,7 +217,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 186906,
       "name": "Dime Qu\u00e9 Debo Hacer",
       "url": "https://open.spotify.com/track/4JdXfOJ344Cbf55yzfOZow"
@@ -217,7 +235,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 186973,
       "name": "Donde Est\u00e9s",
       "url": "https://open.spotify.com/track/1hnwKfd41RHPru8zZraOQY"
@@ -329,7 +347,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 189618,
       "name": "Inesperadamente",
       "url": "https://open.spotify.com/track/4GAqqobic0kTtK3mfAP6Am"
@@ -517,7 +535,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 170426,
       "name": "Me Derrito (feat. Bobby Pulido)",
       "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
@@ -708,6 +726,24 @@
     },
     {
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199973,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/26ljxPYYQaVOMvTBxEifEG"
+    },
+    {
+      "album": {
         "name": "Lo M\u00edo",
         "url": "https://open.spotify.com/album/4WlXlmCSRRJaAQZMzclg3Y"
       },
@@ -719,7 +755,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 223240,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/72GdSXUOtE6AdBUlNFO9NW"
@@ -755,7 +791,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 215266,
       "name": "Sabes",
       "url": "https://open.spotify.com/track/60WVyxHby6SkjMPhTv3V3Y"
@@ -867,7 +903,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 218226,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/2RgBInbB7gq3ewMVkqYIPr"

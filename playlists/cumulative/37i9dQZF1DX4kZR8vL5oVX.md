@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Izïa
 
-297 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
+298 songs - 15 hr 44 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [VENUS](https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [LONGO MAÏ](https://open.spotify.com/album/1e6H42WI9oJ8rOSYDjrIcf) | 3:03 | 2022-06-01 |  |
 | [Verre D'eau](https://open.spotify.com/track/5p8vq37UsDzRP0gyUuAUQz) | [SKIA](https://open.spotify.com/artist/1LWNlonORpAMLWHJCaCwtE) | [Sensible](https://open.spotify.com/album/4bEj8Pmu4i0oUY3ZukQcPg) | 3:08 | 2022-02-01 | 2022-03-08 |
 | [VVS](https://open.spotify.com/track/73KIBzwN3tP4QCrNxp6Yqk) | [Turtle White](https://open.spotify.com/artist/4F5LHjkVnCgcFF4I2W2i1A) | [VVS](https://open.spotify.com/album/1B6aJqd81UUiv26edYifDe) | 3:18 | 2022-06-01 |  |
+| [Vénus 金星](https://open.spotify.com/track/37BJTNSG8VNOZ54anguOGy) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [Vénus 金星](https://open.spotify.com/album/5lRUexCXLf8l5D5QCJFrLm) | 3:35 | 2022-06-01 |  |
 | [WAVES](https://open.spotify.com/track/0wC6rLtsUh6LgqCmN2ZGLw) | [Ekloz](https://open.spotify.com/artist/3FlxOuTKmjE9AV3SfMudyw) | [Résilience, Vol.3](https://open.spotify.com/album/0zMvYCTUdRTYKvpAsYCmvq) | 3:37 | 2022-05-03 | 2022-06-01 |
 | [Way Out](https://open.spotify.com/track/512BfP43SrXqz4lQ6GzuIu) | [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Way Out](https://open.spotify.com/album/63CM544lHUvy2DGxEe0BaC) | 3:25 | 2022-05-03 | 2022-06-01 |
 | [Ways of Dreaming](https://open.spotify.com/track/1jkD185V875tmtftU4iIGu) | [Romane](https://open.spotify.com/artist/0n4XFcBXIvCkXZdXQFMigW) | [Ways of Dreaming](https://open.spotify.com/album/7gXGdzmzPopXfwRwrOP2iQ) | 3:28 | 2022-05-03 | 2022-06-01 |

@@ -168,6 +168,28 @@
     },
     {
       "album": {
+        "name": "Dawly",
+        "url": "https://open.spotify.com/album/0Zksp8Cnz9HnEuLvGDmzGy"
+      },
+      "artists": [
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        },
+        {
+          "name": "Moscow",
+          "url": "https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196206,
+      "name": "Dawly",
+      "url": "https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU"
+    },
+    {
+      "album": {
         "name": "Deep",
         "url": "https://open.spotify.com/album/7b9Om4YTB1qXMAzjcDtRbb"
       },

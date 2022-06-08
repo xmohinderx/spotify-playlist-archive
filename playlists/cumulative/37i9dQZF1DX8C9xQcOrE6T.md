@@ -2,7 +2,7 @@
 
 ### [Disney Hits](https://open.spotify.com/playlist/37i9dQZF1DX8C9xQcOrE6T)
 
-> All of your favorite Disney hits, including songs from Encanto\. Stream Disney's Encanto on Disney+.
+> All of your favorite Disney hits, including songs from Turning Red\. Stream Disney and Pixar's Turning Red on Disney+.
 
 110 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/636MTeCEICQctVDwXtEgUe)
 

@@ -414,6 +414,32 @@
     },
     {
       "album": {
+        "name": "Chaos Energy",
+        "url": "https://open.spotify.com/album/2uEgm3sxH1gHPPHGcjvJXc"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        },
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313885,
+      "name": "Chaos Energy",
+      "url": "https://open.spotify.com/track/1ADoaoyKY78CnBvsq6DqFG"
+    },
+    {
+      "album": {
         "name": "Cruda",
         "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
       },
@@ -699,7 +725,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 299567,
       "name": "El Cielo No Es De Nadie - Nicola Cruz Remix",
       "url": "https://open.spotify.com/track/1AYNybF4aDP5GqR2ipgduu"
@@ -814,6 +840,28 @@
     },
     {
       "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/0JjEIqH2ajsmQdnbKIL1FZ"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
+        },
+        {
+          "name": "AJM",
+          "url": "https://open.spotify.com/artist/0yJ2TpPFQ8InnZCJkffp2v"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194445,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/2T4Mh0oBPF7TzPVXyTQTZg"
+    },
+    {
+      "album": {
         "name": "For your safety",
         "url": "https://open.spotify.com/album/3L1YegCnsVaikVxsL4Fypv"
       },
@@ -843,10 +891,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 166356,
       "name": "Forbidden Feelingz",
       "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
+    },
+    {
+      "album": {
+        "name": "Foresight",
+        "url": "https://open.spotify.com/album/6iVJxfSQHYADuaTe842E5u"
+      },
+      "artists": [
+        {
+          "name": "Nuven",
+          "url": "https://open.spotify.com/artist/3Cdtqtl7PvG7793m9pkg34"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Foresight",
+      "url": "https://open.spotify.com/track/0J3ELKdZW68PTUDKtbggsy"
     },
     {
       "album": {
@@ -1486,6 +1552,24 @@
     },
     {
       "album": {
+        "name": "Looking at Your Pager",
+        "url": "https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174417,
+      "name": "Looking at Your Pager",
+      "url": "https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs"
+    },
+    {
+      "album": {
         "name": "Los",
         "url": "https://open.spotify.com/album/2I8rQGhMfiaghzGshYvL2w"
       },
@@ -1693,7 +1777,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 371520,
       "name": "Otomo",
       "url": "https://open.spotify.com/track/1W5uQX7z1bnsgIW4zSPD4a"
@@ -2029,7 +2113,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 159639,
       "name": "SEQUENCE",
       "url": "https://open.spotify.com/track/3352NJ15FsCKvBfKKpUEyz"

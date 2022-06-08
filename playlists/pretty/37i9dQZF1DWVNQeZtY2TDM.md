@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: 高爾宣 OSN
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,851 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,876 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 72 | [HighBoy](https://open.spotify.com/track/2Jq0ALQlAjMa3j1ERO56Kv) | [HighBoy](https://open.spotify.com/artist/4z4spE3KqhQ4MnLjQXqxsP) | [HighBoy](https://open.spotify.com/album/2dsu9ogbx46RxZYpnIIHOz) | 2:42 |
 | 73 | [All Star](https://open.spotify.com/track/1icK5QdlrYMkwsm8ToTSHU) | [Roland Greco](https://open.spotify.com/artist/7h6uTil5mr70DNlITCJZka), [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [All Star](https://open.spotify.com/album/3WPaM8liapA7kWJQx4Odmq) | 3:07 |
 | 74 | [Yoohoo](https://open.spotify.com/track/1czNiios6D4whvN5oXkek7) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [Yoohoo](https://open.spotify.com/album/6CugJfTrHJm6FJDpnn3Njl) | 2:45 |
-| 75 | [野百合](https://open.spotify.com/track/1byiztwbgvGLUp61H5H2gU) | [禮韋 Thehopend](https://open.spotify.com/artist/32lrEgDlSQ0p6KLJckSvXd) | [野百合](https://open.spotify.com/album/1h1UQlFdvtu9U6eDQibPv8) | 3:34 |
+| 75 | [野百合](https://open.spotify.com/track/1byiztwbgvGLUp61H5H2gU) | [thehopend](https://open.spotify.com/artist/32lrEgDlSQ0p6KLJckSvXd) | [野百合](https://open.spotify.com/album/1h1UQlFdvtu9U6eDQibPv8) | 3:34 |
 
 Snapshot ID: `MTY1NDQ3OTE5NSwwMDAwMDExOTAwMDAwMTgxMzZhNTBkYmMwMDAwMDE4MTFlMTg5YWE5`

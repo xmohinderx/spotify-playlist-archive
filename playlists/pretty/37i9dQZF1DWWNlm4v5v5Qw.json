@@ -1,28 +1,92 @@
 {
   "description": "DMV music breaking waves. Cover: Joony",
-  "num_followers": 10192,
+  "num_followers": 10204,
   "original_name": "Ripple Effect: DMV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzYyNDMyNSwwMDAwMDAzOTAwMDAwMTgxMDNiMGM1YmIwMDAwMDE4MTAzYWNhNzll",
+  "snapshot_id": "MTY1NDYzODA2NCwwMDAwMDAzYTAwMDAwMTgxNDAxZDMyMDgwMDAwMDE4MTAzYWNhNzll",
   "tracks": [
     {
-      "added_at": "2022-05-27 04:05:25",
+      "added_at": "2022-06-07 21:41:03",
       "album": {
-        "name": "Pretty In Black",
-        "url": "https://open.spotify.com/album/0zGITDnaDBlBAyixXP7gJi"
+        "name": "$hook",
+        "url": "https://open.spotify.com/album/40a2ZAxxlBBxwP6wCNrAfM"
       },
       "artists": [
+        {
+          "name": "Tre' Amani",
+          "url": "https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0"
+        },
+        {
+          "name": "Rodney Hollywood",
+          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
+        }
+      ],
+      "duration_ms": 148118,
+      "name": "lo$t kid.",
+      "url": "https://open.spotify.com/track/6vQK5arrwdS2rrpNJWJ3EI"
+    },
+    {
+      "added_at": "2022-06-07 21:41:03",
+      "album": {
+        "name": "East",
+        "url": "https://open.spotify.com/album/1kHBliQUJxk2xzoJmrCvcJ"
+      },
+      "artists": [
+        {
+          "name": "Sainte",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        },
         {
           "name": "Joony",
           "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
         }
       ],
-      "duration_ms": 158236,
-      "name": "ON DAT SHIT",
-      "url": "https://open.spotify.com/track/2EydGl5jyjAPC4vAfRHm2U"
+      "duration_ms": 162964,
+      "name": "East",
+      "url": "https://open.spotify.com/track/6XZFzfW1WpmA9L0dJ47FxF"
+    },
+    {
+      "added_at": "2022-06-07 21:41:03",
+      "album": {
+        "name": "Famine",
+        "url": "https://open.spotify.com/album/08qqsyFfs3mW5duJalfbwD"
+      },
+      "artists": [
+        {
+          "name": "KA$HDAMI",
+          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
+        },
+        {
+          "name": "Xlovclo",
+          "url": "https://open.spotify.com/artist/30DOGGqkR0QtducsuI97si"
+        }
+      ],
+      "duration_ms": 132892,
+      "name": "Famine (with Xlovclo)",
+      "url": "https://open.spotify.com/track/2faMLchYuEAQtxX8e6XCsZ"
+    },
+    {
+      "added_at": "2022-06-07 21:41:03",
+      "album": {
+        "name": "Independent Like Webbie",
+        "url": "https://open.spotify.com/album/12FfrxRL65gxdnVeI5JQSB"
+      },
+      "artists": [
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        },
+        {
+          "name": "YungManny",
+          "url": "https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg"
+        }
+      ],
+      "duration_ms": 97671,
+      "name": "Independent Like Webbie",
+      "url": "https://open.spotify.com/track/4Lp6mBPRk5IaPM8Bg8J3fu"
     },
     {
       "added_at": "2022-05-20 07:40:16",
@@ -41,6 +105,46 @@
       "url": "https://open.spotify.com/track/3rahkSYrtJdTqUVK9NiHt0"
     },
     {
+      "added_at": "2022-06-07 21:41:03",
+      "album": {
+        "name": "CALL",
+        "url": "https://open.spotify.com/album/7gKlFyYvBQDPrq5lrarUuJ"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        },
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        }
+      ],
+      "duration_ms": 176701,
+      "name": "CALL",
+      "url": "https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP"
+    },
+    {
+      "added_at": "2022-06-07 21:41:03",
+      "album": {
+        "name": "Still Like Drugs",
+        "url": "https://open.spotify.com/album/6Ldm82syrNUjdsSo6im7nP"
+      },
+      "artists": [
+        {
+          "name": "Lightshow",
+          "url": "https://open.spotify.com/artist/0bxqbGrU4OdgDQNGs9DYp4"
+        },
+        {
+          "name": "Zubin",
+          "url": "https://open.spotify.com/artist/11cmGSkAlNCca1oymzGSj9"
+        }
+      ],
+      "duration_ms": 153769,
+      "name": "Still Like Drugs",
+      "url": "https://open.spotify.com/track/7KyNKtcXTZgY1WWIyzGRX6"
+    },
+    {
       "added_at": "2022-05-27 04:05:25",
       "album": {
         "name": "APPARENT",
@@ -55,6 +159,38 @@
       "duration_ms": 96000,
       "name": "APPARENT",
       "url": "https://open.spotify.com/track/1XhINAXbdbMNo8nAAM8xXN"
+    },
+    {
+      "added_at": "2022-05-27 04:05:25",
+      "album": {
+        "name": "RU Ready",
+        "url": "https://open.spotify.com/album/7aZXFIH6OcMZgSHPyA7I8e"
+      },
+      "artists": [
+        {
+          "name": "dreamcastmoe",
+          "url": "https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9"
+        }
+      ],
+      "duration_ms": 139026,
+      "name": "RU Ready",
+      "url": "https://open.spotify.com/track/6TVWioRK1GtlZhPoxXHjSk"
+    },
+    {
+      "added_at": "2022-05-27 04:05:25",
+      "album": {
+        "name": "Pretty In Black",
+        "url": "https://open.spotify.com/album/0zGITDnaDBlBAyixXP7gJi"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 158236,
+      "name": "ON DAT SHIT",
+      "url": "https://open.spotify.com/track/2EydGl5jyjAPC4vAfRHm2U"
     },
     {
       "added_at": "2022-05-27 04:05:25",
@@ -123,22 +259,6 @@
       "duration_ms": 145448,
       "name": "1500 $ir",
       "url": "https://open.spotify.com/track/58yOnzLBHLzEXc8EUIj0Pv"
-    },
-    {
-      "added_at": "2022-05-27 04:05:25",
-      "album": {
-        "name": "RU Ready",
-        "url": "https://open.spotify.com/album/7aZXFIH6OcMZgSHPyA7I8e"
-      },
-      "artists": [
-        {
-          "name": "dreamcastmoe",
-          "url": "https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9"
-        }
-      ],
-      "duration_ms": 139026,
-      "name": "RU Ready",
-      "url": "https://open.spotify.com/track/6TVWioRK1GtlZhPoxXHjSk"
     },
     {
       "added_at": "2022-05-20 07:40:16",
@@ -795,22 +915,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "bloom!",
-        "url": "https://open.spotify.com/album/3PFYIt7KLgjS34js0Wsz8i"
-      },
-      "artists": [
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        }
-      ],
-      "duration_ms": 87576,
-      "name": "bloom!",
-      "url": "https://open.spotify.com/track/67hbTDETlOrG5rGjhvnXux"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "DROP",
         "url": "https://open.spotify.com/album/0QOdBaffsQPeQN6RXRN4fK"
       },
@@ -843,134 +947,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "no caller id",
-        "url": "https://open.spotify.com/album/11QCpck7FiDUIHbo4GjA6q"
-      },
-      "artists": [
-        {
-          "name": "N A E",
-          "url": "https://open.spotify.com/artist/0WEHW7Jj438ZB3defLALxw"
-        }
-      ],
-      "duration_ms": 143949,
-      "name": "no caller id",
-      "url": "https://open.spotify.com/track/7ntr4w7hVSZoaDLwp7d1jX"
-    },
-    {
-      "added_at": "2022-03-18 06:49:35",
-      "album": {
-        "name": "Lately (with 6LACK)",
-        "url": "https://open.spotify.com/album/2WjGKlC8Em8IspICjgXpoU"
-      },
-      "artists": [
-        {
-          "name": "Eli Derby",
-          "url": "https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 231867,
-      "name": "Lately (with 6LACK)",
-      "url": "https://open.spotify.com/track/6QyNMgB28X9oCdz2rAEnp7"
-    },
-    {
-      "added_at": "2022-03-18 06:49:35",
-      "album": {
-        "name": "Marvin - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/6Ellw4Bij0X79QNjWoX8dM"
-      },
-      "artists": [
-        {
-          "name": "Malik Moses",
-          "url": "https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB"
-        }
-      ],
-      "duration_ms": 164188,
-      "name": "Marvin - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/23XcjGXBJgeb6aLDb0ctKI"
-    },
-    {
-      "added_at": "2022-03-18 06:49:35",
-      "album": {
-        "name": "I Need Love",
-        "url": "https://open.spotify.com/album/4KuRwpsYracRUDh6OUYwE5"
-      },
-      "artists": [
-        {
-          "name": "Precious",
-          "url": "https://open.spotify.com/artist/4bVL2bLOv1PLQXHDWXNMPE"
-        },
-        {
-          "name": "YungManny",
-          "url": "https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg"
-        }
-      ],
-      "duration_ms": 146423,
-      "name": "I Need Love",
-      "url": "https://open.spotify.com/track/6KQ4xmMQa4MClbj0CcpIMm"
-    },
-    {
-      "added_at": "2022-03-18 06:49:35",
-      "album": {
-        "name": "Crooks & Castles",
-        "url": "https://open.spotify.com/album/7hxBFX5tUuwYNmxbQPhyoJ"
-      },
-      "artists": [
-        {
-          "name": "Azizi Gibson",
-          "url": "https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP"
-        }
-      ],
-      "duration_ms": 124074,
-      "name": "Crooks & Castles",
-      "url": "https://open.spotify.com/track/6FPR87S0g92cCImxUrGvYP"
-    },
-    {
-      "added_at": "2022-03-18 06:49:35",
-      "album": {
-        "name": "Company",
-        "url": "https://open.spotify.com/album/5UHuuRwcfK9D4dbd5MPGU2"
-      },
-      "artists": [
-        {
-          "name": "CADEEM LAMARR",
-          "url": "https://open.spotify.com/artist/7AyAX5opE17qBcq56nqd1L"
-        },
-        {
-          "name": "Martin j. Ballou",
-          "url": "https://open.spotify.com/artist/3ECr5e1xllHnl6gGzmymPT"
-        },
-        {
-          "name": "GirlYouCrazy",
-          "url": "https://open.spotify.com/artist/4hDWfVHztidgZ4YewXPJtq"
-        }
-      ],
-      "duration_ms": 160029,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/6l01TTR29QJ7pu5ztP2KSi"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Everything You Can Imagine Is Real",
-        "url": "https://open.spotify.com/album/5MnGPlP6xB0XTnMxHMS36p"
-      },
-      "artists": [
-        {
-          "name": "Lightshow",
-          "url": "https://open.spotify.com/artist/0bxqbGrU4OdgDQNGs9DYp4"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/3DSRapYAlE9if3Zt08mAo3"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Sad Boy/ Bad Boy",
         "url": "https://open.spotify.com/album/3iU1IHppn6mT9HDUq3ZGHW"
       },
@@ -983,62 +959,6 @@
       "duration_ms": 178860,
       "name": "Fighters Spirit",
       "url": "https://open.spotify.com/track/3enBvfHQpffPIz1rZ02Rjz"
-    },
-    {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "Counter",
-        "url": "https://open.spotify.com/album/35MFJBhiYKKm3Vsybpsk29"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Counter",
-      "url": "https://open.spotify.com/track/4W4lWW8HQITbAe96R0APIh"
-    },
-    {
-      "added_at": "2022-03-18 06:49:35",
-      "album": {
-        "name": "Locked And Loaded",
-        "url": "https://open.spotify.com/album/3eiAXvXqgvYikM3D8rtSjO"
-      },
-      "artists": [
-        {
-          "name": "Dyson Alexander",
-          "url": "https://open.spotify.com/artist/1OaXwyVIFd1ptuhu75qLGR"
-        },
-        {
-          "name": "Black Fortune",
-          "url": "https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z"
-        }
-      ],
-      "duration_ms": 212718,
-      "name": "Locked And Loaded",
-      "url": "https://open.spotify.com/track/1vMJWxLkFphpxZIhc9mdAX"
-    },
-    {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "Cuban Links (Remix)",
-        "url": "https://open.spotify.com/album/1pF0livMSYc5XmJ3hfYv3s"
-      },
-      "artists": [
-        {
-          "name": "Misskaniyah",
-          "url": "https://open.spotify.com/artist/6mrlBl4QCM3Fog8Z9fraXl"
-        },
-        {
-          "name": "Brooklyn Love",
-          "url": "https://open.spotify.com/artist/6QcMd4RfOYatHbMcYrCxgZ"
-        }
-      ],
-      "duration_ms": 152783,
-      "name": "Cuban Links - Remix",
-      "url": "https://open.spotify.com/track/2JthywTEhjk3C8KfjZNjsL"
     },
     {
       "added_at": "2021-10-29 04:57:16",
@@ -1083,22 +1003,6 @@
       "duration_ms": 230964,
       "name": "fue mejor (feat. SZA)",
       "url": "https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX"
-    },
-    {
-      "added_at": "2022-02-18 21:52:06",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/6Pnhk5XBg9Lr4ulGQXixbk"
-      },
-      "artists": [
-        {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
-        }
-      ],
-      "duration_ms": 231616,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/5YDvCBMjwGYbWLyjsa2GoM"
     },
     {
       "added_at": "2022-02-18 21:52:06",

@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -611,6 +611,24 @@
       "duration_ms": 231041,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE"
+    },
+    {
+      "album": {
+        "name": "Idegen, Vol. 1.",
+        "url": "https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187752,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/1b0xEPOnt9B9EmFUUDsmPj"
     },
     {
       "album": {
@@ -1851,7 +1869,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 128873,
       "name": "Dopamin - Bonus track",
       "url": "https://open.spotify.com/track/2CojUpxxHPbUL6oelS5hcg"
@@ -2390,6 +2408,28 @@
     },
     {
       "album": {
+        "name": "Idegen, Vol. 1.",
+        "url": "https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "M Ricch",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166588,
+      "name": "Fiatal \u00e9s \u0151r\u00fclt",
+      "url": "https://open.spotify.com/track/1iRwcHRaEGQdkZDyVsQM1h"
+    },
+    {
+      "album": {
         "name": "camouflage",
         "url": "https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa"
       },
@@ -2419,7 +2459,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
@@ -3107,7 +3147,7 @@
       ],
       "date_added": "2021-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 213913,
       "name": "Hullik",
       "url": "https://open.spotify.com/track/2PHgjJwswIHOhXexoizfT0"
@@ -4123,7 +4163,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 168800,
       "name": "Lej",
       "url": "https://open.spotify.com/track/3sUOONjFxjepoSXvKYrz5E"
@@ -6345,7 +6385,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 200211,
       "name": "Rampampam",
       "url": "https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3"
@@ -6505,7 +6545,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 204285,
       "name": "Rossz est\u00e9k",
       "url": "https://open.spotify.com/track/3Xourl4xRz7cfHMznl0PlR"
@@ -6705,6 +6745,24 @@
       "duration_ms": 188918,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
+    },
+    {
+      "album": {
+        "name": "Idegen, Vol. 1.",
+        "url": "https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152817,
+      "name": "Sajn\u00e1lom",
+      "url": "https://open.spotify.com/track/5FPk6JYK0tYzEWtqYgUvrA"
     },
     {
       "album": {
@@ -7545,6 +7603,24 @@
       "duration_ms": 215000,
       "name": "Tell The Vision (feat. Kanye West & Pusha T)",
       "url": "https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts"
+    },
+    {
+      "album": {
+        "name": "Idegen, Vol. 1.",
+        "url": "https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216258,
+      "name": "Terapeuta",
+      "url": "https://open.spotify.com/track/6YW9qgEJrkr3eGXYcZ8uXC"
     },
     {
       "album": {
@@ -8671,6 +8747,28 @@
       "duration_ms": 191411,
       "name": "Zombi",
       "url": "https://open.spotify.com/track/5WthbIy7Qp7HmGYGRCZ43z"
+    },
+    {
+      "album": {
+        "name": "Idegen, Vol. 1.",
+        "url": "https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "Darius King",
+          "url": "https://open.spotify.com/artist/4qMmVFXwge2N4iQJyU6yb1"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193251,
+      "name": "Zombi - Pt.2",
+      "url": "https://open.spotify.com/track/40CEufN1AE9J2sb6fH5HPO"
     },
     {
       "album": {

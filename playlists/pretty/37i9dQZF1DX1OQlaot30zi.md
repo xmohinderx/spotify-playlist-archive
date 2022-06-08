@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di ANNA, Capo Plaza, Shiva, Dani Faiv e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,278 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,360 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 69 | [Resta Vivo](https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Resta Vivo](https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp) | 2:56 |
 | 70 | [Hamdulillah](https://open.spotify.com/track/4f0Q7m43kUsAQPjRctJUcJ) | [Amill Leonardo](https://open.spotify.com/artist/6O1mWUAaIrcMAXQAoNzpT5), [Seck](https://open.spotify.com/artist/0TDisUBeAlYDLMToNVhTfH) | [Hamdulillah](https://open.spotify.com/album/2VWtrGRjviwqeovmg4Z6XU) | 3:01 |
 | 71 | [Spicy Candy](https://open.spotify.com/track/37I4WopsCkEuNI5nn9PR3B) | [Grill Boys](https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h), [K beezy 28](https://open.spotify.com/artist/5SbWJnRRbZQU024VlOPWly) | [Spicy Candy](https://open.spotify.com/album/7D5ycmsGugTc9SUv8uAbYC) | 3:00 |
-| 72 | [NLFP \(feat\. tha Supreme\)](https://open.spotify.com/track/7AINlTLLzoduGA7Aw7iUwf) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [tha Supreme](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [TRAUMA](https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe) | 2:37 |
+| 72 | [NLFP \(feat\. tha Supreme\)](https://open.spotify.com/track/7AINlTLLzoduGA7Aw7iUwf) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [TRAUMA](https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe) | 2:37 |
 | 73 | [K.O\. \(feat\. Coez & Marracash\)](https://open.spotify.com/track/7sYJw5AwPw30ZyLdvuEtg0) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:10 |
 | 74 | [TREND \(Y2K DRIP 2\)](https://open.spotify.com/track/4eWVqnfeOVZnq0xpqh7yW6) | [Duemila](https://open.spotify.com/artist/5mhHDyG0ZLlxbskm4GtbCs) | [TREND \(Y2K DRIP 2\)](https://open.spotify.com/album/154Ps99QPpTGK49tuZ7sFY) | 2:55 |
 | 75 | [LASCIAMI QUA](https://open.spotify.com/track/0MfBIsShZrcOmzj54jULh4) | [IVAN](https://open.spotify.com/artist/4aDeEL0SUzJZBZbNcVIt3l) | [LASCIAMI QUA](https://open.spotify.com/album/7kdAVeUJZIiluovsq1Bq54) | 2:12 |

@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2041506,
+  "num_followers": 2041370,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTE3NzksYzdhNDg2NTNjNDY2MTdhMWJiNjJkMDIzZGI2Mjg0NjYwMTllNDgyZg==",
+  "snapshot_id": "MTE3ODEsNDhkNDViZmZkYWEzMjJlYjZiNWU0NjNhODE2ZjEyZTA1ZmRhMjNkNw==",
   "tracks": [
     {
       "added_at": "2022-06-02 21:35:51",
@@ -257,6 +257,30 @@
       "url": "https://open.spotify.com/track/5jwPoLlVOLcawSpvDpwlty"
     },
     {
+      "added_at": "2022-06-03 19:47:30",
+      "album": {
+        "name": "Love Me First",
+        "url": "https://open.spotify.com/album/1rzJaJGNnrBF1h0b50cwxb"
+      },
+      "artists": [
+        {
+          "name": "ThatBehavior",
+          "url": "https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB"
+        },
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Josh Bogert",
+          "url": "https://open.spotify.com/artist/2MbO01KZTMshiRXcOLo88R"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Love Me First",
+      "url": "https://open.spotify.com/track/6ZiLW7bS9eqAI3o7vz7d7p"
+    },
+    {
       "added_at": "2022-05-20 21:40:35",
       "album": {
         "name": "R U READY!",
@@ -427,6 +451,26 @@
       "duration_ms": 114666,
       "name": "Flow",
       "url": "https://open.spotify.com/track/4ldB2NDmdmoZPy4ZgZ9i4Q"
+    },
+    {
+      "added_at": "2022-06-03 20:40:48",
+      "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/60SKSurtzL5m59nahMg9TL"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/7CEIFwLf4XmFz8okORSizE"
     },
     {
       "added_at": "2022-05-20 21:40:35",
@@ -643,30 +687,6 @@
       "duration_ms": 224000,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2Kzp4jYbUbDSxbX13oMd2a"
-    },
-    {
-      "added_at": "2022-06-03 19:47:30",
-      "album": {
-        "name": "Love Me First",
-        "url": "https://open.spotify.com/album/1rzJaJGNnrBF1h0b50cwxb"
-      },
-      "artists": [
-        {
-          "name": "ThatBehavior",
-          "url": "https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB"
-        },
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Josh Bogert",
-          "url": "https://open.spotify.com/artist/2MbO01KZTMshiRXcOLo88R"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Love Me First",
-      "url": "https://open.spotify.com/track/6ZiLW7bS9eqAI3o7vz7d7p"
     },
     {
       "added_at": "2022-05-20 21:40:35",
@@ -2491,26 +2511,6 @@
       "duration_ms": 186000,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/2Nshfrn35tC9Brncf8W3G3"
-    },
-    {
-      "added_at": "2022-06-03 20:40:48",
-      "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/60SKSurtzL5m59nahMg9TL"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/7CEIFwLf4XmFz8okORSizE"
     }
   ],
   "unique_name": "Trap Nation",

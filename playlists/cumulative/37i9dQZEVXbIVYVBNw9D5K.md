@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-445 songs - 23 hr 6 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+446 songs - 23 hr 8 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [GÜNAYDIN](https://open.spotify.com/track/5Y7x0VU1VOwPWr6MsHbcxS) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PİŞMAN](https://open.spotify.com/album/2Lljdvhyiw9Bh6Vhvap8Fm) | 2:29 | 2021-09-12 | 2021-09-24 |
 | [GÜNEŞ](https://open.spotify.com/track/4HbGWKUGE4kZveaZ4IJOXQ) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:13 | 2021-06-13 | 2021-07-18 |
 | [Güya](https://open.spotify.com/track/45psv4nJ95oCkdkp8UCkQk) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [Güya](https://open.spotify.com/album/298QpO2dJDLDwURvWA3b8G) | 2:59 | 2021-03-27 | 2021-06-22 |
+| [Hadi Çal](https://open.spotify.com/track/23KCKQJ6FqCEW6bCi5J6bT) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Hadi Çal](https://open.spotify.com/album/4f6waNCGENUspZtUpTpZKa) | 2:36 | 2022-06-07 |  |
 | [Hakim Bey](https://open.spotify.com/track/1U162pMcwl6Ssq5kk1Sso3) | [KADR](https://open.spotify.com/artist/5IbdRuOxSxGes8BU3lKmBx) | [Hakim Bey](https://open.spotify.com/album/5yErDnoFeok5zSOTBzxcOJ) | 2:47 | 2021-10-24 | 2021-12-20 |
 | [Halen](https://open.spotify.com/track/7KiJY7W8c5cNXE9YwuVqlW) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD), [Dr\. Fuchs](https://open.spotify.com/artist/51o6QF11Nswx5jMlp6rAL8) | [Kağıt Kesikleri](https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af) | 3:52 | 2022-06-04 | 2022-06-06 |
 | [Hanfendi](https://open.spotify.com/track/1s2T2quJhHEbA0BgQr30DE) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Hanfendi](https://open.spotify.com/album/4nZp7Xg669hPPyPjRV4Rzz) | 3:38 | 2022-01-29 | 2022-02-10 |
@@ -350,7 +351,7 @@
 | [Puşt](https://open.spotify.com/track/0jTT901BlxBFF86h6W6pbZ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Puşt](https://open.spotify.com/album/0T8UhoxD9S7LfMfWpRIkLS) | 1:53 | 2021-03-27\* | 2021-05-09 |
 | [ralli](https://open.spotify.com/track/7JFlVFtzAQQKXcgYRRhoKA) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [ralli](https://open.spotify.com/album/69VPGZvmt9ocr8NUPCw2Mn) | 2:19 | 2021-07-10 | 2022-04-30 |
 | [RARI](https://open.spotify.com/track/0sHrwnldYfygnxdvu0OsvH) | [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [RARI](https://open.spotify.com/album/3vMhlXmxgGIOrbJ96F4GnD) | 2:44 | 2021-06-16 | 2021-06-27 |
-| [Riv Riv Riv](https://open.spotify.com/track/3HEv9gY3n9Fj2H5E2IoOKF) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Riv Riv Riv](https://open.spotify.com/album/1JCR01kf4AWSyxUXfDU2n7) | 2:01 | 2022-01-04 |  |
+| [Riv Riv Riv](https://open.spotify.com/track/3HEv9gY3n9Fj2H5E2IoOKF) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Riv Riv Riv](https://open.spotify.com/album/1JCR01kf4AWSyxUXfDU2n7) | 2:01 | 2022-01-04 | 2022-06-08 |
 | [Riv Riv Riv](https://open.spotify.com/track/6sKueU5CYJZ0xXqLyCpQB4) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Riv Riv Riv](https://open.spotify.com/album/1e4961lFYN6lPIcXtyFQT2) | 2:01 | 2021-08-29 | 2022-01-05 |
 | [Romeo Ve Juliet](https://open.spotify.com/track/7iNYcYatvXRzCoYqD2Wlgo) | [Frxzbie](https://open.spotify.com/artist/6ZLa3FArZyL8LL5DG3RXtm) | [Arzular Ve Gözyaşları](https://open.spotify.com/album/56nPlOJB1WNKNatRwj04ot) | 2:58 | 2021-04-20 | 2021-05-16 |
 | [RS](https://open.spotify.com/track/1rL5nZhAgxPBbG3z5hl8it) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [RS](https://open.spotify.com/album/0XmgdVruDUqVgvW8PnayIt) | 3:19 | 2022-04-23 | 2022-04-28 |

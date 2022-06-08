@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura\. Cover: Skiifall
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,409 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,436 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Break](https://open.spotify.com/track/7MAF260QrFoPLbcigPfRFp) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Break](https://open.spotify.com/album/5BnZ7N719nnVLX9TFSyCIt) | 2:57 |
 | 100 | [Pink Plant](https://open.spotify.com/track/0LQNGpCxdcgX5MXWuN0zKZ) | [julzzz](https://open.spotify.com/artist/5s6ML4YfMRUp54Elm8D4w8) | [Pink Plant](https://open.spotify.com/album/481wzxLsScQqamkWiRaJek) | 3:33 |
 
-Snapshot ID: `MTY1NDU2MzYxMSwwMDAwMDAwMDBkMTQ2NjdhZDhjNTcxMGVhMDU3NmQyNzcyOWI1NDM2`
+Snapshot ID: `MTY1NDY2ODIzOSwwMDAwMDAwMDBkMTQ2NjdhZDhjNTcxMGVhMDU3NmQyNzcyOWI1NDM2`

@@ -1,13 +1,89 @@
 {
-  "description": "Texas music breaking waves. Cover, Kaash Paige ",
+  "description": "Texas music breaking waves. Cover, KenTheMan",
   "num_followers": 3387,
   "original_name": "Ripple Effect: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAzNDU5MSwwMDAwMDAxYzAwMDAwMTgwZTA4YTI0Y2QwMDAwMDE4MGUwODU2OTQ1",
+  "snapshot_id": "MTY1NDYzODY0MCwwMDAwMDAxZDAwMDAwMTgxNDAyNWZlMmIwMDAwMDE4MTQwMjUyZjE2",
   "tracks": [
+    {
+      "added_at": "2022-06-07 21:50:40",
+      "album": {
+        "name": "Get Jumped",
+        "url": "https://open.spotify.com/album/2bKKwvt0HsusnQN5gOOeRt"
+      },
+      "artists": [
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        },
+        {
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
+        }
+      ],
+      "duration_ms": 124848,
+      "name": "Get Jumped (With Bandmanrill)",
+      "url": "https://open.spotify.com/track/6KRg5sE4TS4yHzujspaRGY"
+    },
+    {
+      "added_at": "2022-06-07 21:50:40",
+      "album": {
+        "name": "No Panties",
+        "url": "https://open.spotify.com/album/3CnXWlwLHgv4E1PaUnla28"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "duration_ms": 142998,
+      "name": "No Panties",
+      "url": "https://open.spotify.com/track/65aGF0Q6hLvlbIyuY2OXwX"
+    },
+    {
+      "added_at": "2022-06-07 21:50:40",
+      "album": {
+        "name": "Mission",
+        "url": "https://open.spotify.com/album/4ZhuAOMdzkYfi2wGD3LHDk"
+      },
+      "artists": [
+        {
+          "name": "Cl4pers",
+          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
+        }
+      ],
+      "duration_ms": 122622,
+      "name": "Mission",
+      "url": "https://open.spotify.com/track/6imkHgaWIleppdVDjnqP3K"
+    },
+    {
+      "added_at": "2022-06-07 21:50:40",
+      "album": {
+        "name": "Popping P",
+        "url": "https://open.spotify.com/album/6pZQGwvrv57gBmh5wEuBUC"
+      },
+      "artists": [
+        {
+          "name": "Voochie P",
+          "url": "https://open.spotify.com/artist/4XxIlRzfz6UtWj0uYTlEy3"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        },
+        {
+          "name": "Rizzoo Rizzoo",
+          "url": "https://open.spotify.com/artist/2zaB41HXDxNghkA6X0fgXT"
+        }
+      ],
+      "duration_ms": 143008,
+      "name": "Popping P",
+      "url": "https://open.spotify.com/track/40yjgSr1Uw8hNWiC1TL8Nj"
+    },
     {
       "added_at": "2022-05-20 08:16:31",
       "album": {
@@ -29,20 +105,76 @@
       "url": "https://open.spotify.com/track/0GMxsSQhO9Yj8aKhN8ljFe"
     },
     {
-      "added_at": "2022-05-20 08:16:31",
+      "added_at": "2022-06-07 21:50:40",
       "album": {
-        "name": "JIGGA DAME",
-        "url": "https://open.spotify.com/album/4za5Cq5ARxUp6sCtegfJFm"
+        "name": "Feelings 4 You",
+        "url": "https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx"
       },
       "artists": [
         {
-          "name": "Maxo Kream",
-          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
         }
       ],
-      "duration_ms": 104186,
-      "name": "JIGGA DAME",
-      "url": "https://open.spotify.com/track/5XZu7BrTTyjzqOzr38sGg3"
+      "duration_ms": 256202,
+      "name": "Feelings 4 You",
+      "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
+    },
+    {
+      "added_at": "2022-06-07 21:50:40",
+      "album": {
+        "name": "5 Years",
+        "url": "https://open.spotify.com/album/7gFrVtLi2Oy0EMYaHtNDQM"
+      },
+      "artists": [
+        {
+          "name": "Lil Jairmy",
+          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
+        }
+      ],
+      "duration_ms": 167423,
+      "name": "5 Years",
+      "url": "https://open.spotify.com/track/55JPb1FVudHjZnFTvB8LPG"
+    },
+    {
+      "added_at": "2022-06-07 21:50:40",
+      "album": {
+        "name": "On The Floor",
+        "url": "https://open.spotify.com/album/3qWVtFiAuulTGgiaqb2DwS"
+      },
+      "artists": [
+        {
+          "name": "iayze",
+          "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
+        }
+      ],
+      "duration_ms": 128973,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/1WSOyNVFWFuL1ne1BPwWfd"
+    },
+    {
+      "added_at": "2022-06-07 21:50:40",
+      "album": {
+        "name": "Awready",
+        "url": "https://open.spotify.com/album/3QfIpWyod9hiAsYFYXA9qt"
+      },
+      "artists": [
+        {
+          "name": "TEXAS BOYZ",
+          "url": "https://open.spotify.com/artist/40qj4OBMZQvOZfqhoSE758"
+        },
+        {
+          "name": "Tay Muletti",
+          "url": "https://open.spotify.com/artist/1VfrgiZIcpiZ1Gyt33B4K4"
+        },
+        {
+          "name": "Nick Gee",
+          "url": "https://open.spotify.com/artist/7D2Vq4xIfvAtBPKGeWlrw2"
+        }
+      ],
+      "duration_ms": 141971,
+      "name": "Awready",
+      "url": "https://open.spotify.com/track/29Bpg0Agd8i1R9lBoZ9Zbi"
     },
     {
       "added_at": "2022-05-20 08:16:31",
@@ -63,6 +195,26 @@
     {
       "added_at": "2022-05-20 08:16:31",
       "album": {
+        "name": "love.drugs.sex (ChopNotSlop Remix)",
+        "url": "https://open.spotify.com/album/3Br7oJgeKm82O8yFb86Pr2"
+      },
+      "artists": [
+        {
+          "name": "Dree Rivers",
+          "url": "https://open.spotify.com/artist/7b4mZoc055iVGecQZSc2r3"
+        },
+        {
+          "name": "DJ Candlestick",
+          "url": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ],
+      "duration_ms": 278035,
+      "name": "love.drugs.sex - ChopNotSlop Remix",
+      "url": "https://open.spotify.com/track/7KwKEpj4tOkDFgvp42lOcS"
+    },
+    {
+      "added_at": "2022-05-20 08:16:31",
+      "album": {
         "name": "Chief Keef & Tadoe",
         "url": "https://open.spotify.com/album/24DlQBzlure5LKUAuiLHSc"
       },
@@ -75,6 +227,22 @@
       "duration_ms": 104700,
       "name": "Chief Keef & Tadoe",
       "url": "https://open.spotify.com/track/0nusbQdl44hevCkmJGifcV"
+    },
+    {
+      "added_at": "2022-05-20 08:16:31",
+      "album": {
+        "name": "JIGGA DAME",
+        "url": "https://open.spotify.com/album/4za5Cq5ARxUp6sCtegfJFm"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        }
+      ],
+      "duration_ms": 104186,
+      "name": "JIGGA DAME",
+      "url": "https://open.spotify.com/track/5XZu7BrTTyjzqOzr38sGg3"
     },
     {
       "added_at": "2022-05-13 20:10:20",
@@ -225,26 +393,6 @@
       "url": "https://open.spotify.com/track/0X1FYduyRRSstP6CEm3PzI"
     },
     {
-      "added_at": "2022-05-20 08:16:31",
-      "album": {
-        "name": "love.drugs.sex (ChopNotSlop Remix)",
-        "url": "https://open.spotify.com/album/3Br7oJgeKm82O8yFb86Pr2"
-      },
-      "artists": [
-        {
-          "name": "Dree Rivers",
-          "url": "https://open.spotify.com/artist/7b4mZoc055iVGecQZSc2r3"
-        },
-        {
-          "name": "DJ Candlestick",
-          "url": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
-        }
-      ],
-      "duration_ms": 278035,
-      "name": "love.drugs.sex - ChopNotSlop Remix",
-      "url": "https://open.spotify.com/track/7KwKEpj4tOkDFgvp42lOcS"
-    },
-    {
       "added_at": "2022-05-13 20:10:20",
       "album": {
         "name": "Look Good",
@@ -307,22 +455,6 @@
     {
       "added_at": "2022-05-13 20:10:20",
       "album": {
-        "name": "No Time",
-        "url": "https://open.spotify.com/album/6J62hgiCuYs5Td6P83HqGV"
-      },
-      "artists": [
-        {
-          "name": "Martina Marie",
-          "url": "https://open.spotify.com/artist/42Tsa4pAqU1FYWER3Mnria"
-        }
-      ],
-      "duration_ms": 162936,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/6rejIiXH2Z3mktD5FIGK8z"
-    },
-    {
-      "added_at": "2022-05-13 20:10:20",
-      "album": {
         "name": "Habits",
         "url": "https://open.spotify.com/album/3RM8kNPQMAFj2ygyMQtp5h"
       },
@@ -351,22 +483,6 @@
       "duration_ms": 131142,
       "name": "ROKU",
       "url": "https://open.spotify.com/track/06LXe97w96150WPik2gRZ4"
-    },
-    {
-      "added_at": "2022-05-13 20:10:20",
-      "album": {
-        "name": "What It Do",
-        "url": "https://open.spotify.com/album/16EpC6czdjcBZyNWw2RpSU"
-      },
-      "artists": [
-        {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
-        }
-      ],
-      "duration_ms": 143627,
-      "name": "What It Do",
-      "url": "https://open.spotify.com/track/6oOutQyoSlQQ4SDUljL9Kv"
     },
     {
       "added_at": "2022-04-29 17:04:27",
@@ -523,22 +639,6 @@
     {
       "added_at": "2022-04-29 17:04:27",
       "album": {
-        "name": "Pop Out",
-        "url": "https://open.spotify.com/album/3IzNDkXpDYxSzoDVNXBSbs"
-      },
-      "artists": [
-        {
-          "name": "Erica Banks",
-          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Pop Out",
-      "url": "https://open.spotify.com/track/0ng1fmKrKCorqjmFtNneFm"
-    },
-    {
-      "added_at": "2022-04-29 17:04:27",
-      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
       },
@@ -591,22 +691,6 @@
     {
       "added_at": "2022-04-29 17:04:27",
       "album": {
-        "name": "Bounce It",
-        "url": "https://open.spotify.com/album/0e18d6wm7aFWfgTHiyPVfU"
-      },
-      "artists": [
-        {
-          "name": "Mosa",
-          "url": "https://open.spotify.com/artist/1cyaSULWtI17yYEk4301Pe"
-        }
-      ],
-      "duration_ms": 149289,
-      "name": "Bounce It",
-      "url": "https://open.spotify.com/track/4iUhFAJUcZYw7w6i63bpky"
-    },
-    {
-      "added_at": "2022-04-29 17:04:27",
-      "album": {
         "name": "Yayski",
         "url": "https://open.spotify.com/album/5PqoEkr0qCS944Z8AS1mrC"
       },
@@ -655,42 +739,6 @@
       "duration_ms": 201420,
       "name": "Throw'd As It Gets (Remix)[Feat. Maxo Kream]",
       "url": "https://open.spotify.com/track/7zSSH0SSoU3jOUT6gbd1uA"
-    },
-    {
-      "added_at": "2022-04-15 07:50:00",
-      "album": {
-        "name": "Fell In love",
-        "url": "https://open.spotify.com/album/4VvszXf5XVA6cmvMNEBsQC"
-      },
-      "artists": [
-        {
-          "name": "Asian Doll",
-          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
-        }
-      ],
-      "duration_ms": 156786,
-      "name": "Fell In Love",
-      "url": "https://open.spotify.com/track/6ykJ3ZAQYIJTuUhetjcqrd"
-    },
-    {
-      "added_at": "2022-04-15 07:50:00",
-      "album": {
-        "name": "556 (Green Tip) (Spotem G-Mix)",
-        "url": "https://open.spotify.com/album/0K5ueKr5c9ZBfkl3kHNR9v"
-      },
-      "artists": [
-        {
-          "name": "iayze",
-          "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
-        },
-        {
-          "name": "SpotemGottem",
-          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
-        }
-      ],
-      "duration_ms": 172995,
-      "name": "556 (Green Tip) (Spotem G-Mix)",
-      "url": "https://open.spotify.com/track/6foIbQlxDlg5RzMqY0uOwR"
     },
     {
       "added_at": "2022-04-15 07:50:00",
@@ -783,26 +831,6 @@
     {
       "added_at": "2022-04-15 07:50:00",
       "album": {
-        "name": "Eat (feat. Z-Ro)",
-        "url": "https://open.spotify.com/album/05bWcmoya1DMykuBkoXAu3"
-      },
-      "artists": [
-        {
-          "name": "Big Jade",
-          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
-        },
-        {
-          "name": "Z-Ro",
-          "url": "https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq"
-        }
-      ],
-      "duration_ms": 166473,
-      "name": "Eat (feat. Z-Ro)",
-      "url": "https://open.spotify.com/track/5uKVpF7HT4VMTLCj6QmrBU"
-    },
-    {
-      "added_at": "2022-04-15 07:50:00",
-      "album": {
         "name": "Codependency",
         "url": "https://open.spotify.com/album/4D31MSHLFZlnGXCyyLKDlB"
       },
@@ -815,26 +843,6 @@
       "duration_ms": 200681,
       "name": "Codependency",
       "url": "https://open.spotify.com/track/6QsDQlfHHQDxVeY8DdFZHf"
-    },
-    {
-      "added_at": "2022-04-01 23:54:33",
-      "album": {
-        "name": "Go Get It (Remix)",
-        "url": "https://open.spotify.com/album/08c0wfxIxNTQnOcjKXiqKv"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "duration_ms": 290064,
-      "name": "Go Get It - Remix",
-      "url": "https://open.spotify.com/track/4Q1Fgnq4W4ER8CUe3fgqWd"
     },
     {
       "added_at": "2022-05-13 20:10:20",
@@ -931,22 +939,6 @@
       "duration_ms": 177613,
       "name": "Right Out The Gate",
       "url": "https://open.spotify.com/track/2ZFnkQzc6rWJ9HhRDoeEbq"
-    },
-    {
-      "added_at": "2022-05-13 20:10:20",
-      "album": {
-        "name": "Hard On A 304",
-        "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
-      },
-      "artists": [
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        }
-      ],
-      "duration_ms": 170218,
-      "name": "Join Em",
-      "url": "https://open.spotify.com/track/03h3onzQ3mkndoFCWIIgMd"
     },
     {
       "added_at": "2022-02-18 23:20:15",

@@ -4,7 +4,7 @@
 
 > The soundtrack to the Internet\. Check out <a href="spotify:show:3oTlNRRUyazgdUpWZYdvd5">Internet People Live</a> on Tuesdays at 8pm EST\. Cover: Armani White
 
-295 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+296 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Ivy](https://open.spotify.com/track/4MPC94p6MfRbMjgYVNSKTC) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Ivy](https://open.spotify.com/album/60jHOsOAVmUxXEt8AKQ6nc) | 2:00 | 2021-11-19 | 2022-02-26 |
 | [IYKYK](https://open.spotify.com/track/66Ms7aYFty1lNm02SuY6II) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [IYKYK](https://open.spotify.com/album/796fmi9gkQZMxFYqUBLQ14) | 2:14 | 2021-12-03 | 2022-04-26 |
 | [JELEEL JUICE!](https://open.spotify.com/track/2Diz85eMch17UsnrZ7Ci8q) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [JELEEL JUICE!](https://open.spotify.com/album/4Pxe2pgK8vIFfBXjw1WEiT) | 1:44 | 2022-04-01 | 2022-04-20 |
+| [Jesus Forgive Me, I Am A Thot](https://open.spotify.com/track/4odoLyHnSx2jIcXs16IvsV) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [All My Heroes Are Cornballs](https://open.spotify.com/album/5ilsl5R2lGACTnPZMKIp7o) | 2:36 | 2022-06-07 |  |
 | [Jesus Is The One \(I Got Depression\)](https://open.spotify.com/track/1YR9iNGXtsbrd8deR9ULDD) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Jesus Is The One \(I Got Depression\)](https://open.spotify.com/album/4M8vfAVCrE4H0Qg25TyYyz) | 1:52 | 2022-01-05 | 2022-02-26 |
 | [Juggernaut](https://open.spotify.com/track/5DlENEGphgTy41xxOzpQoo) | [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j) | [Juggernaut](https://open.spotify.com/album/4Y9l8cikONcudDMt9j2JdG) | 1:50 | 2022-05-20 |  |
 | [Jumpin!](https://open.spotify.com/track/4QYmp5IkfsghZzr20l7FgB) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Jumpin!](https://open.spotify.com/album/5ziBil99sL15uR1Z2t0aEj) | 1:47 | 2022-04-22 | 2022-05-07 |

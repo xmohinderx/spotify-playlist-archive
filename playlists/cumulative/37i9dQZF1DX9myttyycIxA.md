@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: boyish
 
-477 songs - 1 day 3 hr 10 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+478 songs - 1 day 3 hr 16 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [boundary issues](https://open.spotify.com/track/67dPtaJRVciLNPYs0FmlmB) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [the second ep](https://open.spotify.com/album/4MFtzUINsQ7UaPQLKo3501) | 3:14 | 2021-10-02 | 2022-04-29 |
 | [Brooklyn Baby](https://open.spotify.com/track/4pV0fLXSZLHnEzPoOYX55T) | [Flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Halfway / Brooklyn Baby](https://open.spotify.com/album/4mBmTU89uQZ0BSufoeWTXK) | 3:34 | 2022-05-23 |  |
 | [bundle of hyacinths \(feat\. Samia\)](https://open.spotify.com/track/2SQ0rlJIzZSnDQTekYQhsw) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [bundle of hyacinths \(feat\. Samia\)](https://open.spotify.com/album/0rhiRlJCfhHrG585XAsBgL) | 3:03 | 2021-03-05 | 2022-03-21 |
-| [By Your Side](https://open.spotify.com/track/0Vwc4ONQtM3dEVcCMnLDHc) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [By Your Side / Destroy You](https://open.spotify.com/album/1eMgkeDfHK9QvIk0NYuKcv) | 3:19 | 2022-03-26 |  |
+| [By Your Side](https://open.spotify.com/track/0Vwc4ONQtM3dEVcCMnLDHc) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [By Your Side / Destroy You](https://open.spotify.com/album/1eMgkeDfHK9QvIk0NYuKcv) | 3:19 | 2022-03-26 | 2022-06-08 |
 | [C'mon Be Cool](https://open.spotify.com/track/5WEvpHhaLnH1ScM4A1nDzC) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [C'mon Be Cool](https://open.spotify.com/album/4EimlD1OXtXp0GGHFQ1yGv) | 3:15 | 2021-04-13 | 2022-04-27 |
 | [Call Me Home](https://open.spotify.com/track/7EepuMExJZF3eimemlp771) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Call Me Home](https://open.spotify.com/album/2VTv5RQrj5dRi70aCfNhUc) | 3:45 | 2022-03-04 |  |
 | [Can You See Me](https://open.spotify.com/track/5bcuh5urwoAEJ2FfoGextz) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Can You See Me](https://open.spotify.com/album/6xmguBJKNb4Xxn3ODeICu7) | 3:30 | 2022-01-28 | 2022-04-28 |
@@ -117,6 +117,7 @@
 | [Daisy](https://open.spotify.com/track/3RKKtDHhTdMQAJZbfbKsVC) | [Television Blonde](https://open.spotify.com/artist/5HRh5YLBU1AHJFOeUgvzDc) | [Daisy](https://open.spotify.com/album/6o9Xqf9aaVQ3kJCTMC2FCR) | 3:17 | 2021-10-02 | 2022-03-15 |
 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 | 2022-04-29 |  |
 | [Darcy](https://open.spotify.com/track/0GS5GAoxVPeTWa8fV8j1mq) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Darcy](https://open.spotify.com/album/3QfHn3nLiI8UQyqGjfFDYL) | 3:24 | 2021-03-05 | 2022-04-19 |
+| [Dark Angel](https://open.spotify.com/track/58lQsFCu6wlgDvOI0MjMmu) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Dark Angel](https://open.spotify.com/album/7vLW18eOsIVNFMqiBGXafe) | 6:15 | 2022-06-07 |  |
 | [Dark Star](https://open.spotify.com/track/4AwX0i4DC8buTFbFsHpqzs) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Dark Star b/w Pastel Sunrise](https://open.spotify.com/album/5Em1Nym2EEFoJpQzSgt908) | 3:08 | 2022-04-29 | 2022-06-03 |
 | [David](https://open.spotify.com/track/0VHS1bzjUYPQUUdsveukVU) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [David](https://open.spotify.com/album/2IE0DyI3VpGaW9JsgdLL4f) | 3:05 | 2021-05-14 | 2022-04-29 |
 | [Dawning](https://open.spotify.com/track/6kD2M35ioMIe77cAaL8RzY) | [THEM PARENTS](https://open.spotify.com/artist/0zBu6Ne0tm3kArvljuazCj) | [Dawning](https://open.spotify.com/album/7E8hpPJPfnldSLj41mHHoI) | 3:50 | 2022-03-04 | 2022-04-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Pheelz
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,734 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,496 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 44 | [Baddest Boy](https://open.spotify.com/track/3t7hYVVDzf1VDUz0pu5Zy1) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Baddest Boy](https://open.spotify.com/album/7yxdgb3JrIfoNbJTY6f8jP) | 2:21 |
 | 45 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 |
 | 46 | [Danger](https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Danger](https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo) | 2:37 |
-| 47 | [Bluffin, Pt\. 2](https://open.spotify.com/track/6RFdEEXzTg1oEP8QAsIz6i) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Bluffin, Pt\. 2](https://open.spotify.com/album/1s55kRm1iHa6dmZeL68wAq) | 3:02 |
-| 48 | [o'dun](https://open.spotify.com/track/5e6Em24aptMFZaDCsvBJpu) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [God’s Timing’s the Best](https://open.spotify.com/album/24dNVB3ThSVZWsTO5KhBc7) | 2:35 |
-| 49 | [Pardonne\-moi](https://open.spotify.com/track/0xHAkrcpP3fQySJ7IcThgv) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Pardonne\-moi](https://open.spotify.com/album/1NsN4Sh0PYBdbOhCDOhimx) | 3:25 |
-| 50 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 |
+| 47 | [o'dun](https://open.spotify.com/track/5e6Em24aptMFZaDCsvBJpu) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [God’s Timing’s the Best](https://open.spotify.com/album/24dNVB3ThSVZWsTO5KhBc7) | 2:35 |
+| 48 | [Pardonne\-moi](https://open.spotify.com/track/0xHAkrcpP3fQySJ7IcThgv) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Pardonne\-moi](https://open.spotify.com/album/1NsN4Sh0PYBdbOhCDOhimx) | 3:25 |
+| 49 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 |
 
-Snapshot ID: `MTY1NDIwNzMyMCwwMDAwMDEyNjAwMDAwMTgxMjY3MDkwMTMwMDAwMDE4MTFhNmJiMjA1`
+Snapshot ID: `MTY1NDU5MDg2NCwwMDAwMDEyNzAwMDAwMTgxM2Q0Y2ZiNmYwMDAwMDE4MTFhNmJiMjA1`

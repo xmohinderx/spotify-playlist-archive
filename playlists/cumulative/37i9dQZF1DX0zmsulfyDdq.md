@@ -4,7 +4,7 @@
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.
 
-170 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
+171 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Lavender Blue \(Dilly Dilly\) \- Instrumental](https://open.spotify.com/track/5JcXeicEC7wvtASq8H0Mua) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Lullaby & Goodnight](https://open.spotify.com/album/5XM8EEuQ4D9EsygINToYny) | 3:17 | 2022-05-23 |  |
 | [Let It Go](https://open.spotify.com/track/1NgkiQCZtk0Hnb5ocnUe04) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Blissful](https://open.spotify.com/album/7kFYl7LzfMz29lwsDyh2bf) | 3:40 | 2022-04-15 |  |
 | [Little Black Rain Cloud](https://open.spotify.com/track/7wg7dmX824pIbY8ONfbgAz) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Dream](https://open.spotify.com/album/6KvAEqxeFDVxFkCvE8gw0C) | 2:03 | 2022-04-15 |  |
-| [London Bridge/Tura\-Lura\-Lural \(That's An Irish Lullaby\) \- Instrumental](https://open.spotify.com/track/7lE2IEY8KXtqQRGs3TZhX0) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney's Lullaby Album Vol\. 2](https://open.spotify.com/album/3EV5xeChXvPoPh1lriE8sd) | 3:30 | 2022-04-15 |  |
+| [London Bridge](https://open.spotify.com/track/2a7LbIOIZVlYzfKTIvjD8B) | [Larry Groce](https://open.spotify.com/artist/2z9Y52xPb933l5cs0GNvnc), [Disneyland Children's Sing\-Along Chorus](https://open.spotify.com/artist/6ZFgQo1KEKV4ADP8mAw7xg) | [Best of Children's Favorites\- Mickey's Top 40 Tunes](https://open.spotify.com/album/6FtSPgr7FkvIlSoaidnXsH) | 1:35 | 2022-06-07 |  |
+| [London Bridge/Tura\-Lura\-Lural \(That's An Irish Lullaby\) \- Instrumental](https://open.spotify.com/track/7lE2IEY8KXtqQRGs3TZhX0) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney's Lullaby Album Vol\. 2](https://open.spotify.com/album/3EV5xeChXvPoPh1lriE8sd) | 3:30 | 2022-04-15 | 2022-06-08 |
 | [Lost in the Woods](https://open.spotify.com/track/6js7mLpJ4vlOkR8rme6fDD) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Tranquility](https://open.spotify.com/album/1BX9U1imsmf6lImnV63Xkb) | 3:00 | 2022-04-15 |  |
 | [Love](https://open.spotify.com/track/1YTirJpIZARdMpMYspPo0Y) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Break Time](https://open.spotify.com/album/3bpgROclnnWm7clCFgmweI) | 3:25 | 2022-04-15 |  |
 | [Love Is a Song](https://open.spotify.com/track/0IkV2YqLBVsLrsm4ycVn2w) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Tranquility](https://open.spotify.com/album/1IcgiPVFTOe5B2ICMzNwuT) | 2:54 | 2022-04-15 |  |

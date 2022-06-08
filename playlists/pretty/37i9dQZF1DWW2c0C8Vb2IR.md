@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Harish Raghavan
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,163 likes - 52 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,204 likes - 52 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

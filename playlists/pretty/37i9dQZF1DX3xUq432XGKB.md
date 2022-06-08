@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > The electro revival with Dawn Richard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,371 likes - 37 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,386 likes - 37 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 21 | [Not Above That](https://open.spotify.com/track/2I68J8QjcrQFyGAaTIufZM) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Not Above That \- Single](https://open.spotify.com/album/4TkDGYAVDOvtnXlG4U7JGN) | 4:46 |
 | 22 | [Don't Hold Out](https://open.spotify.com/track/6al3h38eQyMeIb3e0CgeSh) | [Hannah Lucia](https://open.spotify.com/artist/7EwTG8jbkCxqNfKoiFqKMd) | [Don't Hold Out](https://open.spotify.com/album/0FVNHCE9g6NO6uB34s8sCg) | 3:27 |
 | 23 | [River](https://open.spotify.com/track/6ybkewfx53Quy6rjo4IKDi) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Ibeyi](https://open.spotify.com/album/4VrxiS9RcvqQCdIfww3HKR) | 4:12 |
-| 24 | [Dilemme \(with tha Supreme & Mara Sattei\)](https://open.spotify.com/track/1Whf2ZaesM1gXlU0z3Fslt) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [tha Supreme](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Dilemme \(with tha Supreme & Mara Sattei\)](https://open.spotify.com/album/58UfZvPf388nNXT6nnszRp) | 3:51 |
+| 24 | [Dilemme \(with tha Supreme & Mara Sattei\)](https://open.spotify.com/track/1Whf2ZaesM1gXlU0z3Fslt) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Dilemme \(with tha Supreme & Mara Sattei\)](https://open.spotify.com/album/58UfZvPf388nNXT6nnszRp) | 3:51 |
 | 25 | [A Palé](https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [A Palé](https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx) | 2:23 |
 | 26 | [Do It 4 U](https://open.spotify.com/track/3JlKaNxC03Qt6UX0dxnYqW) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [D∆WN](https://open.spotify.com/artist/5FC4ZICxoYTYQbN1sGFKx1) | [Do It 4 U](https://open.spotify.com/album/4cCnV3LlnQgxuJrP4j7qnG) | 3:40 |
 | 27 | [Lapdance from Asia](https://open.spotify.com/track/70Tn7Qn1LyVCTTd8EyyXGW) | [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Lapdance from Asia](https://open.spotify.com/album/39FgCD5p3mfqX17D5e5hMe) | 3:28 |

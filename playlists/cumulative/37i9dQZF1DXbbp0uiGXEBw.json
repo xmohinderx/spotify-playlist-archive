@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "after YOU",
+        "url": "https://open.spotify.com/album/2J9z8vV5C4eutvLLoX2foQ"
+      },
+      "artists": [
+        {
+          "name": "Thi\u1ec1u B\u1ea3o Tr\u00e2m",
+          "url": "https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299830,
+      "name": "Ch\u00fang Ta L\u00e0m B\u1ea1n \u0110\u01b0\u1ee3c Kh\u00f4ng?",
+      "url": "https://open.spotify.com/track/6oghyOqPnFUCB7C8modJ2D"
+    },
+    {
+      "album": {
         "name": "Con \u0110\u00e3 V\u1ec1",
         "url": "https://open.spotify.com/album/68sqNGevSOeTj9PixQQSev"
       },
@@ -613,7 +631,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 246271,
       "name": "Kh\u00f4ng C\u1ea7n Ph\u1ea3i N\u00f3i Nhi\u1ec1u",
       "url": "https://open.spotify.com/track/1DmMJL7KrTEC5MDTvYpfLD"
@@ -675,7 +693,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 258665,
       "name": "Love Rosie",
       "url": "https://open.spotify.com/track/1WRTkAAByYdNhoTLIf49bV"
@@ -1245,6 +1263,28 @@
       "duration_ms": 199266,
       "name": "Tr\u00ean T\u00ecnh B\u1ea1n D\u01b0\u1edbi T\u00ecnh Y\u00eau",
       "url": "https://open.spotify.com/track/5zH2inEP6THOY8tomr3DdZ"
+    },
+    {
+      "album": {
+        "name": "after YOU",
+        "url": "https://open.spotify.com/album/2J9z8vV5C4eutvLLoX2foQ"
+      },
+      "artists": [
+        {
+          "name": "Thi\u1ec1u B\u1ea3o Tr\u00e2m",
+          "url": "https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl"
+        },
+        {
+          "name": "Andiez",
+          "url": "https://open.spotify.com/artist/0tBmmwc8j8zbJxISwdsvjA"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236992,
+      "name": "Tr\u01b0\u1edbc Ti\u00ean Anh H\u00e3y N\u00f3i Chia Tay Em \u0110i",
+      "url": "https://open.spotify.com/track/2AhLDaQumFH17AfcxRIlqf"
     },
     {
       "album": {

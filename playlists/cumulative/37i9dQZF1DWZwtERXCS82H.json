@@ -602,6 +602,28 @@
     },
     {
       "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/5vsFLDIbHA9rWnTLfM6n6Q"
+      },
+      "artists": [
+        {
+          "name": "Karen LeFrak",
+          "url": "https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo"
+        },
+        {
+          "name": "Jacques van Tuinen",
+          "url": "https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117544,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/4NtQxFOAJhJdScCIgEZkeN"
+    },
+    {
+      "album": {
         "name": "A\u0301tica",
         "url": "https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs"
       },
@@ -883,7 +905,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 134624,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/2IdLxL6CPq1bUiMRIenO9J"
@@ -937,7 +959,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 127236,
       "name": "Calm Skies",
       "url": "https://open.spotify.com/track/2IpHdNslMW4mijoiTKF3j3"
@@ -1556,6 +1578,32 @@
     },
     {
       "album": {
+        "name": "Dreaming With You",
+        "url": "https://open.spotify.com/album/01mcs0kkQr0hEjd4IjdDGL"
+      },
+      "artists": [
+        {
+          "name": "Brock Hewitt: Stories in Sound",
+          "url": "https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm"
+        },
+        {
+          "name": "MajorLink",
+          "url": "https://open.spotify.com/artist/56M0OscfqROb5IPl7jGnyS"
+        },
+        {
+          "name": "The David Roy Collective",
+          "url": "https://open.spotify.com/artist/3rQj5XISunNkD97E1PGSrt"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Dreaming With You",
+      "url": "https://open.spotify.com/track/1bNxK4PaPg9v6MLkfsM3Rl"
+    },
+    {
+      "album": {
         "name": "Dried Out",
         "url": "https://open.spotify.com/album/4VPQn4Kmsfe2WYXwMo15xX"
       },
@@ -1621,7 +1669,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 183815,
       "name": "durch Nacht und Nebel",
       "url": "https://open.spotify.com/track/6ceKCk7fknQhCvYWtwAmlP"
@@ -1891,7 +1939,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 210583,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e"
@@ -2179,7 +2227,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 177000,
       "name": "Fiorire",
       "url": "https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv"
@@ -3335,7 +3383,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 120425,
       "name": "Infatuation",
       "url": "https://open.spotify.com/track/6ZwJ6siwR4uUw7qhUkJLUp"
@@ -3857,7 +3905,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 144025,
       "name": "Late Winter",
       "url": "https://open.spotify.com/track/4Qk7rCJOzPOE8daWO1rJgg"
@@ -4127,7 +4175,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 172750,
       "name": "Litany",
       "url": "https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9"
@@ -4397,10 +4445,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 182500,
       "name": "Mare\u0301e",
       "url": "https://open.spotify.com/track/30OJqSJ1sxV2E8eWt9ONQD"
+    },
+    {
+      "album": {
+        "name": "Marietta",
+        "url": "https://open.spotify.com/album/1GFJ90yWL7Y9rBYrIpI7LG"
+      },
+      "artists": [
+        {
+          "name": "Isaac Nash",
+          "url": "https://open.spotify.com/artist/32MlHIPCHJoM3V9IlknCxD"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143874,
+      "name": "Marietta",
+      "url": "https://open.spotify.com/track/7I3YkJ333ghsMaQXSiQNi2"
     },
     {
       "album": {
@@ -4620,6 +4686,24 @@
     },
     {
       "album": {
+        "name": "Mi\u00e9rt",
+        "url": "https://open.spotify.com/album/2AgqcKkzW68PlX3cpfuaNM"
+      },
+      "artists": [
+        {
+          "name": "Katona Ernesztina",
+          "url": "https://open.spotify.com/artist/5q88YG8qotyr34n4Exhpn3"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Mi\u00e9rt",
+      "url": "https://open.spotify.com/track/2QO9kGSgMvPMrcARk5c6ft"
+    },
+    {
+      "album": {
         "name": "Apelblom",
         "url": "https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1"
       },
@@ -4775,7 +4859,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 178000,
       "name": "Mursejler",
       "url": "https://open.spotify.com/track/4WsMQ3rw3Y5JPHIgJcG8Qc"
@@ -5405,7 +5489,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 137500,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx"
@@ -6341,7 +6425,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 140666,
       "name": "Satin Night",
       "url": "https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl"
@@ -6816,6 +6900,24 @@
     },
     {
       "album": {
+        "name": "Skye",
+        "url": "https://open.spotify.com/album/65bltqhMq5gjB9kNxCXqvw"
+      },
+      "artists": [
+        {
+          "name": "Jakob Maler",
+          "url": "https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144277,
+      "name": "Skye",
+      "url": "https://open.spotify.com/track/07nMoeNxaY9nZtvD01snY8"
+    },
+    {
+      "album": {
         "name": "Sleeping at last",
         "url": "https://open.spotify.com/album/0nOyDcj7i5cEolSP2RZ2uW"
       },
@@ -7176,6 +7278,24 @@
     },
     {
       "album": {
+        "name": "Straubish",
+        "url": "https://open.spotify.com/album/0JJnxjBA4qAMrpIeWzDNTo"
+      },
+      "artists": [
+        {
+          "name": "Anne Straub",
+          "url": "https://open.spotify.com/artist/2Uqeqg9rCtk2ad9BPWpent"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117465,
+      "name": "Straubish",
+      "url": "https://open.spotify.com/track/32ZjFfX4ZglRmPzfV3QU6d"
+    },
+    {
+      "album": {
         "name": "Strejfer",
         "url": "https://open.spotify.com/album/1aeDkp0m42y4wfJ69fX9H3"
       },
@@ -7533,7 +7653,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 211000,
       "name": "The Distant Path",
       "url": "https://open.spotify.com/track/1nPQClKsAqd84PZU5hfVCB"
@@ -7569,7 +7689,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 171000,
       "name": "The Far West",
       "url": "https://open.spotify.com/track/3nI7ooi7HA8oRVSgCKvcE7"
@@ -7587,7 +7707,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 156500,
       "name": "The Field",
       "url": "https://open.spotify.com/track/7Mas670FmorgBqp0GnZOHb"
@@ -7645,6 +7765,24 @@
       "duration_ms": 150500,
       "name": "The Phenomenon",
       "url": "https://open.spotify.com/track/6QCddEiJ7fLtmoGsq1kWdq"
+    },
+    {
+      "album": {
+        "name": "The Pond",
+        "url": "https://open.spotify.com/album/6aNc4dlBFw27rfDeNJxTbY"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106625,
+      "name": "The Pond",
+      "url": "https://open.spotify.com/track/1sKzQ5CXYSKKeeKyfLf5H3"
     },
     {
       "album": {

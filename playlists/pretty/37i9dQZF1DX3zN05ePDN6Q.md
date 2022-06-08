@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional e muito boom bap na área\. Foto: Clara Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,329 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,334 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 17 | [Vírus Rockefeller](https://open.spotify.com/track/0IkDpPQv37dc5QgBzIGGY7) | [GERMANO RAPPER](https://open.spotify.com/artist/0gt6Dof0b5easA2FbTPQZl), [Diego Sazari](https://open.spotify.com/artist/16SOzncIZtQfPFfbPyDmds), [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Vírus Rockefeller](https://open.spotify.com/album/1Hgg2AYDgh0cyRWnN9xfku) | 4:00 |
 | 18 | [Dá um Tempo](https://open.spotify.com/track/3djugyrrA5PzsLBlwWJ7ro) | [PrimeiraMente](https://open.spotify.com/artist/3ljiSwQJmAVQVOXirjA2RT), [Lucas Gali](https://open.spotify.com/artist/3K0d3wFUuuzWb3o6tEqRlm) | [Dá um Tempo](https://open.spotify.com/album/1mpJQs5lSy9pHOVi3ZkwmX) | 3:43 |
 | 19 | [Monólogo](https://open.spotify.com/track/12gq7G3vaOaqmgenVBkl9O) | [Cassol](https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu) | [Monólogo](https://open.spotify.com/album/1F94TfsNYPARsdjJB5zCFW) | 5:15 |
-| 20 | [Bebelzinho](https://open.spotify.com/track/5Xjzm8i8PQJ3pODaCJCZU1) | [yung vegan](https://open.spotify.com/artist/1syJqMCwFKLRoDT9plGxJV), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK), [P.L.K](https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf) | [A História do Deus Pivete](https://open.spotify.com/album/6M4oPFZ1wWlx6wNMDtjWbX) | 3:12 |
+| 20 | [Bebelzinho](https://open.spotify.com/track/5Xjzm8i8PQJ3pODaCJCZU1) | [yung vegan](https://open.spotify.com/artist/1syJqMCwFKLRoDT9plGxJV), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK), [P.L.K](https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf), [Marco de Souza](https://open.spotify.com/artist/7GATmLEPxZOeUQ0G0b2CMk) | [A História do Deus Pivete](https://open.spotify.com/album/6M4oPFZ1wWlx6wNMDtjWbX) | 3:12 |
 | 21 | [Resistência de Favela](https://open.spotify.com/track/7ksynz0JTpnWgvO2tP1FhI) | [Koba](https://open.spotify.com/artist/3gRpHymy3Kef58CxEIKf6W), [Lado Sujo da Frequência](https://open.spotify.com/artist/6aPW50hBX6ZLc5QTgor7Wh) | [Resistência de Favela](https://open.spotify.com/album/7ty0nG2K29FeVroOzRfw09) | 3:57 |
 | 22 | [RUMOS](https://open.spotify.com/track/0Qompyn6uipOjYJNBGnhJm) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 3:03 |
 | 23 | [Fé No Processo](https://open.spotify.com/track/3wx7XAAC8SjXpOMv8YDVhe) | [Epílogo](https://open.spotify.com/artist/0xp4hAT0F4oiBiZSAFo3By), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Fé No Processo](https://open.spotify.com/album/5K4vMTbZjJzzwSSY8TEZ0m) | 3:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Celebrate BTS discography with members' Spotify Clips! \(New videos will be updated on every Friday\)\. A.R.M.Y is unbeatable💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,656,137 likes - 217 songs - 13 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,664,371 likes - 217 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 | 216 | [Like](https://open.spotify.com/track/55Ctj6nVfobn9AcPe6sLG2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2 Cool 4 Skool](https://open.spotify.com/album/6egaEe9JaULuUCkihSnYlH) | 3:51 |
 | 217 | [Outro: Circle Room Cypher](https://open.spotify.com/track/1GPIdEcxPjPIYGmN08b1yf) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2 Cool 4 Skool](https://open.spotify.com/album/6egaEe9JaULuUCkihSnYlH) | 5:23 |
 
-Snapshot ID: `MTY1NDU2MzQ4NywwMDAwMDAwMDQ5NGI5ODA3OTBjYzk2NzExZDE2ZGUzNTczOWFiYmU5`
+Snapshot ID: `MTY1NDY2ODEyMiwwMDAwMDAwMDQ5NGI5ODA3OTBjYzk2NzExZDE2ZGUzNTczOWFiYmU5`

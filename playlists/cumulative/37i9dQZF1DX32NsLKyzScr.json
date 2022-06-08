@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 146065,
       "name": "All Night & Every Day",
       "url": "https://open.spotify.com/track/6uMw8SDp0npgOKO0pbmmPZ"
@@ -1001,7 +1001,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 401951,
       "name": "Back To My Love",
       "url": "https://open.spotify.com/track/0onLNYV4aYuSQb8wPxR0O0"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 176039,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/6ZCPLvXEuf5z9Wgq7EbGS8"
@@ -2125,7 +2125,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 191250,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/0LsR4TZXku2sMoFTwAivOw"
@@ -3831,7 +3831,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 139615,
       "name": "Drag Me Out",
       "url": "https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V"
@@ -4819,7 +4819,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 182362,
       "name": "Flexin'",
       "url": "https://open.spotify.com/track/0PD9B4GdmJ3ePGmD8Pm4cS"
@@ -7005,7 +7005,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 225858,
       "name": "Ikaris",
       "url": "https://open.spotify.com/track/3VIALHoZjuV0aFvENmn413"
@@ -8947,7 +8947,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 142677,
       "name": "Monday Kind of Tuesday",
       "url": "https://open.spotify.com/track/6V8UEh7aSmuh1qxe1HnNnE"
@@ -9307,7 +9307,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 205714,
       "name": "My Feelings For You - Don Diablo Remix",
       "url": "https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms"
@@ -10405,7 +10405,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 180047,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/2wSudk1Z9HMdPNrWnwu6mc"
@@ -12557,7 +12557,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 187111,
       "name": "Screwdriver",
       "url": "https://open.spotify.com/track/57Gc56jQqwtDAEq7gTAXW9"
@@ -13558,6 +13558,32 @@
     },
     {
       "album": {
+        "name": "Stained Glass",
+        "url": "https://open.spotify.com/album/3wgyG24J3yBnu2ebaHFgPY"
+      },
+      "artists": [
+        {
+          "name": "Severman",
+          "url": "https://open.spotify.com/artist/4kiGFkkVQVz9a8XIw8lX7u"
+        },
+        {
+          "name": "Arshan Joel",
+          "url": "https://open.spotify.com/artist/5P6sCfR0dw7dR4nOx8i4Nt"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214218,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/1IjtAvFs602L4N6c7JQHg3"
+    },
+    {
+      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/0oL0NWlMtPXPJZTuEiHpIe"
       },
@@ -13925,7 +13951,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 190975,
       "name": "Strangers (with Mansionair) - Nora En Pure Remix",
       "url": "https://open.spotify.com/track/4XWwO9fZnrDhXZrMBMGesE"
@@ -15741,7 +15767,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 218250,
       "name": "Trust Fall",
       "url": "https://open.spotify.com/track/4jQZkLxVApMh4NPRWVSuP9"

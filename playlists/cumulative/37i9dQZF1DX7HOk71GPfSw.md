@@ -4,7 +4,7 @@
 
 > spotify hyperpop playlist
 
-1,286 songs - 2 day 10 hr 21 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
+1,287 songs - 2 day 10 hr 23 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,6 +661,7 @@
 | [LEGEND \- Gassed Up Remix](https://open.spotify.com/track/043R6gVEQtclGy8lZYzwJF) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3), [Alice Gas](https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR) | [LEGEND \(Remixes\)](https://open.spotify.com/album/2TdSAqKrL5hFkZHiqRY4sO) | 2:56 | 2021-10-16 | 2021-10-21 |
 | [LEMONADE](https://open.spotify.com/track/390ey4VzRGd88FHKCIflG7) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [LEMONADE](https://open.spotify.com/album/57sloqMgDMARCIGqu7qbL3) | 1:58 | 2021-02-10 | 2021-02-26 |
 | [LENG](https://open.spotify.com/track/4wpWZDW50CVGxQUgMmwmGZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:20 | 2021-02-10 | 2021-07-17 |
+| [Leo](https://open.spotify.com/track/3npqDK0r1H1YFIrN4PVgkQ) | [max reist](https://open.spotify.com/artist/5YLF7BOi6RAqXANPznstzL) | [Leo](https://open.spotify.com/album/3jhlUgL0AWQgLLohRdePpv) | 2:20 | 2022-06-07 |  |
 | [Less Intro](https://open.spotify.com/track/6WU5CBcMSe3ebHVE0V9ZnY) | [saturn](https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR) | [L.S.D : LESS SUNNY DAYS](https://open.spotify.com/album/4pGh7owLQReIQ6TpU281fM) | 1:57 | 2020-10-13\* | 2020-10-23 |
 | [let go](https://open.spotify.com/track/65O37WGjsXUPE6NCXq2x1k) | [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA) | [let go](https://open.spotify.com/album/0H0RXnIh7jnLjb4X2MBTUa) | 1:53 | 2021-05-15 | 2021-07-11 |
 | [Let It Rip](https://open.spotify.com/track/7hdkGBGznEQ1KsKQ65kPDt) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [BACK IN ACTION](https://open.spotify.com/album/4BAcHH4t5j24fRD5Nvz7YU) | 2:16 | 2021-09-23 | 2022-01-29 |
@@ -1276,7 +1277,7 @@
 | [Yin & Yang](https://open.spotify.com/track/3dzvHx54JYi82R9vky9rSB) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee) | [Yin & Yang](https://open.spotify.com/album/560y3gk5ur1PpUsASF5EtZ) | 2:13 | 2020-12-11 | 2021-01-08 |
 | [Yoga](https://open.spotify.com/track/2DiybJZJGXyV1UYmngo3eq) | [645AR](https://open.spotify.com/artist/3Iv3mOsjFV8vZkXphpQ8hz) | [Yoga](https://open.spotify.com/album/7uIxdWqJJwECNK4ned9JGa) | 1:31 | 2020-10-13\* | 2020-12-09 |
 | [You Make It Look so Easy \- Lucky](https://open.spotify.com/track/2lstVoHls0zu9Lm2avJwsU) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [You Make It Look So Easy \(Playtime\)](https://open.spotify.com/album/3K4fsmRZS9ubnsgfWRQmTe) | 3:52 | 2021-10-20 | 2022-03-05 |
-| [you will always be a part of me](https://open.spotify.com/track/2OaYDgtifL6fWVUu9xK6jF) | [brody](https://open.spotify.com/artist/0t7bbGUdyq3urfDddwXhdY) | [you will always be a part of me](https://open.spotify.com/album/15ULXxsJV8rHscX9hBy3CS) | 2:10 | 2022-04-15 |  |
+| [you will always be a part of me](https://open.spotify.com/track/2OaYDgtifL6fWVUu9xK6jF) | [brody](https://open.spotify.com/artist/0t7bbGUdyq3urfDddwXhdY) | [you will always be a part of me](https://open.spotify.com/album/15ULXxsJV8rHscX9hBy3CS) | 2:10 | 2022-04-15 | 2022-06-08 |
 | [your clothes](https://open.spotify.com/track/5gFfE8UgFslvqjVQw7dktZ) | [dltzk](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Frailty](https://open.spotify.com/album/6rO7DlLYSHabzSsD7Gpe14) | 4:14 | 2021-11-12 | 2022-04-29 |
 | [Your favorite sidekick](https://open.spotify.com/track/0VNjaRcmIowjLbPtYDhLuh) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:30 | 2021-04-03 | 2021-11-13 |
 | [Yr Lullaby](https://open.spotify.com/track/50ZOlJaeOVk4QCqiIUf7cW) | [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Renegade Lullaby](https://open.spotify.com/album/4fQphKV6ae83l1CaTwr2JX) | 2:17 | 2021-12-17 | 2022-02-26 |

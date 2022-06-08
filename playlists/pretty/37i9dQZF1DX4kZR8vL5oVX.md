@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Izïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,586 likes - 48 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,592 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,19 +42,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 32 | [Ici et Maintenant](https://open.spotify.com/track/4yC4zbyEKEuJG3KVmsRN14) | [REB](https://open.spotify.com/artist/6wAoRA0lIGIzF1SmduUg32) | [Ici et Maintenant](https://open.spotify.com/album/5dgHNk1VRI6YHKmcLjRyea) | 2:55 |
 | 33 | [Abyssal](https://open.spotify.com/track/7mUdUu75AfRWoxthhBJFkt) | [Julia Pertuy](https://open.spotify.com/artist/5kG7vNPBANAzHPWIuHwZ4D) | [Abyssal](https://open.spotify.com/album/2v8brQYnFf5pODegprhom7) | 4:36 |
 | 34 | [Phases](https://open.spotify.com/track/2wqm6lPEiPKPPDeTTba9dg) | [Yorina](https://open.spotify.com/artist/3zrsuumoPW6KbZmBX2X7qC) | [Phases](https://open.spotify.com/album/1S85j7hvVxvmdYzC7KXbNp) | 4:18 |
-| 35 | [Nord](https://open.spotify.com/track/6Hzj8BcWCtU31TJahxTRUz) | [Minissia](https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl) | [Nord](https://open.spotify.com/album/1yUuZHl3SaiVd8BUCEkL3D) | 2:53 |
-| 36 | [VVS](https://open.spotify.com/track/73KIBzwN3tP4QCrNxp6Yqk) | [Turtle White](https://open.spotify.com/artist/4F5LHjkVnCgcFF4I2W2i1A) | [VVS](https://open.spotify.com/album/1B6aJqd81UUiv26edYifDe) | 3:18 |
-| 37 | [Casino](https://open.spotify.com/track/002iojUpmYteKQ9iZ3nPPg) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [backrooms](https://open.spotify.com/album/0K5wytragV3Cp3Ow02aawS) | 3:18 |
-| 38 | [Kikiri](https://open.spotify.com/track/4v1KFFbjI8PZFVD7KxTiC2) | [Natpena](https://open.spotify.com/artist/7EqO0gG6ohpEjsDQrgOarL) | [Kikiri](https://open.spotify.com/album/5DjNavoQPAzDOs2looZlG4) | 4:27 |
-| 39 | [Lady Di](https://open.spotify.com/track/05FPZIZSQLOZHZ8gWlO4ud) | [Nina Rossell](https://open.spotify.com/artist/76GOZCc1Fa0aXqh4edNsuw) | [Mala](https://open.spotify.com/album/7hhhDSOFOuyV9lKk9FlWDE) | 2:32 |
-| 40 | [L'appétit](https://open.spotify.com/track/1vOprAwZqZLHGt5H9ATza1) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [L'appétit](https://open.spotify.com/album/26PdACHB87VnkxaLEQitT2) | 2:57 |
-| 41 | [Dis\-moi oui](https://open.spotify.com/track/2rD8n0QH7ugRyFPQm9hUrD) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Dis\-moi oui](https://open.spotify.com/album/2Pq8jqWjWB4VwMgcFGfjQp) | 3:27 |
-| 42 | [Mythologie](https://open.spotify.com/track/28np0boOT7svs7oG9RNpxM) | [Eesah Yasuke](https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC) | [Mythologie](https://open.spotify.com/album/1E6limGMwvAC2k1i9hgwKZ) | 2:25 |
-| 43 | [Une Tempête](https://open.spotify.com/track/0WaCGTemkdb1uNDEoo39Az) | [La Pietà](https://open.spotify.com/artist/5P0atd21WQems5FDKnBysF) | [Une Tempête](https://open.spotify.com/album/4u8ptsviIbe84QCowfkGzQ) | 3:56 |
-| 44 | [YMCA](https://open.spotify.com/track/0Xi4HqP1vScctluzHuHBdC) | [Margaux de Fouchier](https://open.spotify.com/artist/1f8f6hYKM3spjGBUB6RkCx) | [Disconova](https://open.spotify.com/album/3zU7kBtBW0yTdOPzkwt9I3) | 4:22 |
-| 45 | [Strip Rock](https://open.spotify.com/track/5GIx58N55cBgBiCku7hGXM) | [Carmen Maria Vega](https://open.spotify.com/artist/4BeUJGT638jeAuAvtm51oE) | [Strip Rock](https://open.spotify.com/album/1QyZXcmu5BY3LV9wky47aZ) | 3:36 |
-| 46 | [Les signes indiens](https://open.spotify.com/track/4Z0H83AIGuK6D2N1mX9rNL) | [Julie Pietri](https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG) | [Origami](https://open.spotify.com/album/0Fo4LhqtZOWLWi3FKPZgjj) | 3:14 |
-| 47 | [Fever](https://open.spotify.com/track/06mMTF6cqtiEptM8FdVhv6) | [Arielle Dombasle](https://open.spotify.com/artist/7I2zgbIGfAd3w1CktlJUbI) | [Fever](https://open.spotify.com/album/5LAT4jfX64Epy05Y3blREP) | 3:40 |
-| 48 | [Mon homme est un gangster \- Extrait du spectacle musical Al Capone](https://open.spotify.com/track/13YIhpbt35twU7artHy6v4) | [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Mon homme est un gangster \(Extrait du spectacle musical Al Capone\)](https://open.spotify.com/album/7s3rPgbWOw58gweDPsVvit) | 2:10 |
+| 35 | [Vénus 金星](https://open.spotify.com/track/37BJTNSG8VNOZ54anguOGy) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [Vénus 金星](https://open.spotify.com/album/5lRUexCXLf8l5D5QCJFrLm) | 3:35 |
+| 36 | [Nord](https://open.spotify.com/track/6Hzj8BcWCtU31TJahxTRUz) | [Minissia](https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl) | [Nord](https://open.spotify.com/album/1yUuZHl3SaiVd8BUCEkL3D) | 2:53 |
+| 37 | [VVS](https://open.spotify.com/track/73KIBzwN3tP4QCrNxp6Yqk) | [Turtle White](https://open.spotify.com/artist/4F5LHjkVnCgcFF4I2W2i1A) | [VVS](https://open.spotify.com/album/1B6aJqd81UUiv26edYifDe) | 3:18 |
+| 38 | [Casino](https://open.spotify.com/track/002iojUpmYteKQ9iZ3nPPg) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [backrooms](https://open.spotify.com/album/0K5wytragV3Cp3Ow02aawS) | 3:18 |
+| 39 | [Kikiri](https://open.spotify.com/track/4v1KFFbjI8PZFVD7KxTiC2) | [Natpena](https://open.spotify.com/artist/7EqO0gG6ohpEjsDQrgOarL) | [Kikiri](https://open.spotify.com/album/5DjNavoQPAzDOs2looZlG4) | 4:27 |
+| 40 | [Lady Di](https://open.spotify.com/track/05FPZIZSQLOZHZ8gWlO4ud) | [Nina Rossell](https://open.spotify.com/artist/76GOZCc1Fa0aXqh4edNsuw) | [Mala](https://open.spotify.com/album/7hhhDSOFOuyV9lKk9FlWDE) | 2:32 |
+| 41 | [L'appétit](https://open.spotify.com/track/1vOprAwZqZLHGt5H9ATza1) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [L'appétit](https://open.spotify.com/album/26PdACHB87VnkxaLEQitT2) | 2:57 |
+| 42 | [Dis\-moi oui](https://open.spotify.com/track/2rD8n0QH7ugRyFPQm9hUrD) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Dis\-moi oui](https://open.spotify.com/album/2Pq8jqWjWB4VwMgcFGfjQp) | 3:27 |
+| 43 | [Mythologie](https://open.spotify.com/track/28np0boOT7svs7oG9RNpxM) | [Eesah Yasuke](https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC) | [Mythologie](https://open.spotify.com/album/1E6limGMwvAC2k1i9hgwKZ) | 2:25 |
+| 44 | [Une Tempête](https://open.spotify.com/track/0WaCGTemkdb1uNDEoo39Az) | [La Pietà](https://open.spotify.com/artist/5P0atd21WQems5FDKnBysF) | [Une Tempête](https://open.spotify.com/album/4u8ptsviIbe84QCowfkGzQ) | 3:56 |
+| 45 | [YMCA](https://open.spotify.com/track/0Xi4HqP1vScctluzHuHBdC) | [Margaux de Fouchier](https://open.spotify.com/artist/1f8f6hYKM3spjGBUB6RkCx) | [Disconova](https://open.spotify.com/album/3zU7kBtBW0yTdOPzkwt9I3) | 4:22 |
+| 46 | [Strip Rock](https://open.spotify.com/track/5GIx58N55cBgBiCku7hGXM) | [Carmen Maria Vega](https://open.spotify.com/artist/4BeUJGT638jeAuAvtm51oE) | [Strip Rock](https://open.spotify.com/album/1QyZXcmu5BY3LV9wky47aZ) | 3:36 |
+| 47 | [Les signes indiens](https://open.spotify.com/track/4Z0H83AIGuK6D2N1mX9rNL) | [Julie Pietri](https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG) | [Origami](https://open.spotify.com/album/0Fo4LhqtZOWLWi3FKPZgjj) | 3:14 |
+| 48 | [Fever](https://open.spotify.com/track/06mMTF6cqtiEptM8FdVhv6) | [Arielle Dombasle](https://open.spotify.com/artist/7I2zgbIGfAd3w1CktlJUbI) | [Fever](https://open.spotify.com/album/5LAT4jfX64Epy05Y3blREP) | 3:40 |
+| 49 | [Mon homme est un gangster \- Extrait du spectacle musical Al Capone](https://open.spotify.com/track/13YIhpbt35twU7artHy6v4) | [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Mon homme est un gangster \(Extrait du spectacle musical Al Capone\)](https://open.spotify.com/album/7s3rPgbWOw58gweDPsVvit) | 2:10 |
 
 Snapshot ID: `MTY1NDA5MDI0OCwwMDAwMDA3ODAwMDAwMTgxMWY3NjMwMjIwMDAwMDE4MTFiZWE3YjUw`

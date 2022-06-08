@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,066 songs - 2 day 5 hr 22 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+1,067 songs - 2 day 5 hr 24 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [Free Gzuz \(Intro\)](https://open.spotify.com/track/6evBGLuvKMxuhXzQKFwnVg) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Grosse Freiheit](https://open.spotify.com/album/2B32xvwpxNlIPwhQGGnT8S) | 1:56 | 2022-01-15 | 2022-01-20 |
 | [FREE SPIRIT](https://open.spotify.com/track/6CQkifO8wGns82gpR9ApFT) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [FREE SPIRIT](https://open.spotify.com/album/5TrD9lmipsHJD1ZyWhxiIb) | 3:14 | 2022-04-16 | 2022-04-19 |
 | [Freigang](https://open.spotify.com/track/6xxZTkecUSkZ15I8B92RYA) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Neue Welt](https://open.spotify.com/album/3CmPlhLJxumv7A2iK5788H) | 2:33 | 2021-06-13 | 2021-06-18 |
-| [FREIHEIT](https://open.spotify.com/track/4nAxLl9fbnEEmYdSOHCQMt) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [FREIHEIT](https://open.spotify.com/album/2mhpnThZV2UFBsHIFxVCob) | 3:30 | 2022-06-04 |  |
+| [FREIHEIT](https://open.spotify.com/track/4nAxLl9fbnEEmYdSOHCQMt) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [FREIHEIT](https://open.spotify.com/album/2mhpnThZV2UFBsHIFxVCob) | 3:30 | 2022-06-04 | 2022-06-08 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27\* | 2022-02-15 |
 | [FRIENDSHIPS](https://open.spotify.com/track/1JkwvWynQN8BqAbKZpmW38) | [Scorpion Gang](https://open.spotify.com/artist/4CD6drviDJ8wccEAZuc9y4), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6) | [FRIENDSHIPS](https://open.spotify.com/album/728q2rTvtwRwwfYbMUK0Oc) | 2:29 | 2021-08-15 | 2021-08-19 |
 | [Friendships \(Lost My Love\)](https://open.spotify.com/track/0lQ2obtzmAsJu9xk3D6FqH) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Friendships \(Lost My Love\)](https://open.spotify.com/album/6AVjuEsz5TVQrOoRGIaicN) | 3:02 | 2021-10-08 | 2022-01-15 |
@@ -573,6 +573,7 @@
 | [LILA](https://open.spotify.com/track/0XXFjHW8325q9sYnYoB38B) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Hell Yes](https://open.spotify.com/artist/3aIp7H1YPzCy4rvdi5Q7ez) | [LILA](https://open.spotify.com/album/6KFLJIo2YU4EmtNm6IseWV) | 2:04 | 2021-06-20 | 2021-06-25 |
 | [Little Bit of Love](https://open.spotify.com/track/3Iba59sFmGhQ4kbCY5L8AX) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Deluxe\)](https://open.spotify.com/album/19ftohYqQetn7BoGQXXlSd) | 3:46 | 2021-06-19 | 2021-06-23 |
 | [Little Freak](https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:22 | 2022-05-21 | 2022-05-27 |
+| [Living Life, In The Night](https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Living Life, In The Night](https://open.spotify.com/album/1YgzO5Y6YxzXoHN2yCZIpD) | 2:02 | 2022-06-07 |  |
 | [Lose Yourself \- From "8 Mile" Soundtrack](https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Just Lose It](https://open.spotify.com/album/1rfORa9iYmocEsnnZGMVC4) | 5:22 | 2022-02-15 | 2022-02-20 |
 | [Lost](https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/6vzH59tobnxE5WXMiqvBIx) | 3:54 | 2022-03-02 | 2022-03-05 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-03-04 | 2022-03-13 |

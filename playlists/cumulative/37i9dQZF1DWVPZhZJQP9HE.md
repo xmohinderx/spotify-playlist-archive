@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : OfRo
 
-98 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+99 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Thanimaiyil Unai Ninaikkiren](https://open.spotify.com/track/1b3F0PVSarXVhhnw4hhf6D) | [Raj Palanivel](https://open.spotify.com/artist/5eHUcMTz8P3Cwodr0oWbFx), [Praniti](https://open.spotify.com/artist/2SrfI49UJd2PEkseov5GSF) | [Thanimaiyil Unai Ninaikkiren](https://open.spotify.com/album/3OuLfxbXvms0Y4OqgAGblN) | 3:51 | 2022-03-28 |  |
 | [Theera Kadhalae](https://open.spotify.com/track/5kumj8SdeOyJCwSN58ntJq) | [Santhosh Balaji](https://open.spotify.com/artist/3DvjtASVI8Czc44WMEn3js), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Theera Kadhalae](https://open.spotify.com/album/3CLpoclGuiQgPE5BKjWi14) | 4:04 | 2022-04-25 |  |
 | [Thelivu](https://open.spotify.com/track/5Sk756XS6iB7qdIeHp7Uzh) | [Suraj Jesudhan](https://open.spotify.com/artist/0a3I7hB89mJQc7nCxavrUr) | [Thelivu](https://open.spotify.com/album/6xNKcKLMuXDLDa6p1vuPaO) | 3:06 | 2022-02-18 |  |
+| [Thikki Thikki \(feat\. Sam Vishal\)](https://open.spotify.com/track/132C9FKUMjowhus183wY21) | [CJL](https://open.spotify.com/artist/3SYJxJLEwUw30kArVkoPUi), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Thikki Thikki \(feat\. Sam Vishal\)](https://open.spotify.com/album/1aBDMrqmVeIk6vofRZNg8g) | 3:24 | 2022-06-07 |  |
 | [Thuppuran](https://open.spotify.com/track/1lydse8hLlKcYXToArzzmy) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Pasan Liyanage](https://open.spotify.com/artist/44fhZpV5IJzoRFiUswUhbi), [Lucky Lakmina](https://open.spotify.com/artist/7og53mhidfE1YT2UuF6fPo), [Abu Karim Ismail](https://open.spotify.com/artist/5DvPlxy2COJhsiUEz37QpD) | [Thuppuran](https://open.spotify.com/album/6QQIosjJ1HGFCLFmMMFicM) | 2:54 | 2022-03-30 |  |
 | [Touch Screen Kadhal](https://open.spotify.com/track/4AU6KiMcQu8tdkqNXYWgMW) | [Naveed Rehman](https://open.spotify.com/artist/7iJepRkB92sBPs7Z8IGpuq), [Edwin Louis Viswanath](https://open.spotify.com/artist/05t6zyU1voo2yoNFSYs7ZJ), [Krithika Konda](https://open.spotify.com/artist/0C6HJwIELlDdJqgDlIqnEp) | [Touch Screen Kadhal](https://open.spotify.com/album/6WXA3fS0VOCohESXYXVoKv) | 3:10 | 2021-12-01 |  |
 | [Un Ninaivugal \- From "In Your Memories"](https://open.spotify.com/track/3ysjboigvFM7UKnDKPlm1D) | [Theeson](https://open.spotify.com/artist/0vmZiK1KvPuLrLgznHL6VC), [A Pa Raja](https://open.spotify.com/artist/0yl8I0igWYBaHNsBHyccqm) | [Un Ninaivugal \(From "In Your Memories"\)](https://open.spotify.com/album/5ke4a8a48giAbmzFJU0oOg) | 4:29 | 2022-06-04 |  |

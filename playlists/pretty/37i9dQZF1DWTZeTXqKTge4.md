@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Lary Kidd
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,332 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,331 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 28 | [Chaque Douille](https://open.spotify.com/track/5VXekSKXEpZZxaSSqVebFB) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Viral Avant La Carrière](https://open.spotify.com/album/42OsuC1KTnlfkSF5KlMgUW) | 2:47 |
 | 29 | [Quand la route est longue \- Radio Edit](https://open.spotify.com/track/5J60TBnpkXpncoXOjDENoV) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Quand la route est longue \(feat\. FouKi\) \[Radio Edit\]](https://open.spotify.com/album/04V5LztQcB3ltQ9BXGJMEY) | 2:54 |
 | 30 | [Je me souviens](https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s) | [Samian](https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6) | [Je me souviens](https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso) | 3:09 |
-| 31 | [Du Pain & des Jeux](https://open.spotify.com/track/5AbazAZJGusnPpnEVFu50g) | [Monk.E](https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Du Pain & des Jeux](https://open.spotify.com/album/75sRAzblfEbQ3Ku31ftSQy) | 3:48 |
+| 31 | [Du Pain & des Jeux](https://open.spotify.com/track/5AbazAZJGusnPpnEVFu50g) | [Monk.E](https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou), [Gyver HYPMAN](https://open.spotify.com/artist/5wgDemi2hSJwrq9KS2s7zT), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Du Pain & des Jeux](https://open.spotify.com/album/75sRAzblfEbQ3Ku31ftSQy) | 3:48 |
 | 32 | [Bad Boy](https://open.spotify.com/track/63Fj5pGKXNSRdj8yw1YxVD) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Resilience](https://open.spotify.com/album/2jX65KhXfrKbwJk8dy6Zcr) | 3:08 |
 | 33 | [Barre Tendre](https://open.spotify.com/track/3T02MLKuLd4GgHZIP7sYug) | [Doug & Jeff](https://open.spotify.com/artist/4emZH10SLlSZFIzVnot3q7) | [Barre Tendre](https://open.spotify.com/album/5MPKKAtsJpjFIFso3z0eof) | 2:56 |
 | 34 | [MICRODOSE](https://open.spotify.com/track/6ccLf6BQBxl863pP57yr3g) | [Whitie](https://open.spotify.com/artist/0i91b2mJ9VCTPDvBEmOTID) | [VITE!](https://open.spotify.com/album/7HsaVeXEfVsB6SAO3Nrcqj) | 2:09 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 67 | [Mal au coeur](https://open.spotify.com/track/4pM6aTuzZvjWAM1rV5aTsn) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Mal au coeur](https://open.spotify.com/album/1a3Wpn0NDPrEoerucPrsg9) | 2:19 |
 | 68 | [Bogotà](https://open.spotify.com/track/2j52PuH3H76JaoNeFEwcp6) | [Mitso](https://open.spotify.com/artist/6K1YP5VKK70aE35zG7t3sV) | [Bogotà](https://open.spotify.com/album/3Tdd4b9OZQd9zw4gGSvMAK) | 3:04 |
 | 69 | [CATCH LACKIN](https://open.spotify.com/track/6fAbhytzLIl2aUc3s1JrxR) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr) | [CATCH LACKIN](https://open.spotify.com/album/2tIMAhiJvYPi61JPOKWWIJ) | 2:47 |
-| 70 | [Blackout](https://open.spotify.com/track/3ZIwVcPDhUfeNX9VajuBmH) | [Dix\-iple Deca](https://open.spotify.com/artist/1V2KK1iPj58TL4WNg9xIj1), [Jamal Jaykob](https://open.spotify.com/artist/49dFhwGy9kgICCmzvRC1mq) | [Blackout](https://open.spotify.com/album/17j1vsdJOV0Si2k5CZftkV) | 3:27 |
+| 70 | [Blackout](https://open.spotify.com/track/3ZIwVcPDhUfeNX9VajuBmH) | [Dix\-Iple Deca](https://open.spotify.com/artist/1V2KK1iPj58TL4WNg9xIj1), [Jamal Jaykob](https://open.spotify.com/artist/49dFhwGy9kgICCmzvRC1mq) | [Blackout](https://open.spotify.com/album/17j1vsdJOV0Si2k5CZftkV) | 3:27 |
 | 71 | [Misunderstood](https://open.spotify.com/track/6uqdKP6QZIlAaVqyZP6krW) | [DARY](https://open.spotify.com/artist/7vfo5uAqkgpHfgTW2LmSPG) | [HAINE MOI](https://open.spotify.com/album/74rD7TMXbDIRygW8MiWbjD) | 3:48 |
 | 72 | [Drop Top](https://open.spotify.com/track/0HaNQlN2fYf5Q8izAuXd3c) | [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Drop Top](https://open.spotify.com/album/7M6P4MXrPUlAkJ9KqLvp8C) | 3:00 |
 | 73 | [Flexin'](https://open.spotify.com/track/6UTJxee5O8Js1U8mGGtCaA) | [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [6illy](https://open.spotify.com/artist/0Aj8bnyYF5prF06ll63cWU) | [Flexin'](https://open.spotify.com/album/77n2ksL1bIExXrYfA7E8AM) | 2:00 |

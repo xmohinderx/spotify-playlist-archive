@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Sara James
 
-471 songs - 1 day 1 hr 51 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+472 songs - 1 day 1 hr 54 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [20 тонн](https://open.spotify.com/track/0nbfAs7GeJIAe6nOxWD1kK) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [LAVA](https://open.spotify.com/album/0vlYUlDZviDnoMTP5ZLp9R) | 1:44 | 2022-01-05 | 2022-02-03 |
 | [365](https://open.spotify.com/track/7j01rdHvXniCA8f1x0NTUG) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [365](https://open.spotify.com/album/66ATAuPBpHYXytPUXzCCwi) | 3:19 | 2021-12-11 | 2022-01-06 |
 | [9 to 5](https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Mahogany St](https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d) | 2:55 | 2022-06-01 |  |
-| [a dream i dream](https://open.spotify.com/track/4tt7M0Km4zaslJMDWrTUsJ) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [sake sake sake](https://open.spotify.com/album/4Tn27R8ceNNdsqSNbDHwiN) | 3:20 | 2022-06-01 | 2022-06-07 |
+| [a dream i dream](https://open.spotify.com/track/4tt7M0Km4zaslJMDWrTUsJ) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [sake sake sake](https://open.spotify.com/album/4Tn27R8ceNNdsqSNbDHwiN) | 3:20 | 2022-06-01 |  |
 | [Adicta al Perreo](https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Adicta al Perreo](https://open.spotify.com/album/6E4zCCVrnmZigYPqJJshdV) | 2:50 | 2022-04-06 | 2022-05-05 |
 | [Adiós Mi Negrito](https://open.spotify.com/track/6MKjQsM77ioTbQ5idx3sLp) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Adiós Mi Negrito](https://open.spotify.com/album/58OYosg2fG9Ykdz68filu1) | 4:25 | 2022-06-01 |  |
 | [African Fever](https://open.spotify.com/track/4AvCMabzghnW8gXLyrGUYu) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB) | [River](https://open.spotify.com/album/7ah9Tdf9Mmyiop59znBjKD) | 3:27 | 2021-12-11 | 2022-01-06 |
@@ -99,6 +99,7 @@
 | [Dilúvio](https://open.spotify.com/track/2munsJnflycsB0jAPgDxaU) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Dilúvio](https://open.spotify.com/album/5NfrKnAY6wBjUdURJAglm7) | 3:41 | 2022-04-06 | 2022-05-05 |
 | [Dime](https://open.spotify.com/track/0wyV7uIeaON89oWBcL0AA6) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Dime](https://open.spotify.com/album/3en3ILNZj2XjDqrljiz1VQ) | 2:48 | 2022-03-08 | 2022-04-07 |
 | [Dime la Verdad](https://open.spotify.com/track/7cQMQQdCE3iz0Tkn6g1ItW) | [Janice](https://open.spotify.com/artist/7htGdWrkFD78VQOKRbCyh8) | [iNSIDE](https://open.spotify.com/album/0dqKr4cWZvqqNo7uebgH3s) | 2:39 | 2022-01-05 | 2022-02-03 |
+| [Dime Porque](https://open.spotify.com/track/6yd5mN94Oi7OOZ4mGA7Co1) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Dime Porque](https://open.spotify.com/album/4F52Ar98sgSN12heKH3e7v) | 3:01 | 2022-06-07 |  |
 | [Disciplina](https://open.spotify.com/track/1zBnnZCmZJWGVkFGz37UFf) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Disciplina](https://open.spotify.com/album/4jHkzHIr9vC2kJ55TojhVl) | 2:37 | 2022-03-08 | 2022-04-07 |
 | [Do You Care ?](https://open.spotify.com/track/0Dbne8cZTmiWLWjubDZA5e) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Do You Care ?](https://open.spotify.com/album/4c0QOiJf5G20AdYka2geO9) | 3:23 | 2022-01-05 | 2022-02-03 |
 | [Dom](https://open.spotify.com/track/2WMyk1wZoYH91f9Wosjmc2) | [VELLOW](https://open.spotify.com/artist/6AgwCEO5e232POV2Ec62cw), [Azymut](https://open.spotify.com/artist/43os6F0hxmWfqVHYfiemf8) | [Starship](https://open.spotify.com/album/5CO1O4rXy4P8l2etkw3n3O) | 5:12 | 2022-04-06 | 2022-05-05 |
@@ -163,7 +164,7 @@
 | [His](https://open.spotify.com/track/6bRwh3cskYWuCfzQzpsqmg) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [His](https://open.spotify.com/album/0L58boxRzxjiyKdYmRrI2t) | 3:49 | 2022-06-01 |  |
 | [Hlavolamy](https://open.spotify.com/track/0mZaxziywLliqJQ0rp6uXG) | [Annet X](https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F) | [Hlavolamy](https://open.spotify.com/album/1i75XX00HoWDAKep3zmzpY) | 2:36 | 2022-01-05 | 2022-02-03 |
 | [Hood bby \(Theme of +81 Connect\)](https://open.spotify.com/track/4k3e5VLYGX2NrAXZZfPDyQ) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Hood bby \(Theme of +81 Connect\)](https://open.spotify.com/album/6Y5o1FWgV2kYo8FTFxLlHh) | 1:21 | 2021-12-11 | 2022-01-06 |
-| [Houwa](https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa](https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0) | 3:31 | 2022-06-01 |  |
+| [Houwa](https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa](https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0) | 3:31 | 2022-06-01 | 2022-06-08 |
 | [How](https://open.spotify.com/track/3ELZoXfv1YZzfm7V4saBmi) | [Wooly and the Uke](https://open.spotify.com/artist/1FykDoCf7IfkRKARKdnNV6), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [How](https://open.spotify.com/album/3JTNuOXSNm8Se4JKUrDpA4) | 2:38 | 2022-03-08 | 2022-04-07 |
 | [Huracán](https://open.spotify.com/track/4qy9nfsqwcRIUCHt61Fms9) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Hay un fuego](https://open.spotify.com/album/63ZcAWqpRxNFHsFfxyE67V) | 4:06 | 2022-05-04 | 2022-06-01 |
 | [Hương \(feat\. Negav\)](https://open.spotify.com/track/6aeU5IH8DB1qHK5jRFTNUv) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [hương](https://open.spotify.com/album/6q946F95PkIqzVIxMQVVdq) | 3:30 | 2021-12-11 | 2022-01-06 |
@@ -203,7 +204,7 @@
 | [La Morena](https://open.spotify.com/track/5yGsnApNZji7tedwFr70f2) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [La Morena](https://open.spotify.com/album/6DAhQlyt2I8twILzPoGgin) | 3:13 | 2022-02-02 | 2022-03-09 |
 | [La Puteria](https://open.spotify.com/track/2WRvcn9pk7bYB0G4mPPwLp) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6), [Tomasa del Real](https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD) | [La Puteria](https://open.spotify.com/album/5gROPnEVSnEv0pYUyaqTI1) | 3:34 | 2021-12-11 | 2022-01-06 |
 | [La Última Vez](https://open.spotify.com/track/4oTbwq0ozVuwnkCuNntRnx) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [La Última Vez](https://open.spotify.com/album/2zWsQaVxgUsCWxMkYsOqv2) | 3:47 | 2021-12-11 | 2022-01-06 |
-| [Lane](https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Lane](https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH) | 2:42 | 2022-06-01 |  |
+| [Lane](https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Lane](https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH) | 2:42 | 2022-06-01 | 2022-06-08 |
 | [Last Night](https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 5:58 | 2022-03-08 | 2022-04-07 |
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-03-08 | 2022-04-07 |
 | [Lazy](https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Tasty](https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo) | 3:53 | 2022-01-05 | 2022-02-03 |

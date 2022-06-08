@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 215560,
       "name": "Abre Tu Corazon",
       "url": "https://open.spotify.com/track/5iTWIAADwgr8kY6TLK4Q7p"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 207226,
       "name": "Amantes Prohibidos",
       "url": "https://open.spotify.com/track/21WYyyjovbDtf8Sa2DSdfZ"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 218160,
       "name": "Amor En Silencio",
       "url": "https://open.spotify.com/track/3CGJHQNEhsAV7AbYSaxU63"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 201053,
       "name": "Corona De L\u00e1grimas",
       "url": "https://open.spotify.com/track/0eRW73GA34w6Pwz2qS2vY6"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 230208,
       "name": "Demasiado Corazon",
       "url": "https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 255680,
       "name": "Dos Mujeres un Camino",
       "url": "https://open.spotify.com/track/4M3IGu3TmSVtpTuhpu5EKw"
@@ -582,6 +582,24 @@
     },
     {
       "album": {
+        "name": "\u00cddolos del Pop",
+        "url": "https://open.spotify.com/album/7IA7OG10gHZxuhYC5s7jsp"
+      },
+      "artists": [
+        {
+          "name": "Daniela Luj\u00e1n",
+          "url": "https://open.spotify.com/artist/1V81ME19fkBcwOD72f6Ags"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227026,
+      "name": "El diario de daniela (Theme from \"El diario de Daniela\")",
+      "url": "https://open.spotify.com/track/3S7vE73KVGb0Vbv2Vv5JOj"
+    },
+    {
+      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -633,7 +651,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 293573,
       "name": "El Rey Tibur\u00f3n",
       "url": "https://open.spotify.com/track/4i8JlTedcMA31X5CanXke0"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 153024,
       "name": "Es por Ti",
       "url": "https://open.spotify.com/track/679CNoT386QI0GJJ8O8XdP"
@@ -835,7 +853,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 197840,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/2xl5JXBEbGrIzDa0RUqlPI"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 182720,
       "name": "Mi Coraz\u00f3n Es Tuyo",
       "url": "https://open.spotify.com/track/1ITcEqIHJwRU1oTBz4M0uE"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 209108,
       "name": "Mi tesoro",
       "url": "https://open.spotify.com/track/0ThQ0DXcsRbEyOsvKVdZWo"
@@ -1103,6 +1121,24 @@
       "duration_ms": 230440,
       "name": "Mundo De Caramelo",
       "url": "https://open.spotify.com/track/2VBGG7IiTHvfE3JfYlUyQk"
+    },
+    {
+      "album": {
+        "name": "Las Mejores Baladas Del Pop",
+        "url": "https://open.spotify.com/album/6wizY9DCZaBrHWhra1EJze"
+      },
+      "artists": [
+        {
+          "name": "Yahir",
+          "url": "https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221453,
+      "name": "M\u00e1rcame la piel",
+      "url": "https://open.spotify.com/track/50WsLCQWvrsJAvAbL09MBt"
     },
     {
       "album": {
@@ -1193,7 +1229,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 171000,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
@@ -1252,6 +1288,24 @@
     },
     {
       "album": {
+        "name": "Jerem\u00edas",
+        "url": "https://open.spotify.com/album/2PHlijdv0EhO91JA8aecxF"
+      },
+      "artists": [
+        {
+          "name": "Jerem\u00edas",
+          "url": "https://open.spotify.com/artist/1QWZE0CuKISG4P68ykP56E"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263173,
+      "name": "Poco A Poco",
+      "url": "https://open.spotify.com/track/6HWeLCWaSBw8T10VbhgqFj"
+    },
+    {
+      "album": {
         "name": "Enrique Iglesias",
         "url": "https://open.spotify.com/album/2NwF2C2Z9sSgePRArAA5cl"
       },
@@ -1299,7 +1353,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 196866,
       "name": "Porque El Amor Manda",
       "url": "https://open.spotify.com/track/0LAFTdzYlNfn19SybYHTZt"
@@ -1317,7 +1371,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 226946,
       "name": "Quiero Volver a Empezar",
       "url": "https://open.spotify.com/track/3Y8oHOk88bvcmmjfdP6wRO"
@@ -1357,6 +1411,24 @@
       "duration_ms": 245866,
       "name": "Qu\u00e9 Voy a Hacer Con Mi Amor",
       "url": "https://open.spotify.com/track/5JpOkusDXbxrcPj1Kd0O2Q"
+    },
+    {
+      "album": {
+        "name": "Sus Grandes Exitos",
+        "url": "https://open.spotify.com/album/6mvDnGqtytj9uASUK0WOmM"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f3nica Castro",
+          "url": "https://open.spotify.com/artist/3kuWrRbgBw1HEMmv61DhRr"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242573,
+      "name": "Rosa Salvaje",
+      "url": "https://open.spotify.com/track/0Fn4K8D7PULFfK2HLKENbJ"
     },
     {
       "album": {
@@ -1559,7 +1631,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 225710,
       "name": "T\u00fa Eres la Raz\u00f3n",
       "url": "https://open.spotify.com/track/7nLv1NM5fhgF7feCOexugV"
@@ -1631,7 +1703,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 248133,
       "name": "Vu\u00e9lveme a Querer",
       "url": "https://open.spotify.com/track/1FsUD70dLqrwQiGD1rIIOw"

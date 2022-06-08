@@ -1,12 +1,12 @@
 {
   "description": "New England music breaking waves. Cover, Bia",
-  "num_followers": 917,
+  "num_followers": 922,
   "original_name": "Ripple Effect: New England",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQ3MzIyNCwwMDAwMDAxYTAwMDAwMTgwYmYxNDVmMDkwMDAwMDE4MDJjM2QzNzg2",
+  "snapshot_id": "MTY1NDYzODk5NSwwMDAwMDAxYjAwMDAwMTgxNDAyYjY5ZWMwMDAwMDE4MDJjM2QzNzg2",
   "tracks": [
     {
       "added_at": "2022-04-15 08:01:02",
@@ -27,6 +27,90 @@
       "duration_ms": 250722,
       "name": "LONDON (feat. J. Cole)",
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
+    },
+    {
+      "added_at": "2022-06-07 21:56:35",
+      "album": {
+        "name": "Demon (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z"
+      },
+      "artists": [
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 122141,
+      "name": "Demon (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG"
+    },
+    {
+      "added_at": "2022-06-07 21:56:35",
+      "album": {
+        "name": "HICCUP",
+        "url": "https://open.spotify.com/album/3qfGUkYziMf2xqIBwVAZcg"
+      },
+      "artists": [
+        {
+          "name": "Kevin George",
+          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
+        }
+      ],
+      "duration_ms": 130854,
+      "name": "HICCUP",
+      "url": "https://open.spotify.com/track/06b05WAkhGpAx4BWbtW2Rc"
+    },
+    {
+      "added_at": "2022-06-07 21:56:35",
+      "album": {
+        "name": "Simplicity",
+        "url": "https://open.spotify.com/album/1P44V2EWQyzp6PHaA2XNzO"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "Simplicity",
+      "url": "https://open.spotify.com/track/3dh3wF8WAbIEdXTIpbisxk"
+    },
+    {
+      "added_at": "2022-04-15 08:01:02",
+      "album": {
+        "name": "ALL FOR NOTHING",
+        "url": "https://open.spotify.com/album/5rFRG1dYVsZSJv2SRITNZS"
+      },
+      "artists": [
+        {
+          "name": "HENNESSY",
+          "url": "https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "ALL FOR NOTHING",
+      "url": "https://open.spotify.com/track/2L9SA0p0eO7eBOwhtYHhMh"
+    },
+    {
+      "added_at": "2022-06-07 21:56:35",
+      "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/22KNnvsj7EtfkGq9VX6ZAL"
+      },
+      "artists": [
+        {
+          "name": "Lily Rayne",
+          "url": "https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa"
+        }
+      ],
+      "duration_ms": 155604,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/2cfEQ2gnBgGH23lrzSyxdR"
     },
     {
       "added_at": "2022-05-13 20:20:24",
@@ -85,6 +169,22 @@
       "url": "https://open.spotify.com/track/3mxEteSWk9MppDJFxCGU2Q"
     },
     {
+      "added_at": "2022-06-07 21:56:35",
+      "album": {
+        "name": "Same CODE",
+        "url": "https://open.spotify.com/album/0XlebgTp0o9q4dVVnJZNuT"
+      },
+      "artists": [
+        {
+          "name": "JuS CODE",
+          "url": "https://open.spotify.com/artist/433OVAzQuqubUN9KFvLTDB"
+        }
+      ],
+      "duration_ms": 202022,
+      "name": "Same CODE",
+      "url": "https://open.spotify.com/track/493iz9QGwkHr49zDzoHMAu"
+    },
+    {
       "added_at": "2022-05-13 20:20:24",
       "album": {
         "name": "Ye Not Crazy",
@@ -99,6 +199,22 @@
       "duration_ms": 226758,
       "name": "Ye Not Crazy",
       "url": "https://open.spotify.com/track/70jjParnrP2X3mOVkoljGE"
+    },
+    {
+      "added_at": "2022-06-07 21:56:35",
+      "album": {
+        "name": "What Else",
+        "url": "https://open.spotify.com/album/7LjebUycGZ0B9GTUS08wEy"
+      },
+      "artists": [
+        {
+          "name": "Don Zio P",
+          "url": "https://open.spotify.com/artist/3RBmwSWiwn0mL9j8dXHKTV"
+        }
+      ],
+      "duration_ms": 172166,
+      "name": "What Else",
+      "url": "https://open.spotify.com/track/6qEgF5pb5JzVewRtTaVUKp"
     },
     {
       "added_at": "2022-04-29 17:40:05",
@@ -157,20 +273,20 @@
       "url": "https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl"
     },
     {
-      "added_at": "2022-04-15 08:01:02",
+      "added_at": "2022-06-07 21:56:35",
       "album": {
-        "name": "ALL FOR NOTHING",
-        "url": "https://open.spotify.com/album/5rFRG1dYVsZSJv2SRITNZS"
+        "name": "DIP",
+        "url": "https://open.spotify.com/album/6amLf3qeUzGHBGA4Pq5HoR"
       },
       "artists": [
         {
-          "name": "HENNESSY",
-          "url": "https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW"
+          "name": "Anoyd",
+          "url": "https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L"
         }
       ],
-      "duration_ms": 230400,
-      "name": "ALL FOR NOTHING",
-      "url": "https://open.spotify.com/track/2L9SA0p0eO7eBOwhtYHhMh"
+      "duration_ms": 195200,
+      "name": "DIP",
+      "url": "https://open.spotify.com/track/6c37o1fgfwyUIhwFu58ics"
     },
     {
       "added_at": "2022-04-29 17:40:05",
@@ -191,6 +307,22 @@
       "duration_ms": 140669,
       "name": "NIGGAS IN DIORCHESTER",
       "url": "https://open.spotify.com/track/0LRDuhmYlMW44HOeZIvwj7"
+    },
+    {
+      "added_at": "2022-06-07 21:56:35",
+      "album": {
+        "name": "SAFE",
+        "url": "https://open.spotify.com/album/704nbCK05rfHpdyPvRKbLi"
+      },
+      "artists": [
+        {
+          "name": "Israel Wusu",
+          "url": "https://open.spotify.com/artist/7v9HwZnQWL9zfACSgDqz3f"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "SAFE",
+      "url": "https://open.spotify.com/track/2YI2Br6DGTPP07iWxilZyX"
     },
     {
       "added_at": "2022-05-13 20:20:24",
@@ -345,26 +477,6 @@
       "url": "https://open.spotify.com/track/3OlEg3GUNv4nzGlffycGcn"
     },
     {
-      "added_at": "2022-04-02 00:02:24",
-      "album": {
-        "name": "BOLD Willow Tree",
-        "url": "https://open.spotify.com/album/693EHFhJzzw7gQt1qnfQMV"
-      },
-      "artists": [
-        {
-          "name": "Meech",
-          "url": "https://open.spotify.com/artist/6QAA99qGQqfOu3U8mlt32g"
-        },
-        {
-          "name": "SAINT LYOR",
-          "url": "https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU"
-        }
-      ],
-      "duration_ms": 216576,
-      "name": "BOLD Willow Tree",
-      "url": "https://open.spotify.com/track/5rPPJNrsX05TaWrvKPusB2"
-    },
-    {
       "added_at": "2022-04-29 17:40:05",
       "album": {
         "name": "Female Pain Muzik",
@@ -379,38 +491,6 @@
       "duration_ms": 155924,
       "name": "Faithfully",
       "url": "https://open.spotify.com/track/0mFDJ1xW5svHkzT67G4S6P"
-    },
-    {
-      "added_at": "2022-02-25 20:35:25",
-      "album": {
-        "name": "Southside",
-        "url": "https://open.spotify.com/album/136E0FzmsWqfjBbiT29CMW"
-      },
-      "artists": [
-        {
-          "name": "Lily Rayne",
-          "url": "https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Southside",
-      "url": "https://open.spotify.com/track/7irMmdmwqEZvsqnepDXJGw"
-    },
-    {
-      "added_at": "2022-04-29 17:40:05",
-      "album": {
-        "name": "Trendsetter",
-        "url": "https://open.spotify.com/album/4TETa6W13oNXdnRNMNsYui"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 142360,
-      "name": "Too Far",
-      "url": "https://open.spotify.com/track/0krEkunYatZZmtrPOOzGNl"
     },
     {
       "added_at": "2022-04-02 00:02:24",
@@ -509,10 +589,10 @@
       "url": "https://open.spotify.com/track/7IE6VIEvNkDEtht3MPur8n"
     },
     {
-      "added_at": "2022-04-29 17:40:05",
+      "added_at": "2022-06-07 21:56:35",
       "album": {
-        "name": "The Remains",
-        "url": "https://open.spotify.com/album/1Wwh53jGxe1bS0AjLrz59e"
+        "name": "The Remains (Stripped)",
+        "url": "https://open.spotify.com/album/5E5YtcnzUuehUs3MZjlZnd"
       },
       "artists": [
         {
@@ -520,9 +600,9 @@
           "url": "https://open.spotify.com/artist/0Sflq5MAqI4tTFfqIOpar3"
         }
       ],
-      "duration_ms": 190714,
-      "name": "The Remains",
-      "url": "https://open.spotify.com/track/5W3jKHlunTMdwzCQz8Gnwo"
+      "duration_ms": 185608,
+      "name": "The Remains (Stripped)",
+      "url": "https://open.spotify.com/track/0A6tma4S2etG8kNinNTkZ2"
     },
     {
       "added_at": "2022-02-18 22:25:03",
@@ -555,22 +635,6 @@
       "duration_ms": 194157,
       "name": "More Than A Little Bit",
       "url": "https://open.spotify.com/track/2haIQVgu4075Yx0QhAJgCQ"
-    },
-    {
-      "added_at": "2022-05-13 20:20:24",
-      "album": {
-        "name": "Lean On Me",
-        "url": "https://open.spotify.com/album/2SQZMmYxqL9t0tSJxUmeeR"
-      },
-      "artists": [
-        {
-          "name": "Krew$",
-          "url": "https://open.spotify.com/artist/2Q2bnfCHdRZfz6jktiJODz"
-        }
-      ],
-      "duration_ms": 122679,
-      "name": "Lean On Me",
-      "url": "https://open.spotify.com/track/25txMNdjx35FRB2bawYzE5"
     },
     {
       "added_at": "2022-02-18 22:25:03",
@@ -629,6 +693,22 @@
       "url": "https://open.spotify.com/track/6iukxcu5Y6aDNlWomndA3u"
     },
     {
+      "added_at": "2022-06-07 21:56:35",
+      "album": {
+        "name": "FOOL:Fruits of Our Labor",
+        "url": "https://open.spotify.com/album/30TLMdZga9iCWddq3CfuoY"
+      },
+      "artists": [
+        {
+          "name": "Deon Chase",
+          "url": "https://open.spotify.com/artist/0cAaXrP84y4CSfmJ5A7oKU"
+        }
+      ],
+      "duration_ms": 180036,
+      "name": "Love Bug",
+      "url": "https://open.spotify.com/track/4SGQeRW2YONcu4N2LNCqhM"
+    },
+    {
       "added_at": "2022-04-15 08:01:02",
       "album": {
         "name": "Dancing With The Devil",
@@ -645,6 +725,22 @@
       "url": "https://open.spotify.com/track/1lmKuhfpjHbnV0JMsmSOBo"
     },
     {
+      "added_at": "2022-06-07 21:56:35",
+      "album": {
+        "name": "R U KIDDING ME ?",
+        "url": "https://open.spotify.com/album/1RKtCtRZzZFIT0XM8fWXVb"
+      },
+      "artists": [
+        {
+          "name": "Craigy F.",
+          "url": "https://open.spotify.com/artist/74gjXz4Kg3qHBlkdAuqtM7"
+        }
+      ],
+      "duration_ms": 138840,
+      "name": "R U KIDDING ME ?",
+      "url": "https://open.spotify.com/track/0bnK1EmCYfcUSRKP13pvGs"
+    },
+    {
       "added_at": "2022-01-29 00:15:56",
       "album": {
         "name": "baby steps",
@@ -659,22 +755,6 @@
       "duration_ms": 149070,
       "name": "pressed",
       "url": "https://open.spotify.com/track/2F1iYQpSIqSkpUKOGmPNXj"
-    },
-    {
-      "added_at": "2022-04-29 17:40:05",
-      "album": {
-        "name": "For Heaven's Sake",
-        "url": "https://open.spotify.com/album/21qdGBAcrRZgZUjkSoiUxv"
-      },
-      "artists": [
-        {
-          "name": "FUNERAL Ant Bell",
-          "url": "https://open.spotify.com/artist/3ZlgGHAHMQ90eoxvW8BZrF"
-        }
-      ],
-      "duration_ms": 169774,
-      "name": "For Heaven's Sake",
-      "url": "https://open.spotify.com/track/4cbfJ9UVMbGWvdqoO3qVir"
     },
     {
       "added_at": "2022-01-29 00:15:56",
@@ -699,38 +779,6 @@
       "duration_ms": 182786,
       "name": "Chez Vous",
       "url": "https://open.spotify.com/track/3IXLux9HHfxT2kogNpCzZm"
-    },
-    {
-      "added_at": "2022-04-02 00:02:24",
-      "album": {
-        "name": "Earthwormz",
-        "url": "https://open.spotify.com/album/7a0qiQYu8B8guJ4wsJgFmx"
-      },
-      "artists": [
-        {
-          "name": "Dutch Rebelle",
-          "url": "https://open.spotify.com/artist/3LZr9u0DEvYt6AJ6bdiDve"
-        }
-      ],
-      "duration_ms": 111281,
-      "name": "Earthwormz",
-      "url": "https://open.spotify.com/track/5oHKxrIaiWnHwf4SQypMum"
-    },
-    {
-      "added_at": "2022-04-29 17:40:05",
-      "album": {
-        "name": "The Rock",
-        "url": "https://open.spotify.com/album/4jUfsuirfga7P3pM0eauSg"
-      },
-      "artists": [
-        {
-          "name": "Anoyd",
-          "url": "https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L"
-        }
-      ],
-      "duration_ms": 134070,
-      "name": "The Rock",
-      "url": "https://open.spotify.com/track/338rI8tKxvlOuRTs1Qapbo"
     },
     {
       "added_at": "2022-01-29 00:15:56",
@@ -813,66 +861,10 @@
       "url": "https://open.spotify.com/track/6AENQ4X75dWj4XzdoimMbQ"
     },
     {
-      "added_at": "2022-05-13 20:20:24",
+      "added_at": "2022-06-07 21:56:35",
       "album": {
-        "name": "The Sensational Sound, Vol. 1",
-        "url": "https://open.spotify.com/album/1igIhdPVFflf708vHXU3ka"
-      },
-      "artists": [
-        {
-          "name": "Frank The Butcher",
-          "url": "https://open.spotify.com/artist/3gq3dCYaPLfkvKi65aVjNv"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Hindsight",
-      "url": "https://open.spotify.com/track/0iT5QofeBagraTU9n40mFf"
-    },
-    {
-      "added_at": "2022-04-29 17:40:05",
-      "album": {
-        "name": "COOL IT NOW",
-        "url": "https://open.spotify.com/album/1WaFNC0dUiJsQNz2EDzw9y"
-      },
-      "artists": [
-        {
-          "name": "WHYTRI",
-          "url": "https://open.spotify.com/artist/4z1mmeq6Dsr43uwzLiTXys"
-        },
-        {
-          "name": "Jon Glass",
-          "url": "https://open.spotify.com/artist/1u2PrmG6RI8ldR2974GdMn"
-        },
-        {
-          "name": "Wombo Combo",
-          "url": "https://open.spotify.com/artist/701KGUzUanjUCuX2I7uSHB"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "COOL IT NOW",
-      "url": "https://open.spotify.com/track/10cSQzz81pvSxs4ZyjI6n4"
-    },
-    {
-      "added_at": "2022-01-29 00:15:56",
-      "album": {
-        "name": "Play Nice",
-        "url": "https://open.spotify.com/album/0wA5idtCvTuu2kH7gzIGwE"
-      },
-      "artists": [
-        {
-          "name": "Craigy F.",
-          "url": "https://open.spotify.com/artist/74gjXz4Kg3qHBlkdAuqtM7"
-        }
-      ],
-      "duration_ms": 182569,
-      "name": "Play Nice",
-      "url": "https://open.spotify.com/track/1mKSm9tWIyoNa3BPe7JVwc"
-    },
-    {
-      "added_at": "2022-04-15 08:01:02",
-      "album": {
-        "name": "How U Feel",
-        "url": "https://open.spotify.com/album/67nowCLsP8OpPl1IE9zDcy"
+        "name": "Slim",
+        "url": "https://open.spotify.com/album/0isUqQR3p0qSVcO4kejjdh"
       },
       "artists": [
         {
@@ -880,9 +872,9 @@
           "url": "https://open.spotify.com/artist/2whc6gja7yTVsL7EqWEQnF"
         }
       ],
-      "duration_ms": 120000,
-      "name": "How U Feel",
-      "url": "https://open.spotify.com/track/1giI6r0Nsrjppnma2uoFiw"
+      "duration_ms": 145822,
+      "name": "Slim",
+      "url": "https://open.spotify.com/track/3CLYermBjfGLEGBC9vg4aO"
     },
     {
       "added_at": "2022-05-13 20:20:24",

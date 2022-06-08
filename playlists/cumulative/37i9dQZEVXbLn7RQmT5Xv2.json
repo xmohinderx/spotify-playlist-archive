@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 192000,
       "name": "7een Maysara (Molowave)",
       "url": "https://open.spotify.com/track/3lp7tZy3eHmm7GVAzVY82W"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 267610,
       "name": "Ana Ghaltan",
       "url": "https://open.spotify.com/track/7I2GzEUE2hADoq9uuAvYh7"
@@ -2287,7 +2287,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 218000,
       "name": "Free",
       "url": "https://open.spotify.com/track/6vRHVF61iN8TnMdoFBoE8f"
@@ -4022,6 +4022,24 @@
     },
     {
       "album": {
+        "name": "Meen Kan Sabab",
+        "url": "https://open.spotify.com/album/5GfHGQ6L6QN4PEL3pwtAPK"
+      },
+      "artists": [
+        {
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268500,
+      "name": "Meen Kan Sabab",
+      "url": "https://open.spotify.com/track/5v9jwJsiS768F1YgNtUg1W"
+    },
+    {
+      "album": {
         "name": "Ya Fatenny",
         "url": "https://open.spotify.com/album/3PiLAHM8hDtVxWkwg1LStr"
       },
@@ -5722,6 +5740,28 @@
     },
     {
       "album": {
+        "name": "Sonseyat",
+        "url": "https://open.spotify.com/album/5tkqvkC0bmgC6qm1L46HpL"
+      },
+      "artists": [
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        },
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161541,
+      "name": "Stop - Magnolia",
+      "url": "https://open.spotify.com/track/641KAqGlHS7CH0wCrhh0Ir"
+    },
+    {
+      "album": {
         "name": "STR3",
         "url": "https://open.spotify.com/album/6LSlkHgM2GkAtNNHJo16kx"
       },
@@ -6475,7 +6515,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 188630,
       "name": "\u0623\u0633\u064a\u0627\u062f \u0627\u0644\u0635\u0648\u062a",
       "url": "https://open.spotify.com/track/2xID4PetWGYUl2JtQWBlcq"

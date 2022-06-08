@@ -1,29 +1,13 @@
 {
-  "description": "Exciting artists on the RADAR from the Benelux and beyond. Cover: MEAU",
-  "num_followers": 4022,
+  "description": "Exciting artists on the RADAR from the Benelux and beyond. Cover: Antoon",
+  "num_followers": 4027,
   "original_name": "RADAR BNLX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDUzOTcxNSwwMDAwMDA0NDAwMDAwMTgxM2E0MDgzNzYwMDAwMDE4MGUxNWEzNWEz",
+  "snapshot_id": "MTY1NDYwMTIwMCwwMDAwMDA0NTAwMDAwMTgxM2RlYWI0MzAwMDAwMDE4MTNkZWE3YWFm",
   "tracks": [
-    {
-      "added_at": "2022-06-06 18:21:55",
-      "album": {
-        "name": "Tegen De Klippen Op",
-        "url": "https://open.spotify.com/album/5GlSAiTCsD7DF8OUSN34tE"
-      },
-      "artists": [
-        {
-          "name": "MEAU",
-          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
-        }
-      ],
-      "duration_ms": 170862,
-      "name": "Tegen De Klippen Op",
-      "url": "https://open.spotify.com/track/4mfJi6sHY0LjLARpYSLel3"
-    },
     {
       "added_at": "2022-06-06 18:21:55",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 147562,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/5Hit62TgQpCUwIdsU3KV14"
+    },
+    {
+      "added_at": "2022-06-06 18:21:55",
+      "album": {
+        "name": "Tegen De Klippen Op",
+        "url": "https://open.spotify.com/album/5GlSAiTCsD7DF8OUSN34tE"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "duration_ms": 170862,
+      "name": "Tegen De Klippen Op",
+      "url": "https://open.spotify.com/track/4mfJi6sHY0LjLARpYSLel3"
     },
     {
       "added_at": "2022-06-06 18:21:55",

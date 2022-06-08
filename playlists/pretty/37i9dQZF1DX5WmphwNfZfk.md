@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Bibi Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,034 likes - 98 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,035 likes - 98 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 97 | [Home Town Home](https://open.spotify.com/track/6wdtOFPTqIq09mhBPX3Ow7) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Home Town Home](https://open.spotify.com/album/3EuVNi6iLIpvRCpeUtyAjf) | 2:57 |
 | 98 | [Supermonkeyball](https://open.spotify.com/track/2q6tE7DuOXOA1770rU8whn) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA) | [Supermonkeyball](https://open.spotify.com/album/39PXCIY1r6XFg6ia4DTdU3) | 3:48 |
 
-Snapshot ID: `MTY1NDU2Mzc3OCwwMDAwMDAwMDRmMzk5ZDkzMzkwMmQ0MTRhODQwYjA3YWYzNmZkODRj`
+Snapshot ID: `MTY1NDY2ODM5OSwwMDAwMDAwMDRmMzk5ZDkzMzkwMmQ0MTRhODQwYjA3YWYzNmZkODRj`

@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: Wegz
 
-101 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
+102 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Cartable](https://open.spotify.com/track/0L1amLwBWnkKWJsNrOC2Y2) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Têtu \(Deluxe Version\)](https://open.spotify.com/album/57LaqfE51kDdWhhWtjfn71) | 3:12 | 2022-05-08 |  |
 | [Crystal](https://open.spotify.com/track/2xmuGjiqJELjA9H5kyDHbx) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 2:26 | 2022-05-08 |  |
 | [CTRL](https://open.spotify.com/track/2lj1RNDztkIsyzhAX2soEa) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 3:05 | 2022-05-08 |  |
+| [Dawly](https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z) | [Dawly](https://open.spotify.com/album/0Zksp8Cnz9HnEuLvGDmzGy) | 3:16 | 2022-06-07 |  |
 | [DaY5a](https://open.spotify.com/track/05V7RavGedViEzzD4moNwK) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [DaY5a](https://open.spotify.com/album/4eU2GHuR6RmM0zTCWyKh94) | 2:57 | 2022-05-08 |  |
 | [Denameet](https://open.spotify.com/track/6RfP0PVBd4nNmMxwjG2R7o) | [Alyoungofficial](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C) | [Denameet](https://open.spotify.com/album/4k8mmGAjYm1eu9GRBrorSU) | 3:32 | 2022-05-08 |  |
 | [Ech Mazel \- Khrafa](https://open.spotify.com/track/1XiL9Lp1p9WfIAzuNR1uWD) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Ech Mazel \(Khrafa\)](https://open.spotify.com/album/33phU9MxhOINJYSGYHyEpK) | 4:41 | 2022-05-08 |  |

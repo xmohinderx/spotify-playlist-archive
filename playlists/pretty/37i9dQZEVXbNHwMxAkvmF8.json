@@ -1,15 +1,83 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "num_followers": 66579,
+  "num_followers": 66597,
   "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA3ODI3OTAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA3OTE4ODc3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
+      "album": {
+        "name": "Idegen, Vol. 1.",
+        "url": "https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 187752,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/1b0xEPOnt9B9EmFUUDsmPj"
+    },
+    {
+      "added_at": "2022-06-07 12:07:57",
+      "album": {
+        "name": "Idegen, Vol. 1.",
+        "url": "https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 216258,
+      "name": "Terapeuta",
+      "url": "https://open.spotify.com/track/6YW9qgEJrkr3eGXYcZ8uXC"
+    },
+    {
+      "added_at": "2022-06-07 12:07:57",
+      "album": {
+        "name": "Idegen, Vol. 1.",
+        "url": "https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "M Ricch",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "Fiatal \u00e9s \u0151r\u00fclt",
+      "url": "https://open.spotify.com/track/1iRwcHRaEGQdkZDyVsQM1h"
+    },
+    {
+      "added_at": "2022-06-07 12:07:57",
+      "album": {
+        "name": "Idegen, Vol. 1.",
+        "url": "https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 152817,
+      "name": "Sajn\u00e1lom",
+      "url": "https://open.spotify.com/track/5FPk6JYK0tYzEWtqYgUvrA"
+    },
+    {
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "BAZ+ (T\u00fal vagyok rajtad)",
         "url": "https://open.spotify.com/album/0ISupiy3v5iiVsLvir8d4n"
@@ -29,23 +97,7 @@
       "url": "https://open.spotify.com/track/6ofxXXTKk1UyRj9YkkWh3u"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
-      "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 249672,
-      "name": "Okari",
-      "url": "https://open.spotify.com/track/0qYWBLuP1HyzJv8WNsochH"
-    },
-    {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -65,27 +117,59 @@
       "url": "https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
-        "name": "\u00daristen",
-        "url": "https://open.spotify.com/album/46mziAX3Fo8VOYp7YRW5OU"
+        "name": "Idegen, Vol. 1.",
+        "url": "https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk"
       },
       "artists": [
         {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         },
         {
-          "name": "Szikora R\u00f3bert",
-          "url": "https://open.spotify.com/artist/2ikl2m7BATuFm44VMPLeaE"
+          "name": "Darius King",
+          "url": "https://open.spotify.com/artist/4qMmVFXwge2N4iQJyU6yb1"
         }
       ],
-      "duration_ms": 194629,
-      "name": "\u00daristen",
-      "url": "https://open.spotify.com/track/2ECeeSi1ImwowkGOdAVI6w"
+      "duration_ms": 193251,
+      "name": "Zombi - Pt.2",
+      "url": "https://open.spotify.com/track/40CEufN1AE9J2sb6fH5HPO"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
+      "album": {
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 249672,
+      "name": "Okari",
+      "url": "https://open.spotify.com/track/0qYWBLuP1HyzJv8WNsochH"
+    },
+    {
+      "added_at": "2022-06-07 12:07:57",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -105,23 +189,27 @@
       "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+        "name": "\u00daristen",
+        "url": "https://open.spotify.com/album/46mziAX3Fo8VOYp7YRW5OU"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        },
+        {
+          "name": "Szikora R\u00f3bert",
+          "url": "https://open.spotify.com/artist/2ikl2m7BATuFm44VMPLeaE"
         }
       ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+      "duration_ms": 194629,
+      "name": "\u00daristen",
+      "url": "https://open.spotify.com/track/2ECeeSi1ImwowkGOdAVI6w"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "Aha-Aha",
         "url": "https://open.spotify.com/album/70x4V15158Bk5OE6iTtS6U"
@@ -137,7 +225,7 @@
       "url": "https://open.spotify.com/track/2YmkWevzHTiEyvgjdTKB3r"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -153,47 +241,7 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
-      "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 180749,
-      "name": "Tiszt\u00e1n iszom",
-      "url": "https://open.spotify.com/track/1K17dNOOtcoC1gLcAbccPp"
-    },
-    {
-      "added_at": "2022-06-06 10:51:40",
-      "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 191538,
-      "name": "Mind1",
-      "url": "https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM"
-    },
-    {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "\u00c9get a nap",
         "url": "https://open.spotify.com/album/2g6EW3GB1zeDuGVs5TJGX4"
@@ -213,7 +261,63 @@
       "url": "https://open.spotify.com/track/63p0noYOc50p5KRUfJyukt"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
+      "album": {
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 180749,
+      "name": "Tiszt\u00e1n iszom",
+      "url": "https://open.spotify.com/track/1K17dNOOtcoC1gLcAbccPp"
+    },
+    {
+      "added_at": "2022-06-07 12:07:57",
+      "album": {
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 191538,
+      "name": "Mind1",
+      "url": "https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM"
+    },
+    {
+      "added_at": "2022-06-07 12:07:57",
+      "album": {
+        "name": "Mi\u00f3ta elhagyt\u00e1l (Nem vagyok \u00e1lmos)",
+        "url": "https://open.spotify.com/album/0qzqC2pHopiWRYPIKP34MI"
+      },
+      "artists": [
+        {
+          "name": "Bsw",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Mi\u00f3ta elhagyt\u00e1l - Nem vagyok \u00e1lmos",
+      "url": "https://open.spotify.com/track/0cUfErGDquYKSOJ6q15Vul"
+    },
+    {
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -233,7 +337,7 @@
       "url": "https://open.spotify.com/track/38U5WKJpBQncqAss18dLrO"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -253,7 +357,7 @@
       "url": "https://open.spotify.com/track/3Mls3f2j9xGRqRRsoKA0Ef"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -269,23 +373,23 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
-        "name": "Mi\u00f3ta elhagyt\u00e1l (Nem vagyok \u00e1lmos)",
-        "url": "https://open.spotify.com/album/0qzqC2pHopiWRYPIKP34MI"
+        "name": "Zombi",
+        "url": "https://open.spotify.com/album/7Lv9fN83OQiv7Zyb77x6wk"
       },
       "artists": [
         {
-          "name": "Bsw",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Mi\u00f3ta elhagyt\u00e1l - Nem vagyok \u00e1lmos",
-      "url": "https://open.spotify.com/track/0cUfErGDquYKSOJ6q15Vul"
+      "duration_ms": 191411,
+      "name": "Zombi",
+      "url": "https://open.spotify.com/track/5WthbIy7Qp7HmGYGRCZ43z"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -305,23 +409,7 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
-      "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
-    },
-    {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -341,7 +429,23 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -361,7 +465,43 @@
       "url": "https://open.spotify.com/track/4QVAQwgq6JB7DNk1MG8EAG"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
+      "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "added_at": "2022-06-07 12:07:57",
+      "album": {
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 138971,
+      "name": "tevagyazal\u00e1ny",
+      "url": "https://open.spotify.com/track/4YU0ptDWe7qvqFjNKNPUjG"
+    },
+    {
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -385,43 +525,23 @@
       "url": "https://open.spotify.com/track/7k50YH3s8FqrBMRPm6DtJN"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+        "name": "Digit\u00e1lis/Anal\u00f3g",
+        "url": "https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
         }
       ],
-      "duration_ms": 138971,
-      "name": "tevagyazal\u00e1ny",
-      "url": "https://open.spotify.com/track/4YU0ptDWe7qvqFjNKNPUjG"
+      "duration_ms": 200813,
+      "name": "Immuniss\u00e1 v\u00e1lunk",
+      "url": "https://open.spotify.com/track/2UB8LkhAtBgL9cCxKY2qwi"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
-      "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
-    },
-    {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
@@ -449,39 +569,7 @@
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
-      "album": {
-        "name": "Digit\u00e1lis/Anal\u00f3g",
-        "url": "https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA"
-      },
-      "artists": [
-        {
-          "name": "Carson Coma",
-          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "Immuniss\u00e1 v\u00e1lunk",
-      "url": "https://open.spotify.com/track/2UB8LkhAtBgL9cCxKY2qwi"
-    },
-    {
-      "added_at": "2022-06-06 10:51:40",
-      "album": {
-        "name": "Zombi",
-        "url": "https://open.spotify.com/album/7Lv9fN83OQiv7Zyb77x6wk"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 191411,
-      "name": "Zombi",
-      "url": "https://open.spotify.com/track/5WthbIy7Qp7HmGYGRCZ43z"
-    },
-    {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
@@ -497,7 +585,7 @@
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "Death of a Bachelor",
         "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
@@ -513,7 +601,43 @@
       "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
+      "album": {
+        "name": "Kuk\u00e1saut\u00f3",
+        "url": "https://open.spotify.com/album/0dWFWOCIiKkaDmjMrF09sq"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 195697,
+      "name": "Kuk\u00e1saut\u00f3",
+      "url": "https://open.spotify.com/track/0D6Aewbxit6kZYncgVohxU"
+    },
+    {
+      "added_at": "2022-06-07 12:07:57",
+      "album": {
+        "name": "Rossz est\u00e9k",
+        "url": "https://open.spotify.com/album/6KG8xtkCbi3uTb5INTqbmu"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        },
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 204285,
+      "name": "Rossz est\u00e9k",
+      "url": "https://open.spotify.com/track/3Xourl4xRz7cfHMznl0PlR"
+    },
+    {
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "WOAH",
         "url": "https://open.spotify.com/album/0kjuJOB6qYCXt7UxUX4ze3"
@@ -529,7 +653,23 @@
       "url": "https://open.spotify.com/track/1dgiE7iJxB1KibWdlURUfz"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
@@ -553,95 +693,23 @@
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
-        "name": "Kuk\u00e1saut\u00f3",
-        "url": "https://open.spotify.com/album/0dWFWOCIiKkaDmjMrF09sq"
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
       "artists": [
         {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 195697,
-      "name": "Kuk\u00e1saut\u00f3",
-      "url": "https://open.spotify.com/track/0D6Aewbxit6kZYncgVohxU"
+      "duration_ms": 236413,
+      "name": "Don\u2019t Blame Me",
+      "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2022-06-06 10:51:40",
-      "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
-    },
-    {
-      "added_at": "2022-06-06 10:51:40",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
-    },
-    {
-      "added_at": "2022-06-06 10:51:40",
-      "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Megment\u0151",
-      "url": "https://open.spotify.com/track/3gJgPxfGZ563BKUxb1xL63"
-    },
-    {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "\u00c1lmatlan est\u00e9k",
         "url": "https://open.spotify.com/album/7N0Ft1YrxAf52HZXfrdgho"
@@ -665,23 +733,43 @@
       "url": "https://open.spotify.com/track/3JEYn4Ewai3sGkJl01v9Of"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
-        "name": "Egyed\u00fcl (Megb*sztam ezt a kis g\u00e1dzsit)",
-        "url": "https://open.spotify.com/album/2MWWqs5R9FC90KM60BJjoj"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
       "artists": [
         {
-          "name": "Bsw",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 209400,
-      "name": "Egyed\u00fcl - Megb*sztam ezt a kis g\u00e1dzsit",
-      "url": "https://open.spotify.com/track/7iH7aaTtLCZ9OdFkGAv7MB"
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
+      "album": {
+        "name": "F*CK LOVE 3: OVER YOU",
+        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "Costa Rica",
         "url": "https://open.spotify.com/album/4ywSu0JCtzQD1IpXZn2eQf"
@@ -697,23 +785,7 @@
       "url": "https://open.spotify.com/track/3q8b8Rn1UB0bG9QG2yBgIQ"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Don\u2019t Blame Me",
-      "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
-    },
-    {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
@@ -733,23 +805,7 @@
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
-      "album": {
-        "name": "Rampampam",
-        "url": "https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj"
-      },
-      "artists": [
-        {
-          "name": "Minelli",
-          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
-        }
-      ],
-      "duration_ms": 200211,
-      "name": "Rampampam",
-      "url": "https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3"
-    },
-    {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
@@ -765,26 +821,10 @@
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2022-06-06 10:51:40",
-      "album": {
-        "name": "R\u00c9T",
-        "url": "https://open.spotify.com/album/2a9vtUOCvapcSy7dWrWfij"
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
       },
       "artists": [
         {
@@ -793,31 +833,31 @@
         },
         {
           "name": "DESH",
-          "url": "https://open.spotify.com/artist/5NydObjtRsTiElOzm5vmgs"
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
         }
       ],
-      "duration_ms": 190975,
-      "name": "R\u00c9T",
-      "url": "https://open.spotify.com/track/7EQq2RCCbFOR7XnN5J1vTv"
+      "duration_ms": 174000,
+      "name": "Megment\u0151",
+      "url": "https://open.spotify.com/track/3gJgPxfGZ563BKUxb1xL63"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+        "name": "2021",
+        "url": "https://open.spotify.com/album/4Ntxs5oZf821o1LnBVfrDf"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Kolg8eight",
+          "url": "https://open.spotify.com/artist/4aXeIRAbV0aEn0NZVImnqO"
         }
       ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+      "duration_ms": 164475,
+      "name": "2021",
+      "url": "https://open.spotify.com/track/3ANOQpQLmv4xAyxLSOk9HC"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
@@ -837,92 +877,56 @@
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
-        "name": "2021",
-        "url": "https://open.spotify.com/album/4Ntxs5oZf821o1LnBVfrDf"
+        "name": "Egyed\u00fcl (Megb*sztam ezt a kis g\u00e1dzsit)",
+        "url": "https://open.spotify.com/album/2MWWqs5R9FC90KM60BJjoj"
       },
       "artists": [
         {
-          "name": "Kolg8eight",
-          "url": "https://open.spotify.com/artist/4aXeIRAbV0aEn0NZVImnqO"
+          "name": "Bsw",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
         }
       ],
-      "duration_ms": 164475,
-      "name": "2021",
-      "url": "https://open.spotify.com/track/3ANOQpQLmv4xAyxLSOk9HC"
+      "duration_ms": 209400,
+      "name": "Egyed\u00fcl - Megb*sztam ezt a kis g\u00e1dzsit",
+      "url": "https://open.spotify.com/track/7iH7aaTtLCZ9OdFkGAv7MB"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
-      "added_at": "2022-06-06 10:51:40",
+      "added_at": "2022-06-07 12:07:57",
       "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+        "name": "R\u00c9T",
+        "url": "https://open.spotify.com/album/2a9vtUOCvapcSy7dWrWfij"
       },
       "artists": [
         {
           "name": "Azahriah",
           "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 128873,
-      "name": "Dopamin - Bonus track",
-      "url": "https://open.spotify.com/track/2CojUpxxHPbUL6oelS5hcg"
-    },
-    {
-      "added_at": "2022-06-06 10:51:40",
-      "album": {
-        "name": "Fotof\u00f3bia",
-        "url": "https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
         },
         {
-          "name": "Lil Frakk",
-          "url": "https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev"
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/5NydObjtRsTiElOzm5vmgs"
         }
       ],
-      "duration_ms": 168800,
-      "name": "Lej",
-      "url": "https://open.spotify.com/track/3sUOONjFxjepoSXvKYrz5E"
-    },
-    {
-      "added_at": "2022-06-06 10:51:40",
-      "album": {
-        "name": "Hullik",
-        "url": "https://open.spotify.com/album/4PEbsLojFXnWSG9HEva5MM"
-      },
-      "artists": [
-        {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
-        },
-        {
-          "name": "Hiro",
-          "url": "https://open.spotify.com/artist/06cYK1x1ocLh6MzR6MUOuB"
-        }
-      ],
-      "duration_ms": 213913,
-      "name": "Hullik",
-      "url": "https://open.spotify.com/track/2PHgjJwswIHOhXexoizfT0"
+      "duration_ms": 190975,
+      "name": "R\u00c9T",
+      "url": "https://open.spotify.com/track/7EQq2RCCbFOR7XnN5J1vTv"
     }
   ],
   "unique_name": "Top 50 - Hungary",

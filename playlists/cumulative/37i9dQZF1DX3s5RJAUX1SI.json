@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 193674,
       "name": "Adio\u0301s Amor",
       "url": "https://open.spotify.com/track/2kA8HXXFHGu9Ml8TYrK2sx"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 204408,
       "name": "Adi\u00f3s amor",
       "url": "https://open.spotify.com/track/0SmuhjrqMSEOXc6NGjAeh3"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 158996,
       "name": "Con Tus Besos",
       "url": "https://open.spotify.com/track/6cV5ZLSn6boxiNG2ZQAzB9"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 202840,
       "name": "Corazon de Acero (Version Pop)",
       "url": "https://open.spotify.com/track/5aqKcpgiCe4pTxE5LoUAG6"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 249000,
       "name": "Duele",
       "url": "https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 156750,
       "name": "Me La Avente",
       "url": "https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 219178,
       "name": "Mi Piel No Te Olvida",
       "url": "https://open.spotify.com/track/1EUn3B0k9TCDAjxmeu4MYo"
@@ -1357,7 +1357,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 248106,
       "name": "Para Impresionarte",
       "url": "https://open.spotify.com/track/4XXN580NHgivSZVsoltize"
@@ -1415,7 +1415,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 236250,
       "name": "Por Tu Maldito Amor",
       "url": "https://open.spotify.com/track/4NVnCLyMVCOBgCcB2LzZrR"
@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 234923,
       "name": "Porqu\u00e9 La Enga\u00f1\u00e9 (Vers. Ac\u00fastica)",
       "url": "https://open.spotify.com/track/5mBctHoujGRMCnIjVODwLE"
@@ -1705,7 +1705,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 231633,
       "name": "Si Tu Amor No Vuelve",
       "url": "https://open.spotify.com/track/5kmVb41juCytQvRfoYkdsP"
@@ -2019,7 +2019,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 214176,
       "name": "Te Quise Olvidar",
       "url": "https://open.spotify.com/track/2JJvRBxvvaQtXZt4Rj4duM"
@@ -2109,7 +2109,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 194386,
       "name": "Tus Latidos - Spotify Sessions",
       "url": "https://open.spotify.com/track/3JLdioihOtbPZ0MEORQBV7"
@@ -2167,6 +2167,24 @@
       "duration_ms": 251294,
       "name": "Un Rinconcito En El Cielo",
       "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
+    },
+    {
+      "album": {
+        "name": "Mexillennials Ac\u00fastico",
+        "url": "https://open.spotify.com/album/7yEgNmBPetP33e5Voqa32N"
+      },
+      "artists": [
+        {
+          "name": "Cristian Jacobo",
+          "url": "https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257066,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/7Jk0meNiyyaeNvJLERvFSr"
     },
     {
       "album": {

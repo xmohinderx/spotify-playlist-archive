@@ -7294,6 +7294,24 @@
     },
     {
       "album": {
+        "name": "Owe You",
+        "url": "https://open.spotify.com/album/2s8ZMiw07tVOg4qLS7iXgR"
+      },
+      "artists": [
+        {
+          "name": "Annie Bass",
+          "url": "https://open.spotify.com/artist/7jt6O4aHVS6GCoBHmPOR0V"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192596,
+      "name": "Owe You",
+      "url": "https://open.spotify.com/track/5qK7CtN5w415aLjYuHAVI3"
+    },
+    {
+      "album": {
         "name": "Papa",
         "url": "https://open.spotify.com/album/7dO06LYaMRK6i0K3eQ9HmW"
       },

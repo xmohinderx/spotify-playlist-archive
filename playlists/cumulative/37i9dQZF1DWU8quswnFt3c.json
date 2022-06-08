@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 200480,
       "name": "a dream i dream",
       "url": "https://open.spotify.com/track/4tt7M0Km4zaslJMDWrTUsJ"
@@ -1738,6 +1738,24 @@
     },
     {
       "album": {
+        "name": "Dime Porque",
+        "url": "https://open.spotify.com/album/4F52Ar98sgSN12heKH3e7v"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181176,
+      "name": "Dime Porque",
+      "url": "https://open.spotify.com/track/6yd5mN94Oi7OOZ4mGA7Co1"
+    },
+    {
+      "album": {
         "name": "Disciplina",
         "url": "https://open.spotify.com/album/4jHkzHIr9vC2kJ55TojhVl"
       },
@@ -2957,7 +2975,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 211891,
       "name": "Houwa",
       "url": "https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk"
@@ -3729,7 +3747,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 162462,
       "name": "Lane",
       "url": "https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG"

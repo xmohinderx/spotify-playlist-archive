@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 ### [Disney Hits](https://open.spotify.com/playlist/37i9dQZF1DX8C9xQcOrE6T)
 
-> All of your favorite Disney hits, including songs from Encanto\. Stream Disney's Encanto on Disney+.
+> All of your favorite Disney hits, including songs from Turning Red\. Stream Disney and Pixar's Turning Red on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,352,015 likes - 110 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,354,510 likes - 110 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 | 109 | [Zero](https://open.spotify.com/track/4Bi2qsF5AWin93USPh5fQK) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Ralph Breaks the Internet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4YWNDk8pwKyWE9PhjCTiJG) | 3:32 |
 | 110 | [A Spoonful of Sugar \- From "Mary Poppins" / Soundtrack Version](https://open.spotify.com/track/29bQPrp6BT0w3kaXTqIo8A) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [Mary Poppins](https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d) | 4:09 |
 
-Snapshot ID: `MTY1MzU5NzAzNywwMDAwMDA1MzAwMDAwMTgxMDIxMDYzNWIwMDAwMDE3ZDJlYzg2YTdi`
+Snapshot ID: `MTY1NDYxMTc3NiwwMDAwMDA1NDAwMDAwMTgxM2U4YzEyYzAwMDAwMDE4MTNlOGFjYjlk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIrropGBmnR.md) - [plain]
 
 > Calm and soothing strings for sleeping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,122 likes - 77 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,138 likes - 77 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Hits de Internet](https://open.spotify.com/playlist/37i9dQZF1DX4KeocBrdbJg)
 
-> Pendiente al cel, pendiente a ti 🤙🎵
+> Be running up that road, be running up that hill, be running up that building 🌌 🎵 ✨
 
 113 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/4mSbOXa4eJQwXzHtWqAtSr)
 

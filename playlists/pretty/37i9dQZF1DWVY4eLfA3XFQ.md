@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring SIDEPIECE & Lee Foss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,875 likes - 120 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,082 likes - 120 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

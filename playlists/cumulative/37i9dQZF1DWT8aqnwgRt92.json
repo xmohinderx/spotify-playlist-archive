@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 219360,
       "name": "Blaze",
       "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 217626,
       "name": "Dried Up Youthful Fame - Version:Free",
       "url": "https://open.spotify.com/track/1p4caO5oJVVFjwtpuQep7N"
@@ -590,6 +590,42 @@
     },
     {
       "album": {
+        "name": "SHINOBI TOP SECRET",
+        "url": "https://open.spotify.com/album/2BErghmne06N5sK33vJUno"
+      },
+      "artists": [
+        {
+          "name": "Wienners",
+          "url": "https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227413,
+      "name": "SHINOBI TOP SECRET",
+      "url": "https://open.spotify.com/track/2JZBHfOcqoeUuY0d5mJX7h"
+    },
+    {
+      "album": {
+        "name": "Take a chance",
+        "url": "https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m"
+      },
+      "artists": [
+        {
+          "name": "illiomote",
+          "url": "https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Take a chance",
+      "url": "https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/3eTggf0BQGCCjSKTPehaHD"
       },
@@ -605,6 +641,24 @@
       "duration_ms": 236000,
       "name": "TBD",
       "url": "https://open.spotify.com/track/6t4HZstA6tlgXyhTwcry6R"
+    },
+    {
+      "album": {
+        "name": "Venus Line",
+        "url": "https://open.spotify.com/album/1mJo7rsbEzsFGIeVzuume4"
+      },
+      "artists": [
+        {
+          "name": "Kohmi Hirose",
+          "url": "https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277399,
+      "name": "Venus Line",
+      "url": "https://open.spotify.com/track/5OPIulr7qagiGtCthBkqxr"
     },
     {
       "album": {
@@ -875,7 +929,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 212586,
       "name": "\u30de\u30ed\u30a6\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/0qyQE3IUfeD38NkY2g6A6j"

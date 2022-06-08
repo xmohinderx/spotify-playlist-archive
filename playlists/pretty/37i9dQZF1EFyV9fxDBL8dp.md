@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0u9RuqKKPbET4zVEgRTXiZ">Luiz de Assis</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 151 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 18 | [Bom Amigo](https://open.spotify.com/track/0MY2maHNW1bTTRZrD75qYr) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 3:27 |
 | 19 | [Feel The Vibes](https://open.spotify.com/track/3m2QnDXrOSPc0HTUYAAwwR) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Spiritual](https://open.spotify.com/artist/3iLfHHQQYFPgsT3XE58LbJ) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:37 |
 | 20 | [Portal Divino](https://open.spotify.com/track/3op7K5KIqRHn414qISieDb) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 5:59 |
-| 21 | [Get Together](https://open.spotify.com/track/0ozDCUAUDVUGX9iNrgcb3Z) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Adão Negro](https://open.spotify.com/artist/4lH76hEdSMHe60KOmDbUq3) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:35 |
-| 22 | [Levanta Sua Cabeça](https://open.spotify.com/track/1ixin8ZxtSD8mXaOSxBEDH) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Levanta Sua Cabeça](https://open.spotify.com/album/0kHiC8Iu34JhXoVcH79Ysl) | 3:00 |
+| 21 | [Levanta Sua Cabeça](https://open.spotify.com/track/1ixin8ZxtSD8mXaOSxBEDH) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Levanta Sua Cabeça](https://open.spotify.com/album/0kHiC8Iu34JhXoVcH79Ysl) | 3:00 |
+| 22 | [Get Together](https://open.spotify.com/track/0ozDCUAUDVUGX9iNrgcb3Z) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Adão Negro](https://open.spotify.com/artist/4lH76hEdSMHe60KOmDbUq3) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:35 |
 | 23 | [Me Wan](https://open.spotify.com/track/4PdcH15HcWzSG1D85Uo7t8) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Rodrigo Piccolo](https://open.spotify.com/artist/52aLYcePUE9EfD3Q5vvKpz) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:48 |
 | 24 | [Essência Pura](https://open.spotify.com/track/4b3NtZfP4stIhX4x0i5f1X) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:24 |
 | 25 | [High](https://open.spotify.com/track/6kfZCeHGVpGIXEEYYdsjBy) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 2:32 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 51 | [Posso Fugir](https://open.spotify.com/track/4sMgpCEMFgsOF3DzXhq0xV) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 4:49 |
 | 52 | [Leve](https://open.spotify.com/track/2MlqMhLBbCl1pG0gdILQWU) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:03 |
 | 53 | [Fogo](https://open.spotify.com/track/4KYySzLQSw7gOYamsHwL2U) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:28 |
-| 54 | [Cairá](https://open.spotify.com/track/5h83k5YqRVsRmCxM45Hwkn) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Alex NSC](https://open.spotify.com/artist/2c8NPTv8TrlGQNh13qXz9e) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:23 |
-| 55 | [Sincronia \(Recado a Eu\)](https://open.spotify.com/track/7oqoZHlO1UqWitB6WTUZxU) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 6:04 |
+| 54 | [Sincronia \(Recado a Eu\)](https://open.spotify.com/track/7oqoZHlO1UqWitB6WTUZxU) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 6:04 |
+| 55 | [Cairá](https://open.spotify.com/track/5h83k5YqRVsRmCxM45Hwkn) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Alex NSC](https://open.spotify.com/artist/2c8NPTv8TrlGQNh13qXz9e) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:23 |
 | 56 | [Bate Moleque](https://open.spotify.com/track/0PoFl0ZuL5nh3u7z3ZKpu9) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 4:01 |
 | 57 | [Energia Pura](https://open.spotify.com/track/6EuUwMvOChmivpCiUbc8Zx) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 2:50 |
 | 58 | [Corpo Fechado](https://open.spotify.com/track/6R4eIow8KkeoLRaMImEupA) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 2:57 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 69 | [Pedra Que Não Foi Polida](https://open.spotify.com/track/1RakbO7PwbaRHhwAM5wQy3) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:21 |
 | 70 | [Vítima](https://open.spotify.com/track/7jMUhDGu6D02gtw5WgLfrz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:03 |
 
-Snapshot ID: `Mjc1NzYwNjUsMDAwMDAwMDAxMWZkMjRlM2Q5Njg3ZmYwNjlkYjIzMTkyNjc2MjYyMw==`
+Snapshot ID: `Mjc1Nzc4MDQsMDAwMDAwMDAyZWJiNDFjZWJmYTI5OThlMTgwOWQ4Mzk2NzE1ODIxNQ==`

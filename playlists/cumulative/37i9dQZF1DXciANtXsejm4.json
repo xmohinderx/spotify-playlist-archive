@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 120865,
       "name": "A chillar a otra parte",
       "url": "https://open.spotify.com/track/4XTW9nuDuvGUObvZNpsYZu"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 229280,
       "name": "Como Tu Enemigo",
       "url": "https://open.spotify.com/track/5Tv3HAq1q0hmo0tKSw9DZw"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 220840,
       "name": "Cosas del amor",
       "url": "https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 249626,
       "name": "Distancia",
       "url": "https://open.spotify.com/track/7sV1a3hPpytFTrPBstLtEv"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 189629,
       "name": "Dos Hombres y un Destino",
       "url": "https://open.spotify.com/track/7soeaS12AHoVO44S9Lys5l"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 292706,
       "name": "D\u00edgale",
       "url": "https://open.spotify.com/track/3PYx0OCGrEnDBSfHBrSCNb"
@@ -556,6 +556,24 @@
     },
     {
       "album": {
+        "name": "Mix Clasic",
+        "url": "https://open.spotify.com/album/1KmjLgCQtDRES0izYqhoYS"
+      },
+      "artists": [
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298201,
+      "name": "El Dolor de Tus Mentiras / Una por una / No Podr\u00e1s Olvidarlo",
+      "url": "https://open.spotify.com/track/1COlsKVlaVyzc56O3q7Ls3"
+    },
+    {
+      "album": {
         "name": "Simplemente Nag\u00fcel",
         "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
       },
@@ -567,7 +585,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 181946,
       "name": "El Hospicio",
       "url": "https://open.spotify.com/track/4I17shszGarI3lEcneeEEK"
@@ -625,7 +643,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 200386,
       "name": "Enganchados 2 (Contigo me gusta / No me acostumbro)",
       "url": "https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 219786,
       "name": "Hasta el Sol de Hoy",
       "url": "https://open.spotify.com/track/0XH56FsQ30qSKYHQtFsqnz"
@@ -863,6 +881,24 @@
       "duration_ms": 211408,
       "name": "H\u00e1blame de Ti",
       "url": "https://open.spotify.com/track/3XJ6Nr3h8aypTqZs8pb4sW"
+    },
+    {
+      "album": {
+        "name": "Como T\u00fa",
+        "url": "https://open.spotify.com/album/6CO9vS875lEVjA2HDgyCTL"
+      },
+      "artists": [
+        {
+          "name": "Sergio Moran",
+          "url": "https://open.spotify.com/artist/5Epal131XDOm4RrZYx6kDQ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200373,
+      "name": "Imposible Olvidarte",
+      "url": "https://open.spotify.com/track/7rDdwH8FRnHHsWZSsLJ7fB"
     },
     {
       "album": {
@@ -938,6 +974,44 @@
     },
     {
       "album": {
+        "name": "La Segunda del Hombre del Acorde\u00f3n",
+        "url": "https://open.spotify.com/album/5Gxv471mSx2PNVklNpicaU"
+      },
+      "artists": [
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        },
+        {
+          "name": "Grupo Cali",
+          "url": "https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k"
+        },
+        {
+          "name": "Gerardo Gross",
+          "url": "https://open.spotify.com/artist/0xpHGyu4fPxDalDVfjb1Ni"
+        },
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        },
+        {
+          "name": "Cuarteto Imperial",
+          "url": "https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87"
+        },
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260566,
+      "name": "La Segunda del Hombre del Acorde\u00f3n",
+      "url": "https://open.spotify.com/track/6GiqyOWzkol9gZsSIqLLxF"
+    },
+    {
+      "album": {
         "name": "A\u00fan Sigue La Lecci\u00f3n",
         "url": "https://open.spotify.com/album/7yGG6SN679bWm8Op7Baf1D"
       },
@@ -993,7 +1067,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 222723,
       "name": "Loco",
       "url": "https://open.spotify.com/track/10hOkCrRZSRgNfLx8Sq6mq"
@@ -1011,7 +1085,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 177345,
       "name": "Los Amigos Que Yo Tengo",
       "url": "https://open.spotify.com/track/09bn42Fj5RN9J9Z63f1S7A"
@@ -1029,7 +1103,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 189911,
       "name": "Mal Amor",
       "url": "https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5"
@@ -1383,7 +1457,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 239595,
       "name": "Qu\u00e9 Se Siente",
       "url": "https://open.spotify.com/track/6kotBBh3pobT8sxHBKE69U"
@@ -1509,7 +1583,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 179583,
       "name": "Soy Sabalero",
       "url": "https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL"
@@ -1563,7 +1637,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 232248,
       "name": "Te Llevas Mi Vida",
       "url": "https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N"
@@ -1599,7 +1673,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Te Propongo",
       "url": "https://open.spotify.com/track/0bS1oBwUpOe60oJW6ypPVM"
@@ -1621,7 +1695,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 188140,
       "name": "Te Sorprender\u00e1s",
       "url": "https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS"
@@ -1718,6 +1792,28 @@
     },
     {
       "album": {
+        "name": "Tu Amor Me Mata",
+        "url": "https://open.spotify.com/album/4MIuLVLjQ6D7Obhnf6470U"
+      },
+      "artists": [
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        },
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214073,
+      "name": "Tu Amor Me Mata",
+      "url": "https://open.spotify.com/track/2vEmCi4HARwSehvhKDszUI"
+    },
+    {
+      "album": {
         "name": "A Pura Sangre",
         "url": "https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz"
       },
@@ -1729,7 +1825,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 218373,
       "name": "Tu C\u00f3mo Est\u00e1s",
       "url": "https://open.spotify.com/track/3ys4ck9oSE5NvxGdvVVKXx"
@@ -1837,7 +1933,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Una Calle Nos Separa",
       "url": "https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224"
@@ -1909,7 +2005,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 186986,
       "name": "Vuelve Mi Amor",
       "url": "https://open.spotify.com/track/1YQExirdEk4Xh525kr4SHW"

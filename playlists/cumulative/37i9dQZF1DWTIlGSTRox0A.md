@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2007! Cover: Amy Winehouse
 
-104 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/2Q0PAtOZZSmBsw4VZifFZC)
+105 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/2Q0PAtOZZSmBsw4VZifFZC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Crank That \(Soulja Boy\)](https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [souljaboytellem.com](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) | 3:41 | 2020-11-04 | 2022-06-07 |
 | [Cry for You](https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Dancing Shoes](https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz) | 3:29 | 2020-11-04 |  |
 | [Cupid's Chokehold / Breakfast in America \- Radio Mix](https://open.spotify.com/track/6ajyEEzWZbw8ycDcJAN099) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/album/2BUMWHctjCsVidogtJxfDK) | 3:57 | 2020-11-04 |  |
+| [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:02 | 2020-11-04 |  |
 | [Destination Calabria \- Radio Edit](https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 3:43 | 2020-11-04 |  |
 | [Do It Well](https://open.spotify.com/track/2dOcfwJpfgGLcB4vPi8YXf) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Brave](https://open.spotify.com/album/7i3VnuGAGi7howNQLPRhgJ) | 3:05 | 2020-11-04 |  |
 | [Don't Matter](https://open.spotify.com/track/12yGwtB2h9NlzeOKYfVYTF) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S) | 4:53 | 2020-11-04 | 2022-05-30 |
@@ -65,7 +66,7 @@
 | [Misery Business](https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:31 | 2020-11-04 |  |
 | [Monsoon](https://open.spotify.com/track/32Ky5QCRtwYJJXuLwoGufj) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Scream](https://open.spotify.com/album/1LzQ8k1PDyXvy5pjCcfaZT) | 4:01 | 2020-11-04 |  |
 | [Musica](https://open.spotify.com/track/4QyMxYG3RgrD2aOKy4tID4) | [Paolo Meneguzzi](https://open.spotify.com/artist/5ZzAoUEpmaTHo3wymXyvnk) | [Musica](https://open.spotify.com/album/3oCY93jRztUaG9PQQMtDya) | 3:43 | 2020-11-04 |  |
-| [My Love \(feat\. T.I.\)](https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [FutureSex/LoveSounds Deluxe Edition](https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2) | 4:36 | 2020-11-04 |  |
+| [My Love \(feat\. T.I.\)](https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [FutureSex/LoveSounds Deluxe Edition](https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2) | 4:36 | 2020-11-04 | 2022-06-08 |
 | [New Shoes](https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:23 | 2020-11-04 |  |
 | [Niente paura](https://open.spotify.com/track/7gek94xORo1kmU7wV1FG4n) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Primo tempo](https://open.spotify.com/album/5094lPz0K63de9XYPqPtYT) | 3:48 | 2020-11-04 |  |
 | [No One](https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:13 | 2020-11-04 |  |

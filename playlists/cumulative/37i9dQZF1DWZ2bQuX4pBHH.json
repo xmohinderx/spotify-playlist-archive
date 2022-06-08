@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Kabhi Haan Kabhi Naa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3bW1RcnpO5GNXNLo6qCgrh"
+      },
+      "artists": [
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239426,
+      "name": "Aana Mere Pyar Ko",
+      "url": "https://open.spotify.com/track/4Bfi6JKOITBh792qOXSfoG"
+    },
+    {
+      "album": {
         "name": "Veer - Zaara",
         "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
       },
@@ -273,7 +299,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 289373,
       "name": "Chaand Taare",
       "url": "https://open.spotify.com/track/0898lqIxzKWzUZxb5zT7C9"
@@ -379,7 +405,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 290548,
       "name": "Daayre",
       "url": "https://open.spotify.com/track/0OQzbOu5JGo2LgtwJI04zO"
@@ -445,7 +471,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 457026,
       "name": "Deewana Dil Deewana",
       "url": "https://open.spotify.com/track/1KyNvNEJ1vsVG87gWSwk1z"
@@ -563,7 +589,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 355400,
       "name": "Ek Shararat Hone Ko Hai",
       "url": "https://open.spotify.com/track/6xmBxL87AajINMAmDQicaZ"
@@ -757,7 +783,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 340427,
       "name": "Jaata Hai Tu Kahan",
       "url": "https://open.spotify.com/track/407QycChulo2g2SfEqMopF"
@@ -805,7 +831,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 335062,
       "name": "Just Go to Hell Dil",
       "url": "https://open.spotify.com/track/3CtiRUKVB9X2wi1ZMdaymY"
@@ -827,7 +853,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 321240,
       "name": "Kal Ho Naa Ho",
       "url": "https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I"
@@ -845,7 +871,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 433933,
       "name": "Kathai Aankhon Wali",
       "url": "https://open.spotify.com/track/1IC0oHl8RPHwHD4TApJtyJ"
@@ -945,7 +971,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 371957,
       "name": "Kyon Hawa",
       "url": "https://open.spotify.com/track/2cNeEQhITgmjkk5SHd5IXY"
@@ -1049,7 +1075,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 412995,
       "name": "Lodi",
       "url": "https://open.spotify.com/track/5xoZAi6EnVLl94L1OxJtqE"
@@ -1416,6 +1442,44 @@
     },
     {
       "album": {
+        "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
+      },
+      "artists": [
+        {
+          "name": "Aadesh Shrivastava",
+          "url": "https://open.spotify.com/artist/4tma2wxDchrifG8Pflic4Q"
+        },
+        {
+          "name": "Sudesh Bhosle",
+          "url": "https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Amitabh Bachchan",
+          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408920,
+      "name": "Say \"Shava Shava\"",
+      "url": "https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3"
+    },
+    {
+      "album": {
         "name": "Yes Boss (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
       },
@@ -1427,7 +1491,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 314493,
       "name": "Suniye To",
       "url": "https://open.spotify.com/track/5VOnTAe9SMM6RBtq0C9wmf"
@@ -1679,7 +1743,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 309916,
       "name": "Tum Paas Aa Rahe Ho",
       "url": "https://open.spotify.com/track/4xxI0wbCGoJVjnLGDIucn6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Einmusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,075 likes - 75 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,263 likes - 75 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 48 | [Intergalactic Tango](https://open.spotify.com/track/22ybBb0TnBkOCzVVkvq7Ln) | [VANDER](https://open.spotify.com/artist/4o5px3d86caBOIUUGfmgDB), [Deer Jade](https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv), [Mâhfoud](https://open.spotify.com/artist/2lPOIPlOen5YhEB9JQ6DmR) | [Intergalactic Tango](https://open.spotify.com/album/3V2TuhZVk7nUFbynV4oKQJ) | 5:15 |
 | 49 | [Platia](https://open.spotify.com/track/6wbYCyePXvS1XCsMigiZTI) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Platia](https://open.spotify.com/album/392IhxcdGrDfekRvmCREOl) | 3:12 |
 | 50 | [Dancer In The Dark](https://open.spotify.com/track/3pYyBOW5DEfM5CjNLknnRZ) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Together \- Part One](https://open.spotify.com/album/2OyCp5DyvzRA35ZBssD2xg) | 5:05 |
-| 51 | [Baby Flute](https://open.spotify.com/track/3335q25uuuOxltjChRUxSx) | [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU) | [Baby Flûte](https://open.spotify.com/album/4BBdOydRsJSZjZ1dRUQHR4) | 2:31 |
+| 51 | [Baby Flute](https://open.spotify.com/track/3335q25uuuOxltjChRUxSx) | [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU) | [Baby Flute](https://open.spotify.com/album/4BBdOydRsJSZjZ1dRUQHR4) | 2:31 |
 | 52 | [Morning Sky](https://open.spotify.com/track/3h3c5dCyMUuaC5rtyCaw6J) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj) | [Morning Sky](https://open.spotify.com/album/31ggIgNopLR0JgwFjJwgYx) | 4:41 |
 | 53 | [Take Me Back](https://open.spotify.com/track/6q4G6TpmmCHCaK9pPjyiKB) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Conor Ross](https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS) | [Take Me Back](https://open.spotify.com/album/1r427X4dDZrZDaS8Tps8dI) | 4:09 |
 | 54 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 |

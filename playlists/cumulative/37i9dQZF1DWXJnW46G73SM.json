@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 231028,
       "name": "Agaby",
       "url": "https://open.spotify.com/track/3nkxT86Yig9jbqxfPj8aEz"
@@ -407,8 +407,8 @@
           "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
         },
         {
-          "name": "Shendy",
-          "url": "https://open.spotify.com/artist/2dRzJJYWuWzAycxjoW4mlP"
+          "name": "shendy",
+          "url": "https://open.spotify.com/artist/7ANuJkzC0NE6lAK5itx0Dx"
         }
       ],
       "date_added": "2022-06-02",
@@ -2371,6 +2371,24 @@
       "duration_ms": 211451,
       "name": "Ta3ala Adalla3ak",
       "url": "https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS"
+    },
+    {
+      "album": {
+        "name": "Taalili",
+        "url": "https://open.spotify.com/album/5PsBjIgUc9FnjdLbm1idet"
+      },
+      "artists": [
+        {
+          "name": "Ragheb Alama",
+          "url": "https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223366,
+      "name": "Taalili",
+      "url": "https://open.spotify.com/track/1Ghjyo13NTn6yDyQ86bLMV"
     },
     {
       "album": {

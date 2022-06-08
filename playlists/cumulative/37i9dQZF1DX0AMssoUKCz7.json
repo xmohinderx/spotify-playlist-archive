@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 157685,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4eZiBjSsbi4ObiL8s5rzP7"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/72p4bX3wUsqySOtUBvVIXp"
@@ -1105,7 +1105,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 132270,
       "name": "California Nights",
       "url": "https://open.spotify.com/track/4ZmejwrgkNOowAPiIntRox"
@@ -1515,7 +1515,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 212813,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/6LHvM6g4TD9ugyYs4CKwyc"
@@ -1711,7 +1711,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 115297,
       "name": "Down from this High",
       "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
@@ -2544,6 +2544,28 @@
     },
     {
       "album": {
+        "name": "Go There With You",
+        "url": "https://open.spotify.com/album/4dCjZpw7sKRFT99qhQd563"
+      },
+      "artists": [
+        {
+          "name": "James Stefano",
+          "url": "https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf"
+        },
+        {
+          "name": "Mecdoux",
+          "url": "https://open.spotify.com/artist/2LEcQU88INN9wulB59Xo0Q"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196174,
+      "name": "Go There With You",
+      "url": "https://open.spotify.com/track/3wiW6zoK6kMxwr0FgdGDHw"
+    },
+    {
+      "album": {
         "name": "Gonna Love Ya",
         "url": "https://open.spotify.com/album/5GMy8VTyvntUIsi5Fp5jXE"
       },
@@ -2581,7 +2603,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 158907,
       "name": "Good Life feat. Henri PFR (Together Alone Remix)",
       "url": "https://open.spotify.com/track/6tzCYvOjftLUQaxBp1HFvC"
@@ -2713,7 +2735,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 171428,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/63iSQ3Fd1qnKWlC7LIVP87"
@@ -3057,7 +3079,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 171429,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5INg5JgllhQn71YpEIrh2E"
@@ -3441,7 +3463,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 129642,
       "name": "I Wanna Know",
       "url": "https://open.spotify.com/track/69Kv84Y4IJhLbJyAvorwAy"
@@ -3639,7 +3661,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 177812,
       "name": "Invisible Love",
       "url": "https://open.spotify.com/track/78wWcQkvGPOY7qXDTxENIt"
@@ -3825,7 +3847,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 331359,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/6Uk70qpuVpIbJYfpgp7FOv"
@@ -3843,7 +3865,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 220939,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/4N0UHWYEc1DCn1UcsJtfmx"
@@ -3949,7 +3971,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 173728,
       "name": "Lights",
       "url": "https://open.spotify.com/track/7xePs11BrC1ZITTZ9koW62"
@@ -4109,7 +4131,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 190700,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6GeA0vtzjoAwgH8IXlBTjW"
@@ -4299,7 +4321,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 177170,
       "name": "Love That We Need",
       "url": "https://open.spotify.com/track/58U52B6rDjT30RIquT51dE"
@@ -4641,7 +4663,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 302162,
       "name": "Moments",
       "url": "https://open.spotify.com/track/0e4xfVTScciruWRTHG3Myh"
@@ -5037,7 +5059,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 149000,
       "name": "Night Sky",
       "url": "https://open.spotify.com/track/29oU36Lm5HxVfiDW1aiQku"
@@ -5273,7 +5295,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 144179,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/2OmBaJYDXL2ygMVVV4M7L0"
@@ -5335,7 +5357,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 152953,
       "name": "On the Other Side",
       "url": "https://open.spotify.com/track/2OZkcsgb8SmlVh6CIsCJAz"
@@ -5577,7 +5599,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 210428,
       "name": "Own the Night",
       "url": "https://open.spotify.com/track/0DHUariIorcAgunTr0GTy2"
@@ -5643,7 +5665,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 236279,
       "name": "Pacing",
       "url": "https://open.spotify.com/track/6cWZQNgaL8yLtezJvag9Y9"
@@ -6595,7 +6617,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 163947,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/0HkwDCJIbWijtfKg63gQBJ"
@@ -7001,7 +7023,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 140869,
       "name": "Summertime With You",
       "url": "https://open.spotify.com/track/5b6zREc57MnDHRh2EjVHbw"
@@ -7399,7 +7421,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 336774,
       "name": "The Sweetest Sin",
       "url": "https://open.spotify.com/track/57wbOuofBE6Cb3mMPuQ24i"
@@ -7439,7 +7461,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 152439,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/4wKyrBSIvZiNnGKGtAIwXc"
@@ -7611,7 +7633,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 176190,
       "name": "Too Good To Lose - Sunset Edition",
       "url": "https://open.spotify.com/track/7qJ0fplEhE9Hjjrexg2QPS"
@@ -7629,7 +7651,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Tranquillity",
       "url": "https://open.spotify.com/track/6FRPp1RZx4bXvAP95Qmodx"
@@ -7859,7 +7881,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 154146,
       "name": "Wanna Know Me",
       "url": "https://open.spotify.com/track/6BOSo7VK5JteFaQ0X1CBAR"
@@ -8257,7 +8279,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 163105,
       "name": "Without You",
       "url": "https://open.spotify.com/track/4vN3YZKWDARkYVRjXaY4cx"

@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-162 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+163 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Still God \- Live](https://open.spotify.com/track/6CY4YjEDsar3g1BLRkIwKK) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace: The Album \(Deluxe\)](https://open.spotify.com/album/6arAbdsYCdQZqMYHEzIQ9W) | 7:15 | 2022-02-17 | 2022-03-16 |
 | [Sure Thing](https://open.spotify.com/track/4X44EQ7MFjs0aXSydakBQr) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Sure Thing](https://open.spotify.com/album/5VbdE3Lxdzna1g8CG6lBX7) | 5:48 | 2022-02-17 | 2022-04-02 |
 | [Take It To Jesus](https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Take It To Jesus](https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2) | 4:28 | 2022-04-29 |  |
+| [Thank You Lord \- Live](https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Thank You Lord \(Live\)](https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE) | 4:56 | 2022-06-07 |  |
 | [That's The Power \- Live](https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [These Same Skies \(Live\)](https://open.spotify.com/album/08skyG33WqHITgFg6S09LR) | 4:34 | 2022-03-15 |  |
 | [That's The Power \- Live](https://open.spotify.com/track/5Q8Pc97E3IItIbQW40WlnP) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [That's The Power \(Live\)](https://open.spotify.com/album/3p6PZYsFKgz6sc2OadiY7q) | 4:34 | 2022-02-17 | 2022-03-12 |
 | [That's The Power \- Studio](https://open.spotify.com/track/2YNehyJ62hvQtlFfutN3tT) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [These Same Skies \(Studio\)](https://open.spotify.com/album/72875wC7QpXtC9dd8jUzDk) | 4:01 | 2022-03-11 | 2022-03-16 |
