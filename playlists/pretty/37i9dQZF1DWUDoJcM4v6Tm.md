@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 
 ### [The Wilds](https://open.spotify.com/playlist/37i9dQZF1DWUDoJcM4v6Tm)
 
-> Revel in some key gems and explore the sprawling musical landscape.
+> Explore a sprawling musical landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,531 likes - 125 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,581 likes - 125 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 124 | [Gutter Heart \- Acoustic Version](https://open.spotify.com/track/3QQD8AnSMwDYf8NQ585CqR) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Temple \(Unplugged\)](https://open.spotify.com/album/7FAc0Om3wUx1X87f01EFvW) | 3:39 |
 | 125 | [Secret \- Acoustic](https://open.spotify.com/track/2DAshXha1ZTujz0pP7E28P) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/7BHKR9opVrudKl3vxPkbHt) | 3:10 |
 
-Snapshot ID: `MTY1MTUxODMxMSwwMDAwMDA3MzAwMDAwMTgwODYyOThhYzcwMDAwMDE3MjA2ZWMzOTEw`
+Snapshot ID: `MTY1NDcyODE0OSwwMDAwMDA3NDAwMDAwMTgxNDU3YmM5NDkwMDAwMDE4MTQ1N2IwNjYy`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: Danimal, Zombic, Influencerz",
+  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: Lucky Luke",
   "name": "Main Stage",
   "published_playlist_ids": [
     "4Sc3vClwMPjm8ROhpN4cCx"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 139687,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5q2cqCySPgK595wNyN0XEr"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 143906,
       "name": "Baby Steps",
       "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
@@ -421,6 +421,24 @@
       "duration_ms": 146585,
       "name": "Castle (feat. FAST BOY)",
       "url": "https://open.spotify.com/track/1DcaveBkLsJCehY22YY9sY"
+    },
+    {
+      "album": {
+        "name": "Children Of The Night",
+        "url": "https://open.spotify.com/album/1ah9V0sxEDCnYvFMrLwH27"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Children Of The Night",
+      "url": "https://open.spotify.com/track/3LZvaHxUB1JHm0CupGqd5W"
     },
     {
       "album": {
@@ -979,7 +997,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 172000,
       "name": "Forever Gold",
       "url": "https://open.spotify.com/track/4gvkzozl1zBKCJl8hmzIr0"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 167343,
       "name": "How Old Are You - Radio Edit",
       "url": "https://open.spotify.com/track/1EN2NTM7FC4khLNV8HuSmG"
@@ -1421,6 +1439,32 @@
       "duration_ms": 201919,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/4MDrGVm2yYsMj97CLGdhdI"
+    },
+    {
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9"
+      },
+      "artists": [
+        {
+          "name": "Marc Kiss",
+          "url": "https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO"
+        },
+        {
+          "name": "ThomTree",
+          "url": "https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse"
+        },
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156093,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr"
     },
     {
       "album": {
@@ -1807,6 +1851,32 @@
       "duration_ms": 130175,
       "name": "Music Sounds Better with You",
       "url": "https://open.spotify.com/track/1djIwYoEhJj8xvcFeq2mWz"
+    },
+    {
+      "album": {
+        "name": "My Feelings For You (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/32jpJfXBTiNcdVHSLib498"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "My Feelings For You - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms"
     },
     {
       "album": {
@@ -2197,7 +2267,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 178593,
       "name": "Quantum",
       "url": "https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD"
@@ -3056,6 +3126,32 @@
     },
     {
       "album": {
+        "name": "We Could Be Together (feat. Daddy DJ)",
+        "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Daddy DJ",
+          "url": "https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149642,
+      "name": "We Could Be Together (feat. Daddy DJ)",
+      "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
+    },
+    {
+      "album": {
         "name": "Who U Gonna Love (feat. Amber Van Day)",
         "url": "https://open.spotify.com/album/0yzEsLH4U52Qd9cTB3W3Rt"
       },
@@ -3145,6 +3241,24 @@
       "duration_ms": 190312,
       "name": "Written In The Stars",
       "url": "https://open.spotify.com/track/4UGvqi9PIjHesEpPOO7Hl8"
+    },
+    {
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/4qE54SmcIkvf3k1ljtffwl"
+      },
+      "artists": [
+        {
+          "name": "Phil The Beat",
+          "url": "https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/6cVNYlO75XZ3UZnglTF6WI"
     },
     {
       "album": {

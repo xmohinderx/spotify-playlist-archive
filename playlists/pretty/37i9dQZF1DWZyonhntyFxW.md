@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى الأغاني الراب المصري! غلاف: مروان بابلو
+> أقوى أغاني الراب المصري! غلاف: مروان بابلو
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,527 likes - 53 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,709 likes - 53 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 52 | [Sou2 El Cassette](https://open.spotify.com/track/0rcmK0SOLV0AjOFeWAxZD3) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Sou2 El Cassette](https://open.spotify.com/album/5viBtz4OjlluWWxNXqUnmb) | 2:43 |
 | 53 | [Stop \- Magnolia](https://open.spotify.com/track/641KAqGlHS7CH0wCrhh0Ir) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Sonseyat](https://open.spotify.com/album/5tkqvkC0bmgC6qm1L46HpL) | 2:41 |
 
-Snapshot ID: `MTY1NDYzMTYyNiwwMDAwMDE0NDAwMDAwMTgxM2ZiYWY2OGUwMDAwMDE4MGNkZDllMGQ4`
+Snapshot ID: `MTY1NDY5OTU4NiwwMDAwMDE0NTAwMDAwMTgxNDNjN2Y1MzMwMDAwMDE4MGNkZDllMGQ4`

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 178120,
       "name": "Amar Sin Pensarlo - En Vivo",
       "url": "https://open.spotify.com/track/0KgLontgLrWfnnF6k61GUS"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 202826,
       "name": "Juro Por Dios - En Vivo",
       "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 141589,
       "name": "La Hungara - En Vivo",
       "url": "https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 214764,
       "name": "Los Compadres",
       "url": "https://open.spotify.com/track/1YvHZhfE5wj4kpGdu5fUdA"
@@ -778,6 +778,24 @@
     },
     {
       "album": {
+        "name": "Lo S\u00e9",
+        "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Se Supone",
+      "url": "https://open.spotify.com/track/37q02Zyig7z2kjkzfO9O3P"
+    },
+    {
+      "album": {
         "name": "Tres Botes",
         "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
       },
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 220917,
       "name": "Sigo de pie",
       "url": "https://open.spotify.com/track/67VgUmWzx04XMSXTf9CZqn"

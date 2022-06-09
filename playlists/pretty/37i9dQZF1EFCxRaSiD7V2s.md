@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385 likes - 219 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 384 likes - 219 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 104 | [Phases](https://open.spotify.com/track/1BgftfXFND4zCyLiqZvDxf) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:51 |
 | 105 | [Beauty and the Beasts](https://open.spotify.com/track/10rddMPKbpC5J6hNhBPioG) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 2:02 |
 | 106 | [Sunfish](https://open.spotify.com/track/6EiHhh1XCIqY0nVLFR0SKV) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Echo Mountain](https://open.spotify.com/album/0C7Vwl8DXKCL4YeMtJVWXi) | 3:41 |
-| 107 | [New Moon Rising](https://open.spotify.com/track/42kEx3eQ1NNdS8TKCdRbpy) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 2:57 |
-| 108 | [Fireside](https://open.spotify.com/track/2yCCYSZ7ZdVHSeEZTs8NMZ) | [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB), [Tancred](https://open.spotify.com/artist/4rdoYKpVduYtHfKJgUnOkS), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Fireside](https://open.spotify.com/album/1RQbuf7X5Xy2KfrTwi6DR9) | 2:58 |
+| 107 | [Fireside](https://open.spotify.com/track/2yCCYSZ7ZdVHSeEZTs8NMZ) | [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB), [Tancred](https://open.spotify.com/artist/4rdoYKpVduYtHfKJgUnOkS), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Fireside](https://open.spotify.com/album/1RQbuf7X5Xy2KfrTwi6DR9) | 2:58 |
+| 108 | [New Moon Rising](https://open.spotify.com/track/42kEx3eQ1NNdS8TKCdRbpy) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 2:57 |
 | 109 | [I Only Have Eyes for You](https://open.spotify.com/track/10MOyYRJCh4zCFIwpyZmNU) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:44 |
 | 110 | [The Wish](https://open.spotify.com/track/1vJuuTx0d9D7wNwx7aQGW0) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 1:58 |
 | 111 | [Ted](https://open.spotify.com/track/2Mfb1R9ghnzo4Kp2U1tV4V) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 3:00 |
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 218 | [Wow Wow Wow](https://open.spotify.com/track/1LexMbAap7y77uKFMtRr53) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:22 |
 | 219 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `Mjc1Nzc4MTAsMDAwMDAwMDAxYWEwZWI3NGY2NTljYzdkMGY1ODI0NjVkZjZmZTY3MQ==`
+Snapshot ID: `Mjc1Nzg5NTAsMDAwMDAwMDBlMTdmMmVjOTk4YThkY2RmMWU3YjQ0NzVkYjliYjFjYw==`

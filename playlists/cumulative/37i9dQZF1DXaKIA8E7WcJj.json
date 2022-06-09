@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2020-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 160906,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1"
@@ -1393,7 +1393,7 @@
       ],
       "date_added": "2020-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 138360,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/42ojLX3UYsp4XhaX0sx29E"
@@ -1613,7 +1613,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 136266,
       "name": "Breaking Up Is Hard to Do",
       "url": "https://open.spotify.com/track/7utoClKnLShFg6u6dZ20gp"
@@ -1667,7 +1667,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 162533,
       "name": "Bring It On Home to Me",
       "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
@@ -1757,7 +1757,7 @@
       ],
       "date_added": "2019-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 174640,
       "name": "Bus Stop",
       "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
@@ -2117,7 +2117,7 @@
       ],
       "date_added": "2019-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 167066,
       "name": "Chain of Fools",
       "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
@@ -2326,6 +2326,24 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/3yS8gcHmbKBK6XhLmq7ZcK"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209640,
+      "name": "Crimson & Clover",
+      "url": "https://open.spotify.com/track/0I4yYE831a8SW8QIx6bz4x"
+    },
+    {
+      "album": {
         "name": "Tommy James and The Shondells: Anthology",
         "url": "https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN"
       },
@@ -2481,7 +2499,7 @@
       ],
       "date_added": "2020-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 120306,
       "name": "Crying in the Rain",
       "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
@@ -3613,7 +3631,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 163293,
       "name": "Friday On My Mind",
       "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
@@ -4161,7 +4179,7 @@
       ],
       "date_added": "2019-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 151289,
       "name": "Groovin'",
       "url": "https://open.spotify.com/track/6krYiEjgGJaMJMTjW7OJ7L"
@@ -4615,7 +4633,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 247733,
       "name": "Hey Jude",
       "url": "https://open.spotify.com/track/1MMp1H2Kib2BCDtdL5nL63"
@@ -4939,7 +4957,7 @@
       ],
       "date_added": "2019-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 177773,
       "name": "How Sweet It Is (To Be Loved By You)",
       "url": "https://open.spotify.com/track/7xsH4s0GwIQUhId1AtPVZv"
@@ -5267,7 +5285,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 169746,
       "name": "I Left My Heart In San Francisco",
       "url": "https://open.spotify.com/track/3nr6QXimwd9K4hpuFdgr6N"
@@ -5851,7 +5869,7 @@
       ],
       "date_added": "2019-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 177173,
       "name": "In the Ghetto",
       "url": "https://open.spotify.com/track/2pCwNrjm7IoAHAj2XqflCu"
@@ -7843,7 +7861,7 @@
       ],
       "date_added": "2019-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 131360,
       "name": "Needles and Pins - Mono",
       "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
@@ -8009,7 +8027,7 @@
       ],
       "date_added": "2019-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 255001,
       "name": "Ode To Billie Joe",
       "url": "https://open.spotify.com/track/4FdDorlbJTVHcH3djLbIfn"
@@ -8845,7 +8863,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 169893,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/4yChgYDVcQrAgIEIErW27b"
@@ -8917,7 +8935,7 @@
       ],
       "date_added": "2019-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 146360,
       "name": "Rhythm of the Rain",
       "url": "https://open.spotify.com/track/7GHf8dQ2wA71wYOuRsQCZP"
@@ -9205,7 +9223,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 178506,
       "name": "San Francisco (Be Sure to Wear Flowers in Your Hair) - Single Version",
       "url": "https://open.spotify.com/track/6vcNJUWtUPB0hKC6VbZriY"
@@ -9879,7 +9897,7 @@
       ],
       "date_added": "2020-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 162493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
@@ -10791,7 +10809,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 141066,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
@@ -11519,7 +11537,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 181800,
       "name": "The Tears Of A Clown",
       "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
@@ -11771,7 +11789,7 @@
       ],
       "date_added": "2020-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 158853,
       "name": "Then He Kissed Me",
       "url": "https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh"
@@ -12617,7 +12635,7 @@
       ],
       "date_added": "2019-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 178333,
       "name": "Walk on By",
       "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
@@ -12797,7 +12815,7 @@
       ],
       "date_added": "2019-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 190480,
       "name": "What the World Needs Now Is Love",
       "url": "https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t"
@@ -13157,7 +13175,7 @@
       ],
       "date_added": "2019-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 185293,
       "name": "Yester-Me, Yester-You, Yesterday",
       "url": "https://open.spotify.com/track/0l9RGwc48deJ6j61KXAAvs"
@@ -13215,6 +13233,24 @@
       "duration_ms": 165333,
       "name": "You Beat Me To The Punch - Stereo Version",
       "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
+    },
+    {
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448720,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ"
     },
     {
       "album": {
@@ -13611,7 +13647,7 @@
       ],
       "date_added": "2019-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 194493,
       "name": "Young Girl",
       "url": "https://open.spotify.com/track/3F64pIPqvcujnwvcVLVZ64"

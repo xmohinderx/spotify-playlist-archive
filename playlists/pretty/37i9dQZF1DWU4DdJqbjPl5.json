@@ -1,67 +1,15 @@
 {
   "description": "The smoothest Afro R&B out right now. Cover: <a href=\"https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0?si=IKSVyJUIQW67ApGB2QesEw\" > Simi </a>",
-  "num_followers": 108648,
+  "num_followers": 108775,
   "original_name": "Tantalizers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDY2NzgzOSwwMDAwMDAwMDMyMmM3N2NhYTQ3YzVhZmQzOGJhNTk4N2Y1YzMxZTUw",
+  "snapshot_id": "MTY1NDczNjQ1MCwwMDAwMDAwMDliZWQzYTRjYjdhYjNiMDUyZmJhYjQ4NDExYmU3MTMz",
   "tracks": [
     {
-      "added_at": "2021-12-02 23:01:00",
-      "album": {
-        "name": "Emiliana",
-        "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 164848,
-      "name": "Emiliana",
-      "url": "https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5"
-    },
-    {
-      "added_at": "2022-05-26 23:00:00",
-      "album": {
-        "name": "Different (With Majid Jordan)",
-        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Different (With Majid Jordan)",
-      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
-    },
-    {
-      "added_at": "2022-05-19 23:00:00",
-      "album": {
-        "name": "Naked Wire",
-        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Naked Wire",
-      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
-    },
-    {
-      "added_at": "2021-09-24 05:23:07",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "A Night In Cocody",
         "url": "https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ"
@@ -85,7 +33,75 @@
       "url": "https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja"
     },
     {
-      "added_at": "2021-07-09 00:00:00",
+      "added_at": "2022-06-08 08:17:06",
+      "album": {
+        "name": "Emiliana",
+        "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 164848,
+      "name": "Emiliana",
+      "url": "https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5"
+    },
+    {
+      "added_at": "2022-06-08 08:17:06",
+      "album": {
+        "name": "Different (With Majid Jordan)",
+        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Different (With Majid Jordan)",
+      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
+    },
+    {
+      "added_at": "2022-06-08 08:17:06",
+      "album": {
+        "name": "ASE - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "ASE - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
+    },
+    {
+      "added_at": "2022-06-08 08:17:06",
+      "album": {
+        "name": "Naked Wire",
+        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Naked Wire",
+      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
+    },
+    {
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Understand",
         "url": "https://open.spotify.com/album/3eFRo446TwN1OOr3DIJhcB"
@@ -101,7 +117,7 @@
       "url": "https://open.spotify.com/track/3cC17ZyEHU4ljycyCaWbbr"
     },
     {
-      "added_at": "2021-02-02 14:31:01",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
     },
     {
-      "added_at": "2022-05-26 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "MY WAY:VOLUME II",
         "url": "https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/12QXwJTH3XlsNXG7nKbxil"
     },
     {
-      "added_at": "2022-05-12 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Stand Strong (feat. Sunday Service Choir)",
         "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
     },
     {
-      "added_at": "2021-02-02 14:30:01",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Seed",
         "url": "https://open.spotify.com/album/75jkFBsbmjHIWGUUNbyDEG"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/2EgxDtfxpFZ8hZnbahDSET"
     },
     {
-      "added_at": "2022-06-03 04:02:23",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Passenger 555",
         "url": "https://open.spotify.com/album/3RxSYVzGWrUTxMXQKfdJyo"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/737wrM4gGWNlkQZRLQz541"
     },
     {
-      "added_at": "2022-05-19 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/52JXwMJ5QOTZBWMCVHq0cy"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX"
     },
     {
-      "added_at": "2022-05-12 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Last Last",
         "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
     },
     {
-      "added_at": "2022-02-24 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD"
     },
     {
-      "added_at": "2022-04-14 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "ALL OF ME",
         "url": "https://open.spotify.com/album/4PLaaaFomjdQdRPPmBv8V5"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/4LK8gp5INawRELfGEhnjHv"
     },
     {
-      "added_at": "2021-02-12 07:18:58",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
     },
     {
-      "added_at": "2021-02-12 07:18:58",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Chinese",
         "url": "https://open.spotify.com/album/6g0V4asspKqOCxVOYl8NjT"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/1UpkXyE8cMfXCq8eEY40BK"
     },
     {
-      "added_at": "2022-02-17 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Nobody Else",
         "url": "https://open.spotify.com/album/67K6eADrJhLqy8r6sH2sUN"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/2dt5k4ChcpKmCi2KPyuxpK"
     },
     {
-      "added_at": "2021-07-01 20:59:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "A Side Of Me",
         "url": "https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG"
     },
     {
-      "added_at": "2022-05-19 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2JuPCMHU5tQwYVTjOWCeLF"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/5pGbQzcWqT5HarQDNpgVfa"
     },
     {
-      "added_at": "2020-12-04 05:09:43",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
     },
     {
-      "added_at": "2022-05-19 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "up",
         "url": "https://open.spotify.com/album/63CZFvH19X9b5y5vXQwDqv"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/6VuhHbxyPmFu1AHxjCGR5Q"
     },
     {
-      "added_at": "2022-05-12 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Some Nights I Dream of Doors",
         "url": "https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7"
     },
     {
-      "added_at": "2022-02-18 06:38:55",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Bad News",
         "url": "https://open.spotify.com/album/3TZejTDaixhmNjsBSZDOpx"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/4cibtAt2Vi6R1shOn9fu41"
     },
     {
-      "added_at": "2021-10-08 05:25:26",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Love Nwantiti (Acoustic Version)",
         "url": "https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s"
     },
     {
-      "added_at": "2022-03-11 00:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Call (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/36dJIS4m6wElWShKw7chwJ"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/6HYLLMWhhAFkNAbxNC2Fv8"
     },
     {
-      "added_at": "2021-11-18 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Shakara",
         "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
     },
     {
-      "added_at": "2021-03-25 22:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Give Me Love",
         "url": "https://open.spotify.com/album/0q7P39Z2s5LFSrhhaB7dM4"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/5XUZN3xXUYEXAKwV5O8I0x"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
     },
     {
-      "added_at": "2021-08-27 00:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Be My Guest",
         "url": "https://open.spotify.com/album/1RB15GJ8izqSFg1r0Qsykm"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/53bVld0y2swEHfRs1OpsCa"
     },
     {
-      "added_at": "2021-12-02 23:01:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Asibe Happy",
         "url": "https://open.spotify.com/album/0K6ImXCD9oG3p3HBcAq9UA"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/6F70m9aMK4PSJKBfp1H8DZ"
     },
     {
-      "added_at": "2022-05-19 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Passenger 555",
         "url": "https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ"
     },
     {
-      "added_at": "2022-02-17 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/3LL5z8ulgCli45d1hCOqvT"
@@ -613,7 +629,7 @@
       "url": "https://open.spotify.com/track/1mlMiJJUAABI8l8FqkASd4"
     },
     {
-      "added_at": "2021-08-06 08:42:19",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "NEED ME",
         "url": "https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3"
     },
     {
-      "added_at": "2020-12-03 22:59:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "ZaZa Vibes",
         "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/5RFUao2hVBqb7PT6Mag63z"
     },
     {
-      "added_at": "2021-08-06 08:42:19",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "next2me",
         "url": "https://open.spotify.com/album/6kRZAPjAUEotOefxcYN2XS"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/47lR4Uq1UAMHJiKPG5IhU6"
     },
     {
-      "added_at": "2021-12-02 23:01:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Mayana",
         "url": "https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
     },
     {
-      "added_at": "2021-09-17 04:48:01",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "If Orange Was A Place",
         "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/7quB4D2OH6Q5WwzeEga1q5"
     },
     {
-      "added_at": "2021-12-16 23:01:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Gone Girl",
         "url": "https://open.spotify.com/album/7askKzi7oR1VpOswKLtMAN"
@@ -721,27 +737,7 @@
       "url": "https://open.spotify.com/track/4SVjVLpHngzqTzGfQe0hGz"
     },
     {
-      "added_at": "2022-05-19 23:00:00",
-      "album": {
-        "name": "Already Won",
-        "url": "https://open.spotify.com/album/1BypTkXe5D3rNWZVwGzHDx"
-      },
-      "artists": [
-        {
-          "name": "Dunnie",
-          "url": "https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2"
-        },
-        {
-          "name": "chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Already Won",
-      "url": "https://open.spotify.com/track/5N5JTHckZoTCvhjESdaMxK"
-    },
-    {
-      "added_at": "2022-01-20 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Riddim 5",
         "url": "https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV"
@@ -757,7 +753,7 @@
       "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
     },
     {
-      "added_at": "2021-07-09 00:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Dis moi comment.",
         "url": "https://open.spotify.com/album/4VVmCuhuyfWg1wxSgbUzXc"
@@ -773,7 +769,7 @@
       "url": "https://open.spotify.com/track/7ozOMyVXBH6OU7MCxljGnT"
     },
     {
-      "added_at": "2022-04-28 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "REMEMBER",
         "url": "https://open.spotify.com/album/5OBuRoSxAydiHNkG0YAB5q"
@@ -789,7 +785,7 @@
       "url": "https://open.spotify.com/track/26YdVfiTU42rvEG9oDOvQA"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp"
@@ -805,7 +801,7 @@
       "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
     },
     {
-      "added_at": "2021-07-09 00:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
@@ -825,7 +821,7 @@
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
-      "added_at": "2021-08-20 07:15:35",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Water & Garri",
         "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
@@ -845,7 +841,7 @@
       "url": "https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys"
     },
     {
-      "added_at": "2021-08-06 08:42:19",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
@@ -861,7 +857,7 @@
       "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
     },
     {
-      "added_at": "2021-07-09 00:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe"
@@ -877,7 +873,7 @@
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
     },
     {
-      "added_at": "2021-12-16 23:01:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Fluid",
         "url": "https://open.spotify.com/album/0q0jqTHpWYZIg0kYfTfXbB"
@@ -893,7 +889,7 @@
       "url": "https://open.spotify.com/track/3R679xi0Ht1FrWtXpAXr6O"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Playing With Fire",
         "url": "https://open.spotify.com/album/5lCzLkyHar40yPR2mIHEZC"
@@ -913,7 +909,7 @@
       "url": "https://open.spotify.com/track/7nx5roePDWEAzJwGajxFmF"
     },
     {
-      "added_at": "2021-12-09 23:01:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Fleur froide - Second \u00e9tat : la cristallisation",
         "url": "https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon"
@@ -929,7 +925,7 @@
       "url": "https://open.spotify.com/track/7fWotHT92my4vLN713vFTa"
     },
     {
-      "added_at": "2022-02-11 00:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Lisa Oduor-Noah",
         "url": "https://open.spotify.com/album/01OpRABjuFQgRtj4DdT55m"
@@ -949,7 +945,7 @@
       "url": "https://open.spotify.com/track/1nzmbzGyRa3X8n3s0AAubj"
     },
     {
-      "added_at": "2021-08-27 00:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Made In Lagos: Deluxe Edition",
         "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
@@ -965,7 +961,7 @@
       "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
     },
     {
-      "added_at": "2021-12-16 23:01:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4"
@@ -989,7 +985,7 @@
       "url": "https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84"
     },
     {
-      "added_at": "2021-01-07 23:59:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Antidote (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
@@ -1009,7 +1005,7 @@
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
     },
     {
-      "added_at": "2021-03-25 22:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Catch A Vibe",
         "url": "https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs"
@@ -1033,7 +1029,7 @@
       "url": "https://open.spotify.com/track/6rOF2rxWh0zxN6lRgSMOTn"
     },
     {
-      "added_at": "2022-02-24 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "SAD TONIGHT",
         "url": "https://open.spotify.com/album/1sEFcm69RjygXdgoOKg5G4"
@@ -1049,7 +1045,7 @@
       "url": "https://open.spotify.com/track/7w8hDQenP6Q6etA4PGNbz2"
     },
     {
-      "added_at": "2021-12-16 23:01:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Phakade Lami",
         "url": "https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9"
@@ -1073,7 +1069,7 @@
       "url": "https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S"
     },
     {
-      "added_at": "2022-02-24 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d"
@@ -1089,7 +1085,7 @@
       "url": "https://open.spotify.com/track/3gUNco4uLKydiO0smv2EJR"
     },
     {
-      "added_at": "2022-02-03 23:02:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/4bRnHj1ApFBEVMbvEw4H7E"
@@ -1109,7 +1105,7 @@
       "url": "https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Ginger",
         "url": "https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5"
@@ -1125,7 +1121,7 @@
       "url": "https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF"
     },
     {
-      "added_at": "2022-04-28 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Is It Love?",
         "url": "https://open.spotify.com/album/4MgeGr34ni6NO5MEPAQ0Tz"
@@ -1145,7 +1141,7 @@
       "url": "https://open.spotify.com/track/2Lbfend8u6ccFu2zMFpPxF"
     },
     {
-      "added_at": "2022-04-21 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Doorstep",
         "url": "https://open.spotify.com/album/2KqhIundDwNL9zo85Dj6d4"
@@ -1165,7 +1161,7 @@
       "url": "https://open.spotify.com/track/3z9mt4k1wRSkHmBDfqUqIr"
     },
     {
-      "added_at": "2021-11-11 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Nikita",
         "url": "https://open.spotify.com/album/5L2vzVovIvzKKXD2nAYZtr"
@@ -1181,7 +1177,7 @@
       "url": "https://open.spotify.com/track/7giomsoZgEbXFNTqS8Y683"
     },
     {
-      "added_at": "2022-03-11 00:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "My WorlD With U",
         "url": "https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm"
@@ -1197,7 +1193,7 @@
       "url": "https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v"
     },
     {
-      "added_at": "2022-04-21 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Catch A Vibe",
         "url": "https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs"
@@ -1217,7 +1213,7 @@
       "url": "https://open.spotify.com/track/3zTObKcN6vfo9teWsKCU34"
     },
     {
-      "added_at": "2022-02-11 00:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Stalling",
         "url": "https://open.spotify.com/album/0IMyl9QsHEcb5B8PQsgEHG"
@@ -1233,7 +1229,7 @@
       "url": "https://open.spotify.com/track/1iSiayhy8ewrs7Bb2g0du4"
     },
     {
-      "added_at": "2021-10-08 05:25:26",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
@@ -1261,7 +1257,7 @@
       "url": "https://open.spotify.com/track/6TyFIUgedV7EkYdk6nS4aw"
     },
     {
-      "added_at": "2021-12-02 23:01:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "So Bad",
         "url": "https://open.spotify.com/album/5RWXh09si3FvJUE5RSH87k"
@@ -1281,7 +1277,7 @@
       "url": "https://open.spotify.com/track/0ed1N5H2xW64WEmRjF2ONv"
     },
     {
-      "added_at": "2021-11-15 10:10:44",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Baby Riddim",
         "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
@@ -1297,7 +1293,7 @@
       "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
     },
     {
-      "added_at": "2021-09-09 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Crazy Tings",
         "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
@@ -1313,7 +1309,7 @@
       "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
-      "added_at": "2022-03-03 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS"
@@ -1333,7 +1329,7 @@
       "url": "https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR"
     },
     {
-      "added_at": "2022-03-11 00:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Beauty In The Madness",
         "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
@@ -1357,7 +1353,7 @@
       "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
     },
     {
-      "added_at": "2021-05-21 05:36:09",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Effects Of Thoughts",
         "url": "https://open.spotify.com/album/0ZuwDdFNfDG6bCRmGyLpPa"
@@ -1373,7 +1369,7 @@
       "url": "https://open.spotify.com/track/78ACXVGjnl6C0R8IbMhePg"
     },
     {
-      "added_at": "2022-02-11 00:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Aibu",
         "url": "https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC"
@@ -1393,7 +1389,7 @@
       "url": "https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E"
     },
     {
-      "added_at": "2021-11-04 23:01:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Was It Something I Said?",
         "url": "https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi"
@@ -1409,7 +1405,7 @@
       "url": "https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE"
     },
     {
-      "added_at": "2021-05-21 05:36:09",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/3Lk51jNfQewZIGuTvvE8uk"
@@ -1425,7 +1421,7 @@
       "url": "https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju"
     },
     {
-      "added_at": "2022-02-24 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD"
@@ -1445,7 +1441,7 @@
       "url": "https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi"
     },
     {
-      "added_at": "2022-04-21 23:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Your Dream",
         "url": "https://open.spotify.com/album/0Gpl5YL9YKbvGbDe3xuGks"
@@ -1465,7 +1461,7 @@
       "url": "https://open.spotify.com/track/5adGSGSECey89gMxhbm1tZ"
     },
     {
-      "added_at": "2022-03-11 00:00:00",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "My WorlD With U",
         "url": "https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm"
@@ -1485,7 +1481,7 @@
       "url": "https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9"
     },
     {
-      "added_at": "2021-06-18 09:55:45",
+      "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Anchor Baby",
         "url": "https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1"

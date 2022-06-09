@@ -4,7 +4,7 @@
 
 > Relaxing jazz on a warm summer day.
 
-129 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
+132 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [I'm An Old Cowhand](https://open.spotify.com/track/1HBrYLUou9PbQDp91wVA9f) | [The Josh Rogers Band](https://open.spotify.com/artist/4zfTyFGyjLJd9vAbxqTuNg) | [Love Letters](https://open.spotify.com/album/6f6WVUeFK2hnBn7TfefGWJ) | 2:23 | 2022-02-16 |  |
 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/5aiwRlBHsL5Gq6qCdPAFzM) | [Lady Luck Trio](https://open.spotify.com/artist/6Qm9vphqbolUkkRINZk5BS) | [I Wish I Knew](https://open.spotify.com/album/1lEpsN0KgGGljcFuZ0DtXE) | 6:00 | 2022-02-16 |  |
 | [I'm in the Mood for Love](https://open.spotify.com/track/5mmeNg2rN1v5VPvgO43uRT) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [I'm in the Mood for Love](https://open.spotify.com/album/7ps9PviK3EPPUJbZ7hPrsi) | 4:14 | 2022-05-24 |  |
+| [I've Grown Accustomed To Your Face](https://open.spotify.com/track/5D9zI5bZ2XgFDEYdqGrHnP) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [I've Grown Accustomed To Your Face](https://open.spotify.com/album/3ecnXHWiMR4xIF94MCd9p2) | 3:13 | 2022-06-08 |  |
 | [I've Never Been in Love Before](https://open.spotify.com/track/7bsrxWD78NPHkQGdWDtVKA) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [I've Never Been in Love Before](https://open.spotify.com/album/1X73HhmwH7gDohGimuAagb) | 3:46 | 2022-02-16 |  |
 | [If You Say Goodbye](https://open.spotify.com/track/2spKTHzzPhXETINp5L43JY) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Don't Leave Me Alone](https://open.spotify.com/album/1dhSMp8BQM346Re594UVIq) | 3:00 | 2022-02-16 | 2022-05-25 |
 | [In The Wee Small Hours Of The Mornin](https://open.spotify.com/track/7xOTO27JomMqWgzaeyD7WQ) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [In The Wee Small Hours Of The Mornin](https://open.spotify.com/album/2t1AH1fXeiYZBUOUQsoZ8r) | 3:43 | 2022-02-16 |  |
@@ -103,6 +104,7 @@
 | [Some Other Time](https://open.spotify.com/track/0oEIrVWpLj01XtFtDitQyR) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 4:59 | 2022-02-16 | 2022-06-01 |
 | [Someone To Watch Over Me](https://open.spotify.com/track/3Gcpi1CwKoQtc8B3H2ZOIX) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [Lee Konitz Meets Jimmy Giuffre](https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs) | 3:36 | 2022-02-16 |  |
 | [Sommarnattens Skeende](https://open.spotify.com/track/7gNdDvceGxqrxqdc1bDErq) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [Sommarnattens Skeende](https://open.spotify.com/album/6CilisEhyJTony3qpY89nK) | 3:32 | 2022-02-16 |  |
+| [Song of The Sirens](https://open.spotify.com/track/6SNXb4pUG3LjS2601AKT3G) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Song of The Sirens](https://open.spotify.com/album/4pBG3KdjOugx20kMiSGTmP) | 3:35 | 2022-06-08 |  |
 | [Speak Low](https://open.spotify.com/track/4qY2rgB6SJM9F1RPaLeGcz) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:41 | 2022-02-16 |  |
 | [Spring Fling](https://open.spotify.com/track/1p0jkWytxejDWCaovqjlGs) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Spring Fling](https://open.spotify.com/album/1btJwiyroPlhKuQJb2EypQ) | 2:30 | 2022-02-16 |  |
 | [Stardust](https://open.spotify.com/track/7FeEoTg5tsJtTc8fu0PjDf) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Two Of A Mind](https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn) | 8:23 | 2022-02-16 |  |
@@ -128,6 +130,7 @@
 | [Vivendo](https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9) | [Moreno Jazz Band](https://open.spotify.com/artist/51dajqv8SXCyNO6L6rAxxr) | [Vivendo](https://open.spotify.com/album/65VTQBcky8wU4eYYYXYlRl) | 3:19 | 2022-02-16 |  |
 | [Volare](https://open.spotify.com/track/5wrPY0DoczKtiaqLtozTmc) | [Ellie Johnson Trio](https://open.spotify.com/artist/7a6Eji3kBivaMHQo3Yk6Zx) | [Street of Dreams](https://open.spotify.com/album/74J2vRQmnkZpwsswq1pFCT) | 3:13 | 2022-02-16 |  |
 | [Walking on Clouds](https://open.spotify.com/track/6R1XRia3u8IRBaHs6LBBGr) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Walking On Clouds](https://open.spotify.com/album/6hH88gvmgvTtEIsLVdarSD) | 2:02 | 2022-02-16 |  |
+| [Watch What Happens](https://open.spotify.com/track/3C8LKleDein4hf61QPoWg5) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Crossways](https://open.spotify.com/album/5wS9f4r6IGfxyluF1ykXtG) | 2:57 | 2022-06-08 |  |
 | [West Indian Flower](https://open.spotify.com/track/5eLkBcO6S7bgwA5YPeHEpW) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [West Indian Flower](https://open.spotify.com/album/5ACzGoG0sbnZvWT5Pt4QBL) | 4:51 | 2022-02-16 |  |
 | [What Is This Thing Called Love](https://open.spotify.com/track/3cXOEALLyoASwgS6a57sz3) | [David Robinson Trio](https://open.spotify.com/artist/30yWMvpb5wptJ24GUL7gzj) | [Milestones](https://open.spotify.com/album/02m2hFXOv5XVJ0Z22llXLh) | 3:18 | 2022-02-16 |  |
 | [When I Fall In Love](https://open.spotify.com/track/7wAFHu3ueBLEebC5NEOk9z) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [When I Fall In Love](https://open.spotify.com/album/6rCnmJjhEashCYVazkSK7g) | 4:49 | 2022-02-16 |  |

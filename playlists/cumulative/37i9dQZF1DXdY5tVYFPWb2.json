@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 215913,
       "name": "AURORA TOKIO",
       "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 264466,
       "name": "BLIZZARD (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/7fK4beOeMicuDybE4TupFm"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 245653,
       "name": "CITY FLIGHT",
       "url": "https://open.spotify.com/track/0XyD2MgwzwuNBVugOhnpek"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 207006,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 227215,
       "name": "FLOWERS",
       "url": "https://open.spotify.com/track/2EiA587apVmlS9wbch4vti"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 228960,
       "name": "Jubilee",
       "url": "https://open.spotify.com/track/4GvzdbMFTbxMavCVbE9yF2"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 298999,
       "name": "KISS",
       "url": "https://open.spotify.com/track/3tVxy9ELaFCugIRJZuTZZA"
@@ -850,6 +850,24 @@
     },
     {
       "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+      },
+      "artists": [
+        {
+          "name": "sangdei",
+          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192115,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
+    },
+    {
+      "album": {
         "name": "Natsume",
         "url": "https://open.spotify.com/album/1zDuHfKUHI0SRimAdD8whm"
       },
@@ -861,7 +879,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 157999,
       "name": "Natsume",
       "url": "https://open.spotify.com/track/5Kk3UOcmc6uHuFIf1yI7il"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 209866,
       "name": "One Way feat. YONCE",
       "url": "https://open.spotify.com/track/4MurygBmG61XN24T1VbQQy"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 209285,
       "name": "Rainy Talk",
       "url": "https://open.spotify.com/track/0ttL7VeLEqQYVhimPKlqZM"
@@ -1078,6 +1096,24 @@
     },
     {
       "album": {
+        "name": "Smoking Time",
+        "url": "https://open.spotify.com/album/7EjmHYZ0G6p7GpXRanHJ9A"
+      },
+      "artists": [
+        {
+          "name": "THREE1989",
+          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269103,
+      "name": "Smoking Time",
+      "url": "https://open.spotify.com/track/4lArdXTdlROm7xXtVYgEM6"
+    },
+    {
+      "album": {
         "name": "SOSOGU",
         "url": "https://open.spotify.com/album/1FERVrFwHGs6S6BoEd0q64"
       },
@@ -1107,7 +1143,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 265493,
       "name": "Space Traveler",
       "url": "https://open.spotify.com/track/6Vw38ZQiy5cfij2BOokGk1"
@@ -1245,7 +1281,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 297444,
       "name": "Watching Over You",
       "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
@@ -1285,7 +1321,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 227500,
       "name": "You Are Right",
       "url": "https://open.spotify.com/track/4SQZHCACaK0ND5eboX1Xgu"
@@ -1303,7 +1339,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 171500,
       "name": "YOU+ME=",
       "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
@@ -1321,7 +1357,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 251600,
       "name": "\u3042\u306a\u305f\u3086\u305a\u308a",
       "url": "https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3"
@@ -1441,7 +1477,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 205478,
       "name": "\u308f\u305f\u3057\u306eLife",
       "url": "https://open.spotify.com/track/3aFQiQbnIL9upNOOKc54tN"
@@ -1539,7 +1575,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 274587,
       "name": "\u30b9\u30a6\u30a3\u30fc\u30c8\u30fb\u30bd\u30a6\u30eb\u30fb\u30ec\u30f4\u30e5\u30fc (duet with Rainych, feat. evening cinema)",
       "url": "https://open.spotify.com/track/7zc7YIxrfTzXSXTe6oQKwH"
@@ -1579,7 +1615,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 206548,
       "name": "\u30c0\u30fc\u30b8\u30ea\u30f3 - Bousi Studio Remix",
       "url": "https://open.spotify.com/track/64UaJY4n99ZKSHIq82KOtk"
@@ -1633,7 +1669,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 295453,
       "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6 - 12\" Original Length ReMix",
       "url": "https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N"
@@ -1691,7 +1727,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 370573,
       "name": "\u4e00\u756a\u306b\u6559\u3048\u305f\u3044",
       "url": "https://open.spotify.com/track/3a9aeC4sGtDTPI47MaqUP9"
@@ -1749,7 +1785,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 251741,
       "name": "\u591c\u884c\u6027 feat. \u8521\u5fe0\u6d69",
       "url": "https://open.spotify.com/track/3NCWb3k382tplUsQdHUz6Y"
@@ -1941,7 +1977,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 239300,
       "name": "\u697d\u5712",
       "url": "https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W"

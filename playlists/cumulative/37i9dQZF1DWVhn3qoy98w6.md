@@ -2,7 +2,7 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Lucas Bun
+> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Karlisha
 
 706 songs - 1 day 14 hr 4 min - [published](https://open.spotify.com/playlist/7MpPM792xGwpKouYtEsju9)
 

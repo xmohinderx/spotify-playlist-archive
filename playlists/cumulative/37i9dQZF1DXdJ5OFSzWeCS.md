@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-381 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/1fzLEPXbNRV5WhwUmgxpLC)
+387 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/1fzLEPXbNRV5WhwUmgxpLC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Baby Runway](https://open.spotify.com/track/622MUzx4doeLxvukoJsSRb) | [Rebecca Harland](https://open.spotify.com/artist/3ZmFjCJlv8hWPhq0Rl9d7k) | [Teddy and Turtle](https://open.spotify.com/album/5z88ANBJ5TLUfalIBe4hlm) | 1:38 | 2022-02-10 |  |
 | [Baby Shark](https://open.spotify.com/track/0P9Rp4qsr2jsgHjMTp8x3m) | [Rebecca Saylor](https://open.spotify.com/artist/3TsSACF1ONolmTjD3AEXVX) | [Camptown Races](https://open.spotify.com/album/1fC2JLhUcyVOWSJrexxD8L) | 1:37 | 2022-05-16 |  |
 | [Baby's First Dance](https://open.spotify.com/track/1cLvdb4NxiH6J8E9TEvaAy) | [Sophie Marling](https://open.spotify.com/artist/3GPp8tfkfcdVt01Nr8dkAB) | [A Bedtime Smile](https://open.spotify.com/album/7jArIkZyJHSZqzN0nvt4Di) | 2:09 | 2022-02-10 |  |
-| [Bartram's Garden](https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Bartram's Garden](https://open.spotify.com/album/1SRli8CCpxMiaYuPgfR8qa) | 2:23 | 2022-02-10 |  |
+| [Bartram's Garden](https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Bartram's Garden](https://open.spotify.com/album/1SRli8CCpxMiaYuPgfR8qa) | 2:23 | 2022-02-10 | 2022-06-09 |
 | [Bathtub Bubbles](https://open.spotify.com/track/1S6J09BrtlBvNrVrsCcetX) | [Calista Barrett](https://open.spotify.com/artist/3XfWyEYMiQxHvtAXl3m1ih) | [Bathtub Bubbles](https://open.spotify.com/album/5rX74hWYklaDCznJWE40Bs) | 1:28 | 2022-02-10 |  |
 | [Becoming Aware](https://open.spotify.com/track/230wJHD5YU7cSDWjyWWcoD) | [Ari Naman](https://open.spotify.com/artist/5JAfV3egghH0G8VAjzk0Ch) | [Becoming Aware](https://open.spotify.com/album/6EE3Q2XDesdujjVrMyzlAy) | 1:36 | 2022-02-10 |  |
 | [Beddy Byes](https://open.spotify.com/track/6l06Tk5WSa5Ebaqx4daEMy) | [Tammy Madison](https://open.spotify.com/artist/1agrSvX42t5Gd0Poo68KcC) | [Beddy Byes](https://open.spotify.com/album/3NoF0MkTUrb0ic3suY4x04) | 1:42 | 2022-02-10 |  |
@@ -151,13 +151,18 @@
 | [Harry the Sleepy Hippo](https://open.spotify.com/track/4qY2sC5Y7P32GWYykI7B9x) | [Haleema Andrews](https://open.spotify.com/artist/2NfeYG57SY7w0whb8XUXcm) | [Harry the Sleepy Hippo](https://open.spotify.com/album/1fLqFWn2aqIiJd45FITYDf) | 1:02 | 2022-02-10 |  |
 | [Harry's Lullaby](https://open.spotify.com/track/0VV400L9kiXKb7HQVysEPS) | [Vanesa Cino](https://open.spotify.com/artist/0BnGXOVjMAhQcIWPkYCSVo) | [Harry's Lullaby](https://open.spotify.com/album/4TzEYjhlZOJWGkCNbvIIhN) | 1:12 | 2022-02-10 |  |
 | [Have You Seen My New Hat ?](https://open.spotify.com/track/1U94Iv2wCeeQdUA2bTS763) | [Maryon Jennings](https://open.spotify.com/artist/1se3GbDEI02N7abqldFqC1) | [Have You Seen My New Hat ?](https://open.spotify.com/album/3Oc2vuU6CyAuZ6W6EOBNEe) | 1:10 | 2022-02-10 |  |
-| [Head Shoulders Knees And Toes](https://open.spotify.com/track/31V9WShUNiw0m0o0yTe9s3) | [Carter Patterson](https://open.spotify.com/artist/0Q1CgGcVi6SOYB2J16Wp22) | [Head Shoulders Knees And Toes](https://open.spotify.com/album/0tghhD3fSxuZwtplbZoMKg) | 1:51 | 2022-02-10 |  |
+| [He's Got The Whole World In His Hands](https://open.spotify.com/track/1yORtm7rFuXQwQEA8kFIxr) | [Holly Holiday](https://open.spotify.com/artist/7zuuBpzz0Y0GmcgCGP4UJe) | [All the Pretty Little Horses](https://open.spotify.com/album/0NcfeypM03bruqV4o5ENYb) | 1:36 | 2022-06-08 |  |
+| [Head Shoulders Knees And Toes](https://open.spotify.com/track/31V9WShUNiw0m0o0yTe9s3) | [Carter Patterson](https://open.spotify.com/artist/0Q1CgGcVi6SOYB2J16Wp22) | [Head Shoulders Knees And Toes](https://open.spotify.com/album/0tghhD3fSxuZwtplbZoMKg) | 1:51 | 2022-02-10 | 2022-06-09 |
+| [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/3Oj7B6ZCSa5TMu7tvXS0En) | [Little Sugar Piano](https://open.spotify.com/artist/1qUlqHISkBjUryDH3m69xw) | [Head, Shoulders, Knees and Toes](https://open.spotify.com/album/0KPYZtsNHup7cSxDfbgnAG) | 1:51 | 2022-06-08 |  |
 | [Here and Now](https://open.spotify.com/track/37OI6ky8R9ZjEBnr77tIai) | [Bobbi Rafferty](https://open.spotify.com/artist/0m9pUjmNedBWPtNVf0ZVlt) | [Here and Now](https://open.spotify.com/album/0DuLIM02jLW7ZbpKNK6MJU) | 1:31 | 2022-02-10 |  |
+| [Hey Diddle Diddle](https://open.spotify.com/track/60SZfskdGikre1zIj1Gv0v) | [Grant Littleton](https://open.spotify.com/artist/3E3lYC2lzd6qqvKet09ZkA) | [Humpty Dumpty](https://open.spotify.com/album/2ZyOawyfUZIh4CLud2qcnx) | 1:41 | 2022-06-08 |  |
 | [Hide and Seek](https://open.spotify.com/track/6lsADUk8BszOpWlAm4h7NO) | [Monty Monte](https://open.spotify.com/artist/1EIGA4peNLm3OyRlYVGZMi) | [Hide and Seek](https://open.spotify.com/album/0TmyiJrOYFPIkeFTeFock1) | 1:29 | 2022-02-10 |  |
 | [Ho Hey](https://open.spotify.com/track/3dlA9HQfeOu8v2imrO4LIh) | [Anastasia Knight](https://open.spotify.com/artist/26vHNLSCd3e0hcplHwNc6g) | [Ho Hey](https://open.spotify.com/album/6KoEQ7bdnNLm4cvQXuipQN) | 1:55 | 2022-04-25 |  |
 | [Hold Your Hand](https://open.spotify.com/track/3E2XQBhF15JCXjEmDiLpD3) | [Jenifer Layne](https://open.spotify.com/artist/33hBOxkn6uwTrhH5UMZ812) | [Hold Your Hand](https://open.spotify.com/album/4AvJ6gRSv0K4x3eQzFt58O) | 2:11 | 2022-02-10 |  |
+| [Home On The Range](https://open.spotify.com/track/3tWEhxmRQ0fs4fxCfNqP3n) | [Little Sugar Piano](https://open.spotify.com/artist/1qUlqHISkBjUryDH3m69xw) | [Head, Shoulders, Knees and Toes](https://open.spotify.com/album/0KPYZtsNHup7cSxDfbgnAG) | 2:52 | 2022-06-08 |  |
 | [How Big I Can Be](https://open.spotify.com/track/588UhdDUFWbKmNUMUXnp4Y) | [Maureen Dubose](https://open.spotify.com/artist/0LGtUk1yFtNM99TX7JS01N) | [How Big I Can Be](https://open.spotify.com/album/0wvBnlYgEEiMuiwlGmUlJA) | 1:26 | 2022-02-10 |  |
 | [How Lucky I Am](https://open.spotify.com/track/40FNjB66GuQn0X9amaFg3c) | [Sally Mosley](https://open.spotify.com/artist/295JYYcySsKgR1bbi5QQGC) | [How Lucky I Am](https://open.spotify.com/album/7ukY8WjDFEuXmTPAtzcA0t) | 2:05 | 2022-02-10 |  |
+| [How Much Is That Doggie In the Window](https://open.spotify.com/track/38kmnBV7MrayOE59u6wozY) | [Tom Tilly](https://open.spotify.com/artist/7HPp7WF50ubbdWOHeWqhuc) | [Heart and Soul](https://open.spotify.com/album/46effNjzUb6VxwqnP16qHY) | 2:34 | 2022-06-08 |  |
 | [Humpty Dumpty](https://open.spotify.com/track/5YtkuqzGtGMxxmHI7lwu8X) | [Prosper Harland](https://open.spotify.com/artist/4BQgplBqqabnALZP6eciPw) | [Humpty Dumpty](https://open.spotify.com/album/2ppKJjyJYrFZ1hNRlWCrzb) | 1:52 | 2022-02-10 |  |
 | [Hush Little Baby](https://open.spotify.com/track/4qshSUTSmcdgrMNyxgk2P2) | [Lucy Atkinsons](https://open.spotify.com/artist/1HnA251nGSo3HKytG6W6A1) | [Hush Little Baby](https://open.spotify.com/album/2rSEk9YJMXq6UiRzm7pT7a) | 1:17 | 2022-02-10 |  |
 | [Hymn](https://open.spotify.com/track/4FOhzTO7AErvRzEmI08qTv) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Amélie](https://open.spotify.com/album/49DC7zrTAsk81BJdFxrKJM) | 2:23 | 2022-02-10 |  |
@@ -166,6 +171,7 @@
 | [I drömmarnas land](https://open.spotify.com/track/4bp7iq0k2wMbeOl8f8HwkU) | [Daavid Laaksonen](https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK) | [I drömmarnas land](https://open.spotify.com/album/1EbhNmd7YpD4pvYX7KhroR) | 1:53 | 2022-02-10 |  |
 | [I Ett Hus Vid Skogens Slut](https://open.spotify.com/track/04FI1E17qnSiqO54mxH6Ah) | [Pontus Holt](https://open.spotify.com/artist/1RlTiQLa9gLES77OPf1ymC) | [Vaggvisor För De Små](https://open.spotify.com/album/5ZLBT2cIEDEPBS5hbLMCeD) | 1:49 | 2022-02-10 |  |
 | [I Love The Mountains](https://open.spotify.com/track/5sXKgtNFEzKRIFmOwIPE9e) | [Victoria Hall](https://open.spotify.com/artist/7lXNgd3DBtJa3cPVDvWWYM) | [I Love The Mountains](https://open.spotify.com/album/187mh5KfV5JLnbd1dSaWnk) | 1:33 | 2022-02-10 |  |
+| [I'm A Little Teapot](https://open.spotify.com/track/06RzCGm2cRB45iAa23ib7L) | [Piers Lancaster](https://open.spotify.com/artist/5JTYz3CN60YGOCeXTEgTyY) | [London Bridge Is Falling Down](https://open.spotify.com/album/3Oh0JwjTmPw6bCKPi1jRoM) | 1:47 | 2022-06-08 |  |
 | [Ich Liebe Dich So, Wie Du Bist](https://open.spotify.com/track/5YcXW903sIPHpZJbgJTQqz) | [Verna Fuller](https://open.spotify.com/artist/7yOLgQOK7gR1w8tnQp2Ubx) | [Ich Liebe Dich So, Wie Du Bist](https://open.spotify.com/album/4mplyEdIBo02nODsgxcXiJ) | 1:53 | 2022-02-10 |  |
 | [If all the stars](https://open.spotify.com/track/0GBs2JDRjfTRYrrc9Uz2d5) | [Hyrum Spears](https://open.spotify.com/artist/2YGxKYE79CxjJ5sZXbneNl) | [If all the stars](https://open.spotify.com/album/5tadPKvNz2LHrL2ZeUVDVd) | 1:45 | 2022-02-10 |  |
 | [If Apples Were Pears](https://open.spotify.com/track/2VKDzfPKBkPHi09Ig5e0Vl) | [Lilian Calloway](https://open.spotify.com/artist/0VPHCYIMH42KbGySN6m6iY) | [If Apples Were Pears](https://open.spotify.com/album/3RGBOqTPIKLpQi6hhBqW6t) | 1:49 | 2022-02-10 |  |

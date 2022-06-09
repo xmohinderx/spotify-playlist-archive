@@ -9200,6 +9200,24 @@
     },
     {
       "album": {
+        "name": "Wait Up",
+        "url": "https://open.spotify.com/album/1vodStDlRmay0I5Wbfdjng"
+      },
+      "artists": [
+        {
+          "name": "Neffy",
+          "url": "https://open.spotify.com/artist/75Qz8WXumn9ghkXDwpj34N"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191700,
+      "name": "Wait Up",
+      "url": "https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY"
+    },
+    {
+      "album": {
         "name": "Lullabies for Adults & Children",
         "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
       },

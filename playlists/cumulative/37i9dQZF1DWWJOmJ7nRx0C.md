@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Falling In Reverse
 
-314 songs - 18 hr 45 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+315 songs - 18 hr 49 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [So Low](https://open.spotify.com/track/1iDXOj6hRBQs2hDrHHMvpn) | [S.A.M.](https://open.spotify.com/artist/4434osAFvB28p0YBv6jREZ) | [So Low](https://open.spotify.com/album/0eNtHoUROnRgZvcDn0l3WK) | 3:36 | 2021-06-25 | 2022-02-12 |
 | [SOLD OUT](https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SOLD OUT](https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm) | 3:22 | 2022-04-01 |  |
 | [sorry i'm not dead](https://open.spotify.com/track/6GF1LMFAQpWpKNMJ5LYrrF) | [Dead Posey](https://open.spotify.com/artist/7qTUKYzO77RvL1Kxie0xUO) | [sorry i'm not dead](https://open.spotify.com/album/5YW6ucfSb6mgmYhodmYtqo) | 3:40 | 2021-11-19 |  |
+| [SOS](https://open.spotify.com/track/43AG34Hsu3k5sSwGYOWpBP) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [SOS](https://open.spotify.com/album/2oAnV3Zd5txIhmfUGX5fu2) | 3:39 | 2022-06-08 |  |
 | [Stand Up](https://open.spotify.com/track/43MmTgHQ9kf5AK6JpjPQQc) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:48 | 2022-05-06 |  |
 | [Stand Up](https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Stand Up](https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5) | 3:48 | 2022-01-21 | 2022-04-09 |
 | [Standing in the Storm](https://open.spotify.com/track/5ABl9GeMcWog9Yrur3P9Jq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Standing in the Storm / Surviving The Game](https://open.spotify.com/album/3cIRw4SnfPO2TXVJK8C1nG) | 4:17 | 2021-11-12 | 2022-01-08 |

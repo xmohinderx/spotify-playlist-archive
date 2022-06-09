@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: JO YURI
+> Future K\-Pop hits! Cover: Son Dong Woon
 
-568 songs - 1 day 7 hr 47 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+569 songs - 1 day 7 hr 51 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [GOTCHA](https://open.spotify.com/track/4mgkQnzI5XlVYgXoJGySwc) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [MESSAGE](https://open.spotify.com/album/3DNboyISLbyI3f5s6RHxDT) | 3:24 | 2020-11-05 | 2021-04-22 |
 | [GOTTA GO](https://open.spotify.com/track/7Gb3K6a2YyJTf7j0UTf9jJ) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [GOTTA GO](https://open.spotify.com/album/5e8KAB3PANlikarQhJnLUu) | 3:26 | 2020-10-13\* | 2020-10-22 |
 | [GRATATA](https://open.spotify.com/track/5r5DHrJRw6q06N2aeHNczb) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ISSUE MAKER](https://open.spotify.com/album/0bcO16vVhZRSHou0ls0Wd1) | 3:12 | 2021-05-05 | 2021-06-25 |
-| [Grey Suit](https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 3:42 | 2022-04-04 |  |
+| [Grey Suit](https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 3:42 | 2022-04-04 | 2022-06-09 |
 | [Guard You](https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:17 | 2021-09-07 | 2021-10-13 |
 | [GUNSHOT](https://open.spotify.com/track/4qMt92hgQlJMyJjdI0Nw2h) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 1st Single ‘Way With Words’](https://open.spotify.com/album/23qHJjHFUstyeqN9oHotCI) | 3:01 | 2020-10-13\* | 2021-03-01 |
 | [HANA](https://open.spotify.com/track/1b2p57Q3RtuSYkmLIHs3jl) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [DIMENSION](https://open.spotify.com/album/2C4tl17a4f1oXbUPl2fymv) | 3:18 | 2022-03-21 | 2022-04-18 |
@@ -468,7 +468,7 @@
 | [Summertime \(Feat\. Keem Hyoeun\)](https://open.spotify.com/track/7oK8KEekZqC9aHmFiKS1i9) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p) | [Summertime](https://open.spotify.com/album/4NrnglBZ27dnRl3VCTpG3B) | 3:44 | 2021-07-16 | 2021-08-25 |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-02-03 | 2022-04-09 |
 | [SUPADUPA](https://open.spotify.com/track/0rzOt0WKIC2JcMD06OHWsQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [PO\~MYGIRL](https://open.spotify.com/album/5XsxSx1C8PSdv9ygcqtL6v) | 2:57 | 2020-10-13\* | 2020-11-05 |
-| [Switch](https://open.spotify.com/track/2muZNT1f0eVDC6qbCto2Ma) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [3RD DESIRE \[Reve\]](https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY) | 3:23 | 2022-03-11 |  |
+| [Switch](https://open.spotify.com/track/2muZNT1f0eVDC6qbCto2Ma) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [3RD DESIRE \[Reve\]](https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY) | 3:23 | 2022-03-11 | 2022-06-09 |
 | [Switch It Up \(feat\. sokodomo\) \- Prod\. Cha Cha Malone](https://open.spotify.com/track/1m1ho1lkZHAGe7rv5K8Ift) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [Switch It Up \(feat\. sokodomo\) \[Prod\. Cha Cha Malone\]](https://open.spotify.com/album/5mFDH66iKlo3pBjMSRxddK) | 3:35 | 2021-05-15 | 2021-07-14 |
 | [Switch to me \(duet with JYP\)](https://open.spotify.com/track/1LjhBbl5MvGz2rYcz5Fhgm) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [Switch to me \(duet with JYP\)](https://open.spotify.com/album/3XnNc5DV6LdZODUjV3YJVp) | 3:17 | 2020-12-31 | 2021-03-01 |
 | [TAIL](https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [TAIL](https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz) | 3:10 | 2021-02-23 | 2021-05-18 |
@@ -496,6 +496,7 @@
 | [Tiger Inside](https://open.spotify.com/track/2TENPSXQkWNgEFxmi4PRWE) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [Tiger Inside](https://open.spotify.com/album/38FEnRZ38L0fyCZjaV0wxm) | 3:29 | 2020-10-13\* | 2021-03-10 |
 | [TIKI TAKA](https://open.spotify.com/track/6sPPNhpEwwWte3OJslsr0f) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Re:T\-ARA](https://open.spotify.com/album/1GTkiHxMFTVC9K9Zf2aoxU) | 3:16 | 2021-11-19 | 2022-01-13 |
 | [TO BE OR NOT TO BE](https://open.spotify.com/track/2KGUQQwqIBTDKrHeR85Ahp) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [LIVED](https://open.spotify.com/album/0mSy6jNUnvlE1xiUFbx8Dm) | 3:47 | 2020-10-13\* | 2021-01-21 |
+| [Today's Weather](https://open.spotify.com/track/5qFmtbxP5KjekiXwv0axsh) | [Son Dong Woon](https://open.spotify.com/artist/5UzpNJd6zHGN9syxBN8fRY) | [Happy Birthday](https://open.spotify.com/album/0NKjnMeZCTbRLZrMsbuMYg) | 3:06 | 2022-06-08 |  |
 | [tonight](https://open.spotify.com/track/3mGUt1nZio6sZjCHmcxQz1) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Vol.5](https://open.spotify.com/album/2OGD6TvczAOm8AJk0V21cU) | 2:42 | 2021-10-06 | 2021-11-12 |
 | [Too Bad](https://open.spotify.com/track/4Xv8foqi6HXnQURBR0FdAZ) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Love Pt.1 : First Love](https://open.spotify.com/album/77eiNb82HouMWEiK2xe3sp) | 3:16 | 2022-03-21 | 2022-06-01 |
 | [Trauma](https://open.spotify.com/track/1kvcWkI3m8L6F7EFheV8lM) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [RUMINATION](https://open.spotify.com/album/23F2thvLl5vJvxD5fG4yRm) | 3:21 | 2021-11-24 | 2022-02-18 |

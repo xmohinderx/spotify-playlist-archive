@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular animation & webtoon OSTs now! \(Cover: Love Revolution\(연애혁명\)\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,670 likes - 58 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,852 likes - 58 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

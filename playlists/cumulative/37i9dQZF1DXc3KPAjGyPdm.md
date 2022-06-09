@@ -4,7 +4,7 @@
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-180 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/46rHkOw5I8WIIcWUUhwmZN)
+182 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/46rHkOw5I8WIIcWUUhwmZN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,8 @@
 | [I Was A Teenage Werewolf](https://open.spotify.com/track/43StRaT5CenByVyJWFdGp3) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:03 | 2022-05-27 |  |
 | [I'm Taking off \(Shield Your Eyes\)](https://open.spotify.com/track/1Nw16im3KSKlWZpIwuXZAv) | [Space Knife](https://open.spotify.com/artist/3XdNLIFjXuqP4qUrls2WrL) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/7fDEvGP4Kgip4FhjBIYdAn) | 2:28 | 2017-12-20 |  |
 | [In the Good Old Summertime](https://open.spotify.com/track/6ESYtjqLIhkuTwylmrsbrL) | [Wurlitzer 146 Carousel Organ](https://open.spotify.com/artist/2StuIA08BlcNvwLSUoqzgz) | [Good Old U.S.A\. Wurlitzer Carousel Music, Vol\. 1](https://open.spotify.com/album/4Andu4zH8RxPWunlvcoQcx) | 2:13 | 2019-07-10 |  |
+| [In Transit to Bermuda](https://open.spotify.com/track/21NipBIcS2PhxHwBPauGCw) | [Dorian Zero](https://open.spotify.com/artist/0ObztW0DmBT3xKrctHY3N3) | [In Transit to Bermuda](https://open.spotify.com/album/3mxDsZ0mT8filFQoadnkRQ) | 3:22 | 2022-06-08 |  |
+| [Into Hell](https://open.spotify.com/track/6aLzFJ47h8xvOONE6xcX47) | [Makeup And Vanity Set](https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3) | [Brigador \(Volume II\)](https://open.spotify.com/album/7bPwLkab9rKFDfDxl1GcMT) | 6:48 | 2022-06-08 |  |
 | [Is It a Sin](https://open.spotify.com/track/6iCYe4DASrT64Pk4VFooeU) | [Al Hazan](https://open.spotify.com/artist/7qwaiCaE4p70SnI5XB9E8j) | [The Sixties, Volume 1](https://open.spotify.com/album/1aWmO7RL4EfHaUm69kmWx2) | 2:21 | 2019-07-10 |  |
 | [It's a Trap](https://open.spotify.com/track/1cVrshwNQpLB3lVSLzeZnL) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 2:57 | 2017-12-20 |  |
 | [It's Just Ice](https://open.spotify.com/track/4mfLt3g1xUCQx44jzImphW) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 4:00 | 2019-07-10 |  |
@@ -136,7 +138,7 @@
 | [Sauna Test](https://open.spotify.com/track/64sd7wZyH8X2JmjzJfD1v8) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 0:59 | 2019-07-10 |  |
 | [Scoops Troop](https://open.spotify.com/track/2xowT3VWuuf4ThSRbQDL5J) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:45 | 2019-07-10 |  |
 | [Semper Fidelis](https://open.spotify.com/track/0xhJvxVsumiw3Y2lOyevj9) | [John Philip Sousa](https://open.spotify.com/artist/6jNyNAMv2gNLnfaP0bzo7y) | [Sousa Marches](https://open.spotify.com/album/5N7Wqm3tHp6cfYxzl2R26A) | 2:49 | 2019-07-10 |  |
-| [Separate Ways \(Worlds Apart\) \- Bryce Miller/Alloy Tracks Remix](https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Separate Ways \(Worlds Apart\) \[Bryce Miller/Alloy Tracks Remix\]](https://open.spotify.com/album/0YzSA7G1hEayfUGlELIe5K) | 2:46 | 2022-04-12 |  |
+| [Separate Ways \(Worlds Apart\) \- Bryce Miller/Alloy Tracks Remix](https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Separate Ways \(Worlds Apart\) \[Bryce Miller/Alloy Tracks Remix\]](https://open.spotify.com/album/0YzSA7G1hEayfUGlELIe5K) | 2:45 | 2022-04-12 |  |
 | [She Has Funny Cars](https://open.spotify.com/track/7GeQk8PqG5NAENxCRLcw0B) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 3:08 | 2017-12-20 |  |
 | [She's Got You](https://open.spotify.com/track/1TM5wcr176XXvS10VCOqvP) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 2:58 | 2019-07-08 |  |
 | [Shiver Me Timbers](https://open.spotify.com/track/5kdKeBozyX8PRvhAUaUrWV) | [Paddy Kingsland](https://open.spotify.com/artist/16esHTYwUm6JWRj2Qijsq6) | [In Character](https://open.spotify.com/album/1bKQrqQnMFyO4ybU3i1t2U) | 0:59 | 2019-07-10 |  |

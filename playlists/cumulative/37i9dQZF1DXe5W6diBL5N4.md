@@ -4,7 +4,7 @@
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: aespa\(에스파\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-1,004 songs - 2 day 10 hr 12 min - [published](https://open.spotify.com/playlist/69AzhPM798n6fuDC8uUxaB)
+1,005 songs - 2 day 10 hr 15 min - [published](https://open.spotify.com/playlist/69AzhPM798n6fuDC8uUxaB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [777](https://open.spotify.com/track/24KjqxHU4SnvCgzfftXarS) | [MUL](https://open.spotify.com/artist/1qcXWnZo8tZaPPhRcaBVPo), [feelDa](https://open.spotify.com/artist/6ztSjX9SryuExgK0SPr5Ps), [H:SEAN](https://open.spotify.com/artist/5unaicO0SRNINwxV4jnq18) | [777+52](https://open.spotify.com/album/6q2EAWJkQRNcIHFSZjFQI2) | 3:23 | 2022-04-19 | 2022-05-03 |
 | [@rollsroycecars \(Prod\. imeanseoul, Wylo\)](https://open.spotify.com/track/7G5yu6BmXx85xogvsE9Y7i) | [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ) | [www.instagram.com/rollingloud/viceversartist](https://open.spotify.com/album/65iSrqbqW6EmtC9FeqdEfr) | 2:50 | 2022-05-30 |  |
 | [A Kind Of Confession \(Male Ver.\)](https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s) | [Kwak jineon](https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD) | [My Liberation Notes OST Part 9](https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV) | 3:56 | 2022-05-09 | 2022-05-18 |
+| [A Kind Of Magic \- Coke Studio Session](https://open.spotify.com/track/3EN2OYE3pYpRN8Axxasv2u) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [A Kind Of Magic \(Coke Studio Session\)](https://open.spotify.com/album/47oy52LyIbbzC0qLKQH16Z) | 2:49 | 2022-06-08 |  |
 | [A Kind Of Magic \- Coke Studio Session](https://open.spotify.com/track/0xAKiwSOjyKkmoas5BQxpY) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [A Kind Of Magic \(Coke Studio Session\)](https://open.spotify.com/album/59GwVuqd2xcQJ4axyw9aaM) | 3:29 | 2022-05-22 |  |
 | [A lonely song](https://open.spotify.com/track/2naBl4NQlX9a4t6ONd47nF) | [I'll](https://open.spotify.com/artist/5CMK32w7gbxJsFe67eZJqs) | [A lonely song](https://open.spotify.com/album/6AJlKivqnbSRgP49nNR0ba) | 3:45 | 2022-05-26 |  |
 | [A Perfect Ending](https://open.spotify.com/track/15itaSEmDZt9PVygMrIpTN) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [A Perfect Ending](https://open.spotify.com/album/1PLIADtea77VEx1FJEMMLm) | 3:34 | 2022-05-25 |  |
@@ -635,7 +636,7 @@
 | [O](https://open.spotify.com/track/4iieYHqajyQxMcCTDQhVOi) | [Big Baby Driver](https://open.spotify.com/artist/4JgbccOQwDGx8VDrmJsxMI) | [Remainder](https://open.spotify.com/album/0IaKtWIDNhBVbjpd3Oke8A) | 4:22 | 2022-05-30 |  |
 | [OCEAN](https://open.spotify.com/track/76HdYXlpceoc0N2P6E4oGW) | [The VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [OCEAN](https://open.spotify.com/album/4rOhOYOy9Arjaula5XaBlg) | 4:38 | 2022-05-05 | 2022-05-12 |
 | [Ocean like me](https://open.spotify.com/track/7vNhQ4LdsNr41PCedRkqWY) | [Holland](https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP) | [Ocean like me \(Original Web Drama Soundtrack, Pt\. 1\)](https://open.spotify.com/album/4oYsqdSwKnyzdQaDsSmdTY) | 3:59 | 2022-04-28 | 2022-05-04 |
-| [OceanooM](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 | 2022-06-07 |  |
+| [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 | 2022-06-07 |  |
 | [Off the Rocks \(feat\. TOMMY YANG\)](https://open.spotify.com/track/1eXVMDaAxF5wnk0cfBTNWG) | [Turner Lee](https://open.spotify.com/artist/64zUM1OTsuzVAXDllUJ3hZ), [TOMMY YANG](https://open.spotify.com/artist/4AO9H2yVIGvb6aTpQ7jW0y) | [Lee.1](https://open.spotify.com/album/7w5vOfwG7qNu6W5xL3heVr) | 1:53 | 2022-05-30 |  |
 | [Oh\-eh](https://open.spotify.com/track/0fMjTX6oc5mwTyngHvC0Tv) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2), [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [daybreak X LUCY : Part.2](https://open.spotify.com/album/2aB74Dik8ZMzL1ieotLMN4) | 3:20 | 2022-04-19 | 2022-04-23 |
 | [okokok](https://open.spotify.com/track/7kTsmaju0m5kJSoA7z5BKf) | [Witches](https://open.spotify.com/artist/4vTtoGhW5MgqrpfPL0RGxi) | [okokok](https://open.spotify.com/album/4KEhy0zdjzgj4paaFfPmlp) | 2:21 | 2022-05-17 | 2022-05-28 |

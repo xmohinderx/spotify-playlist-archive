@@ -4,7 +4,7 @@
 
 > Slow jazz for evening listening pleasure.
 
-127 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
+130 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bianca](https://open.spotify.com/track/2T2dIV8coIPZ08ryHUYy6z) | [Robert Elovsson Quartet](https://open.spotify.com/artist/2JtAEXEXjrclv4NJwoGyB7) | [Anyone Anytime](https://open.spotify.com/album/5zDjf9sEmqwqYrTbiQCM4F) | 3:28 | 2021-12-14 |  |
 | [Blue Quarter](https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G) | [Cleo Lounge Trio](https://open.spotify.com/artist/76p8QkVRne7itxQ98sjAvB) | [Blue Quarter](https://open.spotify.com/album/04yhSVC2L9ZzWDVlVMVYoX) | 3:43 | 2022-01-05 |  |
 | [Blue Romance](https://open.spotify.com/track/7AL3evf6T03lEluSTET854) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Blue Romance](https://open.spotify.com/album/1SgyP8odpNQGFuRojV3XEH) | 4:02 | 2021-12-14 |  |
+| [Blueberry Street](https://open.spotify.com/track/6YeUTstb4pY8jUE3xWhX0d) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:15 | 2022-06-08 |  |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2021-12-14 |  |
 | [Change of Heart](https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E) | [Turtleneck Trio](https://open.spotify.com/artist/54QkrSdChFqOKNG4S9NRcf) | [Change of Heart](https://open.spotify.com/album/3k8gus1toU2ljnUynceNNY) | 4:51 | 2021-12-14 |  |
 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2021-12-14 |  |
@@ -91,6 +92,7 @@
 | [Never Let Me Go](https://open.spotify.com/track/0t5LDxM86wbi5W7gwkGtPv) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Trios Live](https://open.spotify.com/album/4E4vQi6Vc8FTynRbeNcTGf) | 6:38 | 2021-12-14 |  |
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2021-12-14 |  |
 | [Peace](https://open.spotify.com/track/2XbzKkjwyO7nVUThZSudGv) | [Winter Jazz Trio](https://open.spotify.com/artist/5qr5p04yN4FHmjJMuAq6Ne) | [Peace](https://open.spotify.com/album/1SR2WnYKiyvC2jTUcRhyIh) | 3:25 | 2021-12-14 |  |
+| [Perception Through A Crystal Orb](https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Perception Through A Crystal Orb](https://open.spotify.com/album/0vrjE37V3hoBoEBFW1FP4m) | 3:10 | 2022-06-08 |  |
 | [Postcards](https://open.spotify.com/track/1IxO95D87hSIyA20XTLCiU) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Postcards](https://open.spotify.com/album/6Oi5hnd7ZOiAlhv9AYTenT) | 3:05 | 2021-12-14 |  |
 | [Pretty Ballad](https://open.spotify.com/track/4T82mssmK8VpyjB6QVMlcI) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 3:26 | 2021-12-14 |  |
 | [Ruby, My Dear](https://open.spotify.com/track/4g3uehMazGScLiI42Xf9C4) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Ruby, My Dear](https://open.spotify.com/album/0rnHMooxC9N4V85h8dSuVp) | 2:48 | 2022-06-01 |  |
@@ -128,6 +130,7 @@
 | [Whatever Possessed Me](https://open.spotify.com/track/2ctouihgYSV7onIUDRBjbK) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Whatever Possessed Me](https://open.spotify.com/album/4y9NYqUGF8rFBkisD65CTt) | 3:49 | 2022-04-26 |  |
 | [Where Are You?](https://open.spotify.com/track/3y4mQA8llGbRRw3o2cAunI) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 4:43 | 2022-02-03 |  |
 | [Willow Weep For Me](https://open.spotify.com/track/53I0rp6820Z8aksKz7FeXt) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Ballads](https://open.spotify.com/album/24KvOzpJA0qbuuIwgWFO6u) | 9:58 | 2022-02-03 |  |
+| [Yesterday](https://open.spotify.com/track/2eIry6lu8pdyShi9RPk2dR) | [Tommies Trio](https://open.spotify.com/artist/2k2e33oHCm8aQalDfKTvz6) | [Yesterday](https://open.spotify.com/album/5mfTNVaNN6hwzcBKZ6Pj9w) | 3:47 | 2022-06-08 |  |
 | [You Confuse Me](https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [You Confuse Me](https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip) | 3:11 | 2021-12-14 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [You Don't Know What Love Is](https://open.spotify.com/album/3WpU0MCWwrDDqsA3KZQJnt) | 2:30 | 2021-12-14 |  |
 | [You Turned The Tables On Me](https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays \(Clef Records LPR\)](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 2:56 | 2022-02-03 |  |

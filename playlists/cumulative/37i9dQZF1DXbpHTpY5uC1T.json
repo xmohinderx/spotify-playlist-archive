@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 237173,
       "name": "Acu\u00e9rdate de M\u00ed",
       "url": "https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 179071,
       "name": "Amar",
       "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 183547,
       "name": "ARRANCARMELO",
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 208271,
       "name": "Chachach\u00e1 - ac\u00fastico",
       "url": "https://open.spotify.com/track/7lFcRLIrpzjPd2Ytp13Ml3"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 214527,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 237240,
       "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
       "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 235306,
       "name": "D\u00e9jenme Llorar",
       "url": "https://open.spotify.com/track/61paDgouceUmuVTsoUO5TD"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 233895,
       "name": "D\u00f3nde est\u00e1 el amor (feat. Jesse & Joy)",
       "url": "https://open.spotify.com/track/0CjaLvAqN97KPVWgOJ1vbD"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 207333,
       "name": "Honey, No Est\u00e1s",
       "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
@@ -1010,6 +1010,28 @@
     },
     {
       "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275194,
+      "name": "Jugaste y Sufr\u00ed",
+      "url": "https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4"
+    },
+    {
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -1025,7 +1047,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -1245,7 +1267,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 187520,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
@@ -1523,7 +1545,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 183362,
       "name": "Primer Avi\u00f3n",
       "url": "https://open.spotify.com/track/1CaBwYdWhxUeE4j3w0WqbL"
@@ -1559,7 +1581,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 222826,
       "name": "Que Lo Nuestro Se Quede Nuestro",
       "url": "https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2"
@@ -1657,7 +1679,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 236506,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
@@ -1675,7 +1697,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 165760,
       "name": "Roto",
       "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
@@ -2003,7 +2025,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 272826,
       "name": "Tengo Todo Excepto a Ti",
       "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
@@ -2291,7 +2313,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 204173,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"

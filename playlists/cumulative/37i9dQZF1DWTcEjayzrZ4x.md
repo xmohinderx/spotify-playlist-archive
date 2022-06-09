@@ -4,7 +4,7 @@
 
 > Instrumental  jazz with a cool and soft sound.
 
-214 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/5tUS7ssEEn2bRVblKg2kpU)
+217 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/5tUS7ssEEn2bRVblKg2kpU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-05-10 |  |
 | [Autumn Serenade](https://open.spotify.com/track/76bxYaBhzR5YOIrgmNUUJ5) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Autumn Serenade](https://open.spotify.com/album/4u4FvHG40exv5slmz0Bg7l) | 3:56 | 2022-05-24 |  |
 | [Baby Mine](https://open.spotify.com/track/1GCnHc1M0smwc41jQQDfhc) | [Yaron Herman Trio](https://open.spotify.com/artist/0ZHBP592ndKCuNxhiKtgdI) | [Follow the White Rabbit](https://open.spotify.com/album/5OCGFTXS1TWGk6d94pK4VM) | 4:26 | 2021-12-14 |  |
+| [Babycat Please Come Back Home](https://open.spotify.com/track/5Z2jx1UikCHMjtjzPkjG5l) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Babycat Please Come Back Home](https://open.spotify.com/album/57jw52zfyQVp57sbVhdUCQ) | 5:12 | 2022-06-08 |  |
 | [Ballad For Trane](https://open.spotify.com/track/6Iffg8hOfzhHOmpyZFdprO) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Ballad For Trane](https://open.spotify.com/album/6lzGCAfFHQA487O3mOGTIs) | 3:37 | 2022-02-15 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/2aROA14wjchRPpxJMrhzKm) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Songs: The Art of the Trio, Vol\. 3](https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9) | 5:58 | 2021-12-14 |  |
 | [Blue](https://open.spotify.com/track/0x5Vl0VTQXx6zCBFcozDVI) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Blue](https://open.spotify.com/album/7HGWsC65uDBoClXacVVTGM) | 3:47 | 2021-12-14 |  |
@@ -119,6 +120,7 @@
 | [Lament](https://open.spotify.com/track/3HeycjEKlBwsSyAm78dle6) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Lament](https://open.spotify.com/album/42sHzP8X3IDIZLdIQem4b7) | 2:55 | 2021-12-14 |  |
 | [Landing](https://open.spotify.com/track/5Ay0F2FMw9j8HiAKqDI8re) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Landing](https://open.spotify.com/album/3iwyJEQgPwHdyBl2eCxjjZ) | 3:01 | 2021-12-14 |  |
 | [Last Dance](https://open.spotify.com/track/7Jz9FKIbjpFvql18j77cpy) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Because of You](https://open.spotify.com/album/6uQ1qKqno2zGaeBrBwqZJA) | 3:56 | 2022-04-11 |  |
+| [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-06-08 |  |
 | [Life In Paradise](https://open.spotify.com/track/7DhwU4DOhVLPI30Rj2X6e4) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [Life In Paradise](https://open.spotify.com/album/5TNHvnh6yY5FwDBqo3g59W) | 4:34 | 2022-05-31 |  |
 | [Little Person](https://open.spotify.com/track/45zlIlHtm9DUYnEBYw8Lkq) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Tim Lefebvre](https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38), [Eric Schaefer](https://open.spotify.com/artist/78fgcTfahAcbrhArWRfzVg) | [Weltentraum](https://open.spotify.com/album/6rthWlGJUS1UVi4ilMwgmj) | 3:43 | 2021-12-14 |  |
 | [Living In Paradise](https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 4:48 | 2022-05-24 |  |
@@ -161,6 +163,7 @@
 | [Out of a misty dream](https://open.spotify.com/track/487y37ICkH10Ve0u0kvia1) | [Milo Oliver Band](https://open.spotify.com/artist/1utH7b11duWqqaVmgGFW9H) | [Love is not so easily shed](https://open.spotify.com/album/2kpK0IAXQzd7nRGtJBa8yo) | 3:12 | 2022-04-01 |  |
 | [Peace](https://open.spotify.com/track/2XbzKkjwyO7nVUThZSudGv) | [Winter Jazz Trio](https://open.spotify.com/artist/5qr5p04yN4FHmjJMuAq6Ne) | [Peace](https://open.spotify.com/album/1SR2WnYKiyvC2jTUcRhyIh) | 3:25 | 2021-12-14 |  |
 | [People Time](https://open.spotify.com/track/1qpREc7J77glPZPIhqokQ0) | [Claudio Chiara](https://open.spotify.com/artist/1PSmRbcMsHCTorvkQh8nfd), [Emanuele Cisi](https://open.spotify.com/artist/0d01ZBhAPVXDfmRvQFAcVL) | [People Time](https://open.spotify.com/album/0ZghK6zyOioeWsT9nnLrCZ) | 4:26 | 2021-12-14 | 2022-03-18 |
+| [Perception Through A Crystal Orb](https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Perception Through A Crystal Orb](https://open.spotify.com/album/0vrjE37V3hoBoEBFW1FP4m) | 3:10 | 2022-06-08 |  |
 | [Pink Balloons](https://open.spotify.com/track/328IUKlFSM9s4PtJHkrFir) | [Manuel Cali Band](https://open.spotify.com/artist/0EUayRxSuHe3rEgexVFpk6) | [Pink Balloons](https://open.spotify.com/album/7agJWbtNcNFJzvtn62eN9q) | 4:24 | 2022-01-18 |  |
 | [Pretty Ballad](https://open.spotify.com/track/4T82mssmK8VpyjB6QVMlcI) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 3:26 | 2021-12-14 |  |
 | [Riverside](https://open.spotify.com/track/0vnsOSvEko26QNLxsnmYQk) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Riverside](https://open.spotify.com/album/3W4YoAdfpeaabxyutq36i2) | 3:58 | 2021-12-14 |  |

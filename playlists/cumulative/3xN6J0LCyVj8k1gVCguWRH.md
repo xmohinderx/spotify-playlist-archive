@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,441 songs - 3 day 11 hr 56 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,442 songs - 3 day 11 hr 59 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [French Food](https://open.spotify.com/track/5uv330wHMM4VDJ7vlKy828) | [Elephant Castle](https://open.spotify.com/artist/1B2xz3ZP0Vuezwk4gGhbkD) | [French Food](https://open.spotify.com/album/1oFHV3sX7aFSA2AcKrgSN2) | 3:08 | 2021-08-21 | 2021-09-15 |
 | [Frenemies](https://open.spotify.com/track/1EulXkYiwv2XLpvKs8R1ta) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Frenemies](https://open.spotify.com/album/78fUV4QBFjWMqGGpYhmoMJ) | 2:52 | 2020-03-28 | 2020-04-07 |
 | [Fresh](https://open.spotify.com/track/3gGGpWjG5TPA73BeRp7asf) | [Hatewine](https://open.spotify.com/artist/6b7ytNpGmrGPdvYnzFrxqB) | [Fresh](https://open.spotify.com/album/5bkVz2AjrqFDmYCXmHC5Al) | 3:22 | 2021-05-21 | 2021-06-06 |
+| [Freud's Disciples](https://open.spotify.com/track/0DRfvjOcemPmOnR8CxBj6I) | [Ryan Stotland](https://open.spotify.com/artist/42lIaJIQPnHbCmspLZFpY5) | [The Ryan Stotland Experiment](https://open.spotify.com/album/1G82eqC1DNHGGoJTQMTqaN) | 3:14 | 2022-06-08 |  |
 | [Friyay](https://open.spotify.com/track/1mDn0zEzWZHaxVqkIt2vV1) | [Internet Things](https://open.spotify.com/artist/2fRSqWcgwLw0eo7qITNAE8) | [Friyay](https://open.spotify.com/album/1WClYo7zdlb8UNe0FYm50Q) | 4:57 | 2020-11-06 | 2020-11-21 |
 | [Frozen](https://open.spotify.com/track/21oJ1K99GBJrE2GVQGVjA0) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 4:04 | 2021-07-11 |  |
 | [FUCKBOY](https://open.spotify.com/track/1AXJqw8lCf3chqvgq4U8mA) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [FUCKBOY](https://open.spotify.com/album/7MEDmpNwxYkhXaoWL1H8eA) | 3:10 | 2021-06-04 | 2021-06-20 |

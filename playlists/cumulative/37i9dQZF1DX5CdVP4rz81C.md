@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Delaney Bailey
 
-824 songs - 1 day 19 hr 27 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+825 songs - 1 day 19 hr 29 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -683,6 +683,7 @@
 | [Stay Next To Me \(with Chelsea Cutler\)](https://open.spotify.com/track/6SGG5AxHShqSYiV9fCWpZz) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stay Next To Me \(with Chelsea Cutler\)](https://open.spotify.com/album/2z5swLenXPUPG79UfLU51I) | 3:26 | 2020-12-04 | 2021-03-06 |
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2020-10-13\* | 2020-10-15 |
 | [Still Something](https://open.spotify.com/track/1ZpcmirRaGcNWhvhkg3nYX) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Still Something](https://open.spotify.com/album/010yX6iIbqs59x29SwwUaG) | 3:08 | 2022-01-07 |  |
+| [Stockholmsvy](https://open.spotify.com/track/3vWJ3fZKghO8kHntrAa8oB) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Stockholmsvy](https://open.spotify.com/album/4NUrMxS5Jwc0sa84UeOeZf) | 2:41 | 2022-06-08 |  |
 | [Stoned at the Nail Salon](https://open.spotify.com/track/6oAa31g091sMNe1TKo5LBS) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Stoned at the Nail Salon](https://open.spotify.com/album/3AW9TKUw5fnzn0MnddEnHI) | 4:26 | 2021-07-22 | 2021-09-11 |
 | [Stranger \(for now\)](https://open.spotify.com/track/5Y2FSbvow070mKq6IXnmX4) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Stranger \(for now\)](https://open.spotify.com/album/4N9hyG1I3SDCR1JTR2GtRC) | 2:46 | 2021-09-04 | 2021-09-18 |
 | [stranger to me](https://open.spotify.com/track/4mvy1Y1k5ICIZjCUoM87tW) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [stranger to me](https://open.spotify.com/album/0V7x1MESYbiouaWZC8vM5r) | 2:15 | 2021-06-26 | 2021-08-28 |

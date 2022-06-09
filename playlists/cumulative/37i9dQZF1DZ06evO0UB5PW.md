@@ -4,16 +4,16 @@
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-56 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/6BSA9slljRH4cdN4bRj9CH)
+57 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/6BSA9slljRH4cdN4bRj9CH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Asleep in the Deep](https://open.spotify.com/track/6yiFbPkFbHzuzQsEatSc03) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 6:12 | 2022-05-30 |  |
-| [Black Tongue](https://open.spotify.com/track/0mc0SaUktWUvWuvLcsbGxo) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF) | 3:27 | 2022-05-30 |  |
-| [Blasteroid](https://open.spotify.com/track/5Z1dxiIrZGvnViXtY7N8g9) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF) | 2:35 | 2022-05-30 | 2022-06-08 |
+| [Black Tongue](https://open.spotify.com/track/0mc0SaUktWUvWuvLcsbGxo) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF) | 3:27 | 2022-05-30 | 2022-06-09 |
+| [Blasteroid](https://open.spotify.com/track/5Z1dxiIrZGvnViXtY7N8g9) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF) | 2:35 | 2022-05-30 |  |
 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 | 2022-05-30 |  |
 | [Blue Walsh](https://open.spotify.com/track/60DY0OKJPAtAbXZydBxtXz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Cold Dark Place](https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv) | 5:12 | 2022-05-30 |  |
-| [Capillarian Crest](https://open.spotify.com/track/4GZ3qSMYlQODUdxAzM1S1E) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 4:25 | 2022-05-30 | 2022-06-06 |
+| [Capillarian Crest](https://open.spotify.com/track/4GZ3qSMYlQODUdxAzM1S1E) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 4:25 | 2022-05-30 |  |
 | [Cold Dark Place](https://open.spotify.com/track/23CIAx7uGrtUH5CwRf3BC5) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Cold Dark Place](https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv) | 5:59 | 2022-05-30 |  |
 | [Colony of Birchmen](https://open.spotify.com/track/6nmsnhkJYvyYu8TheUa0Xf) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 4:19 | 2022-05-30 |  |
 | [Crack the Skye](https://open.spotify.com/track/4nwwFLQqopxAL0g2L0Fg0B) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:54 | 2022-05-30 |  |
@@ -25,7 +25,7 @@
 | [Fallen Torches](https://open.spotify.com/track/55PBokVAiehQnFfapP54PK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 4:22 | 2022-06-02 |  |
 | [Feast Your Eyes](https://open.spotify.com/track/3qwRA8Q3e77HVNnBqMoRko) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 3:23 | 2022-05-30 | 2022-06-01 |
 | [Forged By Neron](https://open.spotify.com/track/0FwJA4tBsAmfWo1QlnX033) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Forged By Neron](https://open.spotify.com/album/4jdNvSi7ujZEW8KQ3gk1iD) | 3:05 | 2022-05-30 |  |
-| [Ghost of Karelia](https://open.spotify.com/track/2VzyWKHUmuxUq7J7I8wbng) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:24 | 2022-05-30 |  |
+| [Ghost of Karelia](https://open.spotify.com/track/2VzyWKHUmuxUq7J7I8wbng) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:24 | 2022-05-30 | 2022-06-09 |
 | [Had It All](https://open.spotify.com/track/5yOoY69sRaLWyQLkmwhGLi) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:25 | 2022-05-30 |  |
 | [Hearts Alive](https://open.spotify.com/track/5ZwXpxkFA2qW0nGCXwpIx4) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 13:39 | 2022-05-31 |  |
 | [High Road](https://open.spotify.com/track/4coYVm83MTdcEKlWcbU4Zh) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 4:15 | 2022-05-30 |  |
@@ -42,9 +42,10 @@
 | [Once More 'Round the Sun](https://open.spotify.com/track/5tWHXNwoIZsSL7qnmsgfpO) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 2:58 | 2022-05-30 |  |
 | [Orion](https://open.spotify.com/track/1tvr1RopO3KsVQwP8etKA5) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 8:15 | 2022-05-31 | 2022-06-07 |
 | [Pain with an Anchor](https://open.spotify.com/track/4rFC258Osi9vYljhOU0r6u) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:01 | 2022-05-30 |  |
-| [Pendulous Skin](https://open.spotify.com/track/5uF9aihxBSiESSz2AeLqD7) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 5:04 | 2022-05-31 |  |
+| [Pendulous Skin](https://open.spotify.com/track/5uF9aihxBSiESSz2AeLqD7) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 5:04 | 2022-05-31 | 2022-06-09 |
 | [Precious Stones](https://open.spotify.com/track/4GPne3vf5okCDszbmeCUZz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 3:45 | 2022-05-30 |  |
 | [Pushing the Tides](https://open.spotify.com/track/0svFlmFdw4sxlJzsLTXeTo) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 3:29 | 2022-05-30 |  |
+| [Quintessence](https://open.spotify.com/track/7n2K9HW8OhwFpWEdzeYu79) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:27 | 2022-06-08 |  |
 | [Roots Remain](https://open.spotify.com/track/5llEJFL6NzKYgMTEb68XtL) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 6:28 | 2022-05-30 |  |
 | [Seabeast](https://open.spotify.com/track/4dlsUdGXRe5nkxMIauacJq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 4:15 | 2022-05-30 |  |
 | [Show Yourself](https://open.spotify.com/track/1dfHpGeaXunLRNvzSZOZtc) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 3:02 | 2022-05-30 |  |

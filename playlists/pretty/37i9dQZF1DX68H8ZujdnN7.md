@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68H8ZujdnN7.md) - [plain]
 
 ### [’80s Hard Rock](https://open.spotify.com/playlist/37i9dQZF1DX68H8ZujdnN7)
 
-> Hair goals, spandex and epic guitar solos\. We got you\. Celebrating the life and legacy of Eddie Van Halen.
+> Hair goals, spandex and epic guitar solos\. We got you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,770,424 likes - 104 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,770,876 likes - 104 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68H8ZujdnN7.md) - [plain]
 | 103 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:44 |
 | 104 | [Balls to the Wall](https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN) | 5:42 |
 
-Snapshot ID: `MTY1MzkxOTE4NCwwMDAwMDAyYTAwMDAwMTgxMTU0M2Y2NWQwMDAwMDE3NTA0ZDUzMGE3`
+Snapshot ID: `MTY1NDcyMDk0MiwwMDAwMDAyYjAwMDAwMTgxNDUwZGQyOWIwMDAwMDE3NTA0ZDUzMGE3`

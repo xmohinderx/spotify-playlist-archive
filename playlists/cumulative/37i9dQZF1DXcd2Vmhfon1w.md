@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-106 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
+107 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Guajiro](https://open.spotify.com/track/7mzNtZ87Ha6gc1YZCQfA6c) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Guajiro](https://open.spotify.com/album/2xWes52vgOfvY7Q8IKAYv7) | 2:58 | 2022-01-21 |  |
 | [Halo](https://open.spotify.com/track/7411L3K2yn8FsOBU09ONxY) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Mon](https://open.spotify.com/artist/3HkB3egKNBUqV7kojcri6g) | [Madrid V](https://open.spotify.com/album/63TOo644jy6PwbPeEb3Bsa) | 3:17 | 2022-03-04 | 2022-04-02 |
 | [Hare Krishna](https://open.spotify.com/track/29UNZ5fn0uFUJn19VSvX96) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Hare Krishna](https://open.spotify.com/album/4Q6bZ5dGGtf0E9iDjf0G2h) | 2:21 | 2022-01-21 | 2022-03-17 |
-| [Hasta Cuando](https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Sherry Fino](https://open.spotify.com/artist/76ofGeLRBabrg897HgfH5D) | [Hasta Cuando](https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt) | 3:19 | 2022-03-04 |  |
+| [Hasta Cuando](https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Hasta Cuando](https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt) | 3:19 | 2022-03-04 |  |
 | [Hasta el amanecer](https://open.spotify.com/track/05WcYNSHMxuM7ryv5sKIjX) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Hasta el amanecer](https://open.spotify.com/album/3Qqrz8rw1u72reNglIxn2z) | 3:40 | 2022-01-21 |  |
 | [Hasta el Top](https://open.spotify.com/track/4aQHZjJwGnx4NxU777Um1y) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Mili Milanss](https://open.spotify.com/artist/5US33tP9Eoj53sO9yF4STs), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Hasta el Top](https://open.spotify.com/album/2KAZkTssECcXY3Bn3Xl2sp) | 3:45 | 2022-04-21 | 2022-05-28 |
 | [Intro](https://open.spotify.com/track/65SfiFQbX26Nxf7x0z6rG8) | [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [Selecta](https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ) | [Intro](https://open.spotify.com/album/2H1nBBph1FciPPMbXEUalK) | 1:39 | 2022-02-04 | 2022-03-17 |
@@ -93,6 +93,7 @@
 | [Reproches](https://open.spotify.com/track/3L6RhaS4ISh8GSagrFMFZn) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [Reproches](https://open.spotify.com/album/1rGEWKEdDvDx5Ij1oxpRfs) | 4:33 | 2022-01-21 |  |
 | [Salgo pa la calle](https://open.spotify.com/track/1yvTWgoRs6DTMzC6nKa6xb) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Salgo pa la calle](https://open.spotify.com/album/73W1l6Mm0T2R6uVsWZz6bq) | 2:21 | 2022-01-21 |  |
 | [Santo](https://open.spotify.com/track/06OhdnxdHRkRT39NleZJbs) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Santo](https://open.spotify.com/album/7rTvzzeBjnbK9c6kUzV4m8) | 3:43 | 2022-05-05 |  |
+| [Septiembre](https://open.spotify.com/track/6ECuR1jAciVqtBogJhXkF0) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Septiembre](https://open.spotify.com/album/3qIJnqD0B24GpgVy9UxZTt) | 3:39 | 2022-06-08 |  |
 | [Shars 2019](https://open.spotify.com/track/4vI7HAK6oC52MfOYlICa0l) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2019](https://open.spotify.com/album/0ouvrlpcjyOklFJK70pwNe) | 2:55 | 2022-01-21 |  |
 | [Shars 2020](https://open.spotify.com/track/036QM4rIhz7A7n66IWA7Ej) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2020](https://open.spotify.com/album/3whSTfSW2CfXbaGDTwDbOQ) | 3:05 | 2022-01-21 |  |
 | [Shorty](https://open.spotify.com/track/5emjBfWheJT83MyOzmlTNU) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Tirititando](https://open.spotify.com/album/23CDTnMpY9k9tKblvWsxGw) | 3:03 | 2022-05-27 |  |

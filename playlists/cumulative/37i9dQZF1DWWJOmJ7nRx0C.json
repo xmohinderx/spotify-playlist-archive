@@ -4634,6 +4634,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/2oAnV3Zd5txIhmfUGX5fu2"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219299,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/43AG34Hsu3k5sSwGYOWpBP"
+    },
+    {
+      "album": {
         "name": "Ego Trip",
         "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > music that's hard to define but easy to love feat\. Thelma Plum
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,971 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,993 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

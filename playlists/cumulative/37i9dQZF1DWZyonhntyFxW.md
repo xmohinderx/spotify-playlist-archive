@@ -2,7 +2,7 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى الأغاني الراب المصري! غلاف: مروان بابلو
+> أقوى أغاني الراب المصري! غلاف: مروان بابلو
 
 55 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
 

@@ -4,7 +4,7 @@
 
 > Start your day with calm and cool jazz.
 
-114 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/39dwJkALAgqseR1XSFerIE)
+115 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/39dwJkALAgqseR1XSFerIE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [People Time](https://open.spotify.com/track/1qpREc7J77glPZPIhqokQ0) | [Claudio Chiara](https://open.spotify.com/artist/4iPKMm0rxAbqEUrbYgbVgw), [Emanuele Cisi](https://open.spotify.com/artist/0gKld6kU40FNrQECM7WXzn) | [People Time](https://open.spotify.com/album/0ZghK6zyOioeWsT9nnLrCZ) | 4:26 | 2022-05-17 |  |
 | [Polka Dots and Moonbeams](https://open.spotify.com/track/0OB9pzKCaECbHOf9ooimQc) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [You belong to me](https://open.spotify.com/album/3kfJotb4oHheL6G6xvb12o) | 2:52 | 2022-05-17 |  |
 | [Postcards](https://open.spotify.com/track/1IxO95D87hSIyA20XTLCiU) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Postcards](https://open.spotify.com/album/6Oi5hnd7ZOiAlhv9AYTenT) | 3:05 | 2022-05-17 |  |
+| [Send In the Clowns](https://open.spotify.com/track/2kdj6VfxCgDCC5Uemxwj6E) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Send In the Clowns](https://open.spotify.com/album/7EqrUNHWxGu3cxftUQzCWe) | 3:25 | 2022-06-08 |  |
 | [September Song](https://open.spotify.com/track/5K9W2clr01zZZVu80avRLA) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [September Song](https://open.spotify.com/album/2FSt6Jj7xms6x5g0gwA77K) | 4:21 | 2022-05-17 |  |
 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 | 2022-05-17 |  |
 | [Simplicity](https://open.spotify.com/track/0AEBs3sZ492afceldzJzF0) | [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF), [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Adam Cruz](https://open.spotify.com/artist/1jQe1E5ZvrDvzR4BePCHkA), [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM), [Adam Rogers](https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH) | [Simplicitas](https://open.spotify.com/album/5u282HONP3k3BSzLNZkCBA) | 5:08 | 2022-05-17 |  |
@@ -114,7 +115,7 @@
 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 | 2022-05-24 |  |
 | [What The Heart Wants](https://open.spotify.com/track/3REyVyWHPHPKQueGFnCYay) | [Vincent Hall Trio](https://open.spotify.com/artist/0INrFdPtyCkB0oyaxbvKLb) | [What The Heart Wants](https://open.spotify.com/album/4kiOZP3cb4a3mg6ZxhJA3R) | 2:01 | 2022-05-17 |  |
 | [What's New](https://open.spotify.com/track/7KkuAiPMECCD5FB2sbDyU2) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [What's New](https://open.spotify.com/album/4EGFMBsIGjesECjoVb2uSD) | 2:51 | 2022-05-17 |  |
-| [When I Fall in Love](https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA) | [Some More Love Songs](https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf) | 7:27 | 2022-05-17 |  |
+| [When I Fall in Love](https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA) | [Some More Love Songs](https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf) | 7:27 | 2022-05-17 | 2022-06-09 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/0JcgHL8tNphYe7Q8nPkYtV) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [When Sunny Gets Blue](https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z) | 5:17 | 2022-05-17 |  |
 | [When We Were Young](https://open.spotify.com/track/30UZLHtCtfBOQy6TAnivr2) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [When We Were Young](https://open.spotify.com/album/33LjvM51YwNH5PgqXgSOxu) | 3:34 | 2022-05-17 |  |
 | [When You Are Around](https://open.spotify.com/track/3WUrXHDowLk25UtALiohVD) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [When You Are Around](https://open.spotify.com/album/3v6ovPPFtr6E6vpVuBw2bi) | 3:11 | 2022-05-17 |  |

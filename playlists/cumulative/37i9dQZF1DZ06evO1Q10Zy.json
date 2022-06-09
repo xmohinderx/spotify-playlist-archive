@@ -34,6 +34,24 @@
     },
     {
       "album": {
+        "name": "For The Cool In You",
+        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342360,
+      "name": "And Our Feelings",
+      "url": "https://open.spotify.com/track/27sYHmgfRvHFyQ5vrm5nQp"
+    },
+    {
+      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -453,7 +471,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 179700,
       "name": "No Stoppin' Us",
       "url": "https://open.spotify.com/track/4THDqloteA7XDcUicyhcvm"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 278293,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp"
@@ -759,7 +777,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 267426,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/1eRp0Gyiv7UY7an1VWYGi6"

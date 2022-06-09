@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: RADAR 新勢力
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,309 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,312 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [GOTW](https://open.spotify.com/track/620ap2jKswOCcSmqzPIFAS) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [黃宣](https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL) | [新聲宿營第一季](https://open.spotify.com/album/6uwT7SdJhtMi8Vdhx0zKuz) | 1:57 |
 | 60 | [假裝沒變過](https://open.spotify.com/track/0kWUppVLq3IIvXjq36v8EU) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 4:21 |
 
-Snapshot ID: `MTY1NDY2ODIzOSwwMDAwMDAwMDI3MWJjMTk1ZTM2YzZlN2ZlZTA2YzY4MjlkOTUxYmY3`
+Snapshot ID: `MTY1NDczNjg1NCwwMDAwMDAwMDI3MWJjMTk1ZTM2YzZlN2ZlZTA2YzY4MjlkOTUxYmY3`

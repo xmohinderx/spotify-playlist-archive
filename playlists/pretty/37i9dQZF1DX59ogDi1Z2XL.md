@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Sean Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,402 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,437 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 14 | [FRIENDS WITH BENEFITS](https://open.spotify.com/track/61YQhIUW8I32js56e7v3Gh) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [FRIENDS WITH BENEFITS](https://open.spotify.com/album/5ZlZDT9NDhXldVFiis23am) | 2:25 |
 | 15 | [Take A Trip](https://open.spotify.com/track/0C5XDxZ4ko10KK8syW6gG2) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [Take A Trip](https://open.spotify.com/album/0vaCHXXAHJ4dehOrHhbR3i) | 3:14 |
 | 16 | [The People's Champ](https://open.spotify.com/track/30KKd33s2z1nigw5P1sPVE) | [DvblM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B) | [The People's Champ](https://open.spotify.com/album/5BQ3QqutRn91TpvTBJ0w0w) | 1:53 |
-| 17 | [CERTI STURDY](https://open.spotify.com/track/72MlZqv1M9lKddrEvMI8vQ) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [CERTI STURDY](https://open.spotify.com/album/3AcTtM3Ntq1faNnnlMWFbr) | 2:57 |
+| 17 | [CERTI STURDY](https://open.spotify.com/track/72MlZqv1M9lKddrEvMI8vQ) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [CERTI STURDY](https://open.spotify.com/album/3AcTtM3Ntq1faNnnlMWFbr) | 3:10 |
 | 18 | [Repeat](https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Repeat](https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG) | 3:28 |
 | 19 | [Trying](https://open.spotify.com/track/1IzL8MEvnz9EhQG6A2C7cx) | [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx) | [Trying](https://open.spotify.com/album/34IVUESsQtYcATnwSIQ5A6) | 2:36 |
 | 20 | [Speeding](https://open.spotify.com/track/4v0UUSV45rtjYBu3nEZ6Dh) | [Dj Charlie B](https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Speeding](https://open.spotify.com/album/06gY01E3MQPn4Hber6e1Rq) | 3:04 |

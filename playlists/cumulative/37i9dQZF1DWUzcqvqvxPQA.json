@@ -23,7 +23,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 182500,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/0yvCs4vcwnDyqV38SKTQgz"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 200330,
       "name": "Drown",
       "url": "https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 186513,
       "name": "Fanatic",
       "url": "https://open.spotify.com/track/23Yf503ni8282AhM5GyX0n"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 228564,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/6O8Q77DLdXZTdciVeU2Aak"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 181560,
       "name": "i don't know if we can be friends",
       "url": "https://open.spotify.com/track/5ldNf0PbjXkxadKws2Rgkt"
@@ -854,6 +854,32 @@
     },
     {
       "album": {
+        "name": "I'm Up",
+        "url": "https://open.spotify.com/album/2b2JwJcO7m5Xk047jIu9jW"
+      },
+      "artists": [
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "date_added": "2020-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177220,
+      "name": "I'm Up",
+      "url": "https://open.spotify.com/track/777iKLDmmPiMAAB7OUW8bf"
+    },
+    {
+      "album": {
         "name": "In The Grey / The Place",
         "url": "https://open.spotify.com/album/1N9dGpzRQ0pCgP87wLCPEc"
       },
@@ -883,7 +909,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 193148,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7"
@@ -1171,7 +1197,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 210920,
       "name": "Love With Your Life",
       "url": "https://open.spotify.com/track/3YVsYrddp7lbej2cXniN3Q"
@@ -1193,7 +1219,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 257399,
       "name": "Mercy's Tree",
       "url": "https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw"
@@ -1323,7 +1349,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 182043,
       "name": "Never Gonna Let Me Go",
       "url": "https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE"
@@ -1417,7 +1443,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 202000,
       "name": "No Such Thing",
       "url": "https://open.spotify.com/track/1ebiyWVPXiSplzGHwgLjod"
@@ -1629,7 +1655,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 181446,
       "name": "Paid For It",
       "url": "https://open.spotify.com/track/012SkEI8fzg3pKAKNygn5c"
@@ -1777,6 +1803,28 @@
       "duration_ms": 244426,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/346A6fJDzFS2YxUXhldt2c"
+    },
+    {
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/3JyZ28tzS7s5E4IemvrAQw"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "YK Osiris",
+          "url": "https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM"
+        }
+      ],
+      "date_added": "2020-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177588,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/2FORPQIrhiSwHLZdv4MtZj"
     },
     {
       "album": {
@@ -2005,7 +2053,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 205101,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
@@ -2139,7 +2187,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 185692,
       "name": "What Freedom Feels Like",
       "url": "https://open.spotify.com/track/3JpweS0YOuNHJsMdgZlAOA"
@@ -2251,7 +2299,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 189200,
       "name": "Word Of Life",
       "url": "https://open.spotify.com/track/4evZUjbXPrzooKfpEBYWnw"

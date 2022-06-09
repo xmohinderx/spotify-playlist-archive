@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-446 songs - 23 hr 8 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+447 songs - 23 hr 12 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Bilir O Beni](https://open.spotify.com/track/0szRcHR9IsUO2Xj8uAKPM6) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Bilir O Beni](https://open.spotify.com/album/01waXdENwB18KCgTHw89Rb) | 3:48 | 2022-02-28 | 2022-03-06 |
 | [Bilmem Mi?](https://open.spotify.com/track/6wbDn8NI3ygkOeDJiS0ASi) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Bilmem Mi?](https://open.spotify.com/album/0UFVuK7zzdjsiK1nb5F2wI) | 3:06 | 2021-07-11 |  |
 | [Bilmem Mi?](https://open.spotify.com/track/0IF4B98sMyCv1lZjpS1FGz) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Bilmem Mi?](https://open.spotify.com/album/3s82rScbmzY5VSjWHnMg4W) | 3:06 | 2021-09-01 | 2021-09-04 |
+| [Bir Derdim Var](https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Dünya Yalan Söylüyor](https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7) | 3:24 | 2022-06-08 |  |
 | [Bir Sebebi Var](https://open.spotify.com/track/4WixufiyHUgg1jFqkYop2K) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bir Sebebi Var](https://open.spotify.com/album/1TOYbjUU1GF3KTbb6JZj1i) | 3:30 | 2021-03-27\* | 2021-09-03 |
 | [Birader](https://open.spotify.com/track/3MlvEOpAgoyTx3wIx3Qdbl) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Birader](https://open.spotify.com/album/7BkXqpxNDF88chpCD4OdOS) | 3:24 | 2022-04-08 |  |
 | [BİLDİRİMLER KAPALI](https://open.spotify.com/track/3Pyy3y16EesdzWOfVSQesl) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [BİLDİRİMLER KAPALI](https://open.spotify.com/album/77j2RhU8nPDGqfOzYxYVzA) | 2:32 | 2022-01-29 | 2022-01-31 |
@@ -196,7 +197,7 @@
 | [GÜNAYDIN](https://open.spotify.com/track/5Y7x0VU1VOwPWr6MsHbcxS) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PİŞMAN](https://open.spotify.com/album/2Lljdvhyiw9Bh6Vhvap8Fm) | 2:29 | 2021-09-12 | 2021-09-24 |
 | [GÜNEŞ](https://open.spotify.com/track/4HbGWKUGE4kZveaZ4IJOXQ) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:13 | 2021-06-13 | 2021-07-18 |
 | [Güya](https://open.spotify.com/track/45psv4nJ95oCkdkp8UCkQk) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [Güya](https://open.spotify.com/album/298QpO2dJDLDwURvWA3b8G) | 2:59 | 2021-03-27 | 2021-06-22 |
-| [Hadi Çal](https://open.spotify.com/track/23KCKQJ6FqCEW6bCi5J6bT) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Hadi Çal](https://open.spotify.com/album/4f6waNCGENUspZtUpTpZKa) | 2:36 | 2022-06-07 |  |
+| [Hadi Çal](https://open.spotify.com/track/23KCKQJ6FqCEW6bCi5J6bT) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Hadi Çal](https://open.spotify.com/album/4f6waNCGENUspZtUpTpZKa) | 2:36 | 2022-06-07 | 2022-06-09 |
 | [Hakim Bey](https://open.spotify.com/track/1U162pMcwl6Ssq5kk1Sso3) | [KADR](https://open.spotify.com/artist/5IbdRuOxSxGes8BU3lKmBx) | [Hakim Bey](https://open.spotify.com/album/5yErDnoFeok5zSOTBzxcOJ) | 2:47 | 2021-10-24 | 2021-12-20 |
 | [Halen](https://open.spotify.com/track/7KiJY7W8c5cNXE9YwuVqlW) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD), [Dr\. Fuchs](https://open.spotify.com/artist/51o6QF11Nswx5jMlp6rAL8) | [Kağıt Kesikleri](https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af) | 3:52 | 2022-06-04 | 2022-06-06 |
 | [Hanfendi](https://open.spotify.com/track/1s2T2quJhHEbA0BgQr30DE) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Hanfendi](https://open.spotify.com/album/4nZp7Xg669hPPyPjRV4Rzz) | 3:38 | 2022-01-29 | 2022-02-10 |

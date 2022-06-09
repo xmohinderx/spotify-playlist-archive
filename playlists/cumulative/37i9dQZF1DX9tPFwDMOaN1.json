@@ -210,6 +210,32 @@
     },
     {
       "album": {
+        "name": "BTBT",
+        "url": "https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219549,
+      "name": "BTBT",
+      "url": "https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98"
+    },
+    {
+      "album": {
         "name": "FLASHBACK",
         "url": "https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm"
       },
@@ -495,7 +521,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 186906,
       "name": "DICE",
       "url": "https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK"
@@ -585,7 +611,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 204933,
       "name": "Dreams Come True",
       "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
@@ -805,7 +831,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 224837,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN"
@@ -1205,6 +1231,24 @@
       "duration_ms": 173440,
       "name": "LOVE me",
       "url": "https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW"
+    },
+    {
+      "album": {
+        "name": "Op.22 Y-Waltz : in Major",
+        "url": "https://open.spotify.com/album/1EAzLUzatSBIs8tA047f5f"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199066,
+      "name": "Love Shhh!",
+      "url": "https://open.spotify.com/track/00vy9aiFjxMfnKniQAYzrC"
     },
     {
       "album": {

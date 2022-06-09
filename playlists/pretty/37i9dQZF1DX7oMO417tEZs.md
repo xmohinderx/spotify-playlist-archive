@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: MC RedBul & MC Azas of Moonshine
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,892 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,955 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

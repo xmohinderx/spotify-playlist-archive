@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 245160,
       "name": "Aire",
       "url": "https://open.spotify.com/track/3xvl7xQiICvrTJolyPKvMF"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 199733,
       "name": "Algun Dia",
       "url": "https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 252573,
       "name": "Amigo M\u00edo",
       "url": "https://open.spotify.com/track/4ITL0FFTc4LRFyvUVeY4CC"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 164120,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 439840,
       "name": "Calla featuring Jay Perez (Live at FMS)",
       "url": "https://open.spotify.com/track/1njmIOg0pSfV5i5oV4gbM1"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 174973,
       "name": "Cantarle a Ella",
       "url": "https://open.spotify.com/track/5fTPAo0UJxCEi9FHwmrnN1"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 278920,
       "name": "Como Te Extrano",
       "url": "https://open.spotify.com/track/1FAubvFODC0G1hRfBGMqp1"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 229306,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/4b7NywXvngCF1aB49IQLyC"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 224506,
       "name": "Di Algo featuring Edgar Ramirez of Zeri",
       "url": "https://open.spotify.com/track/65othLo1tpzoD8LUT16GTu"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 273000,
       "name": "Donde Quiera Que Est\u00e9s",
       "url": "https://open.spotify.com/track/7qUmi5fQAZ2FWvVb91tAvU"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 217129,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 169493,
       "name": "Fuertemente",
       "url": "https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 544800,
       "name": "Jimmy's and Jay's Mazz Medley: Vuelvo, Ven Dev\u00f3rame Otra Vez, Qu\u00e9 Esperabas featuring Jay Perez",
       "url": "https://open.spotify.com/track/1yyuvKMFwBzIw8xu9rq6Dv"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 278493,
       "name": "La Mancha",
       "url": "https://open.spotify.com/track/4Sftcc8OWNsF6jyszaOwC6"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 190906,
       "name": "Las Cadenas",
       "url": "https://open.spotify.com/track/6VJYwVo6MDV4h8mNfTb61Q"
@@ -1180,6 +1180,24 @@
     },
     {
       "album": {
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
+    },
+    {
+      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
       },
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 180560,
       "name": "Ojal\u00e1 Te Animes",
       "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 223960,
       "name": "Preciosa",
       "url": "https://open.spotify.com/track/6lruDosJz30DwXkz1hxytg"
@@ -1389,7 +1407,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 211400,
       "name": "Que Creias",
       "url": "https://open.spotify.com/track/4nz7tn3YJwgdsttB6PIIOb"
@@ -1443,7 +1461,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 199973,
       "name": "Quiero Decirte",
       "url": "https://open.spotify.com/track/26ljxPYYQaVOMvTBxEifEG"
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 220466,
       "name": "Qu\u00e9 M\u00e1s Te Puedo Dar",
       "url": "https://open.spotify.com/track/7JTgmtRq4WBy2jG6Ijm9m8"
@@ -1569,7 +1587,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 181400,
       "name": "Siempre Estoy Pensando En Ti",
       "url": "https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv"
@@ -1623,7 +1641,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 228333,
       "name": "Soy Como Soy",
       "url": "https://open.spotify.com/track/7lW0rxqtEuDPtAa6jVPJqE"
@@ -1641,7 +1659,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 195293,
       "name": "Soy Un Novato",
       "url": "https://open.spotify.com/track/5akdgRJMR9kwrrpOY2KUHg"
@@ -1917,7 +1935,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 227986,
       "name": "T\u00fa Robaste Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3Purte9GoV5OeheLFYZDxj"
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 191564,
       "name": "T\u00fa, Solo T\u00fa",
       "url": "https://open.spotify.com/track/29WGydilDyujOwFpi8Ivr1"
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 207360,
       "name": "Vanidosa",
       "url": "https://open.spotify.com/track/1vYr5ZeSiMAPOZPcXN7rYn"
@@ -2007,7 +2025,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 146720,
       "name": "Ven Conmigo",
       "url": "https://open.spotify.com/track/5neqwbGxk0u6OgiTqXmd57"
@@ -2097,7 +2115,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 195600,
       "name": "Ya Ves",
       "url": "https://open.spotify.com/track/6Dc2BbGqqIhxDvs0jcq6oh"
@@ -2151,7 +2169,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 190533,
       "name": "\u00bfY Todo Para Qu\u00e9?",
       "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"

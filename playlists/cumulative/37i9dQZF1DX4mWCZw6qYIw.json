@@ -1493,7 +1493,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 137250,
       "name": "ghost town (voice memo)",
       "url": "https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr"
@@ -1565,7 +1565,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 183786,
       "name": "GO TO HELL",
       "url": "https://open.spotify.com/track/55XRXhQeU25IwqVpjQqxkz"
@@ -1897,7 +1897,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 158594,
       "name": "Here's Your Perfect",
       "url": "https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P"
@@ -2413,7 +2413,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 135000,
       "name": "Isabelle",
       "url": "https://open.spotify.com/track/1w9L6dvttZalWd8XqFYvSa"
@@ -2503,7 +2503,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 156106,
       "name": "July",
       "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
@@ -2633,7 +2633,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 167065,
       "name": "Like I Can",
       "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
@@ -2727,7 +2727,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 285935,
       "name": "Love In The Dark",
       "url": "https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY"
@@ -3139,7 +3139,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 162797,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy"
@@ -4185,7 +4185,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 217866,
       "name": "Talking to the Moon",
       "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
@@ -4265,6 +4265,24 @@
       "duration_ms": 215140,
       "name": "The Good Ones",
       "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
+    },
+    {
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/1URmuEjZuBuXuLegkhvQr0"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/3OYUuT8iujKMFUoeKrnhwe"
     },
     {
       "album": {
@@ -4647,7 +4665,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 216864,
       "name": "Walked Through Hell",
       "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
@@ -4665,7 +4683,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 218893,
       "name": "Water Fountain",
       "url": "https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To"

@@ -714,6 +714,46 @@
     },
     {
       "album": {
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/50euaJScnQPyUSbh1Wy9TY"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154536,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/7agBfdnarV5mFCouvfIVVj"
+    },
+    {
+      "album": {
+        "name": "Bang Dat Heat",
+        "url": "https://open.spotify.com/album/1j4BhHdFCZ76LVcG9QyFvm"
+      },
+      "artists": [
+        {
+          "name": "GMK",
+          "url": "https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113386,
+      "name": "Bang Dat Heat",
+      "url": "https://open.spotify.com/track/4QhBPXSDf20rc3EbkaNLbp"
+    },
+    {
+      "album": {
         "name": "BANTER.",
         "url": "https://open.spotify.com/album/2tW87S8CsWRk2D9YUh3eIS"
       },
@@ -2377,7 +2417,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 137640,
       "name": "F.N.F. (Let's Go)",
       "url": "https://open.spotify.com/track/6bkRx9TWQfP5rcRnS89oXI"
@@ -2727,7 +2767,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 149237,
       "name": "Get It In",
       "url": "https://open.spotify.com/track/6kHIKzSB4XSdIQvVI8lx2h"
@@ -2803,7 +2843,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 115252,
       "name": "gi joe",
       "url": "https://open.spotify.com/track/2ex4Q6pNhTrDYcMyvGtp07"
@@ -2999,7 +3039,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 201710,
       "name": "Grind",
       "url": "https://open.spotify.com/track/5eZaguRENayH27QEcL1LLu"
@@ -3555,7 +3595,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 166283,
       "name": "Keep Dissing",
       "url": "https://open.spotify.com/track/3NfCU6PjlnNkswTrdxeprJ"
@@ -3907,6 +3947,28 @@
       "duration_ms": 130612,
       "name": "Living with Passion",
       "url": "https://open.spotify.com/track/4g6wkPxpmgBlC6rAtHyaWM"
+    },
+    {
+      "album": {
+        "name": "$hook",
+        "url": "https://open.spotify.com/album/40a2ZAxxlBBxwP6wCNrAfM"
+      },
+      "artists": [
+        {
+          "name": "Tre' Amani",
+          "url": "https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0"
+        },
+        {
+          "name": "Rodney Hollywood",
+          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148118,
+      "name": "lo$t kid.",
+      "url": "https://open.spotify.com/track/6vQK5arrwdS2rrpNJWJ3EI"
     },
     {
       "album": {
@@ -5148,6 +5210,24 @@
     },
     {
       "album": {
+        "name": "Prolific",
+        "url": "https://open.spotify.com/album/726R4axcxJ0wR5lMEC0iwa"
+      },
+      "artists": [
+        {
+          "name": "Corey Lee",
+          "url": "https://open.spotify.com/artist/3dxk8qxVs3og7n9WEi7KAQ"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172826,
+      "name": "Prolific",
+      "url": "https://open.spotify.com/track/4p487z5wMzPPKBDtAydW24"
+    },
+    {
+      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/5pJbraocqWsrCIkEd4UZjF"
       },
@@ -5195,7 +5275,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 94876,
       "name": "Pulling up",
       "url": "https://open.spotify.com/track/2tytnCYxmi5sK4jHw4Be2r"
@@ -5235,6 +5315,24 @@
       "duration_ms": 116378,
       "name": "Push2Start",
       "url": "https://open.spotify.com/track/2WywQwJbHztRLAnqsCXhv7"
+    },
+    {
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/3lXXeDXAOGErPbuGwhZ3Of"
+      },
+      "artists": [
+        {
+          "name": "Cae Cartier",
+          "url": "https://open.spotify.com/artist/1ynSbjcRtqlVYJwYwnE3KD"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130940,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/5BdckqMqMlq3XWX3Pgr8WY"
     },
     {
       "album": {
@@ -5970,6 +6068,28 @@
     },
     {
       "album": {
+        "name": "Still Like Drugs",
+        "url": "https://open.spotify.com/album/6Ldm82syrNUjdsSo6im7nP"
+      },
+      "artists": [
+        {
+          "name": "Lightshow",
+          "url": "https://open.spotify.com/artist/0bxqbGrU4OdgDQNGs9DYp4"
+        },
+        {
+          "name": "Zubin",
+          "url": "https://open.spotify.com/artist/11cmGSkAlNCca1oymzGSj9"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153769,
+      "name": "Still Like Drugs",
+      "url": "https://open.spotify.com/track/7KyNKtcXTZgY1WWIyzGRX6"
+    },
+    {
+      "album": {
         "name": "STOCKS",
         "url": "https://open.spotify.com/album/2dbHIXRrs3PTOhDrlraiQc"
       },
@@ -6017,7 +6137,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 109619,
       "name": "Stop The Rain",
       "url": "https://open.spotify.com/track/6ng5m6PFWXjKJTTaaqM38B"
@@ -6577,7 +6697,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 158693,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7"
@@ -6635,6 +6755,24 @@
       "duration_ms": 136060,
       "name": "WADDUP BITCH",
       "url": "https://open.spotify.com/track/6UKKaNvgdI8nWPWYPoKITl"
+    },
+    {
+      "album": {
+        "name": "War Cries",
+        "url": "https://open.spotify.com/album/30slXEZQTucfmq8bWQaWk6"
+      },
+      "artists": [
+        {
+          "name": "Fastmoney Ant",
+          "url": "https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149461,
+      "name": "War Cries",
+      "url": "https://open.spotify.com/track/5K04xQn30QaNp4WyT8DDic"
     },
     {
       "album": {
@@ -6903,6 +7041,24 @@
       "duration_ms": 144222,
       "name": "Xfoliate (feat. General Fly)",
       "url": "https://open.spotify.com/track/52mQbcaJNiPIn8OaiEflxY"
+    },
+    {
+      "album": {
+        "name": "Y OFC",
+        "url": "https://open.spotify.com/album/4IeLpOeduM8SodNkluPm06"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203538,
+      "name": "Y OFC",
+      "url": "https://open.spotify.com/track/66D4gGaEenEmVGDoO2XX4i"
     },
     {
       "album": {

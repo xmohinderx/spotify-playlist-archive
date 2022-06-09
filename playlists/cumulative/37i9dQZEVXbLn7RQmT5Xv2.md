@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-406 songs - 23 hr 15 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
+407 songs - 23 hr 17 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [ثرثرة](https://open.spotify.com/track/1PN1vuSWAW9mlIZSgFrQ7y) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [بلان بي](https://open.spotify.com/album/32rH8RDPdrKhR2Unq1FEKU) | 2:58 | 2021-03-27\* | 2022-01-27 |
 | [خد و هات](https://open.spotify.com/track/1AfioCIHFE3Ny3kTBppiP9) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [خد و هات](https://open.spotify.com/album/3DIpQbx2oJvHuZm37Gctpr) | 2:43 | 2021-06-04 | 2022-03-06 |
 | [خطر \(ياللي سيرتي تعباك\)](https://open.spotify.com/track/1C6pNXiVfcKO49JttTv0xJ) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [خطر \(ياللي سيرتي تعباك\)](https://open.spotify.com/album/6nXBRUkDo8ttEm2DItn3sY) | 4:00 | 2021-08-01 | 2022-03-22 |
+| [خطوة اجباري](https://open.spotify.com/track/06h6dQDVdXjnIOXGXabW02) | [نور النبوي](https://open.spotify.com/artist/2lvyyBvz0mMzl57uxbzQ15), [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [خطوة اجباري](https://open.spotify.com/album/74il7VqlKq7JEM1oiTrIm5) | 1:50 | 2022-06-08 |  |
 | [دورك جاي](https://open.spotify.com/track/3T3N2D7c1zdbWvmJArlUfI) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [دورك جاي](https://open.spotify.com/album/4uooiC90Xdp8TExuw0XrdL) | 4:18 | 2021-09-12 | 2021-09-29 |
 | [دورك جي](https://open.spotify.com/track/09GZRZP0txDanDf3s1Ap7K) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [دورك جي](https://open.spotify.com/album/7xyObKDQplbCbfw0fN17e7) | 4:17 | 2022-04-05 | 2022-04-24 |
 | [دورك جي](https://open.spotify.com/track/56nsR8Td7CWVCQIGjznu4L) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [دورك جي](https://open.spotify.com/album/3CzE55devPfjvlHa5HjGaF) | 4:17 | 2021-03-27\* | 2022-04-06 |
@@ -408,7 +409,7 @@
 | [مهرجان اخواتى](https://open.spotify.com/track/44p2pP4M0J6ZlEEyIpQu6R) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Zoka](https://open.spotify.com/artist/18foZksTwFHJIDFX9mBO2H), [Shehta Karika](https://open.spotify.com/artist/5D9oikZ4ncJETBXgLhXSdv) | [مهرجان اخواتى](https://open.spotify.com/album/2kUP4HUqHWNslusZ6Ly5w4) | 2:39 | 2021-03-27\* | 2021-08-15 |
 | [مهرجان سور الجدعان](https://open.spotify.com/track/2kDMo3vCdzD5p5Z8F0lNiE) | [حوده بندق](https://open.spotify.com/artist/2WWQbtOv7LQoOSjE4u2Nzv), [محمود معتمد](https://open.spotify.com/artist/1qLRa9jjpAzxs3NPglKHBK) | [مهرجان سور الجدعان](https://open.spotify.com/album/7uxjOr3CnA2oeWyYdSEzyk) | 3:00 | 2021-03-27\* | 2021-03-27 |
 | [ميري](https://open.spotify.com/track/31iqbIPciULSvmy9KGKciU) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [ميري](https://open.spotify.com/album/2fkMsPBpZ7ttdfSqj8XZLP) | 4:02 | 2021-03-27 | 2021-04-01 |
-| [واحد وعشرين](https://open.spotify.com/track/57a5ISfPIQodpJBCJyjiEz) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [واحد وعشرين](https://open.spotify.com/album/5RvNtdJQJpueJce6nDvspM) | 3:51 | 2022-04-05 |  |
+| [واحد وعشرين](https://open.spotify.com/track/57a5ISfPIQodpJBCJyjiEz) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [واحد وعشرين](https://open.spotify.com/album/5RvNtdJQJpueJce6nDvspM) | 3:51 | 2022-04-05 | 2022-06-09 |
 | [واحد وعشرين](https://open.spotify.com/track/7pBr36brGBNxCk3JahhyHb) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [واحد وعشرين](https://open.spotify.com/album/4tBtjfCFQGr1K87yACxkJZ) | 3:51 | 2021-03-27\* | 2022-04-06 |
 | [وسط دموع وجراح](https://open.spotify.com/track/3FdV0iO6fskyPeYnrMsKPM) | [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [وسط دموع وجراح](https://open.spotify.com/album/5QcbolYaY1VvcTKA2mvu0T) | 4:24 | 2021-10-22 |  |
 | [يا اصفر](https://open.spotify.com/track/4zYPnTQw16Ep4dEEgvjQTu) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [يا اصفر](https://open.spotify.com/album/4enUdXXUFYoWg5I6TlKWE6) | 3:41 | 2022-03-01 | 2022-03-07 |

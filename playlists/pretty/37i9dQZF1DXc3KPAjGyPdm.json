@@ -1,12 +1,12 @@
 {
   "description": "Music from and inspired by Stranger Things. Watch Season 4 now on Netflix.",
-  "num_followers": 753696,
+  "num_followers": 768148,
   "original_name": "Stranger Things Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDY2ODcwOSwwMDAwMDAwMGQ3NjY0ZDhjZTZjMWNjZTU4ZGE3MTY4M2VlMWQ5NTNm",
+  "snapshot_id": "MTY1NDczNzMyNSwwMDAwMDAwMDE3MzY4MWM2YzI3MTQzZjA2YWMyMWM4OWQ0NjQxNGRk",
   "tracks": [
     {
       "added_at": "2022-05-27 04:01:00",
@@ -36,7 +36,7 @@
           "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 166384,
+      "duration_ms": 165074,
       "name": "Separate Ways (Worlds Apart) - Bryce Miller/Alloy Tracks Remix",
       "url": "https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e"
     },
@@ -267,6 +267,38 @@
       "duration_ms": 186583,
       "name": "Dream a Little Dream of Me",
       "url": "https://open.spotify.com/track/1LqHJtbJ7TLxer59vF25Hc"
+    },
+    {
+      "added_at": "2022-06-08 15:07:01",
+      "album": {
+        "name": "In Transit to Bermuda",
+        "url": "https://open.spotify.com/album/3mxDsZ0mT8filFQoadnkRQ"
+      },
+      "artists": [
+        {
+          "name": "Dorian Zero",
+          "url": "https://open.spotify.com/artist/0ObztW0DmBT3xKrctHY3N3"
+        }
+      ],
+      "duration_ms": 202305,
+      "name": "In Transit to Bermuda",
+      "url": "https://open.spotify.com/track/21NipBIcS2PhxHwBPauGCw"
+    },
+    {
+      "added_at": "2022-06-08 15:07:01",
+      "album": {
+        "name": "Brigador (Volume II)",
+        "url": "https://open.spotify.com/album/7bPwLkab9rKFDfDxl1GcMT"
+      },
+      "artists": [
+        {
+          "name": "Makeup And Vanity Set",
+          "url": "https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3"
+        }
+      ],
+      "duration_ms": 408786,
+      "name": "Into Hell",
+      "url": "https://open.spotify.com/track/6aLzFJ47h8xvOONE6xcX47"
     },
     {
       "added_at": "2022-05-27 14:21:45",

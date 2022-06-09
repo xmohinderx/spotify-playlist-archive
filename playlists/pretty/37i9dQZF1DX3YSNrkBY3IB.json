@@ -1,12 +1,12 @@
 {
   "description": "Check out these Hip Hop classics that are great for the whole family.",
-  "num_followers": 15278,
+  "num_followers": 15374,
   "original_name": "Raised on Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDY2ODI5OCwwMDAwMDAwMDU4ODYzN2FmNjVlZmE0MGNlOTc1YzhlMTEwNzYxYzFm",
+  "snapshot_id": "MTY1NDczNjkxMiwwMDAwMDAwMDA2YjNjOGU2MzU3MTgwMmM4MDYzY2MyZjI4Y2M2MGZm",
   "tracks": [
     {
       "added_at": "2020-09-29 17:19:21",
@@ -67,6 +67,22 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
+      },
+      "artists": [
+        {
+          "name": "Skee-Lo",
+          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
         "name": "Profilin': The Hits",
         "url": "https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU"
       },
@@ -97,22 +113,6 @@
       "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
     },
     {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
-    },
-    {
       "added_at": "2021-04-08 15:31:12",
       "album": {
         "name": "Rhino Hi-Five: The Sugarhill Gang",
@@ -127,6 +127,54 @@
       "duration_ms": 427360,
       "name": "Rapper's Delight",
       "url": "https://open.spotify.com/track/0FWhGmPVxLI6jOVF0wjALa"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Hello Nasty (Deluxe Version/Remastered 2009)",
+        "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 231493,
+      "name": "Intergalactic - Remastered 2009",
+      "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R"
+    },
+    {
+      "added_at": "2021-03-19 15:07:31",
+      "album": {
+        "name": "A Wolf In Sheep's Clothing",
+        "url": "https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO"
+      },
+      "artists": [
+        {
+          "name": "Black Sheep",
+          "url": "https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "The Choice Is Yours (Revisited)",
+      "url": "https://open.spotify.com/track/4k9EkhkFZY8Bk41Qi0Ob7P"
+    },
+    {
+      "added_at": "2021-03-19 15:07:31",
+      "album": {
+        "name": "Bizarre Ride II The Pharcyde",
+        "url": "https://open.spotify.com/album/4VJ6AvbGp6lMv3kCnhRf4Z"
+      },
+      "artists": [
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        }
+      ],
+      "duration_ms": 303493,
+      "name": "Passin' Me By",
+      "url": "https://open.spotify.com/track/4KkwBjTLeXmBSIwLFqwlKU"
     },
     {
       "added_at": "2022-01-10 20:50:24",
@@ -163,66 +211,18 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Hello Nasty (Deluxe Version/Remastered 2009)",
-        "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
       },
       "artists": [
         {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
         }
       ],
-      "duration_ms": 231493,
-      "name": "Intergalactic - Remastered 2009",
-      "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R"
-    },
-    {
-      "added_at": "2021-03-19 15:07:31",
-      "album": {
-        "name": "A Wolf In Sheep's Clothing",
-        "url": "https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO"
-      },
-      "artists": [
-        {
-          "name": "Black Sheep",
-          "url": "https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "The Choice Is Yours (Revisited)",
-      "url": "https://open.spotify.com/track/4k9EkhkFZY8Bk41Qi0Ob7P"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
-      },
-      "artists": [
-        {
-          "name": "Skee-Lo",
-          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
-        }
-      ],
-      "duration_ms": 249293,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
-    },
-    {
-      "added_at": "2021-03-19 15:07:31",
-      "album": {
-        "name": "Bizarre Ride II The Pharcyde",
-        "url": "https://open.spotify.com/album/4VJ6AvbGp6lMv3kCnhRf4Z"
-      },
-      "artists": [
-        {
-          "name": "The Pharcyde",
-          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
-        }
-      ],
-      "duration_ms": 303493,
-      "name": "Passin' Me By",
-      "url": "https://open.spotify.com/track/4KkwBjTLeXmBSIwLFqwlKU"
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2022-01-10 20:50:24",
@@ -259,34 +259,34 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+        "name": "Don't Sweat The Technique",
+        "url": "https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM"
       },
       "artists": [
         {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
         }
       ],
-      "duration_ms": 227933,
-      "name": "Gettin' Jiggy Wit It",
-      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
+      "duration_ms": 262800,
+      "name": "Don't Sweat The Technique",
+      "url": "https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv"
     },
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a"
+        "name": "It Takes A Nation Of Millions To Hold Us Back",
+        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
       },
       "artists": [
         {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
         }
       ],
-      "duration_ms": 327400,
-      "name": "I Can't Live Without My Radio",
-      "url": "https://open.spotify.com/track/2qfTGzETefwtBWKDThZjnU"
+      "duration_ms": 226173,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -307,50 +307,18 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
       "artists": [
         {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
         }
       ],
-      "duration_ms": 330573,
-      "name": "Rock Box",
-      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Don't Sweat The Technique",
-        "url": "https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Don't Sweat The Technique",
-      "url": "https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv"
-    },
-    {
-      "added_at": "2021-03-19 15:07:31",
-      "album": {
-        "name": "Done By The Forces Of Nature",
-        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
-      },
-      "artists": [
-        {
-          "name": "Jungle Brothers",
-          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Doin' Our Own Dang",
-      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
+      "duration_ms": 227933,
+      "name": "Gettin' Jiggy Wit It",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -379,24 +347,8 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "2 Hype",
-        "url": "https://open.spotify.com/album/1XN7cuhq8ZIvWsUUZ9xDzR"
-      },
-      "artists": [
-        {
-          "name": "Kid 'N Play",
-          "url": "https://open.spotify.com/artist/7mldB9nEb6VC2cUj7EcgFw"
-        }
-      ],
-      "duration_ms": 284040,
-      "name": "Gittin' Funky",
-      "url": "https://open.spotify.com/track/1gnOtJnOZErFPsADj08XVr"
-    },
-    {
-      "added_at": "2020-12-07 15:05:30",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF"
+        "name": "King Of Rock (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
       },
       "artists": [
         {
@@ -404,89 +356,57 @@
           "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
         }
       ],
-      "duration_ms": 183626,
-      "name": "It's Tricky",
-      "url": "https://open.spotify.com/track/3C5b21hX1FePgFAGdzk3Uc"
+      "duration_ms": 314146,
+      "name": "King of Rock",
+      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
     },
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/3qVeBPVeDw1ACfV0xK2cLP"
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a"
       },
       "artists": [
         {
-          "name": "Monie Love",
-          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Monie in the Middle",
-      "url": "https://open.spotify.com/track/03iVkiiPAFaAgc3qrwrzNa"
+      "duration_ms": 327400,
+      "name": "I Can't Live Without My Radio",
+      "url": "https://open.spotify.com/track/2qfTGzETefwtBWKDThZjnU"
     },
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+        "name": "Holy Intellect (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm"
       },
       "artists": [
         {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+          "name": "Poor Righteous Teachers",
+          "url": "https://open.spotify.com/artist/1j6sK1bUYK36UNfLjdOfFy"
         }
       ],
-      "duration_ms": 284466,
-      "name": "I Know You Got Soul",
-      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
+      "duration_ms": 311080,
+      "name": "Rock Dis Funky Joint",
+      "url": "https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK"
     },
     {
-      "added_at": "2020-09-29 17:19:21",
+      "added_at": "2021-03-19 15:07:31",
       "album": {
-        "name": "Dana Dane with Fame",
-        "url": "https://open.spotify.com/album/1cBQA6BENOelWaOJJRUHz5"
+        "name": "Done By The Forces Of Nature",
+        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
       },
       "artists": [
         {
-          "name": "Dana Dane",
-          "url": "https://open.spotify.com/artist/4LsQE9hwiCyFmUUkKWYnKp"
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
         }
       ],
-      "duration_ms": 198880,
-      "name": "This Be the Def Beat",
-      "url": "https://open.spotify.com/track/3vzFcaVtFsxJxXsI5MrHri"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back",
-        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Big Tyme",
-        "url": "https://open.spotify.com/album/2RDUJixbxpkSdNdDLR4LL8"
-      },
-      "artists": [
-        {
-          "name": "Heavy D & The Boyz",
-          "url": "https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "We Got Our Own Thang",
-      "url": "https://open.spotify.com/track/0yndiszlOMgxOu3y2vKZvB"
+      "duration_ms": 258933,
+      "name": "Doin' Our Own Dang",
+      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -511,18 +431,82 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Holy Intellect (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm"
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
       },
       "artists": [
         {
-          "name": "Poor Righteous Teachers",
-          "url": "https://open.spotify.com/artist/1j6sK1bUYK36UNfLjdOfFy"
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
         }
       ],
-      "duration_ms": 311080,
-      "name": "Rock Dis Funky Joint",
-      "url": "https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK"
+      "duration_ms": 284466,
+      "name": "I Know You Got Soul",
+      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "2 Hype",
+        "url": "https://open.spotify.com/album/1XN7cuhq8ZIvWsUUZ9xDzR"
+      },
+      "artists": [
+        {
+          "name": "Kid 'N Play",
+          "url": "https://open.spotify.com/artist/7mldB9nEb6VC2cUj7EcgFw"
+        }
+      ],
+      "duration_ms": 284040,
+      "name": "Gittin' Funky",
+      "url": "https://open.spotify.com/track/1gnOtJnOZErFPsADj08XVr"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Big Tyme",
+        "url": "https://open.spotify.com/album/2RDUJixbxpkSdNdDLR4LL8"
+      },
+      "artists": [
+        {
+          "name": "Heavy D & The Boyz",
+          "url": "https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3"
+        }
+      ],
+      "duration_ms": 232293,
+      "name": "We Got Our Own Thang",
+      "url": "https://open.spotify.com/track/0yndiszlOMgxOu3y2vKZvB"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 330573,
+      "name": "Rock Box",
+      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/3qVeBPVeDw1ACfV0xK2cLP"
+      },
+      "artists": [
+        {
+          "name": "Monie Love",
+          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Monie in the Middle",
+      "url": "https://open.spotify.com/track/03iVkiiPAFaAgc3qrwrzNa"
     },
     {
       "added_at": "2021-03-19 15:07:31",
@@ -547,38 +531,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Kurtis Blow",
-        "url": "https://open.spotify.com/album/1ZcUKK3nnmuYVGEUBxXSXt"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Blow",
-          "url": "https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9"
-        }
-      ],
-      "duration_ms": 463733,
-      "name": "The Breaks",
-      "url": "https://open.spotify.com/track/5TvcggVu3s2P1fMAS8BupX"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "King Of Rock (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 314146,
-      "name": "King of Rock",
-      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
       },
@@ -595,22 +547,18 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/3qVeBPVeDw1ACfV0xK2cLP"
+        "name": "Kurtis Blow",
+        "url": "https://open.spotify.com/album/1ZcUKK3nnmuYVGEUBxXSXt"
       },
       "artists": [
         {
-          "name": "Monie Love",
-          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
-        },
-        {
-          "name": "True Image",
-          "url": "https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj"
+          "name": "Kurtis Blow",
+          "url": "https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9"
         }
       ],
-      "duration_ms": 222840,
-      "name": "It's a Shame (My Sister)",
-      "url": "https://open.spotify.com/track/2tFAP5PycKceC26ZnIqnBt"
+      "duration_ms": 463733,
+      "name": "The Breaks",
+      "url": "https://open.spotify.com/track/5TvcggVu3s2P1fMAS8BupX"
     },
     {
       "added_at": "2021-03-19 15:07:31",
@@ -643,18 +591,18 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Wipeout (Re-Recorded Versions)",
-        "url": "https://open.spotify.com/album/11r8tYGEUCtMwliUxFljCv"
+        "name": "Dana Dane with Fame",
+        "url": "https://open.spotify.com/album/1cBQA6BENOelWaOJJRUHz5"
       },
       "artists": [
         {
-          "name": "Fat Boys",
-          "url": "https://open.spotify.com/artist/3537Phr9t8GWkY2GtxDpnt"
+          "name": "Dana Dane",
+          "url": "https://open.spotify.com/artist/4LsQE9hwiCyFmUUkKWYnKp"
         }
       ],
-      "duration_ms": 138358,
-      "name": "Human Beat Box (Re-Recorded Version)",
-      "url": "https://open.spotify.com/track/4tYMaJMiv8DMRnP9tfCpR5"
+      "duration_ms": 198880,
+      "name": "This Be the Def Beat",
+      "url": "https://open.spotify.com/track/3vzFcaVtFsxJxXsI5MrHri"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -673,28 +621,76 @@
       "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
     },
     {
-      "added_at": "2021-03-19 15:07:31",
+      "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "So...How's Your Girl?",
-        "url": "https://open.spotify.com/album/5wB26siHPt7fbEeUoZU5j7"
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/3qVeBPVeDw1ACfV0xK2cLP"
       },
       "artists": [
         {
-          "name": "Handsome Boy Modeling School",
-          "url": "https://open.spotify.com/artist/3pkmfqaBNsMqnXus05PNfP"
+          "name": "Monie Love",
+          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
         },
         {
-          "name": "R\u00f3is\u00edn",
-          "url": "https://open.spotify.com/artist/6CMypI6g5ox8xYYx5gIrUZ"
-        },
-        {
-          "name": "J-Live",
-          "url": "https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE"
+          "name": "True Image",
+          "url": "https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj"
         }
       ],
-      "duration_ms": 337200,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/2C0Y5RUvreuiElhHuce9Rv"
+      "duration_ms": 222840,
+      "name": "It's a Shame (My Sister)",
+      "url": "https://open.spotify.com/track/2tFAP5PycKceC26ZnIqnBt"
+    },
+    {
+      "added_at": "2020-12-07 15:05:30",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "It's Tricky",
+      "url": "https://open.spotify.com/track/3C5b21hX1FePgFAGdzk3Uc"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Wipeout (Re-Recorded Versions)",
+        "url": "https://open.spotify.com/album/11r8tYGEUCtMwliUxFljCv"
+      },
+      "artists": [
+        {
+          "name": "Fat Boys",
+          "url": "https://open.spotify.com/artist/3537Phr9t8GWkY2GtxDpnt"
+        }
+      ],
+      "duration_ms": 138358,
+      "name": "Human Beat Box (Re-Recorded Version)",
+      "url": "https://open.spotify.com/track/4tYMaJMiv8DMRnP9tfCpR5"
+    },
+    {
+      "added_at": "2021-03-19 15:07:31",
+      "album": {
+        "name": "The Score (Expanded Edition)",
+        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
+      },
+      "artists": [
+        {
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "duration_ms": 273093,
+      "name": "No Woman, No Cry",
+      "url": "https://open.spotify.com/track/5bUVHuzQh5mkvMPjUU074i"
     }
   ],
   "unique_name": "Raised on Hip Hop",

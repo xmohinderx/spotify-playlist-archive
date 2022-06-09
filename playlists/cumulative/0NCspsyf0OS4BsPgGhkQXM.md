@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-314 songs - 16 hr 53 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+315 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Carte Blanche](https://open.spotify.com/track/5dbMRjxGYAOEbVEwMGEDlG) | [Hoober](https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd), [tofû](https://open.spotify.com/artist/6Lw31HQJ9LI6AeGBe8bnen) | [Carte Blanche](https://open.spotify.com/album/2aOvovhHojpQ3XKd6Bed9Z) | 4:37 | 2022-01-14 |  |
 | [Centuries](https://open.spotify.com/track/5Uz5yzV9MX0LbAMfLECWDv) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9) | [Centuries](https://open.spotify.com/album/7El2SBa5cZW6jCDCMk9mvs) | 2:50 | 2022-05-06 | 2022-06-04 |
 | [Change Myself](https://open.spotify.com/track/1mcFzni5rOzqPwGI5ktsZW) | [Flapjax](https://open.spotify.com/artist/7JohQNyszOkmblZwR1t7nx), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Change Myself](https://open.spotify.com/album/5CX4qPbT6ehjdIA59TAbyT) | 2:30 | 2022-05-06 | 2022-06-04 |
+| [Child](https://open.spotify.com/track/2b7pg2yQClSHO04Qsf4FqI) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby) | [Child](https://open.spotify.com/album/0h8CGB1yL8KDwvRTXczkeR) | 4:40 | 2022-06-08 |  |
 | [Chloroform](https://open.spotify.com/track/6aa913g2FXGeTLQBB3uIDe) | [Kaphy](https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5), [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN), [SØR](https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi) | [Chloroform](https://open.spotify.com/album/3u4NNr4nbfqBgAWrvFd20E) | 2:27 | 2022-01-20 | 2022-02-17 |
 | [Church](https://open.spotify.com/track/6Apozxrk03AIyQwyswUjbt) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:03 | 2022-01-14 |  |
 | [Circles](https://open.spotify.com/track/6zm00gQog0WIHjo1jR5St8) | [machineheart](https://open.spotify.com/artist/4uethVhVpoyO3OhT40JH1o), [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T) | [Circles](https://open.spotify.com/album/1Ig0x1Jcjw2O3V2MAmaAUE) | 4:43 | 2022-01-14 |  |

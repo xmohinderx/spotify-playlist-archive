@@ -129,7 +129,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 200000,
       "name": "24",
       "url": "https://open.spotify.com/track/1pvvg93oaSTKKCUzeEWYwo"
@@ -1293,7 +1293,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 194761,
       "name": "Believer",
       "url": "https://open.spotify.com/track/1Ckah0ICBG4AoAY0x6LbSF"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 148715,
       "name": "Bloodstream",
       "url": "https://open.spotify.com/track/7BJvauk2ddcxirw5px8Wfa"
@@ -1535,7 +1535,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 176097,
       "name": "Body Pump - Lady Bee Remix",
       "url": "https://open.spotify.com/track/3mC9L7eDVsaAqnLbOya3U4"
@@ -2285,7 +2285,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 174138,
       "name": "Check Out",
       "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
@@ -2449,7 +2449,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 128639,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/2Ho4XR2Hmtf3y9lNO5w04b"
@@ -2799,7 +2799,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 240480,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/7xbBNB9bivza5vrYfnZJYg"
@@ -3845,7 +3845,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 267546,
       "name": "El Incomprendido",
       "url": "https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf"
@@ -4581,7 +4581,7 @@
       ],
       "date_added": "2021-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 155826,
       "name": "Forever Love (feat. Viiq)",
       "url": "https://open.spotify.com/track/6bVWGtN2BVH53il4JSFON8"
@@ -6043,7 +6043,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 154904,
       "name": "I Just Wanna Dance",
       "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
@@ -6277,7 +6277,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 131065,
       "name": "In Da Getto",
       "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
@@ -6449,7 +6449,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 191612,
       "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
       "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
@@ -7905,7 +7905,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 159344,
       "name": "Make It Good",
       "url": "https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM"
@@ -8847,6 +8847,28 @@
       "duration_ms": 218973,
       "name": "Naked",
       "url": "https://open.spotify.com/track/5dyFpHnCShXfEmDoKIg0J5"
+    },
+    {
+      "album": {
+        "name": "Need U - Spotify Singles",
+        "url": "https://open.spotify.com/album/2JbOWYXBHbLThB1ug7cuxF"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154017,
+      "name": "Need U - Spotify Singles",
+      "url": "https://open.spotify.com/track/6Ww581O9pklqs42MN4Da6q"
     },
     {
       "album": {
@@ -11175,7 +11197,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 209351,
       "name": "Say A Little Prayer",
       "url": "https://open.spotify.com/track/5dYZ382ddDN8xBdJLx7d9e"
@@ -11263,7 +11285,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 210875,
       "name": "Searching",
       "url": "https://open.spotify.com/track/1yLFszi3D4sq3ECcDxxPM6"
@@ -11753,7 +11775,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 164516,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/1KuYN9iWN7tO7dSxGnxZOc"
@@ -11895,7 +11917,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 200322,
       "name": "Sooner Or Later",
       "url": "https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1"
@@ -12465,7 +12487,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 170982,
       "name": "Teardrops (feat. Majid Jordan)",
       "url": "https://open.spotify.com/track/0pPpcDDIiVBeBS5jBecnSC"
@@ -14197,7 +14219,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 185896,
       "name": "You Give Me A Feeling",
       "url": "https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8"

@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 198368,
       "name": "All For You",
       "url": "https://open.spotify.com/track/7DMbkEORs1vmAevc4TD8KC"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 170613,
       "name": "At Least I Had Fun",
       "url": "https://open.spotify.com/track/7jqXDgGWkV4w2ctdb2g59o"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 227395,
       "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/6fRxMU4LWwyaSSowV441IU"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 221748,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/7HcaM7gc9YB2JAwxq1sfjT"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 169538,
       "name": "Chucks",
       "url": "https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 185303,
       "name": "Cloudy Day",
       "url": "https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 164009,
       "name": "Dancing in the Moonlight (feat. NEIMY)",
       "url": "https://open.spotify.com/track/5ow0sNF1zSqp71Ix5jEXWU"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 158994,
       "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -1195,7 +1195,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 218358,
       "name": "Lasting Lover",
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
@@ -1770,6 +1770,28 @@
     },
     {
       "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177156,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA"
+    },
+    {
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/6P62inQ5qq8ntB2GHs9yoi"
       },
@@ -1911,7 +1933,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 196301,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/6XnikZPkb059iYTuCjZt1X"
@@ -1955,7 +1977,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 182564,
       "name": "Run Into Trouble",
       "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
@@ -2159,7 +2181,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 171954,
       "name": "Stay the Night",
       "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
@@ -2555,7 +2577,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 194286,
       "name": "What Love Is",
       "url": "https://open.spotify.com/track/39pr29s4Nv7V6DqFwmjrQg"
@@ -2643,7 +2665,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1HPJpgceRg6KPO11nMhWlt"

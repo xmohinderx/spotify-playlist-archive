@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZhCwBHDbutA33WuZDmYFP">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81 likes - 32 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 80 likes - 32 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 31 | [Avalanche](https://open.spotify.com/track/7iYuUOOv1knNy9SFF1PdQj) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/1Ehf6Qpd3skQE5P8yV6U6l) | 3:08 |
 | 32 | [Cold Rush](https://open.spotify.com/track/0sfbJ6Eeq70PNGk4Rm8ns7) | [GOLDZBROUGH](https://open.spotify.com/artist/6vEDfcV5oesdmJzfTlidkz), [Bahareh](https://open.spotify.com/artist/3RbRHpD8ELMTsuEWGsUbiy) | [Cold Rush](https://open.spotify.com/album/2AVOS3JCamykZmbs5uQTUF) | 2:57 |
 
-Snapshot ID: `Mjc1Nzc3NjIsMDAwMDAwMDBkODFhZTgzOTBmMThmNDVkMzFmYTFkNTNiNzI4Njc3Yg==`
+Snapshot ID: `Mjc1Nzg5MDIsMDAwMDAwMDA1ZGE0MjFkNWRhNWYxNWVjMDk0YjFlMDgwNDE4ZmY0Mw==`

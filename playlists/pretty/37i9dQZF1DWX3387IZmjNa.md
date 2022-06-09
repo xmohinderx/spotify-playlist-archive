@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,889,951 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,890,205 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

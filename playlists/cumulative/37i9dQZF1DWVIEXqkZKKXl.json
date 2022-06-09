@@ -223,7 +223,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 107833,
       "name": "Dev - Chanda (Theme-2)",
       "url": "https://open.spotify.com/track/6qksrgPqbSNoTiNzdmRG9p"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 347893,
       "name": "Farewell Trance - Instrumental",
       "url": "https://open.spotify.com/track/6NjZp0gQNFI3mytJINKFwE"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 81966,
       "name": "I'm On (Theme)",
       "url": "https://open.spotify.com/track/53smqbWww0YmOlRyRjZT1h"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 341611,
       "name": "Implosive Silence",
       "url": "https://open.spotify.com/track/4YNnOnlzDCWHujthPSPke8"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 241557,
       "name": "Kaise Mujhe (Instrumental)",
       "url": "https://open.spotify.com/track/02nOZG5WrxCHEYbjjxeZQf"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 233096,
       "name": "Mausam &amp; Escape",
       "url": "https://open.spotify.com/track/1IjSMuAe7BJADAcqeUzPgA"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 166780,
       "name": "Non-Veg Melody",
       "url": "https://open.spotify.com/track/40y0JSUWt2BWw78ohC57T0"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 113523,
       "name": "Perpendicular (Theme)",
       "url": "https://open.spotify.com/track/4dnBoWcH0c5BzaIXssStBi"
@@ -852,6 +852,24 @@
     },
     {
       "album": {
+        "name": "Rangeela",
+        "url": "https://open.spotify.com/album/3iR8yYUh4LUsOHVHVmBiGQ"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181572,
+      "name": "Spirit Of Rangeela",
+      "url": "https://open.spotify.com/track/769ZdF10U29PWMq2e122fT"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8"
       },
@@ -863,7 +881,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 160500,
       "name": "The Dichotomy Of Fame",
       "url": "https://open.spotify.com/track/3SQxHIOVpQbt3a4uCH9Vuc"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 140520,
       "name": "The Mood of Satya",
       "url": "https://open.spotify.com/track/18spm4j6IeNxSh74ZUKRyw"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 95893,
       "name": "The Tragedie of Omkara",
       "url": "https://open.spotify.com/track/4sO3kii5WGoPTm7taepIRD"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 288995,
       "name": "Theme Music",
       "url": "https://open.spotify.com/track/1iJuyhTHtRH7daVt9tRP7g"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 320320,
       "name": "Yeh Haseen Vadiyan Yeh Khula Aasman - Instrumental",
       "url": "https://open.spotify.com/track/68DE17nfr7aDHWzI4flDAh"

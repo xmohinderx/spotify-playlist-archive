@@ -2,7 +2,7 @@
 
 ### [The Wilds](https://open.spotify.com/playlist/37i9dQZF1DWUDoJcM4v6Tm)
 
-> Revel in some key gems and explore the sprawling musical landscape.
+> Explore a sprawling musical landscape.
 
 136 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/6QNiRt36HWf1xbyQQcxk10)
 

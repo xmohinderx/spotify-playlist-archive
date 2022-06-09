@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 54 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 49 | [Work Out](https://open.spotify.com/track/38d5OWdfoJGFXg9vpkctkj) | [DeMarzo](https://open.spotify.com/artist/690s28S2ybWXTI9IdX86mO) | [Work Out](https://open.spotify.com/album/4ksU29xJ4PKvzQhfiBOoYz) | 7:03 |
 | 50 | [Lipid](https://open.spotify.com/track/3073MbpcoDvWkBe3xZXkio) | [MADVILLA](https://open.spotify.com/artist/63zifEaDmILf5PAGyW0piG) | [Lipid](https://open.spotify.com/album/650mCjH1OTX40TgmzzkOP7) | 6:18 |
 
-Snapshot ID: `MTY1NDI5ODY5OCwwMDAwMDAwMzAwMDAwMTgxMmJlMmU0ODAwMDAwMDE4MTJhYzI1ZWYx`
+Snapshot ID: `MTY1NDY3OTg2MSwwMDAwMDAwNjAwMDAwMTgxNDI5YWZhNmMwMDAwMDE4MTJhYzI1ZWYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,326,655 likes - 101 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,326,702 likes - 101 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

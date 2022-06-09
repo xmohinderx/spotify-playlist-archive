@@ -3702,6 +3702,24 @@
     },
     {
       "album": {
+        "name": "Denial",
+        "url": "https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Denial",
+      "url": "https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf"
+    },
+    {
+      "album": {
         "name": "Did That",
         "url": "https://open.spotify.com/album/6TSNMixKZ2OnJbTX2O4Bnb"
       },
@@ -6877,6 +6895,28 @@
       "duration_ms": 174915,
       "name": "HOME",
       "url": "https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL"
+    },
+    {
+      "album": {
+        "name": "HOME (Remix)",
+        "url": "https://open.spotify.com/album/3DQqcMjcI066eFySU4whoW"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195160,
+      "name": "HOME - Remix",
+      "url": "https://open.spotify.com/track/3lcJOGpwiiLN7SjhV1UK9J"
     },
     {
       "album": {

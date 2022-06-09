@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: The Sheepdogs
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,663 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,692 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 3 | [Don't Miss](https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Don't Miss](https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9) | 3:06 |
 | 4 | [Head Up](https://open.spotify.com/track/4Y4ldFPbe39m81tRLOcIWd) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Metamorph](https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8) | 2:49 |
 | 5 | [Wrecked](https://open.spotify.com/track/149BxWeweaCqmsyedkNiiE) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Act 1](https://open.spotify.com/album/6DdU5f52hpc2gfeLjK374Y) | 4:04 |
-| 6 | [Shine On \(feat\. The Skints\)](https://open.spotify.com/track/2UvbqkBevaTAeiRCafyDrz) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh), [The Skints](https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1) | [Shine on / Something Lost + Something Found](https://open.spotify.com/album/2Z50HEeRtQBwOurpRkBUgo) | 3:05 |
+| 6 | [Shine On \(feat\. The Skints\)](https://open.spotify.com/track/2UvbqkBevaTAeiRCafyDrz) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh), [The Skints](https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1) | [Shine On / Something Lost + Something Found](https://open.spotify.com/album/2Z50HEeRtQBwOurpRkBUgo) | 3:05 |
 | 7 | [Kill The Noise](https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 |
 | 8 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 |
 | 9 | [Chapstick](https://open.spotify.com/track/4kgZryM9RH7aEkkaNLDWu2) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/1XiXoTQLk4xjyZ4Dz4B4ob) | 3:13 |

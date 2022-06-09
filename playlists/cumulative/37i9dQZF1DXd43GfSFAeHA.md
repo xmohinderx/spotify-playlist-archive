@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: Wegz
 
-102 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
+103 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Khaliji Westcoast](https://open.spotify.com/track/5oVcQLyEEJDiIoNPNi2pUQ) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Khaliji Westcoast](https://open.spotify.com/album/5atrvsizsJwUKs4Xn3i95t) | 2:34 | 2022-05-08 |  |
 | [Khataf](https://open.spotify.com/track/14bqqHlCGigtTWDEYkgyvv) | [Moudy Al Arabe](https://open.spotify.com/artist/68KKIaozjXuxJyAWs2nDhz) | [Khataf](https://open.spotify.com/album/291zy8iPVZVVUFIu4BTmwQ) | 3:14 | 2022-05-08 |  |
 | [KIKI](https://open.spotify.com/track/3n58EssjWguXRIQucF12cZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 2:59 | 2022-05-08 |  |
+| [Kilo](https://open.spotify.com/track/0t6XwIJqdZuJ5pUFMH39dp) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT) | [Z5M](https://open.spotify.com/album/2qD60uCdyfhVd0tVNmLLDJ) | 2:38 | 2022-06-08 |  |
 | [Lbaroud](https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:56 | 2022-05-08 |  |
 | [Maalish](https://open.spotify.com/track/42CFrgrQ2SOvAXPSbnaH3e) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:18 | 2022-05-08 |  |
 | [Mia Mia](https://open.spotify.com/track/3ayLYD0w5LXcNXnV0S0Cek) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Mia Mia](https://open.spotify.com/album/5r12pt8Lw8cf65c3aYOOT7) | 2:17 | 2022-05-08 |  |
@@ -80,7 +81,7 @@
 | [Tesla](https://open.spotify.com/track/0htvkHTlXpui40I957NFUt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Florida](https://open.spotify.com/album/4bSsYSyiKLlP36LA1sY94N) | 3:06 | 2022-05-08 |  |
 | [TGV](https://open.spotify.com/track/3iq27LtUMru3aYFjxv7qak) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v), [Ali Ssamid](https://open.spotify.com/artist/7naCkywRMOSMBnYhFbiM3G) | [Tonton](https://open.spotify.com/album/1CK899bgCD45qwm87E6TR3) | 3:19 | 2022-05-08 |  |
 | [The Beat Never Goes Off \(feat\. MC Abdul & Noel Kharman\)](https://open.spotify.com/track/0h6GjlAJrHLL3mhiLiTBK9) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [The Beat Never Goes Off \(feat\. MC Abdul & Noel Kharman\)](https://open.spotify.com/album/5GLmvO7Q8nbYW6yIjt7cJZ) | 3:40 | 2022-05-08 |  |
-| [Thellaw](https://open.spotify.com/track/4aQTgttmM6e6MMk6c0cmIF) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:19 | 2022-05-08 |  |
+| [Thellaw](https://open.spotify.com/track/4aQTgttmM6e6MMk6c0cmIF) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:19 | 2022-05-08 | 2022-06-09 |
 | [TMNT, Vol\. 1](https://open.spotify.com/track/1MtdYAKBmPxCcO3qwzCJ02) | [Adamillion](https://open.spotify.com/artist/7IC5eTsRVvvL654OEbtpm9), [Santo D Monkey](https://open.spotify.com/artist/2guoCHoMSShRjkb0Wvn7tt) | [TMNT, Vol\. 1](https://open.spotify.com/album/0pnVXJCtY689v3gyI7sg5r) | 2:03 | 2022-05-08 |  |
 | [TOTLOB AMA TOTLOB](https://open.spotify.com/track/48Tb5rkF6XzPuHFtVem5lS) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TOTLOB AMA TOTLOB](https://open.spotify.com/album/3VbJrDvIbE8Is5Hio348xk) | 5:12 | 2022-05-08 |  |
 | [Tuxedo](https://open.spotify.com/track/5HlG2nrqhheXniOhZ7NPLU) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [Tuxedo](https://open.spotify.com/album/1JmKxlWqIvNTqpGjCPM05e) | 2:51 | 2022-05-08 |  |

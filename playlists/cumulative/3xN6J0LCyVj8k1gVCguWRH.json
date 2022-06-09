@@ -8902,6 +8902,24 @@
     },
     {
       "album": {
+        "name": "The Ryan Stotland Experiment",
+        "url": "https://open.spotify.com/album/1G82eqC1DNHGGoJTQMTqaN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stotland",
+          "url": "https://open.spotify.com/artist/42lIaJIQPnHbCmspLZFpY5"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Freud's Disciples",
+      "url": "https://open.spotify.com/track/0DRfvjOcemPmOnR8CxBj6I"
+    },
+    {
+      "album": {
         "name": "Friyay",
         "url": "https://open.spotify.com/album/1WClYo7zdlb8UNe0FYm50Q"
       },

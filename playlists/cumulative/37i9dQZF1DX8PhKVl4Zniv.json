@@ -106,6 +106,24 @@
     },
     {
       "album": {
+        "name": "NO FUSE",
+        "url": "https://open.spotify.com/album/1WzpfKD6z4ZYCiCv9dIaEY"
+      },
+      "artists": [
+        {
+          "name": "NANIWA EXPRESS",
+          "url": "https://open.spotify.com/artist/7A5C2jFwT0lxjAYMsHDh3r"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267426,
+      "name": "BELIEVIN'",
+      "url": "https://open.spotify.com/track/0F79QAGawM9bMrK11YGHru"
+    },
+    {
+      "album": {
         "name": "KINFOLK: Postcards from Everywhere",
         "url": "https://open.spotify.com/album/5ZZ16e0qQpQRMWeHc6uAnl"
       },
@@ -589,6 +607,24 @@
       "duration_ms": 143917,
       "name": "Introducing the Fearless Flyers",
       "url": "https://open.spotify.com/track/5EUbvbjJxC2Qe3DXDix8dl"
+    },
+    {
+      "album": {
+        "name": "Art",
+        "url": "https://open.spotify.com/album/44AeXmG9YVEx9NPSi5cEsp"
+      },
+      "artists": [
+        {
+          "name": "Trix",
+          "url": "https://open.spotify.com/artist/0r3CKyd6SM51XaPM3b66iv"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335746,
+      "name": "Jungle Circuit",
+      "url": "https://open.spotify.com/track/1khNGmU4Hhr1GjkaISocYA"
     },
     {
       "album": {

@@ -4,12 +4,12 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-81 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+82 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [ANIMA \-Naked Style.\-](https://open.spotify.com/track/7yqxGBNHp7K1of6vriCB69) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 5:14 | 2022-05-28 |  |
-| [ASEED](https://open.spotify.com/track/48eYAbFWCsSEs3oKMAlI0h) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [ASEED](https://open.spotify.com/album/7IRJ6a77nAR2jYEg5rDu1K) | 4:49 | 2022-05-28 |  |
+| [ASEED](https://open.spotify.com/track/48eYAbFWCsSEs3oKMAlI0h) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [ASEED](https://open.spotify.com/album/7IRJ6a77nAR2jYEg5rDu1K) | 4:49 | 2022-05-28 | 2022-06-09 |
 | [Awesome!](https://open.spotify.com/track/4nn6DnOS4lRqoMQlhuBJ7g) | [Maneki Kecak](https://open.spotify.com/artist/0LA2C0Cbh1jk7lDtQiTehi) | [Awesome!](https://open.spotify.com/album/42aC4sZesjIbfh8RWu8ymh) | 4:00 | 2022-05-28 |  |
 | [Before the Nightmare](https://open.spotify.com/track/6yLMicWzVVOvzlkXN9rcPl) | [高槻かなこ](https://open.spotify.com/artist/2do49zyzTTvfteT4XSof5k) | [Before the Nightmare](https://open.spotify.com/album/1nDKk1Ao6Y1UYjYTDndFw9) | 3:33 | 2022-05-28 |  |
 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 | 2022-05-28 | 2022-06-08 |
@@ -77,6 +77,7 @@
 | [怪物 \- from CrosSing](https://open.spotify.com/track/18uWFZy8dcor2WGr4aqNvD) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [怪物 \- from CrosSing](https://open.spotify.com/album/0fkkLbnAsSRDAzDCD9Nhv0) | 3:28 | 2022-05-28 |  |
 | [恋はエクスプロージョン](https://open.spotify.com/track/2dKAXekTOOuHA9fLTqvSUj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [恋はエクスプロージョン](https://open.spotify.com/album/6SVzGAC0PQpG3rGdh4GAWl) | 3:37 | 2022-05-28 |  |
 | [恋はエクスプロージョン \-TV edit\-](https://open.spotify.com/track/2VdBCarSytlCR9o16m2dfj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [カルバリンベア \[CV:安元洋貴\]](https://open.spotify.com/artist/0finzzKMafLBuwYlmanDqe) | [恋はエクスプロージョン \-TV edit\-](https://open.spotify.com/album/2gU2RMelECGHkRvkOzth0g) | 1:30 | 2022-05-28 | 2022-06-03 |
+| [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-06-08 |  |
 | [星が泳ぐ](https://open.spotify.com/track/0MnPdlWm7MSSUnEamZp5lX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [星が泳ぐ](https://open.spotify.com/album/7KgNsK5MtZJJSdNOFBu738) | 3:59 | 2022-05-28 |  |
 | [気分上々↑↑](https://open.spotify.com/track/4b55RzNokHkNtw0DhmEbdv) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p), [置鮎龍太郎](https://open.spotify.com/artist/0NPwoqej9GBiSlvZd89GLa) | [テレビアニメ「パリピ孔明」エンディングテーマ「気分上々↑↑」](https://open.spotify.com/album/4ZHduve9XLSCzgzuAEpo91) | 3:51 | 2022-05-28 |  |
 | [無心拍数 \- アオアシ ver.](https://open.spotify.com/track/5PfEiDJQNLsk0XCZ0GH1FJ) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [無心拍数 \(アオアシver.\)](https://open.spotify.com/album/59Cuih5G9jnGF2Qs5WrmvH) | 3:30 | 2022-06-02 |  |

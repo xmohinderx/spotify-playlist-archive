@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 162711,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/2nCL4jSUB2iLfySrjVTWgj"
@@ -1655,7 +1655,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 176000,
       "name": "Devil",
       "url": "https://open.spotify.com/track/4BVKDnYVUxbfBYJIip2RBp"
@@ -1943,7 +1943,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 178080,
       "name": "Dynasties and Dystopia (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2k2RPHMeyercU9PauiKNbU"
@@ -2402,6 +2402,28 @@
     },
     {
       "album": {
+        "name": "FALLEN STAR (feat. Y2K)",
+        "url": "https://open.spotify.com/album/25mw8OfaL2uShDPDb9Oieg"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        },
+        {
+          "name": "Y2K",
+          "url": "https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151358,
+      "name": "FALLEN STAR (feat. Y2K)",
+      "url": "https://open.spotify.com/track/2e3XcLWd1SzB5jlJu53blm"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/1Czfd5tEby3DbdYNdqzrCa"
       },
@@ -2457,7 +2479,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 194826,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/07GYummphjTwkCjNfJvIca"
@@ -3225,7 +3247,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 144000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
@@ -3795,7 +3817,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 123186,
       "name": "I'll Bite Your Soul",
       "url": "https://open.spotify.com/track/71qKWIBggc7poNXclWN53M"
@@ -4057,7 +4079,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 154038,
       "name": "Keep You",
       "url": "https://open.spotify.com/track/79qOs49qSotfX46OGByR0M"
@@ -4417,7 +4439,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 138928,
       "name": "life got crazy",
       "url": "https://open.spotify.com/track/5NXthnJecYXjt7sTEWETTY"
@@ -4443,6 +4465,32 @@
       "duration_ms": 237918,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/1K5KBOgreBi5fkEHvg5ap3"
+    },
+    {
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/4jFxIzyBN7JD5rwLT0chjg"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186805,
+      "name": "Lifetime (with Ty Dolla $ign & 070 Shake)",
+      "url": "https://open.spotify.com/track/3zQpGaH50HeMjxurMZVF6q"
     },
     {
       "album": {
@@ -4755,7 +4803,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 188368,
       "name": "love nwantiti (feat. Dj Yo! & AX'EL) - Remix",
       "url": "https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU"
@@ -5461,7 +5509,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
@@ -5835,7 +5883,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 292986,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/62vpWI1CHwFy7tMIcSStl8"
@@ -6395,7 +6443,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 141343,
       "name": "Phonky Town",
       "url": "https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv"
@@ -7841,7 +7889,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 215693,
       "name": "Solid (feat. Drake)",
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
@@ -8159,7 +8207,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 80080,
       "name": "SugarCrash!",
       "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
@@ -8739,7 +8787,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 150073,
       "name": "Till I'm Free",
       "url": "https://open.spotify.com/track/2yiyWdGXAfcEQ0lXaEjyid"
@@ -9535,6 +9583,28 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "album": {
+        "name": "Wherever I May Roam",
+        "url": "https://open.spotify.com/album/4SudRaQvl4sSGVCOkIPeTM"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158582,
+      "name": "Wherever I May Roam",
+      "url": "https://open.spotify.com/track/2UI3zZWB5SzfHQGgjkmlLB"
     },
     {
       "album": {

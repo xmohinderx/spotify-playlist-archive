@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
-  "num_followers": 502343,
+  "num_followers": 502482,
   "original_name": "Top 50 - Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA3OTE4ODc4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA4MDA2OTgyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "Dans P\u00e5 Bordet",
         "url": "https://open.spotify.com/album/0324AmCGXDbzi4XRgVVc7g"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/56kyGGwLIVAR30ZFiASn8Q"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "Kj\u00e6re Alkohol feat. Roc Boyz (Hall of Fame)",
         "url": "https://open.spotify.com/album/6d0YHvx8Sq39C1c2j8kpXy"
@@ -49,23 +65,23 @@
       "url": "https://open.spotify.com/track/35Wj4BI93AUX20ZIXsKJHy"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+        "name": "Creem",
+        "url": "https://open.spotify.com/album/1kUJ01Nycm2oNLal6zayRj"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
         }
       ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+      "duration_ms": 212160,
+      "name": "Creem",
+      "url": "https://open.spotify.com/track/2Ah0Z0ZFAhmfyJAakATMCR"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "Beklager (Guttaklubben)",
         "url": "https://open.spotify.com/album/2tzOjEcQoJOK3XNy87GVhG"
@@ -85,23 +101,55 @@
       "url": "https://open.spotify.com/track/2kPukYbkTVuvaNn4HhIPBW"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
-        "name": "Creem",
-        "url": "https://open.spotify.com/album/1kUJ01Nycm2oNLal6zayRj"
+        "name": "UNDERGRUNN",
+        "url": "https://open.spotify.com/album/6bO8ArMi8JRmdXBSdb99PZ"
       },
       "artists": [
         {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 212160,
-      "name": "Creem",
-      "url": "https://open.spotify.com/track/2Ah0Z0ZFAhmfyJAakATMCR"
+      "duration_ms": 170281,
+      "name": "Italia",
+      "url": "https://open.spotify.com/track/3h2IRgTZrU4hSNCePszT23"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "Syrener",
+        "url": "https://open.spotify.com/album/35KHrZ7KsOC7ajWq6SNxgu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 182875,
+      "name": "Syrener",
+      "url": "https://open.spotify.com/track/7iKUMPi3CcDLLNF4pU1vND"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "STAY KEEG",
         "url": "https://open.spotify.com/album/7K68f2Mbt0BQGd7NB7SEDv"
@@ -121,55 +169,7 @@
       "url": "https://open.spotify.com/track/25DxQM0bG7kbj2js8NCO9v"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "UNDERGRUNN",
-        "url": "https://open.spotify.com/album/6bO8ArMi8JRmdXBSdb99PZ"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 170281,
-      "name": "Italia",
-      "url": "https://open.spotify.com/track/3h2IRgTZrU4hSNCePszT23"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "Syrener",
-        "url": "https://open.spotify.com/album/35KHrZ7KsOC7ajWq6SNxgu"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 182875,
-      "name": "Syrener",
-      "url": "https://open.spotify.com/track/7iKUMPi3CcDLLNF4pU1vND"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "glorie",
         "url": "https://open.spotify.com/album/2DdUMgZh8haStlU30pcnZ0"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/4olmG0sFJ6L0LVI8ssiZFz"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "Bonanza",
         "url": "https://open.spotify.com/album/7a3xZcgBWeAS6F685fUHZK"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/70KdADbxWK0MAVXj0YvWDi"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
@@ -221,23 +221,7 @@
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "Omar Sheriff",
-        "url": "https://open.spotify.com/album/4pUvAgc5wiu5ww3v65wVB7"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        }
-      ],
-      "duration_ms": 226706,
-      "name": "PAF.no",
-      "url": "https://open.spotify.com/track/2coLAzVouJE4BC8lrKbDLk"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
@@ -257,43 +241,23 @@
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "Omar Sheriff",
+        "url": "https://open.spotify.com/album/4pUvAgc5wiu5ww3v65wVB7"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
         }
       ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+      "duration_ms": 226706,
+      "name": "PAF.no",
+      "url": "https://open.spotify.com/track/2coLAzVouJE4BC8lrKbDLk"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "TANTE",
-        "url": "https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU"
-      },
-      "artists": [
-        {
-          "name": "Kevin Lauren",
-          "url": "https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1"
-        },
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "TANTE",
-      "url": "https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
@@ -313,23 +277,7 @@
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
@@ -345,7 +293,43 @@
       "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "TANTE",
+        "url": "https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU"
+      },
+      "artists": [
+        {
+          "name": "Kevin Lauren",
+          "url": "https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1"
+        },
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "TANTE",
+      "url": "https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
@@ -365,7 +349,23 @@
       "url": "https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "Hot Boy Summer (Daydream 2022)",
         "url": "https://open.spotify.com/album/55OiMlnjge6GQzNwWsBNrR"
@@ -381,7 +381,55 @@
       "url": "https://open.spotify.com/track/4rU71m6Drus4eG3S4AQu3e"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "Hellig",
+        "url": "https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv"
+      },
+      "artists": [
+        {
+          "name": "Arif",
+          "url": "https://open.spotify.com/artist/3l4RyQwQ0kHZ9Q9cQbRNMr"
+        }
+      ],
+      "duration_ms": 219672,
+      "name": "Hellig",
+      "url": "https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "Brightsider",
+        "url": "https://open.spotify.com/album/43uMfPS6yerH5x4HQZg3zy"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Brightsider",
+      "url": "https://open.spotify.com/track/0VJddJ3CwYfjT67HXS4CEr"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "ok jeg lover",
+        "url": "https://open.spotify.com/album/1QI2qAcBNuoGmCDK3oQdio"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "duration_ms": 155971,
+      "name": "ok jeg lover",
+      "url": "https://open.spotify.com/track/6xb3ooLtkGkl4j1rGPmGKz"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
@@ -401,7 +449,7 @@
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "H\u00f8l i potta",
         "url": "https://open.spotify.com/album/4G82Kih2HtHLiM3xBptOZD"
@@ -425,23 +473,39 @@
       "url": "https://open.spotify.com/track/1fl1aY5bCIv0cin4a2YadF"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
-        "name": "ok jeg lover",
-        "url": "https://open.spotify.com/album/1QI2qAcBNuoGmCDK3oQdio"
+        "name": "Lykke te",
+        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
       },
       "artists": [
         {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 155971,
-      "name": "ok jeg lover",
-      "url": "https://open.spotify.com/track/6xb3ooLtkGkl4j1rGPmGKz"
+      "duration_ms": 164893,
+      "name": "Lykke te",
+      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "MEAN!",
+        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
+      },
+      "artists": [
+        {
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
+        }
+      ],
+      "duration_ms": 143957,
+      "name": "MEAN!",
+      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -457,23 +521,7 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "Brightsider",
-        "url": "https://open.spotify.com/album/43uMfPS6yerH5x4HQZg3zy"
-      },
-      "artists": [
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Brightsider",
-      "url": "https://open.spotify.com/track/0VJddJ3CwYfjT67HXS4CEr"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "The Drum",
         "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
@@ -489,7 +537,83 @@
       "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "Loud Luxury 2022",
+        "url": "https://open.spotify.com/album/67Ds9HmHBa23HxCbNSz82B"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        },
+        {
+          "name": "Kevin Lauren",
+          "url": "https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1"
+        }
+      ],
+      "duration_ms": 122331,
+      "name": "Loud Luxury 2022",
+      "url": "https://open.spotify.com/track/3IVkcYvMiqvRKa4ip0E7a8"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "Nakna",
+        "url": "https://open.spotify.com/album/4zacb3qCyV8O9JUec4J6CV"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        },
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Nakna",
+      "url": "https://open.spotify.com/track/0qxcpLv3bdhq8fJbh5BkSg"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
@@ -513,127 +637,7 @@
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "MEAN!",
-        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
-      },
-      "artists": [
-        {
-          "name": "Madeline The Person",
-          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
-        }
-      ],
-      "duration_ms": 143957,
-      "name": "MEAN!",
-      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "Lykke te",
-        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Lykke te",
-      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "Loud Luxury 2022",
-        "url": "https://open.spotify.com/album/67Ds9HmHBa23HxCbNSz82B"
-      },
-      "artists": [
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        },
-        {
-          "name": "Kevin Lauren",
-          "url": "https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1"
-        }
-      ],
-      "duration_ms": 122331,
-      "name": "Loud Luxury 2022",
-      "url": "https://open.spotify.com/track/3IVkcYvMiqvRKa4ip0E7a8"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "Hellig",
-        "url": "https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv"
-      },
-      "artists": [
-        {
-          "name": "Arif",
-          "url": "https://open.spotify.com/artist/3l4RyQwQ0kHZ9Q9cQbRNMr"
-        }
-      ],
-      "duration_ms": 219672,
-      "name": "Hellig",
-      "url": "https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "Give That Wolf A Banana",
-        "url": "https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as"
-      },
-      "artists": [
-        {
-          "name": "Subwoolfer",
-          "url": "https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf"
-        }
-      ],
-      "duration_ms": 171933,
-      "name": "Give That Wolf A Banana",
-      "url": "https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "Nakna",
-        "url": "https://open.spotify.com/album/4zacb3qCyV8O9JUec4J6CV"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        },
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        }
-      ],
-      "duration_ms": 192080,
-      "name": "Nakna",
-      "url": "https://open.spotify.com/track/0qxcpLv3bdhq8fJbh5BkSg"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "Bak en fasade",
         "url": "https://open.spotify.com/album/3d0h7wXfZmHtOpX6YlNXGg"
@@ -649,151 +653,7 @@
       "url": "https://open.spotify.com/track/6qMf3eqbmToDXj7LixyK1w"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "Dancing Feet (feat. DNCE)",
-        "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 215203,
-      "name": "Dancing Feet (feat. DNCE)",
-      "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "Den fineste Chevy'n (feat. Maria Mena)",
-        "url": "https://open.spotify.com/album/7G8XJLSXvjpXiOLwCKhSpQ"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        },
-        {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Den fineste Chevy'n (feat. Maria Mena)",
-      "url": "https://open.spotify.com/track/2Y7npn076wSZJgH8HVr2B2"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "Death of a Bachelor",
-        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "House of Memories",
-      "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "31 Etasje",
-        "url": "https://open.spotify.com/album/4rLCQSbO9N5KjsLpH3dzQy"
-      },
-      "artists": [
-        {
-          "name": "Capow x 2G",
-          "url": "https://open.spotify.com/artist/1aNuhjKCoAQGBnIiyCGI3a"
-        }
-      ],
-      "duration_ms": 157765,
-      "name": "31 Etasje",
-      "url": "https://open.spotify.com/track/1g6pAG1re0AKUO26JJpZJ8"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "Holder igjen",
         "url": "https://open.spotify.com/album/5ZIsJ54nbdRqGTOoWh4dqb"
@@ -813,7 +673,39 @@
       "url": "https://open.spotify.com/track/1QrKkPNEmTyjKF2UsVuBe2"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "Death of a Bachelor",
+        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "House of Memories",
+      "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "Lekeland 2022",
         "url": "https://open.spotify.com/album/4byCQSvHrXFcy2uMbEuC0Y"
@@ -829,23 +721,79 @@
       "url": "https://open.spotify.com/track/03OkFJQvdweiwzZcPPsQ23"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
       "album": {
-        "name": "17.mai",
-        "url": "https://open.spotify.com/album/7rI1u5pjkUtKP7uNA4BTAo"
+        "name": "Dancing Feet (feat. DNCE)",
+        "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
       "artists": [
         {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
         }
       ],
-      "duration_ms": 161649,
-      "name": "17.mai",
-      "url": "https://open.spotify.com/track/1CKzgcXfVsQwfoWA8Ft048"
+      "duration_ms": 215203,
+      "name": "Dancing Feet (feat. DNCE)",
+      "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "En g\u00e5ng till",
+        "url": "https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "En g\u00e5ng till",
+      "url": "https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
@@ -865,7 +813,75 @@
       "url": "https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ"
     },
     {
-      "added_at": "2022-06-07 12:07:58",
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "Den fineste Chevy'n (feat. Maria Mena)",
+        "url": "https://open.spotify.com/album/7G8XJLSXvjpXiOLwCKhSpQ"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        },
+        {
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Den fineste Chevy'n (feat. Maria Mena)",
+      "url": "https://open.spotify.com/track/2Y7npn076wSZJgH8HVr2B2"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "Give That Wolf A Banana",
+        "url": "https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as"
+      },
+      "artists": [
+        {
+          "name": "Subwoolfer",
+          "url": "https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf"
+        }
+      ],
+      "duration_ms": 171933,
+      "name": "Give That Wolf A Banana",
+      "url": "https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "17.mai",
+        "url": "https://open.spotify.com/album/7rI1u5pjkUtKP7uNA4BTAo"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "duration_ms": 161649,
+      "name": "17.mai",
+      "url": "https://open.spotify.com/track/1CKzgcXfVsQwfoWA8Ft048"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
+      "album": {
+        "name": "31 Etasje",
+        "url": "https://open.spotify.com/album/4rLCQSbO9N5KjsLpH3dzQy"
+      },
+      "artists": [
+        {
+          "name": "Capow x 2G",
+          "url": "https://open.spotify.com/artist/1aNuhjKCoAQGBnIiyCGI3a"
+        }
+      ],
+      "duration_ms": 157765,
+      "name": "31 Etasje",
+      "url": "https://open.spotify.com/track/1g6pAG1re0AKUO26JJpZJ8"
+    },
+    {
+      "added_at": "2022-06-08 12:36:22",
       "album": {
         "name": "Suks\u00e9 2022 (Hjemmesm\u00e6ck)",
         "url": "https://open.spotify.com/album/6tKzmHLOGWSPBRp8msUVBF"
@@ -883,22 +899,6 @@
       "duration_ms": 146869,
       "name": "Suks\u00e9 2022 (Hjemmesm\u00e6ck)",
       "url": "https://open.spotify.com/track/0gG0dF1yexUsE8OO7mq8Kn"
-    },
-    {
-      "added_at": "2022-06-07 12:07:58",
-      "album": {
-        "name": "En g\u00e5ng till",
-        "url": "https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "En g\u00e5ng till",
-      "url": "https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58"
     }
   ],
   "unique_name": "Top 50 - Norway",

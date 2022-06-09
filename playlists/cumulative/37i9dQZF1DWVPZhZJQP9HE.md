@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : OfRo
 
-99 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+100 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Touch Screen Kadhal](https://open.spotify.com/track/4AU6KiMcQu8tdkqNXYWgMW) | [Naveed Rehman](https://open.spotify.com/artist/7iJepRkB92sBPs7Z8IGpuq), [Edwin Louis Viswanath](https://open.spotify.com/artist/05t6zyU1voo2yoNFSYs7ZJ), [Krithika Konda](https://open.spotify.com/artist/0C6HJwIELlDdJqgDlIqnEp) | [Touch Screen Kadhal](https://open.spotify.com/album/6WXA3fS0VOCohESXYXVoKv) | 3:10 | 2021-12-01 |  |
 | [Un Ninaivugal \- From "In Your Memories"](https://open.spotify.com/track/3ysjboigvFM7UKnDKPlm1D) | [Theeson](https://open.spotify.com/artist/0vmZiK1KvPuLrLgznHL6VC), [A Pa Raja](https://open.spotify.com/artist/0yl8I0igWYBaHNsBHyccqm) | [Un Ninaivugal \(From "In Your Memories"\)](https://open.spotify.com/album/5ke4a8a48giAbmzFJU0oOg) | 4:29 | 2022-06-04 |  |
 | [Unargiren Kadhalai](https://open.spotify.com/track/3dVKBI0JHYKJcQtdhMg1n4) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Unargiren Kadhalai](https://open.spotify.com/album/7HD9wgEwhMTIMYSCeG3xcf) | 2:53 | 2022-05-19 |  |
+| [Unnai Paarthu \- Naatpadu Theral \- 2](https://open.spotify.com/track/4Q1CgfS96N9fEp4pJFFMyi) | [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Unnai Paarthu \(Naatpadu Theral \- 2\)](https://open.spotify.com/album/1YbsoNpGSL6NxczF0z7jSV) | 5:28 | 2022-06-08 |  |
 | [Vaada Raasa](https://open.spotify.com/track/6RfgIiqwQNi6b1n0qaa6g0) | [Ken](https://open.spotify.com/artist/6uYgB2FmDEimp0hJJouph1), [Eshwar](https://open.spotify.com/artist/05e3yCFYzbJC96M1QuHk6S), [Grace Karunaas](https://open.spotify.com/artist/2zEQ0pc1VWUHsXv5gXXBHO) | [Vaada Raasa](https://open.spotify.com/album/0ZmshsAYVZrMktBsNXTsDA) | 3:56 | 2021-12-01 |  |
 | [Vaadi En Chellakutty](https://open.spotify.com/track/4kn6th3uhNQtDxOrizmGuc) | [Arul Raj](https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Vaadi En Chellakutty](https://open.spotify.com/album/2ojS8OYg4oQwuzCEHSjUux) | 3:16 | 2022-04-08 |  |
 | [Vainko](https://open.spotify.com/track/1nLdzIq6U8wavefMS1fou7) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Vainko](https://open.spotify.com/album/2roNgyh1Jymvnt17NBgPic) | 2:53 | 2021-12-01 |  |

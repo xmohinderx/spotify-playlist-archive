@@ -1,13 +1,49 @@
 {
   "description": "All the New Joints featuring Polo G, Gucci Mane and more. Cover: Vory",
-  "num_followers": 166923,
+  "num_followers": 167008,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDUzOTQzOCwwMDAwMDBkZDAwMDAwMTgxM2EzYzRiOGYwMDAwMDE4MTJiZDEwNDdl",
+  "snapshot_id": "MTY1NDczMDYyOCwwMDAwMDBkZTAwMDAwMTgxNDVhMTliZWQwMDAwMDE4MTJiZDEwNDdl",
   "tracks": [
+    {
+      "added_at": "2022-06-08 23:23:48",
+      "album": {
+        "name": "Denial",
+        "url": "https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Denial",
+      "url": "https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf"
+    },
+    {
+      "added_at": "2022-06-08 23:23:48",
+      "album": {
+        "name": "HOME (Remix)",
+        "url": "https://open.spotify.com/album/3DQqcMjcI066eFySU4whoW"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "HOME - Remix",
+      "url": "https://open.spotify.com/track/3lcJOGpwiiLN7SjhV1UK9J"
+    },
     {
       "added_at": "2022-06-03 04:00:00",
       "album": {
@@ -23,22 +59,6 @@
       "duration_ms": 237904,
       "name": "Mrs. Davis",
       "url": "https://open.spotify.com/track/3LKd2tQ7VdOf1cENAKZCz0"
-    },
-    {
-      "added_at": "2022-06-03 04:00:00",
-      "album": {
-        "name": "Distraction",
-        "url": "https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 171319,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
     },
     {
       "added_at": "2022-06-03 04:00:00",
@@ -111,6 +131,22 @@
       "duration_ms": 161355,
       "name": "Sleazy Flow (with Lil Baby) - Remix",
       "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
+    },
+    {
+      "added_at": "2022-06-03 04:00:00",
+      "album": {
+        "name": "Distraction",
+        "url": "https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 171319,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
     },
     {
       "added_at": "2022-06-03 04:00:00",

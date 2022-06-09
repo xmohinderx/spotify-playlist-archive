@@ -4,7 +4,7 @@
 
 > Ina & Jeffrey & apple pies \(plural\) for dinner
 
-65 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/6nR9fObgGSerkhsDfjVzFd)
+66 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/6nR9fObgGSerkhsDfjVzFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Man Without Love](https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:23 | 2022-05-13 |  |
 | [After All This Time](https://open.spotify.com/track/202Rv6z4W2aE0rxYwUfCq9) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 3:10 | 2022-05-13 |  |
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 | 2022-05-13 |  |
+| [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 | 2022-06-08 |  |
 | [As Time Goes By](https://open.spotify.com/track/7nX7JMnSP9XmLjgv6pzcyr) | [Jimmy Durante](https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v) | [Jimmy' Durante's Way Of Life](https://open.spotify.com/album/0kG2hzYNEZktAgA9v6Al7T) | 2:28 | 2022-05-13 |  |
 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 | 2022-06-06 |  |
 | [Begin the Beguine \(Volver a Empezar\)](https://open.spotify.com/track/3vSGGtjD7JLA9Q6I36sGve) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 4:44 | 2022-05-13 |  |
@@ -57,7 +58,7 @@
 | [Right Back Where We Started From](https://open.spotify.com/track/0Ar1ynkK5zEqFsw2vgez4w) | [Maxine Nightingale](https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi) | [Lost Hits Of The 70's \(All Original Artists & Versions\)](https://open.spotify.com/album/3AcwJqNT1LgZdTttHkoaZ0) | 3:18 | 2022-05-13 |  |
 | [Somethin' Stupid](https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [The World We Knew](https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO) | 2:42 | 2022-05-13 |  |
 | [Stay](https://open.spotify.com/track/16ov7zgIXo9muo7SwQQPhN) | [Maurice Williams & The Zodiacs](https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 1:35 | 2022-05-13 |  |
-| [Stop, Look, Listen \(To Your Heart\)](https://open.spotify.com/track/0kKpGcvoXroKo1iNO5cDhi) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 2:57 | 2022-05-13 |  |
+| [Stop, Look, Listen \(To Your Heart\)](https://open.spotify.com/track/0kKpGcvoXroKo1iNO5cDhi) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 2:57 | 2022-05-13 | 2022-06-09 |
 | [Sway](https://open.spotify.com/track/2ajUl8lBLAXOXNpG4NEPMz) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 3:08 | 2022-05-13 |  |
 | [Tell Him \- Single Version](https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B) | [The Exciters](https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO) | [Tell Him](https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg) | 2:36 | 2022-05-13 |  |
 | [Thank You for Being a Friend](https://open.spotify.com/track/5yNUgA66PbcPIJPOU2eBwR) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [All This and Heaven Too](https://open.spotify.com/album/3XOMPHoTULcm8kEqHp7YlE) | 4:40 | 2022-05-13 |  |

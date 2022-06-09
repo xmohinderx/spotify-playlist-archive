@@ -4,7 +4,7 @@
 
 > Find your focus with instrumental jazz.
 
-177 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/7gIhFLebpQ44ylgm47ptoC)
+180 songs - 11 hr 12 min - [published](https://open.spotify.com/playlist/7gIhFLebpQ44ylgm47ptoC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Lady in the Blue Dress](https://open.spotify.com/track/4PtCTyed2hD6brWYYBZSQj) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Lady in the Blue Dress](https://open.spotify.com/album/2nN6DzHIhxoFSzfEdxZszD) | 4:07 | 2022-04-11 |  |
 | [Lament](https://open.spotify.com/track/3HeycjEKlBwsSyAm78dle6) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Lament](https://open.spotify.com/album/42sHzP8X3IDIZLdIQem4b7) | 2:55 | 2022-04-11 |  |
 | [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2022-04-11 |  |
+| [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-06-08 |  |
 | [Life In Paradise](https://open.spotify.com/track/7DhwU4DOhVLPI30Rj2X6e4) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [Life In Paradise](https://open.spotify.com/album/5TNHvnh6yY5FwDBqo3g59W) | 4:34 | 2022-05-31 |  |
 | [Litania](https://open.spotify.com/track/0ou3UbT1V1FaGU5oz6Q8Bo) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Litania](https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR) | 3:55 | 2022-04-11 |  |
 | [Living In Paradise](https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 4:48 | 2022-05-24 |  |
@@ -124,12 +125,14 @@
 | [One of your little friends](https://open.spotify.com/track/24mDMSSd3K07ilwCA83WzW) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [One of your little friends](https://open.spotify.com/album/4Y5JiG4M9HjYWqsgK3vv5n) | 2:43 | 2022-04-11 |  |
 | [Our Best Year Yet](https://open.spotify.com/track/628mswwaHdp8bFEKsOCwCa) | [Andi Weiss Trio](https://open.spotify.com/artist/7pMhB3Lo7q9XPC4pbNdRlp) | [Our Best Year Yet](https://open.spotify.com/album/1T3kqQSoxwY8hjM8CkJIcL) | 4:38 | 2022-04-11 |  |
 | [Peace](https://open.spotify.com/track/6qxR6arAISIf7Mm2ynH4u1) | [William Carter Band](https://open.spotify.com/artist/4hUzAt6msIzmNC8jQE0X28) | [Relaxin' at Camarillo](https://open.spotify.com/album/1N5BtVcBtLY8cSF2XdjwwE) | 3:13 | 2022-04-11 |  |
+| [Perception Through A Crystal Orb](https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Perception Through A Crystal Orb](https://open.spotify.com/album/0vrjE37V3hoBoEBFW1FP4m) | 3:10 | 2022-06-08 |  |
 | [Pink Balloons](https://open.spotify.com/track/328IUKlFSM9s4PtJHkrFir) | [Manuel Cali Band](https://open.spotify.com/artist/0EUayRxSuHe3rEgexVFpk6) | [Pink Balloons](https://open.spotify.com/album/7agJWbtNcNFJzvtn62eN9q) | 4:24 | 2022-04-11 |  |
 | [Prelude to a Kiss](https://open.spotify.com/track/4WTKq8cF5bZJNlvZyKVff8) | [Brendan Maynard + 2](https://open.spotify.com/artist/28j2IaYoLNPDEr3ogCZ4tM) | [Giant Steps](https://open.spotify.com/album/2m5RKUit8PUNE6QPcmA7sI) | 4:24 | 2022-04-11 |  |
 | [Quiet Now](https://open.spotify.com/track/42Z4Egilt6kqyDKDugV9v3) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 4:43 | 2022-04-11 |  |
 | [Roses](https://open.spotify.com/track/3rHZHXHKsjvJJPgBiQMmQR) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Roses](https://open.spotify.com/album/0UeANj4WzvJQmhb509bqmL) | 4:11 | 2022-04-11 |  |
 | [Ruby, My Dear](https://open.spotify.com/track/4g3uehMazGScLiI42Xf9C4) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Ruby, My Dear](https://open.spotify.com/album/0rnHMooxC9N4V85h8dSuVp) | 2:48 | 2022-05-31 |  |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-04-11 |  |
+| [Send In the Clowns](https://open.spotify.com/track/2kdj6VfxCgDCC5Uemxwj6E) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Send In the Clowns](https://open.spotify.com/album/7EqrUNHWxGu3cxftUQzCWe) | 3:25 | 2022-06-08 |  |
 | [September Song](https://open.spotify.com/track/5K9W2clr01zZZVu80avRLA) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [September Song](https://open.spotify.com/album/2FSt6Jj7xms6x5g0gwA77K) | 4:21 | 2022-04-11 |  |
 | [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 | 2022-04-11 |  |
 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 | 2022-04-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133 likes - 149 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 132 likes - 149 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 86 | [Veneno](https://open.spotify.com/track/1IN2Ufuu1Ojs5Twb6ASmRt) | [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw) | [Stereo](https://open.spotify.com/album/5G4X3SZkDl63ggFtOdQVuW) | 3:06 |
 | 87 | [Go](https://open.spotify.com/track/4frROcrrwj4vrUs1USFvj2) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG), [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 2:53 |
 | 88 | [Dime Si Hay Algo](https://open.spotify.com/track/4BfQiVrz0EnPjH1nNoAXez) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Dime Si Hay Algo](https://open.spotify.com/album/6qhosK2xnpgEL1PEtElNlz) | 2:40 |
-| 89 | [Diciembre Sin Ti](https://open.spotify.com/track/4RS4SB4CcZybf1kGz993ds) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Diciembre Sin Ti](https://open.spotify.com/album/4Fer79sUn0C5roLh5GaO9i) | 3:27 |
-| 90 | [Vueltas en Tu Mente](https://open.spotify.com/track/1O21qdm5tVS3j7fM4DCTys) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:55 |
+| 89 | [Vueltas en Tu Mente](https://open.spotify.com/track/1O21qdm5tVS3j7fM4DCTys) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:55 |
+| 90 | [Diciembre Sin Ti](https://open.spotify.com/track/4RS4SB4CcZybf1kGz993ds) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Diciembre Sin Ti](https://open.spotify.com/album/4Fer79sUn0C5roLh5GaO9i) | 3:27 |
 | 91 | [Blinded](https://open.spotify.com/track/239chagYycSREsWq5wGq97) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Every Third Thought](https://open.spotify.com/album/5EkUotvrlGXnq8rdkT1Pju) | 3:52 |
 | 92 | [Malas Lenguas](https://open.spotify.com/track/4D0KRwHE25Q3HDzD7dORX5) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Intuición](https://open.spotify.com/album/1wFlOd0yqPGfly3SFTw86T) | 2:44 |
-| 93 | [Sentado](https://open.spotify.com/track/7lD6RFjjaqbaN1qOu4e07g) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [Sentado](https://open.spotify.com/album/37d5zTOOBf6a8AGOQJLdhL) | 3:28 |
-| 94 | [Los Rotos](https://open.spotify.com/track/6m8Trwk0TR8ZHLgRfcHiVZ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Los Rotos](https://open.spotify.com/album/3Jct1NzCRYQZno5UbLVgfP) | 3:26 |
+| 93 | [Los Rotos](https://open.spotify.com/track/6m8Trwk0TR8ZHLgRfcHiVZ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Los Rotos](https://open.spotify.com/album/3Jct1NzCRYQZno5UbLVgfP) | 3:26 |
+| 94 | [Sentado](https://open.spotify.com/track/7lD6RFjjaqbaN1qOu4e07g) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [Sentado](https://open.spotify.com/album/37d5zTOOBf6a8AGOQJLdhL) | 3:28 |
 | 95 | [Free Like A Bird](https://open.spotify.com/track/1Z9iPNOlVp6whFtC19PBnW) | [Reamonn](https://open.spotify.com/artist/4VH2QabEORUUhN1F1cYQ6N) | [Reamonn](https://open.spotify.com/album/6mBD8yF24pYPia4n401Krw) | 3:06 |
 | 96 | [Taxi Man](https://open.spotify.com/track/4KuQ7E0uIKWqVCOtI2zxmU) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Every Third Thought](https://open.spotify.com/album/5EkUotvrlGXnq8rdkT1Pju) | 4:12 |
 | 97 | [4.9.14](https://open.spotify.com/track/74iHEjllcj4HiTQ8YLRjOh) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 0:34 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 148 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 149 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjc1Nzc4MDQsMDAwMDAwMDA1MGFiMjBjZjRiN2FhZGQwNjRlODQ0OTEyNTQ2NmU1NA==`
+Snapshot ID: `Mjc1Nzg5NDQsMDAwMDAwMDAyYzVjZWNhNzkzZGFjMjhiMzc2MmUyY2NjMGNiYmViNw==`

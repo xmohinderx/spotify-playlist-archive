@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -1787,7 +1787,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 170081,
       "name": "Bon Appetit",
       "url": "https://open.spotify.com/track/0VlExUqOmUhF3KBLiCNcn9"
@@ -1889,7 +1889,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
@@ -9155,7 +9155,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 121972,
       "name": "MIDNIGHT",
       "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
@@ -10203,7 +10203,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 222453,
       "name": "No Excuses",
       "url": "https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7"
@@ -11339,7 +11339,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 196413,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1"
@@ -15138,6 +15138,28 @@
     },
     {
       "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
+    },
+    {
+      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -15189,7 +15211,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Vihje",
       "url": "https://open.spotify.com/track/1w2vjbD7OmP9TaPRiiA2xW"
@@ -15643,7 +15665,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
@@ -16881,7 +16903,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 211583,
       "name": "\u0421\u0432\u043e\u0439 \u0434\u043e\u043c",
       "url": "https://open.spotify.com/track/6ovBMbqpAA8N1FtN1fa0Vq"

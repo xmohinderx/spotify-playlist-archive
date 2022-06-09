@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Spice
 
-337 songs - 17 hr 46 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
+338 songs - 17 hr 49 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Cry 4 U](https://open.spotify.com/track/7pKwUPlNzY9HDN7lGL4KjR) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [513](https://open.spotify.com/album/6NDmSdY3c1glA8GPk3jYrn) | 2:35 | 2022-06-01 |  |
 | [Crystal Ball](https://open.spotify.com/track/2U5WF7KJR8Uh4RJIUKvr9z) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [Crystal Ball](https://open.spotify.com/album/12V9dpCyl7Hmrw718OfDHY) | 4:07 | 2022-03-08 | 2022-04-07 |
 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 | 2022-04-06 | 2022-05-04 |
-| [DANCING ELEPHANTS](https://open.spotify.com/track/7iMvfX5hAfh2ZeYshXyzaJ) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL) | 5:18 | 2022-02-02 | 2022-03-09 |
+| [DANCING ELEPHANTS](https://open.spotify.com/track/7iMvfX5hAfh2ZeYshXyzaJ) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL) | 5:18 | 2022-02-02 |  |
 | [Dans la foule](https://open.spotify.com/track/1lxW5i6WdLJpUJYqOyMpNS) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Dans la foule](https://open.spotify.com/album/4Bcl7TLTBO7Q6Sbks59HRC) | 2:34 | 2022-03-08 | 2022-04-07 |
 | [Date a Friend](https://open.spotify.com/track/4E5SAE7v1HwDFUVC9Jf5Ly) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [Date a Friend](https://open.spotify.com/album/53xmPUICYWyBcNibRkqZ7c) | 2:58 | 2022-01-05 | 2022-02-03 |
 | [Dead to You](https://open.spotify.com/track/4W1W0DzHwGbmepJ0BvAT8F) | [Vi](https://open.spotify.com/artist/0XPSOhKsMhkMtCJN2zdLJb) | [Dead to You](https://open.spotify.com/album/3e1zOzZmghrlUxi9LNiBky) | 2:42 | 2022-03-08 | 2022-04-07 |
@@ -125,7 +125,7 @@
 | [Good Life](https://open.spotify.com/track/0qllV0IlmVXSfyMYbw3f24) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Good Life](https://open.spotify.com/album/3M1JK89DR8qGwTj6CVaPIm) | 3:35 | 2022-03-08 | 2022-04-07 |
 | [Gorgeous Gorgeous Girls](https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Gorgeous Gorgeous Girls](https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh) | 1:56 | 2022-06-01 |  |
 | [Gossip](https://open.spotify.com/track/5GWE2impMFvY0oeRd1Xivt) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Gossip](https://open.spotify.com/album/2RBHpIgzKjrGmmkLPUcVI3) | 4:01 | 2022-04-06 | 2022-05-04 |
-| [GOT EM](https://open.spotify.com/track/0DNd9G0yzPVeE7szNAHvKS) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL) | 3:46 | 2022-06-01 |  |
+| [GOT EM](https://open.spotify.com/track/0DNd9G0yzPVeE7szNAHvKS) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL) | 3:46 | 2022-06-01 | 2022-06-09 |
 | [Gucci Store](https://open.spotify.com/track/1tQ6N1dQiXepKnjetWVsAc) | [Prado](https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq) | [Gucci Store](https://open.spotify.com/album/3xxp6GqKMcwBT41XQmad9w) | 2:02 | 2022-06-01 |  |
 | [GUCCI STORE](https://open.spotify.com/track/59kt49byEHeCA7lXDLolu0) | [Prado](https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq) | [PRADO MONROE](https://open.spotify.com/album/1glnddunjz2TgTrx8wF3ZO) | 2:02 | 2022-02-02 | 2022-03-09 |
 | [Half Empty](https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Half Empty](https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH) | 3:24 | 2022-06-01 |  |
@@ -269,6 +269,7 @@
 | [Satellite](https://open.spotify.com/track/6kG8HRKKUAmhYVybHuumQs) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/3BiFlyltCdmuo1z2Yjf85R) | 3:04 | 2022-06-01 |  |
 | [SAVING GRACE](https://open.spotify.com/track/5GfNqvXZ1BEjcjZfcAm8MF) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAVING GRACE](https://open.spotify.com/album/2MzlnjjIg4PDsIL8PgBuNr) | 2:52 | 2022-05-04 | 2022-06-01 |
 | [Scissors](https://open.spotify.com/track/7DaFmydulTDDndxR7q4ZGt) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Scissors](https://open.spotify.com/album/3Q7ztq5q819kn2aqdGzGVh) | 2:37 | 2022-06-01 |  |
+| [see](https://open.spotify.com/track/4XCtH5vh7O5YwMbVBgRReb) | [Ceréna](https://open.spotify.com/artist/6jdYcGAF6rLHIf1uc21w37) | [resurrection](https://open.spotify.com/album/0tKwVfDWP4UIVvepbmg08N) | 2:53 | 2022-06-08 |  |
 | [Selfish](https://open.spotify.com/track/4y3jlIv1tEecRRmp3rUovX) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/5l7N5sEr1ALaHvBuMEZ5a0) | 2:41 | 2021-12-08 | 2022-01-06 |
 | [Semblant](https://open.spotify.com/track/3FNMxPJ85bFP2MGJyedZqB) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Semblant](https://open.spotify.com/album/1t3VYcOEPrrXHwVuIA8MY5) | 3:06 | 2022-05-04 | 2022-06-01 |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-03-08 | 2022-04-07 |

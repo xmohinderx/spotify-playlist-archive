@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 195692,
       "name": "Ama Porra Nenhuma",
       "url": "https://open.spotify.com/track/2wiFzIv7FevsAp1lPyIy6Z"
@@ -2939,7 +2939,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "Gimme Gimme / Baile Do Cinga",
       "url": "https://open.spotify.com/track/1SW1tFrjCleUYsi5De8bF2"
@@ -6551,6 +6551,32 @@
       "duration_ms": 155076,
       "name": "Sem Putaria",
       "url": "https://open.spotify.com/track/51LhlYexKRciBLdyz4plQe"
+    },
+    {
+      "album": {
+        "name": "Semblante de Criminoso",
+        "url": "https://open.spotify.com/album/07rIyt2OE70H5lcdErEZyY"
+      },
+      "artists": [
+        {
+          "name": "DJ Cayoo",
+          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
+        },
+        {
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        },
+        {
+          "name": "Isabely Thompson",
+          "url": "https://open.spotify.com/artist/7rxU9kv0hKbIQrqvT5T0WV"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106153,
+      "name": "Semblante de Criminoso",
+      "url": "https://open.spotify.com/track/3IYagvgADm3OEihjyAHdG0"
     },
     {
       "album": {

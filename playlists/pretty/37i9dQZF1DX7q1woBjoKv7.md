@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover, Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,860 likes - 58 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,865 likes - 58 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

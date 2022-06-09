@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 195365,
       "name": "A Sonic Womb Pt. 3",
       "url": "https://open.spotify.com/track/5cuoT2PzaEPjfnPjoaIt2K"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 123666,
       "name": "Bel Canto",
       "url": "https://open.spotify.com/track/2AoTWMO8PyX6kyUHVcIxxH"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 285986,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/4yUwQRabaQZMbVOkPxxdap"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 213706,
       "name": "Capri",
       "url": "https://open.spotify.com/track/2M5QxNMs83xjGeKba51o4w"
@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207826,
+      "name": "Etude",
+      "url": "https://open.spotify.com/track/4mOCUgov9WwOt40RAbD3xX"
+    },
+    {
+      "album": {
         "name": "Flowers Of Evil",
         "url": "https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6"
       },
@@ -437,7 +455,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 174000,
       "name": "Hotel Luna",
       "url": "https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh"
@@ -527,7 +545,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "La Mer",
       "url": "https://open.spotify.com/track/3h8kKBk7Chy2LXzUhLmVAP"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 295266,
       "name": "Lumiere",
       "url": "https://open.spotify.com/track/1KnxOiS6IdrYyWY708m7Tf"
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 225000,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/7rXifdGnx7Lfe40VE5TTwT"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 251226,
       "name": "Riding Heaven's Wave: Eulogy to a Surfer",
       "url": "https://open.spotify.com/track/0bgUeNfG2l4STlnn2CBV59"
@@ -1229,7 +1247,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 215360,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/5voa2qWyVFrcjihOdFq4hF"
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 255866,
       "name": "Wine Dark Sea",
       "url": "https://open.spotify.com/track/6fx3pLWTbmyaCo8z64LrPI"

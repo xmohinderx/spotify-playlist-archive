@@ -4,7 +4,7 @@
 
 > Los corridos más placosos que suenan en las calles\. Justin Morales en portada.
 
-50 songs - 2 hr 33 min - [published](https://open.spotify.com/playlist/0pNLi5IU8KFpQH3mzOOXMv)
+51 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/0pNLi5IU8KFpQH3mzOOXMv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [El Güero \- En vivo](https://open.spotify.com/track/7a6gK5GwlIvGTU4ayZhskd) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:39 | 2022-02-04 |  |
 | [El Leon](https://open.spotify.com/track/0STQWyHEs8KGEphskbvNhG) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Leon](https://open.spotify.com/album/3R3anCeS43apevQ5QMJkeZ) | 2:07 | 2022-05-13 |  |
 | [El Mal Camino](https://open.spotify.com/track/0pnhsviUIvmLrtiVm2fyjR) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El Mal Camino](https://open.spotify.com/album/4CjpZtBUmPkvA9crA2Sx38) | 3:58 | 2022-04-08 |  |
+| [El Sereno](https://open.spotify.com/track/5QPWf9dawZ1Y9RbQHIUSlA) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Sereno](https://open.spotify.com/album/3oA4dxVIFwgL6sjPmRZtHz) | 2:43 | 2022-06-08 |  |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-05-13 |  |
 | [en el Refuego](https://open.spotify.com/track/2dDfS3g7VYjQLDqPnMY8oB) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [en el Refuego](https://open.spotify.com/album/2pGsHPDALnunKWNyvnr03f) | 3:04 | 2022-02-04 |  |
 | [Fumando Mota](https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Desde la Raíz](https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y) | 3:21 | 2022-02-04 |  |
@@ -50,7 +51,7 @@
 | [Por Si Acaso](https://open.spotify.com/track/0FBQk9b2mveexdjaiZhySz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k) | [Por Si Acaso](https://open.spotify.com/album/3bhs4igaxstdRBeZHfahiP) | 3:18 | 2022-02-04 |  |
 | [Por Si Me Ven](https://open.spotify.com/track/2zdSdKPkS7m00YyP5cSXzA) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Por Si Me Ven \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/6VIJyFOYY2NVDwGLN0Ubnc) | 2:02 | 2022-02-21 |  |
 | [Que Esta Pasando](https://open.spotify.com/track/26xQbFpVg8JCT5NKQFJXg8) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Que Esta Pasando](https://open.spotify.com/album/6Oe0sKJyLnwFwfKwcbSRZS) | 2:42 | 2022-02-04 |  |
-| [Relojito Adiamantado](https://open.spotify.com/track/1r9My2hXZ2Bc1OiN7YPii6) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Relojito Adiamantado](https://open.spotify.com/album/3GjHAOsVfsiYb698EgpzEm) | 2:58 | 2022-04-08 |  |
+| [Relojito Adiamantado](https://open.spotify.com/track/1r9My2hXZ2Bc1OiN7YPii6) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Relojito Adiamantado](https://open.spotify.com/album/3GjHAOsVfsiYb698EgpzEm) | 2:58 | 2022-04-08 | 2022-06-09 |
 | [Sangre De Colima](https://open.spotify.com/track/3yaQXJLibcGEhRG8x62pUX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:59 | 2022-02-04 |  |
 | [Se Amerita](https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:55 | 2022-03-18 |  |
 | [Se Divisan](https://open.spotify.com/track/3SFPkPGIGcCUXpUVUdgx6z) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Se Divisan](https://open.spotify.com/album/7iwQC4YEVZ2BbSyGNArJpQ) | 2:40 | 2022-03-18 |  |

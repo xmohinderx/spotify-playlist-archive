@@ -4,10 +4,11 @@
 
 > 
 
-120 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
+123 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Certain Smile](https://open.spotify.com/track/7bQJp5ntthltjReJmZJjCM) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [A Certain Smile](https://open.spotify.com/album/0bNDqwI6bxA7cYg235yZvm) | 2:06 | 2022-06-08 |  |
 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/5igO8dMEr3lvL5hnzP2RxR) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/5x49ipf24HQSNzSoGQnGH6) | 4:58 | 2022-04-12 |  |
 | [A Time For Love](https://open.spotify.com/track/13UkFrEMKkCKkUsjIZbq8p) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [A Time For Love](https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA) | 6:04 | 2022-04-12 |  |
 | [After The Rain](https://open.spotify.com/track/1mLzJfxZVjF9MVUb1AEs8C) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Plays John Coltrane At The Village Vanguard](https://open.spotify.com/album/0utLknrD4Ylp6s4r5KMoPJ) | 3:37 | 2022-04-12 | 2022-04-27 |
@@ -72,6 +73,7 @@
 | [Old Folks](https://open.spotify.com/track/6HK5l5TOiSUfkOt57hiOwf) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Old Folks](https://open.spotify.com/album/268BPTmcyOh0uSDFxYWYZ4) | 3:27 | 2022-05-03 |  |
 | [On A Clear Day](https://open.spotify.com/track/2rIuYJ81BdL5pukyDjhxj7) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [On A Clear Day](https://open.spotify.com/album/5tc4yM14HsMvbLUErYQ4MH) | 3:16 | 2022-04-12 |  |
 | [On The Street Where You Live](https://open.spotify.com/track/1dgYQO1Hui0E6lGe3F1hDw) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [On The Street Where You Live](https://open.spotify.com/album/5UvGpwpS3tYpZHbiQlonNp) | 3:51 | 2022-05-17 |  |
+| [One Day We'll Find Our Way](https://open.spotify.com/track/27ljy6g5ghJo1ZeoOsHsB7) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [One Day We'll Find Our Way](https://open.spotify.com/album/3tSFilzfu3rrcY1BfPfm3x) | 3:06 | 2022-06-08 |  |
 | [One of your little friends](https://open.spotify.com/track/24mDMSSd3K07ilwCA83WzW) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [One of your little friends](https://open.spotify.com/album/4Y5JiG4M9HjYWqsgK3vv5n) | 2:43 | 2022-04-12 |  |
 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 | 2022-04-12 |  |
 | [P.S\. I Love You](https://open.spotify.com/track/2pmeZ067WnFhjPc6zZS3xy) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [P.S\. I Love You](https://open.spotify.com/album/3s81XUnnsE4TlY5zGJ0KBH) | 3:16 | 2022-04-12 |  |
@@ -95,8 +97,9 @@
 | [Someday My Prince Will Come](https://open.spotify.com/track/0NoAxejQ4AGQlLiZWaQc5b) | [Mike Del Ferro](https://open.spotify.com/artist/0TNH4nP9pt2WmRcbmFn8kr) | [Slow Piano Music 2](https://open.spotify.com/album/3vM1vJ8SzromIFmBsYy4vr) | 2:59 | 2022-04-12 |  |
 | [Someone To Watch Over Me](https://open.spotify.com/track/7i7I5cr7kXAzxUGicjfyJY) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Someone To Watch Over Me](https://open.spotify.com/album/3GNORDPunT2olont9mcX97) | 3:58 | 2022-04-12 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/26o8OLSxA9CpGLXZEqwS0y) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [Somewhere Over The Rainbow](https://open.spotify.com/album/27YuGP0WcZhOOkUchV5yaz) | 3:36 | 2022-04-12 |  |
-| [sophisticated lady](https://open.spotify.com/track/1bABWbuu9Rr4QofMm2PO5d) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 4:15 | 2022-04-12 |  |
+| [sophisticated lady](https://open.spotify.com/track/1bABWbuu9Rr4QofMm2PO5d) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 4:15 | 2022-04-12 | 2022-06-09 |
 | [Soul Eyes](https://open.spotify.com/track/26Wo7WEQKKuGg4JeouLnfk) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Soul Eyes](https://open.spotify.com/album/4viivNC5h64WwbgUg8UAFe) | 3:30 | 2022-05-10 |  |
+| [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/0chVjrd8FC2hVUpPzZBfJu) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/0cm5nvQQ3rAq5GlV3UL5nr) | 6:02 | 2022-06-08 |  |
 | [stairway to the stars](https://open.spotify.com/track/56Sb9modW6bh4xtwuDwUiE) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [You must believe in spring](https://open.spotify.com/album/2K69h6JK7ZyinakSj3GYKf) | 4:22 | 2022-04-12 |  |
 | [Stardust](https://open.spotify.com/track/4fX6BFRXtPC5knEwEIV4Zf) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [Stardust](https://open.spotify.com/album/6gFHzsqCH6ZJvGxHHnFeRL) | 5:03 | 2022-04-12 |  |
 | [Stormy Weather](https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Stormy Weather](https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO) | 4:07 | 2022-04-12 |  |

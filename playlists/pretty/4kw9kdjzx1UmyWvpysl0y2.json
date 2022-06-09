@@ -6,8 +6,24 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQ1MyxkZGFiMjMyZDQzYWYyMTJkOGE0YTRkZmQ2ZDIzNjkyZDQ5ZWRhZTI4",
+  "snapshot_id": "MzQ1NSxjNDVmZjkyMzUyMzI4YzYxY2RmY2QwMTljMzQwODcwYzJlOTY2MGI0",
   "tracks": [
+    {
+      "added_at": "2022-06-08 15:59:37",
+      "album": {
+        "name": "Gaze",
+        "url": "https://open.spotify.com/album/0RMBhqzBhd1tQBb6NkTwZI"
+      },
+      "artists": [
+        {
+          "name": "LAR",
+          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
+        }
+      ],
+      "duration_ms": 274500,
+      "name": "Gaze",
+      "url": "https://open.spotify.com/track/0wDxpyi7AzoZaY6dt0FnXg"
+    },
     {
       "added_at": "2022-06-07 15:07:15",
       "album": {
@@ -1071,22 +1087,6 @@
       "duration_ms": 155476,
       "name": "Forget About Me",
       "url": "https://open.spotify.com/track/5dvLCzrpzVHYdOUdIL9EHW"
-    },
-    {
-      "added_at": "2022-03-28 16:24:45",
-      "album": {
-        "name": "GODSP33D",
-        "url": "https://open.spotify.com/album/1OKa68xmBjB5L5kLFtYTPP"
-      },
-      "artists": [
-        {
-          "name": "Godlands",
-          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
-        }
-      ],
-      "duration_ms": 231721,
-      "name": "GODSP33D",
-      "url": "https://open.spotify.com/track/2vwUVTnCuiAuIV0VyeGubZ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

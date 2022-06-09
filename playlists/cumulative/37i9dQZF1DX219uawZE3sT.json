@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 215560,
       "name": "Abre Tu Corazon",
       "url": "https://open.spotify.com/track/5iTWIAADwgr8kY6TLK4Q7p"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 234626,
       "name": "Alborada",
       "url": "https://open.spotify.com/track/55hPn6csQY88zOOb8f2MgV"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 201053,
       "name": "Corona De L\u00e1grimas",
       "url": "https://open.spotify.com/track/0eRW73GA34w6Pwz2qS2vY6"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 230208,
       "name": "Demasiado Corazon",
       "url": "https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 173853,
       "name": "Dime",
       "url": "https://open.spotify.com/track/1BXZRVQqmsytTwruPKs2jH"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 227026,
       "name": "El diario de daniela (Theme from \"El diario de Daniela\")",
       "url": "https://open.spotify.com/track/3S7vE73KVGb0Vbv2Vv5JOj"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 197840,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/2xl5JXBEbGrIzDa0RUqlPI"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 209108,
       "name": "Mi tesoro",
       "url": "https://open.spotify.com/track/0ThQ0DXcsRbEyOsvKVdZWo"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 196866,
       "name": "Porque El Amor Manda",
       "url": "https://open.spotify.com/track/0LAFTdzYlNfn19SybYHTZt"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 208386,
       "name": "Quincea\u00f1era",
       "url": "https://open.spotify.com/track/3gEp3Ri22zyGnAiycArik3"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 242573,
       "name": "Rosa Salvaje",
       "url": "https://open.spotify.com/track/0Fn4K8D7PULFfK2HLKENbJ"
@@ -1613,6 +1613,28 @@
       "duration_ms": 175013,
       "name": "Tres palabras",
       "url": "https://open.spotify.com/track/67HOYnFs2hqbKKRNz0YfY8"
+    },
+    {
+      "album": {
+        "name": "Antologia el Poeta del Pueblo Mas Exitos",
+        "url": "https://open.spotify.com/album/5FBYomva1Lqryxh3tpq7aR"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Maribel Guardia",
+          "url": "https://open.spotify.com/artist/02ODJzOBsMPy8EfQ4EEmLF"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162760,
+      "name": "Tu y Yo",
+      "url": "https://open.spotify.com/track/6yJzhLk8ymKWV8XMWHqjy9"
     },
     {
       "album": {

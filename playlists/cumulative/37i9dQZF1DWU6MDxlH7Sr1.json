@@ -778,6 +778,24 @@
     },
     {
       "album": {
+        "name": "I've Grown Accustomed To Your Face",
+        "url": "https://open.spotify.com/album/3ecnXHWiMR4xIF94MCd9p2"
+      },
+      "artists": [
+        {
+          "name": "John B. Stewart",
+          "url": "https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "I've Grown Accustomed To Your Face",
+      "url": "https://open.spotify.com/track/5D9zI5bZ2XgFDEYdqGrHnP"
+    },
+    {
+      "album": {
         "name": "If I Should Lose You",
         "url": "https://open.spotify.com/album/2rTHaKAdXTq8B4XHmWjI4d"
       },
@@ -861,7 +879,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 224320,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
@@ -1929,6 +1947,24 @@
       "duration_ms": 206456,
       "name": "Try To Remember",
       "url": "https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM"
+    },
+    {
+      "album": {
+        "name": "Crossways",
+        "url": "https://open.spotify.com/album/5wS9f4r6IGfxyluF1ykXtG"
+      },
+      "artists": [
+        {
+          "name": "Mornington",
+          "url": "https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177951,
+      "name": "Watch What Happens",
+      "url": "https://open.spotify.com/track/3C8LKleDein4hf61QPoWg5"
     },
     {
       "album": {

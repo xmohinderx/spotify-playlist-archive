@@ -5261,7 +5261,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 140241,
       "name": "Keep Driving",
       "url": "https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE"
@@ -6087,7 +6087,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 191638,
       "name": "Love Of My Life",
       "url": "https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA"
@@ -7876,6 +7876,24 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -9341,7 +9359,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 211935,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"

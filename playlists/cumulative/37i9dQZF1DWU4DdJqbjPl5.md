@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover: <a href="https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0?si=IKSVyJUIQW67ApGB2QesEw" > Simi </a>
 
-97 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
+98 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,10 @@
 | [Aibu](https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu](https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC) | 2:17 | 2022-02-11 |  |
 | [Alive](https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Alive](https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq) | 2:34 | 2021-12-02 | 2022-03-04 |
 | [ALL OF ME](https://open.spotify.com/track/4LK8gp5INawRELfGEhnjHv) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [ALL OF ME](https://open.spotify.com/album/4PLaaaFomjdQdRPPmBv8V5) | 3:28 | 2022-04-14 |  |
-| [Already Won](https://open.spotify.com/track/5N5JTHckZoTCvhjESdaMxK) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2), [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Already Won](https://open.spotify.com/album/1BypTkXe5D3rNWZVwGzHDx) | 2:50 | 2022-05-19 |  |
+| [Already Won](https://open.spotify.com/track/5N5JTHckZoTCvhjESdaMxK) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2), [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Already Won](https://open.spotify.com/album/1BypTkXe5D3rNWZVwGzHDx) | 2:50 | 2022-05-19 | 2022-06-09 |
 | [Angel](https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel](https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX) | 3:17 | 2022-01-20 | 2022-04-29 |
 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 | 2021-01-07 |  |
+| [ASE \- A COLORS SHOW](https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [ASE \- A COLORS SHOW](https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E) | 2:44 | 2022-06-08 |  |
 | [Asibe Happy](https://open.spotify.com/track/6F70m9aMK4PSJKBfp1H8DZ) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Asibe Happy](https://open.spotify.com/album/0K6ImXCD9oG3p3HBcAq9UA) | 7:38 | 2021-12-02 |  |
 | [Attention](https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS) | 3:00 | 2022-03-03 |  |
 | [Away](https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc) | 2:49 | 2021-01-27 | 2022-05-06 |

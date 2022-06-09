@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -7601,7 +7601,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 159851,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/1Za3bmODi0tz9pnlZE58ug"
@@ -8582,6 +8582,28 @@
     },
     {
       "album": {
+        "name": "MIDNIGHT",
+        "url": "https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W"
+      },
+      "artists": [
+        {
+          "name": "PLAYAMANE",
+          "url": "https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS"
+        },
+        {
+          "name": "Nateki",
+          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121972,
+      "name": "MIDNIGHT",
+      "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
+    },
+    {
+      "album": {
         "name": "BANDANA I",
         "url": "https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu"
       },
@@ -8789,7 +8811,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
@@ -10385,7 +10407,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 205426,
       "name": "Pass The Dutchie",
       "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
@@ -16617,7 +16639,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 167608,
       "name": "\u0421\u0435\u043a\u0440\u0435\u0442",
       "url": "https://open.spotify.com/track/3pr2J4VXb5h8WhCu4ljify"

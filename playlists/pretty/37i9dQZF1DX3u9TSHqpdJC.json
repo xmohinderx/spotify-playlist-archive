@@ -1,28 +1,204 @@
 {
-  "description": "The best new pop music by independent artists. Updates every Wednesday. Cover: Sam Heselwood Artwork: Paola Saliby\n",
-  "num_followers": 160674,
+  "description": "The best new pop music by independent artists. Updates every Wednesday. Cover: NERIAH Artwork: Paola Saliby\n",
+  "num_followers": 160864,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQ4NTM0MCwwMDAwMDY5ZTAwMDAwMTgwZmI2ODA2NDQwMDAwMDE4MGY5MzFhOWIw",
+  "snapshot_id": "MTY1NDcwMDE5NSwwMDAwMDY5ZjAwMDAwMTgxNDNkMTNkZTgwMDAwMDE4MTA3NTE3M2Rl",
   "tracks": [
     {
-      "added_at": "2022-05-25 04:00:00",
+      "added_at": "2022-06-08 14:56:35",
       "album": {
-        "name": "Don't Speak",
-        "url": "https://open.spotify.com/album/2nmYJgDcmugXNbCKVbr5Fc"
+        "name": "Lego Blocks",
+        "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
       },
       "artists": [
         {
-          "name": "Sam Heselwood",
-          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
         }
       ],
-      "duration_ms": 198666,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/5lH2EChSyHjd8oB5wXIuG6"
+      "duration_ms": 159493,
+      "name": "Lego Blocks",
+      "url": "https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv"
+    },
+    {
+      "added_at": "2022-06-08 14:56:35",
+      "album": {
+        "name": "Bev Hillz",
+        "url": "https://open.spotify.com/album/0wx0oFXcLcRH3mMQBnd7CB"
+      },
+      "artists": [
+        {
+          "name": "Keni",
+          "url": "https://open.spotify.com/artist/4sAlHma1cIiZvdcFwjrNYz"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Bev Hillz",
+      "url": "https://open.spotify.com/track/2a8yWRNNIiCKgrilP0wjq5"
+    },
+    {
+      "added_at": "2022-06-08 14:56:35",
+      "album": {
+        "name": "Kill You Boy",
+        "url": "https://open.spotify.com/album/0k04UZ8pBPvS2anavEPrjG"
+      },
+      "artists": [
+        {
+          "name": "RARIA",
+          "url": "https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY"
+        }
+      ],
+      "duration_ms": 156247,
+      "name": "Kill You Boy",
+      "url": "https://open.spotify.com/track/71Y5owvHyof8o5NtrAr912"
+    },
+    {
+      "added_at": "2022-06-08 14:56:35",
+      "album": {
+        "name": "hold the applause",
+        "url": "https://open.spotify.com/album/51s5xPogZxdN5Eqs3mJLE1"
+      },
+      "artists": [
+        {
+          "name": "Mira Housey",
+          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
+        }
+      ],
+      "duration_ms": 149230,
+      "name": "hold the applause",
+      "url": "https://open.spotify.com/track/7mlFKsO1PVfH0nz1dH7RhZ"
+    },
+    {
+      "added_at": "2022-06-08 14:56:35",
+      "album": {
+        "name": "Another Stranger",
+        "url": "https://open.spotify.com/album/5bnsd00W441t5LStFk95ov"
+      },
+      "artists": [
+        {
+          "name": "Hedda Mae",
+          "url": "https://open.spotify.com/artist/7zd05tehJ8h4VEpwxdo4g4"
+        }
+      ],
+      "duration_ms": 178065,
+      "name": "Another Stranger",
+      "url": "https://open.spotify.com/track/03ApTIkz4BbUuIY7grHTEr"
+    },
+    {
+      "added_at": "2022-06-08 14:56:35",
+      "album": {
+        "name": "head games",
+        "url": "https://open.spotify.com/album/3hAzpPsTEScYjhjAvSUwGH"
+      },
+      "artists": [
+        {
+          "name": "Savanna Leigh",
+          "url": "https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt"
+        }
+      ],
+      "duration_ms": 177297,
+      "name": "head games",
+      "url": "https://open.spotify.com/track/6Dy2iFhdjK8cPdfkB6c0EX"
+    },
+    {
+      "added_at": "2022-06-08 14:56:35",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/21v7ToSBBRAjCW11iCJzcD"
+      },
+      "artists": [
+        {
+          "name": "Kat Kennedy",
+          "url": "https://open.spotify.com/artist/08xYUuniSTJtOwpC1lATSX"
+        }
+      ],
+      "duration_ms": 144768,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/7oj3CLbn0f7yPfzjMjC2Fq"
+    },
+    {
+      "added_at": "2022-06-08 14:56:35",
+      "album": {
+        "name": "Twenty.",
+        "url": "https://open.spotify.com/album/4gDOkLfwgstoUowqdt09Pi"
+      },
+      "artists": [
+        {
+          "name": "Eden Hunter",
+          "url": "https://open.spotify.com/artist/3gj3wnfr4hxEKKygT9r5IS"
+        }
+      ],
+      "duration_ms": 179508,
+      "name": "Twenty.",
+      "url": "https://open.spotify.com/track/3WvI6AF71JzgGA7BbtSxXW"
+    },
+    {
+      "added_at": "2022-06-08 14:56:35",
+      "album": {
+        "name": "Warning Label",
+        "url": "https://open.spotify.com/album/1MGqriJbBHRDpZBifYSibG"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Johnson",
+          "url": "https://open.spotify.com/artist/67JuYcx53ltPKR5yABLqzz"
+        }
+      ],
+      "duration_ms": 143750,
+      "name": "Warning Label",
+      "url": "https://open.spotify.com/track/1Y0AJwHFmRVoTQJ2gTZy9y"
+    },
+    {
+      "added_at": "2022-06-08 14:56:35",
+      "album": {
+        "name": "Friends to Lovers",
+        "url": "https://open.spotify.com/album/45lO8Bqhl9aA2AFWNuAg7e"
+      },
+      "artists": [
+        {
+          "name": "Melina KB",
+          "url": "https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP"
+        }
+      ],
+      "duration_ms": 143601,
+      "name": "Friends to Lovers",
+      "url": "https://open.spotify.com/track/5ULZl3hedO1I4zMEjpZL3i"
+    },
+    {
+      "added_at": "2022-06-08 14:56:35",
+      "album": {
+        "name": "Broken Armour",
+        "url": "https://open.spotify.com/album/2MOnsdJppwB8llLecv7lU1"
+      },
+      "artists": [
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "duration_ms": 196288,
+      "name": "Broken Armour",
+      "url": "https://open.spotify.com/track/008AopHIv4BkKGOXjy94IL"
+    },
+    {
+      "added_at": "2022-06-08 14:56:35",
+      "album": {
+        "name": "OVERTHINKING",
+        "url": "https://open.spotify.com/album/44a9sTzO0e9NMVWVuilDx6"
+      },
+      "artists": [
+        {
+          "name": "Adam Pastel",
+          "url": "https://open.spotify.com/artist/3tqVBzpvOtajAh0uwkHQoh"
+        }
+      ],
+      "duration_ms": 139393,
+      "name": "OVERTHINKING",
+      "url": "https://open.spotify.com/track/6ulISz5xjqD5spyFPsnSLT"
     },
     {
       "added_at": "2022-05-25 04:00:00",
@@ -41,20 +217,52 @@
       "url": "https://open.spotify.com/track/69pczFa1NP2hfuXHX9LKup"
     },
     {
-      "added_at": "2022-05-18 00:00:00",
+      "added_at": "2022-06-08 14:56:35",
       "album": {
-        "name": "Line",
-        "url": "https://open.spotify.com/album/5wFOIRtz2zAN3RA8DcVO7K"
+        "name": "Miss Rhode Island",
+        "url": "https://open.spotify.com/album/5CGv2NNFJPOqrtzT73eRL1"
       },
       "artists": [
         {
-          "name": "Zoe Ko",
-          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+          "name": "Elizabeth Gerardi",
+          "url": "https://open.spotify.com/artist/01VYmP8UHNPe52WfMgsb4n"
         }
       ],
-      "duration_ms": 196142,
-      "name": "Line",
-      "url": "https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP"
+      "duration_ms": 168582,
+      "name": "Miss Rhode Island",
+      "url": "https://open.spotify.com/track/3TuRAkB0OueGVYfUTbCaVN"
+    },
+    {
+      "added_at": "2022-06-08 14:56:35",
+      "album": {
+        "name": "No One Is Safe",
+        "url": "https://open.spotify.com/album/4H0J9Rn0VmbKyZ3MXBP3aZ"
+      },
+      "artists": [
+        {
+          "name": "H\u00d8VDING",
+          "url": "https://open.spotify.com/artist/1bHdDAbF5gbuKGgOa3APda"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "No One Is Safe",
+      "url": "https://open.spotify.com/track/6X4a9ebR59X1LvoKdnLm1G"
+    },
+    {
+      "added_at": "2022-06-08 14:56:35",
+      "album": {
+        "name": "Violet Girl",
+        "url": "https://open.spotify.com/album/0D0w7tKzh0BTq29882Q3A8"
+      },
+      "artists": [
+        {
+          "name": "Stellie",
+          "url": "https://open.spotify.com/artist/0WGMPhb6ipresPQfFcIxwH"
+        }
+      ],
+      "duration_ms": 141941,
+      "name": "Violet Girl",
+      "url": "https://open.spotify.com/track/0U6IojximKPyl92ITAYcYv"
     },
     {
       "added_at": "2022-05-18 00:00:00",
@@ -71,6 +279,106 @@
       "duration_ms": 176813,
       "name": "Dance Away The Pain",
       "url": "https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg"
+    },
+    {
+      "added_at": "2022-05-25 04:00:00",
+      "album": {
+        "name": "day off",
+        "url": "https://open.spotify.com/album/6bXQ7d0hchsEjpNAtRh2GF"
+      },
+      "artists": [
+        {
+          "name": "Zamir",
+          "url": "https://open.spotify.com/artist/069X32ooT7djUGNCcIhKFq"
+        },
+        {
+          "name": "planet girl",
+          "url": "https://open.spotify.com/artist/40DgzqFfLrkIx2mas3Bpfv"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "day off",
+      "url": "https://open.spotify.com/track/0i47KKjA7DDbTOsgE1afSN"
+    },
+    {
+      "added_at": "2022-06-08 14:56:35",
+      "album": {
+        "name": "\u6620\u753b\u300c20\u6b73\u306e\u30bd\u30a6\u30eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3MwI0dyl2UqxbPPZtWnJBj"
+      },
+      "artists": [
+        {
+          "name": "Kenta Dedachi",
+          "url": "https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx"
+        }
+      ],
+      "duration_ms": 206414,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/6QZVjuviBfpAgRNVApmszS"
+    },
+    {
+      "added_at": "2022-06-08 14:56:35",
+      "album": {
+        "name": "Lean Into Love",
+        "url": "https://open.spotify.com/album/1JzdscmM9yi8EuxqihoqwH"
+      },
+      "artists": [
+        {
+          "name": "biz colletti",
+          "url": "https://open.spotify.com/artist/32e20zdHxumYLsUQnODjMk"
+        }
+      ],
+      "duration_ms": 236853,
+      "name": "Lean Into Love",
+      "url": "https://open.spotify.com/track/1ZySwPBp0cDspVCc2yxTiV"
+    },
+    {
+      "added_at": "2022-06-08 14:56:35",
+      "album": {
+        "name": "Benzos",
+        "url": "https://open.spotify.com/album/2LT5S9Y4leh3EHhvpTkry8"
+      },
+      "artists": [
+        {
+          "name": "Grace Blue",
+          "url": "https://open.spotify.com/artist/4nlL7rZb9rorbJcKYltdLN"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "Benzos",
+      "url": "https://open.spotify.com/track/4pTnwlfR8XtfJ6kAGirzed"
+    },
+    {
+      "added_at": "2022-05-25 04:00:00",
+      "album": {
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/2nmYJgDcmugXNbCKVbr5Fc"
+      },
+      "artists": [
+        {
+          "name": "Sam Heselwood",
+          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/5lH2EChSyHjd8oB5wXIuG6"
+    },
+    {
+      "added_at": "2022-05-18 00:00:00",
+      "album": {
+        "name": "Line",
+        "url": "https://open.spotify.com/album/5wFOIRtz2zAN3RA8DcVO7K"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "duration_ms": 196142,
+      "name": "Line",
+      "url": "https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP"
     },
     {
       "added_at": "2022-05-25 04:00:00",
@@ -119,26 +427,6 @@
       "duration_ms": 190635,
       "name": "Twenty-Two",
       "url": "https://open.spotify.com/track/42Jl9YIutlOqAAAAOWGetE"
-    },
-    {
-      "added_at": "2022-05-25 04:00:00",
-      "album": {
-        "name": "day off",
-        "url": "https://open.spotify.com/album/6bXQ7d0hchsEjpNAtRh2GF"
-      },
-      "artists": [
-        {
-          "name": "Zamir",
-          "url": "https://open.spotify.com/artist/069X32ooT7djUGNCcIhKFq"
-        },
-        {
-          "name": "planet girl",
-          "url": "https://open.spotify.com/artist/40DgzqFfLrkIx2mas3Bpfv"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "day off",
-      "url": "https://open.spotify.com/track/0i47KKjA7DDbTOsgE1afSN"
     },
     {
       "added_at": "2022-05-25 04:00:00",
@@ -971,54 +1259,6 @@
       "duration_ms": 195757,
       "name": "Shakin' The Walls",
       "url": "https://open.spotify.com/track/0ydfGwyFMGmEc2zMP2nTEx"
-    },
-    {
-      "added_at": "2022-05-04 04:01:59",
-      "album": {
-        "name": "Mum I Made a Friend",
-        "url": "https://open.spotify.com/album/6yOgdR3lA0JpeB6nNnmf8y"
-      },
-      "artists": [
-        {
-          "name": "Lane Webber",
-          "url": "https://open.spotify.com/artist/3jpPTQw0VsjxujEsmgbgh4"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Mum I Made a Friend",
-      "url": "https://open.spotify.com/track/4mNRFubPCCyu3LQn6IEvNu"
-    },
-    {
-      "added_at": "2022-05-04 04:01:59",
-      "album": {
-        "name": "still cry sometimes",
-        "url": "https://open.spotify.com/album/5uf0HURzK4bg7co6aZy8eq"
-      },
-      "artists": [
-        {
-          "name": "Eva Grace",
-          "url": "https://open.spotify.com/artist/67sX3xnatlElE31KHjSWVr"
-        }
-      ],
-      "duration_ms": 161812,
-      "name": "still cry sometimes",
-      "url": "https://open.spotify.com/track/5iRlmfY75Z3WlkKIW4YTaz"
-    },
-    {
-      "added_at": "2022-05-04 04:01:59",
-      "album": {
-        "name": "Victim",
-        "url": "https://open.spotify.com/album/6yaTUp6crQK1iMLhj9cFZh"
-      },
-      "artists": [
-        {
-          "name": "Sofia Quinn",
-          "url": "https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q"
-        }
-      ],
-      "duration_ms": 163946,
-      "name": "Victim",
-      "url": "https://open.spotify.com/track/57FtIgxGjADSeC0VgZu9g2"
     },
     {
       "added_at": "2022-04-27 12:00:00",

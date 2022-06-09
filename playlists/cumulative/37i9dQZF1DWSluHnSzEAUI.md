@@ -4,7 +4,7 @@
 
 > Enjoy the soundtracks of K\-POP idols' comeback war 'Queendom'\. \(K\-POP 아이돌들의 컴백전쟁 '퀸덤'의 사운드 트랙들을 즐겨보세요.\)
 
-29 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/31tSy2ip61KCByxrpoK5aI)
+30 songs - 1 hr 55 min - [published](https://open.spotify.com/playlist/31tSy2ip61KCByxrpoK5aI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Epilogue \- Instrumental](https://open.spotify.com/track/0Yh4ibGdvYU6Bcv78KUFFY) | [YOSKE](https://open.spotify.com/artist/1R4kc8WcmmFEn7lFvPeJ5E), [Iver \(ALIVE KNOB\)](https://open.spotify.com/artist/3ITyFwK4gvAyxjd7KbgF68), [J2 \(ALIVE KNOB\)](https://open.spotify.com/artist/4e6QTwmX6eYDooCwfKyuac) | [<Queendom2> Part.1\-1](https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK) | 3:32 | 2022-05-13 |  |
 | [Epilogue \- Piano Version](https://open.spotify.com/track/2gzJgcYyx7pbaizAJRYy6q) | [YOSKE](https://open.spotify.com/artist/1R4kc8WcmmFEn7lFvPeJ5E), [Iver \(ALIVE KNOB\)](https://open.spotify.com/artist/3ITyFwK4gvAyxjd7KbgF68), [J2 \(ALIVE KNOB\)](https://open.spotify.com/artist/4e6QTwmX6eYDooCwfKyuac) | [<Queendom2> Part.1\-1](https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK) | 5:18 | 2022-05-13 |  |
 | [Interlude : WHO IS THE QUEEN](https://open.spotify.com/track/66KdAaSfra9lfsMs5hfjxY) | [bcalm](https://open.spotify.com/artist/7dafLVKGkbjDGvL48rfrQM) | [<Queendom2> Part.1\-1](https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK) | 2:28 | 2022-05-13 |  |
+| [JINAON \(Epilogue\)](https://open.spotify.com/track/1KIA6tiJdtOYci9isQ1eqR) | [QUEENDOM2](https://open.spotify.com/artist/0BUt4yEmWUGULfwOcu98aj) | [<Queendom2> JINAON \(Epilogue\)](https://open.spotify.com/album/7C6PZ4R61449d9NVmDKtpq) | 3:32 | 2022-06-08 |  |
 | [KA\-BOOM!](https://open.spotify.com/track/3lbXWGqf8Fqb9UWcrgexbK) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 2:59 | 2022-05-13 |  |
 | [MVSK \- Remix](https://open.spotify.com/track/5Io9E7JUo707GXVPGC68j8) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 3:41 | 2022-05-13 |  |
 | [NAVILLERA](https://open.spotify.com/track/5zLCLAce7F5J2OfE4S8yAC) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 4:07 | 2022-05-13 |  |

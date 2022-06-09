@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4ZfgdOhUEnvwSevO8xN9R3"
@@ -892,6 +892,28 @@
     },
     {
       "album": {
+        "name": "I Don't Wanna Live Forever (Fifty Shades Darker)",
+        "url": "https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        },
+        {
+          "name": "Simon Samaeng",
+          "url": "https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "I Don't Wanna Live Forever (Fifty Shades Darker) - Acoustic",
+      "url": "https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB"
+    },
+    {
+      "album": {
         "name": "It Aint me (Acoustic)",
         "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
       },
@@ -903,7 +925,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 192545,
       "name": "It Aint me - Acoustic",
       "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
@@ -1123,7 +1145,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 222642,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/10pbPIPuOR8RhGozwcb3cE"
@@ -1591,7 +1613,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 171611,
       "name": "Slide - Acoustic Version",
       "url": "https://open.spotify.com/track/0QSpX88FigdeGYsrAQZj9C"
@@ -1635,7 +1657,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 189793,
       "name": "Something Just Like This - Acoustic",
       "url": "https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg"

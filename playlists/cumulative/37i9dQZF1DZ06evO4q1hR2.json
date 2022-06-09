@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Alucine",
+        "url": "https://open.spotify.com/album/7i5xLbOj6zyoDAJUnpHhGZ"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184607,
+      "name": "Alucin\u00e9",
+      "url": "https://open.spotify.com/track/1dKiTltAJ2zA4hi2DIZkWb"
+    },
+    {
+      "album": {
         "name": "Concedeme",
         "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 175746,
       "name": "Amor Imposible",
       "url": "https://open.spotify.com/track/5e9meF6UEQVNIooWW7bQYy"
@@ -109,7 +127,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 187266,
       "name": "Atrapado",
       "url": "https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff"
@@ -415,7 +433,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 160066,
       "name": "Esta Tristeza M\u00eda",
       "url": "https://open.spotify.com/track/3JaqxH3f3lGBXYQkhdRPRY"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 178964,
       "name": "Macario Leyva",
       "url": "https://open.spotify.com/track/7k2RA1k38FbvVnenGGdrhD"
@@ -875,7 +893,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 232154,
       "name": "Reproches Al Viento",
       "url": "https://open.spotify.com/track/4c8ouGnAqVqp3puWViy0Pz"

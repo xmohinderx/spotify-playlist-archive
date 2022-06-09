@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Every song with over 1 billion streams on Spotify. Cover: Shakira",
+  "description": "Every song with over 1 billion streams on Spotify. Cover: Demi Lovato",
   "name": "BILLIONS CLUB",
   "published_playlist_ids": [
     "0C0sQRzxdwWHDf74RbiLwr"
@@ -613,6 +613,28 @@
       "duration_ms": 250533,
       "name": "Callaita",
       "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
+    },
+    {
+      "album": {
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
     },
     {
       "album": {
@@ -1749,7 +1771,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 391376,
       "name": "Hotel California - 2013 Remaster",
       "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
@@ -3967,6 +3989,24 @@
       "duration_ms": 200786,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "album": {
+        "name": "Tell Me You Love Me",
+        "url": "https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203760,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/0yvPEnB032fojLfVluFjUv"
     },
     {
       "album": {

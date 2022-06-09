@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
@@ -1403,7 +1403,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 195626,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/1o6AAprhFq448i4PVPKoZ6"
@@ -1551,7 +1551,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 186906,
       "name": "Control",
       "url": "https://open.spotify.com/track/7yS8NOPrjvSelAd9xuRwxm"
@@ -1893,7 +1893,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 201786,
       "name": "Don't Wanna",
       "url": "https://open.spotify.com/track/5hMffqN6nHPltws5nhjTpR"
@@ -2167,7 +2167,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 134780,
       "name": "Face Again",
       "url": "https://open.spotify.com/track/5jTfAzJUjjQAw6UDhozqHc"
@@ -2567,7 +2567,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 246200,
       "name": "Funky Galileo",
       "url": "https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl"
@@ -2585,7 +2585,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 219428,
       "name": "Fuzzybrain",
       "url": "https://open.spotify.com/track/0qQ4NybJj0BtqxFWI0Hvep"
@@ -3338,6 +3338,24 @@
     },
     {
       "album": {
+        "name": "I Don't Want to Talk",
+        "url": "https://open.spotify.com/album/29l8Ddx32NKjtpeZic3U1I"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223533,
+      "name": "I Don't Want to Talk",
+      "url": "https://open.spotify.com/track/1KO4aiGkvF1eMTBrzL4vAd"
+    },
+    {
+      "album": {
         "name": "JUICE",
         "url": "https://open.spotify.com/album/35WpCbOfkYtqgq9fcs0lLs"
       },
@@ -3583,7 +3601,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Japanese Posters",
       "url": "https://open.spotify.com/track/19mIMQ8rNN4jmfR1UXVNBQ"
@@ -3947,7 +3965,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 215555,
       "name": "Listerine",
       "url": "https://open.spotify.com/track/5LEVjmo2QweDHc7k19aFcp"
@@ -4055,7 +4073,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 249586,
       "name": "Lost In Yesterday",
       "url": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
@@ -4109,7 +4127,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 244588,
       "name": "Low Again",
       "url": "https://open.spotify.com/track/6pc0MSwfQ5etN4YOVjMh62"
@@ -4415,7 +4433,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 132230,
       "name": "Moonboy",
       "url": "https://open.spotify.com/track/3j4P8ytkoDpBFePPrXHEbe"
@@ -5539,7 +5557,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 205442,
       "name": "Saturdays (feat. HAIM)",
       "url": "https://open.spotify.com/track/1B63r7wZYOff831F0ysehg"
@@ -5655,7 +5673,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 208520,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/2CQZalbSGicedttPGtY06n"
@@ -6723,7 +6741,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 193165,
       "name": "Things I Thought Were Mine",
       "url": "https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE"
@@ -6849,7 +6867,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
@@ -7037,7 +7055,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 250521,
       "name": "Unknown Song",
       "url": "https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC"

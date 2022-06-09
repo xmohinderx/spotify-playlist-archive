@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica: Foto: Polimá Westcoast & Pailita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,552,440 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,553,435 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

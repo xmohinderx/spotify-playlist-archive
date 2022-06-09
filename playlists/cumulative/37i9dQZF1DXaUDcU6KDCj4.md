@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Angel Olsen
 
-536 songs - 1 day 8 hr 51 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
+537 songs - 1 day 8 hr 54 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,6 +500,7 @@
 | [Vini Wè](https://open.spotify.com/track/15k4qMUlrAfEyuQILWe110) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [Vini Wè](https://open.spotify.com/album/05sG8hbCEVtuHbtoA2QdYr) | 4:34 | 2022-02-11 | 2022-04-16 |
 | [Virginia \(Wind In The Night\)](https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Virginia \(Wind In The Night\)](https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx) | 3:25 | 2022-02-11 | 2022-04-29 |
 | [Vow](https://open.spotify.com/track/0CkuxVP38S7ibChK4XPo2Q) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Vow](https://open.spotify.com/album/3p5VixyJTlAOYvtCqScTVb) | 3:14 | 2022-05-06 |  |
+| [Wait Up](https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY) | [Neffy](https://open.spotify.com/artist/75Qz8WXumn9ghkXDwpj34N) | [Wait Up](https://open.spotify.com/album/1vodStDlRmay0I5Wbfdjng) | 3:11 | 2022-06-08 |  |
 | [Wake Up With the Sun](https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Lullabies for Adults & Children](https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX) | 2:36 | 2022-02-11 | 2022-03-26 |
 | [Waking Up](https://open.spotify.com/track/5ixbFTHPQfVc8Du4jvAi9H) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 3:24 | 2022-01-14 | 2022-03-26 |
 | [Watch Me Change](https://open.spotify.com/track/4t7izd9oN5muhlpi2ViCMm) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Watch Me Change](https://open.spotify.com/album/4uyEzuS7dmtuwBpLwZM7lO) | 3:36 | 2022-03-18 | 2022-05-20 |

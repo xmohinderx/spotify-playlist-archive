@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-415 songs - 1 day 0 hr 20 min - [published](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
+416 songs - 1 day 0 hr 23 min - [published](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [LINDOR](https://open.spotify.com/track/3mEoWn2r5tobVKgV0UP4Ck) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:24 | 2022-04-02 | 2022-04-08 |
 | [Llorando en un Ferrari](https://open.spotify.com/track/0x4Kmsd1YLB9emO8thJ62U) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:13 | 2021-11-28 | 2021-12-04 |
 | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx) | 3:27 | 2021-10-07 |  |
+| [Loca](https://open.spotify.com/track/4jkeDrxbe5wcsLp5xrc8Zk) | [Lavie Rabiosa](https://open.spotify.com/artist/2pLQc7fsHIfHEpJ07SCSYS) | [Loca](https://open.spotify.com/album/4Jv6IeUiWf6vcnOOhZDjU6) | 2:40 | 2022-06-08 |  |
 | [LOCATION](https://open.spotify.com/track/478g4LSkyMB1PMkVOVmIaE) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 4:23 | 2021-03-27 | 2021-06-06 |
 | [LOCATION](https://open.spotify.com/track/5Km4r87BoX2qqtoprYS1gh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [LOCATION](https://open.spotify.com/album/4ipeZHF3UKl2AKFqDhBCXR) | 4:25 | 2021-03-27\* | 2021-03-27 |
 | [Loco](https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Loco](https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI) | 3:51 | 2021-07-31 | 2021-08-22 |
@@ -404,7 +405,7 @@
 | [Vete](https://open.spotify.com/track/2n7ohqg1s68ToAHh4u9mcW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:12 | 2022-02-15 | 2022-02-23 |
 | [Villaran cuenca \- Morire como mojica](https://open.spotify.com/track/5XBQgMcSrMP2Ht927yh1au) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Numero 5](https://open.spotify.com/album/5s5FK2TIQURACK7TyvrMsv) | 3:09 | 2021-12-26 | 2021-12-27 |
 | [Volando \- Remix](https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Volando \(Remix\)](https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX) | 4:33 | 2021-07-10 |  |
-| [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 | 2021-08-05 |  |
+| [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 | 2021-08-05 | 2022-06-09 |
 | [Vuelves](https://open.spotify.com/track/4hLpFMWFlXRwmO0RvR8Pau) | [Jhonathan Chávez y Los Triunfadores](https://open.spotify.com/artist/72zOP4aGVBZ1yRBLxCfJ4k) | [Vuelves](https://open.spotify.com/album/29R40Uv9lePSwSeT3YA8p5) | 5:45 | 2022-01-02 | 2022-01-04 |
 | [Wao](https://open.spotify.com/track/2B4nQ6yvVVBMqfgOrYtubb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 2:58 | 2021-04-17 | 2021-07-25 |
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2021-09-05 | 2021-09-06 |

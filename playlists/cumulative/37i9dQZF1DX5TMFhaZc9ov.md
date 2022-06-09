@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. This Pride vision of Folk, Americana, and Singer\-Songwriter music features LGBTQQIA+ acts and allies\. Cover: S.G\. Goodman
 
-107 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
+108 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Up All Night](https://open.spotify.com/track/3z6QhS1zOdSSt6VevNJQMV) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Tasjan! Tasjan! Tasjan!](https://open.spotify.com/album/28OiUhh3Dl2HtgPOF5BFPg) | 3:05 | 2021-06-01 |  |
 | [Walking with a Ghost](https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 | 2021-06-01 | 2022-06-01 |
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2022-06-01 |  |
+| [What if You](https://open.spotify.com/track/0nKimWXdewT5XCaL5wOstA) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [What if You](https://open.spotify.com/album/65TC3N9kNHYeLFt7hqaW5M) | 3:22 | 2022-06-08 |  |
 | [What Mattered Most \- Alternative Version](https://open.spotify.com/track/11Q7CHxH1d4B4E0Qei5JS0) | [Ty Herndon](https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R) | [Got It Covered](https://open.spotify.com/album/1p6BAFD43hYjgZ5RC8toi7) | 3:53 | 2021-06-01 |  |
 | [When I Said There Was An End to Love I Was Lying](https://open.spotify.com/track/4c5cxrDg5aX5pmNjrHJu8U) | [Rae Spoon](https://open.spotify.com/artist/507TICFblljsw2Nbk7wXbx) | [I Can't Keep All of Our Secrets](https://open.spotify.com/album/7604OwDlNemsGBzUmvZKZr) | 2:54 | 2021-06-01 | 2022-06-01 |
 | [When We Were Writers](https://open.spotify.com/track/4Y20M30nNIN1BAdkYmbWhL) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Country Radio](https://open.spotify.com/album/6K3zbhfBvh3atypKoGzWNT) | 3:54 | 2021-06-01 |  |

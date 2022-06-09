@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-13",
+      "date_removed": null,
       "duration_ms": 61714,
       "name": "$aMAN",
       "url": "https://open.spotify.com/track/6Q5PGWKWR2u4WjO1CX8I5r"
@@ -6815,7 +6815,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 173750,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/1dMR1ltIgyYRq5vmFXvu07"
@@ -8659,7 +8659,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -8907,6 +8907,28 @@
       "duration_ms": 292636,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/3XuoB3Y8kocY79G7PdBr8d"
+    },
+    {
+      "album": {
+        "name": "Necesar",
+        "url": "https://open.spotify.com/album/2BaVgV8nOEbHRETHWHm2Le"
+      },
+      "artists": [
+        {
+          "name": "Mario Fresh",
+          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
+        },
+        {
+          "name": "Renvto",
+          "url": "https://open.spotify.com/artist/2JrQ0o2hziS7Io5XRiVP6W"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188682,
+      "name": "Necesar",
+      "url": "https://open.spotify.com/track/0nkeV4kaa4xvifptkypzDY"
     },
     {
       "album": {

@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "0 Amigos Falsos",
+        "url": "https://open.spotify.com/album/4RFPDhWbcCHopB0xxhIw2h"
+      },
+      "artists": [
+        {
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+        },
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342726,
+      "name": "0 Amigos Falsos",
+      "url": "https://open.spotify.com/track/6nkqEujDSjOMT53nuapSyA"
+    },
+    {
+      "album": {
         "name": "10 PM",
         "url": "https://open.spotify.com/album/5QP7KzyD4Q78s7hpqVA5Wf"
       },
@@ -19,7 +41,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 213180,
       "name": "10 PM",
       "url": "https://open.spotify.com/track/3a0P7wE7Gv3ztKND45C3jv"
@@ -1376,6 +1398,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9bil",
+        "url": "https://open.spotify.com/album/4CmCc7WZyp85a245hNYTx7"
+      },
+      "artists": [
+        {
+          "name": "Igna",
+          "url": "https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166399,
+      "name": "D\u00e9bil",
+      "url": "https://open.spotify.com/track/2Iwbd8X6nKks6FiqZZxC5F"
+    },
+    {
+      "album": {
         "name": "El Cielo Se Me Cay\u00f3",
         "url": "https://open.spotify.com/album/49E0S14vGXYJSMrloi57sn"
       },
@@ -1952,6 +1992,24 @@
     },
     {
       "album": {
+        "name": "Ferxxo 100",
+        "url": "https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167973,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl"
+    },
+    {
+      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/6lBcWzcBdPmgl6IUtM4Naz"
       },
@@ -2209,10 +2267,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 194456,
       "name": "La Distancia",
       "url": "https://open.spotify.com/track/059qxIbLrwRYK8xRkks34E"
+    },
+    {
+      "album": {
+        "name": "La Duda",
+        "url": "https://open.spotify.com/album/0cioRZF43qh52TX4t3rGcm"
+      },
+      "artists": [
+        {
+          "name": "Matt Paris",
+          "url": "https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201733,
+      "name": "La Duda",
+      "url": "https://open.spotify.com/track/3crXhhRijAL3zvH5XzxZGG"
     },
     {
       "album": {
@@ -2833,7 +2909,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 197142,
       "name": "Mi Plan B",
       "url": "https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0"
@@ -2983,7 +3059,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 155408,
       "name": "M\u00edrame a la Cara",
       "url": "https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg"
@@ -4811,7 +4887,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 193675,
       "name": "Vete",
       "url": "https://open.spotify.com/track/52x5xGEe3DMahkpDR6aEhX"

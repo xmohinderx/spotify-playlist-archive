@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 181440,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 158040,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 119200,
       "name": "Blue Suede Shoes",
       "url": "https://open.spotify.com/track/47gmoUrZV3w20JAnQOZMcO"
@@ -648,6 +648,24 @@
     },
     {
       "album": {
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212373,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
+    },
+    {
+      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
@@ -677,7 +695,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 202693,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4Ke1CYcm2wYDFlOhziFFjK"
@@ -785,10 +803,28 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 277160,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/7yzbimr8WVyAtBX3Eg6UL9"
+    },
+    {
+      "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
     },
     {
       "album": {
@@ -915,7 +951,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 156653,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
@@ -1516,6 +1552,24 @@
     },
     {
       "album": {
+        "name": "Quem Sabe Isso Quer Dizer Amor",
+        "url": "https://open.spotify.com/album/6Wc2o1xDaL2a1PTL9etznU"
+      },
+      "artists": [
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216412,
+      "name": "Quem Sabe Isso Quer Dizer Amor",
+      "url": "https://open.spotify.com/track/05Cm3WMV0Bald8zi0oSptv"
+    },
+    {
+      "album": {
         "name": "Honky Chateau",
         "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
       },
@@ -1733,7 +1787,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 180266,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/6A9mKXlFRPMPem6ygQSt7z"
@@ -1813,6 +1867,24 @@
       "duration_ms": 226640,
       "name": "Toda Menina Baiana",
       "url": "https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu"
+    },
+    {
+      "album": {
+        "name": "Trem-Bala",
+        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180319,
+      "name": "Trem-Bala",
+      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
     },
     {
       "album": {
@@ -2011,7 +2083,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 167933,
       "name": "You Can't Hurry Love",
       "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"

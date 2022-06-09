@@ -4,7 +4,7 @@
 
 > Soft and swinging jazz in the background of your cocktail party.
 
-109 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
+111 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,11 +49,12 @@
 | [I Thought About You](https://open.spotify.com/track/7bjeNg98SWzGugTks8mpQv) | [Denzel Sachs](https://open.spotify.com/artist/3SB6ICG4p7cvBEjSLNSBMw) | [I Thought About You](https://open.spotify.com/album/7B8lEaNZh5wxZythOv3tXL) | 4:31 | 2022-04-26 |  |
 | [I'll Know](https://open.spotify.com/track/6JOFJKSCpQNG3W3mECwSxd) | [Timothy Kay Band](https://open.spotify.com/artist/5cdHnLPT8wGWV0BDgQDw18) | [I Love Paris](https://open.spotify.com/album/7AtRYmWgcQzttwhYebfVZI) | 5:01 | 2022-04-26 |  |
 | [I'm Old Fashioned](https://open.spotify.com/track/3VudDVni3lGTV0XiR9cm8f) | [Charles Cook Jr.](https://open.spotify.com/artist/6OuL9oPiYuoXRwsOVI4m0Y) | [I'm Old Fashioned](https://open.spotify.com/album/5pbOE0G65X50rK2J1gjKg3) | 4:21 | 2022-04-26 |  |
+| [I've Grown Accustomed To Your Face](https://open.spotify.com/track/5D9zI5bZ2XgFDEYdqGrHnP) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [I've Grown Accustomed To Your Face](https://open.spotify.com/album/3ecnXHWiMR4xIF94MCd9p2) | 3:13 | 2022-06-08 |  |
 | [If I Should Lose You](https://open.spotify.com/track/4da36q6VCwrg4f5pIYx4uf) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [If I Should Lose You](https://open.spotify.com/album/2rTHaKAdXTq8B4XHmWjI4d) | 5:27 | 2022-04-26 |  |
 | [If you could see me now](https://open.spotify.com/track/4GsV07Q6UYJWVP0GdIrsHX) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Michelle](https://open.spotify.com/album/1kyRkGoAl8eNKQYe549dSU) | 4:32 | 2022-04-26 |  |
 | [If You Want To](https://open.spotify.com/track/0eN3rOpAbesvVrti6C9dFj) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [If You Want To](https://open.spotify.com/album/3PMjBQoX0kmaHpPPLFP2c6) | 2:46 | 2022-04-26 |  |
 | [In The Still Of The Night](https://open.spotify.com/track/5x8pXMRzCReGp5ZEa97IE2) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The Cole Porter Songbook](https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7) | 2:49 | 2022-04-26 |  |
-| [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 | 2022-04-26 |  |
+| [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 | 2022-04-26 | 2022-06-09 |
 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 | 2022-04-26 |  |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-04-26 |  |
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2022-04-26 |  |
@@ -112,6 +113,7 @@
 | [These Foolish Things](https://open.spotify.com/track/2GkEZi94MfDIxjp36MAFuj) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [These Foolish Things](https://open.spotify.com/album/5a7xDAK31J6a7T6ExUTDYn) | 3:32 | 2022-04-26 |  |
 | [They Didn't Believe Me](https://open.spotify.com/track/2FaUOm50kOFVAn388NGxAe) | [Bobby Timmons Trio](https://open.spotify.com/artist/47jpbb07933jSiHmir7yda) | [In Person](https://open.spotify.com/album/0lKhYEfTneqxxjLqs2jC24) | 6:47 | 2022-04-26 | 2022-06-01 |
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-04-26 |  |
+| [Watch What Happens](https://open.spotify.com/track/3C8LKleDein4hf61QPoWg5) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Crossways](https://open.spotify.com/album/5wS9f4r6IGfxyluF1ykXtG) | 2:57 | 2022-06-08 |  |
 | [When I'm Here with You](https://open.spotify.com/track/4qiHe2LyWQ9Ih2chibBAwr) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Al Foster](https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6) | [The Time is Now](https://open.spotify.com/album/6rbxPC5MijiKjZo5C7VPtd) | 5:35 | 2022-04-26 |  |
 | [When You Are Around](https://open.spotify.com/track/3WUrXHDowLk25UtALiohVD) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [When You Are Around](https://open.spotify.com/album/3v6ovPPFtr6E6vpVuBw2bi) | 3:11 | 2022-04-26 |  |
 | [When Your Lover Has Gone](https://open.spotify.com/track/3ANRxrqOgTtA8dIC9YJLYG) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 6:09 | 2022-04-26 |  |

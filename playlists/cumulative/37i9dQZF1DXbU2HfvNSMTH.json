@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 230640,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 249666,
       "name": "Is There Something I Should Know?",
       "url": "https://open.spotify.com/track/3X4T0KunohTtDaecqBZ8vC"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 259906,
       "name": "Once in a Lifetime - 2005 Remaster",
       "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
@@ -1151,7 +1151,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 320733,
       "name": "Roll With It",
       "url": "https://open.spotify.com/track/2QlPByrmEO9XciNBXCrawR"
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 153800,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 268373,
       "name": "The Only Way Is Up",
       "url": "https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy"
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 179826,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/0oc7YoWV783fGr2GbdcIrz"
@@ -1591,6 +1591,24 @@
       "duration_ms": 352906,
       "name": "When Doves Cry",
       "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
+    },
+    {
+      "album": {
+        "name": "Get Lucky",
+        "url": "https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE"
+      },
+      "artists": [
+        {
+          "name": "Loverboy",
+          "url": "https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Working for the Weekend",
+      "url": "https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ"
     },
     {
       "album": {

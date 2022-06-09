@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Lexi Jayde
 
-184 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+185 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Dumb Love](https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Dumb Love](https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8) | 3:27 | 2022-01-14 | 2022-03-05 |
 | [Emerald City](https://open.spotify.com/track/2qeO8zNYrzTBs4Nxlkz007) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Emerald City](https://open.spotify.com/album/3e0LG2rn8nvgZZNsPKn3Tj) | 2:46 | 2022-01-14 | 2022-04-09 |
 | [Emma](https://open.spotify.com/track/3KDJyASCak07xkgxvKhjB2) | [Andrew Barth Feldman](https://open.spotify.com/artist/5ulESxWZSX8cw4PI6xgdDG) | [Emma](https://open.spotify.com/album/158IZZsGeaxebU5MMKUF8i) | 4:08 | 2022-01-14 | 2022-03-12 |
+| [End of the Day](https://open.spotify.com/track/1piMjMBuN0NRkoDy9aMD4u) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [End of the Day](https://open.spotify.com/album/2xBbejBQKutWWyCjlJ17Nf) | 3:56 | 2022-06-08 |  |
 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 | 2022-01-14 |  |
 | [Face](https://open.spotify.com/track/4adUFO0GaeoZfdhdtj9RNZ) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [Face](https://open.spotify.com/album/3zzOvx0cCLS6z2M2iKj57F) | 3:22 | 2022-01-14 | 2022-04-02 |
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-05-13 |  |
@@ -163,7 +164,7 @@
 | [Teenage Mona Lisa](https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Teenage Mona Lisa](https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d) | 3:18 | 2022-02-16 | 2022-05-14 |
 | [Terrified](https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Terrified](https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2) | 2:25 | 2022-02-04 | 2022-04-29 |
 | [that was quick!](https://open.spotify.com/track/36tVh8MZ2bxliGj0eJyKsX) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [that was quick!](https://open.spotify.com/album/5pUdobn8VDjZku5tmsiCXa) | 2:46 | 2022-03-18 |  |
-| [The New Me](https://open.spotify.com/track/0E8Torj5fhTNBghR1LlPNg) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [The New Me](https://open.spotify.com/album/0cqSltNGK7v8cGQmpw2QAF) | 2:23 | 2022-01-14 |  |
+| [The New Me](https://open.spotify.com/track/0E8Torj5fhTNBghR1LlPNg) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [The New Me](https://open.spotify.com/album/0cqSltNGK7v8cGQmpw2QAF) | 2:23 | 2022-01-14 | 2022-06-09 |
 | [The Outsider](https://open.spotify.com/track/13Y2OvFGijnHgFEGifRgEl) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Chaos In My Court](https://open.spotify.com/album/4dVCexXqcS9KDwdOXeUkSn) | 3:28 | 2022-01-14 | 2022-02-12 |
 | [the sky looked nice today](https://open.spotify.com/track/1R0WKnVaUrZbEyJNHSVlgX) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [when the sun came up](https://open.spotify.com/album/2MrUkSTLolgDJTboaxwCXl) | 3:19 | 2022-05-06 |  |
 | [The Way It Was Before](https://open.spotify.com/track/5MkeG5rfMXRthy1HtpO7Kx) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [The Way It Was Before](https://open.spotify.com/album/21WzCHmaKB5boZZdxf4jRN) | 3:00 | 2022-01-28 | 2022-04-29 |

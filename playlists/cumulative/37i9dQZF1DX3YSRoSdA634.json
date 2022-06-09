@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Are You Alright?",
       "url": "https://open.spotify.com/track/5Gi9PNrnsQHCnI5EYelkIG"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 196288,
       "name": "Broken Armour",
       "url": "https://open.spotify.com/track/008AopHIv4BkKGOXjy94IL"
@@ -1731,7 +1731,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 185213,
       "name": "guy friends",
       "url": "https://open.spotify.com/track/65ADzGXf5dSdiH5s1uy7RZ"
@@ -1911,7 +1911,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 220850,
       "name": "Head Above Water",
       "url": "https://open.spotify.com/track/1N7YeVU0ZwAFbOhwM61ef6"
@@ -2001,7 +2001,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 230266,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS"
@@ -2477,7 +2477,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 239316,
       "name": "I'm Not The Only One",
       "url": "https://open.spotify.com/track/1VbhR6D6zUoSTBzvnRonXO"
@@ -2733,7 +2733,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 246587,
       "name": "Jar of Hearts",
       "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
@@ -2859,7 +2859,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 266746,
       "name": "Let Her Go - Acoustic",
       "url": "https://open.spotify.com/track/7CzVAhQeZfTLqNnzdAiqrH"
@@ -3047,7 +3047,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 286250,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/38YUiPZdeg1DDX8d6eV5Gi"
@@ -4021,7 +4021,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 185864,
       "name": "Prism of Love (Piano Acoustic)",
       "url": "https://open.spotify.com/track/6gPTlMJWFcjmY6FGjRWwYK"
@@ -4093,7 +4093,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 197879,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/3t4uyvpEPqqGRR9hWL7wOw"
@@ -4501,7 +4501,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 242000,
       "name": "Slow Dancing in a Burning Room",
       "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
@@ -4825,7 +4825,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 204205,
       "name": "Summer's Gone",
       "url": "https://open.spotify.com/track/6PmhCEPMjhSo9j8hz767xy"
@@ -4951,7 +4951,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 268360,
       "name": "Talk",
       "url": "https://open.spotify.com/track/5Kwi8hF3UyV8FfmzrdkDqE"
@@ -5045,7 +5045,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 184467,
       "name": "the broken hearts club",
       "url": "https://open.spotify.com/track/5Cv1xqpyciZZuHHR7xr2l0"
@@ -5402,6 +5402,24 @@
     },
     {
       "album": {
+        "name": "Trainwreck",
+        "url": "https://open.spotify.com/album/4u66qXSHIxU7CkNsGGOWHs"
+      },
+      "artists": [
+        {
+          "name": "Kyle Meagher",
+          "url": "https://open.spotify.com/artist/1WGnWmocb9hSfRgsbpjn7i"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168920,
+      "name": "Trainwreck",
+      "url": "https://open.spotify.com/track/4UJgNlHQYutGJsYKF9CbLN"
+    },
+    {
+      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -5573,6 +5591,24 @@
       "duration_ms": 204586,
       "name": "Unsteady - Erich Lee Gravity Remix",
       "url": "https://open.spotify.com/track/2L433J1zwGjK5w6SHwJAhp"
+    },
+    {
+      "album": {
+        "name": "A Rose From E",
+        "url": "https://open.spotify.com/album/6oQJeflRWJJlH78fDqksFt"
+      },
+      "artists": [
+        {
+          "name": "Eimizah",
+          "url": "https://open.spotify.com/artist/3lvD3A9t2jhvnSSLZI4baM"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225719,
+      "name": "What is love?",
+      "url": "https://open.spotify.com/track/19uD100VO96sKlfjbLhZBB"
     },
     {
       "album": {
@@ -5941,7 +5977,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 211764,
       "name": "Wrong Love",
       "url": "https://open.spotify.com/track/2U09Gezu5PFkfoDiFJGKwm"

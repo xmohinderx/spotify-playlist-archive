@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 187659,
       "name": "cocoa",
       "url": "https://open.spotify.com/track/4PtG12oVoSFfJnkQ6jjRiC"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 130333,
       "name": "fool",
       "url": "https://open.spotify.com/track/41c8b3Nj6DCoaKrdaim47d"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "FRIDAY NIGHTS (with bottle gods)",
       "url": "https://open.spotify.com/track/1GreV6Av42dDCL3HZogPwy"
@@ -1437,7 +1437,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 157607,
       "name": "Like a Joke",
       "url": "https://open.spotify.com/track/2VCGMQgReG4YAX7EQhHPIe"
@@ -1491,7 +1491,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 214400,
       "name": "Love Like That",
       "url": "https://open.spotify.com/track/7pnBMz4MiFIwFXSa4nSJcJ"
@@ -1567,7 +1567,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 196881,
       "name": "May",
       "url": "https://open.spotify.com/track/6Mnnb4HXLTUUUG1JT7jGql"
@@ -1611,7 +1611,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 176241,
       "name": "Maybe We Could Be a Thing",
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
@@ -1647,7 +1647,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 237795,
       "name": "MORE AND MORE",
       "url": "https://open.spotify.com/track/6Ze55CYuGtXSipKLejspyf"
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 202853,
       "name": "Moving",
       "url": "https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7"
@@ -1723,7 +1723,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 194143,
       "name": "My Violet and My Blue",
       "url": "https://open.spotify.com/track/1WoNUbJc0wZ7NKcwzI5lgg"
@@ -1759,7 +1759,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 191333,
       "name": "NO THING",
       "url": "https://open.spotify.com/track/17krGK7sT3GvG3m6DFbq8N"
@@ -1781,7 +1781,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 201183,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/0iBh2ZfirDzFDkqrvkvoiW"
@@ -1957,7 +1957,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 232653,
       "name": "Paint on Spring",
       "url": "https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v"
@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 166022,
       "name": "Secret love (Feat. Ashley Alisha, Jae luna)",
       "url": "https://open.spotify.com/track/3D5tJv3dKwIBW0eBxoauR1"
@@ -2528,6 +2528,24 @@
     },
     {
       "album": {
+        "name": "Morning Diaries EP 1",
+        "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
+      },
+      "artists": [
+        {
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191873,
+      "name": "Take A Nap",
+      "url": "https://open.spotify.com/track/2swePREj3aFglLkOWQJCkn"
+    },
+    {
+      "album": {
         "name": "Scene #2",
         "url": "https://open.spotify.com/album/7Hsohl8K1M7Gb8OFCIxB1R"
       },
@@ -2573,7 +2591,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 217453,
       "name": "THE",
       "url": "https://open.spotify.com/track/1Ssehbv2YuNm1PlwHQlkQU"
@@ -2649,7 +2667,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 205421,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/0tZzmBIxQbjpTVU7Aanj4J"
@@ -2857,7 +2875,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 195200,
       "name": "Wake U Up",
       "url": "https://open.spotify.com/track/5tSaQTCZJdAl90my21JXFO"
@@ -2955,7 +2973,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 175714,
       "name": "When I See You (feat. Jimmy Brown)",
       "url": "https://open.spotify.com/track/1pqPzcxmGr25rZJvy74YjC"
@@ -2999,7 +3017,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 176000,
       "name": "Why",
       "url": "https://open.spotify.com/track/7vXz27gbT8KncfeS2yjNnI"
@@ -3127,7 +3145,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 230849,
       "name": "\ub208\uce58",
       "url": "https://open.spotify.com/track/4oXcPuN8yEpVBs6o8s6sRR"
@@ -3199,7 +3217,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 247173,
       "name": "\uc6b0\uc8fc\ub97c \uac74\ub108 Across the universe",
       "url": "https://open.spotify.com/track/48kGawOjwMzRqltSVL88es"

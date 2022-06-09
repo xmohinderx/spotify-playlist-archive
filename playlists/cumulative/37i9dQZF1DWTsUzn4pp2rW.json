@@ -623,7 +623,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 199408,
       "name": "Changing Lanes",
       "url": "https://open.spotify.com/track/75aqwHrxFwyhBDEKkLSq3S"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 215587,
       "name": "Do It Anyway",
       "url": "https://open.spotify.com/track/7aolyumzZqw1og9ztMmNZG"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 236386,
       "name": "Free",
       "url": "https://open.spotify.com/track/73oiKe2MUpyVch7q6GRJSh"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 148000,
       "name": "Gin & Jazz",
       "url": "https://open.spotify.com/track/4uItJBBvUNCx1KFX3mvkr5"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 255448,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/0F5TXI0TbKGRyAI5D0RYJF"
@@ -2577,6 +2577,28 @@
       "duration_ms": 227028,
       "name": "Some Day",
       "url": "https://open.spotify.com/track/5J7bcTD1AKOTElTwl42Ds9"
+    },
+    {
+      "album": {
+        "name": "SOMETHIN' (feat. Ego Ella May)",
+        "url": "https://open.spotify.com/album/3oX8Sb6OrZxhELPcsk30UW"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190026,
+      "name": "SOMETHIN' (feat. Ego Ella May)",
+      "url": "https://open.spotify.com/track/7uKjeD7TdjUQLgjyYO2leP"
     },
     {
       "album": {

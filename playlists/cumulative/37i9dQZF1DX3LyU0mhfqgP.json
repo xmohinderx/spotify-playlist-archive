@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 210405,
       "name": "airplane thoughts",
       "url": "https://open.spotify.com/track/6LyNmMNe5Xomr3MFL6dS7n"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 175477,
       "name": "Attitude",
       "url": "https://open.spotify.com/track/2XRk6BH2GZWgA5LJz2ctTD"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 220428,
       "name": "back to back - Japanese Wallpaper Remix",
       "url": "https://open.spotify.com/track/3rHfjnoLpaRZlpzhGJYKMq"
@@ -602,6 +602,24 @@
     },
     {
       "album": {
+        "name": "Blow Out My Candle",
+        "url": "https://open.spotify.com/album/2bc0REgbhglGuJH3Mt4hmk"
+      },
+      "artists": [
+        {
+          "name": "Betty Who",
+          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179326,
+      "name": "Blow Out My Candle",
+      "url": "https://open.spotify.com/track/1cK0KFqlnTQC6oqPh3CXt2"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/6uu8eB0HEFAfzi363aNRUs"
       },
@@ -656,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/2WhJOBdibFYDV9ZleIU0gy"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP"
+    },
+    {
+      "album": {
         "name": "Book Of Our Names",
         "url": "https://open.spotify.com/album/2P6xXZdy5Gxn5EhqAGqhTF"
       },
@@ -703,7 +739,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 251574,
       "name": "Boy In A Bubble",
       "url": "https://open.spotify.com/track/6EmZsNSWJM1JFhiBLlySec"
@@ -775,7 +811,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 138266,
       "name": "Catch This Love",
       "url": "https://open.spotify.com/track/6srcAu7CPT2h2ePrCEm42q"
@@ -1109,7 +1145,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 286093,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/3T7lv6LiJSfOsZS9t6kcPp"
@@ -1253,7 +1289,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 215573,
       "name": "Diary Entry",
       "url": "https://open.spotify.com/track/1nrYyJjjY74BS8w40vVQmF"
@@ -1401,7 +1437,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 207551,
       "name": "everything",
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
@@ -1463,7 +1499,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 172200,
       "name": "F*****g Up What Matters",
       "url": "https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5"
@@ -1742,6 +1778,24 @@
     },
     {
       "album": {
+        "name": "ALGORHYTHM",
+        "url": "https://open.spotify.com/album/0aKU5199DTOhodtIutOPRt"
+      },
+      "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "GAY EXCELLENCE",
+      "url": "https://open.spotify.com/track/4BDvHWbdxqpa5EEJOn3ggg"
+    },
+    {
+      "album": {
         "name": "resurrection",
         "url": "https://open.spotify.com/album/0tKwVfDWP4UIVvepbmg08N"
       },
@@ -1829,7 +1883,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 171317,
       "name": "Getting Used To",
       "url": "https://open.spotify.com/track/3bQFa2vK0P38iUrwYGc3Ul"
@@ -2267,7 +2321,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 127741,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2k5cMN5C6DEzvumS13eiGQ"
@@ -2325,7 +2379,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 263320,
       "name": "Hideous",
       "url": "https://open.spotify.com/track/4u2O3s1p5pWNx2CRFAynXX"
@@ -2517,7 +2571,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 211500,
       "name": "i didn't know any better",
       "url": "https://open.spotify.com/track/3h8QfnbdQKKcYm086PsMQ2"
@@ -2571,7 +2625,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 160158,
       "name": "I Lose Myself Completely",
       "url": "https://open.spotify.com/track/3Uhx3GgTkO6Z70hhOIThLH"
@@ -2625,7 +2679,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 210005,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/4QVIZ1C5fOvlwVaWywkkHz"
@@ -2647,7 +2701,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 169731,
       "name": "I Specialise In Love",
       "url": "https://open.spotify.com/track/7E55wyDIwjs18uExRw3zOM"
@@ -2665,7 +2719,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 199733,
       "name": "I Wanna Be a Boy",
       "url": "https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte"
@@ -2943,7 +2997,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 223628,
       "name": "Keeping The Light On",
       "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
@@ -3001,7 +3055,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 151307,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
@@ -3055,7 +3109,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 173905,
       "name": "Legs",
       "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
@@ -3167,7 +3221,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 196240,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/50BCSiudZXPTLHWkQzulII"
@@ -3185,7 +3239,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 152384,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7pl2fqi5Uvv0qH8SwOBp0H"
@@ -3803,7 +3857,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 277600,
       "name": "One",
       "url": "https://open.spotify.com/track/7G8xhYHnKiRu4KWTy5pBqO"
@@ -4095,7 +4149,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 200488,
       "name": "Puppy Pound",
       "url": "https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8"
@@ -4327,7 +4381,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 173700,
       "name": "Rockwell",
       "url": "https://open.spotify.com/track/2L3id4Vcv8mGUPd0egVNoB"
@@ -4957,7 +5011,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 185231,
       "name": "Tender feat. Yoke Lore",
       "url": "https://open.spotify.com/track/0rwqECjqFgtzKksm85Hfwv"
@@ -4975,7 +5029,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 129281,
       "name": "Thank Yew",
       "url": "https://open.spotify.com/track/6LUZE9aLm0jfIptvGiBoMd"
@@ -4993,7 +5047,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 250213,
       "name": "The Curse of the Blackened Eye",
       "url": "https://open.spotify.com/track/4o5XagsRjI8g1lGryYhrGD"
@@ -5257,7 +5311,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 178090,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/4nOv98rbyxOyLTGvjYenrJ"
@@ -5449,7 +5503,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 225033,
       "name": "Weirdo",
       "url": "https://open.spotify.com/track/3GEcWJB535LBfwF1lyWGAD"
@@ -5615,7 +5669,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 166263,
       "name": "you ruined phoebe bridgers",
       "url": "https://open.spotify.com/track/1wbqhfq7CIN9Q5FL8CL90r"

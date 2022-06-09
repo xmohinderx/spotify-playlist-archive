@@ -3860,6 +3860,40 @@
     },
     {
       "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/2DHChOTHjJzyY9RL0RKUlj"
+      },
+      "artists": [
+        {
+          "name": "Devine Channel",
+          "url": "https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw"
+        },
+        {
+          "name": "Yellowmane",
+          "url": "https://open.spotify.com/artist/69DIWtgrZbIjorw3g1UqVy"
+        },
+        {
+          "name": "Sahtyre",
+          "url": "https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU"
+        },
+        {
+          "name": "Junoflo",
+          "url": "https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R"
+        },
+        {
+          "name": "G2",
+          "url": "https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132373,
+      "name": "Howl (Feat. Yellowmane, Sahtyre, Junoflo, G2)",
+      "url": "https://open.spotify.com/track/24N9c3BdEQL2rrfJLggzka"
+    },
+    {
+      "album": {
         "name": "Hullabaloo",
         "url": "https://open.spotify.com/album/4WfAFQDRh8VNYDVp6H2wIf"
       },
@@ -4837,7 +4871,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 150511,
       "name": "Love Like You",
       "url": "https://open.spotify.com/track/6fzcTivgSDZqKzkK1CKlKA"

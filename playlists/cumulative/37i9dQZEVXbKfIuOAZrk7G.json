@@ -6226,6 +6226,24 @@
     },
     {
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
+    },
+    {
+      "album": {
         "name": "Nail Tech",
         "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
       },
@@ -8169,7 +8187,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 254258,
       "name": "Something in the Orange - Z&E's Version",
       "url": "https://open.spotify.com/track/7lNmcW2wW6ciV9Rhh8YOMe"
@@ -8851,7 +8869,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 114451,
       "name": "The Race Freestyle",
       "url": "https://open.spotify.com/track/7J31Lvi451GXq9HxdfIEOR"
@@ -9181,7 +9199,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 250026,
       "name": "Top Gun Anthem - From \"Top Gun\" Original Soundtrack",
       "url": "https://open.spotify.com/track/0Eodsilv1jAn83TGezUzaE"

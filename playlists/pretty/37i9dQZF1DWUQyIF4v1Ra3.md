@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQyIF4v1Ra3.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,349 likes - 34 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,356 likes - 34 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQyIF4v1Ra3.md) - [plain]
 | 3 | [Gori Radha Ne Kado Kaan](https://open.spotify.com/track/6YwisMp960dh6SGIUU9Nhz) | [Kirtidan Gadhvi](https://open.spotify.com/artist/7odYFkW15De3A7aAuk5x9h) | [Wrong Side Raju](https://open.spotify.com/album/3qAH4f7C9R8cO2v92pG7bG) | 5:26 |
 | 4 | [Dholida \(From "Loveyatri \- A Journey Of Love"\)](https://open.spotify.com/track/3E0yBu7PnTvj9bUu72ygRj) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Dholida \(From "Loveyatri \- A Journey Of Love"\)](https://open.spotify.com/album/7lHI7k253fBJqRq383WaZd) | 3:36 |
 | 5 | [Chalo Pela](https://open.spotify.com/track/7dOPoDOGhuLMMuO7TNuo0v) | [Rupal Doshi](https://open.spotify.com/artist/0OOE5E66pjnINTv2x46oiA) | [Khelaiya Non Stop Disco Dandia](https://open.spotify.com/album/0aUp8vap2HCuhGQ0CuyBaT) | 7:23 |
-| 6 | [Mitron Dandiya Mashup \- From "Mitron"](https://open.spotify.com/track/6Kv46e61xHg53PmddVy9mT) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA), [Dj Kiran Kamath](https://open.spotify.com/artist/76DiXwbDvK690KWyvU5JoP) | [Mitron Dandiya Mashup \(From "Mitron"\)](https://open.spotify.com/album/6UrwEDbHH1IayjvdOKAiaU) | 4:02 |
-| 7 | [Kamariya](https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR) | [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mitron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df) | 4:11 |
+| 6 | [Kamariya](https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR) | [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mitron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df) | 4:11 |
+| 7 | [Mitron Dandiya Mashup \- From "Mitron"](https://open.spotify.com/track/6Kv46e61xHg53PmddVy9mT) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA), [Dj Kiran Kamath](https://open.spotify.com/artist/76DiXwbDvK690KWyvU5JoP) | [Mitron Dandiya Mashup \(From "Mitron"\)](https://open.spotify.com/album/6UrwEDbHH1IayjvdOKAiaU) | 4:02 |
 | 8 | [Tara Vina Shyam Mane](https://open.spotify.com/track/6Y57YYVjD7CwK0602GQaxG) | [Kishore Manraja](https://open.spotify.com/artist/3ZFpN9rFHLxElJpqyABkMt) | [Bamboo Beats \(Disco Dandiya Hits\)](https://open.spotify.com/album/7hyZTOovgclhqA7iQdoUMl) | 8:24 |
 | 9 | [Lahu Munh Lag Gaya](https://open.spotify.com/track/33XC6PPmZ9Y9oJ5MdugOhw) | [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Goliyon Ki Raasleela Ram\-Leela](https://open.spotify.com/album/7LnYqdYYp4ge2tvKmxNDsg) | 5:00 |
 | 10 | [Teri Aankhon Mein](https://open.spotify.com/track/3wmI2n0Whs6kg4MT8jFRU1) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Teri Aankhon Mein](https://open.spotify.com/album/77dwEKk1JI2JN9L5tg8d7t) | 4:21 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQyIF4v1Ra3.md) - [plain]
 | 33 | [Khodiyar Mari Mavdi](https://open.spotify.com/track/2NWTl6wnbP9e1XpFohed3b) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Kirtidan Gadhvi](https://open.spotify.com/artist/7odYFkW15De3A7aAuk5x9h) | [Thanganat \(Non Stop Garba, Vol\. 16\)](https://open.spotify.com/album/0g3DifkCMaMswIooOllfCK) | 3:21 |
 | 34 | [Kidi Bichari](https://open.spotify.com/track/35q0ZBWjxmtWZiWLWeEORK) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Rangtaali \- Non Stop Garba](https://open.spotify.com/album/1c21J9E55BypW4dLG17R5W) | 2:22 |
 
-Snapshot ID: `MTY0MTk3NTA3NiwwMDAwMDAwYTAwMDAwMTdlNGQ1NzU2NmYwMDAwMDE3NTJjNDc4NzMz`
+Snapshot ID: `MTY1NDY4MjU0OSwwMDAwMDAwYjAwMDAwMTgxNDJjM2ZjNWEwMDAwMDE3NTJjNDc4NzMz`

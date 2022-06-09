@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-724 songs - 1 day 16 hr 28 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+725 songs - 1 day 16 hr 30 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Hearts Will Bleed](https://open.spotify.com/track/5OLtfHu6jyUHuLNto6gSRb) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Hearts Will Bleed](https://open.spotify.com/album/5ThX2dEYmhMmJYIPO6IkwL) | 2:47 | 2021-05-22 | 2021-05-26 |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2021-03-14 | 2021-09-30 |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2021-05-24 | 2022-05-12 |
+| [Hero of Our Time](https://open.spotify.com/track/15277wUzsEKo3bxCIxFLgk) | [NateWantsToBattle](https://open.spotify.com/artist/0Vb15td3iKkAzdGD5Sj9Ky) | [Songs of Time](https://open.spotify.com/album/0wyDWF9bM2n7id4yf56ekX) | 2:20 | 2022-06-08 |  |
 | [Heroes](https://open.spotify.com/track/3h8DQEl5vgt5BRIlVXXycl) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Avengers: Age of Ultron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1UaUCko4qqWnT2gJKmaQLT) | 2:07 | 2020-06-12 | 2021-03-14 |
 | [Heroes](https://open.spotify.com/track/2ZPYWMdJ8ro0KXsPYBE8YE) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Avengers: Age of Ultron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xJzVmrwTmCvzaXWzE7jbP) | 2:07 | 2020-10-20 | 2021-03-14 |
 | [Hey Compadre](https://open.spotify.com/track/31ZLfwshE4iukrSR1sbaq8) | [Cruel Hearts Club](https://open.spotify.com/artist/2w6AW62UPdxhy3kNwD5AFO) | [Hey Compadre](https://open.spotify.com/album/1BqNDTU0KQpSsVCmVvWHnp) | 3:19 | 2021-03-30 | 2022-02-24 |

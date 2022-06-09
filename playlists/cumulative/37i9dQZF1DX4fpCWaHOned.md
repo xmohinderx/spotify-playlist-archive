@@ -4,7 +4,7 @@
 
 > You're on top of the world\. Don't forget it.
 
-355 songs - 20 hr 1 min - [published](https://open.spotify.com/playlist/6HuIdktgC33vvZen0bYwSa)
+356 songs - 20 hr 4 min - [published](https://open.spotify.com/playlist/6HuIdktgC33vvZen0bYwSa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bigger Than](https://open.spotify.com/track/5X73AYzzEE5Di0JwcQKt9N) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Bigger Than](https://open.spotify.com/album/0ryzyI2FzzvGCjoysiWMW0) | 3:28 | 2020-02-22 | 2021-10-23 |
 | [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 | 2022-01-14 | 2022-04-20 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2020-05-15 | 2021-10-13 |
+| [Blow Out My Candle](https://open.spotify.com/track/1cK0KFqlnTQC6oqPh3CXt2) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Blow Out My Candle](https://open.spotify.com/album/2bc0REgbhglGuJH3Mt4hmk) | 2:59 | 2022-06-03 |  |
 | [Body Of Water](https://open.spotify.com/track/3t3nRJMR8dvWySXrgGUpyD) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Pop?](https://open.spotify.com/album/36IWTKTouQV9aExZzuG6sP) | 3:08 | 2021-12-10 | 2022-01-08 |
 | [Born This Way](https://open.spotify.com/track/6wAdqKcL7uESrsekjLTKod) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/6brEmLzLxjAOB0KcXdT7ye) | 4:20 | 2019-08-26 | 2022-04-21 |
 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 | 2022-03-25 | 2022-04-19 |
@@ -98,7 +99,7 @@
 | [Flames](https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Flames](https://open.spotify.com/album/3B8J3BMp7lMA5YR5bUXHGK) | 3:15 | 2019-08-26 | 2021-05-23 |
 | [Floating Through Space](https://open.spotify.com/track/2AceGjiX9isUbXmMZa0Dl1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Floating Through Space](https://open.spotify.com/album/0BE9HxEf6RRDyni3SSvM6t) | 2:57 | 2021-02-06 | 2022-02-04 |
 | [Fly](https://open.spotify.com/track/2E1RGgFtr1X4H6glXOtABo) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 3:32 | 2022-03-25 | 2022-04-11 |
-| [for the girls](https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [for the girls](https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB) | 2:38 | 2022-05-20 | 2022-06-07 |
+| [for the girls](https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [for the girls](https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB) | 2:38 | 2022-05-20 |  |
 | [Formation](https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:26 | 2019-07-29\* | 2021-05-28 |
 | [Free Spirit](https://open.spotify.com/track/2kAIpGWnlFLQh48iut6Zzq) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:02 | 2019-07-29\* | 2022-02-04 |
 | [Free Woman](https://open.spotify.com/track/4L6ihclQPu1hqP9r3WNJjQ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:11 | 2020-06-12 | 2022-01-10 |
@@ -266,7 +267,7 @@
 | [Sheesh!](https://open.spotify.com/track/3ddNKnYpVx0uI8vcwbTQ5Y) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sheesh!](https://open.spotify.com/album/7aGQrZNnvPaOc0PVm7yuc5) | 2:28 | 2021-10-01 |  |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-09-18 |  |
 | [Shout Out to My Ex](https://open.spotify.com/track/2OtCtGugQwH066hxpaRNwU) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Japan Edition\)](https://open.spotify.com/album/0RMQdlNV30FXU7hCtx2Lxo) | 4:06 | 2019-07-29\* |  |
-| [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 | 2021-02-08 |  |
+| [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 | 2021-02-08 | 2022-06-09 |
 | [Shut Up](https://open.spotify.com/track/4sqUqP7QJrCtoAUGfFDjFE) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Shut Up](https://open.spotify.com/album/3bn0loXOlkfKBUGszzTz82) | 2:39 | 2022-03-25 | 2022-04-21 |
 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 | 2019-08-26 | 2022-04-19 |
 | [Side To Side](https://open.spotify.com/track/1pKeFVVUOPjFsOABub0OaV) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Dangerous Woman](https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7) | 3:46 | 2019-10-25 | 2019-10-26 |
@@ -295,7 +296,7 @@
 | [Supercut](https://open.spotify.com/track/6IIcLzR05sN1gk4ngzz7Kk) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/4oCGmYsAQOWt2ACWTpNUU6) | 4:37 | 2019-07-29\* | 2021-07-27 |
 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 | 2022-02-03 | 2022-05-05 |
 | [Survivor](https://open.spotify.com/track/7qtAgn9mwxygsPOsUDVRRt) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/0IVseR3zfrrInlKJQNh294) | 4:14 | 2020-06-12 | 2022-04-21 |
-| [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/4SPLWgCPoKwULz2UTM8TKg) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:34 | 2019-07-29\* |  |
+| [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/4SPLWgCPoKwULz2UTM8TKg) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:34 | 2019-07-29\* | 2022-06-09 |
 | [Take It Home](https://open.spotify.com/track/45RspXN5oWquKcWiiScmkR) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Take It Home](https://open.spotify.com/album/5nWFGfFaGM09JaawwjwXLF) | 2:46 | 2021-07-17 | 2021-10-23 |
 | [Take It or Leave It](https://open.spotify.com/track/1M65QIDUGHX5iccsPZ83hd) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Take It or Leave It](https://open.spotify.com/album/1UPZDcfjJ7M6fQTJkFNxUe) | 2:28 | 2022-04-15 | 2022-04-21 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-10-09 | 2022-01-15 |

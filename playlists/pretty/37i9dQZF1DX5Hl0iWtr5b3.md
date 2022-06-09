@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 
 > All your favorite tracks from Bridgerton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,507 likes - 63 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,845 likes - 63 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 | 22 | [Game Over \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/3AMTM7zr4iQTGG4Zj3eDWq) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb) | 1:14 |
 | 23 | [I Love You \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/7rZ7vONq8cZDHGoTkvPJ04) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb) | 2:06 |
 | 24 | [Nothing Could Keep Me Away \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/5ek7tr9sYv9X2xbZMPgS1E) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb) | 1:17 |
-| 25 | [Spring 1](https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy) | 2:31 |
+| 25 | [Spring 1 \- 2012](https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy) | 2:31 |
 | 26 | [Lord Bridgerton Stung \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/52ML8gtby5HUV3pAc6Ws50) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb) | 1:30 |
 | 27 | [A Country Visit \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/17dg6Kx2lGJCPmcrwdTTrk) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb) | 1:19 |
 | 28 | [Not Far Enough \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/2EOo0FImBkDqX2c7Ntv5AN) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb) | 2:12 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 | 62 | [The Duel](https://open.spotify.com/track/1xXMP0iVs9bpZBpK0CmlVB) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 7:13 |
 | 63 | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Kroma Strings](https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3) | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V) | 4:07 |
 
-Snapshot ID: `MTY1NDY2ODM4MiwwMDAwMDAwMGI2ZWUxMzE4OTFmYWMxZmFhMmYzZjNjMWM3ZGE0MTky`
+Snapshot ID: `MTY1NDczNjk5NywwMDAwMDAwMGI2ZWUxMzE4OTFmYWMxZmFhMmYzZjNjMWM3ZGE0MTky`

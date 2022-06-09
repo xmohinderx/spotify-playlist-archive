@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: Rojo
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,287 likes - 103 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,375 likes - 103 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 20 | [Probar y Verte / Deseo Eterno](https://open.spotify.com/track/67zFfsHaLFK68YDdEpi7TE) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Probar y Verte / Deseo Eterno](https://open.spotify.com/album/5bkmI3E54lt7HBJf6yO1Ku) | 6:03 |
 | 21 | [Soy Deudor](https://open.spotify.com/track/4y8zlxgE2TJsx3CnHW4NoR) | [Jaime Murrell](https://open.spotify.com/artist/52UuWTjtPwZTQ4Y0lL8F5k) | [Soy Deudor](https://open.spotify.com/album/7CK2cxz889U7gjQV7qOqM3) | 5:35 |
 | 22 | [Roca Firme](https://open.spotify.com/track/0szoXYidxdLMEiitSO1e3X) | [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [Roca Firme](https://open.spotify.com/album/1NQ8n8jtzvMiFurQKazcvd) | 5:52 |
-| 23 | [Siempre Ha Estado Aquí \(Remix\)](https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo) | [Despinal](https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe), [JMV](https://open.spotify.com/artist/41RExBzz44kVRp7C2FsjgR), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5) | [Siempre Ha Estado Aquí \(Remix\)](https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy) | 3:05 |
+| 23 | [Siempre Ha Estado Aquí \(Remix\)](https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo) | [Despinal](https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe), [JMV The Producer](https://open.spotify.com/artist/5cFyv6N31ohxAL5NEbEhHx), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5) | [Siempre Ha Estado Aquí \(Remix\)](https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy) | 3:05 |
 | 24 | [Escalera al Cielo](https://open.spotify.com/track/3JVBxiYfwoeOpEaYJfQDSO) | [Alex Sirvent](https://open.spotify.com/artist/7ownKRFwNOfLn5tzuOx4ak), [Fernando Mow](https://open.spotify.com/artist/2u6IGL8R9ZUEibHL1ggQlg), [César Lemos](https://open.spotify.com/artist/4D8blAz0xXi22h6ox6tcSJ) | [Escalera Al Cielo](https://open.spotify.com/album/2LPLlXVRmvCWdlv7KdcTdM) | 3:23 |
 | 25 | [Respirar del Cielo](https://open.spotify.com/track/0I6xcZXhXEyN5fJNQerJxZ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/6fC5dnbE9WJOAZqraTMkUh) | 5:46 |
 | 26 | [Yo Te Amo \- Live](https://open.spotify.com/track/0vOMQ15k14fORfW5Q7f3gb) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Maranatha 2 \(Live\)](https://open.spotify.com/album/4yEWKizQPujHcAIci0X75I) | 9:34 |

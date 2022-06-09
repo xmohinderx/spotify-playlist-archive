@@ -5764,6 +5764,24 @@
     },
     {
       "album": {
+        "name": "Songs of Time",
+        "url": "https://open.spotify.com/album/0wyDWF9bM2n7id4yf56ekX"
+      },
+      "artists": [
+        {
+          "name": "NateWantsToBattle",
+          "url": "https://open.spotify.com/artist/0Vb15td3iKkAzdGD5Sj9Ky"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140444,
+      "name": "Hero of Our Time",
+      "url": "https://open.spotify.com/track/15277wUzsEKo3bxCIxFLgk"
+    },
+    {
+      "album": {
         "name": "Avengers: Age of Ultron (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1UaUCko4qqWnT2gJKmaQLT"
       },

@@ -4,7 +4,7 @@
 
 > So you think you got pocket? Cover: Nate Smith
 
-60 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
+62 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Bad Kids To The Back](https://open.spotify.com/track/3nvREfeASA91U3atMsVO3H) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Immigrance](https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge) | 5:45 | 2022-06-01 |  |
 | [Barreleye](https://open.spotify.com/track/2Dc1pUBABcfMy42W6vxhC3) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Deep: The Baritone Sessions](https://open.spotify.com/album/2oo8dj4OFcDeioixQgtVgK) | 3:12 | 2022-06-01 |  |
 | [BC](https://open.spotify.com/track/5z9YuyOeX4RPKk0dIAJWle) | [Tal Wilkenfeld](https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu) | [Transformation](https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS) | 6:21 | 2022-06-01 |  |
+| [BELIEVIN'](https://open.spotify.com/track/0F79QAGawM9bMrK11YGHru) | [NANIWA EXPRESS](https://open.spotify.com/artist/7A5C2jFwT0lxjAYMsHDh3r) | [NO FUSE](https://open.spotify.com/album/1WzpfKD6z4ZYCiCv9dIaEY) | 4:27 | 2022-06-08 |  |
 | [Bounce: pts I + II](https://open.spotify.com/track/2Xt6ANxPp2Ds41E3CWYiSV) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ZZ16e0qQpQRMWeHc6uAnl) | 5:33 | 2022-06-01 |  |
 | [Bruise Cruise](https://open.spotify.com/track/0Z27rTTijg45gBZn56hBSa) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Scary Goldings IV](https://open.spotify.com/album/6nR9rJfgSR5U6ffU4vhv75) | 2:13 | 2022-06-01 |  |
 | [Can't Stop](https://open.spotify.com/track/5MZeACNzwzidxLfglyCspe) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Distractions](https://open.spotify.com/album/1tTj6jyy6LbOsio9saFf9L) | 2:48 | 2022-06-01 |  |
@@ -38,6 +39,7 @@
 | [In The Pocket](https://open.spotify.com/track/6m7GqeOw8x6AhfAXNlA70B) | [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Hard\-Wired](https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS) | 5:30 | 2022-06-01 |  |
 | [Inside My Memory](https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Lele Melotti](https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR) | [Ostinato Bass](https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz) | 4:13 | 2022-06-01 |  |
 | [Introducing the Fearless Flyers](https://open.spotify.com/track/5EUbvbjJxC2Qe3DXDix8dl) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [The Fearless Flyers](https://open.spotify.com/album/2GEQWuTviG5lXO66aiOYqt) | 2:23 | 2022-06-01 |  |
+| [Jungle Circuit](https://open.spotify.com/track/1khNGmU4Hhr1GjkaISocYA) | [Trix](https://open.spotify.com/artist/0r3CKyd6SM51XaPM3b66iv) | [Art](https://open.spotify.com/album/44AeXmG9YVEx9NPSi5cEsp) | 5:35 | 2022-06-08 |  |
 | [Knuckaround](https://open.spotify.com/track/13ptJ0sjLFp7ymeaLRxYIw) | [The Funky Knuckles](https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V) | [Delicious](https://open.spotify.com/album/6VJVd3Y0kj35GhpEYASsQz) | 1:09 | 2022-06-01 |  |
 | [Matinee Idol](https://open.spotify.com/track/190Tz6CYjyOAq5ypbV8CFi) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq) | [Yellowjackets](https://open.spotify.com/album/654nTxrBmHTUHlR2QaVhrI) | 5:12 | 2022-06-01 |  |
 | [Mixed Bag](https://open.spotify.com/track/47kUGRjxvP9bhGEP4uSMZw) | [Dave Weckl Band](https://open.spotify.com/artist/6P05VbVOUyn8swXrrFCLI9) | [Multiplicity](https://open.spotify.com/album/1ociuLesR6fsSFdoZFSrvG) | 6:37 | 2022-06-01 |  |

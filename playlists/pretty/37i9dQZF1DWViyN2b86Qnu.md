@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Smoothboi Ezra
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,099 likes - 103 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,270 likes - 103 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

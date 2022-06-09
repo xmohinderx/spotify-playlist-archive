@@ -4,10 +4,11 @@
 
 > Let these jazz tracks lull you to sleep.
 
-145 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
+146 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Certain Smile](https://open.spotify.com/track/7bQJp5ntthltjReJmZJjCM) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [A Certain Smile](https://open.spotify.com/album/0bNDqwI6bxA7cYg235yZvm) | 2:06 | 2022-06-08 |  |
 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/5igO8dMEr3lvL5hnzP2RxR) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/5x49ipf24HQSNzSoGQnGH6) | 4:58 | 2022-01-04 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 | 2021-12-07 |  |
 | [A Time For Love](https://open.spotify.com/track/13UkFrEMKkCKkUsjIZbq8p) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [A Time For Love](https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA) | 6:04 | 2022-01-04 |  |
@@ -62,7 +63,7 @@
 | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/track/3CSDvtLQExxVd5xoMAi8q8) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/album/2L1p6B26GF4vzr3QSQbmn7) | 2:27 | 2022-05-31 |  |
 | [I'm Glad There Is You](https://open.spotify.com/track/0wAqaMAcQhd9Jk78XgqHWs) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [I'm Glad There Is You](https://open.spotify.com/album/77MH1Wv80xJi7l26Ri1VaJ) | 4:46 | 2022-02-15 |  |
 | [I'm in the Mood for Love: I'm in the Mood for Love](https://open.spotify.com/track/6EZMZ5LIMiZZeSFcxU97xT) | [Edward Newton](https://open.spotify.com/artist/0vFsXMElRoDfx0dnLpBB3s) | [Cocktail Piano: A gentle, genteel accompaniment to your party](https://open.spotify.com/album/2ZtiolvP2GXkM646eiqi5F) | 2:15 | 2021-12-07 |  |
-| [I'm Through With Love](https://open.spotify.com/track/25CN9OMqfs6XwG89bpeemt) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [I'm Through With Love](https://open.spotify.com/album/6TSLFqTXi6miKoCwg3kyAN) | 4:19 | 2021-12-07 |  |
+| [I'm Through With Love](https://open.spotify.com/track/25CN9OMqfs6XwG89bpeemt) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [I'm Through With Love](https://open.spotify.com/album/6TSLFqTXi6miKoCwg3kyAN) | 4:19 | 2021-12-07 | 2022-06-09 |
 | [If You Could See Me Now](https://open.spotify.com/track/53BeSVY0mpmucCIr0pDkPp) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [If You Could See Me Now](https://open.spotify.com/album/1gtcWSvAdOvvJ9Ya82g5Mk) | 3:20 | 2021-12-07 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/2RJQsdpr5CzWzRA8mYx1ur) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [In A Sentimental Mood](https://open.spotify.com/album/3t5hzRfv1qKoIgTRCh7Aan) | 2:52 | 2021-12-07 |  |
 | [In Another Day](https://open.spotify.com/track/21uYfxqePi9cX2aHvsEGAI) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In Another Day](https://open.spotify.com/album/326l5lpeuTwSNNyZ9GpbHc) | 3:14 | 2022-03-01 |  |

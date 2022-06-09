@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -1695,7 +1695,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-19",
+      "date_removed": null,
       "duration_ms": 162013,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/2lDgdWIGLYuk74pDeRPgPF"
@@ -2005,7 +2005,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 185857,
       "name": "Cooped Up (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d"
@@ -2359,7 +2359,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 164533,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
@@ -2487,7 +2487,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
@@ -3501,7 +3501,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-05",
+      "date_removed": null,
       "duration_ms": 150826,
       "name": "Fear for Nobody",
       "url": "https://open.spotify.com/track/7t3fuKd5h73oppjIgkxZ25"
@@ -3653,7 +3653,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-15",
+      "date_removed": null,
       "duration_ms": 230706,
       "name": "FOR YOUR LOVE",
       "url": "https://open.spotify.com/track/3ZeyEvTgSlKajHc0fckgZT"
@@ -5469,7 +5469,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
@@ -6209,7 +6209,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-11",
+      "date_removed": null,
       "duration_ms": 126706,
       "name": "L'altra dimensione",
       "url": "https://open.spotify.com/track/36ONZ2CvV8KsLPapNPGTqa"
@@ -6515,7 +6515,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 170500,
       "name": "Leid\u017eiu Sau Visk\u0105",
       "url": "https://open.spotify.com/track/52eAieWS7smUTma4islWd9"
@@ -7255,7 +7255,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-21",
+      "date_removed": null,
       "duration_ms": 186809,
       "name": "MAMMAMIA",
       "url": "https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP"
@@ -7443,7 +7443,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
@@ -7625,6 +7625,28 @@
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "album": {
+        "name": "MIDNIGHT",
+        "url": "https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W"
+      },
+      "artists": [
+        {
+          "name": "PLAYAMANE",
+          "url": "https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS"
+        },
+        {
+          "name": "Nateki",
+          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121972,
+      "name": "MIDNIGHT",
+      "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
     },
     {
       "album": {
@@ -7911,7 +7933,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-08-01",
+      "date_removed": null,
       "duration_ms": 157880,
       "name": "Morir\u00f2 da Re",
       "url": "https://open.spotify.com/track/1aX0Ki80LFzzhqxqRlqbAV"
@@ -8053,7 +8075,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 193813,
       "name": "Music For a Sushi Restaurant",
       "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
@@ -11165,7 +11187,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 176285,
       "name": "SloMo",
       "url": "https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH"
@@ -11413,7 +11435,7 @@
       ],
       "date_added": "2021-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-25",
+      "date_removed": null,
       "duration_ms": 161040,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/4AIatGjGyVipeEAzCMTqOg"
@@ -12679,7 +12701,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-08-18",
+      "date_removed": null,
       "duration_ms": 230666,
       "name": "Torna a casa",
       "url": "https://open.spotify.com/track/3590AAEoqH50z4UmhMIY85"
@@ -13207,7 +13229,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-11",
+      "date_removed": null,
       "duration_ms": 253586,
       "name": "VENT'ANNI",
       "url": "https://open.spotify.com/track/6Vfo6O3hk38vDcSpazNo3p"
@@ -13611,7 +13633,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"

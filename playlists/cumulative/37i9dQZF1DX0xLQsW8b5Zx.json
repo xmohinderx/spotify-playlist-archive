@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 160466,
       "name": "Another Sunday Morning",
       "url": "https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 149933,
       "name": "At The Hop",
       "url": "https://open.spotify.com/track/6vkuJbGjyjnSQReeaCh8wT"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 205946,
       "name": "Barfly",
       "url": "https://open.spotify.com/track/5Dp4Yl7iKlsjN6Ee9T0BVI"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 185845,
       "name": "Big Boys",
       "url": "https://open.spotify.com/track/44ljyjfLTjjS3XuzoFh3Z5"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 129026,
       "name": "Black Slacks",
       "url": "https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 140066,
       "name": "Blue Suede Shoes - Rerecorded",
       "url": "https://open.spotify.com/track/54ZYZamhvPMDMngC7RqHAE"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 142560,
       "name": "Bluejean Bop",
       "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 183573,
       "name": "Born to Rock",
       "url": "https://open.spotify.com/track/6YT4nf1aNlJrKiTSsrqaaz"
@@ -397,10 +397,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 192466,
       "name": "Chalk It Up to the Blues",
       "url": "https://open.spotify.com/track/3GjdLiQyrIDArRUHHsE93v"
+    },
+    {
+      "album": {
+        "name": "The Big Bopper's Greatest Hits",
+        "url": "https://open.spotify.com/album/3TQUtTuwtG9vDtRprrifqC"
+      },
+      "artists": [
+        {
+          "name": "The Big Bopper",
+          "url": "https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141640,
+      "name": "Chantilly Lace",
+      "url": "https://open.spotify.com/track/25hrRL7AzlYSLtttKIoY5l"
     },
     {
       "album": {
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 149159,
       "name": "Daddy Cool / The Girl Can't Help It",
       "url": "https://open.spotify.com/track/10b9TrZBf0uP1EtAZHcKNh"
@@ -491,7 +509,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 197324,
       "name": "Don't Come Knocking on My Door",
       "url": "https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu"
@@ -527,7 +545,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 127239,
       "name": "Drugstore Rock and Roll",
       "url": "https://open.spotify.com/track/3QfhbXUTf5hlFAEbn0jbeP"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 162493,
       "name": "Everybody's Movin'",
       "url": "https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 133009,
       "name": "Everybody's Trying to Be My Baby",
       "url": "https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8"
@@ -693,7 +711,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 126500,
       "name": "Go Go Go",
       "url": "https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV"
@@ -729,7 +747,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 234293,
       "name": "Goodbye Forever",
       "url": "https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ"
@@ -873,7 +891,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 135373,
       "name": "Hold Me, Hug Me, Rock Me - 2002 Digital Remaster",
       "url": "https://open.spotify.com/track/07dubfnUuwhOfV84rJ5EuO"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 179400,
       "name": "Johnny Got A Boom Boom",
       "url": "https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 217792,
       "name": "Meet Me After Midnight",
       "url": "https://open.spotify.com/track/5v4QQoNX0XbEkOblrMYc88"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 129610,
       "name": "Pretty Bad Blues",
       "url": "https://open.spotify.com/track/52wE6uoCiiMGApFVqKy2JY"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 185986,
       "name": "Red Light (Spells Danger)",
       "url": "https://open.spotify.com/track/3fxkvUbO7w8CvHIGm4jnag"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 170084,
       "name": "Rock 'n' Roll Ruby",
       "url": "https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs"
@@ -1547,7 +1565,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 131826,
       "name": "Rock Around With Ollie Vee - Single Version",
       "url": "https://open.spotify.com/track/1hcs4ZGMVsnKgBRawd1cCA"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 200146,
       "name": "Rockabilly Blues (Texas 1955)",
       "url": "https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 163960,
       "name": "Rockabilly Rebel",
       "url": "https://open.spotify.com/track/6kSXIXxIv6edvYm7cRV4Jz"
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 195066,
       "name": "Stray Cat Strut",
       "url": "https://open.spotify.com/track/6prmiVokCCQB1VAYhq5TGJ"
@@ -1857,7 +1875,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 165586,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0Y1BHJjQjDhTnKCAsUEmGJ"
@@ -1893,7 +1911,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 136560,
       "name": "That'll Be The Day",
       "url": "https://open.spotify.com/track/5Y9RqvAKUyLfEPWCjAqjsO"
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 125093,
       "name": "Tiger Twist - 2007 Remaster",
       "url": "https://open.spotify.com/track/0WZiGJT2NawjIySdHLzhMx"

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2SymtxlfwF.md) - [plain]
 
 > Your essential Max Richter, all in one collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,878 likes - 91 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,903 likes - 91 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 1](https://open.spotify.com/track/3FVy3aVs0TFzLv6FEiLqC2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 2:33 |
-| 2 | [Spring 1](https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy) | 2:31 |
+| 2 | [Spring 1 \- 2012](https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy) | 2:31 |
 | 3 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 2](https://open.spotify.com/track/4lyY06kGvzvmG6ErToOVLe) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 2:22 |
 | 4 | [A Catalogue of Afternoons](https://open.spotify.com/track/42c1ppLBsSbUjFNDzYLY10) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [A Catalogue Of Afternoons](https://open.spotify.com/album/3EmrqoUaH8b96oBjtbwfl5) | 1:50 |
 | 5 | [Vladimir's Blues](https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:18 |

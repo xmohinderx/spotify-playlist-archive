@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Lucas Bun
+> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Karlisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,618 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,669 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ego](https://open.spotify.com/track/2nI4FrOf7cf7wynH89bman) | [Claudia Allmang](https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh) | [ego](https://open.spotify.com/album/0s4WSLRpRkUvJ5VX7unuiq) | 1:43 |
-| 2 | [Una Vida Entera](https://open.spotify.com/track/1jJpsn78IIHcLqUF4vxy6P) | [Nieto666](https://open.spotify.com/artist/33KBvXRNqHfcTPhBZC8Njp) | [Una Vida Entera](https://open.spotify.com/album/4VGaifk6vxAV48Bub3ri88) | 3:03 |
-| 3 | [PALABRA](https://open.spotify.com/track/4PZau8r720DVav4KPredQF) | [Karlisha](https://open.spotify.com/artist/4MJnVJ6UeJY0WcULSDdu18) | [PALABRA](https://open.spotify.com/album/3y9AQH9Au1BmapybFJY1tQ) | 3:39 |
+| 1 | [PALABRA](https://open.spotify.com/track/4PZau8r720DVav4KPredQF) | [Karlisha](https://open.spotify.com/artist/4MJnVJ6UeJY0WcULSDdu18) | [PALABRA](https://open.spotify.com/album/3y9AQH9Au1BmapybFJY1tQ) | 3:39 |
+| 2 | [ego](https://open.spotify.com/track/2nI4FrOf7cf7wynH89bman) | [Claudia Allmang](https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh) | [ego](https://open.spotify.com/album/0s4WSLRpRkUvJ5VX7unuiq) | 1:43 |
+| 3 | [Una Vida Entera](https://open.spotify.com/track/1jJpsn78IIHcLqUF4vxy6P) | [Nieto666](https://open.spotify.com/artist/33KBvXRNqHfcTPhBZC8Njp) | [Una Vida Entera](https://open.spotify.com/album/4VGaifk6vxAV48Bub3ri88) | 3:03 |
 | 4 | [Sigo Arriba](https://open.spotify.com/track/0L1KMXccLdTTnEI4GW04TA) | [Eximio](https://open.spotify.com/artist/2QccwnU2mUudZeObNBuXRS) | [Sigo Arriba](https://open.spotify.com/album/3KgCrHoglTubEqBmWXP7Qy) | 2:32 |
 | 5 | [Amapolas](https://open.spotify.com/track/55sSnq55OYPOFaStnLjqiU) | [Los Flamingos](https://open.spotify.com/artist/5juYUputFarzc3bykFVV9e) | [Amapolas](https://open.spotify.com/album/52r6dBjy7ZPsU1bRg7JgKB) | 3:16 |
 | 6 | [I Hate Dancing](https://open.spotify.com/track/2WDkiVkrnaSYJrOgEJeUgp) | [Marta Knight](https://open.spotify.com/artist/1bTVf9uk7d4iU9rcWfWj5S) | [Strange Times Forever](https://open.spotify.com/album/7zYyE3fwGkP5TNCkTmue48) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [cocora](https://open.spotify.com/track/0KyR3avrHgGY2PQT5IElKK) | [juniochai](https://open.spotify.com/artist/7y2dfMVexZgClCIeiHd22f) | [cocora](https://open.spotify.com/album/1gcf2VcJQnCD45Q7F2pZ45) | 1:48 |
 | 50 | [Fan](https://open.spotify.com/track/1g7ZtvkyiXKEki62aocBO8) | [Carla Luna](https://open.spotify.com/artist/71XnkGTlsPF1JSfqcWXqaQ) | [Fan](https://open.spotify.com/album/5y1xizSzQpwAo6Dio1UE3g) | 2:29 |
 
-Snapshot ID: `MTY1NDYzOTIwMCwwMDAwMDA0ZjAwMDAwMTgxNDAyZTg3ZjAwMDAwMDE4MTFhYWNhYjgw`
+Snapshot ID: `MTY1NDY5NTQwMiwwMDAwMDA1MDAwMDAwMTgxNDM4ODFjN2EwMDAwMDE4MTQzODdmMTVj`

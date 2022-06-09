@@ -2,7 +2,7 @@
 
 ### [’80s Hard Rock](https://open.spotify.com/playlist/37i9dQZF1DX68H8ZujdnN7)
 
-> Hair goals, spandex and epic guitar solos\. We got you\. Celebrating the life and legacy of Eddie Van Halen.
+> Hair goals, spandex and epic guitar solos\. We got you.
 
 105 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/4bxy2w5YWYTLJmkcQGjnaz)
 

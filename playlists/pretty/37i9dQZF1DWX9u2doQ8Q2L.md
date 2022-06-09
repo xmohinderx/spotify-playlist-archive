@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,906 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,952 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 11 | [Tangerine](https://open.spotify.com/track/5BM1h0qH0CVWMjw0RIQtbn) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Tangerine](https://open.spotify.com/album/7Jox1gthhLqTpzfswyMnk2) | 3:22 |
 | 12 | [damn](https://open.spotify.com/track/7dNxxkapvf5eRkw24PHSpy) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 4:19 |
 | 13 | [STEP IT](https://open.spotify.com/track/5yR62lM4XZ726M4ZbWgfeP) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [STEP IT](https://open.spotify.com/album/182oXWmVv3c7aHefOysRiP) | 3:40 |
-| 14 | [HOPE for US feat\. Isono Kun \(YONA YONA WEEKENDERS\), AAAMYYY \(Tempalay\), TENDRE, Sara Yoshida \(MONONKVL\) & Ryohu \(KANDYTOWN\)](https://open.spotify.com/track/7qxt4i715UZ1z3dEDAaICw) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Isono Kun](https://open.spotify.com/artist/6bJfSdWt75qj44OoRGKxEN), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [Sara Yoshida](https://open.spotify.com/artist/6UZXP34KBKSPTwFwBNyr3M), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U) | [HOPE for US feat\. Isono Kun \(YONA YONA WEEKENDERS\), AAAMYYY \(Tempalay\), TENDRE, Sara Yoshida \(MONONKVL\) & Ryohu \(KANDYTOWN\)](https://open.spotify.com/album/1C2lqx1fO7zaGzjUklnpJS) | 3:59 |
+| 14 | [HOPE for US feat\. 磯野くん \(YONA YONA WEEKENDERS\), AAAMYYY \(Tempalay\), TENDRE, 吉田沙良 \(モノンクル\) & Ryohu \(KANDYTOWN\)](https://open.spotify.com/track/20CMQ4mANR3yDCWezGfkqm) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [磯野くん](https://open.spotify.com/artist/48UwOs44kquyWN7FoUZCTG), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [吉田沙良](https://open.spotify.com/artist/1ViGD87a75ygr0WdYoildM), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U) | [HOPE for US feat\. 磯野くん \(YONA YONA WEEKENDERS\), AAAMYYY \(Tempalay\), TENDRE, 吉田沙良 \(モノンクル\) & Ryohu \(KANDYTOWN\)](https://open.spotify.com/album/1vKS8iF52g77joVAtmU8E5) | 3:59 |
 | 15 | [雨 \[feat\. \(sic\)boy\]](https://open.spotify.com/track/1kiDe0vgBTCTUy26X8bKDj) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [雨 \[feat\. \(sic\)boy\]](https://open.spotify.com/album/1P9KiA8V5mnVYRHmtOA8Fy) | 6:21 |
 | 16 | [Happy Sad](https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Happy Sad](https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ) | 2:50 |
 | 17 | [WOO! GO!](https://open.spotify.com/track/4BfXAxcuOyPRWcUHCasVit) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [WOO! GO!](https://open.spotify.com/album/6TeEBQZuGMjY3cu7e6JjUX) | 3:19 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 56 | [Your Next](https://open.spotify.com/track/7aj8CY9wmj9RFDjQKeWvJL) | [EMMA WAHLIN](https://open.spotify.com/artist/5vLM0jSwj4TMVhnWuocoaD) | [Your Next](https://open.spotify.com/album/3O5ElEKrcZgpCqPrNZXUl2) | 3:38 |
 | 57 | [Haze \(feat\. ZIN\)](https://open.spotify.com/track/0kAvxscFHuKuri23Y0mmXF) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Haze \(feat\. ZIN\)](https://open.spotify.com/album/7ECgPOTif7XpNIgKlK7kVf) | 4:05 |
 | 58 | [Cry Now feat\. Chiaki Sato](https://open.spotify.com/track/4c1wyYgYhN8ckz4eOccw7r) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Cry Now feat\. Chiaki Sato](https://open.spotify.com/album/0eaGXqRgtmSVu2Dxvj6Ob4) | 4:12 |
-| 59 | [Vacilando](https://open.spotify.com/track/5hrfHXeMWo5AOdJQZ9o0SO) | [古川麦](https://open.spotify.com/artist/4jZvacIN7fBsLsQJd6A6s7) | [Vacilando](https://open.spotify.com/album/5rs9U3cLeyrZoRXzHjqN7p) | 4:36 |
+| 59 | [Vacilando](https://open.spotify.com/track/5hrfHXeMWo5AOdJQZ9o0SO) | [Baku Furukawa](https://open.spotify.com/artist/2em1oRhLgRPKX9yBh9HjR9) | [Vacilando](https://open.spotify.com/album/5rs9U3cLeyrZoRXzHjqN7p) | 4:36 |
 | 60 | [TiDE](https://open.spotify.com/track/5HyOjtlcIBiCbKGYwudVqS) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [TiDE](https://open.spotify.com/album/3yRt3XQ3ZE3VidghduYIuI) | 4:46 |
 | 61 | [Draw Me \(feat\. VivaOla\)](https://open.spotify.com/track/7kuuBMGV8Y4BLmjF5LLAV1) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Draw Me \(feat\. VivaOla\)](https://open.spotify.com/album/1D5JPBryEXZFilbWtSbnS8) | 2:33 |
 | 62 | [Cooking](https://open.spotify.com/track/2FwuFgWAR33gH8P2TlYFT6) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [artless](https://open.spotify.com/album/5Hz2EK3klZBI9sjh1j65Jx) | 4:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 69 | [Pixie](https://open.spotify.com/track/0cY7dMIDQEvJpm9QLhwUJ5) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Pixie](https://open.spotify.com/album/05uzTmVeUHezTbQ1TKLsCB) | 5:12 |
 | 70 | [Mad Doctor](https://open.spotify.com/track/5zi0i85j65B7VeHofufPwt) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [MAD DOCTOR](https://open.spotify.com/album/5fOaAZm7tVTv5aimJ9FKbv) | 2:33 |
 
-Snapshot ID: `MTY1NDYxNDAwMCwwMDAwMDNjYzAwMDAwMTgxM2VhZTAyNWUwMDAwMDE3Y2VmMmFkYWFj`
+Snapshot ID: `MTY1NDY4OTMyOSwwMDAwMDNjZDAwMDAwMTgxNDMyYjcyYjgwMDAwMDE3Y2VmMmFkYWFj`

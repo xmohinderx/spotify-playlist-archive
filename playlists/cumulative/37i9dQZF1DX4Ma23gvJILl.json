@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 209680,
       "name": "A M\u00ed",
       "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
@@ -57,7 +57,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 301573,
       "name": "Amores Como el Nuestro",
       "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 219586,
       "name": "Cuando Nadie Ve",
       "url": "https://open.spotify.com/track/71iAechwVKGu26pahzFL0k"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 204563,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
@@ -316,6 +316,28 @@
     },
     {
       "album": {
+        "name": "En Peligro de Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/7FmHYPGkYb9Ojdfxg5eNRC"
+      },
+      "artists": [
+        {
+          "name": "Bembe Orquesta",
+          "url": "https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP"
+        },
+        {
+          "name": "Farik Grippa",
+          "url": "https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241667,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/2zPUGkFAw3gCMcEqWLLWpP"
+    },
+    {
+      "album": {
         "name": "House Of Pleasure",
         "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
       },
@@ -349,6 +371,24 @@
       "duration_ms": 171333,
       "name": "Hace Mucho Tiempo",
       "url": "https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI"
+    },
+    {
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "album": {
@@ -489,10 +529,32 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 180520,
       "name": "La T\u00f3xica",
       "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"
+    },
+    {
+      "album": {
+        "name": "Lejan\u00eda",
+        "url": "https://open.spotify.com/album/5Bnfb9TbhUc555wRfYN0FE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234216,
+      "name": "Lejan\u00eda",
+      "url": "https://open.spotify.com/track/1QcVACki0Jfgi22KqobAFX"
     },
     {
       "album": {
@@ -518,6 +580,24 @@
     },
     {
       "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+    },
+    {
+      "album": {
         "name": "M\u00e1s De La Una",
         "url": "https://open.spotify.com/album/0fz7mvsACRDrvT5PYTt4U9"
       },
@@ -533,10 +613,32 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 236731,
       "name": "M\u00e1s De La Una",
       "url": "https://open.spotify.com/track/69Y5IZuBvGyzySFt5x7kCq"
+    },
+    {
+      "album": {
+        "name": "Nena Maldici\u00f3n (feat. Lenny Tav\u00e1rez)",
+        "url": "https://open.spotify.com/album/1RMkgNWPXhMF91oLAe2P7d"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228874,
+      "name": "Nena Maldici\u00f3n (feat. Lenny Tav\u00e1rez)",
+      "url": "https://open.spotify.com/track/2aMVyJSuDFFL1sTjJnvk7X"
     },
     {
       "album": {
@@ -559,7 +661,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 309120,
       "name": "No Me Conoce - Remix",
       "url": "https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P"
@@ -617,7 +719,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 209453,
       "name": "Otra vez (feat. J Balvin)",
       "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
@@ -730,6 +832,28 @@
     },
     {
       "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222346,
+      "name": "QUE PRETENDES",
+      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
+    },
+    {
+      "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
       },
@@ -741,10 +865,28 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 150720,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
+    },
+    {
+      "album": {
+        "name": "Prometo",
+        "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253760,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
     },
     {
       "album": {
@@ -880,6 +1022,24 @@
     },
     {
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263899,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
+    },
+    {
+      "album": {
         "name": "Tan Enamorados",
         "url": "https://open.spotify.com/album/0GmPTq9AHYUmbelg8bVamu"
       },
@@ -913,10 +1073,28 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+    },
+    {
+      "album": {
+        "name": "Seguimos Por Lo Alto",
+        "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284160,
+      "name": "Te Har\u00e9 Feliz",
+      "url": "https://open.spotify.com/track/4Con9ddUgt05U6Ea5QY0tC"
     },
     {
       "album": {
@@ -931,7 +1109,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 228680,
       "name": "Te Mando Flores",
       "url": "https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl"
@@ -1049,6 +1227,42 @@
       "duration_ms": 188238,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/3zb856RMKFjdvWre0TKcmA"
+    },
+    {
+      "album": {
+        "name": "Usted No Me Olvida",
+        "url": "https://open.spotify.com/album/3hwujUBUE4JRL4E7SXoJPY"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193137,
+      "name": "Usted No Me Olvida",
+      "url": "https://open.spotify.com/track/6adK8xCmHfwko5N1FEDqoT"
+    },
+    {
+      "album": {
+        "name": "Ahora M\u00e1s Que Nunca",
+        "url": "https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271766,
+      "name": "Virgen",
+      "url": "https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC"
     },
     {
       "album": {

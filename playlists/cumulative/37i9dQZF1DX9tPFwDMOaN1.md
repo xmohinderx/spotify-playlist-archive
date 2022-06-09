@@ -4,7 +4,7 @@
 
 > Let's turn ON the movement! Cover: WJSN
 
-131 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
+133 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 | 2022-05-11 |  |
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-10 | 2022-05-28 |
 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 | 2022-02-16 | 2022-05-12 |
+| [BTBT](https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT](https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO) | 3:39 | 2022-06-08 |  |
 | [BUT YOU](https://open.spotify.com/track/7IqYkjcFnqKPmwg6lWxXYv) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm) | 3:32 | 2022-05-03 |  |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-12-13 |  |
 | [Callin'](https://open.spotify.com/track/0Zbl0vvoYlHO5GPuEE8nJq) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:48 | 2022-03-02 | 2022-03-22 |
@@ -34,12 +35,12 @@
 | [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-04-17 |  |
 | [Deja Vu](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:16 | 2021-12-13 | 2022-02-04 |
 | [Devil](https://open.spotify.com/track/14jjsKr5HwNhZ18MJR5hYn) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [Devil \- The 2nd Mini Album](https://open.spotify.com/album/6bG2rY8NzT7dIzUNADDNCR) | 3:33 | 2022-01-14 | 2022-02-12 |
-| [DICE](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:06 | 2022-04-12 |  |
+| [DICE](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:06 | 2022-04-12 | 2022-06-09 |
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-02-16 | 2022-04-09 |
 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-26 | 2022-03-16 |
 | [Do It Like This](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : FIND OUT](https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz) | 3:12 | 2022-01-10 | 2022-03-10 |
 | [Don't Stop](https://open.spotify.com/track/1BrZwASv0NW4L61k4IJU3k) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Don't Stop](https://open.spotify.com/album/3YxouNqtb28l4XYOehopZF) | 3:10 | 2022-02-03 | 2022-04-09 |
-| [Dreams Come True](https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 | 2021-12-24 |  |
+| [Dreams Come True](https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 | 2021-12-24 | 2022-06-09 |
 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2021-12-13 | 2022-01-11 |
 | [DUMB DUMB](https://open.spotify.com/track/6dG2zPUOWXk3eMC7Hb3wh3) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/5CIz2DHjAyFhPYNjWdCs1T) | 2:29 | 2021-12-13 | 2022-01-11 |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-13 |  |
@@ -51,7 +52,7 @@
 | [For You \(Holiday Remix\) \- Spotify Singles Holiday](https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm) | 3:31 | 2021-12-13 | 2021-12-30 |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-03-12 |  |
 | [GLASSY](https://open.spotify.com/track/6PFfx4sEBWPuFqFB0mgX1D) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [GLASSY](https://open.spotify.com/album/2WCMmZ8vXBnkVp97PzLeoA) | 3:09 | 2021-12-13 | 2022-01-06 |
-| [Glitch](https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Color](https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03) | 3:44 | 2022-04-08 |  |
+| [Glitch](https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Color](https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03) | 3:44 | 2022-04-08 | 2022-06-09 |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-03-28 |  |
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-09 |  |
 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 | 2022-03-28 |  |
@@ -74,6 +75,7 @@
 | [LOCO](https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-12-13 |  |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-05 |  |
 | [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 | 2022-04-18 |  |
+| [Love Shhh!](https://open.spotify.com/track/00vy9aiFjxMfnKniQAYzrC) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Op.22 Y\-Waltz : in Major](https://open.spotify.com/album/1EAzLUzatSBIs8tA047f5f) | 3:19 | 2022-06-08 |  |
 | [Love Theory](https://open.spotify.com/track/1dmi9lVthTKjuemmO8ucWm) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Love Theory \- SM STATION](https://open.spotify.com/album/2i27IzG4jFQjX7pS5L6TIu) | 3:19 | 2022-04-20 |  |
 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 | 2022-04-22 |  |
 | [MAKE U DANCE](https://open.spotify.com/track/1vozwNInCvxQaBrc5a66eo) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [MAKE U DANCE](https://open.spotify.com/album/1UoyICgBwsGpylrHLj5zep) | 2:37 | 2021-12-13 | 2021-12-24 |

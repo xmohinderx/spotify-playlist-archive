@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 255174,
       "name": "Abandoned",
       "url": "https://open.spotify.com/track/6Sbf0k2Mx7u7l3UxattTWj"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 143157,
       "name": "abundance",
       "url": "https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 450006,
       "name": "Agalma V (ft. Kali Malone)",
       "url": "https://open.spotify.com/track/6NwJpEnFkWdCYst3iBYCcn"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 441000,
       "name": "At the End, Together",
       "url": "https://open.spotify.com/track/11oUBFnSMCqqv2PWaEEm0m"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 360036,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/1hvmvvfhkDM01DZW3Ouzrh"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 435276,
       "name": "Bondage To Formula",
       "url": "https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 171115,
       "name": "Breath",
       "url": "https://open.spotify.com/track/7Iqz1iILdntXxJSQ7gV8hp"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 216249,
       "name": "Cerebral Features",
       "url": "https://open.spotify.com/track/357Fo8qt21NhCLcmwc7cpE"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 476689,
       "name": "CHIAROSCURO",
       "url": "https://open.spotify.com/track/7kdc3HHWBRY4aUxFdgFRJD"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 281176,
       "name": "Dark Awakening",
       "url": "https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 312073,
       "name": "Darkened Valley Lullaby",
       "url": "https://open.spotify.com/track/7GDbjLB0JxUt6f7nl2GBBO"
@@ -705,10 +705,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 356000,
       "name": "Diamond Nights",
       "url": "https://open.spotify.com/track/0uK78BIKDhjAN6p78vBycJ"
+    },
+    {
+      "album": {
+        "name": "Distant (Drone Mix)",
+        "url": "https://open.spotify.com/album/5w07cL98KrOheroP153LSq"
+      },
+      "artists": [
+        {
+          "name": "CALM TRANSMISSIONS",
+          "url": "https://open.spotify.com/artist/60LEwqfO4hiuirXepr8MXX"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263851,
+      "name": "Distant - Drone Mix",
+      "url": "https://open.spotify.com/track/0MAhzaMVquiCYKzmhydblv"
     },
     {
       "album": {
@@ -785,7 +803,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 286375,
       "name": "Drifting In The Third Person",
       "url": "https://open.spotify.com/track/2s51jbqjSZD5Z2QHbmNT5e"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 182883,
       "name": "Emanation",
       "url": "https://open.spotify.com/track/5s8sPfoY0ynQDgwrWv3Rk6"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 324758,
       "name": "Existential Thread",
       "url": "https://open.spotify.com/track/3YhsXDdsii3isPl5XP86ZP"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 295500,
       "name": "Fen",
       "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 408366,
       "name": "Hair Painted With Copper",
       "url": "https://open.spotify.com/track/704YanLK0sJpJvSVE28f5r"
@@ -1193,7 +1211,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 208272,
       "name": "In",
       "url": "https://open.spotify.com/track/1rkgNmQOZ1FWX23h2Kl9Bc"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 196634,
       "name": "In Waves",
       "url": "https://open.spotify.com/track/4M9tpdXFcV41nJgLiuEEM8"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 431713,
       "name": "Kneel For Mercy",
       "url": "https://open.spotify.com/track/2HbTSryGjJ2guNH4LygD9C"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 348136,
       "name": "Komm wieder mit",
       "url": "https://open.spotify.com/track/2XQgwYmy0ClAMdJjQKhHLN"
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/5l7qKKhqtIUsDGk9RxQzC3"
@@ -1461,7 +1479,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "Mod Aki Kasa",
       "url": "https://open.spotify.com/track/1NjkQKN7Fvi9hrYRCljVSs"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 237187,
       "name": "Moderato",
       "url": "https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 347939,
       "name": "Mountains And Sea",
       "url": "https://open.spotify.com/track/5Q3aZvtsIGlzKV3C2WeghU"
@@ -1573,7 +1591,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "My People Have Deep Roots",
       "url": "https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX"
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 171837,
       "name": "Night Electricity Theme",
       "url": "https://open.spotify.com/track/4CzRikULxlATeD0gVRB2Ya"
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 275746,
       "name": "Nocturnal Sunrise",
       "url": "https://open.spotify.com/track/2GsT0hxWndpSIepZI5Mye1"
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 263859,
       "name": "Reality Scan",
       "url": "https://open.spotify.com/track/1vHVp1GOVrlwoK0B7RqPFU"
@@ -1801,7 +1819,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 235555,
       "name": "Recuerdos del Futuro",
       "url": "https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il"
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 191414,
       "name": "Sniper's Nest",
       "url": "https://open.spotify.com/track/0YWaCC1gcax9fJecglrAQl"
@@ -1983,7 +2001,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 304285,
       "name": "Stora vreden i Storvreta",
       "url": "https://open.spotify.com/track/1UN8NVjNxGpLj5bYs0m73h"
@@ -2055,7 +2073,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 952000,
       "name": "Tensi\u00f3n Hacia Tres",
       "url": "https://open.spotify.com/track/0tzujIWyPv8t9LqQQ7PTy2"
@@ -2073,7 +2091,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 310000,
       "name": "The Canonization",
       "url": "https://open.spotify.com/track/0qnPb51JWtWmUdNt97ODnO"
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 240424,
       "name": "The Sacrifice",
       "url": "https://open.spotify.com/track/1G2eapqHAjlEdmv9yFAMaQ"
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 390000,
       "name": "The Weight Of History",
       "url": "https://open.spotify.com/track/7a9u3Yk9hKzxa3lqBBbcXf"
@@ -2145,7 +2163,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 252631,
       "name": "Themes of Disobedience",
       "url": "https://open.spotify.com/track/4ru6UlcL6v9MneFu9ByxFD"
@@ -2185,7 +2203,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 358000,
       "name": "Tired Lights",
       "url": "https://open.spotify.com/track/6JbnPLcVNZwDNTpgY97OnZ"
@@ -2203,7 +2221,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 1194215,
       "name": "Torn Page",
       "url": "https://open.spotify.com/track/5BEcsUdHuN9aQBqA46iPqP"
@@ -2261,7 +2279,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 128000,
       "name": "Under Piano",
       "url": "https://open.spotify.com/track/0EUd4eq5wyI2egflgiuGGb"
@@ -2333,7 +2351,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 349000,
       "name": "Watching It Unfold",
       "url": "https://open.spotify.com/track/7uWVu34XKqTFbQOmnRkver"

@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Polo G, Gucci Mane and more\. Cover: Vory
 
-830 songs - 1 day 14 hr 57 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+832 songs - 1 day 15 hr 3 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Deep Fried](https://open.spotify.com/track/7241Ph5AKZlpCzORdWoBoq) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [Deep Fried](https://open.spotify.com/album/2v1qGwbzVO8ZQk2nDANeXk) | 1:54 | 2021-12-24 | 2022-01-08 |
 | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z) | 2:02 | 2022-06-03 |  |
 | [Demon Time](https://open.spotify.com/track/7sFrPi2J3DCBXS2gTwwf8j) | [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Big Woods Season](https://open.spotify.com/album/601UMIwUTemCXxX6vzTzVa) | 2:51 | 2022-03-18 | 2022-03-26 |
+| [Denial](https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Denial](https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc) | 3:00 | 2022-06-08 |  |
 | [Did That](https://open.spotify.com/track/2aD2w8P50xO0DoFbTmaXVE) | [Karlae](https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO) | [Did That](https://open.spotify.com/album/6TSNMixKZ2OnJbTX2O4Bnb) | 1:55 | 2022-03-18 | 2022-03-26 |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-13 | 2022-05-20 |
 | [Die Young](https://open.spotify.com/track/4F7lBgkFp0BbO5ClrKrTXU) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Die Young](https://open.spotify.com/album/2v8xo2F7T94dvqFXnaI96O) | 2:14 | 2021-12-24 | 2022-01-08 |
@@ -346,6 +347,7 @@
 | [Holdn](https://open.spotify.com/track/1Vs8n7JcDQeQ95IpUah0us) | [Lil’ Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [LGND](https://open.spotify.com/album/6T1pA33tQktkHk3glNYAaq) | 3:30 | 2022-02-11 | 2022-02-19 |
 | [Hollywood Hills](https://open.spotify.com/track/1UpELy8EIVtIJnvg5rmd5x) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS) | [Hollywood Hills](https://open.spotify.com/album/4ewwU60N1DslkeRHV4hRBB) | 2:14 | 2022-02-18 | 2022-02-26 |
 | [HOME](https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HOME](https://open.spotify.com/album/3AQ0Ynvbg6lixOuNtuw5zo) | 2:54 | 2022-02-15 | 2022-03-05 |
+| [HOME \- Remix](https://open.spotify.com/track/3lcJOGpwiiLN7SjhV1UK9J) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [HOME \(Remix\)](https://open.spotify.com/album/3DQqcMjcI066eFySU4whoW) | 3:15 | 2022-06-08 |  |
 | [Home Alone](https://open.spotify.com/track/1AOFIqezViAzT4EahxhRAd) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Home Alone](https://open.spotify.com/album/2PkeFYM57aVrVXKqKy0BWa) | 2:53 | 2022-01-21 | 2022-02-05 |
 | [Hoochie Mama](https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:15 | 2022-03-25 | 2022-04-02 |
 | [Hoop Earrings](https://open.spotify.com/track/3fgxFMXzKlZWOKOek53ZdZ) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [Hoop Earrings](https://open.spotify.com/album/43KYrCZVk4uR7g1ttmqK5j) | 2:23 | 2022-02-11 | 2022-02-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Moore Kismet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,982,744 likes - 101 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,982,854 likes - 101 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 100 | [Music4TheMasses](https://open.spotify.com/track/40xhB0wBh7Kjyn2O1ZCxYM) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Music4TheMasses](https://open.spotify.com/album/0IetwS8HAxU9lu1Z5YHeNP) | 3:38 |
 | 101 | [UUUU](https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [UUUU](https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP) | 6:29 |
 
-Snapshot ID: `MTY1NDI4NTU0MCwwMDAwMDNlYTAwMDAwMTgxMmIxYTFlMDIwMDAwMDE4MTI1ZTBjZmYw`
+Snapshot ID: `MTY1NDY3OTg4MSwwMDAwMDNlZDAwMDAwMTgxNDI5YjQ3MTkwMDAwMDE4MTI1ZTBjZmYw`

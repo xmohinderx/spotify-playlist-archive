@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-110 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+111 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [J’en ai marre](https://open.spotify.com/track/6VQTDVNUUeb3pcP8QbvmMa) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [J’en ai marre](https://open.spotify.com/album/00wrmWKjrzKvUpi69rYhoD) | 2:51 | 2021-12-25 | 2022-02-23 |
 | [Khalass](https://open.spotify.com/track/5RJvzygEnbZOPfwKKEQvun) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalass](https://open.spotify.com/album/6LdbOE0J3GsPqskSZxc7I7) | 3:20 | 2021-12-25 |  |
 | [Khalini](https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/5vJBSloyi1CQjncMIykoHs) | 3:02 | 2022-02-09 |  |
+| [Khalliha](https://open.spotify.com/track/6F6Nwb6sShRSRxJCr3XDsI) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp), [Omar Belmir](https://open.spotify.com/artist/17vRJZ5WQBC1CvEW7XVGlL) | [Khalliha](https://open.spotify.com/album/2nJ1cTZcJxzAbjZXcnkHNJ) | 2:56 | 2022-06-08 |  |
 | [Kida](https://open.spotify.com/track/5kWDoxO6nZWPTaTEEXPcQW) | [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M) | [Kida](https://open.spotify.com/album/3mEltufWAiHRCDI2WvplCK) | 3:15 | 2022-03-03 | 2022-04-12 |
 | [Kouni Liya](https://open.spotify.com/track/7w599w2PChoiHg9SNXloXz) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Kouni Liya](https://open.spotify.com/album/5dtPSOpA9sTUGxOvhXneLb) | 3:42 | 2021-12-25 |  |
 | [L3achrane](https://open.spotify.com/track/6KIFae9YNanPnknAvvvBeC) | [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [L3achrane](https://open.spotify.com/album/0EiCPSG40eNfA4DHZDN3nl) | 3:32 | 2022-01-07 | 2022-03-03 |

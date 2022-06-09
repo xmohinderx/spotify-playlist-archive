@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 
 > 
 
-[John Delf](https://open.spotify.com/user/12157842341) - 9,442 likes - 62 songs - 4 hr 7 min
+[John Delf](https://open.spotify.com/user/12157842341) - 9,525 likes - 62 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

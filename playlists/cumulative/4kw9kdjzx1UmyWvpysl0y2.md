@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-179 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+180 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,9 +74,10 @@
 | [Forget About Me](https://open.spotify.com/track/5dvLCzrpzVHYdOUdIL9EHW) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Forget About Me](https://open.spotify.com/album/4H71ai7RsurejlGLvjdzoz) | 2:35 | 2022-03-29 |  |
 | [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 | 2022-04-07 |  |
 | [Garden Of The Gods](https://open.spotify.com/track/4AZEvIDQpzyib7BX4Cd91U) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Discognition](https://open.spotify.com/artist/1VTyOD5RJcYUGn9uPFV5my), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Garden Of The Gods](https://open.spotify.com/album/7KYoqdpnKj02uvmm9iMkQq) | 4:21 | 2022-05-06 |  |
+| [Gaze](https://open.spotify.com/track/0wDxpyi7AzoZaY6dt0FnXg) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Gaze](https://open.spotify.com/album/0RMBhqzBhd1tQBb6NkTwZI) | 4:34 | 2022-06-08 |  |
 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-04-14 |  |
 | [Give Me A Second](https://open.spotify.com/track/2UkcQ2khDIdFRIr9VG28l2) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Give Me A Second](https://open.spotify.com/album/075F3FRDl5aFv3PJBq8id0) | 4:22 | 2022-01-21 | 2022-03-30 |
-| [GODSP33D](https://open.spotify.com/track/2vwUVTnCuiAuIV0VyeGubZ) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/1OKa68xmBjB5L5kLFtYTPP) | 3:51 | 2022-03-28 |  |
+| [GODSP33D](https://open.spotify.com/track/2vwUVTnCuiAuIV0VyeGubZ) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/1OKa68xmBjB5L5kLFtYTPP) | 3:51 | 2022-03-28 | 2022-06-09 |
 | [Good Feeling](https://open.spotify.com/track/5zr19Omvn2GkHtSTe55vga) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Good Feeling](https://open.spotify.com/album/08Bep0F33a63DEj9QGTNOK) | 3:22 | 2021-12-06 | 2022-03-11 |
 | [Grit](https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Grit](https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU) | 4:43 | 2022-06-06 |  |
 | [Hate U/Miss U](https://open.spotify.com/track/0RX7vFXvhylgh1xoPAjmPL) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Lani Daye](https://open.spotify.com/artist/1fYnA1IkOOJ3mtWl02xKk3) | [Hate U/Miss U](https://open.spotify.com/album/1cLVwfsFCR0tqndu3YaNEO) | 2:25 | 2022-03-08 | 2022-05-20 |

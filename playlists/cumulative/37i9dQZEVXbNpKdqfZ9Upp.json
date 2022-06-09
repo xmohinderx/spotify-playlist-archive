@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 183547,
       "name": "ARRANCARMELO",
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 229173,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
@@ -805,6 +805,24 @@
       "duration_ms": 250533,
       "name": "Callaita",
       "url": "https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba"
+    },
+    {
+      "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219668,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
     },
     {
       "album": {
@@ -1180,6 +1198,28 @@
     },
     {
       "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185857,
+      "name": "Cooped Up (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d"
+    },
+    {
+      "album": {
         "name": "Queen Elizabitch",
         "url": "https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU"
       },
@@ -1450,6 +1490,32 @@
     },
     {
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239026,
+      "name": "Die Hard",
+      "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
+    },
+    {
+      "album": {
         "name": "Dile a Tu Orgullo (En Vivo)",
         "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
       },
@@ -1649,7 +1715,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 201816,
       "name": "El Apag\u00f3n",
       "url": "https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz"
@@ -1768,6 +1834,24 @@
     },
     {
       "album": {
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
+    },
+    {
+      "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
       },
@@ -1857,7 +1941,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 176000,
       "name": "Ens\u00e9\u00f1ame a Bailar",
       "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
@@ -2339,7 +2423,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 173389,
       "name": "Gogo Dance",
       "url": "https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv"
@@ -2418,6 +2502,24 @@
     },
     {
       "album": {
+        "name": "Guanguan",
+        "url": "https://open.spotify.com/album/0vPaYmSaXflyKSRqcOEwKc"
+      },
+      "artists": [
+        {
+          "name": "Crazy Design",
+          "url": "https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169483,
+      "name": "Guanguan",
+      "url": "https://open.spotify.com/track/4qGfvoFPX3DmooDxvM9kTs"
+    },
+    {
+      "album": {
         "name": "Hala Madrid ...y nada m\u00e1s",
         "url": "https://open.spotify.com/album/3P5MjGvpfwLCz0VBciW86q"
       },
@@ -2433,7 +2535,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 177000,
       "name": "Hala Madrid ...y nada m\u00e1s",
       "url": "https://open.spotify.com/track/1lL7OcPk6lINpeupzqTjSC"
@@ -2563,10 +2665,28 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 199250,
       "name": "Huapango Amor Ranchero",
       "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
+    },
+    {
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
       "album": {
@@ -2789,6 +2909,28 @@
       "duration_ms": 158093,
       "name": "JGL",
       "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
+    },
+    {
+      "album": {
+        "name": "Jiggle Jiggle",
+        "url": "https://open.spotify.com/album/3WcZOQwZQ5gLyNrA0aXUeT"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        },
+        {
+          "name": "Louis Theroux",
+          "url": "https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97208,
+      "name": "Jiggle Jiggle",
+      "url": "https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2"
     },
     {
       "album": {
@@ -3111,7 +3253,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 252866,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm"
@@ -3937,7 +4079,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 216752,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
@@ -4171,7 +4313,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
@@ -4619,7 +4761,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
@@ -5099,7 +5241,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 115568,
       "name": "Sos Todo Lo Que Est\u00e1 Bien",
       "url": "https://open.spotify.com/track/4pL01X6Og8L9kJRTB65Hsz"
@@ -5477,7 +5619,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 166859,
       "name": "Tek It - Sped Up",
       "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
@@ -5619,7 +5761,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 181960,
       "name": "The Other Woman",
       "url": "https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4"
@@ -5757,7 +5899,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 120157,
       "name": "this is what falling in love feels like - Leon Leiden Remix",
       "url": "https://open.spotify.com/track/60DkG4mCA52rUUXz0F0wNi"

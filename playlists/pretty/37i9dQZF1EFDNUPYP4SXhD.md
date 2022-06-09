@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 675 likes - 146 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 678 likes - 146 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,10 +133,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 123 | [Intro Envidia](https://open.spotify.com/track/3TKaDPOuVr1W5TmlXUi14q) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 1:17 |
 | 124 | [Presión \(feat\. Cosculluela\)](https://open.spotify.com/track/1nh1GgmRGl0WEYtWCVlVQi) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:05 |
 | 125 | [Tu Cuerpo Pide Sexo \(feat\. Zion\)](https://open.spotify.com/track/0h1TS4mwl4gXkMgSxYBawg) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Zion](https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:38 |
-| 126 | [Amor Amor](https://open.spotify.com/track/2lOldevYazzMn8mXaOJZxh) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:17 |
-| 127 | [Nadie como Tú](https://open.spotify.com/track/6UzsJEw5naBV2mxA10WVa9) | [Nigga](https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd), [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Seduction](https://open.spotify.com/album/2dV4cA5dVLwcV6rl33amof) | 3:59 |
-| 128 | [Si Te Vas \(feat\. Gocho\)](https://open.spotify.com/track/6OgwJotSzLwJ0CzwCJlJH5) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:55 |
-| 129 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 |
+| 126 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 |
+| 127 | [Amor Amor](https://open.spotify.com/track/2lOldevYazzMn8mXaOJZxh) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:17 |
+| 128 | [Nadie como Tú](https://open.spotify.com/track/6UzsJEw5naBV2mxA10WVa9) | [Nigga](https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd), [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Seduction](https://open.spotify.com/album/2dV4cA5dVLwcV6rl33amof) | 3:59 |
+| 129 | [Si Te Vas \(feat\. Gocho\)](https://open.spotify.com/track/6OgwJotSzLwJ0CzwCJlJH5) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:55 |
 | 130 | [DALE BANDA](https://open.spotify.com/track/3uvI3MwIB42qk0QEGtQpgT) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:55 |
 | 131 | [EL NIÑO](https://open.spotify.com/track/6inSd4dgpqoeXdPzP3B6ac) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:10 |
 | 132 | [Noche De Carnaval](https://open.spotify.com/track/4R1ZTCkXn3kW823NJdvaMA) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 3:28 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 145 | [Dinero Y Fama \(feat\. Arcangel\)](https://open.spotify.com/track/2qSO4nIpR5Fdo8lL9K7kH2) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 3:53 |
 | 146 | [Ella Pide De Eso](https://open.spotify.com/track/4OUcankxNe66OYymBu600u) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 3:22 |
 
-Snapshot ID: `Mjc1Nzc4MDIsMDAwMDAwMDAxZGUxMTRlZWU4OGIxNDY1Njc0MWYxNjdjNTM5MWU2Yw==`
+Snapshot ID: `Mjc1Nzg5NDIsMDAwMDAwMDA5ZGQ2NDY4MTI2NzAwNzliYTJiYmFhMTM0NjM3MzM1Zg==`

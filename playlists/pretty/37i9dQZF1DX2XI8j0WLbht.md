@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,181 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,197 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 15 | [El Amanecer](https://open.spotify.com/track/5DzsZOW1SSZ7PWkh0e2TQn) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Son De Madera](https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn) | 9:25 |
 | 16 | [Tristeza \- Spotify Singles](https://open.spotify.com/track/4uZ5XgrjuomsVXOABMRaVW) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:45 |
 | 17 | [La LLorona \(A Guitarra y Voz Desde Casa\)](https://open.spotify.com/track/2O3GGAQw18PISYdsx4aaBk) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS) | [La LLorona \(A Guitarra y Voz Desde Casa\)](https://open.spotify.com/album/5CF4J7iog69SXr4H5vbESM) | 3:13 |
-| 18 | [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Danger](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Hector Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 |
+| 18 | [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Danger](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 |
 | 19 | [Con el Sol de la Mañana](https://open.spotify.com/track/0X8FKQkmmxoZFwgUajjn0s) | [Son de Aquí](https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ) | [De Aquí Son](https://open.spotify.com/album/260g05EqAq0W9HZZTDDD3K) | 4:22 |
 | 20 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
 | 21 | [El Diablo y la Bruja](https://open.spotify.com/track/2UQhZFHl6kRUd9E99wC4mR) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [El Diablo y la Bruja](https://open.spotify.com/album/1gD56P1cbXWLpCrFt0j4Ll) | 3:53 |

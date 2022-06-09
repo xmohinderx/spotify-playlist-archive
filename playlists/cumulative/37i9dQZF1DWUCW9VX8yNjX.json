@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 193213,
       "name": "A Qu\u00e9 Sabe El Olvido",
       "url": "https://open.spotify.com/track/4I4smJ6xLCaLQmNYUTQg9R"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 205320,
       "name": "Arrullo De Estrellas",
       "url": "https://open.spotify.com/track/4yalDD5kuqKZKI3z1rfWqD"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 180529,
       "name": "Cuando Me Digas",
       "url": "https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 263426,
       "name": "C\u00f3ncavo Y Convexo",
       "url": "https://open.spotify.com/track/0HYdtyMwBcGzw0tfwrXlg0"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 138453,
       "name": "De Un Rancho A Otro",
       "url": "https://open.spotify.com/track/3pPrcU3oijpF0hDBVOldM6"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 224120,
       "name": "Decepciones",
       "url": "https://open.spotify.com/track/6Ecm8kb3fP58vsFs252AUR"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 290013,
       "name": "En el Jard\u00edn",
       "url": "https://open.spotify.com/track/3J0rEntEhkv5aE9vbr3VmF"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 247080,
       "name": "En la C\u00e1rcel de Tu Adi\u00f3s",
       "url": "https://open.spotify.com/track/1UuRO7NvUcB2bGYsukgebQ"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 189706,
       "name": "Estos Celos - En Vivo [Un Azteca en el Azteca]",
       "url": "https://open.spotify.com/track/0w2gzREUayU0MUNSMFrqnf"
@@ -941,7 +941,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 210306,
       "name": "Flores Negras",
       "url": "https://open.spotify.com/track/5w4lrTtCsUDxYGmLkrXtDo"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 203720,
       "name": "Guadalajara - (En Vivo)",
       "url": "https://open.spotify.com/track/5mQy3HRlkUyJc1VQ7tkekV"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 291106,
       "name": "Hoy Tengo Ganas De Ti",
       "url": "https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9"
@@ -1053,7 +1053,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 161982,
       "name": "Juro Que Nunca Volver\u00e9",
       "url": "https://open.spotify.com/track/1rfeGMVF5HvcsTdXVZGHwo"
@@ -1237,6 +1237,24 @@
       "duration_ms": 197280,
       "name": "Loco",
       "url": "https://open.spotify.com/track/7eEvb7cYpg2CAVfpS0bPX3"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Rom\u00e1ntico Que Nunca",
+        "url": "https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221693,
+      "name": "Los Verdaderos Hombres",
+      "url": "https://open.spotify.com/track/3ETW6vJ6JeSCzEZbdFrh42"
     },
     {
       "album": {
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 222226,
       "name": "M\u00e1s No Puedo",
       "url": "https://open.spotify.com/track/68teZcAANkNhea13y7GqDP"
@@ -1633,7 +1651,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 178626,
       "name": "No Me Platiques M\u00e1s",
       "url": "https://open.spotify.com/track/7IOufzEeB4dQ65pWrueGPu"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 143826,
       "name": "Nuestro Gran Secreto",
       "url": "https://open.spotify.com/track/6UnKIvdbaPzCpHnceW372Y"
@@ -1741,7 +1759,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 155960,
       "name": "Nunca, Nunca, Nunca",
       "url": "https://open.spotify.com/track/5UPxgYKCDnGCiG8Q159unO"
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 236786,
       "name": "Para Sacarte De Mi Vida - Versi\u00f3n Norte\u00f1a",
       "url": "https://open.spotify.com/track/4itGUqG0j7mOHfAzTZSkAO"
@@ -1821,7 +1839,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Para Siempre - En Vivo",
       "url": "https://open.spotify.com/track/271KWDMsmn3f0JoFB1ol6w"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 181346,
       "name": "Pude - Live",
       "url": "https://open.spotify.com/track/3Yp7Rqe2sSNAjlWzRNNSMi"
@@ -2073,7 +2091,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 296400,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/7MCyrDXMR63UQHrhbF6Mj7"
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 261000,
       "name": "Qu\u00e9 L\u00e1stima",
       "url": "https://open.spotify.com/track/0NvO81WDJmJ1aorQ4Of2i9"
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 245133,
       "name": "Qu\u00e9 Voy a Hacer Con Mi Amor",
       "url": "https://open.spotify.com/track/2H2Tg24kqd1eA3F7BSQFSi"
@@ -2185,7 +2203,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 240240,
       "name": "Se Me Va La Voz",
       "url": "https://open.spotify.com/track/4QubLlsaYXoQH3CxGxuTry"
@@ -2203,7 +2221,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 185653,
       "name": "Se Vende Un Caballo (Remasterizado)",
       "url": "https://open.spotify.com/track/4cgVJry6RX8rkxjR56Rkw2"
@@ -2257,7 +2275,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 193493,
       "name": "Sombras - Sombras Nada M\u00e1s",
       "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
@@ -2279,7 +2297,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 228560,
       "name": "S\u00e9 Que Te Duele",
       "url": "https://open.spotify.com/track/2R6r40dVVmkDvCYgan9dGO"
@@ -2351,7 +2369,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 225786,
       "name": "Te Amar\u00e9 - En Vivo Desde El Teatro Real",
       "url": "https://open.spotify.com/track/1xoMRgnQY63sYQZNfImUEZ"
@@ -2387,7 +2405,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 252653,
       "name": "Te Voy a Perder",
       "url": "https://open.spotify.com/track/5QqRjl7cup4VuDfPb4Hr0n"
@@ -2539,7 +2557,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 204056,
       "name": "Ya No Insistas Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j"
@@ -2557,7 +2575,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 266000,
       "name": "Yo Nac\u00ed para Amarte",
       "url": "https://open.spotify.com/track/1vXvkOzHi6NtcKUBAVaeNv"

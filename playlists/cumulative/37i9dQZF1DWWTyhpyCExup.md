@@ -4,7 +4,7 @@
 
 > Blues, Bluegrass, Americana, Folk, & Soul; explore today's Black artists that are driving the evolution of roots music\. Cover: Jon Batiste
 
-84 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/2zeMD6M2G1mrTH8hnWvyw7)
+85 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/2zeMD6M2G1mrTH8hnWvyw7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Under the Devil's Knee \(feat\. Leyla McCalla, Allison Russell & Sunny War\)](https://open.spotify.com/track/62WtKWDn027EHTVVQuOgHg) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Under the Devil's Knee \(feat\. Leyla McCalla, Allison Russell & Sunny War\)](https://open.spotify.com/album/6OWY4xTHqvmjJbTiHJ4wKa) | 5:36 | 2021-10-22 |  |
 | [Until You](https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You](https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem) | 3:18 | 2021-10-22 |  |
 | [Vini Wè](https://open.spotify.com/track/3lgAxusxR6Splm5S4OlGxb) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [Breaking The Thermometer](https://open.spotify.com/album/1tJzrnSLFYlqpVR1LjvfXz) | 4:34 | 2022-06-03 |  |
+| [Wait Up](https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY) | [Neffy](https://open.spotify.com/artist/75Qz8WXumn9ghkXDwpj34N) | [Wait Up](https://open.spotify.com/album/1vodStDlRmay0I5Wbfdjng) | 3:11 | 2022-06-08 |  |
 | [We Get By](https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Get By](https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G) | 3:35 | 2021-10-22 |  |
 | [We the People \(Live\)](https://open.spotify.com/track/3UtYG6SYIwbCaGMY8c3squ) | [Kyshona Armstrong](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Live from the Sanctuary](https://open.spotify.com/album/7F1eTwptcxpQUCusbGxUlw) | 3:41 | 2021-10-22 |  |
 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 | 2021-10-22 |  |

@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 247826,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 179333,
       "name": "Big City",
       "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 165386,
       "name": "Body Like A Back Road",
       "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 219160,
       "name": "Burnin' It Down",
       "url": "https://open.spotify.com/track/5HJqpDspKDKwQpLjvkcIsD"
@@ -372,6 +372,24 @@
     },
     {
       "album": {
+        "name": "20 #1's: Classic Country",
+        "url": "https://open.spotify.com/album/2kCdzYHccdKQbPUA6Xkwxp"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Coal Miner's Daughter",
+      "url": "https://open.spotify.com/track/1em1d8w28YNTYz5U3NNFc1"
+    },
+    {
+      "album": {
         "name": "C.W. McCall's Greatest Hits",
         "url": "https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY"
       },
@@ -383,7 +401,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 230600,
       "name": "Convoy",
       "url": "https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh"
@@ -401,10 +419,28 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 155973,
       "name": "Country Girl",
       "url": "https://open.spotify.com/track/7w3YZLWL8l11US6FMMLOGq"
+    },
+    {
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287266,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
     },
     {
       "album": {
@@ -473,7 +509,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 227426,
       "name": "Die A Happy Man",
       "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
@@ -491,7 +527,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 285280,
       "name": "Don't Blink",
       "url": "https://open.spotify.com/track/6reuJxDtjebwc9FB6rNpp0"
@@ -527,7 +563,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 177106,
       "name": "Don't Let Me Cross Over",
       "url": "https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI"
@@ -545,7 +581,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 223533,
       "name": "Don't Let Our Love Start Slippin' Away",
       "url": "https://open.spotify.com/track/70TsRbycWfabtevnripyRu"
@@ -617,7 +653,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 174666,
       "name": "Fightin Side Of Me",
       "url": "https://open.spotify.com/track/0CQuh4fFCMG2OMKkixs7iu"
@@ -635,7 +671,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 162653,
       "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
       "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
@@ -653,7 +689,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 227786,
       "name": "For the Good Times",
       "url": "https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU"
@@ -761,7 +797,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 121906,
       "name": "Hello Walls",
       "url": "https://open.spotify.com/track/30umTfxMvL3QBUxgQPaYdp"
@@ -797,7 +833,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 179491,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
@@ -833,7 +869,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 205920,
       "name": "How Do You Like Me Now?!",
       "url": "https://open.spotify.com/track/7LimFGKop84KMDutqYaNIF"
@@ -927,7 +963,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 205706,
       "name": "I Like It, I Love It",
       "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
@@ -1035,7 +1071,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 133400,
       "name": "Is Anybody Goin' to San Antone",
       "url": "https://open.spotify.com/track/2hbrah0o7ppR1HeQkDvLhj"
@@ -1057,7 +1093,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 249293,
       "name": "Islands In the Stream",
       "url": "https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN"
@@ -1191,7 +1227,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 234640,
       "name": "Just Got Started Lovin' You",
       "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
@@ -1209,7 +1245,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 215173,
       "name": "Just To See You Smile",
       "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
@@ -1227,7 +1263,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 168000,
       "name": "Killin' Time",
       "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
@@ -1477,7 +1513,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 161786,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/5Rl7ck3xLYBNDef6QgAIA4"
@@ -1621,7 +1657,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 216693,
       "name": "Pickup Man",
       "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
@@ -1657,7 +1693,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 175866,
       "name": "Rose Garden",
       "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
@@ -1693,7 +1729,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 209866,
       "name": "Should've Been A Cowboy",
       "url": "https://open.spotify.com/track/4EDBgrYqYQ6b50yhJWKsHp"
@@ -1711,7 +1747,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 158666,
       "name": "Skip a Rope",
       "url": "https://open.spotify.com/track/0wjsGRJaNyhtbrgJRlKWuc"
@@ -1765,7 +1801,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 243706,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/6DEaND0SHv3sC11xobZLiy"
@@ -1783,7 +1819,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 299933,
       "name": "Teddy Bear",
       "url": "https://open.spotify.com/track/7wGVwtR6rmGxoU0j261yKj"
@@ -1855,7 +1891,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 199586,
       "name": "The Good Stuff",
       "url": "https://open.spotify.com/track/1EKiQ1InQXuodp4M1idrng"
@@ -1949,7 +1985,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 220906,
       "name": "This Is How We Roll",
       "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
@@ -2003,7 +2039,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 243160,
       "name": "This One's for the Girls",
       "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
@@ -2039,7 +2075,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 228840,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
@@ -2129,7 +2165,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 192800,
       "name": "Why Don't We Just Dance",
       "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
@@ -2165,7 +2201,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 167840,
       "name": "XXX's And OOO's (An American Girl)",
       "url": "https://open.spotify.com/track/7b05yUcjnxPDUhWNL4nE3K"
@@ -2219,7 +2255,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 190000,
       "name": "You've Never Been This Far Before - Re-Recorded In Stereo",
       "url": "https://open.spotify.com/track/2aqHQzbPcrMl6m37ndVHOQ"

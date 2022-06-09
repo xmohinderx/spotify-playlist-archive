@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: NIKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,767 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,771 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

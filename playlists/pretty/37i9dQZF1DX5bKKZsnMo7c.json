@@ -1,12 +1,12 @@
 {
   "description": "All eyes on you. Cover: Bo Burnham",
-  "num_followers": 89154,
+  "num_followers": 90214,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDU2MjQ0MywwMDAwMDA1MDAwMDAwMTgxM2I5YjUyNWYwMDAwMDE4MTI2MDVlZTdj",
+  "snapshot_id": "MTY1NDcyMDA4NiwwMDAwMDA1MTAwMDAwMTgxNDUwMGMzNzIwMDAwMDE4MTI2MDVlZTdj",
   "tracks": [
     {
       "added_at": "2022-06-07 00:40:43",
@@ -647,6 +647,26 @@
       "duration_ms": 178318,
       "name": "Butch 4 Butch",
       "url": "https://open.spotify.com/track/59eUvoOBAOGHJsXnaNuVZK"
+    },
+    {
+      "added_at": "2022-06-08 20:28:06",
+      "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/1MZuMWFfaOJ2s2hvmreyIn"
+      },
+      "artists": [
+        {
+          "name": "The Gregory Brothers",
+          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
+        },
+        {
+          "name": "Markiplier",
+          "url": "https://open.spotify.com/artist/65BxFegOKWTiwG3DGCckef"
+        }
+      ],
+      "duration_ms": 198772,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4p6xj4kIpEfmgpYe3C90MW"
     },
     {
       "added_at": "2022-06-07 00:40:43",
@@ -1663,42 +1683,6 @@
       "duration_ms": 239307,
       "name": "I'm in Love With an E-Girl",
       "url": "https://open.spotify.com/track/44wBlg3Y1KSAEmaze5BXe7"
-    },
-    {
-      "added_at": "2022-06-07 00:40:43",
-      "album": {
-        "name": "Nobody Like U (From \"Turning Red\")",
-        "url": "https://open.spotify.com/album/7uk4poI15EMWdMrMLnCIL2"
-      },
-      "artists": [
-        {
-          "name": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
-          "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
-        },
-        {
-          "name": "Jordan Fisher",
-          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
-        },
-        {
-          "name": "Finneas O'Connell",
-          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
-        },
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        },
-        {
-          "name": "Topher Ngo",
-          "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
-        },
-        {
-          "name": "Grayson Villanueva",
-          "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
-        }
-      ],
-      "duration_ms": 160958,
-      "name": "Nobody Like U - From \"Turning Red\"",
-      "url": "https://open.spotify.com/track/6WdfqDzpz3XkvMSlPVc0U8"
     }
   ],
   "unique_name": "Limelight",

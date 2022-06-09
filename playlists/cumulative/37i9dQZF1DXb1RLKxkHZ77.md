@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Fabio Asher
 
-49 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
+50 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Janji Manis](https://open.spotify.com/track/31ECplyzYRmbQihescMh6N) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Jalan Abbey](https://open.spotify.com/album/3eMXmUpVMwBaVm6hEmr6Ns) | 3:16 | 2022-05-25 |  |
 | [Kan](https://open.spotify.com/track/4VzJN0sd8jrJ4P2N6S17Dx) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Kan](https://open.spotify.com/album/5j2TvYkvy5BA6KGXJuQajF) | 3:17 | 2022-05-25 |  |
 | [Kaulah Syurga](https://open.spotify.com/track/5Mg6WjcJyOCoz03mHBXhqd) | [Khai Bahar](https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq), [Lia Aziz](https://open.spotify.com/artist/4Dxs6WepdnXGJWAC4vgmPp) | [Kaulah Syurga](https://open.spotify.com/album/674KAJHIrjzZx0ZpUPJyxp) | 3:49 | 2022-05-25 |  |
+| [Khilaf Asmara](https://open.spotify.com/track/5ubqF9AMFQ0iU7dUnKi5Hs) | [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X) | [Khilaf Asmara](https://open.spotify.com/album/7x3XbkqzFCKljhqwyyAX11) | 3:54 | 2022-06-08 |  |
 | [Kisah Sempurna](https://open.spotify.com/track/6gB7kLGZNkf5tkvWkzSGKR) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Kisah Sempurna](https://open.spotify.com/album/39fz0raJs02USfEzd71c8b) | 4:36 | 2022-05-25 |  |
 | [Kukira Kau Rumah](https://open.spotify.com/track/1xdp8tXLTGbPeUSEODP9N7) | [Amigdala](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2) | [Kukira Kau Rumah](https://open.spotify.com/album/23eyS24eT0cGfKVt0UTFtT) | 3:26 | 2022-05-25 |  |
 | [Layu Di Hujung Mekar](https://open.spotify.com/track/3GxKGD4HE7YSPkVKqy445n) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Layu Di Hujung Mekar](https://open.spotify.com/album/0Kq0OS9rB8nhcICy9pnAxG) | 4:27 | 2022-05-25 |  |

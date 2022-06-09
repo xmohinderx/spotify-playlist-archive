@@ -12594,6 +12594,28 @@
     },
     {
       "album": {
+        "name": "Stockholmsvy",
+        "url": "https://open.spotify.com/album/4NUrMxS5Jwc0sa84UeOeZf"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        },
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161396,
+      "name": "Stockholmsvy",
+      "url": "https://open.spotify.com/track/3vWJ3fZKghO8kHntrAa8oB"
+    },
+    {
+      "album": {
         "name": "Stoned at the Nail Salon",
         "url": "https://open.spotify.com/album/3AW9TKUw5fnzn0MnddEnHI"
       },

@@ -468,6 +468,24 @@
     },
     {
       "album": {
+        "name": "El Sereno",
+        "url": "https://open.spotify.com/album/3oA4dxVIFwgL6sjPmRZtHz"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163328,
+      "name": "El Sereno",
+      "url": "https://open.spotify.com/track/5QPWf9dawZ1Y9RbQHIUSlA"
+    },
+    {
+      "album": {
         "name": "En El Radio Un Cochinero",
         "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
@@ -843,7 +861,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 178106,
       "name": "Relojito Adiamantado",
       "url": "https://open.spotify.com/track/1r9My2hXZ2Bc1OiN7YPii6"

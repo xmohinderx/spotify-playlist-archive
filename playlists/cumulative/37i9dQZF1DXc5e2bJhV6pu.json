@@ -1771,7 +1771,7 @@
       ],
       "date_added": "2020-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
@@ -3179,7 +3179,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 197720,
       "name": "Business (with Ella Eyre)",
       "url": "https://open.spotify.com/track/7f3oSqQXBCUiWtR0m7ieRw"
@@ -3523,7 +3523,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 217095,
       "name": "Can\u2019t Help Myself",
       "url": "https://open.spotify.com/track/6zvvWWxsMIhEYLMTRcWHfc"
@@ -6495,7 +6495,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 236184,
       "name": "Eyes Don't Lie",
       "url": "https://open.spotify.com/track/5do5DDt3vAcPhKoNWKgsdm"
@@ -7461,7 +7461,7 @@
       ],
       "date_added": "2020-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 198635,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
@@ -8177,7 +8177,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 178147,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM"
@@ -9623,7 +9623,7 @@
       ],
       "date_added": "2019-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
@@ -13109,7 +13109,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 209131,
       "name": "Lie",
       "url": "https://open.spotify.com/track/04NMWz4ctkuILV6mUR2iWp"
@@ -14997,7 +14997,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 223280,
       "name": "Midnight Sky",
       "url": "https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX"
@@ -16099,7 +16099,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 220892,
       "name": "Nightfalls",
       "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
@@ -16117,7 +16117,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 183021,
       "name": "No",
       "url": "https://open.spotify.com/track/7reG3QYhefsJNpcVJq4BZr"
@@ -17543,7 +17543,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 236906,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
@@ -18462,6 +18462,28 @@
     },
     {
       "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177156,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA"
+    },
+    {
+      "album": {
         "name": "R.I.P. (feat. Rita Ora & Anitta)",
         "url": "https://open.spotify.com/album/2yN1kxrx1Z1CHO5VMdO2Yk"
       },
@@ -18967,7 +18989,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 216539,
       "name": "Rise",
       "url": "https://open.spotify.com/track/0s8aU1K1veT7CSpBfqZEFP"
@@ -23977,7 +23999,7 @@
       ],
       "date_added": "2020-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 205207,
       "name": "Together",
       "url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz"
@@ -25311,7 +25333,7 @@
       ],
       "date_added": "2019-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/1e9oZCCiX42nJl0AcqriVo"
@@ -26113,7 +26135,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 267117,
       "name": "Wild Life",
       "url": "https://open.spotify.com/track/6oaQuXiRKqQq9ITJBV1XmC"
@@ -26553,7 +26575,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 171128,
       "name": "You",
       "url": "https://open.spotify.com/track/4XUbIli3chdqVXfY9ljUFv"

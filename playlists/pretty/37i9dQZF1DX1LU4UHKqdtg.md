@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: THE BOYZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,683 likes - 79 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,840 likes - 79 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 5 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 |
 | 6 | [ROCKY \- Boxers Ver.](https://open.spotify.com/track/3Gjdf1Na2LhR6X7tkc4buH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ROCKY \(Boxers Ver.\)](https://open.spotify.com/album/0wJ3JKlcgsAXfzIBkJoYsN) | 3:09 |
 | 7 | [Undercover \- Japanese ver.](https://open.spotify.com/track/3JezulRWDYGqfjzq6PK65L) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Undercover \(Japanese ver.\)](https://open.spotify.com/album/2qTRlCOArOeI8JfBYk4eMF) | 3:08 |
-| 8 | [Tear Drop \-Japanese ver.\- \- Japanese ver.](https://open.spotify.com/track/1okHSSD84n50gQ6NzamOxh) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [Tear Drop \(Japanese ver.\)](https://open.spotify.com/album/3RMKTbstlXbblJ5U8CQSuh) | 3:18 |
+| 8 | [Tear Drop \- Japanese ver.](https://open.spotify.com/track/1okHSSD84n50gQ6NzamOxh) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [Tear Drop \(Japanese ver.\)](https://open.spotify.com/album/3RMKTbstlXbblJ5U8CQSuh) | 3:18 |
 | 9 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 |
 | 10 | [ALIVE](https://open.spotify.com/track/2G7qOmZGufZXTrDziq5QIs) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Into The Light](https://open.spotify.com/album/6EgsISsasLUQcy0e8CbAXQ) | 3:06 |
 | 11 | [SHE'S THE BOSS](https://open.spotify.com/track/1C2P1QRhkrAQHTq3j1YfM1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [SHE'S THE BOSS](https://open.spotify.com/album/6kPf5szTsKC6OMX3YPuxcS) | 3:47 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 78 | [Adrenaline](https://open.spotify.com/track/5SbVAjEbm6YS9qF8m8EYGD) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [CRAVITY 1ST ALBUM PART 2 \[LIBERTY : IN OUR COSMOS\]](https://open.spotify.com/album/0fQl58pOwJpkTfVUZudzpY) | 3:14 |
 | 79 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 |
 
-Snapshot ID: `MTY1NDY2ODE4NywwMDAwMDAwMDMwZDNmNzA1ZjY5Yzk1MzIwNGEyYzk5MTA0YjEzNTg5`
+Snapshot ID: `MTY1NDczNjgwMywwMDAwMDAwMDMwZDNmNzA1ZjY5Yzk1MzIwNGEyYzk5MTA0YjEzNTg5`

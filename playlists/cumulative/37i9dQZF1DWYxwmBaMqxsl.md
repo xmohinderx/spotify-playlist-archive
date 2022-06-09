@@ -4,7 +4,7 @@
 
 > Soft and moody jazz for a rainy day.
 
-133 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
+136 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Black Monday](https://open.spotify.com/track/0qgEAknJSYD0WhkIxaSU4X) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [Black Monday](https://open.spotify.com/album/6bCbsMYCQVJg1AIqZoA9dY) | 3:25 | 2022-05-31 |  |
 | [Blue in Green](https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Blue in Green](https://open.spotify.com/album/1gFhq2ad0vX0D3MyxG3Kqq) | 3:49 | 2021-12-14 |  |
 | [Blue Romance](https://open.spotify.com/track/7AL3evf6T03lEluSTET854) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Blue Romance](https://open.spotify.com/album/1SgyP8odpNQGFuRojV3XEH) | 4:02 | 2021-12-14 |  |
+| [Blueberry Street](https://open.spotify.com/track/6YeUTstb4pY8jUE3xWhX0d) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:15 | 2022-06-08 |  |
 | [Body & Soul](https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Body & Soul](https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2) | 4:44 | 2021-12-14 | 2022-05-04 |
 | [Brigas nunca mais](https://open.spotify.com/track/0BznBDSocQlKKja9oOer64) | [Stefano Bollani Trio](https://open.spotify.com/artist/15V5EYZA64Qd08o4tEZGli) | [Stone In The Water](https://open.spotify.com/album/5iF4YLfNRevhsh7WMFuWrU) | 6:24 | 2022-01-27 |  |
 | [Change of Heart](https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E) | [Turtleneck Trio](https://open.spotify.com/artist/54QkrSdChFqOKNG4S9NRcf) | [Change of Heart](https://open.spotify.com/album/3k8gus1toU2ljnUynceNNY) | 4:51 | 2021-12-14 |  |
@@ -73,6 +74,7 @@
 | [Lament](https://open.spotify.com/track/4t9htJTfaYIZJLDYMqrTCs) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Imagination](https://open.spotify.com/album/6HjWBzHz7sMtXfJ5tlFUqG) | 2:50 | 2021-12-14 |  |
 | [Landing](https://open.spotify.com/track/5Ay0F2FMw9j8HiAKqDI8re) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Landing](https://open.spotify.com/album/3iwyJEQgPwHdyBl2eCxjjZ) | 3:01 | 2021-12-14 |  |
 | [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2021-12-14 |  |
+| [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-06-08 |  |
 | [Longing](https://open.spotify.com/track/7dgPOj3RPNNreOeAUHSTce) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [Longing](https://open.spotify.com/album/2BDjjzJZW81xcSbwu0ow5c) | 3:16 | 2021-12-14 |  |
 | [Lost in Orbit](https://open.spotify.com/track/7ijPIncR5k622S2j28ktCr) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Lost in Orbit](https://open.spotify.com/album/7L3O8woHpsgk4Us0PU7YdL) | 2:33 | 2021-12-14 |  |
 | [Lover For The Day](https://open.spotify.com/track/1IpTomdIM4HvZI2CnaPszo) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 3:31 | 2022-05-24 |  |
@@ -86,7 +88,7 @@
 | [Moonbow](https://open.spotify.com/track/1l54HHTbA5ze9DnvBL93aw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Moonbow](https://open.spotify.com/album/3vAnUbVPNlM5HZzoYUFh4t) | 3:52 | 2022-04-26 |  |
 | [Murray's Moon](https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Murray's Moon](https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW) | 2:07 | 2021-12-14 |  |
 | [My Foolish Heart](https://open.spotify.com/track/4mHo5Z7SZA6nynbGOirSrA) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [My Foolish Heart](https://open.spotify.com/album/460v4rKXEU7AFP6YOgVc8L) | 3:37 | 2021-12-14 |  |
-| [Myren](https://open.spotify.com/track/0ndyWE3s5txZ0p4YXMiVDj) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Myren](https://open.spotify.com/album/32wLo8nPlRDWr2aBvqStje) | 2:35 | 2021-12-14 |  |
+| [Myren](https://open.spotify.com/track/0ndyWE3s5txZ0p4YXMiVDj) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Myren](https://open.spotify.com/album/32wLo8nPlRDWr2aBvqStje) | 2:35 | 2021-12-14 | 2022-06-09 |
 | [Naima](https://open.spotify.com/track/360beQMahQ2FdZ9OmWYiBT) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps](https://open.spotify.com/album/7cZ6oBx0SEUPDAoxJtxNDh) | 4:18 | 2021-12-14 |  |
 | [Neighbours](https://open.spotify.com/track/0eo6CVRixQy70hPIUHh36m) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [In The Days Of Our Love](https://open.spotify.com/album/2QBCdxvkPxKABMrvkDd8aL) | 3:06 | 2021-12-14 |  |
 | [Never Let Me Go](https://open.spotify.com/track/6JqS6NY4vXjP9sTAwH8k6N) | [Alexander Martin Jazz Trio](https://open.spotify.com/artist/5OBtP3zDHNFdzP9cO0eHSm) | [Lil' Darlin'](https://open.spotify.com/album/6PYtdDNbiWRopTRvYUbjPh) | 4:18 | 2021-12-14 |  |
@@ -134,6 +136,7 @@
 | [When Your Lover Has Gone \- Instrumental](https://open.spotify.com/track/2OqRnfC8QqRdcUfVGtidcr) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [2 Trumpets](https://open.spotify.com/album/4xMWuvN8wdA7k4NPfzo0EN) | 5:10 | 2021-12-14 |  |
 | [Where Or When](https://open.spotify.com/track/3K7okDLoeWIb1BxsGDVrNl) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Where Or When](https://open.spotify.com/album/4Tiyb5NGvdSuWkfhHfstou) | 3:23 | 2022-04-11 |  |
 | [Would You Be Mine?](https://open.spotify.com/track/6lMSD6SW8sazpPANmZSKi0) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Would You Be Mine?](https://open.spotify.com/album/2VyiqxfAFBkkT6QR29PoA2) | 2:38 | 2021-12-14 | 2022-05-04 |
+| [Yesterday](https://open.spotify.com/track/2eIry6lu8pdyShi9RPk2dR) | [Tommies Trio](https://open.spotify.com/artist/2k2e33oHCm8aQalDfKTvz6) | [Yesterday](https://open.spotify.com/album/5mfTNVaNN6hwzcBKZ6Pj9w) | 3:47 | 2022-06-08 |  |
 | [Yet another dream](https://open.spotify.com/track/5tJwP1uR77rBWkFUdzmB2Y) | [Tom Bates](https://open.spotify.com/artist/2HyugLj7NVwGIowZWzX2D1) | [Just a fool](https://open.spotify.com/album/293iki1PCPrjghcqs9r8dY) | 4:46 | 2021-12-14 |  |
 | [You Confuse Me](https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [You Confuse Me](https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip) | 3:11 | 2021-12-14 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [You Don't Know What Love Is](https://open.spotify.com/album/3WpU0MCWwrDDqsA3KZQJnt) | 2:30 | 2021-12-14 |  |

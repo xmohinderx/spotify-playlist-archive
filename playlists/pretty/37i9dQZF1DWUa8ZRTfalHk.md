@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > The hits of tomorrow \(...and yesterday\) are on Spotify today\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,535,460 likes - 84 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,536,542 likes - 84 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

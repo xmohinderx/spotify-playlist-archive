@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 242760,
       "name": "Act of Love",
       "url": "https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 218440,
       "name": "Alone Again Or",
       "url": "https://open.spotify.com/track/34dAKRy0pfwYylW7ivoOgy"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 318172,
       "name": "ANNIVERSARY",
       "url": "https://open.spotify.com/track/6w4goTlu5ciLeHNntz20La"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 357266,
       "name": "Bitter Sweet Symphony",
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 358426,
       "name": "Bitter Sweet Symphony",
       "url": "https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 235613,
       "name": "Break The Man",
       "url": "https://open.spotify.com/track/5NFoLXGzAzm3aFZEEaZ98c"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 379213,
       "name": "Comfortably Numb - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/7Fg4jpwpkdkGCvq1rrXnvx"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 262826,
       "name": "Do You Remember The First Time?",
       "url": "https://open.spotify.com/track/0txLC5NA64M8siGn3mnET0"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 234753,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 193973,
       "name": "Flying On The Ground",
       "url": "https://open.spotify.com/track/0EaqNRuOrlsJsW23gG8i7v"
@@ -813,10 +813,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 142293,
       "name": "Hanging On The Telephone - Remastered",
       "url": "https://open.spotify.com/track/343iSx7QQ41UeroboMrhmh"
+    },
+    {
+      "album": {
+        "name": "Hanging On Your Hinges",
+        "url": "https://open.spotify.com/album/3RaeEvz6wetiL4pv5CRPCT"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177418,
+      "name": "Hanging On Your Hinges",
+      "url": "https://open.spotify.com/track/7aVgDLAlfIJIsTW3uocyIR"
     },
     {
       "album": {
@@ -1001,7 +1019,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 308293,
       "name": "I'm Losing More Than I'll Ever Have",
       "url": "https://open.spotify.com/track/3jEJQGprFXpeICSRtPKGDc"
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 287573,
       "name": "In Better Times",
       "url": "https://open.spotify.com/track/6Qjaa8xn44u0WgRHhF8maL"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 276666,
       "name": "Live Forever - Remastered",
       "url": "https://open.spotify.com/track/0nOF9ewQlwzVU0qKPR2DTq"
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 209346,
       "name": "Lover Undiscovered",
       "url": "https://open.spotify.com/track/3YVQiEpzGi0E4cP0YBkVX3"
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 177466,
       "name": "Monkey Gone to Heaven",
       "url": "https://open.spotify.com/track/1lFC3sMgOcDrVzNh8zXRnl"
@@ -1625,7 +1643,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 229026,
       "name": "Orwellian",
       "url": "https://open.spotify.com/track/5D651d3YNq4kqWG8YdO29n"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 187040,
       "name": "Parklife",
       "url": "https://open.spotify.com/track/3mqRLlD9j92BBv1ueFhJ1l"
@@ -1715,7 +1733,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 200400,
       "name": "Pumping On Your Stereo",
       "url": "https://open.spotify.com/track/4pCfNA9bjI3pccG5s9fm7J"
@@ -1881,7 +1899,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 292720,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/1t6iqwiBtWXRrZZqZsud56"
@@ -2029,7 +2047,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 187680,
       "name": "Teach Me To Tango",
       "url": "https://open.spotify.com/track/5oIrbqdUT5z05cld5cXbaI"
@@ -2083,7 +2101,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 230893,
       "name": "The Buzz",
       "url": "https://open.spotify.com/track/3fMW1VEAcVw5UXfXYxyjoc"
@@ -2177,7 +2195,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 219226,
       "name": "The Secret He Had Missed (feat. Julia Cumming)",
       "url": "https://open.spotify.com/track/2fP6OxPKBWkCj2nmxli9Ca"
@@ -2195,7 +2213,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 253226,
       "name": "The Tipping Point",
       "url": "https://open.spotify.com/track/3TVAzlsAyk0thTcwRMEIm2"
@@ -2239,7 +2257,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 170653,
       "name": "This Love Starved Heart of Mine (It's Killing Me)",
       "url": "https://open.spotify.com/track/32SqqH3of0MA2bwuy3C8tW"
@@ -2275,7 +2293,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 245946,
       "name": "Trash",
       "url": "https://open.spotify.com/track/5sVPOuJJAmidyxU8LjJBVu"
@@ -2481,7 +2499,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 232746,
       "name": "You Should Be Dancing",
       "url": "https://open.spotify.com/track/1Iu66OVgb8wioY6tpesoQS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > Hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,189 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,478 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [One Way feat\. YONCE](https://open.spotify.com/track/4MurygBmG61XN24T1VbQQy) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf) | [One Way feat\. YONCE](https://open.spotify.com/album/7lIJNVESbT9N8qWr0INc97) | 3:29 |
 | 50 | [MELODY \(prod.by BREIMEN\)](https://open.spotify.com/track/5ExfTiWAHvxG03Kq9zrjBn) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD), [井口理](https://open.spotify.com/artist/573aEcIHzIyX9guZtasykj) | [MELODY \(prod.by BREIMEN\)](https://open.spotify.com/album/6l85wjdD63ne29466jIuOV) | 4:05 |
 
-Snapshot ID: `MTY1NDUwMDYwMSwwMDAwMDMyNTAwMDAwMTgxMzdlYmFmNzgwMDAwMDE4MTJlOWRhNTQ3`
+Snapshot ID: `MTY1NDY5NTA4MCwwMDAwMDMyNjAwMDAwMTgxNDM4MzMxNWYwMDAwMDE4MTJlOWRhNTQ3`

@@ -96,6 +96,24 @@
     },
     {
       "album": {
+        "name": "ASE - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "ASE - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
+    },
+    {
+      "album": {
         "name": "Asibe Happy",
         "url": "https://open.spotify.com/album/0K6ImXCD9oG3p3HBcAq9UA"
       },
@@ -471,7 +489,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 158400,
       "name": "Commander",
       "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
@@ -533,7 +551,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 129544,
       "name": "Cubana",
       "url": "https://open.spotify.com/track/6L0owZVOkCYYajP9ChDHdX"
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 200412,
       "name": "In Love",
       "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
@@ -1559,7 +1577,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 169848,
       "name": "Melody (feat. Jaywillz)",
       "url": "https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 218181,
       "name": "My Man",
       "url": "https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ"
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 190000,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/1mlMiJJUAABI8l8FqkASd4"
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 223030,
       "name": "PRESS",
       "url": "https://open.spotify.com/track/4oOHLldeSQn3WVwcyrN4zm"
@@ -2447,7 +2465,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 177373,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
@@ -2697,7 +2715,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 154000,
       "name": "S\u00e1r\u00e9",
       "url": "https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1"

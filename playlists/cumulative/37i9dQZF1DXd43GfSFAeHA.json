@@ -950,6 +950,24 @@
     },
     {
       "album": {
+        "name": "Z5M",
+        "url": "https://open.spotify.com/album/2qD60uCdyfhVd0tVNmLLDJ"
+      },
+      "artists": [
+        {
+          "name": "Blvxb",
+          "url": "https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158896,
+      "name": "Kilo",
+      "url": "https://open.spotify.com/track/0t6XwIJqdZuJ5pUFMH39dp"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
       },
@@ -1527,7 +1545,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 199224,
       "name": "Thellaw",
       "url": "https://open.spotify.com/track/4aQTgttmM6e6MMk6c0cmIF"

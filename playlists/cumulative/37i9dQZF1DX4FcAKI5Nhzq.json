@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: JO YURI",
+  "description": "Future K-Pop hits! Cover: Son Dong Woon",
   "name": "K-Pop Rising",
   "published_playlist_ids": [
     "365X6AQFdYqkXtDjWksHVf"
@@ -3717,7 +3717,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 222893,
       "name": "Grey Suit",
       "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
@@ -8651,7 +8651,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 203733,
       "name": "Switch",
       "url": "https://open.spotify.com/track/2muZNT1f0eVDC6qbCto2Ma"
@@ -9173,6 +9173,24 @@
       "duration_ms": 227440,
       "name": "TO BE OR NOT TO BE",
       "url": "https://open.spotify.com/track/2KGUQQwqIBTDKrHeR85Ahp"
+    },
+    {
+      "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/0NKjnMeZCTbRLZrMsbuMYg"
+      },
+      "artists": [
+        {
+          "name": "Son Dong Woon",
+          "url": "https://open.spotify.com/artist/5UzpNJd6zHGN9syxBN8fRY"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "Today's Weather",
+      "url": "https://open.spotify.com/track/5qFmtbxP5KjekiXwv0axsh"
     },
     {
       "album": {

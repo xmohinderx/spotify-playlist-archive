@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 148571,
       "name": "100tas",
       "url": "https://open.spotify.com/track/4Wdin6LVBOduIVlCKi8FYK"
@@ -558,6 +558,24 @@
     },
     {
       "album": {
+        "name": "Disneyland Paris",
+        "url": "https://open.spotify.com/album/1nl8pRMZ9d59YWbNyrzanG"
+      },
+      "artists": [
+        {
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144624,
+      "name": "Disneyland Paris",
+      "url": "https://open.spotify.com/track/2AeMKItKccbghNb24kruJB"
+    },
+    {
+      "album": {
         "name": "Dunas",
         "url": "https://open.spotify.com/album/2QJCNYbQjm27rhgM2LIwSK"
       },
@@ -645,7 +663,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 162390,
       "name": "en ning\u00fan lugar",
       "url": "https://open.spotify.com/track/09fMLOWC1wK7DtHRRr1deO"
@@ -1175,7 +1193,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 204489,
       "name": "Me Enamora",
       "url": "https://open.spotify.com/track/6SPwsGI1IMrflIj83XglJX"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 134954,
       "name": "Mi Manera de Vivir",
       "url": "https://open.spotify.com/track/1kLfjR7DKezovtAhOTqdbF"
@@ -1309,6 +1327,28 @@
       "duration_ms": 133333,
       "name": "M\u00edralo",
       "url": "https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2"
+    },
+    {
+      "album": {
+        "name": "Nada Mal",
+        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        },
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "Nada Mal",
+      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
     },
     {
       "album": {
@@ -1461,7 +1501,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 202126,
       "name": "Ojal\u00e1 Fu\u00e9ramos Amigos (Buffetlibre Remix)",
       "url": "https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB"
@@ -1555,7 +1595,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 125390,
       "name": "Piedad",
       "url": "https://open.spotify.com/track/55Q8EMukWtblmlmU1Pdnrb"
@@ -1613,7 +1653,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 134117,
       "name": "Por Encima Del Dinero",
       "url": "https://open.spotify.com/track/3yaO2ownmk75ykFH6wOPMc"
@@ -2085,6 +2125,28 @@
       "duration_ms": 196881,
       "name": "T\u00fa Me Pones Nervioso",
       "url": "https://open.spotify.com/track/7I1w9AjG7Y4LLA7jXSFTiQ"
+    },
+    {
+      "album": {
+        "name": "Un Amor De Locos",
+        "url": "https://open.spotify.com/album/3GUmhfkz5WZo0LN9daXoGp"
+      },
+      "artists": [
+        {
+          "name": "Cano",
+          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+        },
+        {
+          "name": "Los del Control",
+          "url": "https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197059,
+      "name": "Un Amor De Locos",
+      "url": "https://open.spotify.com/track/0KngGwsqYzLisleU46WuLH"
     },
     {
       "album": {

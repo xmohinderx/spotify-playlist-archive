@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "A Little Bit of Love",
+        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164359,
+      "name": "A Little Bit of Love",
+      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
+    },
+    {
+      "album": {
         "name": "A Song for the Drunk and Broken Hearted",
         "url": "https://open.spotify.com/album/5z6BU4hFDdsZ1z208K5K0a"
       },
@@ -113,7 +131,7 @@
       ],
       "date_added": "2020-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 229000,
       "name": "Adeline (feat. Kathleen)",
       "url": "https://open.spotify.com/track/4upefrum9ayh1aAgo52f4k"
@@ -495,7 +513,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 180010,
       "name": "Blood Wolf Moon",
       "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
@@ -549,7 +567,7 @@
       ],
       "date_added": "2019-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 216315,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7"
@@ -791,7 +809,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 161906,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
@@ -1005,7 +1023,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 179582,
       "name": "Dancin' Around My Grave",
       "url": "https://open.spotify.com/track/15iM1wuREVujfuboVzZJSK"
@@ -1547,7 +1565,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 236066,
       "name": "Garden",
       "url": "https://open.spotify.com/track/772Nh0P9blzezlBWi9xzkH"
@@ -2709,7 +2727,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 220880,
       "name": "Made Up Mind",
       "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
@@ -3415,7 +3433,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 191453,
       "name": "Puppy and a Truck",
       "url": "https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm"
@@ -3855,7 +3873,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 222813,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
@@ -4421,7 +4439,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 360933,
       "name": "The Stable Song",
       "url": "https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU"
@@ -4959,7 +4977,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 214213,
       "name": "What If I",
       "url": "https://open.spotify.com/track/4WseJ30wu5uelTqxvAK9oy"
@@ -5053,7 +5071,7 @@
       ],
       "date_added": "2019-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 217026,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/6oa5Vfov0r90SK63nVvTii"
@@ -5309,7 +5327,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 204333,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/4LSi50PwwZFOpkusSFu9Pd"

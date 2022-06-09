@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Maur + Goodboys
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,212 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,300 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 56 | [Soul Full \(feat\. Joe Killington\)](https://open.spotify.com/track/4o8bcX3KzqCI09Xf4a37mJ) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Mortimer](https://open.spotify.com/artist/7yJpTTkTOkN7pvn39nga98), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Soul Full \(feat\. Joe Killington\)](https://open.spotify.com/album/0U7GxQHdZQB0nWrrWEOIEX) | 3:15 |
 | 57 | [Is It You](https://open.spotify.com/track/4jlS72eGLijzfr7PymxDYi) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv) | [Is It You](https://open.spotify.com/album/0slFvrkkV4qgU8HPsDZDSh) | 2:39 |
 | 58 | [Siento](https://open.spotify.com/track/65d4aua5FrYn9CyKfmABR4) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Siento](https://open.spotify.com/album/2gXRx1iRPgKVSltTi7eBNa) | 3:37 |
-| 59 | [Fools Mate \- Sally C Remix](https://open.spotify.com/track/0nezQkchrWxnx08bwjWEA0) | [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo) | [Fools Mate \(Sally C Remix\)](https://open.spotify.com/album/3BDbcspFHAosFMkYRJJE0K) | 5:18 |
+| 59 | [Fools Mate \- Sally C Remix](https://open.spotify.com/track/0nezQkchrWxnx08bwjWEA0) | [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo), [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [Fools Mate \(Sally C Remix\)](https://open.spotify.com/album/3BDbcspFHAosFMkYRJJE0K) | 5:18 |
 | 60 | [Tu Amor](https://open.spotify.com/track/7bb7nhVrlhSS9xRMRt8f2w) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [EP 1](https://open.spotify.com/album/6Uyw2VR9uv6utcRx57CVUX) | 5:48 |
 | 61 | [Isolate](https://open.spotify.com/track/1S53GdSL2ZmYb2JkYXPMcZ) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Isolate](https://open.spotify.com/album/2q04hZi8qndzyhp6aGBwtv) | 4:03 |
 | 62 | [It's A Killa](https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [It's A Killa](https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt) | 3:20 |
