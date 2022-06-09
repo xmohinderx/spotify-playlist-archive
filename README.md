@@ -1753,6 +1753,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Jump Up!](/playlists/pretty/37i9dQZF1DX4to60X6goeK.md)
 - [June 10](/playlists/pretty/1pARmsw0z4yebhBtZKxAU0.md)
 - [June 2](/playlists/pretty/5PzDJIsyNnFxgu0t6Lf41G.md)
+- [June Tunes](/playlists/pretty/37i9dQZF1DX8eMyhtzAuvp.md)
 - [Jungle Classics](/playlists/pretty/37i9dQZF1DWTv94Wk9KTkJ.md)
 - [Just Good Music](/playlists/pretty/37i9dQZF1DX0b1hHYQtJjp.md)
 - [Just Me and the Blues](/playlists/pretty/37i9dQZF1DWThcryaU9mXU.md)
